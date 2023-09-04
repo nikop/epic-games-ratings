@@ -33,7 +33,7 @@
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
-| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.89% |
+| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.70% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
@@ -70,11 +70,11 @@
 | 68 | [The Complex](games/t/the_complex.md) | 3.31% |
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.05% |
-| 72 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
-| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.93% |
-| 73 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
-| 73 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.10% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.05% |
+| 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
+| 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
+| 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 77 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -91,12 +91,12 @@
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 91 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 92 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.97% |
-| 94 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
-| 95 | [Night Book](games/n/night_book.md) | 1.86% |
-| 96 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 96 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 1.85% |
+| 92 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.02% |
+| 93 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 1.97% |
+| 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
+| 96 | [Night Book](games/n/night_book.md) | 1.86% |
+| 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 99 | [Sifu](games/s/sifu.md) | 1.81% |
 | 100 | [Frogun](games/f/frogun.md) | 1.80% |
@@ -137,8 +137,8 @@
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.67% |
 | 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 138 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.64% |
-| 139 | [Haven](games/h/haven.md) | 0.63% |
+| 138 | [Haven](games/h/haven.md) | 0.63% |
+| 138 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.63% |
 | 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
 | 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 140 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.61% |
@@ -197,8 +197,8 @@
 | 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 194 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 197 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
+| 198 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 198 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
-| 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
 | 200 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 201 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 201 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
@@ -571,4 +571,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,170 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,172 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

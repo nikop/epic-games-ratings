@@ -3,6 +3,7 @@
 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 2023-09-05 | 17 (1,000 XP) | 0 | - | - |
 | [Shalnor Legends 2: Trials of Thunder](games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 2023-09-05 | 25 (1,000 XP) | 1 | - | - |
 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 2023-09-05 | 25 (1,000 XP) | 70 | - | - |
+| [Nextbots In The Backrooms](games/e/ee30a29b65554c92a720ad1c8d3e4b18.md) | 2023-09-05 | - |  | - | - |
 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2023-09-06 | 44 (1,000 XP) | 0 | - | - |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | 21 (1,000 XP) | 0 | - | - |
 | [Lempo](games/l/lempo.md) | 2023-09-07 | - |  | - | - |
@@ -229,6 +230,7 @@
 | [Vampire Clans](games/b/b9db41117c624579ae611ce280503693.md) | 2024-12-31 | - |  | - | - |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-12-31 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
+| [SpasmsOfStupidity](games/c/c56dd8ab2daf431c9feacc0fc87b42fc.md) | 2025-12-31 | - |  | - | - |
 | [33 Immortals](games/0/059c9bf09df94e09b059eefaea025de1.md) | 2099-01-01 | - |  | - | - |
 | [A Frog's Job](games/a/a_frog's_job.md) | 2099-01-01 | - |  | - | - |
 | [A Rats Quest - The Way Back Home](games/e/ed29b31eb15546d1803598fd2264ea1e.md) | 2099-01-01 | - |  | - | - |
