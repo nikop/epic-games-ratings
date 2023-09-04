@@ -19,7 +19,7 @@
 | King of fish | 8.00% | ~26 |
 | I love parks | 8.00% | ~26 |
 | What would we do if we can't go out with friends? | 6.00% | ~20 |
-| Food producer | 4.00% | ~13 |
+| Food producer | 5.00% | ~16 |
 | Metropolurbek | 4.00% | ~13 |
 | I am very happy! | 3.00% | ~10 |
 | Rebel city | 3.00% | ~10 |

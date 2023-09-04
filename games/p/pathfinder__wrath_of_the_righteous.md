@@ -57,9 +57,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Dreadful Dragon | 0.70% | ~78 |
 | Masterful Charge | 0.60% | ~67 |
 | Prelate's Nemesis | 0.50% | ~56 |
+| Ashes to Ashes | 0.40% | ~45 |
 | Masterful Dispel | 0.30% | ~34 |
 | Just Pathetic | 0.30% | ~34 |
-| Ashes to Ashes | 0.30% | ~34 |
 | Path of the Swarm | 0.20% | ~22 |
 | Equal to Aroden | 0.10% | ~11 |
 | Spirit of Adventure | 0.10% | ~11 |

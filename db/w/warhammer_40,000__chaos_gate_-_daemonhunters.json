@@ -3766,9 +3766,9 @@
       "ID": "MissionVictory_BoardingAction",
       "SetID": "2im8phi",
       "Name": "Tactical Sabotage",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "TentarusHive_Destroyed",
@@ -3796,8 +3796,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-09-04T20:05:29.778971+00:00",
+  "LastChanged_Achievements": "2023-09-04T21:05:07.1312228+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:31.6122131+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:59:11.2832273+00:00",
-  "LastUpdate_Achievements": "2023-09-04T20:05:29.779039+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:58:46.1745708+00:00",
+  "LastUpdate_Achievements": "2023-09-04T21:05:07.1312877+00:00"
 }

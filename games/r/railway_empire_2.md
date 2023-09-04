@@ -57,9 +57,9 @@ Rating: 4.48 (Ranked 602)
 | Let off some steam | 4.00% | ~75 |
 | Accurate | 3.00% | ~56 |
 | European Union | 0.60% | ~11 |
+| Together we stand | 0.60% | ~11 |
 | Three Cheers for Progress | 0.50% | ~9 |
 | United States | 0.50% | ~9 |
-| Together we stand | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,873 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 271)  

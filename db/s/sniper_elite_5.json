@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3582,
+  "EOS_Progressed": 3583,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6485,6 +6485,11 @@
       "Time": "2023-09-04T20:06:56.528847+00:00",
       "NumProgressed": 3582,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-04T21:06:34.1102062+00:00",
+      "NumProgressed": 3583,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6544,7 +6549,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6624,7 +6629,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6712,7 +6717,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -6720,7 +6725,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6760,7 +6765,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -6872,7 +6877,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7063,13 +7068,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3533,
+      "Progressed": 3534,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3582,
+      "Progressed": 3583,
       "Completed": 10
     }
   ],
@@ -7077,8 +7082,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-04T20:06:56.5288467+00:00",
+  "LastChanged_Achievements": "2023-09-04T21:06:34.1102055+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:57:19.9914775+00:00",
-  "LastUpdate_Achievements": "2023-09-04T20:06:56.5289346+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:57:02.3200315+00:00",
+  "LastUpdate_Achievements": "2023-09-04T21:06:34.1102908+00:00"
 }

@@ -20,7 +20,7 @@
 | Fighting is cool | 69.00% | ~218 |
 | Hello, world! | 69.00% | ~218 |
 | No bullying more | 68.00% | ~215 |
-| Pal of your father? | 66.00% | ~209 |
+| Pal of your father? | 67.00% | ~212 |
 | Employee of the month | 65.00% | ~205 |
 | Spirit of the past | 64.00% | ~202 |
 | Workout professional | 62.00% | ~196 |
@@ -29,8 +29,8 @@
 | Champion – starter pack | 60.00% | ~190 |
 | It's good to be alive | 60.00% | ~190 |
 | Own four walls | 60.00% | ~190 |
+| Employee of the year | 60.00% | ~190 |
 | Fight for life | 59.00% | ~186 |
-| Employee of the year | 59.00% | ~186 |
 | Little hacker | 58.00% | ~183 |
 | Intriguing candies | 57.00% | ~180 |
 | Legal courier | 55.00% | ~174 |

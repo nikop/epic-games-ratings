@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,787 |
+| Just One...More...Term... | 76.00% | ~3,788 |
 | Un-Lonely Island | 47.00% | ~2,342 |
-| The Beginning of a Servantship | 46.00% | ~2,292 |
+| The Beginning of a Servantship | 46.00% | ~2,293 |
 | Trade Is My Trait | 37.00% | ~1,844 |
 | Number 18 | 24.00% | ~1,196 |
 | We Don't Have Time For That | 19.00% | ~947 |
@@ -33,10 +33,10 @@ Number of Ratings: 398  (23.09.2022)
 | Watch The World Burn | 5.00% | ~249 |
 | Fairy Tale Come True | 5.00% | ~249 |
 | Apocalypso | 4.00% | ~199 |
-| Been there, Done That | 3.00% | ~149 |
-| Narcissist | 3.00% | ~149 |
-| Promising Endeavors | 3.00% | ~149 |
-| The Time For Wonders | 3.00% | ~149 |
+| Been there, Done That | 3.00% | ~150 |
+| Narcissist | 3.00% | ~150 |
+| Promising Endeavors | 3.00% | ~150 |
+| The Time For Wonders | 3.00% | ~150 |
 | Chain Gang | 2.00% | ~100 |
 | One Does Not Simply Stage A Coup | 2.00% | ~100 |
 | Sublime Subliminal Supreme | 2.00% | ~100 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~45 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,983 (Ranked 149)  
+Progressed: 4,984 (Ranked 149)  
 Completed: 2 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 2 (0.04%) (Ranked 240)
 | 2023-09-01 | 4,947 | 2 |
 | 2023-09-02 | 4,958 | 2 |
 | 2023-09-03 | 4,974 | 2 |
-| 2023-09-04 | 4,983 | 2 |
+| 2023-09-04 | 4,984 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 340)  
 Sum: 681 (Ranked 280)  

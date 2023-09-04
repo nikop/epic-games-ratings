@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3147,
+  "EOS_Progressed": 3148,
   "EOS_Completed": 168,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.34,
   "EosHistory": [
@@ -4520,6 +4520,11 @@
       "Time": "2023-09-03T21:05:46.4963185+00:00",
       "NumProgressed": 3147,
       "NumCompleted": 168
+    },
+    {
+      "Time": "2023-09-04T21:04:38.695053+00:00",
+      "NumProgressed": 3148,
+      "NumCompleted": 168
     }
   ],
   "TotalAchievements": 24,
@@ -4539,7 +4544,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "11",
@@ -4571,7 +4576,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "15",
@@ -4619,7 +4624,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "20",
@@ -4691,7 +4696,7 @@
       "Name": "PRO",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "7",
@@ -4699,7 +4704,7 @@
       "Name": "MASTER",
       "Percentage": 18,
       "XP": 65,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "8",
@@ -4722,13 +4727,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3147,
+      "Progressed": 3148,
       "Completed": 168
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-04T20:05:01.5281946+00:00",
+  "LastChanged_Achievements": "2023-09-04T21:04:38.6950526+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:39.8316539+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:59:17.3751476+00:00",
-  "LastUpdate_Achievements": "2023-09-04T20:05:01.5282323+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:58:52.3175521+00:00",
+  "LastUpdate_Achievements": "2023-09-04T21:04:38.6950868+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ff50f85ed609454e80ac46d9496da34d",
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 260,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 574,
@@ -3742,6 +3742,6 @@
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
   "LastChanged": "2023-09-04T20:00:19.8874714+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:42.6939381+00:00",
-  "LastUpdate_Ratings": "2023-09-04T20:00:19.887472+00:00",
-  "LastUpdate_Achievements": "2023-09-04T20:06:17.8173762+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:59:53.0258357+00:00",
+  "LastUpdate_Achievements": "2023-09-04T21:05:54.6887987+00:00"
 }

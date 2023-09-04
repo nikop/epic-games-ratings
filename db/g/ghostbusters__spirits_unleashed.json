@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1888,10 +1888,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2272,
       "NumberOfAwardsMax": 251
+    },
+    {
+      "Time": "2023-09-04T20:58:50.0881775+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2273,
+      "NumberOfAwardsMax": 251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2272,
+  "NumberOfAwards": 2273,
   "NumberOfAwardsMax": 251,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1929,7 +1935,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1968,7 +1974,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25584,
+  "EOS_Progressed": 25585,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 1,
@@ -12048,6 +12054,11 @@
       "Time": "2023-09-04T20:05:28.8166432+00:00",
       "NumProgressed": 25584,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-04T21:05:06.1152822+00:00",
+      "NumProgressed": 25585,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -12059,7 +12070,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18676
+      "UsersEstimate": 18677
     },
     {
       "ID": "Animated",
@@ -12075,7 +12086,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8954
+      "UsersEstimate": 8955
     },
     {
       "ID": "Best_Insurance",
@@ -12115,7 +12126,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5884
+      "UsersEstimate": 5885
     },
     {
       "ID": "Cultured",
@@ -12139,7 +12150,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "Discovery",
@@ -12147,7 +12158,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15606
+      "UsersEstimate": 15607
     },
     {
       "ID": "Dont_Need_These",
@@ -12163,7 +12174,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5884
+      "UsersEstimate": 5885
     },
     {
       "ID": "Efficient",
@@ -12171,7 +12182,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16118
+      "UsersEstimate": 16119
     },
     {
       "ID": "Escape_Artist",
@@ -12195,7 +12206,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13815
+      "UsersEstimate": 13816
     },
     {
       "ID": "GB_In_Training",
@@ -12203,7 +12214,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7675
+      "UsersEstimate": 7676
     },
     {
       "ID": "Ghost_Expert",
@@ -12219,7 +12230,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7675
+      "UsersEstimate": 7676
     },
     {
       "ID": "Legions",
@@ -12323,7 +12334,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "Side_Hustle",
@@ -12363,7 +12374,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22002
+      "UsersEstimate": 22003
     },
     {
       "ID": "Summoner",
@@ -12395,7 +12406,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 11001
+      "UsersEstimate": 11002
     },
     {
       "ID": "Terrifying",
@@ -12419,7 +12430,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10745
+      "UsersEstimate": 10746
     },
     {
       "ID": "Tobins_Prodigy",
@@ -12443,7 +12454,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12280
+      "UsersEstimate": 12281
     },
     {
       "ID": "Welcome_Crew",
@@ -12466,16 +12477,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25584,
+      "Progressed": 25585,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-04T19:00:14.8754215+00:00",
-  "LastChanged_Achievements": "2023-09-04T20:05:28.8166428+00:00",
+  "LastChanged": "2023-09-04T20:58:50.0881774+00:00",
+  "LastChanged_Achievements": "2023-09-04T21:05:06.1152813+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:59:15.2547074+00:00",
-  "LastUpdate_Achievements": "2023-09-04T20:05:28.8167333+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:58:50.088178+00:00",
+  "LastUpdate_Achievements": "2023-09-04T21:05:06.1153641+00:00"
 }

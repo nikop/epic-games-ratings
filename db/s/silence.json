@@ -284,9 +284,9 @@
       "ID": "1004_achv_wormtooth",
       "SetID": "dhn82m5",
       "Name": "Open up wide",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "1006_achv_chapter1",
@@ -300,17 +300,17 @@
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -332,9 +332,9 @@
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "2002_achv_burnswamp",
@@ -356,9 +356,9 @@
       "ID": "2002_achv_taste",
       "SetID": "dhn82m5",
       "Name": "Haute cuisine",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "2004_achv_abyss",
@@ -533,8 +533,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-04T20:04:50.9238511+00:00",
+  "LastChanged_Achievements": "2023-09-04T21:04:28.0963854+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:22.5153929+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:59:57.9503529+00:00",
-  "LastUpdate_Achievements": "2023-09-04T20:04:50.923884+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:59:30.3335321+00:00",
+  "LastUpdate_Achievements": "2023-09-04T21:04:28.0964157+00:00"
 }

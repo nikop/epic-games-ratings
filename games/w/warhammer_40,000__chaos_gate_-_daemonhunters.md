@@ -29,13 +29,13 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 0.70% | ~22 |
 | Only in Death | 0.70% | ~22 |
 | A Gift Spurned | 0.70% | ~22 |
+| Tactical Sabotage | 0.70% | ~22 |
 | Fleetmaster | 0.60% | ~19 |
 | Daemonkeeper | 0.60% | ~19 |
 | Exterminator | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
 | Long Distance Call | 0.60% | ~19 |
 | Tactical Flexibility | 0.60% | ~19 |
-| Tactical Sabotage | 0.60% | ~19 |
 | Mind Like a Fortress | 0.50% | ~16 |
 | Preservationist | 0.50% | ~16 |
 | Engine Kill | 0.50% | ~16 |

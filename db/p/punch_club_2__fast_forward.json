@@ -1494,9 +1494,9 @@
       "ID": "met_casey",
       "SetID": "69co12a",
       "Name": "Pal of your father?",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 212
     },
     {
       "ID": "met_k",
@@ -1726,9 +1726,9 @@
       "ID": "work_promotion_3",
       "SetID": "69co12a",
       "Name": "Employee of the year",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     }
   ],
   "AchievementSets": [
@@ -1741,8 +1741,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-04T20:03:48.6149107+00:00",
+  "LastChanged_Achievements": "2023-09-04T21:03:25.039415+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:57:22.1664435+00:00",
-  "LastUpdate_Achievements": "2023-09-04T20:03:48.6149677+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:57:03.8045288+00:00",
+  "LastUpdate_Achievements": "2023-09-04T21:03:25.0394708+00:00"
 }

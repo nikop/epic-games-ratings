@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -392,7 +392,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19427,
+  "EOS_Progressed": 19429,
   "EOS_Completed": 386,
   "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 7,
@@ -15077,6 +15077,11 @@
       "Time": "2023-09-04T20:03:22.1793166+00:00",
       "NumProgressed": 19427,
       "NumCompleted": 386
+    },
+    {
+      "Time": "2023-09-04T21:02:28.3017016+00:00",
+      "NumProgressed": 19429,
+      "NumCompleted": 386
     }
   ],
   "TotalAchievements": 20,
@@ -15112,7 +15117,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -15208,7 +15213,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 14959
+      "UsersEstimate": 14960
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15247,15 +15252,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19427,
+      "Progressed": 19429,
       "Completed": 386
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-04T20:03:22.1793162+00:00",
+  "LastChanged_Achievements": "2023-09-04T21:02:28.3017011+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-04T20:00:21.3378166+00:00",
-  "LastUpdate_Achievements": "2023-09-04T20:03:22.1794009+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:59:55.4218516+00:00",
+  "LastUpdate_Achievements": "2023-09-04T21:02:28.3018026+00:00"
 }
