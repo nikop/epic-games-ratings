@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38060,
+  "EOS_Progressed": 38063,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15956,6 +15956,11 @@
       "Time": "2023-09-04T15:03:28.0236754+00:00",
       "NumProgressed": 38060,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-04T16:03:46.4524168+00:00",
+      "NumProgressed": 38063,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -16023,7 +16028,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3425
+      "UsersEstimate": 3426
     },
     {
       "ID": "goals75",
@@ -16103,7 +16108,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "playerIzel",
@@ -16223,7 +16228,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "unlockmaya",
@@ -16278,15 +16283,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38060,
+      "Progressed": 38063,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:03:28.0236747+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:03:46.452416+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.1649618+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:59:34.6260698+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:03:28.023808+00:00"
+  "LastUpdate_Ratings": "2023-09-04T16:00:38.8867441+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:03:46.4525684+00:00"
 }

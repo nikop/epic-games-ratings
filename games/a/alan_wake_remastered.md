@@ -36,7 +36,7 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 9.00% | ~5,607 |
 | Right of Way | 9.00% | ~5,607 |
 | Tornado Wrangler | 8.00% | ~4,984 |
-| A Friend in Need | 8.00% | ~2,061 |
+| A Friend in Need | 8.00% | ~2,062 |
 | Departure | 7.00% | ~4,361 |
 | Drink 'Em Both Up | 6.00% | ~3,738 |
 | Hardboiled Writer | 6.00% | ~3,738 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,300 (Ranked 87)  
+Progressed: 62,301 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-09-01 | 62,124 | 65 |
 | 2023-09-02 | 62,195 | 65 |
 | 2023-09-03 | 62,270 | 65 |
-| 2023-09-04 | 62,300 | 65 |
+| 2023-09-04 | 62,301 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

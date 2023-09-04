@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront-2",
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -53,8 +53,8 @@
   "FirstSeenRating": "2023-03-31T05:57:07.900261+00:00",
   "FirstSeenAchievements": "2023-07-29T00:02:18.6507664+00:00",
   "LastChanged": "2023-03-31T05:57:07.9002611+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:06:31.5523956+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:08:09.8602313+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:51.944319+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:59:18.1021047+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:06:31.5523997+00:00"
+  "LastUpdate_Ratings": "2023-09-04T16:00:10.4763469+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:08:09.8602359+00:00"
 }

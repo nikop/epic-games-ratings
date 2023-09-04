@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10018,
+  "EOS_Progressed": 10019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4281,6 +4281,11 @@
       "Time": "2023-09-04T15:04:48.5807566+00:00",
       "NumProgressed": 10018,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T16:05:42.4557642+00:00",
+      "NumProgressed": 10019,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4341,7 +4346,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2404
+      "UsersEstimate": 2405
     },
     {
       "ID": "16",
@@ -4501,7 +4506,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "7",
@@ -4532,7 +4537,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10018,
+      "Progressed": 10019,
       "Completed": 0
     }
   ],
@@ -4540,8 +4545,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-08-31T16:58:15.58955+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:04:48.5807558+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:05:42.4557636+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:59:24.6420977+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:04:48.5808053+00:00"
+  "LastUpdate_Ratings": "2023-09-04T16:00:20.7139921+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:05:42.4558334+00:00"
 }

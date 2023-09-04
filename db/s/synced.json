@@ -2,9 +2,9 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -17,9 +17,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -57,6 +57,11 @@
       "Time": "2023-09-03T03:05:55.1414109+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T16:08:14.5182621+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -67,7 +72,7 @@
       "ID": "1",
       "SetID": "2cfdi92",
       "Name": "Your Lucky Day",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -75,7 +80,7 @@
       "ID": "10",
       "SetID": "2cfdi92",
       "Name": "fifteenth Time\u0027s the Charm",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -83,7 +88,7 @@
       "ID": "11",
       "SetID": "2cfdi92",
       "Name": "Pulling Your Weight",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "14",
       "SetID": "2cfdi92",
       "Name": "Nano Connoisseur",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -115,7 +120,7 @@
       "ID": "15",
       "SetID": "2cfdi92",
       "Name": "Gone Rogue",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -131,7 +136,7 @@
       "ID": "2",
       "SetID": "2cfdi92",
       "Name": "As Far Away As Possible",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -147,7 +152,7 @@
       "ID": "4",
       "SetID": "2cfdi92",
       "Name": "No Time to Follow Protocol",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -155,7 +160,7 @@
       "ID": "5",
       "SetID": "2cfdi92",
       "Name": "Float Like a Butterfly...",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -179,7 +184,7 @@
       "ID": "8",
       "SetID": "2cfdi92",
       "Name": "Runs for Your Money",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -187,7 +192,7 @@
       "ID": "9",
       "SetID": "2cfdi92",
       "Name": "Past Master",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -196,13 +201,13 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:06:34.8079824+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:08:14.5182612+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:07.4356043+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:58:02.9232167+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:06:34.8079976+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:58:22.735187+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:08:14.5182739+00:00"
 }

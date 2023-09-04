@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 666)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,700 |
-| This is only the beginning | 19.00% | ~42,166 |
+| No aid from the Omnissiah | 26.00% | ~57,702 |
+| This is only the beginning | 19.00% | ~42,167 |
 | Knowledge is power | 12.00% | ~26,631 |
-| Power Ranger | 9.00% | ~19,973 |
-| Galvanic Rifle | 9.00% | ~19,973 |
-| Taser Goad | 9.00% | ~19,973 |
-| Radium Ready | 9.00% | ~19,973 |
-| Half a cog | 9.00% | ~19,973 |
+| Power Ranger | 9.00% | ~19,974 |
+| Galvanic Rifle | 9.00% | ~19,974 |
+| Taser Goad | 9.00% | ~19,974 |
+| Radium Ready | 9.00% | ~19,974 |
+| Half a cog | 9.00% | ~19,974 |
 | Watch them crumble | 6.00% | ~13,316 |
 | Competent Cohort | 4.00% | ~8,877 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,877 |
 | One with the Machine | 4.00% | ~8,877 |
 | Legio Cybernetica | 3.00% | ~6,658 |
 | Fleshy Disposal | 3.00% | ~6,658 |
-| Battle Servitor | 2.00% | ~4,438 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,438 |
-| Impatient destruction | 2.00% | ~4,438 |
-| Vivisected Vizier | 2.00% | ~4,438 |
-| Architect Abortion | 2.00% | ~4,438 |
+| Battle Servitor | 2.00% | ~4,439 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,439 |
+| Impatient destruction | 2.00% | ~4,439 |
+| Vivisected Vizier | 2.00% | ~4,439 |
+| Architect Abortion | 2.00% | ~4,439 |
 | Cohortus Maximus | 0.80% | ~1,775 |
 | Mother of Xenarites | 0.40% | ~888 |
 | False God | 0.30% | ~666 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 666)
 | Perma-live | 0.10% | ~222 |
 | Purge the Heretek | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,925 (Ranked 56)  
+Progressed: 221,929 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 5 (0.00%) (Ranked 271)
 | 2023-09-01 | 221,708 | 5 |
 | 2023-09-02 | 221,795 | 5 |
 | 2023-09-03 | 221,884 | 5 |
-| 2023-09-04 | 221,925 | 5 |
+| 2023-09-04 | 221,929 | 5 |
 ## Awards
 Max (Highly Recommended): 282  (Ranked 241)  
 Sum: 2,133 (Ranked 196)  

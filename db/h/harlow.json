@@ -4,7 +4,7 @@
   "ProductSlug": "harlow-b10a2a",
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-03-15T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:44.6692065+00:00",
   "LastChanged": "2023-03-31T05:57:44.6692066+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.6627706+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:58:32.0900118+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:06:04.7439784+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:59:03.5489236+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:07:31.566892+00:00"
 }

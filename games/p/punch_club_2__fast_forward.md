@@ -21,8 +21,8 @@
 | Hello, world! | 69.00% | ~218 |
 | No bullying more | 68.00% | ~215 |
 | Pal of your father? | 66.00% | ~209 |
+| Spirit of the past | 64.00% | ~202 |
 | Employee of the month | 64.00% | ~202 |
-| Spirit of the past | 63.00% | ~199 |
 | Workout professional | 62.00% | ~196 |
 | Law student | 62.00% | ~196 |
 | Champion – starter pack | 60.00% | ~190 |
@@ -36,11 +36,11 @@
 | Legal courier | 54.00% | ~171 |
 | Extreme neuropower! | 54.00% | ~171 |
 | Escaped from a big trouble | 51.00% | ~161 |
-| Now you are worthy | 49.00% | ~155 |
+| Now you are worthy | 50.00% | ~158 |
 | Fight is life | 46.00% | ~145 |
 | Mysterious voice | 46.00% | ~145 |
 | Guiding on the right path | 46.00% | ~145 |
-| No blades in the gym | 44.00% | ~139 |
+| No blades in the gym | 45.00% | ~142 |
 | Champion – no way back | 42.00% | ~133 |
 | Responsible approach | 41.00% | ~130 |
 | Underground dwellers | 40.00% | ~126 |

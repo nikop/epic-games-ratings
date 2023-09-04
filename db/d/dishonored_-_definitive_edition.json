@@ -4,10 +4,10 @@
   "ProductSlug": "dishonored-definitive-edition",
   "Ranking_Rating": 135,
   "Ranking_Popularity": 169,
-  "Ranking_PopularitySum": 249,
+  "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -1429,18 +1429,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 932,
       "NumberOfAwardsMax": 685
+    },
+    {
+      "Time": "2023-09-04T15:59:28.568277+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 935,
+      "NumberOfAwardsMax": 686
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 932,
-  "NumberOfAwardsMax": 685,
+  "NumberOfAwards": 935,
+  "NumberOfAwardsMax": 686,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 685
+      "Count": 686
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1464,7 +1470,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1494,7 +1500,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1514,8 +1520,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-09-03T11:58:28.7279865+00:00",
+  "LastChanged": "2023-09-04T15:59:28.5682768+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:09.1091707+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:58:47.335518+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:04:22.5962705+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:59:28.5682774+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:05:05.056358+00:00"
 }

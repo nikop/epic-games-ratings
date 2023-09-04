@@ -1579,9 +1579,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 131
+      "UsersEstimate": 137
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1651,9 +1651,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1676,8 +1676,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-04T13:03:28.3019229+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:06:14.4504943+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:07:45.7067874+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:58:30.4278624+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:06:14.4505236+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:59:01.2168103+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:07:45.7068111+00:00"
 }

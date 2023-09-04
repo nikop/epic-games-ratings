@@ -14,15 +14,15 @@ Rating: 4.78 (Ranked 100)
 | Powder Monkey | 30.00% | ~178 |
 | Somewhere Deep in the Lost Caribbean | 27.00% | ~161 |
 | Mirror Mirror on the Wall | 25.00% | ~149 |
+| Pirates Assemble! | 23.00% | ~137 |
 | Buccaneer | 22.00% | ~131 |
-| Pirates Assemble! | 22.00% | ~131 |
 | Fishy Fish | 21.00% | ~125 |
 | Seadog | 16.00% | ~95 |
 | All Good Things | 14.00% | ~83 |
 | Persistent Parasite | 14.00% | ~83 |
 | Privateer | 10.00% | ~60 |
 | Jaded Judge | 10.00% | ~60 |
-| Rustic Recipe | 9.00% | ~54 |
+| Rustic Recipe | 10.00% | ~60 |
 | Tobacco Travesty | 8.00% | ~48 |
 | Accursed Artifacts | 7.00% | ~42 |
 | Lyrical Longing | 7.00% | ~42 |

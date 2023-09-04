@@ -4,19 +4,19 @@
 Rating: 4.75 (Ranked 135)  
 Number of Ratings: 234  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 685  (Ranked 169)  
-Sum: 932 (Ranked 249)  
-Diff (max vs sum): -80  
+Max (Great Boss Battles): 686  (Ranked 169)  
+Sum: 935 (Ranked 248)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 685 |
+| This game has Great Boss Battles | 686 |
 | This game is Great for Beginners | 34 |
 | This game has Amazing Storytelling | 32 |
-| This game is Extremely Fun | 30 |
+| This game is Extremely Fun | 31 |
 | This game has Challenging Combat | 30 |
 | This game has a Creative Community | 29 |
 | This game has Diverse Characters | 29 |
-| This game has Unique Visuals | 27 |
+| This game has Unique Visuals | 28 |
 | This game has Amazing Characters | 26 |
 | This game is Highly Recommended | 20 |
 | This game has Quickly Understood Controls | 20 |
@@ -221,3 +221,4 @@ Diff (max vs sum): -80
 | 2023-09-01 | 4.75 | - | 684 | 930 |
 | 2023-09-02 | 4.75 | - | 684 | 931 |
 | 2023-09-03 | 4.75 | - | 685 | 932 |
+| 2023-09-04 | 4.75 | - | 686 | 935 |

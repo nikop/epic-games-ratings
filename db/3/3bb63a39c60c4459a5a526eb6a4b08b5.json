@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2306,6 +2306,11 @@
       "Time": "2023-09-04T08:05:41.8166545+00:00",
       "NumProgressed": 649,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-04T16:07:07.8803541+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2317,7 +2322,7 @@
       "Name": "Great Luck",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ActivePause",
@@ -2333,7 +2338,7 @@
       "Name": "Basic Controls",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "BigPlane",
@@ -2357,7 +2362,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Close",
@@ -2413,7 +2418,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FullCompletion",
@@ -2445,7 +2450,7 @@
       "Name": "Lack of Time",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "LargeAirport",
@@ -2469,7 +2474,7 @@
       "Name": "Legendary transporter",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LinearNetwork",
@@ -2485,7 +2490,7 @@
       "Name": "Long Distances",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ManagementMaster",
@@ -2501,7 +2506,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Millionaire",
@@ -2517,7 +2522,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "NoTimeForModernization",
@@ -2541,7 +2546,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Ownway",
@@ -2613,7 +2618,7 @@
       "Name": "Scenario Amateur",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ScenarioExpert",
@@ -2629,7 +2634,7 @@
       "Name": "Ten!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "TimeForManagement",
@@ -2637,7 +2642,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "TransportHub",
@@ -2652,14 +2657,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:05:48.5179922+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:07:07.8803534+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:57:12.984512+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:05:48.5180412+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:57:15.3451921+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:07:07.880402+00:00"
 }

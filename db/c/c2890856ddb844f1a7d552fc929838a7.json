@@ -52,7 +52,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
@@ -1047,6 +1047,11 @@
       "Time": "2023-09-04T15:06:46.2447715+00:00",
       "NumProgressed": 682,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T16:08:29.4043003+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1067,15 +1072,15 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 471
     },
     {
       "ID": "AC03",
@@ -1083,15 +1088,15 @@
       "Name": "Blood and Gold",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 417
     },
     {
       "ID": "AC05",
@@ -1105,9 +1110,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 335
     },
     {
       "ID": "AC07",
@@ -1115,7 +1120,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "AC08",
@@ -1147,7 +1152,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "AC12",
@@ -1201,25 +1206,25 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 253
     },
     {
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 273
     },
     {
       "ID": "AC20",
       "SetID": "l4abp0",
       "Name": "Still Among Us",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 82
     },
     {
       "ID": "AC21",
@@ -1243,7 +1248,7 @@
       "Name": "Hide and Seek",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "AC24",
@@ -1267,7 +1272,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "AC27",
@@ -1305,9 +1310,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 246
     },
     {
       "ID": "AC32",
@@ -1321,9 +1326,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 321
     },
     {
       "ID": "AC34",
@@ -1379,7 +1384,7 @@
       "Name": "Welcome Back!",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "AC41",
@@ -1426,7 +1431,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 0
     }
   ],
@@ -1434,8 +1439,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-04T03:01:40.031195+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:06:46.2447709+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:08:29.4042997+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:57:06.8485442+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:06:46.2448176+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:57:06.1779958+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:08:29.404347+00:00"
 }

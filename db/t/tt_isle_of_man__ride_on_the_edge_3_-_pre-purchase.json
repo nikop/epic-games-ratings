@@ -4,7 +4,7 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.63,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -607,6 +607,11 @@
       "Time": "2023-09-03T03:02:28.4146504+00:00",
       "NumProgressed": 123,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-04T16:04:24.1425261+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -762,7 +767,7 @@
       "Name": "Serial Winner",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -848,9 +853,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -864,23 +869,23 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "gagif7",
       "Name": "Upgradeaholic",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 5,
       "UsersEstimate": 119
     },
@@ -929,14 +934,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:03:53.8352541+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:04:24.1425254+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.6963304+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:57:58.3449184+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:03:53.83529+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:58:15.8900556+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:04:24.1425801+00:00"
 }

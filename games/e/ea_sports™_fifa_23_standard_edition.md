@@ -4,7 +4,7 @@
 Rating: 4.26 (Ranked 830)  
 ## Awards
 Max (Diverse Characters): 18,874  (Ranked 20)  
-Sum: 96,875 (Ranked 14)  
+Sum: 96,899 (Ranked 14)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 6
 | This game is Extremely Fun | 10,588 |
 | This game has Competitive Players | 10,556 |
 | This game has Amazing Storytelling | 10,365 |
-| This game has Quickly Understood Controls | 9,584 |
+| This game has Quickly Understood Controls | 9,608 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -262,4 +262,4 @@ Diff (max vs sum): 6
 | 2023-09-01 | 4.26 | 18,700 | 96,210 |
 | 2023-09-02 | 4.26 | 18,755 | 96,475 |
 | 2023-09-03 | 4.26 | 18,821 | 96,726 |
-| 2023-09-04 | 4.26 | 18,874 | 96,875 |
+| 2023-09-04 | 4.26 | 18,874 | 96,899 |

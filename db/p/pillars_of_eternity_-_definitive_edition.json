@@ -5,9 +5,9 @@
   "Ranking_Rating": 281,
   "Ranking_Popularity": 109,
   "Ranking_PopularitySum": 136,
-  "Ranking_EOS_Progress": 203,
+  "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -2952,9 +2952,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1096,
+  "EOS_Progressed": 1097,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3072,6 +3072,11 @@
       "Time": "2023-09-01T22:07:27.0736819+00:00",
       "NumProgressed": 1096,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-04T16:03:34.4646955+00:00",
+      "NumProgressed": 1097,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 48,
@@ -3091,7 +3096,7 @@
       "Name": "Completed Act II",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_03",
@@ -3115,7 +3120,7 @@
       "Name": "Enchanter",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_06",
@@ -3163,7 +3168,7 @@
       "Name": "Super Murderer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_12",
@@ -3179,7 +3184,7 @@
       "Name": "All Upgrades in Stronghold",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_14",
@@ -3211,7 +3216,7 @@
       "Name": "Disposition",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_18",
@@ -3227,7 +3232,7 @@
       "Name": "The Heir of Caed Nua",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_20",
@@ -3235,7 +3240,7 @@
       "Name": "The Watcher With Eight Friends",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_21",
@@ -3307,7 +3312,7 @@
       "Name": "Middle 5 Levels of Od Nua",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_30",
@@ -3331,7 +3336,7 @@
       "Name": "Soulbinder",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achievement_33",
@@ -3363,7 +3368,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "achievement_37",
@@ -3466,15 +3471,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1096,
+      "Progressed": 1097,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-09-04T11:57:59.7516949+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:03:19.903139+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:03:34.4646949+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:55.3041581+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:57:47.4642191+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:03:19.9031862+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:57:59.921523+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:03:34.4647361+00:00"
 }

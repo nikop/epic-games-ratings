@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2454,
+  "EOS_Progressed": 2455,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5486,6 +5486,11 @@
       "Time": "2023-09-04T15:06:51.1593643+00:00",
       "NumProgressed": 2454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-04T16:08:35.7890569+00:00",
+      "NumProgressed": 2455,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5521,7 +5526,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "CONQUEROR",
@@ -5601,7 +5606,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "GUARD_MAKER",
@@ -5672,14 +5677,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2454,
+      "Progressed": 2455,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:06:51.1593635+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:08:35.7890563+00:00",
   "LastUpdate_AppInfo": "2023-08-29T23:57:18.7123979+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:57:26.1537364+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:06:51.159418+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:57:31.0055502+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:08:35.789124+00:00"
 }

@@ -3408,9 +3408,9 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 9298,
+  "EOS_Progressed": 9299,
   "EOS_Completed": 211,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -11618,6 +11618,11 @@
       "Time": "2023-09-04T15:06:50.9747269+00:00",
       "NumProgressed": 9298,
       "NumCompleted": 211
+    },
+    {
+      "Time": "2023-09-04T16:08:35.5074546+00:00",
+      "NumProgressed": 9299,
+      "NumCompleted": 211
     }
   ],
   "TotalAchievements": 15,
@@ -11637,7 +11642,7 @@
       "Name": "Banker",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "Bestest_Friend",
@@ -11645,7 +11650,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4463
+      "UsersEstimate": 4464
     },
     {
       "ID": "Chef_Cook",
@@ -11685,7 +11690,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "Generous",
@@ -11748,7 +11753,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9298,
+      "Progressed": 9299,
       "Completed": 211
     }
   ],
@@ -11756,8 +11761,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-09-04T07:58:24.610577+00:00",
-  "LastChanged_Achievements": "2023-09-04T15:06:50.9747263+00:00",
+  "LastChanged_Achievements": "2023-09-04T16:08:35.507454+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:26.1088757+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:58:15.3546301+00:00",
-  "LastUpdate_Achievements": "2023-09-04T15:06:50.9747933+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:58:41.9298807+00:00",
+  "LastUpdate_Achievements": "2023-09-04T16:08:35.5075068+00:00"
 }
