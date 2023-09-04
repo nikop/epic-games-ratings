@@ -25,6 +25,7 @@
 | The Fortress Conqueror | 7.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 7.00% | ~4 |
 | Antaeus | 7.00% | ~4 |
+| Air Interception | 7.00% | ~4 |
 | The Deep Frozen Conqueror | 5.00% | ~3 |
 | The Infinite Train Conqueror | 5.00% | ~3 |
 | The Paradox Coordinate Conqueror | 5.00% | ~3 |
@@ -33,7 +34,6 @@
 | Death Bringer Conqueror | 5.00% | ~3 |
 | he Ultra Fortress Conqueror | 5.00% | ~3 |
 | Rapidfire | 5.00% | ~3 |
-| Air Interception | 5.00% | ~3 |
 | Hell of a Fight | 5.00% | ~3 |
 | The Sunken City Conqueror | 4.00% | ~2 |
 | The Looping Space Conqueror | 4.00% | ~2 |

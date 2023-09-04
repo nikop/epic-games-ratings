@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66100,
+  "EOS_Progressed": 66102,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9337,6 +9337,11 @@
       "Time": "2023-09-04T13:08:11.5057756+00:00",
       "NumProgressed": 66100,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-04T14:03:08.2351998+00:00",
+      "NumProgressed": 66102,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -9412,7 +9417,7 @@
       "Name": "Let there be light",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_MATCHES",
@@ -9428,7 +9433,7 @@
       "Name": "Silent Advisor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_PAULMISSION",
@@ -9507,7 +9512,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 66100,
+      "Progressed": 66102,
       "Completed": 14
     }
   ],
@@ -9515,8 +9520,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-26T23:01:09.4658667+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:08:11.505775+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:03:08.2351994+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:21.4271572+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:02:42.7289316+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:08:11.5058453+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:57:43.3306173+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:03:08.2352692+00:00"
 }

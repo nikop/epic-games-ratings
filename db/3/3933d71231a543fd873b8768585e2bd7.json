@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -136,6 +136,11 @@
       "Time": "2023-09-04T09:03:44.5600143+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T14:02:25.4132515+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -170,7 +175,7 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 71,
+      "Percentage": 68,
       "XP": 40,
       "UsersEstimate": 17
     },
@@ -202,7 +207,7 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 79,
+      "Percentage": 76,
       "XP": 30,
       "UsersEstimate": 19
     },
@@ -242,7 +247,7 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -275,14 +280,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:08:08.3168982+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:02:25.4132511+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:02:54.4265441+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:08:08.3169122+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:57:55.9887184+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:02:25.4132621+00:00"
 }

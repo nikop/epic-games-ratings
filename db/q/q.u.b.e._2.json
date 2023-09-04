@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,11 +338,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -858,6 +858,11 @@
       "Time": "2023-09-04T12:03:52.4161977+00:00",
       "NumProgressed": 157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-04T14:03:30.4638149+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1020,9 +1025,9 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_OASIS",
@@ -1030,7 +1035,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_PEAK",
@@ -1062,15 +1067,15 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_S5",
@@ -1086,7 +1091,7 @@
       "Name": "Lost in Space",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_STATUE",
@@ -1094,22 +1099,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:08:33.685212+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:03:30.4638144+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:02:35.3773738+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:08:33.6852376+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:57:36.0800458+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:03:30.4638391+00:00"
 }

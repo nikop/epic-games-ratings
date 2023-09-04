@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 334,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 53,
@@ -232,7 +232,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 229239,
+  "EOS_Progressed": 229241,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
@@ -14582,6 +14582,11 @@
       "Time": "2023-09-04T13:08:34.1658255+00:00",
       "NumProgressed": 229239,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T14:03:31.0109468+00:00",
+      "NumProgressed": 229241,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -14657,7 +14662,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82526
+      "UsersEstimate": 82527
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -14737,7 +14742,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 77941
+      "UsersEstimate": 77942
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -14816,7 +14821,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229239,
+      "Progressed": 229241,
       "Completed": 3
     }
   ],
@@ -14824,8 +14829,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-02T21:59:53.4448357+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:08:34.1658249+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:03:31.0109464+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:29.7982071+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:05:05.0022878+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:08:34.1659321+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:59:55.3851106+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:03:31.0110518+00:00"
 }

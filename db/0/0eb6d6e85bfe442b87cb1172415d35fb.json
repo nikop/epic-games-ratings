@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 450,
+  "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -91,6 +91,11 @@
       "Time": "2023-09-04T10:05:55.4846468+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T14:04:55.8679542+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -109,7 +114,7 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -117,7 +122,7 @@
       "ID": "AvianVeterinarian",
       "SetID": "d11cl5p",
       "Name": "Avian veterinarian",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -149,7 +154,7 @@
       "ID": "FiveThousand",
       "SetID": "d11cl5p",
       "Name": "0.005 million",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -237,7 +242,7 @@
       "ID": "Over9000",
       "SetID": "d11cl5p",
       "Name": "Over 9000!!!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -253,7 +258,7 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -285,7 +290,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -301,7 +306,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 69,
+      "Percentage": 64,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -357,7 +362,7 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -374,14 +379,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:09:57.2254384+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:04:55.8679538+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.4077778+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:05:49.7605093+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:09:57.2254639+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:00:44.6174086+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:04:55.8679789+00:00"
 }

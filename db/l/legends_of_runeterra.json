@@ -3,7 +3,7 @@
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
   "Ranking_Rating": 303,
-  "Ranking_Popularity": 291,
+  "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
@@ -1755,11 +1755,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 1431,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2023-09-04T14:00:12.1173275+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1432,
+      "NumberOfAwardsMax": 165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1431,
-  "NumberOfAwardsMax": 164,
+  "NumberOfAwards": 1432,
+  "NumberOfAwardsMax": 165,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1796,7 +1802,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 164
+      "Count": 165
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1840,8 +1846,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-09-03T04:59:55.2558586+00:00",
+  "LastChanged": "2023-09-04T14:00:12.1173273+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:25.2686034+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:05:20.4510102+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:12:12.1232431+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:00:12.1173277+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:08:09.9510387+00:00"
 }

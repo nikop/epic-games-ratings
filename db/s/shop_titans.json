@@ -5866,9 +5866,9 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135642,
+  "EOS_Progressed": 135644,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19921,6 +19921,11 @@
       "Time": "2023-09-04T13:09:01.4406239+00:00",
       "NumProgressed": 135642,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-09-04T14:03:59.1725802+00:00",
+      "NumProgressed": 135644,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 112,
@@ -19932,7 +19937,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "advlevel02",
@@ -20068,7 +20073,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "boss02",
@@ -20204,7 +20209,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "craft03",
@@ -20236,7 +20241,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "damage02",
@@ -20556,7 +20561,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "loot02",
@@ -20634,9 +20639,9 @@
       "ID": "polonia_a",
       "SetID": "anfd17p",
       "Name": "Scourge of the Seas",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "quest01",
@@ -20827,15 +20832,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135642,
+      "Progressed": 135644,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-04T06:58:52.5043787+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:09:01.4406234+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:03:59.1725798+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:03:44.9272149+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:09:01.4408374+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:58:43.373759+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:03:59.172825+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.36 (Ranked 746)
 Number of Ratings: 190  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 44  (Ranked 419)  
-Sum: 287 (Ranked 342)  
+Sum: 288 (Ranked 342)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 77
 | This game has Diverse Characters | 25 |
 | This game has Realistic Visuals | 24 |
 | This game is Educational | 24 |
-| This game has Challenging Combat | 22 |
+| This game has Challenging Combat | 23 |
 | This game has Obsessive Gameplay | 21 |
 | This game is Great for Beginners | 20 |
 | This game has a Creative Community | 20 |
@@ -149,3 +149,4 @@ Diff (max vs sum): 77
 | 2023-08-30 | 4.36 | - | 44 | 286 |
 | 2023-09-02 | 4.37 | - | 44 | 286 |
 | 2023-09-03 | 4.36 | - | 44 | 287 |
+| 2023-09-04 | 4.36 | - | 44 | 288 |

@@ -19,14 +19,14 @@ Rating: 4.25 (Ranked 835)
 | Power of Friendship | 0.70% | ~463 |
 | Phone Bill | 0.70% | ~463 |
 | Chain Breaker | 0.60% | ~397 |
-| Let there be light | 0.50% | ~330 |
-| Silent Advisor | 0.50% | ~330 |
+| Let there be light | 0.50% | ~331 |
+| Silent Advisor | 0.50% | ~331 |
 | Soda addiction | 0.40% | ~264 |
 | Are you still there? | 0.40% | ~264 |
 | Paparazzi | 0.30% | ~198 |
 | Ear Ringing | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,100 (Ranked 85)  
+Progressed: 66,102 (Ranked 85)  
 Completed: 14 (0.02%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 14 (0.02%) (Ranked 250)
 | 2023-09-01 | 66,027 | 14 |
 | 2023-09-02 | 66,062 | 14 |
 | 2023-09-03 | 66,087 | 14 |
-| 2023-09-04 | 66,100 | 14 |
+| 2023-09-04 | 66,102 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

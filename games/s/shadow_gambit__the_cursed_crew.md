@@ -11,7 +11,7 @@ Rating: 4.78 (Ranked 100)
 | With Great Power… | 40.00% | ~238 |
 | This Belongs in a Museum | 36.00% | ~214 |
 | The Gambit Has Begun | 31.00% | ~184 |
-| Powder Monkey | 29.00% | ~172 |
+| Powder Monkey | 30.00% | ~178 |
 | Somewhere Deep in the Lost Caribbean | 26.00% | ~154 |
 | Mirror Mirror on the Wall | 25.00% | ~148 |
 | Buccaneer | 22.00% | ~131 |
@@ -33,7 +33,7 @@ Rating: 4.78 (Ranked 100)
 | Welcome Back Jester | 3.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 594 (Ranked 229)  
-Completed: 11 (1.85%) (Ranked 96)  
+Completed: 12 (2.02%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,7 +62,7 @@ Completed: 11 (1.85%) (Ranked 96)
 | 2023-09-01 | 570 | 9 |
 | 2023-09-02 | 585 | 11 |
 | 2023-09-03 | 589 | 11 |
-| 2023-09-04 | 594 | 11 |
+| 2023-09-04 | 594 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,39 +6,39 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,234 |
-| Having A Field Day | 74.00% | ~4,177 |
-| Reap What You Sow | 71.00% | ~4,008 |
+| Get A Room | 74.00% | ~4,178 |
+| Having A Field Day | 74.00% | ~4,178 |
+| Reap What You Sow | 71.00% | ~4,009 |
 | The First Day | 68.00% | ~3,839 |
 | Green Thumb | 66.00% | ~3,726 |
 | Novice Researcher | 66.00% | ~3,726 |
 | Home Cooked Meal | 57.00% | ~3,218 |
-| Putting Food on the Table | 56.00% | ~3,161 |
-| Onward | 56.00% | ~3,161 |
-| The First Week | 54.00% | ~3,048 |
+| Putting Food on the Table | 56.00% | ~3,162 |
+| Onward | 56.00% | ~3,162 |
+| The First Week | 54.00% | ~3,049 |
 | Beam Me Up | 51.00% | ~2,879 |
 | Studious Researcher | 51.00% | ~2,879 |
-| Feast or Famine | 47.00% | ~2,653 |
+| Feast or Famine | 47.00% | ~2,654 |
 | Adept Researcher | 44.00% | ~2,484 |
-| Retribution | 41.00% | ~2,314 |
-| ...And Don’t Come Back! | 41.00% | ~2,314 |
-| Fit For A King | 36.00% | ~2,032 |
-| Luminary Researcher | 32.00% | ~1,806 |
+| Retribution | 41.00% | ~2,315 |
+| ...And Don’t Come Back! | 41.00% | ~2,315 |
+| Fit For A King | 36.00% | ~2,033 |
+| Luminary Researcher | 32.00% | ~1,807 |
 | Heating Up | 30.00% | ~1,694 |
 | Winter Is Coming | 26.00% | ~1,468 |
-| Winter Is Here | 23.00% | ~1,298 |
-| Disassembled | 21.00% | ~1,185 |
+| Winter Is Here | 23.00% | ~1,299 |
+| Disassembled | 21.00% | ~1,186 |
 | A Party Now | 20.00% | ~1,129 |
 | Oh Deer! | 20.00% | ~1,129 |
 | All Year Round | 20.00% | ~1,129 |
-| Nothing Wasted | 12.00% | ~677 |
-| Don't Cry Wolf | 12.00% | ~677 |
+| Nothing Wasted | 12.00% | ~678 |
+| Don't Cry Wolf | 12.00% | ~678 |
 | Deerly Departed | 8.00% | ~452 |
 | Where Wolf? | 5.00% | ~282 |
 | Food Chain | 2.00% | ~113 |
 | Wabbit Season | 0.50% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,645 (Ranked 142)  
+Progressed: 5,646 (Ranked 142)  
 Completed: 12 (0.21%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 12 (0.21%) (Ranked 194)
 | 2023-09-01 | 5,606 | 12 |
 | 2023-09-02 | 5,626 | 12 |
 | 2023-09-03 | 5,641 | 12 |
-| 2023-09-04 | 5,645 | 12 |
+| 2023-09-04 | 5,646 | 12 |
 ## Awards
 Max (Relaxing): 122  (Ranked 318)  
 Sum: 982 (Ranked 241)  

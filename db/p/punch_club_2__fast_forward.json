@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1326,9 +1326,9 @@
       "ID": "fight_win_10",
       "SetID": "69co12a",
       "Name": "Fighting is cool",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 218
     },
     {
       "ID": "fight_win_25",
@@ -1438,9 +1438,9 @@
       "ID": "huey_win",
       "SetID": "69co12a",
       "Name": "No bullying more",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 215
     },
     {
       "ID": "intro_dream",
@@ -1662,9 +1662,9 @@
       "ID": "soft_install",
       "SetID": "69co12a",
       "Name": "Hello, world!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 218
     },
     {
       "ID": "trainer_promotion_1",
@@ -1741,8 +1741,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:08:30.1307328+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:03:26.8289413+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:02:10.0189772+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:08:30.130804+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:57:12.0144743+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:03:26.8290016+00:00"
 }

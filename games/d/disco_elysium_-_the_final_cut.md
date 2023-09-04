@@ -7,8 +7,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~35,626 |
-| Biggest Communism Builder | 24.00% | ~30,536 |
-| The World's Most Laughable Centrist | 21.00% | ~26,719 |
+| Biggest Communism Builder | 24.00% | ~30,537 |
+| The World's Most Laughable Centrist | 21.00% | ~26,720 |
 | Il Coppo Del'Arte! | 18.00% | ~22,902 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,358 |
 | Hyperstellar Law Official | 16.00% | ~20,358 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,235 (Ranked 69)  
+Progressed: 127,236 (Ranked 69)  
 Completed: 27 (0.02%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,14 +184,14 @@ Completed: 27 (0.02%) (Ranked 250)
 | 2023-09-01 | 127,095 | 27 |
 | 2023-09-02 | 127,156 | 27 |
 | 2023-09-03 | 127,219 | 27 |
-| 2023-09-04 | 127,235 | 27 |
+| 2023-09-04 | 127,236 | 27 |
 ## Awards
-Max (Character Customization): 721  (Ranked 166)  
-Sum: 1,085 (Ranked 236)  
-Diff (max vs sum): -70  
+Max (Character Customization): 722  (Ranked 165)  
+Sum: 1,086 (Ranked 236)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 721 |
+| This game has Inclusive Character Customization | 722 |
 | This game has Amazing Storytelling | 47 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 42 |
@@ -331,3 +331,4 @@ Diff (max vs sum): -70
 | 2023-08-18 | 4.87 | - | 719 | 1,083 |
 | 2023-08-20 | 4.87 | - | 720 | 1,084 |
 | 2023-08-22 | 4.87 | - | 721 | 1,085 |
+| 2023-09-04 | 4.87 | - | 722 | 1,086 |

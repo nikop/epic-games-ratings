@@ -21,11 +21,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Pretty Penny | 0.90% | ~1,221 |
 | One-Armed Bandit | 0.80% | ~1,085 |
 | Through Repetition, Perfection | 0.80% | ~1,085 |
-| The Daily Grind | 0.70% | ~949 |
-| Bounty Hunters | 0.70% | ~949 |
-| Flooding the Market | 0.70% | ~949 |
-| Where it Hurts | 0.70% | ~949 |
-| Dungeon Imports | 0.70% | ~949 |
+| The Daily Grind | 0.70% | ~950 |
+| Bounty Hunters | 0.70% | ~950 |
+| Flooding the Market | 0.70% | ~950 |
+| Where it Hurts | 0.70% | ~950 |
+| Dungeon Imports | 0.70% | ~950 |
 | Blank Page Syndrome | 0.60% | ~814 |
 | Demand for Supplies | 0.60% | ~814 |
 | Gild-Gotten Goods | 0.60% | ~814 |
@@ -62,6 +62,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.40% | ~543 |
 | Laden with Loot | 0.40% | ~543 |
 | Seasoned Journeyman | 0.40% | ~543 |
+| Scourge of the Seas | 0.40% | ~543 |
 | Black Friday Special | 0.40% | ~543 |
 | Magical Harmony | 0.40% | ~543 |
 | Special Ingredient | 0.40% | ~543 |
@@ -90,7 +91,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.30% | ~407 |
 | Bountiful Harvest | 0.30% | ~407 |
 | Precision Engineering | 0.30% | ~407 |
-| Scourge of the Seas | 0.30% | ~407 |
 | Attrition Mission | 0.30% | ~407 |
 | Glittering Collection | 0.30% | ~407 |
 | Treasure Trove | 0.30% | ~407 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,642 (Ranked 67)  
+Progressed: 135,644 (Ranked 67)  
 Completed: 142 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 142 (0.10%) (Ranked 218)
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
 | 2023-09-03 | 135,618 | 142 |
-| 2023-09-04 | 135,642 | 142 |
+| 2023-09-04 | 135,644 | 142 |
 ## Awards
 Max (Great for Beginners): 4,721  (Ranked 70)  
 Sum: 27,171 (Ranked 47)  

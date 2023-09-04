@@ -682,9 +682,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5658,
+  "EOS_Progressed": 5659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6917,6 +6917,11 @@
       "Time": "2023-09-04T13:12:13.1239266+00:00",
       "NumProgressed": 5658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T14:08:10.9137112+00:00",
+      "NumProgressed": 5659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -6928,7 +6933,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -6936,7 +6941,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -6944,7 +6949,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 3847
+      "UsersEstimate": 3848
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -6952,7 +6957,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -6968,7 +6973,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3339
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -6976,7 +6981,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -6984,7 +6989,7 @@
       "Name": "Scaling up",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -6992,7 +6997,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -7016,7 +7021,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -7032,7 +7037,7 @@
       "Name": "Goldfish?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -7040,7 +7045,7 @@
       "Name": "Going for Gold",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -7142,9 +7147,9 @@
       "ID": "ACHIEVEMENT_028",
       "SetID": "1a05lfd",
       "Name": "Golden Ridge Ranger",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -7207,13 +7212,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5658,
+      "Progressed": 5659,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5030,
+      "Progressed": 5031,
       "Completed": 112
     }
   ],
@@ -7221,8 +7226,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-03T19:00:39.4102502+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:12:13.1239261+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:08:10.9137108+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:05:00.3593805+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:12:13.1239945+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:59:50.405874+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:08:10.9137788+00:00"
 }

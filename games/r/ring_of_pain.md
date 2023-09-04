@@ -6,61 +6,61 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,044 |
-| Uncharted Territory | 89.00% | ~209,561 |
-| Getting A Glimpse | 73.00% | ~171,887 |
-| A Quick Escape | 65.00% | ~153,050 |
-| Explorer | 62.00% | ~145,986 |
-| Defeat The Dark | 61.00% | ~143,632 |
-| An Offering | 61.00% | ~143,632 |
-| Colorful Corpse | 58.00% | ~136,568 |
-| That Was Quick | 57.00% | ~134,213 |
-| A Donation | 57.00% | ~134,213 |
-| Goodbye, Frog Friend | 54.00% | ~127,149 |
-| Heavy Hitter | 53.00% | ~124,795 |
+| First Steps | 96.00% | ~226,045 |
+| Uncharted Territory | 89.00% | ~209,563 |
+| Getting A Glimpse | 73.00% | ~171,889 |
+| A Quick Escape | 65.00% | ~153,052 |
+| Explorer | 62.00% | ~145,988 |
+| Defeat The Dark | 61.00% | ~143,633 |
+| An Offering | 61.00% | ~143,633 |
+| Colorful Corpse | 58.00% | ~136,569 |
+| That Was Quick | 57.00% | ~134,214 |
+| A Donation | 57.00% | ~134,214 |
+| Goodbye, Frog Friend | 54.00% | ~127,151 |
+| Heavy Hitter | 53.00% | ~124,796 |
 | Heartless | 46.00% | ~108,313 |
 | Spine Breaker | 46.00% | ~108,313 |
-| Deflection | 45.00% | ~105,958 |
-| Sneaky | 43.00% | ~101,249 |
-| Delving Deeper | 42.00% | ~98,894 |
-| C-C-Combo | 42.00% | ~98,894 |
-| Ambitious Intent | 41.00% | ~96,539 |
-| Nothing To Lose | 40.00% | ~94,185 |
-| The Bestiary | 40.00% | ~94,185 |
+| Deflection | 45.00% | ~105,959 |
+| Sneaky | 43.00% | ~101,250 |
+| Delving Deeper | 42.00% | ~98,895 |
+| C-C-Combo | 42.00% | ~98,895 |
+| Ambitious Intent | 41.00% | ~96,540 |
+| Nothing To Lose | 40.00% | ~94,186 |
+| The Bestiary | 40.00% | ~94,186 |
 | What's Yours Is Mine | 38.00% | ~89,476 |
-| R.I.P | 36.00% | ~84,766 |
-| Shootout | 36.00% | ~84,766 |
+| R.I.P | 36.00% | ~84,767 |
+| Shootout | 36.00% | ~84,767 |
 | I Am Overburdened | 35.00% | ~82,412 |
-| Cold Hearted | 34.00% | ~80,057 |
-| Dig Your Own Grave | 33.00% | ~77,702 |
-| Toxic | 33.00% | ~77,702 |
+| Cold Hearted | 34.00% | ~80,058 |
+| Dig Your Own Grave | 33.00% | ~77,703 |
+| Toxic | 33.00% | ~77,703 |
 | Who To Trust? | 32.00% | ~75,348 |
-| Flesh Wound | 29.00% | ~68,284 |
-| Stone Touch | 28.00% | ~65,929 |
-| Shadow Walker | 28.00% | ~65,929 |
+| Flesh Wound | 29.00% | ~68,285 |
+| Stone Touch | 28.00% | ~65,930 |
+| Shadow Walker | 28.00% | ~65,930 |
 | Consecutive Curses | 27.00% | ~63,575 |
 | Walk It Off | 27.00% | ~63,575 |
 | Acid Bath | 27.00% | ~63,575 |
 | New Perspectives | 27.00% | ~63,575 |
 | Shapeshifting | 27.00% | ~63,575 |
-| Destroy Your Fears | 26.00% | ~61,220 |
+| Destroy Your Fears | 26.00% | ~61,221 |
 | Save Our Souls | 25.00% | ~58,866 |
-| To The Death! | 20.00% | ~47,092 |
-| Well Prepared | 20.00% | ~47,092 |
-| Just Chilling | 20.00% | ~47,092 |
+| To The Death! | 20.00% | ~47,093 |
+| Well Prepared | 20.00% | ~47,093 |
+| Just Chilling | 20.00% | ~47,093 |
 | Stop Hitting Yourself | 19.00% | ~44,738 |
-| All Consuming | 18.00% | ~42,383 |
+| All Consuming | 18.00% | ~42,384 |
 | Shadow Spreads | 17.00% | ~40,029 |
 | Don't Ignore Me! | 17.00% | ~40,029 |
 | Illuminate, Eliminate | 17.00% | ~40,029 |
 | Max Damage! | 16.00% | ~37,674 |
 | Doing Time | 16.00% | ~37,674 |
-| Spreading Plague | 15.00% | ~35,319 |
+| Spreading Plague | 15.00% | ~35,320 |
 | The Long Run | 14.00% | ~32,965 |
 | A Rough Road | 13.00% | ~30,610 |
 | Chain Reaction | 13.00% | ~30,610 |
-| Berzerker | 12.00% | ~28,255 |
-| Antivenom | 12.00% | ~28,255 |
+| Berzerker | 12.00% | ~28,256 |
+| Antivenom | 12.00% | ~28,256 |
 | Thank You, Friend | 11.00% | ~25,901 |
 | Barbecue | 10.00% | ~23,546 |
 | Snake Sneak | 9.00% | ~21,192 |
@@ -86,13 +86,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Champion of the Day | 6.00% | ~14,128 |
 | Achievement Hunter | 5.00% | ~11,773 |
 | No Mercy | 5.00% | ~11,773 |
-| Hydrophobe | 4.00% | ~9,418 |
-| Explosive Betrayal | 4.00% | ~9,418 |
-| Willing the World | 4.00% | ~9,418 |
-| Predator | 4.00% | ~9,418 |
-| Resourceful | 4.00% | ~9,418 |
-| Become The Nightmare | 4.00% | ~9,418 |
-| The Boulder | 4.00% | ~9,418 |
+| Hydrophobe | 4.00% | ~9,419 |
+| Explosive Betrayal | 4.00% | ~9,419 |
+| Willing the World | 4.00% | ~9,419 |
+| Predator | 4.00% | ~9,419 |
+| Resourceful | 4.00% | ~9,419 |
+| Become The Nightmare | 4.00% | ~9,419 |
+| The Boulder | 4.00% | ~9,419 |
 | Quick Descent | 3.00% | ~7,064 |
 | A Week Attempt | 3.00% | ~7,064 |
 | Dead Revels | 3.00% | ~7,064 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,177 |
 | Near Death Experience | 0.30% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,462 (Ranked 51)  
+Progressed: 235,464 (Ranked 51)  
 Completed: 265 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 265 (0.11%) (Ranked 216)
 | 2023-09-01 | 235,294 | 264 |
 | 2023-09-02 | 235,372 | 264 |
 | 2023-09-03 | 235,436 | 264 |
-| 2023-09-04 | 235,462 | 265 |
+| 2023-09-04 | 235,464 | 265 |
 ## Awards
 Max (Quickly Understood Controls): 1,488  (Ranked 122)  
 Sum: 11,546 (Ranked 79)  

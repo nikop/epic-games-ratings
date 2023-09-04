@@ -247,9 +247,9 @@
       "ID": "BADGE_BOSS_7_KILL",
       "SetID": "ak6pfjk",
       "Name": "Feed the Fishes",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "BADGE_BOSS_8_KILL",
@@ -431,9 +431,9 @@
       "ID": "BADGE_DEADMANS_CHEST",
       "SetID": "ak6pfjk",
       "Name": "Deadman\u0027s Chest",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "BADGE_ENEMIES_FRIGHTEN",
@@ -624,8 +624,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:08:16.0694533+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:03:12.9068085+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:40.5242342+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:03:24.755125+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:08:16.0694939+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:58:22.3686806+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:03:12.9068526+00:00"
 }

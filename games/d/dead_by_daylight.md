@@ -6,71 +6,71 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~16,946 |
-| It wakes | 2.00% | ~16,946 |
-| Skillful | 2.00% | ~16,946 |
-| Make Some Noise | 2.00% | ~16,946 |
-| MU/TH/UR Dearest | 2.00% | ~16,946 |
-| The Grand Sacrifice | 1.00% | ~8,473 |
-| No one left behind | 1.00% | ~8,473 |
-| Medic | 1.00% | ~8,473 |
-| Handyman | 1.00% | ~8,473 |
-| Nerves of steel | 1.00% | ~8,473 |
-| Not half bad | 1.00% | ~8,473 |
-| Bloody Millionaire | 1.00% | ~8,473 |
-| Apt Survivor | 1.00% | ~8,473 |
-| Survival Treasures | 1.00% | ~8,473 |
-| I | 1.00% | ~8,473 |
-| Sorted | 1.00% | ~8,473 |
-| Resurgence | 1.00% | ~8,473 |
-| Backdoor Escape | 0.90% | ~7,626 |
-| Perfect Escape | 0.90% | ~7,626 |
-| Healthy Obsession | 0.90% | ~7,626 |
-| Preemptive Strike | 0.90% | ~7,626 |
-| Humanitarian | 0.90% | ~7,626 |
-| Agonizing Escape | 0.80% | ~6,779 |
-| I've got your back | 0.80% | ~6,779 |
-| Perfect Killing | 0.80% | ~6,779 |
-| Engineer | 0.80% | ~6,779 |
-| Terror of LV-426 | 0.80% | ~6,779 |
-| Apt Killer | 0.70% | ~5,931 |
-| Risk it all | 0.70% | ~5,931 |
-| II | 0.70% | ~5,931 |
-| Wounded Healer | 0.70% | ~5,931 |
-| Close Shave | 0.70% | ~5,931 |
-| Vulture | 0.60% | ~5,084 |
-| III | 0.60% | ~5,084 |
-| Second Act | 0.60% | ~5,084 |
+| Zealous | 2.00% | ~16,949 |
+| It wakes | 2.00% | ~16,949 |
+| Skillful | 2.00% | ~16,949 |
+| Make Some Noise | 2.00% | ~16,949 |
+| MU/TH/UR Dearest | 2.00% | ~16,949 |
+| The Grand Sacrifice | 1.00% | ~8,475 |
+| No one left behind | 1.00% | ~8,475 |
+| Medic | 1.00% | ~8,475 |
+| Handyman | 1.00% | ~8,475 |
+| Nerves of steel | 1.00% | ~8,475 |
+| Not half bad | 1.00% | ~8,475 |
+| Bloody Millionaire | 1.00% | ~8,475 |
+| Apt Survivor | 1.00% | ~8,475 |
+| Survival Treasures | 1.00% | ~8,475 |
+| I | 1.00% | ~8,475 |
+| Sorted | 1.00% | ~8,475 |
+| Resurgence | 1.00% | ~8,475 |
+| Backdoor Escape | 0.90% | ~7,627 |
+| Perfect Escape | 0.90% | ~7,627 |
+| Healthy Obsession | 0.90% | ~7,627 |
+| Preemptive Strike | 0.90% | ~7,627 |
+| Humanitarian | 0.90% | ~7,627 |
+| Agonizing Escape | 0.80% | ~6,780 |
+| I've got your back | 0.80% | ~6,780 |
+| Perfect Killing | 0.80% | ~6,780 |
+| Engineer | 0.80% | ~6,780 |
+| Terror of LV-426 | 0.80% | ~6,780 |
+| Apt Killer | 0.70% | ~5,932 |
+| Risk it all | 0.70% | ~5,932 |
+| II | 0.70% | ~5,932 |
+| Wounded Healer | 0.70% | ~5,932 |
+| Close Shave | 0.70% | ~5,932 |
+| Vulture | 0.60% | ~5,085 |
+| III | 0.60% | ~5,085 |
+| Second Act | 0.60% | ~5,085 |
 | First to the Punch | 0.50% | ~4,237 |
 | Every Last Drop | 0.50% | ~4,237 |
 | With Scars to Show | 0.50% | ~4,237 |
-| Blood on your hands | 0.40% | ~3,389 |
-| Escape Artist | 0.40% | ~3,389 |
-| Made it out alive! | 0.40% | ~3,389 |
-| Gifts for the Fog | 0.40% | ~3,389 |
-| III-50 | 0.40% | ~3,389 |
-| Shock Therapy | 0.40% | ~3,389 |
-| All Aboard | 0.40% | ~3,389 |
-| Item of Obsession | 0.40% | ~3,389 |
-| Holiday Get-Together | 0.40% | ~3,389 |
-| Near-Death Experience | 0.40% | ~3,389 |
-| Cherish your Life | 0.40% | ~3,389 |
-| Unforgettable Getaway | 0.40% | ~3,389 |
-| Cutting Out | 0.40% | ~3,389 |
-| Operation: Survival | 0.40% | ~3,389 |
-| Old West Oasis | 0.40% | ~3,389 |
-| Classy Act | 0.40% | ~3,389 |
-| Raccoon City Recruit | 0.40% | ~3,389 |
-| Flight to Freedom | 0.40% | ~3,389 |
-| A Fast Death | 0.40% | ~3,389 |
-| Lifting The Fog | 0.40% | ~3,389 |
-| Chorus of Chaos | 0.40% | ~3,389 |
-| One More Step | 0.40% | ~3,389 |
+| Blood on your hands | 0.40% | ~3,390 |
+| Escape Artist | 0.40% | ~3,390 |
+| Made it out alive! | 0.40% | ~3,390 |
+| Gifts for the Fog | 0.40% | ~3,390 |
+| III-50 | 0.40% | ~3,390 |
+| Shock Therapy | 0.40% | ~3,390 |
+| All Aboard | 0.40% | ~3,390 |
+| Item of Obsession | 0.40% | ~3,390 |
+| House of Pain | 0.40% | ~3,390 |
+| Holiday Get-Together | 0.40% | ~3,390 |
+| Near-Death Experience | 0.40% | ~3,390 |
+| Cherish your Life | 0.40% | ~3,390 |
+| Unforgettable Getaway | 0.40% | ~3,390 |
+| Cutting Out | 0.40% | ~3,390 |
+| Operation: Survival | 0.40% | ~3,390 |
+| Old West Oasis | 0.40% | ~3,390 |
+| Classy Act | 0.40% | ~3,390 |
+| Raccoon City Recruit | 0.40% | ~3,390 |
+| Flight to Freedom | 0.40% | ~3,390 |
+| A Fast Death | 0.40% | ~3,390 |
+| Lifting The Fog | 0.40% | ~3,390 |
+| Chorus of Chaos | 0.40% | ~3,390 |
+| One More Step | 0.40% | ~3,390 |
 | A bite for the Entity | 0.30% | ~2,542 |
 | Blood on your face | 0.30% | ~2,542 |
 | Hemophobia | 0.30% | ~2,542 |
 | Leapfrog | 0.30% | ~2,542 |
-| House of Pain | 0.30% | ~2,542 |
 | Cottage Owner | 0.30% | ~2,542 |
 | Serial Killer | 0.30% | ~2,542 |
 | Escaping the Nightmare | 0.30% | ~2,542 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~847 |
 | Adept Ripley | 0.10% | ~847 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 847,318 (Ranked 15)  
+Progressed: 847,468 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,10 +373,10 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
-| 2023-09-04 | 847,318 | 48 |
+| 2023-09-04 | 847,468 | 48 |
 ## Awards
 Max (Diverse Characters): 31,936  (Ranked 15)  
-Sum: 250,078 (Ranked 11)  
+Sum: 250,148 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -384,11 +384,11 @@ Diff (max vs sum): 4
 | This game is Highly Recommended | 28,608 |
 | This game has Competitive Players | 28,471 |
 | This game has Amazing Characters | 28,274 |
-| This game is Extremely Fun | 28,016 |
+| This game is Extremely Fun | 28,054 |
 | This game has Quickly Understood Controls | 27,702 |
 | This game has Challenging Combat | 27,402 |
 | This game has Amazing Storytelling | 25,682 |
-| This game has a Competitive Community | 23,987 |
+| This game has a Competitive Community | 24,019 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
 ## Ratings History
@@ -617,4 +617,4 @@ Diff (max vs sum): 4
 | 2023-09-01 | 4.52 | - | 31,778 | 249,224 |
 | 2023-09-02 | 4.52 | - | 31,830 | 249,556 |
 | 2023-09-03 | 4.52 | - | 31,886 | 249,913 |
-| 2023-09-04 | 4.52 | - | 31,936 | 250,078 |
+| 2023-09-04 | 4.52 | - | 31,936 | 250,148 |

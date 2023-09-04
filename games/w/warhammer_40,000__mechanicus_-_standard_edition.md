@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 666)
 | Perma-live | 0.10% | ~222 |
 | Purge the Heretek | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,919 (Ranked 56)  
+Progressed: 221,920 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,10 +177,10 @@ Completed: 5 (0.00%) (Ranked 271)
 | 2023-09-01 | 221,708 | 5 |
 | 2023-09-02 | 221,795 | 5 |
 | 2023-09-03 | 221,884 | 5 |
-| 2023-09-04 | 221,919 | 5 |
+| 2023-09-04 | 221,920 | 5 |
 ## Awards
 Max (Highly Recommended): 282  (Ranked 241)  
-Sum: 2,132 (Ranked 196)  
+Sum: 2,133 (Ranked 196)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -191,7 +191,7 @@ Diff (max vs sum): 45
 | This game has Diverse Characters | 259 |
 | This game has Amazing Storytelling | 244 |
 | This game is Relaxing | 237 |
-| This game has Unique Visuals | 208 |
+| This game has Unique Visuals | 209 |
 | This game has a Creative Community | 97 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
@@ -251,3 +251,4 @@ Diff (max vs sum): 45
 | 2023-08-28 | 4.43 | 281 | 2,129 |
 | 2023-08-31 | 4.43 | 282 | 2,130 |
 | 2023-09-03 | 4.43 | 282 | 2,132 |
+| 2023-09-04 | 4.43 | 282 | 2,133 |

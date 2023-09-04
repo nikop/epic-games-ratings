@@ -1131,9 +1131,9 @@
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 295
     },
     {
       "ID": "MiCasaSuCasa",
@@ -1163,9 +1163,9 @@
       "ID": "Relic",
       "SetID": "3ai6ml8",
       "Name": "Relic",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 454
     },
     {
       "ID": "SkeletonCrew",
@@ -1218,8 +1218,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:10:14.3435865+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:05:02.7810478+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:05:06.0433398+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:10:14.3436085+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:59:56.1133329+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:05:02.7810786+00:00"
 }

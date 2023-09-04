@@ -1,13 +1,13 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 613)  
+Rating: 4.47 (Ranked 614)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,646 |
+| Meeting Resistance | 46.00% | ~1,647 |
 | Confirming Suspicions | 40.00% | ~1,432 |
-| The Kraken Wakes | 36.00% | ~1,288 |
+| The Kraken Wakes | 36.00% | ~1,289 |
 | It's Starting to Crack | 33.00% | ~1,181 |
 | Change the Channel | 30.00% | ~1,074 |
 | Lord of War | 29.00% | ~1,038 |
@@ -15,12 +15,12 @@ Rating: 4.47 (Ranked 613)
 | Resourceful | 26.00% | ~931 |
 | Target America | 25.00% | ~895 |
 | The Kraken Sleeps | 23.00% | ~823 |
-| Organ Grinder | 22.00% | ~787 |
-| As Quiet as a Mouse | 22.00% | ~787 |
+| Organ Grinder | 22.00% | ~788 |
+| As Quiet as a Mouse | 22.00% | ~788 |
 | Liberté | 21.00% | ~752 |
 | Sharpshooter | 21.00% | ~752 |
 | Explosive Efficiency | 18.00% | ~644 |
-| Gunslinger | 17.00% | ~608 |
+| Gunslinger | 17.00% | ~609 |
 | Just a Flesh Wound | 16.00% | ~573 |
 | Der Geist | 16.00% | ~573 |
 | Climbing the Ladder | 15.00% | ~537 |
@@ -33,7 +33,7 @@ Rating: 4.47 (Ranked 613)
 | No Stone Unturned | 13.00% | ~465 |
 | Opposing Force | 13.00% | ~465 |
 | Enemy at the Gates | 13.00% | ~465 |
-| Set Europe Ablaze | 12.00% | ~429 |
+| Set Europe Ablaze | 12.00% | ~430 |
 | Precision Is Key | 9.00% | ~322 |
 | My Little Friend | 9.00% | ~322 |
 | Rigged to Blow | 8.00% | ~286 |
@@ -41,7 +41,7 @@ Rating: 4.47 (Ranked 613)
 | The Long Game | 5.00% | ~179 |
 | It'll Buff Right Out | 5.00% | ~179 |
 | Don't hold your breath | 5.00% | ~179 |
-| Operation Foxley | 5.00% | ~176 |
+| Operation Foxley | 5.00% | ~177 |
 | Strategist | 4.00% | ~143 |
 | Tinkerer | 4.00% | ~143 |
 | Locomotion Commotion | 4.00% | ~143 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 613)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,579 (Ranked 154)  
+Progressed: 3,580 (Ranked 154)  
 Completed: 10 (0.28%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 10 (0.28%) (Ranked 182)
 | 2023-09-01 | 3,560 | 10 |
 | 2023-09-02 | 3,565 | 10 |
 | 2023-09-03 | 3,577 | 10 |
-| 2023-09-04 | 3,579 | 10 |
+| 2023-09-04 | 3,580 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

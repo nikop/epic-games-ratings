@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106381,
+  "EOS_Progressed": 106385,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9637,6 +9637,11 @@
       "Time": "2023-09-04T13:09:39.8397147+00:00",
       "NumProgressed": 106381,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-04T14:04:38.8568321+00:00",
+      "NumProgressed": 106385,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -9656,7 +9661,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 80850
+      "UsersEstimate": 80853
     },
     {
       "ID": "EAwards_10",
@@ -9672,7 +9677,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26595
+      "UsersEstimate": 26596
     },
     {
       "ID": "EAwards_12",
@@ -9680,7 +9685,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 14893
+      "UsersEstimate": 14894
     },
     {
       "ID": "EAwards_13",
@@ -9720,7 +9725,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38297
+      "UsersEstimate": 38299
     },
     {
       "ID": "EAwards_18",
@@ -9728,7 +9733,7 @@
       "Name": "You Survived",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8510
+      "UsersEstimate": 8511
     },
     {
       "ID": "EAwards_19",
@@ -9744,7 +9749,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51063
+      "UsersEstimate": 51065
     },
     {
       "ID": "EAwards_20",
@@ -9808,7 +9813,7 @@
       "Name": "One down...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9574
+      "UsersEstimate": 9575
     },
     {
       "ID": "EAwards_28",
@@ -9816,7 +9821,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "EAwards_29",
@@ -9832,7 +9837,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20212
+      "UsersEstimate": 20213
     },
     {
       "ID": "EAwards_30",
@@ -9880,7 +9885,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8510
+      "UsersEstimate": 8511
     },
     {
       "ID": "EAwards_36",
@@ -10000,7 +10005,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9574
+      "UsersEstimate": 9575
     },
     {
       "ID": "EAwards_6",
@@ -10008,7 +10013,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8510
+      "UsersEstimate": 8511
     },
     {
       "ID": "EAwards_7",
@@ -10039,7 +10044,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 106381,
+      "Progressed": 106385,
       "Completed": 40
     }
   ],
@@ -10047,8 +10052,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-01T15:00:01.2211131+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:09:39.8397142+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:04:38.8568315+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.1007702+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:02:13.6738371+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:09:39.839854+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:57:15.2297803+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:04:38.8569371+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1292,9 +1292,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427806,
+  "EOS_Progressed": 427808,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -10737,6 +10737,11 @@
       "Time": "2023-09-04T13:10:33.1073976+00:00",
       "NumProgressed": 427806,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-09-04T14:05:21.7600243+00:00",
+      "NumProgressed": 427808,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 41,
@@ -10756,7 +10761,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 166844
+      "UsersEstimate": 166845
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -10764,7 +10769,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256684
+      "UsersEstimate": 256685
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -10828,7 +10833,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256684
+      "UsersEstimate": 256685
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -10884,7 +10889,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201069
+      "UsersEstimate": 201070
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -10892,7 +10897,7 @@
       "Name": "Curse Collector",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29946
+      "UsersEstimate": 29947
     },
     {
       "ID": "ACH_DIFFICULTY_MASTER",
@@ -10916,7 +10921,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406416
+      "UsersEstimate": 406418
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -10932,7 +10937,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308020
+      "UsersEstimate": 308022
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -10940,7 +10945,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158288
+      "UsersEstimate": 158289
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -10948,7 +10953,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295186
+      "UsersEstimate": 295188
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -10964,7 +10969,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342245
+      "UsersEstimate": 342246
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -10972,7 +10977,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29946
+      "UsersEstimate": 29947
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -10980,7 +10985,7 @@
       "Name": "Zen Master",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 34224
+      "UsersEstimate": 34225
     },
     {
       "ID": "ACH_PHOTO_MODE",
@@ -10996,7 +11001,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 196791
+      "UsersEstimate": 196792
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -11004,7 +11009,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141176
+      "UsersEstimate": 141177
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -11028,7 +11033,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239571
+      "UsersEstimate": 239572
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -11044,7 +11049,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145454
+      "UsersEstimate": 145455
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -11075,15 +11080,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427806,
+      "Progressed": 427808,
       "Completed": 530
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-01T20:58:33.5454622+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:10:33.1073971+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:05:21.7600239+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:13.8179307+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:03:47.6823609+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:10:33.1074875+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:58:46.1584219+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:05:21.7601115+00:00"
 }

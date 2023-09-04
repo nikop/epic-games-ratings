@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3579,
+  "EOS_Progressed": 3580,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6470,6 +6470,11 @@
       "Time": "2023-09-04T10:07:54.7183212+00:00",
       "NumProgressed": 3579,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-04T14:06:34.4518722+00:00",
+      "NumProgressed": 3580,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6545,7 +6550,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6561,7 +6566,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6601,7 +6606,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6633,7 +6638,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6721,7 +6726,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6729,7 +6734,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6953,7 +6958,7 @@
       "Name": "Operation Foxley",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7048,13 +7053,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3530,
+      "Progressed": 3531,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3579,
+      "Progressed": 3580,
       "Completed": 10
     }
   ],
@@ -7062,8 +7067,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-04T13:11:45.8409783+00:00",
+  "LastChanged_Achievements": "2023-09-04T14:06:34.4518718+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:02:08.3842387+00:00",
-  "LastUpdate_Achievements": "2023-09-04T13:11:45.8410842+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:57:10.4924139+00:00",
+  "LastUpdate_Achievements": "2023-09-04T14:06:34.451969+00:00"
 }
