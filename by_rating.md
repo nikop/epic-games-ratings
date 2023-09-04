@@ -392,7 +392,7 @@
 | 369 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 281 | 243 |
 | 369 | [Supraland](games/s/supraland.md) | 4.61 | 7,683 | 45 |
 | 369 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 517 |
-| 369 | [Warframe](games/w/warframe.md) | 4.61 | 16,819 | 22 |
+| 369 | [Warframe](games/w/warframe.md) | 4.61 | 16,836 | 22 |
 | 394 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 23 | 492 |
 | 394 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 727 | 164 |
 | 394 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,540 | 27 |
@@ -536,7 +536,7 @@
 | 533 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,886 | 15 |
 | 533 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 504 |
 | 533 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 446 |
-| 533 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,429 | 7 |
+| 533 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,485 | 7 |
 | 533 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 517 |
 | 533 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 529 | 196 |
 | 533 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 102 | 334 |
@@ -949,7 +949,7 @@
 | 943 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 517 |
 | 948 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 517 |
 | 948 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.98 | 0 | 517 |
-| 948 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,352 | 89 |
+| 948 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,366 | 89 |
 | 948 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 517 |
 | 952 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 517 |
 | 953 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 414 |

@@ -68,7 +68,7 @@
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.37% |
 | 67 | [Without Escape](games/w/without_escape.md) | 3.33% |
 | 68 | [The Complex](games/t/the_complex.md) | 3.31% |
-| 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.30% |
+| 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 71 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.06% |
 | 72 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
@@ -81,8 +81,8 @@
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 81 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
-| 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.56% |
 | 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
+| 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.55% |
 | 84 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.50% |
@@ -193,10 +193,10 @@
 | 191 | [Blanc](games/b/blanc.md) | 0.23% |
 | 192 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
 | 192 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 194 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.21% |
 | 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 194 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
-| 196 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.20% |
-| 196 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
+| 197 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 198 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.18% |
 | 200 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |

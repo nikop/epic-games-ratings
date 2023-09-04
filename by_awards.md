@@ -6,7 +6,7 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 220,395 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 198,009 | 4.19 | 874 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 172,573 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 147,429 | 4.52 | 533 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 147,485 | 4.52 | 533 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 115,691 | 4.69 | 218 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 77,270 | 4.62 | 354 |
 | 10 | [VALORANT](games/v/valorant.md) | 68,100 | 4.53 | 521 |
@@ -21,7 +21,7 @@
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,377 | 4.57 | 454 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,821 | 4.26 | 830 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,038 | 4.89 | 13 |
-| 22 | [Warframe](games/w/warframe.md) | 16,819 | 4.61 | 369 |
+| 22 | [Warframe](games/w/warframe.md) | 16,836 | 4.61 | 369 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,213 | 4.76 | 117 |
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,463 | 4.58 | 430 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,649 | 4.60 | 394 |
@@ -88,7 +88,7 @@
 | 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,518 | 4.46 | 628 |
 | 87 | [Gloomhaven](games/g/gloomhaven.md) | 3,512 | 4.47 | 614 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,444 | 4.68 | 241 |
-| 89 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,352 | 3.98 | 948 |
+| 89 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,366 | 3.98 | 948 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,344 | 4.68 | 241 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,316 | 4.76 | 117 |
 | 92 | [Hades](games/h/hades.md) | 3,245 | 4.92 | 4 |
