@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3638,9 +3638,9 @@
       "ID": "ReaperDefeated_Dolorus",
       "SetID": "3jha1np",
       "Name": "Engine Kill",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ReaperDefeated_Mortus",
@@ -3796,8 +3796,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-08-23T16:01:12.805504+00:00",
-  "LastChanged_Achievements": "2023-09-04T11:05:28.2225087+00:00",
+  "LastChanged_Achievements": "2023-09-04T12:06:03.4710666+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:31.6122131+00:00",
-  "LastUpdate_Ratings": "2023-09-04T10:58:55.0045767+00:00",
-  "LastUpdate_Achievements": "2023-09-04T11:05:28.2225932+00:00"
+  "LastUpdate_Ratings": "2023-09-04T11:59:46.449322+00:00",
+  "LastUpdate_Achievements": "2023-09-04T12:06:03.4711284+00:00"
 }

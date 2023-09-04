@@ -1,7 +1,7 @@
 # Obduction
 [Store](https://store.epicgames.com/en-US/p/obduction)  
 [View Rawdata](../../db/o/obduction.json)  
-Rating: 4.10 (Ranked 914)  
+Rating: 4.09 (Ranked 918)  
 Number of Ratings: 231  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 53  (Ranked 396)  
@@ -99,3 +99,4 @@ Diff (max vs sum): -52
 | 2023-08-01 | 4.09 | - | 52 | 52 |
 | 2023-08-16 | 4.09 | - | 53 | 53 |
 | 2023-08-24 | 4.10 | - | 53 | 53 |
+| 2023-09-04 | 4.09 | - | 53 | 53 |

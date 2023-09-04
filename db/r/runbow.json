@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248936,
+  "EOS_Progressed": 248938,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13159,6 +13159,11 @@
       "Time": "2023-09-04T10:07:59.7463632+00:00",
       "NumProgressed": 248936,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-04T12:08:16.1810689+00:00",
+      "NumProgressed": 248938,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -13242,7 +13247,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37340
+      "UsersEstimate": 37341
     },
     {
       "ID": "clearCut",
@@ -13266,7 +13271,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44808
+      "UsersEstimate": 44809
     },
     {
       "ID": "curator",
@@ -13274,7 +13279,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49787
+      "UsersEstimate": 49788
     },
     {
       "ID": "didYourTime",
@@ -13330,7 +13335,7 @@
       "Name": "Here We Go!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "imHereAllNight",
@@ -13346,7 +13351,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131936
+      "UsersEstimate": 131937
     },
     {
       "ID": "indegestible",
@@ -13370,7 +13375,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64723
+      "UsersEstimate": 64724
     },
     {
       "ID": "justABit",
@@ -13402,7 +13407,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37340
+      "UsersEstimate": 37341
     },
     {
       "ID": "myFirstRunbow",
@@ -13410,7 +13415,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124468
+      "UsersEstimate": 124469
     },
     {
       "ID": "notScared",
@@ -13537,7 +13542,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248936,
+      "Progressed": 248938,
       "Completed": 4
     }
   ],
@@ -13545,8 +13550,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-04T11:06:58.4443782+00:00",
+  "LastChanged_Achievements": "2023-09-04T12:08:16.1810683+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.8400765+00:00",
-  "LastUpdate_Ratings": "2023-09-04T10:59:20.0233516+00:00",
-  "LastUpdate_Achievements": "2023-09-04T11:06:58.4445006+00:00"
+  "LastUpdate_Ratings": "2023-09-04T12:00:28.6056369+00:00",
+  "LastUpdate_Achievements": "2023-09-04T12:08:16.1811612+00:00"
 }

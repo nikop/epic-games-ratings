@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15009,
+  "EOS_Progressed": 15010,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9510,6 +9510,11 @@
       "Time": "2023-09-04T11:03:38.1938421+00:00",
       "NumProgressed": 15009,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-04T12:03:31.5054082+00:00",
+      "NumProgressed": 15010,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9841,22 +9846,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5253
+      "UsersEstimate": 5254
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15009,
+      "Progressed": 15010,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-04T11:03:38.1938414+00:00",
+  "LastChanged_Achievements": "2023-09-04T12:03:31.5054068+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-04T10:59:59.6243304+00:00",
-  "LastUpdate_Achievements": "2023-09-04T11:03:38.1939354+00:00"
+  "LastUpdate_Ratings": "2023-09-04T12:01:22.7152885+00:00",
+  "LastUpdate_Achievements": "2023-09-04T12:03:31.5054731+00:00"
 }

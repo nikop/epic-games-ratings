@@ -7,7 +7,7 @@
 | Such a strange dream… | 88.00% | ~278 |
 | Your first fight | 86.00% | ~272 |
 | Good Person Chip | 85.00% | ~269 |
-| First winning | 83.00% | ~262 |
+| First winning | 84.00% | ~265 |
 | Your first job | 83.00% | ~262 |
 | Fitness professional | 78.00% | ~246 |
 | Old movies enjoyer | 78.00% | ~246 |
@@ -15,7 +15,7 @@
 | Neurotrainer – power gainer! | 75.00% | ~237 |
 | Employee of the week | 75.00% | ~237 |
 | Your own amateur gym | 73.00% | ~231 |
-| First defeat | 72.00% | ~228 |
+| First defeat | 73.00% | ~231 |
 | Run K, run! | 72.00% | ~228 |
 | Fighting is cool | 68.00% | ~215 |
 | Hello, world! | 68.00% | ~215 |

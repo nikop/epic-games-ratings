@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 6.00% | ~1,334 |
-| Project Arena | 4.00% | ~889 |
+| Project Arena | 4.00% | ~890 |
 | The Old Grandmaster | 2.00% | ~14,259 |
 | The Assault | 2.00% | ~14,259 |
 | The Hateful Pole Fighter | 2.00% | ~14,259 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712,935 (Ranked 20)  
+Progressed: 712,937 (Ranked 20)  
 Completed: 12,882 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,15 +194,15 @@ Completed: 12,882 (1.81%) (Ranked 99)
 | 2023-09-01 | 712,886 | 12,878 |
 | 2023-09-02 | 712,912 | 12,878 |
 | 2023-09-03 | 712,929 | 12,882 |
-| 2023-09-04 | 712,935 | 12,882 |
+| 2023-09-04 | 712,937 | 12,882 |
 ## Awards
 Max (Great Boss Battles): 6,430  (Ranked 53)  
-Sum: 11,054 (Ranked 80)  
+Sum: 11,055 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,430 |
-| This game has Diverse Characters | 578 |
+| This game has Diverse Characters | 579 |
 | This game has Challenging Combat | 545 |
 | This game has Quickly Understood Controls | 542 |
 | This game has Amazing Storytelling | 531 |
@@ -446,4 +446,4 @@ Diff (max vs sum): -27
 | 2023-09-01 | 4.82 | - | 6,419 | 11,032 |
 | 2023-09-02 | 4.82 | - | 6,424 | 11,043 |
 | 2023-09-03 | 4.82 | - | 6,430 | 11,053 |
-| 2023-09-04 | 4.82 | - | 6,430 | 11,054 |
+| 2023-09-04 | 4.82 | - | 6,430 | 11,055 |

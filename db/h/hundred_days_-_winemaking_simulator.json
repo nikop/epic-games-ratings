@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 757,
+  "Ranking_Rating": 764,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 196,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.34,
   "NumberOfRatings": 7669,
   "RatingHistory": [
     {
@@ -890,6 +890,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 1458,
       "NumberOfAwardsMax": 203
+    },
+    {
+      "Time": "2023-09-04T11:58:24.9206085+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1458,
+      "NumberOfAwardsMax": 203
     }
   ],
   "ReviewsDisabled": false,
@@ -958,9 +964,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1196,
+  "EOS_Progressed": 1204,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1191,
+  "EOS_NewPlayers": 1199,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1568,6 +1574,11 @@
       "Time": "2023-09-04T11:07:02.7613767+00:00",
       "NumProgressed": 1196,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T12:08:22.1766486+00:00",
+      "NumProgressed": 1204,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1628,7 +1639,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 397
     },
     {
       "ID": "a_19",
@@ -1666,9 +1677,9 @@
       "ID": "a_22",
       "SetID": "daiie3o",
       "Name": "A long journey",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 48
     },
     {
       "ID": "a_23",
@@ -1698,17 +1709,17 @@
       "ID": "a_27",
       "SetID": "daiie3o",
       "Name": "Keep the doctor away",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "a_3",
@@ -1730,9 +1741,9 @@
       "ID": "a_31",
       "SetID": "daiie3o",
       "Name": "King of white wines",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "a_32",
@@ -1746,17 +1757,17 @@
       "ID": "a_33",
       "SetID": "daiie3o",
       "Name": "Big deals",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "a_34",
       "SetID": "daiie3o",
       "Name": "Master Winemaker",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "a_35",
@@ -1770,9 +1781,9 @@
       "ID": "a_36",
       "SetID": "daiie3o",
       "Name": "Unsuitable Terroir",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "a_4",
@@ -1827,16 +1838,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1196,
+      "Progressed": 1204,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-04T11:07:02.7613762+00:00",
+  "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
+  "LastChanged_Achievements": "2023-09-04T12:08:22.1766481+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-04T10:57:57.5769389+00:00",
-  "LastUpdate_Achievements": "2023-09-04T11:07:02.7613999+00:00"
+  "LastUpdate_Ratings": "2023-09-04T11:58:24.9206088+00:00",
+  "LastUpdate_Achievements": "2023-09-04T12:08:22.1766691+00:00"
 }

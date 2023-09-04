@@ -5914,10 +5914,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11054,
       "NumberOfAwardsMax": 6430
+    },
+    {
+      "Time": "2023-09-04T12:00:12.5976651+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11055,
+      "NumberOfAwardsMax": 6430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11054,
+  "NumberOfAwards": 11055,
   "NumberOfAwardsMax": 6430,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5955,7 +5961,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 578
+      "Count": 579
     },
     {
       "Text": "This game is Relaxing",
@@ -5994,9 +6000,9 @@
       "Count": 374
     }
   ],
-  "EOS_Progressed": 712935,
+  "EOS_Progressed": 712937,
   "EOS_Completed": 12882,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18479,6 +18485,11 @@
       "Time": "2023-09-04T08:07:09.9520756+00:00",
       "NumProgressed": 712935,
       "NumCompleted": 12882
+    },
+    {
+      "Time": "2023-09-04T12:08:21.3159398+00:00",
+      "NumProgressed": 712937,
+      "NumCompleted": 12882
     }
   ],
   "TotalAchievements": 50,
@@ -18826,7 +18837,7 @@
       "Name": "Project Arena",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -18889,21 +18900,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22236,
+      "Progressed": 22238,
       "Completed": 10584
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712935,
+      "Progressed": 712937,
       "Completed": 12882
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-04T05:59:55.9438285+00:00",
-  "LastChanged_Achievements": "2023-09-04T11:07:02.1670239+00:00",
+  "LastChanged": "2023-09-04T12:00:12.5976649+00:00",
+  "LastChanged_Achievements": "2023-09-04T12:08:21.3159387+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-04T10:59:12.1550047+00:00",
-  "LastUpdate_Achievements": "2023-09-04T11:07:02.1671485+00:00"
+  "LastUpdate_Ratings": "2023-09-04T12:00:12.5976654+00:00",
+  "LastUpdate_Achievements": "2023-09-04T12:08:21.3160288+00:00"
 }

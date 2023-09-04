@@ -682,9 +682,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5656,
+  "EOS_Progressed": 5657,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6907,6 +6907,11 @@
       "Time": "2023-09-04T10:08:18.3232359+00:00",
       "NumProgressed": 5656,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T12:08:34.5432532+00:00",
+      "NumProgressed": 5657,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -6926,7 +6931,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -6934,7 +6939,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -6942,7 +6947,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -6958,7 +6963,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3337
+      "UsersEstimate": 3338
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -6966,7 +6971,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -6974,7 +6979,7 @@
       "Name": "Scaling up",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7014,7 +7019,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -7038,7 +7043,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -7197,13 +7202,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5656,
+      "Progressed": 5657,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5028,
+      "Progressed": 5029,
       "Completed": 112
     }
   ],
@@ -7211,8 +7216,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-03T19:00:39.4102502+00:00",
-  "LastChanged_Achievements": "2023-09-04T11:09:13.1555828+00:00",
+  "LastChanged_Achievements": "2023-09-04T12:08:34.5432524+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-04T10:59:47.0142937+00:00",
-  "LastUpdate_Achievements": "2023-09-04T11:09:13.1556527+00:00"
+  "LastUpdate_Ratings": "2023-09-04T12:01:05.6825565+00:00",
+  "LastUpdate_Achievements": "2023-09-04T12:08:34.5433029+00:00"
 }

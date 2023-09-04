@@ -11,13 +11,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 2.00% | ~2,713 |
 | Titan's First Steps | 2.00% | ~2,713 |
 | One Easy Payment | 1.00% | ~1,356 |
+| Some Assembly Required | 1.00% | ~1,356 |
 | Disintermediation | 1.00% | ~1,356 |
 | Another Satisfied Customer | 1.00% | ~1,356 |
 | It's Free Real Estate | 1.00% | ~1,356 |
 | Budding Merchant | 1.00% | ~1,356 |
 | Capitalism Ho! | 1.00% | ~1,356 |
 | Own the Means of Production | 1.00% | ~1,356 |
-| Some Assembly Required | 0.90% | ~1,221 |
 | Pretty Penny | 0.90% | ~1,221 |
 | One-Armed Bandit | 0.80% | ~1,085 |
 | Through Repetition, Perfection | 0.80% | ~1,085 |
@@ -26,6 +26,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.70% | ~949 |
 | Where it Hurts | 0.70% | ~949 |
 | Dungeon Imports | 0.70% | ~949 |
+| Blank Page Syndrome | 0.60% | ~814 |
 | Demand for Supplies | 0.60% | ~814 |
 | Gild-Gotten Goods | 0.60% | ~814 |
 | Accomplished Merchant | 0.60% | ~814 |
@@ -36,7 +37,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Research & Development | 0.50% | ~678 |
 | Vanity, Verily | 0.50% | ~678 |
 | Fated Encounters | 0.50% | ~678 |
-| Blank Page Syndrome | 0.50% | ~678 |
 | Power of Love | 0.50% | ~678 |
 | Efficient Floor Space | 0.50% | ~678 |
 | Flawless Fusion | 0.50% | ~678 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,633 (Ranked 67)  
+Progressed: 135,636 (Ranked 67)  
 Completed: 142 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 142 (0.10%) (Ranked 218)
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
 | 2023-09-03 | 135,618 | 142 |
-| 2023-09-04 | 135,633 | 142 |
+| 2023-09-04 | 135,636 | 142 |
 ## Awards
 Max (Great for Beginners): 4,721  (Ranked 70)  
 Sum: 27,171 (Ranked 47)  

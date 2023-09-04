@@ -4,7 +4,7 @@
   "ProductSlug": "mars-2030",
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T09:58:21.2291476+00:00",
-  "LastUpdate_Ratings": "2023-09-04T10:58:49.298391+00:00",
-  "LastUpdate_Achievements": "2023-09-04T11:05:30.9538815+00:00"
+  "LastUpdate_Ratings": "2023-09-04T11:59:37.2861364+00:00",
+  "LastUpdate_Achievements": "2023-09-04T12:06:07.2246279+00:00"
 }
