@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231128,
+  "EOS_Progressed": 231130,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
@@ -14748,6 +14748,11 @@
       "Time": "2023-09-04T12:07:22.0608112+00:00",
       "NumProgressed": 231128,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-04T13:11:09.3418883+00:00",
+      "NumProgressed": 231130,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 34,
@@ -14895,7 +14900,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76272
+      "UsersEstimate": 76273
     },
     {
       "ID": "NOBUNAGA",
@@ -14983,7 +14988,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50848
+      "UsersEstimate": 50849
     },
     {
       "ID": "TACTICIAN",
@@ -15007,7 +15012,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50848
+      "UsersEstimate": 50849
     },
     {
       "ID": "TUNINGMANIAC",
@@ -15023,22 +15028,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94762
+      "UsersEstimate": 94763
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 231128,
+      "Progressed": 231130,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-04T12:07:22.0608103+00:00",
+  "LastChanged_Achievements": "2023-09-04T13:11:09.3418877+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:47.3546485+00:00",
-  "LastUpdate_Ratings": "2023-09-04T11:59:04.1864442+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:07:22.0608955+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:03:28.9098925+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:11:09.342001+00:00"
 }

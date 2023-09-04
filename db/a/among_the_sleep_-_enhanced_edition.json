@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84642,
+  "EOS_Progressed": 84645,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -15455,6 +15455,11 @@
       "Time": "2023-09-04T12:06:28.5934514+00:00",
       "NumProgressed": 84642,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-09-04T13:10:37.6422093+00:00",
+      "NumProgressed": 84645,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 10,
@@ -15490,7 +15495,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "Drawings04",
@@ -15498,7 +15503,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "DrawingsAll",
@@ -15530,7 +15535,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29625
+      "UsersEstimate": 29626
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -15545,15 +15550,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 84642,
+      "Progressed": 84645,
       "Completed": 392
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-09-04T12:06:28.5934508+00:00",
+  "LastChanged_Achievements": "2023-09-04T13:10:37.6422086+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.5204272+00:00",
-  "LastUpdate_Ratings": "2023-09-04T12:01:58.7943058+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:06:28.5935333+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:05:37.3755379+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:10:37.6423085+00:00"
 }

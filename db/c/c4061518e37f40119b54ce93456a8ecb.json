@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -151,9 +151,9 @@
       "ID": "ACH_Beacon",
       "SetID": "aao9n96",
       "Name": "This means something",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_CastDevice",
@@ -207,9 +207,9 @@
       "ID": "ACH_EscapeTrap",
       "SetID": "aao9n96",
       "Name": "they\u0027ll never take... OUR FREEDOM!",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_Everett",
@@ -287,9 +287,9 @@
       "ID": "ACH_MoonSurface",
       "SetID": "aao9n96",
       "Name": "Not all those who wander are lost",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_OverridePanel",
@@ -335,9 +335,9 @@
       "ID": "ACH_Spire",
       "SetID": "aao9n96",
       "Name": "Hello there",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_Theremin",
@@ -367,9 +367,9 @@
       "ID": "ACH_WeatherStations",
       "SetID": "aao9n96",
       "Name": "Elementary, my dear Watson",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -382,8 +382,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-09-04T12:08:27.4515553+00:00",
+  "LastChanged_Achievements": "2023-09-04T13:12:07.9481589+00:00",
   "LastUpdate_AppInfo": "2023-08-29T23:57:18.5287059+00:00",
-  "LastUpdate_Ratings": "2023-09-04T11:57:36.0625588+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:08:27.4515764+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:02:29.4867595+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:12:07.9481887+00:00"
 }

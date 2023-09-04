@@ -8,16 +8,16 @@ Rating: 3.94 (Ranked 955)
 | Downed but Not Outed | 74.00% | ~53,757 |
 | First One’s Free | 65.00% | ~47,219 |
 | Neophyte Ninja | 50.00% | ~36,322 |
-| Too Old for This | 48.00% | ~34,869 |
+| Too Old for This | 48.00% | ~34,870 |
 | Fancy Pants | 36.00% | ~26,152 |
-| Case Closed | 35.00% | ~25,425 |
+| Case Closed | 35.00% | ~25,426 |
 | King of the Hill | 34.00% | ~24,699 |
 | Underworld Initiate | 29.00% | ~21,067 |
 | Roid Ranger | 21.00% | ~15,255 |
 | Off the Rocks | 20.00% | ~14,529 |
-| True Player | 19.00% | ~13,802 |
-| Raider’s Ruin | 17.00% | ~12,349 |
-| Dragonslayer | 17.00% | ~12,349 |
+| True Player | 19.00% | ~13,803 |
+| Raider’s Ruin | 17.00% | ~12,350 |
+| Dragonslayer | 17.00% | ~12,350 |
 | Hidden Sonata | 13.00% | ~9,444 |
 | Rockay Rex | 12.00% | ~8,717 |
 | Track Star | 10.00% | ~7,264 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 955)
 | Geek Out | 0.60% | ~436 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,644 (Ranked 79)  
+Progressed: 72,645 (Ranked 79)  
 Completed: 43 (0.06%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,17 +180,17 @@ Completed: 43 (0.06%) (Ranked 232)
 | 2023-09-01 | 72,549 | 42 |
 | 2023-09-02 | 72,595 | 43 |
 | 2023-09-03 | 72,628 | 43 |
-| 2023-09-04 | 72,644 | 43 |
+| 2023-09-04 | 72,645 | 43 |
 ## Awards
 Max (Diverse Characters): 415  (Ranked 212)  
-Sum: 1,974 (Ranked 202)  
+Sum: 1,975 (Ranked 202)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 415 |
 | This game has Quickly Understood Controls | 406 |
 | This game is Highly Recommended | 396 |
-| This game has Challenging Combat | 381 |
+| This game has Challenging Combat | 382 |
 | This game has Amazing Characters | 376 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -354,4 +354,4 @@ Diff (max vs sum): 10
 | 2023-09-01 | 3.94 | 412 | 1,961 |
 | 2023-09-02 | 3.94 | 413 | 1,968 |
 | 2023-09-03 | 3.94 | 415 | 1,972 |
-| 2023-09-04 | 3.94 | 415 | 1,974 |
+| 2023-09-04 | 3.94 | 415 | 1,975 |

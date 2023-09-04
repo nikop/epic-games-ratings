@@ -48,15 +48,15 @@
 | Brilliant: Wasteland | 34.00% | ~57 |
 | Father of Nation | 33.00% | ~55 |
 | Dwarven Countdown | 30.00% | ~50 |
-| Starry: Wasteland | 28.00% | ~47 |
+| Starry: Wasteland | 29.00% | ~48 |
 | Monument Keeper | 27.00% | ~45 |
 | Brilliant: Free Coast | 26.00% | ~43 |
 | Deadman's Chest | 26.00% | ~43 |
 | Brilliant: The Deep | 23.00% | ~38 |
 | Starry: Free Coast | 23.00% | ~38 |
 | Starry: The Deep | 22.00% | ~37 |
+| Hostile Waters | 18.00% | ~30 |
 | Loveless | 18.00% | ~30 |
-| Hostile Waters | 17.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 167 (Ranked 313)  
 Completed: 24 (14.37%) (Ranked 18)  

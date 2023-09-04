@@ -2,12 +2,12 @@
   "ID": "ef361cdf19514595a8cb0945fb66962e",
   "Name": "Cris Tales",
   "ProductSlug": "cris-tales",
-  "Ranking_Rating": 745,
+  "Ranking_Rating": 746,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-07-20T13:00:00+00:00",
@@ -578,6 +578,6 @@
   "FirstSeen": "2022-07-22T20:17:17.9085392+00:00",
   "LastChanged": "2023-08-01T23:00:40.637837+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.3817269+00:00",
-  "LastUpdate_Ratings": "2023-09-04T12:01:27.4775536+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:02:45.2968371+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:05:16.6480869+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:07:19.5213192+00:00"
 }

@@ -3226,10 +3226,16 @@
       "Rating": 3.94,
       "NumberOfAwards": 1974,
       "NumberOfAwardsMax": 415
+    },
+    {
+      "Time": "2023-09-04T13:05:11.6594161+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1975,
+      "NumberOfAwardsMax": 415
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1974,
+  "NumberOfAwards": 1975,
   "NumberOfAwardsMax": 415,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3261,7 +3267,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 381
+      "Count": 382
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3282,9 +3288,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72644,
+  "EOS_Progressed": 72645,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17357,6 +17363,11 @@
       "Time": "2023-09-04T12:03:20.3388649+00:00",
       "NumProgressed": 72644,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-04T13:08:10.4577826+00:00",
+      "NumProgressed": 72645,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17536,7 +17547,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34869
+      "UsersEstimate": 34870
     },
     {
       "ID": "ACH_0300",
@@ -17584,7 +17595,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25425
+      "UsersEstimate": 25426
     },
     {
       "ID": "ACH_0420",
@@ -17616,7 +17627,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13802
+      "UsersEstimate": 13803
     },
     {
       "ID": "ACH_0450",
@@ -17632,7 +17643,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12349
+      "UsersEstimate": 12350
     },
     {
       "ID": "ACH_0452",
@@ -17640,7 +17651,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12349
+      "UsersEstimate": 12350
     },
     {
       "ID": "ACH_0460",
@@ -17663,22 +17674,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72644,
+      "Progressed": 72645,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 991,
-      "Completed": 991
+      "Progressed": 992,
+      "Completed": 992
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-09-04T08:00:20.963151+00:00",
-  "LastChanged_Achievements": "2023-09-04T12:03:20.3388645+00:00",
+  "LastChanged": "2023-09-04T13:05:11.659416+00:00",
+  "LastChanged_Achievements": "2023-09-04T13:08:10.4577821+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-04T12:01:20.5781214+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:03:20.3389492+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:05:11.6594167+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:08:10.4578951+00:00"
 }

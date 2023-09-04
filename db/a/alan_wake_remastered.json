@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62293,
+  "EOS_Progressed": 62295,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13432,6 +13432,11 @@
       "Time": "2023-09-04T12:04:23.6212946+00:00",
       "NumProgressed": 62293,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-04T13:08:56.3199316+00:00",
+      "NumProgressed": 62295,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13443,7 +13448,7 @@
       "Name": "Follow the Light",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24294
+      "UsersEstimate": 24295
     },
     {
       "ID": "02",
@@ -13451,7 +13456,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14950
+      "UsersEstimate": 14951
     },
     {
       "ID": "03",
@@ -13459,7 +13464,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14950
+      "UsersEstimate": 14951
     },
     {
       "ID": "04",
@@ -13555,7 +13560,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6229
+      "UsersEstimate": 6230
     },
     {
       "ID": "16",
@@ -13563,7 +13568,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4983
+      "UsersEstimate": 4984
     },
     {
       "ID": "17",
@@ -13635,7 +13640,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5606
+      "UsersEstimate": 5607
     },
     {
       "ID": "26",
@@ -13707,7 +13712,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6229
+      "UsersEstimate": 6230
     },
     {
       "ID": "35",
@@ -13755,7 +13760,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5606
+      "UsersEstimate": 5607
     },
     {
       "ID": "41",
@@ -13971,28 +13976,28 @@
       "Name": "Heartbreaker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62293,
+      "Progressed": 62295,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25761,
+      "Progressed": 25763,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-04T12:04:23.6212941+00:00",
+  "LastChanged_Achievements": "2023-09-04T13:08:56.319931+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-04T11:58:17.119309+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:04:23.6214065+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:02:55.2254918+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:08:56.3200737+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 764,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 196,
+  "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 45,
@@ -964,9 +964,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1204,
+  "EOS_Progressed": 1212,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1199,
+  "EOS_NewPlayers": 1207,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1579,6 +1579,11 @@
       "Time": "2023-09-04T12:08:22.1766486+00:00",
       "NumProgressed": 1204,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T13:11:54.1544644+00:00",
+      "NumProgressed": 1212,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1591,7 +1596,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "a_10",
@@ -1605,9 +1610,9 @@
       "ID": "a_11",
       "SetID": "daiie3o",
       "Name": "A lot of space",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "a_12",
@@ -1629,9 +1634,9 @@
       "ID": "a_16",
       "SetID": "daiie3o",
       "Name": "Millionaire",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "a_18",
@@ -1639,7 +1644,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 400
     },
     {
       "ID": "a_19",
@@ -1647,7 +1652,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "a_2",
@@ -1661,9 +1666,9 @@
       "ID": "a_20",
       "SetID": "daiie3o",
       "Name": "The Assistant",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 61
     },
     {
       "ID": "a_21",
@@ -1671,7 +1676,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "a_22",
@@ -1687,7 +1692,7 @@
       "Name": "Quack",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "a_25",
@@ -1709,9 +1714,9 @@
       "ID": "a_27",
       "SetID": "daiie3o",
       "Name": "Keep the doctor away",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 36
     },
     {
       "ID": "a_28",
@@ -1838,7 +1843,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1204,
+      "Progressed": 1212,
       "Completed": 3
     }
   ],
@@ -1846,8 +1851,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-04T12:08:22.1766481+00:00",
+  "LastChanged_Achievements": "2023-09-04T13:11:54.1544639+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-04T11:58:24.9206088+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:08:22.1766691+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:03:01.4940275+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:11:54.1544913+00:00"
 }

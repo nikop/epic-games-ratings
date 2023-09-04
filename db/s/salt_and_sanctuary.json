@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2505,9 +2505,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 532285,
+  "EOS_Progressed": 532286,
   "EOS_Completed": 1529,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -17365,6 +17365,11 @@
       "Time": "2023-09-04T12:02:30.2323178+00:00",
       "NumProgressed": 532285,
       "NumCompleted": 1529
+    },
+    {
+      "Time": "2023-09-04T13:07:08.5253823+00:00",
+      "NumProgressed": 532286,
+      "NumCompleted": 1529
     }
   ],
   "TotalAchievements": 37,
@@ -17632,7 +17637,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 340662
+      "UsersEstimate": 340663
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -17671,15 +17676,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 532285,
+      "Progressed": 532286,
       "Completed": 1529
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-02T10:01:59.4520219+00:00",
-  "LastChanged_Achievements": "2023-09-04T12:02:30.2323172+00:00",
+  "LastChanged_Achievements": "2023-09-04T13:07:08.5253819+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:57.7923113+00:00",
-  "LastUpdate_Ratings": "2023-09-04T12:00:14.6655727+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:02:30.232412+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:04:19.7267131+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:07:08.5255096+00:00"
 }

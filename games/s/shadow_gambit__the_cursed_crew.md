@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.80 (Ranked 83)  
+Rating: 4.78 (Ranked 100)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,8 +28,8 @@ Rating: 4.80 (Ranked 83)
 | Lyrical Longing | 7.00% | ~42 |
 | Corsair | 5.00% | ~30 |
 | Freebooter | 4.00% | ~24 |
+| Fully Decked | 4.00% | ~24 |
 | Marauder | 3.00% | ~18 |
-| Fully Decked | 3.00% | ~18 |
 | Welcome Back Jester | 3.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 594 (Ranked 229)  
@@ -68,3 +68,4 @@ Completed: 11 (1.85%) (Ranked 96)
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-09-02 | 4.81 | 0 | 0 |
 | 2023-09-03 | 4.80 | 0 | 0 |
+| 2023-09-04 | 4.78 | 0 | 0 |

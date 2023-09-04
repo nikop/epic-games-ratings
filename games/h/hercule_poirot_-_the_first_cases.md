@@ -18,7 +18,7 @@ Rating: 4.35 (Ranked 757)
 | Florette Duval | 53.00% | ~221 |
 | The Altercation | 50.00% | ~208 |
 | Truth from Within | 49.00% | ~204 |
-| The Major | 47.00% | ~196 |
+| The Major | 48.00% | ~200 |
 | Curious and Beautiful | 45.00% | ~188 |
 | Comtesse Margaux de Vos | 45.00% | ~188 |
 | Jacqueline “Jackie” Conrad | 44.00% | ~183 |

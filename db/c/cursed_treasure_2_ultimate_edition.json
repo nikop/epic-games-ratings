@@ -383,9 +383,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_6",
       "SetID": "ak6pfjk",
       "Name": "Starry: Wasteland",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_7",
@@ -495,9 +495,9 @@
       "ID": "BADGE_HOSTILE_WATERS",
       "SetID": "ak6pfjk",
       "Name": "Hostile Waters",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "BADGE_LOVELESS",
@@ -624,8 +624,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-04T12:03:28.6020146+00:00",
+  "LastChanged_Achievements": "2023-09-04T13:08:16.0694533+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:40.5242342+00:00",
-  "LastUpdate_Ratings": "2023-09-04T11:58:57.2153645+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:03:28.6020481+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:03:24.755125+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:08:16.0694939+00:00"
 }

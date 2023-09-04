@@ -12,8 +12,8 @@
 | Fitness professional | 78.00% | ~246 |
 | Old movies enjoyer | 78.00% | ~246 |
 | Depressed visitor | 77.00% | ~243 |
-| Neurotrainer – power gainer! | 75.00% | ~237 |
-| Employee of the week | 75.00% | ~237 |
+| Neurotrainer – power gainer! | 76.00% | ~240 |
+| Employee of the week | 76.00% | ~240 |
 | Your own amateur gym | 73.00% | ~231 |
 | First defeat | 73.00% | ~231 |
 | Run K, run! | 72.00% | ~228 |
@@ -31,11 +31,11 @@
 | Own four walls | 59.00% | ~186 |
 | Employee of the year | 59.00% | ~186 |
 | Fight for life | 58.00% | ~183 |
-| Little hacker | 57.00% | ~180 |
-| Intriguing candies | 56.00% | ~177 |
+| Little hacker | 58.00% | ~183 |
+| Intriguing candies | 57.00% | ~180 |
 | Legal courier | 54.00% | ~171 |
 | Extreme neuropower! | 54.00% | ~171 |
-| Escaped from a big trouble | 50.00% | ~158 |
+| Escaped from a big trouble | 51.00% | ~161 |
 | Now you are worthy | 49.00% | ~155 |
 | Fight is life | 46.00% | ~145 |
 | Guiding on the right path | 46.00% | ~145 |
@@ -71,7 +71,7 @@
 | Better cooking at home | 27.00% | ~85 |
 | The only right decision | 27.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 316 (Ranked 272)  
+Progressed: 316 (Ranked 273)  
 Completed: 8 (2.53%) (Ranked 83)  
 ## EOS Players History
 | Date | Progressed | Completed |

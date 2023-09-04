@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5151,
+  "EOS_Progressed": 5152,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -750,6 +750,11 @@
       "Time": "2023-08-27T00:04:25.7193171+00:00",
       "NumProgressed": 5151,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-09-04T13:11:20.7008921+00:00",
+      "NumProgressed": 5152,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -889,7 +894,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5048
+      "UsersEstimate": 5049
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -897,7 +902,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3245
+      "UsersEstimate": 3246
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -905,7 +910,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -935,9 +940,9 @@
       "ID": "ACHIEVE_FORTUNE_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "Fortunate Soul",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2524
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -969,7 +974,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1033,7 +1038,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1049,7 +1054,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5048
+      "UsersEstimate": 5049
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1057,7 +1062,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1105,7 +1110,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2730
+      "UsersEstimate": 2731
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1137,7 +1142,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1145,22 +1150,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5151,
+      "Progressed": 5152,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-09-04T12:07:37.9267723+00:00",
+  "LastChanged_Achievements": "2023-09-04T13:11:20.7008917+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:44.1364669+00:00",
-  "LastUpdate_Ratings": "2023-09-04T12:01:28.2039984+00:00",
-  "LastUpdate_Achievements": "2023-09-04T12:07:37.926807+00:00"
+  "LastUpdate_Ratings": "2023-09-04T13:05:17.2030044+00:00",
+  "LastUpdate_Achievements": "2023-09-04T13:11:20.700935+00:00"
 }

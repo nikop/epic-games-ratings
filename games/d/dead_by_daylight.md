@@ -6,43 +6,44 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~16,944 |
-| It wakes | 2.00% | ~16,944 |
-| Skillful | 2.00% | ~16,944 |
-| MU/TH/UR Dearest | 2.00% | ~16,944 |
-| The Grand Sacrifice | 1.00% | ~8,472 |
-| No one left behind | 1.00% | ~8,472 |
-| Medic | 1.00% | ~8,472 |
-| Handyman | 1.00% | ~8,472 |
-| Nerves of steel | 1.00% | ~8,472 |
-| Not half bad | 1.00% | ~8,472 |
-| Bloody Millionaire | 1.00% | ~8,472 |
-| Apt Survivor | 1.00% | ~8,472 |
-| Survival Treasures | 1.00% | ~8,472 |
-| I | 1.00% | ~8,472 |
-| Sorted | 1.00% | ~8,472 |
-| Resurgence | 1.00% | ~8,472 |
-| Make Some Noise | 1.00% | ~8,472 |
-| Backdoor Escape | 0.90% | ~7,625 |
-| Perfect Escape | 0.90% | ~7,625 |
-| Healthy Obsession | 0.90% | ~7,625 |
-| Preemptive Strike | 0.90% | ~7,625 |
-| Humanitarian | 0.90% | ~7,625 |
-| Agonizing Escape | 0.80% | ~6,777 |
-| I've got your back | 0.80% | ~6,777 |
-| Perfect Killing | 0.80% | ~6,777 |
-| Engineer | 0.80% | ~6,777 |
-| Terror of LV-426 | 0.80% | ~6,777 |
-| Risk it all | 0.70% | ~5,930 |
-| II | 0.70% | ~5,930 |
-| Wounded Healer | 0.70% | ~5,930 |
-| Close Shave | 0.70% | ~5,930 |
-| Apt Killer | 0.60% | ~5,083 |
-| Vulture | 0.60% | ~5,083 |
-| III | 0.60% | ~5,083 |
-| Second Act | 0.60% | ~5,083 |
-| First to the Punch | 0.50% | ~4,236 |
-| With Scars to Show | 0.50% | ~4,236 |
+| Zealous | 2.00% | ~16,946 |
+| It wakes | 2.00% | ~16,946 |
+| Skillful | 2.00% | ~16,946 |
+| Make Some Noise | 2.00% | ~16,946 |
+| MU/TH/UR Dearest | 2.00% | ~16,946 |
+| The Grand Sacrifice | 1.00% | ~8,473 |
+| No one left behind | 1.00% | ~8,473 |
+| Medic | 1.00% | ~8,473 |
+| Handyman | 1.00% | ~8,473 |
+| Nerves of steel | 1.00% | ~8,473 |
+| Not half bad | 1.00% | ~8,473 |
+| Bloody Millionaire | 1.00% | ~8,473 |
+| Apt Survivor | 1.00% | ~8,473 |
+| Survival Treasures | 1.00% | ~8,473 |
+| I | 1.00% | ~8,473 |
+| Sorted | 1.00% | ~8,473 |
+| Resurgence | 1.00% | ~8,473 |
+| Backdoor Escape | 0.90% | ~7,626 |
+| Perfect Escape | 0.90% | ~7,626 |
+| Healthy Obsession | 0.90% | ~7,626 |
+| Preemptive Strike | 0.90% | ~7,626 |
+| Humanitarian | 0.90% | ~7,626 |
+| Agonizing Escape | 0.80% | ~6,779 |
+| I've got your back | 0.80% | ~6,779 |
+| Perfect Killing | 0.80% | ~6,779 |
+| Engineer | 0.80% | ~6,779 |
+| Terror of LV-426 | 0.80% | ~6,779 |
+| Apt Killer | 0.70% | ~5,931 |
+| Risk it all | 0.70% | ~5,931 |
+| II | 0.70% | ~5,931 |
+| Wounded Healer | 0.70% | ~5,931 |
+| Close Shave | 0.70% | ~5,931 |
+| Vulture | 0.60% | ~5,084 |
+| III | 0.60% | ~5,084 |
+| Second Act | 0.60% | ~5,084 |
+| First to the Punch | 0.50% | ~4,237 |
+| Every Last Drop | 0.50% | ~4,237 |
+| With Scars to Show | 0.50% | ~4,237 |
 | Blood on your hands | 0.40% | ~3,389 |
 | Escape Artist | 0.40% | ~3,389 |
 | Made it out alive! | 0.40% | ~3,389 |
@@ -59,7 +60,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Operation: Survival | 0.40% | ~3,389 |
 | Old West Oasis | 0.40% | ~3,389 |
 | Classy Act | 0.40% | ~3,389 |
-| Every Last Drop | 0.40% | ~3,389 |
 | Raccoon City Recruit | 0.40% | ~3,389 |
 | Flight to Freedom | 0.40% | ~3,389 |
 | A Fast Death | 0.40% | ~3,389 |
@@ -82,26 +82,26 @@ Number of Ratings: 70,340  (23.09.2022)
 | Selfless Survival | 0.30% | ~2,542 |
 | Complete the Evolution | 0.30% | ~2,542 |
 | Extraterrestrial | 0.30% | ~2,542 |
-| Blood in your mouth | 0.20% | ~1,694 |
-| Jump Scares | 0.20% | ~1,694 |
-| Deep Cleansing | 0.20% | ~1,694 |
-| Texas BBQ | 0.20% | ~1,694 |
-| Game Over | 0.20% | ~1,694 |
-| Party Crasher | 0.20% | ~1,694 |
-| Whiffing to Success | 0.20% | ~1,694 |
-| Outrage | 0.20% | ~1,694 |
-| Heavy Burden | 0.20% | ~1,694 |
-| Broken Bodies | 0.20% | ~1,694 |
-| I See You | 0.20% | ~1,694 |
-| End of Days | 0.20% | ~1,694 |
-| Power Moves | 0.20% | ~1,694 |
-| Insult and Injury | 0.20% | ~1,694 |
-| Punch Drunk | 0.20% | ~1,694 |
-| Prowler | 0.20% | ~1,694 |
-| Triage | 0.20% | ~1,694 |
-| Outrun the Overlap | 0.20% | ~1,694 |
-| Rebuilding The Borgo | 0.20% | ~1,694 |
-| Hack the Mainframe | 0.20% | ~1,694 |
+| Blood in your mouth | 0.20% | ~1,695 |
+| Jump Scares | 0.20% | ~1,695 |
+| Deep Cleansing | 0.20% | ~1,695 |
+| Texas BBQ | 0.20% | ~1,695 |
+| Game Over | 0.20% | ~1,695 |
+| Party Crasher | 0.20% | ~1,695 |
+| Whiffing to Success | 0.20% | ~1,695 |
+| Outrage | 0.20% | ~1,695 |
+| Heavy Burden | 0.20% | ~1,695 |
+| Broken Bodies | 0.20% | ~1,695 |
+| I See You | 0.20% | ~1,695 |
+| End of Days | 0.20% | ~1,695 |
+| Power Moves | 0.20% | ~1,695 |
+| Insult and Injury | 0.20% | ~1,695 |
+| Punch Drunk | 0.20% | ~1,695 |
+| Prowler | 0.20% | ~1,695 |
+| Triage | 0.20% | ~1,695 |
+| Outrun the Overlap | 0.20% | ~1,695 |
+| Rebuilding The Borgo | 0.20% | ~1,695 |
+| Hack the Mainframe | 0.20% | ~1,695 |
 | A feast for the Entity | 0.10% | ~847 |
 | Cripple them all | 0.10% | ~847 |
 | The Grind | 0.10% | ~847 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~847 |
 | Adept Ripley | 0.10% | ~847 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 847,175 (Ranked 15)  
+Progressed: 847,318 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,10 +373,10 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
-| 2023-09-04 | 847,175 | 48 |
+| 2023-09-04 | 847,318 | 48 |
 ## Awards
 Max (Diverse Characters): 31,936  (Ranked 15)  
-Sum: 250,048 (Ranked 11)  
+Sum: 250,078 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -385,7 +385,7 @@ Diff (max vs sum): 4
 | This game has Competitive Players | 28,471 |
 | This game has Amazing Characters | 28,274 |
 | This game is Extremely Fun | 28,016 |
-| This game has Quickly Understood Controls | 27,672 |
+| This game has Quickly Understood Controls | 27,702 |
 | This game has Challenging Combat | 27,402 |
 | This game has Amazing Storytelling | 25,682 |
 | This game has a Competitive Community | 23,987 |
@@ -617,4 +617,4 @@ Diff (max vs sum): 4
 | 2023-09-01 | 4.52 | - | 31,778 | 249,224 |
 | 2023-09-02 | 4.52 | - | 31,830 | 249,556 |
 | 2023-09-03 | 4.52 | - | 31,886 | 249,913 |
-| 2023-09-04 | 4.52 | - | 31,936 | 250,048 |
+| 2023-09-04 | 4.52 | - | 31,936 | 250,078 |
