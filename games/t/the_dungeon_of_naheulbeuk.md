@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,712 |
-| Alt+F4 | 4.00% | ~8,846 |
+| Sowwy! | 28.00% | ~61,930 |
+| Alt+F4 | 4.00% | ~8,847 |
 | Déjà vu | 3.00% | ~6,635 |
 | Where's that freaking Dwarf? | 3.00% | ~6,635 |
-| A beer, two curses, three companions | 2.00% | ~4,423 |
-| Sock! SOCK! | 2.00% | ~4,423 |
-| GG EZ | 2.00% | ~4,423 |
-| DM intervention | 2.00% | ~4,423 |
-| Speedrun | 2.00% | ~4,423 |
-| Fireproof Wizardess | 2.00% | ~4,423 |
+| A beer, two curses, three companions | 2.00% | ~4,424 |
+| Sock! SOCK! | 2.00% | ~4,424 |
+| GG EZ | 2.00% | ~4,424 |
+| DM intervention | 2.00% | ~4,424 |
+| Speedrun | 2.00% | ~4,424 |
+| Fireproof Wizardess | 2.00% | ~4,424 |
 | Livin' in a dwarven paradise | 1.00% | ~2,212 |
 | Way of the Wimp | 1.00% | ~2,212 |
 | The plot thickens... At the tavern | 1.00% | ~2,212 |
@@ -27,11 +27,11 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 1.00% | ~2,212 |
 | Team Building Exercise | 1.00% | ~2,212 |
 | Oh, when I'll be level 10... | 1.00% | ~2,212 |
-| Shiny and Crôm | 0.90% | ~1,990 |
-| The Statuette of Gladeulfeurah | 0.90% | ~1,990 |
-| A tale of adventurers not quite like the others... | 0.90% | ~1,990 |
-| The Ranger of Chaos | 0.90% | ~1,990 |
-| I am the night | 0.90% | ~1,990 |
+| Shiny and Crôm | 0.90% | ~1,991 |
+| The Statuette of Gladeulfeurah | 0.90% | ~1,991 |
+| A tale of adventurers not quite like the others... | 0.90% | ~1,991 |
+| The Ranger of Chaos | 0.90% | ~1,991 |
+| I am the night | 0.90% | ~1,991 |
 | %#*!$*! | 0.80% | ~1,769 |
 | The beards of change | 0.80% | ~1,769 |
 | Thieves' Guild Accreditation | 0.80% | ~1,769 |
@@ -46,10 +46,10 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 0.50% | ~1,106 |
 | In Navalu's footsteps | 0.40% | ~885 |
 | Lëgal Legend | 0.40% | ~885 |
-| Holistic Adventuring Party | 0.30% | ~663 |
-| An old poacher makes the best gamekeeper | 0.30% | ~663 |
-| We come in peace | 0.30% | ~663 |
-| Law and Order | 0.30% | ~663 |
+| Holistic Adventuring Party | 0.30% | ~664 |
+| An old poacher makes the best gamekeeper | 0.30% | ~664 |
+| We come in peace | 0.30% | ~664 |
+| Law and Order | 0.30% | ~664 |
 | Scholar of the Lands of Fangh | 0.20% | ~442 |
 | Friendly fire | 0.20% | ~442 |
 | I'd rather... Just... Sing! | 0.20% | ~442 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,157 (Ranked 57)  
+Progressed: 221,178 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-01 | 220,165 | 2 |
 | 2023-09-02 | 220,547 | 2 |
 | 2023-09-03 | 220,988 | 2 |
-| 2023-09-04 | 221,157 | 2 |
+| 2023-09-04 | 221,178 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 259 (Ranked 353)  

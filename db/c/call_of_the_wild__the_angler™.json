@@ -3,12 +3,12 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 909,
-  "Ranking_Popularity": 449,
+  "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -682,9 +682,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5659,
+  "EOS_Progressed": 5661,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6922,6 +6922,11 @@
       "Time": "2023-09-04T14:08:10.9137112+00:00",
       "NumProgressed": 5659,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T15:07:15.1735251+00:00",
+      "NumProgressed": 5661,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -6933,7 +6938,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4416
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -6941,7 +6946,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -6949,7 +6954,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 3848
+      "UsersEstimate": 3849
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -6965,7 +6970,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1924
+      "UsersEstimate": 1925
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -6973,7 +6978,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -6981,7 +6986,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -6989,7 +6994,7 @@
       "Name": "Scaling up",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7005,7 +7010,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -7013,7 +7018,7 @@
       "Name": "More than a Tourist",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -7093,7 +7098,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -7212,13 +7217,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5659,
+      "Progressed": 5661,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5031,
+      "Progressed": 5033,
       "Completed": 112
     }
   ],
@@ -7226,8 +7231,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-03T19:00:39.4102502+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:08:10.9137108+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:07:15.1735241+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:59:50.405874+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:08:10.9137788+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:59:58.2084028+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:07:15.1735975+00:00"
 }

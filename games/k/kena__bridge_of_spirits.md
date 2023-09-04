@@ -6,26 +6,26 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~406,418 |
-| Haikyo | 80.00% | ~342,246 |
+| Found a Friend | 95.00% | ~406,419 |
+| Haikyo | 80.00% | ~342,247 |
 | Good as New | 72.00% | ~308,022 |
 | Into the Woods | 69.00% | ~295,188 |
 | Hunter in the Forest | 60.00% | ~256,685 |
 | Rot Commander | 60.00% | ~256,685 |
-| Taro's Fear | 56.00% | ~239,572 |
+| Taro's Fear | 56.00% | ~239,573 |
 | Between the Eyes | 47.00% | ~201,070 |
 | Taro's Love | 46.00% | ~196,792 |
-| Taro's Regret | 43.00% | ~183,957 |
-| Spirit Guide | 42.00% | ~179,679 |
-| Harness Your Power | 39.00% | ~166,845 |
+| Taro's Regret | 43.00% | ~183,958 |
+| Spirit Guide | 42.00% | ~179,680 |
+| Harness Your Power | 39.00% | ~166,846 |
 | The Open Range | 37.00% | ~158,289 |
 | Adira's Love | 34.00% | ~145,455 |
 | Adira's Fear | 33.00% | ~141,177 |
-| Weigh Them Down | 31.00% | ~132,620 |
-| Adira's Regret | 31.00% | ~132,620 |
-| A Heavy Hammer | 30.00% | ~128,342 |
-| Crossing Over | 29.00% | ~124,064 |
-| Quick Draw | 29.00% | ~124,064 |
+| Weigh Them Down | 31.00% | ~132,621 |
+| Adira's Regret | 31.00% | ~132,621 |
+| A Heavy Hammer | 30.00% | ~128,343 |
+| Crossing Over | 29.00% | ~124,065 |
+| Quick Draw | 29.00% | ~124,065 |
 | Toshi's Regret | 27.00% | ~115,508 |
 | Toshi's Fear | 27.00% | ~115,508 |
 | Toshi's Love | 27.00% | ~115,508 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,850 |
 | Master Spirit Guide | 0.30% | ~1,283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,808 (Ranked 39)  
+Progressed: 427,809 (Ranked 39)  
 Completed: 530 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 530 (0.12%) (Ranked 210)
 | 2023-09-01 | 427,751 | 529 |
 | 2023-09-02 | 427,772 | 529 |
 | 2023-09-03 | 427,799 | 530 |
-| 2023-09-04 | 427,808 | 530 |
+| 2023-09-04 | 427,809 | 530 |
 ## Awards
 Max (Great Boss Battles): 1,318  (Ranked 131)  
 Sum: 1,698 (Ranked 209)  

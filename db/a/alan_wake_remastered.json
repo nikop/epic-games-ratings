@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62297,
+  "EOS_Progressed": 62300,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13442,6 +13442,11 @@
       "Time": "2023-09-04T14:03:54.146733+00:00",
       "NumProgressed": 62297,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-04T15:04:19.2435158+00:00",
+      "NumProgressed": 62300,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13453,7 +13458,7 @@
       "Name": "Follow the Light",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24296
+      "UsersEstimate": 24297
     },
     {
       "ID": "02",
@@ -13461,7 +13466,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14951
+      "UsersEstimate": 14952
     },
     {
       "ID": "03",
@@ -13469,7 +13474,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14951
+      "UsersEstimate": 14952
     },
     {
       "ID": "04",
@@ -13485,7 +13490,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13082
+      "UsersEstimate": 13083
     },
     {
       "ID": "06",
@@ -13493,7 +13498,7 @@
       "Name": "Park Ranger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 10590
+      "UsersEstimate": 10591
     },
     {
       "ID": "07",
@@ -13701,7 +13706,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18689
+      "UsersEstimate": 18690
     },
     {
       "ID": "33",
@@ -13725,7 +13730,7 @@
       "Name": "Let There Be Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 19312
+      "UsersEstimate": 19313
     },
     {
       "ID": "36",
@@ -13789,7 +13794,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 10590
+      "UsersEstimate": 10591
     },
     {
       "ID": "44",
@@ -13988,21 +13993,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62297,
+      "Progressed": 62300,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25765,
+      "Progressed": 25768,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:03:54.1467326+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:04:19.2435149+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:57:56.5655043+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:03:54.1468764+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:57:58.4675213+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:04:19.2436706+00:00"
 }

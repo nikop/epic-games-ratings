@@ -6,7 +6,7 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~22,003 |
+| Wallbanger | 5.00% | ~22,004 |
 | Exploitative | 4.00% | ~17,603 |
 | Point Shooting | 4.00% | ~17,603 |
 | Wet Feet | 4.00% | ~17,603 |
@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,202 |
 | Stylin' | 3.00% | ~13,202 |
 | Turf War | 3.00% | ~13,202 |
-| Banged | 2.00% | ~8,801 |
-| Checkpoint Victory | 2.00% | ~8,801 |
-| First Blood | 2.00% | ~8,801 |
-| Flaccid Paralysis | 2.00% | ~8,801 |
-| Push Victory | 2.00% | ~8,801 |
-| Self-destructive | 2.00% | ~8,801 |
+| Banged | 2.00% | ~8,802 |
+| Checkpoint Victory | 2.00% | ~8,802 |
+| First Blood | 2.00% | ~8,802 |
+| Flaccid Paralysis | 2.00% | ~8,802 |
+| Push Victory | 2.00% | ~8,802 |
+| Self-destructive | 2.00% | ~8,802 |
 | Blindfire | 1.00% | ~4,401 |
 | Ruthless | 1.00% | ~4,401 |
 | Semper Paratus | 1.00% | ~4,401 |
@@ -29,8 +29,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~3,961 |
 | Grounded | 0.80% | ~3,521 |
 | Play to Win | 0.80% | ~3,521 |
-| #1 | 0.70% | ~3,080 |
-| Special Delivery | 0.70% | ~3,080 |
+| #1 | 0.70% | ~3,081 |
+| Special Delivery | 0.70% | ~3,081 |
 | Firefight Victory | 0.60% | ~2,640 |
 | Cinematic | 0.50% | ~2,200 |
 | Thanks Station! | 0.40% | ~1,760 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~440 |
 | Road Hazard | 0.10% | ~440 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,063 (Ranked 38)  
+Progressed: 440,075 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,10 +179,10 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-01 | 439,093 | 2 |
 | 2023-09-02 | 439,474 | 2 |
 | 2023-09-03 | 439,872 | 2 |
-| 2023-09-04 | 440,063 | 2 |
+| 2023-09-04 | 440,075 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 378  (Ranked 223)  
-Sum: 2,946 (Ranked 167)  
+Sum: 2,947 (Ranked 167)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -194,7 +194,7 @@ Diff (max vs sum): 56
 | This game has Realistic Visuals | 316 |
 | This game has Amazing Storytelling | 310 |
 | This game has Amazing Characters | 308 |
-| This game has a Competitive Community | 273 |
+| This game has a Competitive Community | 274 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -424,3 +424,4 @@ Diff (max vs sum): 56
 | 2023-09-01 | 4.62 | - | 378 | 2,941 |
 | 2023-09-02 | 4.62 | - | 378 | 2,943 |
 | 2023-09-03 | 4.62 | - | 378 | 2,946 |
+| 2023-09-04 | 4.62 | - | 378 | 2,947 |

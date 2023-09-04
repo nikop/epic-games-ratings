@@ -21,8 +21,8 @@
 | Bounty Hunter | 16.00% | ~14 |
 | The Terror | 16.00% | ~14 |
 | All Geared Up | 13.00% | ~12 |
+| The End | 13.00% | ~12 |
 | Battle Ready | 13.00% | ~12 |
-| The End | 12.00% | ~11 |
 | Good Deed | 12.00% | ~11 |
 | Music Collector | 11.00% | ~10 |
 | Gamer | 10.00% | ~9 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466682,
+  "EOS_Progressed": 466683,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14963,6 +14963,11 @@
       "Time": "2023-09-04T14:03:39.9065306+00:00",
       "NumProgressed": 466682,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-04T15:04:05.8081309+00:00",
+      "NumProgressed": 466683,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15062,7 +15067,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308010
+      "UsersEstimate": 308011
     },
     {
       "ID": "achievement_story_landa",
@@ -15094,7 +15099,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116670
+      "UsersEstimate": 116671
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -15150,7 +15155,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93336
+      "UsersEstimate": 93337
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -15398,7 +15403,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205340
+      "UsersEstimate": 205341
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -15605,21 +15610,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10616,
+      "Progressed": 10617,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466682,
+      "Progressed": 466683,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:03:39.9065299+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:04:05.8081301+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.6951688+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:59:15.9986536+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:03:39.9066991+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:59:21.1491197+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:04:05.8085843+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5866,9 +5866,9 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135644,
+  "EOS_Progressed": 135651,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19926,6 +19926,11 @@
       "Time": "2023-09-04T14:03:59.1725802+00:00",
       "NumProgressed": 135644,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-09-04T15:04:24.5114821+00:00",
+      "NumProgressed": 135651,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 112,
@@ -20017,7 +20022,7 @@
       "Name": "One Easy Payment",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "bigsale02",
@@ -20041,7 +20046,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "blueprint02",
@@ -20201,7 +20206,7 @@
       "Name": "Disintermediation",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "craft02",
@@ -20289,7 +20294,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "energy02",
@@ -20313,7 +20318,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "expansion02",
@@ -20521,7 +20526,7 @@
       "Name": "Budding Merchant",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "level02",
@@ -20713,7 +20718,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "sell02",
@@ -20801,7 +20806,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "workers02",
@@ -20832,15 +20837,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135644,
+      "Progressed": 135651,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-04T06:58:52.5043787+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:03:59.1725798+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:04:24.5114815+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:58:43.373759+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:03:59.172825+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:58:46.4630151+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:04:24.5117532+00:00"
 }

@@ -9,8 +9,8 @@
 | Good Person Chip | 85.00% | ~269 |
 | First winning | 84.00% | ~265 |
 | Your first job | 83.00% | ~262 |
+| Old movies enjoyer | 79.00% | ~250 |
 | Fitness professional | 78.00% | ~246 |
-| Old movies enjoyer | 78.00% | ~246 |
 | Depressed visitor | 77.00% | ~243 |
 | Neurotrainer – power gainer! | 76.00% | ~240 |
 | Employee of the week | 76.00% | ~240 |
@@ -25,8 +25,8 @@
 | Spirit of the past | 63.00% | ~199 |
 | Workout professional | 62.00% | ~196 |
 | Law student | 62.00% | ~196 |
+| Champion – starter pack | 60.00% | ~190 |
 | Handyman | 59.00% | ~186 |
-| Champion – starter pack | 59.00% | ~186 |
 | It's good to be alive | 59.00% | ~186 |
 | Own four walls | 59.00% | ~186 |
 | Employee of the year | 59.00% | ~186 |
@@ -38,8 +38,8 @@
 | Escaped from a big trouble | 51.00% | ~161 |
 | Now you are worthy | 49.00% | ~155 |
 | Fight is life | 46.00% | ~145 |
+| Mysterious voice | 46.00% | ~145 |
 | Guiding on the right path | 46.00% | ~145 |
-| Mysterious voice | 45.00% | ~142 |
 | No blades in the gym | 44.00% | ~139 |
 | Champion – no way back | 42.00% | ~133 |
 | Responsible approach | 41.00% | ~130 |

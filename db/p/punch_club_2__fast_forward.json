@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1398,9 +1398,9 @@
       "ID": "get_tape",
       "SetID": "69co12a",
       "Name": "Old movies enjoyer",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 250
     },
     {
       "ID": "gpp_chip",
@@ -1462,9 +1462,9 @@
       "ID": "league_1",
       "SetID": "69co12a",
       "Name": "Champion \u2013 starter pack",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 190
     },
     {
       "ID": "league_2",
@@ -1526,9 +1526,9 @@
       "ID": "mysterious_voice",
       "SetID": "69co12a",
       "Name": "Mysterious voice",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "nero_basic",
@@ -1741,8 +1741,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:03:26.8289413+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:03:52.8356178+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:57:12.0144743+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:03:26.8290016+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:57:11.4251508+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:03:52.8356824+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -796,9 +796,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12149,
+  "EOS_Progressed": 12150,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9841,6 +9841,11 @@
       "Time": "2023-09-04T14:05:41.9243605+00:00",
       "NumProgressed": 12149,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-04T15:06:05.402204+00:00",
+      "NumProgressed": 12150,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 35,
@@ -9852,7 +9857,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9841
+      "UsersEstimate": 9842
     },
     {
       "ID": "ACH02",
@@ -9860,7 +9865,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "ACH03",
@@ -9876,7 +9881,7 @@
       "Name": "Hoopin\u0027 it Up",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH05",
@@ -9964,7 +9969,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH16",
@@ -9972,7 +9977,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "ACH17",
@@ -9996,7 +10001,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH20",
@@ -10012,7 +10017,7 @@
       "Name": "Lucky Spinner",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH22",
@@ -10036,7 +10041,7 @@
       "Name": "Not a Player",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH25",
@@ -10092,7 +10097,7 @@
       "Name": "Chick Magnet",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH32",
@@ -10131,7 +10136,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12149,
+      "Progressed": 12150,
       "Completed": 44
     }
   ],
@@ -10139,8 +10144,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-03T18:00:05.4353608+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:05:41.9243598+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:06:05.4022033+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:53.2336033+00:00",
-  "LastUpdate_Ratings": "2023-09-04T14:00:20.7828877+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:05:41.9244415+00:00"
+  "LastUpdate_Ratings": "2023-09-04T15:00:29.6906135+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:06:05.402294+00:00"
 }

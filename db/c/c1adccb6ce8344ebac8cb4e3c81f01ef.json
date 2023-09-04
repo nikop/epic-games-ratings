@@ -3,9 +3,9 @@
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 456,
-  "EOS_Completed": 9,
-  "EOS_NewPlayers": 105,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.97,
+  "EOS_Completed": 10,
+  "EOS_NewPlayers": 101,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 2.19,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1456,6 +1456,11 @@
       "Time": "2023-09-03T16:04:53.0290615+00:00",
       "NumProgressed": 456,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-04T15:04:59.8109276+00:00",
+      "NumProgressed": 456,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1516,13 +1521,13 @@
       "ID": "a76l54k",
       "IsBase": true,
       "Progressed": 456,
-      "Completed": 9
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:04:35.5613768+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:04:59.810927+00:00",
   "LastUpdate_AppInfo": "2023-08-31T17:57:08.8456263+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:57:18.1034456+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:04:35.5613916+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:57:18.1865567+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:04:59.8109562+00:00"
 }

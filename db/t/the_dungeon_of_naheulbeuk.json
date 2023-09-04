@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -786,9 +786,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 221157,
+  "EOS_Progressed": 221178,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2649,
+  "EOS_NewPlayers": 2648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9531,6 +9531,11 @@
       "Time": "2023-09-04T14:04:37.0969795+00:00",
       "NumProgressed": 221157,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-04T15:05:01.4015219+00:00",
+      "NumProgressed": 221178,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9558,7 +9563,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "BarbarianEpic",
@@ -9566,7 +9571,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -9598,7 +9603,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "Chapter3",
@@ -9654,7 +9659,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "CollateralVictim",
@@ -9926,7 +9931,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "Dwarf30Insult",
@@ -9974,7 +9979,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "ElfEpic",
@@ -9988,9 +9993,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 59712
+      "UsersEstimate": 61930
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10006,7 +10011,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "EndCombatOneHp",
@@ -10014,7 +10019,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "EndGameCursed",
@@ -10038,7 +10043,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8846
+      "UsersEstimate": 8847
     },
     {
       "ID": "FollowBraztok",
@@ -10054,7 +10059,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "InsultLoose",
@@ -10078,7 +10083,7 @@
       "Name": "We come in peace",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "MinistrelEpic",
@@ -10110,7 +10115,7 @@
       "Name": "Law and Order",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Poster",
@@ -10166,7 +10171,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "Rogue30Backstab",
@@ -10174,7 +10179,7 @@
       "Name": "I am the night",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "RogueEpic",
@@ -10190,7 +10195,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "SupportCount4",
@@ -10238,28 +10243,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 221157,
+      "Progressed": 221178,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 221157,
+      "Progressed": 221178,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-03T07:58:18.9907851+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:04:37.096979+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:05:01.4015211+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:58:31.798676+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:04:37.0971376+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:58:35.95305+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:05:01.401687+00:00"
 }

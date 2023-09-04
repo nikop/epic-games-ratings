@@ -10,14 +10,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 2.00% | ~2,713 |
 | Tinkle of Coins | 2.00% | ~2,713 |
 | Titan's First Steps | 2.00% | ~2,713 |
-| One Easy Payment | 1.00% | ~1,356 |
-| Some Assembly Required | 1.00% | ~1,356 |
-| Disintermediation | 1.00% | ~1,356 |
-| Another Satisfied Customer | 1.00% | ~1,356 |
-| It's Free Real Estate | 1.00% | ~1,356 |
-| Budding Merchant | 1.00% | ~1,356 |
-| Capitalism Ho! | 1.00% | ~1,356 |
-| Own the Means of Production | 1.00% | ~1,356 |
+| One Easy Payment | 1.00% | ~1,357 |
+| Some Assembly Required | 1.00% | ~1,357 |
+| Disintermediation | 1.00% | ~1,357 |
+| Another Satisfied Customer | 1.00% | ~1,357 |
+| It's Free Real Estate | 1.00% | ~1,357 |
+| Budding Merchant | 1.00% | ~1,357 |
+| Capitalism Ho! | 1.00% | ~1,357 |
+| Own the Means of Production | 1.00% | ~1,357 |
 | Pretty Penny | 0.90% | ~1,221 |
 | One-Armed Bandit | 0.80% | ~1,085 |
 | Through Repetition, Perfection | 0.80% | ~1,085 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,644 (Ranked 67)  
+Progressed: 135,651 (Ranked 67)  
 Completed: 142 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 142 (0.10%) (Ranked 218)
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
 | 2023-09-03 | 135,618 | 142 |
-| 2023-09-04 | 135,644 | 142 |
+| 2023-09-04 | 135,651 | 142 |
 ## Awards
 Max (Great for Beginners): 4,721  (Ranked 70)  
 Sum: 27,171 (Ranked 47)  

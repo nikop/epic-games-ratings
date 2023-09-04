@@ -47,19 +47,19 @@
 | Starry: The Coreland | 37.00% | ~62 |
 | Brilliant: Wasteland | 34.00% | ~57 |
 | Father of Nation | 33.00% | ~55 |
-| Dwarven Countdown | 30.00% | ~50 |
+| Dwarven Countdown | 31.00% | ~52 |
 | Starry: Wasteland | 29.00% | ~48 |
 | Deadman's Chest | 27.00% | ~45 |
 | Monument Keeper | 27.00% | ~45 |
 | Brilliant: Free Coast | 26.00% | ~43 |
-| Brilliant: The Deep | 23.00% | ~38 |
+| Brilliant: The Deep | 24.00% | ~40 |
 | Starry: Free Coast | 23.00% | ~38 |
 | Starry: The Deep | 22.00% | ~37 |
 | Hostile Waters | 18.00% | ~30 |
 | Loveless | 18.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 167 (Ranked 313)  
-Completed: 24 (14.37%) (Ranked 18)  
+Completed: 25 (14.97%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,6 +91,7 @@ Completed: 24 (14.37%) (Ranked 18)
 | 2023-08-17 | 165 | 24 |
 | 2023-08-26 | 166 | 24 |
 | 2023-09-02 | 167 | 24 |
+| 2023-09-04 | 167 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

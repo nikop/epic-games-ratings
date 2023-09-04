@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38058,
+  "EOS_Progressed": 38060,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 907,
+  "EOS_NewPlayers": 903,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15951,6 +15951,11 @@
       "Time": "2023-09-04T14:02:21.8247109+00:00",
       "NumProgressed": 38058,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-04T15:03:28.0236754+00:00",
+      "NumProgressed": 38060,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -15986,7 +15991,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4186
+      "UsersEstimate": 4187
     },
     {
       "ID": "distance500000",
@@ -16002,7 +16007,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9895
+      "UsersEstimate": 9896
     },
     {
       "ID": "goals180",
@@ -16042,7 +16047,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "journeyer",
@@ -16082,7 +16087,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6850
+      "UsersEstimate": 6851
     },
     {
       "ID": "novice",
@@ -16090,7 +16095,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "playerFelipe",
@@ -16170,7 +16175,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9895
+      "UsersEstimate": 9896
     },
     {
       "ID": "sandboarder",
@@ -16186,7 +16191,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4186
+      "UsersEstimate": 4187
     },
     {
       "ID": "ultimate",
@@ -16273,15 +16278,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38058,
+      "Progressed": 38060,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:02:21.8247106+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:03:28.0236747+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.1649618+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:59:28.445321+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:02:21.8248313+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:59:34.6260698+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:03:28.023808+00:00"
 }

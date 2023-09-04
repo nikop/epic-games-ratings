@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1289,9 +1289,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127236,
+  "EOS_Progressed": 127238,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14944,6 +14944,11 @@
       "Time": "2023-09-04T14:03:14.3500897+00:00",
       "NumProgressed": 127236,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-09-04T15:03:40.491742+00:00",
+      "NumProgressed": 127238,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -14987,7 +14992,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22902
+      "UsersEstimate": 22903
     },
     {
       "ID": "ACH_COP_BAD",
@@ -15035,7 +15040,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35626
+      "UsersEstimate": 35627
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -15051,7 +15056,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -15251,7 +15256,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -15274,15 +15279,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127236,
+      "Progressed": 127238,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-04T14:03:14.3500894+00:00",
+  "LastChanged_Achievements": "2023-09-04T15:03:40.4917408+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:00.5699412+00:00",
-  "LastUpdate_Ratings": "2023-09-04T13:59:19.1265923+00:00",
-  "LastUpdate_Achievements": "2023-09-04T14:03:14.3502029+00:00"
+  "LastUpdate_Ratings": "2023-09-04T14:59:24.3441331+00:00",
+  "LastUpdate_Achievements": "2023-09-04T15:03:40.4918642+00:00"
 }
