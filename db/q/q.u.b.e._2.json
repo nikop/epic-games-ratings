@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -989,9 +989,9 @@
       "ID": "ACH_EXSITE",
       "SetID": "232494e",
       "Name": "Infinity Loop",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_HUB1",
@@ -1005,9 +1005,9 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_OASIS",
@@ -1093,8 +1093,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:03:51.8678039+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:03:46.099305+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:57:29.6562329+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:03:51.867824+00:00"
+  "LastUpdate_Ratings": "2023-09-04T03:57:27.7989223+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:03:46.0993307+00:00"
 }

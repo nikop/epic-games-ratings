@@ -6,14 +6,14 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 79.00% | ~1,120 |
-| Lovebirds | 50.00% | ~709 |
-| Life’s short, ride long | 45.00% | ~638 |
+| Balding bloot! | 79.00% | ~1,121 |
+| Lovebirds | 50.00% | ~710 |
+| Life’s short, ride long | 45.00% | ~639 |
 | Hug therapy | 44.00% | ~624 |
-| Over my dead body | 40.00% | ~567 |
+| Over my dead body | 40.00% | ~568 |
 | Shake the rust off their feet | 21.00% | ~298 |
-| Strike! | 19.00% | ~269 |
-| My little pony | 19.00% | ~269 |
+| Strike! | 19.00% | ~270 |
+| My little pony | 19.00% | ~270 |
 | A love supreme | 18.00% | ~255 |
 | In my shoes | 17.00% | ~241 |
 | Like new! | 15.00% | ~213 |
@@ -24,8 +24,8 @@ Number of Ratings: 38  (23.09.2022)
 | Don't look back | 12.00% | ~170 |
 | Unstoppable | 10.00% | ~142 |
 | Perfect timing | 9.00% | ~128 |
-| Self-sustainability | 8.00% | ~113 |
-| Ain't no mountain high enough | 8.00% | ~113 |
+| Self-sustainability | 8.00% | ~114 |
+| Ain't no mountain high enough | 8.00% | ~114 |
 | An eye for an eye | 6.00% | ~85 |
 | Can't get wetter... | 5.00% | ~71 |
 | Spring cleaning | 5.00% | ~71 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~28 |
 | À la carte | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,418 (Ranked 189)  
+Progressed: 1,419 (Ranked 189)  
 Completed: 9 (0.63%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 9 (0.63%) (Ranked 139)
 | 2023-08-31 | 1,413 | 9 |
 | 2023-09-02 | 1,414 | 9 |
 | 2023-09-03 | 1,418 | 9 |
+| 2023-09-04 | 1,419 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

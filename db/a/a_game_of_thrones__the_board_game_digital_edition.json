@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 860,
+  "Ranking_Rating": 859,
   "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 105,
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23150,
+  "EOS_Progressed": 23154,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -15910,6 +15910,11 @@
       "Time": "2023-09-04T01:48:49.9431723+00:00",
       "NumProgressed": 23150,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-04T04:06:06.0393804+00:00",
+      "NumProgressed": 23154,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 22,
@@ -15985,7 +15990,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "1024",
@@ -16025,7 +16030,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4167
+      "UsersEstimate": 4168
     },
     {
       "ID": "1029",
@@ -16041,7 +16046,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4630
+      "UsersEstimate": 4631
     },
     {
       "ID": "1031",
@@ -16049,7 +16054,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3241
+      "UsersEstimate": 3242
     },
     {
       "ID": "1032",
@@ -16057,7 +16062,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9260
+      "UsersEstimate": 9262
     },
     {
       "ID": "1033",
@@ -16065,7 +16070,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "1034",
@@ -16096,15 +16101,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23150,
+      "Progressed": 23154,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:06:59.0532543+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:06:06.0393798+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.1036434+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:01:29.1922639+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:06:59.0533416+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:00:23.8250454+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:06:06.0394992+00:00"
 }

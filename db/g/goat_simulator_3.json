@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3550,9 +3550,9 @@
       "Count": 279
     }
   ],
-  "EOS_Progressed": 242599,
+  "EOS_Progressed": 242601,
   "EOS_Completed": 820,
-  "EOS_NewPlayers": 837,
+  "EOS_NewPlayers": 834,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -18400,6 +18400,11 @@
       "Time": "2023-09-04T02:19:27.9048341+00:00",
       "NumProgressed": 242599,
       "NumCompleted": 820
+    },
+    {
+      "Time": "2023-09-04T04:03:55.7073208+00:00",
+      "NumProgressed": 242601,
+      "NumCompleted": 820
     }
   ],
   "TotalAchievements": 39,
@@ -18475,7 +18480,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 220765
+      "UsersEstimate": 220767
     },
     {
       "ID": "AchievementClownID",
@@ -18539,7 +18544,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 128577
+      "UsersEstimate": 128579
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -18579,7 +18584,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 138281
+      "UsersEstimate": 138283
     },
     {
       "ID": "AchievementLootBoxID",
@@ -18643,7 +18648,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 179523
+      "UsersEstimate": 179525
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -18683,7 +18688,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 133429
+      "UsersEstimate": 133431
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -18707,7 +18712,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 157689
+      "UsersEstimate": 157691
     },
     {
       "ID": "AchievementWhaleID",
@@ -18722,7 +18727,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 242599,
+      "Progressed": 242601,
       "Completed": 820
     }
   ],
@@ -18730,8 +18735,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-03T12:00:09.2236989+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:04:04.6548496+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:03:55.7073198+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:56.0348626+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:01:18.5160756+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:04:04.6549486+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:00:14.8140035+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:03:55.7074389+00:00"
 }

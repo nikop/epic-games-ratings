@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466666,
+  "EOS_Progressed": 466667,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14923,6 +14923,11 @@
       "Time": "2023-09-04T03:04:03.7801709+00:00",
       "NumProgressed": 466666,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-04T04:03:55.1328894+00:00",
+      "NumProgressed": 466667,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15054,7 +15059,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116666
+      "UsersEstimate": 116667
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -15565,21 +15570,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10600,
+      "Progressed": 10601,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466666,
+      "Progressed": 466667,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:04:03.7801705+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:03:55.1328888+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.6951688+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:59:49.0102984+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:04:03.7803146+00:00"
+  "LastUpdate_Ratings": "2023-09-04T03:59:11.5828802+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:03:55.1330743+00:00"
 }

@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19376,
+  "EOS_Progressed": 19379,
   "EOS_Completed": 386,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -14997,6 +14997,11 @@
       "Time": "2023-09-04T03:03:10.8678414+00:00",
       "NumProgressed": 19376,
       "NumCompleted": 386
+    },
+    {
+      "Time": "2023-09-04T04:03:15.0329063+00:00",
+      "NumProgressed": 19379,
+      "NumCompleted": 386
     }
   ],
   "TotalAchievements": 20,
@@ -15072,7 +15077,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "FOUND_ERIN",
@@ -15128,7 +15133,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14726
+      "UsersEstimate": 14728
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15136,15 +15141,15 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5425
+      "UsersEstimate": 5426
     },
     {
       "ID": "NORTH_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Mausoleum of Ice",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2519
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -15152,7 +15157,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "WEST_FINISHED",
@@ -15167,15 +15172,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19376,
+      "Progressed": 19379,
       "Completed": 386
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:03:10.867841+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:03:15.0329054+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:00:57.8409319+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:03:10.8679309+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:00:00.4586482+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:03:15.0330255+00:00"
 }

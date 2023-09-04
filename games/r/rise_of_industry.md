@@ -1,25 +1,25 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.24 (Ranked 843)  
+Rating: 4.24 (Ranked 842)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~350,722 |
-| Well educated | 37.00% | ~270,348 |
-| City Planner | 19.00% | ~138,827 |
-| Deforester | 17.00% | ~124,214 |
-| Big Hauling | 16.00% | ~116,907 |
-| Apprentice Manufacturer | 13.00% | ~94,987 |
-| Exporter | 13.00% | ~94,987 |
+| Entrepreneur | 48.00% | ~350,724 |
+| Well educated | 37.00% | ~270,350 |
+| City Planner | 19.00% | ~138,828 |
+| Deforester | 17.00% | ~124,215 |
+| Big Hauling | 16.00% | ~116,908 |
+| Apprentice Manufacturer | 13.00% | ~94,988 |
+| Exporter | 13.00% | ~94,988 |
 | I would drive 500 tiles... | 12.00% | ~87,681 |
 | Landscaper | 12.00% | ~87,681 |
 | Railwayman | 8.00% | ~58,454 |
 | Penniless | 6.00% | ~43,840 |
 | Massive Gains | 6.00% | ~43,840 |
 | Salesman | 3.00% | ~21,920 |
-| Engineer | 2.00% | ~14,613 |
-| High Flyer | 2.00% | ~14,613 |
+| Engineer | 2.00% | ~14,614 |
+| High Flyer | 2.00% | ~14,614 |
 | Captain | 0.80% | ~5,845 |
 | Billionaire | 0.60% | ~4,384 |
 | Vroom Vroom | 0.40% | ~2,923 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 843)
 | Master Builder | 0.10% | ~731 |
 | Hard working | 0.10% | ~731 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 730,671 (Ranked 18)  
+Progressed: 730,675 (Ranked 18)  
 Completed: 3 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 3 (0.00%) (Ranked 271)
 | 2023-09-01 | 729,826 | 3 |
 | 2023-09-02 | 730,218 | 3 |
 | 2023-09-03 | 730,624 | 3 |
-| 2023-09-04 | 730,671 | 3 |
+| 2023-09-04 | 730,675 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

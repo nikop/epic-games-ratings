@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -296,9 +296,9 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TheAirportCEO",
@@ -375,8 +375,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:05:43.2057367+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:05:10.4302089+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.4077778+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:01:44.5790687+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:05:43.2057572+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:00:35.9502994+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:05:10.4302362+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62283,
+  "EOS_Progressed": 62284,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13407,6 +13407,11 @@
       "Time": "2023-09-04T03:04:22.8131748+00:00",
       "NumProgressed": 62283,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-04T04:04:09.612177+00:00",
+      "NumProgressed": 62284,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13418,7 +13423,7 @@
       "Name": "Follow the Light",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24290
+      "UsersEstimate": 24291
     },
     {
       "ID": "02",
@@ -13450,7 +13455,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13079
+      "UsersEstimate": 13080
     },
     {
       "ID": "06",
@@ -13610,7 +13615,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "26",
@@ -13642,7 +13647,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9342
+      "UsersEstimate": 9343
     },
     {
       "ID": "30",
@@ -13698,7 +13703,7 @@
       "Name": "Carny",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "37",
@@ -13730,7 +13735,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "41",
@@ -13778,7 +13783,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9342
+      "UsersEstimate": 9343
     },
     {
       "ID": "47",
@@ -13953,21 +13958,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62283,
+      "Progressed": 62284,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25751,
+      "Progressed": 25752,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:04:22.8131743+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:04:09.6121763+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:57:58.322217+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:04:22.8132932+00:00"
+  "LastUpdate_Ratings": "2023-09-04T03:57:47.1068142+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:04:09.612354+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 758,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 199,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 45,
@@ -958,9 +958,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1155,
+  "EOS_Progressed": 1162,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1150,
+  "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1528,6 +1528,11 @@
       "Time": "2023-09-04T03:08:16.8204686+00:00",
       "NumProgressed": 1155,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T04:06:56.3997069+00:00",
+      "NumProgressed": 1162,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1540,7 +1545,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "a_10",
@@ -1588,7 +1593,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 383
     },
     {
       "ID": "a_19",
@@ -1596,7 +1601,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "a_2",
@@ -1658,9 +1663,9 @@
       "ID": "a_27",
       "SetID": "daiie3o",
       "Name": "Keep the doctor away",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 23
     },
     {
       "ID": "a_28",
@@ -1754,9 +1759,9 @@
       "ID": "a_6",
       "SetID": "daiie3o",
       "Name": "Gem of Monferrato",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "a_7",
@@ -1770,9 +1775,9 @@
       "ID": "a_8",
       "SetID": "daiie3o",
       "Name": "Famous",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 23
     },
     {
       "ID": "a_9",
@@ -1787,7 +1792,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1155,
+      "Progressed": 1162,
       "Completed": 3
     }
   ],
@@ -1795,8 +1800,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:08:16.820468+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:06:56.3997063+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:58:07.4365146+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:08:16.8204903+00:00"
+  "LastUpdate_Ratings": "2023-09-04T03:57:52.4107997+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:06:56.3997344+00:00"
 }

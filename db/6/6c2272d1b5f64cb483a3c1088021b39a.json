@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -3759,9 +3759,9 @@
       "ID": "stronghold_2",
       "SetID": "53c1p3k",
       "Name": "Stronghold 2",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "stronghold_3",
@@ -3830,8 +3830,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:03:25.0902843+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:03:26.0431496+00:00",
   "LastUpdate_AppInfo": "2023-08-29T06:57:19.2753876+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:57:07.6627253+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:03:25.0903564+00:00"
+  "LastUpdate_Ratings": "2023-09-04T03:57:12.6842573+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:03:26.0432369+00:00"
 }

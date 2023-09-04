@@ -4,8 +4,8 @@
   "ProductSlug": "out-of-line-209cbb",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-06-23T07:00:00+00:00",
     "PcReleaseDate": "2021-06-23T07:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.4516384+00:00",
   "LastChanged": "2023-03-31T05:58:27.4516385+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:23.8772801+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:59:18.7068267+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:04:21.3542853+00:00"
+  "LastUpdate_Ratings": "2023-09-04T03:58:44.3060303+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:04:08.4517449+00:00"
 }

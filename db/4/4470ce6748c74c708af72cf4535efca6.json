@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -252,9 +252,9 @@
       "ID": "16",
       "SetID": "5e3maia",
       "Name": "Matchmaker",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "17",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:07:55.2853473+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:06:47.8344221+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:01:29.5309275+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:07:55.2854058+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:00:24.0621702+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:06:47.8344938+00:00"
 }

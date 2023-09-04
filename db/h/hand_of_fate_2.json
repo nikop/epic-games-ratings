@@ -3,12 +3,12 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 474,
-  "Ranking_Popularity": 441,
+  "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -882,7 +882,7 @@
   ],
   "EOS_Progressed": 661732,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14231,8 +14231,8 @@
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:03:34.5248653+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:03:33.1380238+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:58:03.6807415+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:03:34.5249631+00:00"
+  "LastUpdate_Ratings": "2023-09-04T03:57:50.9224598+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:03:33.1381546+00:00"
 }

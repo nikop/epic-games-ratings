@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -347,9 +347,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "BRING_PROSPERO",
@@ -387,9 +387,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -411,9 +411,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -498,8 +498,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:08:11.4815469+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:06:52.3730279+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-04T02:57:12.4614691+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:08:11.4815595+00:00"
+  "LastUpdate_Ratings": "2023-09-04T03:57:16.2452254+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:06:52.3730464+00:00"
 }

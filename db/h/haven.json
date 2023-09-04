@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1418,
+  "EOS_Progressed": 1419,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1629,6 +1629,11 @@
       "Time": "2023-09-03T21:08:31.8137933+00:00",
       "NumProgressed": 1418,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-04T04:06:48.083071+00:00",
+      "NumProgressed": 1419,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1640,7 +1645,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "10",
@@ -1656,7 +1661,7 @@
       "Name": "Strike!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "12",
@@ -1696,7 +1701,7 @@
       "Name": "My little pony",
       "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "17",
@@ -1704,7 +1709,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "18",
@@ -1808,7 +1813,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "31",
@@ -1848,7 +1853,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "7",
@@ -1856,7 +1861,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "8",
@@ -1864,7 +1869,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "9",
@@ -1879,15 +1884,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1418,
+      "Progressed": 1419,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-04T03:07:55.6039131+00:00",
+  "LastChanged_Achievements": "2023-09-04T04:06:48.0830704+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.160732+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:00:11.2795492+00:00",
-  "LastUpdate_Achievements": "2023-09-04T03:07:55.6039549+00:00"
+  "LastUpdate_Ratings": "2023-09-04T03:59:27.5754481+00:00",
+  "LastUpdate_Achievements": "2023-09-04T04:06:48.0831032+00:00"
 }
