@@ -82,8 +82,8 @@
 | 80 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 81 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
 | 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
-| 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.54% |
-| 84 | [Lamentum](games/l/lamentum.md) | 2.53% |
+| 83 | [Lamentum](games/l/lamentum.md) | 2.53% |
+| 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.53% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.44% |
@@ -571,4 +571,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,169 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,170 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
