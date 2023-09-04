@@ -32,7 +32,7 @@
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.70% |
 | 35 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
@@ -90,7 +90,7 @@
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.29% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
-| 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.19% |
+| 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.18% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 93 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.02% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
@@ -114,8 +114,8 @@
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 113 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 114 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 115 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.20% |
-| 116 | [Chorus](games/c/chorus.md) | 1.12% |
+| 115 | [Chorus](games/c/chorus.md) | 1.21% |
+| 116 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.19% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
@@ -138,7 +138,7 @@
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 138 | [Haven](games/h/haven.md) | 0.63% |
-| 138 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.63% |
+| 139 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.62% |
 | 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
 | 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 140 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.61% |
