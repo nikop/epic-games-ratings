@@ -6,7 +6,7 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~29,755 |
+| Simoon | 34.00% | ~29,756 |
 | Just The Two of Us | 32.00% | ~28,005 |
 | Up On High | 25.00% | ~21,879 |
 | Under The Hood | 25.00% | ~21,879 |
@@ -20,7 +20,7 @@ Number of Ratings: 43  (23.09.2022)
 | Silver-Tongued Sable | 16.00% | ~14,003 |
 | Sticky Paws | 16.00% | ~14,003 |
 | Bubble Up | 16.00% | ~14,003 |
-| Thread The Needle | 15.00% | ~13,127 |
+| Thread The Needle | 15.00% | ~13,128 |
 | Power to the People | 14.00% | ~12,252 |
 | Take That! | 13.00% | ~11,377 |
 | Nesting Giant | 13.00% | ~11,377 |
@@ -34,11 +34,11 @@ Number of Ratings: 43  (23.09.2022)
 | Balfron Connection | 10.00% | ~8,752 |
 | Ceiling Of Stars | 10.00% | ~8,752 |
 | Playing Dress Up | 10.00% | ~8,752 |
-| Many Different Faces | 9.00% | ~7,876 |
-| Trellick's Pillar | 9.00% | ~7,876 |
-| Centre Of Brunswick | 9.00% | ~7,876 |
-| Bike Collector | 9.00% | ~7,876 |
-| Not That Kind Of Gliding | 9.00% | ~7,876 |
+| Many Different Faces | 9.00% | ~7,877 |
+| Trellick's Pillar | 9.00% | ~7,877 |
+| Centre Of Brunswick | 9.00% | ~7,877 |
+| Bike Collector | 9.00% | ~7,877 |
+| Not That Kind Of Gliding | 9.00% | ~7,877 |
 | The Scrapper Mask | 8.00% | ~7,001 |
 | Shadow Of Neave | 8.00% | ~7,001 |
 | Fragile Goods | 8.00% | ~7,001 |
@@ -58,12 +58,12 @@ Number of Ratings: 43  (23.09.2022)
 | The Entertainer Mask | 5.00% | ~4,376 |
 | The Quick and the Curious | 4.00% | ~3,501 |
 | Bike Aficionado | 4.00% | ~3,501 |
-| Chum Expert | 3.00% | ~2,625 |
-| Gastric Bypass | 3.00% | ~2,625 |
-| The Angler Mask | 3.00% | ~2,625 |
+| Chum Expert | 3.00% | ~2,626 |
+| Gastric Bypass | 3.00% | ~2,626 |
+| The Angler Mask | 3.00% | ~2,626 |
 | Vivacious Vivarium | 2.00% | ~1,750 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,516 (Ranked 74)  
+Progressed: 87,517 (Ranked 74)  
 Completed: 871 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,11 +200,11 @@ Completed: 871 (1.00%) (Ranked 122)
 | 2023-09-01 | 86,907 | 865 |
 | 2023-09-02 | 87,116 | 866 |
 | 2023-09-03 | 87,350 | 868 |
-| 2023-09-04 | 87,516 | 871 |
+| 2023-09-04 | 87,517 | 871 |
 ## Awards
-Max (Quickly Understood Controls): 23  (Ranked 492)  
+Max (Quickly Understood Controls): 23  (Ranked 493)  
 Sum: 43 (Ranked 459)  
-Diff (max vs sum): 33  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 23 |

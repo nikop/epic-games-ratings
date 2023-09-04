@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 165,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -898,9 +898,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_BLUEEND",
@@ -1106,9 +1106,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1138,8 +1138,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-04T21:03:28.6097477+00:00",
+  "LastChanged_Achievements": "2023-09-04T22:03:21.8491211+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-04T20:57:27.041594+00:00",
-  "LastUpdate_Achievements": "2023-09-04T21:03:28.6097694+00:00"
+  "LastUpdate_Ratings": "2023-09-04T21:57:29.6987436+00:00",
+  "LastUpdate_Achievements": "2023-09-04T22:03:21.8491417+00:00"
 }

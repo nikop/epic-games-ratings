@@ -53,8 +53,8 @@
 | Seashell hunter | 36.00% | ~114 |
 | Your own way | 36.00% | ~114 |
 | Gang wrangler | 35.00% | ~111 |
+| Problems of cyborgs | 34.00% | ~107 |
 | Undercover robot | 34.00% | ~107 |
-| Problems of cyborgs | 33.00% | ~104 |
 | Absolute Champion! | 33.00% | ~104 |
 | Not little hacker | 32.00% | ~101 |
 | Careerist | 32.00% | ~101 |

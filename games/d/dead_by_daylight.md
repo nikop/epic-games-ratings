@@ -6,47 +6,47 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~16,978 |
-| It wakes | 2.00% | ~16,978 |
-| Not half bad | 2.00% | ~16,978 |
-| Skillful | 2.00% | ~16,978 |
-| Make Some Noise | 2.00% | ~16,978 |
-| MU/TH/UR Dearest | 2.00% | ~16,978 |
-| The Grand Sacrifice | 1.00% | ~8,489 |
-| Backdoor Escape | 1.00% | ~8,489 |
-| No one left behind | 1.00% | ~8,489 |
-| Medic | 1.00% | ~8,489 |
-| Handyman | 1.00% | ~8,489 |
-| Nerves of steel | 1.00% | ~8,489 |
-| Bloody Millionaire | 1.00% | ~8,489 |
-| Apt Survivor | 1.00% | ~8,489 |
-| Survival Treasures | 1.00% | ~8,489 |
-| I | 1.00% | ~8,489 |
-| Sorted | 1.00% | ~8,489 |
-| Healthy Obsession | 1.00% | ~8,489 |
-| Resurgence | 1.00% | ~8,489 |
-| Preemptive Strike | 1.00% | ~8,489 |
-| Agonizing Escape | 0.90% | ~7,640 |
-| Perfect Escape | 0.90% | ~7,640 |
-| Engineer | 0.90% | ~7,640 |
-| Humanitarian | 0.90% | ~7,640 |
-| I've got your back | 0.80% | ~6,791 |
-| Perfect Killing | 0.80% | ~6,791 |
-| Risk it all | 0.80% | ~6,791 |
-| Terror of LV-426 | 0.80% | ~6,791 |
-| Apt Killer | 0.70% | ~5,942 |
-| II | 0.70% | ~5,942 |
-| Wounded Healer | 0.70% | ~5,942 |
-| Close Shave | 0.70% | ~5,942 |
-| Second Act | 0.70% | ~5,942 |
-| Vulture | 0.60% | ~5,093 |
-| III | 0.60% | ~5,093 |
-| Blood on your hands | 0.50% | ~4,244 |
-| Cherish your Life | 0.50% | ~4,244 |
-| First to the Punch | 0.50% | ~4,244 |
-| Every Last Drop | 0.50% | ~4,244 |
-| With Scars to Show | 0.50% | ~4,244 |
-| Flight to Freedom | 0.50% | ~4,244 |
+| Zealous | 2.00% | ~16,981 |
+| It wakes | 2.00% | ~16,981 |
+| Not half bad | 2.00% | ~16,981 |
+| Skillful | 2.00% | ~16,981 |
+| Make Some Noise | 2.00% | ~16,981 |
+| MU/TH/UR Dearest | 2.00% | ~16,981 |
+| The Grand Sacrifice | 1.00% | ~8,491 |
+| Backdoor Escape | 1.00% | ~8,491 |
+| No one left behind | 1.00% | ~8,491 |
+| Medic | 1.00% | ~8,491 |
+| Handyman | 1.00% | ~8,491 |
+| Nerves of steel | 1.00% | ~8,491 |
+| Bloody Millionaire | 1.00% | ~8,491 |
+| Apt Survivor | 1.00% | ~8,491 |
+| Survival Treasures | 1.00% | ~8,491 |
+| I | 1.00% | ~8,491 |
+| Sorted | 1.00% | ~8,491 |
+| Healthy Obsession | 1.00% | ~8,491 |
+| Resurgence | 1.00% | ~8,491 |
+| Preemptive Strike | 1.00% | ~8,491 |
+| Agonizing Escape | 0.90% | ~7,642 |
+| Perfect Escape | 0.90% | ~7,642 |
+| Engineer | 0.90% | ~7,642 |
+| Humanitarian | 0.90% | ~7,642 |
+| I've got your back | 0.80% | ~6,792 |
+| Perfect Killing | 0.80% | ~6,792 |
+| Risk it all | 0.80% | ~6,792 |
+| Terror of LV-426 | 0.80% | ~6,792 |
+| Apt Killer | 0.70% | ~5,943 |
+| II | 0.70% | ~5,943 |
+| Wounded Healer | 0.70% | ~5,943 |
+| Close Shave | 0.70% | ~5,943 |
+| Second Act | 0.70% | ~5,943 |
+| Vulture | 0.60% | ~5,094 |
+| III | 0.60% | ~5,094 |
+| Blood on your hands | 0.50% | ~4,245 |
+| Cherish your Life | 0.50% | ~4,245 |
+| First to the Punch | 0.50% | ~4,245 |
+| Every Last Drop | 0.50% | ~4,245 |
+| With Scars to Show | 0.50% | ~4,245 |
+| Flight to Freedom | 0.50% | ~4,245 |
 | Escape Artist | 0.40% | ~3,396 |
 | Made it out alive! | 0.40% | ~3,396 |
 | Gifts for the Fog | 0.40% | ~3,396 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~849 |
 | Adept Ripley | 0.10% | ~849 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 848,892 (Ranked 15)  
+Progressed: 849,060 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
-| 2023-09-04 | 848,892 | 48 |
+| 2023-09-04 | 849,060 | 48 |
 ## Awards
 Max (Diverse Characters): 31,936  (Ranked 15)  
 Sum: 250,241 (Ranked 11)  

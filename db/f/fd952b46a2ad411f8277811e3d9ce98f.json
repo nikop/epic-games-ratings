@@ -4,7 +4,7 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 1839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1003,8 +1003,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-04T21:04:32.160201+00:00",
+  "LastChanged_Achievements": "2023-09-04T22:04:24.9942673+00:00",
   "LastUpdate_AppInfo": "2023-08-30T09:56:58.0286771+00:00",
-  "LastUpdate_Ratings": "2023-09-04T20:59:05.8295726+00:00",
-  "LastUpdate_Achievements": "2023-09-04T21:04:32.1602209+00:00"
+  "LastUpdate_Ratings": "2023-09-04T21:59:14.7471433+00:00",
+  "LastUpdate_Achievements": "2023-09-04T22:04:24.9942879+00:00"
 }

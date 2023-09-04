@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7137,
+  "EOS_Progressed": 7138,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -4094,6 +4094,11 @@
       "Time": "2023-09-04T11:06:40.5025746+00:00",
       "NumProgressed": 7137,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-04T22:06:12.5445105+00:00",
+      "NumProgressed": 7138,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4121,7 +4126,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -4185,7 +4190,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -4201,7 +4206,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -4233,7 +4238,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -4241,7 +4246,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -4249,7 +4254,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -4320,15 +4325,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7137,
+      "Progressed": 7138,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-04T21:06:19.5725693+00:00",
+  "LastChanged_Achievements": "2023-09-04T22:06:12.5445099+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.9166051+00:00",
-  "LastUpdate_Ratings": "2023-09-04T20:57:33.4480966+00:00",
-  "LastUpdate_Achievements": "2023-09-04T21:06:19.572601+00:00"
+  "LastUpdate_Ratings": "2023-09-04T21:57:35.4906327+00:00",
+  "LastUpdate_Achievements": "2023-09-04T22:06:12.5445435+00:00"
 }

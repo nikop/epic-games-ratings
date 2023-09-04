@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 316,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.53,
   "EosHistory": [
@@ -1238,9 +1238,9 @@
       "ID": "all_promotion_5",
       "SetID": "69co12a",
       "Name": "Problems of cyborgs",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "all_promotion_6",
@@ -1741,8 +1741,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-04T21:03:25.039415+00:00",
+  "LastChanged_Achievements": "2023-09-04T22:03:18.0137341+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-04T20:57:03.8045288+00:00",
-  "LastUpdate_Achievements": "2023-09-04T21:03:25.0394708+00:00"
+  "LastUpdate_Ratings": "2023-09-04T21:57:02.2096561+00:00",
+  "LastUpdate_Achievements": "2023-09-04T22:03:18.0137902+00:00"
 }

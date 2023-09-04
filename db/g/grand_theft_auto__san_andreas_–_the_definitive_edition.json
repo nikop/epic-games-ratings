@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -770,18 +770,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 319,
       "NumberOfAwardsMax": 276
+    },
+    {
+      "Time": "2023-09-04T22:00:19.7836543+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 319,
-  "NumberOfAwardsMax": 276,
+  "NumberOfAwards": 322,
+  "NumberOfAwardsMax": 279,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 276
+      "Count": 279
     },
     {
       "Text": "This game is Relaxing",
@@ -796,9 +802,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12153,
+  "EOS_Progressed": 12154,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -9856,6 +9862,11 @@
       "Time": "2023-09-04T21:05:40.8791801+00:00",
       "NumProgressed": 12153,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-04T22:05:33.9201678+00:00",
+      "NumProgressed": 12154,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 35,
@@ -9867,7 +9878,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9844
+      "UsersEstimate": 9845
     },
     {
       "ID": "ACH02",
@@ -9923,7 +9934,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6198
+      "UsersEstimate": 6199
     },
     {
       "ID": "ACH09",
@@ -10146,16 +10157,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12153,
+      "Progressed": 12154,
       "Completed": 44
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-09-03T18:00:05.4353608+00:00",
-  "LastChanged_Achievements": "2023-09-04T21:05:40.8791793+00:00",
+  "LastChanged": "2023-09-04T22:00:19.7836541+00:00",
+  "LastChanged_Achievements": "2023-09-04T22:05:33.9201673+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:53.2336033+00:00",
-  "LastUpdate_Ratings": "2023-09-04T21:00:08.9832331+00:00",
-  "LastUpdate_Achievements": "2023-09-04T21:05:40.8792417+00:00"
+  "LastUpdate_Ratings": "2023-09-04T22:00:19.7836546+00:00",
+  "LastUpdate_Achievements": "2023-09-04T22:05:33.9202302+00:00"
 }

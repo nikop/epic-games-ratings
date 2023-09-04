@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109629,
+  "EOS_Progressed": 109630,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2309,6 +2309,11 @@
       "Time": "2023-09-04T13:10:40.6698552+00:00",
       "NumProgressed": 109629,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-04T22:05:21.6281236+00:00",
+      "NumProgressed": 109630,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2360,7 +2365,7 @@
       "Name": "Getting Friendly",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5482
     },
     {
       "ID": "15",
@@ -2520,7 +2525,7 @@
       "Name": "Challenge Apprentice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5482
     },
     {
       "ID": "35",
@@ -2591,15 +2596,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109629,
+      "Progressed": 109630,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-09-04T21:05:28.4483363+00:00",
+  "LastChanged_Achievements": "2023-09-04T22:05:21.6281232+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:11.8967591+00:00",
-  "LastUpdate_Ratings": "2023-09-04T20:58:35.0854421+00:00",
-  "LastUpdate_Achievements": "2023-09-04T21:05:28.4483657+00:00"
+  "LastUpdate_Ratings": "2023-09-04T21:58:39.4104821+00:00",
+  "LastUpdate_Achievements": "2023-09-04T22:05:21.6281528+00:00"
 }

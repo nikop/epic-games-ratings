@@ -6,16 +6,16 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~476,477 |
-| Apprentice | 58.00% | ~383,828 |
-| Close Shave | 25.00% | ~165,443 |
+| The Fool | 72.00% | ~476,479 |
+| Apprentice | 58.00% | ~383,830 |
+| Close Shave | 25.00% | ~165,444 |
 | Mercenary | 23.00% | ~152,208 |
 | Ninja | 23.00% | ~152,208 |
-| Northern Scourge | 17.00% | ~112,501 |
-| Thief Bane | 14.00% | ~92,648 |
+| Northern Scourge | 17.00% | ~112,502 |
+| Thief Bane | 14.00% | ~92,649 |
 | Master of Arms | 12.00% | ~79,413 |
-| Gambler | 10.00% | ~66,177 |
-| Dice Master | 10.00% | ~66,177 |
+| Gambler | 10.00% | ~66,178 |
+| Dice Master | 10.00% | ~66,178 |
 | Swordsman | 9.00% | ~59,560 |
 | Knight | 8.00% | ~52,942 |
 | Cure for Corruption | 8.00% | ~52,942 |
@@ -24,16 +24,16 @@ Number of Ratings: 780  (23.09.2022)
 | Long Shot | 7.00% | ~46,324 |
 | Devil Dice | 7.00% | ~46,324 |
 | Broken Heart | 7.00% | ~46,324 |
-| Adventurer | 6.00% | ~39,706 |
-| Empire's Bane | 6.00% | ~39,706 |
+| Adventurer | 6.00% | ~39,707 |
+| Empire's Bane | 6.00% | ~39,707 |
 | Jack of all Trades | 5.00% | ~33,089 |
 | Smithy | 5.00% | ~33,089 |
 | Leap of Faith | 3.00% | ~19,853 |
 | Combat Ready | 3.00% | ~19,853 |
 | Stuffed Potato | 3.00% | ~19,853 |
-| Card Sharp | 2.00% | ~13,235 |
-| Magician | 2.00% | ~13,235 |
-| Draknar's Bane | 2.00% | ~13,235 |
+| Card Sharp | 2.00% | ~13,236 |
+| Magician | 2.00% | ~13,236 |
+| Draknar's Bane | 2.00% | ~13,236 |
 | Protector of the Realm | 1.00% | ~6,618 |
 | Purgatorium | 1.00% | ~6,618 |
 | Cursed Soul | 1.00% | ~6,618 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~662 |
 | Blood Pact | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,773 (Ranked 24)  
+Progressed: 661,776 (Ranked 24)  
 Completed: 170 (0.03%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 170 (0.03%) (Ranked 247)
 | 2023-09-01 | 661,622 | 170 |
 | 2023-09-02 | 661,667 | 170 |
 | 2023-09-03 | 661,726 | 170 |
-| 2023-09-04 | 661,773 | 170 |
+| 2023-09-04 | 661,776 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 442)  
 Sum: 184 (Ranked 378)  

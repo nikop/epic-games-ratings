@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,930 |
-| Landlord | 32.00% | ~19,309 |
-| Bannerlord | 23.00% | ~13,878 |
-| Horde breaker | 23.00% | ~13,878 |
-| Lawmaker | 23.00% | ~13,878 |
-| Trained | 22.00% | ~13,275 |
-| The king is pleased | 18.00% | ~10,861 |
-| King Solomon | 17.00% | ~10,258 |
-| Apple of my eye | 15.00% | ~9,051 |
-| I can do it | 15.00% | ~9,051 |
-| God of the Arena | 13.00% | ~7,844 |
-| Against all odds | 12.00% | ~7,241 |
+| Lawbringer | 38.00% | ~22,931 |
+| Landlord | 32.00% | ~19,311 |
+| Bannerlord | 23.00% | ~13,880 |
+| Horde breaker | 23.00% | ~13,880 |
+| Lawmaker | 23.00% | ~13,880 |
+| Trained | 22.00% | ~13,276 |
+| The king is pleased | 18.00% | ~10,862 |
+| King Solomon | 17.00% | ~10,259 |
+| Apple of my eye | 15.00% | ~9,052 |
+| I can do it | 15.00% | ~9,052 |
+| God of the Arena | 13.00% | ~7,845 |
+| Against all odds | 12.00% | ~7,242 |
 | This Is Our Land | 11.00% | ~6,638 |
-| Duelist | 10.00% | ~6,034 |
-| Swordbearer | 10.00% | ~6,034 |
+| Duelist | 10.00% | ~6,035 |
+| Swordbearer | 10.00% | ~6,035 |
 | Dynasty | 9.00% | ~5,431 |
 | I spit on your grave | 9.00% | ~5,431 |
 | What have the Romans ever done for us? | 9.00% | ~5,431 |
-| Butterlord | 8.00% | ~4,827 |
+| Butterlord | 8.00% | ~4,828 |
 | Know your enemy | 7.00% | ~4,224 |
 | Mastery | 7.00% | ~4,224 |
 | Crush your enemies | 5.00% | ~3,017 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,341 (Ranked 88)  
+Progressed: 60,346 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-01 | 60,115 | 0 |
 | 2023-09-02 | 60,199 | 0 |
 | 2023-09-03 | 60,288 | 0 |
-| 2023-09-04 | 60,341 | 0 |
+| 2023-09-04 | 60,346 | 0 |
 ## Awards
 Max (Character Customization): 7,018  (Ranked 50)  
 Sum: 14,283 (Ranked 68)  

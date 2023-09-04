@@ -4974,9 +4974,9 @@
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
       "SetID": "akchbl3",
       "Name": "Gabriele D\u0027Annunzio",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2284
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -5231,8 +5231,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-02T12:59:05.1112111+00:00",
-  "LastChanged_Achievements": "2023-09-04T21:04:45.962554+00:00",
+  "LastChanged_Achievements": "2023-09-04T22:04:38.5116408+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:31.6871917+00:00",
-  "LastUpdate_Ratings": "2023-09-04T20:57:47.1770518+00:00",
-  "LastUpdate_Achievements": "2023-09-04T21:04:45.9626025+00:00"
+  "LastUpdate_Ratings": "2023-09-04T21:57:48.8166388+00:00",
+  "LastUpdate_Achievements": "2023-09-04T22:04:38.511687+00:00"
 }

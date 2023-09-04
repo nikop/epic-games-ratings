@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -532,9 +532,9 @@
       "ID": "5",
       "SetID": "5e3maia",
       "Name": "Tax official",
-      "Percentage": 88,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "50",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-04T21:06:34.969988+00:00",
+  "LastChanged_Achievements": "2023-09-04T22:06:27.5456087+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-04T21:00:20.1151043+00:00",
-  "LastUpdate_Achievements": "2023-09-04T21:06:34.970045+00:00"
+  "LastUpdate_Ratings": "2023-09-04T22:00:30.8490126+00:00",
+  "LastUpdate_Achievements": "2023-09-04T22:06:27.5456645+00:00"
 }

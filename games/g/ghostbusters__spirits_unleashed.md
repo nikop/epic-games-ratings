@@ -1,18 +1,18 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 581)  
+Rating: 4.49 (Ranked 580)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~22,003 |
-| Advancement | 73.00% | ~18,677 |
+| Stylish | 86.00% | ~22,004 |
+| Advancement | 73.00% | ~18,678 |
 | Meticulously Efficient | 63.00% | ~16,119 |
 | Discovery | 61.00% | ~15,607 |
 | Fully Upgraded | 54.00% | ~13,816 |
-| Swift Rift Removers | 53.00% | ~13,560 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~13,048 |
-| Cultured | 51.00% | ~13,048 |
+| Swift Rift Removers | 53.00% | ~13,561 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~13,049 |
+| Cultured | 51.00% | ~13,049 |
 | Vaporous Expansion | 48.00% | ~12,281 |
 | Teamwork | 43.00% | ~11,002 |
 | There you are! | 42.00% | ~10,746 |
@@ -20,7 +20,7 @@ Rating: 4.49 (Ranked 581)
 | Back Off | 35.00% | ~8,955 |
 | Daily Dose | 34.00% | ~8,699 |
 | Solo Capture | 33.00% | ~8,443 |
-| Welcome to the Crew | 31.00% | ~7,931 |
+| Welcome to the Crew | 31.00% | ~7,932 |
 | Ghostbuster In Training | 30.00% | ~7,676 |
 | Icing on the Cake | 30.00% | ~7,676 |
 | Side Hustle | 27.00% | ~6,908 |
@@ -31,19 +31,19 @@ Rating: 4.49 (Ranked 581)
 | Animated | 25.00% | ~6,396 |
 | Pesky Jerks | 25.00% | ~6,396 |
 | Stunner | 25.00% | ~6,396 |
-| Skilled | 24.00% | ~6,140 |
+| Skilled | 24.00% | ~6,141 |
 | Collector | 23.00% | ~5,885 |
 | Ectoplasmic Entity | 23.00% | ~5,885 |
 | Rift Destroyer | 19.00% | ~4,861 |
 | Terrifying | 18.00% | ~4,605 |
 | Tobin's Prodigy | 18.00% | ~4,605 |
-| Reckless | 17.00% | ~4,349 |
+| Reckless | 17.00% | ~4,350 |
 | Diabolical | 16.00% | ~4,094 |
 | Seasoned | 16.00% | ~4,094 |
 | Escape Artist | 15.00% | ~3,838 |
 | Whoopsie | 13.00% | ~3,326 |
-| Liability | 10.00% | ~2,558 |
-| Rivalry | 10.00% | ~2,558 |
+| Liability | 10.00% | ~2,559 |
+| Rivalry | 10.00% | ~2,559 |
 | Fragile Panes | 9.00% | ~2,303 |
 | Surprise! | 9.00% | ~2,303 |
 | Rift Seeker | 7.00% | ~1,791 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 581)
 | I don't need these | 1.00% | ~256 |
 | Mycophile | 1.00% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,585 (Ranked 103)  
+Progressed: 25,586 (Ranked 103)  
 Completed: 54 (0.21%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,16 +194,16 @@ Completed: 54 (0.21%) (Ranked 194)
 | 2023-09-01 | 25,481 | 54 |
 | 2023-09-02 | 25,529 | 54 |
 | 2023-09-03 | 25,572 | 54 |
-| 2023-09-04 | 25,585 | 54 |
+| 2023-09-04 | 25,586 | 54 |
 ## Awards
 Max (Great for Quick Sessions): 251  (Ranked 253)  
-Sum: 2,273 (Ranked 190)  
-Diff (max vs sum): 63  
+Sum: 2,274 (Ranked 189)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 251 |
 | This game is Great for Beginners | 247 |
-| This game has Competitive Players | 233 |
+| This game has Competitive Players | 234 |
 | This game has Amazing Storytelling | 230 |
 | This game is Extremely Fun | 224 |
 | This game has Diverse Characters | 224 |
@@ -365,4 +365,4 @@ Diff (max vs sum): 63
 | 2023-08-31 | 4.49 | 250 | 2,266 |
 | 2023-09-01 | 4.49 | 250 | 2,269 |
 | 2023-09-02 | 4.49 | 250 | 2,270 |
-| 2023-09-04 | 4.49 | 251 | 2,273 |
+| 2023-09-04 | 4.49 | 251 | 2,274 |

@@ -20,8 +20,8 @@ Rating: 4.03 (Ranked 937)
 | Full Party | 16.00% | ~304 |
 | Dragon Master | 15.00% | ~285 |
 | Enlightenment | 15.00% | ~285 |
+| Hero inspection | 15.00% | ~285 |
 | Lieutenant | 15.00% | ~285 |
-| Hero inspection | 14.00% | ~266 |
 | Mysterious Rock | 14.00% | ~266 |
 | The Unstoppable | 14.00% | ~266 |
 | Milestone collector | 13.00% | ~247 |

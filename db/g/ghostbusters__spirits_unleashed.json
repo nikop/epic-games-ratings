@@ -2,12 +2,12 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1894,10 +1894,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2273,
       "NumberOfAwardsMax": 251
+    },
+    {
+      "Time": "2023-09-04T21:58:55.2667265+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2274,
+      "NumberOfAwardsMax": 251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2273,
+  "NumberOfAwards": 2274,
   "NumberOfAwardsMax": 251,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1965,7 +1971,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 233
+      "Count": 234
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1974,7 +1980,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25585,
+  "EOS_Progressed": 25586,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 1,
@@ -12059,6 +12065,11 @@
       "Time": "2023-09-04T21:05:06.1152822+00:00",
       "NumProgressed": 25585,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-04T22:04:58.9290683+00:00",
+      "NumProgressed": 25586,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -12070,7 +12081,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18677
+      "UsersEstimate": 18678
     },
     {
       "ID": "Animated",
@@ -12118,7 +12129,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 13048
+      "UsersEstimate": 13049
     },
     {
       "ID": "Collector",
@@ -12134,7 +12145,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 13048
+      "UsersEstimate": 13049
     },
     {
       "ID": "Daily_Dose",
@@ -12246,7 +12257,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "Line_Em_Up",
@@ -12294,7 +12305,7 @@
       "Name": "Reckless",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "Rift_Destroyer",
@@ -12326,7 +12337,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "Seasoned",
@@ -12350,7 +12361,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6140
+      "UsersEstimate": 6141
     },
     {
       "ID": "Solo_Capture",
@@ -12374,7 +12385,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22003
+      "UsersEstimate": 22004
     },
     {
       "ID": "Summoner",
@@ -12398,7 +12409,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 13560
+      "UsersEstimate": 13561
     },
     {
       "ID": "Teamwork",
@@ -12462,7 +12473,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7931
+      "UsersEstimate": 7932
     },
     {
       "ID": "Whoopsie",
@@ -12477,16 +12488,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25585,
+      "Progressed": 25586,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-04T20:58:50.0881774+00:00",
-  "LastChanged_Achievements": "2023-09-04T21:05:06.1152813+00:00",
+  "LastChanged": "2023-09-04T21:58:55.2667263+00:00",
+  "LastChanged_Achievements": "2023-09-04T22:04:58.9290679+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-04T20:58:50.088178+00:00",
-  "LastUpdate_Achievements": "2023-09-04T21:05:06.1153641+00:00"
+  "LastUpdate_Ratings": "2023-09-04T21:58:55.2667268+00:00",
+  "LastUpdate_Achievements": "2023-09-04T22:04:58.9291495+00:00"
 }
