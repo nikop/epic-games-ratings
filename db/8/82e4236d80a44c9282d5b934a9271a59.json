@@ -1,11 +1,11 @@
 {
   "ID": "82e4236d80a44c9282d5b934a9271a59",
   "Name": "DuelVox",
-  "ProductSlug": "dickland-84b8c1",
+  "ProductSlug": "duelvox-84b8c1",
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
     "PcReleaseDate": "2020-07-26T05:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-30T15:57:14.2117765+00:00",
-  "LastUpdate_Ratings": "2023-09-04T16:00:21.5920935+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:06:14.3452408+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:00:41.848873+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:06:36.7278835+00:00"
 }

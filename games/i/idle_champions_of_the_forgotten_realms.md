@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.20% | ~454 |
 | The Ring of Regeneration | 0.20% | ~454 |
 | The Mad Wizard | 0.20% | ~454 |
-| Legends and Lore | 0.20% | ~386 |
+| Legends and Lore | 0.20% | ~387 |
 | Maddening | 0.10% | ~227 |
 | Pros and CONs | 0.10% | ~227 |
 | Upholding the Law | 0.10% | ~227 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~193 |
 | All's Well That Ends Well | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,973 (Ranked 54)  
+Progressed: 226,977 (Ranked 54)  
 Completed: 2,249 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -664,16 +664,16 @@ Completed: 2,249 (0.99%) (Ranked 124)
 | 2023-09-01 | 226,545 | 2,242 |
 | 2023-09-02 | 226,722 | 2,245 |
 | 2023-09-03 | 226,879 | 2,246 |
-| 2023-09-04 | 226,973 | 2,249 |
+| 2023-09-04 | 226,977 | 2,249 |
 ## Awards
 Max (Diverse Characters): 5,224  (Ranked 67)  
-Sum: 31,392 (Ranked 38)  
+Sum: 31,393 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,224 |
 | This game is Great for Beginners | 5,194 |
-| This game has Quickly Understood Controls | 4,755 |
+| This game has Quickly Understood Controls | 4,756 |
 | This game is Relaxing | 4,638 |
 | This game has Amazing Characters | 4,101 |
 | This game is Highly Recommended | 4,085 |
@@ -902,4 +902,4 @@ Diff (max vs sum): 29
 | 2023-09-01 | 4.06 | - | 5,218 | 31,350 |
 | 2023-09-02 | 4.06 | - | 5,221 | 31,358 |
 | 2023-09-03 | 4.06 | - | 5,224 | 31,377 |
-| 2023-09-04 | 4.06 | - | 5,224 | 31,392 |
+| 2023-09-04 | 4.06 | - | 5,224 | 31,393 |

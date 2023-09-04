@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -4681,17 +4681,17 @@
       "ID": "5",
       "SetID": "9p3jgda",
       "Name": "ROOKIE",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1731
     },
     {
       "ID": "6",
       "SetID": "9p3jgda",
       "Name": "PRO",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1101
     },
     {
       "ID": "7",
@@ -4727,8 +4727,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-04T16:06:05.4998295+00:00",
+  "LastChanged_Achievements": "2023-09-04T17:06:27.7475337+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:39.8316539+00:00",
-  "LastUpdate_Ratings": "2023-09-04T15:59:58.348487+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:06:05.4998739+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:00:18.0919612+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:06:27.7475813+00:00"
 }

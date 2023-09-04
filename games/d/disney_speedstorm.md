@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 54.00% | ~1,699 |
+| ROOKIE | 55.00% | ~1,731 |
 | EXTRA BOOST | 43.00% | ~1,353 |
 | IT MAKES BOOM! | 43.00% | ~1,353 |
-| PRO | 34.00% | ~1,070 |
+| PRO | 35.00% | ~1,101 |
 | PROTECTED | 33.00% | ~1,039 |
 | A TIGER'S FEAR | 32.00% | ~1,007 |
 | HERE ARE SOME BARE NECESSITIES | 32.00% | ~1,007 |

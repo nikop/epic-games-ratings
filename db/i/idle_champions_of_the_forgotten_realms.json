@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6308,10 +6308,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31392,
       "NumberOfAwardsMax": 5224
+    },
+    {
+      "Time": "2023-09-04T16:59:02.6083639+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31393,
+      "NumberOfAwardsMax": 5224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31392,
+  "NumberOfAwards": 31393,
   "NumberOfAwardsMax": 5224,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6331,7 +6337,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4755
+      "Count": 4756
     },
     {
       "Text": "This game is Relaxing",
@@ -6358,9 +6364,9 @@
       "Count": 3395
     }
   ],
-  "EOS_Progressed": 226973,
+  "EOS_Progressed": 226977,
   "EOS_Completed": 2249,
-  "EOS_NewPlayers": 1277,
+  "EOS_NewPlayers": 1265,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -21468,6 +21474,11 @@
       "Time": "2023-09-04T16:06:13.5506377+00:00",
       "NumProgressed": 226973,
       "NumCompleted": 2249
+    },
+    {
+      "Time": "2023-09-04T17:06:36.1929173+00:00",
+      "NumProgressed": 226977,
+      "NumCompleted": 2249
     }
   ],
   "TotalAchievements": 520,
@@ -25607,7 +25618,7 @@
       "Name": "Legends and Lore",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "objective_completed_1366",
@@ -25638,21 +25649,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193247,
+      "Progressed": 193251,
       "Completed": 3390
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 226973,
+      "Progressed": 226977,
       "Completed": 2249
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-04T13:03:15.992308+00:00",
-  "LastChanged_Achievements": "2023-09-04T16:06:13.5506371+00:00",
+  "LastChanged": "2023-09-04T16:59:02.6083637+00:00",
+  "LastChanged_Achievements": "2023-09-04T17:06:36.1929166+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-04T15:58:42.0130846+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:06:13.5537909+00:00"
+  "LastUpdate_Ratings": "2023-09-04T16:59:02.6083648+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:06:36.1958937+00:00"
 }

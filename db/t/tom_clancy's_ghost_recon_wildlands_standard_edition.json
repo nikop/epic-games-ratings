@@ -2,13 +2,13 @@
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "ProductSlug": "ghost-recon-wildlands",
-  "Ranking_Rating": 394,
+  "Ranking_Rating": 393,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3030,10 +3030,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1635,
       "NumberOfAwardsMax": 235
+    },
+    {
+      "Time": "2023-09-04T16:59:09.5918629+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1636,
+      "NumberOfAwardsMax": 235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1635,
+  "NumberOfAwards": 1636,
   "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3071,7 +3077,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game is Relaxing",
@@ -3109,8 +3115,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-09-04T15:58:48.6267846+00:00",
+  "LastChanged": "2023-09-04T16:59:09.5918628+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:34.034369+00:00",
-  "LastUpdate_Ratings": "2023-09-04T15:58:48.6267852+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:09:09.5458354+00:00"
+  "LastUpdate_Ratings": "2023-09-04T16:59:09.5918634+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:09:36.2728894+00:00"
 }

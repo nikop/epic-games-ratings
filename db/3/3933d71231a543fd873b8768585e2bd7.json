@@ -2,10 +2,10 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -146,6 +146,11 @@
       "Time": "2023-09-04T15:03:31.711534+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T17:04:11.2582592+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -180,15 +185,15 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -212,15 +217,15 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achievements.firstexpedition",
       "SetID": "1kd1942",
       "Name": "Cristoforo Magellanus",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -252,7 +257,7 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -285,14 +290,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-04T16:03:51.5711558+00:00",
+  "LastChanged_Achievements": "2023-09-04T17:04:11.2582584+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-04T15:58:15.2432464+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:03:51.5711831+00:00"
+  "LastUpdate_Ratings": "2023-09-04T16:58:32.264808+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:04:11.2582725+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3259,9 +3259,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 440093,
+  "EOS_Progressed": 440110,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2457,
+  "EOS_NewPlayers": 2453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18519,6 +18519,11 @@
       "Time": "2023-09-04T16:05:25.7328564+00:00",
       "NumProgressed": 440093,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-04T17:05:46.9891033+00:00",
+      "NumProgressed": 440110,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -18562,7 +18567,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2201
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -18794,7 +18799,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22005
+      "UsersEstimate": 22006
     },
     {
       "ID": "ACH_WET_FEET",
@@ -18809,15 +18814,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 440093,
+      "Progressed": 440110,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-04T14:58:17.1109686+00:00",
-  "LastChanged_Achievements": "2023-09-04T16:05:25.7328559+00:00",
+  "LastChanged_Achievements": "2023-09-04T17:05:46.9891025+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.452052+00:00",
-  "LastUpdate_Ratings": "2023-09-04T15:58:44.5339879+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:05:25.7330397+00:00"
+  "LastUpdate_Ratings": "2023-09-04T16:59:05.2620368+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:05:46.9893618+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -613,9 +613,9 @@
       "ID": "Island",
       "SetID": "cjfnji1",
       "Name": "Island",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Last_second",
@@ -669,9 +669,9 @@
       "ID": "Tangentially",
       "SetID": "cjfnji1",
       "Name": "Tangentially",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "USSR",
@@ -700,8 +700,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-04T16:07:43.4176866+00:00",
+  "LastChanged_Achievements": "2023-09-04T17:08:07.7442818+00:00",
   "LastUpdate_AppInfo": "2023-08-28T19:57:02.4127229+00:00",
-  "LastUpdate_Ratings": "2023-09-04T16:02:05.2134641+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:07:43.4177026+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:02:25.7810369+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:08:07.7443002+00:00"
 }

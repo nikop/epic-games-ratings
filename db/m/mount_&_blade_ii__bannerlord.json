@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6897,9 +6897,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60331,
+  "EOS_Progressed": 60332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 478,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21422,6 +21422,11 @@
       "Time": "2023-09-04T16:03:34.2016791+00:00",
       "NumProgressed": 60331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T17:03:44.0551767+00:00",
+      "NumProgressed": 60332,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21473,7 +21478,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4826
+      "UsersEstimate": 4827
     },
     {
       "ID": "Catch",
@@ -21793,7 +21798,7 @@
       "Name": "This Is Our Land",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6636
+      "UsersEstimate": 6637
     },
     {
       "ID": "This is Sparta",
@@ -21840,15 +21845,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60331,
+      "Progressed": 60332,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-04T15:00:03.2984631+00:00",
-  "LastChanged_Achievements": "2023-09-04T16:03:34.2016784+00:00",
+  "LastChanged_Achievements": "2023-09-04T17:03:44.0551759+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-04T16:01:16.1272423+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:03:34.2020914+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:01:38.1204055+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:03:44.0558799+00:00"
 }

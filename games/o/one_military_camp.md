@@ -12,18 +12,18 @@
 | There's something in those trees | 10.00% | ~16 |
 | Green Energy | 10.00% | ~16 |
 | Desert Rat | 9.00% | ~14 |
+| Health Care | 8.00% | ~13 |
 | Desert Power | 8.00% | ~13 |
-| Health Care | 7.00% | ~11 |
+| Perfect Soldier | 7.00% | ~11 |
 | Good payer | 7.00% | ~11 |
 | Fuel Tycoon | 7.00% | ~11 |
 | Ammo Tycoon | 7.00% | ~11 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~10 |
-| Perfect Soldier | 6.00% | ~10 |
 | Pathfinder | 6.00% | ~10 |
+| Self-sufficient | 6.00% | ~10 |
 | Food Tycoon | 6.00% | ~10 |
+| Medicine Tycoon | 6.00% | ~10 |
 | Healing | 5.00% | ~8 |
-| Self-sufficient | 5.00% | ~8 |
-| Medicine Tycoon | 5.00% | ~8 |
 | Supersoldier | 4.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~6 |
 | Overpopulation | 4.00% | ~6 |
@@ -49,7 +49,7 @@
 | Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159 (Ranked 316)  
+Progressed: 159 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |

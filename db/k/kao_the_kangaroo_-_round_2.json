@@ -2,13 +2,13 @@
   "ID": "ba4d5efc4fa443769df759ee56c0c88e",
   "Name": "Kao the Kangaroo - Round 2",
   "ProductSlug": "kao-the-kangaroo-round-2-5d4d25",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-13T13:00:00+00:00",
     "PcReleaseDate": "2019-06-01T00:00:00+00:00",
@@ -127,6 +127,6 @@
   "FirstSeenRating": "2022-11-11T08:58:40.4466787+00:00",
   "LastChanged": "2023-08-24T19:58:23.6649545+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.0401308+00:00",
-  "LastUpdate_Ratings": "2023-09-04T16:01:23.9397404+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:04:32.5093228+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:01:46.2654434+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:04:52.3561371+00:00"
 }

@@ -1,21 +1,21 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.66 (Ranked 281)  
+Rating: 4.66 (Ranked 280)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,783 |
-| Un-Lonely Island | 47.00% | ~2,340 |
-| The Beginning of a Servantship | 46.00% | ~2,290 |
-| Trade Is My Trait | 37.00% | ~1,842 |
+| Just One...More...Term... | 76.00% | ~3,786 |
+| Un-Lonely Island | 47.00% | ~2,341 |
+| The Beginning of a Servantship | 46.00% | ~2,291 |
+| Trade Is My Trait | 37.00% | ~1,843 |
 | Number 18 | 24.00% | ~1,195 |
 | We Don't Have Time For That | 19.00% | ~946 |
-| The Governator | 18.00% | ~896 |
-| The Legend of Langostino | 17.00% | ~846 |
-| Caribbean Comrade | 16.00% | ~796 |
-| The Dreamer of Dreams | 16.00% | ~796 |
+| The Governator | 18.00% | ~897 |
+| The Legend of Langostino | 17.00% | ~847 |
+| Caribbean Comrade | 16.00% | ~797 |
+| The Dreamer of Dreams | 16.00% | ~797 |
 | Go Sovereigns! | 11.00% | ~548 |
 | For Science! | 11.00% | ~548 |
 | Happy Ending? | 10.00% | ~498 |
@@ -24,8 +24,8 @@ Number of Ratings: 398  (23.09.2022)
 | Double Trouble | 8.00% | ~398 |
 | Firestarter | 8.00% | ~398 |
 | Make Tropico Great Again! | 8.00% | ~398 |
-| I Owe You Nothing | 7.00% | ~348 |
-| French Connection | 7.00% | ~348 |
+| I Owe You Nothing | 7.00% | ~349 |
+| French Connection | 7.00% | ~349 |
 | Don't Panic! | 6.00% | ~299 |
 | Computer Says "No" | 6.00% | ~299 |
 | Beware The Betman | 6.00% | ~299 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~45 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,978 (Ranked 149)  
+Progressed: 4,981 (Ranked 149)  
 Completed: 2 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 2 (0.04%) (Ranked 240)
 | 2023-09-01 | 4,947 | 2 |
 | 2023-09-02 | 4,958 | 2 |
 | 2023-09-03 | 4,974 | 2 |
-| 2023-09-04 | 4,978 | 2 |
+| 2023-09-04 | 4,981 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 340)  
 Sum: 681 (Ranked 280)  

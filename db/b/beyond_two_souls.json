@@ -2,13 +2,13 @@
   "ID": "lavender",
   "Name": "Beyond Two Souls",
   "ProductSlug": "beyond-two-souls",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 573,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2019-07-22T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -499,6 +499,6 @@
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
   "LastChanged": "2023-08-26T01:36:29.5900399+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:23.5793868+00:00",
-  "LastUpdate_Ratings": "2023-09-04T16:01:34.509103+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:07:45.914314+00:00"
+  "LastUpdate_Ratings": "2023-09-04T17:01:55.3410618+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:08:10.2684153+00:00"
 }

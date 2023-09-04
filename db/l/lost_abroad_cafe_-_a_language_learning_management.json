@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -1725,9 +1725,9 @@
       "ID": "coffee_10",
       "SetID": "56hff7o",
       "Name": "Barista",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 75,
-      "UsersEstimate": 190
+      "UsersEstimate": 193
     },
     {
       "ID": "coffee_100",
@@ -1796,8 +1796,8 @@
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-09-04T16:07:33.4700779+00:00",
+  "LastChanged_Achievements": "2023-09-04T17:07:57.5618832+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:54.2014503+00:00",
-  "LastUpdate_Ratings": "2023-09-04T15:59:09.353604+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:07:33.4701+00:00"
+  "LastUpdate_Ratings": "2023-09-04T16:59:31.702796+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:07:57.5619176+00:00"
 }

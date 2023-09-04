@@ -2,9 +2,9 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
-  "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 458,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.19,
+  "EOS_Completed_Percentage": 2.18,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1466,6 +1466,11 @@
       "Time": "2023-09-04T16:05:59.1501514+00:00",
       "NumProgressed": 457,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-04T17:06:20.94814+00:00",
+      "NumProgressed": 458,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1502,7 +1507,7 @@
       "Name": "Orange Skeleton",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "RedSkeleton",
@@ -1525,14 +1530,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 458,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-09-04T16:05:59.1501509+00:00",
+  "LastChanged_Achievements": "2023-09-04T17:06:20.9481393+00:00",
   "LastUpdate_AppInfo": "2023-08-31T17:57:08.8456263+00:00",
-  "LastUpdate_Ratings": "2023-09-04T15:57:21.6761714+00:00",
-  "LastUpdate_Achievements": "2023-09-04T16:05:59.1501723+00:00"
+  "LastUpdate_Ratings": "2023-09-04T16:57:37.0967671+00:00",
+  "LastUpdate_Achievements": "2023-09-04T17:06:20.948193+00:00"
 }

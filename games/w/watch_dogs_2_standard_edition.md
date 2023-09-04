@@ -1,11 +1,11 @@
 # Watch Dogs 2 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/watch-dogs-2)  
 [View Rawdata](../../db/w/watch_dogs_2_standard_edition.json)  
-Rating: 4.60 (Ranked 394)  
+Rating: 4.60 (Ranked 393)  
 Number of Ratings: 6,460  (23.09.2022)  
 ## Awards
 Max (Relaxing): 428  (Ranked 209)  
-Sum: 3,225 (Ranked 156)  
+Sum: 3,226 (Ranked 156)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 53
 | This game has Quickly Understood Controls | 421 |
 | This game is Extremely Fun | 413 |
 | This game has Amazing Characters | 392 |
-| This game has Amazing Storytelling | 387 |
+| This game has Amazing Storytelling | 388 |
 | This game has Diverse Characters | 386 |
 | This game is Highly Recommended | 372 |
 | This game has Obsessive Gameplay | 145 |
@@ -244,4 +244,4 @@ Diff (max vs sum): 53
 | 2023-09-01 | 4.60 | - | 423 | 3,206 |
 | 2023-09-02 | 4.60 | - | 425 | 3,213 |
 | 2023-09-03 | 4.60 | - | 426 | 3,219 |
-| 2023-09-04 | 4.60 | - | 428 | 3,225 |
+| 2023-09-04 | 4.60 | - | 428 | 3,226 |
