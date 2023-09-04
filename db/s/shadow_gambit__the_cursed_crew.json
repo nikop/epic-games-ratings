@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 593,
+  "EOS_Progressed": 594,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
@@ -1428,6 +1428,11 @@
       "Time": "2023-09-04T09:07:49.8227378+00:00",
       "NumProgressed": 593,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-04T11:06:10.4129679+00:00",
+      "NumProgressed": 594,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1448,7 +1453,7 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "_03_FinishAct1",
@@ -1456,7 +1461,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1464,15 +1469,15 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 184
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1502,9 +1507,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 172
     },
     {
       "ID": "_10_Completion_30",
@@ -1512,7 +1517,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "_11_Completion_40",
@@ -1560,7 +1565,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1568,7 +1573,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1600,7 +1605,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -1647,7 +1652,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 593,
+      "Progressed": 594,
       "Completed": 11
     }
   ],
@@ -1655,8 +1660,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-03T13:01:00.5241113+00:00",
-  "LastChanged_Achievements": "2023-09-04T10:07:01.8787435+00:00",
+  "LastChanged_Achievements": "2023-09-04T11:06:10.4129674+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-04T09:59:07.3272948+00:00",
-  "LastUpdate_Achievements": "2023-09-04T10:07:01.8787649+00:00"
+  "LastUpdate_Ratings": "2023-09-04T10:58:24.1720815+00:00",
+  "LastUpdate_Achievements": "2023-09-04T11:06:10.4129975+00:00"
 }

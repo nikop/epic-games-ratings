@@ -564,17 +564,17 @@
       "ID": "53",
       "SetID": "5e3maia",
       "Name": "Buddhist",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "54",
       "SetID": "5e3maia",
       "Name": "Dominator",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "55",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-04T10:07:55.9671161+00:00",
+  "LastChanged_Achievements": "2023-09-04T11:06:55.5068198+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-04T10:01:43.1446596+00:00",
-  "LastUpdate_Achievements": "2023-09-04T10:07:55.9671754+00:00"
+  "LastUpdate_Ratings": "2023-09-04T11:00:26.7540722+00:00",
+  "LastUpdate_Achievements": "2023-09-04T11:06:55.5068832+00:00"
 }

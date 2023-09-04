@@ -14,7 +14,7 @@ Rating: 4.57 (Ranked 454)
 | That's gotta hurt | 36.00% | ~240 |
 | I think it's broke | 26.00% | ~173 |
 | The Ann Flores Combo Experience | 26.00% | ~173 |
-| Club Star | 25.00% | ~166 |
+| Club Star | 25.00% | ~167 |
 | The Warlord | 21.00% | ~140 |
 | Fire in the hole! | 20.00% | ~133 |
 | Omnipotence | 20.00% | ~133 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 454)
 | Love me like I love my posters | 0.90% | ~6 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 224)  
+Progressed: 667 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-23 | 664 | 0 |
 | 2023-08-27 | 665 | 0 |
 | 2023-08-31 | 666 | 0 |
+| 2023-09-04 | 667 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

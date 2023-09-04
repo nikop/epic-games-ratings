@@ -6891,9 +6891,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60305,
+  "EOS_Progressed": 60306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21386,6 +21386,11 @@
       "Time": "2023-09-04T10:02:16.0922354+00:00",
       "NumProgressed": 60305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T11:03:15.407191+00:00",
+      "NumProgressed": 60306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21477,7 +21482,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6030
+      "UsersEstimate": 6031
     },
     {
       "ID": "Dynasty",
@@ -21485,7 +21490,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Entrepreneur",
@@ -21573,7 +21578,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     },
     {
       "ID": "Jack of All Trades",
@@ -21741,7 +21746,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6030
+      "UsersEstimate": 6031
     },
     {
       "ID": "The king is pleased",
@@ -21797,22 +21802,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5427
+      "UsersEstimate": 5428
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60305,
+      "Progressed": 60306,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-03T17:01:07.6964767+00:00",
-  "LastChanged_Achievements": "2023-09-04T10:02:16.0922349+00:00",
+  "LastChanged_Achievements": "2023-09-04T11:03:15.4071903+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-04T10:00:59.7625988+00:00",
-  "LastUpdate_Achievements": "2023-09-04T10:02:16.0923456+00:00"
+  "LastUpdate_Ratings": "2023-09-04T10:59:51.184485+00:00",
+  "LastUpdate_Achievements": "2023-09-04T11:03:15.4073415+00:00"
 }

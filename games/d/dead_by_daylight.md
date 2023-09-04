@@ -1,44 +1,44 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.52 (Ranked 533)  
+Rating: 4.52 (Ranked 532)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~16,939 |
-| It wakes | 2.00% | ~16,939 |
-| Skillful | 2.00% | ~16,939 |
-| MU/TH/UR Dearest | 2.00% | ~16,939 |
-| No one left behind | 1.00% | ~8,469 |
-| Medic | 1.00% | ~8,469 |
-| Handyman | 1.00% | ~8,469 |
-| Nerves of steel | 1.00% | ~8,469 |
-| Not half bad | 1.00% | ~8,469 |
-| Bloody Millionaire | 1.00% | ~8,469 |
-| Apt Survivor | 1.00% | ~8,469 |
-| Survival Treasures | 1.00% | ~8,469 |
-| I | 1.00% | ~8,469 |
-| Sorted | 1.00% | ~8,469 |
-| Resurgence | 1.00% | ~8,469 |
-| Make Some Noise | 1.00% | ~8,469 |
-| The Grand Sacrifice | 0.90% | ~7,622 |
-| Backdoor Escape | 0.90% | ~7,622 |
-| Perfect Escape | 0.90% | ~7,622 |
-| Healthy Obsession | 0.90% | ~7,622 |
-| Preemptive Strike | 0.90% | ~7,622 |
-| Agonizing Escape | 0.80% | ~6,775 |
-| Perfect Killing | 0.80% | ~6,775 |
-| Engineer | 0.80% | ~6,775 |
-| Humanitarian | 0.80% | ~6,775 |
-| Terror of LV-426 | 0.80% | ~6,775 |
-| I've got your back | 0.70% | ~5,929 |
+| Zealous | 2.00% | ~16,941 |
+| It wakes | 2.00% | ~16,941 |
+| Skillful | 2.00% | ~16,941 |
+| MU/TH/UR Dearest | 2.00% | ~16,941 |
+| No one left behind | 1.00% | ~8,470 |
+| Medic | 1.00% | ~8,470 |
+| Handyman | 1.00% | ~8,470 |
+| Nerves of steel | 1.00% | ~8,470 |
+| Not half bad | 1.00% | ~8,470 |
+| Bloody Millionaire | 1.00% | ~8,470 |
+| Apt Survivor | 1.00% | ~8,470 |
+| Survival Treasures | 1.00% | ~8,470 |
+| I | 1.00% | ~8,470 |
+| Sorted | 1.00% | ~8,470 |
+| Resurgence | 1.00% | ~8,470 |
+| Make Some Noise | 1.00% | ~8,470 |
+| The Grand Sacrifice | 0.90% | ~7,623 |
+| Backdoor Escape | 0.90% | ~7,623 |
+| Perfect Escape | 0.90% | ~7,623 |
+| Healthy Obsession | 0.90% | ~7,623 |
+| Preemptive Strike | 0.90% | ~7,623 |
+| Humanitarian | 0.90% | ~7,623 |
+| Agonizing Escape | 0.80% | ~6,776 |
+| I've got your back | 0.80% | ~6,776 |
+| Perfect Killing | 0.80% | ~6,776 |
+| Engineer | 0.80% | ~6,776 |
+| Terror of LV-426 | 0.80% | ~6,776 |
 | Risk it all | 0.70% | ~5,929 |
+| II | 0.70% | ~5,929 |
 | Wounded Healer | 0.70% | ~5,929 |
 | Close Shave | 0.70% | ~5,929 |
 | Apt Killer | 0.60% | ~5,082 |
 | Vulture | 0.60% | ~5,082 |
-| II | 0.60% | ~5,082 |
 | Second Act | 0.60% | ~5,082 |
 | III | 0.50% | ~4,235 |
 | First to the Punch | 0.50% | ~4,235 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~847 |
 | Adept Ripley | 0.10% | ~847 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 846,930 (Ranked 15)  
+Progressed: 847,035 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-09-01 | 837,438 | 48 |
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
-| 2023-09-04 | 846,930 | 48 |
+| 2023-09-04 | 847,035 | 48 |
 ## Awards
 Max (Diverse Characters): 31,936  (Ranked 15)  
 Sum: 250,017 (Ranked 11)  

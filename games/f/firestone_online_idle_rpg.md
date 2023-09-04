@@ -28,12 +28,12 @@ Rating: 4.03 (Ranked 937)
 | Natural Talent | 13.00% | ~247 |
 | Superior | 13.00% | ~247 |
 | Scientist | 12.00% | ~228 |
+| Challenger | 11.00% | ~209 |
 | Doing My Part | 11.00% | ~209 |
 | Hunter | 11.00% | ~209 |
 | Mastery | 11.00% | ~209 |
 | Relic Of The Past | 11.00% | ~209 |
 | The power of Awakening | 11.00% | ~209 |
-| Challenger | 10.00% | ~190 |
 | Daily Quest Completionist | 10.00% | ~190 |
 | Four Leaf Clover | 10.00% | ~190 |
 | Frostfire Liberator | 10.00% | ~190 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 937)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,897 (Ranked 175)  
+Progressed: 1,897 (Ranked 176)  
 Completed: 2 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -27,10 +27,10 @@ Number of Ratings: 524  (23.09.2022)
 | Come One, Come All | 13.00% | ~8,097 |
 | Heavy Metal | 12.00% | ~7,474 |
 | Perchance to Dream | 12.00% | ~7,474 |
-| Gatekeeper | 11.00% | ~6,851 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,851 |
-| Thunder and Lightning | 11.00% | ~6,851 |
-| Two For the Price of One | 11.00% | ~6,851 |
+| Gatekeeper | 11.00% | ~6,852 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,852 |
+| Thunder and Lightning | 11.00% | ~6,852 |
+| Two For the Price of One | 11.00% | ~6,852 |
 | The Lady of the Light | 10.00% | ~6,229 |
 | Energized! | 10.00% | ~6,229 |
 | What Light Through Yonder Window | 9.00% | ~5,606 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,286 (Ranked 87)  
+Progressed: 62,287 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-09-01 | 62,124 | 65 |
 | 2023-09-02 | 62,195 | 65 |
 | 2023-09-03 | 62,270 | 65 |
-| 2023-09-04 | 62,286 | 65 |
+| 2023-09-04 | 62,287 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

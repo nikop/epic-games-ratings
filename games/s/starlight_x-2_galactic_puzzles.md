@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Complete 25 levels | 6.00% | ~3 |
 | Switch off the light | 4.00% | ~2 |
+| Use 10 hints | 4.00% | ~2 |
 | Fast 6x6 | 2.00% | ~1 |
 | Complete 50 levels | 2.00% | ~1 |
 | Complete 100 levels | 2.00% | ~1 |
 | Complete 25 6x6 levels | 2.00% | ~1 |
 | Play for 5 hours | 2.00% | ~1 |
-| Use 10 hints | 2.00% | ~1 |
 | Use 20 hints | 2.00% | ~1 |
 | Use 50 hints | 2.00% | ~1 |
 | Addicted for 3 Days | 0.00% | ~0 |

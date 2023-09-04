@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~21,998 |
-| Thorough | 10.00% | ~19,998 |
-| A thief's beginning | 9.00% | ~17,998 |
+| Genin | 11.00% | ~21,999 |
+| Thorough | 10.00% | ~19,999 |
+| A thief's beginning | 9.00% | ~17,999 |
 | Disguised | 8.00% | ~15,999 |
 | Rescue Takuma | 8.00% | ~15,999 |
 | Rollin' | 8.00% | ~15,999 |
@@ -24,13 +24,13 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~9,999 |
 | Too Early | 5.00% | ~9,999 |
 | Warzone | 5.00% | ~9,999 |
-| Gear up | 4.00% | ~7,999 |
-| Happy little accidents | 4.00% | ~7,999 |
-| Prisoners | 4.00% | ~7,999 |
-| Still Rollin' | 4.00% | ~7,999 |
-| Noboru | 3.00% | ~5,999 |
-| Stoned | 3.00% | ~5,999 |
-| The Old Way | 3.00% | ~5,999 |
+| Gear up | 4.00% | ~8,000 |
+| Happy little accidents | 4.00% | ~8,000 |
+| Prisoners | 4.00% | ~8,000 |
+| Still Rollin' | 4.00% | ~8,000 |
+| Noboru | 3.00% | ~6,000 |
+| Stoned | 3.00% | ~6,000 |
+| The Old Way | 3.00% | ~6,000 |
 | Atheist Ox | 2.00% | ~4,000 |
 | It's raining men | 2.00% | ~4,000 |
 | Old Man | 2.00% | ~4,000 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~200 |
 | Release the Kraken | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199,983 (Ranked 61)  
+Progressed: 199,989 (Ranked 61)  
 Completed: 76 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 76 (0.04%) (Ranked 240)
 | 2023-09-01 | 199,350 | 75 |
 | 2023-09-02 | 199,645 | 76 |
 | 2023-09-03 | 199,900 | 76 |
-| 2023-09-04 | 199,983 | 76 |
+| 2023-09-04 | 199,989 | 76 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 190)  
 Sum: 4,741 (Ranked 135)  

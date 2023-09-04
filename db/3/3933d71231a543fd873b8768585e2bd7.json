@@ -162,9 +162,9 @@
       "ID": "achievements.completemission.islands.02",
       "SetID": "1kd1942",
       "Name": "Drilling for Black Gold",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievements.completemission.master.01",
@@ -281,8 +281,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-04T10:03:23.0551317+00:00",
+  "LastChanged_Achievements": "2023-09-04T11:03:28.5808586+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-04T09:58:26.3268126+00:00",
-  "LastUpdate_Achievements": "2023-09-04T10:03:23.0551439+00:00"
+  "LastUpdate_Ratings": "2023-09-04T10:57:50.6003818+00:00",
+  "LastUpdate_Achievements": "2023-09-04T11:03:28.5808713+00:00"
 }

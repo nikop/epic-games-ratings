@@ -4218,10 +4218,10 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 673171,
-  "EOS_Completed": 2112,
-  "EOS_NewPlayers": 5671,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 673193,
+  "EOS_Completed": 2113,
+  "EOS_NewPlayers": 5652,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19493,6 +19493,11 @@
       "Time": "2023-09-04T10:06:00.9872871+00:00",
       "NumProgressed": 673171,
       "NumCompleted": 2112
+    },
+    {
+      "Time": "2023-09-04T11:05:21.5019602+00:00",
+      "NumProgressed": 673193,
+      "NumCompleted": 2113
     }
   ],
   "TotalAchievements": 45,
@@ -19504,7 +19509,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -19560,7 +19565,7 @@
       "Name": "Bookworm",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_break_a_leg",
@@ -19592,7 +19597,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_doom_buddies",
@@ -19656,7 +19661,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_hotel_california",
@@ -19704,7 +19709,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_knowledgeable",
@@ -19776,7 +19781,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_star_performance",
@@ -19824,7 +19829,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5385
+      "UsersEstimate": 5386
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -19863,16 +19868,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673171,
-      "Completed": 2112
+      "Progressed": 673193,
+      "Completed": 2113
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-04T08:59:41.1614491+00:00",
-  "LastChanged_Achievements": "2023-09-04T10:06:00.9872865+00:00",
+  "LastChanged_Achievements": "2023-09-04T11:05:21.5019597+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-04T09:59:23.1717111+00:00",
-  "LastUpdate_Achievements": "2023-09-04T10:06:00.9873856+00:00"
+  "LastUpdate_Ratings": "2023-09-04T10:58:37.1044306+00:00",
+  "LastUpdate_Achievements": "2023-09-04T11:05:21.5020967+00:00"
 }
