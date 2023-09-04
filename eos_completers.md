@@ -9,8 +9,8 @@
 | 7 | [Volley Pals](games/v/volley_pals.md) | 25.69% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.37% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.34% |
-| 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.18% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.86% |
@@ -53,13 +53,13 @@
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
 | 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
-| 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.77% |
+| 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.35% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.15% |
-| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.05% |
+| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.04% |
 | 61 | [ZZT!](games/z/zzt!.md) | 4.02% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -114,7 +114,7 @@
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 113 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 114 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 115 | [Chorus](games/c/chorus.md) | 1.21% |
+| 115 | [Chorus](games/c/chorus.md) | 1.20% |
 | 116 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.18% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
@@ -141,8 +141,8 @@
 | 139 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
 | 139 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 139 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.61% |
-| 139 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.61% |
-| 143 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
+| 142 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
+| 142 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.60% |
 | 144 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
 | 145 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
