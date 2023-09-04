@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 3.86,
+  "Rating": 3.9,
   "RatingHistory": [
     {
       "Time": "2023-08-31T18:56:53.9930762+00:00",
@@ -32,6 +32,12 @@
     {
       "Time": "2023-09-03T13:57:49.4726382+00:00",
       "Rating": 3.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-04T19:58:20.383647+00:00",
+      "Rating": 3.9,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -60,9 +66,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2023-09-03T13:57:49.4726379+00:00",
-  "LastChanged_Achievements": "2023-09-04T19:03:51.9434866+00:00",
+  "LastChanged": "2023-09-04T19:58:20.3836467+00:00",
+  "LastChanged_Achievements": "2023-09-04T20:03:36.8486484+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:15.1756019+00:00",
-  "LastUpdate_Ratings": "2023-09-04T18:58:47.2136949+00:00",
-  "LastUpdate_Achievements": "2023-09-04T19:03:51.943491+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:58:20.3836472+00:00",
+  "LastUpdate_Achievements": "2023-09-04T20:03:36.8486511+00:00"
 }

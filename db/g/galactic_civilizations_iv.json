@@ -876,9 +876,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6552,
+  "EOS_Progressed": 6553,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5791,6 +5791,11 @@
       "Time": "2023-09-04T18:08:12.8347926+00:00",
       "NumProgressed": 6552,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T20:07:11.1976674+00:00",
+      "NumProgressed": 6553,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5906,7 +5911,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5176
+      "UsersEstimate": 5177
     },
     {
       "ID": "First_Race_Met",
@@ -5914,7 +5919,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4783
+      "UsersEstimate": 4784
     },
     {
       "ID": "First_Ship_Designed",
@@ -6122,7 +6127,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4063
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6290,7 +6295,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4390
+      "UsersEstimate": 4391
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6377,15 +6382,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6552,
+      "Progressed": 6553,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-08-31T07:00:05.3512746+00:00",
-  "LastChanged_Achievements": "2023-09-04T19:08:55.989867+00:00",
+  "LastChanged_Achievements": "2023-09-04T20:07:11.1976671+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:32.74218+00:00",
-  "LastUpdate_Ratings": "2023-09-04T18:58:40.747943+00:00",
-  "LastUpdate_Achievements": "2023-09-04T19:08:55.9900087+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:58:16.892635+00:00",
+  "LastUpdate_Achievements": "2023-09-04T20:07:11.1977491+00:00"
 }

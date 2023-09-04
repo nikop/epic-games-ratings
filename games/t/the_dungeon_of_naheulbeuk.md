@@ -6,30 +6,30 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~61,948 |
+| Sowwy! | 28.00% | ~61,953 |
 | Alt+F4 | 4.00% | ~8,850 |
-| Déjà vu | 3.00% | ~6,637 |
-| Where's that freaking Dwarf? | 3.00% | ~6,637 |
+| Déjà vu | 3.00% | ~6,638 |
+| Where's that freaking Dwarf? | 3.00% | ~6,638 |
 | A beer, two curses, three companions | 2.00% | ~4,425 |
 | Sock! SOCK! | 2.00% | ~4,425 |
 | GG EZ | 2.00% | ~4,425 |
 | DM intervention | 2.00% | ~4,425 |
 | Speedrun | 2.00% | ~4,425 |
 | Fireproof Wizardess | 2.00% | ~4,425 |
-| Livin' in a dwarven paradise | 1.00% | ~2,212 |
-| Way of the Wimp | 1.00% | ~2,212 |
-| The plot thickens... At the tavern | 1.00% | ~2,212 |
-| The demons' feast | 1.00% | ~2,212 |
-| The Great Library | 1.00% | ~2,212 |
-| Torture and Sensibility | 1.00% | ~2,212 |
-| Urik's Depths | 1.00% | ~2,212 |
-| The Dungeon Master | 1.00% | ~2,212 |
-| The Woman in the High Castle | 1.00% | ~2,212 |
-| Team Building Exercise | 1.00% | ~2,212 |
-| Oh, when I'll be level 10... | 1.00% | ~2,212 |
+| Livin' in a dwarven paradise | 1.00% | ~2,213 |
+| Way of the Wimp | 1.00% | ~2,213 |
+| The plot thickens... At the tavern | 1.00% | ~2,213 |
+| The demons' feast | 1.00% | ~2,213 |
+| The Great Library | 1.00% | ~2,213 |
+| Torture and Sensibility | 1.00% | ~2,213 |
+| Urik's Depths | 1.00% | ~2,213 |
+| The Dungeon Master | 1.00% | ~2,213 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,213 |
+| The Woman in the High Castle | 1.00% | ~2,213 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,213 |
+| Team Building Exercise | 1.00% | ~2,213 |
+| Oh, when I'll be level 10... | 1.00% | ~2,213 |
 | Shiny and Crôm | 0.90% | ~1,991 |
-| The Statuette of Gladeulfeurah | 0.90% | ~1,991 |
-| A tale of adventurers not quite like the others... | 0.90% | ~1,991 |
 | The Ranger of Chaos | 0.90% | ~1,991 |
 | I am the night | 0.90% | ~1,991 |
 | The Famous Dungeon of Naheulbeuk | 0.80% | ~1,770 |
@@ -39,8 +39,8 @@ Number of Ratings: 118  (23.09.2022)
 | Res Judicata | 0.70% | ~1,549 |
 | Dwarf Fortress | 0.70% | ~1,549 |
 | Look but don't touch | 0.70% | ~1,549 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,327 |
-| Lust and Debauchery | 0.60% | ~1,327 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,328 |
+| Lust and Debauchery | 0.60% | ~1,328 |
 | Dead for good | 0.50% | ~1,106 |
 | Gargantua | 0.50% | ~1,106 |
 | Material Girl | 0.50% | ~1,106 |
@@ -50,10 +50,10 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.30% | ~664 |
 | We come in peace | 0.30% | ~664 |
 | Law and Order | 0.30% | ~664 |
-| Scholar of the Lands of Fangh | 0.20% | ~442 |
-| Friendly fire | 0.20% | ~442 |
-| I'd rather... Just... Sing! | 0.20% | ~442 |
-| It's been a hard day's night | 0.20% | ~442 |
+| Scholar of the Lands of Fangh | 0.20% | ~443 |
+| Friendly fire | 0.20% | ~443 |
+| I'd rather... Just... Sing! | 0.20% | ~443 |
+| It's been a hard day's night | 0.20% | ~443 |
 | Cursed die | 0.10% | ~221 |
 | The number of the counting shalt be 7 | 0.10% | ~221 |
 | Necrophilia | 0.10% | ~221 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,242 (Ranked 57)  
+Progressed: 221,260 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,17 +191,17 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-01 | 220,165 | 2 |
 | 2023-09-02 | 220,547 | 2 |
 | 2023-09-03 | 220,988 | 2 |
-| 2023-09-04 | 221,242 | 2 |
+| 2023-09-04 | 221,260 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
-Sum: 259 (Ranked 353)  
+Sum: 261 (Ranked 353)  
 Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 189 |
 | This game is Relaxing | 25 |
 | This game is Great for Beginners | 24 |
-| This game has Amazing Characters | 21 |
+| This game has Amazing Characters | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -327,3 +327,4 @@ Diff (max vs sum): -75
 | 2023-09-01 | 4.58 | - | 185 | 234 |
 | 2023-09-02 | 4.58 | - | 189 | 238 |
 | 2023-09-03 | 4.58 | - | 189 | 259 |
+| 2023-09-04 | 4.58 | - | 189 | 261 |

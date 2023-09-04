@@ -197,9 +197,9 @@
       "ID": "ACH_15_FOLKLORE",
       "SetID": "cieb1c3",
       "Name": "Folklore",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_16_EXPANSION",
@@ -390,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2023-09-04T19:07:17.7361304+00:00",
+  "LastChanged_Achievements": "2023-09-04T20:05:53.2256373+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:20.2266829+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:01:09.4486356+00:00",
-  "LastUpdate_Achievements": "2023-09-04T19:07:17.736158+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:59:52.3111535+00:00",
+  "LastUpdate_Achievements": "2023-09-04T20:05:53.2256607+00:00"
 }

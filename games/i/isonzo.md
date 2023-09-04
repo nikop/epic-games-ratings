@@ -8,21 +8,21 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,694 |
 | Tutti Eroi! | 55.00% | ~3,694 |
-| You Shall Not Pass | 53.00% | ~3,559 |
+| You Shall Not Pass | 53.00% | ~3,560 |
 | Avanti Savoia! | 48.00% | ~3,224 |
 | Mamma Mia! | 38.00% | ~2,552 |
 | Conrad von Hotzensocks | 36.00% | ~2,418 |
-| Gabriele D'Annunzio | 33.00% | ~2,216 |
+| Gabriele D'Annunzio | 33.00% | ~2,217 |
 | Silver Lining | 30.00% | ~2,015 |
 | Aurelio Baruzzi | 24.00% | ~1,612 |
 | Decimation | 22.00% | ~1,478 |
 | Donatello | 22.00% | ~1,478 |
 | Veni Vidi Vici | 22.00% | ~1,478 |
-| The Italian Job | 21.00% | ~1,410 |
+| The Italian Job | 21.00% | ~1,411 |
 | Insubordination | 20.00% | ~1,343 |
 | Ragazzi del '99 | 18.00% | ~1,209 |
 | The Lion of the Isonzo | 18.00% | ~1,209 |
-| Luigi Cadorna | 15.00% | ~1,007 |
+| Luigi Cadorna | 15.00% | ~1,008 |
 | Dirty Dozen | 14.00% | ~940 |
 | Uomo Universale | 14.00% | ~940 |
 | Die Bosniaken Kommen! | 13.00% | ~873 |
@@ -33,16 +33,16 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 11.00% | ~739 |
 | I Have the High Ground | 10.00% | ~672 |
 | Millenial | 10.00% | ~672 |
-| The Show Must Go On | 9.00% | ~604 |
-| Tosca | 9.00% | ~604 |
+| The Show Must Go On | 9.00% | ~605 |
+| Tosca | 9.00% | ~605 |
 | 12th Bottle of the Isonzo | 7.00% | ~470 |
 | Cercatore d'Oro | 6.00% | ~403 |
 | The Enlightment | 6.00% | ~403 |
 | Generalissimo | 5.00% | ~336 |
 | "O La Vittoria, O Tutti Accoppati" | 5.00% | ~336 |
 | Seeing Red | 4.00% | ~269 |
-| Ponte of No Return | 3.00% | ~201 |
-| Soča Drag | 3.00% | ~201 |
+| Ponte of No Return | 3.00% | ~202 |
+| Soča Drag | 3.00% | ~202 |
 | Farewell to Arms | 2.00% | ~134 |
 | Saboteur | 2.00% | ~134 |
 | Compagnia della Morte | 1.00% | ~67 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,716 (Ranked 138)  
+Progressed: 6,717 (Ranked 138)  
 Completed: 8 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 8 (0.12%) (Ranked 210)
 | 2023-09-01 | 6,708 | 8 |
 | 2023-09-02 | 6,711 | 8 |
 | 2023-09-03 | 6,714 | 8 |
-| 2023-09-04 | 6,716 | 8 |
+| 2023-09-04 | 6,717 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 435)  
 Sum: 271 (Ranked 352)  

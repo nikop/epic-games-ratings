@@ -1,19 +1,19 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 614)  
+Rating: 4.47 (Ranked 615)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,647 |
-| Confirming Suspicions | 40.00% | ~1,432 |
-| The Kraken Wakes | 36.00% | ~1,289 |
+| Meeting Resistance | 46.00% | ~1,648 |
+| Confirming Suspicions | 40.00% | ~1,433 |
+| The Kraken Wakes | 36.00% | ~1,290 |
 | It's Starting to Crack | 33.00% | ~1,182 |
-| Change the Channel | 30.00% | ~1,074 |
-| Lord of War | 29.00% | ~1,038 |
+| Change the Channel | 30.00% | ~1,075 |
+| Lord of War | 29.00% | ~1,039 |
 | Taking it back | 28.00% | ~1,003 |
 | Resourceful | 26.00% | ~931 |
-| Target America | 25.00% | ~895 |
+| Target America | 25.00% | ~896 |
 | The Kraken Sleeps | 23.00% | ~824 |
 | Organ Grinder | 22.00% | ~788 |
 | As Quiet as a Mouse | 22.00% | ~788 |
@@ -36,7 +36,7 @@ Rating: 4.47 (Ranked 614)
 | Set Europe Ablaze | 12.00% | ~430 |
 | Precision Is Key | 9.00% | ~322 |
 | My Little Friend | 9.00% | ~322 |
-| Rigged to Blow | 8.00% | ~286 |
+| Rigged to Blow | 8.00% | ~287 |
 | Herr Today, Gone Tomorrow | 6.00% | ~212 |
 | The Long Game | 5.00% | ~179 |
 | It'll Buff Right Out | 5.00% | ~179 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 614)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,581 (Ranked 154)  
+Progressed: 3,582 (Ranked 154)  
 Completed: 10 (0.28%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 10 (0.28%) (Ranked 182)
 | 2023-09-01 | 3,560 | 10 |
 | 2023-09-02 | 3,565 | 10 |
 | 2023-09-03 | 3,577 | 10 |
-| 2023-09-04 | 3,581 | 10 |
+| 2023-09-04 | 3,582 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

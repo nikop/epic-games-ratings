@@ -5872,9 +5872,9 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135656,
+  "EOS_Progressed": 135658,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19952,6 +19952,11 @@
       "Time": "2023-09-04T19:05:05.7436342+00:00",
       "NumProgressed": 135656,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-09-04T20:04:21.0147663+00:00",
+      "NumProgressed": 135658,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 112,
@@ -20201,9 +20206,9 @@
       "ID": "commonres02",
       "SetID": "anfd17p",
       "Name": "Demand for Supplies",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 950
     },
     {
       "ID": "commonres03",
@@ -20858,15 +20863,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135656,
+      "Progressed": 135658,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-04T17:58:40.8605767+00:00",
-  "LastChanged_Achievements": "2023-09-04T19:05:05.7436337+00:00",
+  "LastChanged_Achievements": "2023-09-04T20:04:21.0147657+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-04T18:59:46.1862502+00:00",
-  "LastUpdate_Achievements": "2023-09-04T19:05:05.7439176+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:58:57.2579584+00:00",
+  "LastUpdate_Achievements": "2023-09-04T20:04:21.0149563+00:00"
 }

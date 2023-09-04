@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1381,
+  "EOS_Progressed": 1382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2906,6 +2906,11 @@
       "Time": "2023-09-04T06:04:30.2013937+00:00",
       "NumProgressed": 1381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T20:04:08.7260571+00:00",
+      "NumProgressed": 1382,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2925,7 +2930,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -2957,7 +2962,7 @@
       "Name": "Bot Whisperer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "CHAIN_KILLER",
@@ -3013,7 +3018,7 @@
       "Name": "Curveball",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "DEAD_DD",
@@ -3021,7 +3026,7 @@
       "Name": "Ganglord",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "DEAD_DICK",
@@ -3037,7 +3042,7 @@
       "Name": "Jarhead",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -3061,7 +3066,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ENDGAME",
@@ -3133,7 +3138,7 @@
       "Name": "Giant Killer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "GOAL",
@@ -3147,9 +3152,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 967
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3157,7 +3162,7 @@
       "Name": "Hold The Line",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "IM_THE_LAW",
@@ -3203,9 +3208,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 442
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -3221,7 +3226,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1078
     },
     {
       "ID": "RECYCLER",
@@ -3285,7 +3290,7 @@
       "Name": "Technophobe",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -3301,7 +3306,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "THE_WATCHERS",
@@ -3324,7 +3329,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1381,
+      "Progressed": 1382,
       "Completed": 0
     }
   ],
@@ -3332,8 +3337,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-04T19:04:47.944271+00:00",
+  "LastChanged_Achievements": "2023-09-04T20:04:08.7260568+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:54.3073965+00:00",
-  "LastUpdate_Ratings": "2023-09-04T18:59:30.091897+00:00",
-  "LastUpdate_Achievements": "2023-09-04T19:04:47.9443271+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:58:46.627645+00:00",
+  "LastUpdate_Achievements": "2023-09-04T20:04:08.7261079+00:00"
 }

@@ -4156,18 +4156,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 8685,
       "NumberOfAwardsMax": 5889
+    },
+    {
+      "Time": "2023-09-04T19:58:54.2860159+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8698,
+      "NumberOfAwardsMax": 5902
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8685,
-  "NumberOfAwardsMax": 5889,
+  "NumberOfAwards": 8698,
+  "NumberOfAwardsMax": 5902,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5889
+      "Count": 5902
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4218,10 +4224,10 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 673505,
+  "EOS_Progressed": 673552,
   "EOS_Completed": 2114,
-  "EOS_NewPlayers": 5566,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 5569,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19538,6 +19544,11 @@
       "Time": "2023-09-04T19:06:33.8446974+00:00",
       "NumProgressed": 673505,
       "NumCompleted": 2114
+    },
+    {
+      "Time": "2023-09-04T20:05:22.409459+00:00",
+      "NumProgressed": 673552,
+      "NumCompleted": 2114
     }
   ],
   "TotalAchievements": 45,
@@ -19613,7 +19624,7 @@
       "Name": "Break A Leg",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "ach_contender",
@@ -19675,9 +19686,9 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4715
+      "UsersEstimate": 5388
     },
     {
       "ID": "ach_good_eyesight",
@@ -19709,7 +19720,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "ach_impressive_aim",
@@ -19819,9 +19830,9 @@
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5388
+      "UsersEstimate": 6062
     },
     {
       "ID": "ach_star_performance",
@@ -19885,7 +19896,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6735
+      "UsersEstimate": 6736
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19908,16 +19919,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673505,
+      "Progressed": 673552,
       "Completed": 2114
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-04T08:59:41.1614491+00:00",
-  "LastChanged_Achievements": "2023-09-04T19:06:33.8446972+00:00",
+  "LastChanged": "2023-09-04T19:58:54.2860158+00:00",
+  "LastChanged_Achievements": "2023-09-04T20:05:22.4094586+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-04T18:59:41.6158363+00:00",
-  "LastUpdate_Achievements": "2023-09-04T19:06:33.844825+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:58:54.2860166+00:00",
+  "LastUpdate_Achievements": "2023-09-04T20:05:22.4095662+00:00"
 }

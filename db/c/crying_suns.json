@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466694,
+  "EOS_Progressed": 466696,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
@@ -14988,6 +14988,11 @@
       "Time": "2023-09-04T19:04:37.3964501+00:00",
       "NumProgressed": 466694,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-04T20:04:01.6379103+00:00",
+      "NumProgressed": 466696,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15039,7 +15044,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 46669
+      "UsersEstimate": 46670
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -15087,7 +15092,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308018
+      "UsersEstimate": 308019
     },
     {
       "ID": "achievement_story_landa",
@@ -15151,7 +15156,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51336
+      "UsersEstimate": 51337
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -15183,7 +15188,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154009
+      "UsersEstimate": 154010
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -15423,7 +15428,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205345
+      "UsersEstimate": 205346
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -15431,7 +15436,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140008
+      "UsersEstimate": 140009
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -15447,7 +15452,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51336
+      "UsersEstimate": 51337
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -15630,21 +15635,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10628,
+      "Progressed": 10630,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466694,
+      "Progressed": 466696,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-04T19:04:37.3964497+00:00",
+  "LastChanged_Achievements": "2023-09-04T20:04:01.6379097+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.6951688+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:00:35.6450809+00:00",
-  "LastUpdate_Achievements": "2023-09-04T19:04:37.3966646+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:59:28.0173304+00:00",
+  "LastUpdate_Achievements": "2023-09-04T20:04:01.6380528+00:00"
 }

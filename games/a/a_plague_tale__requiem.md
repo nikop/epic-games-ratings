@@ -28,7 +28,7 @@ Rating: 4.73 (Ranked 163)
 | Effective instruments | 22.00% | ~2,844 |
 | Perfect shot | 22.00% | ~2,844 |
 | Perfect throw | 22.00% | ~2,844 |
-| Knights! | 20.00% | ~2,585 |
+| Knights! | 21.00% | ~2,714 |
 | Handful of pockets | 13.00% | ~1,680 |
 | Pocket laboratory | 12.00% | ~1,551 |
 | Not a toy anymore | 11.00% | ~1,422 |

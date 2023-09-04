@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -904,9 +904,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255859,
+  "EOS_Progressed": 255862,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14904,6 +14904,11 @@
       "Time": "2023-09-04T19:07:23.1409344+00:00",
       "NumProgressed": 255859,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T20:05:56.383606+00:00",
+      "NumProgressed": 255862,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -14963,7 +14968,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79316
+      "UsersEstimate": 79317
     },
     {
       "ID": "BackHomeNTimes",
@@ -15203,7 +15208,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56289
+      "UsersEstimate": 56290
     },
     {
       "ID": "KillOthers2",
@@ -15362,7 +15367,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255859,
+      "Progressed": 255862,
       "Completed": 3
     }
   ],
@@ -15370,8 +15375,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-04T18:00:18.5203268+00:00",
-  "LastChanged_Achievements": "2023-09-04T19:07:23.1409339+00:00",
+  "LastChanged_Achievements": "2023-09-04T20:05:56.3836057+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:51.8188403+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:02:06.2093505+00:00",
-  "LastUpdate_Achievements": "2023-09-04T19:07:23.1410497+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:00:32.7643266+00:00",
+  "LastUpdate_Achievements": "2023-09-04T20:05:56.3837137+00:00"
 }

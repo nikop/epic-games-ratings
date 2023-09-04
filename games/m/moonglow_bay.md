@@ -9,8 +9,8 @@
 | The Art of Conversation | 2.00% | ~8 |
 | Flying Tackle | 2.00% | ~8 |
 | An Ancient Feud | 1.00% | ~4 |
+| Folklore | 1.00% | ~4 |
 | Selfish Shellfish | 1.00% | ~4 |
-| Folklore | 0.80% | ~3 |
 | Ocean Wings | 0.80% | ~3 |
 | They Can Change | 0.50% | ~2 |
 | The Heart of Moonglow | 0.50% | ~2 |

@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 1.00% | ~6,735 |
-| Hotel California | 1.00% | ~6,735 |
-| Welcome To Hell-A | 1.00% | ~6,735 |
+| Break A Leg | 1.00% | ~6,736 |
+| Hotel California | 1.00% | ~6,736 |
+| Welcome To Hell-A | 1.00% | ~6,736 |
 | Dr. Reed, I Presume? | 0.90% | ~6,062 |
 | Git Gutte! | 0.90% | ~6,062 |
 | Coup de Grâce | 0.90% | ~6,062 |
 | Hazardous Materials | 0.90% | ~6,062 |
 | Friends Like These | 0.90% | ~6,062 |
+| Stacking the Deck | 0.90% | ~6,062 |
 | Personal Assistant Personally Assisted | 0.90% | ~6,062 |
 | Bookworm | 0.80% | ~5,388 |
 | But Doctor, I am Butcho | 0.80% | ~5,388 |
 | Can't Handle the Truth | 0.80% | ~5,388 |
+| Like Riding a Bike | 0.80% | ~5,388 |
 | Apex Predator | 0.80% | ~5,388 |
-| Stacking the Deck | 0.80% | ~5,388 |
 | This is My Weapon | 0.80% | ~5,388 |
 | Slayer Squad | 0.70% | ~4,715 |
-| Like Riding a Bike | 0.70% | ~4,715 |
 | Zombologist | 0.70% | ~4,715 |
 | A Patton Emerges | 0.70% | ~4,715 |
 | Anger Management | 0.60% | ~4,041 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,505 (Ranked 22)  
+Progressed: 673,552 (Ranked 22)  
 Completed: 2,114 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,14 +188,14 @@ Completed: 2,114 (0.31%) (Ranked 177)
 | 2023-09-01 | 671,108 | 2,097 |
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
-| 2023-09-04 | 673,505 | 2,114 |
+| 2023-09-04 | 673,552 | 2,114 |
 ## Awards
-Max (Great Boss Battles): 5,889  (Ranked 59)  
-Sum: 8,685 (Ranked 95)  
+Max (Great Boss Battles): 5,902  (Ranked 59)  
+Sum: 8,698 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,889 |
+| This game has Great Boss Battles | 5,902 |
 | This game is Great for Beginners | 393 |
 | This game has Diverse Characters | 387 |
 | This game has Quickly Understood Controls | 382 |
@@ -343,4 +343,4 @@ Diff (max vs sum): -36
 | 2023-09-01 | 4.54 | 5,846 | 8,613 |
 | 2023-09-02 | 4.54 | 5,867 | 8,645 |
 | 2023-09-03 | 4.54 | 5,889 | 8,684 |
-| 2023-09-04 | 4.54 | 5,889 | 8,685 |
+| 2023-09-04 | 4.54 | 5,902 | 8,698 |

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3145,
+  "EOS_Progressed": 3146,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -2879,6 +2879,11 @@
       "Time": "2023-09-04T01:49:47.1201293+00:00",
       "NumProgressed": 3145,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-04T20:07:12.9484523+00:00",
+      "NumProgressed": 3146,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -2938,7 +2943,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "campaign10",
@@ -2978,7 +2983,7 @@
       "Name": "Well Supplied",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "campaign15",
@@ -3042,7 +3047,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "campaign4",
@@ -3112,9 +3117,9 @@
       "ID": "scenario3",
       "SetID": "2h56gn1",
       "Name": "Not a Drop Wasted",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 157
     },
     {
       "ID": "scenario4",
@@ -3153,7 +3158,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3145,
+      "Progressed": 3146,
       "Completed": 11
     }
   ],
@@ -3161,8 +3166,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-04T19:08:58.0750189+00:00",
+  "LastChanged_Achievements": "2023-09-04T20:07:12.9484519+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:27.3350967+00:00",
-  "LastUpdate_Ratings": "2023-09-04T19:01:57.0358936+00:00",
-  "LastUpdate_Achievements": "2023-09-04T19:08:58.0750843+00:00"
+  "LastUpdate_Ratings": "2023-09-04T20:00:25.8333029+00:00",
+  "LastUpdate_Achievements": "2023-09-04T20:07:12.9484864+00:00"
 }
