@@ -192,9 +192,9 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievements.firstexpedition",
@@ -271,8 +271,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-04T04:03:21.1126841+00:00",
+  "LastChanged_Achievements": "2023-09-04T05:03:29.153548+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:57:46.3486566+00:00",
-  "LastUpdate_Achievements": "2023-09-04T04:03:21.1127001+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:58:02.8597989+00:00",
+  "LastUpdate_Achievements": "2023-09-04T05:03:29.1535654+00:00"
 }

@@ -5860,9 +5860,9 @@
       "Count": 3740
     }
   ],
-  "EOS_Progressed": 135625,
+  "EOS_Progressed": 135626,
   "EOS_Completed": 142,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -19880,6 +19880,11 @@
       "Time": "2023-09-04T04:04:13.7728061+00:00",
       "NumProgressed": 135625,
       "NumCompleted": 142
+    },
+    {
+      "Time": "2023-09-04T05:04:22.4886565+00:00",
+      "NumProgressed": 135626,
+      "NumCompleted": 142
     }
   ],
   "TotalAchievements": 112,
@@ -19907,7 +19912,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "advlevel04",
@@ -19963,7 +19968,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "bigsale01",
@@ -19979,7 +19984,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "bigsale03",
@@ -19987,7 +19992,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "blueprint01",
@@ -20035,7 +20040,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "boss03",
@@ -20059,7 +20064,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "chest02",
@@ -20067,7 +20072,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "chest03",
@@ -20091,7 +20096,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "collection03",
@@ -20123,7 +20128,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "commonres02",
@@ -20139,7 +20144,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "commonres04",
@@ -20171,7 +20176,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "craft04",
@@ -20203,7 +20208,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "damage03",
@@ -20219,7 +20224,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "enchant01",
@@ -20227,7 +20232,7 @@
       "Name": "Hidden Potential",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "enchant02",
@@ -20275,7 +20280,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "expansion03",
@@ -20347,7 +20352,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "gemsspent",
@@ -20363,7 +20368,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "gold02",
@@ -20387,7 +20392,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "gold05",
@@ -20395,7 +20400,7 @@
       "Name": "Mammonite",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "gold06",
@@ -20507,7 +20512,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "loot01",
@@ -20523,7 +20528,7 @@
       "Name": "Laden with Loot",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "loot03",
@@ -20563,7 +20568,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "master04",
@@ -20675,7 +20680,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "sell03",
@@ -20707,7 +20712,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "twinenchant01",
@@ -20715,7 +20720,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "typeunlock01",
@@ -20731,7 +20736,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "uncommonres02",
@@ -20771,7 +20776,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "yami_a",
@@ -20786,15 +20791,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135625,
+      "Progressed": 135626,
       "Completed": 142
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-03T11:58:28.6836995+00:00",
-  "LastChanged_Achievements": "2023-09-04T04:04:13.7728054+00:00",
+  "LastChanged_Achievements": "2023-09-04T05:04:22.488656+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:58:32.2587886+00:00",
-  "LastUpdate_Achievements": "2023-09-04T04:04:13.7730537+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:58:50.7756792+00:00",
+  "LastUpdate_Achievements": "2023-09-04T05:04:22.4888911+00:00"
 }

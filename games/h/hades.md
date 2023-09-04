@@ -27,9 +27,9 @@ Number of Ratings: 6,336  (23.09.2022)
 | Home Makeover | 27.00% | ~189,732 |
 | The Family Secret | 26.00% | ~182,705 |
 | Had to Happen | 25.00% | ~175,678 |
+| To Charon's Credit | 23.00% | ~161,624 |
 | Tools of the Architect | 23.00% | ~161,624 |
 | Master of Arms | 23.00% | ~161,624 |
-| To Charon's Credit | 22.00% | ~154,597 |
 | Rare Collectible | 22.00% | ~154,597 |
 | Weapon of Fate | 21.00% | ~147,570 |
 | Something From Everyone | 19.00% | ~133,515 |

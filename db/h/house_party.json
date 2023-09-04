@@ -4958,9 +4958,9 @@
       "ID": "FriendInNeed",
       "SetID": "bmkn7o4",
       "Name": "A Friend in Need...",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 306
     },
     {
       "ID": "GoodRiddance",
@@ -5310,9 +5310,9 @@
       "ID": "gooddays",
       "SetID": "bmkn7o4",
       "Name": "Good Ol\u0027 Days",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 25
     },
     {
       "ID": "snapped",
@@ -5348,8 +5348,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-04T04:06:47.7291463+00:00",
+  "LastChanged_Achievements": "2023-09-04T05:06:58.497892+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:40.5022837+00:00",
-  "LastUpdate_Ratings": "2023-09-04T04:00:45.8821448+00:00",
-  "LastUpdate_Achievements": "2023-09-04T04:06:47.7292488+00:00"
+  "LastUpdate_Ratings": "2023-09-04T05:03:12.9925618+00:00",
+  "LastUpdate_Achievements": "2023-09-04T05:06:58.4979848+00:00"
 }

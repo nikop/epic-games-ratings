@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,712 |
-| Basic in Bulk | 2.00% | ~2,712 |
-| Tinkle of Coins | 2.00% | ~2,712 |
-| Titan's First Steps | 2.00% | ~2,712 |
+| Sponsored by Argon | 2.00% | ~2,713 |
+| Basic in Bulk | 2.00% | ~2,713 |
+| Tinkle of Coins | 2.00% | ~2,713 |
+| Titan's First Steps | 2.00% | ~2,713 |
 | Disintermediation | 1.00% | ~1,356 |
 | Another Satisfied Customer | 1.00% | ~1,356 |
 | It's Free Real Estate | 1.00% | ~1,356 |
@@ -43,29 +43,29 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.50% | ~678 |
 | Helping Hand | 0.50% | ~678 |
 | Natural 20 | 0.50% | ~678 |
-| A Notch Above the Rest | 0.40% | ~542 |
-| A Ronin Reborn | 0.40% | ~542 |
-| Tax not Included | 0.40% | ~542 |
-| The King's Caprice | 0.40% | ~542 |
-| Big Game Hunting | 0.40% | ~542 |
-| For the Hoard! | 0.40% | ~542 |
-| Scrapbooker | 0.40% | ~542 |
-| Locally Sourced | 0.40% | ~542 |
-| Flying off the Shelves | 0.40% | ~542 |
-| This Power Level...! | 0.40% | ~542 |
-| Master of Transmutation | 0.40% | ~542 |
-| Hidden Potential | 0.40% | ~542 |
-| Expansion in Session | 0.40% | ~542 |
-| Trash to Treasure | 0.40% | ~542 |
-| Royal Ransom | 0.40% | ~542 |
-| Mammonite | 0.40% | ~542 |
-| Miracle Alchemist | 0.40% | ~542 |
-| Laden with Loot | 0.40% | ~542 |
-| Seasoned Journeyman | 0.40% | ~542 |
-| Black Friday Special | 0.40% | ~542 |
-| Magical Harmony | 0.40% | ~542 |
-| Special Ingredient | 0.40% | ~542 |
-| Complete Monopoly | 0.40% | ~542 |
+| A Notch Above the Rest | 0.40% | ~543 |
+| A Ronin Reborn | 0.40% | ~543 |
+| Tax not Included | 0.40% | ~543 |
+| The King's Caprice | 0.40% | ~543 |
+| Big Game Hunting | 0.40% | ~543 |
+| For the Hoard! | 0.40% | ~543 |
+| Scrapbooker | 0.40% | ~543 |
+| Locally Sourced | 0.40% | ~543 |
+| Flying off the Shelves | 0.40% | ~543 |
+| This Power Level...! | 0.40% | ~543 |
+| Master of Transmutation | 0.40% | ~543 |
+| Hidden Potential | 0.40% | ~543 |
+| Expansion in Session | 0.40% | ~543 |
+| Trash to Treasure | 0.40% | ~543 |
+| Royal Ransom | 0.40% | ~543 |
+| Mammonite | 0.40% | ~543 |
+| Miracle Alchemist | 0.40% | ~543 |
+| Laden with Loot | 0.40% | ~543 |
+| Seasoned Journeyman | 0.40% | ~543 |
+| Black Friday Special | 0.40% | ~543 |
+| Magical Harmony | 0.40% | ~543 |
+| Special Ingredient | 0.40% | ~543 |
+| Complete Monopoly | 0.40% | ~543 |
 | Cream of the Crop | 0.30% | ~407 |
 | Top of the World | 0.30% | ~407 |
 | Proud Paladin | 0.30% | ~407 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,625 (Ranked 67)  
+Progressed: 135,626 (Ranked 67)  
 Completed: 142 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 142 (0.10%) (Ranked 218)
 | 2023-09-01 | 135,508 | 140 |
 | 2023-09-02 | 135,551 | 140 |
 | 2023-09-03 | 135,618 | 142 |
-| 2023-09-04 | 135,625 | 142 |
+| 2023-09-04 | 135,626 | 142 |
 ## Awards
 Max (Great for Beginners): 4,721  (Ranked 70)  
 Sum: 27,169 (Ranked 47)  

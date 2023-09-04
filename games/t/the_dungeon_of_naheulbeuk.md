@@ -6,32 +6,32 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 27.00% | ~59,683 |
+| Sowwy! | 27.00% | ~59,686 |
 | Alt+F4 | 4.00% | ~8,842 |
-| Déjà vu | 3.00% | ~6,631 |
-| Where's that freaking Dwarf? | 3.00% | ~6,631 |
+| Déjà vu | 3.00% | ~6,632 |
+| Where's that freaking Dwarf? | 3.00% | ~6,632 |
 | A beer, two curses, three companions | 2.00% | ~4,421 |
 | Sock! SOCK! | 2.00% | ~4,421 |
 | GG EZ | 2.00% | ~4,421 |
 | DM intervention | 2.00% | ~4,421 |
 | Speedrun | 2.00% | ~4,421 |
 | Fireproof Wizardess | 2.00% | ~4,421 |
-| Livin' in a dwarven paradise | 1.00% | ~2,210 |
-| Way of the Wimp | 1.00% | ~2,210 |
-| The plot thickens... At the tavern | 1.00% | ~2,210 |
-| The demons' feast | 1.00% | ~2,210 |
-| The Great Library | 1.00% | ~2,210 |
-| Torture and Sensibility | 1.00% | ~2,210 |
-| Urik's Depths | 1.00% | ~2,210 |
-| The Dungeon Master | 1.00% | ~2,210 |
-| The Woman in the High Castle | 1.00% | ~2,210 |
-| Team Building Exercise | 1.00% | ~2,210 |
-| Oh, when I'll be level 10... | 1.00% | ~2,210 |
-| Shiny and Crôm | 0.90% | ~1,989 |
-| The Statuette of Gladeulfeurah | 0.90% | ~1,989 |
-| A tale of adventurers not quite like the others... | 0.90% | ~1,989 |
-| The Ranger of Chaos | 0.90% | ~1,989 |
-| I am the night | 0.90% | ~1,989 |
+| Livin' in a dwarven paradise | 1.00% | ~2,211 |
+| Way of the Wimp | 1.00% | ~2,211 |
+| The plot thickens... At the tavern | 1.00% | ~2,211 |
+| The demons' feast | 1.00% | ~2,211 |
+| The Great Library | 1.00% | ~2,211 |
+| Torture and Sensibility | 1.00% | ~2,211 |
+| Urik's Depths | 1.00% | ~2,211 |
+| The Dungeon Master | 1.00% | ~2,211 |
+| The Woman in the High Castle | 1.00% | ~2,211 |
+| Team Building Exercise | 1.00% | ~2,211 |
+| Oh, when I'll be level 10... | 1.00% | ~2,211 |
+| Shiny and Crôm | 0.90% | ~1,990 |
+| The Statuette of Gladeulfeurah | 0.90% | ~1,990 |
+| A tale of adventurers not quite like the others... | 0.90% | ~1,990 |
+| The Ranger of Chaos | 0.90% | ~1,990 |
+| I am the night | 0.90% | ~1,990 |
 | %#*!$*! | 0.80% | ~1,768 |
 | The beards of change | 0.80% | ~1,768 |
 | Thieves' Guild Accreditation | 0.80% | ~1,768 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~221 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,047 (Ranked 57)  
+Progressed: 221,059 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-01 | 220,165 | 2 |
 | 2023-09-02 | 220,547 | 2 |
 | 2023-09-03 | 220,988 | 2 |
-| 2023-09-04 | 221,047 | 2 |
+| 2023-09-04 | 221,059 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 259 (Ranked 353)  

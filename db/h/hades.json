@@ -4281,7 +4281,7 @@
   ],
   "EOS_Progressed": 702712,
   "EOS_Completed": 6335,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -18894,9 +18894,9 @@
       "ID": "AchBeatCharon",
       "SetID": "4l1m16p",
       "Name": "To Charon\u0027s Credit",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 154597
+      "UsersEstimate": 161624
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -19278,8 +19278,8 @@
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-03T16:58:55.18189+00:00",
-  "LastChanged_Achievements": "2023-09-04T04:03:15.7887297+00:00",
+  "LastChanged_Achievements": "2023-09-04T05:03:24.0243024+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:42.7681914+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:58:14.150384+00:00",
-  "LastUpdate_Achievements": "2023-09-04T04:03:15.7888704+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:58:33.4980326+00:00",
+  "LastUpdate_Achievements": "2023-09-04T05:03:24.0244392+00:00"
 }

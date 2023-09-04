@@ -9004,10 +9004,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 48669,
       "NumberOfAwardsMax": 5909
+    },
+    {
+      "Time": "2023-09-04T04:57:44.5006286+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 48675,
+      "NumberOfAwardsMax": 5909
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48669,
+  "NumberOfAwards": 48675,
   "NumberOfAwardsMax": 5909,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9051,7 +9057,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 5305
+      "Count": 5311
     },
     {
       "Text": "This game is Relaxing",
@@ -9078,9 +9084,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 390268,
+  "EOS_Progressed": 390294,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14259,
+  "EOS_NewPlayers": 14223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24363,6 +24369,11 @@
       "Time": "2023-09-04T04:06:48.8906139+00:00",
       "NumProgressed": 390268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T05:07:00.2841327+00:00",
+      "NumProgressed": 390294,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -24814,7 +24825,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7805
+      "UsersEstimate": 7806
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -25374,7 +25385,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11708
+      "UsersEstimate": 11709
     },
     {
       "ID": "achievement_grand_coalition",
@@ -25398,7 +25409,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7805
+      "UsersEstimate": 7806
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -26324,9 +26335,9 @@
       "ID": "achievement_royal_authority",
       "SetID": "8p2n7he",
       "Name": "Royal Authority",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2732
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -26374,7 +26385,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7805
+      "UsersEstimate": 7806
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -26654,7 +26665,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11708
+      "UsersEstimate": 11709
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -26798,7 +26809,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -27038,7 +27049,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15611
+      "UsersEstimate": 15612
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -27070,7 +27081,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11708
+      "UsersEstimate": 11709
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -27205,21 +27216,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 390268,
+      "Progressed": 390294,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 390268,
+      "Progressed": 390294,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-04T02:13:09.4477561+00:00",
-  "LastChanged_Achievements": "2023-09-04T04:06:48.8906132+00:00",
+  "LastChanged": "2023-09-04T04:57:44.5006284+00:00",
+  "LastChanged_Achievements": "2023-09-04T05:07:00.2841323+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:16.2286567+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:57:28.5407425+00:00",
-  "LastUpdate_Achievements": "2023-09-04T04:06:48.8920191+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:57:44.5006291+00:00",
+  "LastUpdate_Achievements": "2023-09-04T05:07:00.2853557+00:00"
 }

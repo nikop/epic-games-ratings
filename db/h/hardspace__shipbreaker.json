@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 885,
+  "EOS_Progressed": 886,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1599,6 +1599,11 @@
       "Time": "2023-09-01T12:05:33.9052834+00:00",
       "NumProgressed": 885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T05:06:27.3647386+00:00",
+      "NumProgressed": 886,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1658,7 +1663,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -1688,9 +1693,9 @@
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1754,7 +1759,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -1770,7 +1775,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -1825,7 +1830,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 885,
+      "Progressed": 886,
       "Completed": 0
     }
   ],
@@ -1833,8 +1838,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-09-04T04:06:17.1637986+00:00",
+  "LastChanged_Achievements": "2023-09-04T05:06:27.3647381+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:28.3770261+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:57:44.102154+00:00",
-  "LastUpdate_Achievements": "2023-09-04T04:06:17.1638259+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:58:00.74016+00:00",
+  "LastUpdate_Achievements": "2023-09-04T05:06:27.3647655+00:00"
 }

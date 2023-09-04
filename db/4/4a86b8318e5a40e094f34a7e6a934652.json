@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -363,9 +363,9 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CATCH_30_FISH",
@@ -395,9 +395,9 @@
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "HOUSEWARMING",
@@ -498,8 +498,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-04T04:06:52.3730279+00:00",
+  "LastChanged_Achievements": "2023-09-04T05:07:03.4846974+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-04T03:57:16.2452254+00:00",
-  "LastUpdate_Achievements": "2023-09-04T04:06:52.3730464+00:00"
+  "LastUpdate_Ratings": "2023-09-04T04:57:30.810451+00:00",
+  "LastUpdate_Achievements": "2023-09-04T05:07:03.4847159+00:00"
 }

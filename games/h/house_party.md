@@ -6,7 +6,7 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 4.00% | ~245 |
+| A Friend in Need... | 5.00% | ~306 |
 | Smooth Operator: Madison | 4.00% | ~245 |
 | The Brahdyssey | 2.00% | ~123 |
 | Caught in the Act | 2.00% | ~123 |
@@ -36,11 +36,11 @@ Number of Ratings: 177  (23.09.2022)
 | Ashley | 0.40% | ~25 |
 | Benedict Brahrnold | 0.40% | ~25 |
 | Love Conquers All | 0.40% | ~25 |
+| Good Ol' Days | 0.40% | ~25 |
 | The Bride | 0.30% | ~18 |
 | Deck the Balls | 0.30% | ~10 |
 | Rachael | 0.30% | ~18 |
 | The Elder Brahs | 0.30% | ~18 |
-| Good Ol' Days | 0.30% | ~18 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
 | Drunk and Disorderly: Madison | 0.20% | ~12 |
 | Do Not Burn | 0.20% | ~12 |
