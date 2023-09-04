@@ -5,7 +5,7 @@
   "Ranking_Rating": 758,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 198,
+  "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 45,
@@ -958,9 +958,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1163,
+  "EOS_Progressed": 1168,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1158,
+  "EOS_NewPlayers": 1163,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -1538,6 +1538,11 @@
       "Time": "2023-09-04T05:07:07.4226854+00:00",
       "NumProgressed": 1163,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T06:08:21.5317749+00:00",
+      "NumProgressed": 1168,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1598,7 +1603,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "a_19",
@@ -1694,7 +1699,7 @@
       "Name": "King of red wines",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a_31",
@@ -1702,7 +1707,7 @@
       "Name": "King of white wines",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a_32",
@@ -1710,7 +1715,7 @@
       "Name": "Sales Expert",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a_33",
@@ -1718,7 +1723,7 @@
       "Name": "Big deals",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a_34",
@@ -1726,7 +1731,7 @@
       "Name": "Master Winemaker",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a_35",
@@ -1742,7 +1747,7 @@
       "Name": "Unsuitable Terroir",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a_4",
@@ -1766,7 +1771,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "a_7",
@@ -1797,7 +1802,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1163,
+      "Progressed": 1168,
       "Completed": 3
     }
   ],
@@ -1805,8 +1810,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-02T11:57:49.7912394+00:00",
-  "LastChanged_Achievements": "2023-09-04T05:07:07.4226851+00:00",
+  "LastChanged_Achievements": "2023-09-04T06:08:21.5317739+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-04T04:58:08.6571041+00:00",
-  "LastUpdate_Achievements": "2023-09-04T05:07:07.422712+00:00"
+  "LastUpdate_Ratings": "2023-09-04T05:58:22.326203+00:00",
+  "LastUpdate_Achievements": "2023-09-04T06:08:21.53182+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 521,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141136,
+  "EOS_Progressed": 141138,
   "EOS_Completed": 260,
-  "EOS_NewPlayers": 1618,
+  "EOS_NewPlayers": 1616,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -9583,6 +9583,11 @@
       "Time": "2023-09-04T05:05:13.6246045+00:00",
       "NumProgressed": 141136,
       "NumCompleted": 260
+    },
+    {
+      "Time": "2023-09-04T06:05:46.0003057+00:00",
+      "NumProgressed": 141138,
+      "NumCompleted": 260
     }
   ],
   "TotalAchievements": 31,
@@ -9602,7 +9607,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 97384
+      "UsersEstimate": 97385
     },
     {
       "ID": "EAwards_10",
@@ -9618,7 +9623,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 28227
+      "UsersEstimate": 28228
     },
     {
       "ID": "EAwards_12",
@@ -9642,7 +9647,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 55043
+      "UsersEstimate": 55044
     },
     {
       "ID": "EAwards_15",
@@ -9650,7 +9655,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 16936
+      "UsersEstimate": 16937
     },
     {
       "ID": "EAwards_16",
@@ -9690,7 +9695,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 39518
+      "UsersEstimate": 39519
     },
     {
       "ID": "EAwards_20",
@@ -9714,7 +9719,7 @@
       "Name": "Poncho\u0027d Out",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5645
+      "UsersEstimate": 5646
     },
     {
       "ID": "EAwards_23",
@@ -9826,7 +9831,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 52220
+      "UsersEstimate": 52221
     },
     {
       "ID": "EAwards_9",
@@ -9841,7 +9846,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 141136,
+      "Progressed": 141138,
       "Completed": 260
     }
   ],
@@ -9849,8 +9854,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-03T09:57:19.5867677+00:00",
-  "LastChanged_Achievements": "2023-09-04T05:05:13.6246042+00:00",
+  "LastChanged_Achievements": "2023-09-04T06:05:46.0003048+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:07.9324819+00:00",
-  "LastUpdate_Ratings": "2023-09-04T04:57:34.3974731+00:00",
-  "LastUpdate_Achievements": "2023-09-04T05:05:13.6246759+00:00"
+  "LastUpdate_Ratings": "2023-09-04T05:57:40.8518038+00:00",
+  "LastUpdate_Achievements": "2023-09-04T06:05:46.0004462+00:00"
 }

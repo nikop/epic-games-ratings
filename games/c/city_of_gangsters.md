@@ -1,15 +1,15 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.27 (Ranked 823)  
+Rating: 4.27 (Ranked 824)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,101 |
+| Corner Clout | 46.00% | ~157,102 |
 | Copacetic Coordination | 16.00% | ~54,644 |
-| Fronting the Money | 15.00% | ~51,228 |
-| The Dawn of Automation | 14.00% | ~47,813 |
-| Extraordinary Logistics | 14.00% | ~47,813 |
+| Fronting the Money | 15.00% | ~51,229 |
+| The Dawn of Automation | 14.00% | ~47,814 |
+| Extraordinary Logistics | 14.00% | ~47,814 |
 | Dirty Money | 13.00% | ~44,398 |
 | Family First | 13.00% | ~44,398 |
 | Cleaning House | 12.00% | ~40,983 |
@@ -23,12 +23,12 @@ Rating: 4.27 (Ranked 823)
 | Street Fighter | 7.00% | ~23,907 |
 | Friendly Gestures | 7.00% | ~23,907 |
 | People Person | 7.00% | ~23,907 |
-| Liquor Lord | 6.00% | ~20,491 |
-| Safety in Numbers | 6.00% | ~20,491 |
-| Moving Experiences | 6.00% | ~20,491 |
-| Wise Head | 6.00% | ~20,491 |
-| Show ‘em the Sugar | 6.00% | ~20,491 |
-| Killing Them Softly | 6.00% | ~20,491 |
+| Liquor Lord | 6.00% | ~20,492 |
+| Safety in Numbers | 6.00% | ~20,492 |
+| Moving Experiences | 6.00% | ~20,492 |
+| Wise Head | 6.00% | ~20,492 |
+| Show ‘em the Sugar | 6.00% | ~20,492 |
+| Killing Them Softly | 6.00% | ~20,492 |
 | Street Knowledge | 5.00% | ~17,076 |
 | Oh Captain | 5.00% | ~17,076 |
 | Branching Out | 5.00% | ~17,076 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 823)
 | High Pillow | 0.10% | ~342 |
 | Station Master | 0.10% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341,523 (Ranked 42)  
+Progressed: 341,525 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 7 (0.00%) (Ranked 271)
 | 2023-09-01 | 341,059 | 7 |
 | 2023-09-02 | 341,262 | 7 |
 | 2023-09-03 | 341,484 | 7 |
-| 2023-09-04 | 341,523 | 7 |
+| 2023-09-04 | 341,525 | 7 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 463)  
 Sum: 129 (Ranked 405)  

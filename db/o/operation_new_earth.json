@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1218,
+  "EOS_Progressed": 1219,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4306,6 +4306,11 @@
       "Time": "2023-09-04T03:06:37.9498903+00:00",
       "NumProgressed": 1218,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-04T06:06:41.747399+00:00",
+      "NumProgressed": 1219,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4333,7 +4338,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach_defeat_players_100",
@@ -4419,9 +4424,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 256
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4493,7 +4498,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4620,14 +4625,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1218,
+      "Progressed": 1219,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-04T05:06:00.3755148+00:00",
+  "LastChanged_Achievements": "2023-09-04T06:06:41.7473979+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-04T05:00:36.5643426+00:00",
-  "LastUpdate_Achievements": "2023-09-04T05:06:00.3755635+00:00"
+  "LastUpdate_Ratings": "2023-09-04T06:01:35.3388371+00:00",
+  "LastUpdate_Achievements": "2023-09-04T06:06:41.7475202+00:00"
 }

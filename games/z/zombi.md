@@ -1,7 +1,7 @@
 # ZOMBI
 [Store](https://store.epicgames.com/en-US/p/zombi)  
 [View Rawdata](../../db/z/zombi.json)  
-Rating: 4.27 (Ranked 823)  
+Rating: 4.30 (Ranked 797)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -13,3 +13,4 @@ Rating: 4.27 (Ranked 823)
 | 2023-05-27 | 4.33 | 0 | 0 |
 | 2023-06-03 | 4.36 | 0 | 0 |
 | 2023-08-20 | 4.27 | 0 | 0 |
+| 2023-09-04 | 4.30 | 0 | 0 |

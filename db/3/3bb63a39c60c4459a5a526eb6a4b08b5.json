@@ -2542,9 +2542,9 @@
       "ID": "Ownway",
       "SetID": "1e89b4i",
       "Name": "Own Way",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PublicFigure",
@@ -2653,8 +2653,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-04T05:05:47.841292+00:00",
+  "LastChanged_Achievements": "2023-09-04T06:06:26.2106137+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-09-04T04:57:20.25008+00:00",
-  "LastUpdate_Achievements": "2023-09-04T05:05:47.8413384+00:00"
+  "LastUpdate_Ratings": "2023-09-04T05:57:24.0218711+00:00",
+  "LastUpdate_Achievements": "2023-09-04T06:06:26.210696+00:00"
 }

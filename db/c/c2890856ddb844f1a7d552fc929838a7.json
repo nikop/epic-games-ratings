@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1074,9 +1074,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 407
+      "UsersEstimate": 414
     },
     {
       "ID": "AC05",
@@ -1122,9 +1122,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "AC11",
@@ -1146,9 +1146,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 163
     },
     {
       "ID": "AC14",
@@ -1186,9 +1186,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 244
     },
     {
       "ID": "AC19",
@@ -1338,9 +1338,9 @@
       "ID": "AC37",
       "SetID": "l4abp0",
       "Name": "Storm of Death",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 122
     },
     {
       "ID": "AC38",
@@ -1419,8 +1419,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-04T03:01:40.031195+00:00",
-  "LastChanged_Achievements": "2023-09-04T05:06:46.6245398+00:00",
+  "LastChanged_Achievements": "2023-09-04T06:07:36.5200887+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-04T05:00:40.741919+00:00",
-  "LastUpdate_Achievements": "2023-09-04T05:06:46.6245855+00:00"
+  "LastUpdate_Ratings": "2023-09-04T06:01:41.9794724+00:00",
+  "LastUpdate_Achievements": "2023-09-04T06:07:36.5201685+00:00"
 }

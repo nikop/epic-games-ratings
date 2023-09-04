@@ -6,10 +6,10 @@ Rating: 4.58 (Ranked 430)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 29.00% | ~5,176 |
-| Mainframe Hacker | 23.00% | ~4,105 |
-| The Spy who eliminated me | 23.00% | ~4,105 |
+| Mainframe Hacker | 23.00% | ~4,106 |
+| The Spy who eliminated me | 23.00% | ~4,106 |
 | Tomorrow Never Dyes | 22.00% | ~3,927 |
-| Never Say Loser Again | 19.00% | ~3,391 |
+| Never Say Loser Again | 19.00% | ~3,392 |
 | From the Vault with Love | 18.00% | ~3,213 |
 | Tailor-Made | 18.00% | ~3,213 |
 | For your Eyes only | 18.00% | ~3,213 |
@@ -21,16 +21,16 @@ Rating: 4.58 (Ranked 430)
 | Private Collection | 12.00% | ~2,142 |
 | Hostile Takeover | 12.00% | ~2,142 |
 | Smells Like Trouble | 12.00% | ~2,142 |
-| Dr. No Kill | 11.00% | ~1,963 |
-| My Motto, My Creed | 11.00% | ~1,963 |
-| Killer Looks | 11.00% | ~1,963 |
+| Dr. No Kill | 11.00% | ~1,964 |
+| My Motto, My Creed | 11.00% | ~1,964 |
+| Killer Looks | 11.00% | ~1,964 |
 | Keycards Royale | 10.00% | ~1,785 |
 | In It to Win It | 9.00% | ~1,606 |
 | Security Supervisor | 6.00% | ~1,071 |
 | License to Thrill | 5.00% | ~892 |
-| Social of Solace | 3.00% | ~535 |
-| Live and let lie | 3.00% | ~535 |
-| Safe Withdrawal | 3.00% | ~535 |
+| Social of Solace | 3.00% | ~536 |
+| Live and let lie | 3.00% | ~536 |
+| Safe Withdrawal | 3.00% | ~536 |
 | Branch Manager | 2.00% | ~357 |
 | Call Me Maybe | 2.00% | ~357 |
 | PHD in VIP | 2.00% | ~357 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 430)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,849 (Ranked 111)  
+Progressed: 17,850 (Ranked 111)  
 Completed: 1 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-09-01 | 17,811 | 1 |
 | 2023-09-02 | 17,829 | 1 |
 | 2023-09-03 | 17,848 | 1 |
-| 2023-09-04 | 17,849 | 1 |
+| 2023-09-04 | 17,850 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

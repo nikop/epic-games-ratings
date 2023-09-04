@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 823,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 42,
@@ -589,9 +589,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 341523,
+  "EOS_Progressed": 341525,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1341,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15774,6 +15774,11 @@
       "Time": "2023-09-04T05:05:54.5235761+00:00",
       "NumProgressed": 341523,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-04T06:06:34.5997517+00:00",
+      "NumProgressed": 341525,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -15889,7 +15894,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51228
+      "UsersEstimate": 51229
     },
     {
       "ID": "ach015",
@@ -15993,7 +15998,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157101
+      "UsersEstimate": 157102
     },
     {
       "ID": "ach028",
@@ -16193,7 +16198,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20491
+      "UsersEstimate": 20492
     },
     {
       "ID": "ach053",
@@ -16257,7 +16262,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20491
+      "UsersEstimate": 20492
     },
     {
       "ID": "ach061",
@@ -16281,7 +16286,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20491
+      "UsersEstimate": 20492
     },
     {
       "ID": "ach065",
@@ -16297,7 +16302,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47813
+      "UsersEstimate": 47814
     },
     {
       "ID": "ach067",
@@ -16321,7 +16326,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47813
+      "UsersEstimate": 47814
     },
     {
       "ID": "ach070",
@@ -16345,7 +16350,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20491
+      "UsersEstimate": 20492
     },
     {
       "ID": "ach073",
@@ -16353,7 +16358,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20491
+      "UsersEstimate": 20492
     },
     {
       "ID": "ach074",
@@ -16369,7 +16374,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20491
+      "UsersEstimate": 20492
     },
     {
       "ID": "ach076",
@@ -16424,7 +16429,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 341523,
+      "Progressed": 341525,
       "Completed": 7
     }
   ],
@@ -16432,8 +16437,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-03T20:58:20.2422498+00:00",
-  "LastChanged_Achievements": "2023-09-04T05:05:54.5235757+00:00",
+  "LastChanged_Achievements": "2023-09-04T06:06:34.5997512+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:13.1145719+00:00",
-  "LastUpdate_Ratings": "2023-09-04T04:58:11.787875+00:00",
-  "LastUpdate_Achievements": "2023-09-04T05:05:54.5237608+00:00"
+  "LastUpdate_Ratings": "2023-09-04T05:58:27.3103501+00:00",
+  "LastUpdate_Achievements": "2023-09-04T06:06:34.5999438+00:00"
 }

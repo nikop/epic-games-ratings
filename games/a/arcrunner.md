@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 22.00% | ~163 |
-| Challenge Accepted | 17.00% | ~126 |
+| Augmented | 22.00% | ~164 |
+| Challenge Accepted | 18.00% | ~134 |
 | Terminated I | 17.00% | ~126 |
 | Nanonic I | 16.00% | ~119 |
 | Unlocked and Loaded | 16.00% | ~119 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743 (Ranked 217)  
+Progressed: 744 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-26 | 739 | 0 |
 | 2023-08-28 | 741 | 0 |
 | 2023-08-30 | 743 | 0 |
+| 2023-09-04 | 744 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 67899,
+  "EOS_Progressed": 67900,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 724,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15214,6 +15214,11 @@
       "Time": "2023-09-04T05:07:11.6553856+00:00",
       "NumProgressed": 67899,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2023-09-04T06:08:26.5834943+00:00",
+      "NumProgressed": 67900,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 24,
@@ -15241,7 +15246,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 46171
+      "UsersEstimate": 46172
     },
     {
       "ID": "BEST_FRIENDS",
@@ -15305,7 +15310,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 35986
+      "UsersEstimate": 35987
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -15416,7 +15421,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 67899,
+      "Progressed": 67900,
       "Completed": 354
     }
   ],
@@ -15424,8 +15429,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-04T05:07:11.6553853+00:00",
+  "LastChanged_Achievements": "2023-09-04T06:08:26.5834935+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:13.6353756+00:00",
-  "LastUpdate_Ratings": "2023-09-04T04:59:34.8690807+00:00",
-  "LastUpdate_Achievements": "2023-09-04T05:07:11.6554922+00:00"
+  "LastUpdate_Ratings": "2023-09-04T06:00:13.5370561+00:00",
+  "LastUpdate_Achievements": "2023-09-04T06:08:26.5836496+00:00"
 }
