@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -390,9 +390,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2831,
+  "EOS_Progressed": 2832,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.99,
   "EosHistory": [
@@ -3065,6 +3065,11 @@
       "Time": "2023-09-04T15:05:04.6597546+00:00",
       "NumProgressed": 2831,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-04T19:06:04.5209283+00:00",
+      "NumProgressed": 2832,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 14,
@@ -3084,7 +3089,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -3124,7 +3129,7 @@
       "Name": "Family Lost",
       "Percentage": 33,
       "XP": 80,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -3148,7 +3153,7 @@
       "Name": "Mad Scientist",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_REUNION",
@@ -3164,7 +3169,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -3187,7 +3192,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2831,
+      "Progressed": 2832,
       "Completed": 113
     }
   ],
@@ -3195,8 +3200,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-24T16:58:59.1002647+00:00",
-  "LastChanged_Achievements": "2023-09-04T18:05:07.2904604+00:00",
+  "LastChanged_Achievements": "2023-09-04T19:06:04.5209279+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:50.250711+00:00",
-  "LastUpdate_Ratings": "2023-09-04T18:00:16.9375946+00:00",
-  "LastUpdate_Achievements": "2023-09-04T18:05:07.2904866+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:02:03.6557363+00:00",
+  "LastUpdate_Achievements": "2023-09-04T19:06:04.5210018+00:00"
 }

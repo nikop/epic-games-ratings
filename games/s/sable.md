@@ -6,39 +6,39 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~29,748 |
-| Just The Two of Us | 32.00% | ~27,998 |
-| Up On High | 25.00% | ~21,874 |
-| Under The Hood | 25.00% | ~21,874 |
-| Got Your Nose | 24.00% | ~20,999 |
-| The Gift of Gab | 24.00% | ~20,999 |
-| Wrapping Up | 22.00% | ~19,249 |
-| More Than A Box Of Sand | 18.00% | ~15,749 |
-| The Dunboyne | 17.00% | ~14,874 |
-| Badge Hobbyist | 17.00% | ~14,874 |
-| Chum Novice | 16.00% | ~13,999 |
-| Silver-Tongued Sable | 16.00% | ~13,999 |
-| Sticky Paws | 16.00% | ~13,999 |
-| Bubble Up | 16.00% | ~13,999 |
-| Thread The Needle | 15.00% | ~13,124 |
-| Power to the People | 14.00% | ~12,249 |
-| Take That! | 13.00% | ~11,374 |
-| Nesting Giant | 13.00% | ~11,374 |
-| Treasure Tracker | 13.00% | ~11,374 |
-| Big Spender | 13.00% | ~11,374 |
-| Badge Collector | 12.00% | ~10,499 |
-| Quite The Catch | 12.00% | ~10,499 |
-| Rowleys Way | 11.00% | ~9,624 |
-| The Machinist Mask | 10.00% | ~8,749 |
-| The Cartographer Mask | 10.00% | ~8,749 |
-| Balfron Connection | 10.00% | ~8,749 |
-| Ceiling Of Stars | 10.00% | ~8,749 |
-| Playing Dress Up | 10.00% | ~8,749 |
-| Many Different Faces | 9.00% | ~7,874 |
-| Trellick's Pillar | 9.00% | ~7,874 |
-| Centre Of Brunswick | 9.00% | ~7,874 |
-| Bike Collector | 9.00% | ~7,874 |
-| Not That Kind Of Gliding | 9.00% | ~7,874 |
+| Simoon | 34.00% | ~29,750 |
+| Just The Two of Us | 32.00% | ~28,000 |
+| Up On High | 25.00% | ~21,875 |
+| Under The Hood | 25.00% | ~21,875 |
+| Got Your Nose | 24.00% | ~21,000 |
+| The Gift of Gab | 24.00% | ~21,000 |
+| Wrapping Up | 22.00% | ~19,250 |
+| More Than A Box Of Sand | 18.00% | ~15,750 |
+| The Dunboyne | 17.00% | ~14,875 |
+| Badge Hobbyist | 17.00% | ~14,875 |
+| Chum Novice | 16.00% | ~14,000 |
+| Silver-Tongued Sable | 16.00% | ~14,000 |
+| Sticky Paws | 16.00% | ~14,000 |
+| Bubble Up | 16.00% | ~14,000 |
+| Thread The Needle | 15.00% | ~13,125 |
+| Power to the People | 14.00% | ~12,250 |
+| Take That! | 13.00% | ~11,375 |
+| Nesting Giant | 13.00% | ~11,375 |
+| Treasure Tracker | 13.00% | ~11,375 |
+| Big Spender | 13.00% | ~11,375 |
+| Badge Collector | 12.00% | ~10,500 |
+| Quite The Catch | 12.00% | ~10,500 |
+| Rowleys Way | 11.00% | ~9,625 |
+| The Machinist Mask | 10.00% | ~8,750 |
+| The Cartographer Mask | 10.00% | ~8,750 |
+| Balfron Connection | 10.00% | ~8,750 |
+| Ceiling Of Stars | 10.00% | ~8,750 |
+| Playing Dress Up | 10.00% | ~8,750 |
+| Many Different Faces | 9.00% | ~7,875 |
+| Trellick's Pillar | 9.00% | ~7,875 |
+| Centre Of Brunswick | 9.00% | ~7,875 |
+| Bike Collector | 9.00% | ~7,875 |
+| Not That Kind Of Gliding | 9.00% | ~7,875 |
 | The Scrapper Mask | 8.00% | ~7,000 |
 | Shadow Of Neave | 8.00% | ~7,000 |
 | Fragile Goods | 8.00% | ~7,000 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,625 |
 | Vivacious Vivarium | 2.00% | ~1,750 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,494 (Ranked 74)  
+Progressed: 87,501 (Ranked 74)  
 Completed: 871 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,14 +200,14 @@ Completed: 871 (1.00%) (Ranked 122)
 | 2023-09-01 | 86,907 | 865 |
 | 2023-09-02 | 87,116 | 866 |
 | 2023-09-03 | 87,350 | 868 |
-| 2023-09-04 | 87,494 | 871 |
+| 2023-09-04 | 87,501 | 871 |
 ## Awards
-Max (Quickly Understood Controls): 22  (Ranked 496)  
-Sum: 42 (Ranked 459)  
-Diff (max vs sum): 37  
+Max (Quickly Understood Controls): 23  (Ranked 492)  
+Sum: 43 (Ranked 459)  
+Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 22 |
+| This game has Quickly Understood Controls | 23 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -285,4 +285,4 @@ Diff (max vs sum): 37
 | 2023-08-17 | 4.52 | - | 22 | 22 |
 | 2023-08-19 | 4.53 | - | 22 | 22 |
 | 2023-08-20 | 4.52 | - | 22 | 22 |
-| 2023-09-04 | 4.52 | - | 22 | 42 |
+| 2023-09-04 | 4.52 | - | 23 | 43 |

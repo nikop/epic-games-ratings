@@ -12,8 +12,8 @@ Number of Ratings: 38  (23.09.2022)
 | Hug therapy | 44.00% | ~624 |
 | Over my dead body | 40.00% | ~568 |
 | Shake the rust off their feet | 21.00% | ~298 |
+| My little pony | 20.00% | ~284 |
 | Strike! | 19.00% | ~270 |
-| My little pony | 19.00% | ~270 |
 | A love supreme | 18.00% | ~255 |
 | In my shoes | 17.00% | ~241 |
 | Like new! | 15.00% | ~213 |

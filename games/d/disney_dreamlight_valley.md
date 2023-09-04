@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 71.00% | ~6,604 |
-| Photographer | 69.00% | ~6,418 |
-| Valley's Helper | 63.00% | ~5,860 |
-| Constructor | 52.00% | ~4,837 |
-| Renovator | 52.00% | ~4,837 |
-| Bestest Friend | 48.00% | ~4,464 |
-| Banker | 39.00% | ~3,627 |
-| Gardener | 31.00% | ~2,883 |
-| Generous | 23.00% | ~2,139 |
-| Chef Cook | 17.00% | ~1,581 |
+| Goofy's Investor | 71.00% | ~6,607 |
+| Photographer | 69.00% | ~6,421 |
+| Valley's Helper | 63.00% | ~5,863 |
+| Constructor | 52.00% | ~4,839 |
+| Renovator | 52.00% | ~4,839 |
+| Bestest Friend | 48.00% | ~4,467 |
+| Banker | 39.00% | ~3,629 |
+| Gardener | 31.00% | ~2,885 |
+| Generous | 23.00% | ~2,140 |
+| Chef Cook | 17.00% | ~1,582 |
 | Miner | 8.00% | ~744 |
 | Duty Bound | 6.00% | ~558 |
 | Angler | 5.00% | ~465 |
 | Thorn Cleaner | 4.00% | ~372 |
 | Chit Chatter | 3.00% | ~279 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,301 (Ranked 130)  
+Progressed: 9,306 (Ranked 130)  
 Completed: 211 (2.27%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,15 +110,15 @@ Completed: 211 (2.27%) (Ranked 88)
 | 2023-09-01 | 9,212 | 208 |
 | 2023-09-02 | 9,246 | 210 |
 | 2023-09-03 | 9,281 | 211 |
-| 2023-09-04 | 9,301 | 211 |
+| 2023-09-04 | 9,306 | 211 |
 ## Awards
 Max (Great for Beginners): 941  (Ranked 148)  
-Sum: 7,480 (Ranked 106)  
+Sum: 7,482 (Ranked 106)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 941 |
-| This game has Diverse Characters | 814 |
+| This game has Diverse Characters | 816 |
 | This game is Relaxing | 795 |
 | This game is Highly Recommended | 793 |
 | This game has Amazing Characters | 791 |
@@ -306,4 +306,4 @@ Diff (max vs sum): 42
 | 2023-09-01 | 4.76 | - | 939 | 7,469 |
 | 2023-09-02 | 4.76 | - | 939 | 7,474 |
 | 2023-09-03 | 4.76 | - | 941 | 7,477 |
-| 2023-09-04 | 4.76 | - | 941 | 7,480 |
+| 2023-09-04 | 4.76 | - | 941 | 7,482 |

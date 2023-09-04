@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3294,9 +3294,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72656,
+  "EOS_Progressed": 72658,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17389,6 +17389,11 @@
       "Time": "2023-09-04T17:04:14.3008762+00:00",
       "NumProgressed": 72656,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-04T19:03:40.956145+00:00",
+      "NumProgressed": 72658,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17400,7 +17405,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36328
+      "UsersEstimate": 36329
     },
     {
       "ID": "ACH_0011",
@@ -17408,7 +17413,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 21070
+      "UsersEstimate": 21071
     },
     {
       "ID": "ACH_0012",
@@ -17424,7 +17429,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9445
+      "UsersEstimate": 9446
     },
     {
       "ID": "ACH_0014",
@@ -17480,7 +17485,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5813
     },
     {
       "ID": "ACH_0050",
@@ -17544,7 +17549,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47226
+      "UsersEstimate": 47228
     },
     {
       "ID": "ACH_0210",
@@ -17552,7 +17557,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53765
+      "UsersEstimate": 53767
     },
     {
       "ID": "ACH_0211",
@@ -17568,7 +17573,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34875
+      "UsersEstimate": 34876
     },
     {
       "ID": "ACH_0300",
@@ -17624,7 +17629,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24703
+      "UsersEstimate": 24704
     },
     {
       "ID": "ACH_0430",
@@ -17632,7 +17637,7 @@
       "Name": "Fancy Pants",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26156
+      "UsersEstimate": 26157
     },
     {
       "ID": "ACH_0431",
@@ -17656,7 +17661,7 @@
       "Name": "Off the Rocks",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 14531
+      "UsersEstimate": 14532
     },
     {
       "ID": "ACH_0451",
@@ -17695,22 +17700,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72656,
+      "Progressed": 72658,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 1003,
-      "Completed": 1003
+      "Progressed": 1005,
+      "Completed": 1005
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-04T16:01:23.9644464+00:00",
-  "LastChanged_Achievements": "2023-09-04T18:03:35.5346282+00:00",
+  "LastChanged_Achievements": "2023-09-04T19:03:40.9561447+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-04T18:00:03.7581291+00:00",
-  "LastUpdate_Achievements": "2023-09-04T18:03:35.5347321+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:01:42.732341+00:00",
+  "LastUpdate_Achievements": "2023-09-04T19:03:40.9562966+00:00"
 }

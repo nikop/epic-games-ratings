@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -252,6 +252,11 @@
       "Time": "2023-09-01T17:05:13.6584202+00:00",
       "NumProgressed": 200,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-04T19:06:10.7405043+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -269,9 +274,9 @@
       "ID": "book_em_danny",
       "SetID": "2db2j74",
       "Name": "Book \u0027em Danny",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "bullseye",
@@ -285,9 +290,9 @@
       "ID": "chameleon",
       "SetID": "2db2j74",
       "Name": "Chameleon",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "chicken",
@@ -317,9 +322,9 @@
       "ID": "highlander",
       "SetID": "2db2j74",
       "Name": "Highlander",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -349,9 +354,9 @@
       "ID": "play_it_again_sam",
       "SetID": "2db2j74",
       "Name": "Play It Again Sam",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 181
     },
     {
       "ID": "play_me_by_the_hour",
@@ -359,39 +364,39 @@
       "Name": "Play Me By The Hour",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "poetent",
       "SetID": "2db2j74",
       "Name": "Poetent",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "put_a_ring_on_it",
       "SetID": "2db2j74",
       "Name": "Put A Ring On It",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "show_me_some_skin",
       "SetID": "2db2j74",
       "Name": "Show Me Some Skin",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 181
     },
     {
       "ID": "the_big_sleep",
@@ -430,7 +435,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 2
     }
   ],
@@ -438,8 +443,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-09-04T18:05:11.5552422+00:00",
+  "LastChanged_Achievements": "2023-09-04T19:06:10.7405039+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:20.869975+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:58:48.6464086+00:00",
-  "LastUpdate_Achievements": "2023-09-04T18:05:11.5552585+00:00"
+  "LastUpdate_Ratings": "2023-09-04T18:59:58.4551586+00:00",
+  "LastUpdate_Achievements": "2023-09-04T19:06:10.7405289+00:00"
 }

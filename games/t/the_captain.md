@@ -5,8 +5,8 @@ Rating: 4.44 (Ranked 651)
 Number of Ratings: 2,117  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 97  (Ranked 341)  
-Sum: 662 (Ranked 288)  
-Diff (max vs sum): 53  
+Sum: 663 (Ranked 287)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 97 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 53
 | This game is Great for Beginners | 70 |
 | This game has Quickly Understood Controls | 70 |
 | This game has Obsessive Gameplay | 62 |
-| This game is Relaxing | 61 |
+| This game is Relaxing | 62 |
 | This game has Playful Visuals | 52 |
 | This game has a Creative Community | 42 |
 ## Ratings History
@@ -38,3 +38,4 @@ Diff (max vs sum): 53
 | 2022-10-05 | 4.43 | - | - | - |
 | 2022-10-06 | 4.44 | - | - | - |
 | 2023-09-02 | 4.44 | - | 97 | 662 |
+| 2023-09-04 | 4.44 | - | 97 | 663 |

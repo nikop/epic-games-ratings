@@ -4,8 +4,8 @@
   "ProductSlug": "synced",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": null,
@@ -72,9 +72,9 @@
       "ID": "1",
       "SetID": "2cfdi92",
       "Name": "Your Lucky Day",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "10",
@@ -206,8 +206,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged_Achievements": "2023-09-04T18:06:37.086884+00:00",
+  "LastChanged_Achievements": "2023-09-04T19:08:18.2983043+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:07.4356043+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:57:58.8735977+00:00",
-  "LastUpdate_Achievements": "2023-09-04T18:06:37.0868968+00:00"
+  "LastUpdate_Ratings": "2023-09-04T18:58:36.8275231+00:00",
+  "LastUpdate_Achievements": "2023-09-04T19:08:18.2983165+00:00"
 }

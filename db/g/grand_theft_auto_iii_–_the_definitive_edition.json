@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -448,9 +448,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7649,
+  "EOS_Progressed": 7650,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -7923,6 +7923,11 @@
       "Time": "2023-09-04T17:04:54.2042468+00:00",
       "NumProgressed": 7649,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-04T19:04:30.8742508+00:00",
+      "NumProgressed": 7650,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -7934,7 +7939,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "ACH02",
@@ -7966,7 +7971,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH06",
@@ -8078,7 +8083,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH20",
@@ -8165,7 +8170,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7649,
+      "Progressed": 7650,
       "Completed": 50
     }
   ],
@@ -8173,8 +8178,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-01T05:57:08.955736+00:00",
-  "LastChanged_Achievements": "2023-09-04T18:04:03.7036634+00:00",
+  "LastChanged_Achievements": "2023-09-04T19:04:30.8742503+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:17.0167679+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:58:05.607445+00:00",
-  "LastUpdate_Achievements": "2023-09-04T18:04:03.7037233+00:00"
+  "LastUpdate_Ratings": "2023-09-04T18:58:50.3731306+00:00",
+  "LastUpdate_Achievements": "2023-09-04T19:04:30.8743116+00:00"
 }

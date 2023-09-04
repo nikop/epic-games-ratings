@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -639,9 +639,9 @@
       "ID": "locCompDungeon10",
       "SetID": "ci65fo0",
       "Name": "The threat of the Dungeons",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "locCompRandomLabyrinth",
@@ -980,8 +980,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-04T18:05:58.8542293+00:00",
+  "LastChanged_Achievements": "2023-09-04T19:07:21.0803114+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.5858382+00:00",
-  "LastUpdate_Ratings": "2023-09-04T18:02:13.9964559+00:00",
-  "LastUpdate_Achievements": "2023-09-04T18:05:58.8543025+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:02:43.916253+00:00",
+  "LastUpdate_Achievements": "2023-09-04T19:07:21.0804229+00:00"
 }

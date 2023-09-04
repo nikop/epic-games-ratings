@@ -2,10 +2,10 @@
   "ID": "c4061518e37f40119b54ce93456a8ecb",
   "Name": "Return to Grace",
   "ProductSlug": "return-to-grace-92a75a",
-  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
     "PcReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -143,9 +143,9 @@
       "ID": "ACH_Bathroom",
       "SetID": "aao9n96",
       "Name": "He doesn\u0027t know how to use the three seashells",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_Beacon",
@@ -215,25 +215,25 @@
       "ID": "ACH_Everett",
       "SetID": "aao9n96",
       "Name": "I KNOW HIM!",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FirstWish",
       "SetID": "aao9n96",
       "Name": "As you wish",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FlawlessSecurity",
       "SetID": "aao9n96",
       "Name": "Clever Girl",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_GraceEnding",
@@ -319,17 +319,17 @@
       "ID": "ACH_Shortcut",
       "SetID": "aao9n96",
       "Name": "Get busy living or get busy dying",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_Siege",
       "SetID": "aao9n96",
       "Name": "Let them come",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_Spire",
@@ -382,8 +382,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2023-09-04T18:08:20.7338406+00:00",
+  "LastChanged_Achievements": "2023-09-04T19:09:07.8651648+00:00",
   "LastUpdate_AppInfo": "2023-08-29T23:57:18.5287059+00:00",
-  "LastUpdate_Ratings": "2023-09-04T17:57:27.2909943+00:00",
-  "LastUpdate_Achievements": "2023-09-04T18:08:20.7338663+00:00"
+  "LastUpdate_Ratings": "2023-09-04T18:57:49.519188+00:00",
+  "LastUpdate_Achievements": "2023-09-04T19:09:07.8652089+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 13.00% | ~1 |
+| Your Lucky Day | 25.00% | ~2 |
 | fifteenth Time's the Charm | 13.00% | ~1 |
 | Pulling Your Weight | 13.00% | ~1 |
 | Nano Connoisseur | 13.00% | ~1 |

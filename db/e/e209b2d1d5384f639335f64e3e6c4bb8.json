@@ -2,13 +2,13 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_Rating": 681,
+  "Ranking_Rating": 682,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -132,9 +132,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266648,
+  "EOS_Progressed": 266823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72674,
+  "EOS_NewPlayers": 71525,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1537,6 +1537,11 @@
       "Time": "2023-09-04T18:04:28.683504+00:00",
       "NumProgressed": 266648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-04T19:05:08.3175437+00:00",
+      "NumProgressed": 266823,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -1573,7 +1578,7 @@
       "Name": "Epsilon Base",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 114659
+      "UsersEstimate": 114734
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -1581,7 +1586,7 @@
       "Name": "The Boneyard",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 82661
+      "UsersEstimate": 82715
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -1589,7 +1594,7 @@
       "Name": "Cape Wrath",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 53330
+      "UsersEstimate": 53365
     },
     {
       "ID": "ACHV_M04_COMPLETE",
@@ -1597,7 +1602,7 @@
       "Name": "Kalash Site",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 37331
+      "UsersEstimate": 37355
     },
     {
       "ID": "ACHV_M05_COMPLETE",
@@ -1605,7 +1610,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 29331
+      "UsersEstimate": 29351
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -1613,7 +1618,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 23998
+      "UsersEstimate": 24014
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -1621,7 +1626,7 @@
       "Name": "Gaalsien Base",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 21332
+      "UsersEstimate": 21346
     },
     {
       "ID": "ACHV_M08_COMPLETE",
@@ -1629,7 +1634,7 @@
       "Name": "Tombs of the Ancients",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 18665
+      "UsersEstimate": 18678
     },
     {
       "ID": "ACHV_M09_COMPLETE",
@@ -1637,7 +1642,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 15999
+      "UsersEstimate": 16009
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -1645,7 +1650,7 @@
       "Name": "Khashar Approach",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 15999
+      "UsersEstimate": 16009
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -1653,7 +1658,7 @@
       "Name": "Khashar Plateau",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 13332
+      "UsersEstimate": 13341
     },
     {
       "ID": "ACHV_M12_COMPLETE",
@@ -1661,7 +1666,7 @@
       "Name": "Torin Crater",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 13332
+      "UsersEstimate": 13341
     },
     {
       "ID": "ACHV_M13_COMPLETE",
@@ -1669,7 +1674,7 @@
       "Name": "Khar-Toba Site",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10666
+      "UsersEstimate": 10673
     },
     {
       "ID": "ACHV_MP_1V1_TIER_LV_1",
@@ -1707,9 +1712,9 @@
       "ID": "ACHV_MP_ANNIHILATION_GAALSI_10",
       "SetID": "2l5j4fd",
       "Name": "Multiplayer: Annihilation Gaalsien",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHV_MP_ANNIHILATION_KHAANEPH_10",
@@ -1925,20 +1930,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 135990
+      "UsersEstimate": 136080
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 266648,
+      "Progressed": 266823,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 266637,
+      "Progressed": 266812,
       "Completed": 0
     }
   ],
@@ -1946,8 +1951,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-09-04T11:00:29.8932911+00:00",
-  "LastChanged_Achievements": "2023-09-04T18:04:28.6835035+00:00",
+  "LastChanged_Achievements": "2023-09-04T19:05:08.3175432+00:00",
   "LastUpdate_AppInfo": "2023-08-31T16:57:03.4899728+00:00",
-  "LastUpdate_Ratings": "2023-09-04T18:00:32.9065129+00:00",
-  "LastUpdate_Achievements": "2023-09-04T18:04:28.6835546+00:00"
+  "LastUpdate_Ratings": "2023-09-04T19:02:29.7020743+00:00",
+  "LastUpdate_Achievements": "2023-09-04T19:05:08.3176012+00:00"
 }

@@ -30,8 +30,8 @@ Rating: 4.60 (Ranked 393)
 | Check Your Pulse | 16.00% | ~137 |
 | The Family Fortune | 16.00% | ~137 |
 | Street Style | 15.00% | ~128 |
+| Cartographer | 15.00% | ~128 |
 | Treasure Trove | 14.00% | ~120 |
-| Cartographer | 14.00% | ~120 |
 | Whiz Kid | 13.00% | ~111 |
 | Chaincrawler Explorer | 11.00% | ~94 |
 | Family Memories | 11.00% | ~94 |
