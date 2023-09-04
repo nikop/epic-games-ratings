@@ -24,7 +24,7 @@
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 172,573 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,316 | 33 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 496 |
-| 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 280 | 244 |
+| 25 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 281 | 243 |
 | 25 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,436 | 125 |
 | 25 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 721 | 166 |
 | 25 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 517 |
@@ -94,7 +94,7 @@
 | 90 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 160 | 294 |
 | 90 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 517 |
 | 90 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 517 |
-| 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 882 | 151 |
+| 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 886 | 151 |
 | 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,988 | 56 |
 | 90 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 53 | 396 |
 | 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 386 | 219 |
@@ -250,7 +250,7 @@
 | 241 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,909 | 58 |
 | 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,845 | 81 |
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,789 | 3 |
-| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 220,395 | 4 |
+| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 220,924 | 4 |
 | 241 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 517 |
 | 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 562 | 190 |
 | 241 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 684 | 170 |
@@ -434,7 +434,7 @@
 | 430 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 164 | 291 |
 | 430 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 517 |
 | 430 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 517 |
-| 430 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,979 | 39 |
+| 430 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 8,989 | 39 |
 | 430 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 259 | 251 |
 | 430 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 517 |
 | 430 | [GRIT](games/g/grit.md) | 4.58 | 0 | 517 |

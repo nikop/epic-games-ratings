@@ -10,8 +10,8 @@
 | 8 | [Volley Pals](games/v/volley_pals.md) | 25.93% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.37% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
-| 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.84% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.50% |
+| 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.86% |
@@ -40,7 +40,7 @@
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
 | 40 | [Scorn](games/s/scorn.md) | 7.03% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.95% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.94% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.72% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.25% |
@@ -51,15 +51,15 @@
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.34% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
-| 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.08% |
-| 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
+| 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
+| 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.78% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.35% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.15% |
-| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.07% |
+| 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.06% |
 | 61 | [ZZT!](games/z/zzt!.md) | 4.02% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -85,8 +85,8 @@
 | 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.54% |
 | 84 | [Lamentum](games/l/lamentum.md) | 2.53% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
-| 85 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.44% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.29% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
@@ -185,9 +185,9 @@
 | 182 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 182 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 182 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
-| 186 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.26% |
-| 187 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
-| 187 | [Filament](games/f/filament.md) | 0.25% |
+| 186 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
+| 186 | [Filament](games/f/filament.md) | 0.25% |
+| 186 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.25% |
 | 189 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.24% |
 | 189 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 191 | [Blanc](games/b/blanc.md) | 0.23% |

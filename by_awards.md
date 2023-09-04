@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,649,178 | 4.29 | 805 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 520,660 | 4.49 | 581 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 304,789 | 4.68 | 241 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 220,395 | 4.68 | 241 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 220,924 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 198,009 | 4.19 | 873 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 172,573 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 147,485 | 4.52 | 533 |
@@ -38,7 +38,7 @@
 | 36 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 10,243 | 4.74 | 146 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,948 | 4.61 | 369 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,908 | 4.78 | 101 |
-| 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,979 | 4.58 | 430 |
+| 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,989 | 4.58 | 430 |
 | 40 | [Control](games/c/control.md) | 8,476 | 4.60 | 394 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,086 | 4.89 | 13 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,904 | 4.48 | 602 |
@@ -150,7 +150,7 @@
 | 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 941 | 4.76 | 117 |
 | 149 | [Sonic Mania](games/s/sonic_mania.md) | 935 | 4.78 | 101 |
 | 150 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 928 | 4.55 | 491 |
-| 151 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 882 | 4.79 | 90 |
+| 151 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 886 | 4.79 | 90 |
 | 152 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 870 | 4.45 | 641 |
 | 153 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 837 | 4.56 | 474 |
 | 154 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 819 | 4.69 | 218 |
@@ -242,8 +242,8 @@
 | 240 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 287 | 4.46 | 628 |
 | 241 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 282 | 4.62 | 354 |
 | 241 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 282 | 4.43 | 666 |
+| 243 | [Dead Cells](games/d/dead_cells.md) | 281 | 4.87 | 25 |
 | 243 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 281 | 4.61 | 369 |
-| 244 | [Dead Cells](games/d/dead_cells.md) | 280 | 4.87 | 25 |
 | 245 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 276 | 4.56 | 474 |
 | 246 | [Diabotical](games/d/diabotical.md) | 275 | 4.75 | 135 |
 | 247 | [Severed Steel](games/s/severed_steel.md) | 274 | 4.69 | 218 |
