@@ -155,25 +155,25 @@
 | 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,018 | 50 |
 | 146 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 517 |
 | 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 37,018 | 13 |
+| 146 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 517 |
 | 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 517 |
 | 146 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 798 | 158 |
 | 146 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 517 |
 | 146 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 80 | 361 |
 | 146 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 650 | 175 |
 | 146 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 517 |
-| 162 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 414 | 213 |
-| 162 | [Cave Story+](games/c/cave_story+.md) | 4.73 | 89 | 353 |
-| 162 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 517 |
-| 162 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.73 | 122 | 318 |
-| 162 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 601 | 182 |
-| 162 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.73 | 0 | 517 |
-| 162 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 234 | 261 |
-| 162 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 517 |
-| 162 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.73 | 0 | 517 |
-| 162 | [Tchia](games/t/tchia.md) | 4.73 | 0 | 517 |
-| 162 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 517 |
-| 162 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 517 |
-| 162 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 517 |
+| 163 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 414 | 213 |
+| 163 | [Cave Story+](games/c/cave_story+.md) | 4.73 | 89 | 353 |
+| 163 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 517 |
+| 163 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.73 | 122 | 318 |
+| 163 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.73 | 601 | 182 |
+| 163 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.73 | 0 | 517 |
+| 163 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.73 | 234 | 261 |
+| 163 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 517 |
+| 163 | [Tchia](games/t/tchia.md) | 4.73 | 0 | 517 |
+| 163 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 517 |
+| 163 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 517 |
+| 163 | [This Is The Police](games/t/this_is_the_police.md) | 4.73 | 0 | 517 |
 | 175 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.72 | 91 | 349 |
 | 175 | [Fez](games/f/fez.md) | 4.72 | 23 | 492 |
 | 175 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 487 | 202 |
@@ -401,7 +401,7 @@
 | 394 | [Control](games/c/control.md) | 4.60 | 8,476 | 40 |
 | 394 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 517 |
 | 394 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 267 |
-| 394 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,643 | 26 |
+| 394 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,649 | 25 |
 | 394 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 27 | 472 |
 | 394 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 318 |
 | 394 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 517 |
@@ -594,7 +594,7 @@
 | 581 | [Maneater](games/m/maneater.md) | 4.49 | 13,649 | 25 |
 | 581 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 517 |
 | 581 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 455 |
-| 581 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 519,266 | 2 |
+| 581 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 520,660 | 2 |
 | 581 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 359 |
 | 581 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 517 |
 | 581 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,471 | 101 |
@@ -685,7 +685,7 @@
 | 682 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 36 | 434 |
 | 682 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 517 |
 | 682 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 517 |
-| 682 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,196 | 135 |
+| 682 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,198 | 135 |
 | 682 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 517 |
 | 682 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 52 |
 | 682 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 384 |
@@ -846,7 +846,7 @@
 | 843 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 460 |
 | 843 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 517 |
 | 843 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 517 |
-| 843 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 585 | 184 |
+| 843 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 589 | 184 |
 | 843 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 517 |
 | 843 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 412 |
 | 843 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 517 |
@@ -855,10 +855,10 @@
 | 843 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 487 |
 | 854 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
 | 854 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 517 |
-| 856 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 179 | 284 |
-| 856 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 517 |
-| 856 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 207 | 271 |
-| 856 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 78 | 366 |
+| 854 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 207 | 271 |
+| 857 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 179 | 284 |
+| 857 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 517 |
+| 857 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.22 | 78 | 366 |
 | 860 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 123 | 316 |
 | 860 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 517 |
 | 860 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 455 |
