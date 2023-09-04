@@ -26,9 +26,9 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
+| A Gift Spurned | 0.80% | ~25 |
 | Efficient Killer | 0.70% | ~22 |
 | Only in Death | 0.70% | ~22 |
-| A Gift Spurned | 0.70% | ~22 |
 | Tactical Sabotage | 0.70% | ~22 |
 | Fleetmaster | 0.60% | ~19 |
 | Daemonkeeper | 0.60% | ~19 |

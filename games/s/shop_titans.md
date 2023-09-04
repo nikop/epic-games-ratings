@@ -60,6 +60,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.40% | ~543 |
 | Royal Ransom | 0.40% | ~543 |
 | Mammonite | 0.40% | ~543 |
+| Fat Cat Tag Team | 0.40% | ~543 |
 | Miracle Alchemist | 0.40% | ~543 |
 | Laden with Loot | 0.40% | ~543 |
 | Seasoned Journeyman | 0.40% | ~543 |
@@ -85,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.30% | ~407 |
 | A Legend is Born | 0.30% | ~407 |
 | Wealth Beyond Measure | 0.30% | ~407 |
-| Fat Cat Tag Team | 0.30% | ~407 |
 | Necromancer Queen | 0.30% | ~407 |
 | Item of Renown | 0.30% | ~407 |
 | Master Merchant | 0.30% | ~407 |
@@ -259,8 +259,8 @@ Completed: 142 (0.10%) (Ranked 218)
 | 2023-09-04 | 135,661 | 142 |
 ## Awards
 Max (Great for Beginners): 4,721  (Ranked 70)  
-Sum: 27,173 (Ranked 47)  
-Diff (max vs sum): 23  
+Sum: 27,173 (Ranked 48)  
+Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,721 |

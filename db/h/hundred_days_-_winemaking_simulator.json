@@ -964,9 +964,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1303,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1298,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1629,6 +1629,11 @@
       "Time": "2023-09-04T22:06:33.6340211+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-04T23:08:13.236562+00:00",
+      "NumProgressed": 1303,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1641,7 +1646,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "a_10",
@@ -1687,9 +1692,9 @@
       "ID": "a_18",
       "SetID": "daiie3o",
       "Name": "Bye Bye",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 430
     },
     {
       "ID": "a_19",
@@ -1703,9 +1708,9 @@
       "ID": "a_2",
       "SetID": "daiie3o",
       "Name": "Ostinata",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     },
     {
       "ID": "a_20",
@@ -1767,9 +1772,9 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "a_3",
@@ -1847,9 +1852,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "a_6",
@@ -1865,7 +1870,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "a_8",
@@ -1888,7 +1893,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1303,
       "Completed": 3
     }
   ],
@@ -1896,8 +1901,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-04T22:06:33.6340206+00:00",
+  "LastChanged_Achievements": "2023-09-04T23:08:13.2365614+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-04T21:57:53.9405066+00:00",
-  "LastUpdate_Achievements": "2023-09-04T22:06:33.6340482+00:00"
+  "LastUpdate_Ratings": "2023-09-04T22:58:23.3514375+00:00",
+  "LastUpdate_Achievements": "2023-09-04T23:08:13.2365889+00:00"
 }

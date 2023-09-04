@@ -21,7 +21,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 60.00% | ~70,128 |
 | Serenity Now! | 53.00% | ~61,946 |
 | Hope Rekindled | 50.00% | ~58,440 |
-| Ramble On | 48.00% | ~56,102 |
+| Ramble On | 49.00% | ~57,271 |
 | Nope | 48.00% | ~56,102 |
 | This Looks Familiar | 38.00% | ~44,414 |
 | Now Stay Dead | 37.00% | ~43,246 |

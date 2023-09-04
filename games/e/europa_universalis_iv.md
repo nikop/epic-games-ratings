@@ -6,18 +6,18 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,658 |
-| That's a Grand Army | 3.00% | ~11,744 |
-| That is mine! | 3.00% | ~11,744 |
-| Victorious! | 3.00% | ~11,744 |
-| Brothers in Arms | 2.00% | ~7,829 |
-| That's a Grand Navy | 2.00% | ~7,829 |
-| Seriously?! | 2.00% | ~7,829 |
-| Cold War | 1.00% | ~3,914 |
-| Defender of the Faith | 1.00% | ~3,914 |
-| For the Glory | 1.00% | ~3,914 |
-| It's all about the money | 1.00% | ~3,914 |
-| True Catholic | 1.00% | ~3,914 |
+| Until death do us apart | 4.00% | ~15,659 |
+| That's a Grand Army | 3.00% | ~11,745 |
+| That is mine! | 3.00% | ~11,745 |
+| Victorious! | 3.00% | ~11,745 |
+| Brothers in Arms | 2.00% | ~7,830 |
+| That's a Grand Navy | 2.00% | ~7,830 |
+| Seriously?! | 2.00% | ~7,830 |
+| Cold War | 1.00% | ~3,915 |
+| Defender of the Faith | 1.00% | ~3,915 |
+| For the Glory | 1.00% | ~3,915 |
+| It's all about the money | 1.00% | ~3,915 |
+| True Catholic | 1.00% | ~3,915 |
 | Respected | 0.90% | ~3,523 |
 | The Princess is in this Castle | 0.90% | ~3,523 |
 | It's all about luck | 0.80% | ~3,132 |
@@ -28,9 +28,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Total Control | 0.70% | ~2,740 |
 | My armies are invincible! | 0.60% | ~2,349 |
 | Agressive Expander | 0.50% | ~1,957 |
+| City of Cities | 0.50% | ~1,957 |
 | Combined Arms | 0.50% | ~1,957 |
 | Azur semé de lis or | 0.40% | ~1,566 |
-| City of Cities | 0.40% | ~1,566 |
 | Gentle Persuasion | 0.40% | ~1,566 |
 | Queen of Conquest | 0.40% | ~1,566 |
 | This navy can take it all | 0.40% | ~1,566 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391,450 (Ranked 40)  
+Progressed: 391,485 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -498,7 +498,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-01 | 386,048 | 0 |
 | 2023-09-02 | 388,066 | 0 |
 | 2023-09-03 | 390,095 | 0 |
-| 2023-09-04 | 391,450 | 0 |
+| 2023-09-04 | 391,485 | 0 |
 ## Awards
 Max (Educational): 5,930  (Ranked 58)  
 Sum: 48,773 (Ranked 26)  

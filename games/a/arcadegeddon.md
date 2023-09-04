@@ -23,8 +23,8 @@ Number of Ratings: 801  (23.09.2022)
 | Field Medic | 38.00% | ~3,374 |
 | Here Comes a New Challenger | 38.00% | ~3,374 |
 | Rapid Response | 33.00% | ~2,930 |
+| Surge Ahead | 31.00% | ~2,753 |
 | The Full Monty | 31.00% | ~2,753 |
-| Surge Ahead | 30.00% | ~2,664 |
 | Guardian Angel | 28.00% | ~2,486 |
 | Poppin Noggins | 24.00% | ~2,131 |
 | Clips and Crits | 20.00% | ~1,776 |
@@ -197,8 +197,8 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-04 | 8,880 | 0 |
 ## Awards
 Max (Relaxing): 64  (Ranked 387)  
-Sum: 461 (Ranked 309)  
-Diff (max vs sum): 78  
+Sum: 461 (Ranked 310)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 64 |
