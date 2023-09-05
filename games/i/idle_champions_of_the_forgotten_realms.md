@@ -9,9 +9,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 0.70% | ~1,591 |
 | Beast Intentions | 0.30% | ~682 |
 | The Cursed Farmer | 0.30% | ~682 |
-| The Ring of Regeneration | 0.20% | ~454 |
-| Seeking Allies | 0.20% | ~454 |
-| The Mad Wizard | 0.20% | ~454 |
+| The Mad Wizard | 0.30% | ~682 |
+| Were-verpowered | 0.20% | ~455 |
+| The Ring of Regeneration | 0.20% | ~455 |
+| Seeking Allies | 0.20% | ~455 |
+| Are Ya Chicken? | 0.20% | ~455 |
 | Legends and Lore | 0.20% | ~387 |
 | Maddening | 0.10% | ~227 |
 | Pros and CONs | 0.10% | ~227 |
@@ -119,7 +121,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~194 |
 | Get Back In The Castle | 0.10% | ~194 |
 | Kas the Destroyer | 0.10% | ~194 |
-| Were-verpowered | 0.10% | ~227 |
 | Checkmate | 0.10% | ~194 |
 | Pin and Skewer | 0.10% | ~194 |
 | Vecna Out! | 0.10% | ~194 |
@@ -241,7 +242,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~194 |
 | Nimble Escape | 0.10% | ~227 |
 | Nimblest Escape | 0.10% | ~227 |
-| Are Ya Chicken? | 0.10% | ~227 |
 | Useless Allies | 0.10% | ~227 |
 | Stumbling Escape | 0.10% | ~227 |
 | Distracted Escape | 0.10% | ~194 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,239 (Ranked 54)  
+Progressed: 227,253 (Ranked 54)  
 Completed: 2,251 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -665,7 +665,7 @@ Completed: 2,251 (0.99%) (Ranked 124)
 | 2023-09-02 | 226,722 | 2,245 |
 | 2023-09-03 | 226,879 | 2,246 |
 | 2023-09-04 | 227,081 | 2,250 |
-| 2023-09-05 | 227,239 | 2,251 |
+| 2023-09-05 | 227,253 | 2,251 |
 ## Awards
 Max (Diverse Characters): 5,227  (Ranked 67)  
 Sum: 31,411 (Ranked 38)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1235,
+  "EOS_Progressed": 1236,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4376,6 +4376,11 @@
       "Time": "2023-09-05T08:06:01.1023554+00:00",
       "NumProgressed": 1235,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T14:07:23.5698871+00:00",
+      "NumProgressed": 1236,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4451,7 +4456,7 @@
       "Name": "Silver Competitor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -4523,7 +4528,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -4635,7 +4640,7 @@
       "Name": "Factory Expansion",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -4690,14 +4695,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1235,
+      "Progressed": 1236,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-05T13:11:13.7824721+00:00",
+  "LastChanged_Achievements": "2023-09-05T14:07:23.5698862+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-05T13:02:10.3954162+00:00",
-  "LastUpdate_Achievements": "2023-09-05T13:11:13.7825157+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:57:36.482346+00:00",
+  "LastUpdate_Achievements": "2023-09-05T14:07:23.5699532+00:00"
 }

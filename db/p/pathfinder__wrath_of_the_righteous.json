@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3602,7 +3602,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11179,
+  "EOS_Progressed": 11180,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -11812,6 +11812,11 @@
       "Time": "2023-09-05T12:04:25.8746066+00:00",
       "NumProgressed": 11179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T14:04:29.8759605+00:00",
+      "NumProgressed": 11180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11839,7 +11844,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "04_FithCrusade",
@@ -12191,7 +12196,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "49_Flame",
@@ -12750,21 +12755,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9961,
+      "Progressed": 9962,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11179,
+      "Progressed": 11180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-05T08:59:21.8055762+00:00",
-  "LastChanged_Achievements": "2023-09-05T13:08:52.1651552+00:00",
+  "LastChanged_Achievements": "2023-09-05T14:04:29.8759596+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:51.1803019+00:00",
-  "LastUpdate_Ratings": "2023-09-05T13:03:52.8606219+00:00",
-  "LastUpdate_Achievements": "2023-09-05T13:08:52.16534+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:59:40.1966247+00:00",
+  "LastUpdate_Achievements": "2023-09-05T14:04:29.8761568+00:00"
 }

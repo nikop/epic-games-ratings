@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6382,9 +6382,9 @@
       "Count": 3399
     }
   ],
-  "EOS_Progressed": 227239,
+  "EOS_Progressed": 227253,
   "EOS_Completed": 2251,
-  "EOS_NewPlayers": 1313,
+  "EOS_NewPlayers": 1323,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -21592,6 +21592,11 @@
       "Time": "2023-09-05T13:10:29.4543773+00:00",
       "NumProgressed": 227239,
       "NumCompleted": 2251
+    },
+    {
+      "Time": "2023-09-05T14:06:29.7140878+00:00",
+      "NumProgressed": 227253,
+      "NumCompleted": 2251
     }
   ],
   "TotalAchievements": 520,
@@ -22465,9 +22470,9 @@
       "ID": "objective_completed_12",
       "SetID": "cc37lbc",
       "Name": "Were-verpowered",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_completed_1203",
@@ -23283,7 +23288,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_completed_35",
@@ -23395,7 +23400,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_completed_390",
@@ -23465,9 +23470,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_completed_40",
@@ -24745,9 +24750,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 682
     },
     {
       "ID": "objective_completed_70",
@@ -25762,21 +25767,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193513,
-      "Completed": 3397
+      "Progressed": 193527,
+      "Completed": 3398
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227239,
+      "Progressed": 227253,
       "Completed": 2251
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-05T09:58:46.6061409+00:00",
-  "LastChanged_Achievements": "2023-09-05T13:10:29.4543769+00:00",
+  "LastChanged_Achievements": "2023-09-05T14:06:29.7140873+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-05T13:03:34.9183034+00:00",
-  "LastUpdate_Achievements": "2023-09-05T13:10:29.4569609+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:59:18.3068069+00:00",
+  "LastUpdate_Achievements": "2023-09-05T14:06:29.717755+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.82 (Ranked 66)
 | Dark Forest | 78.00% | ~1,980 |
 | The use of petricite | 75.00% | ~1,904 |
 | You can pet the dog | 61.00% | ~1,549 |
-| Big Helmet Bro | 37.00% | ~939 |
+| Big Helmet Bro | 38.00% | ~965 |
 | Thornbarrow | 37.00% | ~939 |
 | Clarion Cove | 37.00% | ~939 |
 | Elemental master | 35.00% | ~889 |

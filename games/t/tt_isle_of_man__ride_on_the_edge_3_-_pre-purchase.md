@@ -27,6 +27,7 @@
 | Tempus Fugit | 4.00% | ~5 |
 | POI Hunter | 3.00% | ~4 |
 | Geek | 3.00% | ~4 |
+| Time Lord | 3.00% | ~4 |
 | First Things First | 3.00% | ~4 |
 | Tailor-Made for Two | 3.00% | ~4 |
 | Déjà-Vu | 2.00% | ~2 |
@@ -36,7 +37,6 @@
 | The Immortal One | 2.00% | ~2 |
 | Shopping List | 2.00% | ~2 |
 | Checklist | 2.00% | ~2 |
-| Time Lord | 2.00% | ~2 |
 | Time Is of the Essence | 2.00% | ~2 |
 | Made Father Proud | 2.00% | ~2 |
 | Win-Win! | 2.00% | ~2 |
