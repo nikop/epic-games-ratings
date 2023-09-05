@@ -72,7 +72,7 @@
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.10% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.02% |
-| 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.01% |
+| 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.00% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
@@ -250,26 +250,26 @@
 | 247 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 247 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
 | 250 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
-| 250 | [Black Book](games/b/black_book.md) | 0.02% |
 | 250 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 250 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
 | 250 | [Good Company](games/g/good_company.md) | 0.02% |
 | 250 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 250 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 250 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 258 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 258 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
-| 258 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 258 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 258 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 258 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 258 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 258 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 258 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 258 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 258 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
-| 258 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 258 | [Verdun](games/v/verdun.md) | 0.01% |
+| 257 | [Black Book](games/b/black_book.md) | 0.01% |
+| 257 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 257 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
+| 257 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 257 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 257 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 257 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 257 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 257 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 257 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 257 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 257 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
+| 257 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 257 | [Verdun](games/v/verdun.md) | 0.01% |
 | 271 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 271 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 0.00% |
 | 271 | [12 orbits](games/1/12_orbits.md) | 0.00% |
@@ -572,4 +572,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,173 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,174 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
