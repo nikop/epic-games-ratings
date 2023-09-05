@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1239,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4386,6 +4386,11 @@
       "Time": "2023-09-05T16:06:30.7842672+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T17:06:33.0579096+00:00",
+      "NumProgressed": 1239,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4397,7 +4402,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -4421,7 +4426,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -4469,7 +4474,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "objective_headquarters_10",
@@ -4477,7 +4482,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_headquarters_15",
@@ -4485,7 +4490,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "objective_headquarters_20",
@@ -4499,9 +4504,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 260
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4517,7 +4522,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -4581,7 +4586,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4589,7 +4594,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -4605,7 +4610,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -4637,7 +4642,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -4700,14 +4705,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1239,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:06:30.7842668+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:06:33.057909+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:57:24.436377+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:06:30.7843103+00:00"
+  "LastUpdate_Ratings": "2023-09-05T16:57:32.3134115+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:06:33.0579656+00:00"
 }

@@ -1677,9 +1677,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13786,
+  "EOS_Progressed": 13788,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11017,6 +11017,11 @@
       "Time": "2023-09-05T15:05:28.563354+00:00",
       "NumProgressed": 13786,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-05T17:05:01.9353443+00:00",
+      "NumProgressed": 13788,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11460,7 +11465,7 @@
       "Name": "Explorer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -11516,7 +11521,7 @@
       "Name": "Intrepid",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -11940,7 +11945,7 @@
       "Name": "Friendly Family",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -13308,7 +13313,7 @@
       "Name": "The Clergy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -13395,21 +13400,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13786,
+      "Progressed": 13788,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13786,
+      "Progressed": 13788,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-05T13:03:36.9380214+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:04:58.1241267+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:05:01.9353434+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:58:49.0647703+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:04:58.1249107+00:00"
+  "LastUpdate_Ratings": "2023-09-05T16:58:58.6034148+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:05:01.9362831+00:00"
 }

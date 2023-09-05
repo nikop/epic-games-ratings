@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3138,
+  "EOS_Progressed": 3139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4858,6 +4858,11 @@
       "Time": "2023-09-04T17:05:32.8818508+00:00",
       "NumProgressed": 3138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T17:04:55.7360815+00:00",
+      "NumProgressed": 3139,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -4933,7 +4938,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_BASE_19",
@@ -5005,7 +5010,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_BASE_28",
@@ -5324,13 +5329,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1320,
+      "Progressed": 1321,
       "Completed": 6
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3138,
+      "Progressed": 3139,
       "Completed": 0
     }
   ],
@@ -5338,8 +5343,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-28T10:57:03.0237068+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:04:51.9565507+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:04:55.7360791+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:17.4649262+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:59:28.4965466+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:04:51.9566217+00:00"
+  "LastUpdate_Ratings": "2023-09-05T16:59:35.2400118+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:04:55.7361685+00:00"
 }

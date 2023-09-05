@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 15.00% | ~11 |
-| Rascal | 14.00% | ~10 |
-| The Preacher's fate | 14.00% | ~10 |
-| Champollion | 14.00% | ~10 |
-| Scholar | 14.00% | ~10 |
-| Welcome to the Tower | 14.00% | ~10 |
-| The great escape | 14.00% | ~10 |
-| A new dawn | 14.00% | ~10 |
-| The darkness | 14.00% | ~10 |
-| One last step | 14.00% | ~10 |
+| That's the spirit | 17.00% | ~13 |
+| Welcome to the Tower | 15.00% | ~11 |
+| Rascal | 13.00% | ~10 |
+| The Preacher's fate | 13.00% | ~10 |
+| Champollion | 13.00% | ~10 |
+| Scholar | 13.00% | ~10 |
+| The great escape | 13.00% | ~10 |
+| A new dawn | 13.00% | ~10 |
+| The darkness | 13.00% | ~10 |
+| One last step | 13.00% | ~10 |
 | Cable guy | 12.00% | ~9 |
 | A good beginning | 12.00% | ~9 |
 | True G4M3R | 12.00% | ~9 |
@@ -30,8 +30,8 @@
 | A Link to the Past | 5.00% | ~4 |
 | Alchemists Express | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74 (Ranked 364)  
-Completed: 4 (5.41%) (Ranked 48)  
+Progressed: 75 (Ranked 363)  
+Completed: 4 (5.33%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,4 +78,4 @@ Completed: 4 (5.41%) (Ranked 48)
 | 2023-09-02 | 68 | 4 |
 | 2023-09-03 | 69 | 4 |
 | 2023-09-04 | 70 | 4 |
-| 2023-09-05 | 74 | 4 |
+| 2023-09-05 | 75 | 4 |

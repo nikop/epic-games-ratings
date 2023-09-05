@@ -19,11 +19,11 @@
 | Fuel Tycoon | 7.00% | ~11 |
 | Ammo Tycoon | 7.00% | ~11 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~10 |
+| Healing | 6.00% | ~10 |
 | Pathfinder | 6.00% | ~10 |
 | Self-sufficient | 6.00% | ~10 |
 | Food Tycoon | 6.00% | ~10 |
 | Medicine Tycoon | 6.00% | ~10 |
-| Healing | 5.00% | ~8 |
 | Supersoldier | 4.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~6 |
 | Overpopulation | 4.00% | ~6 |

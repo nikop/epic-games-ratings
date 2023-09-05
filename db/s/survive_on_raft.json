@@ -25,9 +25,299 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-05T17:03:41.3838845+00:00",
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ADVANCED",
+      "SetID": "2782je5",
+      "Name": "Advanced",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BEGINNER",
+      "SetID": "2782je5",
+      "Name": "Beginner",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BEGINNING_OF_THE_WAY",
+      "SetID": "2782je5",
+      "Name": "The beginning of the way",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHEF",
+      "SetID": "2782je5",
+      "Name": "Chef",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAFTSMAN",
+      "SetID": "2782je5",
+      "Name": "Craftsman",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CREATOR",
+      "SetID": "2782je5",
+      "Name": "Creator",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CUSTOMIZATION_FIRST",
+      "SetID": "2782je5",
+      "Name": "Personalization",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EASY_PREY",
+      "SetID": "2782je5",
+      "Name": "Easy Prey",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENLIGHTENED",
+      "SetID": "2782je5",
+      "Name": "Enlightened",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EXPERIENCED",
+      "SetID": "2782je5",
+      "Name": "Experienced",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FILTERMAN",
+      "SetID": "2782je5",
+      "Name": "Filterman",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIREMAN",
+      "SetID": "2782je5",
+      "Name": "Fireman",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRE_FIGHTER",
+      "SetID": "2782je5",
+      "Name": "Fire Fighter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_EAT_SHARK_MEAT",
+      "SetID": "2782je5",
+      "Name": "Gourmet",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_SOS_SIGNAL",
+      "SetID": "2782je5",
+      "Name": "SOS",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FISHER",
+      "SetID": "2782je5",
+      "Name": "Fisher",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FISHERMAN",
+      "SetID": "2782je5",
+      "Name": "Fisherman",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FISH_HUNTER",
+      "SetID": "2782je5",
+      "Name": "Fish Hunter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FLAME_TAMER",
+      "SetID": "2782je5",
+      "Name": "Flame Tamer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GAIN_SIGNAL_PISTOL",
+      "SetID": "2782je5",
+      "Name": "Flare Gun",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ISLAND_DISCOVERER",
+      "SetID": "2782je5",
+      "Name": "Discoverer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ISLAND_TRAVELER",
+      "SetID": "2782je5",
+      "Name": "Traveler",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ISLAND_TREASURE_GODSEND",
+      "SetID": "2782je5",
+      "Name": "It\u0027s the real godsend!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ISLAND_TREASURE_HUNTER",
+      "SetID": "2782je5",
+      "Name": "Treasure Hunter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ISLAND_TREASURE_SEEKER",
+      "SetID": "2782je5",
+      "Name": "Treasure Seeker",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ISLAND_WANDERER",
+      "SetID": "2782je5",
+      "Name": "Wanderer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JUNIOR_COOK",
+      "SetID": "2782je5",
+      "Name": "Junior Cook",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILLER_HUNTER",
+      "SetID": "2782je5",
+      "Name": "Killer Hunter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOOT_TRANSPORT_CARGO_10",
+      "SetID": "2782je5",
+      "Name": "Humanitarian Aid",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAKER",
+      "SetID": "2782je5",
+      "Name": "Maker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_SURVIVOR",
+      "SetID": "2782je5",
+      "Name": "Master survivor",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MULTIPLAYER_PLAY_WITH_FRIENDS",
+      "SetID": "2782je5",
+      "Name": "More fun together!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAVED_FROM_THIRST",
+      "SetID": "2782je5",
+      "Name": "Saved from thirst",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SKILLED_COOK",
+      "SetID": "2782je5",
+      "Name": "Skilled Cook",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRADE_CUSTOMER",
+      "SetID": "2782je5",
+      "Name": "Customer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WATER_DESALTER",
+      "SetID": "2782je5",
+      "Name": "Water Desalter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2782je5",
@@ -37,8 +327,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:41.3982894+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:03:37.3488785+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:03:41.3838822+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:35.5603337+00:00",
-  "LastUpdate_Ratings": "2023-09-05T16:00:46.0457017+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:03:37.3488814+00:00"
+  "LastUpdate_Ratings": "2023-09-05T17:00:52.6981871+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:03:41.4255615+00:00"
 }

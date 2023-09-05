@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~44,686 |
-| Get Busy Living | 16.00% | ~27,499 |
-| Samuel Norton | 9.00% | ~15,468 |
+| Stone Walls | 26.00% | ~44,690 |
+| Get Busy Living | 16.00% | ~27,501 |
+| Samuel Norton | 9.00% | ~15,470 |
 | Spare The Rod | 5.00% | ~8,594 |
-| Don't Put Me In The Dark | 3.00% | ~5,156 |
-| Wait and Hope | 3.00% | ~5,156 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,156 |
-| Throw The Book At Them | 2.00% | ~3,437 |
-| Iron Bars | 2.00% | ~3,437 |
+| Don't Put Me In The Dark | 3.00% | ~5,157 |
+| Wait and Hope | 3.00% | ~5,157 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,157 |
+| Throw The Book At Them | 2.00% | ~3,438 |
+| Iron Bars | 2.00% | ~3,438 |
 | D.B. Cooper | 1.00% | ~1,719 |
 | Reformation | 0.60% | ~1,031 |
 | Crowd Control | 0.50% | ~859 |
-| Freedom | 0.40% | ~687 |
+| Freedom | 0.40% | ~688 |
 | Confined | 0.30% | ~516 |
 | It's Not What You Know... | 0.10% | ~172 |
 | ... It's What You Can Prove | 0.10% | ~172 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171,871 (Ranked 64)  
+Progressed: 171,884 (Ranked 64)  
 Completed: 7 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,10 +161,10 @@ Completed: 7 (0.00%) (Ranked 270)
 | 2023-09-02 | 170,989 | 7 |
 | 2023-09-03 | 171,406 | 7 |
 | 2023-09-04 | 171,702 | 7 |
-| 2023-09-05 | 171,871 | 7 |
+| 2023-09-05 | 171,884 | 7 |
 ## Awards
 Max (Extremely Fun): 496  (Ranked 201)  
-Sum: 4,224 (Ranked 141)  
+Sum: 4,225 (Ranked 141)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -175,7 +175,7 @@ Diff (max vs sum): 60
 | This game is Relaxing | 442 |
 | This game has Diverse Characters | 418 |
 | This game has Amazing Storytelling | 409 |
-| This game is Educational | 397 |
+| This game is Educational | 398 |
 | This game has Amazing Characters | 376 |
 | This game has a Creative Community | 293 |
 | This game has Obsessive Gameplay | 234 |
@@ -407,4 +407,4 @@ Diff (max vs sum): 60
 | 2023-09-02 | 4.61 | - | 493 | 3,817 |
 | 2023-09-03 | 4.61 | - | 493 | 4,216 |
 | 2023-09-04 | 4.61 | - | 496 | 4,221 |
-| 2023-09-05 | 4.61 | - | 496 | 4,224 |
+| 2023-09-05 | 4.61 | - | 496 | 4,225 |

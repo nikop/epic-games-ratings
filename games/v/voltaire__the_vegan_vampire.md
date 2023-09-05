@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 93.00% | ~103 |
-| Good to grow | 63.00% | ~70 |
-| Fashionista | 41.00% | ~46 |
+| So it begins | 92.00% | ~103 |
+| Good to grow | 63.00% | ~71 |
+| Fashionista | 40.00% | ~45 |
 | Irrigation not irritation | 37.00% | ~41 |
 | Graduated | 32.00% | ~36 |
 | Night Shift | 23.00% | ~26 |
@@ -36,7 +36,7 @@
 | Daddy Issues | 0.00% | ~0 |
 | Free Spirit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 333)  
+Progressed: 112 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-06 | 109 | 0 |
 | 2023-08-08 | 110 | 0 |
 | 2023-08-16 | 111 | 0 |
+| 2023-09-05 | 112 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

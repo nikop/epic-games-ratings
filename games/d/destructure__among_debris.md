@@ -17,9 +17,9 @@
 | You Are Actually Supposed To Use Those | 6.00% | ~10 |
 | Ball Collector | 5.00% | ~8 |
 | Legendary Destructor | 5.00% | ~8 |
+| Nomad | 5.00% | ~8 |
 | Ball Protector | 4.00% | ~7 |
 | Medium Rare | 4.00% | ~7 |
-| Nomad | 4.00% | ~7 |
 | Ticking Clock | 4.00% | ~7 |
 | Collector | 3.00% | ~5 |
 | Detoxed | 3.00% | ~5 |

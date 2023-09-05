@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -880,7 +880,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661811,
+  "EOS_Progressed": 661813,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 1,
@@ -13980,6 +13980,11 @@
       "Time": "2023-09-05T16:04:07.903035+00:00",
       "NumProgressed": 661811,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-05T17:04:10.8777091+00:00",
+      "NumProgressed": 661813,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -13991,7 +13996,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476504
+      "UsersEstimate": 476505
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -13999,7 +14004,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383850
+      "UsersEstimate": 383852
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14111,7 +14116,7 @@
       "Name": "Ally",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5294
+      "UsersEstimate": 5295
     },
     {
       "ID": "Achievement_17_Rebel",
@@ -14231,7 +14236,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79417
+      "UsersEstimate": 79418
     },
     {
       "ID": "Achievement_32_Karma",
@@ -14374,15 +14379,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661811,
+      "Progressed": 661813,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:04:07.9030345+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:04:10.8777087+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:58:32.4139648+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:04:07.9031319+00:00"
+  "LastUpdate_Ratings": "2023-09-05T16:58:40.7762113+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:04:10.877819+00:00"
 }

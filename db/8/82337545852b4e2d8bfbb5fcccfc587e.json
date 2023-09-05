@@ -107,9 +107,9 @@
       "ID": "EpicACHV_15",
       "SetID": "acn799d",
       "Name": "The Divine Move",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EpicACHV_16",
@@ -201,8 +201,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:05:43.5988656+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:05:46.4192675+00:00",
   "LastUpdate_AppInfo": "2023-08-30T04:56:52.5681594+00:00",
-  "LastUpdate_Ratings": "2023-09-05T16:00:05.3288394+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:05:43.5988772+00:00"
+  "LastUpdate_Ratings": "2023-09-05T17:00:11.141169+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:05:46.4192804+00:00"
 }

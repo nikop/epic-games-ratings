@@ -795,9 +795,9 @@
       "ID": "ACHIEVEMENT_ID_20",
       "SetID": "c504de6",
       "Name": "Healing",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_ID_21",
@@ -1050,8 +1050,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:04:25.8262973+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:04:29.0184508+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:18.2667902+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:59:28.2487178+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:04:25.8263325+00:00"
+  "LastUpdate_Ratings": "2023-09-05T16:59:34.9898609+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:04:29.0184933+00:00"
 }

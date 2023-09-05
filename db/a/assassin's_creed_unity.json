@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-unity",
   "Ranking_Rating": 393,
   "Ranking_Popularity": 164,
-  "Ranking_PopularitySum": 263,
+  "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 346,
@@ -1333,10 +1333,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 816,
       "NumberOfAwardsMax": 729
+    },
+    {
+      "Time": "2023-09-05T17:01:10.0865871+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 817,
+      "NumberOfAwardsMax": 729
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 816,
+  "NumberOfAwards": 817,
   "NumberOfAwardsMax": 729,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1380,7 +1386,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -1394,8 +1400,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-09-05T12:01:18.6250909+00:00",
+  "LastChanged": "2023-09-05T17:01:10.086587+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:49.5763145+00:00",
-  "LastUpdate_Ratings": "2023-09-05T16:01:02.4419322+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:03:48.6986646+00:00"
+  "LastUpdate_Ratings": "2023-09-05T17:01:10.0865874+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:03:51.6836901+00:00"
 }

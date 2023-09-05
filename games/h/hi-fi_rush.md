@@ -17,11 +17,11 @@ Rating: 4.87 (Ranked 25)
 | This will cost you big time | 8.00% | ~321 |
 | I play my own way! | 8.00% | ~321 |
 | Uh, they were broken when I got here | 8.00% | ~321 |
+| The Negotiator | 7.00% | ~281 |
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~281 |
 | Z-shielding's got nothing on us! | 7.00% | ~281 |
 | Kissing the sky! | 7.00% | ~281 |
 | I look cool. But I can look COOLER. | 7.00% | ~281 |
-| The Negotiator | 6.00% | ~241 |
 | Headliner | 6.00% | ~241 |
 | Time to pay up! | 6.00% | ~241 |
 | Who's the boss now? | 6.00% | ~241 |

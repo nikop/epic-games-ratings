@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -192,6 +192,11 @@
       "Time": "2023-09-03T23:03:51.3475547+00:00",
       "NumProgressed": 146,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T17:04:49.8079156+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 17,
@@ -203,7 +208,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "LC-02",
@@ -233,9 +238,9 @@
       "ID": "LC-05",
       "SetID": "ap2ljl4",
       "Name": "Apprentice Baker",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "LC-06",
@@ -299,7 +304,7 @@
       "Name": "The Kitchen Is On Fire",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "LC-14",
@@ -338,7 +343,7 @@
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 1
     }
   ],
@@ -346,8 +351,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:04:46.570027+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:04:49.807915+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:44.5515749+00:00",
-  "LastUpdate_Ratings": "2023-09-05T16:00:51.0239679+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:04:46.5700377+00:00"
+  "LastUpdate_Ratings": "2023-09-05T17:00:57.3796776+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:04:49.8079299+00:00"
 }

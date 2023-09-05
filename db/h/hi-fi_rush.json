@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -126,7 +126,7 @@
   "Tags": [],
   "EOS_Progressed": 4012,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6387,9 +6387,9 @@
       "ID": "Ach004",
       "SetID": "12n4k20",
       "Name": "The Negotiator",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 281
     },
     {
       "ID": "Ach005",
@@ -6946,8 +6946,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:04:09.9815432+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:04:13.0045312+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:07.0379973+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:59:19.8242363+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:04:09.9816274+00:00"
+  "LastUpdate_Ratings": "2023-09-05T16:59:27.7859451+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:04:13.00463+00:00"
 }

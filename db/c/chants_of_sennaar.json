@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 48,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 101,
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.41,
+  "EOS_Completed_Percentage": 5.33,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -392,6 +392,11 @@
       "Time": "2023-09-05T16:04:53.6268206+00:00",
       "NumProgressed": 74,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T17:04:57.7082511+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -505,7 +510,7 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -521,7 +526,7 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -537,7 +542,7 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -545,15 +550,15 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -561,15 +566,15 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -577,7 +582,7 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -585,7 +590,7 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
       "UsersEstimate": 10
     },
@@ -593,7 +598,7 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 80,
       "UsersEstimate": 10
     }
@@ -602,13 +607,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-05T16:04:53.62682+00:00",
+  "LastChanged_Achievements": "2023-09-05T17:04:57.7082506+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:59:55.3285366+00:00",
-  "LastUpdate_Achievements": "2023-09-05T16:04:53.6268401+00:00"
+  "LastUpdate_Ratings": "2023-09-05T17:00:03.2652535+00:00",
+  "LastUpdate_Achievements": "2023-09-05T17:04:57.7082722+00:00"
 }
