@@ -51,8 +51,8 @@ Rating: 4.55 (Ranked 490)
 | You Had One Job... | 1.00% | ~31 |
 | Gregor Spinoza | 1.00% | ~31 |
 | Tiqqun Unchained | 1.00% | ~31 |
+| Drill-dozer | 1.00% | ~31 |
 | Scientifically Accurate | 1.00% | ~31 |
-| Drill-dozer | 0.90% | ~28 |
 | Work Harder | 0.50% | ~16 |
 | Crunch Culture | 0.30% | ~9 |
 | Soylent Green | 0.30% | ~9 |

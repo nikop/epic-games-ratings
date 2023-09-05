@@ -500,7 +500,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3585,
+  "EOS_Progressed": 3586,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -6495,6 +6495,11 @@
       "Time": "2023-09-05T06:08:15.335522+00:00",
       "NumProgressed": 3585,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-05T08:08:13.6337393+00:00",
+      "NumProgressed": 3586,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6586,7 +6591,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6626,7 +6631,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -7073,13 +7078,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3536,
+      "Progressed": 3537,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3585,
+      "Progressed": 3586,
       "Completed": 10
     }
   ],
@@ -7087,8 +7092,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-05T06:08:15.3355216+00:00",
+  "LastChanged_Achievements": "2023-09-05T08:08:13.6337389+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-05T05:57:13.4007576+00:00",
-  "LastUpdate_Achievements": "2023-09-05T06:08:15.3356292+00:00"
+  "LastUpdate_Ratings": "2023-09-05T07:57:17.9470658+00:00",
+  "LastUpdate_Achievements": "2023-09-05T08:08:13.6338248+00:00"
 }

@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 61.00% | ~325 |
-| Quick charge | 60.00% | ~319 |
+| Quick charge | 60.00% | ~320 |
 | Buckle up | 59.00% | ~314 |
 | Hands up! | 53.00% | ~282 |
 | Now you know | 53.00% | ~282 |
 | Short circuit | 53.00% | ~282 |
-| Curious | 42.00% | ~223 |
+| Curious | 42.00% | ~224 |
 | Everybody lies | 36.00% | ~192 |
-| Trick or Treat? | 23.00% | ~122 |
+| Trick or Treat? | 23.00% | ~123 |
 | There is another way | 22.00% | ~117 |
 | Sysadmin | 21.00% | ~112 |
-| Every little helps | 20.00% | ~106 |
-| The Walking Robot Among Us | 20.00% | ~106 |
+| Every little helps | 20.00% | ~107 |
+| The Walking Robot Among Us | 20.00% | ~107 |
 | Annoying | 19.00% | ~101 |
 | Hacker | 19.00% | ~101 |
 | He is just a child | 19.00% | ~101 |
-| Goody | 17.00% | ~90 |
-| Uncertain | 17.00% | ~90 |
+| Goody | 17.00% | ~91 |
+| Uncertain | 17.00% | ~91 |
 | Ace | 16.00% | ~85 |
 | Concrete painting | 16.00% | ~85 |
 | Not what it seems | 16.00% | ~85 |
@@ -37,8 +37,8 @@
 | Lucky dog | 4.00% | ~21 |
 | Silent | 4.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532 (Ranked 235)  
-Completed: 16 (3.01%) (Ranked 73)  
+Progressed: 533 (Ranked 235)  
+Completed: 16 (3.00%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,6 +120,7 @@ Completed: 16 (3.01%) (Ranked 73)
 | 2023-08-27 | 529 | 16 |
 | 2023-08-28 | 531 | 16 |
 | 2023-09-03 | 532 | 16 |
+| 2023-09-05 | 533 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

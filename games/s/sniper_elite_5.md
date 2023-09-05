@@ -5,7 +5,7 @@ Rating: 4.47 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,649 |
+| Meeting Resistance | 46.00% | ~1,650 |
 | Confirming Suspicions | 40.00% | ~1,434 |
 | The Kraken Wakes | 36.00% | ~1,291 |
 | It's Starting to Crack | 33.00% | ~1,183 |
@@ -20,7 +20,7 @@ Rating: 4.47 (Ranked 614)
 | Liberté | 21.00% | ~753 |
 | Sharpshooter | 21.00% | ~753 |
 | Explosive Efficiency | 18.00% | ~645 |
-| Gunslinger | 17.00% | ~609 |
+| Gunslinger | 17.00% | ~610 |
 | Just a Flesh Wound | 16.00% | ~574 |
 | Der Geist | 16.00% | ~574 |
 | Climbing the Ladder | 15.00% | ~538 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 614)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,585 (Ranked 154)  
+Progressed: 3,586 (Ranked 154)  
 Completed: 10 (0.28%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 10 (0.28%) (Ranked 182)
 | 2023-09-02 | 3,565 | 10 |
 | 2023-09-03 | 3,577 | 10 |
 | 2023-09-04 | 3,583 | 10 |
-| 2023-09-05 | 3,585 | 10 |
+| 2023-09-05 | 3,586 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1640,6 +1640,11 @@
       "Time": "2023-09-05T01:42:26.4184795+00:00",
       "NumProgressed": 558,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-05T08:03:09.7534694+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1673,9 +1678,9 @@
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 257
+      "UsersEstimate": 252
     },
     {
       "ID": "female-conqueror",
@@ -1691,7 +1696,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "hire-lieutenant",
@@ -1699,7 +1704,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "kill-lieutenants",
@@ -1723,7 +1728,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "product-profit",
@@ -1739,7 +1744,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "rename-lieutenant",
@@ -1755,7 +1760,7 @@
       "Name": "Bite the Blow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "sell-variety",
@@ -1771,7 +1776,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "unlock-residences",
@@ -1787,7 +1792,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "use-submarine",
@@ -1802,15 +1807,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-09-05T06:03:17.8286792+00:00",
+  "LastChanged_Achievements": "2023-09-05T08:03:09.7534688+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:30.2177621+00:00",
-  "LastUpdate_Ratings": "2023-09-05T06:00:17.5849965+00:00",
-  "LastUpdate_Achievements": "2023-09-05T06:03:17.8287021+00:00"
+  "LastUpdate_Ratings": "2023-09-05T08:00:29.0609946+00:00",
+  "LastUpdate_Achievements": "2023-09-05T08:03:09.7534951+00:00"
 }

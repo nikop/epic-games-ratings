@@ -33,15 +33,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 3.00% | ~496 |
 | Cursed Lands | 3.00% | ~496 |
 | Trade Baron | 3.00% | ~496 |
-| Serving Ale | 2.00% | ~330 |
-| Refinery | 2.00% | ~330 |
-| Dangerous Lands | 2.00% | ~330 |
-| Fishmen Ritual Site | 2.00% | ~330 |
-| Forbidden Lands | 2.00% | ~330 |
-| Forsaken Gods Temple | 2.00% | ~330 |
-| Like a Machine | 2.00% | ~330 |
-| Defying the Crown | 2.00% | ~330 |
-| Into the Forest | 2.00% | ~330 |
+| Serving Ale | 2.00% | ~331 |
+| Refinery | 2.00% | ~331 |
+| Dangerous Lands | 2.00% | ~331 |
+| Fishmen Ritual Site | 2.00% | ~331 |
+| Forbidden Lands | 2.00% | ~331 |
+| Forsaken Gods Temple | 2.00% | ~331 |
+| Like a Machine | 2.00% | ~331 |
+| Defying the Crown | 2.00% | ~331 |
+| Into the Forest | 2.00% | ~331 |
 | Feeding The People | 1.00% | ~165 |
 | Efficient Explorer | 1.00% | ~165 |
 | Prestigious Expedition | 1.00% | ~165 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,525 (Ranked 116)  
+Progressed: 16,526 (Ranked 116)  
 Completed: 47 (0.28%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 47 (0.28%) (Ranked 182)
 | 2023-09-02 | 16,492 | 47 |
 | 2023-09-03 | 16,510 | 47 |
 | 2023-09-04 | 16,523 | 47 |
-| 2023-09-05 | 16,525 | 47 |
+| 2023-09-05 | 16,526 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 427  (Ranked 210)  
 Sum: 3,124 (Ranked 163)  

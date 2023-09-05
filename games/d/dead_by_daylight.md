@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~16,999 |
-| It wakes | 2.00% | ~16,999 |
-| Not half bad | 2.00% | ~16,999 |
-| Skillful | 2.00% | ~16,999 |
-| Make Some Noise | 2.00% | ~16,999 |
-| MU/TH/UR Dearest | 2.00% | ~16,999 |
-| The Grand Sacrifice | 1.00% | ~8,500 |
-| Backdoor Escape | 1.00% | ~8,500 |
-| No one left behind | 1.00% | ~8,500 |
-| Medic | 1.00% | ~8,500 |
-| Handyman | 1.00% | ~8,500 |
-| Nerves of steel | 1.00% | ~8,500 |
-| Perfect Escape | 1.00% | ~8,500 |
-| Bloody Millionaire | 1.00% | ~8,500 |
-| Apt Survivor | 1.00% | ~8,500 |
-| Survival Treasures | 1.00% | ~8,500 |
-| I | 1.00% | ~8,500 |
-| Sorted | 1.00% | ~8,500 |
-| Healthy Obsession | 1.00% | ~8,500 |
-| Resurgence | 1.00% | ~8,500 |
-| Preemptive Strike | 1.00% | ~8,500 |
-| Humanitarian | 1.00% | ~8,500 |
-| Agonizing Escape | 0.90% | ~7,650 |
-| Perfect Killing | 0.90% | ~7,650 |
-| Engineer | 0.90% | ~7,650 |
-| I've got your back | 0.80% | ~6,800 |
-| Risk it all | 0.80% | ~6,800 |
-| Wounded Healer | 0.80% | ~6,800 |
-| Close Shave | 0.80% | ~6,800 |
-| Terror of LV-426 | 0.80% | ~6,800 |
-| Apt Killer | 0.70% | ~5,950 |
-| II | 0.70% | ~5,950 |
-| Second Act | 0.70% | ~5,950 |
-| Vulture | 0.60% | ~5,100 |
-| III | 0.60% | ~5,100 |
+| Zealous | 2.00% | ~17,002 |
+| It wakes | 2.00% | ~17,002 |
+| Not half bad | 2.00% | ~17,002 |
+| Apt Survivor | 2.00% | ~17,002 |
+| Skillful | 2.00% | ~17,002 |
+| Make Some Noise | 2.00% | ~17,002 |
+| MU/TH/UR Dearest | 2.00% | ~17,002 |
+| The Grand Sacrifice | 1.00% | ~8,501 |
+| Backdoor Escape | 1.00% | ~8,501 |
+| No one left behind | 1.00% | ~8,501 |
+| Medic | 1.00% | ~8,501 |
+| Handyman | 1.00% | ~8,501 |
+| Nerves of steel | 1.00% | ~8,501 |
+| Perfect Escape | 1.00% | ~8,501 |
+| Bloody Millionaire | 1.00% | ~8,501 |
+| Survival Treasures | 1.00% | ~8,501 |
+| I | 1.00% | ~8,501 |
+| Sorted | 1.00% | ~8,501 |
+| Healthy Obsession | 1.00% | ~8,501 |
+| Resurgence | 1.00% | ~8,501 |
+| Preemptive Strike | 1.00% | ~8,501 |
+| Humanitarian | 1.00% | ~8,501 |
+| Agonizing Escape | 0.90% | ~7,651 |
+| I've got your back | 0.90% | ~7,651 |
+| Perfect Killing | 0.90% | ~7,651 |
+| Engineer | 0.90% | ~7,651 |
+| Risk it all | 0.80% | ~6,801 |
+| Wounded Healer | 0.80% | ~6,801 |
+| Close Shave | 0.80% | ~6,801 |
+| Terror of LV-426 | 0.80% | ~6,801 |
+| Apt Killer | 0.70% | ~5,951 |
+| II | 0.70% | ~5,951 |
+| Second Act | 0.70% | ~5,951 |
+| Vulture | 0.60% | ~5,101 |
+| III | 0.60% | ~5,101 |
 | Blood on your hands | 0.50% | ~4,250 |
 | Cherish your Life | 0.50% | ~4,250 |
 | Unforgettable Getaway | 0.50% | ~4,250 |
@@ -84,6 +84,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.30% | ~2,550 |
 | Selfless Survival | 0.30% | ~2,550 |
 | End of Days | 0.30% | ~2,550 |
+| Insult and Injury | 0.30% | ~2,550 |
 | Outrun the Overlap | 0.30% | ~2,550 |
 | Extraterrestrial | 0.30% | ~2,550 |
 | Blood in your mouth | 0.20% | ~1,700 |
@@ -97,7 +98,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.20% | ~1,700 |
 | I See You | 0.20% | ~1,700 |
 | Power Moves | 0.20% | ~1,700 |
-| Insult and Injury | 0.20% | ~1,700 |
 | Punch Drunk | 0.20% | ~1,700 |
 | Prowler | 0.20% | ~1,700 |
 | Triage | 0.20% | ~1,700 |
@@ -236,8 +236,8 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~850 |
 | Adept Ripley | 0.10% | ~850 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 849,967 (Ranked 15)  
-Completed: 48 (0.01%) (Ranked 258)  
+Progressed: 850,096 (Ranked 15)  
+Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -374,7 +374,7 @@ Completed: 48 (0.01%) (Ranked 258)
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
 | 2023-09-04 | 849,226 | 48 |
-| 2023-09-05 | 849,967 | 48 |
+| 2023-09-05 | 850,096 | 48 |
 ## Awards
 Max (Diverse Characters): 31,936  (Ranked 15)  
 Sum: 250,241 (Ranked 11)  

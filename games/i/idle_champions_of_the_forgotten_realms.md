@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.60% | ~1,363 |
-| Beast Intentions | 0.30% | ~681 |
-| The Cursed Farmer | 0.30% | ~681 |
+| Beast Intentions | 0.30% | ~682 |
+| The Cursed Farmer | 0.30% | ~682 |
 | The Ring of Regeneration | 0.20% | ~454 |
 | Seeking Allies | 0.20% | ~454 |
 | The Mad Wizard | 0.20% | ~454 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~193 |
 | All's Well That Ends Well | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,163 (Ranked 54)  
+Progressed: 227,181 (Ranked 54)  
 Completed: 2,251 (0.99%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -665,20 +665,20 @@ Completed: 2,251 (0.99%) (Ranked 123)
 | 2023-09-02 | 226,722 | 2,245 |
 | 2023-09-03 | 226,879 | 2,246 |
 | 2023-09-04 | 227,081 | 2,250 |
-| 2023-09-05 | 227,163 | 2,251 |
+| 2023-09-05 | 227,181 | 2,251 |
 ## Awards
 Max (Diverse Characters): 5,227  (Ranked 67)  
-Sum: 31,396 (Ranked 38)  
+Sum: 31,405 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,227 |
 | This game is Great for Beginners | 5,194 |
 | This game has Quickly Understood Controls | 4,756 |
-| This game is Relaxing | 4,638 |
+| This game is Relaxing | 4,639 |
 | This game has Amazing Characters | 4,101 |
-| This game is Highly Recommended | 4,085 |
-| This game has Playful Visuals | 3,395 |
+| This game is Highly Recommended | 4,089 |
+| This game has Playful Visuals | 3,399 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -904,3 +904,4 @@ Diff (max vs sum): 29
 | 2023-09-02 | 4.06 | - | 5,221 | 31,358 |
 | 2023-09-03 | 4.06 | - | 5,224 | 31,377 |
 | 2023-09-04 | 4.06 | - | 5,227 | 31,396 |
+| 2023-09-05 | 4.06 | - | 5,227 | 31,405 |

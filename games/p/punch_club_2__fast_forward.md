@@ -35,15 +35,15 @@
 | Intriguing candies | 57.00% | ~180 |
 | Legal courier | 55.00% | ~174 |
 | Extreme neuropower! | 55.00% | ~174 |
-| Escaped from a big trouble | 51.00% | ~161 |
+| Escaped from a big trouble | 52.00% | ~164 |
 | Now you are worthy | 50.00% | ~158 |
+| Guiding on the right path | 47.00% | ~149 |
 | Fight is life | 46.00% | ~145 |
 | Mysterious voice | 46.00% | ~145 |
-| Guiding on the right path | 46.00% | ~145 |
 | No blades in the gym | 45.00% | ~142 |
 | Champion – no way back | 42.00% | ~133 |
+| Responsible approach | 42.00% | ~133 |
 | Underground dwellers | 41.00% | ~130 |
-| Responsible approach | 41.00% | ~130 |
 | Deal with life | 40.00% | ~126 |
 | Mom got better | 39.00% | ~123 |
 | The die is cast | 39.00% | ~123 |
@@ -56,9 +56,9 @@
 | Problems of cyborgs | 34.00% | ~107 |
 | Undercover robot | 34.00% | ~107 |
 | Absolute Champion! | 33.00% | ~104 |
+| Anyone can resist | 33.00% | ~104 |
 | Not little hacker | 32.00% | ~101 |
 | Careerist | 32.00% | ~101 |
-| Anyone can resist | 32.00% | ~101 |
 | Trap disarmed | 31.00% | ~98 |
 | The lonesome road | 31.00% | ~98 |
 | Keep nature safe | 31.00% | ~98 |

@@ -2,13 +2,13 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1148,8 +1148,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-05T06:04:01.314312+00:00",
+  "LastChanged_Achievements": "2023-09-05T08:03:54.4169602+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-05T05:57:39.0126821+00:00",
-  "LastUpdate_Achievements": "2023-09-05T06:04:01.3143409+00:00"
+  "LastUpdate_Ratings": "2023-09-05T07:57:44.91777+00:00",
+  "LastUpdate_Achievements": "2023-09-05T08:03:54.416986+00:00"
 }

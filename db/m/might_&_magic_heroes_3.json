@@ -3,11 +3,11 @@
   "Name": "Might \u0026 Magic Heroes 3",
   "ProductSlug": "might-and-magic-heroes-3",
   "Ranking_Rating": 89,
-  "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 331,
+  "Ranking_Popularity": 395,
+  "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1307,11 +1307,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 342,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2023-09-05T07:58:27.3128674+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 342,
-  "NumberOfAwardsMax": 53,
+  "NumberOfAwards": 344,
+  "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -1330,7 +1336,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 53
+      "Count": 55
     },
     {
       "Text": "This game is Relaxing",
@@ -1392,8 +1398,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-09-04T09:58:54.6192893+00:00",
+  "LastChanged": "2023-09-05T07:58:27.3128672+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.8355761+00:00",
-  "LastUpdate_Ratings": "2023-09-05T05:58:19.454346+00:00",
-  "LastUpdate_Achievements": "2023-09-05T06:05:06.6880393+00:00"
+  "LastUpdate_Ratings": "2023-09-05T07:58:27.3128677+00:00",
+  "LastUpdate_Achievements": "2023-09-05T08:05:02.2558467+00:00"
 }

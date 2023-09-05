@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1234,
+  "EOS_Progressed": 1235,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4371,6 +4371,11 @@
       "Time": "2023-09-05T05:07:07.2133574+00:00",
       "NumProgressed": 1234,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T08:06:01.1023554+00:00",
+      "NumProgressed": 1235,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4510,7 +4515,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4606,7 +4611,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -4685,14 +4690,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1234,
+      "Progressed": 1235,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-05T06:06:03.4446535+00:00",
+  "LastChanged_Achievements": "2023-09-05T08:06:01.1023551+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-05T05:57:01.2718388+00:00",
-  "LastUpdate_Achievements": "2023-09-05T06:06:03.4447096+00:00"
+  "LastUpdate_Ratings": "2023-09-05T07:57:05.0363165+00:00",
+  "LastUpdate_Achievements": "2023-09-05T08:06:01.1023988+00:00"
 }

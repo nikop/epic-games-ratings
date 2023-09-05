@@ -3596,7 +3596,7 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 11175,
+  "EOS_Progressed": 11176,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -11786,6 +11786,11 @@
       "Time": "2023-09-05T04:03:49.6643134+00:00",
       "NumProgressed": 11175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T08:03:40.4007501+00:00",
+      "NumProgressed": 11176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -11829,7 +11834,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -11853,7 +11858,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "09_PathOfDemon",
@@ -12189,7 +12194,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -12724,21 +12729,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9957,
+      "Progressed": 9958,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11175,
+      "Progressed": 11176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-03T19:58:42.8452867+00:00",
-  "LastChanged_Achievements": "2023-09-05T06:03:47.4667904+00:00",
+  "LastChanged_Achievements": "2023-09-05T08:03:40.4007497+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:51.1803019+00:00",
-  "LastUpdate_Ratings": "2023-09-05T05:58:34.2683869+00:00",
-  "LastUpdate_Achievements": "2023-09-05T06:03:47.4669762+00:00"
+  "LastUpdate_Ratings": "2023-09-05T07:58:42.6081821+00:00",
+  "LastUpdate_Achievements": "2023-09-05T08:03:40.4009194+00:00"
 }

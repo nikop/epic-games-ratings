@@ -6006,9 +6006,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 712949,
+  "EOS_Progressed": 712951,
   "EOS_Completed": 12884,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18551,6 +18551,11 @@
       "Time": "2023-09-05T00:08:44.5849658+00:00",
       "NumProgressed": 712949,
       "NumCompleted": 12884
+    },
+    {
+      "Time": "2023-09-05T08:08:19.8201332+00:00",
+      "NumProgressed": 712951,
+      "NumCompleted": 12884
     }
   ],
   "TotalAchievements": 50,
@@ -18650,7 +18655,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7129
+      "UsersEstimate": 7130
     },
     {
       "ID": "13_LowAge",
@@ -18722,7 +18727,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7129
+      "UsersEstimate": 7130
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -18754,7 +18759,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7129
+      "UsersEstimate": 7130
     },
     {
       "ID": "26_ShrineSpirit",
@@ -18794,7 +18799,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7129
+      "UsersEstimate": 7130
     },
     {
       "ID": "31_ComboHigh",
@@ -18834,7 +18839,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7129
+      "UsersEstimate": 7130
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -18946,7 +18951,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -18961,21 +18966,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22250,
+      "Progressed": 22252,
       "Completed": 10586
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712949,
+      "Progressed": 712951,
       "Completed": 12884
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-05T03:00:14.1235007+00:00",
-  "LastChanged_Achievements": "2023-09-05T06:08:21.3879015+00:00",
+  "LastChanged_Achievements": "2023-09-05T08:08:19.8201329+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-05T05:59:20.975266+00:00",
-  "LastUpdate_Achievements": "2023-09-05T06:08:21.3880172+00:00"
+  "LastUpdate_Ratings": "2023-09-05T07:59:30.0784501+00:00",
+  "LastUpdate_Achievements": "2023-09-05T08:08:19.8202233+00:00"
 }

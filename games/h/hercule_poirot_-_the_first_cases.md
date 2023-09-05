@@ -24,7 +24,7 @@ Rating: 4.35 (Ranked 757)
 | Jacqueline “Jackie” Conrad | 44.00% | ~183 |
 | The Interrogations | 44.00% | ~183 |
 | Well-acquainted | 42.00% | ~175 |
-| Zakariya Demir | 41.00% | ~171 |
+| Zakariya Demir | 42.00% | ~175 |
 | Well-read | 39.00% | ~163 |
 | Cassandra Van den Bosch | 38.00% | ~158 |
 | The Secret | 37.00% | ~154 |
