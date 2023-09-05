@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 24.18,
+  "EOS_Completed_Percentage": 24.03,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -781,6 +781,11 @@
       "Time": "2023-09-04T23:03:57.3890448+00:00",
       "NumProgressed": 153,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-09-05T13:08:46.3288706+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -793,7 +798,7 @@
       "Name": "Safe Cracker",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Batteries",
@@ -801,7 +806,7 @@
       "Name": "Batteries",
       "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Compiling",
@@ -809,7 +814,7 @@
       "Name": "Job completed!",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "FallDeath",
@@ -817,7 +822,7 @@
       "Name": "Accident",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "FirstBox",
@@ -825,7 +830,7 @@
       "Name": "Test Task",
       "Percentage": 97,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Floppy",
@@ -833,7 +838,7 @@
       "Name": "Additional Data",
       "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Fusses",
@@ -841,15 +846,15 @@
       "Name": "Beginner Electrician",
       "Percentage": 90,
       "XP": 70,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "GasDeath",
@@ -857,7 +862,7 @@
       "Name": "Contract Termination",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GasFound",
@@ -865,7 +870,7 @@
       "Name": "Something is wrong here",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Hologram",
@@ -873,7 +878,7 @@
       "Name": "Holographic Scanner",
       "Percentage": 55,
       "XP": 70,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Screwdriver",
@@ -881,7 +886,7 @@
       "Name": "Screwdriver",
       "Percentage": 79,
       "XP": 70,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "SecretRoom",
@@ -889,29 +894,29 @@
       "Name": "Researcher",
       "Percentage": 48,
       "XP": 80,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 37
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-05T12:04:20.2792357+00:00",
+  "LastChanged_Achievements": "2023-09-05T13:08:46.3288702+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.7400613+00:00",
-  "LastUpdate_Ratings": "2023-09-05T12:03:14.6787572+00:00",
-  "LastUpdate_Achievements": "2023-09-05T12:04:20.2792538+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:07:17.615543+00:00",
+  "LastUpdate_Achievements": "2023-09-05T13:08:46.328883+00:00"
 }

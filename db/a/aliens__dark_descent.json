@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -300,7 +300,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3224,
+  "EOS_Progressed": 3225,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -4095,6 +4095,11 @@
       "Time": "2023-09-05T08:03:28.5027352+00:00",
       "NumProgressed": 3224,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-05T13:08:40.1285254+00:00",
+      "NumProgressed": 3225,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4146,7 +4151,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -4218,7 +4223,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4226,7 +4231,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2160
+      "UsersEstimate": 2161
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4312,9 +4317,9 @@
       "ID": "ACH_MISSION_03",
       "SetID": "816efe",
       "Name": "Harper\u0027s Hell",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1451
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4394,7 +4399,7 @@
       "Name": "The True Experience",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_PREVENT_ABDUCTED",
@@ -4402,7 +4407,7 @@
       "Name": "Snatched Out",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4418,7 +4423,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4426,7 +4431,7 @@
       "Name": "People Person",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -4442,7 +4447,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -4465,7 +4470,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3224,
+      "Progressed": 3225,
       "Completed": 3
     }
   ],
@@ -4473,8 +4478,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-08-31T19:59:01.3757088+00:00",
-  "LastChanged_Achievements": "2023-09-05T12:04:14.2008611+00:00",
+  "LastChanged_Achievements": "2023-09-05T13:08:40.1285249+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:22.9091444+00:00",
-  "LastUpdate_Ratings": "2023-09-05T12:00:47.2540279+00:00",
-  "LastUpdate_Achievements": "2023-09-05T12:04:14.2009277+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:05:11.7980355+00:00",
+  "LastUpdate_Achievements": "2023-09-05T13:08:40.1285717+00:00"
 }

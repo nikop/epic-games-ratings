@@ -23,13 +23,13 @@ Rating: 4.54 (Ranked 505)
 | Zombologist | 0.80% | ~5,391 |
 | A Patton Emerges | 0.80% | ~5,391 |
 | This is My Weapon | 0.80% | ~5,391 |
-| Slayer Squad | 0.70% | ~4,717 |
-| I Am the Resurrection | 0.70% | ~4,717 |
-| Our True Nature | 0.70% | ~4,717 |
-| Anger Management | 0.60% | ~4,043 |
-| Perks of the Job | 0.60% | ~4,043 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,043 |
-| Ooh, Shiny! | 0.60% | ~4,043 |
+| Slayer Squad | 0.70% | ~4,718 |
+| I Am the Resurrection | 0.70% | ~4,718 |
+| Our True Nature | 0.70% | ~4,718 |
+| Anger Management | 0.60% | ~4,044 |
+| Perks of the Job | 0.60% | ~4,044 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,044 |
+| Ooh, Shiny! | 0.60% | ~4,044 |
 | Making Your Mark | 0.50% | ~3,370 |
 | Humanity Distilled | 0.50% | ~3,370 |
 | Down with the Sickness | 0.50% | ~3,370 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,901 (Ranked 22)  
+Progressed: 673,930 (Ranked 22)  
 Completed: 2,115 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,16 +189,16 @@ Completed: 2,115 (0.31%) (Ranked 176)
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
-| 2023-09-05 | 673,901 | 2,115 |
+| 2023-09-05 | 673,930 | 2,115 |
 ## Awards
 Max (Great Boss Battles): 5,902  (Ranked 59)  
-Sum: 8,707 (Ranked 95)  
+Sum: 8,711 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,902 |
 | This game is Great for Beginners | 398 |
-| This game has Diverse Characters | 387 |
+| This game has Diverse Characters | 391 |
 | This game has Quickly Understood Controls | 383 |
 | This game is Relaxing | 363 |
 | This game has Amazing Storytelling | 339 |
@@ -345,4 +345,4 @@ Diff (max vs sum): -36
 | 2023-09-02 | 4.54 | 5,867 | 8,645 |
 | 2023-09-03 | 4.54 | 5,889 | 8,684 |
 | 2023-09-04 | 4.54 | 5,902 | 8,698 |
-| 2023-09-05 | 4.54 | 5,902 | 8,707 |
+| 2023-09-05 | 4.54 | 5,902 | 8,711 |

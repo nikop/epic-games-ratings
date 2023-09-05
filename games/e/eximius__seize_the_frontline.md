@@ -1,28 +1,28 @@
 # Eximius: Seize the Frontline
 [Store](https://store.epicgames.com/en-US/p/eximius-seize-the-frontline)  
 [View Rawdata](../../db/e/eximius__seize_the_frontline.json)  
-Rating: 4.18 (Ranked 883)  
+Rating: 4.18 (Ranked 882)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduate Boot Camp | 71.00% | ~139,335 |
-| Initiation | 18.00% | ~35,324 |
+| Graduate Boot Camp | 71.00% | ~139,339 |
+| Initiation | 18.00% | ~35,325 |
 | Battlesuit Victory | 8.00% | ~15,700 |
-| Flawless Victory | 5.00% | ~9,812 |
-| Baby Steps | 5.00% | ~9,812 |
-| First Co-Op Win | 5.00% | ~9,812 |
-| Gated Community | 3.00% | ~5,887 |
+| Flawless Victory | 5.00% | ~9,813 |
+| Baby Steps | 5.00% | ~9,813 |
+| First Co-Op Win | 5.00% | ~9,813 |
+| Gated Community | 3.00% | ~5,888 |
 | Tag Team Champions | 2.00% | ~3,925 |
-| Total Destruction | 1.00% | ~1,962 |
-| Getting There | 1.00% | ~1,962 |
-| Untouchable | 1.00% | ~1,962 |
+| Total Destruction | 1.00% | ~1,963 |
+| Getting There | 1.00% | ~1,963 |
+| Untouchable | 1.00% | ~1,963 |
 | Mastermind | 0.50% | ~981 |
-| We shall never Surrender! | 0.20% | ~392 |
-| Halfway There | 0.20% | ~392 |
+| We shall never Surrender! | 0.20% | ~393 |
+| Halfway There | 0.20% | ~393 |
 | Not Afraid of the Big Bad Wolf | 0.10% | ~196 |
 | Many More to Come | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,246 (Ranked 62)  
+Progressed: 196,252 (Ranked 62)  
 Completed: 4 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 4 (0.00%) (Ranked 270)
 | 2023-09-02 | 196,081 | 4 |
 | 2023-09-03 | 196,167 | 4 |
 | 2023-09-04 | 196,223 | 4 |
-| 2023-09-05 | 196,246 | 4 |
+| 2023-09-05 | 196,252 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

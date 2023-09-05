@@ -2,13 +2,13 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 652,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5362,
+  "EOS_Progressed": 5363,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3275,6 +3275,11 @@
       "Time": "2023-09-05T01:45:58.7337872+00:00",
       "NumProgressed": 5362,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T13:10:51.5864246+00:00",
+      "NumProgressed": 5363,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3398,7 +3403,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "ach_campaign_progress6",
@@ -3542,7 +3547,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ach_campaign_special6",
@@ -3630,7 +3635,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ach_frp_high_networth",
@@ -3646,7 +3651,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -3893,15 +3898,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5362,
+      "Progressed": 5363,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-05T12:06:22.9355009+00:00",
+  "LastChanged_Achievements": "2023-09-05T13:10:51.5864242+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:47.7642869+00:00",
-  "LastUpdate_Ratings": "2023-09-05T12:00:11.105222+00:00",
-  "LastUpdate_Achievements": "2023-09-05T12:06:22.9356046+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:04:36.5358565+00:00",
+  "LastUpdate_Achievements": "2023-09-05T13:10:51.5865036+00:00"
 }

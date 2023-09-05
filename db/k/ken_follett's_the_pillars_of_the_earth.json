@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15030,
+  "EOS_Progressed": 15031,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9590,6 +9590,11 @@
       "Time": "2023-09-05T12:04:24.6357453+00:00",
       "NumProgressed": 15030,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-05T13:08:50.8734236+00:00",
+      "NumProgressed": 15031,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9681,7 +9686,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "tpote_achievement_2",
@@ -9753,7 +9758,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "tpote_achievement_28",
@@ -9793,7 +9798,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2705
+      "UsersEstimate": 2706
     },
     {
       "ID": "tpote_achievement_32",
@@ -9865,7 +9870,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6162
+      "UsersEstimate": 6163
     },
     {
       "ID": "tpote_achievement_40",
@@ -9921,22 +9926,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5260
+      "UsersEstimate": 5261
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15030,
+      "Progressed": 15031,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-05T12:04:24.6357446+00:00",
+  "LastChanged_Achievements": "2023-09-05T13:08:50.8734232+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-05T12:01:05.3484694+00:00",
-  "LastUpdate_Achievements": "2023-09-05T12:04:24.6358296+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:05:29.820222+00:00",
+  "LastUpdate_Achievements": "2023-09-05T13:08:50.8734945+00:00"
 }

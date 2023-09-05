@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62347,
+  "EOS_Progressed": 62349,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 0,
@@ -13537,6 +13537,11 @@
       "Time": "2023-09-05T11:04:42.1866498+00:00",
       "NumProgressed": 62347,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-05T13:09:30.5668952+00:00",
+      "NumProgressed": 62349,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13548,7 +13553,7 @@
       "Name": "Follow the Light",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24315
+      "UsersEstimate": 24316
     },
     {
       "ID": "02",
@@ -13556,7 +13561,7 @@
       "Name": "Nordic Walking",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14963
+      "UsersEstimate": 14964
     },
     {
       "ID": "03",
@@ -13564,7 +13569,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 14963
+      "UsersEstimate": 14964
     },
     {
       "ID": "04",
@@ -13796,7 +13801,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 18704
+      "UsersEstimate": 18705
     },
     {
       "ID": "33",
@@ -14020,7 +14025,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "61",
@@ -14083,21 +14088,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62347,
+      "Progressed": 62349,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25815,
+      "Progressed": 25817,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-05T12:05:04.2544384+00:00",
+  "LastChanged_Achievements": "2023-09-05T13:09:30.5668949+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-05T11:58:48.9369477+00:00",
-  "LastUpdate_Achievements": "2023-09-05T12:05:04.254586+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:03:14.4967171+00:00",
+  "LastUpdate_Achievements": "2023-09-05T13:09:30.5670095+00:00"
 }

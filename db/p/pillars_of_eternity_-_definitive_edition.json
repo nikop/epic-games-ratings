@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -2952,9 +2952,9 @@
       "Count": 185
     }
   ],
-  "EOS_Progressed": 1097,
+  "EOS_Progressed": 1098,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -3076,6 +3076,11 @@
     {
       "Time": "2023-09-04T16:03:34.4646955+00:00",
       "NumProgressed": 1097,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T13:08:30.677287+00:00",
+      "NumProgressed": 1098,
       "NumCompleted": 4
     }
   ],
@@ -3296,7 +3301,7 @@
       "Name": "Make an Adventurer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_28",
@@ -3304,7 +3309,7 @@
       "Name": "First 5 Levels of Od Nua",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_29",
@@ -3471,15 +3476,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1097,
+      "Progressed": 1098,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-09-04T11:57:59.7516949+00:00",
-  "LastChanged_Achievements": "2023-09-05T12:03:44.6195093+00:00",
+  "LastChanged_Achievements": "2023-09-05T13:08:30.6772865+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:55.3041581+00:00",
-  "LastUpdate_Ratings": "2023-09-05T11:58:39.8185048+00:00",
-  "LastUpdate_Achievements": "2023-09-05T12:03:44.619556+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:03:01.7928936+00:00",
+  "LastUpdate_Achievements": "2023-09-05T13:08:30.677328+00:00"
 }

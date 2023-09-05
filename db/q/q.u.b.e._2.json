@@ -2,10 +2,10 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 311,
+  "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 61,
@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 169,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1153,8 +1153,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-05T12:04:40.5407705+00:00",
+  "LastChanged_Achievements": "2023-09-05T13:09:06.2409629+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-05T11:58:29.9071697+00:00",
-  "LastUpdate_Achievements": "2023-09-05T12:04:40.5407958+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:02:52.1984674+00:00",
+  "LastUpdate_Achievements": "2023-09-05T13:09:06.2409829+00:00"
 }

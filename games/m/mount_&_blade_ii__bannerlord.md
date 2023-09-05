@@ -6,24 +6,24 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,941 |
-| Landlord | 32.00% | ~19,319 |
+| Lawbringer | 38.00% | ~22,942 |
+| Landlord | 32.00% | ~19,320 |
 | Bannerlord | 23.00% | ~13,886 |
 | Horde breaker | 23.00% | ~13,886 |
 | Lawmaker | 23.00% | ~13,886 |
 | Trained | 22.00% | ~13,282 |
 | The king is pleased | 18.00% | ~10,867 |
-| King Solomon | 17.00% | ~10,263 |
+| King Solomon | 17.00% | ~10,264 |
 | Apple of my eye | 15.00% | ~9,056 |
 | I can do it | 15.00% | ~9,056 |
-| God of the Arena | 13.00% | ~7,848 |
+| God of the Arena | 13.00% | ~7,849 |
 | Against all odds | 12.00% | ~7,245 |
 | This Is Our Land | 11.00% | ~6,641 |
 | Duelist | 10.00% | ~6,037 |
 | Swordbearer | 10.00% | ~6,037 |
-| Dynasty | 9.00% | ~5,433 |
-| I spit on your grave | 9.00% | ~5,433 |
-| What have the Romans ever done for us? | 9.00% | ~5,433 |
+| Dynasty | 9.00% | ~5,434 |
+| I spit on your grave | 9.00% | ~5,434 |
+| What have the Romans ever done for us? | 9.00% | ~5,434 |
 | Butterlord | 8.00% | ~4,830 |
 | Know your enemy | 7.00% | ~4,226 |
 | Mastery | 7.00% | ~4,226 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,372 (Ranked 88)  
+Progressed: 60,374 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,16 +196,16 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-02 | 60,199 | 0 |
 | 2023-09-03 | 60,288 | 0 |
 | 2023-09-04 | 60,348 | 0 |
-| 2023-09-05 | 60,372 | 0 |
+| 2023-09-05 | 60,374 | 0 |
 ## Awards
 Max (Character Customization): 7,029  (Ranked 50)  
-Sum: 14,295 (Ranked 68)  
+Sum: 14,299 (Ranked 68)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,029 |
 | This game is Great for Beginners | 938 |
-| This game has Diverse Characters | 904 |
+| This game has Diverse Characters | 908 |
 | This game is Highly Recommended | 853 |
 | This game is Extremely Fun | 820 |
 | This game has Amazing Storytelling | 806 |
@@ -451,4 +451,4 @@ Diff (max vs sum): -18
 | 2023-09-02 | 4.74 | - | 7,014 | 14,264 |
 | 2023-09-03 | 4.74 | - | 7,018 | 14,277 |
 | 2023-09-04 | 4.74 | - | 7,018 | 14,283 |
-| 2023-09-05 | 4.74 | - | 7,029 | 14,295 |
+| 2023-09-05 | 4.74 | - | 7,029 | 14,299 |

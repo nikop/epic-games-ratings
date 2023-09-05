@@ -4174,10 +4174,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8707,
       "NumberOfAwardsMax": 5902
+    },
+    {
+      "Time": "2023-09-05T13:04:04.7851809+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8711,
+      "NumberOfAwardsMax": 5902
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8707,
+  "NumberOfAwards": 8711,
   "NumberOfAwardsMax": 5902,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4191,7 +4197,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 387
+      "Count": 391
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4236,9 +4242,9 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 673901,
+  "EOS_Progressed": 673930,
   "EOS_Completed": 2115,
-  "EOS_NewPlayers": 5508,
+  "EOS_NewPlayers": 5489,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19636,6 +19642,11 @@
       "Time": "2023-09-05T12:06:08.641384+00:00",
       "NumProgressed": 673901,
       "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-09-05T13:10:36.0800147+00:00",
+      "NumProgressed": 673930,
+      "NumCompleted": 2115
     }
   ],
   "TotalAchievements": 45,
@@ -19671,7 +19682,7 @@
       "Name": "Anger Management",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -19695,7 +19706,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "ach_bookworm",
@@ -19727,7 +19738,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19743,7 +19754,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "ach_explorer",
@@ -19863,7 +19874,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "ach_magnum_opus",
@@ -19895,7 +19906,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "ach_salvation",
@@ -19959,7 +19970,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 4717
+      "UsersEstimate": 4718
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -20006,16 +20017,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673901,
+      "Progressed": 673930,
       "Completed": 2115
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-05T09:59:13.7335268+00:00",
-  "LastChanged_Achievements": "2023-09-05T12:06:08.6413833+00:00",
+  "LastChanged": "2023-09-05T13:04:04.7851808+00:00",
+  "LastChanged_Achievements": "2023-09-05T13:10:36.0800138+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-05T11:59:36.5568426+00:00",
-  "LastUpdate_Achievements": "2023-09-05T12:06:08.6415123+00:00"
+  "LastUpdate_Ratings": "2023-09-05T13:04:04.7851814+00:00",
+  "LastUpdate_Achievements": "2023-09-05T13:10:36.0801133+00:00"
 }

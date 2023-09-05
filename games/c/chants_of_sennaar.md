@@ -14,9 +14,9 @@
 | A new dawn | 14.00% | ~10 |
 | The darkness | 14.00% | ~10 |
 | One last step | 14.00% | ~10 |
-| Cable guy | 13.00% | ~9 |
-| A good beginning | 13.00% | ~9 |
-| True G4M3R | 13.00% | ~9 |
+| Cable guy | 12.00% | ~9 |
+| A good beginning | 12.00% | ~9 |
+| True G4M3R | 12.00% | ~9 |
 | I did it | 11.00% | ~8 |
 | Fashion victim | 11.00% | ~8 |
 | Feels like springtime | 10.00% | ~7 |
@@ -24,14 +24,14 @@
 | Peace walker | 7.00% | ~5 |
 | Half the way | 7.00% | ~5 |
 | Open door | 7.00% | ~5 |
-| Free at last | 6.00% | ~4 |
-| A great audience | 6.00% | ~4 |
-| For its own good | 6.00% | ~4 |
-| A Link to the Past | 6.00% | ~4 |
-| Alchemists Express | 6.00% | ~4 |
+| Free at last | 5.00% | ~4 |
+| A great audience | 5.00% | ~4 |
+| For its own good | 5.00% | ~4 |
+| A Link to the Past | 5.00% | ~4 |
+| Alchemists Express | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 366)  
-Completed: 4 (5.56%) (Ranked 48)  
+Progressed: 73 (Ranked 365)  
+Completed: 4 (5.48%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,4 +78,4 @@ Completed: 4 (5.56%) (Ranked 48)
 | 2023-09-02 | 68 | 4 |
 | 2023-09-03 | 69 | 4 |
 | 2023-09-04 | 70 | 4 |
-| 2023-09-05 | 72 | 4 |
+| 2023-09-05 | 73 | 4 |

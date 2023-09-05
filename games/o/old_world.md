@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.80% | ~110 |
 | Industrial Progress | 0.80% | ~110 |
 | Military Prestige | 0.80% | ~110 |
+| Gnosticism | 0.80% | ~110 |
 | Veneration | 0.80% | ~110 |
 | Cimmerian Archer | 0.80% | ~110 |
 | Ambition Victory | 0.80% | ~110 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.70% | ~96 |
 | Carthage | 0.70% | ~96 |
 | Enlightenment | 0.70% | ~96 |
-| Gnosticism | 0.70% | ~96 |
 | Revelation | 0.70% | ~96 |
 | Kushite Cavalry | 0.70% | ~96 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
@@ -444,14 +444,14 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-05 | 13,784 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
-Sum: 1,803 (Ranked 207)  
+Sum: 1,804 (Ranked 207)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 221 |
 | This game has Diverse Characters | 208 |
+| This game is Highly Recommended | 208 |
 | This game is Extremely Fun | 207 |
-| This game is Highly Recommended | 207 |
 | This game is Educational | 203 |
 | This game has Challenging Combat | 195 |
 | This game has Quickly Understood Controls | 189 |
@@ -586,3 +586,4 @@ Diff (max vs sum): 57
 | 2023-09-02 | 4.65 | - | 220 | 1,801 |
 | 2023-09-03 | 4.65 | - | 221 | 1,802 |
 | 2023-09-04 | 4.65 | - | 221 | 1,803 |
+| 2023-09-05 | 4.65 | - | 221 | 1,804 |
