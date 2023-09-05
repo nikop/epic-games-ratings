@@ -5,37 +5,37 @@ Rating: 4.77 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,257 |
-| First Class Student | 12.00% | ~35,363 |
-| Troll with the Punches | 12.00% | ~35,363 |
-| A Keen Sense of Spell | 11.00% | ~32,416 |
-| That's a Keeper | 11.00% | ~32,416 |
-| Grappling with a Graphorn | 10.00% | ~29,469 |
-| The One Who Mastered Memories | 10.00% | ~29,469 |
-| The Hallowed Hero | 10.00% | ~29,469 |
-| The Defender of Dragons | 10.00% | ~29,469 |
-| Loom for Improvement | 10.00% | ~29,469 |
-| A Talent for Spending | 10.00% | ~29,469 |
-| Coasting Along | 10.00% | ~29,469 |
-| The Hero of Hogwarts | 9.00% | ~26,522 |
-| Challenge Accepted | 9.00% | ~26,522 |
-| Followed the Butterflies | 8.00% | ~23,575 |
-| The Spell Master | 8.00% | ~23,575 |
-| Rising From the Ashes | 8.00% | ~23,575 |
-| The Avenging Gazelle | 7.00% | ~20,629 |
-| Beast Friends | 7.00% | ~20,629 |
-| A Sallow Grave | 7.00% | ~20,629 |
-| Flight the Good Flight | 7.00% | ~20,629 |
-| The Seeker of Knowledge | 5.00% | ~14,735 |
-| The Root of the Problem | 5.00% | ~14,735 |
-| Third Time's a Charm | 5.00% | ~14,735 |
-| Raising Expectations | 5.00% | ~14,735 |
-| The Toast of the Town | 4.00% | ~11,788 |
-| Going Through the Potions | 4.00% | ~11,788 |
-| Room with a View | 4.00% | ~11,788 |
-| The Intrepid Explorer | 4.00% | ~11,788 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,788 |
-| The Ends Petrify the Means | 4.00% | ~11,788 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,260 |
+| First Class Student | 12.00% | ~35,366 |
+| Troll with the Punches | 12.00% | ~35,366 |
+| A Keen Sense of Spell | 11.00% | ~32,418 |
+| That's a Keeper | 11.00% | ~32,418 |
+| Grappling with a Graphorn | 10.00% | ~29,471 |
+| The One Who Mastered Memories | 10.00% | ~29,471 |
+| The Hallowed Hero | 10.00% | ~29,471 |
+| The Defender of Dragons | 10.00% | ~29,471 |
+| Loom for Improvement | 10.00% | ~29,471 |
+| A Talent for Spending | 10.00% | ~29,471 |
+| Coasting Along | 10.00% | ~29,471 |
+| The Hero of Hogwarts | 9.00% | ~26,524 |
+| Challenge Accepted | 9.00% | ~26,524 |
+| Followed the Butterflies | 8.00% | ~23,577 |
+| The Spell Master | 8.00% | ~23,577 |
+| Rising From the Ashes | 8.00% | ~23,577 |
+| The Avenging Gazelle | 7.00% | ~20,630 |
+| Beast Friends | 7.00% | ~20,630 |
+| A Sallow Grave | 7.00% | ~20,630 |
+| Flight the Good Flight | 7.00% | ~20,630 |
+| The Seeker of Knowledge | 5.00% | ~14,736 |
+| The Root of the Problem | 5.00% | ~14,736 |
+| Third Time's a Charm | 5.00% | ~14,736 |
+| Raising Expectations | 5.00% | ~14,736 |
+| The Toast of the Town | 4.00% | ~11,789 |
+| Going Through the Potions | 4.00% | ~11,789 |
+| Room with a View | 4.00% | ~11,789 |
+| The Intrepid Explorer | 4.00% | ~11,789 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,789 |
+| The Ends Petrify the Means | 4.00% | ~11,789 |
 | Floo Around the World | 3.00% | ~8,841 |
 | The Wise Owl | 3.00% | ~8,841 |
 | The Good Samaritan | 2.00% | ~5,894 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,768 |
 | Collector's Edition | 0.30% | ~884 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294,693 (Ranked 43)  
+Progressed: 294,713 (Ranked 43)  
 Completed: 464 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,14 +189,14 @@ Completed: 464 (0.16%) (Ranked 200)
 | 2023-09-02 | 292,828 | 462 |
 | 2023-09-03 | 293,795 | 463 |
 | 2023-09-04 | 294,412 | 464 |
-| 2023-09-05 | 294,693 | 464 |
+| 2023-09-05 | 294,713 | 464 |
 ## Awards
-Max (Character Customization): 22,202  (Ranked 17)  
-Sum: 42,229 (Ranked 30)  
+Max (Character Customization): 22,241  (Ranked 17)  
+Sum: 42,268 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 22,202 |
+| This game has Inclusive Character Customization | 22,241 |
 | This game has Great Boss Battles | 10,847 |
 | This game is Great for Beginners | 1,026 |
 | This game is Extremely Fun | 992 |
@@ -376,4 +376,4 @@ Diff (max vs sum): -13
 | 2023-09-02 | 4.77 | 22,116 | 41,983 |
 | 2023-09-03 | 4.77 | 22,157 | 42,090 |
 | 2023-09-04 | 4.77 | 22,202 | 42,205 |
-| 2023-09-05 | 4.77 | 22,202 | 42,229 |
+| 2023-09-05 | 4.77 | 22,241 | 42,268 |

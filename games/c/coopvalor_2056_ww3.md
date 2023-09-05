@@ -1,3 +1,3 @@
 # CoopValor 2056: Ukraine WW3
-[Store](https://store.epicgames.com/en-US/p/coopvalor-wwii-718385)  
+[Store](https://store.epicgames.com/en-US/p/coopvalor-2056-ukraine-ww3-718385)  
 [View Rawdata](../../db/c/coopvalor_2056_ww3.json)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526745,
+  "EOS_Progressed": 526747,
   "EOS_Completed": 469,
   "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 2,
@@ -15219,6 +15219,11 @@
       "Time": "2023-09-05T15:04:57.7762096+00:00",
       "NumProgressed": 526745,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-09-05T16:04:31.7327989+00:00",
+      "NumProgressed": 526747,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 57,
@@ -15230,7 +15235,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 121151
+      "UsersEstimate": 121152
     },
     {
       "ID": "10",
@@ -15238,7 +15243,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237035
+      "UsersEstimate": 237036
     },
     {
       "ID": "11",
@@ -15246,7 +15251,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368722
+      "UsersEstimate": 368723
     },
     {
       "ID": "12",
@@ -15278,7 +15283,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 52674
+      "UsersEstimate": 52675
     },
     {
       "ID": "16",
@@ -15310,7 +15315,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326582
+      "UsersEstimate": 326583
     },
     {
       "ID": "2",
@@ -15318,7 +15323,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 52674
+      "UsersEstimate": 52675
     },
     {
       "ID": "20",
@@ -15454,7 +15459,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263372
+      "UsersEstimate": 263374
     },
     {
       "ID": "36",
@@ -15462,7 +15467,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84279
+      "UsersEstimate": 84280
     },
     {
       "ID": "37",
@@ -15486,7 +15491,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179093
+      "UsersEstimate": 179094
     },
     {
       "ID": "4",
@@ -15558,7 +15563,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326582
+      "UsersEstimate": 326583
     },
     {
       "ID": "48",
@@ -15574,7 +15579,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179093
+      "UsersEstimate": 179094
     },
     {
       "ID": "5",
@@ -15590,7 +15595,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 73744
+      "UsersEstimate": 73745
     },
     {
       "ID": "51",
@@ -15606,7 +15611,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242303
+      "UsersEstimate": 242304
     },
     {
       "ID": "53",
@@ -15614,7 +15619,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121151
+      "UsersEstimate": 121152
     },
     {
       "ID": "54",
@@ -15685,15 +15690,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526745,
+      "Progressed": 526747,
       "Completed": 469
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:04:57.7762091+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:04:31.7327985+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.8959885+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:58:30.7727544+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:04:57.7763218+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:58:20.8750901+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:04:31.732912+00:00"
 }

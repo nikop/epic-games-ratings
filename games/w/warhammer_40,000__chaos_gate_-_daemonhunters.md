@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,176 (Ranked 159)  
+Progressed: 3,176 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,15 +206,15 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-03 | 3,176 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 266)  
-Sum: 473 (Ranked 305)  
+Sum: 474 (Ranked 305)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 220 |
 | This game is Extremely Fun | 32 |
+| This game has Amazing Storytelling | 31 |
 | This game has Amazing Characters | 31 |
 | This game is Highly Recommended | 31 |
-| This game has Amazing Storytelling | 30 |
 | This game has Challenging Combat | 29 |
 | This game has Diverse Characters | 28 |
 | This game has Competitive Players | 28 |
@@ -326,3 +326,4 @@ Diff (max vs sum): -39
 | 2023-08-21 | 4.58 | - | 219 | 471 |
 | 2023-08-22 | 4.58 | - | 220 | 472 |
 | 2023-08-23 | 4.58 | - | 220 | 473 |
+| 2023-09-05 | 4.58 | - | 220 | 474 |

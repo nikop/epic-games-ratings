@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 365,
+  "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.48,
+  "EOS_Completed_Percentage": 5.41,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -387,6 +387,11 @@
       "Time": "2023-09-05T13:09:39.7255622+00:00",
       "NumProgressed": 73,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T16:04:53.6268206+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -460,7 +465,7 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -597,13 +602,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:05:23.8353947+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:04:53.62682+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:00:25.3679582+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:05:23.8354125+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:59:55.3285366+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:04:53.6268401+00:00"
 }

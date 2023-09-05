@@ -6,13 +6,13 @@ Rating: 4.54 (Ranked 505)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break A Leg | 1.00% | ~6,740 |
+| Coup de Grâce | 1.00% | ~6,740 |
 | Hazardous Materials | 1.00% | ~6,740 |
 | Hotel California | 1.00% | ~6,740 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,740 |
 | Welcome To Hell-A | 1.00% | ~6,740 |
 | Dr. Reed, I Presume? | 0.90% | ~6,066 |
 | Git Gutte! | 0.90% | ~6,066 |
-| Coup de Grâce | 0.90% | ~6,066 |
 | Friends Like These | 0.90% | ~6,066 |
 | Apex Predator | 0.90% | ~6,066 |
 | Stacking the Deck | 0.90% | ~6,066 |
@@ -24,12 +24,12 @@ Rating: 4.54 (Ranked 505)
 | A Patton Emerges | 0.80% | ~5,392 |
 | This is My Weapon | 0.80% | ~5,392 |
 | Slayer Squad | 0.70% | ~4,718 |
+| Ooh, Shiny! | 0.70% | ~4,718 |
 | I Am the Resurrection | 0.70% | ~4,718 |
 | Our True Nature | 0.70% | ~4,718 |
 | Anger Management | 0.60% | ~4,044 |
 | Perks of the Job | 0.60% | ~4,044 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,044 |
-| Ooh, Shiny! | 0.60% | ~4,044 |
 | Making Your Mark | 0.50% | ~3,370 |
 | Humanity Distilled | 0.50% | ~3,370 |
 | Down with the Sickness | 0.50% | ~3,370 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,001 (Ranked 22)  
+Progressed: 674,031 (Ranked 22)  
 Completed: 2,117 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,10 +189,10 @@ Completed: 2,117 (0.31%) (Ranked 176)
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
-| 2023-09-05 | 674,001 | 2,117 |
+| 2023-09-05 | 674,031 | 2,117 |
 ## Awards
 Max (Great Boss Battles): 5,902  (Ranked 59)  
-Sum: 8,712 (Ranked 95)  
+Sum: 8,719 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -200,11 +200,11 @@ Diff (max vs sum): -36
 | This game is Great for Beginners | 398 |
 | This game has Diverse Characters | 391 |
 | This game has Quickly Understood Controls | 383 |
-| This game is Relaxing | 363 |
+| This game is Relaxing | 367 |
 | This game has Amazing Storytelling | 339 |
-| This game is Extremely Fun | 318 |
+| This game is Extremely Fun | 320 |
 | This game has Amazing Characters | 310 |
-| This game is Highly Recommended | 308 |
+| This game is Highly Recommended | 309 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -345,4 +345,4 @@ Diff (max vs sum): -36
 | 2023-09-02 | 4.54 | 5,867 | 8,645 |
 | 2023-09-03 | 4.54 | 5,889 | 8,684 |
 | 2023-09-04 | 4.54 | 5,902 | 8,698 |
-| 2023-09-05 | 4.54 | 5,902 | 8,712 |
+| 2023-09-05 | 4.54 | 5,902 | 8,719 |

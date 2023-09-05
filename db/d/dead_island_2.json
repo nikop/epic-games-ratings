@@ -4186,10 +4186,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8712,
       "NumberOfAwardsMax": 5902
+    },
+    {
+      "Time": "2023-09-05T15:59:16.2472769+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8719,
+      "NumberOfAwardsMax": 5902
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8712,
+  "NumberOfAwards": 8719,
   "NumberOfAwardsMax": 5902,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4221,7 +4227,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 308
+      "Count": 309
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4233,13 +4239,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 318
+      "Count": 320
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 363
+      "Count": 367
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4248,9 +4254,9 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 674001,
+  "EOS_Progressed": 674031,
   "EOS_Completed": 2117,
-  "EOS_NewPlayers": 5472,
+  "EOS_NewPlayers": 5452,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19663,6 +19669,11 @@
       "Time": "2023-09-05T15:06:32.8048937+00:00",
       "NumProgressed": 674001,
       "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-09-05T16:05:52.5993117+00:00",
+      "NumProgressed": 674031,
+      "NumCompleted": 2117
     }
   ],
   "TotalAchievements": 45,
@@ -19792,9 +19803,9 @@
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6066
+      "UsersEstimate": 6740
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -19888,9 +19899,9 @@
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4044
+      "UsersEstimate": 4718
     },
     {
       "ID": "ach_magnum_opus",
@@ -20033,16 +20044,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674001,
+      "Progressed": 674031,
       "Completed": 2117
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-05T13:59:51.1374338+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:06:32.8048932+00:00",
+  "LastChanged": "2023-09-05T15:59:16.2472768+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:05:52.5993112+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:59:38.1409948+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:06:32.8049929+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:59:16.2472775+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:05:52.5994154+00:00"
 }

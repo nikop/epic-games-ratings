@@ -6,7 +6,7 @@
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 191,
-  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
@@ -964,11 +964,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1394,
+  "EOS_Progressed": 1402,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1389,
+  "EOS_NewPlayers": 1397,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.22,
+  "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1704,6 +1704,11 @@
       "Time": "2023-09-05T15:03:27.3005277+00:00",
       "NumProgressed": 1394,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-05T16:03:14.1725333+00:00",
+      "NumProgressed": 1402,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1716,7 +1721,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "a_10",
@@ -1746,9 +1751,9 @@
       "ID": "a_15",
       "SetID": "daiie3o",
       "Name": "Big Money",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 28
     },
     {
       "ID": "a_16",
@@ -1764,7 +1769,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 460
+      "UsersEstimate": 463
     },
     {
       "ID": "a_19",
@@ -1963,7 +1968,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1394,
+      "Progressed": 1402,
       "Completed": 3
     }
   ],
@@ -1971,8 +1976,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:03:27.3005267+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:03:14.1725328+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:58:48.1138744+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:03:27.3005543+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:58:34.2982722+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:03:14.1725587+00:00"
 }

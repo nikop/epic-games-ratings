@@ -16,7 +16,7 @@
 | Employee of the week | 76.00% | ~241 |
 | Your own amateur gym | 74.00% | ~235 |
 | First defeat | 73.00% | ~231 |
-| Run K, run! | 72.00% | ~228 |
+| Run K, run! | 73.00% | ~231 |
 | Fighting is cool | 69.00% | ~219 |
 | Hello, world! | 69.00% | ~219 |
 | No bullying more | 68.00% | ~216 |
@@ -40,16 +40,16 @@
 | Fight is life | 46.00% | ~146 |
 | Mysterious voice | 46.00% | ~146 |
 | Guiding on the right path | 46.00% | ~146 |
-| No blades in the gym | 44.00% | ~139 |
+| No blades in the gym | 45.00% | ~143 |
 | Champion – no way back | 42.00% | ~133 |
 | Responsible approach | 42.00% | ~133 |
 | Deal with life | 40.00% | ~127 |
 | Underground dwellers | 40.00% | ~127 |
 | Mom got better | 39.00% | ~124 |
+| Get out of my apartment! | 39.00% | ~124 |
 | The die is cast | 39.00% | ~124 |
 | GYM professional | 38.00% | ~120 |
 | Poisoned fighter | 38.00% | ~120 |
-| Get out of my apartment! | 38.00% | ~120 |
 | Seashell hunter | 36.00% | ~114 |
 | Your own way | 36.00% | ~114 |
 | Gang wrangler | 35.00% | ~111 |
@@ -57,6 +57,7 @@
 | Problems of cyborgs | 33.00% | ~105 |
 | Absolute Champion! | 33.00% | ~105 |
 | Not little hacker | 32.00% | ~101 |
+| The last bell ring | 32.00% | ~101 |
 | Careerist | 32.00% | ~101 |
 | Anyone can resist | 32.00% | ~101 |
 | Trap disarmed | 31.00% | ~98 |
@@ -64,7 +65,6 @@
 | Keep nature safe | 31.00% | ~98 |
 | Family comes first | 31.00% | ~98 |
 | Key memories | 31.00% | ~98 |
-| The last bell ring | 31.00% | ~98 |
 | The heart of the Resistance | 31.00% | ~98 |
 | Another world | 30.00% | ~95 |
 | Better cooking at home | 28.00% | ~89 |

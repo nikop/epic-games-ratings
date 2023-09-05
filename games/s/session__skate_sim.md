@@ -10,10 +10,10 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 27.00% | ~749 |
 | Welcome to the family | 21.00% | ~583 |
 | The finer things in life | 19.00% | ~527 |
-| Backpacker | 14.00% | ~388 |
+| Backpacker | 14.00% | ~389 |
 | Go with the Flow | 13.00% | ~361 |
-| Plastic Surgeon | 10.00% | ~277 |
-| The flip trick crown jewel | 10.00% | ~277 |
+| Plastic Surgeon | 10.00% | ~278 |
+| The flip trick crown jewel | 10.00% | ~278 |
 | Good vibes | 9.00% | ~250 |
 | Keep the dream alive | 9.00% | ~250 |
 | The hard way | 9.00% | ~250 |
@@ -44,8 +44,8 @@ Number of Ratings: 111  (23.09.2022)
 | We get it, you're good | 4.00% | ~111 |
 | Hoarder | 3.00% | ~83 |
 | Pew-Pew | 3.00% | ~83 |
-| Cross lock country | 2.00% | ~55 |
-| Many plys later... | 2.00% | ~55 |
+| Cross lock country | 2.00% | ~56 |
+| Many plys later... | 2.00% | ~56 |
 | Dipped! | 1.00% | ~28 |
 | That was wheelie fun | 1.00% | ~28 |
 | Skatepark hero | 0.90% | ~25 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,774 (Ranked 167)  
+Progressed: 2,775 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,11 +183,11 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-01 | 2,768 | 0 |
 | 2023-09-03 | 2,772 | 0 |
 | 2023-09-04 | 2,773 | 0 |
-| 2023-09-05 | 2,774 | 0 |
+| 2023-09-05 | 2,775 | 0 |
 ## Awards
-Max (Highly Recommended): 53  (Ranked 397)  
+Max (Highly Recommended): 53  (Ranked 398)  
 Sum: 456 (Ranked 311)  
-Diff (max vs sum): 86  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 53 |

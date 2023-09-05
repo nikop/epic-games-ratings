@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 200783,
+  "EOS_Progressed": 200786,
   "EOS_Completed": 495,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -15118,6 +15118,11 @@
       "Time": "2023-09-05T15:07:57.0261003+00:00",
       "NumProgressed": 200783,
       "NumCompleted": 495
+    },
+    {
+      "Time": "2023-09-05T16:07:15.0235827+00:00",
+      "NumProgressed": 200786,
+      "NumCompleted": 495
     }
   ],
   "TotalAchievements": 29,
@@ -15153,7 +15158,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 188736
+      "UsersEstimate": 188739
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -15161,7 +15166,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -15201,7 +15206,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6023
+      "UsersEstimate": 6024
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -15225,7 +15230,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -15297,7 +15302,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6023
+      "UsersEstimate": 6024
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -15313,7 +15318,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20078
+      "UsersEstimate": 20079
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -15360,7 +15365,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 200783,
+      "Progressed": 200786,
       "Completed": 495
     }
   ],
@@ -15368,8 +15373,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:07:57.0260999+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:07:15.0235821+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:45.3607771+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:00:16.884852+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:07:57.0261848+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:59:48.7572387+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:07:15.0236689+00:00"
 }

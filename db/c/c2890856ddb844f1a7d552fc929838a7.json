@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1144,9 +1144,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 434
     },
     {
       "ID": "AC05",
@@ -1272,9 +1272,9 @@
       "ID": "AC20",
       "SetID": "l4abp0",
       "Name": "Still Among Us",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 91
     },
     {
       "ID": "AC21",
@@ -1328,9 +1328,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 119
     },
     {
       "ID": "AC28",
@@ -1368,17 +1368,17 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 196
     },
     {
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 336
     },
     {
       "ID": "AC34",
@@ -1448,9 +1448,9 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 119
     },
     {
       "ID": "AC43",
@@ -1489,8 +1489,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-04T03:01:40.031195+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:03:24.3805374+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:03:11.9542115+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:57:36.5456356+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:03:24.3806267+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:57:34.0842787+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:03:11.9542509+00:00"
 }

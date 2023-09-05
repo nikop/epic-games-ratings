@@ -19,7 +19,7 @@
 | True G4M3R | 12.00% | ~9 |
 | I did it | 11.00% | ~8 |
 | Fashion victim | 11.00% | ~8 |
-| Feels like springtime | 10.00% | ~7 |
+| Feels like springtime | 9.00% | ~7 |
 | In this together | 8.00% | ~6 |
 | Peace walker | 7.00% | ~5 |
 | Half the way | 7.00% | ~5 |
@@ -30,8 +30,8 @@
 | A Link to the Past | 5.00% | ~4 |
 | Alchemists Express | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 365)  
-Completed: 4 (5.48%) (Ranked 48)  
+Progressed: 74 (Ranked 364)  
+Completed: 4 (5.41%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,4 +78,4 @@ Completed: 4 (5.48%) (Ranked 48)
 | 2023-09-02 | 68 | 4 |
 | 2023-09-03 | 69 | 4 |
 | 2023-09-04 | 70 | 4 |
-| 2023-09-05 | 73 | 4 |
+| 2023-09-05 | 74 | 4 |

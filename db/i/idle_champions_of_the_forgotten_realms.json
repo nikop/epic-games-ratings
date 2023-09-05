@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6382,10 +6382,10 @@
       "Count": 3399
     }
   ],
-  "EOS_Progressed": 227266,
+  "EOS_Progressed": 227283,
   "EOS_Completed": 2251,
-  "EOS_NewPlayers": 1336,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 1338,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -21602,6 +21602,11 @@
       "Time": "2023-09-05T15:06:25.4647054+00:00",
       "NumProgressed": 227266,
       "NumCompleted": 2251
+    },
+    {
+      "Time": "2023-09-05T16:05:46.5737529+00:00",
+      "NumProgressed": 227283,
+      "NumCompleted": 2251
     }
   ],
   "TotalAchievements": 520,
@@ -23747,9 +23752,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_completed_54",
@@ -25772,21 +25777,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193540,
+      "Progressed": 193557,
       "Completed": 3398
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227266,
+      "Progressed": 227283,
       "Completed": 2251
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-05T09:58:46.6061409+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:06:25.4647048+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:05:46.5737525+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:59:03.0648266+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:06:25.4672056+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:58:47.056609+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:05:46.5767728+00:00"
 }

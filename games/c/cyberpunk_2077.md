@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~603,557 |
-| Right Back At Ya | 39.00% | ~341,141 |
-| The Lovers | 35.00% | ~306,152 |
-| Stanislavski's Method | 29.00% | ~253,669 |
-| The Wheel of Fortune | 27.00% | ~236,174 |
-| The Hermit | 25.00% | ~218,680 |
-| Christmas Tree Attack | 23.00% | ~201,186 |
-| True Soldier | 23.00% | ~201,186 |
-| The High Priestess | 22.00% | ~192,438 |
-| Legend of The Afterlife | 22.00% | ~192,438 |
-| Life of the Road | 21.00% | ~183,691 |
-| Full Body Conversion | 18.00% | ~157,450 |
-| The World | 18.00% | ~157,450 |
-| Bushido and Chill | 17.00% | ~148,702 |
-| Gun Fu | 15.00% | ~131,208 |
-| True Warrior | 15.00% | ~131,208 |
-| To Protect and Serve | 14.00% | ~122,461 |
-| Master Crafter | 14.00% | ~122,461 |
-| I Am The Law | 14.00% | ~122,461 |
-| Judy vs Night City | 14.00% | ~122,461 |
-| Two Heads, One Bullet | 12.00% | ~104,966 |
-| The Wandering Fool | 10.00% | ~87,472 |
-| The Quick and the Dead | 10.00% | ~87,472 |
+| The Fool | 69.00% | ~603,562 |
+| Right Back At Ya | 39.00% | ~341,144 |
+| The Lovers | 35.00% | ~306,154 |
+| Stanislavski's Method | 29.00% | ~253,671 |
+| The Wheel of Fortune | 27.00% | ~236,176 |
+| The Hermit | 25.00% | ~218,682 |
+| Christmas Tree Attack | 23.00% | ~201,187 |
+| True Soldier | 23.00% | ~201,187 |
+| The High Priestess | 22.00% | ~192,440 |
+| Legend of The Afterlife | 22.00% | ~192,440 |
+| Life of the Road | 21.00% | ~183,693 |
+| Full Body Conversion | 18.00% | ~157,451 |
+| The World | 18.00% | ~157,451 |
+| Bushido and Chill | 17.00% | ~148,704 |
+| Gun Fu | 15.00% | ~131,209 |
+| True Warrior | 15.00% | ~131,209 |
+| To Protect and Serve | 14.00% | ~122,462 |
+| Master Crafter | 14.00% | ~122,462 |
+| I Am The Law | 14.00% | ~122,462 |
+| Judy vs Night City | 14.00% | ~122,462 |
+| Two Heads, One Bullet | 12.00% | ~104,967 |
+| The Wandering Fool | 10.00% | ~87,473 |
+| The Quick and the Dead | 10.00% | ~87,473 |
 | Ten out of Ten | 9.00% | ~78,725 |
 | Breathtaking | 8.00% | ~69,978 |
-| To Bad Decisions! | 7.00% | ~61,230 |
-| The Star | 7.00% | ~61,230 |
-| The Sun | 7.00% | ~61,230 |
+| To Bad Decisions! | 7.00% | ~61,231 |
+| The Star | 7.00% | ~61,231 |
+| The Sun | 7.00% | ~61,231 |
 | Must Be Rats | 4.00% | ~34,989 |
 | Temperance | 4.00% | ~34,989 |
 | City Lights | 3.00% | ~26,242 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,242 |
 | V for Vendetta | 3.00% | ~26,242 |
 | It's Elementary | 3.00% | ~26,242 |
-| Autojock | 2.00% | ~17,494 |
-| Frequent Flyer | 2.00% | ~17,494 |
-| Daemon In The Shell | 2.00% | ~17,494 |
-| The Devil | 2.00% | ~17,494 |
+| Autojock | 2.00% | ~17,495 |
+| Frequent Flyer | 2.00% | ~17,495 |
+| Daemon In The Shell | 2.00% | ~17,495 |
+| The Devil | 2.00% | ~17,495 |
 | Gunslinger | 1.00% | ~8,747 |
 | Rough Landing | 0.50% | ~4,374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 874,720 (Ranked 14)  
+Progressed: 874,727 (Ranked 14)  
 Completed: 2,061 (0.24%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,21 +189,21 @@ Completed: 2,061 (0.24%) (Ranked 187)
 | 2023-09-02 | 874,217 | 2,052 |
 | 2023-09-03 | 874,445 | 2,057 |
 | 2023-09-04 | 874,617 | 2,059 |
-| 2023-09-05 | 874,720 | 2,061 |
+| 2023-09-05 | 874,727 | 2,061 |
 ## Awards
 Max (Character Customization): 77,523  (Ranked 9)  
-Sum: 206,051 (Ranked 13)  
+Sum: 206,117 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 77,523 |
 | This game has Great Boss Battles | 50,286 |
+| This game has Diverse Characters | 9,256 |
 | This game is Great for Beginners | 9,254 |
-| This game has Diverse Characters | 9,225 |
 | This game has Amazing Storytelling | 9,207 |
 | This game is Highly Recommended | 9,054 |
-| This game is Extremely Fun | 9,026 |
-| This game is Relaxing | 8,940 |
+| This game is Extremely Fun | 9,049 |
+| This game is Relaxing | 8,952 |
 | This game has Amazing Characters | 8,880 |
 | This game has Quickly Understood Controls | 8,851 |
 | This game has a Creative Community | 5,805 |
@@ -439,4 +439,4 @@ Diff (max vs sum): -4
 | 2023-09-02 | 4.62 | - | 77,130 | 204,856 |
 | 2023-09-03 | 4.62 | - | 77,270 | 205,378 |
 | 2023-09-04 | 4.62 | - | 77,413 | 205,807 |
-| 2023-09-05 | 4.62 | - | 77,523 | 206,051 |
+| 2023-09-05 | 4.62 | - | 77,523 | 206,117 |

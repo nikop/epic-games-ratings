@@ -17,9 +17,9 @@ Number of Ratings: 368  (23.09.2022)
 | Full house | 24.00% | ~3,609 |
 | Help an old friend | 22.00% | ~3,308 |
 | Two of us | 20.00% | ~3,007 |
-| Negotiation skills | 18.00% | ~2,706 |
-| Workers' union | 18.00% | ~2,706 |
-| End of Book Two | 18.00% | ~2,706 |
+| Negotiation skills | 18.00% | ~2,707 |
+| Workers' union | 18.00% | ~2,707 |
+| End of Book Two | 18.00% | ~2,707 |
 | Everything's in order | 17.00% | ~2,556 |
 | Twist of Fate | 14.00% | ~2,105 |
 | Jack was here! | 14.00% | ~2,105 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~451 |
 | Boy of mystery | 2.00% | ~301 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,036 (Ranked 119)  
+Progressed: 15,037 (Ranked 119)  
 Completed: 110 (0.73%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 110 (0.73%) (Ranked 132)
 | 2023-09-02 | 14,982 | 110 |
 | 2023-09-03 | 15,003 | 110 |
 | 2023-09-04 | 15,019 | 110 |
-| 2023-09-05 | 15,036 | 110 |
+| 2023-09-05 | 15,037 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 301)  
 Sum: 188 (Ranked 377)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84737,
+  "EOS_Progressed": 84744,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 733,
+  "EOS_NewPlayers": 734,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -15580,6 +15580,11 @@
       "Time": "2023-09-05T15:07:03.4920543+00:00",
       "NumProgressed": 84737,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-09-05T16:06:18.4289519+00:00",
+      "NumProgressed": 84744,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 10,
@@ -15655,7 +15660,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29658
+      "UsersEstimate": 29660
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -15663,22 +15668,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9321
+      "UsersEstimate": 9322
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 84737,
+      "Progressed": 84744,
       "Completed": 392
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:07:03.4920538+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:06:18.4289514+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.5204272+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:57:15.6254928+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:07:03.4921304+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:57:16.3316365+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:06:18.4290332+00:00"
 }

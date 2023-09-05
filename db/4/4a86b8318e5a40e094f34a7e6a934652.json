@@ -369,9 +369,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "BRING_MARY",
@@ -409,9 +409,9 @@
       "ID": "EAT_AN_ENERGY_BAR",
       "SetID": "aniflfk",
       "Name": "Energy Boost",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -481,9 +481,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -528,8 +528,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:03:48.9568597+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:03:31.9477789+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:57:57.4865961+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:03:48.956874+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:57:53.3211454+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:03:31.947791+00:00"
 }

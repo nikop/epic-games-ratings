@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17874,
+  "EOS_Progressed": 17875,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9748,6 +9748,11 @@
       "Time": "2023-09-05T15:03:52.4421174+00:00",
       "NumProgressed": 17874,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T16:03:34.8859091+00:00",
+      "NumProgressed": 17875,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9759,7 +9764,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5183
+      "UsersEstimate": 5184
     },
     {
       "ID": "0002",
@@ -9791,7 +9796,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "0006",
@@ -9807,7 +9812,7 @@
       "Name": "Masteries Are Forever",
       "Percentage": 0.4,
       "XP": 115,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "0008",
@@ -9815,7 +9820,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3217
+      "UsersEstimate": 3218
     },
     {
       "ID": "0009",
@@ -9855,7 +9860,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "0014",
@@ -9919,7 +9924,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "0022",
@@ -9927,7 +9932,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "0023",
@@ -9951,7 +9956,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3217
+      "UsersEstimate": 3218
     },
     {
       "ID": "0026",
@@ -9991,7 +9996,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3217
+      "UsersEstimate": 3218
     },
     {
       "ID": "0031",
@@ -10046,7 +10051,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17874,
+      "Progressed": 17875,
       "Completed": 1
     }
   ],
@@ -10054,8 +10059,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-05T15:03:52.4421168+00:00",
+  "LastChanged_Achievements": "2023-09-05T16:03:34.8859086+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-05T15:01:07.3715881+00:00",
-  "LastUpdate_Achievements": "2023-09-05T15:03:52.4421833+00:00"
+  "LastUpdate_Ratings": "2023-09-05T16:00:33.7686202+00:00",
+  "LastUpdate_Achievements": "2023-09-05T16:03:34.8859745+00:00"
 }
