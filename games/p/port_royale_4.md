@@ -48,17 +48,17 @@ Number of Ratings: 53  (23.09.2022)
 | Master & Commander | 2.00% | ~17 |
 | All aboard! | 2.00% | ~17 |
 | Gold fever | 2.00% | ~17 |
-| Fill it up, please! | 1.00% | ~9 |
+| Fill it up, please! | 2.00% | ~17 |
 | Administrator | 0.80% | ~7 |
 | Raiders of the Lost Ark | 0.80% | ~7 |
 | Traffic chaos | 0.80% | ~7 |
+| Parlay? | 0.80% | ~7 |
 | Capitalist | 0.70% | ~6 |
-| Parlay? | 0.70% | ~6 |
 | Fleet Admiral | 0.60% | ~5 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 861 (Ranked 212)  
-Completed: 1 (0.12%) (Ranked 209)  
+Completed: 1 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

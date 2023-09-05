@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -394,9 +394,9 @@
       "ID": "BFT_SUPER",
       "SetID": "7o7kd30",
       "Name": "Ultimate Team!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 65,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BFT_VI",
@@ -419,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-09-05T18:04:38.7357864+00:00",
+  "LastChanged_Achievements": "2023-09-05T19:04:03.2466675+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:34.2955802+00:00",
-  "LastUpdate_Ratings": "2023-09-05T18:02:15.766834+00:00",
-  "LastUpdate_Achievements": "2023-09-05T18:04:38.7358152+00:00"
+  "LastUpdate_Ratings": "2023-09-05T19:01:28.805223+00:00",
+  "LastUpdate_Achievements": "2023-09-05T19:04:03.2466908+00:00"
 }

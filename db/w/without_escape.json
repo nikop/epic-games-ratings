@@ -2,10 +2,10 @@
   "ID": "8ee9de55298245e4bfe187dd50560f3c",
   "Name": "Without Escape",
   "ProductSlug": "without-escape-c00993",
-  "Ranking_EOS_Progress": 415,
-  "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-18T22:00:00+00:00",
     "PcReleaseDate": "2018-04-23T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:18.5107292+00:00",
@@ -181,6 +181,11 @@
       "Time": "2023-09-03T01:48:19.7728566+00:00",
       "NumProgressed": 30,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T19:07:15.2169667+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 9,
@@ -198,7 +203,7 @@
       "ID": "ACH_CALLED_POLICE",
       "SetID": "2a8fdfo",
       "Name": "Never around when you need them",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 50,
       "UsersEstimate": 14
     },
@@ -214,7 +219,7 @@
       "ID": "ACH_ENDING_2",
       "SetID": "2a8fdfo",
       "Name": "Jumped into the void",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -230,7 +235,7 @@
       "ID": "ACH_ENDING_4",
       "SetID": "2a8fdfo",
       "Name": "Where\u0027s the air conditioner?",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -263,14 +268,14 @@
     {
       "ID": "2a8fdfo",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-10T10:59:21.1089045+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-09-05T18:08:21.4960005+00:00",
+  "LastChanged_Achievements": "2023-09-05T19:07:15.2169661+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:06.9960901+00:00",
-  "LastUpdate_Ratings": "2023-09-05T18:01:44.5590744+00:00",
-  "LastUpdate_Achievements": "2023-09-05T18:08:21.4960312+00:00"
+  "LastUpdate_Ratings": "2023-09-05T19:01:01.3599026+00:00",
+  "LastUpdate_Achievements": "2023-09-05T19:07:15.2169773+00:00"
 }

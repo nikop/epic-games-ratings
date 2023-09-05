@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -179,9 +179,9 @@
       "ID": "achievements.completemission.islands.01",
       "SetID": "1kd1942",
       "Name": "I Will Survive",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievements.completemission.islands.02",
@@ -306,8 +306,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-05T18:04:36.9496837+00:00",
+  "LastChanged_Achievements": "2023-09-05T19:04:01.72952+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-05T17:59:05.1122953+00:00",
-  "LastUpdate_Achievements": "2023-09-05T18:04:36.9496985+00:00"
+  "LastUpdate_Ratings": "2023-09-05T18:58:39.7906101+00:00",
+  "LastUpdate_Achievements": "2023-09-05T19:04:01.7295358+00:00"
 }

@@ -43,14 +43,14 @@
 | No blades in the gym | 45.00% | ~143 |
 | Champion – no way back | 42.00% | ~133 |
 | Responsible approach | 42.00% | ~133 |
+| Underground dwellers | 41.00% | ~130 |
 | Deal with life | 40.00% | ~127 |
-| Underground dwellers | 40.00% | ~127 |
 | Mom got better | 39.00% | ~124 |
 | Get out of my apartment! | 39.00% | ~124 |
 | The die is cast | 39.00% | ~124 |
 | GYM professional | 38.00% | ~120 |
 | Poisoned fighter | 38.00% | ~120 |
-| Seashell hunter | 36.00% | ~114 |
+| Seashell hunter | 37.00% | ~117 |
 | Your own way | 36.00% | ~114 |
 | Gang wrangler | 35.00% | ~111 |
 | Undercover robot | 34.00% | ~108 |
@@ -61,12 +61,12 @@
 | Careerist | 32.00% | ~101 |
 | Anyone can resist | 32.00% | ~101 |
 | Trap disarmed | 31.00% | ~98 |
+| Another world | 31.00% | ~98 |
 | The lonesome road | 31.00% | ~98 |
 | Keep nature safe | 31.00% | ~98 |
 | Family comes first | 31.00% | ~98 |
 | Key memories | 31.00% | ~98 |
 | The heart of the Resistance | 31.00% | ~98 |
-| Another world | 30.00% | ~95 |
 | Better cooking at home | 28.00% | ~89 |
 | Silver’s past | 27.00% | ~86 |
 | The only right decision | 27.00% | ~86 |

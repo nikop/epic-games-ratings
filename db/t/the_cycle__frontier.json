@@ -4,11 +4,11 @@
   "ProductSlug": "thecycle",
   "Ranking_Rating": 915,
   "Ranking_Popularity": 100,
-  "Ranking_PopularitySum": 71,
+  "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2099-06-08T10:00:00+00:00",
     "PcReleaseDate": "2022-06-08T10:00:00+00:00",
@@ -6722,10 +6722,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 14091,
       "NumberOfAwardsMax": 2507
+    },
+    {
+      "Time": "2023-09-05T18:59:51.8020651+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 16452,
+      "NumberOfAwardsMax": 2507
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14091,
+  "NumberOfAwards": 16452,
   "NumberOfAwardsMax": 2507,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -6745,7 +6751,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2353
+      "Count": 2361
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6783,8 +6789,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-09-05T18:00:21.614358+00:00",
+  "LastChanged": "2023-09-05T18:59:51.8020649+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:13.3309749+00:00",
-  "LastUpdate_Ratings": "2023-09-05T18:00:21.6143588+00:00",
-  "LastUpdate_Achievements": "2023-09-05T18:04:44.2799474+00:00"
+  "LastUpdate_Ratings": "2023-09-05T18:59:51.8020658+00:00",
+  "LastUpdate_Achievements": "2023-09-05T19:04:08.1616279+00:00"
 }

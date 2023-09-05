@@ -8,15 +8,15 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 40.00% | ~556 |
 | Me and My Familiar | 37.00% | ~514 |
-| This Too Shall Pass | 32.00% | ~444 |
+| This Too Shall Pass | 32.00% | ~445 |
 | Passing Shadow | 30.00% | ~417 |
 | Cutthroat Competitors | 30.00% | ~417 |
 | How Romantic! | 28.00% | ~389 |
 | Daybreak | 28.00% | ~389 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~361 |
 | War Endured | 15.00% | ~208 |
-| Completing the Look | 14.00% | ~194 |
-| Core Failure | 14.00% | ~194 |
+| Completing the Look | 14.00% | ~195 |
+| Core Failure | 14.00% | ~195 |
 | A Mythic Menagerie | 13.00% | ~181 |
 | Who's Counting? | 13.00% | ~181 |
 | Pyrrhic Victory | 11.00% | ~153 |
@@ -31,9 +31,9 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 6.00% | ~83 |
 | All My Birds, Safely Home | 6.00% | ~83 |
 | Turncoat | 6.00% | ~83 |
-| In Soil, In Smoke | 5.00% | ~69 |
-| A Hunger, Sated | 5.00% | ~69 |
-| Wingknight's Prowess | 5.00% | ~69 |
+| In Soil, In Smoke | 5.00% | ~70 |
+| A Hunger, Sated | 5.00% | ~70 |
+| Wingknight's Prowess | 5.00% | ~70 |
 | We Emerge Changed | 4.00% | ~56 |
 | Storied Past | 4.00% | ~56 |
 | Worldwalker | 4.00% | ~56 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,389 (Ranked 192)  
+Progressed: 1,390 (Ranked 192)  
 Completed: 5 (0.36%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,6 +176,7 @@ Completed: 5 (0.36%) (Ranked 167)
 | 2023-09-02 | 1,383 | 5 |
 | 2023-09-03 | 1,386 | 5 |
 | 2023-09-04 | 1,389 | 5 |
+| 2023-09-05 | 1,390 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 469)  
 Sum: 28 (Ranked 483)  

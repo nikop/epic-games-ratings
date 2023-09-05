@@ -25,8 +25,8 @@
 | Battle Ready | 13.00% | ~12 |
 | Good Deed | 12.00% | ~11 |
 | Music Collector | 12.00% | ~11 |
+| Ultimate Team! | 11.00% | ~10 |
 | Gamer | 10.00% | ~9 |
-| Ultimate Team! | 10.00% | ~9 |
 | Pro Explorers | 9.00% | ~8 |
 | Cooking Maestro | 8.00% | ~7 |
 | Field Researcher | 8.00% | ~7 |

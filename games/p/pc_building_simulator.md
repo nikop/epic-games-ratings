@@ -6,21 +6,21 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,741,796 |
-| Easy to forget | 46.00% | ~1,635,155 |
-| Back in the black | 39.00% | ~1,386,327 |
-| That's what I'm talking about | 29.00% | ~1,030,859 |
-| The Best of Both Worlds | 25.00% | ~888,671 |
-| Get your wings | 20.00% | ~710,937 |
-| Double trouble | 16.00% | ~568,750 |
-| Smashing it | 11.00% | ~391,015 |
-| But can it run Crysis? | 9.00% | ~319,922 |
-| My favourite feature... | 9.00% | ~319,922 |
-| From humble beginnings... | 7.00% | ~248,828 |
-| Customer satisfaction | 7.00% | ~248,828 |
-| Keeping things neat | 4.00% | ~142,187 |
-| Seems you're pretty good at this | 4.00% | ~142,187 |
-| Bending over backwards | 4.00% | ~142,187 |
+| You need to plug it in... | 49.00% | ~1,741,808 |
+| Easy to forget | 46.00% | ~1,635,167 |
+| Back in the black | 39.00% | ~1,386,337 |
+| That's what I'm talking about | 29.00% | ~1,030,866 |
+| The Best of Both Worlds | 25.00% | ~888,678 |
+| Get your wings | 20.00% | ~710,942 |
+| Double trouble | 16.00% | ~568,754 |
+| Smashing it | 11.00% | ~391,018 |
+| But can it run Crysis? | 9.00% | ~319,924 |
+| My favourite feature... | 9.00% | ~319,924 |
+| From humble beginnings... | 7.00% | ~248,830 |
+| Customer satisfaction | 7.00% | ~248,830 |
+| Keeping things neat | 4.00% | ~142,188 |
+| Seems you're pretty good at this | 4.00% | ~142,188 |
+| Bending over backwards | 4.00% | ~142,188 |
 | Triple threat | 3.00% | ~106,641 |
 | You rock at this! | 3.00% | ~106,641 |
 | Your music sucks | 3.00% | ~106,641 |
@@ -41,7 +41,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Work ethic 101 | 0.70% | ~24,883 |
 | Building momentum | 0.60% | ~21,328 |
 | Lead by example | 0.60% | ~21,328 |
-| Treat yourself - RAM | 0.50% | ~17,773 |
+| Treat yourself - RAM | 0.50% | ~17,774 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,664 |
 | Mr big business | 0.30% | ~10,664 |
 | Mister Big | 0.30% | ~10,664 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,555 |
 | Treat yourself - GPU | 0.10% | ~3,555 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,554,685 (Ranked 5)  
+Progressed: 3,554,711 (Ranked 5)  
 Completed: 34 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 34 (0.00%) (Ranked 270)
 | 2023-09-02 | 3,553,667 | 34 |
 | 2023-09-03 | 3,554,087 | 34 |
 | 2023-09-04 | 3,554,457 | 34 |
-| 2023-09-05 | 3,554,685 | 34 |
+| 2023-09-05 | 3,554,711 | 34 |
 ## Awards
 Max (Great for Beginners): 1,063  (Ranked 140)  
 Sum: 7,966 (Ranked 100)  

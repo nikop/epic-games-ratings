@@ -3946,10 +3946,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 3247,
       "NumberOfAwardsMax": 591
+    },
+    {
+      "Time": "2023-09-05T19:01:51.7935048+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3253,
+      "NumberOfAwardsMax": 591
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3247,
+  "NumberOfAwards": 3253,
   "NumberOfAwardsMax": 591,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3963,7 +3969,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 502
+      "Count": 508
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4008,7 +4014,7 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1516677,
+  "EOS_Progressed": 1516711,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 5046,
   "EOS_NewCompleters": 1,
@@ -19433,6 +19439,11 @@
       "Time": "2023-09-05T18:06:12.711603+00:00",
       "NumProgressed": 1516677,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-05T19:05:24.7231263+00:00",
+      "NumProgressed": 1516711,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 38,
@@ -19444,7 +19455,7 @@
       "Name": "Boxer",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 12133
+      "UsersEstimate": 12134
     },
     {
       "ID": "BurningMan",
@@ -19452,7 +19463,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 242668
+      "UsersEstimate": 242674
     },
     {
       "ID": "Chambermaid",
@@ -19508,7 +19519,7 @@
       "Name": "Flyswatter",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 12133
+      "UsersEstimate": 12134
     },
     {
       "ID": "FriendIndeed",
@@ -19524,7 +19535,7 @@
       "Name": "Guts",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 303335
+      "UsersEstimate": 303342
     },
     {
       "ID": "Highlander",
@@ -19532,7 +19543,7 @@
       "Name": "Highlander",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 151668
+      "UsersEstimate": 151671
     },
     {
       "ID": "HomeRun",
@@ -19540,7 +19551,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 621838
+      "UsersEstimate": 621852
     },
     {
       "ID": "JustScratch",
@@ -19548,7 +19559,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 136501
+      "UsersEstimate": 136504
     },
     {
       "ID": "JusticeFromGrave",
@@ -19556,7 +19567,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 743172
+      "UsersEstimate": 743188
     },
     {
       "ID": "KeepsComingOff",
@@ -19564,7 +19575,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 621838
+      "UsersEstimate": 621852
     },
     {
       "ID": "KungFu",
@@ -19580,7 +19591,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 182001
+      "UsersEstimate": 182005
     },
     {
       "ID": "LivingSculpture",
@@ -19596,7 +19607,7 @@
       "Name": "Long List of Names",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 60667
+      "UsersEstimate": 60668
     },
     {
       "ID": "MeatGrinder",
@@ -19604,7 +19615,7 @@
       "Name": "Meat Grinder",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 288169
+      "UsersEstimate": 288175
     },
     {
       "ID": "NoOrdinaryCold",
@@ -19620,7 +19631,7 @@
       "Name": "This isn\u2019t Sparta",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 45500
+      "UsersEstimate": 45501
     },
     {
       "ID": "Poacher",
@@ -19644,7 +19655,7 @@
       "Name": "Pyromaniac",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 60667
+      "UsersEstimate": 60668
     },
     {
       "ID": "QueenOfWeapons",
@@ -19652,7 +19663,7 @@
       "Name": "The Queen of Weapons",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 60667
+      "UsersEstimate": 60668
     },
     {
       "ID": "Rocknroll",
@@ -19676,7 +19687,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 652171
+      "UsersEstimate": 652186
     },
     {
       "ID": "ToughNut",
@@ -19684,7 +19695,7 @@
       "Name": "Tough Nut to Crack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 91001
+      "UsersEstimate": 91003
     },
     {
       "ID": "TrainingAccident",
@@ -19692,7 +19703,7 @@
       "Name": "Training Accident",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 12133
+      "UsersEstimate": 12134
     },
     {
       "ID": "Unstoppable",
@@ -19700,7 +19711,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 151668
+      "UsersEstimate": 151671
     },
     {
       "ID": "Virtuoso",
@@ -19732,7 +19743,7 @@
       "Name": "Yoink",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 91001
+      "UsersEstimate": 91003
     },
     {
       "ID": "YoureWelcome",
@@ -19747,16 +19758,16 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1516677,
+      "Progressed": 1516711,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
-  "LastChanged": "2023-09-05T17:01:11.6403673+00:00",
-  "LastChanged_Achievements": "2023-09-05T18:06:12.7116026+00:00",
+  "LastChanged": "2023-09-05T19:01:51.7935046+00:00",
+  "LastChanged_Achievements": "2023-09-05T19:05:24.7231259+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:51.3991568+00:00",
-  "LastUpdate_Ratings": "2023-09-05T18:02:43.4719246+00:00",
-  "LastUpdate_Achievements": "2023-09-05T18:06:12.7117507+00:00"
+  "LastUpdate_Ratings": "2023-09-05T19:01:51.7935054+00:00",
+  "LastUpdate_Achievements": "2023-09-05T19:05:24.7232636+00:00"
 }

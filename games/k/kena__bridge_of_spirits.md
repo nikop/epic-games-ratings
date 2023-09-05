@@ -6,18 +6,18 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~406,435 |
-| Haikyo | 80.00% | ~342,261 |
+| Found a Friend | 95.00% | ~406,436 |
+| Haikyo | 80.00% | ~342,262 |
 | Good as New | 72.00% | ~308,035 |
-| Into the Woods | 69.00% | ~295,200 |
+| Into the Woods | 69.00% | ~295,201 |
 | Hunter in the Forest | 60.00% | ~256,696 |
 | Rot Commander | 60.00% | ~256,696 |
 | Taro's Fear | 56.00% | ~239,583 |
-| Between the Eyes | 47.00% | ~201,078 |
+| Between the Eyes | 47.00% | ~201,079 |
 | Taro's Love | 46.00% | ~196,800 |
-| Taro's Regret | 43.00% | ~183,965 |
+| Taro's Regret | 43.00% | ~183,966 |
 | Spirit Guide | 42.00% | ~179,687 |
-| Harness Your Power | 39.00% | ~166,852 |
+| Harness Your Power | 39.00% | ~166,853 |
 | The Open Range | 37.00% | ~158,296 |
 | Adira's Love | 34.00% | ~145,461 |
 | Adira's Fear | 33.00% | ~141,183 |
@@ -32,7 +32,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | A Leader Walks Alone | 26.00% | ~111,235 |
 | Bow Master | 26.00% | ~111,235 |
 | The Lonely Path | 26.00% | ~111,235 |
-| Restore Balance | 25.00% | ~106,956 |
+| Restore Balance | 25.00% | ~106,957 |
 | Say Cheese | 16.00% | ~68,452 |
 | Skillful Spirit Guide | 15.00% | ~64,174 |
 | Piercing Blow | 14.00% | ~59,896 |
@@ -48,8 +48,8 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,850 |
 | Master Spirit Guide | 0.30% | ~1,283 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427,826 (Ranked 39)  
-Completed: 530 (0.12%) (Ranked 209)  
+Progressed: 427,827 (Ranked 39)  
+Completed: 530 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,7 +186,7 @@ Completed: 530 (0.12%) (Ranked 209)
 | 2023-09-02 | 427,772 | 529 |
 | 2023-09-03 | 427,799 | 530 |
 | 2023-09-04 | 427,812 | 530 |
-| 2023-09-05 | 427,826 | 530 |
+| 2023-09-05 | 427,827 | 530 |
 ## Awards
 Max (Great Boss Battles): 1,318  (Ranked 131)  
 Sum: 1,698 (Ranked 209)  
