@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661789,
+  "EOS_Progressed": 661790,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13925,6 +13925,11 @@
       "Time": "2023-09-05T01:43:37.0454544+00:00",
       "NumProgressed": 661789,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-05T02:17:57.0106432+00:00",
+      "NumProgressed": 661790,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -13936,7 +13941,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476488
+      "UsersEstimate": 476489
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -13952,7 +13957,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152211
+      "UsersEstimate": 152212
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -14024,7 +14029,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33089
+      "UsersEstimate": 33090
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -14072,7 +14077,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152211
+      "UsersEstimate": 152212
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -14080,7 +14085,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92650
+      "UsersEstimate": 92651
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -14112,7 +14117,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33089
+      "UsersEstimate": 33090
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -14200,7 +14205,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165447
+      "UsersEstimate": 165448
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -14319,15 +14324,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661789,
+      "Progressed": 661790,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-05T01:43:37.0454539+00:00",
+  "LastChanged_Achievements": "2023-09-05T02:17:57.0106427+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-05T01:38:05.4030544+00:00",
-  "LastUpdate_Achievements": "2023-09-05T01:43:37.045597+00:00"
+  "LastUpdate_Ratings": "2023-09-05T02:12:23.1165324+00:00",
+  "LastUpdate_Achievements": "2023-09-05T02:17:57.0107986+00:00"
 }

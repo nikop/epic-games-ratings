@@ -6,11 +6,11 @@ Rating: 4.82 (Ranked 66)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | For Demacia | 96.00% | ~2,436 |
-| No more cages! | 92.00% | ~2,334 |
-| Everfrost | 78.00% | ~1,979 |
-| Pentakill | 78.00% | ~1,979 |
-| Dark Forest | 78.00% | ~1,979 |
-| The use of petricite | 75.00% | ~1,903 |
+| No more cages! | 92.00% | ~2,335 |
+| Everfrost | 78.00% | ~1,980 |
+| Pentakill | 78.00% | ~1,980 |
+| Dark Forest | 78.00% | ~1,980 |
+| The use of petricite | 75.00% | ~1,904 |
 | You can pet the dog | 61.00% | ~1,548 |
 | Big Helmet Bro | 38.00% | ~964 |
 | Thornbarrow | 37.00% | ~939 |
@@ -18,8 +18,8 @@ Rating: 4.82 (Ranked 66)
 | Elemental master | 35.00% | ~888 |
 | Past trauma | 35.00% | ~888 |
 | Ternmoat Headquarters | 35.00% | ~888 |
-| Cypress Glen Headquarters | 33.00% | ~837 |
-| Petricite Burst | 31.00% | ~786 |
+| Cypress Glen Headquarters | 33.00% | ~838 |
+| Petricite Burst | 31.00% | ~787 |
 | Hijack | 29.00% | ~736 |
 | Old friend | 29.00% | ~736 |
 | Devineur | 29.00% | ~736 |
@@ -33,9 +33,9 @@ Rating: 4.82 (Ranked 66)
 | Iffighain Headquarters | 21.00% | ~533 |
 | Full equipped | 21.00% | ~533 |
 | Whispers in the Woods II | 18.00% | ~457 |
-| Quickmoore Headquarters | 18.00% | ~457 |
 | No more holding back | 17.00% | ~431 |
 | Terbisia | 17.00% | ~431 |
+| Quickmoore Headquarters | 17.00% | ~431 |
 | Whispers in the Woods III | 16.00% | ~406 |
 | My heart and sword always for Demacia | 15.00% | ~381 |
 | Friendly fire | 15.00% | ~381 |
@@ -44,10 +44,10 @@ Rating: 4.82 (Ranked 66)
 | The Central Headquarters | 15.00% | ~381 |
 | Cloven Dell Headquarters | 15.00% | ~381 |
 | Whispers in the Woods IV | 13.00% | ~330 |
-| Embrace the darkness | 12.00% | ~304 |
-| I smell fear | 12.00% | ~304 |
-| The end of the experiments | 12.00% | ~304 |
-| The Great City of Demacia | 12.00% | ~304 |
+| Embrace the darkness | 12.00% | ~305 |
+| I smell fear | 12.00% | ~305 |
+| The end of the experiments | 12.00% | ~305 |
+| The Great City of Demacia | 12.00% | ~305 |
 | Truth is a dark mirror | 11.00% | ~279 |
 | Back to sleep, then... | 11.00% | ~279 |
 | Call it 'redistribution of magic | 11.00% | ~279 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 66)
 | Silverwing nest | 2.00% | ~51 |
 | The Unshackled | 0.90% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,537 (Ranked 169)  
+Progressed: 2,538 (Ranked 169)  
 Completed: 7 (0.28%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 7 (0.28%) (Ranked 182)
 | 2023-08-31 | 2,530 | 7 |
 | 2023-09-02 | 2,534 | 7 |
 | 2023-09-03 | 2,537 | 7 |
+| 2023-09-05 | 2,538 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

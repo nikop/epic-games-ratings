@@ -20,8 +20,8 @@ Rating: 4.78 (Ranked 100)
 | Seadog | 16.00% | ~95 |
 | All Good Things | 15.00% | ~89 |
 | Persistent Parasite | 14.00% | ~83 |
+| Jaded Judge | 11.00% | ~66 |
 | Privateer | 10.00% | ~60 |
-| Jaded Judge | 10.00% | ~60 |
 | Rustic Recipe | 10.00% | ~60 |
 | Tobacco Travesty | 8.00% | ~48 |
 | Lyrical Longing | 8.00% | ~48 |

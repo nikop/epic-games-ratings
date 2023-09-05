@@ -6,7 +6,7 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 44.00% | ~29,614 |
+| First F#@!ing Day | 44.00% | ~29,615 |
 | To The Nines | 40.00% | ~26,922 |
 | Optimized | 35.00% | ~23,557 |
 | Performance Review | 35.00% | ~23,557 |
@@ -15,8 +15,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | Wet Work | 31.00% | ~20,865 |
 | Landlord | 31.00% | ~20,865 |
 | The Side Job | 30.00% | ~20,192 |
-| Wrecking Ball | 27.00% | ~18,172 |
-| Food for Thought | 26.00% | ~17,499 |
+| Wrecking Ball | 27.00% | ~18,173 |
+| Food for Thought | 26.00% | ~17,500 |
 | Finders Keepers | 25.00% | ~16,826 |
 | A Young Empire | 25.00% | ~16,826 |
 | Work Ethic | 23.00% | ~15,480 |
@@ -29,8 +29,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | Kitted Out | 14.00% | ~9,423 |
 | Masters of Santo Ileso | 12.00% | ~8,077 |
 | Hijacked | 11.00% | ~7,404 |
-| The Spins | 10.00% | ~6,730 |
-| The Mechanic | 10.00% | ~6,730 |
+| The Spins | 10.00% | ~6,731 |
+| The Mechanic | 10.00% | ~6,731 |
 | We could go home, or… | 7.00% | ~4,711 |
 | Challenge Accepted | 7.00% | ~4,711 |
 | A Golden Age | 7.00% | ~4,711 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~135 |
 | Fiesta Time | 0.20% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,305 (Ranked 84)  
+Progressed: 67,306 (Ranked 84)  
 Completed: 47 (0.07%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 47 (0.07%) (Ranked 230)
 | 2023-09-02 | 66,760 | 47 |
 | 2023-09-03 | 67,040 | 47 |
 | 2023-09-04 | 67,273 | 47 |
-| 2023-09-05 | 67,305 | 47 |
+| 2023-09-05 | 67,306 | 47 |
 ## Awards
 Max (Extremely Fun): 1,063  (Ranked 140)  
 Sum: 8,610 (Ranked 97)  

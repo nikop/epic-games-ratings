@@ -26,12 +26,12 @@
 | Say My Name | 4.00% | ~5 |
 | Tempus Fugit | 4.00% | ~5 |
 | POI Hunter | 3.00% | ~4 |
+| Geek | 3.00% | ~4 |
 | First Things First | 3.00% | ~4 |
 | Tailor-Made for Two | 3.00% | ~4 |
 | Déjà-Vu | 2.00% | ~2 |
 | Golden Ratio | 2.00% | ~2 |
 | The Joy of Discovery | 2.00% | ~2 |
-| Geek | 2.00% | ~2 |
 | Last One Standing | 2.00% | ~2 |
 | The Immortal One | 2.00% | ~2 |
 | Shopping List | 2.00% | ~2 |

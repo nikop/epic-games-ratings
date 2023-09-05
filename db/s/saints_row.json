@@ -3486,9 +3486,9 @@
       "Count": 1063
     }
   ],
-  "EOS_Progressed": 67305,
+  "EOS_Progressed": 67306,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 1926,
+  "EOS_NewPlayers": 1927,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -18726,6 +18726,11 @@
       "Time": "2023-09-05T01:46:54.6224177+00:00",
       "NumProgressed": 67305,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-05T02:21:12.8477245+00:00",
+      "NumProgressed": 67306,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 53,
@@ -18849,7 +18854,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 29614
+      "UsersEstimate": 29615
     },
     {
       "ID": "customize_a_vehicle",
@@ -18905,7 +18910,7 @@
       "Name": "The Spins",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6730
+      "UsersEstimate": 6731
     },
     {
       "ID": "empire_tier_2",
@@ -18961,7 +18966,7 @@
       "Name": "The Mechanic",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6730
+      "UsersEstimate": 6731
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -19017,7 +19022,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18172
+      "UsersEstimate": 18173
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -19089,7 +19094,7 @@
       "Name": "Food for Thought",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 17499
+      "UsersEstimate": 17500
     },
     {
       "ID": "two_thirds_purple",
@@ -19160,13 +19165,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 67305,
+      "Progressed": 67306,
       "Completed": 47
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 38942,
+      "Progressed": 38943,
       "Completed": 3639
     }
   ],
@@ -19174,8 +19179,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-04T04:59:55.6542485+00:00",
-  "LastChanged_Achievements": "2023-09-05T01:46:54.6224169+00:00",
+  "LastChanged_Achievements": "2023-09-05T02:21:12.8477241+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:24.8618838+00:00",
-  "LastUpdate_Ratings": "2023-09-05T01:40:26.041289+00:00",
-  "LastUpdate_Achievements": "2023-09-05T01:46:54.6225927+00:00"
+  "LastUpdate_Ratings": "2023-09-05T02:14:51.5376251+00:00",
+  "LastUpdate_Achievements": "2023-09-05T02:21:12.8478989+00:00"
 }

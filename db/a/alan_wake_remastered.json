@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62334,
+  "EOS_Progressed": 62335,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13492,6 +13492,11 @@
       "Time": "2023-09-05T01:44:20.5233822+00:00",
       "NumProgressed": 62334,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-05T02:18:40.4625181+00:00",
+      "NumProgressed": 62335,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13503,7 +13508,7 @@
       "Name": "Follow the Light",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24310
+      "UsersEstimate": 24311
     },
     {
       "ID": "02",
@@ -13559,7 +13564,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8104
     },
     {
       "ID": "09",
@@ -13615,7 +13620,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6233
+      "UsersEstimate": 6234
     },
     {
       "ID": "16",
@@ -13671,7 +13676,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8104
     },
     {
       "ID": "23",
@@ -13711,7 +13716,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8104
     },
     {
       "ID": "28",
@@ -13719,7 +13724,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8103
+      "UsersEstimate": 8104
     },
     {
       "ID": "29",
@@ -13743,7 +13748,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9973
+      "UsersEstimate": 9974
     },
     {
       "ID": "32",
@@ -13767,7 +13772,7 @@
       "Name": "Energized!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6233
+      "UsersEstimate": 6234
     },
     {
       "ID": "35",
@@ -13823,7 +13828,7 @@
       "Name": "Finders Keepers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9973
+      "UsersEstimate": 9974
     },
     {
       "ID": "42",
@@ -14038,21 +14043,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62334,
+      "Progressed": 62335,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 25802,
+      "Progressed": 25803,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-05T01:44:20.5233816+00:00",
+  "LastChanged_Achievements": "2023-09-05T02:18:40.4625176+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-05T01:38:00.6290914+00:00",
-  "LastUpdate_Achievements": "2023-09-05T01:44:20.5235812+00:00"
+  "LastUpdate_Ratings": "2023-09-05T02:12:18.0667321+00:00",
+  "LastUpdate_Achievements": "2023-09-05T02:18:40.4627027+00:00"
 }

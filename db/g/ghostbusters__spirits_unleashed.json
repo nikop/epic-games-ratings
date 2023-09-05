@@ -1980,9 +1980,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25596,
+  "EOS_Progressed": 25597,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12085,6 +12085,11 @@
       "Time": "2023-09-05T01:45:49.0247456+00:00",
       "NumProgressed": 25596,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-05T02:20:07.6232967+00:00",
+      "NumProgressed": 25597,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -12096,7 +12101,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18685
+      "UsersEstimate": 18686
     },
     {
       "ID": "Animated",
@@ -12136,7 +12141,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10494
+      "UsersEstimate": 10495
     },
     {
       "ID": "Collect_Spores",
@@ -12176,7 +12181,7 @@
       "Name": "Diabolical",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "Discovery",
@@ -12208,7 +12213,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16125
+      "UsersEstimate": 16126
     },
     {
       "ID": "Escape_Artist",
@@ -12216,7 +12221,7 @@
       "Name": "Escape Artist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3839
+      "UsersEstimate": 3840
     },
     {
       "ID": "Fragile_Panes",
@@ -12360,7 +12365,7 @@
       "Name": "Seasoned",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "Side_Hustle",
@@ -12432,7 +12437,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 11006
+      "UsersEstimate": 11007
     },
     {
       "ID": "Terrifying",
@@ -12456,7 +12461,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10750
+      "UsersEstimate": 10751
     },
     {
       "ID": "Tobins_Prodigy",
@@ -12480,7 +12485,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12286
+      "UsersEstimate": 12287
     },
     {
       "ID": "Welcome_Crew",
@@ -12496,14 +12501,14 @@
       "Name": "Whoopsie",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25596,
+      "Progressed": 25597,
       "Completed": 54
     }
   ],
@@ -12511,8 +12516,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-04T21:58:55.2667263+00:00",
-  "LastChanged_Achievements": "2023-09-05T01:45:49.0247448+00:00",
+  "LastChanged_Achievements": "2023-09-05T02:20:07.6232963+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-05T01:39:24.4446556+00:00",
-  "LastUpdate_Achievements": "2023-09-05T01:45:49.0248941+00:00"
+  "LastUpdate_Ratings": "2023-09-05T02:13:44.3945286+00:00",
+  "LastUpdate_Achievements": "2023-09-05T02:20:07.6234198+00:00"
 }

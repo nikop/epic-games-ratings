@@ -7,15 +7,15 @@ Rating: 4.54 (Ranked 505)
 | ---- | ---------- | ----- |
 | Break A Leg | 1.00% | ~6,737 |
 | Hotel California | 1.00% | ~6,737 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,737 |
 | Welcome To Hell-A | 1.00% | ~6,737 |
-| Dr. Reed, I Presume? | 0.90% | ~6,063 |
-| Git Gutte! | 0.90% | ~6,063 |
-| Coup de Grâce | 0.90% | ~6,063 |
-| Hazardous Materials | 0.90% | ~6,063 |
-| Friends Like These | 0.90% | ~6,063 |
-| Apex Predator | 0.90% | ~6,063 |
-| Stacking the Deck | 0.90% | ~6,063 |
-| Personal Assistant Personally Assisted | 0.90% | ~6,063 |
+| Dr. Reed, I Presume? | 0.90% | ~6,064 |
+| Git Gutte! | 0.90% | ~6,064 |
+| Coup de Grâce | 0.90% | ~6,064 |
+| Hazardous Materials | 0.90% | ~6,064 |
+| Friends Like These | 0.90% | ~6,064 |
+| Apex Predator | 0.90% | ~6,064 |
+| Stacking the Deck | 0.90% | ~6,064 |
 | Bookworm | 0.80% | ~5,390 |
 | But Doctor, I am Butcho | 0.80% | ~5,390 |
 | Can't Handle the Truth | 0.80% | ~5,390 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,716 (Ranked 22)  
+Progressed: 673,729 (Ranked 22)  
 Completed: 2,114 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2,114 (0.31%) (Ranked 177)
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
-| 2023-09-05 | 673,716 | 2,114 |
+| 2023-09-05 | 673,729 | 2,114 |
 ## Awards
 Max (Great Boss Battles): 5,902  (Ranked 59)  
 Sum: 8,698 (Ranked 95)  

@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~603,491 |
-| Right Back At Ya | 39.00% | ~341,104 |
-| The Lovers | 35.00% | ~306,119 |
-| Stanislavski's Method | 29.00% | ~253,641 |
-| The Wheel of Fortune | 27.00% | ~236,149 |
-| The Hermit | 25.00% | ~218,656 |
-| Christmas Tree Attack | 23.00% | ~201,164 |
-| True Soldier | 23.00% | ~201,164 |
+| The Fool | 69.00% | ~603,494 |
+| Right Back At Ya | 39.00% | ~341,105 |
+| The Lovers | 35.00% | ~306,120 |
+| Stanislavski's Method | 29.00% | ~253,642 |
+| The Wheel of Fortune | 27.00% | ~236,150 |
+| The Hermit | 25.00% | ~218,657 |
+| Christmas Tree Attack | 23.00% | ~201,165 |
+| True Soldier | 23.00% | ~201,165 |
 | The High Priestess | 22.00% | ~192,418 |
 | Legend of The Afterlife | 22.00% | ~192,418 |
-| Life of the Road | 21.00% | ~183,671 |
-| Full Body Conversion | 18.00% | ~157,432 |
-| The World | 18.00% | ~157,432 |
-| Bushido and Chill | 17.00% | ~148,686 |
+| Life of the Road | 21.00% | ~183,672 |
+| Full Body Conversion | 18.00% | ~157,433 |
+| The World | 18.00% | ~157,433 |
+| Bushido and Chill | 17.00% | ~148,687 |
 | Gun Fu | 15.00% | ~131,194 |
 | True Warrior | 15.00% | ~131,194 |
 | To Protect and Serve | 14.00% | ~122,448 |
@@ -27,9 +27,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 14.00% | ~122,448 |
 | Judy vs Night City | 14.00% | ~122,448 |
 | Two Heads, One Bullet | 12.00% | ~104,955 |
-| The Wandering Fool | 10.00% | ~87,462 |
-| The Quick and the Dead | 10.00% | ~87,462 |
-| Ten out of Ten | 9.00% | ~78,716 |
+| The Wandering Fool | 10.00% | ~87,463 |
+| The Quick and the Dead | 10.00% | ~87,463 |
+| Ten out of Ten | 9.00% | ~78,717 |
 | Breathtaking | 8.00% | ~69,970 |
 | To Bad Decisions! | 7.00% | ~61,224 |
 | The Star | 7.00% | ~61,224 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,239 |
 | V for Vendetta | 3.00% | ~26,239 |
 | It's Elementary | 3.00% | ~26,239 |
-| Autojock | 2.00% | ~17,492 |
-| Frequent Flyer | 2.00% | ~17,492 |
-| Daemon In The Shell | 2.00% | ~17,492 |
-| The Devil | 2.00% | ~17,492 |
+| Autojock | 2.00% | ~17,493 |
+| Frequent Flyer | 2.00% | ~17,493 |
+| Daemon In The Shell | 2.00% | ~17,493 |
+| The Devil | 2.00% | ~17,493 |
 | Gunslinger | 1.00% | ~8,746 |
 | Rough Landing | 0.50% | ~4,373 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 874,625 (Ranked 14)  
+Progressed: 874,629 (Ranked 14)  
 Completed: 2,060 (0.24%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,10 +189,10 @@ Completed: 2,060 (0.24%) (Ranked 188)
 | 2023-09-02 | 874,217 | 2,052 |
 | 2023-09-03 | 874,445 | 2,057 |
 | 2023-09-04 | 874,617 | 2,059 |
-| 2023-09-05 | 874,625 | 2,060 |
+| 2023-09-05 | 874,629 | 2,060 |
 ## Awards
 Max (Character Customization): 77,413  (Ranked 9)  
-Sum: 205,807 (Ranked 13)  
+Sum: 205,834 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -205,7 +205,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 9,022 |
 | This game is Relaxing | 8,940 |
 | This game has Amazing Characters | 8,858 |
-| This game has Quickly Understood Controls | 8,824 |
+| This game has Quickly Understood Controls | 8,851 |
 | This game has a Creative Community | 5,782 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -439,3 +439,4 @@ Diff (max vs sum): -4
 | 2023-09-02 | 4.62 | - | 77,130 | 204,856 |
 | 2023-09-03 | 4.62 | - | 77,270 | 205,378 |
 | 2023-09-04 | 4.62 | - | 77,413 | 205,807 |
+| 2023-09-05 | 4.62 | - | 77,413 | 205,834 |

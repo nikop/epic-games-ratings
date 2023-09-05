@@ -5,28 +5,28 @@ Rating: 3.94 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,771 |
-| First One’s Free | 65.00% | ~47,232 |
-| Neophyte Ninja | 50.00% | ~36,332 |
-| Too Old for This | 48.00% | ~34,879 |
-| Fancy Pants | 36.00% | ~26,159 |
-| Case Closed | 35.00% | ~25,432 |
+| Downed but Not Outed | 74.00% | ~53,773 |
+| First One’s Free | 65.00% | ~47,233 |
+| Neophyte Ninja | 50.00% | ~36,333 |
+| Too Old for This | 48.00% | ~34,880 |
+| Fancy Pants | 36.00% | ~26,160 |
+| Case Closed | 35.00% | ~25,433 |
 | King of the Hill | 34.00% | ~24,706 |
 | Underworld Initiate | 29.00% | ~21,073 |
-| Roid Ranger | 21.00% | ~15,259 |
+| Roid Ranger | 21.00% | ~15,260 |
 | Off the Rocks | 20.00% | ~14,533 |
-| True Player | 19.00% | ~13,806 |
+| True Player | 19.00% | ~13,807 |
 | Raider’s Ruin | 17.00% | ~12,353 |
 | Dragonslayer | 17.00% | ~12,353 |
-| Hidden Sonata | 13.00% | ~9,446 |
+| Hidden Sonata | 13.00% | ~9,447 |
 | Rockay Rex | 12.00% | ~8,720 |
-| Track Star | 10.00% | ~7,266 |
-| Freebooter | 10.00% | ~7,266 |
+| Track Star | 10.00% | ~7,267 |
+| Freebooter | 10.00% | ~7,267 |
 | Headhunter | 9.00% | ~6,540 |
 | Ding Dong | 9.00% | ~6,540 |
 | Classy Joint | 9.00% | ~6,540 |
 | I Like Trains | 8.00% | ~5,813 |
-| Foo Finder | 7.00% | ~5,086 |
+| Foo Finder | 7.00% | ~5,087 |
 | Savvy Seeker | 6.00% | ~4,360 |
 | Legend Looter | 5.00% | ~3,633 |
 | Imports and Exports | 4.00% | ~2,907 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 955)
 | Geek Out | 0.60% | ~436 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,664 (Ranked 79)  
+Progressed: 72,666 (Ranked 79)  
 Completed: 43 (0.06%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 43 (0.06%) (Ranked 232)
 | 2023-09-02 | 72,595 | 43 |
 | 2023-09-03 | 72,628 | 43 |
 | 2023-09-04 | 72,663 | 43 |
-| 2023-09-05 | 72,664 | 43 |
+| 2023-09-05 | 72,666 | 43 |
 ## Awards
 Max (Diverse Characters): 415  (Ranked 212)  
 Sum: 1,977 (Ranked 202)  
