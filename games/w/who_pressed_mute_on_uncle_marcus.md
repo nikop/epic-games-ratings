@@ -23,7 +23,7 @@
 | The whole truth | 16.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 208 (Ranked 302)  
-Completed: 23 (11.06%) (Ranked 25)  
+Completed: 23 (11.06%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

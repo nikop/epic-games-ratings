@@ -110,6 +110,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.80% | ~110 |
 | Military Prestige | 0.80% | ~110 |
 | Gnosticism | 0.80% | ~110 |
+| Revelation | 0.80% | ~110 |
 | Veneration | 0.80% | ~110 |
 | Cimmerian Archer | 0.80% | ~110 |
 | Ambition Victory | 0.80% | ~110 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.70% | ~97 |
 | Carthage | 0.70% | ~97 |
 | Enlightenment | 0.70% | ~97 |
-| Revelation | 0.70% | ~97 |
 | Kushite Cavalry | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Strong Difficulty | 0.60% | ~83 |

@@ -964,9 +964,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1428,
+  "EOS_Progressed": 1443,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1423,
+  "EOS_NewPlayers": 1438,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1724,6 +1724,11 @@
       "Time": "2023-09-05T19:03:15.0210299+00:00",
       "NumProgressed": 1428,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-05T20:02:26.5232739+00:00",
+      "NumProgressed": 1443,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1736,7 +1741,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "a_10",
@@ -1784,7 +1789,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 471
+      "UsersEstimate": 476
     },
     {
       "ID": "a_19",
@@ -1792,7 +1797,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "a_2",
@@ -1800,7 +1805,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "a_20",
@@ -1808,7 +1813,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "a_21",
@@ -1816,7 +1821,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "a_22",
@@ -1824,7 +1829,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "a_23",
@@ -1832,7 +1837,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "a_25",
@@ -1840,7 +1845,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "a_26",
@@ -1886,17 +1891,17 @@
       "ID": "a_31",
       "SetID": "daiie3o",
       "Name": "King of white wines",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "a_32",
       "SetID": "daiie3o",
       "Name": "Sales Expert",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "a_33",
@@ -1983,7 +1988,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1428,
+      "Progressed": 1443,
       "Completed": 3
     }
   ],
@@ -1991,8 +1996,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-05T19:03:15.0210292+00:00",
+  "LastChanged_Achievements": "2023-09-05T20:02:26.5232735+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-05T18:58:47.4430966+00:00",
-  "LastUpdate_Achievements": "2023-09-05T19:03:15.0210654+00:00"
+  "LastUpdate_Ratings": "2023-09-05T19:58:21.8133155+00:00",
+  "LastUpdate_Achievements": "2023-09-05T20:02:26.5233076+00:00"
 }

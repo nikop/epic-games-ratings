@@ -12,10 +12,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.30% | ~682 |
 | Maddening | 0.20% | ~455 |
 | Were-verpowered | 0.20% | ~455 |
+| A Persistent Buzzing | 0.20% | ~455 |
 | The Ring of Regeneration | 0.20% | ~455 |
 | Seeking Allies | 0.20% | ~455 |
 | Are Ya Chicken? | 0.20% | ~455 |
 | Mad Cow Disease | 0.20% | ~455 |
+| Friendly Imps | 0.20% | ~455 |
 | Legends and Lore | 0.20% | ~387 |
 | Pros and CONs | 0.10% | ~227 |
 | Upholding the Law | 0.10% | ~227 |
@@ -135,7 +137,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Struggling Toward Omu | 0.10% | ~227 |
 | Wagon Train | 0.10% | ~227 |
 | The Lost Heir of Omu | 0.10% | ~227 |
-| A Persistent Buzzing | 0.10% | ~227 |
 | Not Very Charming | 0.10% | ~227 |
 | Lobsterfolk Assault | 0.10% | ~227 |
 | Taking Responsibility | 0.10% | ~227 |
@@ -409,7 +410,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.10% | ~227 |
 | Rude Welcome | 0.10% | ~227 |
 | Underdeep Cartography | 0.10% | ~227 |
-| Friendly Imps | 0.10% | ~227 |
 | Overdue Rendezvous | 0.10% | ~227 |
 | Moose Tracks | 0.10% | ~194 |
 | An Awakened Axe | 0.10% | ~194 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,321 (Ranked 54)  
-Completed: 2,252 (0.99%) (Ranked 123)  
+Progressed: 227,334 (Ranked 54)  
+Completed: 2,253 (0.99%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -665,7 +665,7 @@ Completed: 2,252 (0.99%) (Ranked 123)
 | 2023-09-02 | 226,722 | 2,245 |
 | 2023-09-03 | 226,879 | 2,246 |
 | 2023-09-04 | 227,081 | 2,250 |
-| 2023-09-05 | 227,321 | 2,252 |
+| 2023-09-05 | 227,334 | 2,253 |
 ## Awards
 Max (Diverse Characters): 5,227  (Ranked 67)  
 Sum: 31,411 (Ranked 38)  

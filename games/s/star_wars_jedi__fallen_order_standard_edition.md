@@ -5,48 +5,48 @@ Rating: 4.69 (Ranked 218)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 99.00% | ~1,139 |
-| A Long Time Ago | 94.00% | ~1,082 |
-| Sabersmith | 82.00% | ~944 |
-| The Obstacle is the Way | 81.00% | ~932 |
-| Back At You | 76.00% | ~875 |
-| Happy Go Wookiee | 71.00% | ~817 |
-| Everything is Connected | 62.00% | ~714 |
-| Her Name Was Masana Tide | 54.00% | ~622 |
-| Bank Shot | 54.00% | ~622 |
-| Perfect Timing | 53.00% | ~610 |
-| The Full Glow-Up | 50.00% | ~576 |
-| Gorgara Falls | 48.00% | ~552 |
-| For A More Civilized Age | 45.00% | ~518 |
-| Look Out Below | 43.00% | ~495 |
-| I Knew He Was No Good | 42.00% | ~483 |
-| Don't Mess with BD-1 | 41.00% | ~472 |
-| The Holocron Awaits | 40.00% | ~460 |
-| Scum and Villainy | 40.00% | ~460 |
-| Trust Only In The Force | 37.00% | ~426 |
-| Blade Master | 36.00% | ~414 |
-| Full House | 33.00% | ~380 |
-| Legendary Beasts | 23.00% | ~265 |
-| Echo Location | 20.00% | ~230 |
-| Visiting Alderaan Places | 17.00% | ~196 |
-| Cal Got Your Tongue? | 14.00% | ~161 |
-| Triple Take | 12.00% | ~138 |
-| Big Bang | 12.00% | ~138 |
-| Feel the Force | 10.00% | ~115 |
-| Can't Touch This | 9.00% | ~104 |
-| Medical Droid | 9.00% | ~104 |
-| Data Collector | 8.00% | ~92 |
-| Collector | 5.00% | ~58 |
-| Data Disk | 5.00% | ~58 |
-| Kickoff | 4.00% | ~46 |
-| What Goes Around... | 3.00% | ~35 |
-| Green Thumb | 3.00% | ~35 |
-| A Galaxy Far, Far Away | 3.00% | ~35 |
-| Kicking Back | 2.00% | ~23 |
+| The Mantis | 99.00% | ~1,175 |
+| A Long Time Ago | 94.00% | ~1,116 |
+| Sabersmith | 81.00% | ~961 |
+| The Obstacle is the Way | 81.00% | ~961 |
+| Back At You | 76.00% | ~902 |
+| Happy Go Wookiee | 71.00% | ~843 |
+| Everything is Connected | 62.00% | ~736 |
+| Bank Shot | 54.00% | ~641 |
+| Her Name Was Masana Tide | 53.00% | ~629 |
+| Perfect Timing | 53.00% | ~629 |
+| The Full Glow-Up | 50.00% | ~594 |
+| Gorgara Falls | 48.00% | ~570 |
+| For A More Civilized Age | 45.00% | ~534 |
+| Look Out Below | 43.00% | ~510 |
+| I Knew He Was No Good | 42.00% | ~499 |
+| Don't Mess with BD-1 | 41.00% | ~487 |
+| Scum and Villainy | 40.00% | ~475 |
+| The Holocron Awaits | 39.00% | ~463 |
+| Trust Only In The Force | 37.00% | ~439 |
+| Blade Master | 35.00% | ~415 |
+| Full House | 33.00% | ~392 |
+| Legendary Beasts | 23.00% | ~273 |
+| Echo Location | 20.00% | ~237 |
+| Visiting Alderaan Places | 17.00% | ~202 |
+| Cal Got Your Tongue? | 13.00% | ~154 |
+| Triple Take | 12.00% | ~142 |
+| Big Bang | 12.00% | ~142 |
+| Feel the Force | 10.00% | ~119 |
+| Can't Touch This | 9.00% | ~107 |
+| Medical Droid | 9.00% | ~107 |
+| Data Collector | 8.00% | ~95 |
+| Collector | 5.00% | ~59 |
+| Data Disk | 5.00% | ~59 |
+| Kickoff | 4.00% | ~47 |
+| What Goes Around... | 3.00% | ~36 |
+| Green Thumb | 3.00% | ~36 |
+| A Galaxy Far, Far Away | 3.00% | ~36 |
+| Kicking Back | 2.00% | ~24 |
 | Not So Fast | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,151 (Ranked 201)  
-Completed: 8 (0.70%) (Ranked 134)  
+Progressed: 1,187 (Ranked 198)  
+Completed: 8 (0.67%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,7 +60,7 @@ Completed: 8 (0.70%) (Ranked 134)
 | 2023-08-05 | 1,078 | 5 |
 | 2023-08-06 | 1,080 | 5 |
 | 2023-08-08 | 1,081 | 5 |
-| 2023-09-05 | 1,151 | 8 |
+| 2023-09-05 | 1,187 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

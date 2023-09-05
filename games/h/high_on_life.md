@@ -6,11 +6,11 @@ Rating: 4.64 (Ranked 315)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eye Scream, You Scream | 83.00% | ~19,932 |
-| Mods Please Ban | 77.00% | ~18,491 |
+| Mods Please Ban | 77.00% | ~18,492 |
 | Bring A Knife to a Gun Fight | 76.00% | ~18,251 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,530 |
-| First Bounty Down | 59.00% | ~14,168 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,688 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,531 |
+| First Bounty Down | 59.00% | ~14,169 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,689 |
 | Luglox Genocide | 43.00% | ~10,326 |
 | Don't Knife The Hand That Feeds | 34.00% | ~8,165 |
 | Playing Card To Get | 33.00% | ~7,925 |
@@ -20,7 +20,7 @@ Rating: 4.64 (Ranked 315)
 | Are You Packin'? | 25.00% | ~6,004 |
 | Sweezy Like Sunday Morning | 25.00% | ~6,004 |
 | G3 Graduation | 25.00% | ~6,004 |
-| RIP Davey Glutes | 24.00% | ~5,763 |
+| RIP Davey Glutes | 24.00% | ~5,764 |
 | Hardest Battle In The Game | 22.00% | ~5,283 |
 | Series Wrap on Suit-O | 22.00% | ~5,283 |
 | Lezduit! | 20.00% | ~4,803 |
@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 315)
 | Epic Legendary Prize | 1.00% | ~240 |
 | A Starfish Is Born | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,014 (Ranked 104)  
+Progressed: 24,015 (Ranked 104)  
 Completed: 12 (0.05%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,6 +175,7 @@ Completed: 12 (0.05%) (Ranked 236)
 | 2023-09-02 | 24,007 | 12 |
 | 2023-09-03 | 24,013 | 12 |
 | 2023-09-04 | 24,014 | 12 |
+| 2023-09-05 | 24,015 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

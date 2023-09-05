@@ -4,7 +4,7 @@
   "ProductSlug": "duelvox-84b8c1",
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-05T10:05:22.0149166+00:00",
-  "LastChanged_Achievements": "2023-09-05T19:06:00.0716494+00:00",
+  "LastChanged_Achievements": "2023-09-05T20:05:25.3218185+00:00",
   "LastUpdate_AppInfo": "2023-08-30T15:57:14.2117765+00:00",
-  "LastUpdate_Ratings": "2023-09-05T19:00:34.7966801+00:00",
-  "LastUpdate_Achievements": "2023-09-05T19:06:00.071653+00:00"
+  "LastUpdate_Ratings": "2023-09-05T19:59:47.8788655+00:00",
+  "LastUpdate_Achievements": "2023-09-05T20:05:25.3218225+00:00"
 }

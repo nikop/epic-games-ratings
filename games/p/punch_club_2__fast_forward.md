@@ -56,10 +56,10 @@
 | Undercover robot | 34.00% | ~108 |
 | Problems of cyborgs | 33.00% | ~105 |
 | Absolute Champion! | 33.00% | ~105 |
+| Anyone can resist | 33.00% | ~105 |
 | Not little hacker | 32.00% | ~101 |
 | The last bell ring | 32.00% | ~101 |
 | Careerist | 32.00% | ~101 |
-| Anyone can resist | 32.00% | ~101 |
 | Trap disarmed | 31.00% | ~98 |
 | Another world | 31.00% | ~98 |
 | The lonesome road | 31.00% | ~98 |

@@ -8,9 +8,9 @@
 | Chapter I | 50.00% | ~56 |
 | Haute cuisine | 46.00% | ~51 |
 | I didn't do it! | 41.00% | ~46 |
+| Wooooooow! | 36.00% | ~40 |
 | Demolition expert | 35.00% | ~39 |
 | Keep away from children | 35.00% | ~39 |
-| Wooooooow! | 35.00% | ~39 |
 | Artistic fool | 34.00% | ~38 |
 | Open up wide | 33.00% | ~37 |
 | Let the boot talk | 29.00% | ~32 |

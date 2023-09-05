@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 363,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_Completed": 50,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 77,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.33,
+  "EOS_Completed_Percentage": 5.19,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -397,6 +397,11 @@
       "Time": "2023-09-05T17:04:57.7082511+00:00",
       "NumProgressed": 75,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T20:04:44.1414027+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -406,7 +411,7 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -422,7 +427,7 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -446,7 +451,7 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -454,7 +459,7 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -534,7 +539,7 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -550,9 +555,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -566,9 +571,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "PROGRESS_N2",
@@ -582,7 +587,7 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -607,13 +612,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 77,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-05T19:05:10.6147877+00:00",
+  "LastChanged_Achievements": "2023-09-05T20:04:44.1414018+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-05T19:00:29.1594573+00:00",
-  "LastUpdate_Achievements": "2023-09-05T19:05:10.6148123+00:00"
+  "LastUpdate_Ratings": "2023-09-05T19:59:42.9708954+00:00",
+  "LastUpdate_Achievements": "2023-09-05T20:04:44.1414249+00:00"
 }

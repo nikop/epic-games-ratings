@@ -4,7 +4,7 @@
   "ProductSlug": "test-product-42740e",
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-26T00:00:00+00:00",
@@ -214,8 +214,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T06:00:02.3428806+00:00",
-  "LastChanged_Achievements": "2023-09-05T19:05:30.9733551+00:00",
+  "LastChanged_Achievements": "2023-09-05T20:05:01.1638823+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.9336822+00:00",
-  "LastUpdate_Ratings": "2023-09-05T18:58:02.8366403+00:00",
-  "LastUpdate_Achievements": "2023-09-05T19:05:30.9733717+00:00"
+  "LastUpdate_Ratings": "2023-09-05T19:57:46.14797+00:00",
+  "LastUpdate_Achievements": "2023-09-05T20:05:01.1638984+00:00"
 }

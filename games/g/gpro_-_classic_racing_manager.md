@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 75.00% | ~256 |
+| Newbie | 76.00% | ~261 |
 | Photo shoot | 16.00% | ~55 |
+| Wannabe | 11.00% | ~38 |
 | No brakes | 11.00% | ~38 |
-| Wannabe | 10.00% | ~34 |
 | Better than cake | 8.00% | ~27 |
 | First taste | 7.00% | ~24 |
 | Amateur hitchhiker | 6.00% | ~21 |
 | Reliability expert | 2.00% | ~7 |
+| Hattrick | 2.00% | ~7 |
 | On the top | 2.00% | ~7 |
 | Hero | 1.00% | ~3 |
 | Drama queen | 1.00% | ~3 |
 | Mr. Whiting | 1.00% | ~3 |
-| Hattrick | 1.00% | ~3 |
 | Amateur newbie | 0.90% | ~3 |
 | Loyalty | 0.90% | ~3 |
 | Untouchable | 0.90% | ~3 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342 (Ranked 265)  
+Progressed: 343 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,3 +248,4 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-01 | 339 | 0 |
 | 2023-09-02 | 340 | 0 |
 | 2023-09-03 | 342 | 0 |
+| 2023-09-05 | 343 | 0 |

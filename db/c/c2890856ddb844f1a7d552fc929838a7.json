@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 703,
+  "EOS_Progressed": 704,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1112,6 +1112,11 @@
       "Time": "2023-09-05T19:03:12.4167647+00:00",
       "NumProgressed": 703,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T20:02:24.4126018+00:00",
+      "NumProgressed": 704,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1132,7 +1137,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "AC02",
@@ -1140,7 +1145,7 @@
       "Name": "Blood and Dust",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "AC03",
@@ -1148,7 +1153,7 @@
       "Name": "Blood and Gold",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "AC04",
@@ -1180,7 +1185,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "AC08",
@@ -1188,7 +1193,7 @@
       "Name": "Forged in Fire",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "AC09",
@@ -1196,7 +1201,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "AC10",
@@ -1244,7 +1249,7 @@
       "Name": "Full Devotion",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "AC16",
@@ -1252,7 +1257,7 @@
       "Name": "Weight of Penance",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AC17",
@@ -1260,7 +1265,7 @@
       "Name": "Second Pilgrimage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AC18",
@@ -1268,15 +1273,15 @@
       "Name": "Acquired Taste",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 296
     },
     {
       "ID": "AC20",
@@ -1284,7 +1289,7 @@
       "Name": "Still Among Us",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AC21",
@@ -1324,7 +1329,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "AC26",
@@ -1348,7 +1353,7 @@
       "Name": "The Punished One",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "AC29",
@@ -1388,7 +1393,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "AC34",
@@ -1426,9 +1431,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 218
     },
     {
       "ID": "AC39",
@@ -1442,9 +1447,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 570
     },
     {
       "ID": "AC41",
@@ -1468,7 +1473,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "AC44",
@@ -1491,7 +1496,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 703,
+      "Progressed": 704,
       "Completed": 0
     }
   ],
@@ -1499,8 +1504,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-04T03:01:40.031195+00:00",
-  "LastChanged_Achievements": "2023-09-05T19:03:12.4167642+00:00",
-  "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-05T18:57:34.0695438+00:00",
-  "LastUpdate_Achievements": "2023-09-05T19:03:12.416819+00:00"
+  "LastChanged_Achievements": "2023-09-05T20:02:24.4126012+00:00",
+  "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
+  "LastUpdate_Ratings": "2023-09-05T19:57:21.2266105+00:00",
+  "LastUpdate_Achievements": "2023-09-05T20:02:24.4126524+00:00"
 }

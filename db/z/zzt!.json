@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3158,
+  "EOS_Progressed": 3159,
   "EOS_Completed": 127,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 6,
@@ -4411,6 +4411,11 @@
       "Time": "2023-09-04T13:09:29.584079+00:00",
       "NumProgressed": 3158,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2023-09-05T20:05:07.990342+00:00",
+      "NumProgressed": 3159,
+      "NumCompleted": 127
     }
   ],
   "TotalAchievements": 5,
@@ -4422,7 +4427,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "2",
@@ -4430,7 +4435,7 @@
       "Name": "Traveler",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "3",
@@ -4461,7 +4466,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3158,
+      "Progressed": 3159,
       "Completed": 127
     }
   ],
@@ -4469,8 +4474,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-09-05T19:05:39.1748152+00:00",
+  "LastChanged_Achievements": "2023-09-05T20:05:07.9903413+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:20.0493235+00:00",
-  "LastUpdate_Ratings": "2023-09-05T18:58:58.9904526+00:00",
-  "LastUpdate_Achievements": "2023-09-05T19:05:39.1748529+00:00"
+  "LastUpdate_Ratings": "2023-09-05T19:58:30.178656+00:00",
+  "LastUpdate_Achievements": "2023-09-05T20:05:07.9904234+00:00"
 }

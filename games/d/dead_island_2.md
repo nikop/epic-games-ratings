@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 1.00% | ~6,741 |
-| Break A Leg | 1.00% | ~6,741 |
-| Coup de Grâce | 1.00% | ~6,741 |
-| Hazardous Materials | 1.00% | ~6,741 |
-| Hotel California | 1.00% | ~6,741 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,741 |
-| Welcome To Hell-A | 1.00% | ~6,741 |
-| Dr. Reed, I Presume? | 0.90% | ~6,067 |
-| Friends Like These | 0.90% | ~6,067 |
-| Apex Predator | 0.90% | ~6,067 |
-| Stacking the Deck | 0.90% | ~6,067 |
+| Git Gutte! | 1.00% | ~6,742 |
+| Break A Leg | 1.00% | ~6,742 |
+| Coup de Grâce | 1.00% | ~6,742 |
+| Hazardous Materials | 1.00% | ~6,742 |
+| Hotel California | 1.00% | ~6,742 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,742 |
+| Welcome To Hell-A | 1.00% | ~6,742 |
+| Dr. Reed, I Presume? | 0.90% | ~6,068 |
+| But Doctor, I am Butcho | 0.90% | ~6,068 |
+| Friends Like These | 0.90% | ~6,068 |
+| Apex Predator | 0.90% | ~6,068 |
+| Stacking the Deck | 0.90% | ~6,068 |
 | Bookworm | 0.80% | ~5,393 |
-| But Doctor, I am Butcho | 0.80% | ~5,393 |
 | Slayer Squad | 0.80% | ~5,393 |
 | Can't Handle the Truth | 0.80% | ~5,393 |
 | Like Riding a Bike | 0.80% | ~5,393 |
@@ -36,9 +36,9 @@ Rating: 4.54 (Ranked 505)
 | Max Headroom | 0.50% | ~3,371 |
 | Go, Bobcats! | 0.40% | ~2,697 |
 | Rising Star | 0.40% | ~2,697 |
-| Smorgasbord | 0.30% | ~2,022 |
-| Not Even My Final Form | 0.30% | ~2,022 |
-| Jumbo Keyring | 0.30% | ~2,022 |
+| Smorgasbord | 0.30% | ~2,023 |
+| Not Even My Final Form | 0.30% | ~2,023 |
+| Jumbo Keyring | 0.30% | ~2,023 |
 | Make it So | 0.20% | ~1,348 |
 | LA Influential | 0.20% | ~1,348 |
 | On Safari | 0.20% | ~1,348 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,142 (Ranked 22)  
+Progressed: 674,172 (Ranked 22)  
 Completed: 2,117 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,14 +189,14 @@ Completed: 2,117 (0.31%) (Ranked 176)
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
-| 2023-09-05 | 674,142 | 2,117 |
+| 2023-09-05 | 674,172 | 2,117 |
 ## Awards
-Max (Great Boss Battles): 5,902  (Ranked 59)  
-Sum: 8,719 (Ranked 95)  
+Max (Great Boss Battles): 5,913  (Ranked 59)  
+Sum: 8,730 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,902 |
+| This game has Great Boss Battles | 5,913 |
 | This game is Great for Beginners | 398 |
 | This game has Diverse Characters | 391 |
 | This game has Quickly Understood Controls | 383 |
@@ -345,4 +345,4 @@ Diff (max vs sum): -36
 | 2023-09-02 | 4.54 | 5,867 | 8,645 |
 | 2023-09-03 | 4.54 | 5,889 | 8,684 |
 | 2023-09-04 | 4.54 | 5,902 | 8,698 |
-| 2023-09-05 | 4.54 | 5,902 | 8,719 |
+| 2023-09-05 | 4.54 | 5,913 | 8,730 |
