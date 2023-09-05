@@ -6,7 +6,7 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
@@ -6382,10 +6382,10 @@
       "Count": 3399
     }
   ],
-  "EOS_Progressed": 227350,
-  "EOS_Completed": 2253,
-  "EOS_NewPlayers": 1343,
-  "EOS_NewCompleters": 23,
+  "EOS_Progressed": 227363,
+  "EOS_Completed": 2254,
+  "EOS_NewPlayers": 1344,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -21632,6 +21632,11 @@
       "Time": "2023-09-05T21:06:14.8504121+00:00",
       "NumProgressed": 227350,
       "NumCompleted": 2253
+    },
+    {
+      "Time": "2023-09-05T22:06:58.4800145+00:00",
+      "NumProgressed": 227363,
+      "NumCompleted": 2254
     }
   ],
   "TotalAchievements": 520,
@@ -21643,7 +21648,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "objective_completed_10",
@@ -25785,9 +25790,9 @@
       "ID": "objective_completed_1370",
       "SetID": "415jc5c",
       "Name": "The End",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 387
     },
     {
       "ID": "objective_completed_1371",
@@ -25802,21 +25807,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193624,
+      "Progressed": 193637,
       "Completed": 3400
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227350,
-      "Completed": 2253
+      "Progressed": 227363,
+      "Completed": 2254
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-05T09:58:46.6061409+00:00",
-  "LastChanged_Achievements": "2023-09-05T21:06:14.8504113+00:00",
+  "LastChanged_Achievements": "2023-09-05T22:06:58.4800141+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-05T20:58:58.8153388+00:00",
-  "LastUpdate_Achievements": "2023-09-05T21:06:14.8539471+00:00"
+  "LastUpdate_Ratings": "2023-09-05T21:59:29.5045681+00:00",
+  "LastUpdate_Achievements": "2023-09-05T22:06:58.4834732+00:00"
 }

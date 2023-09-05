@@ -2,7 +2,7 @@
   "ID": "df2da503f2074f078f8090da3c27ec47",
   "Name": "BioShock Infinite: Complete Edition",
   "ProductSlug": "bioshock-infinite-complete-edition",
-  "Ranking_Rating": 200,
+  "Ranking_Rating": 201,
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 574,
@@ -2176,10 +2176,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 5617,
       "NumberOfAwardsMax": 4569
+    },
+    {
+      "Time": "2023-09-05T22:02:04.0534924+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 5618,
+      "NumberOfAwardsMax": 4569
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5617,
+  "NumberOfAwards": 5618,
   "NumberOfAwardsMax": 4569,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2193,7 +2199,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 124
+      "Count": 125
     },
     {
       "Text": "This game is Relaxing",
@@ -2273,8 +2279,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:42.6159254+00:00",
-  "LastChanged": "2023-09-04T07:00:13.448731+00:00",
+  "LastChanged": "2023-09-05T22:02:04.0534923+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:31.7302369+00:00",
-  "LastUpdate_Ratings": "2023-09-05T21:01:13.3823626+00:00",
-  "LastUpdate_Achievements": "2023-09-05T21:05:52.0740508+00:00"
+  "LastUpdate_Ratings": "2023-09-05T22:02:04.0534929+00:00",
+  "LastUpdate_Achievements": "2023-09-05T22:06:31.4839356+00:00"
 }

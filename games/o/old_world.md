@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 5.00% | ~689 |
-| Play a Single Player Game | 5.00% | ~689 |
+| Settler | 5.00% | ~690 |
+| Play a Single Player Game | 5.00% | ~690 |
 | Explorer | 4.00% | ~552 |
 | Intrepid | 4.00% | ~552 |
 | Friendly Family | 4.00% | ~552 |
@@ -125,6 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.70% | ~97 |
 | Kushite Cavalry | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
+| Old | 0.60% | ~83 |
 | Strong Difficulty | 0.60% | ~83 |
 | Hunters | 0.60% | ~83 |
 | Learn to Play 4 | 0.60% | ~83 |
@@ -132,7 +133,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
 | No Undo | 0.60% | ~83 |
-| Old | 0.50% | ~69 |
 | Peacemaker | 0.50% | ~69 |
 | Clerics | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,789 (Ranked 121)  
+Progressed: 13,790 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -441,7 +441,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-02 | 13,749 | 5 |
 | 2023-09-03 | 13,767 | 5 |
 | 2023-09-04 | 13,779 | 5 |
-| 2023-09-05 | 13,789 | 5 |
+| 2023-09-05 | 13,790 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

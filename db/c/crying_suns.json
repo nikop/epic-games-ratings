@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466760,
+  "EOS_Progressed": 466762,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
@@ -15103,6 +15103,11 @@
       "Time": "2023-09-05T21:04:41.2476497+00:00",
       "NumProgressed": 466760,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-05T22:05:09.5902036+00:00",
+      "NumProgressed": 466762,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15130,7 +15135,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112022
+      "UsersEstimate": 112023
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -15138,7 +15143,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102687
+      "UsersEstimate": 102688
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -15202,7 +15207,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308062
+      "UsersEstimate": 308063
     },
     {
       "ID": "achievement_story_landa",
@@ -15538,7 +15543,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205374
+      "UsersEstimate": 205375
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -15546,7 +15551,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140028
+      "UsersEstimate": 140029
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -15570,7 +15575,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182036
+      "UsersEstimate": 182037
     },
     {
       "ID": "achievement_win_run_hard",
@@ -15626,7 +15631,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102687
+      "UsersEstimate": 102688
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -15745,21 +15750,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10694,
+      "Progressed": 10696,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466760,
+      "Progressed": 466762,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-05T21:04:41.2476489+00:00",
+  "LastChanged_Achievements": "2023-09-05T22:05:09.5902028+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.6951688+00:00",
-  "LastUpdate_Ratings": "2023-09-05T21:00:19.0420004+00:00",
-  "LastUpdate_Achievements": "2023-09-05T21:04:41.2479565+00:00"
+  "LastUpdate_Ratings": "2023-09-05T22:01:04.8417841+00:00",
+  "LastUpdate_Achievements": "2023-09-05T22:05:09.5905153+00:00"
 }

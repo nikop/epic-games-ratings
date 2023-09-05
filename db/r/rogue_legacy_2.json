@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1401,9 +1401,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23019,
+  "EOS_Progressed": 23020,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7471,6 +7471,11 @@
       "Time": "2023-09-05T18:04:58.1307218+00:00",
       "NumProgressed": 23019,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-09-05T22:04:43.5022116+00:00",
+      "NumProgressed": 23020,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -7600,9 +7605,9 @@
       "ID": "BossForestAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Survival",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 92
     },
     {
       "ID": "BossForestDefeated",
@@ -7793,21 +7798,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23019,
+      "Progressed": 23020,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1949,
+      "Progressed": 1950,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-09-05T20:59:59.9293939+00:00",
-  "LastChanged_Achievements": "2023-09-05T21:04:18.6314147+00:00",
+  "LastChanged_Achievements": "2023-09-05T22:04:43.502211+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:36.5916286+00:00",
-  "LastUpdate_Ratings": "2023-09-05T20:59:59.9293948+00:00",
-  "LastUpdate_Achievements": "2023-09-05T21:04:18.6315302+00:00"
+  "LastUpdate_Ratings": "2023-09-05T22:00:41.0607843+00:00",
+  "LastUpdate_Achievements": "2023-09-05T22:04:43.5022799+00:00"
 }

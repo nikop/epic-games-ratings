@@ -6,22 +6,22 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,706 |
-| That's a Grand Army | 3.00% | ~11,779 |
-| That is mine! | 3.00% | ~11,779 |
-| Victorious! | 3.00% | ~11,779 |
-| Brothers in Arms | 2.00% | ~7,853 |
-| For the Glory | 2.00% | ~7,853 |
-| That's a Grand Navy | 2.00% | ~7,853 |
-| Seriously?! | 2.00% | ~7,853 |
-| Cold War | 1.00% | ~3,926 |
-| Defender of the Faith | 1.00% | ~3,926 |
-| It's all about the money | 1.00% | ~3,926 |
-| True Catholic | 1.00% | ~3,926 |
+| Until death do us apart | 4.00% | ~15,708 |
+| That's a Grand Army | 3.00% | ~11,781 |
+| That is mine! | 3.00% | ~11,781 |
+| Victorious! | 3.00% | ~11,781 |
+| Brothers in Arms | 2.00% | ~7,854 |
+| For the Glory | 2.00% | ~7,854 |
+| That's a Grand Navy | 2.00% | ~7,854 |
+| Seriously?! | 2.00% | ~7,854 |
+| Cold War | 1.00% | ~3,927 |
+| Defender of the Faith | 1.00% | ~3,927 |
+| It's all about the money | 1.00% | ~3,927 |
+| True Catholic | 1.00% | ~3,927 |
 | Respected | 0.90% | ~3,534 |
 | The Princess is in this Castle | 0.90% | ~3,534 |
-| It's all about luck | 0.80% | ~3,141 |
-| Truly Divine Ruler | 0.80% | ~3,141 |
+| It's all about luck | 0.80% | ~3,142 |
+| Truly Divine Ruler | 0.80% | ~3,142 |
 | Blockader | 0.70% | ~2,749 |
 | Double the Love | 0.70% | ~2,749 |
 | Royal Authority | 0.70% | ~2,749 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392,644 (Ranked 40)  
+Progressed: 392,690 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -499,7 +499,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-02 | 388,066 | 0 |
 | 2023-09-03 | 390,095 | 0 |
 | 2023-09-04 | 391,485 | 0 |
-| 2023-09-05 | 392,644 | 0 |
+| 2023-09-05 | 392,690 | 0 |
 ## Awards
 Max (Educational): 5,944  (Ranked 58)  
 Sum: 48,875 (Ranked 26)  

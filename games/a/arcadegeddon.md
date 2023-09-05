@@ -15,8 +15,8 @@ Number of Ratings: 801  (23.09.2022)
 | Coup d'Etat | 59.00% | ~5,249 |
 | You're Fired | 57.00% | ~5,071 |
 | Get Furious | 56.00% | ~4,982 |
+| Gunplay And Cosplay | 55.00% | ~4,893 |
 | Hacks In Stacks | 55.00% | ~4,893 |
-| Gunplay And Cosplay | 54.00% | ~4,804 |
 | Meching Enemies | 49.00% | ~4,360 |
 | Ticket Toddler | 44.00% | ~3,915 |
 | Booty Bashing | 39.00% | ~3,470 |

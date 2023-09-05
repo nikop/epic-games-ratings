@@ -10,7 +10,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Photographer | 69.00% | ~6,442 |
 | Valley's Helper | 63.00% | ~5,882 |
 | Constructor | 52.00% | ~4,855 |
-| Renovator | 51.00% | ~4,761 |
+| Renovator | 52.00% | ~4,855 |
 | Bestest Friend | 48.00% | ~4,481 |
 | Banker | 39.00% | ~3,641 |
 | Gardener | 31.00% | ~2,894 |

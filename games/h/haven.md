@@ -14,7 +14,7 @@ Number of Ratings: 38  (23.09.2022)
 | Shake the rust off their feet | 21.00% | ~298 |
 | My little pony | 20.00% | ~284 |
 | Strike! | 19.00% | ~270 |
-| A love supreme | 18.00% | ~255 |
+| A love supreme | 19.00% | ~270 |
 | In my shoes | 17.00% | ~241 |
 | Like new! | 15.00% | ~213 |
 | Heartstrings | 14.00% | ~199 |

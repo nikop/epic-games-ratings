@@ -24,9 +24,9 @@ Rating: 4.54 (Ranked 505)
 | Like Riding a Bike | 0.80% | ~5,394 |
 | Zombologist | 0.80% | ~5,394 |
 | A Patton Emerges | 0.80% | ~5,394 |
-| Ooh, Shiny! | 0.70% | ~4,719 |
-| I Am the Resurrection | 0.70% | ~4,719 |
-| Our True Nature | 0.70% | ~4,719 |
+| Ooh, Shiny! | 0.70% | ~4,720 |
+| I Am the Resurrection | 0.70% | ~4,720 |
+| Our True Nature | 0.70% | ~4,720 |
 | Anger Management | 0.60% | ~4,045 |
 | Perks of the Job | 0.60% | ~4,045 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,045 |
@@ -38,11 +38,11 @@ Rating: 4.54 (Ranked 505)
 | Rising Star | 0.40% | ~2,697 |
 | Smorgasbord | 0.30% | ~2,023 |
 | Not Even My Final Form | 0.30% | ~2,023 |
+| Internet Famous | 0.30% | ~2,023 |
 | Jumbo Keyring | 0.30% | ~2,023 |
 | Make it So | 0.20% | ~1,348 |
 | LA Influential | 0.20% | ~1,348 |
 | On Safari | 0.20% | ~1,348 |
-| Internet Famous | 0.20% | ~1,348 |
 | Gore Horse | 0.20% | ~1,348 |
 | Variety is the Spice of Death | 0.20% | ~1,348 |
 | Donk! | 0.10% | ~674 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,212 (Ranked 22)  
+Progressed: 674,234 (Ranked 22)  
 Completed: 2,117 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2,117 (0.31%) (Ranked 176)
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
-| 2023-09-05 | 674,212 | 2,117 |
+| 2023-09-05 | 674,234 | 2,117 |
 ## Awards
 Max (Great Boss Battles): 5,913  (Ranked 59)  
 Sum: 8,730 (Ranked 95)  

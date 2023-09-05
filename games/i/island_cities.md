@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~460 |
-| A tiny town | 86.00% | ~408 |
-| Buildings, roads, cars, ...and people | 67.00% | ~318 |
-| Great view from the beach and from the hill | 57.00% | ~270 |
-| Bridges to come and go | 50.00% | ~237 |
+| Welcome! | 97.00% | ~462 |
+| A tiny town | 86.00% | ~409 |
+| Buildings, roads, cars, ...and people | 67.00% | ~319 |
+| Great view from the beach and from the hill | 57.00% | ~271 |
+| Bridges to come and go | 50.00% | ~238 |
 | Found an oasis | 44.00% | ~209 |
 | Burger or pizza? | 40.00% | ~190 |
-| Passion for sports | 34.00% | ~161 |
-| Who loves trains? | 31.00% | ~147 |
-| Easy and steady climb | 29.00% | ~137 |
-| At the heart of the city | 26.00% | ~123 |
-| Calm neighborhood | 25.00% | ~118 |
+| Passion for sports | 34.00% | ~162 |
+| Who loves trains? | 31.00% | ~148 |
+| Easy and steady climb | 29.00% | ~138 |
+| At the heart of the city | 26.00% | ~124 |
+| Calm neighborhood | 25.00% | ~119 |
 | Elevated ring | 23.00% | ~109 |
-| Not lonely anymore | 23.00% | ~109 |
-| Monumental tribute | 22.00% | ~104 |
+| Not lonely anymore | 22.00% | ~105 |
+| Monumental tribute | 22.00% | ~105 |
 | The beach is right there | 21.00% | ~100 |
 | Commuting | 21.00% | ~100 |
 | Le jardin magnifique | 20.00% | ~95 |
 | Aiming for a living and human city | 19.00% | ~90 |
-| City of dreams | 18.00% | ~85 |
-| Happy Christmas night! | 18.00% | ~85 |
-| Night walk along the beach | 18.00% | ~85 |
+| City of dreams | 18.00% | ~86 |
+| Happy Christmas night! | 18.00% | ~86 |
+| Night walk along the beach | 18.00% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 242)  
-Completed: 88 (18.57%) (Ranked 15)  
+Progressed: 476 (Ranked 242)  
+Completed: 88 (18.49%) (Ranked 15)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,7 +142,7 @@ Completed: 88 (18.57%) (Ranked 15)
 | 2023-08-31 | 469 | 87 |
 | 2023-09-02 | 470 | 87 |
 | 2023-09-03 | 470 | 88 |
-| 2023-09-05 | 474 | 88 |
+| 2023-09-05 | 476 | 88 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

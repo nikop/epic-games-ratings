@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~17,039 |
-| It wakes | 2.00% | ~17,039 |
-| Not half bad | 2.00% | ~17,039 |
-| Apt Survivor | 2.00% | ~17,039 |
-| Survival Treasures | 2.00% | ~17,039 |
-| Skillful | 2.00% | ~17,039 |
-| Make Some Noise | 2.00% | ~17,039 |
-| MU/TH/UR Dearest | 2.00% | ~17,039 |
-| The Grand Sacrifice | 1.00% | ~8,519 |
-| Agonizing Escape | 1.00% | ~8,519 |
-| Backdoor Escape | 1.00% | ~8,519 |
-| No one left behind | 1.00% | ~8,519 |
-| Medic | 1.00% | ~8,519 |
-| Handyman | 1.00% | ~8,519 |
-| Nerves of steel | 1.00% | ~8,519 |
-| Perfect Escape | 1.00% | ~8,519 |
-| Bloody Millionaire | 1.00% | ~8,519 |
-| I | 1.00% | ~8,519 |
-| Engineer | 1.00% | ~8,519 |
-| Sorted | 1.00% | ~8,519 |
-| Healthy Obsession | 1.00% | ~8,519 |
-| Resurgence | 1.00% | ~8,519 |
-| Preemptive Strike | 1.00% | ~8,519 |
-| Humanitarian | 1.00% | ~8,519 |
-| I've got your back | 0.90% | ~7,667 |
-| Perfect Killing | 0.90% | ~7,667 |
-| Risk it all | 0.90% | ~7,667 |
-| Terror of LV-426 | 0.90% | ~7,667 |
-| Apt Killer | 0.80% | ~6,815 |
-| II | 0.80% | ~6,815 |
-| Wounded Healer | 0.80% | ~6,815 |
-| Close Shave | 0.80% | ~6,815 |
-| Second Act | 0.80% | ~6,815 |
-| Vulture | 0.70% | ~5,963 |
-| III | 0.70% | ~5,963 |
+| Zealous | 2.00% | ~17,041 |
+| It wakes | 2.00% | ~17,041 |
+| Not half bad | 2.00% | ~17,041 |
+| Apt Survivor | 2.00% | ~17,041 |
+| Survival Treasures | 2.00% | ~17,041 |
+| Skillful | 2.00% | ~17,041 |
+| Make Some Noise | 2.00% | ~17,041 |
+| MU/TH/UR Dearest | 2.00% | ~17,041 |
+| The Grand Sacrifice | 1.00% | ~8,521 |
+| Agonizing Escape | 1.00% | ~8,521 |
+| Backdoor Escape | 1.00% | ~8,521 |
+| No one left behind | 1.00% | ~8,521 |
+| Medic | 1.00% | ~8,521 |
+| Handyman | 1.00% | ~8,521 |
+| Nerves of steel | 1.00% | ~8,521 |
+| Perfect Escape | 1.00% | ~8,521 |
+| Bloody Millionaire | 1.00% | ~8,521 |
+| I | 1.00% | ~8,521 |
+| Engineer | 1.00% | ~8,521 |
+| Sorted | 1.00% | ~8,521 |
+| Healthy Obsession | 1.00% | ~8,521 |
+| Resurgence | 1.00% | ~8,521 |
+| Preemptive Strike | 1.00% | ~8,521 |
+| Humanitarian | 1.00% | ~8,521 |
+| I've got your back | 0.90% | ~7,668 |
+| Perfect Killing | 0.90% | ~7,668 |
+| Risk it all | 0.90% | ~7,668 |
+| Terror of LV-426 | 0.90% | ~7,668 |
+| Apt Killer | 0.80% | ~6,816 |
+| II | 0.80% | ~6,816 |
+| Wounded Healer | 0.80% | ~6,816 |
+| Close Shave | 0.80% | ~6,816 |
+| Second Act | 0.80% | ~6,816 |
+| Vulture | 0.70% | ~5,964 |
+| III | 0.70% | ~5,964 |
 | First to the Punch | 0.60% | ~5,112 |
 | With Scars to Show | 0.60% | ~5,112 |
 | Blood on your hands | 0.50% | ~4,260 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~852 |
 | Adept Ripley | 0.10% | ~852 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 851,926 (Ranked 15)  
+Progressed: 852,053 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,7 +374,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
 | 2023-09-04 | 849,226 | 48 |
-| 2023-09-05 | 851,926 | 48 |
+| 2023-09-05 | 852,053 | 48 |
 ## Awards
 Max (Diverse Characters): 31,976  (Ranked 15)  
 Sum: 250,511 (Ranked 11)  

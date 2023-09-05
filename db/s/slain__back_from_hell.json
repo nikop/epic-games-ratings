@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35971,
+  "EOS_Progressed": 35975,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 516,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15467,6 +15467,11 @@
       "Time": "2023-09-05T21:05:47.5943963+00:00",
       "NumProgressed": 35971,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-05T22:06:25.9788713+00:00",
+      "NumProgressed": 35975,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -15486,7 +15491,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7194
+      "UsersEstimate": 7195
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -15518,7 +15523,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -15590,7 +15595,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -15709,7 +15714,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35971,
+      "Progressed": 35975,
       "Completed": 23
     }
   ],
@@ -15717,8 +15722,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-05T21:05:47.5943956+00:00",
+  "LastChanged_Achievements": "2023-09-05T22:06:25.9788703+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
-  "LastUpdate_Ratings": "2023-09-05T21:01:22.9042063+00:00",
-  "LastUpdate_Achievements": "2023-09-05T21:05:47.5945925+00:00"
+  "LastUpdate_Ratings": "2023-09-05T22:02:12.1833703+00:00",
+  "LastUpdate_Achievements": "2023-09-05T22:06:25.9789917+00:00"
 }

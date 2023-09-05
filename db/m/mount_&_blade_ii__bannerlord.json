@@ -6927,9 +6927,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60399,
+  "EOS_Progressed": 60403,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21572,6 +21572,11 @@
       "Time": "2023-09-05T21:03:47.9617986+00:00",
       "NumProgressed": 60399,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T22:04:08.0361362+00:00",
+      "NumProgressed": 60403,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21599,7 +21604,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 13892
+      "UsersEstimate": 13893
     },
     {
       "ID": "Best served cold",
@@ -21743,7 +21748,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 13892
+      "UsersEstimate": 13893
     },
     {
       "ID": "I can do it",
@@ -21775,7 +21780,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10268
+      "UsersEstimate": 10269
     },
     {
       "ID": "Kingslayer",
@@ -21807,7 +21812,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19328
+      "UsersEstimate": 19329
     },
     {
       "ID": "Lawbringer",
@@ -21815,7 +21820,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22952
+      "UsersEstimate": 22953
     },
     {
       "ID": "Lawmaker",
@@ -21823,7 +21828,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13892
+      "UsersEstimate": 13893
     },
     {
       "ID": "Long live the Empire",
@@ -21935,7 +21940,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10872
+      "UsersEstimate": 10873
     },
     {
       "ID": "This Is Our Land",
@@ -21959,7 +21964,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13288
+      "UsersEstimate": 13289
     },
     {
       "ID": "Undercover",
@@ -21990,15 +21995,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60399,
+      "Progressed": 60403,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-05T14:01:34.9860141+00:00",
-  "LastChanged_Achievements": "2023-09-05T21:03:47.961798+00:00",
+  "LastChanged_Achievements": "2023-09-05T22:04:08.0361355+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-05T21:01:12.1879791+00:00",
-  "LastUpdate_Achievements": "2023-09-05T21:03:47.9619547+00:00"
+  "LastUpdate_Ratings": "2023-09-05T22:02:02.6756735+00:00",
+  "LastUpdate_Achievements": "2023-09-05T22:04:08.0364064+00:00"
 }

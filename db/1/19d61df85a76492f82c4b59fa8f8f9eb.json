@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 299,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.51,
+  "EOS_Completed_Percentage": 10.48,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -1461,6 +1461,11 @@
       "Time": "2023-09-01T15:08:12.8208277+00:00",
       "NumProgressed": 314,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-05T22:04:29.6668971+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 6,
@@ -1470,17 +1475,17 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 175,
-      "UsersEstimate": 188
+      "UsersEstimate": 186
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 165,
-      "UsersEstimate": 201
+      "UsersEstimate": 198
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -1488,7 +1493,7 @@
       "Name": "Viola Organista",
       "Percentage": 51,
       "XP": 165,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -1502,9 +1507,9 @@
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 165,
-      "UsersEstimate": 97
+      "UsersEstimate": 94
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -1519,14 +1524,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2023-09-05T21:04:06.6249015+00:00",
+  "LastChanged_Achievements": "2023-09-05T22:04:29.6668963+00:00",
   "LastUpdate_AppInfo": "2023-08-31T17:57:09.1375607+00:00",
-  "LastUpdate_Ratings": "2023-09-05T20:57:13.1653892+00:00",
-  "LastUpdate_Achievements": "2023-09-05T21:04:06.6249168+00:00"
+  "LastUpdate_Ratings": "2023-09-05T21:57:28.586252+00:00",
+  "LastUpdate_Achievements": "2023-09-05T22:04:29.6669217+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.70% | ~1,591 |
+| A Brief Tour of the Realms | 0.70% | ~1,592 |
 | Beast Intentions | 0.40% | ~909 |
 | The Cursed Farmer | 0.30% | ~682 |
 | The Mad Wizard | 0.30% | ~682 |
@@ -20,6 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.20% | ~455 |
 | Pure Energy | 0.20% | ~455 |
 | Legends and Lore | 0.20% | ~387 |
+| The End | 0.20% | ~387 |
 | Pros and CONs | 0.10% | ~227 |
 | Upholding the Law | 0.10% | ~227 |
 | Starving in the Jungle | 0.10% | ~227 |
@@ -524,11 +525,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | To Infinity's and Beyond | 0.10% | ~194 |
 | There's a Flying Snake in my Boot! | 0.10% | ~194 |
 | Unearthed Arcana | 0.10% | ~194 |
-| The End | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,350 (Ranked 54)  
-Completed: 2,253 (0.99%) (Ranked 123)  
+Progressed: 227,363 (Ranked 54)  
+Completed: 2,254 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -665,7 +665,7 @@ Completed: 2,253 (0.99%) (Ranked 123)
 | 2023-09-02 | 226,722 | 2,245 |
 | 2023-09-03 | 226,879 | 2,246 |
 | 2023-09-04 | 227,081 | 2,250 |
-| 2023-09-05 | 227,350 | 2,253 |
+| 2023-09-05 | 227,363 | 2,254 |
 ## Awards
 Max (Diverse Characters): 5,227  (Ranked 67)  
 Sum: 31,411 (Ranked 38)  

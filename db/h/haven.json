@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -1795,9 +1795,9 @@
       "ID": "29",
       "SetID": "n50no0",
       "Name": "A love supreme",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 270
     },
     {
       "ID": "3",
@@ -1891,8 +1891,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-05T21:08:05.2786077+00:00",
+  "LastChanged_Achievements": "2023-09-05T22:09:05.582109+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.160732+00:00",
-  "LastUpdate_Ratings": "2023-09-05T21:00:40.6238701+00:00",
-  "LastUpdate_Achievements": "2023-09-05T21:08:05.2786623+00:00"
+  "LastUpdate_Ratings": "2023-09-05T22:01:29.6137705+00:00",
+  "LastUpdate_Achievements": "2023-09-05T22:09:05.582159+00:00"
 }

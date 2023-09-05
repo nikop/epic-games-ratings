@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
     "PcReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -749,9 +749,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 28237,
+  "EOS_Progressed": 28238,
   "EOS_Completed": 1341,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.75,
   "EosHistory": [
@@ -4944,6 +4944,11 @@
       "Time": "2023-09-05T15:03:45.3984624+00:00",
       "NumProgressed": 28237,
       "NumCompleted": 1341
+    },
+    {
+      "Time": "2023-09-05T22:03:38.6226731+00:00",
+      "NumProgressed": 28238,
+      "NumCompleted": 1341
     }
   ],
   "TotalAchievements": 30,
@@ -5011,7 +5016,7 @@
       "Name": "Got to Catch a Lot",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 18636
+      "UsersEstimate": 18637
     },
     {
       "ID": "ACH_CATCH_QUARTER",
@@ -5019,7 +5024,7 @@
       "Name": "Got to Catch a Few",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 21742
+      "UsersEstimate": 21743
     },
     {
       "ID": "ACH_CHEESE_SCAN",
@@ -5051,7 +5056,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 27390
+      "UsersEstimate": 27391
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -5147,7 +5152,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 26260
+      "UsersEstimate": 26261
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -5171,7 +5176,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10165
+      "UsersEstimate": 10166
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -5187,22 +5192,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 24566
+      "UsersEstimate": 24567
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 28237,
+      "Progressed": 28238,
       "Completed": 1341
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
   "LastChanged": "2023-09-03T22:59:53.4524296+00:00",
-  "LastChanged_Achievements": "2023-09-05T21:03:31.0361974+00:00",
+  "LastChanged_Achievements": "2023-09-05T22:03:38.6226725+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:42.4237729+00:00",
-  "LastUpdate_Ratings": "2023-09-05T21:01:26.7201682+00:00",
-  "LastUpdate_Achievements": "2023-09-05T21:03:31.0362472+00:00"
+  "LastUpdate_Ratings": "2023-09-05T22:02:15.4180062+00:00",
+  "LastUpdate_Achievements": "2023-09-05T22:03:38.6227231+00:00"
 }
