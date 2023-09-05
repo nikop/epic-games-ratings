@@ -32,7 +32,7 @@
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
@@ -191,8 +191,8 @@
 | 188 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 190 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
 | 190 | [Blanc](games/b/blanc.md) | 0.23% |
-| 190 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.23% |
-| 193 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 192 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 192 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.22% |
 | 194 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.21% |
 | 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 194 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
