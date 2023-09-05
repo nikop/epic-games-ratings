@@ -279,7 +279,6 @@
 | [The Library of Babel](../games/t/the_library_of_babel.md) | 35 | 1,000 |
 | [Airport CEO](../games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 34 | 1,000 |
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
-| [Cloud Cutter](../games/c/cloud_cutter.md) | 34 | 1,000 |
 | [Crayta](../games/c/crayta.md) | 34 | 1,000 |
 | [Elypse](../games/e/elypse.md) | 34 | 1,000 |
 | [Fall Guys](../games/f/fall_guys.md) | 34 | 1,000 |
