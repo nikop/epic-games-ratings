@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 67999,
+  "EOS_Progressed": 68000,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15319,6 +15319,11 @@
       "Time": "2023-09-05T02:22:34.7098266+00:00",
       "NumProgressed": 67999,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2023-09-05T03:08:10.2531437+00:00",
+      "NumProgressed": 68000,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 24,
@@ -15346,7 +15351,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 46239
+      "UsersEstimate": 46240
     },
     {
       "ID": "BEST_FRIENDS",
@@ -15410,7 +15415,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36039
+      "UsersEstimate": 36040
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -15521,7 +15526,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 67999,
+      "Progressed": 68000,
       "Completed": 354
     }
   ],
@@ -15529,8 +15534,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-05T02:22:34.7098262+00:00",
+  "LastChanged_Achievements": "2023-09-05T03:08:10.2531431+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:13.6353756+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:14:18.4562678+00:00",
-  "LastUpdate_Achievements": "2023-09-05T02:22:34.7099453+00:00"
+  "LastUpdate_Ratings": "2023-09-05T03:00:31.4007493+00:00",
+  "LastUpdate_Achievements": "2023-09-05T03:08:10.2532819+00:00"
 }

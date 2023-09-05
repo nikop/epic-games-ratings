@@ -5,22 +5,22 @@ Rating: 4.39 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~742,981 |
-| The ABCs | 43.00% | ~652,003 |
-| Home Run | 41.00% | ~621,678 |
-| Keeps Coming Off | 41.00% | ~621,678 |
-| Guts | 20.00% | ~303,257 |
-| Meat Grinder | 19.00% | ~288,095 |
-| Burning Man | 16.00% | ~242,606 |
-| Lived to Tell the Tale | 12.00% | ~181,954 |
+| Justice from the Grave | 49.00% | ~742,984 |
+| The ABCs | 43.00% | ~652,006 |
+| Home Run | 41.00% | ~621,681 |
+| Keeps Coming Off | 41.00% | ~621,681 |
+| Guts | 20.00% | ~303,259 |
+| Meat Grinder | 19.00% | ~288,096 |
+| Burning Man | 16.00% | ~242,607 |
+| Lived to Tell the Tale | 12.00% | ~181,955 |
 | Highlander | 10.00% | ~151,629 |
 | Unstoppable | 10.00% | ~151,629 |
 | Just a Scratch | 9.00% | ~136,466 |
-| Tough Nut to Crack | 6.00% | ~90,977 |
-| Yoink | 6.00% | ~90,977 |
-| Long List of Names | 4.00% | ~60,651 |
-| Pyromaniac | 4.00% | ~60,651 |
-| The Queen of Weapons | 4.00% | ~60,651 |
+| Tough Nut to Crack | 6.00% | ~90,978 |
+| Yoink | 6.00% | ~90,978 |
+| Long List of Names | 4.00% | ~60,652 |
+| Pyromaniac | 4.00% | ~60,652 |
+| The Queen of Weapons | 4.00% | ~60,652 |
 | This isn’t Sparta | 3.00% | ~45,489 |
 | Crybaby | 2.00% | ~30,326 |
 | Eagle Eye | 2.00% | ~30,326 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 721)
 | That’s No Ordinary Cold | 0.10% | ~1,516 |
 | Stairway to Hell | 0.10% | ~1,516 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,516,287 (Ranked 8)  
+Progressed: 1,516,294 (Ranked 8)  
 Completed: 56 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,10 +182,10 @@ Completed: 56 (0.00%) (Ranked 271)
 | 2023-09-02 | 1,514,708 | 56 |
 | 2023-09-03 | 1,515,589 | 56 |
 | 2023-09-04 | 1,516,218 | 56 |
-| 2023-09-05 | 1,516,287 | 56 |
+| 2023-09-05 | 1,516,294 | 56 |
 ## Awards
 Max (Diverse Characters): 584  (Ranked 185)  
-Sum: 3,227 (Ranked 156)  
+Sum: 3,230 (Ranked 156)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -193,8 +193,8 @@ Diff (max vs sum): 29
 | This game is Highly Recommended | 521 |
 | This game has Challenging Combat | 502 |
 | This game is Extremely Fun | 434 |
+| This game has Amazing Characters | 422 |
 | This game has Competitive Players | 420 |
-| This game has Amazing Characters | 419 |
 | This game has Amazing Storytelling | 347 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
@@ -344,3 +344,4 @@ Diff (max vs sum): 29
 | 2023-09-02 | 4.39 | 574 | 3,190 |
 | 2023-09-03 | 4.39 | 582 | 3,212 |
 | 2023-09-04 | 4.39 | 584 | 3,227 |
+| 2023-09-05 | 4.39 | 584 | 3,230 |

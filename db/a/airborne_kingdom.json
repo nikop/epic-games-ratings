@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7138,
+  "EOS_Progressed": 7139,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -4099,6 +4099,11 @@
       "Time": "2023-09-04T22:06:12.5445105+00:00",
       "NumProgressed": 7138,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-05T03:07:43.5143138+00:00",
+      "NumProgressed": 7139,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4142,7 +4147,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3783
+      "UsersEstimate": 3784
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4158,7 +4163,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -4166,7 +4171,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -4174,7 +4179,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -4262,7 +4267,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -4310,7 +4315,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -4325,15 +4330,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7138,
+      "Progressed": 7139,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-05T02:21:35.4721921+00:00",
+  "LastChanged_Achievements": "2023-09-05T03:07:43.5143132+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.9166051+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:12:01.5688094+00:00",
-  "LastUpdate_Achievements": "2023-09-05T02:21:35.4722694+00:00"
+  "LastUpdate_Ratings": "2023-09-05T02:58:16.8269348+00:00",
+  "LastUpdate_Achievements": "2023-09-05T03:07:43.5144106+00:00"
 }

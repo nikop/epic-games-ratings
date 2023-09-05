@@ -7,8 +7,8 @@ Rating: 4.42 (Ranked 682)
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~79,321 |
 | Predator I | 22.00% | ~56,292 |
-| Fixer I | 10.00% | ~25,587 |
-| A week in Century City | 10.00% | ~25,587 |
+| Fixer I | 10.00% | ~25,588 |
+| A week in Century City | 10.00% | ~25,588 |
 | The Wait | 7.00% | ~17,911 |
 | Green thumb I | 6.00% | ~15,352 |
 | Cleaning Company | 6.00% | ~15,352 |
@@ -19,14 +19,14 @@ Rating: 4.42 (Ranked 682)
 | Vandalism | 4.00% | ~10,235 |
 | Capitalist I | 4.00% | ~10,235 |
 | Adrenaline | 3.00% | ~7,676 |
-| By a hair | 2.00% | ~5,117 |
-| Fixer II | 2.00% | ~5,117 |
-| It took a while | 2.00% | ~5,117 |
-| Samurai | 2.00% | ~5,117 |
-| I Left You a Present | 2.00% | ~5,117 |
-| Predator II | 2.00% | ~5,117 |
-| Truffle Dog | 2.00% | ~5,117 |
-| A month in Century City | 2.00% | ~5,117 |
+| By a hair | 2.00% | ~5,118 |
+| Fixer II | 2.00% | ~5,118 |
+| It took a while | 2.00% | ~5,118 |
+| Samurai | 2.00% | ~5,118 |
+| I Left You a Present | 2.00% | ~5,118 |
+| Predator II | 2.00% | ~5,118 |
+| Truffle Dog | 2.00% | ~5,118 |
+| A month in Century City | 2.00% | ~5,118 |
 | The Strengthening | 1.00% | ~2,559 |
 | Saver II | 1.00% | ~2,559 |
 | It's the last one, I swear | 1.00% | ~2,559 |
@@ -41,9 +41,9 @@ Rating: 4.42 (Ranked 682)
 | The Gamble | 0.50% | ~1,279 |
 | The Descent | 0.50% | ~1,279 |
 | A major purchase | 0.50% | ~1,279 |
-| Expert Hunter | 0.40% | ~1,023 |
-| Fungi hunter | 0.40% | ~1,023 |
-| Predator III | 0.40% | ~1,023 |
+| Expert Hunter | 0.40% | ~1,024 |
+| Fungi hunter | 0.40% | ~1,024 |
+| Predator III | 0.40% | ~1,024 |
 | Arms dealer | 0.30% | ~768 |
 | Fixer III | 0.30% | ~768 |
 | AML questionnaire | 0.30% | ~768 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 682)
 | Capitalist III | 0.10% | ~256 |
 | Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,874 (Ranked 47)  
+Progressed: 255,875 (Ranked 47)  
 Completed: 3 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 3 (0.00%) (Ranked 271)
 | 2023-09-02 | 255,788 | 3 |
 | 2023-09-03 | 255,836 | 3 |
 | 2023-09-04 | 255,867 | 3 |
-| 2023-09-05 | 255,874 | 3 |
+| 2023-09-05 | 255,875 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 36  (Ranked 435)  
 Sum: 249 (Ranked 356)  

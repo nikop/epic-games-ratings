@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16890,
+  "EOS_Progressed": 16891,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -10907,6 +10907,11 @@
       "Time": "2023-09-05T01:44:06.014331+00:00",
       "NumProgressed": 16890,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-05T03:04:34.3664393+00:00",
+      "NumProgressed": 16891,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -10918,7 +10923,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "Burning_For_You",
@@ -11022,7 +11027,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "Still_Burning",
@@ -11045,15 +11050,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16890,
+      "Progressed": 16891,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-05T02:18:25.9457845+00:00",
+  "LastChanged_Achievements": "2023-09-05T03:04:34.3664387+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.9189104+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:14:00.8024552+00:00",
-  "LastUpdate_Achievements": "2023-09-05T02:18:25.94586+00:00"
+  "LastUpdate_Ratings": "2023-09-05T03:00:13.2717843+00:00",
+  "LastUpdate_Achievements": "2023-09-05T03:04:34.3665328+00:00"
 }

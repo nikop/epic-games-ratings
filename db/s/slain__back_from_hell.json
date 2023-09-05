@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35930,
+  "EOS_Progressed": 35931,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15392,6 +15392,11 @@
       "Time": "2023-09-05T02:19:28.9846776+00:00",
       "NumProgressed": 35930,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-05T03:05:37.4951995+00:00",
+      "NumProgressed": 35931,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -15475,7 +15480,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -15555,7 +15560,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -15634,7 +15639,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35930,
+      "Progressed": 35931,
       "Completed": 23
     }
   ],
@@ -15642,8 +15647,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-05T02:19:28.9846768+00:00",
+  "LastChanged_Achievements": "2023-09-05T03:05:37.4951989+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:15:04.1734587+00:00",
-  "LastUpdate_Achievements": "2023-09-05T02:19:28.9848893+00:00"
+  "LastUpdate_Ratings": "2023-09-05T03:01:10.9049291+00:00",
+  "LastUpdate_Achievements": "2023-09-05T03:05:37.495349+00:00"
 }

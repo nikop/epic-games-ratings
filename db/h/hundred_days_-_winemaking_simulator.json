@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -964,9 +964,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1324,
+  "EOS_Progressed": 1329,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1319,
+  "EOS_NewPlayers": 1324,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1649,6 +1649,11 @@
       "Time": "2023-09-05T02:22:32.1272295+00:00",
       "NumProgressed": 1324,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-05T03:08:07.8206395+00:00",
+      "NumProgressed": 1329,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1661,7 +1666,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "a_10",
@@ -1677,7 +1682,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "a_12",
@@ -1685,7 +1690,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "a_15",
@@ -1693,7 +1698,7 @@
       "Name": "Big Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "a_16",
@@ -1701,7 +1706,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "a_18",
@@ -1709,7 +1714,7 @@
       "Name": "Bye Bye",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 452
     },
     {
       "ID": "a_19",
@@ -1717,7 +1722,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "a_2",
@@ -1757,7 +1762,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "a_25",
@@ -1773,7 +1778,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "a_27",
@@ -1781,7 +1786,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "a_28",
@@ -1908,7 +1913,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1324,
+      "Progressed": 1329,
       "Completed": 3
     }
   ],
@@ -1916,8 +1921,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-05T02:22:32.127229+00:00",
+  "LastChanged_Achievements": "2023-09-05T03:08:07.8206389+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:12:26.0454092+00:00",
-  "LastUpdate_Achievements": "2023-09-05T02:22:32.1272636+00:00"
+  "LastUpdate_Ratings": "2023-09-05T02:58:41.1809919+00:00",
+  "LastUpdate_Achievements": "2023-09-05T03:08:07.8206875+00:00"
 }

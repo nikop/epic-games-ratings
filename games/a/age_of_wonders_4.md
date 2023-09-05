@@ -11,6 +11,7 @@ Rating: 4.60 (Ranked 393)
 | Walls Cannot Stop Us | 6.00% | ~309 |
 | From Friends to Family | 6.00% | ~309 |
 | Magical Synergy | 6.00% | ~309 |
+| Intimidation Tactics | 6.00% | ~309 |
 | Tipping the Scales | 6.00% | ~309 |
 | There Can Only Be One! | 5.00% | ~258 |
 | Full Ascension | 5.00% | ~258 |
@@ -19,7 +20,6 @@ Rating: 4.60 (Ranked 393)
 | My Final Form | 5.00% | ~258 |
 | Seat of Power | 5.00% | ~258 |
 | In a Liege of Your Own | 5.00% | ~258 |
-| Intimidation Tactics | 5.00% | ~258 |
 | Here be Dragons | 5.00% | ~258 |
 | Blood of the Dragon | 5.00% | ~258 |
 | Mighty Hoard | 5.00% | ~258 |

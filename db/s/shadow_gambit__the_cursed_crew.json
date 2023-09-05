@@ -44,7 +44,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 596,
+  "EOS_Progressed": 597,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 6,
@@ -1454,6 +1454,11 @@
       "Time": "2023-09-04T18:06:16.765944+00:00",
       "NumProgressed": 596,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-05T03:07:08.7518512+00:00",
+      "NumProgressed": 597,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1474,7 +1479,7 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "_03_FinishAct1",
@@ -1504,9 +1509,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 149
     },
     {
       "ID": "_07_FinishAct3",
@@ -1514,7 +1519,7 @@
       "Name": "All Good Things",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "_08_Completion_10",
@@ -1522,7 +1527,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "_09_Completion_20",
@@ -1546,7 +1551,7 @@
       "Name": "Seadog",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "_12_Completion_50",
@@ -1594,7 +1599,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1610,7 +1615,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1673,7 +1678,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 596,
+      "Progressed": 597,
       "Completed": 12
     }
   ],
@@ -1681,8 +1686,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-04T13:03:28.3019229+00:00",
-  "LastChanged_Achievements": "2023-09-05T02:21:00.8114958+00:00",
+  "LastChanged_Achievements": "2023-09-05T03:07:08.7518506+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:12:57.5604046+00:00",
-  "LastUpdate_Achievements": "2023-09-05T02:21:00.8115259+00:00"
+  "LastUpdate_Ratings": "2023-09-05T02:59:14.6023466+00:00",
+  "LastUpdate_Achievements": "2023-09-05T03:07:08.7518815+00:00"
 }
