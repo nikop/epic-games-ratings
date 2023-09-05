@@ -123,7 +123,7 @@
 | 117 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,468 | 75 |
 | 117 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 517 |
 | 117 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 517 |
-| 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,706 | 118 |
+| 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,707 | 118 |
 | 117 | [Quake](games/q/quake.md) | 4.76 | 49 | 406 |
 | 117 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,399 | 129 |
 | 117 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 517 |
@@ -138,7 +138,7 @@
 | 135 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,841 | 61 |
 | 135 | [Diabotical](games/d/diabotical.md) | 4.75 | 275 | 247 |
 | 135 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 686 | 169 |
-| 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 655 | 174 |
+| 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 656 | 174 |
 | 135 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 517 |
 | 135 | [Legend Bowl](games/l/legend_bowl.md) | 4.75 | 0 | 517 |
 | 135 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 583 | 186 |
@@ -249,7 +249,7 @@
 | 240 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,930 | 58 |
 | 240 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,871 | 81 |
 | 240 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 304,869 | 3 |
-| 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 220,924 | 4 |
+| 240 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 221,347 | 4 |
 | 240 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 517 |
 | 240 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 563 | 190 |
 | 240 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 684 | 171 |
@@ -684,7 +684,7 @@
 | 682 | [Hell is Others](games/h/hell_is_others.md) | 4.42 | 36 | 435 |
 | 682 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.42 | 0 | 517 |
 | 682 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 517 |
-| 682 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,198 | 135 |
+| 682 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,199 | 135 |
 | 682 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 517 |
 | 682 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 52 |
 | 682 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 384 |
