@@ -44,11 +44,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 597,
+  "EOS_Progressed": 598,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 2.18,
+  "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1464,6 +1464,11 @@
       "Time": "2023-09-05T05:07:23.3595728+00:00",
       "NumProgressed": 597,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-05T12:06:57.8294487+00:00",
+      "NumProgressed": 598,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1484,7 +1489,7 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "_03_FinishAct1",
@@ -1492,15 +1497,15 @@
       "Name": "The Adventure Begins",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 215
     },
     {
       "ID": "_05_FinishAct2",
@@ -1516,7 +1521,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "_07_FinishAct3",
@@ -1548,7 +1553,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "_11_Completion_40",
@@ -1556,7 +1561,7 @@
       "Name": "Seadog",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "_12_Completion_50",
@@ -1596,7 +1601,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1628,7 +1633,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1683,7 +1688,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 597,
+      "Progressed": 598,
       "Completed": 13
     }
   ],
@@ -1691,8 +1696,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-04T13:03:28.3019229+00:00",
-  "LastChanged_Achievements": "2023-09-05T11:06:42.8836891+00:00",
+  "LastChanged_Achievements": "2023-09-05T12:06:57.8294483+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:58:58.1667097+00:00",
-  "LastUpdate_Achievements": "2023-09-05T11:06:42.8837117+00:00"
+  "LastUpdate_Ratings": "2023-09-05T11:59:21.1672159+00:00",
+  "LastUpdate_Achievements": "2023-09-05T12:06:57.8294745+00:00"
 }

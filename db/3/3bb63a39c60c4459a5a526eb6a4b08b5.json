@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 654,
+  "EOS_Progressed": 655,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2326,6 +2326,11 @@
       "Time": "2023-09-05T08:05:48.1587472+00:00",
       "NumProgressed": 654,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T12:06:32.0565335+00:00",
+      "NumProgressed": 655,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2545,7 +2550,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "NoWayBack",
@@ -2553,7 +2558,7 @@
       "Name": "No Way Back",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "NotPlanned",
@@ -2617,7 +2622,7 @@
       "Name": "Restructuring",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Reviewer",
@@ -2649,7 +2654,7 @@
       "Name": "Ten!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "TimeForManagement",
@@ -2672,14 +2677,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 654,
+      "Progressed": 655,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-05T11:06:09.9581604+00:00",
-  "LastUpdate_AppInfo": "2023-08-29T11:57:10.9614599+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:57:43.1779272+00:00",
-  "LastUpdate_Achievements": "2023-09-05T11:06:09.9582065+00:00"
+  "LastChanged_Achievements": "2023-09-05T12:06:32.0565328+00:00",
+  "LastUpdate_AppInfo": "2023-09-05T11:57:38.2387423+00:00",
+  "LastUpdate_Ratings": "2023-09-05T11:58:09.2275977+00:00",
+  "LastUpdate_Achievements": "2023-09-05T12:06:32.0565836+00:00"
 }

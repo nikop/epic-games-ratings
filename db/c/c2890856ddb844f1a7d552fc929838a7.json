@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 697,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1230,9 +1230,9 @@
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 91
     },
     {
       "ID": "AC17",
@@ -1270,17 +1270,17 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 139
     },
     {
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 223
     },
     {
       "ID": "AC23",
@@ -1479,8 +1479,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-04T03:01:40.031195+00:00",
-  "LastChanged_Achievements": "2023-09-05T11:07:16.1500485+00:00",
+  "LastChanged_Achievements": "2023-09-05T12:07:28.519277+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:57:34.7864694+00:00",
-  "LastUpdate_Achievements": "2023-09-05T11:07:16.150099+00:00"
+  "LastUpdate_Ratings": "2023-09-05T11:58:00.4828267+00:00",
+  "LastUpdate_Achievements": "2023-09-05T12:07:28.5193212+00:00"
 }

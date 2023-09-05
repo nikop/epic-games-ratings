@@ -12,22 +12,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 4.00% | ~551 |
 | Friendly Family | 4.00% | ~551 |
 | The Clergy | 4.00% | ~551 |
-| Able | 3.00% | ~413 |
-| Architect | 3.00% | ~413 |
-| Enlightened | 3.00% | ~413 |
-| Glorious | 3.00% | ~413 |
-| Good | 3.00% | ~413 |
-| Just | 3.00% | ~413 |
-| Learned | 3.00% | ~413 |
-| Mason | 3.00% | ~413 |
-| Noble | 3.00% | ~413 |
-| Pioneer | 3.00% | ~413 |
-| Strong | 3.00% | ~413 |
-| Hanging Gardens | 3.00% | ~413 |
-| Oracle | 3.00% | ~413 |
-| Judaism | 3.00% | ~413 |
-| Naming Landmarks | 3.00% | ~413 |
-| Trade Caravan | 3.00% | ~413 |
+| Able | 3.00% | ~414 |
+| Architect | 3.00% | ~414 |
+| Enlightened | 3.00% | ~414 |
+| Glorious | 3.00% | ~414 |
+| Good | 3.00% | ~414 |
+| Just | 3.00% | ~414 |
+| Learned | 3.00% | ~414 |
+| Mason | 3.00% | ~414 |
+| Noble | 3.00% | ~414 |
+| Pioneer | 3.00% | ~414 |
+| Strong | 3.00% | ~414 |
+| Hanging Gardens | 3.00% | ~414 |
+| Oracle | 3.00% | ~414 |
+| Judaism | 3.00% | ~414 |
+| Naming Landmarks | 3.00% | ~414 |
+| Trade Caravan | 3.00% | ~414 |
 | Regicide | 2.00% | ~276 |
 | Ambitious | 2.00% | ~276 |
 | Drillmaster | 2.00% | ~276 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,783 (Ranked 120)  
+Progressed: 13,784 (Ranked 120)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -441,7 +441,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-02 | 13,749 | 5 |
 | 2023-09-03 | 13,767 | 5 |
 | 2023-09-04 | 13,779 | 5 |
-| 2023-09-05 | 13,783 | 5 |
+| 2023-09-05 | 13,784 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,803 (Ranked 207)  

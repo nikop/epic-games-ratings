@@ -5,48 +5,48 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~36,193 |
-| Har, Har, Har, Very Funny | 35.00% | ~24,838 |
-| Loose Ends | 34.00% | ~24,128 |
-| To the Victor Go the Spoils | 28.00% | ~19,870 |
-| Knighthood | 27.00% | ~19,161 |
-| Get ReQ'd | 25.00% | ~17,742 |
-| Whispered Words | 24.00% | ~17,032 |
-| The Batman Family | 23.00% | ~16,322 |
-| Lock and Key | 22.00% | ~15,613 |
-| Something in the Clay | 20.00% | ~14,193 |
-| Quartzer Life Crisis | 20.00% | ~14,193 |
-| Working Hard or Harley Working? | 20.00% | ~14,193 |
-| Unstoppable Force | 20.00% | ~14,193 |
-| Snow Problem | 19.00% | ~13,484 |
-| Bad Apples in Every Orchard | 19.00% | ~13,484 |
-| The Show Mud Go On | 17.00% | ~12,064 |
-| From Inside Gotham's Walls | 17.00% | ~12,064 |
-| Protector of Gotham | 16.00% | ~11,355 |
-| In Your Element | 15.00% | ~10,645 |
-| Universal Health Scare | 15.00% | ~10,645 |
-| Cooldown | 14.00% | ~9,935 |
-| Voiceless | 14.00% | ~9,935 |
-| Rock and a Hard Place | 13.00% | ~9,226 |
-| Not On My Watch | 13.00% | ~9,226 |
-| Shock Til They Drop | 13.00% | ~9,226 |
-| Seeking Asylum | 13.00% | ~9,226 |
-| End of an Era | 12.00% | ~8,516 |
-| Gotham Knight | 12.00% | ~8,516 |
-| Bulldozed | 11.00% | ~7,806 |
-| Gotham City Confidential | 11.00% | ~7,806 |
-| Drone You Out | 9.00% | ~6,387 |
-| Out of Their League | 8.00% | ~5,677 |
-| Solid Alibi | 8.00% | ~5,677 |
-| Fusion Expert | 7.00% | ~4,968 |
-| Family Meeting | 6.00% | ~4,258 |
-| A Worthy Successor | 6.00% | ~4,258 |
-| Expert Crime Fighter | 5.00% | ~3,548 |
+| First Step Into the Knight | 51.00% | ~36,200 |
+| Har, Har, Har, Very Funny | 35.00% | ~24,843 |
+| Loose Ends | 34.00% | ~24,134 |
+| To the Victor Go the Spoils | 28.00% | ~19,875 |
+| Knighthood | 27.00% | ~19,165 |
+| Get ReQ'd | 25.00% | ~17,745 |
+| Whispered Words | 24.00% | ~17,035 |
+| The Batman Family | 23.00% | ~16,326 |
+| Lock and Key | 22.00% | ~15,616 |
+| Something in the Clay | 20.00% | ~14,196 |
+| Quartzer Life Crisis | 20.00% | ~14,196 |
+| Working Hard or Harley Working? | 20.00% | ~14,196 |
+| Unstoppable Force | 20.00% | ~14,196 |
+| Snow Problem | 19.00% | ~13,486 |
+| Bad Apples in Every Orchard | 19.00% | ~13,486 |
+| The Show Mud Go On | 17.00% | ~12,067 |
+| From Inside Gotham's Walls | 17.00% | ~12,067 |
+| Protector of Gotham | 16.00% | ~11,357 |
+| In Your Element | 15.00% | ~10,647 |
+| Universal Health Scare | 15.00% | ~10,647 |
+| Cooldown | 14.00% | ~9,937 |
+| Voiceless | 14.00% | ~9,937 |
+| Rock and a Hard Place | 13.00% | ~9,228 |
+| Not On My Watch | 13.00% | ~9,228 |
+| Shock Til They Drop | 13.00% | ~9,228 |
+| Seeking Asylum | 13.00% | ~9,228 |
+| End of an Era | 12.00% | ~8,518 |
+| Gotham Knight | 12.00% | ~8,518 |
+| Bulldozed | 11.00% | ~7,808 |
+| Gotham City Confidential | 11.00% | ~7,808 |
+| Drone You Out | 9.00% | ~6,388 |
+| Out of Their League | 8.00% | ~5,678 |
+| Solid Alibi | 8.00% | ~5,678 |
+| Fusion Expert | 7.00% | ~4,969 |
+| Family Meeting | 6.00% | ~4,259 |
+| A Worthy Successor | 6.00% | ~4,259 |
+| Expert Crime Fighter | 5.00% | ~3,549 |
 | Dressed to Impress | 4.00% | ~2,839 |
 | A Momentum Occasion | 3.00% | ~2,129 |
 | Bat Out of Hell | 3.00% | ~2,129 |
-| Practice Makes Perfect | 2.00% | ~1,419 |
-| He'd Be So Proud of You | 2.00% | ~1,419 |
+| Practice Makes Perfect | 2.00% | ~1,420 |
+| He'd Be So Proud of You | 2.00% | ~1,420 |
 | Talonted | 1.00% | ~710 |
 | The Man-Bat Family | 1.00% | ~710 |
 | Batarang Collector | 1.00% | ~710 |
@@ -64,10 +64,10 @@ Rating: 4.18 (Ranked 883)
 | Renewable Enemy Source | 0.30% | ~124 |
 | Crime Is a Terrible Thing to Waste | 0.30% | ~124 |
 | The Cold, the Bad and the Ugly | 0.30% | ~124 |
-| Element of Surprise | 0.20% | ~82 |
-| It's Nice to Be Wanted | 0.20% | ~82 |
+| Element of Surprise | 0.20% | ~83 |
+| It's Nice to Be Wanted | 0.20% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,966 (Ranked 81)  
+Progressed: 70,981 (Ranked 81)  
 Completed: 111 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 111 (0.16%) (Ranked 200)
 | 2023-09-02 | 69,352 | 111 |
 | 2023-09-03 | 70,117 | 111 |
 | 2023-09-04 | 70,715 | 111 |
-| 2023-09-05 | 70,966 | 111 |
+| 2023-09-05 | 70,981 | 111 |
 ## Awards
 Max (Great Boss Battles): 2,547  (Ranked 98)  
 Sum: 4,243 (Ranked 140)  

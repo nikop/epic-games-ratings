@@ -3,11 +3,11 @@
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": "train-sim-world-2",
   "Ranking_Rating": 690,
-  "Ranking_Popularity": 192,
+  "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": null,
@@ -2822,24 +2822,30 @@
       "Rating": 4.41,
       "NumberOfAwards": 4265,
       "NumberOfAwardsMax": 561
+    },
+    {
+      "Time": "2023-09-05T11:58:41.8999453+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 4268,
+      "NumberOfAwardsMax": 562
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4265,
-  "NumberOfAwardsMax": 561,
+  "NumberOfAwards": 4268,
+  "NumberOfAwardsMax": 562,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 561
+      "Count": 562
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 453
+      "Count": 454
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2869,7 +2875,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 460
+      "Count": 461
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2907,8 +2913,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2023-09-04T11:58:04.7881202+00:00",
+  "LastChanged": "2023-09-05T11:58:41.8999451+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:23.2572562+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:58:16.0469768+00:00",
-  "LastUpdate_Achievements": "2023-09-05T11:05:55.7990175+00:00"
+  "LastUpdate_Ratings": "2023-09-05T11:58:41.8999457+00:00",
+  "LastUpdate_Achievements": "2023-09-05T12:06:17.8114308+00:00"
 }

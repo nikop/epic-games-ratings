@@ -203,9 +203,9 @@
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievements.completemission.master.03",
@@ -267,9 +267,9 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievements.researches.upgrades50",
@@ -306,8 +306,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-05T11:03:54.8970034+00:00",
+  "LastChanged_Achievements": "2023-09-05T12:04:15.8876978+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:58:24.4000934+00:00",
-  "LastUpdate_Achievements": "2023-09-05T11:03:54.8970234+00:00"
+  "LastUpdate_Ratings": "2023-09-05T11:58:48.5756375+00:00",
+  "LastUpdate_Achievements": "2023-09-05T12:04:15.8877105+00:00"
 }

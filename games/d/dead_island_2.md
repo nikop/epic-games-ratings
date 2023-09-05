@@ -6,13 +6,13 @@ Rating: 4.54 (Ranked 505)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break A Leg | 1.00% | ~6,739 |
+| Hazardous Materials | 1.00% | ~6,739 |
 | Hotel California | 1.00% | ~6,739 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,739 |
 | Welcome To Hell-A | 1.00% | ~6,739 |
 | Dr. Reed, I Presume? | 0.90% | ~6,065 |
 | Git Gutte! | 0.90% | ~6,065 |
 | Coup de Grâce | 0.90% | ~6,065 |
-| Hazardous Materials | 0.90% | ~6,065 |
 | Friends Like These | 0.90% | ~6,065 |
 | Apex Predator | 0.90% | ~6,065 |
 | Stacking the Deck | 0.90% | ~6,065 |
@@ -30,12 +30,12 @@ Rating: 4.54 (Ranked 505)
 | Perks of the Job | 0.60% | ~4,043 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,043 |
 | Ooh, Shiny! | 0.60% | ~4,043 |
-| Making Your Mark | 0.50% | ~3,369 |
-| Humanity Distilled | 0.50% | ~3,369 |
-| Down with the Sickness | 0.50% | ~3,369 |
-| Max Headroom | 0.50% | ~3,369 |
-| Go, Bobcats! | 0.40% | ~2,695 |
-| Rising Star | 0.40% | ~2,695 |
+| Making Your Mark | 0.50% | ~3,370 |
+| Humanity Distilled | 0.50% | ~3,370 |
+| Down with the Sickness | 0.50% | ~3,370 |
+| Max Headroom | 0.50% | ~3,370 |
+| Go, Bobcats! | 0.40% | ~2,696 |
+| Rising Star | 0.40% | ~2,696 |
 | Smorgasbord | 0.30% | ~2,022 |
 | Jumbo Keyring | 0.30% | ~2,022 |
 | Make it So | 0.20% | ~1,348 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,872 (Ranked 22)  
+Progressed: 673,901 (Ranked 22)  
 Completed: 2,115 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2,115 (0.31%) (Ranked 176)
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
-| 2023-09-05 | 673,872 | 2,115 |
+| 2023-09-05 | 673,901 | 2,115 |
 ## Awards
 Max (Great Boss Battles): 5,902  (Ranked 59)  
 Sum: 8,707 (Ranked 95)  

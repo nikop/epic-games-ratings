@@ -6,31 +6,31 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,035 |
-| Jeef Skeejj | 44.00% | ~205,357 |
-| Careful planning | 39.00% | ~182,021 |
-| Second Coming | 33.00% | ~154,018 |
-| Jeef Skagg | 30.00% | ~140,016 |
-| Mother | 25.00% | ~116,680 |
-| In space, no one can hear you scream | 24.00% | ~112,013 |
-| Chapter I: Echoes | 22.00% | ~102,678 |
-| Excelsior Rule | 22.00% | ~102,678 |
-| Things persisted in not being what they seemed | 20.00% | ~93,344 |
-| Knightmare Frames | 15.00% | ~70,008 |
-| May His passing cleanse the world | 15.00% | ~70,008 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,008 |
-| Pope Zenon | 15.00% | ~70,008 |
-| Tetsuo | 11.00% | ~51,339 |
-| Plan for the worst | 11.00% | ~51,339 |
+| The Shutdown | 66.00% | ~308,038 |
+| Jeef Skeejj | 44.00% | ~205,359 |
+| Careful planning | 39.00% | ~182,022 |
+| Second Coming | 33.00% | ~154,019 |
+| Jeef Skagg | 30.00% | ~140,017 |
+| Mother | 25.00% | ~116,681 |
+| In space, no one can hear you scream | 24.00% | ~112,014 |
+| Chapter I: Echoes | 22.00% | ~102,679 |
+| Excelsior Rule | 22.00% | ~102,679 |
+| Things persisted in not being what they seemed | 20.00% | ~93,345 |
+| Knightmare Frames | 15.00% | ~70,009 |
+| May His passing cleanse the world | 15.00% | ~70,009 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,009 |
+| Pope Zenon | 15.00% | ~70,009 |
+| Tetsuo | 11.00% | ~51,340 |
+| Plan for the worst | 11.00% | ~51,340 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,672 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,338 |
 | Through the mirror | 8.00% | ~37,338 |
 | General Vivar | 8.00% | ~37,338 |
 | Back to Ganyma | 8.00% | ~37,338 |
 | Kaos Rule | 8.00% | ~37,338 |
-| Admiral Okonkwo | 7.00% | ~32,670 |
-| The Survivalists | 7.00% | ~32,670 |
-| The Tech Specialist | 7.00% | ~32,670 |
+| Admiral Okonkwo | 7.00% | ~32,671 |
+| The Survivalists | 7.00% | ~32,671 |
+| The Tech Specialist | 7.00% | ~32,671 |
 | Chapter V: Memories of None | 6.00% | ~28,003 |
 | Meet your maker | 6.00% | ~28,003 |
 | The Impersonator | 6.00% | ~28,003 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,667 |
 | A Frozen Lady | 1.00% | ~4,667 |
 | Void Rule | 1.00% | ~4,667 |
-| Excelsior Mastery | 0.90% | ~4,200 |
+| Excelsior Mastery | 0.90% | ~4,201 |
 | The greatest admiral of all time | 0.50% | ~2,334 |
 | Hand of the Emperor | 0.40% | ~43 |
 | Soldiers of Fortune | 0.20% | ~21 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466,720 (Ranked 37)  
+Progressed: 466,724 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 18 (0.00%) (Ranked 270)
 | 2023-09-02 | 466,582 | 18 |
 | 2023-09-03 | 466,658 | 18 |
 | 2023-09-04 | 466,702 | 18 |
-| 2023-09-05 | 466,720 | 18 |
+| 2023-09-05 | 466,724 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 360)  

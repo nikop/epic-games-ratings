@@ -4236,9 +4236,9 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 673872,
+  "EOS_Progressed": 673901,
   "EOS_Completed": 2115,
-  "EOS_NewPlayers": 5511,
+  "EOS_NewPlayers": 5508,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19631,6 +19631,11 @@
       "Time": "2023-09-05T11:05:46.1129426+00:00",
       "NumProgressed": 673872,
       "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-09-05T12:06:08.641384+00:00",
+      "NumProgressed": 673901,
+      "NumCompleted": 2115
     }
   ],
   "TotalAchievements": 45,
@@ -19650,7 +19655,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     },
     {
       "ID": "ach_ammo_ran",
@@ -19784,9 +19789,9 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6739
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -19882,7 +19887,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     },
     {
       "ID": "ach_revival_tour",
@@ -19898,7 +19903,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     },
     {
       "ID": "ach_secrets_of_la",
@@ -19938,7 +19943,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     },
     {
       "ID": "ach_the_vcla",
@@ -19946,7 +19951,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ach_thesacrifice",
@@ -19986,7 +19991,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ach_well_trained",
@@ -20001,7 +20006,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673872,
+      "Progressed": 673901,
       "Completed": 2115
     }
   ],
@@ -20009,8 +20014,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-05T09:59:13.7335268+00:00",
-  "LastChanged_Achievements": "2023-09-05T11:05:46.1129421+00:00",
+  "LastChanged_Achievements": "2023-09-05T12:06:08.6413833+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:59:11.8881256+00:00",
-  "LastUpdate_Achievements": "2023-09-05T11:05:46.1130508+00:00"
+  "LastUpdate_Ratings": "2023-09-05T11:59:36.5568426+00:00",
+  "LastUpdate_Achievements": "2023-09-05T12:06:08.6415123+00:00"
 }

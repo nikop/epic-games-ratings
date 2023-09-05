@@ -6,29 +6,29 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,741,736 |
-| Easy to forget | 46.00% | ~1,635,099 |
-| Back in the black | 39.00% | ~1,386,280 |
-| That's what I'm talking about | 29.00% | ~1,030,824 |
-| The Best of Both Worlds | 25.00% | ~888,641 |
-| Get your wings | 20.00% | ~710,913 |
-| Double trouble | 16.00% | ~568,730 |
-| Smashing it | 11.00% | ~391,002 |
-| But can it run Crysis? | 9.00% | ~319,911 |
-| My favourite feature... | 9.00% | ~319,911 |
-| From humble beginnings... | 7.00% | ~248,819 |
-| Customer satisfaction | 7.00% | ~248,819 |
+| You need to plug it in... | 49.00% | ~1,741,742 |
+| Easy to forget | 46.00% | ~1,635,104 |
+| Back in the black | 39.00% | ~1,386,284 |
+| That's what I'm talking about | 29.00% | ~1,030,827 |
+| The Best of Both Worlds | 25.00% | ~888,644 |
+| Get your wings | 20.00% | ~710,915 |
+| Double trouble | 16.00% | ~568,732 |
+| Smashing it | 11.00% | ~391,003 |
+| But can it run Crysis? | 9.00% | ~319,912 |
+| My favourite feature... | 9.00% | ~319,912 |
+| From humble beginnings... | 7.00% | ~248,820 |
+| Customer satisfaction | 7.00% | ~248,820 |
 | Keeping things neat | 4.00% | ~142,183 |
 | Seems you're pretty good at this | 4.00% | ~142,183 |
 | Bending over backwards | 4.00% | ~142,183 |
 | Triple threat | 3.00% | ~106,637 |
 | You rock at this! | 3.00% | ~106,637 |
 | Your music sucks | 3.00% | ~106,637 |
-| I'm broke, Uncle! | 2.00% | ~71,091 |
-| Maybe you should try something else? | 2.00% | ~71,091 |
-| Taking care of business | 2.00% | ~71,091 |
-| Perfection | 2.00% | ~71,091 |
-| Calling in Sick | 2.00% | ~71,091 |
+| I'm broke, Uncle! | 2.00% | ~71,092 |
+| Maybe you should try something else? | 2.00% | ~71,092 |
+| Taking care of business | 2.00% | ~71,092 |
+| Perfection | 2.00% | ~71,092 |
+| Calling in Sick | 2.00% | ~71,092 |
 | Overvolted | 1.00% | ~35,546 |
 | If you fail the first time... | 1.00% | ~35,546 |
 | Amazonian | 1.00% | ~35,546 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,555 |
 | Treat yourself - GPU | 0.10% | ~3,555 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,554,564 (Ranked 5)  
+Progressed: 3,554,575 (Ranked 5)  
 Completed: 34 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,10 +197,10 @@ Completed: 34 (0.00%) (Ranked 270)
 | 2023-09-02 | 3,553,667 | 34 |
 | 2023-09-03 | 3,554,087 | 34 |
 | 2023-09-04 | 3,554,457 | 34 |
-| 2023-09-05 | 3,554,564 | 34 |
+| 2023-09-05 | 3,554,575 | 34 |
 ## Awards
 Max (Great for Beginners): 1,063  (Ranked 140)  
-Sum: 7,962 (Ranked 100)  
+Sum: 7,964 (Ranked 100)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -208,7 +208,7 @@ Diff (max vs sum): 40
 | This game is Educational | 992 |
 | This game is Relaxing | 982 |
 | This game is Extremely Fun | 982 |
-| This game has Quickly Understood Controls | 940 |
+| This game has Quickly Understood Controls | 942 |
 | This game is Highly Recommended | 891 |
 | This game has Amazing Storytelling | 815 |
 | This game has Obsessive Gameplay | 664 |
@@ -411,4 +411,4 @@ Diff (max vs sum): 40
 | 2023-09-02 | 4.66 | - | 1,062 | 7,959 |
 | 2023-09-03 | 4.66 | - | 1,062 | 7,960 |
 | 2023-09-04 | 4.66 | - | 1,062 | 7,961 |
-| 2023-09-05 | 4.66 | - | 1,063 | 7,962 |
+| 2023-09-05 | 4.66 | - | 1,063 | 7,964 |

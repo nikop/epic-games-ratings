@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106497,
+  "EOS_Progressed": 106502,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1071,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9742,6 +9742,11 @@
       "Time": "2023-09-05T11:05:24.600146+00:00",
       "NumProgressed": 106497,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-05T12:05:47.5940411+00:00",
+      "NumProgressed": 106502,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -9753,7 +9758,7 @@
       "Name": "Guacamastery",
       "Percentage": 0.1,
       "XP": 130,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_1",
@@ -9761,7 +9766,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 80938
+      "UsersEstimate": 80942
     },
     {
       "ID": "EAwards_10",
@@ -9777,7 +9782,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26624
+      "UsersEstimate": 26626
     },
     {
       "ID": "EAwards_12",
@@ -9793,7 +9798,7 @@
       "Name": "The Floor Is...",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "EAwards_14",
@@ -9825,7 +9830,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38339
+      "UsersEstimate": 38341
     },
     {
       "ID": "EAwards_18",
@@ -9849,7 +9854,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51119
+      "UsersEstimate": 51121
     },
     {
       "ID": "EAwards_20",
@@ -9897,7 +9902,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19169
+      "UsersEstimate": 19170
     },
     {
       "ID": "EAwards_26",
@@ -9937,7 +9942,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20234
+      "UsersEstimate": 20235
     },
     {
       "ID": "EAwards_30",
@@ -10001,7 +10006,7 @@
       "Name": "Cool Cat Counter Attack",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_38",
@@ -10009,7 +10014,7 @@
       "Name": "Steal the Show",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_39",
@@ -10017,7 +10022,7 @@
       "Name": "Body Builder",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_4",
@@ -10033,7 +10038,7 @@
       "Name": "Welcome to MY World",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_41",
@@ -10041,7 +10046,7 @@
       "Name": "Jaguar\u0027s Redemption",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_42",
@@ -10049,7 +10054,7 @@
       "Name": "Slippery Snake",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_43",
@@ -10057,7 +10062,7 @@
       "Name": "Explosion Therapy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_44",
@@ -10065,7 +10070,7 @@
       "Name": "Snake Temple Throwdown",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_45",
@@ -10073,7 +10078,7 @@
       "Name": "Salvador\u2019s Sister Act",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_46",
@@ -10097,7 +10102,7 @@
       "Name": "Let Sleeping Gods Lie",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "EAwards_5",
@@ -10144,7 +10149,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 106497,
+      "Progressed": 106502,
       "Completed": 40
     }
   ],
@@ -10152,8 +10157,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-01T15:00:01.2211131+00:00",
-  "LastChanged_Achievements": "2023-09-05T11:05:24.6001455+00:00",
+  "LastChanged_Achievements": "2023-09-05T12:05:47.5940406+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.1007702+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:57:43.6667367+00:00",
-  "LastUpdate_Achievements": "2023-09-05T11:05:24.6002448+00:00"
+  "LastUpdate_Ratings": "2023-09-05T11:58:09.7324001+00:00",
+  "LastUpdate_Achievements": "2023-09-05T12:05:47.5941441+00:00"
 }

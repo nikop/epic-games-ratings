@@ -5,39 +5,39 @@ Rating: 4.77 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,245 |
-| First Class Student | 12.00% | ~35,353 |
-| Troll with the Punches | 12.00% | ~35,353 |
-| A Keen Sense of Spell | 11.00% | ~32,407 |
-| That's a Keeper | 11.00% | ~32,407 |
-| Grappling with a Graphorn | 10.00% | ~29,461 |
-| The One Who Mastered Memories | 10.00% | ~29,461 |
-| The Hallowed Hero | 10.00% | ~29,461 |
-| The Defender of Dragons | 10.00% | ~29,461 |
-| Loom for Improvement | 10.00% | ~29,461 |
-| A Talent for Spending | 10.00% | ~29,461 |
-| Coasting Along | 10.00% | ~29,461 |
-| The Hero of Hogwarts | 9.00% | ~26,515 |
-| Challenge Accepted | 9.00% | ~26,515 |
-| Followed the Butterflies | 8.00% | ~23,569 |
-| The Spell Master | 8.00% | ~23,569 |
-| Rising From the Ashes | 8.00% | ~23,569 |
-| The Avenging Gazelle | 7.00% | ~20,622 |
-| Beast Friends | 7.00% | ~20,622 |
-| A Sallow Grave | 7.00% | ~20,622 |
-| Flight the Good Flight | 7.00% | ~20,622 |
-| The Seeker of Knowledge | 5.00% | ~14,730 |
-| The Root of the Problem | 5.00% | ~14,730 |
-| Third Time's a Charm | 5.00% | ~14,730 |
-| Raising Expectations | 5.00% | ~14,730 |
-| The Toast of the Town | 4.00% | ~11,784 |
-| Going Through the Potions | 4.00% | ~11,784 |
-| Room with a View | 4.00% | ~11,784 |
-| The Intrepid Explorer | 4.00% | ~11,784 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,784 |
-| The Ends Petrify the Means | 4.00% | ~11,784 |
-| Floo Around the World | 3.00% | ~8,838 |
-| The Wise Owl | 3.00% | ~8,838 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,247 |
+| First Class Student | 12.00% | ~35,354 |
+| Troll with the Punches | 12.00% | ~35,354 |
+| A Keen Sense of Spell | 11.00% | ~32,408 |
+| That's a Keeper | 11.00% | ~32,408 |
+| Grappling with a Graphorn | 10.00% | ~29,462 |
+| The One Who Mastered Memories | 10.00% | ~29,462 |
+| The Hallowed Hero | 10.00% | ~29,462 |
+| The Defender of Dragons | 10.00% | ~29,462 |
+| Loom for Improvement | 10.00% | ~29,462 |
+| A Talent for Spending | 10.00% | ~29,462 |
+| Coasting Along | 10.00% | ~29,462 |
+| The Hero of Hogwarts | 9.00% | ~26,516 |
+| Challenge Accepted | 9.00% | ~26,516 |
+| Followed the Butterflies | 8.00% | ~23,570 |
+| The Spell Master | 8.00% | ~23,570 |
+| Rising From the Ashes | 8.00% | ~23,570 |
+| The Avenging Gazelle | 7.00% | ~20,623 |
+| Beast Friends | 7.00% | ~20,623 |
+| A Sallow Grave | 7.00% | ~20,623 |
+| Flight the Good Flight | 7.00% | ~20,623 |
+| The Seeker of Knowledge | 5.00% | ~14,731 |
+| The Root of the Problem | 5.00% | ~14,731 |
+| Third Time's a Charm | 5.00% | ~14,731 |
+| Raising Expectations | 5.00% | ~14,731 |
+| The Toast of the Town | 4.00% | ~11,785 |
+| Going Through the Potions | 4.00% | ~11,785 |
+| Room with a View | 4.00% | ~11,785 |
+| The Intrepid Explorer | 4.00% | ~11,785 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,785 |
+| The Ends Petrify the Means | 4.00% | ~11,785 |
+| Floo Around the World | 3.00% | ~8,839 |
+| The Wise Owl | 3.00% | ~8,839 |
 | The Good Samaritan | 2.00% | ~5,892 |
 | Put Down Roots | 2.00% | ~5,892 |
 | The Auror's Apprentice | 2.00% | ~5,892 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 110)
 | Savvy Spender | 1.00% | ~2,946 |
 | Demiguise Dread | 1.00% | ~2,946 |
 | A Forte for Achievement | 1.00% | ~2,946 |
-| Merlin's Beard! | 0.90% | ~2,651 |
+| Merlin's Beard! | 0.90% | ~2,652 |
 | Spilled Milk | 0.80% | ~2,357 |
 | The Nature of the Beast | 0.60% | ~1,768 |
 | Collector's Edition | 0.30% | ~884 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294,607 (Ranked 43)  
+Progressed: 294,619 (Ranked 43)  
 Completed: 464 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 464 (0.16%) (Ranked 200)
 | 2023-09-02 | 292,828 | 462 |
 | 2023-09-03 | 293,795 | 463 |
 | 2023-09-04 | 294,412 | 464 |
-| 2023-09-05 | 294,607 | 464 |
+| 2023-09-05 | 294,619 | 464 |
 ## Awards
 Max (Character Customization): 22,202  (Ranked 17)  
 Sum: 42,205 (Ranked 30)  
