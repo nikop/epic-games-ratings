@@ -6,19 +6,19 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~20,384 |
-| The Evilest Evil | 58.00% | ~17,134 |
-| Twistram is devastated | 57.00% | ~16,839 |
+| The Shadow strikes | 69.00% | ~20,385 |
+| The Evilest Evil | 58.00% | ~17,135 |
+| Twistram is devastated | 57.00% | ~16,840 |
 | The Gehenna Stones | 49.00% | ~14,476 |
-| No one has to die today! | 46.00% | ~13,589 |
+| No one has to die today! | 46.00% | ~13,590 |
 | Death and destruction! | 45.00% | ~13,294 |
 | The Swamplanders from the swamplands | 43.00% | ~12,703 |
-| Rusty Steel | 41.00% | ~12,112 |
+| Rusty Steel | 41.00% | ~12,113 |
 | The One-Huge-Army-Building Evil | 40.00% | ~11,817 |
 | The last burger | 37.00% | ~10,931 |
 | Braiiiiins! | 37.00% | ~10,931 |
 | Hands off the Dungeonheart! | 36.00% | ~10,635 |
-| A trip on sea, what fun it can be | 34.00% | ~10,044 |
+| A trip on sea, what fun it can be | 34.00% | ~10,045 |
 | Damned good | 33.00% | ~9,749 |
 | Stock Market Crash | 31.00% | ~9,158 |
 | Factory farming | 31.00% | ~9,158 |
@@ -36,7 +36,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Where there is Light, there is Shadow | 23.00% | ~6,795 |
 | At the foot of Mount Destiny | 22.00% | ~6,499 |
 | The Force disturbed | 21.00% | ~6,204 |
-| The Victorious Evil | 20.00% | ~5,908 |
+| The Victorious Evil | 20.00% | ~5,909 |
 | Chorus of damnation | 19.00% | ~5,613 |
 | We don’t have time! | 19.00% | ~5,613 |
 | The Stones’ Power | 18.00% | ~5,318 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~591 |
 | Sacrifices! | 2.00% | ~591 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,542 (Ranked 101)  
+Progressed: 29,543 (Ranked 101)  
 Completed: 243 (0.82%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 243 (0.82%) (Ranked 129)
 | 2023-09-02 | 29,326 | 242 |
 | 2023-09-03 | 29,444 | 243 |
 | 2023-09-04 | 29,527 | 243 |
-| 2023-09-05 | 29,542 | 243 |
+| 2023-09-05 | 29,543 | 243 |
 ## Awards
 Max (Great for Beginners): 344  (Ranked 228)  
 Sum: 2,631 (Ranked 174)  

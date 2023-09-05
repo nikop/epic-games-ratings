@@ -121,17 +121,17 @@
       "ID": "BackFuture",
       "SetID": "bl5ebnd",
       "Name": "Back of the Future",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BigBrother",
       "SetID": "bl5ebnd",
       "Name": "Big Brother is Watching You",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CustomerService",
@@ -153,9 +153,9 @@
       "ID": "GoldenYouth",
       "SetID": "bl5ebnd",
       "Name": "Golden Youth",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Highway2Hell",
@@ -177,9 +177,9 @@
       "ID": "MilitaryContract",
       "SetID": "bl5ebnd",
       "Name": "Military Contract",
-      "Percentage": 53,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NewLife",
@@ -264,8 +264,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-09-05T04:03:59.2239541+00:00",
+  "LastChanged_Achievements": "2023-09-05T05:04:20.5845889+00:00",
   "LastUpdate_AppInfo": "2023-08-31T13:01:50.1916248+00:00",
-  "LastUpdate_Ratings": "2023-09-05T03:57:17.9740251+00:00",
-  "LastUpdate_Achievements": "2023-09-05T04:03:59.2239669+00:00"
+  "LastUpdate_Ratings": "2023-09-05T04:57:47.4383706+00:00",
+  "LastUpdate_Achievements": "2023-09-05T05:04:20.5846046+00:00"
 }

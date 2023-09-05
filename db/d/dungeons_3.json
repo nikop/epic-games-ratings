@@ -2584,9 +2584,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29542,
+  "EOS_Progressed": 29543,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -17534,6 +17534,11 @@
       "Time": "2023-09-05T04:08:12.5433623+00:00",
       "NumProgressed": 29542,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-09-05T05:08:25.2109998+00:00",
+      "NumProgressed": 29543,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 60,
@@ -17545,7 +17550,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17134
+      "UsersEstimate": 17135
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -17553,7 +17558,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13589
+      "UsersEstimate": 13590
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -17561,7 +17566,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16839
+      "UsersEstimate": 16840
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -17633,7 +17638,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10044
+      "UsersEstimate": 10045
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -17777,7 +17782,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12112
+      "UsersEstimate": 12113
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -17945,7 +17950,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20384
+      "UsersEstimate": 20385
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -17969,7 +17974,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 5908
+      "UsersEstimate": 5909
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -18024,15 +18029,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29542,
+      "Progressed": 29543,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-04T19:00:53.7599775+00:00",
-  "LastChanged_Achievements": "2023-09-05T04:08:12.5433619+00:00",
+  "LastChanged_Achievements": "2023-09-05T05:08:25.2109991+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-05T03:59:24.1562109+00:00",
-  "LastUpdate_Achievements": "2023-09-05T04:08:12.5434978+00:00"
+  "LastUpdate_Ratings": "2023-09-05T05:00:38.1606811+00:00",
+  "LastUpdate_Achievements": "2023-09-05T05:08:25.211147+00:00"
 }

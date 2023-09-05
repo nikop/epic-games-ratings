@@ -6,30 +6,30 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,200 |
-| He's Signed! | 50.00% | ~236,200 |
-| First Victory | 50.00% | ~236,200 |
-| He's Sold! | 48.00% | ~226,752 |
-| I'm The Boss! | 42.00% | ~198,408 |
-| Hat-trick | 41.00% | ~193,684 |
-| Scoring Streak | 38.00% | ~179,512 |
-| Unbeatable! | 37.00% | ~174,788 |
-| Thumping | 37.00% | ~174,788 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,340 |
-| Total Support | 32.00% | ~151,168 |
-| Record Signing | 32.00% | ~151,168 |
-| He's a Natural | 31.00% | ~146,444 |
-| Millionaire's Club | 31.00% | ~146,444 |
-| Team Performance | 30.00% | ~141,720 |
-| Parked The Bus | 29.00% | ~136,996 |
-| Shrewd Spender | 29.00% | ~136,996 |
-| Star Man | 29.00% | ~136,996 |
-| Attack! | 28.00% | ~132,272 |
-| Tremendous Trio | 27.00% | ~127,548 |
-| You're On Fire | 26.00% | ~122,824 |
-| On A Roll | 26.00% | ~122,824 |
-| Unstoppable Force | 26.00% | ~122,824 |
-| Record Sale | 26.00% | ~122,824 |
+| Clean Sheet | 50.00% | ~236,201 |
+| He's Signed! | 50.00% | ~236,201 |
+| First Victory | 50.00% | ~236,201 |
+| He's Sold! | 48.00% | ~226,753 |
+| I'm The Boss! | 42.00% | ~198,409 |
+| Hat-trick | 41.00% | ~193,685 |
+| Scoring Streak | 38.00% | ~179,513 |
+| Unbeatable! | 37.00% | ~174,789 |
+| Thumping | 37.00% | ~174,789 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,341 |
+| Total Support | 32.00% | ~151,169 |
+| Record Signing | 32.00% | ~151,169 |
+| He's a Natural | 31.00% | ~146,445 |
+| Millionaire's Club | 31.00% | ~146,445 |
+| Team Performance | 30.00% | ~141,721 |
+| Parked The Bus | 29.00% | ~136,997 |
+| Shrewd Spender | 29.00% | ~136,997 |
+| Star Man | 29.00% | ~136,997 |
+| Attack! | 28.00% | ~132,273 |
+| Tremendous Trio | 27.00% | ~127,549 |
+| You're On Fire | 26.00% | ~122,825 |
+| On A Roll | 26.00% | ~122,825 |
+| Unstoppable Force | 26.00% | ~122,825 |
+| Record Sale | 26.00% | ~122,825 |
 | Fantastic Five | 24.00% | ~113,376 |
 | Full Faith | 24.00% | ~113,376 |
 | Iron Curtain | 24.00% | ~113,376 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~472 |
 | Shoestring Budget | 0.10% | ~472 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,400 (Ranked 36)  
+Progressed: 472,402 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,14 +243,14 @@ Completed: 20 (0.00%) (Ranked 271)
 | 2023-09-02 | 472,196 | 20 |
 | 2023-09-03 | 472,303 | 20 |
 | 2023-09-04 | 472,391 | 20 |
-| 2023-09-05 | 472,400 | 20 |
+| 2023-09-05 | 472,402 | 20 |
 ## Awards
-Max (Relaxing): 6,422  (Ranked 54)  
-Sum: 50,573 (Ranked 24)  
+Max (Relaxing): 6,427  (Ranked 54)  
+Sum: 50,578 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,422 |
+| This game is Relaxing | 6,427 |
 | This game is Extremely Fun | 6,029 |
 | This game has Competitive Players | 5,862 |
 | This game has Quickly Understood Controls | 5,852 |
@@ -486,3 +486,4 @@ Diff (max vs sum): 30
 | 2023-09-02 | 4.80 | - | 6,422 | 50,546 |
 | 2023-09-03 | 4.80 | - | 6,422 | 50,565 |
 | 2023-09-04 | 4.80 | - | 6,422 | 50,573 |
+| 2023-09-05 | 4.80 | - | 6,427 | 50,578 |

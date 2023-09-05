@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 101)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.78 (Ranked 100)
 | The Adventure Begins | 56.00% | ~334 |
 | Swabbie | 43.00% | ~257 |
 | With Great Power… | 41.00% | ~245 |
-| This Belongs in a Museum | 36.00% | ~215 |
+| This Belongs in a Museum | 37.00% | ~221 |
 | The Gambit Has Begun | 32.00% | ~191 |
 | Powder Monkey | 30.00% | ~179 |
 | Somewhere Deep in the Lost Caribbean | 27.00% | ~161 |
@@ -20,8 +20,8 @@ Rating: 4.78 (Ranked 100)
 | Seadog | 16.00% | ~96 |
 | All Good Things | 15.00% | ~90 |
 | Persistent Parasite | 14.00% | ~84 |
+| Privateer | 11.00% | ~66 |
 | Jaded Judge | 11.00% | ~66 |
-| Privateer | 10.00% | ~60 |
 | Rustic Recipe | 10.00% | ~60 |
 | Tobacco Travesty | 8.00% | ~48 |
 | Lyrical Longing | 8.00% | ~48 |
@@ -33,7 +33,7 @@ Rating: 4.78 (Ranked 100)
 | Welcome Back Jester | 3.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 597 (Ranked 229)  
-Completed: 12 (2.01%) (Ranked 93)  
+Completed: 13 (2.18%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,7 +63,7 @@ Completed: 12 (2.01%) (Ranked 93)
 | 2023-09-02 | 585 | 11 |
 | 2023-09-03 | 589 | 11 |
 | 2023-09-04 | 596 | 12 |
-| 2023-09-05 | 597 | 12 |
+| 2023-09-05 | 597 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

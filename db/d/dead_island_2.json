@@ -4224,9 +4224,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 673753,
+  "EOS_Progressed": 673773,
   "EOS_Completed": 2114,
-  "EOS_NewPlayers": 5534,
+  "EOS_NewPlayers": 5531,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19589,6 +19589,11 @@
       "Time": "2023-09-05T04:05:30.6645953+00:00",
       "NumProgressed": 673753,
       "NumCompleted": 2114
+    },
+    {
+      "Time": "2023-09-05T05:06:22.722047+00:00",
+      "NumProgressed": 673773,
+      "NumCompleted": 2114
     }
   ],
   "TotalAchievements": 45,
@@ -19846,9 +19851,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4716
     },
     {
       "ID": "ach_salvation",
@@ -19959,7 +19964,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673753,
+      "Progressed": 673773,
       "Completed": 2114
     }
   ],
@@ -19967,8 +19972,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-04T19:58:54.2860158+00:00",
-  "LastChanged_Achievements": "2023-09-05T04:05:30.6645947+00:00",
+  "LastChanged_Achievements": "2023-09-05T05:06:22.7220461+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-05T03:58:34.8122661+00:00",
-  "LastUpdate_Achievements": "2023-09-05T04:05:30.6647363+00:00"
+  "LastUpdate_Ratings": "2023-09-05T04:59:35.9005536+00:00",
+  "LastUpdate_Achievements": "2023-09-05T05:06:22.7222216+00:00"
 }

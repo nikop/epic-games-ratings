@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106468,
+  "EOS_Progressed": 106470,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1079,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9712,6 +9712,11 @@
       "Time": "2023-09-05T04:05:09.417296+00:00",
       "NumProgressed": 106468,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-05T05:05:56.4481491+00:00",
+      "NumProgressed": 106470,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -9731,7 +9736,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 80916
+      "UsersEstimate": 80917
     },
     {
       "ID": "EAwards_10",
@@ -9739,7 +9744,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11711
+      "UsersEstimate": 11712
     },
     {
       "ID": "EAwards_11",
@@ -9747,7 +9752,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26617
+      "UsersEstimate": 26618
     },
     {
       "ID": "EAwards_12",
@@ -9795,7 +9800,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38328
+      "UsersEstimate": 38329
     },
     {
       "ID": "EAwards_18",
@@ -9803,7 +9808,7 @@
       "Name": "You Survived",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8517
+      "UsersEstimate": 8518
     },
     {
       "ID": "EAwards_19",
@@ -9819,7 +9824,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51105
+      "UsersEstimate": 51106
     },
     {
       "ID": "EAwards_20",
@@ -9867,7 +9872,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19164
+      "UsersEstimate": 19165
     },
     {
       "ID": "EAwards_26",
@@ -9955,7 +9960,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8517
+      "UsersEstimate": 8518
     },
     {
       "ID": "EAwards_36",
@@ -10083,7 +10088,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8517
+      "UsersEstimate": 8518
     },
     {
       "ID": "EAwards_7",
@@ -10091,7 +10096,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11711
+      "UsersEstimate": 11712
     },
     {
       "ID": "EAwards_8",
@@ -10099,7 +10104,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11711
+      "UsersEstimate": 11712
     },
     {
       "ID": "EAwards_9",
@@ -10114,7 +10119,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 106468,
+      "Progressed": 106470,
       "Completed": 40
     }
   ],
@@ -10122,8 +10127,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-01T15:00:01.2211131+00:00",
-  "LastChanged_Achievements": "2023-09-05T04:05:09.4172957+00:00",
+  "LastChanged_Achievements": "2023-09-05T05:05:56.4481482+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.1007702+00:00",
-  "LastUpdate_Ratings": "2023-09-05T03:57:13.8349387+00:00",
-  "LastUpdate_Achievements": "2023-09-05T04:05:09.4174008+00:00"
+  "LastUpdate_Ratings": "2023-09-05T04:57:43.3729259+00:00",
+  "LastUpdate_Achievements": "2023-09-05T05:05:56.4482485+00:00"
 }

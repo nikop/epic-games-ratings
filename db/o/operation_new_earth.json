@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1231,
+  "EOS_Progressed": 1234,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4366,6 +4366,11 @@
       "Time": "2023-09-05T04:06:06.6719125+00:00",
       "NumProgressed": 1231,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T05:07:07.2133574+00:00",
+      "NumProgressed": 1234,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4393,7 +4398,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_defeat_players_100",
@@ -4553,7 +4558,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4633,7 +4638,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4680,14 +4685,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1231,
+      "Progressed": 1234,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-05T04:06:06.6719121+00:00",
+  "LastChanged_Achievements": "2023-09-05T05:07:07.2133564+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-05T03:01:52.0256302+00:00",
-  "LastUpdate_Achievements": "2023-09-05T04:06:06.6719713+00:00"
+  "LastUpdate_Ratings": "2023-09-05T04:57:23.5611282+00:00",
+  "LastUpdate_Achievements": "2023-09-05T05:07:07.2134282+00:00"
 }
