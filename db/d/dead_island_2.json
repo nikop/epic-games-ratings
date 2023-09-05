@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4224,10 +4224,10 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 673742,
+  "EOS_Progressed": 673753,
   "EOS_Completed": 2114,
-  "EOS_NewPlayers": 5542,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 5534,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19584,6 +19584,11 @@
       "Time": "2023-09-05T03:06:08.1299994+00:00",
       "NumProgressed": 673742,
       "NumCompleted": 2114
+    },
+    {
+      "Time": "2023-09-05T04:05:30.6645953+00:00",
+      "NumProgressed": 673753,
+      "NumCompleted": 2114
     }
   ],
   "TotalAchievements": 45,
@@ -19619,7 +19624,7 @@
       "Name": "Anger Management",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -19627,7 +19632,7 @@
       "Name": "Make it So",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ach_big_name_in_town",
@@ -19635,7 +19640,7 @@
       "Name": "LA Influential",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ach_blueprinted",
@@ -19643,7 +19648,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "ach_bookworm",
@@ -19659,7 +19664,7 @@
       "Name": "Break A Leg",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6737
+      "UsersEstimate": 6738
     },
     {
       "ID": "ach_contender",
@@ -19667,7 +19672,7 @@
       "Name": "On Safari",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ach_defensive",
@@ -19675,7 +19680,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19731,7 +19736,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ach_hazardous_materials",
@@ -19755,7 +19760,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6737
+      "UsersEstimate": 6738
     },
     {
       "ID": "ach_impressive_aim",
@@ -19771,7 +19776,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ach_investigator",
@@ -19811,7 +19816,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "ach_magnum_opus",
@@ -19819,7 +19824,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ach_metropolitan",
@@ -19843,7 +19848,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "ach_salvation",
@@ -19875,7 +19880,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6737
+      "UsersEstimate": 6738
     },
     {
       "ID": "ach_survival_expert",
@@ -19923,7 +19928,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -19931,7 +19936,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6737
+      "UsersEstimate": 6738
     },
     {
       "ID": "ach_well_known_survivor",
@@ -19954,7 +19959,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673742,
+      "Progressed": 673753,
       "Completed": 2114
     }
   ],
@@ -19962,8 +19967,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-04T19:58:54.2860158+00:00",
-  "LastChanged_Achievements": "2023-09-05T03:06:08.1299988+00:00",
+  "LastChanged_Achievements": "2023-09-05T04:05:30.6645947+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:59:31.2541621+00:00",
-  "LastUpdate_Achievements": "2023-09-05T03:06:08.1301522+00:00"
+  "LastUpdate_Ratings": "2023-09-05T03:58:34.8122661+00:00",
+  "LastUpdate_Achievements": "2023-09-05T04:05:30.6647363+00:00"
 }

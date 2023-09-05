@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~22,016 |
-| Exploitative | 4.00% | ~17,613 |
-| Point Shooting | 4.00% | ~17,613 |
-| Wet Feet | 4.00% | ~17,613 |
+| Wallbanger | 5.00% | ~22,017 |
+| Exploitative | 4.00% | ~17,614 |
+| Point Shooting | 4.00% | ~17,614 |
+| Wet Feet | 4.00% | ~17,614 |
 | High Speed Low Drag | 3.00% | ~13,210 |
 | Lucky | 3.00% | ~13,210 |
 | Stylin' | 3.00% | ~13,210 |
 | Turf War | 3.00% | ~13,210 |
-| Banged | 2.00% | ~8,806 |
-| Checkpoint Victory | 2.00% | ~8,806 |
-| First Blood | 2.00% | ~8,806 |
-| Flaccid Paralysis | 2.00% | ~8,806 |
-| Push Victory | 2.00% | ~8,806 |
-| Self-destructive | 2.00% | ~8,806 |
+| Banged | 2.00% | ~8,807 |
+| Checkpoint Victory | 2.00% | ~8,807 |
+| First Blood | 2.00% | ~8,807 |
+| Flaccid Paralysis | 2.00% | ~8,807 |
+| Push Victory | 2.00% | ~8,807 |
+| Self-destructive | 2.00% | ~8,807 |
 | Blindfire | 1.00% | ~4,403 |
 | Ruthless | 1.00% | ~4,403 |
 | Semper Paratus | 1.00% | ~4,403 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~440 |
 | Road Hazard | 0.10% | ~440 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,322 (Ranked 38)  
+Progressed: 440,340 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-02 | 439,474 | 2 |
 | 2023-09-03 | 439,872 | 2 |
 | 2023-09-04 | 440,256 | 2 |
-| 2023-09-05 | 440,322 | 2 |
+| 2023-09-05 | 440,340 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 378  (Ranked 223)  
 Sum: 2,947 (Ranked 167)  

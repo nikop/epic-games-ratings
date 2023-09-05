@@ -473,9 +473,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -497,9 +497,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "TAKE_LEECH",
@@ -513,9 +513,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -528,8 +528,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-05T03:02:14.7536016+00:00",
+  "LastChanged_Achievements": "2023-09-05T04:03:19.6106086+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:57:52.3345537+00:00",
-  "LastUpdate_Achievements": "2023-09-05T03:02:14.7536277+00:00"
+  "LastUpdate_Ratings": "2023-09-05T03:57:22.2385504+00:00",
+  "LastUpdate_Achievements": "2023-09-05T04:03:19.6106252+00:00"
 }

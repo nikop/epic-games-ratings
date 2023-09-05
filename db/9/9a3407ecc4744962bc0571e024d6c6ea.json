@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 569,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -1133,9 +1133,9 @@
       "ID": "EverythingIsDust",
       "SetID": "3ai6ml8",
       "Name": "Everything is Dust",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 148
     },
     {
       "ID": "LightsOut",
@@ -1228,8 +1228,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-05T03:06:11.5035542+00:00",
+  "LastChanged_Achievements": "2023-09-05T04:05:33.2388802+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:05.9137937+00:00",
-  "LastUpdate_Ratings": "2023-09-05T03:01:03.3372237+00:00",
-  "LastUpdate_Achievements": "2023-09-05T03:06:11.5035955+00:00"
+  "LastUpdate_Ratings": "2023-09-05T03:59:50.0659857+00:00",
+  "LastUpdate_Achievements": "2023-09-05T04:05:33.2389+00:00"
 }

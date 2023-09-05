@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1230,
+  "EOS_Progressed": 1231,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -4361,6 +4361,11 @@
       "Time": "2023-09-05T02:20:44.9260034+00:00",
       "NumProgressed": 1230,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T04:06:06.6719125+00:00",
+      "NumProgressed": 1231,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4476,7 +4481,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4484,7 +4489,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -4634,9 +4639,9 @@
       "ID": "objective_research_unlock_air_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Advanced Interceptors",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -4658,9 +4663,9 @@
       "ID": "objective_research_unlock_light_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Jet Troops",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -4675,14 +4680,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1230,
+      "Progressed": 1231,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-05T03:06:52.8209724+00:00",
+  "LastChanged_Achievements": "2023-09-05T04:06:06.6719121+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
   "LastUpdate_Ratings": "2023-09-05T03:01:52.0256302+00:00",
-  "LastUpdate_Achievements": "2023-09-05T03:06:52.8210505+00:00"
+  "LastUpdate_Achievements": "2023-09-05T04:06:06.6719713+00:00"
 }

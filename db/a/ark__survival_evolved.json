@@ -2,7 +2,7 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 431,
+  "Ranking_Rating": 432,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 574,
@@ -10689,10 +10689,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 246707,
       "NumberOfAwardsMax": 60740
+    },
+    {
+      "Time": "2023-09-05T03:58:44.1459045+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 246712,
+      "NumberOfAwardsMax": 60740
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246707,
+  "NumberOfAwards": 246712,
   "NumberOfAwardsMax": 60740,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10754,7 +10760,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 19667
+      "Count": 19672
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10780,8 +10786,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-09-05T01:39:09.1352788+00:00",
+  "LastChanged": "2023-09-05T03:58:44.1459043+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:19.9546011+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:59:43.2581042+00:00",
-  "LastUpdate_Achievements": "2023-09-05T03:06:14.8769762+00:00"
+  "LastUpdate_Ratings": "2023-09-05T03:58:44.1459051+00:00",
+  "LastUpdate_Achievements": "2023-09-05T04:05:35.8971718+00:00"
 }

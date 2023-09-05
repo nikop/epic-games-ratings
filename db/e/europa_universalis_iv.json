@@ -9126,9 +9126,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 391619,
+  "EOS_Progressed": 391645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13323,
+  "EOS_NewPlayers": 13297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24526,6 +24526,11 @@
       "Time": "2023-09-05T03:08:06.0091091+00:00",
       "NumProgressed": 391619,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T04:08:17.439834+00:00",
+      "NumProgressed": 391645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -24817,7 +24822,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -24929,7 +24934,7 @@
       "Name": "Blockader",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -24977,7 +24982,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7832
+      "UsersEstimate": 7833
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -25047,9 +25052,9 @@
       "ID": "achievement_city_of_cities",
       "SetID": "67mdiil",
       "Name": "City of Cities",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1958
     },
     {
       "ID": "achievement_cold_war",
@@ -25193,7 +25198,7 @@
       "Name": "Double the Love",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -25457,7 +25462,7 @@
       "Name": "Gentle Persuasion",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "achievement_georgia_on_my_mind",
@@ -25561,7 +25566,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7832
+      "UsersEstimate": 7833
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -26401,7 +26406,7 @@
       "Name": "Queen of Conquest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -26489,7 +26494,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -26537,7 +26542,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7832
+      "UsersEstimate": 7833
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -27041,7 +27046,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -27089,7 +27094,7 @@
       "Name": "Total Control",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2741
+      "UsersEstimate": 2742
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -27201,7 +27206,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15665
+      "UsersEstimate": 15666
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -27368,21 +27373,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 391619,
+      "Progressed": 391645,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 391619,
+      "Progressed": 391645,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-05T02:11:55.9670103+00:00",
-  "LastChanged_Achievements": "2023-09-05T03:08:06.0091086+00:00",
+  "LastChanged_Achievements": "2023-09-05T04:08:17.4398336+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:16.2286567+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:58:11.3067215+00:00",
-  "LastUpdate_Achievements": "2023-09-05T03:08:06.010525+00:00"
+  "LastUpdate_Ratings": "2023-09-05T03:57:35.297131+00:00",
+  "LastUpdate_Achievements": "2023-09-05T04:08:17.4410372+00:00"
 }

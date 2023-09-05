@@ -2612,9 +2612,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 641246,
+  "EOS_Progressed": 641248,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2265,
+  "EOS_NewPlayers": 2256,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17927,6 +17927,11 @@
       "Time": "2023-09-05T03:04:33.3912327+00:00",
       "NumProgressed": 641246,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-05T04:04:13.6400718+00:00",
+      "NumProgressed": 641248,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 52,
@@ -17938,7 +17943,7 @@
       "Name": "Stroller",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 89774
+      "UsersEstimate": 89775
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -18186,7 +18191,7 @@
       "Name": "Incurious",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 102599
+      "UsersEstimate": 102600
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -18353,15 +18358,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 641246,
+      "Progressed": 641248,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-02T14:00:42.4633063+00:00",
-  "LastChanged_Achievements": "2023-09-05T03:04:33.3912314+00:00",
+  "LastChanged_Achievements": "2023-09-05T04:04:13.6400711+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:40.8702668+00:00",
-  "LastUpdate_Ratings": "2023-09-05T02:57:31.9720007+00:00",
-  "LastUpdate_Achievements": "2023-09-05T03:04:33.3914045+00:00"
+  "LastUpdate_Ratings": "2023-09-05T03:57:04.5535168+00:00",
+  "LastUpdate_Achievements": "2023-09-05T04:04:13.6402224+00:00"
 }

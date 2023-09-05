@@ -16,8 +16,8 @@ Number of Ratings: 524  (23.09.2022)
 | Paging Mr. Wake | 17.00% | ~10,597 |
 | Back! Back, I Say! | 16.00% | ~9,974 |
 | Finders Keepers | 16.00% | ~9,974 |
-| Sound and Fury | 15.00% | ~9,350 |
-| Damn Good Cup of Coffee | 15.00% | ~9,350 |
+| Sound and Fury | 15.00% | ~9,351 |
+| Damn Good Cup of Coffee | 15.00% | ~9,351 |
 | Wheels Within Wheels | 14.00% | ~8,727 |
 | They're Heeeeeere! | 14.00% | ~8,727 |
 | Missed by a Mile | 14.00% | ~8,727 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~62 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,336 (Ranked 87)  
+Progressed: 62,337 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 65 (0.10%) (Ranked 219)
 | 2023-09-02 | 62,195 | 65 |
 | 2023-09-03 | 62,270 | 65 |
 | 2023-09-04 | 62,326 | 65 |
-| 2023-09-05 | 62,336 | 65 |
+| 2023-09-05 | 62,337 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

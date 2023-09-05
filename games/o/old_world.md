@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.90% | ~124 |
 | Redemption | 0.90% | ~124 |
 | Legionary | 0.90% | ~124 |
+| Win a Single Player Game | 0.90% | ~124 |
 | Capable | 0.80% | ~110 |
 | Invincible | 0.80% | ~110 |
 | Ready | 0.80% | ~110 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.80% | ~110 |
 | Ambition Victory | 0.80% | ~110 |
 | Double Victory | 0.80% | ~110 |
-| Win a Single Player Game | 0.80% | ~110 |
 | Bad Heir Day | 0.70% | ~96 |
 | Devout | 0.70% | ~96 |
 | Landowners | 0.70% | ~96 |

@@ -1,58 +1,58 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 431)  
+Rating: 4.58 (Ranked 432)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,081 |
-| Uncharted Territory | 89.00% | ~209,596 |
-| Getting A Glimpse | 73.00% | ~171,916 |
-| A Quick Escape | 65.00% | ~153,076 |
-| Explorer | 62.00% | ~146,011 |
-| Defeat The Dark | 61.00% | ~143,656 |
-| An Offering | 61.00% | ~143,656 |
-| Colorful Corpse | 58.00% | ~136,591 |
-| That Was Quick | 57.00% | ~134,236 |
-| A Donation | 57.00% | ~134,236 |
-| Goodbye, Frog Friend | 54.00% | ~127,171 |
-| Heavy Hitter | 53.00% | ~124,816 |
-| Heartless | 46.00% | ~108,330 |
-| Spine Breaker | 46.00% | ~108,330 |
-| Deflection | 45.00% | ~105,975 |
-| Sneaky | 43.00% | ~101,265 |
-| Delving Deeper | 42.00% | ~98,910 |
-| C-C-Combo | 42.00% | ~98,910 |
-| Ambitious Intent | 41.00% | ~96,555 |
-| Nothing To Lose | 40.00% | ~94,200 |
-| The Bestiary | 40.00% | ~94,200 |
-| What's Yours Is Mine | 38.00% | ~89,490 |
-| R.I.P | 36.00% | ~84,780 |
-| Shootout | 36.00% | ~84,780 |
-| I Am Overburdened | 35.00% | ~82,425 |
-| Cold Hearted | 34.00% | ~80,070 |
-| Dig Your Own Grave | 33.00% | ~77,715 |
-| Toxic | 33.00% | ~77,715 |
-| Who To Trust? | 32.00% | ~75,360 |
-| Flesh Wound | 29.00% | ~68,295 |
-| Stone Touch | 28.00% | ~65,940 |
-| Shadow Walker | 28.00% | ~65,940 |
-| Consecutive Curses | 27.00% | ~63,585 |
-| Walk It Off | 27.00% | ~63,585 |
-| Acid Bath | 27.00% | ~63,585 |
-| New Perspectives | 27.00% | ~63,585 |
-| Shapeshifting | 27.00% | ~63,585 |
-| Destroy Your Fears | 26.00% | ~61,230 |
-| Save Our Souls | 25.00% | ~58,875 |
-| To The Death! | 20.00% | ~47,100 |
-| Well Prepared | 20.00% | ~47,100 |
-| Just Chilling | 20.00% | ~47,100 |
-| Stop Hitting Yourself | 19.00% | ~44,745 |
-| All Consuming | 18.00% | ~42,390 |
-| Shadow Spreads | 17.00% | ~40,035 |
-| Don't Ignore Me! | 17.00% | ~40,035 |
-| Illuminate, Eliminate | 17.00% | ~40,035 |
+| First Steps | 96.00% | ~226,083 |
+| Uncharted Territory | 89.00% | ~209,598 |
+| Getting A Glimpse | 73.00% | ~171,917 |
+| A Quick Escape | 65.00% | ~153,077 |
+| Explorer | 62.00% | ~146,012 |
+| Defeat The Dark | 61.00% | ~143,657 |
+| An Offering | 61.00% | ~143,657 |
+| Colorful Corpse | 58.00% | ~136,592 |
+| That Was Quick | 57.00% | ~134,237 |
+| A Donation | 57.00% | ~134,237 |
+| Goodbye, Frog Friend | 54.00% | ~127,172 |
+| Heavy Hitter | 53.00% | ~124,817 |
+| Heartless | 46.00% | ~108,331 |
+| Spine Breaker | 46.00% | ~108,331 |
+| Deflection | 45.00% | ~105,976 |
+| Sneaky | 43.00% | ~101,266 |
+| Delving Deeper | 42.00% | ~98,911 |
+| C-C-Combo | 42.00% | ~98,911 |
+| Ambitious Intent | 41.00% | ~96,556 |
+| Nothing To Lose | 40.00% | ~94,201 |
+| The Bestiary | 40.00% | ~94,201 |
+| What's Yours Is Mine | 38.00% | ~89,491 |
+| R.I.P | 36.00% | ~84,781 |
+| Shootout | 36.00% | ~84,781 |
+| I Am Overburdened | 35.00% | ~82,426 |
+| Cold Hearted | 34.00% | ~80,071 |
+| Dig Your Own Grave | 33.00% | ~77,716 |
+| Toxic | 33.00% | ~77,716 |
+| Who To Trust? | 32.00% | ~75,361 |
+| Flesh Wound | 29.00% | ~68,296 |
+| Stone Touch | 28.00% | ~65,941 |
+| Shadow Walker | 28.00% | ~65,941 |
+| Consecutive Curses | 27.00% | ~63,586 |
+| Walk It Off | 27.00% | ~63,586 |
+| Acid Bath | 27.00% | ~63,586 |
+| New Perspectives | 27.00% | ~63,586 |
+| Shapeshifting | 27.00% | ~63,586 |
+| Destroy Your Fears | 26.00% | ~61,231 |
+| Save Our Souls | 25.00% | ~58,876 |
+| To The Death! | 20.00% | ~47,101 |
+| Well Prepared | 20.00% | ~47,101 |
+| Just Chilling | 20.00% | ~47,101 |
+| Stop Hitting Yourself | 19.00% | ~44,746 |
+| All Consuming | 18.00% | ~42,391 |
+| Shadow Spreads | 17.00% | ~40,036 |
+| Don't Ignore Me! | 17.00% | ~40,036 |
+| Illuminate, Eliminate | 17.00% | ~40,036 |
 | Max Damage! | 16.00% | ~37,680 |
 | Doing Time | 16.00% | ~37,680 |
 | Spreading Plague | 15.00% | ~35,325 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,178 |
 | Near Death Experience | 0.30% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,501 (Ranked 51)  
+Progressed: 235,503 (Ranked 51)  
 Completed: 265 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 265 (0.11%) (Ranked 216)
 | 2023-09-02 | 235,372 | 264 |
 | 2023-09-03 | 235,436 | 264 |
 | 2023-09-04 | 235,498 | 265 |
-| 2023-09-05 | 235,501 | 265 |
+| 2023-09-05 | 235,503 | 265 |
 ## Awards
 Max (Quickly Understood Controls): 1,488  (Ranked 122)  
 Sum: 11,546 (Ranked 79)  
