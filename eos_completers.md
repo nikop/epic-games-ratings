@@ -3,10 +3,10 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.85% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.86% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.59% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 25.69% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 26.61% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.37% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -20,7 +20,7 @@
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.50% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
-| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
+| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.09% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 22 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |
@@ -40,7 +40,7 @@
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
 | 40 | [Scorn](games/s/scorn.md) | 7.03% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.92% |
+| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.90% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.69% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -87,10 +87,10 @@
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.44% |
-| 88 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
-| 89 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.26% |
-| 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
-| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.17% |
+| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.33% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
+| 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.26% |
+| 91 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.16% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
@@ -143,8 +143,8 @@
 | 141 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 141 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
 | 143 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
-| 143 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.59% |
-| 145 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
+| 144 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
+| 144 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.58% |
 | 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
 | 147 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 148 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
@@ -191,10 +191,10 @@
 | 189 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
 | 189 | [Blanc](games/b/blanc.md) | 0.23% |
 | 191 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 191 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.22% |
 | 191 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.22% |
-| 193 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.21% |
-| 193 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 193 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 194 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 196 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 197 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 197 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
