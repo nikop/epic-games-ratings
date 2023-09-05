@@ -24,8 +24,8 @@
 | 22 | [Warframe](games/w/warframe.md) | 16,836 | 4.60 | 393 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,222 | 4.76 | 117 |
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,463 | 4.58 | 431 |
-| 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,649 | 4.60 | 393 |
-| 25 | [Maneater](games/m/maneater.md) | 13,649 | 4.49 | 580 |
+| 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,650 | 4.60 | 393 |
+| 26 | [Maneater](games/m/maneater.md) | 13,649 | 4.49 | 580 |
 | 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,553 | 4.60 | 393 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,762 | 4.43 | 666 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,660 | 4.36 | 745 |
@@ -37,7 +37,7 @@
 | 35 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 10,388 | 4.74 | 146 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 10,322 | 4.76 | 117 |
 | 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,948 | 4.61 | 369 |
-| 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,908 | 4.78 | 100 |
+| 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,924 | 4.78 | 100 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 8,989 | 4.58 | 431 |
 | 40 | [Control](games/c/control.md) | 8,481 | 4.60 | 393 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,098 | 4.89 | 13 |
@@ -101,7 +101,7 @@
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,543 | 4.27 | 823 |
 | 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,507 | 4.10 | 914 |
 | 101 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,483 | 4.49 | 580 |
-| 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,458 | 4.80 | 83 |
+| 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,459 | 4.80 | 83 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,390 | 4.78 | 100 |
 | 104 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,246 | 4.67 | 259 |
 | 105 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,218 | 4.63 | 334 |
@@ -139,8 +139,8 @@
 | 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,181 | 4.61 | 369 |
 | 138 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,076 | 4.61 | 369 |
 | 139 | [EVE Online](games/e/eve_online.md) | 1,071 | 4.25 | 835 |
+| 140 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,063 | 4.66 | 279 |
 | 140 | [Saints Row](games/s/saints_row.md) | 1,063 | 3.78 | 975 |
-| 141 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,062 | 4.66 | 279 |
 | 142 | [Ooblets](games/o/ooblets.md) | 1,023 | 4.88 | 19 |
 | 143 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,022 | 4.39 | 721 |
 | 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,019 | 4.59 | 416 |

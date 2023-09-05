@@ -84,7 +84,7 @@
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 517 |
 | 83 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,422 | 54 |
 | 83 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 517 |
-| 83 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,458 | 102 |
+| 83 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,459 | 102 |
 | 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 336 |
 | 83 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 517 |
 | 83 | [The Messenger](games/t/the_messenger.md) | 4.80 | 327 | 231 |
@@ -100,7 +100,7 @@
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 121 | 320 |
 | 89 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 517 |
 | 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 517 |
-| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,908 | 38 |
+| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,924 | 38 |
 | 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 517 |
 | 100 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 517 |
 | 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 754 | 162 |
@@ -288,7 +288,7 @@
 | 279 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.66 | 0 | 517 |
 | 279 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.66 | 0 | 517 |
 | 279 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 51 | 401 |
-| 279 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,062 | 141 |
+| 279 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,063 | 140 |
 | 279 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,914 | 109 |
 | 279 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 562 | 190 |
 | 279 | [SOMA](games/s/soma.md) | 4.66 | 0 | 517 |
@@ -400,7 +400,7 @@
 | 393 | [Control](games/c/control.md) | 4.60 | 8,481 | 40 |
 | 393 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 517 |
 | 393 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 267 |
-| 393 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,649 | 25 |
+| 393 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,650 | 25 |
 | 393 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 27 | 472 |
 | 393 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 318 |
 | 393 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 517 |
@@ -591,7 +591,7 @@
 | 580 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 127 | 311 |
 | 580 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 251 | 253 |
 | 580 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 517 |
-| 580 | [Maneater](games/m/maneater.md) | 4.49 | 13,649 | 25 |
+| 580 | [Maneater](games/m/maneater.md) | 4.49 | 13,649 | 26 |
 | 580 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 517 |
 | 580 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
 | 580 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 521,902 | 2 |
