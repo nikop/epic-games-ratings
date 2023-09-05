@@ -120,10 +120,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | No Swapsies | 0.90% | ~2,120 |
 | Blizzard | 0.80% | ~1,884 |
 | Need An Antidote? | 0.80% | ~1,884 |
+| Mastermind | 0.70% | ~1,649 |
 | Ignoring Midgame | 0.70% | ~1,649 |
 | A Hard Carry | 0.60% | ~1,413 |
 | Only The Best | 0.60% | ~1,413 |
-| Mastermind | 0.60% | ~1,413 |
 | Nudie Run | 0.60% | ~1,413 |
 | Never Too Many Hats | 0.50% | ~1,178 |
 | Down Under | 0.50% | ~1,178 |

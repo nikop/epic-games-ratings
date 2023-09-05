@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106484,
+  "EOS_Progressed": 106488,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1068,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9732,6 +9732,11 @@
       "Time": "2023-09-05T09:05:55.7504988+00:00",
       "NumProgressed": 106484,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-05T10:05:15.739094+00:00",
+      "NumProgressed": 106488,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -9751,7 +9756,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 80928
+      "UsersEstimate": 80931
     },
     {
       "ID": "EAwards_10",
@@ -9759,7 +9764,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11713
+      "UsersEstimate": 11714
     },
     {
       "ID": "EAwards_11",
@@ -9767,7 +9772,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26621
+      "UsersEstimate": 26622
     },
     {
       "ID": "EAwards_12",
@@ -9799,7 +9804,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10648
+      "UsersEstimate": 10649
     },
     {
       "ID": "EAwards_16",
@@ -9815,7 +9820,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38334
+      "UsersEstimate": 38336
     },
     {
       "ID": "EAwards_18",
@@ -9839,7 +9844,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51112
+      "UsersEstimate": 51114
     },
     {
       "ID": "EAwards_20",
@@ -9847,7 +9852,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10648
+      "UsersEstimate": 10649
     },
     {
       "ID": "EAwards_21",
@@ -9887,7 +9892,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19167
+      "UsersEstimate": 19168
     },
     {
       "ID": "EAwards_26",
@@ -9895,7 +9900,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10648
+      "UsersEstimate": 10649
     },
     {
       "ID": "EAwards_27",
@@ -9927,7 +9932,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20232
+      "UsersEstimate": 20233
     },
     {
       "ID": "EAwards_30",
@@ -9935,7 +9940,7 @@
       "Name": "Moves Like Jaguar",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "EAwards_31",
@@ -9943,7 +9948,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10648
+      "UsersEstimate": 10649
     },
     {
       "ID": "EAwards_32",
@@ -10015,7 +10020,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12778
+      "UsersEstimate": 12779
     },
     {
       "ID": "EAwards_40",
@@ -10111,7 +10116,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11713
+      "UsersEstimate": 11714
     },
     {
       "ID": "EAwards_8",
@@ -10119,7 +10124,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11713
+      "UsersEstimate": 11714
     },
     {
       "ID": "EAwards_9",
@@ -10127,14 +10132,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10648
+      "UsersEstimate": 10649
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 106484,
+      "Progressed": 106488,
       "Completed": 40
     }
   ],
@@ -10142,8 +10147,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-01T15:00:01.2211131+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:05:55.7504982+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:05:15.7390934+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.1007702+00:00",
-  "LastUpdate_Ratings": "2023-09-05T08:57:44.8111105+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:05:55.7506016+00:00"
+  "LastUpdate_Ratings": "2023-09-05T09:57:40.2715143+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:05:15.7391978+00:00"
 }

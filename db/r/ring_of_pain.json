@@ -2793,7 +2793,7 @@
   ],
   "EOS_Progressed": 235509,
   "EOS_Completed": 265,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17806,9 +17806,9 @@
       "ID": "WINNOEPICLEGENDARY",
       "SetID": "5l8oe0h",
       "Name": "Mastermind",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1649
     },
     {
       "ID": "WINNOEQUIPREPLACEMENTS",
@@ -17895,8 +17895,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-09-03T01:42:00.6079557+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:06:46.3745948+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:05:56.2033159+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:05.6326594+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:00:50.2093243+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:06:46.3748605+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:00:13.5225498+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:05:56.2035823+00:00"
 }

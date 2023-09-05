@@ -2,9 +2,9 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -291,6 +291,11 @@
       "Time": "2023-09-02T01:41:41.3274133+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T10:04:59.5557191+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -340,9 +345,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -382,7 +387,7 @@
       "Name": "Self-Defence",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -492,7 +497,7 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -548,9 +553,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -564,7 +569,7 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -572,7 +577,7 @@
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -620,7 +625,7 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -636,7 +641,7 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_50",
       "SetID": "7i20me3",
       "Name": "Expert",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -660,7 +665,7 @@
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
       "SetID": "7i20me3",
       "Name": "Changing the World",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 7
     }
@@ -669,22 +674,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 54,
-      "Completed": 54
+      "Progressed": 55,
+      "Completed": 55
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:05:35.1177094+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:04:59.5557186+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:20.6233931+00:00",
-  "LastUpdate_Ratings": "2023-09-05T08:58:57.3310586+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:05:35.1177507+00:00"
+  "LastUpdate_Ratings": "2023-09-05T09:58:44.3198101+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:04:59.5557593+00:00"
 }

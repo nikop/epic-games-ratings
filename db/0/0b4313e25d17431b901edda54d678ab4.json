@@ -4,7 +4,7 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -266,6 +266,11 @@
       "Time": "2023-09-05T05:07:27.8490284+00:00",
       "NumProgressed": 51,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T10:06:29.8023371+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -283,9 +288,9 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 60,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "fastBossKill",
@@ -307,23 +312,23 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 150,
       "UsersEstimate": 38
     },
@@ -341,7 +346,7 @@
       "Name": "Flying death",
       "Percentage": 67,
       "XP": 55,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "leviathan02",
@@ -395,7 +400,7 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 24
     }
@@ -404,14 +409,14 @@
     {
       "ID": "bma0pih",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:07:28.343116+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:06:29.8023365+00:00",
   "LastUpdate_AppInfo": "2023-09-03T16:57:17.2033406+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:00:41.853376+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:07:28.3431299+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:00:05.6748462+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:06:29.8023519+00:00"
 }

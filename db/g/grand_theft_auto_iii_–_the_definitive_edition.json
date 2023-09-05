@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -448,9 +448,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7652,
+  "EOS_Progressed": 7653,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -7938,6 +7938,11 @@
       "Time": "2023-09-05T04:04:08.0257219+00:00",
       "NumProgressed": 7652,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-05T10:04:14.6970849+00:00",
+      "NumProgressed": 7653,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -7949,7 +7954,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6351
+      "UsersEstimate": 6352
     },
     {
       "ID": "ACH02",
@@ -7989,7 +7994,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ACH07",
@@ -8180,7 +8185,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7652,
+      "Progressed": 7653,
       "Completed": 50
     }
   ],
@@ -8188,8 +8193,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-01T05:57:08.955736+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:04:38.4173955+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:04:14.697084+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:17.0167679+00:00",
-  "LastUpdate_Ratings": "2023-09-05T08:58:54.0793815+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:04:38.417464+00:00"
+  "LastUpdate_Ratings": "2023-09-05T09:58:41.8612322+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:04:14.6971524+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2306,
+  "EOS_Progressed": 2307,
   "EOS_Completed": 206,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 8.93,
   "EosHistory": [
@@ -5563,6 +5563,11 @@
       "Time": "2023-09-05T04:08:10.4666478+00:00",
       "NumProgressed": 2306,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2023-09-05T10:07:13.4801291+00:00",
+      "NumProgressed": 2307,
+      "NumCompleted": 206
     }
   ],
   "TotalAchievements": 12,
@@ -5590,7 +5595,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "Green Ticket Roundup",
@@ -5606,7 +5611,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "Jakob",
@@ -5669,7 +5674,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2306,
+      "Progressed": 2307,
       "Completed": 206
     }
   ],
@@ -5677,8 +5682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:08:11.6970151+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:07:13.4801284+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:56:59.2178706+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:00:08.3392984+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:08:11.6970629+00:00"
+  "LastUpdate_Ratings": "2023-09-05T09:59:39.0396821+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:07:13.4801727+00:00"
 }

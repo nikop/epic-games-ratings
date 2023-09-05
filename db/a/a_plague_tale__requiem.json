@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -8071,9 +8071,9 @@
       "ID": "ACH_18",
       "SetID": "9d4cf4c",
       "Name": "Herbalist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 905
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_19",
@@ -8224,8 +8224,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-31T16:58:27.1568768+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:03:46.874924+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:03:41.7136331+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:15.9544425+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:00:46.2851767+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:03:46.87499+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:00:11.4732756+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:03:41.7137011+00:00"
 }

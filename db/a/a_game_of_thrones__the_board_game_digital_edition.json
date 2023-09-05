@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23234,
+  "EOS_Progressed": 23236,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16040,6 +16040,11 @@
       "Time": "2023-09-05T09:07:26.3223165+00:00",
       "NumProgressed": 23234,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-05T10:06:27.9628125+00:00",
+      "NumProgressed": 23236,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 22,
@@ -16059,7 +16064,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "1017",
@@ -16083,7 +16088,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "1020",
@@ -16203,7 +16208,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "1035",
@@ -16211,7 +16216,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "1036",
@@ -16226,15 +16231,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23234,
+      "Progressed": 23236,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:07:26.322316+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:06:27.962812+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.1036434+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:02:02.0530406+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:07:26.3224094+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:01:10.9387253+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:06:27.9629201+00:00"
 }

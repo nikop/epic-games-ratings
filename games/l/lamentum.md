@@ -6,7 +6,7 @@ Rating: 4.37 (Ranked 739)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The creature | 80.00% | ~254 |
-| Grau Hill | 76.00% | ~242 |
+| Grau Hill | 77.00% | ~245 |
 | A forgotten language | 69.00% | ~219 |
 | Lord Wesley | 34.00% | ~108 |
 | My dear Magda | 28.00% | ~89 |

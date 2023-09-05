@@ -4168,10 +4168,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8699,
       "NumberOfAwardsMax": 5902
+    },
+    {
+      "Time": "2023-09-05T09:59:13.7335269+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8707,
+      "NumberOfAwardsMax": 5902
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8699,
+  "NumberOfAwards": 8707,
   "NumberOfAwardsMax": 5902,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4197,7 +4203,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 393
+      "Count": 398
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4227,13 +4233,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 336
+      "Count": 339
     }
   ],
-  "EOS_Progressed": 673832,
+  "EOS_Progressed": 673848,
   "EOS_Completed": 2115,
-  "EOS_NewPlayers": 5515,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 5507,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19615,6 +19621,11 @@
       "Time": "2023-09-05T09:06:22.4736158+00:00",
       "NumProgressed": 673832,
       "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-09-05T10:05:37.43988+00:00",
+      "NumProgressed": 673848,
+      "NumCompleted": 2115
     }
   ],
   "TotalAchievements": 45,
@@ -19626,7 +19637,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -19642,7 +19653,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "ach_anger_management",
@@ -19730,7 +19741,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -19746,7 +19757,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -19770,7 +19781,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -19778,7 +19789,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "ach_hotel_california",
@@ -19818,7 +19829,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ach_knock_down",
@@ -19826,7 +19837,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "ach_knowledgeable",
@@ -19898,7 +19909,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6064
+      "UsersEstimate": 6065
     },
     {
       "ID": "ach_star_performance",
@@ -19970,7 +19981,7 @@
       "Name": "Rising Star",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "ach_well_trained",
@@ -19985,16 +19996,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673832,
+      "Progressed": 673848,
       "Completed": 2115
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-05T08:59:34.7216336+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:06:22.4736143+00:00",
+  "LastChanged": "2023-09-05T09:59:13.7335268+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:05:37.4398794+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-05T08:59:34.7216343+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:06:22.4737515+00:00"
+  "LastUpdate_Ratings": "2023-09-05T09:59:13.7335274+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:05:37.4400096+00:00"
 }

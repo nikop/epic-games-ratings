@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -306,7 +306,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196239,
+  "EOS_Progressed": 196242,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
@@ -15231,6 +15231,11 @@
       "Time": "2023-09-05T09:07:39.7696138+00:00",
       "NumProgressed": 196239,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T10:06:38.6935319+00:00",
+      "NumProgressed": 196242,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -15250,7 +15255,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 139330
+      "UsersEstimate": 139332
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -15274,7 +15279,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35323
+      "UsersEstimate": 35324
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -15369,7 +15374,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 196239,
+      "Progressed": 196242,
       "Completed": 4
     }
   ],
@@ -15377,8 +15382,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-23T04:57:31.1558679+00:00",
-  "LastChanged_Achievements": "2023-09-05T09:07:39.7696131+00:00",
+  "LastChanged_Achievements": "2023-09-05T10:06:38.6935313+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:17.2538294+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:01:04.7043195+00:00",
-  "LastUpdate_Achievements": "2023-09-05T09:07:39.7697178+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:00:26.2040567+00:00",
+  "LastUpdate_Achievements": "2023-09-05T10:06:38.6936334+00:00"
 }
