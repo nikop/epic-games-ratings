@@ -348,7 +348,7 @@
 | 334 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 280 |
 | 334 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 237 |
 | 334 | [System Shock](games/s/system_shock.md) | 4.63 | 0 | 517 |
-| 334 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,774 | 115 |
+| 334 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,774 | 116 |
 | 334 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 20 | 510 |
 | 334 | [Ticket to Ride](games/t/ticket_to_ride.md) | 4.63 | 68 | 381 |
 | 334 | [Transistor](games/t/transistor.md) | 4.63 | 0 | 517 |
@@ -386,7 +386,7 @@
 | 369 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 685 | 170 |
 | 369 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 106 | 332 |
 | 369 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 496 | 201 |
-| 369 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,948 | 37 |
+| 369 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,957 | 37 |
 | 369 | [RiME](games/r/rime.md) | 4.61 | 0 | 517 |
 | 369 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,076 | 138 |
 | 369 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 281 | 243 |
@@ -469,7 +469,7 @@
 | 452 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,841 | 82 |
 | 452 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 30 | 464 |
 | 452 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 19,385 | 19 |
-| 452 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,774 | 115 |
+| 452 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,775 | 115 |
 | 452 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 517 |
 | 452 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 62 | 390 |
 | 473 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.56 | 0 | 517 |
@@ -532,7 +532,7 @@
 | 521 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 517 |
 | 521 | [VALORANT](games/v/valorant.md) | 4.53 | 68,303 | 10 |
 | 532 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 42 | 423 |
-| 532 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,936 | 15 |
+| 532 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,976 | 15 |
 | 532 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 504 |
 | 532 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 447 |
 | 532 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,568 | 7 |
@@ -845,7 +845,7 @@
 | 842 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 462 |
 | 842 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 517 |
 | 842 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 517 |
-| 842 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 589 | 184 |
+| 842 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 592 | 184 |
 | 842 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 517 |
 | 842 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 412 |
 | 842 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 517 |
