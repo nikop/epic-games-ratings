@@ -228,7 +228,7 @@
 | 218 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 517 |
 | 218 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 517 |
 | 218 | [Revita](games/r/revita.md) | 4.69 | 0 | 517 |
-| 218 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,385 | 32 |
+| 218 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,391 | 32 |
 | 218 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 276 | 246 |
 | 218 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 472 |
 | 218 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 517 |
@@ -416,7 +416,7 @@
 | 393 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 358 |
 | 393 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 517 |
 | 416 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 414 |
-| 416 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 308 | 236 |
+| 416 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 310 | 235 |
 | 416 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.59 | 75 | 370 |
 | 416 | [DOOM 3](games/d/doom_3.md) | 4.59 | 68 | 381 |
 | 416 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.59 | 0 | 517 |
@@ -892,7 +892,7 @@
 | 890 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.17 | 0 | 517 |
 | 890 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 517 |
 | 892 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 517 |
-| 892 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 612 | 180 |
+| 892 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 614 | 180 |
 | 892 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.16 | 0 | 517 |
 | 892 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 517 |
 | 892 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 285 |
@@ -949,7 +949,7 @@
 | 943 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 517 |
 | 948 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 517 |
 | 948 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.98 | 0 | 517 |
-| 948 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,366 | 89 |
+| 948 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,385 | 89 |
 | 948 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 517 |
 | 952 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 517 |
 | 953 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 414 |
