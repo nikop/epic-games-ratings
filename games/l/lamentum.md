@@ -6,7 +6,7 @@ Rating: 4.37 (Ranked 739)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The creature | 80.00% | ~254 |
-| Grau Hill | 77.00% | ~244 |
+| Grau Hill | 76.00% | ~242 |
 | A forgotten language | 69.00% | ~219 |
 | Lord Wesley | 34.00% | ~108 |
 | My dear Magda | 28.00% | ~89 |
@@ -25,7 +25,7 @@ Rating: 4.37 (Ranked 739)
 | Sacrifice | 3.00% | ~10 |
 | Lamentum | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 317 (Ranked 272)  
+Progressed: 318 (Ranked 272)  
 Completed: 8 (2.52%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 8 (2.52%) (Ranked 84)
 | 2023-08-08 | 315 | 8 |
 | 2023-08-13 | 316 | 8 |
 | 2023-09-04 | 317 | 8 |
+| 2023-09-05 | 318 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

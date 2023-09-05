@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,671 |
-| That's a Grand Army | 3.00% | ~11,753 |
-| That is mine! | 3.00% | ~11,753 |
-| Victorious! | 3.00% | ~11,753 |
-| Brothers in Arms | 2.00% | ~7,835 |
-| That's a Grand Navy | 2.00% | ~7,835 |
-| Seriously?! | 2.00% | ~7,835 |
+| Until death do us apart | 4.00% | ~15,672 |
+| That's a Grand Army | 3.00% | ~11,754 |
+| That is mine! | 3.00% | ~11,754 |
+| Victorious! | 3.00% | ~11,754 |
+| Brothers in Arms | 2.00% | ~7,836 |
+| That's a Grand Navy | 2.00% | ~7,836 |
+| Seriously?! | 2.00% | ~7,836 |
 | Cold War | 1.00% | ~3,918 |
 | Defender of the Faith | 1.00% | ~3,918 |
 | For the Glory | 1.00% | ~3,918 |
@@ -22,10 +22,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Princess is in this Castle | 0.90% | ~3,526 |
 | It's all about luck | 0.80% | ~3,134 |
 | Truly Divine Ruler | 0.80% | ~3,134 |
-| Blockader | 0.70% | ~2,742 |
-| Double the Love | 0.70% | ~2,742 |
-| Royal Authority | 0.70% | ~2,742 |
-| Total Control | 0.70% | ~2,742 |
+| Blockader | 0.70% | ~2,743 |
+| Double the Love | 0.70% | ~2,743 |
+| Royal Authority | 0.70% | ~2,743 |
+| Total Control | 0.70% | ~2,743 |
 | My armies are invincible! | 0.60% | ~2,351 |
 | Agressive Expander | 0.50% | ~1,959 |
 | City of Cities | 0.50% | ~1,959 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391,772 (Ranked 40)  
+Progressed: 391,812 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -499,10 +499,10 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-02 | 388,066 | 0 |
 | 2023-09-03 | 390,095 | 0 |
 | 2023-09-04 | 391,485 | 0 |
-| 2023-09-05 | 391,772 | 0 |
+| 2023-09-05 | 391,812 | 0 |
 ## Awards
 Max (Educational): 5,930  (Ranked 58)  
-Sum: 48,784 (Ranked 26)  
+Sum: 48,793 (Ranked 26)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -512,7 +512,7 @@ Diff (max vs sum): 32
 | This game has Challenging Combat | 5,608 |
 | This game has Diverse Characters | 5,598 |
 | This game is Relaxing | 5,450 |
-| This game has Competitive Players | 5,311 |
+| This game has Competitive Players | 5,320 |
 | This game has Amazing Storytelling | 4,999 |
 | This game has Amazing Characters | 4,609 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -750,4 +750,4 @@ Diff (max vs sum): 32
 | 2023-09-02 | 4.68 | - | 5,895 | 48,527 |
 | 2023-09-03 | 4.68 | - | 5,909 | 48,651 |
 | 2023-09-04 | 4.68 | - | 5,930 | 48,773 |
-| 2023-09-05 | 4.68 | - | 5,930 | 48,784 |
+| 2023-09-05 | 4.68 | - | 5,930 | 48,793 |

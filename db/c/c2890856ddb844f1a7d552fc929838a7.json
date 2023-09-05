@@ -54,7 +54,7 @@
   "Tags": [],
   "EOS_Progressed": 696,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1113,9 +1113,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 480
     },
     {
       "ID": "AC03",
@@ -1129,9 +1129,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 425
+      "UsersEstimate": 432
     },
     {
       "ID": "AC05",
@@ -1169,9 +1169,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 292
     },
     {
       "ID": "AC10",
@@ -1417,9 +1417,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 571
     },
     {
       "ID": "AC41",
@@ -1474,8 +1474,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-04T03:01:40.031195+00:00",
-  "LastChanged_Achievements": "2023-09-05T08:06:46.0490617+00:00",
+  "LastChanged_Achievements": "2023-09-05T09:08:02.644178+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-05T07:57:14.5176501+00:00",
-  "LastUpdate_Achievements": "2023-09-05T08:06:46.0490967+00:00"
+  "LastUpdate_Ratings": "2023-09-05T08:57:34.4396778+00:00",
+  "LastUpdate_Achievements": "2023-09-05T09:08:02.6442248+00:00"
 }

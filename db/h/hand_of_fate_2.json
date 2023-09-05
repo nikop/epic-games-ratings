@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661797,
+  "EOS_Progressed": 661798,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13945,6 +13945,11 @@
       "Time": "2023-09-05T08:03:42.4666861+00:00",
       "NumProgressed": 661797,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-05T09:04:17.0829835+00:00",
+      "NumProgressed": 661798,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -13956,7 +13961,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476494
+      "UsersEstimate": 476495
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -13964,7 +13969,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383842
+      "UsersEstimate": 383843
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -13972,7 +13977,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152213
+      "UsersEstimate": 152214
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -14092,7 +14097,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152213
+      "UsersEstimate": 152214
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -14108,7 +14113,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112505
+      "UsersEstimate": 112506
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -14220,7 +14225,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165449
+      "UsersEstimate": 165450
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -14339,15 +14344,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661797,
+      "Progressed": 661798,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-05T08:03:42.4666857+00:00",
+  "LastChanged_Achievements": "2023-09-05T09:04:17.0829831+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-05T07:58:08.7099617+00:00",
-  "LastUpdate_Achievements": "2023-09-05T08:03:42.466776+00:00"
+  "LastUpdate_Ratings": "2023-09-05T08:58:42.9545015+00:00",
+  "LastUpdate_Achievements": "2023-09-05T09:04:17.0831035+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2584,7 +2584,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29550,
+  "EOS_Progressed": 29551,
   "EOS_Completed": 243,
   "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 3,
@@ -17549,6 +17549,11 @@
       "Time": "2023-09-05T08:08:16.4344809+00:00",
       "NumProgressed": 29550,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-09-05T09:08:14.6348247+00:00",
+      "NumProgressed": 29551,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 60,
@@ -17560,7 +17565,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17139
+      "UsersEstimate": 17140
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -17688,7 +17693,7 @@
       "Name": "Storm And Stress",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_Completed",
@@ -17696,7 +17701,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9160
+      "UsersEstimate": 9161
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -17768,7 +17773,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12706
+      "UsersEstimate": 12707
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -17832,7 +17837,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5614
+      "UsersEstimate": 5615
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -17864,7 +17869,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6796
+      "UsersEstimate": 6797
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -17880,7 +17885,7 @@
       "Name": "I love the smell of Catapult fire!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_Completed",
@@ -17896,7 +17901,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4432
+      "UsersEstimate": 4433
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -17920,7 +17925,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9160
+      "UsersEstimate": 9161
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -17992,7 +17997,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5614
+      "UsersEstimate": 5615
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -18000,7 +18005,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -18039,15 +18044,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29550,
+      "Progressed": 29551,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-04T19:00:53.7599775+00:00",
-  "LastChanged_Achievements": "2023-09-05T08:08:16.4344805+00:00",
+  "LastChanged_Achievements": "2023-09-05T09:08:14.6348242+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-05T07:59:41.8314538+00:00",
-  "LastUpdate_Achievements": "2023-09-05T08:08:16.4345901+00:00"
+  "LastUpdate_Ratings": "2023-09-05T09:00:40.7940408+00:00",
+  "LastUpdate_Achievements": "2023-09-05T09:08:14.6349538+00:00"
 }

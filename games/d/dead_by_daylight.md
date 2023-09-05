@@ -6,13 +6,13 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 2.00% | ~17,002 |
-| It wakes | 2.00% | ~17,002 |
-| Not half bad | 2.00% | ~17,002 |
-| Apt Survivor | 2.00% | ~17,002 |
-| Skillful | 2.00% | ~17,002 |
-| Make Some Noise | 2.00% | ~17,002 |
-| MU/TH/UR Dearest | 2.00% | ~17,002 |
+| Zealous | 2.00% | ~17,003 |
+| It wakes | 2.00% | ~17,003 |
+| Not half bad | 2.00% | ~17,003 |
+| Apt Survivor | 2.00% | ~17,003 |
+| Skillful | 2.00% | ~17,003 |
+| Make Some Noise | 2.00% | ~17,003 |
+| MU/TH/UR Dearest | 2.00% | ~17,003 |
 | The Grand Sacrifice | 1.00% | ~8,501 |
 | Backdoor Escape | 1.00% | ~8,501 |
 | No one left behind | 1.00% | ~8,501 |
@@ -41,35 +41,35 @@ Number of Ratings: 70,340  (23.09.2022)
 | Second Act | 0.70% | ~5,951 |
 | Vulture | 0.60% | ~5,101 |
 | III | 0.60% | ~5,101 |
-| Blood on your hands | 0.50% | ~4,250 |
-| Cherish your Life | 0.50% | ~4,250 |
-| Unforgettable Getaway | 0.50% | ~4,250 |
-| First to the Punch | 0.50% | ~4,250 |
-| Every Last Drop | 0.50% | ~4,250 |
-| With Scars to Show | 0.50% | ~4,250 |
-| Flight to Freedom | 0.50% | ~4,250 |
-| Lifting The Fog | 0.50% | ~4,250 |
-| One More Step | 0.50% | ~4,250 |
-| Escape Artist | 0.40% | ~3,400 |
-| Made it out alive! | 0.40% | ~3,400 |
-| Gifts for the Fog | 0.40% | ~3,400 |
-| III-50 | 0.40% | ~3,400 |
-| Shock Therapy | 0.40% | ~3,400 |
-| All Aboard | 0.40% | ~3,400 |
-| Item of Obsession | 0.40% | ~3,400 |
-| House of Pain | 0.40% | ~3,400 |
-| Holiday Get-Together | 0.40% | ~3,400 |
-| Near-Death Experience | 0.40% | ~3,400 |
-| Campbell's Chapel Legacy | 0.40% | ~3,400 |
-| Cutting Out | 0.40% | ~3,400 |
-| Outrun Evil | 0.40% | ~3,400 |
-| Operation: Survival | 0.40% | ~3,400 |
-| Old West Oasis | 0.40% | ~3,400 |
-| Classy Act | 0.40% | ~3,400 |
-| Raccoon City Recruit | 0.40% | ~3,400 |
-| A Fast Death | 0.40% | ~3,400 |
-| Chorus of Chaos | 0.40% | ~3,400 |
-| Complete the Evolution | 0.40% | ~3,400 |
+| Blood on your hands | 0.50% | ~4,251 |
+| III-50 | 0.50% | ~4,251 |
+| Item of Obsession | 0.50% | ~4,251 |
+| Cherish your Life | 0.50% | ~4,251 |
+| Unforgettable Getaway | 0.50% | ~4,251 |
+| First to the Punch | 0.50% | ~4,251 |
+| Every Last Drop | 0.50% | ~4,251 |
+| With Scars to Show | 0.50% | ~4,251 |
+| Flight to Freedom | 0.50% | ~4,251 |
+| Lifting The Fog | 0.50% | ~4,251 |
+| One More Step | 0.50% | ~4,251 |
+| Escape Artist | 0.40% | ~3,401 |
+| Made it out alive! | 0.40% | ~3,401 |
+| Gifts for the Fog | 0.40% | ~3,401 |
+| Shock Therapy | 0.40% | ~3,401 |
+| All Aboard | 0.40% | ~3,401 |
+| House of Pain | 0.40% | ~3,401 |
+| Holiday Get-Together | 0.40% | ~3,401 |
+| Near-Death Experience | 0.40% | ~3,401 |
+| Campbell's Chapel Legacy | 0.40% | ~3,401 |
+| Cutting Out | 0.40% | ~3,401 |
+| Outrun Evil | 0.40% | ~3,401 |
+| Operation: Survival | 0.40% | ~3,401 |
+| Old West Oasis | 0.40% | ~3,401 |
+| Classy Act | 0.40% | ~3,401 |
+| Raccoon City Recruit | 0.40% | ~3,401 |
+| A Fast Death | 0.40% | ~3,401 |
+| Chorus of Chaos | 0.40% | ~3,401 |
+| Complete the Evolution | 0.40% | ~3,401 |
 | A bite for the Entity | 0.30% | ~2,550 |
 | Blood on your face | 0.30% | ~2,550 |
 | Jump Scares | 0.30% | ~2,550 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.10% | ~850 |
 | Adept Ripley | 0.10% | ~850 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 850,096 (Ranked 15)  
+Progressed: 850,147 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,7 +374,7 @@ Completed: 48 (0.01%) (Ranked 257)
 | 2023-09-02 | 841,459 | 48 |
 | 2023-09-03 | 845,727 | 48 |
 | 2023-09-04 | 849,226 | 48 |
-| 2023-09-05 | 850,096 | 48 |
+| 2023-09-05 | 850,147 | 48 |
 ## Awards
 Max (Diverse Characters): 31,936  (Ranked 15)  
 Sum: 250,241 (Ranked 11)  
