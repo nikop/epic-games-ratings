@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewPlayers": 17,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4224,9 +4224,9 @@
       "Count": 336
     }
   ],
-  "EOS_Progressed": 673687,
+  "EOS_Progressed": 673716,
   "EOS_Completed": 2114,
-  "EOS_NewPlayers": 5570,
+  "EOS_NewPlayers": 5551,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19569,6 +19569,11 @@
       "Time": "2023-09-05T00:06:32.574261+00:00",
       "NumProgressed": 673687,
       "NumCompleted": 2114
+    },
+    {
+      "Time": "2023-09-05T01:45:40.8986233+00:00",
+      "NumProgressed": 673716,
+      "NumCompleted": 2114
     }
   ],
   "TotalAchievements": 45,
@@ -19588,7 +19593,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3369
     },
     {
       "ID": "ach_ammo_ran",
@@ -19636,7 +19641,7 @@
       "Name": "Bookworm",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ach_break_a_leg",
@@ -19668,7 +19673,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ach_doom_buddies",
@@ -19692,7 +19697,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ach_finisher",
@@ -19708,7 +19713,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ach_good_eyesight",
@@ -19786,9 +19791,9 @@
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4716
+      "UsersEstimate": 5390
     },
     {
       "ID": "ach_legendary",
@@ -19812,7 +19817,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ach_mind_over_monster",
@@ -19820,7 +19825,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3369
     },
     {
       "ID": "ach_revival_tour",
@@ -19836,7 +19841,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3369
     },
     {
       "ID": "ach_secrets_of_la",
@@ -19890,9 +19895,9 @@
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4716
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -19900,7 +19905,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -19939,7 +19944,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673687,
+      "Progressed": 673716,
       "Completed": 2114
     }
   ],
@@ -19947,8 +19952,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-04T19:58:54.2860158+00:00",
-  "LastChanged_Achievements": "2023-09-05T00:06:32.5742605+00:00",
+  "LastChanged_Achievements": "2023-09-05T01:45:40.8986222+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-04T23:59:22.1046846+00:00",
-  "LastUpdate_Achievements": "2023-09-05T00:06:32.5743885+00:00"
+  "LastUpdate_Ratings": "2023-09-05T01:38:56.5079535+00:00",
+  "LastUpdate_Achievements": "2023-09-05T01:45:40.8987566+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 459,
+  "EOS_Progressed": 460,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.18,
+  "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1476,6 +1476,11 @@
       "Time": "2023-09-05T00:05:58.9308626+00:00",
       "NumProgressed": 459,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-05T01:45:09.9132007+00:00",
+      "NumProgressed": 460,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1520,7 +1525,7 @@
       "Name": "Red Skeleton",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "YellowSkeleton",
@@ -1528,21 +1533,21 @@
       "Name": "Yellow Skeleton",
       "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 459,
+      "Progressed": 460,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-09-05T00:05:58.930862+00:00",
+  "LastChanged_Achievements": "2023-09-05T01:45:09.9132002+00:00",
   "LastUpdate_AppInfo": "2023-08-31T17:57:08.8456263+00:00",
-  "LastUpdate_Ratings": "2023-09-04T23:57:27.4748392+00:00",
-  "LastUpdate_Achievements": "2023-09-05T00:05:58.9308782+00:00"
+  "LastUpdate_Ratings": "2023-09-05T01:37:12.3206135+00:00",
+  "LastUpdate_Achievements": "2023-09-05T01:45:09.9132247+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,079 |
-| Uncharted Territory | 89.00% | ~209,594 |
-| Getting A Glimpse | 73.00% | ~171,914 |
-| A Quick Escape | 65.00% | ~153,074 |
-| Explorer | 62.00% | ~146,009 |
-| Defeat The Dark | 61.00% | ~143,654 |
-| An Offering | 61.00% | ~143,654 |
-| Colorful Corpse | 58.00% | ~136,589 |
-| That Was Quick | 57.00% | ~134,234 |
-| A Donation | 57.00% | ~134,234 |
-| Goodbye, Frog Friend | 54.00% | ~127,169 |
-| Heavy Hitter | 53.00% | ~124,814 |
+| First Steps | 96.00% | ~226,080 |
+| Uncharted Territory | 89.00% | ~209,595 |
+| Getting A Glimpse | 73.00% | ~171,915 |
+| A Quick Escape | 65.00% | ~153,075 |
+| Explorer | 62.00% | ~146,010 |
+| Defeat The Dark | 61.00% | ~143,655 |
+| An Offering | 61.00% | ~143,655 |
+| Colorful Corpse | 58.00% | ~136,590 |
+| That Was Quick | 57.00% | ~134,235 |
+| A Donation | 57.00% | ~134,235 |
+| Goodbye, Frog Friend | 54.00% | ~127,170 |
+| Heavy Hitter | 53.00% | ~124,815 |
 | Heartless | 46.00% | ~108,330 |
 | Spine Breaker | 46.00% | ~108,330 |
 | Deflection | 45.00% | ~105,975 |
@@ -115,9 +115,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Tunnel Vision | 1.00% | ~2,355 |
 | Martial Master | 1.00% | ~2,355 |
 | You Call That A Knife? | 1.00% | ~2,355 |
-| Disposal | 0.90% | ~2,119 |
-| Master of Strategy | 0.90% | ~2,119 |
-| No Swapsies | 0.90% | ~2,119 |
+| Disposal | 0.90% | ~2,120 |
+| Master of Strategy | 0.90% | ~2,120 |
+| No Swapsies | 0.90% | ~2,120 |
 | Blizzard | 0.80% | ~1,884 |
 | Need An Antidote? | 0.80% | ~1,884 |
 | Ignoring Midgame | 0.70% | ~1,648 |
@@ -125,11 +125,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Only The Best | 0.60% | ~1,413 |
 | Mastermind | 0.60% | ~1,413 |
 | Nudie Run | 0.60% | ~1,413 |
-| Never Too Many Hats | 0.50% | ~1,177 |
-| Down Under | 0.50% | ~1,177 |
+| Never Too Many Hats | 0.50% | ~1,178 |
+| Down Under | 0.50% | ~1,178 |
 | Near Death Experience | 0.30% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,499 (Ranked 51)  
+Progressed: 235,500 (Ranked 51)  
 Completed: 265 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 265 (0.11%) (Ranked 216)
 | 2023-09-02 | 235,372 | 264 |
 | 2023-09-03 | 235,436 | 264 |
 | 2023-09-04 | 235,498 | 265 |
-| 2023-09-05 | 235,499 | 265 |
+| 2023-09-05 | 235,500 | 265 |
 ## Awards
 Max (Quickly Understood Controls): 1,488  (Ranked 122)  
 Sum: 11,546 (Ranked 79)  

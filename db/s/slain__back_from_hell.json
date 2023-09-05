@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 35925,
+  "EOS_Progressed": 35929,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 521,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15382,6 +15382,11 @@
       "Time": "2023-09-05T00:05:58.5279263+00:00",
       "NumProgressed": 35925,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-05T01:45:09.548259+00:00",
+      "NumProgressed": 35929,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -15401,7 +15406,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7185
+      "UsersEstimate": 7186
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -15433,7 +15438,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -15481,7 +15486,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -15497,7 +15502,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -15505,7 +15510,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -15561,7 +15566,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -15569,7 +15574,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -15577,7 +15582,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -15624,7 +15629,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 35925,
+      "Progressed": 35929,
       "Completed": 23
     }
   ],
@@ -15632,8 +15637,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-05T00:05:58.5279258+00:00",
+  "LastChanged_Achievements": "2023-09-05T01:45:09.5482582+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
-  "LastUpdate_Ratings": "2023-09-05T00:01:19.9564463+00:00",
-  "LastUpdate_Achievements": "2023-09-05T00:05:58.5280166+00:00"
+  "LastUpdate_Ratings": "2023-09-05T01:40:38.0074322+00:00",
+  "LastUpdate_Achievements": "2023-09-05T01:45:09.5484191+00:00"
 }

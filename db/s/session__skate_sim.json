@@ -4507,9 +4507,9 @@
       "ID": "ACH_RENAISSANCE-MAN",
       "SetID": "72olkc5",
       "Name": "Renaissance man",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
@@ -4659,8 +4659,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-03T09:59:37.2493156+00:00",
-  "LastChanged_Achievements": "2023-09-05T00:08:32.6193113+00:00",
+  "LastChanged_Achievements": "2023-09-05T01:47:31.5516254+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:37.4705758+00:00",
-  "LastUpdate_Ratings": "2023-09-05T00:00:00.2074459+00:00",
-  "LastUpdate_Achievements": "2023-09-05T00:08:32.6193593+00:00"
+  "LastUpdate_Ratings": "2023-09-05T01:39:27.0507843+00:00",
+  "LastUpdate_Achievements": "2023-09-05T01:47:31.5516933+00:00"
 }

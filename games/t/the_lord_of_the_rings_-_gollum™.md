@@ -14,7 +14,7 @@
 | The Breeder | 24.00% | ~122 |
 | The Veteran | 19.00% | ~97 |
 | The Traitor | 15.00% | ~76 |
-| The Spider | 14.00% | ~71 |
+| The Spider | 15.00% | ~76 |
 | Good as Fish | 12.00% | ~61 |
 | Her Eyes | 12.00% | ~61 |
 | Gollum/Sméagol | 10.00% | ~51 |

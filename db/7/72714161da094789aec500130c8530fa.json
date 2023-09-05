@@ -430,9 +430,9 @@
       "ID": "_magnet",
       "SetID": "2d5739o",
       "Name": "Magnet",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "_minigun",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-09-05T00:05:35.6641639+00:00",
+  "LastChanged_Achievements": "2023-09-05T01:44:48.3856975+00:00",
   "LastUpdate_AppInfo": "2023-08-30T14:57:10.8752885+00:00",
-  "LastUpdate_Ratings": "2023-09-05T00:01:51.4178953+00:00",
-  "LastUpdate_Achievements": "2023-09-05T00:05:35.6641931+00:00"
+  "LastUpdate_Ratings": "2023-09-05T01:41:02.1859241+00:00",
+  "LastUpdate_Achievements": "2023-09-05T01:44:48.3857365+00:00"
 }

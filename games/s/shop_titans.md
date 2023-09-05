@@ -27,13 +27,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.70% | ~950 |
 | Where it Hurts | 0.70% | ~950 |
 | Dungeon Imports | 0.70% | ~950 |
+| Ascended | 0.60% | ~814 |
 | Blank Page Syndrome | 0.60% | ~814 |
 | Gild-Gotten Goods | 0.60% | ~814 |
 | Accomplished Merchant | 0.60% | ~814 |
 | Did we pack lunch? | 0.60% | ~814 |
 | Arcane Industries | 0.60% | ~814 |
 | On the Path to Greatness | 0.50% | ~678 |
-| Ascended | 0.50% | ~678 |
 | Research & Development | 0.50% | ~678 |
 | Vanity, Verily | 0.50% | ~678 |
 | Fated Encounters | 0.50% | ~678 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,666 (Ranked 67)  
+Progressed: 135,669 (Ranked 67)  
 Completed: 143 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 143 (0.11%) (Ranked 216)
 | 2023-09-02 | 135,551 | 140 |
 | 2023-09-03 | 135,618 | 142 |
 | 2023-09-04 | 135,661 | 142 |
-| 2023-09-05 | 135,666 | 143 |
+| 2023-09-05 | 135,669 | 143 |
 ## Awards
 Max (Great for Beginners): 4,721  (Ranked 70)  
 Sum: 27,173 (Ranked 48)  

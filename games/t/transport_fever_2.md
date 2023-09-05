@@ -13,7 +13,7 @@ Number of Ratings: 180  (23.09.2022)
 | First passenger on board | 67.00% | ~1,091 |
 | First passenger waiting | 67.00% | ~1,091 |
 | First bus arrived | 66.00% | ~1,075 |
-| First train station | 63.00% | ~1,026 |
+| First train station | 64.00% | ~1,043 |
 | First steam train arrived | 60.00% | ~977 |
 | First industry upgraded | 56.00% | ~912 |
 | Transport millionaire | 55.00% | ~896 |
@@ -55,9 +55,9 @@ Number of Ratings: 180  (23.09.2022)
 | Cannot get enough | 4.00% | ~65 |
 | Transport corporation | 4.00% | ~65 |
 | Transport tycoon (Hard mode) | 3.00% | ~49 |
+| Industrialist | 3.00% | ~49 |
 | No country for old trains | 2.00% | ~33 |
 | Charles Alton Ellis | 2.00% | ~33 |
-| Industrialist | 2.00% | ~33 |
 | Metropolis | 2.00% | ~33 |
 | Speed of light | 2.00% | ~33 |
 | Campaign tycoon | 1.00% | ~16 |

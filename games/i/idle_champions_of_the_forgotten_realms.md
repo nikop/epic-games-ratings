@@ -10,6 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.30% | ~681 |
 | The Cursed Farmer | 0.30% | ~681 |
 | The Ring of Regeneration | 0.20% | ~454 |
+| Seeking Allies | 0.20% | ~454 |
 | The Mad Wizard | 0.20% | ~454 |
 | Legends and Lore | 0.20% | ~387 |
 | Maddening | 0.10% | ~227 |
@@ -232,7 +233,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spirit of the Trickster Gods | 0.10% | ~193 |
 | Flies on the Wall | 0.10% | ~227 |
 | The Killer Mists | 0.10% | ~227 |
-| Seeking Allies | 0.10% | ~227 |
 | Class Vacation | 0.10% | ~227 |
 | A Nod from Strahd | 0.10% | ~193 |
 | Backtracking Through Barovia | 0.10% | ~227 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~193 |
 | All's Well That Ends Well | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,097 (Ranked 54)  
-Completed: 2,250 (0.99%) (Ranked 124)  
+Progressed: 227,116 (Ranked 54)  
+Completed: 2,250 (0.99%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -665,7 +665,7 @@ Completed: 2,250 (0.99%) (Ranked 124)
 | 2023-09-02 | 226,722 | 2,245 |
 | 2023-09-03 | 226,879 | 2,246 |
 | 2023-09-04 | 227,081 | 2,250 |
-| 2023-09-05 | 227,097 | 2,250 |
+| 2023-09-05 | 227,116 | 2,250 |
 ## Awards
 Max (Diverse Characters): 5,227  (Ranked 67)  
 Sum: 31,396 (Ranked 38)  

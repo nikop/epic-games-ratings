@@ -34,12 +34,12 @@ Number of Ratings: 111  (23.09.2022)
 | Laid back | 5.00% | ~139 |
 | Lines for days | 5.00% | ~139 |
 | NAHELL! | 5.00% | ~139 |
+| Renaissance man | 5.00% | ~139 |
 | Trick shot marksman | 5.00% | ~139 |
 | Cops called! | 4.00% | ~111 |
 | G.O.A.T. status | 4.00% | ~111 |
 | Manny Destroys All | 4.00% | ~111 |
 | Prince of Philly | 4.00% | ~111 |
-| Renaissance man | 4.00% | ~111 |
 | Tank commander | 4.00% | ~111 |
 | We get it, you're good | 4.00% | ~111 |
 | Hoarder | 3.00% | ~83 |

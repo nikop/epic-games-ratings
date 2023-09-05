@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -1309,9 +1309,9 @@
       "ID": "achSave",
       "SetID": "72gjli4",
       "Name": "King of survival \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "achSecretos",
@@ -1406,8 +1406,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-05T00:06:23.5120282+00:00",
+  "LastChanged_Achievements": "2023-09-05T01:45:32.6679108+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:28.6254913+00:00",
-  "LastUpdate_Ratings": "2023-09-05T00:01:38.3997909+00:00",
-  "LastUpdate_Achievements": "2023-09-05T00:06:23.5120685+00:00"
+  "LastUpdate_Ratings": "2023-09-05T01:40:51.3578972+00:00",
+  "LastUpdate_Achievements": "2023-09-05T01:45:32.6679639+00:00"
 }

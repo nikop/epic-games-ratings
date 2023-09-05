@@ -8,12 +8,12 @@ Rating: 4.56 (Ranked 473)
 | Pushing a pull door | 96.00% | ~649 |
 | Fetch Quest Complete | 91.00% | ~615 |
 | I can't wait! | 83.00% | ~561 |
-| Swish | 56.00% | ~379 |
+| Swish | 57.00% | ~385 |
 | Clean up on Aisle 9 | 40.00% | ~270 |
 | Machine Maxed | 30.00% | ~203 |
 | Bug Fixer | 26.00% | ~176 |
+| Existential dread | 26.00% | ~176 |
 | Gerald of Riviera | 26.00% | ~176 |
-| Existential dread | 25.00% | ~169 |
 | Goal | 22.00% | ~149 |
 | I ran the numbers | 15.00% | ~101 |
 | Taking the plunge | 13.00% | ~88 |

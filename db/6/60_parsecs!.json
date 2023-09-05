@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 727,
+  "EOS_Progressed": 728,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -758,6 +758,11 @@
       "Time": "2023-09-02T18:07:16.0035283+00:00",
       "NumProgressed": 727,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T01:46:33.323697+00:00",
+      "NumProgressed": 728,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -841,7 +846,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "Achievement_DustToDust",
@@ -905,7 +910,7 @@
       "Name": "For Science!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Achievement_Friendzone",
@@ -945,7 +950,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "Achievement_Improvinator",
@@ -969,7 +974,7 @@
       "Name": "KIA",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Achievement_LastSupper",
@@ -1001,7 +1006,7 @@
       "Name": "Mutiny in making",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1017,7 +1022,7 @@
       "Name": "No Man Left Behind",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Achievement_NonFiction",
@@ -1039,7 +1044,7 @@
       "ID": "Achievement_SmallStep",
       "SetID": "c01p6e5",
       "Name": "Small Step",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 90,
       "UsersEstimate": 4
     },
@@ -1065,7 +1070,7 @@
       "Name": "Space Engineer",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1105,7 +1110,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "Achievement_Traitor",
@@ -1113,14 +1118,14 @@
       "Name": "Et tu, Astrocitizen?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     }
   ],
   "AchievementSets": [
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 727,
+      "Progressed": 728,
       "Completed": 1
     }
   ],
@@ -1128,8 +1133,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-09-05T00:07:29.6829661+00:00",
+  "LastChanged_Achievements": "2023-09-05T01:46:33.3236963+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:14.6436521+00:00",
-  "LastUpdate_Ratings": "2023-09-04T23:57:06.7876438+00:00",
-  "LastUpdate_Achievements": "2023-09-05T00:07:29.6829969+00:00"
+  "LastUpdate_Ratings": "2023-09-05T01:36:53.6058227+00:00",
+  "LastUpdate_Achievements": "2023-09-05T01:46:33.3237515+00:00"
 }

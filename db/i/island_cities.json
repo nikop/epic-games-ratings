@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 18.72,
+  "EOS_Completed_Percentage": 18.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2298,6 +2298,11 @@
       "Time": "2023-09-03T13:05:44.8289837+00:00",
       "NumProgressed": 470,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-09-05T01:43:18.377366+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -2309,7 +2314,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "LEVEL_002",
@@ -2317,7 +2322,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "LEVEL_003",
@@ -2325,7 +2330,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "LEVEL_004",
@@ -2341,7 +2346,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "LEVEL_006",
@@ -2421,7 +2426,7 @@
       "Name": "Monumental tribute",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_016",
@@ -2459,9 +2464,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_021",
@@ -2484,7 +2489,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 88
     }
   ],
@@ -2492,8 +2497,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-05T00:03:47.1133172+00:00",
+  "LastChanged_Achievements": "2023-09-05T01:43:18.3773655+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:24.6257817+00:00",
-  "LastUpdate_Ratings": "2023-09-04T23:58:44.0635429+00:00",
-  "LastUpdate_Achievements": "2023-09-05T00:03:47.1133421+00:00"
+  "LastUpdate_Ratings": "2023-09-05T01:38:21.5436187+00:00",
+  "LastUpdate_Achievements": "2023-09-05T01:43:18.3774038+00:00"
 }

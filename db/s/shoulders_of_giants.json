@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2228,
+  "EOS_Progressed": 2229,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1567,6 +1567,11 @@
       "Time": "2023-09-04T01:48:52.2082333+00:00",
       "NumProgressed": 2228,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-05T01:46:47.38824+00:00",
+      "NumProgressed": 2229,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1586,7 +1591,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "complete_act_one",
@@ -1618,7 +1623,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "deal_damage",
@@ -1626,7 +1631,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "defeat_enemies",
@@ -1650,7 +1655,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "piercing_beam",
@@ -1666,7 +1671,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "reach_high_heat",
@@ -1682,7 +1687,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1698,7 +1703,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "stick_decoy",
@@ -1729,7 +1734,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2228,
+      "Progressed": 2229,
       "Completed": 9
     }
   ],
@@ -1737,8 +1742,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-09-05T00:07:45.1341406+00:00",
+  "LastChanged_Achievements": "2023-09-05T01:46:47.3882394+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:53.7289225+00:00",
-  "LastUpdate_Ratings": "2023-09-05T00:01:50.099632+00:00",
-  "LastUpdate_Achievements": "2023-09-05T00:07:45.1341593+00:00"
+  "LastUpdate_Ratings": "2023-09-05T01:41:01.0417199+00:00",
+  "LastUpdate_Achievements": "2023-09-05T01:46:47.3882626+00:00"
 }
