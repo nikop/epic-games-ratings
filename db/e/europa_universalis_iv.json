@@ -6,7 +6,7 @@
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 10,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -9058,10 +9058,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 48793,
       "NumberOfAwardsMax": 5930
+    },
+    {
+      "Time": "2023-09-05T10:58:06.3861643+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 48806,
+      "NumberOfAwardsMax": 5930
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48793,
+  "NumberOfAwards": 48806,
   "NumberOfAwardsMax": 5930,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9069,7 +9075,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5657
+      "Count": 5670
     },
     {
       "Text": "This game has Challenging Combat",
@@ -27416,9 +27422,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-05T08:58:14.2033003+00:00",
+  "LastChanged": "2023-09-05T10:58:06.386164+00:00",
   "LastChanged_Achievements": "2023-09-05T10:08:09.1474226+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:16.2286567+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:58:05.5573098+00:00",
+  "LastUpdate_Ratings": "2023-09-05T10:58:06.386165+00:00",
   "LastUpdate_Achievements": "2023-09-05T10:08:09.1486404+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 1.00% | ~6,738 |
-| Hotel California | 1.00% | ~6,738 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,738 |
-| Welcome To Hell-A | 1.00% | ~6,738 |
+| Break A Leg | 1.00% | ~6,739 |
+| Hotel California | 1.00% | ~6,739 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,739 |
+| Welcome To Hell-A | 1.00% | ~6,739 |
 | Dr. Reed, I Presume? | 0.90% | ~6,065 |
 | Git Gutte! | 0.90% | ~6,065 |
 | Coup de Grâce | 0.90% | ~6,065 |
@@ -35,9 +35,9 @@ Rating: 4.54 (Ranked 505)
 | Down with the Sickness | 0.50% | ~3,369 |
 | Max Headroom | 0.50% | ~3,369 |
 | Go, Bobcats! | 0.40% | ~2,695 |
+| Rising Star | 0.40% | ~2,695 |
 | Smorgasbord | 0.30% | ~2,022 |
 | Jumbo Keyring | 0.30% | ~2,022 |
-| Rising Star | 0.30% | ~2,022 |
 | Make it So | 0.20% | ~1,348 |
 | LA Influential | 0.20% | ~1,348 |
 | On Safari | 0.20% | ~1,348 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,848 (Ranked 22)  
-Completed: 2,115 (0.31%) (Ranked 177)  
+Progressed: 673,872 (Ranked 22)  
+Completed: 2,115 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,7 +189,7 @@ Completed: 2,115 (0.31%) (Ranked 177)
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
-| 2023-09-05 | 673,848 | 2,115 |
+| 2023-09-05 | 673,872 | 2,115 |
 ## Awards
 Max (Great Boss Battles): 5,902  (Ranked 59)  
 Sum: 8,707 (Ranked 95)  

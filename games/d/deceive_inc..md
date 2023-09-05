@@ -5,22 +5,22 @@ Rating: 4.58 (Ranked 432)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,182 |
-| Mainframe Hacker | 23.00% | ~4,110 |
-| The Spy who eliminated me | 23.00% | ~4,110 |
-| Tomorrow Never Dyes | 22.00% | ~3,931 |
-| Never Say Loser Again | 19.00% | ~3,395 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,183 |
+| Mainframe Hacker | 23.00% | ~4,111 |
+| The Spy who eliminated me | 23.00% | ~4,111 |
+| Tomorrow Never Dyes | 22.00% | ~3,932 |
+| Never Say Loser Again | 19.00% | ~3,396 |
 | From the Vault with Love | 18.00% | ~3,217 |
 | Tailor-Made | 18.00% | ~3,217 |
 | For your Eyes only | 18.00% | ~3,217 |
 | Assistant Accountant | 17.00% | ~3,038 |
-| You Only Live Twice | 16.00% | ~2,859 |
-| Fully Decked Out | 16.00% | ~2,859 |
+| You Only Live Twice | 16.00% | ~2,860 |
+| Fully Decked Out | 16.00% | ~2,860 |
 | A view to Win | 13.00% | ~2,323 |
-| The Living Portrait | 12.00% | ~2,144 |
-| Private Collection | 12.00% | ~2,144 |
-| Hostile Takeover | 12.00% | ~2,144 |
-| Smells Like Trouble | 12.00% | ~2,144 |
+| The Living Portrait | 12.00% | ~2,145 |
+| Private Collection | 12.00% | ~2,145 |
+| Hostile Takeover | 12.00% | ~2,145 |
+| Smells Like Trouble | 12.00% | ~2,145 |
 | Dr. No Kill | 11.00% | ~1,966 |
 | My Motto, My Creed | 11.00% | ~1,966 |
 | Killer Looks | 11.00% | ~1,966 |
@@ -42,8 +42,8 @@ Rating: 4.58 (Ranked 432)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,870 (Ranked 112)  
-Completed: 1 (0.01%) (Ranked 257)  
+Progressed: 17,872 (Ranked 112)  
+Completed: 1 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,7 +180,7 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-09-02 | 17,829 | 1 |
 | 2023-09-03 | 17,848 | 1 |
 | 2023-09-04 | 17,867 | 1 |
-| 2023-09-05 | 17,870 | 1 |
+| 2023-09-05 | 17,872 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

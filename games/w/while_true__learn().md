@@ -6,26 +6,26 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~560,625 |
-| Error: Stack Overflow | 66.00% | ~397,863 |
-| We need more gold | 61.00% | ~367,722 |
-| The dawn of civilization | 53.00% | ~319,496 |
-| More FPS for the FPS god! | 49.00% | ~295,383 |
-| Beauty and harmony | 48.00% | ~289,355 |
-| One more! | 44.00% | ~265,242 |
+| First.. Bit? | 93.00% | ~560,628 |
+| Error: Stack Overflow | 66.00% | ~397,865 |
+| We need more gold | 61.00% | ~367,724 |
+| The dawn of civilization | 53.00% | ~319,498 |
+| More FPS for the FPS god! | 49.00% | ~295,385 |
+| Beauty and harmony | 48.00% | ~289,356 |
+| One more! | 44.00% | ~265,243 |
 | Overmind | 24.00% | ~144,678 |
-| RNG is my best friend now | 18.00% | ~108,508 |
+| RNG is my best friend now | 18.00% | ~108,509 |
 | Cosplay | 13.00% | ~78,367 |
 | Evolution in progress... | 13.00% | ~78,367 |
 | Step by step | 8.00% | ~48,226 |
 | README reader | 3.00% | ~18,085 |
 | Data scientist | 3.00% | ~18,085 |
 | One small step for a man... | 3.00% | ~18,085 |
-| To see it all, to learn it all | 2.00% | ~12,056 |
-| Evolution complete | 2.00% | ~12,056 |
-| Best deal on the market | 2.00% | ~12,056 |
-| Is this Skynet? | 2.00% | ~12,056 |
-| Cybergeek 2047 | 2.00% | ~12,056 |
+| To see it all, to learn it all | 2.00% | ~12,057 |
+| Evolution complete | 2.00% | ~12,057 |
+| Best deal on the market | 2.00% | ~12,057 |
+| Is this Skynet? | 2.00% | ~12,057 |
+| Cybergeek 2047 | 2.00% | ~12,057 |
 | Ping | 1.00% | ~6,028 |
 | Magna cum laude | 1.00% | ~6,028 |
 | The hoarder | 0.90% | ~5,425 |
@@ -35,8 +35,8 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,808 |
 | The Scrooge | 0.10% | ~603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 602,823 (Ranked 28)  
-Completed: 523 (0.09%) (Ranked 222)  
+Progressed: 602,826 (Ranked 28)  
+Completed: 523 (0.09%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,7 +173,7 @@ Completed: 523 (0.09%) (Ranked 222)
 | 2023-09-02 | 602,564 | 523 |
 | 2023-09-03 | 602,687 | 523 |
 | 2023-09-04 | 602,787 | 523 |
-| 2023-09-05 | 602,823 | 523 |
+| 2023-09-05 | 602,826 | 523 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 309)  
 Sum: 134 (Ranked 404)  

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 57,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 32,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -792,9 +792,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 221385,
+  "EOS_Progressed": 221396,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2574,
+  "EOS_NewPlayers": 2566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9632,6 +9632,11 @@
       "Time": "2023-09-05T10:05:14.6038092+00:00",
       "NumProgressed": 221385,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-05T11:05:23.5200119+00:00",
+      "NumProgressed": 221396,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9667,7 +9672,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -10081,9 +10086,9 @@
       "ID": "ElfEpic",
       "SetID": "50chcgj",
       "Name": "Look but don\u0027t touch",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1771
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -10091,7 +10096,7 @@
       "Name": "Sowwy!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 61988
+      "UsersEstimate": 61991
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10139,7 +10144,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8855
+      "UsersEstimate": 8856
     },
     {
       "ID": "FollowBraztok",
@@ -10267,7 +10272,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "Rogue30Backstab",
@@ -10275,7 +10280,7 @@
       "Name": "I am the night",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1992
+      "UsersEstimate": 1993
     },
     {
       "ID": "RogueEpic",
@@ -10346,21 +10351,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 221385,
+      "Progressed": 221396,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 221385,
+      "Progressed": 221396,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-04T19:58:47.391229+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:05:14.6038085+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:05:23.5200114+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:59:05.470097+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:05:14.6039664+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:59:03.9950627+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:05:23.5201667+00:00"
 }

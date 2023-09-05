@@ -6,7 +6,7 @@
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 17,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -4236,9 +4236,9 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 673848,
+  "EOS_Progressed": 673872,
   "EOS_Completed": 2115,
-  "EOS_NewPlayers": 5507,
+  "EOS_NewPlayers": 5511,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19626,6 +19626,11 @@
       "Time": "2023-09-05T10:05:37.43988+00:00",
       "NumProgressed": 673848,
       "NumCompleted": 2115
+    },
+    {
+      "Time": "2023-09-05T11:05:46.1129426+00:00",
+      "NumProgressed": 673872,
+      "NumCompleted": 2115
     }
   ],
   "TotalAchievements": 45,
@@ -19701,7 +19706,7 @@
       "Name": "Break A Leg",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "ach_contender",
@@ -19797,7 +19802,7 @@
       "Name": "Hotel California",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "ach_impressive_aim",
@@ -19917,7 +19922,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "ach_survival_expert",
@@ -19973,15 +19978,15 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6738
+      "UsersEstimate": 6739
     },
     {
       "ID": "ach_well_known_survivor",
       "SetID": "7km39fm",
       "Name": "Rising Star",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2695
     },
     {
       "ID": "ach_well_trained",
@@ -19996,7 +20001,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 673848,
+      "Progressed": 673872,
       "Completed": 2115
     }
   ],
@@ -20004,8 +20009,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-05T09:59:13.7335268+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:05:37.4398794+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:05:46.1129421+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:59:13.7335274+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:05:37.4400096+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:59:11.8881256+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:05:46.1130508+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,354 |
-| Leader | 60.00% | ~5,295 |
-| Explorer | 53.00% | ~4,677 |
-| Healer | 52.00% | ~4,589 |
+| First Step | 72.00% | ~6,355 |
+| Leader | 60.00% | ~5,296 |
+| Explorer | 53.00% | ~4,678 |
+| Healer | 52.00% | ~4,590 |
 | Aspiring Inventor | 44.00% | ~3,883 |
-| Adventurer | 41.00% | ~3,618 |
+| Adventurer | 41.00% | ~3,619 |
 | Famous Healer | 38.00% | ~3,354 |
 | Local Leader | 35.00% | ~3,089 |
-| Famous Explorer | 34.00% | ~3,000 |
-| New Opportunities | 34.00% | ~3,000 |
-| Energized | 33.00% | ~2,912 |
-| The Long Haul | 33.00% | ~2,912 |
+| Famous Explorer | 34.00% | ~3,001 |
+| New Opportunities | 34.00% | ~3,001 |
+| Energized | 33.00% | ~2,913 |
+| The Long Haul | 33.00% | ~2,913 |
 | The Great Healer | 31.00% | ~2,736 |
 | Survivor | 31.00% | ~2,736 |
 | Legendary Explorer | 28.00% | ~2,471 |
 | Cleaner | 28.00% | ~2,471 |
 | Catastrofan | 28.00% | ~2,471 |
-| Finders, Keepers | 26.00% | ~2,294 |
+| Finders, Keepers | 26.00% | ~2,295 |
 | Top Notch | 25.00% | ~2,206 |
 | Great Leader | 23.00% | ~2,030 |
 | Mentor | 23.00% | ~2,030 |
@@ -40,7 +40,7 @@ Number of Ratings: 836  (23.09.2022)
 | Famous Adventurer | 14.00% | ~1,236 |
 | Prepared for Anything | 13.00% | ~1,147 |
 | Big Catastrofan | 13.00% | ~1,147 |
-| It's a Finnish Thing | 10.00% | ~882 |
+| It's a Finnish Thing | 10.00% | ~883 |
 | Trader | 9.00% | ~794 |
 | Sky Burial | 9.00% | ~794 |
 | Bread and Circuses | 8.00% | ~706 |
@@ -52,10 +52,10 @@ Number of Ratings: 836  (23.09.2022)
 | Luxurious Living | 4.00% | ~353 |
 | Mogul | 3.00% | ~265 |
 | Ranch Hand | 3.00% | ~265 |
-| Diplomat | 2.00% | ~176 |
-| Doomsday is canceled | 2.00% | ~176 |
-| Biggest Catastrofan | 2.00% | ~176 |
-| True Survivor | 2.00% | ~176 |
+| Diplomat | 2.00% | ~177 |
+| Doomsday is canceled | 2.00% | ~177 |
+| Biggest Catastrofan | 2.00% | ~177 |
+| True Survivor | 2.00% | ~177 |
 | The Friendliest | 1.00% | ~88 |
 | Legendary Adventurer | 1.00% | ~88 |
 | Feng Shui | 1.00% | ~88 |
@@ -66,8 +66,8 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,825 (Ranked 132)  
-Completed: 0 (0.00%) (Ranked 271)  
+Progressed: 8,826 (Ranked 132)  
+Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-02 | 8,756 | 0 |
 | 2023-09-03 | 8,797 | 0 |
 | 2023-09-04 | 8,820 | 0 |
-| 2023-09-05 | 8,825 | 0 |
+| 2023-09-05 | 8,826 | 0 |
 ## Awards
 Max (Extremely Fun): 102  (Ranked 334)  
 Sum: 698 (Ranked 279)  

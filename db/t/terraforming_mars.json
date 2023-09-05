@@ -6,7 +6,7 @@
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
@@ -2686,9 +2686,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 74650,
+  "EOS_Progressed": 74651,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 936,
+  "EOS_NewPlayers": 934,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -17831,6 +17831,11 @@
       "Time": "2023-09-05T10:04:32.5758777+00:00",
       "NumProgressed": 74650,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-09-05T11:04:41.6582636+00:00",
+      "NumProgressed": 74651,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 30,
@@ -17906,7 +17911,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 6718
+      "UsersEstimate": 6719
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -17922,7 +17927,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 27620
+      "UsersEstimate": 27621
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -18002,7 +18007,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9704
+      "UsersEstimate": 9705
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -18018,7 +18023,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 27620
+      "UsersEstimate": 27621
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -18081,15 +18086,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 74650,
+      "Progressed": 74651,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-03T10:58:44.6893935+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:04:32.5758768+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:04:41.6582631+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0373499+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:58:59.9290124+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:04:32.5759929+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:58:58.2885287+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:04:41.6583761+00:00"
 }

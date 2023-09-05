@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -386,9 +386,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12927,
+  "EOS_Progressed": 12928,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -7926,6 +7926,11 @@
       "Time": "2023-09-05T08:03:25.922584+00:00",
       "NumProgressed": 12927,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-05T11:03:50.0913412+00:00",
+      "NumProgressed": 12928,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -7937,7 +7942,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11893
+      "UsersEstimate": 11894
     },
     {
       "ID": "ACH_02",
@@ -7945,7 +7950,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10212
+      "UsersEstimate": 10213
     },
     {
       "ID": "ACH_03",
@@ -7953,7 +7958,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9566
+      "UsersEstimate": 9567
     },
     {
       "ID": "ACH_04",
@@ -7961,7 +7966,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9049
+      "UsersEstimate": 9050
     },
     {
       "ID": "ACH_05",
@@ -7969,7 +7974,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8790
+      "UsersEstimate": 8791
     },
     {
       "ID": "ACH_06",
@@ -7993,7 +7998,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7885
+      "UsersEstimate": 7886
     },
     {
       "ID": "ACH_09",
@@ -8009,7 +8014,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 6851
+      "UsersEstimate": 6852
     },
     {
       "ID": "ACH_11",
@@ -8017,7 +8022,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6334
+      "UsersEstimate": 6335
     },
     {
       "ID": "ACH_12",
@@ -8025,7 +8030,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5946
+      "UsersEstimate": 5947
     },
     {
       "ID": "ACH_13",
@@ -8113,7 +8118,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "ACH_24",
@@ -8209,14 +8214,14 @@
       "Name": "Mercy",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12927,
+      "Progressed": 12928,
       "Completed": 45
     }
   ],
@@ -8224,8 +8229,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-31T16:58:27.1568768+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:03:41.7136331+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:03:50.0913405+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:15.9544425+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:00:11.4732756+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:03:41.7137011+00:00"
+  "LastUpdate_Ratings": "2023-09-05T11:00:10.1626021+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:03:50.0914029+00:00"
 }

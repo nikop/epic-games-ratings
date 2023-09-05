@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -369,9 +369,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BRING_MARY",
@@ -481,9 +481,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -528,8 +528,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:03:25.3565948+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:03:33.9193993+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:57:49.0507413+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:03:25.3568261+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:57:51.9060085+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:03:33.9194146+00:00"
 }

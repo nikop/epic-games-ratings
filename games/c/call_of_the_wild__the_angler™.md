@@ -14,12 +14,12 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 48.00% | ~2,726 |
 | Ready to Rod and Roll | 45.00% | ~2,556 |
 | Fish Out of Water | 34.00% | ~1,931 |
-| License to Gill | 32.00% | ~1,817 |
+| License to Gill | 32.00% | ~1,818 |
 | Things that go Splash in the Night | 30.00% | ~1,704 |
 | Goldfish? | 28.00% | ~1,590 |
 | Going for Gold | 25.00% | ~1,420 |
 | I'm Hooked! | 19.00% | ~1,079 |
-| Diamond in the Rough | 12.00% | ~681 |
+| Diamond in the Rough | 12.00% | ~682 |
 | More than a Tourist | 11.00% | ~625 |
 | Hook, Line and Sinker | 8.00% | ~454 |
 | School's Out for Summer | 8.00% | ~454 |
@@ -42,8 +42,8 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,679 (Ranked 142)  
-Completed: 0 (0.00%) (Ranked 271)  
+Progressed: 5,680 (Ranked 142)  
+Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-02 | 5,622 | 0 |
 | 2023-09-03 | 5,650 | 0 |
 | 2023-09-04 | 5,672 | 0 |
-| 2023-09-05 | 5,679 | 0 |
+| 2023-09-05 | 5,680 | 0 |
 ## Awards
 Max (Relaxing): 33  (Ranked 450)  
 Sum: 167 (Ranked 390)  

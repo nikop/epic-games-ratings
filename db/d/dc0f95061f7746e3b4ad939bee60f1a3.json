@@ -3,7 +3,7 @@
   "Name": "Puzzle Compound",
   "ProductSlug": "puzzle-compound-fe9903",
   "Ranking_EOS_Progress": 392,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -290,8 +290,8 @@
   ],
   "FirstSeen": "2023-06-09T19:57:14.7958612+00:00",
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:06:08.4721904+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:06:17.4214938+00:00",
   "LastUpdate_AppInfo": "2023-08-29T11:57:11.8747602+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:57:50.5399075+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:06:08.4722018+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:57:53.0429216+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:06:17.4215038+00:00"
 }

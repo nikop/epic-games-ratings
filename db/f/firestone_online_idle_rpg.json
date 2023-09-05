@@ -3,11 +3,11 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 937,
-  "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 511,
+  "Ranking_Popularity": 511,
+  "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -252,7 +252,7 @@
   ],
   "EOS_Progressed": 1898,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5899,9 +5899,9 @@
       "ID": "trader",
       "SetID": "3nl4bcg",
       "Name": "Trader",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 171
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -5988,8 +5988,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-02T05:57:31.8632938+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:04:08.1916841+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:04:16.4644848+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:58:50.4210627+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:04:08.191793+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:58:47.038149+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:04:16.4645915+00:00"
 }

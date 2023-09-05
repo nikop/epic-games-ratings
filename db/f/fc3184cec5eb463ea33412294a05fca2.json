@@ -2,9 +2,9 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 42,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.72,
+  "EOS_Completed_Percentage": 6.69,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -981,6 +981,11 @@
       "Time": "2023-09-03T10:07:24.6913965+00:00",
       "NumProgressed": 238,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-05T11:06:49.5409032+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 16,
@@ -998,9 +1003,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8d3ci0",
       "Name": "Duck invasion",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1032,7 +1037,7 @@
       "Name": "High-rise",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1054,9 +1059,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1096,7 +1101,7 @@
       "Name": "Abducktion",
       "Percentage": 22,
       "XP": 95,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1119,14 +1124,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:06:32.2034799+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:06:49.5409029+00:00",
   "LastUpdate_AppInfo": "2023-09-02T16:57:14.7085135+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:57:43.4746372+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:06:32.2034985+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:57:46.9132845+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:06:49.54092+00:00"
 }

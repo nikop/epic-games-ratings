@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 72,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.71,
+  "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -377,6 +377,11 @@
       "Time": "2023-09-04T03:04:35.9403294+00:00",
       "NumProgressed": 70,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T11:04:50.999564+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -394,7 +399,7 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -530,7 +535,7 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -587,13 +592,13 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 72,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:04:41.9655071+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:04:50.9995634+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:59:50.0602488+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:04:41.9655286+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:59:49.447949+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:04:50.9995846+00:00"
 }

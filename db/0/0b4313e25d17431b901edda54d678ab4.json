@@ -3,7 +3,7 @@
   "Name": "Echo Storm",
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -328,9 +328,9 @@
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 150,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "killWithHammer",
@@ -384,9 +384,9 @@
       "ID": "pyromancer",
       "SetID": "bma0pih",
       "Name": "Pyromancer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "reroll10",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:06:29.8023365+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:06:46.8483381+00:00",
   "LastUpdate_AppInfo": "2023-09-03T16:57:17.2033406+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:00:05.6748462+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:06:29.8023519+00:00"
+  "LastUpdate_Ratings": "2023-09-05T11:00:05.7481194+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:06:46.8483531+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,089 |
-| Uncharted Territory | 89.00% | ~209,603 |
+| First Steps | 96.00% | ~226,090 |
+| Uncharted Territory | 89.00% | ~209,604 |
 | Getting A Glimpse | 73.00% | ~171,922 |
-| A Quick Escape | 65.00% | ~153,081 |
+| A Quick Escape | 65.00% | ~153,082 |
 | Explorer | 62.00% | ~146,016 |
-| Defeat The Dark | 61.00% | ~143,660 |
-| An Offering | 61.00% | ~143,660 |
-| Colorful Corpse | 58.00% | ~136,595 |
-| That Was Quick | 57.00% | ~134,240 |
-| A Donation | 57.00% | ~134,240 |
+| Defeat The Dark | 61.00% | ~143,661 |
+| An Offering | 61.00% | ~143,661 |
+| Colorful Corpse | 58.00% | ~136,596 |
+| That Was Quick | 57.00% | ~134,241 |
+| A Donation | 57.00% | ~134,241 |
 | Goodbye, Frog Friend | 54.00% | ~127,175 |
 | Heavy Hitter | 53.00% | ~124,820 |
-| Heartless | 46.00% | ~108,334 |
-| Spine Breaker | 46.00% | ~108,334 |
-| Deflection | 45.00% | ~105,979 |
+| Heartless | 46.00% | ~108,335 |
+| Spine Breaker | 46.00% | ~108,335 |
+| Deflection | 45.00% | ~105,980 |
 | Sneaky | 43.00% | ~101,269 |
 | Delving Deeper | 42.00% | ~98,914 |
 | C-C-Combo | 42.00% | ~98,914 |
 | Ambitious Intent | 41.00% | ~96,559 |
 | Nothing To Lose | 40.00% | ~94,204 |
 | The Bestiary | 40.00% | ~94,204 |
-| What's Yours Is Mine | 38.00% | ~89,493 |
-| R.I.P | 36.00% | ~84,783 |
-| Shootout | 36.00% | ~84,783 |
+| What's Yours Is Mine | 38.00% | ~89,494 |
+| R.I.P | 36.00% | ~84,784 |
+| Shootout | 36.00% | ~84,784 |
 | I Am Overburdened | 35.00% | ~82,428 |
 | Cold Hearted | 34.00% | ~80,073 |
 | Dig Your Own Grave | 33.00% | ~77,718 |
@@ -38,13 +38,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Flesh Wound | 29.00% | ~68,298 |
 | Stone Touch | 28.00% | ~65,943 |
 | Shadow Walker | 28.00% | ~65,943 |
-| Consecutive Curses | 27.00% | ~63,587 |
-| Walk It Off | 27.00% | ~63,587 |
-| Acid Bath | 27.00% | ~63,587 |
-| New Perspectives | 27.00% | ~63,587 |
-| Shapeshifting | 27.00% | ~63,587 |
-| Destroy Your Fears | 26.00% | ~61,232 |
-| Save Our Souls | 25.00% | ~58,877 |
+| Consecutive Curses | 27.00% | ~63,588 |
+| Walk It Off | 27.00% | ~63,588 |
+| Acid Bath | 27.00% | ~63,588 |
+| New Perspectives | 27.00% | ~63,588 |
+| Shapeshifting | 27.00% | ~63,588 |
+| Destroy Your Fears | 26.00% | ~61,233 |
+| Save Our Souls | 25.00% | ~58,878 |
 | To The Death! | 20.00% | ~47,102 |
 | Well Prepared | 20.00% | ~47,102 |
 | Just Chilling | 20.00% | ~47,102 |
@@ -53,8 +53,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 17.00% | ~40,037 |
 | Don't Ignore Me! | 17.00% | ~40,037 |
 | Illuminate, Eliminate | 17.00% | ~40,037 |
-| Max Damage! | 16.00% | ~37,681 |
-| Doing Time | 16.00% | ~37,681 |
+| Max Damage! | 16.00% | ~37,682 |
+| Doing Time | 16.00% | ~37,682 |
 | Spreading Plague | 15.00% | ~35,326 |
 | The Long Run | 14.00% | ~32,971 |
 | A Rough Road | 13.00% | ~30,616 |
@@ -84,8 +84,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Power Score | 6.00% | ~14,131 |
 | Just Looking Around | 6.00% | ~14,131 |
 | Champion of the Day | 6.00% | ~14,131 |
-| Achievement Hunter | 5.00% | ~11,775 |
-| No Mercy | 5.00% | ~11,775 |
+| Achievement Hunter | 5.00% | ~11,776 |
+| No Mercy | 5.00% | ~11,776 |
 | Hydrophobe | 4.00% | ~9,420 |
 | Explosive Betrayal | 4.00% | ~9,420 |
 | Willing the World | 4.00% | ~9,420 |
@@ -129,8 +129,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,178 |
 | Near Death Experience | 0.30% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,509 (Ranked 51)  
-Completed: 265 (0.11%) (Ranked 216)  
+Progressed: 235,510 (Ranked 51)  
+Completed: 265 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,7 +267,7 @@ Completed: 265 (0.11%) (Ranked 216)
 | 2023-09-02 | 235,372 | 264 |
 | 2023-09-03 | 235,436 | 264 |
 | 2023-09-04 | 235,498 | 265 |
-| 2023-09-05 | 235,509 | 265 |
+| 2023-09-05 | 235,510 | 265 |
 ## Awards
 Max (Quickly Understood Controls): 1,488  (Ranked 122)  
 Sum: 11,546 (Ranked 79)  

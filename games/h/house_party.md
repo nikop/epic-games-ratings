@@ -77,7 +77,7 @@ Number of Ratings: 177  (23.09.2022)
 | D-Club Certified | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,132 (Ranked 140)  
-Completed: 3 (0.05%) (Ranked 237)  
+Completed: 3 (0.05%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

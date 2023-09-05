@@ -6,7 +6,7 @@
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 142,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -682,9 +682,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5679,
+  "EOS_Progressed": 5680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6972,6 +6972,11 @@
       "Time": "2023-09-05T01:47:51.6946207+00:00",
       "NumProgressed": 5679,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T11:09:13.4513556+00:00",
+      "NumProgressed": 5680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7055,7 +7060,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -7151,7 +7156,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -7262,13 +7267,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5679,
+      "Progressed": 5680,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5051,
+      "Progressed": 5052,
       "Completed": 112
     }
   ],
@@ -7276,8 +7281,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-03T19:00:39.4102502+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:08:15.821311+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:09:13.4513548+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-05T10:00:30.3479867+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:08:15.8213791+00:00"
+  "LastUpdate_Ratings": "2023-09-05T11:00:28.09637+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:09:13.4514217+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 308,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -550,8 +550,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2023-09-05T10:05:49.3006303+00:00",
+  "LastChanged_Achievements": "2023-09-05T11:05:58.4142525+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:05.1913806+00:00",
-  "LastUpdate_Ratings": "2023-09-05T09:59:57.8915392+00:00",
-  "LastUpdate_Achievements": "2023-09-05T10:05:49.3006505+00:00"
+  "LastUpdate_Ratings": "2023-09-05T10:59:57.3192619+00:00",
+  "LastUpdate_Achievements": "2023-09-05T11:05:58.4142728+00:00"
 }
