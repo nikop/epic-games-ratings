@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.85% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.59% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.32% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 26.61% |
@@ -47,7 +47,7 @@
 | 45 | [JARS](games/j/jars.md) | 5.97% |
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
-| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.48% |
+| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.41% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.33% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
@@ -61,7 +61,7 @@
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.14% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.04% |
 | 61 | [ZZT!](games/z/zzt!.md) | 4.02% |
-| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.39% |
@@ -192,9 +192,9 @@
 | 189 | [Blanc](games/b/blanc.md) | 0.23% |
 | 191 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
 | 191 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.22% |
-| 191 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.22% |
-| 194 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 194 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 193 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 193 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 193 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.21% |
 | 196 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 197 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 197 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
@@ -572,4 +572,4 @@
 | 270 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 270 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 270 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,176 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,178 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
