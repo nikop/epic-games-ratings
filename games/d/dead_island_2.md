@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 1.00% | ~6,742 |
-| Break A Leg | 1.00% | ~6,742 |
-| Coup de Grâce | 1.00% | ~6,742 |
-| Hazardous Materials | 1.00% | ~6,742 |
-| Hotel California | 1.00% | ~6,742 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,742 |
-| Welcome To Hell-A | 1.00% | ~6,742 |
+| Git Gutte! | 1.00% | ~6,743 |
+| Break A Leg | 1.00% | ~6,743 |
+| Coup de Grâce | 1.00% | ~6,743 |
+| Hazardous Materials | 1.00% | ~6,743 |
+| Hotel California | 1.00% | ~6,743 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,743 |
+| Welcome To Hell-A | 1.00% | ~6,743 |
 | Dr. Reed, I Presume? | 0.90% | ~6,068 |
 | But Doctor, I am Butcho | 0.90% | ~6,068 |
 | Friends Like These | 0.90% | ~6,068 |
@@ -27,9 +27,9 @@ Rating: 4.54 (Ranked 505)
 | Ooh, Shiny! | 0.70% | ~4,720 |
 | I Am the Resurrection | 0.70% | ~4,720 |
 | Our True Nature | 0.70% | ~4,720 |
-| Anger Management | 0.60% | ~4,045 |
-| Perks of the Job | 0.60% | ~4,045 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,045 |
+| Anger Management | 0.60% | ~4,046 |
+| Perks of the Job | 0.60% | ~4,046 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,046 |
 | Making Your Mark | 0.50% | ~3,371 |
 | Humanity Distilled | 0.50% | ~3,371 |
 | Down with the Sickness | 0.50% | ~3,371 |
@@ -40,18 +40,18 @@ Rating: 4.54 (Ranked 505)
 | Not Even My Final Form | 0.30% | ~2,023 |
 | Internet Famous | 0.30% | ~2,023 |
 | Jumbo Keyring | 0.30% | ~2,023 |
-| Make it So | 0.20% | ~1,348 |
-| LA Influential | 0.20% | ~1,348 |
-| On Safari | 0.20% | ~1,348 |
-| Gore Horse | 0.20% | ~1,348 |
-| Variety is the Spice of Death | 0.20% | ~1,348 |
+| Make it So | 0.20% | ~1,349 |
+| LA Influential | 0.20% | ~1,349 |
+| On Safari | 0.20% | ~1,349 |
+| Gore Horse | 0.20% | ~1,349 |
+| Variety is the Spice of Death | 0.20% | ~1,349 |
 | Donk! | 0.10% | ~674 |
 | Sole Survivor | 0.10% | ~674 |
 | Sharpest Tool in the Box | 0.10% | ~674 |
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,234 (Ranked 22)  
+Progressed: 674,256 (Ranked 22)  
 Completed: 2,117 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2,117 (0.31%) (Ranked 176)
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
-| 2023-09-05 | 674,234 | 2,117 |
+| 2023-09-05 | 674,256 | 2,117 |
 ## Awards
 Max (Great Boss Battles): 5,913  (Ranked 59)  
 Sum: 8,730 (Ranked 95)  

@@ -25,11 +25,11 @@ Rating: 4.48 (Ranked 601)
 | Der Geist | 16.00% | ~574 |
 | Climbing the Ladder | 15.00% | ~538 |
 | Close Quarters | 15.00% | ~538 |
+| Brains of the Operation | 15.00% | ~538 |
 | Fields of Glory | 14.00% | ~502 |
 | Skirmisher | 14.00% | ~502 |
 | Die Nussknacker Sweet! | 14.00% | ~502 |
 | Snake in the Grass | 14.00% | ~502 |
-| Brains of the Operation | 14.00% | ~502 |
 | No Stone Unturned | 13.00% | ~467 |
 | Opposing Force | 13.00% | ~467 |
 | Enemy at the Gates | 13.00% | ~467 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 601)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,589 (Ranked 154)  
+Progressed: 3,589 (Ranked 155)  
 Completed: 10 (0.28%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |

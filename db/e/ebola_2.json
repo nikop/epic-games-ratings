@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -1078,9 +1078,9 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "achMeat",
@@ -1110,9 +1110,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 161
     },
     {
       "ID": "achVirus",
@@ -1141,8 +1141,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-05T22:08:23.9746229+00:00",
+  "LastChanged_Achievements": "2023-09-05T23:06:51.1333928+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:35.1715496+00:00",
-  "LastUpdate_Ratings": "2023-09-05T21:58:29.8404271+00:00",
-  "LastUpdate_Achievements": "2023-09-05T22:08:23.9746525+00:00"
+  "LastUpdate_Ratings": "2023-09-05T22:58:01.7353525+00:00",
+  "LastUpdate_Achievements": "2023-09-05T23:06:51.1334135+00:00"
 }

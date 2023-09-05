@@ -4,8 +4,8 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1138,9 +1138,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 190
+      "UsersEstimate": 194
     },
     {
       "ID": "fish_trade",
@@ -1289,8 +1289,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-09-05T22:05:24.1880618+00:00",
+  "LastChanged_Achievements": "2023-09-05T23:04:45.5623027+00:00",
   "LastUpdate_AppInfo": "2023-08-31T19:57:04.7340411+00:00",
-  "LastUpdate_Ratings": "2023-09-05T21:58:28.7058312+00:00",
-  "LastUpdate_Achievements": "2023-09-05T22:05:24.1880875+00:00"
+  "LastUpdate_Ratings": "2023-09-05T22:58:01.0102026+00:00",
+  "LastUpdate_Achievements": "2023-09-05T23:04:45.5623256+00:00"
 }

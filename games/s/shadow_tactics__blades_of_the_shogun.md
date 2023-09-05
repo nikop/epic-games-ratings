@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,032 |
-| Thorough | 10.00% | ~20,029 |
-| A thief's beginning | 9.00% | ~18,026 |
+| Genin | 11.00% | ~22,034 |
+| Thorough | 10.00% | ~20,031 |
+| A thief's beginning | 9.00% | ~18,028 |
 | Disguised | 8.00% | ~16,024 |
 | Rescue Takuma | 8.00% | ~16,024 |
 | Rollin' | 8.00% | ~16,024 |
@@ -42,8 +42,8 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 0.90% | ~1,803 |
 | High Five the Moon | 0.80% | ~1,602 |
 | The Cave | 0.70% | ~1,402 |
-| Merciful | 0.50% | ~1,001 |
-| Time Paradox | 0.50% | ~1,001 |
+| Merciful | 0.50% | ~1,002 |
+| Time Paradox | 0.50% | ~1,002 |
 | Five Shadows | 0.30% | ~601 |
 | Chicken Dinner | 0.10% | ~200 |
 | Complete Mastery | 0.10% | ~200 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~200 |
 | Release the Kraken | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,294 (Ranked 61)  
+Progressed: 200,306 (Ranked 61)  
 Completed: 76 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 76 (0.04%) (Ranked 239)
 | 2023-09-02 | 199,645 | 76 |
 | 2023-09-03 | 199,900 | 76 |
 | 2023-09-04 | 200,108 | 76 |
-| 2023-09-05 | 200,294 | 76 |
+| 2023-09-05 | 200,306 | 76 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 191)  
 Sum: 4,743 (Ranked 135)  
