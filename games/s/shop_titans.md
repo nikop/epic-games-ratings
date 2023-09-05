@@ -15,10 +15,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 1.00% | ~1,357 |
 | Another Satisfied Customer | 1.00% | ~1,357 |
 | It's Free Real Estate | 1.00% | ~1,357 |
+| Pretty Penny | 1.00% | ~1,357 |
 | Budding Merchant | 1.00% | ~1,357 |
 | Capitalism Ho! | 1.00% | ~1,357 |
 | Own the Means of Production | 1.00% | ~1,357 |
-| Pretty Penny | 0.90% | ~1,221 |
 | One-Armed Bandit | 0.80% | ~1,086 |
 | Through Repetition, Perfection | 0.80% | ~1,086 |
 | The Daily Grind | 0.70% | ~950 |
@@ -33,16 +33,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.60% | ~814 |
 | Did we pack lunch? | 0.60% | ~814 |
 | Arcane Industries | 0.60% | ~814 |
-| On the Path to Greatness | 0.50% | ~678 |
-| Research & Development | 0.50% | ~678 |
-| Vanity, Verily | 0.50% | ~678 |
-| Fated Encounters | 0.50% | ~678 |
-| Power of Love | 0.50% | ~678 |
-| Efficient Floor Space | 0.50% | ~678 |
-| Flawless Fusion | 0.50% | ~678 |
-| Gem Expert | 0.50% | ~678 |
-| Helping Hand | 0.50% | ~678 |
-| Natural 20 | 0.50% | ~678 |
+| On the Path to Greatness | 0.50% | ~679 |
+| Research & Development | 0.50% | ~679 |
+| Vanity, Verily | 0.50% | ~679 |
+| Fated Encounters | 0.50% | ~679 |
+| Power of Love | 0.50% | ~679 |
+| Efficient Floor Space | 0.50% | ~679 |
+| Flawless Fusion | 0.50% | ~679 |
+| Gem Expert | 0.50% | ~679 |
+| Helping Hand | 0.50% | ~679 |
+| Natural 20 | 0.50% | ~679 |
 | A Notch Above the Rest | 0.40% | ~543 |
 | A Ronin Reborn | 0.40% | ~543 |
 | Tax not Included | 0.40% | ~543 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,698 (Ranked 67)  
+Progressed: 135,702 (Ranked 67)  
 Completed: 143 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,18 +257,18 @@ Completed: 143 (0.11%) (Ranked 215)
 | 2023-09-02 | 135,551 | 140 |
 | 2023-09-03 | 135,618 | 142 |
 | 2023-09-04 | 135,661 | 142 |
-| 2023-09-05 | 135,698 | 143 |
+| 2023-09-05 | 135,702 | 143 |
 ## Awards
-Max (Great for Beginners): 4,721  (Ranked 70)  
-Sum: 27,173 (Ranked 48)  
+Max (Great for Beginners): 4,723  (Ranked 70)  
+Sum: 27,176 (Ranked 48)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,721 |
+| This game is Great for Beginners | 4,723 |
 | This game is Relaxing | 4,005 |
 | This game has Quickly Understood Controls | 3,993 |
 | This game has Diverse Characters | 3,867 |
-| This game is Highly Recommended | 3,740 |
+| This game is Highly Recommended | 3,741 |
 | This game has Easy Combat | 3,679 |
 | This game has Playful Visuals | 3,168 |
 | This game has Inclusive Character Customization | 22 |
@@ -496,3 +496,4 @@ Diff (max vs sum): 22
 | 2023-09-02 | 3.99 | - | 4,719 | 27,164 |
 | 2023-09-03 | 3.99 | - | 4,721 | 27,169 |
 | 2023-09-04 | 3.99 | - | 4,721 | 27,173 |
+| 2023-09-05 | 3.99 | - | 4,723 | 27,176 |

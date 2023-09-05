@@ -6,61 +6,61 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 44.00% | ~29,661 |
-| To The Nines | 40.00% | ~26,965 |
-| Optimized | 35.00% | ~23,594 |
-| Performance Review | 35.00% | ~23,594 |
-| Making a Name | 33.00% | ~22,246 |
-| Tune Up | 32.00% | ~21,572 |
-| Wet Work | 31.00% | ~20,898 |
-| Landlord | 31.00% | ~20,898 |
-| The Side Job | 30.00% | ~20,224 |
-| Wrecking Ball | 27.00% | ~18,201 |
-| Food for Thought | 26.00% | ~17,527 |
-| Finders Keepers | 25.00% | ~16,853 |
-| A Young Empire | 25.00% | ~16,853 |
-| Work Ethic | 23.00% | ~15,505 |
-| Picking Fights | 19.00% | ~12,808 |
-| Quality Time | 18.00% | ~12,134 |
-| Power Players | 18.00% | ~12,134 |
-| Showdown | 16.00% | ~10,786 |
-| Et tu? | 16.00% | ~10,786 |
-| Took It to The Limit | 16.00% | ~10,786 |
-| Kitted Out | 14.00% | ~9,438 |
-| Masters of Santo Ileso | 12.00% | ~8,089 |
-| Hijacked | 11.00% | ~7,415 |
-| The Spins | 10.00% | ~6,741 |
-| The Mechanic | 10.00% | ~6,741 |
+| First F#@!ing Day | 44.00% | ~29,664 |
+| To The Nines | 40.00% | ~26,967 |
+| Optimized | 35.00% | ~23,596 |
+| Performance Review | 35.00% | ~23,596 |
+| Making a Name | 33.00% | ~22,248 |
+| Tune Up | 32.00% | ~21,574 |
+| Wet Work | 31.00% | ~20,900 |
+| Landlord | 31.00% | ~20,900 |
+| The Side Job | 30.00% | ~20,225 |
+| Wrecking Ball | 27.00% | ~18,203 |
+| Food for Thought | 26.00% | ~17,529 |
+| Finders Keepers | 25.00% | ~16,854 |
+| A Young Empire | 25.00% | ~16,854 |
+| Work Ethic | 23.00% | ~15,506 |
+| Picking Fights | 19.00% | ~12,809 |
+| Quality Time | 18.00% | ~12,135 |
+| Power Players | 18.00% | ~12,135 |
+| Showdown | 16.00% | ~10,787 |
+| Et tu? | 16.00% | ~10,787 |
+| Took It to The Limit | 16.00% | ~10,787 |
+| Kitted Out | 14.00% | ~9,439 |
+| Masters of Santo Ileso | 12.00% | ~8,090 |
+| Hijacked | 11.00% | ~7,416 |
+| The Spins | 10.00% | ~6,742 |
+| The Mechanic | 10.00% | ~6,742 |
 | We could go home, or… | 7.00% | ~4,719 |
 | Challenge Accepted | 7.00% | ~4,719 |
 | A Golden Age | 7.00% | ~4,719 |
 | Closet Space | 7.00% | ~4,719 |
-| Producer Credit | 7.00% | ~2,733 |
+| Producer Credit | 7.00% | ~2,734 |
 | Face Off | 6.00% | ~2,343 |
 | The Professional | 5.00% | ~3,371 |
 | Chaos Tamer | 5.00% | ~3,371 |
 | Untouchable | 5.00% | ~3,371 |
 | Free Refills | 5.00% | ~3,371 |
 | Smooth Moves | 5.00% | ~3,371 |
-| Hazardous Heist | 5.00% | ~1,952 |
-| Neighborly | 4.00% | ~2,696 |
-| Prankster | 4.00% | ~2,696 |
-| Tourist | 4.00% | ~2,696 |
-| Shopping Spree | 3.00% | ~2,022 |
-| Always Be Hustling | 3.00% | ~2,022 |
-| Community Outreach | 3.00% | ~2,022 |
+| Hazardous Heist | 5.00% | ~1,953 |
+| Neighborly | 4.00% | ~2,697 |
+| Prankster | 4.00% | ~2,697 |
+| Tourist | 4.00% | ~2,697 |
+| Shopping Spree | 3.00% | ~2,023 |
+| Always Be Hustling | 3.00% | ~2,023 |
+| Community Outreach | 3.00% | ~2,023 |
 | Bonus Round | 2.00% | ~1,348 |
 | It's a Bird! | 1.00% | ~674 |
 | The Collector | 1.00% | ~674 |
 | All Mine | 1.00% | ~674 |
 | Armor Piercing | 0.70% | ~472 |
 | Heard You Like Wheels | 0.70% | ~472 |
-| Jack of All Trades | 0.60% | ~404 |
-| Statement Pieces | 0.60% | ~404 |
+| Jack of All Trades | 0.60% | ~405 |
+| Statement Pieces | 0.60% | ~405 |
 | A Car Named Simone | 0.20% | ~135 |
 | Fiesta Time | 0.20% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,412 (Ranked 84)  
+Progressed: 67,418 (Ranked 84)  
 Completed: 47 (0.07%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 47 (0.07%) (Ranked 229)
 | 2023-09-02 | 66,760 | 47 |
 | 2023-09-03 | 67,040 | 47 |
 | 2023-09-04 | 67,273 | 47 |
-| 2023-09-05 | 67,412 | 47 |
+| 2023-09-05 | 67,418 | 47 |
 ## Awards
 Max (Extremely Fun): 1,063  (Ranked 140)  
-Sum: 8,610 (Ranked 97)  
+Sum: 8,612 (Ranked 97)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -209,7 +209,7 @@ Diff (max vs sum): 43
 | This game has Quickly Understood Controls | 1,034 |
 | This game is Highly Recommended | 1,000 |
 | This game has Diverse Characters | 994 |
-| This game is Great for Beginners | 992 |
+| This game is Great for Beginners | 994 |
 | This game has Amazing Characters | 982 |
 | This game is Relaxing | 978 |
 | This game has Amazing Storytelling | 968 |
@@ -384,3 +384,4 @@ Diff (max vs sum): 43
 | 2023-09-01 | 3.78 | - | 1,062 | 8,604 |
 | 2023-09-03 | 3.78 | - | 1,062 | 8,609 |
 | 2023-09-04 | 3.78 | - | 1,063 | 8,610 |
+| 2023-09-05 | 3.78 | - | 1,063 | 8,612 |

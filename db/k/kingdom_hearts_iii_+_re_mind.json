@@ -2,13 +2,13 @@
   "ID": "0712176b5e3e49bfa8866c0ee1359f2d",
   "Name": "KINGDOM HEARTS III \u002B Re Mind (DLC)",
   "ProductSlug": "kingdom-hearts-iii",
-  "Ranking_Rating": 89,
+  "Ranking_Rating": 88,
   "Ranking_Popularity": 162,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -2117,10 +2117,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1484,
       "NumberOfAwardsMax": 754
+    },
+    {
+      "Time": "2023-09-05T18:02:50.3946468+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1485,
+      "NumberOfAwardsMax": 754
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1484,
+  "NumberOfAwards": 1485,
   "NumberOfAwardsMax": 754,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2146,7 +2152,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 98
+      "Count": 99
     },
     {
       "Text": "This game has a Creative Community",
@@ -2208,8 +2214,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2023-09-05T05:01:48.4440455+00:00",
+  "LastChanged": "2023-09-05T18:02:50.3946466+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:01.7275444+00:00",
-  "LastUpdate_Ratings": "2023-09-05T17:01:16.2323621+00:00",
-  "LastUpdate_Achievements": "2023-09-05T17:05:41.9732688+00:00"
+  "LastUpdate_Ratings": "2023-09-05T18:02:50.3946472+00:00",
+  "LastUpdate_Achievements": "2023-09-05T18:06:58.4019346+00:00"
 }

@@ -8,10 +8,10 @@ Rating: 4.27 (Ranked 823)
 | We made it | 37.00% | ~379 |
 | Manipulating Fate | 9.00% | ~92 |
 | The City | 9.00% | ~92 |
-| Full house | 6.00% | ~61 |
-| Burn and Pillage | 6.00% | ~61 |
-| Hear me out | 6.00% | ~61 |
-| Listening to the crowd | 6.00% | ~61 |
+| Full house | 6.00% | ~62 |
+| Burn and Pillage | 6.00% | ~62 |
+| Hear me out | 6.00% | ~62 |
+| Listening to the crowd | 6.00% | ~62 |
 | Hidden Secrets | 5.00% | ~51 |
 | Accepting the Prophecy | 5.00% | ~51 |
 | Just Chilling | 4.00% | ~41 |
@@ -21,9 +21,9 @@ Rating: 4.27 (Ranked 823)
 | The Stranded King | 4.00% | ~41 |
 | Prophecy Fulfilled | 4.00% | ~41 |
 | Incredible Strength | 3.00% | ~31 |
+| The First King | 2.00% | ~20 |
 | The Greedy Ones | 2.00% | ~20 |
 | The Unruly Ones | 2.00% | ~20 |
-| The First King | 1.00% | ~10 |
 | The great fire | 1.00% | ~10 |
 | The Mad | 1.00% | ~10 |
 | The Council | 0.90% | ~9 |
@@ -41,17 +41,17 @@ Rating: 4.27 (Ranked 823)
 | Aesthetics | 0.10% | ~1 |
 | The experiment | 0.10% | ~1 |
 | The Flail | 0.10% | ~1 |
+| The Corrupted | 0.10% | ~1 |
 | The Foul | 0.10% | ~1 |
 | Break the chains | 0.00% | ~0 |
 | Purist | 0.00% | ~0 |
 | Discover the truth | 0.00% | ~0 |
 | Oktoberfest | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
-| The Corrupted | 0.00% | ~0 |
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,024 (Ranked 206)  
+Progressed: 1,025 (Ranked 206)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,6 +165,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-31 | 1,021 | 0 |
 | 2023-09-01 | 1,023 | 0 |
 | 2023-09-02 | 1,024 | 0 |
+| 2023-09-05 | 1,025 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

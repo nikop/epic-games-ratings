@@ -6,14 +6,14 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~9,922 |
-| Finding Your Footing | 26.00% | ~9,922 |
-| Nomad | 18.00% | ~6,869 |
-| Picking Up Speed | 16.00% | ~6,106 |
-| Welcome Maya | 15.00% | ~5,724 |
+| Rookie | 26.00% | ~9,923 |
+| Finding Your Footing | 26.00% | ~9,923 |
+| Nomad | 18.00% | ~6,870 |
+| Picking Up Speed | 16.00% | ~6,107 |
+| Welcome Maya | 15.00% | ~5,725 |
 | Scout | 11.00% | ~4,198 |
 | Sightseer | 11.00% | ~4,198 |
-| Amateur | 9.00% | ~3,434 |
+| Amateur | 9.00% | ~3,435 |
 | Unlock Maya | 8.00% | ~3,053 |
 | Enter Paz | 8.00% | ~3,053 |
 | Wanderer | 8.00% | ~3,053 |
@@ -21,7 +21,7 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~1,908 |
 | One With The Board | 5.00% | ~1,908 |
 | Voyager | 5.00% | ~1,908 |
-| Izel Has Arrived | 4.00% | ~1,526 |
+| Izel Has Arrived | 4.00% | ~1,527 |
 | Junkie | 3.00% | ~1,145 |
 | Traveler | 3.00% | ~1,145 |
 | Journeyer | 3.00% | ~1,145 |
@@ -35,18 +35,18 @@ Number of Ratings: 332  (23.09.2022)
 | Hoist the Mainsail | 1.00% | ~382 |
 | Introducing Sumara | 1.00% | ~382 |
 | Vandal | 1.00% | ~382 |
-| Daredevil | 0.90% | ~343 |
+| Daredevil | 0.90% | ~344 |
 | Unlock Felipe | 0.80% | ~305 |
 | Adventurer | 0.70% | ~267 |
 | Unlock Tupa | 0.50% | ~191 |
-| Master Of The Sands | 0.30% | ~114 |
+| Master Of The Sands | 0.30% | ~115 |
 | Master | 0.20% | ~76 |
 | Life Aquatic | 0.10% | ~38 |
 | Survivalist | 0.10% | ~38 |
 | The Ultimate Challenge | 0.10% | ~38 |
 | Windswept | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,160 (Ranked 97)  
+Progressed: 38,167 (Ranked 97)  
 Completed: 5 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 5 (0.01%) (Ranked 256)
 | 2023-09-02 | 37,852 | 5 |
 | 2023-09-03 | 37,999 | 5 |
 | 2023-09-04 | 38,091 | 5 |
-| 2023-09-05 | 38,160 | 5 |
+| 2023-09-05 | 38,167 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 409)  
 Sum: 360 (Ranked 328)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6720,
+  "EOS_Progressed": 6721,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4863,6 +4863,11 @@
       "Time": "2023-09-05T13:10:23.2015766+00:00",
       "NumProgressed": 6720,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-05T18:06:58.3058114+00:00",
+      "NumProgressed": 6721,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4922,7 +4927,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -4938,7 +4943,7 @@
       "Name": "Decimation",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -4962,7 +4967,7 @@
       "Name": "Donatello",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -5066,7 +5071,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -5146,7 +5151,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -5202,7 +5207,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3696
+      "UsersEstimate": 3697
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -5218,7 +5223,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -5233,7 +5238,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6720,
+      "Progressed": 6721,
       "Completed": 8
     }
   ],
@@ -5241,8 +5246,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-02T12:59:05.1112111+00:00",
-  "LastChanged_Achievements": "2023-09-05T17:05:41.8780251+00:00",
+  "LastChanged_Achievements": "2023-09-05T18:06:58.3058109+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:31.6871917+00:00",
-  "LastUpdate_Ratings": "2023-09-05T16:58:37.079028+00:00",
-  "LastUpdate_Achievements": "2023-09-05T17:05:41.8780854+00:00"
+  "LastUpdate_Ratings": "2023-09-05T17:59:06.9091806+00:00",
+  "LastUpdate_Achievements": "2023-09-05T18:06:58.305883+00:00"
 }

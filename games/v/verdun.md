@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~44,694 |
-| Worth it | 63.00% | ~36,099 |
-| Eagle Eye | 55.00% | ~31,515 |
-| Corpseman I | 40.00% | ~22,920 |
-| Blast fishing | 37.00% | ~21,201 |
-| Not alone | 32.00% | ~18,336 |
-| Headhunter I | 27.00% | ~15,471 |
-| Manual Labour I | 25.00% | ~14,325 |
-| Developers, Developers, Developers | 24.00% | ~13,752 |
-| Basic Training | 24.00% | ~13,752 |
-| Furchtlos und Treu | 13.00% | ~7,449 |
+| Setting an example | 78.00% | ~44,697 |
+| Worth it | 63.00% | ~36,102 |
+| Eagle Eye | 55.00% | ~31,517 |
+| Corpseman I | 40.00% | ~22,922 |
+| Blast fishing | 37.00% | ~21,202 |
+| Not alone | 32.00% | ~18,337 |
+| Headhunter I | 27.00% | ~15,472 |
+| Manual Labour I | 25.00% | ~14,326 |
+| Developers, Developers, Developers | 24.00% | ~13,753 |
+| Basic Training | 24.00% | ~13,753 |
+| Furchtlos und Treu | 13.00% | ~7,450 |
 | Gott Mit Uns | 12.00% | ~6,876 |
 | This We'll Defend! | 9.00% | ~5,157 |
 | Anker wirf! | 9.00% | ~5,157 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~57 |
 | Blood Brother | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,300 (Ranked 89)  
+Progressed: 57,304 (Ranked 89)  
 Completed: 4 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 4 (0.01%) (Ranked 256)
 | 2023-09-02 | 57,047 | 4 |
 | 2023-09-03 | 57,173 | 4 |
 | 2023-09-04 | 57,255 | 4 |
-| 2023-09-05 | 57,300 | 4 |
+| 2023-09-05 | 57,304 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 343)  
-Sum: 770 (Ranked 267)  
+Sum: 772 (Ranked 267)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -219,8 +219,8 @@ Diff (max vs sum): 76
 | This game is Educational | 76 |
 | This game is Relaxing | 75 |
 | This game has Competitive Players | 73 |
-| This game has Amazing Characters | 70 |
-| This game has Realistic Visuals | 70 |
+| This game has Amazing Characters | 71 |
+| This game has Realistic Visuals | 71 |
 | This game has a Competitive Community | 65 |
 | This game has Amazing Storytelling | 59 |
 | This game has Challenging Combat | 55 |
@@ -358,3 +358,4 @@ Diff (max vs sum): 76
 | 2023-08-27 | 4.52 | - | 96 | 768 |
 | 2023-09-01 | 4.52 | - | 96 | 769 |
 | 2023-09-04 | 4.52 | - | 96 | 770 |
+| 2023-09-05 | 4.52 | - | 96 | 772 |

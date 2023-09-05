@@ -1654,9 +1654,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 79529,
+  "EOS_Progressed": 79530,
   "EOS_Completed": 2173,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
@@ -7764,6 +7764,11 @@
       "Time": "2023-09-05T14:07:45.3049702+00:00",
       "NumProgressed": 79529,
       "NumCompleted": 2173
+    },
+    {
+      "Time": "2023-09-05T18:08:33.7284543+00:00",
+      "NumProgressed": 79530,
+      "NumCompleted": 2173
     }
   ],
   "TotalAchievements": 46,
@@ -7783,7 +7788,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 65214
+      "UsersEstimate": 65215
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -7791,7 +7796,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 58851
+      "UsersEstimate": 58852
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -7807,7 +7812,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 50103
+      "UsersEstimate": 50104
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -7831,7 +7836,7 @@
       "Name": "Vague Remembrances",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 38969
+      "UsersEstimate": 38970
     },
     {
       "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
@@ -7863,7 +7868,7 @@
       "Name": "Shared Recollections",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 33402
+      "UsersEstimate": 33403
     },
     {
       "ID": "012_TROPHY_MISSION_WATER_MEMORIES",
@@ -7887,7 +7892,7 @@
       "Name": "Duty\u0027s Course",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 28630
+      "UsersEstimate": 28631
     },
     {
       "ID": "015_TROPHY_MISSION_SUFFERING_OF_FOOL",
@@ -7927,7 +7932,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 52489
+      "UsersEstimate": 52490
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -7943,7 +7948,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 77143
+      "UsersEstimate": 77144
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -7959,7 +7964,7 @@
       "Name": "No Escape",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 68395
+      "UsersEstimate": 68396
     },
     {
       "ID": "024_TROPHY_DEFEAT_UTON",
@@ -7991,7 +7996,7 @@
       "Name": "Artifact Collector",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 17496
+      "UsersEstimate": 17497
     },
     {
       "ID": "028_TROPHY_USE_JOB_CREST",
@@ -8007,7 +8012,7 @@
       "Name": "True Potential",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 17496
+      "UsersEstimate": 17497
     },
     {
       "ID": "030_TROPHY_UNLOCK_ALL_JOB_BONUS",
@@ -8015,7 +8020,7 @@
       "Name": "Polymath",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 17496
+      "UsersEstimate": 17497
     },
     {
       "ID": "031_TROPHY_COMPLETE_JOB_TREE",
@@ -8023,7 +8028,7 @@
       "Name": "Savant",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 49308
+      "UsersEstimate": 49309
     },
     {
       "ID": "032_TROPHY_USED_MASTER_POINT",
@@ -8087,7 +8092,7 @@
       "Name": "Path of the Assassin",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 25449
+      "UsersEstimate": 25450
     },
     {
       "ID": "040_TROPHY_UNLOCKED_LIBERATOR",
@@ -8095,7 +8100,7 @@
       "Name": "Path of the Liberator",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 27835
+      "UsersEstimate": 27836
     },
     {
       "ID": "041_TROPHY_UNLOCKED_BREAKER",
@@ -8119,7 +8124,7 @@
       "Name": "Path of the Tyrant",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 27835
+      "UsersEstimate": 27836
     },
     {
       "ID": "044_TROPHY_UNLOCKED_SAGE",
@@ -8142,15 +8147,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 79529,
+      "Progressed": 79530,
       "Completed": 2173
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-08-13T01:41:57.8244186+00:00",
-  "LastChanged_Achievements": "2023-09-05T17:06:51.3512416+00:00",
+  "LastChanged_Achievements": "2023-09-05T18:08:33.7284537+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:15.2371165+00:00",
-  "LastUpdate_Ratings": "2023-09-05T17:00:35.2950493+00:00",
-  "LastUpdate_Achievements": "2023-09-05T17:06:51.3513144+00:00"
+  "LastUpdate_Ratings": "2023-09-05T18:01:54.7457766+00:00",
+  "LastUpdate_Achievements": "2023-09-05T18:08:33.7285473+00:00"
 }

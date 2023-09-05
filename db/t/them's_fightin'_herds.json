@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -232,9 +232,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 229297,
+  "EOS_Progressed": 229298,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14702,6 +14702,11 @@
       "Time": "2023-09-05T17:04:23.6208777+00:00",
       "NumProgressed": 229297,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-05T18:05:11.1026326+00:00",
+      "NumProgressed": 229298,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -14873,7 +14878,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50445
+      "UsersEstimate": 50446
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -14921,7 +14926,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 38980
+      "UsersEstimate": 38981
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -14936,7 +14941,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229297,
+      "Progressed": 229298,
       "Completed": 3
     }
   ],
@@ -14944,8 +14949,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-02T21:59:53.4448357+00:00",
-  "LastChanged_Achievements": "2023-09-05T17:04:23.6208772+00:00",
+  "LastChanged_Achievements": "2023-09-05T18:05:11.102632+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:29.7982071+00:00",
-  "LastUpdate_Ratings": "2023-09-05T17:00:46.6277853+00:00",
-  "LastUpdate_Achievements": "2023-09-05T17:04:23.6209865+00:00"
+  "LastUpdate_Ratings": "2023-09-05T18:02:10.2281695+00:00",
+  "LastUpdate_Achievements": "2023-09-05T18:05:11.1028269+00:00"
 }

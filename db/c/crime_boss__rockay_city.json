@@ -3306,9 +3306,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72687,
+  "EOS_Progressed": 72688,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17476,6 +17476,11 @@
       "Time": "2023-09-05T15:04:18.259587+00:00",
       "NumProgressed": 72687,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-05T18:04:40.7651778+00:00",
+      "NumProgressed": 72688,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17495,7 +17500,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 21079
+      "UsersEstimate": 21080
     },
     {
       "ID": "ACH_0012",
@@ -17535,7 +17540,7 @@
       "Name": "Imports and Exports",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "ACH_0021",
@@ -17639,7 +17644,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53788
+      "UsersEstimate": 53789
     },
     {
       "ID": "ACH_0211",
@@ -17663,7 +17668,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "ACH_0310",
@@ -17671,7 +17676,7 @@
       "Name": "Cracked the Jack",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "ACH_0330",
@@ -17687,7 +17692,7 @@
       "Name": "Red Star",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2907
+      "UsersEstimate": 2908
     },
     {
       "ID": "ACH_0350",
@@ -17703,7 +17708,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25440
+      "UsersEstimate": 25441
     },
     {
       "ID": "ACH_0420",
@@ -17719,7 +17724,7 @@
       "Name": "Fancy Pants",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26167
+      "UsersEstimate": 26168
     },
     {
       "ID": "ACH_0431",
@@ -17743,7 +17748,7 @@
       "Name": "Off the Rocks",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 14537
+      "UsersEstimate": 14538
     },
     {
       "ID": "ACH_0451",
@@ -17775,29 +17780,29 @@
       "Name": "Rockay Rex",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 8722
+      "UsersEstimate": 8723
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72687,
+      "Progressed": 72688,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 1034,
-      "Completed": 1034
+      "Progressed": 1035,
+      "Completed": 1035
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-05T08:00:15.197571+00:00",
-  "LastChanged_Achievements": "2023-09-05T17:04:01.2522484+00:00",
+  "LastChanged_Achievements": "2023-09-05T18:04:40.7651772+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-05T17:00:53.678536+00:00",
-  "LastUpdate_Achievements": "2023-09-05T17:04:01.2523658+00:00"
+  "LastUpdate_Ratings": "2023-09-05T18:02:19.5088455+00:00",
+  "LastUpdate_Achievements": "2023-09-05T18:04:40.7653845+00:00"
 }

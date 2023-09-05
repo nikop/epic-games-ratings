@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1783,9 +1783,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 485470,
+  "EOS_Progressed": 485472,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16353,6 +16353,11 @@
       "Time": "2023-09-05T16:08:19.3417233+00:00",
       "NumProgressed": 485470,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T18:09:24.9538499+00:00",
+      "NumProgressed": 485472,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -16380,7 +16385,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 223316
+      "UsersEstimate": 223317
     },
     {
       "ID": "BASEDEFENDER",
@@ -16420,7 +16425,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 286427
+      "UsersEstimate": 286428
     },
     {
       "ID": "CHAS",
@@ -16460,7 +16465,7 @@
       "Name": "Close Call",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 242735
+      "UsersEstimate": 242736
     },
     {
       "ID": "COMBATTURMOIL",
@@ -16476,7 +16481,7 @@
       "Name": "Confident",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 199043
+      "UsersEstimate": 199044
     },
     {
       "ID": "CORECONTAINER",
@@ -16492,7 +16497,7 @@
       "Name": "Death From Above",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 77675
+      "UsersEstimate": 77676
     },
     {
       "ID": "DIVERSITY",
@@ -16508,7 +16513,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 325265
+      "UsersEstimate": 325266
     },
     {
       "ID": "EXTERMINATOR",
@@ -16516,7 +16521,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 174769
+      "UsersEstimate": 174770
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -16532,7 +16537,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 359248
+      "UsersEstimate": 359249
     },
     {
       "ID": "FILTHYRICH",
@@ -16540,7 +16545,7 @@
       "Name": "Filthy Rich",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 92239
+      "UsersEstimate": 92240
     },
     {
       "ID": "FIREBUG",
@@ -16556,7 +16561,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 393231
+      "UsersEstimate": 393232
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -16564,7 +16569,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 203897
+      "UsersEstimate": 203898
     },
     {
       "ID": "FLURRY",
@@ -16620,7 +16625,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 155350
+      "UsersEstimate": 155351
     },
     {
       "ID": "GUNCRAZY",
@@ -16636,7 +16641,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 378667
+      "UsersEstimate": 378668
     },
     {
       "ID": "HEADTRAUMA",
@@ -16644,7 +16649,7 @@
       "Name": "Head Trauma",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 58256
+      "UsersEstimate": 58257
     },
     {
       "ID": "HEYTHATSMINE",
@@ -16652,7 +16657,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 378667
+      "UsersEstimate": 378668
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -16676,7 +16681,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 310701
+      "UsersEstimate": 310702
     },
     {
       "ID": "KABOOM",
@@ -16684,7 +16689,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 145641
+      "UsersEstimate": 145642
     },
     {
       "ID": "KICKSTARTER",
@@ -16700,7 +16705,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 344684
+      "UsersEstimate": 344685
     },
     {
       "ID": "LIQUIDATOR",
@@ -16708,7 +16713,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 140786
+      "UsersEstimate": 140787
     },
     {
       "ID": "MAJESTICPONY",
@@ -16772,7 +16777,7 @@
       "Name": "Not So Fast",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 160205
+      "UsersEstimate": 160206
     },
     {
       "ID": "OUTOFBULLETS",
@@ -16812,7 +16817,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 237880
+      "UsersEstimate": 237881
     },
     {
       "ID": "PEWPEW",
@@ -16820,7 +16825,7 @@
       "Name": "Pew Pew",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 242735
+      "UsersEstimate": 242736
     },
     {
       "ID": "PLANETARYSERVICE",
@@ -16876,7 +16881,7 @@
       "Name": "Retry",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 77675
+      "UsersEstimate": 77676
     },
     {
       "ID": "RETRYAGAIN",
@@ -16892,7 +16897,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 257299
+      "UsersEstimate": 257300
     },
     {
       "ID": "SAVANTGENIUS",
@@ -16948,7 +16953,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 315556
+      "UsersEstimate": 315557
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -17028,7 +17033,7 @@
       "Name": "What IS that?",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 242735
+      "UsersEstimate": 242736
     },
     {
       "ID": "XENOCIDE",
@@ -17044,7 +17049,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 267008
+      "UsersEstimate": 267010
     },
     {
       "ID": "YOUMONSTER",
@@ -17059,15 +17064,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 485470,
+      "Progressed": 485472,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-08-25T08:01:10.3908538+00:00",
-  "LastChanged_Achievements": "2023-09-05T17:09:10.6959399+00:00",
+  "LastChanged_Achievements": "2023-09-05T18:09:24.9538492+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:57.9385629+00:00",
-  "LastUpdate_Ratings": "2023-09-05T16:59:20.6177637+00:00",
-  "LastUpdate_Achievements": "2023-09-05T17:09:10.6961139+00:00"
+  "LastUpdate_Ratings": "2023-09-05T18:00:05.4228489+00:00",
+  "LastUpdate_Achievements": "2023-09-05T18:09:24.9540558+00:00"
 }

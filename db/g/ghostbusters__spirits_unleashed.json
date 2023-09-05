@@ -1980,9 +1980,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25610,
+  "EOS_Progressed": 25611,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12135,6 +12135,11 @@
       "Time": "2023-09-05T17:06:02.0479575+00:00",
       "NumProgressed": 25610,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-05T18:07:25.9839696+00:00",
+      "NumProgressed": 25611,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -12146,7 +12151,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18695
+      "UsersEstimate": 18696
     },
     {
       "ID": "Animated",
@@ -12154,7 +12159,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6402
+      "UsersEstimate": 6403
     },
     {
       "ID": "Back_Off",
@@ -12186,7 +12191,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10500
+      "UsersEstimate": 10501
     },
     {
       "ID": "Collect_Spores",
@@ -12194,7 +12199,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 13061
+      "UsersEstimate": 13062
     },
     {
       "ID": "Collector",
@@ -12202,7 +12207,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     },
     {
       "ID": "Cultured",
@@ -12210,7 +12215,7 @@
       "Name": "Cultured",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 13061
+      "UsersEstimate": 13062
     },
     {
       "ID": "Daily_Dose",
@@ -12218,7 +12223,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8707
+      "UsersEstimate": 8708
     },
     {
       "ID": "Diabolical",
@@ -12234,7 +12239,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15622
+      "UsersEstimate": 15623
     },
     {
       "ID": "Dont_Need_These",
@@ -12250,7 +12255,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     },
     {
       "ID": "Efficient",
@@ -12258,7 +12263,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16134
+      "UsersEstimate": 16135
     },
     {
       "ID": "Escape_Artist",
@@ -12282,7 +12287,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13829
+      "UsersEstimate": 13830
     },
     {
       "ID": "GB_In_Training",
@@ -12362,7 +12367,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6402
+      "UsersEstimate": 6403
     },
     {
       "ID": "Reckless",
@@ -12426,7 +12431,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "Solo_Capture",
@@ -12434,7 +12439,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8451
+      "UsersEstimate": 8452
     },
     {
       "ID": "Stunner",
@@ -12442,7 +12447,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6402
+      "UsersEstimate": 6403
     },
     {
       "ID": "Stylish",
@@ -12474,7 +12479,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 13573
+      "UsersEstimate": 13574
     },
     {
       "ID": "Teamwork",
@@ -12482,7 +12487,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 11012
+      "UsersEstimate": 11013
     },
     {
       "ID": "Terrifying",
@@ -12506,7 +12511,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10756
+      "UsersEstimate": 10757
     },
     {
       "ID": "Tobins_Prodigy",
@@ -12553,7 +12558,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25610,
+      "Progressed": 25611,
       "Completed": 54
     }
   ],
@@ -12561,8 +12566,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-04T21:58:55.2667263+00:00",
-  "LastChanged_Achievements": "2023-09-05T17:06:02.0479564+00:00",
+  "LastChanged_Achievements": "2023-09-05T18:07:25.9839691+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-05T16:59:50.101282+00:00",
-  "LastUpdate_Achievements": "2023-09-05T17:06:02.0480516+00:00"
+  "LastUpdate_Ratings": "2023-09-05T18:00:45.6085503+00:00",
+  "LastUpdate_Achievements": "2023-09-05T18:07:25.9841001+00:00"
 }
