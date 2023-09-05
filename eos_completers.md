@@ -32,7 +32,7 @@
 | 30 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.09% |
 | 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.93% |
+| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.92% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
@@ -82,8 +82,8 @@
 | 80 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 81 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.57% |
 | 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
-| 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.53% |
-| 84 | [Lamentum](games/l/lamentum.md) | 2.52% |
+| 83 | [Lamentum](games/l/lamentum.md) | 2.52% |
+| 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.52% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.44% |
@@ -144,8 +144,8 @@
 | 141 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
 | 143 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
 | 144 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
-| 144 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.58% |
-| 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
+| 145 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.57% |
+| 145 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.57% |
 | 147 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 148 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
 | 148 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
