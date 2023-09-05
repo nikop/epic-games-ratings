@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 3.00% | ~414 |
 | Good | 3.00% | ~414 |
 | Just | 3.00% | ~414 |
+| Keystone | 3.00% | ~414 |
 | Learned | 3.00% | ~414 |
 | Mason | 3.00% | ~414 |
 | Noble | 3.00% | ~414 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 2.00% | ~276 |
 | Fountainhead | 2.00% | ~276 |
 | Great | 2.00% | ~276 |
-| Keystone | 2.00% | ~276 |
 | Magnificent | 2.00% | ~276 |
 | Warrior | 2.00% | ~276 |
 | Wise | 2.00% | ~276 |
@@ -114,20 +114,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.80% | ~110 |
 | Ambition Victory | 0.80% | ~110 |
 | Double Victory | 0.80% | ~110 |
-| Bad Heir Day | 0.70% | ~96 |
-| Devout | 0.70% | ~96 |
-| Landowners | 0.70% | ~96 |
-| Riders | 0.70% | ~96 |
-| Adur Burzen-Mihr | 0.70% | ~96 |
-| Babylonia | 0.70% | ~96 |
-| Carthage | 0.70% | ~96 |
-| Enlightenment | 0.70% | ~96 |
-| Revelation | 0.70% | ~96 |
-| Kushite Cavalry | 0.70% | ~96 |
+| Bad Heir Day | 0.70% | ~97 |
+| Devout | 0.70% | ~97 |
+| Landowners | 0.70% | ~97 |
+| Riders | 0.70% | ~97 |
+| Adur Burzen-Mihr | 0.70% | ~97 |
+| Babylonia | 0.70% | ~97 |
+| Carthage | 0.70% | ~97 |
+| Enlightenment | 0.70% | ~97 |
+| Revelation | 0.70% | ~97 |
+| Kushite Cavalry | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Strong Difficulty | 0.60% | ~83 |
 | Hunters | 0.60% | ~83 |
 | Learn to Play 4 | 0.60% | ~83 |
+| One True Faith | 0.60% | ~83 |
 | Hittite Paganism | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
 | No Undo | 0.60% | ~83 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
 | Rome | 0.50% | ~69 |
-| One True Faith | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
 | All Nations | 0.50% | ~69 |
 | Carthage - Ox Hide | 0.40% | ~55 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,785 (Ranked 120)  
+Progressed: 13,786 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -441,7 +441,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-02 | 13,749 | 5 |
 | 2023-09-03 | 13,767 | 5 |
 | 2023-09-04 | 13,779 | 5 |
-| 2023-09-05 | 13,785 | 5 |
+| 2023-09-05 | 13,786 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

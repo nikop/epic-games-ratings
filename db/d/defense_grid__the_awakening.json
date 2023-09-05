@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1783,9 +1783,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 485467,
+  "EOS_Progressed": 485468,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16343,6 +16343,11 @@
       "Time": "2023-09-05T14:08:46.9616809+00:00",
       "NumProgressed": 485467,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T15:08:26.2538298+00:00",
+      "NumProgressed": 485468,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -16402,7 +16407,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 218460
+      "UsersEstimate": 218461
     },
     {
       "ID": "BURNBABYBURN",
@@ -16466,7 +16471,7 @@
       "Name": "Confident",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 199041
+      "UsersEstimate": 199042
     },
     {
       "ID": "CORECONTAINER",
@@ -16498,7 +16503,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 325263
+      "UsersEstimate": 325264
     },
     {
       "ID": "EXTERMINATOR",
@@ -16546,7 +16551,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 393228
+      "UsersEstimate": 393229
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -16554,7 +16559,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 203896
+      "UsersEstimate": 203897
     },
     {
       "ID": "FLURRY",
@@ -16610,7 +16615,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 155349
+      "UsersEstimate": 155350
     },
     {
       "ID": "GUNCRAZY",
@@ -16626,7 +16631,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 378664
+      "UsersEstimate": 378665
     },
     {
       "ID": "HEADTRAUMA",
@@ -16642,7 +16647,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 378664
+      "UsersEstimate": 378665
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -16666,7 +16671,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 310699
+      "UsersEstimate": 310700
     },
     {
       "ID": "KABOOM",
@@ -16698,7 +16703,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 140785
+      "UsersEstimate": 140786
     },
     {
       "ID": "MAJESTICPONY",
@@ -16834,7 +16839,7 @@
       "Name": "Power Builder",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 82529
+      "UsersEstimate": 82530
     },
     {
       "ID": "PYRRHICVICTORY",
@@ -16842,7 +16847,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 82529
+      "UsersEstimate": 82530
     },
     {
       "ID": "REGIONALDELUGE",
@@ -17049,15 +17054,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 485467,
+      "Progressed": 485468,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-08-25T08:01:10.3908538+00:00",
-  "LastChanged_Achievements": "2023-09-05T14:08:46.96168+00:00",
+  "LastChanged_Achievements": "2023-09-05T15:08:26.2538295+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:57.9385629+00:00",
-  "LastUpdate_Ratings": "2023-09-05T13:59:45.5529822+00:00",
-  "LastUpdate_Achievements": "2023-09-05T14:08:46.9619037+00:00"
+  "LastUpdate_Ratings": "2023-09-05T14:59:31.4114233+00:00",
+  "LastUpdate_Achievements": "2023-09-05T15:08:26.2539748+00:00"
 }

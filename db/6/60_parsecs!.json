@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 729,
+  "EOS_Progressed": 730,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -768,6 +768,11 @@
       "Time": "2023-09-05T12:06:51.184991+00:00",
       "NumProgressed": 729,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-05T15:07:25.4810325+00:00",
+      "NumProgressed": 730,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -803,7 +808,7 @@
       "Name": "All Seats Taken",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "Achievement_AxelInSpace",
@@ -851,7 +856,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "Achievement_DustToDust",
@@ -923,7 +928,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -939,7 +944,7 @@
       "Name": "Gold Medalist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Achievement_HandsFull",
@@ -955,7 +960,7 @@
       "Name": "Hello World",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1003,7 +1008,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -1035,7 +1040,7 @@
       "Name": "Non-Fiction",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Achievement_SecondLife",
@@ -1067,7 +1072,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1099,7 +1104,7 @@
       "Name": "Stay Cool",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -1115,7 +1120,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "Achievement_Traitor",
@@ -1130,7 +1135,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 729,
+      "Progressed": 730,
       "Completed": 1
     }
   ],
@@ -1138,8 +1143,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-09-05T14:07:31.3490689+00:00",
+  "LastChanged_Achievements": "2023-09-05T15:07:25.4810321+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:14.6436521+00:00",
-  "LastUpdate_Ratings": "2023-09-05T13:57:43.6307301+00:00",
-  "LastUpdate_Achievements": "2023-09-05T14:07:31.3491081+00:00"
+  "LastUpdate_Ratings": "2023-09-05T14:57:30.3439158+00:00",
+  "LastUpdate_Achievements": "2023-09-05T15:07:25.4810636+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 201,
+  "Ranking_Rating": 200,
   "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1292,9 +1292,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427823,
+  "EOS_Progressed": 427824,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -10802,6 +10802,11 @@
       "Time": "2023-09-05T14:07:04.9130998+00:00",
       "NumProgressed": 427823,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-09-05T15:06:59.2905126+00:00",
+      "NumProgressed": 427824,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 41,
@@ -10813,7 +10818,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64173
+      "UsersEstimate": 64174
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -10981,7 +10986,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406432
+      "UsersEstimate": 406433
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -11013,7 +11018,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295198
+      "UsersEstimate": 295199
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -11029,7 +11034,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342258
+      "UsersEstimate": 342259
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -11140,15 +11145,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427823,
+      "Progressed": 427824,
       "Completed": 530
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-01T20:58:33.5454622+00:00",
-  "LastChanged_Achievements": "2023-09-05T14:07:04.9130991+00:00",
+  "LastChanged_Achievements": "2023-09-05T15:06:59.290512+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:13.8179307+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:00:01.8797775+00:00",
-  "LastUpdate_Achievements": "2023-09-05T14:07:04.9131897+00:00"
+  "LastUpdate_Ratings": "2023-09-05T14:59:47.8958133+00:00",
+  "LastUpdate_Achievements": "2023-09-05T15:06:59.2905828+00:00"
 }

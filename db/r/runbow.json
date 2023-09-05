@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248977,
+  "EOS_Progressed": 248978,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
@@ -13259,6 +13259,11 @@
       "Time": "2023-09-05T12:03:31.8372717+00:00",
       "NumProgressed": 248977,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T15:03:44.7475302+00:00",
+      "NumProgressed": 248978,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -13374,7 +13379,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49795
+      "UsersEstimate": 49796
     },
     {
       "ID": "didYourTime",
@@ -13510,7 +13515,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124488
+      "UsersEstimate": 124489
     },
     {
       "ID": "notScared",
@@ -13637,7 +13642,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 248977,
+      "Progressed": 248978,
       "Completed": 4
     }
   ],
@@ -13645,8 +13650,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-05T14:03:26.8037713+00:00",
+  "LastChanged_Achievements": "2023-09-05T15:03:44.7475298+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.8400765+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:00:53.4472912+00:00",
-  "LastUpdate_Achievements": "2023-09-05T14:03:26.8039129+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:00:37.1250575+00:00",
+  "LastUpdate_Achievements": "2023-09-05T15:03:44.7476185+00:00"
 }

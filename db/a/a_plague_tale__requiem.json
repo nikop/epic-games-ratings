@@ -386,9 +386,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12930,
+  "EOS_Progressed": 12931,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -7941,6 +7941,11 @@
       "Time": "2023-09-05T13:08:37.1438371+00:00",
       "NumProgressed": 12930,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-05T15:04:09.5626562+00:00",
+      "NumProgressed": 12931,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -7952,7 +7957,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11896
+      "UsersEstimate": 11897
     },
     {
       "ID": "ACH_02",
@@ -7968,7 +7973,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9568
+      "UsersEstimate": 9569
     },
     {
       "ID": "ACH_04",
@@ -7976,7 +7981,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 9051
+      "UsersEstimate": 9052
     },
     {
       "ID": "ACH_05",
@@ -7984,7 +7989,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 8792
+      "UsersEstimate": 8793
     },
     {
       "ID": "ACH_06",
@@ -7992,7 +7997,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8404
+      "UsersEstimate": 8405
     },
     {
       "ID": "ACH_07",
@@ -8008,7 +8013,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7887
+      "UsersEstimate": 7888
     },
     {
       "ID": "ACH_09",
@@ -8016,7 +8021,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7499
+      "UsersEstimate": 7500
     },
     {
       "ID": "ACH_10",
@@ -8072,7 +8077,7 @@
       "Name": "King Hugo",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3232
+      "UsersEstimate": 3233
     },
     {
       "ID": "ACH_17",
@@ -8080,7 +8085,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ACH_18",
@@ -8096,7 +8101,7 @@
       "Name": "Ornithologist",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH_20",
@@ -8231,7 +8236,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12930,
+      "Progressed": 12931,
       "Completed": 45
     }
   ],
@@ -8239,8 +8244,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-08-31T16:58:27.1568768+00:00",
-  "LastChanged_Achievements": "2023-09-05T14:04:11.6277309+00:00",
+  "LastChanged_Achievements": "2023-09-05T15:04:09.5626554+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:15.9544425+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:01:03.043369+00:00",
-  "LastUpdate_Achievements": "2023-09-05T14:04:11.6278458+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:00:48.4028504+00:00",
+  "LastUpdate_Achievements": "2023-09-05T15:04:09.5627101+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,686 |
-| That's a Grand Army | 3.00% | ~11,764 |
-| That is mine! | 3.00% | ~11,764 |
-| Victorious! | 3.00% | ~11,764 |
-| Brothers in Arms | 2.00% | ~7,843 |
-| That's a Grand Navy | 2.00% | ~7,843 |
-| Seriously?! | 2.00% | ~7,843 |
-| Cold War | 1.00% | ~3,921 |
-| Defender of the Faith | 1.00% | ~3,921 |
-| For the Glory | 1.00% | ~3,921 |
-| It's all about the money | 1.00% | ~3,921 |
-| True Catholic | 1.00% | ~3,921 |
-| Respected | 0.90% | ~3,529 |
-| The Princess is in this Castle | 0.90% | ~3,529 |
-| It's all about luck | 0.80% | ~3,137 |
-| Truly Divine Ruler | 0.80% | ~3,137 |
-| Blockader | 0.70% | ~2,745 |
-| Double the Love | 0.70% | ~2,745 |
-| Royal Authority | 0.70% | ~2,745 |
-| Total Control | 0.70% | ~2,745 |
+| Until death do us apart | 4.00% | ~15,689 |
+| That's a Grand Army | 3.00% | ~11,767 |
+| That is mine! | 3.00% | ~11,767 |
+| Victorious! | 3.00% | ~11,767 |
+| Brothers in Arms | 2.00% | ~7,844 |
+| That's a Grand Navy | 2.00% | ~7,844 |
+| Seriously?! | 2.00% | ~7,844 |
+| Cold War | 1.00% | ~3,922 |
+| Defender of the Faith | 1.00% | ~3,922 |
+| For the Glory | 1.00% | ~3,922 |
+| It's all about the money | 1.00% | ~3,922 |
+| True Catholic | 1.00% | ~3,922 |
+| Respected | 0.90% | ~3,530 |
+| The Princess is in this Castle | 0.90% | ~3,530 |
+| It's all about luck | 0.80% | ~3,138 |
+| Truly Divine Ruler | 0.80% | ~3,138 |
+| Blockader | 0.70% | ~2,746 |
+| Double the Love | 0.70% | ~2,746 |
+| Royal Authority | 0.70% | ~2,746 |
+| Total Control | 0.70% | ~2,746 |
 | My armies are invincible! | 0.60% | ~2,353 |
 | Agressive Expander | 0.50% | ~1,961 |
 | City of Cities | 0.50% | ~1,961 |
@@ -34,17 +34,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | Gentle Persuasion | 0.40% | ~1,569 |
 | Queen of Conquest | 0.40% | ~1,569 |
 | This navy can take it all | 0.40% | ~1,569 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,176 |
-| Bright Spark | 0.30% | ~1,176 |
-| Down Under | 0.30% | ~1,176 |
-| The Emperors new clothes | 0.30% | ~1,176 |
-| Factionalism | 0.30% | ~1,176 |
-| A Golden Empire | 0.30% | ~1,176 |
-| Isn't this the way to India? | 0.30% | ~1,176 |
-| Market Control | 0.30% | ~1,176 |
-| Populists in Government | 0.30% | ~1,176 |
-| The Five Colonies | 0.30% | ~1,176 |
-| Trustworthy | 0.30% | ~1,176 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,177 |
+| Bright Spark | 0.30% | ~1,177 |
+| Down Under | 0.30% | ~1,177 |
+| The Emperors new clothes | 0.30% | ~1,177 |
+| Factionalism | 0.30% | ~1,177 |
+| A Golden Empire | 0.30% | ~1,177 |
+| Isn't this the way to India? | 0.30% | ~1,177 |
+| Market Control | 0.30% | ~1,177 |
+| Populists in Government | 0.30% | ~1,177 |
+| The Five Colonies | 0.30% | ~1,177 |
+| Trustworthy | 0.30% | ~1,177 |
 | All belongs to Mother Russia | 0.20% | ~784 |
 | At every continent | 0.20% | ~784 |
 | Electable! | 0.20% | ~784 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392,144 (Ranked 40)  
+Progressed: 392,219 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -499,10 +499,10 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-02 | 388,066 | 0 |
 | 2023-09-03 | 390,095 | 0 |
 | 2023-09-04 | 391,485 | 0 |
-| 2023-09-05 | 392,144 | 0 |
+| 2023-09-05 | 392,219 | 0 |
 ## Awards
 Max (Educational): 5,930  (Ranked 58)  
-Sum: 48,835 (Ranked 26)  
+Sum: 48,845 (Ranked 26)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -513,7 +513,7 @@ Diff (max vs sum): 32
 | This game has Diverse Characters | 5,598 |
 | This game is Relaxing | 5,450 |
 | This game has Competitive Players | 5,320 |
-| This game has Amazing Storytelling | 4,999 |
+| This game has Amazing Storytelling | 5,009 |
 | This game has Amazing Characters | 4,621 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -750,4 +750,4 @@ Diff (max vs sum): 32
 | 2023-09-02 | 4.68 | - | 5,895 | 48,527 |
 | 2023-09-03 | 4.68 | - | 5,909 | 48,651 |
 | 2023-09-04 | 4.68 | - | 5,930 | 48,773 |
-| 2023-09-05 | 4.68 | - | 5,930 | 48,835 |
+| 2023-09-05 | 4.68 | - | 5,930 | 48,845 |

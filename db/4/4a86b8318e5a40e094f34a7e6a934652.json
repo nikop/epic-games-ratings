@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -497,9 +497,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "TAKE_LEECH",
@@ -528,8 +528,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-05T14:03:32.10346+00:00",
+  "LastChanged_Achievements": "2023-09-05T15:03:48.9568597+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-05T13:58:10.8290865+00:00",
-  "LastUpdate_Achievements": "2023-09-05T14:03:32.1034817+00:00"
+  "LastUpdate_Ratings": "2023-09-05T14:57:57.4865961+00:00",
+  "LastUpdate_Achievements": "2023-09-05T15:03:48.956874+00:00"
 }

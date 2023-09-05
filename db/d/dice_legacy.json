@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -46,7 +46,7 @@
   "Tags": [],
   "EOS_Progressed": 1024,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1721,9 +1721,9 @@
       "ID": "RUIN_CLEAR",
       "SetID": "6ohhfoc",
       "Name": "Hidden Secrets",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 51
     },
     {
       "ID": "SUMMON_BOSS",
@@ -1882,8 +1882,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-05T14:05:35.4088473+00:00",
+  "LastChanged_Achievements": "2023-09-05T15:05:31.1641174+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.3169592+00:00",
-  "LastUpdate_Ratings": "2023-09-05T13:58:55.3809353+00:00",
-  "LastUpdate_Achievements": "2023-09-05T14:05:35.4089232+00:00"
+  "LastUpdate_Ratings": "2023-09-05T14:58:39.3910198+00:00",
+  "LastUpdate_Achievements": "2023-09-05T15:05:31.1641546+00:00"
 }

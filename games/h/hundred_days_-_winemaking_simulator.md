@@ -6,17 +6,17 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 34.00% | ~470 |
-| It's a good start | 9.00% | ~124 |
-| Bonjour! | 6.00% | ~83 |
-| Quack | 6.00% | ~83 |
-| The Assistant | 5.00% | ~69 |
-| The Blue Marl | 5.00% | ~69 |
-| A long journey | 5.00% | ~69 |
-| Ostinata | 4.00% | ~55 |
-| Better than nothing? | 4.00% | ~55 |
-| Big Money | 3.00% | ~41 |
-| Surprise of Langhe | 3.00% | ~41 |
+| Bye Bye | 33.00% | ~460 |
+| It's a good start | 9.00% | ~125 |
+| Bonjour! | 6.00% | ~84 |
+| Quack | 6.00% | ~84 |
+| The Assistant | 5.00% | ~70 |
+| The Blue Marl | 5.00% | ~70 |
+| A long journey | 5.00% | ~70 |
+| Ostinata | 4.00% | ~56 |
+| Better than nothing? | 4.00% | ~56 |
+| Big Money | 3.00% | ~42 |
+| Surprise of Langhe | 3.00% | ~42 |
 | A lot of space | 2.00% | ~28 |
 | A big garage | 2.00% | ~28 |
 | Millionaire | 2.00% | ~28 |
@@ -29,16 +29,16 @@ Number of Ratings: 7,669  (23.09.2022)
 | King of Langhe | 1.00% | ~14 |
 | Gem of Monferrato | 1.00% | ~14 |
 | Very Important Winemaker | 1.00% | ~14 |
-| Treasure of Roero | 0.70% | ~10 |
+| Treasure of Roero | 0.60% | ~8 |
 | Knight of Langhe | 0.50% | ~7 |
+| King of red wines | 0.40% | ~6 |
 | Sales Expert | 0.40% | ~6 |
-| King of red wines | 0.30% | ~4 |
 | King of white wines | 0.20% | ~3 |
 | Big deals | 0.20% | ~3 |
 | Master Winemaker | 0.20% | ~3 |
 | Unsuitable Terroir | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,382 (Ranked 192)  
+Progressed: 1,394 (Ranked 191)  
 Completed: 3 (0.22%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 3 (0.22%) (Ranked 191)
 | 2023-09-02 | 872 | 2 |
 | 2023-09-03 | 1,127 | 3 |
 | 2023-09-04 | 1,303 | 3 |
-| 2023-09-05 | 1,382 | 3 |
+| 2023-09-05 | 1,394 | 3 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,458 (Ranked 224)  

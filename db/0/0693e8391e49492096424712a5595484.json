@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -1628,9 +1628,9 @@
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "BearSword",
@@ -1740,9 +1740,9 @@
       "ID": "HastrmanAcorn",
       "SetID": "db30heh",
       "Name": "Do Not Disturb",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 214
+      "UsersEstimate": 218
     },
     {
       "ID": "HastrmanAmanita",
@@ -1916,9 +1916,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 202
     },
     {
       "ID": "SwordMoneyBag",
@@ -1947,8 +1947,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-05T14:07:42.2997804+00:00",
+  "LastChanged_Achievements": "2023-09-05T15:07:36.5157328+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:22.664364+00:00",
-  "LastUpdate_Ratings": "2023-09-05T13:57:27.215904+00:00",
-  "LastUpdate_Achievements": "2023-09-05T14:07:42.2998337+00:00"
+  "LastUpdate_Ratings": "2023-09-05T14:57:17.8577568+00:00",
+  "LastUpdate_Achievements": "2023-09-05T15:07:36.51577+00:00"
 }

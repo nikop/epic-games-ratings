@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538810,
+  "EOS_Progressed": 1538815,
   "EOS_Completed": 676,
-  "EOS_NewPlayers": 1200,
+  "EOS_NewPlayers": 1198,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15852,6 +15852,11 @@
       "Time": "2023-09-05T14:07:27.053939+00:00",
       "NumProgressed": 1538810,
       "NumCompleted": 676
+    },
+    {
+      "Time": "2023-09-05T15:07:21.1214989+00:00",
+      "NumProgressed": 1538815,
+      "NumCompleted": 676
     }
   ],
   "TotalAchievements": 20,
@@ -15959,7 +15964,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153881
+      "UsersEstimate": 153882
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -16007,7 +16012,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76940
+      "UsersEstimate": 76941
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -16022,15 +16027,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1538810,
+      "Progressed": 1538815,
       "Completed": 676
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-09-05T14:07:27.0539384+00:00",
+  "LastChanged_Achievements": "2023-09-05T15:07:21.1214984+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:36.7392026+00:00",
-  "LastUpdate_Ratings": "2023-09-05T14:01:44.6867037+00:00",
-  "LastUpdate_Achievements": "2023-09-05T14:07:27.0540733+00:00"
+  "LastUpdate_Ratings": "2023-09-05T15:01:23.9846569+00:00",
+  "LastUpdate_Achievements": "2023-09-05T15:07:21.1215824+00:00"
 }

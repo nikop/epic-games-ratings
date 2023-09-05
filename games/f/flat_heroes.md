@@ -12,7 +12,7 @@
 | Hit That Ball | 40.00% | ~136 |
 | Air Slash | 38.00% | ~130 |
 | Eat That Apple | 30.00% | ~102 |
-| Tornado Chaser | 17.00% | ~58 |
+| Tornado Chaser | 18.00% | ~61 |
 | Bomberman | 12.00% | ~41 |
 | Bubble Party | 9.00% | ~31 |
 | The Colossus | 9.00% | ~31 |
