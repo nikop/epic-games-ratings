@@ -664,9 +664,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 521022,
+  "EOS_Progressed": 521024,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2027,
+  "EOS_NewPlayers": 2022,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15819,6 +15819,11 @@
       "Time": "2023-09-05T05:05:44.8559598+00:00",
       "NumProgressed": 521022,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-05T06:04:57.2424168+00:00",
+      "NumProgressed": 521024,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -15934,7 +15939,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78153
+      "UsersEstimate": 78154
     },
     {
       "ID": "DogEatDog",
@@ -15982,7 +15987,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 213619
+      "UsersEstimate": 213620
     },
     {
       "ID": "HoldingYourOwn",
@@ -16078,7 +16083,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 395977
+      "UsersEstimate": 395978
     },
     {
       "ID": "ProPlayer",
@@ -16182,14 +16187,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57312
+      "UsersEstimate": 57313
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 521022,
+      "Progressed": 521024,
       "Completed": 2
     }
   ],
@@ -16197,8 +16202,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-09-04T01:42:22.9101679+00:00",
-  "LastChanged_Achievements": "2023-09-05T05:05:44.8559591+00:00",
+  "LastChanged_Achievements": "2023-09-05T06:04:57.2424164+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.1716418+00:00",
-  "LastUpdate_Ratings": "2023-09-05T05:01:17.3535058+00:00",
-  "LastUpdate_Achievements": "2023-09-05T05:05:44.8562128+00:00"
+  "LastUpdate_Ratings": "2023-09-05T06:00:04.8250034+00:00",
+  "LastUpdate_Achievements": "2023-09-05T06:04:57.2425431+00:00"
 }

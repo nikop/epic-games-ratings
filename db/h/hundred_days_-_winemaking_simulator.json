@@ -964,9 +964,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1342,
+  "EOS_Progressed": 1344,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1337,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1664,6 +1664,11 @@
       "Time": "2023-09-05T05:09:10.5321489+00:00",
       "NumProgressed": 1342,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-05T06:08:21.818899+00:00",
+      "NumProgressed": 1344,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1706,9 +1711,9 @@
       "ID": "a_15",
       "SetID": "daiie3o",
       "Name": "Big Money",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "a_16",
@@ -1724,7 +1729,7 @@
       "Name": "Bye Bye",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "a_19",
@@ -1802,9 +1807,9 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "a_3",
@@ -1923,7 +1928,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1342,
+      "Progressed": 1344,
       "Completed": 3
     }
   ],
@@ -1931,8 +1936,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-05T05:09:10.5321482+00:00",
+  "LastChanged_Achievements": "2023-09-05T06:08:21.8188985+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-05T04:58:46.4384814+00:00",
-  "LastUpdate_Achievements": "2023-09-05T05:09:10.532181+00:00"
+  "LastUpdate_Ratings": "2023-09-05T05:58:03.9430261+00:00",
+  "LastUpdate_Achievements": "2023-09-05T06:08:21.8189259+00:00"
 }

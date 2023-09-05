@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabbage in the Baggage | 31.00% | ~11 |
-| Greengrocer | 29.00% | ~10 |
-| Seven Days of Endless Adventure | 23.00% | ~8 |
+| Greengrocer | 28.00% | ~10 |
+| Seven Days of Endless Adventure | 22.00% | ~8 |
 | Masu-ter Angler | 17.00% | ~6 |
 | Go-Getter | 17.00% | ~6 |
 | River Cleaner | 17.00% | ~6 |
@@ -19,11 +19,11 @@
 | Did Someone Order Ramen? | 11.00% | ~4 |
 | Ptera Pal | 11.00% | ~4 |
 | DJ Superstar | 11.00% | ~4 |
-| My Fair Ladybug | 9.00% | ~3 |
-| The Holly Grail | 9.00% | ~3 |
-| That Was a Snap! | 9.00% | ~3 |
-| Top-Notch Journalist | 9.00% | ~3 |
-| Asso Bridge Enthusiast | 9.00% | ~3 |
+| My Fair Ladybug | 8.00% | ~3 |
+| The Holly Grail | 8.00% | ~3 |
+| That Was a Snap! | 8.00% | ~3 |
+| Top-Notch Journalist | 8.00% | ~3 |
+| Asso Bridge Enthusiast | 8.00% | ~3 |
 | A New Time | 6.00% | ~2 |
 | Beetle Savant | 6.00% | ~2 |
 | Cicada Connoisseur | 6.00% | ~2 |
@@ -51,7 +51,7 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 412)  
+Progressed: 36 (Ranked 410)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-22 | 33 | 0 |
 | 2023-08-28 | 34 | 0 |
 | 2023-08-29 | 35 | 0 |
+| 2023-09-05 | 36 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1712,9 +1712,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 57265,
+  "EOS_Progressed": 57266,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16737,6 +16737,11 @@
       "Time": "2023-09-05T05:07:09.7843265+00:00",
       "NumProgressed": 57265,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-05T06:06:05.5473819+00:00",
+      "NumProgressed": 57266,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -17036,7 +17041,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 36077
+      "UsersEstimate": 36078
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -17164,7 +17169,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -17219,15 +17224,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 57265,
+      "Progressed": 57266,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-04T16:59:47.0693692+00:00",
-  "LastChanged_Achievements": "2023-09-05T05:07:09.7843257+00:00",
+  "LastChanged_Achievements": "2023-09-05T06:06:05.5473814+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:08.9394313+00:00",
-  "LastUpdate_Ratings": "2023-09-05T04:59:39.1751603+00:00",
-  "LastUpdate_Achievements": "2023-09-05T05:07:09.7844808+00:00"
+  "LastUpdate_Ratings": "2023-09-05T05:58:48.6414704+00:00",
+  "LastUpdate_Achievements": "2023-09-05T06:06:05.5475236+00:00"
 }

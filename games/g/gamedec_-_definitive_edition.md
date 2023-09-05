@@ -50,8 +50,8 @@ Number of Ratings: 33  (23.09.2022)
 | Enjoy these little moments | 0.50% | ~1,225 |
 | Who wouldn't love a troll? | 0.50% | ~1,225 |
 | Irondec | 0.40% | ~980 |
+| LET ME OUT! | 0.40% | ~980 |
 | Un-bear-able | 0.40% | ~980 |
-| LET ME OUT! | 0.30% | ~735 |
 | Well-deserved reunion | 0.30% | ~735 |
 | Breaking the chains | 0.20% | ~490 |
 | Aren't you overthinking? | 0.20% | ~490 |

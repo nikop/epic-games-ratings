@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -500,9 +500,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3583,
+  "EOS_Progressed": 3585,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6490,6 +6490,11 @@
       "Time": "2023-09-04T21:06:34.1102062+00:00",
       "NumProgressed": 3583,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-05T06:08:15.335522+00:00",
+      "NumProgressed": 3585,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6501,7 +6506,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6509,7 +6514,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6557,7 +6562,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6565,7 +6570,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6581,7 +6586,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1649
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6637,7 +6642,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6661,7 +6666,7 @@
       "Name": "Precision Is Key",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -6669,7 +6674,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6693,7 +6698,7 @@
       "Name": "My Little Friend",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -6709,7 +6714,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6733,7 +6738,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6741,7 +6746,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6749,7 +6754,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6757,7 +6762,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6781,7 +6786,7 @@
       "Name": "Burn after reading",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -6789,7 +6794,7 @@
       "Name": "Souvenir hunter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -6813,7 +6818,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6837,7 +6842,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6869,7 +6874,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1003
+      "UsersEstimate": 1004
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6877,7 +6882,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -6901,7 +6906,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -6909,7 +6914,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7068,13 +7073,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3534,
+      "Progressed": 3536,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3583,
+      "Progressed": 3585,
       "Completed": 10
     }
   ],
@@ -7082,8 +7087,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-05T05:08:22.0218588+00:00",
+  "LastChanged_Achievements": "2023-09-05T06:08:15.3355216+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-05T04:57:37.3968803+00:00",
-  "LastUpdate_Achievements": "2023-09-05T05:08:22.0219814+00:00"
+  "LastUpdate_Ratings": "2023-09-05T05:57:13.4007576+00:00",
+  "LastUpdate_Achievements": "2023-09-05T06:08:15.3356292+00:00"
 }
