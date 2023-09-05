@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 279,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 127,
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10042,
+  "EOS_Progressed": 10044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4327,6 +4327,11 @@
       "Time": "2023-09-04T23:05:25.5704618+00:00",
       "NumProgressed": 10042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-05T00:05:44.2558053+00:00",
+      "NumProgressed": 10044,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4387,7 +4392,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "16",
@@ -4403,7 +4408,7 @@
       "Name": "Spore Taste",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "18",
@@ -4571,14 +4576,14 @@
       "Name": "Impossible Objects",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10042,
+      "Progressed": 10044,
       "Completed": 0
     }
   ],
@@ -4586,8 +4591,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-04T17:00:40.9663934+00:00",
-  "LastChanged_Achievements": "2023-09-04T23:05:25.5704613+00:00",
+  "LastChanged_Achievements": "2023-09-05T00:05:44.2558049+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-04T22:59:58.9443367+00:00",
-  "LastUpdate_Achievements": "2023-09-04T23:05:25.5705086+00:00"
+  "LastUpdate_Ratings": "2023-09-05T00:00:22.0409636+00:00",
+  "LastUpdate_Achievements": "2023-09-05T00:05:44.2558452+00:00"
 }

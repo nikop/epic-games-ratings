@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6370,10 +6370,10 @@
       "Count": 3395
     }
   ],
-  "EOS_Progressed": 227081,
+  "EOS_Progressed": 227097,
   "EOS_Completed": 2250,
-  "EOS_NewPlayers": 1286,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 1296,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -21515,6 +21515,11 @@
       "Time": "2023-09-04T23:05:56.1219206+00:00",
       "NumProgressed": 227081,
       "NumCompleted": 2250
+    },
+    {
+      "Time": "2023-09-05T00:06:17.6397584+00:00",
+      "NumProgressed": 227097,
+      "NumCompleted": 2250
     }
   ],
   "TotalAchievements": 520,
@@ -21526,7 +21531,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "objective_completed_10",
@@ -25685,21 +25690,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193355,
+      "Progressed": 193371,
       "Completed": 3394
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227081,
+      "Progressed": 227097,
       "Completed": 2250
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-04T22:58:37.7534744+00:00",
-  "LastChanged_Achievements": "2023-09-04T23:05:56.1219197+00:00",
+  "LastChanged_Achievements": "2023-09-05T00:06:17.6397577+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-04T22:58:37.753475+00:00",
-  "LastUpdate_Achievements": "2023-09-04T23:05:56.1250283+00:00"
+  "LastUpdate_Ratings": "2023-09-04T23:58:46.5181689+00:00",
+  "LastUpdate_Achievements": "2023-09-05T00:06:17.6421877+00:00"
 }

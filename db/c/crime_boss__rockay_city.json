@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3294,9 +3294,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72663,
+  "EOS_Progressed": 72664,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17409,6 +17409,11 @@
       "Time": "2023-09-04T23:03:54.492902+00:00",
       "NumProgressed": 72663,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-05T00:03:54.8017774+00:00",
+      "NumProgressed": 72664,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17428,7 +17433,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 21072
+      "UsersEstimate": 21073
     },
     {
       "ID": "ACH_0012",
@@ -17564,7 +17569,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47231
+      "UsersEstimate": 47232
     },
     {
       "ID": "ACH_0210",
@@ -17588,7 +17593,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34878
+      "UsersEstimate": 34879
     },
     {
       "ID": "ACH_0300",
@@ -17644,7 +17649,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24705
+      "UsersEstimate": 24706
     },
     {
       "ID": "ACH_0430",
@@ -17715,22 +17720,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72663,
+      "Progressed": 72664,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 1010,
-      "Completed": 1010
+      "Progressed": 1011,
+      "Completed": 1011
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-04T16:01:23.9644464+00:00",
-  "LastChanged_Achievements": "2023-09-04T23:03:54.4929015+00:00",
+  "LastChanged_Achievements": "2023-09-05T00:03:54.8017768+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-04T23:00:48.8303056+00:00",
-  "LastUpdate_Achievements": "2023-09-04T23:03:54.4930129+00:00"
+  "LastUpdate_Ratings": "2023-09-05T00:01:18.4117034+00:00",
+  "LastUpdate_Achievements": "2023-09-05T00:03:54.8018701+00:00"
 }

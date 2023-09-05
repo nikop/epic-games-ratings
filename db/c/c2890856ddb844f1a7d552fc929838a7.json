@@ -1149,17 +1149,17 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 289
     },
     {
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 193
+      "UsersEstimate": 200
     },
     {
       "ID": "AC11",
@@ -1454,8 +1454,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-04T03:01:40.031195+00:00",
-  "LastChanged_Achievements": "2023-09-04T23:07:50.8531872+00:00",
+  "LastChanged_Achievements": "2023-09-05T00:08:21.1743182+00:00",
   "LastUpdate_AppInfo": "2023-08-29T18:57:21.35462+00:00",
-  "LastUpdate_Ratings": "2023-09-04T22:57:14.2852562+00:00",
-  "LastUpdate_Achievements": "2023-09-04T23:07:50.8532337+00:00"
+  "LastUpdate_Ratings": "2023-09-04T23:57:11.8274701+00:00",
+  "LastUpdate_Achievements": "2023-09-05T00:08:21.1743539+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 260,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -9855,10 +9855,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 27207,
       "NumberOfAwardsMax": 3241
+    },
+    {
+      "Time": "2023-09-04T23:58:54.7675964+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 27221,
+      "NumberOfAwardsMax": 3241
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27207,
+  "NumberOfAwards": 27221,
   "NumberOfAwardsMax": 3241,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9878,7 +9884,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 3235
+      "Count": 3240
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9890,7 +9896,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2847
+      "Count": 2855
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9908,7 +9914,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2819
+      "Count": 2820
     },
     {
       "Text": "This game has a Competitive Community",
@@ -9946,8 +9952,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-09-04T19:58:33.6756727+00:00",
+  "LastChanged": "2023-09-04T23:58:54.7675962+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:36.2461344+00:00",
-  "LastUpdate_Ratings": "2023-09-04T22:58:46.7614341+00:00",
-  "LastUpdate_Achievements": "2023-09-04T23:06:15.1590833+00:00"
+  "LastUpdate_Ratings": "2023-09-04T23:58:54.7675968+00:00",
+  "LastUpdate_Achievements": "2023-09-05T00:06:37.7954916+00:00"
 }

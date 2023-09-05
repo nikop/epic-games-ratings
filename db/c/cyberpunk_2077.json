@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -11447,10 +11447,10 @@
       "Count": 5782
     }
   ],
-  "EOS_Progressed": 874617,
-  "EOS_Completed": 2059,
-  "EOS_NewPlayers": 1285,
-  "EOS_NewCompleters": 25,
+  "EOS_Progressed": 874619,
+  "EOS_Completed": 2060,
+  "EOS_NewPlayers": 1275,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -26742,6 +26742,11 @@
       "Time": "2023-09-04T23:04:43.5254808+00:00",
       "NumProgressed": 874617,
       "NumCompleted": 2059
+    },
+    {
+      "Time": "2023-09-05T00:04:57.9690264+00:00",
+      "NumProgressed": 874619,
+      "NumCompleted": 2060
     }
   ],
   "TotalAchievements": 44,
@@ -26793,7 +26798,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122446
+      "UsersEstimate": 122447
     },
     {
       "ID": "Fortuneteller",
@@ -26841,7 +26846,7 @@
       "Name": "Master Crafter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122446
+      "UsersEstimate": 122447
     },
     {
       "ID": "IAmMaxTac",
@@ -26849,7 +26854,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 122446
+      "UsersEstimate": 122447
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -26897,7 +26902,7 @@
       "Name": "Breathtaking",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 69969
+      "UsersEstimate": 69970
     },
     {
       "ID": "NoMansLand",
@@ -26929,7 +26934,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 253639
+      "UsersEstimate": 253640
     },
     {
       "ID": "Specialist",
@@ -26969,7 +26974,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 603486
+      "UsersEstimate": 603487
     },
     {
       "ID": "TheHermit",
@@ -26977,7 +26982,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 218654
+      "UsersEstimate": 218655
     },
     {
       "ID": "TheHightPriestess",
@@ -26993,7 +26998,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 306116
+      "UsersEstimate": 306117
     },
     {
       "ID": "TheStar",
@@ -27073,7 +27078,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122446
+      "UsersEstimate": 122447
     },
     {
       "ID": "VForVendetta",
@@ -27104,21 +27109,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 874617,
-      "Completed": 2059
+      "Progressed": 874619,
+      "Completed": 2060
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 3240,
-      "Completed": 3240
+      "Progressed": 3242,
+      "Completed": 3242
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-04T18:59:01.0871707+00:00",
-  "LastChanged_Achievements": "2023-09-04T23:04:43.5254803+00:00",
+  "LastChanged_Achievements": "2023-09-05T00:04:57.969026+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.2017845+00:00",
-  "LastUpdate_Ratings": "2023-09-04T22:58:39.5413341+00:00",
-  "LastUpdate_Achievements": "2023-09-04T23:04:43.5256072+00:00"
+  "LastUpdate_Ratings": "2023-09-04T23:58:48.6769859+00:00",
+  "LastUpdate_Achievements": "2023-09-05T00:04:57.9691348+00:00"
 }

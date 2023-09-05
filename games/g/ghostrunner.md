@@ -6,28 +6,28 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~12,709 |
-| Sword Runner | 62.00% | ~10,368 |
-| Running out of breath | 54.00% | ~9,030 |
-| Wallrunner | 54.00% | ~9,030 |
-| Homerunner | 45.00% | ~7,525 |
-| Out of order | 45.00% | ~7,525 |
-| I call it luck | 44.00% | ~7,358 |
-| Where are my Keys? | 41.00% | ~6,856 |
+| Longrunner | 76.00% | ~12,711 |
+| Sword Runner | 62.00% | ~10,370 |
+| Running out of breath | 54.00% | ~9,032 |
+| Wallrunner | 54.00% | ~9,032 |
+| Homerunner | 45.00% | ~7,526 |
+| Out of order | 45.00% | ~7,526 |
+| I call it luck | 44.00% | ~7,359 |
+| Where are my Keys? | 41.00% | ~6,857 |
 | Back to hell | 37.00% | ~6,188 |
-| Perfection | 32.00% | ~5,351 |
-| Why not both | 30.00% | ~5,017 |
+| Perfection | 32.00% | ~5,352 |
+| Why not both | 30.00% | ~5,018 |
 | Sword to a gunfight | 29.00% | ~4,850 |
 | Upgrades not mandatory | 29.00% | ~4,850 |
-| Artificial selection | 28.00% | ~4,682 |
-| Control freak | 28.00% | ~4,682 |
-| Running Wild | 27.00% | ~4,515 |
+| Artificial selection | 28.00% | ~4,683 |
+| Control freak | 28.00% | ~4,683 |
+| Running Wild | 27.00% | ~4,516 |
 | Finish line | 26.00% | ~4,348 |
-| Unstoppable force | 23.00% | ~3,846 |
-| Wave of mutilation | 22.00% | ~3,679 |
+| Unstoppable force | 23.00% | ~3,847 |
+| Wave of mutilation | 22.00% | ~3,680 |
 | Can't Run Can't Hide | 17.00% | ~2,843 |
 | R is for Running | 16.00% | ~2,676 |
-| Dead in the air | 15.00% | ~2,508 |
+| Dead in the air | 15.00% | ~2,509 |
 | Improvise, adapt, overrun | 13.00% | ~2,174 |
 | Pre-empative strike | 13.00% | ~2,174 |
 | Strike | 13.00% | ~2,174 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~67 |
 | Up Close And Personal | 0.40% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,723 (Ranked 115)  
+Progressed: 16,725 (Ranked 115)  
 Completed: 65 (0.39%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 65 (0.39%) (Ranked 164)
 | 2023-09-02 | 16,580 | 65 |
 | 2023-09-03 | 16,651 | 65 |
 | 2023-09-04 | 16,723 | 65 |
+| 2023-09-05 | 16,725 | 65 |
 ## Awards
 Max (Great Boss Battles): 487  (Ranked 202)  
 Sum: 680 (Ranked 281)  

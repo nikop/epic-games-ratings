@@ -6,57 +6,57 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~625,467 |
-| Escaped Asphodel | 80.00% | ~562,218 |
-| Arms Collector | 71.00% | ~498,968 |
-| Friends in High Places | 68.00% | ~477,885 |
-| Escaped Elysium | 66.00% | ~463,830 |
-| Chthonic Colleagues | 63.00% | ~442,746 |
-| Is There No Escape? | 52.00% | ~365,441 |
-| Death Dealer | 45.00% | ~316,247 |
-| Skelly Slayer | 42.00% | ~295,164 |
-| Well Stocked | 40.00% | ~281,109 |
-| Back to Work | 38.00% | ~267,053 |
-| Day-or-Night Trader | 37.00% | ~260,026 |
-| Blessed by the Gods | 37.00% | ~260,026 |
-| Urge to Sing | 36.00% | ~252,998 |
-| Blood Bound | 35.00% | ~245,970 |
-| Three-Headed Boy | 32.00% | ~224,887 |
-| River Denizens | 28.00% | ~196,776 |
-| Grown Close | 28.00% | ~196,776 |
-| Home Makeover | 27.00% | ~189,748 |
-| The Family Secret | 26.00% | ~182,721 |
-| Had to Happen | 25.00% | ~175,693 |
+| Escaped Tartarus | 89.00% | ~625,471 |
+| Escaped Asphodel | 80.00% | ~562,221 |
+| Arms Collector | 71.00% | ~498,971 |
+| Friends in High Places | 68.00% | ~477,888 |
+| Escaped Elysium | 66.00% | ~463,832 |
+| Chthonic Colleagues | 63.00% | ~442,749 |
+| Is There No Escape? | 52.00% | ~365,444 |
+| Death Dealer | 45.00% | ~316,249 |
+| Skelly Slayer | 42.00% | ~295,166 |
+| Well Stocked | 40.00% | ~281,110 |
+| Back to Work | 38.00% | ~267,055 |
+| Day-or-Night Trader | 37.00% | ~260,027 |
+| Blessed by the Gods | 37.00% | ~260,027 |
+| Urge to Sing | 36.00% | ~252,999 |
+| Blood Bound | 35.00% | ~245,972 |
+| Three-Headed Boy | 32.00% | ~224,888 |
+| River Denizens | 28.00% | ~196,777 |
+| Grown Close | 28.00% | ~196,777 |
+| Home Makeover | 27.00% | ~189,750 |
+| The Family Secret | 26.00% | ~182,722 |
+| Had to Happen | 25.00% | ~175,694 |
 | To Charon's Credit | 23.00% | ~161,638 |
 | Tools of the Architect | 23.00% | ~161,638 |
 | Master of Arms | 23.00% | ~161,638 |
-| Rare Collectible | 22.00% | ~154,610 |
-| Weapon of Fate | 21.00% | ~147,582 |
+| Rare Collectible | 22.00% | ~154,611 |
+| Weapon of Fate | 21.00% | ~147,583 |
 | Something From Everyone | 19.00% | ~133,527 |
-| Hold the Onions | 18.00% | ~126,499 |
-| Well Versed | 17.00% | ~119,471 |
+| Hold the Onions | 18.00% | ~126,500 |
+| Well Versed | 17.00% | ~119,472 |
 | War-God's Bloodlust | 15.00% | ~105,416 |
-| Musician and Muse | 14.00% | ~98,388 |
-| The Useless Trinket | 13.00% | ~91,360 |
-| Champion of Elysium | 13.00% | ~91,360 |
+| Musician and Muse | 14.00% | ~98,389 |
+| The Useless Trinket | 13.00% | ~91,361 |
+| Champion of Elysium | 13.00% | ~91,361 |
 | Slashed Benefits | 12.00% | ~84,333 |
 | Haste of Hermes | 11.00% | ~77,305 |
-| Bad Call | 10.00% | ~70,277 |
-| Nyx's Mirror | 10.00% | ~70,277 |
-| Night and Darkness | 10.00% | ~70,277 |
-| End to Torment | 10.00% | ~70,277 |
-| Dark Reflections | 9.00% | ~63,249 |
-| Thanks, But No Thanks | 9.00% | ~63,249 |
-| Infernal Arms | 9.00% | ~63,249 |
+| Bad Call | 10.00% | ~70,278 |
+| Nyx's Mirror | 10.00% | ~70,278 |
+| Night and Darkness | 10.00% | ~70,278 |
+| End to Torment | 10.00% | ~70,278 |
+| Dark Reflections | 9.00% | ~63,250 |
+| Thanks, But No Thanks | 9.00% | ~63,250 |
+| Infernal Arms | 9.00% | ~63,250 |
 | Divided by Death | 8.00% | ~56,222 |
 | Harsh Conditions | 7.00% | ~49,194 |
 | One for the Ages | 7.00% | ~49,194 |
-| Complete Set | 6.00% | ~42,166 |
-| Skelly's Last Lamentations | 6.00% | ~42,166 |
+| Complete Set | 6.00% | ~42,167 |
+| Skelly's Last Lamentations | 6.00% | ~42,167 |
 | Thorn of Thanatos | 4.00% | ~28,111 |
 | Friends Forever | 4.00% | ~28,111 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,772 (Ranked 21)  
+Progressed: 702,776 (Ranked 21)  
 Completed: 6,338 (0.90%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 6,338 (0.90%) (Ranked 127)
 | 2023-09-02 | 702,630 | 6,333 |
 | 2023-09-03 | 702,701 | 6,335 |
 | 2023-09-04 | 702,772 | 6,338 |
+| 2023-09-05 | 702,776 | 6,338 |
 ## Awards
 Max (Character Customization): 3,247  (Ranked 92)  
 Sum: 7,856 (Ranked 101)  

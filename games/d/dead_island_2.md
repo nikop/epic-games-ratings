@@ -20,10 +20,10 @@ Rating: 4.54 (Ranked 505)
 | But Doctor, I am Butcho | 0.80% | ~5,389 |
 | Can't Handle the Truth | 0.80% | ~5,389 |
 | Like Riding a Bike | 0.80% | ~5,389 |
+| A Patton Emerges | 0.80% | ~5,389 |
 | This is My Weapon | 0.80% | ~5,389 |
 | Slayer Squad | 0.70% | ~4,716 |
 | Zombologist | 0.70% | ~4,716 |
-| A Patton Emerges | 0.70% | ~4,716 |
 | Anger Management | 0.60% | ~4,042 |
 | Perks of the Job | 0.60% | ~4,042 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,042 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 673,658 (Ranked 22)  
+Progressed: 673,687 (Ranked 22)  
 Completed: 2,114 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 2,114 (0.31%) (Ranked 177)
 | 2023-09-02 | 672,029 | 2,103 |
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
+| 2023-09-05 | 673,687 | 2,114 |
 ## Awards
 Max (Great Boss Battles): 5,902  (Ranked 59)  
 Sum: 8,698 (Ranked 95)  

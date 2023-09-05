@@ -7,10 +7,10 @@ Rating: 4.56 (Ranked 473)
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 88.00% | ~339 |
 | And again, and again, and... | 64.00% | ~246 |
-| Burn, Elysium, burn! | 62.00% | ~239 |
+| Burn, Elysium, burn! | 63.00% | ~243 |
 | Kuvaq Minigame-Master | 61.00% | ~235 |
 | FunScore | 55.00% | ~212 |
-| Funtime's over | 53.00% | ~204 |
+| Funtime's over | 54.00% | ~208 |
 | Chunky | 51.00% | ~196 |
 | Shall we play a game? | 49.00% | ~189 |
 | Boat of love, boat of love | 49.00% | ~189 |
