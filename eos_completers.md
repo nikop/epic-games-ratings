@@ -48,8 +48,8 @@
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.56% |
-| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.34% |
-| 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.33% |
+| 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.33% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
 | 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
@@ -58,7 +58,7 @@
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.15% |
+| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.14% |
 | 60 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.04% |
 | 61 | [ZZT!](games/z/zzt!.md) | 4.02% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
@@ -90,7 +90,7 @@
 | 88 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
-| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.18% |
+| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.17% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.16% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
@@ -572,4 +572,4 @@
 | 270 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 270 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 270 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,175 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,176 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

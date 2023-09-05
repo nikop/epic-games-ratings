@@ -7,7 +7,7 @@
 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 2023-09-06 | - |  | - | - |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | 21 (1,000 XP) | 0 | - | - |
 | [Lempo](games/l/lempo.md) | 2023-09-07 | - |  | - | - |
-| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 12 | - | - |
+| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 13 | - | - |
 | [Infantry Assault: War 3D FPS](games/f/f10be3dc3e0a432c8d2a8988c5cf00ac.md) | 2023-09-08 | - |  | - | - |
 | [MechDefender](games/f/f02d6ce12fbc4230853a8b067e7e7278.md) | 2023-09-08 | - |  | - | - |
 | [Fae Farm Pre-Purchase](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 35 (1,000 XP) | 22 | - | - |
@@ -108,6 +108,7 @@
 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | - |  | - | - |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2023-11-22 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2023-11-28 | - |  | - | - |
+| [Bird of Paradise](games/a/aec7c489305f4286bd879cc5bd073fe4.md) | 2023-11-30 | - |  | - | - |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2023-11-30 | - |  | - | - |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | - | - |
 | [The Crust](games/t/the_crust.md) | 2023-11-30 | - |  | - | - |
@@ -470,7 +471,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,149 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,151 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |  | - | - |
