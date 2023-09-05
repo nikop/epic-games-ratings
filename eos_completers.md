@@ -16,8 +16,8 @@
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.86% |
 | 15 | [Island Cities](games/i/island_cities.md) | 18.72% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 17 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 16.67% |
-| 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
+| 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
+| 18 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 14.29% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Remains](games/r/remains.md) | 12.50% |
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
@@ -217,10 +217,10 @@
 | 210 | [Remnant 2](games/r/remnant_2.md) | 0.12% |
 | 216 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.11% |
 | 216 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 218 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 218 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 218 | [Shop Titans](games/s/shop_titans.md) | 0.10% |
-| 218 | [Supraland](games/s/supraland.md) | 0.10% |
+| 216 | [Shop Titans](games/s/shop_titans.md) | 0.11% |
+| 219 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 219 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 219 | [Supraland](games/s/supraland.md) | 0.10% |
 | 222 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.09% |
 | 222 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 222 | [Outward Definitive Edition](games/o/outward.md) | 0.09% |
@@ -250,26 +250,26 @@
 | 247 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 247 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.03% |
 | 250 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.02% |
+| 250 | [Black Book](games/b/black_book.md) | 0.02% |
 | 250 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
 | 250 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.02% |
 | 250 | [Good Company](games/g/good_company.md) | 0.02% |
 | 250 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
 | 250 | [Saturnalia](games/s/saturnalia.md) | 0.02% |
 | 250 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 257 | [Black Book](games/b/black_book.md) | 0.01% |
-| 257 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
-| 257 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
-| 257 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
-| 257 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
-| 257 | [Forspoken](games/f/forspoken.md) | 0.01% |
-| 257 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
-| 257 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
-| 257 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
-| 257 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
-| 257 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
-| 257 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
-| 257 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
-| 257 | [Verdun](games/v/verdun.md) | 0.01% |
+| 258 | [Dead by Daylight](games/d/dead_by_daylight.md) | 0.01% |
+| 258 | [Deceive Inc.](games/d/deceive_inc..md) | 0.01% |
+| 258 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 0.01% |
+| 258 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 0.01% |
+| 258 | [Forspoken](games/f/forspoken.md) | 0.01% |
+| 258 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.01% |
+| 258 | [Rocket League®](games/r/rocket_league®.md) | 0.01% |
+| 258 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.01% |
+| 258 | [Severed Steel](games/s/severed_steel.md) | 0.01% |
+| 258 | [Sunless Sea](games/s/sunless_sea.md) | 0.01% |
+| 258 | [The Alto Collection](games/t/the_alto_collection.md) | 0.01% |
+| 258 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 0.01% |
+| 258 | [Verdun](games/v/verdun.md) | 0.01% |
 | 271 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 271 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 0.00% |
 | 271 | [12 orbits](games/1/12_orbits.md) | 0.00% |
