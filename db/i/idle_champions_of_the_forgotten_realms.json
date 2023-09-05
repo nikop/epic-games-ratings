@@ -6382,9 +6382,9 @@
       "Count": 3399
     }
   ],
-  "EOS_Progressed": 227334,
+  "EOS_Progressed": 227350,
   "EOS_Completed": 2253,
-  "EOS_NewPlayers": 1340,
+  "EOS_NewPlayers": 1343,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -21627,6 +21627,11 @@
       "Time": "2023-09-05T20:05:37.2042295+00:00",
       "NumProgressed": 227334,
       "NumCompleted": 2253
+    },
+    {
+      "Time": "2023-09-05T21:06:14.8504121+00:00",
+      "NumProgressed": 227350,
+      "NumCompleted": 2253
     }
   ],
   "TotalAchievements": 520,
@@ -22004,9 +22009,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 909
     },
     {
       "ID": "objective_completed_110",
@@ -25380,9 +25385,9 @@
       "ID": "objective_completed_9",
       "SetID": "cc37lbc",
       "Name": "Pure Energy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_completed_902",
@@ -25797,21 +25802,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193608,
+      "Progressed": 193624,
       "Completed": 3400
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227334,
+      "Progressed": 227350,
       "Completed": 2253
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-05T09:58:46.6061409+00:00",
-  "LastChanged_Achievements": "2023-09-05T20:05:37.204229+00:00",
+  "LastChanged_Achievements": "2023-09-05T21:06:14.8504113+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-05T19:58:34.0119322+00:00",
-  "LastUpdate_Achievements": "2023-09-05T20:05:37.2070476+00:00"
+  "LastUpdate_Ratings": "2023-09-05T20:58:58.8153388+00:00",
+  "LastUpdate_Achievements": "2023-09-05T21:06:14.8539471+00:00"
 }

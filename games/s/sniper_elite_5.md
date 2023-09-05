@@ -1,24 +1,24 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 613)  
+Rating: 4.48 (Ranked 601)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,650 |
-| Confirming Suspicions | 40.00% | ~1,435 |
+| Meeting Resistance | 46.00% | ~1,651 |
+| Confirming Suspicions | 40.00% | ~1,436 |
 | The Kraken Wakes | 36.00% | ~1,292 |
 | It's Starting to Crack | 33.00% | ~1,184 |
-| Change the Channel | 30.00% | ~1,076 |
+| Change the Channel | 30.00% | ~1,077 |
 | Lord of War | 29.00% | ~1,041 |
 | Taking it back | 28.00% | ~1,005 |
 | Resourceful | 26.00% | ~933 |
 | Target America | 25.00% | ~897 |
 | The Kraken Sleeps | 23.00% | ~825 |
-| Organ Grinder | 22.00% | ~789 |
-| As Quiet as a Mouse | 22.00% | ~789 |
-| Liberté | 21.00% | ~753 |
-| Sharpshooter | 21.00% | ~753 |
+| Organ Grinder | 22.00% | ~790 |
+| As Quiet as a Mouse | 22.00% | ~790 |
+| Liberté | 21.00% | ~754 |
+| Sharpshooter | 21.00% | ~754 |
 | Explosive Efficiency | 18.00% | ~646 |
 | Gunslinger | 17.00% | ~610 |
 | Just a Flesh Wound | 16.00% | ~574 |
@@ -30,9 +30,9 @@ Rating: 4.47 (Ranked 613)
 | Die Nussknacker Sweet! | 14.00% | ~502 |
 | Snake in the Grass | 14.00% | ~502 |
 | Brains of the Operation | 14.00% | ~502 |
-| No Stone Unturned | 13.00% | ~466 |
-| Opposing Force | 13.00% | ~466 |
-| Enemy at the Gates | 13.00% | ~466 |
+| No Stone Unturned | 13.00% | ~467 |
+| Opposing Force | 13.00% | ~467 |
+| Enemy at the Gates | 13.00% | ~467 |
 | Set Europe Ablaze | 12.00% | ~431 |
 | Precision Is Key | 9.00% | ~323 |
 | My Little Friend | 9.00% | ~323 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 613)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,588 (Ranked 154)  
+Progressed: 3,589 (Ranked 154)  
 Completed: 10 (0.28%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 10 (0.28%) (Ranked 181)
 | 2023-09-02 | 3,565 | 10 |
 | 2023-09-03 | 3,577 | 10 |
 | 2023-09-04 | 3,583 | 10 |
-| 2023-09-05 | 3,588 | 10 |
+| 2023-09-05 | 3,589 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -293,3 +293,4 @@ Completed: 10 (0.28%) (Ranked 181)
 | 2023-08-28 | 4.45 | 0 | 0 |
 | 2023-08-30 | 4.46 | 0 | 0 |
 | 2023-09-01 | 4.47 | 0 | 0 |
+| 2023-09-05 | 4.48 | 0 | 0 |

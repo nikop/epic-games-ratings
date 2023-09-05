@@ -20,7 +20,7 @@
 | Silver Competitor | 7.00% | ~87 |
 | Captain | 7.00% | ~87 |
 | Factory Expansion | 7.00% | ~87 |
-| Exterminator | 6.00% | ~74 |
+| Exterminator | 6.00% | ~75 |
 | Brothers in Arms | 5.00% | ~62 |
 | Know The Enemy | 4.00% | ~50 |
 | Player Betrayer | 4.00% | ~50 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,241 (Ranked 195)  
+Progressed: 1,242 (Ranked 195)  
 Completed: 1 (0.08%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,4 +132,4 @@ Completed: 1 (0.08%) (Ranked 227)
 | 2023-09-02 | 1,206 | 1 |
 | 2023-09-03 | 1,214 | 1 |
 | 2023-09-04 | 1,229 | 1 |
-| 2023-09-05 | 1,241 | 1 |
+| 2023-09-05 | 1,242 | 1 |

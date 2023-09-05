@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 348,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-05-04T22:00:00+00:00",
@@ -31,8 +31,8 @@
       "NumCompleted": 0
     }
   ],
-  "TotalAchievements": 34,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
   "Achievements": [
     {
       "ID": "achvAir",
@@ -316,8 +316,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:38.5107694+00:00",
-  "LastChanged_Achievements": "2023-09-05T20:04:08.5387364+00:00",
+  "LastChanged_Achievements": "2023-09-05T21:04:26.7889427+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:26.3073634+00:00",
-  "LastUpdate_Ratings": "2023-09-05T20:00:42.6324536+00:00",
-  "LastUpdate_Achievements": "2023-09-05T20:04:08.5387596+00:00"
+  "LastUpdate_Ratings": "2023-09-05T21:01:34.8320844+00:00",
+  "LastUpdate_Achievements": "2023-09-05T21:04:26.7889485+00:00"
 }

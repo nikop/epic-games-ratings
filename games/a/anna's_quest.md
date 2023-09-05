@@ -21,14 +21,14 @@
 | Little genius | 46.00% | ~17 |
 | NOW GO AWAY! | 46.00% | ~17 |
 | Sorry Grandpa | 46.00% | ~17 |
+| Show me your true self | 43.00% | ~16 |
 | Far away from home | 43.00% | ~16 |
-| Show me your true self | 41.00% | ~15 |
 | Close the deal | 38.00% | ~14 |
 | Pain in the hands | 38.00% | ~14 |
 | Mischief maker | 38.00% | ~14 |
+| No posters allowed | 38.00% | ~14 |
 | GG | 35.00% | ~13 |
 | You've got mail! | 35.00% | ~13 |
-| No posters allowed | 35.00% | ~13 |
 | Shattered | 32.00% | ~12 |
 | Memories | 32.00% | ~12 |
 | Ring-a-ding-ding | 32.00% | ~12 |

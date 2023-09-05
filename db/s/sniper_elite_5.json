@@ -2,20 +2,20 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -494,15 +494,21 @@
       "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-05T20:57:33.2339549+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3588,
+  "EOS_Progressed": 3589,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6510,6 +6516,11 @@
       "Time": "2023-09-05T18:09:17.5984406+00:00",
       "NumProgressed": 3588,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-05T21:08:05.3659925+00:00",
+      "NumProgressed": 3589,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6529,7 +6540,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6545,7 +6556,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6553,7 +6564,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6561,7 +6572,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6585,7 +6596,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6601,7 +6612,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6657,7 +6668,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6689,7 +6700,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6761,7 +6772,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6857,7 +6868,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7088,22 +7099,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3539,
+      "Progressed": 3540,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3588,
+      "Progressed": 3589,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-09-01T10:01:39.1533108+00:00",
-  "LastChanged_Achievements": "2023-09-05T20:07:13.6875486+00:00",
+  "LastChanged": "2023-09-05T20:57:33.2339547+00:00",
+  "LastChanged_Achievements": "2023-09-05T21:08:05.3659918+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-05T19:57:24.4628395+00:00",
-  "LastUpdate_Achievements": "2023-09-05T20:07:13.6876588+00:00"
+  "LastUpdate_Ratings": "2023-09-05T20:57:33.2339555+00:00",
+  "LastUpdate_Achievements": "2023-09-05T21:08:05.3661849+00:00"
 }

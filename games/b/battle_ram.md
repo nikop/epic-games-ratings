@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 93.00% | ~200 |
-| Ram Corporal | 86.00% | ~185 |
-| Ram Sergeant | 66.00% | ~142 |
+| START | 93.00% | ~201 |
+| Ram Corporal | 86.00% | ~186 |
+| Ram Sergeant | 66.00% | ~143 |
 | Ram Staff Sergeant | 65.00% | ~140 |
 | Ram First Sergeant | 58.00% | ~125 |
 | Senior Sergeant Baran | 57.00% | ~123 |
-| Sergeant Major Baran | 45.00% | ~97 |
+| Sergeant Major Baran | 44.00% | ~95 |
 | Senior warrant officer Baran 1st class | 28.00% | ~60 |
 | Senior warrant officer Baran 2nd class | 28.00% | ~60 |
 | Senior warrant officer Baran 3rd class | 27.00% | ~58 |
-| Senior warrant officer Baran 4th class | 22.00% | ~47 |
+| Senior warrant officer Baran 4th class | 22.00% | ~48 |
 | Junior Lieutenant Baran | 21.00% | ~45 |
 | Baran Senior Warrant Officer Grade 5 | 18.00% | ~39 |
 | Senior Lieutenant Baran | 17.00% | ~37 |
@@ -27,7 +27,7 @@
 | EMERAID RAM | 4.00% | ~9 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215 (Ranked 297)  
+Progressed: 216 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,4 +92,4 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-29 | 212 | 0 |
 | 2023-09-01 | 213 | 0 |
 | 2023-09-03 | 214 | 0 |
-| 2023-09-05 | 215 | 0 |
+| 2023-09-05 | 216 | 0 |

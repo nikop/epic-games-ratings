@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 76.00% | ~261 |
-| Photo shoot | 16.00% | ~55 |
-| Wannabe | 11.00% | ~38 |
-| No brakes | 11.00% | ~38 |
-| Better than cake | 8.00% | ~27 |
-| First taste | 7.00% | ~24 |
+| Newbie | 76.00% | ~269 |
+| Photo shoot | 15.00% | ~53 |
+| No brakes | 12.00% | ~42 |
+| Wannabe | 11.00% | ~39 |
+| First taste | 7.00% | ~25 |
+| Better than cake | 7.00% | ~25 |
 | Amateur hitchhiker | 6.00% | ~21 |
 | Reliability expert | 2.00% | ~7 |
 | Hattrick | 2.00% | ~7 |
 | On the top | 2.00% | ~7 |
-| Hero | 1.00% | ~3 |
-| Drama queen | 1.00% | ~3 |
-| Mr. Whiting | 1.00% | ~3 |
-| Amateur newbie | 0.90% | ~3 |
-| Loyalty | 0.90% | ~3 |
-| Untouchable | 0.90% | ~3 |
-| Amateur photo shoot | 0.90% | ~3 |
+| Hero | 1.00% | ~4 |
+| Drama queen | 1.00% | ~4 |
+| Mr. Whiting | 1.00% | ~4 |
+| Amateur newbie | 0.80% | ~3 |
+| Loyalty | 0.80% | ~3 |
+| Untouchable | 0.80% | ~3 |
+| Amateur photo shoot | 0.80% | ~3 |
 | Monster Amateur car | 0.60% | ~2 |
 | Pro hitchhiker | 0.60% | ~2 |
 | No brakes Amateur | 0.60% | ~2 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343 (Ranked 265)  
+Progressed: 354 (Ranked 263)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,4 +248,4 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-01 | 339 | 0 |
 | 2023-09-02 | 340 | 0 |
 | 2023-09-03 | 342 | 0 |
-| 2023-09-05 | 343 | 0 |
+| 2023-09-05 | 354 | 0 |

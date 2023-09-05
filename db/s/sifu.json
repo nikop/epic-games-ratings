@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -5938,10 +5938,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11068,
       "NumberOfAwardsMax": 6437
+    },
+    {
+      "Time": "2023-09-05T21:00:19.7440293+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11070,
+      "NumberOfAwardsMax": 6437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11068,
+  "NumberOfAwards": 11070,
   "NumberOfAwardsMax": 6437,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5991,7 +5997,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 545
+      "Count": 547
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6018,9 +6024,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 712993,
+  "EOS_Progressed": 712999,
   "EOS_Completed": 12885,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18598,6 +18604,11 @@
       "Time": "2023-09-05T20:02:19.5411304+00:00",
       "NumProgressed": 712993,
       "NumCompleted": 12885
+    },
+    {
+      "Time": "2023-09-05T21:02:25.8764244+00:00",
+      "NumProgressed": 712999,
+      "NumCompleted": 12885
     }
   ],
   "TotalAchievements": 50,
@@ -18969,7 +18980,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -18985,7 +18996,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -19008,21 +19019,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22294,
+      "Progressed": 22300,
       "Completed": 10589
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 712993,
+      "Progressed": 712999,
       "Completed": 12885
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-05T15:00:27.3493743+00:00",
-  "LastChanged_Achievements": "2023-09-05T20:02:19.5411299+00:00",
+  "LastChanged": "2023-09-05T21:00:19.7440291+00:00",
+  "LastChanged_Achievements": "2023-09-05T21:02:25.8764239+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-05T19:59:44.6206524+00:00",
-  "LastUpdate_Achievements": "2023-09-05T20:02:19.5412618+00:00"
+  "LastUpdate_Ratings": "2023-09-05T21:00:19.7440298+00:00",
+  "LastUpdate_Achievements": "2023-09-05T21:02:25.8765576+00:00"
 }

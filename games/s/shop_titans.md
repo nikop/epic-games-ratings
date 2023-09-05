@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.50% | ~679 |
 | Helping Hand | 0.50% | ~679 |
 | Natural 20 | 0.50% | ~679 |
+| Magical Harmony | 0.50% | ~679 |
 | A Notch Above the Rest | 0.40% | ~543 |
 | A Ronin Reborn | 0.40% | ~543 |
 | Tax not Included | 0.40% | ~543 |
@@ -66,7 +67,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.40% | ~543 |
 | Scourge of the Seas | 0.40% | ~543 |
 | Black Friday Special | 0.40% | ~543 |
-| Magical Harmony | 0.40% | ~543 |
 | Special Ingredient | 0.40% | ~543 |
 | Complete Monopoly | 0.40% | ~543 |
 | Cream of the Crop | 0.30% | ~407 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,707 (Ranked 67)  
+Progressed: 135,710 (Ranked 67)  
 Completed: 143 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 143 (0.11%) (Ranked 215)
 | 2023-09-02 | 135,551 | 140 |
 | 2023-09-03 | 135,618 | 142 |
 | 2023-09-04 | 135,661 | 142 |
-| 2023-09-05 | 135,707 | 143 |
+| 2023-09-05 | 135,710 | 143 |
 ## Awards
 Max (Great for Beginners): 4,723  (Ranked 70)  
 Sum: 27,176 (Ranked 48)  

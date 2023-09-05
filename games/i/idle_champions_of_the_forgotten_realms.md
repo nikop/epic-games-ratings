@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.70% | ~1,591 |
-| Beast Intentions | 0.30% | ~682 |
+| Beast Intentions | 0.40% | ~909 |
 | The Cursed Farmer | 0.30% | ~682 |
 | The Mad Wizard | 0.30% | ~682 |
 | Maddening | 0.20% | ~455 |
@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.20% | ~455 |
 | Mad Cow Disease | 0.20% | ~455 |
 | Friendly Imps | 0.20% | ~455 |
+| Pure Energy | 0.20% | ~455 |
 | Legends and Lore | 0.20% | ~387 |
 | Pros and CONs | 0.10% | ~227 |
 | Upholding the Law | 0.10% | ~227 |
@@ -475,7 +476,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.10% | ~194 |
 | Mysteries Unlocked | 0.10% | ~194 |
 | Male Pattern Boldness | 0.10% | ~194 |
-| Pure Energy | 0.10% | ~227 |
 | Tekeli-li's Hunt | 0.10% | ~194 |
 | Cackling Horror | 0.10% | ~194 |
 | Working for the Weak End | 0.10% | ~194 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,334 (Ranked 54)  
+Progressed: 227,350 (Ranked 54)  
 Completed: 2,253 (0.99%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -665,7 +665,7 @@ Completed: 2,253 (0.99%) (Ranked 123)
 | 2023-09-02 | 226,722 | 2,245 |
 | 2023-09-03 | 226,879 | 2,246 |
 | 2023-09-04 | 227,081 | 2,250 |
-| 2023-09-05 | 227,334 | 2,253 |
+| 2023-09-05 | 227,350 | 2,253 |
 ## Awards
 Max (Diverse Characters): 5,227  (Ranked 67)  
 Sum: 31,411 (Ranked 38)  

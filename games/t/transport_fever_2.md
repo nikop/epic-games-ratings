@@ -58,9 +58,9 @@ Number of Ratings: 180  (23.09.2022)
 | Industrialist | 3.00% | ~49 |
 | No country for old trains | 2.00% | ~33 |
 | Charles Alton Ellis | 2.00% | ~33 |
+| Campaign tycoon | 2.00% | ~33 |
 | Metropolis | 2.00% | ~33 |
 | Speed of light | 2.00% | ~33 |
-| Campaign tycoon | 1.00% | ~16 |
 | Trans-Siberian Railway | 1.00% | ~16 |
 | Train Fever | 0.90% | ~15 |
 | Louis Favre | 0.70% | ~11 |

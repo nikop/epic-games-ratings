@@ -4,8 +4,8 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -521,9 +521,9 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
@@ -633,9 +633,9 @@
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
       "SetID": "8h8m55b",
       "Name": "Star-Crossed Siblings",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_TENDER_SOUL",
@@ -721,9 +721,9 @@
       "ID": "ACH_UNSOLICITED_BOUNCER",
       "SetID": "8h8m55b",
       "Name": "Unsolicited Bouncer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_VAMPIRES_DONT_CHANGE",
@@ -776,8 +776,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-09-05T20:05:17.8859848+00:00",
+  "LastChanged_Achievements": "2023-09-05T21:05:50.8996188+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.102078+00:00",
-  "LastUpdate_Ratings": "2023-09-05T19:57:28.0032891+00:00",
-  "LastUpdate_Achievements": "2023-09-05T20:05:17.8860339+00:00"
+  "LastUpdate_Ratings": "2023-09-05T20:57:39.0645155+00:00",
+  "LastUpdate_Achievements": "2023-09-05T21:05:50.8996999+00:00"
 }

@@ -6,13 +6,13 @@ Rating: 4.60 (Ranked 393)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 7.00% | ~361 |
-| Realm Estate | 6.00% | ~309 |
-| A Wonderful Discovery | 6.00% | ~309 |
-| Walls Cannot Stop Us | 6.00% | ~309 |
-| From Friends to Family | 6.00% | ~309 |
-| Magical Synergy | 6.00% | ~309 |
-| Intimidation Tactics | 6.00% | ~309 |
-| Tipping the Scales | 6.00% | ~309 |
+| Realm Estate | 6.00% | ~310 |
+| A Wonderful Discovery | 6.00% | ~310 |
+| Walls Cannot Stop Us | 6.00% | ~310 |
+| From Friends to Family | 6.00% | ~310 |
+| Magical Synergy | 6.00% | ~310 |
+| Intimidation Tactics | 6.00% | ~310 |
+| Tipping the Scales | 6.00% | ~310 |
 | There Can Only Be One! | 5.00% | ~258 |
 | Full Ascension | 5.00% | ~258 |
 | Bone Peddler | 5.00% | ~258 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 393)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,158 (Ranked 146)  
+Progressed: 5,159 (Ranked 146)  
 Completed: 6 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 6 (0.12%) (Ranked 210)
 | 2023-09-02 | 5,152 | 6 |
 | 2023-09-03 | 5,154 | 6 |
 | 2023-09-04 | 5,157 | 6 |
-| 2023-09-05 | 5,158 | 6 |
+| 2023-09-05 | 5,159 | 6 |
 ## Awards
 Max (Great for Beginners): 24  (Ranked 487)  
 Sum: 24 (Ranked 494)  

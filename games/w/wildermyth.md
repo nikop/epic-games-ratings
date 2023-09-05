@@ -16,9 +16,9 @@ Number of Ratings: 45  (23.09.2022)
 | Gotta Ca... Must Collect All of Them | 26.00% | ~361 |
 | War Endured | 15.00% | ~208 |
 | Completing the Look | 14.00% | ~195 |
+| Who's Counting? | 14.00% | ~195 |
 | Core Failure | 14.00% | ~195 |
 | A Mythic Menagerie | 13.00% | ~181 |
-| Who's Counting? | 13.00% | ~181 |
 | Pyrrhic Victory | 11.00% | ~153 |
 | Thematic Divergence | 10.00% | ~139 |
 | Echoes Die | 10.00% | ~139 |

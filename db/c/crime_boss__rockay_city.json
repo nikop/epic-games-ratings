@@ -3306,7 +3306,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72691,
+  "EOS_Progressed": 72693,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 1,
@@ -17491,6 +17491,11 @@
       "Time": "2023-09-05T20:03:48.7940567+00:00",
       "NumProgressed": 72691,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-05T21:04:03.4044143+00:00",
+      "NumProgressed": 72693,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17510,7 +17515,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 21080
+      "UsersEstimate": 21081
     },
     {
       "ID": "ACH_0012",
@@ -17518,7 +17523,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15265
+      "UsersEstimate": 15266
     },
     {
       "ID": "ACH_0013",
@@ -17574,7 +17579,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4362
     },
     {
       "ID": "ACH_0040",
@@ -17590,7 +17595,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5088
+      "UsersEstimate": 5089
     },
     {
       "ID": "ACH_0060",
@@ -17646,7 +17651,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47249
+      "UsersEstimate": 47250
     },
     {
       "ID": "ACH_0210",
@@ -17654,7 +17659,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53791
+      "UsersEstimate": 53793
     },
     {
       "ID": "ACH_0211",
@@ -17670,7 +17675,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34892
+      "UsersEstimate": 34893
     },
     {
       "ID": "ACH_0300",
@@ -17718,7 +17723,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25442
+      "UsersEstimate": 25443
     },
     {
       "ID": "ACH_0420",
@@ -17726,7 +17731,7 @@
       "Name": "King of the Hill",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24715
+      "UsersEstimate": 24716
     },
     {
       "ID": "ACH_0430",
@@ -17750,7 +17755,7 @@
       "Name": "True Player",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 13811
+      "UsersEstimate": 13812
     },
     {
       "ID": "ACH_0450",
@@ -17758,7 +17763,7 @@
       "Name": "Off the Rocks",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 14538
+      "UsersEstimate": 14539
     },
     {
       "ID": "ACH_0451",
@@ -17766,7 +17771,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12357
+      "UsersEstimate": 12358
     },
     {
       "ID": "ACH_0452",
@@ -17774,7 +17779,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12357
+      "UsersEstimate": 12358
     },
     {
       "ID": "ACH_0460",
@@ -17797,22 +17802,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72691,
+      "Progressed": 72693,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 1038,
-      "Completed": 1038
+      "Progressed": 1040,
+      "Completed": 1040
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-05T08:00:15.197571+00:00",
-  "LastChanged_Achievements": "2023-09-05T20:03:48.794056+00:00",
+  "LastChanged_Achievements": "2023-09-05T21:04:03.4044137+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-05T20:00:30.6454921+00:00",
-  "LastUpdate_Achievements": "2023-09-05T20:03:48.7941783+00:00"
+  "LastUpdate_Ratings": "2023-09-05T21:01:21.4692913+00:00",
+  "LastUpdate_Achievements": "2023-09-05T21:04:03.4045304+00:00"
 }

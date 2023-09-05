@@ -5878,9 +5878,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135707,
+  "EOS_Progressed": 135710,
   "EOS_Completed": 143,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20058,6 +20058,11 @@
       "Time": "2023-09-05T20:04:41.4915263+00:00",
       "NumProgressed": 135707,
       "NumCompleted": 143
+    },
+    {
+      "Time": "2023-09-05T21:05:06.5894284+00:00",
+      "NumProgressed": 135710,
+      "NumCompleted": 143
     }
   ],
   "TotalAchievements": 112,
@@ -20891,9 +20896,9 @@
       "ID": "twinenchant01",
       "SetID": "anfd17p",
       "Name": "Magical Harmony",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 679
     },
     {
       "ID": "typeunlock01",
@@ -20964,15 +20969,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135707,
+      "Progressed": 135710,
       "Completed": 143
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-05T18:00:17.9004444+00:00",
-  "LastChanged_Achievements": "2023-09-05T20:04:41.4915253+00:00",
+  "LastChanged_Achievements": "2023-09-05T21:05:06.5894279+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-05T19:59:08.5991639+00:00",
-  "LastUpdate_Achievements": "2023-09-05T20:04:41.491772+00:00"
+  "LastUpdate_Ratings": "2023-09-05T20:59:36.0958127+00:00",
+  "LastUpdate_Achievements": "2023-09-05T21:05:06.5896741+00:00"
 }
