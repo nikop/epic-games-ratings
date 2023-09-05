@@ -90,10 +90,10 @@
 | 88 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 88 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.26% |
 | 90 | [Bloodshore](games/b/bloodshore.md) | 2.19% |
-| 91 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.17% |
-| 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 93 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.01% |
-| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.18% |
+| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.17% |
+| 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
+| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |

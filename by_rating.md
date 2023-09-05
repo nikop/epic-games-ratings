@@ -82,7 +82,7 @@
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 517 |
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 469 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 517 |
-| 83 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,422 | 54 |
+| 83 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,427 | 54 |
 | 83 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 517 |
 | 83 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,459 | 102 |
 | 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 336 |
@@ -94,21 +94,21 @@
 | 89 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 517 |
 | 89 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 517 |
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 886 | 151 |
+| 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 754 | 162 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,991 | 56 |
 | 89 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 53 | 396 |
 | 89 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 386 | 219 |
 | 89 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 121 | 320 |
 | 89 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 517 |
-| 100 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 517 |
-| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,924 | 38 |
-| 100 | [Journey](games/j/journey.md) | 4.78 | 0 | 517 |
-| 100 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 517 |
-| 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.78 | 754 | 162 |
-| 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,390 | 103 |
-| 100 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,466 | 123 |
-| 100 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.78 | 0 | 517 |
-| 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 935 | 149 |
-| 100 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
+| 101 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 517 |
+| 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,924 | 38 |
+| 101 | [Journey](games/j/journey.md) | 4.78 | 0 | 517 |
+| 101 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 517 |
+| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,390 | 103 |
+| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,466 | 123 |
+| 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.78 | 0 | 517 |
+| 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 935 | 149 |
+| 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
 | 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,592 | 71 |
 | 110 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,917 | 51 |
 | 110 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,202 | 17 |
@@ -363,7 +363,7 @@
 | 354 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 569 | 189 |
 | 354 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 517 |
 | 354 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 517 |
-| 354 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,597 | 97 |
+| 354 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,600 | 97 |
 | 354 | [Prey](games/p/prey.md) | 4.62 | 5,668 | 63 |
 | 354 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 517 |
 | 354 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.62 | 35 | 442 |
@@ -503,7 +503,7 @@
 | 490 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 517 |
 | 490 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 346 | 227 |
 | 490 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 363 |
-| 490 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,252 | 134 |
+| 490 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,258 | 134 |
 | 505 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
 | 505 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,414 | 127 |
 | 505 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,902 | 59 |
@@ -836,7 +836,7 @@
 | 830 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 239 |
 | 835 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 517 |
 | 835 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 497 |
-| 835 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,071 | 139 |
+| 835 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,072 | 139 |
 | 835 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 517 |
 | 835 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 517 |
 | 835 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 517 |
