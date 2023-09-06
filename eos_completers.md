@@ -49,8 +49,8 @@
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.33% |
 | 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 50 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.19% |
-| 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
+| 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.13% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
 | 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
@@ -115,8 +115,8 @@
 | 113 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 114 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 115 | [Chorus](games/c/chorus.md) | 1.20% |
-| 116 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.10% |
 | 116 | [Trifox](games/t/trifox.md) | 1.10% |
+| 117 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.09% |
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
@@ -191,9 +191,9 @@
 | 189 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
 | 189 | [Blanc](games/b/blanc.md) | 0.23% |
 | 191 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 192 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.21% |
-| 192 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 192 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 191 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.22% |
+| 193 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 193 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 195 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.20% |
 | 195 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 197 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |

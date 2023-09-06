@@ -24,7 +24,7 @@
 | 22 | [Warframe](games/w/warframe.md) | 16,866 | 4.60 | 393 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,806 | 4.21 | 859 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,228 | 4.76 | 117 |
-| 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,463 | 4.58 | 431 |
+| 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,467 | 4.58 | 431 |
 | 26 | [Maneater](games/m/maneater.md) | 13,653 | 4.49 | 580 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,650 | 4.60 | 393 |
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,581 | 4.60 | 393 |
@@ -99,9 +99,9 @@
 | 97 | [Path of Exile](games/p/path_of_exile.md) | 2,600 | 4.62 | 354 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,569 | 4.18 | 883 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,545 | 4.27 | 823 |
-| 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,508 | 4.10 | 915 |
+| 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,508 | 4.10 | 916 |
 | 101 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,492 | 4.49 | 580 |
-| 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,459 | 4.79 | 88 |
+| 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,463 | 4.79 | 88 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,390 | 4.78 | 101 |
 | 104 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,246 | 4.67 | 259 |
 | 105 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,219 | 4.63 | 335 |
@@ -355,7 +355,7 @@
 | 353 | [Dead Space](games/d/dead_space.md) | 90 | 4.62 | 354 |
 | 353 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 90 | 4.67 | 259 |
 | 355 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 89 | 4.83 | 60 |
-| 356 | [Armored Warfare](games/a/armored_warfare.md) | 88 | 4.10 | 915 |
+| 356 | [Armored Warfare](games/a/armored_warfare.md) | 88 | 4.10 | 916 |
 | 356 | [RAILGRADE](games/r/railgrade.md) | 88 | 4.54 | 505 |
 | 358 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 85 | 4.60 | 393 |
 | 359 | [Solitairica](games/s/solitairica.md) | 84 | 4.49 | 580 |
