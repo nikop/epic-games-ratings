@@ -3,18 +3,18 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.85% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.73% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.46% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 26.61% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.64% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.03% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.86% |
-| 15 | [Island Cities](games/i/island_cities.md) | 18.45% |
+| 15 | [Island Cities](games/i/island_cities.md) | 18.41% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
@@ -72,7 +72,7 @@
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.08% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
-| 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.00% |
+| 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
@@ -144,9 +144,9 @@
 | 141 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
 | 143 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
 | 144 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
-| 145 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.57% |
-| 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.56% |
-| 146 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 145 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.56% |
+| 145 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 145 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.56% |
 | 148 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
 | 148 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 150 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.54% |
@@ -326,6 +326,7 @@
 | 270 | [Cursed Castilla (Maldita Castilla EX)](games/c/cursed_castilla_(maldita_castilla_ex).md) | 0.00% |
 | 270 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 0.00% |
 | 270 | [Daydream. Forgotten Sorrow](games/7/7b8963f6857041fd97a4a23845eb113d.md) | 0.00% |
+| 270 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 0.00% |
 | 270 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 0.00% |
 | 270 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
 | 270 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.00% |

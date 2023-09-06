@@ -25,7 +25,7 @@
 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | - |  | - | - |
 | [Witchfire](games/w/witchfire.md) | 2023-09-20 | - |  | - | - |
 | [Men of War II](games/m/men_of_war_ii.md) | 2023-09-20 | - |  | - | - |
-| [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 2023-09-21 | 15 (1,000 XP) | 1 | - | - |
+| [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 2023-09-21 | 15 (1,000 XP) | 2 | - | - |
 | [PAYDAY 3 Pre Purchase](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 2023-09-21 | - |  | - | - |
 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 2023-09-26 | - |  | - | - |
 | [Danghost](games/6/66b12faffa204da39bda39d087789944.md) | 2023-09-27 | - |  | - | - |
@@ -292,7 +292,7 @@
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [Days of Doom](games/5/5e9af916f2694cb7baee762a8b9fb64b.md) | 2099-01-01 | - |  | - | - |
 | [DC Dual Force](games/4/405e6edbc5eb46f1bbb9dad2994c20fa.md) | 2099-01-01 | - |  | - | - |
-| [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2099-01-01 | 64 (1,000 XP) | 0 | - | - |
+| [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2099-01-01 | 64 (1,000 XP) | 1 | - | - |
 | [Defimons](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | - |  | - | - |
