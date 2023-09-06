@@ -1634,9 +1634,9 @@
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1226
     },
     {
       "ID": "defeat_enemies",
@@ -1747,8 +1747,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-09-06T10:06:41.3352922+00:00",
+  "LastChanged_Achievements": "2023-09-06T11:07:30.9727768+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:53.7289225+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:57:22.5089478+00:00",
-  "LastUpdate_Achievements": "2023-09-06T10:06:41.335316+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:57:14.4861707+00:00",
+  "LastUpdate_Achievements": "2023-09-06T11:07:30.9727951+00:00"
 }

@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 6.00% | ~1,341 |
-| Project Arena | 4.00% | ~894 |
+| Diligence as a goal | 6.00% | ~1,342 |
+| Project Arena | 4.00% | ~895 |
 | The Old Grandmaster | 2.00% | ~14,261 |
 | The Assault | 2.00% | ~14,261 |
 | The Hateful Pole Fighter | 2.00% | ~14,261 |
@@ -34,9 +34,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,131 |
 | The best strikes are the ones we avoid | 1.00% | ~224 |
 | Muk Yan Master | 0.90% | ~6,418 |
-| Tiger on Fire | 0.80% | ~5,704 |
-| Source of Flying Daggers | 0.80% | ~5,704 |
-| Detective Story | 0.80% | ~5,704 |
+| Tiger on Fire | 0.80% | ~5,705 |
+| Source of Flying Daggers | 0.80% | ~5,705 |
+| Detective Story | 0.80% | ~5,705 |
 | Deadly Venom | 0.80% | ~179 |
 | A Touch of Acumen | 0.80% | ~179 |
 | Iron Money | 0.70% | ~4,991 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,056 (Ranked 20)  
+Progressed: 713,064 (Ranked 20)  
 Completed: 12,885 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 12,885 (1.81%) (Ranked 99)
 | 2023-09-03 | 712,929 | 12,882 |
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
-| 2023-09-06 | 713,056 | 12,885 |
+| 2023-09-06 | 713,064 | 12,885 |
 ## Awards
 Max (Great Boss Battles): 6,437  (Ranked 54)  
 Sum: 11,073 (Ranked 80)  

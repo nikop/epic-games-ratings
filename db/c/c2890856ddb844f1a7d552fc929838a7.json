@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 706,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1186,9 +1186,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 374
     },
     {
       "ID": "AC07",
@@ -1226,9 +1226,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 212
     },
     {
       "ID": "AC12",
@@ -1515,8 +1515,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-06T02:57:21.259036+00:00",
-  "LastChanged_Achievements": "2023-09-06T10:03:15.9204731+00:00",
+  "LastChanged_Achievements": "2023-09-06T11:03:28.019196+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:57:40.6943429+00:00",
-  "LastUpdate_Achievements": "2023-09-06T10:03:15.9205173+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:57:39.1168004+00:00",
+  "LastUpdate_Achievements": "2023-09-06T11:03:28.0192317+00:00"
 }

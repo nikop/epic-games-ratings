@@ -6,7 +6,7 @@ Number of Ratings: 216  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~153,894 |
+| Midnight Drifter | 10.00% | ~153,895 |
 | Good Skills | 9.00% | ~138,505 |
 | Multiplier Master | 9.00% | ~138,505 |
 | Maverick | 7.00% | ~107,726 |
@@ -19,7 +19,7 @@ Number of Ratings: 216  (23.09.2022)
 | Spin Doctor | 2.00% | ~30,779 |
 | Hoon Airlines | 1.00% | ~15,389 |
 | Midnight Master | 1.00% | ~15,389 |
-| Sake Bombs | 0.90% | ~13,850 |
+| Sake Bombs | 0.90% | ~13,851 |
 | Drift Line Master | 0.70% | ~10,773 |
 | Insane Skills | 0.70% | ~10,773 |
 | Bacon Donuts | 0.60% | ~9,234 |
@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,156 |
 | The Completionist | 0.10% | ~1,539 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,538,944 (Ranked 7)  
+Progressed: 1,538,949 (Ranked 7)  
 Completed: 677 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 677 (0.04%) (Ranked 239)
 | 2023-09-03 | 1,538,586 | 673 |
 | 2023-09-04 | 1,538,746 | 676 |
 | 2023-09-05 | 1,538,899 | 677 |
-| 2023-09-06 | 1,538,944 | 677 |
+| 2023-09-06 | 1,538,949 | 677 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

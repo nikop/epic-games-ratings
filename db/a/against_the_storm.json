@@ -2780,9 +2780,9 @@
       "Count": 318
     }
   ],
-  "EOS_Progressed": 16537,
+  "EOS_Progressed": 16538,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -10140,6 +10140,11 @@
       "Time": "2023-09-06T03:04:39.3989686+00:00",
       "NumProgressed": 16537,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-06T11:05:19.5524581+00:00",
+      "NumProgressed": 16538,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -10287,7 +10292,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "WinNearCrystals",
@@ -10311,7 +10316,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "WinNearFishmen",
@@ -10375,7 +10380,7 @@
       "Name": "Lost Colonies",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "WinNearStatue",
@@ -10463,7 +10468,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "WinWIthCaches",
@@ -10550,15 +10555,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 16537,
+      "Progressed": 16538,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-05T16:57:21.0702731+00:00",
-  "LastChanged_Achievements": "2023-09-06T10:04:51.5419735+00:00",
+  "LastChanged_Achievements": "2023-09-06T11:05:19.5524576+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:56.7333073+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:57:21.5216778+00:00",
-  "LastUpdate_Achievements": "2023-09-06T10:04:51.5420594+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:57:13.362621+00:00",
+  "LastUpdate_Achievements": "2023-09-06T11:05:19.5525271+00:00"
 }

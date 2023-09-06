@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6388,9 +6388,9 @@
       "Count": 3399
     }
   ],
-  "EOS_Progressed": 227471,
+  "EOS_Progressed": 227481,
   "EOS_Completed": 2256,
-  "EOS_NewPlayers": 1360,
+  "EOS_NewPlayers": 1361,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -21703,6 +21703,11 @@
       "Time": "2023-09-06T10:05:49.1496267+00:00",
       "NumProgressed": 227471,
       "NumCompleted": 2256
+    },
+    {
+      "Time": "2023-09-06T11:06:28.9976035+00:00",
+      "NumProgressed": 227481,
+      "NumCompleted": 2256
     }
   ],
   "TotalAchievements": 520,
@@ -25842,7 +25847,7 @@
       "Name": "Legends and Lore",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "objective_completed_1366",
@@ -25858,7 +25863,7 @@
       "Name": "The End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "objective_completed_1371",
@@ -25873,21 +25878,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193745,
+      "Progressed": 193755,
       "Completed": 3404
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227471,
+      "Progressed": 227481,
       "Completed": 2256
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-06T01:39:41.1453487+00:00",
-  "LastChanged_Achievements": "2023-09-06T10:05:49.1496262+00:00",
+  "LastChanged_Achievements": "2023-09-06T11:06:28.9976029+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:58:56.1602281+00:00",
-  "LastUpdate_Achievements": "2023-09-06T10:05:49.1523928+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:59:12.9118894+00:00",
+  "LastUpdate_Achievements": "2023-09-06T11:06:29.0000224+00:00"
 }

@@ -19,9 +19,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 1.00% | ~1,357 |
 | Capitalism Ho! | 1.00% | ~1,357 |
 | Own the Means of Production | 1.00% | ~1,357 |
+| The Daily Grind | 0.80% | ~1,086 |
 | One-Armed Bandit | 0.80% | ~1,086 |
 | Through Repetition, Perfection | 0.80% | ~1,086 |
-| The Daily Grind | 0.70% | ~950 |
 | Bounty Hunters | 0.70% | ~950 |
 | Demand for Supplies | 0.70% | ~950 |
 | Flooding the Market | 0.70% | ~950 |
@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 0.70% | ~950 |
 | Ascended | 0.60% | ~814 |
 | Blank Page Syndrome | 0.60% | ~814 |
+| Efficient Floor Space | 0.60% | ~814 |
 | Gild-Gotten Goods | 0.60% | ~814 |
 | Accomplished Merchant | 0.60% | ~814 |
 | Did we pack lunch? | 0.60% | ~814 |
@@ -38,7 +39,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Vanity, Verily | 0.50% | ~679 |
 | Fated Encounters | 0.50% | ~679 |
 | Power of Love | 0.50% | ~679 |
-| Efficient Floor Space | 0.50% | ~679 |
 | Flawless Fusion | 0.50% | ~679 |
 | Gem Expert | 0.50% | ~679 |
 | Helping Hand | 0.50% | ~679 |

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~62,056 |
+| Sowwy! | 28.00% | ~62,058 |
 | Alt+F4 | 4.00% | ~8,865 |
 | Déjà vu | 3.00% | ~6,649 |
 | Where's that freaking Dwarf? | 3.00% | ~6,649 |
@@ -33,11 +33,11 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 0.90% | ~1,995 |
 | The Ranger of Chaos | 0.90% | ~1,995 |
 | I am the night | 0.90% | ~1,995 |
+| Res Judicata | 0.80% | ~1,773 |
 | The Famous Dungeon of Naheulbeuk | 0.80% | ~1,773 |
 | %#*!$*! | 0.80% | ~1,773 |
 | Look but don't touch | 0.80% | ~1,773 |
 | Thieves' Guild Accreditation | 0.80% | ~1,773 |
-| Res Judicata | 0.70% | ~1,551 |
 | Dwarf Fortress | 0.70% | ~1,551 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,330 |
 | Lust and Debauchery | 0.60% | ~1,330 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,628 (Ranked 57)  
+Progressed: 221,636 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.00%) (Ranked 270)
 | 2023-09-03 | 220,988 | 2 |
 | 2023-09-04 | 221,298 | 2 |
 | 2023-09-05 | 221,553 | 2 |
-| 2023-09-06 | 221,628 | 2 |
+| 2023-09-06 | 221,636 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
 Sum: 263 (Ranked 353)  

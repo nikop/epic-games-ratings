@@ -2,7 +2,7 @@
   "ID": "pansy",
   "Name": "Dangerous Driving",
   "ProductSlug": "dangerous-driving",
-  "Ranking_EOS_Progress": 575,
+  "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.5136524+00:00",
   "LastChanged": "2023-03-31T05:57:47.5136524+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:39.0376991+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:57:20.4274353+00:00",
-  "LastUpdate_Achievements": "2023-09-06T10:06:29.8611726+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:57:11.9434824+00:00",
+  "LastUpdate_Achievements": "2023-09-06T11:07:17.1970225+00:00"
 }

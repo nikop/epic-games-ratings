@@ -25,8 +25,8 @@
 | Spirit of the past | 64.00% | ~203 |
 | Workout professional | 62.00% | ~197 |
 | Law student | 62.00% | ~197 |
+| Champion – starter pack | 61.00% | ~193 |
 | Handyman | 60.00% | ~190 |
-| Champion – starter pack | 60.00% | ~190 |
 | It's good to be alive | 60.00% | ~190 |
 | Own four walls | 60.00% | ~190 |
 | Employee of the year | 60.00% | ~190 |
@@ -51,8 +51,8 @@
 | GYM professional | 38.00% | ~120 |
 | Poisoned fighter | 38.00% | ~120 |
 | Seashell hunter | 37.00% | ~117 |
+| Gang wrangler | 36.00% | ~114 |
 | Your own way | 36.00% | ~114 |
-| Gang wrangler | 35.00% | ~111 |
 | Undercover robot | 34.00% | ~108 |
 | Problems of cyborgs | 33.00% | ~105 |
 | Absolute Champion! | 33.00% | ~105 |

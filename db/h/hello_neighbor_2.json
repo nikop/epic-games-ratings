@@ -390,7 +390,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2837,
+  "EOS_Progressed": 2838,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
@@ -3085,6 +3085,11 @@
       "Time": "2023-09-05T16:05:31.0887446+00:00",
       "NumProgressed": 2837,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-06T11:06:02.3560692+00:00",
+      "NumProgressed": 2838,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 14,
@@ -3104,7 +3109,7 @@
       "Name": "Case Closed",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -3120,7 +3125,7 @@
       "Name": "Climber",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -3128,7 +3133,7 @@
       "Name": "Dog Person",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -3152,7 +3157,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -3176,7 +3181,7 @@
       "Name": "Reunion",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -3192,7 +3197,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -3200,14 +3205,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 2184
+      "UsersEstimate": 2185
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2837,
+      "Progressed": 2838,
       "Completed": 113
     }
   ],
@@ -3215,8 +3220,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-08-24T16:58:59.1002647+00:00",
-  "LastChanged_Achievements": "2023-09-06T10:05:27.1866424+00:00",
+  "LastChanged_Achievements": "2023-09-06T11:06:02.3560688+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:50.250711+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:57:07.7643472+00:00",
-  "LastUpdate_Achievements": "2023-09-06T10:05:27.1866695+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:56:59.0619432+00:00",
+  "LastUpdate_Achievements": "2023-09-06T11:06:02.3560893+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "040baa2d100d465caf428c688cc3cdba",
   "Name": "Escape Academy",
   "ProductSlug": "escape-academy-bfc2bf",
-  "Ranking_EOS_Progress": 575,
+  "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0407293+00:00",
   "LastChanged": "2023-03-31T05:57:28.0407294+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:00.4117054+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:58:34.1603796+00:00",
-  "LastUpdate_Achievements": "2023-09-06T10:05:10.0687927+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:58:46.2649092+00:00",
+  "LastUpdate_Achievements": "2023-09-06T11:05:41.771915+00:00"
 }

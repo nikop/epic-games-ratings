@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 478,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 18.45,
+  "EOS_Completed_Percentage": 18.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2328,6 +2328,11 @@
       "Time": "2023-09-06T05:04:21.6408576+00:00",
       "NumProgressed": 477,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-09-06T11:04:06.2055003+00:00",
+      "NumProgressed": 478,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -2339,7 +2344,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "LEVEL_002",
@@ -2347,7 +2352,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "LEVEL_003",
@@ -2371,7 +2376,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "LEVEL_006",
@@ -2395,7 +2400,7 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "LEVEL_009",
@@ -2411,7 +2416,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "LEVEL_011",
@@ -2427,7 +2432,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "LEVEL_013",
@@ -2475,7 +2480,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LEVEL_019",
@@ -2514,7 +2519,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 478,
       "Completed": 88
     }
   ],
@@ -2522,8 +2527,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-06T10:03:49.1334013+00:00",
+  "LastChanged_Achievements": "2023-09-06T11:04:06.2054999+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:24.6257817+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:58:53.5813199+00:00",
-  "LastUpdate_Achievements": "2023-09-06T10:03:49.1334287+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:59:10.5998235+00:00",
+  "LastUpdate_Achievements": "2023-09-06T11:04:06.2055249+00:00"
 }
