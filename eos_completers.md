@@ -14,7 +14,7 @@
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.86% |
-| 15 | [Island Cities](games/i/island_cities.md) | 18.49% |
+| 15 | [Island Cities](games/i/island_cities.md) | 18.45% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
@@ -93,7 +93,7 @@
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.17% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.16% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
-| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -115,8 +115,8 @@
 | 113 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 114 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 115 | [Chorus](games/c/chorus.md) | 1.20% |
-| 116 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.11% |
-| 117 | [Trifox](games/t/trifox.md) | 1.10% |
+| 116 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.10% |
+| 116 | [Trifox](games/t/trifox.md) | 1.10% |
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |

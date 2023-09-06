@@ -21,7 +21,7 @@
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,392 | 4.57 | 452 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 18,941 | 4.26 | 830 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,082 | 4.89 | 13 |
-| 22 | [Warframe](games/w/warframe.md) | 16,856 | 4.60 | 393 |
+| 22 | [Warframe](games/w/warframe.md) | 16,866 | 4.60 | 393 |
 | 23 | [League of Legends](games/l/league_of_legends.md) | 15,806 | 4.21 | 859 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,228 | 4.76 | 117 |
 | 25 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,463 | 4.58 | 431 |
@@ -119,7 +119,7 @@
 | 117 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,720 | 4.50 | 564 |
 | 118 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,707 | 4.76 | 117 |
 | 119 | [Celeste](games/c/celeste.md) | 1,588 | 4.92 | 4 |
-| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,575 | 4.82 | 66 |
+| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,580 | 4.82 | 66 |
 | 121 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,501 | 4.79 | 88 |
 | 122 | [Ring of Pain](games/r/ring_of_pain.md) | 1,488 | 4.58 | 431 |
 | 123 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,471 | 4.78 | 101 |
@@ -449,7 +449,7 @@
 | 447 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 354 |
 | 447 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 34 | 4.52 | 532 |
 | 447 | [TUNIC](games/t/tunic.md) | 34 | 4.83 | 60 |
-| 450 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 33 | 4.13 | 909 |
+| 450 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 33 | 4.13 | 910 |
 | 450 | [DOOM (1993)](games/d/doom_(1993).md) | 33 | 4.82 | 66 |
 | 450 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.19 | 872 |
 | 450 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 33 | 4.44 | 652 |
@@ -476,7 +476,7 @@
 | 472 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 472 |
 | 472 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 27 | 4.60 | 393 |
 | 472 | [Forspoken](games/f/forspoken.md) | 27 | 4.15 | 898 |
-| 472 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 906 |
+| 472 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 907 |
 | 472 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 218 |
 | 472 | [Warpips](games/w/warpips.md) | 27 | 4.41 | 690 |
 | 480 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 26 | 4.47 | 614 |

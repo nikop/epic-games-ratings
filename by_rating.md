@@ -66,7 +66,7 @@
 | 60 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 89 | 355 |
 | 60 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 447 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 517 |
-| 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,575 | 120 |
+| 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,580 | 120 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,775 | 63 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 517 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 517 |
@@ -413,7 +413,7 @@
 | 393 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 517 |
 | 393 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 497 |
 | 393 | [Wall World](games/w/wall_world.md) | 4.60 | 0 | 517 |
-| 393 | [Warframe](games/w/warframe.md) | 4.60 | 16,856 | 22 |
+| 393 | [Warframe](games/w/warframe.md) | 4.60 | 16,866 | 22 |
 | 393 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 431 | 209 |
 | 393 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 358 |
 | 393 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 517 |
@@ -900,18 +900,18 @@
 | 898 | [Chernobylite](games/c/chernobylite.md) | 4.15 | 0 | 517 |
 | 898 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.15 | 0 | 517 |
 | 898 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 517 |
+| 898 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.15 | 0 | 517 |
 | 898 | [Forspoken](games/f/forspoken.md) | 4.15 | 27 | 472 |
 | 898 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.15 | 20 | 511 |
 | 898 | [Relicta](games/r/relicta.md) | 4.15 | 200 | 274 |
 | 898 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 517 |
 | 898 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 517 |
-| 906 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 472 |
-| 906 | [Pine](games/p/pine.md) | 4.14 | 0 | 517 |
-| 906 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
-| 909 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 517 |
-| 909 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.13 | 33 | 450 |
-| 909 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.13 | 0 | 517 |
-| 909 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 517 |
+| 907 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 472 |
+| 907 | [Pine](games/p/pine.md) | 4.14 | 0 | 517 |
+| 907 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
+| 910 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 517 |
+| 910 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.13 | 33 | 450 |
+| 910 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 517 |
 | 913 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.12 | 0 | 517 |
 | 913 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 517 |
 | 915 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 88 | 356 |
