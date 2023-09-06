@@ -143,8 +143,8 @@
 | 141 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 141 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
 | 143 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
-| 143 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.59% |
-| 145 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
+| 144 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
+| 144 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.58% |
 | 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.56% |
 | 146 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 148 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
