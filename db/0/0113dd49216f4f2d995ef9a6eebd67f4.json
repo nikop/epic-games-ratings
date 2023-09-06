@@ -3,9 +3,9 @@
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -347,17 +347,17 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -419,9 +419,9 @@
       "ID": "SG_QUEENWITHOUTATHRONE",
       "SetID": "bj5g0n4",
       "Name": "Queen Without A Throne",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -475,9 +475,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -554,8 +554,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-06T21:07:06.2511575+00:00",
+  "LastChanged_Achievements": "2023-09-06T22:07:38.5969121+00:00",
   "LastUpdate_AppInfo": "2023-08-31T08:57:14.3102562+00:00",
-  "LastUpdate_Ratings": "2023-09-06T20:57:10.9351655+00:00",
-  "LastUpdate_Achievements": "2023-09-06T21:07:06.2511881+00:00"
+  "LastUpdate_Ratings": "2023-09-06T21:57:13.9025617+00:00",
+  "LastUpdate_Achievements": "2023-09-06T22:07:38.5969445+00:00"
 }

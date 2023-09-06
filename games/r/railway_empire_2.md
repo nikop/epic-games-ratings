@@ -5,8 +5,8 @@ Rating: 4.47 (Ranked 614)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Country Bumpkin | 75.00% | ~1,408 |
 | A new Journey | 74.00% | ~1,389 |
-| Country Bumpkin | 74.00% | ~1,389 |
 | Departure | 73.00% | ~1,370 |
 | From X to Y | 72.00% | ~1,351 |
 | Way of Iron | 70.00% | ~1,314 |
@@ -62,7 +62,7 @@ Rating: 4.47 (Ranked 614)
 | United States | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,877 (Ranked 179)  
-Completed: 0 (0.00%) (Ranked 270)  
+Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

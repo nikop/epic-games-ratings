@@ -3,9 +3,9 @@
   "Name": "My Pet Hooligan",
   "ProductSlug": "my-pet-hooligan-453949",
   "Ranking_EOS_Progress": 578,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-06T06:57:21.7900146+00:00",
-  "LastUpdate_Ratings": "2023-09-06T20:57:46.1913765+00:00",
-  "LastUpdate_Achievements": "2023-09-06T21:05:52.0606649+00:00"
+  "LastUpdate_Ratings": "2023-09-06T21:57:53.0650566+00:00",
+  "LastUpdate_Achievements": "2023-09-06T22:06:34.5331109+00:00"
 }

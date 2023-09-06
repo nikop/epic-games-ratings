@@ -3,9 +3,9 @@
   "Name": "Quest Hunter",
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -729,9 +729,9 @@
       "ID": "questBountyHunter",
       "SetID": "ci65fo0",
       "Name": "Bounty hunter",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "questBuildShip",
@@ -833,9 +833,9 @@
       "ID": "questHallucinationsKing",
       "SetID": "ci65fo0",
       "Name": "Hallucinations King",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "questKillGoblinMage",
@@ -990,8 +990,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-06T21:06:27.2660351+00:00",
+  "LastChanged_Achievements": "2023-09-06T22:07:04.5515601+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-06T20:57:32.8912874+00:00",
-  "LastUpdate_Achievements": "2023-09-06T21:06:27.2661198+00:00"
+  "LastUpdate_Ratings": "2023-09-06T21:57:36.14109+00:00",
+  "LastUpdate_Achievements": "2023-09-06T22:07:04.5516698+00:00"
 }

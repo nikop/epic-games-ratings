@@ -6,27 +6,27 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 6.00% | ~1,348 |
+| Diligence as a goal | 6.00% | ~1,349 |
 | Project Arena | 4.00% | ~899 |
-| The Old Grandmaster | 2.00% | ~14,263 |
-| The Assault | 2.00% | ~14,263 |
-| The Hateful Pole Fighter | 2.00% | ~14,263 |
-| A Lady's Blood in the Snow | 2.00% | ~14,263 |
-| Lady Wing Chun | 2.00% | ~14,263 |
-| Furious Fists | 2.00% | ~14,263 |
-| Kill Nil | 2.00% | ~14,263 |
-| Stuntmaster | 2.00% | ~14,263 |
-| Street Fighting | 2.00% | ~14,263 |
-| Life is your teacher | 2.00% | ~14,263 |
-| State of constant learning | 2.00% | ~14,263 |
-| Qi Gong: Breath | 2.00% | ~14,263 |
-| Qi Gong: Essence | 2.00% | ~14,263 |
-| Old Child | 2.00% | ~14,263 |
-| Lightning Hands | 2.00% | ~14,263 |
-| Path of the Prospect | 2.00% | ~14,263 |
-| Rumble in the Hangar | 2.00% | ~14,263 |
-| Take damage to save time | 2.00% | ~14,263 |
-| Bloody Sport | 2.00% | ~449 |
+| The Old Grandmaster | 2.00% | ~14,264 |
+| The Assault | 2.00% | ~14,264 |
+| The Hateful Pole Fighter | 2.00% | ~14,264 |
+| A Lady's Blood in the Snow | 2.00% | ~14,264 |
+| Lady Wing Chun | 2.00% | ~14,264 |
+| Furious Fists | 2.00% | ~14,264 |
+| Kill Nil | 2.00% | ~14,264 |
+| Stuntmaster | 2.00% | ~14,264 |
+| Street Fighting | 2.00% | ~14,264 |
+| Life is your teacher | 2.00% | ~14,264 |
+| State of constant learning | 2.00% | ~14,264 |
+| Qi Gong: Breath | 2.00% | ~14,264 |
+| Qi Gong: Essence | 2.00% | ~14,264 |
+| Old Child | 2.00% | ~14,264 |
+| Lightning Hands | 2.00% | ~14,264 |
+| Path of the Prospect | 2.00% | ~14,264 |
+| Rumble in the Hangar | 2.00% | ~14,264 |
+| Take damage to save time | 2.00% | ~14,264 |
+| Bloody Sport | 2.00% | ~450 |
 | Scareless | 1.00% | ~7,132 |
 | Dance of the Praying Mantis | 1.00% | ~7,132 |
 | Qi Gong: Mind | 1.00% | ~7,132 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,169 (Ranked 20)  
+Progressed: 713,178 (Ranked 20)  
 Completed: 12,886 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 12,886 (1.81%) (Ranked 99)
 | 2023-09-03 | 712,929 | 12,882 |
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
-| 2023-09-06 | 713,169 | 12,886 |
+| 2023-09-06 | 713,178 | 12,886 |
 ## Awards
 Max (Great Boss Battles): 6,440  (Ranked 54)  
 Sum: 11,080 (Ranked 80)  

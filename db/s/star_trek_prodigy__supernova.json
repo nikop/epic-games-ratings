@@ -3,9 +3,9 @@
   "Name": "Star Trek Prodigy: Supernova",
   "ProductSlug": "star-trek-prodigy-supernova-cdb770",
   "Ranking_EOS_Progress": 452,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-01-18T19:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -424,8 +424,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-09-06T21:03:08.3972941+00:00",
+  "LastChanged_Achievements": "2023-09-06T22:03:12.4305669+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:18.8668247+00:00",
-  "LastUpdate_Ratings": "2023-09-06T20:58:49.8948556+00:00",
-  "LastUpdate_Achievements": "2023-09-06T21:03:08.3973305+00:00"
+  "LastUpdate_Ratings": "2023-09-06T21:59:05.7755676+00:00",
+  "LastUpdate_Achievements": "2023-09-06T22:03:12.4306004+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Clid The Snail",
   "ProductSlug": "clid-the-snail",
   "Ranking_EOS_Progress": 578,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-12-15T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.8088524+00:00",
   "LastChanged": "2023-03-31T05:58:25.8088525+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.3825764+00:00",
-  "LastUpdate_Ratings": "2023-09-06T21:00:45.9271419+00:00",
-  "LastUpdate_Achievements": "2023-09-06T21:04:47.890408+00:00"
+  "LastUpdate_Ratings": "2023-09-06T22:01:17.9435519+00:00",
+  "LastUpdate_Achievements": "2023-09-06T22:05:18.8638243+00:00"
 }

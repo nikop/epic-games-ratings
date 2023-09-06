@@ -128,13 +128,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Old | 0.60% | ~83 |
 | Strong Difficulty | 0.60% | ~83 |
+| Clerics | 0.60% | ~83 |
 | Learn to Play 4 | 0.60% | ~83 |
 | One True Faith | 0.60% | ~83 |
 | Hittite Paganism | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
 | No Undo | 0.60% | ~83 |
 | Peacemaker | 0.50% | ~69 |
-| Clerics | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
 | Rome | 0.50% | ~69 |

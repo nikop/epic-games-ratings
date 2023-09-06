@@ -2,9 +2,9 @@
   "ID": "d5241c76f178492ea1540fce45616757",
   "Name": "Atmosphere",
   "Ranking_EOS_Progress": 578,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:08.3424065+00:00",
-  "LastUpdate_Ratings": "2023-09-06T20:59:57.096561+00:00",
-  "LastUpdate_Achievements": "2023-09-06T21:06:24.0636781+00:00"
+  "LastUpdate_Ratings": "2023-09-06T22:00:26.8489104+00:00",
+  "LastUpdate_Achievements": "2023-09-06T22:07:00.6721228+00:00"
 }

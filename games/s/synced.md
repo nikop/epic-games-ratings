@@ -22,7 +22,7 @@
 | More Power to You | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19 (Ranked 438)  
-Completed: 0 (0.00%) (Ranked 270)  
+Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 683,
   "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 578,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 31,
   "RatingHistory": [
     {
@@ -502,10 +502,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 122,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2023-09-06T21:58:27.7272235+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 123,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 122,
+  "NumberOfAwards": 123,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -525,7 +531,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
@@ -560,9 +566,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2023-09-05T15:58:07.9978134+00:00",
-  "LastChanged_Achievements": "2023-09-06T21:06:51.8767352+00:00",
+  "LastChanged": "2023-09-06T21:58:27.7272233+00:00",
+  "LastChanged_Achievements": "2023-09-06T22:07:33.4082427+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:17.1297296+00:00",
-  "LastUpdate_Ratings": "2023-09-06T20:58:18.2933361+00:00",
-  "LastUpdate_Achievements": "2023-09-06T21:06:51.8767388+00:00"
+  "LastUpdate_Ratings": "2023-09-06T21:58:27.7272239+00:00",
+  "LastUpdate_Achievements": "2023-09-06T22:07:33.4082464+00:00"
 }

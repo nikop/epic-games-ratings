@@ -6,35 +6,35 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~235,681 |
-| Into the Unknown | 35.00% | ~217,075 |
-| First Shot | 35.00% | ~217,075 |
-| Herzlich Wilkommen! | 33.00% | ~204,670 |
-| Good Night & Good Luck | 33.00% | ~204,670 |
-| Sancho Panza | 32.00% | ~198,468 |
-| Oh, So This Is How It Works! | 29.00% | ~179,862 |
-| Flag Burning | 27.00% | ~167,458 |
-| It Wasn't That Hard, Was It? | 25.00% | ~155,053 |
-| Can't Touch This! | 25.00% | ~155,053 |
-| Under Pressure | 24.00% | ~148,851 |
-| On the Trail of the Enemy | 24.00% | ~148,851 |
-| Light in the Darkness | 24.00% | ~148,851 |
-| Get Outta My House! | 23.00% | ~142,649 |
-| Night Hunter | 22.00% | ~136,447 |
-| Being All Social | 22.00% | ~136,447 |
-| After the Fall | 20.00% | ~124,043 |
-| We Will Be Heard! | 18.00% | ~111,638 |
-| Tunnel Entrance | 18.00% | ~111,638 |
-| Known Associate | 17.00% | ~105,436 |
-| Brush with Death | 16.00% | ~99,234 |
-| Debris and Ashes | 15.00% | ~93,032 |
-| Going Down | 15.00% | ~93,032 |
-| Family First | 15.00% | ~93,032 |
-| Your World, Your Rules | 15.00% | ~93,032 |
-| Death From Afar | 14.00% | ~86,830 |
-| Terminal Headache | 14.00% | ~86,830 |
-| Slowpoke! | 12.00% | ~74,426 |
-| Tickets, Please! | 7.00% | ~43,415 |
+| You Never Forget Your First... | 38.00% | ~235,685 |
+| Into the Unknown | 35.00% | ~217,078 |
+| First Shot | 35.00% | ~217,078 |
+| Herzlich Wilkommen! | 33.00% | ~204,674 |
+| Good Night & Good Luck | 33.00% | ~204,674 |
+| Sancho Panza | 32.00% | ~198,472 |
+| Oh, So This Is How It Works! | 29.00% | ~179,865 |
+| Flag Burning | 27.00% | ~167,460 |
+| It Wasn't That Hard, Was It? | 25.00% | ~155,056 |
+| Can't Touch This! | 25.00% | ~155,056 |
+| Under Pressure | 24.00% | ~148,854 |
+| On the Trail of the Enemy | 24.00% | ~148,854 |
+| Light in the Darkness | 24.00% | ~148,854 |
+| Get Outta My House! | 23.00% | ~142,652 |
+| Night Hunter | 22.00% | ~136,449 |
+| Being All Social | 22.00% | ~136,449 |
+| After the Fall | 20.00% | ~124,045 |
+| We Will Be Heard! | 18.00% | ~111,640 |
+| Tunnel Entrance | 18.00% | ~111,640 |
+| Known Associate | 17.00% | ~105,438 |
+| Brush with Death | 16.00% | ~99,236 |
+| Debris and Ashes | 15.00% | ~93,034 |
+| Going Down | 15.00% | ~93,034 |
+| Family First | 15.00% | ~93,034 |
+| Your World, Your Rules | 15.00% | ~93,034 |
+| Death From Afar | 14.00% | ~86,831 |
+| Terminal Headache | 14.00% | ~86,831 |
+| Slowpoke! | 12.00% | ~74,427 |
+| Tickets, Please! | 7.00% | ~43,416 |
 | Parkour Master | 6.00% | ~37,213 |
 | Combat Master | 6.00% | ~37,213 |
 | Municipal Services | 5.00% | ~31,011 |
@@ -44,10 +44,10 @@ Number of Ratings: 7,305  (23.09.2022)
 | Don Quixote | 4.00% | ~24,809 |
 | Can't You Read the Signs? | 4.00% | ~24,809 |
 | Boot Licker | 4.00% | ~24,809 |
-| Tanning Salon | 3.00% | ~18,606 |
-| That's Teamwork! | 3.00% | ~18,606 |
-| Ironheart | 3.00% | ~18,606 |
-| You're Going Down! | 3.00% | ~18,606 |
+| Tanning Salon | 3.00% | ~18,607 |
+| That's Teamwork! | 3.00% | ~18,607 |
+| Ironheart | 3.00% | ~18,607 |
+| You're Going Down! | 3.00% | ~18,607 |
 | Revenants | 2.00% | ~12,404 |
 | Who Wants To Be a... | 2.00% | ~12,404 |
 | Lightning Reflexes | 2.00% | ~12,404 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~266 |
 | Connoisseur | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 620,213 (Ranked 27)  
+Progressed: 620,224 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,11 +211,11 @@ Completed: 62 (0.01%) (Ranked 256)
 | 2023-09-03 | 619,310 | 62 |
 | 2023-09-04 | 619,606 | 62 |
 | 2023-09-05 | 619,876 | 62 |
-| 2023-09-06 | 620,213 | 62 |
+| 2023-09-06 | 620,224 | 62 |
 ## Awards
 Max (Character Customization): 9,012  (Ranked 40)  
-Sum: 21,728 (Ranked 54)  
-Diff (max vs sum): -14  
+Sum: 21,728 (Ranked 55)  
+Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 9,012 |

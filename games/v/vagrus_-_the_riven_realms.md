@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135 (Ranked 327)  
-Completed: 0 (0.00%) (Ranked 270)  
+Progressed: 135 (Ranked 328)  
+Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -30,8 +30,8 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,190 (Ranked 199)  
-Completed: 0 (0.00%) (Ranked 270)  
+Progressed: 1,192 (Ranked 199)  
+Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-03 | 1,137 | 0 |
 | 2023-09-04 | 1,154 | 0 |
 | 2023-09-05 | 1,177 | 0 |
-| 2023-09-06 | 1,190 | 0 |
+| 2023-09-06 | 1,192 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 254 (Ranked 354)  

@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,751 |
-| That's a Grand Army | 3.00% | ~11,813 |
-| That is mine! | 3.00% | ~11,813 |
-| Victorious! | 3.00% | ~11,813 |
+| Until death do us apart | 4.00% | ~15,753 |
+| That's a Grand Army | 3.00% | ~11,815 |
+| That is mine! | 3.00% | ~11,815 |
+| Victorious! | 3.00% | ~11,815 |
 | Brothers in Arms | 2.00% | ~7,876 |
 | For the Glory | 2.00% | ~7,876 |
 | That's a Grand Navy | 2.00% | ~7,876 |
@@ -20,12 +20,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | True Catholic | 1.00% | ~3,938 |
 | Respected | 0.90% | ~3,544 |
 | The Princess is in this Castle | 0.90% | ~3,544 |
-| It's all about luck | 0.80% | ~3,150 |
-| Truly Divine Ruler | 0.80% | ~3,150 |
-| Blockader | 0.70% | ~2,756 |
-| Double the Love | 0.70% | ~2,756 |
-| Royal Authority | 0.70% | ~2,756 |
-| Total Control | 0.70% | ~2,756 |
+| It's all about luck | 0.80% | ~3,151 |
+| Truly Divine Ruler | 0.80% | ~3,151 |
+| Blockader | 0.70% | ~2,757 |
+| Double the Love | 0.70% | ~2,757 |
+| Royal Authority | 0.70% | ~2,757 |
+| Total Control | 0.70% | ~2,757 |
 | My armies are invincible! | 0.60% | ~2,363 |
 | Agressive Expander | 0.50% | ~1,969 |
 | City of Cities | 0.50% | ~1,969 |
@@ -361,8 +361,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393,783 (Ranked 40)  
-Completed: 0 (0.00%) (Ranked 270)  
+Progressed: 393,822 (Ranked 40)  
+Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -500,7 +500,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-03 | 390,095 | 0 |
 | 2023-09-04 | 391,485 | 0 |
 | 2023-09-05 | 392,723 | 0 |
-| 2023-09-06 | 393,783 | 0 |
+| 2023-09-06 | 393,822 | 0 |
 ## Awards
 Max (Educational): 5,958  (Ranked 59)  
 Sum: 49,001 (Ranked 26)  

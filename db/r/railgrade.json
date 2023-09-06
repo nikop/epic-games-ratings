@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19565,
+  "EOS_Progressed": 19564,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5527,6 +5527,11 @@
       "Time": "2023-09-06T21:01:22.0660838+00:00",
       "NumProgressed": 19565,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-09-06T22:03:06.5786479+00:00",
+      "NumProgressed": 19564,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -5570,7 +5575,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16238
     },
     {
       "ID": "ach.060.goingdistance",
@@ -5594,7 +5599,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13696
+      "UsersEstimate": 13695
     },
     {
       "ID": "ach.090.perfectionist",
@@ -5602,7 +5607,7 @@
       "Name": "Perfectionist",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4696
+      "UsersEstimate": 4695
     },
     {
       "ID": "ach.100.indecisive",
@@ -5618,7 +5623,7 @@
       "Name": "Multiverse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1369
     },
     {
       "ID": "ach.120.simplification",
@@ -5642,7 +5647,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19174
+      "UsersEstimate": 19173
     },
     {
       "ID": "ach.150.pocket",
@@ -5690,7 +5695,7 @@
       "Name": "Let There be Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6261
+      "UsersEstimate": 6260
     },
     {
       "ID": "ach.210.baron",
@@ -5746,7 +5751,7 @@
       "Name": "The poor groundwater levels",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1369
     },
     {
       "ID": "ach.280.metropolis",
@@ -5754,7 +5759,7 @@
       "Name": "Metropolis",
       "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1369
     },
     {
       "ID": "ach.290.hightech",
@@ -5794,7 +5799,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17804
+      "UsersEstimate": 17803
     },
     {
       "ID": "ach.340.steel",
@@ -5833,7 +5838,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19565,
+      "Progressed": 19564,
       "Completed": 38
     }
   ],
@@ -5841,8 +5846,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-09-06T12:01:41.553383+00:00",
-  "LastChanged_Achievements": "2023-09-06T21:01:22.066083+00:00",
+  "LastChanged_Achievements": "2023-09-06T22:03:06.5786473+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.7999726+00:00",
-  "LastUpdate_Ratings": "2023-09-06T21:00:28.3797993+00:00",
-  "LastUpdate_Achievements": "2023-09-06T21:01:22.0661546+00:00"
+  "LastUpdate_Ratings": "2023-09-06T22:01:00.9995481+00:00",
+  "LastUpdate_Achievements": "2023-09-06T22:03:06.5787181+00:00"
 }
