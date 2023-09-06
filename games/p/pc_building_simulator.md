@@ -6,18 +6,18 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,741,848 |
-| Easy to forget | 46.00% | ~1,635,204 |
-| Back in the black | 39.00% | ~1,386,369 |
-| That's what I'm talking about | 29.00% | ~1,030,890 |
-| The Best of Both Worlds | 25.00% | ~888,698 |
-| Get your wings | 20.00% | ~710,958 |
-| Double trouble | 16.00% | ~568,767 |
-| Smashing it | 11.00% | ~391,027 |
-| But can it run Crysis? | 9.00% | ~319,931 |
-| My favourite feature... | 9.00% | ~319,931 |
-| From humble beginnings... | 7.00% | ~248,835 |
-| Customer satisfaction | 7.00% | ~248,835 |
+| You need to plug it in... | 49.00% | ~1,741,854 |
+| Easy to forget | 46.00% | ~1,635,210 |
+| Back in the black | 39.00% | ~1,386,374 |
+| That's what I'm talking about | 29.00% | ~1,030,893 |
+| The Best of Both Worlds | 25.00% | ~888,701 |
+| Get your wings | 20.00% | ~710,961 |
+| Double trouble | 16.00% | ~568,769 |
+| Smashing it | 11.00% | ~391,028 |
+| But can it run Crysis? | 9.00% | ~319,932 |
+| My favourite feature... | 9.00% | ~319,932 |
+| From humble beginnings... | 7.00% | ~248,836 |
+| Customer satisfaction | 7.00% | ~248,836 |
 | Keeping things neat | 4.00% | ~142,192 |
 | Seems you're pretty good at this | 4.00% | ~142,192 |
 | Bending over backwards | 4.00% | ~142,192 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,555 |
 | Treat yourself - GPU | 0.10% | ~3,555 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,554,792 (Ranked 5)  
+Progressed: 3,554,804 (Ranked 5)  
 Completed: 34 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,11 +198,11 @@ Completed: 34 (0.00%) (Ranked 270)
 | 2023-09-03 | 3,554,087 | 34 |
 | 2023-09-04 | 3,554,457 | 34 |
 | 2023-09-05 | 3,554,758 | 34 |
-| 2023-09-06 | 3,554,792 | 34 |
+| 2023-09-06 | 3,554,804 | 34 |
 ## Awards
-Max (Great for Beginners): 1,063  (Ranked 140)  
+Max (Great for Beginners): 1,063  (Ranked 141)  
 Sum: 7,966 (Ranked 100)  
-Diff (max vs sum): 40  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,063 |

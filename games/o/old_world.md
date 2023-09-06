@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.65 (Ranked 302)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -88,8 +88,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 1.00% | ~138 |
 | Legalism | 1.00% | ~138 |
 | Mythology | 1.00% | ~138 |
+| Legionary | 1.00% | ~138 |
 | Phalangite | 1.00% | ~138 |
 | Points Victory | 1.00% | ~138 |
+| Subjugator | 0.90% | ~124 |
 | Good Difficulty | 0.90% | ~124 |
 | Statesmen | 0.90% | ~124 |
 | Traders | 0.90% | ~124 |
@@ -98,12 +100,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
 | Redemption | 0.90% | ~124 |
-| Legionary | 0.90% | ~124 |
 | Win a Single Player Game | 0.90% | ~124 |
 | Capable | 0.80% | ~110 |
 | Invincible | 0.80% | ~110 |
 | Ready | 0.80% | ~110 |
-| Subjugator | 0.80% | ~110 |
+| Riders | 0.80% | ~110 |
 | Circus Maximus | 0.80% | ~110 |
 | Church of the Holy Sepulchre | 0.80% | ~110 |
 | Assyrian Paganism | 0.80% | ~110 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.70% | ~97 |
 | Devout | 0.70% | ~97 |
 | Landowners | 0.70% | ~97 |
-| Riders | 0.70% | ~97 |
 | Adur Burzen-Mihr | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
 | Carthage | 0.70% | ~97 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Ancient | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
+| Persia | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
 | Ten Crowns | 0.40% | ~55 |
@@ -153,7 +154,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.30% | ~41 |
 | Learn to Play 5 | 0.30% | ~41 |
 | Hatti | 0.30% | ~41 |
-| Persia | 0.30% | ~41 |
 | Pantheon of Gods | 0.30% | ~41 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~41 |
 | Capturing Cities | 0.30% | ~41 |

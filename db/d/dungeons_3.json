@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2584,9 +2584,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29621,
+  "EOS_Progressed": 29622,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -17639,6 +17639,11 @@
       "Time": "2023-09-06T02:23:56.833938+00:00",
       "NumProgressed": 29621,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-09-06T03:08:33.5903762+00:00",
+      "NumProgressed": 29622,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 60,
@@ -17650,7 +17655,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17180
+      "UsersEstimate": 17181
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -17666,7 +17671,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16884
+      "UsersEstimate": 16885
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -17714,7 +17719,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7405
+      "UsersEstimate": 7406
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -17762,7 +17767,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14514
+      "UsersEstimate": 14515
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -17866,7 +17871,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11848
+      "UsersEstimate": 11849
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -17888,9 +17893,9 @@
       "ID": "ACH_D3_Campaign_Hungry_1",
       "SetID": "cda475f",
       "Name": "Thirst quencher",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7998
+      "UsersEstimate": 8294
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -17930,7 +17935,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7701
+      "UsersEstimate": 7702
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -18002,7 +18007,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6220
+      "UsersEstimate": 6221
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -18034,7 +18039,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13329
+      "UsersEstimate": 13330
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -18050,7 +18055,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20438
+      "UsersEstimate": 20439
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -18090,7 +18095,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -18098,7 +18103,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 8886
+      "UsersEstimate": 8887
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -18122,22 +18127,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7701
+      "UsersEstimate": 7702
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29621,
+      "Progressed": 29622,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-04T19:00:53.7599775+00:00",
-  "LastChanged_Achievements": "2023-09-06T02:23:56.8339373+00:00",
+  "LastChanged_Achievements": "2023-09-06T03:08:33.5903756+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:16:18.4492863+00:00",
-  "LastUpdate_Achievements": "2023-09-06T02:23:56.8340852+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:59:52.2988088+00:00",
+  "LastUpdate_Achievements": "2023-09-06T03:08:33.5905218+00:00"
 }

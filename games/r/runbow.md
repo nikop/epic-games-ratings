@@ -13,10 +13,10 @@ Rating: 4.46 (Ranked 626)
 | Curator | 20.00% | ~49,799 |
 | Crowning Around | 18.00% | ~44,819 |
 | Can You Dig It? | 17.00% | ~42,329 |
-| You Juan-A-Go? | 16.00% | ~39,839 |
-| Chan-tastic | 15.00% | ~37,349 |
-| Muddy Waters | 15.00% | ~37,349 |
-| Toasty! | 13.00% | ~32,369 |
+| You Juan-A-Go? | 16.00% | ~39,840 |
+| Chan-tastic | 15.00% | ~37,350 |
+| Muddy Waters | 15.00% | ~37,350 |
+| Toasty! | 13.00% | ~32,370 |
 | Lazy Laser | 8.00% | ~19,920 |
 | Just A Phaze | 7.00% | ~17,430 |
 | Into The Drift | 7.00% | ~17,430 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 626)
 | Talent Scout | 0.10% | ~249 |
 | True Completionist | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,996 (Ranked 48)  
+Progressed: 248,997 (Ranked 48)  
 Completed: 4 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 4 (0.00%) (Ranked 270)
 | 2023-09-03 | 248,915 | 4 |
 | 2023-09-04 | 248,959 | 4 |
 | 2023-09-05 | 248,990 | 4 |
-| 2023-09-06 | 248,996 | 4 |
+| 2023-09-06 | 248,997 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

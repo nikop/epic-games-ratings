@@ -4,7 +4,7 @@
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 652,
   "Ranking_Popularity": 187,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 348,
@@ -2224,10 +2224,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 2375,
       "NumberOfAwardsMax": 580
+    },
+    {
+      "Time": "2023-09-06T02:59:48.1169322+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 2376,
+      "NumberOfAwardsMax": 580
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2375,
+  "NumberOfAwards": 2376,
   "NumberOfAwardsMax": 580,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2277,7 +2283,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 239
+      "Count": 240
     },
     {
       "Text": "This game has a Creative Community",
@@ -2309,8 +2315,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2023-09-05T19:00:41.7657101+00:00",
+  "LastChanged": "2023-09-06T02:59:48.1169319+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.2183497+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:16:11.7787901+00:00",
-  "LastUpdate_Achievements": "2023-09-06T02:18:43.2019258+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:59:48.1169328+00:00",
+  "LastUpdate_Achievements": "2023-09-06T03:03:19.4668859+00:00"
 }

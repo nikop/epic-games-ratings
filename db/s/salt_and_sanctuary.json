@@ -2443,10 +2443,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1937,
       "NumberOfAwardsMax": 281
+    },
+    {
+      "Time": "2023-09-06T02:59:39.8643893+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1938,
+      "NumberOfAwardsMax": 281
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1937,
+  "NumberOfAwards": 1938,
   "NumberOfAwardsMax": 281,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2478,7 +2484,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 235
+      "Count": 236
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2511,9 +2517,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 532428,
+  "EOS_Progressed": 532430,
   "EOS_Completed": 1531,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -17551,6 +17557,11 @@
       "Time": "2023-09-06T02:18:51.1390039+00:00",
       "NumProgressed": 532428,
       "NumCompleted": 1531
+    },
+    {
+      "Time": "2023-09-06T03:03:25.1875814+00:00",
+      "NumProgressed": 532430,
+      "NumCompleted": 1531
     }
   ],
   "TotalAchievements": 37,
@@ -17578,7 +17589,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 159728
+      "UsersEstimate": 159729
     },
     {
       "ID": "DEVOTED",
@@ -17618,7 +17629,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 441915
+      "UsersEstimate": 441917
     },
     {
       "ID": "HONED",
@@ -17666,7 +17677,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26621
+      "UsersEstimate": 26622
     },
     {
       "ID": "THE_BANQUET",
@@ -17674,7 +17685,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 212971
+      "UsersEstimate": 212972
     },
     {
       "ID": "THE_CASTLE",
@@ -17778,7 +17789,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26621
+      "UsersEstimate": 26622
     },
     {
       "ID": "THE_RED_HALL",
@@ -17818,7 +17829,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 340754
+      "UsersEstimate": 340755
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -17834,7 +17845,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85188
+      "UsersEstimate": 85189
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -17857,15 +17868,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 532428,
+      "Progressed": 532430,
       "Completed": 1531
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-09-04T19:59:28.5738214+00:00",
-  "LastChanged_Achievements": "2023-09-06T02:18:51.1390033+00:00",
+  "LastChanged": "2023-09-06T02:59:39.8643889+00:00",
+  "LastChanged_Achievements": "2023-09-06T03:03:25.1875799+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:57.7923113+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:16:00.8096592+00:00",
-  "LastUpdate_Achievements": "2023-09-06T02:18:51.1391224+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:59:39.8643897+00:00",
+  "LastUpdate_Achievements": "2023-09-06T03:03:25.1877016+00:00"
 }

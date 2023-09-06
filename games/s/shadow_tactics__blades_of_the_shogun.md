@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~22,036 |
-| Thorough | 10.00% | ~20,032 |
-| A thief's beginning | 9.00% | ~18,029 |
+| Thorough | 10.00% | ~20,033 |
+| A thief's beginning | 9.00% | ~18,030 |
 | Disguised | 8.00% | ~16,026 |
 | Rescue Takuma | 8.00% | ~16,026 |
 | Rollin' | 8.00% | ~16,026 |
@@ -17,10 +17,10 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 7.00% | ~14,023 |
 | Stoned Ox | 7.00% | ~14,023 |
 | Yabu | 7.00% | ~14,023 |
-| Chunin | 6.00% | ~12,019 |
-| Flying Rocks | 6.00% | ~12,019 |
-| Happy Planning | 6.00% | ~12,019 |
-| Mugen Unchained | 6.00% | ~12,019 |
+| Chunin | 6.00% | ~12,020 |
+| Flying Rocks | 6.00% | ~12,020 |
+| Happy Planning | 6.00% | ~12,020 |
+| Mugen Unchained | 6.00% | ~12,020 |
 | Okkoto | 5.00% | ~10,016 |
 | Too Early | 5.00% | ~10,016 |
 | Warzone | 5.00% | ~10,016 |
@@ -31,10 +31,10 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 3.00% | ~6,010 |
 | Stoned | 3.00% | ~6,010 |
 | The Old Way | 3.00% | ~6,010 |
-| Atheist Ox | 2.00% | ~4,006 |
-| It's raining men | 2.00% | ~4,006 |
-| Old Man | 2.00% | ~4,006 |
-| Winner Winner | 2.00% | ~4,006 |
+| Atheist Ox | 2.00% | ~4,007 |
+| It's raining men | 2.00% | ~4,007 |
+| Old Man | 2.00% | ~4,007 |
+| Winner Winner | 2.00% | ~4,007 |
 | Meticulous | 1.00% | ~2,003 |
 | No Gimmicks | 1.00% | ~2,003 |
 | The End | 1.00% | ~2,003 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~200 |
 | Release the Kraken | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,324 (Ranked 61)  
+Progressed: 200,328 (Ranked 61)  
 Completed: 77 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 77 (0.04%) (Ranked 239)
 | 2023-09-03 | 199,900 | 76 |
 | 2023-09-04 | 200,108 | 76 |
 | 2023-09-05 | 200,306 | 76 |
-| 2023-09-06 | 200,324 | 77 |
+| 2023-09-06 | 200,328 | 77 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 191)  
 Sum: 4,743 (Ranked 135)  

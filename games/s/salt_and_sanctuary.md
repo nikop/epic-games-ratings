@@ -6,12 +6,12 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~441,915 |
-| The Three | 64.00% | ~340,754 |
-| The Banquet | 40.00% | ~212,971 |
-| Devara's Light | 30.00% | ~159,728 |
+| Find Sanctuary | 83.00% | ~441,917 |
+| The Three | 64.00% | ~340,755 |
+| The Banquet | 40.00% | ~212,972 |
+| Devara's Light | 30.00% | ~159,729 |
 | The Iron Ones | 18.00% | ~95,837 |
-| The Village | 16.00% | ~85,188 |
+| The Village | 16.00% | ~85,189 |
 | The Forest | 14.00% | ~74,540 |
 | The Keep | 14.00% | ~74,540 |
 | Branded | 13.00% | ~69,216 |
@@ -28,8 +28,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~31,946 |
 | The Lake | 6.00% | ~31,946 |
 | The Ruins | 6.00% | ~31,946 |
-| The Alkymancery | 5.00% | ~26,621 |
-| The Pitchwoods | 5.00% | ~26,621 |
+| The Alkymancery | 5.00% | ~26,622 |
+| The Pitchwoods | 5.00% | ~26,622 |
 | Honed | 4.00% | ~21,297 |
 | The House of Splendor | 4.00% | ~21,297 |
 | The Crypt | 4.00% | ~21,297 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,649 |
 | Fading Fast | 1.00% | ~5,324 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,428 (Ranked 30)  
+Progressed: 532,430 (Ranked 30)  
 Completed: 1,531 (0.29%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,18 +183,18 @@ Completed: 1,531 (0.29%) (Ranked 179)
 | 2023-09-03 | 532,242 | 1,528 |
 | 2023-09-04 | 532,335 | 1,530 |
 | 2023-09-05 | 532,421 | 1,531 |
-| 2023-09-06 | 532,428 | 1,531 |
+| 2023-09-06 | 532,430 | 1,531 |
 ## Awards
 Max (Challenging Combat): 281  (Ranked 244)  
-Sum: 1,937 (Ranked 204)  
+Sum: 1,938 (Ranked 204)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 281 |
 | This game has Quickly Understood Controls | 257 |
 | This game is Highly Recommended | 255 |
+| This game has Diverse Characters | 236 |
 | This game is Extremely Fun | 236 |
-| This game has Diverse Characters | 235 |
 | This game has Amazing Storytelling | 229 |
 | This game has Amazing Characters | 225 |
 | This game has Unique Visuals | 219 |
@@ -353,3 +353,4 @@ Diff (max vs sum): 40
 | 2023-08-31 | 4.61 | - | 280 | 1,935 |
 | 2023-09-02 | 4.61 | - | 281 | 1,936 |
 | 2023-09-04 | 4.61 | - | 281 | 1,937 |
+| 2023-09-06 | 4.61 | - | 281 | 1,938 |

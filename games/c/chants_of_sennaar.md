@@ -8,7 +8,7 @@
 | Welcome to the Tower | 21.00% | ~16 |
 | The Preacher's fate | 18.00% | ~14 |
 | The great escape | 18.00% | ~14 |
-| A new dawn | 16.00% | ~12 |
+| A new dawn | 17.00% | ~13 |
 | A good beginning | 13.00% | ~10 |
 | Rascal | 13.00% | ~10 |
 | Champollion | 13.00% | ~10 |

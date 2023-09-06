@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1390,
+  "EOS_Progressed": 1391,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1446,6 +1446,11 @@
       "Time": "2023-09-05T19:05:33.1053126+00:00",
       "NumProgressed": 1390,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-06T03:04:58.881223+00:00",
+      "NumProgressed": 1391,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1473,7 +1478,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1521,7 +1526,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1697,7 +1702,7 @@
       "Name": "War Endured",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "completedStory_legacy",
@@ -1904,15 +1909,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1390,
+      "Progressed": 1391,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-09-06T02:21:01.0560629+00:00",
+  "LastChanged_Achievements": "2023-09-06T03:04:58.8812224+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:10.2902661+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:17:39.1677229+00:00",
-  "LastUpdate_Achievements": "2023-09-06T02:21:01.0561243+00:00"
+  "LastUpdate_Ratings": "2023-09-06T03:02:18.4296493+00:00",
+  "LastUpdate_Achievements": "2023-09-06T03:04:58.8812972+00:00"
 }

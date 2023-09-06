@@ -6,9 +6,9 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~44,723 |
-| Worth it | 63.00% | ~36,122 |
-| Eagle Eye | 55.00% | ~31,535 |
+| Setting an example | 78.00% | ~44,724 |
+| Worth it | 63.00% | ~36,123 |
+| Eagle Eye | 55.00% | ~31,536 |
 | Corpseman I | 40.00% | ~22,935 |
 | Blast fishing | 37.00% | ~21,215 |
 | Not alone | 32.00% | ~18,348 |
@@ -17,7 +17,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Developers, Developers, Developers | 24.00% | ~13,761 |
 | Basic Training | 24.00% | ~13,761 |
 | Furchtlos und Treu | 13.00% | ~7,454 |
-| Gott Mit Uns | 12.00% | ~6,880 |
+| Gott Mit Uns | 12.00% | ~6,881 |
 | This We'll Defend! | 9.00% | ~5,160 |
 | Anker wirf! | 9.00% | ~5,160 |
 | Providentiea Memor | 9.00% | ~5,160 |
@@ -28,13 +28,13 @@ Number of Ratings: 1,999  (23.09.2022)
 | In Treue Fest | 5.00% | ~2,867 |
 | Voor De Koning | 5.00% | ~2,867 |
 | Extreme Headhunter | 5.00% | ~2,867 |
-| Advance Australia | 4.00% | ~2,293 |
-| We Stand on Guard | 4.00% | ~2,293 |
-| Sidi Brahim | 4.00% | ~2,293 |
-| War is better with friends I | 4.00% | ~2,293 |
-| Let them, come to us | 4.00% | ~2,293 |
-| Corpseman II | 4.00% | ~2,293 |
-| Manual Labour II | 4.00% | ~2,293 |
+| Advance Australia | 4.00% | ~2,294 |
+| We Stand on Guard | 4.00% | ~2,294 |
+| Sidi Brahim | 4.00% | ~2,294 |
+| War is better with friends I | 4.00% | ~2,294 |
+| Let them, come to us | 4.00% | ~2,294 |
+| Corpseman II | 4.00% | ~2,294 |
+| Manual Labour II | 4.00% | ~2,294 |
 | Offense is the best defence | 3.00% | ~1,720 |
 | There is no I in team | 3.00% | ~1,720 |
 | Veteran | 3.00% | ~1,720 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~57 |
 | Blood Brother | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,337 (Ranked 89)  
+Progressed: 57,338 (Ranked 89)  
 Completed: 4 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 4 (0.01%) (Ranked 256)
 | 2023-09-03 | 57,173 | 4 |
 | 2023-09-04 | 57,255 | 4 |
 | 2023-09-05 | 57,327 | 4 |
-| 2023-09-06 | 57,337 | 4 |
+| 2023-09-06 | 57,338 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 343)  
 Sum: 772 (Ranked 267)  

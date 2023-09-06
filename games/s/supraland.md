@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~717,355 |
-| The Blues | 85.00% | ~615,911 |
+| Out of bed | 99.00% | ~717,356 |
+| The Blues | 85.00% | ~615,912 |
 | Fast | 66.00% | ~478,237 |
 | Healthbar | 55.00% | ~398,531 |
 | Force Cube | 53.00% | ~384,039 |
-| Double Jump | 48.00% | ~347,808 |
-| Regeneration | 47.00% | ~340,562 |
-| Triple Jump | 43.00% | ~311,578 |
-| Climb the hill | 42.00% | ~304,332 |
-| Through the fire pipe | 39.00% | ~282,594 |
-| MacGuffin | 38.00% | ~275,348 |
-| Just once | 37.00% | ~268,102 |
-| Armor | 30.00% | ~217,380 |
-| True holy spirit | 28.00% | ~202,888 |
-| That's how electronics work obviously | 26.00% | ~188,396 |
+| Double Jump | 48.00% | ~347,809 |
+| Regeneration | 47.00% | ~340,563 |
+| Triple Jump | 43.00% | ~311,579 |
+| Climb the hill | 42.00% | ~304,333 |
+| Through the fire pipe | 39.00% | ~282,595 |
+| MacGuffin | 38.00% | ~275,349 |
+| Just once | 37.00% | ~268,103 |
+| Armor | 30.00% | ~217,381 |
+| True holy spirit | 28.00% | ~202,889 |
+| That's how electronics work obviously | 26.00% | ~188,397 |
 | Force Cube Catapult | 25.00% | ~181,150 |
 | Holy Sword | 23.00% | ~166,658 |
 | Telefrag | 22.00% | ~159,412 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~725 |
 | DLC: Top of the world | 0.10% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,601 (Ranked 19)  
+Progressed: 724,602 (Ranked 19)  
 Completed: 731 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,11 +244,11 @@ Completed: 731 (0.10%) (Ranked 218)
 | 2023-09-03 | 724,360 | 731 |
 | 2023-09-04 | 724,495 | 731 |
 | 2023-09-05 | 724,597 | 731 |
-| 2023-09-06 | 724,601 | 731 |
+| 2023-09-06 | 724,602 | 731 |
 ## Awards
-Max (Challenging Puzzles): 7,683  (Ranked 45)  
+Max (Challenging Puzzles): 7,683  (Ranked 46)  
 Sum: 10,009 (Ranked 86)  
-Diff (max vs sum): -41  
+Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 7,683 |

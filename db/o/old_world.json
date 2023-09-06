@@ -2,12 +2,12 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 303,
+  "Ranking_Rating": 302,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1679,7 +1679,7 @@
   ],
   "EOS_Progressed": 13790,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11681,9 +11681,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -11921,9 +11921,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 110
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -12689,9 +12689,9 @@
       "ID": "ACHIEVEMENT_NATION_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persia",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_NATION_ROME",
@@ -13113,9 +13113,9 @@
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
       "SetID": "9201eeb",
       "Name": "Legionary",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -13423,8 +13423,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-05T13:03:36.9380214+00:00",
-  "LastChanged_Achievements": "2023-09-06T02:20:42.733259+00:00",
+  "LastChanged_Achievements": "2023-09-06T03:04:45.6950619+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:14:29.6883092+00:00",
-  "LastUpdate_Achievements": "2023-09-06T02:20:42.7343061+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:58:37.4504022+00:00",
+  "LastUpdate_Achievements": "2023-09-06T03:04:45.6960678+00:00"
 }

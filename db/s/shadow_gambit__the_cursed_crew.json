@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 607,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.31,
   "EosHistory": [
@@ -1499,6 +1499,11 @@
       "Time": "2023-09-06T01:47:38.8883751+00:00",
       "NumProgressed": 606,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-06T03:06:27.050688+00:00",
+      "NumProgressed": 607,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1519,7 +1524,7 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "_03_FinishAct1",
@@ -1527,7 +1532,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1535,7 +1540,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "_05_FinishAct2",
@@ -1583,7 +1588,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "_11_Completion_40",
@@ -1631,7 +1636,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1639,7 +1644,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1671,7 +1676,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -1687,7 +1692,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1718,7 +1723,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 607,
       "Completed": 14
     }
   ],
@@ -1726,8 +1731,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-04T13:03:28.3019229+00:00",
-  "LastChanged_Achievements": "2023-09-06T02:23:04.9924975+00:00",
+  "LastChanged_Achievements": "2023-09-06T03:06:27.0506874+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:14:47.1572515+00:00",
-  "LastUpdate_Achievements": "2023-09-06T02:23:04.992533+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:58:48.2434363+00:00",
+  "LastUpdate_Achievements": "2023-09-06T03:06:27.0507132+00:00"
 }

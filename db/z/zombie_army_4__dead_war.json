@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2007,9 +2007,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43372,
+  "EOS_Progressed": 43373,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6457,6 +6457,11 @@
       "Time": "2023-09-06T00:06:23.2191579+00:00",
       "NumProgressed": 43372,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-06T03:05:03.0940856+00:00",
+      "NumProgressed": 43373,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -6468,7 +6473,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26457
+      "UsersEstimate": 26458
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -6548,7 +6553,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3904
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -6676,7 +6681,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14746
+      "UsersEstimate": 14747
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -6716,7 +6721,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21252
+      "UsersEstimate": 21253
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -6732,7 +6737,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13445
+      "UsersEstimate": 13446
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -6764,7 +6769,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18216
+      "UsersEstimate": 18217
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -6780,7 +6785,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16481
+      "UsersEstimate": 16482
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -6820,7 +6825,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19951
+      "UsersEstimate": 19952
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -6828,7 +6833,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24722
+      "UsersEstimate": 24723
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -6852,7 +6857,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11710
+      "UsersEstimate": 11711
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -6908,7 +6913,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14746
+      "UsersEstimate": 14747
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -6932,7 +6937,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10409
+      "UsersEstimate": 10410
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -6995,15 +7000,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43372,
+      "Progressed": 43373,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-04T16:01:48.5011981+00:00",
-  "LastChanged_Achievements": "2023-09-06T02:21:06.9427145+00:00",
+  "LastChanged_Achievements": "2023-09-06T03:05:03.094085+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:49.8826842+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:17:33.5501105+00:00",
-  "LastUpdate_Achievements": "2023-09-06T02:21:06.9428187+00:00"
+  "LastUpdate_Ratings": "2023-09-06T03:02:14.7837621+00:00",
+  "LastUpdate_Achievements": "2023-09-06T03:05:03.0941748+00:00"
 }
