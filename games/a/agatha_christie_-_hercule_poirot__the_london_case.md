@@ -13,10 +13,10 @@
 | Little grey cells | 25.00% | ~2 |
 | The Gala | 25.00% | ~2 |
 | Impossible is possible | 25.00% | ~2 |
+| The Missing Magdalene | 25.00% | ~2 |
 | Arthur Hastings | 25.00% | ~2 |
 | Everything matters | 13.00% | ~1 |
 | Order and method | 13.00% | ~1 |
-| The Missing Magdalene | 13.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |

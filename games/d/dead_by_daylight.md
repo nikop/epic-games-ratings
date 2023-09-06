@@ -6,15 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~25,589 |
-| Handyman | 2.00% | ~17,059 |
-| Zealous | 2.00% | ~17,059 |
-| Not half bad | 2.00% | ~17,059 |
-| Apt Survivor | 2.00% | ~17,059 |
-| Survival Treasures | 2.00% | ~17,059 |
-| Skillful | 2.00% | ~17,059 |
-| Make Some Noise | 2.00% | ~17,059 |
-| MU/TH/UR Dearest | 2.00% | ~17,059 |
+| It wakes | 3.00% | ~25,591 |
+| Handyman | 2.00% | ~17,061 |
+| Zealous | 2.00% | ~17,061 |
+| Not half bad | 2.00% | ~17,061 |
+| Apt Survivor | 2.00% | ~17,061 |
+| Survival Treasures | 2.00% | ~17,061 |
+| Skillful | 2.00% | ~17,061 |
+| Make Some Noise | 2.00% | ~17,061 |
+| MU/TH/UR Dearest | 2.00% | ~17,061 |
 | The Grand Sacrifice | 1.00% | ~8,530 |
 | Agonizing Escape | 1.00% | ~8,530 |
 | Backdoor Escape | 1.00% | ~8,530 |
@@ -41,6 +41,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Second Act | 0.80% | ~6,824 |
 | Vulture | 0.70% | ~5,971 |
 | III | 0.70% | ~5,971 |
+| Cherish your Life | 0.60% | ~5,118 |
 | First to the Punch | 0.60% | ~5,118 |
 | Every Last Drop | 0.60% | ~5,118 |
 | With Scars to Show | 0.60% | ~5,118 |
@@ -52,7 +53,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Item of Obsession | 0.50% | ~4,265 |
 | Holiday Get-Together | 0.50% | ~4,265 |
 | Near-Death Experience | 0.50% | ~4,265 |
-| Cherish your Life | 0.50% | ~4,265 |
 | Unforgettable Getaway | 0.50% | ~4,265 |
 | Cutting Out | 0.50% | ~4,265 |
 | Operation: Survival | 0.50% | ~4,265 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~853 |
 | Adept Ripley | 0.10% | ~853 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 852,964 (Ranked 15)  
+Progressed: 853,046 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-03 | 845,727 | 48 |
 | 2023-09-04 | 849,226 | 48 |
 | 2023-09-05 | 852,172 | 48 |
-| 2023-09-06 | 852,964 | 48 |
+| 2023-09-06 | 853,046 | 48 |
 ## Awards
 Max (Diverse Characters): 31,976  (Ranked 15)  
 Sum: 250,511 (Ranked 11)  

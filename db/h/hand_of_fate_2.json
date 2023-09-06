@@ -880,7 +880,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661833,
+  "EOS_Progressed": 661834,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 1,
@@ -14045,6 +14045,11 @@
       "Time": "2023-09-06T08:04:39.0496312+00:00",
       "NumProgressed": 661833,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-06T09:03:48.1536783+00:00",
+      "NumProgressed": 661834,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14064,7 +14069,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383863
+      "UsersEstimate": 383864
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14384,7 +14389,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5956
+      "UsersEstimate": 5957
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -14408,7 +14413,7 @@
       "Name": "Peaceful Coast",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "Achievement_46_Pilgrim",
@@ -14439,15 +14444,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661833,
+      "Progressed": 661834,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-06T08:04:39.0496301+00:00",
+  "LastChanged_Achievements": "2023-09-06T09:03:48.1536777+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-06T07:59:00.6044014+00:00",
-  "LastUpdate_Achievements": "2023-09-06T08:04:39.0497542+00:00"
+  "LastUpdate_Ratings": "2023-09-06T08:58:33.2267729+00:00",
+  "LastUpdate_Achievements": "2023-09-06T09:03:48.1538014+00:00"
 }

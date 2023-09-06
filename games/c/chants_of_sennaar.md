@@ -11,12 +11,12 @@
 | A new dawn | 17.00% | ~13 |
 | A good beginning | 13.00% | ~10 |
 | Rascal | 13.00% | ~10 |
+| True G4M3R | 13.00% | ~10 |
 | Champollion | 13.00% | ~10 |
 | Scholar | 13.00% | ~10 |
 | The darkness | 13.00% | ~10 |
 | One last step | 13.00% | ~10 |
 | Cable guy | 12.00% | ~9 |
-| True G4M3R | 12.00% | ~9 |
 | I did it | 10.00% | ~8 |
 | Fashion victim | 10.00% | ~8 |
 | Feels like springtime | 9.00% | ~7 |

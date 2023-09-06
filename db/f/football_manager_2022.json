@@ -7085,9 +7085,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 472500,
+  "EOS_Progressed": 472501,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21760,6 +21760,11 @@
       "Time": "2023-09-06T08:07:26.8732583+00:00",
       "NumProgressed": 472500,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-06T09:06:15.3368464+00:00",
+      "NumProgressed": 472501,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -21843,7 +21848,7 @@
       "Name": "Immovable Object",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_30_matches_without_losing",
@@ -22235,7 +22240,7 @@
       "Name": "Value For Money",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "achievement_player_in_team_of_the_year",
@@ -22339,7 +22344,7 @@
       "Name": "Perfect Host",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "achievement_undefeated_season",
@@ -22451,7 +22456,7 @@
       "Name": "The Rich Get Richer",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "career_earnings_over_10_million",
@@ -22475,7 +22480,7 @@
       "Name": "100 Club",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "fantasy_draft_200_club",
@@ -22483,7 +22488,7 @@
       "Name": "200 Club",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "fantasy_draft_draft_dominator",
@@ -22499,7 +22504,7 @@
       "Name": "Draft Rivalry",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "fantasy_draft_knockout_king",
@@ -22507,7 +22512,7 @@
       "Name": "Knockout King",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "fantasy_draft_one_more_draft",
@@ -22515,7 +22520,7 @@
       "Name": "One more draft",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "fantasy_draft_online_streak",
@@ -22531,7 +22536,7 @@
       "Name": "Draft Value",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "fantasy_draft_squad_budget_shoestring",
@@ -22539,7 +22544,7 @@
       "Name": "Shoestring Budget",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "setup_routines_for_all_free_kicks",
@@ -22554,15 +22559,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 472500,
+      "Progressed": 472501,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-05T17:57:33.0120654+00:00",
-  "LastChanged_Achievements": "2023-09-06T08:07:26.8732578+00:00",
+  "LastChanged_Achievements": "2023-09-06T09:06:15.3368459+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:06.0582244+00:00",
-  "LastUpdate_Ratings": "2023-09-06T07:57:30.1208917+00:00",
-  "LastUpdate_Achievements": "2023-09-06T08:07:26.8734714+00:00"
+  "LastUpdate_Ratings": "2023-09-06T08:57:21.1011875+00:00",
+  "LastUpdate_Achievements": "2023-09-06T09:06:15.3370629+00:00"
 }

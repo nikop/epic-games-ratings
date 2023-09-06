@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1507,9 +1507,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 200368,
+  "EOS_Progressed": 200372,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1684,
+  "EOS_NewPlayers": 1681,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17042,6 +17042,11 @@
       "Time": "2023-09-06T08:07:50.308565+00:00",
       "NumProgressed": 200368,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-06T09:06:34.9719721+00:00",
+      "NumProgressed": 200372,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17093,7 +17098,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16029
+      "UsersEstimate": 16030
     },
     {
       "ID": "FiveShadows",
@@ -17125,7 +17130,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22040
+      "UsersEstimate": 22041
     },
     {
       "ID": "HappyLittleAccidents",
@@ -17229,7 +17234,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10018
+      "UsersEstimate": 10019
     },
     {
       "ID": "OldMan",
@@ -17269,7 +17274,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16029
+      "UsersEstimate": 16030
     },
     {
       "ID": "Rollin",
@@ -17277,7 +17282,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16029
+      "UsersEstimate": 16030
     },
     {
       "ID": "StillRollin",
@@ -17309,7 +17314,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16029
+      "UsersEstimate": 16030
     },
     {
       "ID": "TheCave",
@@ -17365,7 +17370,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10018
+      "UsersEstimate": 10019
     },
     {
       "ID": "Warzone",
@@ -17373,7 +17378,7 @@
       "Name": "Warzone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10018
+      "UsersEstimate": 10019
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -17404,15 +17409,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 200368,
+      "Progressed": 200372,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-05T09:59:57.8033528+00:00",
-  "LastChanged_Achievements": "2023-09-06T08:07:50.3085646+00:00",
+  "LastChanged_Achievements": "2023-09-06T09:06:34.9719716+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:03.876432+00:00",
-  "LastUpdate_Ratings": "2023-09-06T08:00:45.873532+00:00",
-  "LastUpdate_Achievements": "2023-09-06T08:07:50.3086996+00:00"
+  "LastUpdate_Ratings": "2023-09-06T08:59:54.263049+00:00",
+  "LastUpdate_Achievements": "2023-09-06T09:06:34.9721122+00:00"
 }

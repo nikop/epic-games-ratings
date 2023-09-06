@@ -21,7 +21,7 @@ Number of Ratings: 801  (23.09.2022)
 | Ticket Toddler | 44.00% | ~3,917 |
 | Booty Bashing | 39.00% | ~3,472 |
 | Field Medic | 38.00% | ~3,383 |
-| Here Comes a New Challenger | 37.00% | ~3,294 |
+| Here Comes a New Challenger | 38.00% | ~3,383 |
 | Rapid Response | 33.00% | ~2,938 |
 | The Full Monty | 31.00% | ~2,760 |
 | Surge Ahead | 30.00% | ~2,671 |

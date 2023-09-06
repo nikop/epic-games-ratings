@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2229,
+  "EOS_Progressed": 2230,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1572,6 +1572,11 @@
       "Time": "2023-09-05T01:46:47.38824+00:00",
       "NumProgressed": 2229,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-06T09:06:27.2382976+00:00",
+      "NumProgressed": 2230,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1629,9 +1634,9 @@
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1204
     },
     {
       "ID": "defeat_enemies",
@@ -1639,7 +1644,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1647,7 +1652,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "fail_planet",
@@ -1687,7 +1692,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1719,7 +1724,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "trash_truck",
@@ -1734,7 +1739,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2229,
+      "Progressed": 2230,
       "Completed": 9
     }
   ],
@@ -1742,8 +1747,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-09-06T08:07:41.5774494+00:00",
+  "LastChanged_Achievements": "2023-09-06T09:06:27.2382972+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:53.7289225+00:00",
-  "LastUpdate_Ratings": "2023-09-06T07:57:26.6040416+00:00",
-  "LastUpdate_Achievements": "2023-09-06T08:07:41.5774767+00:00"
+  "LastUpdate_Ratings": "2023-09-06T08:57:17.5884114+00:00",
+  "LastUpdate_Achievements": "2023-09-06T09:06:27.2383229+00:00"
 }

@@ -85,27 +85,27 @@ Number of Ratings: 19,160  (23.09.2022)
 | Living the Dream | 1.00% | ~4,725 |
 | The Greatest | 1.00% | ~4,725 |
 | Beat your Mates | 1.00% | ~4,725 |
-| Perfect Host | 0.70% | ~3,307 |
-| The Rich Get Richer | 0.70% | ~3,307 |
-| One more draft | 0.70% | ~3,307 |
+| Perfect Host | 0.70% | ~3,308 |
+| The Rich Get Richer | 0.70% | ~3,308 |
+| One more draft | 0.70% | ~3,308 |
 | Online Streak | 0.60% | ~2,835 |
 | Set Piece Specialist | 0.60% | ~2,835 |
-| Draft Rivalry | 0.50% | ~2,362 |
+| Draft Rivalry | 0.50% | ~2,363 |
 | Beat all the AI Managers | 0.40% | ~1,890 |
 | Outstanding Defence | 0.30% | ~1,418 |
 | Club Legend | 0.30% | ~1,418 |
 | Immortality | 0.20% | ~945 |
 | Impervious | 0.20% | ~945 |
 | Draft Dominator | 0.20% | ~945 |
-| Immovable Object | 0.10% | ~472 |
-| Value For Money | 0.10% | ~472 |
-| 100 Club | 0.10% | ~472 |
-| 200 Club | 0.10% | ~472 |
-| Knockout King | 0.10% | ~472 |
-| Draft Value | 0.10% | ~472 |
-| Shoestring Budget | 0.10% | ~472 |
+| Immovable Object | 0.10% | ~473 |
+| Value For Money | 0.10% | ~473 |
+| 100 Club | 0.10% | ~473 |
+| 200 Club | 0.10% | ~473 |
+| Knockout King | 0.10% | ~473 |
+| Draft Value | 0.10% | ~473 |
+| Shoestring Budget | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,500 (Ranked 36)  
+Progressed: 472,501 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 20 (0.00%) (Ranked 270)
 | 2023-09-03 | 472,303 | 20 |
 | 2023-09-04 | 472,391 | 20 |
 | 2023-09-05 | 472,484 | 20 |
-| 2023-09-06 | 472,500 | 20 |
+| 2023-09-06 | 472,501 | 20 |
 ## Awards
 Max (Relaxing): 6,427  (Ranked 55)  
 Sum: 50,584 (Ranked 24)  

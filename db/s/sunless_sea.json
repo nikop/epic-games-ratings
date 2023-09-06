@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 36842,
+  "EOS_Progressed": 36843,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14850,6 +14850,11 @@
       "Time": "2023-09-06T07:04:11.7917758+00:00",
       "NumProgressed": 36842,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-06T09:03:18.5615211+00:00",
+      "NumProgressed": 36843,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -15123,9 +15128,9 @@
       "ID": "ach_portdragon",
       "SetID": "ammcm",
       "Name": "The dragon in the zee",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 332
     },
     {
       "ID": "ach_portfish",
@@ -15292,15 +15297,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 36842,
+      "Progressed": 36843,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-09-06T08:04:03.2790207+00:00",
+  "LastChanged_Achievements": "2023-09-06T09:03:18.5615207+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:20.6698248+00:00",
-  "LastUpdate_Ratings": "2023-09-06T08:01:19.3793979+00:00",
-  "LastUpdate_Achievements": "2023-09-06T08:04:03.2791644+00:00"
+  "LastUpdate_Ratings": "2023-09-06T09:00:21.9575259+00:00",
+  "LastUpdate_Achievements": "2023-09-06T09:03:18.5616418+00:00"
 }
