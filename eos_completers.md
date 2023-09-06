@@ -137,8 +137,8 @@
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.64% |
-| 139 | [Haven](games/h/haven.md) | 0.63% |
+| 138 | [Haven](games/h/haven.md) | 0.63% |
+| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.63% |
 | 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
 | 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 142 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
@@ -513,6 +513,7 @@
 | 270 | [Stray Blade](games/s/stray_blade.md) | 0.00% |
 | 270 | [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 0.00% |
 | 270 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 0.00% |
+| 270 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 0.00% |
 | 270 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.00% |
 | 270 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 0.00% |
 | 270 | [Switchball HD](games/s/switchball_hd.md) | 0.00% |
@@ -572,4 +573,4 @@
 | 270 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 270 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 270 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,183 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,186 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
