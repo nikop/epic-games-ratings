@@ -19,7 +19,7 @@ Rating: 4.48 (Ranked 601)
 | Rookie No-No More | 12.00% | ~134 |
 | Martian explorer | 11.00% | ~123 |
 | To the core | 9.00% | ~101 |
-| Blurred photofinish | 9.00% | ~101 |
+| Blurred photofinish | 8.00% | ~89 |
 | First step into a larger world | 7.00% | ~78 |
 | Over the clouds | 6.00% | ~67 |
 | Under the sea, under the sea | 6.00% | ~67 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 601)
 | I, need, more, shelves! | 0.40% | ~4 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,117 (Ranked 202)  
+Progressed: 1,118 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-27 | 1,114 | 0 |
 | 2023-09-03 | 1,115 | 0 |
 | 2023-09-04 | 1,116 | 0 |
-| 2023-09-06 | 1,117 | 0 |
+| 2023-09-06 | 1,118 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

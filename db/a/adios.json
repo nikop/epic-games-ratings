@@ -96,7 +96,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72454,
+  "EOS_Progressed": 72457,
   "EOS_Completed": 748,
   "EOS_NewPlayers": 726,
   "EOS_NewCompleters": 15,
@@ -15491,6 +15491,11 @@
       "Time": "2023-09-06T05:08:26.2741123+00:00",
       "NumProgressed": 72454,
       "NumCompleted": 748
+    },
+    {
+      "Time": "2023-09-06T06:07:44.9516089+00:00",
+      "NumProgressed": 72457,
+      "NumCompleted": 748
     }
   ],
   "TotalAchievements": 25,
@@ -15534,7 +15539,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15940
+      "UsersEstimate": 15941
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -15622,7 +15627,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13766
+      "UsersEstimate": 13767
     },
     {
       "ID": "Nice Try",
@@ -15646,7 +15651,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7245
+      "UsersEstimate": 7246
     },
     {
       "ID": "Right On Target",
@@ -15694,14 +15699,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5796
+      "UsersEstimate": 5797
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 72454,
+      "Progressed": 72457,
       "Completed": 748
     }
   ],
@@ -15709,8 +15714,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-09-06T05:08:26.274112+00:00",
+  "LastChanged_Achievements": "2023-09-06T06:07:44.9516085+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:33.9032569+00:00",
-  "LastUpdate_Ratings": "2023-09-06T04:57:45.3042999+00:00",
-  "LastUpdate_Achievements": "2023-09-06T05:08:26.2742535+00:00"
+  "LastUpdate_Ratings": "2023-09-06T05:57:39.3372498+00:00",
+  "LastUpdate_Achievements": "2023-09-06T06:07:44.9517561+00:00"
 }

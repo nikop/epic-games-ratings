@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 68079,
+  "EOS_Progressed": 68080,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15434,6 +15434,11 @@
       "Time": "2023-09-06T05:03:16.9210627+00:00",
       "NumProgressed": 68079,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-09-06T06:03:29.1372631+00:00",
+      "NumProgressed": 68080,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 24,
@@ -15453,7 +15458,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14977
+      "UsersEstimate": 14978
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -15469,7 +15474,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14977
+      "UsersEstimate": 14978
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -15493,7 +15498,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18381
+      "UsersEstimate": 18382
     },
     {
       "ID": "FOXIN_AROUND",
@@ -15621,7 +15626,7 @@
       "Name": "WEIGHTLESS",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8169
+      "UsersEstimate": 8170
     },
     {
       "ID": "WRITTEN_IN_STONE",
@@ -15636,7 +15641,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 68079,
+      "Progressed": 68080,
       "Completed": 355
     }
   ],
@@ -15644,8 +15649,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-06T05:03:16.9210621+00:00",
+  "LastChanged_Achievements": "2023-09-06T06:03:29.1372625+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:13.6353756+00:00",
-  "LastUpdate_Ratings": "2023-09-06T05:01:31.3590752+00:00",
-  "LastUpdate_Achievements": "2023-09-06T05:03:16.9212131+00:00"
+  "LastUpdate_Ratings": "2023-09-06T06:00:45.2178259+00:00",
+  "LastUpdate_Achievements": "2023-09-06T06:03:29.1373834+00:00"
 }

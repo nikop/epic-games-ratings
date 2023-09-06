@@ -5,23 +5,23 @@ Rating: 4.75 (Ranked 136)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 77.00% | ~66,964 |
-| The Player Whisperer | 76.00% | ~66,094 |
-| One of Us, One of Us! | 73.00% | ~63,485 |
-| First Victory | 68.00% | ~59,137 |
-| Clean Sheet | 67.00% | ~58,267 |
-| #DoneDeal | 67.00% | ~58,267 |
+| Motivational Speaker | 77.00% | ~66,965 |
+| The Player Whisperer | 76.00% | ~66,095 |
+| One of Us, One of Us! | 73.00% | ~63,486 |
+| First Victory | 68.00% | ~59,138 |
+| Clean Sheet | 67.00% | ~58,268 |
+| #DoneDeal | 67.00% | ~58,268 |
 | Off the Books | 66.00% | ~57,398 |
-| Super-Sub | 65.00% | ~56,528 |
+| Super-Sub | 65.00% | ~56,529 |
 | Hat-trick | 60.00% | ~52,180 |
-| "I Would Love It If We Beat Them" | 58.00% | ~50,440 |
-| Planned Signing | 58.00% | ~50,440 |
+| "I Would Love It If We Beat Them" | 58.00% | ~50,441 |
+| Planned Signing | 58.00% | ~50,441 |
 | Scoring Streak | 54.00% | ~46,962 |
-| Thumping | 53.00% | ~46,092 |
-| Wheeler Dealer | 53.00% | ~46,092 |
-| People Pleaser | 52.00% | ~45,222 |
+| Thumping | 53.00% | ~46,093 |
+| Wheeler Dealer | 53.00% | ~46,093 |
+| People Pleaser | 52.00% | ~45,223 |
 | Unbeatable! | 51.00% | ~44,353 |
-| One Of Our Own | 49.00% | ~42,613 |
+| One Of Our Own | 49.00% | ~42,614 |
 | They're a Natural | 45.00% | ~39,135 |
 | Record Signing | 45.00% | ~39,135 |
 | Team Performance | 44.00% | ~38,265 |
@@ -29,25 +29,25 @@ Rating: 4.75 (Ranked 136)
 | Full Faith | 41.00% | ~35,656 |
 | Star Player | 41.00% | ~35,656 |
 | Squad Goals | 41.00% | ~35,656 |
-| Parked The Bus | 40.00% | ~34,786 |
-| Goal Rush | 40.00% | ~34,786 |
-| The People's Champion | 40.00% | ~34,786 |
+| Parked The Bus | 40.00% | ~34,787 |
+| Goal Rush | 40.00% | ~34,787 |
+| The People's Champion | 40.00% | ~34,787 |
 | Beating Expectations | 39.00% | ~33,917 |
-| What A Goal! | 37.00% | ~32,177 |
-| Flavour Of The Month | 37.00% | ~32,177 |
-| Unstoppable Force | 37.00% | ~32,177 |
-| Record Sale | 37.00% | ~32,177 |
+| What A Goal! | 37.00% | ~32,178 |
+| Flavour Of The Month | 37.00% | ~32,178 |
+| Unstoppable Force | 37.00% | ~32,178 |
+| Record Sale | 37.00% | ~32,178 |
 | Tremendous Trio | 36.00% | ~31,308 |
 | Shots For Days | 36.00% | ~31,308 |
 | You're on Fire | 35.00% | ~30,438 |
 | The Special One | 35.00% | ~30,438 |
-| On a Roll | 34.00% | ~29,568 |
-| Splashing the Cash | 34.00% | ~29,568 |
+| On a Roll | 34.00% | ~29,569 |
+| Splashing the Cash | 34.00% | ~29,569 |
 | Drilling Down | 32.00% | ~27,829 |
 | Goal Machine | 32.00% | ~27,829 |
 | Immovable Object | 30.00% | ~26,090 |
 | Cup Glory! | 30.00% | ~26,090 |
-| Cash to Burn | 28.00% | ~24,350 |
+| Cash to Burn | 28.00% | ~24,351 |
 | Irresistible Force | 27.00% | ~23,481 |
 | Do The Double | 24.00% | ~20,872 |
 | A Game of Two Halves | 23.00% | ~20,002 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 136)
 | Versus Anyone | 0.10% | ~87 |
 | 200 Club | 0.10% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,966 (Ranked 75)  
+Progressed: 86,967 (Ranked 75)  
 Completed: 24 (0.03%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,10 +245,10 @@ Completed: 24 (0.03%) (Ranked 246)
 | 2023-09-03 | 86,665 | 24 |
 | 2023-09-04 | 86,806 | 24 |
 | 2023-09-05 | 86,953 | 24 |
-| 2023-09-06 | 86,966 | 24 |
+| 2023-09-06 | 86,967 | 24 |
 ## Awards
 Max (Diverse Characters): 656  (Ranked 174)  
-Sum: 4,666 (Ranked 137)  
+Sum: 4,668 (Ranked 137)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -259,7 +259,7 @@ Diff (max vs sum): 37
 | This game is Relaxing | 520 |
 | This game has Competitive Players | 480 |
 | This game has Quickly Understood Controls | 474 |
-| This game has Amazing Storytelling | 449 |
+| This game has Amazing Storytelling | 451 |
 | This game has Amazing Characters | 433 |
 | This game has Challenging Combat | 265 |
 | This game has a Competitive Community | 121 |
@@ -457,3 +457,4 @@ Diff (max vs sum): 37
 | 2023-09-03 | 4.75 | 655 | 4,642 |
 | 2023-09-04 | 4.75 | 655 | 4,655 |
 | 2023-09-05 | 4.75 | 656 | 4,666 |
+| 2023-09-06 | 4.75 | 656 | 4,668 |

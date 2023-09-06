@@ -4,7 +4,7 @@
   "ProductSlug": "pacific-drive",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T06:57:15.3064941+00:00",
-  "LastUpdate_Ratings": "2023-09-06T04:57:56.2755472+00:00",
-  "LastUpdate_Achievements": "2023-09-06T05:03:40.3437194+00:00"
+  "LastUpdate_Ratings": "2023-09-06T05:57:49.0011743+00:00",
+  "LastUpdate_Achievements": "2023-09-06T06:03:49.3203922+00:00"
 }

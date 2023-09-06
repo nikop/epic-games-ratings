@@ -6,39 +6,39 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~25,584 |
-| Handyman | 2.00% | ~17,056 |
-| Zealous | 2.00% | ~17,056 |
-| Not half bad | 2.00% | ~17,056 |
-| Apt Survivor | 2.00% | ~17,056 |
-| Survival Treasures | 2.00% | ~17,056 |
-| Skillful | 2.00% | ~17,056 |
-| Make Some Noise | 2.00% | ~17,056 |
-| MU/TH/UR Dearest | 2.00% | ~17,056 |
-| The Grand Sacrifice | 1.00% | ~8,528 |
-| Agonizing Escape | 1.00% | ~8,528 |
-| Backdoor Escape | 1.00% | ~8,528 |
-| No one left behind | 1.00% | ~8,528 |
-| Medic | 1.00% | ~8,528 |
-| Nerves of steel | 1.00% | ~8,528 |
-| Perfect Escape | 1.00% | ~8,528 |
-| Perfect Killing | 1.00% | ~8,528 |
-| Bloody Millionaire | 1.00% | ~8,528 |
-| I | 1.00% | ~8,528 |
-| Engineer | 1.00% | ~8,528 |
-| Sorted | 1.00% | ~8,528 |
-| Healthy Obsession | 1.00% | ~8,528 |
-| Resurgence | 1.00% | ~8,528 |
-| Preemptive Strike | 1.00% | ~8,528 |
-| Humanitarian | 1.00% | ~8,528 |
-| I've got your back | 0.90% | ~7,675 |
-| Risk it all | 0.90% | ~7,675 |
-| Close Shave | 0.90% | ~7,675 |
-| Terror of LV-426 | 0.90% | ~7,675 |
-| Apt Killer | 0.80% | ~6,822 |
-| II | 0.80% | ~6,822 |
-| Wounded Healer | 0.80% | ~6,822 |
-| Second Act | 0.80% | ~6,822 |
+| It wakes | 3.00% | ~25,586 |
+| Handyman | 2.00% | ~17,057 |
+| Zealous | 2.00% | ~17,057 |
+| Not half bad | 2.00% | ~17,057 |
+| Apt Survivor | 2.00% | ~17,057 |
+| Survival Treasures | 2.00% | ~17,057 |
+| Skillful | 2.00% | ~17,057 |
+| Make Some Noise | 2.00% | ~17,057 |
+| MU/TH/UR Dearest | 2.00% | ~17,057 |
+| The Grand Sacrifice | 1.00% | ~8,529 |
+| Agonizing Escape | 1.00% | ~8,529 |
+| Backdoor Escape | 1.00% | ~8,529 |
+| No one left behind | 1.00% | ~8,529 |
+| Medic | 1.00% | ~8,529 |
+| Nerves of steel | 1.00% | ~8,529 |
+| Perfect Escape | 1.00% | ~8,529 |
+| Perfect Killing | 1.00% | ~8,529 |
+| Bloody Millionaire | 1.00% | ~8,529 |
+| I | 1.00% | ~8,529 |
+| Engineer | 1.00% | ~8,529 |
+| Sorted | 1.00% | ~8,529 |
+| Healthy Obsession | 1.00% | ~8,529 |
+| Resurgence | 1.00% | ~8,529 |
+| Preemptive Strike | 1.00% | ~8,529 |
+| Humanitarian | 1.00% | ~8,529 |
+| I've got your back | 0.90% | ~7,676 |
+| Risk it all | 0.90% | ~7,676 |
+| Close Shave | 0.90% | ~7,676 |
+| Terror of LV-426 | 0.90% | ~7,676 |
+| Apt Killer | 0.80% | ~6,823 |
+| II | 0.80% | ~6,823 |
+| Wounded Healer | 0.80% | ~6,823 |
+| Second Act | 0.80% | ~6,823 |
 | Vulture | 0.70% | ~5,970 |
 | III | 0.70% | ~5,970 |
 | First to the Punch | 0.60% | ~5,117 |
@@ -78,21 +78,21 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.40% | ~3,411 |
 | Complete the Evolution | 0.40% | ~3,411 |
 | Extraterrestrial | 0.40% | ~3,411 |
-| Jump Scares | 0.30% | ~2,558 |
-| Hemophobia | 0.30% | ~2,558 |
-| Deep Cleansing | 0.30% | ~2,558 |
-| Texas BBQ | 0.30% | ~2,558 |
-| Serial Killer | 0.30% | ~2,558 |
-| Game Over | 0.30% | ~2,558 |
-| Party Crasher | 0.30% | ~2,558 |
-| Outrage | 0.30% | ~2,558 |
-| Devoted Gatekeeping | 0.30% | ~2,558 |
-| Broken Bodies | 0.30% | ~2,558 |
-| Selfless Survival | 0.30% | ~2,558 |
-| End of Days | 0.30% | ~2,558 |
-| Insult and Injury | 0.30% | ~2,558 |
-| Outrun the Overlap | 0.30% | ~2,558 |
-| Rebuilding The Borgo | 0.30% | ~2,558 |
+| Jump Scares | 0.30% | ~2,559 |
+| Hemophobia | 0.30% | ~2,559 |
+| Deep Cleansing | 0.30% | ~2,559 |
+| Texas BBQ | 0.30% | ~2,559 |
+| Serial Killer | 0.30% | ~2,559 |
+| Game Over | 0.30% | ~2,559 |
+| Party Crasher | 0.30% | ~2,559 |
+| Outrage | 0.30% | ~2,559 |
+| Devoted Gatekeeping | 0.30% | ~2,559 |
+| Broken Bodies | 0.30% | ~2,559 |
+| Selfless Survival | 0.30% | ~2,559 |
+| End of Days | 0.30% | ~2,559 |
+| Insult and Injury | 0.30% | ~2,559 |
+| Outrun the Overlap | 0.30% | ~2,559 |
+| Rebuilding The Borgo | 0.30% | ~2,559 |
 | Blood in your mouth | 0.20% | ~1,706 |
 | Looter | 0.20% | ~1,706 |
 | Whiffing to Success | 0.20% | ~1,706 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~853 |
 | Adept Ripley | 0.10% | ~853 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 852,786 (Ranked 15)  
+Progressed: 852,856 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-03 | 845,727 | 48 |
 | 2023-09-04 | 849,226 | 48 |
 | 2023-09-05 | 852,172 | 48 |
-| 2023-09-06 | 852,786 | 48 |
+| 2023-09-06 | 852,856 | 48 |
 ## Awards
 Max (Diverse Characters): 31,976  (Ranked 15)  
 Sum: 250,511 (Ranked 11)  

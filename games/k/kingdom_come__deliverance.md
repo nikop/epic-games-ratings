@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~800 |
 | Wingman | 0.10% | ~800 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800,033 (Ranked 16)  
+Progressed: 800,034 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 44 (0.01%) (Ranked 256)
 | 2023-09-03 | 799,739 | 44 |
 | 2023-09-04 | 799,887 | 44 |
 | 2023-09-05 | 800,008 | 44 |
-| 2023-09-06 | 800,033 | 44 |
+| 2023-09-06 | 800,034 | 44 |
 ## Awards
 Max (Character Customization): 7,424  (Ranked 48)  
 Sum: 27,655 (Ranked 47)  
