@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.22% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.58% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.31% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
@@ -15,7 +15,7 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 16 | [Island Cities](games/i/island_cities.md) | 18.14% |
+| 16 | [Island Cities](games/i/island_cities.md) | 18.11% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
@@ -116,14 +116,14 @@
 | 114 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 115 | [Chorus](games/c/chorus.md) | 1.20% |
 | 116 | [Trifox](games/t/trifox.md) | 1.10% |
-| 117 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.06% |
-| 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
+| 117 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
+| 117 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.05% |
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
 | 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.02% |
+| 122 | [Sable](games/s/sable.md) | 1.00% |
 | 122 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.00% |
-| 123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
-| 123 | [Sable](games/s/sable.md) | 0.99% |
+| 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.98% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
@@ -135,8 +135,8 @@
 | 133 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 134 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.69% |
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
-| 136 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.67% |
-| 137 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
+| 136 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.66% |
+| 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 139 | [Haven](games/h/haven.md) | 0.63% |
 | 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
@@ -199,13 +199,13 @@
 | 196 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.19% |
 | 196 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 199 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
-| 200 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 200 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 200 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 200 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 204 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
-| 204 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
-| 204 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 203 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
+| 203 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
+| 203 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 203 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 207 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 208 | [Remnant 2](games/r/remnant_2.md) | 0.13% |
 | 208 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
