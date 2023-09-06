@@ -25,11 +25,11 @@
 | Mirror, Mirror on the Wall | 7.00% | ~4 |
 | Defeat Uskol | 7.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~4 |
+| The A-Team | 7.00% | ~4 |
 | Defeat Ingla | 5.00% | ~3 |
 | Defeat Tezuth | 5.00% | ~3 |
 | Finally! | 5.00% | ~3 |
 | The End | 5.00% | ~3 |
-| The A-Team | 5.00% | ~3 |
 | But what of the Acreans? | 5.00% | ~3 |
 | Sponsor | 3.00% | ~2 |
 | Ancient Powers | 3.00% | ~2 |

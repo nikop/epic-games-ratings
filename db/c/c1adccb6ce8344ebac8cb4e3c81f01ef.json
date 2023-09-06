@@ -4,8 +4,8 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 465,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.16,
+  "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -1496,6 +1496,11 @@
       "Time": "2023-09-06T04:06:10.7014782+00:00",
       "NumProgressed": 464,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-06T19:06:58.0441763+00:00",
+      "NumProgressed": 465,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1530,17 +1535,17 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 204
+      "UsersEstimate": 200
     },
     {
       "ID": "RedSkeleton",
       "SetID": "a76l54k",
       "Name": "Red Skeleton",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 283
+      "UsersEstimate": 279
     },
     {
       "ID": "YellowSkeleton",
@@ -1555,14 +1560,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 465,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-09-06T18:05:26.8084013+00:00",
+  "LastChanged_Achievements": "2023-09-06T19:06:58.0441758+00:00",
   "LastUpdate_AppInfo": "2023-08-31T17:57:08.8456263+00:00",
-  "LastUpdate_Ratings": "2023-09-06T17:57:55.3537518+00:00",
-  "LastUpdate_Achievements": "2023-09-06T18:05:26.8084134+00:00"
+  "LastUpdate_Ratings": "2023-09-06T18:58:27.8576466+00:00",
+  "LastUpdate_Achievements": "2023-09-06T19:06:58.0441925+00:00"
 }

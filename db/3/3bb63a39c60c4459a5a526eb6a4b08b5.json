@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -2336,6 +2336,11 @@
       "Time": "2023-09-06T15:07:56.4686453+00:00",
       "NumProgressed": 656,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-06T19:08:06.7144354+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2363,15 +2368,15 @@
       "Name": "Basic Controls",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 171
     },
     {
       "ID": "BudgetFlight",
@@ -2379,7 +2384,7 @@
       "Name": "Budget Flight",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Calculated",
@@ -2443,7 +2448,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "FullCompletion",
@@ -2531,7 +2536,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Millionaire",
@@ -2595,7 +2600,7 @@
       "Name": "Race Against Time",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Reaction",
@@ -2619,7 +2624,7 @@
       "Name": "Resource Economy",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "Restructuring",
@@ -2667,7 +2672,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "TransportHub",
@@ -2675,21 +2680,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-06T18:06:16.5250413+00:00",
+  "LastChanged_Achievements": "2023-09-06T19:08:06.7144349+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.2387423+00:00",
-  "LastUpdate_Ratings": "2023-09-06T17:57:50.7572243+00:00",
-  "LastUpdate_Achievements": "2023-09-06T18:06:16.5250773+00:00"
+  "LastUpdate_Ratings": "2023-09-06T18:58:22.583864+00:00",
+  "LastUpdate_Achievements": "2023-09-06T19:08:06.7144814+00:00"
 }

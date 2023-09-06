@@ -41,15 +41,15 @@
 | Mysterious voice | 46.00% | ~146 |
 | No blades in the gym | 46.00% | ~146 |
 | Guiding on the right path | 46.00% | ~146 |
-| Champion – no way back | 42.00% | ~133 |
+| Champion – no way back | 43.00% | ~136 |
 | Responsible approach | 42.00% | ~133 |
 | Deal with life | 41.00% | ~130 |
 | Underground dwellers | 41.00% | ~130 |
+| Mom got better | 40.00% | ~127 |
 | The die is cast | 40.00% | ~127 |
-| Mom got better | 39.00% | ~124 |
+| GYM professional | 39.00% | ~124 |
+| Poisoned fighter | 39.00% | ~124 |
 | Get out of my apartment! | 39.00% | ~124 |
-| GYM professional | 38.00% | ~120 |
-| Poisoned fighter | 38.00% | ~120 |
 | Seashell hunter | 37.00% | ~117 |
 | Gang wrangler | 36.00% | ~114 |
 | Your own way | 36.00% | ~114 |

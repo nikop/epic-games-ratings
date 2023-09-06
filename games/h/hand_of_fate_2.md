@@ -6,39 +6,39 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~476,531 |
-| Apprentice | 58.00% | ~383,872 |
-| Close Shave | 25.00% | ~165,462 |
-| Mercenary | 23.00% | ~152,225 |
-| Ninja | 23.00% | ~152,225 |
-| Northern Scourge | 17.00% | ~112,514 |
+| The Fool | 72.00% | ~476,533 |
+| Apprentice | 58.00% | ~383,874 |
+| Close Shave | 25.00% | ~165,463 |
+| Mercenary | 23.00% | ~152,226 |
+| Ninja | 23.00% | ~152,226 |
+| Northern Scourge | 17.00% | ~112,515 |
 | Thief Bane | 14.00% | ~92,659 |
 | Master of Arms | 12.00% | ~79,422 |
 | Gambler | 10.00% | ~66,185 |
 | Dice Master | 10.00% | ~66,185 |
-| Swordsman | 9.00% | ~59,566 |
+| Swordsman | 9.00% | ~59,567 |
 | Knight | 8.00% | ~52,948 |
 | Cure for Corruption | 8.00% | ~52,948 |
 | Focused | 8.00% | ~52,948 |
 | Flurry of Fury | 8.00% | ~52,948 |
-| Long Shot | 7.00% | ~46,329 |
-| Devil Dice | 7.00% | ~46,329 |
-| Broken Heart | 7.00% | ~46,329 |
+| Long Shot | 7.00% | ~46,330 |
+| Devil Dice | 7.00% | ~46,330 |
+| Broken Heart | 7.00% | ~46,330 |
 | Adventurer | 6.00% | ~39,711 |
 | Empire's Bane | 6.00% | ~39,711 |
-| Jack of all Trades | 5.00% | ~33,092 |
-| Smithy | 5.00% | ~33,092 |
-| Leap of Faith | 3.00% | ~19,855 |
-| Combat Ready | 3.00% | ~19,855 |
-| Stuffed Potato | 3.00% | ~19,855 |
+| Jack of all Trades | 5.00% | ~33,093 |
+| Smithy | 5.00% | ~33,093 |
+| Leap of Faith | 3.00% | ~19,856 |
+| Combat Ready | 3.00% | ~19,856 |
+| Stuffed Potato | 3.00% | ~19,856 |
 | Card Sharp | 2.00% | ~13,237 |
 | Magician | 2.00% | ~13,237 |
 | Draknar's Bane | 2.00% | ~13,237 |
-| Protector of the Realm | 1.00% | ~6,618 |
-| Purgatorium | 1.00% | ~6,618 |
-| Cursed Soul | 1.00% | ~6,618 |
-| Champion | 1.00% | ~6,618 |
-| Final Death | 1.00% | ~6,618 |
+| Protector of the Realm | 1.00% | ~6,619 |
+| Purgatorium | 1.00% | ~6,619 |
+| Cursed Soul | 1.00% | ~6,619 |
+| Champion | 1.00% | ~6,619 |
+| Final Death | 1.00% | ~6,619 |
 | Thomas' Bane | 0.90% | ~5,957 |
 | Ally | 0.80% | ~5,295 |
 | Gamester | 0.70% | ~4,633 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~662 |
 | Blood Pact | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,849 (Ranked 24)  
+Progressed: 661,852 (Ranked 24)  
 Completed: 170 (0.03%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 170 (0.03%) (Ranked 246)
 | 2023-09-03 | 661,726 | 170 |
 | 2023-09-04 | 661,783 | 170 |
 | 2023-09-05 | 661,822 | 170 |
-| 2023-09-06 | 661,849 | 170 |
+| 2023-09-06 | 661,852 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 443)  
 Sum: 184 (Ranked 378)  

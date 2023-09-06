@@ -4266,9 +4266,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 674658,
+  "EOS_Progressed": 674695,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 5192,
+  "EOS_NewPlayers": 5195,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19816,6 +19816,11 @@
       "Time": "2023-09-06T18:05:52.2965783+00:00",
       "NumProgressed": 674658,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-09-06T19:07:33.3875016+00:00",
+      "NumProgressed": 674695,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 45,
@@ -19923,7 +19928,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     },
     {
       "ID": "ach_explorer",
@@ -19955,7 +19960,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     },
     {
       "ID": "ach_good_eyesight",
@@ -20025,9 +20030,9 @@
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6747
     },
     {
       "ID": "ach_knowledgeable",
@@ -20035,7 +20040,7 @@
       "Name": "Zombologist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     },
     {
       "ID": "ach_legendary",
@@ -20059,7 +20064,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     },
     {
       "ID": "ach_mind_over_monster",
@@ -20186,22 +20191,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674658,
+      "Progressed": 674695,
       "Completed": 2119
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 198,
-      "Completed": 198
+      "Progressed": 235,
+      "Completed": 235
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-06T16:00:39.7324358+00:00",
-  "LastChanged_Achievements": "2023-09-06T18:05:52.2965778+00:00",
+  "LastChanged_Achievements": "2023-09-06T19:07:33.387501+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-06T17:59:30.9628909+00:00",
-  "LastUpdate_Achievements": "2023-09-06T18:05:52.2966762+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:00:42.7526978+00:00",
+  "LastUpdate_Achievements": "2023-09-06T19:07:33.3876341+00:00"
 }

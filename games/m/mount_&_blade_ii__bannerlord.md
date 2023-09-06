@@ -11,8 +11,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Bannerlord | 23.00% | ~13,904 |
 | Horde breaker | 23.00% | ~13,904 |
 | Lawmaker | 23.00% | ~13,904 |
-| Trained | 22.00% | ~13,299 |
-| The king is pleased | 18.00% | ~10,881 |
+| Trained | 22.00% | ~13,300 |
+| The king is pleased | 18.00% | ~10,882 |
 | King Solomon | 17.00% | ~10,277 |
 | Apple of my eye | 15.00% | ~9,068 |
 | I can do it | 15.00% | ~9,068 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,452 (Ranked 88)  
+Progressed: 60,453 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,22 +197,22 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-03 | 60,288 | 0 |
 | 2023-09-04 | 60,348 | 0 |
 | 2023-09-05 | 60,403 | 0 |
-| 2023-09-06 | 60,452 | 0 |
+| 2023-09-06 | 60,453 | 0 |
 ## Awards
 Max (Character Customization): 7,036  (Ranked 51)  
-Sum: 14,316 (Ranked 70)  
+Sum: 14,318 (Ranked 70)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,036 |
 | This game is Great for Beginners | 942 |
-| This game has Diverse Characters | 908 |
+| This game has Diverse Characters | 909 |
 | This game is Highly Recommended | 853 |
 | This game is Extremely Fun | 820 |
 | This game has Amazing Storytelling | 809 |
 | This game is Relaxing | 796 |
 | This game has Quickly Understood Controls | 788 |
-| This game has Amazing Characters | 785 |
+| This game has Amazing Characters | 786 |
 | This game has a Creative Community | 579 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -453,4 +453,4 @@ Diff (max vs sum): -19
 | 2023-09-03 | 4.74 | - | 7,018 | 14,277 |
 | 2023-09-04 | 4.74 | - | 7,018 | 14,283 |
 | 2023-09-05 | 4.74 | - | 7,029 | 14,301 |
-| 2023-09-06 | 4.74 | - | 7,036 | 14,316 |
+| 2023-09-06 | 4.74 | - | 7,036 | 14,318 |

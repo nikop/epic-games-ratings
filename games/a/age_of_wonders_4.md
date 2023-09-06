@@ -34,10 +34,10 @@ Rating: 4.60 (Ranked 393)
 | The Creator | 3.00% | ~155 |
 | Enchanted Archipelago | 3.00% | ~155 |
 | The Goddess of Nature | 3.00% | ~155 |
-| Eternal Lord | 3.00% | ~155 |
 | Preparation Is Everything | 3.00% | ~155 |
 | The Magic That Empowers Me! | 2.00% | ~103 |
 | God Emperor | 2.00% | ~103 |
+| Eternal Lord | 2.00% | ~103 |
 | Crimson Caldera | 2.00% | ~103 |
 | The Eternal Court | 2.00% | ~103 |
 | Jack of All Tomes | 2.00% | ~103 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 393)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,160 (Ranked 146)  
+Progressed: 5,161 (Ranked 146)  
 Completed: 6 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 6 (0.12%) (Ranked 210)
 | 2023-09-03 | 5,154 | 6 |
 | 2023-09-04 | 5,157 | 6 |
 | 2023-09-05 | 5,159 | 6 |
-| 2023-09-06 | 5,160 | 6 |
+| 2023-09-06 | 5,161 | 6 |
 ## Awards
 Max (Great for Beginners): 24  (Ranked 487)  
 Sum: 24 (Ranked 495)  

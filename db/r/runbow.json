@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249009,
+  "EOS_Progressed": 249011,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13364,6 +13364,11 @@
       "Time": "2023-09-06T16:04:17.2912703+00:00",
       "NumProgressed": 249009,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-06T19:04:22.3705603+00:00",
+      "NumProgressed": 249011,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -13447,7 +13452,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37351
+      "UsersEstimate": 37352
     },
     {
       "ID": "clearCut",
@@ -13551,7 +13556,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131975
+      "UsersEstimate": 131976
     },
     {
       "ID": "indegestible",
@@ -13575,7 +13580,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64742
+      "UsersEstimate": 64743
     },
     {
       "ID": "justABit",
@@ -13607,7 +13612,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37351
+      "UsersEstimate": 37352
     },
     {
       "ID": "myFirstRunbow",
@@ -13615,7 +13620,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124504
+      "UsersEstimate": 124506
     },
     {
       "ID": "notScared",
@@ -13735,14 +13740,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39841
+      "UsersEstimate": 39842
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249009,
+      "Progressed": 249011,
       "Completed": 4
     }
   ],
@@ -13750,8 +13755,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-06T18:03:24.0296213+00:00",
+  "LastChanged_Achievements": "2023-09-06T19:04:22.3705599+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.8400765+00:00",
-  "LastUpdate_Ratings": "2023-09-06T18:00:28.0992352+00:00",
-  "LastUpdate_Achievements": "2023-09-06T18:03:24.0297135+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:01:55.7064718+00:00",
+  "LastUpdate_Achievements": "2023-09-06T19:04:22.3706781+00:00"
 }

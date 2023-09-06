@@ -4,8 +4,8 @@
   "ProductSlug": "baby-adventure-b14244",
   "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-24T20:00:00+00:00",
     "PcReleaseDate": "2023-07-10T20:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-04T09:57:21.4016429+00:00",
-  "LastUpdate_Ratings": "2023-09-06T17:57:42.901331+00:00",
-  "LastUpdate_Achievements": "2023-09-06T18:05:27.7957134+00:00"
+  "LastUpdate_Ratings": "2023-09-06T18:58:12.5964723+00:00",
+  "LastUpdate_Achievements": "2023-09-06T19:06:59.5057266+00:00"
 }

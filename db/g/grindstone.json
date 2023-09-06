@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -211,10 +211,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 5153,
-  "EOS_Completed": 29,
+  "EOS_Completed": 30,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.56,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:21.0391131+00:00",
@@ -760,6 +760,11 @@
       "Time": "2023-09-06T10:06:55.6427686+00:00",
       "NumProgressed": 5153,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-09-06T19:09:08.6886623+00:00",
+      "NumProgressed": 5153,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -905,9 +910,9 @@
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
       "SetID": "b8l3p0g",
       "Name": "Fun, Flirty, and Thirty",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3195
+      "UsersEstimate": 3246
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -937,17 +942,17 @@
       "ID": "ACHIEVE_FIREMAN",
       "SetID": "b8l3p0g",
       "Name": "Backdraft",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVE_FORTUNE_GRIND_WIN",
       "SetID": "b8l3p0g",
       "Name": "Fortunate Soul",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2576
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1163,14 +1168,14 @@
       "ID": "b8l3p0g",
       "IsBase": true,
       "Progressed": 5153,
-      "Completed": 29
+      "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-09-06T18:07:21.4165536+00:00",
+  "LastChanged_Achievements": "2023-09-06T19:09:08.6886617+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:44.1364669+00:00",
-  "LastUpdate_Ratings": "2023-09-06T18:01:18.8610919+00:00",
-  "LastUpdate_Achievements": "2023-09-06T18:07:21.4165911+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:03:06.1883617+00:00",
+  "LastUpdate_Achievements": "2023-09-06T19:09:08.6887099+00:00"
 }
