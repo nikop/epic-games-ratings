@@ -50,8 +50,8 @@
 | 48 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.33% |
 | 49 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 50 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
-| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.13% |
-| 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
+| 51 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.06% |
+| 51 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
 | 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
@@ -116,7 +116,7 @@
 | 114 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 115 | [Chorus](games/c/chorus.md) | 1.20% |
 | 116 | [Trifox](games/t/trifox.md) | 1.10% |
-| 117 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.08% |
+| 117 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.06% |
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |

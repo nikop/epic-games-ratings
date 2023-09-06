@@ -36,7 +36,7 @@
 | 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 229 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,431 | 31 |
 | 31 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 341 |
-| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 44 | 419 |
+| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 44 | 420 |
 | 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,410 | 129 |
 | 31 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 517 |
 | 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 499 | 199 |
@@ -75,7 +75,7 @@
 | 66 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 242 | 258 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,437 | 54 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 407 | 216 |
-| 66 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 44 | 419 |
+| 66 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 45 | 414 |
 | 66 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 517 |
 | 78 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 427 | 210 |
 | 78 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 517 |
@@ -364,7 +364,7 @@
 | 354 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 517 |
 | 354 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 517 |
 | 354 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,600 | 97 |
-| 354 | [Prey](games/p/prey.md) | 4.62 | 5,668 | 64 |
+| 354 | [Prey](games/p/prey.md) | 4.62 | 5,673 | 64 |
 | 354 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 517 |
 | 354 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.62 | 35 | 443 |
 | 354 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 827 | 154 |
@@ -532,7 +532,7 @@
 | 521 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 517 |
 | 521 | [VALORANT](games/v/valorant.md) | 4.53 | 68,466 | 10 |
 | 532 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 42 | 423 |
-| 532 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 31,976 | 15 |
+| 532 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 32,045 | 15 |
 | 532 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 504 |
 | 532 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 447 |
 | 532 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,629 | 7 |
@@ -755,7 +755,7 @@
 | 746 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 517 |
 | 746 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 517 |
 | 746 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 114 | 325 |
-| 746 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 44 | 419 |
+| 746 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 44 | 420 |
 | 757 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 517 |
 | 757 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 517 |
 | 757 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 517 |
@@ -810,7 +810,7 @@
 | 806 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 517 |
 | 806 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,657,006 | 1 |
 | 806 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 722 | 165 |
-| 806 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 419 |
+| 806 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 44 | 420 |
 | 806 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 517 |
 | 806 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 143 | 304 |
 | 806 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 126 | 313 |
