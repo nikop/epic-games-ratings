@@ -2352,9 +2352,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 162
     },
     {
       "ID": "ParryRepeated1",
@@ -2537,8 +2537,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-06T00:05:18.2802912+00:00",
+  "LastChanged_Achievements": "2023-09-06T01:45:28.7172343+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:21.5800878+00:00",
-  "LastUpdate_Ratings": "2023-09-06T00:02:02.0629106+00:00",
-  "LastUpdate_Achievements": "2023-09-06T00:05:18.2803455+00:00"
+  "LastUpdate_Ratings": "2023-09-06T01:41:14.8928899+00:00",
+  "LastUpdate_Achievements": "2023-09-06T01:45:28.7172812+00:00"
 }

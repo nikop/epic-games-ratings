@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 61.00% | ~204 |
-| Starting Skyward | 55.00% | ~184 |
-| Grime is Not Good | 49.00% | ~164 |
+| In the Black | 61.00% | ~205 |
+| Starting Skyward | 54.00% | ~181 |
+| Grime is Not Good | 49.00% | ~165 |
 | Dinner Dash | 42.00% | ~141 |
-| Floor Galore | 41.00% | ~137 |
-| Campaign Launch | 41.00% | ~137 |
-| Need a Consult | 38.00% | ~127 |
-| It's Technical | 38.00% | ~127 |
+| Floor Galore | 41.00% | ~138 |
+| Campaign Launch | 41.00% | ~138 |
+| Need a Consult | 38.00% | ~128 |
+| It's Technical | 38.00% | ~128 |
 | Upgrade Unlock | 37.00% | ~124 |
-| Delegate Maintenance | 35.00% | ~117 |
+| Delegate Maintenance | 35.00% | ~118 |
 | Proper Walls | 34.00% | ~114 |
-| Destination Destiny | 32.00% | ~107 |
-| Happy Tenants | 27.00% | ~90 |
-| Potent Potables | 27.00% | ~90 |
+| Destination Destiny | 32.00% | ~108 |
+| Happy Tenants | 27.00% | ~91 |
+| Potent Potables | 26.00% | ~87 |
 | Smooth Service | 26.00% | ~87 |
 | Retail Revenue | 25.00% | ~84 |
-| Your Prestige is Rising | 24.00% | ~80 |
+| Your Prestige is Rising | 24.00% | ~81 |
 | Don't Feel a Loan | 23.00% | ~77 |
 | People Mover | 22.00% | ~74 |
-| Lux Living | 21.00% | ~70 |
-| Artfully Done | 21.00% | ~70 |
-| Emporium Empire | 21.00% | ~70 |
-| Leveled Up Shops | 21.00% | ~70 |
-| Get Electrified | 21.00% | ~70 |
+| Lux Living | 21.00% | ~71 |
+| Artfully Done | 21.00% | ~71 |
+| Emporium Empire | 21.00% | ~71 |
+| Leveled Up Shops | 21.00% | ~71 |
+| Get Electrified | 21.00% | ~71 |
 | Rehab Expert | 20.00% | ~67 |
 | We Don't Need No Education | 20.00% | ~67 |
 | Tasty Profits | 19.00% | ~64 |
@@ -48,12 +48,12 @@
 | Phoning It In | 9.00% | ~30 |
 | First 100 Days | 8.00% | ~27 |
 | Water Features | 8.00% | ~27 |
-| Careful Constructor | 7.00% | ~23 |
-| Meet Me at HQ | 7.00% | ~23 |
-| Maximum Reuse | 7.00% | ~23 |
-| Revenue Royalty | 7.00% | ~23 |
-| Golden Opportunity | 7.00% | ~23 |
-| Pipe Up | 7.00% | ~23 |
+| Careful Constructor | 7.00% | ~24 |
+| Meet Me at HQ | 7.00% | ~24 |
+| Maximum Reuse | 7.00% | ~24 |
+| Revenue Royalty | 7.00% | ~24 |
+| Golden Opportunity | 7.00% | ~24 |
+| Pipe Up | 7.00% | ~24 |
 | I'm Busy Ruling | 6.00% | ~20 |
 | Sky High Stature | 6.00% | ~20 |
 | Profound Proceeds | 6.00% | ~20 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 335 (Ranked 267)  
+Progressed: 336 (Ranked 267)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-25 | 333 | 0 |
 | 2023-08-28 | 334 | 0 |
 | 2023-09-05 | 335 | 0 |
+| 2023-09-06 | 336 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

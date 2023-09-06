@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 29.00% | ~4 |
+| Your Lucky Day | 33.00% | ~5 |
 | fifteenth Time's the Charm | 7.00% | ~1 |
 | Pulling Your Weight | 7.00% | ~1 |
 | Nano Connoisseur | 7.00% | ~1 |
@@ -21,7 +21,7 @@
 | In Two Places At Once | 0.00% | ~0 |
 | More Power to You | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 450)  
+Progressed: 15 (Ranked 447)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -32,3 +32,4 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-03 | 7 | 0 |
 | 2023-09-04 | 8 | 0 |
 | 2023-09-05 | 14 | 0 |
+| 2023-09-06 | 15 | 0 |

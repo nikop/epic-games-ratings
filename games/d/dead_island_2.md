@@ -12,13 +12,13 @@ Rating: 4.54 (Ranked 505)
 | Hotel California | 1.00% | ~6,743 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,743 |
 | Welcome To Hell-A | 1.00% | ~6,743 |
-| Dr. Reed, I Presume? | 0.90% | ~6,068 |
-| Bookworm | 0.90% | ~6,068 |
-| But Doctor, I am Butcho | 0.90% | ~6,068 |
-| Friends Like These | 0.90% | ~6,068 |
-| Apex Predator | 0.90% | ~6,068 |
-| Stacking the Deck | 0.90% | ~6,068 |
-| This is My Weapon | 0.90% | ~6,068 |
+| Dr. Reed, I Presume? | 0.90% | ~6,069 |
+| Bookworm | 0.90% | ~6,069 |
+| But Doctor, I am Butcho | 0.90% | ~6,069 |
+| Friends Like These | 0.90% | ~6,069 |
+| Apex Predator | 0.90% | ~6,069 |
+| Stacking the Deck | 0.90% | ~6,069 |
+| This is My Weapon | 0.90% | ~6,069 |
 | Slayer Squad | 0.80% | ~5,394 |
 | Can't Handle the Truth | 0.80% | ~5,394 |
 | Like Riding a Bike | 0.80% | ~5,394 |
@@ -30,10 +30,10 @@ Rating: 4.54 (Ranked 505)
 | Anger Management | 0.60% | ~4,046 |
 | Perks of the Job | 0.60% | ~4,046 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,046 |
-| Making Your Mark | 0.50% | ~3,371 |
-| Humanity Distilled | 0.50% | ~3,371 |
-| Down with the Sickness | 0.50% | ~3,371 |
-| Max Headroom | 0.50% | ~3,371 |
+| Making Your Mark | 0.50% | ~3,372 |
+| Humanity Distilled | 0.50% | ~3,372 |
+| Down with the Sickness | 0.50% | ~3,372 |
+| Max Headroom | 0.50% | ~3,372 |
 | Go, Bobcats! | 0.40% | ~2,697 |
 | Rising Star | 0.40% | ~2,697 |
 | Smorgasbord | 0.30% | ~2,023 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,275 (Ranked 22)  
+Progressed: 674,309 (Ranked 22)  
 Completed: 2,118 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2,118 (0.31%) (Ranked 176)
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
-| 2023-09-06 | 674,275 | 2,118 |
+| 2023-09-06 | 674,309 | 2,118 |
 ## Awards
 Max (Great Boss Battles): 5,913  (Ranked 59)  
 Sum: 8,730 (Ranked 95)  

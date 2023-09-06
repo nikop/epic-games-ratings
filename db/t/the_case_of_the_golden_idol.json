@@ -846,17 +846,17 @@
       "ID": "13",
       "SetID": "a3epimb",
       "Name": "Solved The Spider of Lanka 3rd Case",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "14",
       "SetID": "a3epimb",
       "Name": "Solved the Lemurian Vampire 1st Case",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "15",
@@ -893,8 +893,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-09-06T00:07:18.1752981+00:00",
+  "LastChanged_Achievements": "2023-09-06T01:46:54.5446435+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:16.158819+00:00",
-  "LastUpdate_Ratings": "2023-09-06T00:00:38.0121834+00:00",
-  "LastUpdate_Achievements": "2023-09-06T00:07:18.1753204+00:00"
+  "LastUpdate_Ratings": "2023-09-06T01:40:20.610238+00:00",
+  "LastUpdate_Achievements": "2023-09-06T01:46:54.5446587+00:00"
 }

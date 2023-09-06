@@ -19,7 +19,7 @@ Number of Ratings: 281  (23.09.2022)
 | Goldfish? | 28.00% | ~1,593 |
 | Going for Gold | 25.00% | ~1,422 |
 | I'm Hooked! | 19.00% | ~1,081 |
-| Diamond in the Rough | 12.00% | ~683 |
+| Diamond in the Rough | 13.00% | ~739 |
 | More than a Tourist | 11.00% | ~626 |
 | Hook, Line and Sinker | 8.00% | ~455 |
 | School's Out for Summer | 8.00% | ~455 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1116,
+  "EOS_Progressed": 1117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -855,6 +855,11 @@
       "Time": "2023-09-04T01:45:41.5890729+00:00",
       "NumProgressed": 1116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-06T01:45:06.9651723+00:00",
+      "NumProgressed": 1117,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -874,7 +879,7 @@
       "Name": "Try them all",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ALLMODULESA",
@@ -882,7 +887,7 @@
       "Name": "A-mazing!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ALLMODULESB",
@@ -914,7 +919,7 @@
       "Name": "To infinity and gravity!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ALLTRACKSCAIRO",
@@ -922,7 +927,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -938,7 +943,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -946,7 +951,7 @@
       "Name": "One giant drive for mankind",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ALLTRACKSMARIANA",
@@ -970,7 +975,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -994,7 +999,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "CAREERADVANCED",
@@ -1042,7 +1047,7 @@
       "Name": "Had to sweat a bit",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CAREERTRIALSB",
@@ -1066,7 +1071,7 @@
       "Name": "[Sweats profusely]",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CHAMPION",
@@ -1090,7 +1095,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "FINISHSOUND",
@@ -1138,7 +1143,7 @@
       "Name": "It\u0027s like a party!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "JOINONEONLINE",
@@ -1178,7 +1183,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ONEPAINT",
@@ -1258,7 +1263,7 @@
       "Name": "He who laughs last...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "WINONEONLINE",
@@ -1266,7 +1271,7 @@
       "Name": "Healthy competition",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "WINPOLE",
@@ -1281,7 +1286,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1116,
+      "Progressed": 1117,
       "Completed": 0
     }
   ],
@@ -1289,8 +1294,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-06T00:04:47.5226785+00:00",
+  "LastChanged_Achievements": "2023-09-06T01:45:06.9651718+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:32.602539+00:00",
-  "LastUpdate_Ratings": "2023-09-06T00:02:55.1505571+00:00",
-  "LastUpdate_Achievements": "2023-09-06T00:04:47.5227387+00:00"
+  "LastUpdate_Ratings": "2023-09-06T01:41:51.2762242+00:00",
+  "LastUpdate_Achievements": "2023-09-06T01:45:06.9652121+00:00"
 }

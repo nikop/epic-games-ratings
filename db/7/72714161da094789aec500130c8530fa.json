@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -302,9 +302,9 @@
       "ID": "_cannon",
       "SetID": "2d5739o",
       "Name": "Cannon",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "_cannon_sentinel",
@@ -597,8 +597,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-09-06T00:06:10.5109198+00:00",
+  "LastChanged_Achievements": "2023-09-06T01:46:06.7382777+00:00",
   "LastUpdate_AppInfo": "2023-08-30T14:57:10.8752885+00:00",
-  "LastUpdate_Ratings": "2023-09-05T23:57:36.0989267+00:00",
-  "LastUpdate_Achievements": "2023-09-06T00:06:10.5109688+00:00"
+  "LastUpdate_Ratings": "2023-09-06T01:38:12.6053077+00:00",
+  "LastUpdate_Achievements": "2023-09-06T01:46:06.7383083+00:00"
 }

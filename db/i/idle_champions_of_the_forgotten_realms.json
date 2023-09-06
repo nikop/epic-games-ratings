@@ -6332,11 +6332,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 31411,
       "NumberOfAwardsMax": 5227
+    },
+    {
+      "Time": "2023-09-06T01:39:41.1453488+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31418,
+      "NumberOfAwardsMax": 5234
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31411,
-  "NumberOfAwardsMax": 5227,
+  "NumberOfAwards": 31418,
+  "NumberOfAwardsMax": 5234,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -6349,7 +6355,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5227
+      "Count": 5234
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6382,9 +6388,9 @@
       "Count": 3399
     }
   ],
-  "EOS_Progressed": 227387,
+  "EOS_Progressed": 227404,
   "EOS_Completed": 2254,
-  "EOS_NewPlayers": 1352,
+  "EOS_NewPlayers": 1351,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -21647,6 +21653,11 @@
       "Time": "2023-09-06T00:07:06.9362932+00:00",
       "NumProgressed": 227387,
       "NumCompleted": 2254
+    },
+    {
+      "Time": "2023-09-06T01:46:47.1104183+00:00",
+      "NumProgressed": 227404,
+      "NumCompleted": 2254
     }
   ],
   "TotalAchievements": 520,
@@ -23344,9 +23355,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_completed_36",
@@ -25817,21 +25828,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193661,
+      "Progressed": 193678,
       "Completed": 3401
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227387,
+      "Progressed": 227404,
       "Completed": 2254
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-05T09:58:46.6061409+00:00",
-  "LastChanged_Achievements": "2023-09-06T00:07:06.9362926+00:00",
+  "LastChanged": "2023-09-06T01:39:41.1453487+00:00",
+  "LastChanged_Achievements": "2023-09-06T01:46:47.1104176+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-05T23:59:46.9409778+00:00",
-  "LastUpdate_Achievements": "2023-09-06T00:07:06.9395036+00:00"
+  "LastUpdate_Ratings": "2023-09-06T01:39:41.1453493+00:00",
+  "LastUpdate_Achievements": "2023-09-06T01:46:47.1132423+00:00"
 }

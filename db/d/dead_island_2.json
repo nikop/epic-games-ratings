@@ -4260,10 +4260,10 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 674275,
+  "EOS_Progressed": 674309,
   "EOS_Completed": 2118,
-  "EOS_NewPlayers": 5339,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 5318,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19720,6 +19720,11 @@
       "Time": "2023-09-06T00:07:10.815391+00:00",
       "NumProgressed": 674275,
       "NumCompleted": 2118
+    },
+    {
+      "Time": "2023-09-06T01:46:49.313706+00:00",
+      "NumProgressed": 674309,
+      "NumCompleted": 2118
     }
   ],
   "TotalAchievements": 45,
@@ -19731,7 +19736,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -19739,7 +19744,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "ach_ammo_ran",
@@ -19787,7 +19792,7 @@
       "Name": "Bookworm",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "ach_break_a_leg",
@@ -19819,7 +19824,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "ach_doom_buddies",
@@ -19883,7 +19888,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "ach_hotel_california",
@@ -19931,7 +19936,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "ach_knowledgeable",
@@ -19971,7 +19976,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "ach_revival_tour",
@@ -19987,7 +19992,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "ach_secrets_of_la",
@@ -20003,7 +20008,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "ach_star_performance",
@@ -20027,7 +20032,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "ach_the_vcla",
@@ -20051,7 +20056,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -20090,7 +20095,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674275,
+      "Progressed": 674309,
       "Completed": 2118
     }
   ],
@@ -20098,8 +20103,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-05T19:59:05.2782537+00:00",
-  "LastChanged_Achievements": "2023-09-06T00:07:10.8153903+00:00",
+  "LastChanged_Achievements": "2023-09-06T01:46:49.3137055+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-06T00:00:27.018303+00:00",
-  "LastUpdate_Achievements": "2023-09-06T00:07:10.8155527+00:00"
+  "LastUpdate_Ratings": "2023-09-06T01:40:12.0485521+00:00",
+  "LastUpdate_Achievements": "2023-09-06T01:46:49.3138045+00:00"
 }

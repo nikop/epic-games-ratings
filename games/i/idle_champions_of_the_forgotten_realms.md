@@ -14,6 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.20% | ~455 |
 | A Persistent Buzzing | 0.20% | ~455 |
 | The Ring of Regeneration | 0.20% | ~455 |
+| The Crumbling Temple | 0.20% | ~455 |
 | Seeking Allies | 0.20% | ~455 |
 | Are Ya Chicken? | 0.20% | ~455 |
 | Mad Cow Disease | 0.20% | ~455 |
@@ -225,7 +226,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~227 |
 | Our Time To Shine | 0.10% | ~227 |
 | Review by the Blackstaff | 0.10% | ~194 |
-| The Crumbling Temple | 0.10% | ~227 |
 | The Death Curse | 0.10% | ~227 |
 | Treasure Hunters | 0.10% | ~227 |
 | The Guardian of Orolunga | 0.10% | ~227 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,387 (Ranked 54)  
+Progressed: 227,404 (Ranked 54)  
 Completed: 2,254 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -666,14 +666,14 @@ Completed: 2,254 (0.99%) (Ranked 124)
 | 2023-09-03 | 226,879 | 2,246 |
 | 2023-09-04 | 227,081 | 2,250 |
 | 2023-09-05 | 227,381 | 2,254 |
-| 2023-09-06 | 227,387 | 2,254 |
+| 2023-09-06 | 227,404 | 2,254 |
 ## Awards
-Max (Diverse Characters): 5,227  (Ranked 67)  
-Sum: 31,411 (Ranked 38)  
+Max (Diverse Characters): 5,234  (Ranked 67)  
+Sum: 31,418 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,227 |
+| This game has Diverse Characters | 5,234 |
 | This game is Great for Beginners | 5,200 |
 | This game has Quickly Understood Controls | 4,756 |
 | This game is Relaxing | 4,639 |
@@ -906,3 +906,4 @@ Diff (max vs sum): 29
 | 2023-09-03 | 4.06 | - | 5,224 | 31,377 |
 | 2023-09-04 | 4.06 | - | 5,227 | 31,396 |
 | 2023-09-05 | 4.06 | - | 5,227 | 31,411 |
+| 2023-09-06 | 4.06 | - | 5,234 | 31,418 |

@@ -5,21 +5,21 @@ Rating: 4.48 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~301 |
-| Increasing your Power Level | 27.00% | ~301 |
+| Rookie No More | 27.00% | ~302 |
+| Increasing your Power Level | 27.00% | ~302 |
 | Enter the Speed Gauntlet | 24.00% | ~268 |
 | I just can't choose | 24.00% | ~268 |
 | A Cheese Grater to the Face | 19.00% | ~212 |
 | Put it on a shelf | 18.00% | ~201 |
 | It's like an haircut | 17.00% | ~190 |
 | Suit up | 16.00% | ~179 |
-| Walked like an Egyptian | 15.00% | ~167 |
-| Ride in the rising sun | 15.00% | ~167 |
+| Walked like an Egyptian | 15.00% | ~168 |
+| Ride in the rising sun | 15.00% | ~168 |
 | Running at the speed of sound | 13.00% | ~145 |
 | Rookie No-No More | 12.00% | ~134 |
 | Martian explorer | 11.00% | ~123 |
-| To the core | 9.00% | ~100 |
-| Blurred photofinish | 9.00% | ~100 |
+| To the core | 9.00% | ~101 |
+| Blurred photofinish | 9.00% | ~101 |
 | First step into a larger world | 7.00% | ~78 |
 | Over the clouds | 6.00% | ~67 |
 | Under the sea, under the sea | 6.00% | ~67 |
@@ -32,15 +32,15 @@ Rating: 4.48 (Ranked 601)
 | Almost broke the game | 4.00% | ~45 |
 | Better luck next time | 4.00% | ~45 |
 | Dev, this! | 4.00% | ~45 |
-| Try them all | 3.00% | ~33 |
-| A-mazing! | 3.00% | ~33 |
-| To infinity and gravity! | 3.00% | ~33 |
-| One giant drive for mankind | 3.00% | ~33 |
-| Had to sweat a bit | 3.00% | ~33 |
-| [Sweats profusely] | 3.00% | ~33 |
-| It's like a party! | 3.00% | ~33 |
-| He who laughs last... | 3.00% | ~33 |
-| Healthy competition | 3.00% | ~33 |
+| Try them all | 3.00% | ~34 |
+| A-mazing! | 3.00% | ~34 |
+| To infinity and gravity! | 3.00% | ~34 |
+| One giant drive for mankind | 3.00% | ~34 |
+| Had to sweat a bit | 3.00% | ~34 |
+| [Sweats profusely] | 3.00% | ~34 |
+| It's like a party! | 3.00% | ~34 |
+| He who laughs last... | 3.00% | ~34 |
+| Healthy competition | 3.00% | ~34 |
 | This is to go, even Further Beyond! | 2.00% | ~22 |
 | Gitting Gud | 2.00% | ~22 |
 | Redout Champion | 2.00% | ~22 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 601)
 | I, need, more, shelves! | 0.40% | ~4 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,116 (Ranked 202)  
+Progressed: 1,117 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,6 +147,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-27 | 1,114 | 0 |
 | 2023-09-03 | 1,115 | 0 |
 | 2023-09-04 | 1,116 | 0 |
+| 2023-09-06 | 1,117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

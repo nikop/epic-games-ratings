@@ -690,7 +690,7 @@
   ],
   "EOS_Progressed": 5688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7190,9 +7190,9 @@
       "ID": "ACHIEVEMENT_022",
       "SetID": "1a05lfd",
       "Name": "Diamond in the Rough",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 683
+      "UsersEstimate": 739
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -7317,8 +7317,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-06T00:02:13.708799+00:00",
-  "LastChanged_Achievements": "2023-09-06T00:03:13.5025451+00:00",
+  "LastChanged_Achievements": "2023-09-06T01:44:14.0659976+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-06T00:02:13.7087995+00:00",
-  "LastUpdate_Achievements": "2023-09-06T00:03:13.5026305+00:00"
+  "LastUpdate_Ratings": "2023-09-06T01:41:23.6379898+00:00",
+  "LastUpdate_Achievements": "2023-09-06T01:44:14.0660538+00:00"
 }

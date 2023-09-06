@@ -798,9 +798,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 221565,
+  "EOS_Progressed": 221575,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2473,
+  "EOS_NewPlayers": 2464,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9708,6 +9708,11 @@
       "Time": "2023-09-06T00:06:39.3072517+00:00",
       "NumProgressed": 221565,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-06T01:46:26.7906315+00:00",
+      "NumProgressed": 221575,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9775,7 +9780,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "Chapter3",
@@ -10151,7 +10156,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "ElfEpic",
@@ -10167,7 +10172,7 @@
       "Name": "Sowwy!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 62038
+      "UsersEstimate": 62041
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10183,7 +10188,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "EndCombatOneHp",
@@ -10191,7 +10196,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "EndGameCursed",
@@ -10367,7 +10372,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "SupportCount4",
@@ -10415,28 +10420,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 221565,
+      "Progressed": 221575,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 221565,
+      "Progressed": 221575,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-05T18:59:34.5611649+00:00",
-  "LastChanged_Achievements": "2023-09-06T00:06:39.3072351+00:00",
+  "LastChanged_Achievements": "2023-09-06T01:46:26.7906312+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-06T00:00:17.7804339+00:00",
-  "LastUpdate_Achievements": "2023-09-06T00:06:39.3074492+00:00"
+  "LastUpdate_Ratings": "2023-09-06T01:40:05.1527804+00:00",
+  "LastUpdate_Achievements": "2023-09-06T01:46:26.7907589+00:00"
 }

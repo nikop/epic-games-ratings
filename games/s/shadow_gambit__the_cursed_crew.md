@@ -5,24 +5,24 @@ Rating: 4.78 (Ranked 101)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 71.00% | ~428 |
-| The Adventure Begins | 56.00% | ~338 |
-| Swabbie | 43.00% | ~259 |
-| With Great Power… | 41.00% | ~247 |
-| This Belongs in a Museum | 36.00% | ~217 |
-| The Gambit Has Begun | 32.00% | ~193 |
-| Powder Monkey | 30.00% | ~181 |
-| Somewhere Deep in the Lost Caribbean | 27.00% | ~163 |
-| Mirror Mirror on the Wall | 26.00% | ~157 |
+| A New Journey | 71.00% | ~430 |
+| The Adventure Begins | 56.00% | ~339 |
+| Swabbie | 43.00% | ~261 |
+| With Great Power… | 41.00% | ~248 |
+| This Belongs in a Museum | 36.00% | ~218 |
+| The Gambit Has Begun | 31.00% | ~188 |
+| Powder Monkey | 29.00% | ~176 |
+| Somewhere Deep in the Lost Caribbean | 27.00% | ~164 |
+| Mirror Mirror on the Wall | 26.00% | ~158 |
 | Pirates Assemble! | 23.00% | ~139 |
 | Buccaneer | 22.00% | ~133 |
 | Fishy Fish | 21.00% | ~127 |
 | Seadog | 17.00% | ~103 |
-| All Good Things | 15.00% | ~90 |
-| Persistent Parasite | 15.00% | ~90 |
-| Privateer | 11.00% | ~66 |
-| Jaded Judge | 11.00% | ~66 |
-| Rustic Recipe | 10.00% | ~60 |
+| All Good Things | 15.00% | ~91 |
+| Persistent Parasite | 15.00% | ~91 |
+| Privateer | 11.00% | ~67 |
+| Jaded Judge | 11.00% | ~67 |
+| Rustic Recipe | 10.00% | ~61 |
 | Tobacco Travesty | 8.00% | ~48 |
 | Lyrical Longing | 8.00% | ~48 |
 | Accursed Artifacts | 7.00% | ~42 |
@@ -32,8 +32,8 @@ Rating: 4.78 (Ranked 101)
 | Marauder | 3.00% | ~18 |
 | Welcome Back Jester | 3.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 603 (Ranked 229)  
-Completed: 14 (2.32%) (Ranked 88)  
+Progressed: 606 (Ranked 229)  
+Completed: 14 (2.31%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,6 +64,7 @@ Completed: 14 (2.32%) (Ranked 88)
 | 2023-09-03 | 589 | 11 |
 | 2023-09-04 | 596 | 12 |
 | 2023-09-05 | 603 | 14 |
+| 2023-09-06 | 606 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
