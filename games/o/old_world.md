@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Judaism | 3.00% | ~414 |
 | Naming Landmarks | 3.00% | ~414 |
 | Trade Caravan | 3.00% | ~414 |
+| The Great Mage | 3.00% | ~414 |
 | Regicide | 2.00% | ~276 |
 | Ambitious | 2.00% | ~276 |
 | Drillmaster | 2.00% | ~276 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 2.00% | ~276 |
 | Roman Paganism | 2.00% | ~276 |
 | Zoroastrianism | 2.00% | ~276 |
-| The Great Mage | 2.00% | ~276 |
 | Poetic Leader | 2.00% | ~276 |
 | Hanging Gardens in Babylon | 1.00% | ~138 |
 | Beloved | 1.00% | ~138 |
@@ -100,6 +100,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
 | Redemption | 0.90% | ~124 |
+| Ambition Victory | 0.90% | ~124 |
 | Win a Single Player Game | 0.90% | ~124 |
 | Capable | 0.80% | ~110 |
 | Invincible | 0.80% | ~110 |
@@ -114,10 +115,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.80% | ~110 |
 | Veneration | 0.80% | ~110 |
 | Cimmerian Archer | 0.80% | ~110 |
-| Ambition Victory | 0.80% | ~110 |
 | Double Victory | 0.80% | ~110 |
 | Bad Heir Day | 0.70% | ~97 |
 | Devout | 0.70% | ~97 |
+| Hunters | 0.70% | ~97 |
 | Landowners | 0.70% | ~97 |
 | Adur Burzen-Mihr | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Old | 0.60% | ~83 |
 | Strong Difficulty | 0.60% | ~83 |
-| Hunters | 0.60% | ~83 |
 | Learn to Play 4 | 0.60% | ~83 |
 | One True Faith | 0.60% | ~83 |
 | Hittite Paganism | 0.60% | ~83 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,794 (Ranked 121)  
+Progressed: 13,795 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -442,7 +442,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-03 | 13,767 | 5 |
 | 2023-09-04 | 13,779 | 5 |
 | 2023-09-05 | 13,790 | 5 |
-| 2023-09-06 | 13,794 | 5 |
+| 2023-09-06 | 13,795 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

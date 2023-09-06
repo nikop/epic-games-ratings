@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5828,10 +5828,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27177,
       "NumberOfAwardsMax": 4723
+    },
+    {
+      "Time": "2023-09-06T17:00:23.2872384+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27178,
+      "NumberOfAwardsMax": 4723
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27177,
+  "NumberOfAwards": 27178,
   "NumberOfAwardsMax": 4723,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5845,7 +5851,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3867
+      "Count": 3868
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5884,9 +5890,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135750,
+  "EOS_Progressed": 135752,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20159,6 +20165,11 @@
       "Time": "2023-09-06T16:06:09.4965932+00:00",
       "NumProgressed": 135750,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2023-09-06T17:05:35.6781496+00:00",
+      "NumProgressed": 135752,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 112,
@@ -20178,7 +20189,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "advlevel03",
@@ -20218,7 +20229,7 @@
       "Name": "Ascended",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ascend02",
@@ -20362,7 +20373,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "collection02",
@@ -20578,7 +20589,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "furniture02",
@@ -20658,7 +20669,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "gold04",
@@ -20762,7 +20773,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "level03",
@@ -20882,7 +20893,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "quest02",
@@ -21042,7 +21053,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "workers03",
@@ -21065,15 +21076,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135750,
+      "Progressed": 135752,
       "Completed": 145
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-06T14:00:58.7804944+00:00",
-  "LastChanged_Achievements": "2023-09-06T16:06:09.4965926+00:00",
+  "LastChanged": "2023-09-06T17:00:23.2872382+00:00",
+  "LastChanged_Achievements": "2023-09-06T17:05:35.6781491+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-06T16:00:45.7079548+00:00",
-  "LastUpdate_Achievements": "2023-09-06T16:06:09.4968238+00:00"
+  "LastUpdate_Ratings": "2023-09-06T17:00:23.2872388+00:00",
+  "LastUpdate_Achievements": "2023-09-06T17:05:35.6784484+00:00"
 }

@@ -7,15 +7,15 @@
 | First Step | 53.00% | ~85 |
 | The 4 Pillars | 51.00% | ~82 |
 | Capitalism | 19.00% | ~30 |
+| There's something in those trees | 11.00% | ~18 |
 | Indebted | 11.00% | ~18 |
 | Great Producer | 11.00% | ~18 |
-| There's something in those trees | 10.00% | ~16 |
 | Green Energy | 10.00% | ~16 |
+| Desert Power | 9.00% | ~14 |
 | Desert Rat | 9.00% | ~14 |
 | Health Care | 8.00% | ~13 |
-| Desert Power | 8.00% | ~13 |
+| Good payer | 8.00% | ~13 |
 | Perfect Soldier | 7.00% | ~11 |
-| Good payer | 7.00% | ~11 |
 | Fuel Tycoon | 7.00% | ~11 |
 | Ammo Tycoon | 7.00% | ~11 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~10 |
@@ -24,10 +24,10 @@
 | Self-sufficient | 6.00% | ~10 |
 | Food Tycoon | 6.00% | ~10 |
 | Medicine Tycoon | 6.00% | ~10 |
+| Overpopulation | 5.00% | ~8 |
+| Property Bro | 5.00% | ~8 |
 | Supersoldier | 4.00% | ~6 |
 | Outdoor Decorator | 4.00% | ~6 |
-| Overpopulation | 4.00% | ~6 |
-| Property Bro | 4.00% | ~6 |
 | Human Resources | 3.00% | ~5 |
 | Training Camp | 3.00% | ~5 |
 | Tear Down the Wall! | 2.00% | ~3 |
@@ -39,9 +39,9 @@
 | Vive le Résistance | 1.00% | ~2 |
 | Snowman | 1.00% | ~2 |
 | Reconquest | 1.00% | ~2 |
+| Counter-espionage | 0.60% | ~1 |
 | Conveyor Belt Madness | 0.60% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
-| Counter-espionage | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |

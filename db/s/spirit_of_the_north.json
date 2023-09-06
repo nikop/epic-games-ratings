@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 68106,
+  "EOS_Progressed": 68109,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15479,6 +15479,11 @@
       "Time": "2023-09-06T16:03:42.0795109+00:00",
       "NumProgressed": 68106,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-09-06T17:03:27.3230331+00:00",
+      "NumProgressed": 68109,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 24,
@@ -15498,7 +15503,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14983
+      "UsersEstimate": 14984
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -15506,7 +15511,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 46312
+      "UsersEstimate": 46314
     },
     {
       "ID": "BEST_FRIENDS",
@@ -15514,7 +15519,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14983
+      "UsersEstimate": 14984
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -15530,7 +15535,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14302
+      "UsersEstimate": 14303
     },
     {
       "ID": "FETCH",
@@ -15546,7 +15551,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19751
+      "UsersEstimate": 19752
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -15562,7 +15567,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 12259
+      "UsersEstimate": 12260
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -15570,7 +15575,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36096
+      "UsersEstimate": 36098
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -15586,7 +15591,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5448
+      "UsersEstimate": 5449
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -15602,7 +15607,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 4767
+      "UsersEstimate": 4768
     },
     {
       "ID": "OLD_COMPANION",
@@ -15618,7 +15623,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 5448
+      "UsersEstimate": 5449
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -15626,7 +15631,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5448
+      "UsersEstimate": 5449
     },
     {
       "ID": "SPIRIT_BARK",
@@ -15634,7 +15639,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14302
+      "UsersEstimate": 14303
     },
     {
       "ID": "SPIRIT_DASH",
@@ -15681,7 +15686,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 68106,
+      "Progressed": 68109,
       "Completed": 355
     }
   ],
@@ -15689,8 +15694,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-06T16:03:42.0795102+00:00",
+  "LastChanged_Achievements": "2023-09-06T17:03:27.3230326+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:13.6353756+00:00",
-  "LastUpdate_Ratings": "2023-09-06T16:02:05.6147749+00:00",
-  "LastUpdate_Achievements": "2023-09-06T16:03:42.0796122+00:00"
+  "LastUpdate_Ratings": "2023-09-06T17:01:32.2253023+00:00",
+  "LastUpdate_Achievements": "2023-09-06T17:03:27.3232127+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~62,075 |
+| Sowwy! | 28.00% | ~62,078 |
 | Alt+F4 | 4.00% | ~8,868 |
 | Déjà vu | 3.00% | ~6,651 |
 | Where's that freaking Dwarf? | 3.00% | ~6,651 |
@@ -33,17 +33,17 @@ Number of Ratings: 118  (23.09.2022)
 | Shiny and Crôm | 0.90% | ~1,995 |
 | The beards of change | 0.90% | ~1,995 |
 | The Ranger of Chaos | 0.90% | ~1,995 |
+| Thieves' Guild Accreditation | 0.90% | ~1,995 |
 | Res Judicata | 0.80% | ~1,774 |
 | The Famous Dungeon of Naheulbeuk | 0.80% | ~1,774 |
 | %#*!$*! | 0.80% | ~1,774 |
 | Look but don't touch | 0.80% | ~1,774 |
-| Thieves' Guild Accreditation | 0.80% | ~1,774 |
 | Dwarf Fortress | 0.70% | ~1,552 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,330 |
 | Lust and Debauchery | 0.60% | ~1,330 |
 | Material Girl | 0.60% | ~1,330 |
-| Dead for good | 0.50% | ~1,108 |
-| Gargantua | 0.50% | ~1,108 |
+| Dead for good | 0.50% | ~1,109 |
+| Gargantua | 0.50% | ~1,109 |
 | In Navalu's footsteps | 0.40% | ~887 |
 | Lëgal Legend | 0.40% | ~887 |
 | Holistic Adventuring Party | 0.30% | ~665 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,697 (Ranked 57)  
+Progressed: 221,706 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.00%) (Ranked 270)
 | 2023-09-03 | 220,988 | 2 |
 | 2023-09-04 | 221,298 | 2 |
 | 2023-09-05 | 221,553 | 2 |
-| 2023-09-06 | 221,697 | 2 |
+| 2023-09-06 | 221,706 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

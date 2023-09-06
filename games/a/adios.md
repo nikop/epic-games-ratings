@@ -5,34 +5,34 @@ Rating: 3.53 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~15,946 |
-| Hard Worker | 20.00% | ~14,496 |
-| Master, Commander | 20.00% | ~14,496 |
-| Mechanic | 19.00% | ~13,772 |
-| Adios, Friendo | 18.00% | ~13,047 |
-| Bottom's Up | 18.00% | ~13,047 |
-| Nice Try | 16.00% | ~11,597 |
-| Right On Target | 13.00% | ~9,423 |
-| Piano Man | 10.00% | ~7,248 |
-| Lazy Bones | 9.00% | ~6,523 |
+| Be Seeing You | 22.00% | ~15,948 |
+| Hard Worker | 20.00% | ~14,499 |
+| Master, Commander | 20.00% | ~14,499 |
+| Mechanic | 19.00% | ~13,774 |
+| Adios, Friendo | 18.00% | ~13,049 |
+| Bottom's Up | 18.00% | ~13,049 |
+| Nice Try | 16.00% | ~11,599 |
+| Right On Target | 13.00% | ~9,424 |
+| Piano Man | 10.00% | ~7,249 |
+| Lazy Bones | 9.00% | ~6,524 |
 | Vinyl Vibes | 8.00% | ~5,799 |
-| Nothing Left to Say | 7.00% | ~5,074 |
-| Sniper | 7.00% | ~5,074 |
-| Cut Call | 6.00% | ~4,349 |
-| Butcher | 4.00% | ~2,899 |
-| Magnetic Miracles | 4.00% | ~2,899 |
-| Spicy | 4.00% | ~2,899 |
-| A Man Of Taste | 3.00% | ~2,174 |
-| Ace in the Hole | 3.00% | ~2,174 |
-| Fair's Fair | 3.00% | ~2,174 |
-| Hearty | 3.00% | ~2,174 |
-| Meaty | 3.00% | ~2,174 |
-| Taco Toto | 3.00% | ~2,174 |
+| Nothing Left to Say | 7.00% | ~5,075 |
+| Sniper | 7.00% | ~5,075 |
+| Cut Call | 6.00% | ~4,350 |
+| Butcher | 4.00% | ~2,900 |
+| Magnetic Miracles | 4.00% | ~2,900 |
+| Spicy | 4.00% | ~2,900 |
+| A Man Of Taste | 3.00% | ~2,175 |
+| Ace in the Hole | 3.00% | ~2,175 |
+| Fair's Fair | 3.00% | ~2,175 |
+| Hearty | 3.00% | ~2,175 |
+| Meaty | 3.00% | ~2,175 |
+| Taco Toto | 3.00% | ~2,175 |
 | Audiophile | 2.00% | ~1,450 |
 | Tape Head | 2.00% | ~1,450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,482 (Ranked 80)  
-Completed: 748 (1.03%) (Ranked 120)  
+Progressed: 72,493 (Ranked 80)  
+Completed: 749 (1.03%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,7 +170,7 @@ Completed: 748 (1.03%) (Ranked 120)
 | 2023-09-03 | 72,260 | 742 |
 | 2023-09-04 | 72,351 | 745 |
 | 2023-09-05 | 72,436 | 748 |
-| 2023-09-06 | 72,482 | 748 |
+| 2023-09-06 | 72,493 | 749 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

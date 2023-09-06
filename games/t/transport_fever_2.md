@@ -63,7 +63,7 @@ Number of Ratings: 180  (23.09.2022)
 | Speed of light | 2.00% | ~33 |
 | Trans-Siberian Railway | 1.00% | ~16 |
 | Train Fever | 0.90% | ~15 |
-| Louis Favre | 0.70% | ~11 |
+| Louis Favre | 0.80% | ~13 |
 | Big spender | 0.40% | ~7 |
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.00% | ~0 |

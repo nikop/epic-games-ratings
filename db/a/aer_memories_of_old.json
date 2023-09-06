@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19514,
+  "EOS_Progressed": 19515,
   "EOS_Completed": 387,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -15257,6 +15257,11 @@
       "Time": "2023-09-06T16:04:42.7608776+00:00",
       "NumProgressed": 19514,
       "NumCompleted": 387
+    },
+    {
+      "Time": "2023-09-06T17:04:20.003934+00:00",
+      "NumProgressed": 19515,
+      "NumCompleted": 387
     }
   ],
   "TotalAchievements": 20,
@@ -15268,7 +15273,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -15308,7 +15313,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -15388,7 +15393,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15026
+      "UsersEstimate": 15027
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15427,15 +15432,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19514,
+      "Progressed": 19515,
       "Completed": 387
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-06T16:04:42.760877+00:00",
+  "LastChanged_Achievements": "2023-09-06T17:04:20.0039334+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-06T16:02:58.7902616+00:00",
-  "LastUpdate_Achievements": "2023-09-06T16:04:42.760975+00:00"
+  "LastUpdate_Ratings": "2023-09-06T17:02:19.1915613+00:00",
+  "LastUpdate_Achievements": "2023-09-06T17:04:20.0041236+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "worlds-of-the-future",
   "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T10:57:28.3473475+00:00",
-  "LastUpdate_Ratings": "2023-09-06T16:02:40.8791791+00:00",
-  "LastUpdate_Achievements": "2023-09-06T16:05:14.2021797+00:00"
+  "LastUpdate_Ratings": "2023-09-06T17:02:00.7315227+00:00",
+  "LastUpdate_Achievements": "2023-09-06T17:04:46.9095119+00:00"
 }

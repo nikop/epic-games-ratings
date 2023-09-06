@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 532,
+  "EOS_Progressed": 533,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.5,
   "EosHistory": [
@@ -1007,6 +1007,11 @@
       "Time": "2023-09-06T04:06:32.6842346+00:00",
       "NumProgressed": 532,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-06T17:06:40.1689086+00:00",
+      "NumProgressed": 533,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 15,
@@ -1018,7 +1023,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "booty_call",
@@ -1042,7 +1047,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "hold_my_beer",
@@ -1090,7 +1095,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1098,7 +1103,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "planting_the_seed",
@@ -1137,7 +1142,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 532,
+      "Progressed": 533,
       "Completed": 8
     }
   ],
@@ -1145,8 +1150,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-09-06T16:07:21.9576831+00:00",
+  "LastChanged_Achievements": "2023-09-06T17:06:40.1689075+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.0435914+00:00",
-  "LastUpdate_Ratings": "2023-09-06T15:59:57.8132291+00:00",
-  "LastUpdate_Achievements": "2023-09-06T16:07:21.9577001+00:00"
+  "LastUpdate_Ratings": "2023-09-06T16:59:38.0863575+00:00",
+  "LastUpdate_Achievements": "2023-09-06T17:06:40.168946+00:00"
 }

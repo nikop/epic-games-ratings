@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1858,
+  "EOS_Progressed": 1859,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2023-09-06T13:11:42.243333+00:00",
       "NumProgressed": 1858,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-06T17:06:14.9363707+00:00",
+      "NumProgressed": 1859,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -983,7 +988,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "revives_25",
@@ -1078,13 +1083,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 1858,
+      "Progressed": 1859,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-06T16:06:54.2916368+00:00",
+  "LastChanged_Achievements": "2023-09-06T17:06:14.93637+00:00",
   "LastUpdate_AppInfo": "2023-09-06T09:57:05.1729887+00:00",
-  "LastUpdate_Ratings": "2023-09-06T16:01:46.9220352+00:00",
-  "LastUpdate_Achievements": "2023-09-06T16:06:54.2916626+00:00"
+  "LastUpdate_Ratings": "2023-09-06T17:01:13.7812215+00:00",
+  "LastUpdate_Achievements": "2023-09-06T17:06:14.9364173+00:00"
 }

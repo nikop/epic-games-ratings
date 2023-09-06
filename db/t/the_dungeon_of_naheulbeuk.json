@@ -810,9 +810,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 221697,
+  "EOS_Progressed": 221706,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2382,
+  "EOS_NewPlayers": 2373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9800,6 +9800,11 @@
       "Time": "2023-09-06T16:07:00.7260013+00:00",
       "NumProgressed": 221697,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-06T17:06:20.4370779+00:00",
+      "NumProgressed": 221706,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10259,7 +10264,7 @@
       "Name": "Sowwy!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 62075
+      "UsersEstimate": 62078
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10339,7 +10344,7 @@
       "Name": "Dead for good",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "KillGolbargh",
@@ -10363,7 +10368,7 @@
       "Name": "Gargantua",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "Orktobearfest",
@@ -10449,9 +10454,9 @@
       "ID": "RogueEpic",
       "SetID": "50chcgj",
       "Name": "Thieves\u0027 Guild Accreditation",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1995
     },
     {
       "ID": "Speedrun",
@@ -10514,21 +10519,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 221697,
+      "Progressed": 221706,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 221697,
+      "Progressed": 221706,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T13:05:29.237116+00:00",
-  "LastChanged_Achievements": "2023-09-06T16:07:00.7260006+00:00",
+  "LastChanged_Achievements": "2023-09-06T17:06:20.4370774+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-06T16:00:26.5841507+00:00",
-  "LastUpdate_Achievements": "2023-09-06T16:07:00.7261549+00:00"
+  "LastUpdate_Ratings": "2023-09-06T17:00:07.5494827+00:00",
+  "LastUpdate_Achievements": "2023-09-06T17:06:20.4373661+00:00"
 }

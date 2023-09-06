@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4266,9 +4266,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 674598,
+  "EOS_Progressed": 674626,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 5226,
+  "EOS_NewPlayers": 5208,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19806,6 +19806,11 @@
       "Time": "2023-09-06T16:07:31.5012145+00:00",
       "NumProgressed": 674598,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-09-06T17:06:48.5966106+00:00",
+      "NumProgressed": 674626,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 45,
@@ -19817,7 +19822,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -19873,7 +19878,7 @@
       "Name": "Bookworm",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "ach_break_a_leg",
@@ -19905,7 +19910,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "ach_doom_buddies",
@@ -19927,9 +19932,9 @@
       "ID": "ach_fetch_me_a_tisha",
       "SetID": "7km39fm",
       "Name": "Can\u0027t Handle the Truth",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5397
+      "UsersEstimate": 6072
     },
     {
       "ID": "ach_finisher",
@@ -20017,7 +20022,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "ach_knowledgeable",
@@ -20087,9 +20092,9 @@
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6746
     },
     {
       "ID": "ach_star_performance",
@@ -20121,7 +20126,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "ach_thesacrifice",
@@ -20137,7 +20142,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6072
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -20161,7 +20166,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "ach_well_trained",
@@ -20176,22 +20181,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674598,
+      "Progressed": 674626,
       "Completed": 2119
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 138,
-      "Completed": 138
+      "Progressed": 166,
+      "Completed": 166
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-06T16:00:39.7324358+00:00",
-  "LastChanged_Achievements": "2023-09-06T16:07:31.501214+00:00",
+  "LastChanged_Achievements": "2023-09-06T17:06:48.5966095+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-06T16:00:39.7324367+00:00",
-  "LastUpdate_Achievements": "2023-09-06T16:07:31.501329+00:00"
+  "LastUpdate_Ratings": "2023-09-06T17:00:19.783766+00:00",
+  "LastUpdate_Achievements": "2023-09-06T17:06:48.5968255+00:00"
 }

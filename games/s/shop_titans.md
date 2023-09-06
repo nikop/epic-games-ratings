@@ -27,14 +27,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.70% | ~950 |
 | Where it Hurts | 0.70% | ~950 |
 | Dungeon Imports | 0.70% | ~950 |
-| On the Path to Greatness | 0.60% | ~814 |
-| Ascended | 0.60% | ~814 |
-| Blank Page Syndrome | 0.60% | ~814 |
-| Efficient Floor Space | 0.60% | ~814 |
-| Gild-Gotten Goods | 0.60% | ~814 |
-| Accomplished Merchant | 0.60% | ~814 |
-| Did we pack lunch? | 0.60% | ~814 |
-| Arcane Industries | 0.60% | ~814 |
+| On the Path to Greatness | 0.60% | ~815 |
+| Ascended | 0.60% | ~815 |
+| Blank Page Syndrome | 0.60% | ~815 |
+| Efficient Floor Space | 0.60% | ~815 |
+| Gild-Gotten Goods | 0.60% | ~815 |
+| Accomplished Merchant | 0.60% | ~815 |
+| Did we pack lunch? | 0.60% | ~815 |
+| Arcane Industries | 0.60% | ~815 |
 | Research & Development | 0.50% | ~679 |
 | Vanity, Verily | 0.50% | ~679 |
 | Fated Encounters | 0.50% | ~679 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,750 (Ranked 67)  
+Progressed: 135,752 (Ranked 67)  
 Completed: 145 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,17 +258,17 @@ Completed: 145 (0.11%) (Ranked 215)
 | 2023-09-03 | 135,618 | 142 |
 | 2023-09-04 | 135,661 | 142 |
 | 2023-09-05 | 135,715 | 144 |
-| 2023-09-06 | 135,750 | 145 |
+| 2023-09-06 | 135,752 | 145 |
 ## Awards
 Max (Great for Beginners): 4,723  (Ranked 71)  
-Sum: 27,177 (Ranked 49)  
+Sum: 27,178 (Ranked 49)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,723 |
 | This game is Relaxing | 4,005 |
 | This game has Quickly Understood Controls | 3,993 |
-| This game has Diverse Characters | 3,867 |
+| This game has Diverse Characters | 3,868 |
 | This game is Highly Recommended | 3,741 |
 | This game has Easy Combat | 3,680 |
 | This game has Playful Visuals | 3,168 |
@@ -498,4 +498,4 @@ Diff (max vs sum): 22
 | 2023-09-03 | 3.99 | - | 4,721 | 27,169 |
 | 2023-09-04 | 3.99 | - | 4,721 | 27,173 |
 | 2023-09-05 | 3.99 | - | 4,723 | 27,176 |
-| 2023-09-06 | 3.99 | - | 4,723 | 27,177 |
+| 2023-09-06 | 3.99 | - | 4,723 | 27,178 |
