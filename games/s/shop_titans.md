@@ -45,6 +45,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.50% | ~679 |
 | Magical Harmony | 0.50% | ~679 |
 | A Notch Above the Rest | 0.40% | ~543 |
+| Cream of the Crop | 0.40% | ~543 |
 | Above the Norm | 0.40% | ~543 |
 | A Ronin Reborn | 0.40% | ~543 |
 | Tax not Included | 0.40% | ~543 |
@@ -74,7 +75,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.40% | ~543 |
 | Exotic Commodities | 0.40% | ~543 |
 | Complete Monopoly | 0.40% | ~543 |
-| Cream of the Crop | 0.30% | ~407 |
 | Top of the World | 0.30% | ~407 |
 | Proud Paladin | 0.30% | ~407 |
 | Constellated | 0.30% | ~407 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,739 (Ranked 67)  
+Progressed: 135,742 (Ranked 67)  
 Completed: 145 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 145 (0.11%) (Ranked 215)
 | 2023-09-03 | 135,618 | 142 |
 | 2023-09-04 | 135,661 | 142 |
 | 2023-09-05 | 135,715 | 144 |
-| 2023-09-06 | 135,739 | 145 |
+| 2023-09-06 | 135,742 | 145 |
 ## Awards
 Max (Great for Beginners): 4,723  (Ranked 71)  
-Sum: 27,176 (Ranked 49)  
+Sum: 27,177 (Ranked 49)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -270,7 +270,7 @@ Diff (max vs sum): 22
 | This game has Quickly Understood Controls | 3,993 |
 | This game has Diverse Characters | 3,867 |
 | This game is Highly Recommended | 3,741 |
-| This game has Easy Combat | 3,679 |
+| This game has Easy Combat | 3,680 |
 | This game has Playful Visuals | 3,168 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -498,3 +498,4 @@ Diff (max vs sum): 22
 | 2023-09-03 | 3.99 | - | 4,721 | 27,169 |
 | 2023-09-04 | 3.99 | - | 4,721 | 27,173 |
 | 2023-09-05 | 3.99 | - | 4,723 | 27,176 |
+| 2023-09-06 | 3.99 | - | 4,723 | 27,177 |

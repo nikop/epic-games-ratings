@@ -2004,9 +2004,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25631,
+  "EOS_Progressed": 25632,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12219,6 +12219,11 @@
       "Time": "2023-09-06T09:05:41.7783598+00:00",
       "NumProgressed": 25631,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-06T14:07:56.1572753+00:00",
+      "NumProgressed": 25632,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -12228,9 +12233,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18711
+      "UsersEstimate": 18455
     },
     {
       "ID": "Animated",
@@ -12318,7 +12323,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15635
+      "UsersEstimate": 15636
     },
     {
       "ID": "Dont_Need_These",
@@ -12374,7 +12379,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7689
+      "UsersEstimate": 7690
     },
     {
       "ID": "Ghost_Expert",
@@ -12390,7 +12395,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7689
+      "UsersEstimate": 7690
     },
     {
       "ID": "Legions",
@@ -12502,7 +12507,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "Skilled",
@@ -12510,7 +12515,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6151
+      "UsersEstimate": 6152
     },
     {
       "ID": "Solo_Capture",
@@ -12518,7 +12523,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8458
+      "UsersEstimate": 8459
     },
     {
       "ID": "Stunner",
@@ -12534,7 +12539,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22043
+      "UsersEstimate": 22044
     },
     {
       "ID": "Summoner",
@@ -12542,7 +12547,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     },
     {
       "ID": "Surprise",
@@ -12558,7 +12563,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 13584
+      "UsersEstimate": 13585
     },
     {
       "ID": "Teamwork",
@@ -12566,7 +12571,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 11021
+      "UsersEstimate": 11022
     },
     {
       "ID": "Terrifying",
@@ -12637,7 +12642,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25631,
+      "Progressed": 25632,
       "Completed": 54
     }
   ],
@@ -12645,8 +12650,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-06T13:06:08.2399804+00:00",
-  "LastChanged_Achievements": "2023-09-06T13:12:23.9344037+00:00",
+  "LastChanged_Achievements": "2023-09-06T14:07:56.1572744+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:06:08.2399812+00:00",
-  "LastUpdate_Achievements": "2023-09-06T13:12:23.934514+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:01:28.2404342+00:00",
+  "LastUpdate_Achievements": "2023-09-06T14:07:56.1574681+00:00"
 }

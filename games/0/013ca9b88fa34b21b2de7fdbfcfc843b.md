@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Thorny Situation | 68.00% | ~17 |
-| Calm Sailing | 60.00% | ~15 |
-| Bramble Breaker | 56.00% | ~14 |
-| Break-Net Speed | 52.00% | ~13 |
-| Open the Gate! | 48.00% | ~12 |
-| Chatty Neighbor | 48.00% | ~12 |
-| Right Tool For the Job | 48.00% | ~12 |
-| Clear the Air | 40.00% | ~10 |
-| Captain of Cozy | 40.00% | ~10 |
-| Mist Walker | 36.00% | ~9 |
-| Search for the Hairy Grell | 32.00% | ~8 |
-| Lumberjack | 32.00% | ~8 |
-| Azoria Beckons | 28.00% | ~7 |
-| Higher Tax Bracket | 28.00% | ~7 |
-| Azorian Anniversary | 28.00% | ~7 |
-| House Proud | 28.00% | ~7 |
-| Skilled | 28.00% | ~7 |
-| Flaming Hot Completos | 20.00% | ~5 |
-| Fae Farmer | 20.00% | ~5 |
-| Miner 49er | 20.00% | ~5 |
-| Humble Collector | 20.00% | ~5 |
-| ... And Spit Back Out | 16.00% | ~4 |
-| Oui, Chef! | 16.00% | ~4 |
-| Beach Comber | 12.00% | ~3 |
-| Fanatical Farmer | 12.00% | ~3 |
-| Botanical Breakthrough | 12.00% | ~3 |
-| Scattered Scroll Scrounger | 8.00% | ~2 |
-| I Now Pronounce You... | 8.00% | ~2 |
+| A Thorny Situation | 61.00% | ~17 |
+| Calm Sailing | 54.00% | ~15 |
+| Bramble Breaker | 50.00% | ~14 |
+| Break-Net Speed | 46.00% | ~13 |
+| Open the Gate! | 43.00% | ~12 |
+| Chatty Neighbor | 43.00% | ~12 |
+| Right Tool For the Job | 43.00% | ~12 |
+| Clear the Air | 36.00% | ~10 |
+| Captain of Cozy | 36.00% | ~10 |
+| Mist Walker | 32.00% | ~9 |
+| Search for the Hairy Grell | 29.00% | ~8 |
+| Lumberjack | 29.00% | ~8 |
+| Azoria Beckons | 25.00% | ~7 |
+| Higher Tax Bracket | 25.00% | ~7 |
+| Azorian Anniversary | 25.00% | ~7 |
+| House Proud | 25.00% | ~7 |
+| Skilled | 25.00% | ~7 |
+| Flaming Hot Completos | 18.00% | ~5 |
+| Fae Farmer | 18.00% | ~5 |
+| Miner 49er | 18.00% | ~5 |
+| Humble Collector | 18.00% | ~5 |
+| ... And Spit Back Out | 14.00% | ~4 |
+| Oui, Chef! | 14.00% | ~4 |
+| Beach Comber | 11.00% | ~3 |
+| Fanatical Farmer | 11.00% | ~3 |
+| Botanical Breakthrough | 11.00% | ~3 |
+| Scattered Scroll Scrounger | 7.00% | ~2 |
+| I Now Pronounce You... | 7.00% | ~2 |
 | Cloverfield Island | 4.00% | ~1 |
 | Got to Catch Them All | 4.00% | ~1 |
 | Workaholic | 4.00% | ~1 |
@@ -40,7 +40,7 @@
 | Very Skilled | 4.00% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 422)  
+Progressed: 28 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,4 +54,4 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-08-24 | 18 | 0 |
 | 2023-08-29 | 19 | 0 |
 | 2023-09-01 | 22 | 0 |
-| 2023-09-06 | 25 | 0 |
+| 2023-09-06 | 28 | 0 |

@@ -3346,7 +3346,7 @@
   ],
   "EOS_Progressed": 129259,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 934,
+  "EOS_NewPlayers": 927,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -18826,9 +18826,9 @@
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
       "SetID": "312pgde",
       "Name": "Anyone Else?",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 49118
+      "UsersEstimate": 50411
     },
     {
       "ID": "TANNENBERG_ACH_ATLEAST_THIS_WAY_I_CAN_WIN",
@@ -19362,8 +19362,8 @@
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-09-05T11:00:48.6554451+00:00",
-  "LastChanged_Achievements": "2023-09-06T13:10:30.7849198+00:00",
+  "LastChanged_Achievements": "2023-09-06T14:05:43.6509829+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:48.2609129+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:02:48.9082185+00:00",
-  "LastUpdate_Achievements": "2023-09-06T13:10:30.7851132+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:57:34.6602058+00:00",
+  "LastUpdate_Achievements": "2023-09-06T14:05:43.6511512+00:00"
 }

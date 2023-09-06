@@ -5822,10 +5822,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27176,
       "NumberOfAwardsMax": 4723
+    },
+    {
+      "Time": "2023-09-06T14:00:58.7804946+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27177,
+      "NumberOfAwardsMax": 4723
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27176,
+  "NumberOfAwards": 27177,
   "NumberOfAwardsMax": 4723,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5851,7 +5857,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3679
+      "Count": 3680
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5878,9 +5884,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135739,
+  "EOS_Progressed": 135742,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20138,6 +20144,11 @@
       "Time": "2023-09-06T13:11:03.2874605+00:00",
       "NumProgressed": 135739,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2023-09-06T14:06:21.4186604+00:00",
+      "NumProgressed": 135742,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 112,
@@ -20171,9 +20182,9 @@
       "ID": "advlevel04",
       "SetID": "anfd17p",
       "Name": "Cream of the Crop",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "advlevel05",
@@ -21044,15 +21055,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135739,
+      "Progressed": 135742,
       "Completed": 145
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-05T18:00:17.9004444+00:00",
-  "LastChanged_Achievements": "2023-09-06T13:11:03.28746+00:00",
+  "LastChanged": "2023-09-06T14:00:58.7804944+00:00",
+  "LastChanged_Achievements": "2023-09-06T14:06:21.4186599+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:05:42.9055297+00:00",
-  "LastUpdate_Achievements": "2023-09-06T13:11:03.2876946+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:00:58.7804952+00:00",
+  "LastUpdate_Achievements": "2023-09-06T14:06:21.4189172+00:00"
 }

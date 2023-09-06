@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15053,
+  "EOS_Progressed": 15054,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9655,6 +9655,11 @@
       "Time": "2023-09-06T12:05:26.5500863+00:00",
       "NumProgressed": 15053,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-06T14:05:15.7497268+00:00",
+      "NumProgressed": 15054,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9706,7 +9711,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4967
+      "UsersEstimate": 4968
     },
     {
       "ID": "tpote_achievement_15",
@@ -9722,7 +9727,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "tpote_achievement_17",
@@ -9754,7 +9759,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 4967
+      "UsersEstimate": 4968
     },
     {
       "ID": "tpote_achievement_20",
@@ -9866,7 +9871,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "tpote_achievement_33",
@@ -9993,15 +9998,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15053,
+      "Progressed": 15054,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-06T13:10:07.0411341+00:00",
+  "LastChanged_Achievements": "2023-09-06T14:05:15.7497263+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:07:29.521898+00:00",
-  "LastUpdate_Achievements": "2023-09-06T13:10:07.0412443+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:03:05.4686491+00:00",
+  "LastUpdate_Achievements": "2023-09-06T14:05:15.7498308+00:00"
 }

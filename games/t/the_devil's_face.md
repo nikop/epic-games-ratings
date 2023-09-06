@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The gateway to the underworld | -0.30% | ~-1 |
-| Is it merely a dream? | -0.30% | ~-1 |
-| The crucifixion | -0.30% | ~-1 |
-| The choice | -0.30% | ~-1 |
-| Hubris | -0.30% | ~-1 |
-| Humility | -0.30% | ~-1 |
-| The path to enlightenment | -0.30% | ~-1 |
-| Our efforts are finally yielding progress | -0.30% | ~-1 |
-| This looks really bad | -0.30% | ~-1 |
-| Unholy lands | -0.30% | ~-1 |
-| Unveiling the Magnitude of Sin | -0.30% | ~-1 |
-| The court | -0.30% | ~-1 |
-| Holy Nails | -0.30% | ~-1 |
-| Flagellation | -0.30% | ~-1 |
+| The gateway to the underworld | 0.00% | ~0 |
+| Is it merely a dream? | 0.00% | ~0 |
+| The crucifixion | 0.00% | ~0 |
+| The choice | 0.00% | ~0 |
+| Hubris | 0.00% | ~0 |
+| Humility | 0.00% | ~0 |
+| The path to enlightenment | 0.00% | ~0 |
+| Our efforts are finally yielding progress | 0.00% | ~0 |
+| This looks really bad | 0.00% | ~0 |
+| Unholy lands | 0.00% | ~0 |
+| Unveiling the Magnitude of Sin | 0.00% | ~0 |
+| The court | 0.00% | ~0 |
+| Holy Nails | 0.00% | ~0 |
+| Flagellation | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 289 (Ranked 278)  
 Completed: 0 (0.00%) (Ranked 270)  

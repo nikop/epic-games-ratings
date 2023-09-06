@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 3190,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -1293,113 +1293,113 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "296pn27",
       "Name": "The crucifixion",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "296pn27",
       "Name": "The choice",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "296pn27",
       "Name": "Hubris",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "296pn27",
       "Name": "Humility",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "296pn27",
       "Name": "The court",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "296pn27",
       "Name": "Holy Nails",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "296pn27",
       "Name": "Flagellation",
-      "Percentage": -0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -1411,8 +1411,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-06T13:12:10.9061173+00:00",
+  "LastChanged_Achievements": "2023-09-06T14:07:41.4321355+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:39.4458973+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:03:01.7126367+00:00",
-  "LastUpdate_Achievements": "2023-09-06T13:12:10.9061405+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:57:49.68079+00:00",
+  "LastUpdate_Achievements": "2023-09-06T14:07:41.4321549+00:00"
 }

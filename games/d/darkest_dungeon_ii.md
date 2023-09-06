@@ -1,54 +1,54 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 241)  
+Rating: 4.68 (Ranked 240)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~108,806 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~81,897 |
-| A Clear Conscience | 69.00% | ~80,727 |
-| Unleash Hell | 68.00% | ~79,557 |
-| Unfulfilled Desires | 68.00% | ~79,557 |
-| Funny Guy | 67.00% | ~78,387 |
-| Unshackled | 67.00% | ~78,387 |
-| Long Live the King | 66.00% | ~77,217 |
-| Resurrection | 62.00% | ~72,538 |
-| Wyrdly Reconstructed | 62.00% | ~72,538 |
-| Boxcar Kid | 60.00% | ~70,198 |
-| Rush Hour | 60.00% | ~70,198 |
-| To Grandmother's House | 60.00% | ~70,198 |
-| Serenity Now! | 53.00% | ~62,008 |
-| Hope Rekindled | 50.00% | ~58,498 |
-| Ramble On | 49.00% | ~57,328 |
-| Nope | 48.00% | ~56,158 |
-| This Looks Familiar | 38.00% | ~44,458 |
-| Now Stay Dead | 37.00% | ~43,289 |
-| Harvest Festival | 36.00% | ~42,119 |
-| Hot Air | 36.00% | ~42,119 |
-| Merry Time | 35.00% | ~40,949 |
-| Creep and Sleep | 33.00% | ~38,609 |
-| Overdue Notice | 32.00% | ~37,439 |
-| Whale | 31.00% | ~36,269 |
-| Banishment | 30.00% | ~35,099 |
-| FNG | 29.00% | ~33,929 |
-| Predator | 24.00% | ~28,079 |
-| Reverse Banditry | 24.00% | ~28,079 |
-| Autodidact | 24.00% | ~28,079 |
-| Meat and Greet | 22.00% | ~25,739 |
-| Spelunker | 21.00% | ~24,569 |
-| Eyes Up | 21.00% | ~24,569 |
-| Road Trip | 21.00% | ~24,569 |
-| It Rings a Bell | 19.00% | ~22,229 |
-| Escape from the Black Hole | 18.00% | ~21,059 |
-| It Happens | 17.00% | ~19,889 |
-| This Belongs in a Museum | 16.00% | ~18,719 |
-| Dissector | 16.00% | ~18,719 |
-| Handled | 15.00% | ~17,549 |
-| Catch and Decease | 14.00% | ~16,379 |
-| Not Today! | 13.00% | ~15,209 |
-| Deprogramming | 13.00% | ~15,209 |
+| A Place to Lay Your Head | 93.00% | ~108,812 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~81,901 |
+| A Clear Conscience | 69.00% | ~80,731 |
+| Unleash Hell | 68.00% | ~79,561 |
+| Unfulfilled Desires | 68.00% | ~79,561 |
+| Funny Guy | 67.00% | ~78,391 |
+| Unshackled | 67.00% | ~78,391 |
+| Long Live the King | 66.00% | ~77,221 |
+| Resurrection | 62.00% | ~72,541 |
+| Wyrdly Reconstructed | 62.00% | ~72,541 |
+| Boxcar Kid | 60.00% | ~70,201 |
+| Rush Hour | 60.00% | ~70,201 |
+| To Grandmother's House | 60.00% | ~70,201 |
+| Serenity Now! | 53.00% | ~62,011 |
+| Hope Rekindled | 50.00% | ~58,501 |
+| Ramble On | 49.00% | ~57,331 |
+| Nope | 48.00% | ~56,161 |
+| This Looks Familiar | 38.00% | ~44,461 |
+| Now Stay Dead | 37.00% | ~43,291 |
+| Harvest Festival | 36.00% | ~42,121 |
+| Hot Air | 36.00% | ~42,121 |
+| Merry Time | 35.00% | ~40,951 |
+| Creep and Sleep | 33.00% | ~38,611 |
+| Overdue Notice | 32.00% | ~37,441 |
+| Whale | 31.00% | ~36,271 |
+| Banishment | 30.00% | ~35,101 |
+| FNG | 29.00% | ~33,931 |
+| Predator | 24.00% | ~28,080 |
+| Reverse Banditry | 24.00% | ~28,080 |
+| Autodidact | 24.00% | ~28,080 |
+| Meat and Greet | 22.00% | ~25,740 |
+| Spelunker | 21.00% | ~24,570 |
+| Eyes Up | 21.00% | ~24,570 |
+| Road Trip | 21.00% | ~24,570 |
+| It Rings a Bell | 19.00% | ~22,230 |
+| Escape from the Black Hole | 18.00% | ~21,060 |
+| It Happens | 17.00% | ~19,890 |
+| This Belongs in a Museum | 16.00% | ~18,720 |
+| Dissector | 16.00% | ~18,720 |
+| Handled | 15.00% | ~17,550 |
+| Catch and Decease | 14.00% | ~16,380 |
+| Not Today! | 13.00% | ~15,210 |
+| Deprogramming | 13.00% | ~15,210 |
 | Shrine of Reflection | 11.00% | ~12,870 |
 | When You Want Something Done Right | 11.00% | ~12,870 |
 | Body of Work | 9.00% | ~10,530 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,996 (Ranked 71)  
+Progressed: 117,002 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 1 (0.00%) (Ranked 270)
 | 2023-09-03 | 116,781 | 1 |
 | 2023-09-04 | 116,880 | 1 |
 | 2023-09-05 | 116,958 | 1 |
-| 2023-09-06 | 116,996 | 1 |
+| 2023-09-06 | 117,002 | 1 |
 ## Awards
 Max (Character Customization): 7,368  (Ranked 49)  
 Sum: 19,203 (Ranked 57)  

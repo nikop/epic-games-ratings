@@ -26,7 +26,7 @@
 | Press Play | 35.00% | ~41 |
 | General | 25.00% | ~29 |
 | Bookworm | 23.00% | ~27 |
-| Stay | 14.00% | ~16 |
+| Stay | 15.00% | ~17 |
 | Floppy Disk Finder | 13.00% | ~15 |
 | Nurse | 11.00% | ~13 |
 | No Page Unturned | 5.00% | ~6 |

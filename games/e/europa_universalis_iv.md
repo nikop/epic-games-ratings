@@ -1,32 +1,32 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 218)  
+Rating: 4.68 (Ranked 240)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,729 |
-| That's a Grand Army | 3.00% | ~11,797 |
-| That is mine! | 3.00% | ~11,797 |
-| Victorious! | 3.00% | ~11,797 |
-| Brothers in Arms | 2.00% | ~7,864 |
-| For the Glory | 2.00% | ~7,864 |
-| That's a Grand Navy | 2.00% | ~7,864 |
-| Seriously?! | 2.00% | ~7,864 |
-| Cold War | 1.00% | ~3,932 |
-| Defender of the Faith | 1.00% | ~3,932 |
-| It's all about the money | 1.00% | ~3,932 |
-| True Catholic | 1.00% | ~3,932 |
-| Respected | 0.90% | ~3,539 |
-| The Princess is in this Castle | 0.90% | ~3,539 |
+| Until death do us apart | 4.00% | ~15,732 |
+| That's a Grand Army | 3.00% | ~11,799 |
+| That is mine! | 3.00% | ~11,799 |
+| Victorious! | 3.00% | ~11,799 |
+| Brothers in Arms | 2.00% | ~7,866 |
+| For the Glory | 2.00% | ~7,866 |
+| That's a Grand Navy | 2.00% | ~7,866 |
+| Seriously?! | 2.00% | ~7,866 |
+| Cold War | 1.00% | ~3,933 |
+| Defender of the Faith | 1.00% | ~3,933 |
+| It's all about the money | 1.00% | ~3,933 |
+| True Catholic | 1.00% | ~3,933 |
+| Respected | 0.90% | ~3,540 |
+| The Princess is in this Castle | 0.90% | ~3,540 |
 | It's all about luck | 0.80% | ~3,146 |
 | Truly Divine Ruler | 0.80% | ~3,146 |
 | Blockader | 0.70% | ~2,753 |
 | Double the Love | 0.70% | ~2,753 |
 | Royal Authority | 0.70% | ~2,753 |
 | Total Control | 0.70% | ~2,753 |
-| My armies are invincible! | 0.60% | ~2,359 |
+| My armies are invincible! | 0.60% | ~2,360 |
 | Agressive Expander | 0.50% | ~1,966 |
 | City of Cities | 0.50% | ~1,966 |
 | Combined Arms | 0.50% | ~1,966 |
@@ -45,15 +45,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~1,180 |
 | The Five Colonies | 0.30% | ~1,180 |
 | Trustworthy | 0.30% | ~1,180 |
-| All belongs to Mother Russia | 0.20% | ~786 |
-| At every continent | 0.20% | ~786 |
-| Electable! | 0.20% | ~786 |
-| Grand Coalition | 0.20% | ~786 |
-| One Family to Rule them All | 0.20% | ~786 |
-| Ruina Imperii | 0.20% | ~786 |
-| The pen is mightier than the sword | 0.20% | ~786 |
-| Time Bandit | 0.20% | ~786 |
-| Traditional Player | 0.20% | ~786 |
+| All belongs to Mother Russia | 0.20% | ~787 |
+| At every continent | 0.20% | ~787 |
+| Electable! | 0.20% | ~787 |
+| Grand Coalition | 0.20% | ~787 |
+| One Family to Rule them All | 0.20% | ~787 |
+| Ruina Imperii | 0.20% | ~787 |
+| The pen is mightier than the sword | 0.20% | ~787 |
+| Time Bandit | 0.20% | ~787 |
+| Traditional Player | 0.20% | ~787 |
 | The 52 Garhs | 0.10% | ~393 |
 | I don't like sand | 0.10% | ~393 |
 | A Blessed Nation | 0.10% | ~393 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393,220 (Ranked 40)  
+Progressed: 393,293 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -500,10 +500,10 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-03 | 390,095 | 0 |
 | 2023-09-04 | 391,485 | 0 |
 | 2023-09-05 | 392,723 | 0 |
-| 2023-09-06 | 393,220 | 0 |
+| 2023-09-06 | 393,293 | 0 |
 ## Awards
 Max (Educational): 5,944  (Ranked 59)  
-Sum: 48,918 (Ranked 26)  
+Sum: 48,946 (Ranked 26)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -513,9 +513,9 @@ Diff (max vs sum): 33
 | This game has Challenging Combat | 5,625 |
 | This game has Diverse Characters | 5,613 |
 | This game is Relaxing | 5,466 |
-| This game has Competitive Players | 5,320 |
+| This game has Competitive Players | 5,335 |
 | This game has Amazing Storytelling | 5,009 |
-| This game has Amazing Characters | 4,621 |
+| This game has Amazing Characters | 4,634 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -752,4 +752,4 @@ Diff (max vs sum): 33
 | 2023-09-03 | 4.68 | - | 5,909 | 48,651 |
 | 2023-09-04 | 4.68 | - | 5,930 | 48,773 |
 | 2023-09-05 | 4.68 | - | 5,944 | 48,875 |
-| 2023-09-06 | 4.69 | - | 5,944 | 48,918 |
+| 2023-09-06 | 4.69 | - | 5,944 | 48,946 |

@@ -34,10 +34,10 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 0.70% | ~22 |
 | Daemonkeeper | 0.60% | ~19 |
 | Exterminator | 0.60% | ~19 |
+| Mind Like a Fortress | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
 | Long Distance Call | 0.60% | ~19 |
 | For the Machine God | 0.50% | ~16 |
-| Mind Like a Fortress | 0.50% | ~16 |
 | Preservationist | 0.50% | ~16 |
 | Engine Kill | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,177 (Ranked 160)  
+Progressed: 3,178 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-02 | 3,175 | 0 |
 | 2023-09-03 | 3,176 | 0 |
 | 2023-09-05 | 3,177 | 0 |
+| 2023-09-06 | 3,178 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 266)  
 Sum: 474 (Ranked 305)  

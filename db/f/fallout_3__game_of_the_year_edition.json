@@ -4,10 +4,10 @@
   "ProductSlug": "fallout-3-game-of-the-year-edition",
   "Ranking_Rating": 393,
   "Ranking_Popularity": 27,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -3530,10 +3530,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 27993,
       "NumberOfAwardsMax": 13651
+    },
+    {
+      "Time": "2023-09-06T14:00:37.2829542+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 27995,
+      "NumberOfAwardsMax": 13651
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27993,
+  "NumberOfAwards": 27995,
   "NumberOfAwardsMax": 13651,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3565,7 +3571,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1584
+      "Count": 1586
     },
     {
       "Text": "This game is Relaxing",
@@ -3622,8 +3628,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2023-09-06T10:59:32.7365152+00:00",
+  "LastChanged": "2023-09-06T14:00:37.282954+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:49.724187+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:05:22.7670834+00:00",
-  "LastUpdate_Achievements": "2023-09-06T13:09:37.2943375+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:00:37.2829547+00:00",
+  "LastUpdate_Achievements": "2023-09-06T14:04:40.2565724+00:00"
 }

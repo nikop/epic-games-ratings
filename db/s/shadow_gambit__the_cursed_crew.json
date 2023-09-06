@@ -50,11 +50,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 607,
+  "EOS_Progressed": 608,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 2.31,
+  "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1510,6 +1510,11 @@
       "Time": "2023-09-06T03:06:27.050688+00:00",
       "NumProgressed": 607,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-06T14:09:01.9370095+00:00",
+      "NumProgressed": 608,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1530,7 +1535,7 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "_03_FinishAct1",
@@ -1560,9 +1565,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 152
     },
     {
       "ID": "_07_FinishAct3",
@@ -1674,7 +1679,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1690,7 +1695,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1729,7 +1734,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 607,
+      "Progressed": 608,
       "Completed": 14
     }
   ],
@@ -1737,8 +1742,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-06T13:05:19.6033988+00:00",
-  "LastChanged_Achievements": "2023-09-06T13:13:15.7893511+00:00",
+  "LastChanged_Achievements": "2023-09-06T14:09:01.937009+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:05:19.6033996+00:00",
-  "LastUpdate_Achievements": "2023-09-06T13:13:15.7893842+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:00:32.8258239+00:00",
+  "LastUpdate_Achievements": "2023-09-06T14:09:01.9370386+00:00"
 }

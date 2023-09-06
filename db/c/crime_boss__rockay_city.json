@@ -3256,11 +3256,17 @@
       "Rating": 3.94,
       "NumberOfAwards": 1982,
       "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2023-09-06T14:03:02.3808657+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 1984,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 1982,
-  "NumberOfAwardsMax": 416,
+  "NumberOfAwards": 1984,
+  "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3273,13 +3279,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 416
+      "Count": 417
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 379
+      "Count": 380
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3312,9 +3318,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72706,
+  "EOS_Progressed": 72707,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17547,6 +17553,11 @@
       "Time": "2023-09-06T12:05:19.0466059+00:00",
       "NumProgressed": 72706,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-06T14:05:03.7572843+00:00",
+      "NumProgressed": 72707,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17558,7 +17569,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36353
+      "UsersEstimate": 36354
     },
     {
       "ID": "ACH_0011",
@@ -17638,7 +17649,7 @@
       "Name": "I Like Trains",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5816
+      "UsersEstimate": 5817
     },
     {
       "ID": "ACH_0050",
@@ -17702,7 +17713,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47259
+      "UsersEstimate": 47260
     },
     {
       "ID": "ACH_0210",
@@ -17710,7 +17721,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53802
+      "UsersEstimate": 53803
     },
     {
       "ID": "ACH_0211",
@@ -17790,7 +17801,7 @@
       "Name": "Fancy Pants",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26174
+      "UsersEstimate": 26175
     },
     {
       "ID": "ACH_0431",
@@ -17853,22 +17864,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72706,
+      "Progressed": 72707,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 1053,
-      "Completed": 1053
+      "Progressed": 1054,
+      "Completed": 1054
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-09-06T08:01:35.4964479+00:00",
-  "LastChanged_Achievements": "2023-09-06T13:09:57.4174732+00:00",
+  "LastChanged": "2023-09-06T14:03:02.3808654+00:00",
+  "LastChanged_Achievements": "2023-09-06T14:05:03.7572838+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:07:26.9443271+00:00",
-  "LastUpdate_Achievements": "2023-09-06T13:09:57.4176776+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:03:02.3808663+00:00",
+  "LastUpdate_Achievements": "2023-09-06T14:05:03.7574081+00:00"
 }

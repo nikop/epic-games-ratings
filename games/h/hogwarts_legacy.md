@@ -5,31 +5,31 @@ Rating: 4.77 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,309 |
-| First Class Student | 12.00% | ~35,408 |
-| Troll with the Punches | 12.00% | ~35,408 |
-| A Keen Sense of Spell | 11.00% | ~32,457 |
-| That's a Keeper | 11.00% | ~32,457 |
-| Grappling with a Graphorn | 10.00% | ~29,506 |
-| The One Who Mastered Memories | 10.00% | ~29,506 |
-| The Hallowed Hero | 10.00% | ~29,506 |
-| The Defender of Dragons | 10.00% | ~29,506 |
-| Loom for Improvement | 10.00% | ~29,506 |
-| A Talent for Spending | 10.00% | ~29,506 |
-| Coasting Along | 10.00% | ~29,506 |
-| The Hero of Hogwarts | 9.00% | ~26,556 |
-| Challenge Accepted | 9.00% | ~26,556 |
-| Followed the Butterflies | 8.00% | ~23,605 |
-| The Spell Master | 8.00% | ~23,605 |
-| Rising From the Ashes | 8.00% | ~23,605 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,311 |
+| First Class Student | 12.00% | ~35,409 |
+| Troll with the Punches | 12.00% | ~35,409 |
+| A Keen Sense of Spell | 11.00% | ~32,458 |
+| That's a Keeper | 11.00% | ~32,458 |
+| Grappling with a Graphorn | 10.00% | ~29,508 |
+| The One Who Mastered Memories | 10.00% | ~29,508 |
+| The Hallowed Hero | 10.00% | ~29,508 |
+| The Defender of Dragons | 10.00% | ~29,508 |
+| Loom for Improvement | 10.00% | ~29,508 |
+| A Talent for Spending | 10.00% | ~29,508 |
+| Coasting Along | 10.00% | ~29,508 |
+| The Hero of Hogwarts | 9.00% | ~26,557 |
+| Challenge Accepted | 9.00% | ~26,557 |
+| Followed the Butterflies | 8.00% | ~23,606 |
+| The Spell Master | 8.00% | ~23,606 |
+| Rising From the Ashes | 8.00% | ~23,606 |
 | The Avenging Gazelle | 7.00% | ~20,655 |
 | Beast Friends | 7.00% | ~20,655 |
 | A Sallow Grave | 7.00% | ~20,655 |
 | Flight the Good Flight | 7.00% | ~20,655 |
-| The Seeker of Knowledge | 5.00% | ~14,753 |
-| The Root of the Problem | 5.00% | ~14,753 |
-| Third Time's a Charm | 5.00% | ~14,753 |
-| Raising Expectations | 5.00% | ~14,753 |
+| The Seeker of Knowledge | 5.00% | ~14,754 |
+| The Root of the Problem | 5.00% | ~14,754 |
+| Third Time's a Charm | 5.00% | ~14,754 |
+| Raising Expectations | 5.00% | ~14,754 |
 | The Toast of the Town | 4.00% | ~11,803 |
 | Going Through the Potions | 4.00% | ~11,803 |
 | Room with a View | 4.00% | ~11,803 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 110)
 | The Ends Petrify the Means | 4.00% | ~11,803 |
 | Floo Around the World | 3.00% | ~8,852 |
 | The Wise Owl | 3.00% | ~8,852 |
-| The Good Samaritan | 2.00% | ~5,901 |
-| Put Down Roots | 2.00% | ~5,901 |
-| The Auror's Apprentice | 2.00% | ~5,901 |
-| Rise to the Challenges | 2.00% | ~5,901 |
-| Finishing Touches | 2.00% | ~5,901 |
+| The Good Samaritan | 2.00% | ~5,902 |
+| Put Down Roots | 2.00% | ~5,902 |
+| The Auror's Apprentice | 2.00% | ~5,902 |
+| Rise to the Challenges | 2.00% | ~5,902 |
+| Finishing Touches | 2.00% | ~5,902 |
 | Savvy Spender | 1.00% | ~2,951 |
 | Demiguise Dread | 1.00% | ~2,951 |
 | A Forte for Achievement | 1.00% | ~2,951 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,770 |
 | Collector's Edition | 0.30% | ~885 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,065 (Ranked 43)  
+Progressed: 295,077 (Ranked 43)  
 Completed: 465 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,15 +190,15 @@ Completed: 465 (0.16%) (Ranked 200)
 | 2023-09-03 | 293,795 | 463 |
 | 2023-09-04 | 294,412 | 464 |
 | 2023-09-05 | 294,883 | 464 |
-| 2023-09-06 | 295,065 | 465 |
+| 2023-09-06 | 295,077 | 465 |
 ## Awards
 Max (Character Customization): 22,241  (Ranked 17)  
-Sum: 42,301 (Ranked 30)  
+Sum: 42,317 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 22,241 |
-| This game has Great Boss Battles | 10,847 |
+| This game has Great Boss Battles | 10,863 |
 | This game is Great for Beginners | 1,031 |
 | This game is Extremely Fun | 996 |
 | This game is Relaxing | 990 |
@@ -378,4 +378,4 @@ Diff (max vs sum): -13
 | 2023-09-03 | 4.77 | 22,157 | 42,090 |
 | 2023-09-04 | 4.77 | 22,202 | 42,205 |
 | 2023-09-05 | 4.77 | 22,241 | 42,294 |
-| 2023-09-06 | 4.77 | 22,241 | 42,301 |
+| 2023-09-06 | 4.77 | 22,241 | 42,317 |

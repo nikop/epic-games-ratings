@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~36,188 |
-| I read Shakespeare and stuff | 64.00% | ~30,881 |
-| Just a sprinkle | 63.00% | ~30,398 |
-| I'm stumped | 61.00% | ~29,433 |
-| Plant get enough | 60.00% | ~28,951 |
-| It's just the beginning | 59.00% | ~28,468 |
-| This is just my weekend vehicle | 58.00% | ~27,986 |
-| Hard work pays off | 53.00% | ~25,573 |
-| It's never too late to farm | 49.00% | ~23,643 |
-| All out of Land | 44.00% | ~21,230 |
-| Field Trip | 43.00% | ~20,748 |
-| I like to switch it up | 40.00% | ~19,300 |
-| Help me to help you | 38.00% | ~18,335 |
-| Ultimutt Pawesomeness | 28.00% | ~13,510 |
-| Van Gogh | 26.00% | ~12,545 |
-| You wood not believe it | 22.00% | ~10,615 |
-| Vehicle fleet | 22.00% | ~10,615 |
+| Own use | 75.00% | ~36,190 |
+| I read Shakespeare and stuff | 64.00% | ~30,882 |
+| Just a sprinkle | 63.00% | ~30,399 |
+| I'm stumped | 61.00% | ~29,434 |
+| Plant get enough | 60.00% | ~28,952 |
+| It's just the beginning | 59.00% | ~28,469 |
+| This is just my weekend vehicle | 58.00% | ~27,987 |
+| Hard work pays off | 53.00% | ~25,574 |
+| It's never too late to farm | 49.00% | ~23,644 |
+| All out of Land | 44.00% | ~21,231 |
+| Field Trip | 43.00% | ~20,749 |
+| I like to switch it up | 40.00% | ~19,301 |
+| Help me to help you | 38.00% | ~18,336 |
+| Ultimutt Pawesomeness | 28.00% | ~13,511 |
+| Van Gogh | 26.00% | ~12,546 |
+| You wood not believe it | 22.00% | ~10,616 |
+| Vehicle fleet | 22.00% | ~10,616 |
 | The plot thickens | 16.00% | ~7,720 |
 | Large-scale supplier | 16.00% | ~7,720 |
 | Well-Oiled Machine | 16.00% | ~7,720 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~193 |
 | Raisin the stakes | 0.30% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,251 (Ranked 92)  
+Progressed: 48,253 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,19 +189,19 @@ Completed: 6 (0.01%) (Ranked 256)
 | 2023-09-03 | 48,163 | 6 |
 | 2023-09-04 | 48,199 | 6 |
 | 2023-09-05 | 48,237 | 6 |
-| 2023-09-06 | 48,251 | 6 |
+| 2023-09-06 | 48,253 | 6 |
 ## Awards
-Max (Great for Beginners): 4,878  (Ranked 69)  
-Sum: 39,912 (Ranked 32)  
+Max (Great for Beginners): 4,887  (Ranked 69)  
+Sum: 39,925 (Ranked 32)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,878 |
+| This game is Great for Beginners | 4,887 |
 | This game is Educational | 4,150 |
 | This game is Relaxing | 4,121 |
 | This game has Diverse Characters | 4,098 |
 | This game has Quickly Understood Controls | 4,074 |
-| This game is Highly Recommended | 3,962 |
+| This game is Highly Recommended | 3,966 |
 | This game is Extremely Fun | 3,952 |
 | This game has Amazing Storytelling | 3,857 |
 | This game has Amazing Characters | 3,481 |
@@ -443,4 +443,4 @@ Diff (max vs sum): 37
 | 2023-09-03 | 4.69 | - | 4,862 | 39,839 |
 | 2023-09-04 | 4.69 | - | 4,872 | 39,871 |
 | 2023-09-05 | 4.69 | - | 4,878 | 39,894 |
-| 2023-09-06 | 4.69 | - | 4,878 | 39,912 |
+| 2023-09-06 | 4.69 | - | 4,887 | 39,925 |

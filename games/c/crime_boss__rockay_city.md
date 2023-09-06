@@ -5,11 +5,11 @@ Rating: 3.94 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 74.00% | ~53,802 |
-| First One’s Free | 65.00% | ~47,259 |
-| Neophyte Ninja | 50.00% | ~36,353 |
+| Downed but Not Outed | 74.00% | ~53,803 |
+| First One’s Free | 65.00% | ~47,260 |
+| Neophyte Ninja | 50.00% | ~36,354 |
 | Too Old for This | 48.00% | ~34,899 |
-| Fancy Pants | 36.00% | ~26,174 |
+| Fancy Pants | 36.00% | ~26,175 |
 | Case Closed | 35.00% | ~25,447 |
 | King of the Hill | 34.00% | ~24,720 |
 | Underworld Initiate | 29.00% | ~21,085 |
@@ -25,7 +25,7 @@ Rating: 3.94 (Ranked 955)
 | Headhunter | 9.00% | ~6,544 |
 | Ding Dong | 9.00% | ~6,544 |
 | Classy Joint | 9.00% | ~6,544 |
-| I Like Trains | 8.00% | ~5,816 |
+| I Like Trains | 8.00% | ~5,817 |
 | Foo Finder | 7.00% | ~5,089 |
 | Savvy Seeker | 6.00% | ~4,362 |
 | Legend Looter | 5.00% | ~3,635 |
@@ -43,7 +43,7 @@ Rating: 3.94 (Ranked 955)
 | Geek Out | 0.60% | ~436 |
 | Full House | 0.20% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,706 (Ranked 79)  
+Progressed: 72,707 (Ranked 79)  
 Completed: 43 (0.06%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,18 +182,18 @@ Completed: 43 (0.06%) (Ranked 231)
 | 2023-09-03 | 72,628 | 43 |
 | 2023-09-04 | 72,663 | 43 |
 | 2023-09-05 | 72,694 | 43 |
-| 2023-09-06 | 72,706 | 43 |
+| 2023-09-06 | 72,707 | 43 |
 ## Awards
-Max (Diverse Characters): 416  (Ranked 212)  
-Sum: 1,982 (Ranked 202)  
+Max (Diverse Characters): 417  (Ranked 212)  
+Sum: 1,984 (Ranked 202)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 416 |
+| This game has Diverse Characters | 417 |
 | This game has Quickly Understood Controls | 408 |
 | This game is Highly Recommended | 397 |
 | This game has Challenging Combat | 382 |
-| This game has Amazing Characters | 379 |
+| This game has Amazing Characters | 380 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -358,4 +358,4 @@ Diff (max vs sum): 10
 | 2023-09-03 | 3.94 | 415 | 1,972 |
 | 2023-09-04 | 3.94 | 415 | 1,977 |
 | 2023-09-05 | 3.94 | 416 | 1,981 |
-| 2023-09-06 | 3.94 | 416 | 1,982 |
+| 2023-09-06 | 3.94 | 417 | 1,984 |
