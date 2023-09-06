@@ -4,8 +4,8 @@
   "ProductSlug": "walking-dead-michonne",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2016-02-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.3094508+00:00",
   "LastChanged": "2023-03-31T05:57:32.3094509+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:36.9860456+00:00",
-  "LastUpdate_Ratings": "2023-09-06T05:59:15.3790245+00:00",
-  "LastUpdate_Achievements": "2023-09-06T06:04:10.770377+00:00"
+  "LastUpdate_Ratings": "2023-09-06T06:59:35.2482996+00:00",
+  "LastUpdate_Achievements": "2023-09-06T07:04:23.0504762+00:00"
 }

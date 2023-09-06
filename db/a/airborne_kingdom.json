@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -319,7 +319,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7146,
+  "EOS_Progressed": 7147,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -4124,6 +4124,11 @@
       "Time": "2023-09-05T22:08:55.3346589+00:00",
       "NumProgressed": 7146,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-06T07:03:19.7733416+00:00",
+      "NumProgressed": 7147,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4167,7 +4172,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4191,7 +4196,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -4199,7 +4204,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -4239,7 +4244,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -4335,7 +4340,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -4350,15 +4355,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7146,
+      "Progressed": 7147,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-06T05:08:52.7563839+00:00",
+  "LastChanged_Achievements": "2023-09-06T07:03:19.77334+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.9166051+00:00",
-  "LastUpdate_Ratings": "2023-09-06T05:58:30.1253171+00:00",
-  "LastUpdate_Achievements": "2023-09-06T05:08:52.7564315+00:00"
+  "LastUpdate_Ratings": "2023-09-06T06:58:48.5508032+00:00",
+  "LastUpdate_Achievements": "2023-09-06T07:03:19.7734225+00:00"
 }

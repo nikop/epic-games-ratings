@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2584,9 +2584,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29623,
+  "EOS_Progressed": 29624,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -17649,6 +17649,11 @@
       "Time": "2023-09-06T05:09:07.1797391+00:00",
       "NumProgressed": 29623,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-09-06T07:09:09.0517621+00:00",
+      "NumProgressed": 29624,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 60,
@@ -17660,7 +17665,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17181
+      "UsersEstimate": 17182
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -17676,7 +17681,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16885
+      "UsersEstimate": 16886
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -17772,7 +17777,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14515
+      "UsersEstimate": 14516
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -17876,7 +17881,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11849
+      "UsersEstimate": 11850
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -17884,7 +17889,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10664
+      "UsersEstimate": 10665
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -17892,7 +17897,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12145
+      "UsersEstimate": 12146
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -17900,7 +17905,7 @@
       "Name": "Thirst quencher",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8294
+      "UsersEstimate": 8295
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -17916,7 +17921,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 8294
+      "UsersEstimate": 8295
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -17932,7 +17937,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -17964,7 +17969,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6813
+      "UsersEstimate": 6814
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -17996,7 +18001,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4443
+      "UsersEstimate": 4444
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -18044,7 +18049,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13330
+      "UsersEstimate": 13331
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -18060,7 +18065,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20440
+      "UsersEstimate": 20441
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -18092,7 +18097,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -18139,15 +18144,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29623,
+      "Progressed": 29624,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-04T19:00:53.7599775+00:00",
-  "LastChanged_Achievements": "2023-09-06T06:09:19.581109+00:00",
+  "LastChanged_Achievements": "2023-09-06T07:09:09.0517615+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-06T06:00:41.2311641+00:00",
-  "LastUpdate_Achievements": "2023-09-06T06:09:19.5812531+00:00"
+  "LastUpdate_Ratings": "2023-09-06T07:01:02.3693326+00:00",
+  "LastUpdate_Achievements": "2023-09-06T07:09:09.0519105+00:00"
 }

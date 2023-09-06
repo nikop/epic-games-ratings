@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117558,
+  "EOS_Progressed": 117560,
   "EOS_Completed": 952,
-  "EOS_NewPlayers": 1488,
+  "EOS_NewPlayers": 1485,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -15702,6 +15702,11 @@
       "Time": "2023-09-06T06:07:45.6119629+00:00",
       "NumProgressed": 117558,
       "NumCompleted": 952
+    },
+    {
+      "Time": "2023-09-06T07:07:56.2059788+00:00",
+      "NumProgressed": 117560,
+      "NumCompleted": 952
     }
   ],
   "TotalAchievements": 34,
@@ -15713,7 +15718,7 @@
       "Name": "Written in Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7053
+      "UsersEstimate": 7054
     },
     {
       "ID": "ACH_GAME_END",
@@ -15721,7 +15726,7 @@
       "Name": "The only thing I have now",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 18809
+      "UsersEstimate": 18810
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -15729,7 +15734,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 49374
+      "UsersEstimate": 49375
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -15769,7 +15774,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 92871
+      "UsersEstimate": 92872
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -15785,7 +15790,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 64657
+      "UsersEstimate": 64658
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -15793,7 +15798,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 32916
+      "UsersEstimate": 32917
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -15825,7 +15830,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 35267
+      "UsersEstimate": 35268
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -15833,7 +15838,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 24687
+      "UsersEstimate": 24688
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -15841,7 +15846,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 35267
+      "UsersEstimate": 35268
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -15889,7 +15894,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 32916
+      "UsersEstimate": 32917
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -15937,7 +15942,7 @@
       "Name": "Underwater Royalty",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7053
+      "UsersEstimate": 7054
     },
     {
       "ID": "ACH_L06_ARCADIA",
@@ -15984,7 +15989,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 117558,
+      "Progressed": 117560,
       "Completed": 952
     }
   ],
@@ -15992,8 +15997,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-03T19:00:00.5796425+00:00",
-  "LastChanged_Achievements": "2023-09-06T06:07:45.6119622+00:00",
+  "LastChanged_Achievements": "2023-09-06T07:07:56.2059782+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:00.3546028+00:00",
-  "LastUpdate_Ratings": "2023-09-06T06:00:28.9356585+00:00",
-  "LastUpdate_Achievements": "2023-09-06T06:07:45.612124+00:00"
+  "LastUpdate_Ratings": "2023-09-06T07:00:49.3929973+00:00",
+  "LastUpdate_Achievements": "2023-09-06T07:07:56.2060979+00:00"
 }

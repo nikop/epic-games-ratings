@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38237,
+  "EOS_Progressed": 38240,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16146,6 +16146,11 @@
       "Time": "2023-09-06T06:04:16.3846925+00:00",
       "NumProgressed": 38237,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-06T07:04:27.8513585+00:00",
+      "NumProgressed": 38240,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -16213,7 +16218,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "goals75",
@@ -16413,7 +16418,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "unlockmaya",
@@ -16468,15 +16473,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38237,
+      "Progressed": 38240,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-06T06:04:16.384692+00:00",
+  "LastChanged_Achievements": "2023-09-06T07:04:27.8513578+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.1649618+00:00",
-  "LastUpdate_Ratings": "2023-09-06T06:00:42.2997529+00:00",
-  "LastUpdate_Achievements": "2023-09-06T06:04:16.3848207+00:00"
+  "LastUpdate_Ratings": "2023-09-06T07:01:03.2204553+00:00",
+  "LastUpdate_Achievements": "2023-09-06T07:04:27.8515036+00:00"
 }

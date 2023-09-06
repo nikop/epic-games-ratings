@@ -6,32 +6,32 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~393,254 |
-| Happy Returns | 78.00% | ~378,689 |
-| Hey! That's mine! | 78.00% | ~378,689 |
-| Field Promotion | 74.00% | ~359,269 |
-| Leadhead | 71.00% | ~344,704 |
-| Eradicator | 67.00% | ~325,284 |
-| Surplus | 65.00% | ~315,574 |
-| I Spy | 64.00% | ~310,719 |
-| Burn Baby Burn | 59.00% | ~286,444 |
-| Yellow Beats Green | 55.00% | ~267,024 |
-| Salvage Rights | 53.00% | ~257,314 |
-| Close Call | 50.00% | ~242,750 |
-| Pew Pew | 50.00% | ~242,750 |
-| What IS that? | 50.00% | ~242,750 |
-| Penny Pincher | 49.00% | ~237,895 |
-| Arsenal | 46.00% | ~223,330 |
-| Boot Camp | 45.00% | ~218,475 |
-| Flawless Victory | 42.00% | ~203,910 |
-| Confident | 41.00% | ~199,055 |
-| Exterminator | 36.00% | ~174,780 |
-| Sharpshooter | 34.00% | ~165,070 |
-| Not So Fast | 33.00% | ~160,215 |
-| Great Ball of Fire | 32.00% | ~155,360 |
-| No Sale | 31.00% | ~150,505 |
-| Kaboom! | 30.00% | ~145,650 |
-| Liquidator | 29.00% | ~140,795 |
+| First Blood | 81.00% | ~393,257 |
+| Happy Returns | 78.00% | ~378,692 |
+| Hey! That's mine! | 78.00% | ~378,692 |
+| Field Promotion | 74.00% | ~359,271 |
+| Leadhead | 71.00% | ~344,706 |
+| Eradicator | 67.00% | ~325,286 |
+| Surplus | 65.00% | ~315,576 |
+| I Spy | 64.00% | ~310,721 |
+| Burn Baby Burn | 59.00% | ~286,446 |
+| Yellow Beats Green | 55.00% | ~267,026 |
+| Salvage Rights | 53.00% | ~257,316 |
+| Close Call | 50.00% | ~242,751 |
+| Pew Pew | 50.00% | ~242,751 |
+| What IS that? | 50.00% | ~242,751 |
+| Penny Pincher | 49.00% | ~237,896 |
+| Arsenal | 46.00% | ~223,331 |
+| Boot Camp | 45.00% | ~218,476 |
+| Flawless Victory | 42.00% | ~203,911 |
+| Confident | 41.00% | ~199,056 |
+| Exterminator | 36.00% | ~174,781 |
+| Sharpshooter | 34.00% | ~165,071 |
+| Not So Fast | 33.00% | ~160,216 |
+| Great Ball of Fire | 32.00% | ~155,361 |
+| No Sale | 31.00% | ~150,506 |
+| Kaboom! | 30.00% | ~145,651 |
+| Liquidator | 29.00% | ~140,796 |
 | High Voltage | 24.00% | ~116,520 |
 | Filthy Rich | 19.00% | ~92,245 |
 | The Not-So-Friendly Skies | 18.00% | ~87,390 |
@@ -59,42 +59,42 @@ Number of Ratings: 1,225  (23.09.2022)
 | Gun Crazy | 1.00% | ~4,855 |
 | Well Invested | 1.00% | ~4,855 |
 | Xenocide | 1.00% | ~4,855 |
-| Planet Defender | 0.90% | ~4,369 |
+| Planet Defender | 0.90% | ~4,370 |
 | Master Siege Breaker | 0.80% | ~3,884 |
 | Few and Proud | 0.80% | ~3,884 |
-| Shell-shocked | 0.70% | ~3,398 |
-| Alien Tears | 0.50% | ~2,427 |
+| Shell-shocked | 0.70% | ~3,399 |
+| Alien Tears | 0.50% | ~2,428 |
 | Full House | 0.40% | ~1,942 |
-| Kickstarter | 0.30% | ~1,456 |
-| The Container | 0.30% | ~1,456 |
+| Kickstarter | 0.30% | ~1,457 |
+| The Container | 0.30% | ~1,457 |
 | Foresight is 20/20 | 0.20% | ~971 |
 | Majestic Pony | 0.20% | ~971 |
 | Out of Bullets | 0.20% | ~971 |
 | Savant Genius | 0.20% | ~971 |
-| Beating A Dead Potato | 0.10% | ~485 |
-| Best Friends Forever | 0.10% | ~485 |
-| Top of the Class | 0.10% | ~485 |
-| Circular Hazard | 0.10% | ~485 |
-| Civil Divergence | 0.10% | ~485 |
-| Clean Getaway | 0.10% | ~485 |
-| Combat Turmoil | 0.10% | ~485 |
-| Core Container | 0.10% | ~485 |
-| Faithful Companion | 0.10% | ~485 |
-| Firebug | 0.10% | ~485 |
-| Fully Contained | 0.10% | ~485 |
-| Master Strategist | 0.10% | ~485 |
-| Mostly Dead | 0.10% | ~485 |
-| Clear Skies | 0.10% | ~485 |
-| Overflowing | 0.10% | ~485 |
-| Regional Deluge | 0.10% | ~485 |
-| So Many Spaces to Build On, So Little Time | 0.10% | ~485 |
-| Supreme Strategist | 0.10% | ~485 |
-| A Temporal Would've Been Nice | 0.10% | ~485 |
-| This is…spartan. | 0.10% | ~485 |
-| Contains Trace Amounts of Gold | 0.10% | ~485 |
-| You Monster | 0.10% | ~485 |
+| Beating A Dead Potato | 0.10% | ~486 |
+| Best Friends Forever | 0.10% | ~486 |
+| Top of the Class | 0.10% | ~486 |
+| Circular Hazard | 0.10% | ~486 |
+| Civil Divergence | 0.10% | ~486 |
+| Clean Getaway | 0.10% | ~486 |
+| Combat Turmoil | 0.10% | ~486 |
+| Core Container | 0.10% | ~486 |
+| Faithful Companion | 0.10% | ~486 |
+| Firebug | 0.10% | ~486 |
+| Fully Contained | 0.10% | ~486 |
+| Master Strategist | 0.10% | ~486 |
+| Mostly Dead | 0.10% | ~486 |
+| Clear Skies | 0.10% | ~486 |
+| Overflowing | 0.10% | ~486 |
+| Regional Deluge | 0.10% | ~486 |
+| So Many Spaces to Build On, So Little Time | 0.10% | ~486 |
+| Supreme Strategist | 0.10% | ~486 |
+| A Temporal Would've Been Nice | 0.10% | ~486 |
+| This is…spartan. | 0.10% | ~486 |
+| Contains Trace Amounts of Gold | 0.10% | ~486 |
+| You Monster | 0.10% | ~486 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485,499 (Ranked 35)  
+Progressed: 485,502 (Ranked 35)  
 Completed: 4 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 4 (0.00%) (Ranked 270)
 | 2023-09-03 | 485,382 | 4 |
 | 2023-09-04 | 485,440 | 4 |
 | 2023-09-05 | 485,491 | 4 |
-| 2023-09-06 | 485,499 | 4 |
+| 2023-09-06 | 485,502 | 4 |
 ## Awards
 Max (Great for Beginners): 246  (Ranked 257)  
 Sum: 1,680 (Ranked 211)  

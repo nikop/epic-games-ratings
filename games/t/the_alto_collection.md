@@ -13,7 +13,7 @@ Number of Ratings: 332  (23.09.2022)
 | Welcome Maya | 15.00% | ~5,736 |
 | Scout | 11.00% | ~4,206 |
 | Sightseer | 11.00% | ~4,206 |
-| Amateur | 9.00% | ~3,441 |
+| Amateur | 9.00% | ~3,442 |
 | Unlock Maya | 8.00% | ~3,059 |
 | Enter Paz | 8.00% | ~3,059 |
 | Wanderer | 8.00% | ~3,059 |
@@ -21,7 +21,7 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~1,912 |
 | One With The Board | 5.00% | ~1,912 |
 | Voyager | 5.00% | ~1,912 |
-| Izel Has Arrived | 4.00% | ~1,529 |
+| Izel Has Arrived | 4.00% | ~1,530 |
 | Junkie | 3.00% | ~1,147 |
 | Traveler | 3.00% | ~1,147 |
 | Journeyer | 3.00% | ~1,147 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~38 |
 | Windswept | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,237 (Ranked 97)  
+Progressed: 38,240 (Ranked 97)  
 Completed: 5 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 5 (0.01%) (Ranked 256)
 | 2023-09-03 | 37,999 | 5 |
 | 2023-09-04 | 38,091 | 5 |
 | 2023-09-05 | 38,205 | 5 |
-| 2023-09-06 | 38,237 | 5 |
+| 2023-09-06 | 38,240 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 409)  
 Sum: 360 (Ranked 328)  

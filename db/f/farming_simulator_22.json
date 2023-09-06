@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -8721,9 +8721,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 48242,
+  "EOS_Progressed": 48243,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21156,6 +21156,11 @@
       "Time": "2023-09-06T06:06:17.0030024+00:00",
       "NumProgressed": 48242,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-06T07:06:28.2959382+00:00",
+      "NumProgressed": 48243,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -21247,7 +21252,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 30875
+      "UsersEstimate": 30876
     },
     {
       "ID": "CutTree",
@@ -21303,7 +21308,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 28945
+      "UsersEstimate": 28946
     },
     {
       "ID": "Harvested",
@@ -21375,7 +21380,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 25568
+      "UsersEstimate": 25569
     },
     {
       "ID": "NumBeehives",
@@ -21399,7 +21404,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 21226
+      "UsersEstimate": 21227
     },
     {
       "ID": "NumProductionPoints",
@@ -21423,7 +21428,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27980
+      "UsersEstimate": 27981
     },
     {
       "ID": "PetDog",
@@ -21455,7 +21460,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 30392
+      "UsersEstimate": 30393
     },
     {
       "ID": "Stones",
@@ -21495,7 +21500,7 @@
       "Name": "Fix me up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "WrappedBales",
@@ -21510,15 +21515,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 48242,
+      "Progressed": 48243,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-09-06T01:41:16.8212315+00:00",
-  "LastChanged_Achievements": "2023-09-06T06:06:17.0030021+00:00",
+  "LastChanged_Achievements": "2023-09-06T07:06:28.2959368+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:14.7267416+00:00",
-  "LastUpdate_Ratings": "2023-09-06T06:01:01.2924441+00:00",
-  "LastUpdate_Achievements": "2023-09-06T06:06:17.0031238+00:00"
+  "LastUpdate_Ratings": "2023-09-06T07:01:23.2663928+00:00",
+  "LastUpdate_Achievements": "2023-09-06T07:06:28.2960626+00:00"
 }

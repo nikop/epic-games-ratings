@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1578,
+  "EOS_Progressed": 1579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3533,6 +3533,11 @@
       "Time": "2023-09-05T14:06:21.0497427+00:00",
       "NumProgressed": 1578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-06T07:06:32.6082415+00:00",
+      "NumProgressed": 1579,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3616,7 +3621,7 @@
       "Name": "The Collector",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3648,7 +3653,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -3736,7 +3741,7 @@
       "Name": "Gardener",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -3768,7 +3773,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3792,7 +3797,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3816,7 +3821,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3927,7 +3932,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1578,
+      "Progressed": 1579,
       "Completed": 0
     }
   ],
@@ -3935,8 +3940,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-02T18:57:16.3901403+00:00",
-  "LastChanged_Achievements": "2023-09-06T06:06:21.1680033+00:00",
+  "LastChanged_Achievements": "2023-09-06T07:06:32.6082409+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:41.057899+00:00",
-  "LastUpdate_Ratings": "2023-09-06T05:58:16.3269307+00:00",
-  "LastUpdate_Achievements": "2023-09-06T06:06:21.1680668+00:00"
+  "LastUpdate_Ratings": "2023-09-06T06:58:33.4233+00:00",
+  "LastUpdate_Achievements": "2023-09-06T07:06:32.6083041+00:00"
 }
