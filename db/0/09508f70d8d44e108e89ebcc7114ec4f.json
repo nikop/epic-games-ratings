@@ -1250,9 +1250,9 @@
       "ID": "village",
       "SetID": "ap7g2g4",
       "Name": "Village",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "water_platform",
@@ -1289,8 +1289,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-09-05T23:04:45.5623027+00:00",
+  "LastChanged_Achievements": "2023-09-06T00:05:33.1988574+00:00",
   "LastUpdate_AppInfo": "2023-08-31T19:57:04.7340411+00:00",
-  "LastUpdate_Ratings": "2023-09-05T22:58:01.0102026+00:00",
-  "LastUpdate_Achievements": "2023-09-05T23:04:45.5623256+00:00"
+  "LastUpdate_Ratings": "2023-09-05T23:58:45.5831695+00:00",
+  "LastUpdate_Achievements": "2023-09-06T00:05:33.1989137+00:00"
 }

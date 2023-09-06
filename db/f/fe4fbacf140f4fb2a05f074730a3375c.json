@@ -4,7 +4,7 @@
   "ProductSlug": "angelo-and-deemon-one-hell-of-a-quest-94d7e2",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
@@ -193,9 +193,9 @@
       "ID": "PersonalHell",
       "SetID": "bl5ebnd",
       "Name": "Personal Hell",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PetLover",
@@ -264,8 +264,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-09-05T23:04:20.9189631+00:00",
+  "LastChanged_Achievements": "2023-09-06T00:04:58.3848516+00:00",
   "LastUpdate_AppInfo": "2023-08-31T13:01:50.1916248+00:00",
-  "LastUpdate_Ratings": "2023-09-05T22:57:47.0574755+00:00",
-  "LastUpdate_Achievements": "2023-09-05T23:04:20.9189758+00:00"
+  "LastUpdate_Ratings": "2023-09-05T23:58:22.507423+00:00",
+  "LastUpdate_Achievements": "2023-09-06T00:04:58.3848645+00:00"
 }

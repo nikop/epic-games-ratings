@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -964,9 +964,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1469,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1460,
+  "EOS_NewPlayers": 1464,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1744,6 +1744,11 @@
       "Time": "2023-09-05T23:03:24.5777192+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-06T00:03:19.7343533+00:00",
+      "NumProgressed": 1469,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1804,7 +1809,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 485
     },
     {
       "ID": "a_19",
@@ -1874,9 +1879,9 @@
       "ID": "a_27",
       "SetID": "daiie3o",
       "Name": "Keep the doctor away",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 44
     },
     {
       "ID": "a_28",
@@ -2003,7 +2008,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1469,
       "Completed": 3
     }
   ],
@@ -2011,8 +2016,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-05T23:03:24.5777186+00:00",
+  "LastChanged_Achievements": "2023-09-06T00:03:19.7343527+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-05T22:58:26.7560119+00:00",
-  "LastUpdate_Achievements": "2023-09-05T23:03:24.5777502+00:00"
+  "LastUpdate_Ratings": "2023-09-05T23:59:27.5319119+00:00",
+  "LastUpdate_Achievements": "2023-09-06T00:03:19.7343852+00:00"
 }

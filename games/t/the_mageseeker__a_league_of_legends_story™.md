@@ -47,7 +47,7 @@ Rating: 4.82 (Ranked 66)
 | Embrace the darkness | 12.00% | ~305 |
 | I smell fear | 12.00% | ~305 |
 | The end of the experiments | 12.00% | ~305 |
-| The Great City of Demacia | 11.00% | ~280 |
+| The Great City of Demacia | 12.00% | ~305 |
 | Truth is a dark mirror | 11.00% | ~280 |
 | Back to sleep, then... | 11.00% | ~280 |
 | Call it 'redistribution of magic | 11.00% | ~280 |

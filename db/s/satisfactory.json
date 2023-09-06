@@ -3,9 +3,9 @@
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
   "Ranking_Rating": 19,
-  "Ranking_Popularity": 33,
+  "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 15,
-  "Ranking_EOS_Progress": 574,
+  "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 104,
@@ -10130,10 +10130,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 94464,
       "NumberOfAwardsMax": 11344
+    },
+    {
+      "Time": "2023-09-06T00:02:08.773144+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 94473,
+      "NumberOfAwardsMax": 11344
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 94464,
+  "NumberOfAwards": 94473,
   "NumberOfAwardsMax": 11344,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10189,7 +10195,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 8276
+      "Count": 8285
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10215,8 +10221,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2023-09-05T18:01:57.1846733+00:00",
+  "LastChanged": "2023-09-06T00:02:08.7731438+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:17.3272377+00:00",
-  "LastUpdate_Ratings": "2023-09-05T23:00:11.1997238+00:00",
-  "LastUpdate_Achievements": "2023-09-05T23:05:38.0669403+00:00"
+  "LastUpdate_Ratings": "2023-09-06T00:02:08.7731444+00:00",
+  "LastUpdate_Achievements": "2023-09-06T00:06:47.47895+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Hades",
   "ProductSlug": "hades",
   "Ranking_Rating": 4,
-  "Ranking_Popularity": 92,
+  "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 127,
@@ -4303,9 +4303,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 702848,
+  "EOS_Progressed": 702849,
   "EOS_Completed": 6339,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -19078,6 +19078,11 @@
       "Time": "2023-09-05T22:04:17.517628+00:00",
       "NumProgressed": 702848,
       "NumCompleted": 6339
+    },
+    {
+      "Time": "2023-09-06T00:04:27.2582621+00:00",
+      "NumProgressed": 702849,
+      "NumCompleted": 6339
     }
   ],
   "TotalAchievements": 49,
@@ -19089,7 +19094,7 @@
       "Name": "Back to Work",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 267082
+      "UsersEstimate": 267083
     },
     {
       "ID": "AchAresKills",
@@ -19137,7 +19142,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 224911
+      "UsersEstimate": 224912
     },
     {
       "ID": "AchClearAnyRun",
@@ -19153,7 +19158,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 562278
+      "UsersEstimate": 562279
     },
     {
       "ID": "AchClearElysium",
@@ -19193,7 +19198,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 625535
+      "UsersEstimate": 625536
     },
     {
       "ID": "AchCrushedThanatos",
@@ -19217,7 +19222,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 196797
+      "UsersEstimate": 196798
     },
     {
       "ID": "AchForgedBond",
@@ -19225,7 +19230,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 196797
+      "UsersEstimate": 196798
     },
     {
       "ID": "AchFoundAllSummons",
@@ -19313,7 +19318,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 442794
+      "UsersEstimate": 442795
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -19361,7 +19366,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253025
+      "UsersEstimate": 253026
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -19401,7 +19406,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 182740
+      "UsersEstimate": 182741
     },
     {
       "ID": "AchReachedEpilogue",
@@ -19441,7 +19446,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 295196
+      "UsersEstimate": 295197
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -19449,7 +19454,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 499022
+      "UsersEstimate": 499023
     },
     {
       "ID": "AchWeaponClears",
@@ -19465,7 +19470,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 281139
+      "UsersEstimate": 281140
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -19480,15 +19485,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 702848,
+      "Progressed": 702849,
       "Completed": 6339
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-05T10:58:56.5627394+00:00",
-  "LastChanged_Achievements": "2023-09-05T23:03:58.6113982+00:00",
+  "LastChanged_Achievements": "2023-09-06T00:04:27.2582614+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:42.7681914+00:00",
-  "LastUpdate_Ratings": "2023-09-05T22:58:50.243814+00:00",
-  "LastUpdate_Achievements": "2023-09-05T23:03:58.6116282+00:00"
+  "LastUpdate_Ratings": "2023-09-06T00:00:04.7292412+00:00",
+  "LastUpdate_Achievements": "2023-09-06T00:04:27.2584229+00:00"
 }

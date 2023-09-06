@@ -4260,10 +4260,10 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 674256,
-  "EOS_Completed": 2117,
-  "EOS_NewPlayers": 5344,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 674275,
+  "EOS_Completed": 2118,
+  "EOS_NewPlayers": 5339,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -19715,6 +19715,11 @@
       "Time": "2023-09-05T23:05:54.6949752+00:00",
       "NumProgressed": 674256,
       "NumCompleted": 2117
+    },
+    {
+      "Time": "2023-09-06T00:07:10.815391+00:00",
+      "NumProgressed": 674275,
+      "NumCompleted": 2118
     }
   ],
   "TotalAchievements": 45,
@@ -19780,9 +19785,9 @@
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5394
+      "UsersEstimate": 6068
     },
     {
       "ID": "ach_break_a_leg",
@@ -20085,16 +20090,16 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674256,
-      "Completed": 2117
+      "Progressed": 674275,
+      "Completed": 2118
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-05T19:59:05.2782537+00:00",
-  "LastChanged_Achievements": "2023-09-05T23:05:54.6949747+00:00",
+  "LastChanged_Achievements": "2023-09-06T00:07:10.8153903+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-05T22:59:04.9345648+00:00",
-  "LastUpdate_Achievements": "2023-09-05T23:05:54.6951776+00:00"
+  "LastUpdate_Ratings": "2023-09-06T00:00:27.018303+00:00",
+  "LastUpdate_Achievements": "2023-09-06T00:07:10.8155527+00:00"
 }

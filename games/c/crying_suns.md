@@ -16,10 +16,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter I: Echoes | 22.00% | ~102,688 |
 | Excelsior Rule | 22.00% | ~102,688 |
 | Things persisted in not being what they seemed | 20.00% | ~93,353 |
-| Knightmare Frames | 15.00% | ~70,014 |
-| May His passing cleanse the world | 15.00% | ~70,014 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,014 |
-| Pope Zenon | 15.00% | ~70,014 |
+| Knightmare Frames | 15.00% | ~70,015 |
+| May His passing cleanse the world | 15.00% | ~70,015 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,015 |
+| Pope Zenon | 15.00% | ~70,015 |
 | Tetsuo | 11.00% | ~51,344 |
 | Plan for the worst | 11.00% | ~51,344 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,676 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 466,763 (Ranked 37)  
+Progressed: 466,764 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 18 (0.00%) (Ranked 270)
 | 2023-09-03 | 466,658 | 18 |
 | 2023-09-04 | 466,702 | 18 |
 | 2023-09-05 | 466,763 | 18 |
+| 2023-09-06 | 466,764 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 360)  

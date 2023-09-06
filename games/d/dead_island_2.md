@@ -13,12 +13,12 @@ Rating: 4.54 (Ranked 505)
 | Personal Assistant Personally Assisted | 1.00% | ~6,743 |
 | Welcome To Hell-A | 1.00% | ~6,743 |
 | Dr. Reed, I Presume? | 0.90% | ~6,068 |
+| Bookworm | 0.90% | ~6,068 |
 | But Doctor, I am Butcho | 0.90% | ~6,068 |
 | Friends Like These | 0.90% | ~6,068 |
 | Apex Predator | 0.90% | ~6,068 |
 | Stacking the Deck | 0.90% | ~6,068 |
 | This is My Weapon | 0.90% | ~6,068 |
-| Bookworm | 0.80% | ~5,394 |
 | Slayer Squad | 0.80% | ~5,394 |
 | Can't Handle the Truth | 0.80% | ~5,394 |
 | Like Riding a Bike | 0.80% | ~5,394 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,256 (Ranked 22)  
-Completed: 2,117 (0.31%) (Ranked 176)  
+Progressed: 674,275 (Ranked 22)  
+Completed: 2,118 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,6 +190,7 @@ Completed: 2,117 (0.31%) (Ranked 176)
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
+| 2023-09-06 | 674,275 | 2,118 |
 ## Awards
 Max (Great Boss Battles): 5,913  (Ranked 59)  
 Sum: 8,730 (Ranked 95)  

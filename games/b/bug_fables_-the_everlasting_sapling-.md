@@ -22,15 +22,15 @@
 | The Terror | 16.00% | ~14 |
 | All Geared Up | 13.00% | ~12 |
 | The End | 13.00% | ~12 |
+| Good Deed | 13.00% | ~12 |
 | Battle Ready | 13.00% | ~12 |
-| Good Deed | 12.00% | ~11 |
 | Music Collector | 12.00% | ~11 |
 | Ultimate Team! | 11.00% | ~10 |
 | Gamer | 10.00% | ~9 |
 | Pro Explorers | 9.00% | ~8 |
+| Field Researcher | 9.00% | ~8 |
+| Helping Hand | 9.00% | ~8 |
 | Cooking Maestro | 8.00% | ~7 |
-| Field Researcher | 8.00% | ~7 |
-| Helping Hand | 8.00% | ~7 |
 | Medal Collector | 6.00% | ~5 |
 | Our job's done! | 6.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
