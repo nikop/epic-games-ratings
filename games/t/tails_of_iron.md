@@ -5,29 +5,29 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 81.00% | ~1,527 |
-| Become King | 73.00% | ~1,376 |
+| Complete Guard Faction | 81.00% | ~1,528 |
+| Become King | 73.00% | ~1,377 |
 | Defeat 25 Frogs | 63.00% | ~1,188 |
 | Ranged Weapon | 62.00% | ~1,169 |
-| Collect Monster Parts | 59.00% | ~1,112 |
-| Two Handed Weapon | 57.00% | ~1,074 |
-| Defeat 25 Grubs | 53.00% | ~999 |
-| Rescue Redgi's Brothers | 53.00% | ~999 |
+| Collect Monster Parts | 59.00% | ~1,113 |
+| Two Handed Weapon | 57.00% | ~1,075 |
+| Defeat 25 Grubs | 53.00% | ~1,000 |
+| Rescue Redgi's Brothers | 52.00% | ~981 |
 | Collect Iron Ore | 48.00% | ~905 |
 | Kitchen Ready To Cook | 48.00% | ~905 |
 | Defeat 25 Mozis | 47.00% | ~886 |
-| Collect Gold | 46.00% | ~867 |
-| Smithy Ready to Craft | 46.00% | ~867 |
-| Fix the Travellers Wagon | 44.00% | ~829 |
+| Collect Gold | 46.00% | ~868 |
+| Smithy Ready to Craft | 45.00% | ~849 |
+| Fix the Travellers Wagon | 44.00% | ~830 |
 | Complete Elder Faction | 41.00% | ~773 |
-| End of the Mozis | 38.00% | ~716 |
-| Throne Room Fit For A King | 38.00% | ~716 |
+| End of the Mozis | 38.00% | ~717 |
+| Throne Room Fit For A King | 38.00% | ~717 |
 | Meet the Creatures from the Deep | 36.00% | ~679 |
 | Return Power To The Depths | 36.00% | ~679 |
 | Defeat Ratnor Rodentson | 29.00% | ~547 |
 | Return the Statues | 27.00% | ~509 |
 | Defeat Rattus Augustail | 26.00% | ~490 |
-| Complete the Chefs Book | 25.00% | ~471 |
+| Complete the Chefs Book | 25.00% | ~472 |
 | Complete Ranger Faction | 21.00% | ~396 |
 | Defeat Avor Warden of the Northern Wastes | 20.00% | ~377 |
 | Discover the mystery of the Kings Chambers | 19.00% | ~358 |
@@ -36,7 +36,7 @@ Rating: 4.54 (Ranked 505)
 | King of Kings | 8.00% | ~151 |
 | A new Warchief rises | 0.80% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,885 (Ranked 177)  
+Progressed: 1,886 (Ranked 177)  
 Completed: 8 (0.42%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,6 +152,7 @@ Completed: 8 (0.42%) (Ranked 162)
 | 2023-09-02 | 1,882 | 8 |
 | 2023-09-03 | 1,884 | 8 |
 | 2023-09-04 | 1,885 | 8 |
+| 2023-09-06 | 1,886 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

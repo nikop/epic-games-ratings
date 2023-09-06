@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56775,
+  "EOS_Progressed": 56776,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8867,6 +8867,11 @@
       "Time": "2023-09-06T03:05:28.7537378+00:00",
       "NumProgressed": 56775,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-06T04:06:31.612572+00:00",
+      "NumProgressed": 56776,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -9022,7 +9027,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "HarshLove",
@@ -9214,7 +9219,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "TimelySplash",
@@ -9269,7 +9274,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56775,
+      "Progressed": 56776,
       "Completed": 6
     }
   ],
@@ -9277,8 +9282,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-09-06T03:05:28.7537372+00:00",
+  "LastChanged_Achievements": "2023-09-06T04:06:31.6125715+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:35.840449+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:57:19.0643041+00:00",
-  "LastUpdate_Achievements": "2023-09-06T03:05:28.7538313+00:00"
+  "LastUpdate_Ratings": "2023-09-06T03:57:44.245658+00:00",
+  "LastUpdate_Achievements": "2023-09-06T04:06:31.6126667+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "8ae3c382222c462492f25bab4800b77d",
   "Name": "Travellers Rest",
   "ProductSlug": "travellers-rest-c115d1",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 575,
@@ -292,8 +292,8 @@
   "FirstSeenRating": "2022-09-04T00:31:40.8839276+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.6992303+00:00",
   "LastChanged": "2023-08-22T10:59:55.9816378+00:00",
-  "LastChanged_Achievements": "2023-09-06T03:05:55.3183419+00:00",
+  "LastChanged_Achievements": "2023-09-06T04:07:03.0399102+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:06.8285813+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:59:01.9230388+00:00",
-  "LastUpdate_Achievements": "2023-09-06T03:05:55.3183448+00:00"
+  "LastUpdate_Ratings": "2023-09-06T03:59:44.4087716+00:00",
+  "LastUpdate_Achievements": "2023-09-06T04:07:03.0399136+00:00"
 }

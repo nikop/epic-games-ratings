@@ -1,13 +1,13 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 432)  
+Rating: 4.58 (Ranked 431)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~62,044 |
-| Alt+F4 | 4.00% | ~8,863 |
+| Sowwy! | 28.00% | ~62,047 |
+| Alt+F4 | 4.00% | ~8,864 |
 | Déjà vu | 3.00% | ~6,648 |
 | Where's that freaking Dwarf? | 3.00% | ~6,648 |
 | A beer, two curses, three companions | 2.00% | ~4,432 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,587 (Ranked 57)  
+Progressed: 221,597 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,17 +193,17 @@ Completed: 2 (0.00%) (Ranked 270)
 | 2023-09-03 | 220,988 | 2 |
 | 2023-09-04 | 221,298 | 2 |
 | 2023-09-05 | 221,553 | 2 |
-| 2023-09-06 | 221,587 | 2 |
+| 2023-09-06 | 221,597 | 2 |
 ## Awards
 Max (Character Customization): 189  (Ranked 278)  
-Sum: 262 (Ranked 353)  
+Sum: 263 (Ranked 353)  
 Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 189 |
 | This game is Relaxing | 26 |
 | This game is Great for Beginners | 24 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -331,3 +331,4 @@ Diff (max vs sum): -75
 | 2023-09-03 | 4.58 | - | 189 | 259 |
 | 2023-09-04 | 4.58 | - | 189 | 261 |
 | 2023-09-05 | 4.58 | - | 189 | 262 |
+| 2023-09-06 | 4.58 | - | 189 | 263 |

@@ -10307,10 +10307,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 90883,
       "NumberOfAwardsMax": 11348
+    },
+    {
+      "Time": "2023-09-06T03:59:16.1557776+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 90897,
+      "NumberOfAwardsMax": 11348
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 90883,
+  "NumberOfAwards": 90897,
   "NumberOfAwardsMax": 11348,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -10372,7 +10378,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6047
+      "Count": 6061
     },
     {
       "Text": "This game has a Competitive Community",
@@ -10392,8 +10398,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-09-05T23:59:56.5893003+00:00",
+  "LastChanged": "2023-09-06T03:59:16.1557774+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:36.12146+00:00",
-  "LastUpdate_Ratings": "2023-09-06T02:58:41.4108971+00:00",
-  "LastUpdate_Achievements": "2023-09-06T03:06:20.5586205+00:00"
+  "LastUpdate_Ratings": "2023-09-06T03:59:16.1557784+00:00",
+  "LastUpdate_Achievements": "2023-09-06T04:07:33.214531+00:00"
 }

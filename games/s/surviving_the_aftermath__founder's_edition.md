@@ -9,24 +9,24 @@ Number of Ratings: 836  (23.09.2022)
 | First Step | 72.00% | ~6,366 |
 | Leader | 60.00% | ~5,305 |
 | Explorer | 53.00% | ~4,686 |
-| Healer | 52.00% | ~4,597 |
+| Healer | 52.00% | ~4,598 |
 | Aspiring Inventor | 44.00% | ~3,890 |
 | Adventurer | 41.00% | ~3,625 |
 | Famous Healer | 38.00% | ~3,360 |
-| Local Leader | 35.00% | ~3,094 |
+| Local Leader | 35.00% | ~3,095 |
 | Famous Explorer | 34.00% | ~3,006 |
 | New Opportunities | 34.00% | ~3,006 |
 | Energized | 33.00% | ~2,918 |
 | The Long Haul | 33.00% | ~2,918 |
 | The Great Healer | 31.00% | ~2,741 |
 | Survivor | 31.00% | ~2,741 |
-| Legendary Explorer | 28.00% | ~2,475 |
-| Cleaner | 28.00% | ~2,475 |
-| Catastrofan | 28.00% | ~2,475 |
+| Legendary Explorer | 28.00% | ~2,476 |
+| Cleaner | 28.00% | ~2,476 |
+| Catastrofan | 28.00% | ~2,476 |
 | Finders, Keepers | 26.00% | ~2,299 |
 | Top Notch | 25.00% | ~2,210 |
-| Great Leader | 23.00% | ~2,033 |
-| Mentor | 23.00% | ~2,033 |
+| Great Leader | 23.00% | ~2,034 |
+| Mentor | 23.00% | ~2,034 |
 | Merchant | 22.00% | ~1,945 |
 | Ice Lakes | 22.00% | ~1,945 |
 | Real Survivor | 22.00% | ~1,945 |
@@ -46,8 +46,8 @@ Number of Ratings: 836  (23.09.2022)
 | Bread and Circuses | 8.00% | ~707 |
 | New Eden | 7.00% | ~619 |
 | Tailored to fit | 7.00% | ~619 |
-| Really Friendly | 6.00% | ~530 |
-| Amped Up | 6.00% | ~530 |
+| Really Friendly | 6.00% | ~531 |
+| Amped Up | 6.00% | ~531 |
 | Look, no Hands! | 5.00% | ~442 |
 | Luxurious Living | 4.00% | ~354 |
 | Mogul | 3.00% | ~265 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,841 (Ranked 132)  
+Progressed: 8,842 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-03 | 8,797 | 0 |
 | 2023-09-04 | 8,820 | 0 |
 | 2023-09-05 | 8,841 | 0 |
+| 2023-09-06 | 8,842 | 0 |
 ## Awards
 Max (Extremely Fun): 102  (Ranked 335)  
 Sum: 698 (Ranked 279)  
