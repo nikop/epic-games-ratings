@@ -133,6 +133,8 @@
 | [Capital Command](games/c/capital_command.md) | 2023-12-31 | - |  | - | - |
 | [Clicker Guardians](games/c/clicker_guardians.md) | 2023-12-31 | - |  | - | - |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2023-12-31 | - |  | - | - |
+| [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-12-31 | - |  | - | - |
+| [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2023-12-31 | - |  | - | - |
 | [Cthulhu: Books of Ancients](games/c/cthulhu__books_of_ancients.md) | 2023-12-31 | - |  | - | - |
 | [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2023-12-31 | - |  | - | - |
 | [Dreamsettler](games/d/dreamsettler.md) | 2023-12-31 | - |  | - | - |
@@ -167,6 +169,7 @@
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2023-12-31 | - |  | - | - |
 | [Ova Magica](games/o/ova_magica.md) | 2023-12-31 | - |  | - | - |
 | [Parkour Legends](games/p/parkour_legends.md) | 2023-12-31 | - |  | - | - |
+| [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2023-12-31 | - |  | - | - |
 | [PUGS Agents](games/p/pugs_agents.md) | 2023-12-31 | - |  | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2023-12-31 | - |  | - | 0 |
 | [Revive and Prosper](games/3/3a27a82bc5d04ff6a57ae77b34b09555.md) | 2023-12-31 | - |  | - | - |
@@ -213,8 +216,6 @@
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Hidden Pass](games/9/9cda6b0af2b040728763a7f798370910.md) | 2024-09-30 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-12-31 | - |  | - | - |
-| [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2024-12-31 | - |  | - | - |
-| [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2024-12-31 | - |  | - | - |
 | [Damn Zombies](games/d/damn_zombies.md) | 2024-12-31 | - |  | - | - |
 | [Dawn Apart](games/d/dawn_apart.md) | 2024-12-31 | - |  | - | - |
 | [Dismay](games/d/dismay.md) | 2024-12-31 | - |  | - | - |
@@ -229,7 +230,6 @@
 | [MonTamer](games/m/montamer.md) | 2024-12-31 | - |  | - | - |
 | [NEO BERLIN 2087](games/6/6360997dd9194c40aa70a701791b1819.md) | 2024-12-31 | - |  | - | - |
 | [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2024-12-31 | - |  | - | - |
-| [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2024-12-31 | - |  | - | - |
 | [TERCIOS - Honor and glory](games/1/1203b99d9f59457480a3da3c090a3858.md) | 2024-12-31 | - |  | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | - |  | - | - |
 | [The Bornless](games/a/aaa64a6e060d46ba8de15f19a0d6269e.md) | 2024-12-31 | - |  | - | - |
@@ -418,6 +418,7 @@
 | [Tavernacle](games/t/tavernacle.md) | 2099-01-01 | - |  | - | - |
 | [Terrordrome - Reign of the Legends](games/t/terrordrome_-_reign_of_the_legends.md) | 2099-01-01 | - |  | - | - |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2099-01-01 | - |  | - | - |
+| [The 22nd is Serda. f0a178](games/e/ee7012dfa0784b638503492ccd494e1f.md) | 2099-01-01 | - |  | - | - |
 | [The Alters](games/t/the_alters.md) | 2099-01-01 | - |  | - | - |
 | [The Bunny Graveyard](games/t/the_bunny_graveyard.md) | 2099-01-01 | - |  | - | 0 |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |
