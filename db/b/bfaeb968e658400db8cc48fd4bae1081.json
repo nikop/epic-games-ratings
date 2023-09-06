@@ -2,9 +2,9 @@
   "ID": "bfaeb968e658400db8cc48fd4bae1081",
   "Name": "HELIX",
   "ProductSlug": "helix-metaverse-a1351d",
-  "Ranking_EOS_Progress": 576,
+  "Ranking_EOS_Progress": 577,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-31T22:57:07.4177392+00:00",
-  "LastUpdate_Ratings": "2023-09-06T14:02:36.0570155+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:08:18.5135049+00:00"
+  "LastUpdate_Ratings": "2023-09-06T15:02:22.3175994+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:07:50.1259802+00:00"
 }

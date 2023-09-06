@@ -6,7 +6,7 @@
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -964,11 +964,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1536,
+  "EOS_Progressed": 1544,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1484,
+  "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.2,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1819,6 +1819,11 @@
       "Time": "2023-09-06T14:04:10.2812217+00:00",
       "NumProgressed": 1536,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-06T15:03:45.8170724+00:00",
+      "NumProgressed": 1544,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1831,7 +1836,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "a_10",
@@ -1879,7 +1884,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 510
     },
     {
       "ID": "a_19",
@@ -1887,7 +1892,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "a_2",
@@ -1895,7 +1900,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "a_20",
@@ -1919,7 +1924,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "a_23",
@@ -1927,7 +1932,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "a_25",
@@ -1935,7 +1940,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "a_26",
@@ -2037,9 +2042,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "a_6",
@@ -2078,7 +2083,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1536,
+      "Progressed": 1544,
       "Completed": 3
     }
   ],
@@ -2086,8 +2091,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-06T14:04:10.2812208+00:00",
+  "LastChanged_Achievements": "2023-09-06T15:03:45.8170717+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:59:50.8555923+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:04:10.2812558+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:59:29.1351793+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:03:45.8171206+00:00"
 }

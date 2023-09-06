@@ -5,13 +5,13 @@ Rating: 4.64 (Ranked 315)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,934 |
-| Mods Please Ban | 77.00% | ~18,493 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,253 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,532 |
-| First Bounty Down | 59.00% | ~14,170 |
+| Eye Scream, You Scream | 83.00% | ~19,935 |
+| Mods Please Ban | 77.00% | ~18,494 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,254 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,533 |
+| First Bounty Down | 59.00% | ~14,171 |
 | We're All Very Impressed, Trust Me | 57.00% | ~13,690 |
-| Luglox Genocide | 43.00% | ~10,327 |
+| Luglox Genocide | 43.00% | ~10,328 |
 | Don't Knife The Hand That Feeds | 34.00% | ~8,166 |
 | Playing Card To Get | 33.00% | ~7,926 |
 | Creature Feature | 30.00% | ~7,205 |
@@ -23,8 +23,8 @@ Rating: 4.64 (Ranked 315)
 | RIP Davey Glutes | 24.00% | ~5,764 |
 | Hardest Battle In The Game | 22.00% | ~5,284 |
 | Series Wrap on Suit-O | 22.00% | ~5,284 |
-| Lezduit! | 20.00% | ~4,803 |
-| Who's The Boss? | 20.00% | ~4,803 |
+| Lezduit! | 20.00% | ~4,804 |
+| Who's The Boss? | 20.00% | ~4,804 |
 | Self-Actualization | 19.00% | ~4,563 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,563 |
 | Legendary Bounty Hunter | 18.00% | ~4,323 |
@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 315)
 | Epic Legendary Prize | 1.00% | ~240 |
 | A Starfish Is Born | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,017 (Ranked 104)  
+Progressed: 24,018 (Ranked 104)  
 Completed: 12 (0.05%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 12 (0.05%) (Ranked 236)
 | 2023-09-03 | 24,013 | 12 |
 | 2023-09-04 | 24,014 | 12 |
 | 2023-09-05 | 24,015 | 12 |
-| 2023-09-06 | 24,017 | 12 |
+| 2023-09-06 | 24,018 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

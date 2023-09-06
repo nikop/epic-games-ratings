@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,722 (Ranked 138)  
+Progressed: 6,722 (Ranked 139)  
 Completed: 8 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |

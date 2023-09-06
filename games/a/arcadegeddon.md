@@ -23,8 +23,8 @@ Number of Ratings: 801  (23.09.2022)
 | Field Medic | 38.00% | ~3,384 |
 | Here Comes a New Challenger | 38.00% | ~3,384 |
 | Rapid Response | 33.00% | ~2,938 |
+| Surge Ahead | 31.00% | ~2,760 |
 | The Full Monty | 31.00% | ~2,760 |
-| Surge Ahead | 30.00% | ~2,671 |
 | Guardian Angel | 28.00% | ~2,493 |
 | Poppin Noggins | 24.00% | ~2,137 |
 | Clips and Crits | 20.00% | ~1,781 |

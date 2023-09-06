@@ -14,6 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.20% | ~455 |
 | A Persistent Buzzing | 0.20% | ~455 |
 | Terror in the Dark | 0.20% | ~455 |
+| A Mysterious Summons | 0.20% | ~455 |
 | The Ring of Regeneration | 0.20% | ~455 |
 | The Crumbling Temple | 0.20% | ~455 |
 | Seeking Allies | 0.20% | ~455 |
@@ -166,7 +167,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Double Vision | 0.10% | ~228 |
 | Underground Railroad | 0.10% | ~228 |
 | Low Initiative | 0.10% | ~228 |
-| A Mysterious Summons | 0.10% | ~228 |
 | Street War | 0.10% | ~228 |
 | Force Grey Unleashed | 0.10% | ~228 |
 | Vajra's Guards | 0.10% | ~228 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,507 (Ranked 54)  
+Progressed: 227,514 (Ranked 54)  
 Completed: 2,256 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -666,7 +666,7 @@ Completed: 2,256 (0.99%) (Ranked 124)
 | 2023-09-03 | 226,879 | 2,246 |
 | 2023-09-04 | 227,081 | 2,250 |
 | 2023-09-05 | 227,381 | 2,254 |
-| 2023-09-06 | 227,507 | 2,256 |
+| 2023-09-06 | 227,514 | 2,256 |
 ## Awards
 Max (Diverse Characters): 5,234  (Ranked 68)  
 Sum: 31,424 (Ranked 39)  

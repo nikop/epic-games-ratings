@@ -2,9 +2,9 @@
   "ID": "def895e780b641fcb643c5fd7b984754",
   "Name": "Ova Magica",
   "ProductSlug": "ova-magica-058407",
-  "Ranking_EOS_Progress": 576,
+  "Ranking_EOS_Progress": 577,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T10:57:24.6260751+00:00",
-  "LastUpdate_Ratings": "2023-09-06T14:02:47.0172759+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:05:30.7228703+00:00"
+  "LastUpdate_Ratings": "2023-09-06T15:02:32.4813416+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:05:03.0512669+00:00"
 }

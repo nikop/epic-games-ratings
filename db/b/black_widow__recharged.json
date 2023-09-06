@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17821,
+  "EOS_Progressed": 17822,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -11572,6 +11572,11 @@
       "Time": "2023-09-06T14:08:01.0500131+00:00",
       "NumProgressed": 17821,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-06T15:07:37.3450431+00:00",
+      "NumProgressed": 17822,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -11623,7 +11628,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -11639,7 +11644,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9445
+      "UsersEstimate": 9446
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -11694,15 +11699,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17821,
+      "Progressed": 17822,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-06T14:08:01.0500123+00:00",
+  "LastChanged_Achievements": "2023-09-06T15:07:37.3450426+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:03.3291776+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:57:54.5753248+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:08:01.0501619+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:57:33.1073935+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:07:37.3451398+00:00"
 }

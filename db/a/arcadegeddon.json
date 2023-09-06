@@ -807,7 +807,7 @@
   ],
   "EOS_Progressed": 8904,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9160,9 +9160,9 @@
       "ID": "ACH_SURGE_AHEAD",
       "SetID": "97mcd7i",
       "Name": "Surge Ahead",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2760
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -9272,8 +9272,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-08-26T20:00:35.7638422+00:00",
-  "LastChanged_Achievements": "2023-09-06T14:07:36.8134885+00:00",
+  "LastChanged_Achievements": "2023-09-06T15:07:12.3577953+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:18.6650629+00:00",
-  "LastUpdate_Ratings": "2023-09-06T14:01:10.007609+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:07:36.8136084+00:00"
+  "LastUpdate_Ratings": "2023-09-06T15:00:50.9851227+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:07:12.3579612+00:00"
 }

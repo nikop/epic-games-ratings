@@ -25,12 +25,12 @@ Rating: 4.58 (Ranked 431)
 | My Motto, My Creed | 11.00% | ~1,967 |
 | Killer Looks | 11.00% | ~1,967 |
 | Keycards Royale | 10.00% | ~1,788 |
-| In It to Win It | 9.00% | ~1,609 |
+| In It to Win It | 9.00% | ~1,610 |
 | Security Supervisor | 6.00% | ~1,073 |
 | License to Thrill | 5.00% | ~894 |
-| Social of Solace | 3.00% | ~536 |
-| Live and let lie | 3.00% | ~536 |
-| Safe Withdrawal | 3.00% | ~536 |
+| Social of Solace | 3.00% | ~537 |
+| Live and let lie | 3.00% | ~537 |
+| Safe Withdrawal | 3.00% | ~537 |
 | Branch Manager | 2.00% | ~358 |
 | Call Me Maybe | 2.00% | ~358 |
 | PHD in VIP | 2.00% | ~358 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 431)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,882 (Ranked 112)  
+Progressed: 17,884 (Ranked 112)  
 Completed: 1 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.01%) (Ranked 256)
 | 2023-09-03 | 17,848 | 1 |
 | 2023-09-04 | 17,867 | 1 |
 | 2023-09-05 | 17,876 | 1 |
-| 2023-09-06 | 17,882 | 1 |
+| 2023-09-06 | 17,884 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "8932245b5a234b96a3ba3bba7a44c24e",
   "Name": "The Witch of Fern Island",
   "ProductSlug": "the-witch-of-fern-island-18df35",
-  "Ranking_EOS_Progress": 576,
+  "Ranking_EOS_Progress": 577,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-01T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-05-02T04:59:20.2286222+00:00",
   "LastChanged": "2023-05-02T04:59:20.2286223+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:31.6324116+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:57:43.3598583+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:07:20.1467402+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:57:22.6383789+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:06:55.9068485+00:00"
 }

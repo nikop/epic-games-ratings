@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_Completed": 33,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -343,9 +343,9 @@
       "ID": "ACHIEVEMENT006",
       "SetID": "dejhjd5",
       "Name": "The Lords of the Snowpeak",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -711,8 +711,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-09-06T14:07:54.1917453+00:00",
+  "LastChanged_Achievements": "2023-09-06T15:07:29.7858067+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:25.377972+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:57:34.8075737+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:07:54.1917961+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:57:14.9398398+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:07:29.7858884+00:00"
 }

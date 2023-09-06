@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -564,9 +564,9 @@
       "ID": "53",
       "SetID": "5e3maia",
       "Name": "Buddhist",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "54",
@@ -580,17 +580,17 @@
       "ID": "55",
       "SetID": "5e3maia",
       "Name": "Metallurgist",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "56",
       "SetID": "5e3maia",
       "Name": "Mason",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "57",
@@ -644,17 +644,17 @@
       "ID": "62",
       "SetID": "5e3maia",
       "Name": "Unbroken",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "63",
       "SetID": "5e3maia",
       "Name": "Saint",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "64",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-06T14:09:47.549954+00:00",
+  "LastChanged_Achievements": "2023-09-06T15:09:19.9936573+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:57:56.4908692+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:09:47.550062+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:57:35.2170938+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:09:19.993783+00:00"
 }

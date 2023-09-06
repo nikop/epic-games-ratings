@@ -19,7 +19,7 @@ Number of Ratings: 48  (23.09.2022)
 | First Time Hunting | 49.00% | ~336 |
 | Rune Wall Wreckage | 49.00% | ~336 |
 | ...And Your Tax Money | 47.00% | ~322 |
-| The Lords of the Snowpeak | 40.00% | ~274 |
+| The Lords of the Snowpeak | 41.00% | ~281 |
 | The Go-To Girl | 37.00% | ~253 |
 | Natural Born Monster-Killer | 37.00% | ~253 |
 | The Lava Mantor Wyrm | 36.00% | ~247 |
@@ -58,7 +58,7 @@ Number of Ratings: 48  (23.09.2022)
 | Rising Champion | 7.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 685 (Ranked 221)  
-Completed: 59 (8.61%) (Ranked 34)  
+Completed: 59 (8.61%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

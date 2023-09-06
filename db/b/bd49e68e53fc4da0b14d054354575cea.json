@@ -2,9 +2,9 @@
   "ID": "bd49e68e53fc4da0b14d054354575cea",
   "Name": "Gravity Oddity",
   "ProductSlug": "gravity-oddity-a66e76",
-  "Ranking_EOS_Progress": 576,
+  "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-09-06T15:05:11.6816479+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-08-29T18:02:15.6403688+00:00",
   "TotalAchievements": 33,
   "TotalAchievementsXP": 1000,
@@ -113,9 +119,9 @@
       "ID": "ACH_10",
       "SetID": "6dj72a4",
       "Name": "Archeologist",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_11",
@@ -153,17 +159,17 @@
       "ID": "ACH_15",
       "SetID": "6dj72a4",
       "Name": "Animal Lover",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_16",
       "SetID": "6dj72a4",
       "Name": "Contaminated Food",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_17",
@@ -233,9 +239,9 @@
       "ID": "ACH_25",
       "SetID": "6dj72a4",
       "Name": "Fashionista",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_26",
@@ -249,9 +255,9 @@
       "ID": "ACH_27",
       "SetID": "6dj72a4",
       "Name": "Mod Collector",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_28",
@@ -298,13 +304,13 @@
     {
       "ID": "6dj72a4",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-29T18:02:15.6403686+00:00",
-  "LastChanged_Achievements": "2023-09-06T14:05:39.173076+00:00",
+  "LastChanged_Achievements": "2023-09-06T15:05:11.6816472+00:00",
   "LastUpdate_AppInfo": "2023-09-05T17:57:21.2702736+00:00",
-  "LastUpdate_Ratings": "2023-09-06T14:00:39.4019578+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:05:39.173117+00:00"
+  "LastUpdate_Ratings": "2023-09-06T15:00:16.5343628+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:05:11.6816885+00:00"
 }

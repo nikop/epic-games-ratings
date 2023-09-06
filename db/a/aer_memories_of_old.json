@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19509,
+  "EOS_Progressed": 19510,
   "EOS_Completed": 387,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -15247,6 +15247,11 @@
       "Time": "2023-09-06T14:04:53.4013604+00:00",
       "NumProgressed": 19509,
       "NumCompleted": 387
+    },
+    {
+      "Time": "2023-09-06T15:04:28.2428935+00:00",
+      "NumProgressed": 19510,
+      "NumCompleted": 387
     }
   ],
   "TotalAchievements": 20,
@@ -15266,7 +15271,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "EAST_FINISHED",
@@ -15330,7 +15335,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -15378,7 +15383,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15022
+      "UsersEstimate": 15023
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15417,15 +15422,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19509,
+      "Progressed": 19510,
       "Completed": 387
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-06T14:04:53.4013596+00:00",
+  "LastChanged_Achievements": "2023-09-06T15:04:28.2428931+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-06T14:03:09.759308+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:04:53.4015586+00:00"
+  "LastUpdate_Ratings": "2023-09-06T15:02:54.9374617+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:04:28.2430845+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1247,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4421,6 +4421,11 @@
       "Time": "2023-09-06T14:08:44.0579274+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-06T15:08:14.8943258+00:00",
+      "NumProgressed": 1247,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4536,7 +4541,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4552,7 +4557,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -4560,7 +4565,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4608,7 +4613,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4616,7 +4621,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4678,9 +4683,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 75
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -4735,14 +4740,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1247,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-06T14:08:44.0579269+00:00",
+  "LastChanged_Achievements": "2023-09-06T15:08:14.8943253+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-06T13:58:08.8147484+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:08:44.0579878+00:00"
+  "LastUpdate_Ratings": "2023-09-06T14:57:48.0375872+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:08:14.8943858+00:00"
 }

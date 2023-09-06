@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17882,
+  "EOS_Progressed": 17884,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9778,6 +9778,11 @@
       "Time": "2023-09-06T10:03:35.1271046+00:00",
       "NumProgressed": 17882,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-06T15:04:10.3337701+00:00",
+      "NumProgressed": 17884,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9861,7 +9866,7 @@
       "Name": "Social of Solace",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "0011",
@@ -9909,7 +9914,7 @@
       "Name": "Live and let lie",
       "Percentage": 3,
       "XP": 115,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "0017",
@@ -9925,7 +9930,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "0019",
@@ -9965,7 +9970,7 @@
       "Name": "Safe Withdrawal",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "0024",
@@ -10076,7 +10081,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17882,
+      "Progressed": 17884,
       "Completed": 1
     }
   ],
@@ -10084,8 +10089,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-06T14:04:35.1683275+00:00",
+  "LastChanged_Achievements": "2023-09-06T15:04:10.3337692+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-06T14:02:38.0820597+00:00",
-  "LastUpdate_Achievements": "2023-09-06T14:04:35.1684198+00:00"
+  "LastUpdate_Ratings": "2023-09-06T15:02:24.1190114+00:00",
+  "LastUpdate_Achievements": "2023-09-06T15:04:10.3339252+00:00"
 }

@@ -1,12 +1,12 @@
 # Timberborn
 [Store](https://store.epicgames.com/en-US/p/timberborn)  
 [View Rawdata](../../db/t/timberborn.json)  
-Rating: 4.72 (Ranked 174)  
+Rating: 4.72 (Ranked 175)  
 Number of Ratings: 640  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 135  (Ranked 308)  
-Sum: 936 (Ranked 248)  
-Diff (max vs sum): 60  
+Sum: 936 (Ranked 249)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 135 |
