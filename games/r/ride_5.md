@@ -4,31 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 23.00% | ~32 |
-| Clean Race | 23.00% | ~32 |
-| Rivals to the End | 22.00% | ~30 |
-| Hear That Roar! | 18.00% | ~25 |
-| I'm Here Too! | 15.00% | ~21 |
-| We're Going to Need a Bigger Garage | 14.00% | ~19 |
-| Eat My Dust | 12.00% | ~16 |
-| Quick Pit Stop | 9.00% | ~12 |
+| First Love | 26.00% | ~37 |
+| Clean Race | 24.00% | ~34 |
+| Rivals to the End | 23.00% | ~32 |
+| Hear That Roar! | 21.00% | ~30 |
+| We're Going to Need a Bigger Garage | 16.00% | ~23 |
+| I'm Here Too! | 16.00% | ~23 |
+| Eat My Dust | 15.00% | ~21 |
+| Quick Pit Stop | 9.00% | ~13 |
+| Bitter Rivalry | 9.00% | ~13 |
+| Restored and Ready | 8.00% | ~11 |
+| I Want One Too! | 8.00% | ~11 |
 | Legendary!!! | 8.00% | ~11 |
 | Go-Faster Stripes | 7.00% | ~10 |
-| Restored and Ready | 7.00% | ~10 |
-| I Want One Too! | 7.00% | ~10 |
-| Bitter Rivalry | 6.00% | ~8 |
 | Champagne Spray | 6.00% | ~8 |
-| Iconic! | 4.00% | ~5 |
-| Is It the Right Size? | 4.00% | ~5 |
+| Iconic! | 4.00% | ~6 |
+| Is It the Right Size? | 4.00% | ~6 |
+| Evangelist | 4.00% | ~6 |
 | Still Here | 3.00% | ~4 |
-| Evangelist | 3.00% | ~4 |
 | We've Just Begun | 3.00% | ~4 |
+| Stamina Star | 2.00% | ~3 |
 | Spoilt for Choice | 2.00% | ~3 |
+| Cherry Blossom and Temples | 2.00% | ~3 |
+| I Don't Stop | 2.00% | ~3 |
 | Overtaking the Master | 2.00% | ~3 |
-| Stamina Star | 1.00% | ~1 |
 | Make It Your Own! | 1.00% | ~1 |
 | I'll Be the Best! | 1.00% | ~1 |
-| Cherry Blossom and Temples | 1.00% | ~1 |
 | La Dolce Vita | 1.00% | ~1 |
 | Romantic Races | 1.00% | ~1 |
 | Next Level | 1.00% | ~1 |
@@ -37,7 +38,6 @@
 | Rounding Off | 1.00% | ~1 |
 | My Work Here Is Done | 1.00% | ~1 |
 | In Search of Perfection | 1.00% | ~1 |
-| I Don't Stop | 1.00% | ~1 |
 | There's a Great View up Here | 1.00% | ~1 |
 | Absolute Champion | 1.00% | ~1 |
 | Maximum Endurance | 0.70% | ~1 |
@@ -54,9 +54,9 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 326)  
+Progressed: 141 (Ranked 325)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-09-06 | 137 | 0 |
+| 2023-09-06 | 141 | 0 |

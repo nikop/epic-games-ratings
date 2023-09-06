@@ -25,12 +25,12 @@ Rating: 4.27 (Ranked 822)
 | The Greedy Ones | 2.00% | ~21 |
 | The Unruly Ones | 2.00% | ~21 |
 | The great fire | 1.00% | ~10 |
+| The Council | 1.00% | ~10 |
 | The Mad | 1.00% | ~10 |
-| The Council | 0.90% | ~9 |
 | Like the dream | 0.80% | ~8 |
 | Charismatic Leader | 0.70% | ~7 |
+| Metropolis | 0.70% | ~7 |
 | Six Faces | 0.60% | ~6 |
-| Metropolis | 0.60% | ~6 |
 | The Great Winter | 0.50% | ~5 |
 | Red Tape | 0.40% | ~4 |
 | Knowledge is Power | 0.40% | ~4 |
@@ -38,9 +38,9 @@ Rating: 4.27 (Ranked 822)
 | Ice and Fire | 0.20% | ~2 |
 | Mad Engineers | 0.20% | ~2 |
 | It's spreading | 0.20% | ~2 |
+| The Flail | 0.20% | ~2 |
 | Aesthetics | 0.10% | ~1 |
 | The experiment | 0.10% | ~1 |
-| The Flail | 0.10% | ~1 |
 | The Corrupted | 0.10% | ~1 |
 | The Foul | 0.10% | ~1 |
 | Break the chains | 0.00% | ~0 |

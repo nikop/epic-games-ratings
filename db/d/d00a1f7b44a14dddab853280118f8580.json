@@ -4,8 +4,8 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -679,9 +679,9 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_complete_tutorial",
@@ -695,9 +695,9 @@
       "ID": "ach_hint_3",
       "SetID": "5e260i9",
       "Name": "A helping hand!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_hint_6",
@@ -735,9 +735,9 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_skip_3",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-06T22:06:52.3616949+00:00",
+  "LastChanged_Achievements": "2023-09-06T23:06:11.9271113+00:00",
   "LastUpdate_AppInfo": "2023-08-31T23:56:56.6735611+00:00",
-  "LastUpdate_Ratings": "2023-09-06T21:57:34.9366667+00:00",
-  "LastUpdate_Achievements": "2023-09-06T22:06:52.3617084+00:00"
+  "LastUpdate_Ratings": "2023-09-06T22:57:31.7033915+00:00",
+  "LastUpdate_Achievements": "2023-09-06T23:06:11.927125+00:00"
 }

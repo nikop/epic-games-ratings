@@ -4,11 +4,11 @@
   "ProductSlug": "total-war-warhammer",
   "Ranking_Rating": 431,
   "Ranking_Popularity": 56,
-  "Ranking_PopularitySum": 67,
+  "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
     "PcReleaseDate": "2016-05-24T11:08:48+00:00",
@@ -5662,18 +5662,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 14557,
       "NumberOfAwardsMax": 6341
+    },
+    {
+      "Time": "2023-09-06T23:00:05.0570034+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 14560,
+      "NumberOfAwardsMax": 6343
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14557,
-  "NumberOfAwardsMax": 6341,
+  "NumberOfAwards": 14560,
+  "NumberOfAwardsMax": 6343,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6341
+      "Count": 6343
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5697,7 +5703,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 998
+      "Count": 999
     },
     {
       "Text": "This game is Relaxing",
@@ -5759,8 +5765,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2023-09-05T22:01:00.2973041+00:00",
+  "LastChanged": "2023-09-06T23:00:05.0570032+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:54.209941+00:00",
-  "LastUpdate_Ratings": "2023-09-06T22:00:37.5656329+00:00",
-  "LastUpdate_Achievements": "2023-09-06T22:07:47.4171765+00:00"
+  "LastUpdate_Ratings": "2023-09-06T23:00:05.0570038+00:00",
+  "LastUpdate_Achievements": "2023-09-06T23:08:18.4058209+00:00"
 }

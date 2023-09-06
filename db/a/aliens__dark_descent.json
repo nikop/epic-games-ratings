@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -4445,9 +4445,9 @@
       "ID": "ACH_SAVE_SURVIVORS",
       "SetID": "816efe",
       "Name": "People Person",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -4494,8 +4494,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-05T17:00:35.1616306+00:00",
-  "LastChanged_Achievements": "2023-09-06T22:04:13.3168099+00:00",
+  "LastChanged_Achievements": "2023-09-06T23:03:50.0250311+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:22.9091444+00:00",
-  "LastUpdate_Ratings": "2023-09-06T22:01:15.0868638+00:00",
-  "LastUpdate_Achievements": "2023-09-06T22:04:13.316872+00:00"
+  "LastUpdate_Ratings": "2023-09-06T23:00:35.9929723+00:00",
+  "LastUpdate_Achievements": "2023-09-06T23:03:50.025092+00:00"
 }

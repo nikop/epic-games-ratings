@@ -1,22 +1,22 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.41 (Ranked 691)  
+Rating: 4.41 (Ranked 692)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Understanding of Block Extrusion | 51.00% | ~99 |
-| Lost in Space | 51.00% | ~99 |
-| Power Glove | 43.00% | ~84 |
-| Nature or Nurture | 42.00% | ~82 |
-| Forgotten Memories | 42.00% | ~82 |
-| Cogs in the Machine | 37.00% | ~72 |
-| Mission Success | 16.00% | ~31 |
-| Green Cube Killer | 15.00% | ~29 |
-| There's No Place Like Home | 14.00% | ~27 |
-| Descendants | 12.00% | ~23 |
-| Path to Salvation | 11.00% | ~21 |
+| Quick Understanding of Block Extrusion | 52.00% | ~102 |
+| Lost in Space | 51.00% | ~100 |
+| Nature or Nurture | 43.00% | ~85 |
+| Power Glove | 43.00% | ~85 |
+| Forgotten Memories | 42.00% | ~83 |
+| Cogs in the Machine | 37.00% | ~73 |
+| Mission Success | 17.00% | ~33 |
+| Green Cube Killer | 15.00% | ~30 |
+| There's No Place Like Home | 15.00% | ~30 |
+| Descendants | 12.00% | ~24 |
+| Path to Salvation | 11.00% | ~22 |
 | The Flawed Teacher | 10.00% | ~20 |
 | Infinity Loop | 10.00% | ~20 |
 | To Infinity and Beyond | 6.00% | ~12 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.50% | ~1 |
 | Laser Sharp | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 306)  
+Progressed: 197 (Ranked 305)  
 Completed: 1 (0.51%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 1 (0.51%) (Ranked 153)
 | 2023-09-03 | 151 | 1 |
 | 2023-09-04 | 167 | 1 |
 | 2023-09-05 | 181 | 1 |
-| 2023-09-06 | 195 | 1 |
+| 2023-09-06 | 197 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

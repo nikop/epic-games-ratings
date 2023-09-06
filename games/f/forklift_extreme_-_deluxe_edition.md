@@ -18,7 +18,7 @@
 | Penalty? What penalty? | 0.00% | ~0 |
 | Prankster | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 533)  
+Progressed: 1 (Ranked 534)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |

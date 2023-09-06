@@ -14,12 +14,12 @@ Rating: 4.58 (Ranked 431)
 | Vertebrate hunter | 1.00% | ~199 |
 | Smooth as silk | 0.90% | ~179 |
 | Metal Age | 0.60% | ~119 |
-| Hang time | 0.50% | ~99 |
-| Mastermind | 0.50% | ~99 |
+| Hang time | 0.50% | ~100 |
+| Mastermind | 0.50% | ~100 |
 | Something Wicked | 0.30% | ~60 |
 | The Key | 0.20% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,899 (Ranked 108)  
+Progressed: 19,900 (Ranked 108)  
 Completed: 18 (0.09%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 18 (0.09%) (Ranked 221)
 | 2023-09-03 | 19,889 | 18 |
 | 2023-09-04 | 19,893 | 18 |
 | 2023-09-05 | 19,898 | 18 |
-| 2023-09-06 | 19,899 | 18 |
+| 2023-09-06 | 19,900 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

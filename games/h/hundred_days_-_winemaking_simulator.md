@@ -6,8 +6,8 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 33.00% | ~527 |
-| It's a good start | 9.00% | ~144 |
+| Bye Bye | 33.00% | ~528 |
+| It's a good start | 8.00% | ~128 |
 | Bonjour! | 6.00% | ~96 |
 | Quack | 6.00% | ~96 |
 | The Assistant | 5.00% | ~80 |
@@ -17,12 +17,12 @@ Number of Ratings: 7,669  (23.09.2022)
 | Better than nothing? | 4.00% | ~64 |
 | Keep the doctor away | 3.00% | ~48 |
 | Surprise of Langhe | 3.00% | ~48 |
-| Famous | 3.00% | ~48 |
 | A lot of space | 2.00% | ~32 |
 | A big garage | 2.00% | ~32 |
 | Big Money | 2.00% | ~32 |
 | Millionaire | 2.00% | ~32 |
 | Exotic | 2.00% | ~32 |
+| Famous | 2.00% | ~32 |
 | What is that? A castle? | 1.00% | ~16 |
 | Pastry Chef | 1.00% | ~16 |
 | Welcome to the club | 1.00% | ~16 |
@@ -32,13 +32,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Treasure of Roero | 0.70% | ~11 |
 | Knight of Langhe | 0.60% | ~10 |
 | King of red wines | 0.40% | ~6 |
-| King of white wines | 0.30% | ~5 |
 | Sales Expert | 0.30% | ~5 |
-| Big deals | 0.30% | ~5 |
+| King of white wines | 0.20% | ~3 |
+| Big deals | 0.20% | ~3 |
 | Master Winemaker | 0.20% | ~3 |
 | Unsuitable Terroir | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,598 (Ranked 187)  
+Progressed: 1,601 (Ranked 187)  
 Completed: 3 (0.19%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 3 (0.19%) (Ranked 196)
 | 2023-09-03 | 1,127 | 3 |
 | 2023-09-04 | 1,303 | 3 |
 | 2023-09-05 | 1,465 | 3 |
-| 2023-09-06 | 1,598 | 3 |
+| 2023-09-06 | 1,601 | 3 |
 ## Awards
 Max (Relaxing): 203  (Ranked 273)  
 Sum: 1,458 (Ranked 224)  

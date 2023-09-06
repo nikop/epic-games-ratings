@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661857,
+  "EOS_Progressed": 661858,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14100,6 +14100,11 @@
       "Time": "2023-09-06T22:04:28.5857283+00:00",
       "NumProgressed": 661857,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-06T23:04:02.7668517+00:00",
+      "NumProgressed": 661858,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14111,7 +14116,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476537
+      "UsersEstimate": 476538
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14119,7 +14124,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383877
+      "UsersEstimate": 383878
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14494,15 +14499,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661857,
+      "Progressed": 661858,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-06T22:04:28.5857278+00:00",
+  "LastChanged_Achievements": "2023-09-06T23:04:02.7668512+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-06T21:58:55.7247965+00:00",
-  "LastUpdate_Achievements": "2023-09-06T22:04:28.5858561+00:00"
+  "LastUpdate_Ratings": "2023-09-06T22:58:37.0542146+00:00",
+  "LastUpdate_Achievements": "2023-09-06T23:04:02.7669707+00:00"
 }

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 72.00% | ~246 |
+| Dash Crash | 73.00% | ~249 |
 | Be water, my friend | 65.00% | ~222 |
-| Snake Eyes | 61.00% | ~208 |
+| Snake Eyes | 62.00% | ~211 |
 | Fireball | 53.00% | ~181 |
 | The King of Flat | 49.00% | ~167 |
 | Hit That Ball | 40.00% | ~136 |
 | Air Slash | 38.00% | ~130 |
 | Eat That Apple | 30.00% | ~102 |
 | Tornado Chaser | 18.00% | ~61 |
-| Bomberman | 12.00% | ~41 |
+| Bomberman | 13.00% | ~44 |
 | Bubble Party | 9.00% | ~31 |
 | The Colossus | 9.00% | ~31 |
-| Floor is Lava | 7.00% | ~24 |
+| Floor is Lava | 8.00% | ~27 |
 | Pim Pam Pum | 7.00% | ~24 |
 | Ambush | 6.00% | ~20 |
 | Dash Crash - Hero Edition | 5.00% | ~17 |
 | Black Belt | 4.00% | ~14 |
 | Quite The Hero | 4.00% | ~14 |
+| Path of the Hero | 2.00% | ~7 |
 | Snake Eyes - Hero Edition | 2.00% | ~7 |
 | The King of Flat - Hero Edition | 2.00% | ~7 |
 | Snakecharmer | 2.00% | ~7 |
 | Apprentice | 2.00% | ~7 |
 | Vertigo | 2.00% | ~7 |
 | Rogue | 2.00% | ~7 |
-| Path of the Hero | 1.00% | ~3 |
 | Hit That Ball - Hero Edition | 1.00% | ~3 |
 | Eat That Apple - Hero Edition | 1.00% | ~3 |
 | Tornado Chaser - Hero Edition | 1.00% | ~3 |

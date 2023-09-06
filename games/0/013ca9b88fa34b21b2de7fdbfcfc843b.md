@@ -14,9 +14,9 @@
 | Clear the Air | 34.00% | ~10 |
 | Captain of Cozy | 34.00% | ~10 |
 | Mist Walker | 31.00% | ~9 |
+| Azoria Beckons | 28.00% | ~8 |
 | Search for the Hairy Grell | 28.00% | ~8 |
 | Lumberjack | 28.00% | ~8 |
-| Azoria Beckons | 24.00% | ~7 |
 | Higher Tax Bracket | 24.00% | ~7 |
 | Azorian Anniversary | 24.00% | ~7 |
 | House Proud | 24.00% | ~7 |

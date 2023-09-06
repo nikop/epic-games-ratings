@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4272,9 +4272,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 674784,
+  "EOS_Progressed": 674799,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 5170,
+  "EOS_NewPlayers": 5163,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19842,6 +19842,11 @@
       "Time": "2023-09-06T22:06:25.6781073+00:00",
       "NumProgressed": 674784,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-09-06T23:05:48.8473901+00:00",
+      "NumProgressed": 674799,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 45,
@@ -19877,7 +19882,7 @@
       "Name": "Anger Management",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -19901,7 +19906,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "ach_bookworm",
@@ -20069,7 +20074,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "ach_magnum_opus",
@@ -20101,7 +20106,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "ach_salvation",
@@ -20165,7 +20170,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 4723
+      "UsersEstimate": 4724
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -20212,22 +20217,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674784,
+      "Progressed": 674799,
       "Completed": 2119
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 324,
-      "Completed": 324
+      "Progressed": 339,
+      "Completed": 339
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-06T20:59:28.7541201+00:00",
-  "LastChanged_Achievements": "2023-09-06T22:06:25.6781069+00:00",
+  "LastChanged_Achievements": "2023-09-06T23:05:48.8473896+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-06T21:59:52.7704995+00:00",
-  "LastUpdate_Achievements": "2023-09-06T22:06:25.6782354+00:00"
+  "LastUpdate_Ratings": "2023-09-06T22:59:24.8304416+00:00",
+  "LastUpdate_Achievements": "2023-09-06T23:05:48.8475568+00:00"
 }

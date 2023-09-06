@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -58,7 +58,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10139,
+  "EOS_Progressed": 10141,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
@@ -4523,6 +4523,11 @@
       "Time": "2023-09-06T22:05:43.3431278+00:00",
       "NumProgressed": 10139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-06T23:05:12.8535592+00:00",
+      "NumProgressed": 10141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4549,9 +4554,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 101
     },
     {
       "ID": "12",
@@ -4599,7 +4604,7 @@
       "Name": "Spore Taste",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "18",
@@ -4615,7 +4620,7 @@
       "Name": "Martian Music",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "2",
@@ -4637,9 +4642,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 101
     },
     {
       "ID": "22",
@@ -4711,7 +4716,7 @@
       "Name": "Captain Drummer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "30",
@@ -4774,7 +4779,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10139,
+      "Progressed": 10141,
       "Completed": 0
     }
   ],
@@ -4782,8 +4787,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-05T17:00:07.0019493+00:00",
-  "LastChanged_Achievements": "2023-09-06T22:05:43.3431271+00:00",
+  "LastChanged_Achievements": "2023-09-06T23:05:12.8535583+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-06T22:00:42.4209424+00:00",
-  "LastUpdate_Achievements": "2023-09-06T22:05:43.3431814+00:00"
+  "LastUpdate_Ratings": "2023-09-06T23:00:08.7472915+00:00",
+  "LastUpdate_Achievements": "2023-09-06T23:05:12.8536852+00:00"
 }
