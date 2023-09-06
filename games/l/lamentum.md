@@ -5,9 +5,9 @@ Rating: 4.37 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The creature | 80.00% | ~254 |
-| Grau Hill | 77.00% | ~245 |
-| A forgotten language | 69.00% | ~219 |
+| The creature | 80.00% | ~255 |
+| Grau Hill | 77.00% | ~246 |
+| A forgotten language | 69.00% | ~220 |
 | Lord Wesley | 34.00% | ~108 |
 | My dear Magda | 28.00% | ~89 |
 | One step down | 27.00% | ~86 |
@@ -17,7 +17,7 @@ Rating: 4.37 (Ranked 740)
 | There is freedom in awakening | 12.00% | ~38 |
 | Ritual | 10.00% | ~32 |
 | Cowardice | 9.00% | ~29 |
-| Bloodrush | 8.00% | ~25 |
+| Bloodrush | 8.00% | ~26 |
 | True magic doesn't exist | 7.00% | ~22 |
 | The moth and the flame | 6.00% | ~19 |
 | Moon Cloudiness Sonata by Danloop | 5.00% | ~16 |
@@ -25,8 +25,8 @@ Rating: 4.37 (Ranked 740)
 | Sacrifice | 3.00% | ~10 |
 | Lamentum | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318 (Ranked 272)  
-Completed: 8 (2.52%) (Ranked 83)  
+Progressed: 319 (Ranked 272)  
+Completed: 8 (2.51%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 8 (2.52%) (Ranked 83)
 | 2023-08-13 | 316 | 8 |
 | 2023-09-04 | 317 | 8 |
 | 2023-09-05 | 318 | 8 |
+| 2023-09-06 | 319 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

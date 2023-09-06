@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3289,9 +3289,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 440706,
+  "EOS_Progressed": 440723,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2326,
+  "EOS_NewPlayers": 2316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18799,6 +18799,11 @@
       "Time": "2023-09-06T19:06:24.6272629+00:00",
       "NumProgressed": 440706,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-06T20:05:09.660752+00:00",
+      "NumProgressed": 440723,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -18826,7 +18831,7 @@
       "Name": "Carrying",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "ACH_CHECKPOINT_VICTORY",
@@ -18858,7 +18863,7 @@
       "Name": "Efficient",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "ACH_EXPLOITATIVE",
@@ -18866,7 +18871,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17628
+      "UsersEstimate": 17629
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -18914,7 +18919,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13222
     },
     {
       "ID": "ACH_JR_50",
@@ -18938,7 +18943,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13222
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -18946,7 +18951,7 @@
       "Name": "Mount \u0026 Gun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "ACH_NUMBAH_ONE",
@@ -18962,7 +18967,7 @@
       "Name": "Personal",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "ACH_PLAY_TO_WIN",
@@ -18978,7 +18983,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17628
+      "UsersEstimate": 17629
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -19042,7 +19047,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13222
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -19066,7 +19071,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13221
+      "UsersEstimate": 13222
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -19074,7 +19079,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22035
+      "UsersEstimate": 22036
     },
     {
       "ID": "ACH_WET_FEET",
@@ -19082,22 +19087,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17628
+      "UsersEstimate": 17629
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 440706,
+      "Progressed": 440723,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-06T19:00:02.0183842+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:06:24.6272623+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:05:09.6607515+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.452052+00:00",
-  "LastUpdate_Ratings": "2023-09-06T19:00:02.0183849+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:06:24.6273816+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:59:07.5213518+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:05:09.6608737+00:00"
 }

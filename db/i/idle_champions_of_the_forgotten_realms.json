@@ -6,7 +6,7 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -6400,9 +6400,9 @@
       "Count": 3399
     }
   ],
-  "EOS_Progressed": 227560,
+  "EOS_Progressed": 227570,
   "EOS_Completed": 2257,
-  "EOS_NewPlayers": 1368,
+  "EOS_NewPlayers": 1367,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -21760,6 +21760,11 @@
       "Time": "2023-09-06T19:07:40.3674949+00:00",
       "NumProgressed": 227560,
       "NumCompleted": 2257
+    },
+    {
+      "Time": "2023-09-06T20:06:03.943736+00:00",
+      "NumProgressed": 227570,
+      "NumCompleted": 2257
     }
   ],
   "TotalAchievements": 520,
@@ -21771,7 +21776,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "objective_completed_10",
@@ -23097,9 +23102,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_completed_20",
@@ -25930,21 +25935,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193834,
+      "Progressed": 193844,
       "Completed": 3405
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227560,
+      "Progressed": 227570,
       "Completed": 2257
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-06T16:59:36.9688528+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:07:40.3674944+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:06:03.9437355+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-06T18:59:57.745851+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:07:40.3702059+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:59:04.2394972+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:06:03.9465133+00:00"
 }

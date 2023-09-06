@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.80% | ~1,820 |
+| A Brief Tour of the Realms | 0.80% | ~1,821 |
 | Beast Intentions | 0.40% | ~910 |
 | The Cursed Farmer | 0.40% | ~910 |
 | The Ring of Regeneration | 0.30% | ~683 |
@@ -16,6 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.20% | ~455 |
 | Terror in the Dark | 0.20% | ~455 |
 | A Mysterious Summons | 0.20% | ~455 |
+| Unearthed Evil | 0.20% | ~455 |
 | The Crumbling Temple | 0.20% | ~455 |
 | Seeking Allies | 0.20% | ~455 |
 | Are Ya Chicken? | 0.20% | ~455 |
@@ -183,7 +184,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~228 |
 | Azaka's Procession - Part 2 | 0.10% | ~228 |
 | Acererak's Puzzle | 0.10% | ~194 |
-| Unearthed Evil | 0.10% | ~228 |
 | No Time To Rest | 0.10% | ~228 |
 | The Mists of Ravenloft | 0.10% | ~228 |
 | The Hunt for Owl-y | 0.10% | ~228 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,560 (Ranked 54)  
-Completed: 2,257 (0.99%) (Ranked 124)  
+Progressed: 227,570 (Ranked 54)  
+Completed: 2,257 (0.99%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -666,7 +666,7 @@ Completed: 2,257 (0.99%) (Ranked 124)
 | 2023-09-03 | 226,879 | 2,246 |
 | 2023-09-04 | 227,081 | 2,250 |
 | 2023-09-05 | 227,381 | 2,254 |
-| 2023-09-06 | 227,560 | 2,257 |
+| 2023-09-06 | 227,570 | 2,257 |
 ## Awards
 Max (Diverse Characters): 5,234  (Ranked 68)  
 Sum: 31,425 (Ranked 39)  

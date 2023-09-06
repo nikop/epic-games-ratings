@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16924,
+  "EOS_Progressed": 16925,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -11002,6 +11002,11 @@
       "Time": "2023-09-06T19:05:41.9556496+00:00",
       "NumProgressed": 16924,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-06T20:04:37.8348103+00:00",
+      "NumProgressed": 16925,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -11013,7 +11018,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4569
+      "UsersEstimate": 4570
     },
     {
       "ID": "Burning_For_You",
@@ -11029,7 +11034,7 @@
       "Name": "Deadline",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -11053,7 +11058,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "Fireworks",
@@ -11109,7 +11114,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8631
+      "UsersEstimate": 8632
     },
     {
       "ID": "Sole_Survivor",
@@ -11140,15 +11145,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16924,
+      "Progressed": 16925,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:05:41.9556492+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:04:37.8348098+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.9189104+00:00",
-  "LastUpdate_Ratings": "2023-09-06T19:01:41.199071+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:05:41.9557236+00:00"
+  "LastUpdate_Ratings": "2023-09-06T20:00:21.5816101+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:04:37.8348992+00:00"
 }

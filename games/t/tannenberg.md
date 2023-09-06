@@ -6,47 +6,47 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~115,062 |
-| Comeback | 82.00% | ~106,012 |
-| Information is Key | 80.00% | ~103,426 |
-| Unlucky | 71.00% | ~91,791 |
-| Anarchist | 68.00% | ~87,912 |
-| Wallhack | 65.00% | ~84,034 |
-| Steady Supply | 60.00% | ~77,570 |
-| Lucky Shot | 53.00% | ~68,520 |
-| Forward Observer | 52.00% | ~67,227 |
-| Ring Ring! | 52.00% | ~67,227 |
-| Bossing Around | 45.00% | ~58,177 |
-| Frostbite | 45.00% | ~58,177 |
-| Night Owl | 44.00% | ~56,885 |
-| Strength in Numbers | 44.00% | ~56,885 |
-| Fog of War | 41.00% | ~53,006 |
-| Anyone Else? | 39.00% | ~50,420 |
-| Rasputin | 39.00% | ~50,420 |
-| Stronghold Denied | 39.00% | ~50,420 |
-| Hydra | 36.00% | ~46,542 |
-| This Belongs to Us Now | 36.00% | ~46,542 |
-| Stronghold | 35.00% | ~45,249 |
-| Leeroy | 33.00% | ~42,663 |
-| Lost Batallion | 33.00% | ~42,663 |
-| This is MY Machine Gun! | 32.00% | ~41,371 |
-| Together As One | 31.00% | ~40,078 |
-| Gavrilo Princip | 27.00% | ~34,906 |
-| Lead Harvest | 25.00% | ~32,321 |
-| Skynet Confirmed | 23.00% | ~29,735 |
-| Kesselschlacht | 22.00% | ~28,442 |
+| Immovable Object | 89.00% | ~115,065 |
+| Comeback | 82.00% | ~106,015 |
+| Information is Key | 80.00% | ~103,429 |
+| Unlucky | 71.00% | ~91,793 |
+| Anarchist | 68.00% | ~87,914 |
+| Wallhack | 65.00% | ~84,036 |
+| Steady Supply | 60.00% | ~77,572 |
+| Lucky Shot | 53.00% | ~68,522 |
+| Forward Observer | 52.00% | ~67,229 |
+| Ring Ring! | 52.00% | ~67,229 |
+| Bossing Around | 45.00% | ~58,179 |
+| Frostbite | 45.00% | ~58,179 |
+| Night Owl | 44.00% | ~56,886 |
+| Strength in Numbers | 44.00% | ~56,886 |
+| Fog of War | 41.00% | ~53,007 |
+| Anyone Else? | 39.00% | ~50,422 |
+| Rasputin | 39.00% | ~50,422 |
+| Stronghold Denied | 39.00% | ~50,422 |
+| Hydra | 36.00% | ~46,543 |
+| This Belongs to Us Now | 36.00% | ~46,543 |
+| Stronghold | 35.00% | ~45,250 |
+| Leeroy | 33.00% | ~42,664 |
+| Lost Batallion | 33.00% | ~42,664 |
+| This is MY Machine Gun! | 32.00% | ~41,372 |
+| Together As One | 31.00% | ~40,079 |
+| Gavrilo Princip | 27.00% | ~34,907 |
+| Lead Harvest | 25.00% | ~32,322 |
+| Skynet Confirmed | 23.00% | ~29,736 |
+| Kesselschlacht | 22.00% | ~28,443 |
 | Democracy Works! | 20.00% | ~25,857 |
 | Switch, Please! | 19.00% | ~24,564 |
 | I've Seen It All | 18.00% | ~23,271 |
 | Tourist | 18.00% | ~23,271 |
-| At Least This Way I Can Win... | 17.00% | ~21,978 |
-| Oops! | 17.00% | ~21,978 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~20,685 |
+| At Least This Way I Can Win... | 17.00% | ~21,979 |
+| Oops! | 17.00% | ~21,979 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~20,686 |
 | Butcher | 12.00% | ~15,514 |
-| Before the Leaves Fall | 10.00% | ~12,928 |
-| Close Call | 10.00% | ~12,928 |
-| Pinpoint | 10.00% | ~12,928 |
-| Tannenberg | 9.00% | ~11,635 |
+| Before the Leaves Fall | 10.00% | ~12,929 |
+| Close Call | 10.00% | ~12,929 |
+| Pinpoint | 10.00% | ~12,929 |
+| Tannenberg | 9.00% | ~11,636 |
 | For the Emperor | 8.00% | ~10,343 |
 | Hawk Eye | 8.00% | ~10,343 |
 | Equality For All | 7.00% | ~9,050 |
@@ -58,9 +58,9 @@ Number of Ratings: 13,393  (23.09.2022)
 | Gott Mit Uns | 4.00% | ~5,171 |
 | Indivisibiliter ac Inseparabiliter | 4.00% | ~5,171 |
 | Living on the Edge | 4.00% | ~5,171 |
-| Chivalrous | 3.00% | ~3,878 |
-| S nami Bog! | 3.00% | ~3,878 |
-| Za veru, Tsarya i otechestvo | 3.00% | ~3,878 |
+| Chivalrous | 3.00% | ~3,879 |
+| S nami Bog! | 3.00% | ~3,879 |
+| Za veru, Tsarya i otechestvo | 3.00% | ~3,879 |
 | Cheeki Breeki | 2.00% | ~2,586 |
 | Na Nozh! | 2.00% | ~2,586 |
 | Pe aici nu se trece | 2.00% | ~2,586 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,164 |
 | Road to Berlin | 0.60% | ~776 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,283 (Ranked 68)  
+Progressed: 129,286 (Ranked 68)  
 Completed: 29 (0.02%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,10 +213,10 @@ Completed: 29 (0.02%) (Ranked 249)
 | 2023-09-03 | 128,989 | 29 |
 | 2023-09-04 | 129,102 | 29 |
 | 2023-09-05 | 129,212 | 29 |
-| 2023-09-06 | 129,283 | 29 |
+| 2023-09-06 | 129,286 | 29 |
 ## Awards
 Max (Competitive Players): 333  (Ranked 230)  
-Sum: 2,890 (Ranked 171)  
+Sum: 2,891 (Ranked 171)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 59
 | This game has Amazing Characters | 276 |
 | This game is Highly Recommended | 276 |
 | This game has Challenging Combat | 274 |
-| This game has Realistic Visuals | 259 |
+| This game has Realistic Visuals | 260 |
 | This game has a Competitive Community | 256 |
 | This game has Amazing Storytelling | 252 |
 | This game is Educational | 99 |
@@ -376,3 +376,4 @@ Diff (max vs sum): 59
 | 2023-08-31 | 4.39 | - | 333 | 2,887 |
 | 2023-09-03 | 4.39 | - | 333 | 2,888 |
 | 2023-09-05 | 4.39 | - | 333 | 2,890 |
+| 2023-09-06 | 4.39 | - | 333 | 2,891 |

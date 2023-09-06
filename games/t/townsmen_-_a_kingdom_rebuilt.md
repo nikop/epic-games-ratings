@@ -86,6 +86,7 @@ Number of Ratings: 37  (23.09.2022)
 | An honorable departure | 0.50% | ~21 |
 | I've been everywhere VII | 0.50% | ~21 |
 | Impregnable | 0.50% | ~21 |
+| To serve and protect | 0.50% | ~21 |
 | It went unnoticed | 0.40% | ~17 |
 | Brew master | 0.40% | ~17 |
 | Negotiator | 0.40% | ~17 |
@@ -95,7 +96,6 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere VIII | 0.40% | ~17 |
 | I've been everywhere IX | 0.40% | ~17 |
 | I've been everywhere X | 0.40% | ~17 |
-| To serve and protect | 0.40% | ~17 |
 | You shall not pass | 0.40% | ~17 |
 | Chief Inspector | 0.30% | ~13 |
 | LEGEN… wait for it… DARY | 0.30% | ~13 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,257 (Ranked 151)  
+Progressed: 4,258 (Ranked 151)  
 Completed: 3 (0.07%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,6 +186,7 @@ Completed: 3 (0.07%) (Ranked 229)
 | 2023-08-31 | 4,254 | 3 |
 | 2023-09-03 | 4,255 | 3 |
 | 2023-09-04 | 4,257 | 3 |
+| 2023-09-06 | 4,258 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,12 +4,12 @@
 Rating: 4.49 (Ranked 580)  
 Number of Ratings: 248  (23.09.2022)  
 ## Awards
-Max (Realistic Visuals): 36  (Ranked 435)  
-Sum: 291 (Ranked 340)  
-Diff (max vs sum): 95  
+Max (Realistic Visuals): 37  (Ranked 434)  
+Sum: 292 (Ranked 340)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
-| This game has Realistic Visuals | 36 |
+| This game has Realistic Visuals | 37 |
 | This game is Extremely Fun | 34 |
 | This game has Quickly Understood Controls | 32 |
 | This game is Relaxing | 30 |
@@ -115,3 +115,4 @@ Diff (max vs sum): 95
 | 2023-07-27 | 4.48 | - | 36 | 290 |
 | 2023-08-09 | 4.48 | - | 36 | 291 |
 | 2023-09-02 | 4.49 | - | 36 | 291 |
+| 2023-09-06 | 4.49 | - | 37 | 292 |

@@ -27,12 +27,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~14,263 |
 | Take damage to save time | 2.00% | ~14,263 |
 | Bloody Sport | 2.00% | ~449 |
-| Scareless | 1.00% | ~7,131 |
-| Dance of the Praying Mantis | 1.00% | ~7,131 |
-| Qi Gong: Mind | 1.00% | ~7,131 |
-| I know Kung-Fu | 1.00% | ~7,131 |
-| Kung-Fu Tussle | 1.00% | ~7,131 |
-| The best strikes are the ones we avoid | 1.00% | ~224 |
+| Scareless | 1.00% | ~7,132 |
+| Dance of the Praying Mantis | 1.00% | ~7,132 |
+| Qi Gong: Mind | 1.00% | ~7,132 |
+| I know Kung-Fu | 1.00% | ~7,132 |
+| Kung-Fu Tussle | 1.00% | ~7,132 |
+| The best strikes are the ones we avoid | 1.00% | ~225 |
 | Muk Yan Master | 0.90% | ~6,418 |
 | Tiger on Fire | 0.80% | ~5,705 |
 | Source of Flying Daggers | 0.80% | ~5,705 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,148 (Ranked 20)  
+Progressed: 713,157 (Ranked 20)  
 Completed: 12,886 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,15 +196,15 @@ Completed: 12,886 (1.81%) (Ranked 99)
 | 2023-09-03 | 712,929 | 12,882 |
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
-| 2023-09-06 | 713,148 | 12,886 |
+| 2023-09-06 | 713,157 | 12,886 |
 ## Awards
 Max (Great Boss Battles): 6,440  (Ranked 54)  
-Sum: 11,079 (Ranked 80)  
+Sum: 11,080 (Ranked 80)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,440 |
-| This game has Diverse Characters | 581 |
+| This game has Diverse Characters | 582 |
 | This game has Challenging Combat | 547 |
 | This game has Quickly Understood Controls | 544 |
 | This game has Amazing Storytelling | 533 |
@@ -450,4 +450,4 @@ Diff (max vs sum): -26
 | 2023-09-03 | 4.82 | - | 6,430 | 11,053 |
 | 2023-09-04 | 4.82 | - | 6,430 | 11,055 |
 | 2023-09-05 | 4.82 | - | 6,437 | 11,070 |
-| 2023-09-06 | 4.82 | - | 6,440 | 11,079 |
+| 2023-09-06 | 4.82 | - | 6,440 | 11,080 |

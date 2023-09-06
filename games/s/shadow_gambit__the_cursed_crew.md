@@ -24,8 +24,8 @@ Rating: 4.79 (Ranked 88)
 | Jaded Judge | 11.00% | ~67 |
 | Rustic Recipe | 10.00% | ~61 |
 | Tobacco Travesty | 9.00% | ~55 |
+| Accursed Artifacts | 8.00% | ~49 |
 | Lyrical Longing | 8.00% | ~49 |
-| Accursed Artifacts | 7.00% | ~43 |
 | Corsair | 5.00% | ~30 |
 | Freebooter | 4.00% | ~24 |
 | Fully Decked | 4.00% | ~24 |

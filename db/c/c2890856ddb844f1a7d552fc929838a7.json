@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 711,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1185,9 +1185,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 448
+      "UsersEstimate": 455
     },
     {
       "ID": "AC05",
@@ -1217,9 +1217,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 348
     },
     {
       "ID": "AC09",
@@ -1329,9 +1329,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 242
     },
     {
       "ID": "AC23",
@@ -1393,9 +1393,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 384
     },
     {
       "ID": "AC31",
@@ -1497,9 +1497,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 306
     },
     {
       "ID": "AC44",
@@ -1530,8 +1530,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-06T02:57:21.259036+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:03:53.1606497+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:03:25.0824041+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-06T18:58:09.657736+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:03:53.1606953+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:57:42.1532935+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:03:25.0824471+00:00"
 }

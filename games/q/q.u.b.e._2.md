@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.50% | ~1 |
 | Laser Sharp | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 306)  
+Progressed: 193 (Ranked 306)  
 Completed: 1 (0.52%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 1 (0.52%) (Ranked 151)
 | 2023-09-03 | 151 | 1 |
 | 2023-09-04 | 167 | 1 |
 | 2023-09-05 | 181 | 1 |
-| 2023-09-06 | 192 | 1 |
+| 2023-09-06 | 193 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

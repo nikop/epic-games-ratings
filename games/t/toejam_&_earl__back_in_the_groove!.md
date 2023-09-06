@@ -1,7 +1,7 @@
 # ToeJam & Earl: Back in the Groove!
 [Store](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)  
 [View Rawdata](../../db/t/toejam_&_earl__back_in_the_groove!.json)  
-Rating: 4.32 (Ranked 782)  
+Rating: 4.33 (Ranked 774)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -234,3 +234,4 @@ Completed: 6 (0.01%) (Ranked 256)
 | 2023-01-19 | 4.32 | - | - |
 | 2023-03-22 | 4.33 | - | - |
 | 2023-03-31 | 4.33 | 0 | 0 |
+| 2023-09-06 | 4.33 | 0 | 0 |

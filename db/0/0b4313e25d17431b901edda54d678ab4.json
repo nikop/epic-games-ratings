@@ -4,8 +4,8 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
     "PcReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -365,17 +365,17 @@
       "ID": "leviathan03",
       "SetID": "bma0pih",
       "Name": "Flesh fear",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "maxLevel",
       "SetID": "bma0pih",
       "Name": "Max level",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "plague",
@@ -420,8 +420,8 @@
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:08:46.9354273+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:06:51.9032204+00:00",
   "LastUpdate_AppInfo": "2023-09-03T16:57:17.2033406+00:00",
-  "LastUpdate_Ratings": "2023-09-06T19:02:03.5596649+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:08:46.9354421+00:00"
+  "LastUpdate_Ratings": "2023-09-06T20:00:37.1351275+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:06:51.9032565+00:00"
 }

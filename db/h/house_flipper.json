@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1860,9 +1860,9 @@
       "Count": 213
     }
   ],
-  "EOS_Progressed": 20736,
+  "EOS_Progressed": 20737,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8175,6 +8175,11 @@
       "Time": "2023-09-06T17:07:35.3486417+00:00",
       "NumProgressed": 20736,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-06T20:06:28.816332+00:00",
+      "NumProgressed": 20737,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 23,
@@ -8234,7 +8239,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 19492
+      "UsersEstimate": 19493
     },
     {
       "ID": "GameOver",
@@ -8338,7 +8343,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3732
+      "UsersEstimate": 3733
     },
     {
       "ID": "Strongman",
@@ -8369,15 +8374,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 20736,
+      "Progressed": 20737,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-09-02T08:59:57.3767009+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:08:15.0163141+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:06:28.8163315+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:10.565038+00:00",
-  "LastUpdate_Ratings": "2023-09-06T19:02:19.060708+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:08:15.01637+00:00"
+  "LastUpdate_Ratings": "2023-09-06T20:00:48.7657054+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:06:28.816387+00:00"
 }

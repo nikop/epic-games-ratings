@@ -5,10 +5,10 @@
   "Ranking_Rating": 948,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 187,
+  "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1580,
+  "EOS_Progressed": 1581,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
@@ -3543,6 +3543,11 @@
       "Time": "2023-09-06T18:05:39.6216584+00:00",
       "NumProgressed": 1580,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-06T20:05:45.5205007+00:00",
+      "NumProgressed": 1581,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3706,7 +3711,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -3730,7 +3735,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3770,7 +3775,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -3937,7 +3942,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1580,
+      "Progressed": 1581,
       "Completed": 0
     }
   ],
@@ -3945,8 +3950,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-02T18:57:16.3901403+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:07:15.5136085+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:05:45.5205003+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:41.057899+00:00",
-  "LastUpdate_Ratings": "2023-09-06T18:58:49.5354835+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:07:15.5136669+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:58:14.3986401+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:05:45.5205613+00:00"
 }

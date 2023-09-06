@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 78.00% | ~219 |
+| Seeds of War | 78.00% | ~220 |
 | First Blood | 60.00% | ~169 |
 | Aspairagus | 60.00% | ~139 |
 | Triple Kill | 59.00% | ~166 |
-| No Asperascope | 56.00% | ~157 |
-| Survivor | 56.00% | ~129 |
+| No Asperascope | 56.00% | ~158 |
+| Survivor | 56.00% | ~130 |
 | Cornivore | 53.00% | ~149 |
 | I Believe I Can Fly | 49.00% | ~138 |
-| No Diggity | 43.00% | ~99 |
+| No Diggity | 43.00% | ~100 |
 | Early Survivor | 42.00% | ~97 |
-| Bouncemato | 31.00% | ~72 |
 | Amateur Survivor | 31.00% | ~72 |
-| 10K | 30.00% | ~84 |
+| 10K | 30.00% | ~85 |
+| Bouncemato | 30.00% | ~70 |
 | 15K | 28.00% | ~79 |
 | Quick-Draw Pod | 23.00% | ~53 |
 | Drinking Problem | 22.00% | ~62 |
@@ -35,7 +35,7 @@
 | Perfect | 10.00% | ~23 |
 | Expert Survivor | 9.00% | ~21 |
 | Quadsparagus | 9.00% | ~21 |
-| Bring Home The Bacon | 8.00% | ~22 |
+| Bring Home The Bacon | 8.00% | ~23 |
 | Pyromaniac | 6.00% | ~14 |
 | Chick Magnet | 5.00% | ~14 |
 | I Have The High Ground | 5.00% | ~14 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281 (Ranked 280)  
+Progressed: 282 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-02 | 279 | 0 |
 | 2023-09-03 | 280 | 0 |
 | 2023-09-04 | 281 | 0 |
+| 2023-09-06 | 282 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

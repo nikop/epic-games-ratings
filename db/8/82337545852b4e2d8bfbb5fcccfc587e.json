@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 13,
   "EOS_Completed": 1,
@@ -92,9 +94,9 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 62,
+      "Percentage": 69,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "EpicACHV_11",
@@ -108,17 +110,17 @@
       "ID": "EpicACHV_12",
       "SetID": "acn799d",
       "Name": "God Disguised as a Cow",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 46,
+      "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "EpicACHV_14",
@@ -180,9 +182,9 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 46,
+      "Percentage": 54,
       "XP": 70,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "EpicACHV_6",
@@ -212,9 +214,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 54,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -225,9 +227,10 @@
       "Completed": 1
     }
   ],
+  "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:07:22.2379575+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:05:50.134523+00:00",
   "LastUpdate_AppInfo": "2023-09-06T04:57:09.7950789+00:00",
-  "LastUpdate_Ratings": "2023-09-06T19:01:52.6412807+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:07:22.2379711+00:00"
+  "LastUpdate_Ratings": "2023-09-06T20:00:29.6789864+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:05:50.1345359+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 602,
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1241,7 +1241,7 @@
   ],
   "EOS_Progressed": 8853,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12818,8 +12818,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-06T14:03:03.7495467+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:07:59.9650723+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:06:17.9017764+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:39.804786+00:00",
-  "LastUpdate_Ratings": "2023-09-06T19:02:59.8175384+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:07:59.9651946+00:00"
+  "LastUpdate_Ratings": "2023-09-06T20:01:17.3255764+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:06:17.9019039+00:00"
 }

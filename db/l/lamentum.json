@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_Completed": 84,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 318,
+  "EOS_Progressed": 319,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.52,
+  "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -328,6 +328,11 @@
       "Time": "2023-09-05T09:06:16.1863688+00:00",
       "NumProgressed": 318,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-06T20:05:53.5131888+00:00",
+      "NumProgressed": 319,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -379,7 +384,7 @@
       "Name": "Bloodrush",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_06",
@@ -411,7 +416,7 @@
       "Name": "Grau Hill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "achievement_10",
@@ -419,7 +424,7 @@
       "Name": "The creature",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "achievement_11",
@@ -427,7 +432,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_12",
@@ -490,7 +495,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 318,
+      "Progressed": 319,
       "Completed": 8
     }
   ],
@@ -498,8 +503,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:07:27.0461798+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:05:53.5131884+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:06.136809+00:00",
-  "LastUpdate_Ratings": "2023-09-06T18:59:37.5950997+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:07:27.0462+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:58:47.7351198+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:05:53.5132056+00:00"
 }

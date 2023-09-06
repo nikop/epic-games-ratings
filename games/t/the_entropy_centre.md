@@ -10,9 +10,9 @@
 | Command Centre | 51.00% | ~127 |
 | This is a Wall | 45.00% | ~112 |
 | Extendable Bridges | 43.00% | ~107 |
+| Man's Best Friend | 39.00% | ~97 |
 | Chain Reaction | 39.00% | ~97 |
-| Man's Best Friend | 38.00% | ~95 |
-| 48 Attempts | 37.00% | ~92 |
+| 48 Attempts | 38.00% | ~95 |
 | Handyman | 25.00% | ~62 |
 | No Time To Relax | 22.00% | ~55 |
 | Bad Robots | 19.00% | ~47 |

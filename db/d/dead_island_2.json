@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewPlayers": 16,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4266,9 +4266,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 674695,
+  "EOS_Progressed": 674731,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 5195,
+  "EOS_NewPlayers": 5180,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19821,6 +19821,11 @@
       "Time": "2023-09-06T19:07:33.3875016+00:00",
       "NumProgressed": 674695,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-09-06T20:05:58.1479733+00:00",
+      "NumProgressed": 674731,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 45,
@@ -19840,7 +19845,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "ach_ammo_ran",
@@ -19888,7 +19893,7 @@
       "Name": "Bookworm",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "ach_break_a_leg",
@@ -19920,7 +19925,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "ach_doom_buddies",
@@ -19944,7 +19949,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "ach_finisher",
@@ -19958,9 +19963,9 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5398
+      "UsersEstimate": 6073
     },
     {
       "ID": "ach_good_eyesight",
@@ -20022,9 +20027,9 @@
       "ID": "ach_jumbo_keyring",
       "SetID": "7km39fm",
       "Name": "Jumbo Keyring",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2699
     },
     {
       "ID": "ach_knock_down",
@@ -20088,7 +20093,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "ach_secrets_of_la",
@@ -20128,7 +20133,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "ach_the_vcla",
@@ -20152,7 +20157,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -20191,22 +20196,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674695,
+      "Progressed": 674731,
       "Completed": 2119
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 235,
-      "Completed": 235
+      "Progressed": 271,
+      "Completed": 271
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-06T16:00:39.7324358+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:07:33.387501+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:05:58.1479724+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-06T19:00:42.7526978+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:07:33.3876341+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:59:39.5659975+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:05:58.1483168+00:00"
 }

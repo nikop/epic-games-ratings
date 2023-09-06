@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23326,
+  "EOS_Progressed": 23329,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 529,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16195,6 +16195,11 @@
       "Time": "2023-09-06T19:08:44.7903259+00:00",
       "NumProgressed": 23326,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-06T20:06:50.3114014+00:00",
+      "NumProgressed": 23329,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 22,
@@ -16302,7 +16307,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2099
+      "UsersEstimate": 2100
     },
     {
       "ID": "1028",
@@ -16326,7 +16331,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4665
+      "UsersEstimate": 4666
     },
     {
       "ID": "1031",
@@ -16342,7 +16347,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9330
+      "UsersEstimate": 9332
     },
     {
       "ID": "1033",
@@ -16366,7 +16371,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3032
+      "UsersEstimate": 3033
     },
     {
       "ID": "1036",
@@ -16381,15 +16386,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23326,
+      "Progressed": 23329,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-06T19:08:44.7903252+00:00",
+  "LastChanged_Achievements": "2023-09-06T20:06:50.311401+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.1036434+00:00",
-  "LastUpdate_Ratings": "2023-09-06T18:57:45.2656419+00:00",
-  "LastUpdate_Achievements": "2023-09-06T19:08:44.7904361+00:00"
+  "LastUpdate_Ratings": "2023-09-06T19:57:25.1942843+00:00",
+  "LastUpdate_Achievements": "2023-09-06T20:06:50.311512+00:00"
 }
