@@ -4260,9 +4260,9 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 674309,
+  "EOS_Progressed": 674314,
   "EOS_Completed": 2118,
-  "EOS_NewPlayers": 5318,
+  "EOS_NewPlayers": 5311,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19725,6 +19725,11 @@
       "Time": "2023-09-06T01:46:49.313706+00:00",
       "NumProgressed": 674309,
       "NumCompleted": 2118
+    },
+    {
+      "Time": "2023-09-06T02:21:54.7263676+00:00",
+      "NumProgressed": 674314,
+      "NumCompleted": 2118
     }
   ],
   "TotalAchievements": 45,
@@ -19832,7 +19837,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5394
+      "UsersEstimate": 5395
     },
     {
       "ID": "ach_explorer",
@@ -19848,7 +19853,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5394
+      "UsersEstimate": 5395
     },
     {
       "ID": "ach_finisher",
@@ -19864,7 +19869,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5394
+      "UsersEstimate": 5395
     },
     {
       "ID": "ach_good_eyesight",
@@ -19944,7 +19949,7 @@
       "Name": "Zombologist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5394
+      "UsersEstimate": 5395
     },
     {
       "ID": "ach_legendary",
@@ -19968,7 +19973,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5394
+      "UsersEstimate": 5395
     },
     {
       "ID": "ach_mind_over_monster",
@@ -20095,7 +20100,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674309,
+      "Progressed": 674314,
       "Completed": 2118
     }
   ],
@@ -20103,8 +20108,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-05T19:59:05.2782537+00:00",
-  "LastChanged_Achievements": "2023-09-06T01:46:49.3137055+00:00",
+  "LastChanged_Achievements": "2023-09-06T02:21:54.7263669+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-06T01:40:12.0485521+00:00",
-  "LastUpdate_Achievements": "2023-09-06T01:46:49.3138045+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:15:04.8976368+00:00",
+  "LastUpdate_Achievements": "2023-09-06T02:21:54.7265568+00:00"
 }

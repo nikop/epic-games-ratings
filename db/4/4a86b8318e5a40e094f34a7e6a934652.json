@@ -2,7 +2,7 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 104,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
       "Time": "2023-08-29T09:05:59.1773399+00:00",
@@ -366,6 +366,11 @@
       "Time": "2023-09-05T23:03:40.5291549+00:00",
       "NumProgressed": 89,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-06T02:18:46.8349765+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -378,7 +383,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 83,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -400,7 +405,7 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 29
     },
@@ -424,9 +429,9 @@
       "ID": "EAT_AN_ENERGY_BAR",
       "SetID": "aniflfk",
       "Name": "Energy Boost",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -456,7 +461,7 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
       "UsersEstimate": 38
     },
@@ -520,7 +525,7 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 50,
       "UsersEstimate": 57
     },
@@ -537,14 +542,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-06T01:44:34.7631012+00:00",
+  "LastChanged_Achievements": "2023-09-06T02:18:46.8349758+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.6191746+00:00",
-  "LastUpdate_Ratings": "2023-09-06T01:38:51.1495569+00:00",
-  "LastUpdate_Achievements": "2023-09-06T01:44:34.7631162+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:13:10.9633895+00:00",
+  "LastUpdate_Achievements": "2023-09-06T02:18:46.8349952+00:00"
 }

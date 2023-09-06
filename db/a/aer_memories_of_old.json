@@ -392,9 +392,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19490,
+  "EOS_Progressed": 19492,
   "EOS_Completed": 386,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -15192,6 +15192,11 @@
       "Time": "2023-09-06T01:44:51.2836091+00:00",
       "NumProgressed": 19490,
       "NumCompleted": 386
+    },
+    {
+      "Time": "2023-09-06T02:19:09.586754+00:00",
+      "NumProgressed": 19492,
+      "NumCompleted": 386
     }
   ],
   "TotalAchievements": 20,
@@ -15203,7 +15208,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -15211,7 +15216,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "EAST_FINISHED",
@@ -15275,7 +15280,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -15283,7 +15288,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "FOUND_MAMBA",
@@ -15291,7 +15296,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -15307,7 +15312,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "GAME_FINISHED",
@@ -15323,7 +15328,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15007
+      "UsersEstimate": 15009
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15331,7 +15336,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5457
+      "UsersEstimate": 5458
     },
     {
       "ID": "NORTH_FINISHED",
@@ -15355,22 +15360,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3508
+      "UsersEstimate": 3509
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19490,
+      "Progressed": 19492,
       "Completed": 386
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-06T01:44:51.2836087+00:00",
+  "LastChanged_Achievements": "2023-09-06T02:19:09.5867533+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-06T01:41:40.7106982+00:00",
-  "LastUpdate_Achievements": "2023-09-06T01:44:51.2836903+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:17:19.3296966+00:00",
+  "LastUpdate_Achievements": "2023-09-06T02:19:09.5868631+00:00"
 }

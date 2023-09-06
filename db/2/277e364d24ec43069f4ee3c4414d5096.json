@@ -272,7 +272,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106570,
+  "EOS_Progressed": 106574,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 1032,
   "EOS_NewCompleters": 1,
@@ -9812,6 +9812,11 @@
       "Time": "2023-09-06T01:46:28.0120032+00:00",
       "NumProgressed": 106570,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-06T02:21:24.6833708+00:00",
+      "NumProgressed": 106574,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -9831,7 +9836,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 80993
+      "UsersEstimate": 80996
     },
     {
       "ID": "EAwards_10",
@@ -9847,7 +9852,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26642
+      "UsersEstimate": 26644
     },
     {
       "ID": "EAwards_12",
@@ -9895,7 +9900,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38365
+      "UsersEstimate": 38367
     },
     {
       "ID": "EAwards_18",
@@ -9919,7 +9924,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51154
+      "UsersEstimate": 51156
     },
     {
       "ID": "EAwards_20",
@@ -9983,7 +9988,7 @@
       "Name": "One down...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9591
+      "UsersEstimate": 9592
     },
     {
       "ID": "EAwards_28",
@@ -10007,7 +10012,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20248
+      "UsersEstimate": 20249
     },
     {
       "ID": "EAwards_30",
@@ -10095,7 +10100,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12788
+      "UsersEstimate": 12789
     },
     {
       "ID": "EAwards_40",
@@ -10175,7 +10180,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9591
+      "UsersEstimate": 9592
     },
     {
       "ID": "EAwards_6",
@@ -10214,7 +10219,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 106570,
+      "Progressed": 106574,
       "Completed": 40
     }
   ],
@@ -10222,8 +10227,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-01T15:00:01.2211131+00:00",
-  "LastChanged_Achievements": "2023-09-06T01:46:28.012003+00:00",
+  "LastChanged_Achievements": "2023-09-06T02:21:24.6833703+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.1007702+00:00",
-  "LastUpdate_Ratings": "2023-09-06T01:38:41.5097143+00:00",
-  "LastUpdate_Achievements": "2023-09-06T01:46:28.012081+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:12:56.4226875+00:00",
+  "LastUpdate_Achievements": "2023-09-06T02:21:24.6835014+00:00"
 }

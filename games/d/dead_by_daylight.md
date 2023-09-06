@@ -6,31 +6,31 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~25,575 |
-| Handyman | 2.00% | ~17,050 |
-| Zealous | 2.00% | ~17,050 |
-| Not half bad | 2.00% | ~17,050 |
-| Apt Survivor | 2.00% | ~17,050 |
-| Survival Treasures | 2.00% | ~17,050 |
-| Skillful | 2.00% | ~17,050 |
-| Make Some Noise | 2.00% | ~17,050 |
-| MU/TH/UR Dearest | 2.00% | ~17,050 |
-| The Grand Sacrifice | 1.00% | ~8,525 |
-| Agonizing Escape | 1.00% | ~8,525 |
-| Backdoor Escape | 1.00% | ~8,525 |
-| No one left behind | 1.00% | ~8,525 |
-| Medic | 1.00% | ~8,525 |
-| Nerves of steel | 1.00% | ~8,525 |
-| Perfect Escape | 1.00% | ~8,525 |
-| Perfect Killing | 1.00% | ~8,525 |
-| Bloody Millionaire | 1.00% | ~8,525 |
-| I | 1.00% | ~8,525 |
-| Engineer | 1.00% | ~8,525 |
-| Sorted | 1.00% | ~8,525 |
-| Healthy Obsession | 1.00% | ~8,525 |
-| Resurgence | 1.00% | ~8,525 |
-| Preemptive Strike | 1.00% | ~8,525 |
-| Humanitarian | 1.00% | ~8,525 |
+| It wakes | 3.00% | ~25,577 |
+| Handyman | 2.00% | ~17,051 |
+| Zealous | 2.00% | ~17,051 |
+| Not half bad | 2.00% | ~17,051 |
+| Apt Survivor | 2.00% | ~17,051 |
+| Survival Treasures | 2.00% | ~17,051 |
+| Skillful | 2.00% | ~17,051 |
+| Make Some Noise | 2.00% | ~17,051 |
+| MU/TH/UR Dearest | 2.00% | ~17,051 |
+| The Grand Sacrifice | 1.00% | ~8,526 |
+| Agonizing Escape | 1.00% | ~8,526 |
+| Backdoor Escape | 1.00% | ~8,526 |
+| No one left behind | 1.00% | ~8,526 |
+| Medic | 1.00% | ~8,526 |
+| Nerves of steel | 1.00% | ~8,526 |
+| Perfect Escape | 1.00% | ~8,526 |
+| Perfect Killing | 1.00% | ~8,526 |
+| Bloody Millionaire | 1.00% | ~8,526 |
+| I | 1.00% | ~8,526 |
+| Engineer | 1.00% | ~8,526 |
+| Sorted | 1.00% | ~8,526 |
+| Healthy Obsession | 1.00% | ~8,526 |
+| Resurgence | 1.00% | ~8,526 |
+| Preemptive Strike | 1.00% | ~8,526 |
+| Humanitarian | 1.00% | ~8,526 |
 | I've got your back | 0.90% | ~7,673 |
 | Risk it all | 0.90% | ~7,673 |
 | Terror of LV-426 | 0.90% | ~7,673 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~853 |
 | Adept Ripley | 0.10% | ~853 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 852,502 (Ranked 15)  
+Progressed: 852,557 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-03 | 845,727 | 48 |
 | 2023-09-04 | 849,226 | 48 |
 | 2023-09-05 | 852,172 | 48 |
-| 2023-09-06 | 852,502 | 48 |
+| 2023-09-06 | 852,557 | 48 |
 ## Awards
 Max (Diverse Characters): 31,976  (Ranked 15)  
 Sum: 250,511 (Ranked 11)  

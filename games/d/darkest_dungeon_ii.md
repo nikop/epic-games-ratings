@@ -7,39 +7,39 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Place to Lay Your Head | 93.00% | ~108,777 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~81,875 |
-| A Clear Conscience | 69.00% | ~80,705 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~81,876 |
+| A Clear Conscience | 69.00% | ~80,706 |
 | Unleash Hell | 68.00% | ~79,536 |
 | Unfulfilled Desires | 68.00% | ~79,536 |
-| Funny Guy | 67.00% | ~78,366 |
-| Unshackled | 67.00% | ~78,366 |
-| Long Live the King | 66.00% | ~77,196 |
+| Funny Guy | 67.00% | ~78,367 |
+| Unshackled | 67.00% | ~78,367 |
+| Long Live the King | 66.00% | ~77,197 |
 | Resurrection | 62.00% | ~72,518 |
 | Wyrdly Reconstructed | 62.00% | ~72,518 |
-| Boxcar Kid | 60.00% | ~70,178 |
-| Rush Hour | 60.00% | ~70,178 |
-| To Grandmother's House | 60.00% | ~70,178 |
+| Boxcar Kid | 60.00% | ~70,179 |
+| Rush Hour | 60.00% | ~70,179 |
+| To Grandmother's House | 60.00% | ~70,179 |
 | Serenity Now! | 53.00% | ~61,991 |
 | Hope Rekindled | 50.00% | ~58,482 |
-| Ramble On | 49.00% | ~57,312 |
+| Ramble On | 49.00% | ~57,313 |
 | Nope | 48.00% | ~56,143 |
-| This Looks Familiar | 38.00% | ~44,446 |
+| This Looks Familiar | 38.00% | ~44,447 |
 | Now Stay Dead | 37.00% | ~43,277 |
 | Harvest Festival | 36.00% | ~42,107 |
 | Hot Air | 36.00% | ~42,107 |
-| Merry Time | 35.00% | ~40,937 |
+| Merry Time | 35.00% | ~40,938 |
 | Creep and Sleep | 33.00% | ~38,598 |
-| Overdue Notice | 32.00% | ~37,428 |
+| Overdue Notice | 32.00% | ~37,429 |
 | Whale | 31.00% | ~36,259 |
-| Banishment | 30.00% | ~35,089 |
+| Banishment | 30.00% | ~35,090 |
 | FNG | 29.00% | ~33,920 |
-| Predator | 24.00% | ~28,071 |
-| Reverse Banditry | 24.00% | ~28,071 |
-| Autodidact | 24.00% | ~28,071 |
+| Predator | 24.00% | ~28,072 |
+| Reverse Banditry | 24.00% | ~28,072 |
+| Autodidact | 24.00% | ~28,072 |
 | Meat and Greet | 22.00% | ~25,732 |
-| Spelunker | 21.00% | ~24,562 |
-| Eyes Up | 21.00% | ~24,562 |
-| Road Trip | 21.00% | ~24,562 |
+| Spelunker | 21.00% | ~24,563 |
+| Eyes Up | 21.00% | ~24,563 |
+| Road Trip | 21.00% | ~24,563 |
 | It Rings a Bell | 19.00% | ~22,223 |
 | Escape from the Black Hole | 18.00% | ~21,054 |
 | It Happens | 17.00% | ~19,884 |
@@ -53,7 +53,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 11.00% | ~12,866 |
 | Body of Work | 9.00% | ~10,527 |
 | Utopia | 8.00% | ~9,357 |
-| Hat Trick | 7.00% | ~8,187 |
+| Hat Trick | 7.00% | ~8,188 |
 | Ichthyophobic | 5.00% | ~5,848 |
 | No More Mouths to Feed | 5.00% | ~5,848 |
 | The World As It Was | 4.00% | ~4,679 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116,964 (Ranked 71)  
+Progressed: 116,965 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 1 (0.00%) (Ranked 270)
 | 2023-09-03 | 116,781 | 1 |
 | 2023-09-04 | 116,880 | 1 |
 | 2023-09-05 | 116,958 | 1 |
-| 2023-09-06 | 116,964 | 1 |
+| 2023-09-06 | 116,965 | 1 |
 ## Awards
 Max (Character Customization): 7,368  (Ranked 48)  
 Sum: 19,197 (Ranked 56)  

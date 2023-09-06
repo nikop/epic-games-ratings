@@ -15,9 +15,9 @@ Rating: 4.30 (Ranked 798)
 | The Shaman | 47.00% | ~71 |
 | The Penguin | 45.00% | ~68 |
 | The Magician | 42.00% | ~64 |
+| The Tunneler | 39.00% | ~59 |
 | Level Up!! | 38.00% | ~58 |
 | The Shield | 38.00% | ~58 |
-| The Tunneler | 38.00% | ~58 |
 | Kill-streak | 31.00% | ~47 |
 | Topped up | 28.00% | ~43 |
 | The Bird | 28.00% | ~43 |

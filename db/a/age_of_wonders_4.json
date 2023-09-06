@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -6182,9 +6182,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 413
     },
     {
       "ID": "25",
@@ -6469,8 +6469,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-04T21:59:16.1438345+00:00",
-  "LastChanged_Achievements": "2023-09-06T01:44:38.5026367+00:00",
+  "LastChanged_Achievements": "2023-09-06T02:18:52.1025244+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.1912203+00:00",
-  "LastUpdate_Ratings": "2023-09-06T01:40:53.6782393+00:00",
-  "LastUpdate_Achievements": "2023-09-06T01:44:38.5026984+00:00"
+  "LastUpdate_Ratings": "2023-09-06T02:16:05.0007332+00:00",
+  "LastUpdate_Achievements": "2023-09-06T02:18:52.1026136+00:00"
 }

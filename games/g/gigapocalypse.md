@@ -13,8 +13,8 @@
 | Math Wizard | 67.00% | ~119 |
 | Destroy Erase Improve | 66.00% | ~117 |
 | Power Overload | 63.00% | ~112 |
-| Quite A Snack | 59.00% | ~104 |
-| Impenetrable Skin | 57.00% | ~101 |
+| Quite A Snack | 60.00% | ~106 |
+| Impenetrable Skin | 58.00% | ~103 |
 | Overwhelming Power | 56.00% | ~99 |
 | Supreme Power | 45.00% | ~80 |
 | Chomp Chomp! | 45.00% | ~80 |
