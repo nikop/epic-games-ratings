@@ -8,18 +8,18 @@
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 26.61% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.64% |
-| 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 9 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24.29% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.03% |
 | 12 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.86% |
-| 15 | [Island Cities](games/i/island_cities.md) | 18.37% |
+| 15 | [Island Cities](games/i/island_cities.md) | 18.30% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
-| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.09% |
+| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.08% |
 | 21 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |
@@ -135,22 +135,22 @@
 | 133 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 134 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.69% |
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
-| 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
-| 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 138 | [Haven](games/h/haven.md) | 0.63% |
-| 139 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
-| 139 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
-| 141 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
-| 141 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
-| 143 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
-| 144 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
-| 145 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.56% |
-| 145 | [Grindstone](games/g/grindstone.md) | 0.56% |
-| 147 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
-| 147 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.55% |
-| 147 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
-| 150 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.54% |
-| 151 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
+| 135 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.68% |
+| 137 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
+| 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
+| 139 | [Haven](games/h/haven.md) | 0.63% |
+| 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
+| 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
+| 142 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
+| 142 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
+| 144 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
+| 145 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
+| 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.56% |
+| 146 | [Grindstone](games/g/grindstone.md) | 0.56% |
+| 148 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
+| 148 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 150 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
+| 150 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.53% |
 | 152 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 152 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 154 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
