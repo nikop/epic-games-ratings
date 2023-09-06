@@ -26,9 +26,9 @@ Rating: 4.55 (Ranked 488)
 | Convenient Transport | 7.00% | ~220 |
 | Please Make it Stop! | 7.00% | ~220 |
 | Sightseeing | 6.00% | ~188 |
+| Necessary Enhancement | 6.00% | ~188 |
 | From the Past | 6.00% | ~188 |
 | Access Granted | 5.00% | ~157 |
-| Necessary Enhancement | 5.00% | ~157 |
 | All in Good Health | 5.00% | ~157 |
 | Oats | 4.00% | ~126 |
 | What They Hide From Us | 4.00% | ~126 |

@@ -495,7 +495,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15049,
+  "EOS_Progressed": 15050,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -9640,6 +9640,11 @@
       "Time": "2023-09-06T00:04:44.195494+00:00",
       "NumProgressed": 15049,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-06T05:04:39.3850251+00:00",
+      "NumProgressed": 15050,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9699,7 +9704,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "tpote_achievement_16",
@@ -9723,7 +9728,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "tpote_achievement_19",
@@ -9771,7 +9776,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "tpote_achievement_24",
@@ -9779,7 +9784,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "tpote_achievement_25",
@@ -9955,7 +9960,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "tpote_achievement_8",
@@ -9971,22 +9976,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5267
+      "UsersEstimate": 5268
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15049,
+      "Progressed": 15050,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-06T04:04:34.3998321+00:00",
+  "LastChanged_Achievements": "2023-09-06T05:04:39.3850245+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-06T04:01:24.738395+00:00",
-  "LastUpdate_Achievements": "2023-09-06T04:04:34.3999298+00:00"
+  "LastUpdate_Ratings": "2023-09-06T05:02:17.6606264+00:00",
+  "LastUpdate_Achievements": "2023-09-06T05:04:39.3851239+00:00"
 }

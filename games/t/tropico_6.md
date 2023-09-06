@@ -6,14 +6,14 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,793 |
-| Un-Lonely Island | 47.00% | ~2,346 |
-| The Beginning of a Servantship | 46.00% | ~2,296 |
+| Just One...More...Term... | 76.00% | ~3,795 |
+| Un-Lonely Island | 47.00% | ~2,347 |
+| The Beginning of a Servantship | 46.00% | ~2,297 |
 | Trade Is My Trait | 37.00% | ~1,847 |
 | Number 18 | 24.00% | ~1,198 |
-| We Don't Have Time For That | 19.00% | ~948 |
-| The Governator | 18.00% | ~898 |
-| The Legend of Langostino | 17.00% | ~848 |
+| We Don't Have Time For That | 19.00% | ~949 |
+| The Governator | 18.00% | ~899 |
+| The Legend of Langostino | 17.00% | ~849 |
 | Caribbean Comrade | 16.00% | ~799 |
 | The Dreamer of Dreams | 16.00% | ~799 |
 | Go Sovereigns! | 11.00% | ~549 |
@@ -24,11 +24,11 @@ Number of Ratings: 398  (23.09.2022)
 | Double Trouble | 8.00% | ~399 |
 | Firestarter | 8.00% | ~399 |
 | Make Tropico Great Again! | 8.00% | ~399 |
-| I Owe You Nothing | 7.00% | ~349 |
-| French Connection | 7.00% | ~349 |
-| Don't Panic! | 6.00% | ~299 |
-| Computer Says "No" | 6.00% | ~299 |
-| Beware The Betman | 6.00% | ~299 |
+| I Owe You Nothing | 7.00% | ~350 |
+| French Connection | 7.00% | ~350 |
+| Don't Panic! | 6.00% | ~300 |
+| Computer Says "No" | 6.00% | ~300 |
+| Beware The Betman | 6.00% | ~300 |
 | Viva Tropico! | 5.00% | ~250 |
 | Watch The World Burn | 5.00% | ~250 |
 | Fairy Tale Come True | 5.00% | ~250 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~45 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,991 (Ranked 149)  
+Progressed: 4,993 (Ranked 149)  
 Completed: 2 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,6 +186,7 @@ Completed: 2 (0.04%) (Ranked 239)
 | 2023-09-03 | 4,974 | 2 |
 | 2023-09-04 | 4,984 | 2 |
 | 2023-09-05 | 4,991 | 2 |
+| 2023-09-06 | 4,993 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 340)  
 Sum: 682 (Ranked 280)  

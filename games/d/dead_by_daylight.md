@@ -6,44 +6,44 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~25,581 |
-| Handyman | 2.00% | ~17,054 |
-| Zealous | 2.00% | ~17,054 |
-| Not half bad | 2.00% | ~17,054 |
-| Apt Survivor | 2.00% | ~17,054 |
-| Survival Treasures | 2.00% | ~17,054 |
-| Skillful | 2.00% | ~17,054 |
-| Make Some Noise | 2.00% | ~17,054 |
-| MU/TH/UR Dearest | 2.00% | ~17,054 |
-| The Grand Sacrifice | 1.00% | ~8,527 |
-| Agonizing Escape | 1.00% | ~8,527 |
-| Backdoor Escape | 1.00% | ~8,527 |
-| No one left behind | 1.00% | ~8,527 |
-| Medic | 1.00% | ~8,527 |
-| Nerves of steel | 1.00% | ~8,527 |
-| Perfect Escape | 1.00% | ~8,527 |
-| Perfect Killing | 1.00% | ~8,527 |
-| Bloody Millionaire | 1.00% | ~8,527 |
-| I | 1.00% | ~8,527 |
-| Engineer | 1.00% | ~8,527 |
-| Sorted | 1.00% | ~8,527 |
-| Healthy Obsession | 1.00% | ~8,527 |
-| Resurgence | 1.00% | ~8,527 |
-| Preemptive Strike | 1.00% | ~8,527 |
-| Humanitarian | 1.00% | ~8,527 |
-| I've got your back | 0.90% | ~7,674 |
-| Risk it all | 0.90% | ~7,674 |
-| Close Shave | 0.90% | ~7,674 |
-| Terror of LV-426 | 0.90% | ~7,674 |
+| It wakes | 3.00% | ~25,584 |
+| Handyman | 2.00% | ~17,056 |
+| Zealous | 2.00% | ~17,056 |
+| Not half bad | 2.00% | ~17,056 |
+| Apt Survivor | 2.00% | ~17,056 |
+| Survival Treasures | 2.00% | ~17,056 |
+| Skillful | 2.00% | ~17,056 |
+| Make Some Noise | 2.00% | ~17,056 |
+| MU/TH/UR Dearest | 2.00% | ~17,056 |
+| The Grand Sacrifice | 1.00% | ~8,528 |
+| Agonizing Escape | 1.00% | ~8,528 |
+| Backdoor Escape | 1.00% | ~8,528 |
+| No one left behind | 1.00% | ~8,528 |
+| Medic | 1.00% | ~8,528 |
+| Nerves of steel | 1.00% | ~8,528 |
+| Perfect Escape | 1.00% | ~8,528 |
+| Perfect Killing | 1.00% | ~8,528 |
+| Bloody Millionaire | 1.00% | ~8,528 |
+| I | 1.00% | ~8,528 |
+| Engineer | 1.00% | ~8,528 |
+| Sorted | 1.00% | ~8,528 |
+| Healthy Obsession | 1.00% | ~8,528 |
+| Resurgence | 1.00% | ~8,528 |
+| Preemptive Strike | 1.00% | ~8,528 |
+| Humanitarian | 1.00% | ~8,528 |
+| I've got your back | 0.90% | ~7,675 |
+| Risk it all | 0.90% | ~7,675 |
+| Close Shave | 0.90% | ~7,675 |
+| Terror of LV-426 | 0.90% | ~7,675 |
 | Apt Killer | 0.80% | ~6,822 |
 | II | 0.80% | ~6,822 |
 | Wounded Healer | 0.80% | ~6,822 |
 | Second Act | 0.80% | ~6,822 |
-| Vulture | 0.70% | ~5,969 |
-| III | 0.70% | ~5,969 |
-| First to the Punch | 0.60% | ~5,116 |
-| Every Last Drop | 0.60% | ~5,116 |
-| With Scars to Show | 0.60% | ~5,116 |
+| Vulture | 0.70% | ~5,970 |
+| III | 0.70% | ~5,970 |
+| First to the Punch | 0.60% | ~5,117 |
+| Every Last Drop | 0.60% | ~5,117 |
+| With Scars to Show | 0.60% | ~5,117 |
 | Blood on your hands | 0.50% | ~4,264 |
 | Made it out alive! | 0.50% | ~4,264 |
 | Gifts for the Fog | 0.50% | ~4,264 |
@@ -85,6 +85,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Serial Killer | 0.30% | ~2,558 |
 | Game Over | 0.30% | ~2,558 |
 | Party Crasher | 0.30% | ~2,558 |
+| Outrage | 0.30% | ~2,558 |
 | Devoted Gatekeeping | 0.30% | ~2,558 |
 | Broken Bodies | 0.30% | ~2,558 |
 | Selfless Survival | 0.30% | ~2,558 |
@@ -92,20 +93,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Insult and Injury | 0.30% | ~2,558 |
 | Outrun the Overlap | 0.30% | ~2,558 |
 | Rebuilding The Borgo | 0.30% | ~2,558 |
-| Blood in your mouth | 0.20% | ~1,705 |
-| Looter | 0.20% | ~1,705 |
-| Whiffing to Success | 0.20% | ~1,705 |
-| Outrage | 0.20% | ~1,705 |
-| Heavy Burden | 0.20% | ~1,705 |
-| Shrine Apparatus | 0.20% | ~1,705 |
-| I See You | 0.20% | ~1,705 |
-| Power Moves | 0.20% | ~1,705 |
-| Punch Drunk | 0.20% | ~1,705 |
-| Prowler | 0.20% | ~1,705 |
-| Triage | 0.20% | ~1,705 |
-| High Speed Pursuit | 0.20% | ~1,705 |
-| Hack the Mainframe | 0.20% | ~1,705 |
-| Kitted Out | 0.20% | ~1,705 |
+| Blood in your mouth | 0.20% | ~1,706 |
+| Looter | 0.20% | ~1,706 |
+| Whiffing to Success | 0.20% | ~1,706 |
+| Heavy Burden | 0.20% | ~1,706 |
+| Shrine Apparatus | 0.20% | ~1,706 |
+| I See You | 0.20% | ~1,706 |
+| Power Moves | 0.20% | ~1,706 |
+| Punch Drunk | 0.20% | ~1,706 |
+| Prowler | 0.20% | ~1,706 |
+| Triage | 0.20% | ~1,706 |
+| High Speed Pursuit | 0.20% | ~1,706 |
+| Hack the Mainframe | 0.20% | ~1,706 |
+| Kitted Out | 0.20% | ~1,706 |
 | A feast for the Entity | 0.10% | ~853 |
 | Cripple them all | 0.10% | ~853 |
 | The Grind | 0.10% | ~853 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~853 |
 | Adept Ripley | 0.10% | ~853 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 852,712 (Ranked 15)  
+Progressed: 852,786 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-03 | 845,727 | 48 |
 | 2023-09-04 | 849,226 | 48 |
 | 2023-09-05 | 852,172 | 48 |
-| 2023-09-06 | 852,712 | 48 |
+| 2023-09-06 | 852,786 | 48 |
 ## Awards
 Max (Diverse Characters): 31,976  (Ranked 15)  
 Sum: 250,511 (Ranked 11)  

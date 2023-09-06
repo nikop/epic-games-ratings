@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10218,
+  "EOS_Progressed": 10219,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1381,6 +1381,11 @@
       "Time": "2023-09-01T22:03:21.341315+00:00",
       "NumProgressed": 10218,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-06T05:04:12.0527393+00:00",
+      "NumProgressed": 10219,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1438,9 +1443,9 @@
       "ID": "ACH_CAR_WASH",
       "SetID": "9002fpg",
       "Name": "car wash",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1496,7 +1501,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1552,7 +1557,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7868
+      "UsersEstimate": 7869
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -1600,7 +1605,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5824
+      "UsersEstimate": 5825
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1616,7 +1621,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9809
+      "UsersEstimate": 9810
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1688,7 +1693,7 @@
       "Name": "mittens",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_TERMINAL_DAMAGE",
@@ -1696,7 +1701,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -1704,7 +1709,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1728,22 +1733,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7357
+      "UsersEstimate": 7358
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10218,
+      "Progressed": 10219,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-06T04:04:10.1790437+00:00",
+  "LastChanged_Achievements": "2023-09-06T05:04:12.0527386+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:23.8237643+00:00",
-  "LastUpdate_Ratings": "2023-09-06T03:58:35.6814859+00:00",
-  "LastUpdate_Achievements": "2023-09-06T04:04:10.1790853+00:00"
+  "LastUpdate_Ratings": "2023-09-06T04:58:56.8508321+00:00",
+  "LastUpdate_Achievements": "2023-09-06T05:04:12.0527847+00:00"
 }

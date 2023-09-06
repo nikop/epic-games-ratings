@@ -3586,9 +3586,9 @@
       "Count": 279
     }
   ],
-  "EOS_Progressed": 242774,
+  "EOS_Progressed": 242775,
   "EOS_Completed": 822,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 745,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -18656,6 +18656,11 @@
       "Time": "2023-09-06T03:04:17.8073372+00:00",
       "NumProgressed": 242774,
       "NumCompleted": 822
+    },
+    {
+      "Time": "2023-09-06T05:05:15.2502661+00:00",
+      "NumProgressed": 242775,
+      "NumCompleted": 822
     }
   ],
   "TotalAchievements": 39,
@@ -18675,7 +18680,7 @@
       "Name": "Cannibanana",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4855
+      "UsersEstimate": 4856
     },
     {
       "ID": "AchievementBatGoatID",
@@ -18723,7 +18728,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 63121
+      "UsersEstimate": 63122
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -18731,7 +18736,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 220924
+      "UsersEstimate": 220925
     },
     {
       "ID": "AchievementClownID",
@@ -18779,7 +18784,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80115
+      "UsersEstimate": 80116
     },
     {
       "ID": "AchievementGoatID",
@@ -18795,7 +18800,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 128670
+      "UsersEstimate": 128671
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -18827,7 +18832,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 109248
+      "UsersEstimate": 109249
     },
     {
       "ID": "AchievementIntroID",
@@ -18835,7 +18840,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 138381
+      "UsersEstimate": 138382
     },
     {
       "ID": "AchievementLootBoxID",
@@ -18875,7 +18880,7 @@
       "Name": "Daredevil",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4855
+      "UsersEstimate": 4856
     },
     {
       "ID": "AchievementRedactedID",
@@ -18899,7 +18904,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 179653
+      "UsersEstimate": 179654
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -18915,7 +18920,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 121387
+      "UsersEstimate": 121388
     },
     {
       "ID": "AchievementStreakingID",
@@ -18963,7 +18968,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 157803
+      "UsersEstimate": 157804
     },
     {
       "ID": "AchievementWhaleID",
@@ -18978,7 +18983,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 242774,
+      "Progressed": 242775,
       "Completed": 822
     }
   ],
@@ -18986,8 +18991,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-05T19:57:00.0992842+00:00",
-  "LastChanged_Achievements": "2023-09-06T04:05:05.185633+00:00",
+  "LastChanged_Achievements": "2023-09-06T05:05:15.2502655+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:56.0348626+00:00",
-  "LastUpdate_Ratings": "2023-09-06T03:57:22.7921961+00:00",
-  "LastUpdate_Achievements": "2023-09-06T04:05:05.1857559+00:00"
+  "LastUpdate_Ratings": "2023-09-06T04:57:25.3450185+00:00",
+  "LastUpdate_Achievements": "2023-09-06T05:05:15.2504636+00:00"
 }

@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 706,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1170,9 +1170,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 438
+      "UsersEstimate": 445
     },
     {
       "ID": "AC05",
@@ -1394,9 +1394,9 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 205
     },
     {
       "ID": "AC33",
@@ -1515,8 +1515,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-06T02:57:21.259036+00:00",
-  "LastChanged_Achievements": "2023-09-06T04:03:36.8533099+00:00",
+  "LastChanged_Achievements": "2023-09-06T05:03:22.3841908+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-06T03:57:46.742394+00:00",
-  "LastUpdate_Achievements": "2023-09-06T04:03:36.853361+00:00"
+  "LastUpdate_Ratings": "2023-09-06T04:57:53.9240525+00:00",
+  "LastUpdate_Achievements": "2023-09-06T05:03:22.3842403+00:00"
 }

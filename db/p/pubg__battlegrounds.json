@@ -4168,9 +4168,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 577563,
+  "EOS_Progressed": 577565,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13980,
+  "EOS_NewPlayers": 13927,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19638,6 +19638,11 @@
       "Time": "2023-09-06T00:08:07.0069219+00:00",
       "NumProgressed": 577563,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-06T05:08:03.7859598+00:00",
+      "NumProgressed": 577565,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -19673,7 +19678,7 @@
       "Name": "Marksman Novice",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 103961
+      "UsersEstimate": 103962
     },
     {
       "ID": "13",
@@ -19729,7 +19734,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 427397
+      "UsersEstimate": 427398
     },
     {
       "ID": "2",
@@ -19889,7 +19894,7 @@
       "Name": "Health Junkie",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 236801
+      "UsersEstimate": 236802
     },
     {
       "ID": "4",
@@ -19944,7 +19949,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 577563,
+      "Progressed": 577565,
       "Completed": 10
     }
   ],
@@ -19952,8 +19957,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-09-05T18:00:11.2654899+00:00",
-  "LastChanged_Achievements": "2023-09-06T04:07:29.6196745+00:00",
+  "LastChanged_Achievements": "2023-09-06T05:08:03.7859593+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:02.279271+00:00",
-  "LastUpdate_Ratings": "2023-09-06T03:59:41.5748892+00:00",
-  "LastUpdate_Achievements": "2023-09-06T04:07:29.6197949+00:00"
+  "LastUpdate_Ratings": "2023-09-06T05:00:18.7903409+00:00",
+  "LastUpdate_Achievements": "2023-09-06T05:08:03.7861243+00:00"
 }
