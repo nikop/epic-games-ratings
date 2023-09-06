@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5878,7 +5878,7 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135737,
+  "EOS_Progressed": 135739,
   "EOS_Completed": 145,
   "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 7,
@@ -20133,6 +20133,11 @@
       "Time": "2023-09-06T12:06:12.4648023+00:00",
       "NumProgressed": 135737,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2023-09-06T13:11:03.2874605+00:00",
+      "NumProgressed": 135739,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 112,
@@ -20198,9 +20203,9 @@
       "ID": "ascend02",
       "SetID": "anfd17p",
       "Name": "Above the Norm",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "ascend03",
@@ -20510,9 +20515,9 @@
       "ID": "energy03",
       "SetID": "anfd17p",
       "Name": "Supercharged",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "expansion01",
@@ -20566,9 +20571,9 @@
       "ID": "furniture03",
       "SetID": "anfd17p",
       "Name": "Fit for a King",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "fuseepic",
@@ -20862,9 +20867,9 @@
       "ID": "quest02",
       "SetID": "anfd17p",
       "Name": "Attrition Mission",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "quest03",
@@ -20990,9 +20995,9 @@
       "ID": "uncommonres02",
       "SetID": "anfd17p",
       "Name": "Exotic Commodities",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "uncommonres03",
@@ -21039,15 +21044,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135737,
+      "Progressed": 135739,
       "Completed": 145
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-05T18:00:17.9004444+00:00",
-  "LastChanged_Achievements": "2023-09-06T12:06:12.4648018+00:00",
+  "LastChanged_Achievements": "2023-09-06T13:11:03.28746+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-06T12:00:48.6694519+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:06:12.4649905+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:05:42.9055297+00:00",
+  "LastUpdate_Achievements": "2023-09-06T13:11:03.2876946+00:00"
 }

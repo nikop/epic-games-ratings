@@ -2,13 +2,13 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": "train-sim-world-2",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -2834,10 +2834,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 4269,
       "NumberOfAwardsMax": 562
+    },
+    {
+      "Time": "2023-09-06T13:04:26.6078778+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 4270,
+      "NumberOfAwardsMax": 562
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4269,
+  "NumberOfAwards": 4270,
   "NumberOfAwardsMax": 562,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2905,7 +2911,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 332
+      "Count": 333
     }
   ],
   "EOS_Progressed": 0,
@@ -2919,8 +2925,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2023-09-05T14:58:29.1195601+00:00",
+  "LastChanged": "2023-09-06T13:04:26.6078775+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:23.2572562+00:00",
-  "LastUpdate_Ratings": "2023-09-06T11:59:44.2006362+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:07:19.1436864+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:04:26.6078783+00:00",
+  "LastUpdate_Achievements": "2023-09-06T13:12:25.4948173+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6865,18 +6865,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14309,
       "NumberOfAwardsMax": 7029
+    },
+    {
+      "Time": "2023-09-06T13:07:20.7652912+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14316,
+      "NumberOfAwardsMax": 7036
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14309,
-  "NumberOfAwardsMax": 7029,
+  "NumberOfAwards": 14316,
+  "NumberOfAwardsMax": 7036,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7029
+      "Count": 7036
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6945,9 +6951,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60434,
+  "EOS_Progressed": 60436,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21645,6 +21651,11 @@
       "Time": "2023-09-06T12:04:45.8491396+00:00",
       "NumProgressed": 60434,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-06T13:09:42.7023459+00:00",
+      "NumProgressed": 60436,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21736,7 +21747,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6043
+      "UsersEstimate": 6044
     },
     {
       "ID": "Dynasty",
@@ -21784,7 +21795,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7856
+      "UsersEstimate": 7857
     },
     {
       "ID": "Great Granny",
@@ -21864,7 +21875,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "Lance-a-lot",
@@ -21880,7 +21891,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19339
+      "UsersEstimate": 19340
     },
     {
       "ID": "Lawbringer",
@@ -21888,7 +21899,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22965
+      "UsersEstimate": 22966
     },
     {
       "ID": "Lawmaker",
@@ -21912,7 +21923,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "Minor Clan",
@@ -22000,7 +22011,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6043
+      "UsersEstimate": 6044
     },
     {
       "ID": "The king is pleased",
@@ -22032,7 +22043,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13295
+      "UsersEstimate": 13296
     },
     {
       "ID": "Undercover",
@@ -22063,15 +22074,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60434,
+      "Progressed": 60436,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-06T11:01:27.3924439+00:00",
-  "LastChanged_Achievements": "2023-09-06T12:04:45.8491389+00:00",
+  "LastChanged": "2023-09-06T13:07:20.765291+00:00",
+  "LastChanged_Achievements": "2023-09-06T13:09:42.7023454+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-06T12:02:08.4405163+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:04:45.8492438+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:07:20.7652917+00:00",
+  "LastUpdate_Achievements": "2023-09-06T13:09:42.7025087+00:00"
 }

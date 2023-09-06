@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 682,
+  "Ranking_Rating": 683,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -904,7 +904,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255905,
+  "EOS_Progressed": 255906,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
@@ -15044,6 +15044,11 @@
       "Time": "2023-09-06T12:07:43.9870036+00:00",
       "NumProgressed": 255905,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-06T13:12:55.6431042+00:00",
+      "NumProgressed": 255906,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -15159,7 +15164,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25590
+      "UsersEstimate": 25591
     },
     {
       "ID": "CreditLevel2",
@@ -15447,7 +15452,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25590
+      "UsersEstimate": 25591
     },
     {
       "ID": "ReachNDays2",
@@ -15502,7 +15507,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255905,
+      "Progressed": 255906,
       "Completed": 3
     }
   ],
@@ -15510,8 +15515,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-04T18:00:18.5203268+00:00",
-  "LastChanged_Achievements": "2023-09-06T12:07:43.9870031+00:00",
+  "LastChanged_Achievements": "2023-09-06T13:12:55.6431037+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:51.8188403+00:00",
   "LastUpdate_Ratings": "2023-09-06T12:02:22.048089+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:07:43.9871116+00:00"
+  "LastUpdate_Achievements": "2023-09-06T13:12:55.6432695+00:00"
 }

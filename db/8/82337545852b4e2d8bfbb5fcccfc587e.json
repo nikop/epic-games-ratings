@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -90,9 +90,9 @@
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 70,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "EpicACHV_12",
@@ -186,9 +186,9 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 55,
+      "Percentage": 64,
       "XP": 70,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "EpicACHV_8",
@@ -216,8 +216,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-06T12:07:02.3345624+00:00",
+  "LastChanged_Achievements": "2023-09-06T13:12:04.4484958+00:00",
   "LastUpdate_AppInfo": "2023-09-06T04:57:09.7950789+00:00",
-  "LastUpdate_Ratings": "2023-09-06T12:01:30.359697+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:07:02.3345719+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:06:37.0564369+00:00",
+  "LastUpdate_Achievements": "2023-09-06T13:12:04.4485106+00:00"
 }

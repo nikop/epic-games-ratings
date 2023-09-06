@@ -30,12 +30,12 @@ Number of Ratings: 371  (23.09.2022)
 | Fleetmaster | 0.70% | ~22 |
 | Efficient Killer | 0.70% | ~22 |
 | Only in Death | 0.70% | ~22 |
+| Tactical Flexibility | 0.70% | ~22 |
 | Tactical Sabotage | 0.70% | ~22 |
 | Daemonkeeper | 0.60% | ~19 |
 | Exterminator | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
 | Long Distance Call | 0.60% | ~19 |
-| Tactical Flexibility | 0.60% | ~19 |
 | For the Machine God | 0.50% | ~16 |
 | Mind Like a Fortress | 0.50% | ~16 |
 | Preservationist | 0.50% | ~16 |

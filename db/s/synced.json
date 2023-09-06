@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": null,
@@ -112,9 +112,9 @@
       "ID": "1",
       "SetID": "2cfdi92",
       "Name": "Your Lucky Day",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "10",
@@ -246,8 +246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged_Achievements": "2023-09-06T12:08:18.628959+00:00",
+  "LastChanged_Achievements": "2023-09-06T13:13:38.3994345+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:07.4356043+00:00",
-  "LastUpdate_Ratings": "2023-09-06T11:59:56.3347891+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:08:18.628973+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:04:43.3807645+00:00",
+  "LastUpdate_Achievements": "2023-09-06T13:13:38.39945+00:00"
 }

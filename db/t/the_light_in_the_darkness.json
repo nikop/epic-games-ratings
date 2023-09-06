@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2312,
+  "EOS_Progressed": 2313,
   "EOS_Completed": 207,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 5,
@@ -5598,6 +5598,11 @@
       "Time": "2023-09-05T23:09:18.604496+00:00",
       "NumProgressed": 2312,
       "NumCompleted": 207
+    },
+    {
+      "Time": "2023-09-06T13:14:12.3661099+00:00",
+      "NumProgressed": 2313,
+      "NumCompleted": 207
     }
   ],
   "TotalAchievements": 12,
@@ -5617,7 +5622,7 @@
       "Name": "Bernard",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "Building the Fox",
@@ -5641,7 +5646,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "Jakob",
@@ -5697,14 +5702,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2312,
+      "Progressed": 2313,
       "Completed": 207
     }
   ],
@@ -5712,8 +5717,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-06T12:08:30.1614241+00:00",
+  "LastChanged_Achievements": "2023-09-06T13:14:12.3661093+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:56:59.2178706+00:00",
-  "LastUpdate_Ratings": "2023-09-06T12:01:08.7547772+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:08:30.1614576+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:06:10.2768226+00:00",
+  "LastUpdate_Achievements": "2023-09-06T13:14:12.3661619+00:00"
 }

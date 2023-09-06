@@ -10,7 +10,7 @@
 | Broken toy | 78.00% | ~153 |
 | Egghead Lucy | 76.00% | ~149 |
 | Puppy | 64.00% | ~125 |
-| Coal's fur | 59.00% | ~116 |
+| Coal's fur | 60.00% | ~118 |
 | Blue's drawing | 56.00% | ~110 |
 | Glass shards | 48.00% | ~94 |
 | Mysterious footprints | 48.00% | ~94 |

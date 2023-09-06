@@ -21,7 +21,7 @@ Rating: 4.67 (Ranked 259)
 | Urshanabi Hoarder | 2.00% | ~202 |
 | Grave Robber | 2.00% | ~202 |
 | The Pit and the Pirates | 0.30% | ~30 |
-| Drone Dodger | 0.20% | ~20 |
+| Drone Dodger | 0.30% | ~30 |
 | Data Miner | 0.10% | ~10 |
 | Data Archivist | 0.10% | ~10 |
 | Miraculous Maya | 0.10% | ~10 |

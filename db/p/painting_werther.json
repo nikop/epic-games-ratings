@@ -4,8 +4,8 @@
   "ProductSlug": "painting-werther-654780",
   "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-02-14T14:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:45.9570464+00:00",
-  "LastChanged_Achievements": "2023-09-06T12:08:22.6624023+00:00",
+  "LastChanged_Achievements": "2023-09-06T13:13:43.3532676+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:56.1511022+00:00",
-  "LastUpdate_Ratings": "2023-09-06T11:59:42.4076419+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:08:22.6624046+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:04:24.2142805+00:00",
+  "LastUpdate_Achievements": "2023-09-06T13:13:43.3532712+00:00"
 }

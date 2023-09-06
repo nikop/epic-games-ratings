@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 16.00% | ~1,790 |
 | Mythic Choices | 14.00% | ~1,566 |
 | Defender's Heart | 14.00% | ~1,566 |
-| Banner over the Citadel | 12.00% | ~1,342 |
+| Banner over the Citadel | 12.00% | ~1,343 |
 | Queen's Gratitude | 11.00% | ~1,231 |
 | Fifth Crusade | 8.00% | ~895 |
 | Embrace of the Abyss | 6.00% | ~671 |
@@ -21,12 +21,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 5.00% | ~559 |
 | Voice from Your Dreams | 5.00% | ~559 |
 | All Paths Open | 5.00% | ~559 |
-| Path of the Azata | 4.00% | ~447 |
-| The Legacy | 4.00% | ~447 |
-| Divide and Rule | 4.00% | ~447 |
-| A Flame | 4.00% | ~447 |
-| Next-Door Play | 4.00% | ~447 |
-| Get the Toad | 4.00% | ~447 |
+| Path of the Azata | 4.00% | ~448 |
+| The Legacy | 4.00% | ~448 |
+| Divide and Rule | 4.00% | ~448 |
+| A Flame | 4.00% | ~448 |
+| Next-Door Play | 4.00% | ~448 |
+| Get the Toad | 4.00% | ~448 |
 | Heart of the Fallen Land | 3.00% | ~336 |
 | Path of the Trickster | 3.00% | ~336 |
 | Mythic Reinforcements | 3.00% | ~336 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Legend | 0.90% | ~101 |
 | End of Eternal Guard | 0.90% | ~101 |
 | Truly Profane Gift | 0.90% | ~101 |
-| Path of the Dragon | 0.80% | ~89 |
+| Path of the Dragon | 0.80% | ~90 |
 | Playful Mood | 0.70% | ~78 |
 | Dreadful Dragon | 0.70% | ~78 |
 | Masterful Charge | 0.60% | ~67 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,187 (Ranked 124)  
+Progressed: 11,189 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,16 +262,16 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-03 | 11,168 | 0 |
 | 2023-09-04 | 11,173 | 0 |
 | 2023-09-05 | 11,185 | 0 |
-| 2023-09-06 | 11,187 | 0 |
+| 2023-09-06 | 11,189 | 0 |
 ## Awards
 Max (Character Customization): 1,707  (Ranked 118)  
-Sum: 6,920 (Ranked 113)  
+Sum: 6,921 (Ranked 113)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,707 |
 | This game is Extremely Fun | 647 |
-| This game is Highly Recommended | 633 |
+| This game is Highly Recommended | 634 |
 | This game has Amazing Characters | 630 |
 | This game has Diverse Characters | 618 |
 | This game has Amazing Storytelling | 610 |
@@ -490,4 +490,4 @@ Diff (max vs sum): 5
 | 2023-09-02 | 4.76 | - | 1,705 | 6,913 |
 | 2023-09-03 | 4.76 | - | 1,706 | 6,914 |
 | 2023-09-05 | 4.76 | - | 1,707 | 6,919 |
-| 2023-09-06 | 4.76 | - | 1,707 | 6,920 |
+| 2023-09-06 | 4.76 | - | 1,707 | 6,921 |

@@ -45,6 +45,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Natural 20 | 0.50% | ~679 |
 | Magical Harmony | 0.50% | ~679 |
 | A Notch Above the Rest | 0.40% | ~543 |
+| Above the Norm | 0.40% | ~543 |
 | A Ronin Reborn | 0.40% | ~543 |
 | Tax not Included | 0.40% | ~543 |
 | The King's Caprice | 0.40% | ~543 |
@@ -56,8 +57,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.40% | ~543 |
 | Master of Transmutation | 0.40% | ~543 |
 | Hidden Potential | 0.40% | ~543 |
+| Supercharged | 0.40% | ~543 |
 | Expansion in Session | 0.40% | ~543 |
 | Cranked up to 11 | 0.40% | ~543 |
+| Fit for a King | 0.40% | ~543 |
 | Trash to Treasure | 0.40% | ~543 |
 | Royal Ransom | 0.40% | ~543 |
 | Mammonite | 0.40% | ~543 |
@@ -66,13 +69,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.40% | ~543 |
 | Seasoned Journeyman | 0.40% | ~543 |
 | Scourge of the Seas | 0.40% | ~543 |
+| Attrition Mission | 0.40% | ~543 |
 | Black Friday Special | 0.40% | ~543 |
 | Special Ingredient | 0.40% | ~543 |
+| Exotic Commodities | 0.40% | ~543 |
 | Complete Monopoly | 0.40% | ~543 |
 | Cream of the Crop | 0.30% | ~407 |
 | Top of the World | 0.30% | ~407 |
 | Proud Paladin | 0.30% | ~407 |
-| Above the Norm | 0.30% | ~407 |
 | Constellated | 0.30% | ~407 |
 | Thirst for Knowledge | 0.30% | ~407 |
 | Booty by the Boatload | 0.30% | ~407 |
@@ -80,9 +84,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.30% | ~407 |
 | Industrial Evolution | 0.30% | ~407 |
 | Omae wa Mou Shindeiru | 0.30% | ~407 |
-| Supercharged | 0.30% | ~407 |
 | Ritualist | 0.30% | ~407 |
-| Fit for a King | 0.30% | ~407 |
 | By Your Powers Combined... | 0.30% | ~407 |
 | A Legend is Born | 0.30% | ~407 |
 | Wealth Beyond Measure | 0.30% | ~407 |
@@ -91,13 +93,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.30% | ~407 |
 | Bountiful Harvest | 0.30% | ~407 |
 | Precision Engineering | 0.30% | ~407 |
-| Attrition Mission | 0.30% | ~407 |
 | Glittering Collection | 0.30% | ~407 |
 | Treasure Trove | 0.30% | ~407 |
 | Moment of Respite | 0.30% | ~407 |
 | King's Shadow | 0.30% | ~407 |
 | Master Recycler | 0.30% | ~407 |
-| Exotic Commodities | 0.30% | ~407 |
 | Economy of Scarce | 0.30% | ~407 |
 | King's Blade | 0.30% | ~407 |
 | The Free Encyclopedia | 0.20% | ~271 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,737 (Ranked 67)  
+Progressed: 135,739 (Ranked 67)  
 Completed: 145 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 145 (0.11%) (Ranked 215)
 | 2023-09-03 | 135,618 | 142 |
 | 2023-09-04 | 135,661 | 142 |
 | 2023-09-05 | 135,715 | 144 |
-| 2023-09-06 | 135,737 | 145 |
+| 2023-09-06 | 135,739 | 145 |
 ## Awards
 Max (Great for Beginners): 4,723  (Ranked 71)  
 Sum: 27,176 (Ranked 49)  

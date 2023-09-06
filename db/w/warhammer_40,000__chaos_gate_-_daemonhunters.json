@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3713,9 +3713,9 @@
       "ID": "UnlockedAllStratagems",
       "SetID": "3jha1np",
       "Name": "Tactical Flexibility",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -3807,8 +3807,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-06T12:07:19.7021869+00:00",
+  "LastChanged_Achievements": "2023-09-06T13:12:26.1817079+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:31.6122131+00:00",
-  "LastUpdate_Ratings": "2023-09-06T12:01:02.2652638+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:07:19.7022555+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:06:00.9925239+00:00",
+  "LastUpdate_Achievements": "2023-09-06T13:12:26.1818135+00:00"
 }

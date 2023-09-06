@@ -8,6 +8,7 @@ Rating: 4.60 (Ranked 393)
 | Time Heals All Wounds | 26.00% | ~222 |
 | Rail Rat | 22.00% | ~188 |
 | The Mysterious Stranger | 21.00% | ~179 |
+| The Prince in Heels | 20.00% | ~171 |
 | Immaculate Aim | 20.00% | ~171 |
 | The Steel Shadow | 19.00% | ~162 |
 | Make Up For Lost Time | 19.00% | ~162 |
@@ -15,7 +16,6 @@ Rating: 4.60 (Ranked 393)
 | The Harder They Fall | 19.00% | ~162 |
 | No, Thanks! | 19.00% | ~162 |
 | Breaking Down Barriers | 19.00% | ~162 |
-| The Prince in Heels | 19.00% | ~162 |
 | Immaculate Aim | 19.00% | ~162 |
 | The Brass Boss | 19.00% | ~162 |
 | The Wicked Twins | 18.00% | ~154 |
@@ -60,7 +60,7 @@ Rating: 4.60 (Ranked 393)
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 854 (Ranked 213)  
-Completed: 5 (0.59%) (Ranked 143)  
+Completed: 5 (0.59%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

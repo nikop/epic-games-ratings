@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 36843,
+  "EOS_Progressed": 36845,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14855,6 +14855,11 @@
       "Time": "2023-09-06T09:03:18.5615211+00:00",
       "NumProgressed": 36843,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-06T13:09:34.1509589+00:00",
+      "NumProgressed": 36845,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -14882,7 +14887,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6263
+      "UsersEstimate": 6264
     },
     {
       "ID": "ach_antiquarian10",
@@ -14986,7 +14991,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13263
+      "UsersEstimate": 13264
     },
     {
       "ID": "ach_die10",
@@ -15024,9 +15029,9 @@
       "ID": "ach_eye",
       "SetID": "ammcm",
       "Name": "Roaring Rise",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 1105
     },
     {
       "ID": "ach_hunterskeep",
@@ -15234,7 +15239,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5526
+      "UsersEstimate": 5527
     },
     {
       "ID": "ach_undercurrent",
@@ -15274,7 +15279,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "ach_year10",
@@ -15297,15 +15302,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 36843,
+      "Progressed": 36845,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-09-06T12:04:38.7928903+00:00",
+  "LastChanged_Achievements": "2023-09-06T13:09:34.1509583+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:20.6698248+00:00",
-  "LastUpdate_Ratings": "2023-09-06T12:01:57.3938788+00:00",
-  "LastUpdate_Achievements": "2023-09-06T12:04:38.7929957+00:00"
+  "LastUpdate_Ratings": "2023-09-06T13:07:12.6235994+00:00",
+  "LastUpdate_Achievements": "2023-09-06T13:09:34.1511196+00:00"
 }
