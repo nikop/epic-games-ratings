@@ -94,7 +94,7 @@
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.16% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
-| 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.92% |
+| 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
 | 97 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 98 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
@@ -115,7 +115,7 @@
 | 113 | [Late Shift](games/l/late_shift.md) | 1.25% |
 | 114 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 115 | [Chorus](games/c/chorus.md) | 1.20% |
-| 116 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.12% |
+| 116 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.11% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
@@ -148,8 +148,8 @@
 | 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.56% |
 | 146 | [Grindstone](games/g/grindstone.md) | 0.56% |
 | 148 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
-| 148 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.55% |
 | 148 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 150 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.54% |
 | 151 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
 | 152 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 152 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |

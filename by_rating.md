@@ -19,7 +19,7 @@
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 517 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,061 | 21 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 307 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,236 | 78 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,239 | 78 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,023 | 142 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 173,216 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,344 | 34 |
@@ -105,7 +105,7 @@
 | 101 | [Journey](games/j/journey.md) | 4.78 | 0 | 517 |
 | 101 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 517 |
 | 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,390 | 103 |
-| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,466 | 123 |
+| 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,471 | 123 |
 | 101 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.78 | 0 | 517 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 935 | 149 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
@@ -205,7 +205,7 @@
 | 201 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 386 | 219 |
 | 201 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 407 | 216 |
 | 201 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 517 |
-| 201 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,120 | 49 |
+| 201 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,130 | 49 |
 | 201 | [For The King](games/f/for_the_king.md) | 4.70 | 386 | 219 |
 | 201 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 517 |
 | 201 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 517 |
@@ -615,7 +615,6 @@
 | 601 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 517 |
 | 614 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.47 | 26 | 480 |
 | 614 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 50 | 404 |
-| 614 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 517 |
 | 614 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 517 |
 | 614 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,515 | 87 |
 | 614 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 517 |
@@ -626,19 +625,20 @@
 | 614 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.47 | 0 | 517 |
 | 614 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 517 |
 | 614 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 517 |
-| 627 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 517 |
-| 627 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,527 | 86 |
-| 627 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 456 |
-| 627 | [Faeria](games/f/faeria.md) | 4.46 | 110 | 326 |
-| 627 | [Figment](games/f/figment.md) | 4.46 | 20 | 511 |
-| 627 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 517 |
-| 627 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 517 |
-| 627 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.46 | 0 | 517 |
-| 627 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 54 | 396 |
-| 627 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 517 |
-| 627 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 287 | 240 |
-| 627 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 517 |
-| 627 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 517 |
+| 626 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 517 |
+| 626 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,527 | 86 |
+| 626 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 517 |
+| 626 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 456 |
+| 626 | [Faeria](games/f/faeria.md) | 4.46 | 110 | 326 |
+| 626 | [Figment](games/f/figment.md) | 4.46 | 20 | 511 |
+| 626 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.46 | 0 | 517 |
+| 626 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.46 | 0 | 517 |
+| 626 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.46 | 0 | 517 |
+| 626 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.46 | 54 | 396 |
+| 626 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 517 |
+| 626 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 287 | 240 |
+| 626 | [Train Valley](games/t/train_valley.md) | 4.46 | 0 | 517 |
+| 626 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 517 |
 | 640 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 517 |
 | 640 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.45 | 0 | 517 |
 | 640 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 517 |
