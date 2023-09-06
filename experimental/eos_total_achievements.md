@@ -143,6 +143,7 @@
 | [Grindstone](../games/g/grindstone.md) | 49 | 1,000 |
 | [Guacamelee! 2](../games/2/277e364d24ec43069f4ee3c4414d5096.md) | 49 | 1,000 |
 | [Hades](../games/h/hades.md) | 49 | 1,000 |
+| [RIDE 5](../games/r/ride_5.md) | 49 | 1,000 |
 | [The Caligula Effect 2](../games/t/the_caligula_effect_2.md) | 49 | 1,000 |
 | [ToeJam & Earl: Back in the Groove!](../games/t/toejam_&_earl__back_in_the_groove!.md) | 49 | 1,000 |
 | ['n Verlore Verstand](../games/'/'n_verlore_verstand.md) | 48 | 1,000 |
