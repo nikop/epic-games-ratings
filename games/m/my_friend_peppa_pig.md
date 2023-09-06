@@ -17,7 +17,7 @@
 | Always Remember To Eat Your Five! | 11.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 79 (Ranked 359)  
-Completed: 4 (5.06%) (Ranked 52)  
+Completed: 4 (5.06%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

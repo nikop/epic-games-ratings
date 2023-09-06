@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5152,
+  "EOS_Progressed": 5153,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -755,6 +755,11 @@
       "Time": "2023-09-04T13:11:20.7008921+00:00",
       "NumProgressed": 5152,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-09-06T10:06:55.6427686+00:00",
+      "NumProgressed": 5153,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 49,
@@ -766,7 +771,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -782,7 +787,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -790,7 +795,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -798,7 +803,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -822,7 +827,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2215
+      "UsersEstimate": 2216
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -838,7 +843,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -870,7 +875,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -894,15 +899,15 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5049
+      "UsersEstimate": 5050
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
       "SetID": "b8l3p0g",
       "Name": "Fun, Flirty, and Thirty",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3195
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -918,7 +923,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -942,7 +947,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2524
+      "UsersEstimate": 2525
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -990,7 +995,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1006,7 +1011,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1054,7 +1059,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5049
+      "UsersEstimate": 5050
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1150,22 +1155,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3658
+      "UsersEstimate": 3659
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5152,
+      "Progressed": 5153,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-09-06T09:06:41.7910734+00:00",
+  "LastChanged_Achievements": "2023-09-06T10:06:55.6427681+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:44.1364669+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:00:40.3821963+00:00",
-  "LastUpdate_Achievements": "2023-09-06T09:06:41.7911195+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:00:55.8564228+00:00",
+  "LastUpdate_Achievements": "2023-09-06T10:06:55.6428157+00:00"
 }

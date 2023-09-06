@@ -4,85 +4,85 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 66.00% | ~217 |
-| I like parks | 53.00% | ~174 |
-| It is nice to share with friends in the city | 27.00% | ~89 |
-| Sport is good for you | 26.00% | ~86 |
-| The spiritual world... | 24.00% | ~79 |
-| The woodcutter | 23.00% | ~76 |
-| I like my life | 20.00% | ~66 |
-| I like books | 19.00% | ~63 |
-| Soviet town | 18.00% | ~59 |
-| Clean energy | 17.00% | ~56 |
-| Bucolic city | 14.00% | ~46 |
-| I love books! | 8.00% | ~26 |
-| King of fish | 8.00% | ~26 |
-| I love parks | 8.00% | ~26 |
-| What would we do if we can't go out with friends? | 6.00% | ~20 |
-| Food producer | 5.00% | ~16 |
-| Metropolurbek | 4.00% | ~13 |
-| I am very happy! | 3.00% | ~10 |
-| Rebel city | 3.00% | ~10 |
-| Sport is the best thing | 3.00% | ~10 |
-| Banking city | 2.00% | ~7 |
-| Food provider master | 2.00% | ~7 |
-| City crisis | 2.00% | ~7 |
-| Read! Everyone should read! | 2.00% | ~7 |
-| Oh, I love parks, listening to birds! | 2.00% | ~7 |
-| Little Mayor | 2.00% | ~7 |
-| Temperate builder | 2.00% | ~7 |
-| Archipelago builder | 1.00% | ~3 |
-| What is there after death? | 1.00% | ~3 |
-| Town planner | 1.00% | ~3 |
-| Temperate urban planner | 1.00% | ~3 |
-| Anarchist Utopia | 0.90% | ~3 |
-| I can't see the sky | 0.90% | ~3 |
-| Oh, I am sad | 0.90% | ~3 |
-| Freedom to go to the mall! | 0.90% | ~3 |
-| Metropolurbek Plus | 0.90% | ~3 |
-| Archipelago urban planner | 0.60% | ~2 |
-| Desert builder | 0.60% | ~2 |
-| Perfect city | 0.60% | ~2 |
-| Oh, life is too awesome! Thank you! | 0.60% | ~2 |
-| Farming Frenzy | 0.60% | ~2 |
-| City in flames | 0.60% | ~2 |
-| Restorer | 0.60% | ~2 |
-| Rainforest builder | 0.60% | ~2 |
-| Rainforest urban planner | 0.60% | ~2 |
-| Welfare state | 0.60% | ~2 |
-| Anarchist paradise | 0.30% | ~1 |
-| Full archipelago | 0.30% | ~1 |
-| I can't breathe | 0.30% | ~1 |
-| Urban style | 0.30% | ~1 |
-| Full desert | 0.30% | ~1 |
-| Desert urban planner | 0.30% | ~1 |
-| ¡Muy feliz! | 0.30% | ~1 |
-| I don't feel well, I have to drink a coffe | 0.30% | ~1 |
-| Restorer Plus | 0.30% | ~1 |
-| Full temperate | 0.30% | ~1 |
-| Temperate master | 0.30% | ~1 |
-| Full rainforest | 0.30% | ~1 |
+| I like books | 0.30% | ~1 |
+| Anarchist Utopia | 0.00% | ~0 |
+| Anarchist paradise | 0.00% | ~0 |
+| Full archipelago | 0.00% | ~0 |
+| Archipelago builder | 0.00% | ~0 |
+| Archipelago urban planner | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
+| Banking city | 0.00% | ~0 |
 | Banking empire | 0.00% | ~0 |
 | Pumpkin farmer | 0.00% | ~0 |
 | Ready to make sopaipillas | 0.00% | ~0 |
 | Green energy | 0.00% | ~0 |
+| Food producer | 0.00% | ~0 |
+| Food provider master | 0.00% | ~0 |
+| I can't see the sky | 0.00% | ~0 |
+| I can't breathe | 0.00% | ~0 |
+| Urban style | 0.00% | ~0 |
+| City crisis | 0.00% | ~0 |
 | Collapsed city | 0.00% | ~0 |
+| I love books! | 0.00% | ~0 |
+| Read! Everyone should read! | 0.00% | ~0 |
+| Full desert | 0.00% | ~0 |
+| Desert builder | 0.00% | ~0 |
+| Desert urban planner | 0.00% | ~0 |
 | Desert master | 0.00% | ~0 |
 | How scary! | 0.00% | ~0 |
 | Haunted city | 0.00% | ~0 |
+| The spiritual world... | 0.00% | ~0 |
+| What is there after death? | 0.00% | ~0 |
 | Fear God, you sinners! | 0.00% | ~0 |
+| Perfect city | 0.00% | ~0 |
+| Oh, I am sad | 0.00% | ~0 |
 | Smile? I don't understand | 0.00% | ~0 |
 | Work, work, work... | 0.00% | ~0 |
+| I like my life | 0.00% | ~0 |
+| I am very happy! | 0.00% | ~0 |
+| Oh, life is too awesome! Thank you! | 0.00% | ~0 |
+| ¡Muy feliz! | 0.00% | ~0 |
+| King of fish | 0.00% | ~0 |
+| Farming Frenzy | 0.00% | ~0 |
 | Farming Frenzy Plus | 0.00% | ~0 |
+| I like parks | 0.00% | ~0 |
+| I love parks | 0.00% | ~0 |
+| Oh, I love parks, listening to birds! | 0.00% | ~0 |
+| The woodcutter | 0.00% | ~0 |
+| Clean energy | 0.00% | ~0 |
+| Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
+| It is nice to share with friends in the city | 0.00% | ~0 |
+| What would we do if we can't go out with friends? | 0.00% | ~0 |
+| I don't feel well, I have to drink a coffe | 0.00% | ~0 |
+| Little Mayor | 0.00% | ~0 |
+| Town planner | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |
+| Small town | 0.00% | ~0 |
+| Metropolurbek | 0.00% | ~0 |
+| Metropolurbek Plus | 0.00% | ~0 |
+| Rebel city | 0.00% | ~0 |
+| City in flames | 0.00% | ~0 |
 | Full restorer | 0.00% | ~0 |
+| Restorer | 0.00% | ~0 |
+| Restorer Plus | 0.00% | ~0 |
 | Restorer master | 0.00% | ~0 |
 | Singapore | 0.00% | ~0 |
 | Singapore Plus | 0.00% | ~0 |
+| Sport is good for you | 0.00% | ~0 |
+| Sport is the best thing | 0.00% | ~0 |
 | Everyone should always do sport! | 0.00% | ~0 |
+| Full temperate | 0.00% | ~0 |
+| Temperate builder | 0.00% | ~0 |
+| Temperate urban planner | 0.00% | ~0 |
+| Temperate master | 0.00% | ~0 |
+| Full rainforest | 0.00% | ~0 |
+| Rainforest builder | 0.00% | ~0 |
+| Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
+| Bucolic city | 0.00% | ~0 |
+| Soviet town | 0.00% | ~0 |
+| Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 329 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 270)  

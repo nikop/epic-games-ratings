@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 1.00% | ~7,131 |
 | Kung-Fu Tussle | 1.00% | ~7,131 |
 | The best strikes are the ones we avoid | 1.00% | ~224 |
-| Muk Yan Master | 0.90% | ~6,417 |
+| Muk Yan Master | 0.90% | ~6,418 |
 | Tiger on Fire | 0.80% | ~5,704 |
 | Source of Flying Daggers | 0.80% | ~5,704 |
 | Detective Story | 0.80% | ~5,704 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,053 (Ranked 20)  
+Progressed: 713,056 (Ranked 20)  
 Completed: 12,885 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,17 +196,17 @@ Completed: 12,885 (1.81%) (Ranked 99)
 | 2023-09-03 | 712,929 | 12,882 |
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
-| 2023-09-06 | 713,053 | 12,885 |
+| 2023-09-06 | 713,056 | 12,885 |
 ## Awards
 Max (Great Boss Battles): 6,437  (Ranked 54)  
-Sum: 11,071 (Ranked 80)  
+Sum: 11,073 (Ranked 80)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,437 |
 | This game has Diverse Characters | 581 |
 | This game has Challenging Combat | 547 |
-| This game has Quickly Understood Controls | 542 |
+| This game has Quickly Understood Controls | 544 |
 | This game has Amazing Storytelling | 531 |
 | This game is Extremely Fun | 530 |
 | This game has Amazing Characters | 523 |
@@ -450,4 +450,4 @@ Diff (max vs sum): -26
 | 2023-09-03 | 4.82 | - | 6,430 | 11,053 |
 | 2023-09-04 | 4.82 | - | 6,430 | 11,055 |
 | 2023-09-05 | 4.82 | - | 6,437 | 11,070 |
-| 2023-09-06 | 4.82 | - | 6,437 | 11,071 |
+| 2023-09-06 | 4.82 | - | 6,437 | 11,073 |

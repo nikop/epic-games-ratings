@@ -20,10 +20,10 @@ Rating: 4.67 (Ranked 259)
 | Debris Spree | 3.00% | ~303 |
 | Urshanabi Hoarder | 2.00% | ~202 |
 | Grave Robber | 2.00% | ~202 |
+| Drone Dodger | 0.20% | ~20 |
 | Data Miner | 0.10% | ~10 |
 | The Pit and the Pirates | 0.10% | ~10 |
 | Data Archivist | 0.10% | ~10 |
-| Drone Dodger | 0.10% | ~10 |
 | Miraculous Maya | 0.10% | ~10 |
 | Khan's Revenge | 0.10% | ~10 |
 | Call it Even | 0.10% | ~10 |

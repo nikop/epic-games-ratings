@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-09-13T13:00:00+00:00",
@@ -25,9 +25,523 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-06T10:04:12.9099765+00:00",
+  "TotalAchievements": 64,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "NEW_ACHIEVEMENT_1_1",
+      "SetID": "631i43e",
+      "Name": "First Shipment",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_10",
+      "SetID": "631i43e",
+      "Name": "Manipulator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_11",
+      "SetID": "631i43e",
+      "Name": "Hello Friend",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_12",
+      "SetID": "631i43e",
+      "Name": "Under The Floorboards",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_13",
+      "SetID": "631i43e",
+      "Name": "Sue Everybody!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_14",
+      "SetID": "631i43e",
+      "Name": "I Can Keep A Secret",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_15",
+      "SetID": "631i43e",
+      "Name": "Might Show Up",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_16",
+      "SetID": "631i43e",
+      "Name": "Lance Romance",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_17",
+      "SetID": "631i43e",
+      "Name": "Headache Or Bliss",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_18",
+      "SetID": "631i43e",
+      "Name": "Behind The Rock Johnny",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_19",
+      "SetID": "631i43e",
+      "Name": "Humble Brag",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_2",
+      "SetID": "631i43e",
+      "Name": "Get Your Swerve On",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_20",
+      "SetID": "631i43e",
+      "Name": "No Matrimony Back Then",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_21",
+      "SetID": "631i43e",
+      "Name": "A Furry Friend",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_22",
+      "SetID": "631i43e",
+      "Name": "Moneymaker",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_23",
+      "SetID": "631i43e",
+      "Name": "Aces Wild",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_24",
+      "SetID": "631i43e",
+      "Name": "Fine Tuned",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_25",
+      "SetID": "631i43e",
+      "Name": "Watch Your Back",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_26",
+      "SetID": "631i43e",
+      "Name": "Got Your Back",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_27",
+      "SetID": "631i43e",
+      "Name": "Defeating Chop",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_28",
+      "SetID": "631i43e",
+      "Name": "Fight Fire With Fire",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_29",
+      "SetID": "631i43e",
+      "Name": "Hello",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_3",
+      "SetID": "631i43e",
+      "Name": "Chow Time",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_30",
+      "SetID": "631i43e",
+      "Name": "Goodbye",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_31",
+      "SetID": "631i43e",
+      "Name": "Might Close Early",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_4",
+      "SetID": "631i43e",
+      "Name": "Just A Little Taste",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_5",
+      "SetID": "631i43e",
+      "Name": "White Knuckles",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_6",
+      "SetID": "631i43e",
+      "Name": "Why Me?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_7",
+      "SetID": "631i43e",
+      "Name": "Hating Life",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_8",
+      "SetID": "631i43e",
+      "Name": "Goodbye Life",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_9",
+      "SetID": "631i43e",
+      "Name": "Had It",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_0",
+      "SetID": "631i43e",
+      "Name": "Gold Rush",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_1",
+      "SetID": "631i43e",
+      "Name": "Largeville",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_10",
+      "SetID": "631i43e",
+      "Name": "The Gambler",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_11",
+      "SetID": "631i43e",
+      "Name": "Diamond Hands",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_12",
+      "SetID": "631i43e",
+      "Name": "Follow Me!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_13",
+      "SetID": "631i43e",
+      "Name": "Sue The World",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_14",
+      "SetID": "631i43e",
+      "Name": "Heavy Duty Medicine",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_15",
+      "SetID": "631i43e",
+      "Name": "Words Of Wisdom, Lloyd",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_16",
+      "SetID": "631i43e",
+      "Name": "Gun Show",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_17",
+      "SetID": "631i43e",
+      "Name": "Silver Tongue",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_18",
+      "SetID": "631i43e",
+      "Name": "Nice Night For A Walk",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_19",
+      "SetID": "631i43e",
+      "Name": "Don\u0027t See This",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_2",
+      "SetID": "631i43e",
+      "Name": "Uh-Oh",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_20",
+      "SetID": "631i43e",
+      "Name": "Pious",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_21",
+      "SetID": "631i43e",
+      "Name": "Had To Happen Sometime",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_22",
+      "SetID": "631i43e",
+      "Name": "Tycoon?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_23",
+      "SetID": "631i43e",
+      "Name": "Monopoly",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_24",
+      "SetID": "631i43e",
+      "Name": "I\u0027ll Just Leave This Here...",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_25",
+      "SetID": "631i43e",
+      "Name": "Underwater Already",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_26",
+      "SetID": "631i43e",
+      "Name": "Evidence Disposal",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_27",
+      "SetID": "631i43e",
+      "Name": "You Really Are Suave!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_28",
+      "SetID": "631i43e",
+      "Name": "Trim It Close",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_29",
+      "SetID": "631i43e",
+      "Name": "Don\u0027t Let Booth In",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_3",
+      "SetID": "631i43e",
+      "Name": "Well...Bye.",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_30",
+      "SetID": "631i43e",
+      "Name": "Backpages",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_31",
+      "SetID": "631i43e",
+      "Name": "Because Why Not?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_4",
+      "SetID": "631i43e",
+      "Name": "Full House",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_5",
+      "SetID": "631i43e",
+      "Name": "Get Lost",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_6",
+      "SetID": "631i43e",
+      "Name": "Shovels!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_7",
+      "SetID": "631i43e",
+      "Name": "Big Brain",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_8",
+      "SetID": "631i43e",
+      "Name": "What\u0027s Cookin\u0027",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_9",
+      "SetID": "631i43e",
+      "Name": "Shakespeare Of The West",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_3_0",
+      "SetID": "631i43e",
+      "Name": "Had It Coming",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "631i43e",
@@ -37,8 +551,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-09-06T09:03:53.5874231+00:00",
-  "LastUpdate_AppInfo": "2023-08-30T09:56:58.0406602+00:00",
-  "LastUpdate_Ratings": "2023-09-06T08:59:00.1491937+00:00",
-  "LastUpdate_Achievements": "2023-09-06T09:03:53.5874265+00:00"
+  "LastChanged_Achievements": "2023-09-06T10:04:12.909975+00:00",
+  "LastUpdate_AppInfo": "2023-09-06T09:57:04.5336103+00:00",
+  "LastUpdate_Ratings": "2023-09-06T09:59:09.2867549+00:00",
+  "LastUpdate_Achievements": "2023-09-06T10:04:12.9497217+00:00"
 }

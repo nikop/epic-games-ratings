@@ -4260,9 +4260,9 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 674411,
+  "EOS_Progressed": 674431,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 5277,
+  "EOS_NewPlayers": 5273,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19765,6 +19765,11 @@
       "Time": "2023-09-06T09:05:34.3267863+00:00",
       "NumProgressed": 674411,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-09-06T10:05:47.1519283+00:00",
+      "NumProgressed": 674431,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 45,
@@ -19824,7 +19829,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "ach_bookworm",
@@ -19856,7 +19861,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -20014,9 +20019,9 @@
       "ID": "ach_mind_over_monster",
       "SetID": "7km39fm",
       "Name": "Humanity Distilled",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3372
+      "UsersEstimate": 4047
     },
     {
       "ID": "ach_revival_tour",
@@ -20135,7 +20140,7 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674411,
+      "Progressed": 674431,
       "Completed": 2119
     }
   ],
@@ -20143,8 +20148,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-05T19:59:05.2782537+00:00",
-  "LastChanged_Achievements": "2023-09-06T09:05:34.3267857+00:00",
+  "LastChanged_Achievements": "2023-09-06T10:05:47.1519279+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-06T08:59:14.3041704+00:00",
-  "LastUpdate_Achievements": "2023-09-06T09:05:34.326922+00:00"
+  "LastUpdate_Ratings": "2023-09-06T09:59:25.3777184+00:00",
+  "LastUpdate_Achievements": "2023-09-06T10:05:47.1520418+00:00"
 }

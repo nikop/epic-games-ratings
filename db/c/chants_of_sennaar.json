@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.13,
+  "EOS_Completed_Percentage": 5.06,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -409,6 +409,11 @@
       "Time": "2023-09-06T07:05:41.2370303+00:00",
       "NumProgressed": 78,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-06T10:04:52.1520403+00:00",
+      "NumProgressed": 79,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 25,
@@ -442,7 +447,7 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -562,7 +567,7 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -570,15 +575,15 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -594,7 +599,7 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -619,14 +624,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-06T09:04:30.9564656+00:00",
+  "LastChanged_Achievements": "2023-09-06T10:04:52.1520395+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-06T08:59:48.272528+00:00",
-  "LastUpdate_Achievements": "2023-09-06T09:04:30.9564873+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:00:03.1601861+00:00",
+  "LastUpdate_Achievements": "2023-09-06T10:04:52.152061+00:00"
 }

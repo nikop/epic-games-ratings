@@ -28,10 +28,10 @@ Rating: 4.54 (Ranked 505)
 | Ooh, Shiny! | 0.70% | ~4,721 |
 | I Am the Resurrection | 0.70% | ~4,721 |
 | Our True Nature | 0.70% | ~4,721 |
-| Perks of the Job | 0.60% | ~4,046 |
-| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,046 |
+| Perks of the Job | 0.60% | ~4,047 |
+| I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,047 |
+| Humanity Distilled | 0.60% | ~4,047 |
 | Making Your Mark | 0.50% | ~3,372 |
-| Humanity Distilled | 0.50% | ~3,372 |
 | Down with the Sickness | 0.50% | ~3,372 |
 | Max Headroom | 0.50% | ~3,372 |
 | Go, Bobcats! | 0.40% | ~2,698 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,411 (Ranked 22)  
+Progressed: 674,431 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
-| 2023-09-06 | 674,411 | 2,119 |
+| 2023-09-06 | 674,431 | 2,119 |
 ## Awards
 Max (Great Boss Battles): 5,913  (Ranked 60)  
 Sum: 8,730 (Ranked 95)  

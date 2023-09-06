@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1073,9 +1073,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1258,8 +1258,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-06T09:03:51.5523375+00:00",
+  "LastChanged_Achievements": "2023-09-06T10:04:11.1165717+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:44.6615158+00:00",
-  "LastUpdate_Ratings": "2023-09-06T08:59:41.5902025+00:00",
-  "LastUpdate_Achievements": "2023-09-06T09:03:51.5524939+00:00"
+  "LastUpdate_Ratings": "2023-09-06T09:59:54.7107579+00:00",
+  "LastUpdate_Achievements": "2023-09-06T10:04:11.1166971+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17881,
+  "EOS_Progressed": 17882,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9773,6 +9773,11 @@
       "Time": "2023-09-06T09:03:17.487569+00:00",
       "NumProgressed": 17881,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-06T10:03:35.1271046+00:00",
+      "NumProgressed": 17882,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9784,7 +9789,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5185
+      "UsersEstimate": 5186
     },
     {
       "ID": "0002",
@@ -9912,7 +9917,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     },
     {
       "ID": "0018",
@@ -10071,7 +10076,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17881,
+      "Progressed": 17882,
       "Completed": 1
     }
   ],
@@ -10079,8 +10084,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-06T09:03:17.4875687+00:00",
+  "LastChanged_Achievements": "2023-09-06T10:03:35.1271041+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-06T09:00:21.3406483+00:00",
-  "LastUpdate_Achievements": "2023-09-06T09:03:17.487656+00:00"
+  "LastUpdate_Ratings": "2023-09-06T10:00:37.1492129+00:00",
+  "LastUpdate_Achievements": "2023-09-06T10:03:35.1271902+00:00"
 }
