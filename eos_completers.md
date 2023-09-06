@@ -3,10 +3,10 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.22% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.89% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.58% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 26.61% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.71% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -19,7 +19,7 @@
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
-| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.08% |
+| 20 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
 | 21 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 21 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |
@@ -81,9 +81,9 @@
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 81 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
-| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.55% |
-| 83 | [Lamentum](games/l/lamentum.md) | 2.52% |
+| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.54% |
 | 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.52% |
+| 84 | [Lamentum](games/l/lamentum.md) | 2.51% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.44% |
@@ -121,9 +121,9 @@
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
 | 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.02% |
-| 122 | [Sable](games/s/sable.md) | 1.00% |
 | 122 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.00% |
-| 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
+| 123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
+| 123 | [Sable](games/s/sable.md) | 0.99% |
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.98% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.95% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
