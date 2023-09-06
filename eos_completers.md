@@ -106,7 +106,7 @@
 | 104 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.55% |
-| 107 | [Five Dates](games/f/five_dates.md) | 1.51% |
+| 107 | [Five Dates](games/f/five_dates.md) | 1.50% |
 | 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
 | 109 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
@@ -142,8 +142,8 @@
 | 139 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 141 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 141 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
-| 141 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.60% |
-| 144 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
+| 143 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
+| 143 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.59% |
 | 145 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 146 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.56% |
 | 146 | [Grindstone](games/g/grindstone.md) | 0.56% |
