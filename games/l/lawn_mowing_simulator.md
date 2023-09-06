@@ -6,13 +6,13 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~529,730 |
-| Every story has a beginning | 36.00% | ~238,379 |
-| The first of many | 31.00% | ~205,271 |
-| Positive word of mouth | 18.00% | ~119,189 |
-| Lawn in the U.S.A. | 15.00% | ~99,324 |
+| The dream begins | 80.00% | ~529,734 |
+| Every story has a beginning | 36.00% | ~238,380 |
+| The first of many | 31.00% | ~205,272 |
+| Positive word of mouth | 18.00% | ~119,190 |
+| Lawn in the U.S.A. | 15.00% | ~99,325 |
 | Blade Runner | 9.00% | ~59,595 |
-| Credible | 7.00% | ~46,351 |
+| Credible | 7.00% | ~46,352 |
 | Teamwork makes the dream work | 6.00% | ~39,730 |
 | Where there's muck there's brass | 4.00% | ~26,487 |
 | Bigger and better | 4.00% | ~26,487 |
@@ -27,17 +27,17 @@ Number of Ratings: 5,086  (23.09.2022)
 | First step on the ladder | 2.00% | ~13,243 |
 | Trusted | 2.00% | ~13,243 |
 | The top of the mountain | 1.00% | ~6,622 |
-| Earn your stripes | 0.90% | ~5,959 |
-| Lawn & Order | 0.90% | ~5,959 |
-| Jack of all trades | 0.90% | ~5,959 |
-| Professional | 0.90% | ~5,959 |
+| Earn your stripes | 0.90% | ~5,960 |
+| Lawn & Order | 0.90% | ~5,960 |
+| Jack of all trades | 0.90% | ~5,960 |
+| Professional | 0.90% | ~5,960 |
 | The grass is always greener | 0.80% | ~5,297 |
 | All hands on deck | 0.80% | ~5,297 |
 | Worked your grass off | 0.80% | ~5,297 |
 | Phoenix rises | 0.40% | ~2,649 |
 | Cut Loose | 0.40% | ~2,649 |
 | Esteemed | 0.40% | ~2,649 |
-| Hard times | 0.30% | ~1,986 |
+| Hard times | 0.30% | ~1,987 |
 | Zero to hero | 0.20% | ~1,324 |
 | In it for the long haul | 0.20% | ~1,324 |
 | Centurion | 0.20% | ~1,324 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~662 |
 | Mo mowers, mo problems | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662,163 (Ranked 23)  
+Progressed: 662,167 (Ranked 23)  
 Completed: 16 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 16 (0.00%) (Ranked 270)
 | 2023-09-03 | 661,565 | 16 |
 | 2023-09-04 | 661,859 | 16 |
 | 2023-09-05 | 662,090 | 16 |
-| 2023-09-06 | 662,163 | 16 |
+| 2023-09-06 | 662,167 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 282)  
 Sum: 978 (Ranked 244)  

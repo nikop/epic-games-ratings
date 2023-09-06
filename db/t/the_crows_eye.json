@@ -4,8 +4,8 @@
   "ProductSlug": "the-crows-eye-af7d60",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-18T13:00:00+00:00",
     "PcReleaseDate": "2017-03-19T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:04.6896095+00:00",
   "LastChanged": "2023-03-31T05:57:04.6896096+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:16.9464562+00:00",
-  "LastUpdate_Ratings": "2023-09-06T06:58:07.2703444+00:00",
-  "LastUpdate_Achievements": "2023-09-06T07:05:20.2028896+00:00"
+  "LastUpdate_Ratings": "2023-09-06T07:57:53.0545389+00:00",
+  "LastUpdate_Achievements": "2023-09-06T08:05:10.6164174+00:00"
 }

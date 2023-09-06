@@ -5,48 +5,48 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~36,400 |
-| Har, Har, Har, Very Funny | 35.00% | ~24,980 |
-| Loose Ends | 34.00% | ~24,266 |
-| To the Victor Go the Spoils | 28.00% | ~19,984 |
-| Knighthood | 27.00% | ~19,270 |
-| Get ReQ'd | 25.00% | ~17,843 |
-| Whispered Words | 24.00% | ~17,129 |
-| The Batman Family | 23.00% | ~16,416 |
-| Lock and Key | 22.00% | ~15,702 |
-| Something in the Clay | 20.00% | ~14,274 |
-| Quartzer Life Crisis | 20.00% | ~14,274 |
-| Working Hard or Harley Working? | 20.00% | ~14,274 |
-| Unstoppable Force | 20.00% | ~14,274 |
-| Snow Problem | 19.00% | ~13,561 |
-| Bad Apples in Every Orchard | 19.00% | ~13,561 |
-| The Show Mud Go On | 17.00% | ~12,133 |
-| From Inside Gotham's Walls | 17.00% | ~12,133 |
-| Protector of Gotham | 16.00% | ~11,420 |
-| In Your Element | 15.00% | ~10,706 |
-| Universal Health Scare | 15.00% | ~10,706 |
-| Cooldown | 14.00% | ~9,992 |
-| Voiceless | 14.00% | ~9,992 |
-| Rock and a Hard Place | 13.00% | ~9,278 |
-| Shock Til They Drop | 13.00% | ~9,278 |
-| Seeking Asylum | 13.00% | ~9,278 |
-| End of an Era | 12.00% | ~8,565 |
-| Not On My Watch | 12.00% | ~8,565 |
-| Gotham Knight | 12.00% | ~8,565 |
-| Bulldozed | 11.00% | ~7,851 |
-| Gotham City Confidential | 11.00% | ~7,851 |
-| Drone You Out | 9.00% | ~6,423 |
+| First Step Into the Knight | 51.00% | ~36,404 |
+| Har, Har, Har, Very Funny | 35.00% | ~24,983 |
+| Loose Ends | 34.00% | ~24,269 |
+| To the Victor Go the Spoils | 28.00% | ~19,986 |
+| Knighthood | 27.00% | ~19,273 |
+| Get ReQ'd | 25.00% | ~17,845 |
+| Whispered Words | 24.00% | ~17,131 |
+| The Batman Family | 23.00% | ~16,417 |
+| Lock and Key | 22.00% | ~15,704 |
+| Something in the Clay | 20.00% | ~14,276 |
+| Quartzer Life Crisis | 20.00% | ~14,276 |
+| Working Hard or Harley Working? | 20.00% | ~14,276 |
+| Unstoppable Force | 20.00% | ~14,276 |
+| Snow Problem | 19.00% | ~13,562 |
+| Bad Apples in Every Orchard | 19.00% | ~13,562 |
+| The Show Mud Go On | 17.00% | ~12,135 |
+| From Inside Gotham's Walls | 17.00% | ~12,135 |
+| Protector of Gotham | 16.00% | ~11,421 |
+| In Your Element | 15.00% | ~10,707 |
+| Universal Health Scare | 15.00% | ~10,707 |
+| Cooldown | 14.00% | ~9,993 |
+| Voiceless | 14.00% | ~9,993 |
+| Rock and a Hard Place | 13.00% | ~9,279 |
+| Shock Til They Drop | 13.00% | ~9,279 |
+| Seeking Asylum | 13.00% | ~9,279 |
+| End of an Era | 12.00% | ~8,566 |
+| Not On My Watch | 12.00% | ~8,566 |
+| Gotham Knight | 12.00% | ~8,566 |
+| Bulldozed | 11.00% | ~7,852 |
+| Gotham City Confidential | 11.00% | ~7,852 |
+| Drone You Out | 9.00% | ~6,424 |
 | Out of Their League | 8.00% | ~5,710 |
 | Solid Alibi | 8.00% | ~5,710 |
-| Fusion Expert | 6.00% | ~4,282 |
-| Family Meeting | 6.00% | ~4,282 |
-| A Worthy Successor | 6.00% | ~4,282 |
+| Fusion Expert | 6.00% | ~4,283 |
+| Family Meeting | 6.00% | ~4,283 |
+| A Worthy Successor | 6.00% | ~4,283 |
 | Expert Crime Fighter | 5.00% | ~3,569 |
 | Dressed to Impress | 4.00% | ~2,855 |
 | A Momentum Occasion | 3.00% | ~2,141 |
 | Bat Out of Hell | 3.00% | ~2,141 |
-| Practice Makes Perfect | 2.00% | ~1,427 |
-| He'd Be So Proud of You | 2.00% | ~1,427 |
+| Practice Makes Perfect | 2.00% | ~1,428 |
+| He'd Be So Proud of You | 2.00% | ~1,428 |
 | Talonted | 1.00% | ~714 |
 | The Man-Bat Family | 1.00% | ~714 |
 | Batarang Collector | 1.00% | ~714 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~83 |
 | It's Nice to Be Wanted | 0.20% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,372 (Ranked 81)  
+Progressed: 71,380 (Ranked 81)  
 Completed: 111 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 111 (0.16%) (Ranked 200)
 | 2023-09-03 | 70,117 | 111 |
 | 2023-09-04 | 70,715 | 111 |
 | 2023-09-05 | 71,225 | 111 |
-| 2023-09-06 | 71,372 | 111 |
+| 2023-09-06 | 71,380 | 111 |
 ## Awards
 Max (Great Boss Battles): 2,569  (Ranked 98)  
 Sum: 4,267 (Ranked 140)  

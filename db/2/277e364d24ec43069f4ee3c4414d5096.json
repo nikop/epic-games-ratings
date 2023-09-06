@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -272,10 +272,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106591,
+  "EOS_Progressed": 106592,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 1035,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 1028,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -9837,6 +9837,11 @@
       "Time": "2023-09-06T07:06:23.0652823+00:00",
       "NumProgressed": 106591,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-06T08:06:13.1974602+00:00",
+      "NumProgressed": 106592,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -9856,7 +9861,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81009
+      "UsersEstimate": 81010
     },
     {
       "ID": "EAwards_10",
@@ -9936,7 +9941,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6395
+      "UsersEstimate": 6396
     },
     {
       "ID": "EAwards_2",
@@ -9960,7 +9965,7 @@
       "Name": "Special Delivery!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6395
+      "UsersEstimate": 6396
     },
     {
       "ID": "EAwards_22",
@@ -9968,7 +9973,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6395
+      "UsersEstimate": 6396
     },
     {
       "ID": "EAwards_23",
@@ -9992,7 +9997,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19186
+      "UsersEstimate": 19187
     },
     {
       "ID": "EAwards_26",
@@ -10056,7 +10061,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6395
+      "UsersEstimate": 6396
     },
     {
       "ID": "EAwards_33",
@@ -10239,7 +10244,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 106591,
+      "Progressed": 106592,
       "Completed": 40
     }
   ],
@@ -10247,8 +10252,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-01T15:00:01.2211131+00:00",
-  "LastChanged_Achievements": "2023-09-06T07:06:23.0652817+00:00",
+  "LastChanged_Achievements": "2023-09-06T08:06:13.1974596+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.1007702+00:00",
-  "LastUpdate_Ratings": "2023-09-06T06:58:13.1066998+00:00",
-  "LastUpdate_Achievements": "2023-09-06T07:06:23.0654076+00:00"
+  "LastUpdate_Ratings": "2023-09-06T07:57:58.7416848+00:00",
+  "LastUpdate_Achievements": "2023-09-06T08:06:13.1975679+00:00"
 }

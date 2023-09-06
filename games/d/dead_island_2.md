@@ -12,22 +12,22 @@ Rating: 4.54 (Ranked 505)
 | Hotel California | 1.00% | ~6,744 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,744 |
 | Welcome To Hell-A | 1.00% | ~6,744 |
-| Dr. Reed, I Presume? | 0.90% | ~6,069 |
-| Bookworm | 0.90% | ~6,069 |
-| But Doctor, I am Butcho | 0.90% | ~6,069 |
-| Friends Like These | 0.90% | ~6,069 |
-| Apex Predator | 0.90% | ~6,069 |
-| Stacking the Deck | 0.90% | ~6,069 |
-| This is My Weapon | 0.90% | ~6,069 |
+| Dr. Reed, I Presume? | 0.90% | ~6,070 |
+| Bookworm | 0.90% | ~6,070 |
+| But Doctor, I am Butcho | 0.90% | ~6,070 |
+| Friends Like These | 0.90% | ~6,070 |
+| Apex Predator | 0.90% | ~6,070 |
+| Stacking the Deck | 0.90% | ~6,070 |
+| This is My Weapon | 0.90% | ~6,070 |
 | Slayer Squad | 0.80% | ~5,395 |
 | Can't Handle the Truth | 0.80% | ~5,395 |
 | Like Riding a Bike | 0.80% | ~5,395 |
 | Zombologist | 0.80% | ~5,395 |
 | A Patton Emerges | 0.80% | ~5,395 |
+| Anger Management | 0.70% | ~4,721 |
 | Ooh, Shiny! | 0.70% | ~4,721 |
 | I Am the Resurrection | 0.70% | ~4,721 |
 | Our True Nature | 0.70% | ~4,721 |
-| Anger Management | 0.60% | ~4,046 |
 | Perks of the Job | 0.60% | ~4,046 |
 | I Got a Zombie Army and You Can't Harm Me | 0.60% | ~4,046 |
 | Making Your Mark | 0.50% | ~3,372 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~674 |
 | Bucket List | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,381 (Ranked 22)  
+Progressed: 674,394 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-03 | 672,940 | 2,111 |
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
-| 2023-09-06 | 674,381 | 2,119 |
+| 2023-09-06 | 674,394 | 2,119 |
 ## Awards
 Max (Great Boss Battles): 5,913  (Ranked 60)  
 Sum: 8,730 (Ranked 95)  

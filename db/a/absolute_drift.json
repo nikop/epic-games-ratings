@@ -442,9 +442,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538928,
+  "EOS_Progressed": 1538935,
   "EOS_Completed": 677,
-  "EOS_NewPlayers": 1168,
+  "EOS_NewPlayers": 1170,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -15937,6 +15937,11 @@
       "Time": "2023-09-06T07:07:35.6154822+00:00",
       "NumProgressed": 1538928,
       "NumCompleted": 677
+    },
+    {
+      "Time": "2023-09-06T08:07:24.577014+00:00",
+      "NumProgressed": 1538935,
+      "NumCompleted": 677
     }
   ],
   "TotalAchievements": 20,
@@ -15988,7 +15993,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10772
+      "UsersEstimate": 10773
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -16012,7 +16017,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10772
+      "UsersEstimate": 10773
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -16044,7 +16049,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153893
+      "UsersEstimate": 153894
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -16092,7 +16097,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76946
+      "UsersEstimate": 76947
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -16107,15 +16112,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1538928,
+      "Progressed": 1538935,
       "Completed": 677
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-07-23T19:00:00.3270793+00:00",
-  "LastChanged_Achievements": "2023-09-06T07:07:35.6154815+00:00",
+  "LastChanged_Achievements": "2023-09-06T08:07:24.5770134+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:36.7392026+00:00",
-  "LastUpdate_Ratings": "2023-09-06T07:01:47.7916516+00:00",
-  "LastUpdate_Achievements": "2023-09-06T07:07:35.61561+00:00"
+  "LastUpdate_Ratings": "2023-09-06T08:01:35.1906189+00:00",
+  "LastUpdate_Achievements": "2023-09-06T08:07:24.5771273+00:00"
 }

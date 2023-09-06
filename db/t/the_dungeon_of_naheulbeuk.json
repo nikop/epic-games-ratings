@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -804,9 +804,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 221609,
+  "EOS_Progressed": 221615,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2456,
+  "EOS_NewPlayers": 2441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9749,6 +9749,11 @@
       "Time": "2023-09-06T07:06:21.5844406+00:00",
       "NumProgressed": 221609,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-06T08:06:11.7021508+00:00",
+      "NumProgressed": 221615,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9784,7 +9789,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -10208,7 +10213,7 @@
       "Name": "Sowwy!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 62051
+      "UsersEstimate": 62052
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10256,7 +10261,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8864
+      "UsersEstimate": 8865
     },
     {
       "ID": "FollowBraztok",
@@ -10264,7 +10269,7 @@
       "Name": "The beards of change",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "FollowNarzatok",
@@ -10384,7 +10389,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "Rogue30Backstab",
@@ -10392,7 +10397,7 @@
       "Name": "I am the night",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "RogueEpic",
@@ -10463,21 +10468,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 221609,
+      "Progressed": 221615,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 221609,
+      "Progressed": 221615,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T03:59:34.5631211+00:00",
-  "LastChanged_Achievements": "2023-09-06T07:06:21.58444+00:00",
+  "LastChanged_Achievements": "2023-09-06T08:06:11.7021501+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-06T06:59:53.9005602+00:00",
-  "LastUpdate_Achievements": "2023-09-06T07:06:21.5846313+00:00"
+  "LastUpdate_Ratings": "2023-09-06T07:59:42.4814152+00:00",
+  "LastUpdate_Achievements": "2023-09-06T08:06:11.7023126+00:00"
 }

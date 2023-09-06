@@ -1507,9 +1507,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 200363,
+  "EOS_Progressed": 200368,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1685,
+  "EOS_NewPlayers": 1684,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17037,6 +17037,11 @@
       "Time": "2023-09-06T07:08:11.5902589+00:00",
       "NumProgressed": 200363,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-06T08:07:50.308565+00:00",
+      "NumProgressed": 200368,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17152,7 +17157,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14025
+      "UsersEstimate": 14026
     },
     {
       "ID": "ItsRainingMen",
@@ -17168,7 +17173,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14025
+      "UsersEstimate": 14026
     },
     {
       "ID": "Mercyful",
@@ -17296,7 +17301,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14025
+      "UsersEstimate": 14026
     },
     {
       "ID": "TanukiTime",
@@ -17336,7 +17341,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20036
+      "UsersEstimate": 20037
     },
     {
       "ID": "TimeParadox",
@@ -17392,22 +17397,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14025
+      "UsersEstimate": 14026
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 200363,
+      "Progressed": 200368,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-05T09:59:57.8033528+00:00",
-  "LastChanged_Achievements": "2023-09-06T07:08:11.5902583+00:00",
+  "LastChanged_Achievements": "2023-09-06T08:07:50.3085646+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:03.876432+00:00",
-  "LastUpdate_Ratings": "2023-09-06T07:00:54.5634556+00:00",
-  "LastUpdate_Achievements": "2023-09-06T07:08:11.5904159+00:00"
+  "LastUpdate_Ratings": "2023-09-06T08:00:45.873532+00:00",
+  "LastUpdate_Achievements": "2023-09-06T08:07:50.3086996+00:00"
 }

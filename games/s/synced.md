@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 31.00% | ~5 |
-| fifteenth Time's the Charm | 6.00% | ~1 |
-| Pulling Your Weight | 6.00% | ~1 |
-| Nano Connoisseur | 6.00% | ~1 |
-| Gone Rogue | 6.00% | ~1 |
-| As Far Away As Possible | 6.00% | ~1 |
-| No Time to Follow Protocol | 6.00% | ~1 |
-| Float Like a Butterfly... | 6.00% | ~1 |
-| Runs for Your Money | 6.00% | ~1 |
-| Past Master | 6.00% | ~1 |
+| Your Lucky Day | 26.00% | ~5 |
+| fifteenth Time's the Charm | 5.00% | ~1 |
+| Pulling Your Weight | 5.00% | ~1 |
+| Nano Connoisseur | 5.00% | ~1 |
+| Gone Rogue | 5.00% | ~1 |
+| As Far Away As Possible | 5.00% | ~1 |
+| No Time to Follow Protocol | 5.00% | ~1 |
+| Float Like a Butterfly... | 5.00% | ~1 |
+| Runs for Your Money | 5.00% | ~1 |
+| Past Master | 5.00% | ~1 |
 | Reaping Rivals | 0.00% | ~0 |
 | Memory Keeper | 0.00% | ~0 |
 | Completely Customizable | 0.00% | ~0 |
@@ -21,7 +21,7 @@
 | In Two Places At Once | 0.00% | ~0 |
 | More Power to You | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 444)  
+Progressed: 19 (Ranked 437)  
 Completed: 0 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -32,4 +32,4 @@ Completed: 0 (0.00%) (Ranked 270)
 | 2023-09-03 | 7 | 0 |
 | 2023-09-04 | 8 | 0 |
 | 2023-09-05 | 14 | 0 |
-| 2023-09-06 | 16 | 0 |
+| 2023-09-06 | 19 | 0 |
