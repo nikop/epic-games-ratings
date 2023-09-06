@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 2.00% | ~2,715 |
 | Tinkle of Coins | 2.00% | ~2,715 |
 | Titan's First Steps | 2.00% | ~2,715 |
-| One Easy Payment | 1.00% | ~1,357 |
-| Some Assembly Required | 1.00% | ~1,357 |
-| Disintermediation | 1.00% | ~1,357 |
-| Another Satisfied Customer | 1.00% | ~1,357 |
-| It's Free Real Estate | 1.00% | ~1,357 |
-| Pretty Penny | 1.00% | ~1,357 |
-| Budding Merchant | 1.00% | ~1,357 |
-| Capitalism Ho! | 1.00% | ~1,357 |
-| Own the Means of Production | 1.00% | ~1,357 |
+| One Easy Payment | 1.00% | ~1,358 |
+| Some Assembly Required | 1.00% | ~1,358 |
+| Disintermediation | 1.00% | ~1,358 |
+| Another Satisfied Customer | 1.00% | ~1,358 |
+| It's Free Real Estate | 1.00% | ~1,358 |
+| Pretty Penny | 1.00% | ~1,358 |
+| Budding Merchant | 1.00% | ~1,358 |
+| Capitalism Ho! | 1.00% | ~1,358 |
+| Own the Means of Production | 1.00% | ~1,358 |
 | The Daily Grind | 0.80% | ~1,086 |
 | One-Armed Bandit | 0.80% | ~1,086 |
 | Through Repetition, Perfection | 0.80% | ~1,086 |
@@ -27,6 +27,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.70% | ~950 |
 | Where it Hurts | 0.70% | ~950 |
 | Dungeon Imports | 0.70% | ~950 |
+| On the Path to Greatness | 0.60% | ~814 |
 | Ascended | 0.60% | ~814 |
 | Blank Page Syndrome | 0.60% | ~814 |
 | Efficient Floor Space | 0.60% | ~814 |
@@ -34,7 +35,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.60% | ~814 |
 | Did we pack lunch? | 0.60% | ~814 |
 | Arcane Industries | 0.60% | ~814 |
-| On the Path to Greatness | 0.50% | ~679 |
 | Research & Development | 0.50% | ~679 |
 | Vanity, Verily | 0.50% | ~679 |
 | Fated Encounters | 0.50% | ~679 |
@@ -100,11 +100,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.30% | ~407 |
 | Economy of Scarce | 0.30% | ~407 |
 | King's Blade | 0.30% | ~407 |
-| The Free Encyclopedia | 0.20% | ~271 |
-| Thank You Tom Nook | 0.20% | ~271 |
-| Jackpot! | 0.20% | ~271 |
-| Eternal Crusade | 0.20% | ~271 |
-| All Accounted For | 0.20% | ~271 |
+| The Free Encyclopedia | 0.20% | ~272 |
+| Thank You Tom Nook | 0.20% | ~272 |
+| Jackpot! | 0.20% | ~272 |
+| Eternal Crusade | 0.20% | ~272 |
+| All Accounted For | 0.20% | ~272 |
 | Bane of Legends | 0.10% | ~136 |
 | Ultimate Collector | 0.10% | ~136 |
 | Oligarch Monarch | 0.10% | ~136 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,744 (Ranked 67)  
+Progressed: 135,750 (Ranked 67)  
 Completed: 145 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 145 (0.11%) (Ranked 215)
 | 2023-09-03 | 135,618 | 142 |
 | 2023-09-04 | 135,661 | 142 |
 | 2023-09-05 | 135,715 | 144 |
-| 2023-09-06 | 135,744 | 145 |
+| 2023-09-06 | 135,750 | 145 |
 ## Awards
 Max (Great for Beginners): 4,723  (Ranked 71)  
 Sum: 27,177 (Ranked 49)  

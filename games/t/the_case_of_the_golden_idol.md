@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Solved The Spider of Lanka 1st Case | 4.00% | ~5 |
 | Solved second case | 3.00% | ~6 |
-| Solved The Spider of Lanka 1st Case | 3.00% | ~4 |
 | Solved first case | 2.00% | ~4 |
 | Solved fourth case | 2.00% | ~4 |
 | Solved fifth case | 2.00% | ~4 |
@@ -14,11 +14,11 @@
 | Solved sixth case | 1.00% | ~2 |
 | Solved seventh case | 1.00% | ~2 |
 | Solved eighth case | 1.00% | ~2 |
+| Solved The Spider of Lanka 2nd Case | 1.00% | ~1 |
+| Solved The Spider of Lanka 3rd Case | 1.00% | ~1 |
 | Solved eleventh case | 0.50% | ~1 |
 | Solved ninth case | 0.50% | ~1 |
 | Solved tenth case | 0.50% | ~1 |
-| Solved The Spider of Lanka 2nd Case | 0.50% | ~1 |
-| Solved The Spider of Lanka 3rd Case | 0.50% | ~1 |
 | Solved the Lemurian Vampire 2nd Case | 0.00% | ~0 |
 | Solved the Lemurian Vampire 3rd Case | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

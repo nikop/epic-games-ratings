@@ -1,35 +1,35 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.62 (Ranked 354)  
+Rating: 4.62 (Ranked 355)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~603,660 |
-| Right Back At Ya | 39.00% | ~341,199 |
-| The Lovers | 35.00% | ~306,204 |
-| Stanislavski's Method | 29.00% | ~253,712 |
-| The Wheel of Fortune | 27.00% | ~236,215 |
-| The Hermit | 25.00% | ~218,717 |
-| Christmas Tree Attack | 23.00% | ~201,220 |
-| True Soldier | 23.00% | ~201,220 |
-| The High Priestess | 22.00% | ~192,471 |
-| Legend of The Afterlife | 22.00% | ~192,471 |
-| Life of the Road | 21.00% | ~183,722 |
-| Full Body Conversion | 18.00% | ~157,476 |
-| The World | 18.00% | ~157,476 |
-| Bushido and Chill | 17.00% | ~148,728 |
-| Gun Fu | 15.00% | ~131,230 |
-| True Warrior | 15.00% | ~131,230 |
-| To Protect and Serve | 14.00% | ~122,482 |
-| Master Crafter | 14.00% | ~122,482 |
-| I Am The Law | 14.00% | ~122,482 |
-| Judy vs Night City | 14.00% | ~122,482 |
-| Two Heads, One Bullet | 12.00% | ~104,984 |
-| The Wandering Fool | 10.00% | ~87,487 |
-| The Quick and the Dead | 10.00% | ~87,487 |
-| Ten out of Ten | 9.00% | ~78,738 |
+| The Fool | 69.00% | ~603,665 |
+| Right Back At Ya | 39.00% | ~341,202 |
+| The Lovers | 35.00% | ~306,207 |
+| Stanislavski's Method | 29.00% | ~253,714 |
+| The Wheel of Fortune | 27.00% | ~236,217 |
+| The Hermit | 25.00% | ~218,719 |
+| Christmas Tree Attack | 23.00% | ~201,222 |
+| True Soldier | 23.00% | ~201,222 |
+| The High Priestess | 22.00% | ~192,473 |
+| Legend of The Afterlife | 22.00% | ~192,473 |
+| Life of the Road | 21.00% | ~183,724 |
+| Full Body Conversion | 18.00% | ~157,478 |
+| The World | 18.00% | ~157,478 |
+| Bushido and Chill | 17.00% | ~148,729 |
+| Gun Fu | 15.00% | ~131,232 |
+| True Warrior | 15.00% | ~131,232 |
+| To Protect and Serve | 14.00% | ~122,483 |
+| Master Crafter | 14.00% | ~122,483 |
+| I Am The Law | 14.00% | ~122,483 |
+| Judy vs Night City | 14.00% | ~122,483 |
+| Two Heads, One Bullet | 12.00% | ~104,985 |
+| The Wandering Fool | 10.00% | ~87,488 |
+| The Quick and the Dead | 10.00% | ~87,488 |
+| Ten out of Ten | 9.00% | ~78,739 |
 | Breathtaking | 8.00% | ~69,990 |
 | To Bad Decisions! | 7.00% | ~61,241 |
 | The Star | 7.00% | ~61,241 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,246 |
 | V for Vendetta | 3.00% | ~26,246 |
 | It's Elementary | 3.00% | ~26,246 |
-| Autojock | 2.00% | ~17,497 |
-| Frequent Flyer | 2.00% | ~17,497 |
-| Daemon In The Shell | 2.00% | ~17,497 |
-| The Devil | 2.00% | ~17,497 |
+| Autojock | 2.00% | ~17,498 |
+| Frequent Flyer | 2.00% | ~17,498 |
+| Daemon In The Shell | 2.00% | ~17,498 |
+| The Devil | 2.00% | ~17,498 |
 | Gunslinger | 1.00% | ~8,749 |
 | Rough Landing | 0.50% | ~4,374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 874,869 (Ranked 14)  
+Progressed: 874,877 (Ranked 14)  
 Completed: 2,063 (0.24%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,10 +190,10 @@ Completed: 2,063 (0.24%) (Ranked 187)
 | 2023-09-03 | 874,445 | 2,057 |
 | 2023-09-04 | 874,617 | 2,059 |
 | 2023-09-05 | 874,775 | 2,062 |
-| 2023-09-06 | 874,869 | 2,063 |
+| 2023-09-06 | 874,877 | 2,063 |
 ## Awards
 Max (Character Customization): 77,619  (Ranked 9)  
-Sum: 206,409 (Ranked 13)  
+Sum: 206,481 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -202,12 +202,12 @@ Diff (max vs sum): -4
 | This game is Great for Beginners | 9,281 |
 | This game has Diverse Characters | 9,256 |
 | This game has Amazing Storytelling | 9,220 |
+| This game is Extremely Fun | 9,084 |
 | This game is Highly Recommended | 9,080 |
-| This game is Extremely Fun | 9,049 |
-| This game is Relaxing | 8,952 |
+| This game is Relaxing | 8,969 |
 | This game has Amazing Characters | 8,899 |
 | This game has Quickly Understood Controls | 8,879 |
-| This game has a Creative Community | 5,805 |
+| This game has a Creative Community | 5,825 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -441,4 +441,4 @@ Diff (max vs sum): -4
 | 2023-09-03 | 4.62 | - | 77,270 | 205,378 |
 | 2023-09-04 | 4.62 | - | 77,413 | 205,807 |
 | 2023-09-05 | 4.62 | - | 77,523 | 206,227 |
-| 2023-09-06 | 4.62 | - | 77,619 | 206,409 |
+| 2023-09-06 | 4.62 | - | 77,619 | 206,481 |

@@ -7,26 +7,26 @@ Rating: 4.60 (Ranked 393)
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 26.00% | ~222 |
 | Rail Rat | 22.00% | ~188 |
-| The Mysterious Stranger | 21.00% | ~179 |
+| The Mysterious Stranger | 21.00% | ~180 |
 | The Prince in Heels | 20.00% | ~171 |
 | Immaculate Aim | 20.00% | ~171 |
 | The Steel Shadow | 19.00% | ~162 |
 | Make Up For Lost Time | 19.00% | ~162 |
 | Time Flies | 19.00% | ~162 |
-| The Harder They Fall | 19.00% | ~162 |
 | No, Thanks! | 19.00% | ~162 |
 | Breaking Down Barriers | 19.00% | ~162 |
 | Immaculate Aim | 19.00% | ~162 |
 | The Brass Boss | 19.00% | ~162 |
+| The Harder They Fall | 18.00% | ~154 |
 | The Wicked Twins | 18.00% | ~154 |
 | Honest Mistake | 18.00% | ~154 |
 | Fast Learner | 18.00% | ~154 |
 | Like Clockwork | 17.00% | ~145 |
 | The Betrayer | 17.00% | ~145 |
-| The Loose Cannon | 17.00% | ~145 |
 | Golem Chaser | 17.00% | ~145 |
 | Right On Time | 16.00% | ~137 |
 | The Man Who Shattered Time | 16.00% | ~137 |
+| The Loose Cannon | 16.00% | ~137 |
 | Check Your Pulse | 16.00% | ~137 |
 | The Family Fortune | 16.00% | ~137 |
 | Street Style | 15.00% | ~128 |
@@ -36,8 +36,8 @@ Rating: 4.60 (Ranked 393)
 | Chaincrawler Explorer | 11.00% | ~94 |
 | Family Memories | 11.00% | ~94 |
 | Good Neighbor | 11.00% | ~94 |
-| Theater Explorer | 10.00% | ~85 |
-| Ask Questions Later | 10.00% | ~85 |
+| Theater Explorer | 10.00% | ~86 |
+| Ask Questions Later | 10.00% | ~86 |
 | Factorywood Explorer | 9.00% | ~77 |
 | Fairgrounds Explorer | 9.00% | ~77 |
 | Sump Explorer | 9.00% | ~77 |
@@ -59,8 +59,8 @@ Rating: 4.60 (Ranked 393)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 854 (Ranked 213)  
-Completed: 5 (0.59%) (Ranked 144)  
+Progressed: 855 (Ranked 213)  
+Completed: 5 (0.58%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,6 +152,7 @@ Completed: 5 (0.59%) (Ranked 144)
 | 2023-08-31 | 851 | 5 |
 | 2023-09-01 | 853 | 5 |
 | 2023-09-03 | 854 | 5 |
+| 2023-09-06 | 855 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

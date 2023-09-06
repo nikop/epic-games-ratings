@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 482,
+  "EOS_Progressed": 483,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 18.26,
+  "EOS_Completed_Percentage": 18.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2348,6 +2348,11 @@
       "Time": "2023-09-06T14:04:54.3440244+00:00",
       "NumProgressed": 482,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-09-06T16:04:43.7427505+00:00",
+      "NumProgressed": 483,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -2359,7 +2364,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "LEVEL_002",
@@ -2373,9 +2378,9 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 323
+      "UsersEstimate": 319
     },
     {
       "ID": "LEVEL_004",
@@ -2389,9 +2394,9 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 241
+      "UsersEstimate": 237
     },
     {
       "ID": "LEVEL_006",
@@ -2399,7 +2404,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "LEVEL_007",
@@ -2423,7 +2428,7 @@
       "Name": "Who loves trains?",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "LEVEL_010",
@@ -2437,9 +2442,9 @@
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_012",
@@ -2477,9 +2482,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_017",
@@ -2487,7 +2492,7 @@
       "Name": "Commuting",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_018",
@@ -2495,7 +2500,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_019",
@@ -2534,7 +2539,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 482,
+      "Progressed": 483,
       "Completed": 88
     }
   ],
@@ -2542,8 +2547,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-06T15:04:29.2050204+00:00",
+  "LastChanged_Achievements": "2023-09-06T16:04:43.7427497+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:24.6257817+00:00",
-  "LastUpdate_Ratings": "2023-09-06T14:59:43.9539455+00:00",
-  "LastUpdate_Achievements": "2023-09-06T15:04:29.2050717+00:00"
+  "LastUpdate_Ratings": "2023-09-06T15:59:54.193995+00:00",
+  "LastUpdate_Achievements": "2023-09-06T16:04:43.7427826+00:00"
 }

@@ -9,6 +9,7 @@
 | The Preacher's fate | 18.00% | ~14 |
 | The great escape | 18.00% | ~14 |
 | A new dawn | 16.00% | ~13 |
+| Champollion | 15.00% | ~12 |
 | Scholar | 15.00% | ~12 |
 | The darkness | 15.00% | ~12 |
 | One last step | 15.00% | ~12 |
@@ -16,15 +17,14 @@
 | A good beginning | 14.00% | ~11 |
 | Rascal | 14.00% | ~11 |
 | True G4M3R | 14.00% | ~11 |
-| Champollion | 14.00% | ~11 |
 | I did it | 11.00% | ~9 |
+| Feels like springtime | 10.00% | ~8 |
 | Fashion victim | 10.00% | ~8 |
+| Peace walker | 9.00% | ~7 |
 | Half the way | 9.00% | ~7 |
-| Feels like springtime | 9.00% | ~7 |
+| Open door | 9.00% | ~7 |
 | In this together | 8.00% | ~6 |
-| Peace walker | 6.00% | ~5 |
-| Open door | 6.00% | ~5 |
-| Free at last | 5.00% | ~4 |
+| Free at last | 6.00% | ~5 |
 | A great audience | 5.00% | ~4 |
 | For its own good | 5.00% | ~4 |
 | A Link to the Past | 5.00% | ~4 |

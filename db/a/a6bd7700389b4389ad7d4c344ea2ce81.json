@@ -2,9 +2,9 @@
   "ID": "a6bd7700389b4389ad7d4c344ea2ce81",
   "Name": "Heist Force",
   "ProductSlug": "heist-force-e1edb9",
-  "Ranking_EOS_Progress": 577,
+  "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-08-30T18:57:06.8022284+00:00",
-  "LastUpdate_Ratings": "2023-09-06T14:58:03.4254155+00:00",
-  "LastUpdate_Achievements": "2023-09-06T15:04:07.3884859+00:00"
+  "LastUpdate_Ratings": "2023-09-06T15:58:10.9986971+00:00",
+  "LastUpdate_Achievements": "2023-09-06T16:04:21.4287962+00:00"
 }

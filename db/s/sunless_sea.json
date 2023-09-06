@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -685,9 +685,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 36850,
+  "EOS_Progressed": 36852,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14870,6 +14870,11 @@
       "Time": "2023-09-06T15:04:11.8878645+00:00",
       "NumProgressed": 36850,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-06T16:04:25.8577725+00:00",
+      "NumProgressed": 36852,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -14897,7 +14902,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6264
+      "UsersEstimate": 6265
     },
     {
       "ID": "ach_antiquarian10",
@@ -14913,7 +14918,7 @@
       "Name": "A buoyant escape",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_constant",
@@ -15001,7 +15006,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13266
+      "UsersEstimate": 13267
     },
     {
       "ID": "ach_die10",
@@ -15025,7 +15030,7 @@
       "Name": "Frightful, sheer, no-man-fathomed",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_dreadnaught",
@@ -15121,7 +15126,7 @@
       "Name": "The Bell Tolls",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_portbones",
@@ -15129,7 +15134,7 @@
       "Name": "His bones in whispers",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_portdeep",
@@ -15153,7 +15158,7 @@
       "Name": "Thanks for all the fish",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_portknife",
@@ -15161,7 +15166,7 @@
       "Name": "Knife, Cup and Bone",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_portleviathan",
@@ -15177,7 +15182,7 @@
       "Name": "Those are pearls that were his eyes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_portregret",
@@ -15193,7 +15198,7 @@
       "Name": "Rosewater sailor",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_portunder",
@@ -15201,7 +15206,7 @@
       "Name": "Under the zee",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_scion",
@@ -15209,7 +15214,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "ach_stranger",
@@ -15257,7 +15262,7 @@
       "Name": "A current under zee",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ach_underdepth",
@@ -15312,15 +15317,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 36850,
+      "Progressed": 36852,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-07-28T14:59:59.8138313+00:00",
-  "LastChanged_Achievements": "2023-09-06T15:04:11.8878637+00:00",
+  "LastChanged_Achievements": "2023-09-06T16:04:25.8577718+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:20.6698248+00:00",
-  "LastUpdate_Ratings": "2023-09-06T15:02:27.2112854+00:00",
-  "LastUpdate_Achievements": "2023-09-06T15:04:11.8881103+00:00"
+  "LastUpdate_Ratings": "2023-09-06T16:02:30.2263849+00:00",
+  "LastUpdate_Achievements": "2023-09-06T16:04:25.8579255+00:00"
 }

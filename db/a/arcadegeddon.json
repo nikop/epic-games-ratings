@@ -4,7 +4,7 @@
   "ProductSlug": "arcadegeddon",
   "Ranking_Rating": 580,
   "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 310,
+  "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 117,
@@ -731,10 +731,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 461,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2023-09-06T16:00:57.9759316+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 462,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 461,
+  "NumberOfAwards": 462,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -772,7 +778,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -807,7 +813,7 @@
   ],
   "EOS_Progressed": 8904,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9271,9 +9277,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
-  "LastChanged": "2023-08-26T20:00:35.7638422+00:00",
-  "LastChanged_Achievements": "2023-09-06T15:07:12.3577953+00:00",
+  "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
+  "LastChanged_Achievements": "2023-09-06T16:07:23.2600621+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:18.6650629+00:00",
-  "LastUpdate_Ratings": "2023-09-06T15:00:50.9851227+00:00",
-  "LastUpdate_Achievements": "2023-09-06T15:07:12.3579612+00:00"
+  "LastUpdate_Ratings": "2023-09-06T16:00:57.9759323+00:00",
+  "LastUpdate_Achievements": "2023-09-06T16:07:23.2601345+00:00"
 }

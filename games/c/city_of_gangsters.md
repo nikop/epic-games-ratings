@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.27 (Ranked 823)  
+Rating: 4.27 (Ranked 822)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,262 |
+| Corner Clout | 46.00% | ~157,264 |
 | Copacetic Coordination | 16.00% | ~54,700 |
-| Fronting the Money | 15.00% | ~51,281 |
-| The Dawn of Automation | 14.00% | ~47,862 |
-| Extraordinary Logistics | 14.00% | ~47,862 |
-| Dirty Money | 13.00% | ~44,443 |
-| Family First | 13.00% | ~44,443 |
+| Fronting the Money | 15.00% | ~51,282 |
+| The Dawn of Automation | 14.00% | ~47,863 |
+| Extraordinary Logistics | 14.00% | ~47,863 |
+| Dirty Money | 13.00% | ~44,444 |
+| Family First | 13.00% | ~44,444 |
 | Cleaning House | 12.00% | ~41,025 |
 | Room in the Back | 12.00% | ~41,025 |
-| Beating the Heat | 11.00% | ~37,606 |
-| Booze Baron | 11.00% | ~37,606 |
-| Friends on the Force | 10.00% | ~34,187 |
-| Neighborhood Watch | 10.00% | ~34,187 |
+| Beating the Heat | 11.00% | ~37,607 |
+| Booze Baron | 11.00% | ~37,607 |
+| Friends on the Force | 10.00% | ~34,188 |
+| Neighborhood Watch | 10.00% | ~34,188 |
 | Core Corps | 8.00% | ~27,350 |
 | Sizeable Stash | 8.00% | ~27,350 |
 | Street Fighter | 7.00% | ~23,931 |
 | Friendly Gestures | 7.00% | ~23,931 |
 | People Person | 7.00% | ~23,931 |
-| Liquor Lord | 6.00% | ~20,512 |
-| Safety in Numbers | 6.00% | ~20,512 |
-| Moving Experiences | 6.00% | ~20,512 |
-| Wise Head | 6.00% | ~20,512 |
-| Show ‘em the Sugar | 6.00% | ~20,512 |
-| Killing Them Softly | 6.00% | ~20,512 |
+| Liquor Lord | 6.00% | ~20,513 |
+| Safety in Numbers | 6.00% | ~20,513 |
+| Moving Experiences | 6.00% | ~20,513 |
+| Wise Head | 6.00% | ~20,513 |
+| Show ‘em the Sugar | 6.00% | ~20,513 |
+| Killing Them Softly | 6.00% | ~20,513 |
 | Street Knowledge | 5.00% | ~17,094 |
 | Oh Captain | 5.00% | ~17,094 |
 | Branching Out | 5.00% | ~17,094 |
@@ -48,11 +48,11 @@ Rating: 4.27 (Ranked 823)
 | Still Stalwart | 3.00% | ~10,256 |
 | Bees Knees Bootlegger | 3.00% | ~10,256 |
 | Tighten the Screws | 3.00% | ~10,256 |
-| One of Us | 2.00% | ~6,837 |
-| Baker’s Dozen | 2.00% | ~6,837 |
-| Dropping the Dime | 2.00% | ~6,837 |
-| Spiffy Speakeasies | 2.00% | ~6,837 |
-| Keeping Your Word | 2.00% | ~6,837 |
+| One of Us | 2.00% | ~6,838 |
+| Baker’s Dozen | 2.00% | ~6,838 |
+| Dropping the Dime | 2.00% | ~6,838 |
+| Spiffy Speakeasies | 2.00% | ~6,838 |
+| Keeping Your Word | 2.00% | ~6,838 |
 | Boxing Them In | 1.00% | ~3,419 |
 | Backroom Empire | 1.00% | ~3,419 |
 | Corner Control | 1.00% | ~3,419 |
@@ -65,11 +65,11 @@ Rating: 4.27 (Ranked 823)
 | Getting Fancy | 0.80% | ~2,735 |
 | Crossing Over | 0.80% | ~2,735 |
 | Social Butterfly | 0.50% | ~1,709 |
-| Homemade Hooch | 0.40% | ~1,367 |
-| Still Dreaming | 0.40% | ~1,367 |
-| High End Booze | 0.40% | ~1,367 |
-| Working on the Railroad | 0.40% | ~1,367 |
-| In-House Maintenance | 0.40% | ~1,367 |
+| Homemade Hooch | 0.40% | ~1,368 |
+| Still Dreaming | 0.40% | ~1,368 |
+| High End Booze | 0.40% | ~1,368 |
+| Working on the Railroad | 0.40% | ~1,368 |
+| In-House Maintenance | 0.40% | ~1,368 |
 | Bottled Up | 0.30% | ~1,026 |
 | Streetwise | 0.30% | ~1,026 |
 | Dirty Work | 0.20% | ~684 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 823)
 | High Pillow | 0.10% | ~342 |
 | Station Master | 0.10% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341,873 (Ranked 42)  
+Progressed: 341,878 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 7 (0.00%) (Ranked 270)
 | 2023-09-03 | 341,484 | 7 |
 | 2023-09-04 | 341,663 | 7 |
 | 2023-09-05 | 341,793 | 7 |
-| 2023-09-06 | 341,873 | 7 |
+| 2023-09-06 | 341,878 | 7 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 131 (Ranked 405)  

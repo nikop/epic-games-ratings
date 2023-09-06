@@ -6951,7 +6951,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60446,
+  "EOS_Progressed": 60449,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
@@ -21666,6 +21666,11 @@
       "Time": "2023-09-06T15:04:21.7124998+00:00",
       "NumProgressed": 60446,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-06T16:04:36.1639049+00:00",
+      "NumProgressed": 60449,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21901,7 +21906,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19343
+      "UsersEstimate": 19344
     },
     {
       "ID": "Lawbringer",
@@ -21909,7 +21914,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22969
+      "UsersEstimate": 22971
     },
     {
       "ID": "Lawmaker",
@@ -22029,7 +22034,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10880
+      "UsersEstimate": 10881
     },
     {
       "ID": "This Is Our Land",
@@ -22053,7 +22058,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13298
+      "UsersEstimate": 13299
     },
     {
       "ID": "Undercover",
@@ -22084,15 +22089,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60446,
+      "Progressed": 60449,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-06T13:07:20.765291+00:00",
-  "LastChanged_Achievements": "2023-09-06T15:04:21.7124989+00:00",
+  "LastChanged_Achievements": "2023-09-06T16:04:36.1639045+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-06T15:02:38.1277265+00:00",
-  "LastUpdate_Achievements": "2023-09-06T15:04:21.7127436+00:00"
+  "LastUpdate_Ratings": "2023-09-06T16:02:42.0222588+00:00",
+  "LastUpdate_Achievements": "2023-09-06T16:04:36.1640261+00:00"
 }

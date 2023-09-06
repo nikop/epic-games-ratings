@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 17,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4198,10 +4198,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8730,
       "NumberOfAwardsMax": 5913
+    },
+    {
+      "Time": "2023-09-06T16:00:39.7324361+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8732,
+      "NumberOfAwardsMax": 5913
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8730,
+  "NumberOfAwards": 8732,
   "NumberOfAwardsMax": 5913,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4257,12 +4263,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 339
+      "Count": 341
     }
   ],
-  "EOS_Progressed": 674568,
+  "EOS_Progressed": 674598,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 5244,
+  "EOS_NewPlayers": 5226,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19795,6 +19801,11 @@
       "Time": "2023-09-06T15:07:20.6655663+00:00",
       "NumProgressed": 674568,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-09-06T16:07:31.5012145+00:00",
+      "NumProgressed": 674598,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 45,
@@ -19886,7 +19897,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4047
+      "UsersEstimate": 4048
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -19956,9 +19967,9 @@
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6071
+      "UsersEstimate": 6746
     },
     {
       "ID": "ach_hotel_california",
@@ -20046,7 +20057,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4047
+      "UsersEstimate": 4048
     },
     {
       "ID": "ach_revival_tour",
@@ -20165,22 +20176,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674568,
+      "Progressed": 674598,
       "Completed": 2119
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 108,
-      "Completed": 108
+      "Progressed": 138,
+      "Completed": 138
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-05T19:59:05.2782537+00:00",
-  "LastChanged_Achievements": "2023-09-06T15:07:20.6655656+00:00",
+  "LastChanged": "2023-09-06T16:00:39.7324358+00:00",
+  "LastChanged_Achievements": "2023-09-06T16:07:31.501214+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-06T15:00:32.1730972+00:00",
-  "LastUpdate_Achievements": "2023-09-06T15:07:20.6658067+00:00"
+  "LastUpdate_Ratings": "2023-09-06T16:00:39.7324367+00:00",
+  "LastUpdate_Achievements": "2023-09-06T16:07:31.501329+00:00"
 }

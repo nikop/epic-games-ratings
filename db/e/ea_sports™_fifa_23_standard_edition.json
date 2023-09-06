@@ -5,9 +5,9 @@
   "Ranking_Rating": 830,
   "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 14,
-  "Ranking_EOS_Progress": 577,
+  "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-09-30T07:00:00+00:00",
@@ -6096,10 +6096,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 97256,
       "NumberOfAwardsMax": 18987
+    },
+    {
+      "Time": "2023-09-06T16:02:52.6881612+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 97299,
+      "NumberOfAwardsMax": 18987
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97256,
+  "NumberOfAwards": 97299,
   "NumberOfAwardsMax": 18987,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6113,7 +6119,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 12550
+      "Count": 12577
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6131,7 +6137,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 10575
+      "Count": 10591
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6172,9 +6178,9 @@
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "FirstSeenAchievements": "2023-06-30T22:04:55.4343947+00:00",
-  "LastChanged": "2023-09-06T13:07:28.3703648+00:00",
-  "LastChanged_Achievements": "2023-09-06T15:07:17.2474804+00:00",
+  "LastChanged": "2023-09-06T16:02:52.688161+00:00",
+  "LastChanged_Achievements": "2023-09-06T16:07:28.0158528+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:39.4104233+00:00",
-  "LastUpdate_Ratings": "2023-09-06T15:02:49.9524934+00:00",
-  "LastUpdate_Achievements": "2023-09-06T15:07:17.2474855+00:00"
+  "LastUpdate_Ratings": "2023-09-06T16:02:52.6881622+00:00",
+  "LastUpdate_Achievements": "2023-09-06T16:07:28.0158566+00:00"
 }
