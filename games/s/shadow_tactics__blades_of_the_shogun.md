@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~22,050 |
-| Thorough | 10.00% | ~20,045 |
-| A thief's beginning | 9.00% | ~18,040 |
+| Thorough | 10.00% | ~20,046 |
+| A thief's beginning | 9.00% | ~18,041 |
 | Disguised | 8.00% | ~16,036 |
 | Rescue Takuma | 8.00% | ~16,036 |
 | Rollin' | 8.00% | ~16,036 |
@@ -21,9 +21,9 @@ Number of Ratings: 495  (23.09.2022)
 | Flying Rocks | 6.00% | ~12,027 |
 | Happy Planning | 6.00% | ~12,027 |
 | Mugen Unchained | 6.00% | ~12,027 |
-| Okkoto | 5.00% | ~10,022 |
-| Too Early | 5.00% | ~10,022 |
-| Warzone | 5.00% | ~10,022 |
+| Okkoto | 5.00% | ~10,023 |
+| Too Early | 5.00% | ~10,023 |
+| Warzone | 5.00% | ~10,023 |
 | Gear up | 4.00% | ~8,018 |
 | Happy little accidents | 4.00% | ~8,018 |
 | Prisoners | 4.00% | ~8,018 |
@@ -35,10 +35,10 @@ Number of Ratings: 495  (23.09.2022)
 | It's raining men | 2.00% | ~4,009 |
 | Old Man | 2.00% | ~4,009 |
 | Winner Winner | 2.00% | ~4,009 |
-| Meticulous | 1.00% | ~2,004 |
-| No Gimmicks | 1.00% | ~2,004 |
-| The End | 1.00% | ~2,004 |
-| Undeserved Honor | 1.00% | ~2,004 |
+| Meticulous | 1.00% | ~2,005 |
+| No Gimmicks | 1.00% | ~2,005 |
+| The End | 1.00% | ~2,005 |
+| Undeserved Honor | 1.00% | ~2,005 |
 | When Cut Across the Neck | 0.90% | ~1,804 |
 | High Five the Moon | 0.80% | ~1,604 |
 | The Cave | 0.70% | ~1,403 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~200 |
 | Release the Kraken | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,450 (Ranked 61)  
+Progressed: 200,455 (Ranked 61)  
 Completed: 77 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 77 (0.04%) (Ranked 239)
 | 2023-09-03 | 199,900 | 76 |
 | 2023-09-04 | 200,108 | 76 |
 | 2023-09-05 | 200,306 | 76 |
-| 2023-09-06 | 200,450 | 77 |
+| 2023-09-06 | 200,455 | 77 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 191)  
 Sum: 4,743 (Ranked 135)  

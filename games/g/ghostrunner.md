@@ -6,28 +6,28 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~12,791 |
+| Longrunner | 76.00% | ~12,792 |
 | Sword Runner | 62.00% | ~10,435 |
-| Running out of breath | 54.00% | ~9,088 |
-| Wallrunner | 54.00% | ~9,088 |
+| Running out of breath | 54.00% | ~9,089 |
+| Wallrunner | 54.00% | ~9,089 |
 | Homerunner | 45.00% | ~7,574 |
 | Out of order | 45.00% | ~7,574 |
-| I call it luck | 44.00% | ~7,405 |
-| Where are my Keys? | 41.00% | ~6,900 |
+| I call it luck | 44.00% | ~7,406 |
+| Where are my Keys? | 41.00% | ~6,901 |
 | Back to hell | 37.00% | ~6,227 |
 | Perfection | 32.00% | ~5,386 |
 | Why not both | 30.00% | ~5,049 |
 | Sword to a gunfight | 29.00% | ~4,881 |
 | Upgrades not mandatory | 29.00% | ~4,881 |
-| Artificial selection | 28.00% | ~4,712 |
-| Control freak | 28.00% | ~4,712 |
+| Artificial selection | 28.00% | ~4,713 |
+| Control freak | 28.00% | ~4,713 |
 | Running Wild | 27.00% | ~4,544 |
 | Finish line | 26.00% | ~4,376 |
 | Unstoppable force | 23.00% | ~3,871 |
 | Wave of mutilation | 22.00% | ~3,703 |
 | Can't Run Can't Hide | 17.00% | ~2,861 |
 | R is for Running | 16.00% | ~2,693 |
-| Dead in the air | 15.00% | ~2,524 |
+| Dead in the air | 15.00% | ~2,525 |
 | Improvise, adapt, overrun | 13.00% | ~2,188 |
 | Pre-empative strike | 13.00% | ~2,188 |
 | Strike | 13.00% | ~2,188 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~67 |
 | Up Close And Personal | 0.40% | ~67 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,830 (Ranked 115)  
+Progressed: 16,831 (Ranked 115)  
 Completed: 65 (0.39%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 65 (0.39%) (Ranked 164)
 | 2023-09-03 | 16,651 | 65 |
 | 2023-09-04 | 16,723 | 65 |
 | 2023-09-05 | 16,791 | 65 |
-| 2023-09-06 | 16,830 | 65 |
+| 2023-09-06 | 16,831 | 65 |
 ## Awards
 Max (Great Boss Battles): 489  (Ranked 202)  
 Sum: 682 (Ranked 281)  

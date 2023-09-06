@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1239,9 +1239,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8851,
+  "EOS_Progressed": 8852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12319,6 +12319,11 @@
       "Time": "2023-09-06T17:07:21.8561503+00:00",
       "NumProgressed": 8851,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-06T18:06:11.5368533+00:00",
+      "NumProgressed": 8852,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -12362,7 +12367,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4691
+      "UsersEstimate": 4692
     },
     {
       "ID": "14",
@@ -12370,7 +12375,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "15",
@@ -12378,7 +12383,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "16",
@@ -12426,7 +12431,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3363
+      "UsersEstimate": 3364
     },
     {
       "ID": "21",
@@ -12450,7 +12455,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3009
+      "UsersEstimate": 3010
     },
     {
       "ID": "24",
@@ -12466,7 +12471,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "26",
@@ -12578,7 +12583,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3894
+      "UsersEstimate": 3895
     },
     {
       "ID": "39",
@@ -12594,7 +12599,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "40",
@@ -12650,7 +12655,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "47",
@@ -12801,15 +12806,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8851,
+      "Progressed": 8852,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-06T14:03:03.7495467+00:00",
-  "LastChanged_Achievements": "2023-09-06T17:07:21.8561495+00:00",
+  "LastChanged_Achievements": "2023-09-06T18:06:11.5368529+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:39.804786+00:00",
-  "LastUpdate_Ratings": "2023-09-06T17:02:13.9190344+00:00",
-  "LastUpdate_Achievements": "2023-09-06T17:07:21.8563293+00:00"
+  "LastUpdate_Ratings": "2023-09-06T18:01:14.2189621+00:00",
+  "LastUpdate_Achievements": "2023-09-06T18:06:11.5369477+00:00"
 }

@@ -7,25 +7,25 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 6.00% | ~1,346 |
-| Project Arena | 4.00% | ~897 |
-| The Old Grandmaster | 2.00% | ~14,262 |
-| The Assault | 2.00% | ~14,262 |
-| The Hateful Pole Fighter | 2.00% | ~14,262 |
-| A Lady's Blood in the Snow | 2.00% | ~14,262 |
-| Lady Wing Chun | 2.00% | ~14,262 |
-| Furious Fists | 2.00% | ~14,262 |
-| Kill Nil | 2.00% | ~14,262 |
-| Stuntmaster | 2.00% | ~14,262 |
-| Street Fighting | 2.00% | ~14,262 |
-| Life is your teacher | 2.00% | ~14,262 |
-| State of constant learning | 2.00% | ~14,262 |
-| Qi Gong: Breath | 2.00% | ~14,262 |
-| Qi Gong: Essence | 2.00% | ~14,262 |
-| Old Child | 2.00% | ~14,262 |
-| Lightning Hands | 2.00% | ~14,262 |
-| Path of the Prospect | 2.00% | ~14,262 |
-| Rumble in the Hangar | 2.00% | ~14,262 |
-| Take damage to save time | 2.00% | ~14,262 |
+| Project Arena | 4.00% | ~898 |
+| The Old Grandmaster | 2.00% | ~14,263 |
+| The Assault | 2.00% | ~14,263 |
+| The Hateful Pole Fighter | 2.00% | ~14,263 |
+| A Lady's Blood in the Snow | 2.00% | ~14,263 |
+| Lady Wing Chun | 2.00% | ~14,263 |
+| Furious Fists | 2.00% | ~14,263 |
+| Kill Nil | 2.00% | ~14,263 |
+| Stuntmaster | 2.00% | ~14,263 |
+| Street Fighting | 2.00% | ~14,263 |
+| Life is your teacher | 2.00% | ~14,263 |
+| State of constant learning | 2.00% | ~14,263 |
+| Qi Gong: Breath | 2.00% | ~14,263 |
+| Qi Gong: Essence | 2.00% | ~14,263 |
+| Old Child | 2.00% | ~14,263 |
+| Lightning Hands | 2.00% | ~14,263 |
+| Path of the Prospect | 2.00% | ~14,263 |
+| Rumble in the Hangar | 2.00% | ~14,263 |
+| Take damage to save time | 2.00% | ~14,263 |
 | Bloody Sport | 2.00% | ~449 |
 | Scareless | 1.00% | ~7,131 |
 | Dance of the Praying Mantis | 1.00% | ~7,131 |
@@ -37,8 +37,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.80% | ~5,705 |
 | Source of Flying Daggers | 0.80% | ~5,705 |
 | Detective Story | 0.80% | ~5,705 |
-| Deadly Venom | 0.80% | ~179 |
-| A Touch of Acumen | 0.80% | ~179 |
+| Deadly Venom | 0.80% | ~180 |
+| A Touch of Acumen | 0.80% | ~180 |
 | Iron Money | 0.70% | ~4,992 |
 | Legendary Talismans of Wuxing | 0.70% | ~4,992 |
 | The 36th Chamber of Kung-Fu | 0.70% | ~4,992 |
@@ -46,18 +46,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.60% | ~4,279 |
 | Martial Hub | 0.50% | ~112 |
 | Secure, Protect, Leave | 0.50% | ~112 |
-| Drunken Fighter | 0.40% | ~2,852 |
-| Martial Artist | 0.40% | ~2,852 |
-| Knowledge Greed | 0.40% | ~2,852 |
-| Master of the Phoenix Eye Fist | 0.40% | ~2,852 |
-| The Pit Protector | 0.40% | ~2,852 |
-| Be like water my friend | 0.40% | ~2,852 |
-| Come Snap With Me | 0.40% | ~2,852 |
+| Drunken Fighter | 0.40% | ~2,853 |
+| Martial Artist | 0.40% | ~2,853 |
+| Knowledge Greed | 0.40% | ~2,853 |
+| Master of the Phoenix Eye Fist | 0.40% | ~2,853 |
+| The Pit Protector | 0.40% | ~2,853 |
+| Be like water my friend | 0.40% | ~2,853 |
+| Come Snap With Me | 0.40% | ~2,853 |
 | Healing Memory | 0.30% | ~2,139 |
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,125 (Ranked 20)  
+Progressed: 713,137 (Ranked 20)  
 Completed: 12,886 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,10 +196,10 @@ Completed: 12,886 (1.81%) (Ranked 99)
 | 2023-09-03 | 712,929 | 12,882 |
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
-| 2023-09-06 | 713,125 | 12,886 |
+| 2023-09-06 | 713,137 | 12,886 |
 ## Awards
 Max (Great Boss Battles): 6,437  (Ranked 54)  
-Sum: 11,073 (Ranked 80)  
+Sum: 11,075 (Ranked 80)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -207,7 +207,7 @@ Diff (max vs sum): -26
 | This game has Diverse Characters | 581 |
 | This game has Challenging Combat | 547 |
 | This game has Quickly Understood Controls | 544 |
-| This game has Amazing Storytelling | 531 |
+| This game has Amazing Storytelling | 533 |
 | This game is Extremely Fun | 530 |
 | This game has Amazing Characters | 523 |
 | This game is Highly Recommended | 520 |
@@ -450,4 +450,4 @@ Diff (max vs sum): -26
 | 2023-09-03 | 4.82 | - | 6,430 | 11,053 |
 | 2023-09-04 | 4.82 | - | 6,430 | 11,055 |
 | 2023-09-05 | 4.82 | - | 6,437 | 11,070 |
-| 2023-09-06 | 4.82 | - | 6,437 | 11,073 |
+| 2023-09-06 | 4.82 | - | 6,437 | 11,075 |

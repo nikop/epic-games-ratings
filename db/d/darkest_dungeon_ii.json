@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -7261,18 +7261,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 19203,
       "NumberOfAwardsMax": 7368
+    },
+    {
+      "Time": "2023-09-06T18:01:12.7150866+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 19207,
+      "NumberOfAwardsMax": 7372
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19203,
-  "NumberOfAwardsMax": 7368,
+  "NumberOfAwards": 19207,
+  "NumberOfAwardsMax": 7372,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7368
+      "Count": 7372
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7341,9 +7347,9 @@
       "Count": 919
     }
   ],
-  "EOS_Progressed": 117008,
+  "EOS_Progressed": 117009,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21241,6 +21247,11 @@
       "Time": "2023-09-06T17:08:11.8041175+00:00",
       "NumProgressed": 117008,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-06T18:07:12.7941907+00:00",
+      "NumProgressed": 117009,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -21260,7 +21271,7 @@
       "Name": "Serenity Now!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 62014
+      "UsersEstimate": 62015
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -21284,7 +21295,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72545
+      "UsersEstimate": 72546
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -21292,7 +21303,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79565
+      "UsersEstimate": 79566
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -21300,7 +21311,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 78395
+      "UsersEstimate": 78396
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -21308,7 +21319,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 77225
+      "UsersEstimate": 77226
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -21316,7 +21327,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72545
+      "UsersEstimate": 72546
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -21332,7 +21343,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79565
+      "UsersEstimate": 79566
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -21396,7 +21407,7 @@
       "Name": "Banishment",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 35102
+      "UsersEstimate": 35103
     },
     {
       "ID": "combat_kill_death",
@@ -21492,7 +21503,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 21061
+      "UsersEstimate": 21062
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -21524,7 +21535,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 19891
+      "UsersEstimate": 19892
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -21628,7 +21639,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 36272
+      "UsersEstimate": 36273
     },
     {
       "ID": "hospital_full_service",
@@ -21644,7 +21655,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 108817
+      "UsersEstimate": 108818
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -21660,7 +21671,7 @@
       "Name": "FNG",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 33932
+      "UsersEstimate": 33933
     },
     {
       "ID": "inn_visit_all_variants",
@@ -21708,7 +21719,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 78395
+      "UsersEstimate": 78396
     },
     {
       "ID": "run_victory_act02",
@@ -21771,15 +21782,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 117008,
+      "Progressed": 117009,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2023-09-06T05:02:12.6903935+00:00",
-  "LastChanged_Achievements": "2023-09-06T17:08:11.8041168+00:00",
+  "LastChanged": "2023-09-06T18:01:12.7150864+00:00",
+  "LastChanged_Achievements": "2023-09-06T18:07:12.7941902+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:35.7630661+00:00",
-  "LastUpdate_Ratings": "2023-09-06T17:02:11.2013115+00:00",
-  "LastUpdate_Achievements": "2023-09-06T17:08:11.8043849+00:00"
+  "LastUpdate_Ratings": "2023-09-06T18:01:12.7150874+00:00",
+  "LastUpdate_Achievements": "2023-09-06T18:07:12.7943075+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1247,
+  "EOS_Progressed": 1248,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -4426,6 +4426,11 @@
       "Time": "2023-09-06T15:08:14.8943258+00:00",
       "NumProgressed": 1247,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-06T18:06:29.8422183+00:00",
+      "NumProgressed": 1248,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4515,9 +4520,9 @@
       "ID": "objective_headquarters_10",
       "SetID": "bm61c2p",
       "Name": "Keeping Busy",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 112
+      "UsersEstimate": 100
     },
     {
       "ID": "objective_headquarters_15",
@@ -4675,9 +4680,9 @@
       "ID": "objective_multiple_barracks_1",
       "SetID": "bm61c2p",
       "Name": "Infantry Reporting",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 100
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -4740,14 +4745,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1247,
+      "Progressed": 1248,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-06T17:07:43.8968394+00:00",
+  "LastChanged_Achievements": "2023-09-06T18:06:29.8422178+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-06T16:57:47.1613518+00:00",
-  "LastUpdate_Achievements": "2023-09-06T17:07:43.8969011+00:00"
+  "LastUpdate_Ratings": "2023-09-06T17:57:32.627933+00:00",
+  "LastUpdate_Achievements": "2023-09-06T18:06:29.8422599+00:00"
 }

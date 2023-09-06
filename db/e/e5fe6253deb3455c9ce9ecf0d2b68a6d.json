@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "Dissatisfaction",
       "SetID": "cjfnji1",
       "Name": "Critical dissatisfaction",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Full",
@@ -705,8 +705,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-06T17:07:57.5193716+00:00",
+  "LastChanged_Achievements": "2023-09-06T18:06:40.9337055+00:00",
   "LastUpdate_AppInfo": "2023-09-04T19:57:12.8052062+00:00",
-  "LastUpdate_Ratings": "2023-09-06T16:57:35.8832218+00:00",
-  "LastUpdate_Achievements": "2023-09-06T17:07:57.5193937+00:00"
+  "LastUpdate_Ratings": "2023-09-06T17:57:22.2983508+00:00",
+  "LastUpdate_Achievements": "2023-09-06T18:06:40.9337172+00:00"
 }

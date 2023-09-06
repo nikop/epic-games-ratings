@@ -35,7 +35,7 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 31.00% | ~505 |
 | Not in my backyard | 30.00% | ~489 |
 | The king of the sea | 30.00% | ~489 |
-| City | 28.00% | ~456 |
+| City | 29.00% | ~473 |
 | Transport tycoon | 24.00% | ~391 |
 | The ugly smell of success | 23.00% | ~375 |
 | Climate change | 22.00% | ~359 |

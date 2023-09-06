@@ -2,13 +2,13 @@
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
   "ProductSlug": "fifa-23",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 829,
   "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-30T07:00:00+00:00",
     "PcReleaseDate": "2022-09-30T07:00:00+00:00",
@@ -6108,10 +6108,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 97328,
       "NumberOfAwardsMax": 18987
+    },
+    {
+      "Time": "2023-09-06T18:01:14.4783665+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 97348,
+      "NumberOfAwardsMax": 18987
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97328,
+  "NumberOfAwards": 97348,
   "NumberOfAwardsMax": 18987,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6131,7 +6137,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9620
+      "Count": 9640
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6184,9 +6190,9 @@
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "FirstSeenAchievements": "2023-06-30T22:04:55.4343947+00:00",
-  "LastChanged": "2023-09-06T17:02:14.7697896+00:00",
-  "LastChanged_Achievements": "2023-09-06T17:06:45.5664705+00:00",
+  "LastChanged": "2023-09-06T18:01:14.4783663+00:00",
+  "LastChanged_Achievements": "2023-09-06T18:05:49.7490484+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:39.4104233+00:00",
-  "LastUpdate_Ratings": "2023-09-06T17:02:14.7697904+00:00",
-  "LastUpdate_Achievements": "2023-09-06T17:06:45.5664741+00:00"
+  "LastUpdate_Ratings": "2023-09-06T18:01:14.4783669+00:00",
+  "LastUpdate_Achievements": "2023-09-06T18:05:49.7490507+00:00"
 }
