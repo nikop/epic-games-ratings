@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7148,
+  "EOS_Progressed": 7149,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -4134,6 +4134,11 @@
       "Time": "2023-09-06T10:01:12.4339511+00:00",
       "NumProgressed": 7148,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-06T12:02:37.1521385+00:00",
+      "NumProgressed": 7149,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4153,7 +4158,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -4177,7 +4182,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4241,7 +4246,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2001
+      "UsersEstimate": 2002
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -4313,7 +4318,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -4345,7 +4350,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -4360,15 +4365,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7148,
+      "Progressed": 7149,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-06T11:03:13.4042875+00:00",
+  "LastChanged_Achievements": "2023-09-06T12:02:37.1521377+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.9166051+00:00",
-  "LastUpdate_Ratings": "2023-09-06T10:58:25.9904481+00:00",
-  "LastUpdate_Achievements": "2023-09-06T11:03:13.4043253+00:00"
+  "LastUpdate_Ratings": "2023-09-06T11:59:38.7294825+00:00",
+  "LastUpdate_Achievements": "2023-09-06T12:02:37.152178+00:00"
 }

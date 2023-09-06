@@ -5,53 +5,53 @@ Rating: 4.77 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,306 |
-| First Class Student | 12.00% | ~35,406 |
-| Troll with the Punches | 12.00% | ~35,406 |
-| A Keen Sense of Spell | 11.00% | ~32,455 |
-| That's a Keeper | 11.00% | ~32,455 |
-| Grappling with a Graphorn | 10.00% | ~29,505 |
-| The One Who Mastered Memories | 10.00% | ~29,505 |
-| The Hallowed Hero | 10.00% | ~29,505 |
-| The Defender of Dragons | 10.00% | ~29,505 |
-| Loom for Improvement | 10.00% | ~29,505 |
-| A Talent for Spending | 10.00% | ~29,505 |
-| Coasting Along | 10.00% | ~29,505 |
-| The Hero of Hogwarts | 9.00% | ~26,554 |
-| Challenge Accepted | 9.00% | ~26,554 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,308 |
+| First Class Student | 12.00% | ~35,407 |
+| Troll with the Punches | 12.00% | ~35,407 |
+| A Keen Sense of Spell | 11.00% | ~32,456 |
+| That's a Keeper | 11.00% | ~32,456 |
+| Grappling with a Graphorn | 10.00% | ~29,506 |
+| The One Who Mastered Memories | 10.00% | ~29,506 |
+| The Hallowed Hero | 10.00% | ~29,506 |
+| The Defender of Dragons | 10.00% | ~29,506 |
+| Loom for Improvement | 10.00% | ~29,506 |
+| A Talent for Spending | 10.00% | ~29,506 |
+| Coasting Along | 10.00% | ~29,506 |
+| The Hero of Hogwarts | 9.00% | ~26,555 |
+| Challenge Accepted | 9.00% | ~26,555 |
 | Followed the Butterflies | 8.00% | ~23,604 |
 | The Spell Master | 8.00% | ~23,604 |
 | Rising From the Ashes | 8.00% | ~23,604 |
-| The Avenging Gazelle | 7.00% | ~20,653 |
-| Beast Friends | 7.00% | ~20,653 |
-| A Sallow Grave | 7.00% | ~20,653 |
-| Flight the Good Flight | 7.00% | ~20,653 |
-| The Seeker of Knowledge | 5.00% | ~14,752 |
-| The Root of the Problem | 5.00% | ~14,752 |
-| Third Time's a Charm | 5.00% | ~14,752 |
-| Raising Expectations | 5.00% | ~14,752 |
+| The Avenging Gazelle | 7.00% | ~20,654 |
+| Beast Friends | 7.00% | ~20,654 |
+| A Sallow Grave | 7.00% | ~20,654 |
+| Flight the Good Flight | 7.00% | ~20,654 |
+| The Seeker of Knowledge | 5.00% | ~14,753 |
+| The Root of the Problem | 5.00% | ~14,753 |
+| Third Time's a Charm | 5.00% | ~14,753 |
+| Raising Expectations | 5.00% | ~14,753 |
 | The Toast of the Town | 4.00% | ~11,802 |
 | Going Through the Potions | 4.00% | ~11,802 |
 | Room with a View | 4.00% | ~11,802 |
 | The Intrepid Explorer | 4.00% | ~11,802 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,802 |
 | The Ends Petrify the Means | 4.00% | ~11,802 |
-| Floo Around the World | 3.00% | ~8,851 |
-| The Wise Owl | 3.00% | ~8,851 |
+| Floo Around the World | 3.00% | ~8,852 |
+| The Wise Owl | 3.00% | ~8,852 |
 | The Good Samaritan | 2.00% | ~5,901 |
 | Put Down Roots | 2.00% | ~5,901 |
 | The Auror's Apprentice | 2.00% | ~5,901 |
 | Rise to the Challenges | 2.00% | ~5,901 |
 | Finishing Touches | 2.00% | ~5,901 |
-| Savvy Spender | 1.00% | ~2,950 |
-| Demiguise Dread | 1.00% | ~2,950 |
-| A Forte for Achievement | 1.00% | ~2,950 |
+| Savvy Spender | 1.00% | ~2,951 |
+| Demiguise Dread | 1.00% | ~2,951 |
+| A Forte for Achievement | 1.00% | ~2,951 |
 | Merlin's Beard! | 0.90% | ~2,655 |
 | Spilled Milk | 0.80% | ~2,360 |
 | The Nature of the Beast | 0.60% | ~1,770 |
 | Collector's Edition | 0.30% | ~885 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,046 (Ranked 43)  
+Progressed: 295,055 (Ranked 43)  
 Completed: 465 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 465 (0.16%) (Ranked 200)
 | 2023-09-03 | 293,795 | 463 |
 | 2023-09-04 | 294,412 | 464 |
 | 2023-09-05 | 294,883 | 464 |
-| 2023-09-06 | 295,046 | 465 |
+| 2023-09-06 | 295,055 | 465 |
 ## Awards
 Max (Character Customization): 22,241  (Ranked 17)  
 Sum: 42,296 (Ranked 30)  

@@ -8,8 +8,8 @@
 | The Routine | 81.00% | ~94 |
 | Mother | 79.00% | ~92 |
 | Failure | 77.00% | ~89 |
-| Replace Fuse | 65.00% | ~75 |
-| Alarm | 63.00% | ~73 |
+| Replace Fuse | 66.00% | ~77 |
+| Alarm | 64.00% | ~74 |
 | Air Filtration | 61.00% | ~71 |
 | Broken | 59.00% | ~68 |
 | Radiation | 58.00% | ~67 |

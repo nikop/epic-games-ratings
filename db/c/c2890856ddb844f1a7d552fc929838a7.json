@@ -60,7 +60,7 @@
   "Tags": [],
   "EOS_Progressed": 706,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1274,9 +1274,9 @@
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "AC18",
@@ -1290,9 +1290,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 304
     },
     {
       "ID": "AC20",
@@ -1515,8 +1515,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-06T02:57:21.259036+00:00",
-  "LastChanged_Achievements": "2023-09-06T11:03:28.019196+00:00",
+  "LastChanged_Achievements": "2023-09-06T12:04:19.273842+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-06T10:57:39.1168004+00:00",
-  "LastUpdate_Achievements": "2023-09-06T11:03:28.0192317+00:00"
+  "LastUpdate_Ratings": "2023-09-06T11:59:02.1095849+00:00",
+  "LastUpdate_Achievements": "2023-09-06T12:04:19.2738778+00:00"
 }

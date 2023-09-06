@@ -6036,9 +6036,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 713064,
+  "EOS_Progressed": 713072,
   "EOS_Completed": 12885,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18686,6 +18686,11 @@
       "Time": "2023-09-06T11:03:23.5630547+00:00",
       "NumProgressed": 713064,
       "NumCompleted": 12885
+    },
+    {
+      "Time": "2023-09-06T12:04:15.5589638+00:00",
+      "NumProgressed": 713072,
+      "NumCompleted": 12885
     }
   ],
   "TotalAchievements": 50,
@@ -18769,7 +18774,7 @@
       "Name": "Iron Money",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "11_Wude_H5",
@@ -18777,7 +18782,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "12_MidAge",
@@ -18913,7 +18918,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -18953,7 +18958,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "34_TimedTakedown",
@@ -19096,21 +19101,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22365,
+      "Progressed": 22373,
       "Completed": 10590
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 713064,
+      "Progressed": 713072,
       "Completed": 12885
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-06T10:00:04.0580927+00:00",
-  "LastChanged_Achievements": "2023-09-06T11:03:23.5630545+00:00",
+  "LastChanged_Achievements": "2023-09-06T12:04:15.558963+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-06T11:00:37.880247+00:00",
-  "LastUpdate_Achievements": "2023-09-06T11:03:23.5631464+00:00"
+  "LastUpdate_Ratings": "2023-09-06T12:01:22.5395552+00:00",
+  "LastUpdate_Achievements": "2023-09-06T12:04:15.55906+00:00"
 }

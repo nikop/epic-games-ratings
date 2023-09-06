@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -187,9 +187,9 @@
       "ID": "Hedda",
       "SetID": "d11cl5p",
       "Name": "Hilma af Klint",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "InterimCEO",
@@ -315,9 +315,9 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TakeMeToYourHeaven",
@@ -331,9 +331,9 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 63,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TheAirportCEO",
@@ -410,8 +410,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-06T11:06:20.2037173+00:00",
+  "LastChanged_Achievements": "2023-09-06T12:07:05.0330984+00:00",
   "LastUpdate_AppInfo": "2023-08-30T13:02:06.4077778+00:00",
-  "LastUpdate_Ratings": "2023-09-06T10:57:08.142254+00:00",
-  "LastUpdate_Achievements": "2023-09-06T11:06:20.203739+00:00"
+  "LastUpdate_Ratings": "2023-09-06T11:58:33.6306547+00:00",
+  "LastUpdate_Achievements": "2023-09-06T12:07:05.03312+00:00"
 }
