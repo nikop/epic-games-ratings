@@ -6,30 +6,30 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~62,087 |
+| Sowwy! | 28.00% | ~62,091 |
 | Alt+F4 | 4.00% | ~8,870 |
-| Déjà vu | 3.00% | ~6,652 |
-| Where's that freaking Dwarf? | 3.00% | ~6,652 |
-| Sock! SOCK! | 3.00% | ~6,652 |
+| Déjà vu | 3.00% | ~6,653 |
+| Where's that freaking Dwarf? | 3.00% | ~6,653 |
+| Sock! SOCK! | 3.00% | ~6,653 |
 | A beer, two curses, three companions | 2.00% | ~4,435 |
 | GG EZ | 2.00% | ~4,435 |
 | DM intervention | 2.00% | ~4,435 |
 | Speedrun | 2.00% | ~4,435 |
 | Fireproof Wizardess | 2.00% | ~4,435 |
-| Livin' in a dwarven paradise | 1.00% | ~2,217 |
-| Way of the Wimp | 1.00% | ~2,217 |
-| The plot thickens... At the tavern | 1.00% | ~2,217 |
-| The demons' feast | 1.00% | ~2,217 |
-| The Great Library | 1.00% | ~2,217 |
-| Torture and Sensibility | 1.00% | ~2,217 |
-| Urik's Depths | 1.00% | ~2,217 |
-| The Dungeon Master | 1.00% | ~2,217 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,217 |
-| The Woman in the High Castle | 1.00% | ~2,217 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,217 |
-| I am the night | 1.00% | ~2,217 |
-| Team Building Exercise | 1.00% | ~2,217 |
-| Oh, when I'll be level 10... | 1.00% | ~2,217 |
+| Livin' in a dwarven paradise | 1.00% | ~2,218 |
+| Way of the Wimp | 1.00% | ~2,218 |
+| The plot thickens... At the tavern | 1.00% | ~2,218 |
+| The demons' feast | 1.00% | ~2,218 |
+| The Great Library | 1.00% | ~2,218 |
+| Torture and Sensibility | 1.00% | ~2,218 |
+| Urik's Depths | 1.00% | ~2,218 |
+| The Dungeon Master | 1.00% | ~2,218 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,218 |
+| The Woman in the High Castle | 1.00% | ~2,218 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,218 |
+| I am the night | 1.00% | ~2,218 |
+| Team Building Exercise | 1.00% | ~2,218 |
+| Oh, when I'll be level 10... | 1.00% | ~2,218 |
 | Shiny and Crôm | 0.90% | ~1,996 |
 | The beards of change | 0.90% | ~1,996 |
 | The Ranger of Chaos | 0.90% | ~1,996 |
@@ -39,9 +39,9 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.80% | ~1,774 |
 | Look but don't touch | 0.80% | ~1,774 |
 | Dwarf Fortress | 0.70% | ~1,552 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,330 |
-| Lust and Debauchery | 0.60% | ~1,330 |
-| Material Girl | 0.60% | ~1,330 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.60% | ~1,331 |
+| Lust and Debauchery | 0.60% | ~1,331 |
+| Material Girl | 0.60% | ~1,331 |
 | Dead for good | 0.50% | ~1,109 |
 | Gargantua | 0.50% | ~1,109 |
 | In Navalu's footsteps | 0.40% | ~887 |
@@ -50,10 +50,10 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.30% | ~665 |
 | We come in peace | 0.30% | ~665 |
 | Law and Order | 0.30% | ~665 |
-| Scholar of the Lands of Fangh | 0.20% | ~443 |
-| Friendly fire | 0.20% | ~443 |
-| I'd rather... Just... Sing! | 0.20% | ~443 |
-| It's been a hard day's night | 0.20% | ~443 |
+| Scholar of the Lands of Fangh | 0.20% | ~444 |
+| Friendly fire | 0.20% | ~444 |
+| I'd rather... Just... Sing! | 0.20% | ~444 |
+| It's been a hard day's night | 0.20% | ~444 |
 | Cursed die | 0.10% | ~222 |
 | The number of the counting shalt be 7 | 0.10% | ~222 |
 | Necrophilia | 0.10% | ~222 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,741 (Ranked 57)  
+Progressed: 221,753 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.00%) (Ranked 270)
 | 2023-09-03 | 220,988 | 2 |
 | 2023-09-04 | 221,298 | 2 |
 | 2023-09-05 | 221,553 | 2 |
-| 2023-09-06 | 221,741 | 2 |
+| 2023-09-06 | 221,753 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

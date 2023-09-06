@@ -690,7 +690,7 @@
   ],
   "EOS_Progressed": 5699,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7209,9 +7209,9 @@
       "ID": "ACHIEVEMENT_020",
       "SetID": "1a05lfd",
       "Name": "Marathon",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -7352,8 +7352,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-06T00:02:13.708799+00:00",
-  "LastChanged_Achievements": "2023-09-06T20:03:22.3105897+00:00",
+  "LastChanged_Achievements": "2023-09-06T21:03:15.1388193+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-06T20:01:02.1577626+00:00",
-  "LastUpdate_Achievements": "2023-09-06T20:03:22.3106575+00:00"
+  "LastUpdate_Ratings": "2023-09-06T21:00:48.1637383+00:00",
+  "LastUpdate_Achievements": "2023-09-06T21:03:15.1388889+00:00"
 }

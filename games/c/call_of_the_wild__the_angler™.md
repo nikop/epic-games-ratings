@@ -23,7 +23,7 @@ Number of Ratings: 281  (23.09.2022)
 | More than a Tourist | 11.00% | ~627 |
 | Hook, Line and Sinker | 8.00% | ~456 |
 | School's Out for Summer | 8.00% | ~456 |
-| Marathon | 7.00% | ~399 |
+| Marathon | 8.00% | ~456 |
 | I'm the Captain Now | 6.00% | ~342 |
 | Big Fish Small Pond | 5.00% | ~285 |
 | Gonna Need a Bigger Boat | 3.00% | ~171 |

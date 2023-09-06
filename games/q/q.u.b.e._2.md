@@ -8,8 +8,8 @@ Number of Ratings: 94  (23.09.2022)
 | ---- | ---------- | ----- |
 | Quick Understanding of Block Extrusion | 51.00% | ~98 |
 | Lost in Space | 51.00% | ~98 |
+| Power Glove | 43.00% | ~83 |
 | Nature or Nurture | 42.00% | ~81 |
-| Power Glove | 42.00% | ~81 |
 | Forgotten Memories | 42.00% | ~81 |
 | Cogs in the Machine | 38.00% | ~73 |
 | Mission Success | 16.00% | ~31 |
@@ -19,7 +19,7 @@ Number of Ratings: 94  (23.09.2022)
 | Path to Salvation | 11.00% | ~21 |
 | The Flawed Teacher | 10.00% | ~19 |
 | Infinity Loop | 10.00% | ~19 |
-| To Infinity and Beyond | 5.00% | ~10 |
+| To Infinity and Beyond | 6.00% | ~12 |
 | The Truthful Enemy | 5.00% | ~10 |
 | True collector | 0.50% | ~1 |
 | Bronze collector | 0.50% | ~1 |

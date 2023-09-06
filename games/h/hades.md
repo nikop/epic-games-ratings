@@ -6,24 +6,24 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~625,573 |
-| Escaped Asphodel | 80.00% | ~562,313 |
+| Escaped Tartarus | 89.00% | ~625,574 |
+| Escaped Asphodel | 80.00% | ~562,314 |
 | Arms Collector | 71.00% | ~499,053 |
-| Friends in High Places | 68.00% | ~477,966 |
-| Escaped Elysium | 66.00% | ~463,908 |
-| Chthonic Colleagues | 63.00% | ~442,821 |
-| Is There No Escape? | 52.00% | ~365,503 |
+| Friends in High Places | 68.00% | ~477,967 |
+| Escaped Elysium | 66.00% | ~463,909 |
+| Chthonic Colleagues | 63.00% | ~442,822 |
+| Is There No Escape? | 52.00% | ~365,504 |
 | Death Dealer | 45.00% | ~316,301 |
-| Skelly Slayer | 42.00% | ~295,214 |
-| Well Stocked | 40.00% | ~281,156 |
+| Skelly Slayer | 42.00% | ~295,215 |
+| Well Stocked | 40.00% | ~281,157 |
 | Back to Work | 38.00% | ~267,099 |
 | Day-or-Night Trader | 37.00% | ~260,070 |
 | Blessed by the Gods | 37.00% | ~260,070 |
 | Urge to Sing | 36.00% | ~253,041 |
 | Blood Bound | 35.00% | ~246,012 |
 | Three-Headed Boy | 32.00% | ~224,925 |
-| River Denizens | 28.00% | ~196,809 |
-| Grown Close | 28.00% | ~196,809 |
+| River Denizens | 28.00% | ~196,810 |
+| Grown Close | 28.00% | ~196,810 |
 | Home Makeover | 27.00% | ~189,781 |
 | The Family Secret | 26.00% | ~182,752 |
 | Had to Happen | 25.00% | ~175,723 |
@@ -33,8 +33,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Rare Collectible | 22.00% | ~154,636 |
 | Weapon of Fate | 21.00% | ~147,607 |
 | Something From Everyone | 19.00% | ~133,549 |
-| Hold the Onions | 18.00% | ~126,520 |
-| Well Versed | 17.00% | ~119,491 |
+| Hold the Onions | 18.00% | ~126,521 |
+| Well Versed | 17.00% | ~119,492 |
 | War-God's Bloodlust | 15.00% | ~105,434 |
 | Musician and Muse | 14.00% | ~98,405 |
 | The Useless Trinket | 13.00% | ~91,376 |
@@ -51,12 +51,12 @@ Number of Ratings: 6,336  (23.09.2022)
 | Divided by Death | 8.00% | ~56,231 |
 | Harsh Conditions | 7.00% | ~49,202 |
 | One for the Ages | 7.00% | ~49,202 |
-| Complete Set | 6.00% | ~42,173 |
-| Skelly's Last Lamentations | 6.00% | ~42,173 |
+| Complete Set | 6.00% | ~42,174 |
+| Skelly's Last Lamentations | 6.00% | ~42,174 |
 | Thorn of Thanatos | 4.00% | ~28,116 |
 | Friends Forever | 4.00% | ~28,116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,891 (Ranked 21)  
+Progressed: 702,892 (Ranked 21)  
 Completed: 6,339 (0.90%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 6,339 (0.90%) (Ranked 127)
 | 2023-09-03 | 702,701 | 6,335 |
 | 2023-09-04 | 702,772 | 6,338 |
 | 2023-09-05 | 702,848 | 6,339 |
-| 2023-09-06 | 702,891 | 6,339 |
+| 2023-09-06 | 702,892 | 6,339 |
 ## Awards
 Max (Character Customization): 3,250  (Ranked 93)  
 Sum: 7,860 (Ranked 101)  

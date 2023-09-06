@@ -22,7 +22,7 @@
 | Drinking Problem | 22.00% | ~62 |
 | Professional Survivor | 22.00% | ~51 |
 | Grave Digger | 22.00% | ~51 |
-| Pork Chop Express | 17.00% | ~48 |
+| Pork Chop Express | 18.00% | ~51 |
 | Skin Of Your Teeth | 16.00% | ~45 |
 | Carrocketeer | 16.00% | ~45 |
 | Getting Started | 15.00% | ~42 |
@@ -36,10 +36,10 @@
 | Expert Survivor | 9.00% | ~21 |
 | Quadsparagus | 9.00% | ~21 |
 | Bring Home The Bacon | 8.00% | ~23 |
+| Early Bird | 6.00% | ~17 |
 | Pyromaniac | 6.00% | ~14 |
 | Chick Magnet | 5.00% | ~14 |
 | I Have The High Ground | 5.00% | ~14 |
-| Early Bird | 5.00% | ~14 |
 | Master Survivor | 3.00% | ~7 |
 | Heart Breaker | 3.00% | ~7 |
 | 15 Days | 2.00% | ~6 |

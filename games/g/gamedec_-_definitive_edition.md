@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,619 |
-| Powergamer | 27.00% | ~66,169 |
-| Barely scratched the surface | 25.00% | ~61,267 |
-| Write that down | 24.00% | ~58,817 |
+| I will finish what you started | 28.00% | ~68,620 |
+| Powergamer | 27.00% | ~66,170 |
+| Barely scratched the surface | 25.00% | ~61,268 |
+| Write that down | 24.00% | ~58,818 |
 | Guns, lots of guns | 13.00% | ~31,859 |
 | Collector | 11.00% | ~26,958 |
-| Elementary! | 9.00% | ~22,056 |
+| Elementary! | 9.00% | ~22,057 |
 | Pumpkin Jack | 8.00% | ~19,606 |
 | Wake up! | 8.00% | ~19,606 |
 | It's honest work | 7.00% | ~17,155 |
 | Griever | 7.00% | ~17,155 |
 | Me smart | 6.00% | ~14,704 |
 | Trash compactor | 6.00% | ~14,704 |
-| Good listener | 5.00% | ~12,253 |
-| Valedictorian | 5.00% | ~12,253 |
+| Good listener | 5.00% | ~12,254 |
+| Valedictorian | 5.00% | ~12,254 |
 | BOY! | 4.00% | ~9,803 |
 | Ka-ching! | 4.00% | ~9,803 |
 | So you like to read? | 4.00% | ~9,803 |
@@ -46,7 +46,7 @@ Number of Ratings: 33  (23.09.2022)
 | It's blue, always blue | 0.80% | ~1,961 |
 | Let's try another | 0.80% | ~1,961 |
 | Home run | 0.80% | ~1,961 |
-| I have the high ground | 0.70% | ~1,715 |
+| I have the high ground | 0.70% | ~1,716 |
 | Enjoy these little moments | 0.50% | ~1,225 |
 | Who wouldn't love a troll? | 0.50% | ~1,225 |
 | Irondec | 0.40% | ~980 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~490 |
 | Memory 5 | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,069 (Ranked 49)  
+Progressed: 245,073 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 7 (0.00%) (Ranked 270)
 | 2023-09-03 | 244,766 | 7 |
 | 2023-09-04 | 244,899 | 7 |
 | 2023-09-05 | 244,996 | 7 |
-| 2023-09-06 | 245,069 | 7 |
+| 2023-09-06 | 245,073 | 7 |
 ## Awards
 Max (Character Customization): 80  (Ranked 361)  
 Sum: 80 (Ranked 429)  

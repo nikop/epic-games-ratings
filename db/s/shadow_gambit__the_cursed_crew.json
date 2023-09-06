@@ -52,7 +52,7 @@
   "Tags": [],
   "EOS_Progressed": 608,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
@@ -1557,9 +1557,9 @@
       "ID": "_05_FinishAct2",
       "SetID": "8a1io5d",
       "Name": "The Gambit Has Begun",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 195
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1742,8 +1742,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-06T13:05:19.6033988+00:00",
-  "LastChanged_Achievements": "2023-09-06T20:06:48.6968277+00:00",
+  "LastChanged_Achievements": "2023-09-06T21:06:43.7554991+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-06T19:59:22.2841161+00:00",
-  "LastUpdate_Achievements": "2023-09-06T20:06:48.6968522+00:00"
+  "LastUpdate_Ratings": "2023-09-06T20:59:09.8342434+00:00",
+  "LastUpdate_Achievements": "2023-09-06T21:06:43.755528+00:00"
 }

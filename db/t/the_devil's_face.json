@@ -1301,9 +1301,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1341,41 +1341,41 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "296pn27",
       "Name": "Unveiling the Magnitude of Sin",
-      "Percentage": 0.3,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1411,8 +1411,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-06T20:05:55.36962+00:00",
+  "LastChanged_Achievements": "2023-09-06T21:05:41.7259339+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:39.4458973+00:00",
-  "LastUpdate_Ratings": "2023-09-06T19:57:18.5569692+00:00",
-  "LastUpdate_Achievements": "2023-09-06T20:05:55.3696365+00:00"
+  "LastUpdate_Ratings": "2023-09-06T20:57:15.5956249+00:00",
+  "LastUpdate_Achievements": "2023-09-06T21:05:41.7259529+00:00"
 }
