@@ -28,12 +28,12 @@
 | 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.41% |
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.34% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 29 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 31 | [Sonic Origins](games/s/sonic_origins.md) | 9.05% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
-| 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
-| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
+| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.05% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
+| 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
+| 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
+| 34 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 36 | [Time Loader](games/t/time_loader.md) | 7.50% |
@@ -73,8 +73,8 @@
 | 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.06% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
-| 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
+| 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.92% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 77 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 77 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -576,4 +576,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,192 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,193 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
