@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -2318,9 +2318,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1317
     },
     {
       "ID": "ACHV_03",
@@ -2775,8 +2775,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-07T18:07:29.995808+00:00",
+  "LastChanged_Achievements": "2023-09-07T19:08:48.1904317+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:16.3736802+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:58:23.513856+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:07:29.9958852+00:00"
+  "LastUpdate_Ratings": "2023-09-07T18:58:41.2074765+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:08:48.1904996+00:00"
 }

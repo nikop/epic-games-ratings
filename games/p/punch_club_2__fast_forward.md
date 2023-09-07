@@ -27,8 +27,8 @@
 | Law student | 62.00% | ~198 |
 | Handyman | 61.00% | ~195 |
 | Champion – starter pack | 61.00% | ~195 |
-| It's good to be alive | 60.00% | ~191 |
-| Own four walls | 60.00% | ~191 |
+| It's good to be alive | 61.00% | ~195 |
+| Own four walls | 61.00% | ~195 |
 | Employee of the year | 60.00% | ~191 |
 | Fight for life | 59.00% | ~188 |
 | Little hacker | 58.00% | ~185 |
@@ -45,11 +45,11 @@
 | Responsible approach | 42.00% | ~134 |
 | Deal with life | 41.00% | ~131 |
 | Underground dwellers | 41.00% | ~131 |
-| Mom got better | 39.00% | ~124 |
+| Mom got better | 40.00% | ~128 |
+| The die is cast | 40.00% | ~128 |
 | GYM professional | 39.00% | ~124 |
 | Poisoned fighter | 39.00% | ~124 |
 | Get out of my apartment! | 39.00% | ~124 |
-| The die is cast | 39.00% | ~124 |
 | Seashell hunter | 37.00% | ~118 |
 | Gang wrangler | 36.00% | ~115 |
 | Your own way | 36.00% | ~115 |

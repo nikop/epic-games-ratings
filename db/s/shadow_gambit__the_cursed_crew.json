@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -56,11 +56,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
+  "EOS_Progressed": 613,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.29,
+  "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1541,6 +1541,11 @@
       "Time": "2023-09-07T17:10:24.0192354+00:00",
       "NumProgressed": 612,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-07T19:11:24.498739+00:00",
+      "NumProgressed": 613,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1553,23 +1558,23 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 429
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 337
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1577,7 +1582,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "_05_FinishAct2",
@@ -1607,9 +1612,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 270
     },
     {
       "ID": "_09_Completion_20",
@@ -1617,7 +1622,7 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "_10_Completion_30",
@@ -1657,7 +1662,7 @@
       "Name": "Freebooter",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "_15_Completion_80",
@@ -1689,7 +1694,7 @@
       "Name": "Fully Decked",
       "Percentage": 4,
       "XP": 125,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -1760,7 +1765,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 612,
+      "Progressed": 613,
       "Completed": 14
     }
   ],
@@ -1768,8 +1773,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-07T13:05:15.5809933+00:00",
-  "LastChanged_Achievements": "2023-09-07T18:10:12.142266+00:00",
+  "LastChanged_Achievements": "2023-09-07T19:11:24.4987386+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:01:25.9332128+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:10:12.1423019+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:01:59.9555622+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:11:24.4987723+00:00"
 }

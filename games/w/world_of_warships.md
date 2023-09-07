@@ -6,32 +6,32 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 87.00% | ~16,605 |
-| Initial Capital | 79.00% | ~15,078 |
-| Moneybags | 59.00% | ~11,261 |
-| Junior Supply Officer | 59.00% | ~11,261 |
-| Naval Warfare. Arson | 45.00% | ~8,589 |
-| Naval Constructor | 44.00% | ~8,398 |
-| Amateur | 43.00% | ~8,207 |
-| Naval Warfare. Ramming | 43.00% | ~8,207 |
-| Naval Warfare. Tactics | 42.00% | ~8,016 |
-| Naval Warfare. Weaponry Basics | 34.00% | ~6,489 |
-| Naval Warfare. Lucky Shot | 29.00% | ~5,535 |
-| Business Magnate | 28.00% | ~5,344 |
-| Naval Warfare. Flooding | 28.00% | ~5,344 |
-| Battle Hero | 24.00% | ~4,581 |
-| Supply Officer | 23.00% | ~4,390 |
-| Smooth Supply | 23.00% | ~4,390 |
-| Warrior | 21.00% | ~4,008 |
-| Veteran | 14.00% | ~2,672 |
-| Legend of the Seas | 7.00% | ~1,336 |
-| Chief Naval Architect | 7.00% | ~1,336 |
-| Shield | 7.00% | ~1,336 |
-| Important Missions | 5.00% | ~954 |
-| Senior Supply Officer | 4.00% | ~763 |
-| "Science of Victory" | 4.00% | ~763 |
-| Weather Beaten | 4.00% | ~763 |
-| Guardian | 4.00% | ~763 |
+| Junior Naval Designer | 87.00% | ~16,625 |
+| Initial Capital | 79.00% | ~15,096 |
+| Moneybags | 59.00% | ~11,274 |
+| Junior Supply Officer | 59.00% | ~11,274 |
+| Naval Warfare. Arson | 45.00% | ~8,599 |
+| Naval Constructor | 44.00% | ~8,408 |
+| Amateur | 43.00% | ~8,217 |
+| Naval Warfare. Ramming | 43.00% | ~8,217 |
+| Naval Warfare. Tactics | 42.00% | ~8,026 |
+| Naval Warfare. Weaponry Basics | 34.00% | ~6,497 |
+| Naval Warfare. Lucky Shot | 29.00% | ~5,542 |
+| Business Magnate | 28.00% | ~5,351 |
+| Naval Warfare. Flooding | 28.00% | ~5,351 |
+| Battle Hero | 24.00% | ~4,586 |
+| Supply Officer | 23.00% | ~4,395 |
+| Smooth Supply | 23.00% | ~4,395 |
+| Warrior | 21.00% | ~4,013 |
+| Veteran | 14.00% | ~2,675 |
+| Legend of the Seas | 7.00% | ~1,338 |
+| Chief Naval Architect | 7.00% | ~1,338 |
+| Shield | 7.00% | ~1,338 |
+| Important Missions | 5.00% | ~955 |
+| Senior Supply Officer | 4.00% | ~764 |
+| "Science of Victory" | 4.00% | ~764 |
+| Weather Beaten | 4.00% | ~764 |
+| Guardian | 4.00% | ~764 |
 | Bane of the Oceans | 3.00% | ~573 |
 | Special Orders | 3.00% | ~573 |
 | Protector | 3.00% | ~573 |
@@ -44,14 +44,14 @@ Number of Ratings: 4,733  (23.09.2022)
 | Ravager | 0.80% | ~153 |
 | "Yamamoto Isoroku" | 0.80% | ~153 |
 | "Yamamoto Isoroku" | 0.80% | ~153 |
-| "Honorable Service" | 0.50% | ~95 |
-| Hit Hard! Hit Fast! Hit Often! | 0.50% | ~95 |
+| "Honorable Service" | 0.50% | ~96 |
+| Hit Hard! Hit Fast! Hit Often! | 0.50% | ~96 |
 | "Science of Victory" with Honors | 0.20% | ~38 |
 | "Honorable Service" with Honors | 0.10% | ~19 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~19 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,086 (Ranked 111)  
+Progressed: 19,109 (Ranked 111)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,10 +76,10 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-04 | 17,899 | 0 |
 | 2023-09-05 | 18,337 | 0 |
 | 2023-09-06 | 18,765 | 0 |
-| 2023-09-07 | 19,086 | 0 |
+| 2023-09-07 | 19,109 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,306  (Ranked 132)  
-Sum: 10,790 (Ranked 83)  
+Sum: 10,795 (Ranked 83)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -90,7 +90,7 @@ Diff (max vs sum): 49
 | This game is Highly Recommended | 1,239 |
 | This game is Extremely Fun | 1,236 |
 | This game has Realistic Visuals | 1,130 |
-| This game has Amazing Storytelling | 1,053 |
+| This game has Amazing Storytelling | 1,058 |
 | This game has a Competitive Community | 992 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
@@ -334,4 +334,4 @@ Diff (max vs sum): 49
 | 2023-09-04 | 4.41 | - | 1,303 | 10,740 |
 | 2023-09-05 | 4.41 | - | 1,303 | 10,753 |
 | 2023-09-06 | 4.41 | - | 1,306 | 10,774 |
-| 2023-09-07 | 4.41 | - | 1,306 | 10,790 |
+| 2023-09-07 | 4.41 | - | 1,306 | 10,795 |

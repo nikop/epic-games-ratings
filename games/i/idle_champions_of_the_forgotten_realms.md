@@ -25,6 +25,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~456 |
 | Mad Cow Disease | 0.20% | ~456 |
 | Exploring Port Nyanzaru | 0.20% | ~456 |
+| The Contagious Curse | 0.20% | ~456 |
 | Friendly Imps | 0.20% | ~456 |
 | Pure Energy | 0.20% | ~456 |
 | Legends and Lore | 0.20% | ~388 |
@@ -329,7 +330,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~228 |
 | The Nimble Grove | 0.10% | ~228 |
 | The Misty Grove | 0.10% | ~194 |
-| The Contagious Curse | 0.10% | ~228 |
 | Dinosaur Racing | 0.10% | ~228 |
 | Elturel Has Fallen | 0.10% | ~228 |
 | Everything is Awful | 0.10% | ~228 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,787 (Ranked 54)  
-Completed: 2,257 (0.99%) (Ranked 124)  
+Progressed: 227,793 (Ranked 54)  
+Completed: 2,258 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -667,7 +667,7 @@ Completed: 2,257 (0.99%) (Ranked 124)
 | 2023-09-04 | 227,081 | 2,250 |
 | 2023-09-05 | 227,381 | 2,254 |
 | 2023-09-06 | 227,606 | 2,257 |
-| 2023-09-07 | 227,787 | 2,257 |
+| 2023-09-07 | 227,793 | 2,258 |
 ## Awards
 Max (Diverse Characters): 5,238  (Ranked 67)  
 Sum: 31,445 (Ranked 38)  

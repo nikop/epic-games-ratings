@@ -2,10 +2,10 @@
   "ID": "2a2a530df049450c907d818879767f45",
   "Name": "Space Rangers HD A War Apart",
   "ProductSlug": "space-rangers-hd-a-war-apart-455702",
-  "Ranking_EOS_Progress": 580,
+  "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-09T08:00:00+00:00",
     "PcReleaseDate": "2013-10-17T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:58.8699198+00:00",
   "LastChanged": "2023-03-31T05:57:58.8699199+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:26.904499+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:00:12.5689742+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:07:20.4006918+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:00:41.8693468+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:08:37.8940382+00:00"
 }

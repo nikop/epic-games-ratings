@@ -2,10 +2,10 @@
   "ID": "77eeeb3089274d4b904a3484a913805d",
   "Name": "Ultimate Flight Simulator Pro",
   "ProductSlug": "ultimate-flight-simulator-pro-8f1009",
-  "Ranking_EOS_Progress": 580,
+  "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-27T22:30:00+00:00",
     "PcReleaseDate": "2023-02-02T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-03T22:57:04.0552294+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:02:16.0075564+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:07:38.4647698+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:03:01.1812698+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:08:57.3601264+00:00"
 }

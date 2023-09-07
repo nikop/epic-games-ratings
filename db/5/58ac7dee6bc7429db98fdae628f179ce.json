@@ -2,10 +2,10 @@
   "ID": "58ac7dee6bc7429db98fdae628f179ce",
   "Name": "Mortal Street Fighter",
   "ProductSlug": "mortal-street-fighter-39c02b",
-  "Ranking_EOS_Progress": 580,
+  "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-17T21:00:00+00:00",
     "PcReleaseDate": "2023-08-17T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-20T14:57:35.9612124+00:00",
   "LastUpdate_AppInfo": "2023-09-06T15:57:08.5356859+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:04:36.0757278+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:08:45.2375245+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:05:35.5604489+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:10:10.9594661+00:00"
 }

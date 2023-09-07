@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 70,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "EpicACHV_5",
@@ -205,9 +205,9 @@
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 53,
+      "Percentage": 60,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "EpicACHV_7",
@@ -244,8 +244,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-07T18:08:44.6775709+00:00",
+  "LastChanged_Achievements": "2023-09-07T19:10:10.3771656+00:00",
   "LastUpdate_AppInfo": "2023-09-06T04:57:09.7950789+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:03:28.6672844+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:08:44.6775879+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:04:21.7717043+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:10:10.3771834+00:00"
 }

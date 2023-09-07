@@ -3,9 +3,9 @@
   "Name": "Mason: Building Bricks",
   "ProductSlug": "mason-building-bricks-73659e",
   "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_Completed": 26,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-14T14:00:00+00:00",
     "PcReleaseDate": "2020-11-09T15:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.11,
+  "EOS_Completed_Percentage": 10.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:22.155756+00:00",
@@ -208,6 +208,11 @@
       "Time": "2023-09-03T12:03:41.0533729+00:00",
       "NumProgressed": 45,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-07T19:08:17.4194248+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 5,
@@ -217,7 +222,7 @@
       "ID": "Constructor_01",
       "SetID": "77clh7i",
       "Name": "Constructor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 200,
       "UsersEstimate": 17
     },
@@ -225,7 +230,7 @@
       "ID": "Mason_Arch_01",
       "SetID": "77clh7i",
       "Name": "Arch Mason",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 200,
       "UsersEstimate": 7
     },
@@ -249,7 +254,7 @@
       "ID": "Mason_Novice_01",
       "SetID": "77clh7i",
       "Name": "Novice Mason",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 200,
       "UsersEstimate": 25
     }
@@ -258,7 +263,7 @@
     {
       "ID": "77clh7i",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 5
     }
   ],
@@ -266,8 +271,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-09-07T18:07:00.5135977+00:00",
+  "LastChanged_Achievements": "2023-09-07T19:08:17.4194243+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:37.7608767+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:02:42.3319712+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:07:00.513608+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:03:32.8447181+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:08:17.4194334+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16949,
+  "EOS_Progressed": 16950,
   "EOS_Completed": 102,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
@@ -11092,6 +11092,11 @@
       "Time": "2023-09-07T18:07:18.4716107+00:00",
       "NumProgressed": 16949,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-07T19:08:35.0979338+00:00",
+      "NumProgressed": 16950,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -11135,7 +11140,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "Feel_The_Thunder",
@@ -11151,7 +11156,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5593
+      "UsersEstimate": 5594
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -11183,7 +11188,7 @@
       "Name": "Mirrors",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Shadow_Warrior",
@@ -11207,7 +11212,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "Still_Burning",
@@ -11230,15 +11235,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16949,
+      "Progressed": 16950,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-07T18:07:18.4716098+00:00",
+  "LastChanged_Achievements": "2023-09-07T19:08:35.0979329+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.9189104+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:03:14.3878276+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:07:18.4717088+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:04:03.7730316+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:08:35.0980141+00:00"
 }

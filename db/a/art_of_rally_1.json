@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10219,
+  "EOS_Progressed": 10220,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1386,6 +1386,11 @@
       "Time": "2023-09-06T05:04:12.0527393+00:00",
       "NumProgressed": 10219,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-07T19:07:40.2603811+00:00",
+      "NumProgressed": 10220,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1453,7 +1458,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -1621,7 +1626,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9810
+      "UsersEstimate": 9811
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1637,7 +1642,7 @@
       "Name": "medium attack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6131
+      "UsersEstimate": 6132
     },
     {
       "ID": "ACH_NIGHT",
@@ -1645,7 +1650,7 @@
       "Name": "night ride",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACH_PAINT_BOOTH",
@@ -1661,7 +1666,7 @@
       "Name": "snorkel",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "ACH_ROLL",
@@ -1740,15 +1745,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10219,
+      "Progressed": 10220,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-07T18:06:26.4788859+00:00",
+  "LastChanged_Achievements": "2023-09-07T19:07:40.2603806+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:23.8237643+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:00:01.6552019+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:06:26.4789282+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:00:26.746821+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:07:40.2604266+00:00"
 }

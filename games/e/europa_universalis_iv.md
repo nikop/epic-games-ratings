@@ -6,27 +6,27 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,789 |
-| That's a Grand Army | 3.00% | ~11,842 |
-| That is mine! | 3.00% | ~11,842 |
-| Victorious! | 3.00% | ~11,842 |
-| Brothers in Arms | 2.00% | ~7,894 |
-| For the Glory | 2.00% | ~7,894 |
-| That's a Grand Navy | 2.00% | ~7,894 |
-| Seriously?! | 2.00% | ~7,894 |
-| Cold War | 1.00% | ~3,947 |
-| Defender of the Faith | 1.00% | ~3,947 |
-| It's all about the money | 1.00% | ~3,947 |
-| True Catholic | 1.00% | ~3,947 |
-| Respected | 0.90% | ~3,552 |
-| The Princess is in this Castle | 0.90% | ~3,552 |
+| Until death do us apart | 4.00% | ~15,792 |
+| That's a Grand Army | 3.00% | ~11,844 |
+| That is mine! | 3.00% | ~11,844 |
+| Victorious! | 3.00% | ~11,844 |
+| Brothers in Arms | 2.00% | ~7,896 |
+| For the Glory | 2.00% | ~7,896 |
+| That's a Grand Navy | 2.00% | ~7,896 |
+| Seriously?! | 2.00% | ~7,896 |
+| Cold War | 1.00% | ~3,948 |
+| Defender of the Faith | 1.00% | ~3,948 |
+| It's all about the money | 1.00% | ~3,948 |
+| True Catholic | 1.00% | ~3,948 |
+| Respected | 0.90% | ~3,553 |
+| The Princess is in this Castle | 0.90% | ~3,553 |
 | It's all about luck | 0.80% | ~3,158 |
 | Truly Divine Ruler | 0.80% | ~3,158 |
-| Blockader | 0.70% | ~2,763 |
-| Double the Love | 0.70% | ~2,763 |
-| Royal Authority | 0.70% | ~2,763 |
-| Total Control | 0.70% | ~2,763 |
-| My armies are invincible! | 0.60% | ~2,368 |
+| Blockader | 0.70% | ~2,764 |
+| Double the Love | 0.70% | ~2,764 |
+| Royal Authority | 0.70% | ~2,764 |
+| Total Control | 0.70% | ~2,764 |
+| My armies are invincible! | 0.60% | ~2,369 |
 | Agressive Expander | 0.50% | ~1,974 |
 | City of Cities | 0.50% | ~1,974 |
 | Combined Arms | 0.50% | ~1,974 |
@@ -45,15 +45,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~1,184 |
 | The Five Colonies | 0.30% | ~1,184 |
 | Trustworthy | 0.30% | ~1,184 |
-| All belongs to Mother Russia | 0.20% | ~789 |
-| At every continent | 0.20% | ~789 |
-| Electable! | 0.20% | ~789 |
-| Grand Coalition | 0.20% | ~789 |
-| One Family to Rule them All | 0.20% | ~789 |
-| Ruina Imperii | 0.20% | ~789 |
-| The pen is mightier than the sword | 0.20% | ~789 |
-| Time Bandit | 0.20% | ~789 |
-| Traditional Player | 0.20% | ~789 |
+| All belongs to Mother Russia | 0.20% | ~790 |
+| At every continent | 0.20% | ~790 |
+| Electable! | 0.20% | ~790 |
+| Grand Coalition | 0.20% | ~790 |
+| One Family to Rule them All | 0.20% | ~790 |
+| Ruina Imperii | 0.20% | ~790 |
+| The pen is mightier than the sword | 0.20% | ~790 |
+| Time Bandit | 0.20% | ~790 |
+| Traditional Player | 0.20% | ~790 |
 | The 52 Garhs | 0.10% | ~395 |
 | I don't like sand | 0.10% | ~395 |
 | A Blessed Nation | 0.10% | ~395 |
@@ -103,6 +103,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brentry! | 0.10% | ~395 |
 | Brick by Brick | 0.10% | ~395 |
 | The Buddhists Strike Back | 0.10% | ~395 |
+| Bunte Kuh | 0.10% | ~395 |
 | Carthago Delenda Est | 0.10% | ~395 |
 | Center of Attention | 0.10% | ~395 |
 | Cherrypicking | 0.10% | ~395 |
@@ -353,7 +354,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | World Discoverer | 0.10% | ~395 |
 | Yarr Harr a Pirate's Life For Me | 0.10% | ~395 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~395 |
-| Bunte Kuh | 0.00% | ~0 |
 | No Trail of Tears | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394,722 (Ranked 40)  
+Progressed: 394,796 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -501,7 +501,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-04 | 391,485 | 0 |
 | 2023-09-05 | 392,723 | 0 |
 | 2023-09-06 | 393,860 | 0 |
-| 2023-09-07 | 394,722 | 0 |
+| 2023-09-07 | 394,796 | 0 |
 ## Awards
 Max (Educational): 5,981  (Ranked 57)  
 Sum: 49,139 (Ranked 26)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -524,9 +524,9 @@
       "ID": "49",
       "SetID": "5e3maia",
       "Name": "True Survivor",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "5",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-07T18:10:43.4756059+00:00",
+  "LastChanged_Achievements": "2023-09-07T19:12:28.0712612+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:57:57.1996465+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:10:43.4757223+00:00"
+  "LastUpdate_Ratings": "2023-09-07T18:58:07.267453+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:12:28.0713344+00:00"
 }

@@ -23,16 +23,16 @@ Rating: 4.54 (Ranked 505)
 | Zombologist | 0.90% | ~6,077 |
 | A Patton Emerges | 0.90% | ~6,077 |
 | This is My Weapon | 0.90% | ~6,077 |
-| Slayer Squad | 0.80% | ~5,401 |
-| Our True Nature | 0.80% | ~5,401 |
-| Anger Management | 0.70% | ~4,726 |
-| Perks of the Job | 0.70% | ~4,726 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,726 |
-| Ooh, Shiny! | 0.70% | ~4,726 |
-| I Am the Resurrection | 0.70% | ~4,726 |
+| Slayer Squad | 0.80% | ~5,402 |
+| Our True Nature | 0.80% | ~5,402 |
+| Anger Management | 0.70% | ~4,727 |
+| Perks of the Job | 0.70% | ~4,727 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,727 |
+| Ooh, Shiny! | 0.70% | ~4,727 |
+| I Am the Resurrection | 0.70% | ~4,727 |
 | Making Your Mark | 0.60% | ~4,051 |
 | Humanity Distilled | 0.60% | ~4,051 |
-| Down with the Sickness | 0.50% | ~3,376 |
+| Down with the Sickness | 0.60% | ~4,051 |
 | Max Headroom | 0.50% | ~3,376 |
 | Jumbo Keyring | 0.40% | ~2,701 |
 | Go, Bobcats! | 0.40% | ~2,701 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,186 (Ranked 22)  
+Progressed: 675,220 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
-| 2023-09-07 | 675,186 | 2,119 |
+| 2023-09-07 | 675,220 | 2,119 |
 ## Awards
 Max (Great Boss Battles): 5,928  (Ranked 59)  
 Sum: 8,757 (Ranked 95)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2465,
+  "EOS_Progressed": 2466,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5531,6 +5531,11 @@
       "Time": "2023-09-07T17:05:45.4496809+00:00",
       "NumProgressed": 2465,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T19:06:34.87109+00:00",
+      "NumProgressed": 2466,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5566,7 +5571,7 @@
       "Name": "Whoops",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "CONQUEROR",
@@ -5622,7 +5627,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "GLOVE_SLAP",
@@ -5646,7 +5651,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "GUARD_MAKER",
@@ -5717,14 +5722,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2465,
+      "Progressed": 2466,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-07T18:05:26.511999+00:00",
+  "LastChanged_Achievements": "2023-09-07T19:06:34.8710894+00:00",
   "LastUpdate_AppInfo": "2023-09-05T23:57:21.8504773+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:59:08.3365303+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:05:26.5120629+00:00"
+  "LastUpdate_Ratings": "2023-09-07T18:59:28.7873335+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:06:34.8711723+00:00"
 }

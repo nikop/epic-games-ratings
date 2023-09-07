@@ -2,10 +2,10 @@
   "ID": "667f289be6b3430cb4f425808d2a0ea8",
   "Name": "NecroVisioN: Lost Company",
   "ProductSlug": "necrovision-lost-company-6896c2",
-  "Ranking_EOS_Progress": 580,
+  "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-11T17:00:00+00:00",
     "PcReleaseDate": "2010-02-19T09:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-15T21:57:13.3575143+00:00",
   "LastUpdate_AppInfo": "2023-09-01T01:42:47.0119635+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:59:59.8558686+00:00",
-  "LastUpdate_Achievements": "2023-09-07T18:05:12.1346058+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:00:23.0429056+00:00",
+  "LastUpdate_Achievements": "2023-09-07T19:06:21.6202439+00:00"
 }

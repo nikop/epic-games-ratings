@@ -6,21 +6,21 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,070 |
-| Thorough | 10.00% | ~20,064 |
+| Genin | 11.00% | ~22,071 |
+| Thorough | 10.00% | ~20,065 |
 | A thief's beginning | 9.00% | ~18,058 |
-| Disguised | 8.00% | ~16,051 |
-| Rescue Takuma | 8.00% | ~16,051 |
-| Rollin' | 8.00% | ~16,051 |
-| Tanuki Time | 8.00% | ~16,051 |
+| Disguised | 8.00% | ~16,052 |
+| Rescue Takuma | 8.00% | ~16,052 |
+| Rollin' | 8.00% | ~16,052 |
+| Tanuki Time | 8.00% | ~16,052 |
 | Ice Ice Yuki | 7.00% | ~14,045 |
 | Jonin | 7.00% | ~14,045 |
 | Stoned Ox | 7.00% | ~14,045 |
 | Yabu | 7.00% | ~14,045 |
-| Chunin | 6.00% | ~12,038 |
-| Flying Rocks | 6.00% | ~12,038 |
-| Happy Planning | 6.00% | ~12,038 |
-| Mugen Unchained | 6.00% | ~12,038 |
+| Chunin | 6.00% | ~12,039 |
+| Flying Rocks | 6.00% | ~12,039 |
+| Happy Planning | 6.00% | ~12,039 |
+| Mugen Unchained | 6.00% | ~12,039 |
 | Okkoto | 5.00% | ~10,032 |
 | Too Early | 5.00% | ~10,032 |
 | Warzone | 5.00% | ~10,032 |
@@ -41,7 +41,7 @@ Number of Ratings: 495  (23.09.2022)
 | Undeserved Honor | 1.00% | ~2,006 |
 | When Cut Across the Neck | 0.90% | ~1,806 |
 | High Five the Moon | 0.80% | ~1,605 |
-| The Cave | 0.70% | ~1,404 |
+| The Cave | 0.70% | ~1,405 |
 | Merciful | 0.50% | ~1,003 |
 | Time Paradox | 0.50% | ~1,003 |
 | Five Shadows | 0.30% | ~602 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~201 |
 | Release the Kraken | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,640 (Ranked 61)  
+Progressed: 200,649 (Ranked 61)  
 Completed: 77 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 77 (0.04%) (Ranked 239)
 | 2023-09-04 | 200,108 | 76 |
 | 2023-09-05 | 200,306 | 76 |
 | 2023-09-06 | 200,486 | 77 |
-| 2023-09-07 | 200,640 | 77 |
+| 2023-09-07 | 200,649 | 77 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 191)  
 Sum: 4,743 (Ranked 135)  
