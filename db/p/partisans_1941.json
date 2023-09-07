@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,11 +295,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1334,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.08,
+  "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:39.863214+00:00",
@@ -2405,6 +2405,11 @@
       "Time": "2023-09-07T19:08:30.3169458+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T23:07:59.0039934+00:00",
+      "NumProgressed": 1334,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2534,17 +2539,17 @@
       "ID": "Hard_Serpent",
       "SetID": "85nb4h3",
       "Name": "Tough as Nails",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 454
     },
     {
       "ID": "High_noon",
@@ -2600,7 +2605,7 @@
       "Name": "Bomberman",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "MoskitoBite",
@@ -2655,15 +2660,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1334,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-07T22:07:48.6326304+00:00",
+  "LastChanged_Achievements": "2023-09-07T23:07:59.003993+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:58.9041026+00:00",
-  "LastUpdate_Ratings": "2023-09-07T22:03:55.8445668+00:00",
-  "LastUpdate_Achievements": "2023-09-07T22:07:48.6326893+00:00"
+  "LastUpdate_Ratings": "2023-09-07T23:04:26.6384955+00:00",
+  "LastUpdate_Achievements": "2023-09-07T23:07:59.0040243+00:00"
 }

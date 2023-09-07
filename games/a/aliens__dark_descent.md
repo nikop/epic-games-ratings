@@ -48,8 +48,8 @@ Rating: 4.47 (Ranked 613)
 | Archivist | 2.00% | ~65 |
 | Fair And Square | 2.00% | ~65 |
 | Perfect Organism | 0.90% | ~29 |
+| Chalk It Up To Experience | 0.80% | ~26 |
 | This Ain't No Picnic | 0.70% | ~23 |
-| Chalk It Up To Experience | 0.70% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,229 (Ranked 159)  
 Completed: 3 (0.09%) (Ranked 221)  

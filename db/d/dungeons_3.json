@@ -2,13 +2,13 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 279,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2584,9 +2584,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29754,
+  "EOS_Progressed": 29755,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -17829,6 +17829,11 @@
       "Time": "2023-09-07T22:06:22.2280615+00:00",
       "NumProgressed": 29754,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-09-07T23:06:36.206012+00:00",
+      "NumProgressed": 29755,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 60,
@@ -17840,7 +17845,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17257
+      "UsersEstimate": 17258
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -17888,7 +17893,7 @@
       "Name": "This is fun, I\u2019m going to keep doing this!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3570
+      "UsersEstimate": 3571
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_2",
@@ -17904,7 +17909,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -17928,7 +17933,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10116
+      "UsersEstimate": 10117
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -17944,7 +17949,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2975
+      "UsersEstimate": 2976
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -17952,7 +17957,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14579
+      "UsersEstimate": 14580
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -17992,7 +17997,7 @@
       "Name": "Then let them eat cake!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3570
+      "UsersEstimate": 3571
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_Completed",
@@ -18048,7 +18053,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12794
+      "UsersEstimate": 12795
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -18064,7 +18069,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10711
+      "UsersEstimate": 10712
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -18072,7 +18077,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12199
+      "UsersEstimate": 12200
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -18144,7 +18149,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6843
+      "UsersEstimate": 6844
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -18192,7 +18197,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6248
+      "UsersEstimate": 6249
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -18224,7 +18229,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13389
+      "UsersEstimate": 13390
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -18240,7 +18245,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20530
+      "UsersEstimate": 20531
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -18304,7 +18309,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2975
+      "UsersEstimate": 2976
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -18319,15 +18324,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29754,
+      "Progressed": 29755,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-04T19:00:53.7599775+00:00",
-  "LastChanged_Achievements": "2023-09-07T22:06:22.2280609+00:00",
+  "LastChanged_Achievements": "2023-09-07T23:06:36.2060116+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-07T22:04:19.3326053+00:00",
-  "LastUpdate_Achievements": "2023-09-07T22:06:22.2282242+00:00"
+  "LastUpdate_Ratings": "2023-09-07T23:04:44.7854084+00:00",
+  "LastUpdate_Achievements": "2023-09-07T23:06:36.206179+00:00"
 }

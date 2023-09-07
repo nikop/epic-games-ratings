@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -5514,9 +5514,9 @@
       "ID": "conqueror",
       "SetID": "3nl4bcg",
       "Name": "Conqueror",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "crystalmining",
@@ -6051,8 +6051,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-07T18:01:08.4694102+00:00",
-  "LastChanged_Achievements": "2023-09-07T22:07:42.3421878+00:00",
+  "LastChanged_Achievements": "2023-09-07T23:07:53.1379089+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-07T22:01:36.4063681+00:00",
-  "LastUpdate_Achievements": "2023-09-07T22:07:42.342325+00:00"
+  "LastUpdate_Ratings": "2023-09-07T23:02:00.2909414+00:00",
+  "LastUpdate_Achievements": "2023-09-07T23:07:53.1380158+00:00"
 }

@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.90% | ~124 |
 | Statesmen | 0.90% | ~124 |
 | Traders | 0.90% | ~124 |
+| Circus Maximus | 0.90% | ~124 |
 | Hagia Sophia | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
 | Redemption | 0.90% | ~124 |
@@ -106,8 +107,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.80% | ~110 |
 | Invincible | 0.80% | ~110 |
 | Ready | 0.80% | ~110 |
+| Landowners | 0.80% | ~110 |
 | Riders | 0.80% | ~110 |
-| Circus Maximus | 0.80% | ~110 |
 | Church of the Holy Sepulchre | 0.80% | ~110 |
 | Assyrian Paganism | 0.80% | ~110 |
 | Industrial Progress | 0.80% | ~110 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.70% | ~97 |
 | Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
-| Landowners | 0.70% | ~97 |
 | Adur Burzen-Mihr | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
 | Carthage | 0.70% | ~97 |
@@ -169,6 +169,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.20% | ~28 |
 | Carthage - Riches and Influence | 0.20% | ~28 |
 | Cleopatra's Love | 0.20% | ~28 |
+| Holy | 0.20% | ~28 |
 | Great Difficulty | 0.20% | ~28 |
 | Magnificent Difficulty | 0.20% | ~28 |
 | Nenikekamen | 0.20% | ~28 |
@@ -210,7 +211,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.10% | ~14 |
 | Avenger | 0.10% | ~14 |
 | Destroyer | 0.10% | ~14 |
-| Holy | 0.10% | ~14 |
 | Rebuilder | 0.10% | ~14 |
 | Ethnic Diversity | 0.10% | ~14 |
 | Et tu Brutus? | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,809 (Ranked 121)  
+Progressed: 13,810 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -443,7 +443,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-04 | 13,779 | 5 |
 | 2023-09-05 | 13,790 | 5 |
 | 2023-09-06 | 13,796 | 5 |
-| 2023-09-07 | 13,809 | 5 |
+| 2023-09-07 | 13,810 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

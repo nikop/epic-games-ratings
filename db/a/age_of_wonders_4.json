@@ -6273,9 +6273,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 310
     },
     {
       "ID": "34",
@@ -6480,8 +6480,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-07T22:07:05.2401134+00:00",
+  "LastChanged_Achievements": "2023-09-07T23:07:17.2683245+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.1912203+00:00",
-  "LastUpdate_Ratings": "2023-09-07T22:03:58.4557529+00:00",
-  "LastUpdate_Achievements": "2023-09-07T22:07:05.2401991+00:00"
+  "LastUpdate_Ratings": "2023-09-07T23:04:30.5448767+00:00",
+  "LastUpdate_Achievements": "2023-09-07T23:07:17.268404+00:00"
 }

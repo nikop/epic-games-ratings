@@ -4,10 +4,10 @@
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 564,
   "Ranking_Popularity": 179,
-  "Ranking_PopularitySum": 252,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2018-12-04T15:00:00+00:00",
@@ -1278,10 +1278,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 926,
       "NumberOfAwardsMax": 632
+    },
+    {
+      "Time": "2023-09-07T23:04:25.5587582+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 927,
+      "NumberOfAwardsMax": 632
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 926,
+  "NumberOfAwards": 927,
   "NumberOfAwardsMax": 632,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1343,7 +1349,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 25
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -1357,8 +1363,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2023-09-07T22:03:55.2435058+00:00",
+  "LastChanged": "2023-09-07T23:04:25.558758+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9703369+00:00",
-  "LastUpdate_Ratings": "2023-09-07T22:03:55.2435068+00:00",
-  "LastUpdate_Achievements": "2023-09-07T22:08:05.2572495+00:00"
+  "LastUpdate_Ratings": "2023-09-07T23:04:25.5587585+00:00",
+  "LastUpdate_Achievements": "2023-09-07T23:08:15.2409592+00:00"
 }

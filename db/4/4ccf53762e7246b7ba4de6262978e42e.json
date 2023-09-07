@@ -4,7 +4,7 @@
   "ProductSlug": "obskur",
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-15T06:00:57.463433+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.3968932+00:00",
-  "LastUpdate_Ratings": "2023-09-07T22:04:05.0246371+00:00",
-  "LastUpdate_Achievements": "2023-09-07T22:07:54.8845193+00:00"
+  "LastUpdate_Ratings": "2023-09-07T23:04:32.1672315+00:00",
+  "LastUpdate_Achievements": "2023-09-07T23:08:05.1301096+00:00"
 }

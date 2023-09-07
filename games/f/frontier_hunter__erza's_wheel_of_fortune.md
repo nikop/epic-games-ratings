@@ -36,13 +36,13 @@
 | Berserker Slayer | 16.00% | ~14 |
 | Warden Slayer | 15.00% | ~13 |
 | Giantess Slayer | 13.00% | ~12 |
-| Boss challenge | 11.00% | ~10 |
-| Big Face Goalkeeper Challenge | 3.00% | ~3 |
+| Boss challenge | 12.00% | ~11 |
+| Big Face Goalkeeper Challenge | 4.00% | ~4 |
+| Giant Claw Spider Challenge | 3.00% | ~3 |
 | Silver Moon Wolf King Challenge | 3.00% | ~3 |
+| Mermaid Challenge | 3.00% | ~3 |
 | Rebellious | 2.00% | ~2 |
 | Blade Mantis Challenge | 2.00% | ~2 |
-| Giant Claw Spider Challenge | 2.00% | ~2 |
-| Mermaid Challenge | 2.00% | ~2 |
 | Berserker Challenge | 2.00% | ~2 |
 | Giantess Challenge | 2.00% | ~2 |
 | Warden Challenge | 2.00% | ~2 |

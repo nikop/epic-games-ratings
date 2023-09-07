@@ -11,6 +11,7 @@ Rating: 4.60 (Ranked 392)
 | Walls Cannot Stop Us | 6.00% | ~310 |
 | From Friends to Family | 6.00% | ~310 |
 | Magical Synergy | 6.00% | ~310 |
+| Seat of Power | 6.00% | ~310 |
 | Intimidation Tactics | 6.00% | ~310 |
 | Tipping the Scales | 6.00% | ~310 |
 | There Can Only Be One! | 5.00% | ~258 |
@@ -18,7 +19,6 @@ Rating: 4.60 (Ranked 392)
 | Bone Peddler | 5.00% | ~258 |
 | Stronger Together | 5.00% | ~258 |
 | My Final Form | 5.00% | ~258 |
-| Seat of Power | 5.00% | ~258 |
 | In a Liege of Your Own | 5.00% | ~258 |
 | Here be Dragons | 5.00% | ~258 |
 | Blood of the Dragon | 5.00% | ~258 |
