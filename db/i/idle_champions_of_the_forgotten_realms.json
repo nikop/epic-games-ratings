@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 47,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6362,10 +6362,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31431,
       "NumberOfAwardsMax": 5238
+    },
+    {
+      "Time": "2023-09-07T12:00:05.9485974+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31432,
+      "NumberOfAwardsMax": 5238
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31431,
+  "NumberOfAwards": 31432,
   "NumberOfAwardsMax": 5238,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6409,12 +6415,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3399
+      "Count": 3400
     }
   ],
-  "EOS_Progressed": 227704,
+  "EOS_Progressed": 227711,
   "EOS_Completed": 2257,
-  "EOS_NewPlayers": 1416,
+  "EOS_NewPlayers": 1414,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -21852,6 +21858,11 @@
       "Time": "2023-09-07T11:07:25.0918817+00:00",
       "NumProgressed": 227704,
       "NumCompleted": 2257
+    },
+    {
+      "Time": "2023-09-07T12:07:41.1296232+00:00",
+      "NumProgressed": 227711,
+      "NumCompleted": 2257
     }
   ],
   "TotalAchievements": 520,
@@ -22229,9 +22240,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 1139
     },
     {
       "ID": "objective_completed_110",
@@ -24005,9 +24016,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 455
     },
     {
       "ID": "objective_completed_540",
@@ -26022,21 +26033,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 193978,
+      "Progressed": 193985,
       "Completed": 3408
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227704,
+      "Progressed": 227711,
       "Completed": 2257
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-07T09:59:56.5496816+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:07:25.0918813+00:00",
+  "LastChanged": "2023-09-07T12:00:05.9485972+00:00",
+  "LastChanged_Achievements": "2023-09-07T12:07:41.1296226+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-07T10:59:52.3828318+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:07:25.0951579+00:00"
+  "LastUpdate_Ratings": "2023-09-07T12:00:05.9485978+00:00",
+  "LastUpdate_Achievements": "2023-09-07T12:07:41.1323919+00:00"
 }

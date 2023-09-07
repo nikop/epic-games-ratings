@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 16,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4210,10 +4210,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8751,
       "NumberOfAwardsMax": 5928
+    },
+    {
+      "Time": "2023-09-07T12:00:47.5376844+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8753,
+      "NumberOfAwardsMax": 5928
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8751,
+  "NumberOfAwards": 8753,
   "NumberOfAwardsMax": 5928,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4251,7 +4257,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 310
+      "Count": 312
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4272,9 +4278,9 @@
       "Count": 341
     }
   ],
-  "EOS_Progressed": 674960,
+  "EOS_Progressed": 674972,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 5074,
+  "EOS_NewPlayers": 5061,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19907,6 +19913,11 @@
       "Time": "2023-09-07T11:07:11.9221109+00:00",
       "NumProgressed": 674960,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-09-07T12:07:26.2430605+00:00",
+      "NumProgressed": 674972,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 45,
@@ -20124,9 +20135,9 @@
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5400
+      "UsersEstimate": 6075
     },
     {
       "ID": "ach_legendary",
@@ -20277,22 +20288,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 674960,
+      "Progressed": 674972,
       "Completed": 2119
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 500,
-      "Completed": 500
+      "Progressed": 512,
+      "Completed": 512
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-06T20:59:28.7541201+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:07:11.92211+00:00",
+  "LastChanged": "2023-09-07T12:00:47.5376843+00:00",
+  "LastChanged_Achievements": "2023-09-07T12:07:26.2430585+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-07T11:00:38.3132622+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:07:11.9223504+00:00"
+  "LastUpdate_Ratings": "2023-09-07T12:00:47.5376848+00:00",
+  "LastUpdate_Achievements": "2023-09-07T12:07:26.2431964+00:00"
 }

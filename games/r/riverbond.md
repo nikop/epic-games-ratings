@@ -6,22 +6,22 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,790 |
+| First Step | 70.00% | ~368,791 |
 | Now You're Talking | 62.00% | ~326,643 |
 | Steel Yourself | 62.00% | ~326,643 |
 | Window Dressing | 50.00% | ~263,422 |
 | Trigger Happy | 46.00% | ~242,348 |
-| Riverborn | 45.00% | ~237,079 |
+| Riverborn | 45.00% | ~237,080 |
 | Starry Eyed | 34.00% | ~179,127 |
 | Poking Around | 34.00% | ~179,127 |
-| Talk of the Town | 24.00% | ~126,442 |
+| Talk of the Town | 24.00% | ~126,443 |
 | AAARR! | 23.00% | ~121,174 |
 | Hello Darkness | 23.00% | ~121,174 |
-| Wind At Our Backs | 22.00% | ~115,905 |
+| Wind At Our Backs | 22.00% | ~115,906 |
 | To the Beat | 20.00% | ~105,369 |
 | Sunny Shores | 17.00% | ~89,563 |
 | Sunday Best | 16.00% | ~84,295 |
-| To Victory! | 15.00% | ~79,026 |
+| To Victory! | 15.00% | ~79,027 |
 | Two of a Kind | 14.00% | ~73,758 |
 | Keep On Trucking | 13.00% | ~68,490 |
 | Going on an Adventure | 11.00% | ~57,953 |
@@ -30,7 +30,7 @@ Number of Ratings: 617  (23.09.2022)
 | Not So Cute Anymore | 10.00% | ~52,684 |
 | Road Less Travelled | 9.00% | ~47,416 |
 | Lost and Found | 9.00% | ~47,416 |
-| Under the Radar | 8.00% | ~42,147 |
+| Under the Radar | 8.00% | ~42,148 |
 | Partner in Crime | 7.00% | ~36,879 |
 | Hard to Hear | 7.00% | ~36,879 |
 | Moving On Up | 6.00% | ~31,611 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,581 |
 | Point Taken | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,843 (Ranked 33)  
+Progressed: 526,844 (Ranked 33)  
 Completed: 470 (0.09%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 470 (0.09%) (Ranked 221)
 | 2023-09-04 | 526,716 | 468 |
 | 2023-09-05 | 526,765 | 469 |
 | 2023-09-06 | 526,826 | 470 |
-| 2023-09-07 | 526,843 | 470 |
+| 2023-09-07 | 526,844 | 470 |
 ## Awards
 Max (Relaxing): 20  (Ranked 511)  
 Sum: 20 (Ranked 513)  

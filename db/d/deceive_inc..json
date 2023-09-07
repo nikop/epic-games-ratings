@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17896,
+  "EOS_Progressed": 17897,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9813,6 +9813,11 @@
       "Time": "2023-09-07T09:04:02.3300882+00:00",
       "NumProgressed": 17896,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T12:04:27.2628208+00:00",
+      "NumProgressed": 17897,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9912,7 +9917,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "0013",
@@ -9928,7 +9933,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 2864
     },
     {
       "ID": "0015",
@@ -10048,7 +10053,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "0030",
@@ -10111,7 +10116,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17896,
+      "Progressed": 17897,
       "Completed": 1
     }
   ],
@@ -10119,8 +10124,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:04:15.549421+00:00",
+  "LastChanged_Achievements": "2023-09-07T12:04:27.2628203+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-07T11:02:05.974721+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:04:15.5495268+00:00"
+  "LastUpdate_Ratings": "2023-09-07T12:02:33.0469949+00:00",
+  "LastUpdate_Achievements": "2023-09-07T12:04:27.2628968+00:00"
 }

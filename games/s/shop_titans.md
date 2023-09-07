@@ -20,9 +20,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 1.00% | ~1,358 |
 | Own the Means of Production | 1.00% | ~1,358 |
 | The Daily Grind | 0.80% | ~1,086 |
+| Bounty Hunters | 0.80% | ~1,086 |
 | One-Armed Bandit | 0.80% | ~1,086 |
 | Through Repetition, Perfection | 0.80% | ~1,086 |
-| Bounty Hunters | 0.70% | ~950 |
 | Demand for Supplies | 0.70% | ~950 |
 | Flooding the Market | 0.70% | ~950 |
 | Where it Hurts | 0.70% | ~950 |
@@ -89,6 +89,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | By Your Powers Combined... | 0.30% | ~407 |
 | A Legend is Born | 0.30% | ~407 |
 | Necromancer Queen | 0.30% | ~407 |
+| Jackpot! | 0.30% | ~407 |
 | Item of Renown | 0.30% | ~407 |
 | Master Merchant | 0.30% | ~407 |
 | Bountiful Harvest | 0.30% | ~407 |
@@ -102,7 +103,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.30% | ~407 |
 | The Free Encyclopedia | 0.20% | ~272 |
 | Thank You Tom Nook | 0.20% | ~272 |
-| Jackpot! | 0.20% | ~272 |
 | Eternal Crusade | 0.20% | ~272 |
 | All Accounted For | 0.20% | ~272 |
 | Bane of Legends | 0.10% | ~136 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,779 (Ranked 67)  
+Progressed: 135,782 (Ranked 67)  
 Completed: 146 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 146 (0.11%) (Ranked 215)
 | 2023-09-04 | 135,661 | 142 |
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
-| 2023-09-07 | 135,779 | 146 |
+| 2023-09-07 | 135,782 | 146 |
 ## Awards
 Max (Great for Beginners): 4,727  (Ranked 70)  
 Sum: 27,184 (Ranked 48)  

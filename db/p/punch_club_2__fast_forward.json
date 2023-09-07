@@ -1336,9 +1336,9 @@
       "ID": "fight_win_10",
       "SetID": "69co12a",
       "Name": "Fighting is cool",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 223
     },
     {
       "ID": "fight_win_25",
@@ -1408,9 +1408,9 @@
       "ID": "get_tape",
       "SetID": "69co12a",
       "Name": "Old movies enjoyer",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 254
     },
     {
       "ID": "gpp_chip",
@@ -1680,9 +1680,9 @@
       "ID": "trainer_promotion_1",
       "SetID": "69co12a",
       "Name": "Escaped from a big trouble",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 169
     },
     {
       "ID": "trainer_promotion_2",
@@ -1751,8 +1751,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:05:12.4455836+00:00",
+  "LastChanged_Achievements": "2023-09-07T12:05:24.6239643+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-07T10:58:29.3270999+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:05:12.4456581+00:00"
+  "LastUpdate_Ratings": "2023-09-07T11:58:33.0637942+00:00",
+  "LastUpdate_Achievements": "2023-09-07T12:05:24.624032+00:00"
 }

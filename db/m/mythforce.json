@@ -587,9 +587,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3707,6 +3707,11 @@
       "Time": "2023-09-07T06:05:22.1629281+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T12:05:47.2802414+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -3813,9 +3818,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -3837,9 +3842,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -3885,9 +3890,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -3902,15 +3907,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-07T05:00:40.4405474+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:05:35.669818+00:00",
+  "LastChanged_Achievements": "2023-09-07T12:05:47.2802408+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:16.3905478+00:00",
-  "LastUpdate_Ratings": "2023-09-07T11:00:47.6359603+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:05:35.6698544+00:00"
+  "LastUpdate_Ratings": "2023-09-07T12:01:00.3341515+00:00",
+  "LastUpdate_Achievements": "2023-09-07T12:05:47.2802738+00:00"
 }

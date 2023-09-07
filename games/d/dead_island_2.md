@@ -20,10 +20,10 @@ Rating: 4.54 (Ranked 505)
 | But Doctor, I am Butcho | 0.90% | ~6,075 |
 | Can't Handle the Truth | 0.90% | ~6,075 |
 | Like Riding a Bike | 0.90% | ~6,075 |
+| Zombologist | 0.90% | ~6,075 |
 | A Patton Emerges | 0.90% | ~6,075 |
 | This is My Weapon | 0.90% | ~6,075 |
 | Slayer Squad | 0.80% | ~5,400 |
-| Zombologist | 0.80% | ~5,400 |
 | Anger Management | 0.70% | ~4,725 |
 | Perks of the Job | 0.70% | ~4,725 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,725 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,960 (Ranked 22)  
+Progressed: 674,972 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,10 +191,10 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
-| 2023-09-07 | 674,960 | 2,119 |
+| 2023-09-07 | 674,972 | 2,119 |
 ## Awards
 Max (Great Boss Battles): 5,928  (Ranked 59)  
-Sum: 8,751 (Ranked 95)  
+Sum: 8,753 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -205,8 +205,8 @@ Diff (max vs sum): -36
 | This game is Relaxing | 367 |
 | This game has Amazing Storytelling | 341 |
 | This game is Extremely Fun | 322 |
+| This game has Amazing Characters | 312 |
 | This game is Highly Recommended | 311 |
-| This game has Amazing Characters | 310 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -349,3 +349,4 @@ Diff (max vs sum): -36
 | 2023-09-04 | 4.54 | 5,902 | 8,698 |
 | 2023-09-05 | 4.54 | 5,913 | 8,730 |
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
+| 2023-09-07 | 4.54 | 5,928 | 8,753 |

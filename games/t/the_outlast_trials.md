@@ -1,7 +1,7 @@
 # The Outlast Trials
 [Store](https://store.epicgames.com/en-US/p/the-outlast-trials)  
 [View Rawdata](../../db/t/the_outlast_trials.json)  
-Rating: 4.65 (Ranked 303)  
+Rating: 4.66 (Ranked 280)  
 ## Awards
 Max (Great for Beginners): 109  (Ranked 328)  
 Sum: 740 (Ranked 269)  
@@ -124,3 +124,4 @@ Diff (max vs sum): 59
 | 2023-09-03 | 4.66 | 108 | 734 |
 | 2023-09-05 | 4.66 | 108 | 736 |
 | 2023-09-06 | 4.65 | 109 | 740 |
+| 2023-09-07 | 4.66 | 109 | 740 |

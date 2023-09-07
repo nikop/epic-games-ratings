@@ -5,14 +5,14 @@ Rating: 4.48 (Ranked 602)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,651 |
+| Meeting Resistance | 46.00% | ~1,652 |
 | Confirming Suspicions | 40.00% | ~1,436 |
-| The Kraken Wakes | 36.00% | ~1,292 |
+| The Kraken Wakes | 36.00% | ~1,293 |
 | It's Starting to Crack | 33.00% | ~1,185 |
 | Change the Channel | 30.00% | ~1,077 |
 | Lord of War | 29.00% | ~1,041 |
 | Taking it back | 28.00% | ~1,005 |
-| Resourceful | 26.00% | ~933 |
+| Resourceful | 26.00% | ~934 |
 | Target America | 25.00% | ~898 |
 | The Kraken Sleeps | 23.00% | ~826 |
 | Organ Grinder | 22.00% | ~790 |
@@ -21,11 +21,11 @@ Rating: 4.48 (Ranked 602)
 | Sharpshooter | 21.00% | ~754 |
 | Explosive Efficiency | 18.00% | ~646 |
 | Gunslinger | 17.00% | ~610 |
-| Just a Flesh Wound | 16.00% | ~574 |
-| Der Geist | 16.00% | ~574 |
-| Climbing the Ladder | 15.00% | ~538 |
-| Close Quarters | 15.00% | ~538 |
-| Brains of the Operation | 15.00% | ~538 |
+| Just a Flesh Wound | 16.00% | ~575 |
+| Der Geist | 16.00% | ~575 |
+| Climbing the Ladder | 15.00% | ~539 |
+| Close Quarters | 15.00% | ~539 |
+| Brains of the Operation | 15.00% | ~539 |
 | Fields of Glory | 14.00% | ~503 |
 | Skirmisher | 14.00% | ~503 |
 | Die Nussknacker Sweet! | 14.00% | ~503 |
@@ -37,7 +37,7 @@ Rating: 4.48 (Ranked 602)
 | Precision Is Key | 9.00% | ~323 |
 | My Little Friend | 9.00% | ~323 |
 | Rigged to Blow | 8.00% | ~287 |
-| Herr Today, Gone Tomorrow | 6.00% | ~212 |
+| Herr Today, Gone Tomorrow | 6.00% | ~213 |
 | The Long Game | 5.00% | ~180 |
 | It'll Buff Right Out | 5.00% | ~180 |
 | Don't hold your breath | 5.00% | ~180 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 602)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,590 (Ranked 155)  
+Progressed: 3,591 (Ranked 155)  
 Completed: 10 (0.28%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 10 (0.28%) (Ranked 181)
 | 2023-09-03 | 3,577 | 10 |
 | 2023-09-04 | 3,583 | 10 |
 | 2023-09-05 | 3,589 | 10 |
-| 2023-09-07 | 3,590 | 10 |
+| 2023-09-07 | 3,591 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

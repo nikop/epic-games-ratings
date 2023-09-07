@@ -506,7 +506,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3590,
+  "EOS_Progressed": 3591,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -6526,6 +6526,11 @@
       "Time": "2023-09-07T05:09:08.6269676+00:00",
       "NumProgressed": 3590,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-07T12:09:18.1881085+00:00",
+      "NumProgressed": 3591,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6537,7 +6542,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6593,7 +6598,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6617,7 +6622,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1651
+      "UsersEstimate": 1652
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6761,7 +6766,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6769,7 +6774,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6785,7 +6790,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6793,7 +6798,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6913,7 +6918,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7001,7 +7006,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -7104,13 +7109,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3541,
+      "Progressed": 3542,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3590,
+      "Progressed": 3591,
       "Completed": 10
     }
   ],
@@ -7118,8 +7123,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-05T20:57:33.2339547+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:08:41.9163719+00:00",
+  "LastChanged_Achievements": "2023-09-07T12:09:18.188108+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-07T10:58:26.9690843+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:08:41.9164895+00:00"
+  "LastUpdate_Ratings": "2023-09-07T11:58:31.1585209+00:00",
+  "LastUpdate_Achievements": "2023-09-07T12:09:18.1882081+00:00"
 }

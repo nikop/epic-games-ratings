@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 466844,
+  "EOS_Progressed": 466845,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15273,6 +15273,11 @@
       "Time": "2023-09-07T11:05:28.0637926+00:00",
       "NumProgressed": 466844,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-07T12:05:39.5422341+00:00",
+      "NumProgressed": 466845,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15372,7 +15377,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308117
+      "UsersEstimate": 308118
     },
     {
       "ID": "achievement_story_landa",
@@ -15708,7 +15713,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205411
+      "UsersEstimate": 205412
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -15716,7 +15721,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140053
+      "UsersEstimate": 140054
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -15740,7 +15745,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182069
+      "UsersEstimate": 182070
     },
     {
       "ID": "achievement_win_run_hard",
@@ -15915,21 +15920,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 10778,
+      "Progressed": 10779,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 466844,
+      "Progressed": 466845,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:05:28.0637916+00:00",
+  "LastChanged_Achievements": "2023-09-07T12:05:39.5422334+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.6951688+00:00",
-  "LastUpdate_Ratings": "2023-09-07T11:01:24.8858465+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:05:28.0639809+00:00"
+  "LastUpdate_Ratings": "2023-09-07T12:01:41.0274801+00:00",
+  "LastUpdate_Achievements": "2023-09-07T12:05:39.5424137+00:00"
 }

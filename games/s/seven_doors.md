@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Seven Doors | 67.00% | ~6 |
-| Kill the Dead Man | 44.00% | ~4 |
-| Diogenes Syndrome | 44.00% | ~4 |
+| Welcome to Seven Doors | 78.00% | ~7 |
+| Kill the Dead Man | 67.00% | ~6 |
+| Diogenes Syndrome | 56.00% | ~5 |
 | A Cautious Man Is Worth Two of His Kind | 33.00% | ~3 |
 | Thanksgiving Day | 22.00% | ~2 |
 | No Fear of the Dark | 22.00% | ~2 |

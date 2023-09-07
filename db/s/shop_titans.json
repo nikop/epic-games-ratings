@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5902,9 +5902,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135779,
+  "EOS_Progressed": 135782,
   "EOS_Completed": 146,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20247,6 +20247,11 @@
       "Time": "2023-09-07T10:05:49.4137851+00:00",
       "NumProgressed": 135779,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2023-09-07T12:06:06.8326369+00:00",
+      "NumProgressed": 135782,
+      "NumCompleted": 146
     }
   ],
   "TotalAchievements": 112,
@@ -20392,9 +20397,9 @@
       "ID": "boss01",
       "SetID": "anfd17p",
       "Name": "Bounty Hunters",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 1086
     },
     {
       "ID": "boss02",
@@ -20816,9 +20821,9 @@
       "ID": "jackslot02",
       "SetID": "anfd17p",
       "Name": "Jackpot!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 407
     },
     {
       "ID": "jackslot03",
@@ -21153,15 +21158,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135779,
+      "Progressed": 135782,
       "Completed": 146
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-07T11:00:43.4988128+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:05:54.7934819+00:00",
+  "LastChanged_Achievements": "2023-09-07T12:06:06.8326363+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-07T11:00:43.4988135+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:05:54.7937841+00:00"
+  "LastUpdate_Ratings": "2023-09-07T12:00:55.1782061+00:00",
+  "LastUpdate_Achievements": "2023-09-07T12:06:06.8328865+00:00"
 }

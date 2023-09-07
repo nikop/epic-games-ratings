@@ -262,7 +262,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1905,
+  "EOS_Progressed": 1906,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -5412,6 +5412,11 @@
       "Time": "2023-09-07T08:04:48.952181+00:00",
       "NumProgressed": 1905,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-07T12:05:25.7091528+00:00",
+      "NumProgressed": 1906,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5511,7 +5516,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "doingmypart",
@@ -5615,7 +5620,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "frostfireliberator",
@@ -5623,7 +5628,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "fullparty",
@@ -5663,7 +5668,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "heroinspection",
@@ -5735,7 +5740,7 @@
       "Name": "Master Enchanter",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "mastery",
@@ -5775,7 +5780,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "mysteriousrock",
@@ -5855,7 +5860,7 @@
       "Name": "Scroll Master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "silverwoodliberator",
@@ -5903,7 +5908,7 @@
       "Name": "The father of Dragons",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "thegameison",
@@ -5941,9 +5946,9 @@
       "ID": "trader",
       "SetID": "3nl4bcg",
       "Name": "Trader",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 152
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -5983,7 +5988,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "warmachinesarmy",
@@ -6015,14 +6020,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1905,
+      "Progressed": 1906,
       "Completed": 2
     }
   ],
@@ -6030,8 +6035,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-05T22:58:43.7340302+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:05:13.4577201+00:00",
+  "LastChanged_Achievements": "2023-09-07T12:05:25.7091522+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-07T10:59:58.4020617+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:05:13.4579197+00:00"
+  "LastUpdate_Ratings": "2023-09-07T12:00:11.9176091+00:00",
+  "LastUpdate_Achievements": "2023-09-07T12:05:25.7092495+00:00"
 }

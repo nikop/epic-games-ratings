@@ -5,8 +5,8 @@ Rating: 4.03 (Ranked 937)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,772 |
-| World Map | 79.00% | ~1,505 |
+| Victor | 93.00% | ~1,773 |
+| World Map | 79.00% | ~1,506 |
 | Temple of Eternals | 57.00% | ~1,086 |
 | Prestigious | 54.00% | ~1,029 |
 | Fellowship Power | 41.00% | ~781 |
@@ -34,18 +34,18 @@ Rating: 4.03 (Ranked 937)
 | Mastery | 11.00% | ~210 |
 | Relic Of The Past | 11.00% | ~210 |
 | The power of Awakening | 11.00% | ~210 |
-| Daily Quest Completionist | 10.00% | ~190 |
-| Four Leaf Clover | 10.00% | ~190 |
-| Frostfire Liberator | 10.00% | ~190 |
-| Moving Up The Ladder | 10.00% | ~190 |
-| Scroll Master | 10.00% | ~190 |
-| Here We Go Again | 9.00% | ~171 |
-| Master Enchanter | 9.00% | ~171 |
-| The father of Dragons | 9.00% | ~171 |
-| Trader | 9.00% | ~171 |
+| Daily Quest Completionist | 10.00% | ~191 |
+| Four Leaf Clover | 10.00% | ~191 |
+| Frostfire Liberator | 10.00% | ~191 |
+| Moving Up The Ladder | 10.00% | ~191 |
+| Scroll Master | 10.00% | ~191 |
+| Here We Go Again | 9.00% | ~172 |
+| Master Enchanter | 9.00% | ~172 |
+| The father of Dragons | 9.00% | ~172 |
 | Crystal Mining | 8.00% | ~152 |
 | Dragon Slayer | 8.00% | ~152 |
 | Enchanting skill | 8.00% | ~152 |
+| Trader | 8.00% | ~152 |
 | Blueprint Upgrades | 7.00% | ~133 |
 | Engineer Mastery | 7.00% | ~133 |
 | The Expeditioner | 7.00% | ~133 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 937)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,905 (Ranked 177)  
+Progressed: 1,906 (Ranked 177)  
 Completed: 2 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 2 (0.10%) (Ranked 217)
 | 2023-09-04 | 1,898 | 2 |
 | 2023-09-05 | 1,902 | 2 |
 | 2023-09-06 | 1,904 | 2 |
-| 2023-09-07 | 1,905 | 2 |
+| 2023-09-07 | 1,906 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 20  (Ranked 511)  
 Sum: 40 (Ranked 464)  
