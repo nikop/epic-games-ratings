@@ -4,7 +4,7 @@
   "ProductSlug": "the-crust-17f0f9",
   "Ranking_EOS_Progress": 578,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T09:57:42.1520619+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:59:16.7069722+00:00",
-  "LastUpdate_Achievements": "2023-09-07T07:07:11.8901119+00:00"
+  "LastUpdate_Ratings": "2023-09-07T07:59:48.2065706+00:00",
+  "LastUpdate_Achievements": "2023-09-07T08:08:24.2512179+00:00"
 }

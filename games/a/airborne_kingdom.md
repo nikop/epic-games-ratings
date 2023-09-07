@@ -6,7 +6,7 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,004 |
+| A Small Community | 56.00% | ~4,005 |
 | A Grove Replanted | 53.00% | ~3,790 |
 | Fields Watered | 41.00% | ~2,932 |
 | Seekers Found | 41.00% | ~2,932 |
@@ -17,24 +17,24 @@ Number of Ratings: 74  (23.09.2022)
 | Daylight Found | 26.00% | ~1,859 |
 | Irons Scorched | 25.00% | ~1,788 |
 | Islands Connected | 25.00% | ~1,788 |
-| Harp Tuned | 23.00% | ~1,644 |
-| Pyre Ignited | 23.00% | ~1,644 |
-| Travelers Returned | 23.00% | ~1,644 |
+| Harp Tuned | 23.00% | ~1,645 |
+| Pyre Ignited | 23.00% | ~1,645 |
+| Travelers Returned | 23.00% | ~1,645 |
 | Hopes Hoisted | 22.00% | ~1,573 |
 | Knowledge Shared | 20.00% | ~1,430 |
 | Relic Finder | 20.00% | ~1,430 |
-| Worthy of the Title | 19.00% | ~1,358 |
+| Worthy of the Title | 19.00% | ~1,359 |
 | A Peaceful Respite | 14.00% | ~1,001 |
 | A Learned Scholar | 13.00% | ~930 |
 | Prophecy Fulfilled | 13.00% | ~930 |
-| A Wanderer’s Guide | 11.00% | ~786 |
+| A Wanderer’s Guide | 11.00% | ~787 |
 | Knowledge Seeker | 7.00% | ~501 |
-| The Cycle Continues | 3.00% | ~214 |
+| The Cycle Continues | 3.00% | ~215 |
 | Glowing Waters | 2.00% | ~143 |
 | Sparkling Alloys | 2.00% | ~143 |
 | A True Challenge | 2.00% | ~143 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,150 (Ranked 138)  
+Progressed: 7,151 (Ranked 138)  
 Completed: 53 (0.74%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 53 (0.74%) (Ranked 131)
 | 2023-09-04 | 7,138 | 53 |
 | 2023-09-05 | 7,146 | 53 |
 | 2023-09-06 | 7,150 | 53 |
+| 2023-09-07 | 7,151 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

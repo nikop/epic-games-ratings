@@ -8,8 +8,8 @@
 | Congratulations, you are a sadist | 49.00% | ~90 |
 | Um, ok... | 49.00% | ~90 |
 | Superstar-crossed lovers | 40.00% | ~74 |
+| This won't end well... | 35.00% | ~64 |
 | A leader, you are not | 34.00% | ~63 |
-| This won't end well... | 34.00% | ~63 |
 | Comedy Killer | 33.00% | ~61 |
 | Bromance | 32.00% | ~59 |
 | Good job, nerd | 31.00% | ~57 |

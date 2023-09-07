@@ -308,7 +308,7 @@
   ],
   "EOS_Progressed": 3229,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4450,9 +4450,9 @@
       "ID": "ACH_SAVE_SURVIVORS",
       "SetID": "816efe",
       "Name": "People Person",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1841
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -4499,8 +4499,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-05T17:00:35.1616306+00:00",
-  "LastChanged_Achievements": "2023-09-07T07:04:14.940434+00:00",
+  "LastChanged_Achievements": "2023-09-07T08:04:19.3916067+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:22.9091444+00:00",
-  "LastUpdate_Ratings": "2023-09-07T07:00:52.9619881+00:00",
-  "LastUpdate_Achievements": "2023-09-07T07:04:14.9404946+00:00"
+  "LastUpdate_Ratings": "2023-09-07T08:01:53.3481462+00:00",
+  "LastUpdate_Achievements": "2023-09-07T08:04:19.3916537+00:00"
 }

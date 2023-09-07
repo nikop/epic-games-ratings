@@ -23,10 +23,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~4,408 |
 | Ruthless | 1.00% | ~4,408 |
 | Semper Paratus | 1.00% | ~4,408 |
-| Carrying | 0.90% | ~3,967 |
-| Efficient | 0.90% | ~3,967 |
-| Mount & Gun | 0.90% | ~3,967 |
-| Personal | 0.90% | ~3,967 |
+| Carrying | 0.90% | ~3,968 |
+| Efficient | 0.90% | ~3,968 |
+| Mount & Gun | 0.90% | ~3,968 |
+| Personal | 0.90% | ~3,968 |
 | Grounded | 0.80% | ~3,527 |
 | Play to Win | 0.80% | ~3,527 |
 | #1 | 0.70% | ~3,086 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | Firefight Victory | 0.60% | ~2,645 |
 | Cinematic | 0.50% | ~2,204 |
 | Thanks Station! | 0.40% | ~1,763 |
-| Knock Knock | 0.30% | ~1,322 |
-| There For You | 0.30% | ~1,322 |
+| Knock Knock | 0.30% | ~1,323 |
+| There For You | 0.30% | ~1,323 |
 | Hit and Run | 0.20% | ~882 |
 | Designated Driver | 0.10% | ~441 |
 | J.R. .50 | 0.10% | ~441 |
 | It's All in the Reflexes | 0.10% | ~441 |
 | Road Hazard | 0.10% | ~441 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,831 (Ranked 38)  
+Progressed: 440,835 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-04 | 440,256 | 2 |
 | 2023-09-05 | 440,511 | 2 |
 | 2023-09-06 | 440,755 | 2 |
-| 2023-09-07 | 440,831 | 2 |
+| 2023-09-07 | 440,835 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 378  (Ranked 223)  
 Sum: 2,954 (Ranked 168)  

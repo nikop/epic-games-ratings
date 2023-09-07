@@ -7,8 +7,8 @@ Rating: 4.67 (Ranked 259)
 | ---- | ---------- | ----- |
 | Impossible Objects | 29.00% | ~2,946 |
 | Stogie for Fogey | 25.00% | ~2,539 |
+| Martian Music | 22.00% | ~2,235 |
 | Spore Taste | 21.00% | ~2,133 |
-| Martian Music | 21.00% | ~2,133 |
 | Captain Drummer | 21.00% | ~2,133 |
 | Celebrations are in Order | 20.00% | ~2,031 |
 | Doctor Approved | 18.00% | ~1,828 |

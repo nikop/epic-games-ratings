@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,763 |
-| That's a Grand Army | 3.00% | ~11,822 |
-| That is mine! | 3.00% | ~11,822 |
-| Victorious! | 3.00% | ~11,822 |
-| Brothers in Arms | 2.00% | ~7,881 |
-| For the Glory | 2.00% | ~7,881 |
-| That's a Grand Navy | 2.00% | ~7,881 |
-| Seriously?! | 2.00% | ~7,881 |
+| Until death do us apart | 4.00% | ~15,764 |
+| That's a Grand Army | 3.00% | ~11,823 |
+| That is mine! | 3.00% | ~11,823 |
+| Victorious! | 3.00% | ~11,823 |
+| Brothers in Arms | 2.00% | ~7,882 |
+| For the Glory | 2.00% | ~7,882 |
+| That's a Grand Navy | 2.00% | ~7,882 |
+| Seriously?! | 2.00% | ~7,882 |
 | Cold War | 1.00% | ~3,941 |
 | Defender of the Faith | 1.00% | ~3,941 |
 | It's all about the money | 1.00% | ~3,941 |
@@ -26,10 +26,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.70% | ~2,759 |
 | Royal Authority | 0.70% | ~2,759 |
 | Total Control | 0.70% | ~2,759 |
-| My armies are invincible! | 0.60% | ~2,364 |
-| Agressive Expander | 0.50% | ~1,970 |
-| City of Cities | 0.50% | ~1,970 |
-| Combined Arms | 0.50% | ~1,970 |
+| My armies are invincible! | 0.60% | ~2,365 |
+| Agressive Expander | 0.50% | ~1,971 |
+| City of Cities | 0.50% | ~1,971 |
+| Combined Arms | 0.50% | ~1,971 |
 | Azur semé de lis or | 0.40% | ~1,576 |
 | Gentle Persuasion | 0.40% | ~1,576 |
 | Queen of Conquest | 0.40% | ~1,576 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394,073 (Ranked 40)  
+Progressed: 394,101 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -501,7 +501,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-04 | 391,485 | 0 |
 | 2023-09-05 | 392,723 | 0 |
 | 2023-09-06 | 393,860 | 0 |
-| 2023-09-07 | 394,073 | 0 |
+| 2023-09-07 | 394,101 | 0 |
 ## Awards
 Max (Educational): 5,958  (Ranked 58)  
 Sum: 49,025 (Ranked 26)  

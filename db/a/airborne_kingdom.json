@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7150,
+  "EOS_Progressed": 7151,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -4144,6 +4144,11 @@
       "Time": "2023-09-06T19:03:39.6280009+00:00",
       "NumProgressed": 7150,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-07T08:03:22.263145+00:00",
+      "NumProgressed": 7151,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4155,7 +4160,7 @@
       "Name": "The Cycle Continues",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "AK_DAYLIGHT_FOUND",
@@ -4195,7 +4200,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -4275,7 +4280,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -4307,7 +4312,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -4331,7 +4336,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -4347,7 +4352,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -4363,22 +4368,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7150,
+      "Progressed": 7151,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-07T07:03:30.8720545+00:00",
+  "LastChanged_Achievements": "2023-09-07T08:03:22.2631446+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.9166051+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:58:30.2720472+00:00",
-  "LastUpdate_Achievements": "2023-09-07T07:03:30.8720907+00:00"
+  "LastUpdate_Ratings": "2023-09-07T07:58:48.7911796+00:00",
+  "LastUpdate_Achievements": "2023-09-07T08:03:22.2631797+00:00"
 }

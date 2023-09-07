@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 3.00% | ~414 |
 | Oracle | 3.00% | ~414 |
 | Judaism | 3.00% | ~414 |
+| Greek Paganism | 3.00% | ~414 |
 | Naming Landmarks | 3.00% | ~414 |
 | Trade Caravan | 3.00% | ~414 |
 | The Great Mage | 3.00% | ~414 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 2.00% | ~276 |
 | Carthaginian Paganism | 2.00% | ~276 |
 | Egyptian Paganism | 2.00% | ~276 |
-| Greek Paganism | 2.00% | ~276 |
 | Roman Paganism | 2.00% | ~276 |
 | Zoroastrianism | 2.00% | ~276 |
 | Poetic Leader | 2.00% | ~276 |
@@ -76,6 +76,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 1.00% | ~138 |
 | Patrons | 1.00% | ~138 |
 | Sages | 1.00% | ~138 |
+| Hittite Iron | 1.00% | ~138 |
 | Acropolis | 1.00% | ~138 |
 | Temple of Solomon | 1.00% | ~138 |
 | Mausoleum | 1.00% | ~138 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.90% | ~124 |
 | Statesmen | 0.90% | ~124 |
 | Traders | 0.90% | ~124 |
-| Hittite Iron | 0.90% | ~124 |
 | Hagia Sophia | 0.90% | ~124 |
 | Economic Reform | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.80% | ~110 |
 | Bad Heir Day | 0.70% | ~97 |
 | Devout | 0.70% | ~97 |
+| Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
 | Landowners | 0.70% | ~97 |
 | Adur Burzen-Mihr | 0.70% | ~97 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Old | 0.60% | ~83 |
-| Strong Difficulty | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
 | Learn to Play 4 | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Ancient | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
+| The Eternal Treaty | 0.40% | ~55 |
 | Persia | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
@@ -151,7 +152,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
 | Event Level High | 0.30% | ~41 |
-| The Eternal Treaty | 0.30% | ~41 |
 | Run, Pheidippides, Run! | 0.30% | ~41 |
 | Learn to Play 5 | 0.30% | ~41 |
 | Hatti | 0.30% | ~41 |
@@ -181,6 +181,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
 | Pantheon in Roma | 0.20% | ~28 |
+| Word of God | 0.20% | ~28 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
 | Musaeum in Alexandria | 0.10% | ~14 |
@@ -262,7 +263,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Hotseat Game | 0.10% | ~14 |
 | Play a LAN Game | 0.10% | ~14 |
 | Roman Papacy | 0.10% | ~14 |
-| Word of God | 0.10% | ~14 |
 | Great Ziggurat in Ur | 0.10% | ~14 |
 | No Characters | 0.10% | ~14 |
 | One City Challenge | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,799 (Ranked 121)  
+Progressed: 13,800 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -443,7 +443,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-04 | 13,779 | 5 |
 | 2023-09-05 | 13,790 | 5 |
 | 2023-09-06 | 13,796 | 5 |
-| 2023-09-07 | 13,799 | 5 |
+| 2023-09-07 | 13,800 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

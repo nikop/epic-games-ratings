@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106706,
+  "EOS_Progressed": 106707,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 978,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9957,6 +9957,11 @@
       "Time": "2023-09-07T07:05:50.6524078+00:00",
       "NumProgressed": 106706,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-07T08:06:19.280559+00:00",
+      "NumProgressed": 106707,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -9992,7 +9997,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26676
+      "UsersEstimate": 26677
     },
     {
       "ID": "EAwards_12",
@@ -10040,7 +10045,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38414
+      "UsersEstimate": 38415
     },
     {
       "ID": "EAwards_18",
@@ -10200,7 +10205,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 8536
+      "UsersEstimate": 8537
     },
     {
       "ID": "EAwards_36",
@@ -10328,7 +10333,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8536
+      "UsersEstimate": 8537
     },
     {
       "ID": "EAwards_7",
@@ -10359,7 +10364,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 106706,
+      "Progressed": 106707,
       "Completed": 40
     }
   ],
@@ -10367,8 +10372,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-01T15:00:01.2211131+00:00",
-  "LastChanged_Achievements": "2023-09-07T07:05:50.6524075+00:00",
+  "LastChanged_Achievements": "2023-09-07T08:06:19.2805586+00:00",
   "LastUpdate_AppInfo": "2023-08-31T22:57:08.1007702+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:57:58.1335061+00:00",
-  "LastUpdate_Achievements": "2023-09-07T07:05:50.6524888+00:00"
+  "LastUpdate_Ratings": "2023-09-07T07:58:06.8038368+00:00",
+  "LastUpdate_Achievements": "2023-09-07T08:06:19.2806404+00:00"
 }

@@ -1677,9 +1677,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13799,
+  "EOS_Progressed": 13800,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11072,6 +11072,11 @@
       "Time": "2023-09-07T07:05:24.7066975+00:00",
       "NumProgressed": 13799,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-07T08:05:45.9772996+00:00",
+      "NumProgressed": 13800,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11873,9 +11878,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -12017,9 +12022,9 @@
       "ID": "ACHIEVEMENT_FIRST_PEACE_TREATY",
       "SetID": "9201eeb",
       "Name": "The Eternal Treaty",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_FIVE_ROUTS",
@@ -12393,9 +12398,9 @@
       "ID": "ACHIEVEMENT_HITTITE_IRON",
       "SetID": "9201eeb",
       "Name": "Hittite Iron",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -12913,9 +12918,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 414
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -13105,9 +13110,9 @@
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
       "SetID": "9201eeb",
       "Name": "Word of God",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_TRADE_CARAVAN",
@@ -13450,21 +13455,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13799,
+      "Progressed": 13800,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13799,
+      "Progressed": 13800,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-05T13:03:36.9380214+00:00",
-  "LastChanged_Achievements": "2023-09-07T07:05:24.706697+00:00",
+  "LastChanged_Achievements": "2023-09-07T08:05:45.9772989+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:59:06.6177199+00:00",
-  "LastUpdate_Achievements": "2023-09-07T07:05:24.7074683+00:00"
+  "LastUpdate_Ratings": "2023-09-07T07:59:36.3567298+00:00",
+  "LastUpdate_Achievements": "2023-09-07T08:05:45.9780789+00:00"
 }

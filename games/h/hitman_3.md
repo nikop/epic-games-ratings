@@ -6,30 +6,30 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~612,012 |
-| Death From Above | 46.00% | ~612,012 |
-| Master of the Household | 38.00% | ~505,575 |
-| Death of the Party | 36.00% | ~478,966 |
-| NEXUS-47 | 33.00% | ~439,052 |
-| The Last Tango | 31.00% | ~412,443 |
-| Nightmare Fuel | 30.00% | ~399,138 |
-| The Result of Previous Training | 28.00% | ~372,529 |
-| Tools of the Trade | 28.00% | ~372,529 |
-| Cleared for Field Duty | 27.00% | ~359,224 |
-| Seizing the Opportunity | 26.00% | ~345,920 |
-| Bullet Train | 21.00% | ~279,397 |
-| Stylish Assassin | 20.00% | ~266,092 |
+| Unseen Assassin | 46.00% | ~612,015 |
+| Death From Above | 46.00% | ~612,015 |
+| Master of the Household | 38.00% | ~505,577 |
+| Death of the Party | 36.00% | ~478,968 |
+| NEXUS-47 | 33.00% | ~439,054 |
+| The Last Tango | 31.00% | ~412,445 |
+| Nightmare Fuel | 30.00% | ~399,140 |
+| The Result of Previous Training | 28.00% | ~372,531 |
+| Tools of the Trade | 28.00% | ~372,531 |
+| Cleared for Field Duty | 27.00% | ~359,226 |
+| Seizing the Opportunity | 26.00% | ~345,921 |
+| Bullet Train | 21.00% | ~279,398 |
+| Stylish Assassin | 20.00% | ~266,093 |
 | Silent Assassin | 14.00% | ~186,265 |
-| Rise Up | 13.00% | ~172,960 |
+| Rise Up | 13.00% | ~172,961 |
 | Evil Wine Club | 11.00% | ~146,351 |
-| Console Cowboy | 10.00% | ~133,046 |
-| Last Stop | 10.00% | ~133,046 |
-| A New Profile | 9.00% | ~119,741 |
-| Full House | 9.00% | ~119,741 |
+| Console Cowboy | 10.00% | ~133,047 |
+| Last Stop | 10.00% | ~133,047 |
+| A New Profile | 9.00% | ~119,742 |
+| Full House | 9.00% | ~119,742 |
 | Dune Raider | 8.00% | ~106,437 |
 | No Stone Unturned | 8.00% | ~106,437 |
 | Train Surfing | 8.00% | ~106,437 |
-| Icebreaker | 7.00% | ~93,132 |
+| Icebreaker | 7.00% | ~93,133 |
 | Family Feud | 6.00% | ~79,828 |
 | Rich Harvest | 6.00% | ~79,828 |
 | Count Down From 47 | 6.00% | ~79,828 |
@@ -38,10 +38,10 @@ Number of Ratings: 21,082  (23.09.2022)
 | Stair Master | 5.00% | ~66,523 |
 | Followed the Trails | 5.00% | ~66,523 |
 | Last Call | 5.00% | ~66,523 |
-| Upstairs, Downstairs | 4.00% | ~53,218 |
-| The Great Outdoors | 4.00% | ~53,218 |
-| Partied Out | 4.00% | ~53,218 |
-| Surveillance Master | 4.00% | ~53,218 |
+| Upstairs, Downstairs | 4.00% | ~53,219 |
+| The Great Outdoors | 4.00% | ~53,219 |
+| Partied Out | 4.00% | ~53,219 |
+| Surveillance Master | 4.00% | ~53,219 |
 | Training Escalated | 3.00% | ~39,914 |
 | Keep Your Eyes Peeled | 3.00% | ~39,914 |
 | Warehouse Veteran | 3.00% | ~39,914 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,305 |
 | The Creative Assassin | 0.70% | ~9,313 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,330,461 (Ranked 9)  
+Progressed: 1,330,467 (Ranked 9)  
 Completed: 2,137 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 2,137 (0.16%) (Ranked 200)
 | 2023-09-04 | 1,329,680 | 2,137 |
 | 2023-09-05 | 1,330,023 | 2,137 |
 | 2023-09-06 | 1,330,390 | 2,137 |
-| 2023-09-07 | 1,330,461 | 2,137 |
+| 2023-09-07 | 1,330,467 | 2,137 |
 ## Awards
 Max (Diverse Characters): 9,935  (Ranked 38)  
 Sum: 70,579 (Ranked 21)  

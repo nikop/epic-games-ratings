@@ -4,7 +4,7 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
@@ -671,9 +671,9 @@
       "ID": "ach_complete_10",
       "SetID": "5e260i9",
       "Name": "Clever thinking!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ach_complete_30",
@@ -719,9 +719,9 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 60,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_minigames_10",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-07T07:06:34.7242295+00:00",
+  "LastChanged_Achievements": "2023-09-07T08:07:15.5182925+00:00",
   "LastUpdate_AppInfo": "2023-08-31T23:56:56.6735611+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:57:43.930603+00:00",
-  "LastUpdate_Achievements": "2023-09-07T07:06:34.7242407+00:00"
+  "LastUpdate_Ratings": "2023-09-07T07:57:42.376927+00:00",
+  "LastUpdate_Achievements": "2023-09-07T08:07:15.5183053+00:00"
 }

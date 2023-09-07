@@ -5,19 +5,19 @@ Rating: 4.27 (Ranked 822)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,294 |
-| Copacetic Coordination | 16.00% | ~54,711 |
+| Corner Clout | 46.00% | ~157,296 |
+| Copacetic Coordination | 16.00% | ~54,712 |
 | Fronting the Money | 15.00% | ~51,292 |
-| The Dawn of Automation | 14.00% | ~47,872 |
-| Extraordinary Logistics | 14.00% | ~47,872 |
+| The Dawn of Automation | 14.00% | ~47,873 |
+| Extraordinary Logistics | 14.00% | ~47,873 |
 | Dirty Money | 13.00% | ~44,453 |
 | Family First | 13.00% | ~44,453 |
-| Cleaning House | 12.00% | ~41,033 |
-| Room in the Back | 12.00% | ~41,033 |
+| Cleaning House | 12.00% | ~41,034 |
+| Room in the Back | 12.00% | ~41,034 |
 | Beating the Heat | 11.00% | ~37,614 |
 | Booze Baron | 11.00% | ~37,614 |
-| Friends on the Force | 10.00% | ~34,194 |
-| Neighborhood Watch | 10.00% | ~34,194 |
+| Friends on the Force | 10.00% | ~34,195 |
+| Neighborhood Watch | 10.00% | ~34,195 |
 | Core Corps | 8.00% | ~27,356 |
 | Sizeable Stash | 8.00% | ~27,356 |
 | Street Fighter | 7.00% | ~23,936 |
@@ -59,8 +59,8 @@ Rating: 4.27 (Ranked 822)
 | Full House | 1.00% | ~3,419 |
 | The Rubber Meets the Road | 1.00% | ~3,419 |
 | Cat’s Meow Clubs | 1.00% | ~3,419 |
-| Determined Deliveries | 0.90% | ~3,077 |
-| Stepping It Up | 0.90% | ~3,077 |
+| Determined Deliveries | 0.90% | ~3,078 |
+| Stepping It Up | 0.90% | ~3,078 |
 | Boots in the Ground | 0.80% | ~2,736 |
 | Getting Fancy | 0.80% | ~2,736 |
 | Crossing Over | 0.80% | ~2,736 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 822)
 | High Pillow | 0.10% | ~342 |
 | Station Master | 0.10% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341,944 (Ranked 42)  
+Progressed: 341,948 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 7 (0.00%) (Ranked 271)
 | 2023-09-04 | 341,663 | 7 |
 | 2023-09-05 | 341,793 | 7 |
 | 2023-09-06 | 341,921 | 7 |
-| 2023-09-07 | 341,944 | 7 |
+| 2023-09-07 | 341,948 | 7 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 131 (Ranked 405)  

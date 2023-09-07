@@ -33,8 +33,8 @@
 | Fight for life | 59.00% | ~188 |
 | Little hacker | 58.00% | ~184 |
 | Intriguing candies | 58.00% | ~184 |
+| Extreme neuropower! | 56.00% | ~178 |
 | Legal courier | 55.00% | ~175 |
-| Extreme neuropower! | 55.00% | ~175 |
 | Escaped from a big trouble | 52.00% | ~165 |
 | Now you are worthy | 50.00% | ~159 |
 | Fight is life | 47.00% | ~149 |
@@ -53,14 +53,14 @@
 | Seashell hunter | 37.00% | ~118 |
 | Gang wrangler | 36.00% | ~114 |
 | Your own way | 36.00% | ~114 |
-| Problems of cyborgs | 34.00% | ~108 |
+| Problems of cyborgs | 35.00% | ~111 |
+| Undercover robot | 35.00% | ~111 |
 | Anyone can resist | 34.00% | ~108 |
-| Undercover robot | 34.00% | ~108 |
 | Absolute Champion! | 33.00% | ~105 |
+| Trap disarmed | 32.00% | ~102 |
 | Not little hacker | 32.00% | ~102 |
 | The last bell ring | 32.00% | ~102 |
 | Careerist | 32.00% | ~102 |
-| Trap disarmed | 31.00% | ~99 |
 | Another world | 31.00% | ~99 |
 | The lonesome road | 31.00% | ~99 |
 | Keep nature safe | 31.00% | ~99 |

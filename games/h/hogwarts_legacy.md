@@ -5,23 +5,23 @@ Rating: 4.77 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,362 |
-| First Class Student | 12.00% | ~35,453 |
-| Troll with the Punches | 12.00% | ~35,453 |
-| A Keen Sense of Spell | 11.00% | ~32,498 |
-| That's a Keeper | 11.00% | ~32,498 |
-| Grappling with a Graphorn | 10.00% | ~29,544 |
-| The One Who Mastered Memories | 10.00% | ~29,544 |
-| The Hallowed Hero | 10.00% | ~29,544 |
-| The Defender of Dragons | 10.00% | ~29,544 |
-| Loom for Improvement | 10.00% | ~29,544 |
-| A Talent for Spending | 10.00% | ~29,544 |
-| Coasting Along | 10.00% | ~29,544 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,363 |
+| First Class Student | 12.00% | ~35,454 |
+| Troll with the Punches | 12.00% | ~35,454 |
+| A Keen Sense of Spell | 11.00% | ~32,499 |
+| That's a Keeper | 11.00% | ~32,499 |
+| Grappling with a Graphorn | 10.00% | ~29,545 |
+| The One Who Mastered Memories | 10.00% | ~29,545 |
+| The Hallowed Hero | 10.00% | ~29,545 |
+| The Defender of Dragons | 10.00% | ~29,545 |
+| Loom for Improvement | 10.00% | ~29,545 |
+| A Talent for Spending | 10.00% | ~29,545 |
+| Coasting Along | 10.00% | ~29,545 |
 | The Hero of Hogwarts | 9.00% | ~26,590 |
 | Challenge Accepted | 9.00% | ~26,590 |
-| Followed the Butterflies | 8.00% | ~23,635 |
-| The Spell Master | 8.00% | ~23,635 |
-| Rising From the Ashes | 8.00% | ~23,635 |
+| Followed the Butterflies | 8.00% | ~23,636 |
+| The Spell Master | 8.00% | ~23,636 |
+| Rising From the Ashes | 8.00% | ~23,636 |
 | The Avenging Gazelle | 7.00% | ~20,681 |
 | Beast Friends | 7.00% | ~20,681 |
 | A Sallow Grave | 7.00% | ~20,681 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,773 |
 | Collector's Edition | 0.30% | ~886 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,440 (Ranked 43)  
+Progressed: 295,448 (Ranked 43)  
 Completed: 465 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 465 (0.16%) (Ranked 200)
 | 2023-09-04 | 294,412 | 464 |
 | 2023-09-05 | 294,883 | 464 |
 | 2023-09-06 | 295,304 | 465 |
-| 2023-09-07 | 295,440 | 465 |
+| 2023-09-07 | 295,448 | 465 |
 ## Awards
 Max (Character Customization): 22,280  (Ranked 17)  
 Sum: 42,387 (Ranked 30)  

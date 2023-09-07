@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Race | 27.00% | ~48 |
-| First Love | 26.00% | ~47 |
-| Rivals to the End | 26.00% | ~47 |
-| Hear That Roar! | 24.00% | ~43 |
-| Eat My Dust | 18.00% | ~32 |
-| We're Going to Need a Bigger Garage | 16.00% | ~29 |
-| I'm Here Too! | 15.00% | ~27 |
-| Bitter Rivalry | 11.00% | ~20 |
+| First Love | 27.00% | ~49 |
+| Clean Race | 27.00% | ~49 |
+| Rivals to the End | 26.00% | ~48 |
+| Hear That Roar! | 25.00% | ~46 |
+| Eat My Dust | 18.00% | ~33 |
+| We're Going to Need a Bigger Garage | 17.00% | ~31 |
+| I'm Here Too! | 14.00% | ~26 |
+| Bitter Rivalry | 10.00% | ~18 |
+| Restored and Ready | 9.00% | ~16 |
 | I Want One Too! | 9.00% | ~16 |
-| Restored and Ready | 8.00% | ~14 |
-| Quick Pit Stop | 8.00% | ~14 |
+| Quick Pit Stop | 9.00% | ~16 |
 | Go-Faster Stripes | 7.00% | ~13 |
 | Legendary!!! | 7.00% | ~13 |
-| Champagne Spray | 6.00% | ~11 |
 | Is It the Right Size? | 5.00% | ~9 |
+| Champagne Spray | 5.00% | ~9 |
 | Evangelist | 4.00% | ~7 |
 | Stamina Star | 3.00% | ~5 |
 | Iconic! | 3.00% | ~5 |
@@ -41,12 +41,12 @@
 | In Search of Perfection | 1.00% | ~2 |
 | There's a Great View up Here | 1.00% | ~2 |
 | Absolute Champion | 1.00% | ~2 |
-| Maximum Endurance | 0.60% | ~1 |
-| Beyond the Limiter | 0.60% | ~1 |
-| I Make the Rules! | 0.60% | ~1 |
-| Globe-trotter | 0.60% | ~1 |
-| All My Own Toys | 0.60% | ~1 |
-| Endless | 0.60% | ~1 |
+| Maximum Endurance | 0.50% | ~1 |
+| Beyond the Limiter | 0.50% | ~1 |
+| I Make the Rules! | 0.50% | ~1 |
+| Globe-trotter | 0.50% | ~1 |
+| All My Own Toys | 0.50% | ~1 |
+| Endless | 0.50% | ~1 |
 | Dream Chaser | 0.00% | ~0 |
 | Back in Blighty | 0.00% | ~0 |
 | Breathtaking Views | 0.00% | ~0 |
@@ -54,10 +54,10 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179 (Ranked 310)  
+Progressed: 183 (Ranked 309)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-06 | 141 | 0 |
-| 2023-09-07 | 179 | 0 |
+| 2023-09-07 | 183 | 0 |
