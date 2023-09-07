@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6725,
+  "EOS_Progressed": 6726,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -4883,6 +4883,11 @@
       "Time": "2023-09-07T19:10:05.4131508+00:00",
       "NumProgressed": 6725,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-07T20:09:26.7676209+00:00",
+      "NumProgressed": 6726,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -4998,7 +5003,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -5006,7 +5011,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -5030,7 +5035,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -5070,7 +5075,7 @@
       "Name": "Millenial",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -5102,7 +5107,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -5158,7 +5163,7 @@
       "Name": "Saboteur",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ISONZO_ACH_THE_DEVILS_PAINTBRUSH",
@@ -5190,7 +5195,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -5246,14 +5251,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6725,
+      "Progressed": 6726,
       "Completed": 8
     }
   ],
@@ -5261,8 +5266,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-02T12:59:05.1112111+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:10:05.4131502+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:09:26.7676203+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:31.6871917+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:00:50.6378903+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:10:05.4132185+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:01:01.9720414+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:09:26.7677257+00:00"
 }

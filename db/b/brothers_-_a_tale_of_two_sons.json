@@ -2,12 +2,12 @@
   "ID": "615659ff36244d258ef6c6a827e32c5d",
   "Name": "Brothers - A Tale of Two Sons",
   "ProductSlug": "brothers-a-tale-of-two-sons",
-  "Ranking_Rating": 627,
+  "Ranking_Rating": 626,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-17T16:00:00+00:00",
@@ -467,6 +467,6 @@
   "FirstSeen": "2022-07-22T20:27:20.1977225+00:00",
   "LastChanged": "2023-09-06T02:15:22.5942602+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:22.0651845+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:03:06.2509867+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:11:03.0346425+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:03:16.8189185+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:11:10.8568795+00:00"
 }

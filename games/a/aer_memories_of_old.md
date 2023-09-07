@@ -1,7 +1,7 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 640)  
+Rating: 4.45 (Ranked 639)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 170  (23.09.2022)
 | People's Haven | 18.00% | ~3,526 |
 | Cartographer | 17.00% | ~3,330 |
 | Antlers of Stone | 15.00% | ~2,938 |
-| Knowledge for Power | 14.00% | ~2,742 |
+| Knowledge for Power | 14.00% | ~2,743 |
 | Gaze into the abyss | 13.00% | ~2,547 |
 | Mausoleum of Ice | 13.00% | ~2,547 |
 | In the belly of the beast | 12.00% | ~2,351 |
@@ -24,10 +24,10 @@ Number of Ratings: 170  (23.09.2022)
 | Tails of Stone | 6.00% | ~1,175 |
 | Baa from the past | 6.00% | ~1,175 |
 | Written in stone | 6.00% | ~1,175 |
-| Ripples on the surface | 5.00% | ~979 |
-| Hide and Seek | 5.00% | ~979 |
+| Ripples on the surface | 5.00% | ~980 |
+| Hide and Seek | 5.00% | ~980 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,589 (Ranked 109)  
+Progressed: 19,590 (Ranked 109)  
 Completed: 388 (1.98%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 388 (1.98%) (Ranked 94)
 | 2023-09-04 | 19,433 | 386 |
 | 2023-09-05 | 19,479 | 386 |
 | 2023-09-06 | 19,537 | 387 |
-| 2023-09-07 | 19,589 | 388 |
+| 2023-09-07 | 19,590 | 388 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

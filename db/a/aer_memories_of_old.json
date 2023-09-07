@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 640,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 109,
@@ -392,7 +392,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19589,
+  "EOS_Progressed": 19590,
   "EOS_Completed": 388,
   "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 6,
@@ -15377,6 +15377,11 @@
       "Time": "2023-09-07T19:07:45.8300691+00:00",
       "NumProgressed": 19589,
       "NumCompleted": 388
+    },
+    {
+      "Time": "2023-09-07T20:07:38.4685939+00:00",
+      "NumProgressed": 19590,
+      "NumCompleted": 388
     }
   ],
   "TotalAchievements": 20,
@@ -15396,7 +15401,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "EAST_FINISHED",
@@ -15404,7 +15409,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -15460,7 +15465,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -15547,15 +15552,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19589,
+      "Progressed": 19590,
       "Completed": 388
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:07:45.8300685+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:07:38.4685935+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:05:59.2850367+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:07:45.8301785+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:06:13.1776166+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:07:38.4687737+00:00"
 }

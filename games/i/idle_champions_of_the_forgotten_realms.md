@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.20% | ~456 |
 | Exploring Port Nyanzaru | 0.20% | ~456 |
 | The Contagious Curse | 0.20% | ~456 |
+| Escort to Waterdeep | 0.20% | ~456 |
 | Friendly Imps | 0.20% | ~456 |
 | Pure Energy | 0.20% | ~456 |
 | Legends and Lore | 0.20% | ~388 |
@@ -395,7 +396,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~194 |
 | Prisoners of Lolth | 0.10% | ~194 |
 | Prisoners of Unknown Choices | 0.10% | ~194 |
-| Escort to Waterdeep | 0.10% | ~228 |
 | The Giant's Bane Tavern | 0.10% | ~194 |
 | Rime Bandits | 0.10% | ~194 |
 | Giant-Size Adventure | 0.10% | ~194 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,793 (Ranked 54)  
+Progressed: 227,800 (Ranked 54)  
 Completed: 2,258 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -667,7 +667,7 @@ Completed: 2,258 (0.99%) (Ranked 124)
 | 2023-09-04 | 227,081 | 2,250 |
 | 2023-09-05 | 227,381 | 2,254 |
 | 2023-09-06 | 227,606 | 2,257 |
-| 2023-09-07 | 227,793 | 2,258 |
+| 2023-09-07 | 227,800 | 2,258 |
 ## Awards
 Max (Diverse Characters): 5,238  (Ranked 67)  
 Sum: 31,445 (Ranked 38)  

@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 499,
+  "EOS_Progressed": 500,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 17.64,
+  "EOS_Completed_Percentage": 17.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2408,6 +2408,11 @@
       "Time": "2023-09-07T18:06:31.9221094+00:00",
       "NumProgressed": 499,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-09-07T20:07:39.0880184+00:00",
+      "NumProgressed": 500,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -2419,7 +2424,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "LEVEL_002",
@@ -2427,7 +2432,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "LEVEL_003",
@@ -2435,7 +2440,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "LEVEL_004",
@@ -2443,7 +2448,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "LEVEL_005",
@@ -2594,7 +2599,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 499,
+      "Progressed": 500,
       "Completed": 88
     }
   ],
@@ -2602,8 +2607,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:07:46.7182008+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:07:39.0880179+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:24.6257817+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:01:25.9050571+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:07:46.7182346+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:01:31.0762821+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:07:39.0880686+00:00"
 }

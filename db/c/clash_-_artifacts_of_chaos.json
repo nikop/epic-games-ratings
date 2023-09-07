@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.95,
+  "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -273,6 +273,11 @@
       "Time": "2023-08-28T21:22:28.8292024+00:00",
       "NumProgressed": 105,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T20:09:00.5756302+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -282,7 +287,7 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
       "UsersEstimate": 29
     },
@@ -298,9 +303,9 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement12",
@@ -330,9 +335,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement16",
@@ -346,7 +351,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 35,
       "UsersEstimate": 72
     },
@@ -378,9 +383,9 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement21",
@@ -420,7 +425,7 @@
       "Name": "Total Eclipse",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement7",
@@ -434,7 +439,7 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
       "UsersEstimate": 29
     },
@@ -451,7 +456,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 1
     }
   ],
@@ -459,8 +464,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:09:30.8383592+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:09:00.5756296+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:50.9303056+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:57:48.7281509+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:09:30.8383808+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:57:58.4329181+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:09:00.5756557+00:00"
 }

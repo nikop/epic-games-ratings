@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Hidden Dragon | 0.00% | ~0 |
 | Fighter in the Pond | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,367 (Ranked 20)  
+Progressed: 713,377 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,14 +207,14 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
-| 2023-09-07 | 713,367 | 12,887 |
+| 2023-09-07 | 713,377 | 12,887 |
 ## Awards
-Max (Great Boss Battles): 6,440  (Ranked 53)  
-Sum: 11,087 (Ranked 80)  
+Max (Great Boss Battles): 6,446  (Ranked 53)  
+Sum: 11,093 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,440 |
+| This game has Great Boss Battles | 6,446 |
 | This game has Diverse Characters | 582 |
 | This game has Challenging Combat | 547 |
 | This game has Quickly Understood Controls | 544 |
@@ -462,4 +462,4 @@ Diff (max vs sum): -27
 | 2023-09-04 | 4.82 | - | 6,430 | 11,055 |
 | 2023-09-05 | 4.82 | - | 6,437 | 11,070 |
 | 2023-09-06 | 4.82 | - | 6,440 | 11,080 |
-| 2023-09-07 | 4.82 | - | 6,440 | 11,087 |
+| 2023-09-07 | 4.82 | - | 6,446 | 11,093 |

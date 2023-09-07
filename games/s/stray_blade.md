@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~50 |
-| Tinkerer | 64.00% | ~37 |
-| Welcome to the Club | 34.00% | ~20 |
-| Apprentice | 28.00% | ~16 |
-| A new World ahead | 26.00% | ~15 |
+| Self-Defence | 86.00% | ~51 |
+| Tinkerer | 64.00% | ~38 |
+| Welcome to the Club | 36.00% | ~21 |
+| Apprentice | 27.00% | ~16 |
+| A new World ahead | 25.00% | ~15 |
 | Can't touch this | 22.00% | ~13 |
 | Don't Cry Wolf | 19.00% | ~11 |
-| Freezing Cold | 16.00% | ~9 |
-| The Power of the Mountains | 16.00% | ~9 |
+| Freezing Cold | 15.00% | ~9 |
+| The Power of the Mountains | 15.00% | ~9 |
 | Searing Heat | 14.00% | ~8 |
 | The Golden Flash | 14.00% | ~8 |
 | Changing the World | 14.00% | ~8 |
@@ -20,8 +20,8 @@
 | Expert | 12.00% | ~7 |
 | Through Dangers Untold | 10.00% | ~6 |
 | Locked and Loaded | 10.00% | ~6 |
-| Craftsmen | 9.00% | ~5 |
-| Witch | 9.00% | ~5 |
+| Craftsmen | 8.00% | ~5 |
+| Witch | 8.00% | ~5 |
 | Mirror, Mirror on the Wall | 7.00% | ~4 |
 | Defeat Uskol | 7.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~4 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 379)  
+Progressed: 59 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-02 | 56 | 0 |
 | 2023-09-05 | 57 | 0 |
 | 2023-09-06 | 58 | 0 |
+| 2023-09-07 | 59 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

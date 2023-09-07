@@ -589,7 +589,7 @@
   ],
   "EOS_Progressed": 1209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3827,9 +3827,9 @@
       "ID": "MF_Ach_HarderTheyFall",
       "SetID": "9b9n573",
       "Name": "The Harder They Fall",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -3939,8 +3939,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-07T05:00:40.4405474+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:08:45.3667764+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:08:26.3005716+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:16.3905478+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:02:57.9906622+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:08:45.366817+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:03:09.7968866+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:08:26.3006305+00:00"
 }

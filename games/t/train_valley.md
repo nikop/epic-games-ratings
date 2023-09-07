@@ -1,15 +1,15 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.46 (Ranked 627)  
+Rating: 4.46 (Ranked 626)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting started | 78.00% | ~354 |
 | Close call! | 73.00% | ~331 |
-| Builder | 53.00% | ~241 |
-| Pangs of conscience | 47.00% | ~213 |
+| Builder | 54.00% | ~245 |
+| Pangs of conscience | 48.00% | ~218 |
 | Living it large! | 45.00% | ~204 |
 | Collector | 43.00% | ~195 |
 | Need to think | 42.00% | ~191 |

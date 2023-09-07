@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2624,
+  "EOS_Progressed": 2626,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3043,6 +3043,11 @@
       "Time": "2023-09-07T10:04:42.5460786+00:00",
       "NumProgressed": 2624,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-07T20:07:44.549975+00:00",
+      "NumProgressed": 2626,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3070,7 +3075,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -3110,7 +3115,7 @@
       "Name": "Snow-covered ruins",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "STARTING_DUO",
@@ -3126,7 +3131,7 @@
       "Name": "Stronger together",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "THE_END",
@@ -3142,22 +3147,22 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
       "SetID": "1a29mp6",
       "Name": "Unexpected encounter",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 472
+      "UsersEstimate": 499
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2624,
+      "Progressed": 2626,
       "Completed": 6
     }
   ],
@@ -3165,8 +3170,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:07:53.1824047+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:07:44.5499744+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.6314388+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:04:23.0239222+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:07:53.1824295+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:04:36.9630096+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:07:44.5500432+00:00"
 }

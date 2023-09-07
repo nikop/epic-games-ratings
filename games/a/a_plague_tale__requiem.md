@@ -9,8 +9,8 @@ Rating: 4.73 (Ranked 164)
 | Newcomers | 79.00% | ~10,222 |
 | A Burden of Blood | 74.00% | ~9,575 |
 | Protector's Duty | 71.00% | ~9,187 |
+| In our Wake | 69.00% | ~8,928 |
 | Alchemist | 69.00% | ~8,928 |
-| In our Wake | 68.00% | ~8,799 |
 | Leaving all Behind | 65.00% | ~8,410 |
 | Felons | 63.00% | ~8,152 |
 | A Sea of Promises | 61.00% | ~7,893 |
@@ -30,8 +30,8 @@ Rating: 4.73 (Ranked 164)
 | Perfect throw | 22.00% | ~2,847 |
 | Knights! | 21.00% | ~2,717 |
 | Handful of pockets | 13.00% | ~1,682 |
+| Not a toy anymore | 12.00% | ~1,553 |
 | Pocket laboratory | 12.00% | ~1,553 |
-| Not a toy anymore | 11.00% | ~1,423 |
 | Herbalist | 8.00% | ~1,035 |
 | Fighter | 8.00% | ~1,035 |
 | Ornithologist | 5.00% | ~647 |

@@ -2,12 +2,12 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 627,
+  "Ranking_Rating": 626,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -125,7 +125,7 @@
   "Tags": [],
   "EOS_Progressed": 454,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1009,9 +1009,9 @@
       "ID": "05_pangs",
       "SetID": "chb1m60",
       "Name": "Pangs of conscience",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 218
     },
     {
       "ID": "06_living",
@@ -1105,9 +1105,9 @@
       "ID": "17_builder",
       "SetID": "chb1m60",
       "Name": "Builder",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 245
     },
     {
       "ID": "18_foreman",
@@ -1297,8 +1297,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:06:52.0333272+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:06:57.2007266+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:55.1924255+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:00:18.95459+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:06:52.0333838+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:00:32.812046+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:06:57.2007858+00:00"
 }

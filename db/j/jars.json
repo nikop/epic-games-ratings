@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -295,9 +295,9 @@
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_FIND_SECRET",
@@ -384,8 +384,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:07:53.1821791+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:07:44.458682+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:37.6704543+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:01:47.7623176+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:07:53.1821969+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:01:52.6406535+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:07:44.4587071+00:00"
 }

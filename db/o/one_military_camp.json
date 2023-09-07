@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -681,6 +681,11 @@
       "Time": "2023-09-05T14:04:53.4485457+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T20:08:14.1584559+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -779,9 +784,9 @@
       "ID": "ACHIEVEMENT_ID_19",
       "SetID": "c504de6",
       "Name": "Health Care",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_ID_2",
@@ -843,9 +848,9 @@
       "ID": "ACHIEVEMENT_ID_26",
       "SetID": "c504de6",
       "Name": "Human Resources",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ID_27",
@@ -891,9 +896,9 @@
       "ID": "ACHIEVEMENT_ID_31",
       "SetID": "c504de6",
       "Name": "Good payer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_ID_32",
@@ -901,7 +906,7 @@
       "Name": "Capitalism",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1044,14 +1049,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:08:31.0560725+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:08:14.1584552+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:18.2667902+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:02:58.1627689+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:08:31.0561169+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:03:12.7606596+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:08:14.1585258+00:00"
 }

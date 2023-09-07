@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1259,
+  "EOS_Progressed": 1260,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4476,6 +4476,11 @@
       "Time": "2023-09-07T18:09:38.7935706+00:00",
       "NumProgressed": 1259,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T20:11:16.1514729+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4591,7 +4596,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4733,9 +4738,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 88
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -4743,7 +4748,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4790,14 +4795,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1259,
+      "Progressed": 1260,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:11:10.0694812+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:11:16.1514722+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:58:29.0184256+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:11:10.0695396+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:58:42.0502304+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:11:16.15157+00:00"
 }

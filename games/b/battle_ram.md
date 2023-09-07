@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 93.00% | ~204 |
-| Ram Corporal | 86.00% | ~188 |
+| START | 93.00% | ~205 |
+| Ram Corporal | 86.00% | ~189 |
 | Ram Sergeant | 66.00% | ~145 |
-| Ram Staff Sergeant | 65.00% | ~142 |
-| Ram First Sergeant | 58.00% | ~127 |
+| Ram Staff Sergeant | 65.00% | ~143 |
+| Ram First Sergeant | 58.00% | ~128 |
 | Senior Sergeant Baran | 57.00% | ~125 |
 | Sergeant Major Baran | 45.00% | ~99 |
-| Senior warrant officer Baran 1st class | 28.00% | ~61 |
-| Senior warrant officer Baran 2nd class | 28.00% | ~61 |
+| Senior warrant officer Baran 1st class | 28.00% | ~62 |
+| Senior warrant officer Baran 2nd class | 28.00% | ~62 |
 | Senior warrant officer Baran 3rd class | 27.00% | ~59 |
 | Senior warrant officer Baran 4th class | 22.00% | ~48 |
 | Junior Lieutenant Baran | 21.00% | ~46 |
-| Baran Senior Warrant Officer Grade 5 | 18.00% | ~39 |
+| Baran Senior Warrant Officer Grade 5 | 18.00% | ~40 |
 | Senior Lieutenant Baran | 17.00% | ~37 |
-| Captain Baran | 13.00% | ~28 |
-| Senior Major Baran | 13.00% | ~28 |
-| Lieutenant Colonel Baran | 11.00% | ~24 |
+| Captain Baran | 13.00% | ~29 |
+| Senior Major Baran | 13.00% | ~29 |
+| Lieutenant Colonel Baran | 10.00% | ~22 |
 | Colonel Baran | 8.00% | ~18 |
 | Brigadier General Baran | 6.00% | ~13 |
 | Lieutenant General Baran | 6.00% | ~13 |
 | EMERAID RAM | 4.00% | ~9 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219 (Ranked 297)  
+Progressed: 220 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,4 +94,4 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-03 | 214 | 0 |
 | 2023-09-05 | 217 | 0 |
 | 2023-09-06 | 218 | 0 |
-| 2023-09-07 | 219 | 0 |
+| 2023-09-07 | 220 | 0 |

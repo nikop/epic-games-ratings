@@ -4,10 +4,10 @@
   "ProductSlug": "rainbow-six-siege",
   "Ranking_Rating": 452,
   "Ranking_Popularity": 115,
-  "Ranking_PopularitySum": 67,
+  "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-01T16:00:00+00:00",
@@ -5190,11 +5190,17 @@
       "Rating": 4.57,
       "NumberOfAwards": 14560,
       "NumberOfAwardsMax": 1775
+    },
+    {
+      "Time": "2023-09-07T19:58:11.9336722+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14563,
+      "NumberOfAwardsMax": 1776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14560,
-  "NumberOfAwardsMax": 1775,
+  "NumberOfAwards": 14563,
+  "NumberOfAwardsMax": 1776,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5213,13 +5219,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1650
+      "Count": 1651
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1775
+      "Count": 1776
     },
     {
       "Text": "This game has Competitive Players",
@@ -5249,7 +5255,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1390
+      "Count": 1391
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5275,8 +5281,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2023-09-07T16:58:07.5382137+00:00",
+  "LastChanged": "2023-09-07T19:58:11.933672+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:16.1922034+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:58:00.9333086+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:12:19.6923637+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:58:11.9336728+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:12:05.7535021+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1185,6 +1185,11 @@
       "Time": "2023-08-30T04:05:49.8982187+00:00",
       "NumProgressed": 510,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T20:06:51.8988201+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1220,7 +1225,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Chapter10",
@@ -1242,9 +1247,9 @@
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 118
     },
     {
       "ID": "Chapter4",
@@ -1260,15 +1265,15 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Chapter6",
       "SetID": "70l3651",
       "Name": "The Spider",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 72
     },
     {
       "ID": "Chapter7",
@@ -1300,7 +1305,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "Collectibles2",
@@ -1348,7 +1353,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "GollumChoices",
@@ -1476,21 +1481,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:06:45.3476015+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:06:51.8988194+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:15.4138059+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:01:11.2171743+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:06:45.3476375+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:01:20.5248686+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:06:51.898857+00:00"
 }

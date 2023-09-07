@@ -2,12 +2,12 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 859,
+  "Ranking_Rating": 858,
   "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23382,
+  "EOS_Progressed": 23387,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16305,6 +16305,11 @@
       "Time": "2023-09-07T19:11:26.0190615+00:00",
       "NumProgressed": 23382,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-07T20:11:28.3565027+00:00",
+      "NumProgressed": 23387,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 22,
@@ -16380,7 +16385,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "1024",
@@ -16412,7 +16417,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "1028",
@@ -16420,7 +16425,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4209
+      "UsersEstimate": 4210
     },
     {
       "ID": "1029",
@@ -16436,7 +16441,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4676
+      "UsersEstimate": 4677
     },
     {
       "ID": "1031",
@@ -16444,7 +16449,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3273
+      "UsersEstimate": 3274
     },
     {
       "ID": "1032",
@@ -16452,7 +16457,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9353
+      "UsersEstimate": 9355
     },
     {
       "ID": "1033",
@@ -16460,7 +16465,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "1034",
@@ -16491,15 +16496,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23382,
+      "Progressed": 23387,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-07T19:11:26.019061+00:00",
+  "LastChanged_Achievements": "2023-09-07T20:11:28.3565021+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.1036434+00:00",
-  "LastUpdate_Ratings": "2023-09-07T18:58:12.0845214+00:00",
-  "LastUpdate_Achievements": "2023-09-07T19:11:26.0191926+00:00"
+  "LastUpdate_Ratings": "2023-09-07T19:58:22.7324804+00:00",
+  "LastUpdate_Achievements": "2023-09-07T20:11:28.3566544+00:00"
 }

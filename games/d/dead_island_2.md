@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 1.00% | ~6,752 |
-| Git Gutte! | 1.00% | ~6,752 |
-| Break A Leg | 1.00% | ~6,752 |
-| Coup de Grâce | 1.00% | ~6,752 |
-| Hazardous Materials | 1.00% | ~6,752 |
-| Friends Like These | 1.00% | ~6,752 |
-| Hotel California | 1.00% | ~6,752 |
-| Apex Predator | 1.00% | ~6,752 |
-| Stacking the Deck | 1.00% | ~6,752 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,752 |
-| Welcome To Hell-A | 1.00% | ~6,752 |
+| Dr. Reed, I Presume? | 1.00% | ~6,753 |
+| Git Gutte! | 1.00% | ~6,753 |
+| Break A Leg | 1.00% | ~6,753 |
+| Coup de Grâce | 1.00% | ~6,753 |
+| Hazardous Materials | 1.00% | ~6,753 |
+| Friends Like These | 1.00% | ~6,753 |
+| Hotel California | 1.00% | ~6,753 |
+| Apex Predator | 1.00% | ~6,753 |
+| Stacking the Deck | 1.00% | ~6,753 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,753 |
+| Welcome To Hell-A | 1.00% | ~6,753 |
 | Bookworm | 0.90% | ~6,077 |
 | But Doctor, I am Butcho | 0.90% | ~6,077 |
 | Can't Handle the Truth | 0.90% | ~6,077 |
@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 505)
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,727 |
 | Ooh, Shiny! | 0.70% | ~4,727 |
 | I Am the Resurrection | 0.70% | ~4,727 |
-| Making Your Mark | 0.60% | ~4,051 |
-| Humanity Distilled | 0.60% | ~4,051 |
-| Down with the Sickness | 0.60% | ~4,051 |
+| Making Your Mark | 0.60% | ~4,052 |
+| Humanity Distilled | 0.60% | ~4,052 |
+| Down with the Sickness | 0.60% | ~4,052 |
 | Max Headroom | 0.50% | ~3,376 |
 | Jumbo Keyring | 0.40% | ~2,701 |
 | Go, Bobcats! | 0.40% | ~2,701 |
@@ -41,17 +41,17 @@ Rating: 4.54 (Ranked 505)
 | Smorgasbord | 0.30% | ~2,026 |
 | Not Even My Final Form | 0.30% | ~2,026 |
 | Internet Famous | 0.30% | ~2,026 |
-| Make it So | 0.20% | ~1,350 |
-| LA Influential | 0.20% | ~1,350 |
-| Gore Horse | 0.20% | ~1,350 |
-| Sharpest Tool in the Box | 0.20% | ~1,350 |
-| Variety is the Spice of Death | 0.20% | ~1,350 |
+| Make it So | 0.20% | ~1,351 |
+| LA Influential | 0.20% | ~1,351 |
+| Gore Horse | 0.20% | ~1,351 |
+| Sharpest Tool in the Box | 0.20% | ~1,351 |
+| Variety is the Spice of Death | 0.20% | ~1,351 |
 | Donk! | 0.10% | ~675 |
 | Sole Survivor | 0.10% | ~675 |
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,220 (Ranked 22)  
+Progressed: 675,259 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
-| 2023-09-07 | 675,220 | 2,119 |
+| 2023-09-07 | 675,259 | 2,119 |
 ## Awards
 Max (Great Boss Battles): 5,928  (Ranked 59)  
 Sum: 8,757 (Ranked 95)  

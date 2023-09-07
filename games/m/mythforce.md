@@ -19,10 +19,10 @@ Number of Ratings: 285  (23.09.2022)
 | Cold-Blooded Critters | 1.00% | ~12 |
 | Deadication | 1.00% | ~12 |
 | Everything Must Go! | 1.00% | ~12 |
+| The Harder They Fall | 1.00% | ~12 |
 | Horder Better Faster Stronger | 1.00% | ~12 |
 | Season Finale | 1.00% | ~12 |
 | Spending Spree | 1.00% | ~12 |
-| The Harder They Fall | 0.90% | ~11 |
 | Next Time on MythForce... | 0.70% | ~8 |
 | On this Episode! | 0.70% | ~8 |
 | The Fourth Gate | 0.60% | ~7 |
