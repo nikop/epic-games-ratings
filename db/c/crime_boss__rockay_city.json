@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3324,9 +3324,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72721,
+  "EOS_Progressed": 72722,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17609,6 +17609,11 @@
       "Time": "2023-09-07T02:19:36.944706+00:00",
       "NumProgressed": 72721,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-07T03:04:36.7485754+00:00",
+      "NumProgressed": 72722,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17620,7 +17625,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 36360
+      "UsersEstimate": 36361
     },
     {
       "ID": "ACH_0011",
@@ -17636,7 +17641,7 @@
       "Name": "Roid Ranger",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 15271
+      "UsersEstimate": 15272
     },
     {
       "ID": "ACH_0013",
@@ -17708,7 +17713,7 @@
       "Name": "Foo Finder",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "ACH_0060",
@@ -17788,7 +17793,7 @@
       "Name": "Too Old for This",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 34906
+      "UsersEstimate": 34907
     },
     {
       "ID": "ACH_0300",
@@ -17836,7 +17841,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 25452
+      "UsersEstimate": 25453
     },
     {
       "ID": "ACH_0420",
@@ -17915,22 +17920,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72721,
+      "Progressed": 72722,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 1068,
-      "Completed": 1068
+      "Progressed": 1069,
+      "Completed": 1069
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-06T16:02:50.775932+00:00",
-  "LastChanged_Achievements": "2023-09-07T02:19:36.9447052+00:00",
+  "LastChanged_Achievements": "2023-09-07T03:04:36.7485744+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:17:44.6966767+00:00",
-  "LastUpdate_Achievements": "2023-09-07T02:19:36.9449165+00:00"
+  "LastUpdate_Ratings": "2023-09-07T03:02:44.0725983+00:00",
+  "LastUpdate_Achievements": "2023-09-07T03:04:36.7488134+00:00"
 }

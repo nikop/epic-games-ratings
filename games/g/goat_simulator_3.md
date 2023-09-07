@@ -1,7 +1,7 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.84 (Ranked 48)  
+Rating: 4.84 (Ranked 49)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -46,7 +46,7 @@ Rating: 4.84 (Ranked 48)
 | G.O.A.T | 0.30% | ~729 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 242,863 (Ranked 50)  
-Completed: 824 (0.34%) (Ranked 174)  
+Completed: 825 (0.34%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,7 +185,7 @@ Completed: 824 (0.34%) (Ranked 174)
 | 2023-09-04 | 242,677 | 821 |
 | 2023-09-05 | 242,758 | 822 |
 | 2023-09-06 | 242,853 | 824 |
-| 2023-09-07 | 242,863 | 824 |
+| 2023-09-07 | 242,863 | 825 |
 ## Awards
 Max (Great for Beginners): 390  (Ranked 218)  
 Sum: 3,324 (Ranked 154)  

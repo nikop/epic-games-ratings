@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,11 +338,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 199,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.51,
+  "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -993,6 +993,11 @@
       "Time": "2023-09-07T01:46:19.0420717+00:00",
       "NumProgressed": 198,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T03:05:06.7714499+00:00",
+      "NumProgressed": 199,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1165,7 +1170,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_PEAK",
@@ -1205,7 +1210,7 @@
       "Name": "Power Glove",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_S5",
@@ -1213,7 +1218,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1229,22 +1234,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 199,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-07T02:20:06.8851134+00:00",
+  "LastChanged_Achievements": "2023-09-07T03:05:06.7714493+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:13:57.2424911+00:00",
-  "LastUpdate_Achievements": "2023-09-07T02:20:06.8851563+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:58:53.0265089+00:00",
+  "LastUpdate_Achievements": "2023-09-07T03:05:06.7714781+00:00"
 }

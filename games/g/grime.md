@@ -6,24 +6,24 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~128,957 |
-| Taste | 84.00% | ~123,095 |
-| The Hunt | 66.00% | ~96,718 |
-| Ravenous | 63.00% | ~92,321 |
-| Weeper | 43.00% | ~63,013 |
-| Devourer | 23.00% | ~33,705 |
-| Harmless | 19.00% | ~27,843 |
-| Silenced Whispers | 19.00% | ~27,843 |
-| Sharpened Vessel | 16.00% | ~23,447 |
-| Yank | 15.00% | ~21,981 |
-| Scion | 12.00% | ~17,535 |
-| Jawcrab | 12.00% | ~17,585 |
-| Jawstag | 12.00% | ~17,585 |
-| Feast | 12.00% | ~17,585 |
-| Watcher | 10.00% | ~14,654 |
-| Shapely | 8.00% | ~11,723 |
+| Imprint | 88.00% | ~128,962 |
+| Taste | 84.00% | ~123,100 |
+| The Hunt | 66.00% | ~96,722 |
+| Ravenous | 63.00% | ~92,325 |
+| Weeper | 43.00% | ~63,016 |
+| Devourer | 23.00% | ~33,706 |
+| Harmless | 19.00% | ~27,844 |
+| Silenced Whispers | 19.00% | ~27,844 |
+| Sharpened Vessel | 16.00% | ~23,448 |
+| Yank | 15.00% | ~21,982 |
+| Scion | 12.00% | ~17,536 |
+| Jawcrab | 12.00% | ~17,586 |
+| Jawstag | 12.00% | ~17,586 |
+| Feast | 12.00% | ~17,586 |
+| Watcher | 10.00% | ~14,655 |
+| Shapely | 8.00% | ~11,724 |
 | Glare | 8.00% | ~11,690 |
-| Predator | 8.00% | ~11,723 |
+| Predator | 8.00% | ~11,724 |
 | Assimilation | 7.00% | ~10,258 |
 | Host | 6.00% | ~8,768 |
 | Celebration | 6.00% | ~8,793 |
@@ -39,17 +39,17 @@ Number of Ratings: 46  (23.09.2022)
 | Bloodhunter | 3.00% | ~4,396 |
 | All-Seeing | 3.00% | ~4,396 |
 | Passage | 3.00% | ~4,396 |
-| Zygote | 2.00% | ~2,922 |
+| Zygote | 2.00% | ~2,923 |
 | Kinship | 2.00% | ~2,931 |
-| Kin | 2.00% | ~2,922 |
-| Listen | 2.00% | ~2,922 |
+| Kin | 2.00% | ~2,923 |
+| Listen | 2.00% | ~2,923 |
 | Weakness | 1.00% | ~1,465 |
 | Generous | 1.00% | ~1,465 |
 | Skinmaker | 0.90% | ~1,319 |
 | Instruments | 0.80% | ~1,172 |
 | Spiral Heart | 0.10% | ~147 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,542 (Ranked 65)  
+Progressed: 146,548 (Ranked 65)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-09-04 | 146,013 | 1 |
 | 2023-09-05 | 146,275 | 1 |
 | 2023-09-06 | 146,508 | 1 |
-| 2023-09-07 | 146,542 | 1 |
+| 2023-09-07 | 146,548 | 1 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 462)  
 Sum: 198 (Ranked 373)  

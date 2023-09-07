@@ -6,16 +6,16 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~25,661 |
-| Handyman | 2.00% | ~17,107 |
-| Zealous | 2.00% | ~17,107 |
-| Not half bad | 2.00% | ~17,107 |
-| Apt Survivor | 2.00% | ~17,107 |
-| Survival Treasures | 2.00% | ~17,107 |
-| Skillful | 2.00% | ~17,107 |
-| Sorted | 2.00% | ~17,107 |
-| Make Some Noise | 2.00% | ~17,107 |
-| MU/TH/UR Dearest | 2.00% | ~17,107 |
+| It wakes | 3.00% | ~25,663 |
+| Handyman | 2.00% | ~17,109 |
+| Zealous | 2.00% | ~17,109 |
+| Not half bad | 2.00% | ~17,109 |
+| Apt Survivor | 2.00% | ~17,109 |
+| Survival Treasures | 2.00% | ~17,109 |
+| Skillful | 2.00% | ~17,109 |
+| Sorted | 2.00% | ~17,109 |
+| Make Some Noise | 2.00% | ~17,109 |
+| MU/TH/UR Dearest | 2.00% | ~17,109 |
 | The Grand Sacrifice | 1.00% | ~8,554 |
 | Agonizing Escape | 1.00% | ~8,554 |
 | Backdoor Escape | 1.00% | ~8,554 |
@@ -33,22 +33,22 @@ Number of Ratings: 70,340  (23.09.2022)
 | Resurgence | 1.00% | ~8,554 |
 | Preemptive Strike | 1.00% | ~8,554 |
 | Humanitarian | 1.00% | ~8,554 |
-| Apt Killer | 0.90% | ~7,698 |
-| II | 0.90% | ~7,698 |
-| Wounded Healer | 0.90% | ~7,698 |
-| Close Shave | 0.90% | ~7,698 |
-| Second Act | 0.90% | ~7,698 |
-| Terror of LV-426 | 0.90% | ~7,698 |
-| Vulture | 0.80% | ~6,843 |
+| Apt Killer | 0.90% | ~7,699 |
+| II | 0.90% | ~7,699 |
+| Wounded Healer | 0.90% | ~7,699 |
+| Close Shave | 0.90% | ~7,699 |
+| Second Act | 0.90% | ~7,699 |
+| Terror of LV-426 | 0.90% | ~7,699 |
+| Vulture | 0.80% | ~6,844 |
 | III | 0.70% | ~5,988 |
 | With Scars to Show | 0.70% | ~5,988 |
-| Blood on your hands | 0.60% | ~5,132 |
-| Cherish your Life | 0.60% | ~5,132 |
-| First to the Punch | 0.60% | ~5,132 |
-| Every Last Drop | 0.60% | ~5,132 |
-| Flight to Freedom | 0.60% | ~5,132 |
-| Lifting The Fog | 0.60% | ~5,132 |
-| One More Step | 0.60% | ~5,132 |
+| Blood on your hands | 0.60% | ~5,133 |
+| Cherish your Life | 0.60% | ~5,133 |
+| First to the Punch | 0.60% | ~5,133 |
+| Every Last Drop | 0.60% | ~5,133 |
+| Flight to Freedom | 0.60% | ~5,133 |
+| Lifting The Fog | 0.60% | ~5,133 |
+| One More Step | 0.60% | ~5,133 |
 | Escape Artist | 0.50% | ~4,277 |
 | Made it out alive! | 0.50% | ~4,277 |
 | Gifts for the Fog | 0.50% | ~4,277 |
@@ -69,18 +69,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | Raccoon City Recruit | 0.50% | ~4,277 |
 | A Fast Death | 0.50% | ~4,277 |
 | Chorus of Chaos | 0.50% | ~4,277 |
-| A bite for the Entity | 0.40% | ~3,421 |
-| Blood on your face | 0.40% | ~3,421 |
-| Hemophobia | 0.40% | ~3,421 |
-| Leapfrog | 0.40% | ~3,421 |
-| Cottage Owner | 0.40% | ~3,421 |
-| Serial Killer | 0.40% | ~3,421 |
-| Escaping the Nightmare | 0.40% | ~3,421 |
-| Ancestor's Rite | 0.40% | ~3,421 |
-| Devoted Gatekeeping | 0.40% | ~3,421 |
-| Grim Pilgrimage | 0.40% | ~3,421 |
-| Complete the Evolution | 0.40% | ~3,421 |
-| Extraterrestrial | 0.40% | ~3,421 |
+| A bite for the Entity | 0.40% | ~3,422 |
+| Blood on your face | 0.40% | ~3,422 |
+| Hemophobia | 0.40% | ~3,422 |
+| Leapfrog | 0.40% | ~3,422 |
+| Cottage Owner | 0.40% | ~3,422 |
+| Serial Killer | 0.40% | ~3,422 |
+| Escaping the Nightmare | 0.40% | ~3,422 |
+| Ancestor's Rite | 0.40% | ~3,422 |
+| Devoted Gatekeeping | 0.40% | ~3,422 |
+| Grim Pilgrimage | 0.40% | ~3,422 |
+| Complete the Evolution | 0.40% | ~3,422 |
+| Extraterrestrial | 0.40% | ~3,422 |
 | Jump Scares | 0.30% | ~2,566 |
 | Deep Cleansing | 0.30% | ~2,566 |
 | Texas BBQ | 0.30% | ~2,566 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~855 |
 | Adept Ripley | 0.10% | ~855 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 855,362 (Ranked 15)  
+Progressed: 855,439 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-04 | 849,226 | 48 |
 | 2023-09-05 | 852,172 | 48 |
 | 2023-09-06 | 854,955 | 48 |
-| 2023-09-07 | 855,362 | 48 |
+| 2023-09-07 | 855,439 | 48 |
 ## Awards
 Max (Diverse Characters): 32,045  (Ranked 15)  
 Sum: 250,884 (Ranked 11)  

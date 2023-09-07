@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pilgrimage | 0.40% | ~55 |
 | Bronze Victory (Carthage 1) | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
+| Event Level High | 0.30% | ~41 |
 | The Eternal Treaty | 0.30% | ~41 |
 | Run, Pheidippides, Run! | 0.30% | ~41 |
 | Learn to Play 5 | 0.30% | ~41 |
@@ -170,7 +171,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.20% | ~28 |
 | Great Difficulty | 0.20% | ~28 |
 | Magnificent Difficulty | 0.20% | ~28 |
-| Event Level High | 0.20% | ~28 |
 | Nenikekamen | 0.20% | ~28 |
 | A Good Start | 0.20% | ~28 |
 | Tell the Spartans | 0.20% | ~28 |

@@ -2,13 +2,13 @@
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
-  "Ranking_Rating": 48,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3605,9 +3605,9 @@
     }
   ],
   "EOS_Progressed": 242863,
-  "EOS_Completed": 824,
-  "EOS_NewPlayers": 748,
-  "EOS_NewCompleters": 9,
+  "EOS_Completed": 825,
+  "EOS_NewPlayers": 741,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -18779,6 +18779,11 @@
       "Time": "2023-09-07T02:20:22.2522901+00:00",
       "NumProgressed": 242863,
       "NumCompleted": 824
+    },
+    {
+      "Time": "2023-09-07T03:05:22.3164609+00:00",
+      "NumProgressed": 242863,
+      "NumCompleted": 825
     }
   ],
   "TotalAchievements": 39,
@@ -19102,15 +19107,15 @@
       "ID": "a2e41al",
       "IsBase": true,
       "Progressed": 242863,
-      "Completed": 824
+      "Completed": 825
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-06T23:57:12.3515017+00:00",
-  "LastChanged_Achievements": "2023-09-07T02:20:22.2522893+00:00",
+  "LastChanged_Achievements": "2023-09-07T03:05:22.3164602+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:56.0348626+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:12:36.2747986+00:00",
-  "LastUpdate_Achievements": "2023-09-07T02:20:22.2525018+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:57:36.6158737+00:00",
+  "LastUpdate_Achievements": "2023-09-07T03:05:22.3165886+00:00"
 }

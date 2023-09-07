@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 48,
+  "Ranking_Rating": 31,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.84,
+  "Rating": 4.86,
   "RatingHistory": [
     {
       "Time": "2023-08-31T05:00:39.0192379+00:00",
@@ -52,13 +52,19 @@
       "Rating": 4.84,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-07T02:58:07.8091828+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 714,
+  "EOS_Progressed": 715,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -1153,6 +1159,11 @@
       "Time": "2023-09-07T01:44:49.851939+00:00",
       "NumProgressed": 714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T03:03:43.4104743+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1173,7 +1184,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "AC02",
@@ -1189,7 +1200,7 @@
       "Name": "Blood and Gold",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "AC04",
@@ -1197,7 +1208,7 @@
       "Name": "Blood and Iron",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "AC05",
@@ -1205,7 +1216,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "AC06",
@@ -1213,7 +1224,7 @@
       "Name": "The Last Ascension",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "AC07",
@@ -1221,7 +1232,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "AC08",
@@ -1235,9 +1246,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 315
     },
     {
       "ID": "AC10",
@@ -1245,7 +1256,7 @@
       "Name": "The Wait is Over",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "AC11",
@@ -1253,7 +1264,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "AC12",
@@ -1275,9 +1286,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 122
     },
     {
       "ID": "AC15",
@@ -1365,7 +1376,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "AC26",
@@ -1413,7 +1424,7 @@
       "Name": "The Merciless One",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "AC32",
@@ -1429,7 +1440,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "AC34",
@@ -1469,7 +1480,7 @@
       "Name": "Edge of Orison",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "AC39",
@@ -1485,7 +1496,7 @@
       "Name": "Welcome Back!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "AC41",
@@ -1532,16 +1543,16 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 714,
+      "Progressed": 715,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged": "2023-09-06T02:57:21.259036+00:00",
-  "LastChanged_Achievements": "2023-09-07T02:18:44.2489267+00:00",
+  "LastChanged": "2023-09-07T02:58:07.8091825+00:00",
+  "LastChanged_Achievements": "2023-09-07T03:03:43.4104735+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:13:07.1297927+00:00",
-  "LastUpdate_Achievements": "2023-09-07T02:18:44.2490047+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:58:07.8091834+00:00",
+  "LastUpdate_Achievements": "2023-09-07T03:03:43.4105381+00:00"
 }

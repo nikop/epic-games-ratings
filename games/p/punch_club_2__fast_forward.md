@@ -30,7 +30,7 @@
 | It's good to be alive | 60.00% | ~191 |
 | Own four walls | 60.00% | ~191 |
 | Employee of the year | 60.00% | ~191 |
-| Fight for life | 58.00% | ~184 |
+| Fight for life | 59.00% | ~188 |
 | Little hacker | 58.00% | ~184 |
 | Intriguing candies | 58.00% | ~184 |
 | Legal courier | 55.00% | ~175 |

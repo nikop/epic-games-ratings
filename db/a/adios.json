@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72526,
+  "EOS_Progressed": 72528,
   "EOS_Completed": 749,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -15581,6 +15581,11 @@
       "Time": "2023-09-07T01:44:17.2597194+00:00",
       "NumProgressed": 72526,
       "NumCompleted": 749
+    },
+    {
+      "Time": "2023-09-07T03:03:09.1308301+00:00",
+      "NumProgressed": 72528,
+      "NumCompleted": 749
     }
   ],
   "TotalAchievements": 25,
@@ -15664,7 +15669,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14505
+      "UsersEstimate": 14506
     },
     {
       "ID": "Hearty",
@@ -15680,7 +15685,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "Magnetic Miracles",
@@ -15696,7 +15701,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14505
+      "UsersEstimate": 14506
     },
     {
       "ID": "Meaty",
@@ -15744,7 +15749,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9428
+      "UsersEstimate": 9429
     },
     {
       "ID": "Sniper",
@@ -15791,7 +15796,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 72526,
+      "Progressed": 72528,
       "Completed": 749
     }
   ],
@@ -15799,8 +15804,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-09-07T02:18:09.6145427+00:00",
+  "LastChanged_Achievements": "2023-09-07T03:03:09.1308294+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:33.9032569+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:12:57.8528916+00:00",
-  "LastUpdate_Achievements": "2023-09-07T02:18:09.6147106+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:57:58.1152189+00:00",
+  "LastUpdate_Achievements": "2023-09-07T03:03:09.1310022+00:00"
 }

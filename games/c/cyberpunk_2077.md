@@ -7,10 +7,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Fool | 69.00% | ~603,707 |
-| Right Back At Ya | 39.00% | ~341,225 |
+| Right Back At Ya | 39.00% | ~341,226 |
 | The Lovers | 35.00% | ~306,228 |
 | Stanislavski's Method | 29.00% | ~253,732 |
-| The Wheel of Fortune | 28.00% | ~244,982 |
+| The Wheel of Fortune | 28.00% | ~244,983 |
 | The Hermit | 25.00% | ~218,734 |
 | Christmas Tree Attack | 23.00% | ~201,236 |
 | True Soldier | 23.00% | ~201,236 |
@@ -26,7 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 14.00% | ~122,491 |
 | I Am The Law | 14.00% | ~122,491 |
 | Judy vs Night City | 14.00% | ~122,491 |
-| Two Heads, One Bullet | 12.00% | ~104,992 |
+| Two Heads, One Bullet | 12.00% | ~104,993 |
 | The Wandering Fool | 10.00% | ~87,494 |
 | The Quick and the Dead | 10.00% | ~87,494 |
 | Ten out of Ten | 9.00% | ~78,744 |
@@ -34,8 +34,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 7.00% | ~61,246 |
 | The Star | 7.00% | ~61,246 |
 | The Sun | 7.00% | ~61,246 |
-| Must Be Rats | 4.00% | ~34,997 |
-| Temperance | 4.00% | ~34,997 |
+| Must Be Rats | 4.00% | ~34,998 |
+| Temperance | 4.00% | ~34,998 |
 | City Lights | 3.00% | ~26,248 |
 | Mean Streets | 3.00% | ~26,248 |
 | Little Tokyo | 3.00% | ~26,248 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,749 |
 | Rough Landing | 0.50% | ~4,375 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 874,937 (Ranked 14)  
+Progressed: 874,938 (Ranked 14)  
 Completed: 2,065 (0.24%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2,065 (0.24%) (Ranked 187)
 | 2023-09-04 | 874,617 | 2,059 |
 | 2023-09-05 | 874,775 | 2,062 |
 | 2023-09-06 | 874,918 | 2,065 |
-| 2023-09-07 | 874,937 | 2,065 |
+| 2023-09-07 | 874,938 | 2,065 |
 ## Awards
 Max (Character Customization): 77,619  (Ranked 9)  
 Sum: 206,600 (Ranked 13)  

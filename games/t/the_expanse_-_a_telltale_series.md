@@ -10,14 +10,14 @@ Rating: 4.67 (Ranked 259)
 | Spore Taste | 21.00% | ~2,132 |
 | Martian Music | 21.00% | ~2,132 |
 | Captain Drummer | 21.00% | ~2,132 |
-| Celebrations are in Order | 20.00% | ~2,030 |
-| Doctor Approved | 18.00% | ~1,827 |
+| Celebrations are in Order | 20.00% | ~2,031 |
+| Doctor Approved | 18.00% | ~1,828 |
 | Thorston Mayer | 12.00% | ~1,218 |
 | Bottoms up! | 9.00% | ~914 |
 | Data Logger | 5.00% | ~508 |
 | Data Recoverer | 5.00% | ~508 |
 | Data Master | 4.00% | ~406 |
-| Debris Spree | 3.00% | ~304 |
+| Debris Spree | 3.00% | ~305 |
 | Urshanabi Hoarder | 2.00% | ~203 |
 | Grave Robber | 2.00% | ~203 |
 | The Pit and the Pirates | 1.00% | ~102 |
@@ -36,7 +36,7 @@ Rating: 4.67 (Ranked 259)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,150 (Ranked 127)  
+Progressed: 10,153 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-04 | 10,042 | 0 |
 | 2023-09-05 | 10,095 | 0 |
 | 2023-09-06 | 10,141 | 0 |
-| 2023-09-07 | 10,150 | 0 |
+| 2023-09-07 | 10,153 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

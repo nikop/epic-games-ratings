@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117711,
+  "EOS_Progressed": 117712,
   "EOS_Completed": 952,
-  "EOS_NewPlayers": 1452,
+  "EOS_NewPlayers": 1451,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -15797,6 +15797,11 @@
       "Time": "2023-09-07T02:18:11.0876183+00:00",
       "NumProgressed": 117711,
       "NumCompleted": 952
+    },
+    {
+      "Time": "2023-09-07T03:03:10.6307535+00:00",
+      "NumProgressed": 117712,
+      "NumCompleted": 952
     }
   ],
   "TotalAchievements": 34,
@@ -15880,7 +15885,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 64741
+      "UsersEstimate": 64742
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -15896,7 +15901,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 45907
+      "UsersEstimate": 45908
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -15920,7 +15925,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 35313
+      "UsersEstimate": 35314
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -15928,7 +15933,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 24719
+      "UsersEstimate": 24720
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -15936,7 +15941,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 35313
+      "UsersEstimate": 35314
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -16064,7 +16069,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 25896
+      "UsersEstimate": 25897
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -16079,7 +16084,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 117711,
+      "Progressed": 117712,
       "Completed": 952
     }
   ],
@@ -16087,8 +16092,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-03T19:00:00.5796425+00:00",
-  "LastChanged_Achievements": "2023-09-07T02:18:11.0876174+00:00",
+  "LastChanged_Achievements": "2023-09-07T03:03:10.6307529+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:00.3546028+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:16:34.8494882+00:00",
-  "LastUpdate_Achievements": "2023-09-07T02:18:11.0878439+00:00"
+  "LastUpdate_Ratings": "2023-09-07T03:01:34.6967219+00:00",
+  "LastUpdate_Achievements": "2023-09-07T03:03:10.6308914+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~108,844 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~81,926 |
+| A Place to Lay Your Head | 93.00% | ~108,845 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~81,927 |
 | A Clear Conscience | 69.00% | ~80,756 |
-| Unleash Hell | 68.00% | ~79,585 |
-| Unfulfilled Desires | 68.00% | ~79,585 |
+| Unleash Hell | 68.00% | ~79,586 |
+| Unfulfilled Desires | 68.00% | ~79,586 |
 | Funny Guy | 67.00% | ~78,415 |
 | Unshackled | 67.00% | ~78,415 |
-| Long Live the King | 66.00% | ~77,244 |
-| Resurrection | 62.00% | ~72,563 |
-| Wyrdly Reconstructed | 62.00% | ~72,563 |
-| Boxcar Kid | 60.00% | ~70,222 |
-| Rush Hour | 60.00% | ~70,222 |
-| To Grandmother's House | 60.00% | ~70,222 |
+| Long Live the King | 66.00% | ~77,245 |
+| Resurrection | 62.00% | ~72,564 |
+| Wyrdly Reconstructed | 62.00% | ~72,564 |
+| Boxcar Kid | 60.00% | ~70,223 |
+| Rush Hour | 60.00% | ~70,223 |
+| To Grandmother's House | 60.00% | ~70,223 |
 | Serenity Now! | 53.00% | ~62,030 |
-| Hope Rekindled | 50.00% | ~58,518 |
-| Ramble On | 49.00% | ~57,348 |
+| Hope Rekindled | 50.00% | ~58,519 |
+| Ramble On | 49.00% | ~57,349 |
 | Nope | 48.00% | ~56,178 |
 | This Looks Familiar | 38.00% | ~44,474 |
 | Now Stay Dead | 37.00% | ~43,304 |
-| Harvest Festival | 36.00% | ~42,133 |
-| Hot Air | 36.00% | ~42,133 |
+| Harvest Festival | 36.00% | ~42,134 |
+| Hot Air | 36.00% | ~42,134 |
 | Merry Time | 35.00% | ~40,963 |
-| Creep and Sleep | 33.00% | ~38,622 |
+| Creep and Sleep | 33.00% | ~38,623 |
 | Overdue Notice | 32.00% | ~37,452 |
-| Whale | 31.00% | ~36,281 |
+| Whale | 31.00% | ~36,282 |
 | Banishment | 30.00% | ~35,111 |
 | FNG | 29.00% | ~33,941 |
 | Predator | 24.00% | ~28,089 |
@@ -56,7 +56,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 7.00% | ~8,193 |
 | Ichthyophobic | 5.00% | ~5,852 |
 | No More Mouths to Feed | 5.00% | ~5,852 |
-| The World As It Was | 4.00% | ~4,681 |
+| The World As It Was | 4.00% | ~4,682 |
 | Triage | 3.00% | ~3,511 |
 | A Life Well Lived | 2.00% | ~2,341 |
 | Clearing the Ledger | 2.00% | ~2,341 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,037 (Ranked 71)  
+Progressed: 117,038 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-09-04 | 116,880 | 1 |
 | 2023-09-05 | 116,958 | 1 |
 | 2023-09-06 | 117,027 | 1 |
-| 2023-09-07 | 117,037 | 1 |
+| 2023-09-07 | 117,038 | 1 |
 ## Awards
 Max (Character Customization): 7,372  (Ranked 49)  
 Sum: 19,207 (Ranked 57)  

@@ -422,9 +422,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "BRING_PROSPERO",
@@ -462,9 +462,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -573,8 +573,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-07T02:19:05.4739221+00:00",
+  "LastChanged_Achievements": "2023-09-07T03:04:04.8412787+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:13:34.5187274+00:00",
-  "LastUpdate_Achievements": "2023-09-07T02:19:05.4739507+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:58:32.7701342+00:00",
+  "LastUpdate_Achievements": "2023-09-07T03:04:04.8412976+00:00"
 }
