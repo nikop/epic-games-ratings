@@ -25,7 +25,7 @@
 | 21 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 11.11% |
 | 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.93% |
-| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.44% |
+| 26 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.41% |
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.34% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 29 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 9.09% |
@@ -70,7 +70,7 @@
 | 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 69 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.07% |
+| 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.06% |
 | 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 74 | [Monster Harvest](games/m/monster_harvest.md) | 2.93% |
@@ -137,8 +137,8 @@
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.64% |
-| 139 | [Haven](games/h/haven.md) | 0.63% |
+| 138 | [Haven](games/h/haven.md) | 0.63% |
+| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.63% |
 | 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
 | 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 142 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
@@ -196,8 +196,8 @@
 | 193 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 195 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 196 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
-| 196 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.19% |
 | 196 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
+| 198 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.18% |
 | 199 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 200 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 200 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
