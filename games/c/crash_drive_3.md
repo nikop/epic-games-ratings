@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 31.00% | ~116 |
-| Baby's First Car | 30.00% | ~112 |
-| Pushover | 30.00% | ~112 |
+| Brace for impact! | 32.00% | ~120 |
+| Baby's First Car | 30.00% | ~113 |
+| Pushover | 30.00% | ~113 |
 | Amateur Mechanic | 29.00% | ~109 |
 | A Forest Walk | 29.00% | ~109 |
-| C-C-C-Combo! | 27.00% | ~101 |
-| Multiply that! | 27.00% | ~101 |
+| C-C-C-Combo! | 27.00% | ~102 |
+| Multiply that! | 27.00% | ~102 |
 | Fore! | 24.00% | ~90 |
 | Insurance fraud | 24.00% | ~90 |
 | Snow Fun! | 24.00% | ~90 |
@@ -21,14 +21,14 @@
 | I see the light! | 23.00% | ~86 |
 | In the Bag! | 23.00% | ~86 |
 | You're it | 23.00% | ~86 |
-| First Come, First Serve | 22.00% | ~82 |
-| Take that Frosty! | 22.00% | ~82 |
-| Goodbye cruel world | 22.00% | ~82 |
+| First Come, First Serve | 22.00% | ~83 |
+| Take that Frosty! | 22.00% | ~83 |
+| Goodbye cruel world | 22.00% | ~83 |
 | Car-Tapult | 21.00% | ~79 |
 | Disoriented | 21.00% | ~79 |
-| Anger Issues | 21.00% | ~79 |
-| Your Highness | 21.00% | ~79 |
 | Beach Party! | 21.00% | ~79 |
+| Anger Issues | 20.00% | ~75 |
+| Your Highness | 20.00% | ~75 |
 | Event Amateur | 19.00% | ~71 |
 | Feeling Dizzy? | 18.00% | ~68 |
 | Drift King! | 17.00% | ~64 |
@@ -46,7 +46,7 @@
 | Event Pro | 10.00% | ~38 |
 | Space Crash | 7.00% | ~26 |
 | To war! | 7.00% | ~26 |
-| Hoarder | 6.00% | ~22 |
+| Hoarder | 6.00% | ~23 |
 | Event Master | 5.00% | ~19 |
 | A Starting Collector | 4.00% | ~15 |
 | 433 Eros | 4.00% | ~15 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 375 (Ranked 260)  
+Progressed: 376 (Ranked 260)  
 Completed: 2 (0.53%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 2 (0.53%) (Ranked 150)
 | 2023-08-26 | 372 | 2 |
 | 2023-08-31 | 374 | 2 |
 | 2023-09-01 | 375 | 2 |
+| 2023-09-07 | 376 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

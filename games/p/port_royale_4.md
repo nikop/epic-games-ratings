@@ -6,31 +6,31 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~693 |
-| My little farm | 65.00% | ~563 |
-| Every beginning is difficult | 63.00% | ~546 |
-| Gofer | 57.00% | ~494 |
-| 3, 2, 1, mine | 56.00% | ~485 |
-| O Captain! My Captain! | 54.00% | ~468 |
-| Seafarer | 53.00% | ~459 |
-| Greed for gold | 43.00% | ~372 |
-| Intangible | 42.00% | ~364 |
-| I'm out of here for a while | 42.00% | ~364 |
-| In a mint condition | 37.00% | ~320 |
+| Cabin boy | 80.00% | ~694 |
+| My little farm | 65.00% | ~564 |
+| Every beginning is difficult | 63.00% | ~547 |
+| Gofer | 57.00% | ~495 |
+| 3, 2, 1, mine | 56.00% | ~486 |
+| O Captain! My Captain! | 54.00% | ~469 |
+| Seafarer | 53.00% | ~460 |
+| Greed for gold | 43.00% | ~373 |
+| Intangible | 42.00% | ~365 |
+| I'm out of here for a while | 42.00% | ~365 |
+| In a mint condition | 37.00% | ~321 |
 | Licence to Kill | 36.00% | ~312 |
-| Pirates! | 35.00% | ~303 |
-| Megalomania | 29.00% | ~251 |
-| Collectionitis | 28.00% | ~242 |
+| Pirates! | 35.00% | ~304 |
+| Megalomania | 29.00% | ~252 |
+| Collectionitis | 28.00% | ~243 |
 | Christening | 27.00% | ~234 |
-| Groundskeeper | 26.00% | ~225 |
+| Groundskeeper | 26.00% | ~226 |
 | Wholesale | 22.00% | ~191 |
-| Walk the plank | 20.00% | ~173 |
-| Pearly gates | 17.00% | ~147 |
-| My precious! | 17.00% | ~147 |
+| Walk the plank | 21.00% | ~182 |
+| Pearly gates | 18.00% | ~156 |
+| My precious! | 17.00% | ~148 |
 | Conquistador | 13.00% | ~113 |
 | Panic buying | 11.00% | ~95 |
+| Just a scratch | 9.00% | ~78 |
 | Your vessel, my vessel | 9.00% | ~78 |
-| Just a scratch | 8.00% | ~69 |
 | All mine! | 8.00% | ~69 |
 | Paths of Glory | 8.00% | ~69 |
 | Panel of experts | 8.00% | ~69 |
@@ -46,18 +46,18 @@ Number of Ratings: 53  (23.09.2022)
 | Strategist | 2.00% | ~17 |
 | The customer is always right | 2.00% | ~17 |
 | Master & Commander | 2.00% | ~17 |
-| All aboard! | 2.00% | ~17 |
 | Gold fever | 2.00% | ~17 |
 | Fill it up, please! | 2.00% | ~17 |
-| Administrator | 0.80% | ~7 |
-| Raiders of the Lost Ark | 0.80% | ~7 |
+| All aboard! | 1.00% | ~9 |
+| Administrator | 0.90% | ~8 |
+| Raiders of the Lost Ark | 0.90% | ~8 |
+| Capitalist | 0.80% | ~7 |
 | Traffic chaos | 0.80% | ~7 |
 | Parlay? | 0.80% | ~7 |
-| Capitalist | 0.70% | ~6 |
-| Fleet Admiral | 0.60% | ~5 |
+| Fleet Admiral | 0.70% | ~6 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866 (Ranked 212)  
+Progressed: 868 (Ranked 212)  
 Completed: 1 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 1 (0.12%) (Ranked 210)
 | 2023-09-04 | 861 | 1 |
 | 2023-09-05 | 863 | 1 |
 | 2023-09-06 | 865 | 1 |
-| 2023-09-07 | 866 | 1 |
+| 2023-09-07 | 868 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

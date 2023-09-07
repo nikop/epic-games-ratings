@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -11469,18 +11469,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 206654,
       "NumberOfAwardsMax": 77619
+    },
+    {
+      "Time": "2023-09-07T13:04:55.7834524+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 206761,
+      "NumberOfAwardsMax": 77726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 206654,
-  "NumberOfAwardsMax": 77619,
+  "NumberOfAwards": 206761,
+  "NumberOfAwardsMax": 77726,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 77619
+      "Count": 77726
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -11549,10 +11555,10 @@
       "Count": 5825
     }
   ],
-  "EOS_Progressed": 874984,
-  "EOS_Completed": 2066,
-  "EOS_NewPlayers": 1293,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 874986,
+  "EOS_Completed": 2067,
+  "EOS_NewPlayers": 1282,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -27144,6 +27150,11 @@
       "Time": "2023-09-07T12:05:49.1559826+00:00",
       "NumProgressed": 874984,
       "NumCompleted": 2066
+    },
+    {
+      "Time": "2023-09-07T13:10:32.5290067+00:00",
+      "NumProgressed": 874986,
+      "NumCompleted": 2067
     }
   ],
   "TotalAchievements": 44,
@@ -27171,7 +27182,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 148747
+      "UsersEstimate": 148748
     },
     {
       "ID": "Cyberjunkie",
@@ -27187,7 +27198,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 341244
+      "UsersEstimate": 341245
     },
     {
       "ID": "FollowingTheRiver",
@@ -27203,7 +27214,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 87498
+      "UsersEstimate": 87499
     },
     {
       "ID": "Gearhead",
@@ -27275,7 +27286,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 201246
+      "UsersEstimate": 201247
     },
     {
       "ID": "MaxPain",
@@ -27283,7 +27294,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 87498
+      "UsersEstimate": 87499
     },
     {
       "ID": "MustBeTheRats",
@@ -27331,7 +27342,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 253745
+      "UsersEstimate": 253746
     },
     {
       "ID": "Specialist",
@@ -27371,7 +27382,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 603739
+      "UsersEstimate": 603740
     },
     {
       "ID": "TheHermit",
@@ -27387,7 +27398,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 192496
+      "UsersEstimate": 192497
     },
     {
       "ID": "TheLovers",
@@ -27395,7 +27406,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 306244
+      "UsersEstimate": 306245
     },
     {
       "ID": "TheStar",
@@ -27451,7 +27462,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 201246
+      "UsersEstimate": 201247
     },
     {
       "ID": "TrueWarrior",
@@ -27499,28 +27510,28 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 192496
+      "UsersEstimate": 192497
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 874984,
-      "Completed": 2066
+      "Progressed": 874986,
+      "Completed": 2067
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 3607,
-      "Completed": 3607
+      "Progressed": 3609,
+      "Completed": 3609
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-07T12:00:08.5654591+00:00",
-  "LastChanged_Achievements": "2023-09-07T12:05:49.1559821+00:00",
+  "LastChanged": "2023-09-07T13:04:55.7834522+00:00",
+  "LastChanged_Achievements": "2023-09-07T13:10:32.5290058+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.2017845+00:00",
-  "LastUpdate_Ratings": "2023-09-07T12:00:08.5654598+00:00",
-  "LastUpdate_Achievements": "2023-09-07T12:05:49.1561031+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:04:55.783453+00:00",
+  "LastUpdate_Achievements": "2023-09-07T13:10:32.5481072+00:00"
 }

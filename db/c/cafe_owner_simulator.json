@@ -4,8 +4,8 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 965,
+  "EOS_Progressed": 966,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2933,6 +2933,11 @@
       "Time": "2023-09-06T16:06:42.5088995+00:00",
       "NumProgressed": 965,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T13:11:26.1259005+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -2944,7 +2949,7 @@
       "Name": "ADVANCED",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -2952,7 +2957,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "CHIEF",
@@ -2968,7 +2973,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "DEBTOR",
@@ -2976,7 +2981,7 @@
       "Name": "DEBTOR",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "FIREFIGHTER",
@@ -2984,7 +2989,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "FIRST_100K",
@@ -3016,7 +3021,7 @@
       "Name": "INTRODUCTION",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "SECOND_FLOOR",
@@ -3055,7 +3060,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 965,
+      "Progressed": 966,
       "Completed": 0
     }
   ],
@@ -3063,8 +3068,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-09-07T12:06:33.1044272+00:00",
+  "LastChanged_Achievements": "2023-09-07T13:11:26.1258997+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:22.0797179+00:00",
-  "LastUpdate_Ratings": "2023-09-07T12:02:25.1099659+00:00",
-  "LastUpdate_Achievements": "2023-09-07T12:06:33.1044584+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:07:23.3043479+00:00",
+  "LastUpdate_Achievements": "2023-09-07T13:11:26.1259517+00:00"
 }

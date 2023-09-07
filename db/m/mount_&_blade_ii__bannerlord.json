@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6877,10 +6877,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14318,
       "NumberOfAwardsMax": 7036
+    },
+    {
+      "Time": "2023-09-07T13:07:41.649748+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14321,
+      "NumberOfAwardsMax": 7036
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14318,
+  "NumberOfAwards": 14321,
   "NumberOfAwardsMax": 7036,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6912,7 +6918,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 942
+      "Count": 944
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6942,7 +6948,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 796
+      "Count": 797
     },
     {
       "Text": "This game has a Creative Community",
@@ -6957,9 +6963,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60498,
+  "EOS_Progressed": 60501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21762,6 +21768,11 @@
       "Time": "2023-09-07T12:04:37.6619463+00:00",
       "NumProgressed": 60498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T13:09:31.7476613+00:00",
+      "NumProgressed": 60501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21797,7 +21808,7 @@
       "Name": "Best served cold",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Butcher of Calradia",
@@ -21805,7 +21816,7 @@
       "Name": "Butcher of Calradia",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Butterlord",
@@ -21877,7 +21888,7 @@
       "Name": "Explorer",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Fat Cat",
@@ -21885,7 +21896,7 @@
       "Name": "Fat Cat",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "Freedom",
@@ -21917,7 +21928,7 @@
       "Name": "Headhunter",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Heartbreaker",
@@ -21925,7 +21936,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Horde breaker",
@@ -21973,7 +21984,7 @@
       "Name": "Kingslayer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Know your enemy",
@@ -21989,7 +22000,7 @@
       "Name": "Lance-a-lot",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Landlord",
@@ -21997,7 +22008,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19359
+      "UsersEstimate": 19360
     },
     {
       "ID": "Lawbringer",
@@ -22005,7 +22016,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 22989
+      "UsersEstimate": 22990
     },
     {
       "ID": "Lawmaker",
@@ -22037,7 +22048,7 @@
       "Name": "Minor Clan",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Mounted Archery",
@@ -22045,7 +22056,7 @@
       "Name": "Mounted Archery",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "My way",
@@ -22077,7 +22088,7 @@
       "Name": "Roadkill",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Shish Kebab",
@@ -22093,7 +22104,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "Strike",
@@ -22141,7 +22152,7 @@
       "Name": "This is Sparta!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Trained",
@@ -22180,15 +22191,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60498,
+      "Progressed": 60501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-06T19:02:47.1778897+00:00",
-  "LastChanged_Achievements": "2023-09-07T12:04:37.6619453+00:00",
+  "LastChanged": "2023-09-07T13:07:41.6497478+00:00",
+  "LastChanged_Achievements": "2023-09-07T13:09:31.7476606+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-07T12:02:44.9941922+00:00",
-  "LastUpdate_Achievements": "2023-09-07T12:04:37.6620884+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:07:41.6497486+00:00",
+  "LastUpdate_Achievements": "2023-09-07T13:09:31.7478635+00:00"
 }

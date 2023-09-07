@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 719,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1205,9 +1205,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 503
     },
     {
       "ID": "AC03",
@@ -1237,9 +1237,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 388
     },
     {
       "ID": "AC07",
@@ -1261,9 +1261,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 324
+      "UsersEstimate": 331
     },
     {
       "ID": "AC10",
@@ -1277,9 +1277,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 230
     },
     {
       "ID": "AC12",
@@ -1349,9 +1349,9 @@
       "ID": "AC20",
       "SetID": "l4abp0",
       "Name": "Still Among Us",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 101
     },
     {
       "ID": "AC21",
@@ -1566,8 +1566,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-07T02:58:07.8091825+00:00",
-  "LastChanged_Achievements": "2023-09-07T12:04:08.3940753+00:00",
+  "LastChanged_Achievements": "2023-09-07T13:08:42.2877653+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-07T11:58:22.3665589+00:00",
-  "LastUpdate_Achievements": "2023-09-07T12:04:08.3941491+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:03:05.2225292+00:00",
+  "LastUpdate_Achievements": "2023-09-07T13:08:42.2878333+00:00"
 }

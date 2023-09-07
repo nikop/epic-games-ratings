@@ -8,7 +8,7 @@
 | You're the Expert! | 32.00% | ~184 |
 | Home Cook | 30.00% | ~173 |
 | So Clean You Can Eat Off the Floor | 19.00% | ~109 |
-| French Flair | 17.00% | ~98 |
+| French Flair | 18.00% | ~104 |
 | S is for Scrumptious | 17.00% | ~98 |
 | Next Level Cuisine | 11.00% | ~63 |
 | Haute Cuisine | 9.00% | ~52 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -2536,9 +2536,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 104
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -2817,8 +2817,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-07T12:03:26.9241024+00:00",
+  "LastChanged_Achievements": "2023-09-07T13:08:20.9326636+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:08.5970121+00:00",
-  "LastUpdate_Ratings": "2023-09-07T12:00:51.0405925+00:00",
-  "LastUpdate_Achievements": "2023-09-07T12:03:26.924147+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:05:42.043102+00:00",
+  "LastUpdate_Achievements": "2023-09-07T13:08:20.9327177+00:00"
 }

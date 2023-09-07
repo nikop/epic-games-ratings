@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 40.00% | ~35 |
-| Treasure Hunting | 38.00% | ~33 |
+| Might be useful… | 39.00% | ~35 |
+| Treasure Hunting | 37.00% | ~33 |
 | Friend! | 33.00% | ~29 |
 | Shine! | 33.00% | ~29 |
-| Uncut Gem | 32.00% | ~28 |
+| Uncut Gem | 31.00% | ~28 |
 | Clear as Water | 28.00% | ~25 |
 | Setting Off | 27.00% | ~24 |
 | Card Collector | 27.00% | ~24 |
 | Riddlesolver | 24.00% | ~21 |
-| Dungeon Mastery | 22.00% | ~19 |
+| Dungeon Mastery | 21.00% | ~19 |
 | The Steed | 11.00% | ~10 |
 | A Strange Proposition | 11.00% | ~10 |
 | Card Completionist | 10.00% | ~9 |
@@ -24,10 +24,10 @@
 | Oracle Mastery | 7.00% | ~6 |
 | No Stone Unturned | 7.00% | ~6 |
 | The Plot Thickens | 6.00% | ~5 |
-| Ancient Nemesis | 5.00% | ~4 |
-| Raider Mastery | 5.00% | ~4 |
-| Traveler Mastery | 5.00% | ~4 |
-| Warden Mastery | 5.00% | ~4 |
+| Ancient Nemesis | 4.00% | ~4 |
+| Raider Mastery | 4.00% | ~4 |
+| Traveler Mastery | 4.00% | ~4 |
+| Warden Mastery | 4.00% | ~4 |
 | The False Prophet | 3.00% | ~3 |
 | Sealed Once Again | 3.00% | ~3 |
 | ACHOO! | 3.00% | ~3 |
@@ -45,7 +45,7 @@
 | Gladiator | 1.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 353)  
+Progressed: 89 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-20 | 86 | 0 |
 | 2023-08-23 | 87 | 0 |
 | 2023-09-01 | 88 | 0 |
+| 2023-09-07 | 89 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

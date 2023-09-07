@@ -2,10 +2,10 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 88,
+  "Ranking_Rating": 83,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 229,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 31,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.8,
   "RatingHistory": [
     {
       "Time": "2023-09-02T15:58:27.8231569+00:00",
@@ -44,15 +44,21 @@
       "Rating": 4.79,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-07T13:05:15.5809934+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 608,
+  "EOS_Progressed": 609,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.3,
   "EosHistory": [
@@ -1515,6 +1521,11 @@
       "Time": "2023-09-06T14:09:01.9370095+00:00",
       "NumProgressed": 608,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-07T13:13:25.71925+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1543,7 +1554,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1591,7 +1602,7 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "_10_Completion_30",
@@ -1607,7 +1618,7 @@
       "Name": "Seadog",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "_12_Completion_50",
@@ -1655,7 +1666,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1734,16 +1745,16 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 608,
+      "Progressed": 609,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
-  "LastChanged": "2023-09-06T13:05:19.6033988+00:00",
-  "LastChanged_Achievements": "2023-09-07T12:08:36.3900011+00:00",
+  "LastChanged": "2023-09-07T13:05:15.5809933+00:00",
+  "LastChanged_Achievements": "2023-09-07T13:13:25.7192492+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-07T12:00:25.7566354+00:00",
-  "LastUpdate_Achievements": "2023-09-07T12:08:36.3900306+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:05:15.5809941+00:00",
+  "LastUpdate_Achievements": "2023-09-07T13:13:25.719297+00:00"
 }

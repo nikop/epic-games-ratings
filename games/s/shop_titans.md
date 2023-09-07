@@ -67,6 +67,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.40% | ~543 |
 | Wealth Beyond Measure | 0.40% | ~543 |
 | Fat Cat Tag Team | 0.40% | ~543 |
+| Master Merchant | 0.40% | ~543 |
 | Miracle Alchemist | 0.40% | ~543 |
 | Laden with Loot | 0.40% | ~543 |
 | Seasoned Journeyman | 0.40% | ~543 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.30% | ~407 |
 | Jackpot! | 0.30% | ~407 |
 | Item of Renown | 0.30% | ~407 |
-| Master Merchant | 0.30% | ~407 |
 | Bountiful Harvest | 0.30% | ~407 |
 | Precision Engineering | 0.30% | ~407 |
 | Glittering Collection | 0.30% | ~407 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,782 (Ranked 67)  
+Progressed: 135,783 (Ranked 67)  
 Completed: 146 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 146 (0.11%) (Ranked 215)
 | 2023-09-04 | 135,661 | 142 |
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
-| 2023-09-07 | 135,782 | 146 |
+| 2023-09-07 | 135,783 | 146 |
 ## Awards
 Max (Great for Beginners): 4,727  (Ranked 70)  
 Sum: 27,184 (Ranked 48)  

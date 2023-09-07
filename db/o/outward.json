@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3339,
+  "EOS_Progressed": 3340,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4247,6 +4247,11 @@
       "Time": "2023-09-06T05:03:17.7613373+00:00",
       "NumProgressed": 3339,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-07T13:08:02.6309621+00:00",
+      "NumProgressed": 3340,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4298,7 +4303,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "CrowdPleaser",
@@ -4322,7 +4327,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4442,7 +4447,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4450,7 +4455,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4458,7 +4463,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -4482,7 +4487,7 @@
       "Name": "Tapped!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -4593,15 +4598,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3339,
+      "Progressed": 3340,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-08-16T21:59:07.0719809+00:00",
-  "LastChanged_Achievements": "2023-09-07T11:03:31.7785907+00:00",
+  "LastChanged_Achievements": "2023-09-07T13:08:02.6309595+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.2608356+00:00",
-  "LastUpdate_Ratings": "2023-09-07T12:00:11.9217667+00:00",
-  "LastUpdate_Achievements": "2023-09-07T11:03:31.7786663+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:04:57.8446991+00:00",
+  "LastUpdate_Achievements": "2023-09-07T13:08:02.6311457+00:00"
 }

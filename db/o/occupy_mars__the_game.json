@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1582,
+  "EOS_Progressed": 1583,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -3553,6 +3553,11 @@
       "Time": "2023-09-07T07:05:58.809678+00:00",
       "NumProgressed": 1582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T13:11:52.5843922+00:00",
+      "NumProgressed": 1583,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3684,7 +3689,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3836,7 +3841,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3947,7 +3952,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1582,
+      "Progressed": 1583,
       "Completed": 0
     }
   ],
@@ -3955,8 +3960,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-02T18:57:16.3901403+00:00",
-  "LastChanged_Achievements": "2023-09-07T12:07:10.2044349+00:00",
+  "LastChanged_Achievements": "2023-09-07T13:11:52.5843915+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:41.057899+00:00",
-  "LastUpdate_Ratings": "2023-09-07T11:59:02.2882203+00:00",
-  "LastUpdate_Achievements": "2023-09-07T12:07:10.2044949+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:03:41.8850597+00:00",
+  "LastUpdate_Achievements": "2023-09-07T13:11:52.584502+00:00"
 }

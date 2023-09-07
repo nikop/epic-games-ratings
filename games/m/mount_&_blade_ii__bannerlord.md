@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~22,989 |
-| Landlord | 32.00% | ~19,359 |
+| Lawbringer | 38.00% | ~22,990 |
+| Landlord | 32.00% | ~19,360 |
 | Bannerlord | 23.00% | ~13,915 |
 | Horde breaker | 23.00% | ~13,915 |
 | Lawmaker | 23.00% | ~13,915 |
@@ -38,27 +38,27 @@ Number of Ratings: 5,603  (23.09.2022)
 | Supreme Emperor | 1.00% | ~605 |
 | Crackshot | 0.80% | ~484 |
 | Undercover | 0.80% | ~484 |
-| Fat Cat | 0.70% | ~423 |
+| Fat Cat | 0.70% | ~424 |
 | Catch | 0.60% | ~363 |
-| Slice 'n dice | 0.50% | ~302 |
+| Slice 'n dice | 0.50% | ~303 |
 | Ride it like you stole it | 0.40% | ~242 |
-| Mounted Archery | 0.30% | ~181 |
+| Mounted Archery | 0.30% | ~182 |
 | Great Granny | 0.20% | ~121 |
 | Strike! | 0.20% | ~121 |
-| Best served cold | 0.10% | ~60 |
-| Butcher of Calradia | 0.10% | ~60 |
-| Explorer | 0.10% | ~60 |
-| Headhunter | 0.10% | ~60 |
-| Heartbreaker | 0.10% | ~60 |
-| Kingslayer | 0.10% | ~60 |
-| Lance-a-lot | 0.10% | ~60 |
-| Minor Clan | 0.10% | ~60 |
-| Roadkill | 0.10% | ~60 |
-| This is Sparta! | 0.10% | ~60 |
+| Best served cold | 0.10% | ~61 |
+| Butcher of Calradia | 0.10% | ~61 |
+| Explorer | 0.10% | ~61 |
+| Headhunter | 0.10% | ~61 |
+| Heartbreaker | 0.10% | ~61 |
+| Kingslayer | 0.10% | ~61 |
+| Lance-a-lot | 0.10% | ~61 |
+| Minor Clan | 0.10% | ~61 |
+| Roadkill | 0.10% | ~61 |
+| This is Sparta! | 0.10% | ~61 |
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,498 (Ranked 88)  
+Progressed: 60,501 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,20 +198,20 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-04 | 60,348 | 0 |
 | 2023-09-05 | 60,403 | 0 |
 | 2023-09-06 | 60,462 | 0 |
-| 2023-09-07 | 60,498 | 0 |
+| 2023-09-07 | 60,501 | 0 |
 ## Awards
 Max (Character Customization): 7,036  (Ranked 50)  
-Sum: 14,318 (Ranked 70)  
+Sum: 14,321 (Ranked 70)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,036 |
-| This game is Great for Beginners | 942 |
+| This game is Great for Beginners | 944 |
 | This game has Diverse Characters | 909 |
 | This game is Highly Recommended | 853 |
 | This game is Extremely Fun | 820 |
 | This game has Amazing Storytelling | 809 |
-| This game is Relaxing | 796 |
+| This game is Relaxing | 797 |
 | This game has Quickly Understood Controls | 788 |
 | This game has Amazing Characters | 786 |
 | This game has a Creative Community | 579 |
@@ -455,3 +455,4 @@ Diff (max vs sum): -20
 | 2023-09-04 | 4.74 | - | 7,018 | 14,283 |
 | 2023-09-05 | 4.74 | - | 7,029 | 14,301 |
 | 2023-09-06 | 4.74 | - | 7,036 | 14,318 |
+| 2023-09-07 | 4.74 | - | 7,036 | 14,321 |

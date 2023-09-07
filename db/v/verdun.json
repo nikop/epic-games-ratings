@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1718,7 +1718,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 57424,
+  "EOS_Progressed": 57425,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 631,
   "EOS_NewCompleters": 0,
@@ -16988,6 +16988,11 @@
       "Time": "2023-09-07T12:03:11.677622+00:00",
       "NumProgressed": 57424,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-07T13:08:05.7818632+00:00",
+      "NumProgressed": 57425,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -16999,7 +17004,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 31583
+      "UsersEstimate": 31584
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -17231,7 +17236,7 @@
       "Name": "Headhunter I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 15504
+      "UsersEstimate": 15505
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -17287,7 +17292,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 36177
+      "UsersEstimate": 36178
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -17367,7 +17372,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 44791
+      "UsersEstimate": 44792
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -17470,15 +17475,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 57424,
+      "Progressed": 57425,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-05T18:00:17.1389559+00:00",
-  "LastChanged_Achievements": "2023-09-07T12:03:11.6776215+00:00",
+  "LastChanged_Achievements": "2023-09-07T13:08:05.7818624+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:08.9394313+00:00",
-  "LastUpdate_Ratings": "2023-09-07T12:00:50.8907679+00:00",
-  "LastUpdate_Achievements": "2023-09-07T12:03:11.6777777+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:05:41.9672374+00:00",
+  "LastUpdate_Achievements": "2023-09-07T13:08:05.7821962+00:00"
 }

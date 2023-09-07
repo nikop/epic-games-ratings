@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~62,123 |
+| Sowwy! | 28.00% | ~62,127 |
 | Alt+F4 | 4.00% | ~8,875 |
 | Déjà vu | 3.00% | ~6,656 |
 | Where's that freaking Dwarf? | 3.00% | ~6,656 |
 | Sock! SOCK! | 3.00% | ~6,656 |
-| A beer, two curses, three companions | 2.00% | ~4,437 |
-| GG EZ | 2.00% | ~4,437 |
-| DM intervention | 2.00% | ~4,437 |
-| Speedrun | 2.00% | ~4,437 |
-| Fireproof Wizardess | 2.00% | ~4,437 |
+| A beer, two curses, three companions | 2.00% | ~4,438 |
+| GG EZ | 2.00% | ~4,438 |
+| DM intervention | 2.00% | ~4,438 |
+| Speedrun | 2.00% | ~4,438 |
+| Fireproof Wizardess | 2.00% | ~4,438 |
 | Livin' in a dwarven paradise | 1.00% | ~2,219 |
 | Way of the Wimp | 1.00% | ~2,219 |
 | The plot thickens... At the tavern | 1.00% | ~2,219 |
@@ -44,8 +44,8 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 0.60% | ~1,331 |
 | Dead for good | 0.50% | ~1,109 |
 | Gargantua | 0.50% | ~1,109 |
-| In Navalu's footsteps | 0.40% | ~887 |
-| Lëgal Legend | 0.40% | ~887 |
+| In Navalu's footsteps | 0.40% | ~888 |
+| Lëgal Legend | 0.40% | ~888 |
 | Holistic Adventuring Party | 0.30% | ~666 |
 | An old poacher makes the best gamekeeper | 0.30% | ~666 |
 | We come in peace | 0.30% | ~666 |
@@ -53,6 +53,7 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 0.20% | ~444 |
 | Friendly fire | 0.20% | ~444 |
 | I'd rather... Just... Sing! | 0.20% | ~444 |
+| Inception | 0.20% | ~444 |
 | It's been a hard day's night | 0.20% | ~444 |
 | Cursed die | 0.10% | ~222 |
 | The number of the counting shalt be 7 | 0.10% | ~222 |
@@ -89,13 +90,12 @@ Number of Ratings: 118  (23.09.2022)
 | Death is for wimps | 0.10% | ~222 |
 | Super-Ultra-Lydian | 0.10% | ~222 |
 | Lord of the Drunks | 0.10% | ~222 |
-| Inception | 0.10% | ~222 |
 | Demisemiquaver | 0.10% | ~222 |
 | Dumb and dumber | 0.10% | ~222 |
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,869 (Ranked 57)  
+Progressed: 221,883 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-04 | 221,298 | 2 |
 | 2023-09-05 | 221,553 | 2 |
 | 2023-09-06 | 221,774 | 2 |
-| 2023-09-07 | 221,869 | 2 |
+| 2023-09-07 | 221,883 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

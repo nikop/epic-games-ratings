@@ -15,8 +15,8 @@ Rating: 4.67 (Ranked 259)
 | Thorston Mayer | 12.00% | ~1,219 |
 | Bottoms up! | 10.00% | ~1,016 |
 | Data Logger | 5.00% | ~508 |
+| Data Master | 5.00% | ~508 |
 | Data Recoverer | 5.00% | ~508 |
-| Data Master | 4.00% | ~406 |
 | Debris Spree | 3.00% | ~305 |
 | Urshanabi Hoarder | 2.00% | ~203 |
 | The Pit and the Pirates | 2.00% | ~203 |
