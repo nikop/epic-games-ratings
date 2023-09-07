@@ -15,7 +15,7 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 16 | [Island Cities](games/i/island_cities.md) | 17.85% |
+| 16 | [Island Cities](games/i/island_cities.md) | 17.81% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 13.33% |
@@ -118,8 +118,8 @@
 | 116 | [Trifox](games/t/trifox.md) | 1.10% |
 | 117 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 118 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
-| 118 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.04% |
-| 120 | [Adios](games/a/adios.md) | 1.03% |
+| 119 | [Adios](games/a/adios.md) | 1.03% |
+| 119 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.03% |
 | 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.02% |
 | 122 | [Sable](games/s/sable.md) | 1.00% |
 | 122 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.00% |
@@ -137,7 +137,7 @@
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 137 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.65% |
+| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.64% |
 | 139 | [Haven](games/h/haven.md) | 0.63% |
 | 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
 | 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
@@ -273,6 +273,7 @@
 | 271 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 0.00% |
 | 271 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 0.00% |
 | 271 | [12 orbits](games/1/12_orbits.md) | 0.00% |
+| 271 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.00% |
 | 271 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 0.00% |
 | 271 | [Ad Infinitum](games/a/ad_infinitum.md) | 0.00% |
 | 271 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 0.00% |
@@ -576,4 +577,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,197 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,199 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

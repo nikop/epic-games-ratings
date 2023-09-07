@@ -47,6 +47,7 @@
 | [12 orbits](../games/1/12_orbits.md) | 25 | 1,000 |
 | [60 Parsecs!](../games/6/60_parsecs!.md) | 44 | 1,000 |
 | [60 Seconds! Reatomized](../games/6/60_seconds!_reatomized.md) | 60 | 1,000 |
+| [911 Operator](../games/d/d923c737f0d243ccab407605ea40d39e.md) | 18 | 1,000 |
 | [A Game Of Thrones: The Board Game Digital Edition](../games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 22 | 1,000 |
 | [A Musical Story](../games/a/a_musical_story.md) | 54 | 1,000 |
 | [A Plague Tale: Requiem](../games/a/a_plague_tale__requiem.md) | 35 | 1,000 |
