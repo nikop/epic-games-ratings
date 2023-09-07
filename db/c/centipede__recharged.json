@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16937,
+  "EOS_Progressed": 16938,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -11052,6 +11052,11 @@
       "Time": "2023-09-07T06:05:14.407052+00:00",
       "NumProgressed": 16937,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-07T07:04:51.6300776+00:00",
+      "NumProgressed": 16938,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -11071,7 +11076,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4742
+      "UsersEstimate": 4743
     },
     {
       "ID": "Deadline",
@@ -11087,7 +11092,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "Eyes_On_Fire",
@@ -11111,7 +11116,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5589
+      "UsersEstimate": 5590
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -11190,15 +11195,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16937,
+      "Progressed": 16938,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-07T06:05:14.4070515+00:00",
+  "LastChanged_Achievements": "2023-09-07T07:04:51.6300771+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.9189104+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:00:50.3123762+00:00",
-  "LastUpdate_Achievements": "2023-09-07T06:05:14.4071314+00:00"
+  "LastUpdate_Ratings": "2023-09-07T07:00:12.4178275+00:00",
+  "LastUpdate_Achievements": "2023-09-07T07:04:51.6301402+00:00"
 }

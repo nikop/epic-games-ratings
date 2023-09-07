@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526836,
+  "EOS_Progressed": 526837,
   "EOS_Completed": 470,
   "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 3,
@@ -15379,6 +15379,11 @@
       "Time": "2023-09-07T06:05:16.8309799+00:00",
       "NumProgressed": 526836,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-07T07:04:53.7290854+00:00",
+      "NumProgressed": 526837,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 57,
@@ -15390,7 +15395,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 121172
+      "UsersEstimate": 121173
     },
     {
       "ID": "10",
@@ -15398,7 +15403,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237076
+      "UsersEstimate": 237077
     },
     {
       "ID": "11",
@@ -15406,7 +15411,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368785
+      "UsersEstimate": 368786
     },
     {
       "ID": "12",
@@ -15462,7 +15467,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79025
+      "UsersEstimate": 79026
     },
     {
       "ID": "19",
@@ -15470,7 +15475,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326638
+      "UsersEstimate": 326639
     },
     {
       "ID": "2",
@@ -15646,7 +15651,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179124
+      "UsersEstimate": 179125
     },
     {
       "ID": "4",
@@ -15718,7 +15723,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326638
+      "UsersEstimate": 326639
     },
     {
       "ID": "48",
@@ -15734,7 +15739,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179124
+      "UsersEstimate": 179125
     },
     {
       "ID": "5",
@@ -15774,7 +15779,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121172
+      "UsersEstimate": 121173
     },
     {
       "ID": "54",
@@ -15845,15 +15850,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526836,
+      "Progressed": 526837,
       "Completed": 470
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-07T06:05:16.8309791+00:00",
+  "LastChanged_Achievements": "2023-09-07T07:04:53.729085+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.8959885+00:00",
-  "LastUpdate_Ratings": "2023-09-07T05:58:58.4244074+00:00",
-  "LastUpdate_Achievements": "2023-09-07T06:05:16.8311324+00:00"
+  "LastUpdate_Ratings": "2023-09-07T06:58:36.8438865+00:00",
+  "LastUpdate_Achievements": "2023-09-07T07:04:53.7292018+00:00"
 }

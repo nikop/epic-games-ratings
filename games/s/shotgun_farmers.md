@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 78.00% | ~220 |
 | First Blood | 60.00% | ~169 |
+| Triple Kill | 60.00% | ~169 |
 | Aspairagus | 60.00% | ~139 |
-| Triple Kill | 59.00% | ~166 |
 | No Asperascope | 56.00% | ~158 |
 | Survivor | 56.00% | ~130 |
 | Cornivore | 53.00% | ~149 |
@@ -19,9 +19,9 @@
 | Bouncemato | 30.00% | ~70 |
 | 15K | 28.00% | ~79 |
 | Quick-Draw Pod | 23.00% | ~53 |
+| Grave Digger | 23.00% | ~53 |
 | Drinking Problem | 22.00% | ~62 |
 | Professional Survivor | 22.00% | ~51 |
-| Grave Digger | 22.00% | ~51 |
 | Pork Chop Express | 18.00% | ~51 |
 | Skin Of Your Teeth | 16.00% | ~45 |
 | Carrocketeer | 16.00% | ~45 |

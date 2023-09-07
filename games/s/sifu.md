@@ -27,12 +27,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~14,265 |
 | Take damage to save time | 2.00% | ~14,265 |
 | Bloody Sport | 2.00% | ~451 |
-| Scareless | 1.00% | ~7,132 |
-| Dance of the Praying Mantis | 1.00% | ~7,132 |
-| Qi Gong: Mind | 1.00% | ~7,132 |
-| I know Kung-Fu | 1.00% | ~7,132 |
-| Kung-Fu Tussle | 1.00% | ~7,132 |
-| The best strikes are the ones we avoid | 1.00% | ~225 |
+| Scareless | 1.00% | ~7,133 |
+| Dance of the Praying Mantis | 1.00% | ~7,133 |
+| Qi Gong: Mind | 1.00% | ~7,133 |
+| I know Kung-Fu | 1.00% | ~7,133 |
+| Kung-Fu Tussle | 1.00% | ~7,133 |
+| The best strikes are the ones we avoid | 1.00% | ~226 |
 | Muk Yan Master | 0.90% | ~6,419 |
 | Tiger on Fire | 0.80% | ~5,706 |
 | Source of Flying Daggers | 0.80% | ~5,706 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.70% | ~4,993 |
 | The 36th Chamber of Kung-Fu | 0.70% | ~4,993 |
 | Sword Stained With Blood | 0.70% | ~4,993 |
-| Prodigal Child | 0.60% | ~4,279 |
+| Prodigal Child | 0.60% | ~4,280 |
 | Martial Hub | 0.50% | ~113 |
 | Secure, Protect, Leave | 0.50% | ~113 |
 | Drunken Fighter | 0.40% | ~2,853 |
@@ -54,10 +54,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.40% | ~2,853 |
 | Come Snap With Me | 0.40% | ~2,853 |
 | Healing Memory | 0.30% | ~2,140 |
-| Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
+| Ferocity, speed, strength, accuracy | 0.20% | ~1,427 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,242 (Ranked 20)  
+Progressed: 713,251 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
-| 2023-09-07 | 713,242 | 12,887 |
+| 2023-09-07 | 713,251 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,440  (Ranked 53)  
 Sum: 11,081 (Ranked 80)  

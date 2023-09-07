@@ -5,23 +5,23 @@ Rating: 4.40 (Ranked 712)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~92,998 |
-| 74 miles East of Otaheité | 55.00% | ~64,745 |
-| Interesting... | 42.00% | ~49,442 |
-| The Everhart Expedition | 39.00% | ~45,910 |
+| A Family Heirloom | 79.00% | ~93,000 |
+| 74 miles East of Otaheité | 55.00% | ~64,747 |
+| Interesting... | 42.00% | ~49,443 |
+| The Everhart Expedition | 39.00% | ~45,911 |
 | The Vanishing of the Lady Shannon | 30.00% | ~35,316 |
 | Seaside Serenade | 30.00% | ~35,316 |
 | Halfway there | 29.00% | ~34,139 |
-| A brigantine, a brig and a barque | 28.00% | ~32,961 |
-| 506 East Hampden Avenue | 28.00% | ~32,961 |
-| Weekend at Walakea's | 27.00% | ~31,784 |
-| Quite a Show | 27.00% | ~31,784 |
+| A brigantine, a brig and a barque | 28.00% | ~32,962 |
+| 506 East Hampden Avenue | 28.00% | ~32,962 |
+| Weekend at Walakea's | 27.00% | ~31,785 |
+| Quite a Show | 27.00% | ~31,785 |
 | Dark Water Ride | 24.00% | ~28,253 |
 | Sunken | 24.00% | ~28,253 |
 | Deep Cut | 24.00% | ~28,253 |
-| FHALGOF'N' | 22.00% | ~25,898 |
+| FHALGOF'N' | 22.00% | ~25,899 |
 | Marsh Cannery | 21.00% | ~24,721 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~20,012 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~20,013 |
 | The only thing I have now | 16.00% | ~18,835 |
 | Not Another Boring Slideshow! | 15.00% | ~17,658 |
 | Naacalvision | 15.00% | ~17,658 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 712)
 | Gently down the stream... | 1.00% | ~1,177 |
 | Meta-reference | 1.00% | ~1,177 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,719 (Ranked 70)  
+Progressed: 117,721 (Ranked 70)  
 Completed: 952 (0.81%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 952 (0.81%) (Ranked 130)
 | 2023-09-04 | 117,353 | 949 |
 | 2023-09-05 | 117,538 | 951 |
 | 2023-09-06 | 117,671 | 952 |
-| 2023-09-07 | 117,719 | 952 |
+| 2023-09-07 | 117,721 | 952 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

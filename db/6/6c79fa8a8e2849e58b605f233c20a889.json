@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2462,
+  "EOS_Progressed": 2463,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5521,6 +5521,11 @@
       "Time": "2023-09-07T01:44:14.5861581+00:00",
       "NumProgressed": 2462,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T07:03:15.3157783+00:00",
+      "NumProgressed": 2463,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5548,7 +5553,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "CLUMSY",
@@ -5612,7 +5617,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "GLOVE_SLAP",
@@ -5636,7 +5641,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "GUARD_MAKER",
@@ -5707,14 +5712,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2462,
+      "Progressed": 2463,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-07T06:02:11.4401248+00:00",
+  "LastChanged_Achievements": "2023-09-07T07:03:15.3157779+00:00",
   "LastUpdate_AppInfo": "2023-09-05T23:57:21.8504773+00:00",
-  "LastUpdate_Ratings": "2023-09-07T05:58:25.9244731+00:00",
-  "LastUpdate_Achievements": "2023-09-07T06:02:11.4402249+00:00"
+  "LastUpdate_Ratings": "2023-09-07T06:58:10.0381273+00:00",
+  "LastUpdate_Achievements": "2023-09-07T07:03:15.3158267+00:00"
 }

@@ -2010,9 +2010,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25647,
+  "EOS_Progressed": 25648,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12275,6 +12275,11 @@
       "Time": "2023-09-07T03:07:31.6503553+00:00",
       "NumProgressed": 25647,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-07T07:06:18.6920292+00:00",
+      "NumProgressed": 25648,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -12286,7 +12291,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18722
+      "UsersEstimate": 18723
     },
     {
       "ID": "Animated",
@@ -12302,7 +12307,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8976
+      "UsersEstimate": 8977
     },
     {
       "ID": "Best_Insurance",
@@ -12326,7 +12331,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10515
+      "UsersEstimate": 10516
     },
     {
       "ID": "Collect_Spores",
@@ -12348,9 +12353,9 @@
       "ID": "Cultured",
       "SetID": "819popo",
       "Name": "Cultured",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 13080
+      "UsersEstimate": 12824
     },
     {
       "ID": "Daily_Dose",
@@ -12422,7 +12427,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13849
+      "UsersEstimate": 13850
     },
     {
       "ID": "GB_In_Training",
@@ -12566,7 +12571,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6155
+      "UsersEstimate": 6156
     },
     {
       "ID": "Solo_Capture",
@@ -12590,7 +12595,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22056
+      "UsersEstimate": 22057
     },
     {
       "ID": "Summoner",
@@ -12622,7 +12627,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 11028
+      "UsersEstimate": 11029
     },
     {
       "ID": "Terrifying",
@@ -12654,7 +12659,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4616
+      "UsersEstimate": 4617
     },
     {
       "ID": "Ultimate_Defense",
@@ -12693,7 +12698,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25647,
+      "Progressed": 25648,
       "Completed": 54
     }
   ],
@@ -12701,8 +12706,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-07T05:01:03.9290504+00:00",
-  "LastChanged_Achievements": "2023-09-07T06:06:57.0723405+00:00",
+  "LastChanged_Achievements": "2023-09-07T07:06:18.6920286+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:00:33.999961+00:00",
-  "LastUpdate_Achievements": "2023-09-07T06:06:57.0724555+00:00"
+  "LastUpdate_Ratings": "2023-09-07T07:00:00.2711077+00:00",
+  "LastUpdate_Achievements": "2023-09-07T07:06:18.6921137+00:00"
 }

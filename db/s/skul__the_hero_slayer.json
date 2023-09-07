@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8161,
+  "EOS_Progressed": 8162,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4560,6 +4560,11 @@
       "Time": "2023-09-07T06:05:21.0500653+00:00",
       "NumProgressed": 8161,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-07T07:04:57.334898+00:00",
+      "NumProgressed": 8162,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4595,7 +4600,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4627,7 +4632,7 @@
       "Name": "Deadly Power",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -4635,7 +4640,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -4699,7 +4704,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4707,7 +4712,7 @@
       "Name": "Quick Movements",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "SkeletonKing",
@@ -4723,7 +4728,7 @@
       "Name": "Inventory Management",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "TheLegendBegins",
@@ -4731,7 +4736,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7590
+      "UsersEstimate": 7591
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4755,22 +4760,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6855
+      "UsersEstimate": 6856
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8161,
+      "Progressed": 8162,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-09-07T06:05:21.0500647+00:00",
+  "LastChanged_Achievements": "2023-09-07T07:04:57.3348977+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:03.9213001+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:00:04.323989+00:00",
-  "LastUpdate_Achievements": "2023-09-07T06:05:21.0501129+00:00"
+  "LastUpdate_Ratings": "2023-09-07T06:59:33.5015729+00:00",
+  "LastUpdate_Achievements": "2023-09-07T07:04:57.3349287+00:00"
 }

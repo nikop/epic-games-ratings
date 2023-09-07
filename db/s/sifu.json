@@ -6060,9 +6060,9 @@
       "Count": 376
     }
   ],
-  "EOS_Progressed": 713242,
+  "EOS_Progressed": 713251,
   "EOS_Completed": 12887,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18805,6 +18805,11 @@
       "Time": "2023-09-07T06:03:27.9707419+00:00",
       "NumProgressed": 713242,
       "NumCompleted": 12887
+    },
+    {
+      "Time": "2023-09-07T07:03:38.6729634+00:00",
+      "NumProgressed": 713251,
+      "NumCompleted": 12887
     }
   ],
   "TotalAchievements": 50,
@@ -18904,7 +18909,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "13_LowAge",
@@ -18912,7 +18917,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 4279
+      "UsersEstimate": 4280
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -18976,7 +18981,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -19008,7 +19013,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "26_ShrineSpirit",
@@ -19048,7 +19053,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "31_ComboHigh",
@@ -19056,7 +19061,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "32_ReachMaxAge",
@@ -19088,7 +19093,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7132
+      "UsersEstimate": 7133
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -19200,7 +19205,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -19215,21 +19220,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22543,
+      "Progressed": 22552,
       "Completed": 10592
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 713242,
+      "Progressed": 713251,
       "Completed": 12887
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-07T06:00:52.0586196+00:00",
-  "LastChanged_Achievements": "2023-09-07T06:03:27.9707413+00:00",
+  "LastChanged_Achievements": "2023-09-07T07:03:38.672963+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:00:52.0586202+00:00",
-  "LastUpdate_Achievements": "2023-09-07T06:03:27.9708745+00:00"
+  "LastUpdate_Ratings": "2023-09-07T07:00:13.4681684+00:00",
+  "LastUpdate_Achievements": "2023-09-07T07:03:38.6730608+00:00"
 }

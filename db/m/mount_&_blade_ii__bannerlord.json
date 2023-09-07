@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -6957,9 +6957,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60481,
+  "EOS_Progressed": 60482,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21742,6 +21742,11 @@
       "Time": "2023-09-07T06:04:23.0336756+00:00",
       "NumProgressed": 60481,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T07:04:06.9675829+00:00",
+      "NumProgressed": 60482,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -21793,7 +21798,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4838
+      "UsersEstimate": 4839
     },
     {
       "ID": "Catch",
@@ -22160,15 +22165,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60481,
+      "Progressed": 60482,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-06T19:02:47.1778897+00:00",
-  "LastChanged_Achievements": "2023-09-07T06:04:23.0336747+00:00",
+  "LastChanged_Achievements": "2023-09-07T07:04:06.9675824+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-07T06:01:43.7794535+00:00",
-  "LastUpdate_Achievements": "2023-09-07T06:04:23.0338313+00:00"
+  "LastUpdate_Ratings": "2023-09-07T07:01:04.0233942+00:00",
+  "LastUpdate_Achievements": "2023-09-07T07:04:06.9676863+00:00"
 }
