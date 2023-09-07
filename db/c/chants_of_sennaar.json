@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.88,
+  "EOS_Completed_Percentage": 5.81,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -439,6 +439,11 @@
       "Time": "2023-09-07T20:08:42.2423485+00:00",
       "NumProgressed": 85,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-07T21:07:52.4706723+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 25,
@@ -448,7 +453,7 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -480,9 +485,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "META_HALF_LINK",
@@ -512,7 +517,7 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -568,9 +573,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -594,47 +599,47 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 14,
-      "XP": 50,
-      "UsersEstimate": 12
-    },
-    {
-      "ID": "PROGRESS_N1",
-      "SetID": "2gma9an",
-      "Name": "Welcome to the Tower",
-      "Percentage": 21,
-      "XP": 10,
-      "UsersEstimate": 18
-    },
-    {
-      "ID": "PROGRESS_N2",
-      "SetID": "2gma9an",
-      "Name": "The great escape",
-      "Percentage": 19,
-      "XP": 10,
-      "UsersEstimate": 16
-    },
-    {
-      "ID": "PROGRESS_N3",
-      "SetID": "2gma9an",
-      "Name": "A new dawn",
       "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 13
     },
     {
+      "ID": "PROGRESS_N1",
+      "SetID": "2gma9an",
+      "Name": "Welcome to the Tower",
+      "Percentage": 22,
+      "XP": 10,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "PROGRESS_N2",
+      "SetID": "2gma9an",
+      "Name": "The great escape",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "PROGRESS_N3",
+      "SetID": "2gma9an",
+      "Name": "A new dawn",
+      "Percentage": 16,
+      "XP": 50,
+      "UsersEstimate": 14
+    },
+    {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PROGRESS_N5",
@@ -649,14 +654,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-07T20:08:42.2423478+00:00",
+  "LastChanged_Achievements": "2023-09-07T21:07:52.4706718+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-07T20:04:16.1939088+00:00",
-  "LastUpdate_Achievements": "2023-09-07T20:08:42.2423738+00:00"
+  "LastUpdate_Ratings": "2023-09-07T21:03:16.883786+00:00",
+  "LastUpdate_Achievements": "2023-09-07T21:07:52.470688+00:00"
 }

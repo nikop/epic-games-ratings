@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1409,9 +1409,9 @@
       "ID": "AC25",
       "SetID": "l4abp0",
       "Name": "House of Grief and Hatred",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 296
     },
     {
       "ID": "AC26",
@@ -1586,8 +1586,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-07T02:58:07.8091825+00:00",
-  "LastChanged_Achievements": "2023-09-07T20:07:09.909972+00:00",
+  "LastChanged_Achievements": "2023-09-07T21:06:18.9489234+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-07T19:59:05.3403714+00:00",
-  "LastUpdate_Achievements": "2023-09-07T20:07:09.9100207+00:00"
+  "LastUpdate_Ratings": "2023-09-07T20:58:21.041002+00:00",
+  "LastUpdate_Achievements": "2023-09-07T21:06:18.9489626+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1027,
+  "EOS_Progressed": 1028,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1519,6 +1519,11 @@
       "Time": "2023-09-07T00:04:47.3735454+00:00",
       "NumProgressed": 1027,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T21:07:59.5569314+00:00",
+      "NumProgressed": 1028,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1650,7 +1655,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -1714,7 +1719,7 @@
       "Name": "The City",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "GOLDMASTER",
@@ -1889,7 +1894,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1027,
+      "Progressed": 1028,
       "Completed": 0
     }
   ],
@@ -1897,8 +1902,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-07T20:08:49.144812+00:00",
+  "LastChanged_Achievements": "2023-09-07T21:07:59.5569308+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.3169592+00:00",
-  "LastUpdate_Ratings": "2023-09-07T20:00:56.6905656+00:00",
-  "LastUpdate_Achievements": "2023-09-07T20:08:49.1449086+00:00"
+  "LastUpdate_Ratings": "2023-09-07T21:00:26.9809026+00:00",
+  "LastUpdate_Achievements": "2023-09-07T21:07:59.556967+00:00"
 }

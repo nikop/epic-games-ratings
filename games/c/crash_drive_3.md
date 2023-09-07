@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 32.00% | ~120 |
+| Brace for impact! | 32.00% | ~121 |
 | Baby's First Car | 30.00% | ~113 |
-| Pushover | 30.00% | ~113 |
 | Amateur Mechanic | 29.00% | ~109 |
+| Pushover | 29.00% | ~109 |
 | A Forest Walk | 29.00% | ~109 |
 | C-C-C-Combo! | 27.00% | ~102 |
 | Multiply that! | 27.00% | ~102 |
 | Fore! | 24.00% | ~90 |
 | Insurance fraud | 24.00% | ~90 |
 | Snow Fun! | 24.00% | ~90 |
-| The Collector | 23.00% | ~86 |
-| To and Fro | 23.00% | ~86 |
-| The Wild West | 23.00% | ~86 |
-| Bag of Tricks | 23.00% | ~86 |
-| I see the light! | 23.00% | ~86 |
-| In the Bag! | 23.00% | ~86 |
-| You're it | 23.00% | ~86 |
+| The Collector | 23.00% | ~87 |
+| To and Fro | 23.00% | ~87 |
+| The Wild West | 23.00% | ~87 |
+| Bag of Tricks | 23.00% | ~87 |
+| I see the light! | 23.00% | ~87 |
+| In the Bag! | 23.00% | ~87 |
+| You're it | 23.00% | ~87 |
 | First Come, First Serve | 22.00% | ~83 |
-| Take that Frosty! | 22.00% | ~83 |
 | Goodbye cruel world | 22.00% | ~83 |
 | Car-Tapult | 21.00% | ~79 |
 | Disoriented | 21.00% | ~79 |
+| Take that Frosty! | 21.00% | ~79 |
 | Beach Party! | 21.00% | ~79 |
 | Anger Issues | 20.00% | ~75 |
 | Your Highness | 20.00% | ~75 |
-| Event Amateur | 19.00% | ~71 |
+| Event Amateur | 19.00% | ~72 |
 | Feeling Dizzy? | 18.00% | ~68 |
 | Drift King! | 17.00% | ~64 |
 | Feeling Hot Hot Hot! | 17.00% | ~64 |
@@ -38,7 +38,7 @@
 | Speed of light | 17.00% | ~64 |
 | Out of this League | 14.00% | ~53 |
 | Special Forces | 13.00% | ~49 |
-| Toot Toot! | 13.00% | ~49 |
+| Toot Toot! | 12.00% | ~45 |
 | Rocketman | 12.00% | ~45 |
 | Blasting away! | 12.00% | ~45 |
 | High Roller | 11.00% | ~41 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 376 (Ranked 260)  
+Progressed: 377 (Ranked 260)  
 Completed: 2 (0.53%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 2 (0.53%) (Ranked 150)
 | 2023-08-26 | 372 | 2 |
 | 2023-08-31 | 374 | 2 |
 | 2023-09-01 | 375 | 2 |
-| 2023-09-07 | 376 | 2 |
+| 2023-09-07 | 377 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

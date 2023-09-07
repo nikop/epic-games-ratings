@@ -16,13 +16,13 @@ Rating: 4.54 (Ranked 505)
 | Stacking the Deck | 1.00% | ~6,753 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,753 |
 | Welcome To Hell-A | 1.00% | ~6,753 |
-| Bookworm | 0.90% | ~6,077 |
-| But Doctor, I am Butcho | 0.90% | ~6,077 |
-| Can't Handle the Truth | 0.90% | ~6,077 |
-| Like Riding a Bike | 0.90% | ~6,077 |
-| Zombologist | 0.90% | ~6,077 |
-| A Patton Emerges | 0.90% | ~6,077 |
-| This is My Weapon | 0.90% | ~6,077 |
+| Bookworm | 0.90% | ~6,078 |
+| But Doctor, I am Butcho | 0.90% | ~6,078 |
+| Can't Handle the Truth | 0.90% | ~6,078 |
+| Like Riding a Bike | 0.90% | ~6,078 |
+| Zombologist | 0.90% | ~6,078 |
+| A Patton Emerges | 0.90% | ~6,078 |
+| This is My Weapon | 0.90% | ~6,078 |
 | Slayer Squad | 0.80% | ~5,402 |
 | Our True Nature | 0.80% | ~5,402 |
 | Anger Management | 0.70% | ~4,727 |
@@ -33,7 +33,7 @@ Rating: 4.54 (Ranked 505)
 | Making Your Mark | 0.60% | ~4,052 |
 | Humanity Distilled | 0.60% | ~4,052 |
 | Down with the Sickness | 0.60% | ~4,052 |
-| Max Headroom | 0.50% | ~3,376 |
+| Max Headroom | 0.50% | ~3,377 |
 | Jumbo Keyring | 0.40% | ~2,701 |
 | Go, Bobcats! | 0.40% | ~2,701 |
 | Rising Star | 0.40% | ~2,701 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,259 (Ranked 22)  
+Progressed: 675,305 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
-| 2023-09-07 | 675,259 | 2,119 |
+| 2023-09-07 | 675,305 | 2,119 |
 ## Awards
 Max (Great Boss Battles): 5,928  (Ranked 59)  
 Sum: 8,757 (Ranked 95)  

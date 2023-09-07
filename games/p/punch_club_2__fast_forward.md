@@ -50,8 +50,8 @@
 | GYM professional | 39.00% | ~124 |
 | Poisoned fighter | 39.00% | ~124 |
 | Get out of my apartment! | 39.00% | ~124 |
-| Seashell hunter | 37.00% | ~118 |
-| Gang wrangler | 36.00% | ~115 |
+| Seashell hunter | 38.00% | ~121 |
+| Gang wrangler | 37.00% | ~118 |
 | Your own way | 36.00% | ~115 |
 | Problems of cyborgs | 34.00% | ~108 |
 | Absolute Champion! | 34.00% | ~108 |

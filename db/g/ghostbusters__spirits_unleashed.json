@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2010,7 +2010,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25660,
+  "EOS_Progressed": 25661,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
@@ -12315,6 +12315,11 @@
       "Time": "2023-09-07T19:10:30.5542863+00:00",
       "NumProgressed": 25660,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-07T21:09:17.1462979+00:00",
+      "NumProgressed": 25661,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -12326,7 +12331,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18732
+      "UsersEstimate": 18733
     },
     {
       "ID": "Animated",
@@ -12398,7 +12403,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8725
     },
     {
       "ID": "Diabolical",
@@ -12462,7 +12467,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13856
+      "UsersEstimate": 13857
     },
     {
       "ID": "GB_In_Training",
@@ -12558,7 +12563,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4875
+      "UsersEstimate": 4876
     },
     {
       "ID": "Rift_Seeker",
@@ -12606,7 +12611,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "Solo_Capture",
@@ -12670,7 +12675,7 @@
       "Name": "Terrifying",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4875
+      "UsersEstimate": 4876
     },
     {
       "ID": "Therapeutic",
@@ -12686,7 +12691,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10777
+      "UsersEstimate": 10778
     },
     {
       "ID": "Tobins_Prodigy",
@@ -12733,7 +12738,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25660,
+      "Progressed": 25661,
       "Completed": 54
     }
   ],
@@ -12741,8 +12746,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-07T05:01:03.9290504+00:00",
-  "LastChanged_Achievements": "2023-09-07T20:10:15.8538003+00:00",
+  "LastChanged_Achievements": "2023-09-07T21:09:17.1462969+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-07T20:03:47.5404173+00:00",
-  "LastUpdate_Achievements": "2023-09-07T20:10:15.8540506+00:00"
+  "LastUpdate_Ratings": "2023-09-07T21:02:52.2615153+00:00",
+  "LastUpdate_Achievements": "2023-09-07T21:09:17.1463822+00:00"
 }

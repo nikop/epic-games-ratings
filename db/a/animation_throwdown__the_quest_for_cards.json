@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
     "PcReleaseDate": "2017-05-05T11:49:39+00:00",
@@ -1781,11 +1781,17 @@
       "Rating": 4.32,
       "NumberOfAwards": 2725,
       "NumberOfAwardsMax": 358
+    },
+    {
+      "Time": "2023-09-07T21:00:37.4527552+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 2728,
+      "NumberOfAwardsMax": 359
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2725,
-  "NumberOfAwardsMax": 358,
+  "NumberOfAwards": 2728,
+  "NumberOfAwardsMax": 359,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1804,7 +1810,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 358
+      "Count": 359
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1828,7 +1834,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 329
+      "Count": 330
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1846,7 +1852,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 230
+      "Count": 231
     }
   ],
   "EOS_Progressed": 0,
@@ -1860,8 +1866,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2023-09-07T16:00:15.8998806+00:00",
+  "LastChanged": "2023-09-07T21:00:37.452755+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.6721624+00:00",
-  "LastUpdate_Ratings": "2023-09-07T20:01:09.8221858+00:00",
-  "LastUpdate_Achievements": "2023-09-07T20:09:13.478542+00:00"
+  "LastUpdate_Ratings": "2023-09-07T21:00:37.4527556+00:00",
+  "LastUpdate_Achievements": "2023-09-07T21:08:23.5342679+00:00"
 }

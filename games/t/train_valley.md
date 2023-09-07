@@ -6,12 +6,12 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~354 |
-| Close call! | 73.00% | ~331 |
-| Builder | 54.00% | ~245 |
-| Pangs of conscience | 48.00% | ~218 |
-| Living it large! | 45.00% | ~204 |
-| Collector | 43.00% | ~195 |
+| Getting started | 78.00% | ~355 |
+| Close call! | 73.00% | ~332 |
+| Builder | 53.00% | ~241 |
+| Pangs of conscience | 47.00% | ~214 |
+| Living it large! | 45.00% | ~205 |
+| Collector | 43.00% | ~196 |
 | Need to think | 42.00% | ~191 |
 | Completely nuts! | 39.00% | ~177 |
 | Just in time! | 33.00% | ~150 |
@@ -26,11 +26,11 @@ Number of Ratings: 28  (23.09.2022)
 | Russia | 19.00% | ~86 |
 | Missed it! | 19.00% | ~86 |
 | America | 17.00% | ~77 |
-| Sabotage | 17.00% | ~77 |
+| Sabotage | 16.00% | ~73 |
 | Woodcutter | 11.00% | ~50 |
 | Engineer | 11.00% | ~50 |
 | Achtung! | 11.00% | ~50 |
-| Japan | 10.00% | ~45 |
+| Japan | 10.00% | ~46 |
 | Tycoon | 8.00% | ~36 |
 | Germany | 6.00% | ~27 |
 | Peacemaker | 5.00% | ~23 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454 (Ranked 245)  
+Progressed: 455 (Ranked 245)  
 Completed: 2 (0.44%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,6 +123,7 @@ Completed: 2 (0.44%) (Ranked 160)
 | 2023-09-02 | 449 | 2 |
 | 2023-09-04 | 452 | 2 |
 | 2023-09-05 | 454 | 2 |
+| 2023-09-07 | 455 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

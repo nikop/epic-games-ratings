@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.40% | ~911 |
 | The Ring of Regeneration | 0.30% | ~683 |
 | Maddening | 0.20% | ~456 |
+| The Silken Swamp | 0.20% | ~456 |
 | Were-verpowered | 0.20% | ~456 |
 | A Persistent Buzzing | 0.20% | ~456 |
 | Beast Mode | 0.20% | ~456 |
@@ -67,7 +68,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | First Third Out | 0.10% | ~194 |
 | Second Third Out | 0.10% | ~194 |
 | Third Third Out | 0.10% | ~194 |
-| The Silken Swamp | 0.10% | ~228 |
 | Slack-jawed Lorna | 0.10% | ~194 |
 | I'm Sure I Saw It Move! | 0.10% | ~194 |
 | End of the Line | 0.10% | ~194 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,800 (Ranked 54)  
+Progressed: 227,806 (Ranked 54)  
 Completed: 2,258 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -667,7 +667,7 @@ Completed: 2,258 (0.99%) (Ranked 124)
 | 2023-09-04 | 227,081 | 2,250 |
 | 2023-09-05 | 227,381 | 2,254 |
 | 2023-09-06 | 227,606 | 2,257 |
-| 2023-09-07 | 227,800 | 2,258 |
+| 2023-09-07 | 227,806 | 2,258 |
 ## Awards
 Max (Diverse Characters): 5,238  (Ranked 67)  
 Sum: 31,445 (Ranked 38)  

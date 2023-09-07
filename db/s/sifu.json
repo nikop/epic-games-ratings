@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6084,9 +6084,9 @@
       "Count": 376
     }
   ],
-  "EOS_Progressed": 713377,
+  "EOS_Progressed": 713401,
   "EOS_Completed": 12887,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18894,6 +18894,11 @@
       "Time": "2023-09-07T20:06:35.5137299+00:00",
       "NumProgressed": 713377,
       "NumCompleted": 12887
+    },
+    {
+      "Time": "2023-09-07T21:05:44.9637187+00:00",
+      "NumProgressed": 713401,
+      "NumCompleted": 12887
     }
   ],
   "TotalAchievements": 60,
@@ -19023,9 +19028,9 @@
       "ID": "16_Detective_H2",
       "SetID": "adcm20g",
       "Name": "Drunken Fighter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 713
     },
     {
       "ID": "17_Detective_H3",
@@ -19223,9 +19228,9 @@
       "ID": "41_CustomTrophy_H5",
       "SetID": "adcm20g",
       "Name": "Warriors from the Mountain",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 713
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -19384,21 +19389,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22678,
+      "Progressed": 22702,
       "Completed": 10595
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 713377,
+      "Progressed": 713401,
       "Completed": 12887
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-07T20:04:19.4614377+00:00",
-  "LastChanged_Achievements": "2023-09-07T20:06:35.5137293+00:00",
+  "LastChanged_Achievements": "2023-09-07T21:05:44.9637181+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-07T20:04:19.4614384+00:00",
-  "LastUpdate_Achievements": "2023-09-07T20:06:35.5139781+00:00"
+  "LastUpdate_Ratings": "2023-09-07T21:03:18.7654226+00:00",
+  "LastUpdate_Achievements": "2023-09-07T21:05:44.9638268+00:00"
 }

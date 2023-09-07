@@ -21,6 +21,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.10% | ~713 |
 | Kill Nil | 0.10% | ~713 |
 | Detective Story | 0.10% | ~713 |
+| Drunken Fighter | 0.10% | ~713 |
 | Martial Artist | 0.10% | ~713 |
 | Knowledge Greed | 0.10% | ~713 |
 | Healing Memory | 0.10% | ~713 |
@@ -45,6 +46,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.10% | ~713 |
 | Be like water my friend | 0.10% | ~713 |
 | Take damage to save time | 0.10% | ~713 |
+| Warriors from the Mountain | 0.10% | ~713 |
 | Come Snap With Me | 0.10% | ~713 |
 | Project Arena | 0.10% | ~23 |
 | Diligence as a goal | 0.10% | ~23 |
@@ -62,12 +64,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~23 |
 | Fight the way you practice | 0.10% | ~23 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~23 |
-| Drunken Fighter | 0.00% | ~0 |
-| Warriors from the Mountain | 0.00% | ~0 |
 | Hidden Dragon | 0.00% | ~0 |
 | Fighter in the Pond | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,377 (Ranked 20)  
+Progressed: 713,401 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
-| 2023-09-07 | 713,377 | 12,887 |
+| 2023-09-07 | 713,401 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,446  (Ranked 53)  
 Sum: 11,093 (Ranked 80)  
