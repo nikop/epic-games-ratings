@@ -970,9 +970,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1763,
+  "EOS_Progressed": 1769,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1336,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1980,6 +1980,11 @@
       "Time": "2023-09-07T21:06:18.8388985+00:00",
       "NumProgressed": 1763,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-07T22:06:45.8727779+00:00",
+      "NumProgressed": 1769,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2040,7 +2045,7 @@
       "Name": "Bye Bye",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 601
     },
     {
       "ID": "a_19",
@@ -2088,7 +2093,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "a_25",
@@ -2110,9 +2115,9 @@
       "ID": "a_27",
       "SetID": "daiie3o",
       "Name": "Keep the doctor away",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 53
     },
     {
       "ID": "a_28",
@@ -2239,7 +2244,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1763,
+      "Progressed": 1769,
       "Completed": 3
     }
   ],
@@ -2247,8 +2252,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-07T15:00:06.6225416+00:00",
-  "LastChanged_Achievements": "2023-09-07T21:06:18.838898+00:00",
+  "LastChanged_Achievements": "2023-09-07T22:06:45.8727773+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-07T21:00:42.0081011+00:00",
-  "LastUpdate_Achievements": "2023-09-07T21:06:18.8389213+00:00"
+  "LastUpdate_Ratings": "2023-09-07T22:01:03.4346907+00:00",
+  "LastUpdate_Achievements": "2023-09-07T22:06:45.8728201+00:00"
 }

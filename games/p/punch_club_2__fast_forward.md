@@ -53,10 +53,10 @@
 | Seashell hunter | 38.00% | ~121 |
 | Gang wrangler | 37.00% | ~118 |
 | Your own way | 36.00% | ~115 |
+| Undercover robot | 35.00% | ~112 |
 | Problems of cyborgs | 34.00% | ~108 |
 | Absolute Champion! | 34.00% | ~108 |
 | Anyone can resist | 34.00% | ~108 |
-| Undercover robot | 34.00% | ~108 |
 | Not little hacker | 33.00% | ~105 |
 | Trap disarmed | 32.00% | ~102 |
 | The lonesome road | 32.00% | ~102 |

@@ -4,8 +4,8 @@
   "ProductSlug": "read-only-memories-neurodiver",
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T09:58:00.3491938+00:00",
-  "LastUpdate_Ratings": "2023-09-07T21:01:57.6239569+00:00",
-  "LastUpdate_Achievements": "2023-09-07T21:07:39.2688631+00:00"
+  "LastUpdate_Ratings": "2023-09-07T22:02:17.7927379+00:00",
+  "LastUpdate_Achievements": "2023-09-07T22:08:03.8397541+00:00"
 }

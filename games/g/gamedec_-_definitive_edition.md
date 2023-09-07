@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,646 |
-| Powergamer | 27.00% | ~66,194 |
-| Barely scratched the surface | 25.00% | ~61,291 |
-| Write that down | 24.00% | ~58,839 |
-| Guns, lots of guns | 13.00% | ~31,871 |
-| Collector | 11.00% | ~26,968 |
+| I will finish what you started | 28.00% | ~68,648 |
+| Powergamer | 27.00% | ~66,196 |
+| Barely scratched the surface | 25.00% | ~61,292 |
+| Write that down | 24.00% | ~58,841 |
+| Guns, lots of guns | 13.00% | ~31,872 |
+| Collector | 11.00% | ~26,969 |
 | Elementary! | 9.00% | ~22,065 |
-| Pumpkin Jack | 8.00% | ~19,613 |
-| Wake up! | 8.00% | ~19,613 |
-| It's honest work | 7.00% | ~17,161 |
-| Griever | 7.00% | ~17,161 |
+| Pumpkin Jack | 8.00% | ~19,614 |
+| Wake up! | 8.00% | ~19,614 |
+| It's honest work | 7.00% | ~17,162 |
+| Griever | 7.00% | ~17,162 |
 | Me smart | 6.00% | ~14,710 |
 | Trash compactor | 6.00% | ~14,710 |
 | Good listener | 5.00% | ~12,258 |
@@ -52,14 +52,14 @@ Number of Ratings: 33  (23.09.2022)
 | Irondec | 0.40% | ~981 |
 | LET ME OUT! | 0.40% | ~981 |
 | Un-bear-able | 0.40% | ~981 |
-| Well-deserved reunion | 0.30% | ~735 |
+| Well-deserved reunion | 0.30% | ~736 |
 | Breaking the chains | 0.20% | ~490 |
 | Aren't you overthinking? | 0.20% | ~490 |
 | Take the red pill | 0.20% | ~490 |
 | This is the way | 0.20% | ~490 |
 | Memory 5 | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,164 (Ranked 49)  
+Progressed: 245,170 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 7 (0.00%) (Ranked 271)
 | 2023-09-04 | 244,899 | 7 |
 | 2023-09-05 | 244,996 | 7 |
 | 2023-09-06 | 245,078 | 7 |
-| 2023-09-07 | 245,164 | 7 |
+| 2023-09-07 | 245,170 | 7 |
 ## Awards
 Max (Character Customization): 80  (Ranked 361)  
 Sum: 80 (Ranked 429)  

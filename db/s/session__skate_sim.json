@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -904,9 +904,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2778,
+  "EOS_Progressed": 2779,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4284,6 +4284,11 @@
       "Time": "2023-09-07T11:03:21.9422172+00:00",
       "NumProgressed": 2778,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T22:06:33.6764118+00:00",
+      "NumProgressed": 2779,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4359,7 +4364,7 @@
       "Name": "Fashionista",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -4367,7 +4372,7 @@
       "Name": "Finally he zips it",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -4575,7 +4580,7 @@
       "Name": "That pinch!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -4613,9 +4618,9 @@
       "ID": "ACH_THE-HARD-WAY",
       "SetID": "72olkc5",
       "Name": "The hard way",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -4623,7 +4628,7 @@
       "Name": "Tight lipslides",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -4663,7 +4668,7 @@
       "Name": "Welcome to the family",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -4671,22 +4676,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2778,
+      "Progressed": 2779,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-06T02:59:27.6905788+00:00",
-  "LastChanged_Achievements": "2023-09-07T21:06:06.6396618+00:00",
+  "LastChanged_Achievements": "2023-09-07T22:06:33.6764111+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:37.4705758+00:00",
-  "LastUpdate_Ratings": "2023-09-07T21:02:53.0190101+00:00",
-  "LastUpdate_Achievements": "2023-09-07T21:06:06.6397084+00:00"
+  "LastUpdate_Ratings": "2023-09-07T22:03:24.7724707+00:00",
+  "LastUpdate_Achievements": "2023-09-07T22:06:33.676477+00:00"
 }

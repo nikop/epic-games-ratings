@@ -19,15 +19,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 1.00% | ~1,358 |
 | Capitalism Ho! | 1.00% | ~1,358 |
 | Own the Means of Production | 1.00% | ~1,358 |
+| One-Armed Bandit | 0.90% | ~1,222 |
 | The Daily Grind | 0.80% | ~1,086 |
 | Bounty Hunters | 0.80% | ~1,086 |
-| One-Armed Bandit | 0.80% | ~1,086 |
+| Dungeon Imports | 0.80% | ~1,086 |
 | Through Repetition, Perfection | 0.80% | ~1,086 |
 | Demand for Supplies | 0.70% | ~951 |
 | Flooding the Market | 0.70% | ~951 |
 | Where it Hurts | 0.70% | ~951 |
 | Gild-Gotten Goods | 0.70% | ~951 |
-| Dungeon Imports | 0.70% | ~951 |
 | On the Path to Greatness | 0.60% | ~815 |
 | Ascended | 0.60% | ~815 |
 | Vanity, Verily | 0.60% | ~815 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,800 (Ranked 67)  
+Progressed: 135,805 (Ranked 67)  
 Completed: 146 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 146 (0.11%) (Ranked 215)
 | 2023-09-04 | 135,661 | 142 |
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
-| 2023-09-07 | 135,800 | 146 |
+| 2023-09-07 | 135,805 | 146 |
 ## Awards
 Max (Great for Beginners): 4,727  (Ranked 70)  
 Sum: 27,184 (Ranked 48)  

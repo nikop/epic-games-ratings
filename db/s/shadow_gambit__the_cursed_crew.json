@@ -56,7 +56,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 614,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 5,
@@ -1546,6 +1546,11 @@
       "Time": "2023-09-07T19:11:24.498739+00:00",
       "NumProgressed": 613,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-07T22:11:07.179482+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1564,25 +1569,25 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 436
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 344
     },
     {
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 221
     },
     {
       "ID": "_05_FinishAct2",
@@ -1598,7 +1603,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "_07_FinishAct3",
@@ -1612,9 +1617,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 264
     },
     {
       "ID": "_09_Completion_20",
@@ -1646,7 +1651,7 @@
       "Name": "Privateer",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "_13_Completion_60",
@@ -1686,7 +1691,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1724,9 +1729,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 43
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1742,7 +1747,7 @@
       "Name": "Jaded Judge",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -1765,7 +1770,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 614,
       "Completed": 14
     }
   ],
@@ -1773,8 +1778,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-07T13:05:15.5809933+00:00",
-  "LastChanged_Achievements": "2023-09-07T21:10:27.8046347+00:00",
+  "LastChanged_Achievements": "2023-09-07T22:11:07.1794814+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-07T21:01:36.4563032+00:00",
-  "LastUpdate_Achievements": "2023-09-07T21:10:27.8046576+00:00"
+  "LastUpdate_Ratings": "2023-09-07T22:01:54.4344212+00:00",
+  "LastUpdate_Achievements": "2023-09-07T22:11:07.1795214+00:00"
 }

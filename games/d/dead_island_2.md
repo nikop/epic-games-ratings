@@ -23,8 +23,8 @@ Rating: 4.54 (Ranked 505)
 | Zombologist | 0.90% | ~6,078 |
 | A Patton Emerges | 0.90% | ~6,078 |
 | This is My Weapon | 0.90% | ~6,078 |
-| Slayer Squad | 0.80% | ~5,402 |
-| Our True Nature | 0.80% | ~5,402 |
+| Slayer Squad | 0.80% | ~5,403 |
+| Our True Nature | 0.80% | ~5,403 |
 | Anger Management | 0.70% | ~4,727 |
 | Perks of the Job | 0.70% | ~4,727 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,727 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,305 (Ranked 22)  
+Progressed: 675,334 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,14 +191,14 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
-| 2023-09-07 | 675,305 | 2,119 |
+| 2023-09-07 | 675,334 | 2,119 |
 ## Awards
-Max (Great Boss Battles): 5,928  (Ranked 59)  
-Sum: 8,757 (Ranked 95)  
+Max (Great Boss Battles): 5,945  (Ranked 59)  
+Sum: 8,774 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,928 |
+| This game has Great Boss Battles | 5,945 |
 | This game is Great for Beginners | 398 |
 | This game has Diverse Characters | 393 |
 | This game has Quickly Understood Controls | 383 |
@@ -349,4 +349,4 @@ Diff (max vs sum): -36
 | 2023-09-04 | 4.54 | 5,902 | 8,698 |
 | 2023-09-05 | 4.54 | 5,913 | 8,730 |
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
-| 2023-09-07 | 4.54 | 5,928 | 8,757 |
+| 2023-09-07 | 4.54 | 5,945 | 8,774 |

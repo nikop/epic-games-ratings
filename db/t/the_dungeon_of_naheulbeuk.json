@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -810,9 +810,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222001,
+  "EOS_Progressed": 222012,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2237,
+  "EOS_NewPlayers": 2230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9945,6 +9945,11 @@
       "Time": "2023-09-07T21:08:28.0475913+00:00",
       "NumProgressed": 222001,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-07T22:08:51.9145137+00:00",
+      "NumProgressed": 222012,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10404,7 +10409,7 @@
       "Name": "Sowwy!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 62160
+      "UsersEstimate": 62163
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10659,21 +10664,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222001,
+      "Progressed": 222012,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222001,
+      "Progressed": 222012,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T13:05:29.237116+00:00",
-  "LastChanged_Achievements": "2023-09-07T21:08:28.0475904+00:00",
+  "LastChanged_Achievements": "2023-09-07T22:08:51.9145131+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-07T21:01:48.9531267+00:00",
-  "LastUpdate_Achievements": "2023-09-07T21:08:28.0477114+00:00"
+  "LastUpdate_Ratings": "2023-09-07T22:02:08.869187+00:00",
+  "LastUpdate_Achievements": "2023-09-07T22:08:51.9146799+00:00"
 }

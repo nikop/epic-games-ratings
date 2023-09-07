@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 626)
 | Talent Scout | 0.10% | ~249 |
 | True Completionist | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,039 (Ranked 48)  
+Progressed: 249,040 (Ranked 48)  
 Completed: 4 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 4 (0.00%) (Ranked 271)
 | 2023-09-04 | 248,959 | 4 |
 | 2023-09-05 | 248,990 | 4 |
 | 2023-09-06 | 249,015 | 4 |
-| 2023-09-07 | 249,039 | 4 |
+| 2023-09-07 | 249,040 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

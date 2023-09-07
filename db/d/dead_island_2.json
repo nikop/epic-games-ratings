@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4228,18 +4228,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 8757,
       "NumberOfAwardsMax": 5928
+    },
+    {
+      "Time": "2023-09-07T22:02:25.7504953+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8774,
+      "NumberOfAwardsMax": 5945
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8757,
-  "NumberOfAwardsMax": 5928,
+  "NumberOfAwards": 8774,
+  "NumberOfAwardsMax": 5945,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5928
+      "Count": 5945
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4290,9 +4296,9 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 675305,
+  "EOS_Progressed": 675334,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 4988,
+  "EOS_NewPlayers": 4974,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19975,6 +19981,11 @@
       "Time": "2023-09-07T21:09:09.9989114+00:00",
       "NumProgressed": 675305,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-09-07T22:09:22.202949+00:00",
+      "NumProgressed": 675334,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 45,
@@ -20082,7 +20093,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5402
+      "UsersEstimate": 5403
     },
     {
       "ID": "ach_explorer",
@@ -20298,7 +20309,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 5402
+      "UsersEstimate": 5403
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -20345,22 +20356,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 675305,
+      "Progressed": 675334,
       "Completed": 2119
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 845,
-      "Completed": 845
+      "Progressed": 874,
+      "Completed": 874
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-07T16:01:36.8738267+00:00",
-  "LastChanged_Achievements": "2023-09-07T21:09:09.9989107+00:00",
+  "LastChanged": "2023-09-07T22:02:25.7504952+00:00",
+  "LastChanged_Achievements": "2023-09-07T22:09:22.202948+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-07T21:02:05.0814625+00:00",
-  "LastUpdate_Achievements": "2023-09-07T21:09:09.9990129+00:00"
+  "LastUpdate_Ratings": "2023-09-07T22:02:25.7504958+00:00",
+  "LastUpdate_Achievements": "2023-09-07T22:09:22.203183+00:00"
 }

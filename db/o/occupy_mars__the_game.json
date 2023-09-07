@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1586,
+  "EOS_Progressed": 1587,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3568,6 +3568,11 @@
       "Time": "2023-09-07T20:09:26.6706748+00:00",
       "NumProgressed": 1586,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T22:09:10.4992215+00:00",
+      "NumProgressed": 1587,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3731,7 +3736,7 @@
       "Name": "Detective",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -3755,7 +3760,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3777,9 +3782,9 @@
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
       "SetID": "l546gc",
       "Name": "Get your hands dirty",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 159
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -3827,7 +3832,7 @@
       "Name": "Miner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -3835,7 +3840,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -3851,7 +3856,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -3962,7 +3967,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1586,
+      "Progressed": 1587,
       "Completed": 0
     }
   ],
@@ -3970,8 +3975,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-02T18:57:16.3901403+00:00",
-  "LastChanged_Achievements": "2023-09-07T21:08:36.9047541+00:00",
+  "LastChanged_Achievements": "2023-09-07T22:09:10.4992208+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:41.057899+00:00",
-  "LastUpdate_Ratings": "2023-09-07T20:59:13.4147251+00:00",
-  "LastUpdate_Achievements": "2023-09-07T21:08:36.904801+00:00"
+  "LastUpdate_Ratings": "2023-09-07T21:59:33.579457+00:00",
+  "LastUpdate_Achievements": "2023-09-07T22:09:10.4993309+00:00"
 }
