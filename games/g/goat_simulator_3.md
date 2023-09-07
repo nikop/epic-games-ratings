@@ -5,32 +5,32 @@ Rating: 4.84 (Ranked 49)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~221,022 |
-| Private Club | 74.00% | ~179,732 |
+| Forgotten Sorority | 91.00% | ~221,023 |
+| Private Club | 74.00% | ~179,733 |
 | Rogue Guild | 65.00% | ~157,873 |
-| I Watched the Intro | 57.00% | ~138,442 |
+| I Watched the Intro | 57.00% | ~138,443 |
 | Covert Consortium | 55.00% | ~133,585 |
 | Goat Queen | 53.00% | ~128,727 |
-| Reach the Stratosphere | 50.00% | ~121,440 |
-| Synchronization Complete | 47.00% | ~114,154 |
-| Secret Society | 45.00% | ~109,296 |
+| Reach the Stratosphere | 50.00% | ~121,441 |
+| Synchronization Complete | 47.00% | ~114,155 |
+| Secret Society | 45.00% | ~109,297 |
 | Shadow Syndicate | 38.00% | ~92,295 |
 | What a Waste of Money | 33.00% | ~80,151 |
-| New Goat Order | 30.00% | ~72,864 |
+| New Goat Order | 30.00% | ~72,865 |
 | Don't touch the servers | 28.00% | ~68,007 |
 | San Angora: Become Human | 27.00% | ~65,578 |
 | Real Buoy | 27.00% | ~65,578 |
 | Raider of the Lost Parking Garage | 26.00% | ~63,149 |
 | Welcome to Earth | 25.00% | ~60,720 |
-| Into the Matrix | 19.00% | ~46,147 |
+| Into the Matrix | 19.00% | ~46,148 |
 | Where is It? | 17.00% | ~41,290 |
 | Egg Simulator | 17.00% | ~41,290 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~36,432 |
 | Black Market | 14.00% | ~34,003 |
 | 401(K.O.) | 14.00% | ~34,003 |
 | Car Cave | 12.00% | ~29,146 |
-| Club Mohair | 8.00% | ~19,430 |
-| A Center for Ants? | 8.00% | ~19,430 |
+| Club Mohair | 8.00% | ~19,431 |
+| A Center for Ants? | 8.00% | ~19,431 |
 | French Fika | 7.00% | ~17,002 |
 | Who Baywatches the Baywatch? | 4.00% | ~9,715 |
 | Nasty! | 4.00% | ~9,715 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 49)
 | Move! That! Bus! | 0.60% | ~1,457 |
 | G.O.A.T | 0.30% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,881 (Ranked 50)  
+Progressed: 242,882 (Ranked 50)  
 Completed: 825 (0.34%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 825 (0.34%) (Ranked 174)
 | 2023-09-04 | 242,677 | 821 |
 | 2023-09-05 | 242,758 | 822 |
 | 2023-09-06 | 242,853 | 824 |
-| 2023-09-07 | 242,881 | 825 |
+| 2023-09-07 | 242,882 | 825 |
 ## Awards
 Max (Great for Beginners): 390  (Ranked 218)  
 Sum: 3,327 (Ranked 154)  

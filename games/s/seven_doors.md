@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Seven Doors | 100.00% | ~9 |
-| Kill the Dead Man | 78.00% | ~7 |
-| No Fear of the Dark | 33.00% | ~3 |
-| Diogenes Syndrome | 33.00% | ~3 |
-| They’re Watching | 33.00% | ~3 |
+| Welcome to Seven Doors | 67.00% | ~6 |
+| Kill the Dead Man | 44.00% | ~4 |
+| Diogenes Syndrome | 44.00% | ~4 |
+| A Cautious Man Is Worth Two of His Kind | 33.00% | ~3 |
 | Thanksgiving Day | 22.00% | ~2 |
-| A Cautious Man Is Worth Two of His Kind | 22.00% | ~2 |
-| Art Connoisseur | 22.00% | ~2 |
-| The Witch’s Haunt | 11.00% | ~1 |
+| No Fear of the Dark | 22.00% | ~2 |
+| The Witch’s Haunt | 22.00% | ~2 |
+| They’re Watching | 22.00% | ~2 |
 | Trapped in Time | 11.00% | ~1 |
 | A Cabin Boy with Potential | 11.00% | ~1 |
 | Don’t Touch the Rum! | 11.00% | ~1 |
 | Oh... You didn't think to bring it? | 11.00% | ~1 |
+| Art Connoisseur | 11.00% | ~1 |
 | Survivor | 11.00% | ~1 |
 | Egyptologist | 11.00% | ~1 |
+| The Last Skull | 11.00% | ~1 |
 | Master of Riddles | 11.00% | ~1 |
-| The Last Skull | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9 (Ranked 470)  
 Completed: 0 (0.00%) (Ranked 271)  

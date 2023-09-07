@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1256,
+  "EOS_Progressed": 1257,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4461,6 +4461,11 @@
       "Time": "2023-09-07T09:07:40.9994857+00:00",
       "NumProgressed": 1256,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T11:07:55.5901221+00:00",
+      "NumProgressed": 1257,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4488,7 +4493,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ach_defeat_players_100",
@@ -4552,7 +4557,7 @@
       "Name": "Keeping Busy",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "objective_headquarters_15",
@@ -4584,7 +4589,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -4648,7 +4653,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4712,7 +4717,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -4775,14 +4780,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1256,
+      "Progressed": 1257,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-07T10:07:50.855523+00:00",
+  "LastChanged_Achievements": "2023-09-07T11:07:55.5901211+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-07T09:58:04.0980503+00:00",
-  "LastUpdate_Achievements": "2023-09-07T10:07:50.8555919+00:00"
+  "LastUpdate_Ratings": "2023-09-07T10:58:09.6744056+00:00",
+  "LastUpdate_Achievements": "2023-09-07T11:07:55.5902206+00:00"
 }

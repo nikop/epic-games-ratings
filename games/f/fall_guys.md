@@ -1,47 +1,47 @@
 # Fall Guys
 [Store](https://store.epicgames.com/en-US/p/fall-guys)  
 [View Rawdata](../../db/f/fall_guys.json)  
-Rating: 4.52 (Ranked 532)  
+Rating: 4.51 (Ranked 547)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 12.00% | ~4,233,071 |
-| Snowflake | 11.00% | ~3,880,315 |
-| Fall Throttle | 10.00% | ~3,527,559 |
-| Big Bully | 8.00% | ~2,822,048 |
-| Face First | 8.00% | ~2,822,048 |
-| One to Watch | 7.00% | ~2,469,292 |
-| Style Points | 7.00% | ~2,469,292 |
-| Troublemaker | 7.00% | ~2,469,292 |
-| Flawless Victory | 6.00% | ~2,116,536 |
-| Fall Bae | 6.00% | ~2,116,536 |
-| Ahead of the Pack | 6.00% | ~2,116,536 |
-| Stumble Chums | 6.00% | ~2,116,536 |
-| Victory! | 6.00% | ~2,116,536 |
-| Bargain Bucket | 5.00% | ~1,763,780 |
-| Household Name | 3.00% | ~1,058,268 |
-| One giant leap | 3.00% | ~1,058,268 |
-| Big Air | 2.00% | ~705,512 |
-| Catwalk Model | 2.00% | ~705,512 |
-| Down to the Wire | 2.00% | ~705,512 |
-| Star of the Show | 2.00% | ~705,512 |
-| Head Turner | 2.00% | ~705,512 |
-| Quite Dashing | 2.00% | ~705,512 |
-| Shopping Spree | 2.00% | ~705,512 |
-| Squad Goals | 2.00% | ~705,512 |
-| Low Baller | 1.00% | ~352,756 |
-| Mad Trendy | 1.00% | ~352,756 |
-| Top Tier | 1.00% | ~352,756 |
-| Veteran Status | 0.80% | ~282,205 |
-| Show Off | 0.70% | ~246,929 |
-| Track Star | 0.60% | ~211,654 |
-| Golden Guy | 0.60% | ~211,654 |
-| Big Tease | 0.40% | ~141,102 |
-| Fall Guy Fashionista | 0.30% | ~105,827 |
-| Infallible | 0.20% | ~70,551 |
+| One small trip | 12.00% | ~4,233,132 |
+| Snowflake | 11.00% | ~3,880,371 |
+| Fall Throttle | 10.00% | ~3,527,610 |
+| Big Bully | 8.00% | ~2,822,088 |
+| Face First | 8.00% | ~2,822,088 |
+| One to Watch | 7.00% | ~2,469,327 |
+| Style Points | 7.00% | ~2,469,327 |
+| Troublemaker | 7.00% | ~2,469,327 |
+| Flawless Victory | 6.00% | ~2,116,566 |
+| Fall Bae | 6.00% | ~2,116,566 |
+| Ahead of the Pack | 6.00% | ~2,116,566 |
+| Stumble Chums | 6.00% | ~2,116,566 |
+| Victory! | 6.00% | ~2,116,566 |
+| Bargain Bucket | 5.00% | ~1,763,805 |
+| Household Name | 3.00% | ~1,058,283 |
+| One giant leap | 3.00% | ~1,058,283 |
+| Big Air | 2.00% | ~705,522 |
+| Catwalk Model | 2.00% | ~705,522 |
+| Down to the Wire | 2.00% | ~705,522 |
+| Star of the Show | 2.00% | ~705,522 |
+| Head Turner | 2.00% | ~705,522 |
+| Quite Dashing | 2.00% | ~705,522 |
+| Shopping Spree | 2.00% | ~705,522 |
+| Squad Goals | 2.00% | ~705,522 |
+| Low Baller | 1.00% | ~352,761 |
+| Mad Trendy | 1.00% | ~352,761 |
+| Top Tier | 1.00% | ~352,761 |
+| Veteran Status | 0.80% | ~282,209 |
+| Show Off | 0.70% | ~246,933 |
+| Track Star | 0.60% | ~211,657 |
+| Golden Guy | 0.60% | ~211,657 |
+| Big Tease | 0.40% | ~141,104 |
+| Fall Guy Fashionista | 0.30% | ~105,828 |
+| Infallible | 0.20% | ~70,552 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,275,594 (Ranked 1)  
+Progressed: 35,276,098 (Ranked 1)  
 Completed: 41,681 (0.12%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,24 +181,24 @@ Completed: 41,681 (0.12%) (Ranked 210)
 | 2023-09-04 | 35,238,510 | 41,481 |
 | 2023-09-05 | 35,254,244 | 41,578 |
 | 2023-09-06 | 35,269,921 | 41,656 |
-| 2023-09-07 | 35,275,594 | 41,681 |
+| 2023-09-07 | 35,276,098 | 41,681 |
 ## Awards
 Max (Great for Beginners): 147,698  (Ranked 7)  
-Sum: 1,360,657 (Ranked 5)  
+Sum: 1,360,769 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 147,698 |
 | This game is Relaxing | 135,049 |
-| This game has Competitive Players | 132,430 |
+| This game has Competitive Players | 132,472 |
 | This game has Quickly Understood Controls | 132,195 |
 | This game is Great for Quick Sessions | 130,498 |
 | This game has Diverse Characters | 127,106 |
 | This game is Extremely Fun | 120,961 |
-| This game is Highly Recommended | 114,724 |
+| This game is Highly Recommended | 114,763 |
 | This game has Amazing Characters | 111,590 |
 | This game has Amazing Storytelling | 106,149 |
-| This game has Playful Visuals | 102,257 |
+| This game has Playful Visuals | 102,288 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -427,4 +427,4 @@ Diff (max vs sum): 2
 | 2023-09-04 | 4.52 | - | 147,485 | 1,359,772 |
 | 2023-09-05 | 4.52 | - | 147,568 | 1,360,130 |
 | 2023-09-06 | 4.52 | - | 147,629 | 1,360,542 |
-| 2023-09-07 | 4.52 | - | 147,698 | 1,360,657 |
+| 2023-09-07 | 4.52 | - | 147,698 | 1,360,769 |

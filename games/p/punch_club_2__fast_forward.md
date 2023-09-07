@@ -15,7 +15,7 @@
 | Neurotrainer – power gainer! | 77.00% | ~245 |
 | Employee of the week | 77.00% | ~245 |
 | Your own amateur gym | 75.00% | ~238 |
-| First defeat | 73.00% | ~232 |
+| First defeat | 74.00% | ~235 |
 | Run K, run! | 73.00% | ~232 |
 | Fighting is cool | 69.00% | ~219 |
 | No bullying more | 69.00% | ~219 |
@@ -33,8 +33,8 @@
 | Fight for life | 59.00% | ~188 |
 | Little hacker | 58.00% | ~184 |
 | Intriguing candies | 58.00% | ~184 |
+| Legal courier | 56.00% | ~178 |
 | Extreme neuropower! | 56.00% | ~178 |
-| Legal courier | 55.00% | ~175 |
 | Escaped from a big trouble | 52.00% | ~165 |
 | Now you are worthy | 50.00% | ~159 |
 | Fight is life | 47.00% | ~149 |

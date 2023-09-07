@@ -2,7 +2,7 @@
   "ID": "5b325322a4c04b9e9e780b9a1e9b2d70",
   "Name": "Aztez",
   "ProductSlug": "aztez",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 578,
@@ -255,6 +255,6 @@
   "FirstSeenRating": "2022-08-01T19:31:46.0667461+00:00",
   "LastChanged": "2023-08-03T10:03:21.4213101+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:24.52864+00:00",
-  "LastUpdate_Ratings": "2023-09-07T09:57:21.1980466+00:00",
-  "LastUpdate_Achievements": "2023-09-07T10:04:12.8377272+00:00"
+  "LastUpdate_Ratings": "2023-09-07T10:57:24.1569229+00:00",
+  "LastUpdate_Achievements": "2023-09-07T11:04:06.6928071+00:00"
 }

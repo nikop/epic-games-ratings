@@ -1,42 +1,42 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.57 (Ranked 451)  
+Rating: 4.58 (Ranked 431)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~235,730 |
-| Into the Unknown | 35.00% | ~217,119 |
-| First Shot | 35.00% | ~217,119 |
-| Herzlich Wilkommen! | 33.00% | ~204,713 |
-| Good Night & Good Luck | 33.00% | ~204,713 |
-| Sancho Panza | 32.00% | ~198,509 |
-| Oh, So This Is How It Works! | 29.00% | ~179,899 |
-| Flag Burning | 27.00% | ~167,492 |
-| It Wasn't That Hard, Was It? | 25.00% | ~155,085 |
-| Can't Touch This! | 25.00% | ~155,085 |
-| Under Pressure | 24.00% | ~148,882 |
-| On the Trail of the Enemy | 24.00% | ~148,882 |
-| Light in the Darkness | 24.00% | ~148,882 |
-| Get Outta My House! | 23.00% | ~142,678 |
-| Night Hunter | 22.00% | ~136,475 |
-| Being All Social | 22.00% | ~136,475 |
-| After the Fall | 20.00% | ~124,068 |
-| We Will Be Heard! | 18.00% | ~111,661 |
-| Tunnel Entrance | 18.00% | ~111,661 |
-| Known Associate | 17.00% | ~105,458 |
-| Brush with Death | 16.00% | ~99,255 |
-| Debris and Ashes | 15.00% | ~93,051 |
-| Going Down | 15.00% | ~93,051 |
-| Family First | 15.00% | ~93,051 |
-| Your World, Your Rules | 15.00% | ~93,051 |
-| Death From Afar | 14.00% | ~86,848 |
-| Terminal Headache | 14.00% | ~86,848 |
-| Slowpoke! | 12.00% | ~74,441 |
+| You Never Forget Your First... | 38.00% | ~235,732 |
+| Into the Unknown | 35.00% | ~217,121 |
+| First Shot | 35.00% | ~217,121 |
+| Herzlich Wilkommen! | 33.00% | ~204,715 |
+| Good Night & Good Luck | 33.00% | ~204,715 |
+| Sancho Panza | 32.00% | ~198,511 |
+| Oh, So This Is How It Works! | 29.00% | ~179,901 |
+| Flag Burning | 27.00% | ~167,494 |
+| It Wasn't That Hard, Was It? | 25.00% | ~155,087 |
+| Can't Touch This! | 25.00% | ~155,087 |
+| Under Pressure | 24.00% | ~148,883 |
+| On the Trail of the Enemy | 24.00% | ~148,883 |
+| Light in the Darkness | 24.00% | ~148,883 |
+| Get Outta My House! | 23.00% | ~142,680 |
+| Night Hunter | 22.00% | ~136,476 |
+| Being All Social | 22.00% | ~136,476 |
+| After the Fall | 20.00% | ~124,069 |
+| We Will Be Heard! | 18.00% | ~111,662 |
+| Tunnel Entrance | 18.00% | ~111,662 |
+| Known Associate | 17.00% | ~105,459 |
+| Brush with Death | 16.00% | ~99,256 |
+| Debris and Ashes | 15.00% | ~93,052 |
+| Going Down | 15.00% | ~93,052 |
+| Family First | 15.00% | ~93,052 |
+| Your World, Your Rules | 15.00% | ~93,052 |
+| Death From Afar | 14.00% | ~86,849 |
+| Terminal Headache | 14.00% | ~86,849 |
+| Slowpoke! | 12.00% | ~74,442 |
 | Tickets, Please! | 7.00% | ~43,424 |
-| Parkour Master | 6.00% | ~37,220 |
-| Combat Master | 6.00% | ~37,220 |
+| Parkour Master | 6.00% | ~37,221 |
+| Combat Master | 6.00% | ~37,221 |
 | Municipal Services | 5.00% | ~31,017 |
 | Ban Hammer | 5.00% | ~31,017 |
 | Modder | 5.00% | ~31,017 |
@@ -59,8 +59,8 @@ Number of Ratings: 7,305  (23.09.2022)
 | Night of Terrors | 0.90% | ~2,392 |
 | Man On a Mission | 0.80% | ~4,963 |
 | Get the Point? | 0.80% | ~4,963 |
-| My Friend, Ciro | 0.70% | ~1,860 |
-| Skullcrusher | 0.70% | ~1,860 |
+| My Friend, Ciro | 0.70% | ~1,861 |
+| Skullcrusher | 0.70% | ~1,861 |
 | Ultramarathon | 0.30% | ~1,861 |
 | Don't Look Up | 0.20% | ~1,241 |
 | The Madman of Villedor | 0.20% | ~532 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~266 |
 | Connoisseur | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 620,341 (Ranked 27)  
+Progressed: 620,347 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 62 (0.01%) (Ranked 256)
 | 2023-09-04 | 619,606 | 62 |
 | 2023-09-05 | 619,876 | 62 |
 | 2023-09-06 | 620,232 | 62 |
-| 2023-09-07 | 620,341 | 62 |
+| 2023-09-07 | 620,347 | 62 |
 ## Awards
 Max (Character Customization): 9,012  (Ranked 39)  
 Sum: 21,732 (Ranked 53)  
@@ -472,4 +472,4 @@ Diff (max vs sum): -14
 | 2023-09-04 | 4.58 | - | 8,989 | 21,674 |
 | 2023-09-05 | 4.58 | - | 9,002 | 21,710 |
 | 2023-09-06 | 4.58 | - | 9,012 | 21,731 |
-| 2023-09-07 | 4.57 | - | 9,012 | 21,732 |
+| 2023-09-07 | 4.58 | - | 9,012 | 21,732 |

@@ -1,22 +1,22 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 548)  
+Rating: 4.51 (Ranked 547)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~560,786 |
-| Error: Stack Overflow | 66.00% | ~397,977 |
-| We need more gold | 61.00% | ~367,828 |
-| The dawn of civilization | 53.00% | ~319,588 |
-| More FPS for the FPS god! | 49.00% | ~295,468 |
-| Beauty and harmony | 48.00% | ~289,438 |
-| One more! | 44.00% | ~265,318 |
-| Overmind | 24.00% | ~144,719 |
-| RNG is my best friend now | 18.00% | ~108,539 |
-| Cosplay | 13.00% | ~78,389 |
-| Evolution in progress... | 13.00% | ~78,389 |
+| First.. Bit? | 93.00% | ~560,789 |
+| Error: Stack Overflow | 66.00% | ~397,979 |
+| We need more gold | 61.00% | ~367,829 |
+| The dawn of civilization | 53.00% | ~319,589 |
+| More FPS for the FPS god! | 49.00% | ~295,470 |
+| Beauty and harmony | 48.00% | ~289,440 |
+| One more! | 44.00% | ~265,320 |
+| Overmind | 24.00% | ~144,720 |
+| RNG is my best friend now | 18.00% | ~108,540 |
+| Cosplay | 13.00% | ~78,390 |
+| Evolution in progress... | 13.00% | ~78,390 |
 | Step by step | 8.00% | ~48,240 |
 | README reader | 3.00% | ~18,090 |
 | Data scientist | 3.00% | ~18,090 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,809 |
 | The Scrooge | 0.10% | ~603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 602,996 (Ranked 28)  
+Progressed: 602,999 (Ranked 28)  
 Completed: 523 (0.09%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 523 (0.09%) (Ranked 221)
 | 2023-09-04 | 602,787 | 523 |
 | 2023-09-05 | 602,891 | 523 |
 | 2023-09-06 | 602,972 | 523 |
-| 2023-09-07 | 602,996 | 523 |
+| 2023-09-07 | 602,999 | 523 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 309)  
 Sum: 134 (Ranked 404)  

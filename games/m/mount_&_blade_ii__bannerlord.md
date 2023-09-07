@@ -40,8 +40,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Undercover | 0.80% | ~484 |
 | Fat Cat | 0.70% | ~423 |
 | Catch | 0.60% | ~363 |
+| Slice 'n dice | 0.50% | ~302 |
 | Ride it like you stole it | 0.40% | ~242 |
-| Slice 'n dice | 0.40% | ~242 |
 | Mounted Archery | 0.30% | ~181 |
 | Great Granny | 0.20% | ~121 |
 | Strike! | 0.20% | ~121 |

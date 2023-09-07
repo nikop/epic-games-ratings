@@ -43,7 +43,7 @@
 | Master Survivor | 3.00% | ~7 |
 | Heart Breaker | 3.00% | ~7 |
 | 15 Days | 2.00% | ~6 |
-| Honk Honk | 1.00% | ~3 |
+| Honk Honk | 2.00% | ~6 |
 | Pro Shotgunner | 1.00% | ~3 |
 | Easy Peasy | 1.00% | ~2 |
 | Pro Pyromancer | 0.70% | ~2 |

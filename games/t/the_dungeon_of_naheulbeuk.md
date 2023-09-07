@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~62,118 |
+| Sowwy! | 28.00% | ~62,120 |
 | Alt+F4 | 4.00% | ~8,874 |
 | Déjà vu | 3.00% | ~6,656 |
 | Where's that freaking Dwarf? | 3.00% | ~6,656 |
@@ -16,20 +16,20 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 2.00% | ~4,437 |
 | Speedrun | 2.00% | ~4,437 |
 | Fireproof Wizardess | 2.00% | ~4,437 |
-| Livin' in a dwarven paradise | 1.00% | ~2,218 |
-| Way of the Wimp | 1.00% | ~2,218 |
-| The plot thickens... At the tavern | 1.00% | ~2,218 |
-| The demons' feast | 1.00% | ~2,218 |
-| The Great Library | 1.00% | ~2,218 |
-| Torture and Sensibility | 1.00% | ~2,218 |
-| Urik's Depths | 1.00% | ~2,218 |
-| The Dungeon Master | 1.00% | ~2,218 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,218 |
-| The Woman in the High Castle | 1.00% | ~2,218 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,218 |
-| I am the night | 1.00% | ~2,218 |
-| Team Building Exercise | 1.00% | ~2,218 |
-| Oh, when I'll be level 10... | 1.00% | ~2,218 |
+| Livin' in a dwarven paradise | 1.00% | ~2,219 |
+| Way of the Wimp | 1.00% | ~2,219 |
+| The plot thickens... At the tavern | 1.00% | ~2,219 |
+| The demons' feast | 1.00% | ~2,219 |
+| The Great Library | 1.00% | ~2,219 |
+| Torture and Sensibility | 1.00% | ~2,219 |
+| Urik's Depths | 1.00% | ~2,219 |
+| The Dungeon Master | 1.00% | ~2,219 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,219 |
+| The Woman in the High Castle | 1.00% | ~2,219 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,219 |
+| I am the night | 1.00% | ~2,219 |
+| Team Building Exercise | 1.00% | ~2,219 |
+| Oh, when I'll be level 10... | 1.00% | ~2,219 |
 | Shiny and Crôm | 0.90% | ~1,997 |
 | The beards of change | 0.90% | ~1,997 |
 | The Ranger of Chaos | 0.90% | ~1,997 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221,850 (Ranked 57)  
+Progressed: 221,858 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-04 | 221,298 | 2 |
 | 2023-09-05 | 221,553 | 2 |
 | 2023-09-06 | 221,774 | 2 |
-| 2023-09-07 | 221,850 | 2 |
+| 2023-09-07 | 221,858 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

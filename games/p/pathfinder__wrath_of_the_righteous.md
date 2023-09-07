@@ -24,12 +24,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Azata | 4.00% | ~448 |
 | The Legacy | 4.00% | ~448 |
 | Divide and Rule | 4.00% | ~448 |
+| Mythic Reinforcements | 4.00% | ~448 |
 | A Flame | 4.00% | ~448 |
 | Next-Door Play | 4.00% | ~448 |
 | Get the Toad | 4.00% | ~448 |
 | Heart of the Fallen Land | 3.00% | ~336 |
 | Path of the Trickster | 3.00% | ~336 |
-| Mythic Reinforcements | 3.00% | ~336 |
 | Core of the Riddle | 3.00% | ~336 |
 | Hey, I Know You! | 3.00% | ~336 |
 | The Lady of the Forest | 3.00% | ~299 |

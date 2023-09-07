@@ -2,7 +2,7 @@
   "ID": "f990ab9ba22149f8a8a6bee2be46ec0b",
   "Name": "Zombie Soup",
   "ProductSlug": "zombie-soup-1006ea",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 94,
@@ -19,7 +19,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -48,6 +48,11 @@
     {
       "Time": "2023-08-22T01:45:52.1783572+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T11:08:19.0399569+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -139,7 +144,7 @@
       "ID": "NoviceExpert",
       "SetID": "di28ocn",
       "Name": "Novice Expert",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -299,7 +304,7 @@
       "ID": "TheBigFish",
       "SetID": "di28ocn",
       "Name": "The Big Fish",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -428,13 +433,13 @@
     {
       "ID": "di28ocn",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-09T18:00:41.8577246+00:00",
-  "LastChanged_Achievements": "2023-09-07T10:08:24.4642575+00:00",
+  "LastChanged_Achievements": "2023-09-07T11:08:19.0399564+00:00",
   "LastUpdate_AppInfo": "2023-09-06T19:57:01.1558852+00:00",
-  "LastUpdate_Ratings": "2023-09-07T10:02:49.5595139+00:00",
-  "LastUpdate_Achievements": "2023-09-07T10:08:24.4642998+00:00"
+  "LastUpdate_Ratings": "2023-09-07T11:02:34.010699+00:00",
+  "LastUpdate_Achievements": "2023-09-07T11:08:19.0400072+00:00"
 }

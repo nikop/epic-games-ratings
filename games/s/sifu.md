@@ -6,34 +6,34 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 6.00% | ~1,354 |
+| Diligence as a goal | 6.00% | ~1,355 |
 | Project Arena | 4.00% | ~903 |
-| The Old Grandmaster | 2.00% | ~14,265 |
-| The Assault | 2.00% | ~14,265 |
-| The Hateful Pole Fighter | 2.00% | ~14,265 |
-| A Lady's Blood in the Snow | 2.00% | ~14,265 |
-| Lady Wing Chun | 2.00% | ~14,265 |
-| Furious Fists | 2.00% | ~14,265 |
-| Kill Nil | 2.00% | ~14,265 |
-| Stuntmaster | 2.00% | ~14,265 |
-| Street Fighting | 2.00% | ~14,265 |
-| Life is your teacher | 2.00% | ~14,265 |
-| State of constant learning | 2.00% | ~14,265 |
-| Qi Gong: Breath | 2.00% | ~14,265 |
-| Qi Gong: Essence | 2.00% | ~14,265 |
-| Old Child | 2.00% | ~14,265 |
-| Lightning Hands | 2.00% | ~14,265 |
-| Path of the Prospect | 2.00% | ~14,265 |
-| Rumble in the Hangar | 2.00% | ~14,265 |
-| Take damage to save time | 2.00% | ~14,265 |
-| Bloody Sport | 2.00% | ~451 |
+| The Old Grandmaster | 2.00% | ~14,266 |
+| The Assault | 2.00% | ~14,266 |
+| The Hateful Pole Fighter | 2.00% | ~14,266 |
+| A Lady's Blood in the Snow | 2.00% | ~14,266 |
+| Lady Wing Chun | 2.00% | ~14,266 |
+| Furious Fists | 2.00% | ~14,266 |
+| Kill Nil | 2.00% | ~14,266 |
+| Stuntmaster | 2.00% | ~14,266 |
+| Street Fighting | 2.00% | ~14,266 |
+| Life is your teacher | 2.00% | ~14,266 |
+| State of constant learning | 2.00% | ~14,266 |
+| Qi Gong: Breath | 2.00% | ~14,266 |
+| Qi Gong: Essence | 2.00% | ~14,266 |
+| Old Child | 2.00% | ~14,266 |
+| Lightning Hands | 2.00% | ~14,266 |
+| Path of the Prospect | 2.00% | ~14,266 |
+| Rumble in the Hangar | 2.00% | ~14,266 |
+| Take damage to save time | 2.00% | ~14,266 |
+| Bloody Sport | 2.00% | ~452 |
 | Scareless | 1.00% | ~7,133 |
 | Dance of the Praying Mantis | 1.00% | ~7,133 |
 | Qi Gong: Mind | 1.00% | ~7,133 |
 | I know Kung-Fu | 1.00% | ~7,133 |
 | Kung-Fu Tussle | 1.00% | ~7,133 |
 | The best strikes are the ones we avoid | 1.00% | ~226 |
-| Muk Yan Master | 0.90% | ~6,419 |
+| Muk Yan Master | 0.90% | ~6,420 |
 | Tiger on Fire | 0.80% | ~5,706 |
 | Source of Flying Daggers | 0.80% | ~5,706 |
 | Iron Money | 0.80% | ~5,706 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,427 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,270 (Ranked 20)  
+Progressed: 713,278 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,10 +197,10 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
-| 2023-09-07 | 713,270 | 12,887 |
+| 2023-09-07 | 713,278 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,440  (Ranked 53)  
-Sum: 11,081 (Ranked 80)  
+Sum: 11,082 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -211,7 +211,7 @@ Diff (max vs sum): -27
 | This game has Amazing Storytelling | 533 |
 | This game is Extremely Fun | 530 |
 | This game has Amazing Characters | 523 |
-| This game is Highly Recommended | 520 |
+| This game is Highly Recommended | 521 |
 | This game has Unique Visuals | 486 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 376 |
@@ -452,4 +452,4 @@ Diff (max vs sum): -27
 | 2023-09-04 | 4.82 | - | 6,430 | 11,055 |
 | 2023-09-05 | 4.82 | - | 6,437 | 11,070 |
 | 2023-09-06 | 4.82 | - | 6,440 | 11,080 |
-| 2023-09-07 | 4.82 | - | 6,440 | 11,081 |
+| 2023-09-07 | 4.82 | - | 6,440 | 11,082 |

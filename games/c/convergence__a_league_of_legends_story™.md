@@ -13,11 +13,11 @@ Rating: 4.60 (Ranked 393)
 | The Steel Shadow | 19.00% | ~163 |
 | Make Up For Lost Time | 19.00% | ~163 |
 | Time Flies | 19.00% | ~163 |
+| The Harder They Fall | 19.00% | ~163 |
 | No, Thanks! | 19.00% | ~163 |
 | Breaking Down Barriers | 19.00% | ~163 |
 | Immaculate Aim | 19.00% | ~163 |
 | The Brass Boss | 19.00% | ~163 |
-| The Harder They Fall | 18.00% | ~154 |
 | The Wicked Twins | 18.00% | ~154 |
 | Honest Mistake | 18.00% | ~154 |
 | Fast Learner | 18.00% | ~154 |
