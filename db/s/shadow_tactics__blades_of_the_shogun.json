@@ -1507,9 +1507,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 200519,
+  "EOS_Progressed": 200526,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1594,
+  "EOS_NewPlayers": 1598,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17147,6 +17147,11 @@
       "Time": "2023-09-07T05:08:42.8153884+00:00",
       "NumProgressed": 200519,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-07T06:08:00.9555526+00:00",
+      "NumProgressed": 200526,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17166,7 +17171,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "ChickenDinner",
@@ -17182,7 +17187,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12031
+      "UsersEstimate": 12032
     },
     {
       "ID": "CompleteMastery",
@@ -17214,7 +17219,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12031
+      "UsersEstimate": 12032
     },
     {
       "ID": "GearUp",
@@ -17230,7 +17235,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22057
+      "UsersEstimate": 22058
     },
     {
       "ID": "HappyLittleAccidents",
@@ -17246,7 +17251,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12031
+      "UsersEstimate": 12032
     },
     {
       "ID": "HighFiveTheMoon",
@@ -17262,7 +17267,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "ItsRainingMen",
@@ -17270,7 +17275,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "Jonin",
@@ -17278,7 +17283,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "Mercyful",
@@ -17310,7 +17315,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12031
+      "UsersEstimate": 12032
     },
     {
       "ID": "NoGimmicks",
@@ -17342,7 +17347,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "PraiseTheShogun",
@@ -17406,7 +17411,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "TanukiTime",
@@ -17446,7 +17451,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20052
+      "UsersEstimate": 20053
     },
     {
       "ID": "TimeParadox",
@@ -17494,7 +17499,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "Yabu",
@@ -17502,22 +17507,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 200519,
+      "Progressed": 200526,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-05T09:59:57.8033528+00:00",
-  "LastChanged_Achievements": "2023-09-07T05:08:42.8153878+00:00",
+  "LastChanged_Achievements": "2023-09-07T06:08:00.9555519+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:03.876432+00:00",
-  "LastUpdate_Ratings": "2023-09-07T05:01:32.0137718+00:00",
-  "LastUpdate_Achievements": "2023-09-07T05:08:42.8155194+00:00"
+  "LastUpdate_Ratings": "2023-09-07T06:00:59.0417352+00:00",
+  "LastUpdate_Achievements": "2023-09-07T06:08:00.95571+00:00"
 }

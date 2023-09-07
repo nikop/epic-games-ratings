@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 68151,
+  "EOS_Progressed": 68152,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15539,6 +15539,11 @@
       "Time": "2023-09-07T05:03:28.2697647+00:00",
       "NumProgressed": 68151,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-09-07T06:03:26.6200601+00:00",
+      "NumProgressed": 68152,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 24,
@@ -15582,7 +15587,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17719
+      "UsersEstimate": 17720
     },
     {
       "ID": "ERADICATE",
@@ -15630,7 +15635,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36120
+      "UsersEstimate": 36121
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -15741,7 +15746,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 68151,
+      "Progressed": 68152,
       "Completed": 355
     }
   ],
@@ -15749,8 +15754,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-07T05:03:28.2697642+00:00",
+  "LastChanged_Achievements": "2023-09-07T06:03:26.6200595+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:13.6353756+00:00",
-  "LastUpdate_Ratings": "2023-09-07T05:01:45.9909441+00:00",
-  "LastUpdate_Achievements": "2023-09-07T05:03:28.2698617+00:00"
+  "LastUpdate_Ratings": "2023-09-07T06:01:13.0358244+00:00",
+  "LastUpdate_Achievements": "2023-09-07T06:03:26.6202079+00:00"
 }

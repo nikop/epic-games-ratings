@@ -810,9 +810,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 221806,
+  "EOS_Progressed": 221814,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2296,
+  "EOS_NewPlayers": 2300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9865,6 +9865,11 @@
       "Time": "2023-09-07T05:06:49.5448246+00:00",
       "NumProgressed": 221806,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-07T06:06:22.6236672+00:00",
+      "NumProgressed": 221814,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10020,7 +10025,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "CompanionPriestress",
@@ -10228,7 +10233,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -10300,7 +10305,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "DwarfLevel2",
@@ -10316,7 +10321,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -10324,7 +10329,7 @@
       "Name": "Sowwy!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 62106
+      "UsersEstimate": 62108
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10372,7 +10377,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8872
+      "UsersEstimate": 8873
     },
     {
       "ID": "FollowBraztok",
@@ -10579,21 +10584,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 221806,
+      "Progressed": 221814,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 221806,
+      "Progressed": 221814,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T13:05:29.237116+00:00",
-  "LastChanged_Achievements": "2023-09-07T05:06:49.5448241+00:00",
+  "LastChanged_Achievements": "2023-09-07T06:06:22.6236662+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-07T05:00:16.483406+00:00",
-  "LastUpdate_Achievements": "2023-09-07T05:06:49.5449653+00:00"
+  "LastUpdate_Ratings": "2023-09-07T05:59:55.0988453+00:00",
+  "LastUpdate_Achievements": "2023-09-07T06:06:22.623834+00:00"
 }

@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526835,
+  "EOS_Progressed": 526836,
   "EOS_Completed": 470,
   "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 3,
@@ -15374,6 +15374,11 @@
       "Time": "2023-09-07T04:04:57.4431657+00:00",
       "NumProgressed": 526835,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-07T06:05:16.8309799+00:00",
+      "NumProgressed": 526836,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 57,
@@ -15401,7 +15406,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368784
+      "UsersEstimate": 368785
     },
     {
       "ID": "12",
@@ -15481,7 +15486,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126440
+      "UsersEstimate": 126441
     },
     {
       "ID": "21",
@@ -15505,7 +15510,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36878
+      "UsersEstimate": 36879
     },
     {
       "ID": "24",
@@ -15585,7 +15590,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36878
+      "UsersEstimate": 36879
     },
     {
       "ID": "33",
@@ -15761,7 +15766,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242344
+      "UsersEstimate": 242345
     },
     {
       "ID": "53",
@@ -15840,15 +15845,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526835,
+      "Progressed": 526836,
       "Completed": 470
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-07T05:05:33.0021406+00:00",
+  "LastChanged_Achievements": "2023-09-07T06:05:16.8309791+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.8959885+00:00",
-  "LastUpdate_Ratings": "2023-09-07T04:59:11.3676819+00:00",
-  "LastUpdate_Achievements": "2023-09-07T05:05:33.0022866+00:00"
+  "LastUpdate_Ratings": "2023-09-07T05:58:58.4244074+00:00",
+  "LastUpdate_Achievements": "2023-09-07T06:05:16.8311324+00:00"
 }

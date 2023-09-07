@@ -6,27 +6,27 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~20,484 |
-| The Evilest Evil | 58.00% | ~17,218 |
-| Twistram is devastated | 57.00% | ~16,922 |
-| The Gehenna Stones | 49.00% | ~14,547 |
-| No one has to die today! | 46.00% | ~13,656 |
-| Death and destruction! | 45.00% | ~13,359 |
-| The Swamplanders from the swamplands | 43.00% | ~12,765 |
+| The Shadow strikes | 69.00% | ~20,485 |
+| The Evilest Evil | 58.00% | ~17,220 |
+| Twistram is devastated | 57.00% | ~16,923 |
+| The Gehenna Stones | 49.00% | ~14,548 |
+| No one has to die today! | 46.00% | ~13,657 |
+| Death and destruction! | 45.00% | ~13,360 |
+| The Swamplanders from the swamplands | 43.00% | ~12,766 |
 | Rusty Steel | 41.00% | ~12,172 |
-| The One-Huge-Army-Building Evil | 40.00% | ~11,875 |
-| The last burger | 37.00% | ~10,984 |
-| Braiiiiins! | 37.00% | ~10,984 |
-| Hands off the Dungeonheart! | 36.00% | ~10,687 |
+| The One-Huge-Army-Building Evil | 40.00% | ~11,876 |
+| The last burger | 37.00% | ~10,985 |
+| Braiiiiins! | 37.00% | ~10,985 |
+| Hands off the Dungeonheart! | 36.00% | ~10,688 |
 | A trip on sea, what fun it can be | 34.00% | ~10,094 |
 | Damned good | 33.00% | ~9,797 |
-| Stock Market Crash | 31.00% | ~9,203 |
-| Factory farming | 31.00% | ~9,203 |
-| Not-So-Overproud | 30.00% | ~8,906 |
-| For a handfull of Catapults | 29.00% | ~8,609 |
-| Shadow hunter | 29.00% | ~8,609 |
-| Ogre Solo! | 28.00% | ~8,312 |
-| Thirst quencher | 27.00% | ~8,015 |
+| Stock Market Crash | 31.00% | ~9,204 |
+| Factory farming | 31.00% | ~9,204 |
+| Not-So-Overproud | 30.00% | ~8,907 |
+| For a handfull of Catapults | 29.00% | ~8,610 |
+| Shadow hunter | 29.00% | ~8,610 |
+| Ogre Solo! | 28.00% | ~8,313 |
+| Thirst quencher | 27.00% | ~8,016 |
 | Destroy the thing | 26.00% | ~7,719 |
 | Tide Master | 26.00% | ~7,719 |
 | Difficult family relationships | 25.00% | ~7,422 |
@@ -34,17 +34,17 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 24.00% | ~7,125 |
 | Angel of Fire | 24.00% | ~7,125 |
 | Where there is Light, there is Shadow | 23.00% | ~6,828 |
-| At the foot of Mount Destiny | 22.00% | ~6,531 |
-| The Force disturbed | 21.00% | ~6,234 |
-| The Victorious Evil | 20.00% | ~5,937 |
+| At the foot of Mount Destiny | 22.00% | ~6,532 |
+| The Force disturbed | 21.00% | ~6,235 |
+| The Victorious Evil | 20.00% | ~5,938 |
 | Chorus of damnation | 19.00% | ~5,641 |
 | We don’t have time! | 19.00% | ~5,641 |
 | The Stones’ Power | 18.00% | ~5,344 |
 | Flat as a pancake | 17.00% | ~5,047 |
 | Lifeguard | 17.00% | ~5,047 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,453 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~3,562 |
-| Then let them eat cake! | 12.00% | ~3,562 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~3,563 |
+| Then let them eat cake! | 12.00% | ~3,563 |
 | The White Knight | 10.00% | ~2,969 |
 | Please, no interruptions! | 10.00% | ~2,969 |
 | Use the terrain | 9.00% | ~2,672 |
@@ -59,15 +59,15 @@ Number of Ratings: 1,635  (23.09.2022)
 | A little something extra | 6.00% | ~1,781 |
 | The Benevolent Evil | 6.00% | ~1,781 |
 | Band of Brothers | 5.00% | ~1,484 |
-| Night of the Living Dead (on Speed) | 4.00% | ~1,187 |
-| I need a hero! | 4.00% | ~1,187 |
+| Night of the Living Dead (on Speed) | 4.00% | ~1,188 |
+| I need a hero! | 4.00% | ~1,188 |
 | Storm And Stress | 3.00% | ~891 |
 | I love the smell of Catapult fire! | 3.00% | ~891 |
 | Discoverer | 2.00% | ~594 |
 | Not a scratch | 2.00% | ~594 |
 | Sacrifices! | 2.00% | ~594 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,687 (Ranked 101)  
+Progressed: 29,689 (Ranked 101)  
 Completed: 243 (0.82%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 243 (0.82%) (Ranked 129)
 | 2023-09-04 | 29,527 | 243 |
 | 2023-09-05 | 29,603 | 243 |
 | 2023-09-06 | 29,670 | 243 |
-| 2023-09-07 | 29,687 | 243 |
+| 2023-09-07 | 29,689 | 243 |
 ## Awards
 Max (Great for Beginners): 344  (Ranked 228)  
 Sum: 2,631 (Ranked 175)  

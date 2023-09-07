@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 6.00% | ~1,352 |
-| Project Arena | 4.00% | ~901 |
+| Diligence as a goal | 6.00% | ~1,353 |
+| Project Arena | 4.00% | ~902 |
 | The Old Grandmaster | 2.00% | ~14,265 |
 | The Assault | 2.00% | ~14,265 |
 | The Hateful Pole Fighter | 2.00% | ~14,265 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.20% | ~1,426 |
 | Warriors from the Mountain | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,233 (Ranked 20)  
+Progressed: 713,242 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,10 +197,10 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
-| 2023-09-07 | 713,233 | 12,887 |
+| 2023-09-07 | 713,242 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,440  (Ranked 53)  
-Sum: 11,080 (Ranked 80)  
+Sum: 11,081 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -214,7 +214,7 @@ Diff (max vs sum): -27
 | This game is Highly Recommended | 520 |
 | This game has Unique Visuals | 486 |
 | This game is Relaxing | 401 |
-| This game has a Creative Community | 375 |
+| This game has a Creative Community | 376 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -452,3 +452,4 @@ Diff (max vs sum): -27
 | 2023-09-04 | 4.82 | - | 6,430 | 11,055 |
 | 2023-09-05 | 4.82 | - | 6,437 | 11,070 |
 | 2023-09-06 | 4.82 | - | 6,440 | 11,080 |
+| 2023-09-07 | 4.82 | - | 6,440 | 11,081 |

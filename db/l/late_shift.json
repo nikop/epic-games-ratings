@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 480,
+  "EOS_Progressed": 481,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -757,6 +757,11 @@
       "Time": "2023-09-06T01:45:59.818269+00:00",
       "NumProgressed": 480,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-07T06:05:49.9888078+00:00",
+      "NumProgressed": 481,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 20,
@@ -768,7 +773,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "CHOICES_MATTER",
@@ -832,7 +837,7 @@
       "Name": "The Frenzy",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -856,7 +861,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "GOOD_KARMA",
@@ -902,9 +907,9 @@
       "ID": "SABOTAGE",
       "SetID": "8eejhlh",
       "Name": "Sabotage",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 62
+      "UsersEstimate": 58
     },
     {
       "ID": "SHILL_BIDDER",
@@ -912,7 +917,7 @@
       "Name": "Shill Bidder",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -927,7 +932,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 480,
+      "Progressed": 481,
       "Completed": 6
     }
   ],
@@ -935,8 +940,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-09-07T05:06:11.9777745+00:00",
+  "LastChanged_Achievements": "2023-09-07T06:05:49.988807+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:59.1182199+00:00",
-  "LastUpdate_Ratings": "2023-09-07T05:01:23.275125+00:00",
-  "LastUpdate_Achievements": "2023-09-07T05:06:11.9777933+00:00"
+  "LastUpdate_Ratings": "2023-09-07T06:00:52.8290819+00:00",
+  "LastUpdate_Achievements": "2023-09-07T06:05:49.9888284+00:00"
 }

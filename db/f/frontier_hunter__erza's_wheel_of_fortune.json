@@ -612,9 +612,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "7pimpda",
       "Name": "Master Artificer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -837,8 +837,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-09-07T05:09:06.1517627+00:00",
+  "LastChanged_Achievements": "2023-09-07T06:08:20.8762904+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:25.0723404+00:00",
-  "LastUpdate_Ratings": "2023-09-07T05:02:16.4062273+00:00",
-  "LastUpdate_Achievements": "2023-09-07T05:09:06.151809+00:00"
+  "LastUpdate_Ratings": "2023-09-07T06:01:37.8880852+00:00",
+  "LastUpdate_Achievements": "2023-09-07T06:08:20.8763443+00:00"
 }
