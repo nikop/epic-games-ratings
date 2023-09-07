@@ -29,7 +29,7 @@
 | 27 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.34% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.05% |
+| 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.03% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
@@ -37,7 +37,7 @@
 | 35 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 36 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
+| 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
 | 39 | [Scorn](games/s/scorn.md) | 7.02% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.90% |
 | 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.69% |
@@ -576,4 +576,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,193 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,194 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
