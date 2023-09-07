@@ -6138,7 +6138,7 @@
   ],
   "EOS_Progressed": 527872,
   "EOS_Completed": 1978,
-  "EOS_NewPlayers": 1553,
+  "EOS_NewPlayers": 1551,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -22110,9 +22110,9 @@
       "ID": "54",
       "SetID": "aho6p5h",
       "Name": "Sleep Tight, Little BB",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 226985
+      "UsersEstimate": 232264
     },
     {
       "ID": "55",
@@ -22222,8 +22222,8 @@
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-09-06T21:57:44.2161348+00:00",
-  "LastChanged_Achievements": "2023-09-07T01:46:59.4591217+00:00",
+  "LastChanged_Achievements": "2023-09-07T02:20:47.9752925+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:34.9468268+00:00",
-  "LastUpdate_Ratings": "2023-09-07T01:38:57.0652717+00:00",
-  "LastUpdate_Achievements": "2023-09-07T01:46:59.4592496+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:13:08.8480171+00:00",
+  "LastUpdate_Achievements": "2023-09-07T02:20:47.9754552+00:00"
 }

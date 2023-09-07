@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -1657,9 +1657,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1921,8 +1921,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-09-07T01:47:30.537445+00:00",
+  "LastChanged_Achievements": "2023-09-07T02:21:19.6116599+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:10.2902661+00:00",
-  "LastUpdate_Ratings": "2023-09-07T01:44:11.3103455+00:00",
-  "LastUpdate_Achievements": "2023-09-07T01:47:30.537495+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:18:02.9398999+00:00",
+  "LastUpdate_Achievements": "2023-09-07T02:21:19.6117601+00:00"
 }

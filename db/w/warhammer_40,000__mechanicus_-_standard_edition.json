@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -597,9 +597,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 222063,
+  "EOS_Progressed": 222066,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15767,6 +15767,11 @@
       "Time": "2023-09-07T01:48:43.9118748+00:00",
       "NumProgressed": 222063,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-07T02:22:36.4689427+00:00",
+      "NumProgressed": 222066,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -15778,7 +15783,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42192
+      "UsersEstimate": 42193
     },
     {
       "ID": "ACH_BASE_10",
@@ -15786,7 +15791,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57736
+      "UsersEstimate": 57737
     },
     {
       "ID": "ACH_BASE_11",
@@ -16049,7 +16054,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 222063,
+      "Progressed": 222066,
       "Completed": 5
     }
   ],
@@ -16057,8 +16062,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-09-04T13:58:35.6634468+00:00",
-  "LastChanged_Achievements": "2023-09-07T01:48:43.9118743+00:00",
+  "LastChanged_Achievements": "2023-09-07T02:22:36.4689419+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:01.6485466+00:00",
-  "LastUpdate_Ratings": "2023-09-07T01:41:18.3461221+00:00",
-  "LastUpdate_Achievements": "2023-09-07T01:48:43.911965+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:15:33.7161812+00:00",
+  "LastUpdate_Achievements": "2023-09-07T02:22:36.4691485+00:00"
 }

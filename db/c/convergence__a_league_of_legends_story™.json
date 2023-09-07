@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 855,
+  "EOS_Progressed": 856,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2100,6 +2100,11 @@
       "Time": "2023-09-06T16:05:39.221522+00:00",
       "NumProgressed": 855,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-07T02:20:21.1202071+00:00",
+      "NumProgressed": 856,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2119,7 +2124,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2159,7 +2164,7 @@
       "Name": "Like Clockwork",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ClovemaryGift",
@@ -2239,7 +2244,7 @@
       "Name": "The Betrayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2295,7 +2300,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "LacunaCompleted",
@@ -2303,7 +2308,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "MapCompletion1",
@@ -2351,7 +2356,7 @@
       "Name": "Time Flies",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ParryBoss",
@@ -2367,7 +2372,7 @@
       "Name": "No, Thanks!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2375,7 +2380,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2397,9 +2402,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 231
     },
     {
       "ID": "RewindParry",
@@ -2423,7 +2428,7 @@
       "Name": "Golem Chaser",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "SkillCompletion1",
@@ -2495,7 +2500,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "WatcherFought",
@@ -2519,7 +2524,7 @@
       "Name": "The Brass Boss",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2534,7 +2539,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 855,
+      "Progressed": 856,
       "Completed": 5
     }
   ],
@@ -2542,8 +2547,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-07T01:46:33.2263901+00:00",
+  "LastChanged_Achievements": "2023-09-07T02:20:21.1202064+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:21.5800878+00:00",
-  "LastUpdate_Ratings": "2023-09-07T01:42:53.9387955+00:00",
-  "LastUpdate_Achievements": "2023-09-07T01:46:33.2264423+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:17:17.1678457+00:00",
+  "LastUpdate_Achievements": "2023-09-07T02:20:21.1203086+00:00"
 }

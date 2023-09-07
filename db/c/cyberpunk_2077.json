@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -11537,9 +11537,9 @@
       "Count": 5825
     }
   ],
-  "EOS_Progressed": 874935,
+  "EOS_Progressed": 874937,
   "EOS_Completed": 2065,
-  "EOS_NewPlayers": 1295,
+  "EOS_NewPlayers": 1297,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -27077,6 +27077,11 @@
       "Time": "2023-09-07T01:46:44.4096096+00:00",
       "NumProgressed": 874935,
       "NumCompleted": 2065
+    },
+    {
+      "Time": "2023-09-07T02:20:32.3850638+00:00",
+      "NumProgressed": 874937,
+      "NumCompleted": 2065
     }
   ],
   "TotalAchievements": 44,
@@ -27096,7 +27101,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 61245
+      "UsersEstimate": 61246
     },
     {
       "ID": "BushidoAndChill",
@@ -27112,7 +27117,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 157488
+      "UsersEstimate": 157489
     },
     {
       "ID": "Denied",
@@ -27160,7 +27165,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 131240
+      "UsersEstimate": 131241
     },
     {
       "ID": "Gunslinger",
@@ -27208,7 +27213,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 201235
+      "UsersEstimate": 201236
     },
     {
       "ID": "MaxPain",
@@ -27256,7 +27261,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183736
+      "UsersEstimate": 183737
     },
     {
       "ID": "Roleplayer",
@@ -27264,7 +27269,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 253731
+      "UsersEstimate": 253732
     },
     {
       "ID": "Specialist",
@@ -27304,7 +27309,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 603705
+      "UsersEstimate": 603707
     },
     {
       "ID": "TheHermit",
@@ -27328,7 +27333,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 306227
+      "UsersEstimate": 306228
     },
     {
       "ID": "TheStar",
@@ -27336,7 +27341,7 @@
       "Name": "The Star",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61245
+      "UsersEstimate": 61246
     },
     {
       "ID": "TheSun",
@@ -27344,7 +27349,7 @@
       "Name": "The Sun",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 61245
+      "UsersEstimate": 61246
     },
     {
       "ID": "TheWheelOfFortune",
@@ -27360,7 +27365,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 157488
+      "UsersEstimate": 157489
     },
     {
       "ID": "ThisIsPacifica",
@@ -27384,7 +27389,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 201235
+      "UsersEstimate": 201236
     },
     {
       "ID": "TrueWarrior",
@@ -27392,7 +27397,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 131240
+      "UsersEstimate": 131241
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -27439,21 +27444,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 874935,
+      "Progressed": 874937,
       "Completed": 2065
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 3558,
-      "Completed": 3558
+      "Progressed": 3560,
+      "Completed": 3560
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-06T19:59:06.9045329+00:00",
-  "LastChanged_Achievements": "2023-09-07T01:46:44.409609+00:00",
+  "LastChanged_Achievements": "2023-09-07T02:20:32.3850631+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.2017845+00:00",
-  "LastUpdate_Ratings": "2023-09-07T01:40:44.8650016+00:00",
-  "LastUpdate_Achievements": "2023-09-07T01:46:44.4097123+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:14:56.1325365+00:00",
+  "LastUpdate_Achievements": "2023-09-07T02:20:32.3852891+00:00"
 }

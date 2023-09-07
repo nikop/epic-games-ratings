@@ -28,7 +28,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Soothing Sounds | 46.00% | ~242,821 |
 | Catcher Crusher | 45.00% | ~237,542 |
 | We Need You | 44.00% | ~232,264 |
-| Sleep Tight, Little BB | 43.00% | ~226,985 |
+| Sleep Tight, Little BB | 44.00% | ~232,264 |
 | All Roads Lead to the UCA | 39.00% | ~205,870 |
 | Giver of Gifts | 38.00% | ~200,591 |
 | The Automation Revolution | 36.00% | ~190,034 |

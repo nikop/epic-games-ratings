@@ -1718,9 +1718,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 57404,
+  "EOS_Progressed": 57405,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16943,6 +16943,11 @@
       "Time": "2023-09-07T01:49:14.2418839+00:00",
       "NumProgressed": 57404,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-07T02:23:17.9884774+00:00",
+      "NumProgressed": 57405,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -16954,7 +16959,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 31572
+      "UsersEstimate": 31573
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -17210,7 +17215,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 18369
+      "UsersEstimate": 18370
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -17250,7 +17255,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6888
+      "UsersEstimate": 6889
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -17322,7 +17327,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 44775
+      "UsersEstimate": 44776
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -17418,22 +17423,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 21239
+      "UsersEstimate": 21240
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 57404,
+      "Progressed": 57405,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-05T18:00:17.1389559+00:00",
-  "LastChanged_Achievements": "2023-09-07T01:49:14.2418833+00:00",
+  "LastChanged_Achievements": "2023-09-07T02:23:17.9884767+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:08.9394313+00:00",
-  "LastUpdate_Ratings": "2023-09-07T01:41:27.8810491+00:00",
-  "LastUpdate_Achievements": "2023-09-07T01:49:14.2419966+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:15:40.7922808+00:00",
+  "LastUpdate_Achievements": "2023-09-07T02:23:17.988738+00:00"
 }

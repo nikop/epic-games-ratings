@@ -6,36 +6,36 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~717,472 |
-| The Blues | 85.00% | ~616,011 |
+| Out of bed | 99.00% | ~717,473 |
+| The Blues | 85.00% | ~616,012 |
 | Fast | 66.00% | ~478,315 |
-| Healthbar | 55.00% | ~398,595 |
-| Force Cube | 53.00% | ~384,101 |
-| Double Jump | 48.00% | ~347,865 |
+| Healthbar | 55.00% | ~398,596 |
+| Force Cube | 53.00% | ~384,102 |
+| Double Jump | 48.00% | ~347,866 |
 | Regeneration | 47.00% | ~340,618 |
-| Triple Jump | 43.00% | ~311,629 |
+| Triple Jump | 43.00% | ~311,630 |
 | Climb the hill | 42.00% | ~304,382 |
-| Through the fire pipe | 39.00% | ~282,640 |
-| MacGuffin | 38.00% | ~275,393 |
+| Through the fire pipe | 39.00% | ~282,641 |
+| MacGuffin | 38.00% | ~275,394 |
 | Just once | 37.00% | ~268,146 |
 | Armor | 30.00% | ~217,416 |
-| True holy spirit | 28.00% | ~202,921 |
+| True holy spirit | 28.00% | ~202,922 |
 | That's how electronics work obviously | 26.00% | ~188,427 |
 | Force Cube Catapult | 25.00% | ~181,180 |
-| Holy Sword | 23.00% | ~166,685 |
+| Holy Sword | 23.00% | ~166,686 |
 | Telefrag | 22.00% | ~159,438 |
 | Freed from prison | 21.00% | ~152,191 |
 | Stomp | 21.00% | ~152,191 |
-| Double Health | 18.00% | ~130,449 |
+| Double Health | 18.00% | ~130,450 |
 | Buckle | 17.00% | ~123,202 |
 | Green Keycard | 17.00% | ~123,202 |
 | All Shells | 15.00% | ~108,708 |
 | Rattle Hag | 15.00% | ~108,708 |
 | Beam | 14.00% | ~101,461 |
-| Health Drink | 13.00% | ~94,213 |
-| 9 | 13.00% | ~94,213 |
-| Purple Cube | 13.00% | ~94,213 |
-| Supraball Noob | 13.00% | ~94,213 |
+| Health Drink | 13.00% | ~94,214 |
+| 9 | 13.00% | ~94,214 |
+| Purple Cube | 13.00% | ~94,214 |
+| Supraball Noob | 13.00% | ~94,214 |
 | Helped a star | 12.00% | ~86,966 |
 | Strong | 12.00% | ~86,966 |
 | Blue King's lair | 11.00% | ~79,719 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~725 |
 | DLC: Top of the world | 0.10% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,719 (Ranked 19)  
+Progressed: 724,720 (Ranked 19)  
 Completed: 731 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 731 (0.10%) (Ranked 218)
 | 2023-09-04 | 724,495 | 731 |
 | 2023-09-05 | 724,597 | 731 |
 | 2023-09-06 | 724,704 | 731 |
-| 2023-09-07 | 724,719 | 731 |
+| 2023-09-07 | 724,720 | 731 |
 ## Awards
 Max (Challenging Puzzles): 7,683  (Ranked 46)  
 Sum: 10,010 (Ranked 86)  

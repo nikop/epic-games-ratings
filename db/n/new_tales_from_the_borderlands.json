@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3603,
+  "EOS_Progressed": 3604,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1343,6 +1343,11 @@
       "Time": "2023-09-06T18:02:13.2245837+00:00",
       "NumProgressed": 3603,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T02:18:35.1531419+00:00",
+      "NumProgressed": 3604,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1386,7 +1391,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1530,7 +1535,7 @@
       "Name": "And Still Champion...",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -1561,7 +1566,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3603,
+      "Progressed": 3604,
       "Completed": 0
     }
   ],
@@ -1569,8 +1574,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-09-07T01:44:40.5986347+00:00",
+  "LastChanged_Achievements": "2023-09-07T02:18:35.1531412+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:04.3483847+00:00",
-  "LastUpdate_Ratings": "2023-09-07T01:42:26.1442483+00:00",
-  "LastUpdate_Achievements": "2023-09-07T01:44:40.5986569+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:16:41.7186036+00:00",
+  "LastUpdate_Achievements": "2023-09-07T02:18:35.1531848+00:00"
 }

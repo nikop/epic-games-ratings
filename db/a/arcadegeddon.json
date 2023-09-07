@@ -8922,9 +8922,9 @@
       "ID": "ACH_COUP_DETAT",
       "SetID": "97mcd7i",
       "Name": "Coup d\u0027Etat",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 5167
+      "UsersEstimate": 5256
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -9298,8 +9298,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-09-07T01:48:11.5438647+00:00",
+  "LastChanged_Achievements": "2023-09-07T02:22:02.8660809+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:18.6650629+00:00",
-  "LastUpdate_Ratings": "2023-09-07T01:41:38.8840869+00:00",
-  "LastUpdate_Achievements": "2023-09-07T01:48:11.5439363+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:15:52.0853348+00:00",
+  "LastUpdate_Achievements": "2023-09-07T02:22:02.8661741+00:00"
 }

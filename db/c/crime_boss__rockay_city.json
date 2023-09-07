@@ -3324,9 +3324,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 72720,
+  "EOS_Progressed": 72721,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17604,6 +17604,11 @@
       "Time": "2023-09-07T01:45:50.1633008+00:00",
       "NumProgressed": 72720,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-07T02:19:36.944706+00:00",
+      "NumProgressed": 72721,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 37,
@@ -17759,7 +17764,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 47268
+      "UsersEstimate": 47269
     },
     {
       "ID": "ACH_0210",
@@ -17767,7 +17772,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 53813
+      "UsersEstimate": 53814
     },
     {
       "ID": "ACH_0211",
@@ -17847,7 +17852,7 @@
       "Name": "Fancy Pants",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26179
+      "UsersEstimate": 26180
     },
     {
       "ID": "ACH_0431",
@@ -17879,7 +17884,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12362
+      "UsersEstimate": 12363
     },
     {
       "ID": "ACH_0452",
@@ -17887,7 +17892,7 @@
       "Name": "Dragonslayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 12362
+      "UsersEstimate": 12363
     },
     {
       "ID": "ACH_0460",
@@ -17903,29 +17908,29 @@
       "Name": "Rockay Rex",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 72720,
+      "Progressed": 72721,
       "Completed": 43
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 1067,
-      "Completed": 1067
+      "Progressed": 1068,
+      "Completed": 1068
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-06T16:02:50.775932+00:00",
-  "LastChanged_Achievements": "2023-09-07T01:45:50.1632995+00:00",
+  "LastChanged_Achievements": "2023-09-07T02:19:36.9447052+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.6204685+00:00",
-  "LastUpdate_Ratings": "2023-09-07T01:43:20.2543186+00:00",
-  "LastUpdate_Achievements": "2023-09-07T01:45:50.1633919+00:00"
+  "LastUpdate_Ratings": "2023-09-07T02:17:44.6966767+00:00",
+  "LastUpdate_Achievements": "2023-09-07T02:19:36.9449165+00:00"
 }
