@@ -2,7 +2,7 @@
   "ID": "dbab40e0469a4565bfd04135208ef092",
   "Name": "Spaceman Defender",
   "ProductSlug": "spaceman-defender-757ebf",
-  "Ranking_EOS_Progress": 579,
+  "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 89,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-26T20:59:28.1199817+00:00",
   "LastChanged": "2023-04-26T20:59:28.1199818+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:22.7067728+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:04:30.8288328+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:05:56.5684379+00:00"
+  "LastUpdate_Ratings": "2023-09-07T18:04:13.4753984+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:05:37.6165717+00:00"
 }

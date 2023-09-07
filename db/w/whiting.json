@@ -1,7 +1,7 @@
 {
   "ID": "805cc94768e54f1ebc87e5a475bcded8",
   "Name": "Whiting",
-  "Ranking_EOS_Progress": 579,
+  "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 89,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:10.9679401+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:00:38.5962907+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:07:00.3776844+00:00"
+  "LastUpdate_Ratings": "2023-09-07T18:00:33.0789457+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:06:40.6434039+00:00"
 }

@@ -694,9 +694,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5706,
+  "EOS_Progressed": 5707,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7084,6 +7084,11 @@
       "Time": "2023-09-07T17:06:11.9941422+00:00",
       "NumProgressed": 5706,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T18:05:52.8433525+00:00",
+      "NumProgressed": 5707,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7095,7 +7100,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7103,7 +7108,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -7111,7 +7116,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 3880
+      "UsersEstimate": 3881
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7151,7 +7156,7 @@
       "Name": "Scaling up",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7191,7 +7196,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -7207,7 +7212,7 @@
       "Name": "Going for Gold",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -7215,7 +7220,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -7247,7 +7252,7 @@
       "Name": "Marathon",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -7374,13 +7379,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5706,
+      "Progressed": 5707,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5078,
+      "Progressed": 5079,
       "Completed": 112
     }
   ],
@@ -7388,8 +7393,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-07T00:00:28.88411+00:00",
-  "LastChanged_Achievements": "2023-09-07T17:06:11.9941415+00:00",
+  "LastChanged_Achievements": "2023-09-07T18:05:52.8433516+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:04:41.9731909+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:06:11.9942046+00:00"
+  "LastUpdate_Ratings": "2023-09-07T18:04:27.6746808+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:05:52.8434194+00:00"
 }

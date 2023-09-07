@@ -448,9 +448,9 @@
       "ID": "Cook",
       "SetID": "82ojhod",
       "Name": "Cook",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Crafter",
@@ -543,8 +543,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-09-07T17:05:37.7245565+00:00",
+  "LastChanged_Achievements": "2023-09-07T18:05:16.3425409+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:12.7133165+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:59:45.7255544+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:05:37.7245729+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:59:26.174704+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:05:16.3425625+00:00"
 }

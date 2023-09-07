@@ -20,8 +20,8 @@ Rating: 4.48 (Ranked 602)
 | Liberté | 21.00% | ~754 |
 | Sharpshooter | 21.00% | ~754 |
 | Explosive Efficiency | 18.00% | ~647 |
+| Just a Flesh Wound | 17.00% | ~611 |
 | Gunslinger | 17.00% | ~611 |
-| Just a Flesh Wound | 16.00% | ~575 |
 | Der Geist | 16.00% | ~575 |
 | Climbing the Ladder | 15.00% | ~539 |
 | Close Quarters | 15.00% | ~539 |

@@ -9,7 +9,7 @@
 | Good Person Chip | 86.00% | ~274 |
 | First winning | 84.00% | ~268 |
 | Your first job | 83.00% | ~265 |
-| Old movies enjoyer | 79.00% | ~252 |
+| Old movies enjoyer | 80.00% | ~255 |
 | Fitness professional | 78.00% | ~249 |
 | Depressed visitor | 78.00% | ~249 |
 | Neurotrainer – power gainer! | 77.00% | ~246 |
@@ -43,8 +43,8 @@
 | No blades in the gym | 46.00% | ~147 |
 | Champion – no way back | 43.00% | ~137 |
 | Responsible approach | 42.00% | ~134 |
+| Deal with life | 41.00% | ~131 |
 | Underground dwellers | 41.00% | ~131 |
-| Deal with life | 40.00% | ~128 |
 | Mom got better | 39.00% | ~124 |
 | GYM professional | 39.00% | ~124 |
 | Poisoned fighter | 39.00% | ~124 |

@@ -2,7 +2,7 @@
   "ID": "964ac7e6a9434f83a9718bd41f362995",
   "Name": "Victorian Admirals",
   "ProductSlug": "victorian-admirals-36f8c4",
-  "Ranking_EOS_Progress": 579,
+  "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 89,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-24T08:59:22.8176927+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:32.3994688+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:57:57.9530077+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:06:43.2282203+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:57:40.0881428+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:06:23.3121314+00:00"
 }

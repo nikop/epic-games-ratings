@@ -7,9 +7,9 @@
 | The Game is Starting! | 19.00% | ~4 |
 | First steps!! | 14.00% | ~3 |
 | Keep going!!! | 14.00% | ~3 |
+| There is always a first time!!! | 10.00% | ~2 |
 | I can do it more!!! | 5.00% | ~1 |
 | This is a a good day!!!! | 5.00% | ~1 |
-| There is always a first time!!! | 5.00% | ~1 |
 | Sometimes is better think twice!!!! | 5.00% | ~1 |
 | I will not wait for tomorrow is now!!! | 5.00% | ~1 |
 | They can hit but don't hurt!!! | 0.00% | ~0 |

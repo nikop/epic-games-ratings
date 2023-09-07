@@ -4,8 +4,8 @@
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 354,
   "Ranking_Popularity": 152,
-  "Ranking_PopularitySum": 128,
-  "Ranking_EOS_Progress": 579,
+  "Ranking_PopularitySum": 127,
+  "Ranking_EOS_Progress": 580,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 89,
@@ -6260,11 +6260,17 @@
       "Rating": 4.62,
       "NumberOfAwards": 5265,
       "NumberOfAwardsMax": 873
+    },
+    {
+      "Time": "2023-09-07T18:00:21.1608365+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 5290,
+      "NumberOfAwardsMax": 891
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5265,
-  "NumberOfAwardsMax": 873,
+  "NumberOfAwards": 5290,
+  "NumberOfAwardsMax": 891,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6277,7 +6283,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 873
+      "Count": 891
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6313,7 +6319,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 398
+      "Count": 405
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6354,9 +6360,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2023-09-07T17:00:25.0411131+00:00",
-  "LastChanged_Achievements": "2023-09-07T17:10:22.9776003+00:00",
+  "LastChanged": "2023-09-07T18:00:21.1608362+00:00",
+  "LastChanged_Achievements": "2023-09-07T18:10:11.0653019+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:31.8762322+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:00:25.0411139+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:10:22.9776036+00:00"
+  "LastUpdate_Ratings": "2023-09-07T18:00:21.1608372+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:10:11.0653067+00:00"
 }

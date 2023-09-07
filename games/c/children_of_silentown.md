@@ -7,9 +7,9 @@
 | Lucky charm | 92.00% | ~180 |
 | Trumpet | 90.00% | ~176 |
 | Spyglass | 85.00% | ~167 |
-| Broken toy | 78.00% | ~153 |
+| Broken toy | 79.00% | ~155 |
 | Egghead Lucy | 76.00% | ~149 |
-| Puppy | 64.00% | ~125 |
+| Puppy | 65.00% | ~127 |
 | Coal's fur | 60.00% | ~118 |
 | Blue's drawing | 57.00% | ~112 |
 | Glass shards | 48.00% | ~94 |

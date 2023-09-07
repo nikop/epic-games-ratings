@@ -1092,9 +1092,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5004,
+  "EOS_Progressed": 5005,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9147,6 +9147,11 @@
       "Time": "2023-09-07T14:08:04.956307+00:00",
       "NumProgressed": 5004,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-07T18:09:04.0610743+00:00",
+      "NumProgressed": 5005,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9198,7 +9203,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -9302,7 +9307,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -9318,7 +9323,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3803
+      "UsersEstimate": 3804
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9430,7 +9435,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -9477,15 +9482,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5004,
+      "Progressed": 5005,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-06T05:57:21.9972193+00:00",
-  "LastChanged_Achievements": "2023-09-07T17:09:24.918037+00:00",
+  "LastChanged_Achievements": "2023-09-07T18:09:04.0610736+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:55.8221856+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:58:08.1903084+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:09:24.9181329+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:57:51.9937091+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:09:04.0611795+00:00"
 }

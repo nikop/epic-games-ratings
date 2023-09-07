@@ -265,9 +265,9 @@
       "ID": "A21",
       "SetID": "7f5j12l",
       "Name": "Black Flame",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A22",
@@ -440,8 +440,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-09-07T17:06:32.9818097+00:00",
+  "LastChanged_Achievements": "2023-09-07T18:06:13.1760733+00:00",
   "LastUpdate_AppInfo": "2023-09-05T03:56:58.9476056+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:58:41.3210993+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:06:32.9818335+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:58:22.0639593+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:06:13.1761391+00:00"
 }

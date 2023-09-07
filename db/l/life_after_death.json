@@ -314,9 +314,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "c98563l",
       "Name": "There is always a first time!!!",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-09-03T22:59:29.6745505+00:00",
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2023-09-07T17:10:18.7582041+00:00",
+  "LastChanged_Achievements": "2023-09-07T18:10:07.0651778+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:10.1787078+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:04:23.5521649+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:10:18.7582533+00:00"
+  "LastUpdate_Ratings": "2023-09-07T18:04:08.1088926+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:10:07.0652746+00:00"
 }

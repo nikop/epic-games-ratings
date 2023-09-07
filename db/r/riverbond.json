@@ -3,7 +3,7 @@
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 511,
+  "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 221,
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526859,
+  "EOS_Progressed": 526860,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15429,6 +15429,11 @@
       "Time": "2023-09-07T17:07:40.9832783+00:00",
       "NumProgressed": 526859,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-07T18:07:21.3444823+00:00",
+      "NumProgressed": 526860,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 57,
@@ -15456,7 +15461,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368801
+      "UsersEstimate": 368802
     },
     {
       "ID": "12",
@@ -15480,7 +15485,7 @@
       "Name": "Going on an Adventure",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57954
+      "UsersEstimate": 57955
     },
     {
       "ID": "15",
@@ -15544,7 +15549,7 @@
       "Name": "Make Peace, Not War",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57954
+      "UsersEstimate": 57955
     },
     {
       "ID": "22",
@@ -15672,7 +15677,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84297
+      "UsersEstimate": 84298
     },
     {
       "ID": "37",
@@ -15816,7 +15821,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242355
+      "UsersEstimate": 242356
     },
     {
       "ID": "53",
@@ -15895,15 +15900,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526859,
+      "Progressed": 526860,
       "Completed": 470
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-07T17:07:40.9832777+00:00",
+  "LastChanged_Achievements": "2023-09-07T18:07:21.3444817+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.8959885+00:00",
-  "LastUpdate_Ratings": "2023-09-07T17:00:13.0489137+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:07:40.983523+00:00"
+  "LastUpdate_Ratings": "2023-09-07T18:00:06.0454821+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:07:21.3446941+00:00"
 }

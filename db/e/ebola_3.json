@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1003,6 +1003,11 @@
       "Time": "2023-09-07T17:09:07.5198177+00:00",
       "NumProgressed": 237,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T18:08:46.6676856+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1038,7 +1043,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achBett",
@@ -1078,7 +1083,7 @@
       "Name": "Chest \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achCity",
@@ -1206,7 +1211,7 @@
       "Name": "Group Alpha \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achKloyn",
@@ -1214,7 +1219,7 @@
       "Name": "Fright \u2714",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achLizun",
@@ -1222,7 +1227,7 @@
       "Name": "Mutant fight \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achLizunTwo",
@@ -1246,7 +1251,7 @@
       "Name": "Sheriff \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achOsipovTwo",
@@ -1262,7 +1267,7 @@
       "Name": "City on fire \u2714",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achPlotThree",
@@ -1270,7 +1275,7 @@
       "Name": "Infected \u2714",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achPlotTwo",
@@ -1382,7 +1387,7 @@
       "Name": "Broadcasting \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achWater",
@@ -1413,7 +1418,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 0
     }
   ],
@@ -1421,8 +1426,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-07T17:09:07.5198173+00:00",
+  "LastChanged_Achievements": "2023-09-07T18:08:46.6676849+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:28.6254913+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:57:47.3011079+00:00",
-  "LastUpdate_Achievements": "2023-09-07T17:09:07.5198977+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:57:28.2042553+00:00",
+  "LastUpdate_Achievements": "2023-09-07T18:08:46.6677548+00:00"
 }
