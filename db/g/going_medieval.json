@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1262,9 +1262,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5680,
+  "EOS_Progressed": 5681,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -8907,6 +8907,11 @@
       "Time": "2023-09-06T23:03:48.1812773+00:00",
       "NumProgressed": 5680,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-07T00:03:31.6551747+00:00",
+      "NumProgressed": 5681,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 31,
@@ -8918,7 +8923,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4260
+      "UsersEstimate": 4261
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -8958,7 +8963,7 @@
       "Name": "Having A Field Day",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 4203
+      "UsersEstimate": 4204
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -8966,7 +8971,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -9078,7 +9083,7 @@
       "Name": "The First Day",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -9102,7 +9107,7 @@
       "Name": "Winter Is Here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -9118,7 +9123,7 @@
       "Name": "The First Week",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -9134,7 +9139,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2499
+      "UsersEstimate": 2500
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -9165,15 +9170,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5680,
+      "Progressed": 5681,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-02T11:01:18.0722676+00:00",
-  "LastChanged_Achievements": "2023-09-06T23:03:48.1812767+00:00",
+  "LastChanged_Achievements": "2023-09-07T00:03:31.6551743+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:16.1031287+00:00",
-  "LastUpdate_Ratings": "2023-09-06T23:00:36.1402944+00:00",
-  "LastUpdate_Achievements": "2023-09-06T23:03:48.1813638+00:00"
+  "LastUpdate_Ratings": "2023-09-07T00:00:24.0144187+00:00",
+  "LastUpdate_Achievements": "2023-09-07T00:03:31.6552417+00:00"
 }

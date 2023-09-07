@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 11,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9204,9 +9204,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 393860,
+  "EOS_Progressed": 393883,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11480,
+  "EOS_NewPlayers": 11463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24814,6 +24814,11 @@
       "Time": "2023-09-06T23:03:23.0034028+00:00",
       "NumProgressed": 393860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T00:03:07.9991992+00:00",
+      "NumProgressed": 393883,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -25105,7 +25110,7 @@
       "Name": "Azur sem\u00E9 de lis or",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "achievement_baa_baa_black_sheep",
@@ -25265,7 +25270,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7877
+      "UsersEstimate": 7878
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -25657,7 +25662,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7877
+      "UsersEstimate": 7878
     },
     {
       "ID": "achievement_forever_golden",
@@ -25745,7 +25750,7 @@
       "Name": "Gentle Persuasion",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "achievement_georgia_on_my_mind",
@@ -25849,7 +25854,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7877
+      "UsersEstimate": 7878
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -26689,7 +26694,7 @@
       "Name": "Queen of Conquest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -26825,7 +26830,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7877
+      "UsersEstimate": 7878
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -27329,7 +27334,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -27489,7 +27494,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15754
+      "UsersEstimate": 15755
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -27656,21 +27661,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 393860,
+      "Progressed": 393883,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 393860,
+      "Progressed": 393883,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-06T16:58:41.1094955+00:00",
-  "LastChanged_Achievements": "2023-09-06T23:03:23.0034022+00:00",
+  "LastChanged_Achievements": "2023-09-07T00:03:07.9991988+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:16.2286567+00:00",
-  "LastUpdate_Ratings": "2023-09-06T22:58:13.1086403+00:00",
-  "LastUpdate_Achievements": "2023-09-06T23:03:23.00514+00:00"
+  "LastUpdate_Ratings": "2023-09-06T23:58:07.9268806+00:00",
+  "LastUpdate_Achievements": "2023-09-07T00:03:08.0004206+00:00"
 }

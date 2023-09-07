@@ -6,46 +6,46 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 39.00% | ~24,427 |
-| Let There Be Light | 32.00% | ~20,043 |
-| Float Like a Butterfly | 30.00% | ~18,790 |
-| Nordic Walking | 24.00% | ~15,032 |
-| Bright Falls' Finest | 24.00% | ~15,032 |
-| Under a Thin Layer of Skin | 21.00% | ~13,153 |
-| Park Ranger | 17.00% | ~10,648 |
-| Paging Mr. Wake | 17.00% | ~10,648 |
-| Back! Back, I Say! | 16.00% | ~10,021 |
-| Finders Keepers | 16.00% | ~10,021 |
-| Sound and Fury | 15.00% | ~9,395 |
-| Damn Good Cup of Coffee | 15.00% | ~9,395 |
-| Wheels Within Wheels | 14.00% | ~8,769 |
-| They're Heeeeeere! | 14.00% | ~8,769 |
-| Missed by a Mile | 14.00% | ~8,769 |
-| Iron Horse | 13.00% | ~8,142 |
-| The Six-Gun Scribe | 13.00% | ~8,142 |
-| Collateral Carnage | 13.00% | ~8,142 |
-| Come One, Come All | 13.00% | ~8,142 |
-| Heavy Metal | 12.00% | ~7,516 |
-| Perchance to Dream | 12.00% | ~7,516 |
-| Gatekeeper | 11.00% | ~6,890 |
-| It's Not Just a Typewriter Brand | 11.00% | ~6,890 |
-| Thunder and Lightning | 11.00% | ~6,890 |
-| Two For the Price of One | 11.00% | ~6,890 |
-| The Lady of the Light | 10.00% | ~6,263 |
-| Energized! | 10.00% | ~6,263 |
-| What Light Through Yonder Window | 9.00% | ~5,637 |
-| Right of Way | 9.00% | ~5,637 |
+| Follow the Light | 39.00% | ~24,431 |
+| Let There Be Light | 32.00% | ~20,046 |
+| Float Like a Butterfly | 30.00% | ~18,793 |
+| Nordic Walking | 24.00% | ~15,034 |
+| Bright Falls' Finest | 24.00% | ~15,034 |
+| Under a Thin Layer of Skin | 21.00% | ~13,155 |
+| Park Ranger | 17.00% | ~10,649 |
+| Paging Mr. Wake | 17.00% | ~10,649 |
+| Back! Back, I Say! | 16.00% | ~10,023 |
+| Finders Keepers | 16.00% | ~10,023 |
+| Sound and Fury | 15.00% | ~9,396 |
+| Damn Good Cup of Coffee | 15.00% | ~9,396 |
+| Wheels Within Wheels | 14.00% | ~8,770 |
+| They're Heeeeeere! | 14.00% | ~8,770 |
+| Missed by a Mile | 14.00% | ~8,770 |
+| Iron Horse | 13.00% | ~8,144 |
+| The Six-Gun Scribe | 13.00% | ~8,144 |
+| Collateral Carnage | 13.00% | ~8,144 |
+| Come One, Come All | 13.00% | ~8,144 |
+| Heavy Metal | 12.00% | ~7,517 |
+| Perchance to Dream | 12.00% | ~7,517 |
+| Gatekeeper | 11.00% | ~6,891 |
+| It's Not Just a Typewriter Brand | 11.00% | ~6,891 |
+| Thunder and Lightning | 11.00% | ~6,891 |
+| Two For the Price of One | 11.00% | ~6,891 |
+| The Lady of the Light | 10.00% | ~6,264 |
+| Energized! | 10.00% | ~6,264 |
+| What Light Through Yonder Window | 9.00% | ~5,638 |
+| Right of Way | 9.00% | ~5,638 |
 | Tornado Wrangler | 8.00% | ~5,011 |
-| A Friend in Need | 8.00% | ~2,088 |
-| Departure | 7.00% | ~4,384 |
-| Drink 'Em Both Up | 6.00% | ~3,758 |
-| Hardboiled Writer | 6.00% | ~3,758 |
-| A Friend Indeed | 6.00% | ~1,566 |
-| Ding! | 6.00% | ~1,566 |
+| A Friend in Need | 8.00% | ~2,089 |
+| Departure | 7.00% | ~4,385 |
+| Drink 'Em Both Up | 6.00% | ~3,759 |
+| Hardboiled Writer | 6.00% | ~3,759 |
+| A Friend Indeed | 6.00% | ~1,567 |
+| Ding! | 6.00% | ~1,567 |
 | Children of the Elder God | 5.00% | ~3,132 |
-| Boob Tube | 4.00% | ~2,505 |
-| If It Flies, It Burns | 4.00% | ~2,505 |
-| KBF-FM | 4.00% | ~2,505 |
+| Boob Tube | 4.00% | ~2,506 |
+| If It Flies, It Burns | 4.00% | ~2,506 |
+| KBF-FM | 4.00% | ~2,506 |
 | Heartbreaker | 4.00% | ~1,044 |
 | Carny | 3.00% | ~1,879 |
 | Kill Your Darlings | 3.00% | ~783 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~63 |
 | No Punctuation | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,634 (Ranked 87)  
+Progressed: 62,643 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 65 (0.10%) (Ranked 218)
 | 2023-09-04 | 62,326 | 65 |
 | 2023-09-05 | 62,420 | 65 |
 | 2023-09-06 | 62,634 | 65 |
+| 2023-09-07 | 62,643 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

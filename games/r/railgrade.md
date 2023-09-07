@@ -5,25 +5,25 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,172 |
-| Before the Downfall | 93.00% | ~18,194 |
-| Money like Water | 91.00% | ~17,802 |
-| Minimalist | 90.00% | ~17,607 |
-| Builder | 83.00% | ~16,237 |
-| Eraser | 70.00% | ~13,694 |
-| Pocket of Trains | 65.00% | ~12,716 |
+| Trevithick's Legacy | 98.00% | ~19,171 |
+| Before the Downfall | 93.00% | ~18,193 |
+| Money like Water | 91.00% | ~17,801 |
+| Minimalist | 90.00% | ~17,606 |
+| Builder | 83.00% | ~16,236 |
+| Eraser | 70.00% | ~13,693 |
+| Pocket of Trains | 65.00% | ~12,715 |
 | Inspector | 59.00% | ~11,542 |
-| Going the Distance | 54.00% | ~10,564 |
+| Going the Distance | 54.00% | ~10,563 |
 | Oil Baron | 42.00% | ~8,216 |
 | Loads-a-Money | 42.00% | ~8,216 |
-| Helper of the People | 39.00% | ~7,630 |
+| Helper of the People | 39.00% | ~7,629 |
 | Simplification | 34.00% | ~6,651 |
-| Box of Trains | 33.00% | ~6,456 |
+| Box of Trains | 33.00% | ~6,455 |
 | Let There be Light | 32.00% | ~6,260 |
-| Hot Water | 31.00% | ~6,065 |
+| Hot Water | 31.00% | ~6,064 |
 | Indecisive | 29.00% | ~5,673 |
-| The scenic route | 28.00% | ~5,478 |
-| Industrialist | 25.00% | ~4,891 |
+| The scenic route | 28.00% | ~5,477 |
+| Industrialist | 25.00% | ~4,890 |
 | Perfectionist | 24.00% | ~4,695 |
 | 8K is Enough for Everyone | 23.00% | ~4,499 |
 | Trains over Pipes | 23.00% | ~4,499 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 505)
 | Overdeer | 0.50% | ~98 |
 | Cloud Services | 0.30% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,563 (Ranked 109)  
+Progressed: 19,562 (Ranked 109)  
 Completed: 38 (0.19%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,6 +180,7 @@ Completed: 38 (0.19%) (Ranked 196)
 | 2023-09-04 | 19,576 | 37 |
 | 2023-09-05 | 19,578 | 38 |
 | 2023-09-06 | 19,579 | 38 |
+| 2023-09-07 | 19,562 | 38 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 356)  
 Sum: 665 (Ranked 287)  

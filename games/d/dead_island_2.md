@@ -21,9 +21,9 @@ Rating: 4.54 (Ranked 505)
 | Can't Handle the Truth | 0.90% | ~6,073 |
 | Like Riding a Bike | 0.90% | ~6,073 |
 | This is My Weapon | 0.90% | ~6,073 |
-| Slayer Squad | 0.80% | ~5,398 |
-| Zombologist | 0.80% | ~5,398 |
-| A Patton Emerges | 0.80% | ~5,398 |
+| Slayer Squad | 0.80% | ~5,399 |
+| Zombologist | 0.80% | ~5,399 |
+| A Patton Emerges | 0.80% | ~5,399 |
 | Anger Management | 0.70% | ~4,724 |
 | Perks of the Job | 0.70% | ~4,724 |
 | Ooh, Shiny! | 0.70% | ~4,724 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,799 (Ranked 22)  
+Progressed: 674,813 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,6 +191,7 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
+| 2023-09-07 | 674,813 | 2,119 |
 ## Awards
 Max (Great Boss Battles): 5,928  (Ranked 60)  
 Sum: 8,751 (Ranked 95)  

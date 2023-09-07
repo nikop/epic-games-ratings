@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -595,9 +595,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 341921,
+  "EOS_Progressed": 341924,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1212,
+  "EOS_NewPlayers": 1210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16095,6 +16095,11 @@
       "Time": "2023-09-06T23:06:21.1392389+00:00",
       "NumProgressed": 341921,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-07T00:06:07.124867+00:00",
+      "NumProgressed": 341924,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -16210,7 +16215,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51288
+      "UsersEstimate": 51289
     },
     {
       "ID": "ach015",
@@ -16314,7 +16319,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157284
+      "UsersEstimate": 157285
     },
     {
       "ID": "ach028",
@@ -16330,7 +16335,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37611
+      "UsersEstimate": 37612
     },
     {
       "ID": "ach030",
@@ -16442,7 +16447,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23934
+      "UsersEstimate": 23935
     },
     {
       "ID": "ach044",
@@ -16466,7 +16471,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23934
+      "UsersEstimate": 23935
     },
     {
       "ID": "ach047",
@@ -16506,7 +16511,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37611
+      "UsersEstimate": 37612
     },
     {
       "ID": "ach052",
@@ -16634,7 +16639,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54707
+      "UsersEstimate": 54708
     },
     {
       "ID": "ach069",
@@ -16714,7 +16719,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23934
+      "UsersEstimate": 23935
     },
     {
       "ID": "ach079",
@@ -16745,7 +16750,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 341921,
+      "Progressed": 341924,
       "Completed": 7
     }
   ],
@@ -16753,8 +16758,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-04T17:58:02.8250479+00:00",
-  "LastChanged_Achievements": "2023-09-06T23:06:21.1392387+00:00",
+  "LastChanged_Achievements": "2023-09-07T00:06:07.1248665+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:13.1145719+00:00",
-  "LastUpdate_Ratings": "2023-09-06T22:58:45.3904334+00:00",
-  "LastUpdate_Achievements": "2023-09-06T23:06:21.1394152+00:00"
+  "LastUpdate_Ratings": "2023-09-06T23:58:33.469561+00:00",
+  "LastUpdate_Achievements": "2023-09-07T00:06:07.1250619+00:00"
 }

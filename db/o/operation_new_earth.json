@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1252,
+  "EOS_Progressed": 1254,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4446,6 +4446,11 @@
       "Time": "2023-09-06T23:06:25.9721545+00:00",
       "NumProgressed": 1252,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T00:06:11.716695+00:00",
+      "NumProgressed": 1254,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4633,7 +4638,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4760,14 +4765,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1252,
+      "Progressed": 1254,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-06T23:06:25.972154+00:00",
+  "LastChanged_Achievements": "2023-09-07T00:06:11.7166945+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-06T22:57:30.7276602+00:00",
-  "LastUpdate_Achievements": "2023-09-06T23:06:25.9722222+00:00"
+  "LastUpdate_Ratings": "2023-09-06T23:57:24.0863592+00:00",
+  "LastUpdate_Achievements": "2023-09-07T00:06:11.7167495+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 325,
+  "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 152,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -64,6 +64,11 @@
       "Time": "2023-09-06T23:04:17.2302714+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T00:04:10.2515592+00:00",
+      "NumProgressed": 152,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -74,17 +79,17 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "c7hf6a4",
       "Name": "Hear That Roar!",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -92,15 +97,15 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
       "SetID": "c7hf6a4",
       "Name": "Stamina Star",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -108,7 +113,7 @@
       "Name": "Restored and Ready",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -116,37 +121,37 @@
       "Name": "Make It Your Own!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "c7hf6a4",
       "Name": "Iconic!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "c7hf6a4",
       "Name": "I Want One Too!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
       "SetID": "c7hf6a4",
       "Name": "Is It the Right Size?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -162,7 +167,7 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "c7hf6a4",
       "Name": "Legendary!!!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -180,7 +185,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -188,7 +193,7 @@
       "Name": "I\u0027ll Be the Best!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -212,7 +217,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -236,7 +241,7 @@
       "Name": "Romantic Races",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -252,7 +257,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -260,7 +265,7 @@
       "Name": "Still Here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -284,7 +289,7 @@
       "Name": "Clean Race",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -332,7 +337,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -340,7 +345,7 @@
       "Name": "Next Level",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -348,7 +353,7 @@
       "Name": "Full Power",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -356,7 +361,7 @@
       "Name": "At the Top",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -364,23 +369,23 @@
       "Name": "Bitter Rivalry",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -388,7 +393,7 @@
       "Name": "Rounding Off",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -396,7 +401,7 @@
       "Name": "My Work Here Is Done",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -404,7 +409,7 @@
       "Name": "In Search of Perfection",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -428,7 +433,7 @@
       "Name": "Rivals to the End",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -452,7 +457,7 @@
       "Name": "There\u0027s a Great View up Here",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ML_ACHIEVEMENT_49",
@@ -460,21 +465,21 @@
       "Name": "Absolute Champion",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 152,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-06T23:04:17.2302709+00:00",
+  "LastChanged_Achievements": "2023-09-07T00:04:10.2515586+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:05.9586352+00:00",
-  "LastUpdate_Ratings": "2023-09-06T22:59:27.0571798+00:00",
-  "LastUpdate_Achievements": "2023-09-06T23:04:17.2303147+00:00"
+  "LastUpdate_Ratings": "2023-09-06T23:59:18.5659438+00:00",
+  "LastUpdate_Achievements": "2023-09-07T00:04:10.2515976+00:00"
 }

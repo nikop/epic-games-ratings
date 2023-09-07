@@ -5,36 +5,36 @@ Rating: 4.40 (Ranked 712)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~167,054 |
-| Destroyer-In-Chief | 58.00% | ~151,393 |
-| There Is No Pancakes | 54.00% | ~140,952 |
-| First of Many | 42.00% | ~109,629 |
-| Woah. | 37.00% | ~96,578 |
-| Don't Look Down | 30.00% | ~78,307 |
-| Don't Panic | 28.00% | ~73,086 |
-| Ooo A Piece of Candy! | 23.00% | ~60,035 |
-| Ghost in the Machine | 18.00% | ~46,984 |
-| All Too Easy | 15.00% | ~39,153 |
-| Didn't Need to See Him Naked | 14.00% | ~36,543 |
-| Indomitable | 10.00% | ~26,102 |
-| Blast from the Past | 9.00% | ~23,492 |
-| Bow to the Boss! | 9.00% | ~23,492 |
-| Friend of the Raptors | 9.00% | ~23,492 |
-| About Time! | 8.00% | ~20,882 |
-| Actor-Turned-Politician | 7.00% | ~18,272 |
-| Betrayed | 7.00% | ~18,272 |
-| Maximum Stopping Power | 7.00% | ~18,272 |
-| Poodle Skirt | 7.00% | ~18,272 |
-| You Chose... Poorly | 7.00% | ~18,272 |
-| Double Team | 6.00% | ~15,661 |
-| Keymaster | 6.00% | ~15,661 |
-| *BEEP* YOU, CLAWZ! | 5.00% | ~13,051 |
-| Imperator | 5.00% | ~13,051 |
-| ...A Saint Gets a Gun | 4.00% | ~10,441 |
-| Half Way Home | 4.00% | ~10,441 |
-| How It Should Be | 4.00% | ~10,441 |
-| Machine Man | 4.00% | ~10,441 |
-| The Full Kinzie | 4.00% | ~10,441 |
+| Zero Saints Thirty | 64.00% | ~167,065 |
+| Destroyer-In-Chief | 58.00% | ~151,403 |
+| There Is No Pancakes | 54.00% | ~140,961 |
+| First of Many | 42.00% | ~109,636 |
+| Woah. | 37.00% | ~96,584 |
+| Don't Look Down | 30.00% | ~78,312 |
+| Don't Panic | 28.00% | ~73,091 |
+| Ooo A Piece of Candy! | 23.00% | ~60,039 |
+| Ghost in the Machine | 18.00% | ~46,987 |
+| All Too Easy | 15.00% | ~39,156 |
+| Didn't Need to See Him Naked | 14.00% | ~36,545 |
+| Indomitable | 10.00% | ~26,104 |
+| Blast from the Past | 9.00% | ~23,494 |
+| Bow to the Boss! | 9.00% | ~23,494 |
+| Friend of the Raptors | 9.00% | ~23,494 |
+| About Time! | 8.00% | ~20,883 |
+| Actor-Turned-Politician | 7.00% | ~18,273 |
+| Betrayed | 7.00% | ~18,273 |
+| Maximum Stopping Power | 7.00% | ~18,273 |
+| Poodle Skirt | 7.00% | ~18,273 |
+| You Chose... Poorly | 7.00% | ~18,273 |
+| Double Team | 6.00% | ~15,662 |
+| Keymaster | 6.00% | ~15,662 |
+| *BEEP* YOU, CLAWZ! | 5.00% | ~13,052 |
+| Imperator | 5.00% | ~13,052 |
+| ...A Saint Gets a Gun | 4.00% | ~10,442 |
+| Half Way Home | 4.00% | ~10,442 |
+| How It Should Be | 4.00% | ~10,442 |
+| Machine Man | 4.00% | ~10,442 |
+| The Full Kinzie | 4.00% | ~10,442 |
 | And I Ran... | 3.00% | ~7,831 |
 | Chill Out | 3.00% | ~7,831 |
 | Elementary | 3.00% | ~7,831 |
@@ -42,13 +42,13 @@ Rating: 4.40 (Ranked 712)
 | Paranormal Bromance | 3.00% | ~7,831 |
 | Saints & Sensibility | 3.00% | ~7,831 |
 | The Two Shaundis | 3.00% | ~7,831 |
-| Benjamin [CENSORED] King | 2.00% | ~5,220 |
-| Better This Way | 2.00% | ~5,220 |
-| Bouncin' with an Old Friend | 2.00% | ~5,220 |
-| Our Gift to You | 2.00% | ~5,220 |
-| The Face of the Saints | 2.00% | ~5,220 |
-| The Twin Saints | 2.00% | ~5,220 |
-| Where's My Cape? | 2.00% | ~5,220 |
+| Benjamin [CENSORED] King | 2.00% | ~5,221 |
+| Better This Way | 2.00% | ~5,221 |
+| Bouncin' with an Old Friend | 2.00% | ~5,221 |
+| Our Gift to You | 2.00% | ~5,221 |
+| The Face of the Saints | 2.00% | ~5,221 |
+| The Twin Saints | 2.00% | ~5,221 |
+| Where's My Cape? | 2.00% | ~5,221 |
 | A Real Cluster.... | 1.00% | ~2,610 |
 | A Very Genki Holiday | 1.00% | ~2,610 |
 | Here! Catch! | 1.00% | ~2,610 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 712)
 | Super Power Team Up! | 0.10% | ~261 |
 | Ultimate Hot Potato | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,022 (Ranked 45)  
+Progressed: 261,039 (Ranked 45)  
 Completed: 15 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 15 (0.01%) (Ranked 256)
 | 2023-09-04 | 259,832 | 15 |
 | 2023-09-05 | 260,442 | 15 |
 | 2023-09-06 | 261,022 | 15 |
+| 2023-09-07 | 261,039 | 15 |
 ## Awards
 Max (Great Boss Battles): 452  (Ranked 206)  
 Sum: 452 (Ranked 312)  
