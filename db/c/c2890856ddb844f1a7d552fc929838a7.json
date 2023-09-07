@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 715,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1246,9 +1246,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 322
     },
     {
       "ID": "AC10",
@@ -1326,9 +1326,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 315
     },
     {
       "ID": "AC20",
@@ -1358,9 +1358,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 214
     },
     {
       "ID": "AC24",
@@ -1551,8 +1551,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-07T02:58:07.8091825+00:00",
-  "LastChanged_Achievements": "2023-09-07T04:03:25.1137758+00:00",
+  "LastChanged_Achievements": "2023-09-07T05:03:34.5467014+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-07T03:57:53.6352668+00:00",
-  "LastUpdate_Achievements": "2023-09-07T04:03:25.1138109+00:00"
+  "LastUpdate_Ratings": "2023-09-07T04:58:05.3690842+00:00",
+  "LastUpdate_Achievements": "2023-09-07T05:03:34.5467403+00:00"
 }

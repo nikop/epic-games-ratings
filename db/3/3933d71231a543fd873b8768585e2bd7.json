@@ -4,8 +4,8 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -184,9 +184,9 @@
       "ID": "achievements.completemission.islands.01",
       "SetID": "1kd1942",
       "Name": "I Will Survive",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievements.completemission.islands.02",
@@ -280,9 +280,9 @@
       "ID": "achievements.researches.upgrades50",
       "SetID": "1kd1942",
       "Name": "Accelerating Progress",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievements.researches.upgradesall",
@@ -311,8 +311,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-07T04:04:09.3080358+00:00",
+  "LastChanged_Achievements": "2023-09-07T05:04:31.8685324+00:00",
   "LastUpdate_AppInfo": "2023-09-01T08:57:12.467565+00:00",
-  "LastUpdate_Ratings": "2023-09-07T03:59:03.8189022+00:00",
-  "LastUpdate_Achievements": "2023-09-07T04:04:09.3080452+00:00"
+  "LastUpdate_Ratings": "2023-09-07T04:59:18.5111366+00:00",
+  "LastUpdate_Achievements": "2023-09-07T05:04:31.8685575+00:00"
 }

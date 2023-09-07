@@ -37,13 +37,13 @@ Rating: 4.55 (Ranked 488)
 | What the Ruins Teach Us | 4.00% | ~126 |
 | Sustainable Energy | 3.00% | ~94 |
 | In Dolos We Trust | 3.00% | ~94 |
+| Delivery! | 3.00% | ~94 |
 | Pedal to the Metal | 3.00% | ~94 |
 | Pulsar Disciple | 3.00% | ~94 |
 | Mutual Loyalty | 2.00% | ~63 |
 | Catastrophe Avoided | 2.00% | ~63 |
 | Praise the Hull! | 2.00% | ~63 |
 | Space Greenhouse | 2.00% | ~63 |
-| Delivery! | 2.00% | ~63 |
 | Help of the Forgotten Member | 2.00% | ~63 |
 | Better Him Than Me | 1.00% | ~31 |
 | Tiqqun Contender | 1.00% | ~31 |

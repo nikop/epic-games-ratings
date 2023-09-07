@@ -87,13 +87,13 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-07 | 1,198 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
-Sum: 254 (Ranked 354)  
+Sum: 255 (Ranked 354)  
 Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |
 | This game has Amazing Characters | 29 |
-| This game is Great for Beginners | 28 |
+| This game is Great for Beginners | 29 |
 | This game has Quickly Understood Controls | 26 |
 | This game has Unique Visuals | 26 |
 | This game has Diverse Characters | 25 |
@@ -178,3 +178,4 @@ Diff (max vs sum): 102
 | 2023-07-25 | 4.50 | - | 32 | 226 |
 | 2023-07-26 | 4.49 | - | 32 | 226 |
 | 2023-08-19 | 4.49 | - | 32 | 254 |
+| 2023-09-07 | 4.49 | - | 32 | 255 |

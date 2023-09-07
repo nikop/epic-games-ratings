@@ -7,18 +7,18 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~36,208 |
-| I read Shakespeare and stuff | 64.00% | ~30,897 |
+| I read Shakespeare and stuff | 64.00% | ~30,898 |
 | Just a sprinkle | 63.00% | ~30,415 |
-| I'm stumped | 61.00% | ~29,449 |
-| Plant get enough | 60.00% | ~28,966 |
-| It's just the beginning | 59.00% | ~28,483 |
+| I'm stumped | 61.00% | ~29,450 |
+| Plant get enough | 60.00% | ~28,967 |
+| It's just the beginning | 59.00% | ~28,484 |
 | This is just my weekend vehicle | 58.00% | ~28,001 |
 | Hard work pays off | 53.00% | ~25,587 |
 | It's never too late to farm | 49.00% | ~23,656 |
 | All out of Land | 44.00% | ~21,242 |
-| Field Trip | 43.00% | ~20,759 |
+| Field Trip | 43.00% | ~20,760 |
 | I like to switch it up | 40.00% | ~19,311 |
-| Help me to help you | 38.00% | ~18,345 |
+| Help me to help you | 38.00% | ~18,346 |
 | Ultimutt Pawesomeness | 28.00% | ~13,518 |
 | Van Gogh | 26.00% | ~12,552 |
 | You wood not believe it | 22.00% | ~10,621 |
@@ -31,8 +31,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | That's a wrap | 15.00% | ~7,242 |
 | Fix me up | 13.00% | ~6,276 |
 | Rock on | 12.00% | ~5,793 |
-| Highly cultivated | 11.00% | ~5,310 |
-| It's sow easy | 11.00% | ~5,310 |
+| Highly cultivated | 11.00% | ~5,311 |
+| It's sow easy | 11.00% | ~5,311 |
 | Giddy-up! | 10.00% | ~4,828 |
 | Cowherd | 7.00% | ~3,379 |
 | Fluffyness | 6.00% | ~2,897 |
@@ -41,7 +41,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Road Trip | 5.00% | ~2,414 |
 | Three little piggies… | 4.00% | ~1,931 |
 | Game on | 4.00% | ~1,931 |
-| Pretty colourful | 0.90% | ~434 |
+| Pretty colourful | 0.90% | ~435 |
 | Original grain | 0.80% | ~386 |
 | Thoroughbred! | 0.60% | ~290 |
 | Gone but not for cotton | 0.50% | ~241 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~193 |
 | Raisin the stakes | 0.30% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,277 (Ranked 92)  
+Progressed: 48,278 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 6 (0.01%) (Ranked 256)
 | 2023-09-04 | 48,199 | 6 |
 | 2023-09-05 | 48,237 | 6 |
 | 2023-09-06 | 48,273 | 6 |
-| 2023-09-07 | 48,277 | 6 |
+| 2023-09-07 | 48,278 | 6 |
 ## Awards
 Max (Great for Beginners): 4,887  (Ranked 68)  
 Sum: 39,932 (Ranked 32)  

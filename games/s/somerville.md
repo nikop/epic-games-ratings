@@ -17,7 +17,7 @@ Rating: 4.20 (Ranked 866)
 | War of the worlds | 0.10% | ~2 |
 | First contact | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,632 (Ranked 185)  
+Progressed: 1,632 (Ranked 186)  
 Completed: 27 (1.65%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |

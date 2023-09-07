@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249019,
+  "EOS_Progressed": 249020,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13404,6 +13404,11 @@
       "Time": "2023-09-07T03:04:00.9728656+00:00",
       "NumProgressed": 249019,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-07T05:03:51.6928814+00:00",
+      "NumProgressed": 249020,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -13511,7 +13516,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44823
+      "UsersEstimate": 44824
     },
     {
       "ID": "curator",
@@ -13591,7 +13596,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131980
+      "UsersEstimate": 131981
     },
     {
       "ID": "indegestible",
@@ -13735,7 +13740,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32372
+      "UsersEstimate": 32373
     },
     {
       "ID": "treeMedalist",
@@ -13782,7 +13787,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249019,
+      "Progressed": 249020,
       "Completed": 4
     }
   ],
@@ -13790,8 +13795,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-07T04:03:40.8523815+00:00",
+  "LastChanged_Achievements": "2023-09-07T05:03:51.6928802+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.8400765+00:00",
-  "LastUpdate_Ratings": "2023-09-07T04:01:13.0748672+00:00",
-  "LastUpdate_Achievements": "2023-09-07T04:03:40.8524722+00:00"
+  "LastUpdate_Ratings": "2023-09-07T05:01:36.606966+00:00",
+  "LastUpdate_Achievements": "2023-09-07T05:03:51.6930081+00:00"
 }

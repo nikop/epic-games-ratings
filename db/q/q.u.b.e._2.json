@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 200,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1213,9 +1213,9 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_S5",
@@ -1253,8 +1253,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-07T04:04:41.8713913+00:00",
+  "LastChanged_Achievements": "2023-09-07T05:05:16.2717747+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-07T03:58:36.3476527+00:00",
-  "LastUpdate_Achievements": "2023-09-07T04:04:41.8714127+00:00"
+  "LastUpdate_Ratings": "2023-09-07T04:58:49.9941827+00:00",
+  "LastUpdate_Achievements": "2023-09-07T05:05:16.2717978+00:00"
 }

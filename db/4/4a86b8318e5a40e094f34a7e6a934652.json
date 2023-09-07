@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -502,9 +502,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -542,9 +542,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "TAKE_LEECH",
@@ -573,8 +573,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-07T04:03:44.405649+00:00",
+  "LastChanged_Achievements": "2023-09-07T05:04:05.4271388+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-07T03:58:15.3581627+00:00",
-  "LastUpdate_Achievements": "2023-09-07T04:03:44.4056636+00:00"
+  "LastUpdate_Ratings": "2023-09-07T04:58:31.2716347+00:00",
+  "LastUpdate_Achievements": "2023-09-07T05:04:05.427155+00:00"
 }

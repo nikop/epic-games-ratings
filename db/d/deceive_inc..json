@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17888,
+  "EOS_Progressed": 17889,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9798,6 +9798,11 @@
       "Time": "2023-09-07T03:04:07.843466+00:00",
       "NumProgressed": 17888,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T05:04:08.5942306+00:00",
+      "NumProgressed": 17889,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9993,7 +9998,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3936
     },
     {
       "ID": "0025",
@@ -10033,7 +10038,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "0030",
@@ -10096,7 +10101,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17888,
+      "Progressed": 17889,
       "Completed": 1
     }
   ],
@@ -10104,8 +10109,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-07T04:03:47.2384767+00:00",
+  "LastChanged_Achievements": "2023-09-07T05:04:08.5942301+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-07T04:01:48.3401945+00:00",
-  "LastUpdate_Achievements": "2023-09-07T04:03:47.2385421+00:00"
+  "LastUpdate_Ratings": "2023-09-07T05:02:10.9004228+00:00",
+  "LastUpdate_Achievements": "2023-09-07T05:04:08.5942968+00:00"
 }

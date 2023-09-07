@@ -19,7 +19,7 @@ Number of Ratings: 154  (23.09.2022)
 | Gallant Spin Dash | 60.00% | ~272 |
 | Miles "Tails" Prower | 60.00% | ~272 |
 | Bubbly Breath | 58.00% | ~263 |
-| Boss Rush Attempt | 53.00% | ~240 |
+| Boss Rush Attempt | 54.00% | ~245 |
 | Cleared Sonic the Hedgehog | 50.00% | ~226 |
 | Super Sonic | 46.00% | ~208 |
 | Museum Time | 45.00% | ~204 |
@@ -43,7 +43,7 @@ Number of Ratings: 154  (23.09.2022)
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 453 (Ranked 246)  
-Completed: 41 (9.05%) (Ranked 31)  
+Completed: 41 (9.05%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
