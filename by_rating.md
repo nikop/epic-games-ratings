@@ -344,7 +344,7 @@
 | 335 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.63 | 0 | 517 |
 | 335 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 517 |
 | 335 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 184 | 280 |
-| 335 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 605 | 182 |
+| 335 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 607 | 181 |
 | 335 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 517 |
 | 335 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 280 |
 | 335 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 237 |
@@ -870,27 +870,27 @@
 | 866 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 517 |
 | 866 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 497 |
 | 866 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.20 | 0 | 517 |
+| 866 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.20 | 0 | 517 |
 | 866 | [Somerville](games/s/somerville.md) | 4.20 | 0 | 517 |
-| 872 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 404 |
-| 872 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 451 |
-| 872 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 517 |
-| 872 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.19 | 0 | 517 |
-| 872 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 76 | 369 |
-| 872 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 198,630 | 5 |
-| 872 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 517 |
-| 872 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 517 |
-| 872 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 73 | 374 |
-| 872 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 517 |
-| 882 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 517 |
-| 882 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 93 | 349 |
-| 882 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 517 |
-| 882 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,588 | 98 |
-| 882 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 343 |
-| 882 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 517 |
-| 882 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 150 | 300 |
-| 882 | [Wreckfest](games/w/wreckfest.md) | 4.18 | 0 | 517 |
-| 890 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.17 | 0 | 517 |
-| 890 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 517 |
+| 873 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 404 |
+| 873 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 451 |
+| 873 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 517 |
+| 873 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.19 | 0 | 517 |
+| 873 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 76 | 369 |
+| 873 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 198,630 | 5 |
+| 873 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 517 |
+| 873 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 517 |
+| 873 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 73 | 374 |
+| 873 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 517 |
+| 883 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 517 |
+| 883 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 93 | 349 |
+| 883 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 517 |
+| 883 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,588 | 98 |
+| 883 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 343 |
+| 883 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 517 |
+| 883 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 150 | 300 |
+| 883 | [Wreckfest](games/w/wreckfest.md) | 4.18 | 0 | 517 |
+| 891 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 517 |
 | 892 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 517 |
 | 892 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 614 | 180 |
 | 892 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.16 | 0 | 517 |

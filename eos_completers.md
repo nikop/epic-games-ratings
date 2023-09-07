@@ -71,7 +71,7 @@
 | 69 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.15% |
 | 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.06% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
+| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.00% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.92% |
@@ -81,7 +81,7 @@
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 81 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
-| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.54% |
+| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
 | 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.52% |
 | 84 | [Lamentum](games/l/lamentum.md) | 2.51% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
