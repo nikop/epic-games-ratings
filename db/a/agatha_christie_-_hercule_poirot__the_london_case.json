@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -95,9 +95,9 @@
       "ID": "ACH_012",
       "SetID": "7b646ck",
       "Name": "Well-acquainted",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_013",
@@ -127,9 +127,9 @@
       "ID": "ACH_016",
       "SetID": "7b646ck",
       "Name": "Truth from within",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_017",
@@ -207,9 +207,9 @@
       "ID": "ACH_025",
       "SetID": "7b646ck",
       "Name": "A curious phrase",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_026",
@@ -263,9 +263,9 @@
       "ID": "ACH_031",
       "SetID": "7b646ck",
       "Name": "Anastasia Babanin",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_032",
@@ -446,8 +446,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:04:26.8818595+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:04:45.6382051+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:55.602384+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:57:33.6266426+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:04:26.8819093+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:57:46.5841021+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:04:45.6382469+00:00"
 }

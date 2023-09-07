@@ -4,8 +4,8 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
     "PcReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1386,6 +1386,11 @@
       "Time": "2023-09-07T08:05:00.9518264+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T10:05:20.1932794+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1428,9 +1433,9 @@
       "ID": "hidden_basement",
       "SetID": "5fi1i42",
       "Name": "Hidden Basement",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "login_count",
@@ -1476,9 +1481,9 @@
       "ID": "publish_your_first_world",
       "SetID": "5fi1i42",
       "Name": "First world published",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 120,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "seconds_played",
@@ -1532,9 +1537,9 @@
       "ID": "visit_cleric",
       "SetID": "5fi1i42",
       "Name": "Visit Cleric",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "waifu_kata",
@@ -1549,14 +1554,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:05:11.230486+00:00",
-  "LastUpdate_AppInfo": "2023-08-31T08:57:15.1922582+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:58:30.8344425+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:05:11.2305129+00:00"
+  "LastChanged_Achievements": "2023-09-07T10:05:20.1932785+00:00",
+  "LastUpdate_AppInfo": "2023-09-07T09:57:19.8492042+00:00",
+  "LastUpdate_Ratings": "2023-09-07T09:58:45.856567+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:05:20.1933079+00:00"
 }

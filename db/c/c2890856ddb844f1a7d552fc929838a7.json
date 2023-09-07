@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1339,9 +1339,9 @@
       "ID": "AC20",
       "SetID": "l4abp0",
       "Name": "Still Among Us",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 100
     },
     {
       "ID": "AC21",
@@ -1363,9 +1363,9 @@
       "ID": "AC23",
       "SetID": "l4abp0",
       "Name": "Hide and Seek",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 215
     },
     {
       "ID": "AC24",
@@ -1556,8 +1556,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-07T02:58:07.8091825+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:03:42.3788517+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:03:41.7319993+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:58:02.6491997+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:03:42.3789307+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:58:17.8302782+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:03:41.7320474+00:00"
 }

@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,776 (Ranked 67)  
-Completed: 145 (0.11%) (Ranked 215)  
+Progressed: 135,779 (Ranked 67)  
+Completed: 146 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 145 (0.11%) (Ranked 215)
 | 2023-09-04 | 135,661 | 142 |
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
-| 2023-09-07 | 135,776 | 145 |
+| 2023-09-07 | 135,779 | 146 |
 ## Awards
 Max (Great for Beginners): 4,727  (Ranked 70)  
 Sum: 27,182 (Ranked 48)  

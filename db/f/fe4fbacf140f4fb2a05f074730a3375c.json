@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-15T14:00:00+00:00",
     "PcReleaseDate": "2019-09-27T12:00:00+00:00",
@@ -225,17 +225,17 @@
       "ID": "Reincarnation",
       "SetID": "bl5ebnd",
       "Name": "Reincarnation",
-      "Percentage": 35,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SelfieKing",
       "SetID": "bl5ebnd",
       "Name": "Selfie King",
-      "Percentage": 29,
+      "Percentage": 35,
       "XP": 85,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TrueBlogger",
@@ -264,8 +264,8 @@
   ],
   "FirstSeen": "2023-08-17T18:58:24.9645981+00:00",
   "FirstSeenAchievements": "2023-08-07T14:05:00.198888+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:04:45.3261911+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:05:04.2533582+00:00",
   "LastUpdate_AppInfo": "2023-08-31T13:01:50.1916248+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:58:19.8009813+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:04:45.3262043+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:58:35.5649205+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:05:04.2533748+00:00"
 }

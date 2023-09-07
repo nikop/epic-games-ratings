@@ -17,9 +17,13 @@
 | Impossible is possible | 25.00% | ~2 |
 | The Missing Magdalene | 25.00% | ~2 |
 | Arthur Hastings | 25.00% | ~2 |
+| Well-acquainted | 13.00% | ~1 |
+| Truth from within | 13.00% | ~1 |
 | An expert mediator | 13.00% | ~1 |
 | An odd series of events | 13.00% | ~1 |
 | A rude awakening | 13.00% | ~1 |
+| A curious phrase | 13.00% | ~1 |
+| Anastasia Babanin | 13.00% | ~1 |
 | Betty Allen | 13.00% | ~1 |
 | Ms. Camilla B. Culsham | 13.00% | ~1 |
 | DI Hardwicke | 13.00% | ~1 |
@@ -32,15 +36,11 @@
 | The Scheme | 13.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
-| Well-acquainted | 0.00% | ~0 |
-| Truth from within | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
-| A curious phrase | 0.00% | ~0 |
 | A perilous journey | 0.00% | ~0 |
 | A peculiar fellow | 0.00% | ~0 |
 | The Penitent Magdalene | 0.00% | ~0 |
 | A true performance | 0.00% | ~0 |
-| Anastasia Babanin | 0.00% | ~0 |
 | Evelyn Lakshmi Warbeck | 0.00% | ~0 |
 | Florence Farquhar | 0.00% | ~0 |
 | Horace Mountjoy | 0.00% | ~0 |

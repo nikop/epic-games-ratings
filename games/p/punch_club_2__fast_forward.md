@@ -56,9 +56,9 @@
 | Problems of cyborgs | 35.00% | ~111 |
 | Undercover robot | 35.00% | ~111 |
 | Anyone can resist | 34.00% | ~108 |
+| Not little hacker | 33.00% | ~105 |
 | Absolute Champion! | 33.00% | ~105 |
 | Trap disarmed | 32.00% | ~102 |
-| Not little hacker | 32.00% | ~102 |
 | The last bell ring | 32.00% | ~102 |
 | Careerist | 32.00% | ~102 |
 | Another world | 31.00% | ~99 |
@@ -67,8 +67,8 @@
 | Family comes first | 31.00% | ~99 |
 | Key memories | 31.00% | ~99 |
 | The heart of the Resistance | 31.00% | ~99 |
+| Silver’s past | 28.00% | ~89 |
 | Better cooking at home | 28.00% | ~89 |
-| Silver’s past | 27.00% | ~86 |
 | The only right decision | 27.00% | ~86 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 318 (Ranked 273)  

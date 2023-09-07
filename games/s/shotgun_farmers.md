@@ -31,11 +31,11 @@
 | This Is My Boomstick | 15.00% | ~35 |
 | Quit Horsin' Around | 12.00% | ~34 |
 | Summers Here | 12.00% | ~28 |
+| Perfect | 11.00% | ~26 |
 | Fresh Pancake | 10.00% | ~28 |
-| Perfect | 10.00% | ~23 |
+| Bring Home The Bacon | 9.00% | ~25 |
 | Expert Survivor | 9.00% | ~21 |
 | Quadsparagus | 9.00% | ~21 |
-| Bring Home The Bacon | 8.00% | ~23 |
 | Early Bird | 6.00% | ~17 |
 | Pyromaniac | 6.00% | ~14 |
 | Chick Magnet | 5.00% | ~14 |

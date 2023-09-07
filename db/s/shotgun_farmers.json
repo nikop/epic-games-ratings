@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1217,9 +1217,9 @@
       "ID": "ach_all_ctf_points",
       "SetID": "cmg602e",
       "Name": "Bring Home The Bacon",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_all_points_in_chicken_run",
@@ -1617,9 +1617,9 @@
       "ID": "ach_perfect",
       "SetID": "bf10c8p",
       "Name": "Perfect",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_prestige_2",
@@ -1824,8 +1824,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:07:25.1992411+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:07:34.7607158+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:58.7757342+00:00",
-  "LastUpdate_Ratings": "2023-09-07T09:00:12.6589451+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:07:25.1993304+00:00"
+  "LastUpdate_Ratings": "2023-09-07T10:00:36.488755+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:07:34.7608014+00:00"
 }

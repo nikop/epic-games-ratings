@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16938,
+  "EOS_Progressed": 16939,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -11057,6 +11057,11 @@
       "Time": "2023-09-07T07:04:51.6300776+00:00",
       "NumProgressed": 16938,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-07T10:05:22.3461345+00:00",
+      "NumProgressed": 16939,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -11068,7 +11073,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4573
+      "UsersEstimate": 4574
     },
     {
       "ID": "Burning_For_You",
@@ -11164,7 +11169,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8638
+      "UsersEstimate": 8639
     },
     {
       "ID": "Sole_Survivor",
@@ -11195,15 +11200,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16938,
+      "Progressed": 16939,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:05:13.427467+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:05:22.3461338+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.9189104+00:00",
-  "LastUpdate_Ratings": "2023-09-07T09:01:07.8835187+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:05:13.427606+00:00"
+  "LastUpdate_Ratings": "2023-09-07T10:01:34.0664732+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:05:22.3462098+00:00"
 }

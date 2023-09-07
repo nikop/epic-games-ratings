@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1783,9 +1783,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 485552,
+  "EOS_Progressed": 485553,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16508,6 +16508,11 @@
       "Time": "2023-09-07T09:03:22.206052+00:00",
       "NumProgressed": 485552,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-07T10:03:21.7469362+00:00",
+      "NumProgressed": 485553,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -16567,7 +16572,7 @@
       "Name": "Boot Camp",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 218498
+      "UsersEstimate": 218499
     },
     {
       "ID": "BURNBABYBURN",
@@ -16631,7 +16636,7 @@
       "Name": "Confident",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 199076
+      "UsersEstimate": 199077
     },
     {
       "ID": "CORECONTAINER",
@@ -16663,7 +16668,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 325320
+      "UsersEstimate": 325321
     },
     {
       "ID": "EXTERMINATOR",
@@ -16687,7 +16692,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 359308
+      "UsersEstimate": 359309
     },
     {
       "ID": "FILTHYRICH",
@@ -16711,7 +16716,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 393297
+      "UsersEstimate": 393298
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -16815,7 +16820,7 @@
       "Name": "High Voltage",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 116532
+      "UsersEstimate": 116533
     },
     {
       "ID": "INDECISIVE",
@@ -16831,7 +16836,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 310753
+      "UsersEstimate": 310754
     },
     {
       "ID": "KABOOM",
@@ -16855,7 +16860,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 344742
+      "UsersEstimate": 344743
     },
     {
       "ID": "LIQUIDATOR",
@@ -16967,7 +16972,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 237920
+      "UsersEstimate": 237921
     },
     {
       "ID": "PEWPEW",
@@ -17135,7 +17140,7 @@
       "Name": "The Not-So-Friendly Skies",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 87399
+      "UsersEstimate": 87400
     },
     {
       "ID": "THISISSPARTAN",
@@ -17214,15 +17219,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 485552,
+      "Progressed": 485553,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-08-25T08:01:10.3908538+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:03:22.2060513+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:03:21.7469355+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:57.9385629+00:00",
-  "LastUpdate_Ratings": "2023-09-07T09:00:11.1624424+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:03:22.2063053+00:00"
+  "LastUpdate_Ratings": "2023-09-07T10:00:33.8314892+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:03:21.7471803+00:00"
 }

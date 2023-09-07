@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661866,
+  "EOS_Progressed": 661867,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14140,6 +14140,11 @@
       "Time": "2023-09-07T09:04:37.8360094+00:00",
       "NumProgressed": 661866,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-07T10:04:56.8689028+00:00",
+      "NumProgressed": 661867,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14159,7 +14164,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383882
+      "UsersEstimate": 383883
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14415,7 +14420,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165466
+      "UsersEstimate": 165467
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -14534,15 +14539,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661866,
+      "Progressed": 661867,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:04:37.8360086+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:04:56.8689021+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:59:16.8115761+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:04:37.8361699+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:59:34.8272946+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:04:56.8690583+00:00"
 }

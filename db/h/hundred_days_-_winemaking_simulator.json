@@ -964,9 +964,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1655,
+  "EOS_Progressed": 1666,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1376,
+  "EOS_NewPlayers": 1375,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1914,6 +1914,11 @@
       "Time": "2023-09-07T09:03:43.1394822+00:00",
       "NumProgressed": 1655,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-07T10:03:42.4094918+00:00",
+      "NumProgressed": 1666,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1926,7 +1931,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "a_10",
@@ -1974,7 +1979,7 @@
       "Name": "Bye Bye",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 566
     },
     {
       "ID": "a_19",
@@ -1982,7 +1987,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "a_2",
@@ -1990,7 +1995,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "a_20",
@@ -2014,7 +2019,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "a_23",
@@ -2022,7 +2027,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "a_25",
@@ -2030,7 +2035,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "a_26",
@@ -2164,16 +2169,16 @@
       "ID": "a_9",
       "SetID": "daiie3o",
       "Name": "Very Important Winemaker",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1655,
+      "Progressed": 1666,
       "Completed": 3
     }
   ],
@@ -2181,8 +2186,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:03:43.1394816+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:03:42.4094908+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:59:18.8851076+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:03:43.1395315+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:59:36.8933098+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:03:42.4095283+00:00"
 }

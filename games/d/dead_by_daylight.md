@@ -6,45 +6,46 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 3.00% | ~25,678 |
-| Handyman | 2.00% | ~17,118 |
-| Zealous | 2.00% | ~17,118 |
-| Not half bad | 2.00% | ~17,118 |
-| Apt Survivor | 2.00% | ~17,118 |
-| Survival Treasures | 2.00% | ~17,118 |
-| Skillful | 2.00% | ~17,118 |
-| Sorted | 2.00% | ~17,118 |
-| Make Some Noise | 2.00% | ~17,118 |
-| MU/TH/UR Dearest | 2.00% | ~17,118 |
-| The Grand Sacrifice | 1.00% | ~8,559 |
-| Agonizing Escape | 1.00% | ~8,559 |
-| Backdoor Escape | 1.00% | ~8,559 |
-| I've got your back | 1.00% | ~8,559 |
-| No one left behind | 1.00% | ~8,559 |
-| Medic | 1.00% | ~8,559 |
-| Nerves of steel | 1.00% | ~8,559 |
-| Perfect Escape | 1.00% | ~8,559 |
-| Perfect Killing | 1.00% | ~8,559 |
-| Bloody Millionaire | 1.00% | ~8,559 |
-| Risk it all | 1.00% | ~8,559 |
-| I | 1.00% | ~8,559 |
-| Engineer | 1.00% | ~8,559 |
-| Healthy Obsession | 1.00% | ~8,559 |
-| Resurgence | 1.00% | ~8,559 |
-| Preemptive Strike | 1.00% | ~8,559 |
-| Humanitarian | 1.00% | ~8,559 |
-| Apt Killer | 0.90% | ~7,703 |
-| II | 0.90% | ~7,703 |
-| Wounded Healer | 0.90% | ~7,703 |
-| Close Shave | 0.90% | ~7,703 |
-| Second Act | 0.90% | ~7,703 |
-| Terror of LV-426 | 0.90% | ~7,703 |
-| Vulture | 0.80% | ~6,847 |
-| III | 0.80% | ~6,847 |
-| With Scars to Show | 0.70% | ~5,991 |
+| It wakes | 3.00% | ~25,680 |
+| Handyman | 2.00% | ~17,120 |
+| Zealous | 2.00% | ~17,120 |
+| Not half bad | 2.00% | ~17,120 |
+| Apt Survivor | 2.00% | ~17,120 |
+| Survival Treasures | 2.00% | ~17,120 |
+| Skillful | 2.00% | ~17,120 |
+| Sorted | 2.00% | ~17,120 |
+| Make Some Noise | 2.00% | ~17,120 |
+| MU/TH/UR Dearest | 2.00% | ~17,120 |
+| The Grand Sacrifice | 1.00% | ~8,560 |
+| Agonizing Escape | 1.00% | ~8,560 |
+| Backdoor Escape | 1.00% | ~8,560 |
+| I've got your back | 1.00% | ~8,560 |
+| No one left behind | 1.00% | ~8,560 |
+| Medic | 1.00% | ~8,560 |
+| Nerves of steel | 1.00% | ~8,560 |
+| Perfect Escape | 1.00% | ~8,560 |
+| Perfect Killing | 1.00% | ~8,560 |
+| Bloody Millionaire | 1.00% | ~8,560 |
+| Risk it all | 1.00% | ~8,560 |
+| I | 1.00% | ~8,560 |
+| Engineer | 1.00% | ~8,560 |
+| Healthy Obsession | 1.00% | ~8,560 |
+| Resurgence | 1.00% | ~8,560 |
+| Close Shave | 1.00% | ~8,560 |
+| Preemptive Strike | 1.00% | ~8,560 |
+| Humanitarian | 1.00% | ~8,560 |
+| Apt Killer | 0.90% | ~7,704 |
+| II | 0.90% | ~7,704 |
+| Wounded Healer | 0.90% | ~7,704 |
+| Second Act | 0.90% | ~7,704 |
+| Terror of LV-426 | 0.90% | ~7,704 |
+| Vulture | 0.80% | ~6,848 |
+| III | 0.80% | ~6,848 |
+| With Scars to Show | 0.70% | ~5,992 |
 | Blood on your hands | 0.60% | ~5,136 |
 | III-50 | 0.60% | ~5,136 |
 | Item of Obsession | 0.60% | ~5,136 |
+| Holiday Get-Together | 0.60% | ~5,136 |
 | Cherish your Life | 0.60% | ~5,136 |
 | Unforgettable Getaway | 0.60% | ~5,136 |
 | First to the Punch | 0.60% | ~5,136 |
@@ -60,7 +61,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Shock Therapy | 0.50% | ~4,280 |
 | All Aboard | 0.50% | ~4,280 |
 | House of Pain | 0.50% | ~4,280 |
-| Holiday Get-Together | 0.50% | ~4,280 |
 | Near-Death Experience | 0.50% | ~4,280 |
 | Campbell's Chapel Legacy | 0.50% | ~4,280 |
 | Cutting Out | 0.50% | ~4,280 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~856 |
 | Adept Ripley | 0.10% | ~856 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 855,922 (Ranked 15)  
+Progressed: 855,997 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,14 +376,14 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-04 | 849,226 | 48 |
 | 2023-09-05 | 852,172 | 48 |
 | 2023-09-06 | 854,955 | 48 |
-| 2023-09-07 | 855,922 | 48 |
+| 2023-09-07 | 855,997 | 48 |
 ## Awards
-Max (Diverse Characters): 32,045  (Ranked 15)  
-Sum: 250,884 (Ranked 11)  
+Max (Diverse Characters): 32,082  (Ranked 15)  
+Sum: 250,921 (Ranked 11)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 32,045 |
+| This game has Diverse Characters | 32,082 |
 | This game is Highly Recommended | 28,672 |
 | This game has Competitive Players | 28,566 |
 | This game has Amazing Characters | 28,350 |
@@ -623,3 +623,4 @@ Diff (max vs sum): 4
 | 2023-09-04 | 4.52 | - | 31,936 | 250,241 |
 | 2023-09-05 | 4.52 | - | 31,976 | 250,511 |
 | 2023-09-06 | 4.52 | - | 32,045 | 250,884 |
+| 2023-09-07 | 4.52 | - | 32,082 | 250,921 |

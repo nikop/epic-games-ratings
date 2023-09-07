@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1500,9 +1500,9 @@
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 538
+      "UsersEstimate": 549
     },
     {
       "ID": "19",
@@ -1557,8 +1557,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:04:24.6497044+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:04:43.2855456+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:12.9235323+00:00",
-  "LastUpdate_Ratings": "2023-09-07T09:01:46.6753307+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:04:24.6497428+00:00"
+  "LastUpdate_Ratings": "2023-09-07T10:02:13.457398+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:04:43.2855719+00:00"
 }

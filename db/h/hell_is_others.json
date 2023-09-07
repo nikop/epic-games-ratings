@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -910,9 +910,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 255934,
+  "EOS_Progressed": 255935,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15125,6 +15125,11 @@
       "Time": "2023-09-07T08:07:30.0407131+00:00",
       "NumProgressed": 255934,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-07T10:07:46.7888972+00:00",
+      "NumProgressed": 255935,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -15240,7 +15245,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25593
+      "UsersEstimate": 25594
     },
     {
       "ID": "CreditLevel2",
@@ -15424,7 +15429,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56305
+      "UsersEstimate": 56306
     },
     {
       "ID": "KillOthers2",
@@ -15528,7 +15533,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25593
+      "UsersEstimate": 25594
     },
     {
       "ID": "ReachNDays2",
@@ -15583,7 +15588,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 255934,
+      "Progressed": 255935,
       "Completed": 3
     }
   ],
@@ -15591,8 +15596,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-06T21:56:58.3895611+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:07:36.9119207+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:07:46.7888965+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:51.8188403+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:57:15.8962257+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:07:36.9121118+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:57:27.8702561+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:07:46.78908+00:00"
 }

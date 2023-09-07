@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -260,9 +260,9 @@
       "ID": "17",
       "SetID": "5e3maia",
       "Name": "Abbot",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "18",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:08:36.839134+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:08:47.0626552+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:57:38.4564225+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:08:36.839264+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:57:53.2693178+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:08:47.0627499+00:00"
 }

@@ -9,7 +9,7 @@ Rating: 4.33 (Ranked 774)
 | First Blood | 64.00% | ~703 |
 | Ready to Learn | 61.00% | ~670 |
 | Monster Hunter | 52.00% | ~571 |
-| Earning Trust | 49.00% | ~538 |
+| Earning Trust | 50.00% | ~549 |
 | Monster Slayer | 29.00% | ~318 |
 | Awakening | 23.00% | ~253 |
 | Huntmaster | 22.00% | ~242 |

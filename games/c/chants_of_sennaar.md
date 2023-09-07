@@ -15,8 +15,8 @@
 | Scholar | 15.00% | ~12 |
 | The darkness | 15.00% | ~12 |
 | One last step | 15.00% | ~12 |
-| Cable guy | 14.00% | ~11 |
-| Rascal | 14.00% | ~11 |
+| Cable guy | 13.00% | ~11 |
+| Rascal | 13.00% | ~11 |
 | I did it | 11.00% | ~9 |
 | Feels like springtime | 11.00% | ~9 |
 | Fashion victim | 11.00% | ~9 |
@@ -30,8 +30,8 @@
 | A Link to the Past | 6.00% | ~5 |
 | Alchemists Express | 6.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 358)  
-Completed: 5 (6.17%) (Ranked 45)  
+Progressed: 82 (Ranked 357)  
+Completed: 5 (6.10%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,4 +80,4 @@ Completed: 5 (6.17%) (Ranked 45)
 | 2023-09-04 | 70 | 4 |
 | 2023-09-05 | 77 | 4 |
 | 2023-09-06 | 80 | 5 |
-| 2023-09-07 | 81 | 5 |
+| 2023-09-07 | 82 | 5 |

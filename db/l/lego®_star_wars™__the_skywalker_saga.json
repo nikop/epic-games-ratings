@@ -3110,9 +3110,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51432,
+  "EOS_Progressed": 51433,
   "EOS_Completed": 230,
-  "EOS_NewPlayers": 1306,
+  "EOS_NewPlayers": 1307,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -11315,6 +11315,11 @@
       "Time": "2023-09-07T09:03:29.8899127+00:00",
       "NumProgressed": 51432,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2023-09-07T10:03:29.2273706+00:00",
+      "NumProgressed": 51433,
+      "NumCompleted": 230
     }
   ],
   "TotalAchievements": 45,
@@ -11350,7 +11355,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40631
+      "UsersEstimate": 40632
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -11462,7 +11467,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24173
+      "UsersEstimate": 24174
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -11478,7 +11483,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 16458
+      "UsersEstimate": 16459
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -11486,7 +11491,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 13372
+      "UsersEstimate": 13373
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -11502,7 +11507,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10286
+      "UsersEstimate": 10287
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -11518,7 +11523,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29316
+      "UsersEstimate": 29317
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -11590,7 +11595,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 49375
+      "UsersEstimate": 49376
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -11685,15 +11690,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51432,
+      "Progressed": 51433,
       "Completed": 230
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-05T22:57:24.2495073+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:03:29.8899119+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:03:29.2273696+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:33.6341157+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:57:44.7951833+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:03:29.8900642+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:58:00.3109509+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:03:29.2274556+00:00"
 }

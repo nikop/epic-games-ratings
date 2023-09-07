@@ -1162,9 +1162,9 @@
       "ID": "ACH_HUB1",
       "SetID": "232494e",
       "Name": "Mission Success",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_HUB2",
@@ -1258,8 +1258,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-07T09:04:50.3013582+00:00",
+  "LastChanged_Achievements": "2023-09-07T10:05:09.2196849+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:58:46.1190812+00:00",
-  "LastUpdate_Achievements": "2023-09-07T09:04:50.301403+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:59:01.4311572+00:00",
+  "LastUpdate_Achievements": "2023-09-07T10:05:09.2197268+00:00"
 }
