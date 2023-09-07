@@ -117,8 +117,8 @@
 | 115 | [Chorus](games/c/chorus.md) | 1.20% |
 | 116 | [Trifox](games/t/trifox.md) | 1.10% |
 | 117 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
-| 117 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.05% |
-| 119 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
+| 118 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
+| 118 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.04% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
 | 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.02% |
 | 122 | [Sable](games/s/sable.md) | 1.00% |
