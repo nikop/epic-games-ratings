@@ -8,6 +8,7 @@
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
 | [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 |
+| [Sifu](../games/s/sifu.md) | 60 | 1,720 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
@@ -16,7 +17,6 @@
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 |
-| [Sifu](../games/s/sifu.md) | 50 | 1,350 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 |
 | [Showgunners](../games/s/showgunners.md) | 54 | 1,300 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 89 | 1,300 |

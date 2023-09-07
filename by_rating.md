@@ -67,7 +67,7 @@
 | 60 | [TUNIC](games/t/tunic.md) | 4.83 | 34 | 447 |
 | 66 | [A Short Hike](games/a/a_short_hike.md) | 4.82 | 0 | 517 |
 | 66 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,583 | 120 |
-| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,775 | 62 |
+| 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,780 | 62 |
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 517 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 517 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 447 |
@@ -107,7 +107,7 @@
 | 102 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 517 |
 | 102 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,390 | 103 |
 | 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,471 | 123 |
-| 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 937 | 149 |
+| 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 938 | 149 |
 | 102 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
 | 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,643 | 71 |
 | 110 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,958 | 51 |
@@ -135,7 +135,7 @@
 | 117 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 45 | 414 |
 | 117 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 424 |
 | 117 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 364 | 225 |
-| 136 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,856 | 61 |
+| 136 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,866 | 60 |
 | 136 | [Diabotical](games/d/diabotical.md) | 4.75 | 277 | 247 |
 | 136 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 688 | 169 |
 | 136 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 45 | 414 |
@@ -152,9 +152,9 @@
 | 147 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 10,659 | 35 |
 | 147 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 682 | 172 |
 | 147 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 517 |
-| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,036 | 50 |
+| 147 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,045 | 50 |
 | 147 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 517 |
-| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 37,220 | 13 |
+| 147 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 37,279 | 13 |
 | 147 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 517 |
 | 147 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 517 |
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 517 |
@@ -298,7 +298,7 @@
 | 280 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 0 | 517 |
 | 280 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.66 | 109 | 328 |
 | 280 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.66 | 0 | 517 |
-| 280 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,861 | 60 |
+| 280 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,861 | 61 |
 | 280 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 98 | 340 |
 | 280 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 205 |
 | 280 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 22 | 497 |
@@ -327,7 +327,7 @@
 | 315 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.64 | 0 | 517 |
 | 315 | [Returnal™](games/r/returnal™.md) | 4.64 | 73 | 374 |
 | 315 | [Road 96](games/r/road_96.md) | 4.64 | 0 | 517 |
-| 315 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 28,855 | 16 |
+| 315 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 28,864 | 16 |
 | 315 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 67 | 384 |
 | 315 | [System Shock](games/s/system_shock.md) | 4.64 | 0 | 517 |
 | 315 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 517 |

@@ -80,6 +80,7 @@
 | [Life After Death](../games/l/life_after_death.md) | 60 | 1,000 |
 | [Paquerette Down the Bunburrows](../games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 60 | 1,000 |
 | [Rogue Spirit](../games/r/rogue_spirit.md) | 60 | 1,000 |
+| [Sifu](../games/s/sifu.md) | 60 | 1,720 |
 | [WTC - Relentless Protagonist](../games/w/wtc_-_relentless_protagonist.md) | 60 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
 | [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
@@ -135,7 +136,6 @@
 | [Port Royale 4](../games/p/port_royale_4.md) | 50 | 1,000 |
 | [Ravenlok](../games/r/ravenlok.md) | 50 | 1,000 |
 | [Remnant 2](../games/r/remnant_2.md) | 50 | 1,000 |
-| [Sifu](../games/s/sifu.md) | 50 | 1,350 |
 | [Super Alloy Ranger](../games/s/super_alloy_ranger.md) | 50 | 1,000 |
 | [Sword and Fairy Inn 2](../games/5/511787884bc344e080cf5ae502e8092d.md) | 50 | 1,000 |
 | [Train World](../games/t/train_world.md) | 50 | 1,000 |

@@ -39,7 +39,7 @@
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 | 2 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 | 2 |
 | [Showgunners](../games/s/showgunners.md) | 54 | 1,300 | 2 |
-| [Sifu](../games/s/sifu.md) | 50 | 1,350 | 2 |
+| [Sifu](../games/s/sifu.md) | 60 | 1,720 | 2 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 | 2 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](../games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0 | 0 | 2 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](../games/s/star_wars™_battlefront™_ultimate_edition.md) | 0 | 0 | 2 |

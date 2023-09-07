@@ -12,10 +12,10 @@
 | 10 | [VALORANT](games/v/valorant.md) | 68,675 | 4.53 | 520 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 60,795 | 4.58 | 431 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 44,249 | 4.61 | 368 |
-| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 37,220 | 4.74 | 147 |
+| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 37,279 | 4.74 | 147 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 37,052 | 4.49 | 580 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 32,082 | 4.52 | 532 |
-| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,855 | 4.64 | 315 |
+| 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 28,864 | 4.64 | 315 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 22,280 | 4.77 | 110 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,738 | 4.53 | 520 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,400 | 4.57 | 452 |
@@ -49,7 +49,7 @@
 | 47 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,427 | 4.71 | 190 |
 | 48 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,372 | 4.68 | 241 |
 | 49 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,142 | 4.70 | 201 |
-| 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,036 | 4.74 | 147 |
+| 50 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,045 | 4.74 | 147 |
 | 51 | [DEATH STRANDING](games/d/death_stranding.md) | 6,958 | 4.77 | 110 |
 | 52 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 683 |
 | 53 | [Sifu](games/s/sifu.md) | 6,440 | 4.82 | 66 |
@@ -59,9 +59,9 @@
 | 57 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,966 | 4.64 | 315 |
 | 58 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,958 | 4.69 | 218 |
 | 59 | [Dead Island 2](games/d/dead_island_2.md) | 5,928 | 4.54 | 505 |
-| 60 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,861 | 4.66 | 280 |
-| 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,856 | 4.75 | 136 |
-| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,775 | 4.82 | 66 |
+| 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,866 | 4.75 | 136 |
+| 61 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,861 | 4.66 | 280 |
+| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,780 | 4.82 | 66 |
 | 63 | [Prey](games/p/prey.md) | 5,673 | 4.62 | 355 |
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,554 | 4.85 | 43 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,361 | 4.33 | 774 |
@@ -148,7 +148,7 @@
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 974 | 4.69 | 218 |
 | 147 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 964 | 4.31 | 790 |
 | 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 942 | 4.76 | 117 |
-| 149 | [Sonic Mania](games/s/sonic_mania.md) | 937 | 4.78 | 102 |
+| 149 | [Sonic Mania](games/s/sonic_mania.md) | 938 | 4.78 | 102 |
 | 150 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 931 | 4.55 | 488 |
 | 151 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 890 | 4.79 | 89 |
 | 152 | [The Sims™ 4](games/t/the_sims™_4.md) | 873 | 4.62 | 355 |
