@@ -153,7 +153,7 @@
 | 151 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 151 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 153 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
-| 153 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.51% |
+| 154 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.50% |
 | 155 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
 | 156 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 157 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |

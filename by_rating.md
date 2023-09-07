@@ -32,6 +32,7 @@
 | 25 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.87 | 0 | 517 |
 | 31 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 517 |
 | 31 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.86 | 21 | 504 |
+| 31 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.86 | 0 | 517 |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 427 |
 | 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 229 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,431 | 31 |
@@ -41,24 +42,23 @@
 | 31 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 517 |
 | 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 502 | 199 |
 | 31 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 517 |
-| 42 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 153 | 298 |
-| 42 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,817 | 44 |
-| 42 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,554 | 65 |
-| 42 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 221 | 264 |
-| 42 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 145 | 303 |
-| 42 | [Subnautica](games/s/subnautica.md) | 4.85 | 692 | 168 |
-| 48 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 401 |
-| 48 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 0 | 517 |
-| 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 409 |
-| 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 269 |
-| 48 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 390 | 218 |
-| 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 517 |
-| 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 420 | 211 |
-| 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 264 | 250 |
-| 48 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 485 |
-| 48 | [Star Atlas](games/s/star_atlas.md) | 4.84 | 24 | 488 |
-| 48 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 517 |
-| 48 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.84 | 0 | 517 |
+| 43 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 153 | 298 |
+| 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,817 | 44 |
+| 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,554 | 65 |
+| 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 221 | 264 |
+| 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 145 | 303 |
+| 43 | [Subnautica](games/s/subnautica.md) | 4.85 | 692 | 168 |
+| 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 401 |
+| 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 409 |
+| 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 269 |
+| 49 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 390 | 218 |
+| 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 517 |
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 420 | 211 |
+| 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 264 | 250 |
+| 49 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 485 |
+| 49 | [Star Atlas](games/s/star_atlas.md) | 4.84 | 24 | 488 |
+| 49 | [The Last Campfire](games/t/the_last_campfire.md) | 4.84 | 0 | 517 |
+| 49 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.84 | 0 | 517 |
 | 60 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 517 |
 | 60 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.83 | 0 | 517 |
 | 60 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.83 | 0 | 517 |
@@ -222,7 +222,7 @@
 | 218 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 517 |
 | 218 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 5,958 | 59 |
 | 218 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,887 | 69 |
-| 218 | [House Flipper](games/h/house_flipper.md) | 4.69 | 310 | 235 |
+| 218 | [House Flipper](games/h/house_flipper.md) | 4.69 | 310 | 236 |
 | 218 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 517 |
 | 218 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 517 |
 | 218 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,187 | 136 |
@@ -396,7 +396,7 @@
 | 393 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 729 | 164 |
 | 393 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,605 | 28 |
 | 393 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 517 |
-| 393 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 310 | 235 |
+| 393 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 313 | 235 |
 | 393 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,584 | 73 |
 | 393 | [Control](games/c/control.md) | 4.60 | 8,484 | 41 |
 | 393 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 517 |
@@ -535,7 +535,7 @@
 | 532 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 32,045 | 15 |
 | 532 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.52 | 21 | 504 |
 | 532 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.52 | 34 | 447 |
-| 532 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,629 | 7 |
+| 532 | [Fall Guys](games/f/fall_guys.md) | 4.52 | 147,698 | 7 |
 | 532 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 517 |
 | 532 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 530 | 197 |
 | 532 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 103 | 333 |
