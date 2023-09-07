@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~13,226 |
 | Stylin' | 3.00% | ~13,226 |
 | Turf War | 3.00% | ~13,226 |
-| Banged | 2.00% | ~8,817 |
-| Checkpoint Victory | 2.00% | ~8,817 |
-| First Blood | 2.00% | ~8,817 |
-| Flaccid Paralysis | 2.00% | ~8,817 |
-| Push Victory | 2.00% | ~8,817 |
-| Self-destructive | 2.00% | ~8,817 |
+| Banged | 2.00% | ~8,818 |
+| Checkpoint Victory | 2.00% | ~8,818 |
+| First Blood | 2.00% | ~8,818 |
+| Flaccid Paralysis | 2.00% | ~8,818 |
+| Push Victory | 2.00% | ~8,818 |
+| Self-destructive | 2.00% | ~8,818 |
 | Blindfire | 1.00% | ~4,409 |
 | Ruthless | 1.00% | ~4,409 |
 | Semper Paratus | 1.00% | ~4,409 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~3,086 |
 | Firefight Victory | 0.60% | ~2,645 |
 | Cinematic | 0.50% | ~2,204 |
-| Thanks Station! | 0.40% | ~1,763 |
+| Thanks Station! | 0.40% | ~1,764 |
 | Knock Knock | 0.30% | ~1,323 |
 | There For You | 0.30% | ~1,323 |
 | Hit and Run | 0.20% | ~882 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~441 |
 | Road Hazard | 0.10% | ~441 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440,873 (Ranked 38)  
+Progressed: 440,878 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,17 +182,17 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-04 | 440,256 | 2 |
 | 2023-09-05 | 440,511 | 2 |
 | 2023-09-06 | 440,755 | 2 |
-| 2023-09-07 | 440,873 | 2 |
+| 2023-09-07 | 440,878 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 378  (Ranked 223)  
-Sum: 2,954 (Ranked 168)  
+Sum: 2,955 (Ranked 168)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 378 |
 | This game has Challenging Combat | 358 |
 | This game is Extremely Fun | 346 |
-| This game has Competitive Players | 342 |
+| This game has Competitive Players | 343 |
 | This game is Highly Recommended | 318 |
 | This game has Realistic Visuals | 317 |
 | This game has Amazing Storytelling | 311 |
@@ -429,3 +429,4 @@ Diff (max vs sum): 55
 | 2023-09-03 | 4.62 | - | 378 | 2,946 |
 | 2023-09-04 | 4.62 | - | 378 | 2,947 |
 | 2023-09-06 | 4.62 | - | 378 | 2,954 |
+| 2023-09-07 | 4.62 | - | 378 | 2,955 |

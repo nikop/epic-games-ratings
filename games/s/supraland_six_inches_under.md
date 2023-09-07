@@ -39,13 +39,13 @@ Number of Ratings: 209  (23.09.2022)
 | Translocator | 80.00% | ~1,782 |
 | Inner Peace | 78.00% | ~1,738 |
 | Diamond Pickaxe | 77.00% | ~1,716 |
+| Trickle Down Economy | 77.00% | ~1,716 |
 | Killed them all | 76.00% | ~1,693 |
-| Trickle Down Economy | 76.00% | ~1,693 |
 | Win | 76.00% | ~1,693 |
 | Greenhouse | 72.00% | ~1,604 |
 | Played with fire | 70.00% | ~1,560 |
 | You feel very sorry | 70.00% | ~1,560 |
-| No Match for you | 65.00% | ~1,448 |
+| No Match for you | 66.00% | ~1,470 |
 | Bouncy | 62.00% | ~1,381 |
 | Plumbster | 61.00% | ~1,359 |
 | Faster | 60.00% | ~1,337 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~290 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,228 (Ranked 174)  
-Completed: 269 (12.07%) (Ranked 20)  
+Completed: 269 (12.07%) (Ranked 21)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

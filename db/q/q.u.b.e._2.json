@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,11 +338,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -1008,6 +1008,11 @@
       "Time": "2023-09-07T08:04:49.7361306+00:00",
       "NumProgressed": 202,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T14:05:47.3745691+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1164,7 +1169,7 @@
       "Name": "Mission Success",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_HUB2",
@@ -1210,9 +1215,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_S4",
@@ -1236,7 +1241,7 @@
       "Name": "Lost in Space",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_STATUE",
@@ -1251,15 +1256,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:10:09.3878004+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:05:47.3745688+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:03:54.0460147+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:10:09.3878278+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:59:14.7604007+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:05:47.3745881+00:00"
 }

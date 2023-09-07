@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -262,9 +262,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1906,
+  "EOS_Progressed": 1907,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5417,6 +5417,11 @@
       "Time": "2023-09-07T12:05:25.7091528+00:00",
       "NumProgressed": 1906,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-07T14:05:46.9852735+00:00",
+      "NumProgressed": 1907,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5508,7 +5513,7 @@
       "Name": "Crystal Mining",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "dailyquestcompletionist",
@@ -5548,7 +5553,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ebonyjungleliberator",
@@ -5562,9 +5567,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 133
     },
     {
       "ID": "enchantingskillx5",
@@ -5612,7 +5617,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "fourleafclover",
@@ -5660,7 +5665,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "herewegoagain",
@@ -5820,7 +5825,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "prestigiousx10",
@@ -5828,7 +5833,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "relicofthepast",
@@ -5884,7 +5889,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "thealchemist",
@@ -5948,7 +5953,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -5988,7 +5993,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "warmachinesarmy",
@@ -6020,14 +6025,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1906,
+      "Progressed": 1907,
       "Completed": 2
     }
   ],
@@ -6035,8 +6040,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-05T22:58:43.7340302+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:10:09.0121321+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:05:46.9852731+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:04:57.7713954+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:10:09.0122515+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:00:34.026849+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:05:46.9853582+00:00"
 }

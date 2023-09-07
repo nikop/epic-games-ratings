@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15065,
+  "EOS_Progressed": 15066,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9700,6 +9700,11 @@
       "Time": "2023-09-07T13:09:52.4949272+00:00",
       "NumProgressed": 15065,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-07T14:05:30.5919754+00:00",
+      "NumProgressed": 15066,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9711,7 +9716,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "tpote_achievement_10",
@@ -9751,7 +9756,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4971
+      "UsersEstimate": 4972
     },
     {
       "ID": "tpote_achievement_15",
@@ -9799,7 +9804,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 4971
+      "UsersEstimate": 4972
     },
     {
       "ID": "tpote_achievement_20",
@@ -9855,7 +9860,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "tpote_achievement_27",
@@ -9895,7 +9900,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "tpote_achievement_31",
@@ -10023,7 +10028,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "tpote_achievement_9",
@@ -10038,15 +10043,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15065,
+      "Progressed": 15066,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:09:52.4949265+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:05:30.591975+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:07:49.0159565+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:09:52.4950931+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:03:36.9050331+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:05:30.5920457+00:00"
 }

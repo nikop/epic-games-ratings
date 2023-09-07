@@ -76,9 +76,9 @@
       "ID": "ACH_01",
       "SetID": "7b646ck",
       "Name": "The Ship",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_010",
@@ -140,9 +140,9 @@
       "ID": "ACH_017",
       "SetID": "7b646ck",
       "Name": "Little ideas",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_018",
@@ -356,9 +356,9 @@
       "ID": "ACH_041",
       "SetID": "7b646ck",
       "Name": "Marc Allard",
-      "Percentage": 44,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_042",
@@ -451,8 +451,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:09:46.1837314+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:05:24.8102987+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:55.602384+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:02:32.9826671+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:09:46.1837724+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:57:47.5462897+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:05:24.81035+00:00"
 }

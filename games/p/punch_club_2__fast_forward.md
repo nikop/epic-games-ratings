@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 89.00% | ~284 |
+| Your first fight | 87.00% | ~278 |
 | Good Person Chip | 86.00% | ~274 |
-| Your first fight | 86.00% | ~274 |
 | First winning | 84.00% | ~268 |
 | Your first job | 83.00% | ~265 |
 | Old movies enjoyer | 79.00% | ~252 |
@@ -15,7 +15,7 @@
 | Neurotrainer – power gainer! | 77.00% | ~246 |
 | Employee of the week | 77.00% | ~246 |
 | Your own amateur gym | 75.00% | ~239 |
-| First defeat | 73.00% | ~233 |
+| First defeat | 74.00% | ~236 |
 | Run K, run! | 73.00% | ~233 |
 | Fighting is cool | 70.00% | ~223 |
 | No bullying more | 69.00% | ~220 |
@@ -59,16 +59,16 @@
 | Undercover robot | 34.00% | ~108 |
 | Not little hacker | 33.00% | ~105 |
 | Trap disarmed | 32.00% | ~102 |
+| The lonesome road | 32.00% | ~102 |
+| Family comes first | 32.00% | ~102 |
+| Key memories | 32.00% | ~102 |
 | The last bell ring | 32.00% | ~102 |
 | Careerist | 32.00% | ~102 |
 | Another world | 31.00% | ~99 |
-| The lonesome road | 31.00% | ~99 |
 | Keep nature safe | 31.00% | ~99 |
-| Family comes first | 31.00% | ~99 |
-| Key memories | 31.00% | ~99 |
 | The heart of the Resistance | 31.00% | ~99 |
+| Better cooking at home | 29.00% | ~93 |
 | Silver’s past | 28.00% | ~89 |
-| Better cooking at home | 28.00% | ~89 |
 | The only right decision | 27.00% | ~86 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 319 (Ranked 272)  

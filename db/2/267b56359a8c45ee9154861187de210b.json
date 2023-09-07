@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -846,8 +846,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:13:54.8582824+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:09:42.7074902+00:00",
   "LastUpdate_AppInfo": "2023-09-06T20:56:58.5791497+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:02:15.9133673+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:13:54.8583917+00:00"
+  "LastUpdate_Ratings": "2023-09-07T13:57:29.7594937+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:09:42.7075673+00:00"
 }

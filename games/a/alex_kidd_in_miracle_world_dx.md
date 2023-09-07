@@ -8,8 +8,8 @@
 | Magic Ball | 37.00% | ~105 |
 | Assailants | 27.00% | ~77 |
 | Prisoner | 24.00% | ~68 |
+| Adventurer | 21.00% | ~60 |
 | First Commander | 20.00% | ~57 |
-| Adventurer | 20.00% | ~57 |
 | Second Commander | 18.00% | ~51 |
 | Third Commander | 15.00% | ~43 |
 | Pacifist | 11.00% | ~31 |

@@ -595,9 +595,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 341979,
+  "EOS_Progressed": 341983,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1191,
+  "EOS_NewPlayers": 1185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16160,6 +16160,11 @@
       "Time": "2023-09-07T13:13:05.7923659+00:00",
       "NumProgressed": 341979,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-07T14:08:33.7670157+00:00",
+      "NumProgressed": 341983,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -16187,7 +16192,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41037
+      "UsersEstimate": 41038
     },
     {
       "ID": "ach004",
@@ -16227,7 +16232,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41037
+      "UsersEstimate": 41038
     },
     {
       "ID": "ach009",
@@ -16259,7 +16264,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27358
+      "UsersEstimate": 27359
     },
     {
       "ID": "ach013",
@@ -16299,7 +16304,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44457
+      "UsersEstimate": 44458
     },
     {
       "ID": "ach018",
@@ -16307,7 +16312,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27358
+      "UsersEstimate": 27359
     },
     {
       "ID": "ach019",
@@ -16379,7 +16384,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157310
+      "UsersEstimate": 157312
     },
     {
       "ID": "ach028",
@@ -16523,7 +16528,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44457
+      "UsersEstimate": 44458
     },
     {
       "ID": "ach046",
@@ -16683,7 +16688,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47877
+      "UsersEstimate": 47878
     },
     {
       "ID": "ach067",
@@ -16707,7 +16712,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47877
+      "UsersEstimate": 47878
     },
     {
       "ID": "ach070",
@@ -16810,7 +16815,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 341979,
+      "Progressed": 341983,
       "Completed": 7
     }
   ],
@@ -16818,8 +16823,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-04T17:58:02.8250479+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:13:05.7923651+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:08:33.7670152+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:13.1145719+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:04:38.9446758+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:13:05.7926876+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:00:09.866484+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:08:33.7671659+00:00"
 }

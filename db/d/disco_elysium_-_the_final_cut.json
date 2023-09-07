@@ -1289,9 +1289,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127344,
+  "EOS_Progressed": 127346,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15214,6 +15214,11 @@
       "Time": "2023-09-07T13:09:52.7335306+00:00",
       "NumProgressed": 127344,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-09-07T14:05:30.8785201+00:00",
+      "NumProgressed": 127346,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -15305,7 +15310,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35656
+      "UsersEstimate": 35657
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -15337,7 +15342,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 26742
+      "UsersEstimate": 26743
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -15544,15 +15549,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127344,
+      "Progressed": 127346,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:09:52.7335299+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:05:30.8785196+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:00.5699412+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:06:41.8915851+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:09:52.7337415+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:02:23.7041369+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:05:30.8786085+00:00"
 }

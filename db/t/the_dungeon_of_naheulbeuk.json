@@ -810,9 +810,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 221883,
+  "EOS_Progressed": 221897,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2299,
+  "EOS_NewPlayers": 2298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9905,6 +9905,11 @@
       "Time": "2023-09-07T13:11:42.2113091+00:00",
       "NumProgressed": 221883,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-07T14:07:19.5277689+00:00",
+      "NumProgressed": 221897,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -9964,7 +9969,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6656
+      "UsersEstimate": 6657
     },
     {
       "ID": "Chapter2",
@@ -10314,9 +10319,9 @@
       "ID": "DwarfCover",
       "SetID": "50chcgj",
       "Name": "Where\u0027s that freaking Dwarf?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6656
+      "UsersEstimate": 8876
     },
     {
       "ID": "DwarfElf15Support",
@@ -10330,9 +10335,9 @@
       "ID": "DwarfEpic",
       "SetID": "50chcgj",
       "Name": "Dwarf Fortress",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1775
     },
     {
       "ID": "DwarfInsultWin",
@@ -10348,7 +10353,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6656
+      "UsersEstimate": 6657
     },
     {
       "ID": "ElfEpic",
@@ -10364,7 +10369,7 @@
       "Name": "Sowwy!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 62127
+      "UsersEstimate": 62131
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10412,7 +10417,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "FollowBraztok",
@@ -10434,9 +10439,9 @@
       "ID": "InsultLoose",
       "SetID": "50chcgj",
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1553
     },
     {
       "ID": "KillDungeonLich",
@@ -10619,21 +10624,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 221883,
+      "Progressed": 221897,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 221883,
+      "Progressed": 221897,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T13:05:29.237116+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:11:42.2113083+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:07:19.5277684+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:05:27.6151493+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:11:42.2116016+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:01:05.2330182+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:07:19.5278943+00:00"
 }

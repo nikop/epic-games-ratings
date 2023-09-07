@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 17.89,
+  "EOS_Completed_Percentage": 17.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2388,6 +2388,11 @@
       "Time": "2023-09-07T10:04:36.4984321+00:00",
       "NumProgressed": 492,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-09-07T14:05:13.0971493+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -2399,7 +2404,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "LEVEL_002",
@@ -2407,7 +2412,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "LEVEL_003",
@@ -2429,9 +2434,9 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 246
+      "UsersEstimate": 242
     },
     {
       "ID": "LEVEL_006",
@@ -2439,7 +2444,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "LEVEL_007",
@@ -2455,7 +2460,7 @@
       "Name": "Passion for sports",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "LEVEL_009",
@@ -2511,7 +2516,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_016",
@@ -2519,7 +2524,7 @@
       "Name": "The beach is right there",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "LEVEL_017",
@@ -2527,7 +2532,7 @@
       "Name": "Commuting",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "LEVEL_018",
@@ -2535,7 +2540,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LEVEL_019",
@@ -2574,7 +2579,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 88
     }
   ],
@@ -2582,8 +2587,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:09:36.8197129+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:05:13.0971488+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:24.6257817+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:04:50.9745051+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:09:36.819775+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:00:26.3367004+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:05:13.0971746+00:00"
 }

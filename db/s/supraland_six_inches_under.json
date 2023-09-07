@@ -6,7 +6,7 @@
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_Completed": 21,
   "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
@@ -1994,9 +1994,9 @@
       "ID": "NoMatch",
       "SetID": "5lok9mm",
       "Name": "No Match for you",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1470
     },
     {
       "ID": "PickaxeDiamond",
@@ -2138,9 +2138,9 @@
       "ID": "TrickleDown",
       "SetID": "5lok9mm",
       "Name": "Trickle Down Economy",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1716
     },
     {
       "ID": "Win",
@@ -2162,8 +2162,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-30T16:59:25.1228046+00:00",
-  "LastChanged_Achievements": "2023-09-07T13:09:16.7682653+00:00",
+  "LastChanged_Achievements": "2023-09-07T14:04:50.1113279+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.9355991+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:07:45.6828012+00:00",
-  "LastUpdate_Achievements": "2023-09-07T13:09:16.7683341+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:03:29.6505163+00:00",
+  "LastUpdate_Achievements": "2023-09-07T14:04:50.1113712+00:00"
 }
