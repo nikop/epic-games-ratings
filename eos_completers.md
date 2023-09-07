@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.22% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 40.14% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.86% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
@@ -81,14 +81,14 @@
 | 79 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 81 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
-| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.52% |
-| 83 | [Lamentum](games/l/lamentum.md) | 2.51% |
-| 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.51% |
+| 82 | [Lamentum](games/l/lamentum.md) | 2.51% |
+| 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.51% |
+| 82 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.51% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
-| 88 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.29% |
 | 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.29% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.24% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.17% |
 | 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.15% |
@@ -103,8 +103,8 @@
 | 101 | [Somerville](games/s/somerville.md) | 1.65% |
 | 102 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.61% |
 | 102 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.61% |
-| 104 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.56% |
 | 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
+| 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
 | 107 | [Five Dates](games/f/five_dates.md) | 1.50% |
 | 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
@@ -119,8 +119,8 @@
 | 117 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 118 | [A Musical Story](games/a/a_musical_story.md) | 1.04% |
 | 119 | [Adios](games/a/adios.md) | 1.03% |
-| 119 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.03% |
-| 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.02% |
+| 120 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.02% |
+| 120 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.02% |
 | 122 | [Sable](games/s/sable.md) | 1.00% |
 | 122 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.00% |
 | 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
@@ -137,12 +137,12 @@
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.64% |
-| 139 | [Haven](games/h/haven.md) | 0.63% |
-| 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
-| 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
-| 142 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
-| 142 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
+| 138 | [Haven](games/h/haven.md) | 0.63% |
+| 138 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.63% |
+| 138 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.63% |
+| 141 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
+| 141 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
+| 143 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 144 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.58% |
 | 144 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 144 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
@@ -153,8 +153,8 @@
 | 151 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.52% |
 | 151 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 153 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
-| 154 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.49% |
-| 155 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
+| 154 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
+| 154 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.48% |
 | 156 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 157 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 157 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
@@ -197,8 +197,8 @@
 | 195 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 196 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 196 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
-| 198 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.18% |
-| 199 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 198 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 198 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.17% |
 | 200 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 200 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 200 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
