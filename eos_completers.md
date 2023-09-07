@@ -15,7 +15,7 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 16 | [Island Cities](games/i/island_cities.md) | 17.39% |
+| 16 | [Island Cities](games/i/island_cities.md) | 17.36% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 13.33% |
@@ -91,8 +91,8 @@
 | 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.28% |
 | 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.24% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.17% |
-| 92 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.15% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.14% |
 | 94 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 95 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 96 | [Night Book](games/n/night_book.md) | 1.86% |
@@ -134,10 +134,10 @@
 | 132 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 133 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 134 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.69% |
-| 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
-| 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
-| 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 137 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.65% |
+| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.69% |
+| 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
+| 137 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
+| 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 139 | [Haven](games/h/haven.md) | 0.63% |
 | 139 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.63% |
 | 141 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
@@ -227,9 +227,9 @@
 | 221 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.09% |
 | 221 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 227 | [Operation New Earth](games/o/operation_new_earth.md) | 0.08% |
-| 227 | [Partisans 1941](games/p/partisans_1941.md) | 0.08% |
-| 229 | [Saints Row](games/s/saints_row.md) | 0.07% |
-| 229 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
+| 228 | [Partisans 1941](games/p/partisans_1941.md) | 0.07% |
+| 228 | [Saints Row](games/s/saints_row.md) | 0.07% |
+| 228 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
 | 231 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 231 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.06% |
 | 231 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
@@ -579,4 +579,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,203 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,204 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
