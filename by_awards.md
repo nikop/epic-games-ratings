@@ -91,7 +91,7 @@
 | 89 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,400 | 3.98 | 948 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,344 | 4.68 | 241 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,319 | 4.76 | 117 |
-| 92 | [Trackmania](games/t/trackmania.md) | 3,255 | 4.67 | 259 |
+| 92 | [Trackmania](games/t/trackmania.md) | 3,260 | 4.67 | 259 |
 | 93 | [Hades](games/h/hades.md) | 3,250 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,245 | 4.57 | 451 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,733 | 4.51 | 548 |
@@ -295,7 +295,7 @@
 | 293 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 164 | 4.38 | 729 |
 | 294 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 163 | 4.40 | 712 |
 | 295 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 160 | 4.79 | 88 |
-| 296 | [Predecessor](games/p/predecessor.md) | 155 | 4.43 | 666 |
+| 296 | [Predecessor](games/p/predecessor.md) | 157 | 4.43 | 666 |
 | 297 | [Star Stable Online](games/s/star_stable_online.md) | 154 | 4.43 | 666 |
 | 298 | [Blasphemous](games/b/blasphemous.md) | 153 | 4.85 | 43 |
 | 298 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 153 | 4.55 | 488 |
@@ -434,14 +434,14 @@
 | 429 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.48 | 602 |
 | 429 | [Poker Club](games/p/poker_club.md) | 38 | 3.81 | 971 |
 | 429 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 38 | 4.77 | 110 |
+| 435 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 37 | 4.43 | 666 |
 | 435 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 37 | 4.41 | 693 |
 | 435 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 37 | 4.49 | 580 |
-| 437 | [20XX](games/2/20xx.md) | 36 | 4.61 | 368 |
-| 437 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 36 | 4.43 | 666 |
-| 437 | [Hell is Others](games/h/hell_is_others.md) | 36 | 4.41 | 693 |
-| 437 | [Isonzo](games/i/isonzo.md) | 36 | 4.56 | 472 |
-| 437 | [Steelrising](games/s/steelrising.md) | 36 | 4.28 | 814 |
-| 437 | [Voidtrain](games/v/voidtrain.md) | 36 | 4.50 | 564 |
+| 438 | [20XX](games/2/20xx.md) | 36 | 4.61 | 368 |
+| 438 | [Hell is Others](games/h/hell_is_others.md) | 36 | 4.41 | 693 |
+| 438 | [Isonzo](games/i/isonzo.md) | 36 | 4.56 | 472 |
+| 438 | [Steelrising](games/s/steelrising.md) | 36 | 4.28 | 814 |
+| 438 | [Voidtrain](games/v/voidtrain.md) | 36 | 4.50 | 564 |
 | 443 | [DEATHLOOP](games/d/deathloop.md) | 35 | 4.54 | 505 |
 | 443 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 190 |
 | 443 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 472 |

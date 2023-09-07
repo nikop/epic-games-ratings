@@ -15,7 +15,7 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 16 | [Island Cities](games/i/island_cities.md) | 18.03% |
+| 16 | [Island Cities](games/i/island_cities.md) | 18.00% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [Remains](games/r/remains.md) | 12.50% |
@@ -181,9 +181,9 @@
 | 179 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 179 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 181 | [Against the Storm](games/a/against_the_storm.md) | 0.28% |
-| 181 | [Scrapnaut](games/s/scrapnaut.md) | 0.28% |
 | 181 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
 | 181 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
+| 184 | [Scrapnaut](games/s/scrapnaut.md) | 0.27% |
 | 185 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 185 | [Filament](games/f/filament.md) | 0.25% |
 | 187 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.24% |
