@@ -2004,9 +2004,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25645,
+  "EOS_Progressed": 25646,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12259,6 +12259,11 @@
       "Time": "2023-09-07T00:05:43.4330476+00:00",
       "NumProgressed": 25645,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-07T01:48:29.7053334+00:00",
+      "NumProgressed": 25646,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 51,
@@ -12270,7 +12275,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18721
+      "UsersEstimate": 18722
     },
     {
       "ID": "Animated",
@@ -12278,7 +12283,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "Back_Off",
@@ -12310,7 +12315,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10514
+      "UsersEstimate": 10515
     },
     {
       "ID": "Collect_Spores",
@@ -12326,7 +12331,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "Cultured",
@@ -12342,7 +12347,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8719
+      "UsersEstimate": 8720
     },
     {
       "ID": "Diabolical",
@@ -12358,7 +12363,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15643
+      "UsersEstimate": 15644
     },
     {
       "ID": "Dont_Need_These",
@@ -12374,7 +12379,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5898
+      "UsersEstimate": 5899
     },
     {
       "ID": "Efficient",
@@ -12382,7 +12387,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16156
+      "UsersEstimate": 16157
     },
     {
       "ID": "Escape_Artist",
@@ -12406,7 +12411,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13848
+      "UsersEstimate": 13849
     },
     {
       "ID": "GB_In_Training",
@@ -12446,7 +12451,7 @@
       "Name": "Liability",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "Line_Em_Up",
@@ -12486,7 +12491,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "Reckless",
@@ -12526,7 +12531,7 @@
       "Name": "Rivalry",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "Seasoned",
@@ -12566,7 +12571,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6411
+      "UsersEstimate": 6412
     },
     {
       "ID": "Stylish",
@@ -12574,7 +12579,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22055
+      "UsersEstimate": 22056
     },
     {
       "ID": "Summoner",
@@ -12606,7 +12611,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 11027
+      "UsersEstimate": 11028
     },
     {
       "ID": "Terrifying",
@@ -12677,7 +12682,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25645,
+      "Progressed": 25646,
       "Completed": 54
     }
   ],
@@ -12685,8 +12690,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-06T13:06:08.2399804+00:00",
-  "LastChanged_Achievements": "2023-09-07T00:05:43.4330471+00:00",
+  "LastChanged_Achievements": "2023-09-07T01:48:29.7053329+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-06T23:59:41.2556672+00:00",
-  "LastUpdate_Achievements": "2023-09-07T00:05:43.4331508+00:00"
+  "LastUpdate_Ratings": "2023-09-07T01:41:57.9151894+00:00",
+  "LastUpdate_Achievements": "2023-09-07T01:48:29.7054167+00:00"
 }

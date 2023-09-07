@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2023-09-05T21:07:04.25197+00:00",
       "NumProgressed": 354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T01:49:11.8349571+00:00",
+      "NumProgressed": 355,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -831,7 +836,7 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1271,7 +1276,7 @@
       "Name": "No brakes",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -2062,14 +2067,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-09-07T00:06:13.2170236+00:00",
+  "LastChanged_Achievements": "2023-09-07T01:49:11.8349564+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:35.5302894+00:00",
-  "LastUpdate_Ratings": "2023-09-06T23:58:03.5681964+00:00",
-  "LastUpdate_Achievements": "2023-09-07T00:06:13.2174002+00:00"
+  "LastUpdate_Ratings": "2023-09-07T01:39:37.5875641+00:00",
+  "LastUpdate_Achievements": "2023-09-07T01:49:11.8352303+00:00"
 }

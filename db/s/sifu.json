@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6054,9 +6054,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 713196,
+  "EOS_Progressed": 713207,
   "EOS_Completed": 12886,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18769,6 +18769,11 @@
       "Time": "2023-09-07T00:02:26.9012895+00:00",
       "NumProgressed": 713196,
       "NumCompleted": 12886
+    },
+    {
+      "Time": "2023-09-07T01:44:45.0945335+00:00",
+      "NumProgressed": 713207,
+      "NumCompleted": 12886
     }
   ],
   "TotalAchievements": 50,
@@ -19140,7 +19145,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -19156,7 +19161,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -19179,21 +19184,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22497,
+      "Progressed": 22508,
       "Completed": 10592
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 713196,
+      "Progressed": 713207,
       "Completed": 12886
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-06T20:00:23.4187731+00:00",
-  "LastChanged_Achievements": "2023-09-07T00:02:26.901289+00:00",
+  "LastChanged_Achievements": "2023-09-07T01:44:45.0945327+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-06T23:59:53.9426221+00:00",
-  "LastUpdate_Achievements": "2023-09-07T00:02:26.9014089+00:00"
+  "LastUpdate_Ratings": "2023-09-07T01:42:17.5036764+00:00",
+  "LastUpdate_Achievements": "2023-09-07T01:44:45.0946264+00:00"
 }

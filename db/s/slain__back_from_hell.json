@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36047,
+  "EOS_Progressed": 36053,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15597,6 +15597,11 @@
       "Time": "2023-09-07T00:05:10.6347238+00:00",
       "NumProgressed": 36047,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-07T01:47:44.9237639+00:00",
+      "NumProgressed": 36053,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -15608,7 +15613,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5407
+      "UsersEstimate": 5408
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -15616,7 +15621,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7209
+      "UsersEstimate": 7211
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -15672,7 +15677,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -15680,7 +15685,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -15760,7 +15765,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -15839,7 +15844,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36047,
+      "Progressed": 36053,
       "Completed": 23
     }
   ],
@@ -15847,8 +15852,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-07T00:05:10.6347233+00:00",
+  "LastChanged_Achievements": "2023-09-07T01:47:44.923763+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
-  "LastUpdate_Ratings": "2023-09-07T00:00:39.8067445+00:00",
-  "LastUpdate_Achievements": "2023-09-07T00:05:10.6348352+00:00"
+  "LastUpdate_Ratings": "2023-09-07T01:43:21.7904727+00:00",
+  "LastUpdate_Achievements": "2023-09-07T01:47:44.9238512+00:00"
 }

@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
 | Learn to Play 4 | 0.60% | ~83 |
+| Rome | 0.60% | ~83 |
 | One True Faith | 0.60% | ~83 |
 | Hittite Paganism | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
-| Rome | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
 | All Nations | 0.50% | ~69 |
 | Carthage - Ox Hide | 0.40% | ~55 |
@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.30% | ~41 |
 | Pantheon of Gods | 0.30% | ~41 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~41 |
+| Circus Maximus in Roma | 0.30% | ~41 |
 | Capturing Cities | 0.30% | ~41 |
 | Three Man Chariot | 0.30% | ~41 |
 | Siege Tower | 0.30% | ~41 |
@@ -179,7 +180,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a MP Teams Game | 0.20% | ~28 |
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
-| Circus Maximus in Roma | 0.20% | ~28 |
 | Pantheon in Roma | 0.20% | ~28 |
 | Centenarian | 0.10% | ~14 |
 | Lighthouse in Alexandria | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,796 (Ranked 121)  
+Progressed: 13,798 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -443,6 +443,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-04 | 13,779 | 5 |
 | 2023-09-05 | 13,790 | 5 |
 | 2023-09-06 | 13,796 | 5 |
+| 2023-09-07 | 13,798 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

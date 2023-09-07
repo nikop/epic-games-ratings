@@ -31,6 +31,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.60% | ~815 |
 | Blank Page Syndrome | 0.60% | ~815 |
 | Efficient Floor Space | 0.60% | ~815 |
+| Gem Expert | 0.60% | ~815 |
 | Gild-Gotten Goods | 0.60% | ~815 |
 | Accomplished Merchant | 0.60% | ~815 |
 | Did we pack lunch? | 0.60% | ~815 |
@@ -40,7 +41,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.50% | ~679 |
 | Power of Love | 0.50% | ~679 |
 | Flawless Fusion | 0.50% | ~679 |
-| Gem Expert | 0.50% | ~679 |
 | Royal Ransom | 0.50% | ~679 |
 | Helping Hand | 0.50% | ~679 |
 | Natural 20 | 0.50% | ~679 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,765 (Ranked 67)  
+Progressed: 135,766 (Ranked 67)  
 Completed: 145 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 145 (0.11%) (Ranked 215)
 | 2023-09-04 | 135,661 | 142 |
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
-| 2023-09-07 | 135,765 | 145 |
+| 2023-09-07 | 135,766 | 145 |
 ## Awards
 Max (Great for Beginners): 4,727  (Ranked 71)  
 Sum: 27,182 (Ranked 49)  

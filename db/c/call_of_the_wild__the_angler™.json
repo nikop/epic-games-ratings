@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -696,7 +696,7 @@
   ],
   "EOS_Progressed": 5700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7196,9 +7196,9 @@
       "ID": "ACHIEVEMENT_017",
       "SetID": "1a05lfd",
       "Name": "Head for Heights",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_018",
@@ -7363,8 +7363,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-07T00:00:28.88411+00:00",
-  "LastChanged_Achievements": "2023-09-07T00:02:27.2498035+00:00",
+  "LastChanged_Achievements": "2023-09-07T01:44:45.5173453+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-07T00:00:28.8841106+00:00",
-  "LastUpdate_Achievements": "2023-09-07T00:02:27.2498724+00:00"
+  "LastUpdate_Ratings": "2023-09-07T01:43:07.2594955+00:00",
+  "LastUpdate_Achievements": "2023-09-07T01:44:45.5173982+00:00"
 }

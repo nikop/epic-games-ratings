@@ -13,8 +13,8 @@
 | Right Tool For the Job | 41.00% | ~12 |
 | Clear the Air | 34.00% | ~10 |
 | Captain of Cozy | 34.00% | ~10 |
+| Azoria Beckons | 31.00% | ~9 |
 | Mist Walker | 31.00% | ~9 |
-| Azoria Beckons | 28.00% | ~8 |
 | Search for the Hairy Grell | 28.00% | ~8 |
 | Lumberjack | 28.00% | ~8 |
 | Higher Tax Bracket | 24.00% | ~7 |

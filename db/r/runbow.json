@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249016,
+  "EOS_Progressed": 249017,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13389,6 +13389,11 @@
       "Time": "2023-09-07T00:03:12.5022947+00:00",
       "NumProgressed": 249016,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-07T01:45:16.3197353+00:00",
+      "NumProgressed": 249017,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -13424,7 +13429,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52293
+      "UsersEstimate": 52294
     },
     {
       "ID": "blotbuster",
@@ -13472,7 +13477,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37352
+      "UsersEstimate": 37353
     },
     {
       "ID": "clearCut",
@@ -13552,7 +13557,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "hereWeGo",
@@ -13576,7 +13581,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 131978
+      "UsersEstimate": 131979
     },
     {
       "ID": "indegestible",
@@ -13632,7 +13637,7 @@
       "Name": "Muddy Waters",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37352
+      "UsersEstimate": 37353
     },
     {
       "ID": "myFirstRunbow",
@@ -13688,7 +13693,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7470
+      "UsersEstimate": 7471
     },
     {
       "ID": "talentScout",
@@ -13767,7 +13772,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249016,
+      "Progressed": 249017,
       "Completed": 4
     }
   ],
@@ -13775,8 +13780,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-07T00:03:12.5022942+00:00",
+  "LastChanged_Achievements": "2023-09-07T01:45:16.3197348+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.8400765+00:00",
-  "LastUpdate_Ratings": "2023-09-07T00:00:01.1104022+00:00",
-  "LastUpdate_Achievements": "2023-09-07T00:03:12.5024105+00:00"
+  "LastUpdate_Ratings": "2023-09-07T01:42:28.4619405+00:00",
+  "LastUpdate_Achievements": "2023-09-07T01:45:16.3198306+00:00"
 }

@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Such a strange dream… | 88.00% | ~280 |
+| Good Person Chip | 86.00% | ~273 |
 | Your first fight | 86.00% | ~273 |
-| Good Person Chip | 85.00% | ~270 |
 | First winning | 84.00% | ~267 |
 | Your first job | 83.00% | ~264 |
 | Old movies enjoyer | 79.00% | ~251 |
 | Fitness professional | 78.00% | ~248 |
-| Depressed visitor | 77.00% | ~245 |
-| Neurotrainer – power gainer! | 76.00% | ~242 |
-| Employee of the week | 76.00% | ~242 |
-| Your own amateur gym | 74.00% | ~235 |
+| Depressed visitor | 78.00% | ~248 |
+| Neurotrainer – power gainer! | 77.00% | ~245 |
+| Employee of the week | 77.00% | ~245 |
+| Your own amateur gym | 75.00% | ~238 |
 | First defeat | 73.00% | ~232 |
 | Run K, run! | 72.00% | ~229 |
 | Fighting is cool | 69.00% | ~219 |
 | Hello, world! | 69.00% | ~219 |
 | No bullying more | 68.00% | ~216 |
-| Pal of your father? | 66.00% | ~210 |
+| Pal of your father? | 67.00% | ~213 |
 | Employee of the month | 65.00% | ~207 |
 | Spirit of the past | 64.00% | ~204 |
 | Workout professional | 62.00% | ~197 |
@@ -32,7 +32,7 @@
 | Employee of the year | 60.00% | ~191 |
 | Fight for life | 58.00% | ~184 |
 | Little hacker | 58.00% | ~184 |
-| Intriguing candies | 57.00% | ~181 |
+| Intriguing candies | 58.00% | ~184 |
 | Legal courier | 55.00% | ~175 |
 | Extreme neuropower! | 55.00% | ~175 |
 | Escaped from a big trouble | 52.00% | ~165 |

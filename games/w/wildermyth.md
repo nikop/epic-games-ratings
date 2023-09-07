@@ -6,13 +6,13 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 40.00% | ~556 |
+| The Cost of Heroism | 40.00% | ~557 |
 | Me and My Familiar | 37.00% | ~515 |
 | This Too Shall Pass | 32.00% | ~445 |
-| Passing Shadow | 30.00% | ~417 |
-| Cutthroat Competitors | 30.00% | ~417 |
-| How Romantic! | 28.00% | ~389 |
-| Daybreak | 28.00% | ~389 |
+| Passing Shadow | 30.00% | ~418 |
+| Cutthroat Competitors | 30.00% | ~418 |
+| How Romantic! | 28.00% | ~390 |
+| Daybreak | 28.00% | ~390 |
 | Gotta Ca... Must Collect All of Them | 26.00% | ~362 |
 | War Endured | 15.00% | ~209 |
 | Completing the Look | 14.00% | ~195 |
@@ -28,9 +28,9 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 8.00% | ~111 |
 | Let Me Get My Chisel | 7.00% | ~97 |
 | A Story of Heroes | 7.00% | ~97 |
-| Legends Never Die | 6.00% | ~83 |
-| All My Birds, Safely Home | 6.00% | ~83 |
-| Turncoat | 6.00% | ~83 |
+| Legends Never Die | 6.00% | ~84 |
+| All My Birds, Safely Home | 6.00% | ~84 |
+| Turncoat | 6.00% | ~84 |
 | In Soil, In Smoke | 5.00% | ~70 |
 | A Hunger, Sated | 5.00% | ~70 |
 | Wingknight's Prowess | 5.00% | ~70 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,391 (Ranked 193)  
+Progressed: 1,392 (Ranked 193)  
 Completed: 5 (0.36%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,6 +178,7 @@ Completed: 5 (0.36%) (Ranked 167)
 | 2023-09-04 | 1,389 | 5 |
 | 2023-09-05 | 1,390 | 5 |
 | 2023-09-06 | 1,391 | 5 |
+| 2023-09-07 | 1,392 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 469)  
 Sum: 28 (Ranked 484)  
