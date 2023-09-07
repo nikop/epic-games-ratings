@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -261,9 +261,9 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "OrACEO",
@@ -397,9 +397,9 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "YoungSuccessfullEntrepreneur",
@@ -420,8 +420,8 @@
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-07T15:07:36.9776085+00:00",
+  "LastChanged_Achievements": "2023-09-07T16:08:17.610097+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5425773+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:58:02.8707366+00:00",
-  "LastUpdate_Achievements": "2023-09-07T15:07:36.9776739+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:57:31.278454+00:00",
+  "LastUpdate_Achievements": "2023-09-07T16:08:17.6101245+00:00"
 }

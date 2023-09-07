@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,284 |
-| Sweet Sorrow | 18.00% | ~6,642 |
-| Rules the Waves | 17.00% | ~6,273 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,535 |
-| Rival | 14.00% | ~5,166 |
-| Correspondent | 12.00% | ~4,428 |
-| Lose Your Mind | 12.00% | ~4,428 |
-| Sound Mind? | 12.00% | ~4,428 |
-| Salt's Curse | 11.00% | ~4,059 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,059 |
-| The Fall of the House | 11.00% | ~4,059 |
-| Shipmate | 11.00% | ~4,059 |
+| Sink Beneath the Waves | 36.00% | ~13,286 |
+| Sweet Sorrow | 18.00% | ~6,643 |
+| Rules the Waves | 17.00% | ~6,274 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,536 |
+| Rival | 14.00% | ~5,167 |
+| Correspondent | 12.00% | ~4,429 |
+| Lose Your Mind | 12.00% | ~4,429 |
+| Sound Mind? | 12.00% | ~4,429 |
+| Salt's Curse | 11.00% | ~4,060 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,060 |
+| The Fall of the House | 11.00% | ~4,060 |
+| Shipmate | 11.00% | ~4,060 |
 | One Year at Zee | 8.00% | ~2,952 |
 | Pupil | 7.00% | ~2,583 |
 | Salvager | 7.00% | ~2,583 |
@@ -50,7 +50,7 @@ Number of Ratings: 401  (23.09.2022)
 | A zee-change | 0.80% | ~295 |
 | What lies beneath | 0.70% | ~258 |
 | Stone's Curse | 0.70% | ~258 |
-| Five Years at Zee | 0.50% | ~184 |
+| Five Years at Zee | 0.50% | ~185 |
 | The Lady's Parlour | 0.20% | ~74 |
 | A Past Wreathed in Shadows | 0.20% | ~74 |
 | Under pressure | 0.20% | ~74 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~37 |
 | Ten Years at Zee | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,899 (Ranked 98)  
+Progressed: 36,906 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,14 +201,14 @@ Completed: 3 (0.01%) (Ranked 256)
 | 2023-09-04 | 36,782 | 3 |
 | 2023-09-05 | 36,829 | 3 |
 | 2023-09-06 | 36,868 | 3 |
-| 2023-09-07 | 36,899 | 3 |
+| 2023-09-07 | 36,906 | 3 |
 ## Awards
-Max (Character Customization): 213  (Ranked 270)  
-Sum: 283 (Ranked 345)  
-Diff (max vs sum): -75  
+Max (Character Customization): 214  (Ranked 270)  
+Sum: 284 (Ranked 344)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 213 |
+| This game has Inclusive Character Customization | 214 |
 | This game has Amazing Storytelling | 25 |
 | This game has Unique Visuals | 24 |
 | This game has Quickly Understood Controls | 21 |
@@ -305,3 +305,4 @@ Diff (max vs sum): -75
 | 2023-07-20 | 4.58 | - | 211 | 281 |
 | 2023-07-22 | 4.58 | - | 212 | 282 |
 | 2023-07-28 | 4.58 | - | 213 | 283 |
+| 2023-09-07 | 4.58 | - | 214 | 284 |

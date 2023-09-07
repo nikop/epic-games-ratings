@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 304,
@@ -1188,9 +1188,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_PEAK",
@@ -1228,9 +1228,9 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_S5",
@@ -1268,8 +1268,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-07T15:05:43.2392457+00:00",
+  "LastChanged_Achievements": "2023-09-07T16:06:35.5718726+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:59:28.2172101+00:00",
-  "LastUpdate_Achievements": "2023-09-07T15:05:43.2392894+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:59:23.0672204+00:00",
+  "LastUpdate_Achievements": "2023-09-07T16:06:35.5718991+00:00"
 }

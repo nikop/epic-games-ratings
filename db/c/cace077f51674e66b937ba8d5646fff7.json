@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
     "PcReleaseDate": "2022-04-06T13:00:00+00:00",
@@ -538,17 +538,17 @@
       "ID": "ENEMY_21",
       "SetID": "50pdlpn",
       "Name": "Boom Bang Dang the Master Exploder",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ENEMY_22",
       "SetID": "50pdlpn",
       "Name": "Mahone the Professional",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ENEMY_23",
@@ -961,8 +961,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-09-07T15:06:34.3350444+00:00",
+  "LastChanged_Achievements": "2023-09-07T16:07:26.0882434+00:00",
   "LastUpdate_AppInfo": "2023-09-04T16:57:14.4901807+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:59:22.1597067+00:00",
-  "LastUpdate_Achievements": "2023-09-07T15:06:34.3351833+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:59:07.7184462+00:00",
+  "LastUpdate_Achievements": "2023-09-07T16:07:26.0883239+00:00"
 }

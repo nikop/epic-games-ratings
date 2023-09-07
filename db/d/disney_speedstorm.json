@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3155,
+  "EOS_Progressed": 3156,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 5.39,
   "EosHistory": [
@@ -4555,6 +4555,11 @@
       "Time": "2023-09-07T14:07:20.087409+00:00",
       "NumProgressed": 3155,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-07T16:08:00.427529+00:00",
+      "NumProgressed": 3156,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 24,
@@ -4638,7 +4643,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "19",
@@ -4716,9 +4721,9 @@
       "ID": "5",
       "SetID": "9p3jgda",
       "Name": "ROOKIE",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1704
     },
     {
       "ID": "6",
@@ -4726,7 +4731,7 @@
       "Name": "PRO",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "7",
@@ -4757,13 +4762,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3155,
+      "Progressed": 3156,
       "Completed": 170
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-07T15:07:22.7773225+00:00",
+  "LastChanged_Achievements": "2023-09-07T16:08:00.4275286+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:39.8316539+00:00",
-  "LastUpdate_Ratings": "2023-09-07T15:02:01.1779874+00:00",
-  "LastUpdate_Achievements": "2023-09-07T15:07:22.7773994+00:00"
+  "LastUpdate_Ratings": "2023-09-07T16:02:31.5014882+00:00",
+  "LastUpdate_Achievements": "2023-09-07T16:08:00.4275695+00:00"
 }

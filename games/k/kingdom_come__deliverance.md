@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,075 |
-| Cavalier | 25.00% | ~200,058 |
-| Fatso | 23.00% | ~184,054 |
-| Awakening | 21.00% | ~168,049 |
-| Ranger | 20.00% | ~160,047 |
-| Scrooge | 20.00% | ~160,047 |
-| Anorectic | 16.00% | ~128,037 |
-| Bookworm | 15.00% | ~120,035 |
-| Firestarter | 15.00% | ~120,035 |
-| Insomniac | 13.00% | ~104,030 |
-| Buddy | 12.00% | ~96,028 |
-| Thief | 12.00% | ~96,028 |
-| Sinner | 11.00% | ~88,026 |
-| Traveller | 11.00% | ~88,026 |
-| Convict | 10.00% | ~80,023 |
-| Haggler | 9.00% | ~72,021 |
-| McLovin | 7.00% | ~56,016 |
-| Runt | 7.00% | ~56,016 |
-| Casanova | 6.00% | ~48,014 |
-| Bad Trip | 5.00% | ~40,012 |
-| Monk | 5.00% | ~40,012 |
-| Serial Killer | 5.00% | ~40,012 |
-| Bastard | 4.00% | ~32,009 |
-| Hunter | 4.00% | ~32,009 |
-| Plague Doctor | 4.00% | ~32,009 |
-| Bard | 3.00% | ~24,007 |
-| Conqueror | 3.00% | ~24,007 |
-| Ginger in a Pickle | 3.00% | ~24,007 |
-| Kingdom did not come | 3.00% | ~24,007 |
+| Blacksmith's Son | 32.00% | ~256,081 |
+| Cavalier | 25.00% | ~200,064 |
+| Fatso | 23.00% | ~184,058 |
+| Awakening | 21.00% | ~168,053 |
+| Ranger | 20.00% | ~160,051 |
+| Scrooge | 20.00% | ~160,051 |
+| Anorectic | 16.00% | ~128,041 |
+| Bookworm | 15.00% | ~120,038 |
+| Firestarter | 15.00% | ~120,038 |
+| Insomniac | 13.00% | ~104,033 |
+| Buddy | 12.00% | ~96,030 |
+| Thief | 12.00% | ~96,030 |
+| Sinner | 11.00% | ~88,028 |
+| Traveller | 11.00% | ~88,028 |
+| Convict | 10.00% | ~80,025 |
+| Haggler | 9.00% | ~72,023 |
+| McLovin | 7.00% | ~56,018 |
+| Runt | 7.00% | ~56,018 |
+| Casanova | 6.00% | ~48,015 |
+| Bad Trip | 5.00% | ~40,013 |
+| Monk | 5.00% | ~40,013 |
+| Serial Killer | 5.00% | ~40,013 |
+| Bastard | 4.00% | ~32,010 |
+| Hunter | 4.00% | ~32,010 |
+| Plague Doctor | 4.00% | ~32,010 |
+| Bard | 3.00% | ~24,008 |
+| Conqueror | 3.00% | ~24,008 |
+| Ginger in a Pickle | 3.00% | ~24,008 |
+| Kingdom did not come | 3.00% | ~24,008 |
 | Completionist | 2.00% | ~16,005 |
 | Death by splinter | 2.00% | ~16,005 |
 | King Charming | 2.00% | ~16,005 |
@@ -44,30 +44,30 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,005 |
 | Talmberger | 2.00% | ~16,005 |
 | The End | 2.00% | ~16,005 |
-| Woman's Lot | 1.00% | ~8,002 |
-| Chivalrous Soul | 1.00% | ~8,002 |
-| Spoilsport | 1.00% | ~8,002 |
-| Freud | 1.00% | ~8,002 |
-| Gambler | 1.00% | ~8,002 |
-| Master Huntsman | 1.00% | ~8,002 |
-| Stealth Killer | 1.00% | ~8,002 |
+| Woman's Lot | 1.00% | ~8,003 |
+| Chivalrous Soul | 1.00% | ~8,003 |
+| Spoilsport | 1.00% | ~8,003 |
+| Freud | 1.00% | ~8,003 |
+| Gambler | 1.00% | ~8,003 |
+| Master Huntsman | 1.00% | ~8,003 |
+| Stealth Killer | 1.00% | ~8,003 |
 | Bailiff | 0.90% | ~7,202 |
 | Tracker | 0.90% | ~7,202 |
 | David Horak | 0.70% | ~5,602 |
 | Fighter | 0.70% | ~5,602 |
 | Mercenary's Honour | 0.70% | ~5,602 |
 | Saviour | 0.70% | ~5,602 |
-| Edward Kelly | 0.60% | ~4,801 |
+| Edward Kelly | 0.60% | ~4,802 |
 | I Can Quit Anytime | 0.50% | ~4,001 |
 | Perfectionist | 0.50% | ~4,001 |
 | Alcoholic | 0.30% | ~2,401 |
 | Sniper | 0.30% | ~2,401 |
-| Angel of Mercy | 0.20% | ~1,600 |
-| Christian Burial | 0.20% | ~1,600 |
-| Friends without benefits | 0.20% | ~1,600 |
-| Game Over | 0.20% | ~1,600 |
-| Not-so-Christian Burial | 0.20% | ~1,600 |
-| True Friend | 0.20% | ~1,600 |
+| Angel of Mercy | 0.20% | ~1,601 |
+| Christian Burial | 0.20% | ~1,601 |
+| Friends without benefits | 0.20% | ~1,601 |
+| Game Over | 0.20% | ~1,601 |
+| Not-so-Christian Burial | 0.20% | ~1,601 |
+| True Friend | 0.20% | ~1,601 |
 | Bad Girl | 0.10% | ~800 |
 | Cleric's pet | 0.10% | ~800 |
 | Full House Sinner | 0.10% | ~800 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~800 |
 | Wingman | 0.10% | ~800 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800,233 (Ranked 16)  
+Progressed: 800,254 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,10 +229,10 @@ Completed: 44 (0.01%) (Ranked 256)
 | 2023-09-04 | 799,887 | 44 |
 | 2023-09-05 | 800,008 | 44 |
 | 2023-09-06 | 800,153 | 44 |
-| 2023-09-07 | 800,233 | 44 |
+| 2023-09-07 | 800,254 | 44 |
 ## Awards
 Max (Character Customization): 7,427  (Ranked 47)  
-Sum: 27,662 (Ranked 46)  
+Sum: 27,664 (Ranked 46)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): 1
 | This game is Highly Recommended | 1,654 |
 | This game has Amazing Characters | 1,636 |
 | This game has Realistic Visuals | 1,627 |
-| This game is Educational | 1,576 |
+| This game is Educational | 1,578 |
 | This game is Relaxing | 1,510 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -475,3 +475,4 @@ Diff (max vs sum): 1
 | 2023-09-04 | 4.71 | - | 7,421 | 27,648 |
 | 2023-09-05 | 4.71 | - | 7,424 | 27,654 |
 | 2023-09-06 | 4.71 | - | 7,427 | 27,662 |
+| 2023-09-07 | 4.71 | - | 7,427 | 27,664 |

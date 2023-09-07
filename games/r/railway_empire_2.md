@@ -41,7 +41,7 @@ Rating: 4.47 (Ranked 614)
 | Traffic Jam | 19.00% | ~357 |
 | Resistance is futile | 17.00% | ~319 |
 | Networker | 17.00% | ~319 |
-| Assimilated | 15.00% | ~282 |
+| Assimilated | 16.00% | ~301 |
 | Locusts | 15.00% | ~282 |
 | Settler | 15.00% | ~282 |
 | Max Power | 14.00% | ~263 |
@@ -61,7 +61,7 @@ Rating: 4.47 (Ranked 614)
 | Three Cheers for Progress | 0.50% | ~9 |
 | United States | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,879 (Ranked 179)  
+Progressed: 1,879 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |

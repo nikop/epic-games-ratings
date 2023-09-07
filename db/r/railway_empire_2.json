@@ -5,10 +5,10 @@
   "Ranking_Rating": 614,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -4882,9 +4882,9 @@
       "ID": "A32",
       "SetID": "9b7p7eo",
       "Name": "Assimilated",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 301
     },
     {
       "ID": "A33",
@@ -5075,8 +5075,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-05T02:59:05.2596464+00:00",
-  "LastChanged_Achievements": "2023-09-07T15:07:27.1758652+00:00",
+  "LastChanged_Achievements": "2023-09-07T16:08:05.7264328+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:35.0102287+00:00",
-  "LastUpdate_Ratings": "2023-09-07T15:00:37.9423064+00:00",
-  "LastUpdate_Achievements": "2023-09-07T15:07:27.175995+00:00"
+  "LastUpdate_Ratings": "2023-09-07T16:00:58.8023702+00:00",
+  "LastUpdate_Achievements": "2023-09-07T16:08:05.7265136+00:00"
 }

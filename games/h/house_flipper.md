@@ -10,7 +10,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Strongman | 31.00% | ~6,430 |
 | Alpha Male | 20.00% | ~4,148 |
 | Just Enough | 19.00% | ~3,941 |
-| Pro-creative | 18.00% | ~3,733 |
+| Pro-creative | 18.00% | ~3,734 |
 | Worth Every Penny | 15.00% | ~3,111 |
 | Family man | 13.00% | ~2,696 |
 | Junior Estate Agent | 13.00% | ~2,696 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~104 |
 | Senior Estate Agent | 0.50% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,741 (Ranked 107)  
+Progressed: 20,742 (Ranked 107)  
 Completed: 20 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,10 +170,10 @@ Completed: 20 (0.10%) (Ranked 217)
 | 2023-09-04 | 20,729 | 20 |
 | 2023-09-05 | 20,731 | 20 |
 | 2023-09-06 | 20,739 | 20 |
-| 2023-09-07 | 20,741 | 20 |
+| 2023-09-07 | 20,742 | 20 |
 ## Awards
 Max (Great for Beginners): 310  (Ranked 236)  
-Sum: 2,207 (Ranked 193)  
+Sum: 2,208 (Ranked 193)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): 43
 | This game is Educational | 239 |
 | This game is Relaxing | 227 |
 | This game is Extremely Fun | 225 |
-| This game has Quickly Understood Controls | 217 |
+| This game has Quickly Understood Controls | 218 |
 | This game is Highly Recommended | 215 |
 | This game has a Creative Community | 213 |
 | This game has Amazing Storytelling | 211 |
@@ -340,3 +340,4 @@ Diff (max vs sum): 43
 | 2023-08-23 | 4.69 | - | 308 | 2,205 |
 | 2023-08-31 | 4.69 | - | 309 | 2,206 |
 | 2023-09-02 | 4.69 | - | 310 | 2,207 |
+| 2023-09-07 | 4.69 | - | 310 | 2,208 |

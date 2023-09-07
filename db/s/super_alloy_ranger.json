@@ -2,10 +2,10 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 382,
+  "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -298,6 +298,11 @@
       "Time": "2023-09-07T10:05:22.4844848+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T16:06:48.6142829+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -307,7 +312,7 @@
       "ID": "Achi_01",
       "SetID": "51a97k7",
       "Name": "The Sunken City Conqueror",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -323,7 +328,7 @@
       "ID": "Achi_03",
       "SetID": "51a97k7",
       "Name": "The Abyss Conqueror",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -395,7 +400,7 @@
       "ID": "Achi_12",
       "SetID": "51a97k7",
       "Name": "The Looping Space Conqueror",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -411,7 +416,7 @@
       "ID": "Achi_14",
       "SetID": "51a97k7",
       "Name": "Break Through the Forbidden",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -427,7 +432,7 @@
       "ID": "Achi_16",
       "SetID": "51a97k7",
       "Name": "Space Ranger: Prologue",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -443,7 +448,7 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 39
     },
@@ -459,7 +464,7 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
       "UsersEstimate": 33
     },
@@ -475,15 +480,15 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -499,7 +504,7 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -515,7 +520,7 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
       "UsersEstimate": 33
     },
@@ -523,7 +528,7 @@
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 21
     },
@@ -539,7 +544,7 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 20,
       "UsersEstimate": 39
     },
@@ -571,7 +576,7 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
       "UsersEstimate": 24
     },
@@ -579,7 +584,7 @@
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -595,7 +600,7 @@
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -708,7 +713,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
@@ -716,8 +721,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-09-07T15:05:54.0804446+00:00",
+  "LastChanged_Achievements": "2023-09-07T16:06:48.6142819+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:26.8460167+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:57:49.7589308+00:00",
-  "LastUpdate_Achievements": "2023-09-07T15:05:54.080508+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:57:15.895529+00:00",
+  "LastUpdate_Achievements": "2023-09-07T16:06:48.6143257+00:00"
 }

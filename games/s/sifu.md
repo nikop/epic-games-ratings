@@ -20,6 +20,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.10% | ~713 |
 | Prodigal Child | 0.10% | ~713 |
 | Kill Nil | 0.10% | ~713 |
+| Detective Story | 0.10% | ~713 |
+| Martial Artist | 0.10% | ~713 |
+| Knowledge Greed | 0.10% | ~713 |
 | Stuntmaster | 0.10% | ~713 |
 | Dance of the Praying Mantis | 0.10% | ~713 |
 | Street Fighting | 0.10% | ~713 |
@@ -28,6 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.10% | ~713 |
 | Qi Gong: Breath | 0.10% | ~713 |
 | Qi Gong: Essence | 0.10% | ~713 |
+| Master of the Phoenix Eye Fist | 0.10% | ~713 |
 | I know Kung-Fu | 0.10% | ~713 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~713 |
 | Old Child | 0.10% | ~713 |
@@ -45,29 +49,25 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 0.10% | ~23 |
 | Martial Hub | 0.10% | ~23 |
 | Deadly Venom | 0.10% | ~23 |
+| Secure, Protect, Leave | 0.10% | ~23 |
 | The best strikes are the ones we avoid | 0.10% | ~23 |
 | A Touch of Acumen | 0.10% | ~23 |
+| Crouching Tiger | 0.10% | ~23 |
 | Skill and an even stronger will | 0.10% | ~23 |
+| Master of the Flying Assassins | 0.10% | ~23 |
+| Here Cometh the Iceman | 0.10% | ~23 |
 | Bonus Stage | 0.10% | ~23 |
 | Beatmaker | 0.10% | ~23 |
 | Fight the way you practice | 0.10% | ~23 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~23 |
-| Detective Story | 0.00% | ~0 |
 | Drunken Fighter | 0.00% | ~0 |
-| Martial Artist | 0.00% | ~0 |
-| Knowledge Greed | 0.00% | ~0 |
 | Healing Memory | 0.00% | ~0 |
 | The 36th Chamber of Kung-Fu | 0.00% | ~0 |
-| Master of the Phoenix Eye Fist | 0.00% | ~0 |
 | Warriors from the Mountain | 0.00% | ~0 |
-| Secure, Protect, Leave | 0.00% | ~0 |
-| Crouching Tiger | 0.00% | ~0 |
 | Hidden Dragon | 0.00% | ~0 |
-| Master of the Flying Assassins | 0.00% | ~0 |
-| Here Cometh the Iceman | 0.00% | ~0 |
 | Fighter in the Pond | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,317 (Ranked 20)  
+Progressed: 713,327 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,10 +207,10 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
-| 2023-09-07 | 713,317 | 12,887 |
+| 2023-09-07 | 713,327 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,440  (Ranked 53)  
-Sum: 11,082 (Ranked 80)  
+Sum: 11,083 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): -27
 | This game has Challenging Combat | 547 |
 | This game has Quickly Understood Controls | 544 |
 | This game has Amazing Storytelling | 533 |
-| This game is Extremely Fun | 530 |
+| This game is Extremely Fun | 531 |
 | This game has Amazing Characters | 523 |
 | This game is Highly Recommended | 521 |
 | This game has Unique Visuals | 486 |
@@ -462,4 +462,4 @@ Diff (max vs sum): -27
 | 2023-09-04 | 4.82 | - | 6,430 | 11,055 |
 | 2023-09-05 | 4.82 | - | 6,437 | 11,070 |
 | 2023-09-06 | 4.82 | - | 6,440 | 11,080 |
-| 2023-09-07 | 4.82 | - | 6,440 | 11,082 |
+| 2023-09-07 | 4.82 | - | 6,440 | 11,083 |

@@ -18,7 +18,7 @@
 | May Their Memories be a Blessing | 9.00% | ~208 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,316 (Ranked 172)  
-Completed: 207 (8.94%) (Ranked 32)  
+Completed: 208 (8.98%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -157,7 +157,7 @@ Completed: 207 (8.94%) (Ranked 32)
 | 2023-09-04 | 2,303 | 206 |
 | 2023-09-05 | 2,312 | 207 |
 | 2023-09-06 | 2,313 | 207 |
-| 2023-09-07 | 2,316 | 207 |
+| 2023-09-07 | 2,316 | 208 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

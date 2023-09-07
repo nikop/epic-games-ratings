@@ -2,13 +2,13 @@
   "ID": "morpho",
   "Name": "Hello Neighbor: Hide and Seek",
   "ProductSlug": "hello-neighbor-hide-and-seek",
-  "Ranking_Rating": 683,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2018-12-07T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 81,
   "RatingHistory": [
     {
@@ -367,6 +367,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-07T16:01:49.153074+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -384,8 +390,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:38.5841657+00:00",
-  "LastChanged": "2023-07-23T13:58:36.7796424+00:00",
+  "LastChanged": "2023-09-07T16:01:49.1530739+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:12.7000524+00:00",
-  "LastUpdate_Ratings": "2023-09-07T15:01:26.251998+00:00",
-  "LastUpdate_Achievements": "2023-09-07T15:04:39.6005983+00:00"
+  "LastUpdate_Ratings": "2023-09-07T16:01:49.1530745+00:00",
+  "LastUpdate_Achievements": "2023-09-07T16:05:30.0890234+00:00"
 }

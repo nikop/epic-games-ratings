@@ -37,13 +37,13 @@
 | Despised | 3.00% | ~4 |
 | Trouble at Fort Larius | 3.00% | ~4 |
 | Unseen Patterns | 3.00% | ~4 |
+| Huntress Unbound | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | Life... Finds a Way | 2.00% | ~3 |
 | Making Contact | 1.00% | ~1 |
 | Bounty Hunter | 1.00% | ~1 |
 | Adept | 1.00% | ~1 |
 | Embellished | 1.00% | ~1 |
-| Huntress Unbound | 1.00% | ~1 |
 | Business As Usual | 1.00% | ~1 |
 | Legacy of a Mercenary | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |

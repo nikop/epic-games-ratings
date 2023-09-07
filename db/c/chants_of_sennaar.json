@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -518,17 +518,17 @@
       "ID": "META_RESULT_2-4",
       "SetID": "2gma9an",
       "Name": "For its own good",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -645,8 +645,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-07T15:06:26.8436207+00:00",
+  "LastChanged_Achievements": "2023-09-07T16:07:16.938102+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-07T15:02:21.8528383+00:00",
-  "LastUpdate_Achievements": "2023-09-07T15:06:26.8436429+00:00"
+  "LastUpdate_Ratings": "2023-09-07T16:02:49.6937087+00:00",
+  "LastUpdate_Achievements": "2023-09-07T16:07:16.9381245+00:00"
 }

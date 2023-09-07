@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231297,
+  "EOS_Progressed": 231298,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15058,6 +15058,11 @@
       "Time": "2023-09-07T15:09:19.1302357+00:00",
       "NumProgressed": 231297,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-07T16:09:41.8972372+00:00",
+      "NumProgressed": 231298,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -15157,7 +15162,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46259
+      "UsersEstimate": 46260
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -15293,7 +15298,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50885
+      "UsersEstimate": 50886
     },
     {
       "ID": "TACTICIAN",
@@ -15317,7 +15322,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50885
+      "UsersEstimate": 50886
     },
     {
       "ID": "TUNINGMANIAC",
@@ -15340,15 +15345,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 231297,
+      "Progressed": 231298,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-07T15:09:19.1302349+00:00",
+  "LastChanged_Achievements": "2023-09-07T16:09:41.8972366+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:47.3546485+00:00",
-  "LastUpdate_Ratings": "2023-09-07T15:00:50.1578996+00:00",
-  "LastUpdate_Achievements": "2023-09-07T15:09:19.1304389+00:00"
+  "LastUpdate_Ratings": "2023-09-07T16:01:14.6988557+00:00",
+  "LastUpdate_Achievements": "2023-09-07T16:09:41.8973666+00:00"
 }

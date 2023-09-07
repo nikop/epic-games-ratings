@@ -11,22 +11,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.40% | ~911 |
 | The Ring of Regeneration | 0.30% | ~683 |
 | The Mad Wizard | 0.30% | ~683 |
-| Maddening | 0.20% | ~455 |
-| Were-verpowered | 0.20% | ~455 |
-| A Persistent Buzzing | 0.20% | ~455 |
-| Beast Mode | 0.20% | ~455 |
-| Terror in the Dark | 0.20% | ~455 |
-| A Mysterious Summons | 0.20% | ~455 |
-| Building Trust | 0.20% | ~455 |
-| Unearthed Evil | 0.20% | ~455 |
-| The Crumbling Temple | 0.20% | ~455 |
-| Seeking Allies | 0.20% | ~455 |
-| Are Ya Chicken? | 0.20% | ~455 |
-| Useless Allies | 0.20% | ~455 |
-| Mad Cow Disease | 0.20% | ~455 |
-| Exploring Port Nyanzaru | 0.20% | ~455 |
-| Friendly Imps | 0.20% | ~455 |
-| Pure Energy | 0.20% | ~455 |
+| Maddening | 0.20% | ~456 |
+| Were-verpowered | 0.20% | ~456 |
+| A Persistent Buzzing | 0.20% | ~456 |
+| Beast Mode | 0.20% | ~456 |
+| Terror in the Dark | 0.20% | ~456 |
+| A Mysterious Summons | 0.20% | ~456 |
+| Building Trust | 0.20% | ~456 |
+| Unearthed Evil | 0.20% | ~456 |
+| The Crumbling Temple | 0.20% | ~456 |
+| Seeking Allies | 0.20% | ~456 |
+| Are Ya Chicken? | 0.20% | ~456 |
+| Useless Allies | 0.20% | ~456 |
+| Mad Cow Disease | 0.20% | ~456 |
+| Exploring Port Nyanzaru | 0.20% | ~456 |
+| Friendly Imps | 0.20% | ~456 |
+| Pure Energy | 0.20% | ~456 |
 | Legends and Lore | 0.20% | ~388 |
 | The End | 0.20% | ~388 |
 | Pros and CONs | 0.10% | ~228 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,744 (Ranked 54)  
+Progressed: 227,757 (Ranked 54)  
 Completed: 2,257 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -667,7 +667,7 @@ Completed: 2,257 (0.99%) (Ranked 124)
 | 2023-09-04 | 227,081 | 2,250 |
 | 2023-09-05 | 227,381 | 2,254 |
 | 2023-09-06 | 227,606 | 2,257 |
-| 2023-09-07 | 227,744 | 2,257 |
+| 2023-09-07 | 227,757 | 2,257 |
 ## Awards
 Max (Diverse Characters): 5,238  (Ranked 67)  
 Sum: 31,436 (Ranked 38)  

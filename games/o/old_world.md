@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 3.00% | ~414 |
 | Oracle | 3.00% | ~414 |
 | Judaism | 3.00% | ~414 |
+| Greek Paganism | 3.00% | ~414 |
 | Naming Landmarks | 3.00% | ~414 |
 | Trade Caravan | 3.00% | ~414 |
 | The Great Mage | 3.00% | ~414 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 2.00% | ~276 |
 | Carthaginian Paganism | 2.00% | ~276 |
 | Egyptian Paganism | 2.00% | ~276 |
-| Greek Paganism | 2.00% | ~276 |
 | Roman Paganism | 2.00% | ~276 |
 | Zoroastrianism | 2.00% | ~276 |
 | Poetic Leader | 2.00% | ~276 |
