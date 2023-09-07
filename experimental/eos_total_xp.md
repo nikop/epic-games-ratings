@@ -150,6 +150,7 @@
 | [Crimson Spires](../games/c/crimson_spires.md) | 14 | 1,000 |
 | [Crimsonland](../games/0/04d22e276f144358875f1789bd49f135.md) | 22 | 1,000 |
 | [Croc's World Construction Kit 2](../games/5/55c1dafc343149419579a9939de53424.md) | 10 | 1,000 |
+| [CubeGate](../games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 21 | 1,000 |
 | [Curious Expedition 2](../games/c/curious_expedition_2.md) | 60 | 1,000 |
 | [Curse of the Deadwood](../games/c/curse_of_the_deadwood.md) | 70 | 1,000 |
 | [Cursed Castilla (Maldita Castilla EX)](../games/c/cursed_castilla_(maldita_castilla_ex).md) | 16 | 1,000 |

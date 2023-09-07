@@ -449,6 +449,7 @@
 | [Absolute Tactics](../games/a/absolute_tactics.md) | 21 | 1,000 |
 | [Butchers Don't Surf!](../games/b/butchers_don't_surf!.md) | 21 | 1,000 |
 | [Clash - Artifacts of Chaos](../games/c/clash_-_artifacts_of_chaos.md) | 21 | 1,000 |
+| [CubeGate](../games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 21 | 1,000 |
 | [Outliver: Tribulation](../games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 21 | 1,000 |
 | [Overloop](../games/o/overloop.md) | 21 | 1,000 |
 | [Power Vacuum](../games/8/80d6afef34fc4d3ea8a72c7820743fb8.md) | 21 | 1,000 |
