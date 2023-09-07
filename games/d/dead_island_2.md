@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 1.00% | ~6,750 |
-| Git Gutte! | 1.00% | ~6,750 |
-| Break A Leg | 1.00% | ~6,750 |
-| Coup de Grâce | 1.00% | ~6,750 |
-| Hazardous Materials | 1.00% | ~6,750 |
-| Friends Like These | 1.00% | ~6,750 |
-| Hotel California | 1.00% | ~6,750 |
-| Apex Predator | 1.00% | ~6,750 |
-| Stacking the Deck | 1.00% | ~6,750 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,750 |
-| Welcome To Hell-A | 1.00% | ~6,750 |
-| Bookworm | 0.90% | ~6,075 |
-| But Doctor, I am Butcho | 0.90% | ~6,075 |
-| Can't Handle the Truth | 0.90% | ~6,075 |
-| Like Riding a Bike | 0.90% | ~6,075 |
-| Zombologist | 0.90% | ~6,075 |
-| A Patton Emerges | 0.90% | ~6,075 |
-| This is My Weapon | 0.90% | ~6,075 |
-| Slayer Squad | 0.80% | ~5,400 |
-| Anger Management | 0.70% | ~4,725 |
-| Perks of the Job | 0.70% | ~4,725 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,725 |
-| Ooh, Shiny! | 0.70% | ~4,725 |
-| I Am the Resurrection | 0.70% | ~4,725 |
-| Our True Nature | 0.70% | ~4,725 |
+| Dr. Reed, I Presume? | 1.00% | ~6,751 |
+| Git Gutte! | 1.00% | ~6,751 |
+| Break A Leg | 1.00% | ~6,751 |
+| Coup de Grâce | 1.00% | ~6,751 |
+| Hazardous Materials | 1.00% | ~6,751 |
+| Friends Like These | 1.00% | ~6,751 |
+| Hotel California | 1.00% | ~6,751 |
+| Apex Predator | 1.00% | ~6,751 |
+| Stacking the Deck | 1.00% | ~6,751 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,751 |
+| Welcome To Hell-A | 1.00% | ~6,751 |
+| Bookworm | 0.90% | ~6,076 |
+| But Doctor, I am Butcho | 0.90% | ~6,076 |
+| Can't Handle the Truth | 0.90% | ~6,076 |
+| Like Riding a Bike | 0.90% | ~6,076 |
+| Zombologist | 0.90% | ~6,076 |
+| A Patton Emerges | 0.90% | ~6,076 |
+| This is My Weapon | 0.90% | ~6,076 |
+| Slayer Squad | 0.80% | ~5,401 |
+| Anger Management | 0.70% | ~4,726 |
+| Perks of the Job | 0.70% | ~4,726 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,726 |
+| Ooh, Shiny! | 0.70% | ~4,726 |
+| I Am the Resurrection | 0.70% | ~4,726 |
+| Our True Nature | 0.70% | ~4,726 |
 | Making Your Mark | 0.60% | ~4,050 |
 | Humanity Distilled | 0.60% | ~4,050 |
 | Down with the Sickness | 0.50% | ~3,375 |
@@ -37,12 +37,12 @@ Rating: 4.54 (Ranked 505)
 | Jumbo Keyring | 0.40% | ~2,700 |
 | Go, Bobcats! | 0.40% | ~2,700 |
 | Rising Star | 0.40% | ~2,700 |
+| On Safari | 0.30% | ~2,025 |
 | Smorgasbord | 0.30% | ~2,025 |
 | Not Even My Final Form | 0.30% | ~2,025 |
 | Internet Famous | 0.30% | ~2,025 |
 | Make it So | 0.20% | ~1,350 |
 | LA Influential | 0.20% | ~1,350 |
-| On Safari | 0.20% | ~1,350 |
 | Gore Horse | 0.20% | ~1,350 |
 | Sharpest Tool in the Box | 0.20% | ~1,350 |
 | Variety is the Spice of Death | 0.20% | ~1,350 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,038 (Ranked 22)  
+Progressed: 675,075 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
-| 2023-09-07 | 675,038 | 2,119 |
+| 2023-09-07 | 675,075 | 2,119 |
 ## Awards
 Max (Great Boss Battles): 5,928  (Ranked 59)  
 Sum: 8,755 (Ranked 95)  

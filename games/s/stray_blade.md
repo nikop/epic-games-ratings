@@ -15,9 +15,9 @@
 | The Power of the Mountains | 16.00% | ~9 |
 | Searing Heat | 14.00% | ~8 |
 | The Golden Flash | 14.00% | ~8 |
+| Changing the World | 14.00% | ~8 |
 | Nothing but the Truth | 12.00% | ~7 |
 | Expert | 12.00% | ~7 |
-| Changing the World | 12.00% | ~7 |
 | Through Dangers Untold | 10.00% | ~6 |
 | Locked and Loaded | 10.00% | ~6 |
 | Craftsmen | 9.00% | ~5 |

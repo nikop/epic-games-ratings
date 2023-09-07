@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249028,
+  "EOS_Progressed": 249029,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13439,6 +13439,11 @@
       "Time": "2023-09-07T14:04:49.0167495+00:00",
       "NumProgressed": 249028,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-07T15:04:46.8166493+00:00",
+      "NumProgressed": 249029,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -13650,7 +13655,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64747
+      "UsersEstimate": 64748
     },
     {
       "ID": "justABit",
@@ -13810,14 +13815,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 39844
+      "UsersEstimate": 39845
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249028,
+      "Progressed": 249029,
       "Completed": 4
     }
   ],
@@ -13825,8 +13830,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-07T14:04:49.0167492+00:00",
+  "LastChanged_Achievements": "2023-09-07T15:04:46.8166489+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.8400765+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:02:32.3089082+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:04:49.0168437+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:02:36.2944743+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:04:46.8167745+00:00"
 }

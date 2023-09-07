@@ -1,10 +1,10 @@
 {
   "ID": "021c3558a62a47cca2715d42b2b65593",
   "Name": "Watch Dogs Legion Ultimate Edition",
-  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:54.4332703+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:03:24.5878806+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:04:14.3633287+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:03:35.416918+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:04:16.8051347+00:00"
 }

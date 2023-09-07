@@ -2,10 +2,10 @@
   "ID": "e46f1240e22c4124afa8c261cf564426",
   "Name": "Eternity Convergence",
   "ProductSlug": "eternity-convergence-028dd8",
-  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T09:57:38.9225345+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:00:44.3267926+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:06:38.5810117+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:00:43.9890927+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:06:36.0005815+00:00"
 }

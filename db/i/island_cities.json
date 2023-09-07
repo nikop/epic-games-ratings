@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 493,
+  "EOS_Progressed": 494,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 17.85,
+  "EOS_Completed_Percentage": 17.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2393,6 +2393,11 @@
       "Time": "2023-09-07T14:05:13.0971493+00:00",
       "NumProgressed": 493,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2023-09-07T15:05:14.8059565+00:00",
+      "NumProgressed": 494,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -2404,7 +2409,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "LEVEL_002",
@@ -2412,7 +2417,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "LEVEL_003",
@@ -2420,7 +2425,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "LEVEL_004",
@@ -2428,7 +2433,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "LEVEL_005",
@@ -2450,9 +2455,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 197
+      "UsersEstimate": 193
     },
     {
       "ID": "LEVEL_008",
@@ -2484,7 +2489,7 @@
       "Name": "At the heart of the city",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_012",
@@ -2492,7 +2497,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LEVEL_013",
@@ -2500,7 +2505,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "LEVEL_014",
@@ -2508,7 +2513,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "LEVEL_015",
@@ -2579,7 +2584,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 493,
+      "Progressed": 494,
       "Completed": 88
     }
   ],
@@ -2587,8 +2592,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-07T14:05:13.0971488+00:00",
+  "LastChanged_Achievements": "2023-09-07T15:05:14.8059562+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:24.6257817+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:00:26.3367004+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:05:13.0971746+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:00:30.2774301+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:05:14.8059873+00:00"
 }

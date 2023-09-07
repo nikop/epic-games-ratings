@@ -5,7 +5,7 @@
   "Ranking_Rating": 764,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 184,
+  "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 36,
@@ -896,10 +896,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1458,
       "NumberOfAwardsMax": 203
+    },
+    {
+      "Time": "2023-09-07T15:00:06.6225419+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1459,
+      "NumberOfAwardsMax": 203
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1458,
+  "NumberOfAwards": 1459,
   "NumberOfAwardsMax": 203,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -913,7 +919,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 197
+      "Count": 198
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -964,9 +970,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1692,
+  "EOS_Progressed": 1700,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1347,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1939,6 +1945,11 @@
       "Time": "2023-09-07T14:04:36.4702466+00:00",
       "NumProgressed": 1692,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-07T15:04:35.9677144+00:00",
+      "NumProgressed": 1700,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1951,7 +1962,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "a_10",
@@ -1999,7 +2010,7 @@
       "Name": "Bye Bye",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 578
     },
     {
       "ID": "a_19",
@@ -2109,9 +2120,9 @@
       "ID": "a_32",
       "SetID": "daiie3o",
       "Name": "Sales Expert",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "a_33",
@@ -2157,9 +2168,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "a_6",
@@ -2198,16 +2209,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1692,
+      "Progressed": 1700,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-07T14:04:36.4702462+00:00",
+  "LastChanged": "2023-09-07T15:00:06.6225416+00:00",
+  "LastChanged_Achievements": "2023-09-07T15:04:35.9677139+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:00:00.6573872+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:04:36.4702688+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:00:06.6225423+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:04:35.9677617+00:00"
 }

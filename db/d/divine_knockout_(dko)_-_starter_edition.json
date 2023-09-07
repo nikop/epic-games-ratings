@@ -4,11 +4,11 @@
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 783,
   "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 303,
-  "Ranking_EOS_Progress": 578,
+  "Ranking_PopularitySum": 302,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-29T11:00:00+00:00",
     "PcReleaseDate": "2023-01-12T16:00:00+00:00",
@@ -1218,10 +1218,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 499,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-09-07T15:03:48.1295141+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 500,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 499,
+  "NumberOfAwards": 500,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1283,7 +1289,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1315,8 +1321,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-09-05T01:40:41.0152484+00:00",
+  "LastChanged": "2023-09-07T15:03:48.1295139+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:42.9093889+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:03:39.3321093+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:04:13.7578348+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:03:48.1295149+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:04:16.3111124+00:00"
 }

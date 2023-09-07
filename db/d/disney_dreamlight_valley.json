@@ -3382,10 +3382,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7490,
       "NumberOfAwardsMax": 942
+    },
+    {
+      "Time": "2023-09-07T15:00:32.1837741+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7491,
+      "NumberOfAwardsMax": 942
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7490,
+  "NumberOfAwards": 7491,
   "NumberOfAwardsMax": 942,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3411,7 +3417,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 793
+      "Count": 794
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3456,9 +3462,9 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 9363,
+  "EOS_Progressed": 9364,
   "EOS_Completed": 214,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.29,
   "EosHistory": [
@@ -11876,6 +11882,11 @@
       "Time": "2023-09-07T14:04:24.3616283+00:00",
       "NumProgressed": 9363,
       "NumCompleted": 214
+    },
+    {
+      "Time": "2023-09-07T15:04:25.5729068+00:00",
+      "NumProgressed": 9364,
+      "NumCompleted": 214
     }
   ],
   "TotalAchievements": 15,
@@ -11903,7 +11914,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4494
+      "UsersEstimate": 4495
     },
     {
       "ID": "Chef_Cook",
@@ -11951,7 +11962,7 @@
       "Name": "Generous",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "Goofys_Investor",
@@ -11975,7 +11986,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6460
+      "UsersEstimate": 6461
     },
     {
       "ID": "Renovator",
@@ -12006,16 +12017,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9363,
+      "Progressed": 9364,
       "Completed": 214
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-09-07T14:00:28.8483044+00:00",
-  "LastChanged_Achievements": "2023-09-07T14:04:24.3616275+00:00",
+  "LastChanged": "2023-09-07T15:00:32.1837739+00:00",
+  "LastChanged_Achievements": "2023-09-07T15:04:25.5729062+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:26.1088757+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:00:28.8483049+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:04:24.3616761+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:00:32.1837746+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:04:25.573014+00:00"
 }

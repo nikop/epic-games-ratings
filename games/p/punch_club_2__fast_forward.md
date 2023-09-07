@@ -37,10 +37,10 @@
 | Extreme neuropower! | 55.00% | ~175 |
 | Escaped from a big trouble | 52.00% | ~166 |
 | Now you are worthy | 50.00% | ~160 |
+| Guiding on the right path | 47.00% | ~150 |
 | Fight is life | 46.00% | ~147 |
 | Mysterious voice | 46.00% | ~147 |
 | No blades in the gym | 46.00% | ~147 |
-| Guiding on the right path | 46.00% | ~147 |
 | Champion – no way back | 43.00% | ~137 |
 | Underground dwellers | 41.00% | ~131 |
 | Responsible approach | 41.00% | ~131 |
@@ -64,12 +64,12 @@
 | Key memories | 32.00% | ~102 |
 | The last bell ring | 32.00% | ~102 |
 | Careerist | 32.00% | ~102 |
+| The heart of the Resistance | 32.00% | ~102 |
 | Another world | 31.00% | ~99 |
 | Keep nature safe | 31.00% | ~99 |
-| The heart of the Resistance | 31.00% | ~99 |
 | Better cooking at home | 29.00% | ~93 |
 | Silver’s past | 28.00% | ~89 |
-| The only right decision | 27.00% | ~86 |
+| The only right decision | 28.00% | ~89 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 319 (Ranked 272)  
 Completed: 8 (2.51%) (Ranked 83)  

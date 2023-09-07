@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5902,9 +5902,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135785,
+  "EOS_Progressed": 135787,
   "EOS_Completed": 146,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20262,6 +20262,11 @@
       "Time": "2023-09-07T14:06:28.3659379+00:00",
       "NumProgressed": 135785,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2023-09-07T15:06:27.6225624+00:00",
+      "NumProgressed": 135787,
+      "NumCompleted": 146
     }
   ],
   "TotalAchievements": 112,
@@ -20513,7 +20518,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "commonres03",
@@ -20545,7 +20550,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "craft03",
@@ -20577,7 +20582,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "damage02",
@@ -20759,9 +20764,9 @@
       "ID": "gold03",
       "SetID": "anfd17p",
       "Name": "Gild-Gotten Goods",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 951
     },
     {
       "ID": "gold04",
@@ -20897,7 +20902,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "loot02",
@@ -21168,15 +21173,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135785,
+      "Progressed": 135787,
       "Completed": 146
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-07T11:00:43.4988128+00:00",
-  "LastChanged_Achievements": "2023-09-07T14:06:28.3659376+00:00",
+  "LastChanged_Achievements": "2023-09-07T15:06:27.6225618+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:01:22.9964068+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:06:28.3661231+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:01:25.1235212+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:06:27.6229997+00:00"
 }

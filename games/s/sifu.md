@@ -31,6 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.10% | ~713 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~713 |
 | Old Child | 0.10% | ~713 |
+| Sword Stained With Blood | 0.10% | ~713 |
 | Lightning Hands | 0.10% | ~713 |
 | Kung-Fu Tussle | 0.10% | ~713 |
 | Path of the Prospect | 0.10% | ~713 |
@@ -44,10 +45,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 0.10% | ~23 |
 | Martial Hub | 0.10% | ~23 |
 | Deadly Venom | 0.10% | ~23 |
+| The best strikes are the ones we avoid | 0.10% | ~23 |
+| A Touch of Acumen | 0.10% | ~23 |
 | Skill and an even stronger will | 0.10% | ~23 |
 | Bonus Stage | 0.10% | ~23 |
 | Beatmaker | 0.10% | ~23 |
 | Fight the way you practice | 0.10% | ~23 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~23 |
 | Detective Story | 0.00% | ~0 |
 | Drunken Fighter | 0.00% | ~0 |
 | Martial Artist | 0.00% | ~0 |
@@ -55,19 +59,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Healing Memory | 0.00% | ~0 |
 | The 36th Chamber of Kung-Fu | 0.00% | ~0 |
 | Master of the Phoenix Eye Fist | 0.00% | ~0 |
-| Sword Stained With Blood | 0.00% | ~0 |
 | Warriors from the Mountain | 0.00% | ~0 |
 | Secure, Protect, Leave | 0.00% | ~0 |
-| The best strikes are the ones we avoid | 0.00% | ~0 |
-| A Touch of Acumen | 0.00% | ~0 |
 | Crouching Tiger | 0.00% | ~0 |
 | Hidden Dragon | 0.00% | ~0 |
 | Master of the Flying Assassins | 0.00% | ~0 |
 | Here Cometh the Iceman | 0.00% | ~0 |
 | Fighter in the Pond | 0.00% | ~0 |
-| A Bit Of Everything, Simultaneously | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,303 (Ranked 20)  
+Progressed: 713,317 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-04 | 712,948 | 12,884 |
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
-| 2023-09-07 | 713,303 | 12,887 |
+| 2023-09-07 | 713,317 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,440  (Ranked 53)  
 Sum: 11,082 (Ranked 80)  

@@ -2,10 +2,10 @@
   "ID": "2f528676234141b7bcb70d8e399d4791",
   "Name": "Loop",
   "ProductSlug": "loop-d5c6d1",
-  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-07-04T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T07:57:39.7898852+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:57:47.0054556+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:09:27.9793712+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:58:08.2404408+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:09:25.365729+00:00"
 }

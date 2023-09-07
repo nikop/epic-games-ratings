@@ -22,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.20% | ~455 |
 | Seeking Allies | 0.20% | ~455 |
 | Are Ya Chicken? | 0.20% | ~455 |
+| Useless Allies | 0.20% | ~455 |
 | Mad Cow Disease | 0.20% | ~455 |
 | Exploring Port Nyanzaru | 0.20% | ~455 |
 | Friendly Imps | 0.20% | ~455 |
@@ -247,7 +248,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~194 |
 | Nimble Escape | 0.10% | ~228 |
 | Nimblest Escape | 0.10% | ~228 |
-| Useless Allies | 0.10% | ~228 |
 | Stumbling Escape | 0.10% | ~228 |
 | Distracted Escape | 0.10% | ~194 |
 | Fugitives | 0.10% | ~228 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,732 (Ranked 54)  
+Progressed: 227,744 (Ranked 54)  
 Completed: 2,257 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -667,10 +667,10 @@ Completed: 2,257 (0.99%) (Ranked 124)
 | 2023-09-04 | 227,081 | 2,250 |
 | 2023-09-05 | 227,381 | 2,254 |
 | 2023-09-06 | 227,606 | 2,257 |
-| 2023-09-07 | 227,732 | 2,257 |
+| 2023-09-07 | 227,744 | 2,257 |
 ## Awards
 Max (Diverse Characters): 5,238  (Ranked 67)  
-Sum: 31,432 (Ranked 38)  
+Sum: 31,436 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -678,7 +678,7 @@ Diff (max vs sum): 29
 | This game is Great for Beginners | 5,206 |
 | This game has Quickly Understood Controls | 4,756 |
 | This game is Relaxing | 4,641 |
-| This game has Amazing Characters | 4,101 |
+| This game has Amazing Characters | 4,105 |
 | This game is Highly Recommended | 4,090 |
 | This game has Playful Visuals | 3,400 |
 ## Ratings History
@@ -908,4 +908,4 @@ Diff (max vs sum): 29
 | 2023-09-04 | 4.06 | - | 5,227 | 31,396 |
 | 2023-09-05 | 4.06 | - | 5,227 | 31,411 |
 | 2023-09-06 | 4.06 | - | 5,234 | 31,425 |
-| 2023-09-07 | 4.06 | - | 5,238 | 31,432 |
+| 2023-09-07 | 4.06 | - | 5,238 | 31,436 |

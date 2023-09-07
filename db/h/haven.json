@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1421,
+  "EOS_Progressed": 1422,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1644,6 +1644,11 @@
       "Time": "2023-09-07T13:13:56.117977+00:00",
       "NumProgressed": 1421,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-07T15:09:39.3626415+00:00",
+      "NumProgressed": 1422,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1655,7 +1660,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "10",
@@ -1679,7 +1684,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "13",
@@ -1805,9 +1810,9 @@
       "ID": "29",
       "SetID": "n50no0",
       "Name": "A love supreme",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 256
     },
     {
       "ID": "3",
@@ -1815,7 +1820,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "30",
@@ -1863,7 +1868,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "7",
@@ -1879,7 +1884,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "9",
@@ -1894,15 +1899,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1421,
+      "Progressed": 1422,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-07T14:09:43.8083824+00:00",
+  "LastChanged_Achievements": "2023-09-07T15:09:39.3626407+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.160732+00:00",
-  "LastUpdate_Ratings": "2023-09-07T14:02:48.6454819+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:09:43.8084076+00:00"
+  "LastUpdate_Ratings": "2023-09-07T15:02:48.7485525+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:09:39.3626747+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "6e80378d8a1444cf94e8221bee233464",
   "Name": "The Evolving Forest",
   "ProductSlug": "the-evolving-forest-b4a1bb",
-  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2024-01-31T02:00:00+00:00",
     "PcReleaseDate": "2023-06-16T02:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T13:56:53.5046232+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:58:45.8108294+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:09:30.3813218+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:58:58.9692527+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:09:27.25508+00:00"
 }

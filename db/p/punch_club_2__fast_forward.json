@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 319,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
@@ -1581,9 +1581,9 @@
       "ID": "plug_switch",
       "SetID": "69co12a",
       "Name": "The only right decision",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 89
     },
     {
       "ID": "poisoned_fighter",
@@ -1653,9 +1653,9 @@
       "ID": "resistance_true",
       "SetID": "69co12a",
       "Name": "The heart of the Resistance",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "seashell_hunter",
@@ -1693,9 +1693,9 @@
       "ID": "trainer_promotion_2",
       "SetID": "69co12a",
       "Name": "Guiding on the right path",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "trainer_promotion_3",
@@ -1756,8 +1756,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-07T14:05:46.0390129+00:00",
+  "LastChanged_Achievements": "2023-09-07T15:05:42.1259863+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:38.1183893+00:00",
-  "LastUpdate_Ratings": "2023-09-07T13:58:28.3604887+00:00",
-  "LastUpdate_Achievements": "2023-09-07T14:05:46.0390691+00:00"
+  "LastUpdate_Ratings": "2023-09-07T14:58:47.4928029+00:00",
+  "LastUpdate_Achievements": "2023-09-07T15:05:42.1261145+00:00"
 }
