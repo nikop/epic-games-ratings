@@ -43,8 +43,8 @@
 | 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.90% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.69% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
-| 44 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.25% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 45 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.17% |
 | 46 | [JARS](games/j/jars.md) | 5.97% |
 | 47 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |

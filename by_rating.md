@@ -503,7 +503,7 @@
 | 488 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 517 |
 | 488 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 346 | 227 |
 | 488 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 363 |
-| 488 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,258 | 134 |
+| 488 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,260 | 134 |
 | 505 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,416 | 128 |
 | 505 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,928 | 60 |
 | 505 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 443 |
@@ -884,7 +884,7 @@
 | 882 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 517 |
 | 882 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 93 | 349 |
 | 882 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 517 |
-| 882 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,569 | 98 |
+| 882 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,588 | 98 |
 | 882 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 343 |
 | 882 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 517 |
 | 882 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 150 | 300 |
@@ -979,7 +979,7 @@
 | 977 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 517 |
 | 977 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 517 |
 | 979 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 517 |
-| 980 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.69 | 0 | 517 |
+| 980 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.71 | 0 | 517 |
 | 981 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 517 |
 | 982 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.60 | 0 | 517 |
 | 983 | [Adios](games/a/adios.md) | 3.53 | 0 | 517 |

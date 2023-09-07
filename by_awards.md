@@ -97,7 +97,7 @@
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,733 | 4.51 | 548 |
 | 96 | [Among Us](games/a/among_us.md) | 2,648 | 4.57 | 451 |
 | 97 | [Path of Exile](games/p/path_of_exile.md) | 2,603 | 4.61 | 368 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,569 | 4.18 | 882 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,588 | 4.18 | 882 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,546 | 4.27 | 822 |
 | 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,508 | 4.10 | 916 |
 | 101 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,492 | 4.49 | 580 |
@@ -133,7 +133,7 @@
 | 131 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,318 | 4.70 | 201 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,306 | 4.41 | 692 |
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 280 |
-| 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,258 | 4.55 | 488 |
+| 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,260 | 4.55 | 488 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,199 | 4.42 | 683 |
 | 136 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,187 | 4.69 | 218 |
 | 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,183 | 4.61 | 368 |
