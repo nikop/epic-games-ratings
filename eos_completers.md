@@ -38,15 +38,15 @@
 | 36 | [Smelter](games/s/smelter.md) | 7.50% |
 | 36 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 38 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
-| 39 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.14% |
-| 40 | [Scorn](games/s/scorn.md) | 7.02% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.90% |
-| 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.69% |
+| 39 | [Scorn](games/s/scorn.md) | 7.02% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.90% |
+| 41 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.69% |
+| 42 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 6.67% |
 | 43 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.35% |
 | 44 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 45 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 6.10% |
-| 46 | [JARS](games/j/jars.md) | 5.97% |
-| 47 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 46 | [JARS](games/j/jars.md) | 5.88% |
 | 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.36% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
