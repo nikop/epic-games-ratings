@@ -594,7 +594,7 @@
 | 580 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 517 |
 | 580 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
 | 580 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.49 | 0 | 517 |
-| 580 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 523,120 | 2 |
+| 580 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 528,405 | 2 |
 | 580 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 359 |
 | 580 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 517 |
 | 580 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,492 | 101 |
@@ -722,7 +722,7 @@
 | 712 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.40 | 163 | 294 |
 | 721 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,025 | 142 |
 | 721 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 517 |
-| 721 | [MORDHAU](games/m/mordhau.md) | 4.39 | 591 | 185 |
+| 721 | [MORDHAU](games/m/mordhau.md) | 4.39 | 593 | 185 |
 | 721 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,752 | 32 |
 | 721 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 517 |
 | 721 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 517 |
@@ -825,7 +825,7 @@
 | 822 | [Dice Legacy](games/d/dice_legacy.md) | 4.27 | 0 | 517 |
 | 822 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 517 |
 | 822 | [Godlike Burger](games/g/godlike_burger.md) | 4.27 | 0 | 517 |
-| 822 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,545 | 99 |
+| 822 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,546 | 99 |
 | 822 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.27 | 0 | 517 |
 | 822 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 517 |
 | 829 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 18,987 | 20 |
@@ -906,12 +906,12 @@
 | 898 | [Relicta](games/r/relicta.md) | 4.15 | 200 | 274 |
 | 898 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 517 |
 | 898 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 517 |
+| 907 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 33 | 451 |
 | 907 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 472 |
 | 907 | [Pine](games/p/pine.md) | 4.14 | 0 | 517 |
 | 907 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
-| 910 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 517 |
-| 910 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.13 | 33 | 451 |
-| 910 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 517 |
+| 911 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 517 |
+| 911 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 517 |
 | 913 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.12 | 0 | 517 |
 | 913 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 517 |
 | 915 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.11 | 0 | 517 |
