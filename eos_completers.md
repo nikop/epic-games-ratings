@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.22% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.04% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.73% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
@@ -30,7 +30,7 @@
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 29 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 30 | [Sonic Origins](games/s/sonic_origins.md) | 9.03% |
-| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.95% |
+| 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.94% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.61% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
 | 34 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
@@ -82,8 +82,8 @@
 | 80 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 81 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.56% |
 | 82 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.53% |
-| 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.52% |
-| 84 | [Lamentum](games/l/lamentum.md) | 2.51% |
+| 83 | [Lamentum](games/l/lamentum.md) | 2.51% |
+| 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.51% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.44% |
@@ -137,10 +137,10 @@
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 138 | [Haven](games/h/haven.md) | 0.63% |
-| 139 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
-| 139 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
-| 139 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.61% |
+| 137 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.65% |
+| 139 | [Haven](games/h/haven.md) | 0.63% |
+| 140 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
+| 140 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
 | 142 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 142 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.60% |
 | 144 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.58% |
@@ -576,4 +576,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,194 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,197 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
