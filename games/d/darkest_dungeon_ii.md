@@ -6,47 +6,47 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~108,880 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~81,952 |
-| A Clear Conscience | 69.00% | ~80,782 |
-| Unleash Hell | 68.00% | ~79,611 |
-| Unfulfilled Desires | 68.00% | ~79,611 |
-| Funny Guy | 67.00% | ~78,440 |
-| Unshackled | 67.00% | ~78,440 |
-| Long Live the King | 66.00% | ~77,270 |
-| Resurrection | 62.00% | ~72,586 |
-| Wyrdly Reconstructed | 62.00% | ~72,586 |
-| Boxcar Kid | 60.00% | ~70,245 |
-| Rush Hour | 60.00% | ~70,245 |
-| To Grandmother's House | 60.00% | ~70,245 |
-| Serenity Now! | 53.00% | ~62,050 |
+| A Place to Lay Your Head | 93.00% | ~108,882 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~81,954 |
+| A Clear Conscience | 69.00% | ~80,783 |
+| Unleash Hell | 68.00% | ~79,612 |
+| Unfulfilled Desires | 68.00% | ~79,612 |
+| Funny Guy | 67.00% | ~78,442 |
+| Unshackled | 67.00% | ~78,442 |
+| Long Live the King | 66.00% | ~77,271 |
+| Resurrection | 62.00% | ~72,588 |
+| Wyrdly Reconstructed | 62.00% | ~72,588 |
+| Boxcar Kid | 60.00% | ~70,246 |
+| Rush Hour | 60.00% | ~70,246 |
+| To Grandmother's House | 60.00% | ~70,246 |
+| Serenity Now! | 53.00% | ~62,051 |
 | Hope Rekindled | 50.00% | ~58,538 |
-| Ramble On | 49.00% | ~57,367 |
-| Nope | 48.00% | ~56,196 |
-| This Looks Familiar | 38.00% | ~44,488 |
+| Ramble On | 49.00% | ~57,368 |
+| Nope | 48.00% | ~56,197 |
+| This Looks Familiar | 38.00% | ~44,489 |
 | Now Stay Dead | 37.00% | ~43,318 |
-| Harvest Festival | 36.00% | ~42,147 |
-| Hot Air | 36.00% | ~42,147 |
-| Merry Time | 35.00% | ~40,976 |
+| Harvest Festival | 36.00% | ~42,148 |
+| Hot Air | 36.00% | ~42,148 |
+| Merry Time | 35.00% | ~40,977 |
 | Creep and Sleep | 33.00% | ~38,635 |
-| Overdue Notice | 32.00% | ~37,464 |
-| Whale | 31.00% | ~36,293 |
-| Banishment | 30.00% | ~35,122 |
+| Overdue Notice | 32.00% | ~37,465 |
+| Whale | 31.00% | ~36,294 |
+| Banishment | 30.00% | ~35,123 |
 | FNG | 29.00% | ~33,952 |
 | Reverse Banditry | 25.00% | ~29,269 |
 | Predator | 24.00% | ~28,098 |
 | Autodidact | 24.00% | ~28,098 |
-| Meat and Greet | 22.00% | ~25,756 |
+| Meat and Greet | 22.00% | ~25,757 |
 | Spelunker | 21.00% | ~24,586 |
 | Eyes Up | 21.00% | ~24,586 |
 | Road Trip | 21.00% | ~24,586 |
-| It Rings a Bell | 19.00% | ~22,244 |
+| It Rings a Bell | 19.00% | ~22,245 |
 | Escape from the Black Hole | 18.00% | ~21,074 |
 | It Happens | 17.00% | ~19,903 |
 | This Belongs in a Museum | 16.00% | ~18,732 |
 | Dissector | 16.00% | ~18,732 |
-| Handled | 15.00% | ~17,561 |
-| Catch and Decease | 14.00% | ~16,390 |
+| Handled | 15.00% | ~17,562 |
+| Catch and Decease | 14.00% | ~16,391 |
 | Not Today! | 13.00% | ~15,220 |
 | Deprogramming | 13.00% | ~15,220 |
 | Shrine of Reflection | 11.00% | ~12,878 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,075 (Ranked 71)  
+Progressed: 117,077 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,10 +202,10 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-09-04 | 116,880 | 1 |
 | 2023-09-05 | 116,958 | 1 |
 | 2023-09-06 | 117,027 | 1 |
-| 2023-09-07 | 117,075 | 1 |
+| 2023-09-07 | 117,077 | 1 |
 ## Awards
 Max (Character Customization): 7,372  (Ranked 48)  
-Sum: 19,207 (Ranked 56)  
+Sum: 19,210 (Ranked 56)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): -8
 | This game has Diverse Characters | 1,530 |
 | This game has Challenging Combat | 1,465 |
 | This game is Highly Recommended | 1,410 |
-| This game is Extremely Fun | 1,367 |
+| This game is Extremely Fun | 1,370 |
 | This game has Amazing Characters | 1,361 |
 | This game has Amazing Storytelling | 1,278 |
 | This game has Quickly Understood Controls | 1,269 |
@@ -447,3 +447,4 @@ Diff (max vs sum): -8
 | 2023-09-04 | 4.68 | - | 7,366 | 19,191 |
 | 2023-09-05 | 4.68 | - | 7,368 | 19,195 |
 | 2023-09-06 | 4.68 | - | 7,372 | 19,207 |
+| 2023-09-07 | 4.68 | - | 7,372 | 19,210 |

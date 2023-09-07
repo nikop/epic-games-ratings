@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -56,7 +56,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 611,
+  "EOS_Progressed": 612,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 5,
@@ -1536,6 +1536,11 @@
       "Time": "2023-09-07T16:09:33.9084671+00:00",
       "NumProgressed": 611,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-07T17:10:24.0192354+00:00",
+      "NumProgressed": 612,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1556,7 +1561,7 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "_03_FinishAct1",
@@ -1564,7 +1569,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1602,9 +1607,9 @@
       "ID": "_08_Completion_10",
       "SetID": "8a1io5d",
       "Name": "Swabbie",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 263
     },
     {
       "ID": "_09_Completion_20",
@@ -1620,7 +1625,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "_11_Completion_40",
@@ -1700,7 +1705,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1755,7 +1760,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 611,
+      "Progressed": 612,
       "Completed": 14
     }
   ],
@@ -1763,8 +1768,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-07T13:05:15.5809933+00:00",
-  "LastChanged_Achievements": "2023-09-07T16:09:33.9084666+00:00",
+  "LastChanged_Achievements": "2023-09-07T17:10:24.019235+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:01:14.1623316+00:00",
-  "LastUpdate_Achievements": "2023-09-07T16:09:33.9084995+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:01:31.1944925+00:00",
+  "LastUpdate_Achievements": "2023-09-07T17:10:24.0192621+00:00"
 }

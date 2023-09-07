@@ -5,6 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I like books | 0.30% | ~1 |
+| I like my life | 0.30% | ~1 |
+| I am very happy! | 0.30% | ~1 |
+| Oh, life is too awesome! Thank you! | 0.30% | ~1 |
+| ¡Muy feliz! | 0.30% | ~1 |
+| I like parks | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
 | Full archipelago | 0.00% | ~0 |
@@ -38,14 +43,9 @@
 | Oh, I am sad | 0.00% | ~0 |
 | Smile? I don't understand | 0.00% | ~0 |
 | Work, work, work... | 0.00% | ~0 |
-| I like my life | 0.00% | ~0 |
-| I am very happy! | 0.00% | ~0 |
-| Oh, life is too awesome! Thank you! | 0.00% | ~0 |
-| ¡Muy feliz! | 0.00% | ~0 |
 | King of fish | 0.00% | ~0 |
 | Farming Frenzy | 0.00% | ~0 |
 | Farming Frenzy Plus | 0.00% | ~0 |
-| I like parks | 0.00% | ~0 |
 | I love parks | 0.00% | ~0 |
 | Oh, I love parks, listening to birds! | 0.00% | ~0 |
 | The woodcutter | 0.00% | ~0 |

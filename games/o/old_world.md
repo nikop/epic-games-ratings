@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 304)  
+Rating: 4.65 (Ranked 303)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -72,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 1.00% | ~138 |
 | Valiant | 1.00% | ~138 |
 | Victorious | 1.00% | ~138 |
+| Good Difficulty | 1.00% | ~138 |
 | Just Difficulty | 1.00% | ~138 |
 | Champions | 1.00% | ~138 |
 | Patrons | 1.00% | ~138 |
@@ -87,17 +88,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 1.00% | ~138 |
 | Persian Paganism | 1.00% | ~138 |
 | Building Wonders | 1.00% | ~138 |
+| Economic Reform | 1.00% | ~138 |
 | Legalism | 1.00% | ~138 |
 | Mythology | 1.00% | ~138 |
 | Legionary | 1.00% | ~138 |
 | Phalangite | 1.00% | ~138 |
 | Points Victory | 1.00% | ~138 |
 | Subjugator | 0.90% | ~124 |
-| Good Difficulty | 0.90% | ~124 |
 | Statesmen | 0.90% | ~124 |
 | Traders | 0.90% | ~124 |
 | Hagia Sophia | 0.90% | ~124 |
-| Economic Reform | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
 | Redemption | 0.90% | ~124 |
 | Ambition Victory | 0.90% | ~124 |
@@ -128,6 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Old | 0.60% | ~83 |
+| Peacemaker | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
 | Learn to Play 4 | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
@@ -135,7 +136,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
 | No Undo | 0.60% | ~83 |
-| Peacemaker | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,805 (Ranked 121)  
+Progressed: 13,806 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -443,7 +443,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-04 | 13,779 | 5 |
 | 2023-09-05 | 13,790 | 5 |
 | 2023-09-06 | 13,796 | 5 |
-| 2023-09-07 | 13,805 | 5 |
+| 2023-09-07 | 13,806 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

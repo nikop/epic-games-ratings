@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 58.00% | ~136 |
-| Chest ✔ | 56.00% | ~132 |
-| Inventory ✔ | 54.00% | ~127 |
-| Police officers ✔ | 29.00% | ~68 |
-| Mutation ✔ | 26.00% | ~61 |
-| Doberman ✔ | 15.00% | ~35 |
+| Fright ✔ | 58.00% | ~137 |
+| Chest ✔ | 55.00% | ~130 |
+| Inventory ✔ | 54.00% | ~128 |
+| Police officers ✔ | 29.00% | ~69 |
+| Mutation ✔ | 26.00% | ~62 |
+| Doberman ✔ | 15.00% | ~36 |
 | Chess ✔ | 11.00% | ~26 |
 | Weapon ✔ | 11.00% | ~26 |
-| Survival ✔ | 9.00% | ~21 |
 | Master of Unlocking ✔ | 9.00% | ~21 |
-| Thirst ✔ | 7.00% | ~16 |
+| Survival ✔ | 8.00% | ~19 |
+| Thirst ✔ | 7.00% | ~17 |
 | Alice ✔ | 6.00% | ~14 |
 | Antivirus ✔ | 6.00% | ~14 |
 | Betty ✔ | 6.00% | ~14 |
@@ -23,11 +23,11 @@
 | Food ✔ | 6.00% | ~14 |
 | Hospital ✔ | 6.00% | ~14 |
 | Fraternal help ✔ | 6.00% | ~14 |
-| King of survival ✔ | 6.00% | ~14 |
-| All secrets revealed ✔ | 6.00% | ~14 |
 | Boss 1 ✔ | 5.00% | ~12 |
 | Brain ✔ | 5.00% | ~12 |
 | Eva ✔ | 5.00% | ~12 |
+| King of survival ✔ | 5.00% | ~12 |
+| All secrets revealed ✔ | 5.00% | ~12 |
 | Group Alpha ✔ | 4.00% | ~9 |
 | Mutant fight ✔ | 4.00% | ~9 |
 | Sheriff ✔ | 4.00% | ~9 |
@@ -49,13 +49,13 @@
 | Rank B+ ✔ | 2.00% | ~5 |
 | Crocodile Escape ✔ | 1.00% | ~2 |
 | VIP ✔ | 1.00% | ~2 |
-| Exterminate pests ✔ | 0.90% | ~2 |
-| Hardcore ✔ | 0.90% | ~2 |
-| Speedrun ✔ | 0.90% | ~2 |
+| Exterminate pests ✔ | 0.80% | ~2 |
+| Hardcore ✔ | 0.80% | ~2 |
+| Speedrun ✔ | 0.80% | ~2 |
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 294)  
+Progressed: 237 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-29 | 232 | 0 |
 | 2023-09-02 | 233 | 0 |
 | 2023-09-06 | 235 | 0 |
+| 2023-09-07 | 237 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

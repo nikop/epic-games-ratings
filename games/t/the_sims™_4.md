@@ -1,10 +1,10 @@
 # The Sims™ 4
 [Store](https://store.epicgames.com/en-US/p/the-sims-4)  
 [View Rawdata](../../db/t/the_sims™_4.json)  
-Rating: 4.62 (Ranked 355)  
+Rating: 4.62 (Ranked 354)  
 ## Awards
 Max (Great for Beginners): 873  (Ranked 152)  
-Sum: 5,257 (Ranked 128)  
+Sum: 5,265 (Ranked 128)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
@@ -17,8 +17,8 @@ Diff (max vs sum): 24
 | This game is Educational | 389 |
 | This game has Amazing Storytelling | 384 |
 | This game is Relaxing | 370 |
+| This game has Quickly Understood Controls | 367 |
 | This game has Easy Combat | 365 |
-| This game has Quickly Understood Controls | 359 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -216,4 +216,4 @@ Diff (max vs sum): 24
 | 2023-09-04 | 4.62 | 821 | 5,067 |
 | 2023-09-05 | 4.62 | 827 | 5,097 |
 | 2023-09-06 | 4.62 | 873 | 5,217 |
-| 2023-09-07 | 4.62 | 873 | 5,257 |
+| 2023-09-07 | 4.62 | 873 | 5,265 |

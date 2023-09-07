@@ -522,9 +522,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19546,
+  "EOS_Progressed": 19544,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": -14,
+  "EOS_NewPlayers": -16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5597,6 +5597,11 @@
       "Time": "2023-09-07T16:05:08.2420042+00:00",
       "NumProgressed": 19546,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-09-07T17:05:58.8122146+00:00",
+      "NumProgressed": 19544,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -5616,7 +5621,7 @@
       "Name": "Helper of the People",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 7623
+      "UsersEstimate": 7622
     },
     {
       "ID": "ach.030.deertastic",
@@ -5640,7 +5645,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16223
+      "UsersEstimate": 16222
     },
     {
       "ID": "ach.060.goingdistance",
@@ -5648,7 +5653,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10555
+      "UsersEstimate": 10554
     },
     {
       "ID": "ach.070.8kenough",
@@ -5656,7 +5661,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4495
     },
     {
       "ID": "ach.080.eraser",
@@ -5664,7 +5669,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13682
+      "UsersEstimate": 13681
     },
     {
       "ID": "ach.090.perfectionist",
@@ -5696,7 +5701,7 @@
       "Name": "Simplification",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6646
+      "UsersEstimate": 6645
     },
     {
       "ID": "ach.130.minimalist",
@@ -5704,7 +5709,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17591
+      "UsersEstimate": 17590
     },
     {
       "ID": "ach.140.legacy",
@@ -5712,7 +5717,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19155
+      "UsersEstimate": 19153
     },
     {
       "ID": "ach.150.pocket",
@@ -5720,7 +5725,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12705
+      "UsersEstimate": 12704
     },
     {
       "ID": "ach.160.box",
@@ -5744,7 +5749,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11532
+      "UsersEstimate": 11531
     },
     {
       "ID": "ach.190.scenic",
@@ -5752,15 +5757,15 @@
       "Name": "The scenic route",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 5473
+      "UsersEstimate": 5472
     },
     {
       "ID": "ach.200.light",
       "SetID": "384aaja",
       "Name": "Let There be Light",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6255
+      "UsersEstimate": 6450
     },
     {
       "ID": "ach.210.baron",
@@ -5768,7 +5773,7 @@
       "Name": "Oil Baron",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8209
+      "UsersEstimate": 8208
     },
     {
       "ID": "ach.220.hot",
@@ -5792,7 +5797,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8209
+      "UsersEstimate": 8208
     },
     {
       "ID": "ach.250.downfall",
@@ -5800,7 +5805,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 18178
+      "UsersEstimate": 18176
     },
     {
       "ID": "ach.260.investor",
@@ -5808,7 +5813,7 @@
       "Name": "Investor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1954
     },
     {
       "ID": "ach.270.groundwater",
@@ -5864,7 +5869,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17787
+      "UsersEstimate": 17785
     },
     {
       "ID": "ach.340.steel",
@@ -5872,7 +5877,7 @@
       "Name": "Man of Steel",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3322
     },
     {
       "ID": "ach.350.pipes",
@@ -5880,7 +5885,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4495
     },
     {
       "ID": "ach.360.lightning",
@@ -5903,7 +5908,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19546,
+      "Progressed": 19544,
       "Completed": 37
     }
   ],
@@ -5911,8 +5916,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-09-06T12:01:41.553383+00:00",
-  "LastChanged_Achievements": "2023-09-07T16:05:08.2420038+00:00",
+  "LastChanged_Achievements": "2023-09-07T17:05:58.8122142+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.7999726+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:03:26.6758182+00:00",
-  "LastUpdate_Achievements": "2023-09-07T16:05:08.2420691+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:04:10.6799206+00:00",
+  "LastUpdate_Achievements": "2023-09-07T17:05:58.812278+00:00"
 }

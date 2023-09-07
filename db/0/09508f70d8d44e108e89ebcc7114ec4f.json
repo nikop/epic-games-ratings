@@ -2,9 +2,9 @@
   "ID": "09508f70d8d44e108e89ebcc7114ec4f",
   "Name": "Match Village",
   "ProductSlug": "match-village-5f41dd",
-  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.52,
+  "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -1106,6 +1106,11 @@
       "Time": "2023-09-07T16:07:00.7031188+00:00",
       "NumProgressed": 357,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-07T17:07:50.424533+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 24,
@@ -1117,7 +1122,7 @@
       "Name": "Aquatic Farm",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "balloon",
@@ -1131,9 +1136,9 @@
       "ID": "big_house",
       "SetID": "ap7g2g4",
       "Name": "Big House",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 240
     },
     {
       "ID": "brewery",
@@ -1141,7 +1146,7 @@
       "Name": "Brewery",
       "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "church",
@@ -1149,7 +1154,7 @@
       "Name": "Church",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "circus",
@@ -1165,7 +1170,7 @@
       "Name": "Expedition",
       "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "fish_trade",
@@ -1195,9 +1200,9 @@
       "ID": "hope_farm",
       "SetID": "ap7g2g4",
       "Name": "Hope farm",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 158
     },
     {
       "ID": "marketplace",
@@ -1205,7 +1210,7 @@
       "Name": "Marketplace",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "match_12",
@@ -1221,7 +1226,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "match_6",
@@ -1229,7 +1234,7 @@
       "Name": "Match 6",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "match_9",
@@ -1237,7 +1242,7 @@
       "Name": "Match 9",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "mill",
@@ -1253,7 +1258,7 @@
       "Name": "Sawmill",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "seaweed_farm",
@@ -1293,29 +1298,29 @@
       "Name": "Wheat farm",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-09-07T16:07:00.7031184+00:00",
+  "LastChanged_Achievements": "2023-09-07T17:07:50.4245327+00:00",
   "LastUpdate_AppInfo": "2023-08-31T19:57:04.7340411+00:00",
-  "LastUpdate_Ratings": "2023-09-07T15:59:11.9476242+00:00",
-  "LastUpdate_Achievements": "2023-09-07T16:07:00.703144+00:00"
+  "LastUpdate_Ratings": "2023-09-07T16:59:44.9274073+00:00",
+  "LastUpdate_Achievements": "2023-09-07T17:07:50.4245529+00:00"
 }

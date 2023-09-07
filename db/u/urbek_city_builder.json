@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1283,33 +1283,33 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FELIZ_2",
       "SetID": "44dlcg0",
       "Name": "I am very happy!",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FELIZ_3",
       "SetID": "44dlcg0",
       "Name": "Oh, life is too awesome! Thank you!",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FELIZ_4",
       "SetID": "44dlcg0",
       "Name": "\u00A1Muy feliz!",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FISHING",
@@ -1339,9 +1339,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1652,8 +1652,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-07T16:08:15.6419489+00:00",
+  "LastChanged_Achievements": "2023-09-07T17:09:05.9783438+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:31.8209196+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:02:14.2329318+00:00",
-  "LastUpdate_Achievements": "2023-09-07T16:08:15.6420486+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:02:50.5775314+00:00",
+  "LastUpdate_Achievements": "2023-09-07T17:09:05.9785135+00:00"
 }

@@ -12,16 +12,17 @@ Rating: 3.52 (Ranked 984)
 | Enter of Your Own Free Will | 0.40% | ~7 |
 | Grounded | 0.40% | ~7 |
 | Fly Fisher | 0.40% | ~7 |
+| Sucks To Be You | 0.40% | ~7 |
 | Neighborhood Revitalization | 0.30% | ~5 |
 | Welcome to the Neighborhood | 0.30% | ~5 |
 | Radio Silence | 0.30% | ~5 |
 | Peek-a-boo | 0.30% | ~5 |
-| Sucks To Be You | 0.30% | ~5 |
 | Catch and Release | 0.30% | ~5 |
 | Heart Attack | 0.30% | ~5 |
 | Home Is Where the Heart Is | 0.20% | ~3 |
 | Contingency Plans | 0.20% | ~3 |
 | Sic Transit Umbra | 0.20% | ~3 |
+| Silence Is Golden | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
 | Throw The First Stone | 0.20% | ~3 |
 | Wounded Whispers | 0.20% | ~3 |
@@ -36,7 +37,6 @@ Rating: 3.52 (Ranked 984)
 | Friendgineering | 0.10% | ~2 |
 | Bad Wiring | 0.10% | ~2 |
 | Bell-ringer | 0.10% | ~2 |
-| Silence Is Golden | 0.10% | ~2 |
 | You Clean It Up | 0.10% | ~2 |
 | What Lies Below | 0.10% | ~2 |
 | Check, Please! | 0.10% | ~2 |

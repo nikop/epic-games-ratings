@@ -700,9 +700,9 @@
       "ID": "69",
       "SetID": "5e3maia",
       "Name": "Formidable",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "7",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-07T16:10:16.998236+00:00",
+  "LastChanged_Achievements": "2023-09-07T17:11:16.1065713+00:00",
   "LastUpdate_AppInfo": "2023-09-01T23:56:54.9755822+00:00",
-  "LastUpdate_Ratings": "2023-09-07T15:57:48.5131317+00:00",
-  "LastUpdate_Achievements": "2023-09-07T16:10:16.998301+00:00"
+  "LastUpdate_Ratings": "2023-09-07T16:58:13.7632058+00:00",
+  "LastUpdate_Achievements": "2023-09-07T17:11:16.1066564+00:00"
 }

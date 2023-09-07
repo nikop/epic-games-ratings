@@ -2,12 +2,12 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 304,
+  "Ranking_Rating": 303,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1677,9 +1677,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13805,
+  "EOS_Progressed": 13806,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11097,6 +11097,11 @@
       "Time": "2023-09-07T15:06:38.4002742+00:00",
       "NumProgressed": 13805,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-07T17:08:20.6784446+00:00",
+      "NumProgressed": 13806,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11690,9 +11695,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
       "SetID": "9201eeb",
       "Name": "Peacemaker",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -11858,9 +11863,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good Difficulty",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -13042,9 +13047,9 @@
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -13475,21 +13480,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13805,
+      "Progressed": 13806,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13805,
+      "Progressed": 13806,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-05T13:03:36.9380214+00:00",
-  "LastChanged_Achievements": "2023-09-07T16:07:31.4016236+00:00",
+  "LastChanged_Achievements": "2023-09-07T17:08:20.6784442+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:00:50.0547139+00:00",
-  "LastUpdate_Achievements": "2023-09-07T16:07:31.4026236+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:01:05.5693682+00:00",
+  "LastUpdate_Achievements": "2023-09-07T17:08:20.6792992+00:00"
 }

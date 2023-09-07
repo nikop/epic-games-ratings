@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 279,
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 61,
@@ -1507,9 +1507,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 200626,
+  "EOS_Progressed": 200635,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1568,
+  "EOS_NewPlayers": 1570,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17202,6 +17202,11 @@
       "Time": "2023-09-07T16:09:46.6469872+00:00",
       "NumProgressed": 200626,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-07T17:10:36.4207454+00:00",
+      "NumProgressed": 200635,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17213,7 +17218,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18056
+      "UsersEstimate": 18057
     },
     {
       "ID": "AtheistOx",
@@ -17253,7 +17258,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16050
+      "UsersEstimate": 16051
     },
     {
       "ID": "FiveShadows",
@@ -17285,7 +17290,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22069
+      "UsersEstimate": 22070
     },
     {
       "ID": "HappyLittleAccidents",
@@ -17389,7 +17394,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10031
+      "UsersEstimate": 10032
     },
     {
       "ID": "OldMan",
@@ -17429,7 +17434,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16050
+      "UsersEstimate": 16051
     },
     {
       "ID": "Rollin",
@@ -17437,7 +17442,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16050
+      "UsersEstimate": 16051
     },
     {
       "ID": "StillRollin",
@@ -17469,7 +17474,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16050
+      "UsersEstimate": 16051
     },
     {
       "ID": "TheCave",
@@ -17501,7 +17506,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20063
+      "UsersEstimate": 20064
     },
     {
       "ID": "TimeParadox",
@@ -17525,7 +17530,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10031
+      "UsersEstimate": 10032
     },
     {
       "ID": "Warzone",
@@ -17533,7 +17538,7 @@
       "Name": "Warzone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10031
+      "UsersEstimate": 10032
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -17564,15 +17569,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 200626,
+      "Progressed": 200635,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-05T09:59:57.8033528+00:00",
-  "LastChanged_Achievements": "2023-09-07T16:09:46.6469868+00:00",
+  "LastChanged_Achievements": "2023-09-07T17:10:36.420745+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:03.876432+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:03:03.2026735+00:00",
-  "LastUpdate_Achievements": "2023-09-07T16:09:46.6471251+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:03:44.0702282+00:00",
+  "LastUpdate_Achievements": "2023-09-07T17:10:36.4208946+00:00"
 }

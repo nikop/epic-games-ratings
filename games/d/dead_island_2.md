@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 505)
 | Humanity Distilled | 0.60% | ~4,051 |
 | Down with the Sickness | 0.50% | ~3,376 |
 | Max Headroom | 0.50% | ~3,376 |
-| Jumbo Keyring | 0.40% | ~2,700 |
-| Go, Bobcats! | 0.40% | ~2,700 |
-| Rising Star | 0.40% | ~2,700 |
+| Jumbo Keyring | 0.40% | ~2,701 |
+| Go, Bobcats! | 0.40% | ~2,701 |
+| Rising Star | 0.40% | ~2,701 |
 | On Safari | 0.30% | ~2,025 |
 | Smorgasbord | 0.30% | ~2,025 |
 | Not Even My Final Form | 0.30% | ~2,025 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,114 (Ranked 22)  
+Progressed: 675,146 (Ranked 22)  
 Completed: 2,119 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2,119 (0.31%) (Ranked 176)
 | 2023-09-04 | 673,658 | 2,114 |
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
-| 2023-09-07 | 675,114 | 2,119 |
+| 2023-09-07 | 675,146 | 2,119 |
 ## Awards
 Max (Great Boss Battles): 5,928  (Ranked 59)  
 Sum: 8,757 (Ranked 95)  

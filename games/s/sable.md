@@ -6,53 +6,53 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~29,907 |
-| Just The Two of Us | 32.00% | ~28,148 |
-| Up On High | 25.00% | ~21,991 |
-| Under The Hood | 25.00% | ~21,991 |
-| Got Your Nose | 24.00% | ~21,111 |
-| The Gift of Gab | 24.00% | ~21,111 |
-| Wrapping Up | 22.00% | ~19,352 |
-| More Than A Box Of Sand | 18.00% | ~15,833 |
-| The Dunboyne | 17.00% | ~14,954 |
-| Badge Hobbyist | 17.00% | ~14,954 |
-| Chum Novice | 16.00% | ~14,074 |
-| Silver-Tongued Sable | 16.00% | ~14,074 |
-| Sticky Paws | 16.00% | ~14,074 |
-| Bubble Up | 16.00% | ~14,074 |
-| Thread The Needle | 15.00% | ~13,194 |
-| Power to the People | 14.00% | ~12,315 |
-| Take That! | 13.00% | ~11,435 |
-| Nesting Giant | 13.00% | ~11,435 |
-| Treasure Tracker | 13.00% | ~11,435 |
-| Big Spender | 13.00% | ~11,435 |
+| Simoon | 34.00% | ~29,910 |
+| Just The Two of Us | 32.00% | ~28,150 |
+| Up On High | 25.00% | ~21,992 |
+| Under The Hood | 25.00% | ~21,992 |
+| Got Your Nose | 24.00% | ~21,113 |
+| The Gift of Gab | 24.00% | ~21,113 |
+| Wrapping Up | 22.00% | ~19,353 |
+| More Than A Box Of Sand | 18.00% | ~15,835 |
+| The Dunboyne | 17.00% | ~14,955 |
+| Badge Hobbyist | 17.00% | ~14,955 |
+| Chum Novice | 16.00% | ~14,075 |
+| Silver-Tongued Sable | 16.00% | ~14,075 |
+| Sticky Paws | 16.00% | ~14,075 |
+| Bubble Up | 16.00% | ~14,075 |
+| Thread The Needle | 15.00% | ~13,196 |
+| Power to the People | 14.00% | ~12,316 |
+| Take That! | 13.00% | ~11,436 |
+| Nesting Giant | 13.00% | ~11,436 |
+| Treasure Tracker | 13.00% | ~11,436 |
+| Big Spender | 13.00% | ~11,436 |
 | Badge Collector | 12.00% | ~10,556 |
 | Quite The Catch | 12.00% | ~10,556 |
-| Rowleys Way | 11.00% | ~9,676 |
-| The Machinist Mask | 10.00% | ~8,796 |
-| The Cartographer Mask | 10.00% | ~8,796 |
-| Balfron Connection | 10.00% | ~8,796 |
-| Ceiling Of Stars | 10.00% | ~8,796 |
-| Playing Dress Up | 10.00% | ~8,796 |
+| Rowleys Way | 11.00% | ~9,677 |
+| The Machinist Mask | 10.00% | ~8,797 |
+| The Cartographer Mask | 10.00% | ~8,797 |
+| Balfron Connection | 10.00% | ~8,797 |
+| Ceiling Of Stars | 10.00% | ~8,797 |
+| Playing Dress Up | 10.00% | ~8,797 |
 | Many Different Faces | 9.00% | ~7,917 |
 | Trellick's Pillar | 9.00% | ~7,917 |
 | Centre Of Brunswick | 9.00% | ~7,917 |
 | Bike Collector | 9.00% | ~7,917 |
 | Not That Kind Of Gliding | 9.00% | ~7,917 |
-| The Scrapper Mask | 8.00% | ~7,037 |
-| Shadow Of Neave | 8.00% | ~7,037 |
-| Fragile Goods | 8.00% | ~7,037 |
-| Glider on the Storm | 8.00% | ~7,037 |
-| Squeeze One Out | 8.00% | ~7,037 |
-| Dune Rider | 8.00% | ~7,037 |
-| Amateur Historian | 7.00% | ~6,157 |
-| The Beetle Mask | 7.00% | ~6,157 |
-| The Guard Mask | 7.00% | ~6,157 |
-| Smoked Out | 7.00% | ~6,157 |
+| The Scrapper Mask | 8.00% | ~7,038 |
+| Shadow Of Neave | 8.00% | ~7,038 |
+| Fragile Goods | 8.00% | ~7,038 |
+| Glider on the Storm | 8.00% | ~7,038 |
+| Squeeze One Out | 8.00% | ~7,038 |
+| Dune Rider | 8.00% | ~7,038 |
+| Amateur Historian | 7.00% | ~6,158 |
+| The Beetle Mask | 7.00% | ~6,158 |
+| The Guard Mask | 7.00% | ~6,158 |
+| Smoked Out | 7.00% | ~6,158 |
+| A Hard Place | 7.00% | ~6,158 |
 | The Climber Mask | 6.00% | ~5,278 |
 | The Merchant Mask | 6.00% | ~5,278 |
 | Honorary Chum | 6.00% | ~5,278 |
-| A Hard Place | 6.00% | ~5,278 |
 | Bikes Don't Fly | 6.00% | ~5,278 |
 | The Gliding | 5.00% | ~4,398 |
 | The Entertainer Mask | 5.00% | ~4,398 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,639 |
 | Vivacious Vivarium | 2.00% | ~1,759 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,963 (Ranked 74)  
+Progressed: 87,970 (Ranked 74)  
 Completed: 878 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 878 (1.00%) (Ranked 122)
 | 2023-09-04 | 87,523 | 871 |
 | 2023-09-05 | 87,693 | 873 |
 | 2023-09-06 | 87,852 | 875 |
-| 2023-09-07 | 87,963 | 878 |
+| 2023-09-07 | 87,970 | 878 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 488)  
 Sum: 45 (Ranked 457)  

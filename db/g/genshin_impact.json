@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 579,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -10782,18 +10782,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 1384406,
       "NumberOfAwardsMax": 305041
+    },
+    {
+      "Time": "2023-09-07T17:02:55.1207923+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1384542,
+      "NumberOfAwardsMax": 305107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1384406,
-  "NumberOfAwardsMax": 305041,
+  "NumberOfAwards": 1384542,
+  "NumberOfAwardsMax": 305107,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 305041
+      "Count": 305107
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10823,7 +10829,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 116793
+      "Count": 116821
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10853,7 +10859,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 110819
+      "Count": 110861
     }
   ],
   "EOS_Progressed": 0,
@@ -10867,8 +10873,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-09-07T15:01:54.7513164+00:00",
+  "LastChanged": "2023-09-07T17:02:55.1207921+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:33.0413051+00:00",
-  "LastUpdate_Ratings": "2023-09-07T16:02:16.6527297+00:00",
-  "LastUpdate_Achievements": "2023-09-07T16:05:04.2281599+00:00"
+  "LastUpdate_Ratings": "2023-09-07T17:02:55.1207928+00:00",
+  "LastUpdate_Achievements": "2023-09-07T17:05:55.3371618+00:00"
 }

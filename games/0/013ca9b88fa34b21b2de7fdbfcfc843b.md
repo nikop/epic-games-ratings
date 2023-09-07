@@ -40,7 +40,7 @@
 | Very Skilled | 3.00% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 418)  
+Progressed: 29 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -17,9 +17,9 @@
 | Fighting for Survival | 8.00% | ~101 |
 | Keeping Busy | 8.00% | ~101 |
 | Infantry Reporting | 8.00% | ~101 |
+| Exterminator | 7.00% | ~88 |
 | Silver Competitor | 7.00% | ~88 |
 | Captain | 7.00% | ~88 |
-| Exterminator | 6.00% | ~75 |
 | Factory Expansion | 6.00% | ~75 |
 | Brothers in Arms | 5.00% | ~63 |
 | Know The Enemy | 4.00% | ~50 |

@@ -1,27 +1,27 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.67 (Ranked 259)  
+Rating: 4.59 (Ranked 418)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 29.00% | ~2,950 |
-| Stogie for Fogey | 25.00% | ~2,543 |
-| Martian Music | 22.00% | ~2,238 |
-| Spore Taste | 21.00% | ~2,136 |
-| Captain Drummer | 21.00% | ~2,136 |
-| Celebrations are in Order | 20.00% | ~2,034 |
-| Doctor Approved | 18.00% | ~1,831 |
+| Impossible Objects | 29.00% | ~2,952 |
+| Stogie for Fogey | 25.00% | ~2,545 |
+| Martian Music | 22.00% | ~2,239 |
+| Spore Taste | 21.00% | ~2,138 |
+| Captain Drummer | 21.00% | ~2,138 |
+| Celebrations are in Order | 20.00% | ~2,036 |
+| Doctor Approved | 18.00% | ~1,832 |
 | Thorston Mayer | 12.00% | ~1,221 |
-| Bottoms up! | 10.00% | ~1,017 |
+| Bottoms up! | 10.00% | ~1,018 |
 | Data Logger | 5.00% | ~509 |
 | Data Master | 5.00% | ~509 |
 | Data Recoverer | 5.00% | ~509 |
 | The Pit and the Pirates | 3.00% | ~305 |
 | Drone Dodger | 3.00% | ~305 |
 | Debris Spree | 3.00% | ~305 |
-| Urshanabi Hoarder | 2.00% | ~203 |
-| Grave Robber | 2.00% | ~203 |
+| Urshanabi Hoarder | 2.00% | ~204 |
+| Grave Robber | 2.00% | ~204 |
 | Data Miner | 0.30% | ~31 |
 | Data Archivist | 0.10% | ~10 |
 | Miraculous Maya | 0.10% | ~10 |
@@ -36,7 +36,7 @@ Rating: 4.67 (Ranked 259)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,172 (Ranked 127)  
+Progressed: 10,179 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-04 | 10,042 | 0 |
 | 2023-09-05 | 10,095 | 0 |
 | 2023-09-06 | 10,141 | 0 |
-| 2023-09-07 | 10,172 | 0 |
+| 2023-09-07 | 10,179 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -93,3 +93,4 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-31 | 4.68 | 0 | 0 |
 | 2023-09-04 | 4.66 | 0 | 0 |
 | 2023-09-05 | 4.67 | 0 | 0 |
+| 2023-09-07 | 4.59 | 0 | 0 |
