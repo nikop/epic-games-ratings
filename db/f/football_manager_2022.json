@@ -3,7 +3,7 @@
   "Name": "Football Manager 2022",
   "ProductSlug": "football-manager-2022",
   "Ranking_Rating": 83,
-  "Ranking_Popularity": 55,
+  "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 271,
@@ -7111,7 +7111,7 @@
   ],
   "EOS_Progressed": 472576,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22675,8 +22675,8 @@
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-06T22:57:23.21395+00:00",
-  "LastChanged_Achievements": "2023-09-07T03:08:31.4630732+00:00",
+  "LastChanged_Achievements": "2023-09-07T04:07:42.0860053+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:06.0582244+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:57:44.1694713+00:00",
-  "LastUpdate_Achievements": "2023-09-07T03:08:31.4633771+00:00"
+  "LastUpdate_Ratings": "2023-09-07T03:57:31.7738634+00:00",
+  "LastUpdate_Achievements": "2023-09-07T04:07:42.0861821+00:00"
 }

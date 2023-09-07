@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526834,
+  "EOS_Progressed": 526835,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15369,6 +15369,11 @@
       "Time": "2023-09-07T03:05:23.5979723+00:00",
       "NumProgressed": 526834,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-07T04:04:57.4431657+00:00",
+      "NumProgressed": 526835,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 57,
@@ -15388,7 +15393,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237075
+      "UsersEstimate": 237076
     },
     {
       "ID": "11",
@@ -15404,7 +15409,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115903
+      "UsersEstimate": 115904
     },
     {
       "ID": "13",
@@ -15412,7 +15417,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 68488
+      "UsersEstimate": 68489
     },
     {
       "ID": "14",
@@ -15428,7 +15433,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 52683
+      "UsersEstimate": 52684
     },
     {
       "ID": "16",
@@ -15460,7 +15465,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326637
+      "UsersEstimate": 326638
     },
     {
       "ID": "2",
@@ -15468,7 +15473,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 52683
+      "UsersEstimate": 52684
     },
     {
       "ID": "20",
@@ -15604,7 +15609,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263417
+      "UsersEstimate": 263418
     },
     {
       "ID": "36",
@@ -15612,7 +15617,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84293
+      "UsersEstimate": 84294
     },
     {
       "ID": "37",
@@ -15708,7 +15713,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326637
+      "UsersEstimate": 326638
     },
     {
       "ID": "48",
@@ -15835,15 +15840,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526834,
+      "Progressed": 526835,
       "Completed": 470
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-07T03:05:23.5979715+00:00",
+  "LastChanged_Achievements": "2023-09-07T04:04:57.4431654+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.8959885+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:59:14.4092237+00:00",
-  "LastUpdate_Achievements": "2023-09-07T03:05:23.5981982+00:00"
+  "LastUpdate_Ratings": "2023-09-07T03:58:54.5107829+00:00",
+  "LastUpdate_Achievements": "2023-09-07T04:04:57.4432754+00:00"
 }

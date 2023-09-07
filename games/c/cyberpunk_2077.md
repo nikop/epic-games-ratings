@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~603,707 |
+| The Fool | 69.00% | ~603,708 |
 | Right Back At Ya | 39.00% | ~341,226 |
-| The Lovers | 35.00% | ~306,228 |
+| The Lovers | 35.00% | ~306,229 |
 | Stanislavski's Method | 29.00% | ~253,732 |
 | The Wheel of Fortune | 28.00% | ~244,983 |
-| The Hermit | 25.00% | ~218,734 |
+| The Hermit | 25.00% | ~218,735 |
 | Christmas Tree Attack | 23.00% | ~201,236 |
 | True Soldier | 23.00% | ~201,236 |
-| The High Priestess | 22.00% | ~192,486 |
-| Legend of The Afterlife | 22.00% | ~192,486 |
+| The High Priestess | 22.00% | ~192,487 |
+| Legend of The Afterlife | 22.00% | ~192,487 |
 | Life of the Road | 21.00% | ~183,737 |
 | Full Body Conversion | 18.00% | ~157,489 |
 | The World | 18.00% | ~157,489 |
-| Bushido and Chill | 17.00% | ~148,739 |
+| Bushido and Chill | 17.00% | ~148,740 |
 | Gun Fu | 15.00% | ~131,241 |
 | True Warrior | 15.00% | ~131,241 |
 | To Protect and Serve | 14.00% | ~122,491 |
@@ -29,7 +29,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 12.00% | ~104,993 |
 | The Wandering Fool | 10.00% | ~87,494 |
 | The Quick and the Dead | 10.00% | ~87,494 |
-| Ten out of Ten | 9.00% | ~78,744 |
+| Ten out of Ten | 9.00% | ~78,745 |
 | Breathtaking | 8.00% | ~69,995 |
 | To Bad Decisions! | 7.00% | ~61,246 |
 | The Star | 7.00% | ~61,246 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,749 |
 | Rough Landing | 0.50% | ~4,375 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 874,938 (Ranked 14)  
+Progressed: 874,939 (Ranked 14)  
 Completed: 2,065 (0.24%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2,065 (0.24%) (Ranked 187)
 | 2023-09-04 | 874,617 | 2,059 |
 | 2023-09-05 | 874,775 | 2,062 |
 | 2023-09-06 | 874,918 | 2,065 |
-| 2023-09-07 | 874,938 | 2,065 |
+| 2023-09-07 | 874,939 | 2,065 |
 ## Awards
 Max (Character Customization): 77,619  (Ranked 9)  
 Sum: 206,600 (Ranked 13)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19561,
+  "EOS_Progressed": 19562,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5547,6 +5547,11 @@
       "Time": "2023-09-07T02:18:23.7214346+00:00",
       "NumProgressed": 19561,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-09-07T04:03:06.8533596+00:00",
+      "NumProgressed": 19562,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -5654,7 +5659,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17605
+      "UsersEstimate": 17606
     },
     {
       "ID": "ach.140.legacy",
@@ -5662,7 +5667,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19170
+      "UsersEstimate": 19171
     },
     {
       "ID": "ach.150.pocket",
@@ -5694,7 +5699,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11541
+      "UsersEstimate": 11542
     },
     {
       "ID": "ach.190.scenic",
@@ -5750,7 +5755,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 18192
+      "UsersEstimate": 18193
     },
     {
       "ID": "ach.260.investor",
@@ -5822,7 +5827,7 @@
       "Name": "Man of Steel",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3325
+      "UsersEstimate": 3326
     },
     {
       "ID": "ach.350.pipes",
@@ -5853,7 +5858,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19561,
+      "Progressed": 19562,
       "Completed": 38
     }
   ],
@@ -5861,8 +5866,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-09-06T12:01:41.553383+00:00",
-  "LastChanged_Achievements": "2023-09-07T03:03:23.9556045+00:00",
+  "LastChanged_Achievements": "2023-09-07T04:03:06.8533589+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.7999726+00:00",
-  "LastUpdate_Ratings": "2023-09-07T03:01:58.9485893+00:00",
-  "LastUpdate_Achievements": "2023-09-07T03:03:23.9556692+00:00"
+  "LastUpdate_Ratings": "2023-09-07T04:01:28.1121372+00:00",
+  "LastUpdate_Achievements": "2023-09-07T04:03:06.8534059+00:00"
 }

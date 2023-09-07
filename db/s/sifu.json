@@ -3,12 +3,12 @@
   "Name": "Sifu",
   "ProductSlug": "sifu",
   "Ranking_Rating": 66,
-  "Ranking_Popularity": 54,
+  "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 99,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6054,9 +6054,9 @@
       "Count": 375
     }
   ],
-  "EOS_Progressed": 713219,
+  "EOS_Progressed": 713228,
   "EOS_Completed": 12886,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18784,6 +18784,11 @@
       "Time": "2023-09-07T03:03:38.6681081+00:00",
       "NumProgressed": 713219,
       "NumCompleted": 12886
+    },
+    {
+      "Time": "2023-09-07T04:03:20.6857157+00:00",
+      "NumProgressed": 713228,
+      "NumCompleted": 12886
     }
   ],
   "TotalAchievements": 50,
@@ -18795,7 +18800,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "02_Vengeance_H1",
@@ -18803,7 +18808,7 @@
       "Name": "The Assault",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "03_Vengeance_H2",
@@ -18811,7 +18816,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "04_Vengeance_H3",
@@ -18819,7 +18824,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "05_Vengeance_H4",
@@ -18827,7 +18832,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "06_Vengeance_H5",
@@ -18835,7 +18840,7 @@
       "Name": "Furious Fists",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "07_Wude_H1",
@@ -18899,7 +18904,7 @@
       "Name": "Kill Nil",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "15_Detective_H1",
@@ -18947,7 +18952,7 @@
       "Name": "Stuntmaster",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -18963,7 +18968,7 @@
       "Name": "Street Fighting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -18971,7 +18976,7 @@
       "Name": "Life is your teacher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -18979,7 +18984,7 @@
       "Name": "State of constant learning",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "25_ShrineMind",
@@ -18995,7 +19000,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "27_ShrineBody",
@@ -19003,7 +19008,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -19043,7 +19048,7 @@
       "Name": "Old Child",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "33_BladeOneShot",
@@ -19059,7 +19064,7 @@
       "Name": "Lightning Hands",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "35_WideStrike",
@@ -19075,7 +19080,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -19083,7 +19088,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -19107,7 +19112,7 @@
       "Name": "Take damage to save time",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 14264
+      "UsersEstimate": 14265
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -19139,7 +19144,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -19147,7 +19152,7 @@
       "Name": "Bloody Sport",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -19194,21 +19199,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22520,
+      "Progressed": 22529,
       "Completed": 10592
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 713219,
+      "Progressed": 713228,
       "Completed": 12886
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-06T20:00:23.4187731+00:00",
-  "LastChanged_Achievements": "2023-09-07T03:03:38.6681074+00:00",
+  "LastChanged_Achievements": "2023-09-07T04:03:20.6857153+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-07T03:01:32.6161451+00:00",
-  "LastUpdate_Achievements": "2023-09-07T03:03:38.6683262+00:00"
+  "LastUpdate_Ratings": "2023-09-07T04:01:02.2438774+00:00",
+  "LastUpdate_Achievements": "2023-09-07T04:03:20.685806+00:00"
 }

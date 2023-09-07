@@ -17,17 +17,17 @@ Number of Ratings: 495  (23.09.2022)
 | Jonin | 7.00% | ~14,036 |
 | Stoned Ox | 7.00% | ~14,036 |
 | Yabu | 7.00% | ~14,036 |
-| Chunin | 6.00% | ~12,030 |
-| Flying Rocks | 6.00% | ~12,030 |
-| Happy Planning | 6.00% | ~12,030 |
-| Mugen Unchained | 6.00% | ~12,030 |
-| Okkoto | 5.00% | ~10,025 |
-| Too Early | 5.00% | ~10,025 |
-| Warzone | 5.00% | ~10,025 |
-| Gear up | 4.00% | ~8,020 |
-| Happy little accidents | 4.00% | ~8,020 |
-| Prisoners | 4.00% | ~8,020 |
-| Still Rollin' | 4.00% | ~8,020 |
+| Chunin | 6.00% | ~12,031 |
+| Flying Rocks | 6.00% | ~12,031 |
+| Happy Planning | 6.00% | ~12,031 |
+| Mugen Unchained | 6.00% | ~12,031 |
+| Okkoto | 5.00% | ~10,026 |
+| Too Early | 5.00% | ~10,026 |
+| Warzone | 5.00% | ~10,026 |
+| Gear up | 4.00% | ~8,021 |
+| Happy little accidents | 4.00% | ~8,021 |
+| Prisoners | 4.00% | ~8,021 |
+| Still Rollin' | 4.00% | ~8,021 |
 | Noboru | 3.00% | ~6,015 |
 | Stoned | 3.00% | ~6,015 |
 | The Old Way | 3.00% | ~6,015 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~201 |
 | Release the Kraken | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,508 (Ranked 61)  
+Progressed: 200,513 (Ranked 61)  
 Completed: 77 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 77 (0.04%) (Ranked 239)
 | 2023-09-04 | 200,108 | 76 |
 | 2023-09-05 | 200,306 | 76 |
 | 2023-09-06 | 200,486 | 77 |
-| 2023-09-07 | 200,508 | 77 |
+| 2023-09-07 | 200,513 | 77 |
 ## Awards
 Max (Great for Beginners): 562  (Ranked 191)  
 Sum: 4,743 (Ranked 135)  

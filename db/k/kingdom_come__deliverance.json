@@ -3,8 +3,8 @@
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
   "Ranking_Rating": 190,
-  "Ranking_Popularity": 48,
-  "Ranking_PopularitySum": 47,
+  "Ranking_Popularity": 47,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 55,
@@ -7014,9 +7014,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 800165,
+  "EOS_Progressed": 800169,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 982,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22439,6 +22439,11 @@
       "Time": "2023-09-07T03:05:27.1325787+00:00",
       "NumProgressed": 800165,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-07T04:05:00.7710655+00:00",
+      "NumProgressed": 800169,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 82,
@@ -22466,7 +22471,7 @@
       "Name": "Alcoholic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "Anorectic",
@@ -22474,7 +22479,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128026
+      "UsersEstimate": 128027
     },
     {
       "ID": "Awakening",
@@ -22506,7 +22511,7 @@
       "Name": "Bailiff",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 7201
+      "UsersEstimate": 7202
     },
     {
       "ID": "Bard",
@@ -22530,7 +22535,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256053
+      "UsersEstimate": 256054
     },
     {
       "ID": "Bookworm",
@@ -22562,7 +22567,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200041
+      "UsersEstimate": 200042
     },
     {
       "ID": "Chivalrous",
@@ -22610,7 +22615,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80016
+      "UsersEstimate": 80017
     },
     {
       "ID": "DavidHorak",
@@ -22650,7 +22655,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184038
+      "UsersEstimate": 184039
     },
     {
       "ID": "Fighter",
@@ -22770,7 +22775,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104021
+      "UsersEstimate": 104022
     },
     {
       "ID": "Judas",
@@ -22930,7 +22935,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160033
+      "UsersEstimate": 160034
     },
     {
       "ID": "RevenantOfLedechko",
@@ -22970,7 +22975,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 160033
+      "UsersEstimate": 160034
     },
     {
       "ID": "SerialKiller",
@@ -22986,7 +22991,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88018
+      "UsersEstimate": 88019
     },
     {
       "ID": "Sniper",
@@ -22994,7 +22999,7 @@
       "Name": "Sniper",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "StealthKiller",
@@ -23050,7 +23055,7 @@
       "Name": "Tracker",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 7201
+      "UsersEstimate": 7202
     },
     {
       "ID": "Traveller",
@@ -23058,7 +23063,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88018
+      "UsersEstimate": 88019
     },
     {
       "ID": "TrialAndError",
@@ -23105,15 +23110,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 800165,
+      "Progressed": 800169,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-06T20:59:29.0352792+00:00",
-  "LastChanged_Achievements": "2023-09-07T03:05:27.1325779+00:00",
+  "LastChanged_Achievements": "2023-09-07T04:05:00.7710652+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:05.4736062+00:00",
-  "LastUpdate_Ratings": "2023-09-07T03:00:37.178868+00:00",
-  "LastUpdate_Achievements": "2023-09-07T03:05:27.132943+00:00"
+  "LastUpdate_Ratings": "2023-09-07T04:00:09.6333709+00:00",
+  "LastUpdate_Achievements": "2023-09-07T04:05:00.771208+00:00"
 }

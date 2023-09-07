@@ -6,7 +6,7 @@
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_Completed": 198,
   "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
@@ -964,11 +964,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1619,
+  "EOS_Progressed": 1629,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1380,
+  "EOS_NewPlayers": 1386,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.19,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -1884,6 +1884,11 @@
       "Time": "2023-09-07T03:03:44.4484531+00:00",
       "NumProgressed": 1619,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-07T04:03:25.9911863+00:00",
+      "NumProgressed": 1629,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -1894,9 +1899,9 @@
       "ID": "a_1",
       "SetID": "daiie3o",
       "Name": "It\u0027s a good start",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 130
     },
     {
       "ID": "a_10",
@@ -1904,7 +1909,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "a_11",
@@ -1912,7 +1917,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "a_12",
@@ -1920,7 +1925,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "a_15",
@@ -1928,7 +1933,7 @@
       "Name": "Big Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "a_16",
@@ -1936,7 +1941,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "a_18",
@@ -1944,7 +1949,7 @@
       "Name": "Bye Bye",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 538
     },
     {
       "ID": "a_19",
@@ -1952,7 +1957,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "a_2",
@@ -1992,7 +1997,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "a_25",
@@ -2008,7 +2013,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "a_27",
@@ -2040,7 +2045,7 @@
       "Name": "King of red wines",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "a_31",
@@ -2126,9 +2131,9 @@
       "ID": "a_8",
       "SetID": "daiie3o",
       "Name": "Famous",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 49
     },
     {
       "ID": "a_9",
@@ -2143,7 +2148,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1619,
+      "Progressed": 1629,
       "Completed": 3
     }
   ],
@@ -2151,8 +2156,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-04T11:58:24.9206083+00:00",
-  "LastChanged_Achievements": "2023-09-07T03:03:44.4484525+00:00",
+  "LastChanged_Achievements": "2023-09-07T04:03:25.991186+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-07T02:59:34.5091565+00:00",
-  "LastUpdate_Achievements": "2023-09-07T03:03:44.4484857+00:00"
+  "LastUpdate_Ratings": "2023-09-07T03:59:13.984025+00:00",
+  "LastUpdate_Achievements": "2023-09-07T04:03:25.9912105+00:00"
 }
