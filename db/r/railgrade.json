@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 3193,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19559,
+  "EOS_Progressed": 19556,
   "EOS_Completed": 38,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": -4,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5567,6 +5567,11 @@
       "Time": "2023-09-07T08:03:17.3657097+00:00",
       "NumProgressed": 19559,
       "NumCompleted": 38
+    },
+    {
+      "Time": "2023-09-07T09:03:25.4357643+00:00",
+      "NumProgressed": 19556,
+      "NumCompleted": 38
     }
   ],
   "TotalAchievements": 37,
@@ -5586,7 +5591,7 @@
       "Name": "Helper of the People",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 7628
+      "UsersEstimate": 7627
     },
     {
       "ID": "ach.030.deertastic",
@@ -5610,7 +5615,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16234
+      "UsersEstimate": 16231
     },
     {
       "ID": "ach.060.goingdistance",
@@ -5618,7 +5623,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10562
+      "UsersEstimate": 10560
     },
     {
       "ID": "ach.070.8kenough",
@@ -5626,7 +5631,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4498
     },
     {
       "ID": "ach.080.eraser",
@@ -5634,7 +5639,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13691
+      "UsersEstimate": 13689
     },
     {
       "ID": "ach.090.perfectionist",
@@ -5642,7 +5647,7 @@
       "Name": "Perfectionist",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4694
+      "UsersEstimate": 4693
     },
     {
       "ID": "ach.100.indecisive",
@@ -5650,7 +5655,7 @@
       "Name": "Indecisive",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5672
+      "UsersEstimate": 5671
     },
     {
       "ID": "ach.110.multiverse",
@@ -5666,7 +5671,7 @@
       "Name": "Simplification",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6650
+      "UsersEstimate": 6649
     },
     {
       "ID": "ach.130.minimalist",
@@ -5674,7 +5679,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17603
+      "UsersEstimate": 17600
     },
     {
       "ID": "ach.140.legacy",
@@ -5682,7 +5687,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19168
+      "UsersEstimate": 19165
     },
     {
       "ID": "ach.150.pocket",
@@ -5690,7 +5695,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12713
+      "UsersEstimate": 12711
     },
     {
       "ID": "ach.160.box",
@@ -5698,7 +5703,7 @@
       "Name": "Box of Trains",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6454
+      "UsersEstimate": 6453
     },
     {
       "ID": "ach.170.room",
@@ -5706,7 +5711,7 @@
       "Name": "Room Full of Trains",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2542
     },
     {
       "ID": "ach.180.inspector",
@@ -5714,7 +5719,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11540
+      "UsersEstimate": 11538
     },
     {
       "ID": "ach.190.scenic",
@@ -5722,7 +5727,7 @@
       "Name": "The scenic route",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 5477
+      "UsersEstimate": 5476
     },
     {
       "ID": "ach.200.light",
@@ -5730,7 +5735,7 @@
       "Name": "Let There be Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6259
+      "UsersEstimate": 6258
     },
     {
       "ID": "ach.210.baron",
@@ -5738,7 +5743,7 @@
       "Name": "Oil Baron",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8215
+      "UsersEstimate": 8214
     },
     {
       "ID": "ach.220.hot",
@@ -5746,7 +5751,7 @@
       "Name": "Hot Water",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6063
+      "UsersEstimate": 6062
     },
     {
       "ID": "ach.230.infinity",
@@ -5762,7 +5767,7 @@
       "Name": "Loads-a-Money",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 8215
+      "UsersEstimate": 8214
     },
     {
       "ID": "ach.250.downfall",
@@ -5770,7 +5775,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 18190
+      "UsersEstimate": 18187
     },
     {
       "ID": "ach.260.investor",
@@ -5826,7 +5831,7 @@
       "Name": "Industrialist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4890
+      "UsersEstimate": 4889
     },
     {
       "ID": "ach.330.water",
@@ -5834,7 +5839,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17799
+      "UsersEstimate": 17796
     },
     {
       "ID": "ach.340.steel",
@@ -5850,7 +5855,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4498
     },
     {
       "ID": "ach.360.lightning",
@@ -5873,7 +5878,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19559,
+      "Progressed": 19556,
       "Completed": 38
     }
   ],
@@ -5881,8 +5886,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-09-06T12:01:41.553383+00:00",
-  "LastChanged_Achievements": "2023-09-07T08:03:17.3657092+00:00",
+  "LastChanged_Achievements": "2023-09-07T09:03:25.4357636+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.7999726+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:01:36.2049932+00:00",
-  "LastUpdate_Achievements": "2023-09-07T08:03:17.3657565+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:01:34.6354462+00:00",
+  "LastUpdate_Achievements": "2023-09-07T09:03:25.4358314+00:00"
 }

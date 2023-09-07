@@ -33,10 +33,10 @@ Rating: 4.19 (Ranked 873)
 | In Striking Distance | 1.00% | ~159 |
 | This Isn't About Escape | 0.90% | ~35 |
 | Armed to the Teeth | 0.60% | ~23 |
+| Parole Denied | 0.60% | ~23 |
 | Big Spender | 0.60% | ~23 |
 | Information Overload | 0.60% | ~23 |
 | Grim Reaper | 0.50% | ~80 |
-| Parole Denied | 0.50% | ~19 |
 | Quick Pick | 0.50% | ~19 |
 | Mugshot | 0.40% | ~64 |
 | Instigator | 0.40% | ~15 |

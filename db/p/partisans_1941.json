@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1331,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2395,6 +2395,11 @@
       "Time": "2023-09-05T18:05:17.6630882+00:00",
       "NumProgressed": 1331,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-07T09:05:08.9347477+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2406,7 +2411,7 @@
       "Name": "Agent 47",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Auditor",
@@ -2430,7 +2435,7 @@
       "Name": "The Big Bertha",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Boy",
@@ -2438,7 +2443,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Commandos",
@@ -2598,7 +2603,7 @@
       "Name": "Mosquito bite",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "Scout",
@@ -2645,15 +2650,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1331,
+      "Progressed": 1332,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-07T08:04:58.5332049+00:00",
+  "LastChanged_Achievements": "2023-09-07T09:05:08.9347471+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:58.9041026+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:01:13.1689508+00:00",
-  "LastUpdate_Achievements": "2023-09-07T08:04:58.533233+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:01:12.1637004+00:00",
+  "LastUpdate_Achievements": "2023-09-07T09:05:08.9348071+00:00"
 }

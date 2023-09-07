@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 27.00% | ~49 |
-| Clean Race | 27.00% | ~49 |
-| Rivals to the End | 26.00% | ~48 |
-| Hear That Roar! | 25.00% | ~46 |
+| First Love | 29.00% | ~54 |
+| Clean Race | 29.00% | ~54 |
+| Rivals to the End | 27.00% | ~50 |
+| Hear That Roar! | 26.00% | ~48 |
+| We're Going to Need a Bigger Garage | 18.00% | ~33 |
 | Eat My Dust | 18.00% | ~33 |
-| We're Going to Need a Bigger Garage | 17.00% | ~31 |
 | I'm Here Too! | 14.00% | ~26 |
-| Bitter Rivalry | 10.00% | ~18 |
-| Restored and Ready | 9.00% | ~16 |
-| I Want One Too! | 9.00% | ~16 |
-| Quick Pit Stop | 9.00% | ~16 |
-| Go-Faster Stripes | 7.00% | ~13 |
-| Legendary!!! | 7.00% | ~13 |
+| Bitter Rivalry | 11.00% | ~20 |
+| I Want One Too! | 10.00% | ~19 |
+| Quick Pit Stop | 10.00% | ~19 |
+| Restored and Ready | 9.00% | ~17 |
+| Legendary!!! | 8.00% | ~15 |
+| Go-Faster Stripes | 6.00% | ~11 |
 | Is It the Right Size? | 5.00% | ~9 |
+| Evangelist | 5.00% | ~9 |
 | Champagne Spray | 5.00% | ~9 |
-| Evangelist | 4.00% | ~7 |
-| Stamina Star | 3.00% | ~5 |
-| Iconic! | 3.00% | ~5 |
-| Still Here | 3.00% | ~5 |
-| We've Just Begun | 3.00% | ~5 |
+| Stamina Star | 3.00% | ~6 |
+| Iconic! | 3.00% | ~6 |
+| Still Here | 3.00% | ~6 |
+| We've Just Begun | 3.00% | ~6 |
 | Make It Your Own! | 2.00% | ~4 |
 | Spoilt for Choice | 2.00% | ~4 |
+| I'll Be the Best! | 2.00% | ~4 |
 | Cherry Blossom and Temples | 2.00% | ~4 |
 | My Work Here Is Done | 2.00% | ~4 |
 | I Don't Stop | 2.00% | ~4 |
 | Overtaking the Master | 2.00% | ~4 |
-| I'll Be the Best! | 1.00% | ~2 |
 | La Dolce Vita | 1.00% | ~2 |
 | The Road to Liberty | 1.00% | ~2 |
 | Romantic Races | 1.00% | ~2 |
@@ -54,10 +54,10 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 309)  
+Progressed: 186 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-09-06 | 141 | 0 |
-| 2023-09-07 | 183 | 0 |
+| 2023-09-07 | 186 | 0 |

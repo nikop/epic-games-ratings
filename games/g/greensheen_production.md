@@ -3,18 +3,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's in the box?! | 50.00% | ~2 |
-| Bully of Bullies | 25.00% | ~1 |
-| Hospitalised | 25.00% | ~1 |
-| Foraged | 25.00% | ~1 |
-| Merciful feat | 25.00% | ~1 |
-| Referee! | 25.00% | ~1 |
-| Unladylike | 25.00% | ~1 |
-| Fair Prey | 25.00% | ~1 |
-| Post Industrial | 25.00% | ~1 |
-| Fly Free | 25.00% | ~1 |
-| First do no harm | 25.00% | ~1 |
-| Evasive prey | 25.00% | ~1 |
+| What's in the box?! | 40.00% | ~2 |
+| Bully of Bullies | 20.00% | ~1 |
+| Hospitalised | 20.00% | ~1 |
+| Foraged | 20.00% | ~1 |
+| Merciful feat | 20.00% | ~1 |
+| Referee! | 20.00% | ~1 |
+| Unladylike | 20.00% | ~1 |
+| Fair Prey | 20.00% | ~1 |
+| Post Industrial | 20.00% | ~1 |
+| Fly Free | 20.00% | ~1 |
+| First do no harm | 20.00% | ~1 |
+| Evasive prey | 20.00% | ~1 |
 | In The Palm Of My Hand | 0.00% | ~0 |
 | Toys Are For Kids | 0.00% | ~0 |
 | Twenty-Six | 0.00% | ~0 |
@@ -39,7 +39,7 @@
 | How Do I Look? | 0.00% | ~0 |
 | X Best Friends | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 493)  
+Progressed: 5 (Ranked 486)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,3 +47,4 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-08-08 | 1 | 0 |
 | 2023-08-21 | 2 | 0 |
 | 2023-08-30 | 4 | 0 |
+| 2023-09-07 | 5 | 0 |

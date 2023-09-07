@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10157,
+  "EOS_Progressed": 10159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4563,6 +4563,11 @@
       "Time": "2023-09-07T06:06:04.7540628+00:00",
       "NumProgressed": 10157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-07T09:06:03.5901855+00:00",
+      "NumProgressed": 10159,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4581,17 +4586,17 @@
       "ID": "10",
       "SetID": "458bbdk",
       "Name": "Data Miner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 203
     },
     {
       "ID": "12",
@@ -4615,7 +4620,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "15",
@@ -4623,7 +4628,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2539
+      "UsersEstimate": 2540
     },
     {
       "ID": "16",
@@ -4653,9 +4658,9 @@
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2133
     },
     {
       "ID": "2",
@@ -4677,9 +4682,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 203
     },
     {
       "ID": "22",
@@ -4783,7 +4788,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "7",
@@ -4814,7 +4819,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10157,
+      "Progressed": 10159,
       "Completed": 0
     }
   ],
@@ -4822,8 +4827,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-05T17:00:07.0019493+00:00",
-  "LastChanged_Achievements": "2023-09-07T08:05:58.3461151+00:00",
+  "LastChanged_Achievements": "2023-09-07T09:06:03.5901849+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:01:14.436898+00:00",
-  "LastUpdate_Achievements": "2023-09-07T08:05:58.3461584+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:01:12.7659604+00:00",
+  "LastUpdate_Achievements": "2023-09-07T09:06:03.5902458+00:00"
 }

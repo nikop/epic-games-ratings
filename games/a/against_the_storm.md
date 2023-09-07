@@ -45,15 +45,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Feeding The People | 1.00% | ~165 |
 | Efficient Explorer | 1.00% | ~165 |
 | Prestigious Expedition | 1.00% | ~165 |
+| Blood Flower Farmer | 1.00% | ~165 |
 | Victory through Prosperity | 1.00% | ~165 |
-| Blood Flower Farmer | 0.90% | ~149 |
 | Lizard Utopia | 0.70% | ~116 |
 | Beaver Utopia | 0.60% | ~99 |
 | Human Utopia | 0.60% | ~99 |
 | The Queen's Chosen | 0.50% | ~83 |
 | Harpy Utopia | 0.40% | ~66 |
+| Ruins | 0.40% | ~66 |
 | Treasure | 0.30% | ~50 |
-| Ruins | 0.30% | ~50 |
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)

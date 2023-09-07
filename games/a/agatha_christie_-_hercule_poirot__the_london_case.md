@@ -11,42 +11,42 @@
 | An old friend | 38.00% | ~3 |
 | A curious gathering | 38.00% | ~3 |
 | Little grey cells | 25.00% | ~2 |
+| Everything matters | 25.00% | ~2 |
+| Order and method | 25.00% | ~2 |
 | The Gala | 25.00% | ~2 |
 | Impossible is possible | 25.00% | ~2 |
 | The Missing Magdalene | 25.00% | ~2 |
 | Arthur Hastings | 25.00% | ~2 |
-| Everything matters | 13.00% | ~1 |
-| Order and method | 13.00% | ~1 |
+| An expert mediator | 13.00% | ~1 |
+| An odd series of events | 13.00% | ~1 |
+| A rude awakening | 13.00% | ~1 |
+| Betty Allen | 13.00% | ~1 |
+| Ms. Camilla B. Culsham | 13.00% | ~1 |
+| DI Hardwicke | 13.00% | ~1 |
+| Irene Court-Smyth | 13.00% | ~1 |
+| The Investigation Begins | 13.00% | ~1 |
+| Nathaniel Dryden | 13.00% | ~1 |
+| Zakariya Demir | 13.00% | ~1 |
+| Bartholomew | 13.00% | ~1 |
+| The Apartment | 13.00% | ~1 |
+| The Scheme | 13.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | Well-acquainted | 0.00% | ~0 |
 | Truth from within | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |
-| An expert mediator | 0.00% | ~0 |
-| An odd series of events | 0.00% | ~0 |
-| A rude awakening | 0.00% | ~0 |
 | A curious phrase | 0.00% | ~0 |
 | A perilous journey | 0.00% | ~0 |
 | A peculiar fellow | 0.00% | ~0 |
 | The Penitent Magdalene | 0.00% | ~0 |
 | A true performance | 0.00% | ~0 |
 | Anastasia Babanin | 0.00% | ~0 |
-| Betty Allen | 0.00% | ~0 |
-| Ms. Camilla B. Culsham | 0.00% | ~0 |
-| DI Hardwicke | 0.00% | ~0 |
 | Evelyn Lakshmi Warbeck | 0.00% | ~0 |
 | Florence Farquhar | 0.00% | ~0 |
 | Horace Mountjoy | 0.00% | ~0 |
-| Irene Court-Smyth | 0.00% | ~0 |
-| The Investigation Begins | 0.00% | ~0 |
 | Johan Kristiansen | 0.00% | ~0 |
 | Mortimer Ailsworth | 0.00% | ~0 |
-| Nathaniel Dryden | 0.00% | ~0 |
-| Zakariya Demir | 0.00% | ~0 |
-| Bartholomew | 0.00% | ~0 |
 | Perkins | 0.00% | ~0 |
-| The Apartment | 0.00% | ~0 |
-| The Scheme | 0.00% | ~0 |
 | The Suspects | 0.00% | ~0 |
 | The Secrets | 0.00% | ~0 |
 | The Investigation Starts Anew | 0.00% | ~0 |

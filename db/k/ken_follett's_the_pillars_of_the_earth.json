@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15063,
+  "EOS_Progressed": 15064,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9690,6 +9690,11 @@
       "Time": "2023-09-07T03:04:44.9605658+00:00",
       "NumProgressed": 15063,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-07T09:04:33.0189192+00:00",
+      "NumProgressed": 15064,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9781,7 +9786,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "tpote_achievement_2",
@@ -9853,7 +9858,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "tpote_achievement_28",
@@ -9893,7 +9898,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "tpote_achievement_32",
@@ -10028,15 +10033,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15063,
+      "Progressed": 15064,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-07T08:04:31.1345256+00:00",
+  "LastChanged_Achievements": "2023-09-07T09:04:33.0189187+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-07T08:02:15.5436254+00:00",
-  "LastUpdate_Achievements": "2023-09-07T08:04:31.1346015+00:00"
+  "LastUpdate_Ratings": "2023-09-07T09:02:12.2326385+00:00",
+  "LastUpdate_Achievements": "2023-09-07T09:04:33.0190442+00:00"
 }

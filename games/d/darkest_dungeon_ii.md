@@ -6,32 +6,32 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~108,857 |
+| A Place to Lay Your Head | 93.00% | ~108,858 |
 | Don't Make Me Turn This Coach Around | 70.00% | ~81,936 |
-| A Clear Conscience | 69.00% | ~80,765 |
+| A Clear Conscience | 69.00% | ~80,766 |
 | Unleash Hell | 68.00% | ~79,595 |
 | Unfulfilled Desires | 68.00% | ~79,595 |
-| Funny Guy | 67.00% | ~78,424 |
-| Unshackled | 67.00% | ~78,424 |
+| Funny Guy | 67.00% | ~78,425 |
+| Unshackled | 67.00% | ~78,425 |
 | Long Live the King | 66.00% | ~77,254 |
 | Resurrection | 62.00% | ~72,572 |
 | Wyrdly Reconstructed | 62.00% | ~72,572 |
 | Boxcar Kid | 60.00% | ~70,231 |
 | Rush Hour | 60.00% | ~70,231 |
 | To Grandmother's House | 60.00% | ~70,231 |
-| Serenity Now! | 53.00% | ~62,037 |
+| Serenity Now! | 53.00% | ~62,038 |
 | Hope Rekindled | 50.00% | ~58,526 |
 | Ramble On | 49.00% | ~57,355 |
-| Nope | 48.00% | ~56,184 |
-| This Looks Familiar | 38.00% | ~44,479 |
+| Nope | 48.00% | ~56,185 |
+| This Looks Familiar | 38.00% | ~44,480 |
 | Now Stay Dead | 37.00% | ~43,309 |
-| Harvest Festival | 36.00% | ~42,138 |
-| Hot Air | 36.00% | ~42,138 |
+| Harvest Festival | 36.00% | ~42,139 |
+| Hot Air | 36.00% | ~42,139 |
 | Merry Time | 35.00% | ~40,968 |
 | Creep and Sleep | 33.00% | ~38,627 |
-| Overdue Notice | 32.00% | ~37,456 |
+| Overdue Notice | 32.00% | ~37,457 |
 | Whale | 31.00% | ~36,286 |
-| Banishment | 30.00% | ~35,115 |
+| Banishment | 30.00% | ~35,116 |
 | FNG | 29.00% | ~33,945 |
 | Predator | 24.00% | ~28,092 |
 | Reverse Banditry | 24.00% | ~28,092 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,051 (Ranked 71)  
+Progressed: 117,052 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-09-04 | 116,880 | 1 |
 | 2023-09-05 | 116,958 | 1 |
 | 2023-09-06 | 117,027 | 1 |
-| 2023-09-07 | 117,051 | 1 |
+| 2023-09-07 | 117,052 | 1 |
 ## Awards
 Max (Character Customization): 7,372  (Ranked 48)  
 Sum: 19,207 (Ranked 56)  

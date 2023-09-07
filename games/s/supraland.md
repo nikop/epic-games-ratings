@@ -6,29 +6,29 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~717,490 |
-| The Blues | 85.00% | ~616,026 |
-| Fast | 66.00% | ~478,326 |
-| Healthbar | 55.00% | ~398,605 |
-| Force Cube | 53.00% | ~384,111 |
-| Double Jump | 48.00% | ~347,874 |
-| Regeneration | 47.00% | ~340,626 |
-| Triple Jump | 43.00% | ~311,637 |
+| Out of bed | 99.00% | ~717,492 |
+| The Blues | 85.00% | ~616,028 |
+| Fast | 66.00% | ~478,328 |
+| Healthbar | 55.00% | ~398,606 |
+| Force Cube | 53.00% | ~384,112 |
+| Double Jump | 48.00% | ~347,875 |
+| Regeneration | 47.00% | ~340,627 |
+| Triple Jump | 43.00% | ~311,638 |
 | Climb the hill | 42.00% | ~304,390 |
-| Through the fire pipe | 39.00% | ~282,647 |
-| MacGuffin | 38.00% | ~275,400 |
+| Through the fire pipe | 39.00% | ~282,648 |
+| MacGuffin | 38.00% | ~275,401 |
 | Just once | 37.00% | ~268,153 |
-| Armor | 30.00% | ~217,421 |
-| True holy spirit | 28.00% | ~202,926 |
+| Armor | 30.00% | ~217,422 |
+| True holy spirit | 28.00% | ~202,927 |
 | That's how electronics work obviously | 26.00% | ~188,432 |
-| Force Cube Catapult | 25.00% | ~181,184 |
+| Force Cube Catapult | 25.00% | ~181,185 |
 | Holy Sword | 23.00% | ~166,690 |
-| Telefrag | 22.00% | ~159,442 |
+| Telefrag | 22.00% | ~159,443 |
 | Freed from prison | 21.00% | ~152,195 |
 | Stomp | 21.00% | ~152,195 |
 | Double Health | 18.00% | ~130,453 |
-| Buckle | 17.00% | ~123,205 |
-| Green Keycard | 17.00% | ~123,205 |
+| Buckle | 17.00% | ~123,206 |
+| Green Keycard | 17.00% | ~123,206 |
 | All Shells | 15.00% | ~108,711 |
 | Rattle Hag | 15.00% | ~108,711 |
 | Beam | 14.00% | ~101,463 |
@@ -36,8 +36,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~94,216 |
 | Purple Cube | 13.00% | ~94,216 |
 | Supraball Noob | 13.00% | ~94,216 |
-| Helped a star | 12.00% | ~86,968 |
-| Strong | 12.00% | ~86,968 |
+| Helped a star | 12.00% | ~86,969 |
+| Strong | 12.00% | ~86,969 |
 | Blue King's lair | 11.00% | ~79,721 |
 | Payback | 11.00% | ~79,721 |
 | Got the coins back | 11.00% | ~79,721 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~72,474 |
 | Translocator | 10.00% | ~72,474 |
 | Yellow Shot Button | 10.00% | ~72,474 |
-| Moon Door | 9.00% | ~65,226 |
-| Momentum | 9.00% | ~65,226 |
-| Through the tiny pipe | 9.00% | ~65,226 |
-| Win! | 9.00% | ~65,226 |
+| Moon Door | 9.00% | ~65,227 |
+| Momentum | 9.00% | ~65,227 |
+| Through the tiny pipe | 9.00% | ~65,227 |
+| Win! | 9.00% | ~65,227 |
 | The real real teleported man | 7.00% | ~50,732 |
 | Well deserved | 6.00% | ~43,484 |
 | Happiness | 3.00% | ~21,742 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~725 |
 | DLC: Top of the world | 0.10% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,737 (Ranked 19)  
+Progressed: 724,739 (Ranked 19)  
 Completed: 731 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 731 (0.10%) (Ranked 217)
 | 2023-09-04 | 724,495 | 731 |
 | 2023-09-05 | 724,597 | 731 |
 | 2023-09-06 | 724,704 | 731 |
-| 2023-09-07 | 724,737 | 731 |
+| 2023-09-07 | 724,739 | 731 |
 ## Awards
 Max (Challenging Puzzles): 7,683  (Ranked 45)  
 Sum: 10,010 (Ranked 86)  

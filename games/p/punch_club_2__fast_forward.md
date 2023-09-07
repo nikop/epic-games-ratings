@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~280 |
+| Such a strange dream… | 89.00% | ~283 |
 | Good Person Chip | 86.00% | ~273 |
 | Your first fight | 86.00% | ~273 |
 | First winning | 84.00% | ~267 |
@@ -23,10 +23,10 @@
 | Pal of your father? | 67.00% | ~213 |
 | Employee of the month | 66.00% | ~210 |
 | Spirit of the past | 64.00% | ~204 |
-| Workout professional | 62.00% | ~197 |
+| Workout professional | 63.00% | ~200 |
 | Law student | 62.00% | ~197 |
+| Champion – starter pack | 61.00% | ~194 |
 | Handyman | 60.00% | ~191 |
-| Champion – starter pack | 60.00% | ~191 |
 | It's good to be alive | 60.00% | ~191 |
 | Own four walls | 60.00% | ~191 |
 | Employee of the year | 60.00% | ~191 |
