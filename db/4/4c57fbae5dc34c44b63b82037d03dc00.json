@@ -2,9 +2,9 @@
   "ID": "4c57fbae5dc34c44b63b82037d03dc00",
   "Name": "The Alchemist of Ars Magna",
   "ProductSlug": "the-alchemist-of-ars-magna-e68b84",
-  "Ranking_EOS_Progress": 582,
+  "Ranking_EOS_Progress": 583,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-06T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-07T20:57:08.4369441+00:00",
   "LastUpdate_AppInfo": "2023-09-05T17:57:19.987369+00:00",
-  "LastUpdate_Ratings": "2023-09-08T06:58:49.0749714+00:00",
-  "LastUpdate_Achievements": "2023-09-08T07:06:52.0071502+00:00"
+  "LastUpdate_Ratings": "2023-09-08T07:58:17.5579703+00:00",
+  "LastUpdate_Achievements": "2023-09-08T08:05:28.2687338+00:00"
 }

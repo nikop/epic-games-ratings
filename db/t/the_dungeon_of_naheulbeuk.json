@@ -810,9 +810,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222078,
+  "EOS_Progressed": 222087,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2199,
+  "EOS_NewPlayers": 2195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9995,6 +9995,11 @@
       "Time": "2023-09-08T07:08:11.8583302+00:00",
       "NumProgressed": 222078,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T08:06:43.142322+00:00",
+      "NumProgressed": 222087,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10054,7 +10059,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6663
     },
     {
       "ID": "Chapter2",
@@ -10438,7 +10443,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6663
     },
     {
       "ID": "ElfEpic",
@@ -10454,7 +10459,7 @@
       "Name": "Sowwy!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 62182
+      "UsersEstimate": 62184
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10534,7 +10539,7 @@
       "Name": "Dead for good",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "KillGolbargh",
@@ -10622,7 +10627,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "RangerEpic",
@@ -10694,7 +10699,7 @@
       "Name": "Material Girl",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "WizardResistBurn",
@@ -10709,21 +10714,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222078,
+      "Progressed": 222087,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222078,
+      "Progressed": 222087,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T13:05:29.237116+00:00",
-  "LastChanged_Achievements": "2023-09-08T07:08:11.8583295+00:00",
+  "LastChanged_Achievements": "2023-09-08T08:06:43.1423215+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-08T07:01:04.324628+00:00",
-  "LastUpdate_Achievements": "2023-09-08T07:08:11.8585762+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:00:23.5762454+00:00",
+  "LastUpdate_Achievements": "2023-09-08T08:06:43.1424793+00:00"
 }

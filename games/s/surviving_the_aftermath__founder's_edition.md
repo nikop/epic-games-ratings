@@ -6,20 +6,20 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 72.00% | ~6,388 |
-| Leader | 60.00% | ~5,323 |
-| Explorer | 53.00% | ~4,702 |
-| Healer | 52.00% | ~4,613 |
+| First Step | 72.00% | ~6,389 |
+| Leader | 60.00% | ~5,324 |
+| Explorer | 53.00% | ~4,703 |
+| Healer | 52.00% | ~4,614 |
 | Aspiring Inventor | 44.00% | ~3,904 |
 | Adventurer | 41.00% | ~3,638 |
-| Famous Healer | 38.00% | ~3,371 |
-| Local Leader | 35.00% | ~3,105 |
-| Famous Explorer | 34.00% | ~3,016 |
-| New Opportunities | 34.00% | ~3,016 |
+| Famous Healer | 38.00% | ~3,372 |
+| Local Leader | 35.00% | ~3,106 |
+| Famous Explorer | 34.00% | ~3,017 |
+| New Opportunities | 34.00% | ~3,017 |
 | Energized | 33.00% | ~2,928 |
 | The Long Haul | 33.00% | ~2,928 |
-| The Great Healer | 31.00% | ~2,750 |
-| Survivor | 31.00% | ~2,750 |
+| The Great Healer | 31.00% | ~2,751 |
+| Survivor | 31.00% | ~2,751 |
 | Legendary Explorer | 28.00% | ~2,484 |
 | Cleaner | 28.00% | ~2,484 |
 | Catastrofan | 28.00% | ~2,484 |
@@ -30,7 +30,7 @@ Number of Ratings: 836  (23.09.2022)
 | Merchant | 22.00% | ~1,952 |
 | Ice Lakes | 22.00% | ~1,952 |
 | Real Survivor | 22.00% | ~1,952 |
-| Rocket Surgeon | 20.00% | ~1,774 |
+| Rocket Surgeon | 20.00% | ~1,775 |
 | War Never Changes | 19.00% | ~1,686 |
 | Big Game Hunter | 17.00% | ~1,508 |
 | Spreading Influence | 17.00% | ~1,508 |
@@ -42,7 +42,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 13.00% | ~1,153 |
 | It's a Finnish Thing | 10.00% | ~887 |
 | Sky Burial | 10.00% | ~887 |
-| Trader | 9.00% | ~798 |
+| Trader | 9.00% | ~799 |
 | Bread and Circuses | 8.00% | ~710 |
 | New Eden | 7.00% | ~621 |
 | Tailored to fit | 7.00% | ~621 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.20% | ~18 |
 | Customized calamities | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,872 (Ranked 132)  
+Progressed: 8,873 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-05 | 8,841 | 0 |
 | 2023-09-06 | 8,855 | 0 |
 | 2023-09-07 | 8,867 | 0 |
-| 2023-09-08 | 8,872 | 0 |
+| 2023-09-08 | 8,873 | 0 |
 ## Awards
 Max (Extremely Fun): 103  (Ranked 333)  
 Sum: 699 (Ranked 279)  

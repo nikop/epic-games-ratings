@@ -6,55 +6,55 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,202 |
-| Uncharted Territory | 89.00% | ~209,708 |
-| Getting A Glimpse | 73.00% | ~172,008 |
-| A Quick Escape | 65.00% | ~153,158 |
-| Explorer | 62.00% | ~146,089 |
-| Defeat The Dark | 61.00% | ~143,732 |
-| An Offering | 61.00% | ~143,732 |
-| Colorful Corpse | 58.00% | ~136,664 |
-| That Was Quick | 57.00% | ~134,307 |
-| A Donation | 57.00% | ~134,307 |
-| Goodbye, Frog Friend | 54.00% | ~127,239 |
-| Heavy Hitter | 53.00% | ~124,882 |
-| Heartless | 46.00% | ~108,388 |
-| Spine Breaker | 46.00% | ~108,388 |
-| Deflection | 45.00% | ~106,032 |
+| First Steps | 96.00% | ~226,204 |
+| Uncharted Territory | 89.00% | ~209,710 |
+| Getting A Glimpse | 73.00% | ~172,009 |
+| A Quick Escape | 65.00% | ~153,159 |
+| Explorer | 62.00% | ~146,090 |
+| Defeat The Dark | 61.00% | ~143,734 |
+| An Offering | 61.00% | ~143,734 |
+| Colorful Corpse | 58.00% | ~136,665 |
+| That Was Quick | 57.00% | ~134,309 |
+| A Donation | 57.00% | ~134,309 |
+| Goodbye, Frog Friend | 54.00% | ~127,240 |
+| Heavy Hitter | 53.00% | ~124,883 |
+| Heartless | 46.00% | ~108,389 |
+| Spine Breaker | 46.00% | ~108,389 |
+| Deflection | 45.00% | ~106,033 |
 | Sneaky | 43.00% | ~101,320 |
-| Delving Deeper | 42.00% | ~98,963 |
-| C-C-Combo | 42.00% | ~98,963 |
-| Ambitious Intent | 41.00% | ~96,607 |
-| Nothing To Lose | 40.00% | ~94,251 |
-| The Bestiary | 40.00% | ~94,251 |
-| What's Yours Is Mine | 38.00% | ~89,538 |
+| Delving Deeper | 42.00% | ~98,964 |
+| C-C-Combo | 42.00% | ~98,964 |
+| Ambitious Intent | 41.00% | ~96,608 |
+| Nothing To Lose | 40.00% | ~94,252 |
+| The Bestiary | 40.00% | ~94,252 |
+| What's Yours Is Mine | 38.00% | ~89,539 |
 | R.I.P | 36.00% | ~84,826 |
 | Shootout | 36.00% | ~84,826 |
-| I Am Overburdened | 35.00% | ~82,469 |
-| Cold Hearted | 34.00% | ~80,113 |
-| Dig Your Own Grave | 33.00% | ~77,757 |
-| Toxic | 33.00% | ~77,757 |
+| I Am Overburdened | 35.00% | ~82,470 |
+| Cold Hearted | 34.00% | ~80,114 |
+| Dig Your Own Grave | 33.00% | ~77,758 |
+| Toxic | 33.00% | ~77,758 |
 | Who To Trust? | 32.00% | ~75,401 |
 | Flesh Wound | 29.00% | ~68,332 |
 | Stone Touch | 28.00% | ~65,976 |
 | Shadow Walker | 28.00% | ~65,976 |
-| Consecutive Curses | 27.00% | ~63,619 |
-| Walk It Off | 27.00% | ~63,619 |
-| Acid Bath | 27.00% | ~63,619 |
-| New Perspectives | 27.00% | ~63,619 |
-| Shapeshifting | 27.00% | ~63,619 |
-| Destroy Your Fears | 26.00% | ~61,263 |
+| Consecutive Curses | 27.00% | ~63,620 |
+| Walk It Off | 27.00% | ~63,620 |
+| Acid Bath | 27.00% | ~63,620 |
+| New Perspectives | 27.00% | ~63,620 |
+| Shapeshifting | 27.00% | ~63,620 |
+| Destroy Your Fears | 26.00% | ~61,264 |
 | Save Our Souls | 25.00% | ~58,907 |
-| To The Death! | 20.00% | ~47,125 |
-| Well Prepared | 20.00% | ~47,125 |
-| Just Chilling | 20.00% | ~47,125 |
-| Stop Hitting Yourself | 19.00% | ~44,769 |
+| To The Death! | 20.00% | ~47,126 |
+| Well Prepared | 20.00% | ~47,126 |
+| Just Chilling | 20.00% | ~47,126 |
+| Stop Hitting Yourself | 19.00% | ~44,770 |
 | All Consuming | 18.00% | ~42,413 |
 | Shadow Spreads | 17.00% | ~40,057 |
 | Don't Ignore Me! | 17.00% | ~40,057 |
 | Illuminate, Eliminate | 17.00% | ~40,057 |
-| Max Damage! | 16.00% | ~37,700 |
-| Doing Time | 16.00% | ~37,700 |
+| Max Damage! | 16.00% | ~37,701 |
+| Doing Time | 16.00% | ~37,701 |
 | Spreading Plague | 15.00% | ~35,344 |
 | The Long Run | 14.00% | ~32,988 |
 | A Rough Road | 13.00% | ~30,632 |
@@ -63,7 +63,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Antivenom | 12.00% | ~28,275 |
 | Thank You, Friend | 11.00% | ~25,919 |
 | Barbecue | 10.00% | ~23,563 |
-| Snake Sneak | 9.00% | ~21,206 |
+| Snake Sneak | 9.00% | ~21,207 |
 | Challenge Increases | 8.00% | ~18,850 |
 | New Game+ | 8.00% | ~18,850 |
 | Clearing The Room | 8.00% | ~18,850 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,178 |
 | Near Death Experience | 0.30% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,627 (Ranked 51)  
+Progressed: 235,629 (Ranked 51)  
 Completed: 266 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 266 (0.11%) (Ranked 215)
 | 2023-09-05 | 235,536 | 266 |
 | 2023-09-06 | 235,580 | 266 |
 | 2023-09-07 | 235,617 | 266 |
-| 2023-09-08 | 235,627 | 266 |
+| 2023-09-08 | 235,629 | 266 |
 ## Awards
 Max (Great for Beginners): 1,495  (Ranked 122)  
 Sum: 13,044 (Ranked 74)  

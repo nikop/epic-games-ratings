@@ -4,7 +4,7 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 942,
+  "EOS_Progressed": 943,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.49,
+  "EOS_Completed_Percentage": 1.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:10.0879802+00:00",
@@ -124,6 +124,11 @@
       "Time": "2023-08-26T19:07:11.545272+00:00",
       "NumProgressed": 942,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-08T08:04:37.7771101+00:00",
+      "NumProgressed": 943,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -183,7 +188,7 @@
       "Name": "Real Estate",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "achievement_lighthouse",
@@ -199,7 +204,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "achievement_ship_bought",
@@ -215,7 +220,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -230,7 +235,7 @@
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 942,
+      "Progressed": 943,
       "Completed": 14
     }
   ],
@@ -238,8 +243,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-09-08T07:06:08.3010642+00:00",
+  "LastChanged_Achievements": "2023-09-08T08:04:37.7771093+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:00.1956062+00:00",
-  "LastUpdate_Ratings": "2023-09-08T07:00:00.0939593+00:00",
-  "LastUpdate_Achievements": "2023-09-08T07:06:08.3010951+00:00"
+  "LastUpdate_Ratings": "2023-09-08T07:59:25.7439599+00:00",
+  "LastUpdate_Achievements": "2023-09-08T08:04:37.7771198+00:00"
 }

@@ -25,15 +25,15 @@
 | Meat Larder | 40.00% | ~72 |
 | Mutant And Proud | 37.00% | ~66 |
 | The Emperor's New Clothes | 33.00% | ~59 |
+| Final Evolution | 32.00% | ~57 |
 | Undying Skin | 31.00% | ~55 |
-| Final Evolution | 31.00% | ~55 |
 | You Shall Not Pass | 30.00% | ~54 |
 | Animal Lover | 30.00% | ~54 |
 | Godlike Power | 30.00% | ~54 |
 | Happy Little Home | 30.00% | ~54 |
 | Fight Me! | 29.00% | ~52 |
+| Mommy's Very Angry | 28.00% | ~50 |
 | Supremacy | 28.00% | ~50 |
-| Mommy's Very Angry | 27.00% | ~48 |
 | Immortal Skin | 25.00% | ~45 |
 | Loyal Companion | 25.00% | ~45 |
 | Back To The Future | 23.00% | ~41 |

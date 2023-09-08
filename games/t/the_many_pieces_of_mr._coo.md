@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Punch & Judy | 0.00% | ~0 |
+| Punch & Judy | 200.00% | ~2 |
 | Just what I wanted | 0.00% | ~0 |
 | Beware of the chicken | 0.00% | ~0 |
 | Crack the eggshell | 0.00% | ~0 |
@@ -25,3 +25,10 @@
 | Paperwork | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Without a hint | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 536)  
+Completed: 0 (0.00%) (Ranked 271)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-09-08 | 1 | 0 |

@@ -6,41 +6,41 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~25,764 |
-| It wakes | 3.00% | ~25,764 |
-| Skillful | 3.00% | ~25,764 |
-| No one left behind | 2.00% | ~17,176 |
-| Medic | 2.00% | ~17,176 |
-| Handyman | 2.00% | ~17,176 |
-| Nerves of steel | 2.00% | ~17,176 |
-| Not half bad | 2.00% | ~17,176 |
-| Bloody Millionaire | 2.00% | ~17,176 |
-| Apt Survivor | 2.00% | ~17,176 |
-| Survival Treasures | 2.00% | ~17,176 |
-| I | 2.00% | ~17,176 |
-| Sorted | 2.00% | ~17,176 |
-| Make Some Noise | 2.00% | ~17,176 |
-| MU/TH/UR Dearest | 2.00% | ~17,176 |
-| The Grand Sacrifice | 1.00% | ~8,588 |
-| Agonizing Escape | 1.00% | ~8,588 |
-| Backdoor Escape | 1.00% | ~8,588 |
-| I've got your back | 1.00% | ~8,588 |
-| Perfect Escape | 1.00% | ~8,588 |
-| Perfect Killing | 1.00% | ~8,588 |
-| Apt Killer | 1.00% | ~8,588 |
-| Risk it all | 1.00% | ~8,588 |
-| II | 1.00% | ~8,588 |
-| Engineer | 1.00% | ~8,588 |
-| Wounded Healer | 1.00% | ~8,588 |
-| Healthy Obsession | 1.00% | ~8,588 |
-| Resurgence | 1.00% | ~8,588 |
-| Close Shave | 1.00% | ~8,588 |
-| Preemptive Strike | 1.00% | ~8,588 |
-| Humanitarian | 1.00% | ~8,588 |
-| Vulture | 0.90% | ~7,729 |
-| Second Act | 0.90% | ~7,729 |
-| Terror of LV-426 | 0.90% | ~7,729 |
-| III | 0.80% | ~6,870 |
+| Zealous | 3.00% | ~25,766 |
+| It wakes | 3.00% | ~25,766 |
+| Skillful | 3.00% | ~25,766 |
+| No one left behind | 2.00% | ~17,177 |
+| Medic | 2.00% | ~17,177 |
+| Handyman | 2.00% | ~17,177 |
+| Nerves of steel | 2.00% | ~17,177 |
+| Not half bad | 2.00% | ~17,177 |
+| Bloody Millionaire | 2.00% | ~17,177 |
+| Apt Survivor | 2.00% | ~17,177 |
+| Survival Treasures | 2.00% | ~17,177 |
+| I | 2.00% | ~17,177 |
+| Sorted | 2.00% | ~17,177 |
+| Make Some Noise | 2.00% | ~17,177 |
+| MU/TH/UR Dearest | 2.00% | ~17,177 |
+| The Grand Sacrifice | 1.00% | ~8,589 |
+| Agonizing Escape | 1.00% | ~8,589 |
+| Backdoor Escape | 1.00% | ~8,589 |
+| I've got your back | 1.00% | ~8,589 |
+| Perfect Escape | 1.00% | ~8,589 |
+| Perfect Killing | 1.00% | ~8,589 |
+| Apt Killer | 1.00% | ~8,589 |
+| Risk it all | 1.00% | ~8,589 |
+| II | 1.00% | ~8,589 |
+| Engineer | 1.00% | ~8,589 |
+| Wounded Healer | 1.00% | ~8,589 |
+| Healthy Obsession | 1.00% | ~8,589 |
+| Resurgence | 1.00% | ~8,589 |
+| Close Shave | 1.00% | ~8,589 |
+| Preemptive Strike | 1.00% | ~8,589 |
+| Humanitarian | 1.00% | ~8,589 |
+| Second Act | 1.00% | ~8,589 |
+| Vulture | 0.90% | ~7,730 |
+| Terror of LV-426 | 0.90% | ~7,730 |
+| III | 0.80% | ~6,871 |
 | Blood on your hands | 0.70% | ~6,012 |
 | Cherish your Life | 0.70% | ~6,012 |
 | First to the Punch | 0.70% | ~6,012 |
@@ -86,18 +86,18 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.40% | ~3,435 |
 | Outrun the Overlap | 0.40% | ~3,435 |
 | Extraterrestrial | 0.40% | ~3,435 |
-| Deep Cleansing | 0.30% | ~2,576 |
-| Texas BBQ | 0.30% | ~2,576 |
-| Party Crasher | 0.30% | ~2,576 |
-| Whiffing to Success | 0.30% | ~2,576 |
-| Outrage | 0.30% | ~2,576 |
-| Broken Bodies | 0.30% | ~2,576 |
-| Power Moves | 0.30% | ~2,576 |
-| Insult and Injury | 0.30% | ~2,576 |
-| Punch Drunk | 0.30% | ~2,576 |
-| Prowler | 0.30% | ~2,576 |
-| Rebuilding The Borgo | 0.30% | ~2,576 |
-| Hack the Mainframe | 0.30% | ~2,576 |
+| Deep Cleansing | 0.30% | ~2,577 |
+| Texas BBQ | 0.30% | ~2,577 |
+| Party Crasher | 0.30% | ~2,577 |
+| Whiffing to Success | 0.30% | ~2,577 |
+| Outrage | 0.30% | ~2,577 |
+| Broken Bodies | 0.30% | ~2,577 |
+| Power Moves | 0.30% | ~2,577 |
+| Insult and Injury | 0.30% | ~2,577 |
+| Punch Drunk | 0.30% | ~2,577 |
+| Prowler | 0.30% | ~2,577 |
+| Rebuilding The Borgo | 0.30% | ~2,577 |
+| Hack the Mainframe | 0.30% | ~2,577 |
 | Blood in your mouth | 0.20% | ~1,718 |
 | Looter | 0.20% | ~1,718 |
 | Happy Holidays | 0.20% | ~1,718 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~859 |
 | Adept Ripley | 0.10% | ~859 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 858,788 (Ranked 15)  
+Progressed: 858,851 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-05 | 852,172 | 48 |
 | 2023-09-06 | 854,955 | 48 |
 | 2023-09-07 | 857,988 | 48 |
-| 2023-09-08 | 858,788 | 48 |
+| 2023-09-08 | 858,851 | 48 |
 ## Awards
 Max (Diverse Characters): 32,082  (Ranked 15)  
 Sum: 251,145 (Ranked 11)  
