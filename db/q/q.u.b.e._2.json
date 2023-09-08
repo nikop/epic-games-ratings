@@ -5,10 +5,10 @@
   "Ranking_Rating": 691,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216,
+  "EOS_Progressed": 217,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1048,6 +1048,11 @@
       "Time": "2023-09-08T00:08:01.9960896+00:00",
       "NumProgressed": 216,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-08T01:54:02.1873683+00:00",
+      "NumProgressed": 217,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1220,7 +1225,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_PEAK",
@@ -1260,7 +1265,7 @@
       "Name": "Power Glove",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_S5",
@@ -1268,7 +1273,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1291,15 +1296,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 216,
+      "Progressed": 217,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:08:01.996089+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:54:02.1873677+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-07T23:59:42.4807447+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:08:01.9961142+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:42:55.5073288+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:54:02.1874114+00:00"
 }

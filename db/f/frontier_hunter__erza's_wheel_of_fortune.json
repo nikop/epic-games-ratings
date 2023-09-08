@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -708,9 +708,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "7pimpda",
       "Name": "Silver Moon Wolf King Challenge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -837,8 +837,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:12:06.0936148+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:57:46.1903891+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:25.0723404+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:05:28.5474875+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:12:06.093657+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:50:34.4531657+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:57:46.1904669+00:00"
 }

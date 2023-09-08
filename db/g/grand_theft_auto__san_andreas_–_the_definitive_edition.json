@@ -6,9 +6,9 @@
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -808,11 +808,11 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12165,
-  "EOS_Completed": 44,
-  "EOS_NewPlayers": 67,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_Progressed": 12167,
+  "EOS_Completed": 45,
+  "EOS_NewPlayers": 69,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -9928,6 +9928,11 @@
       "Time": "2023-09-07T19:06:22.052285+00:00",
       "NumProgressed": 12165,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-08T01:51:55.7978372+00:00",
+      "NumProgressed": 12167,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -9939,7 +9944,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9854
+      "UsersEstimate": 9855
     },
     {
       "ID": "ACH02",
@@ -9987,7 +9992,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "ACH08",
@@ -9995,7 +10000,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6204
+      "UsersEstimate": 6205
     },
     {
       "ID": "ACH09",
@@ -10019,7 +10024,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "ACH12",
@@ -10035,7 +10040,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2311
+      "UsersEstimate": 2312
     },
     {
       "ID": "ACH14",
@@ -10193,9 +10198,9 @@
       "ID": "ACH33",
       "SetID": "4ck5mbe",
       "Name": "Remastered",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH34",
@@ -10218,16 +10223,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12165,
-      "Completed": 44
+      "Progressed": 12167,
+      "Completed": 45
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-07T05:02:40.3873569+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:06:32.0252535+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:51:55.7978365+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:53.2336033+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:06:08.1145939+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:06:32.0253361+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:51:28.772153+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:51:55.7979228+00:00"
 }

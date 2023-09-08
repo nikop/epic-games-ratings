@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -603,9 +603,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 222122,
+  "EOS_Progressed": 222125,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15873,6 +15873,11 @@
       "Time": "2023-09-08T00:10:16.7428504+00:00",
       "NumProgressed": 222122,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T01:56:36.2566872+00:00",
+      "NumProgressed": 222125,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -15884,7 +15889,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42203
+      "UsersEstimate": 42204
     },
     {
       "ID": "ACH_BASE_10",
@@ -15964,7 +15969,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13327
+      "UsersEstimate": 13328
     },
     {
       "ID": "ACH_BASE_20",
@@ -16155,7 +16160,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 222122,
+      "Progressed": 222125,
       "Completed": 5
     }
   ],
@@ -16163,8 +16168,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-09-07T20:02:44.46779+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:10:16.7428499+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:56:36.2566865+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:01.6485466+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:02:24.1485323+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:10:16.742974+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:46:25.9318368+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:56:36.2568124+00:00"
 }

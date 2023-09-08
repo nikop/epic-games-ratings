@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 431,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -810,9 +810,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222030,
+  "EOS_Progressed": 222049,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2223,
+  "EOS_NewPlayers": 2220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9960,6 +9960,11 @@
       "Time": "2023-09-08T00:09:10.3818602+00:00",
       "NumProgressed": 222030,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T01:55:44.0283022+00:00",
+      "NumProgressed": 222049,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10371,7 +10376,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8881
+      "UsersEstimate": 8882
     },
     {
       "ID": "DwarfElf15Support",
@@ -10419,7 +10424,7 @@
       "Name": "Sowwy!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 62168
+      "UsersEstimate": 62174
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10467,7 +10472,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8881
+      "UsersEstimate": 8882
     },
     {
       "ID": "FollowBraztok",
@@ -10505,9 +10510,9 @@
       "ID": "KillGolbargh",
       "SetID": "50chcgj",
       "Name": "We come in peace",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 666
+      "UsersEstimate": 888
     },
     {
       "ID": "MinistrelEpic",
@@ -10674,21 +10679,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222030,
+      "Progressed": 222049,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222030,
+      "Progressed": 222049,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T13:05:29.237116+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:09:10.3818593+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:55:44.0283012+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:02:10.4812081+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:09:10.3820196+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:46:12.2962506+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:55:44.0285852+00:00"
 }

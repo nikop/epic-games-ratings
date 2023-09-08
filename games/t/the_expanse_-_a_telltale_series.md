@@ -1,17 +1,17 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.59 (Ranked 418)  
+Rating: 4.59 (Ranked 417)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 29.00% | ~2,958 |
-| Stogie for Fogey | 25.00% | ~2,550 |
-| Martian Music | 22.00% | ~2,244 |
-| Spore Taste | 21.00% | ~2,142 |
-| Captain Drummer | 21.00% | ~2,142 |
-| Celebrations are in Order | 20.00% | ~2,040 |
-| Doctor Approved | 18.00% | ~1,836 |
+| Impossible Objects | 29.00% | ~2,959 |
+| Stogie for Fogey | 25.00% | ~2,551 |
+| Martian Music | 22.00% | ~2,245 |
+| Spore Taste | 21.00% | ~2,143 |
+| Captain Drummer | 21.00% | ~2,143 |
+| Celebrations are in Order | 20.00% | ~2,041 |
+| Doctor Approved | 18.00% | ~1,837 |
 | Thorston Mayer | 12.00% | ~1,224 |
 | Bottoms up! | 10.00% | ~1,020 |
 | The Pit and the Pirates | 5.00% | ~510 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 418)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,200 (Ranked 127)  
+Progressed: 10,204 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-05 | 10,095 | 0 |
 | 2023-09-06 | 10,141 | 0 |
 | 2023-09-07 | 10,199 | 0 |
-| 2023-09-08 | 10,200 | 0 |
+| 2023-09-08 | 10,204 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -38,8 +38,8 @@
 | Giantess Slayer | 13.00% | ~12 |
 | Boss challenge | 12.00% | ~11 |
 | Big Face Goalkeeper Challenge | 4.00% | ~4 |
+| Silver Moon Wolf King Challenge | 4.00% | ~4 |
 | Giant Claw Spider Challenge | 3.00% | ~3 |
-| Silver Moon Wolf King Challenge | 3.00% | ~3 |
 | Mermaid Challenge | 3.00% | ~3 |
 | Giantess Challenge | 3.00% | ~3 |
 | Warden Challenge | 3.00% | ~3 |

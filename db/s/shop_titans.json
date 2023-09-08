@@ -5852,10 +5852,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27187,
       "NumberOfAwardsMax": 4730
+    },
+    {
+      "Time": "2023-09-08T01:46:44.9189564+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27189,
+      "NumberOfAwardsMax": 4730
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27187,
+  "NumberOfAwards": 27189,
   "NumberOfAwardsMax": 4730,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5869,7 +5875,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3868
+      "Count": 3870
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5908,9 +5914,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135809,
+  "EOS_Progressed": 135814,
   "EOS_Completed": 146,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20318,6 +20324,11 @@
       "Time": "2023-09-08T00:08:36.9000527+00:00",
       "NumProgressed": 135809,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2023-09-08T01:54:56.0327181+00:00",
+      "NumProgressed": 135814,
+      "NumCompleted": 146
     }
   ],
   "TotalAchievements": 112,
@@ -20329,7 +20340,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "advlevel02",
@@ -20465,7 +20476,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "boss02",
@@ -20953,7 +20964,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "loot02",
@@ -20985,7 +20996,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "master02",
@@ -21224,15 +21235,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135809,
+      "Progressed": 135814,
       "Completed": 146
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-08T00:02:38.6790178+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:08:36.9000519+00:00",
+  "LastChanged": "2023-09-08T01:46:44.9189561+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:54:56.0327166+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:02:38.6790184+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:08:36.9002985+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:46:44.918957+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:54:56.033152+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -426,9 +426,9 @@
       "ID": "secret17",
       "SetID": "39f6ck8",
       "Name": "Who\u0027s A Good Boy",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "secret18",
@@ -522,9 +522,9 @@
       "ID": "secret28",
       "SetID": "39f6ck8",
       "Name": "Thick Skin",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "secret29",
@@ -658,9 +658,9 @@
       "ID": "secret43",
       "SetID": "39f6ck8",
       "Name": "Quite A Snack",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "secret44",
@@ -770,9 +770,9 @@
       "ID": "secret8",
       "SetID": "39f6ck8",
       "Name": "Destroy Erase Improve",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "secret9",
@@ -795,8 +795,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:07:38.7278301+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:53:29.7313527+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:41.5343749+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:05:54.8786008+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:07:38.7278863+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:51:07.6117404+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:53:29.7314439+00:00"
 }

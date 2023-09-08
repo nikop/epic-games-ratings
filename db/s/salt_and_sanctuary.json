@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2523,9 +2523,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 532568,
+  "EOS_Progressed": 532569,
   "EOS_Completed": 1535,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -17783,6 +17783,11 @@
       "Time": "2023-09-08T00:07:23.0002167+00:00",
       "NumProgressed": 532568,
       "NumCompleted": 1535
+    },
+    {
+      "Time": "2023-09-08T01:53:07.0390768+00:00",
+      "NumProgressed": 532569,
+      "NumCompleted": 1535
     }
   ],
   "TotalAchievements": 37,
@@ -17850,7 +17855,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 442031
+      "UsersEstimate": 442032
     },
     {
       "ID": "HONED",
@@ -17906,7 +17911,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213027
+      "UsersEstimate": 213028
     },
     {
       "ID": "THE_CASTLE",
@@ -17914,7 +17919,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58582
+      "UsersEstimate": 58583
     },
     {
       "ID": "THE_CAVE",
@@ -18034,7 +18039,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42605
+      "UsersEstimate": 42606
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -18089,15 +18094,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 532568,
+      "Progressed": 532569,
       "Completed": 1535
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-06T04:00:28.6278048+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:07:23.0002159+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:53:07.0390763+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:57.7923113+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:04:00.3924002+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:07:23.0003369+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:48:30.8355673+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:53:07.0392027+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56806,
+  "EOS_Progressed": 56809,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8988,6 +8988,11 @@
       "Time": "2023-09-08T00:09:23.705573+00:00",
       "NumProgressed": 56806,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-08T01:56:03.5007195+00:00",
+      "NumProgressed": 56809,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -9063,7 +9068,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3976
+      "UsersEstimate": 3977
     },
     {
       "ID": "FlyingPresent",
@@ -9143,7 +9148,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "HarshLove",
@@ -9335,7 +9340,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "TimelySplash",
@@ -9390,7 +9395,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56806,
+      "Progressed": 56809,
       "Completed": 6
     }
   ],
@@ -9398,8 +9403,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:09:23.7055722+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:56:03.5007187+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:35.840449+00:00",
-  "LastUpdate_Ratings": "2023-09-07T23:58:26.002666+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:09:23.705811+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:41:00.4854971+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:56:03.5008824+00:00"
 }

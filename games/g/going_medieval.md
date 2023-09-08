@@ -12,7 +12,7 @@ Number of Ratings: 706  (23.09.2022)
 | The First Day | 68.00% | ~3,869 |
 | Green Thumb | 66.00% | ~3,755 |
 | Novice Researcher | 66.00% | ~3,755 |
-| Home Cooked Meal | 57.00% | ~3,243 |
+| Home Cooked Meal | 58.00% | ~3,300 |
 | Putting Food on the Table | 56.00% | ~3,186 |
 | Onward | 56.00% | ~3,186 |
 | The First Week | 54.00% | ~3,073 |

@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 431,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17903,
+  "EOS_Progressed": 17904,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9838,6 +9838,11 @@
       "Time": "2023-09-07T22:07:01.5214725+00:00",
       "NumProgressed": 17903,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-08T01:53:05.8508012+00:00",
+      "NumProgressed": 17904,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9937,7 +9942,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "0013",
@@ -9953,7 +9958,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "0015",
@@ -10073,7 +10078,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "0030",
@@ -10136,7 +10141,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17903,
+      "Progressed": 17904,
       "Completed": 1
     }
   ],
@@ -10144,8 +10149,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:07:22.1359331+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:53:05.8508004+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:05:23.0816669+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:07:22.1360063+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:50:23.065599+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:53:05.850948+00:00"
 }

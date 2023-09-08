@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.87 (Ranked 24)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,017 (Ranked 153)  
+Progressed: 4,018 (Ranked 153)  
 Completed: 7 (0.17%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 7 (0.17%) (Ranked 198)
 | 2023-09-05 | 4,012 | 7 |
 | 2023-09-06 | 4,013 | 7 |
 | 2023-09-07 | 4,017 | 7 |
+| 2023-09-08 | 4,018 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

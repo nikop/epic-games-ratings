@@ -56,9 +56,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 615,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -1551,6 +1551,11 @@
       "Time": "2023-09-07T22:11:07.179482+00:00",
       "NumProgressed": 614,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-08T01:57:14.0068006+00:00",
+      "NumProgressed": 615,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1569,17 +1574,17 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 430
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 338
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1595,7 +1600,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1643,7 +1648,7 @@
       "Name": "Seadog",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "_12_Completion_50",
@@ -1683,7 +1688,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1755,7 +1760,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1770,7 +1775,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 615,
       "Completed": 14
     }
   ],
@@ -1778,8 +1783,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-07T13:05:15.5809933+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:11:13.6681077+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:57:14.0067999+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:01:52.2157496+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:11:13.6681382+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:45:51.763705+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:57:14.006845+00:00"
 }

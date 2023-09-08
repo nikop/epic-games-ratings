@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109636,
+  "EOS_Progressed": 109637,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2344,6 +2344,11 @@
       "Time": "2023-09-07T14:08:28.7382049+00:00",
       "NumProgressed": 109636,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T01:51:43.3552861+00:00",
+      "NumProgressed": 109637,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -2547,7 +2552,7 @@
       "Name": "Well Socialised!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 25216
+      "UsersEstimate": 25217
     },
     {
       "ID": "34",
@@ -2626,15 +2631,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109636,
+      "Progressed": 109637,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:06:23.287841+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:51:43.3552856+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:11.8967591+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:02:41.5160957+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:06:23.2887207+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:46:49.8636981+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:51:43.3553302+00:00"
 }

@@ -6010,10 +6010,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11094,
       "NumberOfAwardsMax": 6446
+    },
+    {
+      "Time": "2023-09-08T01:48:31.0660752+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11096,
+      "NumberOfAwardsMax": 6446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11094,
+  "NumberOfAwards": 11096,
   "NumberOfAwardsMax": 6446,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6051,7 +6057,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 582
+      "Count": 584
     },
     {
       "Text": "This game is Relaxing",
@@ -6090,9 +6096,9 @@
       "Count": 376
     }
   ],
-  "EOS_Progressed": 713434,
+  "EOS_Progressed": 713451,
   "EOS_Completed": 12887,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18920,6 +18926,11 @@
       "Time": "2023-09-08T00:06:33.7948043+00:00",
       "NumProgressed": 713434,
       "NumCompleted": 12887
+    },
+    {
+      "Time": "2023-09-08T01:51:58.1749347+00:00",
+      "NumProgressed": 713451,
+      "NumCompleted": 12887
     }
   ],
   "TotalAchievements": 60,
@@ -19337,9 +19348,9 @@
       "ID": "52_Arena_DragonAll",
       "SetID": "14c2oii",
       "Name": "Hidden Dragon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 23
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -19410,21 +19421,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22735,
+      "Progressed": 22752,
       "Completed": 10595
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 713434,
+      "Progressed": 713451,
       "Completed": 12887
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-07T23:04:20.5883703+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:06:33.7948039+00:00",
+  "LastChanged": "2023-09-08T01:48:31.066075+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:51:58.1749337+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:04:00.7610615+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:06:33.7949402+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:48:31.0660758+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:51:58.1751794+00:00"
 }

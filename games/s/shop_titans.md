@@ -20,10 +20,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 1.00% | ~1,358 |
 | Own the Means of Production | 1.00% | ~1,358 |
 | One-Armed Bandit | 0.90% | ~1,222 |
-| The Daily Grind | 0.80% | ~1,086 |
-| Bounty Hunters | 0.80% | ~1,086 |
-| Dungeon Imports | 0.80% | ~1,086 |
-| Through Repetition, Perfection | 0.80% | ~1,086 |
+| The Daily Grind | 0.80% | ~1,087 |
+| Bounty Hunters | 0.80% | ~1,087 |
+| Dungeon Imports | 0.80% | ~1,087 |
+| Through Repetition, Perfection | 0.80% | ~1,087 |
 | Demand for Supplies | 0.70% | ~951 |
 | Flooding the Market | 0.70% | ~951 |
 | Where it Hurts | 0.70% | ~951 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,809 (Ranked 67)  
+Progressed: 135,814 (Ranked 67)  
 Completed: 146 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,17 +260,17 @@ Completed: 146 (0.11%) (Ranked 215)
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
-| 2023-09-08 | 135,809 | 146 |
+| 2023-09-08 | 135,814 | 146 |
 ## Awards
 Max (Great for Beginners): 4,730  (Ranked 70)  
-Sum: 27,187 (Ranked 48)  
+Sum: 27,189 (Ranked 48)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,730 |
 | This game is Relaxing | 4,007 |
 | This game has Quickly Understood Controls | 3,993 |
-| This game has Diverse Characters | 3,868 |
+| This game has Diverse Characters | 3,870 |
 | This game is Highly Recommended | 3,741 |
 | This game has Easy Combat | 3,680 |
 | This game has Playful Visuals | 3,168 |
@@ -502,4 +502,4 @@ Diff (max vs sum): 22
 | 2023-09-05 | 3.99 | - | 4,723 | 27,176 |
 | 2023-09-06 | 3.99 | - | 4,727 | 27,182 |
 | 2023-09-07 | 3.99 | - | 4,727 | 27,184 |
-| 2023-09-08 | 3.99 | - | 4,730 | 27,187 |
+| 2023-09-08 | 3.99 | - | 4,730 | 27,189 |

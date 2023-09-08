@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 3204,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 3205,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
     "PcReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19539,
+  "EOS_Progressed": 19538,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": -22,
+  "EOS_NewPlayers": -23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -5617,6 +5617,11 @@
       "Time": "2023-09-08T00:06:53.1692577+00:00",
       "NumProgressed": 19539,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-09-08T01:52:24.9798928+00:00",
+      "NumProgressed": 19538,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -5724,7 +5729,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 17585
+      "UsersEstimate": 17584
     },
     {
       "ID": "ach.140.legacy",
@@ -5732,7 +5737,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19148
+      "UsersEstimate": 19147
     },
     {
       "ID": "ach.150.pocket",
@@ -5764,7 +5769,7 @@
       "Name": "Inspector",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 11528
+      "UsersEstimate": 11527
     },
     {
       "ID": "ach.190.scenic",
@@ -5820,7 +5825,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 18171
+      "UsersEstimate": 18170
     },
     {
       "ID": "ach.260.investor",
@@ -5876,7 +5881,7 @@
       "Name": "Industrialist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4885
+      "UsersEstimate": 4884
     },
     {
       "ID": "ach.330.water",
@@ -5892,7 +5897,7 @@
       "Name": "Man of Steel",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3321
     },
     {
       "ID": "ach.350.pipes",
@@ -5923,7 +5928,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19539,
+      "Progressed": 19538,
       "Completed": 37
     }
   ],
@@ -5931,8 +5936,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-09-06T12:01:41.553383+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:06:53.1692571+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:52:24.979892+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:16.7999726+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:04:49.6749663+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:06:53.169318+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:49:38.9948578+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:52:24.9799988+00:00"
 }

@@ -4296,9 +4296,9 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 675367,
+  "EOS_Progressed": 675402,
   "EOS_Completed": 2119,
-  "EOS_NewPlayers": 4952,
+  "EOS_NewPlayers": 4949,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -19996,6 +19996,11 @@
       "Time": "2023-09-08T00:09:29.5069085+00:00",
       "NumProgressed": 675367,
       "NumCompleted": 2119
+    },
+    {
+      "Time": "2023-09-08T01:56:11.9571311+00:00",
+      "NumProgressed": 675402,
+      "NumCompleted": 2119
     }
   ],
   "TotalAchievements": 45,
@@ -20063,7 +20068,7 @@
       "Name": "Bookworm",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6079
     },
     {
       "ID": "ach_break_a_leg",
@@ -20093,9 +20098,9 @@
       "ID": "ach_doctor_i_am_butcho",
       "SetID": "7km39fm",
       "Name": "But Doctor, I am Butcho",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6754
     },
     {
       "ID": "ach_doom_buddies",
@@ -20119,7 +20124,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6079
     },
     {
       "ID": "ach_finisher",
@@ -20135,7 +20140,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6079
     },
     {
       "ID": "ach_good_eyesight",
@@ -20199,7 +20204,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ach_knock_down",
@@ -20215,7 +20220,7 @@
       "Name": "Zombologist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6079
     },
     {
       "ID": "ach_legendary",
@@ -20239,7 +20244,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6079
     },
     {
       "ID": "ach_mind_over_monster",
@@ -20311,7 +20316,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ach_thesacrifice",
@@ -20325,9 +20330,9 @@
       "ID": "ach_this_is_my_weapon",
       "SetID": "7km39fm",
       "Name": "This is My Weapon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6754
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -20351,7 +20356,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "ach_well_trained",
@@ -20366,22 +20371,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 675367,
+      "Progressed": 675402,
       "Completed": 2119
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 907,
-      "Completed": 907
+      "Progressed": 942,
+      "Completed": 942
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-07T22:02:25.7504952+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:09:29.5069081+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:56:11.9571302+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:02:26.2044614+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:09:29.5070462+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:46:30.3981299+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:56:11.9573603+00:00"
 }

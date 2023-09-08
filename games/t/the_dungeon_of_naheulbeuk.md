@@ -1,14 +1,14 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 431)  
+Rating: 4.58 (Ranked 430)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~62,168 |
-| Where's that freaking Dwarf? | 4.00% | ~8,881 |
-| Alt+F4 | 4.00% | ~8,881 |
+| Sowwy! | 28.00% | ~62,174 |
+| Where's that freaking Dwarf? | 4.00% | ~8,882 |
+| Alt+F4 | 4.00% | ~8,882 |
 | Déjà vu | 3.00% | ~6,661 |
 | Sock! SOCK! | 3.00% | ~6,661 |
 | A beer, two curses, three companions | 2.00% | ~4,441 |
@@ -44,11 +44,11 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 0.60% | ~1,332 |
 | Material Girl | 0.60% | ~1,332 |
 | Gargantua | 0.50% | ~1,110 |
+| We come in peace | 0.40% | ~888 |
 | In Navalu's footsteps | 0.40% | ~888 |
 | Lëgal Legend | 0.40% | ~888 |
 | Holistic Adventuring Party | 0.30% | ~666 |
 | An old poacher makes the best gamekeeper | 0.30% | ~666 |
-| We come in peace | 0.30% | ~666 |
 | Law and Order | 0.30% | ~666 |
 | Scholar of the Lands of Fangh | 0.20% | ~444 |
 | Friendly fire | 0.20% | ~444 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,030 (Ranked 57)  
+Progressed: 222,049 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-05 | 221,553 | 2 |
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
-| 2023-09-08 | 222,030 | 2 |
+| 2023-09-08 | 222,049 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

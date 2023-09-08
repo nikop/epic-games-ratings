@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1260,
+  "EOS_Progressed": 1262,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4481,6 +4481,11 @@
       "Time": "2023-09-07T20:11:16.1514729+00:00",
       "NumProgressed": 1260,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-08T01:57:00.4698608+00:00",
+      "NumProgressed": 1262,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4498,9 +4503,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 76
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4668,15 +4673,15 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 139
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4684,7 +4689,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -4700,7 +4705,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -4716,7 +4721,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -4795,14 +4800,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1260,
+      "Progressed": 1262,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:10:33.847119+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:57:00.4698602+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-07T23:58:09.3268676+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:10:33.8471766+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:40:41.8765131+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:57:00.4699186+00:00"
 }

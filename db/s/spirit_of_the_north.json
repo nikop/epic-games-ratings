@@ -324,7 +324,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 68225,
+  "EOS_Progressed": 68229,
   "EOS_Completed": 355,
   "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 5,
@@ -15634,6 +15634,11 @@
       "Time": "2023-09-08T00:07:02.1065338+00:00",
       "NumProgressed": 68225,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2023-09-08T01:52:37.4300915+00:00",
+      "NumProgressed": 68229,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 24,
@@ -15661,7 +15666,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 46393
+      "UsersEstimate": 46396
     },
     {
       "ID": "BEST_FRIENDS",
@@ -15677,7 +15682,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17738
+      "UsersEstimate": 17740
     },
     {
       "ID": "ERADICATE",
@@ -15685,7 +15690,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14327
+      "UsersEstimate": 14328
     },
     {
       "ID": "FETCH",
@@ -15693,7 +15698,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 18421
+      "UsersEstimate": 18422
     },
     {
       "ID": "FOXIN_AROUND",
@@ -15701,7 +15706,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19785
+      "UsersEstimate": 19786
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -15717,7 +15722,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 12280
+      "UsersEstimate": 12281
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -15725,7 +15730,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36159
+      "UsersEstimate": 36161
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -15749,7 +15754,7 @@
       "Name": "NONE FORGOTTEN",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "NORTHERN_LIGHTS",
@@ -15765,7 +15770,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6140
+      "UsersEstimate": 6141
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -15789,7 +15794,7 @@
       "Name": "SPIRIT BARK",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 14327
+      "UsersEstimate": 14328
     },
     {
       "ID": "SPIRIT_DASH",
@@ -15805,7 +15810,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 10916
+      "UsersEstimate": 10917
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -15836,7 +15841,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 68225,
+      "Progressed": 68229,
       "Completed": 355
     }
   ],
@@ -15844,8 +15849,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-08T00:07:02.106533+00:00",
+  "LastChanged_Achievements": "2023-09-08T01:52:37.4300906+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:13.6353756+00:00",
-  "LastUpdate_Ratings": "2023-09-08T00:04:40.2537241+00:00",
-  "LastUpdate_Achievements": "2023-09-08T00:07:02.1066413+00:00"
+  "LastUpdate_Ratings": "2023-09-08T01:49:29.3620667+00:00",
+  "LastUpdate_Achievements": "2023-09-08T01:52:37.430279+00:00"
 }
