@@ -33,7 +33,6 @@
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | - |  | - | - |
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-09-30 | - |  | - | - |
-| [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-30 | - |  | - | - |
 | [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | 2023-09-30 | - |  | - | - |
 | [Cats Hidden in Italy](games/c/cats_hidden_in_italy.md) | 2023-09-30 | - |  | - | - |
 | [CoopValor WW2 Battle of the Bulge](games/a/a607d7b55d8a4a3ab898c28a16897c5e.md) | 2023-09-30 | - |  | - | - |
@@ -211,7 +210,7 @@
 | [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 2,370 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 2,378 | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Xenion](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-06-30 | - |  | - | - |

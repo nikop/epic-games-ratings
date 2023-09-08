@@ -15,7 +15,7 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 16 | [Island Cities](games/i/island_cities.md) | 16.82% |
+| 16 | [Island Cities](games/i/island_cities.md) | 16.79% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.50% |
@@ -47,12 +47,12 @@
 | 45 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 46 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 47 | [JARS](games/j/jars.md) | 5.80% |
-| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.56% |
+| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.49% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.38% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
-| 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.00% |
+| 53 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.92% |
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
@@ -101,8 +101,8 @@
 | 99 | [Sifu](games/s/sifu.md) | 1.81% |
 | 100 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Somerville](games/s/somerville.md) | 1.65% |
-| 102 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.61% |
 | 102 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.61% |
+| 103 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.59% |
 | 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
@@ -122,9 +122,9 @@
 | 120 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.02% |
 | 121 | [Sable](games/s/sable.md) | 1.00% |
 | 121 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.00% |
-| 123 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.99% |
 | 123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
-| 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.98% |
+| 124 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.98% |
+| 124 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.98% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
 | 128 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
@@ -133,8 +133,8 @@
 | 131 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 132 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 133 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
-| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.70% |
-| 135 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.69% |
+| 134 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.69% |
+| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.69% |
 | 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 137 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
