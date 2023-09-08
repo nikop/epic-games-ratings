@@ -6,41 +6,41 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~108,920 |
+| A Place to Lay Your Head | 93.00% | ~108,921 |
 | Don't Make Me Turn This Coach Around | 70.00% | ~81,983 |
-| A Clear Conscience | 69.00% | ~80,811 |
-| Unleash Hell | 68.00% | ~79,640 |
-| Unfulfilled Desires | 68.00% | ~79,640 |
-| Funny Guy | 67.00% | ~78,469 |
-| Unshackled | 67.00% | ~78,469 |
-| Long Live the King | 66.00% | ~77,298 |
-| Resurrection | 62.00% | ~72,613 |
-| Wyrdly Reconstructed | 62.00% | ~72,613 |
+| A Clear Conscience | 69.00% | ~80,812 |
+| Unleash Hell | 68.00% | ~79,641 |
+| Unfulfilled Desires | 68.00% | ~79,641 |
+| Funny Guy | 67.00% | ~78,470 |
+| Unshackled | 67.00% | ~78,470 |
+| Long Live the King | 66.00% | ~77,299 |
+| Resurrection | 62.00% | ~72,614 |
+| Wyrdly Reconstructed | 62.00% | ~72,614 |
 | Boxcar Kid | 60.00% | ~70,271 |
 | Rush Hour | 60.00% | ~70,271 |
 | To Grandmother's House | 60.00% | ~70,271 |
 | Serenity Now! | 53.00% | ~62,073 |
-| Hope Rekindled | 50.00% | ~58,559 |
+| Hope Rekindled | 50.00% | ~58,560 |
 | Ramble On | 49.00% | ~57,388 |
 | Nope | 48.00% | ~56,217 |
 | This Looks Familiar | 38.00% | ~44,505 |
 | Now Stay Dead | 37.00% | ~43,334 |
-| Harvest Festival | 36.00% | ~42,162 |
-| Hot Air | 36.00% | ~42,162 |
-| Merry Time | 35.00% | ~40,991 |
+| Harvest Festival | 36.00% | ~42,163 |
+| Hot Air | 36.00% | ~42,163 |
+| Merry Time | 35.00% | ~40,992 |
 | Creep and Sleep | 33.00% | ~38,649 |
 | Overdue Notice | 32.00% | ~37,478 |
 | Whale | 31.00% | ~36,307 |
-| Banishment | 30.00% | ~35,135 |
-| FNG | 29.00% | ~33,964 |
+| Banishment | 30.00% | ~35,136 |
+| FNG | 29.00% | ~33,965 |
 | Reverse Banditry | 25.00% | ~29,280 |
-| Predator | 24.00% | ~28,108 |
-| Autodidact | 24.00% | ~28,108 |
+| Predator | 24.00% | ~28,109 |
+| Autodidact | 24.00% | ~28,109 |
 | Meat and Greet | 22.00% | ~25,766 |
 | Spelunker | 21.00% | ~24,595 |
 | Eyes Up | 21.00% | ~24,595 |
 | Road Trip | 21.00% | ~24,595 |
-| It Rings a Bell | 19.00% | ~22,252 |
+| It Rings a Bell | 19.00% | ~22,253 |
 | Escape from the Black Hole | 18.00% | ~21,081 |
 | It Happens | 17.00% | ~19,910 |
 | This Belongs in a Museum | 16.00% | ~18,739 |
@@ -52,7 +52,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 11.00% | ~12,883 |
 | When You Want Something Done Right | 11.00% | ~12,883 |
 | Body of Work | 9.00% | ~10,541 |
-| Utopia | 8.00% | ~9,369 |
+| Utopia | 8.00% | ~9,370 |
 | Hat Trick | 7.00% | ~8,198 |
 | No More Mouths to Feed | 6.00% | ~7,027 |
 | Ichthyophobic | 5.00% | ~5,856 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,118 (Ranked 72)  
+Progressed: 117,119 (Ranked 72)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-09-05 | 116,958 | 1 |
 | 2023-09-06 | 117,027 | 1 |
 | 2023-09-07 | 117,092 | 1 |
-| 2023-09-08 | 117,118 | 1 |
+| 2023-09-08 | 117,119 | 1 |
 ## Awards
 Max (Character Customization): 7,375  (Ranked 48)  
 Sum: 19,219 (Ranked 56)  

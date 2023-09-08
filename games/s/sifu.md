@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.10% | ~23 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,520 (Ranked 20)  
+Progressed: 713,529 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
 | 2023-09-07 | 713,425 | 12,887 |
-| 2023-09-08 | 713,520 | 12,887 |
+| 2023-09-08 | 713,529 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,446  (Ranked 53)  
 Sum: 11,097 (Ranked 80)  

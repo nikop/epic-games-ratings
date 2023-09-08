@@ -6,20 +6,20 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~935,824 |
-| I Need a Bigger Garage | 63.00% | ~655,077 |
-| Pump my Ride | 47.00% | ~488,708 |
-| Ghostbuster | 33.00% | ~343,136 |
-| That Was Close | 18.00% | ~187,165 |
-| Call Roadside Assistance | 17.00% | ~176,767 |
-| Quickie | 11.00% | ~114,379 |
-| California Dreamer | 7.00% | ~72,786 |
-| Can't Touch This | 5.00% | ~51,990 |
-| Carménère Taster | 3.00% | ~31,194 |
-| Supersonic | 3.00% | ~31,194 |
-| Comeback | 3.00% | ~31,194 |
-| Marathonist | 3.00% | ~31,194 |
-| Living Legend | 3.00% | ~31,194 |
+| The First of Many | 90.00% | ~935,836 |
+| I Need a Bigger Garage | 63.00% | ~655,085 |
+| Pump my Ride | 47.00% | ~488,714 |
+| Ghostbuster | 33.00% | ~343,140 |
+| That Was Close | 18.00% | ~187,167 |
+| Call Roadside Assistance | 17.00% | ~176,769 |
+| Quickie | 11.00% | ~114,380 |
+| California Dreamer | 7.00% | ~72,787 |
+| Can't Touch This | 5.00% | ~51,991 |
+| Carménère Taster | 3.00% | ~31,195 |
+| Supersonic | 3.00% | ~31,195 |
+| Comeback | 3.00% | ~31,195 |
+| Marathonist | 3.00% | ~31,195 |
+| Living Legend | 3.00% | ~31,195 |
 | Driver from Ipanema | 2.00% | ~20,796 |
 | God of Roads | 2.00% | ~20,796 |
 | Pathfinder | 2.00% | ~20,796 |
@@ -34,8 +34,8 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~10,398 |
 | Crocodile Hunter | 0.90% | ~9,358 |
 | Old Master | 0.90% | ~9,358 |
-| Volcano Surfer | 0.80% | ~8,318 |
-| Otaku | 0.80% | ~8,318 |
+| Volcano Surfer | 0.80% | ~8,319 |
+| Otaku | 0.80% | ~8,319 |
 | Survivor | 0.60% | ~6,239 |
 | King of the World | 0.60% | ~6,239 |
 | Getting Famous | 0.50% | ~5,199 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,040 |
 | Look Mom, No Hands! | 0.10% | ~1,040 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,039,805 (Ranked 12)  
+Progressed: 1,039,818 (Ranked 12)  
 Completed: 417 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 417 (0.04%) (Ranked 239)
 | 2023-09-05 | 1,038,825 | 416 |
 | 2023-09-06 | 1,039,195 | 416 |
 | 2023-09-07 | 1,039,642 | 417 |
-| 2023-09-08 | 1,039,805 | 417 |
+| 2023-09-08 | 1,039,818 | 417 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 298)  
 Sum: 1,268 (Ranked 229)  

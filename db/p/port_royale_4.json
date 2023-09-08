@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -2077,9 +2077,9 @@
       "ID": "ACH016",
       "SetID": "69nfp41",
       "Name": "Administrator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH017",
@@ -2357,8 +2357,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-08T09:07:34.440661+00:00",
+  "LastChanged_Achievements": "2023-09-08T10:07:14.8644871+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:59.3999103+00:00",
-  "LastUpdate_Ratings": "2023-09-08T08:59:52.2970881+00:00",
-  "LastUpdate_Achievements": "2023-09-08T09:07:34.4407146+00:00"
+  "LastUpdate_Ratings": "2023-09-08T09:59:55.1785154+00:00",
+  "LastUpdate_Achievements": "2023-09-08T10:07:14.8645398+00:00"
 }

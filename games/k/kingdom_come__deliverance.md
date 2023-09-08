@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,111 |
-| Cavalier | 25.00% | ~200,087 |
-| Fatso | 23.00% | ~184,080 |
-| Awakening | 21.00% | ~168,073 |
-| Ranger | 20.00% | ~160,070 |
-| Scrooge | 20.00% | ~160,070 |
-| Anorectic | 16.00% | ~128,056 |
-| Bookworm | 15.00% | ~120,052 |
-| Firestarter | 15.00% | ~120,052 |
-| Insomniac | 13.00% | ~104,045 |
-| Buddy | 12.00% | ~96,042 |
-| Thief | 12.00% | ~96,042 |
-| Sinner | 11.00% | ~88,038 |
-| Traveller | 11.00% | ~88,038 |
-| Convict | 10.00% | ~80,035 |
-| Haggler | 9.00% | ~72,031 |
-| McLovin | 7.00% | ~56,024 |
-| Runt | 7.00% | ~56,024 |
+| Blacksmith's Son | 32.00% | ~256,114 |
+| Cavalier | 25.00% | ~200,089 |
+| Fatso | 23.00% | ~184,082 |
+| Awakening | 21.00% | ~168,075 |
+| Ranger | 20.00% | ~160,071 |
+| Scrooge | 20.00% | ~160,071 |
+| Anorectic | 16.00% | ~128,057 |
+| Bookworm | 15.00% | ~120,054 |
+| Firestarter | 15.00% | ~120,054 |
+| Insomniac | 13.00% | ~104,046 |
+| Buddy | 12.00% | ~96,043 |
+| Thief | 12.00% | ~96,043 |
+| Sinner | 11.00% | ~88,039 |
+| Traveller | 11.00% | ~88,039 |
+| Convict | 10.00% | ~80,036 |
+| Haggler | 9.00% | ~72,032 |
+| McLovin | 7.00% | ~56,025 |
+| Runt | 7.00% | ~56,025 |
 | Casanova | 6.00% | ~48,021 |
-| Bad Trip | 5.00% | ~40,017 |
-| Monk | 5.00% | ~40,017 |
-| Serial Killer | 5.00% | ~40,017 |
+| Bad Trip | 5.00% | ~40,018 |
+| Monk | 5.00% | ~40,018 |
+| Serial Killer | 5.00% | ~40,018 |
 | Bastard | 4.00% | ~32,014 |
 | Hunter | 4.00% | ~32,014 |
 | Plague Doctor | 4.00% | ~32,014 |
-| Bard | 3.00% | ~24,010 |
-| Conqueror | 3.00% | ~24,010 |
-| Ginger in a Pickle | 3.00% | ~24,010 |
-| Kingdom did not come | 3.00% | ~24,010 |
+| Bard | 3.00% | ~24,011 |
+| Conqueror | 3.00% | ~24,011 |
+| Ginger in a Pickle | 3.00% | ~24,011 |
+| Kingdom did not come | 3.00% | ~24,011 |
 | Completionist | 2.00% | ~16,007 |
 | Death by splinter | 2.00% | ~16,007 |
 | King Charming | 2.00% | ~16,007 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,007 |
 | Talmberger | 2.00% | ~16,007 |
 | The End | 2.00% | ~16,007 |
-| Woman's Lot | 1.00% | ~8,003 |
-| Chivalrous Soul | 1.00% | ~8,003 |
-| Spoilsport | 1.00% | ~8,003 |
-| Freud | 1.00% | ~8,003 |
-| Gambler | 1.00% | ~8,003 |
-| Master Huntsman | 1.00% | ~8,003 |
-| Stealth Killer | 1.00% | ~8,003 |
+| Woman's Lot | 1.00% | ~8,004 |
+| Chivalrous Soul | 1.00% | ~8,004 |
+| Spoilsport | 1.00% | ~8,004 |
+| Freud | 1.00% | ~8,004 |
+| Gambler | 1.00% | ~8,004 |
+| Master Huntsman | 1.00% | ~8,004 |
+| Stealth Killer | 1.00% | ~8,004 |
 | Bailiff | 0.90% | ~7,203 |
 | Tracker | 0.90% | ~7,203 |
 | David Horak | 0.70% | ~5,602 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~800 |
 | Wingman | 0.10% | ~800 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800,348 (Ranked 16)  
+Progressed: 800,357 (Ranked 16)  
 Completed: 44 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,10 +230,10 @@ Completed: 44 (0.01%) (Ranked 256)
 | 2023-09-05 | 800,008 | 44 |
 | 2023-09-06 | 800,153 | 44 |
 | 2023-09-07 | 800,315 | 44 |
-| 2023-09-08 | 800,348 | 44 |
+| 2023-09-08 | 800,357 | 44 |
 ## Awards
 Max (Character Customization): 7,432  (Ranked 47)  
-Sum: 27,677 (Ranked 46)  
+Sum: 27,679 (Ranked 46)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): 1
 | This game is Extremely Fun | 1,662 |
 | This game is Highly Recommended | 1,656 |
 | This game has Amazing Characters | 1,636 |
-| This game has Realistic Visuals | 1,627 |
+| This game has Realistic Visuals | 1,629 |
 | This game is Educational | 1,578 |
 | This game is Relaxing | 1,511 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -477,4 +477,4 @@ Diff (max vs sum): 1
 | 2023-09-05 | 4.71 | - | 7,424 | 27,654 |
 | 2023-09-06 | 4.71 | - | 7,427 | 27,662 |
 | 2023-09-07 | 4.71 | - | 7,427 | 27,669 |
-| 2023-09-08 | 4.71 | - | 7,432 | 27,677 |
+| 2023-09-08 | 4.71 | - | 7,432 | 27,679 |

@@ -4,7 +4,7 @@
   "ProductSlug": "puzzle-compound-fe9903",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-25T13:00:00+00:00",
@@ -219,9 +219,9 @@
       "ID": "ACH_HEIST_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Bank Heist Complete",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 80,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_HEIST_FAST_COMPLETED",
@@ -290,8 +290,8 @@
   ],
   "FirstSeen": "2023-06-09T19:57:14.7958612+00:00",
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-09-08T09:07:22.7918058+00:00",
+  "LastChanged_Achievements": "2023-09-08T10:07:03.0043238+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.7924747+00:00",
-  "LastUpdate_Ratings": "2023-09-08T08:58:12.5109723+00:00",
-  "LastUpdate_Achievements": "2023-09-08T09:07:22.7918172+00:00"
+  "LastUpdate_Ratings": "2023-09-08T09:58:15.3175099+00:00",
+  "LastUpdate_Achievements": "2023-09-08T10:07:03.0043342+00:00"
 }

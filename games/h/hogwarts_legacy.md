@@ -6,22 +6,22 @@ Rating: 4.77 (Ranked 110)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,418 |
-| First Class Student | 13.00% | ~38,459 |
-| Troll with the Punches | 12.00% | ~35,501 |
-| A Keen Sense of Spell | 11.00% | ~32,542 |
-| That's a Keeper | 11.00% | ~32,542 |
-| Grappling with a Graphorn | 10.00% | ~29,584 |
-| The One Who Mastered Memories | 10.00% | ~29,584 |
-| The Hallowed Hero | 10.00% | ~29,584 |
-| The Defender of Dragons | 10.00% | ~29,584 |
-| Loom for Improvement | 10.00% | ~29,584 |
-| A Talent for Spending | 10.00% | ~29,584 |
-| Coasting Along | 10.00% | ~29,584 |
+| First Class Student | 13.00% | ~38,460 |
+| Troll with the Punches | 12.00% | ~35,502 |
+| A Keen Sense of Spell | 11.00% | ~32,543 |
+| That's a Keeper | 11.00% | ~32,543 |
+| Grappling with a Graphorn | 10.00% | ~29,585 |
+| The One Who Mastered Memories | 10.00% | ~29,585 |
+| The Hallowed Hero | 10.00% | ~29,585 |
+| The Defender of Dragons | 10.00% | ~29,585 |
+| Loom for Improvement | 10.00% | ~29,585 |
+| A Talent for Spending | 10.00% | ~29,585 |
+| Coasting Along | 10.00% | ~29,585 |
 | The Hero of Hogwarts | 9.00% | ~26,626 |
 | Challenge Accepted | 9.00% | ~26,626 |
 | Followed the Butterflies | 9.00% | ~26,626 |
-| The Spell Master | 8.00% | ~23,667 |
-| Rising From the Ashes | 8.00% | ~23,667 |
+| The Spell Master | 8.00% | ~23,668 |
+| Rising From the Ashes | 8.00% | ~23,668 |
 | The Avenging Gazelle | 7.00% | ~20,709 |
 | Beast Friends | 7.00% | ~20,709 |
 | A Sallow Grave | 7.00% | ~20,709 |
@@ -51,8 +51,8 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,775 |
 | Collector's Edition | 0.30% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,840 (Ranked 43)  
-Completed: 468 (0.16%) (Ranked 200)  
+Progressed: 295,846 (Ranked 43)  
+Completed: 468 (0.16%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,10 +192,10 @@ Completed: 468 (0.16%) (Ranked 200)
 | 2023-09-05 | 294,883 | 464 |
 | 2023-09-06 | 295,304 | 465 |
 | 2023-09-07 | 295,758 | 468 |
-| 2023-09-08 | 295,840 | 468 |
+| 2023-09-08 | 295,846 | 468 |
 ## Awards
 Max (Character Customization): 22,320  (Ranked 17)  
-Sum: 42,478 (Ranked 30)  
+Sum: 42,482 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -208,7 +208,7 @@ Diff (max vs sum): -13
 | This game has Amazing Storytelling | 991 |
 | This game has Amazing Characters | 963 |
 | This game is Highly Recommended | 951 |
-| This game has Quickly Understood Controls | 887 |
+| This game has Quickly Understood Controls | 891 |
 | This game has Beautiful Visuals | 833 |
 | This game has a Creative Community | 622 |
 ## Ratings History
@@ -382,4 +382,4 @@ Diff (max vs sum): -13
 | 2023-09-05 | 4.77 | 22,241 | 42,294 |
 | 2023-09-06 | 4.77 | 22,280 | 42,371 |
 | 2023-09-07 | 4.77 | 22,320 | 42,462 |
-| 2023-09-08 | 4.77 | 22,320 | 42,478 |
+| 2023-09-08 | 4.77 | 22,320 | 42,482 |

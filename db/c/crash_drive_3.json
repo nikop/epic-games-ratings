@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 378,
+  "EOS_Progressed": 379,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -451,6 +451,11 @@
       "Time": "2023-09-08T06:05:23.4255777+00:00",
       "NumProgressed": 378,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T10:04:35.8033146+00:00",
+      "NumProgressed": 379,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -486,7 +491,7 @@
       "Name": "Car-Tapult",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "COIN_COLLECT",
@@ -502,7 +507,7 @@
       "Name": "Baby\u0027s First Car",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -590,7 +595,7 @@
       "Name": "Disoriented",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -612,9 +617,9 @@
       "ID": "FULLY_LEVEL_CAR",
       "SetID": "20koof9",
       "Name": "Amateur Mechanic",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 106
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -662,7 +667,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -678,7 +683,7 @@
       "Name": "Space Crash",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "HONK_100_TIMES",
@@ -766,7 +771,7 @@
       "Name": "To war!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SPIN_1080",
@@ -854,7 +859,7 @@
       "Name": "Beach Party!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "WIN_KING_HILL",
@@ -901,7 +906,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 378,
+      "Progressed": 379,
       "Completed": 2
     }
   ],
@@ -909,8 +914,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-08T09:04:39.1656874+00:00",
+  "LastChanged_Achievements": "2023-09-08T10:04:35.8033141+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:27.9557907+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:00:15.8865646+00:00",
-  "LastUpdate_Achievements": "2023-09-08T09:04:39.1657409+00:00"
+  "LastUpdate_Ratings": "2023-09-08T10:00:19.7964015+00:00",
+  "LastUpdate_Achievements": "2023-09-08T10:04:35.8033663+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7448,
+  "EOS_Progressed": 7450,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6814,6 +6814,11 @@
       "Time": "2023-09-08T01:54:17.4411699+00:00",
       "NumProgressed": 7448,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-09-08T10:05:17.010889+00:00",
+      "NumProgressed": 7450,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6841,7 +6846,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -6849,7 +6854,7 @@
       "Name": "Body and Soul",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -6881,7 +6886,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "FASHION_VICTIM",
@@ -6889,7 +6894,7 @@
       "Name": "Fashion Victim",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -6897,7 +6902,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -6992,7 +6997,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7448,
+      "Progressed": 7450,
       "Completed": 32
     }
   ],
@@ -7000,8 +7005,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-08T09:05:00.3668567+00:00",
+  "LastChanged_Achievements": "2023-09-08T10:05:17.0108885+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:14.1887687+00:00",
-  "LastUpdate_Ratings": "2023-09-08T08:59:02.0942902+00:00",
-  "LastUpdate_Achievements": "2023-09-08T09:05:00.3669099+00:00"
+  "LastUpdate_Ratings": "2023-09-08T09:59:11.636017+00:00",
+  "LastUpdate_Achievements": "2023-09-08T10:05:17.0109454+00:00"
 }

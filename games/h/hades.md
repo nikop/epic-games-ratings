@@ -6,13 +6,13 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~625,669 |
-| Escaped Asphodel | 80.00% | ~562,399 |
-| Arms Collector | 71.00% | ~499,129 |
-| Friends in High Places | 68.00% | ~478,039 |
-| Escaped Elysium | 66.00% | ~463,979 |
-| Chthonic Colleagues | 63.00% | ~442,889 |
-| Is There No Escape? | 52.00% | ~365,559 |
+| Escaped Tartarus | 89.00% | ~625,670 |
+| Escaped Asphodel | 80.00% | ~562,400 |
+| Arms Collector | 71.00% | ~499,130 |
+| Friends in High Places | 68.00% | ~478,040 |
+| Escaped Elysium | 66.00% | ~463,980 |
+| Chthonic Colleagues | 63.00% | ~442,890 |
+| Is There No Escape? | 52.00% | ~365,560 |
 | Death Dealer | 45.00% | ~316,350 |
 | Skelly Slayer | 42.00% | ~295,260 |
 | Well Stocked | 40.00% | ~281,200 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,120 |
 | Friends Forever | 4.00% | ~28,120 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,999 (Ranked 21)  
+Progressed: 703,000 (Ranked 21)  
 Completed: 6,342 (0.90%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,10 +197,10 @@ Completed: 6,342 (0.90%) (Ranked 127)
 | 2023-09-05 | 702,848 | 6,339 |
 | 2023-09-06 | 702,899 | 6,339 |
 | 2023-09-07 | 702,977 | 6,342 |
-| 2023-09-08 | 702,999 | 6,342 |
+| 2023-09-08 | 703,000 | 6,342 |
 ## Awards
 Max (Character Customization): 3,251  (Ranked 93)  
-Sum: 7,862 (Ranked 101)  
+Sum: 7,863 (Ranked 101)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -208,7 +208,7 @@ Diff (max vs sum): -8
 | This game has Great Boss Battles | 2,271 |
 | This game is Highly Recommended | 261 |
 | This game is Great for Beginners | 252 |
-| This game has Amazing Storytelling | 242 |
+| This game has Amazing Storytelling | 243 |
 | This game is Extremely Fun | 241 |
 | This game has Amazing Characters | 239 |
 | This game has Diverse Characters | 238 |
@@ -433,3 +433,4 @@ Diff (max vs sum): -8
 | 2023-09-04 | 4.92 | - | 3,247 | 7,856 |
 | 2023-09-05 | 4.92 | - | 3,250 | 7,860 |
 | 2023-09-07 | 4.92 | - | 3,251 | 7,862 |
+| 2023-09-08 | 4.92 | - | 3,251 | 7,863 |

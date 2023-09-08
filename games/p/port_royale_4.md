@@ -48,8 +48,8 @@ Number of Ratings: 53  (23.09.2022)
 | Master & Commander | 2.00% | ~17 |
 | Gold fever | 2.00% | ~17 |
 | Fill it up, please! | 2.00% | ~17 |
+| Administrator | 1.00% | ~9 |
 | All aboard! | 1.00% | ~9 |
-| Administrator | 0.90% | ~8 |
 | Raiders of the Lost Ark | 0.90% | ~8 |
 | Capitalist | 0.80% | ~7 |
 | Traffic chaos | 0.80% | ~7 |
