@@ -4,8 +4,8 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
     "PcReleaseDate": "2015-07-01T22:00:00+00:00",
@@ -188,9 +188,9 @@
       "ID": "aq_achievement_16",
       "SetID": "7jh86ne",
       "Name": "Shattered",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "aq_achievement_17",
@@ -204,9 +204,9 @@
       "ID": "aq_achievement_18",
       "SetID": "7jh86ne",
       "Name": "You\u0027ve got mail!",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "aq_achievement_19",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-08T20:03:25.1683298+00:00",
+  "LastChanged_Achievements": "2023-09-08T21:03:38.8331632+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:05.8185608+00:00",
-  "LastUpdate_Ratings": "2023-09-08T20:01:34.7279553+00:00",
-  "LastUpdate_Achievements": "2023-09-08T20:03:25.1683566+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:02:07.313296+00:00",
+  "LastUpdate_Achievements": "2023-09-08T21:03:38.8331978+00:00"
 }

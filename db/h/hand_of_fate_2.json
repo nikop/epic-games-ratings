@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661924,
+  "EOS_Progressed": 661925,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14275,6 +14275,11 @@
       "Time": "2023-09-08T20:05:28.0546669+00:00",
       "NumProgressed": 661924,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-08T21:05:49.6267489+00:00",
+      "NumProgressed": 661925,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14286,7 +14291,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476585
+      "UsersEstimate": 476586
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14310,7 +14315,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39715
+      "UsersEstimate": 39716
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -14430,7 +14435,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92669
+      "UsersEstimate": 92670
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -14446,7 +14451,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39715
+      "UsersEstimate": 39716
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -14669,15 +14674,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661924,
+      "Progressed": 661925,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-08T20:05:28.0546666+00:00",
+  "LastChanged_Achievements": "2023-09-08T21:05:49.6267483+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-08T19:59:32.8793691+00:00",
-  "LastUpdate_Achievements": "2023-09-08T20:05:28.0547603+00:00"
+  "LastUpdate_Ratings": "2023-09-08T20:59:55.6736443+00:00",
+  "LastUpdate_Achievements": "2023-09-08T21:05:49.6269264+00:00"
 }

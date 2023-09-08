@@ -20,10 +20,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 1.00% | ~1,359 |
 | Own the Means of Production | 1.00% | ~1,359 |
 | One-Armed Bandit | 0.90% | ~1,223 |
+| Through Repetition, Perfection | 0.90% | ~1,223 |
 | The Daily Grind | 0.80% | ~1,087 |
 | Bounty Hunters | 0.80% | ~1,087 |
 | Dungeon Imports | 0.80% | ~1,087 |
-| Through Repetition, Perfection | 0.80% | ~1,087 |
 | Demand for Supplies | 0.70% | ~951 |
 | Flooding the Market | 0.70% | ~951 |
 | Where it Hurts | 0.70% | ~951 |
@@ -34,6 +34,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Blank Page Syndrome | 0.60% | ~815 |
 | Efficient Floor Space | 0.60% | ~815 |
 | Gem Expert | 0.60% | ~815 |
+| Helping Hand | 0.60% | ~815 |
 | Accomplished Merchant | 0.60% | ~815 |
 | Did we pack lunch? | 0.60% | ~815 |
 | Arcane Industries | 0.60% | ~815 |
@@ -42,7 +43,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Power of Love | 0.50% | ~679 |
 | Flawless Fusion | 0.50% | ~679 |
 | Royal Ransom | 0.50% | ~679 |
-| Helping Hand | 0.50% | ~679 |
 | Natural 20 | 0.50% | ~679 |
 | Magical Harmony | 0.50% | ~679 |
 | A Notch Above the Rest | 0.40% | ~543 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,862 (Ranked 68)  
+Progressed: 135,868 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 147 (0.11%) (Ranked 216)
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
-| 2023-09-08 | 135,862 | 147 |
+| 2023-09-08 | 135,868 | 147 |
 ## Awards
 Max (Great for Beginners): 4,730  (Ranked 70)  
 Sum: 27,189 (Ranked 48)  

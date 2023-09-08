@@ -26,10 +26,10 @@
 | GG | 41.00% | ~15 |
 | No posters allowed | 41.00% | ~15 |
 | Close the deal | 38.00% | ~14 |
+| You've got mail! | 38.00% | ~14 |
 | Pain in the hands | 38.00% | ~14 |
 | Mischief maker | 38.00% | ~14 |
-| You've got mail! | 35.00% | ~13 |
-| Shattered | 32.00% | ~12 |
+| Shattered | 35.00% | ~13 |
 | Memories | 32.00% | ~12 |
 | Ring-a-ding-ding | 32.00% | ~12 |
 | Beekeeper | 30.00% | ~11 |

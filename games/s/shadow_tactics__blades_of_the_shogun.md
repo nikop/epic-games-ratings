@@ -6,21 +6,21 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,096 |
+| Genin | 11.00% | ~22,097 |
 | Thorough | 10.00% | ~20,088 |
 | A thief's beginning | 9.00% | ~18,079 |
 | Disguised | 8.00% | ~16,070 |
 | Rescue Takuma | 8.00% | ~16,070 |
 | Rollin' | 8.00% | ~16,070 |
 | Tanuki Time | 8.00% | ~16,070 |
-| Ice Ice Yuki | 7.00% | ~14,061 |
-| Jonin | 7.00% | ~14,061 |
-| Stoned Ox | 7.00% | ~14,061 |
-| Yabu | 7.00% | ~14,061 |
-| Chunin | 6.00% | ~12,052 |
-| Flying Rocks | 6.00% | ~12,052 |
-| Happy Planning | 6.00% | ~12,052 |
-| Mugen Unchained | 6.00% | ~12,052 |
+| Ice Ice Yuki | 7.00% | ~14,062 |
+| Jonin | 7.00% | ~14,062 |
+| Stoned Ox | 7.00% | ~14,062 |
+| Yabu | 7.00% | ~14,062 |
+| Chunin | 6.00% | ~12,053 |
+| Flying Rocks | 6.00% | ~12,053 |
+| Happy Planning | 6.00% | ~12,053 |
+| Mugen Unchained | 6.00% | ~12,053 |
 | Okkoto | 5.00% | ~10,044 |
 | Too Early | 5.00% | ~10,044 |
 | Warzone | 5.00% | ~10,044 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~201 |
 | Release the Kraken | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200,875 (Ranked 61)  
+Progressed: 200,880 (Ranked 61)  
 Completed: 77 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,14 +192,14 @@ Completed: 77 (0.04%) (Ranked 240)
 | 2023-09-05 | 200,306 | 76 |
 | 2023-09-06 | 200,486 | 77 |
 | 2023-09-07 | 200,677 | 77 |
-| 2023-09-08 | 200,875 | 77 |
+| 2023-09-08 | 200,880 | 77 |
 ## Awards
-Max (Great for Beginners): 562  (Ranked 191)  
-Sum: 4,744 (Ranked 135)  
+Max (Great for Beginners): 563  (Ranked 191)  
+Sum: 4,745 (Ranked 135)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 562 |
+| This game is Great for Beginners | 563 |
 | This game has Diverse Characters | 528 |
 | This game is Extremely Fun | 521 |
 | This game has Amazing Storytelling | 505 |
@@ -377,4 +377,4 @@ Diff (max vs sum): 56
 | 2023-09-02 | 4.66 | - | 562 | 4,740 |
 | 2023-09-03 | 4.66 | - | 562 | 4,741 |
 | 2023-09-05 | 4.66 | - | 562 | 4,743 |
-| 2023-09-08 | 4.66 | - | 562 | 4,744 |
+| 2023-09-08 | 4.66 | - | 563 | 4,745 |

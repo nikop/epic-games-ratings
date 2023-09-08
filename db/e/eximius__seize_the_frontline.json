@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -306,7 +306,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196427,
+  "EOS_Progressed": 196431,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
@@ -15596,6 +15596,11 @@
       "Time": "2023-09-08T20:04:17.8064252+00:00",
       "NumProgressed": 196427,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-08T21:04:34.7687988+00:00",
+      "NumProgressed": 196431,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -15615,7 +15620,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 139463
+      "UsersEstimate": 139466
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -15623,7 +15628,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9821
+      "UsersEstimate": 9822
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -15639,7 +15644,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35357
+      "UsersEstimate": 35358
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -15687,7 +15692,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9821
+      "UsersEstimate": 9822
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -15727,14 +15732,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9821
+      "UsersEstimate": 9822
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 196427,
+      "Progressed": 196431,
       "Completed": 4
     }
   ],
@@ -15742,8 +15747,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-08-23T04:57:31.1558679+00:00",
-  "LastChanged_Achievements": "2023-09-08T20:04:17.8064247+00:00",
+  "LastChanged_Achievements": "2023-09-08T21:04:34.7687981+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:17.2538294+00:00",
-  "LastUpdate_Ratings": "2023-09-08T20:02:16.3721096+00:00",
-  "LastUpdate_Achievements": "2023-09-08T20:04:17.8065137+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:02:46.3226215+00:00",
+  "LastUpdate_Achievements": "2023-09-08T21:04:34.7689595+00:00"
 }

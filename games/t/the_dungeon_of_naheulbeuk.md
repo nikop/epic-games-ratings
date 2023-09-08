@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,459 |
+| Sowwy! | 29.00% | ~64,463 |
 | Where's that freaking Dwarf? | 4.00% | ~8,891 |
 | Alt+F4 | 4.00% | ~8,891 |
-| Déjà vu | 3.00% | ~6,668 |
-| Sock! SOCK! | 3.00% | ~6,668 |
-| A beer, two curses, three companions | 2.00% | ~4,445 |
-| GG EZ | 2.00% | ~4,445 |
-| DM intervention | 2.00% | ~4,445 |
-| Speedrun | 2.00% | ~4,445 |
-| Fireproof Wizardess | 2.00% | ~4,445 |
+| Déjà vu | 3.00% | ~6,669 |
+| Sock! SOCK! | 3.00% | ~6,669 |
+| A beer, two curses, three companions | 2.00% | ~4,446 |
+| GG EZ | 2.00% | ~4,446 |
+| DM intervention | 2.00% | ~4,446 |
+| Speedrun | 2.00% | ~4,446 |
+| Fireproof Wizardess | 2.00% | ~4,446 |
 | Livin' in a dwarven paradise | 1.00% | ~2,223 |
 | Shiny and Crôm | 1.00% | ~2,223 |
 | Way of the Wimp | 1.00% | ~2,223 |
@@ -32,8 +32,8 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,223 |
 | Team Building Exercise | 1.00% | ~2,223 |
 | Oh, when I'll be level 10... | 1.00% | ~2,223 |
-| The beards of change | 0.90% | ~2,000 |
-| Thieves' Guild Accreditation | 0.90% | ~2,000 |
+| The beards of change | 0.90% | ~2,001 |
+| Thieves' Guild Accreditation | 0.90% | ~2,001 |
 | Res Judicata | 0.80% | ~1,778 |
 | The Famous Dungeon of Naheulbeuk | 0.80% | ~1,778 |
 | Dwarf Fortress | 0.80% | ~1,778 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,272 (Ranked 56)  
+Progressed: 222,287 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-05 | 221,553 | 2 |
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
-| 2023-09-08 | 222,272 | 2 |
+| 2023-09-08 | 222,287 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1929,17 +1929,17 @@
       "ID": "Finish5SideMissions",
       "SetID": "a6c395p",
       "Name": "Helping Hand",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 784
     },
     {
       "ID": "FinishAllSideMissions",
       "SetID": "a6c395p",
       "Name": "Paragon",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 70,
-      "UsersEstimate": 725
+      "UsersEstimate": 737
     },
     {
       "ID": "GatlingVsArmor",
@@ -2257,8 +2257,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-09-08T20:06:27.421911+00:00",
+  "LastChanged_Achievements": "2023-09-08T21:06:52.9955434+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:33.1890357+00:00",
-  "LastUpdate_Ratings": "2023-09-08T20:02:25.6988518+00:00",
-  "LastUpdate_Achievements": "2023-09-08T20:06:27.4219467+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:02:56.324695+00:00",
+  "LastUpdate_Achievements": "2023-09-08T21:06:52.995588+00:00"
 }

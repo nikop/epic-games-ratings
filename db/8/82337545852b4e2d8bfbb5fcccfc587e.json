@@ -3,9 +3,9 @@
   "Name": "DEEEER Simulator: Your Average Everyday Deer Game",
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 437,
-  "Ranking_EOS_Completed": 14,
+  "Ranking_EOS_Completed": 10,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 20,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 20,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 25,
   "EosHistory": [
     {
       "Time": "2023-08-23T04:02:11.6245776+00:00",
@@ -116,6 +116,11 @@
       "Time": "2023-09-08T20:07:29.6869133+00:00",
       "NumProgressed": 20,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-08T21:07:59.9818664+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-23T04:02:11.6262951+00:00",
@@ -126,9 +131,9 @@
       "ID": "EpicACHV_1",
       "SetID": "acn799d",
       "Name": "I am Deeeer.",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EpicACHV_10",
@@ -190,9 +195,9 @@
       "ID": "EpicACHV_17",
       "SetID": "acn799d",
       "Name": "100% BEEF",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "EpicACHV_2",
@@ -214,9 +219,9 @@
       "ID": "EpicACHV_4",
       "SetID": "acn799d",
       "Name": "The Trudeer Show",
-      "Percentage": 35,
+      "Percentage": 40,
       "XP": 70,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "EpicACHV_5",
@@ -238,9 +243,9 @@
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 70,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "EpicACHV_8",
@@ -264,13 +269,13 @@
       "ID": "acn799d",
       "IsBase": true,
       "Progressed": 20,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-08T20:07:29.6869128+00:00",
+  "LastChanged_Achievements": "2023-09-08T21:07:59.9818656+00:00",
   "LastUpdate_AppInfo": "2023-09-06T04:57:09.7950789+00:00",
-  "LastUpdate_Ratings": "2023-09-08T20:01:34.305771+00:00",
-  "LastUpdate_Achievements": "2023-09-08T20:07:29.6869232+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:02:06.76063+00:00",
+  "LastUpdate_Achievements": "2023-09-08T21:07:59.9818803+00:00"
 }

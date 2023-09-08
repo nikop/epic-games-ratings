@@ -9,9 +9,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 5.00% | ~691 |
 | Settler | 5.00% | ~691 |
 | Play a Single Player Game | 5.00% | ~691 |
+| The Clergy | 5.00% | ~691 |
 | Intrepid | 4.00% | ~553 |
 | Friendly Family | 4.00% | ~553 |
-| The Clergy | 4.00% | ~553 |
 | Able | 3.00% | ~415 |
 | Architect | 3.00% | ~415 |
 | Enlightened | 3.00% | ~415 |

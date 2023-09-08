@@ -2,13 +2,13 @@
   "ID": "3e84a6d0684b4f7593e6bf88bee0cbaf",
   "Name": "SAMURAI SHODOWN NEOGEO COLLECTION",
   "ProductSlug": "samurai-shodown-neogeo-collection",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 612,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -328,6 +328,6 @@
   "FirstSeen": "2022-07-22T20:30:17.6868721+00:00",
   "LastChanged": "2023-08-20T16:01:18.943028+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:50.3206417+00:00",
-  "LastUpdate_Ratings": "2023-09-08T20:01:19.0666737+00:00",
-  "LastUpdate_Achievements": "2023-09-08T20:02:37.4952168+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:01:50.8517138+00:00",
+  "LastUpdate_Achievements": "2023-09-08T21:03:09.3127451+00:00"
 }

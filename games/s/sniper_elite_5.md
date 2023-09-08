@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.48 (Ranked 602)  
+Rating: 4.47 (Ranked 612)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,9 +21,9 @@ Rating: 4.48 (Ranked 602)
 | Sharpshooter | 21.00% | ~755 |
 | Explosive Efficiency | 18.00% | ~647 |
 | Gunslinger | 17.00% | ~611 |
+| Climbing the Ladder | 16.00% | ~575 |
 | Just a Flesh Wound | 16.00% | ~575 |
 | Der Geist | 16.00% | ~575 |
-| Climbing the Ladder | 15.00% | ~539 |
 | Close Quarters | 15.00% | ~539 |
 | Brains of the Operation | 15.00% | ~539 |
 | Fields of Glory | 14.00% | ~503 |
@@ -296,3 +296,4 @@ Completed: 10 (0.28%) (Ranked 182)
 | 2023-08-30 | 4.46 | 0 | 0 |
 | 2023-09-01 | 4.47 | 0 | 0 |
 | 2023-09-05 | 4.48 | 0 | 0 |
+| 2023-09-08 | 4.47 | 0 | 0 |

@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 789,
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -402,9 +402,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 245259,
+  "EOS_Progressed": 245262,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 817,
+  "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16072,6 +16072,11 @@
       "Time": "2023-09-08T20:04:22.4673514+00:00",
       "NumProgressed": 245259,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-08T21:04:39.8619312+00:00",
+      "NumProgressed": 245262,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -16083,7 +16088,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66220
+      "UsersEstimate": 66221
     },
     {
       "ID": "ACH_AON",
@@ -16123,7 +16128,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26978
+      "UsersEstimate": 26979
     },
     {
       "ID": "ACH_ENJOY",
@@ -16163,7 +16168,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22073
+      "UsersEstimate": 22074
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -16299,7 +16304,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58862
+      "UsersEstimate": 58863
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -16403,7 +16408,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61315
+      "UsersEstimate": 61316
     },
     {
       "ID": "ACH_SOREAD",
@@ -16498,7 +16503,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 245259,
+      "Progressed": 245262,
       "Completed": 7
     }
   ],
@@ -16506,8 +16511,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-02T23:58:08.6373723+00:00",
-  "LastChanged_Achievements": "2023-09-08T20:04:22.467351+00:00",
+  "LastChanged_Achievements": "2023-09-08T21:04:39.8619304+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:10.3049336+00:00",
-  "LastUpdate_Ratings": "2023-09-08T19:59:38.0644534+00:00",
-  "LastUpdate_Achievements": "2023-09-08T20:04:22.4674607+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:00:01.4930014+00:00",
+  "LastUpdate_Achievements": "2023-09-08T21:04:39.8621272+00:00"
 }

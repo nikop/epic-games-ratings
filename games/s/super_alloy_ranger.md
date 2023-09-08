@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 76.00% | ~47 |
-| Gear Up | 66.00% | ~41 |
-| A Grand Show | 66.00% | ~41 |
-| Freshen Up | 56.00% | ~35 |
+| Iceberg Theory | 77.00% | ~48 |
+| Gear Up | 68.00% | ~42 |
+| A Grand Show | 68.00% | ~42 |
+| Freshen Up | 58.00% | ~36 |
 | GG EZ | 56.00% | ~35 |
 | Hydrophobia | 42.00% | ~26 |
 | Ka-Ching! | 34.00% | ~21 |
@@ -16,7 +16,7 @@
 | Toe to Toe | 18.00% | ~11 |
 | The Hidden Secret | 16.00% | ~10 |
 | Mr. Want It All | 16.00% | ~10 |
-| Phew! | 15.00% | ~9 |
+| Phew! | 16.00% | ~10 |
 | Grand Escape | 13.00% | ~8 |
 | Space Warrior: Prologue | 11.00% | ~7 |
 | The Abyss Conqueror | 10.00% | ~6 |

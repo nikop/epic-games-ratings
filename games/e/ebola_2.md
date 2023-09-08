@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Statue ✔ | 63.00% | ~163 |
+| Statue ✔ | 63.00% | ~164 |
 | Recluse ✔ | 34.00% | ~88 |
-| Witch ✔ | 21.00% | ~54 |
+| Witch ✔ | 21.00% | ~55 |
 | Scent of Meat ✔ | 20.00% | ~52 |
 | Survival ✔ | 3.00% | ~8 |
 | Voodoo ✔ | 0.00% | ~0 |
@@ -23,7 +23,7 @@
 | Master of Unlocking ✔ | 0.00% | ~0 |
 | Saved the planet ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259 (Ranked 288)  
+Progressed: 260 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,4 +88,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-02 | 253 | 0 |
 | 2023-09-05 | 255 | 0 |
 | 2023-09-06 | 256 | 0 |
-| 2023-09-08 | 259 | 0 |
+| 2023-09-08 | 260 | 0 |

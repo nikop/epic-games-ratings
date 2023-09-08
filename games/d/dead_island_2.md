@@ -30,10 +30,10 @@ Rating: 4.54 (Ranked 505)
 | Anger Management | 0.70% | ~4,731 |
 | Perks of the Job | 0.70% | ~4,731 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,731 |
-| Making Your Mark | 0.60% | ~4,055 |
-| Humanity Distilled | 0.60% | ~4,055 |
-| Down with the Sickness | 0.60% | ~4,055 |
-| Max Headroom | 0.50% | ~3,379 |
+| Making Your Mark | 0.60% | ~4,056 |
+| Humanity Distilled | 0.60% | ~4,056 |
+| Down with the Sickness | 0.60% | ~4,056 |
+| Max Headroom | 0.50% | ~3,380 |
 | Jumbo Keyring | 0.40% | ~2,704 |
 | Go, Bobcats! | 0.40% | ~2,704 |
 | Rising Star | 0.40% | ~2,704 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,890 (Ranked 22)  
+Progressed: 675,925 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2,121 (0.31%) (Ranked 177)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,890 | 2,121 |
+| 2023-09-08 | 675,925 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
 Sum: 8,788 (Ranked 95)  

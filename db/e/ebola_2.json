@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1001,6 +1001,11 @@
       "Time": "2023-09-08T20:03:39.4859499+00:00",
       "NumProgressed": 259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T21:04:04.2784001+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1132,7 +1137,7 @@
       "Name": "Statue \u2714",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achVirus",
@@ -1148,21 +1153,21 @@
       "Name": "Witch \u2714",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-08T20:03:39.4859495+00:00",
+  "LastChanged_Achievements": "2023-09-08T21:04:04.2783995+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:35.1715496+00:00",
-  "LastUpdate_Ratings": "2023-09-08T19:58:53.369698+00:00",
-  "LastUpdate_Achievements": "2023-09-08T20:03:39.4859656+00:00"
+  "LastUpdate_Ratings": "2023-09-08T20:59:16.2609088+00:00",
+  "LastUpdate_Achievements": "2023-09-08T21:04:04.2784215+00:00"
 }

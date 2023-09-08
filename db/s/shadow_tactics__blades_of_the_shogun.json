@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1439,11 +1439,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 4744,
       "NumberOfAwardsMax": 562
+    },
+    {
+      "Time": "2023-09-08T21:02:05.1383106+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4745,
+      "NumberOfAwardsMax": 563
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4744,
-  "NumberOfAwardsMax": 562,
+  "NumberOfAwards": 4745,
+  "NumberOfAwardsMax": 563,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1480,7 +1486,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 562
+      "Count": 563
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1513,10 +1519,10 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 200875,
+  "EOS_Progressed": 200880,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1559,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 1549,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
@@ -17348,6 +17354,11 @@
       "Time": "2023-09-08T20:08:44.5226045+00:00",
       "NumProgressed": 200875,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-08T21:09:21.0953984+00:00",
+      "NumProgressed": 200880,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17383,7 +17394,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12053
     },
     {
       "ID": "CompleteMastery",
@@ -17415,7 +17426,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12053
     },
     {
       "ID": "GearUp",
@@ -17431,7 +17442,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22096
+      "UsersEstimate": 22097
     },
     {
       "ID": "HappyLittleAccidents",
@@ -17447,7 +17458,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12053
     },
     {
       "ID": "HighFiveTheMoon",
@@ -17463,7 +17474,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14061
+      "UsersEstimate": 14062
     },
     {
       "ID": "ItsRainingMen",
@@ -17479,7 +17490,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14061
+      "UsersEstimate": 14062
     },
     {
       "ID": "Mercyful",
@@ -17511,7 +17522,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12052
+      "UsersEstimate": 12053
     },
     {
       "ID": "NoGimmicks",
@@ -17607,7 +17618,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14061
+      "UsersEstimate": 14062
     },
     {
       "ID": "TanukiTime",
@@ -17703,22 +17714,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14061
+      "UsersEstimate": 14062
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 200875,
+      "Progressed": 200880,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-09-08T19:00:14.633511+00:00",
-  "LastChanged_Achievements": "2023-09-08T20:08:44.522604+00:00",
+  "LastChanged": "2023-09-08T21:02:05.1383104+00:00",
+  "LastChanged_Achievements": "2023-09-08T21:09:21.0953976+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:03.876432+00:00",
-  "LastUpdate_Ratings": "2023-09-08T20:01:32.3916252+00:00",
-  "LastUpdate_Achievements": "2023-09-08T20:08:44.522706+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:02:05.1383114+00:00",
+  "LastUpdate_Achievements": "2023-09-08T21:09:21.09564+00:00"
 }

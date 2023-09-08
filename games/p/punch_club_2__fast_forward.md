@@ -59,12 +59,12 @@
 | Anyone can resist | 34.00% | ~109 |
 | Not little hacker | 33.00% | ~106 |
 | The last bell ring | 33.00% | ~106 |
+| Careerist | 33.00% | ~106 |
 | Trap disarmed | 32.00% | ~102 |
 | The lonesome road | 32.00% | ~102 |
 | Keep nature safe | 32.00% | ~102 |
 | Family comes first | 32.00% | ~102 |
 | Key memories | 32.00% | ~102 |
-| Careerist | 32.00% | ~102 |
 | The heart of the Resistance | 32.00% | ~102 |
 | Another world | 31.00% | ~99 |
 | Better cooking at home | 29.00% | ~93 |
