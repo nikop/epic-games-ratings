@@ -118,7 +118,7 @@
 | 110 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 517 |
 | 110 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 469 |
 | 118 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.76 | 26 | 480 |
-| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,236 | 23 |
+| 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,248 | 23 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 517 |
 | 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,322 | 91 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 942 | 148 |
@@ -204,7 +204,7 @@
 | 201 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 387 | 219 |
 | 201 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 411 | 216 |
 | 201 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 517 |
-| 201 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,142 | 49 |
+| 201 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,145 | 49 |
 | 201 | [For The King](games/f/for_the_king.md) | 4.70 | 386 | 221 |
 | 201 | [GNOG](games/g/gnog.md) | 4.70 | 0 | 517 |
 | 201 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 517 |
@@ -249,7 +249,7 @@
 | 241 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 480 |
 | 241 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 3,944 | 80 |
 | 241 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 305,107 | 3 |
-| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 222,190 | 4 |
+| 241 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 222,642 | 4 |
 | 241 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 517 |
 | 241 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 564 | 190 |
 | 241 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 684 | 171 |
@@ -277,7 +277,7 @@
 | 259 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 607 | 181 |
 | 259 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 517 |
 | 259 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 90 | 353 |
-| 259 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,262 | 92 |
+| 259 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,271 | 92 |
 | 259 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 517 |
 | 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,335 | 66 |
 | 280 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 424 |
@@ -395,8 +395,8 @@
 | 392 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 731 | 164 |
 | 392 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,630 | 27 |
 | 392 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 517 |
-| 392 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 313 | 235 |
-| 392 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,587 | 72 |
+| 392 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 316 | 235 |
+| 392 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,595 | 72 |
 | 392 | [Control](games/c/control.md) | 4.60 | 8,486 | 40 |
 | 392 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 517 |
 | 392 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 219 | 267 |
@@ -949,7 +949,7 @@
 | 947 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 517 |
 | 947 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.98 | 0 | 517 |
 | 947 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.98 | 0 | 517 |
-| 947 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,417 | 89 |
+| 947 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 3,443 | 89 |
 | 947 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 517 |
 | 952 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 517 |
 | 952 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 3.97 | 0 | 517 |

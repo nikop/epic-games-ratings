@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.22% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.49% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.24% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
@@ -89,7 +89,7 @@
 | 87 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 88 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.27% |
-| 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.24% |
+| 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.22% |
 | 91 | [Bloodshore](games/b/bloodshore.md) | 2.17% |
 | 92 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.13% |
@@ -156,9 +156,9 @@
 | 154 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
 | 155 | [Them and Us](games/t/them_and_us.md) | 0.47% |
 | 156 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 156 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.46% |
 | 156 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
-| 159 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
+| 158 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
+| 158 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.45% |
 | 160 | [Train Valley](games/t/train_valley.md) | 0.44% |
 | 161 | [Tchia](games/t/tchia.md) | 0.43% |
 | 162 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
