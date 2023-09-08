@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1387,
+  "EOS_Progressed": 1388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2931,6 +2931,11 @@
       "Time": "2023-09-08T01:54:34.8935783+00:00",
       "NumProgressed": 1387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T09:05:12.1105517+00:00",
+      "NumProgressed": 1388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2950,7 +2955,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -2958,7 +2963,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "ATTENBOROUGH",
@@ -2966,7 +2971,7 @@
       "Name": "Attenborough",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "BOOKWORM",
@@ -3012,9 +3017,9 @@
       "ID": "COMMANDO",
       "SetID": "9a4jnji",
       "Name": "Commando",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 222
     },
     {
       "ID": "CROAKED",
@@ -3046,7 +3051,7 @@
       "Name": "Ganglord",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "DEAD_DICK",
@@ -3062,7 +3067,7 @@
       "Name": "Jarhead",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -3094,7 +3099,7 @@
       "Name": "Endgame",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "EXORCIST",
@@ -3126,7 +3131,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3158,7 +3163,7 @@
       "Name": "Giant Killer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "GOAL",
@@ -3174,7 +3179,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3206,7 +3211,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3246,7 +3251,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "RECYCLER",
@@ -3270,7 +3275,7 @@
       "Name": "Savior",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "SENSEI",
@@ -3278,7 +3283,7 @@
       "Name": "Sensei",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "SHADOW_BOXING",
@@ -3302,7 +3307,7 @@
       "Name": "Silent but Violent",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "TECHNOPHOBE",
@@ -3349,7 +3354,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1387,
+      "Progressed": 1388,
       "Completed": 0
     }
   ],
@@ -3357,8 +3362,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:05:35.0126227+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:05:12.1105511+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:54.3073965+00:00",
-  "LastUpdate_Ratings": "2023-09-08T08:00:22.7487938+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:05:35.0126823+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:59:42.1915101+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:05:12.110613+00:00"
 }

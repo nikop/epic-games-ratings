@@ -7344,9 +7344,9 @@
       "Count": 622
     }
   ],
-  "EOS_Progressed": 295836,
+  "EOS_Progressed": 295840,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 4501,
+  "EOS_NewPlayers": 4496,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22564,6 +22564,11 @@
       "Time": "2023-09-08T08:07:09.9072219+00:00",
       "NumProgressed": 295836,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2023-09-08T09:06:26.7372521+00:00",
+      "NumProgressed": 295840,
+      "NumCompleted": 468
     }
   ],
   "TotalAchievements": 45,
@@ -22575,7 +22580,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41417
+      "UsersEstimate": 41418
     },
     {
       "ID": "PFA_10",
@@ -22607,7 +22612,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26625
+      "UsersEstimate": 26626
     },
     {
       "ID": "PFA_14",
@@ -22663,7 +22668,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11833
+      "UsersEstimate": 11834
     },
     {
       "ID": "PFA_20",
@@ -22679,7 +22684,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26625
+      "UsersEstimate": 26626
     },
     {
       "ID": "PFA_22",
@@ -22727,7 +22732,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11833
+      "UsersEstimate": 11834
     },
     {
       "ID": "PFA_28",
@@ -22775,7 +22780,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11833
+      "UsersEstimate": 11834
     },
     {
       "ID": "PFA_33",
@@ -22799,7 +22804,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26625
+      "UsersEstimate": 26626
     },
     {
       "ID": "PFA_36",
@@ -22823,7 +22828,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11833
+      "UsersEstimate": 11834
     },
     {
       "ID": "PFA_39",
@@ -22839,7 +22844,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11833
+      "UsersEstimate": 11834
     },
     {
       "ID": "PFA_40",
@@ -22855,7 +22860,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11833
+      "UsersEstimate": 11834
     },
     {
       "ID": "PFA_42",
@@ -22911,7 +22916,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35500
+      "UsersEstimate": 35501
     },
     {
       "ID": "PFA_8",
@@ -22934,7 +22939,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 295836,
+      "Progressed": 295840,
       "Completed": 468
     }
   ],
@@ -22942,8 +22947,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-08T03:59:56.3989911+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:07:09.9072213+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:06:26.7372516+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.53562+00:00",
-  "LastUpdate_Ratings": "2023-09-08T07:58:58.0881118+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:07:09.9073583+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:58:34.0514306+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:06:26.737369+00:00"
 }

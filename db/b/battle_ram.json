@@ -4,7 +4,7 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222,
+  "EOS_Progressed": 223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -941,6 +941,11 @@
       "Time": "2023-09-08T08:08:39.644591+00:00",
       "NumProgressed": 222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T09:08:16.1177041+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -952,7 +957,7 @@
       "Name": "START",
       "Percentage": 93,
       "XP": 45,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ach_10",
@@ -982,9 +987,9 @@
       "ID": "ach_13",
       "SetID": "392n4e7",
       "Name": "Baran Senior Warrant Officer Grade 5",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_14",
@@ -1038,9 +1043,9 @@
       "ID": "ach_2",
       "SetID": "392n4e7",
       "Name": "Ram Corporal",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_20",
@@ -1054,9 +1059,9 @@
       "ID": "ach_21",
       "SetID": "392n4e7",
       "Name": "EMERAID RAM",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 185,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_22",
@@ -1080,7 +1085,7 @@
       "Name": "Ram Staff Sergeant",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ach_5",
@@ -1127,14 +1132,14 @@
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 222,
+      "Progressed": 223,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:08:39.64459+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:08:16.1177035+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:24.4292471+00:00",
-  "LastUpdate_Ratings": "2023-09-08T07:59:52.8806387+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:08:39.6446129+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:59:13.5352538+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:08:16.1177257+00:00"
 }

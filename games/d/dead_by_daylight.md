@@ -6,21 +6,21 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~25,766 |
-| It wakes | 3.00% | ~25,766 |
-| Skillful | 3.00% | ~25,766 |
-| No one left behind | 2.00% | ~17,177 |
-| Medic | 2.00% | ~17,177 |
-| Handyman | 2.00% | ~17,177 |
-| Nerves of steel | 2.00% | ~17,177 |
-| Not half bad | 2.00% | ~17,177 |
-| Bloody Millionaire | 2.00% | ~17,177 |
-| Apt Survivor | 2.00% | ~17,177 |
-| Survival Treasures | 2.00% | ~17,177 |
-| I | 2.00% | ~17,177 |
-| Sorted | 2.00% | ~17,177 |
-| Make Some Noise | 2.00% | ~17,177 |
-| MU/TH/UR Dearest | 2.00% | ~17,177 |
+| Zealous | 3.00% | ~25,767 |
+| It wakes | 3.00% | ~25,767 |
+| Skillful | 3.00% | ~25,767 |
+| No one left behind | 2.00% | ~17,178 |
+| Medic | 2.00% | ~17,178 |
+| Handyman | 2.00% | ~17,178 |
+| Nerves of steel | 2.00% | ~17,178 |
+| Not half bad | 2.00% | ~17,178 |
+| Bloody Millionaire | 2.00% | ~17,178 |
+| Apt Survivor | 2.00% | ~17,178 |
+| Survival Treasures | 2.00% | ~17,178 |
+| I | 2.00% | ~17,178 |
+| Sorted | 2.00% | ~17,178 |
+| Make Some Noise | 2.00% | ~17,178 |
+| MU/TH/UR Dearest | 2.00% | ~17,178 |
 | The Grand Sacrifice | 1.00% | ~8,589 |
 | Agonizing Escape | 1.00% | ~8,589 |
 | Backdoor Escape | 1.00% | ~8,589 |
@@ -65,27 +65,27 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 0.60% | ~5,153 |
 | Chorus of Chaos | 0.60% | ~5,153 |
 | One More Step | 0.60% | ~5,153 |
-| A bite for the Entity | 0.50% | ~4,294 |
-| Escape Artist | 0.50% | ~4,294 |
-| Shock Therapy | 0.50% | ~4,294 |
-| Leapfrog | 0.50% | ~4,294 |
-| Cottage Owner | 0.50% | ~4,294 |
-| Campbell's Chapel Legacy | 0.50% | ~4,294 |
-| Ancestor's Rite | 0.50% | ~4,294 |
-| Outrun Evil | 0.50% | ~4,294 |
-| Grim Pilgrimage | 0.50% | ~4,294 |
-| Complete the Evolution | 0.50% | ~4,294 |
-| Blood on your face | 0.40% | ~3,435 |
-| Jump Scares | 0.40% | ~3,435 |
-| Hemophobia | 0.40% | ~3,435 |
-| Serial Killer | 0.40% | ~3,435 |
-| Escaping the Nightmare | 0.40% | ~3,435 |
-| Game Over | 0.40% | ~3,435 |
-| Devoted Gatekeeping | 0.40% | ~3,435 |
-| Selfless Survival | 0.40% | ~3,435 |
-| End of Days | 0.40% | ~3,435 |
-| Outrun the Overlap | 0.40% | ~3,435 |
-| Extraterrestrial | 0.40% | ~3,435 |
+| A bite for the Entity | 0.50% | ~4,295 |
+| Escape Artist | 0.50% | ~4,295 |
+| Shock Therapy | 0.50% | ~4,295 |
+| Leapfrog | 0.50% | ~4,295 |
+| Cottage Owner | 0.50% | ~4,295 |
+| Campbell's Chapel Legacy | 0.50% | ~4,295 |
+| Ancestor's Rite | 0.50% | ~4,295 |
+| Outrun Evil | 0.50% | ~4,295 |
+| Grim Pilgrimage | 0.50% | ~4,295 |
+| Complete the Evolution | 0.50% | ~4,295 |
+| Blood on your face | 0.40% | ~3,436 |
+| Jump Scares | 0.40% | ~3,436 |
+| Hemophobia | 0.40% | ~3,436 |
+| Serial Killer | 0.40% | ~3,436 |
+| Escaping the Nightmare | 0.40% | ~3,436 |
+| Game Over | 0.40% | ~3,436 |
+| Devoted Gatekeeping | 0.40% | ~3,436 |
+| Selfless Survival | 0.40% | ~3,436 |
+| End of Days | 0.40% | ~3,436 |
+| Outrun the Overlap | 0.40% | ~3,436 |
+| Extraterrestrial | 0.40% | ~3,436 |
 | Deep Cleansing | 0.30% | ~2,577 |
 | Texas BBQ | 0.30% | ~2,577 |
 | Party Crasher | 0.30% | ~2,577 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~859 |
 | Adept Ripley | 0.10% | ~859 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 858,851 (Ranked 15)  
+Progressed: 858,913 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-05 | 852,172 | 48 |
 | 2023-09-06 | 854,955 | 48 |
 | 2023-09-07 | 857,988 | 48 |
-| 2023-09-08 | 858,851 | 48 |
+| 2023-09-08 | 858,913 | 48 |
 ## Awards
 Max (Diverse Characters): 32,082  (Ranked 15)  
 Sum: 251,145 (Ranked 11)  

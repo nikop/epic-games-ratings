@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7153,
+  "EOS_Progressed": 7154,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -4159,6 +4159,11 @@
       "Time": "2023-09-08T00:06:56.6602291+00:00",
       "NumProgressed": 7153,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-08T09:03:37.8831932+00:00",
+      "NumProgressed": 7154,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4202,7 +4207,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4274,7 +4279,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -4370,7 +4375,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2861
+      "UsersEstimate": 2862
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -4385,15 +4390,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7153,
+      "Progressed": 7154,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:03:41.6538973+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:03:37.8831924+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.9166051+00:00",
-  "LastUpdate_Ratings": "2023-09-08T07:58:58.6841716+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:03:41.6539425+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:58:34.3555792+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:03:37.8832365+00:00"
 }

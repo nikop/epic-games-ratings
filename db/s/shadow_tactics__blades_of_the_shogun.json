@@ -1507,9 +1507,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 200725,
+  "EOS_Progressed": 200731,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1535,
+  "EOS_NewPlayers": 1533,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17282,6 +17282,11 @@
       "Time": "2023-09-08T08:08:31.7255066+00:00",
       "NumProgressed": 200725,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-08T09:08:08.2632878+00:00",
+      "NumProgressed": 200731,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17293,7 +17298,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18065
+      "UsersEstimate": 18066
     },
     {
       "ID": "AtheistOx",
@@ -17301,7 +17306,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "ChickenDinner",
@@ -17405,7 +17410,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "Jonin",
@@ -17469,7 +17474,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10036
+      "UsersEstimate": 10037
     },
     {
       "ID": "OldMan",
@@ -17477,7 +17482,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "PraiseTheShogun",
@@ -17581,7 +17586,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20072
+      "UsersEstimate": 20073
     },
     {
       "ID": "TimeParadox",
@@ -17605,7 +17610,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10036
+      "UsersEstimate": 10037
     },
     {
       "ID": "Warzone",
@@ -17613,7 +17618,7 @@
       "Name": "Warzone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10036
+      "UsersEstimate": 10037
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -17629,7 +17634,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "Yabu",
@@ -17644,15 +17649,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 200725,
+      "Progressed": 200731,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-05T09:59:57.8033528+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:08:31.725506+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:08:08.2632872+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:03.876432+00:00",
-  "LastUpdate_Ratings": "2023-09-08T08:01:40.6090606+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:08:31.7256431+00:00"
+  "LastUpdate_Ratings": "2023-09-08T09:00:46.4270229+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:08:08.2634077+00:00"
 }

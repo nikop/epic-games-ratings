@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -5967,9 +5967,9 @@
       "ID": "trader",
       "SetID": "3nl4bcg",
       "Name": "Trader",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 172
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -6056,8 +6056,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-07T18:01:08.4694102+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:05:16.6252041+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:04:53.7496797+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-08T07:59:59.528149+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:05:16.6253145+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:59:18.1771857+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:04:53.7497915+00:00"
 }

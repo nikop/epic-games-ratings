@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,811 |
-| That's a Grand Army | 3.00% | ~11,858 |
-| That is mine! | 3.00% | ~11,858 |
-| Victorious! | 3.00% | ~11,858 |
-| Brothers in Arms | 2.00% | ~7,905 |
-| For the Glory | 2.00% | ~7,905 |
-| That's a Grand Navy | 2.00% | ~7,905 |
-| Seriously?! | 2.00% | ~7,905 |
+| Until death do us apart | 4.00% | ~15,812 |
+| That's a Grand Army | 3.00% | ~11,859 |
+| That is mine! | 3.00% | ~11,859 |
+| Victorious! | 3.00% | ~11,859 |
+| Brothers in Arms | 2.00% | ~7,906 |
+| For the Glory | 2.00% | ~7,906 |
+| That's a Grand Navy | 2.00% | ~7,906 |
+| Seriously?! | 2.00% | ~7,906 |
 | Cold War | 1.00% | ~3,953 |
 | Defender of the Faith | 1.00% | ~3,953 |
 | It's all about the money | 1.00% | ~3,953 |
 | True Catholic | 1.00% | ~3,953 |
-| Respected | 0.90% | ~3,557 |
-| The Princess is in this Castle | 0.90% | ~3,557 |
+| Respected | 0.90% | ~3,558 |
+| The Princess is in this Castle | 0.90% | ~3,558 |
 | It's all about luck | 0.80% | ~3,162 |
 | Truly Divine Ruler | 0.80% | ~3,162 |
 | Blockader | 0.70% | ~2,767 |
@@ -27,9 +27,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.70% | ~2,767 |
 | Total Control | 0.70% | ~2,767 |
 | My armies are invincible! | 0.60% | ~2,372 |
-| Agressive Expander | 0.50% | ~1,976 |
-| City of Cities | 0.50% | ~1,976 |
-| Combined Arms | 0.50% | ~1,976 |
+| Agressive Expander | 0.50% | ~1,977 |
+| City of Cities | 0.50% | ~1,977 |
+| Combined Arms | 0.50% | ~1,977 |
 | Azur semé de lis or | 0.40% | ~1,581 |
 | Gentle Persuasion | 0.40% | ~1,581 |
 | Queen of Conquest | 0.40% | ~1,581 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,265 (Ranked 40)  
+Progressed: 395,304 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -502,10 +502,10 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-05 | 392,723 | 0 |
 | 2023-09-06 | 393,860 | 0 |
 | 2023-09-07 | 394,982 | 0 |
-| 2023-09-08 | 395,265 | 0 |
+| 2023-09-08 | 395,304 | 0 |
 ## Awards
 Max (Educational): 5,981  (Ranked 57)  
-Sum: 49,155 (Ranked 26)  
+Sum: 49,177 (Ranked 26)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -513,7 +513,7 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 5,702 |
 | This game is Extremely Fun | 5,668 |
 | This game has Challenging Combat | 5,659 |
-| This game has Diverse Characters | 5,622 |
+| This game has Diverse Characters | 5,644 |
 | This game is Relaxing | 5,502 |
 | This game has Competitive Players | 5,343 |
 | This game has Amazing Storytelling | 5,030 |
@@ -756,4 +756,4 @@ Diff (max vs sum): 31
 | 2023-09-05 | 4.68 | - | 5,944 | 48,875 |
 | 2023-09-06 | 4.69 | - | 5,958 | 49,001 |
 | 2023-09-07 | 4.69 | - | 5,981 | 49,139 |
-| 2023-09-08 | 4.69 | - | 5,981 | 49,155 |
+| 2023-09-08 | 4.69 | - | 5,981 | 49,177 |

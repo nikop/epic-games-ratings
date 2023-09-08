@@ -5,14 +5,14 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,486 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,231 |
-| Loose Ends | 34.00% | ~24,510 |
+| First Step Into the Knight | 52.00% | ~37,487 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,232 |
+| Loose Ends | 34.00% | ~24,511 |
 | To the Victor Go the Spoils | 28.00% | ~20,185 |
 | Knighthood | 27.00% | ~19,464 |
 | Get ReQ'd | 25.00% | ~18,022 |
-| Whispered Words | 24.00% | ~17,301 |
-| The Batman Family | 23.00% | ~16,580 |
+| Whispered Words | 24.00% | ~17,302 |
+| The Batman Family | 23.00% | ~16,581 |
 | Lock and Key | 22.00% | ~15,860 |
 | Something in the Clay | 20.00% | ~14,418 |
 | Quartzer Life Crisis | 20.00% | ~14,418 |
@@ -23,10 +23,10 @@ Rating: 4.18 (Ranked 883)
 | The Show Mud Go On | 17.00% | ~12,255 |
 | From Inside Gotham's Walls | 17.00% | ~12,255 |
 | Protector of Gotham | 16.00% | ~11,534 |
-| In Your Element | 15.00% | ~10,813 |
-| Universal Health Scare | 15.00% | ~10,813 |
-| Cooldown | 14.00% | ~10,092 |
-| Voiceless | 14.00% | ~10,092 |
+| In Your Element | 15.00% | ~10,814 |
+| Universal Health Scare | 15.00% | ~10,814 |
+| Cooldown | 14.00% | ~10,093 |
+| Voiceless | 14.00% | ~10,093 |
 | Rock and a Hard Place | 13.00% | ~9,372 |
 | Not On My Watch | 13.00% | ~9,372 |
 | Shock Til They Drop | 13.00% | ~9,372 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,089 (Ranked 81)  
+Progressed: 72,090 (Ranked 82)  
 Completed: 112 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 112 (0.16%) (Ranked 200)
 | 2023-09-05 | 71,225 | 111 |
 | 2023-09-06 | 71,678 | 111 |
 | 2023-09-07 | 72,029 | 111 |
-| 2023-09-08 | 72,089 | 112 |
+| 2023-09-08 | 72,090 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,602  (Ranked 98)  
 Sum: 4,306 (Ranked 139)  

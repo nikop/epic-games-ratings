@@ -9184,10 +9184,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 49155,
       "NumberOfAwardsMax": 5981
+    },
+    {
+      "Time": "2023-09-08T08:58:28.9353985+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 49177,
+      "NumberOfAwardsMax": 5981
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49155,
+  "NumberOfAwards": 49177,
   "NumberOfAwardsMax": 5981,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9207,7 +9213,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5622
+      "Count": 5644
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9258,9 +9264,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 395265,
+  "EOS_Progressed": 395304,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10629,
+  "EOS_NewPlayers": 10601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25033,6 +25039,11 @@
       "Time": "2023-09-08T08:04:15.2206586+00:00",
       "NumProgressed": 395265,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T09:04:12.179244+00:00",
+      "NumProgressed": 395304,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -25172,7 +25183,7 @@
       "Name": "Agressive Expander",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -25484,7 +25495,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -25556,7 +25567,7 @@
       "Name": "City of Cities",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "achievement_cold_war",
@@ -25580,7 +25591,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -25876,7 +25887,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "achievement_forever_golden",
@@ -26044,7 +26055,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11858
+      "UsersEstimate": 11859
     },
     {
       "ID": "achievement_grand_coalition",
@@ -26068,7 +26079,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -26980,7 +26991,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -27044,7 +27055,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -27324,7 +27335,7 @@
       "Name": "That is mine!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11858
+      "UsersEstimate": 11859
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -27468,7 +27479,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -27708,7 +27719,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15811
+      "UsersEstimate": 15812
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -27740,7 +27751,7 @@
       "Name": "Victorious!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 11858
+      "UsersEstimate": 11859
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -27875,21 +27886,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 395265,
+      "Progressed": 395304,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 395265,
+      "Progressed": 395304,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-08T06:59:25.5934119+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:04:15.2206581+00:00",
+  "LastChanged": "2023-09-08T08:58:28.9353983+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:04:12.1792435+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:16.2286567+00:00",
-  "LastUpdate_Ratings": "2023-09-08T07:58:51.9225837+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:04:15.2220725+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:58:28.9353991+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:04:12.1804556+00:00"
 }

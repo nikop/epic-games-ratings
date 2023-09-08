@@ -19,39 +19,39 @@ Rating: 4.54 (Ranked 505)
 | Personal Assistant Personally Assisted | 1.00% | ~6,755 |
 | This is My Weapon | 1.00% | ~6,755 |
 | Welcome To Hell-A | 1.00% | ~6,755 |
-| Can't Handle the Truth | 0.90% | ~6,079 |
-| Like Riding a Bike | 0.90% | ~6,079 |
-| Zombologist | 0.90% | ~6,079 |
-| A Patton Emerges | 0.90% | ~6,079 |
+| Can't Handle the Truth | 0.90% | ~6,080 |
+| Like Riding a Bike | 0.90% | ~6,080 |
+| Zombologist | 0.90% | ~6,080 |
+| A Patton Emerges | 0.90% | ~6,080 |
 | Slayer Squad | 0.80% | ~5,404 |
 | I Am the Resurrection | 0.80% | ~5,404 |
 | Our True Nature | 0.80% | ~5,404 |
-| Anger Management | 0.70% | ~4,728 |
-| Perks of the Job | 0.70% | ~4,728 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,728 |
-| Ooh, Shiny! | 0.70% | ~4,728 |
+| Anger Management | 0.70% | ~4,729 |
+| Perks of the Job | 0.70% | ~4,729 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,729 |
+| Ooh, Shiny! | 0.70% | ~4,729 |
 | Making Your Mark | 0.60% | ~4,053 |
 | Humanity Distilled | 0.60% | ~4,053 |
 | Down with the Sickness | 0.60% | ~4,053 |
-| Max Headroom | 0.50% | ~3,377 |
+| Max Headroom | 0.50% | ~3,378 |
 | Jumbo Keyring | 0.40% | ~2,702 |
 | Go, Bobcats! | 0.40% | ~2,702 |
 | Rising Star | 0.40% | ~2,702 |
-| On Safari | 0.30% | ~2,026 |
-| Smorgasbord | 0.30% | ~2,026 |
-| Not Even My Final Form | 0.30% | ~2,026 |
-| Internet Famous | 0.30% | ~2,026 |
+| On Safari | 0.30% | ~2,027 |
+| Smorgasbord | 0.30% | ~2,027 |
+| Not Even My Final Form | 0.30% | ~2,027 |
+| Internet Famous | 0.30% | ~2,027 |
 | Make it So | 0.20% | ~1,351 |
 | LA Influential | 0.20% | ~1,351 |
 | Gore Horse | 0.20% | ~1,351 |
 | Sharpest Tool in the Box | 0.20% | ~1,351 |
 | Variety is the Spice of Death | 0.20% | ~1,351 |
-| Donk! | 0.10% | ~675 |
-| Sole Survivor | 0.10% | ~675 |
-| Survival Skills | 0.10% | ~675 |
-| Bucket List | 0.10% | ~675 |
+| Donk! | 0.10% | ~676 |
+| Sole Survivor | 0.10% | ~676 |
+| Survival Skills | 0.10% | ~676 |
+| Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,494 (Ranked 22)  
+Progressed: 675,509 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2,121 (0.31%) (Ranked 176)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,494 | 2,121 |
+| 2023-09-08 | 675,509 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
 Sum: 8,777 (Ranked 95)  

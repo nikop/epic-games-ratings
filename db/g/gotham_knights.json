@@ -5,7 +5,7 @@
   "Ranking_Rating": 883,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 139,
-  "Ranking_EOS_Progress": 81,
+  "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 44,
@@ -2720,9 +2720,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72089,
+  "EOS_Progressed": 72090,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 3760,
+  "EOS_NewPlayers": 3750,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -14610,6 +14610,11 @@
       "Time": "2023-09-08T08:06:07.6269976+00:00",
       "NumProgressed": 72089,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-08T09:05:24.5647974+00:00",
+      "NumProgressed": 72090,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -14669,7 +14674,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16580
+      "UsersEstimate": 16581
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -14709,7 +14714,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10813
+      "UsersEstimate": 10814
     },
     {
       "ID": "CHALLENGES_1",
@@ -14869,7 +14874,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10092
+      "UsersEstimate": 10093
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -14925,7 +14930,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25231
+      "UsersEstimate": 25232
     },
     {
       "ID": "HARLEY_2",
@@ -14949,7 +14954,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10813
+      "UsersEstimate": 10814
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -14965,7 +14970,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37486
+      "UsersEstimate": 37487
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15013,7 +15018,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24510
+      "UsersEstimate": 24511
     },
     {
       "ID": "MYSTERY_02",
@@ -15021,7 +15026,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 17301
+      "UsersEstimate": 17302
     },
     {
       "ID": "MYSTERY_03",
@@ -15053,7 +15058,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10092
+      "UsersEstimate": 10093
     },
     {
       "ID": "MYSTERY_07",
@@ -15108,13 +15113,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72089,
+      "Progressed": 72090,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42369,
+      "Progressed": 42370,
       "Completed": 2661
     }
   ],
@@ -15122,8 +15127,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-08T04:05:37.5070869+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:06:07.6269973+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:05:24.5647967+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:24.8481619+00:00",
-  "LastUpdate_Ratings": "2023-09-08T08:02:29.0482164+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:06:07.6271309+00:00"
+  "LastUpdate_Ratings": "2023-09-08T09:01:30.7233755+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:05:24.5649302+00:00"
 }

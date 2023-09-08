@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106832,
+  "EOS_Progressed": 106836,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 965,
+  "EOS_NewPlayers": 963,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10083,6 +10083,11 @@
       "Time": "2023-09-08T07:08:12.4726596+00:00",
       "NumProgressed": 106832,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-08T09:06:20.5026462+00:00",
+      "NumProgressed": 106836,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -10102,7 +10107,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81192
+      "UsersEstimate": 81195
     },
     {
       "ID": "EAwards_10",
@@ -10118,7 +10123,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 26708
+      "UsersEstimate": 26709
     },
     {
       "ID": "EAwards_12",
@@ -10126,7 +10131,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 14956
+      "UsersEstimate": 14957
     },
     {
       "ID": "EAwards_13",
@@ -10150,7 +10155,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10683
+      "UsersEstimate": 10684
     },
     {
       "ID": "EAwards_16",
@@ -10158,7 +10163,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7478
+      "UsersEstimate": 7479
     },
     {
       "ID": "EAwards_17",
@@ -10166,7 +10171,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38460
+      "UsersEstimate": 38461
     },
     {
       "ID": "EAwards_18",
@@ -10190,7 +10195,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51279
+      "UsersEstimate": 51281
     },
     {
       "ID": "EAwards_20",
@@ -10198,7 +10203,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10683
+      "UsersEstimate": 10684
     },
     {
       "ID": "EAwards_21",
@@ -10222,7 +10227,7 @@
       "Name": "These are not fertilized",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7478
+      "UsersEstimate": 7479
     },
     {
       "ID": "EAwards_24",
@@ -10230,7 +10235,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7478
+      "UsersEstimate": 7479
     },
     {
       "ID": "EAwards_25",
@@ -10246,7 +10251,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10683
+      "UsersEstimate": 10684
     },
     {
       "ID": "EAwards_27",
@@ -10278,7 +10283,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20298
+      "UsersEstimate": 20299
     },
     {
       "ID": "EAwards_30",
@@ -10294,7 +10299,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10683
+      "UsersEstimate": 10684
     },
     {
       "ID": "EAwards_32",
@@ -10478,14 +10483,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10683
+      "UsersEstimate": 10684
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 106832,
+      "Progressed": 106836,
       "Completed": 40
     }
   ],
@@ -10493,8 +10498,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-07T11:58:39.0631468+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:06:43.5201272+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:06:20.5026457+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.278544+00:00",
-  "LastUpdate_Ratings": "2023-09-08T07:58:15.1620303+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:06:43.5202323+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:57:59.9673742+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:06:20.5027522+00:00"
 }

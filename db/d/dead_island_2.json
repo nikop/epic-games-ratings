@@ -4308,9 +4308,9 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 675494,
+  "EOS_Progressed": 675509,
   "EOS_Completed": 2121,
-  "EOS_NewPlayers": 4936,
+  "EOS_NewPlayers": 4933,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20048,6 +20048,11 @@
       "Time": "2023-09-08T08:07:21.2604272+00:00",
       "NumProgressed": 675494,
       "NumCompleted": 2121
+    },
+    {
+      "Time": "2023-09-08T09:06:37.8152553+00:00",
+      "NumProgressed": 675509,
+      "NumCompleted": 2121
     }
   ],
   "TotalAchievements": 45,
@@ -20083,7 +20088,7 @@
       "Name": "Anger Management",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4728
+      "UsersEstimate": 4729
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20107,7 +20112,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4728
+      "UsersEstimate": 4729
     },
     {
       "ID": "ach_bookworm",
@@ -20131,7 +20136,7 @@
       "Name": "On Safari",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "ach_defensive",
@@ -20139,7 +20144,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4728
+      "UsersEstimate": 4729
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -20163,7 +20168,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -20171,7 +20176,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "ach_finisher",
@@ -20187,7 +20192,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "ach_good_eyesight",
@@ -20195,7 +20200,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "ach_hazardous_materials",
@@ -20227,7 +20232,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ach_internet_famous",
@@ -20235,7 +20240,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "ach_investigator",
@@ -20243,7 +20248,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -20267,7 +20272,7 @@
       "Name": "Zombologist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "ach_legendary",
@@ -20275,7 +20280,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4728
+      "UsersEstimate": 4729
     },
     {
       "ID": "ach_magnum_opus",
@@ -20291,7 +20296,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "ach_mind_over_monster",
@@ -20347,7 +20352,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -20355,7 +20360,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "ach_the_vcla",
@@ -20411,29 +20416,29 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 675494,
+      "Progressed": 675509,
       "Completed": 2121
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 1034,
-      "Completed": 1034
+      "Progressed": 1049,
+      "Completed": 1049
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-08T05:01:10.1776166+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:07:21.2604267+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:06:37.8152548+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-08T08:00:31.5858108+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:07:21.2605796+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:59:54.3256343+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:06:37.8153768+00:00"
 }

@@ -302,7 +302,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16961,
+  "EOS_Progressed": 16962,
   "EOS_Completed": 102,
   "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
@@ -11132,6 +11132,11 @@
       "Time": "2023-09-08T07:06:48.052178+00:00",
       "NumProgressed": 16961,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-08T09:05:02.8928071+00:00",
+      "NumProgressed": 16962,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -11143,7 +11148,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 4579
+      "UsersEstimate": 4580
     },
     {
       "ID": "Burning_For_You",
@@ -11239,7 +11244,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 8650
+      "UsersEstimate": 8651
     },
     {
       "ID": "Sole_Survivor",
@@ -11270,15 +11275,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16961,
+      "Progressed": 16962,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:05:25.6221806+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:05:02.8928061+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.9189104+00:00",
-  "LastUpdate_Ratings": "2023-09-08T08:01:31.8979272+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:05:25.6222587+00:00"
+  "LastUpdate_Ratings": "2023-09-08T09:00:40.1350261+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:05:02.8928855+00:00"
 }

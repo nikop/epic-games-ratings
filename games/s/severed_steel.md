@@ -5,22 +5,22 @@ Rating: 4.69 (Ranked 217)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~190,540 |
-| 50 HEADSHOTS | 27.00% | ~177,399 |
-| SCIENCE AND INDUSTRY | 26.00% | ~170,829 |
-| FINISHED CHAPTER 1 | 25.00% | ~164,258 |
-| FINISHED CHAPTER 2 | 18.00% | ~118,266 |
-| 200 HEADSHOTS | 16.00% | ~105,125 |
-| FINISHED CHAPTER 3 | 15.00% | ~98,555 |
-| FINISHED CHAPTER 4 | 13.00% | ~85,414 |
-| FINISH CHAPTER 5 | 11.00% | ~72,274 |
-| CATHARTIC ESCAPISM | 10.00% | ~65,703 |
-| FINISH CHAPTER 6 | 9.00% | ~59,133 |
-| 1000 KILLS | 8.00% | ~52,563 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,281 |
+| 100 KILLS | 29.00% | ~190,545 |
+| 50 HEADSHOTS | 27.00% | ~177,404 |
+| SCIENCE AND INDUSTRY | 26.00% | ~170,834 |
+| FINISHED CHAPTER 1 | 25.00% | ~164,263 |
+| FINISHED CHAPTER 2 | 18.00% | ~118,269 |
+| 200 HEADSHOTS | 16.00% | ~105,128 |
+| FINISHED CHAPTER 3 | 15.00% | ~98,558 |
+| FINISHED CHAPTER 4 | 13.00% | ~85,417 |
+| FINISH CHAPTER 5 | 11.00% | ~72,276 |
+| CATHARTIC ESCAPISM | 10.00% | ~65,705 |
+| FINISH CHAPTER 6 | 9.00% | ~59,135 |
+| 1000 KILLS | 8.00% | ~52,564 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,282 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,141 |
 | FIRST BLOOD | 2.00% | ~13,141 |
-| PACEMAKER | 1.00% | ~6,570 |
+| PACEMAKER | 1.00% | ~6,571 |
 | OUT OF ORDER | 0.90% | ~5,913 |
 | TIME PARADOX | 0.90% | ~5,913 |
 | FIREFIGHT LEVEL 30 | 0.80% | ~5,256 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 217)
 | THE GAMBLER | 0.10% | ~657 |
 | WARRIOR IN A GARDEN | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,034 (Ranked 25)  
+Progressed: 657,052 (Ranked 25)  
 Completed: 58 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 58 (0.01%) (Ranked 256)
 | 2023-09-05 | 655,823 | 58 |
 | 2023-09-06 | 656,347 | 58 |
 | 2023-09-07 | 656,872 | 58 |
-| 2023-09-08 | 657,034 | 58 |
+| 2023-09-08 | 657,052 | 58 |
 ## Awards
 Max (Great Boss Battles): 281  (Ranked 245)  
 Sum: 281 (Ranked 347)  

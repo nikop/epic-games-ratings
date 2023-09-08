@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15077,
+  "EOS_Progressed": 15079,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9750,6 +9750,11 @@
       "Time": "2023-09-08T04:07:55.3963363+00:00",
       "NumProgressed": 15077,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-08T09:04:39.6006203+00:00",
+      "NumProgressed": 15079,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9777,7 +9782,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "tpote_achievement_12",
@@ -9801,7 +9806,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     },
     {
       "ID": "tpote_achievement_15",
@@ -9833,7 +9838,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "tpote_achievement_19",
@@ -9849,7 +9854,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 4975
+      "UsersEstimate": 4976
     },
     {
       "ID": "tpote_achievement_20",
@@ -9865,7 +9870,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "tpote_achievement_22",
@@ -9873,7 +9878,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "tpote_achievement_23",
@@ -9889,7 +9894,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "tpote_achievement_25",
@@ -10049,7 +10054,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "tpote_achievement_6",
@@ -10057,7 +10062,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3619
     },
     {
       "ID": "tpote_achievement_7",
@@ -10065,7 +10070,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "tpote_achievement_8",
@@ -10081,22 +10086,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5277
+      "UsersEstimate": 5278
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15077,
+      "Progressed": 15079,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:04:42.3431429+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:04:39.6006199+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-08T08:02:46.3682023+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:04:42.3432436+00:00"
+  "LastUpdate_Ratings": "2023-09-08T09:02:22.3060167+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:04:39.6007117+00:00"
 }

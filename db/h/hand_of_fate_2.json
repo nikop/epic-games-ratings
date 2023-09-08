@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661901,
+  "EOS_Progressed": 661902,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14225,6 +14225,11 @@
       "Time": "2023-09-08T08:05:05.9568965+00:00",
       "NumProgressed": 661901,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-08T09:04:42.8697396+00:00",
+      "NumProgressed": 661902,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14500,7 +14505,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165475
+      "UsersEstimate": 165476
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -14619,15 +14624,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661901,
+      "Progressed": 661902,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-08T08:05:05.9568959+00:00",
+  "LastChanged_Achievements": "2023-09-08T09:04:42.8697391+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-08T07:59:33.6664605+00:00",
-  "LastUpdate_Achievements": "2023-09-08T08:05:05.9570207+00:00"
+  "LastUpdate_Ratings": "2023-09-08T08:58:55.2091702+00:00",
+  "LastUpdate_Achievements": "2023-09-08T09:04:42.8698639+00:00"
 }
