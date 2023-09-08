@@ -389,6 +389,7 @@
 | [Astronite](../games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 25 | 1,000 |
 | [Chants of Sennaar](../games/c/chants_of_sennaar.md) | 25 | 1,000 |
 | [Dinobreak](../games/5/59b1a57188fb429db7bf5afea8e70d88.md) | 25 | 1,000 |
+| [Eternights](../games/e/eternights.md) | 25 | 1,000 |
 | [MeteoHeroes Saving Planet Earth!](../games/m/meteoheroes_saving_planet_earth!.md) | 25 | 1,000 |
 | [My Fantastic Ranch: Unicorns & Dragons](../games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 25 | 1,000 |
 | [Poi](../games/p/poi.md) | 25 | 1,000 |

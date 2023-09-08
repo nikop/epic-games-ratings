@@ -207,6 +207,7 @@
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |
 | [Engine Evolution 2023](../games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 35 | 1,000 |
 | [Eternal Evil](../games/c/c188c5b560174a979ede32563e6e25e5.md) | 31 | 1,000 |
+| [Eternights](../games/e/eternights.md) | 25 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
 | [Eximius: Seize the Frontline](../games/e/eximius__seize_the_frontline.md) | 16 | 1,000 |
 | [Fabular: Once Upon a Spacetime](../games/f/fabular__once_upon_a_spacetime.md) | 8 | 1,000 |
