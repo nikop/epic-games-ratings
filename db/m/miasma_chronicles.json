@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1390,
+  "EOS_Progressed": 1391,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2946,6 +2946,11 @@
       "Time": "2023-09-08T18:06:41.7703765+00:00",
       "NumProgressed": 1390,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T19:05:08.133255+00:00",
+      "NumProgressed": 1391,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2965,7 +2970,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -2973,7 +2978,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3021,7 +3026,7 @@
       "Name": "Chaos Theory",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "COMMANDO",
@@ -3029,7 +3034,7 @@
       "Name": "Commando",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "CROAKED",
@@ -3037,7 +3042,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "CRUELTY",
@@ -3061,7 +3066,7 @@
       "Name": "Ganglord",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "DEAD_DICK",
@@ -3069,7 +3074,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -3077,7 +3082,7 @@
       "Name": "Jarhead",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -3101,7 +3106,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ENDGAME",
@@ -3109,7 +3114,7 @@
       "Name": "Endgame",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "EXORCIST",
@@ -3117,7 +3122,7 @@
       "Name": "Exorcist",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "EXPERIENCED",
@@ -3141,7 +3146,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1279
+      "UsersEstimate": 1280
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3165,7 +3170,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "GIANT_KILLER",
@@ -3189,7 +3194,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3237,7 +3242,7 @@
       "Name": "Newtonian Knockout",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "PUSHING_DAISY",
@@ -3261,7 +3266,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "RECYCLER",
@@ -3285,15 +3290,15 @@
       "Name": "Savior",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 598
     },
     {
       "ID": "SHADOW_BOXING",
@@ -3333,7 +3338,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -3364,7 +3369,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1390,
+      "Progressed": 1391,
       "Completed": 0
     }
   ],
@@ -3372,8 +3377,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-08T18:06:41.7703756+00:00",
+  "LastChanged_Achievements": "2023-09-08T19:05:08.1332543+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:54.3073965+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:01:01.4032845+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:06:41.7704402+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:59:21.7053395+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:05:08.1333162+00:00"
 }

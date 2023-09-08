@@ -28,6 +28,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~456 |
 | The Contagious Curse | 0.20% | ~456 |
 | Escort to Waterdeep | 0.20% | ~456 |
+| Waterdeep Detours | 0.20% | ~456 |
+| Underdeep Cartography | 0.20% | ~456 |
 | Friendly Imps | 0.20% | ~456 |
 | Pure Energy | 0.20% | ~456 |
 | Legends and Lore | 0.20% | ~388 |
@@ -407,11 +409,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.10% | ~228 |
 | Constant Banditry | 0.10% | ~228 |
 | The Long Haul | 0.10% | ~228 |
-| Waterdeep Detours | 0.10% | ~228 |
 | Lost in the Deep | 0.10% | ~228 |
 | Easily Distracted | 0.10% | ~228 |
 | Rude Welcome | 0.10% | ~228 |
-| Underdeep Cartography | 0.10% | ~228 |
 | Overdue Rendezvous | 0.10% | ~228 |
 | Moose Tracks | 0.10% | ~194 |
 | An Awakened Axe | 0.10% | ~194 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,950 (Ranked 54)  
-Completed: 2,262 (0.99%) (Ranked 124)  
+Progressed: 227,958 (Ranked 54)  
+Completed: 2,263 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -668,7 +668,7 @@ Completed: 2,262 (0.99%) (Ranked 124)
 | 2023-09-05 | 227,381 | 2,254 |
 | 2023-09-06 | 227,606 | 2,257 |
 | 2023-09-07 | 227,831 | 2,259 |
-| 2023-09-08 | 227,950 | 2,262 |
+| 2023-09-08 | 227,958 | 2,263 |
 ## Awards
 Max (Diverse Characters): 5,246  (Ranked 67)  
 Sum: 31,464 (Ranked 38)  

@@ -30,7 +30,7 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 423)  
+Progressed: 27 (Ranked 424)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1679,7 +1679,7 @@
   ],
   "EOS_Progressed": 13819,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11543,9 +11543,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -13533,8 +13533,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-05T13:03:36.9380214+00:00",
-  "LastChanged_Achievements": "2023-09-08T18:07:23.862735+00:00",
+  "LastChanged_Achievements": "2023-09-08T19:05:39.461988+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:00:35.3920744+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:07:23.8636762+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:59:04.3429907+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:05:39.4629791+00:00"
 }

@@ -84,7 +84,7 @@
 | Soviet town | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329 (Ranked 271)  
+Progressed: 330 (Ranked 271)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-08-28 | 325 | 0 |
 | 2023-08-30 | 326 | 0 |
 | 2023-09-02 | 329 | 0 |
+| 2023-09-08 | 330 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

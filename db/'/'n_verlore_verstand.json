@@ -4,7 +4,7 @@
   "ProductSlug": "n-verlore-verstand-1d7f5b",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -332,9 +332,9 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 81,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "28",
@@ -571,8 +571,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-09-08T18:06:26.9139171+00:00",
+  "LastChanged_Achievements": "2023-09-08T19:04:57.4725937+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:58.8328459+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:01:04.6170434+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:06:26.913961+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:59:23.4105423+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:04:57.4726366+00:00"
 }

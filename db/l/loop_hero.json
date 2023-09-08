@@ -3751,10 +3751,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 3796,
       "NumberOfAwardsMax": 448
+    },
+    {
+      "Time": "2023-09-08T18:56:56.7619596+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 3797,
+      "NumberOfAwardsMax": 448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3796,
+  "NumberOfAwards": 3797,
   "NumberOfAwardsMax": 448,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3798,7 +3804,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 369
+      "Count": 370
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3830,8 +3836,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2023-09-08T07:03:49.4527317+00:00",
+  "LastChanged": "2023-09-08T18:56:56.7619595+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:42.6939381+00:00",
-  "LastUpdate_Ratings": "2023-09-08T17:57:25.3826275+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:09:22.0388088+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:56:56.7619601+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:07:10.5854728+00:00"
 }

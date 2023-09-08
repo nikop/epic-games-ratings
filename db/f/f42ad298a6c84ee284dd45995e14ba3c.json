@@ -2,7 +2,7 @@
   "ID": "f42ad298a6c84ee284dd45995e14ba3c",
   "Name": "Raid Shadow Legends",
   "ProductSlug": "raid-shadow-legends-b70e14",
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 828,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 584,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2023-08-30T02:59:29.8015571+00:00",
@@ -74,6 +74,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-08T18:57:06.2646685+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -92,8 +98,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T13:57:09.0545259+00:00",
   "FirstSeenRating": "2023-08-30T02:59:29.8015569+00:00",
-  "LastChanged": "2023-09-07T22:57:03.6080998+00:00",
+  "LastChanged": "2023-09-08T18:57:06.2646683+00:00",
   "LastUpdate_AppInfo": "2023-09-07T13:01:58.7867475+00:00",
-  "LastUpdate_Ratings": "2023-09-08T17:57:38.5303416+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:09:39.9080456+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:57:06.2646692+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:07:23.1517734+00:00"
 }

@@ -6460,10 +6460,10 @@
       "Count": 3404
     }
   ],
-  "EOS_Progressed": 227950,
-  "EOS_Completed": 2262,
-  "EOS_NewPlayers": 1444,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 227958,
+  "EOS_Completed": 2263,
+  "EOS_NewPlayers": 1445,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -22050,6 +22050,11 @@
       "Time": "2023-09-08T18:08:52.0886336+00:00",
       "NumProgressed": 227950,
       "NumCompleted": 2262
+    },
+    {
+      "Time": "2023-09-08T19:06:40.8059765+00:00",
+      "NumProgressed": 227958,
+      "NumCompleted": 2263
     }
   ],
   "TotalAchievements": 520,
@@ -25235,9 +25240,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "objective_completed_75",
@@ -25267,9 +25272,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "objective_completed_8",
@@ -26220,21 +26225,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194224,
+      "Progressed": 194232,
       "Completed": 3411
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227950,
-      "Completed": 2262
+      "Progressed": 227958,
+      "Completed": 2263
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-08T18:00:29.7200343+00:00",
-  "LastChanged_Achievements": "2023-09-08T18:08:52.0886328+00:00",
+  "LastChanged_Achievements": "2023-09-08T19:06:40.8059758+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:00:29.7200352+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:08:52.0916853+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:59:02.2202283+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:06:40.8087514+00:00"
 }

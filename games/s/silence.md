@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 51.00% | ~57 |
+| Fire in the... nevermind | 52.00% | ~58 |
 | Chapter I | 50.00% | ~56 |
 | Haute cuisine | 46.00% | ~51 |
 | I didn't do it! | 41.00% | ~46 |

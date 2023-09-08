@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 588,
+  "EOS_Progressed": 589,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
@@ -1126,6 +1126,11 @@
       "Time": "2023-09-08T17:06:34.877208+00:00",
       "NumProgressed": 588,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-08T19:06:18.8929191+00:00",
+      "NumProgressed": 589,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -1178,7 +1183,7 @@
       "Name": "Congratulations, you\u0027re an engineer",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -1194,7 +1199,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "DustDancing",
@@ -1258,7 +1263,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "TerraTourGuide",
@@ -1288,23 +1293,23 @@
       "ID": "WelcomeToFortSolis",
       "SetID": "3ai6ml8",
       "Name": "Welcome to Fort Solis",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 529
+      "UsersEstimate": 524
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 588,
+      "Progressed": 589,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-08T18:08:19.9004763+00:00",
+  "LastChanged_Achievements": "2023-09-08T19:06:18.8929182+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.967565+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:03:10.5932516+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:08:19.9005027+00:00"
+  "LastUpdate_Ratings": "2023-09-08T19:00:47.2693782+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:06:18.892941+00:00"
 }

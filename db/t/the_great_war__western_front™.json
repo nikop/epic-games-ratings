@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -1892,9 +1892,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1933,8 +1933,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-09-08T18:09:18.5156814+00:00",
+  "LastChanged_Achievements": "2023-09-08T19:07:08.2216448+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:08.7972029+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:01:19.4386581+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:09:18.5157087+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:59:33.9329453+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:07:08.2216656+00:00"
 }

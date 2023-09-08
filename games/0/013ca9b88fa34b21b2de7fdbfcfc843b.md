@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 44.00% | ~52 |
-| A Thorny Situation | 35.00% | ~42 |
-| Break-Net Speed | 24.00% | ~29 |
-| ... And Spit Back Out | 19.00% | ~23 |
-| Bramble Breaker | 15.00% | ~18 |
-| Calm Sailing | 13.00% | ~15 |
-| Chatty Neighbor | 11.00% | ~13 |
-| Open the Gate! | 10.00% | ~12 |
-| Right Tool For the Job | 10.00% | ~12 |
-| Clear the Air | 9.00% | ~11 |
-| Mist Walker | 9.00% | ~11 |
+| Azoria Beckons | 57.00% | ~72 |
+| A Thorny Situation | 46.00% | ~58 |
+| Break-Net Speed | 33.00% | ~42 |
+| ... And Spit Back Out | 25.00% | ~32 |
+| Bramble Breaker | 16.00% | ~20 |
+| Calm Sailing | 12.00% | ~15 |
+| Open the Gate! | 10.00% | ~13 |
+| Chatty Neighbor | 10.00% | ~13 |
+| Right Tool For the Job | 10.00% | ~13 |
 | Captain of Cozy | 9.00% | ~11 |
-| Search for the Hairy Grell | 7.00% | ~8 |
-| Lumberjack | 7.00% | ~8 |
-| Azorian Anniversary | 7.00% | ~8 |
-| House Proud | 7.00% | ~8 |
-| Humble Collector | 6.00% | ~7 |
-| Higher Tax Bracket | 6.00% | ~7 |
-| Skilled | 6.00% | ~7 |
+| Clear the Air | 8.00% | ~10 |
+| Humble Collector | 8.00% | ~10 |
+| Mist Walker | 8.00% | ~10 |
+| Search for the Hairy Grell | 6.00% | ~8 |
+| Lumberjack | 6.00% | ~8 |
+| Higher Tax Bracket | 6.00% | ~8 |
+| Azorian Anniversary | 6.00% | ~8 |
+| House Proud | 6.00% | ~8 |
+| Skilled | 6.00% | ~8 |
 | Flaming Hot Completos | 4.00% | ~5 |
 | Fae Farmer | 4.00% | ~5 |
 | Miner 49er | 4.00% | ~5 |
-| Beach Comber | 3.00% | ~4 |
-| Fanatical Farmer | 3.00% | ~4 |
 | Oui, Chef! | 3.00% | ~4 |
-| Botanical Breakthrough | 3.00% | ~4 |
-| Scattered Scroll Scrounger | 2.00% | ~2 |
-| I Now Pronounce You... | 2.00% | ~2 |
-| Cloverfield Island | 0.90% | ~1 |
-| Got to Catch Them All | 0.90% | ~1 |
-| Workaholic | 0.90% | ~1 |
-| Giving the People What They Want | 0.90% | ~1 |
-| Rumble in the Jumble | 0.90% | ~1 |
-| Very Skilled | 0.90% | ~1 |
+| Beach Comber | 2.00% | ~3 |
+| Scattered Scroll Scrounger | 2.00% | ~3 |
+| Fanatical Farmer | 2.00% | ~3 |
+| I Now Pronounce You... | 2.00% | ~3 |
+| Botanical Breakthrough | 2.00% | ~3 |
+| Cloverfield Island | 0.80% | ~1 |
+| Got to Catch Them All | 0.80% | ~1 |
+| Workaholic | 0.80% | ~1 |
+| Giving the People What They Want | 0.80% | ~1 |
+| Rumble in the Jumble | 0.80% | ~1 |
+| Very Skilled | 0.80% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 333)  
+Progressed: 127 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-08-29 | 19 | 0 |
 | 2023-09-01 | 22 | 0 |
 | 2023-09-06 | 29 | 0 |
-| 2023-09-08 | 119 | 0 |
+| 2023-09-08 | 127 | 0 |

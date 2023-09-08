@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.59 (Ranked 416)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,10 +9,10 @@ Rating: 4.58 (Ranked 430)
 | Mainframe Hacker | 23.00% | ~4,120 |
 | The Spy who eliminated me | 23.00% | ~4,120 |
 | Tomorrow Never Dyes | 22.00% | ~3,941 |
-| Never Say Loser Again | 19.00% | ~3,403 |
-| From the Vault with Love | 18.00% | ~3,224 |
-| Tailor-Made | 18.00% | ~3,224 |
-| For your Eyes only | 18.00% | ~3,224 |
+| Never Say Loser Again | 19.00% | ~3,404 |
+| From the Vault with Love | 18.00% | ~3,225 |
+| Tailor-Made | 18.00% | ~3,225 |
+| For your Eyes only | 18.00% | ~3,225 |
 | Assistant Accountant | 17.00% | ~3,045 |
 | You Only Live Twice | 16.00% | ~2,866 |
 | Fully Decked Out | 16.00% | ~2,866 |
@@ -20,10 +20,10 @@ Rating: 4.58 (Ranked 430)
 | Private Collection | 12.00% | ~2,150 |
 | Hostile Takeover | 12.00% | ~2,150 |
 | Smells Like Trouble | 12.00% | ~2,150 |
-| Dr. No Kill | 11.00% | ~1,970 |
-| The Living Portrait | 11.00% | ~1,970 |
-| My Motto, My Creed | 11.00% | ~1,970 |
-| Killer Looks | 11.00% | ~1,970 |
+| Dr. No Kill | 11.00% | ~1,971 |
+| The Living Portrait | 11.00% | ~1,971 |
+| My Motto, My Creed | 11.00% | ~1,971 |
+| Killer Looks | 11.00% | ~1,971 |
 | Keycards Royale | 10.00% | ~1,791 |
 | In It to Win It | 9.00% | ~1,612 |
 | Security Supervisor | 6.00% | ~1,075 |
@@ -42,7 +42,7 @@ Rating: 4.58 (Ranked 430)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,913 (Ranked 112)  
+Progressed: 17,914 (Ranked 112)  
 Completed: 1 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-09-05 | 17,876 | 1 |
 | 2023-09-06 | 17,887 | 1 |
 | 2023-09-07 | 17,903 | 1 |
-| 2023-09-08 | 17,913 | 1 |
+| 2023-09-08 | 17,914 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -220,3 +220,4 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-08-12 | 4.58 | 0 | 0 |
 | 2023-08-27 | 4.57 | 0 | 0 |
 | 2023-08-31 | 4.58 | 0 | 0 |
+| 2023-09-08 | 4.59 | 0 | 0 |

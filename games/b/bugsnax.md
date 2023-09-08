@@ -6,20 +6,20 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,395 |
-| Gone Home | 93.00% | ~26,265 |
+| Everybody Gets One | 97.00% | ~27,396 |
+| Gone Home | 93.00% | ~26,266 |
 | Wonderfalls | 87.00% | ~24,571 |
-| Got to Catch a Few | 77.00% | ~21,746 |
+| Got to Catch a Few | 77.00% | ~21,747 |
 | Double Trapper | 75.00% | ~21,182 |
-| I'm Stuffed | 69.00% | ~19,487 |
+| I'm Stuffed | 69.00% | ~19,488 |
 | Got to Catch a Lot | 66.00% | ~18,640 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,228 |
 | In the Arms of the Gramble | 59.00% | ~16,663 |
 | Know Thy Neighbor | 59.00% | ~16,663 |
 | Launch Party | 56.00% | ~15,816 |
 | Perf Dirt | 56.00% | ~15,816 |
-| Vacation's End | 53.00% | ~14,968 |
-| Bossy Bugs | 46.00% | ~12,991 |
+| Vacation's End | 53.00% | ~14,969 |
+| Bossy Bugs | 46.00% | ~12,992 |
 | Survivor | 45.00% | ~12,709 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,144 |
 | Sidetracked | 40.00% | ~11,297 |
@@ -27,7 +27,7 @@ Number of Ratings: 425  (23.09.2022)
 | Combo Meal | 38.00% | ~10,732 |
 | Midnight Snak | 36.00% | ~10,167 |
 | Candid Cryptid | 35.00% | ~9,885 |
-| Got to Catch Them All | 32.00% | ~9,037 |
+| Got to Catch Them All | 32.00% | ~9,038 |
 | Deep Impact | 23.00% | ~6,496 |
 | Grab Bag | 23.00% | ~6,496 |
 | Feeding Frenzy | 18.00% | ~5,084 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,259 |
 | Dapper Capper | 7.00% | ~1,977 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,242 (Ranked 102)  
+Progressed: 28,243 (Ranked 102)  
 Completed: 1,342 (4.75%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 1,342 (4.75%) (Ranked 56)
 | 2023-09-05 | 28,238 | 1,341 |
 | 2023-09-06 | 28,239 | 1,342 |
 | 2023-09-07 | 28,240 | 1,342 |
-| 2023-09-08 | 28,242 | 1,342 |
+| 2023-09-08 | 28,243 | 1,342 |
 ## Awards
 Max (Amazing Storytelling): 39  (Ranked 428)  
 Sum: 336 (Ranked 334)  

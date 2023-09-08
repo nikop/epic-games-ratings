@@ -7,7 +7,7 @@ Rating: 4.68 (Ranked 241)
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 66.00% | ~413 |
 | Read Between The Lines | 65.00% | ~407 |
-| High Profile | 59.00% | ~369 |
+| High Profile | 60.00% | ~376 |
 | Whispers In The Dark | 58.00% | ~363 |
 | Fond Memories | 55.00% | ~344 |
 | A Method To His Madness | 54.00% | ~338 |
@@ -17,9 +17,9 @@ Rating: 4.68 (Ranked 241)
 | Sticky Fingers | 49.00% | ~307 |
 | Knives Out | 49.00% | ~307 |
 | Gaze Into The Abyss | 48.00% | ~300 |
+| Back In The Saddle | 48.00% | ~300 |
 | Land, Ho! | 48.00% | ~300 |
 | Lock, Stock, And Barrel | 47.00% | ~294 |
-| Back In The Saddle | 47.00% | ~294 |
 | No Man Is An Island | 47.00% | ~294 |
 | At Wits' End | 46.00% | ~288 |
 | Fhtagn! | 45.00% | ~282 |

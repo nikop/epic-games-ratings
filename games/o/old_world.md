@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 1.00% | ~138 |
 | Phalangite | 1.00% | ~138 |
 | Points Victory | 1.00% | ~138 |
+| Capable | 0.90% | ~124 |
 | Invincible | 0.90% | ~124 |
 | Subjugator | 0.90% | ~124 |
 | Circus Maximus | 0.90% | ~124 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.90% | ~124 |
 | Double Victory | 0.90% | ~124 |
 | Win a Single Player Game | 0.90% | ~124 |
-| Capable | 0.80% | ~111 |
 | Devout | 0.80% | ~111 |
 | Ready | 0.80% | ~111 |
 | Landowners | 0.80% | ~111 |

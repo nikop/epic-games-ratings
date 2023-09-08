@@ -1,12 +1,12 @@
 # CRSED: F.O.A.D.
 [Store](https://store.epicgames.com/en-US/p/crsed-f-o-a-d)  
 [View Rawdata](../../db/c/crsed__f.o.a.d..json)  
-Rating: 4.36 (Ranked 748)  
+Rating: 4.36 (Ranked 747)  
 Number of Ratings: 464  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 97  (Ranked 341)  
-Sum: 639 (Ranked 291)  
-Diff (max vs sum): 50  
+Sum: 639 (Ranked 292)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 97 |

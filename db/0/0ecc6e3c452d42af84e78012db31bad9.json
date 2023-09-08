@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2865,
+  "EOS_Progressed": 2866,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -5931,6 +5931,11 @@
       "Time": "2023-09-08T18:07:12.2362498+00:00",
       "NumProgressed": 2865,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-09-08T19:05:30.4425333+00:00",
+      "NumProgressed": 2866,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 16,
@@ -5974,7 +5979,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "ach_architecture_completed",
@@ -5990,7 +5995,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "ach_bomb",
@@ -6038,7 +6043,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ach_magic_wand",
@@ -6060,23 +6065,23 @@
       "ID": "ach_tornado",
       "SetID": "3h4khpo",
       "Name": "Aeolus",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 802
+      "UsersEstimate": 774
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2865,
+      "Progressed": 2866,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-08T18:07:12.2362491+00:00",
+  "LastChanged_Achievements": "2023-09-08T19:05:30.4425325+00:00",
   "LastUpdate_AppInfo": "2023-09-08T13:56:57.5015536+00:00",
-  "LastUpdate_Ratings": "2023-09-08T17:58:53.9233447+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:07:12.236319+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:57:55.2478133+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:05:30.4425868+00:00"
 }

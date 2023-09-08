@@ -41,7 +41,7 @@
 | Mysterious voice | 47.00% | ~150 |
 | Guiding on the right path | 47.00% | ~150 |
 | No blades in the gym | 46.00% | ~147 |
-| Champion – no way back | 43.00% | ~137 |
+| Champion – no way back | 44.00% | ~140 |
 | Responsible approach | 42.00% | ~134 |
 | Deal with life | 41.00% | ~131 |
 | Underground dwellers | 41.00% | ~131 |
@@ -53,8 +53,8 @@
 | Seashell hunter | 38.00% | ~121 |
 | Gang wrangler | 37.00% | ~118 |
 | Your own way | 36.00% | ~115 |
+| Problems of cyborgs | 35.00% | ~112 |
 | Undercover robot | 35.00% | ~112 |
-| Problems of cyborgs | 34.00% | ~108 |
 | Not little hacker | 34.00% | ~108 |
 | Absolute Champion! | 34.00% | ~108 |
 | Anyone can resist | 34.00% | ~108 |

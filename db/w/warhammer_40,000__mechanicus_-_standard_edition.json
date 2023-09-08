@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -615,9 +615,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 222164,
+  "EOS_Progressed": 222167,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15965,6 +15965,11 @@
       "Time": "2023-09-08T18:08:43.0417216+00:00",
       "NumProgressed": 222164,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T19:06:34.2761208+00:00",
+      "NumProgressed": 222167,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -15976,7 +15981,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42211
+      "UsersEstimate": 42212
     },
     {
       "ID": "ACH_BASE_10",
@@ -15992,7 +15997,7 @@
       "Name": "False God",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_BASE_12",
@@ -16247,7 +16252,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 222164,
+      "Progressed": 222167,
       "Completed": 5
     }
   ],
@@ -16255,8 +16260,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-09-08T18:01:12.427473+00:00",
-  "LastChanged_Achievements": "2023-09-08T18:08:43.041721+00:00",
+  "LastChanged_Achievements": "2023-09-08T19:06:34.2761201+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:01.6485466+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:01:12.4274736+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:08:43.0419268+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:59:27.569475+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:06:34.2762413+00:00"
 }

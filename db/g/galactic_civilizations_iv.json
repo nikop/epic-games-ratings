@@ -882,7 +882,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6575,
+  "EOS_Progressed": 6576,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -5897,6 +5897,11 @@
       "Time": "2023-09-08T17:04:19.9813081+00:00",
       "NumProgressed": 6575,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T19:03:53.0691946+00:00",
+      "NumProgressed": 6576,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -5940,7 +5945,7 @@
       "Name": "Commodity Trader",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -5948,7 +5953,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4143
     },
     {
       "ID": "Control_All_Relics",
@@ -5996,7 +6001,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -6012,7 +6017,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "First_Race_Met",
@@ -6044,7 +6049,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5128
+      "UsersEstimate": 5129
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6228,7 +6233,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4076
+      "UsersEstimate": 4077
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6396,7 +6401,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4405
+      "UsersEstimate": 4406
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6420,7 +6425,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "Win_Diplomacy",
@@ -6483,15 +6488,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6575,
+      "Progressed": 6576,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-06T05:58:56.044263+00:00",
-  "LastChanged_Achievements": "2023-09-08T18:05:10.7356895+00:00",
+  "LastChanged_Achievements": "2023-09-08T19:03:53.0691936+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:32.74218+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:00:13.8533913+00:00",
-  "LastUpdate_Achievements": "2023-09-08T18:05:10.7358222+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:58:51.1881046+00:00",
+  "LastUpdate_Achievements": "2023-09-08T19:03:53.069304+00:00"
 }

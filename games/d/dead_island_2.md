@@ -19,14 +19,14 @@ Rating: 4.54 (Ranked 505)
 | Personal Assistant Personally Assisted | 1.00% | ~6,758 |
 | This is My Weapon | 1.00% | ~6,758 |
 | Welcome To Hell-A | 1.00% | ~6,758 |
-| Slayer Squad | 0.90% | ~6,082 |
-| Can't Handle the Truth | 0.90% | ~6,082 |
-| Like Riding a Bike | 0.90% | ~6,082 |
-| Zombologist | 0.90% | ~6,082 |
-| A Patton Emerges | 0.90% | ~6,082 |
-| Ooh, Shiny! | 0.80% | ~5,406 |
-| I Am the Resurrection | 0.80% | ~5,406 |
-| Our True Nature | 0.80% | ~5,406 |
+| Slayer Squad | 0.90% | ~6,083 |
+| Can't Handle the Truth | 0.90% | ~6,083 |
+| Like Riding a Bike | 0.90% | ~6,083 |
+| Zombologist | 0.90% | ~6,083 |
+| A Patton Emerges | 0.90% | ~6,083 |
+| Ooh, Shiny! | 0.80% | ~5,407 |
+| I Am the Resurrection | 0.80% | ~5,407 |
+| Our True Nature | 0.80% | ~5,407 |
 | Anger Management | 0.70% | ~4,731 |
 | Perks of the Job | 0.70% | ~4,731 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,731 |
@@ -37,11 +37,11 @@ Rating: 4.54 (Ranked 505)
 | Jumbo Keyring | 0.40% | ~2,703 |
 | Go, Bobcats! | 0.40% | ~2,703 |
 | Rising Star | 0.40% | ~2,703 |
-| On Safari | 0.30% | ~2,027 |
-| Smorgasbord | 0.30% | ~2,027 |
-| Not Even My Final Form | 0.30% | ~2,027 |
-| Internet Famous | 0.30% | ~2,027 |
-| Variety is the Spice of Death | 0.30% | ~2,027 |
+| On Safari | 0.30% | ~2,028 |
+| Smorgasbord | 0.30% | ~2,028 |
+| Not Even My Final Form | 0.30% | ~2,028 |
+| Internet Famous | 0.30% | ~2,028 |
+| Variety is the Spice of Death | 0.30% | ~2,028 |
 | Make it So | 0.20% | ~1,352 |
 | LA Influential | 0.20% | ~1,352 |
 | Sole Survivor | 0.20% | ~1,352 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,807 (Ranked 22)  
+Progressed: 675,843 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2,121 (0.31%) (Ranked 177)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,807 | 2,121 |
+| 2023-09-08 | 675,843 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
 Sum: 8,785 (Ranked 95)  
