@@ -129,7 +129,7 @@
 | 118 | [Quake](games/q/quake.md) | 4.76 | 49 | 407 |
 | 118 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,454 | 125 |
 | 118 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 517 |
-| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,356 | 36 |
+| 118 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,374 | 36 |
 | 118 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 517 |
 | 118 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.76 | 100 | 337 |
 | 118 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 45 | 414 |
@@ -385,7 +385,7 @@
 | 367 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 685 | 170 |
 | 367 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 106 | 332 |
 | 367 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 498 | 201 |
-| 367 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,965 | 37 |
+| 367 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,977 | 37 |
 | 367 | [RiME](games/r/rime.md) | 4.61 | 0 | 517 |
 | 367 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,077 | 138 |
 | 367 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 282 | 241 |
@@ -504,7 +504,7 @@
 | 489 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 346 | 227 |
 | 489 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 363 |
 | 489 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,260 | 134 |
-| 505 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,416 | 128 |
+| 505 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,418 | 128 |
 | 505 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,945 | 59 |
 | 505 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 444 |
 | 505 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
@@ -955,7 +955,7 @@
 | 952 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 3.97 | 0 | 517 |
 | 954 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 414 |
 | 954 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.95 | 0 | 517 |
-| 956 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 417 | 212 |
+| 956 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 418 | 212 |
 | 956 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 517 |
 | 956 | [Patron](games/p/patron.md) | 3.94 | 0 | 517 |
 | 959 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 466 |
