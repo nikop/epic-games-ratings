@@ -2698,9 +2698,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 74925,
+  "EOS_Progressed": 74926,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 854,
+  "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -18143,6 +18143,11 @@
       "Time": "2023-09-08T03:14:07.8877101+00:00",
       "NumProgressed": 74925,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-09-08T04:08:34.2792482+00:00",
+      "NumProgressed": 74926,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 30,
@@ -18186,7 +18191,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 13486
+      "UsersEstimate": 13487
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -18234,7 +18239,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 27722
+      "UsersEstimate": 27723
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -18258,7 +18263,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7492
+      "UsersEstimate": 7493
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -18290,7 +18295,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 19480
+      "UsersEstimate": 19481
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -18330,7 +18335,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 27722
+      "UsersEstimate": 27723
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -18338,7 +18343,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13486
+      "UsersEstimate": 13487
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -18362,7 +18367,7 @@
       "Name": "Ultimate success",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7492
+      "UsersEstimate": 7493
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -18393,15 +18398,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 74925,
+      "Progressed": 74926,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-06T15:00:09.5275323+00:00",
-  "LastChanged_Achievements": "2023-09-08T03:14:07.8877096+00:00",
+  "LastChanged_Achievements": "2023-09-08T04:08:34.2792465+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0373499+00:00",
-  "LastUpdate_Ratings": "2023-09-08T03:04:48.0352816+00:00",
-  "LastUpdate_Achievements": "2023-09-08T03:14:07.8878305+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:01:56.5576866+00:00",
+  "LastUpdate_Achievements": "2023-09-08T04:08:34.279373+00:00"
 }

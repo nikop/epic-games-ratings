@@ -5,42 +5,42 @@ Rating: 4.40 (Ranked 712)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~93,127 |
-| 74 miles East of Otaheité | 55.00% | ~64,835 |
-| Interesting... | 42.00% | ~49,510 |
-| The Everhart Expedition | 39.00% | ~45,974 |
+| A Family Heirloom | 79.00% | ~93,128 |
+| 74 miles East of Otaheité | 55.00% | ~64,836 |
+| Interesting... | 42.00% | ~49,511 |
+| The Everhart Expedition | 39.00% | ~45,975 |
 | The Vanishing of the Lady Shannon | 30.00% | ~35,365 |
 | Seaside Serenade | 30.00% | ~35,365 |
 | Halfway there | 29.00% | ~34,186 |
-| A brigantine, a brig and a barque | 28.00% | ~33,007 |
-| 506 East Hampden Avenue | 28.00% | ~33,007 |
-| Weekend at Walakea's | 27.00% | ~31,828 |
-| Quite a Show | 27.00% | ~31,828 |
+| A brigantine, a brig and a barque | 28.00% | ~33,008 |
+| 506 East Hampden Avenue | 28.00% | ~33,008 |
+| Weekend at Walakea's | 27.00% | ~31,829 |
+| Quite a Show | 27.00% | ~31,829 |
 | Dark Water Ride | 24.00% | ~28,292 |
 | Sunken | 24.00% | ~28,292 |
 | Deep Cut | 24.00% | ~28,292 |
 | FHALGOF'N' | 22.00% | ~25,934 |
-| Marsh Cannery | 21.00% | ~24,755 |
+| Marsh Cannery | 21.00% | ~24,756 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~20,040 |
 | The only thing I have now | 16.00% | ~18,861 |
-| Not Another Boring Slideshow! | 15.00% | ~17,682 |
-| Naacalvision | 15.00% | ~17,682 |
-| I'll make a note of that... | 9.00% | ~10,609 |
-| The Norahnomicon | 9.00% | ~10,609 |
+| Not Another Boring Slideshow! | 15.00% | ~17,683 |
+| Naacalvision | 15.00% | ~17,683 |
+| I'll make a note of that... | 9.00% | ~10,610 |
+| The Norahnomicon | 9.00% | ~10,610 |
 | Play it again, Norah | 7.00% | ~8,252 |
 | Written in Stone | 6.00% | ~7,073 |
 | Underwater Royalty | 6.00% | ~7,073 |
 | Fawning Developers | 5.00% | ~5,894 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~4,715 |
 | Candid Photo | 4.00% | ~4,715 |
-| The Lady Shannon Recording | 3.00% | ~3,536 |
-| Otherwordly Portal | 3.00% | ~3,536 |
+| The Lady Shannon Recording | 3.00% | ~3,537 |
+| Otherwordly Portal | 3.00% | ~3,537 |
 | You looked that up in a guide! | 2.00% | ~2,358 |
 | Soundcheck | 2.00% | ~2,358 |
 | Gently down the stream... | 1.00% | ~1,179 |
 | Meta-reference | 1.00% | ~1,179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,882 (Ranked 70)  
+Progressed: 117,884 (Ranked 70)  
 Completed: 953 (0.81%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 953 (0.81%) (Ranked 130)
 | 2023-09-05 | 117,538 | 951 |
 | 2023-09-06 | 117,671 | 952 |
 | 2023-09-07 | 117,862 | 953 |
-| 2023-09-08 | 117,882 | 953 |
+| 2023-09-08 | 117,884 | 953 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,35 +5,35 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~15,881 |
-| The Killing Jar | 8.00% | ~14,116 |
-| Not Your Average Trait | 8.00% | ~14,116 |
-| Expanding Horizons | 7.00% | ~12,352 |
-| Quest for Survival | 7.00% | ~12,352 |
-| Boss'n Up | 7.00% | ~12,352 |
-| Trait Chaser | 7.00% | ~12,352 |
-| Gleaming the Cube | 6.00% | ~10,587 |
-| Not a Janitor | 6.00% | ~10,587 |
-| Familiar Face | 6.00% | ~10,587 |
-| Blue Goddess | 6.00% | ~10,587 |
-| Duality | 6.00% | ~10,587 |
-| Top Performer | 6.00% | ~10,587 |
-| Good, But Could Be Better! | 6.00% | ~10,587 |
+| First of Many | 9.00% | ~15,882 |
+| The Killing Jar | 8.00% | ~14,117 |
+| Not Your Average Trait | 8.00% | ~14,117 |
+| Expanding Horizons | 7.00% | ~12,353 |
+| Quest for Survival | 7.00% | ~12,353 |
+| Boss'n Up | 7.00% | ~12,353 |
+| Trait Chaser | 7.00% | ~12,353 |
+| Gleaming the Cube | 6.00% | ~10,588 |
+| Not a Janitor | 6.00% | ~10,588 |
+| Familiar Face | 6.00% | ~10,588 |
+| Blue Goddess | 6.00% | ~10,588 |
+| Duality | 6.00% | ~10,588 |
+| Top Performer | 6.00% | ~10,588 |
+| Good, But Could Be Better! | 6.00% | ~10,588 |
 | Not So Special Now | 5.00% | ~8,823 |
 | Equal Measures | 5.00% | ~8,823 |
 | Shhh...It's a Secret | 5.00% | ~8,823 |
 | Almost There | 5.00% | ~8,823 |
 | Make Some Room | 5.00% | ~8,823 |
-| Chaos | 4.00% | ~7,058 |
-| Traitor | 4.00% | ~7,058 |
-| Power Surge | 4.00% | ~7,058 |
-| The God Gambit | 4.00% | ~7,058 |
-| Dark Designs | 4.00% | ~7,058 |
-| Madman's Paradise | 4.00% | ~7,058 |
-| Was This Supposed To Happen? | 4.00% | ~7,058 |
-| The Web | 4.00% | ~7,058 |
-| Scrap Collector | 4.00% | ~7,058 |
-| All These Traits� | 4.00% | ~7,058 |
+| Chaos | 4.00% | ~7,059 |
+| Traitor | 4.00% | ~7,059 |
+| Power Surge | 4.00% | ~7,059 |
+| The God Gambit | 4.00% | ~7,059 |
+| Dark Designs | 4.00% | ~7,059 |
+| Madman's Paradise | 4.00% | ~7,059 |
+| Was This Supposed To Happen? | 4.00% | ~7,059 |
+| The Web | 4.00% | ~7,059 |
+| Scrap Collector | 4.00% | ~7,059 |
+| All These Traits� | 4.00% | ~7,059 |
 | Forever is a Long Time Coming | 3.00% | ~5,294 |
 | The Agenda | 3.00% | ~5,294 |
 | Tall Tales | 3.00% | ~5,294 |
@@ -56,8 +56,8 @@ Rating: 4.76 (Ranked 118)
 | Proving Grounds | 0.90% | ~1,588 |
 | Ghost in the Machine | 0.80% | ~1,412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176,451 (Ranked 63)  
-Completed: 236 (0.13%) (Ranked 208)  
+Progressed: 176,468 (Ranked 63)  
+Completed: 237 (0.13%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,10 +110,10 @@ Completed: 236 (0.13%) (Ranked 208)
 | 2023-09-05 | 175,165 | 220 |
 | 2023-09-06 | 175,761 | 226 |
 | 2023-09-07 | 176,378 | 231 |
-| 2023-09-08 | 176,451 | 236 |
+| 2023-09-08 | 176,468 | 237 |
 ## Awards
 Max (Great Boss Battles): 1,454  (Ranked 125)  
-Sum: 2,752 (Ranked 173)  
+Sum: 2,758 (Ranked 173)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
@@ -124,8 +124,8 @@ Diff (max vs sum): -48
 | This game has Challenging Combat | 140 |
 | This game has Diverse Characters | 137 |
 | This game has Amazing Characters | 132 |
+| This game has Quickly Understood Controls | 125 |
 | This game has Amazing Storytelling | 120 |
-| This game has Quickly Understood Controls | 119 |
 | This game has Unique Visuals | 114 |
 | This game has a Creative Community | 106 |
 ## Ratings History
@@ -175,4 +175,4 @@ Diff (max vs sum): -48
 | 2023-09-05 | 4.76 | 1,422 | 2,654 |
 | 2023-09-06 | 4.76 | 1,432 | 2,692 |
 | 2023-09-07 | 4.76 | 1,454 | 2,744 |
-| 2023-09-08 | 4.76 | 1,454 | 2,752 |
+| 2023-09-08 | 4.76 | 1,454 | 2,758 |

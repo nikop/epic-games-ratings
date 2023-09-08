@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~717,598 |
-| The Blues | 85.00% | ~616,119 |
-| Fast | 66.00% | ~478,398 |
-| Healthbar | 55.00% | ~398,665 |
-| Force Cube | 53.00% | ~384,168 |
-| Double Jump | 48.00% | ~347,926 |
-| Regeneration | 47.00% | ~340,678 |
-| Triple Jump | 43.00% | ~311,684 |
-| Climb the hill | 42.00% | ~304,435 |
-| Through the fire pipe | 39.00% | ~282,690 |
-| MacGuffin | 38.00% | ~275,441 |
-| Just once | 37.00% | ~268,193 |
+| Out of bed | 99.00% | ~717,600 |
+| The Blues | 85.00% | ~616,121 |
+| Fast | 66.00% | ~478,400 |
+| Healthbar | 55.00% | ~398,666 |
+| Force Cube | 53.00% | ~384,169 |
+| Double Jump | 48.00% | ~347,927 |
+| Regeneration | 47.00% | ~340,679 |
+| Triple Jump | 43.00% | ~311,685 |
+| Climb the hill | 42.00% | ~304,436 |
+| Through the fire pipe | 39.00% | ~282,691 |
+| MacGuffin | 38.00% | ~275,442 |
+| Just once | 37.00% | ~268,194 |
 | Armor | 30.00% | ~217,454 |
 | True holy spirit | 28.00% | ~202,957 |
 | That's how electronics work obviously | 26.00% | ~188,460 |
@@ -26,12 +26,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | Telefrag | 23.00% | ~166,715 |
 | Freed from prison | 21.00% | ~152,218 |
 | Stomp | 21.00% | ~152,218 |
-| Double Health | 18.00% | ~130,472 |
+| Double Health | 18.00% | ~130,473 |
 | Buckle | 17.00% | ~123,224 |
 | Green Keycard | 17.00% | ~123,224 |
 | All Shells | 15.00% | ~108,727 |
 | Rattle Hag | 15.00% | ~108,727 |
-| Beam | 14.00% | ~101,478 |
+| Beam | 14.00% | ~101,479 |
 | Health Drink | 13.00% | ~94,230 |
 | 9 | 13.00% | ~94,230 |
 | Purple Cube | 13.00% | ~94,230 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~725 |
 | DLC: Top of the world | 0.10% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,846 (Ranked 19)  
+Progressed: 724,848 (Ranked 19)  
 Completed: 731 (0.10%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 731 (0.10%) (Ranked 217)
 | 2023-09-05 | 724,597 | 731 |
 | 2023-09-06 | 724,704 | 731 |
 | 2023-09-07 | 724,833 | 731 |
-| 2023-09-08 | 724,846 | 731 |
+| 2023-09-08 | 724,848 | 731 |
 ## Awards
 Max (Challenging Puzzles): 7,683  (Ranked 45)  
 Sum: 10,010 (Ranked 86)  

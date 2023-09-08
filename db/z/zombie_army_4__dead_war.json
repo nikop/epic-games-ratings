@@ -2007,9 +2007,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43383,
+  "EOS_Progressed": 43384,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6507,6 +6507,11 @@
       "Time": "2023-09-08T03:14:53.3780748+00:00",
       "NumProgressed": 43383,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-08T04:09:07.1474592+00:00",
+      "NumProgressed": 43384,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -6574,7 +6579,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12147
+      "UsersEstimate": 12148
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -6598,7 +6603,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -6622,7 +6627,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16919
+      "UsersEstimate": 16920
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -6630,7 +6635,7 @@
       "Name": "People don\u0027t change. We go round in circles",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "SE_COMPLETE_HELLBASE",
@@ -6662,7 +6667,7 @@
       "Name": "The blighters got through a second time.",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_HELLBASE",
@@ -6710,7 +6715,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26897
+      "UsersEstimate": 26898
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -6726,7 +6731,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14750
+      "UsersEstimate": 14751
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -6846,7 +6851,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29934
+      "UsersEstimate": 29935
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -6870,7 +6875,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19956
+      "UsersEstimate": 19957
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -6878,7 +6883,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24728
+      "UsersEstimate": 24729
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -6902,7 +6907,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11713
+      "UsersEstimate": 11714
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -6958,7 +6963,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14750
+      "UsersEstimate": 14751
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -6974,7 +6979,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28199
+      "UsersEstimate": 28200
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -6990,7 +6995,7 @@
       "Name": "I\u0027m a survivor!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "SE_REACH_WAVE_X_WITH_PISTOL",
@@ -7022,7 +7027,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6507
+      "UsersEstimate": 6508
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -7045,15 +7050,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43383,
+      "Progressed": 43384,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-04T16:01:48.5011981+00:00",
-  "LastChanged_Achievements": "2023-09-08T03:14:53.3780741+00:00",
+  "LastChanged_Achievements": "2023-09-08T04:09:07.1474584+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:49.8826842+00:00",
-  "LastUpdate_Ratings": "2023-09-08T02:57:41.3508595+00:00",
-  "LastUpdate_Achievements": "2023-09-08T03:14:53.3782299+00:00"
+  "LastUpdate_Ratings": "2023-09-08T03:57:18.9409958+00:00",
+  "LastUpdate_Achievements": "2023-09-08T04:09:07.1475491+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,823 |
+| First Step | 70.00% | ~368,824 |
 | Now You're Talking | 62.00% | ~326,672 |
 | Steel Yourself | 62.00% | ~326,672 |
-| Window Dressing | 50.00% | ~263,445 |
-| Trigger Happy | 46.00% | ~242,369 |
-| Riverborn | 45.00% | ~237,100 |
+| Window Dressing | 50.00% | ~263,446 |
+| Trigger Happy | 46.00% | ~242,370 |
+| Riverborn | 45.00% | ~237,101 |
 | Starry Eyed | 34.00% | ~179,143 |
 | Poking Around | 34.00% | ~179,143 |
 | Talk of the Town | 24.00% | ~126,454 |
@@ -20,7 +20,7 @@ Number of Ratings: 617  (23.09.2022)
 | Wind At Our Backs | 22.00% | ~115,916 |
 | To the Beat | 20.00% | ~105,378 |
 | Sunny Shores | 17.00% | ~89,571 |
-| Sunday Best | 16.00% | ~84,302 |
+| Sunday Best | 16.00% | ~84,303 |
 | To Victory! | 15.00% | ~79,034 |
 | Two of a Kind | 14.00% | ~73,765 |
 | Keep On Trucking | 13.00% | ~68,496 |
@@ -38,10 +38,10 @@ Number of Ratings: 617  (23.09.2022)
 | Mind the Moose | 6.00% | ~31,613 |
 | Dressed to Kill | 6.00% | ~31,613 |
 | Beast Mode | 6.00% | ~31,613 |
-| Oh, Romeo! | 5.00% | ~26,344 |
-| Noble Intentions | 5.00% | ~26,344 |
-| Rising Star | 5.00% | ~26,344 |
-| Slime Slayer | 5.00% | ~26,344 |
+| Oh, Romeo! | 5.00% | ~26,345 |
+| Noble Intentions | 5.00% | ~26,345 |
+| Rising Star | 5.00% | ~26,345 |
+| Slime Slayer | 5.00% | ~26,345 |
 | Privacy, Please! | 4.00% | ~21,076 |
 | Silky Smooth | 4.00% | ~21,076 |
 | Hash It Over | 4.00% | ~21,076 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,581 |
 | Point Taken | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,890 (Ranked 33)  
+Progressed: 526,891 (Ranked 33)  
 Completed: 470 (0.09%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 470 (0.09%) (Ranked 221)
 | 2023-09-05 | 526,765 | 469 |
 | 2023-09-06 | 526,826 | 470 |
 | 2023-09-07 | 526,875 | 470 |
-| 2023-09-08 | 526,890 | 470 |
+| 2023-09-08 | 526,891 | 470 |
 ## Awards
 Max (Relaxing): 20  (Ranked 512)  
 Sum: 20 (Ranked 513)  

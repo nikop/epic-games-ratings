@@ -5,18 +5,18 @@ Rating: 3.81 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~396,489 |
-| Handy | 41.00% | ~213,895 |
-| Cold Caller | 39.00% | ~203,461 |
-| A Bit On The Side | 26.00% | ~135,641 |
-| Backdoor | 25.00% | ~130,424 |
-| Rank Amateur | 21.00% | ~109,556 |
-| Three Way | 18.00% | ~93,905 |
-| Deadly Assassin | 15.00% | ~78,254 |
-| Gutshot | 13.00% | ~67,820 |
-| Risk It For A Biscuit | 13.00% | ~67,820 |
-| Showoff | 13.00% | ~67,820 |
-| W.H.I.P. | 11.00% | ~57,387 |
+| Pro Creation | 76.00% | ~396,496 |
+| Handy | 41.00% | ~213,899 |
+| Cold Caller | 39.00% | ~203,465 |
+| A Bit On The Side | 26.00% | ~135,643 |
+| Backdoor | 25.00% | ~130,426 |
+| Rank Amateur | 21.00% | ~109,558 |
+| Three Way | 18.00% | ~93,907 |
+| Deadly Assassin | 15.00% | ~78,256 |
+| Gutshot | 13.00% | ~67,822 |
+| Risk It For A Biscuit | 13.00% | ~67,822 |
+| Showoff | 13.00% | ~67,822 |
+| W.H.I.P. | 11.00% | ~57,388 |
 | Bet Bet Bet | 9.00% | ~46,953 |
 | Blindman's Bluff | 9.00% | ~46,953 |
 | Poker Joker | 9.00% | ~46,953 |
@@ -37,7 +37,7 @@ Rating: 3.81 (Ranked 971)
 | Holding Your Own | 1.00% | ~5,217 |
 | Regular Punter | 0.70% | ~3,652 |
 | How I Roll | 0.60% | ~3,130 |
-| Club Legend | 0.50% | ~2,608 |
+| Club Legend | 0.50% | ~2,609 |
 | Bring It On | 0.20% | ~1,043 |
 | Dress To Impress | 0.20% | ~1,043 |
 | Bounty Hunter | 0.10% | ~522 |
@@ -51,7 +51,7 @@ Rating: 3.81 (Ranked 971)
 | Rounder | 0.10% | ~522 |
 | Top Dog | 0.10% | ~522 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,696 (Ranked 34)  
+Progressed: 521,705 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,11 +191,11 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-05 | 521,219 | 2 |
 | 2023-09-06 | 521,440 | 2 |
 | 2023-09-07 | 521,656 | 2 |
-| 2023-09-08 | 521,696 | 2 |
+| 2023-09-08 | 521,705 | 2 |
 ## Awards
-Max (Great for Beginners): 39  (Ranked 427)  
+Max (Great for Beginners): 39  (Ranked 428)  
 Sum: 109 (Ranked 414)  
-Diff (max vs sum): 13  
+Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 39 |

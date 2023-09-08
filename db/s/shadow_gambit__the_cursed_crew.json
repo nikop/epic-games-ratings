@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_Completed": 89,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -56,11 +56,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.28,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1556,6 +1556,11 @@
       "Time": "2023-09-08T01:57:14.0068006+00:00",
       "NumProgressed": 615,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-08T04:11:17.8486178+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1576,7 +1581,7 @@
       "Name": "A New Journey",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "_03_FinishAct1",
@@ -1584,7 +1589,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1592,7 +1597,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "_05_FinishAct2",
@@ -1624,7 +1629,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "_09_Completion_20",
@@ -1632,7 +1637,7 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "_10_Completion_30",
@@ -1640,7 +1645,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "_11_Completion_40",
@@ -1696,7 +1701,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1712,7 +1717,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1775,7 +1780,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 14
     }
   ],
@@ -1783,8 +1788,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-07T13:05:15.5809933+00:00",
-  "LastChanged_Achievements": "2023-09-08T03:16:32.9024438+00:00",
+  "LastChanged_Achievements": "2023-09-08T04:11:17.8486172+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-08T03:04:39.5150911+00:00",
-  "LastUpdate_Achievements": "2023-09-08T03:16:32.9024731+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:01:50.9407589+00:00",
+  "LastUpdate_Achievements": "2023-09-08T04:11:17.8486452+00:00"
 }

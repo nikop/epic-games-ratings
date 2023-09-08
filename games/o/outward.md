@@ -22,7 +22,7 @@ Number of Ratings: 266  (23.09.2022)
 | Apex Predator | 16.00% | ~534 |
 | Strange amalgams | 12.00% | ~401 |
 | The Power of Faith | 12.00% | ~401 |
-| The Power of Freedom | 9.00% | ~301 |
+| The Power of Freedom | 10.00% | ~334 |
 | Ace Detective | 8.00% | ~267 |
 | Gift from the Ancestors | 8.00% | ~267 |
 | Magic is a science | 8.00% | ~267 |

@@ -5,43 +5,43 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,474 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,223 |
-| Loose Ends | 34.00% | ~24,502 |
-| To the Victor Go the Spoils | 28.00% | ~20,178 |
-| Knighthood | 27.00% | ~19,458 |
-| Get ReQ'd | 25.00% | ~18,016 |
-| Whispered Words | 24.00% | ~17,296 |
-| The Batman Family | 23.00% | ~16,575 |
-| Lock and Key | 22.00% | ~15,855 |
-| Something in the Clay | 20.00% | ~14,413 |
-| Quartzer Life Crisis | 20.00% | ~14,413 |
-| Working Hard or Harley Working? | 20.00% | ~14,413 |
-| Unstoppable Force | 20.00% | ~14,413 |
-| Bad Apples in Every Orchard | 20.00% | ~14,413 |
+| First Step Into the Knight | 52.00% | ~37,477 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,225 |
+| Loose Ends | 34.00% | ~24,504 |
+| To the Victor Go the Spoils | 28.00% | ~20,180 |
+| Knighthood | 27.00% | ~19,459 |
+| Get ReQ'd | 25.00% | ~18,018 |
+| Whispered Words | 24.00% | ~17,297 |
+| The Batman Family | 23.00% | ~16,576 |
+| Lock and Key | 22.00% | ~15,856 |
+| Something in the Clay | 20.00% | ~14,414 |
+| Quartzer Life Crisis | 20.00% | ~14,414 |
+| Working Hard or Harley Working? | 20.00% | ~14,414 |
+| Unstoppable Force | 20.00% | ~14,414 |
+| Bad Apples in Every Orchard | 20.00% | ~14,414 |
 | Snow Problem | 19.00% | ~13,693 |
-| The Show Mud Go On | 17.00% | ~12,251 |
-| From Inside Gotham's Walls | 17.00% | ~12,251 |
+| The Show Mud Go On | 17.00% | ~12,252 |
+| From Inside Gotham's Walls | 17.00% | ~12,252 |
 | Protector of Gotham | 16.00% | ~11,531 |
-| In Your Element | 15.00% | ~10,810 |
-| Universal Health Scare | 15.00% | ~10,810 |
-| Cooldown | 14.00% | ~10,089 |
-| Voiceless | 14.00% | ~10,089 |
+| In Your Element | 15.00% | ~10,811 |
+| Universal Health Scare | 15.00% | ~10,811 |
+| Cooldown | 14.00% | ~10,090 |
+| Voiceless | 14.00% | ~10,090 |
 | Rock and a Hard Place | 13.00% | ~9,369 |
 | Not On My Watch | 13.00% | ~9,369 |
 | Shock Til They Drop | 13.00% | ~9,369 |
 | Seeking Asylum | 13.00% | ~9,369 |
-| End of an Era | 12.00% | ~8,648 |
-| Gotham Knight | 12.00% | ~8,648 |
-| Bulldozed | 11.00% | ~7,927 |
-| Gotham City Confidential | 11.00% | ~7,927 |
+| End of an Era | 12.00% | ~8,649 |
+| Gotham Knight | 12.00% | ~8,649 |
+| Bulldozed | 11.00% | ~7,928 |
+| Gotham City Confidential | 11.00% | ~7,928 |
 | Drone You Out | 9.00% | ~6,486 |
-| Out of Their League | 8.00% | ~5,765 |
-| Solid Alibi | 8.00% | ~5,765 |
+| Out of Their League | 8.00% | ~5,766 |
+| Solid Alibi | 8.00% | ~5,766 |
 | Fusion Expert | 6.00% | ~4,324 |
 | Family Meeting | 6.00% | ~4,324 |
 | A Worthy Successor | 6.00% | ~4,324 |
-| Expert Crime Fighter | 5.00% | ~3,603 |
+| Expert Crime Fighter | 5.00% | ~3,604 |
 | Dressed to Impress | 4.00% | ~2,883 |
 | A Momentum Occasion | 3.00% | ~2,162 |
 | Bat Out of Hell | 3.00% | ~2,162 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,066 (Ranked 81)  
+Progressed: 72,071 (Ranked 81)  
 Completed: 111 (0.15%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,14 +208,14 @@ Completed: 111 (0.15%) (Ranked 203)
 | 2023-09-05 | 71,225 | 111 |
 | 2023-09-06 | 71,678 | 111 |
 | 2023-09-07 | 72,029 | 111 |
-| 2023-09-08 | 72,066 | 111 |
+| 2023-09-08 | 72,071 | 111 |
 ## Awards
-Max (Great Boss Battles): 2,588  (Ranked 98)  
-Sum: 4,292 (Ranked 139)  
+Max (Great Boss Battles): 2,602  (Ranked 98)  
+Sum: 4,306 (Ranked 139)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,588 |
+| This game has Great Boss Battles | 2,602 |
 | This game is Extremely Fun | 220 |
 | This game has Quickly Understood Controls | 217 |
 | This game is Relaxing | 217 |
@@ -423,3 +423,4 @@ Diff (max vs sum): -41
 | 2023-09-05 | 4.18 | 2,547 | 4,245 |
 | 2023-09-06 | 4.18 | 2,569 | 4,268 |
 | 2023-09-07 | 4.18 | 2,588 | 4,292 |
+| 2023-09-08 | 4.18 | 2,602 | 4,306 |

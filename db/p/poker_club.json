@@ -3,7 +3,7 @@
   "Name": "Poker Club",
   "ProductSlug": "poker-club-6e18ee",
   "Ranking_Rating": 971,
-  "Ranking_Popularity": 427,
+  "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 271,
@@ -670,9 +670,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 521696,
+  "EOS_Progressed": 521705,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1822,
+  "EOS_NewPlayers": 1819,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16170,6 +16170,11 @@
       "Time": "2023-09-08T03:14:52.9400265+00:00",
       "NumProgressed": 521696,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T04:09:06.7720893+00:00",
+      "NumProgressed": 521705,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -16181,7 +16186,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 135641
+      "UsersEstimate": 135643
     },
     {
       "ID": "Backdoor",
@@ -16189,7 +16194,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 130424
+      "UsersEstimate": 130426
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -16261,7 +16266,7 @@
       "Name": "Club Legend",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "Clubman",
@@ -16277,7 +16282,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 203461
+      "UsersEstimate": 203465
     },
     {
       "ID": "DeadlyAssassin",
@@ -16285,7 +16290,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78254
+      "UsersEstimate": 78256
     },
     {
       "ID": "DogEatDog",
@@ -16325,7 +16330,7 @@
       "Name": "Gutshot",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67820
+      "UsersEstimate": 67822
     },
     {
       "ID": "Handy",
@@ -16333,7 +16338,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 213895
+      "UsersEstimate": 213899
     },
     {
       "ID": "HoldingYourOwn",
@@ -16429,7 +16434,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 396489
+      "UsersEstimate": 396496
     },
     {
       "ID": "ProPlayer",
@@ -16453,7 +16458,7 @@
       "Name": "Rank Amateur",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 109556
+      "UsersEstimate": 109558
     },
     {
       "ID": "RegularPunter",
@@ -16469,7 +16474,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67820
+      "UsersEstimate": 67822
     },
     {
       "ID": "RockAndHighRoller",
@@ -16493,7 +16498,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67820
+      "UsersEstimate": 67822
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -16509,7 +16514,7 @@
       "Name": "Three Way",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 93905
+      "UsersEstimate": 93907
     },
     {
       "ID": "TopDog",
@@ -16533,14 +16538,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57387
+      "UsersEstimate": 57388
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 521696,
+      "Progressed": 521705,
       "Completed": 2
     }
   ],
@@ -16548,8 +16553,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-09-07T17:05:08.9735381+00:00",
-  "LastChanged_Achievements": "2023-09-08T03:14:52.940026+00:00",
+  "LastChanged_Achievements": "2023-09-08T04:09:06.7720884+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:37.1716418+00:00",
-  "LastUpdate_Ratings": "2023-09-08T03:10:24.2101856+00:00",
-  "LastUpdate_Achievements": "2023-09-08T03:14:52.9401587+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:06:02.9212295+00:00",
+  "LastUpdate_Achievements": "2023-09-08T04:09:06.7722234+00:00"
 }

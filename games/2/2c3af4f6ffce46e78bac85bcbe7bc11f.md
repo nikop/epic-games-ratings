@@ -7,12 +7,12 @@
 | Something ever-changing... | 31.00% | ~9 |
 | Something foundational... | 31.00% | ~9 |
 | Something to make you dream... | 31.00% | ~9 |
+| Something natural... | 31.00% | ~9 |
 | Something to long for... | 31.00% | ~9 |
 | Something gentle... | 28.00% | ~8 |
 | Something fully in bloom... | 28.00% | ~8 |
 | Somewhere to belong... | 28.00% | ~8 |
 | Something monumental... | 28.00% | ~8 |
-| Something natural... | 28.00% | ~8 |
 | Something firmly rooted... | 28.00% | ~8 |
 | Something reflective... | 28.00% | ~8 |
 | Something free... | 24.00% | ~7 |

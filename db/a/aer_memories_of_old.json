@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 639,
+  "Ranking_Rating": 626,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -386,16 +386,22 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-08T04:06:10.3319053+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19615,
-  "EOS_Completed": 388,
-  "EOS_NewPlayers": 481,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 19616,
+  "EOS_Completed": 389,
+  "EOS_NewPlayers": 482,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
     {
@@ -15417,6 +15423,11 @@
       "Time": "2023-09-08T03:12:54.812167+00:00",
       "NumProgressed": 19615,
       "NumCompleted": 388
+    },
+    {
+      "Time": "2023-09-08T04:07:41.5979112+00:00",
+      "NumProgressed": 19616,
+      "NumCompleted": 389
     }
   ],
   "TotalAchievements": 20,
@@ -15546,9 +15557,9 @@
       "ID": "INTRO_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Light at the end of the tunnel",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 15104
+      "UsersEstimate": 14908
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15587,15 +15598,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19615,
-      "Completed": 388
+      "Progressed": 19616,
+      "Completed": 389
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
-  "LastChanged": "2023-09-01T02:18:43.1921629+00:00",
-  "LastChanged_Achievements": "2023-09-08T03:12:54.8121664+00:00",
+  "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
+  "LastChanged_Achievements": "2023-09-08T04:07:41.5979102+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-08T03:10:41.0685666+00:00",
-  "LastUpdate_Achievements": "2023-09-08T03:12:54.8122759+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:06:10.3319057+00:00",
+  "LastUpdate_Achievements": "2023-09-08T04:07:41.5980167+00:00"
 }

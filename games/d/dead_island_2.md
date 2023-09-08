@@ -24,12 +24,12 @@ Rating: 4.54 (Ranked 505)
 | Zombologist | 0.90% | ~6,079 |
 | A Patton Emerges | 0.90% | ~6,079 |
 | Slayer Squad | 0.80% | ~5,403 |
+| I Am the Resurrection | 0.80% | ~5,403 |
 | Our True Nature | 0.80% | ~5,403 |
 | Anger Management | 0.70% | ~4,728 |
 | Perks of the Job | 0.70% | ~4,728 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,728 |
 | Ooh, Shiny! | 0.70% | ~4,728 |
-| I Am the Resurrection | 0.70% | ~4,728 |
 | Making Your Mark | 0.60% | ~4,053 |
 | Humanity Distilled | 0.60% | ~4,053 |
 | Down with the Sickness | 0.60% | ~4,053 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,420 (Ranked 22)  
+Progressed: 675,434 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2,121 (0.31%) (Ranked 176)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,420 | 2,121 |
+| 2023-09-08 | 675,434 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
 Sum: 8,776 (Ranked 95)  

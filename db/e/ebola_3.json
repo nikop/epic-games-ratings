@@ -2,9 +2,9 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1008,6 +1008,11 @@
       "Time": "2023-09-07T18:08:46.6676856+00:00",
       "NumProgressed": 238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T04:09:31.1806193+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1219,7 +1224,7 @@
       "Name": "Fright \u2714",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "achLizun",
@@ -1347,15 +1352,15 @@
       "Name": "Master of Unlocking \u2714",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achShahmat",
       "SetID": "72gjli4",
       "Name": "Chess \u2714",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "achSpped",
@@ -1418,7 +1423,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 0
     }
   ],
@@ -1426,8 +1431,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-08T03:15:27.0147818+00:00",
+  "LastChanged_Achievements": "2023-09-08T04:09:31.1806186+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:28.6254913+00:00",
-  "LastUpdate_Ratings": "2023-09-08T02:57:48.3032092+00:00",
-  "LastUpdate_Achievements": "2023-09-08T03:15:27.0148324+00:00"
+  "LastUpdate_Ratings": "2023-09-08T03:57:23.5904904+00:00",
+  "LastUpdate_Achievements": "2023-09-08T04:09:31.180672+00:00"
 }

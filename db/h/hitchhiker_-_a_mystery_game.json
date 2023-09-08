@@ -4,7 +4,7 @@
   "ProductSlug": "hitchhiker-a-mystery-game",
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-04-15T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.4568183+00:00",
   "LastChanged": "2023-03-31T05:58:21.4568185+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:24.3867966+00:00",
-  "LastUpdate_Ratings": "2023-09-08T03:09:50.364635+00:00",
-  "LastUpdate_Achievements": "2023-09-08T03:14:13.0821528+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:05:38.5053213+00:00",
+  "LastUpdate_Achievements": "2023-09-08T04:08:37.9526034+00:00"
 }

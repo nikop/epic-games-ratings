@@ -4,7 +4,7 @@
   "ProductSlug": "nova-91cb04",
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-10T02:30:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T13:04:48.4665498+00:00",
   "LastUpdate_AppInfo": "2023-09-07T05:57:07.5342065+00:00",
-  "LastUpdate_Ratings": "2023-09-08T02:57:49.4913963+00:00",
-  "LastUpdate_Achievements": "2023-09-08T03:16:39.4998036+00:00"
+  "LastUpdate_Ratings": "2023-09-08T03:57:25.7824074+00:00",
+  "LastUpdate_Achievements": "2023-09-08T04:11:22.6237518+00:00"
 }

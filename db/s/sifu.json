@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6102,9 +6102,9 @@
       "Count": 376
     }
   ],
-  "EOS_Progressed": 713466,
+  "EOS_Progressed": 713475,
   "EOS_Completed": 12887,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18947,6 +18947,11 @@
       "Time": "2023-09-08T03:11:31.1066945+00:00",
       "NumProgressed": 713466,
       "NumCompleted": 12887
+    },
+    {
+      "Time": "2023-09-08T04:06:41.8475117+00:00",
+      "NumProgressed": 713475,
+      "NumCompleted": 12887
     }
   ],
   "TotalAchievements": 60,
@@ -19396,9 +19401,9 @@
       "ID": "56_Arena_LakeKill",
       "SetID": "14c2oii",
       "Name": "Fighter in the Pond",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 23
     },
     {
       "ID": "57_Arena_Car",
@@ -19437,21 +19442,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22767,
+      "Progressed": 22776,
       "Completed": 10595
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 713466,
+      "Progressed": 713475,
       "Completed": 12887
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-08T03:07:41.8638784+00:00",
-  "LastChanged_Achievements": "2023-09-08T03:11:31.1066938+00:00",
+  "LastChanged_Achievements": "2023-09-08T04:06:41.8475107+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-08T03:07:41.8638794+00:00",
-  "LastUpdate_Achievements": "2023-09-08T03:11:31.1069528+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:04:11.1192728+00:00",
+  "LastUpdate_Achievements": "2023-09-08T04:06:41.8479935+00:00"
 }
