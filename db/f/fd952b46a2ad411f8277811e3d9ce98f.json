@@ -4,7 +4,7 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2308,
+  "EOS_Progressed": 2317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -989,6 +989,11 @@
       "Time": "2023-09-08T02:27:06.9702533+00:00",
       "NumProgressed": 2308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T03:15:00.0441123+00:00",
+      "NumProgressed": 2317,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -1097,7 +1102,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 600
+      "UsersEstimate": 602
     },
     {
       "ID": "kills_100",
@@ -1153,7 +1158,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "revives_25",
@@ -1193,7 +1198,7 @@
       "Name": "Top Toy",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "top10_10",
@@ -1248,13 +1253,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 2308,
+      "Progressed": 2317,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-08T02:27:06.9702526+00:00",
+  "LastChanged_Achievements": "2023-09-08T03:15:00.0441116+00:00",
   "LastUpdate_AppInfo": "2023-09-06T09:57:05.1729887+00:00",
-  "LastUpdate_Ratings": "2023-09-08T02:21:41.8390386+00:00",
-  "LastUpdate_Achievements": "2023-09-08T02:27:06.9702811+00:00"
+  "LastUpdate_Ratings": "2023-09-08T03:07:50.9889898+00:00",
+  "LastUpdate_Achievements": "2023-09-08T03:15:00.0441517+00:00"
 }

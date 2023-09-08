@@ -8,7 +8,7 @@
 | Broken jar | 80.00% | ~55 |
 | It fits. IT FITS! | 74.00% | ~51 |
 | The child of the night | 71.00% | ~49 |
-| Uncle will be happy | 68.00% | ~47 |
+| Uncle will be happy | 70.00% | ~48 |
 | I have an army! | 64.00% | ~44 |
 | Sticky fingers | 43.00% | ~30 |
 | A horrible thing will happen... | 42.00% | ~29 |

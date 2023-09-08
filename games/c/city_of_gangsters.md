@@ -5,11 +5,11 @@ Rating: 4.27 (Ranked 822)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,358 |
+| Corner Clout | 46.00% | ~157,359 |
 | Copacetic Coordination | 16.00% | ~54,733 |
-| Fronting the Money | 15.00% | ~51,312 |
-| The Dawn of Automation | 14.00% | ~47,891 |
-| Extraordinary Logistics | 14.00% | ~47,891 |
+| Fronting the Money | 15.00% | ~51,313 |
+| The Dawn of Automation | 14.00% | ~47,892 |
+| Extraordinary Logistics | 14.00% | ~47,892 |
 | Dirty Money | 13.00% | ~44,471 |
 | Family First | 13.00% | ~44,471 |
 | Cleaning House | 12.00% | ~41,050 |
@@ -41,13 +41,13 @@ Rating: 4.27 (Ranked 822)
 | An Affront to the Enemy | 4.00% | ~13,683 |
 | Friends from Back Home | 4.00% | ~13,683 |
 | Half Century Mark | 4.00% | ~13,683 |
-| Corner Opportunities | 3.00% | ~10,262 |
-| 2122 North Clark Street | 3.00% | ~10,262 |
-| Copious Cabbage | 3.00% | ~10,262 |
-| Sockdolager | 3.00% | ~10,262 |
-| Still Stalwart | 3.00% | ~10,262 |
-| Bees Knees Bootlegger | 3.00% | ~10,262 |
-| Tighten the Screws | 3.00% | ~10,262 |
+| Corner Opportunities | 3.00% | ~10,263 |
+| 2122 North Clark Street | 3.00% | ~10,263 |
+| Copious Cabbage | 3.00% | ~10,263 |
+| Sockdolager | 3.00% | ~10,263 |
+| Still Stalwart | 3.00% | ~10,263 |
+| Bees Knees Bootlegger | 3.00% | ~10,263 |
+| Tighten the Screws | 3.00% | ~10,263 |
 | One of Us | 2.00% | ~6,842 |
 | Baker’s Dozen | 2.00% | ~6,842 |
 | Dropping the Dime | 2.00% | ~6,842 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 822)
 | High Pillow | 0.10% | ~342 |
 | Station Master | 0.10% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,082 (Ranked 42)  
+Progressed: 342,084 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 7 (0.00%) (Ranked 271)
 | 2023-09-05 | 341,793 | 7 |
 | 2023-09-06 | 341,921 | 7 |
 | 2023-09-07 | 342,060 | 7 |
-| 2023-09-08 | 342,082 | 7 |
+| 2023-09-08 | 342,084 | 7 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 131 (Ranked 405)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36123,
+  "EOS_Progressed": 36127,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15707,6 +15707,11 @@
       "Time": "2023-09-08T01:55:37.0189778+00:00",
       "NumProgressed": 36123,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-08T03:15:00.7907732+00:00",
+      "NumProgressed": 36127,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -15718,7 +15723,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -15758,7 +15763,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -15798,7 +15803,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -15830,7 +15835,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -15838,7 +15843,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -15846,7 +15851,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -15878,7 +15883,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -15949,7 +15954,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36123,
+      "Progressed": 36127,
       "Completed": 23
     }
   ],
@@ -15957,8 +15962,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-08T02:27:07.4345823+00:00",
+  "LastChanged_Achievements": "2023-09-08T03:15:00.7907721+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
-  "LastUpdate_Ratings": "2023-09-08T02:23:37.5824616+00:00",
-  "LastUpdate_Achievements": "2023-09-08T02:27:07.4347686+00:00"
+  "LastUpdate_Ratings": "2023-09-08T03:10:23.6448081+00:00",
+  "LastUpdate_Achievements": "2023-09-08T03:15:00.7909053+00:00"
 }

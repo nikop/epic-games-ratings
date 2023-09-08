@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
@@ -2618,9 +2618,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 641921,
+  "EOS_Progressed": 641922,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2056,
+  "EOS_NewPlayers": 2049,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18283,6 +18283,11 @@
       "Time": "2023-09-08T02:26:19.3476484+00:00",
       "NumProgressed": 641921,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-08T03:13:50.2377366+00:00",
+      "NumProgressed": 641922,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 52,
@@ -18542,7 +18547,7 @@
       "Name": "Incurious",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 102707
+      "UsersEstimate": 102708
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -18709,15 +18714,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 641921,
+      "Progressed": 641922,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-05T13:02:18.2766457+00:00",
-  "LastChanged_Achievements": "2023-09-08T02:26:19.3476475+00:00",
+  "LastChanged_Achievements": "2023-09-08T03:13:50.2377359+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:40.8702668+00:00",
-  "LastUpdate_Ratings": "2023-09-08T02:14:42.6495206+00:00",
-  "LastUpdate_Achievements": "2023-09-08T02:26:19.3478114+00:00"
+  "LastUpdate_Ratings": "2023-09-08T02:59:35.9531367+00:00",
+  "LastUpdate_Achievements": "2023-09-08T03:13:50.23788+00:00"
 }

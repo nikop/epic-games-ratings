@@ -880,7 +880,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661894,
+  "EOS_Progressed": 661895,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
@@ -14205,6 +14205,11 @@
       "Time": "2023-09-08T02:25:57.1641081+00:00",
       "NumProgressed": 661894,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-08T03:13:18.5768752+00:00",
+      "NumProgressed": 661895,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14280,7 +14285,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66189
+      "UsersEstimate": 66190
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -14312,7 +14317,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66189
+      "UsersEstimate": 66190
     },
     {
       "ID": "Achievement_14_Magician",
@@ -14496,7 +14501,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59570
+      "UsersEstimate": 59571
     },
     {
       "ID": "Achievement_37_Champion",
@@ -14599,15 +14604,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661894,
+      "Progressed": 661895,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-08T02:25:57.1641072+00:00",
+  "LastChanged_Achievements": "2023-09-08T03:13:18.5768744+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:05.2610367+00:00",
-  "LastUpdate_Ratings": "2023-09-08T02:17:33.6451979+00:00",
-  "LastUpdate_Achievements": "2023-09-08T02:25:57.1643158+00:00"
+  "LastUpdate_Ratings": "2023-09-08T03:03:08.2673159+00:00",
+  "LastUpdate_Achievements": "2023-09-08T03:13:18.5770617+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 5.00% | ~690 |
-| Play a Single Player Game | 5.00% | ~690 |
-| Explorer | 4.00% | ~552 |
-| Intrepid | 4.00% | ~552 |
-| Friendly Family | 4.00% | ~552 |
-| The Clergy | 4.00% | ~552 |
+| Settler | 5.00% | ~691 |
+| Play a Single Player Game | 5.00% | ~691 |
+| Explorer | 4.00% | ~553 |
+| Intrepid | 4.00% | ~553 |
+| Friendly Family | 4.00% | ~553 |
+| The Clergy | 4.00% | ~553 |
 | Able | 3.00% | ~414 |
 | Architect | 3.00% | ~414 |
 | Enlightened | 3.00% | ~414 |
@@ -77,8 +77,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 1.00% | ~138 |
 | Patrons | 1.00% | ~138 |
 | Sages | 1.00% | ~138 |
+| Statesmen | 1.00% | ~138 |
+| Traders | 1.00% | ~138 |
 | Hittite Iron | 1.00% | ~138 |
 | Acropolis | 1.00% | ~138 |
+| Hagia Sophia | 1.00% | ~138 |
 | Temple of Solomon | 1.00% | ~138 |
 | Mausoleum | 1.00% | ~138 |
 | Pantheon | 1.00% | ~138 |
@@ -94,34 +97,31 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 1.00% | ~138 |
 | Phalangite | 1.00% | ~138 |
 | Points Victory | 1.00% | ~138 |
+| Invincible | 0.90% | ~124 |
 | Subjugator | 0.90% | ~124 |
-| Statesmen | 0.90% | ~124 |
-| Traders | 0.90% | ~124 |
 | Circus Maximus | 0.90% | ~124 |
-| Hagia Sophia | 0.90% | ~124 |
 | Dualism | 0.90% | ~124 |
 | Redemption | 0.90% | ~124 |
 | Ambition Victory | 0.90% | ~124 |
+| Double Victory | 0.90% | ~124 |
 | Win a Single Player Game | 0.90% | ~124 |
-| Capable | 0.80% | ~110 |
-| Devout | 0.80% | ~110 |
-| Invincible | 0.80% | ~110 |
-| Ready | 0.80% | ~110 |
-| Landowners | 0.80% | ~110 |
-| Riders | 0.80% | ~110 |
-| Church of the Holy Sepulchre | 0.80% | ~110 |
-| Assyrian Paganism | 0.80% | ~110 |
-| Industrial Progress | 0.80% | ~110 |
-| Military Prestige | 0.80% | ~110 |
-| Gnosticism | 0.80% | ~110 |
-| Revelation | 0.80% | ~110 |
-| Veneration | 0.80% | ~110 |
-| Cimmerian Archer | 0.80% | ~110 |
-| Double Victory | 0.80% | ~110 |
+| Capable | 0.80% | ~111 |
+| Devout | 0.80% | ~111 |
+| Ready | 0.80% | ~111 |
+| Landowners | 0.80% | ~111 |
+| Riders | 0.80% | ~111 |
+| Church of the Holy Sepulchre | 0.80% | ~111 |
+| Adur Burzen-Mihr | 0.80% | ~111 |
+| Assyrian Paganism | 0.80% | ~111 |
+| Industrial Progress | 0.80% | ~111 |
+| Military Prestige | 0.80% | ~111 |
+| Gnosticism | 0.80% | ~111 |
+| Revelation | 0.80% | ~111 |
+| Veneration | 0.80% | ~111 |
+| Cimmerian Archer | 0.80% | ~111 |
 | Bad Heir Day | 0.70% | ~97 |
 | Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
-| Adur Burzen-Mihr | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
 | Carthage | 0.70% | ~97 |
 | Enlightenment | 0.70% | ~97 |
@@ -135,11 +135,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.60% | ~83 |
 | Hittite Paganism | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
+| All Nations | 0.60% | ~83 |
 | No Undo | 0.60% | ~83 |
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
-| All Nations | 0.50% | ~69 |
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Ancient | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.30% | ~41 |
 | Hatti | 0.30% | ~41 |
 | Pantheon of Gods | 0.30% | ~41 |
+| Apadana in Parsa | 0.30% | ~41 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~41 |
 | Circus Maximus in Roma | 0.30% | ~41 |
 | Capturing Cities | 0.30% | ~41 |
@@ -177,7 +178,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Tell the Spartans | 0.20% | ~28 |
 | Macedonian Wars | 0.20% | ~28 |
 | Assyria | 0.20% | ~28 |
-| Apadana in Parsa | 0.20% | ~28 |
 | Play a MP Teams Game | 0.20% | ~28 |
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,810 (Ranked 121)  
+Progressed: 13,813 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,6 +444,7 @@ Completed: 5 (0.04%) (Ranked 239)
 | 2023-09-05 | 13,790 | 5 |
 | 2023-09-06 | 13,796 | 5 |
 | 2023-09-07 | 13,810 | 5 |
+| 2023-09-08 | 13,813 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

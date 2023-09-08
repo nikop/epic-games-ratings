@@ -7,6 +7,7 @@ Rating: 4.54 (Ranked 505)
 | ---- | ---------- | ----- |
 | Dr. Reed, I Presume? | 1.00% | ~6,754 |
 | Git Gutte! | 1.00% | ~6,754 |
+| Bookworm | 1.00% | ~6,754 |
 | Break A Leg | 1.00% | ~6,754 |
 | But Doctor, I am Butcho | 1.00% | ~6,754 |
 | Coup de Grâce | 1.00% | ~6,754 |
@@ -18,7 +19,6 @@ Rating: 4.54 (Ranked 505)
 | Personal Assistant Personally Assisted | 1.00% | ~6,754 |
 | This is My Weapon | 1.00% | ~6,754 |
 | Welcome To Hell-A | 1.00% | ~6,754 |
-| Bookworm | 0.90% | ~6,079 |
 | Can't Handle the Truth | 0.90% | ~6,079 |
 | Like Riding a Bike | 0.90% | ~6,079 |
 | Zombologist | 0.90% | ~6,079 |
@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 505)
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,728 |
 | Ooh, Shiny! | 0.70% | ~4,728 |
 | I Am the Resurrection | 0.70% | ~4,728 |
-| Making Your Mark | 0.60% | ~4,052 |
-| Humanity Distilled | 0.60% | ~4,052 |
-| Down with the Sickness | 0.60% | ~4,052 |
+| Making Your Mark | 0.60% | ~4,053 |
+| Humanity Distilled | 0.60% | ~4,053 |
+| Down with the Sickness | 0.60% | ~4,053 |
 | Max Headroom | 0.50% | ~3,377 |
 | Jumbo Keyring | 0.40% | ~2,702 |
 | Go, Bobcats! | 0.40% | ~2,702 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,409 (Ranked 22)  
+Progressed: 675,420 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,15 +192,15 @@ Completed: 2,121 (0.31%) (Ranked 176)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,409 | 2,121 |
+| 2023-09-08 | 675,420 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
-Sum: 8,774 (Ranked 95)  
+Sum: 8,776 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,945 |
-| This game is Great for Beginners | 398 |
+| This game is Great for Beginners | 400 |
 | This game has Diverse Characters | 393 |
 | This game has Quickly Understood Controls | 383 |
 | This game is Relaxing | 367 |
@@ -351,3 +351,4 @@ Diff (max vs sum): -36
 | 2023-09-05 | 4.54 | 5,913 | 8,730 |
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
+| 2023-09-08 | 4.54 | 5,945 | 8,776 |

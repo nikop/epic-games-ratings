@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Bit Of Everything, Simultaneously | 0.10% | ~23 |
 | Fighter in the Pond | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,457 (Ranked 20)  
+Progressed: 713,466 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,16 +208,16 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
 | 2023-09-07 | 713,425 | 12,887 |
-| 2023-09-08 | 713,457 | 12,887 |
+| 2023-09-08 | 713,466 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,446  (Ranked 53)  
-Sum: 11,096 (Ranked 80)  
+Sum: 11,097 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,446 |
 | This game has Diverse Characters | 584 |
-| This game has Challenging Combat | 547 |
+| This game has Challenging Combat | 548 |
 | This game has Quickly Understood Controls | 545 |
 | This game has Amazing Storytelling | 536 |
 | This game is Extremely Fun | 531 |
@@ -464,4 +464,4 @@ Diff (max vs sum): -27
 | 2023-09-05 | 4.82 | - | 6,437 | 11,070 |
 | 2023-09-06 | 4.82 | - | 6,440 | 11,080 |
 | 2023-09-07 | 4.82 | - | 6,446 | 11,094 |
-| 2023-09-08 | 4.82 | - | 6,446 | 11,096 |
+| 2023-09-08 | 4.82 | - | 6,446 | 11,097 |

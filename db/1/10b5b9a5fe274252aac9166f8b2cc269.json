@@ -4,7 +4,7 @@
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
-  "EOS_Completed": 60,
-  "EOS_NewPlayers": 33,
-  "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 38.96,
+  "EOS_Progressed": 155,
+  "EOS_Completed": 61,
+  "EOS_NewPlayers": 34,
+  "EOS_NewCompleters": 18,
+  "EOS_Completed_Percentage": 39.35,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -846,6 +846,11 @@
       "Time": "2023-09-08T02:25:51.2483498+00:00",
       "NumProgressed": 154,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2023-09-08T03:13:10.348264+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -858,7 +863,7 @@
       "Name": "Portrait 1",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "PORTRAIT_10",
@@ -874,7 +879,7 @@
       "Name": "Portrait 11",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "PORTRAIT_12",
@@ -888,25 +893,25 @@
       "ID": "PORTRAIT_13",
       "SetID": "2fge00i",
       "Name": "Portrait 13",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "PORTRAIT_14",
       "SetID": "2fge00i",
       "Name": "Portrait 14",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "PORTRAIT_15",
       "SetID": "2fge00i",
       "Name": "Portrait 15",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "PORTRAIT_16",
@@ -946,7 +951,7 @@
       "Name": "Portrait 2",
       "Percentage": 85,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "PORTRAIT_20",
@@ -962,7 +967,7 @@
       "Name": "Portrait 3",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "PORTRAIT_4",
@@ -970,7 +975,7 @@
       "Name": "Portrait 4",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "PORTRAIT_5",
@@ -986,7 +991,7 @@
       "Name": "Portrait 6",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "PORTRAIT_7",
@@ -1000,9 +1005,9 @@
       "ID": "PORTRAIT_8",
       "SetID": "2fge00i",
       "Name": "Portrait 8",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "PORTRAIT_9",
@@ -1010,21 +1015,21 @@
       "Name": "Portrait 9",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "2fge00i",
       "IsBase": true,
-      "Progressed": 154,
-      "Completed": 60
+      "Progressed": 155,
+      "Completed": 61
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-08T02:25:51.2483492+00:00",
+  "LastChanged_Achievements": "2023-09-08T03:13:10.3482636+00:00",
   "LastUpdate_AppInfo": "2023-09-07T09:57:19.1858514+00:00",
-  "LastUpdate_Ratings": "2023-09-08T02:14:33.0497879+00:00",
-  "LastUpdate_Achievements": "2023-09-08T02:25:51.2483711+00:00"
+  "LastUpdate_Ratings": "2023-09-08T02:59:22.0927668+00:00",
+  "LastUpdate_Achievements": "2023-09-08T03:13:10.348285+00:00"
 }

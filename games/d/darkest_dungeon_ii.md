@@ -6,20 +6,20 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~108,902 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~81,969 |
-| A Clear Conscience | 69.00% | ~80,798 |
-| Unleash Hell | 68.00% | ~79,627 |
-| Unfulfilled Desires | 68.00% | ~79,627 |
-| Funny Guy | 67.00% | ~78,456 |
-| Unshackled | 67.00% | ~78,456 |
-| Long Live the King | 66.00% | ~77,285 |
-| Resurrection | 62.00% | ~72,601 |
-| Wyrdly Reconstructed | 62.00% | ~72,601 |
-| Boxcar Kid | 60.00% | ~70,259 |
-| Rush Hour | 60.00% | ~70,259 |
-| To Grandmother's House | 60.00% | ~70,259 |
-| Serenity Now! | 53.00% | ~62,062 |
+| A Place to Lay Your Head | 93.00% | ~108,904 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~81,971 |
+| A Clear Conscience | 69.00% | ~80,800 |
+| Unleash Hell | 68.00% | ~79,629 |
+| Unfulfilled Desires | 68.00% | ~79,629 |
+| Funny Guy | 67.00% | ~78,458 |
+| Unshackled | 67.00% | ~78,458 |
+| Long Live the King | 66.00% | ~77,287 |
+| Resurrection | 62.00% | ~72,603 |
+| Wyrdly Reconstructed | 62.00% | ~72,603 |
+| Boxcar Kid | 60.00% | ~70,261 |
+| Rush Hour | 60.00% | ~70,261 |
+| To Grandmother's House | 60.00% | ~70,261 |
+| Serenity Now! | 53.00% | ~62,064 |
 | Hope Rekindled | 50.00% | ~58,550 |
 | Ramble On | 49.00% | ~57,379 |
 | Nope | 48.00% | ~56,208 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,099 (Ranked 71)  
+Progressed: 117,101 (Ranked 71)  
 Completed: 1 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 1 (0.00%) (Ranked 271)
 | 2023-09-05 | 116,958 | 1 |
 | 2023-09-06 | 117,027 | 1 |
 | 2023-09-07 | 117,092 | 1 |
-| 2023-09-08 | 117,099 | 1 |
+| 2023-09-08 | 117,101 | 1 |
 ## Awards
 Max (Character Customization): 7,375  (Ranked 48)  
 Sum: 19,215 (Ranked 56)  

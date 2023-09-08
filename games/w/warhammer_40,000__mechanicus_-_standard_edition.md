@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 665)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,752 |
+| No aid from the Omnissiah | 26.00% | ~57,753 |
 | This is only the beginning | 19.00% | ~42,204 |
 | Knowledge is power | 12.00% | ~26,655 |
 | Power Ranger | 9.00% | ~19,991 |
@@ -19,13 +19,13 @@ Rating: 4.43 (Ranked 665)
 | One with the Machine | 4.00% | ~8,885 |
 | Legio Cybernetica | 3.00% | ~6,664 |
 | Fleshy Disposal | 3.00% | ~6,664 |
-| Battle Servitor | 2.00% | ~4,442 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,442 |
-| Impatient destruction | 2.00% | ~4,442 |
-| Vivisected Vizier | 2.00% | ~4,442 |
-| Architect Abortion | 2.00% | ~4,442 |
+| Battle Servitor | 2.00% | ~4,443 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,443 |
+| Impatient destruction | 2.00% | ~4,443 |
+| Vivisected Vizier | 2.00% | ~4,443 |
+| Architect Abortion | 2.00% | ~4,443 |
 | Cohortus Maximus | 0.80% | ~1,777 |
-| Mother of Xenarites | 0.40% | ~888 |
+| Mother of Xenarites | 0.40% | ~889 |
 | False God | 0.30% | ~666 |
 | Hard | 0.20% | ~444 |
 | Sensory overload | 0.20% | ~444 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 665)
 | Perma-live | 0.10% | ~222 |
 | Purge the Heretek | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,125 (Ranked 56)  
+Progressed: 222,126 (Ranked 56)  
 Completed: 5 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,10 +181,10 @@ Completed: 5 (0.00%) (Ranked 271)
 | 2023-09-05 | 222,010 | 5 |
 | 2023-09-06 | 222,057 | 5 |
 | 2023-09-07 | 222,118 | 5 |
-| 2023-09-08 | 222,125 | 5 |
+| 2023-09-08 | 222,126 | 5 |
 ## Awards
 Max (Highly Recommended): 282  (Ranked 241)  
-Sum: 2,134 (Ranked 196)  
+Sum: 2,136 (Ranked 196)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -194,7 +194,7 @@ Diff (max vs sum): 45
 | This game has Amazing Characters | 259 |
 | This game has Diverse Characters | 259 |
 | This game has Amazing Storytelling | 244 |
-| This game is Relaxing | 237 |
+| This game is Relaxing | 239 |
 | This game has Unique Visuals | 209 |
 | This game has a Creative Community | 97 |
 | This game is Great for Beginners | 63 |
@@ -257,3 +257,4 @@ Diff (max vs sum): 45
 | 2023-09-03 | 4.43 | 282 | 2,132 |
 | 2023-09-04 | 4.43 | 282 | 2,133 |
 | 2023-09-07 | 4.43 | 282 | 2,134 |
+| 2023-09-08 | 4.43 | 282 | 2,136 |
