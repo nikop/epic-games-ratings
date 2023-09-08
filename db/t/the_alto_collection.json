@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38423,
+  "EOS_Progressed": 38425,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 808,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16346,6 +16346,11 @@
       "Time": "2023-09-08T01:53:24.9397585+00:00",
       "NumProgressed": 38423,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T02:25:41.2669294+00:00",
+      "NumProgressed": 38425,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -16437,7 +16442,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "journeyer",
@@ -16621,7 +16626,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5763
+      "UsersEstimate": 5764
     },
     {
       "ID": "unlockpaz",
@@ -16668,15 +16673,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38423,
+      "Progressed": 38425,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-08T01:53:24.9397578+00:00",
+  "LastChanged_Achievements": "2023-09-08T02:25:41.2669285+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.1649618+00:00",
-  "LastUpdate_Ratings": "2023-09-08T01:49:15.7131029+00:00",
-  "LastUpdate_Achievements": "2023-09-08T01:53:24.9398848+00:00"
+  "LastUpdate_Ratings": "2023-09-08T02:22:07.6846198+00:00",
+  "LastUpdate_Achievements": "2023-09-08T02:25:41.2671477+00:00"
 }

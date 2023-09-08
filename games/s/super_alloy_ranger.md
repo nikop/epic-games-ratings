@@ -7,12 +7,12 @@
 | Iceberg Theory | 78.00% | ~46 |
 | Gear Up | 68.00% | ~40 |
 | A Grand Show | 68.00% | ~40 |
+| GG EZ | 58.00% | ~34 |
 | Freshen Up | 56.00% | ~33 |
-| GG EZ | 56.00% | ~33 |
-| Hydrophobia | 41.00% | ~24 |
+| Hydrophobia | 42.00% | ~25 |
 | Ka-Ching! | 36.00% | ~21 |
-| Stop Right There | 34.00% | ~20 |
-| Get to the Point | 31.00% | ~18 |
+| Stop Right There | 36.00% | ~21 |
+| Get to the Point | 32.00% | ~19 |
 | Toe to Toe | 19.00% | ~11 |
 | The Hidden Secret | 17.00% | ~10 |
 | Mr. Want It All | 17.00% | ~10 |

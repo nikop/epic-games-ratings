@@ -6,15 +6,15 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~20,535 |
-| The Evilest Evil | 58.00% | ~17,261 |
+| The Shadow strikes | 69.00% | ~20,536 |
+| The Evilest Evil | 58.00% | ~17,262 |
 | Twistram is devastated | 57.00% | ~16,964 |
 | The Gehenna Stones | 49.00% | ~14,583 |
-| No one has to die today! | 46.00% | ~13,690 |
-| Death and destruction! | 45.00% | ~13,392 |
-| The Swamplanders from the swamplands | 43.00% | ~12,797 |
+| No one has to die today! | 46.00% | ~13,691 |
+| Death and destruction! | 45.00% | ~13,393 |
+| The Swamplanders from the swamplands | 43.00% | ~12,798 |
 | Rusty Steel | 41.00% | ~12,202 |
-| The One-Huge-Army-Building Evil | 40.00% | ~11,904 |
+| The One-Huge-Army-Building Evil | 40.00% | ~11,905 |
 | The last burger | 37.00% | ~11,012 |
 | Braiiiiins! | 37.00% | ~11,012 |
 | Hands off the Dungeonheart! | 36.00% | ~10,714 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Damned good | 33.00% | ~9,821 |
 | Stock Market Crash | 31.00% | ~9,226 |
 | Factory farming | 31.00% | ~9,226 |
-| Not-So-Overproud | 30.00% | ~8,928 |
+| Not-So-Overproud | 30.00% | ~8,929 |
 | For a handfull of Catapults | 29.00% | ~8,631 |
 | Shadow hunter | 29.00% | ~8,631 |
 | Thirst quencher | 28.00% | ~8,333 |
@@ -34,21 +34,21 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 24.00% | ~7,143 |
 | Angel of Fire | 24.00% | ~7,143 |
 | Where there is Light, there is Shadow | 23.00% | ~6,845 |
-| At the foot of Mount Destiny | 22.00% | ~6,547 |
+| At the foot of Mount Destiny | 22.00% | ~6,548 |
 | The Force disturbed | 21.00% | ~6,250 |
 | The Victorious Evil | 20.00% | ~5,952 |
 | Chorus of damnation | 19.00% | ~5,655 |
 | We don’t have time! | 19.00% | ~5,655 |
 | The Stones’ Power | 18.00% | ~5,357 |
-| Flat as a pancake | 17.00% | ~5,059 |
-| Lifeguard | 17.00% | ~5,059 |
+| Flat as a pancake | 17.00% | ~5,060 |
+| Lifeguard | 17.00% | ~5,060 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,464 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,571 |
 | Then let them eat cake! | 12.00% | ~3,571 |
 | The White Knight | 10.00% | ~2,976 |
 | Please, no interruptions! | 10.00% | ~2,976 |
-| Use the terrain | 9.00% | ~2,678 |
-| Prison Break | 9.00% | ~2,678 |
+| Use the terrain | 9.00% | ~2,679 |
+| Prison Break | 9.00% | ~2,679 |
 | Hearts of Iron | 8.00% | ~2,381 |
 | Master of Traps | 8.00% | ~2,381 |
 | Ignore The Level Designer’s Plan | 8.00% | ~2,381 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~595 |
 | Sacrifices! | 2.00% | ~595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,761 (Ranked 101)  
+Progressed: 29,762 (Ranked 101)  
 Completed: 243 (0.82%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 243 (0.82%) (Ranked 129)
 | 2023-09-05 | 29,603 | 243 |
 | 2023-09-06 | 29,670 | 243 |
 | 2023-09-07 | 29,755 | 243 |
-| 2023-09-08 | 29,761 | 243 |
+| 2023-09-08 | 29,762 | 243 |
 ## Awards
 Max (Great for Beginners): 344  (Ranked 228)  
 Sum: 2,631 (Ranked 175)  

@@ -1680,9 +1680,9 @@
       "Count": 142
     }
   ],
-  "EOS_Progressed": 176434,
+  "EOS_Progressed": 176437,
   "EOS_Completed": 234,
-  "EOS_NewPlayers": 5194,
+  "EOS_NewPlayers": 5187,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7415,6 +7415,11 @@
       "Time": "2023-09-08T01:56:17.1684359+00:00",
       "NumProgressed": 176434,
       "NumCompleted": 234
+    },
+    {
+      "Time": "2023-09-08T02:27:34.8891014+00:00",
+      "NumProgressed": 176437,
+      "NumCompleted": 234
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -7427,7 +7432,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -7547,7 +7552,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -7659,7 +7664,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "Obtain_Guns_A",
@@ -7803,7 +7808,7 @@
       "Name": "Trait Chaser",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12350
+      "UsersEstimate": 12351
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -7826,7 +7831,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 176434,
+      "Progressed": 176437,
       "Completed": 234
     }
   ],
@@ -7834,8 +7839,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-08T01:39:15.2481545+00:00",
-  "LastChanged_Achievements": "2023-09-08T01:56:17.1684354+00:00",
+  "LastChanged_Achievements": "2023-09-08T02:27:34.8891004+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:24.3285434+00:00",
-  "LastUpdate_Ratings": "2023-09-08T01:39:15.2481551+00:00",
-  "LastUpdate_Achievements": "2023-09-08T01:56:17.1685305+00:00"
+  "LastUpdate_Ratings": "2023-09-08T02:13:18.0333846+00:00",
+  "LastUpdate_Achievements": "2023-09-08T02:27:34.8892354+00:00"
 }

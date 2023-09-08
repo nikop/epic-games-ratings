@@ -10,7 +10,7 @@ Number of Ratings: 94  (23.09.2022)
 | Lost in Space | 54.00% | ~117 |
 | Nature or Nurture | 46.00% | ~100 |
 | Power Glove | 46.00% | ~100 |
-| Forgotten Memories | 44.00% | ~95 |
+| Forgotten Memories | 45.00% | ~98 |
 | Cogs in the Machine | 39.00% | ~85 |
 | Mission Success | 17.00% | ~37 |
 | Green Cube Killer | 16.00% | ~35 |

@@ -219,9 +219,9 @@
       "ID": "ACH_HEIST_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Bank Heist Complete",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_HEIST_FAST_COMPLETED",
@@ -290,8 +290,8 @@
   ],
   "FirstSeen": "2023-06-09T19:57:14.7958612+00:00",
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2023-09-08T01:56:50.4540265+00:00",
+  "LastChanged_Achievements": "2023-09-08T02:28:17.7527764+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.7924747+00:00",
-  "LastUpdate_Ratings": "2023-09-08T01:42:15.1119779+00:00",
-  "LastUpdate_Achievements": "2023-09-08T01:56:50.4540376+00:00"
+  "LastUpdate_Ratings": "2023-09-08T02:15:42.1147423+00:00",
+  "LastUpdate_Achievements": "2023-09-08T02:28:17.7527919+00:00"
 }

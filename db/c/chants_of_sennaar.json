@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.81,
+  "EOS_Completed_Percentage": 5.75,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -444,6 +444,11 @@
       "Time": "2023-09-07T21:07:52.4706723+00:00",
       "NumProgressed": 86,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T02:26:39.3432334+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 25,
@@ -581,7 +586,7 @@
       "ID": "OPTIONNAL_WEAPONS",
       "SetID": "2gma9an",
       "Name": "Fashion victim",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -597,7 +602,7 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -654,14 +659,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-08T01:54:54.5192136+00:00",
+  "LastChanged_Achievements": "2023-09-08T02:26:39.3432326+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-08T01:48:27.6324844+00:00",
-  "LastUpdate_Achievements": "2023-09-08T01:54:54.5192501+00:00"
+  "LastUpdate_Ratings": "2023-09-08T02:21:30.1399159+00:00",
+  "LastUpdate_Achievements": "2023-09-08T02:26:39.3432623+00:00"
 }

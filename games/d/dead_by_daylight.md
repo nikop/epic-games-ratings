@@ -6,47 +6,48 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 3.00% | ~25,750 |
-| It wakes | 3.00% | ~25,750 |
-| Skillful | 3.00% | ~25,750 |
-| No one left behind | 2.00% | ~17,167 |
-| Medic | 2.00% | ~17,167 |
-| Handyman | 2.00% | ~17,167 |
-| Nerves of steel | 2.00% | ~17,167 |
-| Not half bad | 2.00% | ~17,167 |
-| Bloody Millionaire | 2.00% | ~17,167 |
-| Apt Survivor | 2.00% | ~17,167 |
-| Survival Treasures | 2.00% | ~17,167 |
-| Sorted | 2.00% | ~17,167 |
-| Make Some Noise | 2.00% | ~17,167 |
-| MU/TH/UR Dearest | 2.00% | ~17,167 |
-| The Grand Sacrifice | 1.00% | ~8,583 |
-| Agonizing Escape | 1.00% | ~8,583 |
-| Backdoor Escape | 1.00% | ~8,583 |
-| I've got your back | 1.00% | ~8,583 |
-| Perfect Escape | 1.00% | ~8,583 |
-| Perfect Killing | 1.00% | ~8,583 |
-| Apt Killer | 1.00% | ~8,583 |
-| Risk it all | 1.00% | ~8,583 |
-| I | 1.00% | ~8,583 |
-| II | 1.00% | ~8,583 |
-| Engineer | 1.00% | ~8,583 |
-| Wounded Healer | 1.00% | ~8,583 |
-| Healthy Obsession | 1.00% | ~8,583 |
-| Resurgence | 1.00% | ~8,583 |
-| Close Shave | 1.00% | ~8,583 |
-| Preemptive Strike | 1.00% | ~8,583 |
-| Humanitarian | 1.00% | ~8,583 |
-| Vulture | 0.90% | ~7,725 |
-| Second Act | 0.90% | ~7,725 |
-| Terror of LV-426 | 0.90% | ~7,725 |
+| Zealous | 3.00% | ~25,752 |
+| It wakes | 3.00% | ~25,752 |
+| Skillful | 3.00% | ~25,752 |
+| No one left behind | 2.00% | ~17,168 |
+| Medic | 2.00% | ~17,168 |
+| Handyman | 2.00% | ~17,168 |
+| Nerves of steel | 2.00% | ~17,168 |
+| Not half bad | 2.00% | ~17,168 |
+| Bloody Millionaire | 2.00% | ~17,168 |
+| Apt Survivor | 2.00% | ~17,168 |
+| Survival Treasures | 2.00% | ~17,168 |
+| Sorted | 2.00% | ~17,168 |
+| Make Some Noise | 2.00% | ~17,168 |
+| MU/TH/UR Dearest | 2.00% | ~17,168 |
+| The Grand Sacrifice | 1.00% | ~8,584 |
+| Agonizing Escape | 1.00% | ~8,584 |
+| Backdoor Escape | 1.00% | ~8,584 |
+| I've got your back | 1.00% | ~8,584 |
+| Perfect Escape | 1.00% | ~8,584 |
+| Perfect Killing | 1.00% | ~8,584 |
+| Apt Killer | 1.00% | ~8,584 |
+| Risk it all | 1.00% | ~8,584 |
+| I | 1.00% | ~8,584 |
+| II | 1.00% | ~8,584 |
+| Engineer | 1.00% | ~8,584 |
+| Wounded Healer | 1.00% | ~8,584 |
+| Healthy Obsession | 1.00% | ~8,584 |
+| Resurgence | 1.00% | ~8,584 |
+| Close Shave | 1.00% | ~8,584 |
+| Preemptive Strike | 1.00% | ~8,584 |
+| Humanitarian | 1.00% | ~8,584 |
+| Vulture | 0.90% | ~7,726 |
+| Second Act | 0.90% | ~7,726 |
+| Terror of LV-426 | 0.90% | ~7,726 |
 | III | 0.80% | ~6,867 |
-| Blood on your hands | 0.70% | ~6,008 |
-| Cherish your Life | 0.70% | ~6,008 |
-| First to the Punch | 0.70% | ~6,008 |
-| Every Last Drop | 0.70% | ~6,008 |
-| With Scars to Show | 0.70% | ~6,008 |
+| Blood on your hands | 0.70% | ~6,009 |
+| Cherish your Life | 0.70% | ~6,009 |
+| First to the Punch | 0.70% | ~6,009 |
+| Every Last Drop | 0.70% | ~6,009 |
+| With Scars to Show | 0.70% | ~6,009 |
 | Made it out alive! | 0.60% | ~5,150 |
+| Gifts for the Fog | 0.60% | ~5,150 |
 | III-50 | 0.60% | ~5,150 |
 | All Aboard | 0.60% | ~5,150 |
 | Item of Obsession | 0.60% | ~5,150 |
@@ -63,7 +64,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 0.60% | ~5,150 |
 | One More Step | 0.60% | ~5,150 |
 | Escape Artist | 0.50% | ~4,292 |
-| Gifts for the Fog | 0.50% | ~4,292 |
 | Shock Therapy | 0.50% | ~4,292 |
 | Leapfrog | 0.50% | ~4,292 |
 | House of Pain | 0.50% | ~4,292 |
@@ -73,17 +73,17 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cutting Out | 0.50% | ~4,292 |
 | Outrun Evil | 0.50% | ~4,292 |
 | Complete the Evolution | 0.50% | ~4,292 |
-| A bite for the Entity | 0.40% | ~3,433 |
-| Blood on your face | 0.40% | ~3,433 |
-| Jump Scares | 0.40% | ~3,433 |
-| Hemophobia | 0.40% | ~3,433 |
-| Serial Killer | 0.40% | ~3,433 |
-| Escaping the Nightmare | 0.40% | ~3,433 |
-| Devoted Gatekeeping | 0.40% | ~3,433 |
-| Grim Pilgrimage | 0.40% | ~3,433 |
-| Selfless Survival | 0.40% | ~3,433 |
-| Outrun the Overlap | 0.40% | ~3,433 |
-| Extraterrestrial | 0.40% | ~3,433 |
+| A bite for the Entity | 0.40% | ~3,434 |
+| Blood on your face | 0.40% | ~3,434 |
+| Jump Scares | 0.40% | ~3,434 |
+| Hemophobia | 0.40% | ~3,434 |
+| Serial Killer | 0.40% | ~3,434 |
+| Escaping the Nightmare | 0.40% | ~3,434 |
+| Devoted Gatekeeping | 0.40% | ~3,434 |
+| Grim Pilgrimage | 0.40% | ~3,434 |
+| Selfless Survival | 0.40% | ~3,434 |
+| Outrun the Overlap | 0.40% | ~3,434 |
+| Extraterrestrial | 0.40% | ~3,434 |
 | Deep Cleansing | 0.30% | ~2,575 |
 | Texas BBQ | 0.30% | ~2,575 |
 | Game Over | 0.30% | ~2,575 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~858 |
 | Adept Ripley | 0.10% | ~858 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 858,348 (Ranked 15)  
+Progressed: 858,407 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,7 +377,7 @@ Completed: 48 (0.01%) (Ranked 256)
 | 2023-09-05 | 852,172 | 48 |
 | 2023-09-06 | 854,955 | 48 |
 | 2023-09-07 | 857,988 | 48 |
-| 2023-09-08 | 858,348 | 48 |
+| 2023-09-08 | 858,407 | 48 |
 ## Awards
 Max (Diverse Characters): 32,082  (Ranked 15)  
 Sum: 251,145 (Ranked 11)  

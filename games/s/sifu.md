@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Bit Of Everything, Simultaneously | 0.10% | ~23 |
 | Fighter in the Pond | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,451 (Ranked 20)  
+Progressed: 713,457 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
 | 2023-09-07 | 713,425 | 12,887 |
-| 2023-09-08 | 713,451 | 12,887 |
+| 2023-09-08 | 713,457 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,446  (Ranked 53)  
 Sum: 11,096 (Ranked 80)  

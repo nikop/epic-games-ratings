@@ -68,6 +68,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Mammonite | 0.40% | ~543 |
 | Wealth Beyond Measure | 0.40% | ~543 |
 | Fat Cat Tag Team | 0.40% | ~543 |
+| Item of Renown | 0.40% | ~543 |
 | Master Merchant | 0.40% | ~543 |
 | Miracle Alchemist | 0.40% | ~543 |
 | Laden with Loot | 0.40% | ~543 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.30% | ~407 |
 | Necromancer Queen | 0.30% | ~407 |
 | Jackpot! | 0.30% | ~407 |
-| Item of Renown | 0.30% | ~407 |
 | Bountiful Harvest | 0.30% | ~407 |
 | Precision Engineering | 0.30% | ~407 |
 | Glittering Collection | 0.30% | ~407 |

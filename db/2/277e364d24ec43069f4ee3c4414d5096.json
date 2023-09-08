@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -278,9 +278,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106814,
+  "EOS_Progressed": 106817,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 979,
+  "EOS_NewPlayers": 977,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10053,6 +10053,11 @@
       "Time": "2023-09-08T01:55:44.7735873+00:00",
       "NumProgressed": 106814,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-09-08T02:27:12.6489201+00:00",
+      "NumProgressed": 106817,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 49,
@@ -10072,7 +10077,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81179
+      "UsersEstimate": 81181
     },
     {
       "ID": "EAwards_10",
@@ -10120,7 +10125,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10681
+      "UsersEstimate": 10682
     },
     {
       "ID": "EAwards_16",
@@ -10136,7 +10141,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38453
+      "UsersEstimate": 38454
     },
     {
       "ID": "EAwards_18",
@@ -10144,7 +10149,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9613
+      "UsersEstimate": 9614
     },
     {
       "ID": "EAwards_19",
@@ -10160,7 +10165,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51271
+      "UsersEstimate": 51272
     },
     {
       "ID": "EAwards_20",
@@ -10168,7 +10173,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10681
+      "UsersEstimate": 10682
     },
     {
       "ID": "EAwards_21",
@@ -10216,7 +10221,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10681
+      "UsersEstimate": 10682
     },
     {
       "ID": "EAwards_27",
@@ -10224,7 +10229,7 @@
       "Name": "One down...",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9613
+      "UsersEstimate": 9614
     },
     {
       "ID": "EAwards_28",
@@ -10232,7 +10237,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "EAwards_29",
@@ -10264,7 +10269,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10681
+      "UsersEstimate": 10682
     },
     {
       "ID": "EAwards_32",
@@ -10416,7 +10421,7 @@
       "Name": "Prickly Pair",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9613
+      "UsersEstimate": 9614
     },
     {
       "ID": "EAwards_6",
@@ -10448,14 +10453,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10681
+      "UsersEstimate": 10682
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 106814,
+      "Progressed": 106817,
       "Completed": 40
     }
   ],
@@ -10463,8 +10468,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-07T11:58:39.0631468+00:00",
-  "LastChanged_Achievements": "2023-09-08T01:55:44.7735866+00:00",
+  "LastChanged_Achievements": "2023-09-08T02:27:12.6489192+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.278544+00:00",
-  "LastUpdate_Ratings": "2023-09-08T01:41:38.7792929+00:00",
-  "LastUpdate_Achievements": "2023-09-08T01:55:44.7736915+00:00"
+  "LastUpdate_Ratings": "2023-09-08T02:15:11.9408221+00:00",
+  "LastUpdate_Achievements": "2023-09-08T02:27:12.649065+00:00"
 }

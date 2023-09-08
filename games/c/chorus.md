@@ -6,33 +6,33 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 85.00% | ~991 |
-| Voices from the Past | 78.00% | ~909 |
-| Space Traveler | 78.00% | ~909 |
-| Demigod | 75.00% | ~874 |
-| The Great Destroyer | 74.00% | ~863 |
-| Shields Down | 71.00% | ~828 |
-| Helping Hand | 67.00% | ~781 |
+| Another Life | 85.00% | ~992 |
+| Voices from the Past | 78.00% | ~910 |
+| Space Traveler | 78.00% | ~910 |
+| Demigod | 75.00% | ~875 |
+| The Great Destroyer | 74.00% | ~864 |
+| Shields Down | 71.00% | ~829 |
+| Helping Hand | 67.00% | ~782 |
 | Safe Home | 66.00% | ~770 |
 | Paragon | 63.00% | ~735 |
-| Old Days Born Anew | 61.00% | ~711 |
-| Full Arsenal | 56.00% | ~653 |
-| Controlled Demolition | 55.00% | ~641 |
-| Payback | 53.00% | ~618 |
-| Huntress | 52.00% | ~606 |
+| Old Days Born Anew | 61.00% | ~712 |
+| Full Arsenal | 56.00% | ~654 |
+| Controlled Demolition | 55.00% | ~642 |
+| Payback | 53.00% | ~619 |
+| Huntress | 52.00% | ~607 |
 | Born to Drift | 51.00% | ~595 |
 | Relentless | 48.00% | ~560 |
 | The Path Forward | 45.00% | ~525 |
-| Disruption | 43.00% | ~501 |
-| Phoenix | 43.00% | ~501 |
-| Cult Slayer | 40.00% | ~466 |
-| Origin | 40.00% | ~466 |
+| Disruption | 43.00% | ~502 |
+| Phoenix | 43.00% | ~502 |
+| Cult Slayer | 40.00% | ~467 |
+| Origin | 40.00% | ~467 |
 | It Was An Accident | 39.00% | ~455 |
 | Set in Motion | 38.00% | ~443 |
-| In the Eye of the Storm | 37.00% | ~431 |
+| In the Eye of the Storm | 37.00% | ~432 |
 | The Crimson Void | 35.00% | ~408 |
-| The Nameless Dread | 34.00% | ~396 |
-| Time to Spear | 31.00% | ~361 |
+| The Nameless Dread | 34.00% | ~397 |
+| Time to Spear | 31.00% | ~362 |
 | Mastery of Weapons | 30.00% | ~350 |
 | Disciple | 30.00% | ~350 |
 | Two Birds | 26.00% | ~303 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Overcharged | 9.00% | ~105 |
 | At Least You Tried | 2.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,166 (Ranked 201)  
+Progressed: 1,167 (Ranked 201)  
 Completed: 14 (1.20%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 14 (1.20%) (Ranked 115)
 | 2023-09-05 | 1,164 | 14 |
 | 2023-09-06 | 1,165 | 14 |
 | 2023-09-07 | 1,166 | 14 |
+| 2023-09-08 | 1,167 | 14 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 456)  
 Sum: 32 (Ranked 478)  

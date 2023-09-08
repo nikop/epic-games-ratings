@@ -2584,9 +2584,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29761,
+  "EOS_Progressed": 29762,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -17844,6 +17844,11 @@
       "Time": "2023-09-08T01:52:11.5731654+00:00",
       "NumProgressed": 29761,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-09-08T02:24:51.1513053+00:00",
+      "NumProgressed": 29762,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 60,
@@ -17855,7 +17860,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17261
+      "UsersEstimate": 17262
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -17863,7 +17868,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13690
+      "UsersEstimate": 13691
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -17879,7 +17884,7 @@
       "Name": "Use the terrain",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_2",
@@ -17895,7 +17900,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6547
+      "UsersEstimate": 6548
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -18063,7 +18068,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12797
+      "UsersEstimate": 12798
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -18071,7 +18076,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 11904
+      "UsersEstimate": 11905
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -18151,7 +18156,7 @@
       "Name": "Prison Break",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ACH_D3_Campaign_Pain_Completed",
@@ -18167,7 +18172,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5059
+      "UsersEstimate": 5060
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -18239,7 +18244,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13392
+      "UsersEstimate": 13393
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -18255,7 +18260,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20535
+      "UsersEstimate": 20536
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -18303,7 +18308,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 8928
+      "UsersEstimate": 8929
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -18311,7 +18316,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5059
+      "UsersEstimate": 5060
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -18334,15 +18339,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29761,
+      "Progressed": 29762,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-04T19:00:53.7599775+00:00",
-  "LastChanged_Achievements": "2023-09-08T01:52:11.5731649+00:00",
+  "LastChanged_Achievements": "2023-09-08T02:24:51.1513044+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-08T01:49:14.4812712+00:00",
-  "LastUpdate_Achievements": "2023-09-08T01:52:11.573312+00:00"
+  "LastUpdate_Ratings": "2023-09-08T02:22:07.4139453+00:00",
+  "LastUpdate_Achievements": "2023-09-08T02:24:51.1515649+00:00"
 }

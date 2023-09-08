@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 62992,
+  "EOS_Progressed": 62993,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 921,
+  "EOS_NewPlayers": 920,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13842,6 +13842,11 @@
       "Time": "2023-09-08T01:54:44.3862405+00:00",
       "NumProgressed": 62992,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-08T02:26:32.6064674+00:00",
+      "NumProgressed": 62993,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -13885,7 +13890,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13228
+      "UsersEstimate": 13229
     },
     {
       "ID": "06",
@@ -13981,7 +13986,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4409
+      "UsersEstimate": 4410
     },
     {
       "ID": "18",
@@ -14125,7 +14130,7 @@
       "Name": "Let There Be Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20157
+      "UsersEstimate": 20158
     },
     {
       "ID": "36",
@@ -14388,21 +14393,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 62992,
+      "Progressed": 62993,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 26460,
+      "Progressed": 26461,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-08T01:54:44.3862397+00:00",
+  "LastChanged_Achievements": "2023-09-08T02:26:32.6064665+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.9039957+00:00",
-  "LastUpdate_Ratings": "2023-09-08T01:43:59.743557+00:00",
-  "LastUpdate_Achievements": "2023-09-08T01:54:44.3863908+00:00"
+  "LastUpdate_Ratings": "2023-09-08T02:17:21.1983098+00:00",
+  "LastUpdate_Achievements": "2023-09-08T02:26:32.6067283+00:00"
 }
