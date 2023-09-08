@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3638,9 +3638,9 @@
       "Count": 385
     }
   ],
-  "EOS_Progressed": 11200,
+  "EOS_Progressed": 11201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11938,6 +11938,11 @@
       "Time": "2023-09-08T01:53:49.2285798+00:00",
       "NumProgressed": 11200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T05:05:59.6965278+00:00",
+      "NumProgressed": 11201,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12187,9 +12192,9 @@
       "ID": "32_MythicReinforcements",
       "SetID": "989of5o",
       "Name": "Mythic Reinforcements",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 336
     },
     {
       "ID": "33_DefendersHeart",
@@ -12876,21 +12881,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9982,
+      "Progressed": 9983,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11200,
+      "Progressed": 11201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-06T21:59:37.2027342+00:00",
-  "LastChanged_Achievements": "2023-09-08T04:08:00.2532044+00:00",
+  "LastChanged_Achievements": "2023-09-08T05:05:59.6965273+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:51.1803019+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:01:59.1323597+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:08:00.2534297+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:00:54.9383277+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:05:59.6967178+00:00"
 }

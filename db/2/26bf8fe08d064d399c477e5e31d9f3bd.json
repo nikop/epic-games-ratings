@@ -2,10 +2,10 @@
   "ID": "26bf8fe08d064d399c477e5e31d9f3bd",
   "Name": "Citizen Conflict",
   "ProductSlug": "cryptocitizen-conflict-95e40e",
-  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-08-29T23:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-06T07:57:09.216876+00:00",
-  "LastUpdate_Ratings": "2023-09-08T03:57:14.4109043+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:07:02.8606053+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:57:25.2595244+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:04:44.4185032+00:00"
 }

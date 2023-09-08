@@ -2,10 +2,10 @@
   "ID": "da28ed4a03cb414393269a6b60b621be",
   "Name": "Survive on Raft",
   "ProductSlug": "survive-on-raft-9845bd",
-  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-10-12T17:00:00+00:00",
     "PcReleaseDate": "2019-07-04T17:00:00+00:00",
@@ -19,12 +19,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2023-09-08T05:04:36.2222815+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-09-05T17:03:41.3838845+00:00",
   "TotalAchievements": 36,
   "TotalAchievementsXP": 1000,
@@ -89,9 +95,9 @@
       "ID": "EASY_PREY",
       "SetID": "2782je5",
       "Name": "Easy Prey",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ENLIGHTENED",
@@ -153,9 +159,9 @@
       "ID": "FISHER",
       "SetID": "2782je5",
       "Name": "Fisher",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FISHERMAN",
@@ -281,9 +287,9 @@
       "ID": "MULTIPLAYER_PLAY_WITH_FRIENDS",
       "SetID": "2782je5",
       "Name": "More fun together!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SAVED_FROM_THIRST",
@@ -322,13 +328,13 @@
     {
       "ID": "2782je5",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:41.3982894+00:00",
-  "LastChanged_Achievements": "2023-09-08T04:06:56.7498483+00:00",
+  "LastChanged_Achievements": "2023-09-08T05:04:36.2222807+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:35.5603337+00:00",
-  "LastUpdate_Ratings": "2023-09-08T03:57:09.1759777+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:06:56.7498759+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:57:21.3228581+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:04:36.2223107+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4018,
+  "EOS_Progressed": 4019,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6379,6 +6379,11 @@
       "Time": "2023-09-08T01:53:53.584765+00:00",
       "NumProgressed": 4018,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-08T05:06:03.3675137+00:00",
+      "NumProgressed": 4019,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6406,7 +6411,7 @@
       "Name": "This will cost you big time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Ach004",
@@ -6518,7 +6523,7 @@
       "Name": "I play my own way!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Ach018",
@@ -6596,9 +6601,9 @@
       "ID": "Ach027",
       "SetID": "12n4k20",
       "Name": "Z-shielding\u0027s got nothing on us!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 322
     },
     {
       "ID": "Ach028",
@@ -6646,7 +6651,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Ach034",
@@ -6670,7 +6675,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Ach037",
@@ -6957,13 +6962,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4018,
+      "Progressed": 4019,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2539,
+      "Progressed": 2540,
       "Completed": 1929
     }
   ],
@@ -6971,8 +6976,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-08T04:08:03.2919231+00:00",
+  "LastChanged_Achievements": "2023-09-08T05:06:03.3675132+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:07.0379973+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:02:41.2486508+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:08:03.2920398+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:01:17.525586+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:06:03.3676212+00:00"
 }

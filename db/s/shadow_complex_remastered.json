@@ -2,10 +2,10 @@
   "ID": "vpr",
   "Name": "Shadow Complex Remastered",
   "ProductSlug": "shadow-complex",
-  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2009-08-19T14:00:00+00:00",
     "PcReleaseDate": "2009-08-19T14:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.5662954+00:00",
   "LastChanged": "2023-03-31T05:57:49.5662955+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:18.1284115+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:05:37.2462859+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:11:22.6815177+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:03:21.9499274+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:09:35.2234086+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1241,9 +1241,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 507
+      "UsersEstimate": 515
     },
     {
       "ID": "AC03",
@@ -1297,9 +1297,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 334
+      "UsersEstimate": 341
     },
     {
       "ID": "AC10",
@@ -1602,8 +1602,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-08T02:59:41.4444116+00:00",
-  "LastChanged_Achievements": "2023-09-08T04:07:14.6079226+00:00",
+  "LastChanged_Achievements": "2023-09-08T05:04:59.88235+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-08T03:58:34.2848685+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:07:14.6079714+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:58:17.0067532+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:04:59.8823966+00:00"
 }

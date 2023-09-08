@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6981,9 +6981,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60547,
+  "EOS_Progressed": 60548,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21851,6 +21851,11 @@
       "Time": "2023-09-08T03:12:50.5558385+00:00",
       "NumProgressed": 60547,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T05:05:31.7612538+00:00",
+      "NumProgressed": 60548,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22214,7 +22219,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10898
+      "UsersEstimate": 10899
     },
     {
       "ID": "This Is Our Land",
@@ -22238,7 +22243,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13320
+      "UsersEstimate": 13321
     },
     {
       "ID": "Undercover",
@@ -22269,15 +22274,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60547,
+      "Progressed": 60548,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-07T19:05:38.3625272+00:00",
-  "LastChanged_Achievements": "2023-09-08T04:07:38.5654607+00:00",
+  "LastChanged_Achievements": "2023-09-08T05:05:31.7612533+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:05:52.9808928+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:07:38.5655979+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:03:31.5029356+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:05:31.761374+00:00"
 }

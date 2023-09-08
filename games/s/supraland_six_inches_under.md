@@ -30,7 +30,7 @@ Number of Ratings: 209  (23.09.2022)
 | Arrested | 85.00% | ~1,895 |
 | Zappy Gun | 85.00% | ~1,895 |
 | Got your own one now | 85.00% | ~1,895 |
-| Don't draw dicks pls | 84.00% | ~1,872 |
+| Don't draw dicks pls | 85.00% | ~1,895 |
 | Ripped | 84.00% | ~1,872 |
 | Beat the big arena | 83.00% | ~1,850 |
 | Force Cube | 82.00% | ~1,828 |
@@ -39,8 +39,8 @@ Number of Ratings: 209  (23.09.2022)
 | Translocator | 80.00% | ~1,783 |
 | Inner Peace | 78.00% | ~1,739 |
 | Diamond Pickaxe | 77.00% | ~1,716 |
+| Trickle Down Economy | 77.00% | ~1,716 |
 | Killed them all | 76.00% | ~1,694 |
-| Trickle Down Economy | 76.00% | ~1,694 |
 | Win | 76.00% | ~1,694 |
 | Greenhouse | 72.00% | ~1,605 |
 | Played with fire | 70.00% | ~1,560 |

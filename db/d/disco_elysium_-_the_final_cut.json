@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1289,9 +1289,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127361,
+  "EOS_Progressed": 127362,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15254,6 +15254,11 @@
       "Time": "2023-09-07T22:07:28.3211307+00:00",
       "NumProgressed": 127361,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-09-08T05:05:53.490344+00:00",
+      "NumProgressed": 127362,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 40,
@@ -15313,7 +15318,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11462
+      "UsersEstimate": 11463
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -15425,7 +15430,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11462
+      "UsersEstimate": 11463
     },
     {
       "ID": "ACH_GLUTEN",
@@ -15584,15 +15589,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127361,
+      "Progressed": 127362,
       "Completed": 27
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-08T04:07:55.763727+00:00",
+  "LastChanged_Achievements": "2023-09-08T05:05:53.4903433+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:00.5699412+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:04:17.4398731+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:07:55.763841+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:02:24.3083468+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:05:53.4904614+00:00"
 }

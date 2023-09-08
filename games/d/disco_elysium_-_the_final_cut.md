@@ -16,8 +16,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Gurdi-Ball Is Lit | 14.00% | ~17,831 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,557 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,010 |
-| Unbelievably Boring **** | 9.00% | ~11,462 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,462 |
+| Unbelievably Boring **** | 9.00% | ~11,463 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,463 |
 | Enemy Of The Physical Realm | 8.00% | ~10,189 |
 | Hardie's Heroes | 6.00% | ~7,642 |
 | The Lawbringer | 4.00% | ~5,094 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,361 (Ranked 69)  
+Progressed: 127,362 (Ranked 69)  
 Completed: 27 (0.02%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 27 (0.02%) (Ranked 248)
 | 2023-09-05 | 127,295 | 27 |
 | 2023-09-06 | 127,328 | 27 |
 | 2023-09-07 | 127,361 | 27 |
+| 2023-09-08 | 127,362 | 27 |
 ## Awards
 Max (Character Customization): 722  (Ranked 166)  
 Sum: 1,086 (Ranked 236)  

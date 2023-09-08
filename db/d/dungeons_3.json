@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2584,7 +2584,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29767,
+  "EOS_Progressed": 29768,
   "EOS_Completed": 243,
   "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 1,
@@ -17859,6 +17859,11 @@
       "Time": "2023-09-08T04:06:51.6415677+00:00",
       "NumProgressed": 29767,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2023-09-08T05:04:29.5150045+00:00",
+      "NumProgressed": 29768,
+      "NumCompleted": 243
     }
   ],
   "TotalAchievements": 60,
@@ -17886,7 +17891,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 16967
+      "UsersEstimate": 16968
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -18102,7 +18107,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12204
+      "UsersEstimate": 12205
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -18150,7 +18155,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7739
+      "UsersEstimate": 7740
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -18174,7 +18179,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 6846
+      "UsersEstimate": 6847
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -18182,7 +18187,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -18198,7 +18203,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8632
+      "UsersEstimate": 8633
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -18254,7 +18259,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13395
+      "UsersEstimate": 13396
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -18262,7 +18267,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8632
+      "UsersEstimate": 8633
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -18270,7 +18275,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20539
+      "UsersEstimate": 20540
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -18294,7 +18299,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 5953
+      "UsersEstimate": 5954
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -18326,7 +18331,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5060
+      "UsersEstimate": 5061
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -18342,22 +18347,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7739
+      "UsersEstimate": 7740
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29767,
+      "Progressed": 29768,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-04T19:00:53.7599775+00:00",
-  "LastChanged_Achievements": "2023-09-08T04:06:51.6415667+00:00",
+  "LastChanged_Achievements": "2023-09-08T05:04:29.5150039+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:04:46.9775399+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:06:51.6417027+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:02:40.2895517+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:04:29.5151381+00:00"
 }

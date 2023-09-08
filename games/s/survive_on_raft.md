@@ -4,6 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Easy Prey | 100.00% | ~1 |
+| Fisher | 100.00% | ~1 |
+| More fun together! | 100.00% | ~1 |
 | Advanced | 0.00% | ~0 |
 | Beginner | 0.00% | ~0 |
 | The beginning of the way | 0.00% | ~0 |
@@ -11,7 +14,6 @@
 | Craftsman | 0.00% | ~0 |
 | Creator | 0.00% | ~0 |
 | Personalization | 0.00% | ~0 |
-| Easy Prey | 0.00% | ~0 |
 | Enlightened | 0.00% | ~0 |
 | Experienced | 0.00% | ~0 |
 | Filterman | 0.00% | ~0 |
@@ -19,7 +21,6 @@
 | Fire Fighter | 0.00% | ~0 |
 | Gourmet | 0.00% | ~0 |
 | SOS | 0.00% | ~0 |
-| Fisher | 0.00% | ~0 |
 | Fisherman | 0.00% | ~0 |
 | Fish Hunter | 0.00% | ~0 |
 | Flame Tamer | 0.00% | ~0 |
@@ -35,8 +36,14 @@
 | Humanitarian Aid | 0.00% | ~0 |
 | Maker | 0.00% | ~0 |
 | Master survivor | 0.00% | ~0 |
-| More fun together! | 0.00% | ~0 |
 | Saved from thirst | 0.00% | ~0 |
 | Skilled Cook | 0.00% | ~0 |
 | Customer | 0.00% | ~0 |
 | Water Desalter | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 536)  
+Completed: 0 (0.00%) (Ranked 271)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-09-08 | 1 | 0 |

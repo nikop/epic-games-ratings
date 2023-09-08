@@ -2,10 +2,10 @@
   "ID": "23f330531bf942feab232ba7e754c94d",
   "Name": "Supergalactix",
   "ProductSlug": "supergalactix-e08b45",
-  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.7815149+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:00:18.1937302+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:09:15.6073679+00:00"
+  "LastUpdate_Ratings": "2023-09-08T04:59:35.1297567+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:07:37.7746694+00:00"
 }

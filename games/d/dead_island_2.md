@@ -23,9 +23,9 @@ Rating: 4.54 (Ranked 505)
 | Like Riding a Bike | 0.90% | ~6,079 |
 | Zombologist | 0.90% | ~6,079 |
 | A Patton Emerges | 0.90% | ~6,079 |
-| Slayer Squad | 0.80% | ~5,403 |
-| I Am the Resurrection | 0.80% | ~5,403 |
-| Our True Nature | 0.80% | ~5,403 |
+| Slayer Squad | 0.80% | ~5,404 |
+| I Am the Resurrection | 0.80% | ~5,404 |
+| Our True Nature | 0.80% | ~5,404 |
 | Anger Management | 0.70% | ~4,728 |
 | Perks of the Job | 0.70% | ~4,728 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,728 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,434 (Ranked 22)  
+Progressed: 675,447 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,10 +192,10 @@ Completed: 2,121 (0.31%) (Ranked 176)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,434 | 2,121 |
+| 2023-09-08 | 675,447 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
-Sum: 8,776 (Ranked 95)  
+Sum: 8,777 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -206,8 +206,8 @@ Diff (max vs sum): -36
 | This game is Relaxing | 367 |
 | This game has Amazing Storytelling | 343 |
 | This game is Extremely Fun | 322 |
+| This game is Highly Recommended | 312 |
 | This game has Amazing Characters | 312 |
-| This game is Highly Recommended | 311 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -351,4 +351,4 @@ Diff (max vs sum): -36
 | 2023-09-05 | 4.54 | 5,913 | 8,730 |
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
-| 2023-09-08 | 4.54 | 5,945 | 8,776 |
+| 2023-09-08 | 4.54 | 5,945 | 8,777 |

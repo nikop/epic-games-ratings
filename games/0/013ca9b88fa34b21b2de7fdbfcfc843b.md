@@ -6,20 +6,20 @@
 | ---- | ---------- | ----- |
 | A Thorny Situation | 59.00% | ~17 |
 | Calm Sailing | 52.00% | ~15 |
-| Bramble Breaker | 48.00% | ~14 |
+| Bramble Breaker | 52.00% | ~15 |
 | Break-Net Speed | 45.00% | ~13 |
 | Open the Gate! | 41.00% | ~12 |
 | Chatty Neighbor | 41.00% | ~12 |
 | Right Tool For the Job | 41.00% | ~12 |
+| Captain of Cozy | 38.00% | ~11 |
 | Clear the Air | 34.00% | ~10 |
-| Captain of Cozy | 34.00% | ~10 |
+| Mist Walker | 34.00% | ~10 |
 | Azoria Beckons | 31.00% | ~9 |
-| Mist Walker | 31.00% | ~9 |
 | Search for the Hairy Grell | 28.00% | ~8 |
 | Lumberjack | 28.00% | ~8 |
+| Azorian Anniversary | 28.00% | ~8 |
+| House Proud | 28.00% | ~8 |
 | Higher Tax Bracket | 24.00% | ~7 |
-| Azorian Anniversary | 24.00% | ~7 |
-| House Proud | 24.00% | ~7 |
 | Skilled | 24.00% | ~7 |
 | Flaming Hot Completos | 17.00% | ~5 |
 | Fae Farmer | 17.00% | ~5 |
@@ -40,7 +40,7 @@
 | Very Skilled | 3.00% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 419)  
+Progressed: 29 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |

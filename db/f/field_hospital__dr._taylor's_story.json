@@ -2,10 +2,10 @@
   "ID": "a4dc8ff50c9b4a1fa9ead4323c2b2e61",
   "Name": "Field Hospital: Dr. Taylor\u0027s Story",
   "ProductSlug": "field-hospital-5752b6",
-  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 90,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2020-11-27T08:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T10:57:03.9769627+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:04:58.428101+00:00",
-  "LastUpdate_Achievements": "2023-09-08T04:11:22.9792056+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:02:49.4597827+00:00",
+  "LastUpdate_Achievements": "2023-09-08T05:09:35.6351443+00:00"
 }

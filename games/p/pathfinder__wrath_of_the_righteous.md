@@ -24,12 +24,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Azata | 4.00% | ~448 |
 | The Legacy | 4.00% | ~448 |
 | Divide and Rule | 4.00% | ~448 |
-| Mythic Reinforcements | 4.00% | ~448 |
 | A Flame | 4.00% | ~448 |
 | Next-Door Play | 4.00% | ~448 |
 | Get the Toad | 4.00% | ~448 |
 | Heart of the Fallen Land | 3.00% | ~336 |
 | Path of the Trickster | 3.00% | ~336 |
+| Mythic Reinforcements | 3.00% | ~336 |
 | Core of the Riddle | 3.00% | ~336 |
 | Hey, I Know You! | 3.00% | ~336 |
 | The Lady of the Forest | 3.00% | ~299 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,200 (Ranked 124)  
+Progressed: 11,201 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-05 | 11,185 | 0 |
 | 2023-09-06 | 11,191 | 0 |
 | 2023-09-07 | 11,199 | 0 |
-| 2023-09-08 | 11,200 | 0 |
+| 2023-09-08 | 11,201 | 0 |
 ## Awards
 Max (Character Customization): 1,707  (Ranked 118)  
 Sum: 6,923 (Ranked 113)  

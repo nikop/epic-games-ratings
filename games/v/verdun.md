@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~44,824 |
-| Worth it | 63.00% | ~36,204 |
-| Eagle Eye | 55.00% | ~31,607 |
-| Corpseman I | 40.00% | ~22,987 |
-| Blast fishing | 37.00% | ~21,263 |
-| Not alone | 32.00% | ~18,389 |
-| Headhunter I | 27.00% | ~15,516 |
-| Manual Labour I | 25.00% | ~14,367 |
-| Developers, Developers, Developers | 24.00% | ~13,792 |
-| Basic Training | 24.00% | ~13,792 |
+| Setting an example | 78.00% | ~44,827 |
+| Worth it | 63.00% | ~36,206 |
+| Eagle Eye | 55.00% | ~31,609 |
+| Corpseman I | 40.00% | ~22,988 |
+| Blast fishing | 37.00% | ~21,264 |
+| Not alone | 32.00% | ~18,390 |
+| Headhunter I | 27.00% | ~15,517 |
+| Manual Labour I | 25.00% | ~14,368 |
+| Developers, Developers, Developers | 24.00% | ~13,793 |
+| Basic Training | 24.00% | ~13,793 |
 | Furchtlos und Treu | 13.00% | ~7,471 |
 | Gott Mit Uns | 12.00% | ~6,896 |
 | This We'll Defend! | 9.00% | ~5,172 |
 | Anker wirf! | 9.00% | ~5,172 |
 | Providentiea Memor | 9.00% | ~5,172 |
 | For King and Country | 9.00% | ~5,172 |
-| Battle hardened | 8.00% | ~4,597 |
+| Battle hardened | 8.00% | ~4,598 |
 | Semper Fidelis! | 7.00% | ~4,023 |
 | Honneur et Patrie | 7.00% | ~4,023 |
-| In Treue Fest | 5.00% | ~2,873 |
-| Voor De Koning | 5.00% | ~2,873 |
-| Extreme Headhunter | 5.00% | ~2,873 |
+| In Treue Fest | 5.00% | ~2,874 |
+| Voor De Koning | 5.00% | ~2,874 |
+| Extreme Headhunter | 5.00% | ~2,874 |
 | Advance Australia | 4.00% | ~2,299 |
 | We Stand on Guard | 4.00% | ~2,299 |
 | Sidi Brahim | 4.00% | ~2,299 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~57 |
 | Blood Brother | 0.10% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,467 (Ranked 89)  
+Progressed: 57,470 (Ranked 89)  
 Completed: 4 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 4 (0.01%) (Ranked 256)
 | 2023-09-05 | 57,327 | 4 |
 | 2023-09-06 | 57,397 | 4 |
 | 2023-09-07 | 57,459 | 4 |
-| 2023-09-08 | 57,467 | 4 |
+| 2023-09-08 | 57,470 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 343)  
 Sum: 772 (Ranked 267)  
