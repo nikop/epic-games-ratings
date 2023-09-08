@@ -4,7 +4,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.22% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.65% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.18% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
@@ -12,16 +12,16 @@
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.87% |
-| 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.28% |
+| 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.14% |
 | 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 17 | [Island Cities](games/i/island_cities.md) | 16.19% |
-| 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
-| 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
-| 20 | [Remains](games/r/remains.md) | 12.50% |
-| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
-| 22 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.76% |
+| 16 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.65% |
+| 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
+| 18 | [Island Cities](games/i/island_cities.md) | 16.28% |
+| 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
+| 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
+| 21 | [Remains](games/r/remains.md) | 12.50% |
+| 22 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 25 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
@@ -48,8 +48,8 @@
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 48 | [JARS](games/j/jars.md) | 5.80% |
-| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.43% |
-| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.38% |
+| 49 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.38% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.38% |
 | 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
@@ -71,7 +71,7 @@
 | 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 70 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.15% |
-| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.05% |
+| 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.04% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.00% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -86,7 +86,7 @@
 | 83 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.51% |
 | 85 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 85 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.49% |
+| 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
 | 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.27% |
@@ -355,7 +355,7 @@
 | 272 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 0.00% |
 | 272 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 0.00% |
 | 272 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 0.00% |
-| 272 | [Fae Farm Pre-Purchase](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.00% |
+| 272 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 0.00% |
 | 272 | [Faraday Protocol](games/f/faraday_protocol.md) | 0.00% |
 | 272 | [Figment 2: Creed Valley](games/f/figment_2__creed_valley.md) | 0.00% |
 | 272 | [Filthy Animals \| Heist Simulator](games/f/filthy_animals___heist_simulator.md) | 0.00% |
@@ -582,4 +582,4 @@
 | 272 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 272 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 272 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,206 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,208 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
