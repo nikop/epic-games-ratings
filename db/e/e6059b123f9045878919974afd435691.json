@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 800,
+  "EOS_Progressed": 801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1851,6 +1851,11 @@
       "Time": "2023-09-06T22:06:55.5053543+00:00",
       "NumProgressed": 800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T06:08:24.7284881+00:00",
+      "NumProgressed": 801,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1862,15 +1867,15 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 360
+      "UsersEstimate": 352
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1924,9 +1929,9 @@
       "ID": "ATK_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Barkannan Cannot Be Pacified",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 8
     },
     {
       "ID": "BARK_ACHIEVEMENT_1",
@@ -2068,9 +2073,9 @@
       "ID": "EXTINV_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Think Bullets Will Affect Her?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 72
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -2164,17 +2169,17 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 88
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
       "SetID": "9lcahn0",
       "Name": "Do This In Silence",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 48
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -2188,9 +2193,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "End the Infestation",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 56
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_3",
@@ -2260,9 +2265,9 @@
       "ID": "MEAT_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "To Get Stronger",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 80
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -2308,9 +2313,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 344
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2372,7 +2377,7 @@
       "ID": "WINC_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Guardian Angel",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 80,
       "UsersEstimate": 6
     },
@@ -2389,14 +2394,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 800,
+      "Progressed": 801,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-08T05:09:04.5637754+00:00",
+  "LastChanged_Achievements": "2023-09-08T06:08:24.7284877+00:00",
   "LastUpdate_AppInfo": "2023-09-07T18:57:15.8521033+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:58:39.3022713+00:00",
-  "LastUpdate_Achievements": "2023-09-08T05:09:04.5638561+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:58:36.3754951+00:00",
+  "LastUpdate_Achievements": "2023-09-08T06:08:24.7285711+00:00"
 }

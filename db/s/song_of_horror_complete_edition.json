@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-horror-20de0c",
   "Ranking_EOS_Progress": 582,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-03-10T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.2816517+00:00",
   "LastChanged": "2023-03-31T05:58:35.2816518+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:40.0937985+00:00",
-  "LastUpdate_Ratings": "2023-09-08T05:02:00.0992477+00:00",
-  "LastUpdate_Achievements": "2023-09-08T05:06:45.0141973+00:00"
+  "LastUpdate_Ratings": "2023-09-08T06:01:30.4544935+00:00",
+  "LastUpdate_Achievements": "2023-09-08T06:06:18.7052217+00:00"
 }

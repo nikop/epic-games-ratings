@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.80% | ~1,777 |
 | %#*!$*! | 0.80% | ~1,777 |
 | Look but don't touch | 0.80% | ~1,777 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,554 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,555 |
 | Dead for good | 0.60% | ~1,332 |
 | Lust and Debauchery | 0.60% | ~1,332 |
 | Material Girl | 0.60% | ~1,332 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,071 (Ranked 57)  
+Progressed: 222,073 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-05 | 221,553 | 2 |
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
-| 2023-09-08 | 222,071 | 2 |
+| 2023-09-08 | 222,073 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

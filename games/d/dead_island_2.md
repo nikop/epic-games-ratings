@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 1.00% | ~6,754 |
-| Git Gutte! | 1.00% | ~6,754 |
-| Bookworm | 1.00% | ~6,754 |
-| Break A Leg | 1.00% | ~6,754 |
-| But Doctor, I am Butcho | 1.00% | ~6,754 |
-| Coup de Grâce | 1.00% | ~6,754 |
-| Hazardous Materials | 1.00% | ~6,754 |
-| Friends Like These | 1.00% | ~6,754 |
-| Hotel California | 1.00% | ~6,754 |
-| Apex Predator | 1.00% | ~6,754 |
-| Stacking the Deck | 1.00% | ~6,754 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,754 |
-| This is My Weapon | 1.00% | ~6,754 |
-| Welcome To Hell-A | 1.00% | ~6,754 |
+| Dr. Reed, I Presume? | 1.00% | ~6,755 |
+| Git Gutte! | 1.00% | ~6,755 |
+| Bookworm | 1.00% | ~6,755 |
+| Break A Leg | 1.00% | ~6,755 |
+| But Doctor, I am Butcho | 1.00% | ~6,755 |
+| Coup de Grâce | 1.00% | ~6,755 |
+| Hazardous Materials | 1.00% | ~6,755 |
+| Friends Like These | 1.00% | ~6,755 |
+| Hotel California | 1.00% | ~6,755 |
+| Apex Predator | 1.00% | ~6,755 |
+| Stacking the Deck | 1.00% | ~6,755 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,755 |
+| This is My Weapon | 1.00% | ~6,755 |
+| Welcome To Hell-A | 1.00% | ~6,755 |
 | Can't Handle the Truth | 0.90% | ~6,079 |
 | Like Riding a Bike | 0.90% | ~6,079 |
 | Zombologist | 0.90% | ~6,079 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~675 |
 | Bucket List | 0.10% | ~675 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,447 (Ranked 22)  
+Progressed: 675,462 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2,121 (0.31%) (Ranked 176)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,447 | 2,121 |
+| 2023-09-08 | 675,462 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
 Sum: 8,777 (Ranked 95)  

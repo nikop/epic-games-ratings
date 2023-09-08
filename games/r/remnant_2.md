@@ -5,35 +5,35 @@ Rating: 4.76 (Ranked 118)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~15,884 |
-| The Killing Jar | 8.00% | ~14,119 |
-| Not Your Average Trait | 8.00% | ~14,119 |
-| Expanding Horizons | 7.00% | ~12,354 |
-| Quest for Survival | 7.00% | ~12,354 |
-| Boss'n Up | 7.00% | ~12,354 |
-| Trait Chaser | 7.00% | ~12,354 |
-| Gleaming the Cube | 6.00% | ~10,589 |
-| Not a Janitor | 6.00% | ~10,589 |
-| Familiar Face | 6.00% | ~10,589 |
-| Blue Goddess | 6.00% | ~10,589 |
-| Duality | 6.00% | ~10,589 |
-| Top Performer | 6.00% | ~10,589 |
-| Good, But Could Be Better! | 6.00% | ~10,589 |
-| Not So Special Now | 5.00% | ~8,824 |
-| Equal Measures | 5.00% | ~8,824 |
-| Shhh...It's a Secret | 5.00% | ~8,824 |
-| Almost There | 5.00% | ~8,824 |
-| Make Some Room | 5.00% | ~8,824 |
-| Chaos | 4.00% | ~7,059 |
-| Traitor | 4.00% | ~7,059 |
-| Power Surge | 4.00% | ~7,059 |
-| The God Gambit | 4.00% | ~7,059 |
-| Dark Designs | 4.00% | ~7,059 |
-| Madman's Paradise | 4.00% | ~7,059 |
-| Was This Supposed To Happen? | 4.00% | ~7,059 |
-| The Web | 4.00% | ~7,059 |
-| Scrap Collector | 4.00% | ~7,059 |
-| All These Traits� | 4.00% | ~7,059 |
+| First of Many | 9.00% | ~15,885 |
+| The Killing Jar | 8.00% | ~14,120 |
+| Not Your Average Trait | 8.00% | ~14,120 |
+| Expanding Horizons | 7.00% | ~12,355 |
+| Quest for Survival | 7.00% | ~12,355 |
+| Trait Chaser | 7.00% | ~12,355 |
+| Gleaming the Cube | 6.00% | ~10,590 |
+| Not a Janitor | 6.00% | ~10,590 |
+| Familiar Face | 6.00% | ~10,590 |
+| Blue Goddess | 6.00% | ~10,590 |
+| Duality | 6.00% | ~10,590 |
+| Top Performer | 6.00% | ~10,590 |
+| Boss'n Up | 6.00% | ~10,590 |
+| Good, But Could Be Better! | 6.00% | ~10,590 |
+| Not So Special Now | 5.00% | ~8,825 |
+| Equal Measures | 5.00% | ~8,825 |
+| Shhh...It's a Secret | 5.00% | ~8,825 |
+| Almost There | 5.00% | ~8,825 |
+| Make Some Room | 5.00% | ~8,825 |
+| Chaos | 4.00% | ~7,060 |
+| Traitor | 4.00% | ~7,060 |
+| Power Surge | 4.00% | ~7,060 |
+| The God Gambit | 4.00% | ~7,060 |
+| Dark Designs | 4.00% | ~7,060 |
+| Madman's Paradise | 4.00% | ~7,060 |
+| Was This Supposed To Happen? | 4.00% | ~7,060 |
+| The Web | 4.00% | ~7,060 |
+| Scrap Collector | 4.00% | ~7,060 |
+| All These Traits� | 4.00% | ~7,060 |
 | Forever is a Long Time Coming | 3.00% | ~5,295 |
 | The Agenda | 3.00% | ~5,295 |
 | Tall Tales | 3.00% | ~5,295 |
@@ -53,11 +53,11 @@ Rating: 4.76 (Ranked 118)
 | The Trigger | 1.00% | ~1,765 |
 | Cutting Edge | 1.00% | ~1,765 |
 | The Collector | 1.00% | ~1,765 |
-| Proving Grounds | 0.90% | ~1,588 |
+| Proving Grounds | 0.90% | ~1,589 |
 | Ghost in the Machine | 0.80% | ~1,412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176,484 (Ranked 63)  
-Completed: 237 (0.13%) (Ranked 208)  
+Progressed: 176,502 (Ranked 63)  
+Completed: 238 (0.13%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,7 +110,7 @@ Completed: 237 (0.13%) (Ranked 208)
 | 2023-09-05 | 175,165 | 220 |
 | 2023-09-06 | 175,761 | 226 |
 | 2023-09-07 | 176,378 | 231 |
-| 2023-09-08 | 176,484 | 237 |
+| 2023-09-08 | 176,502 | 238 |
 ## Awards
 Max (Great Boss Battles): 1,454  (Ranked 125)  
 Sum: 2,758 (Ranked 173)  

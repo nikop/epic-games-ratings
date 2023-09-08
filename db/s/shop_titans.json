@@ -5914,7 +5914,7 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135818,
+  "EOS_Progressed": 135821,
   "EOS_Completed": 146,
   "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 6,
@@ -20344,6 +20344,11 @@
       "Time": "2023-09-08T05:06:57.0175973+00:00",
       "NumProgressed": 135818,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2023-09-08T06:06:31.6571317+00:00",
+      "NumProgressed": 135821,
+      "NumCompleted": 146
     }
   ],
   "TotalAchievements": 112,
@@ -21049,9 +21054,9 @@
       "ID": "masterpiece",
       "SetID": "anfd17p",
       "Name": "All or Nothing!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 272
     },
     {
       "ID": "polonia_a",
@@ -21097,9 +21102,9 @@
       "ID": "rareres01",
       "SetID": "anfd17p",
       "Name": "Glittering Collection",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "rareres02",
@@ -21250,15 +21255,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135818,
+      "Progressed": 135821,
       "Completed": 146
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-08T01:46:44.9189561+00:00",
-  "LastChanged_Achievements": "2023-09-08T05:06:57.0175967+00:00",
+  "LastChanged_Achievements": "2023-09-08T06:06:31.6571311+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-08T05:01:18.7796272+00:00",
-  "LastUpdate_Achievements": "2023-09-08T05:06:57.0178456+00:00"
+  "LastUpdate_Ratings": "2023-09-08T06:00:57.0575024+00:00",
+  "LastUpdate_Achievements": "2023-09-08T06:06:31.6574611+00:00"
 }

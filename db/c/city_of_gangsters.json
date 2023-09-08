@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 822,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 42,
@@ -595,9 +595,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342096,
+  "EOS_Progressed": 342102,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1172,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16235,6 +16235,11 @@
       "Time": "2023-09-08T05:03:57.5864414+00:00",
       "NumProgressed": 342096,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-08T06:03:20.706438+00:00",
+      "NumProgressed": 342102,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -16350,7 +16355,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51314
+      "UsersEstimate": 51315
     },
     {
       "ID": "ach015",
@@ -16374,7 +16379,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44472
+      "UsersEstimate": 44473
     },
     {
       "ID": "ach018",
@@ -16454,7 +16459,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157364
+      "UsersEstimate": 157367
     },
     {
       "ID": "ach028",
@@ -16598,7 +16603,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44472
+      "UsersEstimate": 44473
     },
     {
       "ID": "ach046",
@@ -16758,7 +16763,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47893
+      "UsersEstimate": 47894
     },
     {
       "ID": "ach067",
@@ -16774,7 +16779,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54735
+      "UsersEstimate": 54736
     },
     {
       "ID": "ach069",
@@ -16782,7 +16787,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47893
+      "UsersEstimate": 47894
     },
     {
       "ID": "ach070",
@@ -16862,7 +16867,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "ach080",
@@ -16885,7 +16890,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 342096,
+      "Progressed": 342102,
       "Completed": 7
     }
   ],
@@ -16893,8 +16898,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-04T17:58:02.8250479+00:00",
-  "LastChanged_Achievements": "2023-09-08T05:03:57.5864407+00:00",
+  "LastChanged_Achievements": "2023-09-08T06:03:20.7064374+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:13.1145719+00:00",
-  "LastUpdate_Ratings": "2023-09-08T05:00:03.4246528+00:00",
-  "LastUpdate_Achievements": "2023-09-08T05:03:57.5867646+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:59:54.350422+00:00",
+  "LastUpdate_Achievements": "2023-09-08T06:03:20.7067454+00:00"
 }

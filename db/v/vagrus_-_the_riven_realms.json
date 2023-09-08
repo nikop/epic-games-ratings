@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -1201,9 +1201,9 @@
       "ID": "Vanilla_TroubleAtFortLarius",
       "SetID": "27kik8p",
       "Name": "Trouble at Fort Larius",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_UnseenPatterns",
@@ -1258,8 +1258,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-08T05:06:03.2574022+00:00",
+  "LastChanged_Achievements": "2023-09-08T06:05:34.8497314+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:44.6615158+00:00",
-  "LastUpdate_Ratings": "2023-09-08T05:02:03.5752577+00:00",
-  "LastUpdate_Achievements": "2023-09-08T05:06:03.2575339+00:00"
+  "LastUpdate_Ratings": "2023-09-08T06:01:35.1165663+00:00",
+  "LastUpdate_Achievements": "2023-09-08T06:05:34.8498617+00:00"
 }

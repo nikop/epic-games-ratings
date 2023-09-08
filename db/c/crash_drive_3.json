@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -446,6 +446,11 @@
       "Time": "2023-09-07T21:07:01.9559681+00:00",
       "NumProgressed": 377,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T06:05:23.4255777+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -455,9 +460,9 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 117
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -473,7 +478,7 @@
       "Name": "Fore!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CATAPULT_THROW",
@@ -513,7 +518,7 @@
       "Name": "High Roller",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -575,9 +580,9 @@
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -609,7 +614,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -633,7 +638,7 @@
       "Name": "Anger Issues",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -641,7 +646,7 @@
       "Name": "Pushover",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "HIT_ALIEN",
@@ -649,7 +654,7 @@
       "Name": "Earth Defense Force",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
@@ -665,7 +670,7 @@
       "Name": "Insurance fraud",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -697,7 +702,7 @@
       "Name": "Your Highness",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "LEFT_LEVEL",
@@ -721,7 +726,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -729,7 +734,7 @@
       "Name": "Snow Fun!",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -815,9 +820,9 @@
       "ID": "USE_TUNNEL",
       "SetID": "20koof9",
       "Name": "I see the light!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -871,9 +876,9 @@
       "ID": "WIN_ROBBER",
       "SetID": "20koof9",
       "Name": "In the Bag!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -896,7 +901,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 2
     }
   ],
@@ -904,8 +909,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-08T05:05:52.4472938+00:00",
+  "LastChanged_Achievements": "2023-09-08T06:05:23.4255772+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:27.9557907+00:00",
-  "LastUpdate_Ratings": "2023-09-08T05:01:44.7233261+00:00",
-  "LastUpdate_Achievements": "2023-09-08T05:05:52.4473412+00:00"
+  "LastUpdate_Ratings": "2023-09-08T06:01:17.134525+00:00",
+  "LastUpdate_Achievements": "2023-09-08T06:05:23.4256324+00:00"
 }

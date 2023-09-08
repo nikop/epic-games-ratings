@@ -2698,9 +2698,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 74928,
+  "EOS_Progressed": 74929,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 848,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -18153,6 +18153,11 @@
       "Time": "2023-09-08T05:06:44.0411066+00:00",
       "NumProgressed": 74928,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-09-08T06:06:17.7044672+00:00",
+      "NumProgressed": 74929,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 30,
@@ -18188,7 +18193,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 17233
+      "UsersEstimate": 17234
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -18236,7 +18241,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -18244,7 +18249,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 27723
+      "UsersEstimate": 27724
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -18284,7 +18289,7 @@
       "Name": "Curiosity",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -18300,7 +18305,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 19481
+      "UsersEstimate": 19482
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -18308,7 +18313,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -18332,7 +18337,7 @@
       "Name": "Money money",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11988
+      "UsersEstimate": 11989
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -18340,7 +18345,7 @@
       "Name": "Final touch",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 27723
+      "UsersEstimate": 27724
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -18388,7 +18393,7 @@
       "Name": "Master",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -18403,15 +18408,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 74928,
+      "Progressed": 74929,
       "Completed": 99
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-06T15:00:09.5275323+00:00",
-  "LastChanged_Achievements": "2023-09-08T05:06:44.0411061+00:00",
+  "LastChanged_Achievements": "2023-09-08T06:06:17.7044667+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0373499+00:00",
-  "LastUpdate_Ratings": "2023-09-08T05:00:49.4631968+00:00",
-  "LastUpdate_Achievements": "2023-09-08T05:06:44.041227+00:00"
+  "LastUpdate_Ratings": "2023-09-08T06:00:31.305538+00:00",
+  "LastUpdate_Achievements": "2023-09-08T06:06:17.7046159+00:00"
 }

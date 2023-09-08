@@ -31,11 +31,11 @@
 | Pilgrimage's End | 4.00% | ~5 |
 | Inquisitions of Discord | 4.00% | ~5 |
 | Merchant | 4.00% | ~5 |
+| Trouble at Fort Larius | 4.00% | ~5 |
 | Supercargo | 3.00% | ~4 |
 | Xevarian Gambit | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
 | Despised | 3.00% | ~4 |
-| Trouble at Fort Larius | 3.00% | ~4 |
 | Unseen Patterns | 3.00% | ~4 |
 | Huntress Unbound | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |

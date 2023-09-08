@@ -75,6 +75,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Seasoned Journeyman | 0.40% | ~543 |
 | Scourge of the Seas | 0.40% | ~543 |
 | Attrition Mission | 0.40% | ~543 |
+| Glittering Collection | 0.40% | ~543 |
 | Black Friday Special | 0.40% | ~543 |
 | King's Shadow | 0.40% | ~543 |
 | Special Ingredient | 0.40% | ~543 |
@@ -95,7 +96,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.30% | ~407 |
 | Bountiful Harvest | 0.30% | ~407 |
 | Precision Engineering | 0.30% | ~407 |
-| Glittering Collection | 0.30% | ~407 |
 | Treasure Trove | 0.30% | ~407 |
 | Moment of Respite | 0.30% | ~407 |
 | Master Recycler | 0.30% | ~407 |
@@ -103,6 +103,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Blade | 0.30% | ~407 |
 | The Free Encyclopedia | 0.20% | ~272 |
 | Thank You Tom Nook | 0.20% | ~272 |
+| All or Nothing! | 0.20% | ~272 |
 | Eternal Crusade | 0.20% | ~272 |
 | All Accounted For | 0.20% | ~272 |
 | Bane of Legends | 0.10% | ~136 |
@@ -114,12 +115,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Merchant Extraordinaire | 0.10% | ~136 |
 | Anything not Nailed Down | 0.10% | ~136 |
 | The Greatest Grind | 0.10% | ~136 |
-| All or Nothing! | 0.10% | ~136 |
 | To Hell and Back | 0.10% | ~136 |
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,818 (Ranked 67)  
+Progressed: 135,821 (Ranked 67)  
 Completed: 146 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 146 (0.11%) (Ranked 215)
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
-| 2023-09-08 | 135,818 | 146 |
+| 2023-09-08 | 135,821 | 146 |
 ## Awards
 Max (Great for Beginners): 4,730  (Ranked 70)  
 Sum: 27,189 (Ranked 48)  

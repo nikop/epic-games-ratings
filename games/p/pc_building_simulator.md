@@ -6,18 +6,18 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,742,191 |
-| Easy to forget | 46.00% | ~1,635,526 |
-| Back in the black | 39.00% | ~1,386,642 |
-| That's what I'm talking about | 29.00% | ~1,031,093 |
-| The Best of Both Worlds | 25.00% | ~888,873 |
-| Get your wings | 20.00% | ~711,098 |
-| Double trouble | 16.00% | ~568,879 |
-| Smashing it | 11.00% | ~391,104 |
-| But can it run Crysis? | 9.00% | ~319,994 |
-| My favourite feature... | 9.00% | ~319,994 |
-| From humble beginnings... | 7.00% | ~248,884 |
-| Customer satisfaction | 7.00% | ~248,884 |
+| You need to plug it in... | 49.00% | ~1,742,197 |
+| Easy to forget | 46.00% | ~1,635,532 |
+| Back in the black | 39.00% | ~1,386,647 |
+| That's what I'm talking about | 29.00% | ~1,031,096 |
+| The Best of Both Worlds | 25.00% | ~888,876 |
+| Get your wings | 20.00% | ~711,101 |
+| Double trouble | 16.00% | ~568,881 |
+| Smashing it | 11.00% | ~391,105 |
+| But can it run Crysis? | 9.00% | ~319,995 |
+| My favourite feature... | 9.00% | ~319,995 |
+| From humble beginnings... | 7.00% | ~248,885 |
+| Customer satisfaction | 7.00% | ~248,885 |
 | Keeping things neat | 4.00% | ~142,220 |
 | Seems you're pretty good at this | 4.00% | ~142,220 |
 | Bending over backwards | 4.00% | ~142,220 |
@@ -37,29 +37,29 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,555 |
 | Majority Shareholder | 1.00% | ~35,555 |
 | Owner | 1.00% | ~35,555 |
-| Show off | 0.90% | ~31,999 |
-| Work ethic 101 | 0.70% | ~24,888 |
+| Show off | 0.90% | ~32,000 |
+| Work ethic 101 | 0.70% | ~24,889 |
 | Building momentum | 0.60% | ~21,333 |
 | Lead by example | 0.60% | ~21,333 |
-| Treat yourself - RAM | 0.50% | ~17,777 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,666 |
-| Mr big business | 0.30% | ~10,666 |
-| Mister Big | 0.30% | ~10,666 |
-| Getting your feet wet | 0.30% | ~10,666 |
-| Customer's ALWAYS right. | 0.30% | ~10,666 |
-| Treat yourself - CPU | 0.30% | ~10,666 |
+| Treat yourself - RAM | 0.50% | ~17,778 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,667 |
+| Mr big business | 0.30% | ~10,667 |
+| Mister Big | 0.30% | ~10,667 |
+| Getting your feet wet | 0.30% | ~10,667 |
+| Customer's ALWAYS right. | 0.30% | ~10,667 |
+| Treat yourself - CPU | 0.30% | ~10,667 |
 | 1920x1080 | 0.20% | ~7,111 |
 | Blow 'em away | 0.20% | ~7,111 |
-| Hasta La Vista, Baby. | 0.10% | ~3,555 |
-| Wow to build a PC! | 0.10% | ~3,555 |
-| Hoarder | 0.10% | ~3,555 |
-| Sitting on a fortune | 0.10% | ~3,555 |
-| Wow, you really like PCs | 0.10% | ~3,555 |
-| Going loopy | 0.10% | ~3,555 |
-| Stop it | 0.10% | ~3,555 |
-| Treat yourself - GPU | 0.10% | ~3,555 |
+| Hasta La Vista, Baby. | 0.10% | ~3,556 |
+| Wow to build a PC! | 0.10% | ~3,556 |
+| Hoarder | 0.10% | ~3,556 |
+| Sitting on a fortune | 0.10% | ~3,556 |
+| Wow, you really like PCs | 0.10% | ~3,556 |
+| Going loopy | 0.10% | ~3,556 |
+| Stop it | 0.10% | ~3,556 |
+| Treat yourself - GPU | 0.10% | ~3,556 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,555,492 (Ranked 5)  
+Progressed: 3,555,504 (Ranked 5)  
 Completed: 34 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 34 (0.00%) (Ranked 271)
 | 2023-09-05 | 3,554,758 | 34 |
 | 2023-09-06 | 3,555,058 | 34 |
 | 2023-09-07 | 3,555,432 | 34 |
-| 2023-09-08 | 3,555,492 | 34 |
+| 2023-09-08 | 3,555,504 | 34 |
 ## Awards
 Max (Great for Beginners): 1,063  (Ranked 141)  
-Sum: 7,968 (Ranked 100)  
+Sum: 7,969 (Ranked 100)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
@@ -216,7 +216,7 @@ Diff (max vs sum): 41
 | This game has Amazing Storytelling | 815 |
 | This game has Obsessive Gameplay | 664 |
 | This game has Amazing Characters | 655 |
-| This game has a Creative Community | 643 |
+| This game has a Creative Community | 644 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -417,3 +417,4 @@ Diff (max vs sum): 41
 | 2023-09-05 | 4.66 | - | 1,063 | 7,966 |
 | 2023-09-06 | 4.66 | - | 1,063 | 7,967 |
 | 2023-09-07 | 4.66 | - | 1,063 | 7,968 |
+| 2023-09-08 | 4.66 | - | 1,063 | 7,969 |

@@ -2,9 +2,9 @@
   "ID": "f23600737cfe43d0a3c807c938c5e94b",
   "Name": "Reyna Darkness",
   "ProductSlug": "reyna-darkness-0e1bb8",
-  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36,6 +36,11 @@
       "Time": "2023-08-29T23:07:07.2042033+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T06:09:17.9591746+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 13,
@@ -45,7 +50,7 @@
       "ID": "BECOME A BUILDER",
       "SetID": "517hp5f",
       "Name": "BECOME A BUILDER",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -53,7 +58,7 @@
       "ID": "BUILDING EXPERT",
       "SetID": "517hp5f",
       "Name": "BUILDING EXPERT",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 140,
       "UsersEstimate": 1
     },
@@ -61,7 +66,7 @@
       "ID": "CHAMPION",
       "SetID": "517hp5f",
       "Name": "CHAMPION",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -69,7 +74,7 @@
       "ID": "CONQUEROR",
       "SetID": "517hp5f",
       "Name": "CONQUEROR",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -93,7 +98,7 @@
       "ID": "GENERAL OF WAR",
       "SetID": "517hp5f",
       "Name": "GENERAL OF WAR",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 135,
       "UsersEstimate": 1
     },
@@ -109,7 +114,7 @@
       "ID": "MEDIUM WEALTH",
       "SetID": "517hp5f",
       "Name": "MEDIUM WEALTH",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -117,7 +122,7 @@
       "ID": "PROFESSIONAL BUILDER",
       "SetID": "517hp5f",
       "Name": "PROFESSIONAL BUILDER",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -141,7 +146,7 @@
       "ID": "SNOWY",
       "SetID": "517hp5f",
       "Name": "SNOWY...",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -150,14 +155,14 @@
     {
       "ID": "517hp5f",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-18T21:57:22.0606659+00:00",
   "FirstSeenAchievements": "2023-06-18T07:00:32.9688598+00:00",
-  "LastChanged_Achievements": "2023-09-08T05:09:54.6937131+00:00",
+  "LastChanged_Achievements": "2023-09-08T06:09:17.959174+00:00",
   "LastUpdate_AppInfo": "2023-09-03T12:59:21.2121125+00:00",
-  "LastUpdate_Ratings": "2023-09-08T04:58:05.1115562+00:00",
-  "LastUpdate_Achievements": "2023-09-08T05:09:54.6937232+00:00"
+  "LastUpdate_Ratings": "2023-09-08T05:58:03.6136304+00:00",
+  "LastUpdate_Achievements": "2023-09-08T06:09:17.9591932+00:00"
 }
