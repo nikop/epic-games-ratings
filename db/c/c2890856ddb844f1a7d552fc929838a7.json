@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 726,
+  "EOS_Progressed": 727,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1220,6 +1220,11 @@
       "Time": "2023-09-08T06:04:27.0655919+00:00",
       "NumProgressed": 726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T11:04:26.9823108+00:00",
+      "NumProgressed": 727,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1240,15 +1245,15 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 515
+      "UsersEstimate": 509
     },
     {
       "ID": "AC03",
@@ -1256,7 +1261,7 @@
       "Name": "Blood and Gold",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "AC04",
@@ -1280,7 +1285,7 @@
       "Name": "The Last Ascension",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "AC07",
@@ -1296,7 +1301,7 @@
       "Name": "Forged in Fire",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "AC09",
@@ -1304,7 +1309,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "AC10",
@@ -1320,7 +1325,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "AC12",
@@ -1352,7 +1357,7 @@
       "Name": "Full Devotion",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "AC16",
@@ -1384,7 +1389,7 @@
       "Name": "Soledad",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "AC20",
@@ -1456,7 +1461,7 @@
       "Name": "The Punished One",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "AC29",
@@ -1470,9 +1475,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 393
     },
     {
       "ID": "AC31",
@@ -1552,7 +1557,7 @@
       "Name": "Welcome Back!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "AC41",
@@ -1576,7 +1581,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "AC44",
@@ -1599,7 +1604,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 726,
+      "Progressed": 727,
       "Completed": 0
     }
   ],
@@ -1607,8 +1612,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-08T02:59:41.4444116+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:03:45.2445521+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:04:26.9823102+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:57:55.3487747+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:03:45.2445993+00:00"
+  "LastUpdate_Ratings": "2023-09-08T10:58:12.9562572+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:04:26.9823469+00:00"
 }

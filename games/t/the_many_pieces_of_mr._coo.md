@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Punch & Judy | 200.00% | ~2 |
+| Punch & Judy | 0.00% | ~0 |
 | Just what I wanted | 0.00% | ~0 |
 | Beware of the chicken | 0.00% | ~0 |
 | Crack the eggshell | 0.00% | ~0 |
@@ -15,10 +15,10 @@
 | Finally together | 0.00% | ~0 |
 | Hang in there | 0.00% | ~0 |
 | Holidays | 0.00% | ~0 |
-| Furnace | 0.00% | ~0 |
+| Athanor | 0.00% | ~0 |
 | Ale hop! | 0.00% | ~0 |
 | That’s the key | 0.00% | ~0 |
-| Puzzle | 0.00% | ~0 |
+| Puzzler | 0.00% | ~0 |
 | Free! | 0.00% | ~0 |
 | They’re all dead | 0.00% | ~0 |
 | You won | 0.00% | ~0 |

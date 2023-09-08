@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 220,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1254,9 +1254,9 @@
       "ID": "ACH_PROPELL",
       "SetID": "232494e",
       "Name": "To Infinity and Beyond",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_REDEND",
@@ -1318,8 +1318,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:04:49.7494814+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:05:32.0526242+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:58:35.3655689+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:04:49.749507+00:00"
+  "LastUpdate_Ratings": "2023-09-08T10:59:01.4548826+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:05:32.0526447+00:00"
 }

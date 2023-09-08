@@ -39,9 +39,9 @@
       "ID": "Trophy_01",
       "SetID": "2i507j",
       "Name": "Punch \u0026 Judy",
-      "Percentage": 200,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "Trophy_02",
@@ -126,7 +126,7 @@
     {
       "ID": "Trophy_12",
       "SetID": "2i507j",
-      "Name": "Furnace",
+      "Name": "Athanor",
       "Percentage": 0,
       "XP": 30,
       "UsersEstimate": 0
@@ -150,7 +150,7 @@
     {
       "ID": "Trophy_15",
       "SetID": "2i507j",
-      "Name": "Puzzle",
+      "Name": "Puzzler",
       "Percentage": 0,
       "XP": 15,
       "UsersEstimate": 0
@@ -213,8 +213,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:01.5920642+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:05:59.5117318+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:06:31.2658658+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:55.3999272+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:57:30.7149876+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:05:59.5117466+00:00"
+  "LastUpdate_Ratings": "2023-09-08T10:57:44.5952375+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:06:31.2658787+00:00"
 }

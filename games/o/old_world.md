@@ -148,6 +148,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
 | Ten Crowns | 0.40% | ~55 |
+| Three Man Chariot | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
 | Bronze Victory (Carthage 1) | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
@@ -160,7 +161,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~41 |
 | Circus Maximus in Roma | 0.30% | ~41 |
 | Capturing Cities | 0.30% | ~41 |
-| Three Man Chariot | 0.30% | ~41 |
 | Siege Tower | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
 | Necropolis in Waset | 0.30% | ~41 |

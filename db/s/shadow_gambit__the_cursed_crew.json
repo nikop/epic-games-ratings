@@ -58,7 +58,7 @@
   "Tags": [],
   "EOS_Progressed": 617,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -1768,9 +1768,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 68
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1793,8 +1793,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-07T13:05:15.5809933+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:07:18.8171496+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:08:16.0592798+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:46.0913582+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:59:37.9353234+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:07:18.8171775+00:00"
+  "LastUpdate_Ratings": "2023-09-08T11:00:14.3446849+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:08:16.0593054+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 90,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.68,
+  "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -454,6 +454,11 @@
       "Time": "2023-09-08T10:05:43.4539639+00:00",
       "NumProgressed": 88,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T11:06:12.4247446+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 25,
@@ -487,7 +492,7 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -495,7 +500,7 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -567,7 +572,7 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -575,7 +580,7 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -599,7 +604,7 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -607,15 +612,15 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -625,7 +630,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "PROGRESS_N2",
@@ -647,7 +652,7 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
       "UsersEstimate": 13
     },
@@ -655,7 +660,7 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 80,
       "UsersEstimate": 12
     }
@@ -664,14 +669,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 90,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:05:43.4539633+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:06:12.4247443+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-08T10:00:43.4625048+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:05:43.4539831+00:00"
+  "LastUpdate_Ratings": "2023-09-08T11:01:26.8263968+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:06:12.4247622+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 489,
-  "Ranking_Popularity": 379,
+  "Ranking_Rating": 490,
+  "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -602,18 +602,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 71,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-09-08T11:00:20.1477076+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 72,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 71,
-  "NumberOfAwardsMax": 71,
+  "NumberOfAwards": 72,
+  "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 71
+      "Count": 72
     }
   ],
   "EOS_Progressed": 9851,
@@ -9425,9 +9431,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-09-04T06:58:40.518129+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:05:35.1148109+00:00",
+  "LastChanged": "2023-09-08T11:00:20.1477075+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:06:02.5249894+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:53.7698369+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:59:46.7775903+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:05:35.1148894+00:00"
+  "LastUpdate_Ratings": "2023-09-08T11:00:20.147708+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:06:02.5250486+00:00"
 }

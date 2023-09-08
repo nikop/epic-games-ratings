@@ -152,9 +152,9 @@
       "ID": "NoviceExpert2",
       "SetID": "di28ocn",
       "Name": "Novice Master",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NoviceExpert3",
@@ -438,8 +438,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T18:00:41.8577246+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:07:26.1897788+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:08:25.7923355+00:00",
   "LastUpdate_AppInfo": "2023-09-06T19:57:01.1558852+00:00",
-  "LastUpdate_Ratings": "2023-09-08T10:02:07.6670622+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:07:26.1898158+00:00"
+  "LastUpdate_Ratings": "2023-09-08T11:02:48.0549244+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:08:25.7923644+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2618,9 +2618,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 641976,
+  "EOS_Progressed": 641978,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2046,
+  "EOS_NewPlayers": 2038,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18323,6 +18323,11 @@
       "Time": "2023-09-08T10:05:22.5336798+00:00",
       "NumProgressed": 641976,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-08T11:05:47.3855073+00:00",
+      "NumProgressed": 641978,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 52,
@@ -18342,7 +18347,7 @@
       "Name": "Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 70617
+      "UsersEstimate": 70618
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -18654,7 +18659,7 @@
       "Name": "Climate Change",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 96296
+      "UsersEstimate": 96297
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -18749,15 +18754,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 641976,
+      "Progressed": 641978,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-05T13:02:18.2766457+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:05:22.5336794+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:05:47.3855068+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:40.8702668+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:57:54.5174985+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:05:22.5338235+00:00"
+  "LastUpdate_Ratings": "2023-09-08T10:58:11.852877+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:05:47.3856168+00:00"
 }

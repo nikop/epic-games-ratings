@@ -6,13 +6,13 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 5.00% | ~827 |
-| Overcoming Difficulty | 5.00% | ~827 |
-| Coral Forest | 5.00% | ~827 |
-| The Marshlands | 5.00% | ~827 |
-| The Scarlet Orchard | 5.00% | ~827 |
-| Taking Action | 5.00% | ~827 |
-| No Deaths | 5.00% | ~827 |
+| No Deaths | 6.00% | ~993 |
+| First Real Expedition | 5.00% | ~828 |
+| Overcoming Difficulty | 5.00% | ~828 |
+| Coral Forest | 5.00% | ~828 |
+| The Marshlands | 5.00% | ~828 |
+| The Scarlet Orchard | 5.00% | ~828 |
+| Taking Action | 5.00% | ~828 |
 | Ancient Battleground | 4.00% | ~662 |
 | Fertile Meadows | 4.00% | ~662 |
 | Lost Colonies | 4.00% | ~662 |
@@ -42,11 +42,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 2.00% | ~331 |
 | Defying the Crown | 2.00% | ~331 |
 | Into the Forest | 2.00% | ~331 |
-| Feeding The People | 1.00% | ~165 |
-| Efficient Explorer | 1.00% | ~165 |
-| Prestigious Expedition | 1.00% | ~165 |
-| Blood Flower Farmer | 1.00% | ~165 |
-| Victory through Prosperity | 1.00% | ~165 |
+| Feeding The People | 1.00% | ~166 |
+| Efficient Explorer | 1.00% | ~166 |
+| Prestigious Expedition | 1.00% | ~166 |
+| Blood Flower Farmer | 1.00% | ~166 |
+| Victory through Prosperity | 1.00% | ~166 |
 | Lizard Utopia | 0.70% | ~116 |
 | Beaver Utopia | 0.60% | ~99 |
 | Human Utopia | 0.60% | ~99 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.20% | ~33 |
 | Paradise | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,549 (Ranked 117)  
+Progressed: 16,550 (Ranked 117)  
 Completed: 47 (0.28%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 47 (0.28%) (Ranked 181)
 | 2023-09-05 | 16,532 | 47 |
 | 2023-09-06 | 16,541 | 47 |
 | 2023-09-07 | 16,546 | 47 |
-| 2023-09-08 | 16,549 | 47 |
+| 2023-09-08 | 16,550 | 47 |
 ## Awards
 Max (Quickly Understood Controls): 428  (Ranked 210)  
 Sum: 3,129 (Ranked 164)  

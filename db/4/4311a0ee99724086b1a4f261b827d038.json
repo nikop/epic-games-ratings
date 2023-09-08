@@ -2,12 +2,12 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 490,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 21,
+  "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214692,
+  "EOS_Progressed": 214711,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4490,
+  "EOS_NewPlayers": 4473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5344,6 +5344,11 @@
       "Time": "2023-09-08T10:06:02.5966951+00:00",
       "NumProgressed": 214692,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T11:06:35.0448378+00:00",
+      "NumProgressed": 214711,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -5404,7 +5409,7 @@
       "Name": "Hiigara Completed",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "HW1_MISSION1_COMPLETE",
@@ -5412,7 +5417,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 42938
+      "UsersEstimate": 42942
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -5420,7 +5425,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19322
+      "UsersEstimate": 19324
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -5428,7 +5433,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10735
+      "UsersEstimate": 10736
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -5500,7 +5505,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -5516,7 +5521,7 @@
       "Name": "Balcora Gate Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "HW2_MISSION14_COMPLETE",
@@ -5540,7 +5545,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 27910
+      "UsersEstimate": 27912
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -5548,7 +5553,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15028
+      "UsersEstimate": 15030
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -5588,7 +5593,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -5612,7 +5617,7 @@
       "Name": "Graduated Command School",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 51526
+      "UsersEstimate": 51531
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -5627,7 +5632,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 214692,
+      "Progressed": 214711,
       "Completed": 0
     }
   ],
@@ -5635,8 +5640,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-05T11:57:54.635913+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:06:02.5966945+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:06:35.0448373+00:00",
   "LastUpdate_AppInfo": "2023-09-07T19:57:25.1255237+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:57:48.2292428+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:06:02.5967538+00:00"
+  "LastUpdate_Ratings": "2023-09-08T10:58:08.6404568+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:06:35.0448806+00:00"
 }

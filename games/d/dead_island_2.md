@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 1.00% | ~6,755 |
-| Git Gutte! | 1.00% | ~6,755 |
-| Bookworm | 1.00% | ~6,755 |
-| Break A Leg | 1.00% | ~6,755 |
-| But Doctor, I am Butcho | 1.00% | ~6,755 |
-| Coup de Grâce | 1.00% | ~6,755 |
-| Hazardous Materials | 1.00% | ~6,755 |
-| Friends Like These | 1.00% | ~6,755 |
-| Hotel California | 1.00% | ~6,755 |
-| Apex Predator | 1.00% | ~6,755 |
-| Stacking the Deck | 1.00% | ~6,755 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,755 |
-| This is My Weapon | 1.00% | ~6,755 |
-| Welcome To Hell-A | 1.00% | ~6,755 |
+| Dr. Reed, I Presume? | 1.00% | ~6,756 |
+| Git Gutte! | 1.00% | ~6,756 |
+| Bookworm | 1.00% | ~6,756 |
+| Break A Leg | 1.00% | ~6,756 |
+| But Doctor, I am Butcho | 1.00% | ~6,756 |
+| Coup de Grâce | 1.00% | ~6,756 |
+| Hazardous Materials | 1.00% | ~6,756 |
+| Friends Like These | 1.00% | ~6,756 |
+| Hotel California | 1.00% | ~6,756 |
+| Apex Predator | 1.00% | ~6,756 |
+| Stacking the Deck | 1.00% | ~6,756 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,756 |
+| This is My Weapon | 1.00% | ~6,756 |
+| Welcome To Hell-A | 1.00% | ~6,756 |
 | Can't Handle the Truth | 0.90% | ~6,080 |
 | Like Riding a Bike | 0.90% | ~6,080 |
 | Zombologist | 0.90% | ~6,080 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,526 (Ranked 22)  
+Progressed: 675,552 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,10 +192,10 @@ Completed: 2,121 (0.31%) (Ranked 176)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,526 | 2,121 |
+| 2023-09-08 | 675,552 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
-Sum: 8,777 (Ranked 95)  
+Sum: 8,779 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -205,7 +205,7 @@ Diff (max vs sum): -36
 | This game has Quickly Understood Controls | 383 |
 | This game is Relaxing | 367 |
 | This game has Amazing Storytelling | 343 |
-| This game is Extremely Fun | 322 |
+| This game is Extremely Fun | 324 |
 | This game is Highly Recommended | 312 |
 | This game has Amazing Characters | 312 |
 ## Ratings History
@@ -351,4 +351,4 @@ Diff (max vs sum): -36
 | 2023-09-05 | 4.54 | 5,913 | 8,730 |
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
-| 2023-09-08 | 4.54 | 5,945 | 8,777 |
+| 2023-09-08 | 4.54 | 5,945 | 8,779 |

@@ -6,7 +6,7 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 12.00% | ~511 |
+| Eureka! | 12.00% | ~512 |
 | Tax-man I | 11.00% | ~469 |
 | A new beginning | 11.00% | ~469 |
 | Friends from the past | 10.00% | ~426 |
@@ -29,13 +29,13 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man III | 5.00% | ~213 |
 | A time consuming game II | 5.00% | ~213 |
 | Tools of the trade I | 5.00% | ~213 |
-| Bread for the people II | 4.00% | ~170 |
-| I like to build stuff... III | 4.00% | ~170 |
-| An honorable Governor II | 4.00% | ~170 |
-| Full-time job III | 4.00% | ~170 |
-| Tax-man IV | 4.00% | ~170 |
-| A time consuming game III | 4.00% | ~170 |
-| Conflicting parties | 4.00% | ~170 |
+| Bread for the people II | 4.00% | ~171 |
+| I like to build stuff... III | 4.00% | ~171 |
+| An honorable Governor II | 4.00% | ~171 |
+| Full-time job III | 4.00% | ~171 |
+| Tax-man IV | 4.00% | ~171 |
+| A time consuming game III | 4.00% | ~171 |
+| Conflicting parties | 4.00% | ~171 |
 | Another one bites the dust | 3.00% | ~128 |
 | Bread for the people III | 3.00% | ~128 |
 | I like to build stuff... IV | 3.00% | ~128 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,262 (Ranked 152)  
+Progressed: 4,263 (Ranked 152)  
 Completed: 3 (0.07%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 3 (0.07%) (Ranked 228)
 | 2023-09-04 | 4,257 | 3 |
 | 2023-09-06 | 4,258 | 3 |
 | 2023-09-07 | 4,261 | 3 |
-| 2023-09-08 | 4,262 | 3 |
+| 2023-09-08 | 4,263 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

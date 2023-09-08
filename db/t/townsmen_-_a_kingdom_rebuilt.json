@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4262,
+  "EOS_Progressed": 4263,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1130,6 +1130,11 @@
       "Time": "2023-09-08T09:07:24.3292059+00:00",
       "NumProgressed": 4262,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-08T11:07:49.16131+00:00",
+      "NumProgressed": 4263,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1181,7 +1186,7 @@
       "Name": "Bread for the people II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_BREAD3",
@@ -1221,7 +1226,7 @@
       "Name": "I like to build stuff... III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS4",
@@ -1421,7 +1426,7 @@
       "Name": "An honorable Governor II",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -1485,7 +1490,7 @@
       "Name": "Full-time job III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
@@ -1493,7 +1498,7 @@
       "Name": "Eureka!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -1813,7 +1818,7 @@
       "Name": "Tax-man IV",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_TAXES5",
@@ -1845,7 +1850,7 @@
       "Name": "A time consuming game III",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_TIME4",
@@ -1925,7 +1930,7 @@
       "Name": "Conflicting parties",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION06",
@@ -1948,15 +1953,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4262,
+      "Progressed": 4263,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-08T10:07:04.6536694+00:00",
+  "LastChanged_Achievements": "2023-09-08T11:07:49.1613096+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:38.5025236+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:59:32.4977159+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:07:04.6538016+00:00"
+  "LastUpdate_Ratings": "2023-09-08T11:00:06.8185412+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:07:49.1614113+00:00"
 }

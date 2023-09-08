@@ -2,7 +2,7 @@
   "ID": "37e6d41ce91e44988190c2f10108d4e9",
   "Name": "Tales of the Neon Sea",
   "ProductSlug": "tales-of-the-neon-sea",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 583,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 251,
   "RatingHistory": [
     {
@@ -385,6 +385,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-08T10:57:49.2770075+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -402,8 +408,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:14.4267103+00:00",
-  "LastChanged": "2023-09-03T10:01:45.8815912+00:00",
+  "LastChanged": "2023-09-08T10:57:49.2770073+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:06.6641485+00:00",
-  "LastUpdate_Ratings": "2023-09-08T09:57:33.9162845+00:00",
-  "LastUpdate_Achievements": "2023-09-08T10:07:17.2110465+00:00"
+  "LastUpdate_Ratings": "2023-09-08T10:57:49.2770079+00:00",
+  "LastUpdate_Achievements": "2023-09-08T11:08:14.3040999+00:00"
 }
