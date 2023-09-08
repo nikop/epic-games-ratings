@@ -15,7 +15,7 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 16 | [Island Cities](games/i/island_cities.md) | 16.86% |
+| 16 | [Island Cities](games/i/island_cities.md) | 16.79% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 13.33% |
@@ -107,7 +107,7 @@
 | 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
 | 107 | [Five Dates](games/f/five_dates.md) | 1.50% |
-| 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.49% |
+| 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 109 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 109 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 111 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.39% |
@@ -199,16 +199,16 @@
 | 196 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
 | 198 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 198 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.17% |
+| 200 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 200 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 200 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
 | 200 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 203 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
-| 203 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
-| 203 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 203 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 204 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
+| 204 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
+| 204 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 207 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 208 | [Remnant 2](games/r/remnant_2.md) | 0.13% |
-| 208 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
+| 207 | [Remnant 2](games/r/remnant_2.md) | 0.14% |
+| 209 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 210 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 210 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 210 | [Isonzo](games/i/isonzo.md) | 0.12% |
@@ -549,6 +549,7 @@
 | 271 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 0.00% |
 | 271 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 0.00% |
 | 271 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 0.00% |
+| 271 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 0.00% |
 | 271 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 0.00% |
 | 271 | [The Tenants](games/t/the_tenants.md) | 0.00% |
 | 271 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 0.00% |
@@ -580,4 +581,4 @@
 | 271 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 271 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 271 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,205 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,206 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
