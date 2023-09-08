@@ -23,6 +23,7 @@
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 173,807 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,375 | 33 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 497 |
+| 24 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.87 | 0 | 517 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 282 | 241 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,436 | 126 |
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 722 | 166 |
@@ -30,18 +31,17 @@
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,024 | 143 |
 | 24 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 517 |
 | 24 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.87 | 0 | 517 |
-| 31 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 517 |
-| 31 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.86 | 21 | 504 |
-| 31 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.86 | 0 | 517 |
-| 31 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 427 |
-| 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 229 |
-| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,439 | 30 |
-| 31 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 341 |
-| 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 44 | 420 |
-| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,412 | 129 |
-| 31 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 517 |
-| 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 502 | 200 |
-| 31 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 517 |
+| 32 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 517 |
+| 32 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.86 | 21 | 504 |
+| 32 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 427 |
+| 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 229 |
+| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,439 | 30 |
+| 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 341 |
+| 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 44 | 420 |
+| 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,412 | 129 |
+| 32 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 517 |
+| 32 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 502 | 200 |
+| 32 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 517 |
 | 43 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 153 | 298 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,821 | 43 |
 | 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,554 | 64 |
@@ -575,32 +575,32 @@
 | 564 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 517 |
 | 564 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.50 | 99 | 339 |
 | 564 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 632 | 179 |
-| 564 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 23 | 494 |
 | 564 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.50 | 0 | 517 |
 | 564 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 782 | 160 |
 | 564 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 36 | 438 |
-| 580 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 388 |
-| 580 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 517 |
-| 580 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,988 | 108 |
-| 580 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,052 | 14 |
-| 580 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 517 |
-| 580 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 517 |
-| 580 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 275 | 248 |
-| 580 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 517 |
-| 580 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 127 | 311 |
-| 580 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 251 | 254 |
-| 580 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 517 |
-| 580 | [Maneater](games/m/maneater.md) | 4.49 | 13,657 | 26 |
-| 580 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 517 |
-| 580 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
-| 580 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.49 | 0 | 517 |
-| 580 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 531,279 | 2 |
-| 580 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 359 |
-| 580 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 517 |
-| 580 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,501 | 101 |
-| 580 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 517 |
-| 580 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 517 |
-| 580 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 37 | 435 |
+| 579 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 388 |
+| 579 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 517 |
+| 579 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,988 | 108 |
+| 579 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,052 | 14 |
+| 579 | [Duskers](games/d/duskers.md) | 4.49 | 0 | 517 |
+| 579 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 517 |
+| 579 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 275 | 248 |
+| 579 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 517 |
+| 579 | [First Class Trouble](games/f/first_class_trouble.md) | 4.49 | 127 | 311 |
+| 579 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 251 | 254 |
+| 579 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 517 |
+| 579 | [Maneater](games/m/maneater.md) | 4.49 | 13,657 | 26 |
+| 579 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 517 |
+| 579 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 456 |
+| 579 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 23 | 494 |
+| 579 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.49 | 0 | 517 |
+| 579 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 531,279 | 2 |
+| 579 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 359 |
+| 579 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 517 |
+| 579 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,501 | 101 |
+| 579 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 517 |
+| 579 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.49 | 0 | 517 |
+| 579 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.49 | 37 | 435 |
 | 602 | [Anno 2070](games/a/anno_2070.md) | 4.48 | 0 | 517 |
 | 602 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 517 |
 | 602 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 517 |
