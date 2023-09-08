@@ -15,7 +15,7 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 16 | [Island Cities](games/i/island_cities.md) | 17.36% |
+| 16 | [Island Cities](games/i/island_cities.md) | 17.19% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 13.33% |
@@ -58,7 +58,7 @@
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.14% |
+| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.05% |
 | 61 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
@@ -154,10 +154,10 @@
 | 151 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 153 | [Aragami 2](games/a/aragami_2.md) | 0.51% |
 | 154 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
-| 155 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.47% |
 | 155 | [Them and Us](games/t/them_and_us.md) | 0.47% |
-| 157 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 157 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
+| 156 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
+| 156 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.46% |
+| 156 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 159 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 160 | [Train Valley](games/t/train_valley.md) | 0.44% |
 | 161 | [Tchia](games/t/tchia.md) | 0.43% |
