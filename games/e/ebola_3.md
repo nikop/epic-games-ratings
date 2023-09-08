@@ -44,10 +44,10 @@
 | Car ✔ | 2.00% | ~5 |
 | Seeker One ✔ | 2.00% | ~5 |
 | Seeker Three ✔ | 2.00% | ~5 |
+| Crocodile Escape ✔ | 2.00% | ~5 |
 | Boss 2 ✔ | 2.00% | ~5 |
 | The escape ✔ | 2.00% | ~5 |
 | Rank B+ ✔ | 2.00% | ~5 |
-| Crocodile Escape ✔ | 1.00% | ~2 |
 | VIP ✔ | 1.00% | ~2 |
 | Exterminate pests ✔ | 0.80% | ~2 |
 | Hardcore ✔ | 0.80% | ~2 |

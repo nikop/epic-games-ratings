@@ -4,8 +4,8 @@
   "ProductSlug": "train-sim-world-4",
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
     "PcReleaseDate": "2023-09-26T17:00:00+00:00",
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:05:35.5201411+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:05:24.0154831+00:00",
   "LastUpdate_AppInfo": "2023-09-05T17:57:20.2036136+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:58:05.5065953+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:05:35.5201439+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:58:02.5324698+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:05:24.0154864+00:00"
 }

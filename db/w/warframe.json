@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -9365,10 +9365,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 45787,
       "NumberOfAwardsMax": 16915
+    },
+    {
+      "Time": "2023-09-08T15:58:21.0128207+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 45804,
+      "NumberOfAwardsMax": 16915
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45787,
+  "NumberOfAwards": 45804,
   "NumberOfAwardsMax": 16915,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9412,7 +9418,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3553
+      "Count": 3558
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9424,7 +9430,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 3354
+      "Count": 3360
     },
     {
       "Text": "This game has a Kind Community",
@@ -9436,7 +9442,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3511
+      "Count": 3517
     }
   ],
   "EOS_Progressed": 0,
@@ -9450,8 +9456,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-09-08T14:58:26.6408271+00:00",
+  "LastChanged": "2023-09-08T15:58:21.0128206+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:22.0382427+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:58:26.6408277+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:03:27.300482+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:58:21.0128213+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:03:16.2074104+00:00"
 }

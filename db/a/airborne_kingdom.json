@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7155,
+  "EOS_Progressed": 7156,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -4169,6 +4169,11 @@
       "Time": "2023-09-08T14:03:05.0713236+00:00",
       "NumProgressed": 7155,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-08T16:02:13.4509908+00:00",
+      "NumProgressed": 7156,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4188,7 +4193,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -4212,7 +4217,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3792
+      "UsersEstimate": 3793
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4276,7 +4281,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -4388,22 +4393,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7155,
+      "Progressed": 7156,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:02:12.8589284+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:02:13.4509903+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.9166051+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:58:26.3649846+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:02:12.858969+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:58:20.7819661+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:02:13.4510417+00:00"
 }

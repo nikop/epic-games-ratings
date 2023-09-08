@@ -14,8 +14,8 @@
 | A good beginning | 14.00% | ~13 |
 | Rascal | 14.00% | ~13 |
 | True G4M3R | 14.00% | ~13 |
+| One last step | 14.00% | ~13 |
 | Champollion | 13.00% | ~12 |
-| One last step | 13.00% | ~12 |
 | Cable guy | 12.00% | ~11 |
 | Fashion victim | 11.00% | ~10 |
 | I did it | 10.00% | ~9 |

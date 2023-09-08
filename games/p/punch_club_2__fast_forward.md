@@ -61,12 +61,12 @@
 | The last bell ring | 33.00% | ~105 |
 | Trap disarmed | 32.00% | ~102 |
 | The lonesome road | 32.00% | ~102 |
+| Keep nature safe | 32.00% | ~102 |
 | Family comes first | 32.00% | ~102 |
 | Key memories | 32.00% | ~102 |
 | Careerist | 32.00% | ~102 |
 | The heart of the Resistance | 32.00% | ~102 |
 | Another world | 31.00% | ~99 |
-| Keep nature safe | 31.00% | ~99 |
 | Better cooking at home | 29.00% | ~93 |
 | Silver’s past | 28.00% | ~89 |
 | The only right decision | 28.00% | ~89 |

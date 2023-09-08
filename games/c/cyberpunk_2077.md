@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~603,886 |
-| Right Back At Ya | 39.00% | ~341,327 |
-| The Lovers | 35.00% | ~306,319 |
-| Stanislavski's Method | 29.00% | ~253,807 |
-| The Wheel of Fortune | 28.00% | ~245,055 |
-| The Hermit | 25.00% | ~218,799 |
-| Christmas Tree Attack | 23.00% | ~201,295 |
-| True Soldier | 23.00% | ~201,295 |
-| The High Priestess | 22.00% | ~192,543 |
-| Legend of The Afterlife | 22.00% | ~192,543 |
-| Life of the Road | 21.00% | ~183,791 |
-| Full Body Conversion | 18.00% | ~157,535 |
-| The World | 18.00% | ~157,535 |
-| Bushido and Chill | 17.00% | ~148,783 |
+| The Fool | 69.00% | ~603,889 |
+| Right Back At Ya | 39.00% | ~341,328 |
+| The Lovers | 35.00% | ~306,320 |
+| Stanislavski's Method | 29.00% | ~253,808 |
+| The Wheel of Fortune | 28.00% | ~245,056 |
+| The Hermit | 25.00% | ~218,800 |
+| Christmas Tree Attack | 23.00% | ~201,296 |
+| True Soldier | 23.00% | ~201,296 |
+| The High Priestess | 22.00% | ~192,544 |
+| Legend of The Afterlife | 22.00% | ~192,544 |
+| Life of the Road | 21.00% | ~183,792 |
+| Full Body Conversion | 18.00% | ~157,536 |
+| The World | 18.00% | ~157,536 |
+| Bushido and Chill | 17.00% | ~148,784 |
 | Gun Fu | 15.00% | ~131,280 |
 | True Warrior | 15.00% | ~131,280 |
 | To Protect and Serve | 14.00% | ~122,528 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,752 |
 | Rough Landing | 0.50% | ~4,376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,197 (Ranked 14)  
+Progressed: 875,201 (Ranked 14)  
 Completed: 2,069 (0.24%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,10 +192,10 @@ Completed: 2,069 (0.24%) (Ranked 188)
 | 2023-09-05 | 874,775 | 2,062 |
 | 2023-09-06 | 874,918 | 2,065 |
 | 2023-09-07 | 875,089 | 2,069 |
-| 2023-09-08 | 875,197 | 2,069 |
+| 2023-09-08 | 875,201 | 2,069 |
 ## Awards
 Max (Character Customization): 77,833  (Ranked 9)  
-Sum: 207,193 (Ranked 13)  
+Sum: 207,216 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -206,7 +206,7 @@ Diff (max vs sum): -4
 | This game has Amazing Storytelling | 9,263 |
 | This game is Highly Recommended | 9,128 |
 | This game is Extremely Fun | 9,108 |
-| This game is Relaxing | 8,990 |
+| This game is Relaxing | 9,013 |
 | This game has Amazing Characters | 8,954 |
 | This game has Quickly Understood Controls | 8,927 |
 | This game has a Creative Community | 5,837 |
@@ -445,4 +445,4 @@ Diff (max vs sum): -4
 | 2023-09-05 | 4.62 | - | 77,523 | 206,227 |
 | 2023-09-06 | 4.62 | - | 77,619 | 206,600 |
 | 2023-09-07 | 4.62 | - | 77,726 | 206,995 |
-| 2023-09-08 | 4.62 | - | 77,833 | 207,193 |
+| 2023-09-08 | 4.62 | - | 77,833 | 207,216 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -11529,10 +11529,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 207193,
       "NumberOfAwardsMax": 77833
+    },
+    {
+      "Time": "2023-09-08T15:58:56.0334173+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 207216,
+      "NumberOfAwardsMax": 77833
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 207193,
+  "NumberOfAwards": 207216,
   "NumberOfAwardsMax": 77833,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11558,7 +11564,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 8990
+      "Count": 9013
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11609,9 +11615,9 @@
       "Count": 5837
     }
   ],
-  "EOS_Progressed": 875197,
+  "EOS_Progressed": 875201,
   "EOS_Completed": 2069,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1290,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -27334,6 +27340,11 @@
       "Time": "2023-09-08T15:05:09.3366354+00:00",
       "NumProgressed": 875197,
       "NumCompleted": 2069
+    },
+    {
+      "Time": "2023-09-08T16:04:56.7970572+00:00",
+      "NumProgressed": 875201,
+      "NumCompleted": 2069
     }
   ],
   "TotalAchievements": 44,
@@ -27361,7 +27372,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 148783
+      "UsersEstimate": 148784
     },
     {
       "ID": "Cyberjunkie",
@@ -27369,7 +27380,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 157535
+      "UsersEstimate": 157536
     },
     {
       "ID": "Denied",
@@ -27377,7 +27388,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 341327
+      "UsersEstimate": 341328
     },
     {
       "ID": "FollowingTheRiver",
@@ -27465,7 +27476,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 201295
+      "UsersEstimate": 201296
     },
     {
       "ID": "MaxPain",
@@ -27513,7 +27524,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183791
+      "UsersEstimate": 183792
     },
     {
       "ID": "Roleplayer",
@@ -27521,7 +27532,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 253807
+      "UsersEstimate": 253808
     },
     {
       "ID": "Specialist",
@@ -27561,7 +27572,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 603886
+      "UsersEstimate": 603889
     },
     {
       "ID": "TheHermit",
@@ -27569,7 +27580,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 218799
+      "UsersEstimate": 218800
     },
     {
       "ID": "TheHightPriestess",
@@ -27577,7 +27588,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 192543
+      "UsersEstimate": 192544
     },
     {
       "ID": "TheLovers",
@@ -27585,7 +27596,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 306319
+      "UsersEstimate": 306320
     },
     {
       "ID": "TheStar",
@@ -27609,7 +27620,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 245055
+      "UsersEstimate": 245056
     },
     {
       "ID": "TheWorld",
@@ -27617,7 +27628,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 157535
+      "UsersEstimate": 157536
     },
     {
       "ID": "ThisIsPacifica",
@@ -27641,7 +27652,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 201295
+      "UsersEstimate": 201296
     },
     {
       "ID": "TrueWarrior",
@@ -27689,28 +27700,28 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 192543
+      "UsersEstimate": 192544
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 875197,
+      "Progressed": 875201,
       "Completed": 2069
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 3820,
-      "Completed": 3820
+      "Progressed": 3824,
+      "Completed": 3824
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-09-08T13:59:10.0329206+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:05:09.336635+00:00",
+  "LastChanged": "2023-09-08T15:58:56.0334172+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:04:56.7970568+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:30.2017845+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:59:02.1690455+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:05:09.3367366+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:58:56.0334178+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:04:56.7971916+00:00"
 }

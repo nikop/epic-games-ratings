@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -72,7 +72,7 @@
   "Tags": [],
   "EOS_Progressed": 731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1338,9 +1338,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 241
     },
     {
       "ID": "AC12",
@@ -1362,9 +1362,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 139
     },
     {
       "ID": "AC15",
@@ -1458,9 +1458,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 234
     },
     {
       "ID": "AC27",
@@ -1627,8 +1627,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-08T02:59:41.4444116+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:03:51.6603503+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:03:39.5080507+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:57:46.0974322+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:03:51.6603849+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:57:43.4468813+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:03:39.5080927+00:00"
 }

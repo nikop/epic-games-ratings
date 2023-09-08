@@ -2,13 +2,13 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 221,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -1243,9 +1243,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_PEAK",
@@ -1291,9 +1291,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1323,8 +1323,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:04:50.0769963+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:04:37.4831331+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:58:22.2769802+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:04:50.0770169+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:58:17.3972503+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:04:37.4831592+00:00"
 }

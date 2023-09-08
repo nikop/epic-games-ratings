@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1029,
+  "EOS_Progressed": 1030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1529,6 +1529,11 @@
       "Time": "2023-09-08T03:14:29.4605538+00:00",
       "NumProgressed": 1029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T16:05:21.1118903+00:00",
+      "NumProgressed": 1030,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1748,7 +1753,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "SUMMON_BOSS",
@@ -1884,7 +1889,7 @@
       "Name": "Accepting the Prophecy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
@@ -1899,7 +1904,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1029,
+      "Progressed": 1030,
       "Completed": 0
     }
   ],
@@ -1907,8 +1912,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:05:32.7793705+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:05:21.1118895+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:56:59.3169592+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:58:39.94717+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:05:32.7794128+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:58:34.4212301+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:05:21.1119384+00:00"
 }

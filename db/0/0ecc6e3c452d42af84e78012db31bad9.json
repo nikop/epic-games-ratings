@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2863,
+  "EOS_Progressed": 2864,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 3,
@@ -5921,6 +5921,11 @@
       "Time": "2023-09-08T15:05:32.9612552+00:00",
       "NumProgressed": 2863,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-09-08T16:05:21.7837483+00:00",
+      "NumProgressed": 2864,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 16,
@@ -5964,7 +5969,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "ach_architecture_completed",
@@ -6004,7 +6009,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "ach_food_completed",
@@ -6036,7 +6041,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ach_no_boosters",
@@ -6059,14 +6064,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2863,
+      "Progressed": 2864,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:05:32.9612546+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:05:21.7837479+00:00",
   "LastUpdate_AppInfo": "2023-09-08T13:56:57.5015536+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:57:54.610698+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:05:32.9612917+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:57:53.1062846+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:05:21.7837959+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -96,10 +96,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72644,
+  "EOS_Progressed": 72647,
   "EOS_Completed": 750,
   "EOS_NewPlayers": 683,
-  "EOS_NewCompleters": 12,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -15761,6 +15761,11 @@
       "Time": "2023-09-08T15:03:25.6751496+00:00",
       "NumProgressed": 72644,
       "NumCompleted": 750
+    },
+    {
+      "Time": "2023-09-08T16:03:14.6652417+00:00",
+      "NumProgressed": 72647,
+      "NumCompleted": 750
     }
   ],
   "TotalAchievements": 25,
@@ -15866,9 +15871,9 @@
       "ID": "Magnetic Miracles",
       "SetID": "1e8d2nk",
       "Name": "Magnetic Miracles",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3632
+      "UsersEstimate": 2906
     },
     {
       "ID": "Master, Commander",
@@ -15892,7 +15897,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13802
+      "UsersEstimate": 13803
     },
     {
       "ID": "Nice Try",
@@ -15900,7 +15905,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11623
+      "UsersEstimate": 11624
     },
     {
       "ID": "Nothing Left to Say",
@@ -15916,7 +15921,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7264
+      "UsersEstimate": 7265
     },
     {
       "ID": "Right On Target",
@@ -15971,7 +15976,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 72644,
+      "Progressed": 72647,
       "Completed": 750
     }
   ],
@@ -15979,8 +15984,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:03:25.6751492+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:03:14.6652412+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:33.9032569+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:57:39.8963004+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:03:25.6752359+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:57:36.5736745+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:03:14.6653483+00:00"
 }

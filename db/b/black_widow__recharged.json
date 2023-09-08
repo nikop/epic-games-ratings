@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17878,
+  "EOS_Progressed": 17879,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -11732,6 +11732,11 @@
       "Time": "2023-09-08T15:06:29.8208325+00:00",
       "NumProgressed": 17878,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-08T16:06:17.2055014+00:00",
+      "NumProgressed": 17879,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -11783,7 +11788,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -11799,7 +11804,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9475
+      "UsersEstimate": 9476
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -11854,15 +11859,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17878,
+      "Progressed": 17879,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:06:29.8208321+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:06:17.2055008+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:03.3291776+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:57:29.4122408+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:06:29.8208951+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:57:26.6658835+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:06:17.2055876+00:00"
 }

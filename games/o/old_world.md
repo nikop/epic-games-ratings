@@ -12,25 +12,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 4.00% | ~553 |
 | Friendly Family | 4.00% | ~553 |
 | The Clergy | 4.00% | ~553 |
-| Able | 3.00% | ~414 |
-| Architect | 3.00% | ~414 |
-| Enlightened | 3.00% | ~414 |
-| Glorious | 3.00% | ~414 |
-| Good | 3.00% | ~414 |
-| Just | 3.00% | ~414 |
-| Keystone | 3.00% | ~414 |
-| Learned | 3.00% | ~414 |
-| Mason | 3.00% | ~414 |
-| Noble | 3.00% | ~414 |
-| Pioneer | 3.00% | ~414 |
-| Strong | 3.00% | ~414 |
-| Hanging Gardens | 3.00% | ~414 |
-| Oracle | 3.00% | ~414 |
-| Judaism | 3.00% | ~414 |
-| Greek Paganism | 3.00% | ~414 |
-| Naming Landmarks | 3.00% | ~414 |
-| Trade Caravan | 3.00% | ~414 |
-| The Great Mage | 3.00% | ~414 |
+| Able | 3.00% | ~415 |
+| Architect | 3.00% | ~415 |
+| Enlightened | 3.00% | ~415 |
+| Glorious | 3.00% | ~415 |
+| Good | 3.00% | ~415 |
+| Just | 3.00% | ~415 |
+| Keystone | 3.00% | ~415 |
+| Learned | 3.00% | ~415 |
+| Mason | 3.00% | ~415 |
+| Noble | 3.00% | ~415 |
+| Pioneer | 3.00% | ~415 |
+| Strong | 3.00% | ~415 |
+| Hanging Gardens | 3.00% | ~415 |
+| Oracle | 3.00% | ~415 |
+| Judaism | 3.00% | ~415 |
+| Greek Paganism | 3.00% | ~415 |
+| Naming Landmarks | 3.00% | ~415 |
+| Trade Caravan | 3.00% | ~415 |
+| The Great Mage | 3.00% | ~415 |
 | Regicide | 2.00% | ~276 |
 | Ambitious | 2.00% | ~276 |
 | Drillmaster | 2.00% | ~276 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,816 (Ranked 121)  
+Progressed: 13,817 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,7 +444,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-05 | 13,790 | 5 |
 | 2023-09-06 | 13,796 | 5 |
 | 2023-09-07 | 13,810 | 5 |
-| 2023-09-08 | 13,816 | 5 |
+| 2023-09-08 | 13,817 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

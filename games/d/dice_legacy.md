@@ -12,8 +12,8 @@ Rating: 4.27 (Ranked 823)
 | Burn and Pillage | 6.00% | ~62 |
 | Hear me out | 6.00% | ~62 |
 | Listening to the crowd | 6.00% | ~62 |
-| Hidden Secrets | 5.00% | ~51 |
-| Accepting the Prophecy | 5.00% | ~51 |
+| Hidden Secrets | 5.00% | ~52 |
+| Accepting the Prophecy | 5.00% | ~52 |
 | Just Chilling | 4.00% | ~41 |
 | Ascended | 4.00% | ~41 |
 | The Penitent Ones | 4.00% | ~41 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 823)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,029 (Ranked 208)  
+Progressed: 1,030 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-05 | 1,025 | 0 |
 | 2023-09-06 | 1,026 | 0 |
 | 2023-09-07 | 1,028 | 0 |
-| 2023-09-08 | 1,029 | 0 |
+| 2023-09-08 | 1,030 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

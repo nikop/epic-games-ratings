@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4320,9 +4320,9 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 675682,
+  "EOS_Progressed": 675728,
   "EOS_Completed": 2121,
-  "EOS_NewPlayers": 4914,
+  "EOS_NewPlayers": 4903,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20095,6 +20095,11 @@
       "Time": "2023-09-08T15:06:21.7085865+00:00",
       "NumProgressed": 675682,
       "NumCompleted": 2121
+    },
+    {
+      "Time": "2023-09-08T16:06:09.5505673+00:00",
+      "NumProgressed": 675728,
+      "NumCompleted": 2121
     }
   ],
   "TotalAchievements": 45,
@@ -20202,7 +20207,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "ach_explorer",
@@ -20218,7 +20223,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "ach_finisher",
@@ -20234,7 +20239,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "ach_good_eyesight",
@@ -20314,7 +20319,7 @@
       "Name": "Zombologist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "ach_legendary",
@@ -20322,7 +20327,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5405
+      "UsersEstimate": 5406
     },
     {
       "ID": "ach_magnum_opus",
@@ -20338,7 +20343,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "ach_mind_over_monster",
@@ -20354,7 +20359,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5405
+      "UsersEstimate": 5406
     },
     {
       "ID": "ach_salvation",
@@ -20402,7 +20407,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "ach_the_vcla",
@@ -20418,7 +20423,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 5405
+      "UsersEstimate": 5406
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -20432,9 +20437,9 @@
       "ID": "ach_weapon_wrangler",
       "SetID": "7km39fm",
       "Name": "Variety is the Spice of Death",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1351
+      "UsersEstimate": 2027
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -20465,22 +20470,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 675682,
+      "Progressed": 675728,
       "Completed": 2121
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 1222,
-      "Completed": 1222
+      "Progressed": 1268,
+      "Completed": 1268
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-08T13:03:56.3863856+00:00",
-  "LastChanged_Achievements": "2023-09-08T15:06:21.7085861+00:00",
+  "LastChanged_Achievements": "2023-09-08T16:06:09.5505664+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:59:29.6114328+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:06:21.7086881+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:59:19.5080574+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:06:09.5506963+00:00"
 }

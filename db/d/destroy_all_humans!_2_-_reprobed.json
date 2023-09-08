@@ -3,12 +3,12 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 532,
-  "Ranking_Popularity": 447,
+  "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -241,18 +241,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-09-08T15:59:02.578676+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 35,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 34
+      "Count": 35
     }
   ],
   "EOS_Progressed": 0,
@@ -267,8 +273,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-30T21:00:25.2604466+00:00",
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
-  "LastChanged": "2023-08-11T09:59:47.6273547+00:00",
+  "LastChanged": "2023-09-08T15:59:02.5786758+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:38.2791146+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:59:09.2734383+00:00",
-  "LastUpdate_Achievements": "2023-09-08T15:03:15.8331169+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:59:02.5786764+00:00",
+  "LastUpdate_Achievements": "2023-09-08T16:03:05.3024335+00:00"
 }
