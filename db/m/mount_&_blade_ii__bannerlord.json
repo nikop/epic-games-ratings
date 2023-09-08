@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -6907,10 +6907,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14336,
       "NumberOfAwardsMax": 7048
+    },
+    {
+      "Time": "2023-09-08T18:03:13.3622265+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14337,
+      "NumberOfAwardsMax": 7048
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14336,
+  "NumberOfAwards": 14337,
   "NumberOfAwardsMax": 7048,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6924,7 +6930,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 854
+      "Count": 855
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6987,9 +6993,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60588,
+  "EOS_Progressed": 60589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21922,6 +21928,11 @@
       "Time": "2023-09-08T17:04:32.4009646+00:00",
       "NumProgressed": 60588,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T18:05:28.1398575+00:00",
+      "NumProgressed": 60589,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22061,7 +22072,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7876
+      "UsersEstimate": 7877
     },
     {
       "ID": "Great Granny",
@@ -22165,7 +22176,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 23023
+      "UsersEstimate": 23024
     },
     {
       "ID": "Lawmaker",
@@ -22309,7 +22320,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13329
+      "UsersEstimate": 13330
     },
     {
       "ID": "Undercover",
@@ -22340,15 +22351,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60588,
+      "Progressed": 60589,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-08T17:00:46.3708122+00:00",
-  "LastChanged_Achievements": "2023-09-08T17:04:32.4009641+00:00",
+  "LastChanged": "2023-09-08T18:03:13.3622263+00:00",
+  "LastChanged_Achievements": "2023-09-08T18:05:28.1398568+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-08T17:00:46.3708129+00:00",
-  "LastUpdate_Achievements": "2023-09-08T17:04:32.4011097+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:03:13.3622272+00:00",
+  "LastUpdate_Achievements": "2023-09-08T18:05:28.1400364+00:00"
 }

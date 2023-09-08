@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23433,
+  "EOS_Progressed": 23435,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16405,6 +16405,11 @@
       "Time": "2023-09-08T17:07:16.4495037+00:00",
       "NumProgressed": 23433,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-08T18:09:21.422757+00:00",
+      "NumProgressed": 23435,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -16552,7 +16557,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9373
+      "UsersEstimate": 9374
     },
     {
       "ID": "1033",
@@ -16576,7 +16581,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "1036",
@@ -16591,15 +16596,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23433,
+      "Progressed": 23435,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-08T17:07:16.4495033+00:00",
+  "LastChanged_Achievements": "2023-09-08T18:09:21.4227562+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.1036434+00:00",
-  "LastUpdate_Ratings": "2023-09-08T16:57:31.3174335+00:00",
-  "LastUpdate_Achievements": "2023-09-08T17:07:16.4496219+00:00"
+  "LastUpdate_Ratings": "2023-09-08T17:58:16.437942+00:00",
+  "LastUpdate_Achievements": "2023-09-08T18:09:21.422911+00:00"
 }

@@ -25,6 +25,7 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 6.00% | ~167 |
 | Fulfilled the dream | 6.00% | ~167 |
 | G'Day Mate! | 6.00% | ~167 |
+| NAHELL! | 6.00% | ~167 |
 | Purple passion | 6.00% | ~167 |
 | Squad goals | 6.00% | ~167 |
 | Sup widdit big dog! | 6.00% | ~167 |
@@ -34,7 +35,6 @@ Number of Ratings: 111  (23.09.2022)
 | Laid back | 5.00% | ~139 |
 | Lines for days | 5.00% | ~139 |
 | Manny Destroys All | 5.00% | ~139 |
-| NAHELL! | 5.00% | ~139 |
 | Renaissance man | 5.00% | ~139 |
 | Trick shot marksman | 5.00% | ~139 |
 | Cops called! | 4.00% | ~111 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,779 (Ranked 167)  
+Progressed: 2,779 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1104,10 +1104,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 419,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-09-08T18:00:43.0975037+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 420,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 419,
+  "NumberOfAwards": 420,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1115,7 +1121,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1154,9 +1160,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15923,
+  "EOS_Progressed": 15924,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6864,6 +6870,11 @@
       "Time": "2023-09-08T11:03:31.7685602+00:00",
       "NumProgressed": 15923,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-08T18:04:10.075244+00:00",
+      "NumProgressed": 15924,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -7235,7 +7246,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -7250,22 +7261,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15923,
+      "Progressed": 15924,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3849,
+      "Progressed": 3850,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-09-06T19:00:10.1286022+00:00",
-  "LastChanged_Achievements": "2023-09-08T17:03:36.4523042+00:00",
+  "LastChanged": "2023-09-08T18:00:43.0975034+00:00",
+  "LastChanged_Achievements": "2023-09-08T18:04:10.0752433+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:38.4678594+00:00",
-  "LastUpdate_Ratings": "2023-09-08T16:59:09.3744949+00:00",
-  "LastUpdate_Achievements": "2023-09-08T17:03:36.4523831+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:00:43.0975041+00:00",
+  "LastUpdate_Achievements": "2023-09-08T18:04:10.0753956+00:00"
 }

@@ -392,9 +392,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12945,
+  "EOS_Progressed": 12946,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -8012,6 +8012,11 @@
       "Time": "2023-09-08T17:04:36.6426535+00:00",
       "NumProgressed": 12945,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-08T18:05:33.959512+00:00",
+      "NumProgressed": 12946,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -8023,7 +8028,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11909
+      "UsersEstimate": 11910
     },
     {
       "ID": "ACH_02",
@@ -8039,7 +8044,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9579
+      "UsersEstimate": 9580
     },
     {
       "ID": "ACH_04",
@@ -8047,7 +8052,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9191
+      "UsersEstimate": 9192
     },
     {
       "ID": "ACH_05",
@@ -8055,7 +8060,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8932
+      "UsersEstimate": 8933
     },
     {
       "ID": "ACH_06",
@@ -8063,7 +8068,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8414
+      "UsersEstimate": 8415
     },
     {
       "ID": "ACH_07",
@@ -8071,7 +8076,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8155
+      "UsersEstimate": 8156
     },
     {
       "ID": "ACH_08",
@@ -8079,7 +8084,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7896
+      "UsersEstimate": 7897
     },
     {
       "ID": "ACH_09",
@@ -8087,7 +8092,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7508
+      "UsersEstimate": 7509
     },
     {
       "ID": "ACH_10",
@@ -8103,7 +8108,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "ACH_12",
@@ -8151,7 +8156,7 @@
       "Name": "Knights!",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2719
     },
     {
       "ID": "ACH_18",
@@ -8191,7 +8196,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ACH_23",
@@ -8223,7 +8228,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "ACH_27",
@@ -8231,7 +8236,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5566
+      "UsersEstimate": 5567
     },
     {
       "ID": "ACH_28",
@@ -8239,7 +8244,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8932
+      "UsersEstimate": 8933
     },
     {
       "ID": "ACH_29",
@@ -8302,7 +8307,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12945,
+      "Progressed": 12946,
       "Completed": 45
     }
   ],
@@ -8310,8 +8315,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-06T09:00:07.3127527+00:00",
-  "LastChanged_Achievements": "2023-09-08T17:04:36.6426529+00:00",
+  "LastChanged_Achievements": "2023-09-08T18:05:33.9595113+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:15.9544425+00:00",
-  "LastUpdate_Ratings": "2023-09-08T17:00:24.6819928+00:00",
-  "LastUpdate_Achievements": "2023-09-08T17:04:36.6427332+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:02:40.1354181+00:00",
+  "LastUpdate_Achievements": "2023-09-08T18:05:33.9596345+00:00"
 }

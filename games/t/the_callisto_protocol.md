@@ -26,7 +26,7 @@ Rating: 4.19 (Ranked 873)
 | Crash Site | 3.00% | ~478 |
 | Full Circle | 3.00% | ~478 |
 | Power Up | 3.00% | ~478 |
-| It's Time | 3.00% | ~115 |
+| It's Time | 3.00% | ~116 |
 | Giving Back | 2.00% | ~318 |
 | The Commonality | 2.00% | ~318 |
 | One Last Job | 2.00% | ~77 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 873)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,923 (Ranked 119)  
+Progressed: 15,924 (Ranked 119)  
 Completed: 73 (0.46%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,16 +190,16 @@ Completed: 73 (0.46%) (Ranked 157)
 | 2023-09-04 | 15,919 | 73 |
 | 2023-09-05 | 15,920 | 73 |
 | 2023-09-07 | 15,921 | 73 |
-| 2023-09-08 | 15,923 | 73 |
+| 2023-09-08 | 15,924 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 374)  
-Sum: 419 (Ranked 316)  
+Sum: 420 (Ranked 316)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 73 |
 | This game has Amazing Characters | 72 |
-| This game is Highly Recommended | 70 |
+| This game is Highly Recommended | 71 |
 | This game has Quickly Understood Controls | 65 |
 | This game is Extremely Fun | 60 |
 | This game has Challenging Combat | 54 |
@@ -325,3 +325,4 @@ Diff (max vs sum): 58
 | 2023-09-03 | 4.19 | 73 | 417 |
 | 2023-09-05 | 4.19 | 73 | 418 |
 | 2023-09-06 | 4.19 | 73 | 419 |
+| 2023-09-08 | 4.19 | 73 | 420 |

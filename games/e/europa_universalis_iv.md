@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,835 |
-| That's a Grand Army | 3.00% | ~11,877 |
-| That is mine! | 3.00% | ~11,877 |
-| Victorious! | 3.00% | ~11,877 |
-| Brothers in Arms | 2.00% | ~7,918 |
-| For the Glory | 2.00% | ~7,918 |
-| That's a Grand Navy | 2.00% | ~7,918 |
-| Seriously?! | 2.00% | ~7,918 |
-| Cold War | 1.00% | ~3,959 |
-| Defender of the Faith | 1.00% | ~3,959 |
-| It's all about the money | 1.00% | ~3,959 |
-| The Princess is in this Castle | 1.00% | ~3,959 |
-| True Catholic | 1.00% | ~3,959 |
-| Respected | 0.90% | ~3,563 |
-| It's all about luck | 0.80% | ~3,167 |
-| Truly Divine Ruler | 0.80% | ~3,167 |
-| Blockader | 0.70% | ~2,771 |
-| Double the Love | 0.70% | ~2,771 |
-| Royal Authority | 0.70% | ~2,771 |
-| Total Control | 0.70% | ~2,771 |
-| My armies are invincible! | 0.60% | ~2,375 |
-| Agressive Expander | 0.50% | ~1,979 |
-| City of Cities | 0.50% | ~1,979 |
-| Combined Arms | 0.50% | ~1,979 |
+| Until death do us apart | 4.00% | ~15,838 |
+| That's a Grand Army | 3.00% | ~11,879 |
+| That is mine! | 3.00% | ~11,879 |
+| Victorious! | 3.00% | ~11,879 |
+| Brothers in Arms | 2.00% | ~7,919 |
+| For the Glory | 2.00% | ~7,919 |
+| That's a Grand Navy | 2.00% | ~7,919 |
+| Seriously?! | 2.00% | ~7,919 |
+| Cold War | 1.00% | ~3,960 |
+| Defender of the Faith | 1.00% | ~3,960 |
+| It's all about the money | 1.00% | ~3,960 |
+| The Princess is in this Castle | 1.00% | ~3,960 |
+| True Catholic | 1.00% | ~3,960 |
+| Respected | 0.90% | ~3,564 |
+| It's all about luck | 0.80% | ~3,168 |
+| Truly Divine Ruler | 0.80% | ~3,168 |
+| Blockader | 0.70% | ~2,772 |
+| Double the Love | 0.70% | ~2,772 |
+| Royal Authority | 0.70% | ~2,772 |
+| Total Control | 0.70% | ~2,772 |
+| My armies are invincible! | 0.60% | ~2,376 |
+| Agressive Expander | 0.50% | ~1,980 |
+| City of Cities | 0.50% | ~1,980 |
+| Combined Arms | 0.50% | ~1,980 |
 | Azur semé de lis or | 0.40% | ~1,584 |
 | Gentle Persuasion | 0.40% | ~1,584 |
 | Queen of Conquest | 0.40% | ~1,584 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,884 (Ranked 40)  
+Progressed: 395,956 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -502,21 +502,21 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-05 | 392,723 | 0 |
 | 2023-09-06 | 393,860 | 0 |
 | 2023-09-07 | 394,982 | 0 |
-| 2023-09-08 | 395,884 | 0 |
+| 2023-09-08 | 395,956 | 0 |
 ## Awards
-Max (Educational): 5,981  (Ranked 57)  
-Sum: 49,247 (Ranked 26)  
+Max (Educational): 5,991  (Ranked 57)  
+Sum: 49,282 (Ranked 26)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,981 |
+| This game is Educational | 5,991 |
 | This game is Highly Recommended | 5,722 |
 | This game has Challenging Combat | 5,683 |
 | This game is Extremely Fun | 5,668 |
 | This game has Diverse Characters | 5,644 |
-| This game is Relaxing | 5,502 |
+| This game is Relaxing | 5,516 |
 | This game has Competitive Players | 5,355 |
-| This game has Amazing Storytelling | 5,030 |
+| This game has Amazing Storytelling | 5,041 |
 | This game has Amazing Characters | 4,662 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -756,4 +756,4 @@ Diff (max vs sum): 31
 | 2023-09-05 | 4.68 | - | 5,944 | 48,875 |
 | 2023-09-06 | 4.69 | - | 5,958 | 49,001 |
 | 2023-09-07 | 4.69 | - | 5,981 | 49,139 |
-| 2023-09-08 | 4.69 | - | 5,981 | 49,247 |
+| 2023-09-08 | 4.69 | - | 5,991 | 49,282 |

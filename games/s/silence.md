@@ -8,8 +8,8 @@
 | Chapter I | 50.00% | ~56 |
 | Haute cuisine | 46.00% | ~51 |
 | I didn't do it! | 41.00% | ~46 |
+| Demolition expert | 36.00% | ~40 |
 | Wooooooow! | 36.00% | ~40 |
-| Demolition expert | 35.00% | ~39 |
 | Keep away from children | 35.00% | ~39 |
 | Artistic fool | 34.00% | ~38 |
 | Open up wide | 33.00% | ~37 |
@@ -30,7 +30,7 @@
 | Master of Thermodynamics | 15.00% | ~17 |
 | Death is a part of life | 15.00% | ~17 |
 | Unfullfilled dreams | 14.00% | ~16 |
-| To err is human... | 12.00% | ~13 |
+| To err is human... | 13.00% | ~14 |
 | Nothing can stop me | 11.00% | ~12 |
 | Mumbo Jumbo | 11.00% | ~12 |
 | Useless but beautiful | 8.00% | ~9 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.90% | ~1 |
 | Do not feed the fish! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 336)  
+Progressed: 111 (Ranked 337)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |

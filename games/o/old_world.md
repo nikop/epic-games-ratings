@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 5.00% | ~691 |
 | Settler | 5.00% | ~691 |
 | Play a Single Player Game | 5.00% | ~691 |
-| Explorer | 4.00% | ~553 |
 | Intrepid | 4.00% | ~553 |
 | Friendly Family | 4.00% | ~553 |
 | The Clergy | 4.00% | ~553 |
@@ -128,8 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
-| Old | 0.60% | ~83 |
-| Peacemaker | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
 | Learn to Play 4 | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
@@ -137,6 +135,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
 | All Nations | 0.60% | ~83 |
+| Old | 0.50% | ~69 |
+| Peacemaker | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.40% | ~55 |
 | Old World Order | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
+| Capturing Cities | 0.40% | ~55 |
 | Ten Crowns | 0.40% | ~55 |
 | Three Man Chariot | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
@@ -160,7 +161,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.30% | ~41 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~41 |
 | Circus Maximus in Roma | 0.30% | ~41 |
-| Capturing Cities | 0.30% | ~41 |
 | Siege Tower | 0.30% | ~41 |
 | Conquest Victory | 0.30% | ~41 |
 | Necropolis in Waset | 0.30% | ~41 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,817 (Ranked 121)  
+Progressed: 13,819 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,7 +444,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-05 | 13,790 | 5 |
 | 2023-09-06 | 13,796 | 5 |
 | 2023-09-07 | 13,810 | 5 |
-| 2023-09-08 | 13,817 | 5 |
+| 2023-09-08 | 13,819 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

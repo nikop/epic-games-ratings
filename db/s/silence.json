@@ -2,7 +2,7 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 90,
@@ -188,9 +188,9 @@
       "ID": "0000_achv_gameovertwice",
       "SetID": "dhn82m5",
       "Name": "To err is human...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "0000_achv_kickEverything",
@@ -300,9 +300,9 @@
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "1006_achv_dropball",
@@ -533,8 +533,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-08T17:06:06.7589149+00:00",
+  "LastChanged_Achievements": "2023-09-08T18:07:40.139931+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:22.5153929+00:00",
-  "LastUpdate_Ratings": "2023-09-08T17:00:35.0700943+00:00",
-  "LastUpdate_Achievements": "2023-09-08T17:06:06.7589543+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:02:54.6211583+00:00",
+  "LastUpdate_Achievements": "2023-09-08T18:07:40.1399713+00:00"
 }

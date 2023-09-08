@@ -16,11 +16,11 @@
 | Skilled Hands | 61.00% | ~14 |
 | The Milk Canal | 61.00% | ~14 |
 | Fledgling Smithy | 61.00% | ~14 |
+| Close Encounter | 57.00% | ~13 |
+| The Depths Of Darkness | 57.00% | ~13 |
 | Master Smithy | 57.00% | ~13 |
 | At One With Nature | 57.00% | ~13 |
 | Prison Break | 52.00% | ~12 |
-| Close Encounter | 52.00% | ~12 |
-| The Depths Of Darkness | 52.00% | ~12 |
 | One With The Blades | 52.00% | ~12 |
 | Heart of Oblivion | 52.00% | ~12 |
 | Anahita's Greatest Mistake | 52.00% | ~12 |

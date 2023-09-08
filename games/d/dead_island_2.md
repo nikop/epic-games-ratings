@@ -27,9 +27,9 @@ Rating: 4.54 (Ranked 505)
 | Ooh, Shiny! | 0.80% | ~5,406 |
 | I Am the Resurrection | 0.80% | ~5,406 |
 | Our True Nature | 0.80% | ~5,406 |
-| Anger Management | 0.70% | ~4,730 |
-| Perks of the Job | 0.70% | ~4,730 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,730 |
+| Anger Management | 0.70% | ~4,731 |
+| Perks of the Job | 0.70% | ~4,731 |
+| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,731 |
 | Making Your Mark | 0.60% | ~4,055 |
 | Humanity Distilled | 0.60% | ~4,055 |
 | Down with the Sickness | 0.60% | ~4,055 |
@@ -44,14 +44,14 @@ Rating: 4.54 (Ranked 505)
 | Variety is the Spice of Death | 0.30% | ~2,027 |
 | Make it So | 0.20% | ~1,352 |
 | LA Influential | 0.20% | ~1,352 |
+| Sole Survivor | 0.20% | ~1,352 |
 | Gore Horse | 0.20% | ~1,352 |
 | Sharpest Tool in the Box | 0.20% | ~1,352 |
 | Donk! | 0.10% | ~676 |
-| Sole Survivor | 0.10% | ~676 |
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,757 (Ranked 22)  
+Progressed: 675,807 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,16 +192,16 @@ Completed: 2,121 (0.31%) (Ranked 177)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,757 | 2,121 |
+| 2023-09-08 | 675,807 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
-Sum: 8,784 (Ranked 95)  
+Sum: 8,785 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,945 |
 | This game is Great for Beginners | 400 |
-| This game has Diverse Characters | 393 |
+| This game has Diverse Characters | 394 |
 | This game has Quickly Understood Controls | 383 |
 | This game is Relaxing | 369 |
 | This game has Amazing Storytelling | 343 |
@@ -351,4 +351,4 @@ Diff (max vs sum): -36
 | 2023-09-05 | 4.54 | 5,913 | 8,730 |
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
-| 2023-09-08 | 4.54 | 5,945 | 8,784 |
+| 2023-09-08 | 4.54 | 5,945 | 8,785 |

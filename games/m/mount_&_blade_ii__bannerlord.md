@@ -6,17 +6,17 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~23,023 |
+| Lawbringer | 38.00% | ~23,024 |
 | Landlord | 32.00% | ~19,388 |
 | Bannerlord | 23.00% | ~13,935 |
 | Horde breaker | 23.00% | ~13,935 |
 | Lawmaker | 23.00% | ~13,935 |
-| Trained | 22.00% | ~13,329 |
+| Trained | 22.00% | ~13,330 |
 | The king is pleased | 18.00% | ~10,906 |
 | King Solomon | 17.00% | ~10,300 |
 | Apple of my eye | 15.00% | ~9,088 |
 | I can do it | 15.00% | ~9,088 |
-| God of the Arena | 13.00% | ~7,876 |
+| God of the Arena | 13.00% | ~7,877 |
 | Against all odds | 12.00% | ~7,271 |
 | This Is Our Land | 11.00% | ~6,665 |
 | Duelist | 10.00% | ~6,059 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,588 (Ranked 88)  
+Progressed: 60,589 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,17 +199,17 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-05 | 60,403 | 0 |
 | 2023-09-06 | 60,462 | 0 |
 | 2023-09-07 | 60,538 | 0 |
-| 2023-09-08 | 60,588 | 0 |
+| 2023-09-08 | 60,589 | 0 |
 ## Awards
 Max (Character Customization): 7,048  (Ranked 50)  
-Sum: 14,336 (Ranked 70)  
+Sum: 14,337 (Ranked 70)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,048 |
 | This game is Great for Beginners | 944 |
 | This game has Diverse Characters | 909 |
-| This game is Highly Recommended | 854 |
+| This game is Highly Recommended | 855 |
 | This game is Extremely Fun | 822 |
 | This game has Amazing Storytelling | 809 |
 | This game is Relaxing | 797 |
@@ -457,4 +457,4 @@ Diff (max vs sum): -20
 | 2023-09-05 | 4.74 | - | 7,029 | 14,301 |
 | 2023-09-06 | 4.74 | - | 7,036 | 14,318 |
 | 2023-09-07 | 4.74 | - | 7,045 | 14,333 |
-| 2023-09-08 | 4.74 | - | 7,048 | 14,336 |
+| 2023-09-08 | 4.74 | - | 7,048 | 14,337 |

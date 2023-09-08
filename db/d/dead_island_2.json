@@ -4264,10 +4264,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8784,
       "NumberOfAwardsMax": 5945
+    },
+    {
+      "Time": "2023-09-08T18:01:13.9830924+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8785,
+      "NumberOfAwardsMax": 5945
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8784,
+  "NumberOfAwards": 8785,
   "NumberOfAwardsMax": 5945,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4281,7 +4287,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 393
+      "Count": 394
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4326,9 +4332,9 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 675757,
+  "EOS_Progressed": 675807,
   "EOS_Completed": 2121,
-  "EOS_NewPlayers": 4891,
+  "EOS_NewPlayers": 4903,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20111,6 +20117,11 @@
       "Time": "2023-09-08T17:06:34.6133975+00:00",
       "NumProgressed": 675757,
       "NumCompleted": 2121
+    },
+    {
+      "Time": "2023-09-08T18:08:19.5054802+00:00",
+      "NumProgressed": 675807,
+      "NumCompleted": 2121
     }
   ],
   "TotalAchievements": 45,
@@ -20146,7 +20157,7 @@
       "Name": "Anger Management",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4730
+      "UsersEstimate": 4731
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20170,7 +20181,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4730
+      "UsersEstimate": 4731
     },
     {
       "ID": "ach_bookworm",
@@ -20202,7 +20213,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4730
+      "UsersEstimate": 4731
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -20304,9 +20315,9 @@
       "ID": "ach_investigator",
       "SetID": "7km39fm",
       "Name": "Sole Survivor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 676
+      "UsersEstimate": 1352
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -20481,22 +20492,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 675757,
+      "Progressed": 675807,
       "Completed": 2121
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 1297,
-      "Completed": 1297
+      "Progressed": 1347,
+      "Completed": 1347
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-08T16:59:29.8650988+00:00",
-  "LastChanged_Achievements": "2023-09-08T17:06:34.613397+00:00",
+  "LastChanged": "2023-09-08T18:01:13.9830922+00:00",
+  "LastChanged_Achievements": "2023-09-08T18:08:19.5054795+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-08T16:59:29.8651+00:00",
-  "LastUpdate_Achievements": "2023-09-08T17:06:34.6135395+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:01:13.9830928+00:00",
+  "LastUpdate_Achievements": "2023-09-08T18:08:19.5057029+00:00"
 }

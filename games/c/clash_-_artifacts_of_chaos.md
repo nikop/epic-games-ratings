@@ -26,7 +26,7 @@
 | Vivid Dreams | 3.00% | ~3 |
 | Broken Reflection | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 338)  
+Progressed: 106 (Ranked 339)  
 Completed: 1 (0.94%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |

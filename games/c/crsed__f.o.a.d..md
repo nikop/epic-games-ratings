@@ -1,15 +1,15 @@
 # CRSED: F.O.A.D.
 [Store](https://store.epicgames.com/en-US/p/crsed-f-o-a-d)  
 [View Rawdata](../../db/c/crsed__f.o.a.d..json)  
-Rating: 4.36 (Ranked 747)  
+Rating: 4.36 (Ranked 748)  
 Number of Ratings: 464  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 96  (Ranked 343)  
-Sum: 638 (Ranked 292)  
-Diff (max vs sum): 51  
+Max (Highly Recommended): 97  (Ranked 341)  
+Sum: 639 (Ranked 291)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 96 |
+| This game is Highly Recommended | 97 |
 | This game has Quickly Understood Controls | 87 |
 | This game is Relaxing | 85 |
 | This game has Diverse Characters | 84 |
@@ -159,3 +159,4 @@ Diff (max vs sum): 51
 | 2023-08-27 | 4.35 | - | 96 | 637 |
 | 2023-09-02 | 4.35 | - | 96 | 638 |
 | 2023-09-03 | 4.36 | - | 96 | 638 |
+| 2023-09-08 | 4.36 | - | 97 | 639 |

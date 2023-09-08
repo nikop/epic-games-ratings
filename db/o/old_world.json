@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1677,9 +1677,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13817,
+  "EOS_Progressed": 13819,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11137,6 +11137,11 @@
       "Time": "2023-09-08T16:05:29.8341113+00:00",
       "NumProgressed": 13817,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T18:07:23.8627358+00:00",
+      "NumProgressed": 13819,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11578,9 +11583,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
       "SetID": "9201eeb",
       "Name": "Explorer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 691
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -11722,17 +11727,17 @@
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
       "SetID": "9201eeb",
       "Name": "Old",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
       "SetID": "9201eeb",
       "Name": "Peacemaker",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -13058,9 +13063,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
       "SetID": "9201eeb",
       "Name": "Capturing Cities",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LANDMARKS_NAME",
@@ -13515,21 +13520,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13817,
+      "Progressed": 13819,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13817,
+      "Progressed": 13819,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-05T13:03:36.9380214+00:00",
-  "LastChanged_Achievements": "2023-09-08T17:05:55.0843717+00:00",
+  "LastChanged_Achievements": "2023-09-08T18:07:23.862735+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-08T16:59:03.0434107+00:00",
-  "LastUpdate_Achievements": "2023-09-08T17:05:55.085379+00:00"
+  "LastUpdate_Ratings": "2023-09-08T18:00:35.3920744+00:00",
+  "LastUpdate_Achievements": "2023-09-08T18:07:23.8636762+00:00"
 }
