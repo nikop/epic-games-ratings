@@ -520,9 +520,9 @@
       "ID": "killGoblinMage3",
       "SetID": "ci65fo0",
       "Name": "The Goblin\u0027s Enemy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "killGoldSkeleton1",
@@ -856,9 +856,9 @@
       "ID": "questKillGoblinMage",
       "SetID": "ci65fo0",
       "Name": "Goblins Conqueror",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "questKillSwampMonster",
@@ -944,9 +944,9 @@
       "ID": "questSavePrincess",
       "SetID": "ci65fo0",
       "Name": "The Savior of Princesses",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "questSavePrincessFinal",
@@ -1005,8 +1005,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-08T11:07:50.4817335+00:00",
+  "LastChanged_Achievements": "2023-09-08T12:07:32.0711871+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-08T10:58:06.0955979+00:00",
-  "LastUpdate_Achievements": "2023-09-08T11:07:50.4817999+00:00"
+  "LastUpdate_Ratings": "2023-09-08T11:57:46.4392264+00:00",
+  "LastUpdate_Achievements": "2023-09-08T12:07:32.0712671+00:00"
 }

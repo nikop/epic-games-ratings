@@ -6,33 +6,33 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~368,832 |
-| Now You're Talking | 62.00% | ~326,680 |
-| Steel Yourself | 62.00% | ~326,680 |
-| Window Dressing | 50.00% | ~263,452 |
-| Trigger Happy | 46.00% | ~242,375 |
-| Riverborn | 45.00% | ~237,106 |
-| Starry Eyed | 34.00% | ~179,147 |
-| Poking Around | 34.00% | ~179,147 |
-| Talk of the Town | 24.00% | ~126,457 |
-| AAARR! | 23.00% | ~121,188 |
-| Hello Darkness | 23.00% | ~121,188 |
-| Wind At Our Backs | 22.00% | ~115,919 |
-| To the Beat | 20.00% | ~105,381 |
+| First Step | 70.00% | ~368,836 |
+| Now You're Talking | 62.00% | ~326,683 |
+| Steel Yourself | 62.00% | ~326,683 |
+| Window Dressing | 50.00% | ~263,454 |
+| Trigger Happy | 46.00% | ~242,378 |
+| Riverborn | 45.00% | ~237,109 |
+| Starry Eyed | 34.00% | ~179,149 |
+| Poking Around | 34.00% | ~179,149 |
+| Talk of the Town | 24.00% | ~126,458 |
+| AAARR! | 23.00% | ~121,189 |
+| Hello Darkness | 23.00% | ~121,189 |
+| Wind At Our Backs | 22.00% | ~115,920 |
+| To the Beat | 20.00% | ~105,382 |
 | Sunny Shores | 17.00% | ~89,574 |
-| Sunday Best | 16.00% | ~84,304 |
-| To Victory! | 15.00% | ~79,035 |
-| Two of a Kind | 14.00% | ~73,766 |
-| Keep On Trucking | 13.00% | ~68,497 |
-| Going on an Adventure | 11.00% | ~57,959 |
-| Make Peace, Not War | 11.00% | ~57,959 |
-| Walking The Line | 10.00% | ~52,690 |
-| Not So Cute Anymore | 10.00% | ~52,690 |
-| Road Less Travelled | 9.00% | ~47,421 |
-| Lost and Found | 9.00% | ~47,421 |
-| Under the Radar | 8.00% | ~42,152 |
-| Partner in Crime | 7.00% | ~36,883 |
-| Hard to Hear | 7.00% | ~36,883 |
+| Sunday Best | 16.00% | ~84,305 |
+| To Victory! | 15.00% | ~79,036 |
+| Two of a Kind | 14.00% | ~73,767 |
+| Keep On Trucking | 13.00% | ~68,498 |
+| Going on an Adventure | 11.00% | ~57,960 |
+| Make Peace, Not War | 11.00% | ~57,960 |
+| Walking The Line | 10.00% | ~52,691 |
+| Not So Cute Anymore | 10.00% | ~52,691 |
+| Road Less Travelled | 9.00% | ~47,422 |
+| Lost and Found | 9.00% | ~47,422 |
+| Under the Radar | 8.00% | ~42,153 |
+| Partner in Crime | 7.00% | ~36,884 |
+| Hard to Hear | 7.00% | ~36,884 |
 | Moving On Up | 6.00% | ~31,614 |
 | Owl Knows Best | 6.00% | ~31,614 |
 | Mind the Moose | 6.00% | ~31,614 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,581 |
 | Point Taken | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,903 (Ranked 33)  
+Progressed: 526,908 (Ranked 33)  
 Completed: 470 (0.09%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 470 (0.09%) (Ranked 221)
 | 2023-09-05 | 526,765 | 469 |
 | 2023-09-06 | 526,826 | 470 |
 | 2023-09-07 | 526,875 | 470 |
-| 2023-09-08 | 526,903 | 470 |
+| 2023-09-08 | 526,908 | 470 |
 ## Awards
 Max (Relaxing): 20  (Ranked 512)  
 Sum: 20 (Ranked 513)  

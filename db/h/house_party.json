@@ -5308,9 +5308,9 @@
       "ID": "TheCrush",
       "SetID": "bmkn7o4",
       "Name": "The Crush",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 43
     },
     {
       "ID": "TheCrushes",
@@ -5418,8 +5418,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-08T11:08:43.9481613+00:00",
+  "LastChanged_Achievements": "2023-09-08T12:08:23.4969833+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:40.5022837+00:00",
-  "LastUpdate_Ratings": "2023-09-08T10:57:55.4064842+00:00",
-  "LastUpdate_Achievements": "2023-09-08T11:08:43.9482375+00:00"
+  "LastUpdate_Ratings": "2023-09-08T11:57:38.4785055+00:00",
+  "LastUpdate_Achievements": "2023-09-08T12:08:23.4970804+00:00"
 }

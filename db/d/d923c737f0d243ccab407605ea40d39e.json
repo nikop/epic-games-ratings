@@ -4,7 +4,7 @@
   "ProductSlug": "911-operator-585edd",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -124,9 +124,9 @@
       "ID": "achiv_lifesaving",
       "SetID": "7oh7228",
       "Name": "Lifesaving Medal",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achiv_meds",
@@ -180,9 +180,9 @@
       "ID": "achiv_valor",
       "SetID": "7oh7228",
       "Name": "Medal of Valor",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -194,8 +194,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged_Achievements": "2023-09-08T11:03:23.6812138+00:00",
+  "LastChanged_Achievements": "2023-09-08T12:03:32.3560924+00:00",
   "LastUpdate_AppInfo": "2023-09-07T14:57:38.8749037+00:00",
-  "LastUpdate_Ratings": "2023-09-08T10:57:08.3801162+00:00",
-  "LastUpdate_Achievements": "2023-09-08T11:03:23.681236+00:00"
+  "LastUpdate_Ratings": "2023-09-08T11:57:03.0205451+00:00",
+  "LastUpdate_Achievements": "2023-09-08T12:03:32.3561084+00:00"
 }

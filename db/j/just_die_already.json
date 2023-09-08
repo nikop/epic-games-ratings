@@ -4,7 +4,7 @@
   "ProductSlug": "just-die-already",
   "Ranking_Rating": 532,
   "Ranking_Popularity": 333,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 583,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 351,
@@ -1455,10 +1455,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 739,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-09-08T11:59:50.3987738+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 815,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 739,
+  "NumberOfAwards": 815,
   "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1530,9 +1536,9 @@
     },
     {
       "Text": "This game has a Silly Community",
-      "Prefix": "",
-      "Type": "",
-      "Count": 66
+      "Prefix": "This game has a",
+      "Type": "Silly Community",
+      "Count": 76
     }
   ],
   "EOS_Progressed": 0,
@@ -1546,8 +1552,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2023-09-06T17:00:11.4498844+00:00",
+  "LastChanged": "2023-09-08T11:59:50.3987737+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:57.1612767+00:00",
-  "LastUpdate_Ratings": "2023-09-08T11:00:27.6715091+00:00",
-  "LastUpdate_Achievements": "2023-09-08T11:07:05.3287887+00:00"
+  "LastUpdate_Ratings": "2023-09-08T11:59:50.3987744+00:00",
+  "LastUpdate_Achievements": "2023-09-08T12:06:48.0499838+00:00"
 }

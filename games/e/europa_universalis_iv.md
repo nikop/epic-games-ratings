@@ -6,27 +6,27 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,817 |
-| That's a Grand Army | 3.00% | ~11,862 |
-| That is mine! | 3.00% | ~11,862 |
-| Victorious! | 3.00% | ~11,862 |
-| Brothers in Arms | 2.00% | ~7,908 |
-| For the Glory | 2.00% | ~7,908 |
-| That's a Grand Navy | 2.00% | ~7,908 |
-| Seriously?! | 2.00% | ~7,908 |
-| Cold War | 1.00% | ~3,954 |
-| Defender of the Faith | 1.00% | ~3,954 |
-| It's all about the money | 1.00% | ~3,954 |
-| True Catholic | 1.00% | ~3,954 |
+| Until death do us apart | 4.00% | ~15,819 |
+| That's a Grand Army | 3.00% | ~11,864 |
+| That is mine! | 3.00% | ~11,864 |
+| Victorious! | 3.00% | ~11,864 |
+| Brothers in Arms | 2.00% | ~7,909 |
+| For the Glory | 2.00% | ~7,909 |
+| That's a Grand Navy | 2.00% | ~7,909 |
+| Seriously?! | 2.00% | ~7,909 |
+| Cold War | 1.00% | ~3,955 |
+| Defender of the Faith | 1.00% | ~3,955 |
+| It's all about the money | 1.00% | ~3,955 |
+| True Catholic | 1.00% | ~3,955 |
 | Respected | 0.90% | ~3,559 |
 | The Princess is in this Castle | 0.90% | ~3,559 |
-| It's all about luck | 0.80% | ~3,163 |
-| Truly Divine Ruler | 0.80% | ~3,163 |
+| It's all about luck | 0.80% | ~3,164 |
+| Truly Divine Ruler | 0.80% | ~3,164 |
 | Blockader | 0.70% | ~2,768 |
 | Double the Love | 0.70% | ~2,768 |
 | Royal Authority | 0.70% | ~2,768 |
 | Total Control | 0.70% | ~2,768 |
-| My armies are invincible! | 0.60% | ~2,372 |
+| My armies are invincible! | 0.60% | ~2,373 |
 | Agressive Expander | 0.50% | ~1,977 |
 | City of Cities | 0.50% | ~1,977 |
 | Combined Arms | 0.50% | ~1,977 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,416 (Ranked 40)  
+Progressed: 395,474 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -502,15 +502,15 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-05 | 392,723 | 0 |
 | 2023-09-06 | 393,860 | 0 |
 | 2023-09-07 | 394,982 | 0 |
-| 2023-09-08 | 395,416 | 0 |
+| 2023-09-08 | 395,474 | 0 |
 ## Awards
 Max (Educational): 5,981  (Ranked 57)  
-Sum: 49,177 (Ranked 26)  
+Sum: 49,197 (Ranked 26)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,981 |
-| This game is Highly Recommended | 5,702 |
+| This game is Highly Recommended | 5,722 |
 | This game is Extremely Fun | 5,668 |
 | This game has Challenging Combat | 5,659 |
 | This game has Diverse Characters | 5,644 |
@@ -756,4 +756,4 @@ Diff (max vs sum): 31
 | 2023-09-05 | 4.68 | - | 5,944 | 48,875 |
 | 2023-09-06 | 4.69 | - | 5,958 | 49,001 |
 | 2023-09-07 | 4.69 | - | 5,981 | 49,139 |
-| 2023-09-08 | 4.69 | - | 5,981 | 49,177 |
+| 2023-09-08 | 4.69 | - | 5,981 | 49,197 |

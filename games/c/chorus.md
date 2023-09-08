@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.46 (Ranked 626)  
+Rating: 4.46 (Ranked 627)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -45,7 +45,7 @@ Number of Ratings: 58  (23.09.2022)
 | Crash Test | 20.00% | ~233 |
 | Rise as One | 19.00% | ~222 |
 | Ascension | 19.00% | ~222 |
-| Showoff | 14.00% | ~163 |
+| Showoff | 15.00% | ~175 |
 | Radiation Area | 10.00% | ~117 |
 | Overcharged | 9.00% | ~105 |
 | At Least You Tried | 2.00% | ~23 |

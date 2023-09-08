@@ -23,16 +23,16 @@ Rating: 4.54 (Ranked 505)
 | Like Riding a Bike | 0.90% | ~6,080 |
 | Zombologist | 0.90% | ~6,080 |
 | A Patton Emerges | 0.90% | ~6,080 |
-| Slayer Squad | 0.80% | ~5,404 |
-| I Am the Resurrection | 0.80% | ~5,404 |
-| Our True Nature | 0.80% | ~5,404 |
+| Slayer Squad | 0.80% | ~5,405 |
+| I Am the Resurrection | 0.80% | ~5,405 |
+| Our True Nature | 0.80% | ~5,405 |
 | Anger Management | 0.70% | ~4,729 |
 | Perks of the Job | 0.70% | ~4,729 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,729 |
 | Ooh, Shiny! | 0.70% | ~4,729 |
-| Making Your Mark | 0.60% | ~4,053 |
-| Humanity Distilled | 0.60% | ~4,053 |
-| Down with the Sickness | 0.60% | ~4,053 |
+| Making Your Mark | 0.60% | ~4,054 |
+| Humanity Distilled | 0.60% | ~4,054 |
+| Down with the Sickness | 0.60% | ~4,054 |
 | Max Headroom | 0.50% | ~3,378 |
 | Jumbo Keyring | 0.40% | ~2,702 |
 | Go, Bobcats! | 0.40% | ~2,702 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,552 (Ranked 22)  
+Progressed: 675,587 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 2,121 (0.31%) (Ranked 176)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,552 | 2,121 |
+| 2023-09-08 | 675,587 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
 Sum: 8,779 (Ranked 95)  

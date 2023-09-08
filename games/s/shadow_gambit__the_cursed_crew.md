@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.80 (Ranked 83)  
+Rating: 4.81 (Ranked 78)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,15 +24,15 @@ Rating: 4.80 (Ranked 83)
 | Jaded Judge | 11.00% | ~68 |
 | Rustic Recipe | 11.00% | ~68 |
 | Tobacco Travesty | 9.00% | ~56 |
+| Accursed Artifacts | 8.00% | ~49 |
 | Lyrical Longing | 8.00% | ~49 |
-| Accursed Artifacts | 7.00% | ~43 |
 | Corsair | 5.00% | ~31 |
 | Freebooter | 4.00% | ~25 |
 | Fully Decked | 4.00% | ~25 |
 | Marauder | 3.00% | ~19 |
 | Welcome Back Jester | 3.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617 (Ranked 228)  
+Progressed: 617 (Ranked 229)  
 Completed: 14 (2.27%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,3 +75,4 @@ Completed: 14 (2.27%) (Ranked 89)
 | 2023-09-04 | 4.78 | 0 | 0 |
 | 2023-09-06 | 4.79 | 0 | 0 |
 | 2023-09-07 | 4.80 | 0 | 0 |
+| 2023-09-08 | 4.81 | 0 | 0 |

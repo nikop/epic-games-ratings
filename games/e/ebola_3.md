@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 57.00% | ~137 |
-| Chest ✔ | 55.00% | ~132 |
+| Fright ✔ | 58.00% | ~140 |
+| Chest ✔ | 56.00% | ~135 |
 | Inventory ✔ | 54.00% | ~130 |
 | Police officers ✔ | 29.00% | ~70 |
-| Mutation ✔ | 26.00% | ~62 |
+| Mutation ✔ | 26.00% | ~63 |
 | Doberman ✔ | 15.00% | ~36 |
-| Weapon ✔ | 11.00% | ~26 |
+| Weapon ✔ | 11.00% | ~27 |
 | Chess ✔ | 10.00% | ~24 |
 | Master of Unlocking ✔ | 9.00% | ~22 |
 | Survival ✔ | 8.00% | ~19 |
@@ -36,7 +36,6 @@
 | Broadcasting ✔ | 4.00% | ~10 |
 | Crocodile Attack ✔ | 3.00% | ~7 |
 | Secret ✔ | 3.00% | ~7 |
-| Boss 2 ✔ | 3.00% | ~7 |
 | Mutant run ✔ | 3.00% | ~7 |
 | Osipov's video message ✔ | 3.00% | ~7 |
 | Priest ✔ | 3.00% | ~7 |
@@ -45,6 +44,7 @@
 | Car ✔ | 2.00% | ~5 |
 | Seeker One ✔ | 2.00% | ~5 |
 | Seeker Three ✔ | 2.00% | ~5 |
+| Boss 2 ✔ | 2.00% | ~5 |
 | The escape ✔ | 2.00% | ~5 |
 | Rank B+ ✔ | 2.00% | ~5 |
 | Crocodile Escape ✔ | 1.00% | ~2 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 291)  
+Progressed: 241 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-02 | 233 | 0 |
 | 2023-09-06 | 235 | 0 |
 | 2023-09-07 | 238 | 0 |
-| 2023-09-08 | 240 | 0 |
+| 2023-09-08 | 241 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 626,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 201,
@@ -1938,9 +1938,9 @@
       "ID": "Kill3InOneDrift",
       "SetID": "a6c395p",
       "Name": "Showoff",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 175
     },
     {
       "ID": "KillWhileDrifting",
@@ -2242,8 +2242,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-09-08T11:06:14.064228+00:00",
+  "LastChanged_Achievements": "2023-09-08T12:05:58.7537288+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:33.1890357+00:00",
-  "LastUpdate_Ratings": "2023-09-08T11:02:26.1855106+00:00",
-  "LastUpdate_Achievements": "2023-09-08T11:06:14.0642631+00:00"
+  "LastUpdate_Ratings": "2023-09-08T12:01:33.4209447+00:00",
+  "LastUpdate_Achievements": "2023-09-08T12:05:58.753774+00:00"
 }
