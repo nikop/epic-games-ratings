@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1266,9 +1266,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 512
+      "UsersEstimate": 519
     },
     {
       "ID": "AC03",
@@ -1338,9 +1338,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 249
     },
     {
       "ID": "AC12",
@@ -1627,8 +1627,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-08T02:59:41.4444116+00:00",
-  "LastChanged_Achievements": "2023-09-08T19:03:40.1862886+00:00",
+  "LastChanged_Achievements": "2023-09-08T20:04:27.8226889+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:57:46.9457537+00:00",
-  "LastUpdate_Achievements": "2023-09-08T19:03:40.1863402+00:00"
+  "LastUpdate_Ratings": "2023-09-08T19:58:16.7244267+00:00",
+  "LastUpdate_Achievements": "2023-09-08T20:04:27.8227246+00:00"
 }

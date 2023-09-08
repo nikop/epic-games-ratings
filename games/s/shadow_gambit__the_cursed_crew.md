@@ -13,15 +13,15 @@ Rating: 4.81 (Ranked 78)
 | The Gambit Has Begun | 33.00% | ~204 |
 | Powder Monkey | 29.00% | ~179 |
 | Somewhere Deep in the Lost Caribbean | 27.00% | ~167 |
-| Mirror Mirror on the Wall | 26.00% | ~160 |
+| Mirror Mirror on the Wall | 27.00% | ~167 |
 | Pirates Assemble! | 24.00% | ~148 |
 | Buccaneer | 22.00% | ~136 |
 | Fishy Fish | 21.00% | ~130 |
 | Seadog | 17.00% | ~105 |
 | All Good Things | 16.00% | ~99 |
 | Persistent Parasite | 16.00% | ~99 |
+| Jaded Judge | 12.00% | ~74 |
 | Privateer | 11.00% | ~68 |
-| Jaded Judge | 11.00% | ~68 |
 | Rustic Recipe | 11.00% | ~68 |
 | Tobacco Travesty | 9.00% | ~56 |
 | Accursed Artifacts | 8.00% | ~49 |

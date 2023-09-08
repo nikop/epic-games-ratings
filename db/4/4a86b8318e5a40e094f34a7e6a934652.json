@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 103,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -454,9 +454,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BRING_MARY",
@@ -613,8 +613,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-08T19:03:53.4218608+00:00",
+  "LastChanged_Achievements": "2023-09-08T20:04:45.2136967+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:58:06.6024544+00:00",
-  "LastUpdate_Achievements": "2023-09-08T19:03:53.4218774+00:00"
+  "LastUpdate_Ratings": "2023-09-08T19:58:41.3525847+00:00",
+  "LastUpdate_Achievements": "2023-09-08T20:04:45.2137101+00:00"
 }

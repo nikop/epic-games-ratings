@@ -13,12 +13,12 @@
 | Persephone's Guidance | 5.00% | ~172 |
 | Strength of Herakles | 5.00% | ~172 |
 | Reign in Blood | 5.00% | ~172 |
-| Immolator | 4.00% | ~137 |
-| Go For the Head | 4.00% | ~137 |
-| Spartan Sandal | 4.00% | ~137 |
-| Symbols of Heresy | 4.00% | ~137 |
-| The Sons of Minos | 4.00% | ~137 |
-| Eidola | 4.00% | ~137 |
+| Immolator | 4.00% | ~138 |
+| Go For the Head | 4.00% | ~138 |
+| Spartan Sandal | 4.00% | ~138 |
+| Symbols of Heresy | 4.00% | ~138 |
+| The Sons of Minos | 4.00% | ~138 |
+| Eidola | 4.00% | ~138 |
 | Comedy and Tragedy | 3.00% | ~103 |
 | Pillars of Eternity | 3.00% | ~103 |
 | War Chest | 3.00% | ~103 |
@@ -54,7 +54,7 @@
 | Close Shut the Doors | 1.00% | ~34 |
 | Scrap Metal | 1.00% | ~34 |
 | Athenian Treasury | 0.90% | ~31 |
-| Invicta | 0.80% | ~27 |
+| Invicta | 0.80% | ~28 |
 | Olympian | 0.60% | ~21 |
 | Hipparchia's Labour | 0.40% | ~14 |
 | Debauchery | 0.40% | ~14 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,437 (Ranked 158)  
+Progressed: 3,438 (Ranked 158)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-04 | 3,427 | 0 |
 | 2023-09-05 | 3,432 | 0 |
 | 2023-09-07 | 3,434 | 0 |
-| 2023-09-08 | 3,437 | 0 |
+| 2023-09-08 | 3,438 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,7 +13,7 @@ Rating: 4.59 (Ranked 416)
 | From the Vault with Love | 18.00% | ~3,225 |
 | Tailor-Made | 18.00% | ~3,225 |
 | For your Eyes only | 18.00% | ~3,225 |
-| Assistant Accountant | 17.00% | ~3,045 |
+| Assistant Accountant | 17.00% | ~3,046 |
 | You Only Live Twice | 16.00% | ~2,866 |
 | Fully Decked Out | 16.00% | ~2,866 |
 | A view to Win | 13.00% | ~2,329 |
@@ -24,7 +24,7 @@ Rating: 4.59 (Ranked 416)
 | The Living Portrait | 11.00% | ~1,971 |
 | My Motto, My Creed | 11.00% | ~1,971 |
 | Killer Looks | 11.00% | ~1,971 |
-| Keycards Royale | 10.00% | ~1,791 |
+| Keycards Royale | 10.00% | ~1,792 |
 | In It to Win It | 9.00% | ~1,612 |
 | Security Supervisor | 6.00% | ~1,075 |
 | License to Thrill | 5.00% | ~896 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 416)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,914 (Ranked 112)  
+Progressed: 17,915 (Ranked 112)  
 Completed: 1 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-09-05 | 17,876 | 1 |
 | 2023-09-06 | 17,887 | 1 |
 | 2023-09-07 | 17,903 | 1 |
-| 2023-09-08 | 17,914 | 1 |
+| 2023-09-08 | 17,915 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -14,12 +14,12 @@ Rating: 4.59 (Ranked 416)
 | Doctor Approved | 18.00% | ~1,845 |
 | Thorston Mayer | 12.00% | ~1,230 |
 | Bottoms up! | 10.00% | ~1,025 |
-| The Pit and the Pirates | 7.00% | ~717 |
-| Drone Dodger | 7.00% | ~717 |
+| The Pit and the Pirates | 8.00% | ~820 |
+| Drone Dodger | 7.00% | ~718 |
 | Data Logger | 5.00% | ~512 |
 | Data Master | 5.00% | ~512 |
 | Data Recoverer | 5.00% | ~512 |
-| Debris Spree | 3.00% | ~307 |
+| Debris Spree | 3.00% | ~308 |
 | Urshanabi Hoarder | 2.00% | ~205 |
 | Grave Robber | 2.00% | ~205 |
 | Data Miner | 0.50% | ~51 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 416)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,248 (Ranked 126)  
+Progressed: 10,250 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-05 | 10,095 | 0 |
 | 2023-09-06 | 10,141 | 0 |
 | 2023-09-07 | 10,199 | 0 |
-| 2023-09-08 | 10,248 | 0 |
+| 2023-09-08 | 10,250 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

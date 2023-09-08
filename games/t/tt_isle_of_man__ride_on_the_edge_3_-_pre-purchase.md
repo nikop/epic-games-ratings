@@ -22,10 +22,10 @@
 | Gotta Go Fast! | 5.00% | ~6 |
 | Made Mother Proud | 5.00% | ~6 |
 | Winner Winner Chicken Dinner | 5.00% | ~6 |
+| POI Hunter | 4.00% | ~5 |
 | Seven-League Boots | 4.00% | ~5 |
 | Say My Name | 4.00% | ~5 |
 | Tempus Fugit | 4.00% | ~5 |
-| POI Hunter | 3.00% | ~4 |
 | Geek | 3.00% | ~4 |
 | Last One Standing | 3.00% | ~4 |
 | Time Lord | 3.00% | ~4 |

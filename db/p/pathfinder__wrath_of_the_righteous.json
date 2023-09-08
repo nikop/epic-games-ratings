@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3576,10 +3576,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6925,
       "NumberOfAwardsMax": 1708
+    },
+    {
+      "Time": "2023-09-08T20:00:16.4544162+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6926,
+      "NumberOfAwardsMax": 1708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6925,
+  "NumberOfAwards": 6926,
   "NumberOfAwardsMax": 1708,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3629,7 +3635,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 547
+      "Count": 548
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3650,9 +3656,9 @@
       "Count": 385
     }
   ],
-  "EOS_Progressed": 11207,
+  "EOS_Progressed": 11209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11980,6 +11986,11 @@
       "Time": "2023-09-08T18:06:00.2373491+00:00",
       "NumProgressed": 11207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T20:05:30.7984103+00:00",
+      "NumProgressed": 11209,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12023,7 +12034,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -12047,7 +12058,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "09_PathOfDemon",
@@ -12359,7 +12370,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "49_Flame",
@@ -12383,7 +12394,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -12918,21 +12929,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9989,
+      "Progressed": 9991,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11207,
+      "Progressed": 11209,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-09-08T16:59:18.4106625+00:00",
-  "LastChanged_Achievements": "2023-09-08T19:04:38.8254813+00:00",
+  "LastChanged": "2023-09-08T20:00:16.454416+00:00",
+  "LastChanged_Achievements": "2023-09-08T20:05:30.7984094+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:51.1803019+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:59:19.0586334+00:00",
-  "LastUpdate_Achievements": "2023-09-08T19:04:38.8257128+00:00"
+  "LastUpdate_Ratings": "2023-09-08T20:00:16.4544166+00:00",
+  "LastUpdate_Achievements": "2023-09-08T20:05:30.7985807+00:00"
 }

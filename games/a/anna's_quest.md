@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Escape artist | 78.00% | ~29 |
 | Book Worm | 68.00% | ~25 |
+| Ooh, it's shiny! | 68.00% | ~25 |
 | My lost nightingale | 65.00% | ~24 |
-| Ooh, it's shiny! | 65.00% | ~24 |
 | Through the woods | 62.00% | ~23 |
 | Back to the anvil | 51.00% | ~19 |
 | Honey, honey, honey… | 49.00% | ~18 |
@@ -23,9 +23,9 @@
 | Sorry Grandpa | 46.00% | ~17 |
 | Show me your true self | 43.00% | ~16 |
 | Far away from home | 43.00% | ~16 |
+| GG | 41.00% | ~15 |
 | No posters allowed | 41.00% | ~15 |
 | Close the deal | 38.00% | ~14 |
-| GG | 38.00% | ~14 |
 | Pain in the hands | 38.00% | ~14 |
 | Mischief maker | 38.00% | ~14 |
 | You've got mail! | 35.00% | ~13 |

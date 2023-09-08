@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 1.00% | ~6,758 |
-| Git Gutte! | 1.00% | ~6,758 |
-| Bookworm | 1.00% | ~6,758 |
-| Break A Leg | 1.00% | ~6,758 |
-| But Doctor, I am Butcho | 1.00% | ~6,758 |
-| Coup de Grâce | 1.00% | ~6,758 |
-| Hazardous Materials | 1.00% | ~6,758 |
-| Friends Like These | 1.00% | ~6,758 |
-| Hotel California | 1.00% | ~6,758 |
-| Apex Predator | 1.00% | ~6,758 |
-| Stacking the Deck | 1.00% | ~6,758 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,758 |
-| This is My Weapon | 1.00% | ~6,758 |
-| Welcome To Hell-A | 1.00% | ~6,758 |
+| Dr. Reed, I Presume? | 1.00% | ~6,759 |
+| Git Gutte! | 1.00% | ~6,759 |
+| Bookworm | 1.00% | ~6,759 |
+| Break A Leg | 1.00% | ~6,759 |
+| But Doctor, I am Butcho | 1.00% | ~6,759 |
+| Can't Handle the Truth | 1.00% | ~6,759 |
+| Coup de Grâce | 1.00% | ~6,759 |
+| Hazardous Materials | 1.00% | ~6,759 |
+| Friends Like These | 1.00% | ~6,759 |
+| Hotel California | 1.00% | ~6,759 |
+| Apex Predator | 1.00% | ~6,759 |
+| Stacking the Deck | 1.00% | ~6,759 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,759 |
+| This is My Weapon | 1.00% | ~6,759 |
+| Welcome To Hell-A | 1.00% | ~6,759 |
 | Slayer Squad | 0.90% | ~6,083 |
-| Can't Handle the Truth | 0.90% | ~6,083 |
 | Like Riding a Bike | 0.90% | ~6,083 |
 | Zombologist | 0.90% | ~6,083 |
 | A Patton Emerges | 0.90% | ~6,083 |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 505)
 | Humanity Distilled | 0.60% | ~4,055 |
 | Down with the Sickness | 0.60% | ~4,055 |
 | Max Headroom | 0.50% | ~3,379 |
-| Jumbo Keyring | 0.40% | ~2,703 |
-| Go, Bobcats! | 0.40% | ~2,703 |
-| Rising Star | 0.40% | ~2,703 |
+| Jumbo Keyring | 0.40% | ~2,704 |
+| Go, Bobcats! | 0.40% | ~2,704 |
+| Rising Star | 0.40% | ~2,704 |
 | On Safari | 0.30% | ~2,028 |
 | Smorgasbord | 0.30% | ~2,028 |
 | Not Even My Final Form | 0.30% | ~2,028 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,843 (Ranked 22)  
+Progressed: 675,890 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,19 +192,19 @@ Completed: 2,121 (0.31%) (Ranked 177)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,843 | 2,121 |
+| 2023-09-08 | 675,890 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
-Sum: 8,785 (Ranked 95)  
+Sum: 8,788 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,945 |
 | This game is Great for Beginners | 400 |
 | This game has Diverse Characters | 394 |
-| This game has Quickly Understood Controls | 383 |
+| This game has Quickly Understood Controls | 385 |
 | This game is Relaxing | 369 |
-| This game has Amazing Storytelling | 343 |
+| This game has Amazing Storytelling | 344 |
 | This game is Extremely Fun | 324 |
 | This game has Amazing Characters | 315 |
 | This game is Highly Recommended | 312 |
@@ -351,4 +351,4 @@ Diff (max vs sum): -36
 | 2023-09-05 | 4.54 | 5,913 | 8,730 |
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
-| 2023-09-08 | 4.54 | 5,945 | 8,785 |
+| 2023-09-08 | 4.54 | 5,945 | 8,788 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7450,
+  "EOS_Progressed": 7451,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6819,6 +6819,11 @@
       "Time": "2023-09-08T10:05:17.010889+00:00",
       "NumProgressed": 7450,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-09-08T20:05:51.1194885+00:00",
+      "NumProgressed": 7451,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 21,
@@ -6862,7 +6867,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CLAY_PIGEON",
@@ -6878,7 +6883,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1266
+      "UsersEstimate": 1267
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -6910,7 +6915,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "HISTORIAN",
@@ -6934,7 +6939,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "LIBERATOR",
@@ -6942,7 +6947,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "LIVE_WIRE",
@@ -6958,7 +6963,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "SNIP_SNIP",
@@ -6990,14 +6995,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7450,
+      "Progressed": 7451,
       "Completed": 32
     }
   ],
@@ -7005,8 +7010,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-08T19:04:54.8277483+00:00",
+  "LastChanged_Achievements": "2023-09-08T20:05:51.1194878+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:14.1887687+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:58:51.925985+00:00",
-  "LastUpdate_Achievements": "2023-09-08T19:04:54.8278094+00:00"
+  "LastUpdate_Ratings": "2023-09-08T19:59:39.817904+00:00",
+  "LastUpdate_Achievements": "2023-09-08T20:05:51.1195297+00:00"
 }

@@ -471,9 +471,9 @@
       "ID": "secret21",
       "SetID": "39f6ck8",
       "Name": "Mutant And Proud",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "secret22",
@@ -735,9 +735,9 @@
       "ID": "secret51",
       "SetID": "39f6ck8",
       "Name": "Fire Beacon",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "secret52",
@@ -800,8 +800,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-09-08T19:04:23.2772012+00:00",
+  "LastChanged_Achievements": "2023-09-08T20:05:10.9671737+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:41.5343749+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:56:54.5491516+00:00",
-  "LastUpdate_Achievements": "2023-09-08T19:04:23.2772531+00:00"
+  "LastUpdate_Ratings": "2023-09-08T19:57:09.6513424+00:00",
+  "LastUpdate_Achievements": "2023-09-08T20:05:10.9672146+00:00"
 }

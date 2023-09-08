@@ -10,7 +10,7 @@ Number of Ratings: 281  (23.09.2022)
 | Hey Good Hookin | 68.00% | ~3,889 |
 | I'm on a Boat! | 59.00% | ~3,374 |
 | Can you smell what the Rod is Hooking | 55.00% | ~3,145 |
-| Scaling up | 54.00% | ~3,088 |
+| Scaling up | 55.00% | ~3,145 |
 | More Fish in the Sea | 48.00% | ~2,745 |
 | Ready to Rod and Roll | 45.00% | ~2,574 |
 | Fish Out of Water | 35.00% | ~2,002 |

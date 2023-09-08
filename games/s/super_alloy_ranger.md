@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 77.00% | ~47 |
-| Gear Up | 67.00% | ~41 |
-| A Grand Show | 67.00% | ~41 |
-| Freshen Up | 57.00% | ~35 |
-| GG EZ | 57.00% | ~35 |
-| Hydrophobia | 43.00% | ~26 |
+| Iceberg Theory | 76.00% | ~47 |
+| Gear Up | 66.00% | ~41 |
+| A Grand Show | 66.00% | ~41 |
+| Freshen Up | 56.00% | ~35 |
+| GG EZ | 56.00% | ~35 |
+| Hydrophobia | 42.00% | ~26 |
 | Ka-Ching! | 34.00% | ~21 |
 | Stop Right There | 34.00% | ~21 |
 | Get to the Point | 31.00% | ~19 |
@@ -22,10 +22,10 @@
 | The Abyss Conqueror | 10.00% | ~6 |
 | Keep it Up, rookie! | 8.00% | ~5 |
 | Decapitation Strike | 8.00% | ~5 |
-| The Fortress Conqueror | 7.00% | ~4 |
-| The Hypergravitational Abyss Conqueror | 7.00% | ~4 |
-| Antaeus | 7.00% | ~4 |
-| Air Interception | 7.00% | ~4 |
+| The Fortress Conqueror | 6.00% | ~4 |
+| The Hypergravitational Abyss Conqueror | 6.00% | ~4 |
+| Antaeus | 6.00% | ~4 |
+| Air Interception | 6.00% | ~4 |
 | The Deep Frozen Conqueror | 5.00% | ~3 |
 | The Infinite Train Conqueror | 5.00% | ~3 |
 | The Paradox Coordinate Conqueror | 5.00% | ~3 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 378)  
+Progressed: 62 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-04 | 55 | 0 |
 | 2023-09-06 | 56 | 0 |
 | 2023-09-07 | 58 | 0 |
-| 2023-09-08 | 61 | 0 |
+| 2023-09-08 | 62 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -23,7 +23,7 @@
 | Target Practice | 42.00% | ~76 |
 | Glorious Battle | 41.00% | ~74 |
 | Meat Larder | 39.00% | ~70 |
-| Mutant And Proud | 37.00% | ~67 |
+| Mutant And Proud | 38.00% | ~68 |
 | The Emperor's New Clothes | 33.00% | ~59 |
 | Final Evolution | 32.00% | ~58 |
 | Undying Skin | 31.00% | ~56 |
@@ -37,8 +37,8 @@
 | Loyal Companion | 25.00% | ~45 |
 | Immortal Skin | 24.00% | ~43 |
 | Back To The Future | 23.00% | ~41 |
+| Fire Beacon | 23.00% | ~41 |
 | Lunch Before The Lunch | 22.00% | ~40 |
-| Fire Beacon | 22.00% | ~40 |
 | Building Blocks | 19.00% | ~34 |
 | From Here To Eternity | 18.00% | ~32 |
 | Octopostructure | 17.00% | ~31 |

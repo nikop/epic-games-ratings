@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -274,9 +274,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1912,
+  "EOS_Progressed": 1913,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5449,6 +5449,11 @@
       "Time": "2023-09-08T14:05:02.9746335+00:00",
       "NumProgressed": 1912,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T20:05:42.9694046+00:00",
+      "NumProgressed": 1913,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5852,7 +5857,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "prestigiousx10",
@@ -5884,7 +5889,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "scrollmaster",
@@ -5946,9 +5951,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 383
     },
     {
       "ID": "thepowerofawakening",
@@ -6020,7 +6025,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "warmachinesarmy",
@@ -6052,14 +6057,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1912,
+      "Progressed": 1913,
       "Completed": 2
     }
   ],
@@ -6067,8 +6072,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T18:00:36.5525553+00:00",
-  "LastChanged_Achievements": "2023-09-08T19:04:48.2254353+00:00",
+  "LastChanged_Achievements": "2023-09-08T20:05:42.9694043+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-08T18:59:05.0050195+00:00",
-  "LastUpdate_Achievements": "2023-09-08T19:04:48.2255477+00:00"
+  "LastUpdate_Ratings": "2023-09-08T19:59:58.0162767+00:00",
+  "LastUpdate_Achievements": "2023-09-08T20:05:42.9694912+00:00"
 }

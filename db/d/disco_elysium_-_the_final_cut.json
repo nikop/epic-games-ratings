@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1289,7 +1289,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127385,
+  "EOS_Progressed": 127388,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 1,
@@ -15319,6 +15319,11 @@
       "Time": "2023-09-08T19:04:33.4157616+00:00",
       "NumProgressed": 127385,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-08T20:05:23.426194+00:00",
+      "NumProgressed": 127388,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15362,7 +15367,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22929
+      "UsersEstimate": 22930
     },
     {
       "ID": "ACH_COP_BAD",
@@ -15386,7 +15391,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30572
+      "UsersEstimate": 30573
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -15410,7 +15415,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35668
+      "UsersEstimate": 35669
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -15426,7 +15431,7 @@
       "Name": "The Lawbringer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5096
     },
     {
       "ID": "ACH_COP_LIBERAL",
@@ -15474,7 +15479,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14012
+      "UsersEstimate": 14013
     },
     {
       "ID": "ACH_CUNO",
@@ -15626,7 +15631,7 @@
       "Name": "Fairweather t-500 Vitreous Enamel",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5096
     },
     {
       "ID": "ACH_REAL_MUSOR",
@@ -15649,15 +15654,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127385,
+      "Progressed": 127388,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-08T19:04:33.4157606+00:00",
+  "LastChanged_Achievements": "2023-09-08T20:05:23.4261936+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:00.5699412+00:00",
-  "LastUpdate_Ratings": "2023-09-08T19:00:11.9217887+00:00",
-  "LastUpdate_Achievements": "2023-09-08T19:04:33.4158899+00:00"
+  "LastUpdate_Ratings": "2023-09-08T20:01:27.6348477+00:00",
+  "LastUpdate_Achievements": "2023-09-08T20:05:23.4262836+00:00"
 }
