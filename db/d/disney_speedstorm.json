@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3157,
+  "EOS_Progressed": 3158,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 5.38,
   "EosHistory": [
@@ -4565,6 +4565,11 @@
       "Time": "2023-09-08T03:15:07.9052654+00:00",
       "NumProgressed": 3157,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-08T15:06:01.5790903+00:00",
+      "NumProgressed": 3158,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 24,
@@ -4592,7 +4597,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "12",
@@ -4696,7 +4701,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "24",
@@ -4704,7 +4709,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "3",
@@ -4720,7 +4725,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "5",
@@ -4728,7 +4733,7 @@
       "Name": "ROOKIE",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1736
+      "UsersEstimate": 1737
     },
     {
       "ID": "6",
@@ -4767,13 +4772,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3157,
+      "Progressed": 3158,
       "Completed": 170
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-08T14:06:13.8009819+00:00",
+  "LastChanged_Achievements": "2023-09-08T15:06:01.5790895+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:39.8316539+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:00:07.7065364+00:00",
-  "LastUpdate_Achievements": "2023-09-08T14:06:13.8010166+00:00"
+  "LastUpdate_Ratings": "2023-09-08T14:59:56.422256+00:00",
+  "LastUpdate_Achievements": "2023-09-08T15:06:01.5791242+00:00"
 }

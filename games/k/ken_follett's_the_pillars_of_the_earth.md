@@ -8,8 +8,8 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~6,184 |
 | Man of politics | 35.00% | ~5,279 |
-| Friends of sorts | 33.00% | ~4,977 |
-| Yet another secret | 33.00% | ~4,977 |
+| Friends of sorts | 33.00% | ~4,978 |
+| Yet another secret | 33.00% | ~4,978 |
 | Let there be darkness | 32.00% | ~4,827 |
 | End of Book One | 30.00% | ~4,525 |
 | Wannabe knight | 24.00% | ~3,620 |
@@ -29,12 +29,12 @@ Number of Ratings: 368  (23.09.2022)
 | First profit | 11.00% | ~1,659 |
 | Good midwife | 10.00% | ~1,508 |
 | Team player | 10.00% | ~1,508 |
-| Skilled merchant | 9.00% | ~1,357 |
-| Nothing but make-believe | 9.00% | ~1,357 |
-| Brother Marcus | 9.00% | ~1,357 |
-| The oath | 9.00% | ~1,357 |
-| The truth revealed | 9.00% | ~1,357 |
-| The End. | 9.00% | ~1,357 |
+| Skilled merchant | 9.00% | ~1,358 |
+| Nothing but make-believe | 9.00% | ~1,358 |
+| Brother Marcus | 9.00% | ~1,358 |
+| The oath | 9.00% | ~1,358 |
+| The truth revealed | 9.00% | ~1,358 |
+| The End. | 9.00% | ~1,358 |
 | A cry for help | 8.00% | ~1,207 |
 | Silentium est aureum | 7.00% | ~1,056 |
 | Rebel without a cause | 6.00% | ~905 |
@@ -44,11 +44,11 @@ Number of Ratings: 368  (23.09.2022)
 | Revenge | 4.00% | ~603 |
 | Self-defense | 4.00% | ~603 |
 | Countess Aliena | 4.00% | ~603 |
-| Care, like a brother cares | 3.00% | ~452 |
-| A brush with death | 3.00% | ~452 |
+| Care, like a brother cares | 3.00% | ~453 |
+| A brush with death | 3.00% | ~453 |
 | Boy of mystery | 2.00% | ~302 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,083 (Ranked 120)  
+Progressed: 15,084 (Ranked 120)  
 Completed: 110 (0.73%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 110 (0.73%) (Ranked 133)
 | 2023-09-05 | 15,047 | 110 |
 | 2023-09-06 | 15,062 | 110 |
 | 2023-09-07 | 15,074 | 110 |
-| 2023-09-08 | 15,083 | 110 |
+| 2023-09-08 | 15,084 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 301)  
 Sum: 188 (Ranked 378)  

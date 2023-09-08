@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 417,
+  "Ranking_Rating": 416,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10227,
+  "EOS_Progressed": 10231,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4704,6 +4704,11 @@
       "Time": "2023-09-08T14:05:57.7360194+00:00",
       "NumProgressed": 10227,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T15:05:45.3111454+00:00",
+      "NumProgressed": 10231,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4756,7 +4761,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "15",
@@ -4764,7 +4769,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2557
+      "UsersEstimate": 2558
     },
     {
       "ID": "16",
@@ -4780,7 +4785,7 @@
       "Name": "Spore Taste",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "18",
@@ -4796,7 +4801,7 @@
       "Name": "Martian Music",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "2",
@@ -4804,7 +4809,7 @@
       "Name": "Data Logger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "20",
@@ -4812,7 +4817,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "21",
@@ -4892,7 +4897,7 @@
       "Name": "Captain Drummer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "30",
@@ -4916,7 +4921,7 @@
       "Name": "Data Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "6",
@@ -4924,7 +4929,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "7",
@@ -4940,7 +4945,7 @@
       "Name": "Data Recoverer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "9",
@@ -4948,14 +4953,14 @@
       "Name": "Impossible Objects",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10227,
+      "Progressed": 10231,
       "Completed": 0
     }
   ],
@@ -4963,8 +4968,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-07T17:03:40.5471385+00:00",
-  "LastChanged_Achievements": "2023-09-08T14:05:57.7360189+00:00",
+  "LastChanged_Achievements": "2023-09-08T15:05:45.311145+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:00:23.8378512+00:00",
-  "LastUpdate_Achievements": "2023-09-08T14:05:57.7360584+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:00:12.4081666+00:00",
+  "LastUpdate_Achievements": "2023-09-08T15:05:45.3111853+00:00"
 }

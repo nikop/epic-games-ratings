@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "EpicACHV_8",
       "SetID": "acn799d",
       "Name": "Big Time Monkey",
-      "Percentage": 18,
+      "Percentage": 24,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "EpicACHV_9",
@@ -254,8 +254,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-08T14:06:25.830338+00:00",
+  "LastChanged_Achievements": "2023-09-08T15:06:13.939135+00:00",
   "LastUpdate_AppInfo": "2023-09-06T04:57:09.7950789+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:00:24.8365234+00:00",
-  "LastUpdate_Achievements": "2023-09-08T14:06:25.8303493+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:00:13.4285602+00:00",
+  "LastUpdate_Achievements": "2023-09-08T15:06:13.939143+00:00"
 }

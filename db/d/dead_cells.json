@@ -4,11 +4,11 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 24,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
     "PcReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -2558,10 +2558,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 2376,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-09-08T14:59:26.3239866+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 2379,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2376,
+  "NumberOfAwards": 2379,
   "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2569,7 +2575,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 246
+      "Count": 249
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2649,8 +2655,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-09-07T20:02:39.0275859+00:00",
+  "LastChanged": "2023-09-08T14:59:26.3239865+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:58.1522737+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:59:33.4055143+00:00",
-  "LastUpdate_Achievements": "2023-09-08T14:03:52.2247905+00:00"
+  "LastUpdate_Ratings": "2023-09-08T14:59:26.3239869+00:00",
+  "LastUpdate_Achievements": "2023-09-08T15:03:38.5184378+00:00"
 }

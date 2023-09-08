@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2629,
+  "EOS_Progressed": 2630,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3063,6 +3063,11 @@
       "Time": "2023-09-08T08:04:34.3552+00:00",
       "NumProgressed": 2629,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-08T15:04:26.7504632+00:00",
+      "NumProgressed": 2630,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3098,7 +3103,7 @@
       "Name": "Helping the little ones",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "MOVE_ON",
@@ -3168,16 +3173,16 @@
       "ID": "UNEXPECTED_ENCOUNTER",
       "SetID": "1a29mp6",
       "Name": "Unexpected encounter",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 473
+      "UsersEstimate": 500
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2629,
+      "Progressed": 2630,
       "Completed": 6
     }
   ],
@@ -3185,8 +3190,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-08T14:04:38.7182441+00:00",
+  "LastChanged_Achievements": "2023-09-08T15:04:26.7504628+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:06.6314388+00:00",
-  "LastUpdate_Ratings": "2023-09-08T14:00:26.4215089+00:00",
-  "LastUpdate_Achievements": "2023-09-08T14:04:38.7182709+00:00"
+  "LastUpdate_Ratings": "2023-09-08T15:00:15.1340495+00:00",
+  "LastUpdate_Achievements": "2023-09-08T15:04:26.7504872+00:00"
 }

@@ -9,11 +9,11 @@
 | Rookie | 69.00% | ~112 |
 | Apprentice Destructor | 30.00% | ~49 |
 | I Prefer Jazz Fusion | 12.00% | ~20 |
-| Master Destructor | 11.00% | ~18 |
+| Master Destructor | 12.00% | ~20 |
 | Avaricerite | 9.00% | ~15 |
 | Ball Galore | 8.00% | ~13 |
+| Back From The Dead | 7.00% | ~11 |
 | Easy Victory | 7.00% | ~11 |
-| Back From The Dead | 6.00% | ~10 |
 | You Are Actually Supposed To Use Those | 6.00% | ~10 |
 | Ball Collector | 5.00% | ~8 |
 | Legendary Destructor | 5.00% | ~8 |
@@ -23,10 +23,10 @@
 | Ticking Clock | 4.00% | ~7 |
 | Collector | 3.00% | ~5 |
 | Detoxed | 3.00% | ~5 |
+| Scrap Collector | 3.00% | ~5 |
 | Bullet Hell | 2.00% | ~3 |
 | Ice Breaker | 2.00% | ~3 |
 | Monster of Fashion | 2.00% | ~3 |
-| Scrap Collector | 2.00% | ~3 |
 | Single Person On Earth | 2.00% | ~3 |
 | Untouchable | 2.00% | ~3 |
 | Machine Man | 1.00% | ~2 |

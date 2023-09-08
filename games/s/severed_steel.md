@@ -5,30 +5,30 @@ Rating: 4.69 (Ranked 217)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 29.00% | ~190,578 |
-| 50 HEADSHOTS | 27.00% | ~177,435 |
-| SCIENCE AND INDUSTRY | 26.00% | ~170,863 |
-| FINISHED CHAPTER 1 | 25.00% | ~164,291 |
-| FINISHED CHAPTER 2 | 18.00% | ~118,290 |
-| 200 HEADSHOTS | 16.00% | ~105,146 |
-| FINISHED CHAPTER 3 | 15.00% | ~98,575 |
-| FINISHED CHAPTER 4 | 13.00% | ~85,431 |
-| FINISH CHAPTER 5 | 11.00% | ~72,288 |
-| CATHARTIC ESCAPISM | 10.00% | ~65,716 |
-| FINISH CHAPTER 6 | 9.00% | ~59,145 |
-| 1000 KILLS | 8.00% | ~52,573 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~26,287 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,143 |
-| FIRST BLOOD | 2.00% | ~13,143 |
+| 100 KILLS | 29.00% | ~190,588 |
+| 50 HEADSHOTS | 27.00% | ~177,444 |
+| SCIENCE AND INDUSTRY | 26.00% | ~170,872 |
+| FINISHED CHAPTER 1 | 25.00% | ~164,300 |
+| FINISHED CHAPTER 2 | 18.00% | ~118,296 |
+| 200 HEADSHOTS | 16.00% | ~105,152 |
+| FINISHED CHAPTER 3 | 15.00% | ~98,580 |
+| FINISHED CHAPTER 4 | 13.00% | ~85,436 |
+| FINISH CHAPTER 5 | 11.00% | ~72,292 |
+| CATHARTIC ESCAPISM | 10.00% | ~65,720 |
+| FINISH CHAPTER 6 | 9.00% | ~59,148 |
+| 1000 KILLS | 8.00% | ~52,576 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~26,288 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,144 |
+| FIRST BLOOD | 2.00% | ~13,144 |
 | PACEMAKER | 1.00% | ~6,572 |
-| OUT OF ORDER | 0.90% | ~5,914 |
-| TIME PARADOX | 0.90% | ~5,914 |
-| FIREFIGHT LEVEL 30 | 0.80% | ~5,257 |
+| OUT OF ORDER | 0.90% | ~5,915 |
+| TIME PARADOX | 0.90% | ~5,915 |
+| FIREFIGHT LEVEL 30 | 0.80% | ~5,258 |
 | PARTYHARD | 0.70% | ~4,600 |
 | NEW GAME PLUS | 0.60% | ~3,943 |
 | CHURCH | 0.40% | ~2,629 |
 | FIREFIGHT LEVEL 40 | 0.40% | ~2,629 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~1,971 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~1,972 |
 | CHALET | 0.20% | ~1,314 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,314 |
 | REMEMBER THE ARMORY | 0.20% | ~1,314 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 217)
 | THE GAMBLER | 0.10% | ~657 |
 | WARRIOR IN A GARDEN | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 657,165 (Ranked 25)  
+Progressed: 657,199 (Ranked 25)  
 Completed: 58 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,11 +199,11 @@ Completed: 58 (0.01%) (Ranked 257)
 | 2023-09-05 | 655,823 | 58 |
 | 2023-09-06 | 656,347 | 58 |
 | 2023-09-07 | 656,872 | 58 |
-| 2023-09-08 | 657,165 | 58 |
+| 2023-09-08 | 657,199 | 58 |
 ## Awards
-Max (Great Boss Battles): 281  (Ranked 245)  
+Max (Great Boss Battles): 281  (Ranked 246)  
 Sum: 281 (Ranked 347)  
-Diff (max vs sum): -102  
+Diff (max vs sum): -101  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 281 |

@@ -4,8 +4,8 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -798,9 +798,9 @@
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ball_collector",
@@ -910,9 +910,9 @@
       "ID": "master_destructor",
       "SetID": "jig50d",
       "Name": "Master Destructor",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "medium_rare",
@@ -958,9 +958,9 @@
       "ID": "scrap_collector",
       "SetID": "jig50d",
       "Name": "Scrap Collector",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "single_person",
@@ -1039,8 +1039,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-09-08T14:04:43.9210198+00:00",
+  "LastChanged_Achievements": "2023-09-08T15:04:32.1387764+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:47.1284344+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:57:02.6355205+00:00",
-  "LastUpdate_Achievements": "2023-09-08T14:04:43.921043+00:00"
+  "LastUpdate_Ratings": "2023-09-08T14:57:04.7168494+00:00",
+  "LastUpdate_Achievements": "2023-09-08T15:04:32.1387963+00:00"
 }

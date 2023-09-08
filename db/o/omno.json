@@ -4,8 +4,8 @@
   "ProductSlug": "omno",
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-07-29T00:00:00+00:00",
     "PcReleaseDate": "2021-07-29T00:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.9749552+00:00",
   "LastChanged": "2023-03-31T05:58:13.9749553+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:59.6936133+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:59:34.546921+00:00",
-  "LastUpdate_Achievements": "2023-09-08T14:03:21.9853429+00:00"
+  "LastUpdate_Ratings": "2023-09-08T14:59:27.4998237+00:00",
+  "LastUpdate_Achievements": "2023-09-08T15:03:09.1598779+00:00"
 }

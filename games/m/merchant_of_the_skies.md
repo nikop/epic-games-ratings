@@ -7,7 +7,7 @@
 | Energizer | 99.00% | ~934 |
 | A man of his word | 96.00% | ~905 |
 | Real Estate | 64.00% | ~604 |
-| New Ride | 54.00% | ~509 |
+| New Ride | 55.00% | ~519 |
 | Giants | 49.00% | ~462 |
 | Thrifty | 47.00% | ~443 |
 | Too big to fail | 35.00% | ~330 |
@@ -17,7 +17,7 @@
 | Supplier | 6.00% | ~57 |
 | Botanical | 5.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 943 (Ranked 210)  
+Progressed: 943 (Ranked 211)  
 Completed: 14 (1.48%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
