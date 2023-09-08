@@ -6,7 +6,7 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
@@ -338,11 +338,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 216,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -1043,6 +1043,11 @@
       "Time": "2023-09-07T23:07:52.9007079+00:00",
       "NumProgressed": 215,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-08T00:08:01.9960896+00:00",
+      "NumProgressed": 216,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1071,7 +1076,7 @@
       "Name": "Green Cube Killer",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -1247,7 +1252,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_S4",
@@ -1271,30 +1276,30 @@
       "Name": "Lost in Space",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 216,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-07T23:07:52.9007075+00:00",
+  "LastChanged_Achievements": "2023-09-08T00:08:01.996089+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-07T23:00:26.4716568+00:00",
-  "LastUpdate_Achievements": "2023-09-07T23:07:52.9007333+00:00"
+  "LastUpdate_Ratings": "2023-09-07T23:59:42.4807447+00:00",
+  "LastUpdate_Achievements": "2023-09-08T00:08:01.9961142+00:00"
 }

@@ -6380,10 +6380,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31445,
       "NumberOfAwardsMax": 5238
+    },
+    {
+      "Time": "2023-09-08T00:01:17.9367051+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31446,
+      "NumberOfAwardsMax": 5238
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31445,
+  "NumberOfAwards": 31446,
   "NumberOfAwardsMax": 5238,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6403,7 +6409,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4756
+      "Count": 4757
     },
     {
       "Text": "This game is Relaxing",
@@ -6430,9 +6436,9 @@
       "Count": 3400
     }
   ],
-  "EOS_Progressed": 227831,
+  "EOS_Progressed": 227839,
   "EOS_Completed": 2259,
-  "EOS_NewPlayers": 1451,
+  "EOS_NewPlayers": 1454,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -21930,6 +21936,11 @@
       "Time": "2023-09-07T23:10:23.8066705+00:00",
       "NumProgressed": 227831,
       "NumCompleted": 2259
+    },
+    {
+      "Time": "2023-09-08T00:10:15.2982114+00:00",
+      "NumProgressed": 227839,
+      "NumCompleted": 2259
     }
   ],
   "TotalAchievements": 520,
@@ -23621,7 +23632,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "objective_completed_35",
@@ -26100,21 +26111,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194105,
+      "Progressed": 194113,
       "Completed": 3408
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227831,
+      "Progressed": 227839,
       "Completed": 2259
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-07T18:00:56.4390656+00:00",
-  "LastChanged_Achievements": "2023-09-07T23:10:23.8066699+00:00",
+  "LastChanged": "2023-09-08T00:01:17.936705+00:00",
+  "LastChanged_Achievements": "2023-09-08T00:10:15.2982105+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-07T23:01:52.4372885+00:00",
-  "LastUpdate_Achievements": "2023-09-07T23:10:23.8094314+00:00"
+  "LastUpdate_Ratings": "2023-09-08T00:01:17.9367056+00:00",
+  "LastUpdate_Achievements": "2023-09-08T00:10:15.3025631+00:00"
 }

@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15074,
+  "EOS_Progressed": 15075,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9735,6 +9735,11 @@
       "Time": "2023-09-07T20:07:52.5445557+00:00",
       "NumProgressed": 15074,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-08T00:07:47.8971197+00:00",
+      "NumProgressed": 15075,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9746,7 +9751,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "tpote_achievement_10",
@@ -9786,7 +9791,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "tpote_achievement_15",
@@ -9826,7 +9831,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "tpote_achievement_2",
@@ -9834,7 +9839,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "tpote_achievement_20",
@@ -9842,7 +9847,7 @@
       "Name": "Boy of mystery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "tpote_achievement_21",
@@ -9898,7 +9903,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "tpote_achievement_28",
@@ -9930,7 +9935,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "tpote_achievement_31",
@@ -9938,7 +9943,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "tpote_achievement_32",
@@ -10010,7 +10015,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6180
+      "UsersEstimate": 6181
     },
     {
       "ID": "tpote_achievement_40",
@@ -10073,15 +10078,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15074,
+      "Progressed": 15075,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-07T23:07:39.1646847+00:00",
+  "LastChanged_Achievements": "2023-09-08T00:07:47.8971189+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:40.0139465+00:00",
-  "LastUpdate_Ratings": "2023-09-07T23:05:50.3373869+00:00",
-  "LastUpdate_Achievements": "2023-09-07T23:07:39.1647719+00:00"
+  "LastUpdate_Ratings": "2023-09-08T00:05:56.6757642+00:00",
+  "LastUpdate_Achievements": "2023-09-08T00:07:47.8972114+00:00"
 }

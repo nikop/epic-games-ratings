@@ -55,14 +55,14 @@
 | Your own way | 36.00% | ~115 |
 | Undercover robot | 35.00% | ~112 |
 | Problems of cyborgs | 34.00% | ~108 |
+| Not little hacker | 34.00% | ~108 |
 | Absolute Champion! | 34.00% | ~108 |
 | Anyone can resist | 34.00% | ~108 |
-| Not little hacker | 33.00% | ~105 |
+| The last bell ring | 33.00% | ~105 |
 | Trap disarmed | 32.00% | ~102 |
 | The lonesome road | 32.00% | ~102 |
 | Family comes first | 32.00% | ~102 |
 | Key memories | 32.00% | ~102 |
-| The last bell ring | 32.00% | ~102 |
 | Careerist | 32.00% | ~102 |
 | The heart of the Resistance | 32.00% | ~102 |
 | Another world | 31.00% | ~99 |

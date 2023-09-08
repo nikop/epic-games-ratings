@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Hidden Dragon | 0.00% | ~0 |
 | Fighter in the Pond | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,425 (Ranked 20)  
+Progressed: 713,434 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
 | 2023-09-07 | 713,425 | 12,887 |
+| 2023-09-08 | 713,434 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,446  (Ranked 53)  
 Sum: 11,094 (Ranked 80)  

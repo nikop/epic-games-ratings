@@ -3459,9 +3459,9 @@
       "ID": "Kills_Exterminator",
       "SetID": "3jha1np",
       "Name": "Exterminator",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -3817,8 +3817,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-07T23:06:40.4760704+00:00",
+  "LastChanged_Achievements": "2023-09-08T00:06:48.2640526+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:31.6122131+00:00",
-  "LastUpdate_Ratings": "2023-09-07T23:03:40.6132341+00:00",
-  "LastUpdate_Achievements": "2023-09-07T23:06:40.4761438+00:00"
+  "LastUpdate_Ratings": "2023-09-08T00:03:11.3804266+00:00",
+  "LastUpdate_Achievements": "2023-09-08T00:06:48.2641376+00:00"
 }

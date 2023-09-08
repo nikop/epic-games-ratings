@@ -9,16 +9,16 @@ Number of Ratings: 6,336  (23.09.2022)
 | Escaped Tartarus | 89.00% | ~625,650 |
 | Escaped Asphodel | 80.00% | ~562,382 |
 | Arms Collector | 71.00% | ~499,114 |
-| Friends in High Places | 68.00% | ~478,024 |
+| Friends in High Places | 68.00% | ~478,025 |
 | Escaped Elysium | 66.00% | ~463,965 |
 | Chthonic Colleagues | 63.00% | ~442,876 |
-| Is There No Escape? | 52.00% | ~365,548 |
+| Is There No Escape? | 52.00% | ~365,549 |
 | Death Dealer | 45.00% | ~316,340 |
-| Skelly Slayer | 42.00% | ~295,250 |
+| Skelly Slayer | 42.00% | ~295,251 |
 | Well Stocked | 40.00% | ~281,191 |
-| Back to Work | 38.00% | ~267,131 |
-| Day-or-Night Trader | 37.00% | ~260,101 |
-| Blessed by the Gods | 37.00% | ~260,101 |
+| Back to Work | 38.00% | ~267,132 |
+| Day-or-Night Trader | 37.00% | ~260,102 |
+| Blessed by the Gods | 37.00% | ~260,102 |
 | Urge to Sing | 36.00% | ~253,072 |
 | Blood Bound | 35.00% | ~246,042 |
 | Three-Headed Boy | 32.00% | ~224,953 |
@@ -40,7 +40,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | The Useless Trinket | 13.00% | ~91,387 |
 | Champion of Elysium | 13.00% | ~91,387 |
 | Slashed Benefits | 12.00% | ~84,357 |
-| Haste of Hermes | 11.00% | ~77,327 |
+| Haste of Hermes | 11.00% | ~77,328 |
 | Bad Call | 10.00% | ~70,298 |
 | Nyx's Mirror | 10.00% | ~70,298 |
 | Night and Darkness | 10.00% | ~70,298 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,119 |
 | Friends Forever | 4.00% | ~28,119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702,977 (Ranked 21)  
+Progressed: 702,978 (Ranked 21)  
 Completed: 6,342 (0.90%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 6,342 (0.90%) (Ranked 127)
 | 2023-09-05 | 702,848 | 6,339 |
 | 2023-09-06 | 702,899 | 6,339 |
 | 2023-09-07 | 702,977 | 6,342 |
+| 2023-09-08 | 702,978 | 6,342 |
 ## Awards
 Max (Character Customization): 3,251  (Ranked 93)  
 Sum: 7,862 (Ranked 101)  

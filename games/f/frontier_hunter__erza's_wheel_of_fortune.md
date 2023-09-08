@@ -41,11 +41,11 @@
 | Giant Claw Spider Challenge | 3.00% | ~3 |
 | Silver Moon Wolf King Challenge | 3.00% | ~3 |
 | Mermaid Challenge | 3.00% | ~3 |
+| Giantess Challenge | 3.00% | ~3 |
+| Warden Challenge | 3.00% | ~3 |
 | Rebellious | 2.00% | ~2 |
 | Blade Mantis Challenge | 2.00% | ~2 |
 | Berserker Challenge | 2.00% | ~2 |
-| Giantess Challenge | 2.00% | ~2 |
-| Warden Challenge | 2.00% | ~2 |
 | Flying Kobold Challenge | 1.00% | ~1 |
 | Furious Scorpion Challenge | 1.00% | ~1 |
 | Giant Lizard Challenge | 1.00% | ~1 |

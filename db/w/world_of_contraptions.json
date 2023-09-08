@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1096,6 +1096,11 @@
       "Time": "2023-09-07T17:06:47.625629+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T00:07:31.5936698+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1339,21 +1344,21 @@
       "Name": "Starting to take notes",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-09-07T23:07:23.3318176+00:00",
+  "LastChanged_Achievements": "2023-09-08T00:07:31.5936692+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:26.8351079+00:00",
-  "LastUpdate_Ratings": "2023-09-07T23:01:57.0653452+00:00",
-  "LastUpdate_Achievements": "2023-09-07T23:07:23.3318465+00:00"
+  "LastUpdate_Ratings": "2023-09-08T00:01:23.9761018+00:00",
+  "LastUpdate_Achievements": "2023-09-08T00:07:31.5936984+00:00"
 }

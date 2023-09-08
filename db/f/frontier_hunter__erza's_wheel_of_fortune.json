@@ -772,17 +772,17 @@
       "ID": "ACHIEVEMENT_45",
       "SetID": "7pimpda",
       "Name": "Giantess Challenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_46",
       "SetID": "7pimpda",
       "Name": "Warden Challenge",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -837,8 +837,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-09-07T23:12:05.3229628+00:00",
+  "LastChanged_Achievements": "2023-09-08T00:12:06.0936148+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:25.0723404+00:00",
-  "LastUpdate_Ratings": "2023-09-07T23:05:27.8800346+00:00",
-  "LastUpdate_Achievements": "2023-09-07T23:12:05.3230081+00:00"
+  "LastUpdate_Ratings": "2023-09-08T00:05:28.5474875+00:00",
+  "LastUpdate_Achievements": "2023-09-08T00:12:06.093657+00:00"
 }
