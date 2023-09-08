@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3638,9 +3638,9 @@
       "Count": 385
     }
   ],
-  "EOS_Progressed": 11201,
+  "EOS_Progressed": 11202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11943,6 +11943,11 @@
       "Time": "2023-09-08T05:05:59.6965278+00:00",
       "NumProgressed": 11201,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T07:06:21.7315757+00:00",
+      "NumProgressed": 11202,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12866,7 +12871,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -12874,28 +12879,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 9983,
+      "Progressed": 9984,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11201,
+      "Progressed": 11202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-06T21:59:37.2027342+00:00",
-  "LastChanged_Achievements": "2023-09-08T06:05:31.1789067+00:00",
+  "LastChanged_Achievements": "2023-09-08T07:06:21.7315751+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:51.1803019+00:00",
-  "LastUpdate_Ratings": "2023-09-08T06:00:33.9636797+00:00",
-  "LastUpdate_Achievements": "2023-09-08T06:05:31.1792117+00:00"
+  "LastUpdate_Ratings": "2023-09-08T07:00:59.0879291+00:00",
+  "LastUpdate_Achievements": "2023-09-08T07:06:21.731814+00:00"
 }

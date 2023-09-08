@@ -10,9 +10,9 @@
 | Prisoner | 24.00% | ~69 |
 | Adventurer | 21.00% | ~60 |
 | First Commander | 20.00% | ~57 |
-| Second Commander | 18.00% | ~51 |
+| Second Commander | 18.00% | ~52 |
 | Third Commander | 15.00% | ~43 |
-| Pacifist | 11.00% | ~31 |
+| Pacifist | 11.00% | ~32 |
 | Janken The Great | 10.00% | ~29 |
 | Overwhelmed Beast | 9.00% | ~26 |
 | Radaxian Protector | 4.00% | ~11 |
@@ -21,8 +21,8 @@
 | Collector | 1.00% | ~3 |
 | Champion | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 286 (Ranked 281)  
-Completed: 4 (1.40%) (Ranked 111)  
+Progressed: 287 (Ranked 281)  
+Completed: 4 (1.39%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 4 (1.40%) (Ranked 111)
 | 2023-09-04 | 282 | 4 |
 | 2023-09-06 | 283 | 4 |
 | 2023-09-07 | 286 | 4 |
+| 2023-09-08 | 287 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.4,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -331,6 +331,11 @@
       "Time": "2023-09-07T23:10:05.9124032+00:00",
       "NumProgressed": 286,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-08T07:08:34.9963533+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -374,7 +379,7 @@
       "Name": "Second Commander",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "EGLE_FREED",
@@ -422,7 +427,7 @@
       "Name": "Pacifist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "NO_PURCHASES",
@@ -469,7 +474,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 4
     }
   ],
@@ -477,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-08T06:07:39.0330477+00:00",
+  "LastChanged_Achievements": "2023-09-08T07:08:34.9963526+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:28.0660367+00:00",
-  "LastUpdate_Ratings": "2023-09-08T06:00:09.0168849+00:00",
-  "LastUpdate_Achievements": "2023-09-08T06:07:39.0330718+00:00"
+  "LastUpdate_Ratings": "2023-09-08T07:00:28.3219504+00:00",
+  "LastUpdate_Achievements": "2023-09-08T07:08:34.9963689+00:00"
 }

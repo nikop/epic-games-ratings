@@ -6,48 +6,48 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 0.10% | ~713 |
-| The Assault | 0.10% | ~713 |
-| The Hateful Pole Fighter | 0.10% | ~713 |
-| A Lady's Blood in the Snow | 0.10% | ~713 |
-| Lady Wing Chun | 0.10% | ~713 |
-| Furious Fists | 0.10% | ~713 |
-| Muk Yan Master | 0.10% | ~713 |
-| Tiger on Fire | 0.10% | ~713 |
-| Source of Flying Daggers | 0.10% | ~713 |
-| Iron Money | 0.10% | ~713 |
-| Legendary Talismans of Wuxing | 0.10% | ~713 |
-| Scareless | 0.10% | ~713 |
-| Prodigal Child | 0.10% | ~713 |
-| Kill Nil | 0.10% | ~713 |
-| Detective Story | 0.10% | ~713 |
-| Drunken Fighter | 0.10% | ~713 |
-| Martial Artist | 0.10% | ~713 |
-| Knowledge Greed | 0.10% | ~713 |
-| Healing Memory | 0.10% | ~713 |
-| Stuntmaster | 0.10% | ~713 |
-| Dance of the Praying Mantis | 0.10% | ~713 |
-| Street Fighting | 0.10% | ~713 |
-| Life is your teacher | 0.10% | ~713 |
-| State of constant learning | 0.10% | ~713 |
-| Qi Gong: Mind | 0.10% | ~713 |
-| Qi Gong: Breath | 0.10% | ~713 |
-| Qi Gong: Essence | 0.10% | ~713 |
-| The 36th Chamber of Kung-Fu | 0.10% | ~713 |
-| Master of the Phoenix Eye Fist | 0.10% | ~713 |
-| I know Kung-Fu | 0.10% | ~713 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~713 |
-| Old Child | 0.10% | ~713 |
-| Sword Stained With Blood | 0.10% | ~713 |
-| Lightning Hands | 0.10% | ~713 |
-| Kung-Fu Tussle | 0.10% | ~713 |
-| Path of the Prospect | 0.10% | ~713 |
-| Rumble in the Hangar | 0.10% | ~713 |
-| The Pit Protector | 0.10% | ~713 |
-| Be like water my friend | 0.10% | ~713 |
-| Take damage to save time | 0.10% | ~713 |
-| Warriors from the Mountain | 0.10% | ~713 |
-| Come Snap With Me | 0.10% | ~713 |
+| The Old Grandmaster | 0.10% | ~714 |
+| The Assault | 0.10% | ~714 |
+| The Hateful Pole Fighter | 0.10% | ~714 |
+| A Lady's Blood in the Snow | 0.10% | ~714 |
+| Lady Wing Chun | 0.10% | ~714 |
+| Furious Fists | 0.10% | ~714 |
+| Muk Yan Master | 0.10% | ~714 |
+| Tiger on Fire | 0.10% | ~714 |
+| Source of Flying Daggers | 0.10% | ~714 |
+| Iron Money | 0.10% | ~714 |
+| Legendary Talismans of Wuxing | 0.10% | ~714 |
+| Scareless | 0.10% | ~714 |
+| Prodigal Child | 0.10% | ~714 |
+| Kill Nil | 0.10% | ~714 |
+| Detective Story | 0.10% | ~714 |
+| Drunken Fighter | 0.10% | ~714 |
+| Martial Artist | 0.10% | ~714 |
+| Knowledge Greed | 0.10% | ~714 |
+| Healing Memory | 0.10% | ~714 |
+| Stuntmaster | 0.10% | ~714 |
+| Dance of the Praying Mantis | 0.10% | ~714 |
+| Street Fighting | 0.10% | ~714 |
+| Life is your teacher | 0.10% | ~714 |
+| State of constant learning | 0.10% | ~714 |
+| Qi Gong: Mind | 0.10% | ~714 |
+| Qi Gong: Breath | 0.10% | ~714 |
+| Qi Gong: Essence | 0.10% | ~714 |
+| The 36th Chamber of Kung-Fu | 0.10% | ~714 |
+| Master of the Phoenix Eye Fist | 0.10% | ~714 |
+| I know Kung-Fu | 0.10% | ~714 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~714 |
+| Old Child | 0.10% | ~714 |
+| Sword Stained With Blood | 0.10% | ~714 |
+| Lightning Hands | 0.10% | ~714 |
+| Kung-Fu Tussle | 0.10% | ~714 |
+| Path of the Prospect | 0.10% | ~714 |
+| Rumble in the Hangar | 0.10% | ~714 |
+| The Pit Protector | 0.10% | ~714 |
+| Be like water my friend | 0.10% | ~714 |
+| Take damage to save time | 0.10% | ~714 |
+| Warriors from the Mountain | 0.10% | ~714 |
+| Come Snap With Me | 0.10% | ~714 |
 | Project Arena | 0.10% | ~23 |
 | Diligence as a goal | 0.10% | ~23 |
 | Bloody Sport | 0.10% | ~23 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.10% | ~23 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,493 (Ranked 20)  
+Progressed: 713,503 (Ranked 20)  
 Completed: 12,887 (1.81%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,7 +208,7 @@ Completed: 12,887 (1.81%) (Ranked 99)
 | 2023-09-05 | 713,012 | 12,885 |
 | 2023-09-06 | 713,188 | 12,886 |
 | 2023-09-07 | 713,425 | 12,887 |
-| 2023-09-08 | 713,493 | 12,887 |
+| 2023-09-08 | 713,503 | 12,887 |
 ## Awards
 Max (Great Boss Battles): 6,446  (Ranked 53)  
 Sum: 11,097 (Ranked 80)  

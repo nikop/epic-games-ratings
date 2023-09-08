@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.89,
+  "EOS_Completed_Percentage": 16.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2458,6 +2458,11 @@
       "Time": "2023-09-08T06:05:06.051274+00:00",
       "NumProgressed": 527,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-09-08T07:05:56.0571311+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 22,
@@ -2469,7 +2474,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "LEVEL_002",
@@ -2477,7 +2482,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "LEVEL_003",
@@ -2493,7 +2498,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "LEVEL_005",
@@ -2501,7 +2506,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "LEVEL_006",
@@ -2581,7 +2586,7 @@
       "Name": "Monumental tribute",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "LEVEL_016",
@@ -2627,24 +2632,24 @@
       "ID": "LEVEL_021",
       "SetID": "3khpmem",
       "Name": "Happy Christmas night!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 89
     }
   ],
@@ -2652,8 +2657,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-08T06:05:06.0512735+00:00",
+  "LastChanged_Achievements": "2023-09-08T07:05:56.0571305+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:24.6257817+00:00",
-  "LastUpdate_Ratings": "2023-09-08T06:00:04.1289322+00:00",
-  "LastUpdate_Achievements": "2023-09-08T06:05:06.0513072+00:00"
+  "LastUpdate_Ratings": "2023-09-08T07:00:24.9975901+00:00",
+  "LastUpdate_Achievements": "2023-09-08T07:05:56.0571727+00:00"
 }

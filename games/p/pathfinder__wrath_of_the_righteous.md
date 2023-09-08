@@ -32,8 +32,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 3.00% | ~336 |
 | Core of the Riddle | 3.00% | ~336 |
 | Hey, I Know You! | 3.00% | ~336 |
-| The Lady of the Forest | 3.00% | ~299 |
-| Beware Still Water | 3.00% | ~299 |
+| The Lady of the Forest | 3.00% | ~300 |
+| Beware Still Water | 3.00% | ~300 |
 | Path of the Demon | 2.00% | ~224 |
 | Path of the Aeon | 2.00% | ~224 |
 | Path of the Lich | 2.00% | ~224 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,201 (Ranked 124)  
+Progressed: 11,202 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-05 | 11,185 | 0 |
 | 2023-09-06 | 11,191 | 0 |
 | 2023-09-07 | 11,199 | 0 |
-| 2023-09-08 | 11,201 | 0 |
+| 2023-09-08 | 11,202 | 0 |
 ## Awards
 Max (Character Customization): 1,707  (Ranked 118)  
 Sum: 6,923 (Ranked 113)  

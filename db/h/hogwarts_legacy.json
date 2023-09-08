@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 21,
+  "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7344,9 +7344,9 @@
       "Count": 622
     }
   ],
-  "EOS_Progressed": 295829,
+  "EOS_Progressed": 295832,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 4517,
+  "EOS_NewPlayers": 4508,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22554,6 +22554,11 @@
       "Time": "2023-09-08T06:07:27.2126161+00:00",
       "NumProgressed": 295829,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2023-09-08T07:08:21.9236061+00:00",
+      "NumProgressed": 295832,
+      "NumCompleted": 468
     }
   ],
   "TotalAchievements": 45,
@@ -22605,7 +22610,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14791
+      "UsersEstimate": 14792
     },
     {
       "ID": "PFA_15",
@@ -22685,7 +22690,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32541
+      "UsersEstimate": 32542
     },
     {
       "ID": "PFA_24",
@@ -22701,7 +22706,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14791
+      "UsersEstimate": 14792
     },
     {
       "ID": "PFA_26",
@@ -22733,7 +22738,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14791
+      "UsersEstimate": 14792
     },
     {
       "ID": "PFA_3",
@@ -22853,7 +22858,7 @@
       "Name": "Raising Expectations",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14791
+      "UsersEstimate": 14792
     },
     {
       "ID": "PFA_43",
@@ -22869,7 +22874,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23666
+      "UsersEstimate": 23667
     },
     {
       "ID": "PFA_45",
@@ -22901,7 +22906,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35499
+      "UsersEstimate": 35500
     },
     {
       "ID": "PFA_8",
@@ -22909,7 +22914,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32541
+      "UsersEstimate": 32542
     },
     {
       "ID": "PFA_9",
@@ -22917,14 +22922,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23666
+      "UsersEstimate": 23667
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 295829,
+      "Progressed": 295832,
       "Completed": 468
     }
   ],
@@ -22932,8 +22937,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-08T03:59:56.3989911+00:00",
-  "LastChanged_Achievements": "2023-09-08T06:07:27.2126156+00:00",
+  "LastChanged_Achievements": "2023-09-08T07:08:21.9236054+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:20.53562+00:00",
-  "LastUpdate_Ratings": "2023-09-08T05:59:12.7856098+00:00",
-  "LastUpdate_Achievements": "2023-09-08T06:07:27.2127569+00:00"
+  "LastUpdate_Ratings": "2023-09-08T06:59:32.2675497+00:00",
+  "LastUpdate_Achievements": "2023-09-08T07:08:21.9237779+00:00"
 }

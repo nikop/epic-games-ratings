@@ -255,9 +255,9 @@
       "ID": "ach_05_northStation",
       "SetID": "16n29hg",
       "Name": "Dominate North Station",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_06_spikeDeath",
@@ -383,9 +383,9 @@
       "ID": "ach_21_litStation",
       "SetID": "16n29hg",
       "Name": "Sun is Rising",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_22_eye4Eye",
@@ -431,9 +431,9 @@
       "ID": "ach_28_scarvenger30",
       "SetID": "16n29hg",
       "Name": "Supreme Scavenger",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_29_scarvenger50",
@@ -662,8 +662,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2023-09-08T06:06:11.0103566+00:00",
+  "LastChanged_Achievements": "2023-09-08T07:07:03.7926737+00:00",
   "LastUpdate_AppInfo": "2023-09-06T11:58:18.4081473+00:00",
-  "LastUpdate_Ratings": "2023-09-08T05:58:28.4419924+00:00",
-  "LastUpdate_Achievements": "2023-09-08T06:06:11.0104303+00:00"
+  "LastUpdate_Ratings": "2023-09-08T06:58:42.7293031+00:00",
+  "LastUpdate_Achievements": "2023-09-08T07:07:03.7927293+00:00"
 }
