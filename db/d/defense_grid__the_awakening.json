@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
     "PcReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1797,7 +1797,7 @@
   ],
   "EOS_Progressed": 485650,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16931,9 +16931,9 @@
       "ID": "FULLHOUSE",
       "SetID": "bko38ff",
       "Name": "Full House",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 2428
     },
     {
       "ID": "FULLPOTENTIAL",
@@ -17403,8 +17403,8 @@
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-09-08T16:59:22.9958257+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:03:50.2064407+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:03:37.5436979+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:57.9385629+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:00:04.5672069+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:03:50.2065844+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:59:32.9116034+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:03:37.5438944+00:00"
 }

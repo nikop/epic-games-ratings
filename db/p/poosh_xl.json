@@ -4,8 +4,8 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -837,9 +837,9 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Terrible Start",
@@ -859,8 +859,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:04:36.6337825+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:04:15.7640168+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:04.3393366+00:00",
-  "LastUpdate_Ratings": "2023-09-08T21:59:17.9818295+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:04:36.6337964+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:58:50.2311811+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:04:15.7640361+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "8d3ci0",
       "Name": "Ducks adrift",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1056,9 +1056,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "8d3ci0",
       "Name": "Floatpiercer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 150,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -1120,9 +1120,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
@@ -1135,8 +1135,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:08:15.9845419+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:07:10.8176895+00:00",
   "LastUpdate_AppInfo": "2023-09-02T16:57:14.7085135+00:00",
-  "LastUpdate_Ratings": "2023-09-08T21:58:26.3786937+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:08:15.9845562+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:58:09.9498481+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:07:10.8177092+00:00"
 }

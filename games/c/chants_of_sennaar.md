@@ -10,20 +10,20 @@
 | The great escape | 26.00% | ~25 |
 | A new dawn | 18.00% | ~18 |
 | A good beginning | 15.00% | ~15 |
+| Champollion | 15.00% | ~15 |
 | Scholar | 15.00% | ~15 |
 | The darkness | 15.00% | ~15 |
 | One last step | 15.00% | ~15 |
 | Cable guy | 14.00% | ~14 |
 | True G4M3R | 14.00% | ~14 |
-| Champollion | 14.00% | ~14 |
 | Rascal | 13.00% | ~13 |
+| In this together | 11.00% | ~11 |
 | Feels like springtime | 11.00% | ~11 |
-| In this together | 10.00% | ~10 |
+| Peace walker | 10.00% | ~10 |
 | Half the way | 10.00% | ~10 |
 | Open door | 10.00% | ~10 |
 | Fashion victim | 10.00% | ~10 |
 | I did it | 9.00% | ~9 |
-| Peace walker | 9.00% | ~9 |
 | Free at last | 8.00% | ~8 |
 | A Link to the Past | 8.00% | ~8 |
 | Alchemists Express | 8.00% | ~8 |

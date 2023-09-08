@@ -18,7 +18,7 @@
 | Overwhelming Power | 56.00% | ~101 |
 | Supreme Power | 45.00% | ~81 |
 | Chomp Chomp! | 45.00% | ~81 |
-| The Duelist | 42.00% | ~76 |
+| The Duelist | 43.00% | ~77 |
 | Diaper Time! | 42.00% | ~76 |
 | Target Practice | 42.00% | ~76 |
 | Glorious Battle | 41.00% | ~74 |
@@ -58,7 +58,7 @@
 | Hearty Meteor | 1.00% | ~2 |
 | Destroy Everything | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 312)  
+Progressed: 180 (Ranked 313)  
 Completed: 1 (0.56%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |

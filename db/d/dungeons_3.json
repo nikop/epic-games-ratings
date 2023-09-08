@@ -2584,9 +2584,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 29842,
+  "EOS_Progressed": 29843,
   "EOS_Completed": 244,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -17949,6 +17949,11 @@
       "Time": "2023-09-08T22:03:42.4635063+00:00",
       "NumProgressed": 29842,
       "NumCompleted": 244
+    },
+    {
+      "Time": "2023-09-08T23:03:30.8673396+00:00",
+      "NumProgressed": 29843,
+      "NumCompleted": 244
     }
   ],
   "TotalAchievements": 60,
@@ -17960,7 +17965,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17308
+      "UsersEstimate": 17309
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -17968,7 +17973,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13727
+      "UsersEstimate": 13728
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -17976,7 +17981,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17010
+      "UsersEstimate": 17011
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -18024,7 +18029,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7460
+      "UsersEstimate": 7461
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -18048,7 +18053,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10146
+      "UsersEstimate": 10147
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -18192,7 +18197,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 12235
+      "UsersEstimate": 12236
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -18200,7 +18205,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8057
+      "UsersEstimate": 8058
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -18360,7 +18365,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20591
+      "UsersEstimate": 20592
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -18384,7 +18389,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 5968
+      "UsersEstimate": 5969
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -18439,15 +18444,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 29842,
+      "Progressed": 29843,
       "Completed": 244
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-04T19:00:53.7599775+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:03:42.463506+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:03:30.8673391+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.3357461+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:01:14.7214482+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:03:42.4636216+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:00:34.7472384+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:03:30.8674855+00:00"
 }

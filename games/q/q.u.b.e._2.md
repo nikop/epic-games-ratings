@@ -17,8 +17,8 @@ Number of Ratings: 94  (23.09.2022)
 | There's No Place Like Home | 15.00% | ~34 |
 | Descendants | 12.00% | ~27 |
 | The Flawed Teacher | 11.00% | ~25 |
+| Infinity Loop | 11.00% | ~25 |
 | Path to Salvation | 11.00% | ~25 |
-| Infinity Loop | 10.00% | ~23 |
 | To Infinity and Beyond | 6.00% | ~14 |
 | The Truthful Enemy | 5.00% | ~11 |
 | True collector | 0.40% | ~1 |

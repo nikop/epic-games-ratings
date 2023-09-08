@@ -173,6 +173,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.20% | ~28 |
 | Great Difficulty | 0.20% | ~28 |
 | Magnificent Difficulty | 0.20% | ~28 |
+| Five Routs | 0.20% | ~28 |
 | Nenikekamen | 0.20% | ~28 |
 | A Good Start | 0.20% | ~28 |
 | Tell the Spartans | 0.20% | ~28 |
@@ -215,7 +216,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.10% | ~14 |
 | Et tu Brutus? | 0.10% | ~14 |
 | Battle of the Fertile Crescent | 0.10% | ~14 |
-| Five Routs | 0.10% | ~14 |
 | Game of the Week | 0.10% | ~14 |
 | Defend Where? | 0.10% | ~14 |
 | Get the Hellas Out | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,820 (Ranked 121)  
+Progressed: 13,821 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -444,7 +444,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-05 | 13,790 | 5 |
 | 2023-09-06 | 13,796 | 5 |
 | 2023-09-07 | 13,810 | 5 |
-| 2023-09-08 | 13,820 | 5 |
+| 2023-09-08 | 13,821 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,804 (Ranked 207)  

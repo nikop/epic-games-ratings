@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 228,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -1244,9 +1244,9 @@
       "ID": "ACH_EXSITE",
       "SetID": "232494e",
       "Name": "Infinity Loop",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_HUB1",
@@ -1348,8 +1348,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:05:15.8520937+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:04:48.3859491+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-08T21:58:51.9620626+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:05:15.8521146+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:58:29.5625879+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:04:48.3859738+00:00"
 }

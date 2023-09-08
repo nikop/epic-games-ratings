@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4344,10 +4344,10 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 675950,
-  "EOS_Completed": 2121,
-  "EOS_NewPlayers": 4865,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 675980,
+  "EOS_Completed": 2122,
+  "EOS_NewPlayers": 4872,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -20154,6 +20154,11 @@
       "Time": "2023-09-08T22:07:02.337559+00:00",
       "NumProgressed": 675950,
       "NumCompleted": 2121
+    },
+    {
+      "Time": "2023-09-08T23:06:16.8904782+00:00",
+      "NumProgressed": 675980,
+      "NumCompleted": 2122
     }
   ],
   "TotalAchievements": 45,
@@ -20291,9 +20296,9 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6084
+      "UsersEstimate": 6760
     },
     {
       "ID": "ach_good_eyesight",
@@ -20524,22 +20529,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 675950,
-      "Completed": 2121
+      "Progressed": 675980,
+      "Completed": 2122
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 1490,
-      "Completed": 1490
+      "Progressed": 1520,
+      "Completed": 1520
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-08T22:00:10.3493692+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:07:02.3375584+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:06:16.8904777+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:00:10.3493696+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:07:02.3376799+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:59:38.8994328+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:06:16.8906081+00:00"
 }

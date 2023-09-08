@@ -13,8 +13,8 @@ Number of Ratings: 36  (23.09.2022)
 | Post No Bills | 55.00% | ~487 |
 | Truly Shocking! | 49.00% | ~434 |
 | Critical Thinker | 36.00% | ~319 |
+| Always Finding Your Mark | 30.00% | ~266 |
 | Act I Complete | 29.00% | ~257 |
-| Always Finding Your Mark | 29.00% | ~257 |
 | A drop in the Ocean | 29.00% | ~257 |
 | The Weight of the World | 29.00% | ~257 |
 | No Niños | 27.00% | ~239 |

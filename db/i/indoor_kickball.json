@@ -4,8 +4,8 @@
   "ProductSlug": "indoor-kickball-843529",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
     "PcReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -468,9 +468,9 @@
       "ID": "15",
       "SetID": "39djiaj",
       "Name": "Grand Slam!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "16",
@@ -716,9 +716,9 @@
       "ID": "7",
       "SetID": "39djiaj",
       "Name": "At least everyone still had fun",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "8",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-05-27T21:59:02.7354993+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:04:31.7285291+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:04:11.6417267+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:05.7945587+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:01:06.913479+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:04:31.7285552+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:00:27.8753554+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:04:11.6417607+00:00"
 }

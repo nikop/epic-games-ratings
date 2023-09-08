@@ -19,9 +19,9 @@
 | Kick It | 32.00% | ~28 |
 | Spooky | 30.00% | ~26 |
 | Classroom Secret Spot | 27.00% | ~24 |
-| Grand Slam! | 25.00% | ~22 |
+| Grand Slam! | 26.00% | ~23 |
 | Save some water for the fishies | 25.00% | ~22 |
-| At least everyone still had fun | 24.00% | ~21 |
+| At least everyone still had fun | 25.00% | ~22 |
 | Bathroom Secret Spot | 23.00% | ~20 |
 | Angry Dad | 23.00% | ~20 |
 | Have Mercy | 22.00% | ~19 |

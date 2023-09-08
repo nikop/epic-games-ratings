@@ -4,11 +4,11 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 940,
   "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 462,
+  "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -254,12 +254,18 @@
       "Rating": 4,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2023-09-08T22:59:12.0182913+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
+  "NumberOfAwards": 42,
   "NumberOfAwardsMax": 21,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -271,7 +277,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 1915,
@@ -6081,9 +6087,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2023-09-08T18:00:36.5525553+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:05:16.5911082+00:00",
+  "LastChanged": "2023-09-08T22:59:12.0182911+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:04:49.0769359+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-08T21:59:42.7376203+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:05:16.5911921+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:59:12.0182919+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:04:49.0770439+00:00"
 }

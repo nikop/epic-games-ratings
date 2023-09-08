@@ -24,7 +24,7 @@ Number of Ratings: 53  (23.09.2022)
 | Collectionitis | 28.00% | ~243 |
 | Groundskeeper | 26.00% | ~226 |
 | Wholesale | 22.00% | ~191 |
-| Walk the plank | 20.00% | ~174 |
+| Walk the plank | 21.00% | ~182 |
 | Pearly gates | 17.00% | ~148 |
 | My precious! | 17.00% | ~148 |
 | Conquistador | 13.00% | ~113 |

@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3158,
+  "EOS_Progressed": 3159,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 5.38,
   "EosHistory": [
@@ -4570,6 +4570,11 @@
       "Time": "2023-09-08T15:06:01.5790903+00:00",
       "NumProgressed": 3158,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-08T23:05:57.4743474+00:00",
+      "NumProgressed": 3159,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 24,
@@ -4733,7 +4738,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "6",
@@ -4741,7 +4746,7 @@
       "Name": "PRO",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "7",
@@ -4749,7 +4754,7 @@
       "Name": "MASTER",
       "Percentage": 18,
       "XP": 65,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "8",
@@ -4772,13 +4777,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3158,
+      "Progressed": 3159,
       "Completed": 170
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:06:38.8816371+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:05:57.4743469+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:39.8316539+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:00:44.5921502+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:06:38.8816879+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:00:09.1871829+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:05:57.4743901+00:00"
 }

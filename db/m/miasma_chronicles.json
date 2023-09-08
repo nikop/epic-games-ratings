@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1393,
+  "EOS_Progressed": 1394,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2956,6 +2956,11 @@
       "Time": "2023-09-08T20:06:08.2368034+00:00",
       "NumProgressed": 1393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T23:05:07.8750766+00:00",
+      "NumProgressed": 1394,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -2983,7 +2988,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3007,7 +3012,7 @@
       "Name": "Bot Whisperer",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "CHAIN_KILLER",
@@ -3015,7 +3020,7 @@
       "Name": "Chain Killer",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "CHAIN_REACTION",
@@ -3063,7 +3068,7 @@
       "Name": "Curveball",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "DEAD_DD",
@@ -3101,9 +3106,9 @@
       "ID": "DR_JONES",
       "SetID": "9a4jnji",
       "Name": "Dr Jones",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 223
     },
     {
       "ID": "EDITOR_ADEPT",
@@ -3173,9 +3178,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 655
     },
     {
       "ID": "GIANT_KILLER",
@@ -3199,7 +3204,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3231,7 +3236,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3279,7 +3284,7 @@
       "Name": "Recycler",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "RUTHLESS",
@@ -3335,7 +3340,7 @@
       "Name": "Technophobe",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -3351,7 +3356,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "THE_WATCHERS",
@@ -3359,7 +3364,7 @@
       "Name": "The Watchers",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "WIPE_OUT",
@@ -3374,7 +3379,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1393,
+      "Progressed": 1394,
       "Completed": 0
     }
   ],
@@ -3382,8 +3387,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:05:39.170805+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:05:07.875076+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:54.3073965+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:00:01.8415787+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:05:39.1708516+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:59:30.8213949+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:05:07.8751362+00:00"
 }

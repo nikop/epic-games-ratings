@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1677,9 +1677,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13820,
+  "EOS_Progressed": 13821,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11147,6 +11147,11 @@
       "Time": "2023-09-08T20:06:47.740996+00:00",
       "NumProgressed": 13820,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T23:05:39.3496052+00:00",
+      "NumProgressed": 13821,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12100,9 +12105,9 @@
       "ID": "ACHIEVEMENT_FIVE_ROUTS",
       "SetID": "9201eeb",
       "Name": "Five Routs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_GOTW",
@@ -13525,21 +13530,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13820,
+      "Progressed": 13821,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13820,
+      "Progressed": 13821,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-05T13:03:36.9380214+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:06:16.4340882+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:05:39.3496046+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:29.3167237+00:00",
-  "LastUpdate_Ratings": "2023-09-08T21:59:42.115397+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:06:16.4348195+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:59:11.4959466+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:05:39.3504404+00:00"
 }

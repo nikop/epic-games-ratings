@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1393,
+  "EOS_Progressed": 1394,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1461,6 +1461,11 @@
       "Time": "2023-09-08T13:09:59.5085075+00:00",
       "NumProgressed": 1393,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T23:05:43.0187968+00:00",
+      "NumProgressed": 1394,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1488,7 +1493,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1624,7 +1629,7 @@
       "Name": "Plague Doctor",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_loseBattle",
@@ -1648,7 +1653,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "achievement_mythwalker",
@@ -1662,9 +1667,9 @@
       "ID": "achievement_rivalStuntAbility5Times",
       "SetID": "95dc8p",
       "Name": "Cutthroat Competitors",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 418
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1680,7 +1685,7 @@
       "Name": "Chain Reaction",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -1704,7 +1709,7 @@
       "Name": "Everfading",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "completedStory_enduringWar",
@@ -1720,7 +1725,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "completedStory_monarchs",
@@ -1919,15 +1924,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1393,
+      "Progressed": 1394,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-09-08T22:06:20.7709762+00:00",
+  "LastChanged_Achievements": "2023-09-08T23:05:43.0187963+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:10.2902661+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:02:15.5871226+00:00",
-  "LastUpdate_Achievements": "2023-09-08T22:06:20.7710194+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:02:22.7840907+00:00",
+  "LastUpdate_Achievements": "2023-09-08T23:05:43.0188558+00:00"
 }
