@@ -11,6 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.50% | ~1,140 |
 | The Mad Wizard | 0.40% | ~912 |
 | The Ring of Regeneration | 0.30% | ~684 |
+| Seeking Allies | 0.30% | ~684 |
 | Maddening | 0.20% | ~456 |
 | The Silken Swamp | 0.20% | ~456 |
 | Were-verpowered | 0.20% | ~456 |
@@ -21,7 +22,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.20% | ~456 |
 | Unearthed Evil | 0.20% | ~456 |
 | The Crumbling Temple | 0.20% | ~456 |
-| Seeking Allies | 0.20% | ~456 |
 | Are Ya Chicken? | 0.20% | ~456 |
 | Useless Allies | 0.20% | ~456 |
 | Mad Cow Disease | 0.20% | ~456 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,908 (Ranked 54)  
-Completed: 2,260 (0.99%) (Ranked 123)  
+Progressed: 227,916 (Ranked 54)  
+Completed: 2,260 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -668,7 +668,7 @@ Completed: 2,260 (0.99%) (Ranked 123)
 | 2023-09-05 | 227,381 | 2,254 |
 | 2023-09-06 | 227,606 | 2,257 |
 | 2023-09-07 | 227,831 | 2,259 |
-| 2023-09-08 | 227,908 | 2,260 |
+| 2023-09-08 | 227,916 | 2,260 |
 ## Awards
 Max (Diverse Characters): 5,238  (Ranked 67)  
 Sum: 31,449 (Ranked 38)  

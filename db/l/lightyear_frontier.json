@@ -2,9 +2,9 @@
   "ID": "5ca77cfd52304cddabca6d44009a28ff",
   "Name": "Lightyear Frontier",
   "ProductSlug": "lightyear-frontier-8a9f37",
-  "Ranking_EOS_Progress": 583,
-  "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_Progress": 584,
+  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-02T09:58:14.022635+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:04:04.1882158+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:08:54.4102481+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:59:44.5881228+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:04:46.7948419+00:00"
 }

@@ -18,15 +18,15 @@ Number of Ratings: 28  (23.09.2022)
 | Europe | 31.00% | ~141 |
 | It's no coincidence. | 30.00% | ~137 |
 | Madness! | 29.00% | ~132 |
+| Let's roll! | 27.00% | ~123 |
 | Philatelist | 26.00% | ~119 |
-| Let's roll! | 26.00% | ~119 |
 | Ouroboros | 25.00% | ~114 |
 | Non Stop! | 24.00% | ~109 |
 | Foreman | 22.00% | ~100 |
 | Russia | 19.00% | ~87 |
 | Missed it! | 19.00% | ~87 |
 | America | 17.00% | ~78 |
-| Sabotage | 16.00% | ~73 |
+| Sabotage | 17.00% | ~78 |
 | Woodcutter | 11.00% | ~50 |
 | Engineer | 11.00% | ~50 |
 | Achtung! | 11.00% | ~50 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 456 (Ranked 246)  
-Completed: 2 (0.44%) (Ranked 160)  
+Completed: 2 (0.44%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 54,
-  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -6442,10 +6442,10 @@
       "Count": 3400
     }
   ],
-  "EOS_Progressed": 227908,
+  "EOS_Progressed": 227916,
   "EOS_Completed": 2260,
   "EOS_NewPlayers": 1437,
-  "EOS_NewCompleters": 21,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -22007,6 +22007,11 @@
       "Time": "2023-09-08T13:10:51.6342542+00:00",
       "NumProgressed": 227908,
       "NumCompleted": 2260
+    },
+    {
+      "Time": "2023-09-08T14:06:53.8270805+00:00",
+      "NumProgressed": 227916,
+      "NumCompleted": 2260
     }
   ],
   "TotalAchievements": 520,
@@ -23808,9 +23813,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 684
     },
     {
       "ID": "objective_completed_390",
@@ -26177,21 +26182,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194182,
+      "Progressed": 194190,
       "Completed": 3409
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 227908,
+      "Progressed": 227916,
       "Completed": 2260
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-08T03:04:01.3503502+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:10:51.6342537+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:06:53.8270801+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:03:24.8301784+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:10:51.6374935+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:59:08.3422469+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:06:53.8295176+00:00"
 }

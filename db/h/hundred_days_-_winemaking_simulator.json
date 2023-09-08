@@ -6,7 +6,7 @@
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
@@ -970,9 +970,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1855,
+  "EOS_Progressed": 1867,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1307,
+  "EOS_NewPlayers": 1308,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2060,6 +2060,11 @@
       "Time": "2023-09-08T13:08:14.0282491+00:00",
       "NumProgressed": 1855,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-08T14:04:03.4577073+00:00",
+      "NumProgressed": 1867,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2070,9 +2075,9 @@
       "ID": "a_1",
       "SetID": "daiie3o",
       "Name": "It\u0027s a good start",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 149
     },
     {
       "ID": "a_10",
@@ -2120,7 +2125,7 @@
       "Name": "Bye Bye",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 635
     },
     {
       "ID": "a_19",
@@ -2128,7 +2133,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "a_2",
@@ -2136,7 +2141,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "a_20",
@@ -2160,7 +2165,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "a_23",
@@ -2168,7 +2173,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "a_25",
@@ -2176,7 +2181,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "a_26",
@@ -2214,9 +2219,9 @@
       "ID": "a_30",
       "SetID": "daiie3o",
       "Name": "King of red wines",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "a_31",
@@ -2302,9 +2307,9 @@
       "ID": "a_8",
       "SetID": "daiie3o",
       "Name": "Famous",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 56
     },
     {
       "ID": "a_9",
@@ -2319,7 +2324,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1855,
+      "Progressed": 1867,
       "Completed": 3
     }
   ],
@@ -2327,8 +2332,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-07T15:00:06.6225416+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:08:14.0282486+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:04:03.4577066+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:03:08.6242744+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:08:14.0282821+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:58:50.5653053+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:04:03.4577298+00:00"
 }

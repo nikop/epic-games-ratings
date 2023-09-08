@@ -3,8 +3,8 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1262,
+  "EOS_Progressed": 1263,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4486,6 +4486,11 @@
       "Time": "2023-09-08T01:57:00.4698608+00:00",
       "NumProgressed": 1262,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-08T14:07:05.6471102+00:00",
+      "NumProgressed": 1263,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4497,7 +4502,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -4521,7 +4526,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -4569,7 +4574,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "objective_headquarters_10",
@@ -4585,7 +4590,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "objective_headquarters_20",
@@ -4617,7 +4622,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -4800,14 +4805,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1262,
+      "Progressed": 1263,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:11:18.4505048+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:07:05.6471097+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:01:59.9200217+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:11:18.4505624+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:57:41.6301657+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:07:05.6471577+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
-  "Ranking_EOS_Completed": 99,
+  "Ranking_EOS_Completed": 100,
   "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
@@ -6022,10 +6022,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11097,
       "NumberOfAwardsMax": 6446
+    },
+    {
+      "Time": "2023-09-08T14:00:17.2735845+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11101,
+      "NumberOfAwardsMax": 6446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11097,
+  "NumberOfAwards": 11101,
   "NumberOfAwardsMax": 6446,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6093,7 +6099,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 521
+      "Count": 525
     },
     {
       "Text": "This game has a Creative Community",
@@ -6102,9 +6108,9 @@
       "Count": 376
     }
   ],
-  "EOS_Progressed": 713570,
+  "EOS_Progressed": 713587,
   "EOS_Completed": 12887,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -18997,6 +19003,11 @@
       "Time": "2023-09-08T13:07:32.4812731+00:00",
       "NumProgressed": 713570,
       "NumCompleted": 12887
+    },
+    {
+      "Time": "2023-09-08T14:03:28.5382079+00:00",
+      "NumProgressed": 713587,
+      "NumCompleted": 12887
     }
   ],
   "TotalAchievements": 60,
@@ -19487,21 +19498,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 22871,
+      "Progressed": 22888,
       "Completed": 10595
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 713570,
+      "Progressed": 713587,
       "Completed": 12887
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-08T03:07:41.8638784+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:07:32.4812727+00:00",
+  "LastChanged": "2023-09-08T14:00:17.2735843+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:03:28.5382075+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:04:37.6566148+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:07:32.4814109+00:00"
+  "LastUpdate_Ratings": "2023-09-08T14:00:17.2735848+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:03:28.5383118+00:00"
 }

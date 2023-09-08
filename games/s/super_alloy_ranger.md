@@ -17,7 +17,7 @@
 | The Hidden Secret | 16.00% | ~10 |
 | Mr. Want It All | 16.00% | ~10 |
 | Phew! | 15.00% | ~9 |
-| Grand Escape | 11.00% | ~7 |
+| Grand Escape | 13.00% | ~8 |
 | Space Warrior: Prologue | 11.00% | ~7 |
 | The Abyss Conqueror | 10.00% | ~6 |
 | Keep it Up, rookie! | 8.00% | ~5 |
@@ -33,12 +33,12 @@
 | The Inactivated Frozen Conqueror | 5.00% | ~3 |
 | Death Bringer Conqueror | 5.00% | ~3 |
 | he Ultra Fortress Conqueror | 5.00% | ~3 |
+| Space Ranger: Prologue | 5.00% | ~3 |
 | Rapidfire | 5.00% | ~3 |
 | Hell of a Fight | 5.00% | ~3 |
 | The Sunken City Conqueror | 3.00% | ~2 |
 | The Looping Space Conqueror | 3.00% | ~2 |
 | Break Through the Forbidden | 3.00% | ~2 |
-| Space Ranger: Prologue | 3.00% | ~2 |
 | Breaking the Limit | 2.00% | ~1 |
 | Pumped Up | 2.00% | ~1 |
 | The Truth? | 2.00% | ~1 |
@@ -56,7 +56,7 @@
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 61 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 271)  
+Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

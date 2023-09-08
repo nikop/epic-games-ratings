@@ -19,7 +19,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 1.00% | ~1,358 |
 | Capitalism Ho! | 1.00% | ~1,358 |
 | Own the Means of Production | 1.00% | ~1,358 |
-| One-Armed Bandit | 0.90% | ~1,222 |
+| One-Armed Bandit | 0.90% | ~1,223 |
 | The Daily Grind | 0.80% | ~1,087 |
 | Bounty Hunters | 0.80% | ~1,087 |
 | Dungeon Imports | 0.80% | ~1,087 |
@@ -58,6 +58,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 0.40% | ~543 |
 | Flying off the Shelves | 0.40% | ~543 |
 | This Power Level...! | 0.40% | ~543 |
+| Omae wa Mou Shindeiru | 0.40% | ~543 |
 | Master of Transmutation | 0.40% | ~543 |
 | Hidden Potential | 0.40% | ~543 |
 | Supercharged | 0.40% | ~543 |
@@ -82,25 +83,24 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.40% | ~543 |
 | Exotic Commodities | 0.40% | ~543 |
 | Complete Monopoly | 0.40% | ~543 |
-| Top of the World | 0.30% | ~407 |
-| Constellated | 0.30% | ~407 |
-| Thirst for Knowledge | 0.30% | ~407 |
-| Booty by the Boatload | 0.30% | ~407 |
-| Archivist | 0.30% | ~407 |
-| Fillin' the Bin | 0.30% | ~407 |
-| Industrial Evolution | 0.30% | ~407 |
-| Omae wa Mou Shindeiru | 0.30% | ~407 |
-| By Your Powers Combined... | 0.30% | ~407 |
-| A Legend is Born | 0.30% | ~407 |
-| Necromancer Queen | 0.30% | ~407 |
-| Jackpot! | 0.30% | ~407 |
-| Bountiful Harvest | 0.30% | ~407 |
-| Precision Engineering | 0.30% | ~407 |
-| Treasure Trove | 0.30% | ~407 |
-| Moment of Respite | 0.30% | ~407 |
-| Master Recycler | 0.30% | ~407 |
-| Economy of Scarce | 0.30% | ~407 |
-| King's Blade | 0.30% | ~407 |
+| Top of the World | 0.30% | ~408 |
+| Constellated | 0.30% | ~408 |
+| Thirst for Knowledge | 0.30% | ~408 |
+| Booty by the Boatload | 0.30% | ~408 |
+| Archivist | 0.30% | ~408 |
+| Fillin' the Bin | 0.30% | ~408 |
+| Industrial Evolution | 0.30% | ~408 |
+| By Your Powers Combined... | 0.30% | ~408 |
+| A Legend is Born | 0.30% | ~408 |
+| Necromancer Queen | 0.30% | ~408 |
+| Jackpot! | 0.30% | ~408 |
+| Bountiful Harvest | 0.30% | ~408 |
+| Precision Engineering | 0.30% | ~408 |
+| Treasure Trove | 0.30% | ~408 |
+| Moment of Respite | 0.30% | ~408 |
+| Master Recycler | 0.30% | ~408 |
+| Economy of Scarce | 0.30% | ~408 |
+| King's Blade | 0.30% | ~408 |
 | The Free Encyclopedia | 0.20% | ~272 |
 | Thank You Tom Nook | 0.20% | ~272 |
 | All or Nothing! | 0.20% | ~272 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,833 (Ranked 67)  
-Completed: 147 (0.11%) (Ranked 215)  
+Progressed: 135,838 (Ranked 67)  
+Completed: 147 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -260,7 +260,7 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
-| 2023-09-08 | 135,833 | 147 |
+| 2023-09-08 | 135,838 | 147 |
 ## Awards
 Max (Great for Beginners): 4,730  (Ranked 70)  
 Sum: 27,189 (Ranked 48)  

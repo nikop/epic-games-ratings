@@ -5,8 +5,8 @@
   "Ranking_Rating": 24,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -1349,9 +1349,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 212
     },
     {
       "ID": "AC14",
@@ -1622,8 +1622,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-08T02:59:41.4444116+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:08:14.7557537+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:04:04.1053662+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:02:09.4950015+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:08:14.7558001+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:57:49.0975965+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:04:04.1054011+00:00"
 }

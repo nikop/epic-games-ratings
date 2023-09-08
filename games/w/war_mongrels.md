@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.30 (Ranked 796)  
+Rating: 4.31 (Ranked 790)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -66,8 +66,8 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 488 (Ranked 241)  
-Completed: 0 (0.00%) (Ranked 271)  
+Progressed: 488 (Ranked 242)  
+Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,3 +222,4 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-06-24 | 4.33 | - | 0 | 0 |
 | 2023-08-15 | 4.34 | - | 0 | 0 |
 | 2023-08-26 | 4.30 | - | 0 | 0 |
+| 2023-09-08 | 4.31 | - | 0 | 0 |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 57,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -810,9 +810,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222138,
+  "EOS_Progressed": 222147,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2169,
+  "EOS_NewPlayers": 2157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10025,6 +10025,11 @@
       "Time": "2023-09-08T13:10:14.8180996+00:00",
       "NumProgressed": 222138,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T14:06:14.1070556+00:00",
+      "NumProgressed": 222147,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10482,9 +10487,9 @@
       "ID": "ElfHitTwoFriends",
       "SetID": "50chcgj",
       "Name": "Sowwy!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 62199
+      "UsersEstimate": 64423
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10739,21 +10744,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222138,
+      "Progressed": 222147,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222138,
+      "Progressed": 222147,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T13:05:29.237116+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:10:14.8180989+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:06:14.1070552+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:03:47.9064663+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:10:14.8182611+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:59:30.4326156+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:06:14.1071857+00:00"
 }

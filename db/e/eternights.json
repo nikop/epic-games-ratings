@@ -2,9 +2,9 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 583,
-  "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_Progress": 536,
+  "Ranking_EOS_Completed": 1,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -20,12 +20,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 1,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EOS_Completed_Percentage": 100,
+  "EosHistory": [
+    {
+      "Time": "2023-09-08T14:06:31.5856386+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 1
+    }
+  ],
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
@@ -33,13 +39,13 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 1,
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:10:31.9751291+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:06:31.5856381+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.7060225+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:04:36.6152912+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:10:31.9751324+00:00"
+  "LastUpdate_Ratings": "2023-09-08T14:00:15.8847849+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:06:31.5856416+00:00"
 }

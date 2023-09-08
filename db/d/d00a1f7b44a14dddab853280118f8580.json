@@ -3,7 +3,7 @@
   "Name": "100 Doors - Escape from Prison",
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 325,
-  "Ranking_EOS_Completed": 14,
+  "Ranking_EOS_Completed": 15,
   "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -711,9 +711,9 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_items_50",
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:10:52.6391239+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:06:54.4429822+00:00",
   "LastUpdate_AppInfo": "2023-09-08T01:38:48.1675147+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:01:59.802379+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:10:52.6391378+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:57:41.2508355+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:06:54.442993+00:00"
 }

@@ -12,7 +12,7 @@
 | A Stranger's Diary | 70.00% | ~16 |
 | It Feels Better Than It Sounds | 70.00% | ~16 |
 | Carving A Memory | 70.00% | ~16 |
-| Stand By Nature | 61.00% | ~14 |
+| Stand By Nature | 65.00% | ~15 |
 | Skilled Hands | 57.00% | ~13 |
 | Master Smithy | 57.00% | ~13 |
 | The Milk Canal | 57.00% | ~13 |
@@ -44,7 +44,7 @@
 | Merely Inquisitive | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 428)  
-Completed: 4 (17.39%) (Ranked 15)  
+Completed: 4 (17.39%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

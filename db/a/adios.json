@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 80,
-  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -96,9 +96,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72641,
+  "EOS_Progressed": 72642,
   "EOS_Completed": 750,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -15751,6 +15751,11 @@
       "Time": "2023-09-08T13:07:41.837488+00:00",
       "NumProgressed": 72641,
       "NumCompleted": 750
+    },
+    {
+      "Time": "2023-09-08T14:03:38.6848807+00:00",
+      "NumProgressed": 72642,
+      "NumCompleted": 750
     }
   ],
   "TotalAchievements": 25,
@@ -15778,7 +15783,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 13075
+      "UsersEstimate": 13076
     },
     {
       "ID": "Audiophile",
@@ -15802,7 +15807,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13075
+      "UsersEstimate": 13076
     },
     {
       "ID": "Butcher",
@@ -15818,7 +15823,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "Fair\u0027sFair",
@@ -15961,7 +15966,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 72641,
+      "Progressed": 72642,
       "Completed": 750
     }
   ],
@@ -15969,8 +15974,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-08-07T22:57:38.0235808+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:07:41.8374875+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:03:38.6848803+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:33.9032569+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:02:00.5127931+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:07:41.8376078+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:57:42.2846296+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:03:38.6849672+00:00"
 }

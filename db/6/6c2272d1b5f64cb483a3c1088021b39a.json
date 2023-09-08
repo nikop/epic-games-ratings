@@ -3,8 +3,8 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 206,
-  "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -3455,9 +3455,9 @@
       "ID": "catacombs_raid_2",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 2",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "catacombs_raid_3",
@@ -3910,8 +3910,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:08:52.8329319+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:04:45.2604184+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:00.6295302+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:02:23.8892683+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:08:52.8330185+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:58:04.0099813+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:04:45.2604827+00:00"
 }

@@ -25,18 +25,18 @@ Rating: 4.60 (Ranked 392)
 | Mighty Hoard | 5.00% | ~258 |
 | Valley of Wonders | 4.00% | ~206 |
 | Digging for Treasure | 4.00% | ~206 |
+| Preparation Is Everything | 4.00% | ~206 |
 | Fiery Friend | 4.00% | ~206 |
 | Against the Odds | 4.00% | ~206 |
 | Impenetrable Fortress | 4.00% | ~206 |
 | Return of the Wizard King | 3.00% | ~155 |
+| God Emperor | 3.00% | ~155 |
 | Lord of Chaos | 3.00% | ~155 |
 | Arch Mage | 3.00% | ~155 |
 | The Creator | 3.00% | ~155 |
 | Enchanted Archipelago | 3.00% | ~155 |
 | The Goddess of Nature | 3.00% | ~155 |
-| Preparation Is Everything | 3.00% | ~155 |
 | The Magic That Empowers Me! | 2.00% | ~103 |
-| God Emperor | 2.00% | ~103 |
 | Eternal Lord | 2.00% | ~103 |
 | Crimson Caldera | 2.00% | ~103 |
 | The Eternal Court | 2.00% | ~103 |
@@ -57,7 +57,7 @@ Rating: 4.60 (Ranked 392)
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,161 (Ranked 146)  
-Completed: 6 (0.12%) (Ranked 210)  
+Completed: 6 (0.12%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

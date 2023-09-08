@@ -3,7 +3,7 @@
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 271,
+  "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2389,
+  "EOS_Progressed": 2395,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1044,6 +1044,11 @@
       "Time": "2023-09-08T13:10:08.8898331+00:00",
       "NumProgressed": 2389,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T14:06:08.012109+00:00",
+      "NumProgressed": 2395,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -1152,7 +1157,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 599
     },
     {
       "ID": "kills_100",
@@ -1208,7 +1213,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "revives_25",
@@ -1303,13 +1308,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 2389,
+      "Progressed": 2395,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-08T13:10:08.8898326+00:00",
+  "LastChanged_Achievements": "2023-09-08T14:06:08.0121086+00:00",
   "LastUpdate_AppInfo": "2023-09-06T09:57:05.1729887+00:00",
-  "LastUpdate_Ratings": "2023-09-08T13:04:45.0508694+00:00",
-  "LastUpdate_Achievements": "2023-09-08T13:10:08.8898625+00:00"
+  "LastUpdate_Ratings": "2023-09-08T14:00:22.2710958+00:00",
+  "LastUpdate_Achievements": "2023-09-08T14:06:08.0121311+00:00"
 }

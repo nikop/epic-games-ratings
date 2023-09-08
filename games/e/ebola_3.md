@@ -12,8 +12,8 @@
 | Doberman ✔ | 15.00% | ~36 |
 | Weapon ✔ | 11.00% | ~27 |
 | Chess ✔ | 10.00% | ~24 |
+| Survival ✔ | 9.00% | ~22 |
 | Master of Unlocking ✔ | 9.00% | ~22 |
-| Survival ✔ | 8.00% | ~19 |
 | Hospital ✔ | 7.00% | ~17 |
 | Thirst ✔ | 7.00% | ~17 |
 | Alice ✔ | 6.00% | ~14 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 241 (Ranked 291)  
-Completed: 0 (0.00%) (Ranked 271)  
+Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
