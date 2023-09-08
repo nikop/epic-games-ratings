@@ -1,22 +1,22 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.14 (Ranked 906)  
+Rating: 4.14 (Ranked 905)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 79.00% | ~4,516 |
-| Hey Good Hookin | 68.00% | ~3,887 |
-| I'm on a Boat! | 59.00% | ~3,372 |
+| Hey Good Hookin | 68.00% | ~3,888 |
+| I'm on a Boat! | 59.00% | ~3,373 |
 | Can you smell what the Rod is Hooking | 55.00% | ~3,144 |
 | Scaling up | 54.00% | ~3,087 |
 | More Fish in the Sea | 48.00% | ~2,744 |
-| Ready to Rod and Roll | 45.00% | ~2,572 |
+| Ready to Rod and Roll | 45.00% | ~2,573 |
 | Fish Out of Water | 35.00% | ~2,001 |
 | License to Gill | 32.00% | ~1,829 |
 | Things that go Splash in the Night | 30.00% | ~1,715 |
-| Goldfish? | 28.00% | ~1,600 |
+| Goldfish? | 28.00% | ~1,601 |
 | Going for Gold | 25.00% | ~1,429 |
 | I'm Hooked! | 19.00% | ~1,086 |
 | Diamond in the Rough | 13.00% | ~743 |
@@ -26,7 +26,7 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 8.00% | ~457 |
 | I'm the Captain Now | 6.00% | ~343 |
 | Big Fish Small Pond | 5.00% | ~286 |
-| Gonna Need a Bigger Boat | 3.00% | ~171 |
+| Gonna Need a Bigger Boat | 3.00% | ~172 |
 | The Beetles | 2.00% | ~114 |
 | Rod and Troll | 2.00% | ~102 |
 | No Fin left to give | 1.00% | ~57 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,716 (Ranked 142)  
+Progressed: 5,717 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-05 | 5,687 | 0 |
 | 2023-09-06 | 5,700 | 0 |
 | 2023-09-07 | 5,709 | 0 |
-| 2023-09-08 | 5,716 | 0 |
+| 2023-09-08 | 5,717 | 0 |
 ## Awards
 Max (Relaxing): 34  (Ranked 448)  
 Sum: 170 (Ranked 389)  

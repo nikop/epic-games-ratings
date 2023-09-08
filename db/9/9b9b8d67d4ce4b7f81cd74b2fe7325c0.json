@@ -2,7 +2,7 @@
   "ID": "9b9b8d67d4ce4b7f81cd74b2fe7325c0",
   "Name": "Dark Fantasy 2: Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
-  "Ranking_EOS_Progress": 369,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 43,
@@ -507,33 +507,33 @@
       "ID": "PORTRAIT_20",
       "SetID": "g10jki",
       "Name": "Portrait 20",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PORTRAIT_21",
       "SetID": "g10jki",
       "Name": "Portrait 21",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PORTRAIT_22",
       "SetID": "g10jki",
       "Name": "Portrait 22",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PORTRAIT_23",
       "SetID": "g10jki",
       "Name": "Portrait 23",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PORTRAIT_24",
@@ -610,8 +610,8 @@
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:05:40.6353733+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:06:05.6145399+00:00",
   "LastUpdate_AppInfo": "2023-09-06T11:58:18.4076631+00:00",
-  "LastUpdate_Ratings": "2023-09-08T15:57:39.4379706+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:05:40.6353935+00:00"
+  "LastUpdate_Ratings": "2023-09-08T16:57:42.1856538+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:06:05.6145606+00:00"
 }

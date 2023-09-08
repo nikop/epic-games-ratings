@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5528,
+  "EOS_Progressed": 5530,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9286,6 +9286,11 @@
       "Time": "2023-09-08T16:08:05.4327247+00:00",
       "NumProgressed": 5528,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T17:07:30.0076916+00:00",
+      "NumProgressed": 5530,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9297,7 +9302,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2046
     },
     {
       "ID": "10",
@@ -9361,7 +9366,7 @@
       "Name": "Cactus Vally",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "4",
@@ -9416,7 +9421,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5528,
+      "Progressed": 5530,
       "Completed": 0
     }
   ],
@@ -9424,8 +9429,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:08:05.4327243+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:07:30.007691+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:01.1688384+00:00",
-  "LastUpdate_Ratings": "2023-09-08T15:58:36.8787682+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:08:05.4327904+00:00"
+  "LastUpdate_Ratings": "2023-09-08T16:58:43.7048379+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:07:30.0077692+00:00"
 }

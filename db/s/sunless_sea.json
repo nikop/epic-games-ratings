@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -691,9 +691,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 36951,
+  "EOS_Progressed": 36954,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15071,6 +15071,11 @@
       "Time": "2023-09-08T16:03:56.7239142+00:00",
       "NumProgressed": 36951,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-08T17:04:24.059043+00:00",
+      "NumProgressed": 36954,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -15202,7 +15207,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13302
+      "UsersEstimate": 13303
     },
     {
       "ID": "ach_die10",
@@ -15290,7 +15295,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "ach_legacysalvager",
@@ -15434,7 +15439,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6651
+      "UsersEstimate": 6652
     },
     {
       "ID": "ach_terror100",
@@ -15513,15 +15518,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 36951,
+      "Progressed": 36954,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-07T16:03:54.2069516+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:03:56.7239137+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:04:24.0590425+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:20.6698248+00:00",
-  "LastUpdate_Ratings": "2023-09-08T16:00:31.3767725+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:03:56.7240489+00:00"
+  "LastUpdate_Ratings": "2023-09-08T17:00:39.0599051+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:04:24.0592086+00:00"
 }

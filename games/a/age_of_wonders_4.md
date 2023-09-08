@@ -36,8 +36,8 @@ Rating: 4.60 (Ranked 392)
 | The Creator | 3.00% | ~155 |
 | Enchanted Archipelago | 3.00% | ~155 |
 | The Goddess of Nature | 3.00% | ~155 |
+| Eternal Lord | 3.00% | ~155 |
 | The Magic That Empowers Me! | 2.00% | ~103 |
-| Eternal Lord | 2.00% | ~103 |
 | Crimson Caldera | 2.00% | ~103 |
 | The Eternal Court | 2.00% | ~103 |
 | Jack of All Tomes | 2.00% | ~103 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -506,9 +506,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3593,
+  "EOS_Progressed": 3594,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6541,6 +6541,11 @@
       "Time": "2023-09-08T01:57:49.6239278+00:00",
       "NumProgressed": 3593,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-08T17:08:05.9726744+00:00",
+      "NumProgressed": 3594,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6550,9 +6555,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 575
+      "UsersEstimate": 539
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6560,7 +6565,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6606,9 +6611,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 611
+      "UsersEstimate": 575
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6616,7 +6621,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6720,7 +6725,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6736,7 +6741,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -6792,7 +6797,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6800,7 +6805,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6960,7 +6965,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7119,13 +7124,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3544,
+      "Progressed": 3545,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3593,
+      "Progressed": 3594,
       "Completed": 10
     }
   ],
@@ -7133,8 +7138,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-05T20:57:33.2339547+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:08:11.6473203+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:08:05.9726739+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:18.4314048+00:00",
-  "LastUpdate_Ratings": "2023-09-08T15:57:48.6281507+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:08:11.6474403+00:00"
+  "LastUpdate_Ratings": "2023-09-08T16:57:48.7552835+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:08:05.972789+00:00"
 }

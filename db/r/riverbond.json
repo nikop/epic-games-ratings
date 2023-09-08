@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 526920,
+  "EOS_Progressed": 526921,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15534,6 +15534,11 @@
       "Time": "2023-09-08T16:04:50.4508455+00:00",
       "NumProgressed": 526920,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-08T17:05:16.5743206+00:00",
+      "NumProgressed": 526921,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 57,
@@ -15561,7 +15566,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368844
+      "UsersEstimate": 368845
     },
     {
       "ID": "12",
@@ -15569,7 +15574,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 115922
+      "UsersEstimate": 115923
     },
     {
       "ID": "13",
@@ -15625,7 +15630,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326690
+      "UsersEstimate": 326691
     },
     {
       "ID": "2",
@@ -15841,7 +15846,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89576
+      "UsersEstimate": 89577
     },
     {
       "ID": "44",
@@ -15873,7 +15878,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326690
+      "UsersEstimate": 326691
     },
     {
       "ID": "48",
@@ -15921,7 +15926,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242383
+      "UsersEstimate": 242384
     },
     {
       "ID": "53",
@@ -16000,15 +16005,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 526920,
+      "Progressed": 526921,
       "Completed": 470
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:04:50.4508451+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:05:16.5743201+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:25.8959885+00:00",
-  "LastUpdate_Ratings": "2023-09-08T15:58:30.357978+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:04:50.4509859+00:00"
+  "LastUpdate_Ratings": "2023-09-08T16:58:35.3194999+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:05:16.5744779+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 1.00% | ~6,757 |
-| Git Gutte! | 1.00% | ~6,757 |
-| Bookworm | 1.00% | ~6,757 |
-| Break A Leg | 1.00% | ~6,757 |
-| But Doctor, I am Butcho | 1.00% | ~6,757 |
-| Coup de Grâce | 1.00% | ~6,757 |
-| Hazardous Materials | 1.00% | ~6,757 |
-| Friends Like These | 1.00% | ~6,757 |
-| Hotel California | 1.00% | ~6,757 |
-| Apex Predator | 1.00% | ~6,757 |
-| Stacking the Deck | 1.00% | ~6,757 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,757 |
-| This is My Weapon | 1.00% | ~6,757 |
-| Welcome To Hell-A | 1.00% | ~6,757 |
+| Dr. Reed, I Presume? | 1.00% | ~6,758 |
+| Git Gutte! | 1.00% | ~6,758 |
+| Bookworm | 1.00% | ~6,758 |
+| Break A Leg | 1.00% | ~6,758 |
+| But Doctor, I am Butcho | 1.00% | ~6,758 |
+| Coup de Grâce | 1.00% | ~6,758 |
+| Hazardous Materials | 1.00% | ~6,758 |
+| Friends Like These | 1.00% | ~6,758 |
+| Hotel California | 1.00% | ~6,758 |
+| Apex Predator | 1.00% | ~6,758 |
+| Stacking the Deck | 1.00% | ~6,758 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,758 |
+| This is My Weapon | 1.00% | ~6,758 |
+| Welcome To Hell-A | 1.00% | ~6,758 |
 | Slayer Squad | 0.90% | ~6,082 |
 | Can't Handle the Truth | 0.90% | ~6,082 |
 | Like Riding a Bike | 0.90% | ~6,082 |
@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 505)
 | Anger Management | 0.70% | ~4,730 |
 | Perks of the Job | 0.70% | ~4,730 |
 | I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,730 |
-| Making Your Mark | 0.60% | ~4,054 |
-| Humanity Distilled | 0.60% | ~4,054 |
-| Down with the Sickness | 0.60% | ~4,054 |
+| Making Your Mark | 0.60% | ~4,055 |
+| Humanity Distilled | 0.60% | ~4,055 |
+| Down with the Sickness | 0.60% | ~4,055 |
 | Max Headroom | 0.50% | ~3,379 |
 | Jumbo Keyring | 0.40% | ~2,703 |
 | Go, Bobcats! | 0.40% | ~2,703 |
@@ -42,16 +42,16 @@ Rating: 4.54 (Ranked 505)
 | Not Even My Final Form | 0.30% | ~2,027 |
 | Internet Famous | 0.30% | ~2,027 |
 | Variety is the Spice of Death | 0.30% | ~2,027 |
-| Make it So | 0.20% | ~1,351 |
-| LA Influential | 0.20% | ~1,351 |
-| Gore Horse | 0.20% | ~1,351 |
-| Sharpest Tool in the Box | 0.20% | ~1,351 |
+| Make it So | 0.20% | ~1,352 |
+| LA Influential | 0.20% | ~1,352 |
+| Gore Horse | 0.20% | ~1,352 |
+| Sharpest Tool in the Box | 0.20% | ~1,352 |
 | Donk! | 0.10% | ~676 |
 | Sole Survivor | 0.10% | ~676 |
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675,728 (Ranked 22)  
+Progressed: 675,757 (Ranked 22)  
 Completed: 2,121 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,10 +192,10 @@ Completed: 2,121 (0.31%) (Ranked 177)
 | 2023-09-05 | 674,256 | 2,117 |
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
-| 2023-09-08 | 675,728 | 2,121 |
+| 2023-09-08 | 675,757 | 2,121 |
 ## Awards
 Max (Great Boss Battles): 5,945  (Ranked 59)  
-Sum: 8,782 (Ranked 95)  
+Sum: 8,784 (Ranked 95)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -203,7 +203,7 @@ Diff (max vs sum): -36
 | This game is Great for Beginners | 400 |
 | This game has Diverse Characters | 393 |
 | This game has Quickly Understood Controls | 383 |
-| This game is Relaxing | 367 |
+| This game is Relaxing | 369 |
 | This game has Amazing Storytelling | 343 |
 | This game is Extremely Fun | 324 |
 | This game has Amazing Characters | 315 |
@@ -351,4 +351,4 @@ Diff (max vs sum): -36
 | 2023-09-05 | 4.54 | 5,913 | 8,730 |
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
-| 2023-09-08 | 4.54 | 5,945 | 8,782 |
+| 2023-09-08 | 4.54 | 5,945 | 8,784 |

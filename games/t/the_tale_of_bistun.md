@@ -27,9 +27,9 @@
 | Heart's Desire | 52.00% | ~12 |
 | Shoo! Shoo! | 52.00% | ~12 |
 | I Pick You | 48.00% | ~11 |
+| Accomplished Smithy | 48.00% | ~11 |
 | Nature's Savior | 48.00% | ~11 |
 | Hammer It Home | 48.00% | ~11 |
-| Accomplished Smithy | 43.00% | ~10 |
 | The Blight's Blight | 43.00% | ~10 |
 | The Ultimate Sacrifice | 43.00% | ~10 |
 | For Whom the Bell Tolls | 39.00% | ~9 |
@@ -44,7 +44,7 @@
 | Merely Inquisitive | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 23 (Ranked 428)  
-Completed: 4 (17.39%) (Ranked 16)  
+Completed: 4 (17.39%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

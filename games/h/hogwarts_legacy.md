@@ -5,31 +5,31 @@ Rating: 4.77 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,426 |
-| First Class Student | 13.00% | ~38,467 |
-| Troll with the Punches | 12.00% | ~35,508 |
-| A Keen Sense of Spell | 11.00% | ~32,549 |
-| That's a Keeper | 11.00% | ~32,549 |
-| Grappling with a Graphorn | 10.00% | ~29,590 |
-| The One Who Mastered Memories | 10.00% | ~29,590 |
-| The Hallowed Hero | 10.00% | ~29,590 |
-| The Defender of Dragons | 10.00% | ~29,590 |
-| Loom for Improvement | 10.00% | ~29,590 |
-| A Talent for Spending | 10.00% | ~29,590 |
-| Coasting Along | 10.00% | ~29,590 |
-| The Hero of Hogwarts | 9.00% | ~26,631 |
-| Challenge Accepted | 9.00% | ~26,631 |
-| Followed the Butterflies | 9.00% | ~26,631 |
-| The Spell Master | 8.00% | ~23,672 |
-| Rising From the Ashes | 8.00% | ~23,672 |
-| The Avenging Gazelle | 7.00% | ~20,713 |
-| Beast Friends | 7.00% | ~20,713 |
-| A Sallow Grave | 7.00% | ~20,713 |
-| Flight the Good Flight | 7.00% | ~20,713 |
-| The Seeker of Knowledge | 5.00% | ~14,795 |
-| The Root of the Problem | 5.00% | ~14,795 |
-| Third Time's a Charm | 5.00% | ~14,795 |
-| Raising Expectations | 5.00% | ~14,795 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,428 |
+| First Class Student | 13.00% | ~38,468 |
+| Troll with the Punches | 12.00% | ~35,509 |
+| A Keen Sense of Spell | 11.00% | ~32,550 |
+| That's a Keeper | 11.00% | ~32,550 |
+| Grappling with a Graphorn | 10.00% | ~29,591 |
+| The One Who Mastered Memories | 10.00% | ~29,591 |
+| The Hallowed Hero | 10.00% | ~29,591 |
+| The Defender of Dragons | 10.00% | ~29,591 |
+| Loom for Improvement | 10.00% | ~29,591 |
+| A Talent for Spending | 10.00% | ~29,591 |
+| Coasting Along | 10.00% | ~29,591 |
+| The Hero of Hogwarts | 9.00% | ~26,632 |
+| Challenge Accepted | 9.00% | ~26,632 |
+| Followed the Butterflies | 9.00% | ~26,632 |
+| The Spell Master | 8.00% | ~23,673 |
+| Rising From the Ashes | 8.00% | ~23,673 |
+| The Avenging Gazelle | 7.00% | ~20,714 |
+| Beast Friends | 7.00% | ~20,714 |
+| A Sallow Grave | 7.00% | ~20,714 |
+| Flight the Good Flight | 7.00% | ~20,714 |
+| The Seeker of Knowledge | 5.00% | ~14,796 |
+| The Root of the Problem | 5.00% | ~14,796 |
+| Third Time's a Charm | 5.00% | ~14,796 |
+| Raising Expectations | 5.00% | ~14,796 |
 | The Toast of the Town | 4.00% | ~11,836 |
 | Going Through the Potions | 4.00% | ~11,836 |
 | Room with a View | 4.00% | ~11,836 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,775 |
 | Collector's Edition | 0.30% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,900 (Ranked 43)  
+Progressed: 295,911 (Ranked 43)  
 Completed: 468 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,20 +192,20 @@ Completed: 468 (0.16%) (Ranked 200)
 | 2023-09-05 | 294,883 | 464 |
 | 2023-09-06 | 295,304 | 465 |
 | 2023-09-07 | 295,758 | 468 |
-| 2023-09-08 | 295,900 | 468 |
+| 2023-09-08 | 295,911 | 468 |
 ## Awards
-Max (Character Customization): 22,320  (Ranked 17)  
-Sum: 42,509 (Ranked 30)  
+Max (Character Customization): 22,365  (Ranked 17)  
+Sum: 42,559 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 22,320 |
+| This game has Inclusive Character Customization | 22,365 |
 | This game has Great Boss Battles | 10,911 |
 | This game is Great for Beginners | 1,035 |
 | This game is Extremely Fun | 1,002 |
 | This game is Relaxing | 997 |
+| This game has Amazing Storytelling | 996 |
 | This game has Diverse Characters | 991 |
-| This game has Amazing Storytelling | 991 |
 | This game has Amazing Characters | 963 |
 | This game is Highly Recommended | 951 |
 | This game has Quickly Understood Controls | 891 |
@@ -382,4 +382,4 @@ Diff (max vs sum): -13
 | 2023-09-05 | 4.77 | 22,241 | 42,294 |
 | 2023-09-06 | 4.77 | 22,280 | 42,371 |
 | 2023-09-07 | 4.77 | 22,320 | 42,462 |
-| 2023-09-08 | 4.77 | 22,320 | 42,509 |
+| 2023-09-08 | 4.77 | 22,365 | 42,559 |

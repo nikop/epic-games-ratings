@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -6169,9 +6169,9 @@
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 155
     },
     {
       "ID": "22",
@@ -6480,8 +6480,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:03:58.9379559+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:04:26.2660098+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.1912203+00:00",
-  "LastUpdate_Ratings": "2023-09-08T16:00:00.5851777+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:03:58.9380372+00:00"
+  "LastUpdate_Ratings": "2023-09-08T17:00:11.2487052+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:04:26.2660948+00:00"
 }

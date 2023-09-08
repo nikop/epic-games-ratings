@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17912,
+  "EOS_Progressed": 17913,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -9863,6 +9863,11 @@
       "Time": "2023-09-08T16:03:54.9863513+00:00",
       "NumProgressed": 17912,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-08T17:04:22.1030009+00:00",
+      "NumProgressed": 17913,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9874,7 +9879,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "0002",
@@ -10114,7 +10119,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "0032",
@@ -10130,7 +10135,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "0034",
@@ -10138,7 +10143,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "0035",
@@ -10161,7 +10166,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17912,
+      "Progressed": 17913,
       "Completed": 1
     }
   ],
@@ -10169,8 +10174,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-08-31T05:58:36.9186567+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:03:54.9863507+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:04:22.1030005+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-08T16:00:31.6258388+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:03:54.9864364+00:00"
+  "LastUpdate_Ratings": "2023-09-08T17:00:39.4296187+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:04:22.1031278+00:00"
 }

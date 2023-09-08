@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1655,6 +1655,11 @@
       "Time": "2023-09-08T05:05:18.1191887+00:00",
       "NumProgressed": 561,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T17:04:20.6330674+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1664,9 +1669,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 202
     },
     {
       "ID": "cool-shirts",
@@ -1682,7 +1687,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "dont-miss-calls",
@@ -1690,7 +1695,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "female-conqueror",
@@ -1706,7 +1711,7 @@
       "Name": "That was base",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "hire-lieutenant",
@@ -1714,7 +1719,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "kill-lieutenants",
@@ -1722,7 +1727,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "pack-and-sell",
@@ -1730,7 +1735,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "play-at-night",
@@ -1738,7 +1743,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "product-profit",
@@ -1754,7 +1759,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "rename-lieutenant",
@@ -1792,9 +1797,9 @@
       "ID": "unlock-residences",
       "SetID": "bed33dd",
       "Name": "Pampered Life",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 129
     },
     {
       "ID": "upgrade-building",
@@ -1802,7 +1807,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "use-submarine",
@@ -1817,15 +1822,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:03:53.5115445+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:04:20.6330669+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:30.2177621+00:00",
-  "LastUpdate_Ratings": "2023-09-08T15:57:13.9697318+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:03:53.5115677+00:00"
+  "LastUpdate_Ratings": "2023-09-08T16:57:16.1910032+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:04:20.633092+00:00"
 }

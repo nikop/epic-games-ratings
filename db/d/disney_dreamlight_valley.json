@@ -3474,9 +3474,9 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 9394,
+  "EOS_Progressed": 9395,
   "EOS_Completed": 214,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.28,
   "EosHistory": [
@@ -11974,6 +11974,11 @@
       "Time": "2023-09-08T16:02:13.2707301+00:00",
       "NumProgressed": 9394,
       "NumCompleted": 214
+    },
+    {
+      "Time": "2023-09-08T17:03:10.1740994+00:00",
+      "NumProgressed": 9395,
+      "NumCompleted": 214
     }
   ],
   "TotalAchievements": 15,
@@ -12001,7 +12006,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4509
+      "UsersEstimate": 4510
     },
     {
       "ID": "Chef_Cook",
@@ -12073,7 +12078,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6482
+      "UsersEstimate": 6483
     },
     {
       "ID": "Renovator",
@@ -12097,14 +12102,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 5918
+      "UsersEstimate": 5919
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9394,
+      "Progressed": 9395,
       "Completed": 214
     }
   ],
@@ -12112,8 +12117,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-09-08T13:03:24.2648783+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:02:13.2707297+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:03:10.1740989+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:26.1088757+00:00",
-  "LastUpdate_Ratings": "2023-09-08T15:58:53.9277767+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:02:13.2707979+00:00"
+  "LastUpdate_Ratings": "2023-09-08T16:59:01.3890094+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:03:10.1741681+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "keywe-c3a70e",
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -215,9 +215,9 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 71,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "findFirstCollectible",
@@ -302,8 +302,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:03:54.5751887+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:04:21.7634231+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.8052535+00:00",
-  "LastUpdate_Ratings": "2023-09-08T16:00:30.9442777+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:03:54.5752058+00:00"
+  "LastUpdate_Ratings": "2023-09-08T17:00:38.6912883+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:04:21.76344+00:00"
 }

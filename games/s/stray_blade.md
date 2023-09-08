@@ -11,8 +11,8 @@
 | A new World ahead | 25.00% | ~15 |
 | Can't touch this | 24.00% | ~14 |
 | Don't Cry Wolf | 19.00% | ~11 |
-| Freezing Cold | 15.00% | ~9 |
-| The Power of the Mountains | 15.00% | ~9 |
+| Freezing Cold | 17.00% | ~10 |
+| The Power of the Mountains | 17.00% | ~10 |
 | Searing Heat | 14.00% | ~8 |
 | The Golden Flash | 14.00% | ~8 |
 | Changing the World | 14.00% | ~8 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 381)  
+Progressed: 59 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |

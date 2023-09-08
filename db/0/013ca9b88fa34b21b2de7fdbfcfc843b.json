@@ -1,25 +1,23 @@
 {
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
-  "Name": "Fae Farm Pre-Purchase",
+  "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
     "isBlockchainUsed": false,
-    "CustomAttributes": {
-      "isPrepurchase": "true"
-    }
+    "CustomAttributes": {}
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 89,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -152,6 +150,11 @@
       "Time": "2023-09-08T16:04:41.8707531+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T17:05:08.214485+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -162,71 +165,71 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 34,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 62,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Calm Sailing",
-      "Percentage": 52,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 41,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 12
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 34,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 10
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Search for the Hairy Grell",
-      "Percentage": 28,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Flaming Hot Completos",
-      "Percentage": 17,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Fae Farmer",
-      "Percentage": 17,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "COLLECT_CLOVER",
       "SetID": "9eia0f5",
       "Name": "Cloverfield Island",
-      "Percentage": 3,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -234,7 +237,7 @@
       "ID": "COLLECT_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Got to Catch Them All",
-      "Percentage": 3,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -250,39 +253,39 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 28,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 17,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 45,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 14
     },
     {
       "ID": "COLLECT_SEASHELLS",
       "SetID": "9eia0f5",
       "Name": "Beach Comber",
-      "Percentage": 10,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
       "SetID": "9eia0f5",
       "Name": "Workaholic",
-      "Percentage": 3,
+      "Percentage": 1,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -290,7 +293,7 @@
       "ID": "COMPLETE_SHIPCONTRACTS_1",
       "SetID": "9eia0f5",
       "Name": "Giving the People What They Want",
-      "Percentage": 3,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -298,39 +301,39 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 17,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
       "SetID": "9eia0f5",
       "Name": "Scattered Scroll Scrounger",
-      "Percentage": 7,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "DISPATCH_CLOUDS",
       "SetID": "9eia0f5",
       "Name": "Mist Walker",
-      "Percentage": 34,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 10
     },
     {
       "ID": "DISPATCH_JUMBLES",
       "SetID": "9eia0f5",
       "Name": "Rumble in the Jumble",
-      "Percentage": 3,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -338,71 +341,71 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 55,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "EARN_FLORINS_1",
       "SetID": "9eia0f5",
       "Name": "Higher Tax Bracket",
-      "Percentage": 24,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
       "SetID": "9eia0f5",
       "Name": "Fanatical Farmer",
-      "Percentage": 10,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "HAVE_WEDDING",
       "SetID": "9eia0f5",
       "Name": "I Now Pronounce You...",
-      "Percentage": 7,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "MAKE_FRIENDS_1",
       "SetID": "9eia0f5",
       "Name": "Chatty Neighbor",
-      "Percentage": 45,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "PREPARE_MEALS_1",
       "SetID": "9eia0f5",
       "Name": "Oui, Chef!",
-      "Percentage": 14,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
       "SetID": "9eia0f5",
       "Name": "Botanical Breakthrough",
-      "Percentage": 10,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "SPEND_FIRSTYEAR",
       "SetID": "9eia0f5",
       "Name": "Azorian Anniversary",
-      "Percentage": 28,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
       "SetID": "9eia0f5",
       "Name": "Very Skilled",
-      "Percentage": 3,
+      "Percentage": 1,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -410,46 +413,46 @@
       "ID": "UPGRADE_ALLTOOLSMAX",
       "SetID": "9eia0f5",
       "Name": "Right Tool For the Job",
-      "Percentage": 41,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 12
     },
     {
       "ID": "UPGRADE_COZYMAX",
       "SetID": "9eia0f5",
       "Name": "Captain of Cozy",
-      "Percentage": 38,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 11
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
       "SetID": "9eia0f5",
       "Name": "House Proud",
-      "Percentage": 28,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
       "SetID": "9eia0f5",
       "Name": "Skilled",
-      "Percentage": 24,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 89,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:04:41.8707526+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:05:08.2144845+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:57:07.7146184+00:00",
-  "LastUpdate_Ratings": "2023-09-08T15:58:01.8295491+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:04:41.8707806+00:00"
+  "LastUpdate_Ratings": "2023-09-08T16:58:07.07034+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:05:08.2145121+00:00"
 }

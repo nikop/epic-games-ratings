@@ -2,10 +2,10 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -344,9 +344,9 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Destilat",
@@ -384,9 +384,9 @@
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Kamzik",
@@ -456,9 +456,9 @@
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Pejsek",
@@ -488,9 +488,9 @@
       "ID": "Rybka",
       "SetID": "ag48e8e",
       "Name": "Goldfish",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Sova",
@@ -536,9 +536,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Truhlice",
@@ -560,17 +560,17 @@
       "ID": "Zelvak",
       "SetID": "ag48e8e",
       "Name": "Goldbug",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ZpivajiciHouba",
       "SetID": "ag48e8e",
       "Name": "Dancing Fungus",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -583,8 +583,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:04:02.4114757+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:04:29.652436+00:00",
   "LastUpdate_AppInfo": "2023-09-01T18:56:55.9579121+00:00",
-  "LastUpdate_Ratings": "2023-09-08T15:57:38.7746691+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:04:02.4114999+00:00"
+  "LastUpdate_Ratings": "2023-09-08T16:57:41.4099264+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:04:29.6524637+00:00"
 }

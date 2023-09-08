@@ -12,7 +12,7 @@ Rating: 4.03 (Ranked 937)
 | Fellowship Power | 41.00% | ~784 |
 | Guild Power | 25.00% | ~478 |
 | Prestigious x10 | 22.00% | ~421 |
-| The game is on | 20.00% | ~382 |
+| The game is on | 21.00% | ~402 |
 | Exotic Merchant | 19.00% | ~363 |
 | Dragon Clicker | 18.00% | ~344 |
 | Inspection | 17.00% | ~325 |
@@ -81,7 +81,7 @@ Rating: 4.03 (Ranked 937)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,912 (Ranked 178)  
+Progressed: 1,912 (Ranked 179)  
 Completed: 2 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |

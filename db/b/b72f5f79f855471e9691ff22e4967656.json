@@ -2,10 +2,10 @@
   "ID": "b72f5f79f855471e9691ff22e4967656",
   "Name": "Quest Hunter",
   "ProductSlug": "quest-hunter-96b20d",
-  "Ranking_EOS_Progress": 359,
+  "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -464,9 +464,9 @@
       "ID": "findSecret10",
       "SetID": "ci65fo0",
       "Name": "A sharp eye",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "getPoisoned",
@@ -488,9 +488,9 @@
       "ID": "interactChest10",
       "SetID": "ci65fo0",
       "Name": "Chests lover",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "killBoxes50",
@@ -544,9 +544,9 @@
       "ID": "killGolem1",
       "SetID": "ci65fo0",
       "Name": "The First Golem",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "killGolem10",
@@ -1005,8 +1005,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-08T16:06:38.1301551+00:00",
+  "LastChanged_Achievements": "2023-09-08T17:07:03.1423488+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-08T15:57:38.5308206+00:00",
-  "LastUpdate_Achievements": "2023-09-08T16:06:38.1302392+00:00"
+  "LastUpdate_Ratings": "2023-09-08T16:57:41.2548304+00:00",
+  "LastUpdate_Achievements": "2023-09-08T17:07:03.142433+00:00"
 }
