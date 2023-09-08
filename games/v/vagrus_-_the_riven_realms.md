@@ -19,12 +19,12 @@
 | Taskmaster | 7.00% | ~9 |
 | Conciliator | 5.00% | ~7 |
 | The More the Merrier | 5.00% | ~7 |
+| Harbinger | 5.00% | ~7 |
 | Courier | 5.00% | ~7 |
 | Quartermaster | 4.00% | ~5 |
 | Strategist | 4.00% | ~5 |
 | Potential Unlocked | 4.00% | ~5 |
 | Deputized | 4.00% | ~5 |
-| Harbinger | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
 | A Terrible Will | 4.00% | ~5 |
 | Spiritual Journey | 4.00% | ~5 |
@@ -36,12 +36,12 @@
 | Xevarian Gambit | 3.00% | ~4 |
 | The Voice of Hereafter | 3.00% | ~4 |
 | Despised | 3.00% | ~4 |
+| Life... Finds a Way | 3.00% | ~4 |
 | Unseen Patterns | 3.00% | ~4 |
+| Bounty Hunter | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
-| Life... Finds a Way | 2.00% | ~3 |
 | Making Contact | 1.00% | ~1 |
-| Bounty Hunter | 1.00% | ~1 |
 | Adept | 1.00% | ~1 |
 | Embellished | 1.00% | ~1 |
 | Business As Usual | 1.00% | ~1 |

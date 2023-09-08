@@ -2,9 +2,9 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -177,6 +177,11 @@
       "Time": "2023-09-08T21:06:10.3085044+00:00",
       "NumProgressed": 151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T22:05:20.7804495+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -187,23 +192,23 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 110
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Calm Sailing",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -211,7 +216,7 @@
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -219,9 +224,9 @@
       "ID": "CHAPTER_5_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Clear the Air",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -251,7 +256,7 @@
       "ID": "COLLECT_CLOVER",
       "SetID": "9eia0f5",
       "Name": "Cloverfield Island",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -259,7 +264,7 @@
       "ID": "COLLECT_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Got to Catch Them All",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -283,17 +288,17 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -307,7 +312,7 @@
       "ID": "COMPLETE_ALLJOBQUESTS",
       "SetID": "9eia0f5",
       "Name": "Workaholic",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -315,7 +320,7 @@
       "ID": "COMPLETE_SHIPCONTRACTS_1",
       "SetID": "9eia0f5",
       "Name": "Giving the People What They Want",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -323,9 +328,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -341,21 +346,21 @@
       "Name": "... And Spit Back Out",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "DISPATCH_CLOUDS",
       "SetID": "9eia0f5",
       "Name": "Mist Walker",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "DISPATCH_JUMBLES",
       "SetID": "9eia0f5",
       "Name": "Rumble in the Jumble",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -363,17 +368,17 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "EARN_FLORINS_1",
       "SetID": "9eia0f5",
       "Name": "Higher Tax Bracket",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -395,9 +400,9 @@
       "ID": "MAKE_FRIENDS_1",
       "SetID": "9eia0f5",
       "Name": "Chatty Neighbor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -405,7 +410,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -427,7 +432,7 @@
       "ID": "UPGRADE_ALLSKILLSMAX",
       "SetID": "9eia0f5",
       "Name": "Very Skilled",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -435,7 +440,7 @@
       "ID": "UPGRADE_ALLTOOLSMAX",
       "SetID": "9eia0f5",
       "Name": "Right Tool For the Job",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 12
     },
@@ -445,7 +450,7 @@
       "Name": "Captain of Cozy",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -459,23 +464,23 @@
       "ID": "UPGRADE_ONESKILLMAX",
       "SetID": "9eia0f5",
       "Name": "Skilled",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 166,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-08T21:06:10.3085036+00:00",
+  "LastChanged_Achievements": "2023-09-08T22:05:20.7804491+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:57:07.7146184+00:00",
-  "LastUpdate_Ratings": "2023-09-08T20:58:57.9906917+00:00",
-  "LastUpdate_Achievements": "2023-09-08T21:06:10.3085305+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:58:31.3503432+00:00",
+  "LastUpdate_Achievements": "2023-09-08T22:05:20.7804763+00:00"
 }

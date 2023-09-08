@@ -8,7 +8,7 @@
 | Gear Up | 68.00% | ~42 |
 | A Grand Show | 68.00% | ~42 |
 | Freshen Up | 58.00% | ~36 |
-| GG EZ | 56.00% | ~35 |
+| GG EZ | 58.00% | ~36 |
 | Hydrophobia | 42.00% | ~26 |
 | Ka-Ching! | 34.00% | ~21 |
 | Stop Right There | 34.00% | ~21 |
@@ -20,10 +20,11 @@
 | Grand Escape | 13.00% | ~8 |
 | Space Warrior: Prologue | 11.00% | ~7 |
 | The Abyss Conqueror | 10.00% | ~6 |
-| Keep it Up, rookie! | 8.00% | ~5 |
+| Keep it Up, rookie! | 10.00% | ~6 |
 | Decapitation Strike | 8.00% | ~5 |
 | The Fortress Conqueror | 6.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~4 |
+| Rapidfire | 6.00% | ~4 |
 | Antaeus | 6.00% | ~4 |
 | Air Interception | 6.00% | ~4 |
 | The Deep Frozen Conqueror | 5.00% | ~3 |
@@ -34,7 +35,6 @@
 | Death Bringer Conqueror | 5.00% | ~3 |
 | he Ultra Fortress Conqueror | 5.00% | ~3 |
 | Space Ranger: Prologue | 5.00% | ~3 |
-| Rapidfire | 5.00% | ~3 |
 | Hell of a Fight | 5.00% | ~3 |
 | The Sunken City Conqueror | 3.00% | ~2 |
 | The Looping Space Conqueror | 3.00% | ~2 |

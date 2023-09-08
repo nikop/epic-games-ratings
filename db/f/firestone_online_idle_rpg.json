@@ -274,7 +274,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1914,
+  "EOS_Progressed": 1915,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -5459,6 +5459,11 @@
       "Time": "2023-09-08T21:06:05.2434067+00:00",
       "NumProgressed": 1914,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T22:05:16.5911086+00:00",
+      "NumProgressed": 1915,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5558,7 +5563,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "doingmypart",
@@ -5572,9 +5577,9 @@
       "ID": "dragonclicker",
       "SetID": "3nl4bcg",
       "Name": "Dragon Clicker",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 326
     },
     {
       "ID": "dragonmaster",
@@ -5662,7 +5667,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "frostfireliberator",
@@ -5670,7 +5675,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "fullparty",
@@ -5702,7 +5707,7 @@
       "Name": "Guild Power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "herewegoagain",
@@ -5742,7 +5747,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "jewelenchanting",
@@ -5806,7 +5811,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "missionsdedication",
@@ -5822,7 +5827,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "mysteriousrock",
@@ -5902,7 +5907,7 @@
       "Name": "Scroll Master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "silverwoodliberator",
@@ -5926,7 +5931,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "thealchemist",
@@ -6030,7 +6035,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "warmachinesarmy",
@@ -6062,14 +6067,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1914,
+      "Progressed": 1915,
       "Completed": 2
     }
   ],
@@ -6077,8 +6082,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T18:00:36.5525553+00:00",
-  "LastChanged_Achievements": "2023-09-08T21:06:05.243406+00:00",
+  "LastChanged_Achievements": "2023-09-08T22:05:16.5911082+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-08T21:00:21.5142468+00:00",
-  "LastUpdate_Achievements": "2023-09-08T21:06:05.2435474+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:59:42.7376203+00:00",
+  "LastUpdate_Achievements": "2023-09-08T22:05:16.5911921+00:00"
 }

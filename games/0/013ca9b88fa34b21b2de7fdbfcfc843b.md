@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 65.00% | ~98 |
-| A Thorny Situation | 58.00% | ~88 |
-| Break-Net Speed | 34.00% | ~51 |
-| ... And Spit Back Out | 32.00% | ~48 |
-| Bramble Breaker | 17.00% | ~26 |
-| Humble Collector | 15.00% | ~23 |
-| Calm Sailing | 10.00% | ~15 |
-| Chatty Neighbor | 9.00% | ~14 |
-| Open the Gate! | 8.00% | ~12 |
-| Right Tool For the Job | 8.00% | ~12 |
-| Clear the Air | 7.00% | ~11 |
-| Mist Walker | 7.00% | ~11 |
-| Captain of Cozy | 7.00% | ~11 |
-| Oui, Chef! | 6.00% | ~9 |
+| Azoria Beckons | 66.00% | ~110 |
+| A Thorny Situation | 56.00% | ~93 |
+| Break-Net Speed | 36.00% | ~60 |
+| ... And Spit Back Out | 32.00% | ~53 |
+| Humble Collector | 16.00% | ~27 |
+| Bramble Breaker | 16.00% | ~27 |
+| Calm Sailing | 9.00% | ~15 |
+| Chatty Neighbor | 8.00% | ~13 |
+| Open the Gate! | 7.00% | ~12 |
+| Miner 49er | 7.00% | ~12 |
+| Right Tool For the Job | 7.00% | ~12 |
+| Captain of Cozy | 7.00% | ~12 |
+| Clear the Air | 6.00% | ~10 |
+| Mist Walker | 6.00% | ~10 |
+| Oui, Chef! | 6.00% | ~10 |
 | Search for the Hairy Grell | 5.00% | ~8 |
 | Lumberjack | 5.00% | ~8 |
-| Miner 49er | 5.00% | ~8 |
-| Higher Tax Bracket | 5.00% | ~8 |
 | Azorian Anniversary | 5.00% | ~8 |
 | House Proud | 5.00% | ~8 |
-| Skilled | 5.00% | ~8 |
+| Higher Tax Bracket | 4.00% | ~7 |
+| Skilled | 4.00% | ~7 |
 | Flaming Hot Completos | 3.00% | ~5 |
 | Fae Farmer | 3.00% | ~5 |
 | Beach Comber | 2.00% | ~3 |
@@ -32,15 +32,15 @@
 | Botanical Breakthrough | 2.00% | ~3 |
 | Scattered Scroll Scrounger | 1.00% | ~2 |
 | I Now Pronounce You... | 1.00% | ~2 |
-| Cloverfield Island | 0.70% | ~1 |
-| Got to Catch Them All | 0.70% | ~1 |
-| Workaholic | 0.70% | ~1 |
-| Giving the People What They Want | 0.70% | ~1 |
-| Rumble in the Jumble | 0.70% | ~1 |
-| Very Skilled | 0.70% | ~1 |
+| Cloverfield Island | 0.60% | ~1 |
+| Got to Catch Them All | 0.60% | ~1 |
+| Workaholic | 0.60% | ~1 |
+| Giving the People What They Want | 0.60% | ~1 |
+| Rumble in the Jumble | 0.60% | ~1 |
+| Very Skilled | 0.60% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151 (Ranked 323)  
+Progressed: 166 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,4 +55,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-08-29 | 19 | 0 |
 | 2023-09-01 | 22 | 0 |
 | 2023-09-06 | 29 | 0 |
-| 2023-09-08 | 151 | 0 |
+| 2023-09-08 | 166 | 0 |

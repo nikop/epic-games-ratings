@@ -6,23 +6,23 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,344 |
-| I'll Be Back | 85.00% | ~3,928 |
-| Sorry, I Dropped This | 77.00% | ~3,558 |
-| First Day on the Job | 77.00% | ~3,558 |
+| On My Own Two Feet | 94.00% | ~4,345 |
+| I'll Be Back | 85.00% | ~3,929 |
+| Sorry, I Dropped This | 77.00% | ~3,559 |
+| First Day on the Job | 77.00% | ~3,559 |
 | Butcher's Bill | 55.00% | ~2,542 |
 | P.A.X | 38.00% | ~1,756 |
 | Hey Listen | 37.00% | ~1,710 |
 | OPERATOR | 36.00% | ~1,664 |
 | It's Blue Light | 33.00% | ~1,525 |
-| Most Wanted | 26.00% | ~1,201 |
+| Most Wanted | 26.00% | ~1,202 |
 | Infidel | 23.00% | ~1,063 |
-| GOLIATH | 21.00% | ~970 |
+| GOLIATH | 21.00% | ~971 |
 | Firebug | 20.00% | ~924 |
 | I Choose You | 18.00% | ~832 |
 | Nothing to Lose | 18.00% | ~832 |
-| Big Sister | 16.00% | ~739 |
-| SENTINEL | 16.00% | ~739 |
+| Big Sister | 16.00% | ~740 |
+| SENTINEL | 16.00% | ~740 |
 | Gear Up | 15.00% | ~693 |
 | Core Power | 13.00% | ~601 |
 | The Black Cerberus | 12.00% | ~555 |
@@ -38,10 +38,10 @@ Number of Ratings: 62  (23.09.2022)
 | Pusher Man | 8.00% | ~370 |
 | Squad Chief Helvig | 8.00% | ~370 |
 | No More Marching | 8.00% | ~370 |
-| Duty-Bound | 7.00% | ~323 |
-| Follow the White Rabbit | 7.00% | ~323 |
-| Liberation | 7.00% | ~323 |
-| Risk Assessment | 7.00% | ~323 |
+| Duty-Bound | 7.00% | ~324 |
+| Follow the White Rabbit | 7.00% | ~324 |
+| Liberation | 7.00% | ~324 |
+| Risk Assessment | 7.00% | ~324 |
 | Sunglasses at Night | 6.00% | ~277 |
 | Carbon Cat | 6.00% | ~277 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~231 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~28 |
 | The Surge | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,621 (Ranked 151)  
+Progressed: 4,622 (Ranked 152)  
 Completed: 16 (0.35%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 16 (0.35%) (Ranked 172)
 | 2023-08-30 | 4,616 | 16 |
 | 2023-09-03 | 4,620 | 16 |
 | 2023-09-05 | 4,621 | 16 |
+| 2023-09-08 | 4,622 | 16 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 466)  
 Sum: 29 (Ranked 481)  

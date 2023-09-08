@@ -32,8 +32,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~456 |
 | Friendly Imps | 0.20% | ~456 |
 | Pure Energy | 0.20% | ~456 |
-| Legends and Lore | 0.20% | ~388 |
-| The End | 0.20% | ~388 |
+| Legends and Lore | 0.20% | ~389 |
+| The End | 0.20% | ~389 |
 | Pros and CONs | 0.10% | ~228 |
 | Upholding the Law | 0.10% | ~228 |
 | Starving in the Jungle | 0.10% | ~228 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,974 (Ranked 54)  
+Progressed: 227,979 (Ranked 54)  
 Completed: 2,263 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -668,7 +668,7 @@ Completed: 2,263 (0.99%) (Ranked 124)
 | 2023-09-05 | 227,381 | 2,254 |
 | 2023-09-06 | 227,606 | 2,257 |
 | 2023-09-07 | 227,831 | 2,259 |
-| 2023-09-08 | 227,974 | 2,263 |
+| 2023-09-08 | 227,979 | 2,263 |
 ## Awards
 Max (Diverse Characters): 5,246  (Ranked 67)  
 Sum: 31,478 (Ranked 38)  

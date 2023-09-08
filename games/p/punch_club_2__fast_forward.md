@@ -46,18 +46,18 @@
 | Deal with life | 41.00% | ~131 |
 | Underground dwellers | 41.00% | ~131 |
 | Mom got better | 40.00% | ~128 |
+| GYM professional | 40.00% | ~128 |
 | Get out of my apartment! | 40.00% | ~128 |
 | The die is cast | 40.00% | ~128 |
-| GYM professional | 39.00% | ~125 |
 | Poisoned fighter | 39.00% | ~125 |
 | Seashell hunter | 38.00% | ~122 |
 | Gang wrangler | 37.00% | ~118 |
 | Your own way | 36.00% | ~115 |
 | Problems of cyborgs | 35.00% | ~112 |
 | Undercover robot | 35.00% | ~112 |
+| Not little hacker | 34.00% | ~109 |
 | Absolute Champion! | 34.00% | ~109 |
 | Anyone can resist | 34.00% | ~109 |
-| Not little hacker | 33.00% | ~106 |
 | The last bell ring | 33.00% | ~106 |
 | Careerist | 33.00% | ~106 |
 | Trap disarmed | 32.00% | ~102 |

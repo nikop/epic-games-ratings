@@ -12,12 +12,12 @@
 | Thick Skin | 68.00% | ~122 |
 | Math Wizard | 66.00% | ~119 |
 | Destroy Erase Improve | 66.00% | ~119 |
-| Power Overload | 62.00% | ~112 |
+| Power Overload | 63.00% | ~113 |
 | Quite A Snack | 59.00% | ~106 |
 | Impenetrable Skin | 57.00% | ~103 |
 | Overwhelming Power | 56.00% | ~101 |
+| Supreme Power | 45.00% | ~81 |
 | Chomp Chomp! | 45.00% | ~81 |
-| Supreme Power | 44.00% | ~79 |
 | The Duelist | 42.00% | ~76 |
 | Diaper Time! | 42.00% | ~76 |
 | Target Practice | 42.00% | ~76 |
@@ -28,8 +28,8 @@
 | Final Evolution | 32.00% | ~58 |
 | Godlike Power | 31.00% | ~56 |
 | Undying Skin | 31.00% | ~56 |
+| Happy Little Home | 31.00% | ~56 |
 | You Shall Not Pass | 30.00% | ~54 |
-| Happy Little Home | 30.00% | ~54 |
 | Animal Lover | 29.00% | ~52 |
 | Fight Me! | 29.00% | ~52 |
 | Mommy's Very Angry | 28.00% | ~50 |

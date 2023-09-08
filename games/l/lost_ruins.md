@@ -34,9 +34,9 @@
 | Marksman | 3.00% | ~13 |
 | Meat Lover | 2.00% | ~9 |
 | Sling of David | 2.00% | ~9 |
+| Sword Master | 2.00% | ~9 |
 | Roughneck | 1.00% | ~4 |
 | Rune Master | 1.00% | ~4 |
-| Sword Master | 1.00% | ~4 |
 | Weapon Master | 1.00% | ~4 |
 | Witch | 1.00% | ~4 |
 | Assassin | 0.90% | ~4 |

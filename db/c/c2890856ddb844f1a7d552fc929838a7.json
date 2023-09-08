@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 731,
+  "EOS_Progressed": 732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1240,6 +1240,11 @@
       "Time": "2023-09-08T15:03:51.6603506+00:00",
       "NumProgressed": 731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-08T22:04:09.5348959+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1260,7 +1265,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "AC02",
@@ -1268,7 +1273,7 @@
       "Name": "Blood and Dust",
       "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "AC03",
@@ -1276,7 +1281,7 @@
       "Name": "Blood and Gold",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "AC04",
@@ -1292,7 +1297,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "AC06",
@@ -1308,15 +1313,15 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 373
     },
     {
       "ID": "AC09",
@@ -1356,7 +1361,7 @@
       "Name": "Second Psalm.",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "AC14",
@@ -1394,9 +1399,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 315
     },
     {
       "ID": "AC19",
@@ -1418,9 +1423,9 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 168
     },
     {
       "ID": "AC22",
@@ -1484,7 +1489,7 @@
       "Name": "The Veteran One",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "AC30",
@@ -1492,7 +1497,7 @@
       "Name": "The Anointed One",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "AC31",
@@ -1516,7 +1521,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "AC34",
@@ -1564,7 +1569,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AC40",
@@ -1572,7 +1577,7 @@
       "Name": "Welcome Back!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "AC41",
@@ -1619,7 +1624,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 731,
+      "Progressed": 732,
       "Completed": 0
     }
   ],
@@ -1627,8 +1632,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-08T02:59:41.4444116+00:00",
-  "LastChanged_Achievements": "2023-09-08T21:04:45.7910471+00:00",
+  "LastChanged_Achievements": "2023-09-08T22:04:09.5348953+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-08T20:58:30.3468868+00:00",
-  "LastUpdate_Achievements": "2023-09-08T21:04:45.7910936+00:00"
+  "LastUpdate_Ratings": "2023-09-08T21:58:06.4295809+00:00",
+  "LastUpdate_Achievements": "2023-09-08T22:04:09.5349293+00:00"
 }

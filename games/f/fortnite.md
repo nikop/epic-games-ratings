@@ -1,22 +1,22 @@
 # Fortnite
 [Store](https://store.epicgames.com/en-US/p/fortnite)  
 [View Rawdata](../../db/f/fortnite.json)  
-Rating: 4.29 (Ranked 805)  
+Rating: 4.29 (Ranked 804)  
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Awards
-Max (Competitive Players): 1,663,713  (Ranked 1)  
-Sum: 11,918,042 (Ranked 1)  
+Max (Competitive Players): 1,667,430  (Ranked 1)  
+Sum: 11,940,805 (Ranked 1)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 1,663,713 |
-| This game has Quickly Understood Controls | 1,598,373 |
-| This game is Extremely Fun | 1,566,280 |
-| This game has Diverse Characters | 1,544,275 |
-| This game has Amazing Storytelling | 1,464,961 |
-| This game has Amazing Characters | 1,449,030 |
-| This game is Highly Recommended | 1,430,950 |
-| This game has a Competitive Community | 1,200,460 |
+| This game has Competitive Players | 1,667,430 |
+| This game has Quickly Understood Controls | 1,598,785 |
+| This game is Extremely Fun | 1,569,641 |
+| This game has Diverse Characters | 1,547,728 |
+| This game has Amazing Storytelling | 1,468,007 |
+| This game has Amazing Characters | 1,452,135 |
+| This game is Highly Recommended | 1,434,028 |
+| This game has a Competitive Community | 1,203,051 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -245,4 +245,4 @@ Diff (max vs sum): 0
 | 2023-09-05 | 4.29 | - | 1,657,006 | 11,868,654 |
 | 2023-09-06 | 4.29 | - | 1,660,375 | 11,892,011 |
 | 2023-09-07 | 4.29 | - | 1,663,713 | 11,915,007 |
-| 2023-09-08 | 4.29 | - | 1,663,713 | 11,918,042 |
+| 2023-09-08 | 4.29 | - | 1,667,430 | 11,940,805 |

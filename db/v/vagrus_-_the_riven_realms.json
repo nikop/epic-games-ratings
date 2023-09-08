@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -497,9 +497,9 @@
       "ID": "Vanilla_AllBounties",
       "SetID": "27kik8p",
       "Name": "Bounty Hunter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_AndtheSkyFullofStars",
@@ -713,9 +713,9 @@
       "ID": "Vanilla_DistantFreshNews",
       "SetID": "27kik8p",
       "Name": "Harbinger",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Vanilla_DistantLocationTimed",
@@ -1105,9 +1105,9 @@
       "ID": "Vanilla_SpiritIdol",
       "SetID": "27kik8p",
       "Name": "Life... Finds a Way",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Vanilla_TasksCompleted",
@@ -1258,8 +1258,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-08T21:05:55.7655824+00:00",
+  "LastChanged_Achievements": "2023-09-08T22:05:07.7797023+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:44.6615158+00:00",
-  "LastUpdate_Ratings": "2023-09-08T21:01:43.3597699+00:00",
-  "LastUpdate_Achievements": "2023-09-08T21:05:55.765731+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:00:46.0747862+00:00",
+  "LastUpdate_Achievements": "2023-09-08T22:05:07.7798469+00:00"
 }

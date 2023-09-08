@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -336,9 +336,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5162,
+  "EOS_Progressed": 5163,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6061,6 +6061,11 @@
       "Time": "2023-09-08T20:04:52.3116627+00:00",
       "NumProgressed": 5162,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-08T22:04:31.7997452+00:00",
+      "NumProgressed": 5163,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6072,7 +6077,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "10",
@@ -6224,7 +6229,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "28",
@@ -6256,7 +6261,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "31",
@@ -6304,7 +6309,7 @@
       "Name": "Fiery Friend",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "37",
@@ -6312,7 +6317,7 @@
       "Name": "Against the Odds",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "38",
@@ -6328,7 +6333,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "4",
@@ -6471,13 +6476,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5162,
+      "Progressed": 5163,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5162,
+      "Progressed": 5163,
       "Completed": 6
     }
   ],
@@ -6485,8 +6490,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-08T21:05:12.2809433+00:00",
+  "LastChanged_Achievements": "2023-09-08T22:04:31.7997447+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.1912203+00:00",
-  "LastUpdate_Ratings": "2023-09-08T21:02:04.1906288+00:00",
-  "LastUpdate_Achievements": "2023-09-08T21:05:12.2810248+00:00"
+  "LastUpdate_Ratings": "2023-09-08T22:01:04.0389427+00:00",
+  "LastUpdate_Achievements": "2023-09-08T22:04:31.7998062+00:00"
 }

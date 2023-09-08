@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~543 |
-| A tiny town | 86.00% | ~482 |
-| Buildings, roads, cars, ...and people | 66.00% | ~370 |
-| Great view from the beach and from the hill | 56.00% | ~314 |
-| Bridges to come and go | 49.00% | ~274 |
-| Found an oasis | 42.00% | ~235 |
-| Burger or pizza? | 38.00% | ~213 |
-| Passion for sports | 32.00% | ~179 |
+| Welcome! | 97.00% | ~545 |
+| A tiny town | 86.00% | ~483 |
+| Buildings, roads, cars, ...and people | 66.00% | ~371 |
+| Great view from the beach and from the hill | 55.00% | ~309 |
+| Bridges to come and go | 49.00% | ~275 |
+| Found an oasis | 42.00% | ~236 |
+| Burger or pizza? | 38.00% | ~214 |
+| Passion for sports | 32.00% | ~180 |
 | Who loves trains? | 28.00% | ~157 |
-| Easy and steady climb | 27.00% | ~151 |
-| At the heart of the city | 24.00% | ~134 |
-| Calm neighborhood | 22.00% | ~123 |
+| Easy and steady climb | 27.00% | ~152 |
+| At the heart of the city | 24.00% | ~135 |
+| Calm neighborhood | 22.00% | ~124 |
 | Elevated ring | 21.00% | ~118 |
 | Not lonely anymore | 20.00% | ~112 |
-| Monumental tribute | 19.00% | ~106 |
+| Monumental tribute | 19.00% | ~107 |
 | The beach is right there | 18.00% | ~101 |
 | Commuting | 18.00% | ~101 |
 | Le jardin magnifique | 18.00% | ~101 |
-| Aiming for a living and human city | 17.00% | ~95 |
+| Aiming for a living and human city | 17.00% | ~96 |
 | City of dreams | 16.00% | ~90 |
 | Happy Christmas night! | 16.00% | ~90 |
 | Night walk along the beach | 16.00% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 560 (Ranked 235)  
-Completed: 91 (16.25%) (Ranked 18)  
+Progressed: 562 (Ranked 234)  
+Completed: 91 (16.19%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,7 +145,7 @@ Completed: 91 (16.25%) (Ranked 18)
 | 2023-09-05 | 476 | 88 |
 | 2023-09-06 | 486 | 88 |
 | 2023-09-07 | 507 | 88 |
-| 2023-09-08 | 560 | 91 |
+| 2023-09-08 | 562 | 91 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

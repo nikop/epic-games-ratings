@@ -24,13 +24,13 @@ Number of Ratings: 285  (23.09.2022)
 | Season Finale | 1.00% | ~12 |
 | Spending Spree | 1.00% | ~12 |
 | Next Time on MythForce... | 0.70% | ~9 |
-| On this Episode! | 0.70% | ~9 |
 | The Fourth Gate | 0.60% | ~7 |
+| On this Episode! | 0.60% | ~7 |
 | We've Got a Kaiju on the Field | 0.20% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,230 (Ranked 198)  
+Progressed: 1,231 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,10 +85,10 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-05 | 1,177 | 0 |
 | 2023-09-06 | 1,193 | 0 |
 | 2023-09-07 | 1,210 | 0 |
-| 2023-09-08 | 1,230 | 0 |
+| 2023-09-08 | 1,231 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
-Sum: 255 (Ranked 354)  
+Sum: 256 (Ranked 354)  
 Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
@@ -98,7 +98,7 @@ Diff (max vs sum): 102
 | This game has Quickly Understood Controls | 26 |
 | This game has Unique Visuals | 26 |
 | This game has Diverse Characters | 25 |
-| This game has Challenging Combat | 24 |
+| This game has Challenging Combat | 25 |
 | This game has Amazing Storytelling | 23 |
 | This game is Relaxing | 21 |
 | This game is Extremely Fun | 20 |
@@ -180,3 +180,4 @@ Diff (max vs sum): 102
 | 2023-07-26 | 4.49 | - | 32 | 226 |
 | 2023-08-19 | 4.49 | - | 32 | 254 |
 | 2023-09-07 | 4.49 | - | 32 | 255 |
+| 2023-09-08 | 4.49 | - | 32 | 256 |
