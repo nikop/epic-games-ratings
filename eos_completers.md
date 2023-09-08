@@ -15,11 +15,11 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 16 | [Island Cities](games/i/island_cities.md) | 16.89% |
+| 16 | [Island Cities](games/i/island_cities.md) | 16.82% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
-| 19 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 13.33% |
-| 20 | [Remains](games/r/remains.md) | 12.50% |
+| 19 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 12.50% |
+| 19 | [Remains](games/r/remains.md) | 12.50% |
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
@@ -47,7 +47,7 @@
 | 45 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 46 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 47 | [JARS](games/j/jars.md) | 5.80% |
-| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
+| 48 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.56% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.38% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
@@ -61,7 +61,7 @@
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.05% |
 | 61 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.01% |
-| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.98% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.97% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.39% |
@@ -133,11 +133,11 @@
 | 131 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 132 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 133 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
-| 134 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.69% |
-| 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
-| 136 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
-| 137 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
-| 137 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.65% |
+| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.70% |
+| 135 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.69% |
+| 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
+| 137 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
+| 138 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 139 | [Haven](games/h/haven.md) | 0.63% |
 | 139 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.63% |
 | 141 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
