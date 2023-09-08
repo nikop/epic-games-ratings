@@ -4,7 +4,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.22% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.90% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.89% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.65% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
@@ -12,15 +12,15 @@
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.87% |
-| 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
+| 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.28% |
+| 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 17 | [Island Cities](games/i/island_cities.md) | 16.36% |
+| 17 | [Island Cities](games/i/island_cities.md) | 16.19% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Remains](games/r/remains.md) | 12.50% |
-| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
+| 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 22 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 11.76% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
@@ -28,7 +28,7 @@
 | 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.93% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.87% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.41% |
-| 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.34% |
+| 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 9.01% |
@@ -136,7 +136,7 @@
 | 134 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 135 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.68% |
 | 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
-| 135 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.68% |
+| 137 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.67% |
 | 138 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 138 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 140 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
