@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -1183,9 +1183,9 @@
       "ID": "expedition",
       "SetID": "ap7g2g4",
       "Name": "Expedition",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 202
     },
     {
       "ID": "fish_trade",
@@ -1311,9 +1311,9 @@
       "ID": "wheat_farm",
       "SetID": "ap7g2g4",
       "Name": "Wheat farm",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "wood",
@@ -1334,8 +1334,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:05:40.3106662+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:09:26.3630959+00:00",
   "LastUpdate_AppInfo": "2023-09-07T19:57:25.3758044+00:00",
-  "LastUpdate_Ratings": "2023-09-08T11:58:26.156063+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:05:40.3106983+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:02:36.6380603+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:09:26.3631189+00:00"
 }

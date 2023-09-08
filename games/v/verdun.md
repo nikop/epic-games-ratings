@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~44,849 |
-| Worth it | 63.00% | ~36,224 |
-| Eagle Eye | 55.00% | ~31,624 |
-| Corpseman I | 40.00% | ~23,000 |
-| Blast fishing | 37.00% | ~21,275 |
-| Not alone | 32.00% | ~18,400 |
-| Headhunter I | 27.00% | ~15,525 |
-| Manual Labour I | 25.00% | ~14,375 |
-| Developers, Developers, Developers | 24.00% | ~13,800 |
-| Basic Training | 24.00% | ~13,800 |
-| Furchtlos und Treu | 13.00% | ~7,475 |
+| Setting an example | 78.00% | ~44,853 |
+| Worth it | 63.00% | ~36,228 |
+| Eagle Eye | 55.00% | ~31,627 |
+| Corpseman I | 40.00% | ~23,002 |
+| Blast fishing | 37.00% | ~21,276 |
+| Not alone | 32.00% | ~18,401 |
+| Headhunter I | 27.00% | ~15,526 |
+| Manual Labour I | 25.00% | ~14,376 |
+| Developers, Developers, Developers | 24.00% | ~13,801 |
+| Basic Training | 24.00% | ~13,801 |
+| Furchtlos und Treu | 13.00% | ~7,476 |
 | Gott Mit Uns | 12.00% | ~6,900 |
 | This We'll Defend! | 9.00% | ~5,175 |
 | Anker wirf! | 9.00% | ~5,175 |
@@ -52,21 +52,21 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~575 |
 | Corpseman III | 1.00% | ~575 |
 | Elite Player | 0.80% | ~460 |
-| Manual Labour III | 0.30% | ~172 |
+| Manual Labour III | 0.30% | ~173 |
 | War is better with friends II | 0.20% | ~115 |
 | Buddy | 0.20% | ~115 |
-| Gold Collector | 0.10% | ~57 |
-| Gold Hoarder | 0.10% | ~57 |
-| Silver Collector | 0.10% | ~57 |
-| Silver Hoarder | 0.10% | ~57 |
-| War is better with friends III | 0.10% | ~57 |
-| War is better with friends IV | 0.10% | ~57 |
-| Aimbot | 0.10% | ~57 |
-| Headhunter III | 0.10% | ~57 |
-| Comrade | 0.10% | ~57 |
-| Blood Brother | 0.10% | ~57 |
+| Gold Collector | 0.10% | ~58 |
+| Gold Hoarder | 0.10% | ~58 |
+| Silver Collector | 0.10% | ~58 |
+| Silver Hoarder | 0.10% | ~58 |
+| War is better with friends III | 0.10% | ~58 |
+| War is better with friends IV | 0.10% | ~58 |
+| Aimbot | 0.10% | ~58 |
+| Headhunter III | 0.10% | ~58 |
+| Comrade | 0.10% | ~58 |
+| Blood Brother | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,499 (Ranked 89)  
+Progressed: 57,504 (Ranked 89)  
 Completed: 4 (0.01%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 4 (0.01%) (Ranked 256)
 | 2023-09-05 | 57,327 | 4 |
 | 2023-09-06 | 57,397 | 4 |
 | 2023-09-07 | 57,459 | 4 |
-| 2023-09-08 | 57,499 | 4 |
+| 2023-09-08 | 57,504 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 343)  
 Sum: 772 (Ranked 268)  

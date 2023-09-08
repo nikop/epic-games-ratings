@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -164,11 +164,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 685,
+  "EOS_Progressed": 686,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.61,
+  "EOS_Completed_Percentage": 8.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -294,6 +294,11 @@
       "Time": "2023-08-30T20:05:13.4939996+00:00",
       "NumProgressed": 685,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-09-08T13:10:38.589768+00:00",
+      "NumProgressed": 686,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 50,
@@ -305,7 +310,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -329,7 +334,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -369,7 +374,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -385,7 +390,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -393,7 +398,7 @@
       "Name": "The Go-To Girl",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -481,7 +486,7 @@
       "Name": "Armor Master",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -489,7 +494,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -497,7 +502,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -513,7 +518,7 @@
       "Name": "Natural Born Monster-Killer",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -537,7 +542,7 @@
       "Name": "Gourmand",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT031",
@@ -545,7 +550,7 @@
       "Name": "Accessorizer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT032",
@@ -561,7 +566,7 @@
       "Name": "Rune Scholar",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -577,7 +582,7 @@
       "Name": "First Time Fishing",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -601,7 +606,7 @@
       "Name": "Fishing Master",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHIEVEMENT039",
@@ -633,7 +638,7 @@
       "Name": "The Quarry...On Foot!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -673,7 +678,7 @@
       "Name": "Champion of the Quarry",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT048",
@@ -681,7 +686,7 @@
       "Name": "Champion of the Snowpeak",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT049",
@@ -689,7 +694,7 @@
       "Name": "Champion of the Lava Ruins",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT050",
@@ -704,15 +709,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 685,
+      "Progressed": 686,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:07:06.1803229+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:10:38.5897675+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:25.377972+00:00",
-  "LastUpdate_Ratings": "2023-09-08T11:57:16.0389311+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:07:06.1803841+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:01:37.9666945+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:10:38.5898168+00:00"
 }

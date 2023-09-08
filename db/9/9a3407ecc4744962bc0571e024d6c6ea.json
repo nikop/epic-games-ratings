@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1126,9 +1126,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 268
     },
     {
       "ID": "BostonHayDay",
@@ -1166,9 +1166,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 239
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -1214,9 +1214,9 @@
       "ID": "MiCasaSuCasa",
       "SetID": "3ai6ml8",
       "Name": "Mi Casa Su Casa",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 169
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -1293,8 +1293,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:07:00.2909907+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:10:33.9148872+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.967565+00:00",
-  "LastUpdate_Ratings": "2023-09-08T12:01:31.2996195+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:07:00.2910335+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:05:25.5512676+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:10:33.9149103+00:00"
 }

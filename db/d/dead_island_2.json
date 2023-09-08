@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4252,10 +4252,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8779,
       "NumberOfAwardsMax": 5945
+    },
+    {
+      "Time": "2023-09-08T13:03:56.3863859+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8782,
+      "NumberOfAwardsMax": 5945
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8779,
+  "NumberOfAwards": 8782,
   "NumberOfAwardsMax": 5945,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4293,7 +4299,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 312
+      "Count": 315
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4314,9 +4320,9 @@
       "Count": 343
     }
   ],
-  "EOS_Progressed": 675587,
+  "EOS_Progressed": 675615,
   "EOS_Completed": 2121,
-  "EOS_NewPlayers": 4937,
+  "EOS_NewPlayers": 4930,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20074,6 +20080,11 @@
       "Time": "2023-09-08T12:06:59.4459727+00:00",
       "NumProgressed": 675587,
       "NumCompleted": 2121
+    },
+    {
+      "Time": "2023-09-08T13:10:33.3543619+00:00",
+      "NumProgressed": 675615,
+      "NumCompleted": 2121
     }
   ],
   "TotalAchievements": 45,
@@ -20197,7 +20208,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6080
+      "UsersEstimate": 6081
     },
     {
       "ID": "ach_finisher",
@@ -20213,7 +20224,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6080
+      "UsersEstimate": 6081
     },
     {
       "ID": "ach_good_eyesight",
@@ -20293,15 +20304,15 @@
       "Name": "Zombologist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6080
+      "UsersEstimate": 6081
     },
     {
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4729
+      "UsersEstimate": 5405
     },
     {
       "ID": "ach_magnum_opus",
@@ -20317,7 +20328,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6080
+      "UsersEstimate": 6081
     },
     {
       "ID": "ach_mind_over_monster",
@@ -20444,22 +20455,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 675587,
+      "Progressed": 675615,
       "Completed": 2121
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 1127,
-      "Completed": 1127
+      "Progressed": 1155,
+      "Completed": 1155
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-08T11:00:31.9885112+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:06:59.4459721+00:00",
+  "LastChanged": "2023-09-08T13:03:56.3863856+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:10:33.3543611+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-08T11:59:54.2833724+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:06:59.4461795+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:03:56.3863866+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:10:33.3547321+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 40.00% | ~557 |
 | Me and My Familiar | 37.00% | ~515 |
-| This Too Shall Pass | 32.00% | ~445 |
+| This Too Shall Pass | 32.00% | ~446 |
 | Cutthroat Competitors | 31.00% | ~432 |
 | Passing Shadow | 30.00% | ~418 |
 | How Romantic! | 28.00% | ~390 |
@@ -26,8 +26,8 @@ Number of Ratings: 45  (23.09.2022)
 | Chain Reaction | 8.00% | ~111 |
 | Everfading | 8.00% | ~111 |
 | Another Tale to Tell | 8.00% | ~111 |
-| Let Me Get My Chisel | 7.00% | ~97 |
-| A Story of Heroes | 7.00% | ~97 |
+| Let Me Get My Chisel | 7.00% | ~98 |
+| A Story of Heroes | 7.00% | ~98 |
 | Legends Never Die | 6.00% | ~84 |
 | All My Birds, Safely Home | 6.00% | ~84 |
 | Turncoat | 6.00% | ~84 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | We Call That Mortificient! | 0.90% | ~13 |
 | Peacemaker | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,392 (Ranked 193)  
+Progressed: 1,393 (Ranked 193)  
 Completed: 5 (0.36%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 5 (0.36%) (Ranked 168)
 | 2023-09-05 | 1,390 | 5 |
 | 2023-09-06 | 1,391 | 5 |
 | 2023-09-07 | 1,392 | 5 |
+| 2023-09-08 | 1,393 | 5 |
 ## Awards
 Max (Character Customization): 28  (Ranked 469)  
 Sum: 28 (Ranked 484)  

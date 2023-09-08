@@ -5,31 +5,31 @@ Rating: 4.77 (Ranked 110)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,421 |
-| First Class Student | 13.00% | ~38,462 |
-| Troll with the Punches | 12.00% | ~35,504 |
-| A Keen Sense of Spell | 11.00% | ~32,545 |
-| That's a Keeper | 11.00% | ~32,545 |
-| Grappling with a Graphorn | 10.00% | ~29,586 |
-| The One Who Mastered Memories | 10.00% | ~29,586 |
-| The Hallowed Hero | 10.00% | ~29,586 |
-| The Defender of Dragons | 10.00% | ~29,586 |
-| Loom for Improvement | 10.00% | ~29,586 |
-| A Talent for Spending | 10.00% | ~29,586 |
-| Coasting Along | 10.00% | ~29,586 |
-| The Hero of Hogwarts | 9.00% | ~26,628 |
-| Challenge Accepted | 9.00% | ~26,628 |
-| Followed the Butterflies | 9.00% | ~26,628 |
-| The Spell Master | 8.00% | ~23,669 |
-| Rising From the Ashes | 8.00% | ~23,669 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,423 |
+| First Class Student | 13.00% | ~38,464 |
+| Troll with the Punches | 12.00% | ~35,505 |
+| A Keen Sense of Spell | 11.00% | ~32,546 |
+| That's a Keeper | 11.00% | ~32,546 |
+| Grappling with a Graphorn | 10.00% | ~29,588 |
+| The One Who Mastered Memories | 10.00% | ~29,588 |
+| The Hallowed Hero | 10.00% | ~29,588 |
+| The Defender of Dragons | 10.00% | ~29,588 |
+| Loom for Improvement | 10.00% | ~29,588 |
+| A Talent for Spending | 10.00% | ~29,588 |
+| Coasting Along | 10.00% | ~29,588 |
+| The Hero of Hogwarts | 9.00% | ~26,629 |
+| Challenge Accepted | 9.00% | ~26,629 |
+| Followed the Butterflies | 9.00% | ~26,629 |
+| The Spell Master | 8.00% | ~23,670 |
+| Rising From the Ashes | 8.00% | ~23,670 |
 | The Avenging Gazelle | 7.00% | ~20,711 |
 | Beast Friends | 7.00% | ~20,711 |
 | A Sallow Grave | 7.00% | ~20,711 |
 | Flight the Good Flight | 7.00% | ~20,711 |
-| The Seeker of Knowledge | 5.00% | ~14,793 |
-| The Root of the Problem | 5.00% | ~14,793 |
-| Third Time's a Charm | 5.00% | ~14,793 |
-| Raising Expectations | 5.00% | ~14,793 |
+| The Seeker of Knowledge | 5.00% | ~14,794 |
+| The Root of the Problem | 5.00% | ~14,794 |
+| Third Time's a Charm | 5.00% | ~14,794 |
+| Raising Expectations | 5.00% | ~14,794 |
 | The Toast of the Town | 4.00% | ~11,835 |
 | Going Through the Potions | 4.00% | ~11,835 |
 | Room with a View | 4.00% | ~11,835 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 110)
 | The Ends Petrify the Means | 4.00% | ~11,835 |
 | Floo Around the World | 3.00% | ~8,876 |
 | The Wise Owl | 3.00% | ~8,876 |
-| The Good Samaritan | 2.00% | ~5,917 |
-| Put Down Roots | 2.00% | ~5,917 |
-| The Auror's Apprentice | 2.00% | ~5,917 |
-| Rise to the Challenges | 2.00% | ~5,917 |
-| Finishing Touches | 2.00% | ~5,917 |
+| The Good Samaritan | 2.00% | ~5,918 |
+| Put Down Roots | 2.00% | ~5,918 |
+| The Auror's Apprentice | 2.00% | ~5,918 |
+| Rise to the Challenges | 2.00% | ~5,918 |
+| Finishing Touches | 2.00% | ~5,918 |
 | Savvy Spender | 1.00% | ~2,959 |
 | Demiguise Dread | 1.00% | ~2,959 |
 | A Forte for Achievement | 1.00% | ~2,959 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,775 |
 | Collector's Edition | 0.30% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,865 (Ranked 43)  
+Progressed: 295,875 (Ranked 43)  
 Completed: 468 (0.16%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,10 +192,10 @@ Completed: 468 (0.16%) (Ranked 199)
 | 2023-09-05 | 294,883 | 464 |
 | 2023-09-06 | 295,304 | 465 |
 | 2023-09-07 | 295,758 | 468 |
-| 2023-09-08 | 295,865 | 468 |
+| 2023-09-08 | 295,875 | 468 |
 ## Awards
 Max (Character Customization): 22,320  (Ranked 17)  
-Sum: 42,482 (Ranked 30)  
+Sum: 42,484 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -210,7 +210,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 951 |
 | This game has Quickly Understood Controls | 891 |
 | This game has Beautiful Visuals | 833 |
-| This game has a Creative Community | 622 |
+| This game has a Creative Community | 624 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -382,4 +382,4 @@ Diff (max vs sum): -13
 | 2023-09-05 | 4.77 | 22,241 | 42,294 |
 | 2023-09-06 | 4.77 | 22,280 | 42,371 |
 | 2023-09-07 | 4.77 | 22,320 | 42,462 |
-| 2023-09-08 | 4.77 | 22,320 | 42,482 |
+| 2023-09-08 | 4.77 | 22,320 | 42,484 |

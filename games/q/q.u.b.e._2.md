@@ -14,7 +14,7 @@ Number of Ratings: 94  (23.09.2022)
 | Cogs in the Machine | 40.00% | ~88 |
 | Mission Success | 17.00% | ~37 |
 | Green Cube Killer | 16.00% | ~35 |
-| There's No Place Like Home | 14.00% | ~31 |
+| There's No Place Like Home | 15.00% | ~33 |
 | Descendants | 12.00% | ~26 |
 | Path to Salvation | 11.00% | ~24 |
 | The Flawed Teacher | 10.00% | ~22 |

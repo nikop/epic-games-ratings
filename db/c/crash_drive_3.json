@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 380,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -456,6 +456,11 @@
       "Time": "2023-09-08T10:04:35.8033146+00:00",
       "NumProgressed": 379,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-08T13:08:54.4239586+00:00",
+      "NumProgressed": 380,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -467,7 +472,7 @@
       "Name": "Brace for impact!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -505,9 +510,9 @@
       "ID": "COLLECT_1_CAR",
       "SetID": "20koof9",
       "Name": "Baby\u0027s First Car",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 110
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -555,7 +560,7 @@
       "Name": "Drift King!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FIND_40_M2H",
@@ -579,7 +584,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -587,7 +592,7 @@
       "Name": "To and Fro",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -635,7 +640,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -691,7 +696,7 @@
       "Name": "Toot Toot!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -715,7 +720,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -747,7 +752,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -755,7 +760,7 @@
       "Name": "Multiply that!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -811,7 +816,7 @@
       "Name": "Ferry Good!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "USE_ROCKET",
@@ -819,7 +824,7 @@
       "Name": "Rocketman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "USE_TUNNEL",
@@ -827,7 +832,7 @@
       "Name": "I see the light!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -867,7 +872,7 @@
       "Name": "Assert Dominance",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -875,7 +880,7 @@
       "Name": "Speed of light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "WIN_ROBBER",
@@ -883,7 +888,7 @@
       "Name": "In the Bag!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -899,14 +904,14 @@
       "Name": "Blasting away!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 380,
       "Completed": 2
     }
   ],
@@ -914,8 +919,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:05:01.5731276+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:08:54.423958+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:27.9557907+00:00",
-  "LastUpdate_Ratings": "2023-09-08T12:00:15.7637709+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:05:01.5731766+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:04:14.8908049+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:08:54.4240123+00:00"
 }

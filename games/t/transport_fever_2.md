@@ -66,7 +66,7 @@ Number of Ratings: 180  (23.09.2022)
 | Louis Favre | 0.80% | ~13 |
 | Big spender | 0.40% | ~7 |
 | Glacier express | 0.20% | ~3 |
-| Museum line | 0.00% | ~0 |
+| Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,631 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 271)  

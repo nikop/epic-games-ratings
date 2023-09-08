@@ -5914,7 +5914,7 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135831,
+  "EOS_Progressed": 135833,
   "EOS_Completed": 147,
   "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 7,
@@ -20374,6 +20374,11 @@
       "Time": "2023-09-08T12:06:00.0240447+00:00",
       "NumProgressed": 135831,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-09-08T13:09:42.9415607+00:00",
+      "NumProgressed": 135833,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 112,
@@ -20783,9 +20788,9 @@
       "ID": "fullmoon",
       "SetID": "anfd17p",
       "Name": "Ritualist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 543
     },
     {
       "ID": "furniture01",
@@ -21280,15 +21285,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135831,
+      "Progressed": 135833,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-08T01:46:44.9189561+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:06:00.024044+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:09:42.9415602+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-08T12:00:00.1704735+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:06:00.0243092+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:04:00.5288023+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:09:42.9418103+00:00"
 }

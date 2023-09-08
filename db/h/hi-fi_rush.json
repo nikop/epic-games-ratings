@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4020,
+  "EOS_Progressed": 4021,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6389,6 +6389,11 @@
       "Time": "2023-09-08T11:05:25.2970428+00:00",
       "NumProgressed": 4020,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-08T13:09:02.3812843+00:00",
+      "NumProgressed": 4021,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6800,7 +6805,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "Ach052",
@@ -6888,7 +6893,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Ach063",
@@ -6967,13 +6972,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4020,
+      "Progressed": 4021,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2541,
+      "Progressed": 2542,
       "Completed": 1929
     }
   ],
@@ -6981,8 +6986,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:05:11.0485995+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:09:02.3812837+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:07.0379973+00:00",
-  "LastUpdate_Ratings": "2023-09-08T12:00:00.2592738+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:05:11.048726+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:04:00.6039508+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:09:02.3813897+00:00"
 }

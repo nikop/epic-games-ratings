@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1392,
+  "EOS_Progressed": 1393,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1456,6 +1456,11 @@
       "Time": "2023-09-07T01:47:30.5374458+00:00",
       "NumProgressed": 1392,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-08T13:09:59.5085075+00:00",
+      "NumProgressed": 1393,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1515,7 +1520,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -1627,7 +1632,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1731,7 +1736,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "completedStory_ulstryx",
@@ -1914,15 +1919,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1392,
+      "Progressed": 1393,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:06:19.8998189+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:09:59.508507+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:10.2902661+00:00",
-  "LastUpdate_Ratings": "2023-09-08T12:03:08.7736828+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:06:19.899896+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:07:09.9020133+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:09:59.5085652+00:00"
 }

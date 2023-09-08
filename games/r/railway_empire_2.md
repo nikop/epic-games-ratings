@@ -5,27 +5,27 @@ Rating: 4.47 (Ranked 613)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 75.00% | ~1,410 |
-| A new Journey | 74.00% | ~1,391 |
-| Departure | 73.00% | ~1,372 |
+| Country Bumpkin | 75.00% | ~1,411 |
+| A new Journey | 74.00% | ~1,392 |
+| Departure | 73.00% | ~1,373 |
 | From X to Y | 72.00% | ~1,354 |
-| Way of Iron | 70.00% | ~1,316 |
-| Mystery Tour | 68.00% | ~1,278 |
+| Way of Iron | 70.00% | ~1,317 |
+| Mystery Tour | 68.00% | ~1,279 |
 | We brake for nobody | 67.00% | ~1,260 |
 | Brainstorm | 66.00% | ~1,241 |
-| Travel Company | 65.00% | ~1,222 |
-| Mind the Gap | 64.00% | ~1,203 |
+| Travel Company | 65.00% | ~1,223 |
+| Mind the Gap | 64.00% | ~1,204 |
 | All around the World | 62.00% | ~1,166 |
 | Right through the middle | 57.00% | ~1,072 |
-| Poor Devil | 54.00% | ~1,015 |
-| Facility Manager | 53.00% | ~996 |
+| Poor Devil | 54.00% | ~1,016 |
+| Facility Manager | 53.00% | ~997 |
 | Producer | 50.00% | ~940 |
 | Apprentice | 41.00% | ~771 |
 | Bridge Builder | 41.00% | ~771 |
 | Access granted | 35.00% | ~658 |
 | Going once, going twice, sold | 35.00% | ~658 |
-| Stoker | 33.00% | ~620 |
-| Bull and bear | 33.00% | ~620 |
+| Stoker | 33.00% | ~621 |
+| Bull and bear | 33.00% | ~621 |
 | Full Steam ahead | 32.00% | ~602 |
 | All mine | 30.00% | ~564 |
 | Mole | 30.00% | ~564 |
@@ -46,7 +46,7 @@ Rating: 4.47 (Ranked 613)
 | Settler | 15.00% | ~282 |
 | Max Power | 14.00% | ~263 |
 | Bold and beautiful | 14.00% | ~263 |
-| Go West | 13.00% | ~244 |
+| Go West | 13.00% | ~245 |
 | A new Hope | 10.00% | ~188 |
 | Tycoon | 10.00% | ~188 |
 | Unstoppable | 8.00% | ~150 |
@@ -61,7 +61,7 @@ Rating: 4.47 (Ranked 613)
 | Three Cheers for Progress | 0.50% | ~9 |
 | United States | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,880 (Ranked 180)  
+Progressed: 1,881 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,6 +178,7 @@ Completed: 0 (0.00%) (Ranked 271)
 | 2023-09-05 | 1,876 | 0 |
 | 2023-09-06 | 1,877 | 0 |
 | 2023-09-07 | 1,880 | 0 |
+| 2023-09-08 | 1,881 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3861,9 +3861,9 @@
       "ID": "achMuseumLine",
       "SetID": "dgl390n",
       "Name": "Museum line",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achNoFreeSeats",
@@ -3989,8 +3989,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-07T13:07:44.4548407+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:03:37.7422934+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:07:34.7295553+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:33.3220518+00:00",
-  "LastUpdate_Ratings": "2023-09-08T12:01:34.028478+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:03:37.7423649+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:05:28.1696699+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:07:34.7296322+00:00"
 }

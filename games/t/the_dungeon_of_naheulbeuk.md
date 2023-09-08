@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 28.00% | ~62,195 |
-| Where's that freaking Dwarf? | 4.00% | ~8,885 |
-| Alt+F4 | 4.00% | ~8,885 |
+| Sowwy! | 28.00% | ~62,199 |
+| Where's that freaking Dwarf? | 4.00% | ~8,886 |
+| Alt+F4 | 4.00% | ~8,886 |
 | Déjà vu | 3.00% | ~6,664 |
 | Sock! SOCK! | 3.00% | ~6,664 |
-| A beer, two curses, three companions | 2.00% | ~4,442 |
-| GG EZ | 2.00% | ~4,442 |
-| DM intervention | 2.00% | ~4,442 |
-| Speedrun | 2.00% | ~4,442 |
-| Fireproof Wizardess | 2.00% | ~4,442 |
+| A beer, two curses, three companions | 2.00% | ~4,443 |
+| GG EZ | 2.00% | ~4,443 |
+| DM intervention | 2.00% | ~4,443 |
+| Speedrun | 2.00% | ~4,443 |
+| Fireproof Wizardess | 2.00% | ~4,443 |
 | Livin' in a dwarven paradise | 1.00% | ~2,221 |
 | Shiny and Crôm | 1.00% | ~2,221 |
 | Way of the Wimp | 1.00% | ~2,221 |
@@ -44,9 +44,9 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 0.60% | ~1,333 |
 | Material Girl | 0.60% | ~1,333 |
 | Gargantua | 0.50% | ~1,111 |
-| We come in peace | 0.40% | ~888 |
-| In Navalu's footsteps | 0.40% | ~888 |
-| Lëgal Legend | 0.40% | ~888 |
+| We come in peace | 0.40% | ~889 |
+| In Navalu's footsteps | 0.40% | ~889 |
+| Lëgal Legend | 0.40% | ~889 |
 | Holistic Adventuring Party | 0.30% | ~666 |
 | An old poacher makes the best gamekeeper | 0.30% | ~666 |
 | Law and Order | 0.30% | ~666 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~222 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,124 (Ranked 57)  
+Progressed: 222,138 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 2 (0.00%) (Ranked 271)
 | 2023-09-05 | 221,553 | 2 |
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
-| 2023-09-08 | 222,124 | 2 |
+| 2023-09-08 | 222,138 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

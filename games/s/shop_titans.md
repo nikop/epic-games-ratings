@@ -62,6 +62,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.40% | ~543 |
 | Supercharged | 0.40% | ~543 |
 | Expansion in Session | 0.40% | ~543 |
+| Ritualist | 0.40% | ~543 |
 | Cranked up to 11 | 0.40% | ~543 |
 | Fit for a King | 0.40% | ~543 |
 | Trash to Treasure | 0.40% | ~543 |
@@ -89,7 +90,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fillin' the Bin | 0.30% | ~407 |
 | Industrial Evolution | 0.30% | ~407 |
 | Omae wa Mou Shindeiru | 0.30% | ~407 |
-| Ritualist | 0.30% | ~407 |
 | By Your Powers Combined... | 0.30% | ~407 |
 | A Legend is Born | 0.30% | ~407 |
 | Necromancer Queen | 0.30% | ~407 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,831 (Ranked 67)  
+Progressed: 135,833 (Ranked 67)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-05 | 135,715 | 144 |
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
-| 2023-09-08 | 135,831 | 147 |
+| 2023-09-08 | 135,833 | 147 |
 ## Awards
 Max (Great for Beginners): 4,730  (Ranked 70)  
 Sum: 27,189 (Ranked 48)  

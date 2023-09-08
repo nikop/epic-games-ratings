@@ -593,9 +593,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -641,9 +641,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PROGRESS_N3",
@@ -680,8 +680,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-08T12:05:57.2380282+00:00",
+  "LastChanged_Achievements": "2023-09-08T13:09:40.4402212+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-08T12:00:41.5507541+00:00",
-  "LastUpdate_Achievements": "2023-09-08T12:05:57.2380556+00:00"
+  "LastUpdate_Ratings": "2023-09-08T13:04:37.7906798+00:00",
+  "LastUpdate_Achievements": "2023-09-08T13:09:40.4402427+00:00"
 }
