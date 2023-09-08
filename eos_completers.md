@@ -15,7 +15,7 @@
 | 12 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 19.58% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.18% |
-| 16 | [Island Cities](games/i/island_cities.md) | 16.76% |
+| 16 | [Island Cities](games/i/island_cities.md) | 16.89% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.97% |
 | 18 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 19 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 13.33% |

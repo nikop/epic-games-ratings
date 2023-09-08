@@ -20,8 +20,8 @@
 | 18 | [Dauntless](games/d/dauntless.md) | 21,755 | 4.53 | 520 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,405 | 4.57 | 452 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 19,018 | 4.26 | 829 |
-| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,110 | 4.89 | 13 |
-| 22 | [Warframe](games/w/warframe.md) | 16,891 | 4.60 | 392 |
+| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,138 | 4.89 | 13 |
+| 22 | [Warframe](games/w/warframe.md) | 16,915 | 4.60 | 392 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,236 | 4.76 | 118 |
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,468 | 4.58 | 430 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,660 | 4.60 | 392 |
@@ -98,7 +98,7 @@
 | 96 | [Among Us](games/a/among_us.md) | 2,648 | 4.57 | 452 |
 | 97 | [Path of Exile](games/p/path_of_exile.md) | 2,608 | 4.61 | 367 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,602 | 4.18 | 883 |
-| 99 | [RAGE 2](games/r/rage_2.md) | 2,546 | 4.27 | 822 |
+| 99 | [RAGE 2](games/r/rage_2.md) | 2,546 | 4.27 | 823 |
 | 100 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,508 | 4.10 | 915 |
 | 101 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,501 | 4.49 | 579 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,463 | 4.79 | 89 |
@@ -145,7 +145,7 @@
 | 143 | [Ooblets](games/o/ooblets.md) | 1,024 | 4.87 | 24 |
 | 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,019 | 4.59 | 417 |
 | 145 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 853 |
-| 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 974 | 4.69 | 217 |
+| 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 975 | 4.69 | 217 |
 | 147 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 964 | 4.31 | 790 |
 | 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 942 | 4.76 | 118 |
 | 149 | [Sonic Mania](games/s/sonic_mania.md) | 938 | 4.78 | 102 |
@@ -258,7 +258,7 @@
 | 256 | [Crysis Remastered](games/c/crysis_remastered.md) | 248 | 4.41 | 690 |
 | 257 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 246 | 4.45 | 640 |
 | 258 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 244 | 4.82 | 66 |
-| 259 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 241 | 4.83 | 60 |
+| 259 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 242 | 4.83 | 60 |
 | 260 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 236 | 4.60 | 392 |
 | 261 | [Overcooked! 2](games/o/overcooked!_2.md) | 234 | 4.73 | 164 |
 | 262 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 224 | 4.59 | 417 |
@@ -441,11 +441,11 @@
 | 438 | [Hell is Others](games/h/hell_is_others.md) | 36 | 4.41 | 690 |
 | 438 | [Isonzo](games/i/isonzo.md) | 36 | 4.56 | 471 |
 | 438 | [Steelrising](games/s/steelrising.md) | 36 | 4.28 | 814 |
+| 438 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 36 | 4.63 | 333 |
 | 438 | [Voidtrain](games/v/voidtrain.md) | 36 | 4.50 | 564 |
-| 443 | [DEATHLOOP](games/d/deathloop.md) | 35 | 4.54 | 505 |
-| 443 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 190 |
-| 443 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 471 |
-| 443 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 35 | 4.63 | 333 |
+| 444 | [DEATHLOOP](games/d/deathloop.md) | 35 | 4.54 | 505 |
+| 444 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 190 |
+| 444 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 471 |
 | 447 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 354 |
 | 447 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 34 | 4.52 | 532 |
 | 447 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 66 |
@@ -457,7 +457,7 @@
 | 451 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 33 | 4.54 | 505 |
 | 456 | [Blankos Block Party](games/b/blankos_block_party.md) | 32 | 4.21 | 858 |
 | 456 | [Chorus](games/c/chorus.md) | 32 | 4.46 | 626 |
-| 456 | [City of Gangsters](games/c/city_of_gangsters.md) | 32 | 4.27 | 822 |
+| 456 | [City of Gangsters](games/c/city_of_gangsters.md) | 32 | 4.27 | 823 |
 | 456 | [GRIME](games/g/grime.md) | 32 | 4.59 | 417 |
 | 456 | [MythForce](games/m/mythforce.md) | 32 | 4.49 | 579 |
 | 456 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 32 | 4.67 | 259 |
