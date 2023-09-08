@@ -43,7 +43,7 @@
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,115 | 4.89 | 13 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,959 | 4.48 | 602 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,821 | 4.85 | 43 |
-| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,780 | 4.57 | 452 |
+| 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,788 | 4.57 | 452 |
 | 45 | [Supraland](games/s/supraland.md) | 7,683 | 4.61 | 368 |
 | 46 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 7,564 | 4.58 | 431 |
 | 47 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,432 | 4.71 | 190 |
@@ -96,7 +96,7 @@
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,247 | 4.57 | 452 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,741 | 4.51 | 547 |
 | 96 | [Among Us](games/a/among_us.md) | 2,648 | 4.57 | 452 |
-| 97 | [Path of Exile](games/p/path_of_exile.md) | 2,608 | 4.61 | 368 |
+| 97 | [Path of Exile](games/p/path_of_exile.md) | 2,610 | 4.61 | 368 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,602 | 4.18 | 883 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,549 | 4.27 | 820 |
 | 100 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,512 | 4.49 | 579 |
@@ -161,7 +161,7 @@
 | 159 | [Auto Chess](games/a/auto_chess.md) | 788 | 4.51 | 547 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 783 | 4.50 | 565 |
 | 161 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 764 | 4.51 | 547 |
-| 162 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 754 | 4.79 | 89 |
+| 162 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 756 | 4.79 | 89 |
 | 163 | [Core](games/c/core.md) | 747 | 4.36 | 747 |
 | 164 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 733 | 4.60 | 392 |
 | 165 | [Neverwinter](games/n/neverwinter.md) | 723 | 4.29 | 804 |
@@ -214,8 +214,8 @@
 | 212 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 418 | 3.94 | 956 |
 | 213 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 416 | 4.73 | 163 |
 | 214 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 414 | 4.50 | 565 |
-| 215 | [Warface](games/w/warface.md) | 412 | 3.91 | 963 |
-| 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 411 | 4.70 | 201 |
+| 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 414 | 4.70 | 201 |
+| 216 | [Warface](games/w/warface.md) | 412 | 3.91 | 963 |
 | 217 | [Slime Rancher](games/s/slime_rancher.md) | 408 | 4.82 | 66 |
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 390 | 4.84 | 49 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 389 | 4.70 | 201 |
@@ -270,7 +270,7 @@
 | 268 | [Crying Suns](games/c/crying_suns.md) | 218 | 4.50 | 565 |
 | 269 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 217 | 4.84 | 49 |
 | 270 | [Sunless Sea](games/s/sunless_sea.md) | 214 | 4.58 | 431 |
-| 271 | [Stranded Deep](games/s/stranded_deep.md) | 207 | 4.23 | 852 |
+| 271 | [Stranded Deep](games/s/stranded_deep.md) | 209 | 4.23 | 852 |
 | 272 | [HITMAN](games/h/hitman.md) | 206 | 4.64 | 314 |
 | 273 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 203 | 4.34 | 764 |
 | 274 | [Relicta](games/r/relicta.md) | 201 | 4.15 | 898 |

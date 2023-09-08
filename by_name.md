@@ -331,7 +331,7 @@
 | [Blipz](games/b/blipz.md) | - | - | - | - |
 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | - | - | 0 | - |
 | [Blood and Zombies](games/b/blood_and_zombies.md) | - | - | 0 | - |
-| [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.60 | 982 | 0 | 517 |
+| [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.63 | 982 | 0 | 517 |
 | [Blood Hunting](games/8/88aebfec9a96482d99f442a9535e2963.md) | - | - | - | - |
 | [Blood of Steel](games/b/blood_of_steel.md) | 3.81 | 971 | 0 | 517 |
 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | - | - | 0 | - |
@@ -908,7 +908,7 @@
 | [Far Cry New Dawn - Ultimate](games/f/far_cry_new_dawn_-_ultimate.md) | - | - | - | - |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 665 | 223 | 263 |
 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 201 | 389 | 219 |
-| [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 201 | 411 | 216 |
+| [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 201 | 414 | 214 |
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.63 | 333 | 0 | 517 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 201 | 0 | 517 |
 | [Faraday Protocol](games/f/faraday_protocol.md) | - | - | 0 | - |
@@ -1325,8 +1325,8 @@
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | - | - | - | - |
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 452 | 38 | 431 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
-| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Judas](games/j/judas.md) | - | - | 0 | - |
+| [Judas](games/j/judas_1.md) | - | - | - | - |
 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 354 | 569 | 189 |
 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 147 | 683 | 172 |
 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.28 | 814 | 3,754 | 83 |
@@ -1375,7 +1375,7 @@
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 190 | 7,432 | 47 |
 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 66 | 653 | 175 |
 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.73 | 163 | 123 | 317 |
-| [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 89 | 754 | 162 |
+| [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 89 | 756 | 162 |
 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.65 | 303 | 0 | 517 |
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | - | - | - | - |
 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 532 | 125 | 314 |
@@ -1743,7 +1743,7 @@
 | [Nikopol - Secrets of the Immortals](games/n/nikopol_-_secrets_of_the_immortals.md) | - | - | 0 | - |
 | [Nine Noir Lives](games/n/nine_noir_lives.md) | - | - | 0 | - |
 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 89 | 2,463 | 102 |
-| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 452 | 7,780 | 44 |
+| [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 452 | 7,788 | 44 |
 | [Nira](games/n/nira.md) | - | - | 0 | - |
 | [Nivalis](games/n/nivalis.md) | - | - | - | - |
 | [Nix](games/n/nix.md) | - | - | - | - |
@@ -1866,7 +1866,7 @@
 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 368 | 0 | 517 |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | - | - | - | - |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 774 | 0 | 517 |
-| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 368 | 2,608 | 97 |
+| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 368 | 2,610 | 97 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 452 | 3,247 | 94 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 118 | 1,708 | 118 |
 | [Pathway](games/p/pathway.md) | 4.44 | 649 | 0 | 517 |
@@ -2086,7 +2086,7 @@
 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 217 | 11,401 | 32 |
 | [Risen](games/r/risen.md) | 4.57 | 452 | 0 | 517 |
 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 690 | 74 | 373 |
-| [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | - | - | - | - |
+| [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | - | - | 0 | - |
 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 565 | 783 | 160 |
 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.83 | 60 | 242 | 259 |
 | [Riverbond](games/r/riverbond.md) | 4.47 | 612 | 20 | 512 |
@@ -2418,7 +2418,7 @@
 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 547 | 0 | 517 |
 | [Stormshot](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | - | - | 0 | - |
 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 84 | 0 | 517 |
-| [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 852 | 207 | 271 |
+| [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 852 | 209 | 271 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 471 | 0 | 517 |
 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 147 | 0 | 517 |
 | [Strange House](games/s/strange_house.md) | - | - | - | - |
@@ -2853,6 +2853,7 @@
 | [Tormented Souls](games/t/tormented_souls.md) | - | - | 0 | - |
 | [Tormented Souls 2](games/9/98a33c69dd4c462a877089ca59716a52.md) | - | - | - | - |
 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 135 | 0 | 517 |
+| [Tornado](games/1/16c70af19f5741d183d8a943b5a13100.md) | - | - | - | - |
 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 977 | 0 | 517 |
 | [Total Reload](games/t/total_reload.md) | - | - | - | - |
 | [Total War: PHARAOH](games/3/3928d2045d28460b96db76dc1b9ca146.md) | - | - | - | - |
@@ -2864,8 +2865,8 @@
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.41 | 690 | 168 | 290 |
+| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 241 | 0 | 517 |
@@ -3025,7 +3026,7 @@
 | [Wanted: Dead](games/w/wanted_dead.md) | - | - | 0 | - |
 | [War Hospital](games/w/war_hospital.md) | - | - | - | - |
 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 789 | 0 | 517 |
-| [Warface](games/w/warface.md) | 3.91 | 963 | 412 | 215 |
+| [Warface](games/w/warface.md) | 3.91 | 963 | 412 | 216 |
 | [WarForwards](games/w/warforwards.md) | - | - | 0 | - |
 | [Warframe](games/w/warframe.md) | 4.60 | 392 | 16,915 | 22 |
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 217 | 975 | 146 |

@@ -94,7 +94,7 @@
 | 89 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 517 |
 | 89 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 517 |
 | 89 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 902 | 151 |
-| 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 754 | 162 |
+| 89 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 756 | 162 |
 | 89 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,993 | 56 |
 | 89 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 55 | 395 |
 | 89 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,463 | 102 |
@@ -202,7 +202,7 @@
 | 190 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 517 |
 | 201 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,571 | 73 |
 | 201 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 389 | 219 |
-| 201 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 411 | 216 |
+| 201 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 414 | 214 |
 | 201 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.70 | 0 | 517 |
 | 201 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,145 | 49 |
 | 201 | [For The King](games/f/for_the_king.md) | 4.70 | 387 | 221 |
@@ -381,7 +381,7 @@
 | 368 | [MudRunner](games/m/mudrunner.md) | 4.61 | 256 | 252 |
 | 368 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 517 |
 | 368 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 517 |
-| 368 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,608 | 97 |
+| 368 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,610 | 97 |
 | 368 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 685 | 170 |
 | 368 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 106 | 332 |
 | 368 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 500 | 201 |
@@ -459,7 +459,7 @@
 | 452 | [Hob](games/h/hob.md) | 4.57 | 0 | 517 |
 | 452 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 38 | 431 |
 | 452 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 517 |
-| 452 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,780 | 44 |
+| 452 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,788 | 44 |
 | 452 | [Observation](games/o/observation.md) | 4.57 | 0 | 517 |
 | 452 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,247 | 94 |
 | 452 | [Risen](games/r/risen.md) | 4.57 | 0 | 517 |
@@ -854,7 +854,7 @@
 | 852 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
 | 852 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 517 |
 | 852 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 517 |
-| 852 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 207 | 271 |
+| 852 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 209 | 271 |
 | 856 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 180 | 284 |
 | 856 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.22 | 0 | 517 |
 | 858 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 123 | 317 |
@@ -963,7 +963,7 @@
 | 959 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 517 |
 | 962 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.92 | 0 | 517 |
 | 963 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 333 |
-| 963 | [Warface](games/w/warface.md) | 3.91 | 412 | 215 |
+| 963 | [Warface](games/w/warface.md) | 3.91 | 412 | 216 |
 | 965 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 517 |
 | 966 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 517 |
 | 967 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 517 |
@@ -981,6 +981,6 @@
 | 979 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.73 | 0 | 517 |
 | 980 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 517 |
 | 981 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 517 |
-| 982 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.60 | 0 | 517 |
+| 982 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.63 | 0 | 517 |
 | 983 | [Adios](games/a/adios.md) | 3.53 | 0 | 517 |
 | 984 | [Redfall](games/r/redfall.md) | 3.52 | 0 | 517 |

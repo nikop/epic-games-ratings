@@ -9,16 +9,16 @@
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.76% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
-| 10 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 25.00% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
-| 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.87% |
+| 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.87% |
+| 13 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 23.81% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.14% |
 | 15 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 15 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 18 | [Island Cities](games/i/island_cities.md) | 16.19% |
-| 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.88% |
+| 18 | [Island Cities](games/i/island_cities.md) | 16.11% |
+| 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
 | 22 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
@@ -81,7 +81,7 @@
 | 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 2.59% |
-| 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.54% |
+| 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.53% |
 | 83 | [Lamentum](games/l/lamentum.md) | 2.51% |
 | 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 84 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.50% |
@@ -133,10 +133,10 @@
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
-| 134 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
-| 135 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.68% |
-| 135 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
-| 135 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.68% |
+| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.72% |
+| 135 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
+| 136 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.68% |
+| 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 138 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 138 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 140 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
@@ -582,4 +582,4 @@
 | 272 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 272 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 272 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,209 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,210 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
