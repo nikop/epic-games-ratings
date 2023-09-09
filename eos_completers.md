@@ -4,7 +4,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.22% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.51% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.79% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.57% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.76% |
@@ -17,7 +17,7 @@
 | 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 18 | [Island Cities](games/i/island_cities.md) | 15.97% |
+| 18 | [Island Cities](games/i/island_cities.md) | 15.94% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
@@ -81,8 +81,8 @@
 | 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 2.59% |
-| 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.52% |
-| 83 | [Lamentum](games/l/lamentum.md) | 2.51% |
+| 82 | [Lamentum](games/l/lamentum.md) | 2.51% |
+| 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.51% |
 | 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 84 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 86 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.49% |
@@ -214,9 +214,9 @@
 | 211 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 211 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 211 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
-| 211 | [Port Royale 4](games/p/port_royale_4.md) | 0.12% |
-| 216 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
-| 216 | [Shop Titans](games/s/shop_titans.md) | 0.11% |
+| 215 | [Port Royale 4](games/p/port_royale_4.md) | 0.11% |
+| 215 | [Ring of Pain](games/r/ring_of_pain.md) | 0.11% |
+| 215 | [Shop Titans](games/s/shop_titans.md) | 0.11% |
 | 218 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 218 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.10% |
 | 218 | [House Flipper](games/h/house_flipper.md) | 0.10% |
