@@ -124,7 +124,7 @@
 | 122 | [Ring of Pain](games/r/ring_of_pain.md) | 1,495 | 4.58 | 431 |
 | 123 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,474 | 4.78 | 102 |
 | 123 | [Remnant 2](games/r/remnant_2.md) | 1,474 | 4.76 | 118 |
-| 125 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,468 | 4.62 | 354 |
+| 125 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,472 | 4.62 | 354 |
 | 126 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,436 | 4.87 | 24 |
 | 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,432 | 4.53 | 520 |
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,418 | 4.54 | 505 |
@@ -189,11 +189,11 @@
 | 187 | [Star Trek Online](games/s/star_trek_online.md) | 580 | 4.44 | 649 |
 | 188 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 575 | 4.38 | 729 |
 | 189 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 569 | 4.62 | 354 |
-| 190 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 564 | 4.68 | 241 |
-| 191 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 563 | 4.66 | 280 |
-| 192 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 562 | 4.41 | 690 |
-| 193 | [Filament](games/f/filament.md) | 561 | 4.32 | 783 |
-| 194 | [Train Valley 2](games/t/train_valley_2.md) | 559 | 4.42 | 680 |
+| 190 | [Train Valley 2](games/t/train_valley_2.md) | 567 | 4.42 | 680 |
+| 191 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 564 | 4.68 | 241 |
+| 192 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 563 | 4.66 | 280 |
+| 193 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 562 | 4.41 | 690 |
+| 194 | [Filament](games/f/filament.md) | 561 | 4.32 | 783 |
 | 195 | [Vampyr](games/v/vampyr.md) | 558 | 4.32 | 783 |
 | 196 | [Godfall Ultimate Edition](games/g/godfall.md) | 541 | 4.07 | 928 |
 | 197 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 530 | 4.52 | 532 |
@@ -217,7 +217,7 @@
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 414 | 4.70 | 201 |
 | 216 | [Warface](games/w/warface.md) | 412 | 3.91 | 963 |
 | 217 | [Slime Rancher](games/s/slime_rancher.md) | 408 | 4.82 | 66 |
-| 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 390 | 4.84 | 49 |
+| 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 391 | 4.84 | 49 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 389 | 4.70 | 201 |
 | 220 | [Nuclear Throne](games/n/nuclear_throne.md) | 388 | 4.79 | 89 |
 | 221 | [For The King](games/f/for_the_king.md) | 387 | 4.70 | 201 |
@@ -257,7 +257,7 @@
 | 255 | [Hello Neighbor](games/h/hello_neighbor.md) | 250 | 4.55 | 490 |
 | 256 | [Crysis Remastered](games/c/crysis_remastered.md) | 248 | 4.41 | 690 |
 | 257 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 247 | 4.45 | 641 |
-| 258 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 244 | 4.82 | 66 |
+| 258 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 245 | 4.82 | 66 |
 | 259 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 242 | 4.83 | 60 |
 | 260 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 236 | 4.60 | 392 |
 | 261 | [Overcooked! 2](games/o/overcooked!_2.md) | 234 | 4.73 | 163 |
