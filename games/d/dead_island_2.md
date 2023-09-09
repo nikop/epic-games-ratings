@@ -5,35 +5,35 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 2.00% | ~13,531 |
-| Dr. Reed, I Presume? | 1.00% | ~6,765 |
-| Git Gutte! | 1.00% | ~6,765 |
-| Bookworm | 1.00% | ~6,765 |
-| Break A Leg | 1.00% | ~6,765 |
-| But Doctor, I am Butcho | 1.00% | ~6,765 |
-| Can't Handle the Truth | 1.00% | ~6,765 |
-| Coup de Grâce | 1.00% | ~6,765 |
-| Like Riding a Bike | 1.00% | ~6,765 |
-| Hazardous Materials | 1.00% | ~6,765 |
-| Friends Like These | 1.00% | ~6,765 |
-| Hotel California | 1.00% | ~6,765 |
-| Apex Predator | 1.00% | ~6,765 |
-| Zombologist | 1.00% | ~6,765 |
-| A Patton Emerges | 1.00% | ~6,765 |
-| Stacking the Deck | 1.00% | ~6,765 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,765 |
-| This is My Weapon | 1.00% | ~6,765 |
+| Welcome To Hell-A | 2.00% | ~13,532 |
+| Dr. Reed, I Presume? | 1.00% | ~6,766 |
+| Git Gutte! | 1.00% | ~6,766 |
+| Bookworm | 1.00% | ~6,766 |
+| Break A Leg | 1.00% | ~6,766 |
+| But Doctor, I am Butcho | 1.00% | ~6,766 |
+| Can't Handle the Truth | 1.00% | ~6,766 |
+| Coup de Grâce | 1.00% | ~6,766 |
+| Like Riding a Bike | 1.00% | ~6,766 |
+| Hazardous Materials | 1.00% | ~6,766 |
+| Friends Like These | 1.00% | ~6,766 |
+| Hotel California | 1.00% | ~6,766 |
+| Apex Predator | 1.00% | ~6,766 |
+| Zombologist | 1.00% | ~6,766 |
+| A Patton Emerges | 1.00% | ~6,766 |
+| Stacking the Deck | 1.00% | ~6,766 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,766 |
+| This is My Weapon | 1.00% | ~6,766 |
 | Slayer Squad | 0.90% | ~6,089 |
-| Anger Management | 0.80% | ~5,412 |
-| Perks of the Job | 0.80% | ~5,412 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,412 |
-| Ooh, Shiny! | 0.80% | ~5,412 |
-| I Am the Resurrection | 0.80% | ~5,412 |
-| Our True Nature | 0.80% | ~5,412 |
-| Making Your Mark | 0.60% | ~4,059 |
-| Humanity Distilled | 0.60% | ~4,059 |
-| Down with the Sickness | 0.60% | ~4,059 |
-| Max Headroom | 0.60% | ~4,059 |
+| Anger Management | 0.80% | ~5,413 |
+| Perks of the Job | 0.80% | ~5,413 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,413 |
+| Ooh, Shiny! | 0.80% | ~5,413 |
+| I Am the Resurrection | 0.80% | ~5,413 |
+| Our True Nature | 0.80% | ~5,413 |
+| Humanity Distilled | 0.70% | ~4,736 |
+| Making Your Mark | 0.60% | ~4,060 |
+| Down with the Sickness | 0.60% | ~4,060 |
+| Max Headroom | 0.60% | ~4,060 |
 | Smorgasbord | 0.40% | ~2,706 |
 | Jumbo Keyring | 0.40% | ~2,706 |
 | Go, Bobcats! | 0.40% | ~2,706 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~677 |
 | Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,537 (Ranked 22)  
-Completed: 2,126 (0.31%) (Ranked 177)  
+Progressed: 676,586 (Ranked 22)  
+Completed: 2,127 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,10 +193,10 @@ Completed: 2,126 (0.31%) (Ranked 177)
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
-| 2023-09-09 | 676,537 | 2,126 |
+| 2023-09-09 | 676,586 | 2,127 |
 ## Awards
 Max (Great Boss Battles): 5,969  (Ranked 58)  
-Sum: 8,815 (Ranked 94)  
+Sum: 8,820 (Ranked 94)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -204,11 +204,11 @@ Diff (max vs sum): -36
 | This game is Great for Beginners | 403 |
 | This game has Diverse Characters | 394 |
 | This game has Quickly Understood Controls | 385 |
-| This game is Relaxing | 369 |
+| This game is Relaxing | 371 |
 | This game has Amazing Storytelling | 344 |
 | This game is Extremely Fun | 324 |
+| This game is Highly Recommended | 315 |
 | This game has Amazing Characters | 315 |
-| This game is Highly Recommended | 312 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -353,4 +353,4 @@ Diff (max vs sum): -36
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
 | 2023-09-08 | 4.54 | 5,969 | 8,812 |
-| 2023-09-09 | 4.54 | 5,969 | 8,815 |
+| 2023-09-09 | 4.54 | 5,969 | 8,820 |

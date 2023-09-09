@@ -9,9 +9,9 @@
 | A Grand Show | 66.00% | ~44 |
 | Freshen Up | 58.00% | ~39 |
 | GG EZ | 55.00% | ~37 |
-| Hydrophobia | 40.00% | ~27 |
+| Hydrophobia | 42.00% | ~28 |
 | Ka-Ching! | 34.00% | ~23 |
-| Stop Right There | 31.00% | ~21 |
+| Stop Right There | 33.00% | ~22 |
 | Get to the Point | 31.00% | ~21 |
 | The Hidden Secret | 16.00% | ~11 |
 | Mr. Want It All | 16.00% | ~11 |
@@ -19,7 +19,7 @@
 | Phew! | 15.00% | ~10 |
 | Grand Escape | 13.00% | ~9 |
 | Space Warrior: Prologue | 13.00% | ~9 |
-| The Abyss Conqueror | 9.00% | ~6 |
+| The Abyss Conqueror | 10.00% | ~7 |
 | Keep it Up, rookie! | 9.00% | ~6 |
 | he Ultra Fortress Conqueror | 7.00% | ~5 |
 | Antaeus | 7.00% | ~5 |

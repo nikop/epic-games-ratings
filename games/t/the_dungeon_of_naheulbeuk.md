@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,566 |
+| Sowwy! | 29.00% | ~64,568 |
 | Where's that freaking Dwarf? | 4.00% | ~8,906 |
 | Alt+F4 | 4.00% | ~8,906 |
 | Déjà vu | 3.00% | ~6,679 |
@@ -39,7 +39,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 0.80% | ~1,781 |
 | Dwarf Fortress | 0.80% | ~1,781 |
 | Look but don't touch | 0.80% | ~1,781 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,558 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,559 |
 | Dead for good | 0.60% | ~1,336 |
 | Lust and Debauchery | 0.60% | ~1,336 |
 | Material Girl | 0.60% | ~1,336 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,640 (Ranked 56)  
+Progressed: 222,649 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,15 +196,15 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
-| 2023-09-09 | 222,640 | 2 |
+| 2023-09-09 | 222,649 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
-Sum: 264 (Ranked 353)  
+Sum: 265 (Ranked 353)  
 Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 190 |
-| This game is Relaxing | 26 |
+| This game is Relaxing | 27 |
 | This game is Great for Beginners | 24 |
 | This game has Amazing Characters | 24 |
 ## Ratings History
@@ -335,4 +335,4 @@ Diff (max vs sum): -76
 | 2023-09-04 | 4.58 | - | 189 | 261 |
 | 2023-09-05 | 4.58 | - | 189 | 262 |
 | 2023-09-06 | 4.58 | - | 190 | 264 |
-| 2023-09-09 | 4.59 | - | 190 | 264 |
+| 2023-09-09 | 4.59 | - | 190 | 265 |

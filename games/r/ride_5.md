@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 38.00% | ~184 |
-| Hear That Roar! | 35.00% | ~170 |
-| Clean Race | 35.00% | ~170 |
-| Rivals to the End | 28.00% | ~136 |
-| Eat My Dust | 26.00% | ~126 |
-| We're Going to Need a Bigger Garage | 23.00% | ~112 |
-| I'm Here Too! | 21.00% | ~102 |
-| I Want One Too! | 15.00% | ~73 |
-| Bitter Rivalry | 15.00% | ~73 |
-| Restored and Ready | 12.00% | ~58 |
-| Quick Pit Stop | 12.00% | ~58 |
-| Champagne Spray | 12.00% | ~58 |
-| Go-Faster Stripes | 11.00% | ~53 |
-| Legendary!!! | 11.00% | ~53 |
+| First Love | 37.00% | ~182 |
+| Hear That Roar! | 35.00% | ~172 |
+| Clean Race | 35.00% | ~172 |
+| Rivals to the End | 28.00% | ~137 |
+| Eat My Dust | 26.00% | ~128 |
+| We're Going to Need a Bigger Garage | 22.00% | ~108 |
+| I'm Here Too! | 21.00% | ~103 |
+| I Want One Too! | 16.00% | ~79 |
+| Bitter Rivalry | 15.00% | ~74 |
+| Champagne Spray | 13.00% | ~64 |
+| Restored and Ready | 12.00% | ~59 |
+| Quick Pit Stop | 12.00% | ~59 |
+| Go-Faster Stripes | 10.00% | ~49 |
+| Legendary!!! | 10.00% | ~49 |
 | Evangelist | 6.00% | ~29 |
-| Is It the Right Size? | 5.00% | ~24 |
-| We've Just Begun | 5.00% | ~24 |
-| Stamina Star | 4.00% | ~19 |
+| Is It the Right Size? | 5.00% | ~25 |
+| We've Just Begun | 5.00% | ~25 |
+| Stamina Star | 4.00% | ~20 |
 | Make It Your Own! | 3.00% | ~15 |
+| Still Here | 3.00% | ~15 |
 | Iconic! | 2.00% | ~10 |
 | Spoilt for Choice | 2.00% | ~10 |
 | Cherry Blossom and Temples | 2.00% | ~10 |
 | La Dolce Vita | 2.00% | ~10 |
 | The Road to Liberty | 2.00% | ~10 |
-| Still Here | 2.00% | ~10 |
 | My Work Here Is Done | 2.00% | ~10 |
 | I'll Be the Best! | 1.00% | ~5 |
 | Romantic Races | 1.00% | ~5 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485 (Ranked 243)  
+Progressed: 491 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 141 | 0 |
 | 2023-09-07 | 305 | 0 |
 | 2023-09-08 | 425 | 0 |
-| 2023-09-09 | 485 | 0 |
+| 2023-09-09 | 491 | 0 |

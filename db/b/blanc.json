@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2640,
+  "EOS_Progressed": 2643,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -3103,6 +3103,11 @@
       "Time": "2023-09-09T18:05:34.1039187+00:00",
       "NumProgressed": 2640,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-09T19:05:08.5957912+00:00",
+      "NumProgressed": 2643,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3122,7 +3127,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "FALLEN_TREE",
@@ -3184,9 +3189,9 @@
       "ID": "STRONGER_TOGETHER",
       "SetID": "1a29mp6",
       "Name": "Stronger together",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 396
+      "UsersEstimate": 370
     },
     {
       "ID": "THE_END",
@@ -3217,7 +3222,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2640,
+      "Progressed": 2643,
       "Completed": 6
     }
   ],
@@ -3225,8 +3230,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-09T18:05:34.1039181+00:00",
+  "LastChanged_Achievements": "2023-09-09T19:05:08.5957905+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.1508529+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:02:09.6511021+00:00",
-  "LastUpdate_Achievements": "2023-09-09T18:05:34.1039531+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:01:31.4806787+00:00",
+  "LastUpdate_Achievements": "2023-09-09T19:05:08.5958139+00:00"
 }

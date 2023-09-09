@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -280,7 +280,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1919,
+  "EOS_Progressed": 1920,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -5490,6 +5490,11 @@
       "Time": "2023-09-09T18:06:09.0071175+00:00",
       "NumProgressed": 1919,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-09T19:05:39.8522254+00:00",
+      "NumProgressed": 1920,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5659,9 +5664,9 @@
       "ID": "enhancedwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Enhanced War Machines",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "enlightenment",
@@ -5829,7 +5834,7 @@
       "Name": "Milestone collector",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "minerclicker",
@@ -5875,9 +5880,9 @@
       "ID": "naturaltalent",
       "SetID": "3nl4bcg",
       "Name": "Natural Talent",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 269
     },
     {
       "ID": "pokerface",
@@ -5893,7 +5898,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "prestigiousx10",
@@ -5915,9 +5920,9 @@
       "ID": "sailor",
       "SetID": "3nl4bcg",
       "Name": "Sailor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 134
     },
     {
       "ID": "scientist",
@@ -5949,7 +5954,7 @@
       "Name": "Superior",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "templeofeternals",
@@ -6061,7 +6066,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "warmachinesarmy",
@@ -6093,14 +6098,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1919,
+      "Progressed": 1920,
       "Completed": 2
     }
   ],
@@ -6108,8 +6113,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T22:59:12.0182911+00:00",
-  "LastChanged_Achievements": "2023-09-09T18:06:09.0071102+00:00",
+  "LastChanged_Achievements": "2023-09-09T19:05:39.8522247+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.1476243+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:00:30.6368472+00:00",
-  "LastUpdate_Achievements": "2023-09-09T18:06:09.0072874+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:00:00.5877267+00:00",
+  "LastUpdate_Achievements": "2023-09-09T19:05:39.8523514+00:00"
 }

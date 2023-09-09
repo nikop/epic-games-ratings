@@ -19,7 +19,7 @@
 | Oh, you're up to no gouda! | 64.00% | ~60 |
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~58 |
 | Meat grinder | 62.00% | ~58 |
-| You're not going to blow me up! | 54.00% | ~51 |
+| You're not going to blow me up! | 55.00% | ~52 |
 | Butcher | 53.00% | ~50 |
 | Mushroom soup of the day | 53.00% | ~50 |
 | Spare Ribs | 52.00% | ~49 |
@@ -28,13 +28,13 @@
 | Thats disgusting! | 48.00% | ~45 |
 | My pants squeak when I walk | 47.00% | ~44 |
 | Surprise!! | 44.00% | ~41 |
+| Self assessed tax return | 43.00% | ~40 |
 | Haemochromatosis | 43.00% | ~40 |
-| Self assessed tax return | 41.00% | ~39 |
 | Make America Grate Again | 37.00% | ~35 |
 | You can't stop me, bro! | 36.00% | ~34 |
 | Pasta Bolognese | 36.00% | ~34 |
 | You are no match for me, Billy! | 35.00% | ~33 |
-| Catch the bus with me! | 34.00% | ~32 |
+| Catch the bus with me! | 35.00% | ~33 |
 | Karaoke king | 34.00% | ~32 |
 | I'm going to get a concussion | 33.00% | ~31 |
 | Meatballs, coming up! | 30.00% | ~28 |
@@ -51,8 +51,8 @@
 | Deal with it | 17.00% | ~16 |
 | Just wing it! | 16.00% | ~15 |
 | Yeehaw!!! | 15.00% | ~14 |
+| You're looking mozzare-hella good! | 14.00% | ~13 |
 | Ancient Ruins of Dirty Feet | 14.00% | ~13 |
-| You're looking mozzare-hella good! | 13.00% | ~12 |
 | Timber! | 12.00% | ~11 |
 | Free Of Chains | 12.00% | ~11 |
 | Grumpy Immortal | 11.00% | ~10 |

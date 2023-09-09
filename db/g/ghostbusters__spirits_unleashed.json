@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2034,7 +2034,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25711,
+  "EOS_Progressed": 25712,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 1,
@@ -12454,6 +12454,11 @@
       "Time": "2023-09-09T18:08:27.5839432+00:00",
       "NumProgressed": 25711,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-09T19:07:46.4912233+00:00",
+      "NumProgressed": 25712,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 51,
@@ -12463,9 +12468,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18512
+      "UsersEstimate": 18770
     },
     {
       "ID": "Animated",
@@ -12505,7 +12510,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10284
+      "UsersEstimate": 10285
     },
     {
       "ID": "Collect_Spores",
@@ -12577,7 +12582,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16198
+      "UsersEstimate": 16199
     },
     {
       "ID": "Escape_Artist",
@@ -12609,7 +12614,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7713
+      "UsersEstimate": 7714
     },
     {
       "ID": "Ghost_Expert",
@@ -12625,7 +12630,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 7713
+      "UsersEstimate": 7714
     },
     {
       "ID": "Legions",
@@ -12769,7 +12774,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22111
+      "UsersEstimate": 22112
     },
     {
       "ID": "Summoner",
@@ -12849,7 +12854,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12341
+      "UsersEstimate": 12342
     },
     {
       "ID": "Welcome_Crew",
@@ -12857,7 +12862,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7970
+      "UsersEstimate": 7971
     },
     {
       "ID": "Whoopsie",
@@ -12865,14 +12870,14 @@
       "Name": "Whoopsie",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25711,
+      "Progressed": 25712,
       "Completed": 55
     }
   ],
@@ -12880,8 +12885,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-09T11:04:23.182326+00:00",
-  "LastChanged_Achievements": "2023-09-09T18:08:27.5839427+00:00",
+  "LastChanged_Achievements": "2023-09-09T19:07:46.4912228+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:01:38.4874618+00:00",
-  "LastUpdate_Achievements": "2023-09-09T18:08:27.584071+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:01:02.4905438+00:00",
+  "LastUpdate_Achievements": "2023-09-09T19:07:46.4913282+00:00"
 }

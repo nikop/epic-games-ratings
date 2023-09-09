@@ -27,8 +27,8 @@ Rating: 4.82 (Ranked 66)
 | I chose my shackles | 25.00% | ~636 |
 | Ancient power | 25.00% | ~636 |
 | Sacred Woods | 23.00% | ~585 |
+| Capelworth | 23.00% | ~585 |
 | Little light | 22.00% | ~559 |
-| Capelworth | 22.00% | ~559 |
 | Full equipped | 22.00% | ~559 |
 | Glyndemere | 21.00% | ~534 |
 | Iffighain Headquarters | 21.00% | ~534 |

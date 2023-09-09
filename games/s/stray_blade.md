@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~51 |
-| Tinkerer | 64.00% | ~38 |
-| Welcome to the Club | 36.00% | ~21 |
-| Apprentice | 31.00% | ~18 |
+| Self-Defence | 85.00% | ~51 |
+| Tinkerer | 63.00% | ~38 |
+| Welcome to the Club | 35.00% | ~21 |
+| Apprentice | 30.00% | ~18 |
 | A new World ahead | 25.00% | ~15 |
-| Can't touch this | 24.00% | ~14 |
-| Don't Cry Wolf | 19.00% | ~11 |
+| Can't touch this | 23.00% | ~14 |
+| Don't Cry Wolf | 18.00% | ~11 |
 | Freezing Cold | 17.00% | ~10 |
 | The Power of the Mountains | 17.00% | ~10 |
 | Searing Heat | 15.00% | ~9 |
 | Changing the World | 15.00% | ~9 |
-| Nothing but the Truth | 14.00% | ~8 |
-| Expert | 14.00% | ~8 |
-| The Golden Flash | 14.00% | ~8 |
+| Nothing but the Truth | 13.00% | ~8 |
+| Expert | 13.00% | ~8 |
+| The Golden Flash | 13.00% | ~8 |
 | Through Dangers Untold | 10.00% | ~6 |
 | Locked and Loaded | 10.00% | ~6 |
 | Witch | 10.00% | ~6 |
@@ -28,15 +28,16 @@
 | The A-Team | 7.00% | ~4 |
 | Defeat Ingla | 5.00% | ~3 |
 | Defeat Tezuth | 5.00% | ~3 |
+| Ancient Powers | 5.00% | ~3 |
 | Finally! | 5.00% | ~3 |
 | The End | 5.00% | ~3 |
 | But what of the Acreans? | 5.00% | ~3 |
 | Unveiling the Truth | 5.00% | ~3 |
 | Sponsor | 3.00% | ~2 |
-| Ancient Powers | 3.00% | ~2 |
 | Wayseeker | 3.00% | ~2 |
 | Pathfinder | 3.00% | ~2 |
 | A Deceiving Gift | 3.00% | ~2 |
+| Style over Stats | 2.00% | ~1 |
 | Mountain Lover | 2.00% | ~1 |
 | Wasteland Connoisseur | 2.00% | ~1 |
 | Forest Expert | 2.00% | ~1 |
@@ -44,14 +45,13 @@
 | Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
 | Globetrotter | 2.00% | ~1 |
-| Style over Stats | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 383)  
+Progressed: 60 (Ranked 382)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-05 | 57 | 0 |
 | 2023-09-06 | 58 | 0 |
 | 2023-09-07 | 59 | 0 |
+| 2023-09-09 | 60 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

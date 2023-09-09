@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 609,
-  "EOS_Completed": 92,
-  "EOS_NewPlayers": 139,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 15.11,
+  "EOS_Progressed": 610,
+  "EOS_Completed": 93,
+  "EOS_NewPlayers": 140,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 15.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2608,6 +2608,11 @@
       "Time": "2023-09-09T18:05:26.8186584+00:00",
       "NumProgressed": 609,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-09-09T19:05:01.7983993+00:00",
+      "NumProgressed": 610,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 22,
@@ -2619,7 +2624,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "LEVEL_002",
@@ -2627,7 +2632,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "LEVEL_003",
@@ -2635,7 +2640,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "LEVEL_004",
@@ -2643,7 +2648,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "LEVEL_005",
@@ -2651,7 +2656,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "LEVEL_006",
@@ -2667,7 +2672,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "LEVEL_008",
@@ -2691,7 +2696,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "LEVEL_011",
@@ -2763,7 +2768,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_020",
@@ -2771,7 +2776,7 @@
       "Name": "City of dreams",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LEVEL_021",
@@ -2779,7 +2784,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "LEVEL_022",
@@ -2787,23 +2792,23 @@
       "Name": "Night walk along the beach",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 609,
-      "Completed": 92
+      "Progressed": 610,
+      "Completed": 93
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-09T18:05:26.8186579+00:00",
+  "LastChanged_Achievements": "2023-09-09T19:05:01.7983988+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:00:22.6689679+00:00",
-  "LastUpdate_Achievements": "2023-09-09T18:05:26.8186929+00:00"
+  "LastUpdate_Ratings": "2023-09-09T18:59:53.2176897+00:00",
+  "LastUpdate_Achievements": "2023-09-09T19:05:01.798426+00:00"
 }

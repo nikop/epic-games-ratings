@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 54,
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.5,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -539,6 +539,11 @@
       "Time": "2023-09-09T17:05:44.8979857+00:00",
       "NumProgressed": 110,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-09T19:06:22.410369+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 25,
@@ -558,15 +563,15 @@
       "Name": "In this together",
       "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -588,7 +593,7 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -598,7 +603,7 @@
       "Name": "Open door",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "META_RESULT_1-3",
@@ -612,7 +617,7 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -654,7 +659,7 @@
       "Name": "Rascal",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -684,17 +689,17 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -708,7 +713,7 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -749,14 +754,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-09T18:06:55.4268015+00:00",
+  "LastChanged_Achievements": "2023-09-09T19:06:22.4103686+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:01:57.3868519+00:00",
-  "LastUpdate_Achievements": "2023-09-09T18:06:55.4268204+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:01:20.2149815+00:00",
+  "LastUpdate_Achievements": "2023-09-09T19:06:22.4103903+00:00"
 }

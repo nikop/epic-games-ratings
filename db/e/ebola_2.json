@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1021,6 +1021,11 @@
       "Time": "2023-09-09T17:03:42.2382808+00:00",
       "NumProgressed": 263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T19:03:48.1260159+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1120,7 +1125,7 @@
       "Name": "Recluse \u2714",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achMeat",
@@ -1166,23 +1171,23 @@
       "ID": "achWitch",
       "SetID": "1al1mjg",
       "Name": "Witch \u2714",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-09T18:04:06.1684635+00:00",
+  "LastChanged_Achievements": "2023-09-09T19:03:48.1260153+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.0737493+00:00",
-  "LastUpdate_Ratings": "2023-09-09T17:59:26.1476997+00:00",
-  "LastUpdate_Achievements": "2023-09-09T18:04:06.1684898+00:00"
+  "LastUpdate_Ratings": "2023-09-09T18:59:02.0388548+00:00",
+  "LastUpdate_Achievements": "2023-09-09T19:03:48.1260328+00:00"
 }

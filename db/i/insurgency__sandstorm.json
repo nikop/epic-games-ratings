@@ -3307,9 +3307,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 443647,
+  "EOS_Progressed": 443740,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4282,
+  "EOS_NewPlayers": 4359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19172,6 +19172,11 @@
       "Time": "2023-09-09T18:07:07.8170149+00:00",
       "NumProgressed": 443647,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-09T19:06:34.1184513+00:00",
+      "NumProgressed": 443740,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -19183,7 +19188,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8873
+      "UsersEstimate": 8875
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -19191,7 +19196,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4436
+      "UsersEstimate": 4437
     },
     {
       "ID": "ACH_CARRYING",
@@ -19199,7 +19204,7 @@
       "Name": "Carrying",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3994
     },
     {
       "ID": "ACH_CHECKPOINT_VICTORY",
@@ -19207,7 +19212,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8873
+      "UsersEstimate": 8875
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -19215,7 +19220,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -19231,7 +19236,7 @@
       "Name": "Efficient",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3994
     },
     {
       "ID": "ACH_EXPLOITATIVE",
@@ -19239,7 +19244,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17750
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -19255,7 +19260,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8873
+      "UsersEstimate": 8875
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -19263,7 +19268,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 8873
+      "UsersEstimate": 8875
     },
     {
       "ID": "ACH_GROUNDED",
@@ -19271,7 +19276,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3549
+      "UsersEstimate": 3550
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -19287,7 +19292,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13309
+      "UsersEstimate": 13312
     },
     {
       "ID": "ACH_JR_50",
@@ -19311,7 +19316,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13309
+      "UsersEstimate": 13312
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -19319,7 +19324,7 @@
       "Name": "Mount \u0026 Gun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3994
     },
     {
       "ID": "ACH_NUMBAH_ONE",
@@ -19335,7 +19340,7 @@
       "Name": "Personal",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3994
     },
     {
       "ID": "ACH_PLAY_TO_WIN",
@@ -19343,7 +19348,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 3549
+      "UsersEstimate": 3550
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -19351,7 +19356,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17750
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -19359,7 +19364,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8873
+      "UsersEstimate": 8875
     },
     {
       "ID": "ACH_REFLEXES",
@@ -19383,7 +19388,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4436
+      "UsersEstimate": 4437
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -19391,7 +19396,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8873
+      "UsersEstimate": 8875
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -19399,7 +19404,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4436
+      "UsersEstimate": 4437
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -19415,7 +19420,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13309
+      "UsersEstimate": 13312
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -19439,7 +19444,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 13309
+      "UsersEstimate": 13312
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -19447,7 +19452,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 22182
+      "UsersEstimate": 22187
     },
     {
       "ID": "ACH_WET_FEET",
@@ -19455,22 +19460,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17746
+      "UsersEstimate": 17750
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 443647,
+      "Progressed": 443740,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-09-09T01:38:30.1189127+00:00",
-  "LastChanged_Achievements": "2023-09-09T18:07:07.8170143+00:00",
+  "LastChanged_Achievements": "2023-09-09T19:06:34.1184508+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.4877195+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:00:29.520203+00:00",
-  "LastUpdate_Achievements": "2023-09-09T18:07:07.8171363+00:00"
+  "LastUpdate_Ratings": "2023-09-09T18:59:59.3518806+00:00",
+  "LastUpdate_Achievements": "2023-09-09T19:06:34.1185481+00:00"
 }

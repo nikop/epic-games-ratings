@@ -6,7 +6,7 @@ Rating: 4.73 (Ranked 162)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 71.00% | ~439 |
-| The Adventure Begins | 55.00% | ~340 |
+| The Adventure Begins | 56.00% | ~347 |
 | Swabbie | 43.00% | ~266 |
 | With Great Power… | 42.00% | ~260 |
 | This Belongs in a Museum | 37.00% | ~229 |

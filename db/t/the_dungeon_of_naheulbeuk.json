@@ -784,10 +784,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 264,
       "NumberOfAwardsMax": 190
+    },
+    {
+      "Time": "2023-09-09T19:00:23.0234681+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 265,
+      "NumberOfAwardsMax": 190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 264,
+  "NumberOfAwards": 265,
   "NumberOfAwardsMax": 190,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -801,7 +807,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Great for Beginners",
@@ -816,9 +822,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222640,
+  "EOS_Progressed": 222649,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2184,
+  "EOS_NewPlayers": 2174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10176,6 +10182,11 @@
       "Time": "2023-09-09T18:07:51.8470374+00:00",
       "NumProgressed": 222640,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-09T19:07:13.7517817+00:00",
+      "NumProgressed": 222649,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10635,7 +10646,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64566
+      "UsersEstimate": 64568
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10707,7 +10718,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "KillDungeonLich",
@@ -10890,21 +10901,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222640,
+      "Progressed": 222649,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222640,
+      "Progressed": 222649,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-09-09T14:59:24.0058656+00:00",
-  "LastChanged_Achievements": "2023-09-09T18:07:51.8470369+00:00",
+  "LastChanged": "2023-09-09T19:00:23.0234679+00:00",
+  "LastChanged_Achievements": "2023-09-09T19:07:13.7517812+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:00:55.4513109+00:00",
-  "LastUpdate_Achievements": "2023-09-09T18:07:51.8472085+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:00:23.0234685+00:00",
+  "LastUpdate_Achievements": "2023-09-09T19:07:13.7519171+00:00"
 }

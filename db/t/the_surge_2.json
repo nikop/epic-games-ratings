@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1995,
+  "EOS_Progressed": 1996,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2301,6 +2301,11 @@
       "Time": "2023-09-07T18:07:29.9958088+00:00",
       "NumProgressed": 1995,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-09T19:06:07.3390831+00:00",
+      "NumProgressed": 1996,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 57,
@@ -2318,9 +2323,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1297
     },
     {
       "ID": "ACHV_03",
@@ -2336,7 +2341,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACHV_05",
@@ -2384,7 +2389,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHV_11",
@@ -2464,7 +2469,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHV_21",
@@ -2512,7 +2517,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACHV_27",
@@ -2520,7 +2525,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACHV_28",
@@ -2584,7 +2589,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "ACHV_36",
@@ -2598,9 +2603,9 @@
       "ID": "ACHV_37",
       "SetID": "8p5mlmc",
       "Name": "Luminary",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 439
     },
     {
       "ID": "ACHV_38",
@@ -2616,7 +2621,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "ACHV_40",
@@ -2767,7 +2772,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1995,
+      "Progressed": 1996,
       "Completed": 11
     }
   ],
@@ -2775,8 +2780,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-09T18:06:38.6631982+00:00",
+  "LastChanged_Achievements": "2023-09-09T19:06:07.3390825+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:53.7808112+00:00",
-  "LastUpdate_Ratings": "2023-09-09T17:58:43.5686741+00:00",
-  "LastUpdate_Achievements": "2023-09-09T18:06:38.663263+00:00"
+  "LastUpdate_Ratings": "2023-09-09T18:58:23.5595627+00:00",
+  "LastUpdate_Achievements": "2023-09-09T19:06:07.3391614+00:00"
 }

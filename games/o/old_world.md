@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 5.00% | ~691 |
-| Settler | 5.00% | ~691 |
-| Play a Single Player Game | 5.00% | ~691 |
-| The Clergy | 5.00% | ~691 |
+| Explorer | 5.00% | ~692 |
+| Settler | 5.00% | ~692 |
+| Play a Single Player Game | 5.00% | ~692 |
+| The Clergy | 5.00% | ~692 |
 | Intrepid | 4.00% | ~553 |
 | Friendly Family | 4.00% | ~553 |
 | Able | 3.00% | ~415 |
@@ -213,6 +213,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~14 |
 | Destroyer | 0.10% | ~14 |
 | Rebuilder | 0.10% | ~14 |
+| White Death | 0.10% | ~14 |
 | Ethnic Diversity | 0.10% | ~14 |
 | Et tu Brutus? | 0.10% | ~14 |
 | Battle of the Fertile Crescent | 0.10% | ~14 |
@@ -287,7 +288,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
-| White Death | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,829 (Ranked 121)  
+Progressed: 13,830 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -445,7 +445,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-06 | 13,796 | 5 |
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
-| 2023-09-09 | 13,829 | 5 |
+| 2023-09-09 | 13,830 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  
