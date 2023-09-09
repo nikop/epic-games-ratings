@@ -4,7 +4,7 @@
   "ProductSlug": "reyna-darkness-0e1bb8",
   "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-16T16:00:00+00:00",
@@ -50,17 +50,17 @@
       "ID": "BECOME A BUILDER",
       "SetID": "517hp5f",
       "Name": "BECOME A BUILDER",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BUILDING EXPERT",
       "SetID": "517hp5f",
       "Name": "BUILDING EXPERT",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 140,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAMPION",
@@ -122,9 +122,9 @@
       "ID": "PROFESSIONAL BUILDER",
       "SetID": "517hp5f",
       "Name": "PROFESSIONAL BUILDER",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ROAD TO GLORY",
@@ -161,8 +161,8 @@
   ],
   "FirstSeen": "2023-07-18T21:57:22.0606659+00:00",
   "FirstSeenAchievements": "2023-06-18T07:00:32.9688598+00:00",
-  "LastChanged_Achievements": "2023-09-09T12:03:15.6660948+00:00",
+  "LastChanged_Achievements": "2023-09-09T13:02:33.7283558+00:00",
   "LastUpdate_AppInfo": "2023-09-03T12:59:21.2121125+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:58:19.0688628+00:00",
-  "LastUpdate_Achievements": "2023-09-09T12:03:15.6661078+00:00"
+  "LastUpdate_Ratings": "2023-09-09T12:59:47.1587257+00:00",
+  "LastUpdate_Achievements": "2023-09-09T13:02:33.72837+00:00"
 }

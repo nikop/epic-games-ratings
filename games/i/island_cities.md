@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~568 |
-| A tiny town | 86.00% | ~504 |
-| Buildings, roads, cars, ...and people | 66.00% | ~387 |
-| Great view from the beach and from the hill | 55.00% | ~322 |
-| Bridges to come and go | 48.00% | ~281 |
-| Found an oasis | 41.00% | ~240 |
-| Burger or pizza? | 37.00% | ~217 |
-| Passion for sports | 31.00% | ~182 |
-| Who loves trains? | 28.00% | ~164 |
-| Easy and steady climb | 26.00% | ~152 |
-| At the heart of the city | 23.00% | ~135 |
-| Calm neighborhood | 22.00% | ~129 |
-| Elevated ring | 20.00% | ~117 |
-| Not lonely anymore | 20.00% | ~117 |
-| Monumental tribute | 19.00% | ~111 |
-| The beach is right there | 18.00% | ~105 |
-| Commuting | 18.00% | ~105 |
-| Le jardin magnifique | 17.00% | ~100 |
-| Aiming for a living and human city | 16.00% | ~94 |
-| City of dreams | 16.00% | ~94 |
-| Happy Christmas night! | 15.00% | ~88 |
-| Night walk along the beach | 15.00% | ~88 |
+| Welcome! | 97.00% | ~574 |
+| A tiny town | 86.00% | ~509 |
+| Buildings, roads, cars, ...and people | 66.00% | ~391 |
+| Great view from the beach and from the hill | 55.00% | ~326 |
+| Bridges to come and go | 48.00% | ~284 |
+| Found an oasis | 42.00% | ~249 |
+| Burger or pizza? | 37.00% | ~219 |
+| Passion for sports | 31.00% | ~184 |
+| Who loves trains? | 28.00% | ~166 |
+| Easy and steady climb | 26.00% | ~154 |
+| At the heart of the city | 23.00% | ~136 |
+| Calm neighborhood | 21.00% | ~124 |
+| Elevated ring | 20.00% | ~118 |
+| Not lonely anymore | 20.00% | ~118 |
+| Monumental tribute | 19.00% | ~112 |
+| The beach is right there | 18.00% | ~107 |
+| Commuting | 17.00% | ~101 |
+| Le jardin magnifique | 17.00% | ~101 |
+| Aiming for a living and human city | 16.00% | ~95 |
+| City of dreams | 15.00% | ~89 |
+| Happy Christmas night! | 15.00% | ~89 |
+| Night walk along the beach | 15.00% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 586 (Ranked 233)  
-Completed: 92 (15.70%) (Ranked 18)  
+Progressed: 592 (Ranked 233)  
+Completed: 92 (15.54%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 92 (15.70%) (Ranked 18)
 | 2023-09-06 | 486 | 88 |
 | 2023-09-07 | 507 | 88 |
 | 2023-09-08 | 565 | 91 |
-| 2023-09-09 | 586 | 92 |
+| 2023-09-09 | 592 | 92 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

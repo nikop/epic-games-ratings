@@ -6,19 +6,19 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~706 |
+| Cabin boy | 81.00% | ~707 |
 | My little farm | 65.00% | ~567 |
-| Every beginning is difficult | 63.00% | ~549 |
-| Gofer | 57.00% | ~497 |
-| 3, 2, 1, mine | 56.00% | ~488 |
+| Every beginning is difficult | 63.00% | ~550 |
+| Gofer | 57.00% | ~498 |
+| 3, 2, 1, mine | 56.00% | ~489 |
 | O Captain! My Captain! | 54.00% | ~471 |
-| Seafarer | 53.00% | ~462 |
+| Seafarer | 53.00% | ~463 |
 | Greed for gold | 43.00% | ~375 |
-| Intangible | 42.00% | ~366 |
-| I'm out of here for a while | 42.00% | ~366 |
-| In a mint condition | 38.00% | ~331 |
+| Intangible | 42.00% | ~367 |
+| I'm out of here for a while | 42.00% | ~367 |
+| In a mint condition | 38.00% | ~332 |
 | Licence to Kill | 37.00% | ~323 |
-| Pirates! | 35.00% | ~305 |
+| Pirates! | 35.00% | ~306 |
 | Collectionitis | 29.00% | ~253 |
 | Megalomania | 29.00% | ~253 |
 | Christening | 28.00% | ~244 |
@@ -29,8 +29,8 @@ Number of Ratings: 53  (23.09.2022)
 | My precious! | 17.00% | ~148 |
 | Conquistador | 14.00% | ~122 |
 | Panic buying | 11.00% | ~96 |
-| Just a scratch | 9.00% | ~78 |
-| Your vessel, my vessel | 9.00% | ~78 |
+| Just a scratch | 9.00% | ~79 |
+| Your vessel, my vessel | 9.00% | ~79 |
 | All mine! | 8.00% | ~70 |
 | Paths of Glory | 8.00% | ~70 |
 | Panel of experts | 8.00% | ~70 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Parlay? | 0.80% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 872 (Ranked 213)  
+Progressed: 873 (Ranked 213)  
 Completed: 1 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 1 (0.11%) (Ranked 215)
 | 2023-09-06 | 865 | 1 |
 | 2023-09-07 | 868 | 1 |
 | 2023-09-08 | 869 | 1 |
-| 2023-09-09 | 872 | 1 |
+| 2023-09-09 | 873 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

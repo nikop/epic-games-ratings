@@ -383,9 +383,9 @@
       "ID": "secret11",
       "SetID": "39f6ck8",
       "Name": "Math Wizard",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "secret12",
@@ -431,9 +431,9 @@
       "ID": "secret17",
       "SetID": "39f6ck8",
       "Name": "Who\u0027s A Good Boy",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "secret18",
@@ -463,9 +463,9 @@
       "ID": "secret20",
       "SetID": "39f6ck8",
       "Name": "Caretaker",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 153
     },
     {
       "ID": "secret21",
@@ -495,9 +495,9 @@
       "ID": "secret24",
       "SetID": "39f6ck8",
       "Name": "Power Up",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "secret25",
@@ -527,17 +527,17 @@
       "ID": "secret28",
       "SetID": "39f6ck8",
       "Name": "Thick Skin",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "secret29",
       "SetID": "39f6ck8",
       "Name": "Impenetrable Skin",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "secret3",
@@ -639,9 +639,9 @@
       "ID": "secret40",
       "SetID": "39f6ck8",
       "Name": "Diaper Time!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "secret41",
@@ -800,8 +800,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-09-09T12:05:04.6516268+00:00",
+  "LastChanged_Achievements": "2023-09-09T13:06:22.2290912+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:04.5927257+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:57:41.3250711+00:00",
-  "LastUpdate_Achievements": "2023-09-09T12:05:04.6516759+00:00"
+  "LastUpdate_Ratings": "2023-09-09T12:59:10.0703043+00:00",
+  "LastUpdate_Achievements": "2023-09-09T13:06:22.2291445+00:00"
 }

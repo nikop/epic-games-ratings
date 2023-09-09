@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 16.00% | ~1,794 |
 | Mythic Choices | 14.00% | ~1,570 |
 | Defender's Heart | 14.00% | ~1,570 |
-| Banner over the Citadel | 12.00% | ~1,345 |
+| Banner over the Citadel | 12.00% | ~1,346 |
 | Queen's Gratitude | 11.00% | ~1,233 |
 | Fifth Crusade | 8.00% | ~897 |
 | Embrace of the Abyss | 6.00% | ~673 |
@@ -21,15 +21,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 5.00% | ~561 |
 | Voice from Your Dreams | 5.00% | ~561 |
 | All Paths Open | 5.00% | ~561 |
-| Path of the Azata | 4.00% | ~448 |
-| The Legacy | 4.00% | ~448 |
-| Divide and Rule | 4.00% | ~448 |
-| A Flame | 4.00% | ~448 |
-| Next-Door Play | 4.00% | ~448 |
-| Get the Toad | 4.00% | ~448 |
+| Path of the Azata | 4.00% | ~449 |
+| The Legacy | 4.00% | ~449 |
+| Divide and Rule | 4.00% | ~449 |
+| Mythic Reinforcements | 4.00% | ~449 |
+| A Flame | 4.00% | ~449 |
+| Next-Door Play | 4.00% | ~449 |
+| Get the Toad | 4.00% | ~449 |
 | Heart of the Fallen Land | 3.00% | ~336 |
 | Path of the Trickster | 3.00% | ~336 |
-| Mythic Reinforcements | 3.00% | ~336 |
 | Core of the Riddle | 3.00% | ~336 |
 | Hey, I Know You! | 3.00% | ~336 |
 | The Lady of the Forest | 3.00% | ~300 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,212 (Ranked 124)  
+Progressed: 11,213 (Ranked 124)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 11,191 | 0 |
 | 2023-09-07 | 11,199 | 0 |
 | 2023-09-08 | 11,209 | 0 |
-| 2023-09-09 | 11,212 | 0 |
+| 2023-09-09 | 11,213 | 0 |
 ## Awards
 Max (Character Customization): 1,708  (Ranked 118)  
 Sum: 6,929 (Ranked 113)  

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 275,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.51,
+  "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -333,6 +333,11 @@
       "Time": "2023-09-06T20:05:53.5131888+00:00",
       "NumProgressed": 319,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-09T13:04:20.0205183+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -424,7 +429,7 @@
       "Name": "The creature",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_11",
@@ -432,7 +437,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_12",
@@ -440,7 +445,7 @@
       "Name": "Lord Wesley",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "achievement_13",
@@ -456,7 +461,7 @@
       "Name": "Lord Clayton",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_15",
@@ -464,7 +469,7 @@
       "Name": "My dear Magda",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_16",
@@ -495,7 +500,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 8
     }
   ],
@@ -503,8 +508,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-09-09T12:03:32.8209349+00:00",
+  "LastChanged_Achievements": "2023-09-09T13:04:20.020518+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.9303674+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:59:20.7122859+00:00",
-  "LastUpdate_Achievements": "2023-09-09T12:03:32.8209506+00:00"
+  "LastUpdate_Ratings": "2023-09-09T13:00:48.0072777+00:00",
+  "LastUpdate_Achievements": "2023-09-09T13:04:20.0205325+00:00"
 }

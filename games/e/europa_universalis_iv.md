@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,876 |
-| That's a Grand Army | 3.00% | ~11,907 |
-| That is mine! | 3.00% | ~11,907 |
-| Victorious! | 3.00% | ~11,907 |
-| Brothers in Arms | 2.00% | ~7,938 |
-| For the Glory | 2.00% | ~7,938 |
-| That's a Grand Navy | 2.00% | ~7,938 |
-| Seriously?! | 2.00% | ~7,938 |
-| Cold War | 1.00% | ~3,969 |
-| Defender of the Faith | 1.00% | ~3,969 |
-| It's all about the money | 1.00% | ~3,969 |
-| The Princess is in this Castle | 1.00% | ~3,969 |
-| True Catholic | 1.00% | ~3,969 |
-| Respected | 0.90% | ~3,572 |
-| Truly Divine Ruler | 0.90% | ~3,572 |
-| It's all about luck | 0.80% | ~3,175 |
-| Blockader | 0.70% | ~2,778 |
-| Double the Love | 0.70% | ~2,778 |
-| Royal Authority | 0.70% | ~2,778 |
-| Total Control | 0.70% | ~2,778 |
-| My armies are invincible! | 0.60% | ~2,381 |
-| Agressive Expander | 0.50% | ~1,984 |
-| City of Cities | 0.50% | ~1,984 |
-| Combined Arms | 0.50% | ~1,984 |
+| Until death do us apart | 4.00% | ~15,880 |
+| That's a Grand Army | 3.00% | ~11,910 |
+| That is mine! | 3.00% | ~11,910 |
+| Victorious! | 3.00% | ~11,910 |
+| Brothers in Arms | 2.00% | ~7,940 |
+| For the Glory | 2.00% | ~7,940 |
+| That's a Grand Navy | 2.00% | ~7,940 |
+| Seriously?! | 2.00% | ~7,940 |
+| Cold War | 1.00% | ~3,970 |
+| Defender of the Faith | 1.00% | ~3,970 |
+| It's all about the money | 1.00% | ~3,970 |
+| The Princess is in this Castle | 1.00% | ~3,970 |
+| True Catholic | 1.00% | ~3,970 |
+| Respected | 0.90% | ~3,573 |
+| Truly Divine Ruler | 0.90% | ~3,573 |
+| It's all about luck | 0.80% | ~3,176 |
+| Blockader | 0.70% | ~2,779 |
+| Double the Love | 0.70% | ~2,779 |
+| Royal Authority | 0.70% | ~2,779 |
+| Total Control | 0.70% | ~2,779 |
+| My armies are invincible! | 0.60% | ~2,382 |
+| Agressive Expander | 0.50% | ~1,985 |
+| City of Cities | 0.50% | ~1,985 |
+| Combined Arms | 0.50% | ~1,985 |
 | Azur semé de lis or | 0.40% | ~1,588 |
 | Gentle Persuasion | 0.40% | ~1,588 |
 | Queen of Conquest | 0.40% | ~1,588 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396,889 (Ranked 40)  
+Progressed: 396,996 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -503,7 +503,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 393,860 | 0 |
 | 2023-09-07 | 394,982 | 0 |
 | 2023-09-08 | 396,260 | 0 |
-| 2023-09-09 | 396,889 | 0 |
+| 2023-09-09 | 396,996 | 0 |
 ## Awards
 Max (Educational): 5,991  (Ranked 57)  
 Sum: 49,320 (Ranked 26)  

@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | Keep the dream alive | 9.00% | ~250 |
 | The hard way | 9.00% | ~250 |
 | Upfront shredder | 9.00% | ~250 |
+| Bottom ply killer | 7.00% | ~195 |
 | Fashionista | 7.00% | ~195 |
 | Finally he zips it | 7.00% | ~195 |
 | That pinch! | 7.00% | ~195 |
 | Tight lipslides | 7.00% | ~195 |
-| Bottom ply killer | 6.00% | ~167 |
 | Fulfilled the dream | 6.00% | ~167 |
 | G'Day Mate! | 6.00% | ~167 |
 | NAHELL! | 6.00% | ~167 |

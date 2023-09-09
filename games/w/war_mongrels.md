@@ -22,7 +22,7 @@ Number of Ratings: 34  (23.09.2022)
 | Consequences | 33.00% | ~162 |
 | King of Knives | 33.00% | ~162 |
 | Opportunities | 32.00% | ~157 |
-| The Horror | 29.00% | ~142 |
+| The Horror | 30.00% | ~147 |
 | The Difference | 26.00% | ~128 |
 | Vengeance | 25.00% | ~123 |
 | Collectibles of Chapter II | 23.00% | ~113 |

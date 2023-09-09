@@ -5,24 +5,24 @@ Rating: 4.49 (Ranked 579)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~22,098 |
-| Advancement | 73.00% | ~18,757 |
+| Stylish | 86.00% | ~22,099 |
+| Advancement | 73.00% | ~18,758 |
 | Meticulously Efficient | 63.00% | ~16,188 |
-| Discovery | 60.00% | ~15,417 |
-| Fully Upgraded | 54.00% | ~13,875 |
-| Swift Rift Removers | 53.00% | ~13,618 |
-| I collect Spores, Molds, and Fungi | 51.00% | ~13,104 |
-| Cultured | 51.00% | ~13,104 |
+| Discovery | 60.00% | ~15,418 |
+| Fully Upgraded | 54.00% | ~13,876 |
+| Swift Rift Removers | 53.00% | ~13,619 |
+| I collect Spores, Molds, and Fungi | 51.00% | ~13,105 |
+| Cultured | 50.00% | ~12,848 |
 | Vaporous Expansion | 48.00% | ~12,334 |
 | Teamwork | 43.00% | ~11,049 |
 | There you are! | 42.00% | ~10,792 |
 | Clutch Capture | 41.00% | ~10,535 |
-| Back Off | 35.00% | ~8,993 |
-| Daily Dose | 34.00% | ~8,736 |
-| Solo Capture | 33.00% | ~8,479 |
-| Welcome to the Crew | 31.00% | ~7,965 |
-| Ghostbuster In Training | 30.00% | ~7,708 |
-| Icing on the Cake | 30.00% | ~7,708 |
+| Back Off | 35.00% | ~8,994 |
+| Daily Dose | 34.00% | ~8,737 |
+| Solo Capture | 33.00% | ~8,480 |
+| Welcome to the Crew | 31.00% | ~7,966 |
+| Ghostbuster In Training | 30.00% | ~7,709 |
+| Icing on the Cake | 30.00% | ~7,709 |
 | Side Hustle | 27.00% | ~6,938 |
 | Summoner | 27.00% | ~6,938 |
 | We have the best insurance | 26.00% | ~6,681 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 579)
 | I don't need these | 1.00% | ~257 |
 | Mycophile | 1.00% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,695 (Ranked 103)  
+Progressed: 25,696 (Ranked 103)  
 Completed: 55 (0.21%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 55 (0.21%) (Ranked 194)
 | 2023-09-06 | 25,644 | 54 |
 | 2023-09-07 | 25,663 | 54 |
 | 2023-09-08 | 25,689 | 55 |
-| 2023-09-09 | 25,695 | 55 |
+| 2023-09-09 | 25,696 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 251  (Ranked 254)  
 Sum: 2,288 (Ranked 189)  

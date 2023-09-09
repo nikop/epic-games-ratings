@@ -5,23 +5,23 @@ Rating: 4.00 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,782 |
+| Victor | 93.00% | ~1,783 |
 | World Map | 79.00% | ~1,514 |
-| Temple of Eternals | 57.00% | ~1,092 |
+| Temple of Eternals | 57.00% | ~1,093 |
 | Prestigious | 54.00% | ~1,035 |
 | Fellowship Power | 41.00% | ~786 |
 | Guild Power | 25.00% | ~479 |
 | Prestigious x10 | 22.00% | ~422 |
-| The game is on | 21.00% | ~402 |
+| The game is on | 21.00% | ~403 |
 | Exotic Merchant | 19.00% | ~364 |
 | Dragon Clicker | 17.00% | ~326 |
 | Inspection | 17.00% | ~326 |
 | Miner Clicker | 17.00% | ~326 |
 | Full Party | 16.00% | ~307 |
-| Dragon Master | 15.00% | ~287 |
-| Enlightenment | 15.00% | ~287 |
-| Hero inspection | 15.00% | ~287 |
-| Lieutenant | 15.00% | ~287 |
+| Dragon Master | 15.00% | ~288 |
+| Enlightenment | 15.00% | ~288 |
+| Hero inspection | 15.00% | ~288 |
+| Lieutenant | 15.00% | ~288 |
 | Mysterious Rock | 14.00% | ~268 |
 | Natural Talent | 14.00% | ~268 |
 | The Unstoppable | 14.00% | ~268 |
@@ -39,10 +39,10 @@ Rating: 4.00 (Ranked 940)
 | Frostfire Liberator | 10.00% | ~192 |
 | Moving Up The Ladder | 10.00% | ~192 |
 | Scroll Master | 10.00% | ~192 |
-| Here We Go Again | 9.00% | ~172 |
-| Master Enchanter | 9.00% | ~172 |
-| The father of Dragons | 9.00% | ~172 |
-| Trader | 9.00% | ~172 |
+| Here We Go Again | 9.00% | ~173 |
+| Master Enchanter | 9.00% | ~173 |
+| The father of Dragons | 9.00% | ~173 |
+| Trader | 9.00% | ~173 |
 | Crystal Mining | 8.00% | ~153 |
 | Dragon Slayer | 8.00% | ~153 |
 | Blueprint Upgrades | 7.00% | ~134 |
@@ -61,7 +61,7 @@ Rating: 4.00 (Ranked 940)
 | Arena Challenger | 5.00% | ~96 |
 | Background Story | 5.00% | ~96 |
 | Ebony Jungle Liberator | 5.00% | ~96 |
-| What lies behind the bush | 3.00% | ~57 |
+| What lies behind the bush | 3.00% | ~58 |
 | Gear Enchanting | 2.00% | ~38 |
 | Guardian Master | 2.00% | ~38 |
 | Mythic Power | 2.00% | ~38 |
@@ -72,16 +72,16 @@ Rating: 4.00 (Ranked 940)
 | Tree of Life | 0.90% | ~17 |
 | Enhanced War Machines | 0.80% | ~15 |
 | Enchanting skill x5 | 0.70% | ~13 |
-| Angel Power | 0.60% | ~11 |
-| Beast War Machines | 0.60% | ~11 |
-| Pokerface | 0.60% | ~11 |
+| Angel Power | 0.60% | ~12 |
+| Beast War Machines | 0.60% | ~12 |
+| Pokerface | 0.60% | ~12 |
 | Conqueror | 0.50% | ~10 |
 | Ultimate War Machines | 0.50% | ~10 |
 | Silverwood liberator | 0.30% | ~6 |
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,916 (Ranked 180)  
+Progressed: 1,917 (Ranked 180)  
 Completed: 2 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 2 (0.10%) (Ranked 218)
 | 2023-09-06 | 1,904 | 2 |
 | 2023-09-07 | 1,910 | 2 |
 | 2023-09-08 | 1,915 | 2 |
-| 2023-09-09 | 1,916 | 2 |
+| 2023-09-09 | 1,917 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 21  (Ranked 505)  
 Sum: 42 (Ranked 460)  

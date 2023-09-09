@@ -12902,18 +12902,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 452931,
       "NumberOfAwardsMax": 174087
+    },
+    {
+      "Time": "2023-09-09T13:01:22.8598829+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 453500,
+      "NumberOfAwardsMax": 174467
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 452931,
-  "NumberOfAwardsMax": 174087,
+  "NumberOfAwards": 453500,
+  "NumberOfAwardsMax": 174467,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 174087
+      "Count": 174467
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12937,7 +12943,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 17094
+      "Count": 17154
     },
     {
       "Text": "This game is Educational",
@@ -12949,7 +12955,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 16161
+      "Count": 16216
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12961,7 +12967,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 17327
+      "Count": 17401
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13005,8 +13011,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-09T11:59:54.019338+00:00",
+  "LastChanged": "2023-09-09T13:01:22.8598827+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:41.8958927+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:59:54.0193387+00:00",
-  "LastUpdate_Achievements": "2023-09-09T12:05:30.3889565+00:00"
+  "LastUpdate_Ratings": "2023-09-09T13:01:22.8598973+00:00",
+  "LastUpdate_Achievements": "2023-09-09T13:06:47.9422024+00:00"
 }

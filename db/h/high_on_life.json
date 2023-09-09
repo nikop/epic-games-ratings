@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24030,
+  "EOS_Progressed": 24031,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4742,6 +4742,11 @@
       "Time": "2023-09-09T11:07:32.3395788+00:00",
       "NumProgressed": 24030,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-09T13:05:40.1328564+00:00",
+      "NumProgressed": 24031,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4769,7 +4774,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18503
+      "UsersEstimate": 18504
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4801,7 +4806,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6728
+      "UsersEstimate": 6729
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -4817,7 +4822,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18263
+      "UsersEstimate": 18264
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4831,9 +4836,9 @@
       "ID": "ACH_GET_MAGBOOTS",
       "SetID": "cdkbb11",
       "Name": "RIP Davey Glutes",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5767
+      "UsersEstimate": 6008
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4857,7 +4862,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19945
+      "UsersEstimate": 19946
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4873,7 +4878,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13697
+      "UsersEstimate": 13698
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4897,7 +4902,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -4913,7 +4918,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6728
+      "UsersEstimate": 6729
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -4937,7 +4942,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17542
+      "UsersEstimate": 17543
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -4945,7 +4950,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8170
+      "UsersEstimate": 8171
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -5008,22 +5013,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24030,
+      "Progressed": 24031,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1323,
-      "Completed": 1323
+      "Progressed": 1324,
+      "Completed": 1324
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-02T06:57:56.883903+00:00",
-  "LastChanged_Achievements": "2023-09-09T12:04:22.6959721+00:00",
+  "LastChanged_Achievements": "2023-09-09T13:05:40.1328559+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:11.7104478+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:59:32.1735728+00:00",
-  "LastUpdate_Achievements": "2023-09-09T12:04:22.6960208+00:00"
+  "LastUpdate_Ratings": "2023-09-09T13:00:59.9440042+00:00",
+  "LastUpdate_Achievements": "2023-09-09T13:05:40.1329078+00:00"
 }

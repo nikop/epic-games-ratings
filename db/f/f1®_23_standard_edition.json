@@ -2,7 +2,7 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 584,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-07-03T02:21:27.1613315+00:00",
@@ -268,6 +268,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-09T13:00:22.5539637+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -294,9 +300,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-09-03T21:57:07.124423+00:00",
-  "LastChanged_Achievements": "2023-09-09T12:05:08.4351968+00:00",
+  "LastChanged": "2023-09-09T13:00:22.5539635+00:00",
+  "LastChanged_Achievements": "2023-09-09T13:06:26.0723851+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.7348677+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:58:53.6938683+00:00",
-  "LastUpdate_Achievements": "2023-09-09T12:05:08.4352009+00:00"
+  "LastUpdate_Ratings": "2023-09-09T13:00:22.5539642+00:00",
+  "LastUpdate_Achievements": "2023-09-09T13:06:26.072389+00:00"
 }

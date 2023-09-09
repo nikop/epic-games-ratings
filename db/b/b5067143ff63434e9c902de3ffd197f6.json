@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -242,8 +242,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-09-09T12:04:34.758109+00:00",
+  "LastChanged_Achievements": "2023-09-09T13:05:52.6014409+00:00",
   "LastUpdate_AppInfo": "2023-09-04T09:57:21.4023976+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:58:26.8682607+00:00",
-  "LastUpdate_Achievements": "2023-09-09T12:04:34.7581263+00:00"
+  "LastUpdate_Ratings": "2023-09-09T12:59:54.4700213+00:00",
+  "LastUpdate_Achievements": "2023-09-09T13:05:52.6014577+00:00"
 }

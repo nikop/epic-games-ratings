@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1757,9 +1757,9 @@
       "ID": "ACH_FIN_CH07",
       "SetID": "1j25agn",
       "Name": "The Horror",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -1965,8 +1965,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-08T13:58:18.6230978+00:00",
-  "LastChanged_Achievements": "2023-09-09T12:06:43.7746127+00:00",
+  "LastChanged_Achievements": "2023-09-09T13:08:00.8665118+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.8307176+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:58:51.3305356+00:00",
-  "LastUpdate_Achievements": "2023-09-09T12:06:43.7746745+00:00"
+  "LastUpdate_Ratings": "2023-09-09T13:00:20.0346183+00:00",
+  "LastUpdate_Achievements": "2023-09-09T13:08:00.8665651+00:00"
 }

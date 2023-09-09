@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 459 (Ranked 245)  
+Progressed: 459 (Ranked 246)  
 Completed: 2 (0.44%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
