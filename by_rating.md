@@ -119,7 +119,7 @@
 | 110 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 469 |
 | 118 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,248 | 23 |
 | 118 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 517 |
-| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,322 | 91 |
+| 118 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,324 | 91 |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 944 | 148 |
 | 118 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,483 | 75 |
 | 118 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 517 |
@@ -139,7 +139,7 @@
 | 135 | [Diabotical](games/d/diabotical.md) | 4.75 | 277 | 247 |
 | 135 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 688 | 169 |
 | 135 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.75 | 45 | 414 |
-| 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 662 | 174 |
+| 135 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 663 | 174 |
 | 135 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 517 |
 | 135 | [Legend Bowl](games/l/legend_bowl.md) | 4.75 | 0 | 517 |
 | 135 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 588 | 186 |
@@ -381,7 +381,7 @@
 | 368 | [MudRunner](games/m/mudrunner.md) | 4.61 | 256 | 252 |
 | 368 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 517 |
 | 368 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 517 |
-| 368 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,610 | 97 |
+| 368 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,610 | 98 |
 | 368 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 685 | 170 |
 | 368 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 106 | 332 |
 | 368 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 500 | 201 |
@@ -540,7 +540,7 @@
 | 532 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 103 | 333 |
 | 532 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 125 | 314 |
 | 532 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 517 |
-| 532 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 300 | 238 |
+| 532 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 301 | 238 |
 | 532 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.52 | 0 | 517 |
 | 532 | [Sable](games/s/sable.md) | 4.52 | 24 | 488 |
 | 532 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 21 | 504 |
@@ -551,7 +551,7 @@
 | 547 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,120 | 79 |
 | 547 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 517 |
 | 547 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.51 | 0 | 517 |
-| 547 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 147,753 | 7 |
+| 547 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 147,833 | 7 |
 | 547 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,741 | 95 |
 | 547 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 109 | 329 |
 | 547 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 148 | 301 |
@@ -885,7 +885,7 @@
 | 883 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 517 |
 | 883 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 93 | 349 |
 | 883 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 517 |
-| 883 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,602 | 98 |
+| 883 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,614 | 97 |
 | 883 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 344 |
 | 883 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 517 |
 | 883 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 150 | 300 |
@@ -955,12 +955,12 @@
 | 952 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 3.97 | 0 | 517 |
 | 954 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 414 |
 | 954 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.95 | 0 | 517 |
-| 956 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 418 | 212 |
 | 956 | [Ironcast](games/i/ironcast.md) | 3.94 | 0 | 517 |
 | 956 | [Patron](games/p/patron.md) | 3.94 | 0 | 517 |
-| 959 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 466 |
-| 959 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 27 | 472 |
-| 959 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 517 |
+| 958 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 466 |
+| 958 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 27 | 472 |
+| 958 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 517 |
+| 958 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 418 | 212 |
 | 962 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.92 | 0 | 517 |
 | 963 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 333 |
 | 963 | [Warface](games/w/warface.md) | 3.91 | 412 | 216 |

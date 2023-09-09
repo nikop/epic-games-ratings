@@ -375,7 +375,7 @@
 | [Brick Breaker Premium](games/b/brick_breaker_premium.md) | - | - | 0 | - |
 | [Brick Breaker Premium 2](games/3/342e32c0b4c74b909ff99a6aa8f1f075.md) | - | - | - | - |
 | [Brick Breaker Premium 3](games/1/1421a0ed5cb14f0999cc115d2f0f7377.md) | - | - | - | - |
-| [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 959 | 29 | 466 |
+| [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 958 | 29 | 466 |
 | [Brie Parmesan Mysteries](games/b/brie_parmesan_mysteries.md) | - | - | - | - |
 | [Bright Paw - Definitive Edition](games/b/bright_paw_-_definitive_edition.md) | - | - | 0 | - |
 | [BROK the InvestiGator](games/b/brok_the_investigator.md) | - | - | 0 | - |
@@ -468,7 +468,7 @@
 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 118 | 0 | 517 |
 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 60 | 0 | 517 |
 | [Children of Silentown](games/c/children_of_silentown.md) | - | - | 0 | - |
-| [Chimeraland](games/c/chimeraland.md) | 3.93 | 959 | 27 | 472 |
+| [Chimeraland](games/c/chimeraland.md) | 3.93 | 958 | 27 | 472 |
 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 392 | 4,595 | 72 |
 | [Choo-Choo Charles](games/7/7f849b4158ca4264a43f71d4306a4199.md) | - | - | 0 | - |
 | [Chorus](games/c/chorus.md) | 4.46 | 627 | 32 | 456 |
@@ -508,7 +508,7 @@
 | [Company of Crime](games/c/company_of_crime.md) | - | - | 0 | - |
 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 505 | 1,418 | 128 |
 | [Conan The Mighty Pig](games/c/conan_the_mighty_pig.md) | - | - | - | - |
-| [Conarium](games/c/conarium.md) | 3.93 | 959 | 0 | 517 |
+| [Conarium](games/c/conarium.md) | 3.93 | 958 | 0 | 517 |
 | [Conglomerate 451](games/c/conglomerate_451.md) | - | - | 0 | - |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | - | - | 0 | - |
 | [Conquest of the New World](games/c/conquest_of_the_new_world.md) | - | - | 0 | - |
@@ -543,7 +543,7 @@
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 834 | 22 | 497 |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | - | - | - | - |
 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | - | - | - | - |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.94 | 956 | 418 | 212 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 958 | 418 | 212 |
 | [Crimson Dawn](games/c/crimson_dawn.md) | - | - | 0 | - |
 | [Crimson Spires](games/c/crimson_spires.md) | - | - | 0 | - |
 | [Crimsonland](games/0/04d22e276f144358875f1789bd49f135.md) | - | - | - | - |
@@ -608,7 +608,7 @@
 | [Dark Light](games/d/dark_light.md) | 4.31 | 789 | 0 | 517 |
 | [Dark Matter](games/d/dark_matter.md) | - | - | 0 | - |
 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 241 | 7,380 | 48 |
-| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 118 | 3,322 | 91 |
+| [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 118 | 3,324 | 91 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 532 | 42 | 423 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 368 | 386 | 222 |
 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 565 | 91 | 351 |
@@ -882,7 +882,7 @@
 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | - | - | 0 | - |
 | [Faeria](games/f/faeria.md) | 4.46 | 627 | 111 | 326 |
 | [Falcon Age](games/f/falcon_age.md) | - | - | 0 | - |
-| [Fall Guys](games/f/fall_guys.md) | 4.51 | 547 | 147,753 | 7 |
+| [Fall Guys](games/f/fall_guys.md) | 4.51 | 547 | 147,833 | 7 |
 | [Fall of Light: Darkest Edition](games/f/fall_of_light__darkest_edition.md) | - | - | 0 | - |
 | [Fall of Porcupine](games/a/aba40ee99a904fe8891fddc8f88a1f65.md) | - | - | 0 | - |
 | [Fallen Legion Revenants](games/f/fallen_legion_revenants.md) | - | - | - | - |
@@ -969,7 +969,7 @@
 | [Football Manager 2021](games/f/football_manager_2021.md) | - | - | - | - |
 | [Football Manager 2021 Touch](games/f/football_manager_2021_touch.md) | - | - | - | - |
 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 84 | 6,431 | 54 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 135 | 662 | 174 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 135 | 663 | 174 |
 | [Football Stars Legend 24](games/d/d5761edf0cbb4815a96c65013863cc9a.md) | - | - | - | - |
 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 532 | 0 | 517 |
 | [For The King](games/f/for_the_king.md) | 4.70 | 201 | 387 | 221 |
@@ -1089,7 +1089,7 @@
 | [Good Company](games/g/good_company.md) | 4.44 | 649 | 0 | 517 |
 | [Good Heavens!](games/g/good_heavens!.md) | - | - | - | - |
 | [Gorogoa](games/g/gorogoa.md) | - | - | 0 | - |
-| [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 883 | 2,602 | 98 |
+| [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 883 | 2,614 | 97 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | - | - | 0 | - |
 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 873 | 0 | 517 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.19 | 873 | 0 | 517 |
@@ -1866,7 +1866,7 @@
 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 368 | 0 | 517 |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | - | - | - | - |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 774 | 0 | 517 |
-| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 368 | 2,610 | 97 |
+| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 368 | 2,610 | 98 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 452 | 3,247 | 94 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 118 | 1,708 | 118 |
 | [Pathway](games/p/pathway.md) | 4.44 | 649 | 0 | 517 |
@@ -1990,7 +1990,7 @@
 | [RAGE 2](games/r/rage_2.md) | 4.27 | 820 | 2,549 | 99 |
 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.26 | 827 | 0 | 517 |
 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 505 | 88 | 356 |
-| [Railway Empire](games/r/railway_empire.md) | 4.52 | 532 | 300 | 238 |
+| [Railway Empire](games/r/railway_empire.md) | 4.52 | 532 | 301 | 238 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.47 | 612 | 0 | 517 |
 | [Rain World](games/r/rain_world.md) | 4.91 | 6 | 0 | 517 |
 | [Rainbow Billy: The Curse of the Leviathan](games/r/rainbow_billy__the_curse_of_the_leviathan.md) | - | - | 0 | - |
@@ -2865,8 +2865,8 @@
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.41 | 690 | 168 | 290 |
+| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.68 | 241 | 0 | 517 |
@@ -2947,8 +2947,8 @@
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | - | - | - | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
 | [Under a Rock](games/f/f1838ea95ba442d98b3da503ae5a5a33.md) | - | - | - | - |
-| [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
 | [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | - | - | 0 | - |
+| [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
 | [Undergrave](games/u/undergrave.md) | - | - | 0 | - |
 | [Underworld Defense](games/2/229da97a621d443dafe527f874375f3b.md) | - | - | - | - |
 | [Undetected](games/u/undetected.md) | - | - | 0 | - |

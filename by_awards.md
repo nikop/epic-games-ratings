@@ -6,7 +6,7 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 222,642 | 4.68 | 241 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 199,160 | 4.19 | 873 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 174,087 | 4.88 | 19 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 147,753 | 4.51 | 547 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 147,833 | 4.51 | 547 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 115,982 | 4.69 | 217 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 77,833 | 4.62 | 354 |
 | 10 | [VALORANT](games/v/valorant.md) | 69,049 | 4.53 | 520 |
@@ -90,14 +90,14 @@
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,472 | 4.68 | 241 |
 | 89 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,443 | 3.98 | 947 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,346 | 4.68 | 241 |
-| 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,322 | 4.76 | 118 |
+| 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,324 | 4.76 | 118 |
 | 92 | [Trackmania](games/t/trackmania.md) | 3,271 | 4.67 | 259 |
 | 93 | [Hades](games/h/hades.md) | 3,251 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,247 | 4.57 | 452 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,741 | 4.51 | 547 |
 | 96 | [Among Us](games/a/among_us.md) | 2,650 | 4.57 | 452 |
-| 97 | [Path of Exile](games/p/path_of_exile.md) | 2,610 | 4.61 | 368 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,602 | 4.18 | 883 |
+| 97 | [Gotham Knights](games/g/gotham_knights.md) | 2,614 | 4.18 | 883 |
+| 98 | [Path of Exile](games/p/path_of_exile.md) | 2,610 | 4.61 | 368 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,549 | 4.27 | 820 |
 | 100 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,512 | 4.49 | 579 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,510 | 4.10 | 914 |
@@ -173,7 +173,7 @@
 | 171 | [Neon Abyss](games/n/neon_abyss.md) | 684 | 4.68 | 241 |
 | 172 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 683 | 4.74 | 147 |
 | 173 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 670 | 4.67 | 259 |
-| 174 | [Football Manager 2023](games/f/football_manager_2023.md) | 662 | 4.75 | 135 |
+| 174 | [Football Manager 2023](games/f/football_manager_2023.md) | 663 | 4.75 | 135 |
 | 175 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 653 | 4.82 | 66 |
 | 176 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 652 | 4.73 | 163 |
 | 177 | [FAR CRY 4](games/f/far_cry_4.md) | 651 | 4.67 | 259 |
@@ -211,7 +211,7 @@
 | 209 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 431 | 4.60 | 392 |
 | 210 | [Against the Storm](games/a/against_the_storm.md) | 428 | 4.81 | 78 |
 | 211 | [Into the Breach](games/i/into_the_breach.md) | 420 | 4.84 | 49 |
-| 212 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 418 | 3.94 | 956 |
+| 212 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 418 | 3.93 | 958 |
 | 213 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 416 | 4.73 | 163 |
 | 214 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 414 | 4.50 | 565 |
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 414 | 4.70 | 201 |
@@ -237,7 +237,7 @@
 | 235 | [Brawlhalla](games/b/brawlhalla.md) | 316 | 4.60 | 392 |
 | 236 | [House Flipper](games/h/house_flipper.md) | 310 | 4.69 | 217 |
 | 237 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 333 |
-| 238 | [Railway Empire](games/r/railway_empire.md) | 300 | 4.52 | 532 |
+| 238 | [Railway Empire](games/r/railway_empire.md) | 301 | 4.52 | 532 |
 | 239 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 827 |
 | 240 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 287 | 4.46 | 627 |
 | 241 | [Severed Steel](games/s/severed_steel.md) | 283 | 4.69 | 217 |
@@ -465,14 +465,14 @@
 | 463 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 841 |
 | 464 | [Northgard](games/n/northgard.md) | 30 | 4.70 | 201 |
 | 464 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.57 | 452 |
-| 466 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 959 |
+| 466 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 958 |
 | 466 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.33 | 774 |
 | 466 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 665 |
 | 469 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.81 | 78 |
 | 469 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.77 | 110 |
 | 469 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.51 | 547 |
 | 472 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 764 |
-| 472 | [Chimeraland](games/c/chimeraland.md) | 27 | 3.93 | 959 |
+| 472 | [Chimeraland](games/c/chimeraland.md) | 27 | 3.93 | 958 |
 | 472 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 471 |
 | 472 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 27 | 4.60 | 392 |
 | 472 | [Forspoken](games/f/forspoken.md) | 27 | 4.15 | 898 |

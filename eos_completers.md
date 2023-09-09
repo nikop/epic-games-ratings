@@ -31,12 +31,12 @@
 | 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 32 | [Sonic Origins](games/s/sonic_origins.md) | 9.01% |
-| 33 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.99% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
+| 33 | [Sonic Origins](games/s/sonic_origins.md) | 9.01% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
 | 36 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
-| 37 | [Ravenlok](games/r/ravenlok.md) | 7.80% |
+| 37 | [Ravenlok](games/r/ravenlok.md) | 7.79% |
 | 38 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.15% |
@@ -88,8 +88,8 @@
 | 84 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.48% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
-| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
-| 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.27% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
+| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.27% |
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.22% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.17% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
@@ -133,8 +133,8 @@
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
-| 134 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
-| 135 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.70% |
+| 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.73% |
+| 135 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 136 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.68% |
 | 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.68% |
 | 138 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
