@@ -2,9 +2,9 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -459,6 +459,11 @@
       "Time": "2023-09-03T15:07:08.7225526+00:00",
       "NumProgressed": 89,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T10:03:42.868752+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -470,47 +475,47 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "7pimpda",
       "Name": "Giant Lizard Killer",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_11",
       "SetID": "7pimpda",
       "Name": "Guardian",
-      "Percentage": 45,
-      "XP": 10,
-      "UsersEstimate": 40
-    },
-    {
-      "ID": "ACHIEVEMENT_12",
-      "SetID": "7pimpda",
-      "Name": "Nosebleeder",
       "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 41
     },
     {
+      "ID": "ACHIEVEMENT_12",
+      "SetID": "7pimpda",
+      "Name": "Nosebleeder",
+      "Percentage": 47,
+      "XP": 10,
+      "UsersEstimate": 42
+    },
+    {
       "ID": "ACHIEVEMENT_13",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Killer",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_14",
       "SetID": "7pimpda",
       "Name": "Youth Magnet",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -518,23 +523,23 @@
       "Name": "Furious Scorpion Killer",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_16",
       "SetID": "7pimpda",
       "Name": "Lethal Blade Mantis Killer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "7pimpda",
       "Name": "Squeaky Clean",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -558,7 +563,7 @@
       "Name": "Training Simulation",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -580,9 +585,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "7pimpda",
       "Name": "Beginner Cook",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -598,15 +603,15 @@
       "Name": "Arms Mechanic",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "7pimpda",
       "Name": "Beginner Artificer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -614,7 +619,7 @@
       "Name": "Master Artificer",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -622,13 +627,13 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_28",
       "SetID": "7pimpda",
       "Name": "Trader",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
       "UsersEstimate": 37
     },
@@ -638,7 +643,7 @@
       "Name": "Kuku Bird Hunter",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -652,9 +657,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -726,7 +731,7 @@
       "Name": "Storm Traveller",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -756,7 +761,7 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "7pimpda",
       "Name": "Warden Slayer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 13
     },
@@ -790,7 +795,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 70,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -798,15 +803,15 @@
       "Name": "Flower Thief",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_7",
       "SetID": "7pimpda",
       "Name": "Apostle of Flame",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -814,22 +819,22 @@
       "Name": "Seal Breaker",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_9",
       "SetID": "7pimpda",
       "Name": "Handyman",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 0
     }
   ],
@@ -837,8 +842,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:03:09.9681586+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:03:42.8687511+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:25.0723404+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:57:49.2689079+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:03:09.9682015+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:57:31.4983312+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:03:42.8687922+00:00"
 }

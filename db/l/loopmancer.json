@@ -4,7 +4,7 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
@@ -378,9 +378,9 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 99,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_AVOID_PLAZA_ATTACK",
@@ -394,9 +394,9 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 104,
+      "Percentage": 105,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_DEFEAT_OGATA",
@@ -778,9 +778,9 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_UNLOCK_MANY_CARDS",
@@ -843,8 +843,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:06:55.0714739+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:07:38.4671987+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:32.1293062+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:57:50.3140358+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:06:55.0715258+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:57:32.8250144+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:07:38.4672531+00:00"
 }

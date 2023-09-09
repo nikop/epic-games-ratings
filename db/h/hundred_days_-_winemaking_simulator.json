@@ -970,9 +970,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2028,
+  "EOS_Progressed": 2033,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1307,
+  "EOS_NewPlayers": 1304,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2160,6 +2160,11 @@
       "Time": "2023-09-09T09:04:31.2290336+00:00",
       "NumProgressed": 2028,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-09T10:04:45.9970106+00:00",
+      "NumProgressed": 2033,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2220,7 +2225,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 710
+      "UsersEstimate": 712
     },
     {
       "ID": "a_19",
@@ -2244,7 +2249,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "a_21",
@@ -2252,7 +2257,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "a_22",
@@ -2362,9 +2367,9 @@
       "ID": "a_36",
       "SetID": "daiie3o",
       "Name": "Unsuitable Terroir",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "a_4",
@@ -2419,7 +2424,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2028,
+      "Progressed": 2033,
       "Completed": 3
     }
   ],
@@ -2427,8 +2432,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-07T15:00:06.6225416+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:04:31.2290331+00:00",
-  "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:59:31.7326805+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:04:31.2290639+00:00"
+  "LastChanged_Achievements": "2023-09-09T10:04:45.9970097+00:00",
+  "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
+  "LastUpdate_Ratings": "2023-09-09T09:59:42.1647051+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:04:45.9970406+00:00"
 }

@@ -411,9 +411,9 @@
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ENTER_REGION_SPIRE",
@@ -491,9 +491,9 @@
       "ID": "ACH_FIND_ALL_PLANT_TYPES",
       "SetID": "7i20me3",
       "Name": "Witch",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIND_ALL_RUNES",
@@ -507,9 +507,9 @@
       "ID": "ACH_FIND_ALL_STORY_MURALS",
       "SetID": "7i20me3",
       "Name": "Nothing but the Truth",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIND_ALL_STORY_NOTES",
@@ -675,9 +675,9 @@
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
       "SetID": "7i20me3",
       "Name": "Changing the World",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -698,8 +698,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:06:18.5050701+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:06:55.7855682+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:20.6233931+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:59:40.1912376+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:06:18.5051105+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:59:52.7310416+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:06:55.7856062+00:00"
 }

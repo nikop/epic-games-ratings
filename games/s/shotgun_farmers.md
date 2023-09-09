@@ -18,7 +18,7 @@
 | 10K | 30.00% | ~85 |
 | Bouncemato | 30.00% | ~70 |
 | 15K | 28.00% | ~79 |
-| Quick-Draw Pod | 23.00% | ~53 |
+| Quick-Draw Pod | 24.00% | ~56 |
 | Grave Digger | 23.00% | ~53 |
 | Drinking Problem | 22.00% | ~62 |
 | Professional Survivor | 22.00% | ~51 |

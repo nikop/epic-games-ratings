@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -512,9 +512,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3595,
+  "EOS_Progressed": 3596,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6557,6 +6557,11 @@
       "Time": "2023-09-09T07:03:08.8850616+00:00",
       "NumProgressed": 3595,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-09T10:03:36.8376271+00:00",
+      "NumProgressed": 3596,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6720,7 +6725,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6816,7 +6821,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6880,7 +6885,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6904,7 +6909,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7135,13 +7140,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3546,
+      "Progressed": 3547,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3595,
+      "Progressed": 3596,
       "Completed": 10
     }
   ],
@@ -7149,8 +7154,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-08T20:58:35.5897596+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:01:23.8604691+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:03:36.8376266+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:58:42.9208713+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:01:23.8605794+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:58:39.7041716+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:03:36.83775+00:00"
 }

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 234,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -981,6 +981,11 @@
       "Time": "2023-09-09T09:07:49.3280647+00:00",
       "NumProgressed": 233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T10:09:34.3278349+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -992,7 +997,7 @@
       "Name": "START",
       "Percentage": 92,
       "XP": 45,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ach_10",
@@ -1080,7 +1085,7 @@
       "Name": "Ram Corporal",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ach_20",
@@ -1110,9 +1115,9 @@
       "ID": "ach_3",
       "SetID": "392n4e7",
       "Name": "Ram Sergeant",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 154
     },
     {
       "ID": "ach_4",
@@ -1128,15 +1133,15 @@
       "Name": "Ram First Sergeant",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_6",
       "SetID": "392n4e7",
       "Name": "Senior Sergeant Baran",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "ach_7",
@@ -1150,31 +1155,31 @@
       "ID": "ach_8",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 1st class",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_9",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 2nd class",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:07:49.3280641+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:09:34.3278342+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:24.4292471+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:59:43.0075551+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:07:49.3280864+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:59:56.2896462+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:09:34.3278552+00:00"
 }

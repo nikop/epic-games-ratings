@@ -6,30 +6,30 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,393 |
-| He's Signed! | 50.00% | ~236,393 |
-| First Victory | 50.00% | ~236,393 |
-| He's Sold! | 48.00% | ~226,937 |
-| I'm The Boss! | 42.00% | ~198,570 |
-| Hat-trick | 41.00% | ~193,842 |
+| Clean Sheet | 50.00% | ~236,394 |
+| He's Signed! | 50.00% | ~236,394 |
+| First Victory | 50.00% | ~236,394 |
+| He's Sold! | 48.00% | ~226,938 |
+| I'm The Boss! | 42.00% | ~198,571 |
+| Hat-trick | 41.00% | ~193,843 |
 | Scoring Streak | 38.00% | ~179,659 |
-| Unbeatable! | 37.00% | ~174,931 |
-| Thumping | 37.00% | ~174,931 |
-| Superb Dressing Room Atmosphere | 35.00% | ~165,475 |
+| Unbeatable! | 37.00% | ~174,932 |
+| Thumping | 37.00% | ~174,932 |
+| Superb Dressing Room Atmosphere | 35.00% | ~165,476 |
 | Total Support | 32.00% | ~151,292 |
 | Record Signing | 32.00% | ~151,292 |
 | He's a Natural | 31.00% | ~146,564 |
 | Millionaire's Club | 31.00% | ~146,564 |
 | Team Performance | 30.00% | ~141,836 |
-| Parked The Bus | 29.00% | ~137,108 |
-| Shrewd Spender | 29.00% | ~137,108 |
-| Star Man | 29.00% | ~137,108 |
-| Attack! | 28.00% | ~132,380 |
-| Tremendous Trio | 27.00% | ~127,652 |
-| You're On Fire | 26.00% | ~122,924 |
-| On A Roll | 26.00% | ~122,924 |
-| Unstoppable Force | 26.00% | ~122,924 |
-| Record Sale | 26.00% | ~122,924 |
+| Parked The Bus | 29.00% | ~137,109 |
+| Shrewd Spender | 29.00% | ~137,109 |
+| Star Man | 29.00% | ~137,109 |
+| Attack! | 28.00% | ~132,381 |
+| Tremendous Trio | 27.00% | ~127,653 |
+| You're On Fire | 26.00% | ~122,925 |
+| On A Roll | 26.00% | ~122,925 |
+| Unstoppable Force | 26.00% | ~122,925 |
+| Record Sale | 26.00% | ~122,925 |
 | Fantastic Five | 24.00% | ~113,469 |
 | Full Faith | 24.00% | ~113,469 |
 | Iron Curtain | 24.00% | ~113,469 |
@@ -41,9 +41,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | What A Goal! | 22.00% | ~104,013 |
 | Cup Glory! | 22.00% | ~104,013 |
 | Splashing The Cash | 21.00% | ~99,285 |
-| Irresistible Force | 20.00% | ~94,557 |
-| Excellent Match Cohesion | 20.00% | ~94,557 |
-| Do The Double | 19.00% | ~89,829 |
+| Irresistible Force | 20.00% | ~94,558 |
+| Excellent Match Cohesion | 20.00% | ~94,558 |
+| Do The Double | 19.00% | ~89,830 |
 | Top Form | 17.00% | ~80,374 |
 | Cash To Burn | 17.00% | ~80,374 |
 | Beating Expectations | 15.00% | ~70,918 |
@@ -53,7 +53,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~66,190 |
 | Comeback King! | 14.00% | ~66,190 |
 | You're Up! | 13.00% | ~61,462 |
-| Money, Money, Money | 12.00% | ~56,734 |
+| Money, Money, Money | 12.00% | ~56,735 |
 | Superb Strike | 10.00% | ~47,279 |
 | International Superstar | 10.00% | ~47,279 |
 | Invincible! | 10.00% | ~47,279 |
@@ -70,7 +70,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Head-to-Head | 6.00% | ~28,367 |
 | Going Places | 5.00% | ~23,639 |
 | We Trust You | 5.00% | ~23,639 |
-| Trophy Hoarder | 4.00% | ~18,911 |
+| Trophy Hoarder | 4.00% | ~18,912 |
 | National Hero | 3.00% | ~14,184 |
 | Golden Boot | 3.00% | ~14,184 |
 | Freedom Of The Country | 3.00% | ~14,184 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~473 |
 | Shoestring Budget | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,786 (Ranked 36)  
+Progressed: 472,788 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,10 +247,10 @@ Completed: 20 (0.00%) (Ranked 272)
 | 2023-09-06 | 472,564 | 20 |
 | 2023-09-07 | 472,663 | 20 |
 | 2023-09-08 | 472,769 | 20 |
-| 2023-09-09 | 472,786 | 20 |
+| 2023-09-09 | 472,788 | 20 |
 ## Awards
 Max (Relaxing): 6,431  (Ranked 54)  
-Sum: 50,639 (Ranked 24)  
+Sum: 50,641 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -261,7 +261,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 5,841 |
 | This game is Educational | 5,832 |
 | This game has Diverse Characters | 5,508 |
-| This game has Amazing Storytelling | 4,899 |
+| This game has Amazing Storytelling | 4,901 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,364 |
 | This game has a Creative Community | 1,495 |
@@ -494,4 +494,4 @@ Diff (max vs sum): 30
 | 2023-09-06 | 4.80 | - | 6,431 | 50,598 |
 | 2023-09-07 | 4.80 | - | 6,431 | 50,613 |
 | 2023-09-08 | 4.80 | - | 6,431 | 50,633 |
-| 2023-09-09 | 4.80 | - | 6,431 | 50,639 |
+| 2023-09-09 | 4.80 | - | 6,431 | 50,641 |

@@ -601,7 +601,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342282,
+  "EOS_Progressed": 342286,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1163,
   "EOS_NewCompleters": 0,
@@ -16381,6 +16381,11 @@
       "Time": "2023-09-09T09:03:18.0508896+00:00",
       "NumProgressed": 342282,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-09T10:03:52.9276393+00:00",
+      "NumProgressed": 342286,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -16392,7 +16397,7 @@
       "Name": "Corner Opportunities",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10268
+      "UsersEstimate": 10269
     },
     {
       "ID": "ach002",
@@ -16424,7 +16429,7 @@
       "Name": "2122 North Clark Street",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10268
+      "UsersEstimate": 10269
     },
     {
       "ID": "ach006",
@@ -16496,7 +16501,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51342
+      "UsersEstimate": 51343
     },
     {
       "ID": "ach015",
@@ -16544,7 +16549,7 @@
       "Name": "Copious Cabbage",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10268
+      "UsersEstimate": 10269
     },
     {
       "ID": "ach021",
@@ -16552,7 +16557,7 @@
       "Name": "Sockdolager",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10268
+      "UsersEstimate": 10269
     },
     {
       "ID": "ach022",
@@ -16600,7 +16605,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157450
+      "UsersEstimate": 157452
     },
     {
       "ID": "ach028",
@@ -16696,7 +16701,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34228
+      "UsersEstimate": 34229
     },
     {
       "ID": "ach040",
@@ -16808,7 +16813,7 @@
       "Name": "Still Stalwart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10268
+      "UsersEstimate": 10269
     },
     {
       "ID": "ach054",
@@ -16816,7 +16821,7 @@
       "Name": "Bees Knees Bootlegger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10268
+      "UsersEstimate": 10269
     },
     {
       "ID": "ach055",
@@ -16848,7 +16853,7 @@
       "Name": "Tighten the Screws",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10268
+      "UsersEstimate": 10269
     },
     {
       "ID": "ach059",
@@ -16856,7 +16861,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34228
+      "UsersEstimate": 34229
     },
     {
       "ID": "ach060",
@@ -16904,7 +16909,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47919
+      "UsersEstimate": 47920
     },
     {
       "ID": "ach067",
@@ -16920,7 +16925,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54765
+      "UsersEstimate": 54766
     },
     {
       "ID": "ach069",
@@ -16928,7 +16933,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47919
+      "UsersEstimate": 47920
     },
     {
       "ID": "ach070",
@@ -17031,7 +17036,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 342282,
+      "Progressed": 342286,
       "Completed": 7
     }
   ],
@@ -17039,8 +17044,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-09T07:58:48.9176239+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:03:18.0508889+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:03:52.9276387+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:13.1145719+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:59:35.4003966+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:03:18.0510986+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:59:46.8381833+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:03:52.9278212+00:00"
 }

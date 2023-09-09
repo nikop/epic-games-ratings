@@ -13,15 +13,15 @@
 | Don't Cry Wolf | 19.00% | ~11 |
 | Freezing Cold | 17.00% | ~10 |
 | The Power of the Mountains | 17.00% | ~10 |
-| Searing Heat | 14.00% | ~8 |
+| Searing Heat | 15.00% | ~9 |
+| Changing the World | 15.00% | ~9 |
+| Nothing but the Truth | 14.00% | ~8 |
 | Expert | 14.00% | ~8 |
 | The Golden Flash | 14.00% | ~8 |
-| Changing the World | 14.00% | ~8 |
-| Nothing but the Truth | 12.00% | ~7 |
 | Through Dangers Untold | 10.00% | ~6 |
 | Locked and Loaded | 10.00% | ~6 |
+| Witch | 10.00% | ~6 |
 | Craftsmen | 8.00% | ~5 |
-| Witch | 8.00% | ~5 |
 | Mirror, Mirror on the Wall | 7.00% | ~4 |
 | Defeat Uskol | 7.00% | ~4 |
 | Bringing guns to a sword fight | 7.00% | ~4 |

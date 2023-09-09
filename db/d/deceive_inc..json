@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17924,
+  "EOS_Progressed": 17925,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9909,6 +9909,11 @@
       "Time": "2023-09-09T09:04:46.3658039+00:00",
       "NumProgressed": 17924,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T10:05:05.1781564+00:00",
+      "NumProgressed": 17925,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9944,7 +9949,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "0005",
@@ -10104,7 +10109,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "0025",
@@ -10207,7 +10212,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17924,
+      "Progressed": 17925,
       "Completed": 1
     }
   ],
@@ -10215,8 +10220,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-08T19:00:42.6764693+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:04:46.3658032+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:05:05.1781558+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:57:44.2932977+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:04:46.3658897+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:57:25.7188114+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:05:05.1782395+00:00"
 }

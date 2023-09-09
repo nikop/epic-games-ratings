@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 298,
@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 235,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -1118,6 +1118,11 @@
       "Time": "2023-09-09T07:05:55.1170034+00:00",
       "NumProgressed": 234,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T10:05:54.687878+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1138,7 +1143,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 10,
       "XP": 120,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1266,7 +1271,7 @@
       "Name": "Infinity Loop",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_HUB1",
@@ -1288,9 +1293,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_PEAK",
@@ -1320,9 +1325,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_S4",
@@ -1346,7 +1351,7 @@
       "Name": "Lost in Space",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_STATUE",
@@ -1354,22 +1359,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 235,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:05:27.663714+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:05:54.6878773+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:59:10.8865332+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:05:27.6637354+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:59:14.9438188+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:05:54.6879031+00:00"
 }

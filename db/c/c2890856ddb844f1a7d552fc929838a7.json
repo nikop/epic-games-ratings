@@ -2,12 +2,12 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 24,
+  "Ranking_Rating": 42,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.87,
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2023-08-31T05:00:39.0192379+00:00",
@@ -64,15 +64,21 @@
       "Rating": 4.87,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-09T09:58:35.6896082+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735,
+  "EOS_Progressed": 736,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1260,6 +1266,11 @@
       "Time": "2023-09-09T08:04:14.1425532+00:00",
       "NumProgressed": 735,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T10:04:47.4688246+00:00",
+      "NumProgressed": 736,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1288,15 +1299,15 @@
       "Name": "Blood and Dust",
       "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 485
+      "UsersEstimate": 493
     },
     {
       "ID": "AC04",
@@ -1312,7 +1323,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "AC06",
@@ -1360,7 +1371,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "AC12",
@@ -1368,7 +1379,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "AC13",
@@ -1376,7 +1387,7 @@
       "Name": "Second Psalm.",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "AC14",
@@ -1480,7 +1491,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "AC27",
@@ -1496,7 +1507,7 @@
       "Name": "The Punished One",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "AC29",
@@ -1512,7 +1523,7 @@
       "Name": "The Anointed One",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "AC31",
@@ -1520,7 +1531,7 @@
       "Name": "The Merciless One",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "AC32",
@@ -1528,7 +1539,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "AC33",
@@ -1536,7 +1547,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "AC34",
@@ -1552,7 +1563,7 @@
       "Name": "Flawless Penance",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "AC36",
@@ -1568,7 +1579,7 @@
       "Name": "Storm of Death",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "AC38",
@@ -1592,7 +1603,7 @@
       "Name": "Welcome Back!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "AC41",
@@ -1639,16 +1650,16 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 735,
+      "Progressed": 736,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged": "2023-09-08T02:59:41.4444116+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:04:32.3436944+00:00",
+  "LastChanged": "2023-09-09T09:58:35.689608+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:04:47.468824+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:58:39.8295807+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:04:32.3437388+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:58:35.6896089+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:04:47.4688675+00:00"
 }

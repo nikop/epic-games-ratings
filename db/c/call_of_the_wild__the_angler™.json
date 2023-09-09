@@ -706,9 +706,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5724,
+  "EOS_Progressed": 5726,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7161,6 +7161,11 @@
       "Time": "2023-09-09T04:04:08.6442102+00:00",
       "NumProgressed": 5724,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T10:04:43.5689592+00:00",
+      "NumProgressed": 5726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7172,7 +7177,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4522
+      "UsersEstimate": 4524
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7180,7 +7185,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -7188,7 +7193,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 3950
+      "UsersEstimate": 3951
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7196,7 +7201,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -7204,7 +7209,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7212,7 +7217,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7228,7 +7233,7 @@
       "Name": "Scaling up",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7236,7 +7241,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -7260,7 +7265,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -7284,7 +7289,7 @@
       "Name": "Going for Gold",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -7308,7 +7313,7 @@
       "Name": "The Beetles",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -7451,13 +7456,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5724,
+      "Progressed": 5726,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5096,
+      "Progressed": 5098,
       "Completed": 112
     }
   ],
@@ -7465,8 +7470,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-08T12:01:25.854057+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:04:29.3311203+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:04:43.5689586+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:57:58.4700375+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:04:29.3311785+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:57:42.5361104+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:04:43.5690259+00:00"
 }

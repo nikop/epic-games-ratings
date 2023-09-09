@@ -1,24 +1,24 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.41 (Ranked 690)  
+Rating: 4.41 (Ranked 691)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Understanding of Block Extrusion | 55.00% | ~129 |
-| Lost in Space | 54.00% | ~126 |
-| Nature or Nurture | 47.00% | ~110 |
+| Quick Understanding of Block Extrusion | 54.00% | ~127 |
+| Lost in Space | 54.00% | ~127 |
 | Power Glove | 47.00% | ~110 |
-| Forgotten Memories | 45.00% | ~105 |
+| Nature or Nurture | 46.00% | ~108 |
+| Forgotten Memories | 45.00% | ~106 |
 | Cogs in the Machine | 40.00% | ~94 |
 | Mission Success | 17.00% | ~40 |
 | Green Cube Killer | 15.00% | ~35 |
 | There's No Place Like Home | 15.00% | ~35 |
 | Descendants | 12.00% | ~28 |
 | Path to Salvation | 11.00% | ~26 |
-| The Flawed Teacher | 10.00% | ~23 |
-| Infinity Loop | 10.00% | ~23 |
+| The Flawed Teacher | 10.00% | ~24 |
+| Infinity Loop | 10.00% | ~24 |
 | To Infinity and Beyond | 6.00% | ~14 |
 | The Truthful Enemy | 5.00% | ~12 |
 | True collector | 0.40% | ~1 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.40% | ~1 |
 | Laser Sharp | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234 (Ranked 298)  
+Progressed: 235 (Ranked 298)  
 Completed: 1 (0.43%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 1 (0.43%) (Ranked 162)
 | 2023-09-06 | 197 | 1 |
 | 2023-09-07 | 215 | 1 |
 | 2023-09-08 | 228 | 1 |
-| 2023-09-09 | 234 | 1 |
+| 2023-09-09 | 235 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

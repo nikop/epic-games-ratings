@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2033,7 +2033,7 @@
   ],
   "EOS_Progressed": 43392,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6967,9 +6967,9 @@
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
       "SetID": "49kdhbg",
       "Name": "Chain reaction",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19092
+      "UsersEstimate": 19526
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -7111,8 +7111,8 @@
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-09T02:57:30.6565825+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:06:27.8093806+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:07:06.9912986+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:49.8826842+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:58:10.8814155+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:06:27.8094693+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:57:58.6445748+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:07:06.9913842+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -445,9 +445,9 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -549,9 +549,9 @@
       "ID": "Epic_Firefly_1",
       "SetID": "ba1m2fc",
       "Name": "Stars\u0027 Shimmer",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Epic_Formula_12",
@@ -605,9 +605,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -709,9 +709,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Epic_Revenge_1",
@@ -813,9 +813,9 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -836,8 +836,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:05:56.3416135+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:06:28.9919314+00:00",
   "LastUpdate_AppInfo": "2023-09-07T09:57:19.8778458+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:58:58.1257355+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:05:56.3416602+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:58:59.0054011+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:06:28.9919756+00:00"
 }

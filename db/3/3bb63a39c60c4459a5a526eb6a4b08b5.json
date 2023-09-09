@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 671,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2401,6 +2401,11 @@
       "Time": "2023-09-09T08:03:39.186319+00:00",
       "NumProgressed": 670,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T10:04:04.5785642+00:00",
+      "NumProgressed": 671,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2428,7 +2433,7 @@
       "Name": "Basic Controls",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "BigPlane",
@@ -2508,7 +2513,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "FullCompletion",
@@ -2540,7 +2545,7 @@
       "Name": "Lack of Time",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LargeAirport",
@@ -2596,7 +2601,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Millionaire",
@@ -2612,7 +2617,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "NoTimeForModernization",
@@ -2620,15 +2625,15 @@
       "Name": "No Time for Modernization",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 282
     },
     {
       "ID": "NotPlanned",
@@ -2692,7 +2697,7 @@
       "Name": "Restructuring",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Reviewer",
@@ -2732,7 +2737,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "TransportHub",
@@ -2747,14 +2752,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 671,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:03:27.2261962+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:04:04.5785637+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.2387423+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:58:50.1525215+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:03:27.2262431+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:58:48.5277596+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:04:04.5786101+00:00"
 }

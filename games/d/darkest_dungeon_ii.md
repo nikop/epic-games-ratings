@@ -6,34 +6,34 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~109,000 |
-| Don't Make Me Turn This Coach Around | 70.00% | ~82,043 |
-| A Clear Conscience | 69.00% | ~80,871 |
-| Unleash Hell | 68.00% | ~79,699 |
-| Unfulfilled Desires | 68.00% | ~79,699 |
-| Funny Guy | 67.00% | ~78,527 |
-| Unshackled | 67.00% | ~78,527 |
-| Long Live the King | 66.00% | ~77,355 |
-| Resurrection | 62.00% | ~72,666 |
-| Wyrdly Reconstructed | 62.00% | ~72,666 |
-| Boxcar Kid | 60.00% | ~70,322 |
-| Rush Hour | 60.00% | ~70,322 |
-| To Grandmother's House | 60.00% | ~70,322 |
-| Serenity Now! | 53.00% | ~62,118 |
-| Hope Rekindled | 50.00% | ~58,602 |
-| Ramble On | 49.00% | ~57,430 |
-| Nope | 48.00% | ~56,258 |
+| A Place to Lay Your Head | 93.00% | ~109,002 |
+| Don't Make Me Turn This Coach Around | 70.00% | ~82,044 |
+| A Clear Conscience | 69.00% | ~80,872 |
+| Unleash Hell | 68.00% | ~79,700 |
+| Unfulfilled Desires | 68.00% | ~79,700 |
+| Funny Guy | 67.00% | ~78,528 |
+| Unshackled | 67.00% | ~78,528 |
+| Long Live the King | 66.00% | ~77,356 |
+| Resurrection | 62.00% | ~72,668 |
+| Wyrdly Reconstructed | 62.00% | ~72,668 |
+| Boxcar Kid | 60.00% | ~70,324 |
+| Rush Hour | 60.00% | ~70,324 |
+| To Grandmother's House | 60.00% | ~70,324 |
+| Serenity Now! | 53.00% | ~62,119 |
+| Hope Rekindled | 50.00% | ~58,603 |
+| Ramble On | 49.00% | ~57,431 |
+| Nope | 48.00% | ~56,259 |
 | This Looks Familiar | 38.00% | ~44,538 |
-| Now Stay Dead | 37.00% | ~43,365 |
-| Harvest Festival | 36.00% | ~42,193 |
-| Hot Air | 36.00% | ~42,193 |
-| Merry Time | 35.00% | ~41,021 |
-| Creep and Sleep | 33.00% | ~38,677 |
-| Overdue Notice | 32.00% | ~37,505 |
-| Whale | 31.00% | ~36,333 |
-| Banishment | 30.00% | ~35,161 |
-| FNG | 29.00% | ~33,989 |
-| Reverse Banditry | 25.00% | ~29,301 |
+| Now Stay Dead | 37.00% | ~43,366 |
+| Harvest Festival | 36.00% | ~42,194 |
+| Hot Air | 36.00% | ~42,194 |
+| Merry Time | 35.00% | ~41,022 |
+| Creep and Sleep | 33.00% | ~38,678 |
+| Overdue Notice | 32.00% | ~37,506 |
+| Whale | 31.00% | ~36,334 |
+| Banishment | 30.00% | ~35,162 |
+| FNG | 29.00% | ~33,990 |
+| Reverse Banditry | 25.00% | ~29,302 |
 | Predator | 24.00% | ~28,129 |
 | Autodidact | 24.00% | ~28,129 |
 | Meat and Greet | 22.00% | ~25,785 |
@@ -49,9 +49,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 14.00% | ~16,409 |
 | Not Today! | 13.00% | ~15,237 |
 | Deprogramming | 13.00% | ~15,237 |
-| Shrine of Reflection | 12.00% | ~14,064 |
-| When You Want Something Done Right | 11.00% | ~12,892 |
-| Body of Work | 9.00% | ~10,548 |
+| Shrine of Reflection | 12.00% | ~14,065 |
+| When You Want Something Done Right | 11.00% | ~12,893 |
+| Body of Work | 9.00% | ~10,549 |
 | Utopia | 8.00% | ~9,376 |
 | Hat Trick | 7.00% | ~8,204 |
 | No More Mouths to Feed | 6.00% | ~7,032 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~117 |
 | 20,000 Leagues Above the Sea | 0.10% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,204 (Ranked 72)  
+Progressed: 117,206 (Ranked 72)  
 Completed: 1 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 1 (0.00%) (Ranked 272)
 | 2023-09-06 | 117,027 | 1 |
 | 2023-09-07 | 117,092 | 1 |
 | 2023-09-08 | 117,165 | 1 |
-| 2023-09-09 | 117,204 | 1 |
+| 2023-09-09 | 117,206 | 1 |
 ## Awards
 Max (Character Customization): 7,380  (Ranked 48)  
-Sum: 19,228 (Ranked 56)  
+Sum: 19,229 (Ranked 56)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,361 |
 | This game has Amazing Storytelling | 1,279 |
 | This game has Quickly Understood Controls | 1,269 |
-| This game has Unique Visuals | 1,236 |
+| This game has Unique Visuals | 1,237 |
 | This game has a Creative Community | 923 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -451,4 +451,4 @@ Diff (max vs sum): -8
 | 2023-09-06 | 4.68 | - | 7,372 | 19,207 |
 | 2023-09-07 | 4.68 | - | 7,372 | 19,211 |
 | 2023-09-08 | 4.68 | - | 7,375 | 19,223 |
-| 2023-09-09 | 4.68 | - | 7,380 | 19,228 |
+| 2023-09-09 | 4.68 | - | 7,380 | 19,229 |

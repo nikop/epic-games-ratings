@@ -25,6 +25,7 @@
 | Strategist | 4.00% | ~5 |
 | Potential Unlocked | 4.00% | ~5 |
 | Deputized | 4.00% | ~5 |
+| The Voice of Hereafter | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
 | A Terrible Will | 4.00% | ~5 |
 | Spiritual Journey | 4.00% | ~5 |
@@ -34,7 +35,6 @@
 | Trouble at Fort Larius | 4.00% | ~5 |
 | Supercargo | 3.00% | ~4 |
 | Xevarian Gambit | 3.00% | ~4 |
-| The Voice of Hereafter | 3.00% | ~4 |
 | Despised | 3.00% | ~4 |
 | Life... Finds a Way | 3.00% | ~4 |
 | Unseen Patterns | 3.00% | ~4 |

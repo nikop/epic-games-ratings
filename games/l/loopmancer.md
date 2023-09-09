@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 104.00% | ~103 |
-| Break no Sweat | 99.00% | ~98 |
-| Every little bit counts | 97.00% | ~96 |
+| Black Cat's Warning | 105.00% | ~104 |
+| Break no Sweat | 100.00% | ~99 |
+| Every little bit counts | 98.00% | ~97 |
 | Growth | 86.00% | ~85 |
 | Targeting the Enemy | 68.00% | ~67 |
 | Unavoidable | 65.00% | ~64 |

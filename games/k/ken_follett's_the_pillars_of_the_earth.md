@@ -27,14 +27,14 @@ Number of Ratings: 368  (23.09.2022)
 | Whodunnit | 12.00% | ~1,811 |
 | Friar Tuck | 11.00% | ~1,660 |
 | First profit | 11.00% | ~1,660 |
-| Good midwife | 10.00% | ~1,509 |
-| Team player | 10.00% | ~1,509 |
-| Skilled merchant | 9.00% | ~1,358 |
-| Nothing but make-believe | 9.00% | ~1,358 |
-| Brother Marcus | 9.00% | ~1,358 |
-| The oath | 9.00% | ~1,358 |
-| The truth revealed | 9.00% | ~1,358 |
-| The End. | 9.00% | ~1,358 |
+| Good midwife | 10.00% | ~1,510 |
+| Team player | 10.00% | ~1,510 |
+| Skilled merchant | 9.00% | ~1,359 |
+| Nothing but make-believe | 9.00% | ~1,359 |
+| Brother Marcus | 9.00% | ~1,359 |
+| The oath | 9.00% | ~1,359 |
+| The truth revealed | 9.00% | ~1,359 |
+| The End. | 9.00% | ~1,359 |
 | A cry for help | 8.00% | ~1,208 |
 | Silentium est aureum | 7.00% | ~1,057 |
 | Rebel without a cause | 6.00% | ~906 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~453 |
 | Boy of mystery | 2.00% | ~302 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,094 (Ranked 120)  
+Progressed: 15,095 (Ranked 120)  
 Completed: 110 (0.73%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 110 (0.73%) (Ranked 133)
 | 2023-09-06 | 15,062 | 110 |
 | 2023-09-07 | 15,074 | 110 |
 | 2023-09-08 | 15,087 | 110 |
-| 2023-09-09 | 15,094 | 110 |
+| 2023-09-09 | 15,095 | 110 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 301)  
 Sum: 188 (Ranked 378)  

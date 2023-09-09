@@ -1,26 +1,26 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 280)  
+Rating: 4.66 (Ranked 281)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,742,390 |
-| Easy to forget | 46.00% | ~1,635,713 |
-| Back in the black | 39.00% | ~1,386,800 |
-| That's what I'm talking about | 29.00% | ~1,031,210 |
-| The Best of Both Worlds | 25.00% | ~888,974 |
-| Get your wings | 20.00% | ~711,180 |
-| Double trouble | 16.00% | ~568,944 |
-| Smashing it | 11.00% | ~391,149 |
-| But can it run Crysis? | 9.00% | ~320,031 |
-| My favourite feature... | 9.00% | ~320,031 |
-| From humble beginnings... | 7.00% | ~248,913 |
-| Customer satisfaction | 7.00% | ~248,913 |
-| Keeping things neat | 4.00% | ~142,236 |
-| Seems you're pretty good at this | 4.00% | ~142,236 |
-| Bending over backwards | 4.00% | ~142,236 |
+| You need to plug it in... | 49.00% | ~1,742,398 |
+| Easy to forget | 46.00% | ~1,635,721 |
+| Back in the black | 39.00% | ~1,386,807 |
+| That's what I'm talking about | 29.00% | ~1,031,215 |
+| The Best of Both Worlds | 25.00% | ~888,979 |
+| Get your wings | 20.00% | ~711,183 |
+| Double trouble | 16.00% | ~568,946 |
+| Smashing it | 11.00% | ~391,151 |
+| But can it run Crysis? | 9.00% | ~320,032 |
+| My favourite feature... | 9.00% | ~320,032 |
+| From humble beginnings... | 7.00% | ~248,914 |
+| Customer satisfaction | 7.00% | ~248,914 |
+| Keeping things neat | 4.00% | ~142,237 |
+| Seems you're pretty good at this | 4.00% | ~142,237 |
+| Bending over backwards | 4.00% | ~142,237 |
 | Triple threat | 3.00% | ~106,677 |
 | You rock at this! | 3.00% | ~106,677 |
 | Your music sucks | 3.00% | ~106,677 |
@@ -41,7 +41,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Work ethic 101 | 0.70% | ~24,891 |
 | Building momentum | 0.60% | ~21,335 |
 | Lead by example | 0.60% | ~21,335 |
-| Treat yourself - RAM | 0.50% | ~17,779 |
+| Treat yourself - RAM | 0.50% | ~17,780 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,668 |
 | Mr big business | 0.30% | ~10,668 |
 | Mister Big | 0.30% | ~10,668 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,556 |
 | Treat yourself - GPU | 0.10% | ~3,556 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,555,898 (Ranked 5)  
+Progressed: 3,555,915 (Ranked 5)  
 Completed: 34 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 34 (0.00%) (Ranked 272)
 | 2023-09-06 | 3,555,058 | 34 |
 | 2023-09-07 | 3,555,432 | 34 |
 | 2023-09-08 | 3,555,780 | 34 |
-| 2023-09-09 | 3,555,898 | 34 |
+| 2023-09-09 | 3,555,915 | 34 |
 ## Awards
 Max (Great for Beginners): 1,065  (Ranked 140)  
 Sum: 7,978 (Ranked 100)  

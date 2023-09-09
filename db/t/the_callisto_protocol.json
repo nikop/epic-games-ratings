@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1160,9 +1160,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15925,
+  "EOS_Progressed": 15926,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6880,6 +6880,11 @@
       "Time": "2023-09-09T06:03:29.0550405+00:00",
       "NumProgressed": 15925,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-09T10:04:12.3471886+00:00",
+      "NumProgressed": 15926,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -6907,7 +6912,7 @@
       "Name": "Giving Back",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -7043,7 +7048,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -7266,13 +7271,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15925,
+      "Progressed": 15926,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3851,
+      "Progressed": 3852,
       "Completed": 29
     }
   ],
@@ -7280,8 +7285,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-08T18:00:43.0975034+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:03:33.6060763+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:04:12.3471881+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:38.4678594+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:59:51.2084201+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:03:33.6061503+00:00"
+  "LastUpdate_Ratings": "2023-09-09T10:00:06.6772325+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:04:12.3472514+00:00"
 }

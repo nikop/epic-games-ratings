@@ -4,7 +4,7 @@
   "ProductSlug": "beast-breaker",
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-23T04:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.2369547+00:00",
   "LastChanged": "2023-03-31T05:58:43.2369548+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:16.9721435+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:59:37.4569565+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:06:21.2132901+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:59:49.0701017+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:06:58.8985774+00:00"
 }

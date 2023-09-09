@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85071,
+  "EOS_Progressed": 85076,
   "EOS_Completed": 393,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -16005,6 +16005,11 @@
       "Time": "2023-09-09T09:07:16.9190134+00:00",
       "NumProgressed": 85071,
       "NumCompleted": 393
+    },
+    {
+      "Time": "2023-09-09T10:08:14.611302+00:00",
+      "NumProgressed": 85076,
+      "NumCompleted": 393
     }
   ],
   "TotalAchievements": 10,
@@ -16040,7 +16045,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "Drawings04",
@@ -16048,7 +16053,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "DrawingsAll",
@@ -16072,7 +16077,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8507
+      "UsersEstimate": 8508
     },
     {
       "ID": "Level00BowlingStrike",
@@ -16080,7 +16085,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29775
+      "UsersEstimate": 29777
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -16095,15 +16100,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 85071,
+      "Progressed": 85076,
       "Completed": 393
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-09-09T09:07:16.9190128+00:00",
+  "LastChanged_Achievements": "2023-09-09T10:08:14.6113014+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.5204272+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:58:24.0988017+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:07:16.9191132+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:58:15.6075363+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:08:14.6114007+00:00"
 }

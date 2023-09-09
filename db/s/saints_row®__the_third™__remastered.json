@@ -2,12 +2,12 @@
   "ID": "3928fd8975b2437d894bbc5cd21de9a0",
   "Name": "Saints Row\u00AE: The Third\u2122  Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 691,
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-05-22T08:00:00+00:00",
@@ -2150,18 +2150,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 3075,
       "NumberOfAwardsMax": 2204
+    },
+    {
+      "Time": "2023-09-09T10:00:57.597113+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 3076,
+      "NumberOfAwardsMax": 2205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3075,
-  "NumberOfAwardsMax": 2204,
+  "NumberOfAwards": 3076,
+  "NumberOfAwardsMax": 2205,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2204
+      "Count": 2205
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2241,8 +2247,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2023-09-08T21:01:39.2846423+00:00",
+  "LastChanged": "2023-09-09T10:00:57.5971128+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:38.5485214+00:00",
-  "LastUpdate_Ratings": "2023-09-09T09:00:30.9113779+00:00",
-  "LastUpdate_Achievements": "2023-09-09T09:06:37.8705+00:00"
+  "LastUpdate_Ratings": "2023-09-09T10:00:57.5971134+00:00",
+  "LastUpdate_Achievements": "2023-09-09T10:07:19.1222511+00:00"
 }
