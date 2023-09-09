@@ -4,7 +4,7 @@
   "ProductSlug": "skeletal-avengers-af85a4",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
@@ -271,17 +271,17 @@
       "ID": "DOOMSKULL",
       "SetID": "63n2m0e",
       "Name": "Doom Skull",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "EVADER",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:07:23.6243079+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:06:16.7079861+00:00",
   "LastUpdate_AppInfo": "2023-09-06T06:57:21.790346+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:58:35.5447163+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:07:23.6243217+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:58:10.8909914+00:00",
+  "LastUpdate_Achievements": "2023-09-09T04:06:16.7079993+00:00"
 }

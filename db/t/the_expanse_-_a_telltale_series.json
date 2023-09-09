@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10273,
+  "EOS_Progressed": 10274,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4769,6 +4769,11 @@
       "Time": "2023-09-09T03:07:04.5705924+00:00",
       "NumProgressed": 10273,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T04:06:02.6885433+00:00",
+      "NumProgressed": 10274,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4845,7 +4850,7 @@
       "Name": "Spore Taste",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "18",
@@ -4957,7 +4962,7 @@
       "Name": "Captain Drummer",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "30",
@@ -5020,7 +5025,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10273,
+      "Progressed": 10274,
       "Completed": 0
     }
   ],
@@ -5028,8 +5033,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-07T17:03:40.5471385+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:07:04.5705918+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:06:02.6885428+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-09T03:01:08.449233+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:07:04.570631+00:00"
+  "LastUpdate_Ratings": "2023-09-09T04:00:03.4676572+00:00",
+  "LastUpdate_Achievements": "2023-09-09T04:06:02.6885825+00:00"
 }

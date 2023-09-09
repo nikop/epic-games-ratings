@@ -6422,10 +6422,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31480,
       "NumberOfAwardsMax": 5246
+    },
+    {
+      "Time": "2023-09-09T03:58:59.3802635+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31482,
+      "NumberOfAwardsMax": 5246
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31480,
+  "NumberOfAwards": 31482,
   "NumberOfAwardsMax": 5246,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6457,7 +6463,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4093
+      "Count": 4095
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6472,9 +6478,9 @@
       "Count": 3404
     }
   ],
-  "EOS_Progressed": 228022,
+  "EOS_Progressed": 228034,
   "EOS_Completed": 2263,
-  "EOS_NewPlayers": 1452,
+  "EOS_NewPlayers": 1458,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22107,6 +22113,11 @@
       "Time": "2023-09-09T03:08:24.5574269+00:00",
       "NumProgressed": 228022,
       "NumCompleted": 2263
+    },
+    {
+      "Time": "2023-09-09T04:07:02.7617513+00:00",
+      "NumProgressed": 228034,
+      "NumCompleted": 2263
     }
   ],
   "TotalAchievements": 520,
@@ -22188,9 +22199,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 389
     },
     {
       "ID": "objective_completed_1051",
@@ -22676,9 +22687,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "objective_completed_1142",
@@ -23980,9 +23991,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 684
     },
     {
       "ID": "objective_completed_40",
@@ -26277,21 +26288,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194296,
+      "Progressed": 194308,
       "Completed": 3412
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228022,
+      "Progressed": 228034,
       "Completed": 2263
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-08T22:59:09.3277886+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:08:24.5574264+00:00",
+  "LastChanged": "2023-09-09T03:58:59.3802634+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:07:02.7617509+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:27.1816966+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:59:40.9367469+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:08:24.5598529+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:58:59.380264+00:00",
+  "LastUpdate_Achievements": "2023-09-09T04:07:02.7641593+00:00"
 }

@@ -24,6 +24,7 @@
 | Decapitation Strike | 8.00% | ~5 |
 | The Fortress Conqueror | 6.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~4 |
+| he Ultra Fortress Conqueror | 6.00% | ~4 |
 | Rapidfire | 6.00% | ~4 |
 | Antaeus | 6.00% | ~4 |
 | Air Interception | 6.00% | ~4 |
@@ -33,7 +34,6 @@
 | The Zero Dimensional Capital Conqueror | 5.00% | ~3 |
 | The Inactivated Frozen Conqueror | 5.00% | ~3 |
 | Death Bringer Conqueror | 5.00% | ~3 |
-| he Ultra Fortress Conqueror | 5.00% | ~3 |
 | Space Ranger: Prologue | 5.00% | ~3 |
 | Hell of a Fight | 5.00% | ~3 |
 | The Sunken City Conqueror | 3.00% | ~2 |

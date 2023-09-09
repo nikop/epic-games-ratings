@@ -417,9 +417,9 @@
       "ID": "Achi_11",
       "SetID": "51a97k7",
       "Name": "he Ultra Fortress Conqueror",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_12",
@@ -746,8 +746,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:06:08.2411573+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:05:19.7819502+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:26.8460167+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:57:29.8011305+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:06:08.2411931+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:57:22.8657964+00:00",
+  "LastUpdate_Achievements": "2023-09-09T04:05:19.7819952+00:00"
 }

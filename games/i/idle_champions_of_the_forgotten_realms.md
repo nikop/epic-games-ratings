@@ -12,8 +12,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.40% | ~912 |
 | The Ring of Regeneration | 0.30% | ~684 |
 | Seeking Allies | 0.30% | ~684 |
+| Are Ya Chicken? | 0.30% | ~684 |
 | Maddening | 0.20% | ~456 |
+| Tall Tales | 0.20% | ~389 |
 | The Silken Swamp | 0.20% | ~456 |
+| Supply Run | 0.20% | ~456 |
 | Were-verpowered | 0.20% | ~456 |
 | A Persistent Buzzing | 0.20% | ~456 |
 | Beast Mode | 0.20% | ~456 |
@@ -23,7 +26,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~456 |
 | The Dinner Party | 0.20% | ~456 |
 | The Crumbling Temple | 0.20% | ~456 |
-| Are Ya Chicken? | 0.20% | ~456 |
 | Useless Allies | 0.20% | ~456 |
 | Mad Cow Disease | 0.20% | ~456 |
 | Exploring Port Nyanzaru | 0.20% | ~456 |
@@ -42,7 +44,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~194 |
 | Friends and Foes | 0.10% | ~194 |
 | And Your Enemies Closer | 0.10% | ~194 |
-| Tall Tales | 0.10% | ~194 |
 | Nightmare Rats! | 0.10% | ~194 |
 | An Unexpected Geist | 0.10% | ~194 |
 | Back to Nature | 0.10% | ~194 |
@@ -101,7 +102,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Roots of Loomlurch | 0.10% | ~194 |
 | The Loots of Loomlurch | 0.10% | ~194 |
 | The Lutes of Loomlurch | 0.10% | ~194 |
-| Supply Run | 0.10% | ~228 |
 | Best Laid Plans | 0.10% | ~194 |
 | Pincushion Party | 0.10% | ~194 |
 | G. O. A. T. | 0.10% | ~194 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,022 (Ranked 54)  
+Progressed: 228,034 (Ranked 54)  
 Completed: 2,263 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -669,10 +669,10 @@ Completed: 2,263 (0.99%) (Ranked 124)
 | 2023-09-06 | 227,606 | 2,257 |
 | 2023-09-07 | 227,831 | 2,259 |
 | 2023-09-08 | 227,989 | 2,263 |
-| 2023-09-09 | 228,022 | 2,263 |
+| 2023-09-09 | 228,034 | 2,263 |
 ## Awards
 Max (Diverse Characters): 5,246  (Ranked 67)  
-Sum: 31,480 (Ranked 38)  
+Sum: 31,482 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -681,7 +681,7 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,757 |
 | This game is Relaxing | 4,643 |
 | This game has Amazing Characters | 4,108 |
-| This game is Highly Recommended | 4,093 |
+| This game is Highly Recommended | 4,095 |
 | This game has Playful Visuals | 3,404 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -912,3 +912,4 @@ Diff (max vs sum): 29
 | 2023-09-06 | 4.06 | - | 5,234 | 31,425 |
 | 2023-09-07 | 4.06 | - | 5,238 | 31,445 |
 | 2023-09-08 | 4.06 | - | 5,246 | 31,480 |
+| 2023-09-09 | 4.06 | - | 5,246 | 31,482 |

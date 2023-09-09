@@ -1275,7 +1275,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23475,
+  "EOS_Progressed": 23476,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 4,
@@ -16450,6 +16450,11 @@
       "Time": "2023-09-09T03:08:45.0841738+00:00",
       "NumProgressed": 23475,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-09T04:07:18.2487172+00:00",
+      "NumProgressed": 23476,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -16477,7 +16482,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "1018",
@@ -16485,7 +16490,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "1019",
@@ -16509,7 +16514,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "1022",
@@ -16517,7 +16522,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "1023",
@@ -16636,15 +16641,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23475,
+      "Progressed": 23476,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:08:45.0841732+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:07:18.2487161+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:05.1036434+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:57:53.0461981+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:08:45.0842544+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:57:39.8704028+00:00",
+  "LastUpdate_Achievements": "2023-09-09T04:07:18.2487976+00:00"
 }

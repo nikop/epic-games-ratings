@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,7 +217,7 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36207,
+  "EOS_Progressed": 36211,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 515,
   "EOS_NewCompleters": 1,
@@ -15822,6 +15822,11 @@
       "Time": "2023-09-09T03:07:18.4287099+00:00",
       "NumProgressed": 36207,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-09T04:06:12.9094208+00:00",
+      "NumProgressed": 36211,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -15833,7 +15838,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5431
+      "UsersEstimate": 5432
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -15841,7 +15846,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7241
+      "UsersEstimate": 7242
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -15879,9 +15884,9 @@
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
       "SetID": "443p4o4",
       "Name": "Backdoor Man",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -15905,7 +15910,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -15985,7 +15990,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -15993,7 +15998,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -16064,7 +16069,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36207,
+      "Progressed": 36211,
       "Completed": 23
     }
   ],
@@ -16072,8 +16077,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:07:18.4287094+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:06:12.9094203+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:38.9783742+00:00",
   "LastUpdate_Ratings": "2023-09-09T03:03:12.1147673+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:07:18.428798+00:00"
+  "LastUpdate_Achievements": "2023-09-09T04:06:12.9095061+00:00"
 }

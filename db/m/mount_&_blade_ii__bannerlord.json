@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -6993,9 +6993,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60614,
+  "EOS_Progressed": 60615,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21973,6 +21973,11 @@
       "Time": "2023-09-09T03:05:13.4085519+00:00",
       "NumProgressed": 60614,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T04:04:37.5880246+00:00",
+      "NumProgressed": 60615,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22064,7 +22069,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "Dynasty",
@@ -22176,7 +22181,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10304
+      "UsersEstimate": 10305
     },
     {
       "ID": "Kingslayer",
@@ -22208,7 +22213,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19396
+      "UsersEstimate": 19397
     },
     {
       "ID": "Lawbringer",
@@ -22216,7 +22221,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 23033
+      "UsersEstimate": 23034
     },
     {
       "ID": "Lawmaker",
@@ -22328,7 +22333,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "The king is pleased",
@@ -22391,15 +22396,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60614,
+      "Progressed": 60615,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-08T18:03:13.3622263+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:05:13.4085513+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:04:37.5880239+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-09T03:03:09.3670703+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:05:13.4086555+00:00"
+  "LastUpdate_Ratings": "2023-09-09T04:00:33.1049524+00:00",
+  "LastUpdate_Achievements": "2023-09-09T04:04:37.5881263+00:00"
 }

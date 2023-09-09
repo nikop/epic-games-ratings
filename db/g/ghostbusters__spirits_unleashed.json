@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1942,10 +1942,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2285,
       "NumberOfAwardsMax": 251
+    },
+    {
+      "Time": "2023-09-09T03:59:46.2679426+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2286,
+      "NumberOfAwardsMax": 251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2285,
+  "NumberOfAwards": 2286,
   "NumberOfAwardsMax": 251,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1983,7 +1989,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2022,9 +2028,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25693,
+  "EOS_Progressed": 25694,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12412,6 +12418,11 @@
       "Time": "2023-09-09T03:07:59.7176976+00:00",
       "NumProgressed": 25693,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-09T04:06:43.854879+00:00",
+      "NumProgressed": 25694,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 51,
@@ -12423,7 +12434,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18756
+      "UsersEstimate": 18757
     },
     {
       "ID": "Animated",
@@ -12431,7 +12442,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6423
+      "UsersEstimate": 6424
     },
     {
       "ID": "Back_Off",
@@ -12463,7 +12474,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10534
+      "UsersEstimate": 10535
     },
     {
       "ID": "Collect_Spores",
@@ -12471,7 +12482,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 13103
+      "UsersEstimate": 13104
     },
     {
       "ID": "Collector",
@@ -12479,7 +12490,7 @@
       "Name": "Collector",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5909
+      "UsersEstimate": 5910
     },
     {
       "ID": "Cultured",
@@ -12487,7 +12498,7 @@
       "Name": "Cultured",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 12846
+      "UsersEstimate": 12847
     },
     {
       "ID": "Daily_Dose",
@@ -12527,7 +12538,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 5909
+      "UsersEstimate": 5910
     },
     {
       "ID": "Efficient",
@@ -12559,7 +12570,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13874
+      "UsersEstimate": 13875
     },
     {
       "ID": "GB_In_Training",
@@ -12639,7 +12650,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6423
+      "UsersEstimate": 6424
     },
     {
       "ID": "Reckless",
@@ -12703,7 +12714,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6166
+      "UsersEstimate": 6167
     },
     {
       "ID": "Solo_Capture",
@@ -12719,7 +12730,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6423
+      "UsersEstimate": 6424
     },
     {
       "ID": "Stylish",
@@ -12727,7 +12738,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22096
+      "UsersEstimate": 22097
     },
     {
       "ID": "Summoner",
@@ -12751,7 +12762,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 13617
+      "UsersEstimate": 13618
     },
     {
       "ID": "Teamwork",
@@ -12830,16 +12841,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25693,
+      "Progressed": 25694,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-09T03:00:44.5455798+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:07:59.7176968+00:00",
+  "LastChanged": "2023-09-09T03:59:46.2679424+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:06:43.8548783+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:35.9780444+00:00",
-  "LastUpdate_Ratings": "2023-09-09T03:00:44.5455803+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:07:59.7177843+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:59:46.2679429+00:00",
+  "LastUpdate_Achievements": "2023-09-09T04:06:43.8549589+00:00"
 }

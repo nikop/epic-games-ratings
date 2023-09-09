@@ -1418,9 +1418,9 @@
       "ID": "achWater",
       "SetID": "72gjli4",
       "Name": "Thirst \u2714",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "achWeapon",
@@ -1451,8 +1451,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:07:44.856142+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:06:32.7141189+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:28.6254913+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:57:33.018296+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:07:44.8561826+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:57:25.355503+00:00",
+  "LastUpdate_Achievements": "2023-09-09T04:06:32.7141697+00:00"
 }

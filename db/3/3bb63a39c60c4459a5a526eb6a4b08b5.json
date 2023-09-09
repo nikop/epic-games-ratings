@@ -2693,9 +2693,9 @@
       "ID": "Reviewer",
       "SetID": "1e89b4i",
       "Name": "Reviewer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ScenarioAmateur",
@@ -2748,8 +2748,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-09T03:03:53.4509839+00:00",
+  "LastChanged_Achievements": "2023-09-09T04:03:36.4511202+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.2387423+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:58:25.6073553+00:00",
-  "LastUpdate_Achievements": "2023-09-09T03:03:53.4510215+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:58:03.508186+00:00",
+  "LastUpdate_Achievements": "2023-09-09T04:03:36.4511581+00:00"
 }
