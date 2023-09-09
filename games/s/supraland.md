@@ -6,18 +6,18 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~717,729 |
-| The Blues | 85.00% | ~616,232 |
-| Fast | 66.00% | ~478,486 |
-| Healthbar | 55.00% | ~398,738 |
+| Out of bed | 99.00% | ~717,730 |
+| The Blues | 85.00% | ~616,233 |
+| Fast | 66.00% | ~478,487 |
+| Healthbar | 55.00% | ~398,739 |
 | Force Cube | 53.00% | ~384,239 |
 | Double Jump | 48.00% | ~347,990 |
-| Regeneration | 47.00% | ~340,740 |
+| Regeneration | 47.00% | ~340,741 |
 | Triple Jump | 43.00% | ~311,741 |
-| Climb the hill | 42.00% | ~304,491 |
+| Climb the hill | 42.00% | ~304,492 |
 | Through the fire pipe | 39.00% | ~282,742 |
 | MacGuffin | 38.00% | ~275,492 |
-| Just once | 37.00% | ~268,242 |
+| Just once | 37.00% | ~268,243 |
 | Armor | 30.00% | ~217,494 |
 | True holy spirit | 28.00% | ~202,994 |
 | That's how electronics work obviously | 26.00% | ~188,495 |
@@ -27,8 +27,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Freed from prison | 21.00% | ~152,246 |
 | Stomp | 21.00% | ~152,246 |
 | Double Health | 18.00% | ~130,496 |
-| Buckle | 17.00% | ~123,246 |
-| Green Keycard | 17.00% | ~123,246 |
+| Buckle | 17.00% | ~123,247 |
+| Green Keycard | 17.00% | ~123,247 |
 | All Shells | 15.00% | ~108,747 |
 | Rattle Hag | 15.00% | ~108,747 |
 | Beam | 14.00% | ~101,497 |
@@ -37,7 +37,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~94,247 |
 | Purple Cube | 13.00% | ~94,247 |
 | Supraball Noob | 13.00% | ~94,247 |
-| Strong | 12.00% | ~86,997 |
+| Strong | 12.00% | ~86,998 |
 | Blue King's lair | 11.00% | ~79,748 |
 | Payback | 11.00% | ~79,748 |
 | Got the coins back | 11.00% | ~79,748 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~725 |
 | DLC: Top of the world | 0.10% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,979 (Ranked 19)  
+Progressed: 724,980 (Ranked 19)  
 Completed: 731 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 731 (0.10%) (Ranked 218)
 | 2023-09-06 | 724,704 | 731 |
 | 2023-09-07 | 724,833 | 731 |
 | 2023-09-08 | 724,961 | 731 |
-| 2023-09-09 | 724,979 | 731 |
+| 2023-09-09 | 724,980 | 731 |
 ## Awards
 Max (Challenging Puzzles): 7,683  (Ranked 45)  
 Sum: 10,010 (Ranked 86)  

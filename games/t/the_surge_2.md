@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 841)
 | Loot, Pillage & Craft | 2.00% | ~40 |
 | Swiss Army Drone | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,995 (Ranked 178)  
+Progressed: 1,995 (Ranked 179)  
 Completed: 11 (0.55%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |

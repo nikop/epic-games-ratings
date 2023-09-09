@@ -1,28 +1,28 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 883)  
+Rating: 4.18 (Ranked 884)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,554 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,277 |
-| Loose Ends | 34.00% | ~24,555 |
+| First Step Into the Knight | 52.00% | ~37,556 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,278 |
+| Loose Ends | 34.00% | ~24,556 |
 | To the Victor Go the Spoils | 28.00% | ~20,222 |
-| Knighthood | 27.00% | ~19,499 |
-| Get ReQ'd | 25.00% | ~18,055 |
-| Whispered Words | 24.00% | ~17,333 |
+| Knighthood | 27.00% | ~19,500 |
+| Get ReQ'd | 25.00% | ~18,056 |
+| Whispered Words | 24.00% | ~17,334 |
 | The Batman Family | 23.00% | ~16,611 |
-| Lock and Key | 22.00% | ~15,888 |
-| Something in the Clay | 20.00% | ~14,444 |
-| Quartzer Life Crisis | 20.00% | ~14,444 |
-| Working Hard or Harley Working? | 20.00% | ~14,444 |
-| Unstoppable Force | 20.00% | ~14,444 |
-| Bad Apples in Every Orchard | 20.00% | ~14,444 |
+| Lock and Key | 22.00% | ~15,889 |
+| Something in the Clay | 20.00% | ~14,445 |
+| Quartzer Life Crisis | 20.00% | ~14,445 |
+| Working Hard or Harley Working? | 20.00% | ~14,445 |
+| Unstoppable Force | 20.00% | ~14,445 |
+| Bad Apples in Every Orchard | 20.00% | ~14,445 |
 | Snow Problem | 19.00% | ~13,722 |
-| The Show Mud Go On | 17.00% | ~12,277 |
-| From Inside Gotham's Walls | 17.00% | ~12,277 |
-| Protector of Gotham | 16.00% | ~11,555 |
+| The Show Mud Go On | 17.00% | ~12,278 |
+| From Inside Gotham's Walls | 17.00% | ~12,278 |
+| Protector of Gotham | 16.00% | ~11,556 |
 | In Your Element | 15.00% | ~10,833 |
 | Universal Health Scare | 15.00% | ~10,833 |
 | Cooldown | 14.00% | ~10,111 |
@@ -31,14 +31,14 @@ Rating: 4.18 (Ranked 883)
 | Not On My Watch | 13.00% | ~9,389 |
 | Shock Til They Drop | 13.00% | ~9,389 |
 | Seeking Asylum | 13.00% | ~9,389 |
-| End of an Era | 12.00% | ~8,666 |
-| Gotham Knight | 12.00% | ~8,666 |
-| Bulldozed | 11.00% | ~7,944 |
-| Gotham City Confidential | 11.00% | ~7,944 |
+| End of an Era | 12.00% | ~8,667 |
+| Gotham Knight | 12.00% | ~8,667 |
+| Bulldozed | 11.00% | ~7,945 |
+| Gotham City Confidential | 11.00% | ~7,945 |
 | Drone You Out | 9.00% | ~6,500 |
 | Out of Their League | 8.00% | ~5,778 |
 | Solid Alibi | 8.00% | ~5,778 |
-| Fusion Expert | 6.00% | ~4,333 |
+| Fusion Expert | 7.00% | ~5,056 |
 | Family Meeting | 6.00% | ~4,333 |
 | A Worthy Successor | 6.00% | ~4,333 |
 | Expert Crime Fighter | 5.00% | ~3,611 |
@@ -53,12 +53,12 @@ Rating: 4.18 (Ranked 883)
 | Claiming the Mural High Ground | 1.00% | ~722 |
 | History Major | 0.80% | ~578 |
 | A Sophisticated Mallet | 0.80% | ~340 |
-| Icebreaker | 0.70% | ~297 |
+| Icebreaker | 0.70% | ~298 |
 | Read Owl About It | 0.70% | ~506 |
-| Gotham's Greatest Depths | 0.50% | ~212 |
-| That's Showbiz, Clayby | 0.50% | ~212 |
-| Don't Mecha Big Deal About It | 0.50% | ~212 |
-| Confronting Your Demon | 0.50% | ~212 |
+| Gotham's Greatest Depths | 0.50% | ~213 |
+| That's Showbiz, Clayby | 0.50% | ~213 |
+| Don't Mecha Big Deal About It | 0.50% | ~213 |
+| Confronting Your Demon | 0.50% | ~213 |
 | Showdown Sovereign | 0.40% | ~170 |
 | Hammer and Icicle | 0.30% | ~128 |
 | Renewable Enemy Source | 0.30% | ~128 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,220 (Ranked 82)  
+Progressed: 72,223 (Ranked 82)  
 Completed: 112 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 112 (0.16%) (Ranked 200)
 | 2023-09-06 | 71,678 | 111 |
 | 2023-09-07 | 72,029 | 111 |
 | 2023-09-08 | 72,185 | 112 |
-| 2023-09-09 | 72,220 | 112 |
+| 2023-09-09 | 72,223 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,614  (Ranked 97)  
 Sum: 4,326 (Ranked 139)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3613,
+  "EOS_Progressed": 3614,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1383,6 +1383,11 @@
       "Time": "2023-09-09T04:04:04.3086008+00:00",
       "NumProgressed": 3613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T06:03:50.2747892+00:00",
+      "NumProgressed": 3614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1466,7 +1471,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -1474,7 +1479,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -1506,7 +1511,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1514,7 +1519,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1562,7 +1567,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -1601,7 +1606,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3613,
+      "Progressed": 3614,
       "Completed": 0
     }
   ],
@@ -1609,8 +1614,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-09-09T05:04:04.6238771+00:00",
+  "LastChanged_Achievements": "2023-09-09T06:03:50.2747886+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:04.3483847+00:00",
-  "LastUpdate_Ratings": "2023-09-09T05:00:17.3734347+00:00",
-  "LastUpdate_Achievements": "2023-09-09T05:04:04.6239024+00:00"
+  "LastUpdate_Ratings": "2023-09-09T06:00:11.0382879+00:00",
+  "LastUpdate_Achievements": "2023-09-09T06:03:50.2748335+00:00"
 }

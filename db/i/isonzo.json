@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -4983,9 +4983,9 @@
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
       "SetID": "akchbl3",
       "Name": "Avanti Savoia!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3239
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -5336,8 +5336,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-02T12:59:05.1112111+00:00",
-  "LastChanged_Achievements": "2023-09-09T05:06:24.2149562+00:00",
+  "LastChanged_Achievements": "2023-09-09T06:06:13.0856634+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:31.6871917+00:00",
-  "LastUpdate_Ratings": "2023-09-09T04:58:57.3431582+00:00",
-  "LastUpdate_Achievements": "2023-09-09T05:06:24.2150174+00:00"
+  "LastUpdate_Ratings": "2023-09-09T05:58:48.6090607+00:00",
+  "LastUpdate_Achievements": "2023-09-09T06:06:13.0857766+00:00"
 }

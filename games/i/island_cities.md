@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~556 |
-| A tiny town | 86.00% | ~493 |
-| Buildings, roads, cars, ...and people | 66.00% | ~378 |
-| Great view from the beach and from the hill | 55.00% | ~315 |
+| Welcome! | 97.00% | ~557 |
+| A tiny town | 86.00% | ~494 |
+| Buildings, roads, cars, ...and people | 66.00% | ~379 |
+| Great view from the beach and from the hill | 55.00% | ~316 |
 | Bridges to come and go | 49.00% | ~281 |
 | Found an oasis | 42.00% | ~241 |
-| Burger or pizza? | 38.00% | ~218 |
-| Passion for sports | 32.00% | ~183 |
-| Who loves trains? | 28.00% | ~160 |
-| Easy and steady climb | 27.00% | ~155 |
+| Burger or pizza? | 37.00% | ~212 |
+| Passion for sports | 32.00% | ~184 |
+| Who loves trains? | 28.00% | ~161 |
+| Easy and steady climb | 26.00% | ~149 |
 | At the heart of the city | 23.00% | ~132 |
 | Calm neighborhood | 22.00% | ~126 |
-| Elevated ring | 20.00% | ~115 |
+| Elevated ring | 21.00% | ~121 |
 | Not lonely anymore | 20.00% | ~115 |
 | Monumental tribute | 19.00% | ~109 |
 | The beach is right there | 18.00% | ~103 |
 | Commuting | 18.00% | ~103 |
-| Le jardin magnifique | 17.00% | ~97 |
+| Le jardin magnifique | 17.00% | ~98 |
 | Aiming for a living and human city | 16.00% | ~92 |
 | City of dreams | 16.00% | ~92 |
 | Happy Christmas night! | 16.00% | ~92 |
 | Night walk along the beach | 16.00% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 573 (Ranked 234)  
-Completed: 91 (15.88%) (Ranked 18)  
+Progressed: 574 (Ranked 234)  
+Completed: 91 (15.85%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,7 +146,7 @@ Completed: 91 (15.88%) (Ranked 18)
 | 2023-09-06 | 486 | 88 |
 | 2023-09-07 | 507 | 88 |
 | 2023-09-08 | 565 | 91 |
-| 2023-09-09 | 573 | 91 |
+| 2023-09-09 | 574 | 91 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1757,9 +1757,9 @@
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 259
     },
     {
       "ID": "rename-lieutenant",
@@ -1829,8 +1829,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-09-09T05:04:25.2818563+00:00",
+  "LastChanged_Achievements": "2023-09-09T06:04:11.4810218+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:30.2177621+00:00",
-  "LastUpdate_Ratings": "2023-09-09T04:57:42.9984815+00:00",
-  "LastUpdate_Achievements": "2023-09-09T05:04:25.2818777+00:00"
+  "LastUpdate_Ratings": "2023-09-09T05:57:31.4417643+00:00",
+  "LastUpdate_Achievements": "2023-09-09T06:04:11.4810609+00:00"
 }

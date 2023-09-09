@@ -4,7 +4,7 @@
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 49,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 155,
+  "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 69,
@@ -3566,10 +3566,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3334,
       "NumberOfAwardsMax": 390
+    },
+    {
+      "Time": "2023-09-09T05:57:42.0076272+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3336,
+      "NumberOfAwardsMax": 390
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3334,
+  "NumberOfAwards": 3336,
   "NumberOfAwardsMax": 390,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3595,7 +3601,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 307
+      "Count": 309
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3640,9 +3646,9 @@
       "Count": 279
     }
   ],
-  "EOS_Progressed": 243128,
+  "EOS_Progressed": 243129,
   "EOS_Completed": 825,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -19045,6 +19051,11 @@
       "Time": "2023-09-09T05:05:18.8025451+00:00",
       "NumProgressed": 243128,
       "NumCompleted": 825
+    },
+    {
+      "Time": "2023-09-09T06:05:05.4865065+00:00",
+      "NumProgressed": 243129,
+      "NumCompleted": 825
     }
   ],
   "TotalAchievements": 39,
@@ -19104,7 +19115,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 72938
+      "UsersEstimate": 72939
     },
     {
       "ID": "AchievementBoulderID",
@@ -19112,7 +19123,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 63213
+      "UsersEstimate": 63214
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -19120,7 +19131,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 221246
+      "UsersEstimate": 221247
     },
     {
       "ID": "AchievementClownID",
@@ -19168,7 +19179,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80232
+      "UsersEstimate": 80233
     },
     {
       "ID": "AchievementGoatID",
@@ -19192,7 +19203,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46194
+      "UsersEstimate": 46195
     },
     {
       "ID": "AchievementINirvanaID",
@@ -19224,7 +19235,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 138583
+      "UsersEstimate": 138584
     },
     {
       "ID": "AchievementLootBoxID",
@@ -19328,7 +19339,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 133720
+      "UsersEstimate": 133721
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -19336,7 +19347,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 114270
+      "UsersEstimate": 114271
     },
     {
       "ID": "AchievementTrinketID",
@@ -19352,7 +19363,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158033
+      "UsersEstimate": 158034
     },
     {
       "ID": "AchievementWhaleID",
@@ -19367,16 +19378,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 243128,
+      "Progressed": 243129,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-09-08T22:57:33.5120862+00:00",
-  "LastChanged_Achievements": "2023-09-09T05:05:18.8025447+00:00",
+  "LastChanged": "2023-09-09T05:57:42.0076269+00:00",
+  "LastChanged_Achievements": "2023-09-09T06:05:05.4865055+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:56.0348626+00:00",
-  "LastUpdate_Ratings": "2023-09-09T04:57:53.0375343+00:00",
-  "LastUpdate_Achievements": "2023-09-09T05:05:18.802664+00:00"
+  "LastUpdate_Ratings": "2023-09-09T05:57:42.0076278+00:00",
+  "LastUpdate_Achievements": "2023-09-09T06:05:05.4867398+00:00"
 }

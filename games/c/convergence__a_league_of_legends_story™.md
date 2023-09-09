@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 392)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 27.00% | ~231 |
-| Rail Rat | 22.00% | ~188 |
+| Rail Rat | 22.00% | ~189 |
 | The Mysterious Stranger | 21.00% | ~180 |
 | The Prince in Heels | 20.00% | ~171 |
 | Immaculate Aim | 20.00% | ~171 |
@@ -29,8 +29,8 @@ Rating: 4.60 (Ranked 392)
 | The Man Who Shattered Time | 16.00% | ~137 |
 | Check Your Pulse | 16.00% | ~137 |
 | The Family Fortune | 16.00% | ~137 |
-| Street Style | 15.00% | ~128 |
-| Cartographer | 15.00% | ~128 |
+| Street Style | 15.00% | ~129 |
+| Cartographer | 15.00% | ~129 |
 | Treasure Trove | 14.00% | ~120 |
 | Whiz Kid | 13.00% | ~111 |
 | Chaincrawler Explorer | 11.00% | ~94 |
@@ -42,8 +42,8 @@ Rating: 4.60 (Ranked 392)
 | Fairgrounds Explorer | 9.00% | ~77 |
 | Sump Explorer | 9.00% | ~77 |
 | Syron for Hope | 9.00% | ~77 |
-| Cultivair Explorer | 8.00% | ~68 |
-| Entresol Explorer | 8.00% | ~68 |
+| Cultivair Explorer | 8.00% | ~69 |
+| Entresol Explorer | 8.00% | ~69 |
 | Corin Goes Home | 7.00% | ~60 |
 | Sartorialist | 7.00% | ~60 |
 | Golem Hunter | 6.00% | ~51 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 392)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 856 (Ranked 214)  
+Progressed: 857 (Ranked 214)  
 Completed: 5 (0.58%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 5 (0.58%) (Ranked 145)
 | 2023-09-03 | 854 | 5 |
 | 2023-09-06 | 855 | 5 |
 | 2023-09-07 | 856 | 5 |
+| 2023-09-09 | 857 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

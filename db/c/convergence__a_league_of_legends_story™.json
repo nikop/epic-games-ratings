@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 856,
+  "EOS_Progressed": 857,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2105,6 +2105,11 @@
       "Time": "2023-09-07T02:20:21.1202071+00:00",
       "NumProgressed": 856,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-09T06:05:04.7390318+00:00",
+      "NumProgressed": 857,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2188,7 +2193,7 @@
       "Name": "Street Style",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "CultivairChests1",
@@ -2196,7 +2201,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "EntresolChests1",
@@ -2204,7 +2209,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -2276,7 +2281,7 @@
       "Name": "Rail Rat",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "HexlockGift",
@@ -2316,7 +2321,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "NoCritterSump",
@@ -2539,7 +2544,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 856,
+      "Progressed": 857,
       "Completed": 5
     }
   ],
@@ -2547,8 +2552,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-09T05:05:18.0467341+00:00",
+  "LastChanged_Achievements": "2023-09-09T06:05:04.7390311+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:21.5800878+00:00",
-  "LastUpdate_Ratings": "2023-09-09T05:00:36.385091+00:00",
-  "LastUpdate_Achievements": "2023-09-09T05:05:18.0467937+00:00"
+  "LastUpdate_Ratings": "2023-09-09T06:00:30.4092666+00:00",
+  "LastUpdate_Achievements": "2023-09-09T06:05:04.7391833+00:00"
 }
