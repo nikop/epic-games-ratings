@@ -37,6 +37,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 2.00% | ~276 |
 | Fountainhead | 2.00% | ~276 |
 | Great | 2.00% | ~276 |
+| Intercessor | 2.00% | ~276 |
 | Magnificent | 2.00% | ~276 |
 | Warrior | 2.00% | ~276 |
 | Wise | 2.00% | ~276 |
@@ -67,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 1.00% | ~138 |
 | Beloved | 1.00% | ~138 |
 | Conqueror | 1.00% | ~138 |
-| Intercessor | 1.00% | ~138 |
 | Lion | 1.00% | ~138 |
 | Mighty | 1.00% | ~138 |
 | Valiant | 1.00% | ~138 |
@@ -139,13 +139,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
+| Old World Order | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
 | Carthage - Ox Hide | 0.40% | ~55 |
 | Ancient | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
 | The Eternal Treaty | 0.40% | ~55 |
 | Persia | 0.40% | ~55 |
-| Old World Order | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
 | Capturing Cities | 0.40% | ~55 |
 | Ten Crowns | 0.40% | ~55 |

@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 33.00% | ~33 |
-| Welcome to the Tower | 30.00% | ~30 |
-| The Preacher's fate | 25.00% | ~25 |
-| The great escape | 25.00% | ~25 |
+| Welcome to the Tower | 32.00% | ~32 |
+| The Preacher's fate | 26.00% | ~26 |
+| The great escape | 26.00% | ~26 |
 | A new dawn | 20.00% | ~20 |
 | A good beginning | 15.00% | ~15 |
 | Champollion | 15.00% | ~15 |
@@ -30,8 +30,8 @@
 | A great audience | 6.00% | ~6 |
 | For its own good | 6.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 344)  
-Completed: 5 (5.00%) (Ranked 54)  
+Progressed: 101 (Ranked 344)  
+Completed: 5 (4.95%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,4 +82,4 @@ Completed: 5 (5.00%) (Ranked 54)
 | 2023-09-06 | 80 | 5 |
 | 2023-09-07 | 86 | 5 |
 | 2023-09-08 | 98 | 5 |
-| 2023-09-09 | 100 | 5 |
+| 2023-09-09 | 101 | 5 |

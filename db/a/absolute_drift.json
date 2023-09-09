@@ -448,9 +448,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1539387,
+  "EOS_Progressed": 1539393,
   "EOS_Completed": 681,
-  "EOS_NewPlayers": 1150,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16273,6 +16273,11 @@
       "Time": "2023-09-09T02:20:14.261811+00:00",
       "NumProgressed": 1539387,
       "NumCompleted": 681
+    },
+    {
+      "Time": "2023-09-09T03:08:33.3342027+00:00",
+      "NumProgressed": 1539393,
+      "NumCompleted": 681
     }
   ],
   "TotalAchievements": 20,
@@ -16292,7 +16297,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 107757
+      "UsersEstimate": 107758
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -16404,7 +16409,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13854
+      "UsersEstimate": 13855
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -16428,7 +16433,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76969
+      "UsersEstimate": 76970
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -16443,15 +16448,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1539387,
+      "Progressed": 1539393,
       "Completed": 681
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-06T23:02:05.1723132+00:00",
-  "LastChanged_Achievements": "2023-09-09T02:20:14.2618105+00:00",
+  "LastChanged_Achievements": "2023-09-09T03:08:33.3342022+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:36.7392026+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:15:08.7881652+00:00",
-  "LastUpdate_Achievements": "2023-09-09T02:20:14.2619079+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:03:13.0020458+00:00",
+  "LastUpdate_Achievements": "2023-09-09T03:08:33.3342905+00:00"
 }

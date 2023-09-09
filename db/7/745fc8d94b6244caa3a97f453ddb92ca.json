@@ -2,9 +2,9 @@
   "ID": "745fc8d94b6244caa3a97f453ddb92ca",
   "Name": "Project Nightmares Case 36: Henrietta Kedward",
   "ProductSlug": "project-nightmares-dcc54b",
-  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-10T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -95,6 +95,11 @@
     {
       "Time": "2023-09-05T16:04:04.3838698+00:00",
       "NumProgressed": 14,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T03:05:32.7712212+00:00",
+      "NumProgressed": 15,
       "NumCompleted": 0
     }
   ],
@@ -186,7 +191,7 @@
       "ID": "ACH_SECUNDARIA_MASK",
       "SetID": "9675gi1",
       "Name": "Collector",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -234,7 +239,7 @@
       "ID": "ST_CANDLE",
       "SetID": "9675gi1",
       "Name": "A light in the dark",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -250,7 +255,7 @@
       "ID": "ST_PLAGUE",
       "SetID": "9675gi1",
       "Name": "Plague Control",
-      "Percentage": 64,
+      "Percentage": 60,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -267,14 +272,14 @@
     {
       "ID": "9675gi1",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-09-09T02:17:31.9230273+00:00",
+  "LastChanged_Achievements": "2023-09-09T03:05:32.7712206+00:00",
   "LastUpdate_AppInfo": "2023-09-07T18:57:15.6283552+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:10:38.3621779+00:00",
-  "LastUpdate_Achievements": "2023-09-09T02:17:31.9230421+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:58:24.7249987+00:00",
+  "LastUpdate_Achievements": "2023-09-09T03:05:32.7712333+00:00"
 }

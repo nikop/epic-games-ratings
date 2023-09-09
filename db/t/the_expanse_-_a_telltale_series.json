@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10271,
+  "EOS_Progressed": 10273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4764,6 +4764,11 @@
       "Time": "2023-09-09T02:18:54.5342203+00:00",
       "NumProgressed": 10271,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T03:07:04.5705924+00:00",
+      "NumProgressed": 10273,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4782,17 +4787,17 @@
       "ID": "10",
       "SetID": "458bbdk",
       "Name": "Data Miner",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 62
     },
     {
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 925
     },
     {
       "ID": "12",
@@ -4984,7 +4989,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "7",
@@ -5015,7 +5020,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10271,
+      "Progressed": 10273,
       "Completed": 0
     }
   ],
@@ -5023,8 +5028,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-07T17:03:40.5471385+00:00",
-  "LastChanged_Achievements": "2023-09-09T02:18:54.5342197+00:00",
+  "LastChanged_Achievements": "2023-09-09T03:07:04.5705918+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:13:06.9570731+00:00",
-  "LastUpdate_Achievements": "2023-09-09T02:18:54.5342713+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:01:08.449233+00:00",
+  "LastUpdate_Achievements": "2023-09-09T03:07:04.570631+00:00"
 }

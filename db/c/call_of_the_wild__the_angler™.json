@@ -7181,17 +7181,17 @@
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3948
     },
     {
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2632
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -7460,8 +7460,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-08T12:01:25.854057+00:00",
-  "LastChanged_Achievements": "2023-09-09T02:16:41.795768+00:00",
+  "LastChanged_Achievements": "2023-09-09T03:04:35.3812316+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:23.1924368+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:09:33.5526204+00:00",
-  "LastUpdate_Achievements": "2023-09-09T02:16:41.795837+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:57:13.1711354+00:00",
+  "LastUpdate_Achievements": "2023-09-09T03:04:35.3812816+00:00"
 }

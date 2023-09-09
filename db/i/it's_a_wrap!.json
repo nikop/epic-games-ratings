@@ -4,7 +4,7 @@
   "ProductSlug": "its-a-wrap-f392ae",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -374,9 +374,9 @@
       "ID": "MOV1_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Treasure Hunter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MOV2_FINISH",
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-09T02:18:02.8729484+00:00",
+  "LastChanged_Achievements": "2023-09-09T03:06:06.7599917+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:02.219567+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:13:19.4327157+00:00",
-  "LastUpdate_Achievements": "2023-09-09T02:18:02.8729616+00:00"
+  "LastUpdate_Ratings": "2023-09-09T03:01:22.1780801+00:00",
+  "LastUpdate_Achievements": "2023-09-09T03:06:06.7600023+00:00"
 }

@@ -18,7 +18,7 @@
 | Snow-covered ruins | 0.40% | ~11 |
 | Another ride! | 0.30% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,633 (Ranked 170)  
+Progressed: 2,634 (Ranked 170)  
 Completed: 6 (0.23%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 6 (0.23%) (Ranked 190)
 | 2023-09-06 | 2,621 | 6 |
 | 2023-09-07 | 2,626 | 6 |
 | 2023-09-08 | 2,633 | 6 |
+| 2023-09-09 | 2,634 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

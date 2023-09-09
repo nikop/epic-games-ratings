@@ -21,10 +21,10 @@
 | No bullying more | 69.00% | ~221 |
 | Hello, world! | 69.00% | ~221 |
 | Pal of your father? | 67.00% | ~214 |
-| Employee of the month | 65.00% | ~208 |
-| Spirit of the past | 64.00% | ~205 |
+| Employee of the month | 66.00% | ~211 |
+| Spirit of the past | 65.00% | ~208 |
+| Law student | 63.00% | ~202 |
 | Workout professional | 62.00% | ~198 |
-| Law student | 62.00% | ~198 |
 | Handyman | 61.00% | ~195 |
 | Champion – starter pack | 61.00% | ~195 |
 | It's good to be alive | 60.00% | ~192 |

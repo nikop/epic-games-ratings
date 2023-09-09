@@ -43,9 +43,9 @@ Rating: 4.87 (Ranked 24)
 | I think I deserve some praise, here! | 1.00% | ~40 |
 | I think I found your calling, Macaron | 1.00% | ~40 |
 | We're Jammin' | 1.00% | ~40 |
+| I'm not done with you yet | 1.00% | ~40 |
 | First we parry, then we counter | 1.00% | ~40 |
 | I hit things with a guitar really well. | 1.00% | ~40 |
-| I'm not done with you yet | 0.90% | ~36 |
 | This is a breeze! | 0.80% | ~32 |
 | You ever parry a volcano? | 0.70% | ~28 |
 | New bad guys? No problem! | 0.70% | ~18 |

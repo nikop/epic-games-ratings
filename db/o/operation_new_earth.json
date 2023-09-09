@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1267,
+  "EOS_Progressed": 1268,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4506,6 +4506,11 @@
       "Time": "2023-09-08T21:08:55.3913916+00:00",
       "NumProgressed": 1267,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T03:08:32.9059131+00:00",
+      "NumProgressed": 1268,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4693,7 +4698,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4773,7 +4778,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4820,14 +4825,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1267,
+      "Progressed": 1268,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-09T02:20:13.919855+00:00",
+  "LastChanged_Achievements": "2023-09-09T03:08:32.9059123+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-09T02:10:17.633937+00:00",
-  "LastUpdate_Achievements": "2023-09-09T02:20:13.9199114+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:58:02.2608664+00:00",
+  "LastUpdate_Achievements": "2023-09-09T03:08:32.9059594+00:00"
 }

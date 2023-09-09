@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,717 |
-| Basic in Bulk | 2.00% | ~2,717 |
-| Tinkle of Coins | 2.00% | ~2,717 |
-| Titan's First Steps | 2.00% | ~2,717 |
+| Sponsored by Argon | 2.00% | ~2,718 |
+| Basic in Bulk | 2.00% | ~2,718 |
+| Tinkle of Coins | 2.00% | ~2,718 |
+| Titan's First Steps | 2.00% | ~2,718 |
 | One Easy Payment | 1.00% | ~1,359 |
 | Some Assembly Required | 1.00% | ~1,359 |
 | Disintermediation | 1.00% | ~1,359 |
@@ -45,45 +45,45 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.50% | ~679 |
 | Natural 20 | 0.50% | ~679 |
 | Magical Harmony | 0.50% | ~679 |
-| A Notch Above the Rest | 0.40% | ~543 |
-| Cream of the Crop | 0.40% | ~543 |
-| Proud Paladin | 0.40% | ~543 |
-| Above the Norm | 0.40% | ~543 |
-| A Ronin Reborn | 0.40% | ~543 |
-| Tax not Included | 0.40% | ~543 |
-| The King's Caprice | 0.40% | ~543 |
-| Big Game Hunting | 0.40% | ~543 |
-| For the Hoard! | 0.40% | ~543 |
-| Scrapbooker | 0.40% | ~543 |
-| Archivist | 0.40% | ~543 |
-| Locally Sourced | 0.40% | ~543 |
-| Flying off the Shelves | 0.40% | ~543 |
-| This Power Level...! | 0.40% | ~543 |
-| Omae wa Mou Shindeiru | 0.40% | ~543 |
-| Master of Transmutation | 0.40% | ~543 |
-| Hidden Potential | 0.40% | ~543 |
-| Supercharged | 0.40% | ~543 |
-| Expansion in Session | 0.40% | ~543 |
-| Ritualist | 0.40% | ~543 |
-| Cranked up to 11 | 0.40% | ~543 |
-| Fit for a King | 0.40% | ~543 |
-| Trash to Treasure | 0.40% | ~543 |
-| Mammonite | 0.40% | ~543 |
-| Wealth Beyond Measure | 0.40% | ~543 |
-| Fat Cat Tag Team | 0.40% | ~543 |
-| Item of Renown | 0.40% | ~543 |
-| Master Merchant | 0.40% | ~543 |
-| Miracle Alchemist | 0.40% | ~543 |
-| Laden with Loot | 0.40% | ~543 |
-| Seasoned Journeyman | 0.40% | ~543 |
-| Scourge of the Seas | 0.40% | ~543 |
-| Attrition Mission | 0.40% | ~543 |
-| Glittering Collection | 0.40% | ~543 |
-| Black Friday Special | 0.40% | ~543 |
-| King's Shadow | 0.40% | ~543 |
-| Special Ingredient | 0.40% | ~543 |
-| Exotic Commodities | 0.40% | ~543 |
-| Complete Monopoly | 0.40% | ~543 |
+| A Notch Above the Rest | 0.40% | ~544 |
+| Cream of the Crop | 0.40% | ~544 |
+| Proud Paladin | 0.40% | ~544 |
+| Above the Norm | 0.40% | ~544 |
+| A Ronin Reborn | 0.40% | ~544 |
+| Tax not Included | 0.40% | ~544 |
+| The King's Caprice | 0.40% | ~544 |
+| Big Game Hunting | 0.40% | ~544 |
+| For the Hoard! | 0.40% | ~544 |
+| Scrapbooker | 0.40% | ~544 |
+| Archivist | 0.40% | ~544 |
+| Locally Sourced | 0.40% | ~544 |
+| Flying off the Shelves | 0.40% | ~544 |
+| This Power Level...! | 0.40% | ~544 |
+| Omae wa Mou Shindeiru | 0.40% | ~544 |
+| Master of Transmutation | 0.40% | ~544 |
+| Hidden Potential | 0.40% | ~544 |
+| Supercharged | 0.40% | ~544 |
+| Expansion in Session | 0.40% | ~544 |
+| Ritualist | 0.40% | ~544 |
+| Cranked up to 11 | 0.40% | ~544 |
+| Fit for a King | 0.40% | ~544 |
+| Trash to Treasure | 0.40% | ~544 |
+| Mammonite | 0.40% | ~544 |
+| Wealth Beyond Measure | 0.40% | ~544 |
+| Fat Cat Tag Team | 0.40% | ~544 |
+| Item of Renown | 0.40% | ~544 |
+| Master Merchant | 0.40% | ~544 |
+| Miracle Alchemist | 0.40% | ~544 |
+| Laden with Loot | 0.40% | ~544 |
+| Seasoned Journeyman | 0.40% | ~544 |
+| Scourge of the Seas | 0.40% | ~544 |
+| Attrition Mission | 0.40% | ~544 |
+| Glittering Collection | 0.40% | ~544 |
+| Black Friday Special | 0.40% | ~544 |
+| King's Shadow | 0.40% | ~544 |
+| Special Ingredient | 0.40% | ~544 |
+| Exotic Commodities | 0.40% | ~544 |
+| Complete Monopoly | 0.40% | ~544 |
 | Top of the World | 0.30% | ~408 |
 | Constellated | 0.30% | ~408 |
 | Thirst for Knowledge | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,874 (Ranked 68)  
+Progressed: 135,875 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 147 (0.11%) (Ranked 216)
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
-| 2023-09-09 | 135,874 | 147 |
+| 2023-09-09 | 135,875 | 147 |
 ## Awards
 Max (Great for Beginners): 4,730  (Ranked 70)  
 Sum: 27,189 (Ranked 48)  

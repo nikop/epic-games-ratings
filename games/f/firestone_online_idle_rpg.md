@@ -52,6 +52,7 @@ Rating: 4.00 (Ranked 940)
 | Weekly Quest Completionist | 7.00% | ~134 |
 | Ancient Knowledge | 6.00% | ~115 |
 | How Do You Turn This On? | 6.00% | ~115 |
+| Legendary | 6.00% | ~115 |
 | Lock And Load | 6.00% | ~115 |
 | Missions Dedication | 6.00% | ~115 |
 | Sailor | 6.00% | ~115 |
@@ -60,7 +61,6 @@ Rating: 4.00 (Ranked 940)
 | Arena Challenger | 5.00% | ~96 |
 | Background Story | 5.00% | ~96 |
 | Ebony Jungle Liberator | 5.00% | ~96 |
-| Legendary | 5.00% | ~96 |
 | What lies behind the bush | 3.00% | ~57 |
 | Gear Enchanting | 2.00% | ~38 |
 | Guardian Master | 2.00% | ~38 |
