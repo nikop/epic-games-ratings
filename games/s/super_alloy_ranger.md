@@ -18,7 +18,7 @@
 | Mr. Want It All | 15.00% | ~10 |
 | Phew! | 15.00% | ~10 |
 | Grand Escape | 12.00% | ~8 |
-| Space Warrior: Prologue | 11.00% | ~7 |
+| Space Warrior: Prologue | 12.00% | ~8 |
 | The Abyss Conqueror | 9.00% | ~6 |
 | Keep it Up, rookie! | 9.00% | ~6 |
 | Decapitation Strike | 8.00% | ~5 |
@@ -28,6 +28,7 @@
 | Rapidfire | 6.00% | ~4 |
 | Antaeus | 6.00% | ~4 |
 | Air Interception | 6.00% | ~4 |
+| Hell of a Fight | 6.00% | ~4 |
 | The Deep Frozen Conqueror | 5.00% | ~3 |
 | The Infinite Train Conqueror | 5.00% | ~3 |
 | The Paradox Coordinate Conqueror | 5.00% | ~3 |
@@ -35,7 +36,6 @@
 | The Inactivated Frozen Conqueror | 5.00% | ~3 |
 | Death Bringer Conqueror | 5.00% | ~3 |
 | Space Ranger: Prologue | 5.00% | ~3 |
-| Hell of a Fight | 5.00% | ~3 |
 | The Sunken City Conqueror | 3.00% | ~2 |
 | The Looping Space Conqueror | 3.00% | ~2 |
 | Break Through the Forbidden | 3.00% | ~2 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 373)  
+Progressed: 66 (Ranked 374)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-tale-of-bistun-9d6c5f",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -193,17 +193,17 @@
       "ID": "BISTUN_ACHIEVEMENT_17",
       "SetID": "1kdk24p",
       "Name": "Master Smithy",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_18",
       "SetID": "1kdk24p",
       "Name": "One With The Blades",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_19",
@@ -369,9 +369,9 @@
       "ID": "BISTUN_ACHIEVEMENT_37",
       "SetID": "1kdk24p",
       "Name": "Shoo! Shoo!",
-      "Percentage": 52,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_4",
@@ -434,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-09-09T10:04:00.6161131+00:00",
+  "LastChanged_Achievements": "2023-09-09T11:06:43.318975+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:41.9358445+00:00",
-  "LastUpdate_Ratings": "2023-09-09T09:57:55.4410123+00:00",
-  "LastUpdate_Achievements": "2023-09-09T10:04:00.6161434+00:00"
+  "LastUpdate_Ratings": "2023-09-09T11:00:51.0687462+00:00",
+  "LastUpdate_Achievements": "2023-09-09T11:06:43.319008+00:00"
 }

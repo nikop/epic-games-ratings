@@ -6,24 +6,24 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~23,042 |
-| Landlord | 32.00% | ~19,404 |
-| Bannerlord | 23.00% | ~13,947 |
-| Horde breaker | 23.00% | ~13,947 |
-| Lawmaker | 23.00% | ~13,947 |
-| Trained | 22.00% | ~13,340 |
-| The king is pleased | 18.00% | ~10,915 |
-| King Solomon | 17.00% | ~10,308 |
+| Lawbringer | 38.00% | ~23,044 |
+| Landlord | 32.00% | ~19,406 |
+| Bannerlord | 23.00% | ~13,948 |
+| Horde breaker | 23.00% | ~13,948 |
+| Lawmaker | 23.00% | ~13,948 |
+| Trained | 22.00% | ~13,341 |
+| The king is pleased | 18.00% | ~10,916 |
+| King Solomon | 17.00% | ~10,309 |
 | Apple of my eye | 15.00% | ~9,096 |
 | I can do it | 15.00% | ~9,096 |
-| God of the Arena | 13.00% | ~7,883 |
+| God of the Arena | 13.00% | ~7,884 |
 | Against all odds | 12.00% | ~7,277 |
-| This Is Our Land | 11.00% | ~6,670 |
+| This Is Our Land | 11.00% | ~6,671 |
 | Duelist | 10.00% | ~6,064 |
 | Swordbearer | 10.00% | ~6,064 |
-| Dynasty | 9.00% | ~5,457 |
-| I spit on your grave | 9.00% | ~5,457 |
-| What have the Romans ever done for us? | 9.00% | ~5,457 |
+| Dynasty | 9.00% | ~5,458 |
+| I spit on your grave | 9.00% | ~5,458 |
+| What have the Romans ever done for us? | 9.00% | ~5,458 |
 | Butterlord | 8.00% | ~4,851 |
 | Know your enemy | 7.00% | ~4,245 |
 | Mastery | 7.00% | ~4,245 |
@@ -38,7 +38,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Supreme Emperor | 1.00% | ~606 |
 | Crackshot | 0.80% | ~485 |
 | Undercover | 0.80% | ~485 |
-| Fat Cat | 0.70% | ~424 |
+| Fat Cat | 0.70% | ~425 |
 | Catch | 0.60% | ~364 |
 | Slice 'n dice | 0.50% | ~303 |
 | Ride it like you stole it | 0.40% | ~243 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,638 (Ranked 88)  
+Progressed: 60,643 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 60,462 | 0 |
 | 2023-09-07 | 60,538 | 0 |
 | 2023-09-08 | 60,607 | 0 |
-| 2023-09-09 | 60,638 | 0 |
+| 2023-09-09 | 60,643 | 0 |
 ## Awards
 Max (Character Customization): 7,048  (Ranked 50)  
-Sum: 14,338 (Ranked 70)  
+Sum: 14,341 (Ranked 70)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
@@ -214,8 +214,8 @@ Diff (max vs sum): -20
 | This game is Extremely Fun | 822 |
 | This game has Amazing Storytelling | 809 |
 | This game is Relaxing | 797 |
+| This game has Amazing Characters | 789 |
 | This game has Quickly Understood Controls | 788 |
-| This game has Amazing Characters | 786 |
 | This game has a Creative Community | 579 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -459,4 +459,4 @@ Diff (max vs sum): -20
 | 2023-09-06 | 4.74 | - | 7,036 | 14,318 |
 | 2023-09-07 | 4.74 | - | 7,045 | 14,333 |
 | 2023-09-08 | 4.74 | - | 7,048 | 14,337 |
-| 2023-09-09 | 4.74 | - | 7,048 | 14,338 |
+| 2023-09-09 | 4.74 | - | 7,048 | 14,341 |

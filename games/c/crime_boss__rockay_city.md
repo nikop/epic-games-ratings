@@ -1,49 +1,49 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 958)  
+Rating: 3.93 (Ranked 957)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 71.00% | ~57,910 |
-| First One’s Free | 62.00% | ~50,570 |
-| Neophyte Ninja | 48.00% | ~39,151 |
-| Too Old for This | 44.00% | ~35,888 |
-| Fancy Pants | 33.00% | ~26,916 |
-| Case Closed | 32.00% | ~26,100 |
-| King of the Hill | 31.00% | ~25,285 |
-| Underworld Initiate | 27.00% | ~22,022 |
-| Roid Ranger | 19.00% | ~15,497 |
-| Off the Rocks | 18.00% | ~14,682 |
-| True Player | 17.00% | ~13,866 |
-| Dragonslayer | 16.00% | ~13,050 |
-| Raider’s Ruin | 15.00% | ~12,235 |
-| Hidden Sonata | 12.00% | ~9,788 |
-| Rockay Rex | 10.00% | ~8,156 |
-| Track Star | 9.00% | ~7,341 |
-| Freebooter | 9.00% | ~7,341 |
-| I Like Trains | 8.00% | ~6,525 |
-| Headhunter | 8.00% | ~6,525 |
-| Ding Dong | 8.00% | ~6,525 |
-| Classy Joint | 8.00% | ~6,525 |
-| Foo Finder | 6.00% | ~4,894 |
-| Legend Looter | 5.00% | ~4,078 |
-| Savvy Seeker | 5.00% | ~4,078 |
-| Imports and Exports | 4.00% | ~3,263 |
-| Olympus Ascended | 4.00% | ~3,263 |
-| Red Star | 4.00% | ~3,263 |
-| Privateer | 3.00% | ~2,447 |
-| Groundhog Days | 3.00% | ~2,447 |
-| Cracked the Jack | 3.00% | ~2,447 |
-| Rockay Raider | 2.00% | ~1,631 |
-| Moneybags | 2.00% | ~1,631 |
-| Impossible Dreamer | 2.00% | ~1,631 |
-| Rockay Knight | 1.00% | ~816 |
-| Talent Scout | 1.00% | ~816 |
-| Geek Out | 0.50% | ~408 |
-| Full House | 0.20% | ~163 |
+| Downed but Not Outed | 71.00% | ~58,059 |
+| First One’s Free | 62.00% | ~50,699 |
+| Neophyte Ninja | 48.00% | ~39,251 |
+| Too Old for This | 44.00% | ~35,980 |
+| Fancy Pants | 33.00% | ~26,985 |
+| Case Closed | 31.00% | ~25,350 |
+| King of the Hill | 31.00% | ~25,350 |
+| Underworld Initiate | 27.00% | ~22,079 |
+| Roid Ranger | 19.00% | ~15,537 |
+| Off the Rocks | 18.00% | ~14,719 |
+| True Player | 17.00% | ~13,901 |
+| Dragonslayer | 16.00% | ~13,084 |
+| Raider’s Ruin | 15.00% | ~12,266 |
+| Hidden Sonata | 12.00% | ~9,813 |
+| Rockay Rex | 10.00% | ~8,177 |
+| Track Star | 9.00% | ~7,360 |
+| Freebooter | 9.00% | ~7,360 |
+| I Like Trains | 8.00% | ~6,542 |
+| Headhunter | 8.00% | ~6,542 |
+| Ding Dong | 8.00% | ~6,542 |
+| Classy Joint | 8.00% | ~6,542 |
+| Foo Finder | 6.00% | ~4,906 |
+| Legend Looter | 5.00% | ~4,089 |
+| Savvy Seeker | 5.00% | ~4,089 |
+| Imports and Exports | 4.00% | ~3,271 |
+| Olympus Ascended | 4.00% | ~3,271 |
+| Red Star | 4.00% | ~3,271 |
+| Privateer | 3.00% | ~2,453 |
+| Groundhog Days | 3.00% | ~2,453 |
+| Cracked the Jack | 3.00% | ~2,453 |
+| Rockay Raider | 2.00% | ~1,635 |
+| Moneybags | 2.00% | ~1,635 |
+| Impossible Dreamer | 2.00% | ~1,635 |
+| Rockay Knight | 1.00% | ~818 |
+| Talent Scout | 1.00% | ~818 |
+| Geek Out | 0.50% | ~409 |
+| Full House | 0.20% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,564 (Ranked 77)  
+Progressed: 81,773 (Ranked 77)  
 Completed: 43 (0.05%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,16 +185,16 @@ Completed: 43 (0.05%) (Ranked 236)
 | 2023-09-06 | 72,717 | 43 |
 | 2023-09-07 | 73,678 | 43 |
 | 2023-09-08 | 79,713 | 43 |
-| 2023-09-09 | 81,564 | 43 |
+| 2023-09-09 | 81,773 | 43 |
 ## Awards
 Max (Diverse Characters): 418  (Ranked 212)  
-Sum: 1,996 (Ranked 202)  
-Diff (max vs sum): 10  
+Sum: 1,998 (Ranked 201)  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 418 |
 | This game has Quickly Understood Controls | 410 |
-| This game is Highly Recommended | 398 |
+| This game is Highly Recommended | 400 |
 | This game has Challenging Combat | 386 |
 | This game has Amazing Characters | 384 |
 | This game is Great for Quick Sessions | 70 |
@@ -364,4 +364,4 @@ Diff (max vs sum): 10
 | 2023-09-06 | 3.94 | 417 | 1,986 |
 | 2023-09-07 | 3.94 | 417 | 1,990 |
 | 2023-09-08 | 3.94 | 418 | 1,995 |
-| 2023-09-09 | 3.93 | 418 | 1,996 |
+| 2023-09-09 | 3.93 | 418 | 1,998 |

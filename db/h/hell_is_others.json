@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -922,9 +922,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256011,
+  "EOS_Progressed": 256015,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15327,6 +15327,11 @@
       "Time": "2023-09-09T10:09:06.2820435+00:00",
       "NumProgressed": 256011,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-09T11:11:47.4848303+00:00",
+      "NumProgressed": 256015,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -15346,7 +15351,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10240
+      "UsersEstimate": 10241
     },
     {
       "ID": "Act3",
@@ -15386,7 +15391,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79363
+      "UsersEstimate": 79365
     },
     {
       "ID": "BackHomeNTimes",
@@ -15402,7 +15407,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10240
+      "UsersEstimate": 10241
     },
     {
       "ID": "BreakNWindows",
@@ -15410,7 +15415,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10240
+      "UsersEstimate": 10241
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -15442,7 +15447,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25601
+      "UsersEstimate": 25602
     },
     {
       "ID": "CreditLevel2",
@@ -15626,7 +15631,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56322
+      "UsersEstimate": 56323
     },
     {
       "ID": "KillOthers2",
@@ -15706,7 +15711,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10240
+      "UsersEstimate": 10241
     },
     {
       "ID": "Patrimony2",
@@ -15730,7 +15735,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25601
+      "UsersEstimate": 25602
     },
     {
       "ID": "ReachNDays2",
@@ -15785,7 +15790,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256011,
+      "Progressed": 256015,
       "Completed": 3
     }
   ],
@@ -15793,8 +15798,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-09T03:57:21.3249324+00:00",
-  "LastChanged_Achievements": "2023-09-09T10:09:06.282043+00:00",
+  "LastChanged_Achievements": "2023-09-09T11:11:47.4848298+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:51.8188403+00:00",
-  "LastUpdate_Ratings": "2023-09-09T09:57:55.7311878+00:00",
-  "LastUpdate_Achievements": "2023-09-09T10:09:06.2821578+00:00"
+  "LastUpdate_Ratings": "2023-09-09T11:00:51.441247+00:00",
+  "LastUpdate_Achievements": "2023-09-09T11:11:47.4849667+00:00"
 }

@@ -39,10 +39,10 @@ Number of Ratings: 177  (23.09.2022)
 | Good Ol' Days | 0.40% | ~25 |
 | The Bride | 0.30% | ~18 |
 | Deck the Balls | 0.30% | ~10 |
+| Drunk and Disorderly: Madison | 0.30% | ~18 |
 | Rachael | 0.30% | ~18 |
 | The Elder Brahs | 0.30% | ~18 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
-| Drunk and Disorderly: Madison | 0.20% | ~12 |
 | Do Not Burn | 0.20% | ~12 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~6 |
 | First Impressions | 0.20% | ~12 |

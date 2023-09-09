@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 3.00% | ~415 |
 | Pioneer | 3.00% | ~415 |
 | Strong | 3.00% | ~415 |
+| Developing Cities | 3.00% | ~415 |
 | Hanging Gardens | 3.00% | ~415 |
 | Oracle | 3.00% | ~415 |
 | Judaism | 3.00% | ~415 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 2.00% | ~276 |
 | Warrior | 2.00% | ~276 |
 | Wise | 2.00% | ~276 |
-| Developing Cities | 2.00% | ~276 |
 | Legendary Cities | 2.00% | ~276 |
 | Strong Cities | 2.00% | ~276 |
 | Able Difficulty | 2.00% | ~276 |
@@ -123,25 +123,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.70% | ~97 |
 | Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
+| Learn to Play 4 | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
 | Carthage | 0.70% | ~97 |
 | Kushite Cavalry | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
-| Learn to Play 4 | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
 | One True Faith | 0.60% | ~83 |
 | Hittite Paganism | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
 | All Nations | 0.60% | ~83 |
+| Carthage - Ox Hide | 0.50% | ~69 |
 | Old | 0.50% | ~69 |
 | Peacemaker | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
 | Old World Order | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
-| Carthage - Ox Hide | 0.40% | ~55 |
 | Ancient | 0.40% | ~55 |
 | Noble Difficulty | 0.40% | ~55 |
 | The Eternal Treaty | 0.40% | ~55 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,823 (Ranked 121)  
+Progressed: 13,824 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -445,7 +445,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-06 | 13,796 | 5 |
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
-| 2023-09-09 | 13,823 | 5 |
+| 2023-09-09 | 13,824 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

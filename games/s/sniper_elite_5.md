@@ -20,9 +20,9 @@ Rating: 4.47 (Ranked 612)
 | As Quiet as a Mouse | 22.00% | ~791 |
 | Sharpshooter | 21.00% | ~755 |
 | Explosive Efficiency | 18.00% | ~647 |
+| Just a Flesh Wound | 17.00% | ~611 |
 | Gunslinger | 17.00% | ~611 |
 | Climbing the Ladder | 16.00% | ~575 |
-| Just a Flesh Wound | 16.00% | ~575 |
 | Der Geist | 16.00% | ~575 |
 | Close Quarters | 15.00% | ~539 |
 | Brains of the Operation | 15.00% | ~539 |

@@ -8,9 +8,9 @@
 | Break no Sweat | 100.00% | ~99 |
 | Every little bit counts | 98.00% | ~97 |
 | Growth | 86.00% | ~85 |
-| Targeting the Enemy | 68.00% | ~67 |
+| Targeting the Enemy | 69.00% | ~68 |
 | Unavoidable | 65.00% | ~64 |
-| Revenge | 62.00% | ~61 |
+| Revenge | 63.00% | ~62 |
 | Reunion | 41.00% | ~41 |
 | Fluke | 34.00% | ~34 |
 | Elimination | 33.00% | ~33 |

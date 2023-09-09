@@ -6,7 +6,7 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~984 |
+| Another Life | 85.00% | ~996 |
 | Voices from the Past | 78.00% | ~914 |
 | Space Traveler | 78.00% | ~914 |
 | Demigod | 75.00% | ~879 |
@@ -14,7 +14,7 @@ Number of Ratings: 58  (23.09.2022)
 | Shields Down | 71.00% | ~832 |
 | Helping Hand | 67.00% | ~785 |
 | Safe Home | 66.00% | ~774 |
-| Paragon | 62.00% | ~727 |
+| Paragon | 63.00% | ~738 |
 | Old Days Born Anew | 61.00% | ~715 |
 | Full Arsenal | 56.00% | ~656 |
 | Controlled Demolition | 55.00% | ~645 |

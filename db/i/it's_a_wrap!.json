@@ -3,8 +3,8 @@
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
   "Ranking_EOS_Progress": 373,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.52,
+  "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
     {
       "Time": "2023-08-23T19:06:50.974201+00:00",
@@ -281,6 +281,11 @@
       "Time": "2023-09-09T10:06:05.9376245+00:00",
       "NumProgressed": 66,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T11:09:17.4100087+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -293,7 +298,7 @@
       "Name": "Under the Bridge",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "1_50_SECRET",
@@ -307,7 +312,7 @@
       "ID": "1_70_SECRET",
       "SetID": "2l1dk5b",
       "Name": "O\u0027 Captain! My Captain!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -315,7 +320,7 @@
       "ID": "1_85_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Secret of the Mines",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -323,7 +328,7 @@
       "ID": "1_90_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Extra Life",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -331,7 +336,7 @@
       "ID": "3_00_CRATE_KILLER",
       "SetID": "2l1dk5b",
       "Name": "Unboxing Video",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -363,7 +368,7 @@
       "ID": "ALL_FINISH",
       "SetID": "2l1dk5b",
       "Name": "In the Can",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -371,7 +376,7 @@
       "ID": "ALL_SECRETS",
       "SetID": "2l1dk5b",
       "Name": "Mise-en-sc\u00E8nester",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -379,7 +384,7 @@
       "ID": "MOV1_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Treasure Hunter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -387,7 +392,7 @@
       "ID": "MOV2_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Space Invader",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -404,14 +409,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-09T10:06:05.937624+00:00",
-  "LastUpdate_AppInfo": "2023-09-02T10:57:02.219567+00:00",
-  "LastUpdate_Ratings": "2023-09-09T10:01:31.4472965+00:00",
-  "LastUpdate_Achievements": "2023-09-09T10:06:05.9376361+00:00"
+  "LastChanged_Achievements": "2023-09-09T11:09:17.4100082+00:00",
+  "LastUpdate_AppInfo": "2023-09-09T10:59:50.0677314+00:00",
+  "LastUpdate_Ratings": "2023-09-09T11:05:04.5138445+00:00",
+  "LastUpdate_Achievements": "2023-09-09T11:09:17.4100254+00:00"
 }

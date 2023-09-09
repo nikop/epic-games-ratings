@@ -14,18 +14,18 @@
 | It Feels Better Than It Sounds | 70.00% | ~16 |
 | Stand By Nature | 65.00% | ~15 |
 | Skilled Hands | 61.00% | ~14 |
+| Master Smithy | 61.00% | ~14 |
 | The Milk Canal | 61.00% | ~14 |
 | Fledgling Smithy | 61.00% | ~14 |
 | Close Encounter | 57.00% | ~13 |
 | The Depths Of Darkness | 57.00% | ~13 |
-| Master Smithy | 57.00% | ~13 |
+| One With The Blades | 57.00% | ~13 |
+| Shoo! Shoo! | 57.00% | ~13 |
 | At One With Nature | 57.00% | ~13 |
 | Prison Break | 52.00% | ~12 |
-| One With The Blades | 52.00% | ~12 |
 | Heart of Oblivion | 52.00% | ~12 |
 | Anahita's Greatest Mistake | 52.00% | ~12 |
 | Heart's Desire | 52.00% | ~12 |
-| Shoo! Shoo! | 52.00% | ~12 |
 | I Pick You | 48.00% | ~11 |
 | Accomplished Smithy | 48.00% | ~11 |
 | Nature's Savior | 48.00% | ~11 |

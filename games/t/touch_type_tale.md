@@ -28,10 +28,10 @@
 | A Secret Recipe | 6.00% | ~189 |
 | Not a Drop Wasted | 5.00% | ~157 |
 | We Have the Technology | 5.00% | ~157 |
+| Figure of Breach | 5.00% | ~157 |
 | Work It | 4.00% | ~126 |
 | Reinforcements | 4.00% | ~126 |
 | Sweet Revenge | 4.00% | ~126 |
-| Figure of Breach | 4.00% | ~126 |
 | A Brief Moment of Respite | 4.00% | ~126 |
 | Almost Like Winning | 3.00% | ~94 |
 | The Handyman Can! | 3.00% | ~94 |
