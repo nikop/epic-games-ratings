@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23527,
+  "EOS_Progressed": 23531,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16530,6 +16530,11 @@
       "Time": "2023-09-09T19:08:27.2092869+00:00",
       "NumProgressed": 23527,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-09T20:08:33.2320481+00:00",
+      "NumProgressed": 23531,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -16581,7 +16586,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "1021",
@@ -16637,7 +16642,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "1028",
@@ -16645,7 +16650,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4235
+      "UsersEstimate": 4236
     },
     {
       "ID": "1029",
@@ -16661,7 +16666,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4706
     },
     {
       "ID": "1031",
@@ -16677,7 +16682,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9411
+      "UsersEstimate": 9412
     },
     {
       "ID": "1033",
@@ -16716,15 +16721,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23527,
+      "Progressed": 23531,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-09T19:08:27.2092863+00:00",
+  "LastChanged_Achievements": "2023-09-09T20:08:33.2320477+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.8845824+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:58:06.2076654+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:08:27.2093733+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:58:06.8676784+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:08:33.2321286+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Metro Exodus Standard Edition",
   "ProductSlug": "metro-exodus",
   "Ranking_Rating": 88,
-  "Ranking_Popularity": 56,
+  "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2019-02-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4337,8 +4337,8 @@
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
   "LastChanged": "2023-09-09T17:00:29.7248012+00:00",
-  "LastChanged_Achievements": "2023-09-09T19:07:19.72341+00:00",
+  "LastChanged_Achievements": "2023-09-09T20:07:24.7863078+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:35.0228474+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:01:24.5639711+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:07:19.723413+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:01:22.9139228+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:07:24.7863106+00:00"
 }

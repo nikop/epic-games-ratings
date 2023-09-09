@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 2.00% | ~13,532 |
+| Welcome To Hell-A | 2.00% | ~13,533 |
 | Dr. Reed, I Presume? | 1.00% | ~6,766 |
 | Git Gutte! | 1.00% | ~6,766 |
 | Bookworm | 1.00% | ~6,766 |
@@ -23,7 +23,7 @@ Rating: 4.54 (Ranked 505)
 | Stacking the Deck | 1.00% | ~6,766 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,766 |
 | This is My Weapon | 1.00% | ~6,766 |
-| Slayer Squad | 0.90% | ~6,089 |
+| Slayer Squad | 0.90% | ~6,090 |
 | Anger Management | 0.80% | ~5,413 |
 | Perks of the Job | 0.80% | ~5,413 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,413 |
@@ -34,10 +34,10 @@ Rating: 4.54 (Ranked 505)
 | Making Your Mark | 0.60% | ~4,060 |
 | Down with the Sickness | 0.60% | ~4,060 |
 | Max Headroom | 0.60% | ~4,060 |
-| Smorgasbord | 0.40% | ~2,706 |
-| Jumbo Keyring | 0.40% | ~2,706 |
-| Go, Bobcats! | 0.40% | ~2,706 |
-| Rising Star | 0.40% | ~2,706 |
+| Smorgasbord | 0.40% | ~2,707 |
+| Jumbo Keyring | 0.40% | ~2,707 |
+| Go, Bobcats! | 0.40% | ~2,707 |
+| Rising Star | 0.40% | ~2,707 |
 | Make it So | 0.30% | ~2,030 |
 | On Safari | 0.30% | ~2,030 |
 | Not Even My Final Form | 0.30% | ~2,030 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~677 |
 | Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,586 (Ranked 22)  
+Progressed: 676,635 (Ranked 22)  
 Completed: 2,127 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,16 +193,16 @@ Completed: 2,127 (0.31%) (Ranked 177)
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
-| 2023-09-09 | 676,586 | 2,127 |
+| 2023-09-09 | 676,635 | 2,127 |
 ## Awards
 Max (Great Boss Battles): 5,969  (Ranked 58)  
-Sum: 8,820 (Ranked 94)  
+Sum: 8,823 (Ranked 94)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,969 |
 | This game is Great for Beginners | 403 |
-| This game has Diverse Characters | 394 |
+| This game has Diverse Characters | 397 |
 | This game has Quickly Understood Controls | 385 |
 | This game is Relaxing | 371 |
 | This game has Amazing Storytelling | 344 |
@@ -353,4 +353,4 @@ Diff (max vs sum): -36
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
 | 2023-09-08 | 4.54 | 5,969 | 8,812 |
-| 2023-09-09 | 4.54 | 5,969 | 8,820 |
+| 2023-09-09 | 4.54 | 5,969 | 8,823 |

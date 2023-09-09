@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 85.00% | ~51 |
-| Tinkerer | 63.00% | ~38 |
+| Self-Defence | 87.00% | ~52 |
+| Tinkerer | 65.00% | ~39 |
 | Welcome to the Club | 35.00% | ~21 |
 | Apprentice | 30.00% | ~18 |
 | A new World ahead | 25.00% | ~15 |
@@ -34,17 +34,17 @@
 | But what of the Acreans? | 5.00% | ~3 |
 | Unveiling the Truth | 5.00% | ~3 |
 | Sponsor | 3.00% | ~2 |
+| Wizard | 3.00% | ~2 |
 | Wayseeker | 3.00% | ~2 |
 | Pathfinder | 3.00% | ~2 |
+| Globetrotter | 3.00% | ~2 |
 | A Deceiving Gift | 3.00% | ~2 |
 | Style over Stats | 2.00% | ~1 |
 | Mountain Lover | 2.00% | ~1 |
 | Wasteland Connoisseur | 2.00% | ~1 |
 | Forest Expert | 2.00% | ~1 |
 | Knowledge is King | 2.00% | ~1 |
-| Wizard | 2.00% | ~1 |
 | Bookworm | 2.00% | ~1 |
-| Globetrotter | 2.00% | ~1 |
 | Collector | 0.00% | ~0 |
 | Explorer by Heart | 0.00% | ~0 |
 | Fashionista | 0.00% | ~0 |

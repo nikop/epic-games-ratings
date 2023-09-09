@@ -3,11 +3,11 @@
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 580,
-  "Ranking_Popularity": 254,
+  "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2034,9 +2034,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25712,
+  "EOS_Progressed": 25713,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12459,6 +12459,11 @@
       "Time": "2023-09-09T19:07:46.4912233+00:00",
       "NumProgressed": 25712,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-09T20:07:51.876468+00:00",
+      "NumProgressed": 25713,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 51,
@@ -12486,7 +12491,7 @@
       "Name": "Back Off",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8999
+      "UsersEstimate": 9000
     },
     {
       "ID": "Best_Insurance",
@@ -12518,7 +12523,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 13113
+      "UsersEstimate": 13114
     },
     {
       "ID": "Collector",
@@ -12558,7 +12563,7 @@
       "Name": "Discovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 15427
+      "UsersEstimate": 15428
     },
     {
       "ID": "Dont_Need_These",
@@ -12606,7 +12611,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13627
+      "UsersEstimate": 13628
     },
     {
       "ID": "GB_In_Training",
@@ -12742,7 +12747,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6942
+      "UsersEstimate": 6943
     },
     {
       "ID": "Skilled",
@@ -12774,7 +12779,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22112
+      "UsersEstimate": 22113
     },
     {
       "ID": "Summoner",
@@ -12782,7 +12787,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6942
+      "UsersEstimate": 6943
     },
     {
       "ID": "Surprise",
@@ -12798,7 +12803,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 13627
+      "UsersEstimate": 13628
     },
     {
       "ID": "Teamwork",
@@ -12806,7 +12811,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 11056
+      "UsersEstimate": 11057
     },
     {
       "ID": "Terrifying",
@@ -12877,7 +12882,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25712,
+      "Progressed": 25713,
       "Completed": 55
     }
   ],
@@ -12885,8 +12890,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-09T11:04:23.182326+00:00",
-  "LastChanged_Achievements": "2023-09-09T19:07:46.4912228+00:00",
+  "LastChanged_Achievements": "2023-09-09T20:07:51.8764672+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:01:02.4905438+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:07:46.4913282+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:01:00.8065246+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:07:51.8765506+00:00"
 }

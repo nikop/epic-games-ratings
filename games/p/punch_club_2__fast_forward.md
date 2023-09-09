@@ -12,8 +12,8 @@
 | Old movies enjoyer | 80.00% | ~257 |
 | Fitness professional | 79.00% | ~254 |
 | Depressed visitor | 79.00% | ~254 |
+| Employee of the week | 78.00% | ~250 |
 | Neurotrainer – power gainer! | 77.00% | ~247 |
-| Employee of the week | 77.00% | ~247 |
 | Your own amateur gym | 75.00% | ~241 |
 | First defeat | 73.00% | ~234 |
 | Run K, run! | 73.00% | ~234 |
@@ -42,9 +42,9 @@
 | Guiding on the right path | 47.00% | ~151 |
 | No blades in the gym | 46.00% | ~148 |
 | Champion – no way back | 44.00% | ~141 |
+| Underground dwellers | 42.00% | ~135 |
 | Responsible approach | 42.00% | ~135 |
 | Deal with life | 41.00% | ~132 |
-| Underground dwellers | 41.00% | ~132 |
 | Mom got better | 40.00% | ~128 |
 | GYM professional | 40.00% | ~128 |
 | Poisoned fighter | 40.00% | ~128 |
@@ -52,9 +52,9 @@
 | The die is cast | 40.00% | ~128 |
 | Seashell hunter | 38.00% | ~122 |
 | Gang wrangler | 37.00% | ~119 |
+| Undercover robot | 36.00% | ~116 |
 | Your own way | 36.00% | ~116 |
 | Problems of cyborgs | 35.00% | ~112 |
-| Undercover robot | 35.00% | ~112 |
 | Not little hacker | 34.00% | ~109 |
 | Absolute Champion! | 34.00% | ~109 |
 | Anyone can resist | 34.00% | ~109 |

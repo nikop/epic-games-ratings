@@ -22,18 +22,18 @@
 | You're not going to blow me up! | 55.00% | ~52 |
 | Butcher | 53.00% | ~50 |
 | Mushroom soup of the day | 53.00% | ~50 |
-| Spare Ribs | 52.00% | ~49 |
+| Spare Ribs | 53.00% | ~50 |
 | Honk honk! | 51.00% | ~48 |
 | Cockadoodledoo! | 51.00% | ~48 |
 | Thats disgusting! | 48.00% | ~45 |
 | My pants squeak when I walk | 47.00% | ~44 |
 | Surprise!! | 44.00% | ~41 |
+| Haemochromatosis | 44.00% | ~41 |
 | Self assessed tax return | 43.00% | ~40 |
-| Haemochromatosis | 43.00% | ~40 |
 | Make America Grate Again | 37.00% | ~35 |
+| Pasta Bolognese | 37.00% | ~35 |
+| You are no match for me, Billy! | 36.00% | ~34 |
 | You can't stop me, bro! | 36.00% | ~34 |
-| Pasta Bolognese | 36.00% | ~34 |
-| You are no match for me, Billy! | 35.00% | ~33 |
 | Catch the bus with me! | 35.00% | ~33 |
 | Karaoke king | 34.00% | ~32 |
 | I'm going to get a concussion | 33.00% | ~31 |
@@ -43,12 +43,12 @@
 | Kleptomaniac | 27.00% | ~25 |
 | Ripe Meat Off The Bone! | 26.00% | ~24 |
 | Hovering around | 26.00% | ~24 |
+| I cant stand still! | 24.00% | ~23 |
 | You're not so Big anymore, Boi! | 23.00% | ~22 |
 | Your daily dose of Vitamin C. | 23.00% | ~22 |
-| I cant stand still! | 23.00% | ~22 |
 | Master Butcher | 19.00% | ~18 |
 | Slimy... yet satisfying | 19.00% | ~18 |
-| Deal with it | 17.00% | ~16 |
+| Deal with it | 18.00% | ~17 |
 | Just wing it! | 16.00% | ~15 |
 | Yeehaw!!! | 15.00% | ~14 |
 | You're looking mozzare-hella good! | 14.00% | ~13 |

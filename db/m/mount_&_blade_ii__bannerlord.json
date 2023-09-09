@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6937,10 +6937,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14353,
       "NumberOfAwardsMax": 7059
+    },
+    {
+      "Time": "2023-09-09T19:57:10.6751465+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14357,
+      "NumberOfAwardsMax": 7059
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14353,
+  "NumberOfAwards": 14357,
   "NumberOfAwardsMax": 7059,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6972,7 +6978,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 944
+      "Count": 948
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7017,9 +7023,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60678,
+  "EOS_Progressed": 60680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22072,6 +22078,11 @@
       "Time": "2023-09-09T19:04:59.2364744+00:00",
       "NumProgressed": 60678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T20:05:06.321917+00:00",
+      "NumProgressed": 60680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22083,7 +22094,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7281
+      "UsersEstimate": 7282
     },
     {
       "ID": "Apple of my eye",
@@ -22275,7 +22286,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10315
+      "UsersEstimate": 10316
     },
     {
       "ID": "Kingslayer",
@@ -22291,7 +22302,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4247
+      "UsersEstimate": 4248
     },
     {
       "ID": "Lance-a-lot",
@@ -22307,7 +22318,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19417
+      "UsersEstimate": 19418
     },
     {
       "ID": "Lawbringer",
@@ -22339,7 +22350,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4247
+      "UsersEstimate": 4248
     },
     {
       "ID": "Minor Clan",
@@ -22459,7 +22470,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13349
+      "UsersEstimate": 13350
     },
     {
       "ID": "Undercover",
@@ -22490,15 +22501,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60678,
+      "Progressed": 60680,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-09T17:57:22.1531457+00:00",
-  "LastChanged_Achievements": "2023-09-09T19:04:59.2364739+00:00",
+  "LastChanged": "2023-09-09T19:57:10.6751464+00:00",
+  "LastChanged_Achievements": "2023-09-09T20:05:06.3219165+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:57:07.9541889+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:04:59.2365806+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:57:10.6751469+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:05:06.3220193+00:00"
 }

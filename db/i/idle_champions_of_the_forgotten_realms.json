@@ -6440,10 +6440,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31487,
       "NumberOfAwardsMax": 5246
+    },
+    {
+      "Time": "2023-09-09T19:59:55.1336708+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31491,
+      "NumberOfAwardsMax": 5246
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31487,
+  "NumberOfAwards": 31491,
   "NumberOfAwardsMax": 5246,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6481,7 +6487,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4108
+      "Count": 4112
     },
     {
       "Text": "This game has Playful Visuals",
@@ -6490,10 +6496,10 @@
       "Count": 3407
     }
   ],
-  "EOS_Progressed": 228144,
+  "EOS_Progressed": 228154,
   "EOS_Completed": 2265,
-  "EOS_NewPlayers": 1457,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 1459,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -22200,6 +22206,11 @@
       "Time": "2023-09-09T19:02:23.3227968+00:00",
       "NumProgressed": 228144,
       "NumCompleted": 2265
+    },
+    {
+      "Time": "2023-09-09T20:02:33.1745236+00:00",
+      "NumProgressed": 228154,
+      "NumCompleted": 2265
     }
   ],
   "TotalAchievements": 520,
@@ -22211,7 +22222,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "objective_completed_10",
@@ -26370,21 +26381,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194418,
+      "Progressed": 194428,
       "Completed": 3416
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228144,
+      "Progressed": 228154,
       "Completed": 2265
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-09T18:00:26.7577208+00:00",
-  "LastChanged_Achievements": "2023-09-09T19:02:23.3227962+00:00",
+  "LastChanged": "2023-09-09T19:59:55.1336707+00:00",
+  "LastChanged_Achievements": "2023-09-09T20:02:33.1745229+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:59:56.6506961+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:02:23.3253737+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:59:55.1336713+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:02:33.1769532+00:00"
 }

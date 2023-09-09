@@ -2,10 +2,10 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_EOS_Progress": 123,
+  "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 11,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 10,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12817,
+  "EOS_Progressed": 13321,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12811,
+  "EOS_NewPlayers": 13314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -309,6 +309,11 @@
       "Time": "2023-09-09T19:02:27.7046501+00:00",
       "NumProgressed": 12817,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T20:03:06.8168916+00:00",
+      "NumProgressed": 13321,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -321,7 +326,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 400
     },
     {
       "ID": "10",
@@ -343,9 +348,9 @@
       "ID": "12",
       "SetID": "2cfdi92",
       "Name": "Reaping Rivals",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "13",
@@ -385,15 +390,15 @@
       "Name": "As Far Away As Possible",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "3",
       "SetID": "2cfdi92",
       "Name": "A Most Unstable Organism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 67
     },
     {
       "ID": "4",
@@ -401,7 +406,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "5",
@@ -448,14 +453,14 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 12817,
+      "Progressed": 13321,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged_Achievements": "2023-09-09T19:02:27.7046495+00:00",
+  "LastChanged_Achievements": "2023-09-09T20:03:06.8168911+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:18.7471127+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:59:36.649185+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:02:27.7046659+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:59:35.6229256+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:03:06.8169062+00:00"
 }

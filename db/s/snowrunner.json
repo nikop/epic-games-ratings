@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10018,10 +10018,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 71540,
       "NumberOfAwardsMax": 10406
+    },
+    {
+      "Time": "2023-09-09T19:57:36.0295001+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 71604,
+      "NumberOfAwardsMax": 10406
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 71540,
+  "NumberOfAwards": 71604,
   "NumberOfAwardsMax": 10406,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10029,7 +10035,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 9123
+      "Count": 9145
     },
     {
       "Text": "This game is Relaxing",
@@ -10053,7 +10059,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9077
+      "Count": 9101
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10065,7 +10071,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 7822
+      "Count": 7840
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10097,8 +10103,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-09-09T14:57:20.4322596+00:00",
+  "LastChanged": "2023-09-09T19:57:36.0294998+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:08.831678+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:57:34.0077785+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:04:30.6598012+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:57:36.0295006+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:04:38.1560815+00:00"
 }

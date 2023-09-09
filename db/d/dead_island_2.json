@@ -4294,10 +4294,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8820,
       "NumberOfAwardsMax": 5969
+    },
+    {
+      "Time": "2023-09-09T20:00:29.8342479+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8823,
+      "NumberOfAwardsMax": 5969
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8820,
+  "NumberOfAwards": 8823,
   "NumberOfAwardsMax": 5969,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4311,7 +4317,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 394
+      "Count": 397
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4356,9 +4362,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 676586,
+  "EOS_Progressed": 676635,
   "EOS_Completed": 2127,
-  "EOS_NewPlayers": 4753,
+  "EOS_NewPlayers": 4745,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20271,6 +20277,11 @@
       "Time": "2023-09-09T19:07:39.2090095+00:00",
       "NumProgressed": 676586,
       "NumCompleted": 2127
+    },
+    {
+      "Time": "2023-09-09T20:07:44.6422865+00:00",
+      "NumProgressed": 676635,
+      "NumCompleted": 2127
     }
   ],
   "TotalAchievements": 45,
@@ -20378,7 +20389,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "ach_explorer",
@@ -20386,7 +20397,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -20474,7 +20485,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "ach_knock_down",
@@ -20586,7 +20597,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "ach_thesacrifice",
@@ -20618,7 +20629,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13532
+      "UsersEstimate": 13533
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20626,7 +20637,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "ach_well_trained",
@@ -20641,22 +20652,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676586,
+      "Progressed": 676635,
       "Completed": 2127
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 2126,
-      "Completed": 2126
+      "Progressed": 2175,
+      "Completed": 2175
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-09T19:00:31.3261136+00:00",
-  "LastChanged_Achievements": "2023-09-09T19:07:39.209009+00:00",
+  "LastChanged": "2023-09-09T20:00:29.8342478+00:00",
+  "LastChanged_Achievements": "2023-09-09T20:07:44.642286+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:00:31.3261141+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:07:39.2091187+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:00:29.8342483+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:07:44.6423947+00:00"
 }

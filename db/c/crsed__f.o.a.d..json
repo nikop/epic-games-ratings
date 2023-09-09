@@ -3,12 +3,12 @@
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d",
   "Ranking_Rating": 755,
-  "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 292,
+  "Ranking_Popularity": 340,
+  "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -1153,11 +1153,17 @@
       "Rating": 4.35,
       "NumberOfAwards": 639,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-09-09T19:57:42.4288983+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 640,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 639,
-  "NumberOfAwardsMax": 97,
+  "NumberOfAwards": 640,
+  "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1176,7 +1182,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game has Competitive Players",
@@ -1250,8 +1256,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2023-09-09T17:57:57.7938387+00:00",
+  "LastChanged": "2023-09-09T19:57:42.4288982+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.9258365+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:57:40.5908512+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:06:56.899021+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:57:42.4288986+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:07:02.1333259+00:00"
 }

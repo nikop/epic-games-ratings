@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -360,9 +360,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -400,9 +400,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 85,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -504,9 +504,9 @@
       "ID": "ACH_FIND_ALL_RUNES",
       "SetID": "7i20me3",
       "Name": "Wizard",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIND_ALL_STORY_MURALS",
@@ -552,9 +552,9 @@
       "ID": "ACH_FIND_ALL_TELEPORTERS",
       "SetID": "7i20me3",
       "Name": "Globetrotter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIND_FLUX_BATTERY",
@@ -703,8 +703,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-09T19:06:46.8119739+00:00",
+  "LastChanged_Achievements": "2023-09-09T20:06:52.6630432+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.5901526+00:00",
-  "LastUpdate_Ratings": "2023-09-09T18:59:51.5318626+00:00",
-  "LastUpdate_Achievements": "2023-09-09T19:06:46.8120093+00:00"
+  "LastUpdate_Ratings": "2023-09-09T19:59:49.9506636+00:00",
+  "LastUpdate_Achievements": "2023-09-09T20:06:52.6630762+00:00"
 }

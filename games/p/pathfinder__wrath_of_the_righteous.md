@@ -6,8 +6,8 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 24.00% | ~2,691 |
-| A Spark | 17.00% | ~1,906 |
+| Devoured by Darkness | 24.00% | ~2,692 |
+| A Spark | 17.00% | ~1,907 |
 | Burning City | 16.00% | ~1,794 |
 | Mythic Choices | 14.00% | ~1,570 |
 | Defender's Heart | 14.00% | ~1,570 |
@@ -53,8 +53,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | End of Eternal Guard | 0.90% | ~101 |
 | Truly Profane Gift | 0.90% | ~101 |
 | Path of the Dragon | 0.80% | ~90 |
-| Playful Mood | 0.70% | ~78 |
-| Dreadful Dragon | 0.70% | ~78 |
+| Playful Mood | 0.70% | ~79 |
+| Dreadful Dragon | 0.70% | ~79 |
 | Masterful Charge | 0.60% | ~67 |
 | Prelate's Nemesis | 0.50% | ~56 |
 | Ashes to Ashes | 0.40% | ~45 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,214 (Ranked 125)  
+Progressed: 11,215 (Ranked 125)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 11,191 | 0 |
 | 2023-09-07 | 11,199 | 0 |
 | 2023-09-08 | 11,209 | 0 |
-| 2023-09-09 | 11,214 | 0 |
+| 2023-09-09 | 11,215 | 0 |
 ## Awards
 Max (Character Customization): 1,708  (Ranked 118)  
 Sum: 6,929 (Ranked 113)  
