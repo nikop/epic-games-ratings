@@ -3,8 +3,8 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.49,
+  "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -466,6 +466,11 @@
       "Time": "2023-09-09T16:04:40.9938514+00:00",
       "NumProgressed": 241,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-09T17:04:50.2627489+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -619,9 +624,9 @@
       "ID": "NODEATH_MISSION_CLEAR",
       "SetID": "2lk004m",
       "Name": "A New Broom Sweeps Clean",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -668,13 +673,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 6
     }
   ],
@@ -682,8 +687,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:04:40.993851+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:04:50.2627484+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:41.8761266+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:00:18.5219657+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:04:40.9938687+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:00:35.457343+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:04:50.2627649+00:00"
 }

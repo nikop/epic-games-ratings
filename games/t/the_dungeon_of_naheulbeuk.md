@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,552 |
-| Where's that freaking Dwarf? | 4.00% | ~8,904 |
-| Alt+F4 | 4.00% | ~8,904 |
+| Sowwy! | 29.00% | ~64,559 |
+| Where's that freaking Dwarf? | 4.00% | ~8,905 |
+| Alt+F4 | 4.00% | ~8,905 |
 | Déjà vu | 3.00% | ~6,678 |
 | Sock! SOCK! | 3.00% | ~6,678 |
 | Way of the Wimp | 2.00% | ~4,452 |
@@ -32,9 +32,9 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,226 |
 | Team Building Exercise | 1.00% | ~2,226 |
 | Oh, when I'll be level 10... | 1.00% | ~2,226 |
-| %#*!$*! | 0.90% | ~2,003 |
-| The beards of change | 0.90% | ~2,003 |
-| Thieves' Guild Accreditation | 0.90% | ~2,003 |
+| %#*!$*! | 0.90% | ~2,004 |
+| The beards of change | 0.90% | ~2,004 |
+| Thieves' Guild Accreditation | 0.90% | ~2,004 |
 | Res Judicata | 0.80% | ~1,781 |
 | The Famous Dungeon of Naheulbeuk | 0.80% | ~1,781 |
 | Dwarf Fortress | 0.80% | ~1,781 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,593 (Ranked 56)  
+Progressed: 222,616 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
-| 2023-09-09 | 222,593 | 2 |
+| 2023-09-09 | 222,616 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

@@ -7,9 +7,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,281 |
-| Beast Intentions | 0.50% | ~1,141 |
+| Beast Intentions | 0.60% | ~1,369 |
 | The Cursed Farmer | 0.50% | ~1,141 |
-| The Mad Wizard | 0.40% | ~912 |
+| The Mad Wizard | 0.40% | ~913 |
+| Were-verpowered | 0.30% | ~684 |
 | The Ring of Regeneration | 0.30% | ~684 |
 | Seeking Allies | 0.30% | ~684 |
 | Are Ya Chicken? | 0.30% | ~684 |
@@ -17,13 +18,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~389 |
 | The Silken Swamp | 0.20% | ~456 |
 | Supply Run | 0.20% | ~456 |
-| Were-verpowered | 0.20% | ~456 |
 | A Persistent Buzzing | 0.20% | ~456 |
 | Beast Mode | 0.20% | ~456 |
 | Terror in the Dark | 0.20% | ~456 |
+| Low Initiative | 0.20% | ~456 |
 | A Mysterious Summons | 0.20% | ~456 |
 | Building Trust | 0.20% | ~456 |
 | Unearthed Evil | 0.20% | ~456 |
+| No Time To Rest | 0.20% | ~456 |
 | The Dinner Party | 0.20% | ~456 |
 | The Botched Kidnapping | 0.20% | ~456 |
 | The Crumbling Temple | 0.20% | ~456 |
@@ -176,7 +178,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~228 |
 | Double Vision | 0.10% | ~228 |
 | Underground Railroad | 0.10% | ~228 |
-| Low Initiative | 0.10% | ~228 |
 | Street War | 0.10% | ~228 |
 | Force Grey Unleashed | 0.10% | ~228 |
 | Vajra's Guards | 0.10% | ~228 |
@@ -192,7 +193,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~228 |
 | Azaka's Procession - Part 2 | 0.10% | ~228 |
 | Acererak's Puzzle | 0.10% | ~194 |
-| No Time To Rest | 0.10% | ~228 |
 | The Mists of Ravenloft | 0.10% | ~228 |
 | The Hunt for Owl-y | 0.10% | ~228 |
 | Invisible Shadows | 0.10% | ~228 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,116 (Ranked 54)  
-Completed: 2,264 (0.99%) (Ranked 124)  
+Progressed: 228,131 (Ranked 54)  
+Completed: 2,265 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -669,7 +669,7 @@ Completed: 2,264 (0.99%) (Ranked 124)
 | 2023-09-06 | 227,606 | 2,257 |
 | 2023-09-07 | 227,831 | 2,259 |
 | 2023-09-08 | 227,989 | 2,263 |
-| 2023-09-09 | 228,116 | 2,264 |
+| 2023-09-09 | 228,131 | 2,265 |
 ## Awards
 Max (Diverse Characters): 5,246  (Ranked 67)  
 Sum: 31,484 (Ranked 38)  

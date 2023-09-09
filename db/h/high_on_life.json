@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24032,
+  "EOS_Progressed": 24033,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4752,6 +4752,11 @@
       "Time": "2023-09-09T14:04:35.4074769+00:00",
       "NumProgressed": 24032,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-09T17:04:01.3357198+00:00",
+      "NumProgressed": 24033,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4827,7 +4832,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18264
+      "UsersEstimate": 18265
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4835,7 +4840,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4806
+      "UsersEstimate": 4807
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -4883,7 +4888,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13698
+      "UsersEstimate": 13699
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4939,7 +4944,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4806
+      "UsersEstimate": 4807
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -4947,7 +4952,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17543
+      "UsersEstimate": 17544
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -5018,22 +5023,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24032,
+      "Progressed": 24033,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1325,
-      "Completed": 1325
+      "Progressed": 1326,
+      "Completed": 1326
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-02T06:57:56.883903+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:03:53.7759841+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:04:01.335719+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:11.7104478+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:59:09.4152586+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:03:53.7760289+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:59:25.3895281+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:04:01.3357613+00:00"
 }

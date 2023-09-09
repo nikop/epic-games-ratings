@@ -31,12 +31,12 @@
 | Finally! | 5.00% | ~3 |
 | The End | 5.00% | ~3 |
 | But what of the Acreans? | 5.00% | ~3 |
+| Unveiling the Truth | 5.00% | ~3 |
 | Sponsor | 3.00% | ~2 |
 | Ancient Powers | 3.00% | ~2 |
 | Wayseeker | 3.00% | ~2 |
 | Pathfinder | 3.00% | ~2 |
 | A Deceiving Gift | 3.00% | ~2 |
-| Unveiling the Truth | 3.00% | ~2 |
 | Mountain Lover | 2.00% | ~1 |
 | Wasteland Connoisseur | 2.00% | ~1 |
 | Forest Expert | 2.00% | ~1 |

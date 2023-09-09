@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.47 (Ranked 612)  
+Rating: 4.47 (Ranked 613)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,15 +13,15 @@ Rating: 4.47 (Ranked 612)
 | Lord of War | 29.00% | ~1,043 |
 | Taking it back | 28.00% | ~1,007 |
 | Resourceful | 26.00% | ~935 |
-| Target America | 25.00% | ~899 |
-| The Kraken Sleeps | 23.00% | ~827 |
-| Liberté | 22.00% | ~791 |
-| Organ Grinder | 22.00% | ~791 |
-| As Quiet as a Mouse | 22.00% | ~791 |
-| Sharpshooter | 21.00% | ~755 |
-| Explosive Efficiency | 18.00% | ~647 |
-| Just a Flesh Wound | 17.00% | ~611 |
-| Gunslinger | 17.00% | ~611 |
+| Target America | 25.00% | ~900 |
+| The Kraken Sleeps | 23.00% | ~828 |
+| Liberté | 22.00% | ~792 |
+| Organ Grinder | 22.00% | ~792 |
+| As Quiet as a Mouse | 22.00% | ~792 |
+| Sharpshooter | 21.00% | ~756 |
+| Explosive Efficiency | 18.00% | ~648 |
+| Just a Flesh Wound | 17.00% | ~612 |
+| Gunslinger | 17.00% | ~612 |
 | Climbing the Ladder | 16.00% | ~576 |
 | Der Geist | 16.00% | ~576 |
 | Close Quarters | 15.00% | ~540 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 612)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,597 (Ranked 156)  
+Progressed: 3,598 (Ranked 156)  
 Completed: 10 (0.28%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 10 (0.28%) (Ranked 182)
 | 2023-09-05 | 3,589 | 10 |
 | 2023-09-07 | 3,592 | 10 |
 | 2023-09-08 | 3,594 | 10 |
-| 2023-09-09 | 3,597 | 10 |
+| 2023-09-09 | 3,598 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1275,
+  "EOS_Progressed": 1276,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4546,6 +4546,11 @@
       "Time": "2023-09-09T16:08:05.7768384+00:00",
       "NumProgressed": 1275,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T17:07:13.6485652+00:00",
+      "NumProgressed": 1276,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4565,7 +4570,7 @@
       "Name": "Exterminator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4860,14 +4865,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1275,
+      "Progressed": 1276,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:08:05.7768379+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:07:13.6485648+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:57:53.1068785+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:08:05.7768815+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:58:07.5160698+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:07:13.6486098+00:00"
 }

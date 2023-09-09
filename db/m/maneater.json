@@ -3,7 +3,7 @@
   "Name": "Maneater",
   "ProductSlug": "maneater",
   "Ranking_Rating": 579,
-  "Ranking_Popularity": 26,
+  "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
@@ -2901,18 +2901,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 17855,
       "NumberOfAwardsMax": 13661
+    },
+    {
+      "Time": "2023-09-09T16:57:19.3211291+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 17862,
+      "NumberOfAwardsMax": 13668
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17855,
-  "NumberOfAwardsMax": 13661,
+  "NumberOfAwards": 17862,
+  "NumberOfAwardsMax": 13668,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 13661
+      "Count": 13668
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3004,8 +3010,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2023-09-09T11:57:32.8962383+00:00",
+  "LastChanged": "2023-09-09T16:57:19.3211289+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.0189791+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:57:04.9242949+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:05:20.0634498+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:57:19.3211294+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:05:28.9853427+00:00"
 }

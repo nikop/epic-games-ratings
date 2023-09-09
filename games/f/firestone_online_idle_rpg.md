@@ -45,8 +45,8 @@ Rating: 4.00 (Ranked 940)
 | Trader | 9.00% | ~173 |
 | Crystal Mining | 8.00% | ~153 |
 | Dragon Slayer | 8.00% | ~153 |
+| Enchanting skill | 8.00% | ~153 |
 | Blueprint Upgrades | 7.00% | ~134 |
-| Enchanting skill | 7.00% | ~134 |
 | Engineer Mastery | 7.00% | ~134 |
 | The Expeditioner | 7.00% | ~134 |
 | Weekly Quest Completionist | 7.00% | ~134 |
@@ -71,9 +71,9 @@ Rating: 4.00 (Ranked 940)
 | Transmute | 1.00% | ~19 |
 | Tree of Life | 1.00% | ~19 |
 | Enhanced War Machines | 0.80% | ~15 |
+| Beast War Machines | 0.70% | ~13 |
 | Enchanting skill x5 | 0.70% | ~13 |
 | Angel Power | 0.60% | ~12 |
-| Beast War Machines | 0.60% | ~12 |
 | Pokerface | 0.60% | ~12 |
 | Conqueror | 0.50% | ~10 |
 | Ultimate War Machines | 0.50% | ~10 |

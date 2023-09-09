@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10316,
+  "EOS_Progressed": 10318,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4834,6 +4834,11 @@
       "Time": "2023-09-09T16:05:57.7511434+00:00",
       "NumProgressed": 10316,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T17:06:05.3636085+00:00",
+      "NumProgressed": 10318,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4894,7 +4899,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "16",
@@ -4910,7 +4915,7 @@
       "Name": "Spore Taste",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "18",
@@ -5038,7 +5043,7 @@
       "Name": "Debris Spree",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "5",
@@ -5054,7 +5059,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "7",
@@ -5085,7 +5090,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10316,
+      "Progressed": 10318,
       "Completed": 0
     }
   ],
@@ -5093,8 +5098,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-07T17:03:40.5471385+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:05:57.751143+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:06:05.3636082+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:00:14.4213042+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:05:57.7511802+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:00:31.7695084+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:06:05.3636682+00:00"
 }

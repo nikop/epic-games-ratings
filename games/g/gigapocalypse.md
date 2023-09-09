@@ -20,7 +20,7 @@
 | Supreme Power | 45.00% | ~81 |
 | The Duelist | 43.00% | ~77 |
 | Diaper Time! | 43.00% | ~77 |
-| Target Practice | 42.00% | ~76 |
+| Target Practice | 43.00% | ~77 |
 | Glorious Battle | 41.00% | ~74 |
 | Meat Larder | 39.00% | ~70 |
 | Mutant And Proud | 38.00% | ~68 |

@@ -2,9 +2,9 @@
   "ID": "fd952b46a2ad411f8277811e3d9ce98f",
   "Name": "Mini Royale",
   "ProductSlug": "mini-royale-ad1dca",
-  "Ranking_EOS_Progress": 162,
+  "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 53,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3173,
+  "EOS_Progressed": 3220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1359,
+  "EOS_NewPlayers": 1406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1179,6 +1179,11 @@
       "Time": "2023-09-09T16:06:09.559169+00:00",
       "NumProgressed": 3173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T17:06:16.4976252+00:00",
+      "NumProgressed": 3220,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -1287,7 +1292,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1127
     },
     {
       "ID": "kills_100",
@@ -1295,7 +1300,7 @@
       "Name": "Rookie Riot",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "kills_1000",
@@ -1343,7 +1348,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 193
     },
     {
       "ID": "revives_25",
@@ -1383,7 +1388,7 @@
       "Name": "Top Toy",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "top10_10",
@@ -1423,7 +1428,7 @@
       "Name": "Toy Commander",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ziplineDistanceTravelled_10000",
@@ -1438,13 +1443,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 3173,
+      "Progressed": 3220,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:06:09.5591684+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:06:16.4976247+00:00",
   "LastUpdate_AppInfo": "2023-09-06T09:57:05.1729887+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:00:13.0150029+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:06:09.5591921+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:00:30.1135722+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:06:16.4976485+00:00"
 }

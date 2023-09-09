@@ -20,8 +20,8 @@ Rating: 4.82 (Ranked 66)
 | Ternmoat Headquarters | 35.00% | ~890 |
 | Cypress Glen Headquarters | 33.00% | ~839 |
 | Petricite Burst | 32.00% | ~813 |
+| Old friend | 30.00% | ~763 |
 | Hijack | 29.00% | ~737 |
-| Old friend | 29.00% | ~737 |
 | Devineur | 29.00% | ~737 |
 | Whispers in the Woods I | 27.00% | ~686 |
 | I chose my shackles | 25.00% | ~636 |

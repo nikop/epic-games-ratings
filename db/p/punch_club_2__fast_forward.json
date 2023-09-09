@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 321,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -1495,9 +1495,9 @@
       "ID": "league_2",
       "SetID": "69co12a",
       "Name": "Champion \u2013 no way back",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "league_3",
@@ -1599,9 +1599,9 @@
       "ID": "poisoned_fighter",
       "SetID": "69co12a",
       "Name": "Poisoned fighter",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "police_promotion_1",
@@ -1671,9 +1671,9 @@
       "ID": "seashell_hunter",
       "SetID": "69co12a",
       "Name": "Seashell hunter",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "sleep_candy",
@@ -1766,8 +1766,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:05:02.8953112+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:05:11.5408643+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:22.6953156+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:58:05.5456462+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:05:02.8953655+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:58:20.944083+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:05:11.5409205+00:00"
 }

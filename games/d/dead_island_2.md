@@ -5,31 +5,31 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 2.00% | ~13,528 |
-| Dr. Reed, I Presume? | 1.00% | ~6,764 |
-| Git Gutte! | 1.00% | ~6,764 |
-| Bookworm | 1.00% | ~6,764 |
-| Break A Leg | 1.00% | ~6,764 |
-| But Doctor, I am Butcho | 1.00% | ~6,764 |
-| Can't Handle the Truth | 1.00% | ~6,764 |
-| Coup de Grâce | 1.00% | ~6,764 |
-| Like Riding a Bike | 1.00% | ~6,764 |
-| Hazardous Materials | 1.00% | ~6,764 |
-| Friends Like These | 1.00% | ~6,764 |
-| Hotel California | 1.00% | ~6,764 |
-| Apex Predator | 1.00% | ~6,764 |
-| Zombologist | 1.00% | ~6,764 |
-| A Patton Emerges | 1.00% | ~6,764 |
-| Stacking the Deck | 1.00% | ~6,764 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,764 |
-| This is My Weapon | 1.00% | ~6,764 |
+| Welcome To Hell-A | 2.00% | ~13,530 |
+| Dr. Reed, I Presume? | 1.00% | ~6,765 |
+| Git Gutte! | 1.00% | ~6,765 |
+| Bookworm | 1.00% | ~6,765 |
+| Break A Leg | 1.00% | ~6,765 |
+| But Doctor, I am Butcho | 1.00% | ~6,765 |
+| Can't Handle the Truth | 1.00% | ~6,765 |
+| Coup de Grâce | 1.00% | ~6,765 |
+| Like Riding a Bike | 1.00% | ~6,765 |
+| Hazardous Materials | 1.00% | ~6,765 |
+| Friends Like These | 1.00% | ~6,765 |
+| Hotel California | 1.00% | ~6,765 |
+| Apex Predator | 1.00% | ~6,765 |
+| Zombologist | 1.00% | ~6,765 |
+| A Patton Emerges | 1.00% | ~6,765 |
+| Stacking the Deck | 1.00% | ~6,765 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,765 |
+| This is My Weapon | 1.00% | ~6,765 |
 | Slayer Squad | 0.90% | ~6,088 |
-| Anger Management | 0.80% | ~5,411 |
-| Perks of the Job | 0.80% | ~5,411 |
-| Ooh, Shiny! | 0.80% | ~5,411 |
-| I Am the Resurrection | 0.80% | ~5,411 |
-| Our True Nature | 0.80% | ~5,411 |
-| I Got a Zombie Army and You Can't Harm Me | 0.70% | ~4,735 |
+| Anger Management | 0.80% | ~5,412 |
+| Perks of the Job | 0.80% | ~5,412 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,412 |
+| Ooh, Shiny! | 0.80% | ~5,412 |
+| I Am the Resurrection | 0.80% | ~5,412 |
+| Our True Nature | 0.80% | ~5,412 |
 | Making Your Mark | 0.60% | ~4,059 |
 | Humanity Distilled | 0.60% | ~4,059 |
 | Down with the Sickness | 0.60% | ~4,059 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,424 (Ranked 22)  
+Progressed: 676,482 (Ranked 22)  
 Completed: 2,126 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2,126 (0.31%) (Ranked 177)
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
-| 2023-09-09 | 676,424 | 2,126 |
+| 2023-09-09 | 676,482 | 2,126 |
 ## Awards
 Max (Great Boss Battles): 5,969  (Ranked 58)  
 Sum: 8,815 (Ranked 94)  

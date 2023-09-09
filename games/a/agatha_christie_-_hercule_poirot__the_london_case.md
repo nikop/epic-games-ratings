@@ -17,16 +17,16 @@
 | Arthur Hastings | 30.00% | ~3 |
 | Everything matters | 20.00% | ~2 |
 | Order and method | 20.00% | ~2 |
+| An expert mediator | 20.00% | ~2 |
+| DI Hardwicke | 20.00% | ~2 |
 | Well-acquainted | 10.00% | ~1 |
 | Truth from within | 10.00% | ~1 |
-| An expert mediator | 10.00% | ~1 |
 | An odd series of events | 10.00% | ~1 |
 | A rude awakening | 10.00% | ~1 |
 | A curious phrase | 10.00% | ~1 |
 | Anastasia Babanin | 10.00% | ~1 |
 | Betty Allen | 10.00% | ~1 |
 | Ms. Camilla B. Culsham | 10.00% | ~1 |
-| DI Hardwicke | 10.00% | ~1 |
 | Irene Court-Smyth | 10.00% | ~1 |
 | The Investigation Begins | 10.00% | ~1 |
 | Nathaniel Dryden | 10.00% | ~1 |

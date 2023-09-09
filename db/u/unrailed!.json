@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2630,9 +2630,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 642424,
+  "EOS_Progressed": 642438,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2013,
+  "EOS_NewPlayers": 2009,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18485,6 +18485,11 @@
       "Time": "2023-09-09T16:05:16.1347121+00:00",
       "NumProgressed": 642424,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-09T17:05:25.2141877+00:00",
+      "NumProgressed": 642438,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 52,
@@ -18496,7 +18501,7 @@
       "Name": "Stroller",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 89939
+      "UsersEstimate": 89941
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -18504,7 +18509,7 @@
       "Name": "Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 70667
+      "UsersEstimate": 70668
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -18536,7 +18541,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 109212
+      "UsersEstimate": 109214
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -18544,7 +18549,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 77091
+      "UsersEstimate": 77093
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -18584,7 +18589,7 @@
       "Name": "Expert Hiker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12848
+      "UsersEstimate": 12849
     },
     {
       "ID": "_01_12_DISTANCE_500_HARD",
@@ -18616,7 +18621,7 @@
       "Name": "Toy Train",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 83515
+      "UsersEstimate": 83517
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -18664,7 +18669,7 @@
       "Name": "Marathon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12848
+      "UsersEstimate": 12849
     },
     {
       "ID": "_02_00_DUCKY_DANGER",
@@ -18696,7 +18701,7 @@
       "Name": "Destructionist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12848
+      "UsersEstimate": 12849
     },
     {
       "ID": "_02_04_INDUSTRIALIST",
@@ -18744,7 +18749,7 @@
       "Name": "Incurious",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 102788
+      "UsersEstimate": 102790
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -18752,7 +18757,7 @@
       "Name": "Mojave Courier",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32121
+      "UsersEstimate": 32122
     },
     {
       "ID": "_03_02_NANUK",
@@ -18816,7 +18821,7 @@
       "Name": "Climate Change",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 96364
+      "UsersEstimate": 96366
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -18904,22 +18909,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25697
+      "UsersEstimate": 25698
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 642424,
+      "Progressed": 642438,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-09T11:01:36.7166719+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:05:16.1347115+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:05:25.2141872+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.8163161+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:57:59.4192865+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:05:16.134821+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:58:14.6499599+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:05:25.2142901+00:00"
 }

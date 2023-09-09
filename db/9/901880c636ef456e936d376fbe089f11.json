@@ -494,9 +494,9 @@
       "ID": "ACH_FIRSTLOVE",
       "SetID": "8h8m55b",
       "Name": "First Love",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FIVE_STARS",
@@ -726,9 +726,9 @@
       "ID": "ACH_UNSOLICITED_BOUNCER",
       "SetID": "8h8m55b",
       "Name": "Unsolicited Bouncer",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_VAMPIRES_DONT_CHANGE",
@@ -781,8 +781,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:06:15.2295631+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:06:23.2425636+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.102078+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:58:06.4951025+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:06:15.2296031+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:58:22.102088+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:06:23.242605+00:00"
 }

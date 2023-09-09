@@ -4,7 +4,7 @@
   "ProductSlug": "trackmania",
   "Ranking_Rating": 259,
   "Ranking_Popularity": 92,
-  "Ranking_PopularitySum": 47,
+  "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 355,
@@ -10047,10 +10047,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 27481,
       "NumberOfAwardsMax": 3278
+    },
+    {
+      "Time": "2023-09-09T16:59:31.394391+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 27488,
+      "NumberOfAwardsMax": 3278
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27481,
+  "NumberOfAwards": 27488,
   "NumberOfAwardsMax": 3278,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -10106,7 +10112,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2251
+      "Count": 2258
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10138,8 +10144,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-09-09T15:59:14.7923312+00:00",
+  "LastChanged": "2023-09-09T16:59:31.3943908+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:19.0369082+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:59:14.7923317+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:06:33.7153661+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:59:31.3943917+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:06:42.1435539+00:00"
 }

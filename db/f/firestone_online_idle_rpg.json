@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -5534,9 +5534,9 @@
       "ID": "beastwarmachines",
       "SetID": "3nl4bcg",
       "Name": "Beast War Machines",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "blueprintupgrades",
@@ -5630,9 +5630,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 153
     },
     {
       "ID": "enchantingskillx5",
@@ -6103,8 +6103,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T22:59:12.0182911+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:05:03.1284934+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:05:11.7634124+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.1476243+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:59:10.818556+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:05:03.1285822+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:59:27.0411599+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:05:11.7634987+00:00"
 }

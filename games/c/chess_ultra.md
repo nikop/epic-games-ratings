@@ -1,24 +1,24 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.29 (Ranked 804)  
+Rating: 4.29 (Ranked 805)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~144,199 |
-| Doubled Pawn | 56.00% | ~115,359 |
-| Check | 55.00% | ~113,299 |
-| Absolute pin | 47.00% | ~96,819 |
-| Checkmate | 30.00% | ~61,799 |
-| Promotion | 30.00% | ~61,799 |
-| O-O | 24.00% | ~49,440 |
-| Spanish Bishop | 21.00% | ~43,260 |
-| Queen Sacrifice | 20.00% | ~41,200 |
-| Stalemate | 18.00% | ~37,080 |
-| O-O-O | 13.00% | ~26,780 |
-| Octopus | 13.00% | ~26,780 |
-| Stranger Danger | 12.00% | ~24,720 |
-| En Passant | 9.00% | ~18,540 |
+| Chop Wood | 70.00% | ~144,205 |
+| Doubled Pawn | 56.00% | ~115,364 |
+| Check | 55.00% | ~113,304 |
+| Absolute pin | 47.00% | ~96,823 |
+| Checkmate | 30.00% | ~61,802 |
+| Promotion | 30.00% | ~61,802 |
+| O-O | 24.00% | ~49,442 |
+| Spanish Bishop | 21.00% | ~43,261 |
+| Queen Sacrifice | 20.00% | ~41,201 |
+| Stalemate | 18.00% | ~37,081 |
+| O-O-O | 13.00% | ~26,781 |
+| Octopus | 13.00% | ~26,781 |
+| Stranger Danger | 12.00% | ~24,721 |
+| En Passant | 9.00% | ~18,541 |
 | Double Check | 7.00% | ~14,420 |
 | Piece Collector | 6.00% | ~12,360 |
 | ELO | 5.00% | ~10,300 |
@@ -44,7 +44,7 @@ Rating: 4.29 (Ranked 804)
 | Tournament Master | 0.10% | ~206 |
 | Tournament Pro | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205,998 (Ranked 59)  
+Progressed: 206,007 (Ranked 59)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-06 | 205,419 | 2 |
 | 2023-09-07 | 205,615 | 2 |
 | 2023-09-08 | 205,827 | 2 |
-| 2023-09-09 | 205,998 | 2 |
+| 2023-09-09 | 206,007 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

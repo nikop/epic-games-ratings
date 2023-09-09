@@ -3,8 +3,8 @@
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.39,
+  "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -341,6 +341,11 @@
       "Time": "2023-09-08T22:06:57.9084193+00:00",
       "NumProgressed": 288,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-09T17:06:39.1051799+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -448,7 +453,7 @@
       "Name": "Wild Ox",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -479,7 +484,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 4
     }
   ],
@@ -487,8 +492,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-09T16:06:30.7302153+00:00",
+  "LastChanged_Achievements": "2023-09-09T17:06:39.1051795+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:10.9300024+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:59:08.9162966+00:00",
-  "LastUpdate_Achievements": "2023-09-09T16:06:30.7302265+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:59:24.7708477+00:00",
+  "LastUpdate_Achievements": "2023-09-09T17:06:39.1051921+00:00"
 }
