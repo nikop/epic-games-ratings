@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -402,9 +402,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 245311,
+  "EOS_Progressed": 245315,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16122,6 +16122,11 @@
       "Time": "2023-09-09T06:03:54.0173112+00:00",
       "NumProgressed": 245311,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-09T07:04:37.8201975+00:00",
+      "NumProgressed": 245315,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -16133,7 +16138,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 66234
+      "UsersEstimate": 66235
     },
     {
       "ID": "ACH_AON",
@@ -16157,7 +16162,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9812
+      "UsersEstimate": 9813
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -16173,7 +16178,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 26984
+      "UsersEstimate": 26985
     },
     {
       "ID": "ACH_ENJOY",
@@ -16197,7 +16202,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 31890
+      "UsersEstimate": 31891
     },
     {
       "ID": "ACH_HATTRICK",
@@ -16277,7 +16282,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 68687
+      "UsersEstimate": 68688
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -16293,7 +16298,7 @@
       "Name": "It\u0027s blue, always blue",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_KACHING",
@@ -16301,7 +16306,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9812
+      "UsersEstimate": 9813
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -16325,7 +16330,7 @@
       "Name": "Let\u0027s try another",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_LETSBEACH",
@@ -16349,7 +16354,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58875
+      "UsersEstimate": 58876
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -16397,7 +16402,7 @@
       "Name": "Home run",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ACH_LETSWORK",
@@ -16453,7 +16458,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61328
+      "UsersEstimate": 61329
     },
     {
       "ID": "ACH_SOREAD",
@@ -16461,7 +16466,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9812
+      "UsersEstimate": 9813
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -16548,7 +16553,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 245311,
+      "Progressed": 245315,
       "Completed": 7
     }
   ],
@@ -16556,8 +16561,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-02T23:58:08.6373723+00:00",
-  "LastChanged_Achievements": "2023-09-09T06:03:54.0173105+00:00",
+  "LastChanged_Achievements": "2023-09-09T07:04:37.820197+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:10.3049336+00:00",
-  "LastUpdate_Ratings": "2023-09-09T05:58:56.1661235+00:00",
-  "LastUpdate_Achievements": "2023-09-09T06:03:54.0175929+00:00"
+  "LastUpdate_Ratings": "2023-09-09T06:59:33.749504+00:00",
+  "LastUpdate_Achievements": "2023-09-09T07:04:37.8203176+00:00"
 }

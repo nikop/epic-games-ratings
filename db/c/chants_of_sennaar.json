@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 103,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.9,
+  "EOS_Completed_Percentage": 4.85,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -509,6 +509,11 @@
       "Time": "2023-09-09T06:05:26.0899462+00:00",
       "NumProgressed": 102,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-09T07:06:33.1948832+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 25,
@@ -582,9 +587,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "META_RESULT_2-3",
@@ -630,17 +635,17 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -686,9 +691,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PROGRESS_N3",
@@ -696,7 +701,7 @@
       "Name": "A new dawn",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PROGRESS_N4",
@@ -710,23 +715,23 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 103,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-09T06:05:26.0899456+00:00",
+  "LastChanged_Achievements": "2023-09-09T07:06:33.1948828+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-09T06:00:04.8691371+00:00",
-  "LastUpdate_Achievements": "2023-09-09T06:05:26.0899816+00:00"
+  "LastUpdate_Ratings": "2023-09-09T07:00:58.371411+00:00",
+  "LastUpdate_Achievements": "2023-09-09T07:06:33.194901+00:00"
 }

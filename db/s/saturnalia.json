@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66225,
+  "EOS_Progressed": 66226,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9702,6 +9702,11 @@
       "Time": "2023-09-09T06:04:31.019705+00:00",
       "NumProgressed": 66225,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-09T07:05:29.3360571+00:00",
+      "NumProgressed": 66226,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -9713,7 +9718,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH_BONFIRES",
@@ -9801,7 +9806,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -9857,7 +9862,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "ACH_TOOLS",
@@ -9872,7 +9877,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 66225,
+      "Progressed": 66226,
       "Completed": 14
     }
   ],
@@ -9880,8 +9885,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-26T23:01:09.4658667+00:00",
-  "LastChanged_Achievements": "2023-09-09T06:04:31.0197045+00:00",
+  "LastChanged_Achievements": "2023-09-09T07:05:29.3360568+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:21.4271572+00:00",
-  "LastUpdate_Ratings": "2023-09-09T05:58:35.4340884+00:00",
-  "LastUpdate_Achievements": "2023-09-09T06:04:31.0197876+00:00"
+  "LastUpdate_Ratings": "2023-09-09T06:59:08.5475074+00:00",
+  "LastUpdate_Achievements": "2023-09-09T07:05:29.3361123+00:00"
 }

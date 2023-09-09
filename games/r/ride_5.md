@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 36.00% | ~158 |
-| Hear That Roar! | 34.00% | ~149 |
-| Clean Race | 34.00% | ~149 |
-| Rivals to the End | 27.00% | ~118 |
-| Eat My Dust | 24.00% | ~105 |
-| We're Going to Need a Bigger Garage | 22.00% | ~96 |
-| I'm Here Too! | 21.00% | ~92 |
-| I Want One Too! | 14.00% | ~61 |
-| Bitter Rivalry | 14.00% | ~61 |
+| First Love | 36.00% | ~160 |
+| Hear That Roar! | 34.00% | ~151 |
+| Clean Race | 33.00% | ~147 |
+| Rivals to the End | 27.00% | ~120 |
+| Eat My Dust | 23.00% | ~102 |
+| We're Going to Need a Bigger Garage | 22.00% | ~98 |
+| I'm Here Too! | 20.00% | ~89 |
+| I Want One Too! | 14.00% | ~62 |
+| Bitter Rivalry | 14.00% | ~62 |
 | Restored and Ready | 12.00% | ~53 |
-| Quick Pit Stop | 11.00% | ~48 |
-| Champagne Spray | 11.00% | ~48 |
+| Quick Pit Stop | 11.00% | ~49 |
+| Champagne Spray | 11.00% | ~49 |
 | Go-Faster Stripes | 10.00% | ~44 |
 | Legendary!!! | 10.00% | ~44 |
 | Is It the Right Size? | 5.00% | ~22 |
@@ -31,9 +31,9 @@
 | The Road to Liberty | 2.00% | ~9 |
 | My Work Here Is Done | 2.00% | ~9 |
 | I'll Be the Best! | 1.00% | ~4 |
+| Romantic Races | 1.00% | ~4 |
 | I Make the Rules! | 1.00% | ~4 |
 | Rounding Off | 1.00% | ~4 |
-| Romantic Races | 0.90% | ~4 |
 | Next Level | 0.90% | ~4 |
 | I Don't Stop | 0.90% | ~4 |
 | Overtaking the Master | 0.90% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 438 (Ranked 248)  
+Progressed: 444 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 141 | 0 |
 | 2023-09-07 | 305 | 0 |
 | 2023-09-08 | 425 | 0 |
-| 2023-09-09 | 438 | 0 |
+| 2023-09-09 | 444 | 0 |

@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 80.00% | ~530,346 |
-| Every story has a beginning | 36.00% | ~238,656 |
-| The first of many | 31.00% | ~205,509 |
-| Positive word of mouth | 18.00% | ~119,328 |
-| Lawn in the U.S.A. | 15.00% | ~99,440 |
-| Blade Runner | 9.00% | ~59,664 |
-| Credible | 7.00% | ~46,405 |
+| The dream begins | 80.00% | ~530,353 |
+| Every story has a beginning | 36.00% | ~238,659 |
+| The first of many | 31.00% | ~205,512 |
+| Positive word of mouth | 18.00% | ~119,329 |
+| Lawn in the U.S.A. | 15.00% | ~99,441 |
+| Blade Runner | 9.00% | ~59,665 |
+| Credible | 7.00% | ~46,406 |
 | Teamwork makes the dream work | 6.00% | ~39,776 |
-| Where there's muck there's brass | 4.00% | ~26,517 |
-| Bigger and better | 4.00% | ~26,517 |
-| Aggressive expansion | 4.00% | ~26,517 |
+| Where there's muck there's brass | 4.00% | ~26,518 |
+| Bigger and better | 4.00% | ~26,518 |
+| Aggressive expansion | 4.00% | ~26,518 |
 | Size isn't everything | 3.00% | ~19,888 |
 | Close shave | 3.00% | ~19,888 |
 | Established | 3.00% | ~19,888 |
@@ -31,9 +31,9 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn & Order | 0.90% | ~5,966 |
 | Jack of all trades | 0.90% | ~5,966 |
 | Professional | 0.90% | ~5,966 |
-| The grass is always greener | 0.80% | ~5,303 |
-| All hands on deck | 0.80% | ~5,303 |
-| Worked your grass off | 0.80% | ~5,303 |
+| The grass is always greener | 0.80% | ~5,304 |
+| All hands on deck | 0.80% | ~5,304 |
+| Worked your grass off | 0.80% | ~5,304 |
 | Phoenix rises | 0.40% | ~2,652 |
 | Cut Loose | 0.40% | ~2,652 |
 | Esteemed | 0.40% | ~2,652 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~663 |
 | Mo mowers, mo problems | 0.10% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662,932 (Ranked 23)  
+Progressed: 662,941 (Ranked 23)  
 Completed: 16 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 16 (0.00%) (Ranked 272)
 | 2023-09-06 | 662,336 | 16 |
 | 2023-09-07 | 662,574 | 16 |
 | 2023-09-08 | 662,856 | 16 |
-| 2023-09-09 | 662,932 | 16 |
+| 2023-09-09 | 662,941 | 16 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 282)  
 Sum: 978 (Ranked 243)  

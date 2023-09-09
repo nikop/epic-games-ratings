@@ -7,15 +7,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~35,673 |
-| Biggest Communism Builder | 24.00% | ~30,576 |
-| The World's Most Laughable Centrist | 21.00% | ~26,754 |
-| Il Coppo Del'Arte! | 18.00% | ~22,932 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,384 |
-| Hyperstellar Law Official | 16.00% | ~20,384 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~17,836 |
-| Gurdi-Ball Is Lit | 14.00% | ~17,836 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,562 |
-| Truly Rabid *Traditionalist* | 11.00% | ~14,014 |
+| Biggest Communism Builder | 24.00% | ~30,577 |
+| The World's Most Laughable Centrist | 21.00% | ~26,755 |
+| Il Coppo Del'Arte! | 18.00% | ~22,933 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,385 |
+| Hyperstellar Law Official | 16.00% | ~20,385 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~17,837 |
+| Gurdi-Ball Is Lit | 14.00% | ~17,837 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,563 |
+| Truly Rabid *Traditionalist* | 11.00% | ~14,015 |
 | Unbelievably Boring **** | 9.00% | ~11,466 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,466 |
 | Enemy Of The Physical Realm | 8.00% | ~10,192 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,402 (Ranked 70)  
+Progressed: 127,405 (Ranked 70)  
 Completed: 28 (0.02%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,11 +189,11 @@ Completed: 28 (0.02%) (Ranked 249)
 | 2023-09-06 | 127,328 | 27 |
 | 2023-09-07 | 127,361 | 27 |
 | 2023-09-08 | 127,393 | 28 |
-| 2023-09-09 | 127,402 | 28 |
+| 2023-09-09 | 127,405 | 28 |
 ## Awards
 Max (Character Customization): 722  (Ranked 166)  
-Sum: 1,086 (Ranked 236)  
-Diff (max vs sum): -70  
+Sum: 1,086 (Ranked 237)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 722 |

@@ -34,10 +34,10 @@ Rating: 4.54 (Ranked 505)
 | Humanity Distilled | 0.60% | ~4,057 |
 | Down with the Sickness | 0.60% | ~4,057 |
 | Max Headroom | 0.50% | ~3,381 |
-| Smorgasbord | 0.40% | ~2,704 |
-| Jumbo Keyring | 0.40% | ~2,704 |
-| Go, Bobcats! | 0.40% | ~2,704 |
-| Rising Star | 0.40% | ~2,704 |
+| Smorgasbord | 0.40% | ~2,705 |
+| Jumbo Keyring | 0.40% | ~2,705 |
+| Go, Bobcats! | 0.40% | ~2,705 |
+| Rising Star | 0.40% | ~2,705 |
 | On Safari | 0.30% | ~2,028 |
 | Not Even My Final Form | 0.30% | ~2,028 |
 | Internet Famous | 0.30% | ~2,028 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,114 (Ranked 22)  
+Progressed: 676,140 (Ranked 22)  
 Completed: 2,125 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,15 +193,15 @@ Completed: 2,125 (0.31%) (Ranked 177)
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
-| 2023-09-09 | 676,114 | 2,125 |
+| 2023-09-09 | 676,140 | 2,125 |
 ## Awards
 Max (Great Boss Battles): 5,969  (Ranked 58)  
-Sum: 8,812 (Ranked 94)  
+Sum: 8,815 (Ranked 94)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 5,969 |
-| This game is Great for Beginners | 400 |
+| This game is Great for Beginners | 403 |
 | This game has Diverse Characters | 394 |
 | This game has Quickly Understood Controls | 385 |
 | This game is Relaxing | 369 |
@@ -353,3 +353,4 @@ Diff (max vs sum): -36
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
 | 2023-09-08 | 4.54 | 5,969 | 8,812 |
+| 2023-09-09 | 4.54 | 5,969 | 8,815 |

@@ -5,13 +5,13 @@ Rating: 4.84 (Ranked 49)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~221,247 |
-| Private Club | 74.00% | ~179,915 |
+| Forgotten Sorority | 91.00% | ~221,248 |
+| Private Club | 74.00% | ~179,916 |
 | Rogue Guild | 65.00% | ~158,034 |
 | I Watched the Intro | 57.00% | ~138,584 |
-| Covert Consortium | 55.00% | ~133,721 |
-| Goat Queen | 53.00% | ~128,858 |
-| Reach the Stratosphere | 50.00% | ~121,564 |
+| Covert Consortium | 55.00% | ~133,722 |
+| Goat Queen | 53.00% | ~128,859 |
+| Reach the Stratosphere | 50.00% | ~121,565 |
 | Synchronization Complete | 47.00% | ~114,271 |
 | Secret Society | 45.00% | ~109,408 |
 | Shadow Syndicate | 38.00% | ~92,389 |
@@ -25,10 +25,10 @@ Rating: 4.84 (Ranked 49)
 | Into the Matrix | 19.00% | ~46,195 |
 | Where is It? | 17.00% | ~41,332 |
 | Egg Simulator | 17.00% | ~41,332 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~36,469 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~36,470 |
 | Black Market | 14.00% | ~34,038 |
 | 401(K.O.) | 14.00% | ~34,038 |
-| Car Cave | 12.00% | ~29,175 |
+| Car Cave | 12.00% | ~29,176 |
 | Club Mohair | 8.00% | ~19,450 |
 | A Center for Ants? | 8.00% | ~19,450 |
 | French Fika | 7.00% | ~17,019 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 49)
 | Move! That! Bus! | 0.60% | ~1,459 |
 | G.O.A.T | 0.30% | ~729 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,129 (Ranked 50)  
+Progressed: 243,130 (Ranked 50)  
 Completed: 825 (0.34%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,14 +187,14 @@ Completed: 825 (0.34%) (Ranked 175)
 | 2023-09-06 | 242,853 | 824 |
 | 2023-09-07 | 242,963 | 825 |
 | 2023-09-08 | 243,107 | 825 |
-| 2023-09-09 | 243,129 | 825 |
+| 2023-09-09 | 243,130 | 825 |
 ## Awards
-Max (Great for Beginners): 390  (Ranked 218)  
-Sum: 3,336 (Ranked 154)  
+Max (Great for Beginners): 391  (Ranked 218)  
+Sum: 3,337 (Ranked 154)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 390 |
+| This game is Great for Beginners | 391 |
 | This game has Diverse Characters | 377 |
 | This game is Highly Recommended | 359 |
 | This game has Amazing Characters | 335 |
@@ -376,4 +376,4 @@ Diff (max vs sum): 64
 | 2023-09-06 | 4.84 | 390 | 3,324 |
 | 2023-09-07 | 4.84 | 390 | 3,327 |
 | 2023-09-08 | 4.84 | 390 | 3,334 |
-| 2023-09-09 | 4.84 | 390 | 3,336 |
+| 2023-09-09 | 4.84 | 391 | 3,337 |

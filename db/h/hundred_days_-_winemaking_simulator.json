@@ -970,9 +970,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1996,
+  "EOS_Progressed": 2006,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1301,
+  "EOS_NewPlayers": 1303,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2145,6 +2145,11 @@
       "Time": "2023-09-09T06:03:56.7270965+00:00",
       "NumProgressed": 1996,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-09T07:04:44.2532115+00:00",
+      "NumProgressed": 2006,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2157,7 +2162,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "a_10",
@@ -2205,7 +2210,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 699
+      "UsersEstimate": 702
     },
     {
       "ID": "a_19",
@@ -2331,9 +2336,9 @@
       "ID": "a_34",
       "SetID": "daiie3o",
       "Name": "Master Winemaker",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "a_35",
@@ -2347,9 +2352,9 @@
       "ID": "a_36",
       "SetID": "daiie3o",
       "Name": "Unsuitable Terroir",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "a_4",
@@ -2363,9 +2368,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "a_6",
@@ -2404,7 +2409,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1996,
+      "Progressed": 2006,
       "Completed": 3
     }
   ],
@@ -2412,8 +2417,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-07T15:00:06.6225416+00:00",
-  "LastChanged_Achievements": "2023-09-09T06:03:56.727096+00:00",
+  "LastChanged_Achievements": "2023-09-09T07:04:44.2532111+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-09T05:58:53.3176373+00:00",
-  "LastUpdate_Achievements": "2023-09-09T06:03:56.7271476+00:00"
+  "LastUpdate_Ratings": "2023-09-09T06:59:30.3125587+00:00",
+  "LastUpdate_Achievements": "2023-09-09T07:04:44.253239+00:00"
 }

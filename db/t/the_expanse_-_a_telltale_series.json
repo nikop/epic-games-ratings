@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10281,
+  "EOS_Progressed": 10283,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4784,6 +4784,11 @@
       "Time": "2023-09-09T06:05:47.8140225+00:00",
       "NumProgressed": 10281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T07:06:57.9067552+00:00",
+      "NumProgressed": 10283,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4844,7 +4849,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "16",
@@ -4970,9 +4975,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2262
     },
     {
       "ID": "30",
@@ -5004,7 +5009,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2057
     },
     {
       "ID": "7",
@@ -5028,14 +5033,14 @@
       "Name": "Impossible Objects",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10281,
+      "Progressed": 10283,
       "Completed": 0
     }
   ],
@@ -5043,8 +5048,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-07T17:03:40.5471385+00:00",
-  "LastChanged_Achievements": "2023-09-09T06:05:47.8140219+00:00",
+  "LastChanged_Achievements": "2023-09-09T07:06:57.906755+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-09T06:00:09.6638371+00:00",
-  "LastUpdate_Achievements": "2023-09-09T06:05:47.8141152+00:00"
+  "LastUpdate_Ratings": "2023-09-09T07:01:04.1981346+00:00",
+  "LastUpdate_Achievements": "2023-09-09T07:06:57.9067946+00:00"
 }

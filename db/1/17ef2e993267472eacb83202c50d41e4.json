@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5045,
+  "EOS_Progressed": 5047,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5006,
+  "EOS_NewPlayers": 5008,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -771,6 +771,11 @@
       "Time": "2023-09-09T06:02:17.6931219+00:00",
       "NumProgressed": 5045,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T07:03:08.8579828+00:00",
+      "NumProgressed": 5047,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -895,7 +900,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "GamesPlayed1",
@@ -989,9 +994,9 @@
       "ID": "HGPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Healing Grenade",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 454
     },
     {
       "ID": "HSPurchased1",
@@ -1279,7 +1284,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "SEUpgraded1",
@@ -1374,14 +1379,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5045,
+      "Progressed": 5047,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-09T06:02:17.6931214+00:00",
+  "LastChanged_Achievements": "2023-09-09T07:03:08.8579824+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:01.3447006+00:00",
-  "LastUpdate_Ratings": "2023-09-09T05:57:40.2308505+00:00",
-  "LastUpdate_Achievements": "2023-09-09T06:02:17.6932148+00:00"
+  "LastUpdate_Ratings": "2023-09-09T06:58:00.6301843+00:00",
+  "LastUpdate_Achievements": "2023-09-09T07:03:08.8580554+00:00"
 }

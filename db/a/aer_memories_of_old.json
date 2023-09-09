@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,7 +398,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19685,
+  "EOS_Progressed": 19686,
   "EOS_Completed": 392,
   "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 8,
@@ -15553,6 +15553,11 @@
       "Time": "2023-09-09T06:04:24.9302487+00:00",
       "NumProgressed": 19685,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-09-09T07:05:22.5419129+00:00",
+      "NumProgressed": 19686,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 20,
@@ -15564,7 +15569,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3346
+      "UsersEstimate": 3347
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -15604,7 +15609,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -15723,15 +15728,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19685,
+      "Progressed": 19686,
       "Completed": 392
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-09T06:04:24.9302482+00:00",
+  "LastChanged_Achievements": "2023-09-09T07:05:22.5419125+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-09T06:02:08.6107899+00:00",
-  "LastUpdate_Achievements": "2023-09-09T06:04:24.9304559+00:00"
+  "LastUpdate_Ratings": "2023-09-09T07:01:37.6865656+00:00",
+  "LastUpdate_Achievements": "2023-09-09T07:05:22.5420051+00:00"
 }
