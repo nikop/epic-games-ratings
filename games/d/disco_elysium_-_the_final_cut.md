@@ -6,7 +6,7 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,682 |
+| Goodest Of The Good Cops | 28.00% | ~35,683 |
 | Biggest Communism Builder | 24.00% | ~30,585 |
 | The World's Most Laughable Centrist | 21.00% | ~26,762 |
 | Il Coppo Del'Arte! | 18.00% | ~22,939 |
@@ -16,12 +16,12 @@ Number of Ratings: 1,611  (23.09.2022)
 | Gurdi-Ball Is Lit | 14.00% | ~17,841 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,567 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,018 |
-| Unbelievably Boring **** | 9.00% | ~11,469 |
-| The Figurines Won't Win Her Back | 9.00% | ~11,469 |
+| Unbelievably Boring **** | 9.00% | ~11,470 |
+| The Figurines Won't Win Her Back | 9.00% | ~11,470 |
 | Enemy Of The Physical Realm | 8.00% | ~10,195 |
 | Hardie's Heroes | 6.00% | ~7,646 |
-| The Lawbringer | 4.00% | ~5,097 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,097 |
+| The Lawbringer | 4.00% | ~5,098 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,098 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,823 |
 | Bother Kim After Hours | 3.00% | ~3,823 |
 | Baddest Of the Bad Cops | 2.00% | ~2,549 |
@@ -32,8 +32,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Avowed Inframaterialist | 1.00% | ~1,274 |
 | Committee of la Responsabilité | 0.90% | ~1,147 |
 | Real Musor | 0.90% | ~1,147 |
-| Baddest Brow in Town | 0.80% | ~1,019 |
-| Venture into the HARDCORE | 0.80% | ~1,019 |
+| Baddest Brow in Town | 0.80% | ~1,020 |
+| Venture into the HARDCORE | 0.80% | ~1,020 |
 | Networthy Individual | 0.70% | ~892 |
 | Leopard Mindset | 0.60% | ~765 |
 | Modus: Mullen | 0.30% | ~382 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~127 |
 | What body? | 0.10% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,437 (Ranked 70)  
+Progressed: 127,439 (Ranked 70)  
 Completed: 28 (0.02%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 28 (0.02%) (Ranked 250)
 | 2023-09-06 | 127,328 | 27 |
 | 2023-09-07 | 127,361 | 27 |
 | 2023-09-08 | 127,393 | 28 |
-| 2023-09-09 | 127,437 | 28 |
+| 2023-09-09 | 127,439 | 28 |
 ## Awards
 Max (Character Customization): 722  (Ranked 166)  
 Sum: 1,086 (Ranked 237)  

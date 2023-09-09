@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1685,7 +1685,7 @@
   ],
   "EOS_Progressed": 13830,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11946,9 +11946,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious Difficulty",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
@@ -12578,9 +12578,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
       "SetID": "9201eeb",
       "Name": "Church of the Holy Sepulchre",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 124
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -13584,8 +13584,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:06:54.6126195+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:06:14.5624434+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:59:58.773431+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:06:54.6133519+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:59:21.457776+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:06:14.5632104+00:00"
 }

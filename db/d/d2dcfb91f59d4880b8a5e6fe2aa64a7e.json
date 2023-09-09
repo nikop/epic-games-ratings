@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
     "PcReleaseDate": "2021-09-28T23:00:00+00:00",
@@ -239,9 +239,9 @@
       "ID": "COLLECTOR_TRINKETS",
       "SetID": "63n2m0e",
       "Name": "Jeweller",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DASHER",
@@ -327,9 +327,9 @@
       "ID": "PERK_UP",
       "SetID": "63n2m0e",
       "Name": "Perk Up",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "QUESTS_COMPLETE",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:07:15.1441078+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:06:28.9538972+00:00",
   "LastUpdate_AppInfo": "2023-09-06T06:57:21.790346+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:58:49.7331832+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:07:15.1441211+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:58:31.3529266+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:06:28.9539113+00:00"
 }

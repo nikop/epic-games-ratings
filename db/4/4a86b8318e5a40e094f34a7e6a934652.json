@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 107,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -469,9 +469,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "BRING_MARY",
@@ -517,9 +517,9 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -565,9 +565,9 @@
       "ID": "PREPARE_10_COFFEE",
       "SetID": "aniflfk",
       "Name": "Barista",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REMOVE_100_WEEDS",
@@ -589,9 +589,9 @@
       "ID": "SLEEP_50_HOURS",
       "SetID": "aniflfk",
       "Name": "Sleepyhead",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -605,9 +605,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:04:49.6425621+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:04:36.3452589+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:58:49.5778346+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:04:49.6425766+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:58:31.1471774+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:04:36.3452725+00:00"
 }

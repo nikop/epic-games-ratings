@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7354,10 +7354,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 42679,
       "NumberOfAwardsMax": 22422
+    },
+    {
+      "Time": "2023-09-09T20:58:48.4850512+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 42694,
+      "NumberOfAwardsMax": 22422
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42679,
+  "NumberOfAwards": 42694,
   "NumberOfAwardsMax": 22422,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7389,7 +7395,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1039
+      "Count": 1045
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7419,7 +7425,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 996
+      "Count": 1005
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7434,9 +7440,9 @@
       "Count": 624
     }
   ],
-  "EOS_Progressed": 296140,
+  "EOS_Progressed": 296145,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 3458,
+  "EOS_NewPlayers": 3413,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22834,6 +22840,11 @@
       "Time": "2023-09-09T20:07:27.9290469+00:00",
       "NumProgressed": 296140,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-09-09T21:06:40.0701333+00:00",
+      "NumProgressed": 296145,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 45,
@@ -22965,7 +22976,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32575
+      "UsersEstimate": 32576
     },
     {
       "ID": "PFA_24",
@@ -23133,7 +23144,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17768
+      "UsersEstimate": 17769
     },
     {
       "ID": "PFA_43",
@@ -23149,7 +23160,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23691
+      "UsersEstimate": 23692
     },
     {
       "ID": "PFA_45",
@@ -23173,7 +23184,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38498
+      "UsersEstimate": 38499
     },
     {
       "ID": "PFA_7",
@@ -23189,7 +23200,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32575
+      "UsersEstimate": 32576
     },
     {
       "ID": "PFA_9",
@@ -23197,23 +23208,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23691
+      "UsersEstimate": 23692
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296140,
+      "Progressed": 296145,
       "Completed": 469
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-09T19:59:13.7063908+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:07:27.9290462+00:00",
+  "LastChanged": "2023-09-09T20:58:48.4850511+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:06:40.0701329+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:59:13.7063914+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:07:27.9291503+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:58:48.4850516+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:06:40.0702399+00:00"
 }

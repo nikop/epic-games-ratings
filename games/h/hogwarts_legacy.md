@@ -6,10 +6,10 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,460 |
-| First Class Student | 13.00% | ~38,498 |
+| First Class Student | 13.00% | ~38,499 |
 | Troll with the Punches | 12.00% | ~35,537 |
-| A Keen Sense of Spell | 11.00% | ~32,575 |
-| That's a Keeper | 11.00% | ~32,575 |
+| A Keen Sense of Spell | 11.00% | ~32,576 |
+| That's a Keeper | 11.00% | ~32,576 |
 | Grappling with a Graphorn | 10.00% | ~29,614 |
 | The One Who Mastered Memories | 10.00% | ~29,614 |
 | The Hallowed Hero | 10.00% | ~29,614 |
@@ -20,13 +20,13 @@ Rating: 4.77 (Ranked 109)
 | The Hero of Hogwarts | 9.00% | ~26,653 |
 | Challenge Accepted | 9.00% | ~26,653 |
 | Followed the Butterflies | 9.00% | ~26,653 |
-| The Spell Master | 8.00% | ~23,691 |
-| Rising From the Ashes | 8.00% | ~23,691 |
+| The Spell Master | 8.00% | ~23,692 |
+| Rising From the Ashes | 8.00% | ~23,692 |
 | The Avenging Gazelle | 7.00% | ~20,730 |
 | Beast Friends | 7.00% | ~20,730 |
 | A Sallow Grave | 7.00% | ~20,730 |
 | Flight the Good Flight | 7.00% | ~20,730 |
-| Raising Expectations | 6.00% | ~17,768 |
+| Raising Expectations | 6.00% | ~17,769 |
 | The Seeker of Knowledge | 5.00% | ~14,807 |
 | The Root of the Problem | 5.00% | ~14,807 |
 | Third Time's a Charm | 5.00% | ~14,807 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,777 |
 | Collector's Edition | 0.30% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,140 (Ranked 43)  
+Progressed: 296,145 (Ranked 43)  
 Completed: 469 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,19 +193,19 @@ Completed: 469 (0.16%) (Ranked 200)
 | 2023-09-06 | 295,304 | 465 |
 | 2023-09-07 | 295,758 | 468 |
 | 2023-09-08 | 295,981 | 469 |
-| 2023-09-09 | 296,140 | 469 |
+| 2023-09-09 | 296,145 | 469 |
 ## Awards
 Max (Character Customization): 22,422  (Ranked 17)  
-Sum: 42,679 (Ranked 30)  
+Sum: 42,694 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 22,422 |
 | This game has Great Boss Battles | 10,951 |
-| This game is Great for Beginners | 1,039 |
+| This game is Great for Beginners | 1,045 |
+| This game has Amazing Storytelling | 1,005 |
 | This game is Extremely Fun | 1,003 |
 | This game is Relaxing | 999 |
-| This game has Amazing Storytelling | 996 |
 | This game has Diverse Characters | 992 |
 | This game has Amazing Characters | 967 |
 | This game is Highly Recommended | 954 |
@@ -384,4 +384,4 @@ Diff (max vs sum): -13
 | 2023-09-06 | 4.77 | 22,280 | 42,371 |
 | 2023-09-07 | 4.77 | 22,320 | 42,462 |
 | 2023-09-08 | 4.77 | 22,365 | 42,567 |
-| 2023-09-09 | 4.77 | 22,422 | 42,679 |
+| 2023-09-09 | 4.77 | 22,422 | 42,694 |

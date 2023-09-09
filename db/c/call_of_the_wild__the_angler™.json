@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -706,7 +706,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5732,
+  "EOS_Progressed": 5733,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -7191,6 +7191,11 @@
       "Time": "2023-09-09T17:04:08.5529988+00:00",
       "NumProgressed": 5732,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T21:04:19.7711013+00:00",
+      "NumProgressed": 5733,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7202,7 +7207,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4528
+      "UsersEstimate": 4529
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7218,7 +7223,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 3955
+      "UsersEstimate": 3956
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7234,7 +7239,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7250,7 +7255,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 2751
+      "UsersEstimate": 2752
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -7274,7 +7279,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -7481,13 +7486,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5732,
+      "Progressed": 5733,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5104,
+      "Progressed": 5105,
       "Completed": 112
     }
   ],
@@ -7495,8 +7500,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-08T12:01:25.854057+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:04:28.6246483+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:04:19.7711009+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:41.605376+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:57:27.784907+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:04:28.624705+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:57:28.8186177+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:04:19.7711537+00:00"
 }

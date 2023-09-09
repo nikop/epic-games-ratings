@@ -844,9 +844,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12182,
+  "EOS_Progressed": 12183,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10039,6 +10039,11 @@
       "Time": "2023-09-09T20:03:19.0471627+00:00",
       "NumProgressed": 12182,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-09T21:03:24.2749853+00:00",
+      "NumProgressed": 12183,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10050,7 +10055,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9867
+      "UsersEstimate": 9868
     },
     {
       "ID": "ACH02",
@@ -10098,7 +10103,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "ACH08",
@@ -10226,7 +10231,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "ACH24",
@@ -10329,7 +10334,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12182,
+      "Progressed": 12183,
       "Completed": 45
     }
   ],
@@ -10337,8 +10342,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-09T18:02:38.0834172+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:03:19.0471623+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:03:24.274985+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.8211098+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:02:24.9770687+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:03:19.0472261+00:00"
+  "LastUpdate_Ratings": "2023-09-09T21:03:05.5358481+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:03:24.2750497+00:00"
 }

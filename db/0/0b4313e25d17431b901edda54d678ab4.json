@@ -2,10 +2,10 @@
   "ID": "0b4313e25d17431b901edda54d678ab4",
   "Name": "Echo Storm",
   "ProductSlug": "echo-storm-4e5fbe",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
     "PcReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
@@ -276,6 +276,11 @@
       "Time": "2023-09-05T13:11:30.2835935+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T21:03:20.9573811+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -285,7 +290,7 @@
       "ID": "absoluteZero",
       "SetID": "bma0pih",
       "Name": "Absolute Zero",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 4
     },
@@ -295,13 +300,13 @@
       "Name": "Reach",
       "Percentage": 85,
       "XP": 60,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "fastBossKill",
       "SetID": "bma0pih",
       "Name": "Done in time",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -319,7 +324,7 @@
       "Name": "Recruit",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "kill300",
@@ -327,21 +332,21 @@
       "Name": "Soldier",
       "Percentage": 83,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 150,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -349,7 +354,7 @@
       "ID": "leviathan01",
       "SetID": "bma0pih",
       "Name": "Flying death",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 55,
       "UsersEstimate": 37
     },
@@ -405,7 +410,7 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
       "UsersEstimate": 29
     }
@@ -414,14 +419,14 @@
     {
       "ID": "bma0pih",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T13:03:44.3512159+00:00",
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:03:14.7562598+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:03:20.9573808+00:00",
   "LastUpdate_AppInfo": "2023-09-03T16:57:17.2033406+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:02:08.9942207+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:03:14.7564408+00:00"
+  "LastUpdate_Ratings": "2023-09-09T21:00:33.3677353+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:03:20.9573917+00:00"
 }

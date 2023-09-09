@@ -8,7 +8,7 @@ Rating: 4.46 (Ranked 627)
 | In The Zone | 53.00% | ~132,036 |
 | My First Runbow | 50.00% | ~124,562 |
 | It's The Fall | 26.00% | ~64,772 |
-| The Stunner | 22.00% | ~54,807 |
+| The Stunner | 22.00% | ~54,808 |
 | Be Aggressive | 21.00% | ~52,316 |
 | Curator | 20.00% | ~49,825 |
 | Crowning Around | 18.00% | ~44,842 |
@@ -21,7 +21,7 @@ Rating: 4.46 (Ranked 627)
 | Just A Phaze | 7.00% | ~17,439 |
 | Into The Drift | 7.00% | ~17,439 |
 | Ready? Fight! | 7.00% | ~17,439 |
-| Butt Butt | 6.00% | ~14,947 |
+| Butt Butt | 6.00% | ~14,948 |
 | He Who Laughs Last | 3.00% | ~7,474 |
 | Shoo, Cat! | 3.00% | ~7,474 |
 | And You're Okay | 2.00% | ~4,982 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 627)
 | Talent Scout | 0.10% | ~249 |
 | True Completionist | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,124 (Ranked 48)  
+Progressed: 249,125 (Ranked 48)  
 Completed: 4 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 4 (0.00%) (Ranked 272)
 | 2023-09-06 | 249,015 | 4 |
 | 2023-09-07 | 249,042 | 4 |
 | 2023-09-08 | 249,077 | 4 |
-| 2023-09-09 | 249,124 | 4 |
+| 2023-09-09 | 249,125 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

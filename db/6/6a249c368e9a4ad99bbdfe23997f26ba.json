@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2023-05-03T15:00:00+00:00",
@@ -253,9 +253,9 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A19",
@@ -413,9 +413,9 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "A6",
@@ -460,8 +460,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:04:48.4354355+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:04:35.3748195+00:00",
   "LastUpdate_AppInfo": "2023-09-05T03:56:58.9476056+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:58:20.5393122+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:04:48.4354576+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:58:09.3213254+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:04:35.3748414+00:00"
 }

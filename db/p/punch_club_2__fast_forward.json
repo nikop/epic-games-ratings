@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 321,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -1327,9 +1327,9 @@
       "ID": "courier_win",
       "SetID": "69co12a",
       "Name": "Legal courier",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "fight_defeat_1",
@@ -1351,9 +1351,9 @@
       "ID": "fight_win_10",
       "SetID": "69co12a",
       "Name": "Fighting is cool",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 225
     },
     {
       "ID": "fight_win_25",
@@ -1503,9 +1503,9 @@
       "ID": "league_3",
       "SetID": "69co12a",
       "Name": "Absolute Champion!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "lil_bobo_fight",
@@ -1766,8 +1766,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:05:47.1311165+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:05:21.7922119+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:22.6953156+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:58:33.0326129+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:05:47.1311762+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:58:18.7180825+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:05:21.7922689+00:00"
 }

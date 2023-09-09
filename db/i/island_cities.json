@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 615,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 15.15,
+  "EOS_Completed_Percentage": 15.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2618,6 +2618,11 @@
       "Time": "2023-09-09T20:05:08.9488035+00:00",
       "NumProgressed": 614,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-09-09T21:04:51.4428324+00:00",
+      "NumProgressed": 615,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 22,
@@ -2627,9 +2632,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 589
+      "UsersEstimate": 597
     },
     {
       "ID": "LEVEL_002",
@@ -2637,7 +2642,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "LEVEL_003",
@@ -2645,7 +2650,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "LEVEL_004",
@@ -2677,7 +2682,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "LEVEL_008",
@@ -2685,7 +2690,7 @@
       "Name": "Passion for sports",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_009",
@@ -2699,9 +2704,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 160
+      "UsersEstimate": 166
     },
     {
       "ID": "LEVEL_011",
@@ -2749,7 +2754,7 @@
       "Name": "The beach is right there",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "LEVEL_017",
@@ -2757,7 +2762,7 @@
       "Name": "Commuting",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "LEVEL_018",
@@ -2804,7 +2809,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 615,
       "Completed": 93
     }
   ],
@@ -2812,8 +2817,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:05:08.9488031+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:04:51.4428319+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:59:51.8658937+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:05:08.9488297+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:59:16.5714073+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:04:51.4428598+00:00"
 }

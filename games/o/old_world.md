@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.90% | ~124 |
 | Subjugator | 0.90% | ~124 |
 | Circus Maximus | 0.90% | ~124 |
+| Church of the Holy Sepulchre | 0.90% | ~124 |
 | Redemption | 0.90% | ~124 |
 | Ambition Victory | 0.90% | ~124 |
 | Double Victory | 0.90% | ~124 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.80% | ~111 |
 | Landowners | 0.80% | ~111 |
 | Riders | 0.80% | ~111 |
-| Church of the Holy Sepulchre | 0.80% | ~111 |
 | Adur Burzen-Mihr | 0.80% | ~111 |
 | Assyrian Paganism | 0.80% | ~111 |
 | Industrial Progress | 0.80% | ~111 |
@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
 | Ancient | 0.40% | ~55 |
+| Glorious Difficulty | 0.40% | ~55 |
 | The Eternal Treaty | 0.40% | ~55 |
 | Persia | 0.40% | ~55 |
 | Capturing Cities | 0.40% | ~55 |
@@ -152,7 +153,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
 | Bronze Victory (Carthage 1) | 0.30% | ~41 |
-| Glorious Difficulty | 0.30% | ~41 |
 | Magnificent Difficulty | 0.30% | ~41 |
 | Event Level High | 0.30% | ~41 |
 | Run, Pheidippides, Run! | 0.30% | ~41 |

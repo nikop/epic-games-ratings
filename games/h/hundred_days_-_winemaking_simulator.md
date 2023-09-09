@@ -6,21 +6,21 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 35.00% | ~754 |
-| It's a good start | 8.00% | ~172 |
-| Quack | 7.00% | ~151 |
-| Bonjour! | 6.00% | ~129 |
+| Bye Bye | 35.00% | ~758 |
+| It's a good start | 8.00% | ~173 |
+| Quack | 7.00% | ~152 |
+| Bonjour! | 6.00% | ~130 |
 | The Assistant | 5.00% | ~108 |
 | The Blue Marl | 5.00% | ~108 |
-| Ostinata | 4.00% | ~86 |
-| A long journey | 4.00% | ~86 |
-| Better than nothing? | 4.00% | ~86 |
-| Big Money | 3.00% | ~65 |
+| Ostinata | 4.00% | ~87 |
+| A long journey | 4.00% | ~87 |
+| Better than nothing? | 4.00% | ~87 |
 | Surprise of Langhe | 3.00% | ~65 |
 | Famous | 3.00% | ~65 |
 | What is that? A castle? | 2.00% | ~43 |
 | A lot of space | 2.00% | ~43 |
 | A big garage | 2.00% | ~43 |
+| Big Money | 2.00% | ~43 |
 | Millionaire | 2.00% | ~43 |
 | Exotic | 2.00% | ~43 |
 | Keep the doctor away | 2.00% | ~43 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~4 |
 | Master Winemaker | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,154 (Ranked 178)  
+Progressed: 2,166 (Ranked 178)  
 Completed: 3 (0.14%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,15 +53,15 @@ Completed: 3 (0.14%) (Ranked 208)
 | 2023-09-06 | 1,601 | 3 |
 | 2023-09-07 | 1,773 | 3 |
 | 2023-09-08 | 1,956 | 3 |
-| 2023-09-09 | 2,154 | 3 |
+| 2023-09-09 | 2,166 | 3 |
 ## Awards
-Max (Relaxing): 203  (Ranked 273)  
-Sum: 1,459 (Ranked 224)  
+Max (Relaxing): 204  (Ranked 273)  
+Sum: 1,460 (Ranked 224)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
+| This game is Relaxing | 204 |
 | This game is Extremely Fun | 203 |
-| This game is Relaxing | 203 |
 | This game has Quickly Understood Controls | 201 |
 | This game is Great for Beginners | 198 |
 | This game is Highly Recommended | 193 |
@@ -125,3 +125,4 @@ Diff (max vs sum): 49
 | 2023-09-02 | 4.35 | - | 203 | 1,458 |
 | 2023-09-04 | 4.34 | - | 203 | 1,458 |
 | 2023-09-07 | 4.34 | - | 203 | 1,459 |
+| 2023-09-09 | 4.34 | - | 204 | 1,460 |

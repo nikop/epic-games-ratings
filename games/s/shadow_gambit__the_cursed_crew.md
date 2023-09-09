@@ -16,7 +16,7 @@ Rating: 4.73 (Ranked 162)
 | Mirror Mirror on the Wall | 27.00% | ~167 |
 | Pirates Assemble! | 24.00% | ~149 |
 | Buccaneer | 22.00% | ~136 |
-| Fishy Fish | 21.00% | ~130 |
+| Fishy Fish | 22.00% | ~136 |
 | Seadog | 17.00% | ~105 |
 | All Good Things | 16.00% | ~99 |
 | Persistent Parasite | 16.00% | ~99 |

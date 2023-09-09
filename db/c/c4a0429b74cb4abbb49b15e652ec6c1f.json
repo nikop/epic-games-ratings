@@ -4,8 +4,8 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-12T02:00:00+00:00",
     "PcReleaseDate": "2023-07-12T02:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1426,6 +1426,11 @@
       "Time": "2023-09-09T18:06:19.3838218+00:00",
       "NumProgressed": 342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T21:05:29.3588285+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -1492,9 +1497,9 @@
       "ID": "pianist",
       "SetID": "5fi1i42",
       "Name": "Pianist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 34
     },
     {
       "ID": "platformer_player",
@@ -1589,14 +1594,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:05:56.3358718+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:05:29.3588281+00:00",
   "LastUpdate_AppInfo": "2023-09-07T09:57:19.8492042+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:58:51.3534127+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:05:56.3358878+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:58:32.6753583+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:05:29.358847+00:00"
 }

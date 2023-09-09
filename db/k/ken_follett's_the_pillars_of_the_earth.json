@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15106,
+  "EOS_Progressed": 15108,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -9840,6 +9840,11 @@
       "Time": "2023-09-09T19:05:20.1134927+00:00",
       "NumProgressed": 15106,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-09T21:05:05.9017662+00:00",
+      "NumProgressed": 15108,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9867,7 +9872,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "tpote_achievement_12",
@@ -9891,7 +9896,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "tpote_achievement_15",
@@ -9939,7 +9944,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "tpote_achievement_20",
@@ -9963,7 +9968,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3022
     },
     {
       "ID": "tpote_achievement_23",
@@ -10027,7 +10032,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4834
+      "UsersEstimate": 4835
     },
     {
       "ID": "tpote_achievement_30",
@@ -10067,7 +10072,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "tpote_achievement_35",
@@ -10115,7 +10120,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6193
+      "UsersEstimate": 6194
     },
     {
       "ID": "tpote_achievement_40",
@@ -10139,7 +10144,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "tpote_achievement_6",
@@ -10147,7 +10152,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "tpote_achievement_7",
@@ -10155,7 +10160,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "tpote_achievement_8",
@@ -10163,7 +10168,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3324
     },
     {
       "ID": "tpote_achievement_9",
@@ -10171,22 +10176,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5287
+      "UsersEstimate": 5288
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15106,
+      "Progressed": 15108,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-08-03T13:08:30.3350415+00:00",
-  "LastChanged_Achievements": "2023-09-09T20:05:27.0260496+00:00",
+  "LastChanged_Achievements": "2023-09-09T21:05:05.9017656+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.6037792+00:00",
-  "LastUpdate_Ratings": "2023-09-09T19:57:26.2610899+00:00",
-  "LastUpdate_Achievements": "2023-09-09T20:05:27.0261173+00:00"
+  "LastUpdate_Ratings": "2023-09-09T20:57:27.8449459+00:00",
+  "LastUpdate_Achievements": "2023-09-09T21:05:05.901839+00:00"
 }
