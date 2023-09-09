@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 533,143 | 4.49 | 579 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 305,196 | 4.68 | 241 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 223,240 | 4.68 | 241 |
-| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 199,160 | 4.19 | 873 |
+| 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 199,461 | 4.19 | 873 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 174,467 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 147,833 | 4.51 | 547 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 115,982 | 4.69 | 217 |
@@ -78,10 +78,10 @@
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,433 | 4.56 | 470 |
 | 77 | [SMITE](games/s/smite.md) | 4,251 | 4.44 | 649 |
 | 78 | [God of War](games/g/god_of_war.md) | 4,246 | 4.88 | 19 |
-| 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,120 | 4.51 | 547 |
+| 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,121 | 4.51 | 547 |
 | 80 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,968 | 4.68 | 241 |
 | 81 | [Days Gone](games/d/days_gone.md) | 3,933 | 4.68 | 241 |
-| 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,861 | 4.57 | 451 |
+| 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,867 | 4.57 | 451 |
 | 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,755 | 4.28 | 815 |
 | 84 | [League of Legends](games/l/league_of_legends.md) | 3,704 | 4.21 | 858 |
 | 85 | [Paladins](games/p/paladins.md) | 3,596 | 4.34 | 764 |
@@ -91,7 +91,7 @@
 | 89 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,469 | 3.98 | 947 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,346 | 4.68 | 241 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,324 | 4.76 | 117 |
-| 92 | [Trackmania](games/t/trackmania.md) | 3,271 | 4.67 | 259 |
+| 92 | [Trackmania](games/t/trackmania.md) | 3,278 | 4.67 | 259 |
 | 93 | [Hades](games/h/hades.md) | 3,254 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,247 | 4.57 | 451 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,741 | 4.51 | 547 |
@@ -108,7 +108,7 @@
 | 106 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,205 | 4.41 | 691 |
 | 107 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,149 | 4.37 | 741 |
 | 108 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,989 | 4.49 | 579 |
-| 109 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 1,956 | 4.33 | 774 |
+| 109 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 1,986 | 4.33 | 774 |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,915 | 4.66 | 280 |
 | 111 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,888 | 4.90 | 8 |
 | 112 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,880 | 4.70 | 201 |
@@ -252,7 +252,7 @@
 | 250 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 264 | 4.84 | 49 |
 | 251 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 261 | 4.58 | 431 |
 | 252 | [MudRunner](games/m/mudrunner.md) | 256 | 4.61 | 368 |
-| 253 | [Roller Champions™](games/r/roller_champions™.md) | 253 | 4.34 | 764 |
+| 253 | [Roller Champions™](games/r/roller_champions™.md) | 254 | 4.34 | 764 |
 | 254 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 251 | 4.49 | 579 |
 | 255 | [Hello Neighbor](games/h/hello_neighbor.md) | 250 | 4.55 | 488 |
 | 256 | [Crysis Remastered](games/c/crysis_remastered.md) | 248 | 4.41 | 691 |
@@ -496,14 +496,14 @@
 | 494 | [Fez](games/f/fez.md) | 23 | 4.72 | 174 |
 | 494 | [Madden NFL 23](games/m/madden_nfl_23.md) | 23 | 4.29 | 804 |
 | 494 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 23 | 4.49 | 579 |
-| 497 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 22 | 4.86 | 31 |
-| 497 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 834 |
-| 497 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 866 |
-| 497 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.54 | 505 |
-| 497 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 19 |
-| 497 | [Tunche](games/t/tunche.md) | 22 | 4.43 | 665 |
-| 497 | [Void Bastards](games/v/void_bastards.md) | 22 | 4.60 | 392 |
-| 497 | [We Were Here Forever](games/w/we_were_here_forever.md) | 22 | 4.66 | 280 |
+| 494 | [Tunche](games/t/tunche.md) | 23 | 4.43 | 665 |
+| 498 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 22 | 4.86 | 31 |
+| 498 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 834 |
+| 498 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 866 |
+| 498 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.54 | 505 |
+| 498 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 19 |
+| 498 | [Void Bastards](games/v/void_bastards.md) | 22 | 4.60 | 392 |
+| 498 | [We Were Here Forever](games/w/we_were_here_forever.md) | 22 | 4.66 | 280 |
 | 505 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 333 |
 | 505 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.52 | 532 |
 | 505 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 21 | 4.00 | 940 |
