@@ -6,17 +6,17 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,559 |
-| Where's that freaking Dwarf? | 4.00% | ~8,905 |
-| Alt+F4 | 4.00% | ~8,905 |
-| Déjà vu | 3.00% | ~6,678 |
-| Sock! SOCK! | 3.00% | ~6,678 |
-| Way of the Wimp | 2.00% | ~4,452 |
-| A beer, two curses, three companions | 2.00% | ~4,452 |
-| GG EZ | 2.00% | ~4,452 |
-| DM intervention | 2.00% | ~4,452 |
-| Speedrun | 2.00% | ~4,452 |
-| Fireproof Wizardess | 2.00% | ~4,452 |
+| Sowwy! | 29.00% | ~64,566 |
+| Where's that freaking Dwarf? | 4.00% | ~8,906 |
+| Alt+F4 | 4.00% | ~8,906 |
+| Déjà vu | 3.00% | ~6,679 |
+| Sock! SOCK! | 3.00% | ~6,679 |
+| Way of the Wimp | 2.00% | ~4,453 |
+| A beer, two curses, three companions | 2.00% | ~4,453 |
+| GG EZ | 2.00% | ~4,453 |
+| DM intervention | 2.00% | ~4,453 |
+| Speedrun | 2.00% | ~4,453 |
+| Fireproof Wizardess | 2.00% | ~4,453 |
 | Livin' in a dwarven paradise | 1.00% | ~2,226 |
 | Shiny and Crôm | 1.00% | ~2,226 |
 | The plot thickens... At the tavern | 1.00% | ~2,226 |
@@ -45,8 +45,8 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 0.60% | ~1,336 |
 | Gargantua | 0.50% | ~1,113 |
 | In Navalu's footsteps | 0.50% | ~1,113 |
-| We come in peace | 0.40% | ~890 |
-| Lëgal Legend | 0.40% | ~890 |
+| We come in peace | 0.40% | ~891 |
+| Lëgal Legend | 0.40% | ~891 |
 | Holistic Adventuring Party | 0.30% | ~668 |
 | An old poacher makes the best gamekeeper | 0.30% | ~668 |
 | Law and Order | 0.30% | ~668 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,616 (Ranked 56)  
+Progressed: 222,640 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
-| 2023-09-09 | 222,616 | 2 |
+| 2023-09-09 | 222,640 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

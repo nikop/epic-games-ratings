@@ -29,15 +29,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Where it Hurts | 0.70% | ~951 |
 | Gild-Gotten Goods | 0.70% | ~951 |
 | Did we pack lunch? | 0.70% | ~951 |
-| On the Path to Greatness | 0.60% | ~815 |
-| Ascended | 0.60% | ~815 |
-| Vanity, Verily | 0.60% | ~815 |
-| Blank Page Syndrome | 0.60% | ~815 |
-| Efficient Floor Space | 0.60% | ~815 |
-| Gem Expert | 0.60% | ~815 |
-| Helping Hand | 0.60% | ~815 |
-| Accomplished Merchant | 0.60% | ~815 |
-| Arcane Industries | 0.60% | ~815 |
+| On the Path to Greatness | 0.60% | ~816 |
+| Ascended | 0.60% | ~816 |
+| Vanity, Verily | 0.60% | ~816 |
+| Blank Page Syndrome | 0.60% | ~816 |
+| Efficient Floor Space | 0.60% | ~816 |
+| Gem Expert | 0.60% | ~816 |
+| Helping Hand | 0.60% | ~816 |
+| Accomplished Merchant | 0.60% | ~816 |
+| Arcane Industries | 0.60% | ~816 |
 | Tax not Included | 0.50% | ~680 |
 | Research & Development | 0.50% | ~680 |
 | Fated Encounters | 0.50% | ~680 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,914 (Ranked 68)  
+Progressed: 135,917 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
-| 2023-09-09 | 135,914 | 147 |
+| 2023-09-09 | 135,917 | 147 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 70)  
 Sum: 27,199 (Ranked 48)  

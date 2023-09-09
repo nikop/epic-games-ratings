@@ -2,13 +2,13 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: F.O.A.D.",
   "ProductSlug": "crsed-f-o-a-d",
-  "Ranking_Rating": 747,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "NumberOfRatings": 464,
   "RatingHistory": [
     {
@@ -1147,6 +1147,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 639,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-09-09T17:57:57.7938389+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 639,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
@@ -1244,8 +1250,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2023-09-08T17:57:42.5578778+00:00",
+  "LastChanged": "2023-09-09T17:57:57.7938387+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.9258365+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:57:41.5081574+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:06:11.3976681+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:57:57.7938394+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:07:33.8088666+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3128,9 +3128,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51583,
+  "EOS_Progressed": 51584,
   "EOS_Completed": 230,
-  "EOS_NewPlayers": 990,
+  "EOS_NewPlayers": 964,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -11563,6 +11563,11 @@
       "Time": "2023-09-09T17:04:01.1948496+00:00",
       "NumProgressed": 51583,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2023-09-09T18:04:33.0530146+00:00",
+      "NumProgressed": 51584,
+      "NumCompleted": 230
     }
   ],
   "TotalAchievements": 45,
@@ -11582,7 +11587,7 @@
       "Name": "\u0027\u0027You may fire when ready\u0027\u0027",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "COLLECT_EVERY_DATACARD",
@@ -11590,7 +11595,7 @@
       "Name": "\u0027\u0027What have you done with those plans?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "COMBAT_MULTIPLIER_OF_30",
@@ -11630,7 +11635,7 @@
       "Name": "\u0027\u0027GONK!\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "COMPLETE_ALL_HUB_RACES",
@@ -11686,7 +11691,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30434
+      "UsersEstimate": 30435
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -11694,7 +11699,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 23728
+      "UsersEstimate": 23729
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -11702,7 +11707,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20634
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -11758,7 +11763,7 @@
       "Name": "\u0027\u0027Hey, what are you trying to push on us?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING",
@@ -11766,7 +11771,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29402
+      "UsersEstimate": 29403
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -11790,7 +11795,7 @@
       "Name": "The Slice",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "COMPLETE_SKYWALKER_SAGA",
@@ -11814,7 +11819,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 29918
+      "UsersEstimate": 29919
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -11838,7 +11843,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 49520
+      "UsersEstimate": 49521
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -11878,7 +11883,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36624
+      "UsersEstimate": 36625
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -11910,7 +11915,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27339
+      "UsersEstimate": 27340
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -11933,15 +11938,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51583,
+      "Progressed": 51584,
       "Completed": 230
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-09T16:58:05.0380161+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:04:01.1948492+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:04:33.053014+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.2145974+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:58:05.0380167+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:04:01.1949208+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:58:31.6744633+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:04:33.0531936+00:00"
 }

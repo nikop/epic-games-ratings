@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 36.00% | ~40 |
-| Welcome to the Tower | 34.00% | ~37 |
+| Welcome to the Tower | 35.00% | ~38 |
 | The great escape | 31.00% | ~34 |
 | The Preacher's fate | 30.00% | ~33 |
-| A new dawn | 23.00% | ~25 |
+| A new dawn | 25.00% | ~28 |
 | A good beginning | 20.00% | ~22 |
 | Scholar | 20.00% | ~22 |
 | The darkness | 20.00% | ~22 |
@@ -16,16 +16,16 @@
 | True G4M3R | 18.00% | ~20 |
 | Cable guy | 17.00% | ~19 |
 | Champollion | 16.00% | ~18 |
+| Half the way | 15.00% | ~16 |
 | Feels like springtime | 15.00% | ~16 |
 | Rascal | 15.00% | ~16 |
-| Half the way | 14.00% | ~15 |
-| In this together | 13.00% | ~14 |
+| In this together | 14.00% | ~15 |
+| Open door | 14.00% | ~15 |
 | Peace walker | 13.00% | ~14 |
-| Open door | 13.00% | ~14 |
 | Free at last | 12.00% | ~13 |
-| Alchemists Express | 11.00% | ~12 |
+| Alchemists Express | 12.00% | ~13 |
+| Fashion victim | 12.00% | ~13 |
 | A Link to the Past | 10.00% | ~11 |
-| Fashion victim | 10.00% | ~11 |
 | I did it | 9.00% | ~10 |
 | A great audience | 7.00% | ~8 |
 | For its own good | 7.00% | ~8 |

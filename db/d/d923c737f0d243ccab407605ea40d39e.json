@@ -4,8 +4,8 @@
   "ProductSlug": "911-operator-585edd",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2017-02-24T11:00:00+00:00",
@@ -194,8 +194,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:03:10.2520651+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:03:22.0386405+00:00",
   "LastUpdate_AppInfo": "2023-09-07T14:57:38.8749037+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:57:35.4469859+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:03:10.252076+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:57:48.5509225+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:03:22.0386527+00:00"
 }

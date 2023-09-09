@@ -38,7 +38,7 @@ Rating: 4.15 (Ranked 898)
 | Realized Potential | 0.70% | ~279 |
 | Awakening | 0.60% | ~239 |
 | Explorer: Trailblazer | 0.60% | ~239 |
-| Through the Eyes of Another: Seer | 0.50% | ~199 |
+| Through the Eyes of Another: Seer | 0.50% | ~200 |
 | Archivist | 0.30% | ~120 |
 | Craftsperson | 0.30% | ~120 |
 | Tit for Tat | 0.30% | ~120 |
@@ -59,8 +59,8 @@ Rating: 4.15 (Ranked 898)
 | Remembrance | 0.10% | ~40 |
 | Cat Person | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,899 (Ranked 95)  
-Completed: 3 (0.01%) (Ranked 258)  
+Progressed: 39,900 (Ranked 95)  
+Completed: 3 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,7 +201,7 @@ Completed: 3 (0.01%) (Ranked 258)
 | 2023-09-06 | 39,879 | 3 |
 | 2023-09-07 | 39,887 | 3 |
 | 2023-09-08 | 39,893 | 3 |
-| 2023-09-09 | 39,899 | 3 |
+| 2023-09-09 | 39,900 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 472)  
 Sum: 27 (Ranked 486)  

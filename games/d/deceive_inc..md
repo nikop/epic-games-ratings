@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 488)
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,928 (Ranked 113)  
-Completed: 1 (0.01%) (Ranked 258)  
+Completed: 1 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,15 +6,15 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~214,459 |
-| I know the Rules | 37.00% | ~96,768 |
-| Contender | 10.00% | ~26,154 |
-| I Found it! | 10.00% | ~26,154 |
-| First but not Last | 4.00% | ~10,461 |
+| Ball Launched | 82.00% | ~214,471 |
+| I know the Rules | 37.00% | ~96,774 |
+| Contender | 10.00% | ~26,155 |
+| I Found it! | 10.00% | ~26,155 |
+| First but not Last | 4.00% | ~10,462 |
 | Ready Steady Score | 3.00% | ~7,846 |
 | Dress Code | 3.00% | ~7,846 |
 | Full Loot Madness | 2.00% | ~5,231 |
-| My Table, my Rules | 1.00% | ~2,615 |
+| My Table, my Rules | 1.00% | ~2,616 |
 | Nine Zeroes | 0.90% | ~2,354 |
 | Shiny Memento | 0.30% | ~785 |
 | Pinball Hoarder | 0.30% | ~785 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,535 (Ranked 46)  
+Progressed: 261,550 (Ranked 46)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 260,593 | 0 |
 | 2023-09-07 | 260,877 | 0 |
 | 2023-09-08 | 261,264 | 0 |
-| 2023-09-09 | 261,535 | 0 |
+| 2023-09-09 | 261,550 | 0 |
 ## Awards
 Max (Great for Beginners): 188  (Ranked 279)  
 Sum: 1,545 (Ranked 221)  

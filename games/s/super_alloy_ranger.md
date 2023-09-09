@@ -14,19 +14,19 @@
 | Stop Right There | 31.00% | ~21 |
 | Get to the Point | 31.00% | ~21 |
 | The Hidden Secret | 16.00% | ~11 |
+| Mr. Want It All | 16.00% | ~11 |
 | Toe to Toe | 16.00% | ~11 |
-| Mr. Want It All | 15.00% | ~10 |
 | Phew! | 15.00% | ~10 |
-| Grand Escape | 12.00% | ~8 |
-| Space Warrior: Prologue | 12.00% | ~8 |
+| Grand Escape | 13.00% | ~9 |
+| Space Warrior: Prologue | 13.00% | ~9 |
 | The Abyss Conqueror | 9.00% | ~6 |
 | Keep it Up, rookie! | 9.00% | ~6 |
+| he Ultra Fortress Conqueror | 7.00% | ~5 |
+| Antaeus | 7.00% | ~5 |
 | Decapitation Strike | 7.00% | ~5 |
 | The Fortress Conqueror | 6.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~4 |
-| he Ultra Fortress Conqueror | 6.00% | ~4 |
 | Rapidfire | 6.00% | ~4 |
-| Antaeus | 6.00% | ~4 |
 | Air Interception | 6.00% | ~4 |
 | Hell of a Fight | 6.00% | ~4 |
 | The Deep Frozen Conqueror | 4.00% | ~3 |

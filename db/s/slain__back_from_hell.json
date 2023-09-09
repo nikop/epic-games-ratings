@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36246,
+  "EOS_Progressed": 36253,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 507,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15887,6 +15887,11 @@
       "Time": "2023-09-09T17:06:16.6940247+00:00",
       "NumProgressed": 36246,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-09T18:07:40.387425+00:00",
+      "NumProgressed": 36253,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -15898,7 +15903,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -15906,7 +15911,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 7249
+      "UsersEstimate": 7251
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -15914,7 +15919,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -15954,7 +15959,7 @@
       "Name": "Flame Retardant",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -15962,7 +15967,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -15970,7 +15975,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -16050,7 +16055,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -16129,7 +16134,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36246,
+      "Progressed": 36253,
       "Completed": 23
     }
   ],
@@ -16137,8 +16142,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:06:16.6940242+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:07:40.3874248+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.5463786+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:57:19.8526042+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:06:16.6941181+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:57:25.0987922+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:07:40.3875459+00:00"
 }

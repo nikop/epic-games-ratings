@@ -3,12 +3,12 @@
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
   "Ranking_Rating": 19,
-  "Ranking_Popularity": 33,
+  "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -10298,11 +10298,17 @@
       "Rating": 4.88,
       "NumberOfAwards": 94782,
       "NumberOfAwardsMax": 11392
+    },
+    {
+      "Time": "2023-09-09T17:57:19.9348379+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 94835,
+      "NumberOfAwardsMax": 11417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 94782,
-  "NumberOfAwardsMax": 11392,
+  "NumberOfAwards": 94835,
+  "NumberOfAwardsMax": 11417,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -10327,7 +10333,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 10316
+      "Count": 10330
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10339,13 +10345,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 11392
+      "Count": 11417
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 9509
+      "Count": 9523
     },
     {
       "Text": "This game has Easy Combat",
@@ -10383,8 +10389,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
-  "LastChanged": "2023-09-09T11:00:13.8152759+00:00",
+  "LastChanged": "2023-09-09T17:57:19.9348377+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.6706527+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:57:16.201933+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:06:24.8910433+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:57:19.9348384+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:07:52.2845121+00:00"
 }

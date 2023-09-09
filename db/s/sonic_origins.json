@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -295,7 +295,7 @@
   ],
   "EOS_Progressed": 456,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 8.99,
   "EosHistory": [
@@ -2011,9 +2011,9 @@
       "ID": "ID_09_SONIC2_DEFEAT_STINGER",
       "SetID": "7o8nc5m",
       "Name": "Beware Stingers!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 205
     },
     {
       "ID": "ID_10_SONIC2_WIN_THE_JACKPOT",
@@ -2235,8 +2235,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-08-31T01:41:09.6034532+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:04:43.9846831+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:05:30.2776458+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.7477215+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:59:12.1456298+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:04:43.9847126+00:00"
+  "LastUpdate_Ratings": "2023-09-09T18:00:08.537469+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:05:30.2776787+00:00"
 }

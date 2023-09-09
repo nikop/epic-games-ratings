@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1206,9 +1206,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 244
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -1333,8 +1333,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:06:43.631233+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:08:18.8245398+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.967565+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:57:15.224975+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:06:43.6312512+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:57:18.2507712+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:08:18.824563+00:00"
 }

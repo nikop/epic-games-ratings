@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~44,969 |
-| Worth it | 63.00% | ~36,321 |
-| Eagle Eye | 55.00% | ~31,709 |
-| Corpseman I | 40.00% | ~23,061 |
-| Blast fishing | 37.00% | ~21,331 |
-| Not alone | 32.00% | ~18,449 |
-| Headhunter I | 27.00% | ~15,566 |
-| Manual Labour I | 25.00% | ~14,413 |
-| Developers, Developers, Developers | 24.00% | ~13,836 |
-| Basic Training | 24.00% | ~13,836 |
-| Furchtlos und Treu | 13.00% | ~7,495 |
-| Gott Mit Uns | 12.00% | ~6,918 |
+| Setting an example | 78.00% | ~44,975 |
+| Worth it | 63.00% | ~36,326 |
+| Eagle Eye | 55.00% | ~31,713 |
+| Corpseman I | 40.00% | ~23,064 |
+| Blast fishing | 37.00% | ~21,334 |
+| Not alone | 32.00% | ~18,451 |
+| Headhunter I | 27.00% | ~15,568 |
+| Manual Labour I | 25.00% | ~14,415 |
+| Developers, Developers, Developers | 24.00% | ~13,838 |
+| Basic Training | 24.00% | ~13,838 |
+| Furchtlos und Treu | 13.00% | ~7,496 |
+| Gott Mit Uns | 12.00% | ~6,919 |
 | This We'll Defend! | 9.00% | ~5,189 |
 | Anker wirf! | 9.00% | ~5,189 |
 | Providentiea Memor | 9.00% | ~5,189 |
 | For King and Country | 9.00% | ~5,189 |
-| Battle hardened | 8.00% | ~4,612 |
+| Battle hardened | 8.00% | ~4,613 |
 | Semper Fidelis! | 7.00% | ~4,036 |
 | Honneur et Patrie | 7.00% | ~4,036 |
 | In Treue Fest | 5.00% | ~2,883 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~58 |
 | Blood Brother | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,652 (Ranked 89)  
-Completed: 4 (0.01%) (Ranked 258)  
+Progressed: 57,660 (Ranked 89)  
+Completed: 4 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,7 +208,7 @@ Completed: 4 (0.01%) (Ranked 258)
 | 2023-09-06 | 57,397 | 4 |
 | 2023-09-07 | 57,459 | 4 |
 | 2023-09-08 | 57,549 | 4 |
-| 2023-09-09 | 57,652 | 4 |
+| 2023-09-09 | 57,660 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 345)  
 Sum: 772 (Ranked 268)  

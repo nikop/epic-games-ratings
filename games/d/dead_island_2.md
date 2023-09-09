@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 2.00% | ~13,530 |
+| Welcome To Hell-A | 2.00% | ~13,531 |
 | Dr. Reed, I Presume? | 1.00% | ~6,765 |
 | Git Gutte! | 1.00% | ~6,765 |
 | Bookworm | 1.00% | ~6,765 |
@@ -23,7 +23,7 @@ Rating: 4.54 (Ranked 505)
 | Stacking the Deck | 1.00% | ~6,765 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,765 |
 | This is My Weapon | 1.00% | ~6,765 |
-| Slayer Squad | 0.90% | ~6,088 |
+| Slayer Squad | 0.90% | ~6,089 |
 | Anger Management | 0.80% | ~5,412 |
 | Perks of the Job | 0.80% | ~5,412 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,412 |
@@ -38,20 +38,20 @@ Rating: 4.54 (Ranked 505)
 | Jumbo Keyring | 0.40% | ~2,706 |
 | Go, Bobcats! | 0.40% | ~2,706 |
 | Rising Star | 0.40% | ~2,706 |
-| Make it So | 0.30% | ~2,029 |
-| On Safari | 0.30% | ~2,029 |
-| Not Even My Final Form | 0.30% | ~2,029 |
-| Internet Famous | 0.30% | ~2,029 |
-| Variety is the Spice of Death | 0.30% | ~2,029 |
+| Make it So | 0.30% | ~2,030 |
+| On Safari | 0.30% | ~2,030 |
+| Not Even My Final Form | 0.30% | ~2,030 |
+| Internet Famous | 0.30% | ~2,030 |
+| Variety is the Spice of Death | 0.30% | ~2,030 |
 | LA Influential | 0.20% | ~1,353 |
 | Sole Survivor | 0.20% | ~1,353 |
 | Gore Horse | 0.20% | ~1,353 |
 | Sharpest Tool in the Box | 0.20% | ~1,353 |
-| Donk! | 0.10% | ~676 |
-| Survival Skills | 0.10% | ~676 |
-| Bucket List | 0.10% | ~676 |
+| Donk! | 0.10% | ~677 |
+| Survival Skills | 0.10% | ~677 |
+| Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,482 (Ranked 22)  
+Progressed: 676,537 (Ranked 22)  
 Completed: 2,126 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2,126 (0.31%) (Ranked 177)
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
-| 2023-09-09 | 676,482 | 2,126 |
+| 2023-09-09 | 676,537 | 2,126 |
 ## Awards
 Max (Great Boss Battles): 5,969  (Ranked 58)  
 Sum: 8,815 (Ranked 94)  

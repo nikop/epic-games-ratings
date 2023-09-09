@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -338,9 +338,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -418,9 +418,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -569,8 +569,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:08:08.0531063+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:09:21.2529725+00:00",
   "LastUpdate_AppInfo": "2023-09-07T09:57:18.8449647+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:57:50.9269923+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:08:08.0531309+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:58:10.8907229+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:09:21.2530419+00:00"
 }

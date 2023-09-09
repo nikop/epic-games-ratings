@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6434,10 +6434,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31484,
       "NumberOfAwardsMax": 5246
+    },
+    {
+      "Time": "2023-09-09T18:00:26.757721+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31487,
+      "NumberOfAwardsMax": 5246
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31484,
+  "NumberOfAwards": 31487,
   "NumberOfAwardsMax": 5246,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6481,12 +6487,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3404
+      "Count": 3407
     }
   ],
-  "EOS_Progressed": 228131,
+  "EOS_Progressed": 228138,
   "EOS_Completed": 2265,
-  "EOS_NewPlayers": 1460,
+  "EOS_NewPlayers": 1459,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22184,6 +22190,11 @@
       "Time": "2023-09-09T17:02:17.3070956+00:00",
       "NumProgressed": 228131,
       "NumCompleted": 2265
+    },
+    {
+      "Time": "2023-09-09T18:02:46.3215538+00:00",
+      "NumProgressed": 228138,
+      "NumCompleted": 2265
     }
   ],
   "TotalAchievements": 520,
@@ -24345,9 +24356,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "objective_completed_541",
@@ -26354,21 +26365,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194405,
+      "Progressed": 194412,
       "Completed": 3415
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228131,
+      "Progressed": 228138,
       "Completed": 2265
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-09T15:59:08.4262096+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:02:17.307095+00:00",
+  "LastChanged": "2023-09-09T18:00:26.7577208+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:02:46.3215532+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:59:24.2760931+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:02:17.3095387+00:00"
+  "LastUpdate_Ratings": "2023-09-09T18:00:26.7577217+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:02:46.3248275+00:00"
 }

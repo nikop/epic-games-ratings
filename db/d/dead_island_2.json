@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4350,9 +4350,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 676482,
+  "EOS_Progressed": 676537,
   "EOS_Completed": 2126,
-  "EOS_NewPlayers": 4746,
+  "EOS_NewPlayers": 4745,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20255,6 +20255,11 @@
       "Time": "2023-09-09T17:06:43.9974467+00:00",
       "NumProgressed": 676482,
       "NumCompleted": 2126
+    },
+    {
+      "Time": "2023-09-09T18:08:19.2776551+00:00",
+      "NumProgressed": 676537,
+      "NumCompleted": 2126
     }
   ],
   "TotalAchievements": 45,
@@ -20298,7 +20303,7 @@
       "Name": "Make it So",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "ach_big_name_in_town",
@@ -20338,7 +20343,7 @@
       "Name": "On Safari",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "ach_defensive",
@@ -20362,7 +20367,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6088
+      "UsersEstimate": 6089
     },
     {
       "ID": "ach_explorer",
@@ -20402,7 +20407,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "ach_hazardous_materials",
@@ -20434,7 +20439,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ach_internet_famous",
@@ -20442,7 +20447,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "ach_investigator",
@@ -20554,7 +20559,7 @@
       "Name": "Survival Skills",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ach_survival_of_the_fittest",
@@ -20594,7 +20599,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -20602,7 +20607,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13530
+      "UsersEstimate": 13531
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20618,29 +20623,29 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676482,
+      "Progressed": 676537,
       "Completed": 2126
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 2022,
-      "Completed": 2022
+      "Progressed": 2077,
+      "Completed": 2077
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-09T07:00:16.3797819+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:06:43.9974462+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:08:19.2776547+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:59:50.237822+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:06:43.9975474+00:00"
+  "LastUpdate_Ratings": "2023-09-09T18:01:04.8731292+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:08:19.2778539+00:00"
 }

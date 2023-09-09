@@ -32,6 +32,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~456 |
 | Mad Cow Disease | 0.20% | ~456 |
 | Exploring Port Nyanzaru | 0.20% | ~456 |
+| A Tale of Two Cities | 0.20% | ~456 |
 | The Contagious Curse | 0.20% | ~456 |
 | Escort to Waterdeep | 0.20% | ~456 |
 | Waterdeep Detours | 0.20% | ~456 |
@@ -284,7 +285,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~228 |
 | Dino Nightmare | 0.10% | ~228 |
 | A Familiar Friend | 0.10% | ~194 |
-| A Tale of Two Cities | 0.10% | ~228 |
 | A Tale of Two Fiends | 0.10% | ~228 |
 | A Tale of Two Champions | 0.10% | ~228 |
 | A Tale of Two Years | 0.10% | ~194 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,131 (Ranked 54)  
+Progressed: 228,138 (Ranked 54)  
 Completed: 2,265 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -669,10 +669,10 @@ Completed: 2,265 (0.99%) (Ranked 124)
 | 2023-09-06 | 227,606 | 2,257 |
 | 2023-09-07 | 227,831 | 2,259 |
 | 2023-09-08 | 227,989 | 2,263 |
-| 2023-09-09 | 228,131 | 2,265 |
+| 2023-09-09 | 228,138 | 2,265 |
 ## Awards
 Max (Diverse Characters): 5,246  (Ranked 67)  
-Sum: 31,484 (Ranked 38)  
+Sum: 31,487 (Ranked 38)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -682,7 +682,7 @@ Diff (max vs sum): 29
 | This game is Relaxing | 4,643 |
 | This game has Amazing Characters | 4,108 |
 | This game is Highly Recommended | 4,095 |
-| This game has Playful Visuals | 3,404 |
+| This game has Playful Visuals | 3,407 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -912,4 +912,4 @@ Diff (max vs sum): 29
 | 2023-09-06 | 4.06 | - | 5,234 | 31,425 |
 | 2023-09-07 | 4.06 | - | 5,238 | 31,445 |
 | 2023-09-08 | 4.06 | - | 5,246 | 31,480 |
-| 2023-09-09 | 4.06 | - | 5,246 | 31,484 |
+| 2023-09-09 | 4.06 | - | 5,246 | 31,487 |

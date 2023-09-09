@@ -5938,9 +5938,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135914,
+  "EOS_Progressed": 135917,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20543,6 +20543,11 @@
       "Time": "2023-09-09T17:05:50.275205+00:00",
       "NumProgressed": 135914,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-09-09T18:07:02.918859+00:00",
+      "NumProgressed": 135917,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 112,
@@ -20562,7 +20567,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "advlevel03",
@@ -20602,7 +20607,7 @@
       "Name": "Ascended",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ascend02",
@@ -20682,7 +20687,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "boss01",
@@ -20746,7 +20751,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "collection02",
@@ -20962,7 +20967,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "furniture02",
@@ -21018,7 +21023,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "gold01",
@@ -21074,7 +21079,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "help02",
@@ -21146,7 +21151,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "level03",
@@ -21426,7 +21431,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "workers03",
@@ -21449,15 +21454,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135914,
+      "Progressed": 135917,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-09T16:59:54.812119+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:05:50.2752046+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:07:02.9188584+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:59:54.8121196+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:05:50.2753935+00:00"
+  "LastUpdate_Ratings": "2023-09-09T18:01:11.5665283+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:07:02.9192139+00:00"
 }

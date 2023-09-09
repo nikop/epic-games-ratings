@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 228,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1276,
+  "EOS_Progressed": 1277,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4551,6 +4551,11 @@
       "Time": "2023-09-09T17:07:13.6485652+00:00",
       "NumProgressed": 1276,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T18:09:02.3117005+00:00",
+      "NumProgressed": 1277,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4674,7 +4679,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -4808,9 +4813,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 77
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -4865,14 +4870,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1276,
+      "Progressed": 1277,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-09T17:07:13.6485648+00:00",
+  "LastChanged_Achievements": "2023-09-09T18:09:02.3117+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-09T16:58:07.5160698+00:00",
-  "LastUpdate_Achievements": "2023-09-09T17:07:13.6486098+00:00"
+  "LastUpdate_Ratings": "2023-09-09T17:58:35.0078855+00:00",
+  "LastUpdate_Achievements": "2023-09-09T18:09:02.3117678+00:00"
 }
