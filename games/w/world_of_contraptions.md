@@ -8,7 +8,7 @@
 | The first of many | 57.00% | ~153 |
 | Graduated in contraptions | 19.00% | ~51 |
 | First medium level | 8.00% | ~22 |
-| Easy group | 4.00% | ~11 |
+| Easy group | 5.00% | ~13 |
 | Medium group | 1.00% | ~3 |
 | First hard level | 1.00% | ~3 |
 | Hard group | 0.40% | ~1 |

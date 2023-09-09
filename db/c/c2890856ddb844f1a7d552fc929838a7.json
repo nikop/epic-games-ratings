@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 737,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1294,9 +1294,9 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 663
+      "UsersEstimate": 671
     },
     {
       "ID": "AC02",
@@ -1494,9 +1494,9 @@
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 243
     },
     {
       "ID": "AC27",
@@ -1663,8 +1663,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-09T09:58:35.689608+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:07:45.7051399+00:00",
+  "LastChanged_Achievements": "2023-09-09T12:04:32.4233176+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:01:37.4954299+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:07:45.7052088+00:00"
+  "LastUpdate_Ratings": "2023-09-09T11:58:26.2531222+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:04:32.423357+00:00"
 }

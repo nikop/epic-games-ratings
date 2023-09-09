@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 110,
+  "Ranking_Rating": 109,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
@@ -7398,9 +7398,9 @@
       "Count": 624
     }
   ],
-  "EOS_Progressed": 296068,
+  "EOS_Progressed": 296073,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 3875,
+  "EOS_NewPlayers": 3834,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22753,6 +22753,11 @@
       "Time": "2023-09-09T11:10:50.8970125+00:00",
       "NumProgressed": 296068,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-09-09T12:06:45.036956+00:00",
+      "NumProgressed": 296073,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 45,
@@ -22796,7 +22801,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26646
+      "UsersEstimate": 26647
     },
     {
       "ID": "PFA_14",
@@ -22804,7 +22809,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14803
+      "UsersEstimate": 14804
     },
     {
       "ID": "PFA_15",
@@ -22868,7 +22873,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26646
+      "UsersEstimate": 26647
     },
     {
       "ID": "PFA_22",
@@ -22884,7 +22889,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32567
+      "UsersEstimate": 32568
     },
     {
       "ID": "PFA_24",
@@ -22900,7 +22905,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14803
+      "UsersEstimate": 14804
     },
     {
       "ID": "PFA_26",
@@ -22932,7 +22937,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14803
+      "UsersEstimate": 14804
     },
     {
       "ID": "PFA_3",
@@ -22988,7 +22993,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26646
+      "UsersEstimate": 26647
     },
     {
       "ID": "PFA_36",
@@ -23044,7 +23049,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14803
+      "UsersEstimate": 14804
     },
     {
       "ID": "PFA_42",
@@ -23068,7 +23073,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23685
+      "UsersEstimate": 23686
     },
     {
       "ID": "PFA_45",
@@ -23100,7 +23105,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35528
+      "UsersEstimate": 35529
     },
     {
       "ID": "PFA_8",
@@ -23108,7 +23113,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32567
+      "UsersEstimate": 32568
     },
     {
       "ID": "PFA_9",
@@ -23116,14 +23121,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23685
+      "UsersEstimate": 23686
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296068,
+      "Progressed": 296073,
       "Completed": 469
     }
   ],
@@ -23131,8 +23136,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-09T08:59:14.0029508+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:10:50.8970119+00:00",
+  "LastChanged_Achievements": "2023-09-09T12:06:45.0369553+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:02:29.8321051+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:10:50.897202+00:00"
+  "LastUpdate_Ratings": "2023-09-09T11:59:00.6395529+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:06:45.0370838+00:00"
 }

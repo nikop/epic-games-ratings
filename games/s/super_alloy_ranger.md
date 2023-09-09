@@ -39,8 +39,8 @@
 | The Sunken City Conqueror | 3.00% | ~2 |
 | The Looping Space Conqueror | 3.00% | ~2 |
 | Break Through the Forbidden | 3.00% | ~2 |
+| Breaking the Limit | 3.00% | ~2 |
 | The Truth? | 3.00% | ~2 |
-| Breaking the Limit | 2.00% | ~1 |
 | Pumped Up | 2.00% | ~1 |
 | Easy Peasy | 2.00% | ~1 |
 | Proliferation | 2.00% | ~1 |

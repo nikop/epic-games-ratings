@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -2433,17 +2433,17 @@
       "ID": "LEVEL_012",
       "SetID": "212bg48",
       "Name": "Vegetables on rails",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 158
     },
     {
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_014",
@@ -2592,8 +2592,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:06:28.0643699+00:00",
+  "LastChanged_Achievements": "2023-09-09T12:03:33.7408783+00:00",
   "LastUpdate_AppInfo": "2023-09-04T20:56:55.1080703+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:02:10.7310497+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:06:28.0644136+00:00"
+  "LastUpdate_Ratings": "2023-09-09T11:58:48.5537869+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:03:33.7409119+00:00"
 }

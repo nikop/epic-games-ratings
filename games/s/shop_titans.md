@@ -23,9 +23,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 0.90% | ~1,223 |
 | The Daily Grind | 0.80% | ~1,087 |
 | Bounty Hunters | 0.80% | ~1,087 |
+| Flooding the Market | 0.80% | ~1,087 |
 | Dungeon Imports | 0.80% | ~1,087 |
 | Demand for Supplies | 0.70% | ~951 |
-| Flooding the Market | 0.70% | ~951 |
 | Where it Hurts | 0.70% | ~951 |
 | Gild-Gotten Goods | 0.70% | ~951 |
 | On the Path to Greatness | 0.60% | ~815 |
@@ -79,6 +79,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.40% | ~544 |
 | Attrition Mission | 0.40% | ~544 |
 | Glittering Collection | 0.40% | ~544 |
+| Moment of Respite | 0.40% | ~544 |
 | Black Friday Special | 0.40% | ~544 |
 | King's Shadow | 0.40% | ~544 |
 | Special Ingredient | 0.40% | ~544 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bountiful Harvest | 0.30% | ~408 |
 | Precision Engineering | 0.30% | ~408 |
 | Treasure Trove | 0.30% | ~408 |
-| Moment of Respite | 0.30% | ~408 |
 | Master Recycler | 0.30% | ~408 |
 | Economy of Scarce | 0.30% | ~408 |
 | King's Blade | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,891 (Ranked 68)  
+Progressed: 135,895 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
-| 2023-09-09 | 135,891 | 147 |
+| 2023-09-09 | 135,895 | 147 |
 ## Awards
 Max (Great for Beginners): 4,730  (Ranked 70)  
 Sum: 27,195 (Ranked 49)  

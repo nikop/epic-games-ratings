@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -3811,9 +3811,9 @@
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
       "SetID": "l546gc",
       "Name": "Houston we have a problem",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 349
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -3980,8 +3980,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-02T18:57:16.3901403+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:10:52.7903542+00:00",
+  "LastChanged_Achievements": "2023-09-09T12:06:46.3233912+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.1992932+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:02:10.7380896+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:10:52.7904365+00:00"
+  "LastUpdate_Ratings": "2023-09-09T11:58:48.5608217+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:06:46.3234431+00:00"
 }

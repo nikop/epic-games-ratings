@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1289,9 +1289,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127414,
+  "EOS_Progressed": 127415,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15389,6 +15389,11 @@
       "Time": "2023-09-09T11:08:44.5528506+00:00",
       "NumProgressed": 127414,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-09T12:05:14.0150483+00:00",
+      "NumProgressed": 127415,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15456,7 +15461,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30579
+      "UsersEstimate": 30580
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -15719,15 +15724,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127414,
+      "Progressed": 127415,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:08:44.5528501+00:00",
+  "LastChanged_Achievements": "2023-09-09T12:05:14.0150477+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:04:45.4979377+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:08:44.5529847+00:00"
+  "LastUpdate_Ratings": "2023-09-09T12:00:32.6108248+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:05:14.0151633+00:00"
 }

@@ -1,15 +1,15 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 110)  
+Rating: 4.77 (Ranked 109)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,450 |
 | First Class Student | 13.00% | ~38,489 |
-| Troll with the Punches | 12.00% | ~35,528 |
-| A Keen Sense of Spell | 11.00% | ~32,567 |
-| That's a Keeper | 11.00% | ~32,567 |
+| Troll with the Punches | 12.00% | ~35,529 |
+| A Keen Sense of Spell | 11.00% | ~32,568 |
+| That's a Keeper | 11.00% | ~32,568 |
 | Grappling with a Graphorn | 10.00% | ~29,607 |
 | The One Who Mastered Memories | 10.00% | ~29,607 |
 | The Hallowed Hero | 10.00% | ~29,607 |
@@ -17,20 +17,20 @@ Rating: 4.77 (Ranked 110)
 | Loom for Improvement | 10.00% | ~29,607 |
 | A Talent for Spending | 10.00% | ~29,607 |
 | Coasting Along | 10.00% | ~29,607 |
-| The Hero of Hogwarts | 9.00% | ~26,646 |
-| Challenge Accepted | 9.00% | ~26,646 |
-| Followed the Butterflies | 9.00% | ~26,646 |
-| The Spell Master | 8.00% | ~23,685 |
-| Rising From the Ashes | 8.00% | ~23,685 |
+| The Hero of Hogwarts | 9.00% | ~26,647 |
+| Challenge Accepted | 9.00% | ~26,647 |
+| Followed the Butterflies | 9.00% | ~26,647 |
+| The Spell Master | 8.00% | ~23,686 |
+| Rising From the Ashes | 8.00% | ~23,686 |
 | The Avenging Gazelle | 7.00% | ~20,725 |
 | Beast Friends | 7.00% | ~20,725 |
 | A Sallow Grave | 7.00% | ~20,725 |
 | Flight the Good Flight | 7.00% | ~20,725 |
 | Raising Expectations | 6.00% | ~17,764 |
-| The Seeker of Knowledge | 5.00% | ~14,803 |
-| The Root of the Problem | 5.00% | ~14,803 |
-| Third Time's a Charm | 5.00% | ~14,803 |
-| The Ends Petrify the Means | 5.00% | ~14,803 |
+| The Seeker of Knowledge | 5.00% | ~14,804 |
+| The Root of the Problem | 5.00% | ~14,804 |
+| Third Time's a Charm | 5.00% | ~14,804 |
+| The Ends Petrify the Means | 5.00% | ~14,804 |
 | The Toast of the Town | 4.00% | ~11,843 |
 | Going Through the Potions | 4.00% | ~11,843 |
 | Room with a View | 4.00% | ~11,843 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 110)
 | The Nature of the Beast | 0.60% | ~1,776 |
 | Collector's Edition | 0.30% | ~888 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,068 (Ranked 43)  
+Progressed: 296,073 (Ranked 43)  
 Completed: 469 (0.16%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 469 (0.16%) (Ranked 200)
 | 2023-09-06 | 295,304 | 465 |
 | 2023-09-07 | 295,758 | 468 |
 | 2023-09-08 | 295,981 | 469 |
-| 2023-09-09 | 296,068 | 469 |
+| 2023-09-09 | 296,073 | 469 |
 ## Awards
 Max (Character Customization): 22,365  (Ranked 17)  
 Sum: 42,573 (Ranked 30)  

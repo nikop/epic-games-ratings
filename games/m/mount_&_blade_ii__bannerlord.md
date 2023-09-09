@@ -1,21 +1,21 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 147)  
+Rating: 4.74 (Ranked 146)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~23,044 |
+| Lawbringer | 38.00% | ~23,045 |
 | Landlord | 32.00% | ~19,406 |
 | Bannerlord | 23.00% | ~13,948 |
 | Horde breaker | 23.00% | ~13,948 |
 | Lawmaker | 23.00% | ~13,948 |
-| Trained | 22.00% | ~13,341 |
+| Trained | 22.00% | ~13,342 |
 | The king is pleased | 18.00% | ~10,916 |
-| King Solomon | 17.00% | ~10,309 |
-| Apple of my eye | 15.00% | ~9,096 |
-| I can do it | 15.00% | ~9,096 |
+| King Solomon | 17.00% | ~10,310 |
+| Apple of my eye | 15.00% | ~9,097 |
+| I can do it | 15.00% | ~9,097 |
 | God of the Arena | 13.00% | ~7,884 |
 | Against all odds | 12.00% | ~7,277 |
 | This Is Our Land | 11.00% | ~6,671 |
@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Dynasty | 9.00% | ~5,458 |
 | I spit on your grave | 9.00% | ~5,458 |
 | What have the Romans ever done for us? | 9.00% | ~5,458 |
-| Butterlord | 8.00% | ~4,851 |
+| Butterlord | 8.00% | ~4,852 |
 | Know your enemy | 7.00% | ~4,245 |
 | Mastery | 7.00% | ~4,245 |
 | Crush your enemies | 5.00% | ~3,032 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,643 (Ranked 88)  
+Progressed: 60,645 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 60,462 | 0 |
 | 2023-09-07 | 60,538 | 0 |
 | 2023-09-08 | 60,607 | 0 |
-| 2023-09-09 | 60,643 | 0 |
+| 2023-09-09 | 60,645 | 0 |
 ## Awards
 Max (Character Customization): 7,048  (Ranked 50)  
 Sum: 14,341 (Ranked 70)  

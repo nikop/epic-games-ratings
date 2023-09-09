@@ -2,13 +2,13 @@
   "ID": "9c59efaabb6a48f19b3485d5d9416032",
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
   "ProductSlug": "lego-star-wars-the-skywalker-saga",
-  "Ranking_Rating": 102,
+  "Ranking_Rating": 101,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3122,9 +3122,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51577,
+  "EOS_Progressed": 51578,
   "EOS_Completed": 230,
-  "EOS_NewPlayers": 1065,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -11537,6 +11537,11 @@
       "Time": "2023-09-09T11:07:31.9177542+00:00",
       "NumProgressed": 51577,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2023-09-09T12:04:22.354692+00:00",
+      "NumProgressed": 51578,
+      "NumCompleted": 230
     }
   ],
   "TotalAchievements": 45,
@@ -11572,7 +11577,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40746
+      "UsersEstimate": 40747
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -11660,7 +11665,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30430
+      "UsersEstimate": 30431
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -11668,7 +11673,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -11684,7 +11689,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 24241
+      "UsersEstimate": 24242
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -11692,7 +11697,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19083
+      "UsersEstimate": 19084
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -11724,7 +11729,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10315
+      "UsersEstimate": 10316
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -11812,7 +11817,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 49514
+      "UsersEstimate": 49515
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -11868,7 +11873,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19083
+      "UsersEstimate": 19084
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -11900,22 +11905,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37135
+      "UsersEstimate": 37136
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51577,
+      "Progressed": 51578,
       "Completed": 230
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-08T04:58:02.3358576+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:07:31.9177535+00:00",
+  "LastChanged_Achievements": "2023-09-09T12:04:22.3546914+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.2145974+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:01:23.9323198+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:07:31.9178596+00:00"
+  "LastUpdate_Ratings": "2023-09-09T11:58:16.9131776+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:04:22.3547673+00:00"
 }

@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23494,
+  "EOS_Progressed": 23497,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16490,6 +16490,11 @@
       "Time": "2023-09-09T11:12:00.7948785+00:00",
       "NumProgressed": 23494,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-09T12:07:35.0906212+00:00",
+      "NumProgressed": 23497,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -16597,7 +16602,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "1028",
@@ -16629,7 +16634,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3289
+      "UsersEstimate": 3290
     },
     {
       "ID": "1032",
@@ -16637,7 +16642,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9398
+      "UsersEstimate": 9399
     },
     {
       "ID": "1033",
@@ -16661,7 +16666,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3054
+      "UsersEstimate": 3055
     },
     {
       "ID": "1036",
@@ -16676,15 +16681,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23494,
+      "Progressed": 23497,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:12:00.7948783+00:00",
-  "LastUpdate_AppInfo": "2023-09-02T10:58:05.1036434+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:01:17.8752426+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:12:00.7950616+00:00"
+  "LastChanged_Achievements": "2023-09-09T12:07:35.0906207+00:00",
+  "LastUpdate_AppInfo": "2023-09-09T11:57:19.8845824+00:00",
+  "LastUpdate_Ratings": "2023-09-09T11:58:12.8236278+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:07:35.0907279+00:00"
 }

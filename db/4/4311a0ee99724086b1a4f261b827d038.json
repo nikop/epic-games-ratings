@@ -246,9 +246,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215250,
+  "EOS_Progressed": 215283,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4135,
+  "EOS_NewPlayers": 4124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5481,6 +5481,11 @@
       "Time": "2023-09-09T11:10:16.56115+00:00",
       "NumProgressed": 215250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T12:06:20.1478368+00:00",
+      "NumProgressed": 215283,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -5493,7 +5498,7 @@
       "Name": "Super Nova Station Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "HW1_MISSION11_COMPLETE",
@@ -5501,7 +5506,7 @@
       "Name": "Tenhauser Gate Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "HW1_MISSION12_COMPLETE",
@@ -5509,7 +5514,7 @@
       "Name": "Galactic Core Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "HW1_MISSION13_COMPLETE",
@@ -5517,7 +5522,7 @@
       "Name": "The Karos Graveyard Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "HW1_MISSION14_COMPLETE",
@@ -5533,7 +5538,7 @@
       "Name": "Chapel Perilous Completed",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "HW1_MISSION16_COMPLETE",
@@ -5549,7 +5554,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43050
+      "UsersEstimate": 43057
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -5557,7 +5562,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19372
+      "UsersEstimate": 19375
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -5565,7 +5570,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10762
+      "UsersEstimate": 10764
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -5573,7 +5578,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8610
+      "UsersEstimate": 8611
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -5581,7 +5586,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -5589,7 +5594,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -5597,7 +5602,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -5605,7 +5610,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -5613,7 +5618,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -5677,7 +5682,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 27982
+      "UsersEstimate": 27987
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -5685,7 +5690,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15068
+      "UsersEstimate": 15070
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -5693,7 +5698,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -5701,7 +5706,7 @@
       "Name": "Gehenna Outskirts Completed",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "HW2_MISSION5_COMPLETE",
@@ -5709,7 +5714,7 @@
       "Name": "Gehenna Completed",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2152
+      "UsersEstimate": 2153
     },
     {
       "ID": "HW2_MISSION6_COMPLETE",
@@ -5749,7 +5754,7 @@
       "Name": "Graduated Command School",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 51660
+      "UsersEstimate": 51668
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -5764,7 +5769,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 215250,
+      "Progressed": 215283,
       "Completed": 0
     }
   ],
@@ -5772,8 +5777,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-09T01:36:36.350804+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:10:16.5611494+00:00",
+  "LastChanged_Achievements": "2023-09-09T12:06:20.1478363+00:00",
   "LastUpdate_AppInfo": "2023-09-07T19:57:25.1255237+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:01:31.8638618+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:10:16.5612533+00:00"
+  "LastUpdate_Ratings": "2023-09-09T11:58:22.5804116+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:06:20.1478876+00:00"
 }

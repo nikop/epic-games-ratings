@@ -622,9 +622,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 9858,
+  "EOS_Progressed": 9859,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9177,6 +9177,11 @@
       "Time": "2023-09-09T04:05:34.5585331+00:00",
       "NumProgressed": 9858,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-09T12:05:53.7581521+00:00",
+      "NumProgressed": 9859,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 34,
@@ -9276,7 +9281,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH13",
@@ -9292,7 +9297,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "ACH15",
@@ -9404,7 +9409,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH29",
@@ -9459,7 +9464,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9858,
+      "Progressed": 9859,
       "Completed": 55
     }
   ],
@@ -9467,8 +9472,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-08T11:00:20.1477075+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:09:40.0955326+00:00",
+  "LastChanged_Achievements": "2023-09-09T12:05:53.7581516+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:03:38.8145489+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:09:40.0956216+00:00"
+  "LastUpdate_Ratings": "2023-09-09T11:59:47.341522+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:05:53.7582294+00:00"
 }

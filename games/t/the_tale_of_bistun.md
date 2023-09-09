@@ -20,18 +20,18 @@
 | Close Encounter | 57.00% | ~13 |
 | The Depths Of Darkness | 57.00% | ~13 |
 | One With The Blades | 57.00% | ~13 |
+| Heart of Oblivion | 57.00% | ~13 |
+| Anahita's Greatest Mistake | 57.00% | ~13 |
+| Heart's Desire | 57.00% | ~13 |
 | Shoo! Shoo! | 57.00% | ~13 |
 | At One With Nature | 57.00% | ~13 |
 | Prison Break | 52.00% | ~12 |
-| Heart of Oblivion | 52.00% | ~12 |
-| Anahita's Greatest Mistake | 52.00% | ~12 |
-| Heart's Desire | 52.00% | ~12 |
+| Nature's Savior | 52.00% | ~12 |
 | I Pick You | 48.00% | ~11 |
 | Accomplished Smithy | 48.00% | ~11 |
-| Nature's Savior | 48.00% | ~11 |
+| The Ultimate Sacrifice | 48.00% | ~11 |
 | Hammer It Home | 48.00% | ~11 |
 | The Blight's Blight | 43.00% | ~10 |
-| The Ultimate Sacrifice | 43.00% | ~10 |
 | For Whom the Bell Tolls | 39.00% | ~9 |
 | Here I Am | 39.00% | ~9 |
 | Break The Cycle | 35.00% | ~8 |
@@ -43,7 +43,7 @@
 | Slip and Slide | 17.00% | ~4 |
 | Merely Inquisitive | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 429)  
+Progressed: 23 (Ranked 430)  
 Completed: 4 (17.39%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |

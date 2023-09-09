@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19697,
+  "EOS_Progressed": 19702,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -15578,6 +15578,11 @@
       "Time": "2023-09-09T11:08:25.0044261+00:00",
       "NumProgressed": 19697,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-09-09T12:04:59.943992+00:00",
+      "NumProgressed": 19702,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 20,
@@ -15589,7 +15594,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -15707,9 +15712,9 @@
       "ID": "INTRO_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Light at the end of the tunnel",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 15167
+      "UsersEstimate": 14974
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15717,7 +15722,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5515
+      "UsersEstimate": 5517
     },
     {
       "ID": "NORTH_FINISHED",
@@ -15741,22 +15746,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19697,
+      "Progressed": 19702,
       "Completed": 392
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:08:25.0044256+00:00",
-  "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:05:25.7557533+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:08:25.0046244+00:00"
+  "LastChanged_Achievements": "2023-09-09T12:04:59.9439915+00:00",
+  "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
+  "LastUpdate_Ratings": "2023-09-09T12:03:09.9608124+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:04:59.9440971+00:00"
 }

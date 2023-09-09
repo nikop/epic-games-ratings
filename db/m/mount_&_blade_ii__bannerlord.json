@@ -2,12 +2,12 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 146,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -7005,9 +7005,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60643,
+  "EOS_Progressed": 60645,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22020,6 +22020,11 @@
       "Time": "2023-09-09T11:08:21.8114221+00:00",
       "NumProgressed": 60643,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T12:04:57.6132732+00:00",
+      "NumProgressed": 60645,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22039,7 +22044,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9097
     },
     {
       "ID": "Bannerlord",
@@ -22071,7 +22076,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4851
+      "UsersEstimate": 4852
     },
     {
       "ID": "Catch",
@@ -22199,7 +22204,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9097
     },
     {
       "ID": "I spit on your grave",
@@ -22223,7 +22228,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10309
+      "UsersEstimate": 10310
     },
     {
       "ID": "Kingslayer",
@@ -22263,7 +22268,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 23044
+      "UsersEstimate": 23045
     },
     {
       "ID": "Lawmaker",
@@ -22407,7 +22412,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13341
+      "UsersEstimate": 13342
     },
     {
       "ID": "Undercover",
@@ -22438,15 +22443,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60643,
+      "Progressed": 60645,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-09T11:00:16.4881625+00:00",
-  "LastChanged_Achievements": "2023-09-09T11:08:21.8114216+00:00",
-  "LastUpdate_AppInfo": "2023-09-02T10:57:30.2793747+00:00",
-  "LastUpdate_Ratings": "2023-09-09T11:00:16.4881634+00:00",
-  "LastUpdate_Achievements": "2023-09-09T11:08:21.8115585+00:00"
+  "LastChanged_Achievements": "2023-09-09T12:04:57.6132727+00:00",
+  "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
+  "LastUpdate_Ratings": "2023-09-09T11:57:31.0584967+00:00",
+  "LastUpdate_Achievements": "2023-09-09T12:04:57.6134088+00:00"
 }

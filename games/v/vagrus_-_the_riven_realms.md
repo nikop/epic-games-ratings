@@ -42,6 +42,7 @@
 | Huntress Unbound | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | Making Contact | 1.00% | ~1 |
+| Loremaster | 1.00% | ~1 |
 | Adept | 1.00% | ~1 |
 | Embellished | 1.00% | ~1 |
 | Business As Usual | 1.00% | ~1 |
@@ -56,7 +57,6 @@
 | Insectoid Propagator | 1.00% | ~1 |
 | Watcher | 0.70% | ~1 |
 | Executor | 0.70% | ~1 |
-| Loremaster | 0.70% | ~1 |
 | Talent Nurtured | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |

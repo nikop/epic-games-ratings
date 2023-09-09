@@ -1,7 +1,7 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 163)  
+Rating: 4.73 (Ranked 162)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,8 +30,8 @@ Rating: 4.73 (Ranked 163)
 | Perfect throw | 22.00% | ~2,849 |
 | Knights! | 21.00% | ~2,720 |
 | Handful of pockets | 13.00% | ~1,684 |
+| Not a toy anymore | 12.00% | ~1,554 |
 | Pocket laboratory | 12.00% | ~1,554 |
-| Not a toy anymore | 11.00% | ~1,425 |
 | Herbalist | 8.00% | ~1,036 |
 | Fighter | 8.00% | ~1,036 |
 | Ornithologist | 5.00% | ~648 |
