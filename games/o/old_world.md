@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.80% | ~111 |
 | Industrial Progress | 0.80% | ~111 |
 | Military Prestige | 0.80% | ~111 |
+| Enlightenment | 0.80% | ~111 |
 | Gnosticism | 0.80% | ~111 |
 | Revelation | 0.80% | ~111 |
 | Veneration | 0.80% | ~111 |
@@ -124,7 +125,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
 | Carthage | 0.70% | ~97 |
-| Enlightenment | 0.70% | ~97 |
 | Kushite Cavalry | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |

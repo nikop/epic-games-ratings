@@ -31,7 +31,7 @@
 | Combo Breaker | 62.00% | ~105 |
 | Thunderstorm | 62.00% | ~105 |
 | Clean Forests | 60.00% | ~101 |
-| Starry: Meadowshire | 56.00% | ~95 |
+| Starry: Meadowshire | 57.00% | ~96 |
 | Lieutenant of the Evil | 56.00% | ~95 |
 | Avada Kedavra | 55.00% | ~93 |
 | Brilliant: Tanglewood | 53.00% | ~90 |

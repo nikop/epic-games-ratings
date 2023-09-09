@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6046,10 +6046,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11120,
       "NumberOfAwardsMax": 6458
+    },
+    {
+      "Time": "2023-09-09T05:00:11.5310812+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11127,
+      "NumberOfAwardsMax": 6458
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11120,
+  "NumberOfAwards": 11127,
   "NumberOfAwardsMax": 6458,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6075,7 +6081,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 536
+      "Count": 538
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6099,7 +6105,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 548
+      "Count": 553
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6126,9 +6132,9 @@
       "Count": 381
     }
   ],
-  "EOS_Progressed": 713786,
+  "EOS_Progressed": 713802,
   "EOS_Completed": 12887,
-  "EOS_NewPlayers": 897,
+  "EOS_NewPlayers": 912,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -19096,6 +19102,11 @@
       "Time": "2023-09-09T04:03:38.5081658+00:00",
       "NumProgressed": 713786,
       "NumCompleted": 12887
+    },
+    {
+      "Time": "2023-09-09T05:03:39.1360483+00:00",
+      "NumProgressed": 713802,
+      "NumCompleted": 12887
     }
   ],
   "TotalAchievements": 60,
@@ -19586,21 +19597,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 23087,
+      "Progressed": 23103,
       "Completed": 10596
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 713786,
+      "Progressed": 713802,
       "Completed": 12887
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-09T01:40:09.8287293+00:00",
-  "LastChanged_Achievements": "2023-09-09T04:03:38.5081653+00:00",
+  "LastChanged": "2023-09-09T05:00:11.531081+00:00",
+  "LastChanged_Achievements": "2023-09-09T05:03:39.1360475+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:56.9584317+00:00",
-  "LastUpdate_Ratings": "2023-09-09T03:59:58.8201422+00:00",
-  "LastUpdate_Achievements": "2023-09-09T04:03:38.5082704+00:00"
+  "LastUpdate_Ratings": "2023-09-09T05:00:11.5310816+00:00",
+  "LastUpdate_Achievements": "2023-09-09T05:03:39.1361846+00:00"
 }

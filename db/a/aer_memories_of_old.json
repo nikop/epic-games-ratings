@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19682,
+  "EOS_Progressed": 19683,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -15543,6 +15543,11 @@
       "Time": "2023-09-09T04:04:39.5277927+00:00",
       "NumProgressed": 19682,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-09-09T05:04:38.6409393+00:00",
+      "NumProgressed": 19683,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 20,
@@ -15570,7 +15575,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2755
+      "UsersEstimate": 2756
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -15674,7 +15679,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 14958
+      "UsersEstimate": 14959
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15713,15 +15718,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19682,
+      "Progressed": 19683,
       "Completed": 392
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-09T04:04:39.5277922+00:00",
+  "LastChanged_Achievements": "2023-09-09T05:04:38.640939+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:45.6246443+00:00",
-  "LastUpdate_Ratings": "2023-09-09T04:03:05.918426+00:00",
-  "LastUpdate_Achievements": "2023-09-09T04:04:39.5278742+00:00"
+  "LastUpdate_Ratings": "2023-09-09T05:03:05.5193548+00:00",
+  "LastUpdate_Achievements": "2023-09-09T05:04:38.6410428+00:00"
 }

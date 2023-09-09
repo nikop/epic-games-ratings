@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -1519,9 +1519,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 200936,
+  "EOS_Progressed": 200938,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1536,
+  "EOS_NewPlayers": 1522,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17394,6 +17394,11 @@
       "Time": "2023-09-09T04:07:26.2796427+00:00",
       "NumProgressed": 200936,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-09T05:09:10.3968148+00:00",
+      "NumProgressed": 200938,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17469,7 +17474,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8037
+      "UsersEstimate": 8038
     },
     {
       "ID": "Genin",
@@ -17485,7 +17490,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8037
+      "UsersEstimate": 8038
     },
     {
       "ID": "HappyPlanning",
@@ -17501,7 +17506,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "IceIceYuki",
@@ -17605,7 +17610,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8037
+      "UsersEstimate": 8038
     },
     {
       "ID": "ReleaseTheKraken",
@@ -17637,7 +17642,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8037
+      "UsersEstimate": 8038
     },
     {
       "ID": "Stoned",
@@ -17756,15 +17761,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 200936,
+      "Progressed": 200938,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-08T21:02:05.1383104+00:00",
-  "LastChanged_Achievements": "2023-09-09T04:07:26.2796421+00:00",
+  "LastChanged_Achievements": "2023-09-09T05:09:10.3968143+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:03.876432+00:00",
-  "LastUpdate_Ratings": "2023-09-09T04:00:03.3312562+00:00",
-  "LastUpdate_Achievements": "2023-09-09T04:07:26.2797414+00:00"
+  "LastUpdate_Ratings": "2023-09-09T05:00:15.9042269+00:00",
+  "LastUpdate_Achievements": "2023-09-09T05:09:10.3969463+00:00"
 }

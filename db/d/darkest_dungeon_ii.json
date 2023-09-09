@@ -7401,7 +7401,7 @@
       "Count": 923
     }
   ],
-  "EOS_Progressed": 117187,
+  "EOS_Progressed": 117188,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 0,
@@ -21581,6 +21581,11 @@
       "Time": "2023-09-09T04:07:26.0449725+00:00",
       "NumProgressed": 117187,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T05:09:10.0729043+00:00",
+      "NumProgressed": 117188,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -21592,7 +21597,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 82031
+      "UsersEstimate": 82032
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -21600,7 +21605,7 @@
       "Name": "Serenity Now!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 62109
+      "UsersEstimate": 62110
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -21624,7 +21629,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72656
+      "UsersEstimate": 72657
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -21632,7 +21637,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79687
+      "UsersEstimate": 79688
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -21640,7 +21645,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 78515
+      "UsersEstimate": 78516
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -21648,7 +21653,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 77343
+      "UsersEstimate": 77344
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -21656,7 +21661,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72656
+      "UsersEstimate": 72657
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -21664,7 +21669,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 70312
+      "UsersEstimate": 70313
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -21672,7 +21677,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 79687
+      "UsersEstimate": 79688
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -21680,7 +21685,7 @@
       "Name": "The World As It Was",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4687
+      "UsersEstimate": 4688
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -21776,7 +21781,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 43359
+      "UsersEstimate": 43360
     },
     {
       "ID": "combat_kill_gentry",
@@ -21840,7 +21845,7 @@
       "Name": "Circle of Life",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "combat_kill_swine",
@@ -21888,7 +21893,7 @@
       "Name": "Rush Hour",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 70312
+      "UsersEstimate": 70313
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -21896,7 +21901,7 @@
       "Name": "Merry Time",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 41015
+      "UsersEstimate": 41016
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -21904,7 +21909,7 @@
       "Name": "Harvest Festival",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 42187
+      "UsersEstimate": 42188
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -21912,7 +21917,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 70312
+      "UsersEstimate": 70313
     },
     {
       "ID": "driving_distance_easy",
@@ -21950,9 +21955,9 @@
       "ID": "hero_story_complete_all",
       "SetID": "64l4lke",
       "Name": "Shrine of Reflection",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 12891
+      "UsersEstimate": 14063
     },
     {
       "ID": "hero_story_complete_any",
@@ -21960,7 +21965,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 80859
+      "UsersEstimate": 80860
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -21984,7 +21989,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 108984
+      "UsersEstimate": 108985
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -22000,7 +22005,7 @@
       "Name": "FNG",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 33984
+      "UsersEstimate": 33985
     },
     {
       "ID": "inn_visit_all_variants",
@@ -22048,7 +22053,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 78515
+      "UsersEstimate": 78516
     },
     {
       "ID": "run_victory_act02",
@@ -22056,7 +22061,7 @@
       "Name": "Hot Air",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 42187
+      "UsersEstimate": 42188
     },
     {
       "ID": "run_victory_act03",
@@ -22111,15 +22116,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 117187,
+      "Progressed": 117188,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-09-09T00:01:27.9796335+00:00",
-  "LastChanged_Achievements": "2023-09-09T04:07:26.0449719+00:00",
+  "LastChanged_Achievements": "2023-09-09T05:09:10.0729037+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:35.7630661+00:00",
-  "LastUpdate_Ratings": "2023-09-09T03:03:12.2716581+00:00",
-  "LastUpdate_Achievements": "2023-09-09T04:07:26.0450847+00:00"
+  "LastUpdate_Ratings": "2023-09-09T04:57:19.1181676+00:00",
+  "LastUpdate_Achievements": "2023-09-09T05:09:10.0730336+00:00"
 }

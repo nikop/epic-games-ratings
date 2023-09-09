@@ -2618,9 +2618,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 642237,
+  "EOS_Progressed": 642242,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2024,
+  "EOS_NewPlayers": 2023,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18413,6 +18413,11 @@
       "Time": "2023-09-09T04:05:21.8261083+00:00",
       "NumProgressed": 642237,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-09T05:05:19.6191627+00:00",
+      "NumProgressed": 642242,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 52,
@@ -18424,7 +18429,7 @@
       "Name": "Stroller",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 89913
+      "UsersEstimate": 89914
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -18432,7 +18437,7 @@
       "Name": "Hiker",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 70646
+      "UsersEstimate": 70647
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -18464,7 +18469,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 109180
+      "UsersEstimate": 109181
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -18472,7 +18477,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 77068
+      "UsersEstimate": 77069
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -18672,7 +18677,7 @@
       "Name": "Incurious",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 102758
+      "UsersEstimate": 102759
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -18832,22 +18837,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25689
+      "UsersEstimate": 25690
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 642237,
+      "Progressed": 642242,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-05T13:02:18.2766457+00:00",
-  "LastChanged_Achievements": "2023-09-09T04:05:21.8261075+00:00",
+  "LastChanged_Achievements": "2023-09-09T05:05:19.6191623+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:40.8702668+00:00",
-  "LastUpdate_Ratings": "2023-09-09T03:57:52.4150955+00:00",
-  "LastUpdate_Achievements": "2023-09-09T04:05:21.8262224+00:00"
+  "LastUpdate_Ratings": "2023-09-09T04:58:09.9837581+00:00",
+  "LastUpdate_Achievements": "2023-09-09T05:05:19.6193029+00:00"
 }

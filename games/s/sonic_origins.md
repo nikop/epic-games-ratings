@@ -31,7 +31,7 @@ Number of Ratings: 154  (23.09.2022)
 | Cleared Sonic CD | 41.00% | ~187 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 38.00% | ~173 |
 | Lucky Hedgehog | 32.00% | ~146 |
-| All Clear! | 31.00% | ~141 |
+| All Clear! | 32.00% | ~146 |
 | To the Mirror World | 30.00% | ~136 |
 | Sound Savant | 22.00% | ~100 |
 | Movie Maniac | 21.00% | ~96 |
@@ -43,7 +43,7 @@ Number of Ratings: 154  (23.09.2022)
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 455 (Ranked 247)  
-Completed: 41 (9.01%) (Ranked 32)  
+Completed: 41 (9.01%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
