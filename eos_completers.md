@@ -3,15 +3,15 @@
 | 1 | [Eternights](games/e/eternights.md) | 100.00% |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.60% |
-| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.51% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.36% |
+| 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.12% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.70% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.76% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.72% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.57% |
 | 13 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 20.83% |
 | 14 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.69% |
 | 15 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -41,7 +41,7 @@
 | 38 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
 | 41 | [Scorn](games/s/scorn.md) | 7.02% |
-| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.89% |
+| 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.87% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.58% |
 | 44 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.56% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.34% |
@@ -60,7 +60,7 @@
 | 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
-| 61 | [ZZT!](games/z/zzt!.md) | 4.03% |
+| 61 | [ZZT!](games/z/zzt!.md) | 4.07% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.96% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
@@ -85,11 +85,11 @@
 | 82 | [Lamentum](games/l/lamentum.md) | 2.50% |
 | 82 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 85 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.49% |
-| 86 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.48% |
+| 86 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.47% |
 | 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.45% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.28% |
-| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.26% |
+| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.25% |
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.22% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
@@ -131,9 +131,9 @@
 | 129 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 130 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
-| 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
-| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.72% |
+| 132 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.75% |
+| 133 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
+| 134 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 135 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 136 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.67% |
 | 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.67% |
