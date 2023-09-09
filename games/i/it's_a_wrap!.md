@@ -9,9 +9,9 @@
 | Space Invader | 8.00% | ~5 |
 | Budget Killer | 6.00% | ~4 |
 | One Man Army | 6.00% | ~4 |
+| Extra Life | 5.00% | ~3 |
 | In the Can | 5.00% | ~3 |
 | What's my line again? | 3.00% | ~2 |
-| Extra Life | 3.00% | ~2 |
 | Who's gonna pay for that? | 3.00% | ~2 |
 | Meet Your Makers | 3.00% | ~2 |
 | O' Captain! My Captain! | 2.00% | ~1 |

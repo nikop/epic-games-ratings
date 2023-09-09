@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1915,
+  "EOS_Progressed": 1916,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5470,6 +5470,11 @@
       "Time": "2023-09-08T22:05:16.5911086+00:00",
       "NumProgressed": 1915,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-09T02:17:51.6527246+00:00",
+      "NumProgressed": 1916,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5665,7 +5670,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "fourleafclover",
@@ -5689,7 +5694,7 @@
       "Name": "Full Party",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "gearenchanting",
@@ -5855,9 +5860,9 @@
       "ID": "naturaltalent",
       "SetID": "3nl4bcg",
       "Name": "Natural Talent",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 268
     },
     {
       "ID": "pokerface",
@@ -5873,7 +5878,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "prestigiousx10",
@@ -5881,7 +5886,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "relicofthepast",
@@ -6041,7 +6046,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "warmachinesarmy",
@@ -6073,14 +6078,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1915,
+      "Progressed": 1916,
       "Completed": 2
     }
   ],
@@ -6088,8 +6093,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T22:59:12.0182911+00:00",
-  "LastChanged_Achievements": "2023-09-09T01:44:20.8578131+00:00",
+  "LastChanged_Achievements": "2023-09-09T02:17:51.6527241+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:31.485527+00:00",
-  "LastUpdate_Ratings": "2023-09-09T01:38:31.6959642+00:00",
-  "LastUpdate_Achievements": "2023-09-09T01:44:20.8579235+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:11:50.6497345+00:00",
+  "LastUpdate_Achievements": "2023-09-09T02:17:51.6528339+00:00"
 }

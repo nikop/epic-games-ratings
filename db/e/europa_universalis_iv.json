@@ -9288,9 +9288,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 396352,
+  "EOS_Progressed": 396374,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10182,
+  "EOS_NewPlayers": 10168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25148,6 +25148,11 @@
       "Time": "2023-09-09T01:43:25.2891181+00:00",
       "NumProgressed": 396352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T02:17:05.1005305+00:00",
+      "NumProgressed": 396374,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -25551,7 +25556,7 @@
       "Name": "Blockader",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -25815,7 +25820,7 @@
       "Name": "Double the Love",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -27111,7 +27116,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -27711,7 +27716,7 @@
       "Name": "Total Control",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -27823,7 +27828,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15854
+      "UsersEstimate": 15855
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -27990,21 +27995,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 396352,
+      "Progressed": 396374,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 396352,
+      "Progressed": 396374,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-08T17:59:32.1106236+00:00",
-  "LastChanged_Achievements": "2023-09-09T01:43:25.2891175+00:00",
+  "LastChanged_Achievements": "2023-09-09T02:17:05.10053+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:16.2286567+00:00",
-  "LastUpdate_Ratings": "2023-09-09T01:37:34.1916479+00:00",
-  "LastUpdate_Achievements": "2023-09-09T01:43:25.2905674+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:11:05.2246435+00:00",
+  "LastUpdate_Achievements": "2023-09-09T02:17:05.1017204+00:00"
 }

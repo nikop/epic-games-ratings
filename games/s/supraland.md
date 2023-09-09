@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~717,722 |
-| The Blues | 85.00% | ~616,226 |
+| Out of bed | 99.00% | ~717,723 |
+| The Blues | 85.00% | ~616,227 |
 | Fast | 66.00% | ~478,482 |
 | Healthbar | 55.00% | ~398,735 |
-| Force Cube | 53.00% | ~384,235 |
+| Force Cube | 53.00% | ~384,236 |
 | Double Jump | 48.00% | ~347,987 |
 | Regeneration | 47.00% | ~340,737 |
 | Triple Jump | 43.00% | ~311,738 |
-| Climb the hill | 42.00% | ~304,488 |
+| Climb the hill | 42.00% | ~304,489 |
 | Through the fire pipe | 39.00% | ~282,739 |
-| MacGuffin | 38.00% | ~275,489 |
+| MacGuffin | 38.00% | ~275,490 |
 | Just once | 37.00% | ~268,240 |
 | Armor | 30.00% | ~217,492 |
 | True holy spirit | 28.00% | ~202,992 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~72,497 |
 | Translocator | 10.00% | ~72,497 |
 | Yellow Shot Button | 10.00% | ~72,497 |
-| Moon Door | 9.00% | ~65,247 |
-| Momentum | 9.00% | ~65,247 |
-| Through the tiny pipe | 9.00% | ~65,247 |
-| Win! | 9.00% | ~65,247 |
+| Moon Door | 9.00% | ~65,248 |
+| Momentum | 9.00% | ~65,248 |
+| Through the tiny pipe | 9.00% | ~65,248 |
+| Win! | 9.00% | ~65,248 |
 | The real real teleported man | 7.00% | ~50,748 |
 | Well deserved | 6.00% | ~43,498 |
 | Happiness | 3.00% | ~21,749 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~725 |
 | DLC: Top of the world | 0.10% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 724,972 (Ranked 19)  
+Progressed: 724,973 (Ranked 19)  
 Completed: 731 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 731 (0.10%) (Ranked 218)
 | 2023-09-06 | 724,704 | 731 |
 | 2023-09-07 | 724,833 | 731 |
 | 2023-09-08 | 724,961 | 731 |
-| 2023-09-09 | 724,972 | 731 |
+| 2023-09-09 | 724,973 | 731 |
 ## Awards
 Max (Challenging Puzzles): 7,683  (Ranked 45)  
 Sum: 10,010 (Ranked 86)  

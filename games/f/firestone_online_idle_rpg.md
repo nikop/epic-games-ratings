@@ -5,27 +5,27 @@ Rating: 4.00 (Ranked 940)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,781 |
-| World Map | 79.00% | ~1,513 |
+| Victor | 93.00% | ~1,782 |
+| World Map | 79.00% | ~1,514 |
 | Temple of Eternals | 57.00% | ~1,092 |
-| Prestigious | 54.00% | ~1,034 |
-| Fellowship Power | 41.00% | ~785 |
+| Prestigious | 54.00% | ~1,035 |
+| Fellowship Power | 41.00% | ~786 |
 | Guild Power | 25.00% | ~479 |
-| Prestigious x10 | 22.00% | ~421 |
+| Prestigious x10 | 22.00% | ~422 |
 | The game is on | 20.00% | ~383 |
 | Exotic Merchant | 19.00% | ~364 |
 | Dragon Clicker | 17.00% | ~326 |
 | Inspection | 17.00% | ~326 |
 | Miner Clicker | 17.00% | ~326 |
-| Full Party | 16.00% | ~306 |
+| Full Party | 16.00% | ~307 |
 | Dragon Master | 15.00% | ~287 |
 | Enlightenment | 15.00% | ~287 |
 | Hero inspection | 15.00% | ~287 |
 | Lieutenant | 15.00% | ~287 |
 | Mysterious Rock | 14.00% | ~268 |
+| Natural Talent | 14.00% | ~268 |
 | The Unstoppable | 14.00% | ~268 |
 | Milestone collector | 13.00% | ~249 |
-| Natural Talent | 13.00% | ~249 |
 | Superior | 13.00% | ~249 |
 | Scientist | 12.00% | ~230 |
 | Challenger | 11.00% | ~211 |
@@ -81,7 +81,7 @@ Rating: 4.00 (Ranked 940)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,915 (Ranked 180)  
+Progressed: 1,916 (Ranked 180)  
 Completed: 2 (0.10%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,6 +222,7 @@ Completed: 2 (0.10%) (Ranked 218)
 | 2023-09-06 | 1,904 | 2 |
 | 2023-09-07 | 1,910 | 2 |
 | 2023-09-08 | 1,915 | 2 |
+| 2023-09-09 | 1,916 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 21  (Ranked 504)  
 Sum: 42 (Ranked 460)  

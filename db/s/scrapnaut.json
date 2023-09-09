@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1089,9 +1089,9 @@
       "ID": "ACH_10_DIG",
       "SetID": "7c4cldc",
       "Name": "Digger",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1201,9 +1201,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1241,9 +1241,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_KILL_50",
@@ -1346,8 +1346,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-09T01:43:13.5718041+00:00",
+  "LastChanged_Achievements": "2023-09-09T02:16:54.9822697+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:09.9657777+00:00",
-  "LastUpdate_Ratings": "2023-09-09T01:39:21.3374812+00:00",
-  "LastUpdate_Achievements": "2023-09-09T01:43:13.5718326+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:12:24.2256406+00:00",
+  "LastUpdate_Achievements": "2023-09-09T02:16:54.9822979+00:00"
 }

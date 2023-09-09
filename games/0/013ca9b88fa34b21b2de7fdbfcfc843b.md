@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 69.00% | ~150 |
-| A Thorny Situation | 56.00% | ~122 |
-| Break-Net Speed | 36.00% | ~78 |
-| ... And Spit Back Out | 35.00% | ~76 |
-| Humble Collector | 17.00% | ~37 |
-| Bramble Breaker | 17.00% | ~37 |
-| Miner 49er | 13.00% | ~28 |
-| Calm Sailing | 7.00% | ~15 |
-| Oui, Chef! | 7.00% | ~15 |
-| Open the Gate! | 6.00% | ~13 |
+| Azoria Beckons | 70.00% | ~155 |
+| A Thorny Situation | 55.00% | ~122 |
+| Break-Net Speed | 36.00% | ~80 |
+| ... And Spit Back Out | 36.00% | ~80 |
+| Humble Collector | 17.00% | ~38 |
+| Bramble Breaker | 17.00% | ~38 |
+| Miner 49er | 14.00% | ~31 |
+| Calm Sailing | 7.00% | ~16 |
+| Oui, Chef! | 7.00% | ~16 |
 | Chatty Neighbor | 6.00% | ~13 |
-| Right Tool For the Job | 6.00% | ~13 |
+| Open the Gate! | 5.00% | ~11 |
 | Clear the Air | 5.00% | ~11 |
 | Lumberjack | 5.00% | ~11 |
 | Mist Walker | 5.00% | ~11 |
+| Right Tool For the Job | 5.00% | ~11 |
 | Captain of Cozy | 5.00% | ~11 |
 | Search for the Hairy Grell | 4.00% | ~9 |
 | Azorian Anniversary | 4.00% | ~9 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.50% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217 (Ranked 300)  
+Progressed: 222 (Ranked 299)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,4 +56,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-01 | 22 | 0 |
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
-| 2023-09-09 | 217 | 0 |
+| 2023-09-09 | 222 | 0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -64,11 +64,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.99,
+  "EOS_Completed_Percentage": 3.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2249,6 +2249,11 @@
       "Time": "2023-09-08T23:03:40.7026238+00:00",
       "NumProgressed": 627,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-09T02:16:30.0802569+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2276,7 +2281,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "MQ02_2",
@@ -2324,7 +2329,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "MQ03_4",
@@ -2372,15 +2377,15 @@
       "Name": "Open Sesame",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 295
     },
     {
       "ID": "MQ05_3",
@@ -2388,7 +2393,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "MQ05_4",
@@ -2396,7 +2401,7 @@
       "Name": "Knives Out",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "MQ06_1",
@@ -2410,9 +2415,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 270
     },
     {
       "ID": "MQ06_3",
@@ -2444,7 +2449,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "MQ08_1",
@@ -2468,7 +2473,7 @@
       "Name": "Fhtagn!",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "PLTN",
@@ -2483,7 +2488,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 25
     }
   ],
@@ -2491,8 +2496,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-09T01:42:44.211913+00:00",
+  "LastChanged_Achievements": "2023-09-09T02:16:30.0802564+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:24.6693097+00:00",
-  "LastUpdate_Ratings": "2023-09-09T01:37:50.3489546+00:00",
-  "LastUpdate_Achievements": "2023-09-09T01:42:44.2119527+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:11:17.8578766+00:00",
+  "LastUpdate_Achievements": "2023-09-09T02:16:30.0802956+00:00"
 }

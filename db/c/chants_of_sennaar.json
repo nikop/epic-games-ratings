@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 346,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_Progress": 344,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98,
+  "EOS_Progressed": 100,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.1,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -494,6 +494,11 @@
       "Time": "2023-09-08T22:05:54.4454258+00:00",
       "NumProgressed": 98,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-09T02:18:29.5820917+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 25,
@@ -607,9 +612,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -623,7 +628,7 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -647,9 +652,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -663,7 +668,7 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -671,7 +676,7 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 25
     },
@@ -704,14 +709,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 98,
+      "Progressed": 100,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-09T01:45:05.750441+00:00",
+  "LastChanged_Achievements": "2023-09-09T02:18:29.5820912+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-09T01:40:09.7101041+00:00",
-  "LastUpdate_Achievements": "2023-09-09T01:45:05.7504789+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:13:01.0827506+00:00",
+  "LastUpdate_Achievements": "2023-09-09T02:18:29.5821112+00:00"
 }

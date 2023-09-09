@@ -592,9 +592,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -831,8 +831,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-09-09T01:44:59.7285961+00:00",
+  "LastChanged_Achievements": "2023-09-09T02:18:24.690166+00:00",
   "LastUpdate_AppInfo": "2023-09-07T09:57:19.8778458+00:00",
-  "LastUpdate_Ratings": "2023-09-09T01:37:13.0871857+00:00",
-  "LastUpdate_Achievements": "2023-09-09T01:44:59.728642+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:10:49.3000219+00:00",
+  "LastUpdate_Achievements": "2023-09-09T02:18:24.6902085+00:00"
 }

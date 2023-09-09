@@ -810,9 +810,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222363,
+  "EOS_Progressed": 222366,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2177,
+  "EOS_NewPlayers": 2173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10085,6 +10085,11 @@
       "Time": "2023-09-09T01:45:59.3255664+00:00",
       "NumProgressed": 222363,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-09T02:19:14.8664222+00:00",
+      "NumProgressed": 222366,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10518,9 +10523,9 @@
       "ID": "DwarfInsultWin",
       "SetID": "50chcgj",
       "Name": "%#*!$*!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1779
+      "UsersEstimate": 2001
     },
     {
       "ID": "DwarfLevel2",
@@ -10544,7 +10549,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64485
+      "UsersEstimate": 64486
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10799,21 +10804,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222363,
+      "Progressed": 222366,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222363,
+      "Progressed": 222366,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T13:05:29.237116+00:00",
-  "LastChanged_Achievements": "2023-09-09T01:45:59.3255657+00:00",
+  "LastChanged_Achievements": "2023-09-09T02:19:14.8664218+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-09T01:38:59.5173539+00:00",
-  "LastUpdate_Achievements": "2023-09-09T01:45:59.3257358+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:12:10.458085+00:00",
+  "LastUpdate_Achievements": "2023-09-09T02:19:14.8665791+00:00"
 }

@@ -14,10 +14,10 @@
 | Pride and Joy | 8.00% | ~19 |
 | Eyes Yet To Open | 7.00% | ~17 |
 | Hackathon | 7.00% | ~17 |
-| All the Stories | 4.00% | ~9 |
-| Total Recall | 4.00% | ~9 |
-| Witness Protection | 4.00% | ~9 |
-| The Wing and the Thigh | 4.00% | ~9 |
+| All the Stories | 4.00% | ~10 |
+| Total Recall | 4.00% | ~10 |
+| Witness Protection | 4.00% | ~10 |
+| The Wing and the Thigh | 4.00% | ~10 |
 | Something Rotten | 3.00% | ~7 |
 | The Crush And Smash The Dino Four | 2.00% | ~2 |
 | … Women Inherit The Earth | 2.00% | ~2 |
@@ -29,8 +29,8 @@
 | Cha Cha Real Smooth | 0.40% | ~0 |
 | That’s One Big Pile | 0.40% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 294)  
-Completed: 6 (2.53%) (Ranked 82)  
+Progressed: 238 (Ranked 294)  
+Completed: 6 (2.52%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 6 (2.53%) (Ranked 82)
 | 2023-09-03 | 234 | 6 |
 | 2023-09-07 | 235 | 6 |
 | 2023-09-08 | 237 | 6 |
+| 2023-09-09 | 238 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

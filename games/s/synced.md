@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 2.00% | ~126 |
-| As Far Away As Possible | 0.50% | ~31 |
+| Your Lucky Day | 2.00% | ~130 |
+| As Far Away As Possible | 0.50% | ~32 |
 | A Most Unstable Organism | 0.20% | ~13 |
 | fifteenth Time's the Charm | 0.10% | ~6 |
 | Pulling Your Weight | 0.10% | ~6 |
@@ -21,7 +21,7 @@
 | In Two Places At Once | 0.00% | ~0 |
 | More Power to You | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,285 (Ranked 141)  
+Progressed: 6,480 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -34,4 +34,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-05 | 14 | 0 |
 | 2023-09-06 | 19 | 0 |
 | 2023-09-08 | 5,389 | 0 |
-| 2023-09-09 | 6,285 | 0 |
+| 2023-09-09 | 6,480 | 0 |

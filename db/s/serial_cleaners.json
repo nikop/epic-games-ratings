@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.53,
+  "EOS_Completed_Percentage": 2.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -446,6 +446,11 @@
       "Time": "2023-09-08T23:04:29.3759748+00:00",
       "NumProgressed": 237,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-09T02:17:28.0906342+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -457,7 +462,7 @@
       "Name": "All the Stories",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ALL_MEMORIES",
@@ -465,7 +470,7 @@
       "Name": "Total Recall",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BOB_SLIDE",
@@ -513,7 +518,7 @@
       "Name": "Witness Protection",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
@@ -625,7 +630,7 @@
       "Name": "The Wing and the Thigh",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TUTORIAL_COMPLETE",
@@ -648,13 +653,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 6
     }
   ],
@@ -662,8 +667,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-09-09T01:43:52.8461406+00:00",
+  "LastChanged_Achievements": "2023-09-09T02:17:28.0906335+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:08.4193427+00:00",
-  "LastUpdate_Ratings": "2023-09-09T01:40:24.6864805+00:00",
-  "LastUpdate_Achievements": "2023-09-09T01:43:52.8461656+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:13:11.1591252+00:00",
+  "LastUpdate_Achievements": "2023-09-09T02:17:28.0906569+00:00"
 }

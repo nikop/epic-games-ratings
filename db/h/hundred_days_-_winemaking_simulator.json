@@ -970,9 +970,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 1974,
+  "EOS_Progressed": 1976,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1304,
+  "EOS_NewPlayers": 1300,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2120,6 +2120,11 @@
       "Time": "2023-09-09T01:43:00.7181167+00:00",
       "NumProgressed": 1974,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-09T02:16:44.223688+00:00",
+      "NumProgressed": 1976,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2140,7 +2145,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "a_11",
@@ -2148,7 +2153,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "a_12",
@@ -2156,7 +2161,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "a_15",
@@ -2164,7 +2169,7 @@
       "Name": "Big Money",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "a_16",
@@ -2172,7 +2177,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "a_18",
@@ -2180,7 +2185,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "a_19",
@@ -2188,7 +2193,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "a_2",
@@ -2244,7 +2249,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "a_27",
@@ -2252,7 +2257,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "a_28",
@@ -2372,14 +2377,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 1974,
+      "Progressed": 1976,
       "Completed": 3
     }
   ],
@@ -2387,8 +2392,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-07T15:00:06.6225416+00:00",
-  "LastChanged_Achievements": "2023-09-09T01:43:00.7181162+00:00",
+  "LastChanged_Achievements": "2023-09-09T02:16:44.2236875+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:09.2681959+00:00",
-  "LastUpdate_Ratings": "2023-09-09T01:38:06.8876731+00:00",
-  "LastUpdate_Achievements": "2023-09-09T01:43:00.7181827+00:00"
+  "LastUpdate_Ratings": "2023-09-09T02:11:31.4496159+00:00",
+  "LastUpdate_Achievements": "2023-09-09T02:16:44.2237195+00:00"
 }
