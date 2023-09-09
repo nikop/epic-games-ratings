@@ -5,6 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 75.00% | ~3 |
+| Are You Alright? | 75.00% | ~3 |
 | I Challenge You To Save More Money! | 50.00% | ~2 |
 | A Slap In The Face! | 50.00% | ~2 |
 | I Love How Tough You Are | 50.00% | ~2 |
@@ -13,7 +14,6 @@
 | What I Want Is You | 50.00% | ~2 |
 | To Be Or Not To Be | 50.00% | ~2 |
 | FIRST LOVE | 50.00% | ~2 |
-| Are You Alright? | 50.00% | ~2 |
 | You're Really Something Else | 50.00% | ~2 |
 | Doesn't Matter I'll Handle It | 25.00% | ~1 |
 | Life Is A Rollercoaster | 25.00% | ~1 |

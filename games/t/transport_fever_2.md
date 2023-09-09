@@ -45,9 +45,9 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign expert | 11.00% | ~179 |
 | Truck Fever | 11.00% | ~179 |
 | No free seats | 10.00% | ~163 |
+| Penny pincher | 10.00% | ~163 |
 | Back to the future | 9.00% | ~147 |
 | Transport belt | 9.00% | ~147 |
-| Penny pincher | 9.00% | ~147 |
 | E.P.E.C. | 6.00% | ~98 |
 | Campaign shark | 5.00% | ~82 |
 | Transport shark (Hard mode) | 4.00% | ~65 |
@@ -204,8 +204,8 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-08 | 1,631 | 0 |
 ## Awards
 Max (Highly Recommended): 41  (Ranked 424)  
-Sum: 281 (Ranked 347)  
-Diff (max vs sum): 77  
+Sum: 281 (Ranked 348)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 41 |

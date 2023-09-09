@@ -14,8 +14,8 @@ Rating: 4.09 (Ranked 916)
 | Tale in the Toilet | 29.00% | ~1,047 |
 | Don't Get Cocky | 27.00% | ~975 |
 | Shard Snatchers | 24.00% | ~867 |
-| You Rich Now! | 22.00% | ~794 |
-| Our Lucky Winner | 21.00% | ~758 |
+| You Rich Now! | 22.00% | ~795 |
+| Our Lucky Winner | 21.00% | ~759 |
 | You Poor Now! | 20.00% | ~722 |
 | You Got the Goods, Kid | 20.00% | ~722 |
 | The Shardmenstration | 19.00% | ~686 |
@@ -27,12 +27,12 @@ Rating: 4.09 (Ranked 916)
 | Bring back the butt! | 4.00% | ~144 |
 | Hey, thanks! | 4.00% | ~144 |
 | Murderous Mascot Mayhem | 3.00% | ~108 |
-| New Business | 0.90% | ~32 |
+| New Business | 0.90% | ~33 |
 | Okay, Vain Much? | 0.50% | ~18 |
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,611 (Ranked 155)  
+Progressed: 3,612 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,6 +144,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 3,603 | 0 |
 | 2023-09-07 | 3,608 | 0 |
 | 2023-09-08 | 3,611 | 0 |
+| 2023-09-09 | 3,612 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

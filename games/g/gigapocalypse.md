@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Too Cool For School | 87.00% | ~157 |
 | Caretaker | 84.00% | ~151 |
-| Feng Shui | 72.00% | ~130 |
+| Feng Shui | 73.00% | ~131 |
 | Who's A Good Boy | 71.00% | ~128 |
 | Power Up | 70.00% | ~126 |
 | Thick Skin | 68.00% | ~122 |
@@ -16,8 +16,8 @@
 | Quite A Snack | 59.00% | ~106 |
 | Impenetrable Skin | 57.00% | ~103 |
 | Overwhelming Power | 56.00% | ~101 |
+| Chomp Chomp! | 46.00% | ~83 |
 | Supreme Power | 45.00% | ~81 |
-| Chomp Chomp! | 45.00% | ~81 |
 | The Duelist | 43.00% | ~77 |
 | Diaper Time! | 42.00% | ~76 |
 | Target Practice | 42.00% | ~76 |

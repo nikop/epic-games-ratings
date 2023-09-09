@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2476,
+  "EOS_Progressed": 2478,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5581,6 +5581,11 @@
       "Time": "2023-09-09T00:03:21.0833315+00:00",
       "NumProgressed": 2476,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T01:42:25.7559448+00:00",
+      "NumProgressed": 2478,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5598,9 +5603,9 @@
       "ID": "AI_DRAW",
       "SetID": "8lhbnh7",
       "Name": "Puppetmaster",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 272
+      "UsersEstimate": 248
     },
     {
       "ID": "BOT_DESTROYER",
@@ -5696,7 +5701,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "GUARD_MAKER",
@@ -5767,14 +5772,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2476,
+      "Progressed": 2478,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-09T00:03:21.0833311+00:00",
+  "LastChanged_Achievements": "2023-09-09T01:42:25.7559441+00:00",
   "LastUpdate_AppInfo": "2023-09-05T23:57:21.8504773+00:00",
-  "LastUpdate_Ratings": "2023-09-08T23:58:18.6953178+00:00",
-  "LastUpdate_Achievements": "2023-09-09T00:03:21.0833841+00:00"
+  "LastUpdate_Ratings": "2023-09-09T01:37:10.7529312+00:00",
+  "LastUpdate_Achievements": "2023-09-09T01:42:25.7559935+00:00"
 }

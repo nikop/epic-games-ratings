@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -679,9 +679,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PROGRESS_N4",
@@ -710,8 +710,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-09T00:05:20.2736175+00:00",
+  "LastChanged_Achievements": "2023-09-09T01:45:05.750441+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.0687016+00:00",
-  "LastUpdate_Ratings": "2023-09-09T00:00:41.2843023+00:00",
-  "LastUpdate_Achievements": "2023-09-09T00:05:20.2736406+00:00"
+  "LastUpdate_Ratings": "2023-09-09T01:40:09.7101041+00:00",
+  "LastUpdate_Achievements": "2023-09-09T01:45:05.7504789+00:00"
 }

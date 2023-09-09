@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 37.00% | ~158 |
-| Hear That Roar! | 34.00% | ~146 |
-| Clean Race | 33.00% | ~141 |
-| Rivals to the End | 28.00% | ~120 |
-| Eat My Dust | 24.00% | ~103 |
-| We're Going to Need a Bigger Garage | 21.00% | ~90 |
-| I'm Here Too! | 21.00% | ~90 |
+| First Love | 37.00% | ~160 |
+| Hear That Roar! | 34.00% | ~147 |
+| Clean Race | 34.00% | ~147 |
+| Rivals to the End | 28.00% | ~121 |
+| Eat My Dust | 24.00% | ~104 |
+| We're Going to Need a Bigger Garage | 22.00% | ~95 |
+| I'm Here Too! | 21.00% | ~91 |
 | I Want One Too! | 14.00% | ~60 |
 | Bitter Rivalry | 14.00% | ~60 |
-| Restored and Ready | 12.00% | ~51 |
-| Quick Pit Stop | 11.00% | ~47 |
-| Champagne Spray | 11.00% | ~47 |
+| Restored and Ready | 12.00% | ~52 |
+| Champagne Spray | 12.00% | ~52 |
+| Quick Pit Stop | 11.00% | ~48 |
 | Go-Faster Stripes | 10.00% | ~43 |
-| Legendary!!! | 9.00% | ~39 |
-| Is It the Right Size? | 5.00% | ~21 |
-| Evangelist | 5.00% | ~21 |
+| Legendary!!! | 10.00% | ~43 |
+| Is It the Right Size? | 5.00% | ~22 |
+| Evangelist | 5.00% | ~22 |
 | Stamina Star | 4.00% | ~17 |
 | We've Just Begun | 4.00% | ~17 |
 | Make It Your Own! | 3.00% | ~13 |
@@ -28,9 +28,9 @@
 | Spoilt for Choice | 2.00% | ~9 |
 | Cherry Blossom and Temples | 2.00% | ~9 |
 | La Dolce Vita | 2.00% | ~9 |
+| The Road to Liberty | 2.00% | ~9 |
 | My Work Here Is Done | 2.00% | ~9 |
 | I'll Be the Best! | 1.00% | ~4 |
-| The Road to Liberty | 1.00% | ~4 |
 | I Make the Rules! | 1.00% | ~4 |
 | Rounding Off | 1.00% | ~4 |
 | Romantic Races | 0.90% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428 (Ranked 249)  
+Progressed: 432 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 141 | 0 |
 | 2023-09-07 | 305 | 0 |
 | 2023-09-08 | 425 | 0 |
-| 2023-09-09 | 428 | 0 |
+| 2023-09-09 | 432 | 0 |

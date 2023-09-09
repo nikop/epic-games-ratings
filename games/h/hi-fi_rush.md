@@ -32,9 +32,9 @@ Rating: 4.87 (Ranked 24)
 | I have to read these things? | 5.00% | ~201 |
 | Perfecter Parry-er! | 5.00% | ~201 |
 | Well that was a rush! | 4.00% | ~161 |
+| There's such a thing as TOO helpful | 4.00% | ~161 |
 | Beat-hit mania | 3.00% | ~121 |
 | That's a lot of junk metal… | 3.00% | ~121 |
-| There's such a thing as TOO helpful | 3.00% | ~121 |
 | Chip-tuned | 2.00% | ~80 |
 | Wanna hear my playlist? | 2.00% | ~80 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~80 |

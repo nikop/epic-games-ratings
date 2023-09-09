@@ -9,10 +9,10 @@
 | A Grand Show | 68.00% | ~42 |
 | Freshen Up | 58.00% | ~36 |
 | GG EZ | 58.00% | ~36 |
-| Hydrophobia | 42.00% | ~26 |
+| Hydrophobia | 44.00% | ~27 |
 | Ka-Ching! | 34.00% | ~21 |
 | Stop Right There | 34.00% | ~21 |
-| Get to the Point | 31.00% | ~19 |
+| Get to the Point | 32.00% | ~20 |
 | Toe to Toe | 18.00% | ~11 |
 | The Hidden Secret | 16.00% | ~10 |
 | Mr. Want It All | 16.00% | ~10 |

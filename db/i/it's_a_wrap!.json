@@ -4,8 +4,8 @@
   "ProductSlug": "its-a-wrap-f392ae",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
     "PcReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -286,9 +286,9 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "1_50_SECRET",
@@ -405,8 +405,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-09T00:04:55.3188677+00:00",
+  "LastChanged_Achievements": "2023-09-09T01:44:33.6795463+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:02.219567+00:00",
-  "LastUpdate_Ratings": "2023-09-09T00:01:01.2120597+00:00",
-  "LastUpdate_Achievements": "2023-09-09T00:04:55.3188822+00:00"
+  "LastUpdate_Ratings": "2023-09-09T01:40:36.133202+00:00",
+  "LastUpdate_Achievements": "2023-09-09T01:44:33.679564+00:00"
 }

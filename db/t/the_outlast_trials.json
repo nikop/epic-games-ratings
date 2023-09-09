@@ -2,20 +2,20 @@
   "ID": "6504cc61472e498796e0b4963a201438",
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 302,
   "Ranking_Popularity": 328,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-05-20T18:00:30.4536489+00:00",
@@ -1852,10 +1852,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 741,
       "NumberOfAwardsMax": 109
+    },
+    {
+      "Time": "2023-09-09T01:36:48.4603497+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 742,
+      "NumberOfAwardsMax": 109
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 741,
+  "NumberOfAwards": 742,
   "NumberOfAwardsMax": 109,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1899,7 +1905,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game is Educational",
@@ -1932,8 +1938,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-09-07T19:59:13.8241777+00:00",
+  "LastChanged": "2023-09-09T01:36:48.4603495+00:00",
   "LastUpdate_AppInfo": "2023-09-02T06:57:17.3064808+00:00",
-  "LastUpdate_Ratings": "2023-09-08T23:58:00.3783277+00:00",
-  "LastUpdate_Achievements": "2023-09-09T00:06:29.7874043+00:00"
+  "LastUpdate_Ratings": "2023-09-09T01:36:48.4603501+00:00",
+  "LastUpdate_Achievements": "2023-09-09T01:46:41.5422635+00:00"
 }

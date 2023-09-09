@@ -4,11 +4,11 @@
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 217,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -3885,9 +3885,9 @@
       "ID": "achPennyPincher",
       "SetID": "dgl390n",
       "Name": "Penny pincher",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 163
     },
     {
       "ID": "achPresentReached",
@@ -3989,8 +3989,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-07T13:07:44.4548407+00:00",
-  "LastChanged_Achievements": "2023-09-09T00:03:16.4390536+00:00",
+  "LastChanged_Achievements": "2023-09-09T01:42:19.5512119+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:33.3220518+00:00",
-  "LastUpdate_Ratings": "2023-09-09T00:01:26.0135279+00:00",
-  "LastUpdate_Achievements": "2023-09-09T00:03:16.4391299+00:00"
+  "LastUpdate_Ratings": "2023-09-09T01:41:13.4043482+00:00",
+  "LastUpdate_Achievements": "2023-09-09T01:42:19.5512879+00:00"
 }

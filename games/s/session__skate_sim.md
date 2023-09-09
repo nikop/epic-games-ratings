@@ -46,8 +46,8 @@ Number of Ratings: 111  (23.09.2022)
 | Pew-Pew | 3.00% | ~83 |
 | Cross lock country | 2.00% | ~56 |
 | Many plys later... | 2.00% | ~56 |
+| That was wheelie fun | 2.00% | ~56 |
 | Dipped! | 1.00% | ~28 |
-| That was wheelie fun | 1.00% | ~28 |
 | Skatepark hero | 0.90% | ~25 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,780 (Ranked 168)  
+Progressed: 2,780 (Ranked 169)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |

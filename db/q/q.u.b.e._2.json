@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,11 +338,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 231,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-08-25T13:10:51.5710377+00:00",
@@ -1103,6 +1103,11 @@
       "Time": "2023-09-09T00:04:44.897146+00:00",
       "NumProgressed": 229,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T01:44:19.9778149+00:00",
+      "NumProgressed": 231,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1115,7 +1120,7 @@
       "Name": "Descendants",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_BLUEEND",
@@ -1275,7 +1280,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_PEAK",
@@ -1283,7 +1288,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_PROPELL",
@@ -1299,7 +1304,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_S1",
@@ -1307,15 +1312,15 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_S5",
@@ -1331,7 +1336,7 @@
       "Name": "Lost in Space",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_STATUE",
@@ -1339,22 +1344,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 231,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-09T00:04:44.8971456+00:00",
+  "LastChanged_Achievements": "2023-09-09T01:44:19.9778143+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:15.0755291+00:00",
-  "LastUpdate_Ratings": "2023-09-08T23:58:39.4243709+00:00",
-  "LastUpdate_Achievements": "2023-09-09T00:04:44.8971731+00:00"
+  "LastUpdate_Ratings": "2023-09-09T01:37:34.1359048+00:00",
+  "LastUpdate_Achievements": "2023-09-09T01:44:19.9778473+00:00"
 }
