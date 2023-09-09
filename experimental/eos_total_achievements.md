@@ -606,6 +606,7 @@
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Jennifer Wilde Unlikely Revolutionaries](../games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10 | 1,000 |
 | [Monster Harvest](../games/m/monster_harvest.md) | 10 | 1,000 |
+| [Mystery in the Office](../games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 10 | 1,000 |
 | [Nephise: Ascension](../games/d/d683909340554b3396b3aa477c07639e.md) | 10 | 1,000 |
 | [Olija](../games/o/olija.md) | 10 | 1,000 |
 | [Suicide Guy](../games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 10 | 1,000 |

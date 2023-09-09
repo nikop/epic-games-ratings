@@ -4,7 +4,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.60% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.51% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.57% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.36% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.76% |
@@ -17,7 +17,7 @@
 | 15 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 15 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 18 | [Island Cities](games/i/island_cities.md) | 15.12% |
+| 18 | [Island Cities](games/i/island_cities.md) | 15.05% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
@@ -39,7 +39,7 @@
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.79% |
 | 38 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.13% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
 | 41 | [Scorn](games/s/scorn.md) | 7.02% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.89% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.58% |
@@ -75,7 +75,7 @@
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.99% |
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.91% |
+| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.90% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
@@ -106,9 +106,9 @@
 | 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 105 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
 | 106 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
-| 107 | [Five Dates](games/f/five_dates.md) | 1.50% |
+| 107 | [Five Dates](games/f/five_dates.md) | 1.49% |
 | 108 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 109 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.47% |
+| 109 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.45% |
 | 110 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 110 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
@@ -121,9 +121,9 @@
 | 119 | [A Musical Story](games/a/a_musical_story.md) | 1.03% |
 | 119 | [Adios](games/a/adios.md) | 1.03% |
 | 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.02% |
+| 122 | [Sable](games/s/sable.md) | 1.00% |
 | 122 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.00% |
-| 123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
-| 123 | [Sable](games/s/sable.md) | 0.99% |
+| 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.98% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 127 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.93% |
@@ -439,6 +439,7 @@
 | 272 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 0.00% |
 | 272 | [My Fantastic Ranch: Unicorns & Dragons](games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 0.00% |
 | 272 | [My Lovely Wife](games/m/my_lovely_wife.md) | 0.00% |
+| 272 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 0.00% |
 | 272 | [MythForce](games/m/mythforce.md) | 0.00% |
 | 272 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 0.00% |
 | 272 | [NeuroNet: Mendax Proxy](games/n/neuronet__mendax_proxy.md) | 0.00% |

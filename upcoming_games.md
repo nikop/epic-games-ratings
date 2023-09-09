@@ -49,7 +49,7 @@
 | [Molten Horn](games/m/molten_horn.md) | 2023-09-30 | - |  | - | - |
 | [Moons of Ardan](games/8/820b1fcc8d6c46e59d7ae15218b06834.md) | 2023-09-30 | - |  | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-09-30 | - |  | - | - |
-| [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-30 | - |  | - | - |
+| [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-30 | 10 (1,000 XP) | 1 | - | - |
 | [Operation Wolf Returns: First Mission VR](games/o/operation_wolf.md) | 2023-09-30 | - |  | - | - |
 | [Oxygen Cocktail](games/b/be46e9830cad476eb46085098aee4afb.md) | 2023-09-30 | - |  | - | - |
 | [Painting Werther](games/p/painting_werther.md) | 2023-09-30 | - |  | - | - |
@@ -206,7 +206,7 @@
 | [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 3,344 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 3,417 | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Xenion](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-06-30 | - |  | - | - |
