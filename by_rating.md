@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 517 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.94 | 0 | 517 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,594 | 119 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,251 | 93 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,254 | 93 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 517 |
 | 6 | [Rain World](games/r/rain_world.md) | 4.91 | 0 | 517 |
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 517 |
@@ -35,7 +35,7 @@
 | 32 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.86 | 21 | 504 |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 428 |
 | 32 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 229 |
-| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,442 | 30 |
+| 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,448 | 30 |
 | 32 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 341 |
 | 32 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 44 | 420 |
 | 32 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,415 | 129 |
@@ -71,7 +71,7 @@
 | 66 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 517 |
 | 66 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 517 |
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 448 |
-| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 653 | 175 |
+| 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 656 | 175 |
 | 66 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 245 | 258 |
 | 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,458 | 53 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 408 | 217 |
@@ -158,7 +158,7 @@
 | 147 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 517 |
 | 147 | [Tchia](games/t/tchia.md) | 4.74 | 0 | 517 |
 | 147 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 517 |
-| 147 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 799 | 158 |
+| 147 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 801 | 158 |
 | 147 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 517 |
 | 147 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 80 | 361 |
 | 147 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 517 |
@@ -281,7 +281,7 @@
 | 259 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 517 |
 | 280 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,351 | 66 |
 | 280 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 424 |
-| 280 | [Crashlands](games/c/crashlands.md) | 4.66 | 193 | 275 |
+| 280 | [Crashlands](games/c/crashlands.md) | 4.66 | 193 | 276 |
 | 280 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 169 | 289 |
 | 280 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,293 | 133 |
 | 280 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 344 | 228 |
@@ -331,7 +331,7 @@
 | 314 | [System Shock](games/s/system_shock.md) | 4.64 | 0 | 517 |
 | 314 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 517 |
 | 314 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.64 | 73 | 376 |
-| 314 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 193 | 275 |
+| 314 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 194 | 275 |
 | 333 | [ABZU](games/a/abzu.md) | 4.63 | 0 | 517 |
 | 333 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 504 |
 | 333 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 517 |
@@ -644,7 +644,7 @@
 | 641 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 247 | 257 |
 | 641 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 831 | 155 |
 | 641 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 108 | 330 |
-| 641 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,382 | 34 |
+| 641 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 11,391 | 34 |
 | 641 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 874 | 153 |
 | 641 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 118 | 322 |
 | 641 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 517 |
