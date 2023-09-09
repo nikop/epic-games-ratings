@@ -23,7 +23,7 @@
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,138 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 16,915 | 4.60 | 392 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,248 | 4.76 | 118 |
-| 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,468 | 4.58 | 431 |
+| 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,470 | 4.58 | 431 |
 | 25 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,662 | 4.60 | 392 |
 | 26 | [Maneater](games/m/maneater.md) | 13,661 | 4.49 | 579 |
 | 27 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,650 | 4.60 | 392 |
@@ -72,12 +72,12 @@
 | 70 | [Shop Titans](games/s/shop_titans.md) | 4,730 | 3.99 | 943 |
 | 71 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,711 | 4.77 | 110 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,595 | 4.60 | 392 |
-| 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,571 | 4.70 | 201 |
+| 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,573 | 4.70 | 201 |
 | 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,525 | 4.70 | 201 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,483 | 4.76 | 118 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,426 | 4.56 | 471 |
 | 77 | [SMITE](games/s/smite.md) | 4,251 | 4.44 | 649 |
-| 78 | [God of War](games/g/god_of_war.md) | 4,242 | 4.88 | 19 |
+| 78 | [God of War](games/g/god_of_war.md) | 4,246 | 4.88 | 19 |
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,120 | 4.51 | 547 |
 | 80 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 3,968 | 4.68 | 241 |
 | 81 | [Days Gone](games/d/days_gone.md) | 3,933 | 4.68 | 241 |
@@ -183,7 +183,7 @@
 | 181 | [MORDHAU](games/m/mordhau.md) | 608 | 4.39 | 722 |
 | 182 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 607 | 4.63 | 333 |
 | 182 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 607 | 4.67 | 259 |
-| 184 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 603 | 4.73 | 163 |
+| 184 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 605 | 4.73 | 163 |
 | 185 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 601 | 4.24 | 841 |
 | 186 | [Riders Republic](games/r/riders_republic.md) | 588 | 4.75 | 135 |
 | 187 | [Star Trek Online](games/s/star_trek_online.md) | 580 | 4.44 | 649 |
@@ -326,9 +326,9 @@
 | 324 | [Overcooked](games/o/overcooked.md) | 115 | 4.67 | 259 |
 | 325 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 114 | 4.36 | 747 |
 | 326 | [Faeria](games/f/faeria.md) | 111 | 4.46 | 627 |
+| 327 | [The Outlast Trials](games/t/the_outlast_trials.md) | 110 | 4.65 | 302 |
 | 327 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 110 | 4.40 | 713 |
-| 328 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 109 | 4.51 | 547 |
-| 328 | [The Outlast Trials](games/t/the_outlast_trials.md) | 109 | 4.65 | 302 |
+| 329 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 109 | 4.51 | 547 |
 | 330 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 108 | 4.50 | 565 |
 | 330 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 108 | 4.45 | 641 |
 | 332 | [Phantom Brigade](games/p/phantom_brigade.md) | 106 | 4.61 | 368 |
@@ -435,14 +435,14 @@
 | 431 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 38 | 4.48 | 602 |
 | 431 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 38 | 4.77 | 110 |
 | 435 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 37 | 4.43 | 665 |
+| 435 | [Hell is Others](games/h/hell_is_others.md) | 37 | 4.41 | 690 |
 | 435 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 37 | 4.41 | 690 |
 | 435 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 37 | 4.49 | 579 |
-| 438 | [20XX](games/2/20xx.md) | 36 | 4.61 | 368 |
-| 438 | [Hell is Others](games/h/hell_is_others.md) | 36 | 4.41 | 690 |
-| 438 | [Isonzo](games/i/isonzo.md) | 36 | 4.56 | 471 |
-| 438 | [Steelrising](games/s/steelrising.md) | 36 | 4.28 | 814 |
-| 438 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 36 | 4.63 | 333 |
-| 438 | [Voidtrain](games/v/voidtrain.md) | 36 | 4.50 | 565 |
+| 439 | [20XX](games/2/20xx.md) | 36 | 4.61 | 368 |
+| 439 | [Isonzo](games/i/isonzo.md) | 36 | 4.56 | 471 |
+| 439 | [Steelrising](games/s/steelrising.md) | 36 | 4.28 | 814 |
+| 439 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 36 | 4.63 | 333 |
+| 439 | [Voidtrain](games/v/voidtrain.md) | 36 | 4.50 | 565 |
 | 444 | [DEATHLOOP](games/d/deathloop.md) | 35 | 4.54 | 505 |
 | 444 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 35 | 4.52 | 532 |
 | 444 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 190 |
