@@ -41,7 +41,7 @@
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,027 | 4.58 | 431 |
 | 40 | [Control](games/c/control.md) | 8,490 | 4.60 | 392 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,128 | 4.89 | 13 |
-| 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,959 | 4.48 | 602 |
+| 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,967 | 4.48 | 602 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,823 | 4.85 | 42 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,788 | 4.57 | 451 |
 | 45 | [Supraland](games/s/supraland.md) | 7,683 | 4.61 | 368 |
@@ -73,7 +73,7 @@
 | 71 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,711 | 4.77 | 109 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,598 | 4.60 | 392 |
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,573 | 4.70 | 201 |
-| 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,525 | 4.70 | 201 |
+| 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,527 | 4.70 | 201 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,492 | 4.76 | 117 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,433 | 4.56 | 470 |
 | 77 | [SMITE](games/s/smite.md) | 4,251 | 4.44 | 649 |
@@ -138,7 +138,7 @@
 | 136 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,187 | 4.69 | 217 |
 | 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,184 | 4.61 | 368 |
 | 138 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,077 | 4.61 | 368 |
-| 139 | [EVE Online](games/e/eve_online.md) | 1,074 | 4.25 | 834 |
+| 139 | [EVE Online](games/e/eve_online.md) | 1,074 | 4.25 | 833 |
 | 140 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,065 | 4.66 | 279 |
 | 141 | [Saints Row](games/s/saints_row.md) | 1,064 | 3.78 | 976 |
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,027 | 4.39 | 722 |
@@ -498,7 +498,7 @@
 | 494 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 23 | 4.49 | 580 |
 | 494 | [Tunche](games/t/tunche.md) | 23 | 4.43 | 665 |
 | 498 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 22 | 4.86 | 31 |
-| 498 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 834 |
+| 498 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 833 |
 | 498 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 866 |
 | 498 | [MotoGP™21](games/m/motogp™21.md) | 22 | 4.54 | 505 |
 | 498 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.88 | 19 |
