@@ -6,45 +6,45 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,884 |
-| That's a Grand Army | 3.00% | ~11,913 |
-| That is mine! | 3.00% | ~11,913 |
-| Victorious! | 3.00% | ~11,913 |
-| Brothers in Arms | 2.00% | ~7,942 |
-| For the Glory | 2.00% | ~7,942 |
-| That's a Grand Navy | 2.00% | ~7,942 |
-| Seriously?! | 2.00% | ~7,942 |
-| Cold War | 1.00% | ~3,971 |
-| Defender of the Faith | 1.00% | ~3,971 |
-| It's all about the money | 1.00% | ~3,971 |
-| The Princess is in this Castle | 1.00% | ~3,971 |
-| True Catholic | 1.00% | ~3,971 |
-| Respected | 0.90% | ~3,574 |
-| Truly Divine Ruler | 0.90% | ~3,574 |
-| It's all about luck | 0.80% | ~3,177 |
+| Until death do us apart | 4.00% | ~15,888 |
+| That's a Grand Army | 3.00% | ~11,916 |
+| That is mine! | 3.00% | ~11,916 |
+| Victorious! | 3.00% | ~11,916 |
+| Brothers in Arms | 2.00% | ~7,944 |
+| For the Glory | 2.00% | ~7,944 |
+| That's a Grand Navy | 2.00% | ~7,944 |
+| Seriously?! | 2.00% | ~7,944 |
+| Cold War | 1.00% | ~3,972 |
+| Defender of the Faith | 1.00% | ~3,972 |
+| It's all about the money | 1.00% | ~3,972 |
+| The Princess is in this Castle | 1.00% | ~3,972 |
+| True Catholic | 1.00% | ~3,972 |
+| Respected | 0.90% | ~3,575 |
+| Truly Divine Ruler | 0.90% | ~3,575 |
+| It's all about luck | 0.80% | ~3,178 |
 | Blockader | 0.70% | ~2,780 |
 | Double the Love | 0.70% | ~2,780 |
 | Royal Authority | 0.70% | ~2,780 |
 | Total Control | 0.70% | ~2,780 |
 | My armies are invincible! | 0.60% | ~2,383 |
-| Agressive Expander | 0.50% | ~1,985 |
-| City of Cities | 0.50% | ~1,985 |
-| Combined Arms | 0.50% | ~1,985 |
-| Azur semé de lis or | 0.40% | ~1,588 |
-| Gentle Persuasion | 0.40% | ~1,588 |
-| Queen of Conquest | 0.40% | ~1,588 |
-| This navy can take it all | 0.40% | ~1,588 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,191 |
-| Bright Spark | 0.30% | ~1,191 |
-| Down Under | 0.30% | ~1,191 |
-| The Emperors new clothes | 0.30% | ~1,191 |
-| Factionalism | 0.30% | ~1,191 |
-| A Golden Empire | 0.30% | ~1,191 |
-| Isn't this the way to India? | 0.30% | ~1,191 |
-| Market Control | 0.30% | ~1,191 |
-| Populists in Government | 0.30% | ~1,191 |
-| The Five Colonies | 0.30% | ~1,191 |
-| Trustworthy | 0.30% | ~1,191 |
+| Agressive Expander | 0.50% | ~1,986 |
+| City of Cities | 0.50% | ~1,986 |
+| Combined Arms | 0.50% | ~1,986 |
+| Azur semé de lis or | 0.40% | ~1,589 |
+| Gentle Persuasion | 0.40% | ~1,589 |
+| Queen of Conquest | 0.40% | ~1,589 |
+| This navy can take it all | 0.40% | ~1,589 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,192 |
+| Bright Spark | 0.30% | ~1,192 |
+| Down Under | 0.30% | ~1,192 |
+| The Emperors new clothes | 0.30% | ~1,192 |
+| Factionalism | 0.30% | ~1,192 |
+| A Golden Empire | 0.30% | ~1,192 |
+| Isn't this the way to India? | 0.30% | ~1,192 |
+| Market Control | 0.30% | ~1,192 |
+| Populists in Government | 0.30% | ~1,192 |
+| The Five Colonies | 0.30% | ~1,192 |
+| Trustworthy | 0.30% | ~1,192 |
 | All belongs to Mother Russia | 0.20% | ~794 |
 | At every continent | 0.20% | ~794 |
 | Electable! | 0.20% | ~794 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397,092 (Ranked 40)  
+Progressed: 397,206 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -503,22 +503,22 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 393,860 | 0 |
 | 2023-09-07 | 394,982 | 0 |
 | 2023-09-08 | 396,260 | 0 |
-| 2023-09-09 | 397,092 | 0 |
+| 2023-09-09 | 397,206 | 0 |
 ## Awards
 Max (Educational): 5,991  (Ranked 57)  
-Sum: 49,320 (Ranked 26)  
+Sum: 49,384 (Ranked 26)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,991 |
-| This game is Highly Recommended | 5,722 |
+| This game is Highly Recommended | 5,749 |
 | This game is Extremely Fun | 5,687 |
 | This game has Challenging Combat | 5,683 |
 | This game has Diverse Characters | 5,663 |
 | This game is Relaxing | 5,516 |
-| This game has Competitive Players | 5,355 |
+| This game has Competitive Players | 5,370 |
 | This game has Amazing Storytelling | 5,041 |
-| This game has Amazing Characters | 4,662 |
+| This game has Amazing Characters | 4,684 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -758,4 +758,4 @@ Diff (max vs sum): 31
 | 2023-09-06 | 4.69 | - | 5,958 | 49,001 |
 | 2023-09-07 | 4.69 | - | 5,981 | 49,139 |
 | 2023-09-08 | 4.69 | - | 5,991 | 49,282 |
-| 2023-09-09 | 4.69 | - | 5,991 | 49,320 |
+| 2023-09-09 | 4.69 | - | 5,991 | 49,384 |

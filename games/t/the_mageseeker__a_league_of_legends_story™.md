@@ -19,7 +19,7 @@ Rating: 4.82 (Ranked 66)
 | Elemental master | 35.00% | ~890 |
 | Ternmoat Headquarters | 35.00% | ~890 |
 | Cypress Glen Headquarters | 33.00% | ~839 |
-| Petricite Burst | 31.00% | ~788 |
+| Petricite Burst | 32.00% | ~813 |
 | Hijack | 29.00% | ~737 |
 | Old friend | 29.00% | ~737 |
 | Devineur | 29.00% | ~737 |

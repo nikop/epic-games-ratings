@@ -38,14 +38,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.60% | ~815 |
 | Accomplished Merchant | 0.60% | ~815 |
 | Arcane Industries | 0.60% | ~815 |
-| Tax not Included | 0.50% | ~679 |
-| Research & Development | 0.50% | ~679 |
-| Fated Encounters | 0.50% | ~679 |
-| Power of Love | 0.50% | ~679 |
-| Flawless Fusion | 0.50% | ~679 |
-| Royal Ransom | 0.50% | ~679 |
-| Natural 20 | 0.50% | ~679 |
-| Magical Harmony | 0.50% | ~679 |
+| Tax not Included | 0.50% | ~680 |
+| Research & Development | 0.50% | ~680 |
+| Fated Encounters | 0.50% | ~680 |
+| Power of Love | 0.50% | ~680 |
+| Flawless Fusion | 0.50% | ~680 |
+| Royal Ransom | 0.50% | ~680 |
+| Natural 20 | 0.50% | ~680 |
+| Magical Harmony | 0.50% | ~680 |
 | A Notch Above the Rest | 0.40% | ~544 |
 | Cream of the Crop | 0.40% | ~544 |
 | Proud Paladin | 0.40% | ~544 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,899 (Ranked 68)  
+Progressed: 135,906 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,14 +261,14 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
-| 2023-09-09 | 135,899 | 147 |
+| 2023-09-09 | 135,906 | 147 |
 ## Awards
-Max (Great for Beginners): 4,730  (Ranked 70)  
-Sum: 27,195 (Ranked 49)  
+Max (Great for Beginners): 4,733  (Ranked 70)  
+Sum: 27,198 (Ranked 49)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,730 |
+| This game is Great for Beginners | 4,733 |
 | This game is Relaxing | 4,007 |
 | This game has Quickly Understood Controls | 3,993 |
 | This game has Diverse Characters | 3,873 |
@@ -504,4 +504,4 @@ Diff (max vs sum): 21
 | 2023-09-06 | 3.99 | - | 4,727 | 27,182 |
 | 2023-09-07 | 3.99 | - | 4,727 | 27,184 |
 | 2023-09-08 | 3.99 | - | 4,730 | 27,189 |
-| 2023-09-09 | 3.99 | - | 4,730 | 27,195 |
+| 2023-09-09 | 3.99 | - | 4,733 | 27,198 |

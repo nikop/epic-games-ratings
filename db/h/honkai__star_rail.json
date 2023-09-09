@@ -4,11 +4,11 @@
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 146,
   "Ranking_Popularity": 35,
-  "Ranking_PopularitySum": 40,
+  "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -3910,10 +3910,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 29971,
       "NumberOfAwardsMax": 10961
+    },
+    {
+      "Time": "2023-09-09T14:57:49.9440227+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 30149,
+      "NumberOfAwardsMax": 10961
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29971,
+  "NumberOfAwards": 30149,
   "NumberOfAwardsMax": 10961,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3939,7 +3945,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 2203
+      "Count": 2277
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3951,7 +3957,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 1710
+      "Count": 1768
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3969,7 +3975,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1633
+      "Count": 1679
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4002,8 +4008,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2023-09-09T13:58:32.2026689+00:00",
+  "LastChanged": "2023-09-09T14:57:49.9440225+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:22.7043359+00:00",
-  "LastUpdate_Ratings": "2023-09-09T13:58:32.2026697+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:05:26.2231326+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:57:49.9440232+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:04:18.7875912+00:00"
 }

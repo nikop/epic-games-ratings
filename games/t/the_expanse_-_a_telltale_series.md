@@ -1,24 +1,24 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.59 (Ranked 416)  
+Rating: 4.59 (Ranked 417)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 29.00% | ~2,990 |
-| Stogie for Fogey | 25.00% | ~2,577 |
-| Martian Music | 22.00% | ~2,268 |
-| Captain Drummer | 22.00% | ~2,268 |
-| Spore Taste | 21.00% | ~2,165 |
-| Celebrations are in Order | 21.00% | ~2,165 |
+| Impossible Objects | 30.00% | ~3,094 |
+| Stogie for Fogey | 25.00% | ~2,578 |
+| Martian Music | 22.00% | ~2,269 |
+| Captain Drummer | 22.00% | ~2,269 |
+| Spore Taste | 21.00% | ~2,166 |
+| Celebrations are in Order | 21.00% | ~2,166 |
 | Doctor Approved | 18.00% | ~1,856 |
-| Thorston Mayer | 12.00% | ~1,237 |
+| Thorston Mayer | 12.00% | ~1,238 |
 | The Pit and the Pirates | 10.00% | ~1,031 |
 | Bottoms up! | 10.00% | ~1,031 |
-| Drone Dodger | 9.00% | ~928 |
-| Data Logger | 5.00% | ~515 |
-| Data Master | 5.00% | ~515 |
-| Data Recoverer | 5.00% | ~515 |
+| Drone Dodger | 10.00% | ~1,031 |
+| Data Logger | 5.00% | ~516 |
+| Data Master | 5.00% | ~516 |
+| Data Recoverer | 5.00% | ~516 |
 | Debris Spree | 3.00% | ~309 |
 | Urshanabi Hoarder | 2.00% | ~206 |
 | Grave Robber | 2.00% | ~206 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 416)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,309 (Ranked 127)  
+Progressed: 10,313 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 10,141 | 0 |
 | 2023-09-07 | 10,199 | 0 |
 | 2023-09-08 | 10,264 | 0 |
-| 2023-09-09 | 10,309 | 0 |
+| 2023-09-09 | 10,313 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

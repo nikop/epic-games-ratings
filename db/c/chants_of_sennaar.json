@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -583,9 +583,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "META_RESULT_1-2",
@@ -615,9 +615,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "META_RESULT_2-4",
@@ -631,9 +631,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -687,9 +687,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -703,9 +703,9 @@
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "PROGRESS_N2",
@@ -727,9 +727,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "PROGRESS_N5",
@@ -750,8 +750,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:06:52.4827251+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:05:22.3454652+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:01:52.7993369+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:06:52.4827481+00:00"
+  "LastUpdate_Ratings": "2023-09-09T15:00:03.8735392+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:05:22.3455013+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -488,9 +488,9 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CATCH_30_FISH",
@@ -608,9 +608,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
@@ -623,8 +623,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:05:07.156615+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:04:04.2633982+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-09T13:59:10.4183683+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:05:07.1566442+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:58:14.692888+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:04:04.2634165+00:00"
 }

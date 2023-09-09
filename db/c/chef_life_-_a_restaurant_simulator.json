@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 576,
+  "EOS_Progressed": 577,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2479,6 +2479,11 @@
       "Time": "2023-09-07T09:03:20.8755781+00:00",
       "NumProgressed": 576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T15:03:32.130832+00:00",
+      "NumProgressed": 577,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2546,7 +2551,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "Clothes10",
@@ -2648,9 +2653,9 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 46
     },
     {
       "ID": "Money10000",
@@ -2666,7 +2671,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "Packing20",
@@ -2746,7 +2751,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "TrattoriaSet",
@@ -2809,7 +2814,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 576,
+      "Progressed": 577,
       "Completed": 0
     }
   ],
@@ -2817,8 +2822,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:04:23.3512741+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:03:32.1308315+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6350112+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:01:03.6175479+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:04:23.3513531+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:59:32.2481373+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:03:32.1308831+00:00"
 }

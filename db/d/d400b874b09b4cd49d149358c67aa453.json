@@ -4,8 +4,8 @@
   "ProductSlug": "electrician-simulator-164e9f",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -851,6 +851,11 @@
       "Time": "2023-09-07T10:05:38.1649375+00:00",
       "NumProgressed": 272,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T15:05:13.4112812+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -919,7 +924,7 @@
       "Name": "Ready to go",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -1007,7 +1012,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -1031,7 +1036,7 @@
       "Name": "Unpacked",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -1070,14 +1075,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:06:40.7027564+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:05:13.4112807+00:00",
   "LastUpdate_AppInfo": "2023-09-06T19:57:00.4616496+00:00",
-  "LastUpdate_Ratings": "2023-09-09T13:59:13.4510333+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:06:40.7027962+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:58:16.8390162+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:05:13.4113075+00:00"
 }

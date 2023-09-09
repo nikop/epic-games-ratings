@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1683,9 +1683,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13827,
+  "EOS_Progressed": 13828,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11178,6 +11178,11 @@
       "Time": "2023-09-09T14:07:19.2104242+00:00",
       "NumProgressed": 13827,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-09T15:05:42.1642091+00:00",
+      "NumProgressed": 13828,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11835,9 +11840,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
       "SetID": "9201eeb",
       "Name": "Valiant",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 277
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -13556,21 +13561,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13827,
+      "Progressed": 13828,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13827,
+      "Progressed": 13828,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:07:19.2104236+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:05:42.1642085+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:00:26.4049901+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:07:19.2114198+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:59:07.144691+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:05:42.165191+00:00"
 }

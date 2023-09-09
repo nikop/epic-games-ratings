@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.58 (Ranked 431)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,7 +43,7 @@ Number of Ratings: 154  (23.09.2022)
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 455 (Ranked 248)  
-Completed: 41 (9.01%) (Ranked 33)  
+Completed: 41 (9.01%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

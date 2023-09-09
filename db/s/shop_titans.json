@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5870,11 +5870,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27195,
       "NumberOfAwardsMax": 4730
+    },
+    {
+      "Time": "2023-09-09T14:59:34.1426322+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27198,
+      "NumberOfAwardsMax": 4733
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27195,
-  "NumberOfAwardsMax": 4730,
+  "NumberOfAwards": 27198,
+  "NumberOfAwardsMax": 4733,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5893,7 +5899,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4730
+      "Count": 4733
     },
     {
       "Text": "This game has Easy Combat",
@@ -5926,9 +5932,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135899,
+  "EOS_Progressed": 135906,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20516,6 +20522,11 @@
       "Time": "2023-09-09T14:06:59.3302718+00:00",
       "NumProgressed": 135899,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-09-09T15:05:27.4861886+00:00",
+      "NumProgressed": 135906,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 112,
@@ -20615,7 +20626,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "bigsale03",
@@ -20639,7 +20650,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "blueprint03",
@@ -20687,7 +20698,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "chest01",
@@ -20887,7 +20898,7 @@
       "Name": "Power of Love",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "energy03",
@@ -20967,7 +20978,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "fuselegendary",
@@ -21023,7 +21034,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "gold05",
@@ -21191,7 +21202,7 @@
       "Name": "Natural 20",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "master03",
@@ -21351,7 +21362,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "typeunlock01",
@@ -21422,15 +21433,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135899,
+      "Progressed": 135906,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-09T10:00:34.1210144+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:06:59.3302712+00:00",
+  "LastChanged": "2023-09-09T14:59:34.142632+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:05:27.4861881+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:01:06.2870165+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:06:59.3305455+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:59:34.1426326+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:05:27.4864352+00:00"
 }

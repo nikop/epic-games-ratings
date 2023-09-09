@@ -2,20 +2,20 @@
   "ID": "ae6aa949a2874b5fa15e8ab96bd77fee",
   "Name": "Steelrising",
   "ProductSlug": "steelrising",
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 804,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-08T16:00:00+00:00",
     "PcReleaseDate": "2022-09-08T16:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "NumberOfRatings": 122,
   "RatingHistory": [
     {
@@ -301,6 +301,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 36,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-09-09T14:58:56.5003681+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 36,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
@@ -327,8 +333,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-08T17:01:22.0375531+00:00",
   "FirstSeenRating": "2022-09-10T17:30:37.2290833+00:00",
-  "LastChanged": "2023-08-27T13:02:08.2859378+00:00",
+  "LastChanged": "2023-09-09T14:58:56.500368+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:59.3168675+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:00:11.4666319+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:06:44.9732314+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:58:56.5003684+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:05:16.5409431+00:00"
 }

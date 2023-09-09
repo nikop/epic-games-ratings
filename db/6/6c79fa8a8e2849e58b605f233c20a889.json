@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2486,
+  "EOS_Progressed": 2489,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5616,6 +5616,11 @@
       "Time": "2023-09-09T12:04:06.2082522+00:00",
       "NumProgressed": 2486,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T15:03:22.2504124+00:00",
+      "NumProgressed": 2489,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5643,7 +5648,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "CLUMSY",
@@ -5659,7 +5664,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -5681,9 +5686,9 @@
       "ID": "FACE_SCREEN_FACE",
       "SetID": "8lhbnh7",
       "Name": "Face-To-Screen-To-Face",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 100
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -5707,7 +5712,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "GLOVE_SLAP",
@@ -5731,7 +5736,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "GUARD_MAKER",
@@ -5802,14 +5807,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2486,
+      "Progressed": 2489,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:04:12.1020773+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:03:22.2504111+00:00",
   "LastUpdate_AppInfo": "2023-09-05T23:57:21.8504773+00:00",
-  "LastUpdate_Ratings": "2023-09-09T13:59:09.4382791+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:04:12.1021285+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:58:14.091236+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:03:22.2504573+00:00"
 }

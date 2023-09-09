@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -68,11 +68,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 618,
+  "EOS_Progressed": 619,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.27,
+  "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1583,6 +1583,11 @@
       "Time": "2023-09-09T07:08:24.8657752+00:00",
       "NumProgressed": 618,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-09T15:02:07.5141411+00:00",
+      "NumProgressed": 619,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1609,9 +1614,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 340
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1659,7 +1664,7 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "_10_Completion_30",
@@ -1715,7 +1720,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1745,9 +1750,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 130
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1763,7 +1768,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1771,7 +1776,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1802,7 +1807,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 618,
+      "Progressed": 619,
       "Completed": 14
     }
   ],
@@ -1810,8 +1815,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:02:40.3015078+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:02:07.5141405+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:00:40.8153858+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:02:40.3015702+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:59:16.737766+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:02:07.514241+00:00"
 }

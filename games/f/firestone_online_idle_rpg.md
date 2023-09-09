@@ -10,7 +10,7 @@ Rating: 4.00 (Ranked 940)
 | Temple of Eternals | 57.00% | ~1,093 |
 | Prestigious | 54.00% | ~1,035 |
 | Fellowship Power | 41.00% | ~786 |
-| Guild Power | 25.00% | ~479 |
+| Guild Power | 26.00% | ~498 |
 | Prestigious x10 | 22.00% | ~422 |
 | The game is on | 21.00% | ~403 |
 | Exotic Merchant | 19.00% | ~364 |
@@ -69,7 +69,7 @@ Rating: 4.00 (Ranked 940)
 | Titan Power | 1.00% | ~19 |
 | Training makes a Pro player | 1.00% | ~19 |
 | Transmute | 1.00% | ~19 |
-| Tree of Life | 0.90% | ~17 |
+| Tree of Life | 1.00% | ~19 |
 | Enhanced War Machines | 0.80% | ~15 |
 | Enchanting skill x5 | 0.70% | ~13 |
 | Angel Power | 0.60% | ~12 |

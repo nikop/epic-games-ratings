@@ -1,33 +1,33 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.58 (Ranked 431)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,268 |
-| Uncharted Territory | 89.00% | ~209,769 |
-| Getting A Glimpse | 73.00% | ~172,058 |
-| A Quick Escape | 65.00% | ~153,202 |
-| Explorer | 62.00% | ~146,132 |
-| Defeat The Dark | 61.00% | ~143,775 |
-| An Offering | 61.00% | ~143,775 |
-| Colorful Corpse | 58.00% | ~136,704 |
-| That Was Quick | 57.00% | ~134,347 |
-| A Donation | 57.00% | ~134,347 |
-| Goodbye, Frog Friend | 54.00% | ~127,276 |
-| Heavy Hitter | 53.00% | ~124,919 |
-| Heartless | 46.00% | ~108,420 |
-| Spine Breaker | 46.00% | ~108,420 |
-| Deflection | 45.00% | ~106,063 |
-| Sneaky | 43.00% | ~101,349 |
-| Delving Deeper | 42.00% | ~98,992 |
-| C-C-Combo | 42.00% | ~98,992 |
-| Ambitious Intent | 41.00% | ~96,635 |
-| Nothing To Lose | 40.00% | ~94,278 |
-| The Bestiary | 40.00% | ~94,278 |
-| What's Yours Is Mine | 38.00% | ~89,564 |
+| First Steps | 96.00% | ~226,270 |
+| Uncharted Territory | 89.00% | ~209,771 |
+| Getting A Glimpse | 73.00% | ~172,060 |
+| A Quick Escape | 65.00% | ~153,204 |
+| Explorer | 62.00% | ~146,133 |
+| Defeat The Dark | 61.00% | ~143,776 |
+| An Offering | 61.00% | ~143,776 |
+| Colorful Corpse | 58.00% | ~136,705 |
+| That Was Quick | 57.00% | ~134,348 |
+| A Donation | 57.00% | ~134,348 |
+| Goodbye, Frog Friend | 54.00% | ~127,277 |
+| Heavy Hitter | 53.00% | ~124,920 |
+| Heartless | 46.00% | ~108,421 |
+| Spine Breaker | 46.00% | ~108,421 |
+| Deflection | 45.00% | ~106,064 |
+| Sneaky | 43.00% | ~101,350 |
+| Delving Deeper | 42.00% | ~98,993 |
+| C-C-Combo | 42.00% | ~98,993 |
+| Ambitious Intent | 41.00% | ~96,636 |
+| Nothing To Lose | 40.00% | ~94,279 |
+| The Bestiary | 40.00% | ~94,279 |
+| What's Yours Is Mine | 38.00% | ~89,565 |
 | R.I.P | 36.00% | ~84,851 |
 | Shootout | 36.00% | ~84,851 |
 | I Am Overburdened | 35.00% | ~82,494 |
@@ -45,20 +45,20 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shapeshifting | 27.00% | ~63,638 |
 | Destroy Your Fears | 26.00% | ~61,281 |
 | Save Our Souls | 25.00% | ~58,924 |
-| To The Death! | 20.00% | ~47,139 |
-| Well Prepared | 20.00% | ~47,139 |
-| Just Chilling | 20.00% | ~47,139 |
-| Stop Hitting Yourself | 19.00% | ~44,782 |
-| All Consuming | 18.00% | ~42,425 |
-| Shadow Spreads | 17.00% | ~40,068 |
-| Don't Ignore Me! | 17.00% | ~40,068 |
-| Illuminate, Eliminate | 17.00% | ~40,068 |
-| Max Damage! | 16.00% | ~37,711 |
-| Doing Time | 16.00% | ~37,711 |
-| Spreading Plague | 15.00% | ~35,354 |
-| The Long Run | 14.00% | ~32,997 |
-| A Rough Road | 13.00% | ~30,640 |
-| Chain Reaction | 13.00% | ~30,640 |
+| To The Death! | 20.00% | ~47,140 |
+| Well Prepared | 20.00% | ~47,140 |
+| Just Chilling | 20.00% | ~47,140 |
+| Stop Hitting Yourself | 19.00% | ~44,783 |
+| All Consuming | 18.00% | ~42,426 |
+| Shadow Spreads | 17.00% | ~40,069 |
+| Don't Ignore Me! | 17.00% | ~40,069 |
+| Illuminate, Eliminate | 17.00% | ~40,069 |
+| Max Damage! | 16.00% | ~37,712 |
+| Doing Time | 16.00% | ~37,712 |
+| Spreading Plague | 15.00% | ~35,355 |
+| The Long Run | 14.00% | ~32,998 |
+| A Rough Road | 13.00% | ~30,641 |
+| Chain Reaction | 13.00% | ~30,641 |
 | Berzerker | 12.00% | ~28,284 |
 | Antivenom | 12.00% | ~28,284 |
 | Thank You, Friend | 11.00% | ~25,927 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,178 |
 | Near Death Experience | 0.30% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,696 (Ranked 51)  
+Progressed: 235,698 (Ranked 51)  
 Completed: 266 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,15 +271,15 @@ Completed: 266 (0.11%) (Ranked 215)
 | 2023-09-06 | 235,580 | 266 |
 | 2023-09-07 | 235,617 | 266 |
 | 2023-09-08 | 235,657 | 266 |
-| 2023-09-09 | 235,696 | 266 |
+| 2023-09-09 | 235,698 | 266 |
 ## Awards
 Max (Great for Beginners): 1,495  (Ranked 122)  
-Sum: 13,044 (Ranked 74)  
+Sum: 13,045 (Ranked 74)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,495 |
-| This game has Quickly Understood Controls | 1,489 |
+| This game has Quickly Understood Controls | 1,490 |
 | This game is Relaxing | 1,422 |
 | This game has Challenging Combat | 1,413 |
 | This game is Extremely Fun | 1,401 |
@@ -444,3 +444,4 @@ Diff (max vs sum): 48
 | 2023-09-03 | 4.58 | - | 1,488 | 11,546 |
 | 2023-09-06 | 4.58 | - | 1,495 | 13,042 |
 | 2023-09-07 | 4.58 | - | 1,495 | 13,044 |
+| 2023-09-09 | 4.58 | - | 1,495 | 13,045 |

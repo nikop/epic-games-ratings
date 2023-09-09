@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -282,7 +282,7 @@
   ],
   "EOS_Progressed": 1917,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5721,9 +5721,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 498
     },
     {
       "ID": "herewegoagain",
@@ -6033,9 +6033,9 @@
       "ID": "treeoflife",
       "SetID": "3nl4bcg",
       "Name": "Tree of Life",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ultimatewarmachines",
@@ -6098,8 +6098,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T22:59:12.0182911+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:06:08.1762346+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:04:49.6537505+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.1476243+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:00:26.9683635+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:06:08.1763467+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:59:07.5880199+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:04:49.653857+00:00"
 }

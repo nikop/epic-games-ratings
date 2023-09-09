@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 464,
+  "EOS_Progressed": 468,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -359,6 +359,11 @@
       "Time": "2023-09-09T14:06:11.5172402+00:00",
       "NumProgressed": 464,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T15:04:51.8339894+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -369,9 +374,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 173
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -379,7 +384,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -403,7 +408,7 @@
       "Name": "Restored and Ready",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -425,9 +430,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "c7hf6a4",
       "Name": "I Want One Too!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 70
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -443,7 +448,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -457,9 +462,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "c7hf6a4",
       "Name": "Legendary!!!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 51
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -473,9 +478,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 56
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -547,7 +552,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -579,7 +584,7 @@
       "Name": "Clean Race",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -667,7 +672,7 @@
       "Name": "Eat My Dust",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -723,7 +728,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -762,14 +767,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 464,
+      "Progressed": 468,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-09T14:06:11.5172396+00:00",
+  "LastChanged_Achievements": "2023-09-09T15:04:51.8339882+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:01:02.1141742+00:00",
-  "LastUpdate_Achievements": "2023-09-09T14:06:11.5172886+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:59:31.089162+00:00",
+  "LastUpdate_Achievements": "2023-09-09T15:04:51.8340372+00:00"
 }

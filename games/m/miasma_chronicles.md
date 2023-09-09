@@ -5,12 +5,12 @@ Rating: 4.43 (Ranked 665)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,287 |
-| Ranidaphobia | 78.00% | ~1,091 |
-| Aspiring Editor | 75.00% | ~1,049 |
-| Gun for Hire | 70.00% | ~979 |
-| I am the law! | 64.00% | ~895 |
-| Lumberjack | 53.00% | ~741 |
+| First Blood | 92.00% | ~1,288 |
+| Ranidaphobia | 78.00% | ~1,092 |
+| Aspiring Editor | 75.00% | ~1,050 |
+| Gun for Hire | 70.00% | ~980 |
+| I am the law! | 64.00% | ~896 |
+| Lumberjack | 53.00% | ~742 |
 | Croaked | 49.00% | ~686 |
 | Limp Richard | 48.00% | ~672 |
 | Editor Adept | 47.00% | ~658 |
@@ -26,8 +26,8 @@ Rating: 4.43 (Ranked 665)
 | Jarhead | 35.00% | ~490 |
 | Ganglord | 34.00% | ~476 |
 | Infiltrator | 34.00% | ~476 |
+| Experienced | 32.00% | ~448 |
 | Pushing Daisy | 32.00% | ~448 |
-| Experienced | 31.00% | ~434 |
 | Hold The Line | 30.00% | ~420 |
 | Endgame | 27.00% | ~378 |
 | Savior | 27.00% | ~378 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 665)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,399 (Ranked 194)  
+Progressed: 1,400 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-04 | 1,382 | 0 |
 | 2023-09-07 | 1,384 | 0 |
 | 2023-09-08 | 1,394 | 0 |
-| 2023-09-09 | 1,399 | 0 |
+| 2023-09-09 | 1,400 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
