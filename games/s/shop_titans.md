@@ -38,6 +38,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 0.60% | ~815 |
 | Did we pack lunch? | 0.60% | ~815 |
 | Arcane Industries | 0.60% | ~815 |
+| Tax not Included | 0.50% | ~679 |
 | Research & Development | 0.50% | ~679 |
 | Fated Encounters | 0.50% | ~679 |
 | Power of Love | 0.50% | ~679 |
@@ -50,7 +51,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Proud Paladin | 0.40% | ~544 |
 | Above the Norm | 0.40% | ~544 |
 | A Ronin Reborn | 0.40% | ~544 |
-| Tax not Included | 0.40% | ~544 |
 | The King's Caprice | 0.40% | ~544 |
 | Big Game Hunting | 0.40% | ~544 |
 | For the Hoard! | 0.40% | ~544 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,883 (Ranked 68)  
+Progressed: 135,884 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 147 (0.11%) (Ranked 216)
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
-| 2023-09-09 | 135,883 | 147 |
+| 2023-09-09 | 135,884 | 147 |
 ## Awards
 Max (Great for Beginners): 4,730  (Ranked 70)  
 Sum: 27,192 (Ranked 49)  

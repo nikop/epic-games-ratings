@@ -6,57 +6,57 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~625,725 |
-| Escaped Asphodel | 80.00% | ~562,450 |
-| Arms Collector | 71.00% | ~499,174 |
-| Friends in High Places | 68.00% | ~478,082 |
-| Escaped Elysium | 66.00% | ~464,021 |
-| Chthonic Colleagues | 63.00% | ~442,929 |
-| Is There No Escape? | 52.00% | ~365,592 |
-| Death Dealer | 45.00% | ~316,378 |
-| Skelly Slayer | 42.00% | ~295,286 |
-| Well Stocked | 40.00% | ~281,225 |
-| Back to Work | 38.00% | ~267,164 |
-| Day-or-Night Trader | 37.00% | ~260,133 |
-| Blessed by the Gods | 37.00% | ~260,133 |
-| Urge to Sing | 36.00% | ~253,102 |
-| Blood Bound | 35.00% | ~246,072 |
-| Three-Headed Boy | 32.00% | ~224,980 |
-| River Denizens | 28.00% | ~196,857 |
-| Grown Close | 28.00% | ~196,857 |
-| Home Makeover | 27.00% | ~189,827 |
-| The Family Secret | 26.00% | ~182,796 |
+| Escaped Tartarus | 89.00% | ~625,729 |
+| Escaped Asphodel | 80.00% | ~562,453 |
+| Arms Collector | 71.00% | ~499,177 |
+| Friends in High Places | 68.00% | ~478,085 |
+| Escaped Elysium | 66.00% | ~464,024 |
+| Chthonic Colleagues | 63.00% | ~442,932 |
+| Is There No Escape? | 52.00% | ~365,594 |
+| Death Dealer | 45.00% | ~316,380 |
+| Skelly Slayer | 42.00% | ~295,288 |
+| Well Stocked | 40.00% | ~281,226 |
+| Back to Work | 38.00% | ~267,165 |
+| Day-or-Night Trader | 37.00% | ~260,134 |
+| Blessed by the Gods | 37.00% | ~260,134 |
+| Urge to Sing | 36.00% | ~253,104 |
+| Blood Bound | 35.00% | ~246,073 |
+| Three-Headed Boy | 32.00% | ~224,981 |
+| River Denizens | 28.00% | ~196,858 |
+| Grown Close | 28.00% | ~196,858 |
+| Home Makeover | 27.00% | ~189,828 |
+| The Family Secret | 26.00% | ~182,797 |
 | Had to Happen | 25.00% | ~175,766 |
-| To Charon's Credit | 23.00% | ~161,704 |
-| Tools of the Architect | 23.00% | ~161,704 |
-| Master of Arms | 23.00% | ~161,704 |
-| Rare Collectible | 22.00% | ~154,674 |
-| Weapon of Fate | 21.00% | ~147,643 |
-| Something From Everyone | 19.00% | ~133,582 |
-| Hold the Onions | 18.00% | ~126,551 |
+| To Charon's Credit | 23.00% | ~161,705 |
+| Tools of the Architect | 23.00% | ~161,705 |
+| Master of Arms | 23.00% | ~161,705 |
+| Rare Collectible | 22.00% | ~154,675 |
+| Weapon of Fate | 21.00% | ~147,644 |
+| Something From Everyone | 19.00% | ~133,583 |
+| Hold the Onions | 18.00% | ~126,552 |
 | Well Versed | 17.00% | ~119,521 |
-| War-God's Bloodlust | 15.00% | ~105,459 |
+| War-God's Bloodlust | 15.00% | ~105,460 |
 | Musician and Muse | 14.00% | ~98,429 |
-| The Useless Trinket | 13.00% | ~91,398 |
-| Champion of Elysium | 13.00% | ~91,398 |
-| Slashed Benefits | 12.00% | ~84,367 |
+| The Useless Trinket | 13.00% | ~91,399 |
+| Champion of Elysium | 13.00% | ~91,399 |
+| Slashed Benefits | 12.00% | ~84,368 |
 | Haste of Hermes | 11.00% | ~77,337 |
-| Bad Call | 10.00% | ~70,306 |
-| Nyx's Mirror | 10.00% | ~70,306 |
-| Night and Darkness | 10.00% | ~70,306 |
-| End to Torment | 10.00% | ~70,306 |
+| Bad Call | 10.00% | ~70,307 |
+| Nyx's Mirror | 10.00% | ~70,307 |
+| Night and Darkness | 10.00% | ~70,307 |
+| End to Torment | 10.00% | ~70,307 |
 | Dark Reflections | 9.00% | ~63,276 |
 | Thanks, But No Thanks | 9.00% | ~63,276 |
 | Infernal Arms | 9.00% | ~63,276 |
 | Divided by Death | 8.00% | ~56,245 |
-| Harsh Conditions | 7.00% | ~49,214 |
-| One for the Ages | 7.00% | ~49,214 |
+| Harsh Conditions | 7.00% | ~49,215 |
+| One for the Ages | 7.00% | ~49,215 |
 | Complete Set | 6.00% | ~42,184 |
 | Skelly's Last Lamentations | 6.00% | ~42,184 |
-| Thorn of Thanatos | 4.00% | ~28,122 |
-| Friends Forever | 4.00% | ~28,122 |
+| Thorn of Thanatos | 4.00% | ~28,123 |
+| Friends Forever | 4.00% | ~28,123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,062 (Ranked 21)  
+Progressed: 703,066 (Ranked 21)  
 Completed: 6,344 (0.90%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,14 +198,14 @@ Completed: 6,344 (0.90%) (Ranked 128)
 | 2023-09-06 | 702,899 | 6,339 |
 | 2023-09-07 | 702,977 | 6,342 |
 | 2023-09-08 | 703,046 | 6,343 |
-| 2023-09-09 | 703,062 | 6,344 |
+| 2023-09-09 | 703,066 | 6,344 |
 ## Awards
-Max (Character Customization): 3,251  (Ranked 93)  
-Sum: 7,864 (Ranked 101)  
+Max (Character Customization): 3,254  (Ranked 93)  
+Sum: 7,867 (Ranked 101)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,251 |
+| This game has Inclusive Character Customization | 3,254 |
 | This game has Great Boss Battles | 2,272 |
 | This game is Highly Recommended | 261 |
 | This game is Great for Beginners | 252 |
@@ -435,3 +435,4 @@ Diff (max vs sum): -8
 | 2023-09-05 | 4.92 | - | 3,250 | 7,860 |
 | 2023-09-07 | 4.92 | - | 3,251 | 7,862 |
 | 2023-09-08 | 4.92 | - | 3,251 | 7,864 |
+| 2023-09-09 | 4.92 | - | 3,254 | 7,867 |

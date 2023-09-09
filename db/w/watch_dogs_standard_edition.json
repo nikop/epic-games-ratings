@@ -4,10 +4,10 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 452,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
@@ -1720,10 +1720,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 471,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-09-09T07:57:34.5903449+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 437,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 471,
+  "NumberOfAwards": 437,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1811,8 +1817,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-09-07T16:58:07.2574294+00:00",
+  "LastChanged": "2023-09-09T07:57:34.5903448+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:55.3340517+00:00",
-  "LastUpdate_Ratings": "2023-09-09T06:58:02.4402689+00:00",
-  "LastUpdate_Achievements": "2023-09-09T07:06:18.3948409+00:00"
+  "LastUpdate_Ratings": "2023-09-09T07:57:34.5903453+00:00",
+  "LastUpdate_Achievements": "2023-09-09T08:05:28.8486768+00:00"
 }

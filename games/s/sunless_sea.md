@@ -6,11 +6,11 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,316 |
-| Sweet Sorrow | 18.00% | ~6,658 |
-| Rules the Waves | 17.00% | ~6,288 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,548 |
-| Rival | 14.00% | ~5,178 |
+| Sink Beneath the Waves | 36.00% | ~13,317 |
+| Sweet Sorrow | 18.00% | ~6,659 |
+| Rules the Waves | 17.00% | ~6,289 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,549 |
+| Rival | 14.00% | ~5,179 |
 | Correspondent | 12.00% | ~4,439 |
 | Lose Your Mind | 12.00% | ~4,439 |
 | Sound Mind? | 12.00% | ~4,439 |
@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,589 |
 | Open Your Ears | 7.00% | ~2,589 |
 | The Ascent of Man | 7.00% | ~2,589 |
-| Zee Fever | 5.00% | ~1,849 |
+| Zee Fever | 5.00% | ~1,850 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,480 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,480 |
 | Storm's Curse | 3.00% | ~1,110 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~37 |
 | Ten Years at Zee | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,989 (Ranked 98)  
+Progressed: 36,992 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,17 +203,17 @@ Completed: 3 (0.01%) (Ranked 258)
 | 2023-09-06 | 36,868 | 3 |
 | 2023-09-07 | 36,920 | 3 |
 | 2023-09-08 | 36,970 | 3 |
-| 2023-09-09 | 36,989 | 3 |
+| 2023-09-09 | 36,992 | 3 |
 ## Awards
 Max (Character Customization): 214  (Ranked 270)  
-Sum: 284 (Ranked 344)  
+Sum: 285 (Ranked 344)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 214 |
 | This game has Amazing Storytelling | 25 |
 | This game has Unique Visuals | 24 |
-| This game has Quickly Understood Controls | 21 |
+| This game has Quickly Understood Controls | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -308,3 +308,4 @@ Diff (max vs sum): -74
 | 2023-07-22 | 4.58 | - | 212 | 282 |
 | 2023-07-28 | 4.58 | - | 213 | 283 |
 | 2023-09-07 | 4.58 | - | 214 | 284 |
+| 2023-09-09 | 4.58 | - | 214 | 285 |

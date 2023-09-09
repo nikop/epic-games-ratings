@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244,
+  "EOS_Progressed": 246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1033,6 +1033,11 @@
       "Time": "2023-09-09T03:07:44.8561429+00:00",
       "NumProgressed": 244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T08:06:32.1828963+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1042,9 +1047,9 @@
       "ID": "achAlice",
       "SetID": "72gjli4",
       "Name": "Boss 1 \u2714",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "achAliceTwo",
@@ -1066,9 +1071,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 133
     },
     {
       "ID": "achBett",
@@ -1106,9 +1111,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 135
     },
     {
       "ID": "achCity",
@@ -1244,7 +1249,7 @@
       "Name": "Fright \u2714",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achLizun",
@@ -1380,7 +1385,7 @@
       "Name": "Chess \u2714",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achSpped",
@@ -1396,7 +1401,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "achVip",
@@ -1443,7 +1448,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 244,
+      "Progressed": 246,
       "Completed": 0
     }
   ],
@@ -1451,8 +1456,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-09T07:07:33.4416473+00:00",
+  "LastChanged_Achievements": "2023-09-09T08:06:32.1828958+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:28.6254913+00:00",
-  "LastUpdate_Ratings": "2023-09-09T06:57:50.5153757+00:00",
-  "LastUpdate_Achievements": "2023-09-09T07:07:33.4417617+00:00"
+  "LastUpdate_Ratings": "2023-09-09T07:57:24.8749354+00:00",
+  "LastUpdate_Achievements": "2023-09-09T08:06:32.182944+00:00"
 }

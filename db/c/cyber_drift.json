@@ -4,7 +4,7 @@
   "ProductSlug": "cyber-drift-6ac51b",
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-09T17:00:00+00:00",
@@ -83,6 +83,6 @@
   "FirstSeenAchievements": "2023-05-03T20:00:52.0985709+00:00",
   "LastChanged_Achievements": "2023-06-27T13:16:57.1755647+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:19.705038+00:00",
-  "LastUpdate_Ratings": "2023-09-09T06:59:05.0995296+00:00",
-  "LastUpdate_Achievements": "2023-09-09T07:04:38.9513057+00:00"
+  "LastUpdate_Ratings": "2023-09-09T07:58:25.0635175+00:00",
+  "LastUpdate_Achievements": "2023-09-09T08:04:10.7273823+00:00"
 }

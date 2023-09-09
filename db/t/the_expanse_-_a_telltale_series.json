@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10283,
+  "EOS_Progressed": 10284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4789,6 +4789,11 @@
       "Time": "2023-09-09T07:06:57.9067552+00:00",
       "NumProgressed": 10283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T08:06:01.6583589+00:00",
+      "NumProgressed": 10284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4817,7 +4822,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "12",
@@ -4865,7 +4870,7 @@
       "Name": "Spore Taste",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2159
+      "UsersEstimate": 2160
     },
     {
       "ID": "18",
@@ -4905,7 +4910,7 @@
       "Name": "Drone Dodger",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "22",
@@ -4993,7 +4998,7 @@
       "Name": "Debris Spree",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "5",
@@ -5040,7 +5045,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10283,
+      "Progressed": 10284,
       "Completed": 0
     }
   ],
@@ -5048,8 +5053,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-07T17:03:40.5471385+00:00",
-  "LastChanged_Achievements": "2023-09-09T07:06:57.906755+00:00",
+  "LastChanged_Achievements": "2023-09-09T08:06:01.6583583+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:01.322184+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:01:04.1981346+00:00",
-  "LastUpdate_Achievements": "2023-09-09T07:06:57.9067946+00:00"
+  "LastUpdate_Ratings": "2023-09-09T07:59:59.9223378+00:00",
+  "LastUpdate_Achievements": "2023-09-09T08:06:01.6584059+00:00"
 }

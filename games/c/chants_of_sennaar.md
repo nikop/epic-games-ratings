@@ -9,26 +9,26 @@
 | The Preacher's fate | 27.00% | ~28 |
 | The great escape | 27.00% | ~28 |
 | A new dawn | 20.00% | ~21 |
+| Scholar | 17.00% | ~18 |
 | A good beginning | 16.00% | ~16 |
 | True G4M3R | 16.00% | ~16 |
-| Scholar | 16.00% | ~16 |
+| Champollion | 16.00% | ~16 |
 | The darkness | 16.00% | ~16 |
 | One last step | 16.00% | ~16 |
-| Champollion | 15.00% | ~15 |
-| Cable guy | 14.00% | ~14 |
+| Cable guy | 15.00% | ~15 |
 | Rascal | 14.00% | ~14 |
 | Feels like springtime | 12.00% | ~12 |
 | In this together | 11.00% | ~11 |
+| Half the way | 11.00% | ~11 |
 | Open door | 11.00% | ~11 |
+| I did it | 10.00% | ~10 |
 | Peace walker | 10.00% | ~10 |
-| Half the way | 10.00% | ~10 |
 | Fashion victim | 10.00% | ~10 |
-| I did it | 9.00% | ~9 |
 | Free at last | 9.00% | ~9 |
-| A Link to the Past | 8.00% | ~8 |
-| Alchemists Express | 8.00% | ~8 |
-| A great audience | 6.00% | ~6 |
-| For its own good | 6.00% | ~6 |
+| A Link to the Past | 9.00% | ~9 |
+| Alchemists Express | 9.00% | ~9 |
+| A great audience | 7.00% | ~7 |
+| For its own good | 7.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 103 (Ranked 344)  
 Completed: 5 (4.85%) (Ranked 54)  

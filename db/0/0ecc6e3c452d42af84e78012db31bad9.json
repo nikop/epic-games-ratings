@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2881,
+  "EOS_Progressed": 2882,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -5981,6 +5981,11 @@
       "Time": "2023-09-09T06:05:33.7619171+00:00",
       "NumProgressed": 2881,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-09-09T08:05:48.9635271+00:00",
+      "NumProgressed": 2882,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 16,
@@ -6080,7 +6085,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "ach_game_opened",
@@ -6088,7 +6093,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "ach_magic_wand",
@@ -6096,7 +6101,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ach_no_boosters",
@@ -6119,14 +6124,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2881,
+      "Progressed": 2882,
       "Completed": 19
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-09T07:06:41.627341+00:00",
+  "LastChanged_Achievements": "2023-09-09T08:05:48.9635267+00:00",
   "LastUpdate_AppInfo": "2023-09-08T13:56:57.5015536+00:00",
-  "LastUpdate_Ratings": "2023-09-09T06:58:34.1366776+00:00",
-  "LastUpdate_Achievements": "2023-09-09T07:06:41.6273776+00:00"
+  "LastUpdate_Ratings": "2023-09-09T07:57:59.8948266+00:00",
+  "LastUpdate_Achievements": "2023-09-09T08:05:48.9635758+00:00"
 }

@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17919,
+  "EOS_Progressed": 17920,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9899,6 +9899,11 @@
       "Time": "2023-09-09T04:04:26.6563991+00:00",
       "NumProgressed": 17919,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T08:04:28.6362842+00:00",
+      "NumProgressed": 17920,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9966,7 +9971,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "0009",
@@ -9974,7 +9979,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "0010",
@@ -10102,7 +10107,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "0026",
@@ -10126,7 +10131,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4121
+      "UsersEstimate": 4122
     },
     {
       "ID": "0029",
@@ -10134,7 +10139,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "0030",
@@ -10142,7 +10147,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "0031",
@@ -10197,7 +10202,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17919,
+      "Progressed": 17920,
       "Completed": 1
     }
   ],
@@ -10205,8 +10210,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-08T19:00:42.6764693+00:00",
-  "LastChanged_Achievements": "2023-09-09T07:05:07.0587967+00:00",
+  "LastChanged_Achievements": "2023-09-09T08:04:28.6362834+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:19.1789564+00:00",
-  "LastUpdate_Ratings": "2023-09-09T06:57:16.063196+00:00",
-  "LastUpdate_Achievements": "2023-09-09T07:05:07.0588642+00:00"
+  "LastUpdate_Ratings": "2023-09-09T07:56:56.7146862+00:00",
+  "LastUpdate_Achievements": "2023-09-09T08:04:28.6363663+00:00"
 }
