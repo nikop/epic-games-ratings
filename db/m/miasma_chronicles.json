@@ -3062,17 +3062,17 @@
       "ID": "COMMANDO",
       "SetID": "9a4jnji",
       "Name": "Commando",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 238
     },
     {
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 686
     },
     {
       "ID": "CRUELTY",
@@ -3407,8 +3407,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-09T13:07:05.4716467+00:00",
+  "LastChanged_Achievements": "2023-09-09T14:06:35.1956027+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:33.5469273+00:00",
-  "LastUpdate_Ratings": "2023-09-09T13:01:17.1856639+00:00",
-  "LastUpdate_Achievements": "2023-09-09T13:07:05.4717088+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:00:49.0735569+00:00",
+  "LastUpdate_Achievements": "2023-09-09T14:06:35.1956652+00:00"
 }

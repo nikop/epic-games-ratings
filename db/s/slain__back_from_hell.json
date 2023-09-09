@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36228,
+  "EOS_Progressed": 36231,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -15867,6 +15867,11 @@
       "Time": "2023-09-09T13:07:49.3073347+00:00",
       "NumProgressed": 36228,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-09T14:07:37.0399632+00:00",
+      "NumProgressed": 36231,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -15878,7 +15883,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5434
+      "UsersEstimate": 5435
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -15950,7 +15955,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -16030,7 +16035,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -16109,7 +16114,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36228,
+      "Progressed": 36231,
       "Completed": 23
     }
   ],
@@ -16117,8 +16122,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-09T13:07:49.3073342+00:00",
+  "LastChanged_Achievements": "2023-09-09T14:07:37.0399626+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.5463786+00:00",
-  "LastUpdate_Ratings": "2023-09-09T12:59:02.3621883+00:00",
-  "LastUpdate_Achievements": "2023-09-09T13:07:49.3074508+00:00"
+  "LastUpdate_Ratings": "2023-09-09T13:57:24.5673114+00:00",
+  "LastUpdate_Achievements": "2023-09-09T14:07:37.0400823+00:00"
 }

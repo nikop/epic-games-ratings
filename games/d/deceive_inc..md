@@ -1,18 +1,18 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 416)  
+Rating: 4.55 (Ranked 488)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,198 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,199 |
 | Mainframe Hacker | 23.00% | ~4,123 |
 | The Spy who eliminated me | 23.00% | ~4,123 |
 | Tomorrow Never Dyes | 22.00% | ~3,944 |
 | Never Say Loser Again | 19.00% | ~3,406 |
-| From the Vault with Love | 18.00% | ~3,226 |
-| Tailor-Made | 18.00% | ~3,226 |
-| For your Eyes only | 18.00% | ~3,226 |
+| From the Vault with Love | 18.00% | ~3,227 |
+| Tailor-Made | 18.00% | ~3,227 |
+| For your Eyes only | 18.00% | ~3,227 |
 | Assistant Accountant | 17.00% | ~3,047 |
 | You Only Live Twice | 16.00% | ~2,868 |
 | Fully Decked Out | 16.00% | ~2,868 |
@@ -24,16 +24,16 @@ Rating: 4.59 (Ranked 416)
 | The Living Portrait | 11.00% | ~1,972 |
 | My Motto, My Creed | 11.00% | ~1,972 |
 | Killer Looks | 11.00% | ~1,972 |
-| Keycards Royale | 10.00% | ~1,792 |
+| Keycards Royale | 10.00% | ~1,793 |
 | In It to Win It | 9.00% | ~1,613 |
 | Security Supervisor | 6.00% | ~1,076 |
 | License to Thrill | 5.00% | ~896 |
 | Social of Solace | 3.00% | ~538 |
 | Live and let lie | 3.00% | ~538 |
 | Safe Withdrawal | 3.00% | ~538 |
-| Branch Manager | 2.00% | ~358 |
-| Call Me Maybe | 2.00% | ~358 |
-| PHD in VIP | 2.00% | ~358 |
+| Branch Manager | 2.00% | ~359 |
+| Call Me Maybe | 2.00% | ~359 |
+| PHD in VIP | 2.00% | ~359 |
 | The terminals are not enough | 1.00% | ~179 |
 | Lose Another Day | 1.00% | ~179 |
 | Chairman of Deceive Inc. | 0.90% | ~161 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 416)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,925 (Ranked 113)  
+Progressed: 17,926 (Ranked 113)  
 Completed: 1 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-09-06 | 17,887 | 1 |
 | 2023-09-07 | 17,903 | 1 |
 | 2023-09-08 | 17,917 | 1 |
-| 2023-09-09 | 17,925 | 1 |
+| 2023-09-09 | 17,926 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -222,3 +222,4 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-08-27 | 4.57 | 0 | 0 |
 | 2023-08-31 | 4.58 | 0 | 0 |
 | 2023-09-08 | 4.59 | 0 | 0 |
+| 2023-09-09 | 4.55 | 0 | 0 |

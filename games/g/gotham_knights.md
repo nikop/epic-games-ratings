@@ -5,42 +5,42 @@ Rating: 4.18 (Ranked 884)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,572 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,289 |
-| Loose Ends | 34.00% | ~24,566 |
-| To the Victor Go the Spoils | 28.00% | ~20,231 |
-| Knighthood | 27.00% | ~19,508 |
-| Get ReQ'd | 25.00% | ~18,063 |
-| Whispered Words | 24.00% | ~17,341 |
-| The Batman Family | 23.00% | ~16,618 |
-| Lock and Key | 22.00% | ~15,896 |
-| Something in the Clay | 20.00% | ~14,451 |
-| Quartzer Life Crisis | 20.00% | ~14,451 |
-| Working Hard or Harley Working? | 20.00% | ~14,451 |
-| Unstoppable Force | 20.00% | ~14,451 |
-| Bad Apples in Every Orchard | 20.00% | ~14,451 |
-| Snow Problem | 19.00% | ~13,728 |
-| The Show Mud Go On | 17.00% | ~12,283 |
-| From Inside Gotham's Walls | 17.00% | ~12,283 |
-| Protector of Gotham | 16.00% | ~11,560 |
-| In Your Element | 15.00% | ~10,838 |
-| Universal Health Scare | 15.00% | ~10,838 |
-| Cooldown | 14.00% | ~10,115 |
-| Voiceless | 14.00% | ~10,115 |
-| Rock and a Hard Place | 13.00% | ~9,393 |
-| Not On My Watch | 13.00% | ~9,393 |
-| Shock Til They Drop | 13.00% | ~9,393 |
-| Seeking Asylum | 13.00% | ~9,393 |
-| End of an Era | 12.00% | ~8,670 |
-| Gotham Knight | 12.00% | ~8,670 |
-| Bulldozed | 11.00% | ~7,948 |
-| Gotham City Confidential | 11.00% | ~7,948 |
+| First Step Into the Knight | 52.00% | ~37,576 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,291 |
+| Loose Ends | 34.00% | ~24,569 |
+| To the Victor Go the Spoils | 28.00% | ~20,233 |
+| Knighthood | 27.00% | ~19,510 |
+| Get ReQ'd | 25.00% | ~18,065 |
+| Whispered Words | 24.00% | ~17,343 |
+| The Batman Family | 23.00% | ~16,620 |
+| Lock and Key | 22.00% | ~15,897 |
+| Something in the Clay | 20.00% | ~14,452 |
+| Quartzer Life Crisis | 20.00% | ~14,452 |
+| Working Hard or Harley Working? | 20.00% | ~14,452 |
+| Unstoppable Force | 20.00% | ~14,452 |
+| Bad Apples in Every Orchard | 20.00% | ~14,452 |
+| Snow Problem | 19.00% | ~13,730 |
+| The Show Mud Go On | 17.00% | ~12,284 |
+| From Inside Gotham's Walls | 17.00% | ~12,284 |
+| Protector of Gotham | 16.00% | ~11,562 |
+| In Your Element | 15.00% | ~10,839 |
+| Universal Health Scare | 15.00% | ~10,839 |
+| Cooldown | 14.00% | ~10,117 |
+| Voiceless | 14.00% | ~10,117 |
+| Rock and a Hard Place | 13.00% | ~9,394 |
+| Not On My Watch | 13.00% | ~9,394 |
+| Shock Til They Drop | 13.00% | ~9,394 |
+| Seeking Asylum | 13.00% | ~9,394 |
+| End of an Era | 12.00% | ~8,671 |
+| Gotham Knight | 12.00% | ~8,671 |
+| Bulldozed | 11.00% | ~7,949 |
+| Gotham City Confidential | 11.00% | ~7,949 |
 | Drone You Out | 9.00% | ~6,503 |
-| Out of Their League | 8.00% | ~5,780 |
-| Solid Alibi | 8.00% | ~5,780 |
+| Out of Their League | 8.00% | ~5,781 |
+| Solid Alibi | 8.00% | ~5,781 |
 | Fusion Expert | 7.00% | ~5,058 |
-| Family Meeting | 6.00% | ~4,335 |
-| A Worthy Successor | 6.00% | ~4,335 |
+| Family Meeting | 6.00% | ~4,336 |
+| A Worthy Successor | 6.00% | ~4,336 |
 | Expert Crime Fighter | 5.00% | ~3,613 |
 | Dressed to Impress | 4.00% | ~2,890 |
 | A Momentum Occasion | 3.00% | ~2,168 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 884)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,253 (Ranked 82)  
-Completed: 112 (0.16%) (Ranked 200)  
+Progressed: 72,261 (Ranked 82)  
+Completed: 112 (0.15%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,10 +209,10 @@ Completed: 112 (0.16%) (Ranked 200)
 | 2023-09-06 | 71,678 | 111 |
 | 2023-09-07 | 72,029 | 111 |
 | 2023-09-08 | 72,185 | 112 |
-| 2023-09-09 | 72,253 | 112 |
+| 2023-09-09 | 72,261 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,614  (Ranked 97)  
-Sum: 4,330 (Ranked 139)  
+Sum: 4,334 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -221,8 +221,8 @@ Diff (max vs sum): -42
 | This game has Quickly Understood Controls | 220 |
 | This game is Relaxing | 217 |
 | This game has Diverse Characters | 217 |
+| This game is Great for Beginners | 215 |
 | This game has Amazing Characters | 211 |
-| This game is Great for Beginners | 211 |
 | This game is Highly Recommended | 209 |
 | This game has Amazing Storytelling | 208 |
 | This game is Great for Quick Sessions | 60 |
@@ -425,4 +425,4 @@ Diff (max vs sum): -42
 | 2023-09-06 | 4.18 | 2,569 | 4,268 |
 | 2023-09-07 | 4.18 | 2,588 | 4,292 |
 | 2023-09-08 | 4.18 | 2,602 | 4,312 |
-| 2023-09-09 | 4.18 | 2,614 | 4,330 |
+| 2023-09-09 | 4.18 | 2,614 | 4,334 |

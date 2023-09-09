@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -70,7 +70,7 @@
   "Tags": [],
   "EOS_Progressed": 618,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -1609,9 +1609,9 @@
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 346
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1745,9 +1745,9 @@
       "ID": "_20_CrewTale_TPB",
       "SetID": "8a1io5d",
       "Name": "Fishy Fish",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 136
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1810,8 +1810,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-09T12:03:17.2563968+00:00",
+  "LastChanged_Achievements": "2023-09-09T14:02:40.3015078+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-09T13:01:10.8454149+00:00",
-  "LastUpdate_Achievements": "2023-09-09T12:03:17.2564348+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:00:40.8153858+00:00",
+  "LastUpdate_Achievements": "2023-09-09T14:02:40.3015702+00:00"
 }

@@ -1,22 +1,22 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 431)  
+Rating: 4.58 (Ranked 430)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,531 |
-| Where's that freaking Dwarf? | 4.00% | ~8,901 |
-| Alt+F4 | 4.00% | ~8,901 |
+| Sowwy! | 29.00% | ~64,537 |
+| Where's that freaking Dwarf? | 4.00% | ~8,902 |
+| Alt+F4 | 4.00% | ~8,902 |
 | Déjà vu | 3.00% | ~6,676 |
 | Sock! SOCK! | 3.00% | ~6,676 |
-| Way of the Wimp | 2.00% | ~4,450 |
-| A beer, two curses, three companions | 2.00% | ~4,450 |
-| GG EZ | 2.00% | ~4,450 |
-| DM intervention | 2.00% | ~4,450 |
-| Speedrun | 2.00% | ~4,450 |
-| Fireproof Wizardess | 2.00% | ~4,450 |
+| Way of the Wimp | 2.00% | ~4,451 |
+| A beer, two curses, three companions | 2.00% | ~4,451 |
+| GG EZ | 2.00% | ~4,451 |
+| DM intervention | 2.00% | ~4,451 |
+| Speedrun | 2.00% | ~4,451 |
+| Fireproof Wizardess | 2.00% | ~4,451 |
 | Livin' in a dwarven paradise | 1.00% | ~2,225 |
 | Shiny and Crôm | 1.00% | ~2,225 |
 | The plot thickens... At the tavern | 1.00% | ~2,225 |
@@ -44,8 +44,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 0.60% | ~1,335 |
 | Material Girl | 0.60% | ~1,335 |
 | Gargantua | 0.50% | ~1,113 |
+| In Navalu's footsteps | 0.50% | ~1,113 |
 | We come in peace | 0.40% | ~890 |
-| In Navalu's footsteps | 0.40% | ~890 |
 | Lëgal Legend | 0.40% | ~890 |
 | Holistic Adventuring Party | 0.30% | ~668 |
 | An old poacher makes the best gamekeeper | 0.30% | ~668 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,520 (Ranked 56)  
+Progressed: 222,541 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
-| 2023-09-09 | 222,520 | 2 |
+| 2023-09-09 | 222,541 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

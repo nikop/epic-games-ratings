@@ -11,7 +11,7 @@ Rating: 4.43 (Ranked 665)
 | Gun for Hire | 70.00% | ~979 |
 | I am the law! | 64.00% | ~895 |
 | Lumberjack | 53.00% | ~741 |
-| Croaked | 48.00% | ~672 |
+| Croaked | 49.00% | ~686 |
 | Limp Richard | 48.00% | ~672 |
 | Editor Adept | 47.00% | ~658 |
 | Exorcist | 47.00% | ~658 |
@@ -35,8 +35,8 @@ Rating: 4.43 (Ranked 665)
 | Chain Killer | 22.00% | ~308 |
 | The Watchers | 22.00% | ~308 |
 | Silent but Violent | 20.00% | ~280 |
+| Commando | 17.00% | ~238 |
 | Chaos Theory | 16.00% | ~224 |
-| Commando | 16.00% | ~224 |
 | Dr Jones | 16.00% | ~224 |
 | Newtonian Knockout | 16.00% | ~224 |
 | Ruthless | 14.00% | ~196 |

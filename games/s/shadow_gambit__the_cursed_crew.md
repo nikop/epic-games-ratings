@@ -6,7 +6,7 @@ Rating: 4.73 (Ranked 162)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A New Journey | 71.00% | ~439 |
-| The Adventure Begins | 55.00% | ~340 |
+| The Adventure Begins | 56.00% | ~346 |
 | Swabbie | 43.00% | ~266 |
 | With Great Power… | 42.00% | ~260 |
 | This Belongs in a Museum | 37.00% | ~229 |
@@ -16,7 +16,7 @@ Rating: 4.73 (Ranked 162)
 | Mirror Mirror on the Wall | 27.00% | ~167 |
 | Pirates Assemble! | 24.00% | ~148 |
 | Buccaneer | 22.00% | ~136 |
-| Fishy Fish | 21.00% | ~130 |
+| Fishy Fish | 22.00% | ~136 |
 | Seadog | 17.00% | ~105 |
 | All Good Things | 16.00% | ~99 |
 | Persistent Parasite | 16.00% | ~99 |

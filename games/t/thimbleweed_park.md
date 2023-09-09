@@ -1,15 +1,15 @@
 # Thimbleweed Park
 [Store](https://store.epicgames.com/en-US/p/thimbleweed-park)  
 [View Rawdata](../../db/t/thimbleweed_park.json)  
-Rating: 4.57 (Ranked 452)  
+Rating: 4.57 (Ranked 451)  
 Number of Ratings: 115  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 30  (Ranked 464)  
-Sum: 30 (Ranked 480)  
-Diff (max vs sum): -16  
+Max (Challenging Puzzles): 31  (Ranked 463)  
+Sum: 31 (Ranked 480)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 30 |
+| This game features Challenging Puzzles | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -75,3 +75,4 @@ Diff (max vs sum): -16
 | 2023-03-16 | 4.60 | - | - | - |
 | 2023-04-02 | 4.59 | - | 30 | 30 |
 | 2023-06-01 | 4.57 | - | 30 | 30 |
+| 2023-09-09 | 4.57 | - | 31 | 31 |

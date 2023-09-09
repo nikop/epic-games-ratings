@@ -6478,9 +6478,9 @@
       "Count": 3404
     }
   ],
-  "EOS_Progressed": 228095,
+  "EOS_Progressed": 228109,
   "EOS_Completed": 2264,
-  "EOS_NewPlayers": 1457,
+  "EOS_NewPlayers": 1465,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22163,6 +22163,11 @@
       "Time": "2023-09-09T13:08:42.8952403+00:00",
       "NumProgressed": 228095,
       "NumCompleted": 2264
+    },
+    {
+      "Time": "2023-09-09T14:08:53.1698798+00:00",
+      "NumProgressed": 228109,
+      "NumCompleted": 2264
     }
   ],
   "TotalAchievements": 520,
@@ -22542,7 +22547,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "objective_completed_110",
@@ -23846,7 +23851,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "objective_completed_34",
@@ -26333,21 +26338,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194369,
-      "Completed": 3413
+      "Progressed": 194383,
+      "Completed": 3414
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228095,
+      "Progressed": 228109,
       "Completed": 2264
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-09T03:58:59.3802634+00:00",
-  "LastChanged_Achievements": "2023-09-09T13:08:42.8952398+00:00",
+  "LastChanged_Achievements": "2023-09-09T14:08:53.169879+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-09T13:00:58.9629053+00:00",
-  "LastUpdate_Achievements": "2023-09-09T13:08:42.8979961+00:00"
+  "LastUpdate_Ratings": "2023-09-09T14:00:23.2818815+00:00",
+  "LastUpdate_Achievements": "2023-09-09T14:08:53.1741007+00:00"
 }

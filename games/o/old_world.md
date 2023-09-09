@@ -32,39 +32,39 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 3.00% | ~415 |
 | Trade Caravan | 3.00% | ~415 |
 | The Great Mage | 3.00% | ~415 |
-| Regicide | 2.00% | ~276 |
-| Ambitious | 2.00% | ~276 |
-| Drillmaster | 2.00% | ~276 |
-| Brilliant | 2.00% | ~276 |
-| Fountainhead | 2.00% | ~276 |
-| Great | 2.00% | ~276 |
-| Intercessor | 2.00% | ~276 |
-| Magnificent | 2.00% | ~276 |
-| Warrior | 2.00% | ~276 |
-| Wise | 2.00% | ~276 |
-| Legendary Cities | 2.00% | ~276 |
-| Strong Cities | 2.00% | ~276 |
-| Able Difficulty | 2.00% | ~276 |
-| Artisans | 2.00% | ~276 |
-| Furious Family | 2.00% | ~276 |
-| Apadana | 2.00% | ~276 |
-| Colossus | 2.00% | ~276 |
-| Great Ziggurat | 2.00% | ~276 |
-| Ishtar Gate | 2.00% | ~276 |
-| Lighthouse | 2.00% | ~276 |
-| Musaeum | 2.00% | ~276 |
-| Necropolis | 2.00% | ~276 |
-| Pyramids | 2.00% | ~276 |
-| Learn to Play 1 | 2.00% | ~276 |
-| Learn to Play 2 | 2.00% | ~276 |
-| Christianity | 2.00% | ~276 |
-| Manichaeism | 2.00% | ~276 |
-| Babylonian Paganism | 2.00% | ~276 |
-| Carthaginian Paganism | 2.00% | ~276 |
-| Egyptian Paganism | 2.00% | ~276 |
-| Roman Paganism | 2.00% | ~276 |
-| Zoroastrianism | 2.00% | ~276 |
-| Poetic Leader | 2.00% | ~276 |
+| Regicide | 2.00% | ~277 |
+| Ambitious | 2.00% | ~277 |
+| Drillmaster | 2.00% | ~277 |
+| Brilliant | 2.00% | ~277 |
+| Fountainhead | 2.00% | ~277 |
+| Great | 2.00% | ~277 |
+| Intercessor | 2.00% | ~277 |
+| Magnificent | 2.00% | ~277 |
+| Warrior | 2.00% | ~277 |
+| Wise | 2.00% | ~277 |
+| Legendary Cities | 2.00% | ~277 |
+| Strong Cities | 2.00% | ~277 |
+| Able Difficulty | 2.00% | ~277 |
+| Artisans | 2.00% | ~277 |
+| Furious Family | 2.00% | ~277 |
+| Apadana | 2.00% | ~277 |
+| Colossus | 2.00% | ~277 |
+| Great Ziggurat | 2.00% | ~277 |
+| Ishtar Gate | 2.00% | ~277 |
+| Lighthouse | 2.00% | ~277 |
+| Musaeum | 2.00% | ~277 |
+| Necropolis | 2.00% | ~277 |
+| Pyramids | 2.00% | ~277 |
+| Learn to Play 1 | 2.00% | ~277 |
+| Learn to Play 2 | 2.00% | ~277 |
+| Christianity | 2.00% | ~277 |
+| Manichaeism | 2.00% | ~277 |
+| Babylonian Paganism | 2.00% | ~277 |
+| Carthaginian Paganism | 2.00% | ~277 |
+| Egyptian Paganism | 2.00% | ~277 |
+| Roman Paganism | 2.00% | ~277 |
+| Zoroastrianism | 2.00% | ~277 |
+| Poetic Leader | 2.00% | ~277 |
 | Hanging Gardens in Babylon | 1.00% | ~138 |
 | Beloved | 1.00% | ~138 |
 | Conqueror | 1.00% | ~138 |
@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~138 |
 | Building Wonders | 1.00% | ~138 |
 | Economic Reform | 1.00% | ~138 |
+| Dualism | 1.00% | ~138 |
 | Legalism | 1.00% | ~138 |
 | Mythology | 1.00% | ~138 |
 | Legionary | 1.00% | ~138 |
@@ -101,11 +102,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.90% | ~124 |
 | Subjugator | 0.90% | ~124 |
 | Circus Maximus | 0.90% | ~124 |
-| Dualism | 0.90% | ~124 |
 | Redemption | 0.90% | ~124 |
 | Ambition Victory | 0.90% | ~124 |
 | Double Victory | 0.90% | ~124 |
 | Win a Single Player Game | 0.90% | ~124 |
+| Bad Heir Day | 0.80% | ~111 |
 | Devout | 0.80% | ~111 |
 | Ready | 0.80% | ~111 |
 | Landowners | 0.80% | ~111 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.80% | ~111 |
 | Veneration | 0.80% | ~111 |
 | Cimmerian Archer | 0.80% | ~111 |
-| Bad Heir Day | 0.70% | ~97 |
 | Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
 | Learn to Play 4 | 0.70% | ~97 |
@@ -138,12 +138,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.50% | ~69 |
 | Old | 0.50% | ~69 |
 | Peacemaker | 0.50% | ~69 |
+| Noble Difficulty | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
 | Old World Order | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
 | Ancient | 0.40% | ~55 |
-| Noble Difficulty | 0.40% | ~55 |
 | The Eternal Treaty | 0.40% | ~55 |
 | Persia | 0.40% | ~55 |
 | Play a Network Game | 0.40% | ~55 |
@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pilgrimage | 0.40% | ~55 |
 | Bronze Victory (Carthage 1) | 0.30% | ~41 |
 | Glorious Difficulty | 0.30% | ~41 |
+| Magnificent Difficulty | 0.30% | ~41 |
 | Event Level High | 0.30% | ~41 |
 | Run, Pheidippides, Run! | 0.30% | ~41 |
 | Learn to Play 5 | 0.30% | ~41 |
@@ -172,7 +173,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.20% | ~28 |
 | Holy | 0.20% | ~28 |
 | Great Difficulty | 0.20% | ~28 |
-| Magnificent Difficulty | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
 | Nenikekamen | 0.20% | ~28 |
 | A Good Start | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,824 (Ranked 121)  
+Progressed: 13,827 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -445,7 +445,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-06 | 13,796 | 5 |
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
-| 2023-09-09 | 13,824 | 5 |
+| 2023-09-09 | 13,827 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

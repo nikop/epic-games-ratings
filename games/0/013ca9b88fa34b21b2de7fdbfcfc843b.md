@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~220 |
-| A Thorny Situation | 65.00% | ~196 |
-| ... And Spit Back Out | 43.00% | ~130 |
-| Break-Net Speed | 41.00% | ~124 |
-| Humble Collector | 24.00% | ~72 |
-| Bramble Breaker | 21.00% | ~63 |
-| Miner 49er | 20.00% | ~60 |
-| Oui, Chef! | 9.00% | ~27 |
-| Calm Sailing | 7.00% | ~21 |
-| Lumberjack | 6.00% | ~18 |
+| Azoria Beckons | 73.00% | ~226 |
+| A Thorny Situation | 64.00% | ~198 |
+| ... And Spit Back Out | 43.00% | ~133 |
+| Break-Net Speed | 40.00% | ~124 |
+| Humble Collector | 25.00% | ~77 |
+| Bramble Breaker | 23.00% | ~71 |
+| Miner 49er | 21.00% | ~65 |
+| Oui, Chef! | 9.00% | ~28 |
+| Calm Sailing | 8.00% | ~25 |
+| Lumberjack | 6.00% | ~19 |
 | Open the Gate! | 5.00% | ~15 |
+| Beach Comber | 4.00% | ~12 |
 | Mist Walker | 4.00% | ~12 |
 | Chatty Neighbor | 4.00% | ~12 |
 | Right Tool For the Job | 4.00% | ~12 |
 | Captain of Cozy | 4.00% | ~12 |
 | Clear the Air | 3.00% | ~9 |
 | Search for the Hairy Grell | 3.00% | ~9 |
-| Beach Comber | 3.00% | ~9 |
 | Azorian Anniversary | 3.00% | ~9 |
 | House Proud | 3.00% | ~9 |
 | Flaming Hot Completos | 2.00% | ~6 |
@@ -30,8 +30,8 @@
 | Botanical Breakthrough | 2.00% | ~6 |
 | Skilled | 2.00% | ~6 |
 | Fanatical Farmer | 1.00% | ~3 |
-| Scattered Scroll Scrounger | 0.70% | ~2 |
-| I Now Pronounce You... | 0.70% | ~2 |
+| Scattered Scroll Scrounger | 0.60% | ~2 |
+| I Now Pronounce You... | 0.60% | ~2 |
 | Cloverfield Island | 0.30% | ~1 |
 | Got to Catch Them All | 0.30% | ~1 |
 | Workaholic | 0.30% | ~1 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.30% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302 (Ranked 278)  
+Progressed: 309 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,4 +56,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-01 | 22 | 0 |
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
-| 2023-09-09 | 302 | 0 |
+| 2023-09-09 | 309 | 0 |

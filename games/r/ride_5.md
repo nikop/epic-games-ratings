@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 38.00% | ~175 |
-| Hear That Roar! | 35.00% | ~161 |
-| Clean Race | 34.00% | ~156 |
-| Rivals to the End | 28.00% | ~129 |
-| Eat My Dust | 25.00% | ~115 |
-| We're Going to Need a Bigger Garage | 22.00% | ~101 |
-| I'm Here Too! | 20.00% | ~92 |
-| Bitter Rivalry | 15.00% | ~69 |
-| I Want One Too! | 14.00% | ~64 |
+| First Love | 38.00% | ~176 |
+| Hear That Roar! | 35.00% | ~162 |
+| Clean Race | 35.00% | ~162 |
+| Rivals to the End | 28.00% | ~130 |
+| Eat My Dust | 25.00% | ~116 |
+| We're Going to Need a Bigger Garage | 22.00% | ~102 |
+| I'm Here Too! | 20.00% | ~93 |
+| Bitter Rivalry | 15.00% | ~70 |
+| I Want One Too! | 14.00% | ~65 |
 | Restored and Ready | 13.00% | ~60 |
-| Quick Pit Stop | 12.00% | ~55 |
-| Champagne Spray | 12.00% | ~55 |
+| Champagne Spray | 12.00% | ~56 |
 | Go-Faster Stripes | 11.00% | ~51 |
+| Quick Pit Stop | 11.00% | ~51 |
 | Legendary!!! | 10.00% | ~46 |
 | Evangelist | 6.00% | ~28 |
 | Is It the Right Size? | 5.00% | ~23 |
-| Stamina Star | 4.00% | ~18 |
-| We've Just Begun | 4.00% | ~18 |
+| Stamina Star | 4.00% | ~19 |
+| We've Just Begun | 4.00% | ~19 |
 | Make It Your Own! | 3.00% | ~14 |
 | Still Here | 3.00% | ~14 |
 | Iconic! | 2.00% | ~9 |
@@ -37,7 +37,7 @@
 | Next Level | 0.90% | ~4 |
 | I Don't Stop | 0.90% | ~4 |
 | Overtaking the Master | 0.90% | ~4 |
-| Back in Blighty | 0.70% | ~3 |
+| Back in Blighty | 0.60% | ~3 |
 | Maximum Endurance | 0.40% | ~2 |
 | Globe-trotter | 0.40% | ~2 |
 | Full Power | 0.40% | ~2 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460 (Ranked 245)  
+Progressed: 464 (Ranked 245)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 141 | 0 |
 | 2023-09-07 | 305 | 0 |
 | 2023-09-08 | 425 | 0 |
-| 2023-09-09 | 460 | 0 |
+| 2023-09-09 | 464 | 0 |

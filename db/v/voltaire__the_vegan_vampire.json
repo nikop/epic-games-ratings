@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -223,6 +223,11 @@
       "Time": "2023-09-05T17:03:33.1524241+00:00",
       "NumProgressed": 112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T14:05:01.9664271+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -304,7 +309,7 @@
       "ID": "GRAVEYARD",
       "SetID": "3c20ib3",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 5,
       "UsersEstimate": 103
     },
@@ -322,7 +327,7 @@
       "Name": "Groovy!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KILL_BUGBUG",
@@ -330,7 +335,7 @@
       "Name": "It\u0027s a bug\u0027s life",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KILL_DRACULA",
@@ -344,9 +349,9 @@
       "ID": "KILL_ELCAPITAN",
       "SetID": "3c20ib3",
       "Name": "Ay ay yarrr!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KILL_ENEMIES",
@@ -410,7 +415,7 @@
       "Name": "It\u0027s about the journey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REACH_20",
@@ -464,7 +469,7 @@
       "ID": "UNLOCK_WELL",
       "SetID": "3c20ib3",
       "Name": "Irrigation not irritation",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 41
     },
@@ -481,7 +486,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 0
     }
   ],
@@ -489,8 +494,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-09-09T13:05:59.1221247+00:00",
+  "LastChanged_Achievements": "2023-09-09T14:05:01.9664264+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:22.1499274+00:00",
-  "LastUpdate_Ratings": "2023-09-09T12:59:54.3685205+00:00",
-  "LastUpdate_Achievements": "2023-09-09T13:05:59.1221488+00:00"
+  "LastUpdate_Ratings": "2023-09-09T13:58:43.4081113+00:00",
+  "LastUpdate_Achievements": "2023-09-09T14:05:01.9664522+00:00"
 }

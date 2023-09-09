@@ -43,7 +43,7 @@
 | Slip and Slide | 17.00% | ~4 |
 | Merely Inquisitive | 17.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 430)  
+Progressed: 23 (Ranked 431)  
 Completed: 4 (17.39%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |
