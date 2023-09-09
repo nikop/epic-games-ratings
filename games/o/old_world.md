@@ -142,11 +142,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
 | Old World Order | 0.50% | ~69 |
+| Play a Network Game | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
 | Ancient | 0.40% | ~55 |
 | The Eternal Treaty | 0.40% | ~55 |
 | Persia | 0.40% | ~55 |
-| Play a Network Game | 0.40% | ~55 |
 | Capturing Cities | 0.40% | ~55 |
 | Ten Crowns | 0.40% | ~55 |
 | Three Man Chariot | 0.40% | ~55 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,828 (Ranked 121)  
+Progressed: 13,829 (Ranked 121)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -445,7 +445,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-06 | 13,796 | 5 |
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
-| 2023-09-09 | 13,828 | 5 |
+| 2023-09-09 | 13,829 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

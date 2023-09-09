@@ -4,8 +4,8 @@
   "ProductSlug": "garbagegame-b92325",
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-30T16:00:00+00:00",
     "PcReleaseDate": "2023-08-30T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-05T15:57:12.3937836+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:59:23.4022799+00:00",
-  "LastUpdate_Achievements": "2023-09-09T15:05:09.6048492+00:00"
+  "LastUpdate_Ratings": "2023-09-09T15:59:26.5022931+00:00",
+  "LastUpdate_Achievements": "2023-09-09T16:05:23.7644876+00:00"
 }

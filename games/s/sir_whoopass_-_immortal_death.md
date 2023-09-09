@@ -20,8 +20,8 @@
 | Make Love not War-Craft a Mistlefoe | 62.00% | ~58 |
 | Meat grinder | 62.00% | ~58 |
 | You're not going to blow me up! | 54.00% | ~51 |
+| Butcher | 53.00% | ~50 |
 | Mushroom soup of the day | 53.00% | ~50 |
-| Butcher | 52.00% | ~49 |
 | Spare Ribs | 52.00% | ~49 |
 | Honk honk! | 51.00% | ~48 |
 | Cockadoodledoo! | 51.00% | ~48 |
@@ -40,9 +40,9 @@
 | Meatballs, coming up! | 30.00% | ~28 |
 | Another one bites the iron | 30.00% | ~28 |
 | A Megapint...? | 28.00% | ~26 |
+| Kleptomaniac | 27.00% | ~25 |
 | Ripe Meat Off The Bone! | 26.00% | ~24 |
 | Hovering around | 26.00% | ~24 |
-| Kleptomaniac | 26.00% | ~24 |
 | You're not so Big anymore, Boi! | 23.00% | ~22 |
 | Your daily dose of Vitamin C. | 23.00% | ~22 |
 | I cant stand still! | 23.00% | ~22 |

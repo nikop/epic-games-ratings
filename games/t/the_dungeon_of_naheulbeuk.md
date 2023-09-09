@@ -6,17 +6,17 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,546 |
-| Where's that freaking Dwarf? | 4.00% | ~8,903 |
-| Alt+F4 | 4.00% | ~8,903 |
-| Déjà vu | 3.00% | ~6,677 |
-| Sock! SOCK! | 3.00% | ~6,677 |
-| Way of the Wimp | 2.00% | ~4,451 |
-| A beer, two curses, three companions | 2.00% | ~4,451 |
-| GG EZ | 2.00% | ~4,451 |
-| DM intervention | 2.00% | ~4,451 |
-| Speedrun | 2.00% | ~4,451 |
-| Fireproof Wizardess | 2.00% | ~4,451 |
+| Sowwy! | 29.00% | ~64,552 |
+| Where's that freaking Dwarf? | 4.00% | ~8,904 |
+| Alt+F4 | 4.00% | ~8,904 |
+| Déjà vu | 3.00% | ~6,678 |
+| Sock! SOCK! | 3.00% | ~6,678 |
+| Way of the Wimp | 2.00% | ~4,452 |
+| A beer, two curses, three companions | 2.00% | ~4,452 |
+| GG EZ | 2.00% | ~4,452 |
+| DM intervention | 2.00% | ~4,452 |
+| Speedrun | 2.00% | ~4,452 |
+| Fireproof Wizardess | 2.00% | ~4,452 |
 | Livin' in a dwarven paradise | 1.00% | ~2,226 |
 | Shiny and Crôm | 1.00% | ~2,226 |
 | The plot thickens... At the tavern | 1.00% | ~2,226 |
@@ -40,9 +40,9 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.80% | ~1,781 |
 | Look but don't touch | 0.80% | ~1,781 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,558 |
-| Dead for good | 0.60% | ~1,335 |
-| Lust and Debauchery | 0.60% | ~1,335 |
-| Material Girl | 0.60% | ~1,335 |
+| Dead for good | 0.60% | ~1,336 |
+| Lust and Debauchery | 0.60% | ~1,336 |
+| Material Girl | 0.60% | ~1,336 |
 | Gargantua | 0.50% | ~1,113 |
 | In Navalu's footsteps | 0.50% | ~1,113 |
 | We come in peace | 0.40% | ~890 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,574 (Ranked 56)  
+Progressed: 222,593 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
-| 2023-09-09 | 222,574 | 2 |
+| 2023-09-09 | 222,593 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 264 (Ranked 353)  

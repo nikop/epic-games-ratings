@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,633 |
-| Returning Home: Quick Learner | 26.00% | ~1,397 |
+| Level: Returning Home | 49.00% | ~2,634 |
+| Returning Home: Quick Learner | 26.00% | ~1,398 |
 | Level: Charlie's Circuits | 22.00% | ~1,182 |
 | Level: Rising Markets | 9.00% | ~484 |
 | Peddler | 8.00% | ~430 |
@@ -24,17 +24,17 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Bet On Bots | 3.00% | ~161 |
 | Modular Performance | 3.00% | ~161 |
 | Salesperson | 3.00% | ~161 |
-| Level: Merry-Go-Around | 2.00% | ~107 |
-| Charlies's Circuits: Artist | 2.00% | ~107 |
-| Modular Peak | 2.00% | ~107 |
-| Accountant | 2.00% | ~107 |
-| Data Churn Type III | 2.00% | ~107 |
-| Multi-Millionaire | 2.00% | ~107 |
-| Contender | 2.00% | ~107 |
-| Trophy Collector | 2.00% | ~107 |
-| Module Maniac | 2.00% | ~107 |
-| Overproducer | 2.00% | ~107 |
-| Natural Talent | 2.00% | ~107 |
+| Level: Merry-Go-Around | 2.00% | ~108 |
+| Charlies's Circuits: Artist | 2.00% | ~108 |
+| Modular Peak | 2.00% | ~108 |
+| Accountant | 2.00% | ~108 |
+| Data Churn Type III | 2.00% | ~108 |
+| Multi-Millionaire | 2.00% | ~108 |
+| Contender | 2.00% | ~108 |
+| Trophy Collector | 2.00% | ~108 |
+| Module Maniac | 2.00% | ~108 |
+| Overproducer | 2.00% | ~108 |
+| Natural Talent | 2.00% | ~108 |
 | Level: A Happy Taskforce | 1.00% | ~54 |
 | Level: The Machinery | 1.00% | ~54 |
 | Extra Life: Knowledge Cap | 1.00% | ~54 |
@@ -50,10 +50,10 @@ Number of Ratings: 75  (23.09.2022)
 | Bet On Bots: Inspector's Favorite | 0.60% | ~32 |
 | Trendsetter | 0.60% | ~32 |
 | Level: Heating-Up | 0.50% | ~27 |
-| Campaign: Man vs. Machine | 0.40% | ~21 |
-| A Happy Taskforce: Interior Designer | 0.40% | ~21 |
-| CEO | 0.40% | ~21 |
-| Rockstar | 0.40% | ~21 |
+| Campaign: Man vs. Machine | 0.40% | ~22 |
+| A Happy Taskforce: Interior Designer | 0.40% | ~22 |
+| CEO | 0.40% | ~22 |
+| Rockstar | 0.40% | ~22 |
 | Champion | 0.30% | ~16 |
 | Trophy Hoarder | 0.30% | ~16 |
 | The Machinery: Goal Orientated | 0.30% | ~16 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,374 (Ranked 146)  
+Progressed: 5,375 (Ranked 146)  
 Completed: 1 (0.02%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 1 (0.02%) (Ranked 249)
 | 2023-09-06 | 5,366 | 1 |
 | 2023-09-07 | 5,369 | 1 |
 | 2023-09-08 | 5,373 | 1 |
-| 2023-09-09 | 5,374 | 1 |
+| 2023-09-09 | 5,375 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

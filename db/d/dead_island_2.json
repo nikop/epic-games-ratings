@@ -4350,10 +4350,10 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 676381,
+  "EOS_Progressed": 676424,
   "EOS_Completed": 2126,
-  "EOS_NewPlayers": 4742,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 4729,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -20245,6 +20245,11 @@
       "Time": "2023-09-09T15:06:20.0434873+00:00",
       "NumProgressed": 676381,
       "NumCompleted": 2126
+    },
+    {
+      "Time": "2023-09-09T16:06:35.4708455+00:00",
+      "NumProgressed": 676424,
+      "NumCompleted": 2126
     }
   ],
   "TotalAchievements": 45,
@@ -20264,7 +20269,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "ach_ammo_ran",
@@ -20352,7 +20357,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6087
+      "UsersEstimate": 6088
     },
     {
       "ID": "ach_explorer",
@@ -20496,7 +20501,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "ach_revival_tour",
@@ -20512,7 +20517,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "ach_secrets_of_la",
@@ -20552,7 +20557,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "ach_the_vcla",
@@ -20590,9 +20595,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6764
+      "UsersEstimate": 13528
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20615,22 +20620,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676381,
+      "Progressed": 676424,
       "Completed": 2126
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 1921,
-      "Completed": 1921
+      "Progressed": 1964,
+      "Completed": 1964
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-09T07:00:16.3797819+00:00",
-  "LastChanged_Achievements": "2023-09-09T15:06:20.0434866+00:00",
+  "LastChanged_Achievements": "2023-09-09T16:06:35.470845+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:59:29.9680069+00:00",
-  "LastUpdate_Achievements": "2023-09-09T15:06:20.0436223+00:00"
+  "LastUpdate_Ratings": "2023-09-09T15:59:33.5066686+00:00",
+  "LastUpdate_Achievements": "2023-09-09T16:06:35.4709482+00:00"
 }

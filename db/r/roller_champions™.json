@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-06-23T13:40:00+00:00",
     "PcReleaseDate": "2022-05-25T14:00:00+00:00",
@@ -2642,18 +2642,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 2182,
       "NumberOfAwardsMax": 253
+    },
+    {
+      "Time": "2023-09-09T15:59:46.4494645+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 2183,
+      "NumberOfAwardsMax": 254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2182,
-  "NumberOfAwardsMax": 253,
+  "NumberOfAwards": 2183,
+  "NumberOfAwardsMax": 254,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 253
+      "Count": 254
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2727,8 +2733,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2023-09-09T01:39:32.3539034+00:00",
+  "LastChanged": "2023-09-09T15:59:46.4494643+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:00.1035445+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:59:42.2278151+00:00",
-  "LastUpdate_Achievements": "2023-09-09T15:05:49.163465+00:00"
+  "LastUpdate_Ratings": "2023-09-09T15:59:46.4494648+00:00",
+  "LastUpdate_Achievements": "2023-09-09T16:06:04.2069449+00:00"
 }

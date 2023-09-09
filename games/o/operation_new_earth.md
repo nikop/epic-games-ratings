@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 29.00% | ~369 |
-| Defenses Online | 26.00% | ~331 |
+| It's Good to have Allies | 29.00% | ~370 |
+| Defenses Online | 26.00% | ~332 |
 | Facility Online | 21.00% | ~268 |
 | Corporal | 15.00% | ~191 |
 | Covert Operative | 12.00% | ~153 |
 | Sergeant | 11.00% | ~140 |
-| Lieutenant | 10.00% | ~127 |
+| Lieutenant | 10.00% | ~128 |
 | Getting Deployment | 9.00% | ~115 |
 | On Target | 9.00% | ~115 |
 | Fighting for Survival | 8.00% | ~102 |
@@ -27,12 +27,12 @@
 | Silver Achiever | 4.00% | ~51 |
 | Moving On Up | 4.00% | ~51 |
 | Major | 3.00% | ~38 |
-| Gold Achiever | 2.00% | ~25 |
-| Advanced Warfare | 2.00% | ~25 |
-| Colonel | 2.00% | ~25 |
-| Resourceful | 2.00% | ~25 |
-| Battle Ready | 2.00% | ~25 |
-| Control the Skies | 2.00% | ~25 |
+| Gold Achiever | 2.00% | ~26 |
+| Advanced Warfare | 2.00% | ~26 |
+| Colonel | 2.00% | ~26 |
+| Resourceful | 2.00% | ~26 |
+| Battle Ready | 2.00% | ~26 |
+| Control the Skies | 2.00% | ~26 |
 | General | 1.00% | ~13 |
 | Seek & Destroy | 1.00% | ~13 |
 | Titan Tanks | 1.00% | ~13 |
@@ -43,7 +43,7 @@
 | Platinum Achiever | 0.10% | ~1 |
 | Platinum Competitor | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,274 (Ranked 197)  
+Progressed: 1,275 (Ranked 197)  
 Completed: 1 (0.08%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,4 +136,4 @@ Completed: 1 (0.08%) (Ranked 228)
 | 2023-09-06 | 1,252 | 1 |
 | 2023-09-07 | 1,260 | 1 |
 | 2023-09-08 | 1,267 | 1 |
-| 2023-09-09 | 1,274 | 1 |
+| 2023-09-09 | 1,275 | 1 |

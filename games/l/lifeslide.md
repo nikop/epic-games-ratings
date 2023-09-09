@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Starts Here | 95.00% | ~309 |
+| All Starts Here | 96.00% | ~312 |
 | Road to Improvement | 72.00% | ~234 |
 | Wonderful World | 59.00% | ~192 |
 | Second Wind | 58.00% | ~188 |
@@ -36,7 +36,7 @@
 | In Love | 1.00% | ~3 |
 | Survivor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 272)  
+Progressed: 325 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |

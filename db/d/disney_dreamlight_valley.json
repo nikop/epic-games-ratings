@@ -3486,7 +3486,7 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 9431,
+  "EOS_Progressed": 9432,
   "EOS_Completed": 215,
   "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 6,
@@ -12081,6 +12081,11 @@
       "Time": "2023-09-09T15:02:11.8730865+00:00",
       "NumProgressed": 9431,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2023-09-09T16:02:27.3946582+00:00",
+      "NumProgressed": 9432,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 15,
@@ -12132,7 +12137,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 4904
+      "UsersEstimate": 4905
     },
     {
       "ID": "Duty_Bound",
@@ -12164,7 +12169,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6696
+      "UsersEstimate": 6697
     },
     {
       "ID": "Miner",
@@ -12172,7 +12177,7 @@
       "Name": "Miner",
       "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "Photographer",
@@ -12180,7 +12185,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6507
+      "UsersEstimate": 6508
     },
     {
       "ID": "Renovator",
@@ -12211,7 +12216,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9431,
+      "Progressed": 9432,
       "Completed": 215
     }
   ],
@@ -12219,8 +12224,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-09-08T21:59:37.5571037+00:00",
-  "LastChanged_Achievements": "2023-09-09T15:02:11.8730859+00:00",
+  "LastChanged_Achievements": "2023-09-09T16:02:27.3946578+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:08.9722146+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:59:04.2415713+00:00",
-  "LastUpdate_Achievements": "2023-09-09T15:02:11.8731588+00:00"
+  "LastUpdate_Ratings": "2023-09-09T15:59:07.6407467+00:00",
+  "LastUpdate_Achievements": "2023-09-09T16:02:27.3947137+00:00"
 }

@@ -5,33 +5,33 @@ Rating: 3.53 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~16,004 |
-| Hard Worker | 20.00% | ~14,549 |
-| Master, Commander | 20.00% | ~14,549 |
-| Mechanic | 19.00% | ~13,822 |
-| Adios, Friendo | 18.00% | ~13,094 |
-| Bottom's Up | 18.00% | ~13,094 |
-| Nice Try | 16.00% | ~11,640 |
-| Right On Target | 13.00% | ~9,457 |
-| Piano Man | 10.00% | ~7,275 |
-| Lazy Bones | 9.00% | ~6,547 |
+| Be Seeing You | 22.00% | ~16,006 |
+| Hard Worker | 20.00% | ~14,551 |
+| Master, Commander | 20.00% | ~14,551 |
+| Mechanic | 19.00% | ~13,823 |
+| Adios, Friendo | 18.00% | ~13,096 |
+| Bottom's Up | 18.00% | ~13,096 |
+| Nice Try | 16.00% | ~11,641 |
+| Right On Target | 13.00% | ~9,458 |
+| Piano Man | 10.00% | ~7,276 |
+| Lazy Bones | 9.00% | ~6,548 |
 | Vinyl Vibes | 8.00% | ~5,820 |
-| Nothing Left to Say | 7.00% | ~5,092 |
-| Sniper | 7.00% | ~5,092 |
+| Nothing Left to Say | 7.00% | ~5,093 |
+| Sniper | 7.00% | ~5,093 |
 | Cut Call | 6.00% | ~4,365 |
 | Butcher | 4.00% | ~2,910 |
 | Magnetic Miracles | 4.00% | ~2,910 |
 | Spicy | 4.00% | ~2,910 |
-| A Man Of Taste | 3.00% | ~2,182 |
-| Ace in the Hole | 3.00% | ~2,182 |
-| Fair's Fair | 3.00% | ~2,182 |
-| Hearty | 3.00% | ~2,182 |
-| Meaty | 3.00% | ~2,182 |
-| Taco Toto | 3.00% | ~2,182 |
+| A Man Of Taste | 3.00% | ~2,183 |
+| Ace in the Hole | 3.00% | ~2,183 |
+| Fair's Fair | 3.00% | ~2,183 |
+| Hearty | 3.00% | ~2,183 |
+| Meaty | 3.00% | ~2,183 |
+| Taco Toto | 3.00% | ~2,183 |
 | Audiophile | 2.00% | ~1,455 |
 | Tape Head | 2.00% | ~1,455 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,747 (Ranked 80)  
+Progressed: 72,755 (Ranked 81)  
 Completed: 750 (1.03%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 750 (1.03%) (Ranked 119)
 | 2023-09-06 | 72,515 | 749 |
 | 2023-09-07 | 72,603 | 750 |
 | 2023-09-08 | 72,692 | 750 |
-| 2023-09-09 | 72,747 | 750 |
+| 2023-09-09 | 72,755 | 750 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

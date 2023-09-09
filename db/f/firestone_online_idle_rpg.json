@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1917,
+  "EOS_Progressed": 1918,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5480,6 +5480,11 @@
       "Time": "2023-09-09T13:06:46.6948092+00:00",
       "NumProgressed": 1917,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-09T16:05:03.128494+00:00",
+      "NumProgressed": 1918,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5721,9 +5726,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 480
     },
     {
       "ID": "herewegoagain",
@@ -5851,7 +5856,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "mythicpower",
@@ -5867,7 +5872,7 @@
       "Name": "Natural Talent",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "pokerface",
@@ -5883,7 +5888,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "prestigiousx10",
@@ -5977,9 +5982,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 384
     },
     {
       "ID": "thepowerofawakening",
@@ -5995,7 +6000,7 @@
       "Name": "The Unstoppable",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "titanpower",
@@ -6051,7 +6056,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "warmachinesarmy",
@@ -6083,14 +6088,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1917,
+      "Progressed": 1918,
       "Completed": 2
     }
   ],
@@ -6098,8 +6103,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T22:59:12.0182911+00:00",
-  "LastChanged_Achievements": "2023-09-09T15:04:49.6537505+00:00",
+  "LastChanged_Achievements": "2023-09-09T16:05:03.1284934+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.1476243+00:00",
-  "LastUpdate_Ratings": "2023-09-09T14:59:07.5880199+00:00",
-  "LastUpdate_Achievements": "2023-09-09T15:04:49.653857+00:00"
+  "LastUpdate_Ratings": "2023-09-09T15:59:10.818556+00:00",
+  "LastUpdate_Achievements": "2023-09-09T16:05:03.1285822+00:00"
 }

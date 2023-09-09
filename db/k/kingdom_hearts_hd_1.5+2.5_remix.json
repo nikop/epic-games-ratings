@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -6444,10 +6444,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 4952,
       "NumberOfAwardsMax": 656
+    },
+    {
+      "Time": "2023-09-09T16:00:12.238603+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 4961,
+      "NumberOfAwardsMax": 656
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4952,
+  "NumberOfAwards": 4961,
   "NumberOfAwardsMax": 656,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6467,7 +6473,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 643
+      "Count": 645
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6485,7 +6491,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 630
+      "Count": 636
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6515,7 +6521,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 594
+      "Count": 595
     },
     {
       "Text": "This game has a Creative Community",
@@ -6535,8 +6541,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-09-09T14:01:56.8883213+00:00",
+  "LastChanged": "2023-09-09T16:00:12.2386029+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.5848276+00:00",
-  "LastUpdate_Ratings": "2023-09-09T15:00:06.3779429+00:00",
-  "LastUpdate_Achievements": "2023-09-09T15:04:57.2862154+00:00"
+  "LastUpdate_Ratings": "2023-09-09T16:00:12.2386035+00:00",
+  "LastUpdate_Achievements": "2023-09-09T16:05:10.8450261+00:00"
 }

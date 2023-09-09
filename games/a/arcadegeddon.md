@@ -6,32 +6,32 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~8,123 |
+| Let's Get This Party Started | 91.00% | ~8,124 |
 | Photogenic | 87.00% | ~7,766 |
-| Surge Gauntlet Jockey | 84.00% | ~7,498 |
+| Surge Gauntlet Jockey | 84.00% | ~7,499 |
 | Plug It In | 83.00% | ~7,409 |
 | Adventure Time | 79.00% | ~7,052 |
-| Playing With Power | 77.00% | ~6,873 |
-| Coup d'Etat | 58.00% | ~5,177 |
+| Playing With Power | 77.00% | ~6,874 |
+| Coup d'Etat | 58.00% | ~5,178 |
 | You're Fired | 57.00% | ~5,088 |
 | Get Furious | 56.00% | ~4,999 |
-| Hacks In Stacks | 55.00% | ~4,909 |
-| Gunplay And Cosplay | 54.00% | ~4,820 |
-| Meching Enemies | 48.00% | ~4,284 |
-| Ticket Toddler | 44.00% | ~3,927 |
-| Booty Bashing | 39.00% | ~3,481 |
+| Hacks In Stacks | 55.00% | ~4,910 |
+| Gunplay And Cosplay | 54.00% | ~4,821 |
+| Meching Enemies | 48.00% | ~4,285 |
+| Ticket Toddler | 44.00% | ~3,928 |
+| Booty Bashing | 39.00% | ~3,482 |
 | Field Medic | 38.00% | ~3,392 |
 | Here Comes a New Challenger | 37.00% | ~3,303 |
 | Rapid Response | 33.00% | ~2,946 |
 | The Full Monty | 31.00% | ~2,767 |
 | Surge Ahead | 30.00% | ~2,678 |
-| Guardian Angel | 28.00% | ~2,499 |
+| Guardian Angel | 28.00% | ~2,500 |
 | Poppin Noggins | 24.00% | ~2,142 |
 | Clips and Crits | 20.00% | ~1,785 |
-| Grey Goo | 17.00% | ~1,517 |
+| Grey Goo | 17.00% | ~1,518 |
 | Boss of Bosses | 15.00% | ~1,339 |
 | The Final Blow | 14.00% | ~1,250 |
-| To Be Continued | 13.00% | ~1,160 |
+| To Be Continued | 13.00% | ~1,161 |
 | Light My Fire | 12.00% | ~1,071 |
 | Seasoned Adventurer | 12.00% | ~1,071 |
 | Get In The Ring! | 10.00% | ~893 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~36 |
 | Pyrotechnical | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,926 (Ranked 132)  
+Progressed: 8,927 (Ranked 133)  
 Completed: 1 (0.01%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 1 (0.01%) (Ranked 258)
 | 2023-09-06 | 8,906 | 1 |
 | 2023-09-07 | 8,914 | 1 |
 | 2023-09-08 | 8,921 | 1 |
-| 2023-09-09 | 8,926 | 1 |
+| 2023-09-09 | 8,927 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 388)  
 Sum: 462 (Ranked 309)  
