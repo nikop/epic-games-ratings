@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66218,
+  "EOS_Progressed": 66220,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9677,6 +9677,11 @@
       "Time": "2023-09-08T23:04:26.7147669+00:00",
       "NumProgressed": 66218,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-09T00:04:22.6157707+00:00",
+      "NumProgressed": 66220,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -9734,9 +9739,9 @@
       "ID": "ACH_FLASHCREATURE",
       "SetID": "6ccjg6f",
       "Name": "Paparazzi",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -9847,7 +9852,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 66218,
+      "Progressed": 66220,
       "Completed": 14
     }
   ],
@@ -9855,8 +9860,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-26T23:01:09.4658667+00:00",
-  "LastChanged_Achievements": "2023-09-08T23:04:26.7147665+00:00",
+  "LastChanged_Achievements": "2023-09-09T00:04:22.6157703+00:00",
   "LastUpdate_AppInfo": "2023-09-02T07:57:21.4271572+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:58:33.2464057+00:00",
-  "LastUpdate_Achievements": "2023-09-08T23:04:26.7148394+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:58:44.3976329+00:00",
+  "LastUpdate_Achievements": "2023-09-09T00:04:22.6158421+00:00"
 }

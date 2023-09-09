@@ -13,7 +13,7 @@ Rating: 4.47 (Ranked 612)
 | Lord of War | 29.00% | ~1,042 |
 | Taking it back | 28.00% | ~1,006 |
 | Resourceful | 26.00% | ~934 |
-| Target America | 25.00% | ~898 |
+| Target America | 26.00% | ~934 |
 | The Kraken Sleeps | 23.00% | ~827 |
 | Liberté | 22.00% | ~791 |
 | Organ Grinder | 22.00% | ~791 |

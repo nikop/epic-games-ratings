@@ -2,13 +2,13 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 24,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-07-29T12:59:22.4734783+00:00",
@@ -228,15 +228,21 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-08T23:57:51.750947+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214989,
+  "EOS_Progressed": 215007,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4244,
+  "EOS_NewPlayers": 4237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5409,6 +5415,11 @@
       "Time": "2023-09-08T23:05:42.0638073+00:00",
       "NumProgressed": 214989,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T00:05:41.5132707+00:00",
+      "NumProgressed": 215007,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -5477,7 +5488,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 42998
+      "UsersEstimate": 43001
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -5485,7 +5496,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19349
+      "UsersEstimate": 19351
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -5493,7 +5504,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10749
+      "UsersEstimate": 10750
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -5605,7 +5616,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 27949
+      "UsersEstimate": 27951
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -5613,7 +5624,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15049
+      "UsersEstimate": 15050
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -5677,7 +5688,7 @@
       "Name": "Graduated Command School",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 51597
+      "UsersEstimate": 51602
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -5692,16 +5703,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 214989,
+      "Progressed": 215007,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-09-05T11:57:54.635913+00:00",
-  "LastChanged_Achievements": "2023-09-08T23:05:42.0638068+00:00",
+  "LastChanged": "2023-09-08T23:57:51.7509468+00:00",
+  "LastChanged_Achievements": "2023-09-09T00:05:41.5132701+00:00",
   "LastUpdate_AppInfo": "2023-09-07T19:57:25.1255237+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:57:49.5666965+00:00",
-  "LastUpdate_Achievements": "2023-09-08T23:05:42.0638629+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:57:51.7509474+00:00",
+  "LastUpdate_Achievements": "2023-09-09T00:05:41.5133317+00:00"
 }

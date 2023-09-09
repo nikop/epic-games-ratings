@@ -22,11 +22,11 @@ Rating: 4.25 (Ranked 834)
 | Let there be light | 0.50% | ~331 |
 | Silent Advisor | 0.50% | ~331 |
 | Soda addiction | 0.40% | ~265 |
+| Paparazzi | 0.40% | ~265 |
 | Are you still there? | 0.40% | ~265 |
-| Paparazzi | 0.30% | ~199 |
 | Ear Ringing | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,218 (Ranked 85)  
+Progressed: 66,220 (Ranked 85)  
 Completed: 14 (0.02%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 14 (0.02%) (Ranked 249)
 | 2023-09-06 | 66,165 | 14 |
 | 2023-09-07 | 66,187 | 14 |
 | 2023-09-08 | 66,218 | 14 |
+| 2023-09-09 | 66,220 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

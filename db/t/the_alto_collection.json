@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -751,7 +751,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38529,
+  "EOS_Progressed": 38535,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 808,
   "EOS_NewCompleters": 0,
@@ -16456,6 +16456,11 @@
       "Time": "2023-09-08T23:04:21.4827534+00:00",
       "NumProgressed": 38529,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-09T00:04:17.487901+00:00",
+      "NumProgressed": 38535,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -16491,7 +16496,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4238
+      "UsersEstimate": 4239
     },
     {
       "ID": "distance500000",
@@ -16507,7 +16512,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10018
+      "UsersEstimate": 10019
     },
     {
       "ID": "goals180",
@@ -16579,7 +16584,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "nomad",
@@ -16587,7 +16592,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     },
     {
       "ID": "novice",
@@ -16595,7 +16600,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6165
+      "UsersEstimate": 6166
     },
     {
       "ID": "playerFelipe",
@@ -16619,7 +16624,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "playerPaz",
@@ -16659,7 +16664,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "proximityFly1000",
@@ -16675,7 +16680,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10018
+      "UsersEstimate": 10019
     },
     {
       "ID": "sandboarder",
@@ -16691,7 +16696,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4238
+      "UsersEstimate": 4239
     },
     {
       "ID": "ultimate",
@@ -16731,7 +16736,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5779
+      "UsersEstimate": 5780
     },
     {
       "ID": "unlockpaz",
@@ -16739,7 +16744,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "vandal",
@@ -16755,7 +16760,7 @@
       "Name": "Voyager",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "wanderer",
@@ -16763,7 +16768,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "windswept",
@@ -16778,15 +16783,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38529,
+      "Progressed": 38535,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-08T23:04:21.482753+00:00",
+  "LastChanged_Achievements": "2023-09-09T00:04:17.4879007+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:12.1649618+00:00",
-  "LastUpdate_Ratings": "2023-09-08T23:00:35.0086086+00:00",
-  "LastUpdate_Achievements": "2023-09-08T23:04:21.4828761+00:00"
+  "LastUpdate_Ratings": "2023-09-09T00:00:56.8667462+00:00",
+  "LastUpdate_Achievements": "2023-09-09T00:04:17.4880251+00:00"
 }

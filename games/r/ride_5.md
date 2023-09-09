@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 36.00% | ~153 |
-| Hear That Roar! | 34.00% | ~144 |
-| Clean Race | 34.00% | ~144 |
-| Rivals to the End | 28.00% | ~119 |
-| Eat My Dust | 24.00% | ~102 |
-| We're Going to Need a Bigger Garage | 21.00% | ~89 |
-| I'm Here Too! | 20.00% | ~85 |
+| First Love | 37.00% | ~158 |
+| Hear That Roar! | 34.00% | ~146 |
+| Clean Race | 33.00% | ~141 |
+| Rivals to the End | 28.00% | ~120 |
+| Eat My Dust | 24.00% | ~103 |
+| We're Going to Need a Bigger Garage | 21.00% | ~90 |
+| I'm Here Too! | 21.00% | ~90 |
 | I Want One Too! | 14.00% | ~60 |
 | Bitter Rivalry | 14.00% | ~60 |
 | Restored and Ready | 12.00% | ~51 |
 | Quick Pit Stop | 11.00% | ~47 |
 | Champagne Spray | 11.00% | ~47 |
-| Go-Faster Stripes | 10.00% | ~42 |
-| Legendary!!! | 9.00% | ~38 |
+| Go-Faster Stripes | 10.00% | ~43 |
+| Legendary!!! | 9.00% | ~39 |
 | Is It the Right Size? | 5.00% | ~21 |
 | Evangelist | 5.00% | ~21 |
 | Stamina Star | 4.00% | ~17 |
 | We've Just Begun | 4.00% | ~17 |
 | Make It Your Own! | 3.00% | ~13 |
 | Still Here | 3.00% | ~13 |
-| Iconic! | 2.00% | ~8 |
-| Spoilt for Choice | 2.00% | ~8 |
-| Cherry Blossom and Temples | 2.00% | ~8 |
-| La Dolce Vita | 2.00% | ~8 |
-| My Work Here Is Done | 2.00% | ~8 |
+| Iconic! | 2.00% | ~9 |
+| Spoilt for Choice | 2.00% | ~9 |
+| Cherry Blossom and Temples | 2.00% | ~9 |
+| La Dolce Vita | 2.00% | ~9 |
+| My Work Here Is Done | 2.00% | ~9 |
 | I'll Be the Best! | 1.00% | ~4 |
 | The Road to Liberty | 1.00% | ~4 |
 | I Make the Rules! | 1.00% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 249)  
+Progressed: 428 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,3 +62,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 141 | 0 |
 | 2023-09-07 | 305 | 0 |
 | 2023-09-08 | 425 | 0 |
+| 2023-09-09 | 428 | 0 |

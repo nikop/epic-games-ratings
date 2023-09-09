@@ -55,6 +55,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.40% | ~543 |
 | For the Hoard! | 0.40% | ~543 |
 | Scrapbooker | 0.40% | ~543 |
+| Archivist | 0.40% | ~543 |
 | Locally Sourced | 0.40% | ~543 |
 | Flying off the Shelves | 0.40% | ~543 |
 | This Power Level...! | 0.40% | ~543 |
@@ -87,7 +88,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Constellated | 0.30% | ~408 |
 | Thirst for Knowledge | 0.30% | ~408 |
 | Booty by the Boatload | 0.30% | ~408 |
-| Archivist | 0.30% | ~408 |
 | Fillin' the Bin | 0.30% | ~408 |
 | Industrial Evolution | 0.30% | ~408 |
 | By Your Powers Combined... | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,871 (Ranked 68)  
+Progressed: 135,872 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,6 +261,7 @@ Completed: 147 (0.11%) (Ranked 216)
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
+| 2023-09-09 | 135,872 | 147 |
 ## Awards
 Max (Great for Beginners): 4,730  (Ranked 70)  
 Sum: 27,189 (Ranked 48)  

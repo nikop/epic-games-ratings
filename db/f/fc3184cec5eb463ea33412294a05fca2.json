@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1064,9 +1064,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1135,8 +1135,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-08T23:07:10.8176895+00:00",
+  "LastChanged_Achievements": "2023-09-09T00:07:14.3978873+00:00",
   "LastUpdate_AppInfo": "2023-09-02T16:57:14.7085135+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:58:09.9498481+00:00",
-  "LastUpdate_Achievements": "2023-09-08T23:07:10.8177092+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:58:12.7983503+00:00",
+  "LastUpdate_Achievements": "2023-09-09T00:07:14.3979059+00:00"
 }

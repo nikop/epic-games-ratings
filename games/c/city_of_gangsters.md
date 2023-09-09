@@ -5,11 +5,11 @@ Rating: 4.27 (Ranked 820)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,419 |
-| Copacetic Coordination | 16.00% | ~54,754 |
-| Fronting the Money | 15.00% | ~51,332 |
-| The Dawn of Automation | 14.00% | ~47,910 |
-| Extraordinary Logistics | 14.00% | ~47,910 |
+| Corner Clout | 46.00% | ~157,420 |
+| Copacetic Coordination | 16.00% | ~54,755 |
+| Fronting the Money | 15.00% | ~51,333 |
+| The Dawn of Automation | 14.00% | ~47,911 |
+| Extraordinary Logistics | 14.00% | ~47,911 |
 | Dirty Money | 13.00% | ~44,488 |
 | Family First | 13.00% | ~44,488 |
 | Cleaning House | 12.00% | ~41,066 |
@@ -41,13 +41,13 @@ Rating: 4.27 (Ranked 820)
 | An Affront to the Enemy | 4.00% | ~13,689 |
 | Friends from Back Home | 4.00% | ~13,689 |
 | Half Century Mark | 4.00% | ~13,689 |
-| Corner Opportunities | 3.00% | ~10,266 |
-| 2122 North Clark Street | 3.00% | ~10,266 |
-| Copious Cabbage | 3.00% | ~10,266 |
-| Sockdolager | 3.00% | ~10,266 |
-| Still Stalwart | 3.00% | ~10,266 |
-| Bees Knees Bootlegger | 3.00% | ~10,266 |
-| Tighten the Screws | 3.00% | ~10,266 |
+| Corner Opportunities | 3.00% | ~10,267 |
+| 2122 North Clark Street | 3.00% | ~10,267 |
+| Copious Cabbage | 3.00% | ~10,267 |
+| Sockdolager | 3.00% | ~10,267 |
+| Still Stalwart | 3.00% | ~10,267 |
+| Bees Knees Bootlegger | 3.00% | ~10,267 |
+| Tighten the Screws | 3.00% | ~10,267 |
 | One of Us | 2.00% | ~6,844 |
 | Baker’s Dozen | 2.00% | ~6,844 |
 | Dropping the Dime | 2.00% | ~6,844 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 820)
 | High Pillow | 0.10% | ~342 |
 | Station Master | 0.10% | ~342 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,215 (Ranked 42)  
+Progressed: 342,218 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 7 (0.00%) (Ranked 272)
 | 2023-09-06 | 341,921 | 7 |
 | 2023-09-07 | 342,060 | 7 |
 | 2023-09-08 | 342,215 | 7 |
+| 2023-09-09 | 342,218 | 7 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 456)  
 Sum: 131 (Ranked 405)  

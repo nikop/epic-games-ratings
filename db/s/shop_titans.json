@@ -5914,7 +5914,7 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135871,
+  "EOS_Progressed": 135872,
   "EOS_Completed": 147,
   "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 7,
@@ -20429,6 +20429,11 @@
       "Time": "2023-09-08T23:05:24.5660153+00:00",
       "NumProgressed": 135871,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-09-09T00:05:23.618088+00:00",
+      "NumProgressed": 135872,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 112,
@@ -20646,9 +20651,9 @@
       "ID": "collection03",
       "SetID": "anfd17p",
       "Name": "Archivist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 543
     },
     {
       "ID": "collection04",
@@ -21335,15 +21340,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135871,
+      "Progressed": 135872,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-08T01:46:44.9189561+00:00",
-  "LastChanged_Achievements": "2023-09-08T23:05:24.5660148+00:00",
+  "LastChanged_Achievements": "2023-09-09T00:05:23.6180869+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:10.3701754+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:59:42.8331234+00:00",
-  "LastUpdate_Achievements": "2023-09-08T23:05:24.5662549+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:59:58.2492797+00:00",
+  "LastUpdate_Achievements": "2023-09-09T00:05:23.6184981+00:00"
 }

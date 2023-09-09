@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -501,9 +501,9 @@
       "ID": "killBoxes50",
       "SetID": "ci65fo0",
       "Name": "Loot collector",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "killElk50",
@@ -637,9 +637,9 @@
       "ID": "killTree50",
       "SetID": "ci65fo0",
       "Name": "Lumberjack",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "killZombie10",
@@ -1010,8 +1010,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-08T23:06:44.3280902+00:00",
+  "LastChanged_Achievements": "2023-09-09T00:06:47.1320466+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:57:48.5896555+00:00",
-  "LastUpdate_Achievements": "2023-09-08T23:06:44.3281723+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:57:50.4195558+00:00",
+  "LastUpdate_Achievements": "2023-09-09T00:06:47.1321337+00:00"
 }

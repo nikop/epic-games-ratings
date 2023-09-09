@@ -2,10 +2,10 @@
   "ID": "810797d6d1c640068ce75d45b85d2423",
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
     "PcReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.59,
+  "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
     {
       "Time": "2023-08-23T19:06:50.974201+00:00",
@@ -271,6 +271,11 @@
       "Time": "2023-09-08T12:05:29.4022262+00:00",
       "NumProgressed": 63,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T00:04:55.3188681+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -281,7 +286,7 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 25,
       "UsersEstimate": 51
     },
@@ -394,14 +399,14 @@
     {
       "ID": "2l1dk5b",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-08T23:04:58.2370878+00:00",
+  "LastChanged_Achievements": "2023-09-09T00:04:55.3188677+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:02.219567+00:00",
-  "LastUpdate_Ratings": "2023-09-08T23:00:38.8738021+00:00",
-  "LastUpdate_Achievements": "2023-09-08T23:04:58.2371003+00:00"
+  "LastUpdate_Ratings": "2023-09-09T00:01:01.2120597+00:00",
+  "LastUpdate_Achievements": "2023-09-09T00:04:55.3188822+00:00"
 }

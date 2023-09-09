@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4344,10 +4344,10 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 675980,
-  "EOS_Completed": 2122,
-  "EOS_NewPlayers": 4872,
-  "EOS_NewCompleters": 25,
+  "EOS_Progressed": 676008,
+  "EOS_Completed": 2123,
+  "EOS_NewPlayers": 4875,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -20159,6 +20159,11 @@
       "Time": "2023-09-08T23:06:16.8904782+00:00",
       "NumProgressed": 675980,
       "NumCompleted": 2122
+    },
+    {
+      "Time": "2023-09-09T00:06:18.3283783+00:00",
+      "NumProgressed": 676008,
+      "NumCompleted": 2123
     }
   ],
   "TotalAchievements": 45,
@@ -20192,9 +20197,9 @@
       "ID": "ach_anger_management",
       "SetID": "7km39fm",
       "Name": "Anger Management",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4732
+      "UsersEstimate": 5408
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20529,22 +20534,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 675980,
-      "Completed": 2122
+      "Progressed": 676008,
+      "Completed": 2123
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 1520,
-      "Completed": 1520
+      "Progressed": 1548,
+      "Completed": 1548
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-08T22:00:10.3493692+00:00",
-  "LastChanged_Achievements": "2023-09-08T23:06:16.8904777+00:00",
+  "LastChanged_Achievements": "2023-09-09T00:06:18.3283778+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:59:38.8994328+00:00",
-  "LastUpdate_Achievements": "2023-09-08T23:06:16.8906081+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:59:53.3382263+00:00",
+  "LastUpdate_Achievements": "2023-09-09T00:06:18.3285093+00:00"
 }

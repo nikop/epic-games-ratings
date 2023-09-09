@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -810,9 +810,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222320,
+  "EOS_Progressed": 222340,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2155,
+  "EOS_NewPlayers": 2164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10075,6 +10075,11 @@
       "Time": "2023-09-08T23:05:58.4385802+00:00",
       "NumProgressed": 222320,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-09T00:05:59.2667322+00:00",
+      "NumProgressed": 222340,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10142,7 +10147,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4446
+      "UsersEstimate": 4447
     },
     {
       "ID": "Chapter3",
@@ -10486,7 +10491,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8893
+      "UsersEstimate": 8894
     },
     {
       "ID": "DwarfElf15Support",
@@ -10534,7 +10539,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64473
+      "UsersEstimate": 64479
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10550,7 +10555,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4446
+      "UsersEstimate": 4447
     },
     {
       "ID": "EndCombatOneHp",
@@ -10558,7 +10563,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4446
+      "UsersEstimate": 4447
     },
     {
       "ID": "EndGameCursed",
@@ -10582,7 +10587,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8893
+      "UsersEstimate": 8894
     },
     {
       "ID": "FollowBraztok",
@@ -10734,7 +10739,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4446
+      "UsersEstimate": 4447
     },
     {
       "ID": "SupportCount4",
@@ -10782,28 +10787,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4446
+      "UsersEstimate": 4447
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222320,
+      "Progressed": 222340,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222320,
+      "Progressed": 222340,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-06T13:05:29.237116+00:00",
-  "LastChanged_Achievements": "2023-09-08T23:05:58.4385797+00:00",
+  "LastChanged_Achievements": "2023-09-09T00:05:59.2667318+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:55.2312629+00:00",
-  "LastUpdate_Ratings": "2023-09-08T22:59:31.6122872+00:00",
-  "LastUpdate_Achievements": "2023-09-08T23:05:58.4387325+00:00"
+  "LastUpdate_Ratings": "2023-09-08T23:59:46.2101638+00:00",
+  "LastUpdate_Achievements": "2023-09-09T00:05:59.2669007+00:00"
 }

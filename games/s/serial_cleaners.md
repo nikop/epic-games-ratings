@@ -13,7 +13,7 @@
 | Mr. Hygeni | 9.00% | ~21 |
 | Pride and Joy | 8.00% | ~19 |
 | Eyes Yet To Open | 7.00% | ~17 |
-| Hackathon | 6.00% | ~14 |
+| Hackathon | 7.00% | ~17 |
 | All the Stories | 4.00% | ~9 |
 | Total Recall | 4.00% | ~9 |
 | Witness Protection | 4.00% | ~9 |
