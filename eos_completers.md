@@ -17,7 +17,7 @@
 | 15 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 15 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 18 | [Island Cities](games/i/island_cities.md) | 15.88% |
+| 18 | [Island Cities](games/i/island_cities.md) | 15.85% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
@@ -39,7 +39,7 @@
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.79% |
 | 38 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.15% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.14% |
 | 41 | [Scorn](games/s/scorn.md) | 7.02% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.90% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.61% |
@@ -53,7 +53,7 @@
 | 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
-| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.95% |
+| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.90% |
 | 55 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 56 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |

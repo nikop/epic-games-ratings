@@ -12,12 +12,12 @@
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 517 |
 | 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,888 | 111 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 517 |
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,115 | 41 |
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,128 | 41 |
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 517 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 517 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 433 | 208 |
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 517 |
-| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,138 | 21 |
+| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,156 | 21 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 307 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,246 | 78 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 174,087 | 6 |
@@ -411,7 +411,7 @@
 | 392 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 236 | 260 |
 | 392 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 517 |
 | 392 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 497 |
-| 392 | [Warframe](games/w/warframe.md) | 4.60 | 16,915 | 22 |
+| 392 | [Warframe](games/w/warframe.md) | 4.60 | 16,945 | 22 |
 | 392 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 431 | 209 |
 | 392 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 358 |
 | 392 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 517 |
@@ -547,7 +547,7 @@
 | 532 | [Verdun](games/v/verdun.md) | 4.52 | 96 | 344 |
 | 532 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 517 |
 | 547 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 100 | 337 |
-| 547 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 788 | 159 |
+| 547 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 790 | 159 |
 | 547 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,120 | 79 |
 | 547 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 517 |
 | 547 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.51 | 0 | 517 |
@@ -881,15 +881,15 @@
 | 873 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 517 |
 | 873 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 0 | 517 |
 | 873 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.19 | 73 | 376 |
+| 873 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.19 | 150 | 300 |
 | 873 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 517 |
-| 883 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 517 |
-| 883 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 93 | 349 |
-| 883 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 517 |
-| 883 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,614 | 97 |
-| 883 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 344 |
-| 883 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 517 |
-| 883 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.18 | 150 | 300 |
-| 883 | [Wreckfest](games/w/wreckfest.md) | 4.18 | 0 | 517 |
+| 884 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 517 |
+| 884 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 93 | 349 |
+| 884 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 517 |
+| 884 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,614 | 97 |
+| 884 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 344 |
+| 884 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 517 |
+| 884 | [Wreckfest](games/w/wreckfest.md) | 4.18 | 0 | 517 |
 | 891 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17 | 0 | 517 |
 | 892 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 517 |
 | 892 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 614 | 180 |
