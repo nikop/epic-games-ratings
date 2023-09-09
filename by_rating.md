@@ -109,7 +109,7 @@
 | 102 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,474 | 123 |
 | 102 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 938 | 149 |
 | 102 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
-| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,676 | 71 |
+| 110 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,711 | 71 |
 | 110 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,973 | 51 |
 | 110 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,365 | 17 |
 | 110 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 517 |
@@ -376,7 +376,7 @@
 | 368 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 234 |
 | 368 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 44,299 | 12 |
 | 368 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 38 | 431 |
-| 368 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,183 | 137 |
+| 368 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,184 | 137 |
 | 368 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.61 | 0 | 517 |
 | 368 | [MudRunner](games/m/mudrunner.md) | 4.61 | 256 | 252 |
 | 368 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 517 |
@@ -978,7 +978,7 @@
 | 976 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,064 | 141 |
 | 977 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 517 |
 | 977 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 517 |
-| 979 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.73 | 0 | 517 |
+| 979 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 3.76 | 0 | 517 |
 | 980 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 517 |
 | 981 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 517 |
 | 982 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.63 | 0 | 517 |

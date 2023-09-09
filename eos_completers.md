@@ -4,8 +4,8 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.22% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 41.51% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.87% |
-| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 30.23% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.65% |
+| 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.76% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
@@ -52,8 +52,8 @@
 | 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.38% |
 | 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
-| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.10% |
-| 54 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
+| 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
+| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.00% |
 | 55 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 56 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
 | 57 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
@@ -62,7 +62,7 @@
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
 | 61 | [ZZT!](games/z/zzt!.md) | 4.04% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.99% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.98% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.39% |
@@ -81,7 +81,7 @@
 | 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 2.59% |
-| 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.53% |
+| 82 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.52% |
 | 83 | [Lamentum](games/l/lamentum.md) | 2.51% |
 | 84 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 84 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.50% |

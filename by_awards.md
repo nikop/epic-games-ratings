@@ -70,7 +70,7 @@
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,898 | 4.69 | 217 |
 | 69 | [MultiVersus](games/m/multiversus.md) | 4,747 | 4.56 | 471 |
 | 70 | [Shop Titans](games/s/shop_titans.md) | 4,730 | 3.99 | 943 |
-| 71 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,676 | 4.77 | 110 |
+| 71 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,711 | 4.77 | 110 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,595 | 4.60 | 392 |
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,571 | 4.70 | 201 |
 | 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,525 | 4.70 | 201 |
@@ -136,7 +136,7 @@
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,262 | 4.55 | 490 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,201 | 4.42 | 680 |
 | 136 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,187 | 4.69 | 217 |
-| 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,183 | 4.61 | 368 |
+| 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,184 | 4.61 | 368 |
 | 138 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,077 | 4.61 | 368 |
 | 139 | [EVE Online](games/e/eve_online.md) | 1,074 | 4.25 | 834 |
 | 140 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,065 | 4.66 | 280 |
