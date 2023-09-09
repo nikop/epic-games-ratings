@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -64,7 +64,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10332,
+  "EOS_Progressed": 10336,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
@@ -4859,6 +4859,11 @@
       "Time": "2023-09-09T22:07:18.4294822+00:00",
       "NumProgressed": 10332,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-09T23:06:23.7919498+00:00",
+      "NumProgressed": 10336,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4919,7 +4924,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2584
     },
     {
       "ID": "16",
@@ -4935,7 +4940,7 @@
       "Name": "Spore Taste",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "18",
@@ -4943,7 +4948,7 @@
       "Name": "Bottoms up!",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "19",
@@ -4951,7 +4956,7 @@
       "Name": "Martian Music",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "2",
@@ -5047,7 +5052,7 @@
       "Name": "Captain Drummer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "30",
@@ -5079,7 +5084,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "7",
@@ -5103,14 +5108,14 @@
       "Name": "Impossible Objects",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10332,
+      "Progressed": 10336,
       "Completed": 0
     }
   ],
@@ -5118,8 +5123,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-07T17:03:40.5471385+00:00",
-  "LastChanged_Achievements": "2023-09-09T22:07:18.4294814+00:00",
+  "LastChanged_Achievements": "2023-09-09T23:06:23.7919494+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:02:02.5443098+00:00",
-  "LastUpdate_Achievements": "2023-09-09T22:07:18.4295728+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:00:54.7696157+00:00",
+  "LastUpdate_Achievements": "2023-09-09T23:06:23.7919904+00:00"
 }

@@ -811,9 +811,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8934,
+  "EOS_Progressed": 8935,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8971,6 +8971,11 @@
       "Time": "2023-09-09T20:03:40.5039389+00:00",
       "NumProgressed": 8934,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T23:03:30.3876751+00:00",
+      "NumProgressed": 8935,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -8982,7 +8987,7 @@
       "Name": "Adventure Time",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 7058
+      "UsersEstimate": 7059
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -8990,7 +8995,7 @@
       "Name": "Booty Bashing",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -9046,7 +9051,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5003
+      "UsersEstimate": 5004
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -9054,7 +9059,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -9086,7 +9091,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 4824
+      "UsersEstimate": 4825
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -9126,7 +9131,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8041
+      "UsersEstimate": 8042
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -9150,7 +9155,7 @@
       "Name": "Meching Enemies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4289
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -9190,7 +9195,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6879
+      "UsersEstimate": 6880
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -9198,7 +9203,7 @@
       "Name": "Plug It In",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 7415
+      "UsersEstimate": 7416
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -9222,7 +9227,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -9254,7 +9259,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -9334,7 +9339,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -9358,7 +9363,7 @@
       "Name": "To Be Continued",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH_TREASURE_HUNTING",
@@ -9374,22 +9379,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5092
+      "UsersEstimate": 5093
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8934,
+      "Progressed": 8935,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-09-09T22:03:41.6654434+00:00",
+  "LastChanged_Achievements": "2023-09-09T23:03:30.3876745+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:57.1970022+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:01:18.8126713+00:00",
-  "LastUpdate_Achievements": "2023-09-09T22:03:41.6655617+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:00:20.8247152+00:00",
+  "LastUpdate_Achievements": "2023-09-09T23:03:30.3877472+00:00"
 }

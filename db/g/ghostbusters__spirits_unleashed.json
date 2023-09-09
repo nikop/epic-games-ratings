@@ -2036,7 +2036,7 @@
   ],
   "EOS_Progressed": 25714,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12566,9 +12566,9 @@
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15428
+      "UsersEstimate": 15686
     },
     {
       "ID": "Dont_Need_These",
@@ -12895,8 +12895,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-09T11:04:23.182326+00:00",
-  "LastChanged_Achievements": "2023-09-09T22:08:17.9176644+00:00",
+  "LastChanged_Achievements": "2023-09-09T23:07:14.0626083+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:01:36.4341931+00:00",
-  "LastUpdate_Achievements": "2023-09-09T22:08:17.9178027+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:00:34.2528779+00:00",
+  "LastUpdate_Achievements": "2023-09-09T23:07:14.0626934+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1417,9 +1417,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 164
     },
     {
       "ID": "AC13",
@@ -1473,9 +1473,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 343
     },
     {
       "ID": "AC20",
@@ -1698,8 +1698,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-09T09:58:35.689608+00:00",
-  "LastChanged_Achievements": "2023-09-09T22:04:47.2136625+00:00",
+  "LastChanged_Achievements": "2023-09-09T23:04:16.0753612+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-09T21:58:49.564913+00:00",
-  "LastUpdate_Achievements": "2023-09-09T22:04:47.213738+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:58:18.9712725+00:00",
+  "LastUpdate_Achievements": "2023-09-09T23:04:16.0753977+00:00"
 }

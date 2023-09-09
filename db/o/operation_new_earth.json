@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1278,
+  "EOS_Progressed": 1279,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4561,6 +4561,11 @@
       "Time": "2023-09-09T21:07:20.8778477+00:00",
       "NumProgressed": 1278,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T23:07:40.3029701+00:00",
+      "NumProgressed": 1279,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4636,7 +4641,7 @@
       "Name": "Silver Competitor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -4676,7 +4681,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4708,7 +4713,7 @@
       "Name": "Captain",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -4828,7 +4833,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4875,14 +4880,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1278,
+      "Progressed": 1279,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-09T22:08:50.2341995+00:00",
+  "LastChanged_Achievements": "2023-09-09T23:07:40.3029696+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-09T21:58:40.027687+00:00",
-  "LastUpdate_Achievements": "2023-09-09T22:08:50.2342635+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:58:10.6883673+00:00",
+  "LastUpdate_Achievements": "2023-09-09T23:07:40.3030138+00:00"
 }

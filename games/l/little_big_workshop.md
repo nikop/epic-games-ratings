@@ -1,7 +1,7 @@
 # Little Big Workshop
 [Store](https://store.epicgames.com/en-US/p/little-big-workshop)  
 [View Rawdata](../../db/l/little_big_workshop.json)  
-Rating: 4.34 (Ranked 764)  
+Rating: 4.33 (Ranked 773)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.34 (Ranked 764)
 | 2023-03-31 | 4.30 | 0 | 0 |
 | 2023-04-27 | 4.32 | 0 | 0 |
 | 2023-05-02 | 4.34 | 0 | 0 |
+| 2023-09-09 | 4.33 | 0 | 0 |

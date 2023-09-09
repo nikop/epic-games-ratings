@@ -104,6 +104,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.90% | ~124 |
 | Church of the Holy Sepulchre | 0.90% | ~124 |
 | Redemption | 0.90% | ~124 |
+| Cimmerian Archer | 0.90% | ~124 |
 | Ambition Victory | 0.90% | ~124 |
 | Double Victory | 0.90% | ~124 |
 | Win a Single Player Game | 0.90% | ~124 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.80% | ~111 |
 | Revelation | 0.80% | ~111 |
 | Veneration | 0.80% | ~111 |
-| Cimmerian Archer | 0.80% | ~111 |
 | Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
 | Learn to Play 4 | 0.70% | ~97 |

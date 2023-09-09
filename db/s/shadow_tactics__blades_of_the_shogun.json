@@ -1525,9 +1525,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 201155,
+  "EOS_Progressed": 201158,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1521,
+  "EOS_NewPlayers": 1513,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17490,6 +17490,11 @@
       "Time": "2023-09-09T22:09:05.9977128+00:00",
       "NumProgressed": 201155,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-09T23:08:13.7647812+00:00",
+      "NumProgressed": 201158,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17541,7 +17546,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16092
+      "UsersEstimate": 16093
     },
     {
       "ID": "FiveShadows",
@@ -17717,7 +17722,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16092
+      "UsersEstimate": 16093
     },
     {
       "ID": "Rollin",
@@ -17725,7 +17730,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16092
+      "UsersEstimate": 16093
     },
     {
       "ID": "StillRollin",
@@ -17757,7 +17762,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16092
+      "UsersEstimate": 16093
     },
     {
       "ID": "TheCave",
@@ -17852,15 +17857,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 201155,
+      "Progressed": 201158,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-09T19:01:27.7622037+00:00",
-  "LastChanged_Achievements": "2023-09-09T22:09:05.997712+00:00",
+  "LastChanged_Achievements": "2023-09-09T23:08:13.7647807+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.2415553+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:02:02.933572+00:00",
-  "LastUpdate_Achievements": "2023-09-09T22:09:05.9979537+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:00:55.2380465+00:00",
+  "LastUpdate_Achievements": "2023-09-09T23:08:13.7648823+00:00"
 }

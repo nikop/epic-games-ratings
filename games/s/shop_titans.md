@@ -43,6 +43,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.50% | ~680 |
 | Power of Love | 0.50% | ~680 |
 | Flawless Fusion | 0.50% | ~680 |
+| Trash to Treasure | 0.50% | ~680 |
 | Royal Ransom | 0.50% | ~680 |
 | Natural 20 | 0.50% | ~680 |
 | Magical Harmony | 0.50% | ~680 |
@@ -67,7 +68,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.40% | ~544 |
 | Cranked up to 11 | 0.40% | ~544 |
 | Fit for a King | 0.40% | ~544 |
-| Trash to Treasure | 0.40% | ~544 |
 | Mammonite | 0.40% | ~544 |
 | Wealth Beyond Measure | 0.40% | ~544 |
 | Fat Cat Tag Team | 0.40% | ~544 |
@@ -76,6 +76,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Miracle Alchemist | 0.40% | ~544 |
 | Laden with Loot | 0.40% | ~544 |
 | Seasoned Journeyman | 0.40% | ~544 |
+| Precision Engineering | 0.40% | ~544 |
 | Scourge of the Seas | 0.40% | ~544 |
 | Attrition Mission | 0.40% | ~544 |
 | Glittering Collection | 0.40% | ~544 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.30% | ~408 |
 | Jackpot! | 0.30% | ~408 |
 | Bountiful Harvest | 0.30% | ~408 |
-| Precision Engineering | 0.30% | ~408 |
 | Treasure Trove | 0.30% | ~408 |
 | Master Recycler | 0.30% | ~408 |
 | Economy of Scarce | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,929 (Ranked 68)  
+Progressed: 135,932 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
-| 2023-09-09 | 135,929 | 147 |
+| 2023-09-09 | 135,932 | 147 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 70)  
 Sum: 27,199 (Ranked 48)  

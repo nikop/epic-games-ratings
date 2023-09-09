@@ -5,35 +5,35 @@ Rating: 4.24 (Ranked 841)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~351,594 |
-| Well educated | 37.00% | ~271,020 |
-| City Planner | 19.00% | ~139,173 |
-| Deforester | 17.00% | ~124,523 |
-| Big Hauling | 16.00% | ~117,198 |
-| Apprentice Manufacturer | 13.00% | ~95,223 |
-| Exporter | 13.00% | ~95,223 |
-| I would drive 500 tiles... | 12.00% | ~87,898 |
-| Landscaper | 12.00% | ~87,898 |
-| Railwayman | 8.00% | ~58,599 |
-| Penniless | 6.00% | ~43,949 |
-| Massive Gains | 6.00% | ~43,949 |
+| Entrepreneur | 48.00% | ~351,601 |
+| Well educated | 37.00% | ~271,026 |
+| City Planner | 19.00% | ~139,175 |
+| Deforester | 17.00% | ~124,525 |
+| Big Hauling | 16.00% | ~117,200 |
+| Apprentice Manufacturer | 13.00% | ~95,225 |
+| Exporter | 13.00% | ~95,225 |
+| I would drive 500 tiles... | 12.00% | ~87,900 |
+| Landscaper | 12.00% | ~87,900 |
+| Railwayman | 8.00% | ~58,600 |
+| Penniless | 6.00% | ~43,950 |
+| Massive Gains | 6.00% | ~43,950 |
 | Salesman | 3.00% | ~21,975 |
 | Engineer | 2.00% | ~14,650 |
 | High Flyer | 2.00% | ~14,650 |
 | Captain | 0.80% | ~5,860 |
 | Billionaire | 0.60% | ~4,395 |
 | Vroom Vroom | 0.40% | ~2,930 |
-| Excavator | 0.30% | ~2,197 |
-| Loan Ranger | 0.30% | ~2,197 |
-| [2130] Nature Lover | 0.10% | ~732 |
-| [2130] No Quarter Given | 0.10% | ~732 |
-| [2130] Dumpster Diving | 0.10% | ~732 |
-| Freelancer | 0.10% | ~732 |
-| Director | 0.10% | ~732 |
-| Master Builder | 0.10% | ~732 |
-| Hard working | 0.10% | ~732 |
+| Excavator | 0.30% | ~2,198 |
+| Loan Ranger | 0.30% | ~2,198 |
+| [2130] Nature Lover | 0.10% | ~733 |
+| [2130] No Quarter Given | 0.10% | ~733 |
+| [2130] Dumpster Diving | 0.10% | ~733 |
+| Freelancer | 0.10% | ~733 |
+| Director | 0.10% | ~733 |
+| Master Builder | 0.10% | ~733 |
+| Hard working | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,487 (Ranked 18)  
+Progressed: 732,502 (Ranked 18)  
 Completed: 3 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 3 (0.00%) (Ranked 272)
 | 2023-09-06 | 731,515 | 3 |
 | 2023-09-07 | 731,780 | 3 |
 | 2023-09-08 | 732,102 | 3 |
-| 2023-09-09 | 732,487 | 3 |
+| 2023-09-09 | 732,502 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

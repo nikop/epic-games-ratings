@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,583 |
-| Where's that freaking Dwarf? | 4.00% | ~8,908 |
-| Alt+F4 | 4.00% | ~8,908 |
+| Sowwy! | 29.00% | ~64,587 |
+| Where's that freaking Dwarf? | 4.00% | ~8,909 |
+| Alt+F4 | 4.00% | ~8,909 |
 | Déjà vu | 3.00% | ~6,681 |
 | Sock! SOCK! | 3.00% | ~6,681 |
 | Way of the Wimp | 2.00% | ~4,454 |
@@ -43,8 +43,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.60% | ~1,336 |
 | Lust and Debauchery | 0.60% | ~1,336 |
 | Material Girl | 0.60% | ~1,336 |
-| Gargantua | 0.50% | ~1,113 |
-| In Navalu's footsteps | 0.50% | ~1,113 |
+| Gargantua | 0.50% | ~1,114 |
+| In Navalu's footsteps | 0.50% | ~1,114 |
 | We come in peace | 0.40% | ~891 |
 | Lëgal Legend | 0.40% | ~891 |
 | Holistic Adventuring Party | 0.30% | ~668 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,699 (Ranked 56)  
+Progressed: 222,713 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-06 | 221,774 | 2 |
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
-| 2023-09-09 | 222,699 | 2 |
+| 2023-09-09 | 222,713 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 265 (Ranked 353)  

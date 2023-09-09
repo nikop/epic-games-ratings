@@ -2,20 +2,20 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 162,
+  "Ranking_Rating": 146,
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-10-19T15:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -806,10 +806,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 984,
       "NumberOfAwardsMax": 654
+    },
+    {
+      "Time": "2023-09-09T22:59:38.3162781+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 985,
+      "NumberOfAwardsMax": 654
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 984,
+  "NumberOfAwards": 985,
   "NumberOfAwardsMax": 654,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -835,7 +841,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Extremely Fun",
@@ -892,8 +898,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2023-09-09T09:59:57.543134+00:00",
+  "LastChanged": "2023-09-09T22:59:38.316278+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.6334363+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:00:26.4419141+00:00",
-  "LastUpdate_Achievements": "2023-09-09T22:06:49.6138466+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:59:38.3162785+00:00",
+  "LastUpdate_Achievements": "2023-09-09T23:06:00.0552192+00:00"
 }

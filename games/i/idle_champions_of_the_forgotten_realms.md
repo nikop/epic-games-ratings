@@ -10,10 +10,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.60% | ~1,369 |
 | The Cursed Farmer | 0.50% | ~1,141 |
 | The Mad Wizard | 0.40% | ~913 |
-| Were-verpowered | 0.30% | ~684 |
-| The Ring of Regeneration | 0.30% | ~684 |
-| Seeking Allies | 0.30% | ~684 |
-| Are Ya Chicken? | 0.30% | ~684 |
+| Were-verpowered | 0.30% | ~685 |
+| The Ring of Regeneration | 0.30% | ~685 |
+| Seeking Allies | 0.30% | ~685 |
+| Are Ya Chicken? | 0.30% | ~685 |
 | Maddening | 0.20% | ~456 |
 | Tall Tales | 0.20% | ~389 |
 | The Silken Swamp | 0.20% | ~456 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~194 |
 | All's Well That Ends Well | 0.10% | ~194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,164 (Ranked 54)  
+Progressed: 228,168 (Ranked 54)  
 Completed: 2,265 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -669,7 +669,7 @@ Completed: 2,265 (0.99%) (Ranked 124)
 | 2023-09-06 | 227,606 | 2,257 |
 | 2023-09-07 | 227,831 | 2,259 |
 | 2023-09-08 | 227,989 | 2,263 |
-| 2023-09-09 | 228,164 | 2,265 |
+| 2023-09-09 | 228,168 | 2,265 |
 ## Awards
 Max (Diverse Characters): 5,246  (Ranked 67)  
 Sum: 31,491 (Ranked 38)  

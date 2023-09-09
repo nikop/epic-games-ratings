@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5938,9 +5938,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135929,
+  "EOS_Progressed": 135932,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20568,6 +20568,11 @@
       "Time": "2023-09-09T22:06:58.1169672+00:00",
       "NumProgressed": 135929,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-09-09T23:06:07.2895556+00:00",
+      "NumProgressed": 135932,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 112,
@@ -21033,9 +21038,9 @@
       "ID": "fuseuncommon",
       "SetID": "anfd17p",
       "Name": "Trash to Treasure",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 680
     },
     {
       "ID": "gemsspent",
@@ -21257,9 +21262,9 @@
       "ID": "master04",
       "SetID": "anfd17p",
       "Name": "Precision Engineering",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 544
     },
     {
       "ID": "master05",
@@ -21474,15 +21479,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135929,
+      "Progressed": 135932,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-09T16:59:54.812119+00:00",
-  "LastChanged_Achievements": "2023-09-09T22:06:58.1169663+00:00",
+  "LastChanged_Achievements": "2023-09-09T23:06:07.2895552+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:01:09.5579505+00:00",
-  "LastUpdate_Achievements": "2023-09-09T22:06:58.1174097+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:00:13.2092525+00:00",
+  "LastUpdate_Achievements": "2023-09-09T23:06:07.2897511+00:00"
 }

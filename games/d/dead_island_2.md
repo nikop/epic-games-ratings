@@ -6,34 +6,34 @@ Rating: 4.54 (Ranked 505)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 2.00% | ~13,535 |
-| Dr. Reed, I Presume? | 1.00% | ~6,767 |
-| Git Gutte! | 1.00% | ~6,767 |
-| Bookworm | 1.00% | ~6,767 |
-| Break A Leg | 1.00% | ~6,767 |
-| But Doctor, I am Butcho | 1.00% | ~6,767 |
-| Can't Handle the Truth | 1.00% | ~6,767 |
-| Coup de Grâce | 1.00% | ~6,767 |
-| Like Riding a Bike | 1.00% | ~6,767 |
-| Hazardous Materials | 1.00% | ~6,767 |
-| Friends Like These | 1.00% | ~6,767 |
-| Hotel California | 1.00% | ~6,767 |
-| Apex Predator | 1.00% | ~6,767 |
-| Zombologist | 1.00% | ~6,767 |
-| A Patton Emerges | 1.00% | ~6,767 |
-| Stacking the Deck | 1.00% | ~6,767 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,767 |
-| This is My Weapon | 1.00% | ~6,767 |
+| Dr. Reed, I Presume? | 1.00% | ~6,768 |
+| Git Gutte! | 1.00% | ~6,768 |
+| Bookworm | 1.00% | ~6,768 |
+| Break A Leg | 1.00% | ~6,768 |
+| But Doctor, I am Butcho | 1.00% | ~6,768 |
+| Can't Handle the Truth | 1.00% | ~6,768 |
+| Coup de Grâce | 1.00% | ~6,768 |
+| Like Riding a Bike | 1.00% | ~6,768 |
+| Hazardous Materials | 1.00% | ~6,768 |
+| Friends Like These | 1.00% | ~6,768 |
+| Hotel California | 1.00% | ~6,768 |
+| Apex Predator | 1.00% | ~6,768 |
+| Zombologist | 1.00% | ~6,768 |
+| A Patton Emerges | 1.00% | ~6,768 |
+| Stacking the Deck | 1.00% | ~6,768 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,768 |
+| This is My Weapon | 1.00% | ~6,768 |
 | Slayer Squad | 0.90% | ~6,091 |
+| Our True Nature | 0.90% | ~6,091 |
 | Anger Management | 0.80% | ~5,414 |
 | Perks of the Job | 0.80% | ~5,414 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,414 |
 | Ooh, Shiny! | 0.80% | ~5,414 |
 | I Am the Resurrection | 0.80% | ~5,414 |
-| Our True Nature | 0.80% | ~5,414 |
 | Humanity Distilled | 0.70% | ~4,737 |
-| Making Your Mark | 0.60% | ~4,060 |
-| Down with the Sickness | 0.60% | ~4,060 |
-| Max Headroom | 0.60% | ~4,060 |
+| Making Your Mark | 0.60% | ~4,061 |
+| Down with the Sickness | 0.60% | ~4,061 |
+| Max Headroom | 0.60% | ~4,061 |
 | Smorgasbord | 0.40% | ~2,707 |
 | Jumbo Keyring | 0.40% | ~2,707 |
 | Go, Bobcats! | 0.40% | ~2,707 |
@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 505)
 | Not Even My Final Form | 0.30% | ~2,030 |
 | Internet Famous | 0.30% | ~2,030 |
 | Variety is the Spice of Death | 0.30% | ~2,030 |
-| LA Influential | 0.20% | ~1,353 |
-| Sole Survivor | 0.20% | ~1,353 |
-| Gore Horse | 0.20% | ~1,353 |
-| Sharpest Tool in the Box | 0.20% | ~1,353 |
+| LA Influential | 0.20% | ~1,354 |
+| Sole Survivor | 0.20% | ~1,354 |
+| Gore Horse | 0.20% | ~1,354 |
+| Sharpest Tool in the Box | 0.20% | ~1,354 |
 | Donk! | 0.10% | ~677 |
 | Survival Skills | 0.10% | ~677 |
 | Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,728 (Ranked 22)  
+Progressed: 676,751 (Ranked 22)  
 Completed: 2,129 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,17 +193,17 @@ Completed: 2,129 (0.31%) (Ranked 177)
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
-| 2023-09-09 | 676,728 | 2,129 |
+| 2023-09-09 | 676,751 | 2,129 |
 ## Awards
-Max (Great Boss Battles): 5,969  (Ranked 58)  
-Sum: 8,823 (Ranked 94)  
+Max (Great Boss Battles): 5,990  (Ranked 58)  
+Sum: 8,845 (Ranked 94)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,969 |
+| This game has Great Boss Battles | 5,990 |
 | This game is Great for Beginners | 403 |
 | This game has Diverse Characters | 397 |
-| This game has Quickly Understood Controls | 385 |
+| This game has Quickly Understood Controls | 386 |
 | This game is Relaxing | 371 |
 | This game has Amazing Storytelling | 344 |
 | This game is Extremely Fun | 324 |
@@ -353,4 +353,4 @@ Diff (max vs sum): -36
 | 2023-09-06 | 4.54 | 5,928 | 8,751 |
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
 | 2023-09-08 | 4.54 | 5,969 | 8,812 |
-| 2023-09-09 | 4.54 | 5,969 | 8,823 |
+| 2023-09-09 | 4.54 | 5,990 | 8,845 |
