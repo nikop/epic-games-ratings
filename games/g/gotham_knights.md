@@ -8,8 +8,8 @@ Rating: 4.18 (Ranked 884)
 | First Step Into the Knight | 52.00% | ~37,593 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,303 |
 | Loose Ends | 34.00% | ~24,580 |
-| To the Victor Go the Spoils | 28.00% | ~20,242 |
-| Knighthood | 27.00% | ~19,519 |
+| To the Victor Go the Spoils | 28.00% | ~20,243 |
+| Knighthood | 27.00% | ~19,520 |
 | Get ReQ'd | 25.00% | ~18,074 |
 | Whispered Words | 24.00% | ~17,351 |
 | The Batman Family | 23.00% | ~16,628 |
@@ -35,7 +35,7 @@ Rating: 4.18 (Ranked 884)
 | Gotham Knight | 12.00% | ~8,675 |
 | Bulldozed | 11.00% | ~7,952 |
 | Gotham City Confidential | 11.00% | ~7,952 |
-| Drone You Out | 9.00% | ~6,506 |
+| Drone You Out | 9.00% | ~6,507 |
 | Out of Their League | 8.00% | ~5,784 |
 | Solid Alibi | 8.00% | ~5,784 |
 | Fusion Expert | 7.00% | ~5,061 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 884)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,294 (Ranked 82)  
+Progressed: 72,295 (Ranked 82)  
 Completed: 112 (0.15%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,16 +209,16 @@ Completed: 112 (0.15%) (Ranked 203)
 | 2023-09-06 | 71,678 | 111 |
 | 2023-09-07 | 72,029 | 111 |
 | 2023-09-08 | 72,185 | 112 |
-| 2023-09-09 | 72,294 | 112 |
+| 2023-09-09 | 72,295 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,614  (Ranked 97)  
-Sum: 4,338 (Ranked 139)  
+Sum: 4,341 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,614 |
+| This game has Quickly Understood Controls | 223 |
 | This game is Extremely Fun | 223 |
-| This game has Quickly Understood Controls | 220 |
 | This game is Relaxing | 217 |
 | This game has Diverse Characters | 217 |
 | This game is Great for Beginners | 215 |
@@ -425,4 +425,4 @@ Diff (max vs sum): -42
 | 2023-09-06 | 4.18 | 2,569 | 4,268 |
 | 2023-09-07 | 4.18 | 2,588 | 4,292 |
 | 2023-09-08 | 4.18 | 2,602 | 4,312 |
-| 2023-09-09 | 4.18 | 2,614 | 4,338 |
+| 2023-09-09 | 4.18 | 2,614 | 4,341 |

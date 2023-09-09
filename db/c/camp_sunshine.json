@@ -2,7 +2,7 @@
   "ID": "e29b385c72634f359aa900b174011e1a",
   "Name": "Camp Sunshine",
   "ProductSlug": "camp-sunshine-fee104",
-  "Ranking_EOS_Progress": 584,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 92,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:56:58.9795393+00:00",
   "LastChanged": "2023-03-31T05:56:58.9795394+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:56.6441266+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:54.4581029+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:03:47.1676367+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:01:18.1833638+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:03:48.3702102+00:00"
 }

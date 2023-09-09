@@ -8,16 +8,16 @@
 | You're the Expert! | 32.00% | ~185 |
 | Home Cook | 30.00% | ~173 |
 | So Clean You Can Eat Off the Floor | 19.00% | ~110 |
-| French Flair | 18.00% | ~104 |
+| French Flair | 17.00% | ~98 |
 | S is for Scrumptious | 17.00% | ~98 |
-| Next Level Cuisine | 11.00% | ~63 |
+| Next Level Cuisine | 11.00% | ~64 |
 | Haute Cuisine | 8.00% | ~46 |
 | Italian Style | 8.00% | ~46 |
 | Sous-Chef | 6.00% | ~35 |
-| Rolling in Dough | 5.00% | ~29 |
 | Well-Stocked Kitchen | 5.00% | ~29 |
 | Culinary Arts | 4.00% | ~23 |
 | Perfectionist | 4.00% | ~23 |
+| Rolling in Dough | 4.00% | ~23 |
 | Leaning Tower of Pizza | 3.00% | ~17 |
 | Chef, Yes Chef! | 0.50% | ~3 |
 | The Bigger the Better | 0.50% | ~3 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 577 (Ranked 234)  
+Progressed: 578 (Ranked 234)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-04 | 574 | 0 |
 | 2023-09-05 | 575 | 0 |
 | 2023-09-07 | 576 | 0 |
-| 2023-09-09 | 577 | 0 |
+| 2023-09-09 | 578 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

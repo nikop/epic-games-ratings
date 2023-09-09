@@ -25,10 +25,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bounty Hunters | 0.80% | ~1,087 |
 | Flooding the Market | 0.80% | ~1,087 |
 | Dungeon Imports | 0.80% | ~1,087 |
-| Demand for Supplies | 0.70% | ~951 |
-| Where it Hurts | 0.70% | ~951 |
-| Gild-Gotten Goods | 0.70% | ~951 |
-| Did we pack lunch? | 0.70% | ~951 |
+| Demand for Supplies | 0.70% | ~952 |
+| Where it Hurts | 0.70% | ~952 |
+| Gild-Gotten Goods | 0.70% | ~952 |
+| Did we pack lunch? | 0.70% | ~952 |
 | On the Path to Greatness | 0.60% | ~816 |
 | Ascended | 0.60% | ~816 |
 | Vanity, Verily | 0.60% | ~816 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,928 (Ranked 68)  
+Progressed: 135,929 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-06 | 135,760 | 145 |
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
-| 2023-09-09 | 135,928 | 147 |
+| 2023-09-09 | 135,929 | 147 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 70)  
 Sum: 27,199 (Ranked 48)  

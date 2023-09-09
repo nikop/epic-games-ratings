@@ -2,7 +2,7 @@
   "ID": "43cff3223381422ca04404a811784296",
   "Name": "Pumpkin Jack",
   "ProductSlug": "pumpkin-jack",
-  "Ranking_EOS_Progress": 584,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 92,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:13.9710962+00:00",
   "LastChanged": "2023-03-31T05:57:13.9710963+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:53.1201473+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:58:10.2376715+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:03:06.3821601+00:00"
+  "LastUpdate_Ratings": "2023-09-09T21:58:46.2906102+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:02:34.458658+00:00"
 }

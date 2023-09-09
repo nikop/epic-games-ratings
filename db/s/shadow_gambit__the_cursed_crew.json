@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 620,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
@@ -1588,6 +1588,11 @@
       "Time": "2023-09-09T15:02:07.5141411+00:00",
       "NumProgressed": 619,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-09T22:02:34.1922463+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1600,7 +1605,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1608,15 +1613,15 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 341
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1632,7 +1637,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1656,7 +1661,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "_09_Completion_20",
@@ -1790,9 +1795,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 62
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1807,7 +1812,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 620,
       "Completed": 14
     }
   ],
@@ -1815,8 +1820,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:03:06.2420124+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:02:34.1922456+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:30.8361094+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:03:06.2439147+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:00:44.4848144+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:02:34.1923021+00:00"
 }

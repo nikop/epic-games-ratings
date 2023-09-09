@@ -5,7 +5,7 @@
   "Ranking_Rating": 241,
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 231,
-  "Ranking_EOS_Progress": 584,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 92,
@@ -931,10 +931,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1229,
       "NumberOfAwardsMax": 564
+    },
+    {
+      "Time": "2023-09-09T22:00:56.7819484+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1187,
+      "NumberOfAwardsMax": 564
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1229,
+  "NumberOfAwards": 1187,
   "NumberOfAwardsMax": 564,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1030,9 +1036,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2023-09-09T20:00:23.2335+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:06:04.926264+00:00",
+  "LastChanged": "2023-09-09T22:00:56.7819482+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:07:05.4739658+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:37.1307618+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:39.0808919+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:06:04.9262668+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:00:56.7819489+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:07:05.4739709+00:00"
 }

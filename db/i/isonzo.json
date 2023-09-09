@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6760,
+  "EOS_Progressed": 6761,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5008,6 +5008,11 @@
       "Time": "2023-09-09T20:07:30.7889607+00:00",
       "NumProgressed": 6760,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-09T22:07:55.5084286+00:00",
+      "NumProgressed": 6761,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5027,7 +5032,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -5099,7 +5104,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -5211,7 +5216,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -5259,7 +5264,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -5347,7 +5352,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -5355,7 +5360,7 @@
       "Name": "Uomo Universale",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -5378,7 +5383,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6760,
+      "Progressed": 6761,
       "Completed": 8
     }
   ],
@@ -5386,8 +5391,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-02T12:59:05.1112111+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:06:41.9987008+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:07:55.5084278+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:39.7993209+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:02.6341102+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:06:41.9987509+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:00:02.4804782+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:07:55.50854+00:00"
 }

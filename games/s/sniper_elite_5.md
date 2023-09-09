@@ -5,15 +5,15 @@ Rating: 4.47 (Ranked 613)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,655 |
-| Confirming Suspicions | 40.00% | ~1,439 |
-| The Kraken Wakes | 36.00% | ~1,295 |
-| It's Starting to Crack | 33.00% | ~1,187 |
-| Change the Channel | 30.00% | ~1,079 |
-| Lord of War | 29.00% | ~1,043 |
-| Taking it back | 28.00% | ~1,007 |
-| Resourceful | 26.00% | ~935 |
-| Target America | 26.00% | ~935 |
+| Meeting Resistance | 46.00% | ~1,656 |
+| Confirming Suspicions | 40.00% | ~1,440 |
+| The Kraken Wakes | 36.00% | ~1,296 |
+| It's Starting to Crack | 33.00% | ~1,188 |
+| Change the Channel | 30.00% | ~1,080 |
+| Lord of War | 29.00% | ~1,044 |
+| Taking it back | 28.00% | ~1,008 |
+| Resourceful | 26.00% | ~936 |
+| Target America | 26.00% | ~936 |
 | The Kraken Sleeps | 23.00% | ~828 |
 | Liberté | 22.00% | ~792 |
 | Organ Grinder | 22.00% | ~792 |
@@ -41,7 +41,7 @@ Rating: 4.47 (Ranked 613)
 | The Long Game | 5.00% | ~180 |
 | It'll Buff Right Out | 5.00% | ~180 |
 | Don't hold your breath | 5.00% | ~180 |
-| Operation Foxley | 5.00% | ~177 |
+| Operation Foxley | 5.00% | ~178 |
 | Strategist | 4.00% | ~144 |
 | Tinkerer | 4.00% | ~144 |
 | Locomotion Commotion | 4.00% | ~144 |
@@ -66,9 +66,9 @@ Rating: 4.47 (Ranked 613)
 | Sink or Swim | 2.00% | ~71 |
 | Best of the Best | 1.00% | ~36 |
 | Sight Beyond Sights | 1.00% | ~36 |
-| From Führer Away | 1.00% | ~35 |
-| Alpha | 1.00% | ~35 |
-| Das Familienjuwel | 1.00% | ~35 |
+| From Führer Away | 1.00% | ~36 |
+| Alpha | 1.00% | ~36 |
+| Das Familienjuwel | 1.00% | ~36 |
 | Master of Secondaries | 0.90% | ~32 |
 | Master of Rifles | 0.80% | ~29 |
 | Operation Overlord | 0.80% | ~28 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 613)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,598 (Ranked 156)  
+Progressed: 3,599 (Ranked 156)  
 Completed: 10 (0.28%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 10 (0.28%) (Ranked 182)
 | 2023-09-05 | 3,589 | 10 |
 | 2023-09-07 | 3,592 | 10 |
 | 2023-09-08 | 3,594 | 10 |
-| 2023-09-09 | 3,598 | 10 |
+| 2023-09-09 | 3,599 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

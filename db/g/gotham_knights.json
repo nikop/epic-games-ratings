@@ -2712,10 +2712,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4338,
       "NumberOfAwardsMax": 2614
+    },
+    {
+      "Time": "2023-09-09T21:57:09.2185715+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4341,
+      "NumberOfAwardsMax": 2614
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4338,
+  "NumberOfAwards": 4341,
   "NumberOfAwardsMax": 2614,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2729,7 +2735,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 220
+      "Count": 223
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2780,9 +2786,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72294,
+  "EOS_Progressed": 72295,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 3009,
+  "EOS_NewPlayers": 2976,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14855,6 +14861,11 @@
       "Time": "2023-09-09T21:05:52.0839723+00:00",
       "NumProgressed": 72294,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-09T22:06:47.7964407+00:00",
+      "NumProgressed": 72295,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15082,7 +15093,7 @@
       "Name": "Drone You Out",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6506
+      "UsersEstimate": 6507
     },
     {
       "ID": "FREEZE_1",
@@ -15090,7 +15101,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20242
+      "UsersEstimate": 20243
     },
     {
       "ID": "FREEZE_1_5",
@@ -15242,7 +15253,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 19519
+      "UsersEstimate": 19520
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -15353,22 +15364,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72294,
+      "Progressed": 72295,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42574,
+      "Progressed": 42575,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-09T18:02:35.5837413+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:05:52.0839718+00:00",
+  "LastChanged": "2023-09-09T21:57:09.2185712+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:06:47.7964398+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:02:22.8182757+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:05:52.0840776+00:00"
+  "LastUpdate_Ratings": "2023-09-09T21:57:09.2185719+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:06:47.7966836+00:00"
 }

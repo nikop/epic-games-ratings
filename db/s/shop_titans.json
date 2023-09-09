@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5938,7 +5938,7 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135928,
+  "EOS_Progressed": 135929,
   "EOS_Completed": 147,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 7,
@@ -20563,6 +20563,11 @@
       "Time": "2023-09-09T21:05:59.7164984+00:00",
       "NumProgressed": 135928,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-09-09T22:06:58.1169672+00:00",
+      "NumProgressed": 135929,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 112,
@@ -20814,7 +20819,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "commonres03",
@@ -20878,7 +20883,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "damage02",
@@ -21062,7 +21067,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "gold04",
@@ -21286,7 +21291,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "quest02",
@@ -21469,15 +21474,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135928,
+      "Progressed": 135929,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-09T16:59:54.812119+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:05:59.716498+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:06:58.1169663+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:48.7531662+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:05:59.7166933+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:01:09.5579505+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:06:58.1174097+00:00"
 }

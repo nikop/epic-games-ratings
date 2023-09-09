@@ -16,10 +16,10 @@ Rating: 4.60 (Ranked 392)
 | The Harder They Fall | 19.00% | ~163 |
 | No, Thanks! | 19.00% | ~163 |
 | Breaking Down Barriers | 19.00% | ~163 |
+| Honest Mistake | 19.00% | ~163 |
 | Immaculate Aim | 19.00% | ~163 |
 | The Brass Boss | 19.00% | ~163 |
 | The Wicked Twins | 18.00% | ~154 |
-| Honest Mistake | 18.00% | ~154 |
 | Fast Learner | 18.00% | ~154 |
 | Like Clockwork | 17.00% | ~146 |
 | The Betrayer | 17.00% | ~146 |

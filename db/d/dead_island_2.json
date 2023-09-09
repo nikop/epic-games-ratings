@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4362,10 +4362,10 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 676681,
-  "EOS_Completed": 2127,
-  "EOS_NewPlayers": 4740,
-  "EOS_NewCompleters": 25,
+  "EOS_Progressed": 676728,
+  "EOS_Completed": 2129,
+  "EOS_NewPlayers": 4738,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -20287,6 +20287,11 @@
       "Time": "2023-09-09T21:06:52.4602228+00:00",
       "NumProgressed": 676681,
       "NumCompleted": 2127
+    },
+    {
+      "Time": "2023-09-09T22:08:10.3156318+00:00",
+      "NumProgressed": 676728,
+      "NumCompleted": 2129
     }
   ],
   "TotalAchievements": 45,
@@ -20322,7 +20327,7 @@
       "Name": "Anger Management",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20346,7 +20351,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ach_bookworm",
@@ -20378,7 +20383,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -20394,7 +20399,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6090
+      "UsersEstimate": 6091
     },
     {
       "ID": "ach_explorer",
@@ -20514,7 +20519,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ach_magnum_opus",
@@ -20546,7 +20551,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ach_salvation",
@@ -20610,7 +20615,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 5413
+      "UsersEstimate": 5414
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -20634,7 +20639,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13534
+      "UsersEstimate": 13535
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20657,22 +20662,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676681,
-      "Completed": 2127
+      "Progressed": 676728,
+      "Completed": 2129
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 2221,
-      "Completed": 2221
+      "Progressed": 2268,
+      "Completed": 2268
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-09T20:00:29.8342478+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:06:52.4602223+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:08:10.3156308+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:43.7356638+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:06:52.4603285+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:01:03.1940225+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:08:10.315828+00:00"
 }

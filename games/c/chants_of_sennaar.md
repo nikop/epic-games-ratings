@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 37.00% | ~41 |
-| Welcome to the Tower | 35.00% | ~39 |
+| That's the spirit | 38.00% | ~43 |
+| Welcome to the Tower | 36.00% | ~40 |
 | The great escape | 31.00% | ~35 |
 | The Preacher's fate | 30.00% | ~34 |
-| A new dawn | 25.00% | ~28 |
+| A new dawn | 26.00% | ~29 |
 | A good beginning | 21.00% | ~24 |
+| True G4M3R | 21.00% | ~24 |
 | Scholar | 21.00% | ~24 |
 | The darkness | 21.00% | ~24 |
-| True G4M3R | 19.00% | ~21 |
-| One last step | 19.00% | ~21 |
-| Cable guy | 18.00% | ~20 |
+| One last step | 20.00% | ~22 |
+| Cable guy | 19.00% | ~21 |
 | Champollion | 18.00% | ~20 |
 | Open door | 16.00% | ~18 |
 | Rascal | 15.00% | ~17 |
@@ -22,10 +22,10 @@
 | Half the way | 14.00% | ~16 |
 | Feels like springtime | 14.00% | ~16 |
 | Peace walker | 13.00% | ~15 |
-| Free at last | 12.00% | ~13 |
+| Free at last | 13.00% | ~15 |
+| A Link to the Past | 12.00% | ~13 |
 | Alchemists Express | 12.00% | ~13 |
 | Fashion victim | 12.00% | ~13 |
-| A Link to the Past | 11.00% | ~12 |
 | I did it | 9.00% | ~10 |
 | A great audience | 9.00% | ~10 |
 | For its own good | 7.00% | ~8 |

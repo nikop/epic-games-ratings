@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2415,9 +2415,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 163
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2552,8 +2552,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:05:33.2882658+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:06:21.4924666+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:57:09.8257166+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:05:33.2883144+00:00"
+  "LastUpdate_Ratings": "2023-09-09T21:57:18.7646604+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:06:21.4925705+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 505)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 2.00% | ~13,534 |
+| Welcome To Hell-A | 2.00% | ~13,535 |
 | Dr. Reed, I Presume? | 1.00% | ~6,767 |
 | Git Gutte! | 1.00% | ~6,767 |
 | Bookworm | 1.00% | ~6,767 |
@@ -23,13 +23,13 @@ Rating: 4.54 (Ranked 505)
 | Stacking the Deck | 1.00% | ~6,767 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,767 |
 | This is My Weapon | 1.00% | ~6,767 |
-| Slayer Squad | 0.90% | ~6,090 |
-| Anger Management | 0.80% | ~5,413 |
-| Perks of the Job | 0.80% | ~5,413 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,413 |
-| Ooh, Shiny! | 0.80% | ~5,413 |
-| I Am the Resurrection | 0.80% | ~5,413 |
-| Our True Nature | 0.80% | ~5,413 |
+| Slayer Squad | 0.90% | ~6,091 |
+| Anger Management | 0.80% | ~5,414 |
+| Perks of the Job | 0.80% | ~5,414 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,414 |
+| Ooh, Shiny! | 0.80% | ~5,414 |
+| I Am the Resurrection | 0.80% | ~5,414 |
+| Our True Nature | 0.80% | ~5,414 |
 | Humanity Distilled | 0.70% | ~4,737 |
 | Making Your Mark | 0.60% | ~4,060 |
 | Down with the Sickness | 0.60% | ~4,060 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~677 |
 | Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,681 (Ranked 22)  
-Completed: 2,127 (0.31%) (Ranked 177)  
+Progressed: 676,728 (Ranked 22)  
+Completed: 2,129 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,7 +193,7 @@ Completed: 2,127 (0.31%) (Ranked 177)
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
-| 2023-09-09 | 676,681 | 2,127 |
+| 2023-09-09 | 676,728 | 2,129 |
 ## Awards
 Max (Great Boss Battles): 5,969  (Ranked 58)  
 Sum: 8,823 (Ranked 94)  

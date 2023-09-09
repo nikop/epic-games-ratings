@@ -2,7 +2,7 @@
   "ID": "b57455ede0604d83892c3412ec3d610e",
   "Name": "MOD_LIVE_SANDBOX",
   "ProductSlug": "96b9f5cdbb5c481f972175aadd5fddee",
-  "Ranking_EOS_Progress": 584,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 92,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.0789776+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:14.6520498+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:07:21.8442048+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:00:20.6355318+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:08:51.3065951+00:00"
 }

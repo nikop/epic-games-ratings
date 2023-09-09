@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -550,17 +550,17 @@
       "ID": "ACH_HYDE_LEIBOVITZ",
       "SetID": "8h8m55b",
       "Name": "Hyde Leibovitz",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_JUST_MARRIED",
       "SetID": "8h8m55b",
       "Name": "Just Married",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_LISTEN_ALL_SONG",
@@ -781,8 +781,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:06:32.5486715+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:07:41.5693199+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.102078+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:58:19.5629098+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:06:32.5487124+00:00"
+  "LastUpdate_Ratings": "2023-09-09T21:58:59.2452289+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:07:41.5693728+00:00"
 }

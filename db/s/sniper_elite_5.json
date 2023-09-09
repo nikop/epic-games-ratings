@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -512,7 +512,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3598,
+  "EOS_Progressed": 3599,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -6572,6 +6572,11 @@
       "Time": "2023-09-09T17:03:12.7911569+00:00",
       "NumProgressed": 3598,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-09T22:03:19.1492753+00:00",
+      "NumProgressed": 3599,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6663,7 +6668,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6751,7 +6756,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6791,7 +6796,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6807,7 +6812,7 @@
       "Name": "Resourceful",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -6831,7 +6836,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -6895,7 +6900,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1188
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6919,7 +6924,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -6951,7 +6956,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -6975,7 +6980,7 @@
       "Name": "Target America",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -7023,7 +7028,7 @@
       "Name": "From F\u00FChrer Away",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
@@ -7039,7 +7044,7 @@
       "Name": "Alpha",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_DLC01_06_HERR_TODAY",
@@ -7055,7 +7060,7 @@
       "Name": "Operation Foxley",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -7063,7 +7068,7 @@
       "Name": "Das Familienjuwel",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_DLC01_09_LAST_RESORT",
@@ -7150,13 +7155,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3549,
+      "Progressed": 3550,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3598,
+      "Progressed": 3599,
       "Completed": 10
     }
   ],
@@ -7164,8 +7169,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-08T20:58:35.5897596+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:03:24.5488989+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:03:19.1492746+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:58:16.2491197+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:03:24.5489874+00:00"
+  "LastUpdate_Ratings": "2023-09-09T21:58:54.3858189+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:03:19.1493937+00:00"
 }

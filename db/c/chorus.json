@@ -2027,9 +2027,9 @@
       "ID": "MissionAncientRitual",
       "SetID": "a6c395p",
       "Name": "Power Chord",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 234
+      "UsersEstimate": 246
     },
     {
       "ID": "MissionBuriedInATomb",
@@ -2171,9 +2171,9 @@
       "ID": "MissionTheArmadaStrikes",
       "SetID": "a6c395p",
       "Name": "Ascension",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 223
+      "UsersEstimate": 234
     },
     {
       "ID": "MissionTheiaStep1",
@@ -2203,9 +2203,9 @@
       "ID": "RiteOfControl",
       "SetID": "a6c395p",
       "Name": "Crash Test",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 246
     },
     {
       "ID": "RiteOfTheHunt",
@@ -2267,8 +2267,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:05:56.3945308+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:06:53.6249273+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:02.2329169+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:57:21.6705559+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:05:56.3945657+00:00"
+  "LastUpdate_Ratings": "2023-09-09T21:57:36.2267058+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:06:53.6249734+00:00"
 }

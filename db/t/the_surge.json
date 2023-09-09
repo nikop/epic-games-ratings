@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -361,9 +361,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4625,
+  "EOS_Progressed": 4626,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2286,6 +2286,11 @@
       "Time": "2023-09-09T13:06:43.3840863+00:00",
       "NumProgressed": 4625,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-09T22:06:01.8880458+00:00",
+      "NumProgressed": 4626,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2345,7 +2350,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 3931
+      "UsersEstimate": 3932
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -2361,7 +2366,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3561
+      "UsersEstimate": 3562
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -2369,7 +2374,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -2465,7 +2470,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -2497,7 +2502,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_27",
@@ -2513,7 +2518,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3561
+      "UsersEstimate": 3562
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -2561,7 +2566,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -2577,7 +2582,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -2585,7 +2590,7 @@
       "Name": "I Choose You",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -2593,7 +2598,7 @@
       "Name": "Homo Machinalis",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_40",
@@ -2601,7 +2606,7 @@
       "Name": "Was That Yours?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_41",
@@ -2609,7 +2614,7 @@
       "Name": "Guard Dog",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_42",
@@ -2617,7 +2622,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -2665,7 +2670,7 @@
       "Name": "The Surge",
       "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ID_ACHIEV_49",
@@ -2689,7 +2694,7 @@
       "Name": "Carbon Cat vs Iron Maus",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_52",
@@ -2697,7 +2702,7 @@
       "Name": "Dress Up",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_53",
@@ -2705,7 +2710,7 @@
       "Name": "New Gear",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_54",
@@ -2721,7 +2726,7 @@
       "Name": "Good Listener",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_56",
@@ -2753,7 +2758,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_60",
@@ -2769,7 +2774,7 @@
       "Name": "Episodic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_62",
@@ -2801,7 +2806,7 @@
       "Name": "End of Transmission",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_66",
@@ -2809,7 +2814,7 @@
       "Name": "Gramophone Enthusiast",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ID_ACHIEV_67",
@@ -2832,15 +2837,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4625,
+      "Progressed": 4626,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:05:18.8254313+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:06:01.8880447+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.8903011+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:22.1523685+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:05:18.8254971+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:00:31.3576602+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:06:01.8882022+00:00"
 }

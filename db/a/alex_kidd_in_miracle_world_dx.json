@@ -2,9 +2,9 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
@@ -346,6 +346,11 @@
       "Time": "2023-09-09T17:06:39.1051799+00:00",
       "NumProgressed": 289,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-09T22:08:03.2665546+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -395,9 +400,9 @@
       "ID": "EGLE_FREED",
       "SetID": "7im05fi",
       "Name": "Prisoner",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -461,7 +466,7 @@
       "Name": "Third Commander",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "PET_DOG",
@@ -484,7 +489,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 4
     }
   ],
@@ -492,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:06:47.5049818+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:08:03.2665536+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:10.9300024+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:19.654121+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:06:47.5049929+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:00:27.796559+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:08:03.2665778+00:00"
 }

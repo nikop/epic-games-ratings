@@ -2,7 +2,7 @@
   "ID": "0f3f352865294c3ea5e10454f24fde85",
   "Name": "Garden Story",
   "ProductSlug": "garden-story",
-  "Ranking_EOS_Progress": 584,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 92,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:09.1022655+00:00",
   "LastChanged": "2023-03-31T05:58:09.1022656+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.5183416+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:57:08.9125629+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:09:10.2115092+00:00"
+  "LastUpdate_Ratings": "2023-09-09T21:57:17.3551127+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:09:01.3266973+00:00"
 }

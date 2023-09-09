@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661962,
+  "EOS_Progressed": 661963,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14390,6 +14390,11 @@
       "Time": "2023-09-09T21:05:10.1130913+00:00",
       "NumProgressed": 661962,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-09T22:05:50.510223+00:00",
+      "NumProgressed": 661963,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14409,7 +14414,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383938
+      "UsersEstimate": 383939
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14641,7 +14646,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79435
+      "UsersEstimate": 79436
     },
     {
       "ID": "Achievement_32_Karma",
@@ -14665,7 +14670,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165490
+      "UsersEstimate": 165491
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -14784,15 +14789,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661962,
+      "Progressed": 661963,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-09T21:05:10.1130902+00:00",
+  "LastChanged_Achievements": "2023-09-09T22:05:50.5102223+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.7852859+00:00",
-  "LastUpdate_Ratings": "2023-09-09T20:59:05.6032877+00:00",
-  "LastUpdate_Achievements": "2023-09-09T21:05:10.113191+00:00"
+  "LastUpdate_Ratings": "2023-09-09T22:00:07.24892+00:00",
+  "LastUpdate_Achievements": "2023-09-09T22:05:50.5103568+00:00"
 }
