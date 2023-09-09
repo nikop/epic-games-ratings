@@ -45,8 +45,8 @@ Rating: 4.60 (Ranked 392)
 | One for All, All for One | 2.00% | ~103 |
 | Duality | 2.00% | ~103 |
 | I've Got Everything I Need Right Here | 1.00% | ~52 |
+| Manufactured War | 1.00% | ~52 |
 | Pruning for Progress | 1.00% | ~52 |
-| Manufactured War | 0.90% | ~46 |
 | Snap Out of It! | 0.80% | ~41 |
 | Betrayal Most Foul | 0.50% | ~26 |
 | I Want to Break Free | 0.30% | ~15 |

@@ -72,7 +72,7 @@
   "Tags": [],
   "EOS_Progressed": 735,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1502,9 +1502,9 @@
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 206
     },
     {
       "ID": "AC30",
@@ -1614,9 +1614,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 331
     },
     {
       "ID": "AC44",
@@ -1647,8 +1647,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-08T02:59:41.4444116+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:04:14.1425527+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:04:32.3436944+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:57:52.5338919+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:04:14.1425921+00:00"
+  "LastUpdate_Ratings": "2023-09-09T08:58:39.8295807+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:04:32.3437388+00:00"
 }

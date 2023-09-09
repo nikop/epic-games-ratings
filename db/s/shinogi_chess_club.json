@@ -4,7 +4,7 @@
   "ProductSlug": "shinogi-chess-club-995dd7",
   "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-04-11T16:30:00+00:00",
@@ -157,8 +157,8 @@
   "FirstSeenRating": "2023-04-18T22:59:17.8138997+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:21.7881428+00:00",
   "LastChanged": "2023-04-18T22:59:17.8138997+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:05:57.6257291+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:06:16.6146009+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:05.6805369+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:59:22.5534182+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:05:57.6257408+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:00:09.4977117+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:06:16.6146101+00:00"
 }

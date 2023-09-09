@@ -504,9 +504,9 @@
       "ID": "EAT_AN_ENERGY_BAR",
       "SetID": "aniflfk",
       "Name": "Energy Boost",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -528,9 +528,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LUNCH_LEECH",
@@ -552,9 +552,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -568,9 +568,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -600,9 +600,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -623,8 +623,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:04:27.314166+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:04:45.0291196+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:58:09.5068401+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:04:27.3141804+00:00"
+  "LastUpdate_Ratings": "2023-09-09T08:58:57.2673852+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:04:45.0291356+00:00"
 }

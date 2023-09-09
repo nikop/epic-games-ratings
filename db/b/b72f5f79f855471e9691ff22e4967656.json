@@ -823,9 +823,9 @@
       "ID": "questDefeatMainEnemy",
       "SetID": "ci65fo0",
       "Name": "The most important achievement",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "questDefender",
@@ -887,9 +887,9 @@
       "ID": "questNorthGraveyard",
       "SetID": "ci65fo0",
       "Name": "In charge of the cemetery",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "questPumpkinKing",
@@ -919,9 +919,9 @@
       "ID": "questReturnSun",
       "SetID": "ci65fo0",
       "Name": "Let there be light!",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "questRobHut",
@@ -967,9 +967,9 @@
       "ID": "questSavePrincessFinal",
       "SetID": "ci65fo0",
       "Name": "Great rescuer",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "questSaveRoyalSmith",
@@ -1020,8 +1020,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:07:04.8160313+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:07:26.1296477+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:57:47.9846797+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:07:04.8161135+00:00"
+  "LastUpdate_Ratings": "2023-09-09T08:58:35.1106492+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:07:26.1297378+00:00"
 }

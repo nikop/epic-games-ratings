@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 36.00% | ~161 |
+| First Love | 37.00% | ~165 |
 | Hear That Roar! | 34.00% | ~152 |
 | Clean Race | 33.00% | ~147 |
 | Rivals to the End | 27.00% | ~120 |
@@ -14,13 +14,13 @@
 | I Want One Too! | 14.00% | ~62 |
 | Bitter Rivalry | 14.00% | ~62 |
 | Restored and Ready | 12.00% | ~54 |
+| Legendary!!! | 11.00% | ~49 |
 | Quick Pit Stop | 11.00% | ~49 |
 | Champagne Spray | 11.00% | ~49 |
 | Go-Faster Stripes | 10.00% | ~45 |
-| Legendary!!! | 10.00% | ~45 |
+| Is It the Right Size? | 5.00% | ~22 |
 | Evangelist | 5.00% | ~22 |
 | Stamina Star | 4.00% | ~18 |
-| Is It the Right Size? | 4.00% | ~18 |
 | We've Just Begun | 4.00% | ~18 |
 | Make It Your Own! | 3.00% | ~13 |
 | Still Here | 3.00% | ~13 |

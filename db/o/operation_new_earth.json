@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1271,
+  "EOS_Progressed": 1272,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -4526,6 +4526,11 @@
       "Time": "2023-09-09T06:06:54.5789216+00:00",
       "NumProgressed": 1271,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-09T09:07:29.1831238+00:00",
+      "NumProgressed": 1272,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4793,7 +4798,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4840,14 +4845,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1271,
+      "Progressed": 1272,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:07:07.6140025+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:07:29.1831232+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:58:09.0134138+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:57:45.9394608+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:07:07.6140586+00:00"
+  "LastUpdate_Ratings": "2023-09-09T08:58:33.223078+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:07:29.1831789+00:00"
 }

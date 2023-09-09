@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -361,9 +361,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4623,
+  "EOS_Progressed": 4624,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2276,6 +2276,11 @@
       "Time": "2023-09-09T05:05:04.15566+00:00",
       "NumProgressed": 4623,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-09T09:05:25.4438087+00:00",
+      "NumProgressed": 4624,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 67,
@@ -2343,7 +2348,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4346
+      "UsersEstimate": 4347
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -2375,7 +2380,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -2559,7 +2564,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -2631,7 +2636,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -2822,15 +2827,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4623,
+      "Progressed": 4624,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-08-16T19:59:29.2344729+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:05:07.3057517+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:05:25.4438079+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:32.9545459+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:59:00.0780695+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:05:07.305837+00:00"
+  "LastUpdate_Ratings": "2023-09-09T08:59:47.259084+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:05:25.4438973+00:00"
 }

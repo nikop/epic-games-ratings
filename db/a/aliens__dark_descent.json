@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3231,
+  "EOS_Progressed": 3232,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4131,6 +4131,11 @@
       "Time": "2023-09-09T07:05:28.9359276+00:00",
       "NumProgressed": 3231,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-09T09:05:05.2280188+00:00",
+      "NumProgressed": 3232,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4174,7 +4179,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -4238,7 +4243,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4294,7 +4299,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -4334,7 +4339,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4342,7 +4347,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ACH_MISSION_03",
@@ -4350,7 +4355,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACH_MISSION_04",
@@ -4366,7 +4371,7 @@
       "Name": "Where It All Begun",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4374,7 +4379,7 @@
       "Name": "Living Nightmare",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "ACH_MISSION_07",
@@ -4382,7 +4387,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "ACH_MISSION_08",
@@ -4438,7 +4443,7 @@
       "Name": "Snatched Out",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4446,7 +4451,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4501,7 +4506,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3231,
+      "Progressed": 3232,
       "Completed": 3
     }
   ],
@@ -4509,8 +4514,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-05T17:00:35.1616306+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:04:47.3886313+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:05:05.2280183+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:22.9091444+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:57:04.3089206+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:04:47.38869+00:00"
+  "LastUpdate_Ratings": "2023-09-09T08:57:52.3602991+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:05:05.2280785+00:00"
 }

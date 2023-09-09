@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2031,9 +2031,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43391,
+  "EOS_Progressed": 43392,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6561,6 +6561,11 @@
       "Time": "2023-09-09T02:19:02.5504981+00:00",
       "NumProgressed": 43391,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-09T09:06:27.8093812+00:00",
+      "NumProgressed": 43392,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -6612,7 +6617,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7376
+      "UsersEstimate": 7377
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -6628,7 +6633,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12149
+      "UsersEstimate": 12150
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -6644,7 +6649,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17790
+      "UsersEstimate": 17791
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -6676,7 +6681,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 16922
+      "UsersEstimate": 16923
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -6700,7 +6705,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -6724,7 +6729,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -6732,7 +6737,7 @@
       "Name": "Take a little bit of Italy with you",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_TRAIN_STATION",
@@ -6748,7 +6753,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -6756,7 +6761,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -6764,7 +6769,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26902
+      "UsersEstimate": 26903
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -6836,7 +6841,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13451
+      "UsersEstimate": 13452
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -6852,7 +6857,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -6868,7 +6873,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18224
+      "UsersEstimate": 18225
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -6916,7 +6921,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13017
+      "UsersEstimate": 13018
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -6962,9 +6967,9 @@
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
       "SetID": "49kdhbg",
       "Name": "Chain reaction",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 19526
+      "UsersEstimate": 19092
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -6972,7 +6977,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28638
+      "UsersEstimate": 28639
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -6988,7 +6993,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7376
+      "UsersEstimate": 7377
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -7028,7 +7033,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28204
+      "UsersEstimate": 28205
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -7084,7 +7089,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7810
+      "UsersEstimate": 7811
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -7099,15 +7104,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43391,
+      "Progressed": 43392,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-09T02:57:30.6565825+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:06:08.9089034+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:06:27.8093806+00:00",
   "LastUpdate_AppInfo": "2023-09-02T10:57:49.8826842+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:57:23.3396698+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:06:08.9090083+00:00"
+  "LastUpdate_Ratings": "2023-09-09T08:58:10.8814155+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:06:27.8094693+00:00"
 }

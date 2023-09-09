@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1196,9 +1196,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 243
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -1252,9 +1252,9 @@
       "ID": "OnceMoreIntoTheBreach",
       "SetID": "3ai6ml8",
       "Name": "Once more into the Breach",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 302
     },
     {
       "ID": "Outpatient",
@@ -1323,8 +1323,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:06:37.0174099+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:06:57.8139518+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.967565+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:01:36.9074461+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:06:37.0174303+00:00"
+  "LastUpdate_Ratings": "2023-09-09T08:57:43.1657997+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:06:57.8139748+00:00"
 }

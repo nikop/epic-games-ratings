@@ -21,9 +21,9 @@ Rating: 4.54 (Ranked 505)
 | Personal Assistant Personally Assisted | 1.00% | ~6,762 |
 | This is My Weapon | 1.00% | ~6,762 |
 | Welcome To Hell-A | 1.00% | ~6,762 |
-| Slayer Squad | 0.90% | ~6,085 |
-| Zombologist | 0.90% | ~6,085 |
-| A Patton Emerges | 0.90% | ~6,085 |
+| Slayer Squad | 0.90% | ~6,086 |
+| Zombologist | 0.90% | ~6,086 |
+| A Patton Emerges | 0.90% | ~6,086 |
 | Anger Management | 0.80% | ~5,409 |
 | Ooh, Shiny! | 0.80% | ~5,409 |
 | I Am the Resurrection | 0.80% | ~5,409 |
@@ -38,10 +38,10 @@ Rating: 4.54 (Ranked 505)
 | Jumbo Keyring | 0.40% | ~2,705 |
 | Go, Bobcats! | 0.40% | ~2,705 |
 | Rising Star | 0.40% | ~2,705 |
-| On Safari | 0.30% | ~2,028 |
-| Not Even My Final Form | 0.30% | ~2,028 |
-| Internet Famous | 0.30% | ~2,028 |
-| Variety is the Spice of Death | 0.30% | ~2,028 |
+| On Safari | 0.30% | ~2,029 |
+| Not Even My Final Form | 0.30% | ~2,029 |
+| Internet Famous | 0.30% | ~2,029 |
+| Variety is the Spice of Death | 0.30% | ~2,029 |
 | Make it So | 0.20% | ~1,352 |
 | LA Influential | 0.20% | ~1,352 |
 | Sole Survivor | 0.20% | ~1,352 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 505)
 | Survival Skills | 0.10% | ~676 |
 | Bucket List | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,157 (Ranked 22)  
+Progressed: 676,175 (Ranked 22)  
 Completed: 2,125 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2,125 (0.31%) (Ranked 177)
 | 2023-09-06 | 674,799 | 2,119 |
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
-| 2023-09-09 | 676,157 | 2,125 |
+| 2023-09-09 | 676,175 | 2,125 |
 ## Awards
 Max (Great Boss Battles): 5,969  (Ranked 58)  
 Sum: 8,815 (Ranked 94)  

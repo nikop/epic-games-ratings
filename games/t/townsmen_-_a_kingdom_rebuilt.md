@@ -9,7 +9,7 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 12.00% | ~512 |
 | Tax-man I | 11.00% | ~469 |
 | A new beginning | 11.00% | ~469 |
-| Friends from the past | 10.00% | ~426 |
+| Friends from the past | 10.00% | ~427 |
 | I like to build stuff... I | 8.00% | ~341 |
 | A time consuming game I | 8.00% | ~341 |
 | Builder I | 7.00% | ~299 |
@@ -72,12 +72,12 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game V | 1.00% | ~43 |
 | I've been everywhere II | 0.90% | ~38 |
 | When there's fire... | 0.80% | ~34 |
-| Ten-Hut! | 0.80% | ~34 |
 | I've been everywhere VI | 0.80% | ~34 |
-| The wood shortage | 0.80% | ~34 |
 | Last man standing | 0.70% | ~30 |
 | Builder V | 0.70% | ~30 |
+| Ten-Hut! | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |
+| The wood shortage | 0.70% | ~30 |
 | Buried | 0.60% | ~26 |
 | Craftsmen challenge | 0.60% | ~26 |
 | I've been everywhere III | 0.50% | ~21 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,265 (Ranked 153)  
+Progressed: 4,267 (Ranked 153)  
 Completed: 3 (0.07%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 3 (0.07%) (Ranked 229)
 | 2023-09-06 | 4,258 | 3 |
 | 2023-09-07 | 4,261 | 3 |
 | 2023-09-08 | 4,264 | 3 |
-| 2023-09-09 | 4,265 | 3 |
+| 2023-09-09 | 4,267 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

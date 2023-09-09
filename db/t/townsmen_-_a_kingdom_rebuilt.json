@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4265,
+  "EOS_Progressed": 4267,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1145,6 +1145,11 @@
       "Time": "2023-09-09T07:08:11.8075964+00:00",
       "NumProgressed": 4265,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-09T09:07:26.0993044+00:00",
+      "NumProgressed": 4267,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1554,9 +1559,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_BASICTRAINING",
       "SetID": "9eacipp",
       "Name": "Ten-Hut!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_BEHINDBLINDERS",
@@ -1786,9 +1791,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_WOODSHORTAGE",
       "SetID": "9eacipp",
       "Name": "The wood shortage",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_SERVE_PROTECT",
@@ -1916,7 +1921,7 @@
       "Name": "Friends from the past",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -1963,15 +1968,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4265,
+      "Progressed": 4267,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:07:04.6241387+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:07:26.0993038+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:57:38.5025236+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:59:04.8785679+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:07:04.6242965+00:00"
+  "LastUpdate_Ratings": "2023-09-09T08:59:52.0755743+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:07:26.0994489+00:00"
 }

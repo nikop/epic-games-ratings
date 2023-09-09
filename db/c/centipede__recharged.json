@@ -302,9 +302,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16978,
+  "EOS_Progressed": 16979,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -11192,6 +11192,11 @@
       "Time": "2023-09-09T08:05:18.7363253+00:00",
       "NumProgressed": 16978,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-09T09:05:36.6702438+00:00",
+      "NumProgressed": 16979,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 16,
@@ -11259,7 +11264,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "I_Am_The_Storm",
@@ -11323,22 +11328,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 16978,
+      "Progressed": 16979,
       "Completed": 102
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-07-21T02:04:12.2963456+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:05:18.7363247+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:05:36.6702433+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:55.9189104+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:59:55.3159005+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:05:18.7363907+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:00:42.4463504+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:05:36.6703098+00:00"
 }

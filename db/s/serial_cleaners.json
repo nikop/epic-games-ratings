@@ -2,9 +2,9 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.52,
+  "EOS_Completed_Percentage": 2.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -451,6 +451,11 @@
       "Time": "2023-09-09T02:17:28.0906342+00:00",
       "NumProgressed": 238,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-09T09:05:08.1621124+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -532,9 +537,9 @@
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -622,7 +627,7 @@
       "Name": "Mr. Hygeni",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "PSYCHO_DISMEMBER",
@@ -638,7 +643,7 @@
       "Name": "Clean Conscience",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "VIPER_HACKING",
@@ -653,13 +658,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 6
     }
   ],
@@ -667,8 +672,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:04:50.3699933+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:05:08.1621118+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:59:08.4193427+00:00",
-  "LastUpdate_Ratings": "2023-09-09T08:00:03.5446721+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:04:50.3700392+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:00:50.6796862+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:05:08.1621335+00:00"
 }

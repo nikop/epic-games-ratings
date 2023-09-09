@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4350,9 +4350,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 676157,
+  "EOS_Progressed": 676175,
   "EOS_Completed": 2125,
-  "EOS_NewPlayers": 4826,
+  "EOS_NewPlayers": 4811,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20210,6 +20210,11 @@
       "Time": "2023-09-09T08:06:37.174942+00:00",
       "NumProgressed": 676157,
       "NumCompleted": 2125
+    },
+    {
+      "Time": "2023-09-09T09:06:58.0245193+00:00",
+      "NumProgressed": 676175,
+      "NumCompleted": 2125
     }
   ],
   "TotalAchievements": 45,
@@ -20293,7 +20298,7 @@
       "Name": "On Safari",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ach_defensive",
@@ -20317,7 +20322,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "ach_explorer",
@@ -20357,7 +20362,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ach_hazardous_materials",
@@ -20397,7 +20402,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ach_investigator",
@@ -20429,7 +20434,7 @@
       "Name": "Zombologist",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "ach_legendary",
@@ -20453,7 +20458,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "ach_mind_over_monster",
@@ -20549,7 +20554,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2028
+      "UsersEstimate": 2029
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -20580,22 +20585,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676157,
+      "Progressed": 676175,
       "Completed": 2125
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 1697,
-      "Completed": 1697
+      "Progressed": 1715,
+      "Completed": 1715
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-09T07:00:16.3797819+00:00",
-  "LastChanged_Achievements": "2023-09-09T08:06:37.1749416+00:00",
+  "LastChanged_Achievements": "2023-09-09T09:06:58.0245186+00:00",
   "LastUpdate_AppInfo": "2023-09-02T09:58:04.7021628+00:00",
-  "LastUpdate_Ratings": "2023-09-09T07:59:21.4288342+00:00",
-  "LastUpdate_Achievements": "2023-09-09T08:06:37.1750687+00:00"
+  "LastUpdate_Ratings": "2023-09-09T09:00:08.4212427+00:00",
+  "LastUpdate_Achievements": "2023-09-09T09:06:58.0246493+00:00"
 }

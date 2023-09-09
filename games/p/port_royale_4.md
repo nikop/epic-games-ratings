@@ -6,28 +6,28 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~695 |
-| My little farm | 65.00% | ~565 |
-| Every beginning is difficult | 63.00% | ~547 |
-| Gofer | 57.00% | ~495 |
+| Cabin boy | 80.00% | ~696 |
+| My little farm | 65.00% | ~566 |
+| Every beginning is difficult | 63.00% | ~548 |
+| Gofer | 57.00% | ~496 |
 | 3, 2, 1, mine | 56.00% | ~487 |
-| O Captain! My Captain! | 54.00% | ~469 |
+| O Captain! My Captain! | 54.00% | ~470 |
 | Seafarer | 53.00% | ~461 |
 | Greed for gold | 43.00% | ~374 |
 | Intangible | 42.00% | ~365 |
 | I'm out of here for a while | 42.00% | ~365 |
-| In a mint condition | 38.00% | ~330 |
-| Licence to Kill | 36.00% | ~313 |
+| In a mint condition | 38.00% | ~331 |
+| Licence to Kill | 37.00% | ~322 |
 | Pirates! | 35.00% | ~304 |
+| Collectionitis | 29.00% | ~252 |
 | Megalomania | 29.00% | ~252 |
-| Christening | 28.00% | ~243 |
-| Collectionitis | 28.00% | ~243 |
+| Christening | 28.00% | ~244 |
 | Groundskeeper | 26.00% | ~226 |
 | Wholesale | 22.00% | ~191 |
-| Walk the plank | 21.00% | ~182 |
-| Pearly gates | 17.00% | ~148 |
+| Walk the plank | 21.00% | ~183 |
+| Pearly gates | 18.00% | ~157 |
 | My precious! | 17.00% | ~148 |
-| Conquistador | 13.00% | ~113 |
+| Conquistador | 14.00% | ~122 |
 | Panic buying | 11.00% | ~96 |
 | Just a scratch | 9.00% | ~78 |
 | Your vessel, my vessel | 9.00% | ~78 |
@@ -36,9 +36,9 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~70 |
 | Maker | 7.00% | ~61 |
 | Conglomerate | 6.00% | ~52 |
-| Buccaneer | 5.00% | ~43 |
-| Flying Dutchman | 5.00% | ~43 |
-| The Grande Bouffe | 5.00% | ~43 |
+| Buccaneer | 5.00% | ~44 |
+| Flying Dutchman | 5.00% | ~44 |
+| The Grande Bouffe | 5.00% | ~44 |
 | Overpopulation | 4.00% | ~35 |
 | Premier Maître | 3.00% | ~26 |
 | Supreme conqueror | 3.00% | ~26 |
@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.70% | ~6 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 869 (Ranked 213)  
-Completed: 1 (0.12%) (Ranked 211)  
+Progressed: 870 (Ranked 213)  
+Completed: 1 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,6 +183,7 @@ Completed: 1 (0.12%) (Ranked 211)
 | 2023-09-06 | 865 | 1 |
 | 2023-09-07 | 868 | 1 |
 | 2023-09-08 | 869 | 1 |
+| 2023-09-09 | 870 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
