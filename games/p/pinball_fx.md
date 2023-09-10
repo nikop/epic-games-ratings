@@ -6,13 +6,13 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~214,738 |
-| I know the Rules | 37.00% | ~96,894 |
+| Ball Launched | 82.00% | ~214,746 |
+| I know the Rules | 37.00% | ~96,897 |
 | Contender | 10.00% | ~26,188 |
 | I Found it! | 10.00% | ~26,188 |
 | First but not Last | 4.00% | ~10,475 |
-| Ready Steady Score | 3.00% | ~7,856 |
-| Dress Code | 3.00% | ~7,856 |
+| Ready Steady Score | 3.00% | ~7,857 |
+| Dress Code | 3.00% | ~7,857 |
 | Full Loot Madness | 2.00% | ~5,238 |
 | My Table, my Rules | 1.00% | ~2,619 |
 | Nine Zeroes | 0.90% | ~2,357 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261,876 (Ranked 46)  
+Progressed: 261,885 (Ranked 46)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,10 +180,10 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-07 | 260,877 | 0 |
 | 2023-09-08 | 261,264 | 0 |
 | 2023-09-09 | 261,630 | 0 |
-| 2023-09-10 | 261,876 | 0 |
+| 2023-09-10 | 261,885 | 0 |
 ## Awards
 Max (Great for Beginners): 189  (Ranked 279)  
-Sum: 1,546 (Ranked 221)  
+Sum: 1,547 (Ranked 221)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -196,7 +196,7 @@ Diff (max vs sum): 58
 | This game has Competitive Players | 148 |
 | This game has Challenging Combat | 106 |
 | This game has Amazing Storytelling | 101 |
-| This game has a Competitive Community | 100 |
+| This game has a Competitive Community | 101 |
 | This game has Amazing Characters | 91 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Realistic Visuals | 52 |
@@ -360,4 +360,4 @@ Diff (max vs sum): 58
 | 2023-08-28 | 4.05 | - | 188 | 1,541 |
 | 2023-08-30 | 4.05 | - | 188 | 1,542 |
 | 2023-09-01 | 4.05 | - | 188 | 1,545 |
-| 2023-09-10 | 4.05 | - | 189 | 1,546 |
+| 2023-09-10 | 4.05 | - | 189 | 1,547 |

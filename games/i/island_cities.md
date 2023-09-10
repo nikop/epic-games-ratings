@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 96.00% | ~644 |
+| Welcome! | 97.00% | ~651 |
 | A tiny town | 86.00% | ~577 |
 | Buildings, roads, cars, ...and people | 65.00% | ~436 |
 | Great view from the beach and from the hill | 55.00% | ~369 |

@@ -6,10 +6,10 @@ Rating: 4.50 (Ranked 565)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~22,131 |
-| Advancement | 72.00% | ~18,528 |
+| Advancement | 73.00% | ~18,786 |
 | Meticulously Efficient | 63.00% | ~16,212 |
 | Discovery | 60.00% | ~15,440 |
-| Fully Upgraded | 53.00% | ~13,639 |
+| Fully Upgraded | 54.00% | ~13,896 |
 | Swift Rift Removers | 53.00% | ~13,639 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~13,124 |
 | Cultured | 50.00% | ~12,867 |

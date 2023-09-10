@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5153,
+  "EOS_Progressed": 5154,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -765,6 +765,11 @@
       "Time": "2023-09-06T19:09:08.6886623+00:00",
       "NumProgressed": 5153,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-09-10T17:03:50.5813895+00:00",
+      "NumProgressed": 5154,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -816,7 +821,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -864,7 +869,7 @@
       "Name": "Collected 50 mushrooms",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
@@ -872,7 +877,7 @@
       "Name": "Budding Gardener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ACHIEVE_50_WOOD",
@@ -888,7 +893,7 @@
       "Name": "Yummy!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -904,7 +909,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5050
+      "UsersEstimate": 5051
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -912,7 +917,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3247
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -952,7 +957,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -984,7 +989,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4019
+      "UsersEstimate": 4020
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1048,7 +1053,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1064,7 +1069,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5050
+      "UsersEstimate": 5051
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1120,7 +1125,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2731
+      "UsersEstimate": 2732
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1136,7 +1141,7 @@
       "Name": "That Was Quick",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1167,15 +1172,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5153,
+      "Progressed": 5154,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:03:38.3465176+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:03:50.5813892+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:06.5906815+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:57:46.2940924+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:03:38.3465623+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:57:48.6914351+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:03:50.5814316+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 858,
-  "Ranking_Popularity": 317,
+  "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23606,
+  "EOS_Progressed": 23611,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16635,6 +16635,11 @@
       "Time": "2023-09-10T16:07:20.8530434+00:00",
       "NumProgressed": 23606,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-10T17:09:16.6898788+00:00",
+      "NumProgressed": 23611,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -16654,7 +16659,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "1017",
@@ -16662,7 +16667,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "1018",
@@ -16670,7 +16675,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "1019",
@@ -16678,7 +16683,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "1020",
@@ -16686,7 +16691,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "1021",
@@ -16694,7 +16699,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "1022",
@@ -16702,7 +16707,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "1023",
@@ -16718,7 +16723,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "1025",
@@ -16734,7 +16739,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "1027",
@@ -16750,7 +16755,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "1029",
@@ -16758,7 +16763,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "1030",
@@ -16766,7 +16771,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "1031",
@@ -16774,7 +16779,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "1032",
@@ -16782,7 +16787,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9442
+      "UsersEstimate": 9444
     },
     {
       "ID": "1033",
@@ -16798,7 +16803,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "1035",
@@ -16814,22 +16819,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23606,
+      "Progressed": 23611,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:07:20.853043+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:09:16.6898781+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.8845824+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:58:14.2901469+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:07:20.853149+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:58:20.6468904+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:09:16.6899867+00:00"
 }

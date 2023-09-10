@@ -31,7 +31,7 @@ Rating: 4.19 (Ranked 872)
 | The Commonality | 2.00% | ~319 |
 | One Last Job | 2.00% | ~77 |
 | In Striking Distance | 1.00% | ~159 |
-| This Isn't About Escape | 0.90% | ~35 |
+| This Isn't About Escape | 1.00% | ~39 |
 | Armed to the Teeth | 0.60% | ~23 |
 | Parole Denied | 0.60% | ~23 |
 | Big Spender | 0.60% | ~23 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56849,
+  "EOS_Progressed": 56850,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9108,6 +9108,11 @@
       "Time": "2023-09-10T16:06:42.304215+00:00",
       "NumProgressed": 56849,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-10T17:06:58.66475+00:00",
+      "NumProgressed": 56850,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -9183,7 +9188,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 3979
+      "UsersEstimate": 3980
     },
     {
       "ID": "FlyingPresent",
@@ -9279,7 +9284,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "IsThisPossible",
@@ -9510,7 +9515,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 56849,
+      "Progressed": 56850,
       "Completed": 6
     }
   ],
@@ -9518,8 +9523,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:06:42.3042145+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:06:58.6647495+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:53.5941192+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:58:27.9844324+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:06:42.3043067+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:58:34.3833579+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:06:58.6648434+00:00"
 }

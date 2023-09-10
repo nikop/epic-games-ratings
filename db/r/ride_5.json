@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 99,
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -484,6 +484,11 @@
       "Time": "2023-09-10T16:05:23.3860159+00:00",
       "NumProgressed": 562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T17:05:37.6262039+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -496,7 +501,7 @@
       "Name": "First Love",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -504,7 +509,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 199
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -512,7 +517,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -520,7 +525,7 @@
       "Name": "Stamina Star",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -528,7 +533,7 @@
       "Name": "Restored and Ready",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -552,7 +557,7 @@
       "Name": "I Want One Too!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -568,7 +573,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -584,7 +589,7 @@
       "Name": "Legendary!!!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -600,7 +605,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -672,15 +677,15 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
       "SetID": "c7hf6a4",
       "Name": "Still Here",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -704,7 +709,7 @@
       "Name": "Clean Race",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -782,9 +787,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 91
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -792,7 +797,7 @@
       "Name": "Eat My Dust",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -800,7 +805,7 @@
       "Name": "Champagne Spray",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -848,7 +853,7 @@
       "Name": "Rivals to the End",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -887,14 +892,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:05:23.3860154+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:05:37.6262034+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:00:02.0638025+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:05:23.3860559+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:00:10.0852942+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:05:37.626258+00:00"
 }

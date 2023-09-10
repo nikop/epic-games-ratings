@@ -1143,17 +1143,17 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "achMeat",
       "SetID": "1al1mjg",
       "Name": "Scent of Meat \u2714",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "achSaveses",
@@ -1175,9 +1175,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "achVirus",
@@ -1191,9 +1191,9 @@
       "ID": "achWitch",
       "SetID": "1al1mjg",
       "Name": "Witch \u2714",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
@@ -1206,8 +1206,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:03:52.8903444+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:04:04.6219522+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.0737493+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:58:54.6731416+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:03:52.8903845+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:59:01.9136282+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:04:04.6219705+00:00"
 }

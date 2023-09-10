@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Proving Your Skills | 92.00% | ~137 |
 | Bakery Startup | 41.00% | ~61 |
-| Apprentice Baker | 33.00% | ~49 |
+| Apprentice Baker | 34.00% | ~51 |
 | The Kitchen Is On Fire | 33.00% | ~49 |
 | Perfect Server | 15.00% | ~22 |
 | Adept Baker | 11.00% | ~16 |

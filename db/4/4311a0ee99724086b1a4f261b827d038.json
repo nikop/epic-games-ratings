@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 58,
@@ -246,9 +246,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216068,
+  "EOS_Progressed": 216095,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3807,
+  "EOS_NewPlayers": 3786,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5626,6 +5626,11 @@
       "Time": "2023-09-10T16:06:11.6881115+00:00",
       "NumProgressed": 216068,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T17:06:27.3897877+00:00",
+      "NumProgressed": 216095,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -5670,7 +5675,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -5694,7 +5699,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43214
+      "UsersEstimate": 43219
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -5702,7 +5707,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19446
+      "UsersEstimate": 19449
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -5710,7 +5715,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10803
+      "UsersEstimate": 10805
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -5718,7 +5723,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -5726,7 +5731,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -5734,7 +5739,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -5742,7 +5747,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -5750,7 +5755,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -5758,7 +5763,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -5774,7 +5779,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -5782,7 +5787,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -5822,7 +5827,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28089
+      "UsersEstimate": 28092
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -5830,7 +5835,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15125
+      "UsersEstimate": 15127
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -5838,7 +5843,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -5862,7 +5867,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -5878,7 +5883,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -5894,7 +5899,7 @@
       "Name": "Graduated Command School",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 51856
+      "UsersEstimate": 51863
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -5909,7 +5914,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 216068,
+      "Progressed": 216095,
       "Completed": 0
     }
   ],
@@ -5917,8 +5922,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-09T01:36:36.350804+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:06:11.688111+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:06:27.3897872+00:00",
   "LastUpdate_AppInfo": "2023-09-07T19:57:25.1255237+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:58:24.0680646+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:06:11.6881703+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:58:30.5592064+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:06:27.3898438+00:00"
 }

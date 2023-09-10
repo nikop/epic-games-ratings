@@ -706,9 +706,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5741,
+  "EOS_Progressed": 5743,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7226,6 +7226,11 @@
       "Time": "2023-09-10T16:04:18.3990308+00:00",
       "NumProgressed": 5741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T17:04:31.3217606+00:00",
+      "NumProgressed": 5743,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7237,7 +7242,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4535
+      "UsersEstimate": 4537
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7245,7 +7250,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -7253,7 +7258,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 3961
+      "UsersEstimate": 3963
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7261,7 +7266,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -7269,7 +7274,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7277,7 +7282,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7285,7 +7290,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 2756
+      "UsersEstimate": 2757
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -7293,7 +7298,7 @@
       "Name": "Scaling up",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7301,7 +7306,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -7309,7 +7314,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -7325,7 +7330,7 @@
       "Name": "I\u0027m the Captain Now",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -7341,7 +7346,7 @@
       "Name": "Goldfish?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -7349,7 +7354,7 @@
       "Name": "Going for Gold",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -7405,7 +7410,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -7516,13 +7521,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5741,
+      "Progressed": 5743,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5113,
+      "Progressed": 5115,
       "Completed": 112
     }
   ],
@@ -7530,8 +7535,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-08T12:01:25.854057+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:04:18.3990304+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:04:31.3217601+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:41.605376+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:57:44.7345045+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:04:18.3990895+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:57:47.3261353+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:04:31.3218279+00:00"
 }

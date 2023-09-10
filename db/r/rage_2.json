@@ -4,7 +4,7 @@
   "ProductSlug": "rage-2",
   "Ranking_Rating": 820,
   "Ranking_Popularity": 99,
-  "Ranking_PopularitySum": 153,
+  "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 350,
@@ -2504,8 +2504,8 @@
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
   "FirstSeenAchievements": "2023-05-23T21:03:37.9504818+00:00",
   "LastChanged": "2023-09-10T10:00:45.3193605+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:06:03.961261+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:06:19.6848094+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:29.7895377+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:00:36.9367755+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:06:03.9612693+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:00:45.1211983+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:06:19.6848125+00:00"
 }

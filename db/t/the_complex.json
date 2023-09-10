@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
@@ -547,6 +547,11 @@
       "Time": "2023-09-10T12:06:28.199109+00:00",
       "NumProgressed": 545,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-10T17:05:52.5125142+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -566,7 +571,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "deadly_secret",
@@ -606,7 +611,7 @@
       "Name": "The Promise",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ending_5",
@@ -646,7 +651,7 @@
       "Name": "Falling For You",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "free_champagne",
@@ -662,7 +667,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "kindar_surprise",
@@ -710,14 +715,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 18
     }
   ],
@@ -725,8 +730,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:05:37.7785736+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:05:52.5125137+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.8564591+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:58:55.918384+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:05:37.7785922+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:59:03.5090962+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:05:52.5125306+00:00"
 }

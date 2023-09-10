@@ -6,18 +6,18 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,830 |
-| Un-Lonely Island | 47.00% | ~2,368 |
-| The Beginning of a Servantship | 46.00% | ~2,318 |
-| Trade Is My Trait | 37.00% | ~1,864 |
-| Number 18 | 24.00% | ~1,209 |
-| We Don't Have Time For That | 19.00% | ~957 |
-| The Governator | 18.00% | ~907 |
+| Just One...More...Term... | 76.00% | ~3,832 |
+| Un-Lonely Island | 47.00% | ~2,370 |
+| The Beginning of a Servantship | 46.00% | ~2,319 |
+| Trade Is My Trait | 37.00% | ~1,866 |
+| Number 18 | 24.00% | ~1,210 |
+| We Don't Have Time For That | 19.00% | ~958 |
+| The Governator | 18.00% | ~908 |
 | The Legend of Langostino | 17.00% | ~857 |
-| Caribbean Comrade | 16.00% | ~806 |
-| The Dreamer of Dreams | 16.00% | ~806 |
-| Go Sovereigns! | 11.00% | ~554 |
-| For Science! | 11.00% | ~554 |
+| Caribbean Comrade | 16.00% | ~807 |
+| The Dreamer of Dreams | 16.00% | ~807 |
+| Go Sovereigns! | 11.00% | ~555 |
+| For Science! | 11.00% | ~555 |
 | Happy Ending? | 10.00% | ~504 |
 | Of Seals And Men | 10.00% | ~504 |
 | Shackadelic | 10.00% | ~504 |
@@ -26,9 +26,9 @@ Number of Ratings: 398  (23.09.2022)
 | Make Tropico Great Again! | 8.00% | ~403 |
 | I Owe You Nothing | 7.00% | ~353 |
 | French Connection | 7.00% | ~353 |
-| Don't Panic! | 6.00% | ~302 |
-| Computer Says "No" | 6.00% | ~302 |
-| Beware The Betman | 6.00% | ~302 |
+| Don't Panic! | 6.00% | ~303 |
+| Computer Says "No" | 6.00% | ~303 |
+| Beware The Betman | 6.00% | ~303 |
 | Viva Tropico! | 5.00% | ~252 |
 | Watch The World Burn | 5.00% | ~252 |
 | Fairy Tale Come True | 5.00% | ~252 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~50 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,039 (Ranked 151)  
+Progressed: 5,042 (Ranked 151)  
 Completed: 2 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2 (0.04%) (Ranked 241)
 | 2023-09-07 | 5,007 | 2 |
 | 2023-09-08 | 5,018 | 2 |
 | 2023-09-09 | 5,033 | 2 |
-| 2023-09-10 | 5,039 | 2 |
+| 2023-09-10 | 5,042 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 340)  
 Sum: 684 (Ranked 280)  

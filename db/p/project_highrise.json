@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -882,6 +882,11 @@
       "Time": "2023-09-06T01:45:00.1635111+00:00",
       "NumProgressed": 336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T17:05:19.7057104+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1027,9 +1032,9 @@
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_consultant_1",
@@ -1037,7 +1042,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ach_consultants_a",
@@ -1101,7 +1106,7 @@
       "Name": "Proper Walls",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ach_drones",
@@ -1197,7 +1202,7 @@
       "Name": "Starting Skyward",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_floors_1",
@@ -1261,7 +1266,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_mod_1",
@@ -1323,9 +1328,9 @@
       "ID": "ach_pop_2",
       "SetID": "b8gh1fi",
       "Name": "Master of Puppets",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_prestige_1",
@@ -1357,7 +1362,7 @@
       "Name": "In the Black",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ach_profit_1",
@@ -1395,9 +1400,9 @@
       "ID": "ach_restaurants_1",
       "SetID": "b8gh1fi",
       "Name": "Refined Palates",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_restaurants_2",
@@ -1413,7 +1418,7 @@
       "Name": "Dinner Dash",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_restaurants_4",
@@ -1421,7 +1426,7 @@
       "Name": "Potent Potables",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_restaurants_5",
@@ -1451,9 +1456,9 @@
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_retail_4",
@@ -1517,7 +1522,7 @@
       "Name": "Smooth Service",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach_trash_1",
@@ -1563,9 +1568,9 @@
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_util_water",
@@ -1596,7 +1601,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 0
     }
   ],
@@ -1604,8 +1609,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:05:05.354893+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:05:19.7057094+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.095472+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:59:35.9865084+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:05:05.3550076+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:59:44.9589483+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:05:19.7058189+00:00"
 }

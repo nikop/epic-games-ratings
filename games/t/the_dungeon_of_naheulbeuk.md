@@ -1,23 +1,23 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.59 (Ranked 417)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,660 |
-| Where's that freaking Dwarf? | 4.00% | ~8,919 |
-| Alt+F4 | 4.00% | ~8,919 |
-| Déjà vu | 3.00% | ~6,689 |
-| Sock! SOCK! | 3.00% | ~6,689 |
-| Way of the Wimp | 2.00% | ~4,459 |
-| A beer, two curses, three companions | 2.00% | ~4,459 |
-| The plot thickens... At the tavern | 2.00% | ~4,459 |
-| GG EZ | 2.00% | ~4,459 |
-| DM intervention | 2.00% | ~4,459 |
-| Speedrun | 2.00% | ~4,459 |
-| Fireproof Wizardess | 2.00% | ~4,459 |
+| Sowwy! | 29.00% | ~64,669 |
+| Where's that freaking Dwarf? | 4.00% | ~8,920 |
+| Alt+F4 | 4.00% | ~8,920 |
+| Déjà vu | 3.00% | ~6,690 |
+| Sock! SOCK! | 3.00% | ~6,690 |
+| Way of the Wimp | 2.00% | ~4,460 |
+| A beer, two curses, three companions | 2.00% | ~4,460 |
+| The plot thickens... At the tavern | 2.00% | ~4,460 |
+| GG EZ | 2.00% | ~4,460 |
+| DM intervention | 2.00% | ~4,460 |
+| Speedrun | 2.00% | ~4,460 |
+| Fireproof Wizardess | 2.00% | ~4,460 |
 | Livin' in a dwarven paradise | 1.00% | ~2,230 |
 | Shiny and Crôm | 1.00% | ~2,230 |
 | The demons' feast | 1.00% | ~2,230 |
@@ -53,10 +53,10 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 0.20% | ~446 |
 | Friendly fire | 0.20% | ~446 |
 | I'd rather... Just... Sing! | 0.20% | ~446 |
+| The number of the counting shalt be 7 | 0.20% | ~446 |
 | Inception | 0.20% | ~446 |
 | It's been a hard day's night | 0.20% | ~446 |
 | Cursed die | 0.10% | ~223 |
-| The number of the counting shalt be 7 | 0.10% | ~223 |
 | Necrophilia | 0.10% | ~223 |
 | The Blood Countess | 0.10% | ~223 |
 | He’s alive! Aliiiive! | 0.10% | ~223 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,966 (Ranked 56)  
+Progressed: 222,996 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,17 +197,18 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
 | 2023-09-09 | 222,713 | 2 |
-| 2023-09-10 | 222,966 | 2 |
+| 2023-09-10 | 222,996 | 2 |
 ## Awards
 Max (Character Customization): 192  (Ranked 277)  
-Sum: 267 (Ranked 353)  
-Diff (max vs sum): -76  
+Sum: 287 (Ranked 343)  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 192 |
 | This game is Relaxing | 27 |
 | This game is Great for Beginners | 24 |
 | This game has Amazing Characters | 24 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -337,4 +338,4 @@ Diff (max vs sum): -76
 | 2023-09-05 | 4.58 | - | 189 | 262 |
 | 2023-09-06 | 4.58 | - | 190 | 264 |
 | 2023-09-09 | 4.59 | - | 190 | 265 |
-| 2023-09-10 | 4.58 | - | 192 | 267 |
+| 2023-09-10 | 4.59 | - | 192 | 287 |

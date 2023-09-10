@@ -6,12 +6,12 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Understanding of Block Extrusion | 56.00% | ~146 |
-| Lost in Space | 56.00% | ~146 |
-| Power Glove | 48.00% | ~125 |
+| Quick Understanding of Block Extrusion | 56.00% | ~147 |
+| Lost in Space | 56.00% | ~147 |
 | Nature or Nurture | 47.00% | ~123 |
-| Forgotten Memories | 46.00% | ~120 |
-| Cogs in the Machine | 40.00% | ~104 |
+| Power Glove | 47.00% | ~123 |
+| Forgotten Memories | 45.00% | ~118 |
+| Cogs in the Machine | 40.00% | ~105 |
 | Mission Success | 19.00% | ~50 |
 | Green Cube Killer | 16.00% | ~42 |
 | There's No Place Like Home | 16.00% | ~42 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.40% | ~1 |
 | Laser Sharp | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261 (Ranked 290)  
+Progressed: 262 (Ranked 290)  
 Completed: 1 (0.38%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 1 (0.38%) (Ranked 165)
 | 2023-09-07 | 215 | 1 |
 | 2023-09-08 | 228 | 1 |
 | 2023-09-09 | 247 | 1 |
-| 2023-09-10 | 261 | 1 |
+| 2023-09-10 | 262 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

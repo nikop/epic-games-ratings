@@ -2,7 +2,7 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 431,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 585,
@@ -10953,10 +10953,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 247339,
       "NumberOfAwardsMax": 60900
+    },
+    {
+      "Time": "2023-09-10T17:00:22.2407341+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 247356,
+      "NumberOfAwardsMax": 60900
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 247339,
+  "NumberOfAwards": 247356,
   "NumberOfAwardsMax": 60900,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10970,7 +10976,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 21671
+      "Count": 21688
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11044,8 +11050,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-09-10T16:00:13.8670935+00:00",
+  "LastChanged": "2023-09-10T17:00:22.2407339+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:58.6961186+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:00:13.8670941+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:04:00.5203234+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:00:22.2407345+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:04:12.8591248+00:00"
 }

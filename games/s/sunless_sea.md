@@ -1,16 +1,16 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.58 (Ranked 431)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~13,347 |
-| Sweet Sorrow | 18.00% | ~6,673 |
+| Sink Beneath the Waves | 36.00% | ~13,348 |
+| Sweet Sorrow | 18.00% | ~6,674 |
 | Rules the Waves | 17.00% | ~6,303 |
-| Thou, All-Shaking Thunder | 15.00% | ~5,561 |
-| Rival | 14.00% | ~5,190 |
+| Thou, All-Shaking Thunder | 15.00% | ~5,562 |
+| Rival | 14.00% | ~5,191 |
 | Correspondent | 12.00% | ~4,449 |
 | Lose Your Mind | 12.00% | ~4,449 |
 | Sound Mind? | 12.00% | ~4,449 |
@@ -29,8 +29,8 @@ Number of Ratings: 401  (23.09.2022)
 | Storm's Curse | 3.00% | ~1,112 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,112 |
 | Come Closer | 3.00% | ~1,112 |
-| Roaring Rise | 2.00% | ~741 |
-| I am the Captain of my Soul | 2.00% | ~741 |
+| Roaring Rise | 2.00% | ~742 |
+| I am the Captain of my Soul | 2.00% | ~742 |
 | A buoyant escape | 1.00% | ~371 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~371 |
 | The Bell Tolls | 1.00% | ~371 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~37 |
 | Ten Years at Zee | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,074 (Ranked 98)  
+Progressed: 37,077 (Ranked 98)  
 Completed: 3 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,11 +204,11 @@ Completed: 3 (0.01%) (Ranked 259)
 | 2023-09-07 | 36,920 | 3 |
 | 2023-09-08 | 36,970 | 3 |
 | 2023-09-09 | 37,036 | 3 |
-| 2023-09-10 | 37,074 | 3 |
+| 2023-09-10 | 37,077 | 3 |
 ## Awards
 Max (Character Customization): 214  (Ranked 270)  
-Sum: 285 (Ranked 344)  
-Diff (max vs sum): -74  
+Sum: 285 (Ranked 345)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 214 |

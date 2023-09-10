@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 115,
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17947,
+  "EOS_Progressed": 17948,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10000,6 +10000,11 @@
       "Time": "2023-09-10T16:04:36.279316+00:00",
       "NumProgressed": 17947,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-10T17:04:49.8547355+00:00",
+      "NumProgressed": 17948,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10067,7 +10072,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "0009",
@@ -10195,7 +10200,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3948
+      "UsersEstimate": 3949
     },
     {
       "ID": "0025",
@@ -10203,7 +10208,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "0026",
@@ -10243,7 +10248,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3231
     },
     {
       "ID": "0031",
@@ -10298,7 +10303,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17947,
+      "Progressed": 17948,
       "Completed": 3
     }
   ],
@@ -10306,8 +10311,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:04:36.2793154+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:04:49.854735+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:57:31.2489397+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:04:36.2794003+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:57:32.6645191+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:04:49.8548227+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 765,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 176,
+  "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -976,9 +976,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2324,
+  "EOS_Progressed": 2342,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1292,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2321,6 +2321,11 @@
       "Time": "2023-09-10T16:04:20.4970419+00:00",
       "NumProgressed": 2324,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-10T17:04:33.5809111+00:00",
+      "NumProgressed": 2342,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2333,7 +2338,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "a_10",
@@ -2341,7 +2346,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "a_11",
@@ -2349,7 +2354,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "a_12",
@@ -2357,7 +2362,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "a_15",
@@ -2373,7 +2378,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "a_18",
@@ -2381,7 +2386,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 813
+      "UsersEstimate": 820
     },
     {
       "ID": "a_19",
@@ -2389,7 +2394,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "a_2",
@@ -2397,7 +2402,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "a_20",
@@ -2405,7 +2410,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "a_21",
@@ -2413,7 +2418,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "a_22",
@@ -2421,7 +2426,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "a_23",
@@ -2429,15 +2434,15 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "a_25",
       "SetID": "daiie3o",
       "Name": "Better than nothing?",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 94
     },
     {
       "ID": "a_26",
@@ -2445,7 +2450,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "a_27",
@@ -2453,7 +2458,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "a_28",
@@ -2573,14 +2578,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2324,
+      "Progressed": 2342,
       "Completed": 4
     }
   ],
@@ -2588,8 +2593,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-09T20:59:06.8541677+00:00",
-  "LastChanged_Achievements": "2023-09-10T16:04:20.4970413+00:00",
+  "LastChanged_Achievements": "2023-09-10T17:04:33.5809106+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:59:21.4141104+00:00",
-  "LastUpdate_Achievements": "2023-09-10T16:04:20.4970732+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:59:29.5327446+00:00",
+  "LastUpdate_Achievements": "2023-09-10T17:04:33.580942+00:00"
 }

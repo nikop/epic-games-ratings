@@ -5,7 +5,7 @@ Rating: 4.74 (Ranked 146)
 Number of Ratings: 11,240  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 809  (Ranked 157)  
-Sum: 6,815 (Ranked 117)  
+Sum: 6,817 (Ranked 117)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): 40
 | This game has Challenging Combat | 608 |
 | This game has Amazing Characters | 555 |
 | This game has Obsessive Gameplay | 491 |
-| This game has a Creative Community | 380 |
+| This game has a Creative Community | 382 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -229,4 +229,4 @@ Diff (max vs sum): 40
 | 2023-09-07 | 4.74 | - | 805 | 6,800 |
 | 2023-09-08 | 4.74 | - | 809 | 6,806 |
 | 2023-09-09 | 4.74 | - | 809 | 6,812 |
-| 2023-09-10 | 4.74 | - | 809 | 6,815 |
+| 2023-09-10 | 4.74 | - | 809 | 6,817 |

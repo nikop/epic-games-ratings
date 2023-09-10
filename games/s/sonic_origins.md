@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.58 (Ranked 431)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,9 +22,9 @@ Number of Ratings: 154  (23.09.2022)
 | Boss Rush Attempt | 54.00% | ~249 |
 | Cleared Sonic the Hedgehog | 50.00% | ~231 |
 | Super Sonic | 46.00% | ~213 |
+| Beware Stingers! | 45.00% | ~208 |
 | Very First Mission Clear! | 45.00% | ~208 |
 | Shut Down Metal Sonic | 44.00% | ~203 |
-| Beware Stingers! | 44.00% | ~203 |
 | Museum Time | 44.00% | ~203 |
 | Beware Moto Bugs! | 42.00% | ~194 |
 | Cleared Sonic the Hedgehog 2 | 42.00% | ~194 |

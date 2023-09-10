@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~1,047 |
-| Waff! | 95.00% | ~1,036 |
-| Into the Barn | 87.00% | ~949 |
-| A Prophecy | 85.00% | ~927 |
-| Sword, Shield, Fight! | 76.00% | ~829 |
+| Once Upon a Time | 96.00% | ~1,048 |
+| Waff! | 95.00% | ~1,037 |
+| Into the Barn | 87.00% | ~950 |
+| A Prophecy | 85.00% | ~928 |
+| Sword, Shield, Fight! | 76.00% | ~830 |
 | A Grand Visit | 72.00% | ~786 |
-| Fun Guy | 63.00% | ~687 |
-| Vibing | 62.00% | ~676 |
-| Tragic Brave | 54.00% | ~589 |
-| Awakened Spirits | 51.00% | ~556 |
+| Fun Guy | 63.00% | ~688 |
+| Vibing | 62.00% | ~677 |
+| Tragic Brave | 54.00% | ~590 |
+| Awakened Spirits | 51.00% | ~557 |
 | Little Shop | 50.00% | ~546 |
 | Surprise! | 46.00% | ~502 |
 | An Actor! | 46.00% | ~502 |
 | Curtain Call | 45.00% | ~491 |
-| Piece of Cake | 42.00% | ~458 |
-| Gooey Delight! | 42.00% | ~458 |
-| Glimmer of Hope | 42.00% | ~458 |
-| The Guardian | 41.00% | ~447 |
-| Teacups for Toppy | 41.00% | ~447 |
-| Well Rested | 41.00% | ~447 |
-| Nightmare Fuel | 40.00% | ~436 |
-| Take Heart | 40.00% | ~436 |
-| Stronger! | 40.00% | ~436 |
-| Ancient Wisdom | 39.00% | ~425 |
-| All That Glistens | 39.00% | ~425 |
+| Piece of Cake | 42.00% | ~459 |
+| Gooey Delight! | 42.00% | ~459 |
+| Glimmer of Hope | 42.00% | ~459 |
+| The Guardian | 41.00% | ~448 |
+| Teacups for Toppy | 41.00% | ~448 |
+| Well Rested | 41.00% | ~448 |
+| Nightmare Fuel | 40.00% | ~437 |
+| Take Heart | 40.00% | ~437 |
+| Stronger! | 40.00% | ~437 |
+| Ancient Wisdom | 39.00% | ~426 |
+| All That Glistens | 39.00% | ~426 |
 | Frog Facts! | 38.00% | ~415 |
 | Spellbound | 37.00% | ~404 |
 | Extinct Again! | 37.00% | ~404 |
@@ -48,15 +48,15 @@
 | Going Home | 34.00% | ~371 |
 | Extraordinary! | 33.00% | ~360 |
 | Mirror, Mirror | 32.00% | ~349 |
-| Flower Power | 28.00% | ~305 |
+| Flower Power | 28.00% | ~306 |
 | Shopping Spree! | 26.00% | ~284 |
 | Crowned | 23.00% | ~251 |
 | Max Level! | 16.00% | ~175 |
 | Dance Master | 10.00% | ~109 |
 | Bombs Away! | 9.00% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091 (Ranked 206)  
-Completed: 85 (7.79%) (Ranked 37)  
+Progressed: 1,092 (Ranked 206)  
+Completed: 85 (7.78%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -165,6 +165,7 @@ Completed: 85 (7.79%) (Ranked 37)
 | 2023-09-02 | 1,089 | 85 |
 | 2023-09-03 | 1,090 | 85 |
 | 2023-09-09 | 1,091 | 85 |
+| 2023-09-10 | 1,092 | 85 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

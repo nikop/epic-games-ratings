@@ -13,11 +13,11 @@ Rating: 3.82 (Ranked 969)
 | Unexpected Consequences | 14.00% | ~72 |
 | Identity Theft | 12.00% | ~62 |
 | Mind the Gap | 12.00% | ~62 |
-| U Mad Bro? | 12.00% | ~62 |
 | F is for Feline | 12.00% | ~62 |
 | A Trip to Remember | 12.00% | ~62 |
 | Does Not Compute | 12.00% | ~62 |
-| Short Circuit | 11.00% | ~56 |
+| U Mad Bro? | 11.00% | ~57 |
+| Short Circuit | 11.00% | ~57 |
 | A Stealthy Outlook | 7.00% | ~36 |
 | Catch You Later | 6.00% | ~31 |
 | Between the Covers | 5.00% | ~26 |
@@ -35,7 +35,7 @@ Rating: 3.82 (Ranked 969)
 | Marvellous Toys | 2.00% | ~10 |
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 513 (Ranked 240)  
+Progressed: 514 (Ranked 241)  
 Completed: 5 (0.97%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 5 (0.97%) (Ranked 126)
 | 2023-09-06 | 509 | 5 |
 | 2023-09-07 | 510 | 5 |
 | 2023-09-08 | 512 | 5 |
-| 2023-09-10 | 513 | 5 |
+| 2023-09-10 | 514 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

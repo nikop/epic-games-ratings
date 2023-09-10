@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 80.00% | ~403 |
-| A Thorny Situation | 71.00% | ~358 |
-| ... And Spit Back Out | 54.00% | ~272 |
-| Break-Net Speed | 48.00% | ~242 |
-| Humble Collector | 36.00% | ~181 |
-| Miner 49er | 35.00% | ~176 |
-| Bramble Breaker | 35.00% | ~176 |
-| Oui, Chef! | 19.00% | ~96 |
-| Calm Sailing | 18.00% | ~91 |
-| Lumberjack | 15.00% | ~76 |
-| Open the Gate! | 14.00% | ~71 |
-| Beach Comber | 10.00% | ~50 |
-| Mist Walker | 9.00% | ~45 |
-| Botanical Breakthrough | 6.00% | ~30 |
-| Chatty Neighbor | 3.00% | ~15 |
+| Azoria Beckons | 78.00% | ~403 |
+| A Thorny Situation | 71.00% | ~367 |
+| ... And Spit Back Out | 54.00% | ~279 |
+| Break-Net Speed | 48.00% | ~248 |
+| Miner 49er | 35.00% | ~181 |
+| Humble Collector | 35.00% | ~181 |
+| Bramble Breaker | 35.00% | ~181 |
+| Oui, Chef! | 20.00% | ~103 |
+| Calm Sailing | 19.00% | ~98 |
+| Lumberjack | 16.00% | ~83 |
+| Open the Gate! | 15.00% | ~78 |
+| Beach Comber | 10.00% | ~52 |
+| Mist Walker | 10.00% | ~52 |
+| Botanical Breakthrough | 6.00% | ~31 |
+| Chatty Neighbor | 3.00% | ~16 |
 | Clear the Air | 2.00% | ~10 |
 | Search for the Hairy Grell | 2.00% | ~10 |
 | Higher Tax Bracket | 2.00% | ~10 |
@@ -30,8 +30,8 @@
 | Fae Farmer | 1.00% | ~5 |
 | Fanatical Farmer | 1.00% | ~5 |
 | Skilled | 1.00% | ~5 |
+| I Now Pronounce You... | 0.80% | ~4 |
 | Got to Catch Them All | 0.60% | ~3 |
-| I Now Pronounce You... | 0.60% | ~3 |
 | Scattered Scroll Scrounger | 0.40% | ~2 |
 | Cloverfield Island | 0.20% | ~1 |
 | Workaholic | 0.20% | ~1 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.20% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504 (Ranked 242)  
+Progressed: 517 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
-| 2023-09-10 | 504 | 0 |
+| 2023-09-10 | 517 | 0 |
