@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_Progress": 348,
+  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.13,
+  "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -151,6 +151,11 @@
       "Time": "2023-09-10T16:05:04.9529436+00:00",
       "NumProgressed": 94,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-10T19:05:24.6729455+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 24,
@@ -218,13 +223,13 @@
       "Name": "Breaking Through",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 46
     },
@@ -288,7 +293,7 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
       "UsersEstimate": 56
     },
@@ -312,7 +317,7 @@
       "ID": "StealthDefeat_1",
       "SetID": "9e3d06k",
       "Name": "Brain-hacker",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -344,7 +349,7 @@
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 27
     }
@@ -353,7 +358,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 2
     }
   ],
@@ -361,8 +366,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:05:04.0285403+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:05:24.6729451+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:26.6499591+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:00:41.1248128+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:05:04.0285596+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:00:50.2826915+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:05:24.672962+00:00"
 }

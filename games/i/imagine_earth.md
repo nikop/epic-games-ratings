@@ -12,7 +12,7 @@ Number of Ratings: 22  (23.09.2022)
 | Lorian | 31.00% | ~127 |
 | Metropolis | 27.00% | ~111 |
 | Rounos | 24.00% | ~99 |
-| Campaign Silver | 21.00% | ~86 |
+| Campaign Silver | 22.00% | ~90 |
 | Magni | 21.00% | ~86 |
 | Bora | 18.00% | ~74 |
 | Scientist | 15.00% | ~62 |

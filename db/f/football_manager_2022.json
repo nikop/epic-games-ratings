@@ -7217,9 +7217,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 472899,
+  "EOS_Progressed": 472904,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22372,6 +22372,11 @@
       "Time": "2023-09-10T18:08:09.2268896+00:00",
       "NumProgressed": 472899,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-10T19:08:20.6108888+00:00",
+      "NumProgressed": 472904,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -22399,7 +22404,7 @@
       "Name": "You\u0027re On Fire",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122954
+      "UsersEstimate": 122955
     },
     {
       "ID": "achievement_10_matches_without_losing",
@@ -22407,7 +22412,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 174973
+      "UsersEstimate": 174974
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -22439,7 +22444,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122954
+      "UsersEstimate": 122955
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -22463,7 +22468,7 @@
       "Name": "Top Form",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 80393
+      "UsersEstimate": 80394
     },
     {
       "ID": "achievement_3_players_in_team_of_the_year",
@@ -22471,7 +22476,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 127683
+      "UsersEstimate": 127684
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -22479,7 +22484,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137141
+      "UsersEstimate": 137142
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -22495,7 +22500,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 141870
+      "UsersEstimate": 141871
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -22503,7 +22508,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113496
+      "UsersEstimate": 113497
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -22527,7 +22532,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70935
+      "UsersEstimate": 70936
     },
     {
       "ID": "achievement_big_win",
@@ -22535,7 +22540,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 174973
+      "UsersEstimate": 174974
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -22543,7 +22548,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 99309
+      "UsersEstimate": 99310
     },
     {
       "ID": "achievement_childhood_dream",
@@ -22559,7 +22564,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104038
+      "UsersEstimate": 104039
     },
     {
       "ID": "achievement_clean_sheet",
@@ -22567,7 +22572,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236450
+      "UsersEstimate": 236452
     },
     {
       "ID": "achievement_club_world_cup",
@@ -22583,7 +22588,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89851
+      "UsersEstimate": 89852
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -22607,7 +22612,7 @@
       "Name": "Eyes and Ears",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66206
+      "UsersEstimate": 66207
     },
     {
       "ID": "achievement_fine_player",
@@ -22615,7 +22620,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 198618
+      "UsersEstimate": 198620
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -22623,7 +22628,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113496
+      "UsersEstimate": 113497
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -22655,7 +22660,7 @@
       "Name": "What A Goal!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104038
+      "UsersEstimate": 104039
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -22671,7 +22676,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 132412
+      "UsersEstimate": 132413
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -22679,7 +22684,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94580
+      "UsersEstimate": 94581
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -22695,7 +22700,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137141
+      "UsersEstimate": 137142
     },
     {
       "ID": "achievement_hattrick",
@@ -22703,7 +22708,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 193889
+      "UsersEstimate": 193891
     },
     {
       "ID": "achievement_head_to_head",
@@ -22727,7 +22732,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 146599
+      "UsersEstimate": 146600
     },
     {
       "ID": "achievement_impervious",
@@ -22751,7 +22756,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 113496
+      "UsersEstimate": 113497
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -22759,7 +22764,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 108767
+      "UsersEstimate": 108768
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -22767,7 +22772,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113496
+      "UsersEstimate": 113497
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -22775,7 +22780,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 122954
+      "UsersEstimate": 122955
     },
     {
       "ID": "achievement_mr_delegator",
@@ -22799,7 +22804,7 @@
       "Name": "Overachiever!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70935
+      "UsersEstimate": 70936
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -22807,7 +22812,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 165515
+      "UsersEstimate": 165516
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -22815,7 +22820,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 151328
+      "UsersEstimate": 151329
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -22823,7 +22828,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94580
+      "UsersEstimate": 94581
     },
     {
       "ID": "achievement_pick_feeder",
@@ -22855,7 +22860,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137141
+      "UsersEstimate": 137142
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -22879,7 +22884,7 @@
       "Name": "Record Sale",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 122954
+      "UsersEstimate": 122955
     },
     {
       "ID": "achievement_record_signing",
@@ -22887,7 +22892,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 151328
+      "UsersEstimate": 151329
     },
     {
       "ID": "achievement_rushed_signing",
@@ -22895,7 +22900,7 @@
       "Name": "Rushed signing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70935
+      "UsersEstimate": 70936
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -22903,7 +22908,7 @@
       "Name": "Scoring Streak",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 179702
+      "UsersEstimate": 179704
     },
     {
       "ID": "achievement_scouts_honour",
@@ -22919,7 +22924,7 @@
       "Name": "Cash To Burn",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 80393
+      "UsersEstimate": 80394
     },
     {
       "ID": "achievement_sell_player",
@@ -22927,7 +22932,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 226992
+      "UsersEstimate": 226994
     },
     {
       "ID": "achievement_signed_a_player",
@@ -22935,7 +22940,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236450
+      "UsersEstimate": 236452
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -22943,7 +22948,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 108767
+      "UsersEstimate": 108768
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -22967,7 +22972,7 @@
       "Name": "Armchair Expert",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113496
+      "UsersEstimate": 113497
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -22983,7 +22988,7 @@
       "Name": "Comeback King!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 66206
+      "UsersEstimate": 66207
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -22999,7 +23004,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 70935
+      "UsersEstimate": 70936
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -23015,7 +23020,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236450
+      "UsersEstimate": 236452
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -23023,7 +23028,7 @@
       "Name": "Cup Glory!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 104038
+      "UsersEstimate": 104039
     },
     {
       "ID": "achievement_won_international_championship",
@@ -23039,7 +23044,7 @@
       "Name": "You\u0027re Up!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 61477
+      "UsersEstimate": 61478
     },
     {
       "ID": "achievement_won_world_cup",
@@ -23079,7 +23084,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 146599
+      "UsersEstimate": 146600
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -23111,7 +23116,7 @@
       "Name": "Draft Rivalry",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2364
+      "UsersEstimate": 2365
     },
     {
       "ID": "fantasy_draft_knockout_king",
@@ -23166,15 +23171,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 472899,
+      "Progressed": 472904,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-10T16:58:20.0953063+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:08:09.2268888+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:08:20.6108882+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.0729519+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:58:21.9598787+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:08:09.2271014+00:00"
+  "LastUpdate_Ratings": "2023-09-10T18:58:28.9507296+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:08:20.6111217+00:00"
 }

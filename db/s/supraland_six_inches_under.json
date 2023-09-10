@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -2168,9 +2168,9 @@
       "ID": "TrickleDown",
       "SetID": "5lok9mm",
       "Name": "Trickle Down Economy",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1719
     },
     {
       "ID": "Win",
@@ -2192,8 +2192,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-30T16:59:25.1228046+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:04:32.7957077+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:04:53.7974274+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.5185713+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:57:31.3541331+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:04:32.7957647+00:00"
+  "LastUpdate_Ratings": "2023-09-10T18:57:37.3659505+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:04:53.7974797+00:00"
 }

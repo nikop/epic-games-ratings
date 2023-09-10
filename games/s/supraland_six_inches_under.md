@@ -40,7 +40,7 @@ Number of Ratings: 209  (23.09.2022)
 | Inner Peace | 78.00% | ~1,742 |
 | Diamond Pickaxe | 77.00% | ~1,719 |
 | Killed them all | 77.00% | ~1,719 |
-| Trickle Down Economy | 76.00% | ~1,697 |
+| Trickle Down Economy | 77.00% | ~1,719 |
 | Win | 76.00% | ~1,697 |
 | Greenhouse | 72.00% | ~1,608 |
 | Played with fire | 70.00% | ~1,563 |

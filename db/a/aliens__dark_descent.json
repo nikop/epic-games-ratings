@@ -4281,9 +4281,9 @@
       "ID": "ACH_KILL_XENOS",
       "SetID": "816efe",
       "Name": "Cleaning Lethe, One Nest At A Time",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2199
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4337,9 +4337,9 @@
       "ID": "ACH_MAX_SERGEANT",
       "SetID": "816efe",
       "Name": "Come on, You Wanna Live Forever?",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -4530,8 +4530,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-09T16:57:24.5411658+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:04:55.4279678+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:05:16.2120084+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.1114534+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:57:45.7808279+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:04:55.4280301+00:00"
+  "LastUpdate_Ratings": "2023-09-10T18:57:52.4713724+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:05:16.2120675+00:00"
 }

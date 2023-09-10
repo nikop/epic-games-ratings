@@ -6,34 +6,34 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,178 |
-| Right Back At Ya | 39.00% | ~341,492 |
-| The Lovers | 35.00% | ~306,467 |
-| Stanislavski's Method | 29.00% | ~253,930 |
-| The Wheel of Fortune | 28.00% | ~245,174 |
-| The Hermit | 25.00% | ~218,905 |
-| Christmas Tree Attack | 23.00% | ~201,393 |
-| True Soldier | 23.00% | ~201,393 |
-| The High Priestess | 22.00% | ~192,636 |
-| Legend of The Afterlife | 22.00% | ~192,636 |
-| Life of the Road | 21.00% | ~183,880 |
-| Full Body Conversion | 18.00% | ~157,612 |
-| The World | 18.00% | ~157,612 |
-| Bushido and Chill | 17.00% | ~148,855 |
-| Gun Fu | 15.00% | ~131,343 |
-| True Warrior | 15.00% | ~131,343 |
-| To Protect and Serve | 14.00% | ~122,587 |
-| Master Crafter | 14.00% | ~122,587 |
-| I Am The Law | 14.00% | ~122,587 |
-| Judy vs Night City | 14.00% | ~122,587 |
-| Two Heads, One Bullet | 12.00% | ~105,074 |
-| The Wandering Fool | 10.00% | ~87,562 |
-| The Quick and the Dead | 10.00% | ~87,562 |
-| Ten out of Ten | 9.00% | ~78,806 |
-| Breathtaking | 8.00% | ~70,050 |
-| To Bad Decisions! | 7.00% | ~61,293 |
-| The Star | 7.00% | ~61,293 |
-| The Sun | 7.00% | ~61,293 |
+| The Fool | 69.00% | ~604,187 |
+| Right Back At Ya | 39.00% | ~341,497 |
+| The Lovers | 35.00% | ~306,472 |
+| Stanislavski's Method | 29.00% | ~253,934 |
+| The Wheel of Fortune | 28.00% | ~245,177 |
+| The Hermit | 25.00% | ~218,908 |
+| Christmas Tree Attack | 23.00% | ~201,396 |
+| True Soldier | 23.00% | ~201,396 |
+| The High Priestess | 22.00% | ~192,639 |
+| Legend of The Afterlife | 22.00% | ~192,639 |
+| Life of the Road | 21.00% | ~183,883 |
+| Full Body Conversion | 18.00% | ~157,614 |
+| The World | 18.00% | ~157,614 |
+| Bushido and Chill | 17.00% | ~148,858 |
+| Gun Fu | 15.00% | ~131,345 |
+| True Warrior | 15.00% | ~131,345 |
+| To Protect and Serve | 14.00% | ~122,589 |
+| Master Crafter | 14.00% | ~122,589 |
+| I Am The Law | 14.00% | ~122,589 |
+| Judy vs Night City | 14.00% | ~122,589 |
+| Two Heads, One Bullet | 12.00% | ~105,076 |
+| The Wandering Fool | 10.00% | ~87,563 |
+| The Quick and the Dead | 10.00% | ~87,563 |
+| Ten out of Ten | 9.00% | ~78,807 |
+| Breathtaking | 8.00% | ~70,051 |
+| To Bad Decisions! | 7.00% | ~61,294 |
+| The Star | 7.00% | ~61,294 |
+| The Sun | 7.00% | ~61,294 |
 | Must Be Rats | 4.00% | ~35,025 |
 | Temperance | 4.00% | ~35,025 |
 | City Lights | 3.00% | ~26,269 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,269 |
 | V for Vendetta | 3.00% | ~26,269 |
 | It's Elementary | 3.00% | ~26,269 |
-| Autojock | 2.00% | ~17,512 |
-| Frequent Flyer | 2.00% | ~17,512 |
-| Daemon In The Shell | 2.00% | ~17,512 |
-| The Devil | 2.00% | ~17,512 |
+| Autojock | 2.00% | ~17,513 |
+| Frequent Flyer | 2.00% | ~17,513 |
+| Daemon In The Shell | 2.00% | ~17,513 |
+| The Devil | 2.00% | ~17,513 |
 | Gunslinger | 1.00% | ~8,756 |
 | Rough Landing | 0.50% | ~4,378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,620 (Ranked 14)  
+Progressed: 875,633 (Ranked 14)  
 Completed: 2,075 (0.24%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,17 +194,17 @@ Completed: 2,075 (0.24%) (Ranked 189)
 | 2023-09-07 | 875,089 | 2,069 |
 | 2023-09-08 | 875,261 | 2,071 |
 | 2023-09-09 | 875,450 | 2,075 |
-| 2023-09-10 | 875,620 | 2,075 |
+| 2023-09-10 | 875,633 | 2,075 |
 ## Awards
 Max (Character Customization): 78,099  (Ranked 9)  
-Sum: 208,222 (Ranked 13)  
+Sum: 208,292 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 78,099 |
 | This game has Great Boss Battles | 50,744 |
-| This game is Great for Beginners | 9,399 |
-| This game has Diverse Characters | 9,358 |
+| This game is Great for Beginners | 9,439 |
+| This game has Diverse Characters | 9,388 |
 | This game has Amazing Storytelling | 9,324 |
 | This game is Highly Recommended | 9,193 |
 | This game is Extremely Fun | 9,162 |
@@ -449,4 +449,4 @@ Diff (max vs sum): -4
 | 2023-09-07 | 4.62 | - | 77,726 | 206,995 |
 | 2023-09-08 | 4.62 | - | 77,833 | 207,410 |
 | 2023-09-09 | 4.62 | - | 77,946 | 207,885 |
-| 2023-09-10 | 4.62 | - | 78,099 | 208,222 |
+| 2023-09-10 | 4.62 | - | 78,099 | 208,292 |

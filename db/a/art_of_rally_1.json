@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10223,
+  "EOS_Progressed": 10224,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1406,6 +1406,11 @@
       "Time": "2023-09-10T16:04:45.7975926+00:00",
       "NumProgressed": 10223,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-10T19:05:06.3701143+00:00",
+      "NumProgressed": 10224,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -1457,7 +1462,7 @@
       "Name": "bicycle race",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "ACH_CAR_WASH",
@@ -1465,7 +1470,7 @@
       "Name": "car wash",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -1521,7 +1526,7 @@
       "Name": "grocery-getter",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 4089
+      "UsersEstimate": 4090
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -1625,7 +1630,7 @@
       "Name": "brail",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5827
+      "UsersEstimate": 5828
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -1641,7 +1646,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9814
+      "UsersEstimate": 9815
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -1729,7 +1734,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -1760,15 +1765,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10223,
+      "Progressed": 10224,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:04:44.7568786+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:05:06.3701139+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:34.0460779+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:59:18.4330294+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:04:44.7569207+00:00"
+  "LastUpdate_Ratings": "2023-09-10T18:59:26.2971066+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:05:06.3701494+00:00"
 }

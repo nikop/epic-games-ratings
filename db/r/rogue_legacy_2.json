@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1413,9 +1413,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23040,
+  "EOS_Progressed": 23041,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7573,6 +7573,11 @@
       "Time": "2023-09-10T18:05:11.1125482+00:00",
       "NumProgressed": 23040,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-09-10T19:05:31.6448966+00:00",
+      "NumProgressed": 23041,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -7646,9 +7651,9 @@
       "ID": "BossBridgeDefeated",
       "SetID": "3ojhj46",
       "Name": "Captain and Crew",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 461
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -7895,21 +7900,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23040,
+      "Progressed": 23041,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1970,
+      "Progressed": 1971,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-09-10T09:01:32.6071333+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:05:11.1125476+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:05:31.644896+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.659404+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:00:31.9758773+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:05:11.1126178+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:00:40.7538365+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:05:31.644962+00:00"
 }

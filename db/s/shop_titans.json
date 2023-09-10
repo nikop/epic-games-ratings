@@ -5888,10 +5888,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27200,
       "NumberOfAwardsMax": 4733
+    },
+    {
+      "Time": "2023-09-10T19:00:22.3672839+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27202,
+      "NumberOfAwardsMax": 4733
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27200,
+  "NumberOfAwards": 27202,
   "NumberOfAwardsMax": 4733,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5917,7 +5923,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3683
+      "Count": 3685
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5944,7 +5950,7 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135990,
+  "EOS_Progressed": 135993,
   "EOS_Completed": 148,
   "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 7,
@@ -20669,6 +20675,11 @@
       "Time": "2023-09-10T18:05:58.4039194+00:00",
       "NumProgressed": 135990,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2023-09-10T19:06:20.1218351+00:00",
+      "NumProgressed": 135993,
+      "NumCompleted": 148
     }
   ],
   "TotalAchievements": 112,
@@ -21510,9 +21521,9 @@
       "ID": "typeunlock01",
       "SetID": "anfd17p",
       "Name": "All Accounted For",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 408
     },
     {
       "ID": "uncommonres01",
@@ -21550,9 +21561,9 @@
       "ID": "workers02",
       "SetID": "anfd17p",
       "Name": "Arcane Industries",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 952
     },
     {
       "ID": "workers03",
@@ -21575,15 +21586,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135990,
+      "Progressed": 135993,
       "Completed": 148
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-10T07:00:34.4187497+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:05:58.4039187+00:00",
+  "LastChanged": "2023-09-10T19:00:22.3672837+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:06:20.1218346+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:00:13.8186756+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:05:58.4041678+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:00:22.3672844+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:06:20.1220746+00:00"
 }

@@ -29,6 +29,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Where it Hurts | 0.70% | ~952 |
 | Gild-Gotten Goods | 0.70% | ~952 |
 | Did we pack lunch? | 0.70% | ~952 |
+| Arcane Industries | 0.70% | ~952 |
 | On the Path to Greatness | 0.60% | ~816 |
 | Ascended | 0.60% | ~816 |
 | Vanity, Verily | 0.60% | ~816 |
@@ -38,7 +39,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.60% | ~816 |
 | Accomplished Merchant | 0.60% | ~816 |
 | Natural 20 | 0.60% | ~816 |
-| Arcane Industries | 0.60% | ~816 |
 | Tax not Included | 0.50% | ~680 |
 | Research & Development | 0.50% | ~680 |
 | Fated Encounters | 0.50% | ~680 |
@@ -99,13 +99,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.30% | ~408 |
 | Bountiful Harvest | 0.30% | ~408 |
 | Master Recycler | 0.30% | ~408 |
+| All Accounted For | 0.30% | ~408 |
 | Economy of Scarce | 0.30% | ~408 |
 | King's Blade | 0.30% | ~408 |
 | The Free Encyclopedia | 0.20% | ~272 |
 | Thank You Tom Nook | 0.20% | ~272 |
 | All or Nothing! | 0.20% | ~272 |
 | Eternal Crusade | 0.20% | ~272 |
-| All Accounted For | 0.20% | ~272 |
 | Bane of Legends | 0.10% | ~136 |
 | Ultimate Collector | 0.10% | ~136 |
 | Oligarch Monarch | 0.10% | ~136 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,990 (Ranked 68)  
+Progressed: 135,993 (Ranked 68)  
 Completed: 148 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,10 +262,10 @@ Completed: 148 (0.11%) (Ranked 216)
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
 | 2023-09-09 | 135,932 | 147 |
-| 2023-09-10 | 135,990 | 148 |
+| 2023-09-10 | 135,993 | 148 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 71)  
-Sum: 27,200 (Ranked 48)  
+Sum: 27,202 (Ranked 48)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -274,7 +274,7 @@ Diff (max vs sum): 23
 | This game has Quickly Understood Controls | 3,993 |
 | This game has Diverse Characters | 3,873 |
 | This game is Highly Recommended | 3,741 |
-| This game has Easy Combat | 3,683 |
+| This game has Easy Combat | 3,685 |
 | This game has Playful Visuals | 3,169 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -506,4 +506,4 @@ Diff (max vs sum): 23
 | 2023-09-07 | 3.99 | - | 4,727 | 27,184 |
 | 2023-09-08 | 3.99 | - | 4,730 | 27,189 |
 | 2023-09-09 | 3.99 | - | 4,733 | 27,199 |
-| 2023-09-10 | 3.99 | - | 4,733 | 27,200 |
+| 2023-09-10 | 3.99 | - | 4,733 | 27,202 |

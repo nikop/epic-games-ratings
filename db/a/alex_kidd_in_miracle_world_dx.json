@@ -2,9 +2,9 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 293,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
@@ -356,6 +356,11 @@
       "Time": "2023-09-10T15:08:45.4657852+00:00",
       "NumProgressed": 291,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-10T19:07:04.9945783+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -399,7 +404,7 @@
       "Name": "Second Commander",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "EGLE_FREED",
@@ -415,7 +420,7 @@
       "Name": "First Commander",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -439,7 +444,7 @@
       "Name": "Adventurer",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -461,9 +466,9 @@
       "ID": "OX_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Wild Ox",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 132
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -494,7 +499,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 293,
       "Completed": 4
     }
   ],
@@ -502,8 +507,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:06:42.962258+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:07:04.9945777+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:10.9300024+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:59:45.1545979+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:06:42.962271+00:00"
+  "LastUpdate_Ratings": "2023-09-10T18:59:53.1371196+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:07:04.9945929+00:00"
 }

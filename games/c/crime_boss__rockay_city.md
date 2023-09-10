@@ -5,45 +5,45 @@ Rating: 3.93 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 70.00% | ~60,056 |
-| First One’s Free | 61.00% | ~52,334 |
-| Neophyte Ninja | 48.00% | ~41,181 |
-| Too Old for This | 43.00% | ~36,891 |
-| Fancy Pants | 32.00% | ~27,454 |
-| Case Closed | 31.00% | ~26,596 |
-| King of the Hill | 30.00% | ~25,738 |
-| Underworld Initiate | 26.00% | ~22,306 |
-| Roid Ranger | 19.00% | ~16,301 |
-| Off the Rocks | 17.00% | ~14,585 |
-| True Player | 16.00% | ~13,727 |
-| Dragonslayer | 16.00% | ~13,727 |
-| Raider’s Ruin | 15.00% | ~12,869 |
-| Hidden Sonata | 12.00% | ~10,295 |
-| Rockay Rex | 10.00% | ~8,579 |
-| Freebooter | 9.00% | ~7,721 |
-| Track Star | 8.00% | ~6,864 |
-| Headhunter | 8.00% | ~6,864 |
-| Classy Joint | 8.00% | ~6,864 |
-| I Like Trains | 7.00% | ~6,006 |
-| Ding Dong | 7.00% | ~6,006 |
-| Foo Finder | 6.00% | ~5,148 |
-| Savvy Seeker | 5.00% | ~4,290 |
-| Legend Looter | 4.00% | ~3,432 |
-| Imports and Exports | 4.00% | ~3,432 |
-| Olympus Ascended | 4.00% | ~3,432 |
-| Red Star | 4.00% | ~3,432 |
-| Privateer | 3.00% | ~2,574 |
-| Groundhog Days | 3.00% | ~2,574 |
-| Cracked the Jack | 3.00% | ~2,574 |
-| Rockay Raider | 2.00% | ~1,716 |
-| Moneybags | 2.00% | ~1,716 |
-| Impossible Dreamer | 2.00% | ~1,716 |
-| Rockay Knight | 1.00% | ~858 |
-| Talent Scout | 1.00% | ~858 |
+| Downed but Not Outed | 70.00% | ~60,118 |
+| First One’s Free | 61.00% | ~52,389 |
+| Neophyte Ninja | 48.00% | ~41,224 |
+| Too Old for This | 43.00% | ~36,930 |
+| Fancy Pants | 32.00% | ~27,483 |
+| Case Closed | 31.00% | ~26,624 |
+| King of the Hill | 30.00% | ~25,765 |
+| Underworld Initiate | 26.00% | ~22,330 |
+| Roid Ranger | 19.00% | ~16,318 |
+| Off the Rocks | 17.00% | ~14,600 |
+| True Player | 16.00% | ~13,741 |
+| Dragonslayer | 16.00% | ~13,741 |
+| Raider’s Ruin | 15.00% | ~12,882 |
+| Hidden Sonata | 12.00% | ~10,306 |
+| Rockay Rex | 10.00% | ~8,588 |
+| Freebooter | 9.00% | ~7,729 |
+| Track Star | 8.00% | ~6,871 |
+| Headhunter | 8.00% | ~6,871 |
+| Classy Joint | 8.00% | ~6,871 |
+| I Like Trains | 7.00% | ~6,012 |
+| Ding Dong | 7.00% | ~6,012 |
+| Foo Finder | 6.00% | ~5,153 |
+| Savvy Seeker | 5.00% | ~4,294 |
+| Legend Looter | 4.00% | ~3,435 |
+| Imports and Exports | 4.00% | ~3,435 |
+| Olympus Ascended | 4.00% | ~3,435 |
+| Red Star | 4.00% | ~3,435 |
+| Privateer | 3.00% | ~2,576 |
+| Groundhog Days | 3.00% | ~2,576 |
+| Cracked the Jack | 3.00% | ~2,576 |
+| Rockay Raider | 2.00% | ~1,718 |
+| Moneybags | 2.00% | ~1,718 |
+| Impossible Dreamer | 2.00% | ~1,718 |
+| Rockay Knight | 1.00% | ~859 |
+| Talent Scout | 1.00% | ~859 |
 | Geek Out | 0.50% | ~429 |
 | Full House | 0.20% | ~172 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85,794 (Ranked 76)  
+Progressed: 85,883 (Ranked 76)  
 Completed: 43 (0.05%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,15 +186,15 @@ Completed: 43 (0.05%) (Ranked 237)
 | 2023-09-07 | 73,678 | 43 |
 | 2023-09-08 | 79,713 | 43 |
 | 2023-09-09 | 84,070 | 43 |
-| 2023-09-10 | 85,794 | 43 |
+| 2023-09-10 | 85,883 | 43 |
 ## Awards
 Max (Diverse Characters): 423  (Ranked 211)  
-Sum: 2,015 (Ranked 201)  
+Sum: 2,017 (Ranked 201)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 423 |
-| This game has Quickly Understood Controls | 412 |
+| This game has Quickly Understood Controls | 414 |
 | This game is Highly Recommended | 403 |
 | This game has Challenging Combat | 391 |
 | This game has Amazing Characters | 386 |
@@ -366,4 +366,4 @@ Diff (max vs sum): 10
 | 2023-09-07 | 3.94 | 417 | 1,990 |
 | 2023-09-08 | 3.94 | 418 | 1,995 |
 | 2023-09-09 | 3.93 | 423 | 2,007 |
-| 2023-09-10 | 3.93 | 423 | 2,015 |
+| 2023-09-10 | 3.93 | 423 | 2,017 |

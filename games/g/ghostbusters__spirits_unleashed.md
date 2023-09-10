@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~22,132 |
+| Stylish | 86.00% | ~22,133 |
 | Advancement | 73.00% | ~18,787 |
-| Meticulously Efficient | 63.00% | ~16,213 |
-| Discovery | 60.00% | ~15,441 |
+| Meticulously Efficient | 63.00% | ~16,214 |
+| Discovery | 60.00% | ~15,442 |
 | Fully Upgraded | 53.00% | ~13,640 |
 | Swift Rift Removers | 53.00% | ~13,640 |
 | I collect Spores, Molds, and Fungi | 51.00% | ~13,125 |
@@ -17,21 +17,21 @@ Rating: 4.50 (Ranked 565)
 | Teamwork | 43.00% | ~11,066 |
 | There you are! | 42.00% | ~10,809 |
 | Clutch Capture | 40.00% | ~10,294 |
-| Back Off | 35.00% | ~9,007 |
+| Back Off | 35.00% | ~9,008 |
 | Daily Dose | 34.00% | ~8,750 |
 | Solo Capture | 33.00% | ~8,493 |
 | Welcome to the Crew | 31.00% | ~7,978 |
-| Ghostbuster In Training | 30.00% | ~7,720 |
-| Icing on the Cake | 30.00% | ~7,720 |
-| Side Hustle | 27.00% | ~6,948 |
-| Summoner | 27.00% | ~6,948 |
+| Ghostbuster In Training | 30.00% | ~7,721 |
+| Icing on the Cake | 30.00% | ~7,721 |
+| Side Hustle | 27.00% | ~6,949 |
+| Summoner | 27.00% | ~6,949 |
 | We have the best insurance | 26.00% | ~6,691 |
 | Legions | 26.00% | ~6,691 |
 | Right back at ya | 26.00% | ~6,691 |
 | Animated | 25.00% | ~6,434 |
 | Pesky Jerks | 25.00% | ~6,434 |
 | Stunner | 25.00% | ~6,434 |
-| Skilled | 24.00% | ~6,176 |
+| Skilled | 24.00% | ~6,177 |
 | Collector | 23.00% | ~5,919 |
 | Ectoplasmic Entity | 23.00% | ~5,919 |
 | Rift Destroyer | 19.00% | ~4,890 |
@@ -46,8 +46,8 @@ Rating: 4.50 (Ranked 565)
 | Rivalry | 10.00% | ~2,574 |
 | Fragile Panes | 9.00% | ~2,316 |
 | Surprise! | 9.00% | ~2,316 |
-| Rift Seeker | 7.00% | ~1,801 |
-| Therapeutic | 7.00% | ~1,801 |
+| Rift Seeker | 7.00% | ~1,802 |
+| Therapeutic | 7.00% | ~1,802 |
 | Master Collector | 6.00% | ~1,544 |
 | Ghost Expert | 3.00% | ~772 |
 | Catostrophic Destroyer | 2.00% | ~515 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 565)
 | I don't need these | 1.00% | ~257 |
 | Mycophile | 1.00% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,735 (Ranked 103)  
+Progressed: 25,736 (Ranked 103)  
 Completed: 55 (0.21%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 55 (0.21%) (Ranked 195)
 | 2023-09-07 | 25,663 | 54 |
 | 2023-09-08 | 25,689 | 55 |
 | 2023-09-09 | 25,714 | 55 |
-| 2023-09-10 | 25,735 | 55 |
+| 2023-09-10 | 25,736 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 251  (Ranked 255)  
-Sum: 2,292 (Ranked 189)  
+Sum: 2,293 (Ranked 189)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -216,7 +216,7 @@ Diff (max vs sum): 66
 | This game is Highly Recommended | 225 |
 | This game is Relaxing | 222 |
 | This game has Amazing Characters | 214 |
-| This game has Quickly Understood Controls | 212 |
+| This game has Quickly Understood Controls | 213 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -376,4 +376,4 @@ Diff (max vs sum): 66
 | 2023-09-07 | 4.49 | 251 | 2,280 |
 | 2023-09-08 | 4.49 | 251 | 2,284 |
 | 2023-09-09 | 4.49 | 251 | 2,288 |
-| 2023-09-10 | 4.50 | 251 | 2,292 |
+| 2023-09-10 | 4.50 | 251 | 2,293 |

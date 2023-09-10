@@ -7,32 +7,32 @@ Rating: 4.54 (Ranked 502)
 | ---- | ---------- | ----- |
 | Hotel California | 2.00% | ~13,549 |
 | Welcome To Hell-A | 2.00% | ~13,549 |
-| Dr. Reed, I Presume? | 1.00% | ~6,774 |
-| Git Gutte! | 1.00% | ~6,774 |
-| Bookworm | 1.00% | ~6,774 |
-| Break A Leg | 1.00% | ~6,774 |
-| But Doctor, I am Butcho | 1.00% | ~6,774 |
-| Slayer Squad | 1.00% | ~6,774 |
-| Can't Handle the Truth | 1.00% | ~6,774 |
-| Coup de Grâce | 1.00% | ~6,774 |
-| Like Riding a Bike | 1.00% | ~6,774 |
-| Hazardous Materials | 1.00% | ~6,774 |
-| Friends Like These | 1.00% | ~6,774 |
-| Apex Predator | 1.00% | ~6,774 |
-| Zombologist | 1.00% | ~6,774 |
-| A Patton Emerges | 1.00% | ~6,774 |
-| Stacking the Deck | 1.00% | ~6,774 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,774 |
-| This is My Weapon | 1.00% | ~6,774 |
+| Dr. Reed, I Presume? | 1.00% | ~6,775 |
+| Git Gutte! | 1.00% | ~6,775 |
+| Bookworm | 1.00% | ~6,775 |
+| Break A Leg | 1.00% | ~6,775 |
+| But Doctor, I am Butcho | 1.00% | ~6,775 |
+| Slayer Squad | 1.00% | ~6,775 |
+| Can't Handle the Truth | 1.00% | ~6,775 |
+| Coup de Grâce | 1.00% | ~6,775 |
+| Like Riding a Bike | 1.00% | ~6,775 |
+| Hazardous Materials | 1.00% | ~6,775 |
+| Friends Like These | 1.00% | ~6,775 |
+| Apex Predator | 1.00% | ~6,775 |
+| Zombologist | 1.00% | ~6,775 |
+| A Patton Emerges | 1.00% | ~6,775 |
+| Stacking the Deck | 1.00% | ~6,775 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,775 |
+| This is My Weapon | 1.00% | ~6,775 |
 | Ooh, Shiny! | 0.90% | ~6,097 |
 | I Am the Resurrection | 0.90% | ~6,097 |
 | Our True Nature | 0.90% | ~6,097 |
-| Anger Management | 0.80% | ~5,419 |
-| Perks of the Job | 0.80% | ~5,419 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,419 |
+| Anger Management | 0.80% | ~5,420 |
+| Perks of the Job | 0.80% | ~5,420 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,420 |
 | Making Your Mark | 0.70% | ~4,742 |
 | Humanity Distilled | 0.70% | ~4,742 |
-| Down with the Sickness | 0.60% | ~4,065 |
+| Down with the Sickness | 0.70% | ~4,742 |
 | Max Headroom | 0.60% | ~4,065 |
 | Go, Bobcats! | 0.50% | ~3,387 |
 | Rising Star | 0.50% | ~3,387 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~677 |
 | Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,426 (Ranked 22)  
+Progressed: 677,473 (Ranked 22)  
 Completed: 2,133 (0.31%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 2,133 (0.31%) (Ranked 178)
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
-| 2023-09-10 | 677,426 | 2,133 |
+| 2023-09-10 | 677,473 | 2,133 |
 ## Awards
 Max (Great Boss Battles): 5,990  (Ranked 58)  
 Sum: 8,854 (Ranked 94)  

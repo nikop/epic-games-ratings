@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 5.00% | ~692 |
-| Settler | 5.00% | ~692 |
-| Play a Single Player Game | 5.00% | ~692 |
-| The Clergy | 5.00% | ~692 |
+| Explorer | 5.00% | ~693 |
+| Settler | 5.00% | ~693 |
+| Play a Single Player Game | 5.00% | ~693 |
+| The Clergy | 5.00% | ~693 |
 | Intrepid | 4.00% | ~554 |
 | Friendly Family | 4.00% | ~554 |
 | Able | 3.00% | ~416 |
@@ -68,37 +68,37 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 2.00% | ~277 |
 | Mythology | 2.00% | ~277 |
 | Poetic Leader | 2.00% | ~277 |
-| Hanging Gardens in Babylon | 1.00% | ~138 |
-| Beloved | 1.00% | ~138 |
-| Conqueror | 1.00% | ~138 |
-| Lion | 1.00% | ~138 |
-| Mighty | 1.00% | ~138 |
-| Victorious | 1.00% | ~138 |
-| Good Difficulty | 1.00% | ~138 |
-| Just Difficulty | 1.00% | ~138 |
-| Champions | 1.00% | ~138 |
-| Patrons | 1.00% | ~138 |
-| Sages | 1.00% | ~138 |
-| Statesmen | 1.00% | ~138 |
-| Traders | 1.00% | ~138 |
-| Hittite Iron | 1.00% | ~138 |
-| Hagia Sophia | 1.00% | ~138 |
-| Temple of Solomon | 1.00% | ~138 |
-| Mausoleum | 1.00% | ~138 |
-| Pantheon | 1.00% | ~138 |
-| Via Recta Souk | 1.00% | ~138 |
-| Learn to Play 3 | 1.00% | ~138 |
-| Greece | 1.00% | ~138 |
-| Power to the People | 1.00% | ~138 |
-| Persian Paganism | 1.00% | ~138 |
-| Building Wonders | 1.00% | ~138 |
-| Economic Reform | 1.00% | ~138 |
-| Dualism | 1.00% | ~138 |
-| Legalism | 1.00% | ~138 |
-| Redemption | 1.00% | ~138 |
-| Legionary | 1.00% | ~138 |
-| Phalangite | 1.00% | ~138 |
-| Points Victory | 1.00% | ~138 |
+| Hanging Gardens in Babylon | 1.00% | ~139 |
+| Beloved | 1.00% | ~139 |
+| Conqueror | 1.00% | ~139 |
+| Lion | 1.00% | ~139 |
+| Mighty | 1.00% | ~139 |
+| Victorious | 1.00% | ~139 |
+| Good Difficulty | 1.00% | ~139 |
+| Just Difficulty | 1.00% | ~139 |
+| Champions | 1.00% | ~139 |
+| Patrons | 1.00% | ~139 |
+| Sages | 1.00% | ~139 |
+| Statesmen | 1.00% | ~139 |
+| Traders | 1.00% | ~139 |
+| Hittite Iron | 1.00% | ~139 |
+| Hagia Sophia | 1.00% | ~139 |
+| Temple of Solomon | 1.00% | ~139 |
+| Mausoleum | 1.00% | ~139 |
+| Pantheon | 1.00% | ~139 |
+| Via Recta Souk | 1.00% | ~139 |
+| Learn to Play 3 | 1.00% | ~139 |
+| Greece | 1.00% | ~139 |
+| Power to the People | 1.00% | ~139 |
+| Persian Paganism | 1.00% | ~139 |
+| Building Wonders | 1.00% | ~139 |
+| Economic Reform | 1.00% | ~139 |
+| Dualism | 1.00% | ~139 |
+| Legalism | 1.00% | ~139 |
+| Redemption | 1.00% | ~139 |
+| Legionary | 1.00% | ~139 |
+| Phalangite | 1.00% | ~139 |
+| Points Victory | 1.00% | ~139 |
 | Capable | 0.90% | ~125 |
 | Invincible | 0.90% | ~125 |
 | Ready | 0.90% | ~125 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,850 (Ranked 122)  
+Progressed: 13,851 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 5 (0.04%) (Ranked 241)
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
 | 2023-09-09 | 13,831 | 5 |
-| 2023-09-10 | 13,850 | 5 |
+| 2023-09-10 | 13,851 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

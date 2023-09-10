@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3162,
+  "EOS_Progressed": 3163,
   "EOS_Completed": 171,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 3,
@@ -4590,6 +4590,11 @@
       "Time": "2023-09-10T18:06:26.8666062+00:00",
       "NumProgressed": 3162,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-09-10T19:06:48.575027+00:00",
+      "NumProgressed": 3163,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 24,
@@ -4697,7 +4702,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "21",
@@ -4753,7 +4758,7 @@
       "Name": "ROOKIE",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "6",
@@ -4777,7 +4782,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "9",
@@ -4792,13 +4797,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3162,
+      "Progressed": 3163,
       "Completed": 171
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:06:26.8666055+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:06:48.5750264+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:18.3778011+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:00:35.3684984+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:06:26.8666519+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:00:44.3690177+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:06:48.5750716+00:00"
 }

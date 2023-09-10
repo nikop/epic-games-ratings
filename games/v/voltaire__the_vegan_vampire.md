@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So it begins | 91.00% | ~103 |
-| Good to grow | 63.00% | ~71 |
+| Good to grow | 64.00% | ~72 |
 | Fashionista | 40.00% | ~45 |
 | Irrigation not irritation | 36.00% | ~41 |
 | Graduated | 32.00% | ~36 |

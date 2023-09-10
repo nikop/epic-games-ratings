@@ -8,7 +8,7 @@ Rating: 4.48 (Ranked 601)
 | This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,652 |
 | Snatched Out | 75.00% | ~2,426 |
 | Keep 'Em Coming | 74.00% | ~2,393 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,167 |
+| Cleaning Lethe, One Nest At A Time | 68.00% | ~2,199 |
 | Call Me Snake | 63.00% | ~2,037 |
 | Something Lurks Under The Hills | 61.00% | ~1,973 |
 | This Was No Papercut | 60.00% | ~1,940 |
@@ -28,7 +28,7 @@ Rating: 4.48 (Ranked 601)
 | The Darwin Era Was Here | 30.00% | ~970 |
 | Deep Into Insanity | 28.00% | ~906 |
 | The Passenger | 28.00% | ~906 |
-| Come on, You Wanna Live Forever? | 26.00% | ~841 |
+| Come on, You Wanna Live Forever? | 27.00% | ~873 |
 | The Spire | 25.00% | ~808 |
 | El Riesgo Siempre Vive | 24.00% | ~776 |
 | Stuff Of Nightmares | 23.00% | ~744 |

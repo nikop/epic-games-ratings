@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 860,
+  "EOS_Progressed": 861,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2120,6 +2120,11 @@
       "Time": "2023-09-10T18:05:30.2173868+00:00",
       "NumProgressed": 860,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T19:05:51.5671207+00:00",
+      "NumProgressed": 861,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2139,7 +2144,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2155,7 +2160,7 @@
       "Name": "Treasure Trove",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -2323,7 +2328,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "MapCompletion1",
@@ -2371,7 +2376,7 @@
       "Name": "Time Flies",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ParryBoss",
@@ -2379,7 +2384,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ParryRepeated1",
@@ -2387,7 +2392,7 @@
       "Name": "No, Thanks!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2395,7 +2400,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2427,7 +2432,7 @@
       "Name": "Honest Mistake",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2515,7 +2520,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "WatcherFought",
@@ -2529,9 +2534,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 95
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2539,7 +2544,7 @@
       "Name": "The Brass Boss",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2554,7 +2559,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 860,
+      "Progressed": 861,
       "Completed": 5
     }
   ],
@@ -2562,8 +2567,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:05:30.2173862+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:05:51.5671202+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:57:32.3992308+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:05:30.2174471+00:00"
+  "LastUpdate_Ratings": "2023-09-10T18:57:38.5876331+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:05:51.5671791+00:00"
 }

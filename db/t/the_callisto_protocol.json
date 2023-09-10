@@ -6955,9 +6955,9 @@
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 96
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -7306,8 +7306,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-10T10:59:56.5950944+00:00",
-  "LastChanged_Achievements": "2023-09-10T18:03:52.0252102+00:00",
+  "LastChanged_Achievements": "2023-09-10T19:04:12.4396242+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:20.3899843+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:59:52.6080175+00:00",
-  "LastUpdate_Achievements": "2023-09-10T18:03:52.0252847+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:00:00.9989129+00:00",
+  "LastUpdate_Achievements": "2023-09-10T19:04:12.4396979+00:00"
 }

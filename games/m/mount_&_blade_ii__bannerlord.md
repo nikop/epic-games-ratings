@@ -6,31 +6,31 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~23,696 |
-| Landlord | 32.00% | ~19,443 |
-| Bannerlord | 23.00% | ~13,974 |
-| Horde breaker | 23.00% | ~13,974 |
-| Lawmaker | 23.00% | ~13,974 |
-| Trained | 22.00% | ~13,367 |
-| The king is pleased | 18.00% | ~10,936 |
-| King Solomon | 17.00% | ~10,329 |
+| Lawbringer | 39.00% | ~23,698 |
+| Landlord | 32.00% | ~19,444 |
+| Bannerlord | 23.00% | ~13,975 |
+| Horde breaker | 23.00% | ~13,975 |
+| Lawmaker | 23.00% | ~13,975 |
+| Trained | 22.00% | ~13,368 |
+| The king is pleased | 18.00% | ~10,937 |
+| King Solomon | 17.00% | ~10,330 |
 | Apple of my eye | 15.00% | ~9,114 |
 | I can do it | 15.00% | ~9,114 |
 | God of the Arena | 13.00% | ~7,899 |
-| Against all odds | 12.00% | ~7,291 |
-| This Is Our Land | 11.00% | ~6,683 |
+| Against all odds | 12.00% | ~7,292 |
+| This Is Our Land | 11.00% | ~6,684 |
 | Duelist | 10.00% | ~6,076 |
 | Swordbearer | 10.00% | ~6,076 |
-| Dynasty | 9.00% | ~5,468 |
-| I spit on your grave | 9.00% | ~5,468 |
-| What have the Romans ever done for us? | 9.00% | ~5,468 |
+| Dynasty | 9.00% | ~5,469 |
+| I spit on your grave | 9.00% | ~5,469 |
+| What have the Romans ever done for us? | 9.00% | ~5,469 |
 | Butterlord | 8.00% | ~4,861 |
 | Know your enemy | 7.00% | ~4,253 |
 | Mastery | 7.00% | ~4,253 |
 | Crush your enemies | 5.00% | ~3,038 |
 | My way | 5.00% | ~3,038 |
-| Crowdfunded | 4.00% | ~2,430 |
-| Veni vidi vici | 4.00% | ~2,430 |
+| Crowdfunded | 4.00% | ~2,431 |
+| Veni vidi vici | 4.00% | ~2,431 |
 | Freedom! | 3.00% | ~1,823 |
 | Long live the Empire! | 3.00% | ~1,823 |
 | Real Estate | 3.00% | ~1,823 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,758 (Ranked 88)  
+Progressed: 60,763 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-07 | 60,538 | 0 |
 | 2023-09-08 | 60,607 | 0 |
 | 2023-09-09 | 60,687 | 0 |
-| 2023-09-10 | 60,758 | 0 |
+| 2023-09-10 | 60,763 | 0 |
 ## Awards
 Max (Character Customization): 7,059  (Ranked 50)  
 Sum: 14,371 (Ranked 70)  
