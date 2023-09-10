@@ -33,15 +33,15 @@ Rating: 4.60 (Ranked 392)
 | Cartographer | 15.00% | ~129 |
 | Treasure Trove | 14.00% | ~120 |
 | Whiz Kid | 13.00% | ~112 |
+| Good Neighbor | 12.00% | ~103 |
 | Chaincrawler Explorer | 11.00% | ~94 |
 | Family Memories | 11.00% | ~94 |
-| Good Neighbor | 11.00% | ~94 |
+| Syron for Hope | 10.00% | ~86 |
 | Theater Explorer | 10.00% | ~86 |
 | Ask Questions Later | 10.00% | ~86 |
 | Factorywood Explorer | 9.00% | ~77 |
 | Fairgrounds Explorer | 9.00% | ~77 |
 | Sump Explorer | 9.00% | ~77 |
-| Syron for Hope | 9.00% | ~77 |
 | Cultivair Explorer | 8.00% | ~69 |
 | Entresol Explorer | 8.00% | ~69 |
 | Corin Goes Home | 7.00% | ~60 |

@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,923 |
-| That's a Grand Army | 3.00% | ~11,942 |
-| That is mine! | 3.00% | ~11,942 |
-| Victorious! | 3.00% | ~11,942 |
+| Until death do us apart | 4.00% | ~15,924 |
+| That's a Grand Army | 3.00% | ~11,943 |
+| That is mine! | 3.00% | ~11,943 |
+| Victorious! | 3.00% | ~11,943 |
 | Brothers in Arms | 2.00% | ~7,962 |
 | For the Glory | 2.00% | ~7,962 |
 | That's a Grand Navy | 2.00% | ~7,962 |
@@ -26,10 +26,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.70% | ~2,787 |
 | Royal Authority | 0.70% | ~2,787 |
 | Total Control | 0.70% | ~2,787 |
-| My armies are invincible! | 0.60% | ~2,388 |
-| Agressive Expander | 0.50% | ~1,990 |
-| City of Cities | 0.50% | ~1,990 |
-| Combined Arms | 0.50% | ~1,990 |
+| My armies are invincible! | 0.60% | ~2,389 |
+| Agressive Expander | 0.50% | ~1,991 |
+| City of Cities | 0.50% | ~1,991 |
+| Combined Arms | 0.50% | ~1,991 |
 | Azur semé de lis or | 0.40% | ~1,592 |
 | Gentle Persuasion | 0.40% | ~1,592 |
 | Queen of Conquest | 0.40% | ~1,592 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,081 (Ranked 40)  
+Progressed: 398,107 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -504,7 +504,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 394,982 | 0 |
 | 2023-09-08 | 396,260 | 0 |
 | 2023-09-09 | 397,873 | 0 |
-| 2023-09-10 | 398,081 | 0 |
+| 2023-09-10 | 398,107 | 0 |
 ## Awards
 Max (Educational): 6,006  (Ranked 56)  
 Sum: 49,449 (Ranked 26)  

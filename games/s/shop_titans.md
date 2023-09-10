@@ -19,8 +19,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 1.00% | ~1,359 |
 | Capitalism Ho! | 1.00% | ~1,359 |
 | Own the Means of Production | 1.00% | ~1,359 |
-| One-Armed Bandit | 0.90% | ~1,223 |
-| Through Repetition, Perfection | 0.90% | ~1,223 |
+| One-Armed Bandit | 0.90% | ~1,224 |
+| Through Repetition, Perfection | 0.90% | ~1,224 |
 | The Daily Grind | 0.80% | ~1,088 |
 | Bounty Hunters | 0.80% | ~1,088 |
 | Flooding the Market | 0.80% | ~1,088 |
@@ -81,6 +81,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.40% | ~544 |
 | Attrition Mission | 0.40% | ~544 |
 | Glittering Collection | 0.40% | ~544 |
+| Treasure Trove | 0.40% | ~544 |
 | Moment of Respite | 0.40% | ~544 |
 | Black Friday Special | 0.40% | ~544 |
 | King's Shadow | 0.40% | ~544 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.30% | ~408 |
 | Jackpot! | 0.30% | ~408 |
 | Bountiful Harvest | 0.30% | ~408 |
-| Treasure Trove | 0.30% | ~408 |
 | Master Recycler | 0.30% | ~408 |
 | Economy of Scarce | 0.30% | ~408 |
 | King's Blade | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,944 (Ranked 68)  
+Progressed: 135,948 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
 | 2023-09-09 | 135,932 | 147 |
-| 2023-09-10 | 135,944 | 147 |
+| 2023-09-10 | 135,948 | 147 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 71)  
 Sum: 27,199 (Ranked 48)  

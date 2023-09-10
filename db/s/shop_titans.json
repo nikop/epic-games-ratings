@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5938,10 +5938,10 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135944,
+  "EOS_Progressed": 135948,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 377,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 378,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -20593,6 +20593,11 @@
       "Time": "2023-09-10T03:07:03.9826064+00:00",
       "NumProgressed": 135944,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-09-10T05:05:44.8816852+00:00",
+      "NumProgressed": 135948,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 112,
@@ -21156,7 +21161,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "jackslot02",
@@ -21260,7 +21265,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "master02",
@@ -21354,9 +21359,9 @@
       "ID": "rareres02",
       "SetID": "anfd17p",
       "Name": "Treasure Trove",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 544
     },
     {
       "ID": "rareres03",
@@ -21499,15 +21504,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135944,
+      "Progressed": 135948,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-09T16:59:54.812119+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:07:11.1190179+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:05:44.8816848+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:01:29.172612+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:07:11.1193088+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:59:59.4575214+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:05:44.8819319+00:00"
 }

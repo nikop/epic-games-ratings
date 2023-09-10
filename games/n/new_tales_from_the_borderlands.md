@@ -6,16 +6,16 @@ Rating: 4.09 (Ranked 916)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 50.00% | ~1,808 |
-| Totally Intentional | 45.00% | ~1,627 |
+| Totally Intentional | 45.00% | ~1,628 |
 | Each Sold Separately | 37.00% | ~1,338 |
-| We're In | 33.00% | ~1,193 |
-| You're Not Naked | 29.00% | ~1,048 |
-| From Zeroes... | 29.00% | ~1,048 |
-| Tale in the Toilet | 29.00% | ~1,048 |
-| Don't Get Cocky | 27.00% | ~976 |
+| We're In | 33.00% | ~1,194 |
+| You're Not Naked | 29.00% | ~1,049 |
+| From Zeroes... | 29.00% | ~1,049 |
+| Tale in the Toilet | 29.00% | ~1,049 |
+| Don't Get Cocky | 27.00% | ~977 |
 | Shard Snatchers | 24.00% | ~868 |
-| You Rich Now! | 22.00% | ~795 |
-| Our Lucky Winner | 21.00% | ~759 |
+| You Rich Now! | 22.00% | ~796 |
+| Our Lucky Winner | 21.00% | ~760 |
 | You Poor Now! | 20.00% | ~723 |
 | You Got the Goods, Kid | 20.00% | ~723 |
 | The Shardmenstration | 19.00% | ~687 |
@@ -23,16 +23,16 @@ Rating: 4.09 (Ranked 916)
 | ...To Heroes | 18.00% | ~651 |
 | Mas, Por Favor | 17.00% | ~615 |
 | And Still Champion... | 14.00% | ~506 |
-| Super Trusting Friend! | 9.00% | ~325 |
+| Super Trusting Friend! | 9.00% | ~326 |
 | Bring back the butt! | 4.00% | ~145 |
 | Hey, thanks! | 4.00% | ~145 |
-| Murderous Mascot Mayhem | 3.00% | ~108 |
+| Murderous Mascot Mayhem | 3.00% | ~109 |
 | New Business | 0.90% | ~33 |
 | Okay, Vain Much? | 0.50% | ~18 |
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,615 (Ranked 156)  
+Progressed: 3,617 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,6 +145,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 3,608 | 0 |
 | 2023-09-08 | 3,611 | 0 |
 | 2023-09-09 | 3,615 | 0 |
+| 2023-09-10 | 3,617 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

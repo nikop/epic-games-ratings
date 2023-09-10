@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -561,7 +561,7 @@
       "ID": "Vanilla_ChurchOfAhskul",
       "SetID": "27kik8p",
       "Name": "Watcher",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1258,8 +1258,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:06:09.7396939+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:05:01.992338+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:19.1358671+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:02:01.2499406+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:06:09.7398095+00:00"
+  "LastUpdate_Ratings": "2023-09-10T05:00:20.4373776+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:05:01.9924654+00:00"
 }

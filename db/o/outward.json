@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -4340,9 +4340,9 @@
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1103
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4620,8 +4620,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-08-16T21:59:07.0719809+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:03:36.2149347+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:03:20.1643247+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:16.1068917+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:00:51.2989477+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:03:36.2149979+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:59:34.7770954+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:03:20.1643747+00:00"
 }

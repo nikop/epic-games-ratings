@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4024,
+  "EOS_Progressed": 4025,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6409,6 +6409,11 @@
       "Time": "2023-09-10T02:21:44.8344376+00:00",
       "NumProgressed": 4024,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-10T05:05:02.2873621+00:00",
+      "NumProgressed": 4025,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6452,7 +6457,7 @@
       "Name": "Headliner",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Ach006",
@@ -6460,7 +6465,7 @@
       "Name": "Time to pay up!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Ach007",
@@ -6468,7 +6473,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Ach008",
@@ -6620,7 +6625,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Ach027",
@@ -6644,7 +6649,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Ach030",
@@ -6668,7 +6673,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Ach033",
@@ -6836,7 +6841,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Ach054",
@@ -6987,13 +6992,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4024,
+      "Progressed": 4025,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2545,
+      "Progressed": 2546,
       "Completed": 1929
     }
   ],
@@ -7001,8 +7006,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:06:10.0431875+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:05:02.2873617+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:01:30.3098697+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:06:10.0433253+00:00"
+  "LastUpdate_Ratings": "2023-09-10T05:00:00.306459+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:05:02.2874736+00:00"
 }

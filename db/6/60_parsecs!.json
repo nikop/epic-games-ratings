@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -788,6 +788,11 @@
       "Time": "2023-09-09T22:08:55.3446961+00:00",
       "NumProgressed": 733,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T05:07:03.8674262+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -871,15 +876,15 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 418
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -943,7 +948,7 @@
       "Name": "Friendzone",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -965,17 +970,17 @@
       "ID": "Achievement_HandsFull",
       "SetID": "c01p6e5",
       "Name": "Hands Full",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 95
     },
     {
       "ID": "Achievement_HelloWorld",
       "SetID": "c01p6e5",
       "Name": "Hello World",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 550
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1087,7 +1092,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1095,7 +1100,7 @@
       "Name": "Space Engineer",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1150,7 +1155,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 734,
       "Completed": 1
     }
   ],
@@ -1158,8 +1163,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:09:02.1481317+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:07:03.8674258+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:53.1963294+00:00",
-  "LastUpdate_Ratings": "2023-09-10T03:59:02.78363+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:09:02.1481662+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:58:22.5834699+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:07:03.8674674+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2476,9 +2476,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 86
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2524,9 +2524,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 103
     },
     {
       "ID": "Zarkon1Defeated",
@@ -2557,8 +2557,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:06:34.3881226+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:05:19.0606402+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-10T03:57:35.4483839+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:06:34.3881979+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:57:24.7096194+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:05:19.0606996+00:00"
 }

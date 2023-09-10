@@ -22,13 +22,13 @@ Rating: 4.87 (Ranked 24)
 | The Negotiator | 7.00% | ~282 |
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~282 |
 | I look cool. But I can look COOLER. | 7.00% | ~282 |
-| Headliner | 6.00% | ~241 |
-| Time to pay up! | 6.00% | ~241 |
-| Who's the boss now? | 6.00% | ~241 |
-| You must like calling me in, Chai | 6.00% | ~241 |
-| Out in a puff of smoke | 6.00% | ~241 |
-| Perfecter Parry-er! | 6.00% | ~241 |
-| Does that say weakpoint? | 6.00% | ~241 |
+| Headliner | 6.00% | ~242 |
+| Time to pay up! | 6.00% | ~242 |
+| Who's the boss now? | 6.00% | ~242 |
+| You must like calling me in, Chai | 6.00% | ~242 |
+| Out in a puff of smoke | 6.00% | ~242 |
+| Perfecter Parry-er! | 6.00% | ~242 |
+| Does that say weakpoint? | 6.00% | ~242 |
 | NOW we got a kickass hideout! | 6.00% | ~153 |
 | I have to read these things? | 5.00% | ~201 |
 | Well that was a rush! | 4.00% | ~161 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,024 (Ranked 154)  
+Progressed: 4,025 (Ranked 154)  
 Completed: 7 (0.17%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 7 (0.17%) (Ranked 200)
 | 2023-09-07 | 4,017 | 7 |
 | 2023-09-08 | 4,021 | 7 |
 | 2023-09-09 | 4,023 | 7 |
-| 2023-09-10 | 4,024 | 7 |
+| 2023-09-10 | 4,025 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

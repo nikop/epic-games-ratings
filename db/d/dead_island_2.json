@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 22,
@@ -4380,7 +4380,7 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 676869,
+  "EOS_Progressed": 676888,
   "EOS_Completed": 2129,
   "EOS_NewPlayers": 4720,
   "EOS_NewCompleters": 24,
@@ -20340,6 +20340,11 @@
       "Time": "2023-09-10T04:08:22.1430039+00:00",
       "NumProgressed": 676869,
       "NumCompleted": 2129
+    },
+    {
+      "Time": "2023-09-10T05:06:34.9969618+00:00",
+      "NumProgressed": 676888,
+      "NumCompleted": 2129
     }
   ],
   "TotalAchievements": 45,
@@ -20455,7 +20460,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -20543,7 +20548,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "ach_knock_down",
@@ -20597,9 +20602,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5415
+      "UsersEstimate": 6092
     },
     {
       "ID": "ach_salvation",
@@ -20687,7 +20692,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13537
+      "UsersEstimate": 13538
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20695,7 +20700,7 @@
       "Name": "Rising Star",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2707
+      "UsersEstimate": 2708
     },
     {
       "ID": "ach_well_trained",
@@ -20710,22 +20715,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676869,
+      "Progressed": 676888,
       "Completed": 2129
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 2409,
-      "Completed": 2409
+      "Progressed": 2428,
+      "Completed": 2428
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-10T02:16:29.6729227+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:08:22.1430033+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:06:34.9969613+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:01:22.6510062+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:08:22.1431552+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:59:55.5185375+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:06:34.9970766+00:00"
 }

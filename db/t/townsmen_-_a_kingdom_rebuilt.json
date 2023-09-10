@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4269,
+  "EOS_Progressed": 4270,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1160,6 +1160,11 @@
       "Time": "2023-09-09T17:07:11.6943991+00:00",
       "NumProgressed": 4269,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-10T05:06:59.9490375+00:00",
+      "NumProgressed": 4270,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1179,7 +1184,7 @@
       "Name": "Not a small trader anymore",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_AVALANCHE_MINES",
@@ -1283,7 +1288,7 @@
       "Name": "The King\u0027s new clothes I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_CLOTHES2",
@@ -1411,7 +1416,7 @@
       "Name": "Builder II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_POPULATION3",
@@ -1507,7 +1512,7 @@
       "Name": "Full-time job II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -1835,7 +1840,7 @@
       "Name": "Tax-man III",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_TAXES4",
@@ -1867,7 +1872,7 @@
       "Name": "A time consuming game II",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_TIME3",
@@ -1899,7 +1904,7 @@
       "Name": "Tools of the trade I",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_TOOLS2",
@@ -1978,15 +1983,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4269,
+      "Progressed": 4270,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:08:56.4059672+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:06:59.9490367+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:21.3448212+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:00:57.3546002+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:08:56.4061036+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:59:39.1643873+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:06:59.9491694+00:00"
 }

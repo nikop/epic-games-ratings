@@ -6,18 +6,18 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,812 |
-| keep it tidy | 77.00% | ~7,870 |
-| podium | 72.00% | ~7,359 |
+| light attack | 96.00% | ~9,813 |
+| keep it tidy | 77.00% | ~7,871 |
+| podium | 72.00% | ~7,360 |
 | medium attack | 60.00% | ~6,133 |
-| brail | 57.00% | ~5,826 |
+| brail | 57.00% | ~5,827 |
 | good drivers have dead flies on the side windows | 42.00% | ~4,293 |
-| grocery-getter | 40.00% | ~4,088 |
-| rwd only | 26.00% | ~2,657 |
-| food tour: pasta | 26.00% | ~2,657 |
-| to finish first, first you must finish | 21.00% | ~2,146 |
-| autopilot | 21.00% | ~2,146 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,146 |
+| grocery-getter | 40.00% | ~4,089 |
+| rwd only | 26.00% | ~2,658 |
+| food tour: pasta | 26.00% | ~2,658 |
+| to finish first, first you must finish | 21.00% | ~2,147 |
+| autopilot | 21.00% | ~2,147 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,147 |
 | turbo | 20.00% | ~2,044 |
 | food tour: pretzel | 19.00% | ~1,942 |
 | bicycle race | 15.00% | ~1,533 |
@@ -33,10 +33,10 @@ Number of Ratings: 56  (23.09.2022)
 | parallel universe | 10.00% | ~1,022 |
 | mittens | 8.00% | ~818 |
 | samir | 8.00% | ~818 |
-| eurobeat | 7.00% | ~715 |
-| viking | 7.00% | ~715 |
-| master of rally | 7.00% | ~715 |
-| antilag | 7.00% | ~715 |
+| eurobeat | 7.00% | ~716 |
+| viking | 7.00% | ~716 |
+| master of rally | 7.00% | ~716 |
+| antilag | 7.00% | ~716 |
 | parking lot | 6.00% | ~613 |
 | oktoberfest | 6.00% | ~613 |
 | in like a lamb, out like a lion | 6.00% | ~613 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,221 (Ranked 128)  
+Progressed: 10,222 (Ranked 128)  
 Completed: 9 (0.09%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 9 (0.09%) (Ranked 222)
 | 2023-09-06 | 10,219 | 9 |
 | 2023-09-07 | 10,220 | 9 |
 | 2023-09-09 | 10,221 | 9 |
+| 2023-09-10 | 10,222 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

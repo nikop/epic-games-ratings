@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5252,
+  "EOS_Progressed": 5258,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5072,
+  "EOS_NewPlayers": 5046,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -881,6 +881,11 @@
       "Time": "2023-09-10T04:03:35.2891828+00:00",
       "NumProgressed": 5252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T05:03:19.672623+00:00",
+      "NumProgressed": 5258,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1005,7 +1010,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "GamesPlayed1",
@@ -1013,7 +1018,7 @@
       "Name": "Played a Match",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1840
     },
     {
       "ID": "GamesPlayed10",
@@ -1037,7 +1042,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1052
     },
     {
       "ID": "GamesWon10",
@@ -1085,7 +1090,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "HAUpgraded1",
@@ -1253,7 +1258,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "MaxTowersKilled3",
@@ -1261,7 +1266,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "MaxTowersKilled6",
@@ -1301,7 +1306,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "NeutralKills200",
@@ -1349,7 +1354,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "QAUpgraded1",
@@ -1365,7 +1370,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "RAPurchased1",
@@ -1389,7 +1394,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "SEUpgraded1",
@@ -1405,7 +1410,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "SOVUpgraded1",
@@ -1477,21 +1482,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5252,
+      "Progressed": 5258,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:03:35.2891821+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:03:19.6726226+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:01.3447006+00:00",
-  "LastUpdate_Ratings": "2023-09-10T03:58:38.1823678+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:03:35.2892838+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:58:05.3775577+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:03:19.6727068+00:00"
 }

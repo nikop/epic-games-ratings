@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 513,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 53,
@@ -232,7 +232,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 229516,
+  "EOS_Progressed": 229517,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 1,
@@ -15167,6 +15167,11 @@
       "Time": "2023-09-10T04:06:20.0592225+00:00",
       "NumProgressed": 229516,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-10T05:05:09.1978617+00:00",
+      "NumProgressed": 229517,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 28,
@@ -15322,7 +15327,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78035
+      "UsersEstimate": 78036
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -15346,7 +15351,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6885
+      "UsersEstimate": 6886
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -15401,7 +15406,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229516,
+      "Progressed": 229517,
       "Completed": 4
     }
   ],
@@ -15409,8 +15414,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-02T21:59:53.4448357+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:06:20.0592217+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:05:09.1978612+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:45.3291126+00:00",
-  "LastUpdate_Ratings": "2023-09-10T03:58:18.380323+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:06:20.0594161+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:57:52.8765867+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:05:09.1979651+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "esse-proxy",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.1586344+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:00:44.3165175+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:03:05.8065373+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:59:29.65307+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:00:49.2937743+00:00"
 }

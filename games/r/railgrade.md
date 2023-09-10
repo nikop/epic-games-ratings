@@ -1,19 +1,19 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 503)  
+Rating: 4.54 (Ranked 502)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,111 |
-| Before the Downfall | 93.00% | ~18,136 |
-| Money like Water | 92.00% | ~17,941 |
-| Minimalist | 90.00% | ~17,551 |
-| Builder | 83.00% | ~16,186 |
-| Eraser | 70.00% | ~13,651 |
-| Pocket of Trains | 65.00% | ~12,676 |
-| Inspector | 59.00% | ~11,506 |
-| Going the Distance | 54.00% | ~10,531 |
+| Trevithick's Legacy | 98.00% | ~19,110 |
+| Before the Downfall | 93.00% | ~18,135 |
+| Money like Water | 92.00% | ~17,940 |
+| Minimalist | 90.00% | ~17,550 |
+| Builder | 83.00% | ~16,185 |
+| Eraser | 70.00% | ~13,650 |
+| Pocket of Trains | 65.00% | ~12,675 |
+| Inspector | 59.00% | ~11,505 |
+| Going the Distance | 54.00% | ~10,530 |
 | Oil Baron | 42.00% | ~8,190 |
 | Loads-a-Money | 42.00% | ~8,190 |
 | Helper of the People | 39.00% | ~7,605 |
@@ -41,9 +41,9 @@ Rating: 4.54 (Ranked 503)
 | Cleanup crew | 1.00% | ~195 |
 | Flying Lightning | 1.00% | ~195 |
 | Overdeer | 0.50% | ~98 |
-| Cloud Services | 0.30% | ~59 |
+| Cloud Services | 0.30% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,501 (Ranked 112)  
+Progressed: 19,500 (Ranked 112)  
 Completed: 37 (0.19%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |

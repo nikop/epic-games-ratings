@@ -13,10 +13,10 @@
 | Scholar | 25.00% | ~28 |
 | The darkness | 24.00% | ~27 |
 | True G4M3R | 23.00% | ~26 |
-| One last step | 19.00% | ~22 |
-| Cable guy | 18.00% | ~21 |
+| One last step | 20.00% | ~23 |
+| Cable guy | 19.00% | ~22 |
+| Champollion | 19.00% | ~22 |
 | Open door | 18.00% | ~21 |
-| Champollion | 18.00% | ~21 |
 | Rascal | 17.00% | ~19 |
 | Half the way | 16.00% | ~18 |
 | In this together | 15.00% | ~17 |

@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 79.00% | ~340 |
-| A Thorny Situation | 71.00% | ~306 |
-| ... And Spit Back Out | 53.00% | ~228 |
-| Break-Net Speed | 45.00% | ~194 |
-| Humble Collector | 33.00% | ~142 |
-| Miner 49er | 32.00% | ~138 |
-| Bramble Breaker | 31.00% | ~134 |
-| Oui, Chef! | 17.00% | ~73 |
-| Calm Sailing | 13.00% | ~56 |
-| Open the Gate! | 10.00% | ~43 |
-| Lumberjack | 10.00% | ~43 |
-| Beach Comber | 8.00% | ~34 |
+| Azoria Beckons | 79.00% | ~345 |
+| A Thorny Situation | 71.00% | ~310 |
+| ... And Spit Back Out | 53.00% | ~232 |
+| Break-Net Speed | 45.00% | ~197 |
+| Humble Collector | 33.00% | ~144 |
+| Miner 49er | 32.00% | ~140 |
+| Bramble Breaker | 31.00% | ~135 |
+| Oui, Chef! | 17.00% | ~74 |
+| Calm Sailing | 13.00% | ~57 |
+| Lumberjack | 11.00% | ~48 |
+| Open the Gate! | 10.00% | ~44 |
+| Beach Comber | 8.00% | ~35 |
 | Mist Walker | 6.00% | ~26 |
 | Botanical Breakthrough | 5.00% | ~22 |
 | Chatty Neighbor | 3.00% | ~13 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.20% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431 (Ranked 250)  
+Progressed: 437 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
-| 2023-09-10 | 431 | 0 |
+| 2023-09-10 | 437 | 0 |

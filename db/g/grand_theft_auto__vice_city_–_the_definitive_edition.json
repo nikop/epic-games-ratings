@@ -2,20 +2,20 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -614,6 +614,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 73,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-09-10T04:59:47.9925271+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
@@ -630,7 +636,7 @@
   ],
   "EOS_Progressed": 9867,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9507,9 +9513,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-09-09T18:00:51.9838604+00:00",
-  "LastChanged_Achievements": "2023-09-10T04:06:53.0716404+00:00",
+  "LastChanged": "2023-09-10T04:59:47.9925269+00:00",
+  "LastChanged_Achievements": "2023-09-10T05:05:32.007678+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:01:10.9921077+00:00",
-  "LastUpdate_Achievements": "2023-09-10T04:06:53.0717299+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:59:47.9925278+00:00",
+  "LastUpdate_Achievements": "2023-09-10T05:05:32.0077561+00:00"
 }
