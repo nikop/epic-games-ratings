@@ -53,7 +53,7 @@
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 269 |
 | 49 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 391 | 218 |
 | 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 517 |
-| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 420 | 212 |
+| 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 421 | 212 |
 | 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 265 | 250 |
 | 49 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 25 | 485 |
 | 49 | [Star Atlas](games/s/star_atlas.md) | 4.84 | 24 | 488 |
@@ -86,7 +86,7 @@
 | 83 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 517 |
 | 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 336 |
 | 83 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 517 |
-| 83 | [The Messenger](games/t/the_messenger.md) | 4.80 | 329 | 231 |
+| 83 | [The Messenger](games/t/the_messenger.md) | 4.80 | 330 | 231 |
 | 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,506 | 121 |
 | 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 511 | 199 |
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 160 | 295 |
@@ -294,7 +294,7 @@
 | 279 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 563 | 192 |
 | 279 | [SOMA](games/s/soma.md) | 4.66 | 0 | 517 |
 | 279 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.66 | 0 | 517 |
-| 279 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 608 | 181 |
+| 279 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 608 | 182 |
 | 279 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,864 | 61 |
 | 279 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 98 | 340 |
 | 279 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 205 |
@@ -628,7 +628,7 @@
 | 613 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 517 |
 | 627 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 517 |
 | 627 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.46 | 0 | 517 |
-| 627 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,545 | 86 |
+| 627 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,552 | 86 |
 | 627 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 517 |
 | 627 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 456 |
 | 627 | [Faeria](games/f/faeria.md) | 4.46 | 111 | 326 |
@@ -723,7 +723,7 @@
 | 713 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.40 | 111 | 326 |
 | 722 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.39 | 1,027 | 142 |
 | 722 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 517 |
-| 722 | [MORDHAU](games/m/mordhau.md) | 4.39 | 608 | 181 |
+| 722 | [MORDHAU](games/m/mordhau.md) | 4.39 | 610 | 181 |
 | 722 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,755 | 31 |
 | 722 | [Startup Panic](games/s/startup_panic.md) | 4.39 | 0 | 517 |
 | 722 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 517 |
@@ -732,7 +732,7 @@
 | 729 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 517 |
 | 729 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 517 |
 | 729 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 517 |
-| 729 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 575 | 188 |
+| 729 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 576 | 188 |
 | 729 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.38 | 0 | 517 |
 | 729 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 294 |
 | 729 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 172 | 288 |
@@ -746,7 +746,7 @@
 | 741 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 57 | 394 |
 | 741 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 517 |
 | 741 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 456 |
-| 747 | [Core](games/c/core.md) | 4.36 | 747 | 163 |
+| 747 | [Core](games/c/core.md) | 4.36 | 748 | 163 |
 | 747 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 286 |
 | 747 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,666 | 29 |
 | 747 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 517 |
