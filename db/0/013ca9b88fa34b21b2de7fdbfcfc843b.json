@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 466,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -362,6 +362,11 @@
       "Time": "2023-09-10T10:05:34.2312436+00:00",
       "NumProgressed": 463,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T11:05:23.719514+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -374,31 +379,31 @@
       "Name": "Azoria Beckons",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 368
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 336
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Calm Sailing",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 75
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 56
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -460,25 +465,25 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 56
     },
     {
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 154
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 219
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -508,9 +513,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 163
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -526,15 +531,15 @@
       "Name": "... And Spit Back Out",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 247
     },
     {
       "ID": "DISPATCH_CLOUDS",
       "SetID": "9eia0f5",
       "Name": "Mist Walker",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -550,7 +555,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -653,14 +658,14 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 466,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-10T10:05:34.2312434+00:00",
+  "LastChanged_Achievements": "2023-09-10T11:05:23.7195135+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:57:07.7146184+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:58:52.4819895+00:00",
-  "LastUpdate_Achievements": "2023-09-10T10:05:34.2312642+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:58:57.6898767+00:00",
+  "LastUpdate_Achievements": "2023-09-10T11:05:23.7195443+00:00"
 }

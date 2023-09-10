@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1198,6 +1198,11 @@
       "Time": "2023-09-10T10:05:29.3915803+00:00",
       "NumProgressed": 256,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T11:05:18.9880788+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1208,9 +1213,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_BLUEEND",
@@ -1360,9 +1365,9 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_OASIS",
@@ -1400,17 +1405,17 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_S5",
@@ -1434,22 +1439,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-10T10:05:29.3915799+00:00",
+  "LastChanged_Achievements": "2023-09-10T11:05:18.9880783+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:59:07.8176662+00:00",
-  "LastUpdate_Achievements": "2023-09-10T10:05:29.3916012+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:59:13.7437747+00:00",
+  "LastUpdate_Achievements": "2023-09-10T11:05:18.9881056+00:00"
 }

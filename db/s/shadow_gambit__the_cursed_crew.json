@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 90,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -68,11 +68,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 623,
+  "EOS_Progressed": 624,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 2.25,
+  "EOS_Completed_Percentage": 2.24,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1608,6 +1608,11 @@
       "Time": "2023-09-10T10:03:23.6708468+00:00",
       "NumProgressed": 623,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-10T11:03:14.8208104+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1620,7 +1625,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1628,7 +1633,7 @@
       "Name": "A New Journey",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "_03_FinishAct1",
@@ -1748,7 +1753,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1827,7 +1832,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 623,
+      "Progressed": 624,
       "Completed": 14
     }
   ],
@@ -1835,8 +1840,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-10T10:03:23.6708464+00:00",
+  "LastChanged_Achievements": "2023-09-10T11:03:14.8208099+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:59:55.9667091+00:00",
-  "LastUpdate_Achievements": "2023-09-10T10:03:23.6708701+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:00:00.5819092+00:00",
+  "LastUpdate_Achievements": "2023-09-10T11:03:14.820841+00:00"
 }

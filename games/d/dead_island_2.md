@@ -7,29 +7,29 @@ Rating: 4.54 (Ranked 502)
 | ---- | ---------- | ----- |
 | Hotel California | 2.00% | ~13,541 |
 | Welcome To Hell-A | 2.00% | ~13,541 |
-| Dr. Reed, I Presume? | 1.00% | ~6,770 |
-| Git Gutte! | 1.00% | ~6,770 |
-| Bookworm | 1.00% | ~6,770 |
-| Break A Leg | 1.00% | ~6,770 |
-| But Doctor, I am Butcho | 1.00% | ~6,770 |
-| Slayer Squad | 1.00% | ~6,770 |
-| Can't Handle the Truth | 1.00% | ~6,770 |
-| Coup de Grâce | 1.00% | ~6,770 |
-| Like Riding a Bike | 1.00% | ~6,770 |
-| Hazardous Materials | 1.00% | ~6,770 |
-| Friends Like These | 1.00% | ~6,770 |
-| Apex Predator | 1.00% | ~6,770 |
-| Zombologist | 1.00% | ~6,770 |
-| A Patton Emerges | 1.00% | ~6,770 |
-| Stacking the Deck | 1.00% | ~6,770 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,770 |
-| This is My Weapon | 1.00% | ~6,770 |
-| I Am the Resurrection | 0.90% | ~6,093 |
-| Our True Nature | 0.90% | ~6,093 |
-| Anger Management | 0.80% | ~5,416 |
-| Perks of the Job | 0.80% | ~5,416 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,416 |
-| Ooh, Shiny! | 0.80% | ~5,416 |
+| Dr. Reed, I Presume? | 1.00% | ~6,771 |
+| Git Gutte! | 1.00% | ~6,771 |
+| Bookworm | 1.00% | ~6,771 |
+| Break A Leg | 1.00% | ~6,771 |
+| But Doctor, I am Butcho | 1.00% | ~6,771 |
+| Slayer Squad | 1.00% | ~6,771 |
+| Can't Handle the Truth | 1.00% | ~6,771 |
+| Coup de Grâce | 1.00% | ~6,771 |
+| Like Riding a Bike | 1.00% | ~6,771 |
+| Hazardous Materials | 1.00% | ~6,771 |
+| Friends Like These | 1.00% | ~6,771 |
+| Apex Predator | 1.00% | ~6,771 |
+| Zombologist | 1.00% | ~6,771 |
+| A Patton Emerges | 1.00% | ~6,771 |
+| Stacking the Deck | 1.00% | ~6,771 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,771 |
+| This is My Weapon | 1.00% | ~6,771 |
+| I Am the Resurrection | 0.90% | ~6,094 |
+| Our True Nature | 0.90% | ~6,094 |
+| Anger Management | 0.80% | ~5,417 |
+| Perks of the Job | 0.80% | ~5,417 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,417 |
+| Ooh, Shiny! | 0.80% | ~5,417 |
 | Making Your Mark | 0.70% | ~4,739 |
 | Humanity Distilled | 0.70% | ~4,739 |
 | Down with the Sickness | 0.60% | ~4,062 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~677 |
 | Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,030 (Ranked 22)  
-Completed: 2,130 (0.31%) (Ranked 177)  
+Progressed: 677,064 (Ranked 22)  
+Completed: 2,131 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 2,130 (0.31%) (Ranked 177)
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
-| 2023-09-10 | 677,030 | 2,130 |
+| 2023-09-10 | 677,064 | 2,131 |
 ## Awards
 Max (Great Boss Battles): 5,990  (Ranked 58)  
 Sum: 8,852 (Ranked 94)  

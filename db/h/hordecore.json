@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -282,9 +282,9 @@
       "ID": "22",
       "SetID": "1530e6b",
       "Name": "Poker-Man",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "23",
@@ -403,8 +403,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-09-10T10:05:20.6207939+00:00",
+  "LastChanged_Achievements": "2023-09-10T11:05:09.7205918+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.5190511+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:57:45.3330033+00:00",
-  "LastUpdate_Achievements": "2023-09-10T10:05:20.6208094+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:57:51.1026606+00:00",
+  "LastUpdate_Achievements": "2023-09-10T11:05:09.7206129+00:00"
 }

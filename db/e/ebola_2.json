@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1036,6 +1036,11 @@
       "Time": "2023-09-10T09:04:20.1000038+00:00",
       "NumProgressed": 266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T11:03:55.0342124+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1135,15 +1140,15 @@
       "Name": "Recluse \u2714",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achMeat",
       "SetID": "1al1mjg",
       "Name": "Scent of Meat \u2714",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "achSaveses",
@@ -1190,14 +1195,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-10T10:04:03.4437687+00:00",
+  "LastChanged_Achievements": "2023-09-10T11:03:55.0342119+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.0737493+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:59:02.5661704+00:00",
-  "LastUpdate_Achievements": "2023-09-10T10:04:03.4437857+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:59:09.028253+00:00",
+  "LastUpdate_Achievements": "2023-09-10T11:03:55.0342325+00:00"
 }

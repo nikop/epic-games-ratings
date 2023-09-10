@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.94,
   "EosHistory": [
@@ -2284,6 +2284,11 @@
       "Time": "2023-09-10T09:04:40.2537747+00:00",
       "NumProgressed": 634,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-10T11:04:10.6386836+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2295,7 +2300,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "MQ01_2",
@@ -2303,7 +2308,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "MQ02_1",
@@ -2311,7 +2316,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "MQ02_2",
@@ -2335,15 +2340,15 @@
       "Name": "Whispers In The Dark",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 343
     },
     {
       "ID": "MQ03_2",
@@ -2357,9 +2362,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 330
     },
     {
       "ID": "MQ03_4",
@@ -2367,7 +2372,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "MQ03_5",
@@ -2375,7 +2380,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "MQ04_1",
@@ -2383,7 +2388,7 @@
       "Name": "Going Once...",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "MQ04_2",
@@ -2423,7 +2428,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "MQ05_4",
@@ -2431,7 +2436,7 @@
       "Name": "Knives Out",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "MQ06_1",
@@ -2455,7 +2460,7 @@
       "Name": "Land, Ho!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "MQ06_4",
@@ -2518,7 +2523,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 25
     }
   ],
@@ -2526,8 +2531,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-10T10:04:19.3171893+00:00",
+  "LastChanged_Achievements": "2023-09-10T11:04:10.6386832+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:59:19.5281439+00:00",
-  "LastUpdate_Achievements": "2023-09-10T10:04:19.3172149+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:59:24.8993792+00:00",
+  "LastUpdate_Achievements": "2023-09-10T11:04:10.6387178+00:00"
 }

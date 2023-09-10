@@ -4,7 +4,7 @@
   "ProductSlug": "everholm-f11e18",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.6955529+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:59:00.8654597+00:00",
-  "LastUpdate_Achievements": "2023-09-10T10:05:00.6291877+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:59:07.1802281+00:00",
+  "LastUpdate_Achievements": "2023-09-10T11:04:50.0556293+00:00"
 }

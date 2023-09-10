@@ -1298,7 +1298,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427908,
+  "EOS_Progressed": 427909,
   "EOS_Completed": 530,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -11108,6 +11108,11 @@
       "Time": "2023-09-10T09:04:26.5621352+00:00",
       "NumProgressed": 427908,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-09-10T11:04:00.3234947+00:00",
+      "NumProgressed": 427909,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 41,
@@ -11127,7 +11132,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 166884
+      "UsersEstimate": 166885
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -11143,7 +11148,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124093
+      "UsersEstimate": 124094
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -11159,7 +11164,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179721
+      "UsersEstimate": 179722
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -11175,7 +11180,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128372
+      "UsersEstimate": 128373
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -11207,7 +11212,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124093
+      "UsersEstimate": 124094
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -11231,7 +11236,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132651
+      "UsersEstimate": 132652
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -11287,7 +11292,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406513
+      "UsersEstimate": 406514
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -11335,7 +11340,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342326
+      "UsersEstimate": 342327
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -11399,7 +11404,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239628
+      "UsersEstimate": 239629
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -11407,7 +11412,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 184000
+      "UsersEstimate": 184001
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -11431,7 +11436,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132651
+      "UsersEstimate": 132652
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -11446,15 +11451,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427908,
+      "Progressed": 427909,
       "Completed": 530
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-09T14:59:37.9393814+00:00",
-  "LastChanged_Achievements": "2023-09-10T10:04:08.8519344+00:00",
+  "LastChanged_Achievements": "2023-09-10T11:04:00.3234942+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:53.3816674+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:00:18.9072834+00:00",
-  "LastUpdate_Achievements": "2023-09-10T10:04:08.8520058+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:00:20.9460844+00:00",
+  "LastUpdate_Achievements": "2023-09-10T11:04:00.3235842+00:00"
 }

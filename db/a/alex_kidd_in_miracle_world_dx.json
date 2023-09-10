@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -480,9 +480,9 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     }
   ],
   "AchievementSets": [
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-10T10:06:55.907133+00:00",
+  "LastChanged_Achievements": "2023-09-10T11:06:41.891796+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:10.9300024+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:59:43.6360472+00:00",
-  "LastUpdate_Achievements": "2023-09-10T10:06:55.9071439+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:59:48.7986017+00:00",
+  "LastUpdate_Achievements": "2023-09-10T11:06:41.8918108+00:00"
 }

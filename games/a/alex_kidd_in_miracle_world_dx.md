@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wild Ox | 46.00% | ~133 |
-| Magic Ball | 36.00% | ~104 |
+| Magic Ball | 37.00% | ~107 |
 | Assailants | 27.00% | ~78 |
 | Prisoner | 23.00% | ~67 |
 | First Commander | 20.00% | ~58 |
