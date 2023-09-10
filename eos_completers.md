@@ -18,7 +18,7 @@
 | 15 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
-| 19 | [Island Cities](games/i/island_cities.md) | 14.48% |
+| 19 | [Island Cities](games/i/island_cities.md) | 14.75% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
 | 22 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
@@ -39,7 +39,7 @@
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.79% |
 | 38 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.17% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
 | 41 | [Scorn](games/s/scorn.md) | 7.02% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.86% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.56% |
@@ -56,13 +56,13 @@
 | 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.82% |
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.35% |
-| 58 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
+| 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
+| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.27% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
 | 61 | [ZZT!](games/z/zzt!.md) | 4.06% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.00% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.95% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.94% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.39% |
@@ -133,8 +133,8 @@
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
-| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.72% |
-| 135 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
+| 134 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
+| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.71% |
 | 136 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.67% |
 | 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.67% |
 | 138 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
