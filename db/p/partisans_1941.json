@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -2589,9 +2589,9 @@
       "ID": "KillAllM2",
       "SetID": "85nb4h3",
       "Name": "No Witness",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "Kultprosvet",
@@ -2677,8 +2677,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-10T09:06:17.3646424+00:00",
+  "LastChanged_Achievements": "2023-09-10T10:05:35.8716892+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:02:04.5866684+00:00",
-  "LastUpdate_Achievements": "2023-09-10T09:06:17.3646715+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:00:49.438715+00:00",
+  "LastUpdate_Achievements": "2023-09-10T10:05:35.8717181+00:00"
 }

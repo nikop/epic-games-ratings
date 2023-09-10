@@ -2,12 +2,12 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 163,
+  "Ranking_Rating": 162,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -68,7 +68,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 3,
@@ -1603,6 +1603,11 @@
       "Time": "2023-09-10T07:02:23.6592352+00:00",
       "NumProgressed": 622,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-10T10:03:23.6708468+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1621,9 +1626,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 436
     },
     {
       "ID": "_03_FinishAct1",
@@ -1631,7 +1636,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1639,7 +1644,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "_05_FinishAct2",
@@ -1647,7 +1652,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1671,7 +1676,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "_09_Completion_20",
@@ -1679,7 +1684,7 @@
       "Name": "Powder Monkey",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "_10_Completion_30",
@@ -1703,7 +1708,7 @@
       "Name": "Privateer",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "_13_Completion_60",
@@ -1735,7 +1740,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1822,7 +1827,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 14
     }
   ],
@@ -1830,8 +1835,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-10T09:03:28.2648946+00:00",
+  "LastChanged_Achievements": "2023-09-10T10:03:23.6708464+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:00:44.2627157+00:00",
-  "LastUpdate_Achievements": "2023-09-10T09:03:28.2649194+00:00"
+  "LastUpdate_Ratings": "2023-09-10T09:59:55.9667091+00:00",
+  "LastUpdate_Achievements": "2023-09-10T10:03:23.6708701+00:00"
 }

@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 943)  
+Rating: 3.99 (Ranked 944)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,6 +37,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.60% | ~816 |
 | Helping Hand | 0.60% | ~816 |
 | Accomplished Merchant | 0.60% | ~816 |
+| Natural 20 | 0.60% | ~816 |
 | Arcane Industries | 0.60% | ~816 |
 | Tax not Included | 0.50% | ~680 |
 | Research & Development | 0.50% | ~680 |
@@ -46,7 +47,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 0.50% | ~680 |
 | Trash to Treasure | 0.50% | ~680 |
 | Royal Ransom | 0.50% | ~680 |
-| Natural 20 | 0.50% | ~680 |
 | Magical Harmony | 0.50% | ~680 |
 | A Notch Above the Rest | 0.40% | ~544 |
 | Cream of the Crop | 0.40% | ~544 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,957 (Ranked 68)  
+Progressed: 135,958 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
 | 2023-09-09 | 135,932 | 147 |
-| 2023-09-10 | 135,957 | 147 |
+| 2023-09-10 | 135,958 | 147 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 71)  
 Sum: 27,200 (Ranked 48)  

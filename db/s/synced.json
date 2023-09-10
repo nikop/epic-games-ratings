@@ -2,10 +2,10 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 971,
+  "Ranking_Rating": 940,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 115,
+  "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 6,
   "Ranking_EOS_NewCompleters": 95,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.81,
+  "Rating": 4.02,
   "RatingHistory": [
     {
       "Time": "2023-09-09T22:00:06.1147594+00:00",
@@ -30,15 +30,21 @@
       "Rating": 3.81,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-10T09:59:27.9900574+00:00",
+      "Rating": 4.02,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17686,
+  "EOS_Progressed": 17963,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17679,
+  "EOS_NewPlayers": 17956,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -396,6 +402,11 @@
       "Time": "2023-09-10T09:03:33.3930965+00:00",
       "NumProgressed": 17686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T10:03:27.5796656+00:00",
+      "NumProgressed": 17963,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -408,7 +419,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 539
     },
     {
       "ID": "10",
@@ -472,7 +483,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 180
     },
     {
       "ID": "3",
@@ -480,7 +491,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "4",
@@ -488,7 +499,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "5",
@@ -496,7 +507,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "6",
@@ -535,16 +546,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 17686,
+      "Progressed": 17963,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-09-09T22:59:21.333999+00:00",
-  "LastChanged_Achievements": "2023-09-10T09:03:33.3930961+00:00",
+  "LastChanged": "2023-09-10T09:59:27.9900572+00:00",
+  "LastChanged_Achievements": "2023-09-10T10:03:27.5796653+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:18.7471127+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:00:08.3001326+00:00",
-  "LastUpdate_Achievements": "2023-09-10T09:03:33.3931076+00:00"
+  "LastUpdate_Ratings": "2023-09-10T09:59:27.9900577+00:00",
+  "LastUpdate_Achievements": "2023-09-10T10:03:27.5796772+00:00"
 }

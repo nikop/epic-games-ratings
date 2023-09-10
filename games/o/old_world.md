@@ -10,8 +10,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 5.00% | ~692 |
 | Play a Single Player Game | 5.00% | ~692 |
 | The Clergy | 5.00% | ~692 |
-| Intrepid | 4.00% | ~553 |
-| Friendly Family | 4.00% | ~553 |
+| Intrepid | 4.00% | ~554 |
+| Friendly Family | 4.00% | ~554 |
 | Able | 3.00% | ~415 |
 | Architect | 3.00% | ~415 |
 | Enlightened | 3.00% | ~415 |
@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
+| Peacemaker | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
 | One True Faith | 0.60% | ~83 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.60% | ~83 |
 | Carthage - Ox Hide | 0.50% | ~69 |
 | Old | 0.50% | ~69 |
-| Peacemaker | 0.50% | ~69 |
 | Noble Difficulty | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
 | Egypt | 0.50% | ~69 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,836 (Ranked 122)  
+Progressed: 13,838 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
 | 2023-09-09 | 13,831 | 5 |
-| 2023-09-10 | 13,836 | 5 |
+| 2023-09-10 | 13,838 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

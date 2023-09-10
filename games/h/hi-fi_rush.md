@@ -57,6 +57,7 @@ Rating: 4.87 (Ranked 24)
 | And the crowd goes wild! | 0.20% | ~8 |
 | Problem solved... wait, what? | 0.20% | ~8 |
 | With our powers combined…and to the rhythm… | 0.20% | ~8 |
+| That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |
 | I think that's enough health for now | 0.10% | ~4 |
@@ -72,7 +73,6 @@ Rating: 4.87 (Ranked 24)
 | I saw all those hits coming a measure away! | 0.10% | ~4 |
 | OK, I THINK I know what I'm doing now | 0.10% | ~4 |
 | Please don't make this awkward | 0.10% | ~3 |
-| That was just EVIL | 0.10% | ~3 |
 | It was all for this | 0.10% | ~3 |
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |

@@ -2,7 +2,7 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 962,
+  "Ranking_Rating": 963,
   "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 585,
@@ -3475,10 +3475,16 @@
       "Rating": 3.91,
       "NumberOfAwards": 3240,
       "NumberOfAwardsMax": 412
+    },
+    {
+      "Time": "2023-09-10T09:58:02.3354575+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 3241,
+      "NumberOfAwardsMax": 412
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3240,
+  "NumberOfAwards": 3241,
   "NumberOfAwardsMax": 412,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3498,7 +3504,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 351
+      "Count": 352
     },
     {
       "Text": "This game is Relaxing",
@@ -3560,8 +3566,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-09-09T12:59:22.5995298+00:00",
+  "LastChanged": "2023-09-10T09:58:02.3354574+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.642862+00:00",
-  "LastUpdate_Ratings": "2023-09-10T08:58:10.9091067+00:00",
-  "LastUpdate_Achievements": "2023-09-10T09:06:38.455969+00:00"
+  "LastUpdate_Ratings": "2023-09-10T09:58:02.3354578+00:00",
+  "LastUpdate_Achievements": "2023-09-10T10:05:52.0717981+00:00"
 }

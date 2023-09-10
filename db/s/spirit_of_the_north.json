@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -324,10 +324,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 68451,
+  "EOS_Progressed": 68452,
   "EOS_Completed": 357,
-  "EOS_NewPlayers": 654,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 650,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
     {
@@ -15909,6 +15909,11 @@
       "Time": "2023-09-10T09:04:47.910082+00:00",
       "NumProgressed": 68451,
       "NumCompleted": 357
+    },
+    {
+      "Time": "2023-09-10T10:04:25.2261192+00:00",
+      "NumProgressed": 68452,
+      "NumCompleted": 357
     }
   ],
   "TotalAchievements": 24,
@@ -15952,7 +15957,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17797
+      "UsersEstimate": 17798
     },
     {
       "ID": "ERADICATE",
@@ -16000,7 +16005,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36279
+      "UsersEstimate": 36280
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -16111,7 +16116,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 68451,
+      "Progressed": 68452,
       "Completed": 357
     }
   ],
@@ -16119,8 +16124,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-10T09:04:47.9100815+00:00",
+  "LastChanged_Achievements": "2023-09-10T10:04:25.2261188+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:49.8305044+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:03:08.2395029+00:00",
-  "LastUpdate_Achievements": "2023-09-10T09:04:47.9101804+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:03:08.5164843+00:00",
+  "LastUpdate_Achievements": "2023-09-10T10:04:25.2262042+00:00"
 }

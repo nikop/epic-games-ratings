@@ -6,34 +6,34 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~15,933 |
-| That's a Grand Army | 3.00% | ~11,950 |
-| That is mine! | 3.00% | ~11,950 |
-| Victorious! | 3.00% | ~11,950 |
-| Brothers in Arms | 2.00% | ~7,967 |
-| For the Glory | 2.00% | ~7,967 |
-| That's a Grand Navy | 2.00% | ~7,967 |
-| Seriously?! | 2.00% | ~7,967 |
-| Cold War | 1.00% | ~3,983 |
-| Defender of the Faith | 1.00% | ~3,983 |
-| It's all about the money | 1.00% | ~3,983 |
-| The Princess is in this Castle | 1.00% | ~3,983 |
-| True Catholic | 1.00% | ~3,983 |
-| Respected | 0.90% | ~3,585 |
-| Truly Divine Ruler | 0.90% | ~3,585 |
+| Until death do us apart | 4.00% | ~15,936 |
+| That's a Grand Army | 3.00% | ~11,952 |
+| That is mine! | 3.00% | ~11,952 |
+| Victorious! | 3.00% | ~11,952 |
+| Brothers in Arms | 2.00% | ~7,968 |
+| For the Glory | 2.00% | ~7,968 |
+| That's a Grand Navy | 2.00% | ~7,968 |
+| Seriously?! | 2.00% | ~7,968 |
+| Cold War | 1.00% | ~3,984 |
+| Defender of the Faith | 1.00% | ~3,984 |
+| It's all about the money | 1.00% | ~3,984 |
+| The Princess is in this Castle | 1.00% | ~3,984 |
+| True Catholic | 1.00% | ~3,984 |
+| Respected | 0.90% | ~3,586 |
+| Truly Divine Ruler | 0.90% | ~3,586 |
 | It's all about luck | 0.80% | ~3,187 |
-| Blockader | 0.70% | ~2,788 |
-| Double the Love | 0.70% | ~2,788 |
-| Royal Authority | 0.70% | ~2,788 |
-| Total Control | 0.70% | ~2,788 |
+| Blockader | 0.70% | ~2,789 |
+| Double the Love | 0.70% | ~2,789 |
+| Royal Authority | 0.70% | ~2,789 |
+| Total Control | 0.70% | ~2,789 |
 | My armies are invincible! | 0.60% | ~2,390 |
 | Agressive Expander | 0.50% | ~1,992 |
 | City of Cities | 0.50% | ~1,992 |
 | Combined Arms | 0.50% | ~1,992 |
-| Azur semé de lis or | 0.40% | ~1,593 |
-| Gentle Persuasion | 0.40% | ~1,593 |
-| Queen of Conquest | 0.40% | ~1,593 |
-| This navy can take it all | 0.40% | ~1,593 |
+| Azur semé de lis or | 0.40% | ~1,594 |
+| Gentle Persuasion | 0.40% | ~1,594 |
+| Queen of Conquest | 0.40% | ~1,594 |
+| This navy can take it all | 0.40% | ~1,594 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,195 |
 | Bright Spark | 0.30% | ~1,195 |
 | Down Under | 0.30% | ~1,195 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,336 (Ranked 40)  
+Progressed: 398,408 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -504,7 +504,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 394,982 | 0 |
 | 2023-09-08 | 396,260 | 0 |
 | 2023-09-09 | 397,873 | 0 |
-| 2023-09-10 | 398,336 | 0 |
+| 2023-09-10 | 398,408 | 0 |
 ## Awards
 Max (Educational): 6,006  (Ranked 56)  
 Sum: 49,449 (Ranked 26)  

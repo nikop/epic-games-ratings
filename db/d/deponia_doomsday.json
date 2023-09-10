@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 387,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.55,
   "EosHistory": [
@@ -235,6 +235,11 @@
       "Time": "2023-09-07T17:06:26.3508348+00:00",
       "NumProgressed": 386,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-10T10:04:39.6357879+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -246,7 +251,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "dep4_achievement_10",
@@ -270,7 +275,7 @@
       "Name": "Masseltov",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "dep4_achievement_13",
@@ -286,7 +291,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "dep4_achievement_15",
@@ -300,9 +305,9 @@
       "ID": "dep4_achievement_16",
       "SetID": "5d32b60",
       "Name": "Brainfreeze",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "dep4_achievement_17",
@@ -326,7 +331,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "dep4_achievement_2",
@@ -334,7 +339,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "dep4_achievement_20",
@@ -350,15 +355,15 @@
       "Name": "Photo Friend",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "dep4_achievement_23",
@@ -388,9 +393,9 @@
       "ID": "dep4_achievement_26",
       "SetID": "5d32b60",
       "Name": "Scaffolding Expert",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 143
     },
     {
       "ID": "dep4_achievement_27",
@@ -406,7 +411,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "dep4_achievement_29",
@@ -422,7 +427,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "dep4_achievement_30",
@@ -446,7 +451,7 @@
       "Name": "Play it again, Ronny",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "dep4_achievement_33",
@@ -494,15 +499,15 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "dep4_achievement_6",
       "SetID": "5d32b60",
       "Name": "School\u0027s out",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 166
     },
     {
       "ID": "dep4_achievement_7",
@@ -533,7 +538,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 387,
       "Completed": 6
     }
   ],
@@ -541,8 +546,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-09-10T09:05:06.9133233+00:00",
+  "LastChanged_Achievements": "2023-09-10T10:04:39.6357874+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.2761256+00:00",
-  "LastUpdate_Ratings": "2023-09-10T08:58:33.0730429+00:00",
-  "LastUpdate_Achievements": "2023-09-10T09:05:06.9133464+00:00"
+  "LastUpdate_Ratings": "2023-09-10T09:58:18.3029992+00:00",
+  "LastUpdate_Achievements": "2023-09-10T10:04:39.635811+00:00"
 }

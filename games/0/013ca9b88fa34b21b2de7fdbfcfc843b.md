@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 79.00% | ~359 |
-| A Thorny Situation | 72.00% | ~327 |
-| ... And Spit Back Out | 54.00% | ~245 |
-| Break-Net Speed | 46.00% | ~209 |
-| Humble Collector | 34.00% | ~154 |
-| Bramble Breaker | 33.00% | ~150 |
-| Miner 49er | 32.00% | ~145 |
-| Oui, Chef! | 17.00% | ~77 |
-| Calm Sailing | 15.00% | ~68 |
-| Open the Gate! | 11.00% | ~50 |
-| Lumberjack | 11.00% | ~50 |
-| Beach Comber | 8.00% | ~36 |
+| Azoria Beckons | 79.00% | ~366 |
+| A Thorny Situation | 71.00% | ~329 |
+| ... And Spit Back Out | 53.00% | ~245 |
+| Break-Net Speed | 46.00% | ~213 |
+| Humble Collector | 34.00% | ~157 |
+| Bramble Breaker | 33.00% | ~153 |
+| Miner 49er | 32.00% | ~148 |
+| Oui, Chef! | 17.00% | ~79 |
+| Calm Sailing | 15.00% | ~69 |
+| Open the Gate! | 11.00% | ~51 |
+| Lumberjack | 11.00% | ~51 |
+| Beach Comber | 8.00% | ~37 |
 | Mist Walker | 7.00% | ~32 |
 | Botanical Breakthrough | 5.00% | ~23 |
 | Chatty Neighbor | 3.00% | ~14 |
@@ -30,7 +30,7 @@
 | Flaming Hot Completos | 1.00% | ~5 |
 | Fae Farmer | 1.00% | ~5 |
 | Fanatical Farmer | 0.90% | ~4 |
-| I Now Pronounce You... | 0.70% | ~3 |
+| I Now Pronounce You... | 0.60% | ~3 |
 | Got to Catch Them All | 0.40% | ~2 |
 | Scattered Scroll Scrounger | 0.40% | ~2 |
 | Cloverfield Island | 0.20% | ~1 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.20% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454 (Ranked 249)  
+Progressed: 463 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
-| 2023-09-10 | 454 | 0 |
+| 2023-09-10 | 463 | 0 |

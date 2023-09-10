@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 96.00% | ~625 |
-| A tiny town | 86.00% | ~560 |
-| Buildings, roads, cars, ...and people | 65.00% | ~423 |
-| Great view from the beach and from the hill | 54.00% | ~352 |
-| Bridges to come and go | 48.00% | ~312 |
-| Found an oasis | 41.00% | ~267 |
-| Burger or pizza? | 36.00% | ~234 |
-| Passion for sports | 31.00% | ~202 |
+| Welcome! | 96.00% | ~627 |
+| A tiny town | 86.00% | ~562 |
+| Buildings, roads, cars, ...and people | 66.00% | ~431 |
+| Great view from the beach and from the hill | 55.00% | ~359 |
+| Bridges to come and go | 48.00% | ~313 |
+| Found an oasis | 41.00% | ~268 |
+| Burger or pizza? | 36.00% | ~235 |
+| Passion for sports | 30.00% | ~196 |
 | Who loves trains? | 27.00% | ~176 |
-| Easy and steady climb | 25.00% | ~163 |
-| At the heart of the city | 22.00% | ~143 |
+| Easy and steady climb | 26.00% | ~170 |
+| At the heart of the city | 23.00% | ~150 |
 | Calm neighborhood | 21.00% | ~137 |
 | Elevated ring | 19.00% | ~124 |
-| Not lonely anymore | 18.00% | ~117 |
-| Monumental tribute | 18.00% | ~117 |
+| Not lonely anymore | 18.00% | ~118 |
+| Monumental tribute | 18.00% | ~118 |
 | The beach is right there | 17.00% | ~111 |
 | Commuting | 16.00% | ~104 |
 | Le jardin magnifique | 16.00% | ~104 |
@@ -27,8 +27,8 @@
 | Happy Christmas night! | 14.00% | ~91 |
 | Night walk along the beach | 14.00% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 228)  
-Completed: 96 (14.75%) (Ranked 19)  
+Progressed: 653 (Ranked 227)  
+Completed: 96 (14.70%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,7 +147,7 @@ Completed: 96 (14.75%) (Ranked 19)
 | 2023-09-07 | 507 | 88 |
 | 2023-09-08 | 565 | 91 |
 | 2023-09-09 | 618 | 93 |
-| 2023-09-10 | 651 | 96 |
+| 2023-09-10 | 653 | 96 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

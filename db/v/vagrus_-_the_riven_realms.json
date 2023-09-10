@@ -1025,9 +1025,9 @@
       "ID": "Vanilla_RealBattle",
       "SetID": "27kik8p",
       "Name": "A Real Battle",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Vanilla_Renkailon",
@@ -1258,8 +1258,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-10T09:06:02.8528043+00:00",
+  "LastChanged_Achievements": "2023-09-10T10:05:24.2570787+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:19.1358671+00:00",
-  "LastUpdate_Ratings": "2023-09-10T09:01:37.9302704+00:00",
-  "LastUpdate_Achievements": "2023-09-10T09:06:02.8529154+00:00"
+  "LastUpdate_Ratings": "2023-09-10T10:00:37.7041046+00:00",
+  "LastUpdate_Achievements": "2023-09-10T10:05:24.2571792+00:00"
 }
