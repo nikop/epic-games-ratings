@@ -2,13 +2,13 @@
   "ID": "9e1d499956694029a8a58c2c4a2b6b27",
   "Name": "Colt Canyon",
   "ProductSlug": "colt-canyon",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 369,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-09-02T15:00:00+00:00",
     "PcReleaseDate": "2020-06-16T12:00:00+00:00",
@@ -60,6 +60,6 @@
   "FirstSeenRating": "2022-11-22T22:58:31.2864903+00:00",
   "LastChanged": "2023-03-31T05:58:33.0805346+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.8643736+00:00",
-  "LastUpdate_Ratings": "2023-09-10T14:00:42.7764077+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:06:23.8359017+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:03:11.1791279+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:08:01.1429995+00:00"
 }

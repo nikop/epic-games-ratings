@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 7,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -448,9 +448,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1539650,
+  "EOS_Progressed": 1539658,
   "EOS_Completed": 682,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1147,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -16453,6 +16453,11 @@
       "Time": "2023-09-10T14:08:05.7093444+00:00",
       "NumProgressed": 1539650,
       "NumCompleted": 682
+    },
+    {
+      "Time": "2023-09-10T15:09:28.0589306+00:00",
+      "NumProgressed": 1539658,
+      "NumCompleted": 682
     }
   ],
   "TotalAchievements": 20,
@@ -16512,7 +16517,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 138568
+      "UsersEstimate": 138569
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -16520,7 +16525,7 @@
       "Name": "Hoon Airlines",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 15396
+      "UsersEstimate": 15397
     },
     {
       "ID": "ACH_INSANE_SKILLS",
@@ -16560,7 +16565,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 153965
+      "UsersEstimate": 153966
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -16568,7 +16573,7 @@
       "Name": "Midnight Master",
       "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 15396
+      "UsersEstimate": 15397
     },
     {
       "ID": "ACH_MULTIPLIER_MASTER",
@@ -16576,7 +16581,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 138568
+      "UsersEstimate": 138569
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -16608,7 +16613,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 76982
+      "UsersEstimate": 76983
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -16623,15 +16628,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1539650,
+      "Progressed": 1539658,
       "Completed": 682
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-06T23:02:05.1723132+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:08:05.7093437+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:09:28.0589299+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:01.4060769+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:57:38.5457368+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:08:05.7094555+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:58:03.2330276+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:09:28.0591308+00:00"
 }

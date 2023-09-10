@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1283,
+  "EOS_Progressed": 1284,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4586,6 +4586,11 @@
       "Time": "2023-09-10T14:08:06.0903676+00:00",
       "NumProgressed": 1283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T15:09:28.5374738+00:00",
+      "NumProgressed": 1284,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4701,7 +4706,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4709,7 +4714,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -4741,7 +4746,7 @@
       "Name": "Major",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -4789,7 +4794,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -4821,7 +4826,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -4900,14 +4905,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1283,
+      "Progressed": 1284,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:08:06.0903669+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:09:28.5374731+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:58:25.4897123+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:08:06.090424+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:59:14.2647217+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:09:28.5375761+00:00"
 }

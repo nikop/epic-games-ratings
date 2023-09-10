@@ -3,8 +3,8 @@
   "Name": "lava Production",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:04.0914502+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:59:16.4103546+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:03:22.4329788+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:00:28.3061973+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:03:38.6874766+00:00"
 }

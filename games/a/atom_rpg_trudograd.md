@@ -5,7 +5,7 @@ Rating: 4.53 (Ranked 519)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,044 |
+| Fresh Prince of Trudograd | 87.00% | ~1,045 |
 | Household | 7.00% | ~84 |
 | An Old Friend | 6.00% | ~72 |
 | Lot 49 | 5.00% | ~60 |
@@ -22,23 +22,23 @@ Rating: 4.53 (Ranked 519)
 | Death of the Author | 1.00% | ~12 |
 | Memoirs of a Nibbler | 1.00% | ~12 |
 | KGB Bunker | 0.80% | ~10 |
-| Rising Star | 0.80% | ~10 |
-| Sixth Sense | 0.80% | ~10 |
 | Baby Eater | 0.70% | ~8 |
+| Rising Star | 0.70% | ~8 |
+| Sixth Sense | 0.70% | ~8 |
 | Admiral | 0.30% | ~4 |
 | Bronzovka | 0.30% | ~4 |
 | Commando | 0.30% | ~4 |
 | Holy Mountain | 0.30% | ~4 |
 | Incompetence | 0.30% | ~4 |
 | Goose Sacrifice | 0.30% | ~4 |
-| Power of Simplicity | 0.30% | ~4 |
 | Second Thought | 0.30% | ~4 |
 | Sick Freak | 0.30% | ~4 |
 | Goodbye ATOM | 0.20% | ~2 |
 | Escalation of Conflict | 0.20% | ~2 |
+| Power of Simplicity | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 200)  
+Progressed: 1,201 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 1,197 | 0 |
 | 2023-09-07 | 1,198 | 0 |
 | 2023-09-08 | 1,199 | 0 |
-| 2023-09-10 | 1,200 | 0 |
+| 2023-09-10 | 1,201 | 0 |
 ## Awards
 Max (Character Customization): 25  (Ranked 485)  
 Sum: 25 (Ranked 493)  

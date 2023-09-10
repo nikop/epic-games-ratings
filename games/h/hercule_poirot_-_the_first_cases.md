@@ -9,7 +9,7 @@ Rating: 4.35 (Ranked 756)
 | Luc Piette | 75.00% | ~314 |
 | Angeline Van den Bosch | 74.00% | ~309 |
 | Elizabeth Padget | 70.00% | ~293 |
-| Little Grey Cells | 68.00% | ~284 |
+| Little Grey Cells | 69.00% | ~288 |
 | The Bracelet | 65.00% | ~272 |
 | The Blackmail | 56.00% | ~234 |
 | Major Felix Hagen | 56.00% | ~234 |

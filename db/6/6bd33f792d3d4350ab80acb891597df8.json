@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -359,9 +359,9 @@
       "ID": "CgkIxYDzrbcPEAIQBA",
       "SetID": "4egpam7",
       "Name": "Devil\u0027s Bargain",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBQ",
@@ -519,9 +519,9 @@
       "ID": "CgkIxYDzrbcPEAIQGA",
       "SetID": "4egpam7",
       "Name": "Makes You Stronger",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CgkIxYDzrbcPEAIQGQ",
@@ -582,8 +582,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:05:55.3689067+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:07:21.2885687+00:00",
   "LastUpdate_AppInfo": "2023-09-05T17:57:19.7903469+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:58:47.3811167+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:05:55.3689305+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:59:46.6538435+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:07:21.2886072+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 86.00% | ~157 |
+| Too Cool For School | 87.00% | ~158 |
 | Caretaker | 85.00% | ~155 |
 | Feng Shui | 73.00% | ~133 |
-| Who's A Good Boy | 71.00% | ~129 |
-| Power Up | 70.00% | ~127 |
+| Who's A Good Boy | 72.00% | ~131 |
+| Power Up | 71.00% | ~129 |
 | Thick Skin | 69.00% | ~126 |
-| Math Wizard | 66.00% | ~120 |
+| Math Wizard | 67.00% | ~122 |
 | Destroy Erase Improve | 66.00% | ~120 |
 | Power Overload | 63.00% | ~115 |
 | Quite A Snack | 60.00% | ~109 |

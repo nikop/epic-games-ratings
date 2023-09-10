@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.97,
+  "EOS_Completed_Percentage": 3.94,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -589,6 +589,11 @@
       "Time": "2023-09-10T14:06:04.3546002+00:00",
       "NumProgressed": 126,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T15:07:33.7230119+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 25,
@@ -646,9 +651,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "META_RESULT_1-3",
@@ -656,7 +661,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "META_RESULT_1-4",
@@ -696,7 +701,7 @@
       "Name": "Alchemists Express",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -718,9 +723,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -742,49 +747,49 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "PROGRESS_N5",
@@ -799,14 +804,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:06:04.3545996+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:07:33.7230114+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-10T14:00:38.400974+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:06:04.3546216+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:03:04.8089972+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:07:33.7230402+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -558,9 +558,9 @@
       "ID": "51",
       "SetID": "5e3maia",
       "Name": "Star Emperor",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "52",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:03:37.5525046+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:04:09.822331+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:58:17.4874721+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:03:37.5525768+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:59:02.002537+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:04:09.8224335+00:00"
 }

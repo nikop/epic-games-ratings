@@ -11,11 +11,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.50% | ~1,141 |
 | The Ring of Regeneration | 0.40% | ~913 |
 | The Mad Wizard | 0.40% | ~913 |
+| Maddening | 0.30% | ~685 |
 | Were-verpowered | 0.30% | ~685 |
 | Seeking Allies | 0.30% | ~685 |
 | Are Ya Chicken? | 0.30% | ~685 |
+| Mad Cow Disease | 0.30% | ~685 |
 | Friendly Imps | 0.30% | ~685 |
-| Maddening | 0.20% | ~457 |
 | Tall Tales | 0.20% | ~389 |
 | The Silken Swamp | 0.20% | ~457 |
 | Supply Run | 0.20% | ~457 |
@@ -31,7 +32,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.20% | ~457 |
 | The Crumbling Temple | 0.20% | ~457 |
 | Useless Allies | 0.20% | ~457 |
-| Mad Cow Disease | 0.20% | ~457 |
 | Exploring Port Nyanzaru | 0.20% | ~457 |
 | A Tale of Two Cities | 0.20% | ~457 |
 | Running of the Saurs | 0.20% | ~457 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,258 (Ranked 54)  
+Progressed: 228,269 (Ranked 54)  
 Completed: 2,266 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -670,7 +670,7 @@ Completed: 2,266 (0.99%) (Ranked 124)
 | 2023-09-07 | 227,831 | 2,259 |
 | 2023-09-08 | 227,989 | 2,263 |
 | 2023-09-09 | 228,168 | 2,265 |
-| 2023-09-10 | 228,258 | 2,266 |
+| 2023-09-10 | 228,269 | 2,266 |
 ## Awards
 Max (Diverse Characters): 5,254  (Ranked 67)  
 Sum: 31,509 (Ranked 38)  

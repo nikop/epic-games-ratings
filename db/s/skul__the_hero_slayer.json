@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8174,
+  "EOS_Progressed": 8175,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4615,6 +4615,11 @@
       "Time": "2023-09-10T12:06:24.937295+00:00",
       "NumProgressed": 8174,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-10T15:07:09.6553568+00:00",
+      "NumProgressed": 8175,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4634,7 +4639,7 @@
       "Name": "Too Much of a Talker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ColdBlood",
@@ -4674,7 +4679,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -4714,7 +4719,7 @@
       "Name": "The Hero Killer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "LeoniasFall",
@@ -4738,7 +4743,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 3351
+      "UsersEstimate": 3352
     },
     {
       "ID": "RookieWelcome",
@@ -4770,7 +4775,7 @@
       "Name": "The Skeleton King",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "StockManagement",
@@ -4786,7 +4791,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7602
+      "UsersEstimate": 7603
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4794,7 +4799,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4802,7 +4807,7 @@
       "Name": "Master of Speed",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "WhattoBuy",
@@ -4810,22 +4815,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6866
+      "UsersEstimate": 6867
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8174,
+      "Progressed": 8175,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:05:47.676518+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:07:09.655356+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.4922848+00:00",
-  "LastUpdate_Ratings": "2023-09-10T14:00:06.8512716+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:05:47.6765572+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:01:45.8925565+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:07:09.6554252+00:00"
 }

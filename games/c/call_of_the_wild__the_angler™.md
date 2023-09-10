@@ -187,8 +187,8 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-09 | 5,737 | 0 |
 | 2023-09-10 | 5,740 | 0 |
 ## Awards
-Max (Relaxing): 34  (Ranked 448)  
-Sum: 170 (Ranked 389)  
+Max (Relaxing): 34  (Ranked 449)  
+Sum: 170 (Ranked 390)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |

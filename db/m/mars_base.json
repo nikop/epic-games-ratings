@@ -4,8 +4,8 @@
   "ProductSlug": "mars-base-a00ce0",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-17T21:00:00+00:00",
     "PcReleaseDate": "2022-10-17T21:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.1644396+00:00",
   "LastChanged": "2023-03-31T05:57:32.1644397+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:02.0333435+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:57:30.2592722+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:08:07.4436287+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:57:49.4682342+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:09:30.2481213+00:00"
 }

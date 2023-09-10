@@ -7,7 +7,7 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,612 |
-| Self-Improvement | 71.00% | ~1,301 |
+| Self-Improvement | 72.00% | ~1,319 |
 | Perky | 66.00% | ~1,209 |
 | Let’s Ride | 60.00% | ~1,099 |
 | Welcome to the Weird West | 57.00% | ~1,044 |
@@ -61,7 +61,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,832 (Ranked 183)  
-Completed: 7 (0.38%) (Ranked 165)  
+Completed: 7 (0.38%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -382,6 +382,11 @@
       "Time": "2023-09-10T14:05:35.6317111+00:00",
       "NumProgressed": 486,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T15:06:53.1902648+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -392,9 +397,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 389
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -402,7 +407,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 350
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -410,15 +415,15 @@
       "Name": "Calm Sailing",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -480,9 +485,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 74
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -490,7 +495,7 @@
       "Name": "Miner 49er",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 168
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -498,15 +503,15 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 237
     },
     {
       "ID": "COLLECT_SEASHELLS",
       "SetID": "9eia0f5",
       "Name": "Beach Comber",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -530,7 +535,7 @@
       "Name": "Humble Collector",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -544,9 +549,9 @@
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 266
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -568,9 +573,9 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 173
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -610,7 +615,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -618,7 +623,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -673,14 +678,14 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 493,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:05:35.6317105+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:06:53.1902641+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:57:07.7146184+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:58:49.4068867+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:05:35.6317393+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:59:49.8728942+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:06:53.1903129+00:00"
 }

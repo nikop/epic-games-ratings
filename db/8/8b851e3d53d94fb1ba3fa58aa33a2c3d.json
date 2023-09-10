@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 403,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -430,17 +430,17 @@
       "ID": "HEBE",
       "SetID": "e4de54",
       "Name": "Hebe",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HERA",
       "SetID": "e4de54",
       "Name": "Hera",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HERMES",
@@ -581,8 +581,8 @@
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:03:46.0732605+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:04:22.1366142+00:00",
   "LastUpdate_AppInfo": "2023-09-09T02:09:25.2973236+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:58:31.1858243+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:03:46.0732937+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:59:22.7144883+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:04:22.1366474+00:00"
 }

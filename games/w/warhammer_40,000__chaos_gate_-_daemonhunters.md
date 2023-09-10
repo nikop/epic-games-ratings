@@ -29,12 +29,12 @@ Number of Ratings: 371  (23.09.2022)
 | Only in Death | 0.80% | ~25 |
 | A Gift Spurned | 0.80% | ~25 |
 | Fleetmaster | 0.70% | ~22 |
+| Daemonkeeper | 0.70% | ~22 |
 | Exterminator | 0.70% | ~22 |
 | Efficient Killer | 0.70% | ~22 |
 | Long Distance Call | 0.70% | ~22 |
 | Tactical Flexibility | 0.70% | ~22 |
 | Tactical Sabotage | 0.70% | ~22 |
-| Daemonkeeper | 0.60% | ~19 |
 | Mind Like a Fortress | 0.60% | ~19 |
 | Junk Banishment | 0.60% | ~19 |
 | For the Machine God | 0.50% | ~16 |
@@ -46,6 +46,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.30% | ~10 |
 | Hands-On Research | 0.30% | ~10 |
 | Blood and Iron | 0.20% | ~6 |
+| Warp Flickers | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
 | Reign of Confusion | 0.20% | ~6 |
@@ -61,7 +62,6 @@ Number of Ratings: 371  (23.09.2022)
 | Master of the Forge | 0.10% | ~3 |
 | Field Apothecarion | 0.10% | ~3 |
 | Brothers in Arms | 0.10% | ~3 |
-| Warp Flickers | 0.10% | ~3 |
 | Phalanx | 0.10% | ~3 |
 | Firing Squad | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |

@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.38,
+  "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -351,6 +351,11 @@
       "Time": "2023-09-09T22:08:03.2665546+00:00",
       "NumProgressed": 290,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-10T15:08:45.4657852+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -418,7 +423,7 @@
       "Name": "Assailants",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -458,15 +463,15 @@
       "Name": "Wild Ox",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "PARPLIN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Third Commander",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "PET_DOG",
@@ -480,16 +485,16 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 4
     }
   ],
@@ -497,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:06:55.4256346+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:08:45.4657843+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:10.9300024+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:59:40.1970821+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:06:55.4256495+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:01:05.0182361+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:08:45.4658069+00:00"
 }

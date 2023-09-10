@@ -47,6 +47,7 @@
 | Watcher | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
 | Adept | 1.00% | ~1 |
+| Talent Nurtured | 1.00% | ~1 |
 | Embellished | 1.00% | ~1 |
 | Business As Usual | 1.00% | ~1 |
 | Legacy of a Mercenary | 1.00% | ~1 |
@@ -57,7 +58,6 @@
 | Merchant Lord | 1.00% | ~1 |
 | Voracity Confronted | 1.00% | ~1 |
 | Executor | 0.70% | ~1 |
-| Talent Nurtured | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |
 | Moving At Odd Angles | 0.70% | ~1 |

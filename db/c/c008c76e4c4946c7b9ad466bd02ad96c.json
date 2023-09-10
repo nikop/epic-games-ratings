@@ -4,8 +4,8 @@
   "ProductSlug": "lost-station-35092c",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-24T07:00:00+00:00",
     "PcReleaseDate": "2023-05-24T07:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-05T19:56:55.1200691+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:59:08.276154+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:05:24.7640075+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:00:18.4197097+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:06:37.7758594+00:00"
 }

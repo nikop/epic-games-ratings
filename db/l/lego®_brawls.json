@@ -4,8 +4,8 @@
   "ProductSlug": "lego-brawls",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-16T17:00:00+00:00",
     "PcReleaseDate": "2022-12-16T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:53.1081024+00:00",
   "LastChanged": "2023-03-31T05:57:53.1081025+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:59.2046716+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:57:36.6348401+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:03:43.8809452+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:57:59.7505027+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:04:18.9264557+00:00"
 }

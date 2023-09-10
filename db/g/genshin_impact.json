@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -10884,10 +10884,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1385576,
       "NumberOfAwardsMax": 305289
+    },
+    {
+      "Time": "2023-09-10T15:02:13.0947045+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1385727,
+      "NumberOfAwardsMax": 305289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1385576,
+  "NumberOfAwards": 1385727,
   "NumberOfAwardsMax": 305289,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10901,7 +10907,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 142344
+      "Count": 142426
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10913,13 +10919,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 120356
+      "Count": 120396
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 114713
+      "Count": 114742
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10969,8 +10975,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-09-10T13:03:08.5113619+00:00",
+  "LastChanged": "2023-09-10T15:02:13.0947043+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:10.6152715+00:00",
-  "LastUpdate_Ratings": "2023-09-10T14:00:24.2408929+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:04:12.339816+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:02:13.094705+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:04:59.7571135+00:00"
 }

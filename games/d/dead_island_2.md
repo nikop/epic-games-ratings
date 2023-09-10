@@ -5,35 +5,35 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 2.00% | ~13,544 |
-| Welcome To Hell-A | 2.00% | ~13,544 |
-| Dr. Reed, I Presume? | 1.00% | ~6,772 |
-| Git Gutte! | 1.00% | ~6,772 |
-| Bookworm | 1.00% | ~6,772 |
-| Break A Leg | 1.00% | ~6,772 |
-| But Doctor, I am Butcho | 1.00% | ~6,772 |
-| Slayer Squad | 1.00% | ~6,772 |
-| Can't Handle the Truth | 1.00% | ~6,772 |
-| Coup de Grâce | 1.00% | ~6,772 |
-| Like Riding a Bike | 1.00% | ~6,772 |
-| Hazardous Materials | 1.00% | ~6,772 |
-| Friends Like These | 1.00% | ~6,772 |
-| Apex Predator | 1.00% | ~6,772 |
-| Zombologist | 1.00% | ~6,772 |
-| A Patton Emerges | 1.00% | ~6,772 |
-| Stacking the Deck | 1.00% | ~6,772 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,772 |
-| This is My Weapon | 1.00% | ~6,772 |
+| Hotel California | 2.00% | ~13,545 |
+| Welcome To Hell-A | 2.00% | ~13,545 |
+| Dr. Reed, I Presume? | 1.00% | ~6,773 |
+| Git Gutte! | 1.00% | ~6,773 |
+| Bookworm | 1.00% | ~6,773 |
+| Break A Leg | 1.00% | ~6,773 |
+| But Doctor, I am Butcho | 1.00% | ~6,773 |
+| Slayer Squad | 1.00% | ~6,773 |
+| Can't Handle the Truth | 1.00% | ~6,773 |
+| Coup de Grâce | 1.00% | ~6,773 |
+| Like Riding a Bike | 1.00% | ~6,773 |
+| Hazardous Materials | 1.00% | ~6,773 |
+| Friends Like These | 1.00% | ~6,773 |
+| Apex Predator | 1.00% | ~6,773 |
+| Zombologist | 1.00% | ~6,773 |
+| A Patton Emerges | 1.00% | ~6,773 |
+| Stacking the Deck | 1.00% | ~6,773 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,773 |
+| This is My Weapon | 1.00% | ~6,773 |
 | I Am the Resurrection | 0.90% | ~6,095 |
 | Our True Nature | 0.90% | ~6,095 |
 | Anger Management | 0.80% | ~5,418 |
 | Perks of the Job | 0.80% | ~5,418 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,418 |
 | Ooh, Shiny! | 0.80% | ~5,418 |
-| Making Your Mark | 0.70% | ~4,740 |
-| Humanity Distilled | 0.70% | ~4,740 |
-| Down with the Sickness | 0.60% | ~4,063 |
-| Max Headroom | 0.60% | ~4,063 |
+| Making Your Mark | 0.70% | ~4,741 |
+| Humanity Distilled | 0.70% | ~4,741 |
+| Down with the Sickness | 0.60% | ~4,064 |
+| Max Headroom | 0.60% | ~4,064 |
 | Go, Bobcats! | 0.50% | ~3,386 |
 | Rising Star | 0.50% | ~3,386 |
 | Smorgasbord | 0.40% | ~2,709 |
@@ -43,16 +43,16 @@ Rating: 4.54 (Ranked 502)
 | Not Even My Final Form | 0.30% | ~2,032 |
 | Internet Famous | 0.30% | ~2,032 |
 | Variety is the Spice of Death | 0.30% | ~2,032 |
-| LA Influential | 0.20% | ~1,354 |
-| Sole Survivor | 0.20% | ~1,354 |
-| Gore Horse | 0.20% | ~1,354 |
-| Sharpest Tool in the Box | 0.20% | ~1,354 |
-| Survival Skills | 0.20% | ~1,354 |
+| LA Influential | 0.20% | ~1,355 |
+| Sole Survivor | 0.20% | ~1,355 |
+| Gore Horse | 0.20% | ~1,355 |
+| Sharpest Tool in the Box | 0.20% | ~1,355 |
+| Survival Skills | 0.20% | ~1,355 |
 | Donk! | 0.10% | ~677 |
 | Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,204 (Ranked 22)  
-Completed: 2,131 (0.31%) (Ranked 177)  
+Progressed: 677,264 (Ranked 22)  
+Completed: 2,132 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 2,131 (0.31%) (Ranked 177)
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
-| 2023-09-10 | 677,204 | 2,131 |
+| 2023-09-10 | 677,264 | 2,132 |
 ## Awards
 Max (Great Boss Battles): 5,990  (Ranked 58)  
 Sum: 8,852 (Ranked 94)  

@@ -776,9 +776,9 @@
       "ID": "ach_skip_5",
       "SetID": "5e260i9",
       "Name": "Skip and conquer!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 150,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
@@ -791,8 +791,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:07:19.4424514+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:09:19.8003339+00:00",
   "LastUpdate_AppInfo": "2023-09-08T01:38:48.1675147+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:58:25.8545911+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:07:19.4424646+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:59:14.6378807+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:09:19.8003573+00:00"
 }

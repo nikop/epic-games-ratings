@@ -6,31 +6,31 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,722 |
-| Tutti Eroi! | 55.00% | ~3,722 |
-| You Shall Not Pass | 53.00% | ~3,587 |
-| Avanti Savoia! | 48.00% | ~3,248 |
-| Mamma Mia! | 38.00% | ~2,571 |
-| Conrad von Hotzensocks | 36.00% | ~2,436 |
-| Gabriele D'Annunzio | 33.00% | ~2,233 |
-| Silver Lining | 30.00% | ~2,030 |
-| Aurelio Baruzzi | 24.00% | ~1,624 |
+| Peak Performance | 55.00% | ~3,723 |
+| Tutti Eroi! | 55.00% | ~3,723 |
+| You Shall Not Pass | 53.00% | ~3,588 |
+| Avanti Savoia! | 48.00% | ~3,249 |
+| Mamma Mia! | 38.00% | ~2,572 |
+| Conrad von Hotzensocks | 36.00% | ~2,437 |
+| Gabriele D'Annunzio | 33.00% | ~2,234 |
+| Silver Lining | 30.00% | ~2,031 |
+| Aurelio Baruzzi | 24.00% | ~1,625 |
 | Decimation | 22.00% | ~1,489 |
 | Donatello | 22.00% | ~1,489 |
 | Veni Vidi Vici | 22.00% | ~1,489 |
 | The Italian Job | 21.00% | ~1,421 |
-| Insubordination | 20.00% | ~1,353 |
+| Insubordination | 20.00% | ~1,354 |
 | Ragazzi del '99 | 18.00% | ~1,218 |
 | The Lion of the Isonzo | 18.00% | ~1,218 |
 | Luigi Cadorna | 15.00% | ~1,015 |
-| Dirty Dozen | 14.00% | ~947 |
-| Uomo Universale | 14.00% | ~947 |
+| Dirty Dozen | 14.00% | ~948 |
+| Uomo Universale | 14.00% | ~948 |
 | Die Bosniaken Kommen! | 13.00% | ~880 |
 | Machiavelli | 13.00% | ~880 |
 | Shaken, Not Stirred | 13.00% | ~880 |
 | Thus With A Kiss | 13.00% | ~880 |
 | The Devil's Paintbrush | 12.00% | ~812 |
-| Dante's Inferno | 11.00% | ~744 |
+| Dante's Inferno | 11.00% | ~745 |
 | I Have the High Ground | 10.00% | ~677 |
 | Millenial | 10.00% | ~677 |
 | The Show Must Go On | 9.00% | ~609 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,767 (Ranked 140)  
+Progressed: 6,769 (Ranked 140)  
 Completed: 8 (0.12%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,11 +189,11 @@ Completed: 8 (0.12%) (Ranked 211)
 | 2023-09-07 | 6,727 | 8 |
 | 2023-09-08 | 6,744 | 8 |
 | 2023-09-09 | 6,761 | 8 |
-| 2023-09-10 | 6,767 | 8 |
+| 2023-09-10 | 6,769 | 8 |
 ## Awards
-Max (Highly Recommended): 36  (Ranked 440)  
+Max (Highly Recommended): 36  (Ranked 441)  
 Sum: 271 (Ranked 352)  
-Diff (max vs sum): 88  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |

@@ -38,7 +38,7 @@ Number of Ratings: 34  (23.09.2022)
 | Without a Second Thought | 15.00% | ~74 |
 | Collectibles of Chapter V | 11.00% | ~54 |
 | Such is War! | 9.00% | ~45 |
-| Tiptoe Around | 8.00% | ~40 |
+| Tiptoe Around | 9.00% | ~45 |
 | Collectibles of Chapter XII | 7.00% | ~35 |
 | Piece of Cake | 7.00% | ~35 |
 | Collectibles of Chapter VII | 6.00% | ~30 |

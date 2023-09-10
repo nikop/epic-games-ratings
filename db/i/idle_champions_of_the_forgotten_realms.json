@@ -6520,9 +6520,9 @@
       "Count": 3407
     }
   ],
-  "EOS_Progressed": 228258,
+  "EOS_Progressed": 228269,
   "EOS_Completed": 2266,
-  "EOS_NewPlayers": 1445,
+  "EOS_NewPlayers": 1449,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22325,6 +22325,11 @@
       "Time": "2023-09-10T14:03:34.1675335+00:00",
       "NumProgressed": 228258,
       "NumCompleted": 2266
+    },
+    {
+      "Time": "2023-09-10T15:04:05.4696393+00:00",
+      "NumProgressed": 228269,
+      "NumCompleted": 2266
     }
   ],
   "TotalAchievements": 520,
@@ -22342,9 +22347,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 685
     },
     {
       "ID": "objective_completed_100",
@@ -24470,9 +24475,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 685
     },
     {
       "ID": "objective_completed_54",
@@ -26495,21 +26500,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194532,
+      "Progressed": 194543,
       "Completed": 3417
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228258,
+      "Progressed": 228269,
       "Completed": 2266
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-10T12:00:07.4065018+00:00",
-  "LastChanged_Achievements": "2023-09-10T14:03:34.1675324+00:00",
+  "LastChanged_Achievements": "2023-09-10T15:04:05.4696387+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:59:39.6590012+00:00",
-  "LastUpdate_Achievements": "2023-09-10T14:03:34.1703049+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:01:04.1639069+00:00",
+  "LastUpdate_Achievements": "2023-09-10T15:04:05.4755523+00:00"
 }

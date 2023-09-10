@@ -5,42 +5,42 @@ Rating: 4.27 (Ranked 820)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,562 |
-| Copacetic Coordination | 16.00% | ~54,804 |
-| Fronting the Money | 15.00% | ~51,379 |
-| The Dawn of Automation | 14.00% | ~47,954 |
-| Extraordinary Logistics | 14.00% | ~47,954 |
-| Dirty Money | 13.00% | ~44,528 |
-| Family First | 13.00% | ~44,528 |
-| Cleaning House | 12.00% | ~41,103 |
-| Room in the Back | 12.00% | ~41,103 |
-| Beating the Heat | 11.00% | ~37,678 |
-| Booze Baron | 11.00% | ~37,678 |
-| Friends on the Force | 10.00% | ~34,253 |
-| Neighborhood Watch | 10.00% | ~34,253 |
-| Core Corps | 8.00% | ~27,402 |
-| Sizeable Stash | 8.00% | ~27,402 |
-| Street Fighter | 7.00% | ~23,977 |
-| Friendly Gestures | 7.00% | ~23,977 |
-| People Person | 7.00% | ~23,977 |
-| Liquor Lord | 6.00% | ~20,552 |
-| Safety in Numbers | 6.00% | ~20,552 |
-| Moving Experiences | 6.00% | ~20,552 |
-| Wise Head | 6.00% | ~20,552 |
-| Show ‘em the Sugar | 6.00% | ~20,552 |
-| Killing Them Softly | 6.00% | ~20,552 |
-| Street Knowledge | 5.00% | ~17,126 |
-| Oh Captain | 5.00% | ~17,126 |
-| Branching Out | 5.00% | ~17,126 |
-| Improvement Missions | 5.00% | ~17,126 |
-| Opportunity Knocked | 5.00% | ~17,126 |
-| City of Big Shoulders | 5.00% | ~17,126 |
-| Mission Mastery | 5.00% | ~17,126 |
-| Considerable Clams | 4.00% | ~13,701 |
-| Gin Joint | 4.00% | ~13,701 |
-| An Affront to the Enemy | 4.00% | ~13,701 |
-| Friends from Back Home | 4.00% | ~13,701 |
-| Half Century Mark | 4.00% | ~13,701 |
+| Corner Clout | 46.00% | ~157,569 |
+| Copacetic Coordination | 16.00% | ~54,807 |
+| Fronting the Money | 15.00% | ~51,381 |
+| The Dawn of Automation | 14.00% | ~47,956 |
+| Extraordinary Logistics | 14.00% | ~47,956 |
+| Dirty Money | 13.00% | ~44,530 |
+| Family First | 13.00% | ~44,530 |
+| Cleaning House | 12.00% | ~41,105 |
+| Room in the Back | 12.00% | ~41,105 |
+| Beating the Heat | 11.00% | ~37,680 |
+| Booze Baron | 11.00% | ~37,680 |
+| Friends on the Force | 10.00% | ~34,254 |
+| Neighborhood Watch | 10.00% | ~34,254 |
+| Core Corps | 8.00% | ~27,403 |
+| Sizeable Stash | 8.00% | ~27,403 |
+| Street Fighter | 7.00% | ~23,978 |
+| Friendly Gestures | 7.00% | ~23,978 |
+| People Person | 7.00% | ~23,978 |
+| Liquor Lord | 6.00% | ~20,553 |
+| Safety in Numbers | 6.00% | ~20,553 |
+| Moving Experiences | 6.00% | ~20,553 |
+| Wise Head | 6.00% | ~20,553 |
+| Show ‘em the Sugar | 6.00% | ~20,553 |
+| Killing Them Softly | 6.00% | ~20,553 |
+| Street Knowledge | 5.00% | ~17,127 |
+| Oh Captain | 5.00% | ~17,127 |
+| Branching Out | 5.00% | ~17,127 |
+| Improvement Missions | 5.00% | ~17,127 |
+| Opportunity Knocked | 5.00% | ~17,127 |
+| City of Big Shoulders | 5.00% | ~17,127 |
+| Mission Mastery | 5.00% | ~17,127 |
+| Considerable Clams | 4.00% | ~13,702 |
+| Gin Joint | 4.00% | ~13,702 |
+| An Affront to the Enemy | 4.00% | ~13,702 |
+| Friends from Back Home | 4.00% | ~13,702 |
+| Half Century Mark | 4.00% | ~13,702 |
 | Corner Opportunities | 3.00% | ~10,276 |
 | 2122 North Clark Street | 3.00% | ~10,276 |
 | Copious Cabbage | 3.00% | ~10,276 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 820)
 | High Pillow | 0.10% | ~343 |
 | Station Master | 0.10% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,526 (Ranked 42)  
+Progressed: 342,542 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,14 +229,14 @@ Completed: 7 (0.00%) (Ranked 272)
 | 2023-09-07 | 342,060 | 7 |
 | 2023-09-08 | 342,215 | 7 |
 | 2023-09-09 | 342,398 | 7 |
-| 2023-09-10 | 342,526 | 7 |
+| 2023-09-10 | 342,542 | 7 |
 ## Awards
-Max (Highly Recommended): 32  (Ranked 456)  
-Sum: 155 (Ranked 396)  
-Diff (max vs sum): 60  
+Max (Great for Beginners): 37  (Ranked 435)  
+Sum: 192 (Ranked 377)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 33 |
+| This game is Great for Beginners | 37 |
 | This game is Highly Recommended | 32 |
 | This game is Relaxing | 29 |
 | This game is Extremely Fun | 26 |
@@ -321,3 +321,4 @@ Diff (max vs sum): 60
 | 2023-09-03 | 4.27 | 30 | 151 |
 | 2023-09-04 | 4.27 | 32 | 131 |
 | 2023-09-09 | 4.27 | 32 | 155 |
+| 2023-09-10 | 4.27 | 37 | 192 |
