@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -628,9 +628,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9865,
+  "EOS_Progressed": 9867,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9213,6 +9213,11 @@
       "Time": "2023-09-09T20:06:19.0897428+00:00",
       "NumProgressed": 9865,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-10T00:05:52.5290575+00:00",
+      "NumProgressed": 9867,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 34,
@@ -9240,7 +9245,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH04",
@@ -9328,7 +9333,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4143
+      "UsersEstimate": 4144
     },
     {
       "ID": "ACH15",
@@ -9384,7 +9389,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "ACH22",
@@ -9495,7 +9500,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9865,
+      "Progressed": 9867,
       "Completed": 55
     }
   ],
@@ -9503,8 +9508,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-09T18:00:51.9838604+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:05:52.2121185+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:05:52.529057+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:59:58.7676413+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:05:52.2121785+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:59:42.0544255+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:05:52.5291557+00:00"
 }

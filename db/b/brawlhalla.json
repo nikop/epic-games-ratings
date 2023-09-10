@@ -4,11 +4,11 @@
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 392,
   "Ranking_Popularity": 235,
-  "Ranking_PopularitySum": 169,
+  "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -5940,10 +5940,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2954,
       "NumberOfAwardsMax": 316
+    },
+    {
+      "Time": "2023-09-09T23:57:25.5094845+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2967,
+      "NumberOfAwardsMax": 316
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2954,
+  "NumberOfAwards": 2967,
   "NumberOfAwardsMax": 316,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5951,7 +5957,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 252
+      "Count": 258
     },
     {
       "Text": "This game has Competitive Players",
@@ -5969,7 +5975,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 285
+      "Count": 287
     },
     {
       "Text": "This game is Relaxing",
@@ -5993,7 +5999,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 204
+      "Count": 209
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6032,8 +6038,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-09-09T20:57:18.7694827+00:00",
+  "LastChanged": "2023-09-09T23:57:25.5094839+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.8569706+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:57:16.3517664+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:04:09.2581925+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:57:25.509485+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:04:24.5927208+00:00"
 }

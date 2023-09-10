@@ -14,27 +14,27 @@ Rating: 4.63 (Ranked 333)
 | Champ'een of The Praire | 1.00% | ~2,295 |
 | Come At Me! | 1.00% | ~2,295 |
 | Sin'er Man | 0.20% | ~459 |
-| Well-Done | 0.10% | ~229 |
-| Valedictorian | 0.10% | ~229 |
-| Love is a Battlefield | 0.10% | ~229 |
-| That'll Do | 0.10% | ~229 |
-| Swashbuckle'd | 0.10% | ~229 |
-| School of Hard Knocks | 0.10% | ~229 |
-| Way of the Dragon | 0.10% | ~229 |
-| Iced Out | 0.10% | ~229 |
-| Kickin' 'n Stompin' | 0.10% | ~229 |
-| Dark Magic | 0.10% | ~229 |
-| I Love You This Much | 0.10% | ~229 |
-| Who Let The Dogs Out? | 0.10% | ~229 |
-| The GOAT | 0.10% | ~229 |
-| The Key To Victory | 0.10% | ~229 |
-| Honor For All | 0.10% | ~229 |
-| Ice Queen | 0.10% | ~229 |
-| Doohickeys | 0.10% | ~229 |
-| Alpaca Space Program | 0.10% | ~229 |
-| High Priestess | 0.10% | ~229 |
+| Well-Done | 0.10% | ~230 |
+| Valedictorian | 0.10% | ~230 |
+| Love is a Battlefield | 0.10% | ~230 |
+| That'll Do | 0.10% | ~230 |
+| Swashbuckle'd | 0.10% | ~230 |
+| School of Hard Knocks | 0.10% | ~230 |
+| Way of the Dragon | 0.10% | ~230 |
+| Iced Out | 0.10% | ~230 |
+| Kickin' 'n Stompin' | 0.10% | ~230 |
+| Dark Magic | 0.10% | ~230 |
+| I Love You This Much | 0.10% | ~230 |
+| Who Let The Dogs Out? | 0.10% | ~230 |
+| The GOAT | 0.10% | ~230 |
+| The Key To Victory | 0.10% | ~230 |
+| Honor For All | 0.10% | ~230 |
+| Ice Queen | 0.10% | ~230 |
+| Doohickeys | 0.10% | ~230 |
+| Alpaca Space Program | 0.10% | ~230 |
+| High Priestess | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,499 (Ranked 53)  
+Progressed: 229,501 (Ranked 53)  
 Completed: 4 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 4 (0.00%) (Ranked 272)
 | 2023-09-07 | 229,395 | 3 |
 | 2023-09-08 | 229,434 | 4 |
 | 2023-09-09 | 229,499 | 4 |
+| 2023-09-10 | 229,501 | 4 |
 ## Awards
 Max (Great for Beginners): 20  (Ranked 513)  
 Sum: 20 (Ranked 513)  

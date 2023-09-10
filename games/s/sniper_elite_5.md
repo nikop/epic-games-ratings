@@ -49,13 +49,13 @@ Rating: 4.47 (Ranked 613)
 | Last Resort | 4.00% | ~142 |
 | Siegebreaker | 4.00% | ~142 |
 | Ghost of Falaise | 4.00% | ~142 |
+| From Paris with Love | 3.00% | ~108 |
 | Burn after reading | 3.00% | ~108 |
 | Souvenir hunter | 3.00% | ~108 |
 | Shoot for the Moon | 3.00% | ~108 |
 | If You Go Down To The Woods Today | 3.00% | ~106 |
 | Fight Another Day | 3.00% | ~106 |
 | Out of Scope | 2.00% | ~72 |
-| From Paris with Love | 2.00% | ~72 |
 | Eagle Eyed | 2.00% | ~72 |
 | Up close and personal | 2.00% | ~72 |
 | Can't Outrun A Bullet | 2.00% | ~72 |
@@ -78,7 +78,7 @@ Rating: 4.47 (Ranked 613)
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,599 (Ranked 156)  
-Completed: 10 (0.28%) (Ranked 182)  
+Completed: 10 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

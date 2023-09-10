@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -1163,6 +1163,11 @@
       "Time": "2023-09-09T21:05:20.7073808+00:00",
       "NumProgressed": 247,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T00:05:25.9643906+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1181,9 +1186,9 @@
       "ID": "ACH_BLUEEND",
       "SetID": "232494e",
       "Name": "The Flawed Teacher",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 120,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1319,7 +1324,7 @@
       "Name": "Mission Success",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_HUB2",
@@ -1335,7 +1340,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_PEAK",
@@ -1375,7 +1380,7 @@
       "Name": "Power Glove",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_S5",
@@ -1406,15 +1411,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:05:21.732205+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:05:25.9643902+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:58:58.087393+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:05:21.732227+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:58:51.4428766+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:05:25.9644194+00:00"
 }

@@ -1,35 +1,35 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 505)  
+Rating: 4.54 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,116 |
-| Before the Downfall | 93.00% | ~18,141 |
+| Trevithick's Legacy | 98.00% | ~19,115 |
+| Before the Downfall | 93.00% | ~18,140 |
 | Money like Water | 91.00% | ~17,750 |
-| Minimalist | 90.00% | ~17,555 |
-| Builder | 83.00% | ~16,190 |
+| Minimalist | 90.00% | ~17,554 |
+| Builder | 83.00% | ~16,189 |
 | Eraser | 70.00% | ~13,654 |
-| Pocket of Trains | 65.00% | ~12,679 |
-| Inspector | 59.00% | ~11,509 |
+| Pocket of Trains | 65.00% | ~12,678 |
+| Inspector | 59.00% | ~11,508 |
 | Going the Distance | 54.00% | ~10,533 |
-| Oil Baron | 42.00% | ~8,193 |
-| Loads-a-Money | 42.00% | ~8,193 |
+| Oil Baron | 42.00% | ~8,192 |
+| Loads-a-Money | 42.00% | ~8,192 |
 | Helper of the People | 39.00% | ~7,607 |
 | Simplification | 34.00% | ~6,632 |
 | Box of Trains | 33.00% | ~6,437 |
 | Let There be Light | 33.00% | ~6,437 |
 | Hot Water | 31.00% | ~6,047 |
-| Indecisive | 29.00% | ~5,657 |
-| The scenic route | 28.00% | ~5,462 |
+| Indecisive | 29.00% | ~5,656 |
+| The scenic route | 28.00% | ~5,461 |
 | Industrialist | 25.00% | ~4,876 |
 | Perfectionist | 24.00% | ~4,681 |
 | 8K is Enough for Everyone | 23.00% | ~4,486 |
 | Trains over Pipes | 23.00% | ~4,486 |
 | Man of Steel | 17.00% | ~3,316 |
 | Room Full of Trains | 13.00% | ~2,536 |
-| Investor | 10.00% | ~1,951 |
+| Investor | 10.00% | ~1,950 |
 | Multiverse | 7.00% | ~1,365 |
 | The poor groundwater levels | 7.00% | ~1,365 |
 | Metropolis | 7.00% | ~1,365 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 505)
 | Overdeer | 0.50% | ~98 |
 | Cloud Services | 0.30% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,506 (Ranked 112)  
+Progressed: 19,505 (Ranked 112)  
 Completed: 37 (0.19%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 37 (0.19%) (Ranked 197)
 | 2023-09-07 | 19,562 | 38 |
 | 2023-09-08 | 19,539 | 37 |
 | 2023-09-09 | 19,523 | 37 |
+| 2023-09-10 | 19,505 | 37 |
 ## Awards
 Max (Quickly Understood Controls): 88  (Ranked 356)  
 Sum: 665 (Ranked 287)  

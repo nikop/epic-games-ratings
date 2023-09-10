@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -593,9 +593,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1262,
+  "EOS_Progressed": 1266,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3883,6 +3883,11 @@
       "Time": "2023-09-09T23:05:41.1797819+00:00",
       "NumProgressed": 1262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T00:05:42.7533612+00:00",
+      "NumProgressed": 1266,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -3973,9 +3978,9 @@
       "ID": "MF_Ach_HarderTheyFall",
       "SetID": "9b9n573",
       "Name": "The Harder They Fall",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -4037,9 +4042,9 @@
       "ID": "MF_Ach_SeasonFinale",
       "SetID": "9b9n573",
       "Name": "Season Finale",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -4078,15 +4083,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1262,
+      "Progressed": 1266,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-08T22:00:22.0755866+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:05:41.1797815+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:05:42.7533606+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:00:18.6957191+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:05:41.1798107+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:59:59.1540745+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:05:42.7534009+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -822,9 +822,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222713,
+  "EOS_Progressed": 222732,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2166,
+  "EOS_NewPlayers": 2170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10207,6 +10207,11 @@
       "Time": "2023-09-09T23:06:45.052007+00:00",
       "NumProgressed": 222713,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-10T00:06:37.6656722+00:00",
+      "NumProgressed": 222732,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10250,7 +10255,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "BookCollection",
@@ -10266,7 +10271,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "Chapter2",
@@ -10274,7 +10279,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "Chapter3",
@@ -10642,7 +10647,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "DwarfLevel2",
@@ -10650,7 +10655,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "ElfEpic",
@@ -10666,7 +10671,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64587
+      "UsersEstimate": 64592
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10682,7 +10687,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "EndCombatOneHp",
@@ -10690,7 +10695,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "EndGameCursed",
@@ -10722,7 +10727,7 @@
       "Name": "The beards of change",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "FollowNarzatok",
@@ -10858,7 +10863,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "Speedrun",
@@ -10866,7 +10871,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     },
     {
       "ID": "SupportCount4",
@@ -10914,28 +10919,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4455
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222713,
+      "Progressed": 222732,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222713,
+      "Progressed": 222732,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-09T19:00:23.0234679+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:06:45.0520065+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:06:37.6656718+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:00:01.1753383+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:06:45.0521345+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:59:43.9971952+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:06:37.6658479+00:00"
 }

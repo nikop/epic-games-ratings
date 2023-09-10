@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -940,9 +940,9 @@
       "ID": "questSWAntidot",
       "SetID": "2fb6h6c",
       "Name": "Conquerer of Animalizing",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "questSWComplete",
@@ -1025,8 +1025,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:07:38.1525141+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:09:05.1776688+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:58:13.4990595+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:07:38.1525822+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:58:14.1417487+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:09:05.1777528+00:00"
 }

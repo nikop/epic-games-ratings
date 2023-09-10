@@ -1,27 +1,27 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.53 (Ranked 984)  
+Rating: 3.58 (Ranked 984)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~16,013 |
-| Hard Worker | 20.00% | ~14,557 |
-| Master, Commander | 20.00% | ~14,557 |
+| Be Seeing You | 22.00% | ~16,014 |
+| Hard Worker | 20.00% | ~14,558 |
+| Master, Commander | 20.00% | ~14,558 |
 | Mechanic | 19.00% | ~13,830 |
 | Adios, Friendo | 18.00% | ~13,102 |
 | Bottom's Up | 18.00% | ~13,102 |
 | Nice Try | 16.00% | ~11,646 |
-| Right On Target | 13.00% | ~9,462 |
+| Right On Target | 13.00% | ~9,463 |
 | Piano Man | 10.00% | ~7,279 |
 | Lazy Bones | 9.00% | ~6,551 |
 | Vinyl Vibes | 8.00% | ~5,823 |
 | Nothing Left to Say | 7.00% | ~5,095 |
 | Sniper | 7.00% | ~5,095 |
 | Cut Call | 6.00% | ~4,367 |
-| Magnetic Miracles | 5.00% | ~3,639 |
-| Butcher | 4.00% | ~2,911 |
-| Spicy | 4.00% | ~2,911 |
+| Magnetic Miracles | 5.00% | ~3,640 |
+| Butcher | 4.00% | ~2,912 |
+| Spicy | 4.00% | ~2,912 |
 | A Man Of Taste | 3.00% | ~2,184 |
 | Ace in the Hole | 3.00% | ~2,184 |
 | Fair's Fair | 3.00% | ~2,184 |
@@ -31,7 +31,7 @@ Rating: 3.53 (Ranked 984)
 | Audiophile | 2.00% | ~1,456 |
 | Tape Head | 2.00% | ~1,456 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,787 (Ranked 81)  
+Progressed: 72,790 (Ranked 81)  
 Completed: 752 (1.03%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 752 (1.03%) (Ranked 119)
 | 2023-09-07 | 72,603 | 750 |
 | 2023-09-08 | 72,692 | 750 |
 | 2023-09-09 | 72,787 | 752 |
+| 2023-09-10 | 72,790 | 752 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -189,3 +190,4 @@ Completed: 752 (1.03%) (Ranked 119)
 | 2023-07-20 | 3.43 | 0 | 0 |
 | 2023-07-28 | 3.48 | 0 | 0 |
 | 2023-08-07 | 3.53 | 0 | 0 |
+| 2023-09-09 | 3.58 | 0 | 0 |

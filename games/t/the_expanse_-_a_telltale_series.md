@@ -11,8 +11,8 @@ Rating: 4.59 (Ranked 417)
 | Captain Drummer | 22.00% | ~2,274 |
 | Spore Taste | 21.00% | ~2,171 |
 | Celebrations are in Order | 21.00% | ~2,171 |
-| Doctor Approved | 18.00% | ~1,860 |
-| Thorston Mayer | 12.00% | ~1,240 |
+| Doctor Approved | 18.00% | ~1,861 |
+| Thorston Mayer | 12.00% | ~1,241 |
 | The Pit and the Pirates | 11.00% | ~1,137 |
 | Drone Dodger | 11.00% | ~1,137 |
 | Bottoms up! | 10.00% | ~1,034 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 417)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,336 (Ranked 127)  
+Progressed: 10,338 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 10,199 | 0 |
 | 2023-09-08 | 10,264 | 0 |
 | 2023-09-09 | 10,336 | 0 |
+| 2023-09-10 | 10,338 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

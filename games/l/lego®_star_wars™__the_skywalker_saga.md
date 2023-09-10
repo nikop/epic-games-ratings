@@ -6,21 +6,21 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,042 |
-| ''I don't like you either!'' | 79.00% | ~40,756 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,145 |
-| ''Impressive, most impressive'' | 71.00% | ~36,629 |
-| The Phantom Menace | 59.00% | ~30,438 |
-| ''Aggressive Negotiations'' | 58.00% | ~29,922 |
-| ''I can fly anything'' | 57.00% | ~29,406 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,043 |
+| ''I don't like you either!'' | 79.00% | ~40,757 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,146 |
+| ''Impressive, most impressive'' | 71.00% | ~36,630 |
+| The Phantom Menace | 59.00% | ~30,439 |
+| ''Aggressive Negotiations'' | 58.00% | ~29,923 |
+| ''I can fly anything'' | 57.00% | ~29,407 |
 | ''And who gave you permission...?'' | 53.00% | ~27,343 |
-| A New Hope | 47.00% | ~24,247 |
-| Attack of the Clones | 46.00% | ~23,731 |
+| A New Hope | 47.00% | ~24,248 |
+| Attack of the Clones | 46.00% | ~23,732 |
 | Revenge of the Sith | 40.00% | ~20,636 |
-| The Empire Strikes Back | 37.00% | ~19,088 |
-| ''A fine addition to my collection'' | 37.00% | ~19,088 |
+| The Empire Strikes Back | 37.00% | ~19,089 |
+| ''A fine addition to my collection'' | 37.00% | ~19,089 |
 | Return of the Jedi | 32.00% | ~16,509 |
-| The Force Awakens | 26.00% | ~13,413 |
+| The Force Awakens | 26.00% | ~13,414 |
 | The Last Jedi | 22.00% | ~11,350 |
 | The Rise of Skywalker | 20.00% | ~10,318 |
 | ''It's true... all of it'' | 19.00% | ~9,802 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~516 |
 | ''I've never seen a real one!'' | 0.90% | ~464 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,590 (Ranked 91)  
+Progressed: 51,591 (Ranked 91)  
 Completed: 230 (0.45%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 230 (0.45%) (Ranked 159)
 | 2023-09-07 | 51,511 | 230 |
 | 2023-09-08 | 51,565 | 230 |
 | 2023-09-09 | 51,590 | 230 |
+| 2023-09-10 | 51,591 | 230 |
 ## Awards
 Max (Great Boss Battles): 2,396  (Ranked 103)  
 Sum: 6,584 (Ranked 118)  

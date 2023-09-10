@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17926,
+  "EOS_Progressed": 17927,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -11847,6 +11847,11 @@
       "Time": "2023-09-09T22:08:19.4057508+00:00",
       "NumProgressed": 17926,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-10T00:07:05.3573027+00:00",
+      "NumProgressed": 17927,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -11930,7 +11935,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -11938,7 +11943,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5019
+      "UsersEstimate": 5020
     },
     {
       "ID": "ACH_THE_FALL",
@@ -11969,15 +11974,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17926,
+      "Progressed": 17927,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:07:15.0774624+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:07:05.3573022+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:18.1585885+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:57:59.7182857+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:07:15.0775269+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:58:01.9315584+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:07:05.3573891+00:00"
 }

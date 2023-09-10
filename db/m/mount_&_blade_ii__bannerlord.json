@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7029,9 +7029,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60687,
+  "EOS_Progressed": 60689,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22104,6 +22104,11 @@
       "Time": "2023-09-09T23:04:46.282146+00:00",
       "NumProgressed": 60687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T00:04:56.468546+00:00",
+      "NumProgressed": 60689,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22115,7 +22120,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7282
+      "UsersEstimate": 7283
     },
     {
       "ID": "Apple of my eye",
@@ -22171,7 +22176,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "Crackshot",
@@ -22179,7 +22184,7 @@
       "Name": "Crackshot",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Crush your enemies",
@@ -22243,7 +22248,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7889
+      "UsersEstimate": 7890
     },
     {
       "ID": "Great Granny",
@@ -22347,7 +22352,7 @@
       "Name": "Lawbringer",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 23061
+      "UsersEstimate": 23062
     },
     {
       "ID": "Lawmaker",
@@ -22491,7 +22496,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13351
+      "UsersEstimate": 13352
     },
     {
       "ID": "Undercover",
@@ -22499,7 +22504,7 @@
       "Name": "Undercover",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Veni vidi vici",
@@ -22507,7 +22512,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -22522,15 +22527,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60687,
+      "Progressed": 60689,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-09T21:57:28.2385962+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:04:46.2821456+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:04:56.4685454+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:57:13.2148849+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:04:46.2822522+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:57:22.8381024+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:04:56.4686987+00:00"
 }

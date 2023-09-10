@@ -2,13 +2,13 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 150,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-02-17T06:00:00+00:00",
     "PcReleaseDate": "2021-02-17T06:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ, CN"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 692,
   "RatingHistory": [
     {
@@ -3585,6 +3585,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 4051,
       "NumberOfAwardsMax": 934
+    },
+    {
+      "Time": "2023-09-09T23:59:37.7084701+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 4051,
+      "NumberOfAwardsMax": 934
     }
   ],
   "ReviewsDisabled": false,
@@ -3676,8 +3682,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-09-08T18:59:16.2643903+00:00",
+  "LastChanged": "2023-09-09T23:59:37.7084698+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:26.1337039+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:59:53.0190215+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:03:18.6445167+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:59:37.7084705+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:03:39.8121119+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 38.00% | ~23,061 |
+| Lawbringer | 38.00% | ~23,062 |
 | Landlord | 32.00% | ~19,420 |
 | Bannerlord | 23.00% | ~13,958 |
 | Horde breaker | 23.00% | ~13,958 |
 | Lawmaker | 23.00% | ~13,958 |
-| Trained | 22.00% | ~13,351 |
+| Trained | 22.00% | ~13,352 |
 | The king is pleased | 18.00% | ~10,924 |
 | King Solomon | 17.00% | ~10,317 |
 | Apple of my eye | 15.00% | ~9,103 |
 | I can do it | 15.00% | ~9,103 |
-| God of the Arena | 13.00% | ~7,889 |
-| Against all odds | 12.00% | ~7,282 |
+| God of the Arena | 13.00% | ~7,890 |
+| Against all odds | 12.00% | ~7,283 |
 | This Is Our Land | 11.00% | ~6,676 |
 | Duelist | 10.00% | ~6,069 |
 | Swordbearer | 10.00% | ~6,069 |
@@ -29,15 +29,15 @@ Number of Ratings: 5,603  (23.09.2022)
 | Mastery | 7.00% | ~4,248 |
 | Crush your enemies | 5.00% | ~3,034 |
 | My way | 5.00% | ~3,034 |
-| Crowdfunded | 4.00% | ~2,427 |
-| Veni vidi vici | 4.00% | ~2,427 |
+| Crowdfunded | 4.00% | ~2,428 |
+| Veni vidi vici | 4.00% | ~2,428 |
 | Freedom! | 3.00% | ~1,821 |
 | Long live the Empire! | 3.00% | ~1,821 |
 | Real Estate | 3.00% | ~1,821 |
 | Entrepreneur | 1.00% | ~607 |
 | Supreme Emperor | 1.00% | ~607 |
-| Crackshot | 0.80% | ~485 |
-| Undercover | 0.80% | ~485 |
+| Crackshot | 0.80% | ~486 |
+| Undercover | 0.80% | ~486 |
 | Fat Cat | 0.70% | ~425 |
 | Catch | 0.60% | ~364 |
 | Slice 'n dice | 0.50% | ~303 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,687 (Ranked 88)  
+Progressed: 60,689 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,6 +201,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 60,538 | 0 |
 | 2023-09-08 | 60,607 | 0 |
 | 2023-09-09 | 60,687 | 0 |
+| 2023-09-10 | 60,689 | 0 |
 ## Awards
 Max (Character Customization): 7,059  (Ranked 50)  
 Sum: 14,359 (Ranked 70)  

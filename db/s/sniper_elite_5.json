@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -6858,9 +6858,9 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 108
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -7169,8 +7169,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-08T20:58:35.5897596+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:03:11.4355899+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:03:33.2713429+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-09T22:58:22.9483532+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:03:11.4356829+00:00"
+  "LastUpdate_Ratings": "2023-09-09T23:58:22.2347446+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:03:33.2714592+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1394,
+  "EOS_Progressed": 1395,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1466,6 +1466,11 @@
       "Time": "2023-09-08T23:05:43.0187968+00:00",
       "NumProgressed": 1394,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T00:06:21.9393819+00:00",
+      "NumProgressed": 1395,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1541,7 +1546,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -1645,15 +1650,15 @@
       "Name": "How Romantic!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 572
     },
     {
       "ID": "achievement_mythwalker",
@@ -1677,7 +1682,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -1733,7 +1738,7 @@
       "Name": "Echoes Die",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "completedStory_procedural",
@@ -1749,7 +1754,7 @@
       "Name": "Daybreak",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1924,15 +1929,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1394,
+      "Progressed": 1395,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:06:26.2837914+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:06:21.9393814+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.9570897+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:02:08.2168086+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:06:26.2838377+00:00"
+  "LastUpdate_Ratings": "2023-09-10T00:03:12.7316714+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:06:21.9394394+00:00"
 }

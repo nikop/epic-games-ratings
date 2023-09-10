@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 91,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -398,7 +398,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12953,
+  "EOS_Progressed": 12954,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -8058,6 +8058,11 @@
       "Time": "2023-09-09T20:05:11.0131825+00:00",
       "NumProgressed": 12953,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-10T00:05:00.0466747+00:00",
+      "NumProgressed": 12954,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -8069,7 +8074,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11917
+      "UsersEstimate": 11918
     },
     {
       "ID": "ACH_02",
@@ -8077,7 +8082,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10233
+      "UsersEstimate": 10234
     },
     {
       "ID": "ACH_03",
@@ -8085,7 +8090,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9585
+      "UsersEstimate": 9586
     },
     {
       "ID": "ACH_04",
@@ -8109,7 +8114,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8419
+      "UsersEstimate": 8420
     },
     {
       "ID": "ACH_07",
@@ -8117,7 +8122,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8160
+      "UsersEstimate": 8161
     },
     {
       "ID": "ACH_08",
@@ -8125,7 +8130,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7901
+      "UsersEstimate": 7902
     },
     {
       "ID": "ACH_09",
@@ -8141,7 +8146,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 6865
+      "UsersEstimate": 6866
     },
     {
       "ID": "ACH_11",
@@ -8157,7 +8162,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5958
+      "UsersEstimate": 5959
     },
     {
       "ID": "ACH_13",
@@ -8165,7 +8170,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5181
+      "UsersEstimate": 5182
     },
     {
       "ID": "ACH_14",
@@ -8181,7 +8186,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "ACH_16",
@@ -8245,7 +8250,7 @@
       "Name": "Improved crossbow",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "ACH_24",
@@ -8348,7 +8353,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12953,
+      "Progressed": 12954,
       "Completed": 45
     }
   ],
@@ -8356,8 +8361,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-08T21:02:23.663717+00:00",
-  "LastChanged_Achievements": "2023-09-09T23:04:50.2893421+00:00",
+  "LastChanged_Achievements": "2023-09-10T00:05:00.0466737+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:51.5709386+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:01:07.3702757+00:00",
-  "LastUpdate_Achievements": "2023-09-09T23:04:50.2893983+00:00"
+  "LastUpdate_Ratings": "2023-09-10T00:00:42.9248563+00:00",
+  "LastUpdate_Achievements": "2023-09-10T00:05:00.0467483+00:00"
 }
