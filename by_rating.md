@@ -51,7 +51,7 @@
 | 49 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.84 | 51 | 402 |
 | 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 47 | 409 |
 | 49 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 217 | 269 |
-| 49 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 391 | 218 |
+| 49 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.84 | 393 | 218 |
 | 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 517 |
 | 49 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 421 | 212 |
 | 49 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 265 | 250 |
@@ -262,7 +262,7 @@
 | 259 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 670 | 173 |
 | 259 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 69 | 380 |
 | 259 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 517 |
-| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 651 | 177 |
+| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 653 | 177 |
 | 259 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 517 |
 | 259 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 517 |
 | 259 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.67 | 0 | 517 |
@@ -406,7 +406,7 @@
 | 392 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.60 | 27 | 472 |
 | 392 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 122 | 319 |
 | 392 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.60 | 0 | 517 |
-| 392 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 651 | 177 |
+| 392 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 651 | 178 |
 | 392 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 389 |
 | 392 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 481 | 203 |
 | 392 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 236 | 260 |
@@ -486,7 +486,7 @@
 | 469 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 517 |
 | 469 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 0 | 517 |
 | 469 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.56 | 0 | 517 |
-| 469 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,433 | 76 |
+| 469 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,440 | 76 |
 | 488 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 517 |
 | 488 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 517 |
 | 488 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 517 |
@@ -583,7 +583,7 @@
 | 581 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 388 |
 | 581 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.49 | 0 | 517 |
 | 581 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,990 | 108 |
-| 581 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,143 | 14 |
+| 581 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 37,187 | 14 |
 | 581 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 517 |
 | 581 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 275 | 248 |
 | 581 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.49 | 0 | 517 |
@@ -825,7 +825,7 @@
 | 820 | [Godlike Burger](games/g/godlike_burger.md) | 4.27 | 0 | 517 |
 | 820 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,552 | 99 |
 | 820 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 517 |
-| 826 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 19,106 | 20 |
+| 826 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 19,151 | 20 |
 | 826 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 517 |
 | 826 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.26 | 0 | 517 |
 | 826 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.26 | 0 | 517 |
@@ -938,8 +938,8 @@
 | 936 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 517 |
 | 937 | [Lake](games/l/lake.md) | 4.03 | 0 | 517 |
 | 937 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 517 |
+| 937 | [SYNCED](games/s/synced.md) | 4.03 | 0 | 517 |
 | 937 | [Tharsis](games/t/tharsis.md) | 4.03 | 0 | 517 |
-| 940 | [SYNCED](games/s/synced.md) | 4.02 | 0 | 517 |
 | 941 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.00 | 21 | 505 |
 | 941 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 517 |
 | 941 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.00 | 0 | 517 |
