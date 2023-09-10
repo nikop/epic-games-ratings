@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1402,
+  "EOS_Progressed": 1403,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2996,6 +2996,11 @@
       "Time": "2023-09-10T09:06:36.3846511+00:00",
       "NumProgressed": 1402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T13:08:27.6557349+00:00",
+      "NumProgressed": 1403,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3055,7 +3060,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "CHAIN_REACTION",
@@ -3079,7 +3084,7 @@
       "Name": "Commando",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "CROAKED",
@@ -3191,7 +3196,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3239,7 +3244,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 981
+      "UsersEstimate": 982
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3255,7 +3260,7 @@
       "Name": "I am the law!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "INFILTRATOR",
@@ -3271,7 +3276,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3367,7 +3372,7 @@
       "Name": "Silent but Violent",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "TECHNOPHOBE",
@@ -3399,7 +3404,7 @@
       "Name": "The Watchers",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "WIPE_OUT",
@@ -3414,7 +3419,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1402,
+      "Progressed": 1403,
       "Completed": 0
     }
   ],
@@ -3422,8 +3427,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-10T12:06:30.149957+00:00",
+  "LastChanged_Achievements": "2023-09-10T13:08:27.6557343+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:33.5469273+00:00",
-  "LastUpdate_Ratings": "2023-09-10T12:00:29.8879712+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:06:30.1500215+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:02:33.4083191+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:08:27.655794+00:00"
 }

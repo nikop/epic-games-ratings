@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What could possibly go wrong? | 73.00% | ~8 |
-| Activist | 36.00% | ~4 |
-| Geneva Suggestion | 36.00% | ~4 |
-| The Archive is Incomplete | 27.00% | ~3 |
-| Cold Poultry | 27.00% | ~3 |
-| Through the Heavenly Gate | 27.00% | ~3 |
-| Where's the Sprint Button? | 27.00% | ~3 |
-| The Bigger They Are... | 27.00% | ~3 |
-| The Cipher Way | 18.00% | ~2 |
-| Cratepocalipse | 18.00% | ~2 |
-| Wingman | 18.00% | ~2 |
-| The Power of... Flight? | 18.00% | ~2 |
-| Critical Infrastructure | 18.00% | ~2 |
-| Master Archivist | 9.00% | ~1 |
-| Petting Zoo | 9.00% | ~1 |
-| Daemon Deferred | 9.00% | ~1 |
+| What could possibly go wrong? | 67.00% | ~8 |
+| Activist | 33.00% | ~4 |
+| Geneva Suggestion | 33.00% | ~4 |
+| The Archive is Incomplete | 25.00% | ~3 |
+| Cold Poultry | 25.00% | ~3 |
+| Through the Heavenly Gate | 25.00% | ~3 |
+| Where's the Sprint Button? | 25.00% | ~3 |
+| The Bigger They Are... | 25.00% | ~3 |
+| The Cipher Way | 17.00% | ~2 |
+| Cratepocalipse | 17.00% | ~2 |
+| Wingman | 17.00% | ~2 |
+| The Power of... Flight? | 17.00% | ~2 |
+| Critical Infrastructure | 17.00% | ~2 |
+| Master Archivist | 8.00% | ~1 |
+| Petting Zoo | 8.00% | ~1 |
+| Daemon Deferred | 8.00% | ~1 |
 | Apocryphile | 0.00% | ~0 |
 | Aggressive Evangelist | 0.00% | ~0 |
 | Third Eye | 0.00% | ~0 |
 | A Blast for You and a Blasphemy | 0.00% | ~0 |
 | Revisionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 466)  
+Progressed: 12 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -37,6 +37,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-06-10 | 9 | 0 |
 | 2023-06-25 | 10 | 0 |
 | 2023-07-16 | 11 | 0 |
+| 2023-09-10 | 12 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

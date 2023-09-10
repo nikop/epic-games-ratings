@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 79.00% | ~374 |
-| A Thorny Situation | 72.00% | ~341 |
-| ... And Spit Back Out | 53.00% | ~251 |
-| Break-Net Speed | 47.00% | ~222 |
-| Humble Collector | 35.00% | ~166 |
-| Miner 49er | 33.00% | ~156 |
-| Bramble Breaker | 33.00% | ~156 |
-| Oui, Chef! | 18.00% | ~85 |
-| Calm Sailing | 15.00% | ~71 |
+| Azoria Beckons | 79.00% | ~378 |
+| A Thorny Situation | 72.00% | ~345 |
+| ... And Spit Back Out | 53.00% | ~254 |
+| Break-Net Speed | 48.00% | ~230 |
+| Humble Collector | 35.00% | ~168 |
+| Bramble Breaker | 34.00% | ~163 |
+| Miner 49er | 33.00% | ~158 |
+| Calm Sailing | 17.00% | ~81 |
+| Oui, Chef! | 17.00% | ~81 |
+| Lumberjack | 13.00% | ~62 |
 | Open the Gate! | 12.00% | ~57 |
-| Lumberjack | 12.00% | ~57 |
-| Beach Comber | 8.00% | ~38 |
+| Beach Comber | 9.00% | ~43 |
 | Mist Walker | 8.00% | ~38 |
 | Botanical Breakthrough | 5.00% | ~24 |
 | Clear the Air | 3.00% | ~14 |
 | Chatty Neighbor | 3.00% | ~14 |
 | Right Tool For the Job | 3.00% | ~14 |
-| Search for the Hairy Grell | 2.00% | ~9 |
-| Azorian Anniversary | 2.00% | ~9 |
-| Captain of Cozy | 2.00% | ~9 |
-| House Proud | 2.00% | ~9 |
+| Search for the Hairy Grell | 2.00% | ~10 |
+| Azorian Anniversary | 2.00% | ~10 |
+| Captain of Cozy | 2.00% | ~10 |
+| House Proud | 2.00% | ~10 |
 | Flaming Hot Completos | 1.00% | ~5 |
 | Fae Farmer | 1.00% | ~5 |
 | Higher Tax Bracket | 1.00% | ~5 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.20% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473 (Ranked 245)  
+Progressed: 479 (Ranked 245)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
-| 2023-09-10 | 473 | 0 |
+| 2023-09-10 | 479 | 0 |

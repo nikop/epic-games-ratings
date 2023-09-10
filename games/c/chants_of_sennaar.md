@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 39.00% | ~46 |
-| Welcome to the Tower | 36.00% | ~43 |
-| The great escape | 33.00% | ~39 |
-| The Preacher's fate | 32.00% | ~38 |
-| A new dawn | 27.00% | ~32 |
-| A good beginning | 24.00% | ~29 |
-| Scholar | 24.00% | ~29 |
-| The darkness | 24.00% | ~29 |
-| True G4M3R | 23.00% | ~27 |
-| One last step | 21.00% | ~25 |
-| Cable guy | 20.00% | ~24 |
-| Champollion | 19.00% | ~23 |
-| Open door | 17.00% | ~20 |
-| In this together | 16.00% | ~19 |
-| Half the way | 16.00% | ~19 |
-| Feels like springtime | 16.00% | ~19 |
-| Rascal | 16.00% | ~19 |
-| Peace walker | 15.00% | ~18 |
-| Free at last | 13.00% | ~15 |
-| Alchemists Express | 13.00% | ~15 |
-| A Link to the Past | 12.00% | ~14 |
-| Fashion victim | 12.00% | ~14 |
+| That's the spirit | 40.00% | ~50 |
+| Welcome to the Tower | 36.00% | ~45 |
+| The Preacher's fate | 31.00% | ~38 |
+| The great escape | 31.00% | ~38 |
+| A new dawn | 27.00% | ~33 |
+| Scholar | 24.00% | ~30 |
+| A good beginning | 23.00% | ~29 |
+| True G4M3R | 23.00% | ~29 |
+| The darkness | 23.00% | ~29 |
+| One last step | 20.00% | ~25 |
+| Cable guy | 19.00% | ~24 |
+| Champollion | 19.00% | ~24 |
+| Open door | 17.00% | ~21 |
+| Rascal | 16.00% | ~20 |
+| In this together | 15.00% | ~19 |
+| Peace walker | 15.00% | ~19 |
+| Half the way | 15.00% | ~19 |
+| Feels like springtime | 15.00% | ~19 |
+| Free at last | 14.00% | ~17 |
+| Alchemists Express | 13.00% | ~16 |
+| Fashion victim | 12.00% | ~15 |
+| A Link to the Past | 11.00% | ~14 |
 | A great audience | 9.00% | ~11 |
 | For its own good | 9.00% | ~11 |
 | I did it | 8.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 334)  
-Completed: 5 (4.20%) (Ranked 58)  
+Progressed: 124 (Ranked 333)  
+Completed: 5 (4.03%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,4 +83,4 @@ Completed: 5 (4.20%) (Ranked 58)
 | 2023-09-07 | 86 | 5 |
 | 2023-09-08 | 98 | 5 |
 | 2023-09-09 | 112 | 5 |
-| 2023-09-10 | 119 | 5 |
+| 2023-09-10 | 124 | 5 |

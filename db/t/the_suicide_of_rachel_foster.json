@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -248,9 +248,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1431,
+  "EOS_Progressed": 1432,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.82,
   "EosHistory": [
@@ -2393,6 +2393,11 @@
       "Time": "2023-09-10T05:03:11.4043386+00:00",
       "NumProgressed": 1431,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-09-10T13:05:38.3762695+00:00",
+      "NumProgressed": 1432,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 11,
@@ -2436,7 +2441,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_FineEV9",
@@ -2444,7 +2449,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH_FineGioco",
@@ -2460,7 +2465,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2491,15 +2496,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1431,
+      "Progressed": 1432,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-10T12:03:43.1875159+00:00",
+  "LastChanged_Achievements": "2023-09-10T13:05:38.3762688+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.2208302+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:57:36.451521+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:03:43.1875396+00:00"
+  "LastUpdate_Ratings": "2023-09-10T12:59:32.7635411+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:05:38.3763206+00:00"
 }

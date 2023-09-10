@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -464,9 +464,9 @@
       "ID": "PARPLIN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Third Commander",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "PET_DOG",
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-10T12:07:47.2893018+00:00",
+  "LastChanged_Achievements": "2023-09-10T13:09:46.2522081+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:10.9300024+00:00",
-  "LastUpdate_Ratings": "2023-09-10T12:00:08.0188732+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:07:47.289318+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:02:10.751713+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:09:46.2522208+00:00"
 }

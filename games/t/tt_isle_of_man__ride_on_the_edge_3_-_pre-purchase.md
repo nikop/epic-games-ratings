@@ -17,11 +17,11 @@
 | Nerd | 7.00% | ~9 |
 | Playing God | 7.00% | ~9 |
 | First and Foremost | 6.00% | ~8 |
+| Made Mother Proud | 6.00% | ~8 |
+| Winner Winner Chicken Dinner | 6.00% | ~8 |
 | Upgradeaholic | 6.00% | ~8 |
 | Tailor-Made | 6.00% | ~8 |
 | Gotta Go Fast! | 5.00% | ~6 |
-| Made Mother Proud | 5.00% | ~6 |
-| Winner Winner Chicken Dinner | 5.00% | ~6 |
 | POI Hunter | 4.00% | ~5 |
 | Seven-League Boots | 4.00% | ~5 |
 | Say My Name | 4.00% | ~5 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2798,9 +2798,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72341,
+  "EOS_Progressed": 72342,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 2616,
+  "EOS_NewPlayers": 2591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14948,6 +14948,11 @@
       "Time": "2023-09-10T12:06:43.6851306+00:00",
       "NumProgressed": 72341,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-10T13:08:41.8332247+00:00",
+      "NumProgressed": 72342,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15007,7 +15012,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16638
+      "UsersEstimate": 16639
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15159,7 +15164,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4340
+      "UsersEstimate": 4341
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -15183,7 +15188,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20255
+      "UsersEstimate": 20256
     },
     {
       "ID": "FREEZE_1_5",
@@ -15263,7 +15268,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25319
+      "UsersEstimate": 25320
     },
     {
       "ID": "HARLEY_2",
@@ -15271,7 +15276,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18085
+      "UsersEstimate": 18086
     },
     {
       "ID": "HARLEY_3",
@@ -15303,7 +15308,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37617
+      "UsersEstimate": 37618
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15343,7 +15348,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4340
+      "UsersEstimate": 4341
     },
     {
       "ID": "MYSTERY_01",
@@ -15359,7 +15364,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18085
+      "UsersEstimate": 18086
     },
     {
       "ID": "MYSTERY_03",
@@ -15446,13 +15451,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72341,
+      "Progressed": 72342,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42621,
+      "Progressed": 42622,
       "Completed": 2663
     }
   ],
@@ -15460,8 +15465,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-10T05:57:08.2895571+00:00",
-  "LastChanged_Achievements": "2023-09-10T12:06:43.68513+00:00",
+  "LastChanged_Achievements": "2023-09-10T13:08:41.8332242+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:57:20.9796849+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:06:43.6852646+00:00"
+  "LastUpdate_Ratings": "2023-09-10T12:59:16.3445178+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:08:41.8333577+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "tabletop-playground-9623f1",
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -443,9 +443,9 @@
       "ID": "CreateTemplate",
       "SetID": "9ajogia",
       "Name": "Creator",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FourPlayers",
@@ -482,8 +482,8 @@
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2023-09-10T12:06:42.1425007+00:00",
+  "LastChanged_Achievements": "2023-09-10T13:08:40.2044992+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.9759033+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:59:13.0932123+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:06:42.1425093+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:01:12.271395+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:08:40.2045073+00:00"
 }

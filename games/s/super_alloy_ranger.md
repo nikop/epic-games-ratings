@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 75.00% | ~54 |
-| Gear Up | 65.00% | ~47 |
-| A Grand Show | 65.00% | ~47 |
+| Iceberg Theory | 76.00% | ~55 |
+| Gear Up | 67.00% | ~48 |
+| A Grand Show | 67.00% | ~48 |
 | Freshen Up | 56.00% | ~40 |
 | GG EZ | 56.00% | ~40 |
-| Hydrophobia | 42.00% | ~30 |
+| Hydrophobia | 43.00% | ~31 |
 | Ka-Ching! | 32.00% | ~23 |
 | Stop Right There | 32.00% | ~23 |
 | Get to the Point | 29.00% | ~21 |
@@ -20,7 +20,7 @@
 | Grand Escape | 13.00% | ~9 |
 | Space Warrior: Prologue | 13.00% | ~9 |
 | The Abyss Conqueror | 10.00% | ~7 |
-| Keep it Up, rookie! | 8.00% | ~6 |
+| Keep it Up, rookie! | 10.00% | ~7 |
 | he Ultra Fortress Conqueror | 7.00% | ~5 |
 | Antaeus | 7.00% | ~5 |
 | Decapitation Strike | 7.00% | ~5 |

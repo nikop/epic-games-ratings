@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7460,
+  "EOS_Progressed": 7462,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6869,6 +6869,11 @@
       "Time": "2023-09-10T11:05:25.4362655+00:00",
       "NumProgressed": 7460,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-10T13:08:10.1048222+00:00",
+      "NumProgressed": 7462,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -6928,7 +6933,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -7032,7 +7037,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "THING",
@@ -7047,7 +7052,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7460,
+      "Progressed": 7462,
       "Completed": 33
     }
   ],
@@ -7055,8 +7060,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-10T12:06:12.8328598+00:00",
+  "LastChanged_Achievements": "2023-09-10T13:08:10.1048217+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.0465299+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:59:55.8144182+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:06:12.8329163+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:01:58.137029+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:08:10.1048987+00:00"
 }

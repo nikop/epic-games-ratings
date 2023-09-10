@@ -12956,18 +12956,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 454163,
       "NumberOfAwardsMax": 174467
+    },
+    {
+      "Time": "2023-09-10T13:02:41.0867777+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 454822,
+      "NumberOfAwardsMax": 174871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 454163,
-  "NumberOfAwardsMax": 174467,
+  "NumberOfAwards": 454822,
+  "NumberOfAwardsMax": 174871,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 174467
+      "Count": 174871
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12991,19 +12997,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 17154
+      "Count": 17204
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 16830
+      "Count": 16904
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 16216
+      "Count": 16290
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13015,7 +13021,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 17401
+      "Count": 17458
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13059,8 +13065,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-10T12:00:37.3886574+00:00",
+  "LastChanged": "2023-09-10T13:02:41.0867776+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:41.8958927+00:00",
-  "LastUpdate_Ratings": "2023-09-10T12:00:37.3886584+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:06:07.8718937+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:02:41.0867785+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:08:05.0580539+00:00"
 }

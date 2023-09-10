@@ -7458,9 +7458,9 @@
       "Count": 627
     }
   ],
-  "EOS_Progressed": 296238,
+  "EOS_Progressed": 296245,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 2959,
+  "EOS_NewPlayers": 2914,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22938,6 +22938,11 @@
       "Time": "2023-09-10T12:07:38.894261+00:00",
       "NumProgressed": 296238,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-09-10T13:09:38.0326713+00:00",
+      "NumProgressed": 296245,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 45,
@@ -22949,7 +22954,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41473
+      "UsersEstimate": 41474
     },
     {
       "ID": "PFA_10",
@@ -22981,7 +22986,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26661
+      "UsersEstimate": 26662
     },
     {
       "ID": "PFA_14",
@@ -23053,7 +23058,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26661
+      "UsersEstimate": 26662
     },
     {
       "ID": "PFA_22",
@@ -23069,7 +23074,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32586
+      "UsersEstimate": 32587
     },
     {
       "ID": "PFA_24",
@@ -23173,7 +23178,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26661
+      "UsersEstimate": 26662
     },
     {
       "ID": "PFA_36",
@@ -23237,7 +23242,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17774
+      "UsersEstimate": 17775
     },
     {
       "ID": "PFA_43",
@@ -23253,7 +23258,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23699
+      "UsersEstimate": 23700
     },
     {
       "ID": "PFA_45",
@@ -23277,7 +23282,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38511
+      "UsersEstimate": 38512
     },
     {
       "ID": "PFA_7",
@@ -23293,7 +23298,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32586
+      "UsersEstimate": 32587
     },
     {
       "ID": "PFA_9",
@@ -23301,14 +23306,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23699
+      "UsersEstimate": 23700
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296238,
+      "Progressed": 296245,
       "Completed": 469
     }
   ],
@@ -23316,8 +23321,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-10T06:59:16.4700918+00:00",
-  "LastChanged_Achievements": "2023-09-10T12:07:38.8942605+00:00",
+  "LastChanged_Achievements": "2023-09-10T13:09:38.0326708+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:59:29.5891438+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:07:38.894395+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:01:30.3271101+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:09:38.0328033+00:00"
 }

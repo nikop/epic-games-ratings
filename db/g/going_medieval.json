@@ -9148,9 +9148,9 @@
       "ID": "HAVE_SATTLERS_10",
       "SetID": "5349c2e",
       "Name": "A Party Now",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1203
     },
     {
       "ID": "HUNT_DEER_20",
@@ -9348,8 +9348,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-10T06:57:03.2829153+00:00",
-  "LastChanged_Achievements": "2023-09-10T12:05:34.3128681+00:00",
+  "LastChanged_Achievements": "2023-09-10T13:07:30.0540334+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:04.6592929+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:57:11.6911535+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:05:34.3129396+00:00"
+  "LastUpdate_Ratings": "2023-09-10T12:59:07.119136+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:07:30.0541951+00:00"
 }

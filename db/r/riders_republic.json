@@ -6856,10 +6856,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5922,
       "NumberOfAwardsMax": 590
+    },
+    {
+      "Time": "2023-09-10T13:03:21.7099644+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5924,
+      "NumberOfAwardsMax": 590
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5922,
+  "NumberOfAwards": 5924,
   "NumberOfAwardsMax": 590,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -6939,7 +6945,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 480
+      "Count": 482
     }
   ],
   "EOS_Progressed": 0,
@@ -6953,8 +6959,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-09-10T08:01:54.8796853+00:00",
+  "LastChanged": "2023-09-10T13:03:21.7099643+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:24.512142+00:00",
-  "LastUpdate_Ratings": "2023-09-10T12:01:15.8922082+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:07:00.9896564+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:03:21.7099649+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:08:59.4864332+00:00"
 }

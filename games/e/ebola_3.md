@@ -15,13 +15,13 @@
 | Survival ✔ | 9.00% | ~23 |
 | Master of Unlocking ✔ | 9.00% | ~23 |
 | Thirst ✔ | 8.00% | ~20 |
+| Hospital ✔ | 7.00% | ~18 |
 | Alice ✔ | 6.00% | ~15 |
 | Antivirus ✔ | 6.00% | ~15 |
 | Betty ✔ | 6.00% | ~15 |
 | Cheats ✔ | 6.00% | ~15 |
 | City ✔ | 6.00% | ~15 |
 | Food ✔ | 6.00% | ~15 |
-| Hospital ✔ | 6.00% | ~15 |
 | Fraternal help ✔ | 6.00% | ~15 |
 | Brain ✔ | 5.00% | ~13 |
 | Eva ✔ | 5.00% | ~13 |
@@ -30,13 +30,13 @@
 | Boss 1 ✔ | 4.00% | ~10 |
 | Group Alpha ✔ | 4.00% | ~10 |
 | Mutant fight ✔ | 4.00% | ~10 |
+| Mutant run ✔ | 4.00% | ~10 |
 | Sheriff ✔ | 4.00% | ~10 |
 | City on fire ✔ | 4.00% | ~10 |
 | Infected ✔ | 4.00% | ~10 |
 | Broadcasting ✔ | 4.00% | ~10 |
 | Crocodile Attack ✔ | 3.00% | ~8 |
 | Secret ✔ | 3.00% | ~8 |
-| Mutant run ✔ | 3.00% | ~8 |
 | Osipov's video message ✔ | 3.00% | ~8 |
 | Priest ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |

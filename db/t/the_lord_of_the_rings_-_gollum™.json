@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 512,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1499,8 +1499,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-09-10T12:04:37.7418773+00:00",
+  "LastChanged_Achievements": "2023-09-10T13:06:33.6502776+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.8512741+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:59:56.7665263+00:00",
-  "LastUpdate_Achievements": "2023-09-10T12:04:37.741913+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:01:59.1088131+00:00",
+  "LastUpdate_Achievements": "2023-09-10T13:06:33.6503076+00:00"
 }

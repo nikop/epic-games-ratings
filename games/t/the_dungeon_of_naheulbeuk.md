@@ -1,12 +1,12 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 417)  
+Rating: 4.58 (Ranked 430)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,639 |
+| Sowwy! | 29.00% | ~64,643 |
 | Where's that freaking Dwarf? | 4.00% | ~8,916 |
 | Alt+F4 | 4.00% | ~8,916 |
 | Déjà vu | 3.00% | ~6,687 |
@@ -43,8 +43,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 0.60% | ~1,337 |
 | Lust and Debauchery | 0.60% | ~1,337 |
 | Material Girl | 0.60% | ~1,337 |
-| Gargantua | 0.50% | ~1,114 |
-| In Navalu's footsteps | 0.50% | ~1,114 |
+| Gargantua | 0.50% | ~1,115 |
+| In Navalu's footsteps | 0.50% | ~1,115 |
 | We come in peace | 0.40% | ~892 |
 | Lëgal Legend | 0.40% | ~892 |
 | Holistic Adventuring Party | 0.30% | ~669 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,893 (Ranked 56)  
+Progressed: 222,908 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,14 +197,14 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
 | 2023-09-09 | 222,713 | 2 |
-| 2023-09-10 | 222,893 | 2 |
+| 2023-09-10 | 222,908 | 2 |
 ## Awards
-Max (Character Customization): 190  (Ranked 277)  
-Sum: 265 (Ranked 353)  
+Max (Character Customization): 192  (Ranked 277)  
+Sum: 267 (Ranked 353)  
 Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 190 |
+| This game has Inclusive Character Customization | 192 |
 | This game is Relaxing | 27 |
 | This game is Great for Beginners | 24 |
 | This game has Amazing Characters | 24 |
@@ -337,3 +337,4 @@ Diff (max vs sum): -76
 | 2023-09-05 | 4.58 | - | 189 | 262 |
 | 2023-09-06 | 4.58 | - | 190 | 264 |
 | 2023-09-09 | 4.59 | - | 190 | 265 |
+| 2023-09-10 | 4.58 | - | 192 | 267 |
