@@ -687,9 +687,9 @@
       "ID": "USSR",
       "SetID": "cjfnji1",
       "Name": "Back to USSR",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Upgrades",
@@ -710,8 +710,8 @@
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-09-10T22:03:37.2442948+00:00",
+  "LastChanged_Achievements": "2023-09-10T23:03:29.3615499+00:00",
   "LastUpdate_AppInfo": "2023-09-04T19:57:12.8052062+00:00",
-  "LastUpdate_Ratings": "2023-09-10T21:59:08.8999177+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:03:37.2443086+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:58:17.6903789+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:03:29.3615621+00:00"
 }

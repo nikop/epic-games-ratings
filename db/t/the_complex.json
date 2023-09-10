@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 546,
+  "EOS_Progressed": 547,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.3,
+  "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -552,6 +552,11 @@
       "Time": "2023-09-10T17:05:52.5125142+00:00",
       "NumProgressed": 546,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-10T23:05:50.8457286+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -561,9 +566,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 289
+      "UsersEstimate": 284
     },
     {
       "ID": "blast_from_the_past",
@@ -571,7 +576,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "deadly_secret",
@@ -579,7 +584,7 @@
       "Name": "Deadly Secret",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ending_1",
@@ -593,9 +598,9 @@
       "ID": "ending_2",
       "SetID": "d4f4pll",
       "Name": "Second Chances",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 38
     },
     {
       "ID": "ending_3",
@@ -619,7 +624,7 @@
       "Name": "Lab Rat",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ending_6",
@@ -635,7 +640,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ending_8",
@@ -643,7 +648,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "falling_for_you",
@@ -659,7 +664,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "kamikaze",
@@ -667,7 +672,7 @@
       "Name": "Kamikaze",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "kindar_surprise",
@@ -699,7 +704,7 @@
       "Name": "Storage Hunter",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -707,7 +712,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "tough_decision",
@@ -715,14 +720,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 546,
+      "Progressed": 547,
       "Completed": 18
     }
   ],
@@ -730,8 +735,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-09-10T22:07:01.0051551+00:00",
+  "LastChanged_Achievements": "2023-09-10T23:05:50.8457281+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.8564591+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:00:15.8434938+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:07:01.005176+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:59:02.4697261+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:05:50.8457415+00:00"
 }

@@ -53,10 +53,10 @@ Rating: 4.87 (Ranked 24)
 | Easy Listening | 0.50% | ~20 |
 | Choose your own adventure | 0.40% | ~10 |
 | Now this is how you fight like a team! | 0.30% | ~12 |
+| With our powers combined…and to the rhythm… | 0.30% | ~12 |
 | It'll do, CNMN | 0.30% | ~8 |
 | And the crowd goes wild! | 0.20% | ~8 |
 | Problem solved... wait, what? | 0.20% | ~8 |
-| With our powers combined…and to the rhythm… | 0.20% | ~8 |
 | That was just EVIL | 0.20% | ~5 |
 | Didn't skip a beat! | 0.10% | ~4 |
 | I can't see this ever being a problem again | 0.10% | ~4 |

@@ -6,22 +6,22 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~717,985 |
-| The Blues | 85.00% | ~616,451 |
-| Fast | 66.00% | ~478,656 |
-| Healthbar | 55.00% | ~398,880 |
+| Out of bed | 99.00% | ~717,986 |
+| The Blues | 85.00% | ~616,452 |
+| Fast | 66.00% | ~478,657 |
+| Healthbar | 55.00% | ~398,881 |
 | Force Cube | 53.00% | ~384,376 |
 | Double Jump | 48.00% | ~348,114 |
-| Regeneration | 47.00% | ~340,861 |
+| Regeneration | 47.00% | ~340,862 |
 | Triple Jump | 43.00% | ~311,852 |
 | Climb the hill | 42.00% | ~304,600 |
-| Through the fire pipe | 39.00% | ~282,842 |
+| Through the fire pipe | 39.00% | ~282,843 |
 | MacGuffin | 38.00% | ~275,590 |
 | Just once | 37.00% | ~268,338 |
 | Armor | 30.00% | ~217,571 |
-| True holy spirit | 28.00% | ~203,066 |
+| True holy spirit | 28.00% | ~203,067 |
 | That's how electronics work obviously | 26.00% | ~188,562 |
-| Force Cube Catapult | 25.00% | ~181,309 |
+| Force Cube Catapult | 25.00% | ~181,310 |
 | Holy Sword | 23.00% | ~166,805 |
 | Telefrag | 23.00% | ~166,805 |
 | Freed from prison | 21.00% | ~152,300 |
@@ -37,7 +37,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | 9 | 13.00% | ~94,281 |
 | Purple Cube | 13.00% | ~94,281 |
 | Supraball Noob | 13.00% | ~94,281 |
-| Strong | 12.00% | ~87,028 |
+| Strong | 12.00% | ~87,029 |
 | Blue King's lair | 11.00% | ~79,776 |
 | Payback | 11.00% | ~79,776 |
 | Got the coins back | 11.00% | ~79,776 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~725 |
 | DLC: Top of the world | 0.10% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,237 (Ranked 19)  
+Progressed: 725,238 (Ranked 19)  
 Completed: 733 (0.10%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 733 (0.10%) (Ranked 219)
 | 2023-09-07 | 724,833 | 731 |
 | 2023-09-08 | 724,961 | 731 |
 | 2023-09-09 | 725,094 | 731 |
-| 2023-09-10 | 725,237 | 733 |
+| 2023-09-10 | 725,238 | 733 |
 ## Awards
 Max (Challenging Puzzles): 7,684  (Ranked 45)  
-Sum: 10,011 (Ranked 86)  
+Sum: 10,012 (Ranked 86)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -264,7 +264,7 @@ Diff (max vs sum): -41
 | This game is Great for Beginners | 265 |
 | This game is Extremely Fun | 260 |
 | This game has Obsessive Gameplay | 243 |
-| This game is Highly Recommended | 236 |
+| This game is Highly Recommended | 237 |
 | This game has a Creative Community | 190 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -419,4 +419,4 @@ Diff (max vs sum): -41
 | 2023-08-30 | 4.61 | - | 7,682 | 10,008 |
 | 2023-08-31 | 4.61 | - | 7,683 | 10,009 |
 | 2023-09-07 | 4.61 | - | 7,683 | 10,010 |
-| 2023-09-10 | 4.61 | - | 7,684 | 10,011 |
+| 2023-09-10 | 4.61 | - | 7,684 | 10,012 |

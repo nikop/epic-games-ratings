@@ -24,12 +24,12 @@ Rating: 4.60 (Ranked 393)
 | Blood of the Dragon | 5.00% | ~258 |
 | Mighty Hoard | 5.00% | ~258 |
 | Valley of Wonders | 4.00% | ~207 |
+| Return of the Wizard King | 4.00% | ~207 |
 | Digging for Treasure | 4.00% | ~207 |
 | Preparation Is Everything | 4.00% | ~207 |
 | Fiery Friend | 4.00% | ~207 |
 | Against the Odds | 4.00% | ~207 |
 | Impenetrable Fortress | 4.00% | ~207 |
-| Return of the Wizard King | 3.00% | ~155 |
 | God Emperor | 3.00% | ~155 |
 | Lord of Chaos | 3.00% | ~155 |
 | Arch Mage | 3.00% | ~155 |

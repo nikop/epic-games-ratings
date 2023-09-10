@@ -227,9 +227,9 @@
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "EpicACHV_17",
@@ -314,8 +314,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-10T22:08:27.8747514+00:00",
+  "LastChanged_Achievements": "2023-09-10T23:06:52.578822+00:00",
   "LastUpdate_AppInfo": "2023-09-06T04:57:09.7950789+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:02:39.8166215+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:08:27.8747668+00:00"
+  "LastUpdate_Ratings": "2023-09-10T23:00:42.2895087+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:06:52.5788332+00:00"
 }

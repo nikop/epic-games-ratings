@@ -4,7 +4,7 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -368,6 +368,11 @@
       "Time": "2023-09-10T14:05:06.6967402+00:00",
       "NumProgressed": 182,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T23:05:08.3815093+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -395,7 +400,7 @@
       "Name": "Math Wizard",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "secret12",
@@ -403,7 +408,7 @@
       "Name": "The Duelist",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "secret13",
@@ -411,23 +416,23 @@
       "Name": "You Shall Not Pass",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "secret14",
       "SetID": "39f6ck8",
       "Name": "Mommy\u0027s Very Angry",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "secret15",
       "SetID": "39f6ck8",
       "Name": "Back To The Future",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "secret16",
@@ -443,7 +448,7 @@
       "Name": "Who\u0027s A Good Boy",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "secret18",
@@ -459,7 +464,7 @@
       "Name": "Feng Shui",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "secret2",
@@ -475,7 +480,7 @@
       "Name": "Caretaker",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "secret21",
@@ -505,9 +510,9 @@
       "ID": "secret24",
       "SetID": "39f6ck8",
       "Name": "Power Up",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 128
     },
     {
       "ID": "secret25",
@@ -521,9 +526,9 @@
       "ID": "secret26",
       "SetID": "39f6ck8",
       "Name": "Supreme Power",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "secret27",
@@ -545,9 +550,9 @@
       "ID": "secret29",
       "SetID": "39f6ck8",
       "Name": "Impenetrable Skin",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "secret3",
@@ -563,7 +568,7 @@
       "Name": "Undying Skin",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "secret31",
@@ -587,7 +592,7 @@
       "Name": "Glorious Battle",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "secret34",
@@ -611,7 +616,7 @@
       "Name": "Overwhelming Power",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "secret37",
@@ -627,7 +632,7 @@
       "Name": "Loyal Companion",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "secret39",
@@ -651,7 +656,7 @@
       "Name": "Diaper Time!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "secret41",
@@ -659,7 +664,7 @@
       "Name": "Happy Little Home",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "secret42",
@@ -667,7 +672,7 @@
       "Name": "Final Evolution",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "secret43",
@@ -675,7 +680,7 @@
       "Name": "Quite A Snack",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "secret44",
@@ -699,7 +704,7 @@
       "Name": "Target Practice",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "secret47",
@@ -745,9 +750,9 @@
       "ID": "secret51",
       "SetID": "39f6ck8",
       "Name": "Fire Beacon",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "secret52",
@@ -777,9 +782,9 @@
       "ID": "secret7",
       "SetID": "39f6ck8",
       "Name": "Too Cool For School",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 157
     },
     {
       "ID": "secret8",
@@ -787,7 +792,7 @@
       "Name": "Destroy Erase Improve",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "secret9",
@@ -802,7 +807,7 @@
     {
       "ID": "39f6ck8",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 1
     }
   ],
@@ -810,8 +815,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-09-10T22:06:02.5599113+00:00",
+  "LastChanged_Achievements": "2023-09-10T23:05:08.3815088+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:04.5927257+00:00",
-  "LastUpdate_Ratings": "2023-09-10T21:58:25.6709077+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:06:02.5599727+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:57:47.1297858+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:05:08.3815482+00:00"
 }

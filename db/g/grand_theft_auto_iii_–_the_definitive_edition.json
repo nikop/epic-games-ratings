@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -454,7 +454,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7678,
+  "EOS_Progressed": 7679,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -8074,6 +8074,11 @@
       "Time": "2023-09-10T20:05:26.9334649+00:00",
       "NumProgressed": 7678,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-10T23:05:37.8215468+00:00",
+      "NumProgressed": 7679,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8085,7 +8090,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6373
+      "UsersEstimate": 6374
     },
     {
       "ID": "ACH02",
@@ -8229,7 +8234,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH20",
@@ -8316,7 +8321,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7678,
+      "Progressed": 7679,
       "Completed": 50
     }
   ],
@@ -8324,8 +8329,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-05T17:59:24.9081352+00:00",
-  "LastChanged_Achievements": "2023-09-10T22:06:43.0111133+00:00",
+  "LastChanged_Achievements": "2023-09-10T23:05:37.8215464+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:01.9571091+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:01:03.2661541+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:06:43.0112073+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:59:35.1317452+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:05:37.8215982+00:00"
 }

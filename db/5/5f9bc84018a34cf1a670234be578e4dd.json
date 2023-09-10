@@ -816,9 +816,9 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Batteries",
@@ -840,9 +840,9 @@
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "FirstBox",
@@ -880,17 +880,17 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "GasFound",
       "SetID": "7jbi7el",
       "Name": "Something is wrong here",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "Hologram",
@@ -935,8 +935,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-10T22:06:10.241168+00:00",
+  "LastChanged_Achievements": "2023-09-10T23:05:13.7057704+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:53.5108476+00:00",
-  "LastUpdate_Ratings": "2023-09-10T21:59:05.2578423+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:06:10.2411828+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:58:14.8843469+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:05:13.7057831+00:00"
 }

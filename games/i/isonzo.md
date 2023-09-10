@@ -192,8 +192,8 @@ Completed: 8 (0.12%) (Ranked 212)
 | 2023-09-10 | 6,775 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 441)  
-Sum: 272 (Ranked 353)  
-Diff (max vs sum): 88  
+Sum: 273 (Ranked 351)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |
@@ -201,8 +201,8 @@ Diff (max vs sum): 88
 | This game has Diverse Characters | 32 |
 | This game has Realistic Visuals | 32 |
 | This game has Amazing Characters | 31 |
+| This game has Challenging Combat | 29 |
 | This game has Quickly Understood Controls | 28 |
-| This game has Challenging Combat | 28 |
 | This game is Educational | 28 |
 | This game has Competitive Players | 24 |
 | This game has a Kind Community | 20 |
@@ -315,4 +315,4 @@ Diff (max vs sum): 88
 | 2023-08-30 | 4.56 | - | 35 | 269 |
 | 2023-08-31 | 4.56 | - | 36 | 270 |
 | 2023-09-02 | 4.56 | - | 36 | 271 |
-| 2023-09-10 | 4.56 | - | 36 | 272 |
+| 2023-09-10 | 4.56 | - | 36 | 273 |

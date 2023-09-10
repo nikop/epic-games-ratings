@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,695 |
-| Where's that freaking Dwarf? | 4.00% | ~8,923 |
-| Alt+F4 | 4.00% | ~8,923 |
+| Sowwy! | 29.00% | ~64,697 |
+| Where's that freaking Dwarf? | 4.00% | ~8,924 |
+| Alt+F4 | 4.00% | ~8,924 |
 | Déjà vu | 3.00% | ~6,693 |
 | Sock! SOCK! | 3.00% | ~6,693 |
 | Way of the Wimp | 2.00% | ~4,462 |
@@ -28,6 +28,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Statuette of Gladeulfeurah | 1.00% | ~2,231 |
 | The Woman in the High Castle | 1.00% | ~2,231 |
 | A tale of adventurers not quite like the others... | 1.00% | ~2,231 |
+| The beards of change | 1.00% | ~2,231 |
 | The Ranger of Chaos | 1.00% | ~2,231 |
 | I am the night | 1.00% | ~2,231 |
 | Team Building Exercise | 1.00% | ~2,231 |
@@ -35,7 +36,6 @@ Number of Ratings: 118  (23.09.2022)
 | The Famous Dungeon of Naheulbeuk | 0.90% | ~2,008 |
 | %#*!$*! | 0.90% | ~2,008 |
 | Look but don't touch | 0.90% | ~2,008 |
-| The beards of change | 0.90% | ~2,008 |
 | Thieves' Guild Accreditation | 0.90% | ~2,008 |
 | Res Judicata | 0.80% | ~1,785 |
 | Dwarf Fortress | 0.80% | ~1,785 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,086 (Ranked 56)  
+Progressed: 223,093 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
 | 2023-09-09 | 222,713 | 2 |
-| 2023-09-10 | 223,086 | 2 |
+| 2023-09-10 | 223,093 | 2 |
 ## Awards
 Max (Character Customization): 192  (Ranked 277)  
 Sum: 307 (Ranked 338)  

@@ -24,9 +24,9 @@ Rating: 4.54 (Ranked 501)
 | Stacking the Deck | 1.00% | ~6,776 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,776 |
 | This is My Weapon | 1.00% | ~6,776 |
-| Ooh, Shiny! | 0.90% | ~6,098 |
-| I Am the Resurrection | 0.90% | ~6,098 |
-| Our True Nature | 0.90% | ~6,098 |
+| Ooh, Shiny! | 0.90% | ~6,099 |
+| I Am the Resurrection | 0.90% | ~6,099 |
+| Our True Nature | 0.90% | ~6,099 |
 | Anger Management | 0.80% | ~5,421 |
 | Perks of the Job | 0.80% | ~5,421 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,421 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Donk! | 0.10% | ~678 |
 | Bucket List | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,594 (Ranked 22)  
+Progressed: 677,617 (Ranked 22)  
 Completed: 2,135 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,14 +194,14 @@ Completed: 2,135 (0.32%) (Ranked 178)
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
-| 2023-09-10 | 677,594 | 2,135 |
+| 2023-09-10 | 677,617 | 2,135 |
 ## Awards
-Max (Great Boss Battles): 5,990  (Ranked 58)  
-Sum: 8,854 (Ranked 94)  
-Diff (max vs sum): -36  
+Max (Great Boss Battles): 6,008  (Ranked 57)  
+Sum: 8,872 (Ranked 94)  
+Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 5,990 |
+| This game has Great Boss Battles | 6,008 |
 | This game is Great for Beginners | 405 |
 | This game has Diverse Characters | 397 |
 | This game has Quickly Understood Controls | 386 |
@@ -355,4 +355,4 @@ Diff (max vs sum): -36
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
 | 2023-09-08 | 4.54 | 5,969 | 8,812 |
 | 2023-09-09 | 4.54 | 5,990 | 8,845 |
-| 2023-09-10 | 4.54 | 5,990 | 8,854 |
+| 2023-09-10 | 4.54 | 6,008 | 8,872 |

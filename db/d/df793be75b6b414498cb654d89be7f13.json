@@ -4,7 +4,7 @@
   "ProductSlug": "city-gridlock-7bff10",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-21T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-24T18:59:12.0390939+00:00",
   "LastUpdate_AppInfo": "2023-09-07T09:57:20.3337201+00:00",
-  "LastUpdate_Ratings": "2023-09-10T21:57:52.5210675+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:03:19.1240955+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:57:23.4448486+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:03:16.1293052+00:00"
 }

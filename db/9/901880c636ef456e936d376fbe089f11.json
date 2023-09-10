@@ -486,9 +486,9 @@
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -502,9 +502,9 @@
       "ID": "ACH_FIVE_STARS",
       "SetID": "8h8m55b",
       "Name": "\u201CFive Stars!\u201D",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_GHOSTED",
@@ -781,8 +781,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-09-10T22:08:11.8295755+00:00",
+  "LastChanged_Achievements": "2023-09-10T23:06:40.9336219+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.102078+00:00",
-  "LastUpdate_Ratings": "2023-09-10T21:59:42.9293532+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:08:11.8296511+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:58:40.3748825+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:06:40.9336601+00:00"
 }

@@ -1,15 +1,15 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 3.99 (Ranked 943)  
+Rating: 4.05 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 3.00% | ~686 |
-| As Far Away As Possible | 2.00% | ~457 |
-| A Most Unstable Organism | 1.00% | ~229 |
-| No Time to Follow Protocol | 0.50% | ~114 |
-| Float Like a Butterfly... | 0.30% | ~69 |
+| Your Lucky Day | 3.00% | ~695 |
+| As Far Away As Possible | 2.00% | ~463 |
+| A Most Unstable Organism | 1.00% | ~232 |
+| No Time to Follow Protocol | 0.50% | ~116 |
+| Float Like a Butterfly... | 0.30% | ~70 |
 | fifteenth Time's the Charm | 0.10% | ~23 |
 | Pulling Your Weight | 0.10% | ~23 |
 | Reaping Rivals | 0.10% | ~23 |
@@ -22,7 +22,7 @@ Rating: 3.99 (Ranked 943)
 | Completely Customizable | 0.00% | ~0 |
 | More Power to You | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,852 (Ranked 107)  
+Progressed: 23,172 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -36,9 +36,9 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-06 | 19 | 0 |
 | 2023-09-08 | 5,389 | 0 |
 | 2023-09-09 | 14,650 | 0 |
-| 2023-09-10 | 22,852 | 0 |
+| 2023-09-10 | 23,172 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-09-09 | 3.82 | 0 | 0 |
-| 2023-09-10 | 4.03 | 0 | 0 |
+| 2023-09-10 | 4.05 | 0 | 0 |

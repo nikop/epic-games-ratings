@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 501,
-  "Ranking_Popularity": 58,
+  "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 178,
@@ -4330,18 +4330,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 8854,
       "NumberOfAwardsMax": 5990
+    },
+    {
+      "Time": "2023-09-10T23:00:08.9610819+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8872,
+      "NumberOfAwardsMax": 6008
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8854,
-  "NumberOfAwardsMax": 5990,
+  "NumberOfAwards": 8872,
+  "NumberOfAwardsMax": 6008,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5990
+      "Count": 6008
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4392,9 +4398,9 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 677594,
+  "EOS_Progressed": 677617,
   "EOS_Completed": 2135,
-  "EOS_NewPlayers": 4680,
+  "EOS_NewPlayers": 4677,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20442,6 +20448,11 @@
       "Time": "2023-09-10T22:08:39.7247168+00:00",
       "NumProgressed": 677594,
       "NumCompleted": 2135
+    },
+    {
+      "Time": "2023-09-10T23:07:01.4312195+00:00",
+      "NumProgressed": 677617,
+      "NumCompleted": 2135
     }
   ],
   "TotalAchievements": 45,
@@ -20669,7 +20680,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6098
+      "UsersEstimate": 6099
     },
     {
       "ID": "ach_magnum_opus",
@@ -20701,7 +20712,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6098
+      "UsersEstimate": 6099
     },
     {
       "ID": "ach_salvation",
@@ -20765,7 +20776,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 6098
+      "UsersEstimate": 6099
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -20812,22 +20823,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 677594,
+      "Progressed": 677617,
       "Completed": 2135
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 3134,
-      "Completed": 3134
+      "Progressed": 3157,
+      "Completed": 3157
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-10T16:00:00.6265338+00:00",
-  "LastChanged_Achievements": "2023-09-10T22:08:39.7247163+00:00",
+  "LastChanged": "2023-09-10T23:00:08.9610818+00:00",
+  "LastChanged_Achievements": "2023-09-10T23:07:01.4312191+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:01:49.4697452+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:08:39.7248548+00:00"
+  "LastUpdate_Ratings": "2023-09-10T23:00:08.9610823+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:07:01.4313228+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -379,9 +379,9 @@
       "ID": "29",
       "SetID": "5e3maia",
       "Name": "Park ranger",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "3",
@@ -723,9 +723,9 @@
       "ID": "7",
       "SetID": "5e3maia",
       "Name": "Shamanslayer",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "70",
@@ -762,8 +762,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-10T22:03:51.7623036+00:00",
+  "LastChanged_Achievements": "2023-09-10T23:03:39.3762819+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-10T21:59:11.4761599+00:00",
-  "LastUpdate_Achievements": "2023-09-10T22:03:51.7623776+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:58:19.4743089+00:00",
+  "LastUpdate_Achievements": "2023-09-10T23:03:39.3763382+00:00"
 }
