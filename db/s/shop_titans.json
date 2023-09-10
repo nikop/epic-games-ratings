@@ -5938,9 +5938,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 135933,
+  "EOS_Progressed": 135940,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20578,6 +20578,11 @@
       "Time": "2023-09-10T00:06:05.5750347+00:00",
       "NumProgressed": 135933,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2023-09-10T01:49:59.9844815+00:00",
+      "NumProgressed": 135940,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 112,
@@ -20589,7 +20594,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "advlevel02",
@@ -20707,9 +20712,9 @@
       "ID": "blueprint03",
       "SetID": "anfd17p",
       "Name": "Thirst for Knowledge",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 544
     },
     {
       "ID": "bookentry",
@@ -20725,7 +20730,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "boss02",
@@ -20861,7 +20866,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "craft03",
@@ -21213,7 +21218,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "loot02",
@@ -21484,15 +21489,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 135933,
+      "Progressed": 135940,
       "Completed": 147
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-09T16:59:54.812119+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:06:05.575034+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:49:59.984481+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:59:54.0803543+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:06:05.5752938+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:43:47.1915536+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:49:59.9847473+00:00"
 }

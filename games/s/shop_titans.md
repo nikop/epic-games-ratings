@@ -21,10 +21,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 1.00% | ~1,359 |
 | One-Armed Bandit | 0.90% | ~1,223 |
 | Through Repetition, Perfection | 0.90% | ~1,223 |
-| The Daily Grind | 0.80% | ~1,087 |
-| Bounty Hunters | 0.80% | ~1,087 |
-| Flooding the Market | 0.80% | ~1,087 |
-| Dungeon Imports | 0.80% | ~1,087 |
+| The Daily Grind | 0.80% | ~1,088 |
+| Bounty Hunters | 0.80% | ~1,088 |
+| Flooding the Market | 0.80% | ~1,088 |
+| Dungeon Imports | 0.80% | ~1,088 |
 | Demand for Supplies | 0.70% | ~952 |
 | Where it Hurts | 0.70% | ~952 |
 | Gild-Gotten Goods | 0.70% | ~952 |
@@ -53,6 +53,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Above the Norm | 0.40% | ~544 |
 | A Ronin Reborn | 0.40% | ~544 |
 | The King's Caprice | 0.40% | ~544 |
+| Thirst for Knowledge | 0.40% | ~544 |
 | Big Game Hunting | 0.40% | ~544 |
 | For the Hoard! | 0.40% | ~544 |
 | Scrapbooker | 0.40% | ~544 |
@@ -88,7 +89,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.40% | ~544 |
 | Top of the World | 0.30% | ~408 |
 | Constellated | 0.30% | ~408 |
-| Thirst for Knowledge | 0.30% | ~408 |
 | Booty by the Boatload | 0.30% | ~408 |
 | Fillin' the Bin | 0.30% | ~408 |
 | Industrial Evolution | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,933 (Ranked 68)  
+Progressed: 135,940 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
 | 2023-09-09 | 135,932 | 147 |
-| 2023-09-10 | 135,933 | 147 |
+| 2023-09-10 | 135,940 | 147 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 70)  
 Sum: 27,199 (Ranked 48)  

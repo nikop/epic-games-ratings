@@ -4,8 +4,8 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 368,
+  "EOS_Progressed": 369,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.45,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-05-18T11:00:53.5227902+00:00",
@@ -1156,6 +1156,11 @@
       "Time": "2023-09-09T20:06:10.5445496+00:00",
       "NumProgressed": 368,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-10T01:49:41.4496156+00:00",
+      "NumProgressed": 369,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 24,
@@ -1175,7 +1180,7 @@
       "Name": "Balloon",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "big_house",
@@ -1183,7 +1188,7 @@
       "Name": "Big House",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "brewery",
@@ -1191,7 +1196,7 @@
       "Name": "Brewery",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "church",
@@ -1199,7 +1204,7 @@
       "Name": "Church",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "circus",
@@ -1215,7 +1220,7 @@
       "Name": "Expedition",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "fish_trade",
@@ -1263,7 +1268,7 @@
       "Name": "Match 12",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "match_3",
@@ -1271,7 +1276,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "match_6",
@@ -1279,7 +1284,7 @@
       "Name": "Match 6",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "match_9",
@@ -1287,7 +1292,7 @@
       "Name": "Match 9",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "mill",
@@ -1295,7 +1300,7 @@
       "Name": "Mill",
       "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "sawmill",
@@ -1303,7 +1308,7 @@
       "Name": "Sawmill",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "seaweed_farm",
@@ -1311,7 +1316,7 @@
       "Name": "Seaweed farm",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "tavern",
@@ -1349,23 +1354,23 @@
       "ID": "wood",
       "SetID": "ap7g2g4",
       "Name": "Wood",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 184
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 368,
+      "Progressed": 369,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:05:46.2851499+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:49:41.4496153+00:00",
   "LastUpdate_AppInfo": "2023-09-07T19:57:25.3758044+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:58:45.4070336+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:05:46.2851732+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:42:39.1331106+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:49:41.4496436+00:00"
 }

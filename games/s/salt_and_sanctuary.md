@@ -6,28 +6,28 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~442,183 |
-| The Three | 64.00% | ~340,961 |
-| The Banquet | 40.00% | ~213,100 |
-| Devara's Light | 31.00% | ~165,153 |
-| The Iron Ones | 18.00% | ~95,895 |
-| The Village | 16.00% | ~85,240 |
-| The Forest | 14.00% | ~74,585 |
-| The Keep | 14.00% | ~74,585 |
-| Branded | 13.00% | ~69,258 |
-| The Imposter | 13.00% | ~69,258 |
-| The Castle | 11.00% | ~58,603 |
+| Find Sanctuary | 83.00% | ~442,191 |
+| The Three | 64.00% | ~340,966 |
+| The Banquet | 40.00% | ~213,104 |
+| Devara's Light | 31.00% | ~165,156 |
+| The Iron Ones | 18.00% | ~95,897 |
+| The Village | 16.00% | ~85,242 |
+| The Forest | 14.00% | ~74,586 |
+| The Keep | 14.00% | ~74,586 |
+| Branded | 13.00% | ~69,259 |
+| The Imposter | 13.00% | ~69,259 |
+| The Castle | 11.00% | ~58,604 |
 | The Dome | 9.00% | ~47,948 |
 | The Red Hall | 9.00% | ~47,948 |
-| The Sacrifice | 8.00% | ~42,620 |
+| The Sacrifice | 8.00% | ~42,621 |
 | The Cave | 7.00% | ~37,293 |
 | The Mire | 7.00% | ~37,293 |
 | The Stone Roots | 7.00% | ~37,293 |
 | The Ziggurat | 7.00% | ~37,293 |
-| Storied | 6.00% | ~31,965 |
-| The Construct | 6.00% | ~31,965 |
-| The Lake | 6.00% | ~31,965 |
-| The Ruins | 6.00% | ~31,965 |
+| Storied | 6.00% | ~31,966 |
+| The Construct | 6.00% | ~31,966 |
+| The Lake | 6.00% | ~31,966 |
+| The Ruins | 6.00% | ~31,966 |
 | The Alkymancery | 5.00% | ~26,638 |
 | The Pitchwoods | 5.00% | ~26,638 |
 | Honed | 4.00% | ~21,310 |
@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,655 |
 | Fading Fast | 1.00% | ~5,328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532,751 (Ranked 31)  
-Completed: 1,537 (0.29%) (Ranked 180)  
+Progressed: 532,760 (Ranked 31)  
+Completed: 1,538 (0.29%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,10 +187,10 @@ Completed: 1,537 (0.29%) (Ranked 180)
 | 2023-09-07 | 532,566 | 1,535 |
 | 2023-09-08 | 532,641 | 1,535 |
 | 2023-09-09 | 532,745 | 1,537 |
-| 2023-09-10 | 532,751 | 1,537 |
+| 2023-09-10 | 532,760 | 1,538 |
 ## Awards
 Max (Challenging Combat): 282  (Ranked 243)  
-Sum: 1,944 (Ranked 204)  
+Sum: 1,945 (Ranked 204)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -199,7 +199,7 @@ Diff (max vs sum): 39
 | This game is Highly Recommended | 256 |
 | This game is Extremely Fun | 238 |
 | This game has Diverse Characters | 236 |
-| This game has Amazing Storytelling | 229 |
+| This game has Amazing Storytelling | 230 |
 | This game has Amazing Characters | 225 |
 | This game has Unique Visuals | 220 |
 | This game has Obsessive Gameplay | 164 |
@@ -360,4 +360,4 @@ Diff (max vs sum): 39
 | 2023-09-06 | 4.61 | - | 282 | 1,939 |
 | 2023-09-08 | 4.61 | - | 282 | 1,941 |
 | 2023-09-09 | 4.61 | - | 282 | 1,943 |
-| 2023-09-10 | 4.61 | - | 282 | 1,944 |
+| 2023-09-10 | 4.61 | - | 282 | 1,945 |

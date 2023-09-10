@@ -4,8 +4,8 @@
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 107,
-  "EOS_Completed": 44,
+  "EOS_Completed": 45,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 41.12,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 42.06,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -676,6 +676,11 @@
       "Time": "2023-09-09T23:06:48.9201244+00:00",
       "NumProgressed": 107,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-09-10T01:50:35.9868534+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 18,
@@ -685,17 +690,17 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 150,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Dreamkeeper",
       "SetID": "b7i210",
       "Name": "Dreamkeeper",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Dust_fighter",
@@ -765,33 +770,33 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 56,
-      "XP": 50,
-      "UsersEstimate": 60
-    },
-    {
-      "ID": "Peacemaker",
-      "SetID": "b7i210",
-      "Name": "Peacemaker",
       "Percentage": 57,
       "XP": 50,
       "UsersEstimate": 61
     },
     {
+      "ID": "Peacemaker",
+      "SetID": "b7i210",
+      "Name": "Peacemaker",
+      "Percentage": 58,
+      "XP": 50,
+      "UsersEstimate": 62
+    },
+    {
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Samaritan",
@@ -831,13 +836,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 107,
-      "Completed": 44
+      "Completed": 45
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:06:42.7040161+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:50:35.9868527+00:00",
   "LastUpdate_AppInfo": "2023-09-05T02:11:06.2615908+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:58:38.4713886+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:06:42.7040368+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:42:32.3747263+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:50:35.9868732+00:00"
 }

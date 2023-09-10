@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
     "PcReleaseDate": "2021-09-09T13:00:00+00:00",
@@ -134,9 +134,9 @@
       "ID": "DropIn",
       "SetID": "6jf74lf",
       "Name": "Drop In",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "EliteVamp",
@@ -287,8 +287,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:04:36.2737596+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:48:32.5067625+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:44.1271577+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:57:41.595714+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:04:36.2737796+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:41:36.1158734+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:48:32.5067795+00:00"
 }

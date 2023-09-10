@@ -5,27 +5,27 @@ Rating: 3.82 (Ranked 968)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 51.00% | ~261 |
+| Bundle of Joy | 50.00% | ~256 |
 | A Friend in Need... | 46.00% | ~236 |
 | Bosom Buddies | 30.00% | ~154 |
 | Beat the Heat | 24.00% | ~123 |
 | A Familiar Face | 16.00% | ~82 |
 | Unexpected Consequences | 14.00% | ~72 |
-| Identity Theft | 12.00% | ~61 |
-| Mind the Gap | 12.00% | ~61 |
-| U Mad Bro? | 12.00% | ~61 |
-| F is for Feline | 12.00% | ~61 |
-| A Trip to Remember | 12.00% | ~61 |
-| Does Not Compute | 12.00% | ~61 |
+| Identity Theft | 12.00% | ~62 |
+| Mind the Gap | 12.00% | ~62 |
+| U Mad Bro? | 12.00% | ~62 |
+| F is for Feline | 12.00% | ~62 |
+| A Trip to Remember | 12.00% | ~62 |
+| Does Not Compute | 12.00% | ~62 |
 | Short Circuit | 11.00% | ~56 |
 | A Stealthy Outlook | 7.00% | ~36 |
 | Catch You Later | 6.00% | ~31 |
 | Between the Covers | 5.00% | ~26 |
 | Den Mother | 5.00% | ~26 |
-| Everything Must Go! | 4.00% | ~20 |
-| Antisocial Club | 4.00% | ~20 |
-| You Had One Job... | 4.00% | ~20 |
-| Smart cookie | 4.00% | ~20 |
+| Everything Must Go! | 4.00% | ~21 |
+| Antisocial Club | 4.00% | ~21 |
+| You Had One Job... | 4.00% | ~21 |
+| Smart cookie | 4.00% | ~21 |
 | Paparazzi | 3.00% | ~15 |
 | Life of the Party | 3.00% | ~15 |
 | The Butterfly Effect | 2.00% | ~10 |
@@ -35,8 +35,8 @@ Rating: 3.82 (Ranked 968)
 | Marvellous Toys | 2.00% | ~10 |
 | Hardcore Gamer | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 512 (Ranked 240)  
-Completed: 5 (0.98%) (Ranked 125)  
+Progressed: 513 (Ranked 240)  
+Completed: 5 (0.97%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,6 +111,7 @@ Completed: 5 (0.98%) (Ranked 125)
 | 2023-09-06 | 509 | 5 |
 | 2023-09-07 | 510 | 5 |
 | 2023-09-08 | 512 | 5 |
+| 2023-09-10 | 513 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

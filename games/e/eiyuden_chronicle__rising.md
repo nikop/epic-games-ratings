@@ -28,11 +28,11 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 36.00% | ~247 |
 | Adept, for an Acting Mayor | 35.00% | ~240 |
 | Money, Money, Money | 35.00% | ~240 |
-| Rune Wall Master | 33.00% | ~226 |
+| Rune Wall Master | 34.00% | ~233 |
 | The Quarry...On Foot! | 31.00% | ~213 |
 | The Runebarrows...On Foot! | 29.00% | ~199 |
+| The Lava Ruins...On Foot! | 28.00% | ~192 |
 | The Snowpeak...On Foot! | 27.00% | ~185 |
-| The Lava Ruins...On Foot! | 27.00% | ~185 |
 | Meat Master | 26.00% | ~178 |
 | Fishing Master | 25.00% | ~172 |
 | Armor Master | 24.00% | ~165 |

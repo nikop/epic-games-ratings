@@ -4306,10 +4306,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8845,
       "NumberOfAwardsMax": 5990
+    },
+    {
+      "Time": "2023-09-10T01:43:42.7325421+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8846,
+      "NumberOfAwardsMax": 5990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8845,
+  "NumberOfAwards": 8846,
   "NumberOfAwardsMax": 5990,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4347,7 +4353,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 315
+      "Count": 316
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4368,10 +4374,10 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 676774,
+  "EOS_Progressed": 676816,
   "EOS_Completed": 2129,
-  "EOS_NewPlayers": 4717,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 4723,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -20308,6 +20314,11 @@
       "Time": "2023-09-10T00:06:58.8735287+00:00",
       "NumProgressed": 676774,
       "NumCompleted": 2129
+    },
+    {
+      "Time": "2023-09-10T01:50:51.530243+00:00",
+      "NumProgressed": 676816,
+      "NumCompleted": 2129
     }
   ],
   "TotalAchievements": 45,
@@ -20343,7 +20354,7 @@
       "Name": "Anger Management",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20367,7 +20378,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "ach_bookworm",
@@ -20399,7 +20410,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -20535,7 +20546,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "ach_magnum_opus",
@@ -20559,7 +20570,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4737
+      "UsersEstimate": 4738
     },
     {
       "ID": "ach_revival_tour",
@@ -20567,7 +20578,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "ach_salvation",
@@ -20621,9 +20632,9 @@
       "ID": "ach_the_vcla",
       "SetID": "7km39fm",
       "Name": "Go, Bobcats!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2707
+      "UsersEstimate": 3384
     },
     {
       "ID": "ach_thesacrifice",
@@ -20655,7 +20666,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13535
+      "UsersEstimate": 13536
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20678,22 +20689,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676774,
+      "Progressed": 676816,
       "Completed": 2129
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 2314,
-      "Completed": 2314
+      "Progressed": 2356,
+      "Completed": 2356
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-09T23:00:08.4363111+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:06:58.8735282+00:00",
+  "LastChanged": "2023-09-10T01:43:42.732542+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:50:51.5302425+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:59:49.993268+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:06:58.8736756+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:43:42.7325425+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:50:51.5303895+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 32,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2333,
+  "EOS_Progressed": 2335,
   "EOS_Completed": 211,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 9.04,
   "EosHistory": [
@@ -5708,6 +5708,11 @@
       "Time": "2023-09-10T00:03:13.3226417+00:00",
       "NumProgressed": 2333,
       "NumCompleted": 211
+    },
+    {
+      "Time": "2023-09-10T01:47:10.4099242+00:00",
+      "NumProgressed": 2335,
+      "NumCompleted": 211
     }
   ],
   "TotalAchievements": 12,
@@ -5735,7 +5740,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "Green Ticket Roundup",
@@ -5743,7 +5748,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "Jacques a Dit",
@@ -5751,7 +5756,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "Jakob",
@@ -5767,7 +5772,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "Le Juif et la France",
@@ -5783,7 +5788,7 @@
       "Name": "Little Helper",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -5814,7 +5819,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2333,
+      "Progressed": 2335,
       "Completed": 211
     }
   ],
@@ -5822,8 +5827,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:03:13.3226401+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:47:10.4099237+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:14.4342604+00:00",
-  "LastUpdate_Ratings": "2023-09-10T00:00:13.3577947+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:03:13.3234981+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:44:05.1331351+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:47:10.4099769+00:00"
 }

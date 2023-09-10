@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -593,9 +593,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1266,
+  "EOS_Progressed": 1269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3888,6 +3888,11 @@
       "Time": "2023-09-10T00:05:42.7533612+00:00",
       "NumProgressed": 1266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T01:49:38.2583089+00:00",
+      "NumProgressed": 1269,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4034,9 +4039,9 @@
       "ID": "MF_Ach_PerkShardPunchCard",
       "SetID": "9b9n573",
       "Name": "Perk Shard Punch Card",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -4083,15 +4088,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1266,
+      "Progressed": 1269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-08T22:00:22.0755866+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:05:42.7533606+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:49:38.2583084+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:59:59.1540745+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:05:42.7534009+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:43:51.5936654+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:49:38.2583487+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 2.00% | ~13,535 |
+| Welcome To Hell-A | 2.00% | ~13,536 |
 | Dr. Reed, I Presume? | 1.00% | ~6,768 |
 | Git Gutte! | 1.00% | ~6,768 |
 | Bookworm | 1.00% | ~6,768 |
@@ -25,18 +25,18 @@ Rating: 4.54 (Ranked 504)
 | This is My Weapon | 1.00% | ~6,768 |
 | Slayer Squad | 0.90% | ~6,091 |
 | Our True Nature | 0.90% | ~6,091 |
-| Anger Management | 0.80% | ~5,414 |
-| Perks of the Job | 0.80% | ~5,414 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,414 |
-| Ooh, Shiny! | 0.80% | ~5,414 |
-| I Am the Resurrection | 0.80% | ~5,414 |
-| Humanity Distilled | 0.70% | ~4,737 |
+| Anger Management | 0.80% | ~5,415 |
+| Perks of the Job | 0.80% | ~5,415 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,415 |
+| Ooh, Shiny! | 0.80% | ~5,415 |
+| I Am the Resurrection | 0.80% | ~5,415 |
+| Humanity Distilled | 0.70% | ~4,738 |
 | Making Your Mark | 0.60% | ~4,061 |
 | Down with the Sickness | 0.60% | ~4,061 |
 | Max Headroom | 0.60% | ~4,061 |
+| Go, Bobcats! | 0.50% | ~3,384 |
 | Smorgasbord | 0.40% | ~2,707 |
 | Jumbo Keyring | 0.40% | ~2,707 |
-| Go, Bobcats! | 0.40% | ~2,707 |
 | Rising Star | 0.40% | ~2,707 |
 | Make it So | 0.30% | ~2,030 |
 | On Safari | 0.30% | ~2,030 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 504)
 | Survival Skills | 0.10% | ~677 |
 | Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,774 (Ranked 22)  
+Progressed: 676,816 (Ranked 22)  
 Completed: 2,129 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,10 +194,10 @@ Completed: 2,129 (0.31%) (Ranked 177)
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
-| 2023-09-10 | 676,774 | 2,129 |
+| 2023-09-10 | 676,816 | 2,129 |
 ## Awards
 Max (Great Boss Battles): 5,990  (Ranked 58)  
-Sum: 8,845 (Ranked 94)  
+Sum: 8,846 (Ranked 94)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -208,8 +208,8 @@ Diff (max vs sum): -36
 | This game is Relaxing | 371 |
 | This game has Amazing Storytelling | 344 |
 | This game is Extremely Fun | 324 |
+| This game has Amazing Characters | 316 |
 | This game is Highly Recommended | 315 |
-| This game has Amazing Characters | 315 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -355,3 +355,4 @@ Diff (max vs sum): -36
 | 2023-09-07 | 4.54 | 5,945 | 8,774 |
 | 2023-09-08 | 4.54 | 5,969 | 8,812 |
 | 2023-09-09 | 4.54 | 5,990 | 8,845 |
+| 2023-09-10 | 4.54 | 5,990 | 8,846 |

@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2648,
+  "EOS_Progressed": 2649,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -3118,6 +3118,11 @@
       "Time": "2023-09-09T22:05:32.7499546+00:00",
       "NumProgressed": 2648,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-10T01:48:58.8095258+00:00",
+      "NumProgressed": 2649,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3223,16 +3228,16 @@
       "ID": "UNEXPECTED_ENCOUNTER",
       "SetID": "1a29mp6",
       "Name": "Unexpected encounter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 503
+      "UsersEstimate": 477
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2648,
+      "Progressed": 2649,
       "Completed": 6
     }
   ],
@@ -3240,8 +3245,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:05:03.3891338+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:48:58.8095249+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.1508529+00:00",
-  "LastUpdate_Ratings": "2023-09-10T00:00:35.4617594+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:05:03.38917+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:44:24.9316235+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:48:58.8095962+00:00"
 }

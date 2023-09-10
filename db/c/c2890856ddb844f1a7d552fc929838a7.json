@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -78,7 +78,7 @@
   "Tags": [],
   "EOS_Progressed": 746,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1414,9 +1414,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 269
     },
     {
       "ID": "AC12",
@@ -1438,9 +1438,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 149
     },
     {
       "ID": "AC15",
@@ -1470,9 +1470,9 @@
       "ID": "AC18",
       "SetID": "l4abp0",
       "Name": "Acquired Taste",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 328
     },
     {
       "ID": "AC19",
@@ -1518,9 +1518,9 @@
       "ID": "AC24",
       "SetID": "l4abp0",
       "Name": "The Work of a Master",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 157
     },
     {
       "ID": "AC25",
@@ -1550,9 +1550,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 336
     },
     {
       "ID": "AC29",
@@ -1638,9 +1638,9 @@
       "ID": "AC39",
       "SetID": "l4abp0",
       "Name": "Warrior of the Silent Sorrow",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 67
     },
     {
       "ID": "AC40",
@@ -1703,8 +1703,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-09T09:58:35.689608+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:04:30.6558057+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:48:27.0091341+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:58:18.5427819+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:04:30.6558547+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:42:13.0395507+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:48:27.0091814+00:00"
 }

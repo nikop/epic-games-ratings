@@ -3,12 +3,12 @@
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
   "Ranking_Rating": 392,
-  "Ranking_Popularity": 26,
+  "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9220,10 +9220,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 32113,
       "NumberOfAwardsMax": 13666
+    },
+    {
+      "Time": "2023-09-10T01:42:41.4067838+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 32128,
+      "NumberOfAwardsMax": 13666
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32113,
+  "NumberOfAwards": 32128,
   "NumberOfAwardsMax": 13666,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9237,7 +9243,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8699
+      "Count": 8709
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9255,7 +9261,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1133
+      "Count": 1138
     },
     {
       "Text": "This game is Relaxing",
@@ -9311,8 +9317,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2023-09-09T21:59:32.1531717+00:00",
+  "LastChanged": "2023-09-10T01:42:41.4067835+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:55.2756707+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:58:48.0511526+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:05:15.1338263+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:42:41.4067844+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:49:10.6543203+00:00"
 }

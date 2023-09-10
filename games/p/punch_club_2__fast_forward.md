@@ -15,7 +15,7 @@
 | Employee of the week | 78.00% | ~250 |
 | Neurotrainer – power gainer! | 77.00% | ~247 |
 | Your own amateur gym | 75.00% | ~241 |
-| First defeat | 73.00% | ~234 |
+| First defeat | 74.00% | ~238 |
 | Run K, run! | 73.00% | ~234 |
 | Fighting is cool | 70.00% | ~225 |
 | No bullying more | 69.00% | ~221 |

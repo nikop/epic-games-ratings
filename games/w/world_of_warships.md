@@ -1,43 +1,43 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 691)  
+Rating: 4.41 (Ranked 690)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 86.00% | ~17,513 |
-| Initial Capital | 78.00% | ~15,884 |
-| Moneybags | 58.00% | ~11,811 |
-| Junior Supply Officer | 58.00% | ~11,811 |
-| Naval Warfare. Arson | 45.00% | ~9,164 |
-| Naval Warfare. Ramming | 43.00% | ~8,757 |
-| Naval Constructor | 43.00% | ~8,757 |
-| Amateur | 42.00% | ~8,553 |
-| Naval Warfare. Tactics | 41.00% | ~8,349 |
-| Naval Warfare. Weaponry Basics | 33.00% | ~6,720 |
-| Naval Warfare. Flooding | 28.00% | ~5,702 |
-| Naval Warfare. Lucky Shot | 28.00% | ~5,702 |
-| Business Magnate | 27.00% | ~5,498 |
-| Battle Hero | 24.00% | ~4,887 |
-| Supply Officer | 22.00% | ~4,480 |
-| Smooth Supply | 22.00% | ~4,480 |
-| Warrior | 21.00% | ~4,276 |
-| Veteran | 13.00% | ~2,647 |
-| Legend of the Seas | 7.00% | ~1,425 |
-| Chief Naval Architect | 7.00% | ~1,425 |
-| Shield | 7.00% | ~1,425 |
-| Important Missions | 5.00% | ~1,018 |
-| Senior Supply Officer | 4.00% | ~815 |
-| Weather Beaten | 4.00% | ~815 |
-| Guardian | 4.00% | ~815 |
-| Bane of the Oceans | 3.00% | ~611 |
-| "Science of Victory" | 3.00% | ~611 |
-| Special Orders | 3.00% | ~611 |
-| Protector | 3.00% | ~611 |
-| Exterminator | 3.00% | ~611 |
-| American Cruisers | 3.00% | ~611 |
-| Old-Timer | 2.00% | ~407 |
+| Junior Naval Designer | 86.00% | ~17,540 |
+| Initial Capital | 78.00% | ~15,908 |
+| Moneybags | 58.00% | ~11,829 |
+| Junior Supply Officer | 58.00% | ~11,829 |
+| Naval Warfare. Arson | 45.00% | ~9,178 |
+| Naval Warfare. Ramming | 43.00% | ~8,770 |
+| Naval Constructor | 43.00% | ~8,770 |
+| Amateur | 42.00% | ~8,566 |
+| Naval Warfare. Tactics | 41.00% | ~8,362 |
+| Naval Warfare. Weaponry Basics | 33.00% | ~6,730 |
+| Naval Warfare. Flooding | 28.00% | ~5,711 |
+| Naval Warfare. Lucky Shot | 28.00% | ~5,711 |
+| Business Magnate | 27.00% | ~5,507 |
+| Battle Hero | 24.00% | ~4,895 |
+| Supply Officer | 22.00% | ~4,487 |
+| Smooth Supply | 22.00% | ~4,487 |
+| Warrior | 21.00% | ~4,283 |
+| Veteran | 13.00% | ~2,651 |
+| Legend of the Seas | 7.00% | ~1,428 |
+| Chief Naval Architect | 7.00% | ~1,428 |
+| Shield | 7.00% | ~1,428 |
+| Important Missions | 5.00% | ~1,020 |
+| Senior Supply Officer | 4.00% | ~816 |
+| Weather Beaten | 4.00% | ~816 |
+| Guardian | 4.00% | ~816 |
+| Bane of the Oceans | 3.00% | ~612 |
+| "Science of Victory" | 3.00% | ~612 |
+| Special Orders | 3.00% | ~612 |
+| Protector | 3.00% | ~612 |
+| Exterminator | 3.00% | ~612 |
+| American Cruisers | 3.00% | ~612 |
+| Old-Timer | 2.00% | ~408 |
 | Experienced One | 1.00% | ~204 |
 | Secret Instructions | 1.00% | ~204 |
 | Raider | 1.00% | ~204 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~20 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,364 (Ranked 108)  
+Progressed: 20,395 (Ranked 108)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 19,190 | 0 |
 | 2023-09-08 | 19,701 | 0 |
 | 2023-09-09 | 20,341 | 0 |
-| 2023-09-10 | 20,364 | 0 |
+| 2023-09-10 | 20,395 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,313  (Ranked 132)  
 Sum: 10,853 (Ranked 83)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -630,6 +630,11 @@
       "Time": "2023-09-08T20:04:26.463467+00:00",
       "NumProgressed": 512,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T01:48:25.7210005+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -649,7 +654,7 @@
       "Name": "Identity Theft",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Butterfly",
@@ -673,7 +678,7 @@
       "Name": "Mind the Gap",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Echoes",
@@ -713,7 +718,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Headshot",
@@ -721,15 +726,15 @@
       "Name": "U Mad Bro?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 256
     },
     {
       "ID": "Hitman",
@@ -745,7 +750,7 @@
       "Name": "F is for Feline",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Investigative",
@@ -769,7 +774,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "MISSING_DATA",
@@ -777,7 +782,7 @@
       "Name": "Does Not Compute",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Misanthrope",
@@ -785,7 +790,7 @@
       "Name": "Antisocial Club",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Missing_Shot",
@@ -793,7 +798,7 @@
       "Name": "You Had One Job...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Neighbor",
@@ -849,7 +854,7 @@
       "Name": "Smart cookie",
       "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Strike",
@@ -872,7 +877,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 5
     }
   ],
@@ -880,8 +885,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:04:29.4810798+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:48:25.721+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:55.4277307+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:58:27.839282+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:04:29.481105+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:42:22.1265803+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:48:25.7210234+00:00"
 }

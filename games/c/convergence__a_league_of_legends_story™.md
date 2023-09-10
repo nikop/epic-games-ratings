@@ -5,11 +5,11 @@ Rating: 4.60 (Ranked 392)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 27.00% | ~231 |
+| Time Heals All Wounds | 27.00% | ~232 |
 | Rail Rat | 22.00% | ~189 |
 | The Mysterious Stranger | 21.00% | ~180 |
-| The Prince in Heels | 20.00% | ~171 |
-| Immaculate Aim | 20.00% | ~171 |
+| The Prince in Heels | 20.00% | ~172 |
+| Immaculate Aim | 20.00% | ~172 |
 | The Steel Shadow | 19.00% | ~163 |
 | Make Up For Lost Time | 19.00% | ~163 |
 | Time Flies | 19.00% | ~163 |
@@ -19,8 +19,8 @@ Rating: 4.60 (Ranked 392)
 | Honest Mistake | 19.00% | ~163 |
 | Immaculate Aim | 19.00% | ~163 |
 | The Brass Boss | 19.00% | ~163 |
-| The Wicked Twins | 18.00% | ~154 |
-| Fast Learner | 18.00% | ~154 |
+| The Wicked Twins | 18.00% | ~155 |
+| Fast Learner | 18.00% | ~155 |
 | Like Clockwork | 17.00% | ~146 |
 | The Betrayer | 17.00% | ~146 |
 | The Loose Cannon | 17.00% | ~146 |
@@ -32,7 +32,7 @@ Rating: 4.60 (Ranked 392)
 | Street Style | 15.00% | ~129 |
 | Cartographer | 15.00% | ~129 |
 | Treasure Trove | 14.00% | ~120 |
-| Whiz Kid | 13.00% | ~111 |
+| Whiz Kid | 13.00% | ~112 |
 | Chaincrawler Explorer | 11.00% | ~94 |
 | Family Memories | 11.00% | ~94 |
 | Good Neighbor | 11.00% | ~94 |
@@ -46,7 +46,7 @@ Rating: 4.60 (Ranked 392)
 | Entresol Explorer | 8.00% | ~69 |
 | Corin Goes Home | 7.00% | ~60 |
 | Sartorialist | 7.00% | ~60 |
-| Golem Hunter | 6.00% | ~51 |
+| Golem Hunter | 6.00% | ~52 |
 | Clovemary for Remembering | 5.00% | ~43 |
 | Rungs Was Right | 5.00% | ~43 |
 | Hexlock for Protection | 4.00% | ~34 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 392)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 857 (Ranked 214)  
+Progressed: 859 (Ranked 214)  
 Completed: 5 (0.58%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 5 (0.58%) (Ranked 145)
 | 2023-09-06 | 855 | 5 |
 | 2023-09-07 | 856 | 5 |
 | 2023-09-09 | 857 | 5 |
+| 2023-09-10 | 859 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_NewCompleters": 93,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -613,9 +613,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-10T00:04:43.4892695+00:00",
+  "LastChanged_Achievements": "2023-09-10T01:48:39.1516585+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-09T23:58:37.1103881+00:00",
-  "LastUpdate_Achievements": "2023-09-10T00:04:43.4892923+00:00"
+  "LastUpdate_Ratings": "2023-09-10T01:42:30.9616758+00:00",
+  "LastUpdate_Achievements": "2023-09-10T01:48:39.1516758+00:00"
 }
