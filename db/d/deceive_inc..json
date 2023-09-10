@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17938,
+  "EOS_Progressed": 17939,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9970,6 +9970,11 @@
       "Time": "2023-09-10T04:05:19.6793626+00:00",
       "NumProgressed": 17938,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T07:04:40.849552+00:00",
+      "NumProgressed": 17939,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -9997,7 +10002,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3049
+      "UsersEstimate": 3050
     },
     {
       "ID": "0004",
@@ -10117,7 +10122,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "0019",
@@ -10165,7 +10170,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3946
+      "UsersEstimate": 3947
     },
     {
       "ID": "0025",
@@ -10268,7 +10273,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17938,
+      "Progressed": 17939,
       "Completed": 1
     }
   ],
@@ -10276,8 +10281,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:04:40.484251+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:04:40.8495514+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:57:21.0942655+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:04:40.4843367+00:00"
+  "LastUpdate_Ratings": "2023-09-10T06:57:26.5170155+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:04:40.8496273+00:00"
 }

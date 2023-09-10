@@ -53,8 +53,8 @@ Rating: 4.47 (Ranked 613)
 | Burn after reading | 3.00% | ~108 |
 | Souvenir hunter | 3.00% | ~108 |
 | Shoot for the Moon | 3.00% | ~108 |
-| If You Go Down To The Woods Today | 3.00% | ~106 |
-| Fight Another Day | 3.00% | ~106 |
+| If You Go Down To The Woods Today | 3.00% | ~107 |
+| Fight Another Day | 3.00% | ~107 |
 | Out of Scope | 2.00% | ~72 |
 | Eagle Eyed | 2.00% | ~72 |
 | Up close and personal | 2.00% | ~72 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 613)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,599 (Ranked 157)  
+Progressed: 3,600 (Ranked 157)  
 Completed: 10 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 10 (0.28%) (Ranked 183)
 | 2023-09-07 | 3,592 | 10 |
 | 2023-09-08 | 3,594 | 10 |
 | 2023-09-09 | 3,599 | 10 |
+| 2023-09-10 | 3,600 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -512,7 +512,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3599,
+  "EOS_Progressed": 3600,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -6577,6 +6577,11 @@
       "Time": "2023-09-09T22:03:19.1492753+00:00",
       "NumProgressed": 3599,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-10T07:03:20.9521371+00:00",
+      "NumProgressed": 3600,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -7108,7 +7113,7 @@
       "Name": "If You Go Down To The Woods Today",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -7116,7 +7121,7 @@
       "Name": "Fight Another Day",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "REWARD_DLC03_03_STROLL_IN_THE_WOODS",
@@ -7155,13 +7160,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3550,
+      "Progressed": 3551,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3599,
+      "Progressed": 3600,
       "Completed": 10
     }
   ],
@@ -7169,8 +7174,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-08T20:58:35.5897596+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:03:30.5418549+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:03:20.9521366+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:58:22.7850066+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:03:30.5419907+00:00"
+  "LastUpdate_Ratings": "2023-09-10T06:58:38.4428642+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:03:20.9522302+00:00"
 }

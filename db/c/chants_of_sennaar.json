@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.39,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -559,6 +559,11 @@
       "Time": "2023-09-10T01:49:54.4189469+00:00",
       "NumProgressed": 114,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T07:06:08.8875253+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 25,
@@ -592,9 +597,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "META_FIRST_LINK",
@@ -602,23 +607,23 @@
       "Name": "A good beginning",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "META_RESULT_1-3",
@@ -674,7 +679,7 @@
       "Name": "Rascal",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -688,7 +693,7 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -712,7 +717,7 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
       "UsersEstimate": 43
     },
@@ -720,7 +725,7 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 28
     },
@@ -738,7 +743,7 @@
       "Name": "The great escape",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "PROGRESS_N3",
@@ -752,31 +757,31 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 27
+      "UsersEstimate": 26
     },
     {
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:05:53.8339546+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:06:08.8875247+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-10T06:00:28.1505432+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:05:53.8339765+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:01:11.731233+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:06:08.8875449+00:00"
 }

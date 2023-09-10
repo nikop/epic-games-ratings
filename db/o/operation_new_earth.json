@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1279,
+  "EOS_Progressed": 1280,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4566,6 +4566,11 @@
       "Time": "2023-09-09T23:07:40.3029701+00:00",
       "NumProgressed": 1279,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T07:07:46.04114+00:00",
+      "NumProgressed": 1280,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4761,7 +4766,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4880,14 +4885,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1279,
+      "Progressed": 1280,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:07:16.9580746+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:07:46.0411394+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:58:11.7642734+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:07:16.9581367+00:00"
+  "LastUpdate_Ratings": "2023-09-10T06:58:26.4050609+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:07:46.0411962+00:00"
 }

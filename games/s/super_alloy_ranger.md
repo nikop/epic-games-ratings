@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 74.00% | ~52 |
-| Gear Up | 66.00% | ~46 |
-| A Grand Show | 66.00% | ~46 |
-| Freshen Up | 56.00% | ~39 |
-| GG EZ | 56.00% | ~39 |
-| Hydrophobia | 41.00% | ~29 |
-| Ka-Ching! | 33.00% | ~23 |
-| Stop Right There | 31.00% | ~22 |
+| Iceberg Theory | 76.00% | ~54 |
+| Gear Up | 66.00% | ~47 |
+| A Grand Show | 66.00% | ~47 |
+| Freshen Up | 56.00% | ~40 |
+| GG EZ | 56.00% | ~40 |
+| Hydrophobia | 42.00% | ~30 |
+| Ka-Ching! | 32.00% | ~23 |
+| Stop Right There | 32.00% | ~23 |
 | Get to the Point | 30.00% | ~21 |
-| The Hidden Secret | 16.00% | ~11 |
-| Mr. Want It All | 16.00% | ~11 |
-| Toe to Toe | 16.00% | ~11 |
+| The Hidden Secret | 15.00% | ~11 |
+| Mr. Want It All | 15.00% | ~11 |
+| Toe to Toe | 15.00% | ~11 |
 | Phew! | 14.00% | ~10 |
 | Grand Escape | 13.00% | ~9 |
 | Space Warrior: Prologue | 13.00% | ~9 |
 | The Abyss Conqueror | 10.00% | ~7 |
-| Keep it Up, rookie! | 9.00% | ~6 |
+| Keep it Up, rookie! | 8.00% | ~6 |
 | he Ultra Fortress Conqueror | 7.00% | ~5 |
 | Antaeus | 7.00% | ~5 |
 | Decapitation Strike | 7.00% | ~5 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 371)  
+Progressed: 71 (Ranked 370)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 58 | 0 |
 | 2023-09-08 | 62 | 0 |
 | 2023-09-09 | 67 | 0 |
-| 2023-09-10 | 70 | 0 |
+| 2023-09-10 | 71 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

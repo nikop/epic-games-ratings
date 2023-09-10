@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 501,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -434,6 +434,11 @@
       "Time": "2023-09-10T06:05:25.2609597+00:00",
       "NumProgressed": 524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T07:05:34.5334047+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -446,7 +451,7 @@
       "Name": "First Love",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -454,7 +459,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 185
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -478,7 +483,7 @@
       "Name": "Restored and Ready",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -494,7 +499,7 @@
       "Name": "Iconic!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -526,7 +531,7 @@
       "Name": "Spoilt for Choice",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -574,7 +579,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -582,7 +587,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -598,7 +603,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -622,7 +627,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -644,9 +649,9 @@
       "ID": "ML_ACHIEVEMENT_26",
       "SetID": "c7hf6a4",
       "Name": "Evangelist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 26
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -654,7 +659,7 @@
       "Name": "Clean Race",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 185
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -742,7 +747,7 @@
       "Name": "Eat My Dust",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -766,7 +771,7 @@
       "Name": "My Work Here Is Done",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -798,7 +803,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -837,14 +842,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 528,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:05:25.2609586+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:05:34.5334041+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:59:54.6280611+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:05:25.2609996+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:00:30.7953107+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:05:34.5334497+00:00"
 }

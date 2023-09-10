@@ -10,15 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 2.00% | ~2,719 |
 | Tinkle of Coins | 2.00% | ~2,719 |
 | Titan's First Steps | 2.00% | ~2,719 |
-| One Easy Payment | 1.00% | ~1,359 |
-| Some Assembly Required | 1.00% | ~1,359 |
-| Disintermediation | 1.00% | ~1,359 |
-| Another Satisfied Customer | 1.00% | ~1,359 |
-| It's Free Real Estate | 1.00% | ~1,359 |
-| Pretty Penny | 1.00% | ~1,359 |
-| Budding Merchant | 1.00% | ~1,359 |
-| Capitalism Ho! | 1.00% | ~1,359 |
-| Own the Means of Production | 1.00% | ~1,359 |
+| One Easy Payment | 1.00% | ~1,360 |
+| Some Assembly Required | 1.00% | ~1,360 |
+| Disintermediation | 1.00% | ~1,360 |
+| Another Satisfied Customer | 1.00% | ~1,360 |
+| It's Free Real Estate | 1.00% | ~1,360 |
+| Pretty Penny | 1.00% | ~1,360 |
+| Budding Merchant | 1.00% | ~1,360 |
+| Capitalism Ho! | 1.00% | ~1,360 |
+| Own the Means of Production | 1.00% | ~1,360 |
 | One-Armed Bandit | 0.90% | ~1,224 |
 | Through Repetition, Perfection | 0.90% | ~1,224 |
 | The Daily Grind | 0.80% | ~1,088 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,949 (Ranked 68)  
+Progressed: 135,953 (Ranked 68)  
 Completed: 147 (0.11%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,15 +262,15 @@ Completed: 147 (0.11%) (Ranked 215)
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
 | 2023-09-09 | 135,932 | 147 |
-| 2023-09-10 | 135,949 | 147 |
+| 2023-09-10 | 135,953 | 147 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 71)  
-Sum: 27,199 (Ranked 48)  
+Sum: 27,200 (Ranked 48)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,733 |
-| This game is Relaxing | 4,007 |
+| This game is Relaxing | 4,008 |
 | This game has Quickly Understood Controls | 3,993 |
 | This game has Diverse Characters | 3,873 |
 | This game is Highly Recommended | 3,741 |
@@ -506,3 +506,4 @@ Diff (max vs sum): 23
 | 2023-09-07 | 3.99 | - | 4,727 | 27,184 |
 | 2023-09-08 | 3.99 | - | 4,730 | 27,189 |
 | 2023-09-09 | 3.99 | - | 4,733 | 27,199 |
+| 2023-09-10 | 3.99 | - | 4,733 | 27,200 |

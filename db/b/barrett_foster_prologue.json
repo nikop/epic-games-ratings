@@ -4,7 +4,7 @@
   "ProductSlug": "barrett-foster-prologue-3e98dc",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-03-27T18:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.7520245+00:00",
   "LastChanged": "2023-03-31T05:58:27.7520246+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:12.3261457+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:57:51.039737+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:05:49.5650779+00:00"
+  "LastUpdate_Ratings": "2023-09-10T06:58:01.6203137+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:06:03.7562768+00:00"
 }

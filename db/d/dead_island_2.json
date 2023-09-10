@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4380,10 +4380,10 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 676913,
-  "EOS_Completed": 2129,
-  "EOS_NewPlayers": 4719,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 676934,
+  "EOS_Completed": 2130,
+  "EOS_NewPlayers": 4713,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -20350,6 +20350,11 @@
       "Time": "2023-09-10T06:06:51.1314858+00:00",
       "NumProgressed": 676913,
       "NumCompleted": 2129
+    },
+    {
+      "Time": "2023-09-10T07:07:15.9195738+00:00",
+      "NumProgressed": 676934,
+      "NumCompleted": 2130
     }
   ],
   "TotalAchievements": 45,
@@ -20369,7 +20374,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4738
+      "UsersEstimate": 4739
     },
     {
       "ID": "ach_ammo_ran",
@@ -20521,7 +20526,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13538
+      "UsersEstimate": 13539
     },
     {
       "ID": "ach_impressive_aim",
@@ -20601,7 +20606,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4738
+      "UsersEstimate": 4739
     },
     {
       "ID": "ach_revival_tour",
@@ -20617,7 +20622,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4061
+      "UsersEstimate": 4062
     },
     {
       "ID": "ach_secrets_of_la",
@@ -20657,7 +20662,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4061
+      "UsersEstimate": 4062
     },
     {
       "ID": "ach_the_vcla",
@@ -20697,7 +20702,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13538
+      "UsersEstimate": 13539
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20720,22 +20725,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676913,
-      "Completed": 2129
+      "Progressed": 676934,
+      "Completed": 2130
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 2453,
-      "Completed": 2453
+      "Progressed": 2474,
+      "Completed": 2474
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-10T02:16:29.6729227+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:06:51.1314851+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:07:15.9195732+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:59:53.4943718+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:06:51.1316178+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:00:29.3870815+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:07:15.919703+00:00"
 }

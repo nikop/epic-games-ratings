@@ -57,9 +57,9 @@
 | Problems of cyborgs | 35.00% | ~112 |
 | Absolute Champion! | 35.00% | ~112 |
 | Not little hacker | 34.00% | ~109 |
+| Careerist | 34.00% | ~109 |
 | Anyone can resist | 34.00% | ~109 |
 | Trap disarmed | 33.00% | ~106 |
-| Careerist | 33.00% | ~106 |
 | The lonesome road | 32.00% | ~103 |
 | Keep nature safe | 32.00% | ~103 |
 | Family comes first | 32.00% | ~103 |

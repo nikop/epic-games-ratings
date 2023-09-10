@@ -1257,9 +1257,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "achLizun",
@@ -1466,8 +1466,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:06:46.3389601+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:07:10.3949628+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:48.8958447+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:57:50.4180799+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:06:46.3390064+00:00"
+  "LastUpdate_Ratings": "2023-09-10T06:58:00.9634555+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:07:10.3950267+00:00"
 }

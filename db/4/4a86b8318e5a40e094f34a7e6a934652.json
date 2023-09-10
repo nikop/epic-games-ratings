@@ -482,9 +482,9 @@
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "BRING_PROSPERO",
@@ -506,9 +506,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -578,9 +578,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -594,9 +594,9 @@
       "ID": "SLEEP_50_HOURS",
       "SetID": "aniflfk",
       "Name": "Sleepyhead",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -633,8 +633,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:04:38.9937394+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:04:38.9976081+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:58:37.4304588+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:04:38.9937592+00:00"
+  "LastUpdate_Ratings": "2023-09-10T06:58:55.600067+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:04:38.997626+00:00"
 }

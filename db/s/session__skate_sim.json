@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -4472,9 +4472,9 @@
       "ID": "ACH_KEEPING-IT-CLASSY",
       "SetID": "72olkc5",
       "Name": "Keeping it classy",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4712,8 +4712,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-09T00:00:28.7734534+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:04:14.523328+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:04:11.1521076+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:17.5843169+00:00",
-  "LastUpdate_Ratings": "2023-09-10T06:00:19.3369805+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:04:14.5233899+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:01:01.1087155+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:04:11.1521621+00:00"
 }

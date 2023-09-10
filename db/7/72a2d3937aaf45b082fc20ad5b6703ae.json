@@ -4,7 +4,7 @@
   "ProductSlug": "the-making-of-karateka-7d9a6c",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -101,9 +101,9 @@
       "ID": "getting_point",
       "SetID": "l4g2eh",
       "Name": "Getting The Point",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "hit_target",
@@ -133,9 +133,9 @@
       "ID": "minimalist",
       "SetID": "l4g2eh",
       "Name": "Minimalist",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "modern_hero",
@@ -157,9 +157,9 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "original",
@@ -173,9 +173,9 @@
       "ID": "ran_trouble",
       "SetID": "l4g2eh",
       "Name": "Ran Into Trouble",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "show_respect",
@@ -220,8 +220,8 @@
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:04:23.6730453+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:04:21.5804027+00:00",
   "LastUpdate_AppInfo": "2023-09-08T21:57:00.7877533+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:58:03.997559+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:04:23.6730596+00:00"
+  "LastUpdate_Ratings": "2023-09-10T06:58:16.6401746+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:04:21.5804156+00:00"
 }

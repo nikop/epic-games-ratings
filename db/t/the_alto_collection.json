@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38687,
+  "EOS_Progressed": 38688,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16611,6 +16611,11 @@
       "Time": "2023-09-10T06:04:54.2806448+00:00",
       "NumProgressed": 38687,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T07:04:57.2334929+00:00",
+      "NumProgressed": 38688,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -16758,7 +16763,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "playerIzel",
@@ -16878,7 +16883,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "unlockmaya",
@@ -16933,15 +16938,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38687,
+      "Progressed": 38688,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:04:54.2806441+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:04:57.2334924+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.6421316+00:00",
-  "LastUpdate_Ratings": "2023-09-10T06:00:40.2158722+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:04:54.2807741+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:02:06.4902135+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:04:57.2336147+00:00"
 }

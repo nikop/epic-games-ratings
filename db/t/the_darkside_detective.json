@@ -4,7 +4,7 @@
   "ProductSlug": "the-darkside-detective-02fd5a",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-12-07T08:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.2770325+00:00",
   "LastChanged": "2023-03-31T05:57:54.2770326+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:08.0773837+00:00",
-  "LastUpdate_Ratings": "2023-09-10T06:00:11.2896517+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:06:56.955936+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:00:51.3344093+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:07:22.8214806+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -353,6 +353,11 @@
       "Time": "2023-09-10T06:05:32.376054+00:00",
       "NumProgressed": 70,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T07:05:43.3953532+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -500,7 +505,7 @@
       "Name": "Gear Up",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achi_19",
@@ -516,7 +521,7 @@
       "Name": "Freshen Up",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Achi_21",
@@ -530,15 +535,15 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -554,7 +559,7 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -572,13 +577,13 @@
       "Name": "GG EZ",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 23
     },
@@ -596,7 +601,7 @@
       "Name": "A Grand Show",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achi_31",
@@ -610,7 +615,7 @@
       "ID": "Achi_32",
       "SetID": "51a97k7",
       "Name": "Keep it Up, rookie!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -626,17 +631,17 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achi_36",
@@ -674,7 +679,7 @@
       "ID": "Achi_40",
       "SetID": "51a97k7",
       "Name": "Toe to Toe",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -763,7 +768,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
@@ -771,8 +776,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:05:32.3760533+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:05:43.3953527+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.9066994+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:57:47.9110539+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:05:32.3761052+00:00"
+  "LastUpdate_Ratings": "2023-09-10T06:57:58.0913279+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:05:43.3954011+00:00"
 }

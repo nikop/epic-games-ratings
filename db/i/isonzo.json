@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6763,
+  "EOS_Progressed": 6764,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5023,6 +5023,11 @@
       "Time": "2023-09-10T02:23:09.7943364+00:00",
       "NumProgressed": 6763,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-10T07:07:02.0373107+00:00",
+      "NumProgressed": 6764,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5050,7 +5055,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3246
+      "UsersEstimate": 3247
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -5178,7 +5183,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -5242,7 +5247,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -5330,7 +5335,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -5386,14 +5391,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6763,
+      "Progressed": 6764,
       "Completed": 8
     }
   ],
@@ -5401,8 +5406,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-02T12:59:05.1112111+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:06:40.4044435+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:07:02.0373103+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:39.7993209+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:59:10.0537155+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:06:40.4045141+00:00"
+  "LastUpdate_Ratings": "2023-09-10T06:59:33.2146146+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:07:02.0373734+00:00"
 }

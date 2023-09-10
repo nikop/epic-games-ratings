@@ -822,9 +822,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222802,
+  "EOS_Progressed": 222824,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2167,
+  "EOS_NewPlayers": 2179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10242,6 +10242,11 @@
       "Time": "2023-09-10T06:06:30.9789625+00:00",
       "NumProgressed": 222802,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-10T07:06:52.1064027+00:00",
+      "NumProgressed": 222824,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10301,7 +10306,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6684
+      "UsersEstimate": 6685
     },
     {
       "ID": "Chapter2",
@@ -10397,7 +10402,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "CompanionPriestress",
@@ -10605,7 +10610,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -10653,7 +10658,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "DwarfElf15Support",
@@ -10669,7 +10674,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "DwarfInsultWin",
@@ -10685,7 +10690,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6684
+      "UsersEstimate": 6685
     },
     {
       "ID": "ElfEpic",
@@ -10693,7 +10698,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -10701,7 +10706,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64613
+      "UsersEstimate": 64619
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10749,7 +10754,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "FollowBraztok",
@@ -10956,21 +10961,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222802,
+      "Progressed": 222824,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222802,
+      "Progressed": 222824,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-09T19:00:23.0234679+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:06:30.9789617+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:06:52.1064022+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:59:47.2929804+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:06:30.9791182+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:00:22.2975205+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:06:52.1065627+00:00"
 }

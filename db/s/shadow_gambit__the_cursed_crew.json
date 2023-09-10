@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 621,
+  "EOS_Progressed": 622,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.25,
   "EosHistory": [
@@ -1598,6 +1598,11 @@
       "Time": "2023-09-09T23:02:11.7313265+00:00",
       "NumProgressed": 621,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-10T07:02:23.6592352+00:00",
+      "NumProgressed": 622,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1618,15 +1623,15 @@
       "Name": "A New Journey",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "_03_FinishAct1",
       "SetID": "8a1io5d",
       "Name": "The Adventure Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 342
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1658,7 +1663,7 @@
       "Name": "All Good Things",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "_08_Completion_10",
@@ -1736,9 +1741,9 @@
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 255
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1754,7 +1759,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1817,7 +1822,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 621,
+      "Progressed": 622,
       "Completed": 14
     }
   ],
@@ -1825,8 +1830,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-10T06:03:15.5691759+00:00",
+  "LastChanged_Achievements": "2023-09-10T07:02:23.6592345+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-10T05:59:40.1837993+00:00",
-  "LastUpdate_Achievements": "2023-09-10T06:03:15.5692127+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:00:13.7231244+00:00",
+  "LastUpdate_Achievements": "2023-09-10T07:02:23.6592781+00:00"
 }
