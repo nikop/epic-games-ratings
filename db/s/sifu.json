@@ -6168,9 +6168,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 714197,
+  "EOS_Progressed": 714208,
   "EOS_Completed": 12890,
-  "EOS_NewPlayers": 1276,
+  "EOS_NewPlayers": 1285,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -19293,6 +19293,11 @@
       "Time": "2023-09-10T11:03:52.6249175+00:00",
       "NumProgressed": 714197,
       "NumCompleted": 12890
+    },
+    {
+      "Time": "2023-09-10T12:04:21.2059458+00:00",
+      "NumProgressed": 714208,
+      "NumCompleted": 12890
     }
   ],
   "TotalAchievements": 60,
@@ -19640,7 +19645,7 @@
       "Name": "Project Arena",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -19648,7 +19653,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -19656,7 +19661,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -19664,7 +19669,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -19672,7 +19677,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -19680,7 +19685,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -19688,7 +19693,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -19696,7 +19701,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -19704,7 +19709,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -19712,7 +19717,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -19720,7 +19725,7 @@
       "Name": "Skill and an even stronger will",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "54_Arena_HeliportAllOut",
@@ -19728,7 +19733,7 @@
       "Name": "Master of the Flying Assassins",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "55_Arena_SnowballKill",
@@ -19736,7 +19741,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -19744,7 +19749,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "57_Arena_Car",
@@ -19752,7 +19757,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "58_Arena_Music",
@@ -19760,7 +19765,7 @@
       "Name": "Beatmaker",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "59_Arena_CustomMode",
@@ -19768,7 +19773,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -19776,28 +19781,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 23498,
+      "Progressed": 23509,
       "Completed": 10602
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 714197,
+      "Progressed": 714208,
       "Completed": 12890
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-10T09:01:50.6502049+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:03:52.624917+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:04:21.2059453+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.7541411+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:00:47.9829871+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:03:52.6250492+00:00"
+  "LastUpdate_Ratings": "2023-09-10T12:01:21.8942245+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:04:21.2060677+00:00"
 }

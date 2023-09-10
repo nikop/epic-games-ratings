@@ -4,11 +4,11 @@
   "ProductSlug": "zombie-army-4-dead-war",
   "Ranking_Rating": 217,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 178,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2043,9 +2043,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43410,
+  "EOS_Progressed": 43411,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6638,6 +6638,11 @@
       "Time": "2023-09-10T11:06:18.7077691+00:00",
       "NumProgressed": 43410,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-10T12:07:19.1515775+00:00",
+      "NumProgressed": 43411,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -6649,7 +6654,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26480
+      "UsersEstimate": 26481
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -6657,7 +6662,7 @@
       "Name": "Kali Ma",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "SE_COMPLETE_ALL_CHAPTERS_WITH_A_FULL_TEAM",
@@ -6721,7 +6726,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17798
+      "UsersEstimate": 17799
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -6745,7 +6750,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6078
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -6769,7 +6774,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13891
+      "UsersEstimate": 13892
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -6841,7 +6846,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26914
+      "UsersEstimate": 26915
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -6857,7 +6862,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 14759
+      "UsersEstimate": 14760
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -6865,7 +6870,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19100
+      "UsersEstimate": 19101
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -6873,7 +6878,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 13891
+      "UsersEstimate": 13892
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -6881,7 +6886,7 @@
       "Name": "Have you tried turning it off and on again?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "SE_COMPLETE_TERROR_LAB",
@@ -6921,7 +6926,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 9984
+      "UsersEstimate": 9985
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -6945,7 +6950,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18232
+      "UsersEstimate": 18233
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -6953,7 +6958,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21705
+      "UsersEstimate": 21706
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -6977,7 +6982,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 29953
+      "UsersEstimate": 29954
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -7041,7 +7046,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19534
+      "UsersEstimate": 19535
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -7089,7 +7094,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14759
+      "UsersEstimate": 14760
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -7105,7 +7110,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 28216
+      "UsersEstimate": 28217
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -7113,7 +7118,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10418
+      "UsersEstimate": 10419
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -7145,7 +7150,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 9984
+      "UsersEstimate": 9985
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -7176,15 +7181,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43410,
+      "Progressed": 43411,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-09-09T22:57:42.7385732+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:06:18.7077683+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:07:19.1515769+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:11.630009+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:58:10.0003057+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:06:18.7078587+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:58:08.5504953+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:07:19.1516717+00:00"
 }

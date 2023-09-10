@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -2815,9 +2815,9 @@
       "Count": 735
     }
   ],
-  "EOS_Progressed": 235747,
+  "EOS_Progressed": 235748,
   "EOS_Completed": 266,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17410,6 +17410,11 @@
       "Time": "2023-09-10T11:03:10.6515101+00:00",
       "NumProgressed": 235747,
       "NumCompleted": 266
+    },
+    {
+      "Time": "2023-09-10T12:03:31.010122+00:00",
+      "NumProgressed": 235748,
+      "NumCompleted": 266
     }
   ],
   "TotalAchievements": 122,
@@ -17437,7 +17442,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 96656
+      "UsersEstimate": 96657
     },
     {
       "ID": "BOSSPIT",
@@ -17453,7 +17458,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 226317
+      "UsersEstimate": 226318
     },
     {
       "ID": "CURSE1HP",
@@ -17541,7 +17546,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 172095
+      "UsersEstimate": 172096
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -17573,7 +17578,7 @@
       "Name": "R.I.P",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 87226
+      "UsersEstimate": 87227
     },
     {
       "ID": "DIEBOSS",
@@ -17581,7 +17586,7 @@
       "Name": "To The Death!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47149
+      "UsersEstimate": 47150
     },
     {
       "ID": "DIEHARD",
@@ -17605,7 +17610,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 136733
+      "UsersEstimate": 136734
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -17629,7 +17634,7 @@
       "Name": "Well Prepared",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47149
+      "UsersEstimate": 47150
     },
     {
       "ID": "ENDINGCHOICE",
@@ -17677,7 +17682,7 @@
       "Name": "Just Chilling",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 47149
+      "UsersEstimate": 47150
     },
     {
       "ID": "FREEZE20TIMES",
@@ -17693,7 +17698,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82511
+      "UsersEstimate": 82512
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -17893,7 +17898,7 @@
       "Name": "All Consuming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 42434
+      "UsersEstimate": 42435
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -17909,7 +17914,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 127303
+      "UsersEstimate": 127304
     },
     {
       "ID": "KILLNICEDOG",
@@ -18053,7 +18058,7 @@
       "Name": "Deflection",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 106086
+      "UsersEstimate": 106087
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -18165,7 +18170,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 209815
+      "UsersEstimate": 209816
     },
     {
       "ID": "SPECIALROOMS10",
@@ -18173,7 +18178,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 146163
+      "UsersEstimate": 146164
     },
     {
       "ID": "SPEEDRUN10",
@@ -18189,7 +18194,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 101371
+      "UsersEstimate": 101372
     },
     {
       "ID": "STEALTH100",
@@ -18396,7 +18401,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 235747,
+      "Progressed": 235748,
       "Completed": 266
     }
   ],
@@ -18404,8 +18409,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-09-09T15:00:22.2951952+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:03:10.6515097+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:03:31.0101212+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:52.6906586+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:57:27.8278669+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:03:10.6517727+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:57:17.5724166+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:03:31.0104591+00:00"
 }

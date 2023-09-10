@@ -6,7 +6,7 @@ Rating: 4.59 (Ranked 417)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Impossible Objects | 30.00% | ~3,107 |
-| Stogie for Fogey | 25.00% | ~2,589 |
+| Stogie for Fogey | 25.00% | ~2,590 |
 | Martian Music | 22.00% | ~2,279 |
 | Captain Drummer | 22.00% | ~2,279 |
 | Spore Taste | 21.00% | ~2,175 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 417)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,357 (Ranked 127)  
+Progressed: 10,358 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 10,199 | 0 |
 | 2023-09-08 | 10,264 | 0 |
 | 2023-09-09 | 10,336 | 0 |
-| 2023-09-10 | 10,357 | 0 |
+| 2023-09-10 | 10,358 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1098,9 +1098,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5036,
+  "EOS_Progressed": 5037,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9298,6 +9298,11 @@
       "Time": "2023-09-10T11:06:53.2669045+00:00",
       "NumProgressed": 5036,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-10T12:08:02.5977353+00:00",
+      "NumProgressed": 5037,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9461,7 +9466,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -9469,7 +9474,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3827
+      "UsersEstimate": 3828
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9581,7 +9586,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -9628,15 +9633,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5036,
+      "Progressed": 5037,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-09T17:58:19.764548+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:06:53.266904+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:08:02.5977348+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:58:23.3776589+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:06:53.2669866+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:58:25.1948296+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:08:02.59781+00:00"
 }

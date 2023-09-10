@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -976,9 +976,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2267,
+  "EOS_Progressed": 2279,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1314,
+  "EOS_NewPlayers": 1310,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2296,6 +2296,11 @@
       "Time": "2023-09-10T11:04:22.6079992+00:00",
       "NumProgressed": 2267,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-10T12:04:57.7032438+00:00",
+      "NumProgressed": 2279,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2308,7 +2313,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "a_10",
@@ -2316,7 +2321,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_11",
@@ -2324,7 +2329,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_12",
@@ -2332,7 +2337,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_15",
@@ -2348,7 +2353,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_18",
@@ -2356,7 +2361,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 793
+      "UsersEstimate": 798
     },
     {
       "ID": "a_19",
@@ -2364,7 +2369,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "a_2",
@@ -2380,7 +2385,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "a_21",
@@ -2388,7 +2393,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "a_22",
@@ -2404,7 +2409,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "a_25",
@@ -2420,7 +2425,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_27",
@@ -2428,7 +2433,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "a_28",
@@ -2548,14 +2553,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2267,
+      "Progressed": 2279,
       "Completed": 4
     }
   ],
@@ -2563,8 +2568,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-09T20:59:06.8541677+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:04:22.6079987+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:04:57.703243+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:59:35.1774707+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:04:22.6080318+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:59:51.7412625+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:04:57.7032765+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17941,
+  "EOS_Progressed": 17942,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9985,6 +9985,11 @@
       "Time": "2023-09-10T11:04:37.7019787+00:00",
       "NumProgressed": 17941,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-10T12:05:16.5098618+00:00",
+      "NumProgressed": 17942,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10020,7 +10025,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "0005",
@@ -10052,7 +10057,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "0009",
@@ -10060,7 +10065,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "0010",
@@ -10188,7 +10193,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "0026",
@@ -10212,7 +10217,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "0029",
@@ -10228,7 +10233,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "0031",
@@ -10283,7 +10288,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17941,
+      "Progressed": 17942,
       "Completed": 3
     }
   ],
@@ -10291,8 +10296,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:04:37.7019782+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:05:16.5098612+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:57:42.554306+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:04:37.702062+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:57:35.0086753+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:05:16.509954+00:00"
 }

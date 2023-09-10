@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1718,9 +1718,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 57753,
+  "EOS_Progressed": 57759,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17333,6 +17333,11 @@
       "Time": "2023-09-10T11:03:55.4204367+00:00",
       "NumProgressed": 57753,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-10T12:04:24.5665167+00:00",
+      "NumProgressed": 57759,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -17344,7 +17349,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 31764
+      "UsersEstimate": 31767
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -17464,7 +17469,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13861
+      "UsersEstimate": 13862
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -17576,7 +17581,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15016
+      "UsersEstimate": 15017
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -17600,7 +17605,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 18481
+      "UsersEstimate": 18483
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -17608,7 +17613,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23101
+      "UsersEstimate": 23104
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -17632,7 +17637,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 36384
+      "UsersEstimate": 36388
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -17640,7 +17645,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6930
+      "UsersEstimate": 6931
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -17656,7 +17661,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13861
+      "UsersEstimate": 13862
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -17664,7 +17669,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4621
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -17688,7 +17693,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14438
+      "UsersEstimate": 14440
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -17712,7 +17717,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 45047
+      "UsersEstimate": 45052
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -17760,7 +17765,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7508
+      "UsersEstimate": 7509
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -17808,22 +17813,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 21369
+      "UsersEstimate": 21371
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 57753,
+      "Progressed": 57759,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-05T18:00:17.1389559+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:03:55.4204363+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:04:24.5665162+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6621322+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:00:15.7105351+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:03:55.4205834+00:00"
+  "LastUpdate_Ratings": "2023-09-10T12:00:41.7728859+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:04:24.5666823+00:00"
 }

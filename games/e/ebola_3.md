@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 57.00% | ~142 |
-| Chest ✔ | 55.00% | ~137 |
-| Inventory ✔ | 54.00% | ~134 |
-| Police officers ✔ | 29.00% | ~72 |
-| Mutation ✔ | 26.00% | ~65 |
-| Doberman ✔ | 15.00% | ~37 |
-| Chess ✔ | 11.00% | ~27 |
-| Weapon ✔ | 11.00% | ~27 |
-| Survival ✔ | 9.00% | ~22 |
-| Master of Unlocking ✔ | 9.00% | ~22 |
+| Fright ✔ | 57.00% | ~143 |
+| Inventory ✔ | 55.00% | ~138 |
+| Chest ✔ | 55.00% | ~138 |
+| Police officers ✔ | 29.00% | ~73 |
+| Mutation ✔ | 25.00% | ~63 |
+| Doberman ✔ | 15.00% | ~38 |
+| Chess ✔ | 11.00% | ~28 |
+| Weapon ✔ | 11.00% | ~28 |
+| Survival ✔ | 9.00% | ~23 |
+| Master of Unlocking ✔ | 9.00% | ~23 |
 | Thirst ✔ | 8.00% | ~20 |
 | Alice ✔ | 6.00% | ~15 |
 | Antivirus ✔ | 6.00% | ~15 |
@@ -23,10 +23,10 @@
 | Food ✔ | 6.00% | ~15 |
 | Hospital ✔ | 6.00% | ~15 |
 | Fraternal help ✔ | 6.00% | ~15 |
-| Brain ✔ | 5.00% | ~12 |
-| Eva ✔ | 5.00% | ~12 |
-| King of survival ✔ | 5.00% | ~12 |
-| All secrets revealed ✔ | 5.00% | ~12 |
+| Brain ✔ | 5.00% | ~13 |
+| Eva ✔ | 5.00% | ~13 |
+| King of survival ✔ | 5.00% | ~13 |
+| All secrets revealed ✔ | 5.00% | ~13 |
 | Boss 1 ✔ | 4.00% | ~10 |
 | Group Alpha ✔ | 4.00% | ~10 |
 | Mutant fight ✔ | 4.00% | ~10 |
@@ -34,13 +34,13 @@
 | City on fire ✔ | 4.00% | ~10 |
 | Infected ✔ | 4.00% | ~10 |
 | Broadcasting ✔ | 4.00% | ~10 |
-| Crocodile Attack ✔ | 3.00% | ~7 |
-| Secret ✔ | 3.00% | ~7 |
-| Mutant run ✔ | 3.00% | ~7 |
-| Osipov's video message ✔ | 3.00% | ~7 |
-| Priest ✔ | 3.00% | ~7 |
-| Rank A ✔ | 3.00% | ~7 |
-| Boss 3 ✔ | 3.00% | ~7 |
+| Crocodile Attack ✔ | 3.00% | ~8 |
+| Secret ✔ | 3.00% | ~8 |
+| Mutant run ✔ | 3.00% | ~8 |
+| Osipov's video message ✔ | 3.00% | ~8 |
+| Priest ✔ | 3.00% | ~8 |
+| Rank A ✔ | 3.00% | ~8 |
+| Boss 3 ✔ | 3.00% | ~8 |
 | Car ✔ | 2.00% | ~5 |
 | Seeker One ✔ | 2.00% | ~5 |
 | Seeker Three ✔ | 2.00% | ~5 |
@@ -48,14 +48,14 @@
 | Boss 2 ✔ | 2.00% | ~5 |
 | The escape ✔ | 2.00% | ~5 |
 | Rank B+ ✔ | 2.00% | ~5 |
-| VIP ✔ | 1.00% | ~2 |
+| VIP ✔ | 1.00% | ~3 |
 | Exterminate pests ✔ | 0.80% | ~2 |
 | Hardcore ✔ | 0.80% | ~2 |
 | Speedrun ✔ | 0.80% | ~2 |
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 292)  
+Progressed: 251 (Ranked 292)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 238 | 0 |
 | 2023-09-08 | 242 | 0 |
 | 2023-09-09 | 246 | 0 |
-| 2023-09-10 | 249 | 0 |
+| 2023-09-10 | 251 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

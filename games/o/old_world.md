@@ -65,6 +65,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 2.00% | ~277 |
 | Roman Paganism | 2.00% | ~277 |
 | Zoroastrianism | 2.00% | ~277 |
+| Mythology | 2.00% | ~277 |
 | Poetic Leader | 2.00% | ~277 |
 | Hanging Gardens in Babylon | 1.00% | ~138 |
 | Beloved | 1.00% | ~138 |
@@ -94,7 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 1.00% | ~138 |
 | Dualism | 1.00% | ~138 |
 | Legalism | 1.00% | ~138 |
-| Mythology | 1.00% | ~138 |
 | Redemption | 1.00% | ~138 |
 | Legionary | 1.00% | ~138 |
 | Phalangite | 1.00% | ~138 |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Peacemaker | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
+| Egypt | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
 | One True Faith | 0.60% | ~83 |
 | Hittite Paganism | 0.60% | ~83 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.50% | ~69 |
 | Noble Difficulty | 0.50% | ~69 |
 | Cao'an | 0.50% | ~69 |
-| Egypt | 0.50% | ~69 |
 | Old World Order | 0.50% | ~69 |
 | Play a Network Game | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
@@ -151,11 +151,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.40% | ~55 |
 | Ten Crowns | 0.40% | ~55 |
 | Three Man Chariot | 0.40% | ~55 |
+| Conquest Victory | 0.40% | ~55 |
+| Necropolis in Waset | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
 | Magnificent Difficulty | 0.30% | ~42 |
 | Event Level High | 0.30% | ~42 |
 | Run, Pheidippides, Run! | 0.30% | ~42 |
+| Nenikekamen | 0.30% | ~42 |
 | Learn to Play 5 | 0.30% | ~42 |
 | Hatti | 0.30% | ~42 |
 | Pantheon of Gods | 0.30% | ~42 |
@@ -163,8 +166,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~42 |
 | Circus Maximus in Roma | 0.30% | ~42 |
 | Siege Tower | 0.30% | ~42 |
-| Conquest Victory | 0.30% | ~42 |
-| Necropolis in Waset | 0.30% | ~42 |
 | Patriarch St Paul | 0.30% | ~42 |
 | Hypatia the Teacher | 0.30% | ~42 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.20% | ~28 |
 | Great Difficulty | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
-| Nenikekamen | 0.20% | ~28 |
 | A Good Start | 0.20% | ~28 |
 | Tell the Spartans | 0.20% | ~28 |
 | Macedonian Wars | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,839 (Ranked 122)  
+Progressed: 13,841 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
 | 2023-09-09 | 13,831 | 5 |
-| 2023-09-10 | 13,839 | 5 |
+| 2023-09-10 | 13,841 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

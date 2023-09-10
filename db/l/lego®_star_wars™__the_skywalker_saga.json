@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3129,9 +3129,9 @@
     }
   ],
   "EOS_Progressed": 51599,
-  "EOS_Completed": 230,
-  "EOS_NewPlayers": 813,
-  "EOS_NewCompleters": 1,
+  "EOS_Completed": 231,
+  "EOS_NewPlayers": 800,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
@@ -11633,6 +11633,11 @@
       "Time": "2023-09-10T11:04:13.8643816+00:00",
       "NumProgressed": 51599,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2023-09-10T12:04:46.6163532+00:00",
+      "NumProgressed": 51599,
+      "NumCompleted": 231
     }
   ],
   "TotalAchievements": 45,
@@ -11938,9 +11943,9 @@
       "ID": "LEVEL_CHALLENGES_ALL_LEVELS",
       "SetID": "3fcpmbm",
       "Name": "\u0027\u0027No more training, do you require\u0027\u0027",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 1032
     },
     {
       "ID": "LEVEL_CHALLENGES_ONE_LEVEL",
@@ -12004,14 +12009,14 @@
       "ID": "3fcpmbm",
       "IsBase": true,
       "Progressed": 51599,
-      "Completed": 230
+      "Completed": 231
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-09T16:58:05.0380161+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:04:13.8643811+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:04:46.6163528+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.2145974+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:58:32.1174784+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:04:13.8644666+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:58:35.7126845+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:04:46.6164421+00:00"
 }

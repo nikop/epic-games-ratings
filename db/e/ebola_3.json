@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1053,6 +1053,11 @@
       "Time": "2023-09-10T11:06:43.0648147+00:00",
       "NumProgressed": 249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T12:07:48.028691+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1086,9 +1091,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "achBett",
@@ -1104,7 +1109,7 @@
       "Name": "Brain \u2714",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achCar",
@@ -1128,7 +1133,7 @@
       "Name": "Chest \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "achCity",
@@ -1176,7 +1181,7 @@
       "Name": "Crocodile Attack \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achCrow",
@@ -1192,7 +1197,7 @@
       "Name": "Secret \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achDictator",
@@ -1208,7 +1213,7 @@
       "Name": "Doberman \u2714",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achEva",
@@ -1216,7 +1221,7 @@
       "Name": "Eva \u2714",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achExplosion",
@@ -1224,7 +1229,7 @@
       "Name": "Survival \u2714",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achFood",
@@ -1264,7 +1269,7 @@
       "Name": "Fright \u2714",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "achLizun",
@@ -1280,7 +1285,7 @@
       "Name": "Mutant run \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achMaikl",
@@ -1304,7 +1309,7 @@
       "Name": "Osipov\u0027s video message \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achPlotOne",
@@ -1336,7 +1341,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achPriest",
@@ -1344,7 +1349,7 @@
       "Name": "Priest \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achRankOne",
@@ -1368,7 +1373,7 @@
       "Name": "Rank A \u2714",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achSave",
@@ -1376,7 +1381,7 @@
       "Name": "King of survival \u2714",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achSecretos",
@@ -1384,7 +1389,7 @@
       "Name": "All secrets revealed \u2714",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achSeif",
@@ -1392,7 +1397,7 @@
       "Name": "Master of Unlocking \u2714",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achShahmat",
@@ -1400,7 +1405,7 @@
       "Name": "Chess \u2714",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achSpped",
@@ -1414,9 +1419,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "achVip",
@@ -1424,7 +1429,7 @@
       "Name": "VIP \u2714",
       "Percentage": 1,
       "XP": 120,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achVitali",
@@ -1448,7 +1453,7 @@
       "Name": "Weapon \u2714",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achWorms",
@@ -1456,14 +1461,14 @@
       "Name": "Boss 3 \u2714",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 249,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
@@ -1471,8 +1476,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:06:43.0648138+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:07:48.0286902+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:48.8958447+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:58:11.8845122+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:06:43.0648658+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:58:10.8993647+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:07:48.0287448+00:00"
 }

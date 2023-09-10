@@ -4,8 +4,8 @@
   "ProductSlug": "helix-metaverse-a1351d",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-07T23:56:55.2142785+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:57:50.8835143+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:06:59.8619357+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:57:45.54545+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:08:10.5492918+00:00"
 }

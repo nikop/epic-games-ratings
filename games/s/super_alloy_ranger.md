@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 76.00% | ~54 |
-| Gear Up | 66.00% | ~47 |
-| A Grand Show | 66.00% | ~47 |
+| Iceberg Theory | 75.00% | ~54 |
+| Gear Up | 65.00% | ~47 |
+| A Grand Show | 65.00% | ~47 |
 | Freshen Up | 56.00% | ~40 |
 | GG EZ | 56.00% | ~40 |
 | Hydrophobia | 42.00% | ~30 |
 | Ka-Ching! | 32.00% | ~23 |
 | Stop Right There | 32.00% | ~23 |
-| Get to the Point | 30.00% | ~21 |
+| Get to the Point | 29.00% | ~21 |
 | The Hidden Secret | 15.00% | ~11 |
 | Mr. Want It All | 15.00% | ~11 |
 | Toe to Toe | 15.00% | ~11 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 371)  
+Progressed: 72 (Ranked 370)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 58 | 0 |
 | 2023-09-08 | 62 | 0 |
 | 2023-09-09 | 67 | 0 |
-| 2023-09-10 | 71 | 0 |
+| 2023-09-10 | 72 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

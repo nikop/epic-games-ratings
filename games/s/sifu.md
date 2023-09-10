@@ -48,26 +48,26 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.10% | ~714 |
 | Warriors from the Mountain | 0.10% | ~714 |
 | Come Snap With Me | 0.10% | ~714 |
-| Project Arena | 0.10% | ~23 |
-| Diligence as a goal | 0.10% | ~23 |
-| Bloody Sport | 0.10% | ~23 |
-| Martial Hub | 0.10% | ~23 |
-| Deadly Venom | 0.10% | ~23 |
-| Secure, Protect, Leave | 0.10% | ~23 |
-| The best strikes are the ones we avoid | 0.10% | ~23 |
-| A Touch of Acumen | 0.10% | ~23 |
-| Crouching Tiger | 0.10% | ~23 |
-| Hidden Dragon | 0.10% | ~23 |
-| Skill and an even stronger will | 0.10% | ~23 |
-| Master of the Flying Assassins | 0.10% | ~23 |
-| Here Cometh the Iceman | 0.10% | ~23 |
-| Fighter in the Pond | 0.10% | ~23 |
-| Bonus Stage | 0.10% | ~23 |
-| Beatmaker | 0.10% | ~23 |
-| Fight the way you practice | 0.10% | ~23 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~23 |
+| Project Arena | 0.10% | ~24 |
+| Diligence as a goal | 0.10% | ~24 |
+| Bloody Sport | 0.10% | ~24 |
+| Martial Hub | 0.10% | ~24 |
+| Deadly Venom | 0.10% | ~24 |
+| Secure, Protect, Leave | 0.10% | ~24 |
+| The best strikes are the ones we avoid | 0.10% | ~24 |
+| A Touch of Acumen | 0.10% | ~24 |
+| Crouching Tiger | 0.10% | ~24 |
+| Hidden Dragon | 0.10% | ~24 |
+| Skill and an even stronger will | 0.10% | ~24 |
+| Master of the Flying Assassins | 0.10% | ~24 |
+| Here Cometh the Iceman | 0.10% | ~24 |
+| Fighter in the Pond | 0.10% | ~24 |
+| Bonus Stage | 0.10% | ~24 |
+| Beatmaker | 0.10% | ~24 |
+| Fight the way you practice | 0.10% | ~24 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,197 (Ranked 20)  
+Progressed: 714,208 (Ranked 20)  
 Completed: 12,890 (1.80%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 12,890 (1.80%) (Ranked 100)
 | 2023-09-07 | 713,425 | 12,887 |
 | 2023-09-08 | 713,725 | 12,887 |
 | 2023-09-09 | 714,041 | 12,890 |
-| 2023-09-10 | 714,197 | 12,890 |
+| 2023-09-10 | 714,208 | 12,890 |
 ## Awards
 Max (Great Boss Battles): 6,473  (Ranked 53)  
 Sum: 11,156 (Ranked 80)  

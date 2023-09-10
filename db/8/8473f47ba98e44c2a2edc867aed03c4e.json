@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-939868",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2019-11-18T09:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-26T08:57:15.2831528+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:12:54.5945086+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:58:53.6718615+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:07:05.5301262+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:59:02.1176529+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:08:16.8923693+00:00"
 }

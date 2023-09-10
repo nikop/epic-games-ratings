@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2798,9 +2798,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72339,
+  "EOS_Progressed": 72341,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 2643,
+  "EOS_NewPlayers": 2616,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14943,6 +14943,11 @@
       "Time": "2023-09-10T11:05:50.3906897+00:00",
       "NumProgressed": 72339,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-10T12:06:43.6851306+00:00",
+      "NumProgressed": 72341,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15050,7 +15055,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11574
+      "UsersEstimate": 11575
     },
     {
       "ID": "CLAYFACE_1",
@@ -15058,7 +15063,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15191
+      "UsersEstimate": 15192
     },
     {
       "ID": "CLAYFACE_2",
@@ -15074,7 +15079,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10127
+      "UsersEstimate": 10128
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -15194,7 +15199,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13744
+      "UsersEstimate": 13745
     },
     {
       "ID": "FREEZE_3",
@@ -15202,7 +15207,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10127
+      "UsersEstimate": 10128
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -15298,7 +15303,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37616
+      "UsersEstimate": 37617
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15346,7 +15351,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24595
+      "UsersEstimate": 24596
     },
     {
       "ID": "MYSTERY_02",
@@ -15386,7 +15391,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10127
+      "UsersEstimate": 10128
     },
     {
       "ID": "MYSTERY_07",
@@ -15410,7 +15415,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7957
+      "UsersEstimate": 7958
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -15441,13 +15446,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72339,
+      "Progressed": 72341,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42619,
+      "Progressed": 42621,
       "Completed": 2663
     }
   ],
@@ -15455,8 +15460,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-10T05:57:08.2895571+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:05:50.3906893+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:06:43.68513+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-10T10:57:30.8545588+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:05:50.3908187+00:00"
+  "LastUpdate_Ratings": "2023-09-10T11:57:20.9796849+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:06:43.6852646+00:00"
 }

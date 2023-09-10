@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3893,
+  "EOS_Progressed": 3903,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2069,
+  "EOS_NewPlayers": 2078,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1274,6 +1274,11 @@
       "Time": "2023-09-10T11:06:20.9545516+00:00",
       "NumProgressed": 3893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T12:07:21.7435596+00:00",
+      "NumProgressed": 3903,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -1382,7 +1387,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1522
     },
     {
       "ID": "kills_100",
@@ -1486,7 +1491,7 @@
       "Name": "Experienced Soldier",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "winsNoDmgTaken_1",
@@ -1533,13 +1538,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 3893,
+      "Progressed": 3903,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:06:20.954551+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:07:21.7435593+00:00",
   "LastUpdate_AppInfo": "2023-09-06T09:57:05.1729887+00:00",
   "LastUpdate_Ratings": "2023-09-10T11:00:51.9115994+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:06:20.9545818+00:00"
+  "LastUpdate_Achievements": "2023-09-10T12:07:21.7435846+00:00"
 }

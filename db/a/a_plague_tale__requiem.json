@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -404,7 +404,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12955,
+  "EOS_Progressed": 12956,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -8074,6 +8074,11 @@
       "Time": "2023-09-10T08:05:24.4010204+00:00",
       "NumProgressed": 12955,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-10T12:05:34.9499961+00:00",
+      "NumProgressed": 12956,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -8085,7 +8090,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 11919
+      "UsersEstimate": 11920
     },
     {
       "ID": "ACH_02",
@@ -8093,7 +8098,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10234
+      "UsersEstimate": 10235
     },
     {
       "ID": "ACH_03",
@@ -8109,7 +8114,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9198
+      "UsersEstimate": 9199
     },
     {
       "ID": "ACH_05",
@@ -8117,7 +8122,7 @@
       "Name": "In our Wake",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8939
+      "UsersEstimate": 8940
     },
     {
       "ID": "ACH_06",
@@ -8157,7 +8162,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 6866
+      "UsersEstimate": 6867
     },
     {
       "ID": "ACH_11",
@@ -8173,7 +8178,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 5959
+      "UsersEstimate": 5960
     },
     {
       "ID": "ACH_13",
@@ -8189,7 +8194,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 4793
+      "UsersEstimate": 4794
     },
     {
       "ID": "ACH_15",
@@ -8301,7 +8306,7 @@
       "Name": "Alchemist",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 8939
+      "UsersEstimate": 8940
     },
     {
       "ID": "ACH_29",
@@ -8364,7 +8369,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12955,
+      "Progressed": 12956,
       "Completed": 45
     }
   ],
@@ -8372,8 +8377,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-10T01:44:31.5212403+00:00",
-  "LastChanged_Achievements": "2023-09-10T11:04:52.9961746+00:00",
+  "LastChanged_Achievements": "2023-09-10T12:05:34.9499957+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:51.5709386+00:00",
-  "LastUpdate_Ratings": "2023-09-10T11:01:00.6135102+00:00",
-  "LastUpdate_Achievements": "2023-09-10T11:04:52.9962471+00:00"
+  "LastUpdate_Ratings": "2023-09-10T12:03:15.397672+00:00",
+  "LastUpdate_Achievements": "2023-09-10T12:05:34.9500694+00:00"
 }
