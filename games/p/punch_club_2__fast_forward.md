@@ -37,7 +37,7 @@
 | Extreme neuropower! | 55.00% | ~177 |
 | Escaped from a big trouble | 53.00% | ~170 |
 | Now you are worthy | 50.00% | ~160 |
-| Fight is life | 47.00% | ~151 |
+| Fight is life | 48.00% | ~154 |
 | Mysterious voice | 47.00% | ~151 |
 | Guiding on the right path | 47.00% | ~151 |
 | No blades in the gym | 46.00% | ~148 |
@@ -65,14 +65,14 @@
 | Keep nature safe | 33.00% | ~106 |
 | Family comes first | 33.00% | ~106 |
 | Key memories | 33.00% | ~106 |
+| The last bell ring | 33.00% | ~106 |
 | The heart of the Resistance | 33.00% | ~106 |
-| The last bell ring | 32.00% | ~103 |
 | Better cooking at home | 30.00% | ~96 |
 | Silver’s past | 29.00% | ~93 |
 | The only right decision | 29.00% | ~93 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 321 (Ranked 275)  
-Completed: 8 (2.49%) (Ranked 85)  
+Completed: 8 (2.49%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 486)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,205 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,206 |
 | Mainframe Hacker | 23.00% | ~4,128 |
 | The Spy who eliminated me | 23.00% | ~4,128 |
 | Tomorrow Never Dyes | 22.00% | ~3,949 |
@@ -13,10 +13,10 @@ Rating: 4.55 (Ranked 486)
 | From the Vault with Love | 18.00% | ~3,231 |
 | Tailor-Made | 18.00% | ~3,231 |
 | For your Eyes only | 18.00% | ~3,231 |
-| Assistant Accountant | 17.00% | ~3,051 |
+| Assistant Accountant | 17.00% | ~3,052 |
 | You Only Live Twice | 16.00% | ~2,872 |
 | Fully Decked Out | 16.00% | ~2,872 |
-| A view to Win | 13.00% | ~2,333 |
+| A view to Win | 13.00% | ~2,334 |
 | Private Collection | 12.00% | ~2,154 |
 | Smells Like Trouble | 12.00% | ~2,154 |
 | Dr. No Kill | 11.00% | ~1,974 |
@@ -25,24 +25,24 @@ Rating: 4.55 (Ranked 486)
 | Killer Looks | 11.00% | ~1,974 |
 | Hostile Takeover | 11.00% | ~1,974 |
 | Keycards Royale | 10.00% | ~1,795 |
-| In It to Win It | 9.00% | ~1,615 |
+| In It to Win It | 9.00% | ~1,616 |
 | Security Supervisor | 6.00% | ~1,077 |
-| License to Thrill | 5.00% | ~897 |
+| License to Thrill | 5.00% | ~898 |
 | Social of Solace | 3.00% | ~538 |
 | Live and let lie | 3.00% | ~538 |
 | Safe Withdrawal | 3.00% | ~538 |
 | Branch Manager | 2.00% | ~359 |
 | Call Me Maybe | 2.00% | ~359 |
 | PHD in VIP | 2.00% | ~359 |
-| The terminals are not enough | 1.00% | ~179 |
-| Lose Another Day | 1.00% | ~179 |
+| The terminals are not enough | 1.00% | ~180 |
+| Lose Another Day | 1.00% | ~180 |
 | Chairman of Deceive Inc. | 0.90% | ~162 |
 | Chief Information Officer | 0.70% | ~126 |
 | Masteries Are Forever | 0.40% | ~72 |
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,949 (Ranked 115)  
+Progressed: 17,950 (Ranked 115)  
 Completed: 3 (0.02%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 3 (0.02%) (Ranked 251)
 | 2023-09-07 | 17,903 | 1 |
 | 2023-09-08 | 17,917 | 1 |
 | 2023-09-09 | 17,934 | 1 |
-| 2023-09-10 | 17,949 | 3 |
+| 2023-09-10 | 17,950 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

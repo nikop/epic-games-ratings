@@ -12,7 +12,7 @@
 | Black Skeleton | 3.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 471 (Ranked 246)  
-Completed: 10 (2.12%) (Ranked 94)  
+Completed: 10 (2.12%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

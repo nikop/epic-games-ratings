@@ -4,8 +4,8 @@
   "ProductSlug": "fallen-legion-revenants-a2c944",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-08-23T17:00:00+00:00",
     "PcReleaseDate": "2022-08-23T17:00:00+00:00",
@@ -30,5 +30,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T10:59:21.7532461+00:00",
   "LastUpdate_Ratings": "2023-09-10T20:02:09.6199791+00:00",
-  "LastUpdate_Achievements": "2023-09-10T20:06:20.0156967+00:00"
+  "LastUpdate_Achievements": "2023-09-10T21:06:08.368434+00:00"
 }

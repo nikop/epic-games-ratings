@@ -31,7 +31,7 @@ Number of Ratings: 154  (23.09.2022)
 | Cleared Sonic CD | 41.00% | ~189 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 38.00% | ~176 |
 | Lucky Hedgehog | 32.00% | ~148 |
-| All Clear! | 31.00% | ~143 |
+| All Clear! | 32.00% | ~148 |
 | To the Mirror World | 30.00% | ~139 |
 | Movie Maniac | 21.00% | ~97 |
 | Sound Savant | 21.00% | ~97 |
@@ -123,12 +123,12 @@ Completed: 41 (8.87%) (Ranked 33)
 | 2023-09-09 | 457 | 41 |
 | 2023-09-10 | 462 | 41 |
 ## Awards
-Max (Great Boss Battles): 127  (Ranked 312)  
-Sum: 127 (Ranked 406)  
+Max (Great Boss Battles): 128  (Ranked 312)  
+Sum: 128 (Ranked 406)  
 Diff (max vs sum): -94  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 127 |
+| This game has Great Boss Battles | 128 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -183,3 +183,4 @@ Diff (max vs sum): -94
 | 2023-08-03 | 4.58 | - | 125 | 125 |
 | 2023-08-27 | 4.58 | - | 126 | 126 |
 | 2023-08-31 | 4.58 | - | 127 | 127 |
+| 2023-09-10 | 4.58 | - | 128 | 128 |

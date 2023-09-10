@@ -3,9 +3,9 @@
   "Name": "It\u0027s a Wrap!",
   "ProductSlug": "its-a-wrap-f392ae",
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_Completed": 77,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
     "PcReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 70,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 11,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.43,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
     {
       "Time": "2023-08-23T19:06:50.974201+00:00",
@@ -301,6 +301,11 @@
       "Time": "2023-09-10T12:06:17.4114194+00:00",
       "NumProgressed": 70,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T21:05:21.055868+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-08-23T18:07:41.5840272+00:00",
@@ -319,33 +324,33 @@
       "ID": "1_50_SECRET",
       "SetID": "2l1dk5b",
       "Name": "What\u0027s my line again?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "1_70_SECRET",
       "SetID": "2l1dk5b",
       "Name": "O\u0027 Captain! My Captain!",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "1_85_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Secret of the Mines",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "1_90_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Extra Life",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "3_00_CRATE_KILLER",
@@ -367,33 +372,33 @@
       "ID": "3_20_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Meet Your Makers",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ALL_BUDGET_KILLER",
       "SetID": "2l1dk5b",
       "Name": "Budget Killer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ALL_FINISH",
       "SetID": "2l1dk5b",
       "Name": "In the Can",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ALL_SECRETS",
       "SetID": "2l1dk5b",
       "Name": "Mise-en-sc\u00E8nester",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MOV1_FINISH",
@@ -415,9 +420,9 @@
       "ID": "MOV3_FINISH",
       "SetID": "2l1dk5b",
       "Name": "One Man Army",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -425,13 +430,13 @@
       "ID": "2l1dk5b",
       "IsBase": true,
       "Progressed": 70,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-10T20:05:31.2187067+00:00",
+  "LastChanged_Achievements": "2023-09-10T21:05:21.0558672+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:50.0677314+00:00",
-  "LastUpdate_Ratings": "2023-09-10T20:02:19.8358435+00:00",
-  "LastUpdate_Achievements": "2023-09-10T20:05:31.2187225+00:00"
+  "LastUpdate_Ratings": "2023-09-10T21:02:14.0313149+00:00",
+  "LastUpdate_Achievements": "2023-09-10T21:05:21.055883+00:00"
 }

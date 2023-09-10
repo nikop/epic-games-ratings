@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3680,9 +3680,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11224,
+  "EOS_Progressed": 11225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12080,6 +12080,11 @@
       "Time": "2023-09-10T18:05:12.2434844+00:00",
       "NumProgressed": 11224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T21:05:05.6027834+00:00",
+      "NumProgressed": 11225,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12123,7 +12128,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -12147,7 +12152,7 @@
       "Name": "Path of the Angel",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "09_PathOfDemon",
@@ -12227,7 +12232,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "19_EqualToAroden",
@@ -12339,7 +12344,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -12483,7 +12488,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -13018,21 +13023,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10006,
+      "Progressed": 10007,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11224,
+      "Progressed": 11225,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-09T20:59:34.496125+00:00",
-  "LastChanged_Achievements": "2023-09-10T20:05:15.5213867+00:00",
+  "LastChanged_Achievements": "2023-09-10T21:05:05.6027828+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-10T19:59:50.6054927+00:00",
-  "LastUpdate_Achievements": "2023-09-10T20:05:15.5216075+00:00"
+  "LastUpdate_Ratings": "2023-09-10T20:59:46.375863+00:00",
+  "LastUpdate_Achievements": "2023-09-10T21:05:05.6029956+00:00"
 }

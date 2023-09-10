@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,684 |
-| Where's that freaking Dwarf? | 4.00% | ~8,922 |
-| Alt+F4 | 4.00% | ~8,922 |
-| Déjà vu | 3.00% | ~6,691 |
-| Sock! SOCK! | 3.00% | ~6,691 |
+| Sowwy! | 29.00% | ~64,689 |
+| Where's that freaking Dwarf? | 4.00% | ~8,923 |
+| Alt+F4 | 4.00% | ~8,923 |
+| Déjà vu | 3.00% | ~6,692 |
+| Sock! SOCK! | 3.00% | ~6,692 |
 | Way of the Wimp | 2.00% | ~4,461 |
 | A beer, two curses, three companions | 2.00% | ~4,461 |
 | The plot thickens... At the tavern | 2.00% | ~4,461 |
@@ -18,27 +18,27 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 2.00% | ~4,461 |
 | Speedrun | 2.00% | ~4,461 |
 | Fireproof Wizardess | 2.00% | ~4,461 |
-| Livin' in a dwarven paradise | 1.00% | ~2,230 |
-| Shiny and Crôm | 1.00% | ~2,230 |
-| The demons' feast | 1.00% | ~2,230 |
-| The Great Library | 1.00% | ~2,230 |
-| Torture and Sensibility | 1.00% | ~2,230 |
-| Urik's Depths | 1.00% | ~2,230 |
-| The Dungeon Master | 1.00% | ~2,230 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,230 |
-| The Woman in the High Castle | 1.00% | ~2,230 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,230 |
-| The Ranger of Chaos | 1.00% | ~2,230 |
-| I am the night | 1.00% | ~2,230 |
-| Team Building Exercise | 1.00% | ~2,230 |
-| Oh, when I'll be level 10... | 1.00% | ~2,230 |
-| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,007 |
-| %#*!$*! | 0.90% | ~2,007 |
-| The beards of change | 0.90% | ~2,007 |
-| Thieves' Guild Accreditation | 0.90% | ~2,007 |
-| Res Judicata | 0.80% | ~1,784 |
-| Dwarf Fortress | 0.80% | ~1,784 |
-| Look but don't touch | 0.80% | ~1,784 |
+| Livin' in a dwarven paradise | 1.00% | ~2,231 |
+| Shiny and Crôm | 1.00% | ~2,231 |
+| The demons' feast | 1.00% | ~2,231 |
+| The Great Library | 1.00% | ~2,231 |
+| Torture and Sensibility | 1.00% | ~2,231 |
+| Urik's Depths | 1.00% | ~2,231 |
+| The Dungeon Master | 1.00% | ~2,231 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,231 |
+| The Woman in the High Castle | 1.00% | ~2,231 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,231 |
+| The Ranger of Chaos | 1.00% | ~2,231 |
+| I am the night | 1.00% | ~2,231 |
+| Team Building Exercise | 1.00% | ~2,231 |
+| Oh, when I'll be level 10... | 1.00% | ~2,231 |
+| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,008 |
+| %#*!$*! | 0.90% | ~2,008 |
+| The beards of change | 0.90% | ~2,008 |
+| Thieves' Guild Accreditation | 0.90% | ~2,008 |
+| Res Judicata | 0.80% | ~1,785 |
+| Dwarf Fortress | 0.80% | ~1,785 |
+| Look but don't touch | 0.80% | ~1,785 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,561 |
 | Dead for good | 0.60% | ~1,338 |
 | Lust and Debauchery | 0.60% | ~1,338 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,049 (Ranked 56)  
+Progressed: 223,067 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,11 +197,11 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
 | 2023-09-09 | 222,713 | 2 |
-| 2023-09-10 | 223,049 | 2 |
+| 2023-09-10 | 223,067 | 2 |
 ## Awards
 Max (Character Customization): 192  (Ranked 277)  
-Sum: 287 (Ranked 343)  
-Diff (max vs sum): -66  
+Sum: 307 (Ranked 338)  
+Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 192 |
@@ -209,6 +209,7 @@ Diff (max vs sum): -66
 | This game is Great for Beginners | 24 |
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 20 |
+| This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -338,4 +339,4 @@ Diff (max vs sum): -66
 | 2023-09-05 | 4.58 | - | 189 | 262 |
 | 2023-09-06 | 4.58 | - | 190 | 264 |
 | 2023-09-09 | 4.59 | - | 190 | 265 |
-| 2023-09-10 | 4.59 | - | 192 | 287 |
+| 2023-09-10 | 4.59 | - | 192 | 307 |

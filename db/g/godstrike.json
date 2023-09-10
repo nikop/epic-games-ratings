@@ -4,8 +4,8 @@
   "ProductSlug": "godstrike-dad86e",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-14T13:00:00+00:00",
     "PcReleaseDate": "2021-04-15T05:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.7115161+00:00",
   "LastChanged": "2023-03-31T05:58:24.7115162+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.3872682+00:00",
-  "LastUpdate_Ratings": "2023-09-10T19:57:17.3327346+00:00",
-  "LastUpdate_Achievements": "2023-09-10T20:05:00.7100936+00:00"
+  "LastUpdate_Ratings": "2023-09-10T20:57:19.6144839+00:00",
+  "LastUpdate_Achievements": "2023-09-10T21:04:51.0318596+00:00"
 }

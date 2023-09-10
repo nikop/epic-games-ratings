@@ -4,8 +4,8 @@
   "ProductSlug": "georifters-ead0bb",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-14T17:00:00+00:00",
     "PcReleaseDate": "2020-05-28T19:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T11:57:02.094639+00:00",
-  "LastUpdate_Ratings": "2023-09-10T19:57:30.2426495+00:00",
-  "LastUpdate_Achievements": "2023-09-10T20:06:38.9156428+00:00"
+  "LastUpdate_Ratings": "2023-09-10T20:57:33.5973969+00:00",
+  "LastUpdate_Achievements": "2023-09-10T21:06:27.4161618+00:00"
 }

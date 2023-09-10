@@ -6,36 +6,36 @@ Rating: 4.68 (Ranked 241)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 66.00% | ~420 |
-| Read Between The Lines | 65.00% | ~413 |
-| High Profile | 59.00% | ~375 |
-| Whispers In The Dark | 58.00% | ~369 |
+| Read Between The Lines | 65.00% | ~414 |
+| High Profile | 59.00% | ~376 |
+| Whispers In The Dark | 57.00% | ~363 |
 | Fond Memories | 55.00% | ~350 |
-| History Check | 53.00% | ~337 |
-| A Method To His Madness | 53.00% | ~337 |
+| History Check | 53.00% | ~338 |
+| A Method To His Madness | 53.00% | ~338 |
 | The New World | 49.00% | ~312 |
-| Gaze Into The Abyss | 48.00% | ~305 |
-| Open Sesame | 48.00% | ~305 |
-| Sticky Fingers | 48.00% | ~305 |
-| Knives Out | 48.00% | ~305 |
-| Land, Ho! | 48.00% | ~305 |
+| Gaze Into The Abyss | 48.00% | ~306 |
+| Open Sesame | 48.00% | ~306 |
+| Sticky Fingers | 48.00% | ~306 |
+| Knives Out | 48.00% | ~306 |
+| Land, Ho! | 48.00% | ~306 |
 | Lock, Stock, And Barrel | 47.00% | ~299 |
 | Back In The Saddle | 47.00% | ~299 |
 | No Man Is An Island | 47.00% | ~299 |
 | At Wits' End | 46.00% | ~293 |
 | Up In Flames | 44.00% | ~280 |
 | Fhtagn! | 44.00% | ~280 |
-| Bookworm | 43.00% | ~273 |
+| Bookworm | 43.00% | ~274 |
 | Going Once... | 39.00% | ~248 |
-| Let Me Be Frank | 39.00% | ~248 |
-| Brain Food | 37.00% | ~235 |
-| No Stone Unturned | 37.00% | ~235 |
-| Read It And Weep | 23.00% | ~146 |
+| Let Me Be Frank | 38.00% | ~242 |
+| Brain Food | 37.00% | ~236 |
+| No Stone Unturned | 37.00% | ~236 |
+| Read It And Weep | 23.00% | ~147 |
 | Curiosity Killed The Cat | 20.00% | ~127 |
 | Big Breakthrough | 14.00% | ~89 |
 | Reawakened | 5.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 636 (Ranked 229)  
-Completed: 25 (3.93%) (Ranked 62)  
+Progressed: 637 (Ranked 229)  
+Completed: 25 (3.92%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,7 +159,7 @@ Completed: 25 (3.93%) (Ranked 62)
 | 2023-09-07 | 623 | 25 |
 | 2023-09-08 | 627 | 25 |
 | 2023-09-09 | 631 | 25 |
-| 2023-09-10 | 636 | 25 |
+| 2023-09-10 | 637 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 756)
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 418 (Ranked 253)  
-Completed: 6 (1.44%) (Ranked 110)  
+Completed: 6 (1.44%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

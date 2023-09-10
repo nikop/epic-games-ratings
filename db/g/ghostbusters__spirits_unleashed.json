@@ -2064,9 +2064,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25737,
+  "EOS_Progressed": 25738,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12564,6 +12564,11 @@
       "Time": "2023-09-10T20:07:09.7793919+00:00",
       "NumProgressed": 25737,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-10T21:06:46.3135709+00:00",
+      "NumProgressed": 25738,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 51,
@@ -12573,9 +12578,9 @@
       "ID": "Advancement",
       "SetID": "819popo",
       "Name": "Advancement",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 18788
+      "UsersEstimate": 18531
     },
     {
       "ID": "Animated",
@@ -12639,7 +12644,7 @@
       "Name": "Cultured",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 12868
+      "UsersEstimate": 12869
     },
     {
       "ID": "Daily_Dose",
@@ -12687,7 +12692,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16214
+      "UsersEstimate": 16215
     },
     {
       "ID": "Escape_Artist",
@@ -12863,7 +12868,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8493
+      "UsersEstimate": 8494
     },
     {
       "ID": "Stunner",
@@ -12879,7 +12884,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22134
+      "UsersEstimate": 22135
     },
     {
       "ID": "Summoner",
@@ -12967,7 +12972,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7978
+      "UsersEstimate": 7979
     },
     {
       "ID": "Whoopsie",
@@ -12982,7 +12987,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25737,
+      "Progressed": 25738,
       "Completed": 55
     }
   ],
@@ -12990,8 +12995,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-10T20:00:23.8084667+00:00",
-  "LastChanged_Achievements": "2023-09-10T20:07:09.7793906+00:00",
+  "LastChanged_Achievements": "2023-09-10T21:06:46.3135705+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-10T20:00:23.8084673+00:00",
-  "LastUpdate_Achievements": "2023-09-10T20:07:09.7795053+00:00"
+  "LastUpdate_Ratings": "2023-09-10T21:00:20.0964932+00:00",
+  "LastUpdate_Achievements": "2023-09-10T21:06:46.3136748+00:00"
 }

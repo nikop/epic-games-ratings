@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-unity",
   "Ranking_Rating": 393,
   "Ranking_Popularity": 164,
-  "Ranking_PopularitySum": 261,
+  "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1363,10 +1363,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 824,
       "NumberOfAwardsMax": 734
+    },
+    {
+      "Time": "2023-09-10T20:57:53.4114437+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 844,
+      "NumberOfAwardsMax": 734
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 824,
+  "NumberOfAwards": 844,
   "NumberOfAwardsMax": 734,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1411,6 +1417,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1424,8 +1436,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2023-09-10T03:58:21.5960156+00:00",
+  "LastChanged": "2023-09-10T20:57:53.4114435+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:11.312682+00:00",
-  "LastUpdate_Ratings": "2023-09-10T19:57:51.5717045+00:00",
-  "LastUpdate_Achievements": "2023-09-10T20:04:47.0837753+00:00"
+  "LastUpdate_Ratings": "2023-09-10T20:57:53.4114442+00:00",
+  "LastUpdate_Achievements": "2023-09-10T21:04:38.1777707+00:00"
 }

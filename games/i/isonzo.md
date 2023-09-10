@@ -24,10 +24,10 @@ Number of Ratings: 98  (23.09.2022)
 | The Lion of the Isonzo | 18.00% | ~1,219 |
 | Luigi Cadorna | 15.00% | ~1,016 |
 | Dirty Dozen | 14.00% | ~948 |
+| Shaken, Not Stirred | 14.00% | ~948 |
 | Uomo Universale | 14.00% | ~948 |
 | Die Bosniaken Kommen! | 13.00% | ~881 |
 | Machiavelli | 13.00% | ~881 |
-| Shaken, Not Stirred | 13.00% | ~881 |
 | Thus With A Kiss | 13.00% | ~881 |
 | The Devil's Paintbrush | 12.00% | ~813 |
 | Dante's Inferno | 11.00% | ~745 |

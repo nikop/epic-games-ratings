@@ -3,8 +3,8 @@
   "Name": "Batman: Arkham Collection",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:15.911889+00:00",
-  "LastUpdate_Ratings": "2023-09-10T19:59:38.9230171+00:00",
-  "LastUpdate_Achievements": "2023-09-10T20:04:26.8100406+00:00"
+  "LastUpdate_Ratings": "2023-09-10T20:59:36.4458033+00:00",
+  "LastUpdate_Achievements": "2023-09-10T21:04:18.6630464+00:00"
 }

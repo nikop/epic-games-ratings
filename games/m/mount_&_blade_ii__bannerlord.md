@@ -18,13 +18,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | Apple of my eye | 15.00% | ~9,115 |
 | God of the Arena | 13.00% | ~7,900 |
 | Against all odds | 12.00% | ~7,292 |
-| This Is Our Land | 11.00% | ~6,684 |
+| This Is Our Land | 11.00% | ~6,685 |
 | Duelist | 10.00% | ~6,077 |
 | Swordbearer | 10.00% | ~6,077 |
 | Dynasty | 9.00% | ~5,469 |
 | I spit on your grave | 9.00% | ~5,469 |
 | What have the Romans ever done for us? | 9.00% | ~5,469 |
-| Butterlord | 8.00% | ~4,861 |
+| Butterlord | 8.00% | ~4,862 |
 | Know your enemy | 7.00% | ~4,254 |
 | Mastery | 7.00% | ~4,254 |
 | Crush your enemies | 5.00% | ~3,038 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,768 (Ranked 88)  
+Progressed: 60,769 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-07 | 60,538 | 0 |
 | 2023-09-08 | 60,607 | 0 |
 | 2023-09-09 | 60,687 | 0 |
-| 2023-09-10 | 60,768 | 0 |
+| 2023-09-10 | 60,769 | 0 |
 ## Awards
 Max (Character Customization): 7,059  (Ranked 50)  
 Sum: 14,371 (Ranked 70)  

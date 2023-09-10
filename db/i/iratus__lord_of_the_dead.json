@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2140,9 +2140,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 39645,
+  "EOS_Progressed": 39646,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17570,6 +17570,11 @@
       "Time": "2023-09-10T20:08:16.8842389+00:00",
       "NumProgressed": 39645,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-10T21:07:02.9464419+00:00",
+      "NumProgressed": 39646,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -17629,7 +17634,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 18633
+      "UsersEstimate": 18634
     },
     {
       "ID": "achievements_17",
@@ -17661,7 +17666,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9118
+      "UsersEstimate": 9119
     },
     {
       "ID": "achievements_21",
@@ -17685,7 +17690,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 23787
+      "UsersEstimate": 23788
     },
     {
       "ID": "achievements_24",
@@ -17757,7 +17762,7 @@
       "Name": "Bane of Mercenaries - III",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "achievements_32",
@@ -17765,7 +17770,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13479
+      "UsersEstimate": 13480
     },
     {
       "ID": "achievements_33",
@@ -17805,7 +17810,7 @@
       "Name": "Monument to Greatness",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "achievements_38",
@@ -17813,7 +17818,7 @@
       "Name": "Ancient Burial",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "achievements_39",
@@ -17861,7 +17866,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 9118
+      "UsersEstimate": 9119
     },
     {
       "ID": "achievements_44",
@@ -17877,7 +17882,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "achievements_46",
@@ -17885,7 +17890,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 33698
+      "UsersEstimate": 33699
     },
     {
       "ID": "achievements_47",
@@ -17957,7 +17962,7 @@
       "Name": "Distillation",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 17047
+      "UsersEstimate": 17048
     },
     {
       "ID": "achievements_55",
@@ -18005,7 +18010,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13479
+      "UsersEstimate": 13480
     },
     {
       "ID": "achievements_61",
@@ -18157,7 +18162,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 28941
+      "UsersEstimate": 28942
     },
     {
       "ID": "achievements_8",
@@ -18180,15 +18185,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 39645,
+      "Progressed": 39646,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-09T22:01:15.7942849+00:00",
-  "LastChanged_Achievements": "2023-09-10T20:08:16.8842382+00:00",
+  "LastChanged_Achievements": "2023-09-10T21:07:02.9464408+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.3039607+00:00",
-  "LastUpdate_Ratings": "2023-09-10T20:00:09.8266314+00:00",
-  "LastUpdate_Achievements": "2023-09-10T20:08:16.8844306+00:00"
+  "LastUpdate_Ratings": "2023-09-10T21:00:06.3280888+00:00",
+  "LastUpdate_Achievements": "2023-09-10T21:07:02.9468313+00:00"
 }
