@@ -5,9 +5,9 @@ Rating: 4.09 (Ranked 916)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 50.00% | ~1,808 |
+| Who Needs Keys? | 50.00% | ~1,809 |
 | Totally Intentional | 45.00% | ~1,628 |
-| Each Sold Separately | 37.00% | ~1,338 |
+| Each Sold Separately | 37.00% | ~1,339 |
 | We're In | 33.00% | ~1,194 |
 | You're Not Naked | 29.00% | ~1,049 |
 | From Zeroes... | 29.00% | ~1,049 |
@@ -16,13 +16,13 @@ Rating: 4.09 (Ranked 916)
 | Shard Snatchers | 24.00% | ~868 |
 | You Rich Now! | 22.00% | ~796 |
 | Our Lucky Winner | 21.00% | ~760 |
-| You Poor Now! | 20.00% | ~723 |
-| You Got the Goods, Kid | 20.00% | ~723 |
+| You Poor Now! | 20.00% | ~724 |
+| You Got the Goods, Kid | 20.00% | ~724 |
 | The Shardmenstration | 19.00% | ~687 |
 | Those Were the Days... | 19.00% | ~687 |
 | ...To Heroes | 18.00% | ~651 |
 | Mas, Por Favor | 17.00% | ~615 |
-| And Still Champion... | 14.00% | ~506 |
+| And Still Champion... | 14.00% | ~507 |
 | Super Trusting Friend! | 9.00% | ~326 |
 | Bring back the butt! | 4.00% | ~145 |
 | Hey, thanks! | 4.00% | ~145 |
@@ -32,7 +32,7 @@ Rating: 4.09 (Ranked 916)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,617 (Ranked 156)  
+Progressed: 3,618 (Ranked 156)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 3,608 | 0 |
 | 2023-09-08 | 3,611 | 0 |
 | 2023-09-09 | 3,615 | 0 |
-| 2023-09-10 | 3,617 | 0 |
+| 2023-09-10 | 3,618 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

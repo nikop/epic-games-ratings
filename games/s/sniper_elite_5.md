@@ -26,13 +26,13 @@ Rating: 4.47 (Ranked 613)
 | Der Geist | 16.00% | ~576 |
 | Close Quarters | 15.00% | ~540 |
 | Brains of the Operation | 15.00% | ~540 |
-| Fields of Glory | 14.00% | ~504 |
 | Skirmisher | 14.00% | ~504 |
 | Die Nussknacker Sweet! | 14.00% | ~504 |
 | Snake in the Grass | 14.00% | ~504 |
 | No Stone Unturned | 13.00% | ~468 |
 | Opposing Force | 13.00% | ~468 |
 | Enemy at the Gates | 13.00% | ~468 |
+| Fields of Glory | 13.00% | ~468 |
 | Set Europe Ablaze | 12.00% | ~432 |
 | Precision Is Key | 9.00% | ~324 |
 | My Little Friend | 9.00% | ~324 |
@@ -49,13 +49,13 @@ Rating: 4.47 (Ranked 613)
 | Last Resort | 4.00% | ~142 |
 | Siegebreaker | 4.00% | ~142 |
 | Ghost of Falaise | 4.00% | ~142 |
-| From Paris with Love | 3.00% | ~108 |
 | Burn after reading | 3.00% | ~108 |
 | Souvenir hunter | 3.00% | ~108 |
 | Shoot for the Moon | 3.00% | ~108 |
 | If You Go Down To The Woods Today | 3.00% | ~107 |
 | Fight Another Day | 3.00% | ~107 |
 | Out of Scope | 2.00% | ~72 |
+| From Paris with Love | 2.00% | ~72 |
 | Eagle Eyed | 2.00% | ~72 |
 | Up close and personal | 2.00% | ~72 |
 | Can't Outrun A Bullet | 2.00% | ~72 |
@@ -71,13 +71,13 @@ Rating: 4.47 (Ranked 613)
 | Das Familienjuwel | 1.00% | ~36 |
 | Master of Secondaries | 0.90% | ~32 |
 | Master of Rifles | 0.80% | ~29 |
-| Operation Overlord | 0.80% | ~28 |
 | Master of Pistols | 0.70% | ~25 |
 | Master-at-arms | 0.70% | ~25 |
+| Operation Overlord | 0.70% | ~25 |
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,600 (Ranked 157)  
+Progressed: 3,601 (Ranked 157)  
 Completed: 10 (0.28%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 10 (0.28%) (Ranked 183)
 | 2023-09-07 | 3,592 | 10 |
 | 2023-09-08 | 3,594 | 10 |
 | 2023-09-09 | 3,599 | 10 |
-| 2023-09-10 | 3,600 | 10 |
+| 2023-09-10 | 3,601 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

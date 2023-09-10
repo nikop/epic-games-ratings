@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 644,
+  "EOS_Progressed": 649,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 14.6,
+  "EOS_Completed_Percentage": 14.48,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2668,6 +2668,11 @@
       "Time": "2023-09-10T07:04:56.0151712+00:00",
       "NumProgressed": 644,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-09-10T08:05:21.2564674+00:00",
+      "NumProgressed": 649,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 22,
@@ -2679,7 +2684,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 618
+      "UsersEstimate": 623
     },
     {
       "ID": "LEVEL_002",
@@ -2687,7 +2692,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 554
+      "UsersEstimate": 558
     },
     {
       "ID": "LEVEL_003",
@@ -2695,7 +2700,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 419
+      "UsersEstimate": 422
     },
     {
       "ID": "LEVEL_004",
@@ -2703,7 +2708,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 354
+      "UsersEstimate": 357
     },
     {
       "ID": "LEVEL_005",
@@ -2711,7 +2716,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 309
+      "UsersEstimate": 312
     },
     {
       "ID": "LEVEL_006",
@@ -2719,7 +2724,7 @@
       "Name": "Found an oasis",
       "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 264
+      "UsersEstimate": 266
     },
     {
       "ID": "LEVEL_007",
@@ -2727,7 +2732,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "LEVEL_008",
@@ -2735,7 +2740,7 @@
       "Name": "Passion for sports",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "LEVEL_009",
@@ -2743,7 +2748,7 @@
       "Name": "Who loves trains?",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "LEVEL_010",
@@ -2751,15 +2756,15 @@
       "Name": "Easy and steady climb",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 143
     },
     {
       "ID": "LEVEL_012",
@@ -2767,23 +2772,23 @@
       "Name": "Calm neighborhood",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 123
     },
     {
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 117
     },
     {
       "ID": "LEVEL_015",
@@ -2791,7 +2796,7 @@
       "Name": "Monumental tribute",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "LEVEL_016",
@@ -2799,15 +2804,15 @@
       "Name": "The beach is right there",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_018",
@@ -2815,7 +2820,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_019",
@@ -2829,9 +2834,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_021",
@@ -2839,7 +2844,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_022",
@@ -2847,14 +2852,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 644,
+      "Progressed": 649,
       "Completed": 94
     }
   ],
@@ -2862,8 +2867,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-10T07:04:56.0151708+00:00",
+  "LastChanged_Achievements": "2023-09-10T08:05:21.2564667+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-10T06:59:53.2309448+00:00",
-  "LastUpdate_Achievements": "2023-09-10T07:04:56.0152041+00:00"
+  "LastUpdate_Ratings": "2023-09-10T08:00:29.0055905+00:00",
+  "LastUpdate_Achievements": "2023-09-10T08:05:21.2565074+00:00"
 }

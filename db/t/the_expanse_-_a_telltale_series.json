@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -64,7 +64,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10350,
+  "EOS_Progressed": 10351,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
@@ -4894,6 +4894,11 @@
       "Time": "2023-09-10T07:06:32.0977946+00:00",
       "NumProgressed": 10350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T08:07:12.4620828+00:00",
+      "NumProgressed": 10351,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4912,9 +4917,9 @@
       "ID": "10",
       "SetID": "458bbdk",
       "Name": "Data Miner",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 83
     },
     {
       "ID": "11",
@@ -5010,7 +5015,7 @@
       "Name": "Drone Dodger",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "22",
@@ -5098,7 +5103,7 @@
       "Name": "Debris Spree",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "5",
@@ -5145,7 +5150,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10350,
+      "Progressed": 10351,
       "Completed": 0
     }
   ],
@@ -5153,8 +5158,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-07T17:03:40.5471385+00:00",
-  "LastChanged_Achievements": "2023-09-10T07:06:32.097794+00:00",
+  "LastChanged_Achievements": "2023-09-10T08:07:12.4620821+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-10T07:01:18.0203812+00:00",
-  "LastUpdate_Achievements": "2023-09-10T07:06:32.0978391+00:00"
+  "LastUpdate_Ratings": "2023-09-10T08:02:08.3278745+00:00",
+  "LastUpdate_Achievements": "2023-09-10T08:07:12.4621729+00:00"
 }

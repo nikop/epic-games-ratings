@@ -6,17 +6,17 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,619 |
+| Sowwy! | 29.00% | ~64,622 |
 | Where's that freaking Dwarf? | 4.00% | ~8,913 |
 | Alt+F4 | 4.00% | ~8,913 |
 | Déjà vu | 3.00% | ~6,685 |
 | Sock! SOCK! | 3.00% | ~6,685 |
-| Way of the Wimp | 2.00% | ~4,456 |
-| A beer, two curses, three companions | 2.00% | ~4,456 |
-| GG EZ | 2.00% | ~4,456 |
-| DM intervention | 2.00% | ~4,456 |
-| Speedrun | 2.00% | ~4,456 |
-| Fireproof Wizardess | 2.00% | ~4,456 |
+| Way of the Wimp | 2.00% | ~4,457 |
+| A beer, two curses, three companions | 2.00% | ~4,457 |
+| GG EZ | 2.00% | ~4,457 |
+| DM intervention | 2.00% | ~4,457 |
+| Speedrun | 2.00% | ~4,457 |
+| Fireproof Wizardess | 2.00% | ~4,457 |
 | Livin' in a dwarven paradise | 1.00% | ~2,228 |
 | Shiny and Crôm | 1.00% | ~2,228 |
 | The plot thickens... At the tavern | 1.00% | ~2,228 |
@@ -32,9 +32,9 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,228 |
 | Team Building Exercise | 1.00% | ~2,228 |
 | Oh, when I'll be level 10... | 1.00% | ~2,228 |
-| %#*!$*! | 0.90% | ~2,005 |
-| The beards of change | 0.90% | ~2,005 |
-| Thieves' Guild Accreditation | 0.90% | ~2,005 |
+| %#*!$*! | 0.90% | ~2,006 |
+| The beards of change | 0.90% | ~2,006 |
+| Thieves' Guild Accreditation | 0.90% | ~2,006 |
 | Res Judicata | 0.80% | ~1,783 |
 | The Famous Dungeon of Naheulbeuk | 0.80% | ~1,783 |
 | Dwarf Fortress | 0.80% | ~1,783 |
@@ -47,9 +47,9 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.50% | ~1,114 |
 | We come in peace | 0.40% | ~891 |
 | Lëgal Legend | 0.40% | ~891 |
-| Holistic Adventuring Party | 0.30% | ~668 |
-| An old poacher makes the best gamekeeper | 0.30% | ~668 |
-| Law and Order | 0.30% | ~668 |
+| Holistic Adventuring Party | 0.30% | ~669 |
+| An old poacher makes the best gamekeeper | 0.30% | ~669 |
+| Law and Order | 0.30% | ~669 |
 | Scholar of the Lands of Fangh | 0.20% | ~446 |
 | Friendly fire | 0.20% | ~446 |
 | I'd rather... Just... Sing! | 0.20% | ~446 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,824 (Ranked 56)  
+Progressed: 222,834 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 2 (0.00%) (Ranked 272)
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
 | 2023-09-09 | 222,713 | 2 |
-| 2023-09-10 | 222,824 | 2 |
+| 2023-09-10 | 222,834 | 2 |
 ## Awards
 Max (Character Customization): 190  (Ranked 277)  
 Sum: 265 (Ranked 353)  

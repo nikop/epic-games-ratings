@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -512,7 +512,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3600,
+  "EOS_Progressed": 3601,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -6582,6 +6582,11 @@
       "Time": "2023-09-10T07:03:20.9521371+00:00",
       "NumProgressed": 3600,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-10T08:03:19.5457914+00:00",
+      "NumProgressed": 3601,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6639,9 +6644,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 468
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6863,9 +6868,9 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -7103,9 +7108,9 @@
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
       "SetID": "83mdf7p",
       "Name": "Operation Overlord",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
@@ -7160,13 +7165,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3551,
+      "Progressed": 3552,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3600,
+      "Progressed": 3601,
       "Completed": 10
     }
   ],
@@ -7174,8 +7179,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-08T20:58:35.5897596+00:00",
-  "LastChanged_Achievements": "2023-09-10T07:03:20.9521366+00:00",
+  "LastChanged_Achievements": "2023-09-10T08:03:19.5457907+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-10T06:58:38.4428642+00:00",
-  "LastUpdate_Achievements": "2023-09-10T07:03:20.9522302+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:58:59.359188+00:00",
+  "LastUpdate_Achievements": "2023-09-10T08:03:19.5459246+00:00"
 }

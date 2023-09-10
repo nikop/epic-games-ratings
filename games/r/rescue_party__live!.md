@@ -9,12 +9,12 @@
 | Life matters | 37.00% | ~79 |
 | Safety first | 33.00% | ~70 |
 | Professional team! | 26.00% | ~55 |
-| Resource manager | 14.00% | ~30 |
+| Resource manager | 15.00% | ~32 |
 | Dawn of Victory | 13.00% | ~28 |
 | Team assemble | 13.00% | ~28 |
+| Give me a hand | 5.00% | ~11 |
 | Gloable operation | 5.00% | ~11 |
 | My turn | 5.00% | ~11 |
-| Give me a hand | 4.00% | ~9 |
 | Love and peace | 4.00% | ~9 |
 | Panda express | 0.90% | ~2 |
 | Damage control | 0.00% | ~0 |

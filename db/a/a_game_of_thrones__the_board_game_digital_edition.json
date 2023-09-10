@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23569,
+  "EOS_Progressed": 23572,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16590,6 +16590,11 @@
       "Time": "2023-09-10T07:07:52.2522037+00:00",
       "NumProgressed": 23569,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-10T08:08:47.3466478+00:00",
+      "NumProgressed": 23572,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -16641,7 +16646,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "1021",
@@ -16705,7 +16710,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4242
+      "UsersEstimate": 4243
     },
     {
       "ID": "1029",
@@ -16737,7 +16742,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9428
+      "UsersEstimate": 9429
     },
     {
       "ID": "1033",
@@ -16776,15 +16781,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23569,
+      "Progressed": 23572,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-10T07:07:52.2522032+00:00",
+  "LastChanged_Achievements": "2023-09-10T08:08:47.346647+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.8845824+00:00",
-  "LastUpdate_Ratings": "2023-09-10T06:58:18.050901+00:00",
-  "LastUpdate_Achievements": "2023-09-10T07:07:52.2523071+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:58:34.801108+00:00",
+  "LastUpdate_Achievements": "2023-09-10T08:08:47.346841+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -446,9 +446,9 @@
       "ID": "digTreasure1",
       "SetID": "ci65fo0",
       "Name": "The first treasure",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "digTreasure10",
@@ -526,9 +526,9 @@
       "ID": "killBoxes50",
       "SetID": "ci65fo0",
       "Name": "Loot collector",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "killElk50",
@@ -766,9 +766,9 @@
       "ID": "questBadNews",
       "SetID": "ci65fo0",
       "Name": "Bad news",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "questBountyHunter",
@@ -1035,8 +1035,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-10T07:07:44.087363+00:00",
+  "LastChanged_Achievements": "2023-09-10T08:08:37.4091828+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-10T06:58:29.2274857+00:00",
-  "LastUpdate_Achievements": "2023-09-10T07:07:44.0874452+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:58:48.1565337+00:00",
+  "LastUpdate_Achievements": "2023-09-10T08:08:37.4093302+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1360,9 +1360,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 501
     },
     {
       "ID": "AC04",
@@ -1560,9 +1560,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 337
     },
     {
       "ID": "AC29",
@@ -1713,8 +1713,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-09T09:58:35.689608+00:00",
-  "LastChanged_Achievements": "2023-09-10T07:04:25.1320288+00:00",
+  "LastChanged_Achievements": "2023-09-10T08:04:44.9946518+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-10T06:58:34.5035657+00:00",
-  "LastUpdate_Achievements": "2023-09-10T07:04:25.1320759+00:00"
+  "LastUpdate_Ratings": "2023-09-10T07:58:54.5013063+00:00",
+  "LastUpdate_Achievements": "2023-09-10T08:04:44.9947295+00:00"
 }

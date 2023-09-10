@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 38,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -822,9 +822,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 222824,
+  "EOS_Progressed": 222834,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2179,
+  "EOS_NewPlayers": 2171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10247,6 +10247,11 @@
       "Time": "2023-09-10T07:06:52.1064027+00:00",
       "NumProgressed": 222824,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-10T08:07:36.5197648+00:00",
+      "NumProgressed": 222834,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10274,7 +10279,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "BarbarianEpic",
@@ -10290,7 +10295,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "BookCollection",
@@ -10314,7 +10319,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "Chapter3",
@@ -10682,7 +10687,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "DwarfLevel2",
@@ -10706,7 +10711,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64619
+      "UsersEstimate": 64622
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10722,7 +10727,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "EndCombatOneHp",
@@ -10730,7 +10735,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "EndGameCursed",
@@ -10762,7 +10767,7 @@
       "Name": "The beards of change",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "FollowNarzatok",
@@ -10770,7 +10775,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "InsultLoose",
@@ -10826,7 +10831,7 @@
       "Name": "Law and Order",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "Poster",
@@ -10898,7 +10903,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "Speedrun",
@@ -10906,7 +10911,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "SupportCount4",
@@ -10954,28 +10959,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 222824,
+      "Progressed": 222834,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 222824,
+      "Progressed": 222834,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-09T19:00:23.0234679+00:00",
-  "LastChanged_Achievements": "2023-09-10T07:06:52.1064022+00:00",
+  "LastChanged_Achievements": "2023-09-10T08:07:36.5197639+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-10T07:00:22.2975205+00:00",
-  "LastUpdate_Achievements": "2023-09-10T07:06:52.1065627+00:00"
+  "LastUpdate_Ratings": "2023-09-10T08:01:01.3437374+00:00",
+  "LastUpdate_Achievements": "2023-09-10T08:07:36.5200595+00:00"
 }

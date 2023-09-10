@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 79.00% | ~353 |
-| A Thorny Situation | 72.00% | ~322 |
-| ... And Spit Back Out | 53.00% | ~237 |
-| Break-Net Speed | 45.00% | ~201 |
-| Humble Collector | 34.00% | ~152 |
-| Miner 49er | 32.00% | ~143 |
-| Bramble Breaker | 31.00% | ~139 |
+| Azoria Beckons | 80.00% | ~360 |
+| A Thorny Situation | 72.00% | ~324 |
+| ... And Spit Back Out | 54.00% | ~243 |
+| Break-Net Speed | 46.00% | ~207 |
+| Humble Collector | 34.00% | ~153 |
+| Miner 49er | 32.00% | ~144 |
+| Bramble Breaker | 32.00% | ~144 |
 | Oui, Chef! | 17.00% | ~76 |
-| Calm Sailing | 14.00% | ~63 |
-| Lumberjack | 11.00% | ~49 |
-| Open the Gate! | 10.00% | ~45 |
+| Calm Sailing | 15.00% | ~68 |
+| Open the Gate! | 11.00% | ~50 |
+| Lumberjack | 11.00% | ~50 |
 | Beach Comber | 8.00% | ~36 |
 | Mist Walker | 6.00% | ~27 |
 | Botanical Breakthrough | 5.00% | ~22 |
-| Chatty Neighbor | 3.00% | ~13 |
-| Right Tool For the Job | 3.00% | ~13 |
+| Chatty Neighbor | 3.00% | ~14 |
+| Right Tool For the Job | 3.00% | ~14 |
 | Clear the Air | 2.00% | ~9 |
 | Search for the Hairy Grell | 2.00% | ~9 |
 | Higher Tax Bracket | 2.00% | ~9 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.20% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 447 (Ranked 249)  
+Progressed: 450 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
-| 2023-09-10 | 447 | 0 |
+| 2023-09-10 | 450 | 0 |

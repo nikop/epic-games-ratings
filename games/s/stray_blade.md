@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 87.00% | ~52 |
-| Tinkerer | 65.00% | ~39 |
-| Welcome to the Club | 35.00% | ~21 |
+| Self-Defence | 85.00% | ~52 |
+| Tinkerer | 64.00% | ~39 |
+| Welcome to the Club | 34.00% | ~21 |
 | Apprentice | 30.00% | ~18 |
 | A new World ahead | 25.00% | ~15 |
 | Can't touch this | 23.00% | ~14 |
 | Don't Cry Wolf | 18.00% | ~11 |
-| Freezing Cold | 17.00% | ~10 |
-| The Power of the Mountains | 17.00% | ~10 |
+| Freezing Cold | 16.00% | ~10 |
+| The Power of the Mountains | 16.00% | ~10 |
 | Searing Heat | 15.00% | ~9 |
 | Changing the World | 15.00% | ~9 |
 | Nothing but the Truth | 13.00% | ~8 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60 (Ranked 383)  
+Progressed: 61 (Ranked 380)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 58 | 0 |
 | 2023-09-07 | 59 | 0 |
 | 2023-09-09 | 60 | 0 |
+| 2023-09-10 | 61 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
