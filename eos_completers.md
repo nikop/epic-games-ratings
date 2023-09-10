@@ -17,8 +17,8 @@
 | 15 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 15 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 18 | [Island Cities](games/i/island_cities.md) | 14.83% |
-| 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
+| 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
+| 19 | [Island Cities](games/i/island_cities.md) | 14.69% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
 | 22 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
@@ -39,7 +39,7 @@
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.79% |
 | 38 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.17% |
 | 41 | [Scorn](games/s/scorn.md) | 7.02% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.87% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.56% |
@@ -94,13 +94,13 @@
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 93 | [FORECLOSED](games/f/foreclosed.md) | 2.15% |
 | 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.13% |
-| 95 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 95 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.00% |
 | 96 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 97 | [Night Book](games/n/night_book.md) | 1.86% |
 | 98 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
 | 99 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 100 | [Sifu](games/s/sifu.md) | 1.81% |
-| 101 | [Frogun](games/f/frogun.md) | 1.80% |
+| 100 | [Frogun](games/f/frogun.md) | 1.80% |
+| 100 | [Sifu](games/s/sifu.md) | 1.80% |
 | 102 | [Somerville](games/s/somerville.md) | 1.65% |
 | 103 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.61% |
 | 104 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
@@ -133,7 +133,7 @@
 | 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 132 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 133 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
-| 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.73% |
+| 134 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.72% |
 | 135 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 136 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.67% |
 | 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.67% |
@@ -162,8 +162,8 @@
 | 160 | [Tchia](games/t/tchia.md) | 0.44% |
 | 160 | [Train Valley](games/t/train_valley.md) | 0.44% |
 | 162 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
-| 163 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.40% |
 | 163 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 164 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.39% |
 | 165 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 165 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
@@ -583,4 +583,4 @@
 | 272 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 272 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 272 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,212 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,213 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
