@@ -35,14 +35,14 @@
 | 33 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,406 | 4.69 | 217 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,401 | 4.45 | 641 |
 | 35 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 11,116 | 4.74 | 146 |
-| 36 | [SnowRunner](games/s/snowrunner.md) | 10,406 | 4.76 | 117 |
-| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,991 | 4.61 | 368 |
+| 36 | [SnowRunner](games/s/snowrunner.md) | 10,442 | 4.76 | 117 |
+| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,001 | 4.61 | 368 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,979 | 4.78 | 101 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,045 | 4.58 | 431 |
 | 40 | [Control](games/c/control.md) | 8,493 | 4.60 | 392 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,139 | 4.89 | 13 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,967 | 4.48 | 602 |
-| 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,823 | 4.85 | 43 |
+| 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,829 | 4.85 | 43 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,798 | 4.57 | 450 |
 | 45 | [Supraland](games/s/supraland.md) | 7,683 | 4.61 | 368 |
 | 46 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 7,605 | 4.58 | 431 |
@@ -90,7 +90,7 @@
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,480 | 4.68 | 241 |
 | 89 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,469 | 3.98 | 948 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,346 | 4.68 | 241 |
-| 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,324 | 4.76 | 117 |
+| 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,326 | 4.76 | 117 |
 | 92 | [Trackmania](games/t/trackmania.md) | 3,278 | 4.67 | 259 |
 | 93 | [Hades](games/h/hades.md) | 3,257 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,252 | 4.57 | 450 |
@@ -135,8 +135,8 @@
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 279 |
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,264 | 4.55 | 488 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,201 | 4.42 | 679 |
-| 136 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,187 | 4.69 | 217 |
-| 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,184 | 4.61 | 368 |
+| 136 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,188 | 4.69 | 217 |
+| 137 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,185 | 4.61 | 368 |
 | 138 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,077 | 4.61 | 368 |
 | 139 | [EVE Online](games/e/eve_online.md) | 1,074 | 4.25 | 833 |
 | 140 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,065 | 4.66 | 279 |
@@ -447,7 +447,7 @@
 | 444 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 35 | 4.52 | 532 |
 | 444 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 190 |
 | 444 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 469 |
-| 448 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 34 | 4.14 | 903 |
+| 448 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 34 | 4.14 | 904 |
 | 448 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 354 |
 | 448 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 66 |
 | 448 | [TUNIC](games/t/tunic.md) | 34 | 4.83 | 60 |
@@ -476,7 +476,7 @@
 | 472 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 469 |
 | 472 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 27 | 4.60 | 392 |
 | 472 | [Forspoken](games/f/forspoken.md) | 27 | 4.15 | 897 |
-| 472 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 903 |
+| 472 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 904 |
 | 472 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 217 |
 | 472 | [Warpips](games/w/warpips.md) | 27 | 4.42 | 679 |
 | 480 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 26 | 4.48 | 602 |

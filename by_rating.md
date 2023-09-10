@@ -43,7 +43,7 @@
 | 31 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 502 | 200 |
 | 31 | [WarmSnow](games/w/warmsnow.md) | 4.86 | 0 | 517 |
 | 43 | [Blasphemous](games/b/blasphemous.md) | 4.85 | 153 | 298 |
-| 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,823 | 43 |
+| 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,829 | 43 |
 | 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,555 | 64 |
 | 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 221 | 264 |
 | 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 147 | 302 |
@@ -118,7 +118,7 @@
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 469 |
 | 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,261 | 23 |
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 517 |
-| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,324 | 91 |
+| 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,326 | 91 |
 | 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 944 | 148 |
 | 117 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.76 | 663 | 174 |
 | 117 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 4,492 | 75 |
@@ -128,7 +128,7 @@
 | 117 | [Quake](games/q/quake.md) | 4.76 | 49 | 407 |
 | 117 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,493 | 123 |
 | 117 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 517 |
-| 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,406 | 36 |
+| 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,442 | 36 |
 | 117 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 517 |
 | 117 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.76 | 100 | 337 |
 | 117 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 45 | 414 |
@@ -225,7 +225,7 @@
 | 217 | [House Flipper](games/h/house_flipper.md) | 4.69 | 310 | 236 |
 | 217 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 517 |
 | 217 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 517 |
-| 217 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,187 | 136 |
+| 217 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,188 | 136 |
 | 217 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 517 |
 | 217 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 517 |
 | 217 | [Revita](games/r/revita.md) | 4.69 | 0 | 517 |
@@ -376,7 +376,7 @@
 | 368 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 234 |
 | 368 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 44,382 | 12 |
 | 368 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.61 | 38 | 432 |
-| 368 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,184 | 137 |
+| 368 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,185 | 137 |
 | 368 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.61 | 0 | 517 |
 | 368 | [MudRunner](games/m/mudrunner.md) | 4.61 | 256 | 252 |
 | 368 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.61 | 0 | 517 |
@@ -385,7 +385,7 @@
 | 368 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 687 | 170 |
 | 368 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 106 | 332 |
 | 368 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 500 | 201 |
-| 368 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,991 | 37 |
+| 368 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,001 | 37 |
 | 368 | [RiME](games/r/rime.md) | 4.61 | 0 | 517 |
 | 368 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,077 | 138 |
 | 368 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 282 | 243 |
@@ -897,18 +897,18 @@
 | 891 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 285 |
 | 891 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.16 | 0 | 517 |
 | 897 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 517 |
+| 897 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.15 | 0 | 517 |
 | 897 | [Forspoken](games/f/forspoken.md) | 4.15 | 27 | 472 |
 | 897 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.15 | 21 | 505 |
 | 897 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 274 |
 | 897 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 517 |
 | 897 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 517 |
-| 903 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.14 | 0 | 517 |
-| 903 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 34 | 448 |
-| 903 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 0 | 517 |
-| 903 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.14 | 0 | 517 |
-| 903 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 472 |
-| 903 | [Pine](games/p/pine.md) | 4.14 | 0 | 517 |
-| 903 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
+| 904 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.14 | 0 | 517 |
+| 904 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 34 | 448 |
+| 904 | [Chernobylite](games/c/chernobylite.md) | 4.14 | 0 | 517 |
+| 904 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 472 |
+| 904 | [Pine](games/p/pine.md) | 4.14 | 0 | 517 |
+| 904 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
 | 910 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 517 |
 | 910 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 517 |
 | 912 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 517 |
@@ -985,3 +985,4 @@
 | 983 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.63 | 0 | 517 |
 | 984 | [Adios](games/a/adios.md) | 3.58 | 0 | 517 |
 | 985 | [Redfall](games/r/redfall.md) | 3.52 | 0 | 517 |
+| 986 | [Spelldrifter](games/s/spelldrifter.md) | 3.41 | 0 | 517 |
