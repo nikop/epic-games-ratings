@@ -61,14 +61,14 @@
 | 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.09% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
-| 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.92% |
+| 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.91% |
 | 63 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.85% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 66 | [Doodle God](games/d/doodle_god.md) | 3.39% |
+| 66 | [Doodle God](games/d/doodle_god.md) | 3.38% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
-| 68 | [The Complex](games/t/the_complex.md) | 3.30% |
-| 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
+| 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
+| 68 | [The Complex](games/t/the_complex.md) | 3.29% |
 | 70 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.13% |
 | 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.02% |
@@ -87,9 +87,9 @@
 | 83 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 86 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.49% |
 | 87 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
-| 88 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.42% |
+| 88 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
 | 89 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
-| 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
+| 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.23% |
 | 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.22% |
 | 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.17% |
