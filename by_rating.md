@@ -34,7 +34,7 @@
 | 31 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.86 | 22 | 498 |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 39 | 428 |
 | 31 | [Inscryption](games/i/inscryption.md) | 4.86 | 339 | 229 |
-| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,448 | 30 |
+| 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 12,457 | 30 |
 | 31 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 97 | 342 |
 | 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 44 | 421 |
 | 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,416 | 129 |
@@ -302,7 +302,7 @@
 | 279 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 22 | 498 |
 | 279 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 517 |
 | 302 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.65 | 0 | 517 |
-| 302 | [Carcassonne](games/c/carcassonne.md) | 4.65 | 79 | 364 |
+| 302 | [Carcassonne](games/c/carcassonne.md) | 4.65 | 79 | 365 |
 | 302 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 517 |
 | 302 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 166 | 291 |
 | 302 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.65 | 0 | 517 |
@@ -357,11 +357,11 @@
 | 354 | [Dead Space](games/d/dead_space.md) | 4.62 | 90 | 353 |
 | 354 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 243 |
 | 354 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 448 |
-| 354 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 78 | 366 |
-| 354 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,472 | 125 |
+| 354 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 80 | 361 |
+| 354 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,474 | 125 |
 | 354 | [GigaBash](games/g/gigabash.md) | 4.62 | 0 | 517 |
 | 354 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 379 | 223 |
-| 354 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 569 | 190 |
+| 354 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 570 | 190 |
 | 354 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 517 |
 | 354 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 517 |
 | 354 | [Prey](games/p/prey.md) | 4.62 | 5,682 | 63 |
@@ -499,7 +499,7 @@
 | 488 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 91 | 351 |
 | 488 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 517 |
 | 488 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 347 | 227 |
-| 488 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 364 |
+| 488 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 365 |
 | 488 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,264 | 134 |
 | 502 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,421 | 128 |
 | 502 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 5,990 | 58 |
@@ -835,22 +835,22 @@
 | 833 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 517 |
 | 833 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 498 |
 | 833 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,074 | 139 |
-| 833 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 0 | 517 |
 | 833 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 517 |
 | 833 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 517 |
 | 833 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 517 |
 | 833 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 517 |
-| 841 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 517 |
-| 841 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 463 |
-| 841 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 517 |
-| 841 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 517 |
-| 841 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 604 | 185 |
-| 841 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 517 |
-| 841 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 412 |
-| 841 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 517 |
-| 841 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 517 |
-| 841 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 517 |
-| 841 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 488 |
+| 840 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 517 |
+| 840 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 463 |
+| 840 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 517 |
+| 840 | [OVERPASS™](games/o/overpass™.md) | 4.24 | 0 | 517 |
+| 840 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 604 | 185 |
+| 840 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.24 | 0 | 517 |
+| 840 | [Rise of Industry](games/r/rise_of_industry.md) | 4.24 | 0 | 517 |
+| 840 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 412 |
+| 840 | [The Bridge](games/t/the_bridge.md) | 4.24 | 0 | 517 |
+| 840 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.24 | 0 | 517 |
+| 840 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 517 |
+| 840 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.24 | 24 | 488 |
 | 852 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 145 |
 | 852 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 517 |
 | 852 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.23 | 0 | 517 |
@@ -864,7 +864,7 @@
 | 858 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.21 | 0 | 517 |
 | 858 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 3,713 | 84 |
 | 858 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.21 | 0 | 517 |
-| 858 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 366 |
+| 858 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 367 |
 | 866 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 124 | 315 |
 | 866 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 517 |
 | 866 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 517 |
