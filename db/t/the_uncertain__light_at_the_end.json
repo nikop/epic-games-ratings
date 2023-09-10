@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -732,9 +732,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 262
     },
     {
       "ID": "Hitman",
@@ -885,8 +885,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:48:25.721+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:20:53.6535041+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:55.4277307+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:42:22.1265803+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:48:25.7210234+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:15:06.1305718+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:20:53.653525+00:00"
 }

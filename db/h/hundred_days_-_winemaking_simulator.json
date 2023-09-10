@@ -6,9 +6,9 @@
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -976,11 +976,11 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2195,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 1302,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.14,
+  "EOS_Progressed": 2204,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 1303,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -2246,6 +2246,11 @@
       "Time": "2023-09-10T01:48:25.3655688+00:00",
       "NumProgressed": 2195,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-10T02:20:53.3164171+00:00",
+      "NumProgressed": 2204,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2306,7 +2311,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 768
+      "UsersEstimate": 771
     },
     {
       "ID": "a_19",
@@ -2408,9 +2413,9 @@
       "ID": "a_31",
       "SetID": "daiie3o",
       "Name": "King of white wines",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "a_32",
@@ -2505,16 +2510,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2195,
-      "Completed": 3
+      "Progressed": 2204,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-09T20:59:06.8541677+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:48:25.3655684+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:20:53.3164167+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:43:06.3739824+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:48:25.3656014+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:15:51.3149937+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:20:53.3164415+00:00"
 }

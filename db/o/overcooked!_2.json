@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-06-17T15:00:00+00:00",
     "PcReleaseDate": "2018-08-07T09:00:00+00:00",
@@ -2673,10 +2673,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 2264,
       "NumberOfAwardsMax": 234
+    },
+    {
+      "Time": "2023-09-10T02:14:03.1657549+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2265,
+      "NumberOfAwardsMax": 234
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2264,
+  "NumberOfAwards": 2265,
   "NumberOfAwardsMax": 234,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2756,7 +2762,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 195
+      "Count": 196
     }
   ],
   "EOS_Progressed": 0,
@@ -2770,8 +2776,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2023-09-09T06:57:18.3721175+00:00",
+  "LastChanged": "2023-09-10T02:14:03.1657548+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:59.0653557+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:41:17.2276208+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:50:05.5329696+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:14:03.1657552+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:22:34.6513854+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -502,9 +502,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3342,
+  "EOS_Progressed": 3343,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4262,6 +4262,11 @@
       "Time": "2023-09-09T09:03:06.1020685+00:00",
       "NumProgressed": 3342,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-10T02:19:30.2514973+00:00",
+      "NumProgressed": 3343,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4313,7 +4318,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "CrowdPleaser",
@@ -4329,7 +4334,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "Eureka_23",
@@ -4337,7 +4342,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -4465,7 +4470,7 @@
       "Name": "Ready for Winter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2173
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -4593,7 +4598,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4608,15 +4613,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3342,
+      "Progressed": 3343,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-08-16T21:59:07.0719809+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:47:32.0378703+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:19:30.2514968+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:16.1068917+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:43:22.4857172+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:47:32.0379317+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:16:08.319948+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:19:30.2515654+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7446,9 +7446,9 @@
       "Count": 624
     }
   ],
-  "EOS_Progressed": 296189,
+  "EOS_Progressed": 296190,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 3257,
+  "EOS_NewPlayers": 3236,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22871,6 +22871,11 @@
       "Time": "2023-09-10T01:50:39.1965861+00:00",
       "NumProgressed": 296189,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-09-10T02:23:07.9183207+00:00",
+      "NumProgressed": 296190,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 45,
@@ -22882,7 +22887,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41466
+      "UsersEstimate": 41467
     },
     {
       "ID": "PFA_10",
@@ -22922,7 +22927,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 14809
+      "UsersEstimate": 14810
     },
     {
       "ID": "PFA_15",
@@ -23018,7 +23023,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14809
+      "UsersEstimate": 14810
     },
     {
       "ID": "PFA_26",
@@ -23050,7 +23055,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14809
+      "UsersEstimate": 14810
     },
     {
       "ID": "PFA_3",
@@ -23162,7 +23167,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14809
+      "UsersEstimate": 14810
     },
     {
       "ID": "PFA_42",
@@ -23241,7 +23246,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296189,
+      "Progressed": 296190,
       "Completed": 469
     }
   ],
@@ -23249,8 +23254,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-10T01:42:48.4089289+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:50:39.1965855+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:23:07.91832+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:42:48.4089294+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:50:39.1967312+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:15:33.3196666+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:23:07.9184229+00:00"
 }

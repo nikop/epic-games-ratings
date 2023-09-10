@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19752,
+  "EOS_Progressed": 19754,
   "EOS_Completed": 394,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -15643,6 +15643,11 @@
       "Time": "2023-09-10T01:48:53.7017335+00:00",
       "NumProgressed": 19752,
       "NumCompleted": 394
+    },
+    {
+      "Time": "2023-09-10T02:21:21.9995504+00:00",
+      "NumProgressed": 19754,
+      "NumCompleted": 394
     }
   ],
   "TotalAchievements": 20,
@@ -15670,7 +15675,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -15774,7 +15779,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15209
+      "UsersEstimate": 15211
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15806,22 +15811,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19752,
+      "Progressed": 19754,
       "Completed": 394
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:48:53.701733+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:21:21.99955+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:41:03.9425821+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:48:53.7018552+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:13:49.496931+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:21:21.9996339+00:00"
 }

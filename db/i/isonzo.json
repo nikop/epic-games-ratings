@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6762,
+  "EOS_Progressed": 6763,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5018,6 +5018,11 @@
       "Time": "2023-09-10T01:50:41.0870746+00:00",
       "NumProgressed": 6762,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-10T02:23:09.7943364+00:00",
+      "NumProgressed": 6763,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5077,7 +5082,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -5141,7 +5146,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2231
+      "UsersEstimate": 2232
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -5157,7 +5162,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -5213,7 +5218,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -5221,7 +5226,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -5261,15 +5266,15 @@
       "Name": "Seeing Red",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
       "SetID": "akchbl3",
       "Name": "Shaken, Not Stirred",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 947
+      "UsersEstimate": 879
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -5301,7 +5306,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -5357,7 +5362,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3719
+      "UsersEstimate": 3720
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -5388,7 +5393,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6762,
+      "Progressed": 6763,
       "Completed": 8
     }
   ],
@@ -5396,8 +5401,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-02T12:59:05.1112111+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:50:41.0870737+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:23:09.794336+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:39.7993209+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:43:02.1046077+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:50:41.0871399+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:15:47.0709159+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:23:09.7943859+00:00"
 }

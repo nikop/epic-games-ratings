@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 661966,
+  "EOS_Progressed": 661968,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14410,6 +14410,11 @@
       "Time": "2023-09-10T01:49:11.7999675+00:00",
       "NumProgressed": 661966,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-10T02:21:40.2497923+00:00",
+      "NumProgressed": 661968,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14421,7 +14426,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476616
+      "UsersEstimate": 476617
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14429,7 +14434,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383940
+      "UsersEstimate": 383941
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14437,7 +14442,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152252
+      "UsersEstimate": 152253
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -14557,7 +14562,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152252
+      "UsersEstimate": 152253
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -14565,7 +14570,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92675
+      "UsersEstimate": 92676
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -14573,7 +14578,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112534
+      "UsersEstimate": 112535
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -14804,15 +14809,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 661966,
+      "Progressed": 661968,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:49:11.7999669+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:21:40.2497919+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.7852859+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:43:05.1543317+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:49:11.8000845+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:15:50.0708865+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:21:40.2498872+00:00"
 }

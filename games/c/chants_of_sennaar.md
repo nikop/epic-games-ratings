@@ -11,19 +11,19 @@
 | A new dawn | 26.00% | ~30 |
 | A good beginning | 24.00% | ~27 |
 | Scholar | 24.00% | ~27 |
+| True G4M3R | 23.00% | ~26 |
 | The darkness | 23.00% | ~26 |
-| True G4M3R | 22.00% | ~25 |
 | One last step | 19.00% | ~22 |
 | Cable guy | 18.00% | ~21 |
 | Champollion | 18.00% | ~21 |
 | Open door | 17.00% | ~19 |
 | Rascal | 17.00% | ~19 |
+| Half the way | 16.00% | ~18 |
 | In this together | 15.00% | ~17 |
-| Half the way | 15.00% | ~17 |
 | Feels like springtime | 15.00% | ~17 |
 | Peace walker | 14.00% | ~16 |
+| Alchemists Express | 13.00% | ~15 |
 | Free at last | 12.00% | ~14 |
-| Alchemists Express | 12.00% | ~14 |
 | Fashion victim | 12.00% | ~14 |
 | A Link to the Past | 11.00% | ~13 |
 | I did it | 9.00% | ~10 |

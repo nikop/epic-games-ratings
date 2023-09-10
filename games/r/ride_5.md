@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Love | 37.00% | ~190 |
+| Clean Race | 36.00% | ~185 |
 | Hear That Roar! | 35.00% | ~180 |
-| Clean Race | 35.00% | ~180 |
 | Rivals to the End | 27.00% | ~139 |
 | Eat My Dust | 25.00% | ~128 |
 | We're Going to Need a Bigger Garage | 23.00% | ~118 |
@@ -14,16 +14,16 @@
 | I Want One Too! | 16.00% | ~82 |
 | Bitter Rivalry | 15.00% | ~77 |
 | Restored and Ready | 13.00% | ~67 |
+| Champagne Spray | 13.00% | ~67 |
 | Quick Pit Stop | 12.00% | ~62 |
-| Champagne Spray | 12.00% | ~62 |
 | Go-Faster Stripes | 11.00% | ~57 |
 | Legendary!!! | 11.00% | ~57 |
 | Evangelist | 6.00% | ~31 |
 | Is It the Right Size? | 5.00% | ~26 |
 | We've Just Begun | 5.00% | ~26 |
 | Stamina Star | 4.00% | ~21 |
+| Still Here | 4.00% | ~21 |
 | Make It Your Own! | 3.00% | ~15 |
-| Still Here | 3.00% | ~15 |
 | Iconic! | 2.00% | ~10 |
 | Spoilt for Choice | 2.00% | ~10 |
 | Cherry Blossom and Temples | 2.00% | ~10 |
@@ -34,10 +34,10 @@
 | Romantic Races | 1.00% | ~5 |
 | I Make the Rules! | 1.00% | ~5 |
 | Rounding Off | 1.00% | ~5 |
+| Back in Blighty | 0.80% | ~4 |
 | Next Level | 0.80% | ~4 |
 | I Don't Stop | 0.80% | ~4 |
 | Overtaking the Master | 0.80% | ~4 |
-| Back in Blighty | 0.60% | ~3 |
 | Maximum Endurance | 0.40% | ~2 |
 | Globe-trotter | 0.40% | ~2 |
 | Full Power | 0.40% | ~2 |

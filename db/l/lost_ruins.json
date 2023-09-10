@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 435,
+  "EOS_Progressed": 436,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -771,6 +771,11 @@
       "Time": "2023-09-09T13:08:14.3901024+00:00",
       "NumProgressed": 435,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T02:23:19.8734063+00:00",
+      "NumProgressed": 436,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -814,15 +819,15 @@
       "Name": "Boss Killer",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "BugHunter",
       "SetID": "82505mn",
       "Name": "Bug Hunter",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "Cryomancer",
@@ -958,7 +963,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "OrcMustDie",
@@ -1006,7 +1011,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SlingOfDavid",
@@ -1070,7 +1075,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Troubleshooter",
@@ -1101,7 +1106,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 435,
+      "Progressed": 436,
       "Completed": 0
     }
   ],
@@ -1109,8 +1114,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:50:50.6057227+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:23:19.8734058+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:39.685711+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:41:23.4416574+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:50:50.605762+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:14:08.9992859+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:23:19.8734348+00:00"
 }

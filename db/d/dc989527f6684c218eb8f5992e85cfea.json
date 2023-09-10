@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 93,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11153,
+  "EOS_Progressed": 11155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9096,6 +9096,11 @@
       "Time": "2023-09-10T01:47:36.6696819+00:00",
       "NumProgressed": 11153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T02:20:04.6185222+00:00",
+      "NumProgressed": 11155,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9107,7 +9112,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -9145,9 +9150,9 @@
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_10_SECONDS_4_PLAYERS",
       "SetID": "5ck0pmd",
       "Name": "Dal\u00ED",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 56
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -9179,7 +9184,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4907
+      "UsersEstimate": 4908
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -9306,14 +9311,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11153,
+      "Progressed": 11155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:47:36.66968+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:20:04.6185218+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3886572+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:42:24.897827+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:47:36.6697572+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:15:09.1213576+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:20:04.6185775+00:00"
 }

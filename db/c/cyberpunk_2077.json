@@ -11681,9 +11681,9 @@
       "Count": 5866
     }
   ],
-  "EOS_Progressed": 875470,
+  "EOS_Progressed": 875471,
   "EOS_Completed": 2075,
-  "EOS_NewPlayers": 1235,
+  "EOS_NewPlayers": 1234,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -27576,6 +27576,11 @@
       "Time": "2023-09-10T01:49:40.7555365+00:00",
       "NumProgressed": 875470,
       "NumCompleted": 2075
+    },
+    {
+      "Time": "2023-09-10T02:22:09.3026238+00:00",
+      "NumProgressed": 875471,
+      "NumCompleted": 2075
     }
   ],
   "TotalAchievements": 44,
@@ -27619,7 +27624,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 341433
+      "UsersEstimate": 341434
     },
     {
       "ID": "FollowingTheRiver",
@@ -27659,7 +27664,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 131320
+      "UsersEstimate": 131321
     },
     {
       "ID": "Gunslinger",
@@ -27763,7 +27768,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 253886
+      "UsersEstimate": 253887
     },
     {
       "ID": "Specialist",
@@ -27803,7 +27808,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 604074
+      "UsersEstimate": 604075
     },
     {
       "ID": "TheHermit",
@@ -27819,7 +27824,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 192603
+      "UsersEstimate": 192604
     },
     {
       "ID": "TheLovers",
@@ -27827,7 +27832,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 306414
+      "UsersEstimate": 306415
     },
     {
       "ID": "TheStar",
@@ -27891,7 +27896,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 131320
+      "UsersEstimate": 131321
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -27899,7 +27904,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 105056
+      "UsersEstimate": 105057
     },
     {
       "ID": "UnderPressure",
@@ -27931,28 +27936,28 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 192603
+      "UsersEstimate": 192604
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 875470,
+      "Progressed": 875471,
       "Completed": 2075
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 4093,
-      "Completed": 4093
+      "Progressed": 4094,
+      "Completed": 4094
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-10T01:43:19.884428+00:00",
-  "LastChanged_Achievements": "2023-09-10T01:49:40.7555363+00:00",
+  "LastChanged_Achievements": "2023-09-10T02:22:09.3026233+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.297656+00:00",
-  "LastUpdate_Ratings": "2023-09-10T01:43:19.8844285+00:00",
-  "LastUpdate_Achievements": "2023-09-10T01:49:40.7556829+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:16:05.8816836+00:00",
+  "LastUpdate_Achievements": "2023-09-10T02:22:09.3027265+00:00"
 }
