@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1262,9 +1262,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5723,
+  "EOS_Progressed": 5724,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -9062,6 +9062,11 @@
       "Time": "2023-09-10T05:04:41.9089596+00:00",
       "NumProgressed": 5723,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-10T06:04:55.1296237+00:00",
+      "NumProgressed": 5724,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 31,
@@ -9073,7 +9078,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -9105,7 +9110,7 @@
       "Name": "Green Thumb",
       "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 3777
+      "UsersEstimate": 3778
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -9113,7 +9118,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -9121,7 +9126,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 4063
+      "UsersEstimate": 4064
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -9185,7 +9190,7 @@
       "Name": "Retribution",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -9193,7 +9198,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 3319
+      "UsersEstimate": 3320
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -9241,7 +9246,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -9257,7 +9262,7 @@
       "Name": "Winter Is Here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -9273,7 +9278,7 @@
       "Name": "The First Week",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -9281,7 +9286,7 @@
       "Name": "Novice Researcher",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 3777
+      "UsersEstimate": 3778
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -9289,7 +9294,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2519
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -9297,7 +9302,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -9320,15 +9325,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5723,
+      "Progressed": 5724,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-02T11:01:18.0722676+00:00",
-  "LastChanged_Achievements": "2023-09-10T05:04:41.9089592+00:00",
+  "LastChanged_Achievements": "2023-09-10T06:04:55.1296225+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:04.6592929+00:00",
   "LastUpdate_Ratings": "2023-09-10T05:00:45.9293109+00:00",
-  "LastUpdate_Achievements": "2023-09-10T05:04:41.9090262+00:00"
+  "LastUpdate_Achievements": "2023-09-10T06:04:55.1296949+00:00"
 }

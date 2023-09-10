@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 746,
+  "EOS_Progressed": 747,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1316,6 +1316,11 @@
       "Time": "2023-09-10T00:04:30.6558063+00:00",
       "NumProgressed": 746,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T06:04:26.7897795+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1336,7 +1341,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "AC02",
@@ -1360,7 +1365,7 @@
       "Name": "Blood and Iron",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "AC05",
@@ -1376,7 +1381,7 @@
       "Name": "The Last Ascension",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AC07",
@@ -1384,7 +1389,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AC08",
@@ -1406,9 +1411,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 276
     },
     {
       "ID": "AC11",
@@ -1432,7 +1437,7 @@
       "Name": "Second Psalm.",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "AC14",
@@ -1456,7 +1461,7 @@
       "Name": "Weight of Penance",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "AC17",
@@ -1464,7 +1469,7 @@
       "Name": "Second Pilgrimage",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "AC18",
@@ -1472,7 +1477,7 @@
       "Name": "Acquired Taste",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "AC19",
@@ -1480,7 +1485,7 @@
       "Name": "Soledad",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "AC20",
@@ -1512,7 +1517,7 @@
       "Name": "Hide and Seek",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "AC24",
@@ -1536,7 +1541,7 @@
       "Name": "A Leap of Faith",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "AC27",
@@ -1550,9 +1555,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 329
     },
     {
       "ID": "AC29",
@@ -1568,7 +1573,7 @@
       "Name": "The Anointed One",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AC31",
@@ -1584,7 +1589,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "AC33",
@@ -1616,7 +1621,7 @@
       "Name": "Blessed Incense",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "AC37",
@@ -1648,7 +1653,7 @@
       "Name": "Welcome Back!",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "AC41",
@@ -1695,7 +1700,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 746,
+      "Progressed": 747,
       "Completed": 0
     }
   ],
@@ -1703,8 +1708,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-09T09:58:35.689608+00:00",
-  "LastChanged_Achievements": "2023-09-10T05:04:13.3729337+00:00",
+  "LastChanged_Achievements": "2023-09-10T06:04:26.7897781+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:58:25.1226512+00:00",
-  "LastUpdate_Achievements": "2023-09-10T05:04:13.3729804+00:00"
+  "LastUpdate_Ratings": "2023-09-10T05:58:19.3053627+00:00",
+  "LastUpdate_Achievements": "2023-09-10T06:04:26.7898245+00:00"
 }

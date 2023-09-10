@@ -4339,7 +4339,7 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 703144,
+  "EOS_Progressed": 703145,
   "EOS_Completed": 6347,
   "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 14,
@@ -19594,6 +19594,11 @@
       "Time": "2023-09-10T05:04:42.9657774+00:00",
       "NumProgressed": 703144,
       "NumCompleted": 6347
+    },
+    {
+      "Time": "2023-09-10T06:04:56.2616808+00:00",
+      "NumProgressed": 703145,
+      "NumCompleted": 6347
     }
   ],
   "TotalAchievements": 49,
@@ -19669,7 +19674,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 562515
+      "UsersEstimate": 562516
     },
     {
       "ID": "AchClearElysium",
@@ -19677,7 +19682,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 464075
+      "UsersEstimate": 464076
     },
     {
       "ID": "AchClearElysiumEM",
@@ -19709,7 +19714,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 625798
+      "UsersEstimate": 625799
     },
     {
       "ID": "AchCrushedThanatos",
@@ -19733,7 +19738,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 196880
+      "UsersEstimate": 196881
     },
     {
       "ID": "AchForgedBond",
@@ -19741,7 +19746,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 196880
+      "UsersEstimate": 196881
     },
     {
       "ID": "AchFoundAllSummons",
@@ -19757,7 +19762,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 133597
+      "UsersEstimate": 133598
     },
     {
       "ID": "AchFoundSummon",
@@ -19773,7 +19778,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 478138
+      "UsersEstimate": 478139
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -19797,7 +19802,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 260163
+      "UsersEstimate": 260164
     },
     {
       "ID": "AchManyCosmetics",
@@ -19821,7 +19826,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 246100
+      "UsersEstimate": 246101
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -19869,7 +19874,7 @@
       "Name": "Well Versed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 119534
+      "UsersEstimate": 119535
     },
     {
       "ID": "AchOrpheusSingsAgain",
@@ -19893,7 +19898,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 260163
+      "UsersEstimate": 260164
     },
     {
       "ID": "AchPickedManyHammers",
@@ -19917,7 +19922,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 182817
+      "UsersEstimate": 182818
     },
     {
       "ID": "AchReachedEpilogue",
@@ -19957,7 +19962,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 295320
+      "UsersEstimate": 295321
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -19965,7 +19970,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 499232
+      "UsersEstimate": 499233
     },
     {
       "ID": "AchWeaponClears",
@@ -19996,15 +20001,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 703144,
+      "Progressed": 703145,
       "Completed": 6347
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-09T22:00:43.7251802+00:00",
-  "LastChanged_Achievements": "2023-09-10T05:04:42.9657769+00:00",
+  "LastChanged_Achievements": "2023-09-10T06:04:56.2616801+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.0033415+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:59:42.6535551+00:00",
-  "LastUpdate_Achievements": "2023-09-10T05:04:42.9659066+00:00"
+  "LastUpdate_Ratings": "2023-09-10T05:59:39.5538531+00:00",
+  "LastUpdate_Achievements": "2023-09-10T06:04:56.2617976+00:00"
 }

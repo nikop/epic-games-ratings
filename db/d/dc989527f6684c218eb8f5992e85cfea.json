@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11158,
+  "EOS_Progressed": 11159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9116,6 +9116,11 @@
       "Time": "2023-09-10T05:03:24.0086653+00:00",
       "NumProgressed": 11158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T06:03:35.5396698+00:00",
+      "NumProgressed": 11159,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9215,7 +9220,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -9319,21 +9324,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11158,
+      "Progressed": 11159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-10T05:03:24.0086649+00:00",
+  "LastChanged_Achievements": "2023-09-10T06:03:35.5396689+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3886572+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:58:36.0166152+00:00",
-  "LastUpdate_Achievements": "2023-09-10T05:03:24.0087364+00:00"
+  "LastUpdate_Ratings": "2023-09-10T05:58:31.1384552+00:00",
+  "LastUpdate_Achievements": "2023-09-10T06:03:35.5397451+00:00"
 }

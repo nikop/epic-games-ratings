@@ -21,6 +21,7 @@
 | The More the Merrier | 5.00% | ~7 |
 | Harbinger | 5.00% | ~7 |
 | Courier | 5.00% | ~7 |
+| Spiritual Journey | 5.00% | ~7 |
 | Quartermaster | 4.00% | ~5 |
 | Strategist | 4.00% | ~5 |
 | Potential Unlocked | 4.00% | ~5 |
@@ -28,7 +29,6 @@
 | The Voice of Hereafter | 4.00% | ~5 |
 | Been There | 4.00% | ~5 |
 | A Terrible Will | 4.00% | ~5 |
-| Spiritual Journey | 4.00% | ~5 |
 | Pilgrimage's End | 4.00% | ~5 |
 | Inquisitions of Discord | 4.00% | ~5 |
 | Merchant | 4.00% | ~5 |

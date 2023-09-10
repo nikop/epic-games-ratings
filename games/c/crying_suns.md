@@ -6,11 +6,11 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,256 |
-| Jeef Skeejj | 44.00% | ~205,504 |
-| Careful planning | 39.00% | ~182,151 |
+| The Shutdown | 66.00% | ~308,257 |
+| Jeef Skeejj | 44.00% | ~205,505 |
+| Careful planning | 39.00% | ~182,152 |
 | Second Coming | 33.00% | ~154,128 |
-| Jeef Skagg | 30.00% | ~140,116 |
+| Jeef Skagg | 30.00% | ~140,117 |
 | Mother | 25.00% | ~116,764 |
 | In space, no one can hear you scream | 24.00% | ~112,093 |
 | Chapter I: Echoes | 22.00% | ~102,752 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~70,058 |
 | Tetsuo | 11.00% | ~51,376 |
 | Plan for the worst | 11.00% | ~51,376 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,705 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,706 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,364 |
 | Through the mirror | 8.00% | ~37,364 |
 | General Vivar | 8.00% | ~37,364 |
@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,671 |
 | A Frozen Lady | 1.00% | ~4,671 |
 | Void Rule | 1.00% | ~4,671 |
-| Excelsior Mastery | 0.90% | ~4,203 |
+| Excelsior Mastery | 0.90% | ~4,204 |
 | The greatest admiral of all time | 0.50% | ~2,335 |
 | Hand of the Emperor | 0.40% | ~44 |
 | Soldiers of Fortune | 0.20% | ~22 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,054 (Ranked 37)  
+Progressed: 467,056 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 18 (0.00%) (Ranked 272)
 | 2023-09-07 | 466,884 | 18 |
 | 2023-09-08 | 466,961 | 18 |
 | 2023-09-09 | 467,041 | 18 |
-| 2023-09-10 | 467,054 | 18 |
+| 2023-09-10 | 467,056 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 359)  

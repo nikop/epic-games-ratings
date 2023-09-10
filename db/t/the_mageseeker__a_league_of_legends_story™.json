@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,7 +130,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2542,
+  "EOS_Progressed": 2543,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -3505,6 +3505,11 @@
       "Time": "2023-09-08T19:03:51.2881711+00:00",
       "NumProgressed": 2542,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-10T06:04:37.9975417+00:00",
+      "NumProgressed": 2543,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3516,7 +3521,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -3524,7 +3529,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -3532,7 +3537,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -3580,7 +3585,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2441
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3594,9 +3599,9 @@
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
       "SetID": "3pe2bac",
       "Name": "Everfrost",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2008
+      "UsersEstimate": 1984
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3692,7 +3697,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3700,7 +3705,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2339
+      "UsersEstimate": 2340
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3732,7 +3737,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3892,7 +3897,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3932,14 +3937,14 @@
       "Name": "Petricite Burst",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2542,
+      "Progressed": 2543,
       "Completed": 7
     }
   ],
@@ -3947,8 +3952,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-10T05:04:24.5931351+00:00",
+  "LastChanged_Achievements": "2023-09-10T06:04:37.9975409+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:13.613728+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:59:07.3658581+00:00",
-  "LastUpdate_Achievements": "2023-09-10T05:04:24.5932025+00:00"
+  "LastUpdate_Ratings": "2023-09-10T05:59:04.0786207+00:00",
+  "LastUpdate_Achievements": "2023-09-10T06:04:37.9976037+00:00"
 }

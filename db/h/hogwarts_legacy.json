@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 31,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7452,9 +7452,9 @@
       "Count": 627
     }
   ],
-  "EOS_Progressed": 296205,
+  "EOS_Progressed": 296207,
   "EOS_Completed": 469,
-  "EOS_NewPlayers": 3158,
+  "EOS_NewPlayers": 3130,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22897,6 +22897,11 @@
       "Time": "2023-09-10T05:06:22.0798723+00:00",
       "NumProgressed": 296205,
       "NumCompleted": 469
+    },
+    {
+      "Time": "2023-09-10T06:06:37.5582048+00:00",
+      "NumProgressed": 296207,
+      "NumCompleted": 469
     }
   ],
   "TotalAchievements": 45,
@@ -22916,7 +22921,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29620
+      "UsersEstimate": 29621
     },
     {
       "ID": "PFA_11",
@@ -22924,7 +22929,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29620
+      "UsersEstimate": 29621
     },
     {
       "ID": "PFA_12",
@@ -22932,7 +22937,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29620
+      "UsersEstimate": 29621
     },
     {
       "ID": "PFA_13",
@@ -22940,7 +22945,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26658
+      "UsersEstimate": 26659
     },
     {
       "ID": "PFA_14",
@@ -22964,7 +22969,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29620
+      "UsersEstimate": 29621
     },
     {
       "ID": "PFA_17",
@@ -23012,7 +23017,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26658
+      "UsersEstimate": 26659
     },
     {
       "ID": "PFA_22",
@@ -23036,7 +23041,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29620
+      "UsersEstimate": 29621
     },
     {
       "ID": "PFA_25",
@@ -23092,7 +23097,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29620
+      "UsersEstimate": 29621
     },
     {
       "ID": "PFA_31",
@@ -23132,7 +23137,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26658
+      "UsersEstimate": 26659
     },
     {
       "ID": "PFA_36",
@@ -23164,7 +23169,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29620
+      "UsersEstimate": 29621
     },
     {
       "ID": "PFA_4",
@@ -23212,7 +23217,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23696
+      "UsersEstimate": 23697
     },
     {
       "ID": "PFA_45",
@@ -23260,14 +23265,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23696
+      "UsersEstimate": 23697
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296205,
+      "Progressed": 296207,
       "Completed": 469
     }
   ],
@@ -23275,8 +23280,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-10T04:58:59.6845127+00:00",
-  "LastChanged_Achievements": "2023-09-10T05:06:22.0798719+00:00",
+  "LastChanged_Achievements": "2023-09-10T06:06:37.5582043+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:58:59.6845134+00:00",
-  "LastUpdate_Achievements": "2023-09-10T05:06:22.0800015+00:00"
+  "LastUpdate_Ratings": "2023-09-10T05:58:55.9594783+00:00",
+  "LastUpdate_Achievements": "2023-09-10T06:06:37.5583352+00:00"
 }

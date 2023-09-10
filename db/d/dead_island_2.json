@@ -4380,9 +4380,9 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 676888,
+  "EOS_Progressed": 676913,
   "EOS_Completed": 2129,
-  "EOS_NewPlayers": 4720,
+  "EOS_NewPlayers": 4719,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20345,6 +20345,11 @@
       "Time": "2023-09-10T05:06:34.9969618+00:00",
       "NumProgressed": 676888,
       "NumCompleted": 2129
+    },
+    {
+      "Time": "2023-09-10T06:06:51.1314858+00:00",
+      "NumProgressed": 676913,
+      "NumCompleted": 2129
     }
   ],
   "TotalAchievements": 45,
@@ -20514,9 +20519,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6769
+      "UsersEstimate": 13538
     },
     {
       "ID": "ach_impressive_aim",
@@ -20660,7 +20665,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3385
     },
     {
       "ID": "ach_thesacrifice",
@@ -20715,22 +20720,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676888,
+      "Progressed": 676913,
       "Completed": 2129
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 2428,
-      "Completed": 2428
+      "Progressed": 2453,
+      "Completed": 2453
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-10T02:16:29.6729227+00:00",
-  "LastChanged_Achievements": "2023-09-10T05:06:34.9969613+00:00",
+  "LastChanged_Achievements": "2023-09-10T06:06:51.1314851+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-10T04:59:55.5185375+00:00",
-  "LastUpdate_Achievements": "2023-09-10T05:06:34.9970766+00:00"
+  "LastUpdate_Ratings": "2023-09-10T05:59:53.4943718+00:00",
+  "LastUpdate_Achievements": "2023-09-10T06:06:51.1316178+00:00"
 }
