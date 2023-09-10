@@ -206,7 +206,7 @@
 | [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 3,541 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 3,623 | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Xenion](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-06-30 | - |  | - | - |
@@ -300,6 +300,7 @@
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2099-01-01 | - |  | - | - |
 | [Don Duality](games/2/2325c580f06d4eb4ba6814c1b6802bed.md) | 2099-01-01 | - |  | - | - |
 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 2099-01-01 | - |  | - | - |
+| [Dumbriel - Magnificent Adventure in Hell](games/d/dda406e1f3d54507b7de96870809da62.md) | 2099-01-01 | - |  | - | - |
 | [Dungeon Knight](games/b/bb813cebe527480abb7d459661931369.md) | 2099-01-01 | 12 (1,000 XP) | 1 | - | - |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2099-01-01 | - |  | - | - |
 | [Dwarf Delve](games/c/cabbe55543164097b412696d626120af.md) | 2099-01-01 | - |  | - | - |
