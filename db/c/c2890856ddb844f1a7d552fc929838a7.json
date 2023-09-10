@@ -82,7 +82,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 752,
+  "EOS_Progressed": 753,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -1347,6 +1347,11 @@
       "Time": "2023-09-10T17:04:35.6772646+00:00",
       "NumProgressed": 752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T20:04:24.8039932+00:00",
+      "NumProgressed": 753,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1367,7 +1372,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "AC02",
@@ -1375,7 +1380,7 @@
       "Name": "Blood and Dust",
       "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "AC03",
@@ -1383,7 +1388,7 @@
       "Name": "Blood and Gold",
       "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "AC04",
@@ -1391,7 +1396,7 @@
       "Name": "Blood and Iron",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "AC05",
@@ -1407,7 +1412,7 @@
       "Name": "The Last Ascension",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "AC07",
@@ -1421,9 +1426,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 399
+      "UsersEstimate": 392
     },
     {
       "ID": "AC09",
@@ -1431,7 +1436,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "AC10",
@@ -1455,7 +1460,7 @@
       "Name": "Canvas of Light and Time",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "AC13",
@@ -1471,7 +1476,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "AC15",
@@ -1479,7 +1484,7 @@
       "Name": "Full Devotion",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "AC16",
@@ -1493,9 +1498,9 @@
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 128
     },
     {
       "ID": "AC18",
@@ -1535,7 +1540,7 @@
       "Name": "Empty Handed",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "AC23",
@@ -1583,7 +1588,7 @@
       "Name": "The Punished One",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "AC29",
@@ -1623,7 +1628,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "AC34",
@@ -1655,7 +1660,7 @@
       "Name": "Storm of Death",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "AC38",
@@ -1726,7 +1731,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 752,
+      "Progressed": 753,
       "Completed": 0
     }
   ],
@@ -1734,8 +1739,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-10T19:04:42.3719717+00:00",
+  "LastChanged_Achievements": "2023-09-10T20:04:24.8039926+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:58:43.7533158+00:00",
-  "LastUpdate_Achievements": "2023-09-10T19:04:42.3720196+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:58:23.8380134+00:00",
+  "LastUpdate_Achievements": "2023-09-10T20:04:24.8040419+00:00"
 }

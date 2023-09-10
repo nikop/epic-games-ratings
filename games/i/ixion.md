@@ -1,23 +1,23 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 26.00% | ~819 |
-| Sputnik 2049 | 23.00% | ~724 |
-| Infinite Growth... | 22.00% | ~693 |
+| Wakey Wakey | 26.00% | ~820 |
+| Sputnik 2049 | 23.00% | ~725 |
+| Infinite Growth... | 22.00% | ~694 |
 | Without Breaking Some Eggs... | 21.00% | ~662 |
 | Ready for a New World | 16.00% | ~504 |
-| Space Society | 15.00% | ~472 |
-| A Thousand Strong | 15.00% | ~472 |
+| Space Society | 15.00% | ~473 |
+| A Thousand Strong | 15.00% | ~473 |
 | Permanent Redesigns | 14.00% | ~441 |
 | Fully Recycled | 12.00% | ~378 |
 | Ain't Nobody Got Time for That | 12.00% | ~378 |
 | The Ship of Theseus | 12.00% | ~378 |
-| Guy de Borderlands | 11.00% | ~346 |
-| Hope Seeker | 11.00% | ~346 |
+| Guy de Borderlands | 11.00% | ~347 |
+| Hope Seeker | 11.00% | ~347 |
 | Exceeding Capacity | 10.00% | ~315 |
 | Breaking Protocol | 10.00% | ~315 |
 | A Hunk of Junk | 9.00% | ~284 |
@@ -35,11 +35,11 @@ Rating: 4.55 (Ranked 487)
 | ...  in a finite world | 4.00% | ~126 |
 | BRAWL! | 4.00% | ~126 |
 | What the Ruins Teach Us | 4.00% | ~126 |
-| Sustainable Energy | 3.00% | ~94 |
-| In Dolos We Trust | 3.00% | ~94 |
-| Delivery! | 3.00% | ~94 |
-| Pedal to the Metal | 3.00% | ~94 |
-| Pulsar Disciple | 3.00% | ~94 |
+| Sustainable Energy | 3.00% | ~95 |
+| In Dolos We Trust | 3.00% | ~95 |
+| Delivery! | 3.00% | ~95 |
+| Pedal to the Metal | 3.00% | ~95 |
+| Pulsar Disciple | 3.00% | ~95 |
 | Mutual Loyalty | 2.00% | ~63 |
 | Catastrophe Avoided | 2.00% | ~63 |
 | Praise the Hull! | 2.00% | ~63 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 487)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,150 (Ranked 167)  
+Progressed: 3,153 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-07 | 3,144 | 0 |
 | 2023-09-08 | 3,146 | 0 |
 | 2023-09-09 | 3,147 | 0 |
-| 2023-09-10 | 3,150 | 0 |
+| 2023-09-10 | 3,153 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

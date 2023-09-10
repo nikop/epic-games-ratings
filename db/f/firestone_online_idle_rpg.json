@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -280,7 +280,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1924,
+  "EOS_Progressed": 1925,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -5515,6 +5515,11 @@
       "Time": "2023-09-10T15:06:49.4479682+00:00",
       "NumProgressed": 1924,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-10T20:05:22.9386692+00:00",
+      "NumProgressed": 1925,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5534,7 +5539,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "angelpower",
@@ -5782,7 +5787,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "hunter",
@@ -5814,7 +5819,7 @@
       "Name": "Legendary",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "lieutenant",
@@ -5830,7 +5835,7 @@
       "Name": "Lock And Load",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "masterenchanter",
@@ -5870,7 +5875,7 @@
       "Name": "Missions Dedication",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "movinguptheladder",
@@ -5886,7 +5891,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "mythicpower",
@@ -5902,7 +5907,7 @@
       "Name": "Natural Talent",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "pokerface",
@@ -5918,7 +5923,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "prestigiousx10",
@@ -5926,7 +5931,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "relicofthepast",
@@ -5990,7 +5995,7 @@
       "Name": "The Alchemist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "theexpeditioner",
@@ -6030,7 +6035,7 @@
       "Name": "The Unstoppable",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "titanpower",
@@ -6086,7 +6091,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "warmachinesarmy",
@@ -6118,14 +6123,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1924,
+      "Progressed": 1925,
       "Completed": 2
     }
   ],
@@ -6133,8 +6138,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T22:59:12.0182911+00:00",
-  "LastChanged_Achievements": "2023-09-10T19:05:40.4166948+00:00",
+  "LastChanged_Achievements": "2023-09-10T20:05:22.9386686+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.1476243+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:59:55.6276125+00:00",
-  "LastUpdate_Achievements": "2023-09-10T19:05:40.4168022+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:59:36.1816546+00:00",
+  "LastUpdate_Achievements": "2023-09-10T20:05:22.9387812+00:00"
 }

@@ -57,6 +57,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.40% | ~544 |
 | Thirst for Knowledge | 0.40% | ~544 |
 | Big Game Hunting | 0.40% | ~544 |
+| Booty by the Boatload | 0.40% | ~544 |
 | Scrapbooker | 0.40% | ~544 |
 | Archivist | 0.40% | ~544 |
 | Locally Sourced | 0.40% | ~544 |
@@ -90,7 +91,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.40% | ~544 |
 | Top of the World | 0.30% | ~408 |
 | Constellated | 0.30% | ~408 |
-| Booty by the Boatload | 0.30% | ~408 |
 | Fillin' the Bin | 0.30% | ~408 |
 | Industrial Evolution | 0.30% | ~408 |
 | By Your Powers Combined... | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135,993 (Ranked 68)  
+Progressed: 135,996 (Ranked 68)  
 Completed: 148 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 148 (0.11%) (Ranked 216)
 | 2023-09-07 | 135,807 | 146 |
 | 2023-09-08 | 135,871 | 147 |
 | 2023-09-09 | 135,932 | 147 |
-| 2023-09-10 | 135,993 | 148 |
+| 2023-09-10 | 135,996 | 148 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 71)  
 Sum: 27,202 (Ranked 48)  

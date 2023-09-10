@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.54 (Ranked 502)  
+Rating: 4.54 (Ranked 501)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,10 +21,10 @@ Rating: 4.54 (Ranked 502)
 | Bloodstained Hands | 6.00% | ~592 |
 | Not my First Time | 5.00% | ~494 |
 | Grand Theft Auto | 5.00% | ~494 |
+| High Quality H2O | 4.00% | ~395 |
 | Pie Guy | 4.00% | ~395 |
 | Running Rampant | 3.00% | ~296 |
 | Point A to Point B | 3.00% | ~296 |
-| High Quality H2O | 3.00% | ~296 |
 | Bull in a China Shop | 3.00% | ~296 |
 | Somebody Call the Wambulance? | 3.00% | ~296 |
 | Just Like the Real Thing | 3.00% | ~296 |
@@ -40,7 +40,7 @@ Rating: 4.54 (Ranked 502)
 | Done it All | 0.90% | ~89 |
 | Kingpin | 0.60% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,873 (Ranked 129)  
+Progressed: 9,874 (Ranked 129)  
 Completed: 55 (0.56%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 55 (0.56%) (Ranked 149)
 | 2023-09-07 | 9,847 | 54 |
 | 2023-09-08 | 9,856 | 55 |
 | 2023-09-09 | 9,865 | 55 |
-| 2023-09-10 | 9,873 | 55 |
+| 2023-09-10 | 9,874 | 55 |
 ## Awards
 Max (Great Boss Battles): 73  (Ranked 376)  
 Sum: 73 (Ranked 438)  

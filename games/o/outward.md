@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 486)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,8 +20,8 @@ Number of Ratings: 266  (23.09.2022)
 | The Power of Family | 17.00% | ~568 |
 | A Fortress Toppled! | 16.00% | ~535 |
 | Apex Predator | 16.00% | ~535 |
+| The Power of Faith | 13.00% | ~435 |
 | Strange amalgams | 12.00% | ~401 |
-| The Power of Faith | 12.00% | ~401 |
 | The Power of Freedom | 10.00% | ~334 |
 | Ace Detective | 8.00% | ~267 |
 | Gift from the Ancestors | 8.00% | ~267 |

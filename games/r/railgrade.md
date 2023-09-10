@@ -1,25 +1,25 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 502)  
+Rating: 4.54 (Ranked 501)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~19,097 |
-| Before the Downfall | 93.00% | ~18,123 |
-| Money like Water | 92.00% | ~17,928 |
-| Minimalist | 90.00% | ~17,538 |
-| Builder | 83.00% | ~16,174 |
-| Eraser | 70.00% | ~13,641 |
-| Pocket of Trains | 65.00% | ~12,667 |
+| Trevithick's Legacy | 98.00% | ~19,096 |
+| Before the Downfall | 93.00% | ~18,122 |
+| Money like Water | 92.00% | ~17,927 |
+| Minimalist | 90.00% | ~17,537 |
+| Builder | 83.00% | ~16,173 |
+| Eraser | 70.00% | ~13,640 |
+| Pocket of Trains | 65.00% | ~12,666 |
 | Inspector | 59.00% | ~11,497 |
-| Going the Distance | 54.00% | ~10,523 |
-| Oil Baron | 42.00% | ~8,185 |
-| Loads-a-Money | 42.00% | ~8,185 |
+| Going the Distance | 54.00% | ~10,522 |
+| Oil Baron | 42.00% | ~8,184 |
+| Loads-a-Money | 42.00% | ~8,184 |
 | Helper of the People | 39.00% | ~7,600 |
-| Simplification | 34.00% | ~6,626 |
-| Box of Trains | 33.00% | ~6,431 |
-| Let There be Light | 33.00% | ~6,431 |
+| Simplification | 34.00% | ~6,625 |
+| Box of Trains | 33.00% | ~6,430 |
+| Let There be Light | 33.00% | ~6,430 |
 | Hot Water | 31.00% | ~6,041 |
 | Indecisive | 29.00% | ~5,651 |
 | The scenic route | 28.00% | ~5,456 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 502)
 | Overdeer | 0.50% | ~97 |
 | Cloud Services | 0.30% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,487 (Ranked 113)  
+Progressed: 19,486 (Ranked 113)  
 Completed: 37 (0.19%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,9 +185,9 @@ Completed: 37 (0.19%) (Ranked 198)
 | 2023-09-09 | 19,523 | 37 |
 | 2023-09-10 | 19,505 | 37 |
 ## Awards
-Max (Quickly Understood Controls): 88  (Ranked 356)  
+Max (Quickly Understood Controls): 88  (Ranked 357)  
 Sum: 665 (Ranked 287)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 88 |

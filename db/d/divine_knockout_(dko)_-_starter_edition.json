@@ -4,7 +4,7 @@
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 783,
   "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 351,
@@ -1242,10 +1242,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 504,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-09-10T19:57:36.73909+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 505,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 504,
+  "NumberOfAwards": 505,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1259,7 +1265,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1339,8 +1345,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-09-10T12:59:47.9865008+00:00",
+  "LastChanged": "2023-09-10T19:57:36.7390898+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.2669685+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:57:57.4998319+00:00",
-  "LastUpdate_Achievements": "2023-09-10T19:04:17.8359987+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:57:36.7390911+00:00",
+  "LastUpdate_Achievements": "2023-09-10T20:04:00.5020633+00:00"
 }

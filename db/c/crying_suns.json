@@ -4,10 +4,10 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 565,
   "Ranking_Popularity": 268,
-  "Ranking_PopularitySum": 359,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467109,
+  "EOS_Progressed": 467110,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15643,6 +15643,11 @@
       "Time": "2023-09-10T19:05:51.3023679+00:00",
       "NumProgressed": 467109,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-10T20:05:33.7179066+00:00",
+      "NumProgressed": 467110,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15742,7 +15747,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308292
+      "UsersEstimate": 308293
     },
     {
       "ID": "achievement_story_landa",
@@ -15750,7 +15755,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23355
+      "UsersEstimate": 23356
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -15758,7 +15763,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23355
+      "UsersEstimate": 23356
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -15774,7 +15779,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116777
+      "UsersEstimate": 116778
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -15854,7 +15859,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23355
+      "UsersEstimate": 23356
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -16134,7 +16139,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23355
+      "UsersEstimate": 23356
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -16285,21 +16290,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11043,
+      "Progressed": 11044,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467109,
+      "Progressed": 467110,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-10T19:05:51.3023673+00:00",
+  "LastChanged_Achievements": "2023-09-10T20:05:33.717906+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.6494953+00:00",
-  "LastUpdate_Ratings": "2023-09-10T19:00:52.6367589+00:00",
-  "LastUpdate_Achievements": "2023-09-10T19:05:51.30254+00:00"
+  "LastUpdate_Ratings": "2023-09-10T20:02:15.6815112+00:00",
+  "LastUpdate_Achievements": "2023-09-10T20:05:33.7180868+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3711,9 +3711,9 @@
       "ID": "ReaperDefeated_Tentarus",
       "SetID": "3jha1np",
       "Name": "Death Comes For All",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "SacristaCompleted",
@@ -3775,9 +3775,9 @@
       "ID": "ExperiencedEversor",
       "SetID": "2im8phi",
       "Name": "Killing Rampage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ExperiencedVindicare",
@@ -3799,9 +3799,9 @@
       "ID": "Kills_TaintedSons_Execution",
       "SetID": "2im8phi",
       "Name": "Suffer Not the Mutant",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -3837,8 +3837,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-10T19:04:22.8785405+00:00",
+  "LastChanged_Achievements": "2023-09-10T20:04:05.7060862+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:06.3915871+00:00",
-  "LastUpdate_Ratings": "2023-09-10T19:00:35.728428+00:00",
-  "LastUpdate_Achievements": "2023-09-10T19:04:22.8786232+00:00"
+  "LastUpdate_Ratings": "2023-09-10T20:00:18.2698796+00:00",
+  "LastUpdate_Achievements": "2023-09-10T20:04:05.7061744+00:00"
 }

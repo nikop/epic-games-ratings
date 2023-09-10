@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 129,
@@ -634,9 +634,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9873,
+  "EOS_Progressed": 9874,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9249,6 +9249,11 @@
       "Time": "2023-09-10T17:06:00.1353184+00:00",
       "NumProgressed": 9873,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-10T20:05:48.0356702+00:00",
+      "NumProgressed": 9874,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 34,
@@ -9306,9 +9311,9 @@
       "ID": "ACH07",
       "SetID": "9llo822",
       "Name": "High Quality H2O",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 296
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH08",
@@ -9531,7 +9536,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9873,
+      "Progressed": 9874,
       "Completed": 55
     }
   ],
@@ -9539,8 +9544,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-10T04:59:47.9925269+00:00",
-  "LastChanged_Achievements": "2023-09-10T19:06:05.8095273+00:00",
+  "LastChanged_Achievements": "2023-09-10T20:05:48.0356694+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-10T19:00:10.0350108+00:00",
-  "LastUpdate_Achievements": "2023-09-10T19:06:05.8096024+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:59:51.7313938+00:00",
+  "LastUpdate_Achievements": "2023-09-10T20:05:48.0357507+00:00"
 }

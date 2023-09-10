@@ -10,15 +10,15 @@ Number of Ratings: 180  (23.09.2022)
 | First bus stop | 71.00% | ~1,163 |
 | First cargo item on board | 71.00% | ~1,163 |
 | First cargo item waiting | 71.00% | ~1,163 |
+| First passenger waiting | 68.00% | ~1,114 |
 | First passenger on board | 67.00% | ~1,097 |
-| First passenger waiting | 67.00% | ~1,097 |
 | First bus arrived | 66.00% | ~1,081 |
 | First train station | 64.00% | ~1,048 |
 | First steam train arrived | 60.00% | ~983 |
 | First industry upgraded | 57.00% | ~934 |
 | Transport millionaire | 55.00% | ~901 |
+| Cargo hub | 54.00% | ~885 |
 | Cadet | 53.00% | ~868 |
-| Cargo hub | 53.00% | ~868 |
 | Transport master | 52.00% | ~852 |
 | Sculpturer | 50.00% | ~819 |
 | Settled down | 49.00% | ~803 |
@@ -40,7 +40,7 @@ Number of Ratings: 180  (23.09.2022)
 | The ugly smell of success | 23.00% | ~377 |
 | Climate change | 22.00% | ~360 |
 | Old timer | 22.00% | ~360 |
-| Heavily loaded | 21.00% | ~344 |
+| Heavily loaded | 22.00% | ~360 |
 | Bob Ross | 16.00% | ~262 |
 | Campaign expert | 11.00% | ~180 |
 | Truck Fever | 11.00% | ~180 |

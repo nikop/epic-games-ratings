@@ -6,26 +6,26 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,057 |
-| ''I don't like you either!'' | 79.00% | ~40,768 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,156 |
-| ''Impressive, most impressive'' | 71.00% | ~36,640 |
-| The Phantom Menace | 59.00% | ~30,447 |
-| ''Aggressive Negotiations'' | 58.00% | ~29,931 |
-| ''I can fly anything'' | 57.00% | ~29,415 |
-| ''And who gave you permission...?'' | 53.00% | ~27,351 |
-| A New Hope | 47.00% | ~24,254 |
-| Attack of the Clones | 46.00% | ~23,738 |
-| Revenge of the Sith | 40.00% | ~20,642 |
-| The Empire Strikes Back | 37.00% | ~19,094 |
-| ''A fine addition to my collection'' | 37.00% | ~19,094 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,059 |
+| ''I don't like you either!'' | 79.00% | ~40,770 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,157 |
+| ''Impressive, most impressive'' | 71.00% | ~36,641 |
+| The Phantom Menace | 59.00% | ~30,448 |
+| ''Aggressive Negotiations'' | 58.00% | ~29,932 |
+| ''I can fly anything'' | 57.00% | ~29,416 |
+| ''And who gave you permission...?'' | 53.00% | ~27,352 |
+| A New Hope | 47.00% | ~24,255 |
+| Attack of the Clones | 46.00% | ~23,739 |
+| Revenge of the Sith | 40.00% | ~20,643 |
+| The Empire Strikes Back | 37.00% | ~19,095 |
+| ''A fine addition to my collection'' | 37.00% | ~19,095 |
 | Return of the Jedi | 32.00% | ~16,514 |
-| The Force Awakens | 26.00% | ~13,417 |
-| The Last Jedi | 22.00% | ~11,353 |
+| The Force Awakens | 26.00% | ~13,418 |
+| The Last Jedi | 23.00% | ~11,870 |
 | The Rise of Skywalker | 20.00% | ~10,321 |
 | ''It's true... all of it'' | 19.00% | ~9,805 |
 | ''Get the crews to their fighters'' | 18.00% | ~9,289 |
-| ''Raw, untamed power'' | 8.00% | ~4,128 |
+| ''Raw, untamed power'' | 8.00% | ~4,129 |
 | Rishi Maze | 5.00% | ~2,580 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,580 |
 | ''You may fire when ready'' | 3.00% | ~1,548 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''No more training, do you require'' | 1.00% | ~516 |
 | ''I've never seen a real one!'' | 0.90% | ~464 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,605 (Ranked 91)  
+Progressed: 51,607 (Ranked 91)  
 Completed: 231 (0.45%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 231 (0.45%) (Ranked 160)
 | 2023-09-07 | 51,511 | 230 |
 | 2023-09-08 | 51,565 | 230 |
 | 2023-09-09 | 51,590 | 230 |
-| 2023-09-10 | 51,605 | 231 |
+| 2023-09-10 | 51,607 | 231 |
 ## Awards
 Max (Great Boss Battles): 2,396  (Ranked 103)  
 Sum: 6,584 (Ranked 118)  

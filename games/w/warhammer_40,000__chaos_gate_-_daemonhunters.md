@@ -40,18 +40,19 @@ Number of Ratings: 371  (23.09.2022)
 | For the Machine God | 0.50% | ~16 |
 | Preservationist | 0.50% | ~16 |
 | Engine Kill | 0.50% | ~16 |
+| Death Comes For All | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |
 | Harvest No More | 0.40% | ~13 |
-| Death Comes For All | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
 | Hands-On Research | 0.30% | ~10 |
+| Suffer Not the Mutant | 0.30% | ~10 |
 | Blood and Iron | 0.20% | ~6 |
 | Warp Flickers | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
 | Reign of Confusion | 0.20% | ~6 |
 | Abomination | 0.20% | ~6 |
-| Suffer Not the Mutant | 0.20% | ~6 |
+| Killing Rampage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | The Flesh is Weak | 0.10% | ~3 |
 | Grand Master | 0.10% | ~3 |
@@ -66,7 +67,6 @@ Number of Ratings: 371  (23.09.2022)
 | Firing Squad | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
 | Strategic Command | 0.10% | ~3 |
-| Killing Rampage | 0.10% | ~3 |
 | Deadshot | 0.10% | ~3 |
 | Terminal Meltdown | 0.10% | ~3 |
 | Crisis Management | 0.00% | ~0 |

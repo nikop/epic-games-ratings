@@ -1098,9 +1098,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5044,
+  "EOS_Progressed": 5045,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9323,6 +9323,11 @@
       "Time": "2023-09-10T19:07:17.801134+00:00",
       "NumProgressed": 5044,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-10T20:07:09.394029+00:00",
+      "NumProgressed": 5045,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9430,7 +9435,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9438,7 +9443,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -9494,7 +9499,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3833
+      "UsersEstimate": 3834
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9518,7 +9523,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -9606,7 +9611,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -9653,15 +9658,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5044,
+      "Progressed": 5045,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-09T17:58:19.764548+00:00",
-  "LastChanged_Achievements": "2023-09-10T19:07:17.8011336+00:00",
+  "LastChanged_Achievements": "2023-09-10T20:07:09.3940284+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:58:25.9720566+00:00",
-  "LastUpdate_Achievements": "2023-09-10T19:07:17.8012121+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:58:05.2506527+00:00",
+  "LastUpdate_Achievements": "2023-09-10T20:07:09.3941112+00:00"
 }

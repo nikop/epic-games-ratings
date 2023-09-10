@@ -26,13 +26,13 @@ Rating: 4.47 (Ranked 613)
 | Der Geist | 16.00% | ~576 |
 | Close Quarters | 15.00% | ~540 |
 | Brains of the Operation | 15.00% | ~540 |
+| Fields of Glory | 14.00% | ~504 |
 | Skirmisher | 14.00% | ~504 |
 | Die Nussknacker Sweet! | 14.00% | ~504 |
 | Snake in the Grass | 14.00% | ~504 |
 | No Stone Unturned | 13.00% | ~468 |
 | Opposing Force | 13.00% | ~468 |
 | Enemy at the Gates | 13.00% | ~468 |
-| Fields of Glory | 13.00% | ~468 |
 | Set Europe Ablaze | 12.00% | ~432 |
 | Precision Is Key | 9.00% | ~324 |
 | My Little Friend | 9.00% | ~324 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7462,
+  "EOS_Progressed": 7464,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6874,6 +6874,11 @@
       "Time": "2023-09-10T13:08:10.1048222+00:00",
       "NumProgressed": 7462,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-10T20:05:27.257041+00:00",
+      "NumProgressed": 7464,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -7005,7 +7010,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "SHREDDER",
@@ -7052,7 +7057,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7462,
+      "Progressed": 7464,
       "Completed": 33
     }
   ],
@@ -7060,8 +7065,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-10T19:05:44.4709308+00:00",
+  "LastChanged_Achievements": "2023-09-10T20:05:27.2570402+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.0465299+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:59:42.78039+00:00",
-  "LastUpdate_Achievements": "2023-09-10T19:05:44.4709852+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:59:23.546383+00:00",
+  "LastUpdate_Achievements": "2023-09-10T20:05:27.2570994+00:00"
 }

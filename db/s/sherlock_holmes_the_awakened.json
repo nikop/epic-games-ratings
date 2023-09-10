@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2375,9 +2375,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 305
     },
     {
       "ID": "MQ03_5",
@@ -2399,9 +2399,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 248
     },
     {
       "ID": "MQ04_3",
@@ -2536,8 +2536,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-10T19:04:27.0890412+00:00",
+  "LastChanged_Achievements": "2023-09-10T20:04:10.0649608+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-10T18:59:28.8219113+00:00",
-  "LastUpdate_Achievements": "2023-09-10T19:04:27.0890753+00:00"
+  "LastUpdate_Ratings": "2023-09-10T19:59:08.9552364+00:00",
+  "LastUpdate_Achievements": "2023-09-10T20:04:10.064996+00:00"
 }

@@ -19,16 +19,16 @@
 | Arthur Hastings | 36.00% | ~4 |
 | An expert mediator | 27.00% | ~3 |
 | DI Hardwicke | 27.00% | ~3 |
+| Betty Allen | 18.00% | ~2 |
+| The Investigation Begins | 18.00% | ~2 |
 | Well-acquainted | 9.00% | ~1 |
 | Truth from within | 9.00% | ~1 |
 | An odd series of events | 9.00% | ~1 |
 | A rude awakening | 9.00% | ~1 |
 | A curious phrase | 9.00% | ~1 |
 | Anastasia Babanin | 9.00% | ~1 |
-| Betty Allen | 9.00% | ~1 |
 | Ms. Camilla B. Culsham | 9.00% | ~1 |
 | Irene Court-Smyth | 9.00% | ~1 |
-| The Investigation Begins | 9.00% | ~1 |
 | Nathaniel Dryden | 9.00% | ~1 |
 | Zakariya Demir | 9.00% | ~1 |
 | Bartholomew | 9.00% | ~1 |
