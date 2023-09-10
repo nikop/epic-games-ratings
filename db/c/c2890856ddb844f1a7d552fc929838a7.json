@@ -1350,9 +1350,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 500
     },
     {
       "ID": "AC04",
@@ -1703,8 +1703,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-09T09:58:35.689608+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:20:55.0109867+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:04:53.4373028+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:14:57.363983+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:20:55.0110228+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:58:51.6969669+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:04:53.437349+00:00"
 }

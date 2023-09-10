@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5241,
+  "EOS_Progressed": 5247,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5117,
+  "EOS_NewPlayers": 5100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -871,6 +871,11 @@
       "Time": "2023-09-10T02:19:29.5326126+00:00",
       "NumProgressed": 5241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T03:03:38.0192074+00:00",
+      "NumProgressed": 5247,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -923,7 +928,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "CreditsEarned50000",
@@ -995,7 +1000,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "GamesPlayed1",
@@ -1003,7 +1008,7 @@
       "Name": "Played a Match",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1836
     },
     {
       "ID": "GamesPlayed10",
@@ -1027,7 +1032,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "GamesWon10",
@@ -1075,7 +1080,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "HAUpgraded1",
@@ -1243,7 +1248,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "MaxTowersKilled3",
@@ -1251,7 +1256,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "MaxTowersKilled6",
@@ -1291,7 +1296,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "NeutralKills200",
@@ -1307,7 +1312,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "PlayerKills10",
@@ -1339,7 +1344,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "QAUpgraded1",
@@ -1355,7 +1360,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "RAPurchased1",
@@ -1371,7 +1376,7 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "RSPurchased1",
@@ -1379,7 +1384,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "SEUpgraded1",
@@ -1395,7 +1400,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "SOVUpgraded1",
@@ -1427,7 +1432,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "TGPurchased1",
@@ -1467,21 +1472,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5241,
+      "Progressed": 5247,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:19:29.5326122+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:03:38.0192067+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:01.3447006+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:14:38.093005+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:19:29.5326889+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:58:22.8234848+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:03:38.0192928+00:00"
 }

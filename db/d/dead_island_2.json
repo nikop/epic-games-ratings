@@ -4380,9 +4380,9 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 676826,
+  "EOS_Progressed": 676848,
   "EOS_Completed": 2129,
-  "EOS_NewPlayers": 4716,
+  "EOS_NewPlayers": 4719,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -20330,6 +20330,11 @@
       "Time": "2023-09-10T02:23:20.8786579+00:00",
       "NumProgressed": 676826,
       "NumCompleted": 2129
+    },
+    {
+      "Time": "2023-09-10T03:08:15.3831873+00:00",
+      "NumProgressed": 676848,
+      "NumCompleted": 2129
     }
   ],
   "TotalAchievements": 45,
@@ -20373,7 +20378,7 @@
       "Name": "Make it So",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ach_big_name_in_town",
@@ -20413,7 +20418,7 @@
       "Name": "On Safari",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ach_defensive",
@@ -20435,9 +20440,9 @@
       "ID": "ach_doom_buddies",
       "SetID": "7km39fm",
       "Name": "Slayer Squad",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6091
+      "UsersEstimate": 6768
     },
     {
       "ID": "ach_explorer",
@@ -20477,7 +20482,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ach_hazardous_materials",
@@ -20517,7 +20522,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ach_investigator",
@@ -20653,7 +20658,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 6091
+      "UsersEstimate": 6092
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -20669,7 +20674,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -20700,22 +20705,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 676826,
+      "Progressed": 676848,
       "Completed": 2129
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 2366,
-      "Completed": 2366
+      "Progressed": 2388,
+      "Completed": 2388
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-10T02:16:29.6729227+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:23:20.8786574+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:08:15.3831865+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:16:29.6729233+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:23:20.878762+00:00"
+  "LastUpdate_Ratings": "2023-09-10T03:01:06.8577519+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:08:15.3833516+00:00"
 }

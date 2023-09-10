@@ -4529,9 +4529,9 @@
       "ID": "4",
       "SetID": "dm385hd",
       "Name": "Adventurer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 127
+      "UsersEstimate": 159
     },
     {
       "ID": "5",
@@ -4554,8 +4554,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:22:44.4656265+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:07:25.5630483+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.0204593+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:15:59.9766597+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:22:44.4656642+00:00"
+  "LastUpdate_Ratings": "2023-09-10T03:00:23.4406341+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:07:25.5630878+00:00"
 }

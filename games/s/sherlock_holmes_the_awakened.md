@@ -5,36 +5,36 @@ Rating: 4.68 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 66.00% | ~416 |
-| Read Between The Lines | 65.00% | ~410 |
-| High Profile | 59.00% | ~372 |
-| Whispers In The Dark | 58.00% | ~366 |
-| Fond Memories | 55.00% | ~347 |
-| History Check | 53.00% | ~334 |
-| A Method To His Madness | 53.00% | ~334 |
-| The New World | 49.00% | ~309 |
-| Open Sesame | 49.00% | ~309 |
-| Sticky Fingers | 49.00% | ~309 |
+| To Hell In A Handcart | 66.00% | ~417 |
+| Read Between The Lines | 64.00% | ~404 |
+| High Profile | 59.00% | ~373 |
+| Whispers In The Dark | 57.00% | ~360 |
+| Fond Memories | 55.00% | ~348 |
+| History Check | 53.00% | ~335 |
+| A Method To His Madness | 53.00% | ~335 |
+| The New World | 49.00% | ~310 |
+| Open Sesame | 49.00% | ~310 |
+| Sticky Fingers | 49.00% | ~310 |
 | Gaze Into The Abyss | 48.00% | ~303 |
 | Knives Out | 48.00% | ~303 |
 | Land, Ho! | 48.00% | ~303 |
 | Lock, Stock, And Barrel | 47.00% | ~297 |
 | Back In The Saddle | 47.00% | ~297 |
 | No Man Is An Island | 47.00% | ~297 |
-| At Wits' End | 46.00% | ~290 |
-| Fhtagn! | 45.00% | ~284 |
+| At Wits' End | 46.00% | ~291 |
 | Up In Flames | 44.00% | ~278 |
-| Bookworm | 43.00% | ~271 |
+| Fhtagn! | 44.00% | ~278 |
+| Bookworm | 43.00% | ~272 |
 | Going Once... | 39.00% | ~246 |
 | Let Me Be Frank | 39.00% | ~246 |
-| Brain Food | 37.00% | ~233 |
-| No Stone Unturned | 37.00% | ~233 |
+| Brain Food | 37.00% | ~234 |
+| No Stone Unturned | 37.00% | ~234 |
 | Read It And Weep | 23.00% | ~145 |
 | Curiosity Killed The Cat | 20.00% | ~126 |
 | Big Breakthrough | 14.00% | ~88 |
 | Reawakened | 5.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 631 (Ranked 228)  
+Progressed: 632 (Ranked 228)  
 Completed: 25 (3.96%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 25 (3.96%) (Ranked 63)
 | 2023-09-07 | 623 | 25 |
 | 2023-09-08 | 627 | 25 |
 | 2023-09-09 | 631 | 25 |
+| 2023-09-10 | 632 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

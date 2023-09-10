@@ -704,9 +704,9 @@
       "ID": "ach_complete_30",
       "SetID": "5e260i9",
       "Name": "Brilliant mind!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 200,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_complete_tutorial",
@@ -736,9 +736,9 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_items_50",
@@ -791,8 +791,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:23:38.9637246+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:08:41.009687+00:00",
   "LastUpdate_AppInfo": "2023-09-08T01:38:48.1675147+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:14:51.0880917+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:23:38.9637355+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:58:42.2092887+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:08:41.0097036+00:00"
 }

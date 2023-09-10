@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38675,
+  "EOS_Progressed": 38678,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 800,
+  "EOS_NewPlayers": 797,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16591,6 +16591,11 @@
       "Time": "2023-09-10T02:21:22.8138133+00:00",
       "NumProgressed": 38675,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T03:05:31.793915+00:00",
+      "NumProgressed": 38678,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -16626,7 +16631,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4254
+      "UsersEstimate": 4255
     },
     {
       "ID": "distance500000",
@@ -16682,7 +16687,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "journeyer",
@@ -16826,7 +16831,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4254
+      "UsersEstimate": 4255
     },
     {
       "ID": "ultimate",
@@ -16866,7 +16871,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "unlockpaz",
@@ -16913,15 +16918,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38675,
+      "Progressed": 38678,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:21:22.8138129+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:05:31.7939142+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.6421316+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:17:18.8725605+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:21:22.8139112+00:00"
+  "LastUpdate_Ratings": "2023-09-10T03:02:26.0604916+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:05:31.7940611+00:00"
 }

@@ -6502,9 +6502,9 @@
       "Count": 3407
     }
   ],
-  "EOS_Progressed": 228189,
+  "EOS_Progressed": 228191,
   "EOS_Completed": 2265,
-  "EOS_NewPlayers": 1452,
+  "EOS_NewPlayers": 1449,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22247,6 +22247,11 @@
       "Time": "2023-09-10T02:19:19.9981847+00:00",
       "NumProgressed": 228189,
       "NumCompleted": 2265
+    },
+    {
+      "Time": "2023-09-10T03:03:25.7318062+00:00",
+      "NumProgressed": 228191,
+      "NumCompleted": 2265
     }
   ],
   "TotalAchievements": 520,
@@ -24744,9 +24749,9 @@
       "ID": "objective_completed_59",
       "SetID": "cc37lbc",
       "Name": "Running of the Saurs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 456
     },
     {
       "ID": "objective_completed_590",
@@ -26417,21 +26422,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194463,
+      "Progressed": 194465,
       "Completed": 3416
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228189,
+      "Progressed": 228191,
       "Completed": 2265
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-10T01:43:18.5216455+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:19:19.9981842+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:03:25.7318058+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:16:04.3760897+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:19:20.0006336+00:00"
+  "LastUpdate_Ratings": "2023-09-10T03:00:29.4983055+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:03:25.7346471+00:00"
 }

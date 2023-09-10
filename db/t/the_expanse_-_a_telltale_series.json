@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10342,
+  "EOS_Progressed": 10344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4874,6 +4874,11 @@
       "Time": "2023-09-10T01:50:13.9447444+00:00",
       "NumProgressed": 10342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T03:07:23.5499506+00:00",
+      "NumProgressed": 10344,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -4900,9 +4905,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1241
     },
     {
       "ID": "12",
@@ -4966,7 +4971,7 @@
       "Name": "Martian Music",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "2",
@@ -5062,7 +5067,7 @@
       "Name": "Captain Drummer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "30",
@@ -5125,7 +5130,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10342,
+      "Progressed": 10344,
       "Completed": 0
     }
   ],
@@ -5133,8 +5138,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-07T17:03:40.5471385+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:22:42.8598527+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:07:23.5499501+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:17:10.9677648+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:22:42.8598923+00:00"
+  "LastUpdate_Ratings": "2023-09-10T03:02:15.4440551+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:07:23.5500096+00:00"
 }

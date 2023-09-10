@@ -4132,9 +4132,9 @@
       "Count": 876
     }
   ],
-  "EOS_Progressed": 1651954,
+  "EOS_Progressed": 1652034,
   "EOS_Completed": 579,
-  "EOS_NewPlayers": 17651,
+  "EOS_NewPlayers": 17648,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -14982,6 +14982,11 @@
       "Time": "2023-09-10T02:23:05.236156+00:00",
       "NumProgressed": 1651954,
       "NumCompleted": 579
+    },
+    {
+      "Time": "2023-09-10T03:07:55.6571139+00:00",
+      "NumProgressed": 1652034,
+      "NumCompleted": 579
     }
   ],
   "TotalAchievements": 1328,
@@ -15049,7 +15054,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 33039
+      "UsersEstimate": 33041
     },
     {
       "ID": "armed_and_dangerous",
@@ -15065,7 +15070,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 33039
+      "UsersEstimate": 33041
     },
     {
       "ID": "armored_1",
@@ -16193,7 +16198,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 66078
+      "UsersEstimate": 66081
     },
     {
       "ID": "brooklyn_2",
@@ -16417,7 +16422,7 @@
       "Name": "Virus",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 33039
+      "UsersEstimate": 33041
     },
     {
       "ID": "cac_29",
@@ -19303,9 +19308,9 @@
       "ID": "glace_2",
       "SetID": "bkjdbk8",
       "Name": "Breaking the Four-Piece Suit",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1652
+      "UsersEstimate": 3304
     },
     {
       "ID": "glace_3",
@@ -19465,7 +19470,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 33039
+      "UsersEstimate": 33041
     },
     {
       "ID": "gorilla_1",
@@ -19609,7 +19614,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49559
+      "UsersEstimate": 49561
     },
     {
       "ID": "halloween_1",
@@ -19745,7 +19750,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 33039
+      "UsersEstimate": 33041
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -20705,7 +20710,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49559
+      "UsersEstimate": 49561
     },
     {
       "ID": "no_turning_back",
@@ -20713,7 +20718,7 @@
       "Name": "No Turning Back",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49559
+      "UsersEstimate": 49561
     },
     {
       "ID": "orange_1",
@@ -25497,7 +25502,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 33039
+      "UsersEstimate": 33041
     },
     {
       "ID": "wwh_1",
@@ -25601,7 +25606,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 49559
+      "UsersEstimate": 49561
     },
     {
       "ID": "you_shall_not_pass",
@@ -25616,13 +25621,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1651954,
+      "Progressed": 1652034,
       "Completed": 579
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1651954,
+      "Progressed": 1652034,
       "Completed": 59
     }
   ],
@@ -25630,8 +25635,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2023-09-09T23:58:44.0933167+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:23:05.2361555+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:07:55.6571128+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:55.06504+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:15:22.5891269+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:23:05.2501703+00:00"
+  "LastUpdate_Ratings": "2023-09-10T02:59:28.6247133+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:07:55.6749704+00:00"
 }

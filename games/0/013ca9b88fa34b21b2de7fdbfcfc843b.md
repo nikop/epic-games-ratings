@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 79.00% | ~333 |
-| A Thorny Situation | 72.00% | ~304 |
-| ... And Spit Back Out | 53.00% | ~224 |
-| Break-Net Speed | 45.00% | ~190 |
-| Humble Collector | 33.00% | ~139 |
-| Miner 49er | 32.00% | ~135 |
-| Bramble Breaker | 30.00% | ~127 |
+| Azoria Beckons | 79.00% | ~336 |
+| A Thorny Situation | 72.00% | ~306 |
+| ... And Spit Back Out | 53.00% | ~225 |
+| Break-Net Speed | 45.00% | ~191 |
+| Humble Collector | 33.00% | ~140 |
+| Miner 49er | 32.00% | ~136 |
+| Bramble Breaker | 30.00% | ~128 |
 | Oui, Chef! | 16.00% | ~68 |
 | Calm Sailing | 13.00% | ~55 |
-| Open the Gate! | 9.00% | ~38 |
-| Lumberjack | 9.00% | ~38 |
-| Beach Comber | 7.00% | ~30 |
-| Mist Walker | 5.00% | ~21 |
-| Botanical Breakthrough | 5.00% | ~21 |
+| Open the Gate! | 10.00% | ~42 |
+| Lumberjack | 10.00% | ~42 |
+| Beach Comber | 8.00% | ~34 |
+| Mist Walker | 6.00% | ~26 |
+| Botanical Breakthrough | 4.00% | ~17 |
 | Chatty Neighbor | 3.00% | ~13 |
 | Right Tool For the Job | 3.00% | ~13 |
 | Captain of Cozy | 3.00% | ~13 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.20% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 422 (Ranked 251)  
+Progressed: 425 (Ranked 250)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
-| 2023-09-10 | 422 | 0 |
+| 2023-09-10 | 425 | 0 |

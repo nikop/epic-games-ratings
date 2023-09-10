@@ -7098,9 +7098,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 800653,
+  "EOS_Progressed": 800656,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 1065,
+  "EOS_NewPlayers": 1068,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22873,6 +22873,11 @@
       "Time": "2023-09-10T02:22:07.8710407+00:00",
       "NumProgressed": 800653,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-10T03:06:34.667258+00:00",
+      "NumProgressed": 800656,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 82,
@@ -22908,7 +22913,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 128104
+      "UsersEstimate": 128105
     },
     {
       "ID": "Awakening",
@@ -22916,7 +22921,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 168137
+      "UsersEstimate": 168138
     },
     {
       "ID": "BadGirl",
@@ -22964,7 +22969,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 256209
+      "UsersEstimate": 256210
     },
     {
       "ID": "Bookworm",
@@ -22980,7 +22985,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96078
+      "UsersEstimate": 96079
     },
     {
       "ID": "Casanova",
@@ -22996,7 +23001,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200163
+      "UsersEstimate": 200164
     },
     {
       "ID": "Chivalrous",
@@ -23044,7 +23049,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80065
+      "UsersEstimate": 80066
     },
     {
       "ID": "DavidHorak",
@@ -23084,7 +23089,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184150
+      "UsersEstimate": 184151
     },
     {
       "ID": "Fighter",
@@ -23460,7 +23465,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96078
+      "UsersEstimate": 96079
     },
     {
       "ID": "TisButAScratch",
@@ -23539,15 +23544,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 800653,
+      "Progressed": 800656,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-09T22:01:03.002958+00:00",
-  "LastChanged_Achievements": "2023-09-10T02:22:07.8710401+00:00",
+  "LastChanged_Achievements": "2023-09-10T03:06:34.6672574+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.0692878+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:16:29.6689207+00:00",
-  "LastUpdate_Achievements": "2023-09-10T02:22:07.8711899+00:00"
+  "LastUpdate_Ratings": "2023-09-10T03:01:06.7964084+00:00",
+  "LastUpdate_Achievements": "2023-09-10T03:06:34.6674788+00:00"
 }
