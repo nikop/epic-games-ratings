@@ -11,21 +11,21 @@
 | 9 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 23.57% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.20% |
 | 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.55% |
 | 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 16 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.86% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
-| 19 | [Island Cities](games/i/island_cities.md) | 14.29% |
+| 19 | [Island Cities](games/i/island_cities.md) | 14.43% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
 | 22 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.09% |
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.00% |
 | 25 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.98% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.87% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
@@ -75,7 +75,7 @@
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.90% |
+| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.89% |
 | 77 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.86% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -90,7 +90,7 @@
 | 88 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.42% |
 | 89 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
-| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.24% |
+| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.23% |
 | 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.22% |
 | 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.17% |
 | 94 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
@@ -127,8 +127,8 @@
 | 125 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
-| 128 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.91% |
-| 129 | [Hades](games/h/hades.md) | 0.90% |
+| 128 | [Hades](games/h/hades.md) | 0.90% |
+| 128 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.90% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 131 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 132 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
@@ -177,8 +177,8 @@
 | 173 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 173 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
 | 177 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 178 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
-| 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.31% |
+| 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 180 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 181 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 181 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
@@ -583,4 +583,4 @@
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,215 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,216 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
