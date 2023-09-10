@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
     "PcReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -844,6 +844,11 @@
       "Time": "2023-09-08T14:03:56.5184171+00:00",
       "NumProgressed": 416,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-10T16:04:13.7820681+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -903,7 +908,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "GB_GOURMET",
@@ -943,15 +948,15 @@
       "Name": "HIGH TECHNOLOGIES",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "GB_HONORS_STUDENT",
       "SetID": "8ga3kd9",
       "Name": "HONORS STUDENT",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -975,7 +980,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "GB_KEVIN",
@@ -1007,7 +1012,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -1023,7 +1028,7 @@
       "Name": "PATTY-KILLER",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "GB_PRUDENT",
@@ -1071,14 +1076,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 2
     }
   ],
@@ -1086,8 +1091,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-10T15:05:17.0798311+00:00",
+  "LastChanged_Achievements": "2023-09-10T16:04:13.7820671+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:56.7034313+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:01:59.857949+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:05:17.0798731+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:00:12.6159623+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:04:13.7820938+00:00"
 }

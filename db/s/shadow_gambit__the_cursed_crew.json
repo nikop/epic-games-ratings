@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -1671,9 +1671,9 @@
       "ID": "_07_FinishAct3",
       "SetID": "8a1io5d",
       "Name": "All Good Things",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 106
     },
     {
       "ID": "_08_Completion_10",
@@ -1743,17 +1743,17 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 156
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
       "SetID": "8a1io5d",
       "Name": "With Great Power\u2026",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 262
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1840,8 +1840,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-10T15:03:41.3231652+00:00",
+  "LastChanged_Achievements": "2023-09-10T16:03:12.5846552+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:01:23.1612798+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:03:41.3232166+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:59:46.5441154+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:03:12.5846844+00:00"
 }

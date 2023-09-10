@@ -1,7 +1,7 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.03 (Ranked 937)  
+Rating: 4.03 (Ranked 938)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -58,7 +58,7 @@ Number of Ratings: 53  (23.09.2022)
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 876 (Ranked 213)  
-Completed: 1 (0.11%) (Ranked 215)  
+Completed: 1 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

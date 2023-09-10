@@ -6,7 +6,7 @@
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
@@ -976,9 +976,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2315,
+  "EOS_Progressed": 2324,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2316,6 +2316,11 @@
       "Time": "2023-09-10T15:05:26.8589885+00:00",
       "NumProgressed": 2315,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-10T16:04:20.4970419+00:00",
+      "NumProgressed": 2324,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2328,7 +2333,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "a_10",
@@ -2360,7 +2365,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "a_16",
@@ -2376,7 +2381,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 813
     },
     {
       "ID": "a_19",
@@ -2424,7 +2429,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "a_25",
@@ -2464,7 +2469,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "a_30",
@@ -2560,7 +2565,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "a_9",
@@ -2575,7 +2580,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2315,
+      "Progressed": 2324,
       "Completed": 4
     }
   ],
@@ -2583,8 +2588,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-09T20:59:06.8541677+00:00",
-  "LastChanged_Achievements": "2023-09-10T15:05:26.8589878+00:00",
+  "LastChanged_Achievements": "2023-09-10T16:04:20.4970413+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:00:45.5090963+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:05:26.859023+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:59:21.4141104+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:04:20.4970732+00:00"
 }

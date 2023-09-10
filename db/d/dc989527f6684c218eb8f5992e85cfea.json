@@ -3,9 +3,9 @@
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11176,
+  "EOS_Progressed": 11179,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
@@ -9151,6 +9151,11 @@
       "Time": "2023-09-10T14:03:43.44561+00:00",
       "NumProgressed": 11176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T16:03:31.8022518+00:00",
+      "NumProgressed": 11179,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9234,7 +9239,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4917
+      "UsersEstimate": 4919
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -9330,7 +9335,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2235
+      "UsersEstimate": 2236
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -9361,14 +9366,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11176,
+      "Progressed": 11179,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-10T15:04:18.2899793+00:00",
+  "LastChanged_Achievements": "2023-09-10T16:03:31.8022514+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3886572+00:00",
-  "LastUpdate_Ratings": "2023-09-10T14:59:42.3916165+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:04:18.2900527+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:58:39.2639779+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:03:31.8023218+00:00"
 }

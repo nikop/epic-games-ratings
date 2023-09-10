@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1420,9 +1420,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_S4",
@@ -1436,9 +1436,9 @@
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1452,9 +1452,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
@@ -1468,8 +1468,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-10T15:06:46.3639725+00:00",
+  "LastChanged_Achievements": "2023-09-10T16:05:18.8341277+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:00:13.5497609+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:06:46.3640057+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:58:59.78884+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:05:18.8341541+00:00"
 }

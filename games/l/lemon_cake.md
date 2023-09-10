@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Proving Your Skills | 92.00% | ~137 |
-| Bakery Startup | 40.00% | ~60 |
+| Bakery Startup | 41.00% | ~61 |
 | Apprentice Baker | 33.00% | ~49 |
 | The Kitchen Is On Fire | 33.00% | ~49 |
 | Perfect Server | 15.00% | ~22 |
@@ -23,7 +23,7 @@
 | A Loving Home | 5.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 324)  
-Completed: 1 (0.67%) (Ranked 137)  
+Completed: 1 (0.67%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Helium Rain Mod Kit",
   "ProductSlug": "helium-rain",
   "Ranking_EOS_Progress": 585,
-  "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T10:59:01.1123957+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:02:03.5481235+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:08:03.5510935+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:00:14.8675209+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:06:12.9637914+00:00"
 }

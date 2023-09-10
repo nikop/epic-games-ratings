@@ -6,7 +6,7 @@
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 22,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
@@ -4324,10 +4324,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8852,
       "NumberOfAwardsMax": 5990
+    },
+    {
+      "Time": "2023-09-10T16:00:00.626534+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8854,
+      "NumberOfAwardsMax": 5990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8852,
+  "NumberOfAwards": 8854,
   "NumberOfAwardsMax": 5990,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4353,7 +4359,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 403
+      "Count": 405
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4386,10 +4392,10 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 677264,
-  "EOS_Completed": 2132,
-  "EOS_NewPlayers": 4696,
-  "EOS_NewCompleters": 26,
+  "EOS_Progressed": 677321,
+  "EOS_Completed": 2133,
+  "EOS_NewPlayers": 4701,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -20401,6 +20407,11 @@
       "Time": "2023-09-10T15:08:54.9309787+00:00",
       "NumProgressed": 677264,
       "NumCompleted": 2132
+    },
+    {
+      "Time": "2023-09-10T16:06:50.0498196+00:00",
+      "NumProgressed": 677321,
+      "NumCompleted": 2133
     }
   ],
   "TotalAchievements": 45,
@@ -20436,7 +20447,7 @@
       "Name": "Anger Management",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20460,7 +20471,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "ach_bookworm",
@@ -20492,7 +20503,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -20572,7 +20583,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13545
+      "UsersEstimate": 13546
     },
     {
       "ID": "ach_impressive_aim",
@@ -20626,9 +20637,9 @@
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5418
+      "UsersEstimate": 6096
     },
     {
       "ID": "ach_magnum_opus",
@@ -20660,7 +20671,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "ach_salvation",
@@ -20716,7 +20727,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3387
     },
     {
       "ID": "ach_thesacrifice",
@@ -20724,7 +20735,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6096
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -20748,7 +20759,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13545
+      "UsersEstimate": 13546
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20756,7 +20767,7 @@
       "Name": "Rising Star",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3387
     },
     {
       "ID": "ach_well_trained",
@@ -20771,22 +20782,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 677264,
-      "Completed": 2132
+      "Progressed": 677321,
+      "Completed": 2133
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 2804,
-      "Completed": 2804
+      "Progressed": 2861,
+      "Completed": 2861
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-10T10:00:11.3321699+00:00",
-  "LastChanged_Achievements": "2023-09-10T15:08:54.9309778+00:00",
+  "LastChanged": "2023-09-10T16:00:00.6265338+00:00",
+  "LastChanged_Achievements": "2023-09-10T16:06:50.0498188+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:01:43.7663846+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:08:54.9312244+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:00:00.6265344+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:06:50.0499503+00:00"
 }

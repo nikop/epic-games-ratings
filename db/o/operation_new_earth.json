@@ -3,9 +3,9 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1284,
+  "EOS_Progressed": 1285,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4591,6 +4591,11 @@
       "Time": "2023-09-10T15:09:28.5374738+00:00",
       "NumProgressed": 1284,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T16:07:14.6778636+00:00",
+      "NumProgressed": 1285,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4778,7 +4783,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4905,14 +4910,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1284,
+      "Progressed": 1285,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-10T15:09:28.5374731+00:00",
+  "LastChanged_Achievements": "2023-09-10T16:07:14.6778632+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-10T14:59:14.2647217+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:09:28.5375761+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:58:21.0273134+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:07:14.6779197+00:00"
 }

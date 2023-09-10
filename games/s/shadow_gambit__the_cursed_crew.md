@@ -8,17 +8,17 @@ Rating: 4.73 (Ranked 162)
 | A New Journey | 71.00% | ~443 |
 | The Adventure Begins | 55.00% | ~343 |
 | Swabbie | 43.00% | ~268 |
-| With Great Power… | 41.00% | ~256 |
+| With Great Power… | 42.00% | ~262 |
 | This Belongs in a Museum | 37.00% | ~231 |
 | The Gambit Has Begun | 33.00% | ~206 |
 | Powder Monkey | 30.00% | ~187 |
 | Somewhere Deep in the Lost Caribbean | 28.00% | ~175 |
 | Mirror Mirror on the Wall | 27.00% | ~168 |
-| Pirates Assemble! | 24.00% | ~150 |
+| Pirates Assemble! | 25.00% | ~156 |
 | Buccaneer | 22.00% | ~137 |
 | Fishy Fish | 22.00% | ~137 |
+| All Good Things | 17.00% | ~106 |
 | Seadog | 17.00% | ~106 |
-| All Good Things | 16.00% | ~100 |
 | Persistent Parasite | 16.00% | ~100 |
 | Jaded Judge | 12.00% | ~75 |
 | Privateer | 11.00% | ~69 |

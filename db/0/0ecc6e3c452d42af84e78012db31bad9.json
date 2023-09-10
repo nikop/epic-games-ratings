@@ -3,7 +3,7 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 168,
-  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
@@ -6210,9 +6210,9 @@
       "ID": "ach_tornado",
       "SetID": "3h4khpo",
       "Name": "Aeolus",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 788
+      "UsersEstimate": 817
     }
   ],
   "AchievementSets": [
@@ -6225,8 +6225,8 @@
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-10T15:07:43.7189034+00:00",
+  "LastChanged_Achievements": "2023-09-10T16:05:58.7907248+00:00",
   "LastUpdate_AppInfo": "2023-09-08T13:56:57.5015536+00:00",
-  "LastUpdate_Ratings": "2023-09-10T14:59:36.7455171+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:07:43.7189607+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:58:35.5049314+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:05:58.7907736+00:00"
 }

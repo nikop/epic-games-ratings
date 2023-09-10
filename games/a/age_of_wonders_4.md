@@ -49,15 +49,15 @@ Rating: 4.60 (Ranked 393)
 | Pruning for Progress | 1.00% | ~52 |
 | Snap Out of It! | 0.80% | ~41 |
 | Betrayal Most Foul | 0.50% | ~26 |
-| I Want to Break Free | 0.30% | ~15 |
+| I Want to Break Free | 0.30% | ~16 |
 | Returning Circle | 0.20% | ~10 |
 | I'll Fight You All | 0.20% | ~10 |
 | Master of Evilness | 0.10% | ~5 |
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,166 (Ranked 148)  
-Completed: 6 (0.12%) (Ranked 211)  
+Progressed: 5,167 (Ranked 148)  
+Completed: 6 (0.12%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,7 +180,7 @@ Completed: 6 (0.12%) (Ranked 211)
 | 2023-09-06 | 5,161 | 6 |
 | 2023-09-08 | 5,163 | 6 |
 | 2023-09-09 | 5,165 | 6 |
-| 2023-09-10 | 5,166 | 6 |
+| 2023-09-10 | 5,167 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 485)  
 Sum: 25 (Ranked 493)  

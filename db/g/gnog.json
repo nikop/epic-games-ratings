@@ -2,13 +2,13 @@
   "ID": "19078740fbcc4eada59a5a4ae7b3724c",
   "Name": "GNOG",
   "ProductSlug": "gnog",
-  "Ranking_Rating": 201,
+  "Ranking_Rating": 190,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 585,
-  "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2018-06-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2022-11-16T04:59:22.0834457+00:00",
@@ -60,6 +60,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-10T16:00:37.9016879+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -78,8 +84,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:24.0704964+00:00",
   "FirstSeenRating": "2022-11-16T04:59:22.0834451+00:00",
-  "LastChanged": "2023-06-09T03:15:35.7334252+00:00",
+  "LastChanged": "2023-09-10T16:00:37.9016876+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.6324265+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:03:05.4753531+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:06:01.8383798+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:00:37.9016883+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:04:45.5833576+00:00"
 }

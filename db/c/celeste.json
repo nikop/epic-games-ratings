@@ -4,11 +4,11 @@
   "ProductSlug": "celeste",
   "Ranking_Rating": 4,
   "Ranking_Popularity": 119,
-  "Ranking_PopularitySum": 167,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 585,
-  "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2018-01-05T15:00:00+00:00",
     "PcReleaseDate": "2018-01-25T15:00:00+00:00",
@@ -3214,10 +3214,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 3076,
       "NumberOfAwardsMax": 1595
+    },
+    {
+      "Time": "2023-09-10T16:00:07.7909756+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 3077,
+      "NumberOfAwardsMax": 1595
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3076,
+  "NumberOfAwards": 3077,
   "NumberOfAwardsMax": 1595,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3285,7 +3291,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 192
+      "Count": 193
     }
   ],
   "EOS_Progressed": 0,
@@ -3299,8 +3305,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2023-09-10T13:02:50.2449989+00:00",
+  "LastChanged": "2023-09-10T16:00:07.7909754+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:51.1377978+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:01:52.7047434+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:08:30.2108729+00:00"
+  "LastUpdate_Ratings": "2023-09-10T16:00:07.7909761+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:06:32.5897214+00:00"
 }

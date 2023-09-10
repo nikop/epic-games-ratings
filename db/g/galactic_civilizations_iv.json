@@ -6,9 +6,9 @@
   "Ranking_Popularity": 349,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -882,9 +882,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6597,
+  "EOS_Progressed": 6598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5977,6 +5977,11 @@
       "Time": "2023-09-10T10:04:47.4889118+00:00",
       "NumProgressed": 6597,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T16:04:35.5669417+00:00",
+      "NumProgressed": 6598,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6028,7 +6033,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "Control_All_Relics",
@@ -6100,7 +6105,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4816
+      "UsersEstimate": 4817
     },
     {
       "ID": "First_Ship_Designed",
@@ -6292,7 +6297,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -6308,7 +6313,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6476,7 +6481,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6563,15 +6568,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6597,
+      "Progressed": 6598,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-06T05:58:56.044263+00:00",
-  "LastChanged_Achievements": "2023-09-10T15:05:47.4480635+00:00",
+  "LastChanged_Achievements": "2023-09-10T16:04:35.566941+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:41.0141576+00:00",
-  "LastUpdate_Ratings": "2023-09-10T15:00:49.4138612+00:00",
-  "LastUpdate_Achievements": "2023-09-10T15:05:47.4481713+00:00"
+  "LastUpdate_Ratings": "2023-09-10T15:59:24.059335+00:00",
+  "LastUpdate_Achievements": "2023-09-10T16:04:35.5670445+00:00"
 }

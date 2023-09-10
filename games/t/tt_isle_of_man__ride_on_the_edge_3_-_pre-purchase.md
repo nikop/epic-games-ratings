@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 97.00% | ~121 |
+| You're Going Down! | 97.00% | ~122 |
 | To Each Their Own | 47.00% | ~59 |
 | You Get An Upgrade, You Get An Upgrade! | 24.00% | ~30 |
 | Onwards and Upwards | 19.00% | ~24 |
-| Like Phileas Fogg | 18.00% | ~22 |
+| Like Phileas Fogg | 17.00% | ~21 |
 | Serial Winner | 14.00% | ~18 |
 | Highly Qualified | 11.00% | ~14 |
 | No Room for Improvement | 11.00% | ~14 |
 | Start Your Engines | 11.00% | ~14 |
-| Lone Wolf | 10.00% | ~12 |
+| Lone Wolf | 10.00% | ~13 |
 | Nerd | 7.00% | ~9 |
 | Playing God | 7.00% | ~9 |
 | First and Foremost | 6.00% | ~8 |
@@ -31,21 +31,21 @@
 | Time Lord | 3.00% | ~4 |
 | First Things First | 3.00% | ~4 |
 | Tailor-Made for Two | 3.00% | ~4 |
-| Déjà-Vu | 2.00% | ~2 |
-| Golden Ratio | 2.00% | ~2 |
-| The Joy of Discovery | 2.00% | ~2 |
-| The Immortal One | 2.00% | ~2 |
-| Shopping List | 2.00% | ~2 |
-| Checklist | 2.00% | ~2 |
-| Time Is of the Essence | 2.00% | ~2 |
-| Made Father Proud | 2.00% | ~2 |
-| Win-Win! | 2.00% | ~2 |
-| Supersport Superfan | 2.00% | ~2 |
-| Superbike Superfan | 2.00% | ~2 |
-| Playing Favourites | 2.00% | ~2 |
+| Déjà-Vu | 2.00% | ~3 |
+| Golden Ratio | 2.00% | ~3 |
+| The Joy of Discovery | 2.00% | ~3 |
+| The Immortal One | 2.00% | ~3 |
+| Shopping List | 2.00% | ~3 |
+| Checklist | 2.00% | ~3 |
+| Time Is of the Essence | 2.00% | ~3 |
+| Made Father Proud | 2.00% | ~3 |
+| Win-Win! | 2.00% | ~3 |
+| Supersport Superfan | 2.00% | ~3 |
+| Superbike Superfan | 2.00% | ~3 |
+| Playing Favourites | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 333)  
-Completed: 2 (1.60%) (Ranked 103)  
+Progressed: 126 (Ranked 333)  
+Completed: 2 (1.59%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,4 +110,4 @@ Completed: 2 (1.60%) (Ranked 103)
 | 2023-08-25 | 122 | 2 |
 | 2023-09-03 | 123 | 2 |
 | 2023-09-04 | 124 | 2 |
-| 2023-09-10 | 125 | 2 |
+| 2023-09-10 | 126 | 2 |
