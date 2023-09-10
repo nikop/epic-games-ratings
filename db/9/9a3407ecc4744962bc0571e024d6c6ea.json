@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -1215,9 +1215,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 276
     },
     {
       "ID": "Causality",
@@ -1279,9 +1279,9 @@
       "ID": "MiCasaSuCasa",
       "SetID": "3ai6ml8",
       "Name": "Mi Casa Su Casa",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 174
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -1311,9 +1311,9 @@
       "ID": "SkeletonCrew",
       "SetID": "3ai6ml8",
       "Name": "Skeleton Crew",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 282
     },
     {
       "ID": "TerraTourGuide",
@@ -1358,8 +1358,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:09:52.8235671+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:07:01.6624039+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.967565+00:00",
-  "LastUpdate_Ratings": "2023-09-10T12:59:29.9725898+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:09:52.8235959+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:57:33.5876471+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:07:01.6624241+00:00"
 }

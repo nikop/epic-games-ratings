@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 76.00% | ~55 |
-| Gear Up | 67.00% | ~48 |
-| A Grand Show | 67.00% | ~48 |
-| Freshen Up | 56.00% | ~40 |
-| GG EZ | 56.00% | ~40 |
-| Hydrophobia | 43.00% | ~31 |
-| Ka-Ching! | 32.00% | ~23 |
-| Stop Right There | 32.00% | ~23 |
-| Get to the Point | 29.00% | ~21 |
+| Iceberg Theory | 78.00% | ~58 |
+| Gear Up | 68.00% | ~50 |
+| A Grand Show | 68.00% | ~50 |
+| Freshen Up | 57.00% | ~42 |
+| GG EZ | 57.00% | ~42 |
+| Hydrophobia | 42.00% | ~31 |
+| Ka-Ching! | 31.00% | ~23 |
+| Stop Right There | 31.00% | ~23 |
+| Get to the Point | 28.00% | ~21 |
 | The Hidden Secret | 15.00% | ~11 |
 | Mr. Want It All | 15.00% | ~11 |
 | Toe to Toe | 15.00% | ~11 |
 | Phew! | 14.00% | ~10 |
-| Grand Escape | 13.00% | ~9 |
-| Space Warrior: Prologue | 13.00% | ~9 |
-| The Abyss Conqueror | 10.00% | ~7 |
-| Keep it Up, rookie! | 10.00% | ~7 |
+| Grand Escape | 12.00% | ~9 |
+| Space Warrior: Prologue | 12.00% | ~9 |
+| The Abyss Conqueror | 9.00% | ~7 |
+| Keep it Up, rookie! | 9.00% | ~7 |
 | he Ultra Fortress Conqueror | 7.00% | ~5 |
 | Antaeus | 7.00% | ~5 |
 | Decapitation Strike | 7.00% | ~5 |
-| The Fortress Conqueror | 6.00% | ~4 |
-| The Hypergravitational Abyss Conqueror | 6.00% | ~4 |
-| Rapidfire | 6.00% | ~4 |
-| Air Interception | 6.00% | ~4 |
-| Hell of a Fight | 6.00% | ~4 |
+| The Fortress Conqueror | 5.00% | ~4 |
+| The Hypergravitational Abyss Conqueror | 5.00% | ~4 |
+| Rapidfire | 5.00% | ~4 |
+| Air Interception | 5.00% | ~4 |
+| Hell of a Fight | 5.00% | ~4 |
 | The Deep Frozen Conqueror | 4.00% | ~3 |
 | The Infinite Train Conqueror | 4.00% | ~3 |
 | The Paradox Coordinate Conqueror | 4.00% | ~3 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 370)  
+Progressed: 74 (Ranked 368)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-07 | 58 | 0 |
 | 2023-09-08 | 62 | 0 |
 | 2023-09-09 | 67 | 0 |
-| 2023-09-10 | 72 | 0 |
+| 2023-09-10 | 74 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

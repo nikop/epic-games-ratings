@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -3778,9 +3778,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 541
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3995,8 +3995,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-02T18:57:16.3901403+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:09:39.9333353+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:06:50.2502437+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.1992932+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:01:13.5492088+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:09:39.9333943+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:58:55.4806882+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:06:50.2503049+00:00"
 }

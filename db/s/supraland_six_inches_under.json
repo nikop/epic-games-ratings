@@ -2000,9 +2000,9 @@
       "ID": "Map",
       "SetID": "5lok9mm",
       "Name": "Don\u0027t draw dicks pls",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1898
     },
     {
       "ID": "MissionUnlikely",
@@ -2144,9 +2144,9 @@
       "ID": "TownArena",
       "SetID": "5lok9mm",
       "Name": "Killed them all",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1719
     },
     {
       "ID": "TransShotForce",
@@ -2192,8 +2192,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-30T16:59:25.1228046+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:07:09.5034847+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:04:46.4072317+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.5185713+00:00",
-  "LastUpdate_Ratings": "2023-09-10T12:59:23.9273776+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:07:09.5035384+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:57:28.8515692+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:04:46.4072883+00:00"
 }

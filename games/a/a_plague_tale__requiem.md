@@ -6,34 +6,34 @@ Rating: 4.73 (Ranked 162)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under a New Sun | 92.00% | ~11,920 |
-| Newcomers | 79.00% | ~10,235 |
-| A Burden of Blood | 74.00% | ~9,587 |
+| Newcomers | 79.00% | ~10,236 |
+| A Burden of Blood | 74.00% | ~9,588 |
 | Protector's Duty | 71.00% | ~9,199 |
 | In our Wake | 69.00% | ~8,940 |
 | Alchemist | 69.00% | ~8,940 |
-| Leaving all Behind | 65.00% | ~8,421 |
-| Felons | 63.00% | ~8,162 |
-| A Sea of Promises | 61.00% | ~7,903 |
-| Tales and Revelations | 58.00% | ~7,514 |
+| Leaving all Behind | 65.00% | ~8,422 |
+| Felons | 63.00% | ~8,163 |
+| A Sea of Promises | 61.00% | ~7,904 |
+| Tales and Revelations | 58.00% | ~7,515 |
 | Bloodline | 53.00% | ~6,867 |
-| The Cradle of Centuries | 49.00% | ~6,348 |
+| The Cradle of Centuries | 49.00% | ~6,349 |
 | The Life We Deserve | 46.00% | ~5,960 |
-| Night guard | 43.00% | ~5,571 |
-| Nothing Left | 40.00% | ~5,182 |
+| Night guard | 43.00% | ~5,572 |
+| Nothing Left | 40.00% | ~5,183 |
 | Healing our Wounds | 37.00% | ~4,794 |
-| Dying Sun | 33.00% | ~4,275 |
+| Dying Sun | 33.00% | ~4,276 |
 | Improved crossbow | 27.00% | ~3,498 |
 | King Hugo | 25.00% | ~3,239 |
-| Mercy | 24.00% | ~3,109 |
-| Effective instruments | 22.00% | ~2,850 |
-| Perfect shot | 22.00% | ~2,850 |
-| Perfect throw | 22.00% | ~2,850 |
+| Mercy | 24.00% | ~3,110 |
+| Effective instruments | 22.00% | ~2,851 |
+| Perfect shot | 22.00% | ~2,851 |
+| Perfect throw | 22.00% | ~2,851 |
 | Knights! | 21.00% | ~2,721 |
 | Handful of pockets | 13.00% | ~1,684 |
 | Not a toy anymore | 12.00% | ~1,555 |
 | Pocket laboratory | 12.00% | ~1,555 |
-| Herbalist | 8.00% | ~1,036 |
-| Fighter | 8.00% | ~1,036 |
+| Herbalist | 8.00% | ~1,037 |
+| Fighter | 8.00% | ~1,037 |
 | Ornithologist | 5.00% | ~648 |
 | Immortal memories | 4.00% | ~518 |
 | Sneaky | 4.00% | ~518 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 162)
 | Old protector | 2.00% | ~259 |
 | Malignant | 1.00% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,956 (Ranked 123)  
+Progressed: 12,957 (Ranked 123)  
 Completed: 45 (0.35%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,10 +184,10 @@ Completed: 45 (0.35%) (Ranked 173)
 | 2023-09-07 | 12,940 | 45 |
 | 2023-09-08 | 12,948 | 45 |
 | 2023-09-09 | 12,953 | 45 |
-| 2023-09-10 | 12,956 | 45 |
+| 2023-09-10 | 12,957 | 45 |
 ## Awards
 Max (Great Boss Battles): 417  (Ranked 213)  
-Sum: 635 (Ranked 293)  
+Sum: 636 (Ranked 293)  
 Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
@@ -198,9 +198,9 @@ Diff (max vs sum): -80
 | This game is Relaxing | 25 |
 | This game has Amazing Storytelling | 25 |
 | This game is Extremely Fun | 24 |
+| This game has Amazing Characters | 21 |
 | This game has Quickly Understood Controls | 20 |
 | This game has a Creative Community | 20 |
-| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -254,4 +254,4 @@ Diff (max vs sum): -80
 | 2023-08-31 | 4.73 | 414 | 632 |
 | 2023-09-06 | 4.73 | 415 | 633 |
 | 2023-09-08 | 4.73 | 416 | 634 |
-| 2023-09-10 | 4.73 | 417 | 635 |
+| 2023-09-10 | 4.73 | 417 | 636 |

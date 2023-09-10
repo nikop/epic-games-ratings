@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 2.00% | ~277 |
 | Artisans | 2.00% | ~277 |
 | Furious Family | 2.00% | ~277 |
+| Acropolis | 2.00% | ~277 |
 | Apadana | 2.00% | ~277 |
 | Colossus | 2.00% | ~277 |
 | Great Ziggurat | 2.00% | ~277 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 1.00% | ~138 |
 | Traders | 1.00% | ~138 |
 | Hittite Iron | 1.00% | ~138 |
-| Acropolis | 1.00% | ~138 |
 | Hagia Sophia | 1.00% | ~138 |
 | Temple of Solomon | 1.00% | ~138 |
 | Mausoleum | 1.00% | ~138 |
@@ -114,6 +114,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.80% | ~111 |
 | Riders | 0.80% | ~111 |
 | Adur Burzen-Mihr | 0.80% | ~111 |
+| Carthage | 0.80% | ~111 |
 | Assyrian Paganism | 0.80% | ~111 |
 | Industrial Progress | 0.80% | ~111 |
 | Military Prestige | 0.80% | ~111 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.70% | ~97 |
 | Learn to Play 4 | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
-| Carthage | 0.70% | ~97 |
 | Kushite Cavalry | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,841 (Ranked 122)  
+Progressed: 13,842 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
 | 2023-09-09 | 13,831 | 5 |
-| 2023-09-10 | 13,841 | 5 |
+| 2023-09-10 | 13,842 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

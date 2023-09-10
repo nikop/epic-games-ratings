@@ -2730,10 +2730,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4356,
       "NumberOfAwardsMax": 2628
+    },
+    {
+      "Time": "2023-09-10T13:57:22.5538873+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4357,
+      "NumberOfAwardsMax": 2628
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4356,
+  "NumberOfAwards": 4357,
   "NumberOfAwardsMax": 2628,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2777,7 +2783,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 217
+      "Count": 218
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2798,9 +2804,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72342,
+  "EOS_Progressed": 72343,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 2591,
+  "EOS_NewPlayers": 2569,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14953,6 +14959,11 @@
       "Time": "2023-09-10T13:08:41.8332247+00:00",
       "NumProgressed": 72342,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-10T14:06:03.0371975+00:00",
+      "NumProgressed": 72343,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15124,7 +15135,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9404
+      "UsersEstimate": 9405
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -15172,7 +15183,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9404
+      "UsersEstimate": 9405
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -15196,7 +15207,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14468
+      "UsersEstimate": 14469
     },
     {
       "ID": "FREEZE_2",
@@ -15284,7 +15295,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14468
+      "UsersEstimate": 14469
     },
     {
       "ID": "HARLEY_4",
@@ -15332,7 +15343,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14468
+      "UsersEstimate": 14469
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -15340,7 +15351,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 19532
+      "UsersEstimate": 19533
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -15356,7 +15367,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24596
+      "UsersEstimate": 24597
     },
     {
       "ID": "MYSTERY_02",
@@ -15380,7 +15391,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14468
+      "UsersEstimate": 14469
     },
     {
       "ID": "MYSTERY_05",
@@ -15404,7 +15415,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9404
+      "UsersEstimate": 9405
     },
     {
       "ID": "MYSTERY_08",
@@ -15451,22 +15462,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72342,
+      "Progressed": 72343,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42622,
+      "Progressed": 42623,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-10T05:57:08.2895571+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:08:41.8332242+00:00",
+  "LastChanged": "2023-09-10T13:57:22.5538872+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:06:03.0371971+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-10T12:59:16.3445178+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:08:41.8333577+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:57:22.5538877+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:06:03.0373306+00:00"
 }

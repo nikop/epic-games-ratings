@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -638,9 +638,9 @@
       "ID": "60",
       "SetID": "5e3maia",
       "Name": "Voyager",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "61",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:05:47.4033358+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:03:37.5525046+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:00:25.1148182+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:05:47.4034068+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:58:17.4874721+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:03:37.5525768+00:00"
 }

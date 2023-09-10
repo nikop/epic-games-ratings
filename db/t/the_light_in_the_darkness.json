@@ -2,7 +2,7 @@
   "ID": "8912b079197744f58b41915923cc8da1",
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
-  "Ranking_EOS_Progress": 175,
+  "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 32,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 26,
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2336,
+  "EOS_Progressed": 2337,
   "EOS_Completed": 212,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 9.08,
+  "EOS_Completed_Percentage": 9.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5723,6 +5723,11 @@
       "Time": "2023-09-10T04:03:06.5229994+00:00",
       "NumProgressed": 2336,
       "NumCompleted": 212
+    },
+    {
+      "Time": "2023-09-10T14:03:20.9432811+00:00",
+      "NumProgressed": 2337,
+      "NumCompleted": 212
     }
   ],
   "TotalAchievements": 12,
@@ -5734,7 +5739,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "Bernard",
@@ -5766,7 +5771,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "Jakob",
@@ -5814,7 +5819,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "Nuremberg Laws",
@@ -5829,7 +5834,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2336,
+      "Progressed": 2337,
       "Completed": 212
     }
   ],
@@ -5837,8 +5842,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:05:27.0667777+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:03:20.9432806+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:14.4342604+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:03:11.6784153+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:05:27.0668246+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:00:26.7707586+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:03:20.943327+00:00"
 }

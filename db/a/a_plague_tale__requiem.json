@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -336,10 +336,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 635,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-09-10T14:03:07.4085053+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 636,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 635,
+  "NumberOfAwards": 636,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -401,12 +407,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 12956,
+  "EOS_Progressed": 12957,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -8079,6 +8085,11 @@
       "Time": "2023-09-10T12:05:34.9499961+00:00",
       "NumProgressed": 12956,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-10T14:05:04.4385734+00:00",
+      "NumProgressed": 12957,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -8098,7 +8109,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10235
+      "UsersEstimate": 10236
     },
     {
       "ID": "ACH_03",
@@ -8106,7 +8117,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 9587
+      "UsersEstimate": 9588
     },
     {
       "ID": "ACH_04",
@@ -8130,7 +8141,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 8421
+      "UsersEstimate": 8422
     },
     {
       "ID": "ACH_07",
@@ -8138,7 +8149,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8162
+      "UsersEstimate": 8163
     },
     {
       "ID": "ACH_08",
@@ -8146,7 +8157,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 7903
+      "UsersEstimate": 7904
     },
     {
       "ID": "ACH_09",
@@ -8154,7 +8165,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 7514
+      "UsersEstimate": 7515
     },
     {
       "ID": "ACH_10",
@@ -8170,7 +8181,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "ACH_12",
@@ -8186,7 +8197,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5182
+      "UsersEstimate": 5183
     },
     {
       "ID": "ACH_14",
@@ -8202,7 +8213,7 @@
       "Name": "Dying Sun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "ACH_16",
@@ -8226,7 +8237,7 @@
       "Name": "Herbalist",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_19",
@@ -8282,7 +8293,7 @@
       "Name": "Effective instruments",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "ACH_26",
@@ -8298,7 +8309,7 @@
       "Name": "Night guard",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "ACH_28",
@@ -8322,7 +8333,7 @@
       "Name": "Fighter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "ACH_31",
@@ -8338,7 +8349,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "ACH_33",
@@ -8346,7 +8357,7 @@
       "Name": "Perfect throw",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "ACH_34",
@@ -8362,23 +8373,23 @@
       "Name": "Mercy",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 12956,
+      "Progressed": 12957,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-09-10T01:44:31.5212403+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:07:30.6897807+00:00",
+  "LastChanged": "2023-09-10T14:03:07.4085051+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:05:04.4385728+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:51.5709386+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:05:09.9150953+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:07:30.6898537+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:03:07.4085059+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:05:04.4386475+00:00"
 }

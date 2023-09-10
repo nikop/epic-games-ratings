@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1683,9 +1683,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13841,
+  "EOS_Progressed": 13842,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11228,6 +11228,11 @@
       "Time": "2023-09-10T12:07:12.4062147+00:00",
       "NumProgressed": 13841,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T14:06:26.9179503+00:00",
+      "NumProgressed": 13842,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12557,9 +12562,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 277
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -12853,9 +12858,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -13606,21 +13611,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13841,
+      "Progressed": 13842,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13841,
+      "Progressed": 13842,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:09:11.0191431+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:06:26.9179493+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:02:13.2365253+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:09:11.0199999+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:59:41.9780436+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:06:26.9188972+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -84,7 +84,7 @@
   "Tags": [],
   "EOS_Progressed": 750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1400,9 +1400,9 @@
       "ID": "AC06",
       "SetID": "l4abp0",
       "Name": "The Last Ascension",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 413
+      "UsersEstimate": 420
     },
     {
       "ID": "AC07",
@@ -1464,9 +1464,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 150
     },
     {
       "ID": "AC15",
@@ -1656,9 +1656,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 270
     },
     {
       "ID": "AC39",
@@ -1729,8 +1729,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:06:55.5386562+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:04:33.7647526+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:00:42.6548563+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:06:55.5387023+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:58:32.0248056+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:04:33.7647996+00:00"
 }

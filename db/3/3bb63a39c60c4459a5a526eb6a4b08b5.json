@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -2640,9 +2640,9 @@
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 271
     },
     {
       "ID": "NoTimeForModernization",
@@ -2783,8 +2783,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:06:14.770037+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:03:59.6822994+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.2387423+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:00:57.9821628+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:06:14.7700836+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:58:43.128167+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:03:59.6823473+00:00"
 }

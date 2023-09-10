@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17942,
+  "EOS_Progressed": 17943,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9990,6 +9990,11 @@
       "Time": "2023-09-10T12:05:16.5098618+00:00",
       "NumProgressed": 17942,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-10T14:04:48.9422977+00:00",
+      "NumProgressed": 17943,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10191,9 +10196,9 @@
       "ID": "0025",
       "SetID": "2n2feee",
       "Name": "Tailor-Made",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3230
+      "UsersEstimate": 3050
     },
     {
       "ID": "0026",
@@ -10225,7 +10230,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "0030",
@@ -10288,7 +10293,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17942,
+      "Progressed": 17943,
       "Completed": 3
     }
   ],
@@ -10296,8 +10301,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:07:12.1751858+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:04:48.942297+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-10T12:59:31.3316108+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:07:12.1752737+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:57:34.6861937+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:04:48.9423897+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -745,9 +745,9 @@
       "ID": "TROP010",
       "SetID": "9n0dl35",
       "Name": "Hard Fox Life",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 118
+      "UsersEstimate": 122
     },
     {
       "ID": "TROP011",
@@ -898,8 +898,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:07:48.43051+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:05:19.9919165+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:08.6961056+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:03:07.1989944+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:07:48.4305331+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:00:23.2550677+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:05:19.9919389+00:00"
 }

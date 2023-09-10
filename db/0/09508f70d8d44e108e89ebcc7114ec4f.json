@@ -4,8 +4,8 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.43,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-09-10T03:06:37.5782384+00:00",
       "NumProgressed": 370,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-10T14:05:50.8943531+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 24,
@@ -1201,7 +1206,7 @@
       "Name": "Brewery",
       "Percentage": 85,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "church",
@@ -1209,7 +1214,7 @@
       "Name": "Church",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "circus",
@@ -1225,7 +1230,7 @@
       "Name": "Expedition",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "fish_trade",
@@ -1233,7 +1238,7 @@
       "Name": "Fish trade",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "fishing_house",
@@ -1281,7 +1286,7 @@
       "Name": "Match 3",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "match_6",
@@ -1289,7 +1294,7 @@
       "Name": "Match 6",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "match_9",
@@ -1305,7 +1310,7 @@
       "Name": "Mill",
       "Percentage": 81,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "sawmill",
@@ -1313,7 +1318,7 @@
       "Name": "Sawmill",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "seaweed_farm",
@@ -1321,7 +1326,7 @@
       "Name": "Seaweed farm",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "tavern",
@@ -1353,7 +1358,7 @@
       "Name": "Wheat farm",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "wood",
@@ -1361,21 +1366,21 @@
       "Name": "Wood",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap7g2g4",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 9
     }
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:08:26.6410586+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:05:50.8943525+00:00",
   "LastUpdate_AppInfo": "2023-09-07T19:57:25.3758044+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:01:17.7255767+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:08:26.6410838+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:58:58.5299181+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:05:50.8943773+00:00"
 }

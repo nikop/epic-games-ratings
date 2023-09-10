@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -706,7 +706,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5739,
+  "EOS_Progressed": 5740,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -7216,6 +7216,11 @@
       "Time": "2023-09-10T02:20:51.3785343+00:00",
       "NumProgressed": 5739,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T14:04:29.5325906+00:00",
+      "NumProgressed": 5740,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7227,7 +7232,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4534
+      "UsersEstimate": 4535
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7235,7 +7240,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -7243,7 +7248,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7267,7 +7272,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3387
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7283,7 +7288,7 @@
       "Name": "Scaling up",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3157
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -7299,7 +7304,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1836
+      "UsersEstimate": 1837
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -7387,7 +7392,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -7506,13 +7511,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5739,
+      "Progressed": 5740,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5111,
+      "Progressed": 5112,
       "Completed": 112
     }
   ],
@@ -7520,8 +7525,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-08T12:01:25.854057+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:06:50.82131+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:04:29.5325895+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:41.605376+00:00",
-  "LastUpdate_Ratings": "2023-09-10T12:59:49.2968027+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:06:50.8213768+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:57:47.7214366+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:04:29.5326584+00:00"
 }

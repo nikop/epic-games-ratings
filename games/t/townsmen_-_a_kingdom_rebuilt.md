@@ -6,7 +6,7 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 12.00% | ~512 |
+| Eureka! | 12.00% | ~513 |
 | Tax-man I | 11.00% | ~470 |
 | A new beginning | 11.00% | ~470 |
 | Friends from the past | 10.00% | ~427 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,270 (Ranked 153)  
+Progressed: 4,271 (Ranked 153)  
 Completed: 3 (0.07%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 3 (0.07%) (Ranked 229)
 | 2023-09-07 | 4,261 | 3 |
 | 2023-09-08 | 4,264 | 3 |
 | 2023-09-09 | 4,269 | 3 |
-| 2023-09-10 | 4,270 | 3 |
+| 2023-09-10 | 4,271 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

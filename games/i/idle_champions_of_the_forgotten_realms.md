@@ -6,40 +6,40 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,282 |
-| Beast Intentions | 0.60% | ~1,369 |
+| A Brief Tour of the Realms | 1.00% | ~2,283 |
+| Beast Intentions | 0.60% | ~1,370 |
 | The Cursed Farmer | 0.50% | ~1,141 |
+| The Ring of Regeneration | 0.40% | ~913 |
 | The Mad Wizard | 0.40% | ~913 |
 | Were-verpowered | 0.30% | ~685 |
-| The Ring of Regeneration | 0.30% | ~685 |
 | Seeking Allies | 0.30% | ~685 |
 | Are Ya Chicken? | 0.30% | ~685 |
-| Maddening | 0.20% | ~456 |
+| Friendly Imps | 0.30% | ~685 |
+| Maddening | 0.20% | ~457 |
 | Tall Tales | 0.20% | ~389 |
-| The Silken Swamp | 0.20% | ~456 |
-| Supply Run | 0.20% | ~456 |
-| A Persistent Buzzing | 0.20% | ~456 |
-| Beast Mode | 0.20% | ~456 |
-| Terror in the Dark | 0.20% | ~456 |
-| Low Initiative | 0.20% | ~456 |
-| A Mysterious Summons | 0.20% | ~456 |
-| Building Trust | 0.20% | ~456 |
-| Unearthed Evil | 0.20% | ~456 |
-| No Time To Rest | 0.20% | ~456 |
-| The Dinner Party | 0.20% | ~456 |
-| The Botched Kidnapping | 0.20% | ~456 |
-| The Crumbling Temple | 0.20% | ~456 |
-| Useless Allies | 0.20% | ~456 |
-| Mad Cow Disease | 0.20% | ~456 |
-| Exploring Port Nyanzaru | 0.20% | ~456 |
-| A Tale of Two Cities | 0.20% | ~456 |
-| Running of the Saurs | 0.20% | ~456 |
-| The Contagious Curse | 0.20% | ~456 |
-| Escort to Waterdeep | 0.20% | ~456 |
-| Waterdeep Detours | 0.20% | ~456 |
-| Underdeep Cartography | 0.20% | ~456 |
-| Friendly Imps | 0.20% | ~456 |
-| Pure Energy | 0.20% | ~456 |
+| The Silken Swamp | 0.20% | ~457 |
+| Supply Run | 0.20% | ~457 |
+| A Persistent Buzzing | 0.20% | ~457 |
+| Beast Mode | 0.20% | ~457 |
+| Terror in the Dark | 0.20% | ~457 |
+| Low Initiative | 0.20% | ~457 |
+| A Mysterious Summons | 0.20% | ~457 |
+| Building Trust | 0.20% | ~457 |
+| Unearthed Evil | 0.20% | ~457 |
+| No Time To Rest | 0.20% | ~457 |
+| The Dinner Party | 0.20% | ~457 |
+| The Botched Kidnapping | 0.20% | ~457 |
+| The Crumbling Temple | 0.20% | ~457 |
+| Useless Allies | 0.20% | ~457 |
+| Mad Cow Disease | 0.20% | ~457 |
+| Exploring Port Nyanzaru | 0.20% | ~457 |
+| A Tale of Two Cities | 0.20% | ~457 |
+| Running of the Saurs | 0.20% | ~457 |
+| The Contagious Curse | 0.20% | ~457 |
+| Escort to Waterdeep | 0.20% | ~457 |
+| Waterdeep Detours | 0.20% | ~457 |
+| Underdeep Cartography | 0.20% | ~457 |
+| Pure Energy | 0.20% | ~457 |
 | Legends and Lore | 0.20% | ~389 |
 | The End | 0.20% | ~389 |
 | Pros and CONs | 0.10% | ~228 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,249 (Ranked 54)  
+Progressed: 228,258 (Ranked 54)  
 Completed: 2,266 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -670,7 +670,7 @@ Completed: 2,266 (0.99%) (Ranked 124)
 | 2023-09-07 | 227,831 | 2,259 |
 | 2023-09-08 | 227,989 | 2,263 |
 | 2023-09-09 | 228,168 | 2,265 |
-| 2023-09-10 | 228,249 | 2,266 |
+| 2023-09-10 | 228,258 | 2,266 |
 ## Awards
 Max (Diverse Characters): 5,254  (Ranked 67)  
 Sum: 31,509 (Ranked 38)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -6266,9 +6266,9 @@
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 155
     },
     {
       "ID": "30",
@@ -6505,8 +6505,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:07:17.9624064+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:04:53.7847087+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:36.514266+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:03:30.8474234+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:07:17.9624863+00:00"
+  "LastUpdate_Ratings": "2023-09-10T14:00:41.759227+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:04:53.7848331+00:00"
 }

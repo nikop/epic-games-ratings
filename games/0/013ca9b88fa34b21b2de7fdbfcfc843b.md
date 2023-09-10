@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 79.00% | ~378 |
-| A Thorny Situation | 72.00% | ~345 |
-| ... And Spit Back Out | 53.00% | ~254 |
-| Break-Net Speed | 48.00% | ~230 |
-| Humble Collector | 35.00% | ~168 |
-| Bramble Breaker | 34.00% | ~163 |
-| Miner 49er | 33.00% | ~158 |
-| Calm Sailing | 17.00% | ~81 |
-| Oui, Chef! | 17.00% | ~81 |
-| Lumberjack | 13.00% | ~62 |
-| Open the Gate! | 12.00% | ~57 |
-| Beach Comber | 9.00% | ~43 |
-| Mist Walker | 8.00% | ~38 |
-| Botanical Breakthrough | 5.00% | ~24 |
-| Clear the Air | 3.00% | ~14 |
-| Chatty Neighbor | 3.00% | ~14 |
-| Right Tool For the Job | 3.00% | ~14 |
+| Azoria Beckons | 78.00% | ~379 |
+| A Thorny Situation | 71.00% | ~345 |
+| ... And Spit Back Out | 53.00% | ~258 |
+| Break-Net Speed | 48.00% | ~233 |
+| Humble Collector | 35.00% | ~170 |
+| Miner 49er | 34.00% | ~165 |
+| Bramble Breaker | 34.00% | ~165 |
+| Oui, Chef! | 18.00% | ~87 |
+| Calm Sailing | 17.00% | ~83 |
+| Lumberjack | 14.00% | ~68 |
+| Open the Gate! | 13.00% | ~63 |
+| Beach Comber | 9.00% | ~44 |
+| Mist Walker | 9.00% | ~44 |
+| Botanical Breakthrough | 6.00% | ~29 |
+| Chatty Neighbor | 3.00% | ~15 |
+| Clear the Air | 2.00% | ~10 |
 | Search for the Hairy Grell | 2.00% | ~10 |
 | Azorian Anniversary | 2.00% | ~10 |
+| Right Tool For the Job | 2.00% | ~10 |
 | Captain of Cozy | 2.00% | ~10 |
 | House Proud | 2.00% | ~10 |
 | Flaming Hot Completos | 1.00% | ~5 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.20% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479 (Ranked 245)  
+Progressed: 486 (Ranked 244)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
-| 2023-09-10 | 479 | 0 |
+| 2023-09-10 | 486 | 0 |

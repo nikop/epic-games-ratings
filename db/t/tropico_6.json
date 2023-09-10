@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1098,7 +1098,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5038,
+  "EOS_Progressed": 5039,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -9308,6 +9308,11 @@
       "Time": "2023-09-10T13:10:00.5384107+00:00",
       "NumProgressed": 5038,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-10T14:07:08.2011153+00:00",
+      "NumProgressed": 5039,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9415,7 +9420,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9423,7 +9428,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -9479,7 +9484,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3829
+      "UsersEstimate": 3830
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9638,15 +9643,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5038,
+      "Progressed": 5039,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-09T17:58:19.764548+00:00",
-  "LastChanged_Achievements": "2023-09-10T13:10:00.5384102+00:00",
+  "LastChanged_Achievements": "2023-09-10T14:07:08.2011145+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-10T13:00:21.8278608+00:00",
-  "LastUpdate_Achievements": "2023-09-10T13:10:00.5384914+00:00"
+  "LastUpdate_Ratings": "2023-09-10T13:58:14.5686753+00:00",
+  "LastUpdate_Achievements": "2023-09-10T14:07:08.2011961+00:00"
 }
