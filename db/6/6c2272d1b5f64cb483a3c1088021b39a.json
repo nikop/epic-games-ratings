@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1037,
+  "EOS_Progressed": 1038,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3396,6 +3396,11 @@
       "Time": "2023-09-10T01:49:05.6485766+00:00",
       "NumProgressed": 1037,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T09:05:49.8961246+00:00",
+      "NumProgressed": 1038,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3455,7 +3460,7 @@
       "Name": "Call of Mana 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "call_of_mana_2",
@@ -3599,7 +3604,7 @@
       "Name": "Elite Deck 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "elite_deck_2",
@@ -3647,7 +3652,7 @@
       "Name": "Glitter of Gold 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "glitter_of_gold_2",
@@ -3791,7 +3796,7 @@
       "Name": "Punctual 1",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "punctual_2",
@@ -3934,14 +3939,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1037,
+      "Progressed": 1038,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-10T08:05:38.5937587+00:00",
+  "LastChanged_Achievements": "2023-09-10T09:05:49.8961241+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:00.6295302+00:00",
-  "LastUpdate_Ratings": "2023-09-10T07:59:14.0333446+00:00",
-  "LastUpdate_Achievements": "2023-09-10T08:05:38.5938623+00:00"
+  "LastUpdate_Ratings": "2023-09-10T08:59:15.0557283+00:00",
+  "LastUpdate_Achievements": "2023-09-10T09:05:49.8961926+00:00"
 }

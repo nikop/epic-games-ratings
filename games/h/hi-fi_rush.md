@@ -5,13 +5,13 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 13.00% | ~523 |
-| Feeling the beat! | 13.00% | ~523 |
+| Start with a bang! | 13.00% | ~524 |
+| Feeling the beat! | 13.00% | ~524 |
 | You can pet the cat! | 12.00% | ~483 |
 | Cream of the Crop | 11.00% | ~443 |
 | Who put gears in there? | 11.00% | ~443 |
-| Thanks for the free chip, Peppermint! | 10.00% | ~402 |
-| You got this, Peppermint? | 10.00% | ~402 |
+| Thanks for the free chip, Peppermint! | 10.00% | ~403 |
+| You got this, Peppermint? | 10.00% | ~403 |
 | Perfect Parry | 9.00% | ~362 |
 | Alright, that felt AWESOME! | 9.00% | ~362 |
 | This will cost you big time | 8.00% | ~322 |
@@ -35,10 +35,10 @@ Rating: 4.87 (Ranked 24)
 | That's a lot of junk metal… | 4.00% | ~161 |
 | There's such a thing as TOO helpful | 4.00% | ~161 |
 | Beat-hit mania | 3.00% | ~121 |
-| Chip-tuned | 2.00% | ~80 |
-| Wanna hear my playlist? | 2.00% | ~80 |
-| I told you I'd be fine, Peppermint! | 2.00% | ~80 |
-| Check out my moves! | 2.00% | ~80 |
+| Chip-tuned | 2.00% | ~81 |
+| Wanna hear my playlist? | 2.00% | ~81 |
+| I told you I'd be fine, Peppermint! | 2.00% | ~81 |
+| Check out my moves! | 2.00% | ~81 |
 | Call me Turbo Chai | 2.00% | ~51 |
 | I think I deserve some praise, here! | 1.00% | ~40 |
 | I think I found your calling, Macaron | 1.00% | ~40 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,025 (Ranked 154)  
+Progressed: 4,027 (Ranked 154)  
 Completed: 7 (0.17%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 7 (0.17%) (Ranked 200)
 | 2023-09-07 | 4,017 | 7 |
 | 2023-09-08 | 4,021 | 7 |
 | 2023-09-09 | 4,023 | 7 |
-| 2023-09-10 | 4,025 | 7 |
+| 2023-09-10 | 4,027 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

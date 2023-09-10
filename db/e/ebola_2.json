@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1031,6 +1031,11 @@
       "Time": "2023-09-10T07:03:51.3652933+00:00",
       "NumProgressed": 265,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T09:04:20.1000038+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1138,7 +1143,7 @@
       "Name": "Scent of Meat \u2714",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achSaveses",
@@ -1162,7 +1167,7 @@
       "Name": "Statue \u2714",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achVirus",
@@ -1185,14 +1190,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-10T08:04:05.2480072+00:00",
+  "LastChanged_Achievements": "2023-09-10T09:04:20.1000033+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.0737493+00:00",
-  "LastUpdate_Ratings": "2023-09-10T07:59:34.6567751+00:00",
-  "LastUpdate_Achievements": "2023-09-10T08:04:05.2480394+00:00"
+  "LastUpdate_Ratings": "2023-09-10T08:59:33.8753994+00:00",
+  "LastUpdate_Achievements": "2023-09-10T09:04:20.1000194+00:00"
 }

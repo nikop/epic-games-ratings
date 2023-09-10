@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 8170,
+  "EOS_Progressed": 8171,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -4600,6 +4600,11 @@
       "Time": "2023-09-09T18:06:30.8759701+00:00",
       "NumProgressed": 8170,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-10T09:06:30.4656313+00:00",
+      "NumProgressed": 8171,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 24,
@@ -4635,7 +4640,7 @@
       "Name": "Focus!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5147
+      "UsersEstimate": 5148
     },
     {
       "ID": "DemonCastleRestoration",
@@ -4699,7 +4704,7 @@
       "Name": "The Hero Killer",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "LeoniasFall",
@@ -4739,7 +4744,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 5147
+      "UsersEstimate": 5148
     },
     {
       "ID": "SavedElderEnt_2",
@@ -4771,7 +4776,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7598
+      "UsersEstimate": 7599
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -4779,7 +4784,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -4795,22 +4800,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6863
+      "UsersEstimate": 6864
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8170,
+      "Progressed": 8171,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-08-23T17:02:24.1541742+00:00",
-  "LastChanged_Achievements": "2023-09-10T08:06:21.5809303+00:00",
+  "LastChanged_Achievements": "2023-09-10T09:06:30.4656306+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.4922848+00:00",
-  "LastUpdate_Ratings": "2023-09-10T08:01:12.8898955+00:00",
-  "LastUpdate_Achievements": "2023-09-10T08:06:21.5809758+00:00"
+  "LastUpdate_Ratings": "2023-09-10T09:01:04.2406486+00:00",
+  "LastUpdate_Achievements": "2023-09-10T09:06:30.465664+00:00"
 }

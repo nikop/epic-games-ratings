@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 80.00% | ~360 |
-| A Thorny Situation | 72.00% | ~324 |
-| ... And Spit Back Out | 54.00% | ~243 |
-| Break-Net Speed | 46.00% | ~207 |
-| Humble Collector | 34.00% | ~153 |
-| Miner 49er | 32.00% | ~144 |
-| Bramble Breaker | 32.00% | ~144 |
-| Oui, Chef! | 17.00% | ~76 |
+| Azoria Beckons | 79.00% | ~359 |
+| A Thorny Situation | 72.00% | ~327 |
+| ... And Spit Back Out | 54.00% | ~245 |
+| Break-Net Speed | 46.00% | ~209 |
+| Humble Collector | 34.00% | ~154 |
+| Bramble Breaker | 33.00% | ~150 |
+| Miner 49er | 32.00% | ~145 |
+| Oui, Chef! | 17.00% | ~77 |
 | Calm Sailing | 15.00% | ~68 |
 | Open the Gate! | 11.00% | ~50 |
 | Lumberjack | 11.00% | ~50 |
 | Beach Comber | 8.00% | ~36 |
-| Mist Walker | 6.00% | ~27 |
-| Botanical Breakthrough | 5.00% | ~22 |
+| Mist Walker | 7.00% | ~32 |
+| Botanical Breakthrough | 5.00% | ~23 |
 | Chatty Neighbor | 3.00% | ~14 |
 | Right Tool For the Job | 3.00% | ~14 |
 | Clear the Air | 2.00% | ~9 |
@@ -27,12 +27,12 @@
 | Captain of Cozy | 2.00% | ~9 |
 | House Proud | 2.00% | ~9 |
 | Skilled | 2.00% | ~9 |
-| Flaming Hot Completos | 1.00% | ~4 |
-| Fae Farmer | 1.00% | ~4 |
+| Flaming Hot Completos | 1.00% | ~5 |
+| Fae Farmer | 1.00% | ~5 |
 | Fanatical Farmer | 0.90% | ~4 |
+| I Now Pronounce You... | 0.70% | ~3 |
 | Got to Catch Them All | 0.40% | ~2 |
 | Scattered Scroll Scrounger | 0.40% | ~2 |
-| I Now Pronounce You... | 0.40% | ~2 |
 | Cloverfield Island | 0.20% | ~1 |
 | Workaholic | 0.20% | ~1 |
 | Giving the People What They Want | 0.20% | ~1 |
@@ -40,7 +40,7 @@
 | Very Skilled | 0.20% | ~1 |
 | Angling Authority | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 249)  
+Progressed: 454 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,4 +57,4 @@ Completed: 0 (0.00%) (Ranked 272)
 | 2023-09-06 | 29 | 0 |
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
-| 2023-09-10 | 450 | 0 |
+| 2023-09-10 | 454 | 0 |

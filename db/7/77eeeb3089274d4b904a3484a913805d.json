@@ -4,7 +4,7 @@
   "ProductSlug": "ultimate-flight-simulator-pro-8f1009",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-27T22:30:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -29,7 +31,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-09-10T09:01:15.5333638+00:00",
   "LastUpdate_AppInfo": "2023-09-03T22:57:04.0552294+00:00",
-  "LastUpdate_Ratings": "2023-09-10T08:01:24.8403772+00:00",
-  "LastUpdate_Achievements": "2023-09-10T08:06:33.8291159+00:00"
+  "LastUpdate_Ratings": "2023-09-10T09:01:15.5333669+00:00",
+  "LastUpdate_Achievements": "2023-09-10T09:06:42.0693741+00:00"
 }

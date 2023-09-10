@@ -2798,9 +2798,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72330,
+  "EOS_Progressed": 72332,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 2702,
+  "EOS_NewPlayers": 2686,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -14928,6 +14928,11 @@
       "Time": "2023-09-10T08:06:42.7030595+00:00",
       "NumProgressed": 72330,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-10T09:06:50.2747503+00:00",
+      "NumProgressed": 72332,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15043,7 +15048,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15189
+      "UsersEstimate": 15190
     },
     {
       "ID": "CLAYFACE_2",
@@ -15091,7 +15096,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3617
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -15123,7 +15128,7 @@
       "Name": "Out of Their League",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5786
+      "UsersEstimate": 5787
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -15163,7 +15168,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20252
+      "UsersEstimate": 20253
     },
     {
       "ID": "FREEZE_1_5",
@@ -15251,7 +15256,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18082
+      "UsersEstimate": 18083
     },
     {
       "ID": "HARLEY_3",
@@ -15283,7 +15288,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37612
+      "UsersEstimate": 37613
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15315,7 +15320,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 19529
+      "UsersEstimate": 19530
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -15331,7 +15336,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24592
+      "UsersEstimate": 24593
     },
     {
       "ID": "MYSTERY_02",
@@ -15339,7 +15344,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18082
+      "UsersEstimate": 18083
     },
     {
       "ID": "MYSTERY_03",
@@ -15395,7 +15400,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7956
+      "UsersEstimate": 7957
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -15403,7 +15408,7 @@
       "Name": "Solid Alibi",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5786
+      "UsersEstimate": 5787
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -15426,13 +15431,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72330,
+      "Progressed": 72332,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42610,
+      "Progressed": 42612,
       "Completed": 2663
     }
   ],
@@ -15440,8 +15445,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-10T05:57:08.2895571+00:00",
-  "LastChanged_Achievements": "2023-09-10T08:06:42.7030589+00:00",
+  "LastChanged_Achievements": "2023-09-10T09:06:50.2747499+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-10T07:57:13.6158087+00:00",
-  "LastUpdate_Achievements": "2023-09-10T08:06:42.7032243+00:00"
+  "LastUpdate_Ratings": "2023-09-10T08:57:20.8697912+00:00",
+  "LastUpdate_Achievements": "2023-09-10T09:06:50.2748619+00:00"
 }

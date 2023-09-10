@@ -1787,9 +1787,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 224
     },
     {
       "ID": "KingDiamond",
@@ -1843,9 +1843,9 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 161
     },
     {
       "ID": "Priestess",
@@ -1962,8 +1962,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-10T08:02:27.086492+00:00",
+  "LastChanged_Achievements": "2023-09-10T09:03:15.7165125+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:53.7997081+00:00",
-  "LastUpdate_Ratings": "2023-09-10T07:58:37.71613+00:00",
-  "LastUpdate_Achievements": "2023-09-10T08:02:27.086615+00:00"
+  "LastUpdate_Ratings": "2023-09-10T08:58:40.2005839+00:00",
+  "LastUpdate_Achievements": "2023-09-10T09:03:15.7165548+00:00"
 }

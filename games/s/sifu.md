@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.10% | ~23 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,154 (Ranked 20)  
+Progressed: 714,169 (Ranked 20)  
 Completed: 12,890 (1.80%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,18 +210,18 @@ Completed: 12,890 (1.80%) (Ranked 100)
 | 2023-09-07 | 713,425 | 12,887 |
 | 2023-09-08 | 713,725 | 12,887 |
 | 2023-09-09 | 714,041 | 12,890 |
-| 2023-09-10 | 714,154 | 12,890 |
+| 2023-09-10 | 714,169 | 12,890 |
 ## Awards
 Max (Great Boss Battles): 6,473  (Ranked 53)  
-Sum: 11,150 (Ranked 80)  
+Sum: 11,156 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,473 |
 | This game has Diverse Characters | 586 |
-| This game has Challenging Combat | 553 |
+| This game has Challenging Combat | 555 |
 | This game has Quickly Understood Controls | 545 |
-| This game has Amazing Storytelling | 538 |
+| This game has Amazing Storytelling | 542 |
 | This game is Extremely Fun | 533 |
 | This game has Amazing Characters | 526 |
 | This game is Highly Recommended | 526 |
@@ -468,4 +468,4 @@ Diff (max vs sum): -27
 | 2023-09-07 | 4.82 | - | 6,446 | 11,094 |
 | 2023-09-08 | 4.82 | - | 6,446 | 11,108 |
 | 2023-09-09 | 4.82 | - | 6,458 | 11,134 |
-| 2023-09-10 | 4.82 | - | 6,473 | 11,150 |
+| 2023-09-10 | 4.82 | - | 6,473 | 11,156 |

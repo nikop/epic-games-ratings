@@ -733,9 +733,9 @@
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Epic_ShellBreaking_1",
@@ -836,8 +836,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-09-10T08:06:40.0059999+00:00",
+  "LastChanged_Achievements": "2023-09-10T09:06:47.775862+00:00",
   "LastUpdate_AppInfo": "2023-09-07T09:57:19.8778458+00:00",
-  "LastUpdate_Ratings": "2023-09-10T07:59:23.0487899+00:00",
-  "LastUpdate_Achievements": "2023-09-10T08:06:40.0060532+00:00"
+  "LastUpdate_Ratings": "2023-09-10T08:59:23.3203699+00:00",
+  "LastUpdate_Achievements": "2023-09-10T09:06:47.7758979+00:00"
 }

@@ -1270,7 +1270,7 @@
   ],
   "EOS_Progressed": 5728,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -9132,9 +9132,9 @@
       "ID": "HARVEST_CROP_5",
       "SetID": "5349c2e",
       "Name": "Having A Field Day",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4296
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -9348,8 +9348,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-10T06:57:03.2829153+00:00",
-  "LastChanged_Achievements": "2023-09-10T08:05:23.9114354+00:00",
+  "LastChanged_Achievements": "2023-09-10T09:05:35.8899325+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:04.6592929+00:00",
-  "LastUpdate_Ratings": "2023-09-10T07:57:03.0577267+00:00",
-  "LastUpdate_Achievements": "2023-09-10T08:05:23.9115661+00:00"
+  "LastUpdate_Ratings": "2023-09-10T08:57:11.0083118+00:00",
+  "LastUpdate_Achievements": "2023-09-10T09:05:35.8899902+00:00"
 }
