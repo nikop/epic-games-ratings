@@ -95,20 +95,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 1.00% | ~138 |
 | Legalism | 1.00% | ~138 |
 | Mythology | 1.00% | ~138 |
+| Redemption | 1.00% | ~138 |
 | Legionary | 1.00% | ~138 |
 | Phalangite | 1.00% | ~138 |
 | Points Victory | 1.00% | ~138 |
-| Capable | 0.90% | ~124 |
-| Invincible | 0.90% | ~124 |
-| Ready | 0.90% | ~124 |
-| Subjugator | 0.90% | ~124 |
-| Circus Maximus | 0.90% | ~124 |
-| Church of the Holy Sepulchre | 0.90% | ~124 |
-| Redemption | 0.90% | ~124 |
-| Cimmerian Archer | 0.90% | ~124 |
-| Ambition Victory | 0.90% | ~124 |
-| Double Victory | 0.90% | ~124 |
-| Win a Single Player Game | 0.90% | ~124 |
+| Capable | 0.90% | ~125 |
+| Invincible | 0.90% | ~125 |
+| Ready | 0.90% | ~125 |
+| Subjugator | 0.90% | ~125 |
+| Circus Maximus | 0.90% | ~125 |
+| Church of the Holy Sepulchre | 0.90% | ~125 |
+| Cimmerian Archer | 0.90% | ~125 |
+| Ambition Victory | 0.90% | ~125 |
+| Double Victory | 0.90% | ~125 |
+| Win a Single Player Game | 0.90% | ~125 |
 | Bad Heir Day | 0.80% | ~111 |
 | Devout | 0.80% | ~111 |
 | Landowners | 0.80% | ~111 |
@@ -152,21 +152,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.40% | ~55 |
 | Three Man Chariot | 0.40% | ~55 |
 | Pilgrimage | 0.40% | ~55 |
-| Bronze Victory (Carthage 1) | 0.30% | ~41 |
-| Magnificent Difficulty | 0.30% | ~41 |
-| Event Level High | 0.30% | ~41 |
-| Run, Pheidippides, Run! | 0.30% | ~41 |
-| Learn to Play 5 | 0.30% | ~41 |
-| Hatti | 0.30% | ~41 |
-| Pantheon of Gods | 0.30% | ~41 |
-| Apadana in Parsa | 0.30% | ~41 |
-| Play a Free-For-All Game (>2 Players) | 0.30% | ~41 |
-| Circus Maximus in Roma | 0.30% | ~41 |
-| Siege Tower | 0.30% | ~41 |
-| Conquest Victory | 0.30% | ~41 |
-| Necropolis in Waset | 0.30% | ~41 |
-| Patriarch St Paul | 0.30% | ~41 |
-| Hypatia the Teacher | 0.30% | ~41 |
+| Bronze Victory (Carthage 1) | 0.30% | ~42 |
+| Magnificent Difficulty | 0.30% | ~42 |
+| Event Level High | 0.30% | ~42 |
+| Run, Pheidippides, Run! | 0.30% | ~42 |
+| Learn to Play 5 | 0.30% | ~42 |
+| Hatti | 0.30% | ~42 |
+| Pantheon of Gods | 0.30% | ~42 |
+| Apadana in Parsa | 0.30% | ~42 |
+| Play a Free-For-All Game (>2 Players) | 0.30% | ~42 |
+| Circus Maximus in Roma | 0.30% | ~42 |
+| Siege Tower | 0.30% | ~42 |
+| Conquest Victory | 0.30% | ~42 |
+| Necropolis in Waset | 0.30% | ~42 |
+| Patriarch St Paul | 0.30% | ~42 |
+| Hypatia the Teacher | 0.30% | ~42 |
 | Gold Victory (Carthage 1) | 0.20% | ~28 |
 | Silver Victory (Carthage 1) | 0.20% | ~28 |
 | Carthage - Riches and Influence | 0.20% | ~28 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,833 (Ranked 122)  
+Progressed: 13,834 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 5 (0.04%) (Ranked 240)
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
 | 2023-09-09 | 13,831 | 5 |
-| 2023-09-10 | 13,833 | 5 |
+| 2023-09-10 | 13,834 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

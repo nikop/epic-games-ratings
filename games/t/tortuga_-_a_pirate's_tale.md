@@ -32,7 +32,7 @@ Rating: 3.77 (Ranked 979)
 | Pufferfish | 0.10% | ~16 |
 | O Captain! My Captain! | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,177 (Ranked 118)  
+Progressed: 16,177 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -151,9 +151,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1395,
+  "EOS_Progressed": 1396,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1471,6 +1471,11 @@
       "Time": "2023-09-10T00:06:21.9393819+00:00",
       "NumProgressed": 1395,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T04:07:33.4763912+00:00",
+      "NumProgressed": 1396,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 56,
@@ -1498,7 +1503,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1554,7 +1559,7 @@
       "Name": "Passing Shadow",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -1642,7 +1647,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -1656,9 +1661,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 558
     },
     {
       "ID": "achievement_mythwalker",
@@ -1674,7 +1679,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -1698,7 +1703,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "completedStory_cvawn",
@@ -1929,15 +1934,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1395,
+      "Progressed": 1396,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-07-08T20:01:41.3411794+00:00",
-  "LastChanged_Achievements": "2023-09-10T03:07:26.6580853+00:00",
+  "LastChanged_Achievements": "2023-09-10T04:07:33.4763906+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.9570897+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:19:05.5210709+00:00",
-  "LastUpdate_Achievements": "2023-09-10T03:07:26.6581578+00:00"
+  "LastUpdate_Ratings": "2023-09-10T03:57:15.6323328+00:00",
+  "LastUpdate_Achievements": "2023-09-10T04:07:33.4764469+00:00"
 }

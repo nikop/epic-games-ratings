@@ -3418,10 +3418,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7498,
       "NumberOfAwardsMax": 944
+    },
+    {
+      "Time": "2023-09-10T04:00:44.2647609+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7499,
+      "NumberOfAwardsMax": 944
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7498,
+  "NumberOfAwards": 7499,
   "NumberOfAwardsMax": 944,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3453,7 +3459,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 737
+      "Count": 738
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3492,11 +3498,11 @@
       "Count": 497
     }
   ],
-  "EOS_Progressed": 9450,
+  "EOS_Progressed": 9451,
   "EOS_Completed": 215,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 2.28,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:05:01.9582543+00:00",
@@ -12127,6 +12133,11 @@
       "Time": "2023-09-10T03:03:16.5436619+00:00",
       "NumProgressed": 9450,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2023-09-10T04:03:13.6494203+00:00",
+      "NumProgressed": 9451,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 15,
@@ -12138,7 +12149,7 @@
       "Name": "Angler",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "Banker",
@@ -12178,7 +12189,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "Duty_Bound",
@@ -12226,15 +12237,15 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6520
+      "UsersEstimate": 6521
     },
     {
       "ID": "Renovator",
       "SetID": "chapdi4",
       "Name": "Renovator",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4820
     },
     {
       "ID": "Thorn_Cleaner",
@@ -12257,16 +12268,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9450,
+      "Progressed": 9451,
       "Completed": 215
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-09-09T16:59:23.5216634+00:00",
-  "LastChanged_Achievements": "2023-09-10T03:03:16.5436614+00:00",
+  "LastChanged": "2023-09-10T04:00:44.2647608+00:00",
+  "LastChanged_Achievements": "2023-09-10T04:03:13.6494197+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:08.9722146+00:00",
-  "LastUpdate_Ratings": "2023-09-10T03:00:28.4962948+00:00",
-  "LastUpdate_Achievements": "2023-09-10T03:03:16.5437619+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:00:44.2647616+00:00",
+  "LastUpdate_Achievements": "2023-09-10T04:03:13.6495032+00:00"
 }

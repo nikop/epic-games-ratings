@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.55 (Ranked 487)  
+Rating: 4.55 (Ranked 488)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,9 +17,9 @@ Rating: 4.55 (Ranked 487)
 | You Only Live Twice | 16.00% | ~2,870 |
 | Fully Decked Out | 16.00% | ~2,870 |
 | A view to Win | 13.00% | ~2,332 |
-| Private Collection | 12.00% | ~2,152 |
-| Hostile Takeover | 12.00% | ~2,152 |
-| Smells Like Trouble | 12.00% | ~2,152 |
+| Private Collection | 12.00% | ~2,153 |
+| Hostile Takeover | 12.00% | ~2,153 |
+| Smells Like Trouble | 12.00% | ~2,153 |
 | Dr. No Kill | 11.00% | ~1,973 |
 | The Living Portrait | 11.00% | ~1,973 |
 | My Motto, My Creed | 11.00% | ~1,973 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 487)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,937 (Ranked 113)  
+Progressed: 17,938 (Ranked 113)  
 Completed: 1 (0.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 1 (0.01%) (Ranked 257)
 | 2023-09-07 | 17,903 | 1 |
 | 2023-09-08 | 17,917 | 1 |
 | 2023-09-09 | 17,934 | 1 |
-| 2023-09-10 | 17,937 | 1 |
+| 2023-09-10 | 17,938 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

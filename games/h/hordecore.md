@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 97.00% | ~339 |
-| Decision Maker | 80.00% | ~279 |
-| Sneaky Sneak | 78.00% | ~272 |
-| DIY | 78.00% | ~272 |
-| Master Chef | 66.00% | ~230 |
-| Master of Cards | 59.00% | ~206 |
-| Over Nine Thousaaand | 57.00% | ~199 |
+| Just Went Shopping | 97.00% | ~340 |
+| Decision Maker | 80.00% | ~281 |
+| Sneaky Sneak | 78.00% | ~274 |
+| DIY | 78.00% | ~274 |
+| Master Chef | 66.00% | ~232 |
+| Master of Cards | 59.00% | ~207 |
+| Over Nine Thousaaand | 57.00% | ~200 |
 | Getting the Hang Of This | 48.00% | ~168 |
-| Collector | 29.00% | ~101 |
-| That’s What Friends Are For | 21.00% | ~73 |
-| Blow ‘Em Up | 21.00% | ~73 |
+| Collector | 29.00% | ~102 |
+| That’s What Friends Are For | 22.00% | ~77 |
+| Blow ‘Em Up | 21.00% | ~74 |
 | Poker-Man | 20.00% | ~70 |
 | FOR THE GAUNTLET! | 20.00% | ~70 |
-| Untapped Potential | 17.00% | ~59 |
+| Untapped Potential | 17.00% | ~60 |
 | Played by Gramps | 14.00% | ~49 |
-| Size Doesn’t Matter | 13.00% | ~45 |
-| My Savior! | 13.00% | ~45 |
+| Size Doesn’t Matter | 13.00% | ~46 |
+| My Savior! | 13.00% | ~46 |
 | I Choo-Choo-Choose You | 12.00% | ~42 |
-| Totally Swamped | 11.00% | ~38 |
-| Is Anyone Out There? | 11.00% | ~38 |
+| Totally Swamped | 11.00% | ~39 |
+| Is Anyone Out There? | 11.00% | ~39 |
 | Limitless | 10.00% | ~35 |
 | Hammer Time | 10.00% | ~35 |
 | Hired Goon | 6.00% | ~21 |
 | Holy Scrap! | 6.00% | ~21 |
 | How I Met Your Nana | 4.00% | ~14 |
 | KOBEEE! | 4.00% | ~14 |
-| Lord of the Wastes | 3.00% | ~10 |
-| Through Hell and Back | 3.00% | ~10 |
+| Lord of the Wastes | 3.00% | ~11 |
+| Through Hell and Back | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349 (Ranked 268)  
-Completed: 11 (3.15%) (Ranked 71)  
+Progressed: 351 (Ranked 268)  
+Completed: 11 (3.13%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,6 +60,7 @@ Completed: 11 (3.15%) (Ranked 71)
 | 2023-08-01 | 348 | 10 |
 | 2023-08-03 | 349 | 10 |
 | 2023-08-08 | 349 | 11 |
+| 2023-09-10 | 351 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

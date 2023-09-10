@@ -6,32 +6,32 @@ Rating: 4.54 (Ranked 503)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 2.00% | ~13,537 |
-| Dr. Reed, I Presume? | 1.00% | ~6,768 |
-| Git Gutte! | 1.00% | ~6,768 |
-| Bookworm | 1.00% | ~6,768 |
-| Break A Leg | 1.00% | ~6,768 |
-| But Doctor, I am Butcho | 1.00% | ~6,768 |
-| Slayer Squad | 1.00% | ~6,768 |
-| Can't Handle the Truth | 1.00% | ~6,768 |
-| Coup de Grâce | 1.00% | ~6,768 |
-| Like Riding a Bike | 1.00% | ~6,768 |
-| Hazardous Materials | 1.00% | ~6,768 |
-| Friends Like These | 1.00% | ~6,768 |
-| Hotel California | 1.00% | ~6,768 |
-| Apex Predator | 1.00% | ~6,768 |
-| Zombologist | 1.00% | ~6,768 |
-| A Patton Emerges | 1.00% | ~6,768 |
-| Stacking the Deck | 1.00% | ~6,768 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,768 |
-| This is My Weapon | 1.00% | ~6,768 |
+| Dr. Reed, I Presume? | 1.00% | ~6,769 |
+| Git Gutte! | 1.00% | ~6,769 |
+| Bookworm | 1.00% | ~6,769 |
+| Break A Leg | 1.00% | ~6,769 |
+| But Doctor, I am Butcho | 1.00% | ~6,769 |
+| Slayer Squad | 1.00% | ~6,769 |
+| Can't Handle the Truth | 1.00% | ~6,769 |
+| Coup de Grâce | 1.00% | ~6,769 |
+| Like Riding a Bike | 1.00% | ~6,769 |
+| Hazardous Materials | 1.00% | ~6,769 |
+| Friends Like These | 1.00% | ~6,769 |
+| Hotel California | 1.00% | ~6,769 |
+| Apex Predator | 1.00% | ~6,769 |
+| Zombologist | 1.00% | ~6,769 |
+| A Patton Emerges | 1.00% | ~6,769 |
+| Stacking the Deck | 1.00% | ~6,769 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,769 |
+| This is My Weapon | 1.00% | ~6,769 |
 | Our True Nature | 0.90% | ~6,092 |
 | Anger Management | 0.80% | ~5,415 |
 | Perks of the Job | 0.80% | ~5,415 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,415 |
 | Ooh, Shiny! | 0.80% | ~5,415 |
 | I Am the Resurrection | 0.80% | ~5,415 |
+| Making Your Mark | 0.70% | ~4,738 |
 | Humanity Distilled | 0.70% | ~4,738 |
-| Making Your Mark | 0.60% | ~4,061 |
 | Down with the Sickness | 0.60% | ~4,061 |
 | Max Headroom | 0.60% | ~4,061 |
 | Go, Bobcats! | 0.50% | ~3,384 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Survival Skills | 0.10% | ~677 |
 | Bucket List | 0.10% | ~677 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 676,848 (Ranked 22)  
+Progressed: 676,869 (Ranked 22)  
 Completed: 2,129 (0.31%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 2,129 (0.31%) (Ranked 177)
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
-| 2023-09-10 | 676,848 | 2,129 |
+| 2023-09-10 | 676,869 | 2,129 |
 ## Awards
 Max (Great Boss Battles): 5,990  (Ranked 58)  
 Sum: 8,847 (Ranked 94)  

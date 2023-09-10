@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1315,9 +1315,9 @@
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -1356,8 +1356,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-06-01T06:59:03.7150344+00:00",
-  "LastChanged_Achievements": "2023-09-10T03:05:02.4166435+00:00",
+  "LastChanged_Achievements": "2023-09-10T04:05:09.8788872+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.3960125+00:00",
-  "LastUpdate_Ratings": "2023-09-10T03:01:14.6146658+00:00",
-  "LastUpdate_Achievements": "2023-09-10T03:05:02.416675+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:01:30.8876204+00:00",
+  "LastUpdate_Achievements": "2023-09-10T04:05:09.8789346+00:00"
 }

@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 884)
 | Not Afraid of the Big Bad Wolf | 0.10% | ~196 |
 | Many More to Come | 0.10% | ~196 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,494 (Ranked 62)  
+Progressed: 196,495 (Ranked 62)  
 Completed: 4 (0.00%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 4 (0.00%) (Ranked 272)
 | 2023-09-07 | 196,384 | 4 |
 | 2023-09-08 | 196,433 | 4 |
 | 2023-09-09 | 196,488 | 4 |
-| 2023-09-10 | 196,494 | 4 |
+| 2023-09-10 | 196,495 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

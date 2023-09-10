@@ -28,7 +28,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Nothing To Lose | 40.00% | ~94,292 |
 | The Bestiary | 40.00% | ~94,292 |
 | What's Yours Is Mine | 38.00% | ~89,577 |
-| R.I.P | 36.00% | ~84,862 |
+| R.I.P | 37.00% | ~87,220 |
 | Shootout | 36.00% | ~84,862 |
 | I Am Overburdened | 35.00% | ~82,505 |
 | Cold Hearted | 34.00% | ~80,148 |

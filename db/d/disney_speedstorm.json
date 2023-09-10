@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,11 +15,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3159,
-  "EOS_Completed": 170,
-  "EOS_NewPlayers": 15,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.38,
+  "EOS_Progressed": 3160,
+  "EOS_Completed": 171,
+  "EOS_NewPlayers": 16,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 5.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:49:22.8918022+00:00",
@@ -4575,6 +4575,11 @@
       "Time": "2023-09-08T23:05:57.4743474+00:00",
       "NumProgressed": 3159,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-10T04:07:51.9454792+00:00",
+      "NumProgressed": 3160,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 24,
@@ -4586,7 +4591,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "10",
@@ -4594,7 +4599,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "11",
@@ -4610,7 +4615,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "13",
@@ -4626,7 +4631,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "15",
@@ -4682,7 +4687,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "21",
@@ -4696,9 +4701,9 @@
       "ID": "22",
       "SetID": "9p3jgda",
       "Name": "THE EYE OF THE HUNTER",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 379
+      "UsersEstimate": 411
     },
     {
       "ID": "23",
@@ -4777,13 +4782,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3159,
-      "Completed": 170
+      "Progressed": 3160,
+      "Completed": 171
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-10T03:07:44.6831449+00:00",
+  "LastChanged_Achievements": "2023-09-10T04:07:51.9454784+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:18.3778011+00:00",
-  "LastUpdate_Ratings": "2023-09-10T03:01:44.9452217+00:00",
-  "LastUpdate_Achievements": "2023-09-10T03:07:44.683202+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:02:00.9519126+00:00",
+  "LastUpdate_Achievements": "2023-09-10T04:07:51.9456169+00:00"
 }

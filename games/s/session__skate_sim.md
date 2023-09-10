@@ -8,7 +8,7 @@ Number of Ratings: 111  (23.09.2022)
 | ---- | ---------- | ----- |
 | You're free now! | 59.00% | ~1,641 |
 | Keeping it classy | 27.00% | ~751 |
-| Welcome to the family | 21.00% | ~584 |
+| Welcome to the family | 22.00% | ~612 |
 | The finer things in life | 19.00% | ~528 |
 | Backpacker | 14.00% | ~389 |
 | Go with the Flow | 13.00% | ~362 |

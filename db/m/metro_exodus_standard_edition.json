@@ -4,7 +4,7 @@
   "ProductSlug": "metro-exodus",
   "Ranking_Rating": 88,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 82,
+  "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 351,
@@ -4237,10 +4237,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 11051,
       "NumberOfAwardsMax": 5994
+    },
+    {
+      "Time": "2023-09-10T04:02:19.0175538+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 11052,
+      "NumberOfAwardsMax": 5994
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11051,
+  "NumberOfAwards": 11052,
   "NumberOfAwardsMax": 5994,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4284,7 +4290,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 612
+      "Count": 613
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4336,9 +4342,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
-  "LastChanged": "2023-09-09T17:00:29.7248012+00:00",
-  "LastChanged_Achievements": "2023-09-10T03:07:52.7043355+00:00",
+  "LastChanged": "2023-09-10T04:02:19.0175536+00:00",
+  "LastChanged_Achievements": "2023-09-10T04:07:59.6823285+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:35.0228474+00:00",
-  "LastUpdate_Ratings": "2023-09-10T03:02:12.7503678+00:00",
-  "LastUpdate_Achievements": "2023-09-10T03:07:52.704339+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:02:19.0175543+00:00",
+  "LastUpdate_Achievements": "2023-09-10T04:07:59.6823328+00:00"
 }

@@ -1683,9 +1683,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13833,
+  "EOS_Progressed": 13834,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11203,6 +11203,11 @@
       "Time": "2023-09-10T01:50:14.4900005+00:00",
       "NumProgressed": 13833,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T04:07:31.3690917+00:00",
+      "NumProgressed": 13834,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11374,7 +11379,7 @@
       "Name": "Bronze Victory (Carthage 1)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_EPIC",
@@ -11606,7 +11611,7 @@
       "Name": "Capable",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -11710,7 +11715,7 @@
       "Name": "Invincible",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -11814,7 +11819,7 @@
       "Name": "Ready",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -11854,7 +11859,7 @@
       "Name": "Subjugator",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -11990,7 +11995,7 @@
       "Name": "Magnificent Difficulty",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
@@ -12038,7 +12043,7 @@
       "Name": "Event Level High",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_ARTISANS",
@@ -12190,7 +12195,7 @@
       "Name": "Run, Pheidippides, Run!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
@@ -12550,7 +12555,7 @@
       "Name": "Circus Maximus",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -12590,7 +12595,7 @@
       "Name": "Church of the Holy Sepulchre",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -12766,7 +12771,7 @@
       "Name": "Learn to Play 5",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -12854,7 +12859,7 @@
       "Name": "Hatti",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_NATION_PERSIA",
@@ -12894,7 +12899,7 @@
       "Name": "Pantheon of Gods",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -12902,7 +12907,7 @@
       "Name": "Apadana in Parsa",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_PLAY_1V1",
@@ -12918,7 +12923,7 @@
       "Name": "Play a Free-For-All Game (\u003E2 Players)",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_PLAY_HOTSEAT",
@@ -13102,7 +13107,7 @@
       "Name": "Circus Maximus in Roma",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_ROMA_PANTHEON",
@@ -13212,9 +13217,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
       "SetID": "7l38kb8",
       "Name": "Redemption",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -13262,7 +13267,7 @@
       "Name": "Cimmerian Archer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -13302,7 +13307,7 @@
       "Name": "Siege Tower",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -13334,7 +13339,7 @@
       "Name": "Ambition Victory",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -13342,7 +13347,7 @@
       "Name": "Conquest Victory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
@@ -13350,7 +13355,7 @@
       "Name": "Double Victory",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -13422,7 +13427,7 @@
       "Name": "Necropolis in Waset",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_WIN_1V1",
@@ -13486,7 +13491,7 @@
       "Name": "Win a Single Player Game",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -13558,7 +13563,7 @@
       "Name": "Patriarch St Paul",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_TUTOR_HYPATIA",
@@ -13566,7 +13571,7 @@
       "Name": "Hypatia the Teacher",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_THE_ROYAL_COUPLE",
@@ -13581,21 +13586,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13833,
+      "Progressed": 13834,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13833,
+      "Progressed": 13834,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-10T03:07:24.5165115+00:00",
+  "LastChanged_Achievements": "2023-09-10T04:07:31.3690908+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-10T03:00:33.1618091+00:00",
-  "LastUpdate_Achievements": "2023-09-10T03:07:24.5174739+00:00"
+  "LastUpdate_Ratings": "2023-09-10T04:00:49.0479707+00:00",
+  "LastUpdate_Achievements": "2023-09-10T04:07:31.3703167+00:00"
 }

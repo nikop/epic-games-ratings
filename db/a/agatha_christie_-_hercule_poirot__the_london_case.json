@@ -129,9 +129,9 @@
       "ID": "ACH_015",
       "SetID": "7b646ck",
       "Name": "Everything matters",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_016",
@@ -153,9 +153,9 @@
       "ID": "ACH_018",
       "SetID": "7b646ck",
       "Name": "Order and method",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_019",
@@ -456,8 +456,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-09-10T03:05:45.0025363+00:00",
+  "LastChanged_Achievements": "2023-09-10T04:05:53.1282508+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.0541304+00:00",
-  "LastUpdate_Ratings": "2023-09-10T02:58:24.2146724+00:00",
-  "LastUpdate_Achievements": "2023-09-10T03:05:45.0026101+00:00"
+  "LastUpdate_Ratings": "2023-09-10T03:58:39.5598836+00:00",
+  "LastUpdate_Achievements": "2023-09-10T04:05:53.1282965+00:00"
 }

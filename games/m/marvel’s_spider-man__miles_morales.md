@@ -3,9 +3,9 @@
 [View Rawdata](../../db/m/marvel’s_spider-man__miles_morales.json)  
 Rating: 4.78 (Ranked 101)  
 ## Awards
-Max (Great Boss Battles): 1,476  (Ranked 123)  
+Max (Great Boss Battles): 1,476  (Ranked 124)  
 Sum: 1,989 (Ranked 203)  
-Diff (max vs sum): -80  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,476 |
