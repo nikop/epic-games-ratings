@@ -7,7 +7,7 @@
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.24% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 28.38% |
+| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 28.00% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -15,7 +15,7 @@
 | 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.55% |
 | 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
-| 16 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 19.23% |
+| 16 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 18.52% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 19 | [Island Cities](games/i/island_cities.md) | 14.29% |
@@ -39,7 +39,7 @@
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 38 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.16% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
 | 41 | [Scorn](games/s/scorn.md) | 7.01% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.86% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.56% |
@@ -86,7 +86,7 @@
 | 82 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 85 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.49% |
 | 86 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
-| 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.43% |
+| 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.42% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.27% |
 | 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.24% |

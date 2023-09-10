@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Street Pursuit](games/d/d5dbb40723524c528b6a529f2a4f6b57.md) | 2023-09-10 | - |  | - | - |
 | [Dirty Wars: September 11](games/a/a3df291e5482464898a00f1ed892605f.md) | 2023-09-11 | - |  | - | - |
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | 2023-09-11 | - |  | - | - |
 | [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 1 | - | - |
@@ -56,7 +57,6 @@
 | [Painting Werther](games/p/painting_werther.md) | 2023-09-30 | - |  | - | - |
 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2023-09-30 | - |  | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | - |  | - | - |
-| [Street Pursuit](games/d/d5dbb40723524c528b6a529f2a4f6b57.md) | 2023-09-30 | - |  | - | - |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | 18 (1,000 XP) | 0 | - | - |
 | [Trail Of Ayash](games/5/538efd8138f94b088f2d9e3da178edd6.md) | 2023-09-30 | 18 (1,000 XP) | 0 | - | - |
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | - |  | - | - |
@@ -208,7 +208,7 @@
 | [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 3,970 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 3,983 | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Xenion](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-06-30 | - |  | - | - |
