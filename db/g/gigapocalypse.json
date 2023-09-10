@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -409,17 +409,17 @@
       "ID": "secret13",
       "SetID": "39f6ck8",
       "Name": "You Shall Not Pass",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "secret14",
       "SetID": "39f6ck8",
       "Name": "Mommy\u0027s Very Angry",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "secret15",
@@ -481,17 +481,17 @@
       "ID": "secret21",
       "SetID": "39f6ck8",
       "Name": "Mutant And Proud",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "secret22",
       "SetID": "39f6ck8",
       "Name": "The Emperor\u0027s New Clothes",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "secret23",
@@ -521,9 +521,9 @@
       "ID": "secret26",
       "SetID": "39f6ck8",
       "Name": "Supreme Power",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "secret27",
@@ -569,9 +569,9 @@
       "ID": "secret31",
       "SetID": "39f6ck8",
       "Name": "Immortal Skin",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "secret32",
@@ -585,9 +585,9 @@
       "ID": "secret33",
       "SetID": "39f6ck8",
       "Name": "Glorious Battle",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "secret34",
@@ -665,9 +665,9 @@
       "ID": "secret42",
       "SetID": "39f6ck8",
       "Name": "Final Evolution",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "secret43",
@@ -810,8 +810,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:05:08.3709039+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:04:52.9596941+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:04.5927257+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:57:45.7141006+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:05:08.3709522+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:57:49.3904111+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:04:52.9597401+00:00"
 }

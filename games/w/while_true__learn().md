@@ -6,18 +6,18 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~561,148 |
-| Error: Stack Overflow | 66.00% | ~398,234 |
-| We need more gold | 61.00% | ~368,065 |
-| The dawn of civilization | 53.00% | ~319,794 |
-| More FPS for the FPS god! | 49.00% | ~295,659 |
-| Beauty and harmony | 48.00% | ~289,625 |
-| One more! | 44.00% | ~265,489 |
-| Overmind | 24.00% | ~144,812 |
-| RNG is my best friend now | 18.00% | ~108,609 |
-| Cosplay | 13.00% | ~78,440 |
-| Evolution in progress... | 13.00% | ~78,440 |
-| Step by step | 8.00% | ~48,271 |
+| First.. Bit? | 93.00% | ~561,159 |
+| Error: Stack Overflow | 66.00% | ~398,242 |
+| We need more gold | 61.00% | ~368,072 |
+| The dawn of civilization | 53.00% | ~319,800 |
+| More FPS for the FPS god! | 49.00% | ~295,665 |
+| Beauty and harmony | 48.00% | ~289,631 |
+| One more! | 44.00% | ~265,495 |
+| Overmind | 24.00% | ~144,815 |
+| RNG is my best friend now | 18.00% | ~108,611 |
+| Cosplay | 13.00% | ~78,442 |
+| Evolution in progress... | 13.00% | ~78,442 |
+| Step by step | 8.00% | ~48,272 |
 | README reader | 3.00% | ~18,102 |
 | Data scientist | 3.00% | ~18,102 |
 | One small step for a man... | 3.00% | ~18,102 |
@@ -28,14 +28,14 @@ Number of Ratings: 896  (23.09.2022)
 | Cybergeek 2047 | 2.00% | ~12,068 |
 | Ping | 1.00% | ~6,034 |
 | Magna cum laude | 1.00% | ~6,034 |
-| The hoarder | 0.90% | ~5,430 |
+| The hoarder | 0.90% | ~5,431 |
 | Deal with it! | 0.50% | ~3,017 |
 | Gold rush | 0.40% | ~2,414 |
 | Cat-o-holic | 0.40% | ~2,414 |
 | Elements will destroy you! | 0.30% | ~1,810 |
 | The Scrooge | 0.10% | ~603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 603,385 (Ranked 28)  
+Progressed: 603,397 (Ranked 28)  
 Completed: 523 (0.09%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 523 (0.09%) (Ranked 223)
 | 2023-09-07 | 603,066 | 523 |
 | 2023-09-08 | 603,167 | 523 |
 | 2023-09-09 | 603,300 | 523 |
-| 2023-09-10 | 603,385 | 523 |
+| 2023-09-10 | 603,397 | 523 |
 ## Awards
 Max (Challenging Puzzles): 134  (Ranked 309)  
 Sum: 134 (Ranked 405)  

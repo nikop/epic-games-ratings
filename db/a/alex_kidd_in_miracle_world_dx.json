@@ -2,10 +2,10 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -502,8 +502,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:07:00.0805863+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:06:42.962258+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:10.9300024+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:59:43.2682858+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:07:00.080601+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:59:45.1545979+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:06:42.962271+00:00"
 }

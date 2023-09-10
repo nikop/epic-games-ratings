@@ -4,8 +4,8 @@
   "ProductSlug": "frogun-9cf69e",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
     "PcReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:03:32.2845524+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:03:19.6261412+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:04.8048802+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:57:45.6314051+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:03:32.284576+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:57:49.4847941+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:03:19.6261661+00:00"
 }

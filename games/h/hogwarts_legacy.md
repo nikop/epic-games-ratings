@@ -5,28 +5,28 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,478 |
-| First Class Student | 13.00% | ~38,515 |
-| Troll with the Punches | 12.00% | ~35,553 |
-| A Keen Sense of Spell | 11.00% | ~32,590 |
-| That's a Keeper | 11.00% | ~32,590 |
-| Grappling with a Graphorn | 10.00% | ~29,627 |
-| The One Who Mastered Memories | 10.00% | ~29,627 |
-| The Hallowed Hero | 10.00% | ~29,627 |
-| The Defender of Dragons | 10.00% | ~29,627 |
-| Loom for Improvement | 10.00% | ~29,627 |
-| A Talent for Spending | 10.00% | ~29,627 |
-| Coasting Along | 10.00% | ~29,627 |
-| The Hero of Hogwarts | 9.00% | ~26,664 |
-| Challenge Accepted | 9.00% | ~26,664 |
-| Followed the Butterflies | 9.00% | ~26,664 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,479 |
+| First Class Student | 13.00% | ~38,516 |
+| Troll with the Punches | 12.00% | ~35,554 |
+| A Keen Sense of Spell | 11.00% | ~32,591 |
+| That's a Keeper | 11.00% | ~32,591 |
+| Grappling with a Graphorn | 10.00% | ~29,628 |
+| The One Who Mastered Memories | 10.00% | ~29,628 |
+| The Hallowed Hero | 10.00% | ~29,628 |
+| The Defender of Dragons | 10.00% | ~29,628 |
+| Loom for Improvement | 10.00% | ~29,628 |
+| A Talent for Spending | 10.00% | ~29,628 |
+| Coasting Along | 10.00% | ~29,628 |
+| The Hero of Hogwarts | 9.00% | ~26,665 |
+| Challenge Accepted | 9.00% | ~26,665 |
+| Followed the Butterflies | 9.00% | ~26,665 |
 | The Spell Master | 8.00% | ~23,702 |
 | Rising From the Ashes | 8.00% | ~23,702 |
-| The Avenging Gazelle | 7.00% | ~20,739 |
-| Beast Friends | 7.00% | ~20,739 |
-| A Sallow Grave | 7.00% | ~20,739 |
-| Flight the Good Flight | 7.00% | ~20,739 |
-| Raising Expectations | 6.00% | ~17,776 |
+| The Avenging Gazelle | 7.00% | ~20,740 |
+| Beast Friends | 7.00% | ~20,740 |
+| A Sallow Grave | 7.00% | ~20,740 |
+| Flight the Good Flight | 7.00% | ~20,740 |
+| Raising Expectations | 6.00% | ~17,777 |
 | The Seeker of Knowledge | 5.00% | ~14,814 |
 | The Root of the Problem | 5.00% | ~14,814 |
 | Third Time's a Charm | 5.00% | ~14,814 |
@@ -38,20 +38,20 @@ Rating: 4.77 (Ranked 109)
 | The Gryffindor in the Graveyard | 4.00% | ~11,851 |
 | The Wise Owl | 4.00% | ~11,851 |
 | Floo Around the World | 3.00% | ~8,888 |
-| The Good Samaritan | 2.00% | ~5,925 |
-| Put Down Roots | 2.00% | ~5,925 |
-| The Auror's Apprentice | 2.00% | ~5,925 |
-| Rise to the Challenges | 2.00% | ~5,925 |
-| Finishing Touches | 2.00% | ~5,925 |
+| The Good Samaritan | 2.00% | ~5,926 |
+| Put Down Roots | 2.00% | ~5,926 |
+| The Auror's Apprentice | 2.00% | ~5,926 |
+| Rise to the Challenges | 2.00% | ~5,926 |
+| Finishing Touches | 2.00% | ~5,926 |
 | Savvy Spender | 1.00% | ~2,963 |
 | Demiguise Dread | 1.00% | ~2,963 |
 | A Forte for Achievement | 1.00% | ~2,963 |
-| Merlin's Beard! | 0.90% | ~2,666 |
+| Merlin's Beard! | 0.90% | ~2,667 |
 | Spilled Milk | 0.80% | ~2,370 |
 | The Nature of the Beast | 0.60% | ~1,778 |
 | Collector's Edition | 0.30% | ~889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,272 (Ranked 43)  
+Progressed: 296,280 (Ranked 43)  
 Completed: 469 (0.16%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,23 +194,23 @@ Completed: 469 (0.16%) (Ranked 202)
 | 2023-09-07 | 295,758 | 468 |
 | 2023-09-08 | 295,981 | 469 |
 | 2023-09-09 | 296,169 | 469 |
-| 2023-09-10 | 296,272 | 469 |
+| 2023-09-10 | 296,280 | 469 |
 ## Awards
 Max (Character Customization): 22,487  (Ranked 17)  
-Sum: 42,833 (Ranked 30)  
+Sum: 42,849 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 22,487 |
 | This game has Great Boss Battles | 10,998 |
 | This game is Great for Beginners | 1,045 |
+| This game is Extremely Fun | 1,011 |
 | This game has Amazing Storytelling | 1,005 |
-| This game is Extremely Fun | 1,003 |
 | This game is Relaxing | 1,003 |
 | This game has Diverse Characters | 997 |
 | This game has Amazing Characters | 973 |
 | This game is Highly Recommended | 963 |
-| This game has Quickly Understood Controls | 894 |
+| This game has Quickly Understood Controls | 902 |
 | This game has Beautiful Visuals | 838 |
 | This game has a Creative Community | 627 |
 ## Ratings History
@@ -386,4 +386,4 @@ Diff (max vs sum): -13
 | 2023-09-07 | 4.77 | 22,320 | 42,462 |
 | 2023-09-08 | 4.77 | 22,365 | 42,567 |
 | 2023-09-09 | 4.77 | 22,422 | 42,694 |
-| 2023-09-10 | 4.77 | 22,487 | 42,833 |
+| 2023-09-10 | 4.77 | 22,487 | 42,849 |

@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "META_HALF_LINK",
@@ -725,9 +725,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -781,17 +781,17 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "PROGRESS_N4",
@@ -805,9 +805,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
@@ -820,8 +820,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:06:07.5651872+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:05:51.4267485+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:00:45.7526961+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:06:07.5652084+00:00"
+  "LastUpdate_Ratings": "2023-09-10T18:00:43.476026+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:05:51.4267688+00:00"
 }

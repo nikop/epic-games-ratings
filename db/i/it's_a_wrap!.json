@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
     "PcReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -351,17 +351,17 @@
       "ID": "3_00_CRATE_KILLER",
       "SetID": "2l1dk5b",
       "Name": "Unboxing Video",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "3_00_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Who\u0027s gonna pay for that?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "3_20_SECRET",
@@ -399,17 +399,17 @@
       "ID": "MOV1_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Treasure Hunter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MOV2_FINISH",
       "SetID": "2l1dk5b",
       "Name": "Space Invader",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MOV3_FINISH",
@@ -430,8 +430,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:05:43.2389612+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:05:27.6841329+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:50.0677314+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:00:52.8255991+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:05:43.2389731+00:00"
+  "LastUpdate_Ratings": "2023-09-10T18:02:10.2577249+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:05:27.6841464+00:00"
 }

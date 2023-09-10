@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1683,9 +1683,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13849,
+  "EOS_Progressed": 13850,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11248,6 +11248,11 @@
       "Time": "2023-09-10T17:06:31.0509551+00:00",
       "NumProgressed": 13849,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T18:06:14.6701587+00:00",
+      "NumProgressed": 13850,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11587,7 +11592,7 @@
       "Name": "Able",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -11611,7 +11616,7 @@
       "Name": "Architect",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -11683,7 +11688,7 @@
       "Name": "Enlightened",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_EXPLORER",
@@ -11707,7 +11712,7 @@
       "Name": "Glorious",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -11715,7 +11720,7 @@
       "Name": "Good",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -11763,7 +11768,7 @@
       "Name": "Just",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_KEYSTONE",
@@ -11771,7 +11776,7 @@
       "Name": "Keystone",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LEARNED",
@@ -11779,7 +11784,7 @@
       "Name": "Learned",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_LIBERATOR",
@@ -11811,7 +11816,7 @@
       "Name": "Mason",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -11827,7 +11832,7 @@
       "Name": "Noble",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
@@ -11851,7 +11856,7 @@
       "Name": "Pioneer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
@@ -11891,7 +11896,7 @@
       "Name": "Strong",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -11955,7 +11960,7 @@
       "Name": "Developing Cities",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -12627,7 +12632,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -12707,7 +12712,7 @@
       "Name": "Oracle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -13043,7 +13048,7 @@
       "Name": "Judaism",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -13057,9 +13062,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -13091,15 +13096,15 @@
       "Name": "Greek Paganism",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -13179,7 +13184,7 @@
       "Name": "Naming Landmarks",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
@@ -13291,7 +13296,7 @@
       "Name": "Trade Caravan",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_UNIT_CATAPHRACT_ARCHER",
@@ -13571,7 +13576,7 @@
       "Name": "The Great Mage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_MYTHICAL_BEAST",
@@ -13626,21 +13631,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13849,
+      "Progressed": 13850,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13849,
+      "Progressed": 13850,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:06:31.0509544+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:06:14.670158+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:59:45.3303692+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:06:31.0519522+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:59:47.1555217+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:06:14.6712003+00:00"
 }

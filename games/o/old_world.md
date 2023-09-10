@@ -12,26 +12,26 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 5.00% | ~692 |
 | Intrepid | 4.00% | ~554 |
 | Friendly Family | 4.00% | ~554 |
-| Able | 3.00% | ~415 |
-| Architect | 3.00% | ~415 |
-| Enlightened | 3.00% | ~415 |
-| Glorious | 3.00% | ~415 |
-| Good | 3.00% | ~415 |
-| Just | 3.00% | ~415 |
-| Keystone | 3.00% | ~415 |
-| Learned | 3.00% | ~415 |
-| Mason | 3.00% | ~415 |
-| Noble | 3.00% | ~415 |
-| Pioneer | 3.00% | ~415 |
-| Strong | 3.00% | ~415 |
-| Developing Cities | 3.00% | ~415 |
-| Hanging Gardens | 3.00% | ~415 |
-| Oracle | 3.00% | ~415 |
-| Judaism | 3.00% | ~415 |
-| Greek Paganism | 3.00% | ~415 |
-| Naming Landmarks | 3.00% | ~415 |
-| Trade Caravan | 3.00% | ~415 |
-| The Great Mage | 3.00% | ~415 |
+| Able | 3.00% | ~416 |
+| Architect | 3.00% | ~416 |
+| Enlightened | 3.00% | ~416 |
+| Glorious | 3.00% | ~416 |
+| Good | 3.00% | ~416 |
+| Just | 3.00% | ~416 |
+| Keystone | 3.00% | ~416 |
+| Learned | 3.00% | ~416 |
+| Mason | 3.00% | ~416 |
+| Noble | 3.00% | ~416 |
+| Pioneer | 3.00% | ~416 |
+| Strong | 3.00% | ~416 |
+| Developing Cities | 3.00% | ~416 |
+| Hanging Gardens | 3.00% | ~416 |
+| Oracle | 3.00% | ~416 |
+| Judaism | 3.00% | ~416 |
+| Greek Paganism | 3.00% | ~416 |
+| Naming Landmarks | 3.00% | ~416 |
+| Trade Caravan | 3.00% | ~416 |
+| The Great Mage | 3.00% | ~416 |
 | Regicide | 2.00% | ~277 |
 | Ambitious | 2.00% | ~277 |
 | Drillmaster | 2.00% | ~277 |
@@ -105,6 +105,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.90% | ~125 |
 | Circus Maximus | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
+| Assyrian Paganism | 0.90% | ~125 |
 | Cimmerian Archer | 0.90% | ~125 |
 | Ambition Victory | 0.90% | ~125 |
 | Double Victory | 0.90% | ~125 |
@@ -115,7 +116,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Riders | 0.80% | ~111 |
 | Adur Burzen-Mihr | 0.80% | ~111 |
 | Carthage | 0.80% | ~111 |
-| Assyrian Paganism | 0.80% | ~111 |
 | Industrial Progress | 0.80% | ~111 |
 | Military Prestige | 0.80% | ~111 |
 | Enlightenment | 0.80% | ~111 |
@@ -126,6 +126,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.70% | ~97 |
 | Learn to Play 4 | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
+| Hittite Paganism | 0.70% | ~97 |
 | Kushite Cavalry | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
 | One True Faith | 0.60% | ~83 |
-| Hittite Paganism | 0.60% | ~83 |
 | Turreted Elephant | 0.60% | ~83 |
 | All Nations | 0.60% | ~83 |
 | Carthage - Ox Hide | 0.50% | ~69 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,849 (Ranked 122)  
+Progressed: 13,850 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 5 (0.04%) (Ranked 241)
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
 | 2023-09-09 | 13,831 | 5 |
-| 2023-09-10 | 13,849 | 5 |
+| 2023-09-10 | 13,850 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

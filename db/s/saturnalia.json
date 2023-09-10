@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -252,9 +252,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66283,
+  "EOS_Progressed": 66286,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9827,6 +9827,11 @@
       "Time": "2023-09-10T17:05:09.8157931+00:00",
       "NumProgressed": 66283,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-10T18:04:54.4573295+00:00",
+      "NumProgressed": 66286,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -9846,7 +9851,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -9884,9 +9889,9 @@
       "ID": "ACH_FLASHCREATURE",
       "SetID": "6ccjg6f",
       "Name": "Paparazzi",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -9990,14 +9995,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 66283,
+      "Progressed": 66286,
       "Completed": 14
     }
   ],
@@ -10005,8 +10010,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-08-26T23:01:09.4658667+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:05:09.8157922+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:04:54.4573288+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.6127386+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:59:10.9458702+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:05:09.8158958+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:59:12.7656185+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:04:54.4573947+00:00"
 }

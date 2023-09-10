@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1421,9 +1421,9 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 399
     },
     {
       "ID": "AC09",
@@ -1637,9 +1637,9 @@
       "ID": "AC35",
       "SetID": "l4abp0",
       "Name": "Flawless Penance",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "AC36",
@@ -1701,9 +1701,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 346
     },
     {
       "ID": "AC44",
@@ -1734,8 +1734,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:04:35.677264+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:04:20.8755655+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:58:34.110339+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:04:35.6773112+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:58:35.9927006+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:04:20.8756125+00:00"
 }

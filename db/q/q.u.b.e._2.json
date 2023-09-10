@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1223,6 +1223,11 @@
       "Time": "2023-09-10T17:05:32.5217193+00:00",
       "NumProgressed": 262,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-10T18:05:17.6239671+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1241,17 +1246,17 @@
       "ID": "ACH_BLUEEND",
       "SetID": "232494e",
       "Name": "The Flawed Teacher",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 120,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_CUBEKILLER",
       "SetID": "232494e",
       "Name": "Green Cube Killer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -1395,7 +1400,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_PEAK",
@@ -1435,15 +1440,15 @@
       "Name": "Power Glove",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_S5",
       "SetID": "232494e",
       "Name": "Cogs in the Machine",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1466,15 +1471,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:05:32.5217188+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:05:17.6239662+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:59:07.1201169+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:05:32.5217449+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:59:08.9605019+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:05:17.6239937+00:00"
 }

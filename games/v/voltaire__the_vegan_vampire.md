@@ -10,8 +10,8 @@
 | Irrigation not irritation | 36.00% | ~41 |
 | Graduated | 32.00% | ~36 |
 | Night Shift | 23.00% | ~26 |
+| Shine bright | 16.00% | ~18 |
 | Ay ay yarrr! | 16.00% | ~18 |
-| Shine bright | 15.00% | ~17 |
 | It's about the journey | 12.00% | ~14 |
 | C'who? | 10.00% | ~11 |
 | There be sand in me shorts | 9.00% | ~10 |

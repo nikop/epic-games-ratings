@@ -13,12 +13,12 @@
 | A Cautious Man Is Worth Two of His Kind | 33.00% | ~3 |
 | They’re Watching | 33.00% | ~3 |
 | Trapped in Time | 22.00% | ~2 |
+| A Cabin Boy with Potential | 22.00% | ~2 |
 | Don’t Touch the Rum! | 22.00% | ~2 |
+| Oh... You didn't think to bring it? | 22.00% | ~2 |
 | Art Connoisseur | 22.00% | ~2 |
 | Survivor | 22.00% | ~2 |
 | Master of Riddles | 22.00% | ~2 |
-| A Cabin Boy with Potential | 11.00% | ~1 |
-| Oh... You didn't think to bring it? | 11.00% | ~1 |
 | Egyptologist | 11.00% | ~1 |
 | The Last Skull | 11.00% | ~1 |
 ## Popularity (Based on EOS Achievements)

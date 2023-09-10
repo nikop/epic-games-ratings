@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The gateway to the underworld | 0.70% | ~2 |
-| Is it merely a dream? | 0.30% | ~1 |
+| The gateway to the underworld | 1.00% | ~3 |
+| Is it merely a dream? | 0.70% | ~2 |
 | The path to enlightenment | 0.30% | ~1 |
 | Our efforts are finally yielding progress | 0.30% | ~1 |
 | This looks really bad | 0.30% | ~1 |
@@ -19,7 +19,7 @@
 | Holy Nails | 0.00% | ~0 |
 | Flagellation | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 282)  
+Progressed: 292 (Ranked 281)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,3 +83,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-01 | 289 | 1 |
 | 2023-09-05 | 289 | 0 |
 | 2023-09-08 | 290 | 0 |
+| 2023-09-10 | 292 | 0 |

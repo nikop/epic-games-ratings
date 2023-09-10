@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 859,
+  "EOS_Progressed": 860,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2115,6 +2115,11 @@
       "Time": "2023-09-10T01:49:33.7167129+00:00",
       "NumProgressed": 859,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T18:05:30.2173868+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2142,7 +2147,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ChestCompletion1",
@@ -2158,7 +2163,7 @@
       "Name": "Right On Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2222,7 +2227,7 @@
       "Name": "Family Memories",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "FactorywoodChests1",
@@ -2262,7 +2267,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "GadgetCompletion1",
@@ -2486,7 +2491,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "TheaterChests1",
@@ -2542,14 +2547,14 @@
       "Name": "The Family Fortune",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 859,
+      "Progressed": 860,
       "Completed": 5
     }
   ],
@@ -2557,8 +2562,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:05:45.9118354+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:05:30.2173862+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:57:26.9579427+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:05:45.9118946+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:57:32.3992308+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:05:30.2174471+00:00"
 }

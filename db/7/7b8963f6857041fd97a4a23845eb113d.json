@@ -2,10 +2,10 @@
   "ID": "7b8963f6857041fd97a4a23845eb113d",
   "Name": "Daydream. Forgotten Sorrow",
   "ProductSlug": "daydream-forgotten-sorrow-6025c9",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +196,11 @@
       "Time": "2023-08-30T17:02:15.7427702+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-10T18:03:30.0150684+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -205,7 +210,7 @@
       "ID": "CH1_FATHER",
       "SetID": "6d348d1",
       "Name": "What a Mess!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -213,15 +218,15 @@
       "ID": "CH1_FIRST",
       "SetID": "6d348d1",
       "Name": "On a Journey!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 70,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CH1_MOTHER",
       "SetID": "6d348d1",
       "Name": "Mother\u0027s song",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -253,7 +258,7 @@
       "ID": "CH2_UNDERGROUND",
       "SetID": "6d348d1",
       "Name": "Secret Lair",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -261,7 +266,7 @@
       "ID": "CH3_FLOWER",
       "SetID": "6d348d1",
       "Name": "The Flower",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 70,
       "UsersEstimate": 9
     },
@@ -301,7 +306,7 @@
       "ID": "CH4_SWING",
       "SetID": "6d348d1",
       "Name": "The Swing Set",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -318,14 +323,14 @@
     {
       "ID": "6d348d1",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T16:57:07.6621394+00:00",
   "FirstSeenAchievements": "2023-06-01T12:01:12.0964223+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:03:43.7923939+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:03:30.0150677+00:00",
   "LastUpdate_AppInfo": "2023-09-07T19:57:25.3020649+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:58:43.0840192+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:03:43.7924044+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:58:44.7040798+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:03:30.0150798+00:00"
 }

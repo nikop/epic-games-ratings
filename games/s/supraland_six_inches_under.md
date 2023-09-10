@@ -58,7 +58,7 @@ Number of Ratings: 209  (23.09.2022)
 | So much force | 35.00% | ~782 |
 | You feel fully engaged | 24.00% | ~536 |
 | Too hot | 19.00% | ~424 |
-| All the chests | 13.00% | ~290 |
+| All the chests | 14.00% | ~313 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,233 (Ranked 178)  
 Completed: 270 (12.09%) (Ranked 22)  

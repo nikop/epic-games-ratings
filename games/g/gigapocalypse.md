@@ -16,27 +16,27 @@
 | Quite A Snack | 60.00% | ~109 |
 | Impenetrable Skin | 58.00% | ~106 |
 | Overwhelming Power | 55.00% | ~100 |
+| Supreme Power | 46.00% | ~84 |
 | Chomp Chomp! | 46.00% | ~84 |
-| Supreme Power | 45.00% | ~82 |
 | The Duelist | 43.00% | ~78 |
 | Diaper Time! | 43.00% | ~78 |
 | Target Practice | 43.00% | ~78 |
-| Glorious Battle | 41.00% | ~75 |
+| Glorious Battle | 42.00% | ~76 |
 | Meat Larder | 40.00% | ~73 |
-| Mutant And Proud | 38.00% | ~69 |
-| The Emperor's New Clothes | 32.00% | ~58 |
+| Mutant And Proud | 39.00% | ~71 |
+| The Emperor's New Clothes | 33.00% | ~60 |
+| Final Evolution | 32.00% | ~58 |
+| You Shall Not Pass | 31.00% | ~56 |
 | Undying Skin | 31.00% | ~56 |
 | Happy Little Home | 31.00% | ~56 |
-| Final Evolution | 31.00% | ~56 |
-| You Shall Not Pass | 30.00% | ~55 |
 | Animal Lover | 30.00% | ~55 |
 | Godlike Power | 30.00% | ~55 |
+| Mommy's Very Angry | 29.00% | ~53 |
 | Fight Me! | 29.00% | ~53 |
-| Mommy's Very Angry | 28.00% | ~51 |
 | Supremacy | 28.00% | ~51 |
 | Loyal Companion | 26.00% | ~47 |
+| Immortal Skin | 25.00% | ~46 |
 | Back To The Future | 24.00% | ~44 |
-| Immortal Skin | 24.00% | ~44 |
 | Fire Beacon | 23.00% | ~42 |
 | Lunch Before The Lunch | 22.00% | ~40 |
 | From Here To Eternity | 19.00% | ~35 |

@@ -25,17 +25,17 @@ Rating: 4.60 (Ranked 393)
 | The Betrayer | 17.00% | ~146 |
 | The Loose Cannon | 17.00% | ~146 |
 | Golem Chaser | 17.00% | ~146 |
-| Right On Time | 16.00% | ~137 |
-| The Man Who Shattered Time | 16.00% | ~137 |
-| Check Your Pulse | 16.00% | ~137 |
-| The Family Fortune | 16.00% | ~137 |
+| Right On Time | 16.00% | ~138 |
+| The Man Who Shattered Time | 16.00% | ~138 |
+| Check Your Pulse | 16.00% | ~138 |
+| The Family Fortune | 16.00% | ~138 |
 | Street Style | 15.00% | ~129 |
 | Cartographer | 15.00% | ~129 |
 | Treasure Trove | 14.00% | ~120 |
 | Whiz Kid | 13.00% | ~112 |
 | Good Neighbor | 12.00% | ~103 |
-| Chaincrawler Explorer | 11.00% | ~94 |
-| Family Memories | 11.00% | ~94 |
+| Chaincrawler Explorer | 11.00% | ~95 |
+| Family Memories | 11.00% | ~95 |
 | Syron for Hope | 10.00% | ~86 |
 | Theater Explorer | 10.00% | ~86 |
 | Ask Questions Later | 10.00% | ~86 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 393)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 859 (Ranked 214)  
+Progressed: 860 (Ranked 214)  
 Completed: 5 (0.58%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 5 (0.58%) (Ranked 146)
 | 2023-09-06 | 855 | 5 |
 | 2023-09-07 | 856 | 5 |
 | 2023-09-09 | 857 | 5 |
-| 2023-09-10 | 859 | 5 |
+| 2023-09-10 | 860 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

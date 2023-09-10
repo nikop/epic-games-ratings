@@ -12,7 +12,7 @@ Rating: 4.00 (Ranked 941)
 | Fellowship Power | 41.00% | ~789 |
 | Guild Power | 26.00% | ~500 |
 | Prestigious x10 | 22.00% | ~423 |
-| The game is on | 20.00% | ~385 |
+| The game is on | 21.00% | ~404 |
 | Exotic Merchant | 19.00% | ~366 |
 | Dragon Clicker | 17.00% | ~327 |
 | Inspection | 17.00% | ~327 |
@@ -48,6 +48,7 @@ Rating: 4.00 (Ranked 941)
 | Blueprint Upgrades | 7.00% | ~135 |
 | Enchanting skill | 7.00% | ~135 |
 | Engineer Mastery | 7.00% | ~135 |
+| Sailor | 7.00% | ~135 |
 | The Expeditioner | 7.00% | ~135 |
 | Weekly Quest Completionist | 7.00% | ~135 |
 | Ancient Knowledge | 6.00% | ~115 |
@@ -55,7 +56,6 @@ Rating: 4.00 (Ranked 941)
 | Legendary | 6.00% | ~115 |
 | Lock And Load | 6.00% | ~115 |
 | Missions Dedication | 6.00% | ~115 |
-| Sailor | 6.00% | ~115 |
 | The Alchemist | 6.00% | ~115 |
 | Active Member | 5.00% | ~96 |
 | Arena Challenger | 5.00% | ~96 |

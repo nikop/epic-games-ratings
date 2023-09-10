@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": "2015-01-29T16:00:00+00:00",
@@ -1367,10 +1367,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 375,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-09-10T17:59:47.8019113+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 376,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 375,
+  "NumberOfAwards": 376,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1426,7 +1432,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1458,8 +1464,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-09-09T22:59:42.4037127+00:00",
+  "LastChanged": "2023-09-10T17:59:47.8019111+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.3389512+00:00",
-  "LastUpdate_Ratings": "2023-09-10T16:59:46.2767752+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:06:40.4407637+00:00"
+  "LastUpdate_Ratings": "2023-09-10T17:59:47.8019117+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:06:23.419922+00:00"
 }

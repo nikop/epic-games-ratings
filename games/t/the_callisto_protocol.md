@@ -12,6 +12,7 @@ Rating: 4.19 (Ranked 872)
 | Chew 'Em Up | 4.00% | ~637 |
 | Float Like A Butterfly | 4.00% | ~637 |
 | Keep Fighting | 4.00% | ~154 |
+| Giving Back | 3.00% | ~478 |
 | You Need a Gun | 3.00% | ~478 |
 | I Do Belong Here | 3.00% | ~478 |
 | Terminated | 3.00% | ~478 |
@@ -27,7 +28,6 @@ Rating: 4.19 (Ranked 872)
 | Full Circle | 3.00% | ~478 |
 | Power Up | 3.00% | ~478 |
 | It's Time | 3.00% | ~116 |
-| Giving Back | 2.00% | ~319 |
 | The Commonality | 2.00% | ~319 |
 | One Last Job | 2.00% | ~77 |
 | In Striking Distance | 1.00% | ~159 |

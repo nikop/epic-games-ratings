@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1413,9 +1413,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23039,
+  "EOS_Progressed": 23040,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7568,6 +7568,11 @@
       "Time": "2023-09-10T17:05:26.0988046+00:00",
       "NumProgressed": 23039,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-09-10T18:05:11.1125482+00:00",
+      "NumProgressed": 23040,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -7641,9 +7646,9 @@
       "ID": "BossBridgeDefeated",
       "SetID": "3ojhj46",
       "Name": "Captain and Crew",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 691
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -7890,21 +7895,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23039,
+      "Progressed": 23040,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 1969,
+      "Progressed": 1970,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-09-10T09:01:32.6071333+00:00",
-  "LastChanged_Achievements": "2023-09-10T17:05:26.0988041+00:00",
+  "LastChanged_Achievements": "2023-09-10T18:05:11.1125476+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.659404+00:00",
-  "LastUpdate_Ratings": "2023-09-10T17:00:32.6153055+00:00",
-  "LastUpdate_Achievements": "2023-09-10T17:05:26.09887+00:00"
+  "LastUpdate_Ratings": "2023-09-10T18:00:31.9758773+00:00",
+  "LastUpdate_Achievements": "2023-09-10T18:05:11.1126178+00:00"
 }
