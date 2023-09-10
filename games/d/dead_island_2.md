@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 2.00% | ~13,551 |
-| Welcome To Hell-A | 2.00% | ~13,551 |
+| Hotel California | 2.00% | ~13,552 |
+| Welcome To Hell-A | 2.00% | ~13,552 |
 | Dr. Reed, I Presume? | 1.00% | ~6,776 |
 | Git Gutte! | 1.00% | ~6,776 |
 | Bookworm | 1.00% | ~6,776 |
@@ -27,13 +27,13 @@ Rating: 4.54 (Ranked 501)
 | Ooh, Shiny! | 0.90% | ~6,098 |
 | I Am the Resurrection | 0.90% | ~6,098 |
 | Our True Nature | 0.90% | ~6,098 |
-| Anger Management | 0.80% | ~5,420 |
-| Perks of the Job | 0.80% | ~5,420 |
-| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,420 |
+| Anger Management | 0.80% | ~5,421 |
+| Perks of the Job | 0.80% | ~5,421 |
+| I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,421 |
 | Making Your Mark | 0.70% | ~4,743 |
 | Humanity Distilled | 0.70% | ~4,743 |
 | Down with the Sickness | 0.70% | ~4,743 |
-| Max Headroom | 0.60% | ~4,065 |
+| Max Headroom | 0.60% | ~4,066 |
 | Go, Bobcats! | 0.50% | ~3,388 |
 | Rising Star | 0.50% | ~3,388 |
 | Smorgasbord | 0.40% | ~2,710 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 501)
 | Donk! | 0.10% | ~678 |
 | Bucket List | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,553 (Ranked 22)  
-Completed: 2,134 (0.31%) (Ranked 178)  
+Progressed: 677,594 (Ranked 22)  
+Completed: 2,135 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 2,134 (0.31%) (Ranked 178)
 | 2023-09-07 | 675,353 | 2,119 |
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
-| 2023-09-10 | 677,553 | 2,134 |
+| 2023-09-10 | 677,594 | 2,135 |
 ## Awards
 Max (Great Boss Battles): 5,990  (Ranked 58)  
 Sum: 8,854 (Ranked 94)  

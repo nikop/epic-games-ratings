@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527121,
+  "EOS_Progressed": 527122,
   "EOS_Completed": 472,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15794,6 +15794,11 @@
       "Time": "2023-09-10T21:05:23.9437186+00:00",
       "NumProgressed": 527121,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-09-10T22:06:52.9935345+00:00",
+      "NumProgressed": 527122,
+      "NumCompleted": 472
     }
   ],
   "TotalAchievements": 57,
@@ -15813,7 +15818,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237204
+      "UsersEstimate": 237205
     },
     {
       "ID": "11",
@@ -15885,7 +15890,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326815
+      "UsersEstimate": 326816
     },
     {
       "ID": "2",
@@ -15925,7 +15930,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36898
+      "UsersEstimate": 36899
     },
     {
       "ID": "24",
@@ -16005,7 +16010,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36898
+      "UsersEstimate": 36899
     },
     {
       "ID": "33",
@@ -16029,7 +16034,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263560
+      "UsersEstimate": 263561
     },
     {
       "ID": "36",
@@ -16037,7 +16042,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84339
+      "UsersEstimate": 84340
     },
     {
       "ID": "37",
@@ -16133,7 +16138,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326815
+      "UsersEstimate": 326816
     },
     {
       "ID": "48",
@@ -16260,15 +16265,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527121,
+      "Progressed": 527122,
       "Completed": 472
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-10T21:05:23.9437179+00:00",
+  "LastChanged_Achievements": "2023-09-10T22:06:52.9935333+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.7109557+00:00",
-  "LastUpdate_Ratings": "2023-09-10T20:59:09.4225349+00:00",
-  "LastUpdate_Achievements": "2023-09-10T21:05:23.9438438+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:00:38.4499548+00:00",
+  "LastUpdate_Achievements": "2023-09-10T22:06:52.993681+00:00"
 }

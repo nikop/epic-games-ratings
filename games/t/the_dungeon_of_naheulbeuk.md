@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,689 |
+| Sowwy! | 29.00% | ~64,695 |
 | Where's that freaking Dwarf? | 4.00% | ~8,923 |
 | Alt+F4 | 4.00% | ~8,923 |
-| Déjà vu | 3.00% | ~6,692 |
-| Sock! SOCK! | 3.00% | ~6,692 |
-| Way of the Wimp | 2.00% | ~4,461 |
-| A beer, two curses, three companions | 2.00% | ~4,461 |
-| The plot thickens... At the tavern | 2.00% | ~4,461 |
-| GG EZ | 2.00% | ~4,461 |
-| DM intervention | 2.00% | ~4,461 |
-| Speedrun | 2.00% | ~4,461 |
-| Fireproof Wizardess | 2.00% | ~4,461 |
+| Déjà vu | 3.00% | ~6,693 |
+| Sock! SOCK! | 3.00% | ~6,693 |
+| Way of the Wimp | 2.00% | ~4,462 |
+| A beer, two curses, three companions | 2.00% | ~4,462 |
+| The plot thickens... At the tavern | 2.00% | ~4,462 |
+| GG EZ | 2.00% | ~4,462 |
+| DM intervention | 2.00% | ~4,462 |
+| Speedrun | 2.00% | ~4,462 |
+| Fireproof Wizardess | 2.00% | ~4,462 |
 | Livin' in a dwarven paradise | 1.00% | ~2,231 |
 | Shiny and Crôm | 1.00% | ~2,231 |
 | The demons' feast | 1.00% | ~2,231 |
@@ -34,15 +34,15 @@ Number of Ratings: 118  (23.09.2022)
 | Oh, when I'll be level 10... | 1.00% | ~2,231 |
 | The Famous Dungeon of Naheulbeuk | 0.90% | ~2,008 |
 | %#*!$*! | 0.90% | ~2,008 |
+| Look but don't touch | 0.90% | ~2,008 |
 | The beards of change | 0.90% | ~2,008 |
 | Thieves' Guild Accreditation | 0.90% | ~2,008 |
 | Res Judicata | 0.80% | ~1,785 |
 | Dwarf Fortress | 0.80% | ~1,785 |
-| Look but don't touch | 0.80% | ~1,785 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,561 |
-| Dead for good | 0.60% | ~1,338 |
-| Lust and Debauchery | 0.60% | ~1,338 |
-| Material Girl | 0.60% | ~1,338 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,562 |
+| Dead for good | 0.60% | ~1,339 |
+| Lust and Debauchery | 0.60% | ~1,339 |
+| Material Girl | 0.60% | ~1,339 |
 | Gargantua | 0.50% | ~1,115 |
 | In Navalu's footsteps | 0.50% | ~1,115 |
 | We come in peace | 0.40% | ~892 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,067 (Ranked 56)  
+Progressed: 223,086 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-07 | 222,022 | 2 |
 | 2023-09-08 | 222,320 | 2 |
 | 2023-09-09 | 222,713 | 2 |
-| 2023-09-10 | 223,067 | 2 |
+| 2023-09-10 | 223,086 | 2 |
 ## Awards
 Max (Character Customization): 192  (Ranked 277)  
 Sum: 307 (Ranked 338)  

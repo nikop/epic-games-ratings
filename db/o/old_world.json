@@ -1683,9 +1683,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13854,
+  "EOS_Progressed": 13857,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11263,6 +11263,11 @@
       "Time": "2023-09-10T21:06:07.5303743+00:00",
       "NumProgressed": 13854,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-10T22:07:53.7196345+00:00",
+      "NumProgressed": 13857,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11608,9 +11613,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -12280,9 +12285,9 @@
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_WIN",
       "SetID": "9201eeb",
       "Name": "The Turning Point",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_10",
@@ -13224,9 +13229,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -13248,9 +13253,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -13641,21 +13646,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13854,
+      "Progressed": 13857,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13854,
+      "Progressed": 13857,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-10T21:06:07.5303735+00:00",
+  "LastChanged_Achievements": "2023-09-10T22:07:53.7196341+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-10T20:59:33.915238+00:00",
-  "LastUpdate_Achievements": "2023-09-10T21:06:07.531309+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:01:16.0311798+00:00",
+  "LastUpdate_Achievements": "2023-09-10T22:07:53.7206432+00:00"
 }

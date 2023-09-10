@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36348,
+  "EOS_Progressed": 36350,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16012,6 +16012,11 @@
       "Time": "2023-09-10T21:06:13.4403137+00:00",
       "NumProgressed": 36348,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-10T22:08:02.8069998+00:00",
+      "NumProgressed": 36350,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -16087,7 +16092,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -16095,7 +16100,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -16175,7 +16180,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -16254,7 +16259,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36348,
+      "Progressed": 36350,
       "Completed": 23
     }
   ],
@@ -16262,8 +16267,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-10T21:06:13.4403132+00:00",
+  "LastChanged_Achievements": "2023-09-10T22:08:02.8069992+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.5463786+00:00",
-  "LastUpdate_Ratings": "2023-09-10T20:57:30.8872178+00:00",
-  "LastUpdate_Achievements": "2023-09-10T21:06:13.440427+00:00"
+  "LastUpdate_Ratings": "2023-09-10T21:58:13.3347852+00:00",
+  "LastUpdate_Achievements": "2023-09-10T22:08:02.8071163+00:00"
 }

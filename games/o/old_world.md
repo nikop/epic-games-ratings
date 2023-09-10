@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 4.00% | ~554 |
 | Friendly Family | 4.00% | ~554 |
 | Able | 3.00% | ~416 |
+| Ambitious | 3.00% | ~416 |
 | Architect | 3.00% | ~416 |
 | Enlightened | 3.00% | ~416 |
 | Glorious | 3.00% | ~416 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Trade Caravan | 3.00% | ~416 |
 | The Great Mage | 3.00% | ~416 |
 | Regicide | 2.00% | ~277 |
-| Ambitious | 2.00% | ~277 |
 | Drillmaster | 2.00% | ~277 |
 | Brilliant | 2.00% | ~277 |
 | Fountainhead | 2.00% | ~277 |
@@ -106,6 +106,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
 | Assyrian Paganism | 0.90% | ~125 |
+| Military Prestige | 0.90% | ~125 |
+| Gnosticism | 0.90% | ~125 |
 | Cimmerian Archer | 0.90% | ~125 |
 | Ambition Victory | 0.90% | ~125 |
 | Double Victory | 0.90% | ~125 |
@@ -117,9 +119,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.80% | ~111 |
 | Carthage | 0.80% | ~111 |
 | Industrial Progress | 0.80% | ~111 |
-| Military Prestige | 0.80% | ~111 |
 | Enlightenment | 0.80% | ~111 |
-| Gnosticism | 0.80% | ~111 |
 | Revelation | 0.80% | ~111 |
 | Veneration | 0.80% | ~111 |
 | Strong Difficulty | 0.70% | ~97 |
@@ -176,6 +176,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.20% | ~28 |
 | Great Difficulty | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
+| The Turning Point | 0.20% | ~28 |
 | A Good Start | 0.20% | ~28 |
 | Tell the Spartans | 0.20% | ~28 |
 | Macedonian Wars | 0.20% | ~28 |
@@ -220,7 +221,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Game of the Week | 0.10% | ~14 |
 | Defend Where? | 0.10% | ~14 |
 | Get the Hellas Out | 0.10% | ~14 |
-| The Turning Point | 0.10% | ~14 |
 | Like a Lion | 0.10% | ~14 |
 | Still Fighting | 0.10% | ~14 |
 | They Shall Not Pass | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,854 (Ranked 122)  
+Progressed: 13,857 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -446,7 +446,7 @@ Completed: 5 (0.04%) (Ranked 241)
 | 2023-09-07 | 13,810 | 5 |
 | 2023-09-08 | 13,821 | 5 |
 | 2023-09-09 | 13,831 | 5 |
-| 2023-09-10 | 13,854 | 5 |
+| 2023-09-10 | 13,857 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

@@ -5,14 +5,14 @@ Rating: 4.64 (Ranked 315)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,952 |
-| Mods Please Ban | 77.00% | ~18,510 |
+| Eye Scream, You Scream | 83.00% | ~19,953 |
+| Mods Please Ban | 77.00% | ~18,511 |
 | Bring A Knife to a Gun Fight | 76.00% | ~18,270 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,548 |
-| First Bounty Down | 59.00% | ~14,183 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,702 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,549 |
+| First Bounty Down | 59.00% | ~14,184 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,703 |
 | Luglox Genocide | 43.00% | ~10,337 |
-| Don't Knife The Hand That Feeds | 34.00% | ~8,173 |
+| Don't Knife The Hand That Feeds | 34.00% | ~8,174 |
 | Playing Card To Get | 33.00% | ~7,933 |
 | Creature Feature | 30.00% | ~7,212 |
 | Satisfied Gus-tomer | 28.00% | ~6,731 |
@@ -25,8 +25,8 @@ Rating: 4.64 (Ranked 315)
 | Series Wrap on Suit-O | 22.00% | ~5,289 |
 | Lezduit! | 20.00% | ~4,808 |
 | Who's The Boss? | 20.00% | ~4,808 |
-| Self-Actualization | 19.00% | ~4,567 |
-| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,567 |
+| Self-Actualization | 19.00% | ~4,568 |
+| Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,568 |
 | Legendary Bounty Hunter | 18.00% | ~4,327 |
 | Seeing All The Sights | 16.00% | ~3,846 |
 | Carried Stan's Load To Completion | 13.00% | ~3,125 |
@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 315)
 | Epic Legendary Prize | 1.00% | ~240 |
 | A Starfish Is Born | 1.00% | ~240 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,039 (Ranked 104)  
+Progressed: 24,040 (Ranked 104)  
 Completed: 12 (0.05%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 12 (0.05%) (Ranked 237)
 | 2023-09-07 | 24,024 | 12 |
 | 2023-09-08 | 24,028 | 12 |
 | 2023-09-09 | 24,034 | 12 |
-| 2023-09-10 | 24,039 | 12 |
+| 2023-09-10 | 24,040 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1575,9 +1575,9 @@
       "ID": "not_ok",
       "SetID": "69co12a",
       "Name": "Run K, run!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 238
     },
     {
       "ID": "own_home",
@@ -1679,9 +1679,9 @@
       "ID": "sleep_candy",
       "SetID": "69co12a",
       "Name": "Intriguing candies",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 186
     },
     {
       "ID": "soft_install",
@@ -1766,8 +1766,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-10T21:05:12.4158814+00:00",
+  "LastChanged_Achievements": "2023-09-10T22:06:37.6461529+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:22.6953156+00:00",
-  "LastUpdate_Ratings": "2023-09-10T20:58:31.4330257+00:00",
-  "LastUpdate_Achievements": "2023-09-10T21:05:12.4159528+00:00"
+  "LastUpdate_Ratings": "2023-09-10T21:59:41.7964134+00:00",
+  "LastUpdate_Achievements": "2023-09-10T22:06:37.646282+00:00"
 }

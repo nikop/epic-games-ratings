@@ -3760,9 +3760,9 @@
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 302
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4001,8 +4001,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-10T18:59:07.5245979+00:00",
-  "LastChanged_Achievements": "2023-09-10T21:06:29.8461547+00:00",
+  "LastChanged_Achievements": "2023-09-10T22:08:24.8106408+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.1992932+00:00",
-  "LastUpdate_Ratings": "2023-09-10T20:58:47.9839502+00:00",
-  "LastUpdate_Achievements": "2023-09-10T21:06:29.846215+00:00"
+  "LastUpdate_Ratings": "2023-09-10T22:00:07.0385351+00:00",
+  "LastUpdate_Achievements": "2023-09-10T22:08:24.8107124+00:00"
 }

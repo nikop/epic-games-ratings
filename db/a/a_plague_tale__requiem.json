@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -412,7 +412,7 @@
   ],
   "EOS_Progressed": 12958,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -8216,9 +8216,9 @@
       "ID": "ACH_15",
       "SetID": "9d4cf4c",
       "Name": "Dying Sun",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4406
     },
     {
       "ID": "ACH_16",
@@ -8393,8 +8393,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-10T14:03:07.4085051+00:00",
-  "LastChanged_Achievements": "2023-09-10T21:04:45.4030674+00:00",
+  "LastChanged_Achievements": "2023-09-10T22:06:00.0649636+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:51.5709386+00:00",
-  "LastUpdate_Ratings": "2023-09-10T20:56:55.1157838+00:00",
-  "LastUpdate_Achievements": "2023-09-10T21:04:45.4031407+00:00"
+  "LastUpdate_Ratings": "2023-09-10T21:57:23.5934741+00:00",
+  "LastUpdate_Achievements": "2023-09-10T22:06:00.0650355+00:00"
 }
