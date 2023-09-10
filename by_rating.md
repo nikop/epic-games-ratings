@@ -19,7 +19,7 @@
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 517 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,184 | 21 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 307 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,246 | 78 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,252 | 78 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 174,467 | 6 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,417 | 32 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 498 |
@@ -343,7 +343,7 @@
 | 332 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.63 | 0 | 517 |
 | 332 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 517 |
 | 332 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 184 | 280 |
-| 332 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 607 | 183 |
+| 332 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 608 | 182 |
 | 332 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 517 |
 | 332 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 184 | 280 |
 | 332 | [Spellbreak](games/s/spellbreak.md) | 4.63 | 304 | 237 |
@@ -361,7 +361,7 @@
 | 354 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,472 | 125 |
 | 354 | [GigaBash](games/g/gigabash.md) | 4.62 | 0 | 517 |
 | 354 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 379 | 223 |
-| 354 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 569 | 189 |
+| 354 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 569 | 190 |
 | 354 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 517 |
 | 354 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 517 |
 | 354 | [Prey](games/p/prey.md) | 4.62 | 5,682 | 63 |
@@ -427,7 +427,7 @@
 | 417 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 190 | 277 |
 | 417 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.59 | 0 | 517 |
 | 417 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 326 | 232 |
-| 417 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,019 | 144 |
+| 417 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,020 | 144 |
 | 417 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 517 |
 | 417 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 711 | 167 |
 | 431 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,900 | 11 |
@@ -686,7 +686,7 @@
 | 679 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 384 |
 | 679 | [Sheltered](games/s/sheltered.md) | 4.42 | 273 | 249 |
 | 679 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 156 | 297 |
-| 679 | [Train Valley 2](games/t/train_valley_2.md) | 4.42 | 567 | 190 |
+| 679 | [Train Valley 2](games/t/train_valley_2.md) | 4.42 | 573 | 189 |
 | 679 | [Warpips](games/w/warpips.md) | 4.42 | 27 | 472 |
 | 679 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.42 | 0 | 517 |
 | 690 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 67 | 384 |

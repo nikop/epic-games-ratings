@@ -77,7 +77,7 @@
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,492 | 4.76 | 117 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,433 | 4.56 | 469 |
 | 77 | [SMITE](games/s/smite.md) | 4,260 | 4.44 | 649 |
-| 78 | [God of War](games/g/god_of_war.md) | 4,246 | 4.88 | 19 |
+| 78 | [God of War](games/g/god_of_war.md) | 4,252 | 4.88 | 19 |
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,121 | 4.51 | 547 |
 | 80 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4,000 | 4.68 | 241 |
 | 81 | [Days Gone](games/d/days_gone.md) | 3,936 | 4.68 | 241 |
@@ -143,7 +143,7 @@
 | 141 | [Saints Row](games/s/saints_row.md) | 1,064 | 3.78 | 978 |
 | 142 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,027 | 4.39 | 722 |
 | 143 | [Ooblets](games/o/ooblets.md) | 1,025 | 4.87 | 24 |
-| 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,019 | 4.59 | 417 |
+| 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,020 | 4.59 | 417 |
 | 145 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 852 |
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 976 | 4.69 | 217 |
 | 147 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 964 | 4.31 | 789 |
@@ -181,15 +181,15 @@
 | 179 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 632 | 4.50 | 564 |
 | 180 | [Dark Deity](games/d/dark_deity.md) | 614 | 4.16 | 891 |
 | 181 | [MORDHAU](games/m/mordhau.md) | 610 | 4.39 | 722 |
+| 182 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 608 | 4.63 | 332 |
 | 182 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 608 | 4.66 | 279 |
-| 183 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 607 | 4.63 | 332 |
 | 184 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 605 | 4.73 | 163 |
 | 185 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 604 | 4.24 | 841 |
 | 186 | [Riders Republic](games/r/riders_republic.md) | 590 | 4.75 | 135 |
 | 187 | [Star Trek Online](games/s/star_trek_online.md) | 580 | 4.44 | 649 |
 | 188 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 576 | 4.38 | 729 |
-| 189 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 569 | 4.62 | 354 |
-| 190 | [Train Valley 2](games/t/train_valley_2.md) | 567 | 4.42 | 679 |
+| 189 | [Train Valley 2](games/t/train_valley_2.md) | 573 | 4.42 | 679 |
+| 190 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 569 | 4.62 | 354 |
 | 191 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 564 | 4.68 | 241 |
 | 192 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 563 | 4.66 | 279 |
 | 193 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 562 | 4.41 | 690 |
