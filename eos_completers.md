@@ -17,7 +17,7 @@
 | 15 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 15 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 18 | [Island Cities](games/i/island_cities.md) | 15.04% |
+| 18 | [Island Cities](games/i/island_cities.md) | 15.02% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
@@ -31,7 +31,7 @@
 | 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
+| 32 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
 | 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.95% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
@@ -137,9 +137,9 @@
 | 135 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.71% |
 | 136 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.67% |
 | 136 | [Lemon Cake](games/l/lemon_cake.md) | 0.67% |
-| 138 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.66% |
 | 138 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
-| 140 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
+| 139 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
+| 139 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.65% |
 | 141 | [Haven](games/h/haven.md) | 0.63% |
 | 142 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
 | 142 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.61% |
@@ -198,17 +198,17 @@
 | 196 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 197 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 197 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
-| 199 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
-| 200 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 200 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 200 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 203 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
-| 203 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
-| 203 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 203 | [Remnant 2](games/r/remnant_2.md) | 0.15% |
-| 203 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 208 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
-| 208 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.14% |
+| 199 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.18% |
+| 200 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 201 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 201 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 201 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 204 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
+| 204 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
+| 204 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 204 | [Remnant 2](games/r/remnant_2.md) | 0.15% |
+| 204 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 209 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 210 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 211 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 211 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
