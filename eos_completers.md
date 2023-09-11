@@ -63,7 +63,7 @@
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.57% |
+| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.55% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.38% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
@@ -75,7 +75,7 @@
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
+| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.86% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 78 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.78% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
