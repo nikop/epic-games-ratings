@@ -4,7 +4,7 @@
 | 1 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.96 | 0 | 517 |
 | 3 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.94 | 0 | 517 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,595 | 120 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,257 | 93 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,257 | 94 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 517 |
 | 6 | [Rain World](games/r/rain_world.md) | 4.91 | 0 | 517 |
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 517 |
@@ -429,26 +429,26 @@
 | 417 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 328 | 232 |
 | 417 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,020 | 144 |
 | 417 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 517 |
-| 417 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 711 | 167 |
-| 431 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,943 | 11 |
-| 431 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 166 | 291 |
-| 431 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 517 |
-| 431 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 9,061 | 39 |
-| 431 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 261 | 251 |
-| 431 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 517 |
-| 431 | [GRIT](games/g/grit.md) | 4.58 | 0 | 517 |
-| 431 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 505 |
-| 431 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,643 | 46 |
-| 431 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,495 | 123 |
-| 431 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 517 |
-| 431 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 312 |
-| 431 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 214 | 270 |
-| 431 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 517 |
-| 431 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 53 | 398 |
-| 431 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,354 | 55 |
-| 431 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 517 |
-| 431 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 220 | 266 |
-| 431 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,475 | 24 |
+| 430 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 60,943 | 11 |
+| 430 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 166 | 291 |
+| 430 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 517 |
+| 430 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 9,061 | 39 |
+| 430 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 261 | 251 |
+| 430 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 517 |
+| 430 | [GRIT](games/g/grit.md) | 4.58 | 0 | 517 |
+| 430 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 505 |
+| 430 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,643 | 46 |
+| 430 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,495 | 123 |
+| 430 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 517 |
+| 430 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 312 |
+| 430 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 214 | 270 |
+| 430 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.58 | 0 | 517 |
+| 430 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 53 | 398 |
+| 430 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,354 | 55 |
+| 430 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 517 |
+| 430 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 712 | 167 |
+| 430 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 220 | 266 |
+| 430 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,475 | 24 |
 | 450 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 517 |
 | 450 | [Among Us](games/a/among_us.md) | 4.57 | 2,656 | 96 |
 | 450 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 412 |
@@ -459,7 +459,7 @@
 | 450 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.57 | 0 | 517 |
 | 450 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,798 | 44 |
 | 450 | [Observation](games/o/observation.md) | 4.57 | 0 | 517 |
-| 450 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,252 | 94 |
+| 450 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,258 | 93 |
 | 450 | [Risen](games/r/risen.md) | 4.57 | 0 | 517 |
 | 450 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 517 |
 | 450 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 3,875 | 82 |
@@ -551,7 +551,7 @@
 | 547 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,121 | 79 |
 | 547 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 517 |
 | 547 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.51 | 0 | 517 |
-| 547 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 147,906 | 7 |
+| 547 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 147,988 | 7 |
 | 547 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,744 | 95 |
 | 547 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 109 | 329 |
 | 547 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 149 | 301 |
