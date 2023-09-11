@@ -12,11 +12,11 @@
 | Can't touch this | 24.00% | ~15 |
 | Freezing Cold | 18.00% | ~11 |
 | Don't Cry Wolf | 18.00% | ~11 |
-| The Power of the Mountains | 16.00% | ~10 |
+| The Power of the Mountains | 18.00% | ~11 |
 | Searing Heat | 15.00% | ~9 |
+| Expert | 15.00% | ~9 |
 | Changing the World | 15.00% | ~9 |
 | Nothing but the Truth | 13.00% | ~8 |
-| Expert | 13.00% | ~8 |
 | The Golden Flash | 13.00% | ~8 |
 | Craftsmen | 10.00% | ~6 |
 | Through Dangers Untold | 10.00% | ~6 |

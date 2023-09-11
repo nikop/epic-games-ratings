@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 94,
-  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,11 +236,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42884,
-  "EOS_Completed": 225,
-  "EOS_NewPlayers": 689,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Progressed": 42885,
+  "EOS_Completed": 226,
+  "EOS_NewPlayers": 683,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.0141589+00:00",
@@ -14811,6 +14811,11 @@
       "Time": "2023-09-11T01:47:14.2811924+00:00",
       "NumProgressed": 42884,
       "NumCompleted": 225
+    },
+    {
+      "Time": "2023-09-11T02:20:57.2114492+00:00",
+      "NumProgressed": 42885,
+      "NumCompleted": 226
     }
   ],
   "TotalAchievements": 44,
@@ -14942,15 +14947,15 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34307
+      "UsersEstimate": 34308
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "db84117",
       "Name": "Master Ninja",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4717
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -14982,15 +14987,15 @@
       "Name": "Look Behind You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6861
+      "UsersEstimate": 6862
     },
     {
       "ID": "ACHIEVEMENT_3",
       "SetID": "db84117",
       "Name": "The Hidden Village",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3860
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -14998,7 +15003,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 9434
+      "UsersEstimate": 9435
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -15006,7 +15011,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 6861
+      "UsersEstimate": 6862
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -15046,7 +15051,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23586
+      "UsersEstimate": 23587
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -15062,7 +15067,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27017
+      "UsersEstimate": 27018
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -15094,7 +15099,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 28732
+      "UsersEstimate": 28733
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -15158,7 +15163,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 39882
+      "UsersEstimate": 39883
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -15173,16 +15178,16 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 42884,
-      "Completed": 225
+      "Progressed": 42885,
+      "Completed": 226
     }
   ],
   "FirstSeen": "2022-08-13T01:31:43.4157574+00:00",
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:47:14.281192+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:20:57.2114487+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:22.3903109+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:42:17.610836+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:47:14.2812889+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:16:00.9574995+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:20:57.2115493+00:00"
 }

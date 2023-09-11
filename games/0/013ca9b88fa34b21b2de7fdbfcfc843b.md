@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 78.00% | ~502 |
-| A Thorny Situation | 69.00% | ~444 |
-| ... And Spit Back Out | 54.00% | ~347 |
-| Break-Net Speed | 47.00% | ~302 |
-| Humble Collector | 37.00% | ~238 |
-| Miner 49er | 35.00% | ~225 |
-| Bramble Breaker | 35.00% | ~225 |
-| Calm Sailing | 19.00% | ~122 |
-| Oui, Chef! | 19.00% | ~122 |
-| Open the Gate! | 16.00% | ~103 |
-| Lumberjack | 16.00% | ~103 |
-| Mist Walker | 12.00% | ~77 |
+| Azoria Beckons | 78.00% | ~505 |
+| A Thorny Situation | 69.00% | ~447 |
+| ... And Spit Back Out | 54.00% | ~350 |
+| Break-Net Speed | 46.00% | ~298 |
+| Humble Collector | 37.00% | ~240 |
+| Miner 49er | 35.00% | ~227 |
+| Bramble Breaker | 35.00% | ~227 |
+| Calm Sailing | 19.00% | ~123 |
+| Oui, Chef! | 19.00% | ~123 |
+| Open the Gate! | 16.00% | ~104 |
+| Lumberjack | 16.00% | ~104 |
+| Mist Walker | 12.00% | ~78 |
 | Beach Comber | 9.00% | ~58 |
 | Botanical Breakthrough | 7.00% | ~45 |
 | Clear the Air | 3.00% | ~19 |
@@ -30,9 +30,9 @@
 | Skilled | 1.00% | ~6 |
 | Rumble in the Jumble | 0.90% | ~6 |
 | Fanatical Farmer | 0.90% | ~6 |
+| I Now Pronounce You... | 0.90% | ~6 |
 | Flaming Hot Completos | 0.80% | ~5 |
 | Fae Farmer | 0.80% | ~5 |
-| I Now Pronounce You... | 0.80% | ~5 |
 | Scattered Scroll Scrounger | 0.30% | ~2 |
 | Cloverfield Island | 0.20% | ~1 |
 | Angling Authority | 0.20% | ~1 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.20% | ~1 |
 | Very Skilled | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643 (Ranked 229)  
+Progressed: 648 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,4 +58,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
 | 2023-09-10 | 624 | 0 |
-| 2023-09-11 | 643 | 0 |
+| 2023-09-11 | 648 | 0 |

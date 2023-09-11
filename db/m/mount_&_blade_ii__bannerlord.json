@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7053,7 +7053,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60772,
+  "EOS_Progressed": 60773,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
@@ -22233,6 +22233,11 @@
       "Time": "2023-09-11T01:47:07.7353102+00:00",
       "NumProgressed": 60772,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T02:20:50.6153+00:00",
+      "NumProgressed": 60773,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22332,7 +22337,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5469
+      "UsersEstimate": 5470
     },
     {
       "ID": "Entrepreneur",
@@ -22420,7 +22425,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5469
+      "UsersEstimate": 5470
     },
     {
       "ID": "Jack of All Trades",
@@ -22644,22 +22649,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5469
+      "UsersEstimate": 5470
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60772,
+      "Progressed": 60773,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-10T23:58:14.6796291+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:47:07.7353097+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:20:50.6152995+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:40:02.6673991+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:47:07.7354157+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:13:48.5637963+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:20:50.6154011+00:00"
 }

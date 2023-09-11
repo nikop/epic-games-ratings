@@ -5,10 +5,10 @@ Rating: 4.06 (Ranked 931)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 3.00% | ~719 |
-| As Far Away As Possible | 2.00% | ~480 |
-| A Most Unstable Organism | 1.00% | ~240 |
-| No Time to Follow Protocol | 0.60% | ~144 |
+| Your Lucky Day | 4.00% | ~965 |
+| As Far Away As Possible | 2.00% | ~483 |
+| A Most Unstable Organism | 1.00% | ~241 |
+| No Time to Follow Protocol | 0.60% | ~145 |
 | Float Like a Butterfly... | 0.30% | ~72 |
 | fifteenth Time's the Charm | 0.10% | ~24 |
 | Pulling Your Weight | 0.10% | ~24 |
@@ -22,7 +22,7 @@ Rating: 4.06 (Ranked 931)
 | Completely Customizable | 0.00% | ~0 |
 | More Power to You | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,975 (Ranked 105)  
+Progressed: 24,126 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -37,7 +37,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 5,389 | 0 |
 | 2023-09-09 | 14,650 | 0 |
 | 2023-09-10 | 23,172 | 0 |
-| 2023-09-11 | 23,975 | 0 |
+| 2023-09-11 | 24,126 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

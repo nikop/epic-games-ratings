@@ -13,9 +13,9 @@ Number of Ratings: 43  (23.09.2022)
 | Got Your Nose | 24.00% | ~21,290 |
 | The Gift of Gab | 24.00% | ~21,290 |
 | Wrapping Up | 22.00% | ~19,516 |
-| More Than A Box Of Sand | 18.00% | ~15,967 |
-| The Dunboyne | 17.00% | ~15,080 |
-| Badge Hobbyist | 17.00% | ~15,080 |
+| More Than A Box Of Sand | 18.00% | ~15,968 |
+| The Dunboyne | 17.00% | ~15,081 |
+| Badge Hobbyist | 17.00% | ~15,081 |
 | Chum Novice | 16.00% | ~14,193 |
 | Silver-Tongued Sable | 16.00% | ~14,193 |
 | Sticky Paws | 16.00% | ~14,193 |
@@ -49,11 +49,11 @@ Number of Ratings: 43  (23.09.2022)
 | The Beetle Mask | 7.00% | ~6,210 |
 | The Guard Mask | 7.00% | ~6,210 |
 | Smoked Out | 7.00% | ~6,210 |
-| The Climber Mask | 6.00% | ~5,322 |
-| The Merchant Mask | 6.00% | ~5,322 |
-| Honorary Chum | 6.00% | ~5,322 |
-| A Hard Place | 6.00% | ~5,322 |
-| Bikes Don't Fly | 6.00% | ~5,322 |
+| A Hard Place | 7.00% | ~6,210 |
+| The Climber Mask | 6.00% | ~5,323 |
+| The Merchant Mask | 6.00% | ~5,323 |
+| Honorary Chum | 6.00% | ~5,323 |
+| Bikes Don't Fly | 6.00% | ~5,323 |
 | The Gliding | 5.00% | ~4,435 |
 | The Entertainer Mask | 5.00% | ~4,435 |
 | The Quick and the Curious | 4.00% | ~3,548 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,661 |
 | Vivacious Vivarium | 2.00% | ~1,774 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,708 (Ranked 75)  
+Progressed: 88,709 (Ranked 75)  
 Completed: 884 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 884 (1.00%) (Ranked 123)
 | 2023-09-08 | 88,221 | 880 |
 | 2023-09-09 | 88,463 | 881 |
 | 2023-09-10 | 88,698 | 884 |
-| 2023-09-11 | 88,708 | 884 |
+| 2023-09-11 | 88,709 | 884 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 488)  
 Sum: 65 (Ranked 445)  

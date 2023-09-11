@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -607,9 +607,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342635,
+  "EOS_Progressed": 342636,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1130,
+  "EOS_NewPlayers": 1127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16587,6 +16587,11 @@
       "Time": "2023-09-11T01:45:47.7320675+00:00",
       "NumProgressed": 342635,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-11T02:19:42.2550383+00:00",
+      "NumProgressed": 342636,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -16806,7 +16811,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157612
+      "UsersEstimate": 157613
     },
     {
       "ID": "ach028",
@@ -16934,7 +16939,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23984
+      "UsersEstimate": 23985
     },
     {
       "ID": "ach044",
@@ -16958,7 +16963,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23984
+      "UsersEstimate": 23985
     },
     {
       "ID": "ach047",
@@ -17206,7 +17211,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23984
+      "UsersEstimate": 23985
     },
     {
       "ID": "ach079",
@@ -17237,7 +17242,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 342635,
+      "Progressed": 342636,
       "Completed": 7
     }
   ],
@@ -17245,8 +17250,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-10T15:00:51.2490982+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:45:47.7320672+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:19:42.2550377+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:41:59.9893085+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:45:47.7322099+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:15:43.4642797+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:19:42.2551947+00:00"
 }

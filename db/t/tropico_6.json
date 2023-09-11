@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1098,7 +1098,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5046,
+  "EOS_Progressed": 5047,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -9333,6 +9333,11 @@
       "Time": "2023-09-10T22:08:47.1293475+00:00",
       "NumProgressed": 5046,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T02:23:05.2445596+00:00",
+      "NumProgressed": 5047,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9400,7 +9405,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -9416,7 +9421,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -9440,7 +9445,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9504,7 +9509,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9663,15 +9668,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5046,
+      "Progressed": 5047,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-09T17:58:19.764548+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:49:13.5810582+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:23:05.2445586+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:40:41.4444316+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:49:13.5811261+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:14:27.704524+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:23:05.2446237+00:00"
 }

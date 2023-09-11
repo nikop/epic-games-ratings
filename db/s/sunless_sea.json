@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37102,
+  "EOS_Progressed": 37105,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15342,6 +15342,11 @@
       "Time": "2023-09-11T01:46:58.258462+00:00",
       "NumProgressed": 37102,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-11T02:20:41.4254399+00:00",
+      "NumProgressed": 37105,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -15369,7 +15374,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6307
+      "UsersEstimate": 6308
     },
     {
       "ID": "ach_antiquarian10",
@@ -15417,7 +15422,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "ach_cursestone",
@@ -15441,7 +15446,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "ach_deathofermod",
@@ -15473,7 +15478,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13357
+      "UsersEstimate": 13358
     },
     {
       "ID": "ach_die10",
@@ -15521,7 +15526,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "ach_invictus",
@@ -15545,7 +15550,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4452
+      "UsersEstimate": 4453
     },
     {
       "ID": "ach_legacypupil",
@@ -15561,7 +15566,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "ach_legacysalvager",
@@ -15577,7 +15582,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "ach_newstories",
@@ -15607,9 +15612,9 @@
       "ID": "ach_portdeep",
       "SetID": "ammcm",
       "Name": "The beauty of the deep",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 371
     },
     {
       "ID": "ach_portdragon",
@@ -15705,7 +15710,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6678
+      "UsersEstimate": 6679
     },
     {
       "ID": "ach_terror100",
@@ -15713,7 +15718,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4452
+      "UsersEstimate": 4453
     },
     {
       "ID": "ach_terror90",
@@ -15721,7 +15726,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5565
+      "UsersEstimate": 5566
     },
     {
       "ID": "ach_undercurrent",
@@ -15753,7 +15758,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 4452
+      "UsersEstimate": 4453
     },
     {
       "ID": "ach_year1",
@@ -15784,15 +15789,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37102,
+      "Progressed": 37105,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:46:58.2584616+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:20:41.4254393+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.2839059+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:40:01.0269871+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:46:58.2585668+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:13:46.4759269+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:20:41.4255453+00:00"
 }

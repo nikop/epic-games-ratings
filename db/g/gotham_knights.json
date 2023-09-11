@@ -2810,9 +2810,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72389,
+  "EOS_Progressed": 72390,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 2188,
+  "EOS_NewPlayers": 2178,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15025,6 +15025,11 @@
       "Time": "2023-09-11T01:48:09.7588613+00:00",
       "NumProgressed": 72389,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-11T02:21:51.8082527+00:00",
+      "NumProgressed": 72390,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15084,7 +15089,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16649
+      "UsersEstimate": 16650
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15156,7 +15161,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10134
+      "UsersEstimate": 10135
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -15188,7 +15193,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -15284,7 +15289,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10134
+      "UsersEstimate": 10135
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -15348,7 +15353,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18097
+      "UsersEstimate": 18098
     },
     {
       "ID": "HARLEY_3",
@@ -15380,7 +15385,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37642
+      "UsersEstimate": 37643
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15428,7 +15433,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24612
+      "UsersEstimate": 24613
     },
     {
       "ID": "MYSTERY_02",
@@ -15436,7 +15441,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18097
+      "UsersEstimate": 18098
     },
     {
       "ID": "MYSTERY_03",
@@ -15468,7 +15473,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10134
+      "UsersEstimate": 10135
     },
     {
       "ID": "MYSTERY_07",
@@ -15523,13 +15528,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72389,
+      "Progressed": 72390,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42669,
+      "Progressed": 42670,
       "Completed": 2663
     }
   ],
@@ -15537,8 +15542,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-10T20:57:14.7464996+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:48:09.7588608+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:21:51.8082522+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:39:49.1198341+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:48:09.7589642+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:13:34.0309949+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:21:51.8083536+00:00"
 }

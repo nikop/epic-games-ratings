@@ -4,8 +4,8 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -151,6 +151,11 @@
       "Time": "2023-09-10T22:08:31.2261063+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T02:22:42.6449682+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -169,7 +174,7 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -313,7 +318,7 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -345,7 +350,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -361,7 +366,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -417,7 +422,7 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -434,14 +439,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:49:01.8441228+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:22:42.6449677+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5425773+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:40:36.9655245+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:49:01.8441441+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:14:23.4851639+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:22:42.6449889+00:00"
 }

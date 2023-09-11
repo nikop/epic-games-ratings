@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118572,
+  "EOS_Progressed": 118573,
   "EOS_Completed": 961,
-  "EOS_NewPlayers": 1404,
+  "EOS_NewPlayers": 1401,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -16278,6 +16278,11 @@
       "Time": "2023-09-11T01:46:18.044396+00:00",
       "NumProgressed": 118572,
       "NumCompleted": 961
+    },
+    {
+      "Time": "2023-09-11T02:20:02.2165513+00:00",
+      "NumProgressed": 118573,
+      "NumCompleted": 961
     }
   ],
   "TotalAchievements": 34,
@@ -16305,7 +16310,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 49800
+      "UsersEstimate": 49801
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -16329,7 +16334,7 @@
       "Name": "I\u0027ll make a note of that...",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10671
+      "UsersEstimate": 10672
     },
     {
       "ID": "ACH_GAME_REPLAY",
@@ -16345,7 +16350,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 93672
+      "UsersEstimate": 93673
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -16385,7 +16390,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 32014
+      "UsersEstimate": 32015
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -16457,7 +16462,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 32014
+      "UsersEstimate": 32015
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -16481,7 +16486,7 @@
       "Name": "The Norahnomicon",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 10671
+      "UsersEstimate": 10672
     },
     {
       "ID": "ACH_L05_NAACAL",
@@ -16497,7 +16502,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 28457
+      "UsersEstimate": 28458
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -16505,7 +16510,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 28457
+      "UsersEstimate": 28458
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -16537,7 +16542,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 28457
+      "UsersEstimate": 28458
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -16560,7 +16565,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 118572,
+      "Progressed": 118573,
       "Completed": 961
     }
   ],
@@ -16568,8 +16573,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-10T16:00:39.3983088+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:46:18.0443955+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:20:02.2165507+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:33.4495566+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:43:06.6648349+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:46:18.0444992+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:18:09.67271+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:20:02.2166445+00:00"
 }

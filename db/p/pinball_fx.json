@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -1786,9 +1786,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 262017,
+  "EOS_Progressed": 262019,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2103,
+  "EOS_NewPlayers": 2097,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17876,6 +17876,11 @@
       "Time": "2023-09-11T01:47:59.394857+00:00",
       "NumProgressed": 262017,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T02:21:41.1160351+00:00",
+      "NumProgressed": 262019,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -18111,7 +18116,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 214854
+      "UsersEstimate": 214856
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -18119,22 +18124,22 @@
       "Name": "I know the Rules",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 96946
+      "UsersEstimate": 96947
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 262017,
+      "Progressed": 262019,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-09-10T16:57:02.1563848+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:47:59.3948563+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:21:41.1160349+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.0797431+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:39:31.0071162+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:47:59.3949498+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:13:17.167976+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:21:41.1161272+00:00"
 }

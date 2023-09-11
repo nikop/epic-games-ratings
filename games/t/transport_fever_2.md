@@ -206,8 +206,8 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 1,639 | 0 |
 ## Awards
 Max (Highly Recommended): 41  (Ranked 425)  
-Sum: 281 (Ranked 349)  
-Diff (max vs sum): 76  
+Sum: 282 (Ranked 348)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 41 |
@@ -218,7 +218,7 @@ Diff (max vs sum): 76
 | This game has Quickly Understood Controls | 31 |
 | This game has a Creative Community | 27 |
 | This game is Educational | 25 |
-| This game has Amazing Characters | 22 |
+| This game has Amazing Characters | 23 |
 | This game has Obsessive Gameplay | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -303,3 +303,4 @@ Diff (max vs sum): 76
 | 2023-08-17 | 4.69 | - | 40 | 279 |
 | 2023-08-30 | 4.69 | - | 40 | 280 |
 | 2023-09-07 | 4.69 | - | 41 | 281 |
+| 2023-09-11 | 4.69 | - | 41 | 282 |

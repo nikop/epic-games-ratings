@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223116,
+  "EOS_Progressed": 223122,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2089,
+  "EOS_NewPlayers": 2088,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10367,6 +10367,11 @@
       "Time": "2023-09-11T01:48:49.1313874+00:00",
       "NumProgressed": 223116,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T02:22:30.6140473+00:00",
+      "NumProgressed": 223122,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10426,7 +10431,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6693
+      "UsersEstimate": 6694
     },
     {
       "ID": "Chapter2",
@@ -10810,7 +10815,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6693
+      "UsersEstimate": 6694
     },
     {
       "ID": "ElfEpic",
@@ -10826,7 +10831,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64704
+      "UsersEstimate": 64705
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11081,21 +11086,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223116,
+      "Progressed": 223122,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223116,
+      "Progressed": 223122,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-10T20:59:49.5308008+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:48:49.1313871+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:22:30.6140467+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:42:27.517402+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:48:49.1315173+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:16:12.3977088+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:22:30.6141749+00:00"
 }

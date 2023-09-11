@@ -238,9 +238,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 229549,
+  "EOS_Progressed": 229551,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 327,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15253,6 +15253,11 @@
       "Time": "2023-09-11T00:06:44.9492157+00:00",
       "NumProgressed": 229549,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-11T02:21:21.2917902+00:00",
+      "NumProgressed": 229551,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 28,
@@ -15400,7 +15405,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -15432,7 +15437,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6886
+      "UsersEstimate": 6887
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -15472,7 +15477,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39023
+      "UsersEstimate": 39024
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -15480,14 +15485,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229549,
+      "Progressed": 229551,
       "Completed": 4
     }
   ],
@@ -15495,8 +15500,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-10T11:58:05.1406101+00:00",
-  "LastChanged_Achievements": "2023-09-11T01:47:39.2775065+00:00",
+  "LastChanged_Achievements": "2023-09-11T02:21:21.2917896+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:45.3291126+00:00",
-  "LastUpdate_Ratings": "2023-09-11T01:40:25.9608062+00:00",
-  "LastUpdate_Achievements": "2023-09-11T01:47:39.2775846+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:14:11.9884821+00:00",
+  "LastUpdate_Achievements": "2023-09-11T02:21:21.2918766+00:00"
 }
