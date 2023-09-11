@@ -7,8 +7,8 @@
 | 5 | [Eternights](games/e/eternights.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.51% |
-| 9 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
+| 8 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.19% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.68% |
 | 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -57,14 +57,14 @@
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
-| 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
-| 60 | [ZZT!](games/z/zzt!.md) | 4.09% |
-| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
-| 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.88% |
-| 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.50% |
+| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.20% |
+| 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
+| 61 | [ZZT!](games/z/zzt!.md) | 4.09% |
+| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
+| 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.38% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
 | 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
@@ -80,7 +80,7 @@
 | 78 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.78% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 81 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
+| 81 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 83 | [Lamentum](games/l/lamentum.md) | 2.50% |
