@@ -22,15 +22,15 @@ Number of Ratings: 154  (23.09.2022)
 | Boss Rush Attempt | 54.00% | ~251 |
 | Cleared Sonic the Hedgehog | 50.00% | ~232 |
 | Super Sonic | 46.00% | ~213 |
+| Beware Stingers! | 45.00% | ~209 |
 | Very First Mission Clear! | 45.00% | ~209 |
 | Shut Down Metal Sonic | 44.00% | ~204 |
-| Beware Stingers! | 44.00% | ~204 |
 | Museum Time | 44.00% | ~204 |
 | Cleared Sonic the Hedgehog 2 | 42.00% | ~195 |
 | Beware Moto Bugs! | 41.00% | ~190 |
 | Cleared Sonic CD | 41.00% | ~190 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 38.00% | ~176 |
-| Lucky Hedgehog | 31.00% | ~144 |
+| Lucky Hedgehog | 32.00% | ~148 |
 | All Clear! | 31.00% | ~144 |
 | To the Mirror World | 30.00% | ~139 |
 | Movie Maniac | 21.00% | ~97 |

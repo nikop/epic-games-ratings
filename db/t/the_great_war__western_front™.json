@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1829,6 +1829,11 @@
       "Time": "2023-09-10T14:03:26.2508324+00:00",
       "NumProgressed": 413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T07:04:14.7576903+00:00",
+      "NumProgressed": 414,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -1902,9 +1907,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 198
+      "UsersEstimate": 203
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -1920,7 +1925,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -1935,7 +1940,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 414,
       "Completed": 0
     }
   ],
@@ -1943,8 +1948,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-09-11T06:05:25.2055452+00:00",
+  "LastChanged_Achievements": "2023-09-11T07:04:14.7576899+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:48.3006638+00:00",
-  "LastUpdate_Ratings": "2023-09-11T06:02:59.198082+00:00",
-  "LastUpdate_Achievements": "2023-09-11T06:05:25.2055618+00:00"
+  "LastUpdate_Ratings": "2023-09-11T07:02:04.3999441+00:00",
+  "LastUpdate_Achievements": "2023-09-11T07:04:14.7577161+00:00"
 }

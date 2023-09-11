@@ -2052,17 +2052,17 @@
       "ID": "ID_09_SONIC2_DEFEAT_STINGER",
       "SetID": "7o8nc5m",
       "Name": "Beware Stingers!",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "ID_10_SONIC2_WIN_THE_JACKPOT",
       "SetID": "7o8nc5m",
       "Name": "Lucky Hedgehog",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "ID_11_SONIC3K_DEFEAT_RHINOBOT",
@@ -2276,8 +2276,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-11T06:07:27.5607598+00:00",
+  "LastChanged_Achievements": "2023-09-11T07:06:25.6360686+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.7477215+00:00",
-  "LastUpdate_Ratings": "2023-09-11T06:02:03.3895352+00:00",
-  "LastUpdate_Achievements": "2023-09-11T06:07:27.5607882+00:00"
+  "LastUpdate_Ratings": "2023-09-11T07:01:02.4528227+00:00",
+  "LastUpdate_Achievements": "2023-09-11T07:06:25.6361318+00:00"
 }

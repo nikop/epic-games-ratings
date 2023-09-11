@@ -7,7 +7,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Blacksmith's Son | 32.00% | ~256,277 |
-| Cavalier | 25.00% | ~200,216 |
+| Cavalier | 25.00% | ~200,217 |
 | Fatso | 23.00% | ~184,199 |
 | Awakening | 21.00% | ~168,182 |
 | Ranger | 20.00% | ~160,173 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~801 |
 | Wingman | 0.10% | ~801 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800,866 (Ranked 16)  
+Progressed: 800,867 (Ranked 16)  
 Completed: 45 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,14 +233,14 @@ Completed: 45 (0.01%) (Ranked 259)
 | 2023-09-08 | 800,480 | 45 |
 | 2023-09-09 | 800,645 | 45 |
 | 2023-09-10 | 800,843 | 45 |
-| 2023-09-11 | 800,866 | 45 |
+| 2023-09-11 | 800,867 | 45 |
 ## Awards
-Max (Character Customization): 7,433  (Ranked 47)  
-Sum: 27,700 (Ranked 46)  
+Max (Character Customization): 7,436  (Ranked 47)  
+Sum: 27,703 (Ranked 46)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,433 |
+| This game has Inclusive Character Customization | 7,436 |
 | This game has Great Boss Battles | 5,474 |
 | This game has Challenging Combat | 1,736 |
 | This game has Amazing Storytelling | 1,692 |
@@ -483,4 +483,4 @@ Diff (max vs sum): 1
 | 2023-09-08 | 4.71 | - | 7,432 | 27,681 |
 | 2023-09-09 | 4.71 | - | 7,433 | 27,692 |
 | 2023-09-10 | 4.71 | - | 7,433 | 27,698 |
-| 2023-09-11 | 4.71 | - | 7,433 | 27,700 |
+| 2023-09-11 | 4.71 | - | 7,436 | 27,703 |

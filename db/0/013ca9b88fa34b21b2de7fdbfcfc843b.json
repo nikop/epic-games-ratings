@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 658,
+  "EOS_Progressed": 660,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -462,6 +462,11 @@
       "Time": "2023-09-11T06:08:05.758215+00:00",
       "NumProgressed": 658,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T07:07:06.215013+00:00",
+      "NumProgressed": 660,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -474,7 +479,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 515
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -482,7 +487,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -496,9 +501,9 @@
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 112
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -512,9 +517,9 @@
       "ID": "CHAPTER_6_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Search for the Hairy Grell",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 13
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -568,9 +573,9 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 238
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -578,7 +583,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -610,15 +615,15 @@
       "Name": "Humble Collector",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
       "SetID": "9eia0f5",
       "Name": "Scattered Scroll Scrounger",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -626,7 +631,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -650,7 +655,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -753,14 +758,14 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 658,
+      "Progressed": 660,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-11T06:08:05.7582146+00:00",
+  "LastChanged_Achievements": "2023-09-11T07:07:06.2150118+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:57:07.7146184+00:00",
-  "LastUpdate_Ratings": "2023-09-11T06:01:10.4133657+00:00",
-  "LastUpdate_Achievements": "2023-09-11T06:08:05.7582374+00:00"
+  "LastUpdate_Ratings": "2023-09-11T07:00:07.1140514+00:00",
+  "LastUpdate_Achievements": "2023-09-11T07:07:06.2150625+00:00"
 }

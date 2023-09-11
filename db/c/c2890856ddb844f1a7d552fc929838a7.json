@@ -1388,9 +1388,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 536
+      "UsersEstimate": 544
     },
     {
       "ID": "AC03",
@@ -1428,9 +1428,9 @@
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 415
+      "UsersEstimate": 423
     },
     {
       "ID": "AC08",
@@ -1468,9 +1468,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 174
     },
     {
       "ID": "AC13",
@@ -1749,8 +1749,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-11T06:06:49.9984618+00:00",
+  "LastChanged_Achievements": "2023-09-11T07:05:45.6900348+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-11T06:00:48.3067334+00:00",
-  "LastUpdate_Achievements": "2023-09-11T06:06:49.9984962+00:00"
+  "LastUpdate_Ratings": "2023-09-11T06:59:42.4230416+00:00",
+  "LastUpdate_Achievements": "2023-09-11T07:05:45.6900877+00:00"
 }

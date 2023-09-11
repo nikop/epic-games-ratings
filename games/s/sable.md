@@ -6,28 +6,28 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~30,170 |
+| Simoon | 34.00% | ~30,171 |
 | Just The Two of Us | 32.00% | ~28,396 |
 | Up On High | 25.00% | ~22,184 |
 | Under The Hood | 25.00% | ~22,184 |
 | Got Your Nose | 24.00% | ~21,297 |
 | The Gift of Gab | 24.00% | ~21,297 |
 | Wrapping Up | 22.00% | ~19,522 |
-| More Than A Box Of Sand | 18.00% | ~15,972 |
+| More Than A Box Of Sand | 18.00% | ~15,973 |
 | The Dunboyne | 17.00% | ~15,085 |
 | Badge Hobbyist | 17.00% | ~15,085 |
 | Chum Novice | 16.00% | ~14,198 |
 | Silver-Tongued Sable | 16.00% | ~14,198 |
 | Sticky Paws | 16.00% | ~14,198 |
 | Bubble Up | 16.00% | ~14,198 |
-| Thread The Needle | 15.00% | ~13,310 |
+| Thread The Needle | 15.00% | ~13,311 |
 | Power to the People | 14.00% | ~12,423 |
 | Take That! | 13.00% | ~11,536 |
 | Nesting Giant | 13.00% | ~11,536 |
 | Treasure Tracker | 13.00% | ~11,536 |
 | Big Spender | 13.00% | ~11,536 |
-| Badge Collector | 12.00% | ~10,648 |
-| Quite The Catch | 12.00% | ~10,648 |
+| Badge Collector | 12.00% | ~10,649 |
+| Quite The Catch | 12.00% | ~10,649 |
 | Rowleys Way | 11.00% | ~9,761 |
 | The Machinist Mask | 10.00% | ~8,874 |
 | The Cartographer Mask | 10.00% | ~8,874 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~5,324 |
 | The Gliding | 5.00% | ~4,437 |
 | The Entertainer Mask | 5.00% | ~4,437 |
-| The Quick and the Curious | 4.00% | ~3,549 |
-| Bike Aficionado | 4.00% | ~3,549 |
+| The Quick and the Curious | 4.00% | ~3,550 |
+| Bike Aficionado | 4.00% | ~3,550 |
 | Chum Expert | 3.00% | ~2,662 |
 | Gastric Bypass | 3.00% | ~2,662 |
 | The Angler Mask | 3.00% | ~2,662 |
 | Vivacious Vivarium | 2.00% | ~1,775 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,736 (Ranked 75)  
+Progressed: 88,738 (Ranked 75)  
 Completed: 884 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 884 (1.00%) (Ranked 123)
 | 2023-09-08 | 88,221 | 880 |
 | 2023-09-09 | 88,463 | 881 |
 | 2023-09-10 | 88,698 | 884 |
-| 2023-09-11 | 88,736 | 884 |
+| 2023-09-11 | 88,738 | 884 |
 ## Awards
 Max (Quickly Understood Controls): 24  (Ranked 488)  
 Sum: 65 (Ranked 445)  

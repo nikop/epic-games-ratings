@@ -34,10 +34,10 @@ Number of Ratings: 1,611  (23.09.2022)
 | Real Musor | 0.90% | ~1,148 |
 | Baddest Brow in Town | 0.80% | ~1,020 |
 | Venture into the HARDCORE | 0.80% | ~1,020 |
-| Networthy Individual | 0.70% | ~892 |
+| Networthy Individual | 0.70% | ~893 |
 | Leopard Mindset | 0.60% | ~765 |
-| Modus: Mullen | 0.30% | ~382 |
-| Palerunner | 0.30% | ~382 |
+| Modus: Mullen | 0.30% | ~383 |
+| Palerunner | 0.30% | ~383 |
 | Cause a ****storm | 0.20% | ~255 |
 | True Detective | 0.20% | ~255 |
 | The Icebreaker | 0.20% | ~255 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,500 (Ranked 70)  
+Progressed: 127,501 (Ranked 70)  
 Completed: 28 (0.02%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 28 (0.02%) (Ranked 251)
 | 2023-09-08 | 127,393 | 28 |
 | 2023-09-09 | 127,440 | 28 |
 | 2023-09-10 | 127,496 | 28 |
-| 2023-09-11 | 127,500 | 28 |
+| 2023-09-11 | 127,501 | 28 |
 ## Awards
 Max (Character Customization): 722  (Ranked 166)  
 Sum: 1,086 (Ranked 237)  

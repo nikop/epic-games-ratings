@@ -11,6 +11,7 @@
 | Through the woods | 62.00% | ~23 |
 | Back to the anvil | 51.00% | ~19 |
 | Honey, honey, honey… | 49.00% | ~18 |
+| Little genius | 49.00% | ~18 |
 | So soothing... | 49.00% | ~18 |
 | Kekekeke... | 49.00% | ~18 |
 | Roostwig has entered the building | 49.00% | ~18 |
@@ -18,7 +19,6 @@
 | Game Over! | 46.00% | ~17 |
 | A very special drink | 46.00% | ~17 |
 | Fussy eater | 46.00% | ~17 |
-| Little genius | 46.00% | ~17 |
 | NOW GO AWAY! | 46.00% | ~17 |
 | Sorry Grandpa | 46.00% | ~17 |
 | Show me your true self | 43.00% | ~16 |

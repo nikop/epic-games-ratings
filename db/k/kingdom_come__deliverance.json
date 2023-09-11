@@ -7036,18 +7036,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 27700,
       "NumberOfAwardsMax": 7433
+    },
+    {
+      "Time": "2023-09-11T07:01:58.5375575+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 27703,
+      "NumberOfAwardsMax": 7436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27700,
-  "NumberOfAwardsMax": 7433,
+  "NumberOfAwards": 27703,
+  "NumberOfAwardsMax": 7436,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7433
+      "Count": 7436
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -7122,9 +7128,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 800866,
+  "EOS_Progressed": 800867,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 1104,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23032,6 +23038,11 @@
       "Time": "2023-09-11T05:07:02.9300562+00:00",
       "NumProgressed": 800866,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-11T07:07:24.4201982+00:00",
+      "NumProgressed": 800867,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 82,
@@ -23155,7 +23166,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200216
+      "UsersEstimate": 200217
     },
     {
       "ID": "Chivalrous",
@@ -23698,15 +23709,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 800866,
+      "Progressed": 800867,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-09-11T02:16:18.3321291+00:00",
-  "LastChanged_Achievements": "2023-09-11T06:08:22.8316869+00:00",
+  "LastChanged": "2023-09-11T07:01:58.5375574+00:00",
+  "LastChanged_Achievements": "2023-09-11T07:07:24.4201975+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.0692878+00:00",
-  "LastUpdate_Ratings": "2023-09-11T06:02:54.0375234+00:00",
-  "LastUpdate_Achievements": "2023-09-11T06:08:22.8318344+00:00"
+  "LastUpdate_Ratings": "2023-09-11T07:01:58.5375581+00:00",
+  "LastUpdate_Achievements": "2023-09-11T07:07:24.4203918+00:00"
 }

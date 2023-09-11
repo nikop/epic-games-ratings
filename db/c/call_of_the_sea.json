@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -268,7 +268,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118588,
+  "EOS_Progressed": 118589,
   "EOS_Completed": 961,
   "EOS_NewPlayers": 1397,
   "EOS_NewCompleters": 13,
@@ -16303,6 +16303,11 @@
       "Time": "2023-09-11T06:06:19.4499707+00:00",
       "NumProgressed": 118588,
       "NumCompleted": 961
+    },
+    {
+      "Time": "2023-09-11T07:05:13.1509699+00:00",
+      "NumProgressed": 118589,
+      "NumCompleted": 961
     }
   ],
   "TotalAchievements": 34,
@@ -16386,7 +16391,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 65223
+      "UsersEstimate": 65224
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -16402,7 +16407,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 46249
+      "UsersEstimate": 46250
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -16426,7 +16431,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 35576
+      "UsersEstimate": 35577
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -16434,7 +16439,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 24903
+      "UsersEstimate": 24904
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -16442,7 +16447,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 35576
+      "UsersEstimate": 35577
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -16570,7 +16575,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 26089
+      "UsersEstimate": 26090
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -16585,7 +16590,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 118588,
+      "Progressed": 118589,
       "Completed": 961
     }
   ],
@@ -16593,8 +16598,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-10T16:00:39.3983088+00:00",
-  "LastChanged_Achievements": "2023-09-11T06:06:19.4499703+00:00",
+  "LastChanged_Achievements": "2023-09-11T07:05:13.1509695+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:33.4495566+00:00",
-  "LastUpdate_Ratings": "2023-09-11T05:58:36.369889+00:00",
-  "LastUpdate_Achievements": "2023-09-11T06:06:19.450065+00:00"
+  "LastUpdate_Ratings": "2023-09-11T06:57:18.5039789+00:00",
+  "LastUpdate_Achievements": "2023-09-11T07:05:13.1510938+00:00"
 }
