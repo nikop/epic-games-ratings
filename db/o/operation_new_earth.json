@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1287,
+  "EOS_Progressed": 1288,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -4606,6 +4606,11 @@
       "Time": "2023-09-11T13:08:27.3534889+00:00",
       "NumProgressed": 1287,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-11T16:03:09.7743075+00:00",
+      "NumProgressed": 1288,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4617,7 +4622,7 @@
       "Name": "Know The Enemy",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -4641,7 +4646,7 @@
       "Name": "Player Betrayer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -4689,7 +4694,7 @@
       "Name": "Silver Achiever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "objective_headquarters_10",
@@ -4705,7 +4710,7 @@
       "Name": "Moving On Up",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "objective_headquarters_20",
@@ -4793,7 +4798,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4801,7 +4806,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4920,14 +4925,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1287,
+      "Progressed": 1288,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-11T15:03:22.08702+00:00",
+  "LastChanged_Achievements": "2023-09-11T16:03:09.774307+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-11T14:59:44.287691+00:00",
-  "LastUpdate_Achievements": "2023-09-11T15:03:22.0871052+00:00"
+  "LastUpdate_Ratings": "2023-09-11T15:59:07.5929485+00:00",
+  "LastUpdate_Achievements": "2023-09-11T16:03:09.7744193+00:00"
 }

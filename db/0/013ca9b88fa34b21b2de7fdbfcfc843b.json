@@ -2,9 +2,9 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 803,
+  "EOS_Progressed": 843,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -507,6 +507,11 @@
       "Time": "2023-09-11T15:07:04.0461948+00:00",
       "NumProgressed": 803,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T16:06:09.3977598+00:00",
+      "NumProgressed": 843,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -517,9 +522,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 602
+      "UsersEstimate": 624
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -527,7 +532,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 540
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -535,15 +540,15 @@
       "Name": "Calm Sailing",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -551,7 +556,7 @@
       "Name": "Clear the Air",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -559,7 +564,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -607,15 +612,15 @@
       "Name": "Lumberjack",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 126
     },
     {
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 261
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -623,7 +628,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 371
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -631,7 +636,7 @@
       "Name": "Beach Comber",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -653,9 +658,9 @@
       "ID": "DISCOVER_SCROLLS_1",
       "SetID": "9eia0f5",
       "Name": "Humble Collector",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 270
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -669,9 +674,9 @@
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 430
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -679,7 +684,7 @@
       "Name": "Mist Walker",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -693,9 +698,9 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 261
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -703,7 +708,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -727,7 +732,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -735,7 +740,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 152
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -743,7 +748,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -767,7 +772,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -781,7 +786,7 @@
       "ID": "UPGRADE_HOUSEMAX",
       "SetID": "9eia0f5",
       "Name": "House Proud",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -798,14 +803,14 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 803,
+      "Progressed": 843,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-11T15:07:04.0461939+00:00",
+  "LastChanged_Achievements": "2023-09-11T16:06:09.3977593+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:57:07.7146184+00:00",
-  "LastUpdate_Ratings": "2023-09-11T15:00:19.1250428+00:00",
-  "LastUpdate_Achievements": "2023-09-11T15:07:04.0462237+00:00"
+  "LastUpdate_Ratings": "2023-09-11T15:59:39.66202+00:00",
+  "LastUpdate_Achievements": "2023-09-11T16:06:09.3977853+00:00"
 }

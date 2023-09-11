@@ -3,11 +3,11 @@
   "Name": "Crayta",
   "ProductSlug": "crayta",
   "Ranking_Rating": 872,
-  "Ranking_Popularity": 404,
-  "Ranking_PopularitySum": 326,
+  "Ranking_Popularity": 405,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": null,
@@ -2673,8 +2673,8 @@
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-09-11T15:04:40.5506521+00:00",
+  "LastChanged_Achievements": "2023-09-11T16:04:08.0446598+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.6704768+00:00",
-  "LastUpdate_Ratings": "2023-09-11T15:02:28.4419071+00:00",
-  "LastUpdate_Achievements": "2023-09-11T15:04:40.5506994+00:00"
+  "LastUpdate_Ratings": "2023-09-11T16:01:23.7333284+00:00",
+  "LastUpdate_Achievements": "2023-09-11T16:04:08.0446935+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -607,9 +607,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342697,
+  "EOS_Progressed": 342701,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1106,
+  "EOS_NewPlayers": 1097,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16657,6 +16657,11 @@
       "Time": "2023-09-11T15:04:39.3499764+00:00",
       "NumProgressed": 342697,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-11T16:04:07.2556803+00:00",
+      "NumProgressed": 342701,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -16876,7 +16881,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157641
+      "UsersEstimate": 157642
     },
     {
       "ID": "ach028",
@@ -17284,7 +17289,7 @@
       "Name": "Social Butterfly",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "ach080",
@@ -17307,7 +17312,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 342697,
+      "Progressed": 342701,
       "Completed": 7
     }
   ],
@@ -17315,8 +17320,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-10T15:00:51.2490982+00:00",
-  "LastChanged_Achievements": "2023-09-11T15:04:39.3499757+00:00",
+  "LastChanged_Achievements": "2023-09-11T16:04:07.2556793+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-11T15:01:24.3784797+00:00",
-  "LastUpdate_Achievements": "2023-09-11T15:04:39.3502853+00:00"
+  "LastUpdate_Ratings": "2023-09-11T16:00:34.6669951+00:00",
+  "LastUpdate_Achievements": "2023-09-11T16:04:07.2558667+00:00"
 }

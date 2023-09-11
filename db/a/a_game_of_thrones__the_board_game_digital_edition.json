@@ -3,11 +3,11 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 858,
-  "Ranking_Popularity": 318,
+  "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1275,7 +1275,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23687,
+  "EOS_Progressed": 23689,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 2,
@@ -16740,6 +16740,11 @@
       "Time": "2023-09-11T15:03:29.702544+00:00",
       "NumProgressed": 23687,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-11T16:03:16.2034442+00:00",
+      "NumProgressed": 23689,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -16871,7 +16876,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4737
+      "UsersEstimate": 4738
     },
     {
       "ID": "1031",
@@ -16887,7 +16892,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9475
+      "UsersEstimate": 9476
     },
     {
       "ID": "1033",
@@ -16911,7 +16916,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "1036",
@@ -16926,15 +16931,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23687,
+      "Progressed": 23689,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-11T15:03:29.7025432+00:00",
+  "LastChanged_Achievements": "2023-09-11T16:03:16.2034436+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.8845824+00:00",
-  "LastUpdate_Ratings": "2023-09-11T14:59:32.0101972+00:00",
-  "LastUpdate_Achievements": "2023-09-11T15:03:29.7029122+00:00"
+  "LastUpdate_Ratings": "2023-09-11T15:58:58.2352235+00:00",
+  "LastUpdate_Achievements": "2023-09-11T16:03:16.2035571+00:00"
 }

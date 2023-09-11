@@ -3,7 +3,7 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 429,
-  "Ranking_Popularity": 277,
+  "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 273,
@@ -814,18 +814,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 307,
       "NumberOfAwardsMax": 192
+    },
+    {
+      "Time": "2023-09-11T16:01:08.5233918+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 308,
+      "NumberOfAwardsMax": 193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 307,
-  "NumberOfAwardsMax": 192,
+  "NumberOfAwards": 308,
+  "NumberOfAwardsMax": 193,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 192
+      "Count": 193
     },
     {
       "Text": "This game is Relaxing",
@@ -858,9 +864,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223243,
+  "EOS_Progressed": 223250,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2065,
+  "EOS_NewPlayers": 2057,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10443,6 +10449,11 @@
       "Time": "2023-09-11T15:08:39.7997814+00:00",
       "NumProgressed": 223243,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T16:07:28.8921794+00:00",
+      "NumProgressed": 223250,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10502,7 +10513,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6697
+      "UsersEstimate": 6698
     },
     {
       "ID": "Chapter2",
@@ -10886,7 +10897,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6697
+      "UsersEstimate": 6698
     },
     {
       "ID": "ElfEpic",
@@ -10902,7 +10913,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64740
+      "UsersEstimate": 64742
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10982,7 +10993,7 @@
       "Name": "Dead for good",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "KillGolbargh",
@@ -11070,7 +11081,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "RangerEpic",
@@ -11142,7 +11153,7 @@
       "Name": "Material Girl",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "WizardResistBurn",
@@ -11157,21 +11168,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223243,
+      "Progressed": 223250,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223243,
+      "Progressed": 223250,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-09-11T10:00:18.0008179+00:00",
-  "LastChanged_Achievements": "2023-09-11T15:08:39.7997806+00:00",
+  "LastChanged": "2023-09-11T16:01:08.5233916+00:00",
+  "LastChanged_Achievements": "2023-09-11T16:07:28.8921789+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-11T15:02:09.6257099+00:00",
-  "LastUpdate_Achievements": "2023-09-11T15:08:39.7999725+00:00"
+  "LastUpdate_Ratings": "2023-09-11T16:01:08.5233924+00:00",
+  "LastUpdate_Achievements": "2023-09-11T16:07:28.8923387+00:00"
 }

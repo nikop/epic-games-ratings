@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2939,
+  "EOS_Progressed": 2940,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 3,
@@ -6146,6 +6146,11 @@
       "Time": "2023-09-11T15:07:53.9313206+00:00",
       "NumProgressed": 2939,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-11T16:06:50.8907485+00:00",
+      "NumProgressed": 2940,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 16,
@@ -6157,7 +6162,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -6253,7 +6258,7 @@
       "Name": "Game opened",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ach_magic_wand",
@@ -6261,7 +6266,7 @@
       "Name": "Magic time",
       "Percentage": 29,
       "XP": 65,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "ach_no_boosters",
@@ -6284,14 +6289,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2939,
+      "Progressed": 2940,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-11T15:07:53.9313198+00:00",
+  "LastChanged_Achievements": "2023-09-11T16:06:50.8907479+00:00",
   "LastUpdate_AppInfo": "2023-09-08T13:56:57.5015536+00:00",
-  "LastUpdate_Ratings": "2023-09-11T15:00:05.9104063+00:00",
-  "LastUpdate_Achievements": "2023-09-11T15:07:53.9313836+00:00"
+  "LastUpdate_Ratings": "2023-09-11T15:59:27.1427713+00:00",
+  "LastUpdate_Achievements": "2023-09-11T16:06:50.8907957+00:00"
 }

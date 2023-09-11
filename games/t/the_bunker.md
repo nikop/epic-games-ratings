@@ -16,7 +16,7 @@
 | Descent | 58.00% | ~67 |
 | Awakenings | 57.00% | ~66 |
 | Cold Storage | 57.00% | ~66 |
-| Sam | 52.00% | ~60 |
+| Sam | 53.00% | ~61 |
 | Churchill | 51.00% | ~59 |
 | Commissioner | 50.00% | ~58 |
 | Engineer | 49.00% | ~57 |

@@ -40,6 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.20% | ~457 |
 | Waterdeep Detours | 0.20% | ~457 |
 | Underdeep Cartography | 0.20% | ~457 |
+| Overdue Rendezvous | 0.20% | ~457 |
 | Pure Energy | 0.20% | ~457 |
 | Legends and Lore | 0.20% | ~389 |
 | The End | 0.20% | ~389 |
@@ -412,7 +413,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~228 |
 | Easily Distracted | 0.10% | ~228 |
 | Rude Welcome | 0.10% | ~228 |
-| Overdue Rendezvous | 0.10% | ~228 |
 | Moose Tracks | 0.10% | ~195 |
 | An Awakened Axe | 0.10% | ~195 |
 | CONtagious Cold | 0.10% | ~195 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,405 (Ranked 54)  
-Completed: 2,269 (0.99%) (Ranked 125)  
+Progressed: 228,411 (Ranked 54)  
+Completed: 2,269 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -671,11 +671,11 @@ Completed: 2,269 (0.99%) (Ranked 125)
 | 2023-09-08 | 227,989 | 2,263 |
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
-| 2023-09-11 | 228,405 | 2,269 |
+| 2023-09-11 | 228,411 | 2,269 |
 ## Awards
 Max (Diverse Characters): 5,261  (Ranked 67)  
-Sum: 31,528 (Ranked 38)  
-Diff (max vs sum): 29  
+Sum: 31,528 (Ranked 39)  
+Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,261 |

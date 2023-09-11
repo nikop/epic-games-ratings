@@ -64,11 +64,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 643,
+  "EOS_Progressed": 644,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.89,
+  "EOS_Completed_Percentage": 3.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2324,6 +2324,11 @@
       "Time": "2023-09-11T15:05:20.1866501+00:00",
       "NumProgressed": 643,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-11T16:04:40.9876539+00:00",
+      "NumProgressed": 644,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2343,7 +2348,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "MQ02_1",
@@ -2351,7 +2356,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MQ02_2",
@@ -2391,15 +2396,15 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 341
+      "UsersEstimate": 335
     },
     {
       "ID": "MQ03_4",
@@ -2439,7 +2444,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "MQ05_1",
@@ -2455,7 +2460,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MQ05_3",
@@ -2487,7 +2492,7 @@
       "Name": "Bookworm",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MQ06_3",
@@ -2495,7 +2500,7 @@
       "Name": "Land, Ho!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "MQ06_4",
@@ -2511,15 +2516,15 @@
       "Name": "Read It And Weep",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 296
+      "UsersEstimate": 290
     },
     {
       "ID": "MQ08_1",
@@ -2527,7 +2532,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "MQ08_2",
@@ -2535,7 +2540,7 @@
       "Name": "Up In Flames",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "MQ08_3",
@@ -2558,7 +2563,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 643,
+      "Progressed": 644,
       "Completed": 25
     }
   ],
@@ -2566,8 +2571,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-11T15:05:20.1866493+00:00",
+  "LastChanged_Achievements": "2023-09-11T16:04:40.9876533+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-11T15:01:00.2031144+00:00",
-  "LastUpdate_Achievements": "2023-09-11T15:05:20.1866898+00:00"
+  "LastUpdate_Ratings": "2023-09-11T16:00:13.9861493+00:00",
+  "LastUpdate_Achievements": "2023-09-11T16:04:40.9876873+00:00"
 }
