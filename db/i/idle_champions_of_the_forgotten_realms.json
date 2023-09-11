@@ -6488,10 +6488,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31522,
       "NumberOfAwardsMax": 5261
+    },
+    {
+      "Time": "2023-09-11T12:00:49.109333+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31526,
+      "NumberOfAwardsMax": 5261
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31522,
+  "NumberOfAwards": 31526,
   "NumberOfAwardsMax": 5261,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6535,12 +6541,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3407
+      "Count": 3411
     }
   ],
-  "EOS_Progressed": 228372,
+  "EOS_Progressed": 228379,
   "EOS_Completed": 2268,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1434,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22448,6 +22454,11 @@
       "Time": "2023-09-11T11:03:49.0596863+00:00",
       "NumProgressed": 228372,
       "NumCompleted": 2268
+    },
+    {
+      "Time": "2023-09-11T12:03:35.2106456+00:00",
+      "NumProgressed": 228379,
+      "NumCompleted": 2268
     }
   ],
   "TotalAchievements": 520,
@@ -24139,7 +24150,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "objective_completed_35",
@@ -25603,7 +25614,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "objective_completed_70",
@@ -26618,21 +26629,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194646,
+      "Progressed": 194653,
       "Completed": 3419
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228372,
+      "Progressed": 228379,
       "Completed": 2268
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-11T07:01:20.2097383+00:00",
-  "LastChanged_Achievements": "2023-09-11T11:03:49.0596858+00:00",
+  "LastChanged": "2023-09-11T12:00:49.1093328+00:00",
+  "LastChanged_Achievements": "2023-09-11T12:03:35.2106451+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-11T10:59:53.0961507+00:00",
-  "LastUpdate_Achievements": "2023-09-11T11:03:49.0625177+00:00"
+  "LastUpdate_Ratings": "2023-09-11T12:00:49.1093335+00:00",
+  "LastUpdate_Achievements": "2023-09-11T12:03:35.2131245+00:00"
 }

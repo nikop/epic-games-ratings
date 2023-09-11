@@ -6,43 +6,43 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~20,761 |
-| The Evilest Evil | 58.00% | ~17,451 |
-| Twistram is devastated | 57.00% | ~17,150 |
-| The Gehenna Stones | 49.00% | ~14,743 |
-| No one has to die today! | 46.00% | ~13,840 |
-| Death and destruction! | 45.00% | ~13,540 |
-| The Swamplanders from the swamplands | 43.00% | ~12,938 |
-| Rusty Steel | 41.00% | ~12,336 |
-| The One-Huge-Army-Building Evil | 40.00% | ~12,035 |
-| The last burger | 37.00% | ~11,133 |
-| Braiiiiins! | 37.00% | ~11,133 |
-| Hands off the Dungeonheart! | 36.00% | ~10,832 |
-| A trip on sea, what fun it can be | 34.00% | ~10,230 |
-| Damned good | 33.00% | ~9,929 |
-| Stock Market Crash | 31.00% | ~9,327 |
-| Factory farming | 31.00% | ~9,327 |
-| Not-So-Overproud | 30.00% | ~9,026 |
+| The Shadow strikes | 69.00% | ~20,763 |
+| The Evilest Evil | 58.00% | ~17,453 |
+| Twistram is devastated | 57.00% | ~17,152 |
+| The Gehenna Stones | 49.00% | ~14,745 |
+| No one has to die today! | 46.00% | ~13,842 |
+| Death and destruction! | 45.00% | ~13,541 |
+| The Swamplanders from the swamplands | 43.00% | ~12,939 |
+| Rusty Steel | 41.00% | ~12,337 |
+| The One-Huge-Army-Building Evil | 40.00% | ~12,036 |
+| The last burger | 37.00% | ~11,134 |
+| Braiiiiins! | 37.00% | ~11,134 |
+| Hands off the Dungeonheart! | 36.00% | ~10,833 |
+| A trip on sea, what fun it can be | 34.00% | ~10,231 |
+| Damned good | 33.00% | ~9,930 |
+| Stock Market Crash | 31.00% | ~9,328 |
+| Factory farming | 31.00% | ~9,328 |
+| Not-So-Overproud | 30.00% | ~9,027 |
 | For a handfull of Catapults | 29.00% | ~8,726 |
 | Shadow hunter | 29.00% | ~8,726 |
 | Ogre Solo! | 28.00% | ~8,425 |
-| Thirst quencher | 27.00% | ~8,124 |
-| Destroy the thing | 26.00% | ~7,823 |
-| Tide Master | 26.00% | ~7,823 |
-| Difficult family relationships | 25.00% | ~7,522 |
-| MASS-O-BOT | 24.00% | ~7,221 |
-| Prepare the grave | 24.00% | ~7,221 |
-| Angel of Fire | 24.00% | ~7,221 |
-| Where there is Light, there is Shadow | 23.00% | ~6,920 |
-| At the foot of Mount Destiny | 22.00% | ~6,619 |
-| The Force disturbed | 21.00% | ~6,318 |
+| Thirst quencher | 27.00% | ~8,125 |
+| Destroy the thing | 26.00% | ~7,824 |
+| Tide Master | 26.00% | ~7,824 |
+| Difficult family relationships | 25.00% | ~7,523 |
+| MASS-O-BOT | 24.00% | ~7,222 |
+| Prepare the grave | 24.00% | ~7,222 |
+| Angel of Fire | 24.00% | ~7,222 |
+| Where there is Light, there is Shadow | 23.00% | ~6,921 |
+| At the foot of Mount Destiny | 22.00% | ~6,620 |
+| The Force disturbed | 21.00% | ~6,319 |
 | The Victorious Evil | 20.00% | ~6,018 |
 | Chorus of damnation | 19.00% | ~5,717 |
 | We don’t have time! | 19.00% | ~5,717 |
 | The Stones’ Power | 18.00% | ~5,416 |
 | Flat as a pancake | 17.00% | ~5,115 |
 | Lifeguard | 17.00% | ~5,115 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,513 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~4,514 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~3,611 |
 | Then let them eat cake! | 12.00% | ~3,611 |
 | The White Knight | 10.00% | ~3,009 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Spawner Killer | 6.00% | ~1,805 |
 | A little something extra | 6.00% | ~1,805 |
 | The Benevolent Evil | 6.00% | ~1,805 |
-| Band of Brothers | 5.00% | ~1,504 |
+| Band of Brothers | 5.00% | ~1,505 |
 | Night of the Living Dead (on Speed) | 4.00% | ~1,204 |
 | I need a hero! | 4.00% | ~1,204 |
 | Storm And Stress | 3.00% | ~903 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~602 |
 | Sacrifices! | 2.00% | ~602 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,088 (Ranked 101)  
+Progressed: 30,091 (Ranked 101)  
 Completed: 245 (0.81%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 245 (0.81%) (Ranked 131)
 | 2023-09-08 | 29,843 | 244 |
 | 2023-09-09 | 29,934 | 245 |
 | 2023-09-10 | 30,055 | 245 |
-| 2023-09-11 | 30,088 | 245 |
+| 2023-09-11 | 30,091 | 245 |
 ## Awards
 Max (Great for Beginners): 345  (Ranked 228)  
 Sum: 2,632 (Ranked 175)  

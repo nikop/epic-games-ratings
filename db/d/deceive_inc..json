@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17955,
+  "EOS_Progressed": 17956,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10040,6 +10040,11 @@
       "Time": "2023-09-11T10:04:57.5263752+00:00",
       "NumProgressed": 17955,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-11T12:05:02.4736186+00:00",
+      "NumProgressed": 17956,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10067,7 +10072,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "0004",
@@ -10179,7 +10184,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3412
     },
     {
       "ID": "0018",
@@ -10243,7 +10248,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "0026",
@@ -10338,7 +10343,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17955,
+      "Progressed": 17956,
       "Completed": 3
     }
   ],
@@ -10346,8 +10351,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-11T11:04:50.7795111+00:00",
+  "LastChanged_Achievements": "2023-09-11T12:05:02.4736182+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-11T10:57:48.4962527+00:00",
-  "LastUpdate_Achievements": "2023-09-11T11:04:50.7795988+00:00"
+  "LastUpdate_Ratings": "2023-09-11T11:58:05.1561701+00:00",
+  "LastUpdate_Achievements": "2023-09-11T12:05:02.4736836+00:00"
 }

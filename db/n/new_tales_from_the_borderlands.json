@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3624,
+  "EOS_Progressed": 3625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1433,6 +1433,11 @@
       "Time": "2023-09-11T01:46:33.0067534+00:00",
       "NumProgressed": 3624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T12:04:35.2787721+00:00",
+      "NumProgressed": 3625,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1548,7 +1553,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -1620,7 +1625,7 @@
       "Name": "And Still Champion...",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -1628,7 +1633,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1651,7 +1656,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3624,
+      "Progressed": 3625,
       "Completed": 0
     }
   ],
@@ -1659,8 +1664,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-09-11T11:04:29.0423628+00:00",
+  "LastChanged_Achievements": "2023-09-11T12:04:35.2787717+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:39.3937953+00:00",
-  "LastUpdate_Ratings": "2023-09-11T10:57:07.4697906+00:00",
-  "LastUpdate_Achievements": "2023-09-11T11:04:29.0423899+00:00"
+  "LastUpdate_Ratings": "2023-09-11T11:57:10.8972024+00:00",
+  "LastUpdate_Achievements": "2023-09-11T12:04:35.278794+00:00"
 }

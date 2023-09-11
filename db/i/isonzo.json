@@ -820,9 +820,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6781,
+  "EOS_Progressed": 6782,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5100,6 +5100,11 @@
       "Time": "2023-09-11T11:06:48.4384749+00:00",
       "NumProgressed": 6781,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-11T12:07:29.1702391+00:00",
+      "NumProgressed": 6782,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5119,7 +5124,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -5159,7 +5164,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -5359,7 +5364,7 @@
       "Name": "Silver Lining",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -5470,7 +5475,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6781,
+      "Progressed": 6782,
       "Completed": 8
     }
   ],
@@ -5478,8 +5483,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-10T22:59:24.1957519+00:00",
-  "LastChanged_Achievements": "2023-09-11T11:06:48.4384743+00:00",
+  "LastChanged_Achievements": "2023-09-11T12:07:29.1702387+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:39.7993209+00:00",
-  "LastUpdate_Ratings": "2023-09-11T10:59:37.4031145+00:00",
-  "LastUpdate_Achievements": "2023-09-11T11:06:48.4385275+00:00"
+  "LastUpdate_Ratings": "2023-09-11T12:00:27.8934085+00:00",
+  "LastUpdate_Achievements": "2023-09-11T12:07:29.1702933+00:00"
 }

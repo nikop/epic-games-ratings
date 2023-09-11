@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 618,
+  "EOS_Progressed": 621,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2023-09-11T11:05:35.862507+00:00",
       "NumProgressed": 618,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T12:05:58.1897356+00:00",
+      "NumProgressed": 621,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -586,7 +591,7 @@
       "Name": "First Love",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 224
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -594,7 +599,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -602,7 +607,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -618,7 +623,7 @@
       "Name": "Restored and Ready",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -658,7 +663,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -690,7 +695,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -762,7 +767,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -794,7 +799,7 @@
       "Name": "Clean Race",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 224
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -840,9 +845,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "c7hf6a4",
       "Name": "We\u0027ve Just Begun",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 31
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -882,7 +887,7 @@
       "Name": "Eat My Dust",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -890,7 +895,7 @@
       "Name": "Champagne Spray",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -938,7 +943,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -977,14 +982,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 618,
+      "Progressed": 621,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-11T11:05:35.8625064+00:00",
+  "LastChanged_Achievements": "2023-09-11T12:05:58.1897352+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:00:20.300275+00:00",
-  "LastUpdate_Achievements": "2023-09-11T11:05:35.8625532+00:00"
+  "LastUpdate_Ratings": "2023-09-11T12:01:22.8706467+00:00",
+  "LastUpdate_Achievements": "2023-09-11T12:05:58.1897711+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "superpower-3",
   "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-07T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.257479+00:00",
   "LastChanged": "2023-03-31T05:58:42.2574791+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:06.2766954+00:00",
-  "LastUpdate_Ratings": "2023-09-11T10:58:02.3296176+00:00",
-  "LastUpdate_Achievements": "2023-09-11T11:08:04.7495422+00:00"
+  "LastUpdate_Ratings": "2023-09-11T11:58:23.6018533+00:00",
+  "LastUpdate_Achievements": "2023-09-11T12:08:01.8401544+00:00"
 }

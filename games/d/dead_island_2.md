@@ -5,28 +5,28 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 2.00% | ~13,556 |
-| Welcome To Hell-A | 2.00% | ~13,556 |
-| Dr. Reed, I Presume? | 1.00% | ~6,778 |
-| Git Gutte! | 1.00% | ~6,778 |
-| Bookworm | 1.00% | ~6,778 |
-| Break A Leg | 1.00% | ~6,778 |
-| But Doctor, I am Butcho | 1.00% | ~6,778 |
-| Slayer Squad | 1.00% | ~6,778 |
-| Can't Handle the Truth | 1.00% | ~6,778 |
-| Coup de Grâce | 1.00% | ~6,778 |
-| Like Riding a Bike | 1.00% | ~6,778 |
-| Hazardous Materials | 1.00% | ~6,778 |
-| Friends Like These | 1.00% | ~6,778 |
-| Apex Predator | 1.00% | ~6,778 |
-| Zombologist | 1.00% | ~6,778 |
-| A Patton Emerges | 1.00% | ~6,778 |
-| Stacking the Deck | 1.00% | ~6,778 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,778 |
-| This is My Weapon | 1.00% | ~6,778 |
-| Ooh, Shiny! | 0.90% | ~6,100 |
-| I Am the Resurrection | 0.90% | ~6,100 |
-| Our True Nature | 0.90% | ~6,100 |
+| Hotel California | 2.00% | ~13,557 |
+| Welcome To Hell-A | 2.00% | ~13,557 |
+| Dr. Reed, I Presume? | 1.00% | ~6,779 |
+| Git Gutte! | 1.00% | ~6,779 |
+| Bookworm | 1.00% | ~6,779 |
+| Break A Leg | 1.00% | ~6,779 |
+| But Doctor, I am Butcho | 1.00% | ~6,779 |
+| Slayer Squad | 1.00% | ~6,779 |
+| Can't Handle the Truth | 1.00% | ~6,779 |
+| Coup de Grâce | 1.00% | ~6,779 |
+| Like Riding a Bike | 1.00% | ~6,779 |
+| Hazardous Materials | 1.00% | ~6,779 |
+| Friends Like These | 1.00% | ~6,779 |
+| Apex Predator | 1.00% | ~6,779 |
+| Zombologist | 1.00% | ~6,779 |
+| A Patton Emerges | 1.00% | ~6,779 |
+| Stacking the Deck | 1.00% | ~6,779 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,779 |
+| This is My Weapon | 1.00% | ~6,779 |
+| Ooh, Shiny! | 0.90% | ~6,101 |
+| I Am the Resurrection | 0.90% | ~6,101 |
+| Our True Nature | 0.90% | ~6,101 |
 | Anger Management | 0.80% | ~5,423 |
 | Perks of the Job | 0.80% | ~5,423 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,423 |
@@ -38,11 +38,11 @@ Rating: 4.54 (Ranked 501)
 | Rising Star | 0.50% | ~3,389 |
 | Smorgasbord | 0.40% | ~2,711 |
 | Jumbo Keyring | 0.40% | ~2,711 |
-| Make it So | 0.30% | ~2,033 |
-| On Safari | 0.30% | ~2,033 |
-| Not Even My Final Form | 0.30% | ~2,033 |
-| Internet Famous | 0.30% | ~2,033 |
-| Variety is the Spice of Death | 0.30% | ~2,033 |
+| Make it So | 0.30% | ~2,034 |
+| On Safari | 0.30% | ~2,034 |
+| Not Even My Final Form | 0.30% | ~2,034 |
+| Internet Famous | 0.30% | ~2,034 |
+| Variety is the Spice of Death | 0.30% | ~2,034 |
 | LA Influential | 0.20% | ~1,356 |
 | Sole Survivor | 0.20% | ~1,356 |
 | Gore Horse | 0.20% | ~1,356 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Donk! | 0.10% | ~678 |
 | Bucket List | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,824 (Ranked 22)  
+Progressed: 677,851 (Ranked 22)  
 Completed: 2,136 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,10 +195,10 @@ Completed: 2,136 (0.32%) (Ranked 178)
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
-| 2023-09-11 | 677,824 | 2,136 |
+| 2023-09-11 | 677,851 | 2,136 |
 ## Awards
 Max (Great Boss Battles): 6,008  (Ranked 57)  
-Sum: 8,875 (Ranked 94)  
+Sum: 8,878 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -208,7 +208,7 @@ Diff (max vs sum): -37
 | This game has Quickly Understood Controls | 387 |
 | This game is Relaxing | 371 |
 | This game has Amazing Storytelling | 345 |
-| This game is Extremely Fun | 329 |
+| This game is Extremely Fun | 332 |
 | This game has Amazing Characters | 318 |
 | This game is Highly Recommended | 315 |
 ## Ratings History
@@ -357,4 +357,4 @@ Diff (max vs sum): -37
 | 2023-09-08 | 4.54 | 5,969 | 8,812 |
 | 2023-09-09 | 4.54 | 5,990 | 8,845 |
 | 2023-09-10 | 4.54 | 6,008 | 8,872 |
-| 2023-09-11 | 4.54 | 6,008 | 8,875 |
+| 2023-09-11 | 4.54 | 6,008 | 8,878 |

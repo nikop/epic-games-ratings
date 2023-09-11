@@ -2,12 +2,12 @@
   "ID": "52d9c5885cb54c9280d4b9b8cf32a7b9",
   "Name": "True Fear: Forsaken Souls Part 1",
   "ProductSlug": "true-fear-forsaken-souls-part-1-cd1eb1",
-  "Ranking_Rating": 729,
+  "Ranking_Rating": 728,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-31T18:00:00+00:00",
@@ -77,6 +77,6 @@
   "FirstSeenRating": "2022-10-23T18:01:32.6537838+00:00",
   "LastChanged": "2023-03-31T05:57:48.6162071+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:00.3004257+00:00",
-  "LastUpdate_Ratings": "2023-09-11T10:59:46.339357+00:00",
-  "LastUpdate_Achievements": "2023-09-11T11:05:41.5768149+00:00"
+  "LastUpdate_Ratings": "2023-09-11T12:00:40.3793194+00:00",
+  "LastUpdate_Achievements": "2023-09-11T12:06:05.4658353+00:00"
 }

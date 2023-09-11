@@ -40,7 +40,7 @@ Rating: 4.19 (Ranked 872)
 | Quick Pick | 0.50% | ~19 |
 | Mugshot | 0.40% | ~64 |
 | Instigator | 0.40% | ~15 |
-| Subject Alpha | 0.20% | ~8 |
+| Subject Alpha | 0.30% | ~12 |
 | Don't Let It Mellow | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |

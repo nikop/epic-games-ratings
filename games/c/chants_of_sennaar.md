@@ -14,8 +14,8 @@
 | The darkness | 28.00% | ~38 |
 | True G4M3R | 26.00% | ~35 |
 | One last step | 24.00% | ~32 |
-| Cable guy | 22.00% | ~29 |
-| Champollion | 22.00% | ~29 |
+| Cable guy | 23.00% | ~31 |
+| Champollion | 23.00% | ~31 |
 | Open door | 20.00% | ~27 |
 | In this together | 19.00% | ~25 |
 | Peace walker | 19.00% | ~25 |

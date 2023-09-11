@@ -5900,10 +5900,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27203,
       "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-09-11T12:01:28.3197979+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27204,
+      "NumberOfAwardsMax": 4734
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27203,
+  "NumberOfAwards": 27204,
   "NumberOfAwardsMax": 4734,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5941,7 +5947,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4008
+      "Count": 4009
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5956,9 +5962,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 136024,
+  "EOS_Progressed": 136025,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20766,6 +20772,11 @@
       "Time": "2023-09-11T11:06:11.6676525+00:00",
       "NumProgressed": 136024,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-09-11T12:06:42.6055517+00:00",
+      "NumProgressed": 136025,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 112,
@@ -21535,9 +21546,9 @@
       "ID": "rareres03",
       "SetID": "anfd17p",
       "Name": "Marvels from the World Over",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 272
     },
     {
       "ID": "rudo_a",
@@ -21672,15 +21683,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136024,
+      "Progressed": 136025,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-11T08:00:08.1891314+00:00",
-  "LastChanged_Achievements": "2023-09-11T11:06:11.6676513+00:00",
+  "LastChanged": "2023-09-11T12:01:28.3197977+00:00",
+  "LastChanged_Achievements": "2023-09-11T12:06:42.6055513+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:00:23.4413395+00:00",
-  "LastUpdate_Achievements": "2023-09-11T11:06:11.6679023+00:00"
+  "LastUpdate_Ratings": "2023-09-11T12:01:28.3197988+00:00",
+  "LastUpdate_Achievements": "2023-09-11T12:06:42.6057429+00:00"
 }
