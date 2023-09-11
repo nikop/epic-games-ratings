@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38811,
+  "EOS_Progressed": 38813,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16736,6 +16736,11 @@
       "Time": "2023-09-11T08:04:40.3501014+00:00",
       "NumProgressed": 38811,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-11T09:04:48.3982804+00:00",
+      "NumProgressed": 38813,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -16883,7 +16888,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "playerIzel",
@@ -17003,7 +17008,7 @@
       "Name": "Izel Has Arrived",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "unlockmaya",
@@ -17058,15 +17063,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38811,
+      "Progressed": 38813,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-11T08:04:40.3501009+00:00",
+  "LastChanged_Achievements": "2023-09-11T09:04:48.3982798+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.6421316+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:57:12.2347958+00:00",
-  "LastUpdate_Achievements": "2023-09-11T08:04:40.3502272+00:00"
+  "LastUpdate_Ratings": "2023-09-11T08:57:28.4025798+00:00",
+  "LastUpdate_Achievements": "2023-09-11T09:04:48.3984029+00:00"
 }

@@ -7,11 +7,11 @@ Number of Ratings: 36  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breathe In… Breathe Out… | 74.00% | ~656 |
-| It’s Heating up! | 69.00% | ~611 |
+| It’s Heating up! | 69.00% | ~612 |
 | Let’s patch things up | 66.00% | ~585 |
-| I can fix it! | 63.00% | ~558 |
-| Post No Bills | 55.00% | ~487 |
-| Truly Shocking! | 49.00% | ~434 |
+| I can fix it! | 63.00% | ~559 |
+| Post No Bills | 55.00% | ~488 |
+| Truly Shocking! | 49.00% | ~435 |
 | Critical Thinker | 36.00% | ~319 |
 | Always Finding Your Mark | 30.00% | ~266 |
 | Act I Complete | 29.00% | ~257 |
@@ -21,8 +21,8 @@ Number of Ratings: 36  (23.09.2022)
 | I ain’t afraid of no Ghost | 24.00% | ~213 |
 | Act II Complete | 21.00% | ~186 |
 | Bing Bang BOOM | 20.00% | ~177 |
-| A successful procedure! | 19.00% | ~168 |
-| Breaking the Ice | 18.00% | ~159 |
+| A successful procedure! | 19.00% | ~169 |
+| Breaking the Ice | 18.00% | ~160 |
 | Solidarity Forever | 12.00% | ~106 |
 | A Tucked Tale | 10.00% | ~89 |
 | The best thing money can buy | 9.00% | ~80 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 886 (Ranked 212)  
+Progressed: 887 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-08-27 | 884 | 0 |
 | 2023-09-01 | 885 | 0 |
 | 2023-09-04 | 886 | 0 |
+| 2023-09-11 | 887 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

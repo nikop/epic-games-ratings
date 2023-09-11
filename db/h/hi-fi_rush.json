@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4030,
+  "EOS_Progressed": 4031,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6434,6 +6434,11 @@
       "Time": "2023-09-11T04:05:35.6124367+00:00",
       "NumProgressed": 4030,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-11T09:05:11.9009169+00:00",
+      "NumProgressed": 4031,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6667,9 +6672,9 @@
       "ID": "Ach029",
       "SetID": "12n4k20",
       "Name": "Out in a puff of smoke",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 242
     },
     {
       "ID": "Ach030",
@@ -7012,13 +7017,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4030,
+      "Progressed": 4031,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2551,
+      "Progressed": 2552,
       "Completed": 1929
     }
   ],
@@ -7026,8 +7031,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-11T08:05:04.1645529+00:00",
+  "LastChanged_Achievements": "2023-09-11T09:05:11.9009157+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:00:08.7068465+00:00",
-  "LastUpdate_Achievements": "2023-09-11T08:05:04.1646659+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:00:26.6301851+00:00",
+  "LastUpdate_Achievements": "2023-09-11T09:05:11.9010306+00:00"
 }

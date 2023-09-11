@@ -66,11 +66,11 @@ Rating: 4.00 (Ranked 941)
 | Gear Enchanting | 2.00% | ~39 |
 | Guardian Master | 2.00% | ~39 |
 | Cauldron Liberator | 1.00% | ~19 |
+| Enhanced War Machines | 1.00% | ~19 |
 | Titan Power | 1.00% | ~19 |
 | Training makes a Pro player | 1.00% | ~19 |
 | Transmute | 1.00% | ~19 |
 | Tree of Life | 1.00% | ~19 |
-| Enhanced War Machines | 0.90% | ~17 |
 | Beast War Machines | 0.70% | ~13 |
 | Enchanting skill x5 | 0.70% | ~13 |
 | Pokerface | 0.70% | ~13 |

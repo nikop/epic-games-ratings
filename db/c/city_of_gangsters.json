@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -607,9 +607,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342658,
+  "EOS_Progressed": 342664,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1122,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16622,6 +16622,11 @@
       "Time": "2023-09-11T08:03:34.2998957+00:00",
       "NumProgressed": 342658,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-11T09:03:42.4132247+00:00",
+      "NumProgressed": 342664,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -16649,7 +16654,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41119
+      "UsersEstimate": 41120
     },
     {
       "ID": "ach004",
@@ -16689,7 +16694,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41119
+      "UsersEstimate": 41120
     },
     {
       "ID": "ach009",
@@ -16737,7 +16742,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51399
+      "UsersEstimate": 51400
     },
     {
       "ID": "ach015",
@@ -16777,7 +16782,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ach020",
@@ -16841,7 +16846,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157623
+      "UsersEstimate": 157625
     },
     {
       "ID": "ach028",
@@ -16849,7 +16854,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ach029",
@@ -16857,7 +16862,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37692
+      "UsersEstimate": 37693
     },
     {
       "ID": "ach030",
@@ -16881,7 +16886,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ach033",
@@ -16977,7 +16982,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ach045",
@@ -17033,7 +17038,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 37692
+      "UsersEstimate": 37693
     },
     {
       "ID": "ach052",
@@ -17041,7 +17046,7 @@
       "Name": "Liquor Lord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20559
+      "UsersEstimate": 20560
     },
     {
       "ID": "ach053",
@@ -17105,7 +17110,7 @@
       "Name": "Safety in Numbers",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20559
+      "UsersEstimate": 20560
     },
     {
       "ID": "ach061",
@@ -17129,7 +17134,7 @@
       "Name": "Moving Experiences",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20559
+      "UsersEstimate": 20560
     },
     {
       "ID": "ach065",
@@ -17145,7 +17150,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47972
+      "UsersEstimate": 47973
     },
     {
       "ID": "ach067",
@@ -17161,7 +17166,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54825
+      "UsersEstimate": 54826
     },
     {
       "ID": "ach069",
@@ -17169,7 +17174,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47972
+      "UsersEstimate": 47973
     },
     {
       "ID": "ach070",
@@ -17193,7 +17198,7 @@
       "Name": "Wise Head",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20559
+      "UsersEstimate": 20560
     },
     {
       "ID": "ach073",
@@ -17201,7 +17206,7 @@
       "Name": "Show \u2018em the Sugar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20559
+      "UsersEstimate": 20560
     },
     {
       "ID": "ach074",
@@ -17209,7 +17214,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13706
+      "UsersEstimate": 13707
     },
     {
       "ID": "ach075",
@@ -17217,7 +17222,7 @@
       "Name": "Killing Them Softly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20559
+      "UsersEstimate": 20560
     },
     {
       "ID": "ach076",
@@ -17272,7 +17277,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 342658,
+      "Progressed": 342664,
       "Completed": 7
     }
   ],
@@ -17280,8 +17285,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-10T15:00:51.2490982+00:00",
-  "LastChanged_Achievements": "2023-09-11T08:03:34.2998953+00:00",
+  "LastChanged_Achievements": "2023-09-11T09:03:42.4132242+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:59:30.8857299+00:00",
-  "LastUpdate_Achievements": "2023-09-11T08:03:34.3000843+00:00"
+  "LastUpdate_Ratings": "2023-09-11T08:59:47.3884848+00:00",
+  "LastUpdate_Achievements": "2023-09-11T09:03:42.4134112+00:00"
 }

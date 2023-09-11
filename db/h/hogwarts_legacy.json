@@ -7494,9 +7494,9 @@
       "Count": 634
     }
   ],
-  "EOS_Progressed": 296358,
+  "EOS_Progressed": 296360,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 2380,
+  "EOS_NewPlayers": 2364,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23069,6 +23069,11 @@
       "Time": "2023-09-11T08:06:22.0122473+00:00",
       "NumProgressed": 296358,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-11T09:06:30.4257504+00:00",
+      "NumProgressed": 296360,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23200,7 +23205,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32599
+      "UsersEstimate": 32600
     },
     {
       "ID": "PFA_24",
@@ -23368,7 +23373,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17781
+      "UsersEstimate": 17782
     },
     {
       "ID": "PFA_43",
@@ -23424,7 +23429,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32599
+      "UsersEstimate": 32600
     },
     {
       "ID": "PFA_9",
@@ -23439,7 +23444,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296358,
+      "Progressed": 296360,
       "Completed": 470
     }
   ],
@@ -23447,8 +23452,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-11T06:01:38.0539398+00:00",
-  "LastChanged_Achievements": "2023-09-11T08:06:22.0122468+00:00",
+  "LastChanged_Achievements": "2023-09-11T09:06:30.4257497+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:59:08.6005993+00:00",
-  "LastUpdate_Achievements": "2023-09-11T08:06:22.0123773+00:00"
+  "LastUpdate_Ratings": "2023-09-11T08:59:25.3917385+00:00",
+  "LastUpdate_Achievements": "2023-09-11T09:06:30.4258831+00:00"
 }

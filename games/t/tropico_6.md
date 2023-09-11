@@ -6,10 +6,10 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,838 |
+| Just One...More...Term... | 76.00% | ~3,840 |
 | Un-Lonely Island | 47.00% | ~2,374 |
-| The Beginning of a Servantship | 46.00% | ~2,323 |
-| Trade Is My Trait | 37.00% | ~1,868 |
+| The Beginning of a Servantship | 46.00% | ~2,324 |
+| Trade Is My Trait | 37.00% | ~1,869 |
 | Number 18 | 24.00% | ~1,212 |
 | We Don't Have Time For That | 19.00% | ~960 |
 | The Governator | 18.00% | ~909 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Don't Panic! | 6.00% | ~303 |
 | Computer Says "No" | 6.00% | ~303 |
 | Beware The Betman | 6.00% | ~303 |
-| Viva Tropico! | 5.00% | ~252 |
-| Watch The World Burn | 5.00% | ~252 |
-| Fairy Tale Come True | 5.00% | ~252 |
+| Viva Tropico! | 5.00% | ~253 |
+| Watch The World Burn | 5.00% | ~253 |
+| Fairy Tale Come True | 5.00% | ~253 |
 | Apocalypso | 4.00% | ~202 |
 | Been there, Done That | 3.00% | ~152 |
 | Narcissist | 3.00% | ~152 |
@@ -43,11 +43,11 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~101 |
 | Terraformer | 2.00% | ~101 |
 | Curse of the Mummy | 2.00% | ~101 |
-| From Knight to Little Duck | 1.00% | ~50 |
-| Survivor | 1.00% | ~50 |
+| From Knight to Little Duck | 1.00% | ~51 |
+| Survivor | 1.00% | ~51 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,050 (Ranked 151)  
+Progressed: 5,052 (Ranked 151)  
 Completed: 2 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 2 (0.04%) (Ranked 241)
 | 2023-09-08 | 5,018 | 2 |
 | 2023-09-09 | 5,033 | 2 |
 | 2023-09-10 | 5,046 | 2 |
-| 2023-09-11 | 5,050 | 2 |
+| 2023-09-11 | 5,052 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 340)  
 Sum: 684 (Ranked 280)  

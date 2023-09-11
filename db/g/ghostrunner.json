@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1158,9 +1158,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17284,
+  "EOS_Progressed": 17285,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -16633,6 +16633,11 @@
       "Time": "2023-09-11T08:04:52.3440576+00:00",
       "NumProgressed": 17284,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-11T09:05:00.0136594+00:00",
+      "NumProgressed": 17285,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 45,
@@ -16780,7 +16785,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 13136
+      "UsersEstimate": 13137
     },
     {
       "ID": "MoreThanHuman",
@@ -16860,7 +16865,7 @@
       "Name": "R is for Running",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "RunningOutOfBreath",
@@ -16868,7 +16873,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 9333
+      "UsersEstimate": 9334
     },
     {
       "ID": "RunningWild",
@@ -16916,7 +16921,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 10543
+      "UsersEstimate": 10544
     },
     {
       "ID": "SwordToAGunfight",
@@ -16924,7 +16929,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5012
+      "UsersEstimate": 5013
     },
     {
       "ID": "TripleA",
@@ -16940,7 +16945,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3975
+      "UsersEstimate": 3976
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -16956,7 +16961,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5012
+      "UsersEstimate": 5013
     },
     {
       "ID": "Wallrunner",
@@ -16964,7 +16969,7 @@
       "Name": "Wallrunner",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9333
+      "UsersEstimate": 9334
     },
     {
       "ID": "WaveOfMutilation",
@@ -16972,7 +16977,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "WhereAreMyKeys",
@@ -16980,7 +16985,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 7086
+      "UsersEstimate": 7087
     },
     {
       "ID": "WhereHeStood",
@@ -16996,28 +17001,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5185
+      "UsersEstimate": 5186
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 17284,
+      "Progressed": 17285,
       "Completed": 42
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 17284,
+      "Progressed": 17285,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-09T13:01:00.3189284+00:00",
-  "LastChanged_Achievements": "2023-09-11T08:04:52.3440571+00:00",
+  "LastChanged_Achievements": "2023-09-11T09:05:00.0136589+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.113291+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:59:40.7692462+00:00",
-  "LastUpdate_Achievements": "2023-09-11T08:04:52.3441893+00:00"
+  "LastUpdate_Ratings": "2023-09-11T08:59:57.2991849+00:00",
+  "LastUpdate_Achievements": "2023-09-11T09:05:00.0137908+00:00"
 }

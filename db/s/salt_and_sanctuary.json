@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2559,10 +2559,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 532885,
+  "EOS_Progressed": 532886,
   "EOS_Completed": 1540,
-  "EOS_NewPlayers": 620,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 617,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -18209,6 +18209,11 @@
       "Time": "2023-09-11T08:04:29.2773825+00:00",
       "NumProgressed": 532885,
       "NumCompleted": 1540
+    },
+    {
+      "Time": "2023-09-11T09:04:37.1603511+00:00",
+      "NumProgressed": 532886,
+      "NumCompleted": 1540
     }
   ],
   "TotalAchievements": 37,
@@ -18236,7 +18241,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 165194
+      "UsersEstimate": 165195
     },
     {
       "ID": "DEVOTED",
@@ -18476,7 +18481,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341046
+      "UsersEstimate": 341047
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -18515,15 +18520,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 532885,
+      "Progressed": 532886,
       "Completed": 1540
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-10T01:44:17.5084402+00:00",
-  "LastChanged_Achievements": "2023-09-11T08:04:29.2773822+00:00",
+  "LastChanged_Achievements": "2023-09-11T09:04:37.1603504+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.1792582+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:56:58.1737088+00:00",
-  "LastUpdate_Achievements": "2023-09-11T08:04:29.2775026+00:00"
+  "LastUpdate_Ratings": "2023-09-11T08:57:14.9552908+00:00",
+  "LastUpdate_Achievements": "2023-09-11T09:04:37.1604707+00:00"
 }

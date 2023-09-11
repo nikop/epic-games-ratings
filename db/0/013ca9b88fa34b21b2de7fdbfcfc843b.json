@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 661,
+  "EOS_Progressed": 662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -472,6 +472,11 @@
       "Time": "2023-09-11T08:05:12.2599036+00:00",
       "NumProgressed": 661,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T09:05:19.8984663+00:00",
+      "NumProgressed": 662,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -484,7 +489,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -506,9 +511,9 @@
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 113
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -572,7 +577,7 @@
       "Name": "Lumberjack",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -588,7 +593,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -596,7 +601,7 @@
       "Name": "Beach Comber",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -698,9 +703,9 @@
       "ID": "PREPARE_MEALS_1",
       "SetID": "9eia0f5",
       "Name": "Oui, Chef!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 139
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -763,14 +768,14 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 661,
+      "Progressed": 662,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-11T08:05:12.2599028+00:00",
+  "LastChanged_Achievements": "2023-09-11T09:05:19.8984653+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:57:07.7146184+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:58:50.6442069+00:00",
-  "LastUpdate_Achievements": "2023-09-11T08:05:12.2599324+00:00"
+  "LastUpdate_Ratings": "2023-09-11T08:59:06.6002533+00:00",
+  "LastUpdate_Achievements": "2023-09-11T09:05:19.8984957+00:00"
 }

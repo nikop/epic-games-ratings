@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2543,
+  "EOS_Progressed": 2544,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3510,6 +3510,11 @@
       "Time": "2023-09-10T06:04:37.9975417+00:00",
       "NumProgressed": 2543,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-11T09:04:34.0642265+00:00",
+      "NumProgressed": 2544,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3561,7 +3566,7 @@
       "Name": "Hijack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3585,7 +3590,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3593,7 +3598,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -3601,7 +3606,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3625,7 +3630,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -3641,7 +3646,7 @@
       "Name": "Past trauma",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3649,7 +3654,7 @@
       "Name": "Little light",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -3761,7 +3766,7 @@
       "Name": "Devineur",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3825,7 +3830,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3865,7 +3870,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3889,7 +3894,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -3897,7 +3902,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3913,7 +3918,7 @@
       "Name": "Full equipped",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -3944,7 +3949,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2543,
+      "Progressed": 2544,
       "Completed": 7
     }
   ],
@@ -3952,8 +3957,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-11T08:04:26.2136167+00:00",
+  "LastChanged_Achievements": "2023-09-11T09:04:34.0642259+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:13.613728+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:59:16.9463277+00:00",
-  "LastUpdate_Achievements": "2023-09-11T08:04:26.2136752+00:00"
+  "LastUpdate_Ratings": "2023-09-11T08:59:34.3565752+00:00",
+  "LastUpdate_Achievements": "2023-09-11T09:04:34.0642937+00:00"
 }
