@@ -87,7 +87,7 @@
 | 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 336 |
 | 83 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 517 |
 | 83 | [The Messenger](games/t/the_messenger.md) | 4.80 | 330 | 231 |
-| 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,507 | 121 |
+| 88 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,507 | 122 |
 | 88 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 511 | 199 |
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 161 | 295 |
 | 88 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 517 |
@@ -127,7 +127,7 @@
 | 117 | [Outlast](games/o/outlast.md) | 4.76 | 0 | 517 |
 | 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,709 | 118 |
 | 117 | [Quake](games/q/quake.md) | 4.76 | 49 | 407 |
-| 117 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,493 | 123 |
+| 117 | [Remnant 2](games/r/remnant_2.md) | 4.76 | 1,511 | 121 |
 | 117 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 517 |
 | 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 10,442 | 36 |
 | 117 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 517 |
@@ -230,7 +230,7 @@
 | 217 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 517 |
 | 217 | [Revita](games/r/revita.md) | 4.69 | 0 | 517 |
 | 217 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,406 | 33 |
-| 217 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 283 | 241 |
+| 217 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 283 | 242 |
 | 217 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 472 |
 | 217 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 517 |
 | 217 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.69 | 0 | 517 |
@@ -439,7 +439,7 @@
 | 431 | [GRIT](games/g/grit.md) | 4.58 | 0 | 517 |
 | 431 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 505 |
 | 431 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,643 | 46 |
-| 431 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,495 | 122 |
+| 431 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,495 | 123 |
 | 431 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 517 |
 | 431 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 312 |
 | 431 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 214 | 270 |
@@ -474,6 +474,7 @@
 | 469 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 517 |
 | 469 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 843 | 154 |
 | 469 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 472 |
+| 469 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 286 | 241 |
 | 469 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 445 |
 | 469 | [Hue](games/h/hue.md) | 4.56 | 0 | 517 |
 | 469 | [Isonzo](games/i/isonzo.md) | 4.56 | 36 | 441 |
@@ -485,21 +486,20 @@
 | 469 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 517 |
 | 469 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.56 | 0 | 517 |
 | 469 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,440 | 76 |
-| 486 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 517 |
-| 486 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 517 |
-| 486 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 517 |
-| 486 | [Deceive Inc.](games/d/deceive_inc..md) | 4.55 | 0 | 517 |
-| 486 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 283 | 241 |
-| 486 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 252 | 255 |
-| 486 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 0 | 517 |
-| 486 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 153 | 298 |
-| 486 | [IXION](games/i/ixion.md) | 4.55 | 0 | 517 |
-| 486 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 453 |
-| 486 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 92 | 351 |
-| 486 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 517 |
-| 486 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 347 | 227 |
-| 486 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 365 |
-| 486 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,264 | 134 |
+| 487 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.55 | 0 | 517 |
+| 487 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 517 |
+| 487 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 517 |
+| 487 | [Deceive Inc.](games/d/deceive_inc..md) | 4.55 | 0 | 517 |
+| 487 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 252 | 255 |
+| 487 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 0 | 517 |
+| 487 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 153 | 298 |
+| 487 | [IXION](games/i/ixion.md) | 4.55 | 0 | 517 |
+| 487 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 33 | 453 |
+| 487 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 92 | 351 |
+| 487 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 517 |
+| 487 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 347 | 227 |
+| 487 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 365 |
+| 487 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,264 | 134 |
 | 501 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,421 | 128 |
 | 501 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,008 | 57 |
 | 501 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |

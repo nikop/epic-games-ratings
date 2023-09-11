@@ -4,7 +4,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.59% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.99% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 36.82% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.81% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.63% |
@@ -42,8 +42,8 @@
 | 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
 | 41 | [Scorn](games/s/scorn.md) | 7.01% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.86% |
-| 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.56% |
 | 43 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.56% |
+| 44 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.53% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.34% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 47 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -58,12 +58,12 @@
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
+| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.09% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.82% |
+| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.79% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.38% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
@@ -75,7 +75,7 @@
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.88% |
+| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 78 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.78% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -164,11 +164,11 @@
 | 161 | [Train Valley](games/t/train_valley.md) | 0.44% |
 | 163 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
 | 164 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
+| 165 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
 | 165 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 165 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
-| 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
-| 167 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 167 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.37% |
+| 168 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
+| 168 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.37% |
 | 170 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.36% |
 | 170 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.36% |
 | 170 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
