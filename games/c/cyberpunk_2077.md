@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,203 |
-| Right Back At Ya | 39.00% | ~341,506 |
+| The Fool | 69.00% | ~604,204 |
+| Right Back At Ya | 39.00% | ~341,507 |
 | The Lovers | 35.00% | ~306,480 |
 | Stanislavski's Method | 29.00% | ~253,941 |
 | The Wheel of Fortune | 28.00% | ~245,184 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,757 |
 | Rough Landing | 0.50% | ~4,378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,657 (Ranked 14)  
+Progressed: 875,658 (Ranked 14)  
 Completed: 2,075 (0.24%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,10 +195,10 @@ Completed: 2,075 (0.24%) (Ranked 189)
 | 2023-09-08 | 875,261 | 2,071 |
 | 2023-09-09 | 875,450 | 2,075 |
 | 2023-09-10 | 875,656 | 2,075 |
-| 2023-09-11 | 875,657 | 2,075 |
+| 2023-09-11 | 875,658 | 2,075 |
 ## Awards
 Max (Character Customization): 78,099  (Ranked 9)  
-Sum: 208,441 (Ranked 13)  
+Sum: 208,461 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -212,7 +212,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 9,078 |
 | This game has Amazing Characters | 9,020 |
 | This game has Quickly Understood Controls | 8,979 |
-| This game has a Creative Community | 5,866 |
+| This game has a Creative Community | 5,886 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -451,3 +451,4 @@ Diff (max vs sum): -4
 | 2023-09-08 | 4.62 | - | 77,833 | 207,410 |
 | 2023-09-09 | 4.62 | - | 77,946 | 207,885 |
 | 2023-09-10 | 4.62 | - | 78,099 | 208,441 |
+| 2023-09-11 | 4.62 | - | 78,099 | 208,461 |

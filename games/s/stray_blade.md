@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 87.00% | ~53 |
-| Tinkerer | 64.00% | ~39 |
+| Self-Defence | 87.00% | ~54 |
+| Tinkerer | 63.00% | ~39 |
 | Welcome to the Club | 34.00% | ~21 |
-| Apprentice | 30.00% | ~18 |
-| A new World ahead | 25.00% | ~15 |
-| Can't touch this | 23.00% | ~14 |
+| Apprentice | 31.00% | ~19 |
+| A new World ahead | 24.00% | ~15 |
+| Can't touch this | 24.00% | ~15 |
+| Freezing Cold | 18.00% | ~11 |
 | Don't Cry Wolf | 18.00% | ~11 |
-| Freezing Cold | 16.00% | ~10 |
 | The Power of the Mountains | 16.00% | ~10 |
 | Searing Heat | 15.00% | ~9 |
 | Changing the World | 15.00% | ~9 |
 | Nothing but the Truth | 13.00% | ~8 |
 | Expert | 13.00% | ~8 |
 | The Golden Flash | 13.00% | ~8 |
+| Craftsmen | 10.00% | ~6 |
 | Through Dangers Untold | 10.00% | ~6 |
 | Locked and Loaded | 10.00% | ~6 |
 | Witch | 10.00% | ~6 |
-| Craftsmen | 8.00% | ~5 |
-| Mirror, Mirror on the Wall | 7.00% | ~4 |
-| Defeat Uskol | 7.00% | ~4 |
-| Bringing guns to a sword fight | 7.00% | ~4 |
-| The A-Team | 7.00% | ~4 |
+| Mirror, Mirror on the Wall | 6.00% | ~4 |
+| Defeat Uskol | 6.00% | ~4 |
+| Bringing guns to a sword fight | 6.00% | ~4 |
+| The A-Team | 6.00% | ~4 |
 | Defeat Ingla | 5.00% | ~3 |
 | Defeat Tezuth | 5.00% | ~3 |
 | Ancient Powers | 5.00% | ~3 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 380)  
+Progressed: 62 (Ranked 378)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-07 | 59 | 0 |
 | 2023-09-09 | 60 | 0 |
 | 2023-09-10 | 61 | 0 |
+| 2023-09-11 | 62 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

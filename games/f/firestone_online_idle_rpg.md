@@ -5,12 +5,12 @@ Rating: 4.00 (Ranked 941)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,790 |
-| World Map | 79.00% | ~1,521 |
-| Temple of Eternals | 57.00% | ~1,097 |
+| Victor | 93.00% | ~1,791 |
+| World Map | 79.00% | ~1,522 |
+| Temple of Eternals | 57.00% | ~1,098 |
 | Prestigious | 54.00% | ~1,040 |
-| Fellowship Power | 41.00% | ~789 |
-| Guild Power | 26.00% | ~500 |
+| Fellowship Power | 41.00% | ~790 |
+| Guild Power | 25.00% | ~482 |
 | Prestigious x10 | 22.00% | ~424 |
 | The game is on | 21.00% | ~404 |
 | Exotic Merchant | 19.00% | ~366 |
@@ -34,11 +34,11 @@ Rating: 4.00 (Ranked 941)
 | Mastery | 11.00% | ~212 |
 | Relic Of The Past | 11.00% | ~212 |
 | The power of Awakening | 11.00% | ~212 |
-| Daily Quest Completionist | 10.00% | ~192 |
-| Four Leaf Clover | 10.00% | ~192 |
-| Frostfire Liberator | 10.00% | ~192 |
-| Moving Up The Ladder | 10.00% | ~192 |
-| Scroll Master | 10.00% | ~192 |
+| Daily Quest Completionist | 10.00% | ~193 |
+| Four Leaf Clover | 10.00% | ~193 |
+| Frostfire Liberator | 10.00% | ~193 |
+| Moving Up The Ladder | 10.00% | ~193 |
+| Scroll Master | 10.00% | ~193 |
 | Here We Go Again | 9.00% | ~173 |
 | Master Enchanter | 9.00% | ~173 |
 | The father of Dragons | 9.00% | ~173 |
@@ -63,8 +63,8 @@ Rating: 4.00 (Ranked 941)
 | Ebony Jungle Liberator | 5.00% | ~96 |
 | Mythic Power | 3.00% | ~58 |
 | What lies behind the bush | 3.00% | ~58 |
-| Gear Enchanting | 2.00% | ~38 |
-| Guardian Master | 2.00% | ~38 |
+| Gear Enchanting | 2.00% | ~39 |
+| Guardian Master | 2.00% | ~39 |
 | Cauldron Liberator | 1.00% | ~19 |
 | Titan Power | 1.00% | ~19 |
 | Training makes a Pro player | 1.00% | ~19 |
@@ -81,7 +81,7 @@ Rating: 4.00 (Ranked 941)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,925 (Ranked 180)  
+Progressed: 1,926 (Ranked 180)  
 Completed: 2 (0.10%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,10 +224,11 @@ Completed: 2 (0.10%) (Ranked 219)
 | 2023-09-08 | 1,915 | 2 |
 | 2023-09-09 | 1,920 | 2 |
 | 2023-09-10 | 1,925 | 2 |
+| 2023-09-11 | 1,926 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 21  (Ranked 505)  
-Sum: 42 (Ranked 460)  
-Diff (max vs sum): 45  
+Sum: 42 (Ranked 461)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 21 |

@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 369,
+  "Ranking_Rating": 370,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1337,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2420,6 +2420,11 @@
       "Time": "2023-09-09T13:06:51.1593894+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-11T01:47:44.1924001+00:00",
+      "NumProgressed": 1337,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2479,7 +2484,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Defense_Common",
@@ -2519,7 +2524,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Experienced_strategist",
@@ -2670,15 +2675,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1337,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-11T00:06:51.5859711+00:00",
+  "LastChanged_Achievements": "2023-09-11T01:47:44.1923997+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-10T23:57:35.6562109+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:06:51.5860082+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:39:35.4745691+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:47:44.1924262+00:00"
 }

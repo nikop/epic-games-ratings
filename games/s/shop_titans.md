@@ -28,6 +28,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Demand for Supplies | 0.70% | ~952 |
 | Where it Hurts | 0.70% | ~952 |
 | Gild-Gotten Goods | 0.70% | ~952 |
+| Accomplished Merchant | 0.70% | ~952 |
 | Did we pack lunch? | 0.70% | ~952 |
 | Arcane Industries | 0.70% | ~952 |
 | On the Path to Greatness | 0.60% | ~816 |
@@ -37,7 +38,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 0.60% | ~816 |
 | Gem Expert | 0.60% | ~816 |
 | Helping Hand | 0.60% | ~816 |
-| Accomplished Merchant | 0.60% | ~816 |
 | Natural 20 | 0.60% | ~816 |
 | Tax not Included | 0.50% | ~680 |
 | Research & Development | 0.50% | ~680 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,006 (Ranked 68)  
+Progressed: 136,009 (Ranked 68)  
 Completed: 148 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 148 (0.11%) (Ranked 216)
 | 2023-09-08 | 135,871 | 147 |
 | 2023-09-09 | 135,932 | 147 |
 | 2023-09-10 | 136,005 | 148 |
-| 2023-09-11 | 136,006 | 148 |
+| 2023-09-11 | 136,009 | 148 |
 ## Awards
 Max (Great for Beginners): 4,733  (Ranked 71)  
 Sum: 27,202 (Ranked 48)  

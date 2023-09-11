@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -646,9 +646,9 @@
       "ID": "ending_8",
       "SetID": "d4f4pll",
       "Name": "MVP - Most Vanishing Person",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 82
     },
     {
       "ID": "falling_for_you",
@@ -735,8 +735,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-09-11T00:07:08.4208976+00:00",
+  "LastChanged_Achievements": "2023-09-11T01:47:56.1729682+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.8564591+00:00",
-  "LastUpdate_Ratings": "2023-09-11T00:00:22.0877211+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:07:08.4209218+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:41:30.0987937+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:47:56.1729831+00:00"
 }

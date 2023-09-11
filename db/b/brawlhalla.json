@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -5988,10 +5988,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2993,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2023-09-11T01:40:05.9479516+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3005,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2993,
+  "NumberOfAwards": 3005,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5999,7 +6005,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 258
+      "Count": 263
     },
     {
       "Text": "This game has Competitive Players",
@@ -6017,7 +6023,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 287
+      "Count": 290
     },
     {
       "Text": "This game is Relaxing",
@@ -6053,7 +6059,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 249
+      "Count": 253
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6080,8 +6086,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-09-10T23:58:18.7530756+00:00",
+  "LastChanged": "2023-09-11T01:40:05.9479515+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.8569706+00:00",
-  "LastUpdate_Ratings": "2023-09-10T23:58:18.753076+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:05:16.5177297+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:40:05.947952+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:46:34.7482327+00:00"
 }

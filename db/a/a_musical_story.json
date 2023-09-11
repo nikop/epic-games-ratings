@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
     "PcReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -432,17 +432,17 @@
       "ID": "L16_FINISH",
       "SetID": "6finf64",
       "Name": "Chase the Crow",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "L16_PERFECT",
       "SetID": "6finf64",
       "Name": "The Show Must Go On",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "L17_FINISH",
@@ -721,8 +721,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-09-11T00:08:48.5285585+00:00",
+  "LastChanged_Achievements": "2023-09-11T01:49:08.8377789+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.2184928+00:00",
-  "LastUpdate_Ratings": "2023-09-11T00:01:18.3280799+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:08:48.5286156+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:42:08.1545954+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:49:08.8378201+00:00"
 }

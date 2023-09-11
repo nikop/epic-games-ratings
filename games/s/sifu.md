@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 0.10% | ~714 |
+| The Old Grandmaster | 0.20% | ~1,429 |
 | The Assault | 0.10% | ~714 |
 | The Hateful Pole Fighter | 0.10% | ~714 |
 | A Lady's Blood in the Snow | 0.10% | ~714 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,366 (Ranked 20)  
+Progressed: 714,384 (Ranked 20)  
 Completed: 12,890 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 12,890 (1.80%) (Ranked 102)
 | 2023-09-08 | 713,725 | 12,887 |
 | 2023-09-09 | 714,041 | 12,890 |
 | 2023-09-10 | 714,349 | 12,890 |
-| 2023-09-11 | 714,366 | 12,890 |
+| 2023-09-11 | 714,384 | 12,890 |
 ## Awards
 Max (Great Boss Battles): 6,473  (Ranked 53)  
 Sum: 11,162 (Ranked 80)  

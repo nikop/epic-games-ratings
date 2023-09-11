@@ -2,13 +2,13 @@
   "ID": "663e521f2a444199be58152fd93fa66e",
   "Name": "Remnant: From the Ashes",
   "ProductSlug": "remnant-from-the-ashes",
-  "Ranking_Rating": 369,
+  "Ranking_Rating": 370,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -6172,10 +6172,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 15675,
       "NumberOfAwardsMax": 10001
+    },
+    {
+      "Time": "2023-09-11T01:42:25.2189393+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 15676,
+      "NumberOfAwardsMax": 10001
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15675,
+  "NumberOfAwards": 15676,
   "NumberOfAwardsMax": 10001,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6237,7 +6243,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 689
+      "Count": 690
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6263,8 +6269,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2023-09-10T22:59:59.5231719+00:00",
+  "LastChanged": "2023-09-11T01:42:25.2189392+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:31.4985474+00:00",
-  "LastUpdate_Ratings": "2023-09-11T00:01:43.5889305+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:05:59.263102+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:42:25.2189397+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:47:05.8683921+00:00"
 }

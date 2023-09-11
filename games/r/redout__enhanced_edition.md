@@ -6,21 +6,21 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~94,950 |
-| NATURAL BORN WINNER | 33.00% | ~76,423 |
-| CALLING HOUSTON | 28.00% | ~64,844 |
-| SNEAKY SNEAKY | 22.00% | ~50,949 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~50,949 |
-| GT9STRADALE | 20.00% | ~46,317 |
-| CHALLENGER | 11.00% | ~25,474 |
+| VANGUARD | 41.00% | ~94,952 |
+| NATURAL BORN WINNER | 33.00% | ~76,425 |
+| CALLING HOUSTON | 28.00% | ~64,845 |
+| SNEAKY SNEAKY | 22.00% | ~50,950 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~50,950 |
+| GT9STRADALE | 20.00% | ~46,318 |
+| CHALLENGER | 11.00% | ~25,475 |
 | ON A ROLL | 9.00% | ~20,843 |
 | CENTAUR | 8.00% | ~18,527 |
 | FASTER THAN EVER | 8.00% | ~18,527 |
 | CHALLENGE THE WORLD | 7.00% | ~16,211 |
 | PHOTOFINISH | 7.00% | ~16,211 |
-| QAREEN | 5.00% | ~11,579 |
-| SHOWOFF | 4.00% | ~9,263 |
-| TAKATORA | 4.00% | ~9,263 |
+| QAREEN | 5.00% | ~11,580 |
+| SHOWOFF | 4.00% | ~9,264 |
+| TAKATORA | 4.00% | ~9,264 |
 | GILA | 3.00% | ~6,948 |
 | PRO | 2.00% | ~4,632 |
 | RESPWND | 2.00% | ~4,632 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~463 |
 | ENLIGHTENED | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,585 (Ranked 52)  
+Progressed: 231,591 (Ranked 52)  
 Completed: 47 (0.02%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 47 (0.02%) (Ranked 251)
 | 2023-09-08 | 231,401 | 47 |
 | 2023-09-09 | 231,485 | 47 |
 | 2023-09-10 | 231,583 | 47 |
-| 2023-09-11 | 231,585 | 47 |
+| 2023-09-11 | 231,591 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

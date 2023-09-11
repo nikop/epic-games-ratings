@@ -6,15 +6,15 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,816 |
-| keep it tidy | 77.00% | ~7,873 |
-| podium | 72.00% | ~7,362 |
-| medium attack | 60.00% | ~6,135 |
-| brail | 57.00% | ~5,828 |
-| good drivers have dead flies on the side windows | 42.00% | ~4,294 |
+| light attack | 96.00% | ~9,817 |
+| keep it tidy | 77.00% | ~7,874 |
+| podium | 72.00% | ~7,363 |
+| medium attack | 60.00% | ~6,136 |
+| brail | 57.00% | ~5,829 |
+| good drivers have dead flies on the side windows | 42.00% | ~4,295 |
 | grocery-getter | 40.00% | ~4,090 |
-| rwd only | 26.00% | ~2,658 |
-| food tour: pasta | 26.00% | ~2,658 |
+| rwd only | 26.00% | ~2,659 |
+| food tour: pasta | 26.00% | ~2,659 |
 | to finish first, first you must finish | 21.00% | ~2,147 |
 | autopilot | 21.00% | ~2,147 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,147 |
@@ -29,8 +29,8 @@ Number of Ratings: 56  (23.09.2022)
 | snorkel | 13.00% | ~1,329 |
 | where is the stage? | 12.00% | ~1,227 |
 | maximum attack | 11.00% | ~1,125 |
-| espresso | 10.00% | ~1,022 |
-| parallel universe | 10.00% | ~1,022 |
+| espresso | 10.00% | ~1,023 |
+| parallel universe | 10.00% | ~1,023 |
 | mittens | 8.00% | ~818 |
 | samir | 8.00% | ~818 |
 | eurobeat | 7.00% | ~716 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.30% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,225 (Ranked 128)  
+Progressed: 10,226 (Ranked 128)  
 Completed: 9 (0.09%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,6 +154,7 @@ Completed: 9 (0.09%) (Ranked 223)
 | 2023-09-07 | 10,220 | 9 |
 | 2023-09-09 | 10,221 | 9 |
 | 2023-09-10 | 10,225 | 9 |
+| 2023-09-11 | 10,226 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

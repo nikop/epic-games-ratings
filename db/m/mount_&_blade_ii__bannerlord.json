@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7053,9 +7053,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60769,
+  "EOS_Progressed": 60772,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22228,6 +22228,11 @@
       "Time": "2023-09-10T21:04:41.5996534+00:00",
       "NumProgressed": 60769,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T01:47:07.7353102+00:00",
+      "NumProgressed": 60772,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22239,7 +22244,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7292
+      "UsersEstimate": 7293
     },
     {
       "ID": "Apple of my eye",
@@ -22247,7 +22252,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9115
+      "UsersEstimate": 9116
     },
     {
       "ID": "Bannerlord",
@@ -22255,7 +22260,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 13977
+      "UsersEstimate": 13978
     },
     {
       "ID": "Best served cold",
@@ -22311,7 +22316,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3039
     },
     {
       "ID": "Duelist",
@@ -22399,7 +22404,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 13977
+      "UsersEstimate": 13978
     },
     {
       "ID": "I can do it",
@@ -22407,7 +22412,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9723
+      "UsersEstimate": 9724
     },
     {
       "ID": "I spit on your grave",
@@ -22463,7 +22468,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19446
+      "UsersEstimate": 19447
     },
     {
       "ID": "Lawbringer",
@@ -22471,7 +22476,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23700
+      "UsersEstimate": 23701
     },
     {
       "ID": "Lawmaker",
@@ -22479,7 +22484,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13977
+      "UsersEstimate": 13978
     },
     {
       "ID": "Long live the Empire",
@@ -22519,7 +22524,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3038
+      "UsersEstimate": 3039
     },
     {
       "ID": "Real Estate",
@@ -22591,7 +22596,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10938
+      "UsersEstimate": 10939
     },
     {
       "ID": "This Is Our Land",
@@ -22615,7 +22620,7 @@
       "Name": "Trained",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 13369
+      "UsersEstimate": 13370
     },
     {
       "ID": "Undercover",
@@ -22646,15 +22651,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60769,
+      "Progressed": 60772,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-10T23:58:14.6796291+00:00",
-  "LastChanged_Achievements": "2023-09-11T00:06:01.6860426+00:00",
+  "LastChanged_Achievements": "2023-09-11T01:47:07.7353097+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-10T23:58:14.6796299+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:06:01.6862064+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:40:02.6673991+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:47:07.7354157+00:00"
 }

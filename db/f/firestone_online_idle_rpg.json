@@ -4,11 +4,11 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 941,
   "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 460,
+  "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -280,9 +280,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1925,
+  "EOS_Progressed": 1926,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5520,6 +5520,11 @@
       "Time": "2023-09-10T20:05:22.9386692+00:00",
       "NumProgressed": 1925,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T01:47:39.7660605+00:00",
+      "NumProgressed": 1926,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5619,7 +5624,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "doingmypart",
@@ -5715,7 +5720,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "fourleafclover",
@@ -5723,7 +5728,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "frostfireliberator",
@@ -5731,7 +5736,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "fullparty",
@@ -5747,7 +5752,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "guardianmaster",
@@ -5755,15 +5760,15 @@
       "Name": "Guardian Master",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 482
     },
     {
       "ID": "herewegoagain",
@@ -5883,7 +5888,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "mysteriousrock",
@@ -5963,7 +5968,7 @@
       "Name": "Scroll Master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "silverwoodliberator",
@@ -5987,7 +5992,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "thealchemist",
@@ -6091,7 +6096,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "warmachinesarmy",
@@ -6123,14 +6128,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1925,
+      "Progressed": 1926,
       "Completed": 2
     }
   ],
@@ -6138,8 +6143,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T22:59:12.0182911+00:00",
-  "LastChanged_Achievements": "2023-09-11T00:06:45.5963482+00:00",
+  "LastChanged_Achievements": "2023-09-11T01:47:39.7660601+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.1476243+00:00",
-  "LastUpdate_Ratings": "2023-09-11T00:01:23.0131745+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:06:45.5964673+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:42:11.5509145+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:47:39.7661518+00:00"
 }

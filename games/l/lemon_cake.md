@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Proving Your Skills | 92.00% | ~137 |
-| Bakery Startup | 41.00% | ~61 |
+| Bakery Startup | 42.00% | ~63 |
 | Apprentice Baker | 34.00% | ~51 |
 | The Kitchen Is On Fire | 33.00% | ~49 |
 | Perfect Server | 15.00% | ~22 |

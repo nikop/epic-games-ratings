@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1068,6 +1068,11 @@
       "Time": "2023-09-10T16:06:44.547365+00:00",
       "NumProgressed": 253,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T01:49:03.5635402+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1085,17 +1090,17 @@
       "ID": "achAliceTwo",
       "SetID": "72gjli4",
       "Name": "Alice \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "achAntivirus",
       "SetID": "72gjli4",
       "Name": "Antivirus \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "achBag",
@@ -1103,7 +1108,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achBett",
@@ -1133,9 +1138,9 @@
       "ID": "achCheet",
       "SetID": "72gjli4",
       "Name": "Cheats \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "achChest",
@@ -1143,7 +1148,7 @@
       "Name": "Chest \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "achCity",
@@ -1245,9 +1250,9 @@
       "ID": "achFood",
       "SetID": "72gjli4",
       "Name": "Food \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "achGameHard",
@@ -1279,7 +1284,7 @@
       "Name": "Fright \u2714",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "achLizun",
@@ -1351,7 +1356,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achPriest",
@@ -1478,7 +1483,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 255,
       "Completed": 0
     }
   ],
@@ -1486,8 +1491,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-11T00:08:41.0805702+00:00",
+  "LastChanged_Achievements": "2023-09-11T01:49:03.5635399+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:48.8958447+00:00",
-  "LastUpdate_Ratings": "2023-09-10T23:58:56.1657875+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:08:41.0806237+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:40:30.6710858+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:49:03.5635821+00:00"
 }

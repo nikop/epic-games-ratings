@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24040,
+  "EOS_Progressed": 24041,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4787,6 +4787,11 @@
       "Time": "2023-09-10T22:05:04.2499228+00:00",
       "NumProgressed": 24040,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-11T01:46:30.7947967+00:00",
+      "NumProgressed": 24041,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4806,7 +4811,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7933
+      "UsersEstimate": 7934
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -4814,7 +4819,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18511
+      "UsersEstimate": 18512
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4822,7 +4827,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10337
+      "UsersEstimate": 10338
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4862,7 +4867,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18270
+      "UsersEstimate": 18271
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4902,7 +4907,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19953
+      "UsersEstimate": 19954
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4982,7 +4987,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17549
+      "UsersEstimate": 17550
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -5014,7 +5019,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -5053,22 +5058,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24040,
+      "Progressed": 24041,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1333,
-      "Completed": 1333
+      "Progressed": 1334,
+      "Completed": 1334
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-02T06:57:56.883903+00:00",
-  "LastChanged_Achievements": "2023-09-11T00:05:10.7772486+00:00",
+  "LastChanged_Achievements": "2023-09-11T01:46:30.7947964+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:11.7104478+00:00",
-  "LastUpdate_Ratings": "2023-09-11T00:01:20.6172865+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:05:10.7773079+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:42:09.7108827+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:46:30.7948398+00:00"
 }

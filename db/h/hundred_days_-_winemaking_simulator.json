@@ -976,9 +976,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2416,
+  "EOS_Progressed": 2421,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1279,
+  "EOS_NewPlayers": 1275,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2361,6 +2361,11 @@
       "Time": "2023-09-11T00:05:23.7878288+00:00",
       "NumProgressed": 2416,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-11T01:46:40.384769+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2373,7 +2378,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "a_10",
@@ -2421,7 +2426,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "a_19",
@@ -2509,7 +2514,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "a_30",
@@ -2605,7 +2610,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "a_9",
@@ -2620,7 +2625,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2416,
+      "Progressed": 2421,
       "Completed": 4
     }
   ],
@@ -2628,8 +2633,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-09T20:59:06.8541677+00:00",
-  "LastChanged_Achievements": "2023-09-11T00:05:23.7878282+00:00",
+  "LastChanged_Achievements": "2023-09-11T01:46:40.3847686+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-11T00:01:00.4967195+00:00",
-  "LastUpdate_Achievements": "2023-09-11T00:05:23.7878624+00:00"
+  "LastUpdate_Ratings": "2023-09-11T01:41:56.3955213+00:00",
+  "LastUpdate_Achievements": "2023-09-11T01:46:40.3847947+00:00"
 }
