@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 272,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1428,9 +1428,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_PEAK",
@@ -1492,9 +1492,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
@@ -1508,8 +1508,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:06:23.7754744+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:05:26.5466136+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:00:03.1744854+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:06:23.7754998+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:59:18.0120217+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:05:26.546641+00:00"
 }

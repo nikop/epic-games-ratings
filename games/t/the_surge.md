@@ -67,7 +67,7 @@ Number of Ratings: 62  (23.09.2022)
 | End of Transmission | 2.00% | ~93 |
 | Gramophone Enthusiast | 2.00% | ~93 |
 | Bling-Bling | 1.00% | ~46 |
-| Sniffing Around | 0.70% | ~32 |
+| Sniffing Around | 0.80% | ~37 |
 | Modus Operandi | 0.70% | ~32 |
 | Suited and Booted | 0.70% | ~32 |
 | Tools of War | 0.70% | ~32 |

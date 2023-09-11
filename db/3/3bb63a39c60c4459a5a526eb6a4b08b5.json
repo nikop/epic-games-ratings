@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -2711,9 +2711,9 @@
       "ID": "Reaction",
       "SetID": "1e89b4i",
       "Name": "Fast Response",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ReliableTransporter",
@@ -2798,8 +2798,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:04:36.7905091+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:04:00.0127841+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.2387423+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:59:36.2766264+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:04:36.7905567+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:58:56.6906665+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:04:00.0128273+00:00"
 }

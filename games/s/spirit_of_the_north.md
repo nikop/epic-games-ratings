@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~46,635 |
-| INFUSED WITH LIGHT | 53.00% | ~36,348 |
-| FOXIN' AROUND | 29.00% | ~19,888 |
-| FETCH | 27.00% | ~18,517 |
-| BLOOMS OF LIGHT | 26.00% | ~17,831 |
-| AWAKEN | 22.00% | ~15,088 |
-| BEST FRIENDS | 22.00% | ~15,088 |
-| ERADICATE | 21.00% | ~14,402 |
-| SPIRIT BARK | 21.00% | ~14,402 |
-| GARDEN OF LIGHT | 18.00% | ~12,345 |
-| SPIRIT FORM | 16.00% | ~10,973 |
-| UPROOTING DARKNESS | 15.00% | ~10,287 |
-| WRITTEN IN STONE | 15.00% | ~10,287 |
-| WEIGHTLESS | 12.00% | ~8,230 |
-| SPIRIT DASH | 11.00% | ~7,544 |
-| OLD COMPANION | 9.00% | ~6,172 |
-| MATCH MAKER | 8.00% | ~5,486 |
-| PLAGUE DOCTOR | 8.00% | ~5,486 |
-| SPIRITED AWAY | 8.00% | ~5,486 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~46,640 |
+| INFUSED WITH LIGHT | 53.00% | ~36,352 |
+| FOXIN' AROUND | 29.00% | ~19,891 |
+| FETCH | 27.00% | ~18,519 |
+| BLOOMS OF LIGHT | 26.00% | ~17,833 |
+| AWAKEN | 22.00% | ~15,089 |
+| BEST FRIENDS | 22.00% | ~15,089 |
+| ERADICATE | 21.00% | ~14,403 |
+| SPIRIT BARK | 21.00% | ~14,403 |
+| GARDEN OF LIGHT | 18.00% | ~12,346 |
+| SPIRIT FORM | 16.00% | ~10,974 |
+| UPROOTING DARKNESS | 15.00% | ~10,288 |
+| WRITTEN IN STONE | 15.00% | ~10,288 |
+| WEIGHTLESS | 12.00% | ~8,231 |
+| SPIRIT DASH | 11.00% | ~7,545 |
+| OLD COMPANION | 9.00% | ~6,173 |
+| MATCH MAKER | 8.00% | ~5,487 |
+| PLAGUE DOCTOR | 8.00% | ~5,487 |
+| SPIRITED AWAY | 8.00% | ~5,487 |
 | NORTHERN LIGHTS | 7.00% | ~4,801 |
-| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,743 |
-| ANCIENT HISTORY | 3.00% | ~2,057 |
+| FOX? OR FLYING SQUIRREL? | 4.00% | ~2,744 |
+| ANCIENT HISTORY | 3.00% | ~2,058 |
 | NONE FORGOTTEN | 2.00% | ~1,372 |
-| KINDRED SPIRITS | 0.60% | ~411 |
+| KINDRED SPIRITS | 0.60% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,581 (Ranked 83)  
+Progressed: 68,588 (Ranked 83)  
 Completed: 357 (0.52%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 357 (0.52%) (Ranked 154)
 | 2023-09-08 | 68,297 | 356 |
 | 2023-09-09 | 68,401 | 357 |
 | 2023-09-10 | 68,520 | 357 |
-| 2023-09-11 | 68,581 | 357 |
+| 2023-09-11 | 68,588 | 357 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 480)  
 Sum: 114 (Ranked 413)  

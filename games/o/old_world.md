@@ -25,6 +25,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 3.00% | ~416 |
 | Pioneer | 3.00% | ~416 |
 | Strong | 3.00% | ~416 |
+| Warrior | 3.00% | ~416 |
 | Developing Cities | 3.00% | ~416 |
 | Hanging Gardens | 3.00% | ~416 |
 | Oracle | 3.00% | ~416 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 2.00% | ~277 |
 | Magnificent | 2.00% | ~277 |
 | Valiant | 2.00% | ~277 |
-| Warrior | 2.00% | ~277 |
 | Wise | 2.00% | ~277 |
 | Legendary Cities | 2.00% | ~277 |
 | Strong Cities | 2.00% | ~277 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,865 (Ranked 122)  
+Progressed: 13,866 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -447,7 +447,7 @@ Completed: 5 (0.04%) (Ranked 241)
 | 2023-09-08 | 13,821 | 5 |
 | 2023-09-09 | 13,831 | 5 |
 | 2023-09-10 | 13,858 | 5 |
-| 2023-09-11 | 13,865 | 5 |
+| 2023-09-11 | 13,866 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

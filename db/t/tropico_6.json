@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1098,7 +1098,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5056,
+  "EOS_Progressed": 5057,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -9378,6 +9378,11 @@
       "Time": "2023-09-11T19:08:16.5829943+00:00",
       "NumProgressed": 5056,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T20:08:09.8845945+00:00",
+      "NumProgressed": 5057,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9405,7 +9410,7 @@
       "Name": "Double Trouble",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -9509,7 +9514,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -9517,7 +9522,7 @@
       "Name": "Firestarter",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -9645,7 +9650,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2376
+      "UsersEstimate": 2377
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -9669,7 +9674,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -9708,15 +9713,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5056,
+      "Progressed": 5057,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-09T17:58:19.764548+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:08:16.5829935+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:08:09.884594+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:59:00.8483397+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:08:16.5830746+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:58:26.8673006+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:08:09.8846724+00:00"
 }

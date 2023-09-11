@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -402,41 +402,41 @@
       "ID": "Achi_01",
       "SetID": "51a97k7",
       "Name": "The Sunken City Conqueror",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_02",
       "SetID": "51a97k7",
       "Name": "The Deep Frozen Conqueror",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_03",
       "SetID": "51a97k7",
       "Name": "The Abyss Conqueror",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_04",
       "SetID": "51a97k7",
       "Name": "The Infinite Train Conqueror",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi_05",
       "SetID": "51a97k7",
       "Name": "The Fortress Conqueror",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_06",
@@ -578,9 +578,9 @@
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achi_24",
@@ -594,9 +594,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_26",
@@ -674,9 +674,9 @@
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Achi_36",
@@ -690,9 +690,9 @@
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Achi_38",
@@ -811,8 +811,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:06:37.7345656+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:05:37.3868086+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.9066994+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:58:43.8794744+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:06:37.7346093+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:58:13.9066485+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:05:37.3868557+00:00"
 }

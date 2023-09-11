@@ -5,18 +5,18 @@ Rating: 4.48 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~302 |
-| Increasing your Power Level | 27.00% | ~302 |
+| Rookie No More | 27.00% | ~303 |
+| Increasing your Power Level | 27.00% | ~303 |
 | Enter the Speed Gauntlet | 24.00% | ~269 |
 | I just can't choose | 24.00% | ~269 |
 | A Cheese Grater to the Face | 19.00% | ~213 |
 | Put it on a shelf | 18.00% | ~202 |
-| It's like an haircut | 17.00% | ~190 |
+| It's like an haircut | 17.00% | ~191 |
 | Suit up | 16.00% | ~179 |
 | Walked like an Egyptian | 15.00% | ~168 |
 | Ride in the rising sun | 15.00% | ~168 |
 | Running at the speed of sound | 13.00% | ~146 |
-| Rookie No-No More | 12.00% | ~134 |
+| Rookie No-No More | 12.00% | ~135 |
 | Martian explorer | 11.00% | ~123 |
 | To the core | 9.00% | ~101 |
 | Blurred photofinish | 8.00% | ~90 |
@@ -37,12 +37,12 @@ Rating: 4.48 (Ranked 601)
 | To infinity and gravity! | 3.00% | ~34 |
 | One giant drive for mankind | 3.00% | ~34 |
 | Had to sweat a bit | 3.00% | ~34 |
-| [Sweats profusely] | 3.00% | ~34 |
 | It's like a party! | 3.00% | ~34 |
 | He who laughs last... | 3.00% | ~34 |
 | Healthy competition | 3.00% | ~34 |
 | This is to go, even Further Beyond! | 2.00% | ~22 |
 | Gitting Gud | 2.00% | ~22 |
+| [Sweats profusely] | 2.00% | ~22 |
 | Redout Champion | 2.00% | ~22 |
 | Great Start | 2.00% | ~22 |
 | Fashion Racer | 1.00% | ~11 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 601)
 | I, need, more, shelves! | 0.40% | ~4 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,120 (Ranked 203)  
+Progressed: 1,121 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-06 | 1,118 | 0 |
 | 2023-09-08 | 1,119 | 0 |
 | 2023-09-10 | 1,120 | 0 |
+| 2023-09-11 | 1,121 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

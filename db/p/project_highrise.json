@@ -4,8 +4,8 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 338,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -887,6 +887,11 @@
       "Time": "2023-09-10T17:05:19.7057104+00:00",
       "NumProgressed": 337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T20:05:13.6145617+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -930,7 +935,7 @@
       "Name": "Floor Galore",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_area_1",
@@ -986,7 +991,7 @@
       "Name": "Campaign Launch",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_campaigns_1",
@@ -1074,7 +1079,7 @@
       "Name": "Office Bigwigs",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_contracts_2",
@@ -1104,9 +1109,9 @@
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_drones",
@@ -1186,7 +1191,7 @@
       "Name": "Sandbagger",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_ep1_revs_2",
@@ -1202,7 +1207,7 @@
       "Name": "Starting Skyward",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ach_floors_1",
@@ -1234,7 +1239,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ach_grime_1",
@@ -1250,7 +1255,7 @@
       "Name": "Rehab Expert",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_happy",
@@ -1360,9 +1365,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 203
     },
     {
       "ID": "ach_profit_1",
@@ -1416,9 +1421,9 @@
       "ID": "ach_restaurants_3",
       "SetID": "b8gh1fi",
       "Name": "Dinner Dash",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 139
     },
     {
       "ID": "ach_restaurants_4",
@@ -1458,7 +1463,7 @@
       "Name": "Leveled Up Shops",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_retail_4",
@@ -1538,7 +1543,7 @@
       "Name": "We Don\u0027t Need No Education",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_util_cable",
@@ -1570,7 +1575,7 @@
       "Name": "Get Electrified",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_util_water",
@@ -1601,7 +1606,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 0
     }
   ],
@@ -1609,8 +1614,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:06:07.8169279+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:05:13.6145609+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.095472+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:00:49.4337914+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:06:07.817038+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:59:55.9514804+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:05:13.614658+00:00"
 }

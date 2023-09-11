@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 603,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -1297,9 +1297,9 @@
       "ID": "OnceMoreIntoTheBreach",
       "SetID": "3ai6ml8",
       "Name": "Once more into the Breach",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 308
+      "UsersEstimate": 314
     },
     {
       "ID": "Outpatient",
@@ -1368,8 +1368,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:08:08.0718802+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:06:53.2521663+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.967565+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:58:08.5139898+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:08:08.0719031+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:57:46.0440106+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:06:53.2521887+00:00"
 }

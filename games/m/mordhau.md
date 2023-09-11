@@ -5,19 +5,19 @@ Rating: 4.39 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~745,088 |
-| The ABCs | 43.00% | ~653,853 |
-| Home Run | 41.00% | ~623,441 |
-| Keeps Coming Off | 41.00% | ~623,441 |
-| Guts | 20.00% | ~304,118 |
-| Meat Grinder | 19.00% | ~288,912 |
-| Burning Man | 16.00% | ~243,294 |
-| Lived to Tell the Tale | 12.00% | ~182,471 |
-| Highlander | 10.00% | ~152,059 |
-| Unstoppable | 10.00% | ~152,059 |
-| Just a Scratch | 9.00% | ~136,853 |
-| Tough Nut to Crack | 6.00% | ~91,235 |
-| Yoink | 6.00% | ~91,235 |
+| Justice from the Grave | 49.00% | ~745,099 |
+| The ABCs | 43.00% | ~653,862 |
+| Home Run | 41.00% | ~623,450 |
+| Keeps Coming Off | 41.00% | ~623,450 |
+| Guts | 20.00% | ~304,122 |
+| Meat Grinder | 19.00% | ~288,916 |
+| Burning Man | 16.00% | ~243,298 |
+| Lived to Tell the Tale | 12.00% | ~182,473 |
+| Highlander | 10.00% | ~152,061 |
+| Unstoppable | 10.00% | ~152,061 |
+| Just a Scratch | 9.00% | ~136,855 |
+| Tough Nut to Crack | 6.00% | ~91,237 |
+| Yoink | 6.00% | ~91,237 |
 | Long List of Names | 4.00% | ~60,824 |
 | Pyromaniac | 4.00% | ~60,824 |
 | The Queen of Weapons | 4.00% | ~60,824 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 721)
 | That’s No Ordinary Cold | 0.10% | ~1,521 |
 | Stairway to Hell | 0.10% | ~1,521 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,520,588 (Ranked 8)  
+Progressed: 1,520,610 (Ranked 8)  
 Completed: 58 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 58 (0.00%) (Ranked 273)
 | 2023-09-08 | 1,518,505 | 57 |
 | 2023-09-09 | 1,519,320 | 58 |
 | 2023-09-10 | 1,520,125 | 58 |
-| 2023-09-11 | 1,520,588 | 58 |
+| 2023-09-11 | 1,520,610 | 58 |
 ## Awards
 Max (Diverse Characters): 616  (Ranked 180)  
 Sum: 3,389 (Ranked 155)  

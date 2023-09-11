@@ -6,57 +6,57 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~625,904 |
-| Escaped Asphodel | 80.00% | ~562,610 |
-| Arms Collector | 71.00% | ~499,317 |
-| Friends in High Places | 68.00% | ~478,219 |
-| Escaped Elysium | 66.00% | ~464,154 |
-| Chthonic Colleagues | 63.00% | ~443,056 |
-| Is There No Escape? | 52.00% | ~365,697 |
-| Death Dealer | 45.00% | ~316,468 |
-| Skelly Slayer | 42.00% | ~295,370 |
-| Well Stocked | 40.00% | ~281,305 |
-| Back to Work | 38.00% | ~267,240 |
-| Day-or-Night Trader | 37.00% | ~260,207 |
-| Blessed by the Gods | 37.00% | ~260,207 |
-| Urge to Sing | 36.00% | ~253,175 |
-| Blood Bound | 35.00% | ~246,142 |
-| Three-Headed Boy | 32.00% | ~225,044 |
+| Escaped Tartarus | 89.00% | ~625,907 |
+| Escaped Asphodel | 80.00% | ~562,613 |
+| Arms Collector | 71.00% | ~499,319 |
+| Friends in High Places | 68.00% | ~478,221 |
+| Escaped Elysium | 66.00% | ~464,156 |
+| Chthonic Colleagues | 63.00% | ~443,058 |
+| Is There No Escape? | 52.00% | ~365,698 |
+| Death Dealer | 45.00% | ~316,470 |
+| Skelly Slayer | 42.00% | ~295,372 |
+| Well Stocked | 40.00% | ~281,306 |
+| Back to Work | 38.00% | ~267,241 |
+| Day-or-Night Trader | 37.00% | ~260,208 |
+| Blessed by the Gods | 37.00% | ~260,208 |
+| Urge to Sing | 36.00% | ~253,176 |
+| Blood Bound | 35.00% | ~246,143 |
+| Three-Headed Boy | 32.00% | ~225,045 |
 | River Denizens | 28.00% | ~196,914 |
 | Grown Close | 28.00% | ~196,914 |
-| Home Makeover | 27.00% | ~189,881 |
-| The Family Secret | 26.00% | ~182,848 |
+| Home Makeover | 27.00% | ~189,882 |
+| The Family Secret | 26.00% | ~182,849 |
 | Had to Happen | 25.00% | ~175,816 |
-| To Charon's Credit | 23.00% | ~161,750 |
-| Tools of the Architect | 23.00% | ~161,750 |
-| Master of Arms | 23.00% | ~161,750 |
-| Rare Collectible | 22.00% | ~154,718 |
-| Weapon of Fate | 21.00% | ~147,685 |
-| Something From Everyone | 19.00% | ~133,620 |
-| Hold the Onions | 18.00% | ~126,587 |
+| To Charon's Credit | 23.00% | ~161,751 |
+| Tools of the Architect | 23.00% | ~161,751 |
+| Master of Arms | 23.00% | ~161,751 |
+| Rare Collectible | 22.00% | ~154,719 |
+| Weapon of Fate | 21.00% | ~147,686 |
+| Something From Everyone | 19.00% | ~133,621 |
+| Hold the Onions | 18.00% | ~126,588 |
 | Well Versed | 17.00% | ~119,555 |
-| War-God's Bloodlust | 15.00% | ~105,489 |
+| War-God's Bloodlust | 15.00% | ~105,490 |
 | Musician and Muse | 14.00% | ~98,457 |
-| The Useless Trinket | 13.00% | ~91,424 |
-| Champion of Elysium | 13.00% | ~91,424 |
+| The Useless Trinket | 13.00% | ~91,425 |
+| Champion of Elysium | 13.00% | ~91,425 |
 | Slashed Benefits | 12.00% | ~84,392 |
 | Haste of Hermes | 11.00% | ~77,359 |
-| Bad Call | 10.00% | ~70,326 |
-| Nyx's Mirror | 10.00% | ~70,326 |
-| Night and Darkness | 10.00% | ~70,326 |
-| End to Torment | 10.00% | ~70,326 |
+| Bad Call | 10.00% | ~70,327 |
+| Nyx's Mirror | 10.00% | ~70,327 |
+| Night and Darkness | 10.00% | ~70,327 |
+| End to Torment | 10.00% | ~70,327 |
 | Dark Reflections | 9.00% | ~63,294 |
 | Thanks, But No Thanks | 9.00% | ~63,294 |
 | Infernal Arms | 9.00% | ~63,294 |
 | Divided by Death | 8.00% | ~56,261 |
-| Harsh Conditions | 7.00% | ~49,228 |
-| One for the Ages | 7.00% | ~49,228 |
+| Harsh Conditions | 7.00% | ~49,229 |
+| One for the Ages | 7.00% | ~49,229 |
 | Complete Set | 6.00% | ~42,196 |
 | Skelly's Last Lamentations | 6.00% | ~42,196 |
 | Thorn of Thanatos | 4.00% | ~28,131 |
 | Friends Forever | 4.00% | ~28,131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,263 (Ranked 21)  
+Progressed: 703,266 (Ranked 21)  
 Completed: 6,348 (0.90%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 6,348 (0.90%) (Ranked 128)
 | 2023-09-08 | 703,046 | 6,343 |
 | 2023-09-09 | 703,125 | 6,347 |
 | 2023-09-10 | 703,221 | 6,348 |
-| 2023-09-11 | 703,263 | 6,348 |
+| 2023-09-11 | 703,266 | 6,348 |
 ## Awards
 Max (Character Customization): 3,257  (Ranked 94)  
 Sum: 7,873 (Ranked 101)  

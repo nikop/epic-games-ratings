@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -875,6 +875,11 @@
       "Time": "2023-09-10T09:05:58.0211665+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T20:05:18.1420247+00:00",
+      "NumProgressed": 1121,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1014,7 +1019,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "CAREERADVANCED",
@@ -1022,7 +1027,7 @@
       "Name": "Rookie No-No More",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "CAREERCLASSA",
@@ -1084,9 +1089,9 @@
       "ID": "CAREERTRIALSS",
       "SetID": "3dh70f3",
       "Name": "[Sweats profusely]",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 22
     },
     {
       "ID": "CHAMPION",
@@ -1198,7 +1203,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ONEPAINT",
@@ -1206,7 +1211,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ONEPLATINUM",
@@ -1301,7 +1306,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1121,
       "Completed": 0
     }
   ],
@@ -1309,8 +1314,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:06:13.6584319+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:05:18.1420241+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.9584457+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:57:56.2994684+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:06:13.658482+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:57:36.3243879+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:05:18.1420825+00:00"
 }

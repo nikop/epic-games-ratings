@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467159,
+  "EOS_Progressed": 467161,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
@@ -15753,6 +15753,11 @@
       "Time": "2023-09-11T19:06:38.7711274+00:00",
       "NumProgressed": 467159,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-11T20:05:38.2514159+00:00",
+      "NumProgressed": 467161,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15780,7 +15785,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112118
+      "UsersEstimate": 112119
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -15852,7 +15857,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308325
+      "UsersEstimate": 308326
     },
     {
       "ID": "achievement_story_landa",
@@ -15916,7 +15921,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51387
+      "UsersEstimate": 51388
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -15948,7 +15953,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154162
+      "UsersEstimate": 154163
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -16188,7 +16193,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205550
+      "UsersEstimate": 205551
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -16212,7 +16217,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51387
+      "UsersEstimate": 51388
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -16220,7 +16225,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182192
+      "UsersEstimate": 182193
     },
     {
       "ID": "achievement_win_run_hard",
@@ -16395,21 +16400,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11093,
+      "Progressed": 11095,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467159,
+      "Progressed": 467161,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:06:38.7711269+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:05:38.2514154+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.6494953+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:03:14.1790957+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:06:38.7712877+00:00"
+  "LastUpdate_Ratings": "2023-09-11T20:02:10.3411887+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:05:38.2515938+00:00"
 }

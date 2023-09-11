@@ -8,16 +8,16 @@
 | Is it merely a dream? | 4.00% | ~12 |
 | The path to enlightenment | 3.00% | ~9 |
 | Our efforts are finally yielding progress | 3.00% | ~9 |
-| This looks really bad | 2.00% | ~6 |
+| This looks really bad | 3.00% | ~9 |
 | Unholy lands | 2.00% | ~6 |
 | Unveiling the Magnitude of Sin | 1.00% | ~3 |
 | The court | 1.00% | ~3 |
 | Holy Nails | 1.00% | ~3 |
 | The crucifixion | 0.70% | ~2 |
+| The choice | 0.70% | ~2 |
 | Flagellation | 0.70% | ~2 |
-| The choice | 0.30% | ~1 |
+| Hubris | 0.30% | ~1 |
 | Humility | 0.30% | ~1 |
-| Hubris | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 302 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 273)  

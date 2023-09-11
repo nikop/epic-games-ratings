@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2834,9 +2834,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72425,
+  "EOS_Progressed": 72426,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 1840,
+  "EOS_NewPlayers": 1806,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15129,6 +15129,11 @@
       "Time": "2023-09-11T19:07:02.9870861+00:00",
       "NumProgressed": 72425,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-11T20:05:58.2623007+00:00",
+      "NumProgressed": 72426,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15212,7 +15217,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ALL_VILLAIN",
@@ -15252,7 +15257,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13036
+      "UsersEstimate": 13037
     },
     {
       "ID": "CLAYFACE_3",
@@ -15484,7 +15489,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37661
+      "UsersEstimate": 37662
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15492,7 +15497,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -15532,7 +15537,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24624
+      "UsersEstimate": 24625
     },
     {
       "ID": "MYSTERY_02",
@@ -15627,13 +15632,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72425,
+      "Progressed": 72426,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42705,
+      "Progressed": 42706,
       "Completed": 2663
     }
   ],
@@ -15641,8 +15646,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-11T13:03:21.3959917+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:07:02.9870856+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:05:58.2623002+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:57:55.1353565+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:07:02.9872225+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:57:35.1808948+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:05:58.2624332+00:00"
 }

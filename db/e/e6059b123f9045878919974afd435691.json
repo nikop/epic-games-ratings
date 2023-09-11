@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 807,
+  "EOS_Progressed": 808,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1881,6 +1881,11 @@
       "Time": "2023-09-11T15:03:19.3669952+00:00",
       "NumProgressed": 807,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T20:02:22.8513056+00:00",
+      "NumProgressed": 808,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1892,7 +1897,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1900,7 +1905,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1964,7 +1969,7 @@
       "Name": "Capraphobia",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2012,7 +2017,7 @@
       "Name": "Burnt Smell",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2092,7 +2097,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2180,15 +2185,15 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 202
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2338,9 +2343,9 @@
       "ID": "RAPTOR_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Clairvoyant Who Doesn\u0027t See",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 356
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2419,14 +2424,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 807,
+      "Progressed": 808,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:03:28.656577+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:02:22.8513051+00:00",
   "LastUpdate_AppInfo": "2023-09-07T18:57:15.8521033+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:59:40.1030878+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:03:28.6566581+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:58:59.7526889+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:02:22.8513762+00:00"
 }

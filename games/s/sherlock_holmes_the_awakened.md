@@ -20,11 +20,11 @@ Rating: 4.68 (Ranked 242)
 | Land, Ho! | 48.00% | ~310 |
 | Lock, Stock, And Barrel | 47.00% | ~303 |
 | Back In The Saddle | 47.00% | ~303 |
-| No Man Is An Island | 46.00% | ~297 |
-| At Wits' End | 45.00% | ~290 |
+| No Man Is An Island | 47.00% | ~303 |
+| At Wits' End | 46.00% | ~297 |
+| Up In Flames | 44.00% | ~284 |
 | Fhtagn! | 44.00% | ~284 |
 | Bookworm | 43.00% | ~277 |
-| Up In Flames | 43.00% | ~277 |
 | Going Once... | 40.00% | ~258 |
 | Let Me Be Frank | 38.00% | ~245 |
 | Brain Food | 37.00% | ~239 |
@@ -34,7 +34,7 @@ Rating: 4.68 (Ranked 242)
 | Big Breakthrough | 14.00% | ~90 |
 | Reawakened | 5.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645 (Ranked 230)  
+Progressed: 645 (Ranked 231)  
 Completed: 25 (3.88%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |

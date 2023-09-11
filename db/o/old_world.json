@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1683,9 +1683,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13865,
+  "EOS_Progressed": 13866,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11308,6 +11308,11 @@
       "Time": "2023-09-11T19:07:35.3470604+00:00",
       "NumProgressed": 13865,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-11T20:06:25.6562996+00:00",
+      "NumProgressed": 13866,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11981,9 +11986,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -13686,21 +13691,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13865,
+      "Progressed": 13866,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13865,
+      "Progressed": 13866,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-11T19:07:35.3470598+00:00",
+  "LastChanged_Achievements": "2023-09-11T20:06:25.6562991+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:00:49.7508599+00:00",
-  "LastUpdate_Achievements": "2023-09-11T19:07:35.3479893+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:59:56.3199074+00:00",
+  "LastUpdate_Achievements": "2023-09-11T20:06:25.6572725+00:00"
 }
