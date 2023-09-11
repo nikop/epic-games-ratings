@@ -12,13 +12,13 @@
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.84% |
 | 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.55% |
+| 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.41% |
 | 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 16 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.86% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
-| 19 | [Island Cities](games/i/island_cities.md) | 14.64% |
+| 19 | [Island Cities](games/i/island_cities.md) | 14.58% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
 | 22 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.13% |
@@ -39,7 +39,7 @@
 | 37 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 38 | [Smelter](games/s/smelter.md) | 7.50% |
 | 38 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.21% |
+| 40 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
 | 41 | [Scorn](games/s/scorn.md) | 7.01% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.86% |
 | 43 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.50% |
@@ -137,9 +137,9 @@
 | 135 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 136 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.70% |
 | 137 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.68% |
-| 138 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.67% |
 | 138 | [Lemon Cake](games/l/lemon_cake.md) | 0.67% |
-| 140 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
+| 139 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.66% |
+| 139 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.66% |
 | 141 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.65% |
 | 142 | [Haven](games/h/haven.md) | 0.63% |
 | 143 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.61% |
