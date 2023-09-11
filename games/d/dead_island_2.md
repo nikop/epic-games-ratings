@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 2.00% | ~13,552 |
-| Welcome To Hell-A | 2.00% | ~13,552 |
+| Hotel California | 2.00% | ~13,553 |
+| Welcome To Hell-A | 2.00% | ~13,553 |
 | Dr. Reed, I Presume? | 1.00% | ~6,776 |
 | Git Gutte! | 1.00% | ~6,776 |
 | Bookworm | 1.00% | ~6,776 |
@@ -30,14 +30,14 @@ Rating: 4.54 (Ranked 501)
 | Anger Management | 0.80% | ~5,421 |
 | Perks of the Job | 0.80% | ~5,421 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,421 |
-| Making Your Mark | 0.70% | ~4,743 |
-| Humanity Distilled | 0.70% | ~4,743 |
-| Down with the Sickness | 0.70% | ~4,743 |
+| Making Your Mark | 0.70% | ~4,744 |
+| Humanity Distilled | 0.70% | ~4,744 |
+| Down with the Sickness | 0.70% | ~4,744 |
 | Max Headroom | 0.60% | ~4,066 |
 | Go, Bobcats! | 0.50% | ~3,388 |
 | Rising Star | 0.50% | ~3,388 |
-| Smorgasbord | 0.40% | ~2,710 |
-| Jumbo Keyring | 0.40% | ~2,710 |
+| Smorgasbord | 0.40% | ~2,711 |
+| Jumbo Keyring | 0.40% | ~2,711 |
 | Make it So | 0.30% | ~2,033 |
 | On Safari | 0.30% | ~2,033 |
 | Not Even My Final Form | 0.30% | ~2,033 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Donk! | 0.10% | ~678 |
 | Bucket List | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,617 (Ranked 22)  
+Progressed: 677,643 (Ranked 22)  
 Completed: 2,135 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,16 +195,17 @@ Completed: 2,135 (0.32%) (Ranked 178)
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
+| 2023-09-11 | 677,643 | 2,135 |
 ## Awards
 Max (Great Boss Battles): 6,008  (Ranked 57)  
-Sum: 8,872 (Ranked 94)  
+Sum: 8,873 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,008 |
 | This game is Great for Beginners | 405 |
 | This game has Diverse Characters | 397 |
-| This game has Quickly Understood Controls | 386 |
+| This game has Quickly Understood Controls | 387 |
 | This game is Relaxing | 371 |
 | This game has Amazing Storytelling | 345 |
 | This game is Extremely Fun | 329 |
@@ -356,3 +357,4 @@ Diff (max vs sum): -37
 | 2023-09-08 | 4.54 | 5,969 | 8,812 |
 | 2023-09-09 | 4.54 | 5,990 | 8,845 |
 | 2023-09-10 | 4.54 | 6,008 | 8,872 |
+| 2023-09-11 | 4.54 | 6,008 | 8,873 |

@@ -9,19 +9,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 69.00% | ~604,203 |
 | Right Back At Ya | 39.00% | ~341,506 |
 | The Lovers | 35.00% | ~306,480 |
-| Stanislavski's Method | 29.00% | ~253,940 |
+| Stanislavski's Method | 29.00% | ~253,941 |
 | The Wheel of Fortune | 28.00% | ~245,184 |
 | The Hermit | 25.00% | ~218,914 |
 | Christmas Tree Attack | 23.00% | ~201,401 |
 | True Soldier | 23.00% | ~201,401 |
-| The High Priestess | 22.00% | ~192,644 |
-| Legend of The Afterlife | 22.00% | ~192,644 |
+| The High Priestess | 22.00% | ~192,645 |
+| Legend of The Afterlife | 22.00% | ~192,645 |
 | Life of the Road | 21.00% | ~183,888 |
 | Full Body Conversion | 18.00% | ~157,618 |
 | The World | 18.00% | ~157,618 |
 | Bushido and Chill | 17.00% | ~148,862 |
-| Gun Fu | 15.00% | ~131,348 |
-| True Warrior | 15.00% | ~131,348 |
+| Gun Fu | 15.00% | ~131,349 |
+| True Warrior | 15.00% | ~131,349 |
 | To Protect and Serve | 14.00% | ~122,592 |
 | Master Crafter | 14.00% | ~122,592 |
 | I Am The Law | 14.00% | ~122,592 |
@@ -30,7 +30,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 10.00% | ~87,566 |
 | The Quick and the Dead | 10.00% | ~87,566 |
 | Ten out of Ten | 9.00% | ~78,809 |
-| Breathtaking | 8.00% | ~70,052 |
+| Breathtaking | 8.00% | ~70,053 |
 | To Bad Decisions! | 7.00% | ~61,296 |
 | The Star | 7.00% | ~61,296 |
 | The Sun | 7.00% | ~61,296 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,757 |
 | Rough Landing | 0.50% | ~4,378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,656 (Ranked 14)  
+Progressed: 875,657 (Ranked 14)  
 Completed: 2,075 (0.24%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,6 +195,7 @@ Completed: 2,075 (0.24%) (Ranked 189)
 | 2023-09-08 | 875,261 | 2,071 |
 | 2023-09-09 | 875,450 | 2,075 |
 | 2023-09-10 | 875,656 | 2,075 |
+| 2023-09-11 | 875,657 | 2,075 |
 ## Awards
 Max (Character Customization): 78,099  (Ranked 9)  
 Sum: 208,441 (Ranked 13)  

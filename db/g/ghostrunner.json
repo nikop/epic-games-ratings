@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1158,7 +1158,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17264,
+  "EOS_Progressed": 17265,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 1,
@@ -16593,6 +16593,11 @@
       "Time": "2023-09-10T23:05:16.0221234+00:00",
       "NumProgressed": 17264,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-09-11T00:06:20.089547+00:00",
+      "NumProgressed": 17265,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 45,
@@ -16700,7 +16705,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 7596
+      "UsersEstimate": 7597
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -16756,7 +16761,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4662
     },
     {
       "ID": "ObedientMachine",
@@ -16780,7 +16785,7 @@
       "Name": "One Of Those Days",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "OutOfOrder",
@@ -16788,7 +16793,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 7596
+      "UsersEstimate": 7597
     },
     {
       "ID": "Perfection",
@@ -16796,7 +16801,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 5524
+      "UsersEstimate": 5525
     },
     {
       "ID": "PreempativeStrike",
@@ -16836,7 +16841,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4662
     },
     {
       "ID": "Scrapped",
@@ -16876,7 +16881,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 10531
+      "UsersEstimate": 10532
     },
     {
       "ID": "SwordToAGunfight",
@@ -16940,7 +16945,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 7078
+      "UsersEstimate": 7079
     },
     {
       "ID": "WhereHeStood",
@@ -16956,28 +16961,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5179
+      "UsersEstimate": 5180
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 17264,
+      "Progressed": 17265,
       "Completed": 42
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 17264,
+      "Progressed": 17265,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-09T13:01:00.3189284+00:00",
-  "LastChanged_Achievements": "2023-09-10T23:05:16.022123+00:00",
+  "LastChanged_Achievements": "2023-09-11T00:06:20.0895464+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.113291+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:59:43.1055833+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:05:16.0222352+00:00"
+  "LastUpdate_Ratings": "2023-09-11T00:01:20.7672873+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:06:20.089727+00:00"
 }

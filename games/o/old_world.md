@@ -103,6 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.90% | ~125 |
 | Ready | 0.90% | ~125 |
 | Subjugator | 0.90% | ~125 |
+| Riders | 0.90% | ~125 |
 | Circus Maximus | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
 | Assyrian Paganism | 0.90% | ~125 |
@@ -115,7 +116,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.80% | ~111 |
 | Devout | 0.80% | ~111 |
 | Landowners | 0.80% | ~111 |
-| Riders | 0.80% | ~111 |
 | Adur Burzen-Mihr | 0.80% | ~111 |
 | Carthage | 0.80% | ~111 |
 | Industrial Progress | 0.80% | ~111 |

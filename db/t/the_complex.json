@@ -566,9 +566,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 290
     },
     {
       "ID": "blast_from_the_past",
@@ -735,8 +735,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-09-10T23:05:50.8457281+00:00",
+  "LastChanged_Achievements": "2023-09-11T00:07:08.4208976+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.8564591+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:59:02.4697261+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:05:50.8457415+00:00"
+  "LastUpdate_Ratings": "2023-09-11T00:00:22.0877211+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:07:08.4209218+00:00"
 }

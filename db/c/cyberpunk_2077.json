@@ -11723,9 +11723,9 @@
       "Count": 5866
     }
   ],
-  "EOS_Progressed": 875656,
+  "EOS_Progressed": 875657,
   "EOS_Completed": 2075,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1207,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -27728,6 +27728,11 @@
       "Time": "2023-09-10T23:05:51.0211454+00:00",
       "NumProgressed": 875656,
       "NumCompleted": 2075
+    },
+    {
+      "Time": "2023-09-11T00:07:08.7639825+00:00",
+      "NumProgressed": 875657,
+      "NumCompleted": 2075
     }
   ],
   "TotalAchievements": 44,
@@ -27811,7 +27816,7 @@
       "Name": "Gun Fu",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 131348
+      "UsersEstimate": 131349
     },
     {
       "ID": "Gunslinger",
@@ -27883,7 +27888,7 @@
       "Name": "Breathtaking",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 70052
+      "UsersEstimate": 70053
     },
     {
       "ID": "NoMansLand",
@@ -27915,7 +27920,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 253940
+      "UsersEstimate": 253941
     },
     {
       "ID": "Specialist",
@@ -27971,7 +27976,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 192644
+      "UsersEstimate": 192645
     },
     {
       "ID": "TheLovers",
@@ -28043,7 +28048,7 @@
       "Name": "True Warrior",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 131348
+      "UsersEstimate": 131349
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -28083,28 +28088,28 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 192644
+      "UsersEstimate": 192645
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 875656,
+      "Progressed": 875657,
       "Completed": 2075
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 4279,
-      "Completed": 4279
+      "Progressed": 4280,
+      "Completed": 4280
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-10T20:59:33.171282+00:00",
-  "LastChanged_Achievements": "2023-09-10T23:05:51.0211451+00:00",
+  "LastChanged_Achievements": "2023-09-11T00:07:08.7639818+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.297656+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:59:43.3744243+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:05:51.0212457+00:00"
+  "LastUpdate_Ratings": "2023-09-11T00:01:21.1793006+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:07:08.7641437+00:00"
 }

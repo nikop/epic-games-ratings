@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -501,7 +501,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15135,
+  "EOS_Progressed": 15136,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -9931,6 +9931,11 @@
       "Time": "2023-09-10T22:06:16.0033871+00:00",
       "NumProgressed": 15135,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-11T00:06:22.6229746+00:00",
+      "NumProgressed": 15136,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -9958,7 +9963,7 @@
       "Name": "Wannabe knight",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "tpote_achievement_12",
@@ -10046,7 +10051,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "tpote_achievement_22",
@@ -10118,7 +10123,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4843
+      "UsersEstimate": 4844
     },
     {
       "ID": "tpote_achievement_30",
@@ -10206,7 +10211,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6205
+      "UsersEstimate": 6206
     },
     {
       "ID": "tpote_achievement_40",
@@ -10230,7 +10235,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "tpote_achievement_6",
@@ -10238,7 +10243,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "tpote_achievement_7",
@@ -10246,7 +10251,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "tpote_achievement_8",
@@ -10262,22 +10267,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5297
+      "UsersEstimate": 5298
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15135,
+      "Progressed": 15136,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-10T20:57:40.397669+00:00",
-  "LastChanged_Achievements": "2023-09-10T23:05:17.7879734+00:00",
+  "LastChanged_Achievements": "2023-09-11T00:06:22.6229738+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.6037792+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:57:48.3253495+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:05:17.7880436+00:00"
+  "LastUpdate_Ratings": "2023-09-10T23:58:32.0583406+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:06:22.6230738+00:00"
 }

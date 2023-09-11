@@ -2810,9 +2810,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72379,
+  "EOS_Progressed": 72380,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 2262,
+  "EOS_NewPlayers": 2231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15015,6 +15015,11 @@
       "Time": "2023-09-10T23:06:04.1291124+00:00",
       "NumProgressed": 72379,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-11T00:07:27.4726435+00:00",
+      "NumProgressed": 72380,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15106,7 +15111,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8685
+      "UsersEstimate": 8686
     },
     {
       "ID": "APPLY_STATUS",
@@ -15138,7 +15143,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12304
+      "UsersEstimate": 12305
     },
     {
       "ID": "CLAYFACE_3",
@@ -15202,7 +15207,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8685
+      "UsersEstimate": 8686
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -15370,7 +15375,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37637
+      "UsersEstimate": 37638
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15402,7 +15407,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 19542
+      "UsersEstimate": 19543
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -15434,7 +15439,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15923
+      "UsersEstimate": 15924
     },
     {
       "ID": "MYSTERY_04",
@@ -15450,7 +15455,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12304
+      "UsersEstimate": 12305
     },
     {
       "ID": "MYSTERY_06",
@@ -15474,7 +15479,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8685
+      "UsersEstimate": 8686
     },
     {
       "ID": "SECRET_CACHE",
@@ -15513,13 +15518,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72379,
+      "Progressed": 72380,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42659,
+      "Progressed": 42660,
       "Completed": 2663
     }
   ],
@@ -15527,8 +15532,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-10T20:57:14.7464996+00:00",
-  "LastChanged_Achievements": "2023-09-10T23:06:04.129112+00:00",
+  "LastChanged_Achievements": "2023-09-11T00:07:27.4726428+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:57:21.8733528+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:06:04.129216+00:00"
+  "LastUpdate_Ratings": "2023-09-10T23:57:54.6004493+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:07:27.4727802+00:00"
 }

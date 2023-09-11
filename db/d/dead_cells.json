@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 24,
   "Ranking_Popularity": 243,
-  "Ranking_PopularitySum": 185,
+  "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 350,
@@ -2576,10 +2576,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 2382,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-09-11T00:01:51.6353116+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 2384,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2382,
+  "NumberOfAwards": 2384,
   "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2605,7 +2611,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 241
+      "Count": 243
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2667,8 +2673,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-09-10T18:00:06.1411741+00:00",
+  "LastChanged": "2023-09-11T00:01:51.6353027+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:38.9696625+00:00",
-  "LastUpdate_Ratings": "2023-09-10T23:00:05.4062792+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:04:20.9178745+00:00"
+  "LastUpdate_Ratings": "2023-09-11T00:01:51.6353119+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:05:05.5234174+00:00"
 }

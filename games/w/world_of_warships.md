@@ -6,38 +6,38 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 86.00% | ~18,067 |
-| Initial Capital | 78.00% | ~16,386 |
-| Moneybags | 58.00% | ~12,185 |
-| Junior Supply Officer | 58.00% | ~12,185 |
-| Naval Warfare. Arson | 44.00% | ~9,244 |
-| Naval Constructor | 43.00% | ~9,033 |
-| Amateur | 42.00% | ~8,823 |
-| Naval Warfare. Ramming | 42.00% | ~8,823 |
-| Naval Warfare. Tactics | 41.00% | ~8,613 |
-| Naval Warfare. Weaponry Basics | 33.00% | ~6,933 |
-| Naval Warfare. Lucky Shot | 28.00% | ~5,882 |
-| Business Magnate | 27.00% | ~5,672 |
-| Naval Warfare. Flooding | 27.00% | ~5,672 |
-| Battle Hero | 23.00% | ~4,832 |
-| Supply Officer | 22.00% | ~4,622 |
-| Smooth Supply | 22.00% | ~4,622 |
-| Warrior | 20.00% | ~4,202 |
-| Veteran | 13.00% | ~2,731 |
-| Legend of the Seas | 7.00% | ~1,471 |
-| Chief Naval Architect | 7.00% | ~1,471 |
-| Shield | 7.00% | ~1,471 |
-| Important Missions | 5.00% | ~1,050 |
-| Senior Supply Officer | 4.00% | ~840 |
-| Weather Beaten | 4.00% | ~840 |
-| Guardian | 4.00% | ~840 |
-| Bane of the Oceans | 3.00% | ~630 |
-| "Science of Victory" | 3.00% | ~630 |
-| Special Orders | 3.00% | ~630 |
-| Protector | 3.00% | ~630 |
-| Exterminator | 3.00% | ~630 |
-| American Cruisers | 3.00% | ~630 |
-| Old-Timer | 2.00% | ~420 |
+| Junior Naval Designer | 86.00% | ~18,082 |
+| Initial Capital | 78.00% | ~16,400 |
+| Moneybags | 58.00% | ~12,195 |
+| Junior Supply Officer | 58.00% | ~12,195 |
+| Naval Warfare. Arson | 44.00% | ~9,251 |
+| Naval Constructor | 43.00% | ~9,041 |
+| Amateur | 42.00% | ~8,831 |
+| Naval Warfare. Ramming | 42.00% | ~8,831 |
+| Naval Warfare. Tactics | 41.00% | ~8,621 |
+| Naval Warfare. Weaponry Basics | 33.00% | ~6,939 |
+| Naval Warfare. Lucky Shot | 28.00% | ~5,887 |
+| Business Magnate | 27.00% | ~5,677 |
+| Naval Warfare. Flooding | 27.00% | ~5,677 |
+| Battle Hero | 23.00% | ~4,836 |
+| Supply Officer | 22.00% | ~4,626 |
+| Smooth Supply | 22.00% | ~4,626 |
+| Warrior | 20.00% | ~4,205 |
+| Veteran | 13.00% | ~2,733 |
+| Legend of the Seas | 7.00% | ~1,472 |
+| Chief Naval Architect | 7.00% | ~1,472 |
+| Shield | 7.00% | ~1,472 |
+| Important Missions | 5.00% | ~1,051 |
+| Senior Supply Officer | 4.00% | ~841 |
+| Weather Beaten | 4.00% | ~841 |
+| Guardian | 4.00% | ~841 |
+| Bane of the Oceans | 3.00% | ~631 |
+| "Science of Victory" | 3.00% | ~631 |
+| Special Orders | 3.00% | ~631 |
+| Protector | 3.00% | ~631 |
+| Exterminator | 3.00% | ~631 |
+| American Cruisers | 3.00% | ~631 |
+| Old-Timer | 2.00% | ~421 |
 | Experienced One | 1.00% | ~210 |
 | Secret Instructions | 1.00% | ~210 |
 | Raider | 1.00% | ~210 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~21 |
 | "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,008 (Ranked 108)  
+Progressed: 21,026 (Ranked 108)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,9 +80,10 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 19,701 | 0 |
 | 2023-09-09 | 20,341 | 0 |
 | 2023-09-10 | 21,008 | 0 |
+| 2023-09-11 | 21,026 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,315  (Ranked 132)  
-Sum: 10,871 (Ranked 83)  
+Sum: 10,873 (Ranked 83)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -93,7 +94,7 @@ Diff (max vs sum): 49
 | This game is Highly Recommended | 1,256 |
 | This game is Extremely Fun | 1,244 |
 | This game has Realistic Visuals | 1,136 |
-| This game has Amazing Storytelling | 1,059 |
+| This game has Amazing Storytelling | 1,061 |
 | This game has a Competitive Community | 1,004 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
@@ -340,4 +341,4 @@ Diff (max vs sum): 49
 | 2023-09-07 | 4.41 | - | 1,306 | 10,797 |
 | 2023-09-08 | 4.41 | - | 1,309 | 10,818 |
 | 2023-09-09 | 4.41 | - | 1,313 | 10,849 |
-| 2023-09-10 | 4.41 | - | 1,315 | 10,871 |
+| 2023-09-10 | 4.41 | - | 1,315 | 10,873 |

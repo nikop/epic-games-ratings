@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223093,
+  "EOS_Progressed": 223101,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2105,
+  "EOS_NewPlayers": 2094,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10357,6 +10357,11 @@
       "Time": "2023-09-10T23:06:42.706224+00:00",
       "NumProgressed": 223093,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T00:08:21.7858959+00:00",
+      "NumProgressed": 223101,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10816,7 +10821,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64697
+      "UsersEstimate": 64699
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10920,7 +10925,7 @@
       "Name": "Gargantua",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "Orktobearfest",
@@ -10952,7 +10957,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "QuestEmile",
@@ -11071,21 +11076,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223093,
+      "Progressed": 223101,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223093,
+      "Progressed": 223101,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-10T20:59:49.5308008+00:00",
-  "LastChanged_Achievements": "2023-09-10T23:06:42.7062236+00:00",
+  "LastChanged_Achievements": "2023-09-11T00:08:21.7858952+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-10T23:00:02.5628133+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:06:42.7063516+00:00"
+  "LastUpdate_Ratings": "2023-09-11T00:01:46.9653493+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:08:21.7860797+00:00"
 }

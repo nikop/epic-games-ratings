@@ -634,9 +634,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9874,
+  "EOS_Progressed": 9875,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9254,6 +9254,11 @@
       "Time": "2023-09-10T20:05:48.0356702+00:00",
       "NumProgressed": 9874,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-11T00:07:19.215539+00:00",
+      "NumProgressed": 9875,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 34,
@@ -9281,7 +9286,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH04",
@@ -9297,7 +9302,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH06",
@@ -9369,7 +9374,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4147
+      "UsersEstimate": 4148
     },
     {
       "ID": "ACH15",
@@ -9441,7 +9446,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2567
+      "UsersEstimate": 2568
     },
     {
       "ID": "ACH24",
@@ -9489,7 +9494,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH30",
@@ -9505,7 +9510,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH32",
@@ -9513,7 +9518,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH33",
@@ -9536,7 +9541,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9874,
+      "Progressed": 9875,
       "Completed": 55
     }
   ],
@@ -9544,8 +9549,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-10T04:59:47.9925269+00:00",
-  "LastChanged_Achievements": "2023-09-10T23:05:58.3185392+00:00",
+  "LastChanged_Achievements": "2023-09-11T00:07:19.2155384+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:59:59.7902287+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:05:58.3185979+00:00"
+  "LastUpdate_Ratings": "2023-09-11T00:01:43.9769265+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:07:19.2156212+00:00"
 }

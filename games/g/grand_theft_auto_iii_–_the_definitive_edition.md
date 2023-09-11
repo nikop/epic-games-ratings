@@ -11,7 +11,7 @@ Rating: 4.19 (Ranked 872)
 | Wreckless Driving | 28.00% | ~2,150 |
 | A Marked Man | 25.00% | ~1,920 |
 | Street Sweeper | 18.00% | ~1,382 |
-| Liberty City Minute | 17.00% | ~1,305 |
+| Liberty City Minute | 17.00% | ~1,306 |
 | Offshore Delivery | 14.00% | ~1,075 |
 | Dirty Money | 13.00% | ~998 |
 | By a Mile | 10.00% | ~768 |
@@ -35,7 +35,7 @@ Rating: 4.19 (Ranked 872)
 | Is That All You've Got? | 0.90% | ~69 |
 | King of Liberty City | 0.70% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,679 (Ranked 137)  
+Progressed: 7,680 (Ranked 137)  
 Completed: 50 (0.65%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 50 (0.65%) (Ranked 141)
 | 2023-09-08 | 7,665 | 50 |
 | 2023-09-09 | 7,670 | 50 |
 | 2023-09-10 | 7,679 | 50 |
+| 2023-09-11 | 7,680 | 50 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

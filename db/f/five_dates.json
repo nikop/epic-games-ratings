@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 538,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
@@ -1032,6 +1032,11 @@
       "Time": "2023-09-10T13:09:44.0313542+00:00",
       "NumProgressed": 537,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-11T00:08:37.26815+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 15,
@@ -1043,7 +1048,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "booty_call",
@@ -1051,7 +1056,7 @@
       "Name": "Booty Call",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "crash_and_burn",
@@ -1075,7 +1080,7 @@
       "Name": "Hold my Beer",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -1115,7 +1120,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1123,7 +1128,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "planting_the_seed",
@@ -1155,14 +1160,14 @@
       "Name": "We Go Again",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 538,
       "Completed": 8
     }
   ],
@@ -1170,8 +1175,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-09-10T23:06:53.8616061+00:00",
+  "LastChanged_Achievements": "2023-09-11T00:08:37.2681488+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.4393944+00:00",
-  "LastUpdate_Ratings": "2023-09-10T22:59:40.9706592+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:06:53.8616208+00:00"
+  "LastUpdate_Ratings": "2023-09-11T00:01:17.9445056+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:08:37.2681733+00:00"
 }

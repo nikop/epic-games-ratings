@@ -4336,10 +4336,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8872,
       "NumberOfAwardsMax": 6008
+    },
+    {
+      "Time": "2023-09-11T00:01:56.5357646+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8873,
+      "NumberOfAwardsMax": 6008
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8872,
+  "NumberOfAwards": 8873,
   "NumberOfAwardsMax": 6008,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4359,7 +4365,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 386
+      "Count": 387
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4398,9 +4404,9 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 677617,
+  "EOS_Progressed": 677643,
   "EOS_Completed": 2135,
-  "EOS_NewPlayers": 4677,
+  "EOS_NewPlayers": 4681,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20453,6 +20459,11 @@
       "Time": "2023-09-10T23:07:01.4312195+00:00",
       "NumProgressed": 677617,
       "NumCompleted": 2135
+    },
+    {
+      "Time": "2023-09-11T00:08:47.6005411+00:00",
+      "NumProgressed": 677643,
+      "NumCompleted": 2135
     }
   ],
   "TotalAchievements": 45,
@@ -20472,7 +20483,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ach_ammo_ran",
@@ -20568,7 +20579,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -20624,7 +20635,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13552
+      "UsersEstimate": 13553
     },
     {
       "ID": "ach_impressive_aim",
@@ -20656,7 +20667,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "ach_knock_down",
@@ -20704,7 +20715,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ach_revival_tour",
@@ -20720,7 +20731,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4743
+      "UsersEstimate": 4744
     },
     {
       "ID": "ach_secrets_of_la",
@@ -20800,7 +20811,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13552
+      "UsersEstimate": 13553
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20823,22 +20834,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 677617,
+      "Progressed": 677643,
       "Completed": 2135
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 3157,
-      "Completed": 3157
+      "Progressed": 3183,
+      "Completed": 3183
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-10T23:00:08.9610818+00:00",
-  "LastChanged_Achievements": "2023-09-10T23:07:01.4312191+00:00",
+  "LastChanged": "2023-09-11T00:01:56.5357644+00:00",
+  "LastChanged_Achievements": "2023-09-11T00:08:47.6005405+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-10T23:00:08.9610823+00:00",
-  "LastUpdate_Achievements": "2023-09-10T23:07:01.4313228+00:00"
+  "LastUpdate_Ratings": "2023-09-11T00:01:56.5357649+00:00",
+  "LastUpdate_Achievements": "2023-09-11T00:08:47.600689+00:00"
 }
