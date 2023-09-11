@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 24,
+  "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5443,
+  "EOS_Progressed": 5448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3648,
+  "EOS_NewPlayers": 3622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1016,6 +1016,11 @@
       "Time": "2023-09-11T07:04:34.3361237+00:00",
       "NumProgressed": 5443,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T08:03:25.6427504+00:00",
+      "NumProgressed": 5448,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1140,7 +1145,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "GamesPlayed1",
@@ -1148,7 +1153,7 @@
       "Name": "Played a Match",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1907
     },
     {
       "ID": "GamesPlayed10",
@@ -1172,7 +1177,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "GamesWon10",
@@ -1340,7 +1345,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "MaxDamageDone30000",
@@ -1388,7 +1393,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "MaxTowersKilled3",
@@ -1396,7 +1401,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "MaxTowersKilled6",
@@ -1436,7 +1441,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "NeutralKills200",
@@ -1484,7 +1489,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "QAUpgraded1",
@@ -1500,7 +1505,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "RAPurchased1",
@@ -1524,7 +1529,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "SEUpgraded1",
@@ -1540,7 +1545,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "SOVUpgraded1",
@@ -1619,14 +1624,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5443,
+      "Progressed": 5448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-11T07:04:34.3361231+00:00",
+  "LastChanged_Achievements": "2023-09-11T08:03:25.64275+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:01.3447006+00:00",
-  "LastUpdate_Ratings": "2023-09-11T06:59:11.2610033+00:00",
-  "LastUpdate_Achievements": "2023-09-11T07:04:34.3362142+00:00"
+  "LastUpdate_Ratings": "2023-09-11T07:58:14.5899634+00:00",
+  "LastUpdate_Achievements": "2023-09-11T08:03:25.6428421+00:00"
 }

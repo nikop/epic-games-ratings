@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-heroes-trails-to-azure",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-03-14T17:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.1743106+00:00",
   "LastChanged": "2023-03-31T05:57:45.1743107+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:12.8775164+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:02:29.9971404+00:00",
+  "LastUpdate_Ratings": "2023-09-11T08:00:23.7176558+00:00",
   "LastUpdate_Achievements": "2023-09-11T07:09:32.5615183+00:00"
 }

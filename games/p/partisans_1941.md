@@ -29,7 +29,7 @@ Number of Ratings: 98  (23.09.2022)
 | Experienced Strategist | 2.00% | ~27 |
 | Do a Barrel Roll! | 1.00% | ~13 |
 | How?! | 1.00% | ~13 |
-| Tough as Nails | 0.40% | ~5 |
+| Tough as Nails | 0.50% | ~7 |
 | Commandos | 0.30% | ~4 |
 | We Weren't There | 0.20% | ~3 |
 | A Little Culture | 0.10% | ~1 |

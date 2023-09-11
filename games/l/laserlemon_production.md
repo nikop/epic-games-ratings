@@ -3,7 +3,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Highly Sprung | 71.00% | ~5 |
+| Highly Sprung | 86.00% | ~6 |
 | Six's Song | 29.00% | ~2 |
 | The Lair | 29.00% | ~2 |
 | The Prison | 29.00% | ~2 |

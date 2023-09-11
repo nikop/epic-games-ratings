@@ -14,7 +14,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's just the beginning | 59.00% | ~28,596 |
 | This is just my weekend vehicle | 58.00% | ~28,111 |
 | Hard work pays off | 53.00% | ~25,688 |
-| It's never too late to farm | 49.00% | ~23,749 |
+| It's never too late to farm | 50.00% | ~24,234 |
 | All out of Land | 44.00% | ~21,326 |
 | Field Trip | 43.00% | ~20,841 |
 | I like to switch it up | 40.00% | ~19,387 |
@@ -196,12 +196,12 @@ Completed: 6 (0.01%) (Ranked 259)
 | 2023-09-10 | 48,463 | 6 |
 | 2023-09-11 | 48,468 | 6 |
 ## Awards
-Max (Great for Beginners): 4,905  (Ranked 68)  
-Sum: 40,035 (Ranked 32)  
+Max (Great for Beginners): 4,916  (Ranked 68)  
+Sum: 40,046 (Ranked 32)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,905 |
+| This game is Great for Beginners | 4,916 |
 | This game is Educational | 4,160 |
 | This game is Relaxing | 4,125 |
 | This game has Diverse Characters | 4,113 |
@@ -453,3 +453,4 @@ Diff (max vs sum): 36
 | 2023-09-08 | 4.69 | - | 4,898 | 39,973 |
 | 2023-09-09 | 4.69 | - | 4,905 | 40,000 |
 | 2023-09-10 | 4.69 | - | 4,905 | 40,035 |
+| 2023-09-11 | 4.69 | - | 4,916 | 40,046 |

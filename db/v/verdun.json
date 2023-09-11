@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1718,7 +1718,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 57858,
+  "EOS_Progressed": 57859,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 0,
@@ -17423,6 +17423,11 @@
       "Time": "2023-09-11T06:06:13.1542948+00:00",
       "NumProgressed": 57858,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-11T08:03:48.22913+00:00",
+      "NumProgressed": 57859,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -17698,7 +17703,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23143
+      "UsersEstimate": 23144
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -17778,7 +17783,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14464
+      "UsersEstimate": 14465
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -17802,7 +17807,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 45129
+      "UsersEstimate": 45130
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -17898,22 +17903,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 21407
+      "UsersEstimate": 21408
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 57858,
+      "Progressed": 57859,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-05T18:00:17.1389559+00:00",
-  "LastChanged_Achievements": "2023-09-11T07:05:06.4630007+00:00",
+  "LastChanged_Achievements": "2023-09-11T08:03:48.2291296+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6621322+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:02:03.0513097+00:00",
-  "LastUpdate_Achievements": "2023-09-11T07:05:06.463263+00:00"
+  "LastUpdate_Ratings": "2023-09-11T08:00:06.4441656+00:00",
+  "LastUpdate_Achievements": "2023-09-11T08:03:48.2292627+00:00"
 }

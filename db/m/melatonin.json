@@ -4,7 +4,7 @@
   "ProductSlug": "melatonin-f16dcb",
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.2547734+00:00",
   "LastChanged": "2023-03-31T05:58:11.2547735+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:56.9662291+00:00",
-  "LastUpdate_Ratings": "2023-09-11T07:01:04.7529165+00:00",
-  "LastUpdate_Achievements": "2023-09-11T07:06:53.9212781+00:00"
+  "LastUpdate_Ratings": "2023-09-11T07:59:28.9683467+00:00",
+  "LastUpdate_Achievements": "2023-09-11T08:05:03.7419845+00:00"
 }

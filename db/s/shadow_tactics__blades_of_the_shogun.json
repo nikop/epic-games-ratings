@@ -1537,9 +1537,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 201467,
+  "EOS_Progressed": 201473,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1507,
+  "EOS_NewPlayers": 1508,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17667,6 +17667,11 @@
       "Time": "2023-09-11T07:09:39.3911143+00:00",
       "NumProgressed": 201467,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-11T08:08:08.756022+00:00",
+      "NumProgressed": 201473,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17678,7 +17683,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18132
+      "UsersEstimate": 18133
     },
     {
       "ID": "AtheistOx",
@@ -17718,7 +17723,7 @@
       "Name": "Disguised",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16117
+      "UsersEstimate": 16118
     },
     {
       "ID": "FiveShadows",
@@ -17750,7 +17755,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22161
+      "UsersEstimate": 22162
     },
     {
       "ID": "HappyLittleAccidents",
@@ -17854,7 +17859,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10073
+      "UsersEstimate": 10074
     },
     {
       "ID": "OldMan",
@@ -17878,7 +17883,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10073
+      "UsersEstimate": 10074
     },
     {
       "ID": "ReleaseTheKraken",
@@ -17894,7 +17899,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16117
+      "UsersEstimate": 16118
     },
     {
       "ID": "Rollin",
@@ -17902,7 +17907,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16117
+      "UsersEstimate": 16118
     },
     {
       "ID": "StillRollin",
@@ -17934,7 +17939,7 @@
       "Name": "Tanuki Time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 16117
+      "UsersEstimate": 16118
     },
     {
       "ID": "TheCave",
@@ -17990,7 +17995,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10073
+      "UsersEstimate": 10074
     },
     {
       "ID": "Warzone",
@@ -18029,15 +18034,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 201467,
+      "Progressed": 201473,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-11T01:43:07.0804036+00:00",
-  "LastChanged_Achievements": "2023-09-11T07:09:39.3911137+00:00",
+  "LastChanged_Achievements": "2023-09-11T08:08:08.7560215+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.2415553+00:00",
-  "LastUpdate_Ratings": "2023-09-11T06:57:19.111026+00:00",
-  "LastUpdate_Achievements": "2023-09-11T07:09:39.3913479+00:00"
+  "LastUpdate_Ratings": "2023-09-11T07:56:59.3218391+00:00",
+  "LastUpdate_Achievements": "2023-09-11T08:08:08.7561577+00:00"
 }

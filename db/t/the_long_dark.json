@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-12-19T16:00:00+00:00",
@@ -4256,10 +4256,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 4832,
       "NumberOfAwardsMax": 801
+    },
+    {
+      "Time": "2023-09-11T07:58:11.0189693+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 4833,
+      "NumberOfAwardsMax": 801
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4832,
+  "NumberOfAwards": 4833,
   "NumberOfAwardsMax": 801,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4285,7 +4291,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 708
+      "Count": 709
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4323,8 +4329,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2023-09-10T19:57:57.4974087+00:00",
+  "LastChanged": "2023-09-11T07:58:11.0189691+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:14.0031453+00:00",
-  "LastUpdate_Ratings": "2023-09-11T06:59:05.9583168+00:00",
-  "LastUpdate_Achievements": "2023-09-11T07:04:45.5792309+00:00"
+  "LastUpdate_Ratings": "2023-09-11T07:58:11.0189698+00:00",
+  "LastUpdate_Achievements": "2023-09-11T08:03:33.7898608+00:00"
 }
