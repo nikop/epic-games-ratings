@@ -7,6 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 0.20% | ~1,429 |
+| Life is your teacher | 0.20% | ~1,429 |
 | The Assault | 0.10% | ~714 |
 | The Hateful Pole Fighter | 0.10% | ~714 |
 | A Lady's Blood in the Snow | 0.10% | ~714 |
@@ -28,7 +29,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.10% | ~714 |
 | Dance of the Praying Mantis | 0.10% | ~714 |
 | Street Fighting | 0.10% | ~714 |
-| Life is your teacher | 0.10% | ~714 |
 | State of constant learning | 0.10% | ~714 |
 | Qi Gong: Mind | 0.10% | ~714 |
 | Qi Gong: Breath | 0.10% | ~714 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,471 (Ranked 20)  
+Progressed: 714,490 (Ranked 20)  
 Completed: 12,890 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 12,890 (1.80%) (Ranked 102)
 | 2023-09-08 | 713,725 | 12,887 |
 | 2023-09-09 | 714,041 | 12,890 |
 | 2023-09-10 | 714,349 | 12,890 |
-| 2023-09-11 | 714,471 | 12,890 |
+| 2023-09-11 | 714,490 | 12,890 |
 ## Awards
 Max (Great Boss Battles): 6,482  (Ranked 53)  
 Sum: 11,171 (Ranked 80)  

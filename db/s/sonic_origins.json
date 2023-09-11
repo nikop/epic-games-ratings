@@ -2020,9 +2020,9 @@
       "ID": "ID_05_SONIC1_DEFEAT_MOTORA",
       "SetID": "7o8nc5m",
       "Name": "Beware Moto Bugs!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 195
     },
     {
       "ID": "ID_06_SONIC1_BREATHING_COUNT",
@@ -2132,9 +2132,9 @@
       "ID": "ID_19_TAILS_FLYING",
       "SetID": "7o8nc5m",
       "Name": "Miles \u0022Tails\u0022 Prower",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 283
     },
     {
       "ID": "ID_20_CHALLENGE_BOSSRUSH",
@@ -2276,8 +2276,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:05:22.8703488+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:11:00.3238374+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.7477215+00:00",
-  "LastUpdate_Ratings": "2023-09-11T12:00:33.5274374+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:05:22.8703775+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:05:31.1889102+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:11:00.3238802+00:00"
 }

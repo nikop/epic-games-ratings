@@ -12,19 +12,19 @@
 | Hydrophobia | 44.00% | ~34 |
 | Ka-Ching! | 35.00% | ~27 |
 | Stop Right There | 31.00% | ~24 |
-| Get to the Point | 28.00% | ~22 |
+| Get to the Point | 29.00% | ~23 |
+| Mr. Want It All | 15.00% | ~12 |
+| Toe to Toe | 15.00% | ~12 |
 | Phew! | 15.00% | ~12 |
 | The Hidden Secret | 14.00% | ~11 |
-| Mr. Want It All | 14.00% | ~11 |
-| Toe to Toe | 14.00% | ~11 |
 | Grand Escape | 12.00% | ~9 |
 | Space Warrior: Prologue | 12.00% | ~9 |
 | The Abyss Conqueror | 9.00% | ~7 |
 | Keep it Up, rookie! | 9.00% | ~7 |
+| The Fortress Conqueror | 6.00% | ~5 |
 | he Ultra Fortress Conqueror | 6.00% | ~5 |
 | Antaeus | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
-| The Fortress Conqueror | 5.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~4 |
 | Rapidfire | 5.00% | ~4 |
 | Air Interception | 5.00% | ~4 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78 (Ranked 365)  
+Progressed: 78 (Ranked 366)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |

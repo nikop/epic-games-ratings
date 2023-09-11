@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -2436,6 +2436,11 @@
       "Time": "2023-09-11T12:04:05.2956546+00:00",
       "NumProgressed": 681,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-11T13:09:54.7450574+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2487,7 +2492,7 @@
       "Name": "Calculated",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Close",
@@ -2615,7 +2620,7 @@
       "Name": "Long Distances",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ManagementMaster",
@@ -2671,7 +2676,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Ownway",
@@ -2695,7 +2700,7 @@
       "Name": "Race Against Time",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Reaction",
@@ -2782,14 +2787,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:04:05.295654+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:09:54.7450566+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.2387423+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:59:34.4335081+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:04:05.2956917+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:04:43.5028915+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:09:54.7451066+00:00"
 }

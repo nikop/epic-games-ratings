@@ -5,23 +5,23 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,651 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,342 |
-| Loose Ends | 34.00% | ~24,618 |
-| To the Victor Go the Spoils | 28.00% | ~20,273 |
-| Knighthood | 27.00% | ~19,549 |
-| Get ReQ'd | 25.00% | ~18,101 |
-| Whispered Words | 25.00% | ~18,101 |
-| The Batman Family | 23.00% | ~16,653 |
-| Lock and Key | 22.00% | ~15,929 |
-| Something in the Clay | 21.00% | ~15,205 |
-| Quartzer Life Crisis | 20.00% | ~14,481 |
-| Working Hard or Harley Working? | 20.00% | ~14,481 |
-| Unstoppable Force | 20.00% | ~14,481 |
-| Bad Apples in Every Orchard | 20.00% | ~14,481 |
-| Snow Problem | 19.00% | ~13,757 |
-| The Show Mud Go On | 18.00% | ~13,033 |
-| From Inside Gotham's Walls | 17.00% | ~12,309 |
+| First Step Into the Knight | 52.00% | ~37,653 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,343 |
+| Loose Ends | 34.00% | ~24,619 |
+| To the Victor Go the Spoils | 28.00% | ~20,275 |
+| Knighthood | 27.00% | ~19,550 |
+| Get ReQ'd | 25.00% | ~18,102 |
+| Whispered Words | 25.00% | ~18,102 |
+| The Batman Family | 23.00% | ~16,654 |
+| Lock and Key | 22.00% | ~15,930 |
+| Something in the Clay | 21.00% | ~15,206 |
+| Quartzer Life Crisis | 20.00% | ~14,482 |
+| Working Hard or Harley Working? | 20.00% | ~14,482 |
+| Unstoppable Force | 20.00% | ~14,482 |
+| Bad Apples in Every Orchard | 20.00% | ~14,482 |
+| Snow Problem | 19.00% | ~13,758 |
+| The Show Mud Go On | 18.00% | ~13,034 |
+| From Inside Gotham's Walls | 17.00% | ~12,310 |
 | Protector of Gotham | 16.00% | ~11,585 |
 | In Your Element | 15.00% | ~10,861 |
 | Universal Health Scare | 15.00% | ~10,861 |
@@ -35,12 +35,12 @@ Rating: 4.18 (Ranked 883)
 | Bulldozed | 12.00% | ~8,689 |
 | Gotham Knight | 12.00% | ~8,689 |
 | Gotham City Confidential | 11.00% | ~7,965 |
-| Drone You Out | 9.00% | ~6,516 |
-| Out of Their League | 8.00% | ~5,792 |
-| Solid Alibi | 8.00% | ~5,792 |
-| Fusion Expert | 7.00% | ~5,068 |
-| Family Meeting | 6.00% | ~4,344 |
-| A Worthy Successor | 6.00% | ~4,344 |
+| Drone You Out | 9.00% | ~6,517 |
+| Out of Their League | 8.00% | ~5,793 |
+| Solid Alibi | 8.00% | ~5,793 |
+| Fusion Expert | 7.00% | ~5,069 |
+| Family Meeting | 6.00% | ~4,345 |
+| A Worthy Successor | 6.00% | ~4,345 |
 | Expert Crime Fighter | 5.00% | ~3,620 |
 | Dressed to Impress | 4.00% | ~2,896 |
 | A Momentum Occasion | 3.00% | ~2,172 |
@@ -52,7 +52,7 @@ Rating: 4.18 (Ranked 883)
 | Batarang Collector | 1.00% | ~724 |
 | Claiming the Mural High Ground | 1.00% | ~724 |
 | History Major | 0.80% | ~579 |
-| A Sophisticated Mallet | 0.80% | ~341 |
+| A Sophisticated Mallet | 0.80% | ~342 |
 | Icebreaker | 0.70% | ~299 |
 | Read Owl About It | 0.70% | ~507 |
 | Gotham's Greatest Depths | 0.50% | ~213 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,405 (Ranked 82)  
+Progressed: 72,409 (Ranked 82)  
 Completed: 112 (0.15%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,10 +211,10 @@ Completed: 112 (0.15%) (Ranked 205)
 | 2023-09-08 | 72,185 | 112 |
 | 2023-09-09 | 72,298 | 112 |
 | 2023-09-10 | 72,379 | 112 |
-| 2023-09-11 | 72,405 | 112 |
+| 2023-09-11 | 72,409 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,638  (Ranked 97)  
-Sum: 4,375 (Ranked 139)  
+Sum: 4,379 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -225,8 +225,8 @@ Diff (max vs sum): -42
 | This game has Diverse Characters | 218 |
 | This game has Amazing Characters | 216 |
 | This game is Great for Beginners | 215 |
+| This game is Highly Recommended | 213 |
 | This game has Amazing Storytelling | 212 |
-| This game is Highly Recommended | 209 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -429,4 +429,4 @@ Diff (max vs sum): -42
 | 2023-09-08 | 4.18 | 2,602 | 4,312 |
 | 2023-09-09 | 4.18 | 2,614 | 4,341 |
 | 2023-09-10 | 4.18 | 2,628 | 4,360 |
-| 2023-09-11 | 4.18 | 2,638 | 4,375 |
+| 2023-09-11 | 4.18 | 2,638 | 4,379 |

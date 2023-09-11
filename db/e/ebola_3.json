@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -1118,9 +1118,9 @@
       "ID": "achAntivirus",
       "SetID": "72gjli4",
       "Name": "Antivirus \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "achBag",
@@ -1158,17 +1158,17 @@
       "ID": "achCheet",
       "SetID": "72gjli4",
       "Name": "Cheats \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "achCity",
@@ -1334,9 +1334,9 @@
       "ID": "achOsipovOne",
       "SetID": "72gjli4",
       "Name": "Sheriff \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achOsipovTwo",
@@ -1350,9 +1350,9 @@
       "ID": "achPlotOne",
       "SetID": "72gjli4",
       "Name": "City on fire \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achPlotThree",
@@ -1454,9 +1454,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "achVip",
@@ -1511,8 +1511,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:07:36.0192932+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:12:51.8307591+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:48.8958447+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:58:42.999503+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:07:36.0193332+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:04:03.6379927+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:12:51.8308143+00:00"
 }

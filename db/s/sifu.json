@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6186,9 +6186,9 @@
       "Count": 383
     }
   ],
-  "EOS_Progressed": 714471,
+  "EOS_Progressed": 714490,
   "EOS_Completed": 12890,
-  "EOS_NewPlayers": 1534,
+  "EOS_NewPlayers": 1552,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -19436,6 +19436,11 @@
       "Time": "2023-09-11T12:04:08.1142202+00:00",
       "NumProgressed": 714471,
       "NumCompleted": 12890
+    },
+    {
+      "Time": "2023-09-11T13:09:57.1166515+00:00",
+      "NumProgressed": 714490,
+      "NumCompleted": 12890
     }
   ],
   "TotalAchievements": 60,
@@ -19621,9 +19626,9 @@
       "ID": "23_AnySkill_Trophy",
       "SetID": "adcm20g",
       "Name": "Life is your teacher",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 714
+      "UsersEstimate": 1429
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -19926,21 +19931,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 23772,
+      "Progressed": 23791,
       "Completed": 10607
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 714471,
+      "Progressed": 714490,
       "Completed": 12890
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-11T08:57:24.2762425+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:04:08.1142196+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:09:57.1166506+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.7541411+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:57:24.153539+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:04:08.1143258+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:03:01.7118835+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:09:57.1167928+00:00"
 }

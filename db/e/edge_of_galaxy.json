@@ -2,7 +2,7 @@
   "ID": "d796ccf7413e4c1495805168e77002a6",
   "Name": "Edge Of Galaxy",
   "ProductSlug": "edge-of-galaxy-092087",
-  "Ranking_EOS_Progress": 587,
+  "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8352229+00:00",
   "LastChanged": "2023-03-31T05:58:13.835223+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:33.2329072+00:00",
-  "LastUpdate_Ratings": "2023-09-11T12:00:14.6215231+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:07:05.8267183+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:05:15.989919+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:12:27.0350072+00:00"
 }

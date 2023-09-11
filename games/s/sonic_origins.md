@@ -17,7 +17,7 @@ Number of Ratings: 154  (23.09.2022)
 | Easy Peasy with Shields | 61.00% | ~283 |
 | Gallant Spin Dash | 61.00% | ~283 |
 | Knuckles the Echidna | 61.00% | ~283 |
-| Miles "Tails" Prower | 60.00% | ~278 |
+| Miles "Tails" Prower | 61.00% | ~283 |
 | Bubbly Breath | 58.00% | ~269 |
 | Boss Rush Attempt | 54.00% | ~251 |
 | Cleared Sonic the Hedgehog | 51.00% | ~237 |
@@ -26,8 +26,8 @@ Number of Ratings: 154  (23.09.2022)
 | Very First Mission Clear! | 45.00% | ~209 |
 | Shut Down Metal Sonic | 44.00% | ~204 |
 | Museum Time | 44.00% | ~204 |
+| Beware Moto Bugs! | 42.00% | ~195 |
 | Cleared Sonic the Hedgehog 2 | 42.00% | ~195 |
-| Beware Moto Bugs! | 41.00% | ~190 |
 | Cleared Sonic CD | 41.00% | ~190 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 38.00% | ~176 |
 | Lucky Hedgehog | 32.00% | ~148 |

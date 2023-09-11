@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,720 |
-| Basic in Bulk | 2.00% | ~2,720 |
-| Tinkle of Coins | 2.00% | ~2,720 |
-| Titan's First Steps | 2.00% | ~2,720 |
+| Sponsored by Argon | 2.00% | ~2,721 |
+| Basic in Bulk | 2.00% | ~2,721 |
+| Tinkle of Coins | 2.00% | ~2,721 |
+| Titan's First Steps | 2.00% | ~2,721 |
 | One Easy Payment | 1.00% | ~1,360 |
 | Some Assembly Required | 1.00% | ~1,360 |
 | Disintermediation | 1.00% | ~1,360 |
@@ -51,6 +51,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.50% | ~680 |
 | A Notch Above the Rest | 0.40% | ~544 |
 | Cream of the Crop | 0.40% | ~544 |
+| Top of the World | 0.40% | ~544 |
 | Proud Paladin | 0.40% | ~544 |
 | Above the Norm | 0.40% | ~544 |
 | A Ronin Reborn | 0.40% | ~544 |
@@ -89,7 +90,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Special Ingredient | 0.40% | ~544 |
 | Exotic Commodities | 0.40% | ~544 |
 | Complete Monopoly | 0.40% | ~544 |
-| Top of the World | 0.30% | ~408 |
 | Constellated | 0.30% | ~408 |
 | Fillin' the Bin | 0.30% | ~408 |
 | Industrial Evolution | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,025 (Ranked 68)  
+Progressed: 136,027 (Ranked 68)  
 Completed: 149 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 149 (0.11%) (Ranked 216)
 | 2023-09-08 | 135,871 | 147 |
 | 2023-09-09 | 135,932 | 147 |
 | 2023-09-10 | 136,005 | 148 |
-| 2023-09-11 | 136,025 | 149 |
+| 2023-09-11 | 136,027 | 149 |
 ## Awards
 Max (Great for Beginners): 4,734  (Ranked 71)  
 Sum: 27,204 (Ranked 49)  

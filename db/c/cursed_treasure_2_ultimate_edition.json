@@ -206,17 +206,17 @@
       "ID": "BADGE_ARMORED_KNIGHT_KILL",
       "SetID": "ak6pfjk",
       "Name": "Tinned Corpse",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "BADGE_BOSS_1_KILL",
       "SetID": "ak6pfjk",
       "Name": "Your War is Over",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "BADGE_BOSS_2_KILL",
@@ -286,9 +286,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Meadowshire",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
@@ -590,9 +590,9 @@
       "ID": "BADGE_SKILL_MAX",
       "SetID": "ak6pfjk",
       "Name": "Evil Genius",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "BADGE_STASIS_COUNT",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:05:33.4742248+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:11:09.2259288+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:21.1461898+00:00",
-  "LastUpdate_Ratings": "2023-09-11T12:00:59.4665921+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:05:33.4742645+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:05:52.8254911+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:11:09.2259791+00:00"
 }

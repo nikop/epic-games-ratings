@@ -37,8 +37,8 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Flexibility | 0.70% | ~22 |
 | Tactical Sabotage | 0.70% | ~22 |
 | Mind Like a Fortress | 0.60% | ~19 |
+| Preservationist | 0.60% | ~19 |
 | For the Machine God | 0.50% | ~16 |
-| Preservationist | 0.50% | ~16 |
 | Engine Kill | 0.50% | ~16 |
 | Death Comes For All | 0.50% | ~16 |
 | Patron of Deimos | 0.40% | ~13 |

@@ -98,7 +98,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 1.00% | ~139 |
 | Legionary | 1.00% | ~139 |
 | Phalangite | 1.00% | ~139 |
+| Ambition Victory | 1.00% | ~139 |
 | Points Victory | 1.00% | ~139 |
+| Win a Single Player Game | 1.00% | ~139 |
 | Capable | 0.90% | ~125 |
 | Invincible | 0.90% | ~125 |
 | Ready | 0.90% | ~125 |
@@ -110,9 +112,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.90% | ~125 |
 | Gnosticism | 0.90% | ~125 |
 | Cimmerian Archer | 0.90% | ~125 |
-| Ambition Victory | 0.90% | ~125 |
 | Double Victory | 0.90% | ~125 |
-| Win a Single Player Game | 0.90% | ~125 |
 | Bad Heir Day | 0.80% | ~111 |
 | Devout | 0.80% | ~111 |
 | Landowners | 0.80% | ~111 |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Peacemaker | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
+| Cao'an | 0.60% | ~83 |
 | Egypt | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
 | One True Faith | 0.60% | ~83 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.50% | ~69 |
 | Old | 0.50% | ~69 |
 | Noble Difficulty | 0.50% | ~69 |
-| Cao'an | 0.50% | ~69 |
 | Old World Order | 0.50% | ~69 |
 | Play a Network Game | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |

@@ -3681,9 +3681,9 @@
       "ID": "Preservationist",
       "SetID": "2im8phi",
       "Name": "Preservationist",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -3847,8 +3847,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:04:24.8087913+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:10:11.0331055+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:06.3915871+00:00",
-  "LastUpdate_Ratings": "2023-09-11T12:01:43.7326133+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:04:24.8088589+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:08:08.0668859+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:10:11.0331921+00:00"
 }

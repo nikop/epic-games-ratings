@@ -2285,9 +2285,9 @@
       "ID": "MEAT_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "To Get Stronger",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 89
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -2420,8 +2420,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:02:02.5279568+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:08:25.4178684+00:00",
   "LastUpdate_AppInfo": "2023-09-07T18:57:15.8521033+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:59:39.4342325+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:02:02.5280209+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:04:47.4292975+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:08:25.4179548+00:00"
 }

@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.15 (Ranked 897)  
+Rating: 4.15 (Ranked 896)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 32.00% | ~1,841 |
 | Things that go Splash in the Night | 30.00% | ~1,726 |
 | Goldfish? | 28.00% | ~1,611 |
-| Going for Gold | 25.00% | ~1,438 |
+| Going for Gold | 26.00% | ~1,496 |
 | I'm Hooked! | 19.00% | ~1,093 |
 | Diamond in the Rough | 13.00% | ~748 |
 | More than a Tourist | 11.00% | ~633 |

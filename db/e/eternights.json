@@ -2,9 +2,9 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 537,
-  "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Completed": 3,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -20,15 +20,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 100,
+  "EOS_Completed_Percentage": 50,
   "EosHistory": [
     {
       "Time": "2023-09-08T14:06:31.5856386+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-11T13:12:53.473425+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 1
     }
   ],
@@ -40,7 +45,7 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -56,7 +61,7 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -64,7 +69,7 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -72,7 +77,7 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -80,7 +85,7 @@
       "ID": "ACHIEVEMENT_15_PromiseMin",
       "SetID": "9bke6f1",
       "Name": "Min\u0027s Promise",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -96,7 +101,7 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -104,7 +109,7 @@
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -112,7 +117,7 @@
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -120,7 +125,7 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -152,7 +157,7 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -160,7 +165,7 @@
       "ID": "ACHIEVEMENT_24_TentacleMan",
       "SetID": "9bke6f1",
       "Name": "TentacleMAN",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -168,7 +173,7 @@
       "ID": "ACHIEVEMENT_25_LoveAssistant",
       "SetID": "9bke6f1",
       "Name": "LOVEassistant",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -176,7 +181,7 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -184,7 +189,7 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -192,7 +197,7 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -200,7 +205,7 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -208,7 +213,7 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -216,7 +221,7 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -224,7 +229,7 @@
       "ID": "ACHIEVEMENT_8_StoneRetriever",
       "SetID": "9bke6f1",
       "Name": "Stone Retriever",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -232,7 +237,7 @@
       "ID": "ACHIEVEMENT_9_Flawless",
       "SetID": "9bke6f1",
       "Name": "Flawless",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 50,
       "UsersEstimate": 2
     }
@@ -241,13 +246,13 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:07:37.9632258+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:12:53.4734243+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:57:10.9468268+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:07:37.9632406+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:02:50.7387862+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:12:53.4734425+00:00"
 }

@@ -518,7 +518,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3603,
+  "EOS_Progressed": 3604,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -6603,6 +6603,11 @@
       "Time": "2023-09-10T15:04:11.0844669+00:00",
       "NumProgressed": 3603,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-11T13:09:33.5764026+00:00",
+      "NumProgressed": 3604,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6614,7 +6619,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -6638,7 +6643,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -6646,7 +6651,7 @@
       "Name": "Opposing Force",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -6654,7 +6659,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -6662,7 +6667,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6694,7 +6699,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6742,7 +6747,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6782,7 +6787,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6830,7 +6835,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -6846,7 +6851,7 @@
       "Name": "Der Geist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -6870,7 +6875,7 @@
       "Name": "Close Quarters",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -6878,7 +6883,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -6990,7 +6995,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -7181,13 +7186,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3554,
+      "Progressed": 3555,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3603,
+      "Progressed": 3604,
       "Completed": 10
     }
   ],
@@ -7195,8 +7200,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-10T22:58:36.5752206+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:03:29.7327019+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:09:33.5764016+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:59:25.5457861+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:03:29.7327892+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:04:36.6060727+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:09:33.576525+00:00"
 }

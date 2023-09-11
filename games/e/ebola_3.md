@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fright ✔ | 57.00% | ~148 |
+| Chest ✔ | 55.00% | ~142 |
 | Inventory ✔ | 54.00% | ~140 |
-| Chest ✔ | 54.00% | ~140 |
 | Police officers ✔ | 29.00% | ~75 |
-| Mutation ✔ | 25.00% | ~65 |
+| Mutation ✔ | 26.00% | ~67 |
 | Doberman ✔ | 15.00% | ~39 |
 | Weapon ✔ | 11.00% | ~28 |
 | Chess ✔ | 10.00% | ~26 |
@@ -16,13 +16,13 @@
 | Survival ✔ | 8.00% | ~21 |
 | Thirst ✔ | 8.00% | ~21 |
 | Hospital ✔ | 7.00% | ~18 |
+| Antivirus ✔ | 6.00% | ~16 |
 | Betty ✔ | 6.00% | ~16 |
+| Cheats ✔ | 6.00% | ~16 |
 | City ✔ | 6.00% | ~16 |
 | Fraternal help ✔ | 6.00% | ~16 |
 | Alice ✔ | 5.00% | ~13 |
-| Antivirus ✔ | 5.00% | ~13 |
 | Brain ✔ | 5.00% | ~13 |
-| Cheats ✔ | 5.00% | ~13 |
 | Eva ✔ | 5.00% | ~13 |
 | Food ✔ | 5.00% | ~13 |
 | King of survival ✔ | 5.00% | ~13 |
@@ -30,15 +30,15 @@
 | Boss 1 ✔ | 4.00% | ~10 |
 | Group Alpha ✔ | 4.00% | ~10 |
 | Mutant fight ✔ | 4.00% | ~10 |
+| Sheriff ✔ | 4.00% | ~10 |
+| City on fire ✔ | 4.00% | ~10 |
 | Infected ✔ | 4.00% | ~10 |
 | Broadcasting ✔ | 4.00% | ~10 |
 | Crocodile Attack ✔ | 3.00% | ~8 |
 | Secret ✔ | 3.00% | ~8 |
 | Boss 2 ✔ | 3.00% | ~8 |
 | Mutant run ✔ | 3.00% | ~8 |
-| Sheriff ✔ | 3.00% | ~8 |
 | Osipov's video message ✔ | 3.00% | ~8 |
-| City on fire ✔ | 3.00% | ~8 |
 | Priest ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |
 | Boss 3 ✔ | 3.00% | ~8 |

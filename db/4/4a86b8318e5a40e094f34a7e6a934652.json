@@ -561,25 +561,25 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Picky Eater",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -648,8 +648,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:04:59.9686033+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:10:41.1560041+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:59:45.0702753+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:04:59.9686179+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:04:51.2125476+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:10:41.156025+00:00"
 }

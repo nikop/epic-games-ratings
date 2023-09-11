@@ -6979,10 +6979,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14383,
       "NumberOfAwardsMax": 7065
+    },
+    {
+      "Time": "2023-09-11T13:03:35.741682+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14386,
+      "NumberOfAwardsMax": 7065
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14383,
+  "NumberOfAwards": 14386,
   "NumberOfAwardsMax": 7065,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6996,7 +7002,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 857
+      "Count": 860
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7059,9 +7065,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60800,
+  "EOS_Progressed": 60803,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22289,6 +22295,11 @@
       "Time": "2023-09-11T12:05:17.6811264+00:00",
       "NumProgressed": 60800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T13:10:55.6139282+00:00",
+      "NumProgressed": 60803,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22316,7 +22327,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 13984
+      "UsersEstimate": 13985
     },
     {
       "ID": "Best served cold",
@@ -22460,7 +22471,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 13984
+      "UsersEstimate": 13985
     },
     {
       "ID": "I can do it",
@@ -22492,7 +22503,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10336
+      "UsersEstimate": 10337
     },
     {
       "ID": "Kingslayer",
@@ -22524,7 +22535,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19456
+      "UsersEstimate": 19457
     },
     {
       "ID": "Lawbringer",
@@ -22532,7 +22543,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23712
+      "UsersEstimate": 23713
     },
     {
       "ID": "Lawmaker",
@@ -22540,7 +22551,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13984
+      "UsersEstimate": 13985
     },
     {
       "ID": "Long live the Empire",
@@ -22652,7 +22663,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10944
+      "UsersEstimate": 10945
     },
     {
       "ID": "This Is Our Land",
@@ -22674,9 +22685,9 @@
       "ID": "Trained",
       "SetID": "den0lp1",
       "Name": "Trained",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13376
+      "UsersEstimate": 13985
     },
     {
       "ID": "Undercover",
@@ -22707,15 +22718,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60800,
+      "Progressed": 60803,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-11T07:57:39.9486207+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:05:17.681126+00:00",
+  "LastChanged": "2023-09-11T13:03:35.7416817+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:10:55.6139275+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:58:07.1480665+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:05:17.681229+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:03:35.7416825+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:10:55.6140621+00:00"
 }

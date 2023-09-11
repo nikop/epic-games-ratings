@@ -2,10 +2,10 @@
   "ID": "c9be94273fe244c08032ca493ad87434",
   "Name": "Assassin\u0027s Creed Syndicate Standard Edition",
   "ProductSlug": "assassins-creed-syndicate",
-  "Ranking_Rating": 546,
+  "Ranking_Rating": 547,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 270,
-  "Ranking_EOS_Progress": 587,
+  "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
@@ -2097,10 +2097,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 744,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2023-09-11T13:03:09.4030722+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 746,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 744,
+  "NumberOfAwards": 746,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2114,7 +2120,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 70
+      "Count": 72
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2188,8 +2194,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-09-11T06:57:42.9750392+00:00",
+  "LastChanged": "2023-09-11T13:03:09.4030719+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.7009553+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:57:34.8588621+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:06:49.0328342+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:03:09.4030727+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:12:12.8039848+00:00"
 }

@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1286,
+  "EOS_Progressed": 1287,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -4601,6 +4601,11 @@
       "Time": "2023-09-11T01:49:30.3260255+00:00",
       "NumProgressed": 1286,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-11T13:08:27.3534889+00:00",
+      "NumProgressed": 1287,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4732,7 +4737,7 @@
       "Name": "Sergeant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -4868,7 +4873,7 @@
       "Name": "Defenses Online",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4915,14 +4920,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1286,
+      "Progressed": 1287,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-11T12:02:05.0860743+00:00",
+  "LastChanged_Achievements": "2023-09-11T13:08:27.3534883+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-11T11:59:11.3562066+00:00",
-  "LastUpdate_Achievements": "2023-09-11T12:02:05.0861249+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:04:25.7416918+00:00",
+  "LastUpdate_Achievements": "2023-09-11T13:08:27.3535534+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.48 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,657 |
-| Confirming Suspicions | 40.00% | ~1,441 |
+| Meeting Resistance | 46.00% | ~1,658 |
+| Confirming Suspicions | 40.00% | ~1,442 |
 | The Kraken Wakes | 36.00% | ~1,297 |
 | It's Starting to Crack | 33.00% | ~1,189 |
 | Change the Channel | 30.00% | ~1,081 |
@@ -22,17 +22,17 @@ Rating: 4.48 (Ranked 601)
 | Explosive Efficiency | 18.00% | ~649 |
 | Just a Flesh Wound | 17.00% | ~613 |
 | Gunslinger | 17.00% | ~613 |
-| Climbing the Ladder | 16.00% | ~576 |
-| Der Geist | 16.00% | ~576 |
-| Close Quarters | 15.00% | ~540 |
-| Brains of the Operation | 15.00% | ~540 |
-| Fields of Glory | 14.00% | ~504 |
-| Skirmisher | 14.00% | ~504 |
-| Die Nussknacker Sweet! | 14.00% | ~504 |
-| Snake in the Grass | 14.00% | ~504 |
-| No Stone Unturned | 13.00% | ~468 |
-| Opposing Force | 13.00% | ~468 |
-| Enemy at the Gates | 13.00% | ~468 |
+| Climbing the Ladder | 16.00% | ~577 |
+| Der Geist | 16.00% | ~577 |
+| Close Quarters | 15.00% | ~541 |
+| Brains of the Operation | 15.00% | ~541 |
+| Fields of Glory | 14.00% | ~505 |
+| Skirmisher | 14.00% | ~505 |
+| Die Nussknacker Sweet! | 14.00% | ~505 |
+| Snake in the Grass | 14.00% | ~505 |
+| No Stone Unturned | 13.00% | ~469 |
+| Opposing Force | 13.00% | ~469 |
+| Enemy at the Gates | 13.00% | ~469 |
 | Set Europe Ablaze | 12.00% | ~432 |
 | Precision Is Key | 9.00% | ~324 |
 | My Little Friend | 9.00% | ~324 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 601)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,603 (Ranked 157)  
+Progressed: 3,604 (Ranked 157)  
 Completed: 10 (0.28%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 10 (0.28%) (Ranked 184)
 | 2023-09-08 | 3,594 | 10 |
 | 2023-09-09 | 3,599 | 10 |
 | 2023-09-10 | 3,603 | 10 |
+| 2023-09-11 | 3,604 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
