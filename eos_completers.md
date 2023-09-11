@@ -4,7 +4,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 3 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.59% |
 | 4 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.99% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.37% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.19% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.63% |
@@ -75,7 +75,7 @@
 | 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
 | 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.89% |
+| 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.88% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 78 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.78% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -104,7 +104,7 @@
 | 102 | [Frogun](games/f/frogun.md) | 1.80% |
 | 102 | [Sifu](games/s/sifu.md) | 1.80% |
 | 104 | [Somerville](games/s/somerville.md) | 1.65% |
-| 105 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.59% |
+| 105 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.57% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
 | 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
@@ -151,9 +151,9 @@
 | 149 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
 | 150 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 151 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
+| 152 | [Aragami 2](games/a/aragami_2.md) | 0.53% |
 | 152 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
-| 153 | [Aragami 2](games/a/aragami_2.md) | 0.52% |
-| 153 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 154 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 155 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.51% |
 | 156 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
 | 157 | [Them and Us](games/t/them_and_us.md) | 0.47% |

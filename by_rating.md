@@ -104,7 +104,7 @@
 | 101 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,994 | 38 |
 | 101 | [Journey](games/j/journey.md) | 4.78 | 0 | 517 |
 | 101 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.78 | 0 | 517 |
-| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,396 | 103 |
+| 101 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,401 | 103 |
 | 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,482 | 124 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 938 | 149 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
@@ -900,15 +900,15 @@
 | 897 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 517 |
 | 897 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.15 | 0 | 517 |
 | 897 | [Forspoken](games/f/forspoken.md) | 4.15 | 27 | 472 |
-| 897 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.15 | 21 | 505 |
 | 897 | [Relicta](games/r/relicta.md) | 4.15 | 201 | 274 |
 | 897 | [The Alien Cube](games/t/the_alien_cube.md) | 4.15 | 0 | 517 |
 | 897 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 517 |
-| 905 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.14 | 0 | 517 |
-| 905 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 34 | 449 |
-| 905 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 472 |
-| 905 | [Pine](games/p/pine.md) | 4.14 | 0 | 517 |
-| 905 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
+| 904 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 4.14 | 0 | 517 |
+| 904 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 34 | 449 |
+| 904 | [God's Trigger](games/g/god's_trigger.md) | 4.14 | 27 | 472 |
+| 904 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.14 | 21 | 505 |
+| 904 | [Pine](games/p/pine.md) | 4.14 | 0 | 517 |
+| 904 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
 | 910 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 517 |
 | 910 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 517 |
 | 912 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 517 |
@@ -932,7 +932,7 @@
 | 928 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 182 | 282 |
 | 931 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 517 |
 | 931 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.06 | 0 | 517 |
-| 931 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,254 | 67 |
+| 931 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,261 | 67 |
 | 931 | [SYNCED](games/s/synced.md) | 4.06 | 0 | 517 |
 | 935 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 189 | 279 |
 | 935 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 465 | 204 |

@@ -66,7 +66,7 @@
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,557 | 4.85 | 43 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,379 | 4.33 | 773 |
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 5,362 | 4.66 | 279 |
-| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,254 | 4.06 | 931 |
+| 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,261 | 4.06 | 931 |
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,905 | 4.69 | 217 |
 | 69 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,763 | 4.77 | 109 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,747 | 4.56 | 469 |
@@ -102,7 +102,7 @@
 | 100 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,527 | 4.49 | 582 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,512 | 4.10 | 913 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,465 | 4.79 | 88 |
-| 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,396 | 4.78 | 101 |
+| 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,401 | 4.78 | 101 |
 | 104 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,246 | 4.67 | 259 |
 | 105 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,220 | 4.63 | 332 |
 | 106 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,205 | 4.41 | 690 |
@@ -448,7 +448,7 @@
 | 445 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 35 | 4.52 | 532 |
 | 445 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 190 |
 | 445 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 469 |
-| 449 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 34 | 4.14 | 905 |
+| 449 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 34 | 4.14 | 904 |
 | 449 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.62 | 353 |
 | 449 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 66 |
 | 449 | [TUNIC](games/t/tunic.md) | 34 | 4.83 | 60 |
@@ -476,7 +476,7 @@
 | 472 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 469 |
 | 472 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 27 | 4.61 | 370 |
 | 472 | [Forspoken](games/f/forspoken.md) | 27 | 4.15 | 897 |
-| 472 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 905 |
+| 472 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 904 |
 | 472 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 217 |
 | 472 | [Warpips](games/w/warpips.md) | 27 | 4.42 | 679 |
 | 480 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 26 | 4.48 | 601 |
@@ -507,7 +507,7 @@
 | 505 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 332 |
 | 505 | [DEMON'S TILT](games/d/demon's_tilt.md) | 21 | 4.52 | 532 |
 | 505 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 21 | 4.00 | 941 |
-| 505 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 21 | 4.15 | 897 |
+| 505 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 21 | 4.14 | 904 |
 | 505 | [Moving Out](games/m/moving_out.md) | 21 | 4.58 | 431 |
 | 505 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 21 | 4.52 | 532 |
 | 505 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 21 | 4.63 | 332 |
