@@ -73,11 +73,11 @@
 | 66 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 449 |
 | 66 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 663 | 175 |
 | 66 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.82 | 245 | 258 |
-| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,473 | 53 |
+| 66 | [Sifu](games/s/sifu.md) | 4.82 | 6,482 | 53 |
 | 66 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 408 | 217 |
 | 66 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 45 | 414 |
 | 66 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.82 | 0 | 517 |
-| 78 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 428 | 210 |
+| 78 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 428 | 211 |
 | 78 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 517 |
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 517 |
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 469 |
@@ -92,7 +92,7 @@
 | 88 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 161 | 295 |
 | 88 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 517 |
 | 88 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.79 | 0 | 517 |
-| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 909 | 152 |
+| 88 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 914 | 152 |
 | 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 758 | 162 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,997 | 58 |
 | 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 55 | 395 |
@@ -250,7 +250,7 @@
 | 242 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 480 |
 | 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,027 | 80 |
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 305,375 | 3 |
-| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 223,865 | 4 |
+| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 224,426 | 4 |
 | 242 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 517 |
 | 242 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 564 | 192 |
 | 242 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 685 | 171 |
@@ -499,7 +499,7 @@
 | 487 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 517 |
 | 487 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 347 | 227 |
 | 487 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 365 |
-| 487 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,264 | 134 |
+| 487 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,267 | 134 |
 | 501 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,421 | 128 |
 | 501 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,008 | 57 |
 | 501 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |
@@ -627,7 +627,7 @@
 | 614 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 517 |
 | 614 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 517 |
 | 627 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 517 |
-| 627 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,552 | 86 |
+| 627 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,556 | 86 |
 | 627 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 517 |
 | 627 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 457 |
 | 627 | [Faeria](games/f/faeria.md) | 4.46 | 111 | 327 |
@@ -658,7 +658,7 @@
 | 649 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 517 |
 | 649 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 517 |
 | 649 | [SMITE](games/s/smite.md) | 4.44 | 4,267 | 77 |
-| 649 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 581 | 187 |
+| 649 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 581 | 188 |
 | 649 | [STG Football](games/s/stg_football.md) | 4.44 | 45 | 414 |
 | 649 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 517 |
 | 649 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 343 |
@@ -686,7 +686,7 @@
 | 679 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.42 | 67 | 384 |
 | 679 | [Sheltered](games/s/sheltered.md) | 4.42 | 273 | 249 |
 | 679 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 156 | 297 |
-| 679 | [Train Valley 2](games/t/train_valley_2.md) | 4.42 | 573 | 189 |
+| 679 | [Train Valley 2](games/t/train_valley_2.md) | 4.42 | 583 | 187 |
 | 679 | [Warpips](games/w/warpips.md) | 4.42 | 27 | 472 |
 | 679 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.42 | 0 | 517 |
 | 690 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 67 | 384 |
@@ -732,7 +732,7 @@
 | 729 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 517 |
 | 729 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 517 |
 | 729 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 517 |
-| 729 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 576 | 188 |
+| 729 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.38 | 576 | 189 |
 | 729 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.38 | 0 | 517 |
 | 729 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 164 | 294 |
 | 729 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 172 | 289 |
@@ -960,7 +960,7 @@
 | 958 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 466 |
 | 958 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 27 | 472 |
 | 958 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 517 |
-| 958 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 423 | 211 |
+| 958 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 429 | 210 |
 | 962 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.92 | 0 | 517 |
 | 963 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 333 |
 | 963 | [Warface](games/w/warface.md) | 3.91 | 412 | 216 |
