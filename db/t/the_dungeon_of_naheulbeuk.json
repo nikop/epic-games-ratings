@@ -864,9 +864,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223282,
+  "EOS_Progressed": 223302,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2059,
+  "EOS_NewPlayers": 2060,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10464,6 +10464,11 @@
       "Time": "2023-09-11T18:06:43.8790408+00:00",
       "NumProgressed": 223282,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T19:07:48.6219287+00:00",
+      "NumProgressed": 223302,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10523,7 +10528,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6698
+      "UsersEstimate": 6699
     },
     {
       "ID": "Chapter2",
@@ -10875,7 +10880,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8931
+      "UsersEstimate": 8932
     },
     {
       "ID": "DwarfElf15Support",
@@ -10907,7 +10912,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6698
+      "UsersEstimate": 6699
     },
     {
       "ID": "ElfEpic",
@@ -10923,7 +10928,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64752
+      "UsersEstimate": 64758
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10971,7 +10976,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8931
+      "UsersEstimate": 8932
     },
     {
       "ID": "FollowBraztok",
@@ -11025,9 +11030,9 @@
       "ID": "OgreEpic",
       "SetID": "50chcgj",
       "Name": "Gargantua",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1340
     },
     {
       "ID": "Orktobearfest",
@@ -11059,7 +11064,7 @@
       "Name": "In Navalu\u0027s footsteps",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1117
     },
     {
       "ID": "QuestEmile",
@@ -11089,9 +11094,9 @@
       "ID": "QuestPriestess",
       "SetID": "50chcgj",
       "Name": "Lust and Debauchery",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1563
     },
     {
       "ID": "RangerEpic",
@@ -11178,21 +11183,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223282,
+      "Progressed": 223302,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223282,
+      "Progressed": 223302,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-11T16:01:08.5233916+00:00",
-  "LastChanged_Achievements": "2023-09-11T18:06:43.8790402+00:00",
+  "LastChanged_Achievements": "2023-09-11T19:07:48.6219282+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:00:27.4873834+00:00",
-  "LastUpdate_Achievements": "2023-09-11T18:06:43.8792187+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:01:10.1760742+00:00",
+  "LastUpdate_Achievements": "2023-09-11T19:07:48.6220893+00:00"
 }

@@ -6204,9 +6204,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 714551,
+  "EOS_Progressed": 714562,
   "EOS_Completed": 12890,
-  "EOS_NewPlayers": 1607,
+  "EOS_NewPlayers": 1617,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -19484,6 +19484,11 @@
       "Time": "2023-09-11T18:04:03.4958142+00:00",
       "NumProgressed": 714551,
       "NumCompleted": 12890
+    },
+    {
+      "Time": "2023-09-11T19:04:39.6295102+00:00",
+      "NumProgressed": 714562,
+      "NumCompleted": 12890
     }
   ],
   "TotalAchievements": 60,
@@ -19757,9 +19762,9 @@
       "ID": "34_TimedTakedown",
       "SetID": "adcm20g",
       "Name": "Lightning Hands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 1429
     },
     {
       "ID": "35_WideStrike",
@@ -19974,21 +19979,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 23852,
+      "Progressed": 23863,
       "Completed": 10610
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 714551,
+      "Progressed": 714562,
       "Completed": 12890
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-11T16:57:39.7739215+00:00",
-  "LastChanged_Achievements": "2023-09-11T18:04:03.4958137+00:00",
+  "LastChanged_Achievements": "2023-09-11T19:04:39.6295097+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.7541411+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:57:19.323257+00:00",
-  "LastUpdate_Achievements": "2023-09-11T18:04:03.495974+00:00"
+  "LastUpdate_Ratings": "2023-09-11T18:57:29.8095951+00:00",
+  "LastUpdate_Achievements": "2023-09-11T19:04:39.6296515+00:00"
 }

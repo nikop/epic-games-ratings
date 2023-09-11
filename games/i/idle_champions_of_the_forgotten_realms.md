@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~457 |
 | Overdue Rendezvous | 0.20% | ~457 |
 | Pure Energy | 0.20% | ~457 |
+| The Templar's Camp | 0.20% | ~457 |
 | Legends and Lore | 0.20% | ~389 |
 | The End | 0.20% | ~389 |
 | Pros and CONs | 0.10% | ~228 |
@@ -492,7 +493,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~195 |
 | Ineffectual Intellectuals | 0.10% | ~195 |
 | The Archaeologist and the Sailor | 0.10% | ~195 |
-| The Templar's Camp | 0.10% | ~228 |
 | The Haunted Jungle | 0.10% | ~228 |
 | Poor Guidance | 0.10% | ~228 |
 | Overwhelming Force | 0.10% | ~228 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,422 (Ranked 54)  
-Completed: 2,269 (0.99%) (Ranked 124)  
+Progressed: 228,429 (Ranked 54)  
+Completed: 2,270 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -671,10 +671,10 @@ Completed: 2,269 (0.99%) (Ranked 124)
 | 2023-09-08 | 227,989 | 2,263 |
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
-| 2023-09-11 | 228,422 | 2,269 |
+| 2023-09-11 | 228,429 | 2,270 |
 ## Awards
 Max (Diverse Characters): 5,261  (Ranked 67)  
-Sum: 31,528 (Ranked 39)  
+Sum: 31,532 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -683,7 +683,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 4,760 |
 | This game is Relaxing | 4,646 |
 | This game has Amazing Characters | 4,112 |
-| This game is Highly Recommended | 4,097 |
+| This game is Highly Recommended | 4,101 |
 | This game has Playful Visuals | 3,411 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -916,4 +916,4 @@ Diff (max vs sum): 28
 | 2023-09-08 | 4.06 | - | 5,246 | 31,480 |
 | 2023-09-09 | 4.06 | - | 5,246 | 31,491 |
 | 2023-09-10 | 4.06 | - | 5,254 | 31,510 |
-| 2023-09-11 | 4.06 | - | 5,261 | 31,528 |
+| 2023-09-11 | 4.06 | - | 5,261 | 31,532 |

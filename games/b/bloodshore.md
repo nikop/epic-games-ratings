@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Super Seducer | 52.00% | ~96 |
+| Congratulations, you are a sadist | 50.00% | ~92 |
 | Um, ok... | 50.00% | ~92 |
-| Congratulations, you are a sadist | 49.00% | ~91 |
 | Superstar-crossed lovers | 40.00% | ~74 |
 | A leader, you are not | 35.00% | ~65 |
 | This won't end well... | 35.00% | ~65 |
+| Bromance | 32.00% | ~59 |
 | Comedy Killer | 32.00% | ~59 |
-| Bromance | 31.00% | ~57 |
 | Good job, nerd | 31.00% | ~57 |
 | Mission Complete | 31.00% | ~57 |
-| Lootaphilia | 23.00% | ~43 |
+| Lootaphilia | 24.00% | ~44 |
 | Maybe you should give it another go | 10.00% | ~18 |
 | I used to think I was indecisive... | 8.00% | ~15 |
 | Mikey Lizard | 6.00% | ~11 |

@@ -6,36 +6,36 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~739,045 |
-| Green Energy | 60.00% | ~624,545 |
-| Foggy Weather | 59.00% | ~614,136 |
-| Singing In The- | 59.00% | ~614,136 |
-| Unpopular Mayor | 40.00% | ~416,363 |
-| Power at Your Fingertips | 33.00% | ~343,500 |
-| City Planner | 23.00% | ~239,409 |
-| Rolling in Dough | 20.00% | ~208,182 |
-| Does My Bum Look Big In This? | 17.00% | ~176,954 |
-| Climbing the Social Ladder | 16.00% | ~166,545 |
-| Safe City | 14.00% | ~145,727 |
-| Quay-King | 11.00% | ~114,500 |
-| Lawmaker | 10.00% | ~104,091 |
-| With Canals You Can! | 10.00% | ~104,091 |
-| Nomen Est Omen | 7.00% | ~72,864 |
-| Well Informed | 6.00% | ~62,454 |
-| Fire Watch | 5.00% | ~52,045 |
-| Greenest City | 4.00% | ~41,636 |
-| Heavenly City | 3.00% | ~31,227 |
-| Reporting! | 3.00% | ~31,227 |
-| SIMulated City | 3.00% | ~31,227 |
-| The Safest Town | 3.00% | ~31,227 |
-| Professional Dumper | 2.00% | ~20,818 |
-| City in Motion | 1.00% | ~10,409 |
-| Earthloving City | 1.00% | ~10,409 |
-| Metropolis | 1.00% | ~10,409 |
-| Higher Education | 0.80% | ~8,327 |
-| Beam Me Up | 0.70% | ~7,286 |
-| Full Capacity | 0.60% | ~6,245 |
-| Terraformer | 0.60% | ~6,245 |
+| Pioneer | 71.00% | ~739,131 |
+| Green Energy | 60.00% | ~624,618 |
+| Foggy Weather | 59.00% | ~614,208 |
+| Singing In The- | 59.00% | ~614,208 |
+| Unpopular Mayor | 40.00% | ~416,412 |
+| Power at Your Fingertips | 33.00% | ~343,540 |
+| City Planner | 23.00% | ~239,437 |
+| Rolling in Dough | 20.00% | ~208,206 |
+| Does My Bum Look Big In This? | 17.00% | ~176,975 |
+| Climbing the Social Ladder | 16.00% | ~166,565 |
+| Safe City | 14.00% | ~145,744 |
+| Quay-King | 11.00% | ~114,513 |
+| Lawmaker | 10.00% | ~104,103 |
+| With Canals You Can! | 10.00% | ~104,103 |
+| Nomen Est Omen | 7.00% | ~72,872 |
+| Well Informed | 6.00% | ~62,462 |
+| Fire Watch | 5.00% | ~52,052 |
+| Greenest City | 4.00% | ~41,641 |
+| Heavenly City | 3.00% | ~31,231 |
+| Reporting! | 3.00% | ~31,231 |
+| SIMulated City | 3.00% | ~31,231 |
+| The Safest Town | 3.00% | ~31,231 |
+| Professional Dumper | 2.00% | ~20,821 |
+| City in Motion | 1.00% | ~10,410 |
+| Earthloving City | 1.00% | ~10,410 |
+| Metropolis | 1.00% | ~10,410 |
+| Higher Education | 0.80% | ~8,328 |
+| Beam Me Up | 0.70% | ~7,287 |
+| Full Capacity | 0.60% | ~6,246 |
+| Terraformer | 0.60% | ~6,246 |
 | Decorator | 0.50% | ~5,205 |
 | Drop the Base | 0.50% | ~5,205 |
 | It's heading right for us! | 0.50% | ~5,205 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,041 |
 | Z00 | 0.10% | ~1,041 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,040,908 (Ranked 13)  
+Progressed: 1,041,030 (Ranked 13)  
 Completed: 10 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,21 +270,21 @@ Completed: 10 (0.00%) (Ranked 273)
 | 2023-09-08 | 1,032,607 | 10 |
 | 2023-09-09 | 1,036,001 | 10 |
 | 2023-09-10 | 1,039,226 | 10 |
-| 2023-09-11 | 1,040,908 | 10 |
+| 2023-09-11 | 1,041,030 | 10 |
 ## Awards
 Max (Great for Beginners): 5,375  (Ranked 66)  
-Sum: 40,606 (Ranked 31)  
+Sum: 40,623 (Ranked 31)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,375 |
 | This game is Relaxing | 5,374 |
 | This game is Educational | 5,032 |
-| This game has Quickly Understood Controls | 5,004 |
+| This game has Quickly Understood Controls | 5,014 |
 | This game is Extremely Fun | 4,684 |
 | This game is Highly Recommended | 4,511 |
 | This game has Amazing Storytelling | 3,771 |
-| This game has a Creative Community | 3,617 |
+| This game has a Creative Community | 3,624 |
 | This game has Amazing Characters | 3,238 |
 | This game has Obsessive Gameplay | 2,497 |
 ## Ratings History
@@ -518,4 +518,4 @@ Diff (max vs sum): 35
 | 2023-09-08 | 4.66 | - | 5,351 | 40,380 |
 | 2023-09-09 | 4.66 | - | 5,351 | 40,446 |
 | 2023-09-10 | 4.66 | - | 5,362 | 40,542 |
-| 2023-09-11 | 4.66 | - | 5,375 | 40,606 |
+| 2023-09-11 | 4.66 | - | 5,375 | 40,623 |

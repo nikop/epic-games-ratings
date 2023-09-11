@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4351,10 +4351,10 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 703262,
+  "EOS_Progressed": 703263,
   "EOS_Completed": 6348,
   "EOS_NewPlayers": 515,
-  "EOS_NewCompleters": 11,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
     {
@@ -19766,6 +19766,11 @@
       "Time": "2023-09-11T18:05:04.5438578+00:00",
       "NumProgressed": 703262,
       "NumCompleted": 6348
+    },
+    {
+      "Time": "2023-09-11T19:05:51.7490119+00:00",
+      "NumProgressed": 703263,
+      "NumCompleted": 6348
     }
   ],
   "TotalAchievements": 49,
@@ -19809,7 +19814,7 @@
       "Name": "Thorn of Thanatos",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 28130
+      "UsersEstimate": 28131
     },
     {
       "ID": "AchBuffedPlume",
@@ -19833,7 +19838,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 365696
+      "UsersEstimate": 365697
     },
     {
       "ID": "AchClearAsphodel",
@@ -19849,7 +19854,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 464153
+      "UsersEstimate": 464154
     },
     {
       "ID": "AchClearElysiumEM",
@@ -19881,7 +19886,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 625903
+      "UsersEstimate": 625904
     },
     {
       "ID": "AchCrushedThanatos",
@@ -19897,7 +19902,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 84391
+      "UsersEstimate": 84392
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -19905,7 +19910,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 196913
+      "UsersEstimate": 196914
     },
     {
       "ID": "AchForgedBond",
@@ -19913,7 +19918,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 196913
+      "UsersEstimate": 196914
     },
     {
       "ID": "AchFoundAllSummons",
@@ -19945,7 +19950,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 478218
+      "UsersEstimate": 478219
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -19961,7 +19966,7 @@
       "Name": "Friends Forever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 28130
+      "UsersEstimate": 28131
     },
     {
       "ID": "AchManyBrokerTrades",
@@ -20001,7 +20006,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 443055
+      "UsersEstimate": 443056
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -20049,7 +20054,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253174
+      "UsersEstimate": 253175
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -20137,7 +20142,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 499316
+      "UsersEstimate": 499317
     },
     {
       "ID": "AchWeaponClears",
@@ -20168,15 +20173,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 703262,
+      "Progressed": 703263,
       "Completed": 6348
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-10T20:59:42.5251276+00:00",
-  "LastChanged_Achievements": "2023-09-11T18:05:04.5438572+00:00",
+  "LastChanged_Achievements": "2023-09-11T19:05:51.7490114+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.0033415+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:00:20.2389806+00:00",
-  "LastUpdate_Achievements": "2023-09-11T18:05:04.5440113+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:01:01.2805673+00:00",
+  "LastUpdate_Achievements": "2023-09-11T19:05:51.7491458+00:00"
 }

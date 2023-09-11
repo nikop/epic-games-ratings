@@ -4438,9 +4438,9 @@
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 712
     },
     {
       "ID": "ACH_MISSION_12",
@@ -4535,8 +4535,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-09T16:57:24.5411658+00:00",
-  "LastChanged_Achievements": "2023-09-11T18:05:09.2936153+00:00",
+  "LastChanged_Achievements": "2023-09-11T19:05:57.5434002+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.1114534+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:58:01.5665129+00:00",
-  "LastUpdate_Achievements": "2023-09-11T18:05:09.2936858+00:00"
+  "LastUpdate_Ratings": "2023-09-11T18:58:20.2779778+00:00",
+  "LastUpdate_Achievements": "2023-09-11T19:05:57.543461+00:00"
 }

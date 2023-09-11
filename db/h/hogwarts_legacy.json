@@ -7438,10 +7438,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 42977,
       "NumberOfAwardsMax": 22536
+    },
+    {
+      "Time": "2023-09-11T19:00:08.7660411+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 42979,
+      "NumberOfAwardsMax": 22536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42977,
+  "NumberOfAwards": 42979,
   "NumberOfAwardsMax": 22536,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7497,7 +7503,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 963
+      "Count": 965
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7518,9 +7524,9 @@
       "Count": 634
     }
   ],
-  "EOS_Progressed": 296396,
+  "EOS_Progressed": 296402,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 2134,
+  "EOS_NewPlayers": 2108,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23143,6 +23149,11 @@
       "Time": "2023-09-11T18:06:50.4221418+00:00",
       "NumProgressed": 296396,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-11T19:07:55.5114587+00:00",
+      "NumProgressed": 296402,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23154,7 +23165,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41495
+      "UsersEstimate": 41496
     },
     {
       "ID": "PFA_10",
@@ -23482,7 +23493,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38531
+      "UsersEstimate": 38532
     },
     {
       "ID": "PFA_7",
@@ -23513,16 +23524,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296396,
+      "Progressed": 296402,
       "Completed": 470
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-11T17:59:32.2549847+00:00",
-  "LastChanged_Achievements": "2023-09-11T18:06:50.4221413+00:00",
+  "LastChanged": "2023-09-11T19:00:08.766041+00:00",
+  "LastChanged_Achievements": "2023-09-11T19:07:55.5114577+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:59:32.2549859+00:00",
-  "LastUpdate_Achievements": "2023-09-11T18:06:50.4222956+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:00:08.7660416+00:00",
+  "LastUpdate_Achievements": "2023-09-11T19:07:55.5116814+00:00"
 }

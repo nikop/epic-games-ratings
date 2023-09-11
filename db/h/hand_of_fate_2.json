@@ -880,9 +880,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 662027,
+  "EOS_Progressed": 662028,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14560,6 +14560,11 @@
       "Time": "2023-09-11T18:05:22.0437929+00:00",
       "NumProgressed": 662027,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-11T19:06:12.9469377+00:00",
+      "NumProgressed": 662028,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14571,7 +14576,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476659
+      "UsersEstimate": 476660
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14851,7 +14856,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59582
+      "UsersEstimate": 59583
     },
     {
       "ID": "Achievement_37_Champion",
@@ -14954,15 +14959,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662027,
+      "Progressed": 662028,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-11T18:05:22.0437924+00:00",
+  "LastChanged_Achievements": "2023-09-11T19:06:12.9469369+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.7852859+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:59:51.9457985+00:00",
-  "LastUpdate_Achievements": "2023-09-11T18:05:22.0439373+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:00:29.7375564+00:00",
+  "LastUpdate_Achievements": "2023-09-11T19:06:12.9470547+00:00"
 }

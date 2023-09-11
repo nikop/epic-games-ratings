@@ -8,6 +8,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 0.20% | ~1,429 |
 | Life is your teacher | 0.20% | ~1,429 |
+| Lightning Hands | 0.20% | ~1,429 |
 | The Assault | 0.10% | ~715 |
 | The Hateful Pole Fighter | 0.10% | ~715 |
 | A Lady's Blood in the Snow | 0.10% | ~715 |
@@ -39,7 +40,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~715 |
 | Old Child | 0.10% | ~715 |
 | Sword Stained With Blood | 0.10% | ~715 |
-| Lightning Hands | 0.10% | ~715 |
 | Kung-Fu Tussle | 0.10% | ~715 |
 | Path of the Prospect | 0.10% | ~715 |
 | Rumble in the Hangar | 0.10% | ~715 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,551 (Ranked 20)  
+Progressed: 714,562 (Ranked 20)  
 Completed: 12,890 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 12,890 (1.80%) (Ranked 102)
 | 2023-09-08 | 713,725 | 12,887 |
 | 2023-09-09 | 714,041 | 12,890 |
 | 2023-09-10 | 714,349 | 12,890 |
-| 2023-09-11 | 714,551 | 12,890 |
+| 2023-09-11 | 714,562 | 12,890 |
 ## Awards
 Max (Great Boss Battles): 6,482  (Ranked 53)  
 Sum: 11,176 (Ranked 80)  

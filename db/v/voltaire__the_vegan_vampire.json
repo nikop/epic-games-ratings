@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -317,9 +317,9 @@
       "ID": "HUNTING",
       "SetID": "3c20ib3",
       "Name": "Peaceful skies",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "HUNTSMAN",
@@ -429,9 +429,9 @@
       "ID": "SILVERBANE",
       "SetID": "3c20ib3",
       "Name": "There be sand in me shorts",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SNOWSCALE",
@@ -494,8 +494,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-09-11T18:04:42.9199868+00:00",
+  "LastChanged_Achievements": "2023-09-11T19:05:27.1678641+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:22.1499274+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:58:54.9496909+00:00",
-  "LastUpdate_Achievements": "2023-09-11T18:04:42.9200131+00:00"
+  "LastUpdate_Ratings": "2023-09-11T18:59:23.9561085+00:00",
+  "LastUpdate_Achievements": "2023-09-11T19:05:27.1678887+00:00"
 }

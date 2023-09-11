@@ -1098,9 +1098,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5055,
+  "EOS_Progressed": 5056,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9373,6 +9373,11 @@
       "Time": "2023-09-11T18:07:08.2994288+00:00",
       "NumProgressed": 5055,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T19:08:16.5829943+00:00",
+      "NumProgressed": 5056,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9480,7 +9485,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2325
+      "UsersEstimate": 2326
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9488,7 +9493,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -9544,7 +9549,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3842
+      "UsersEstimate": 3843
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9568,7 +9573,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -9616,7 +9621,7 @@
       "Name": "Survivor",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -9656,7 +9661,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -9703,15 +9708,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5055,
+      "Progressed": 5056,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-09T17:58:19.764548+00:00",
-  "LastChanged_Achievements": "2023-09-11T18:07:08.2994283+00:00",
+  "LastChanged_Achievements": "2023-09-11T19:08:16.5829935+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:58:34.4734773+00:00",
-  "LastUpdate_Achievements": "2023-09-11T18:07:08.2995317+00:00"
+  "LastUpdate_Ratings": "2023-09-11T18:59:00.8483397+00:00",
+  "LastUpdate_Achievements": "2023-09-11T19:08:16.5830746+00:00"
 }

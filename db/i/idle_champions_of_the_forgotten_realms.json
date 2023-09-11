@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 52,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6500,10 +6500,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31528,
       "NumberOfAwardsMax": 5261
+    },
+    {
+      "Time": "2023-09-11T19:00:46.5847597+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31532,
+      "NumberOfAwardsMax": 5261
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31528,
+  "NumberOfAwards": 31532,
   "NumberOfAwardsMax": 5261,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6535,7 +6541,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4097
+      "Count": 4101
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6550,10 +6556,10 @@
       "Count": 3411
     }
   ],
-  "EOS_Progressed": 228422,
-  "EOS_Completed": 2269,
-  "EOS_NewPlayers": 1432,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 228429,
+  "EOS_Completed": 2270,
+  "EOS_NewPlayers": 1413,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -22495,6 +22501,11 @@
       "Time": "2023-09-11T18:03:45.8381751+00:00",
       "NumProgressed": 228422,
       "NumCompleted": 2269
+    },
+    {
+      "Time": "2023-09-11T19:04:19.9303656+00:00",
+      "NumProgressed": 228429,
+      "NumCompleted": 2270
     }
   ],
   "TotalAchievements": 520,
@@ -26376,9 +26387,9 @@
       "ID": "objective_completed_94",
       "SetID": "cc37lbc",
       "Name": "The Templar\u0027s Camp",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 457
     },
     {
       "ID": "objective_completed_95",
@@ -26665,21 +26676,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194696,
+      "Progressed": 194703,
       "Completed": 3419
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228422,
-      "Completed": 2269
+      "Progressed": 228429,
+      "Completed": 2270
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-11T15:01:37.2941388+00:00",
-  "LastChanged_Achievements": "2023-09-11T18:03:45.8381747+00:00",
+  "LastChanged": "2023-09-11T19:00:46.5847596+00:00",
+  "LastChanged_Achievements": "2023-09-11T19:04:19.9303648+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-11T18:00:08.271715+00:00",
-  "LastUpdate_Achievements": "2023-09-11T18:03:45.8411707+00:00"
+  "LastUpdate_Ratings": "2023-09-11T19:00:46.5847602+00:00",
+  "LastUpdate_Achievements": "2023-09-11T19:04:19.9332053+00:00"
 }
