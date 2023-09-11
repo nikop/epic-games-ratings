@@ -2,9 +2,9 @@
   "ID": "44c4d41627104968a7df87b8e33aa481",
   "Name": "PAW Patrol Mighty Pups Save Adventure Bay",
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
-  "Ranking_EOS_Progress": 432,
+  "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -138,6 +138,11 @@
       "Time": "2023-09-02T09:03:44.4524159+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T22:06:02.8890593+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -147,7 +152,7 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 68,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -155,7 +160,7 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 64,
+      "Percentage": 61,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -187,7 +192,7 @@
       "ID": "13",
       "SetID": "38ide56",
       "Name": "Everything Under Control",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -195,7 +200,7 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -203,7 +208,7 @@
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -211,7 +216,7 @@
       "ID": "16",
       "SetID": "38ide56",
       "Name": "Break Time",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -219,7 +224,7 @@
       "ID": "17",
       "SetID": "38ide56",
       "Name": "Master of the Rope",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -227,7 +232,7 @@
       "ID": "18",
       "SetID": "38ide56",
       "Name": "Training Day",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -235,7 +240,7 @@
       "ID": "19",
       "SetID": "38ide56",
       "Name": "The Fastest",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -243,7 +248,7 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 64,
+      "Percentage": 61,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -251,7 +256,7 @@
       "ID": "20",
       "SetID": "38ide56",
       "Name": "In the Air",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -267,7 +272,7 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -275,7 +280,7 @@
       "ID": "23",
       "SetID": "38ide56",
       "Name": "Never Miss",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -291,7 +296,7 @@
       "ID": "25",
       "SetID": "38ide56",
       "Name": "You Have Been Everywhere",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -299,7 +304,7 @@
       "ID": "26",
       "SetID": "38ide56",
       "Name": "Animal Sighting",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -323,7 +328,7 @@
       "ID": "29",
       "SetID": "38ide56",
       "Name": "Paw patrol member",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 200,
       "UsersEstimate": 8
     },
@@ -331,7 +336,7 @@
       "ID": "3",
       "SetID": "38ide56",
       "Name": "Risky Rescue",
-      "Percentage": 55,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -339,7 +344,7 @@
       "ID": "4",
       "SetID": "38ide56",
       "Name": "Carlos Is Tangled",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -347,7 +352,7 @@
       "ID": "5",
       "SetID": "38ide56",
       "Name": "Mandy Family",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -355,7 +360,7 @@
       "ID": "6",
       "SetID": "38ide56",
       "Name": "Robot Out of Control",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -363,7 +368,7 @@
       "ID": "7",
       "SetID": "38ide56",
       "Name": "Don\u2019t Miss Any",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -371,7 +376,7 @@
       "ID": "8",
       "SetID": "38ide56",
       "Name": "Mountain and Ice",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -379,7 +384,7 @@
       "ID": "9",
       "SetID": "38ide56",
       "Name": "Adventure Bay\u2019s Citizen",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 4
     }
@@ -388,7 +393,7 @@
     {
       "ID": "38ide56",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
@@ -396,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:05:36.490933+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:06:02.8890588+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:56.5849595+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:57:42.9790005+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:05:36.4909521+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:58:01.1615954+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:06:02.8890814+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -454,9 +454,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7686,
+  "EOS_Progressed": 7687,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -8114,6 +8114,11 @@
       "Time": "2023-09-11T15:07:05.4424853+00:00",
       "NumProgressed": 7686,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-11T22:06:31.6327563+00:00",
+      "NumProgressed": 7687,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8125,7 +8130,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6379
+      "UsersEstimate": 6380
     },
     {
       "ID": "ACH02",
@@ -8133,7 +8138,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2614
     },
     {
       "ID": "ACH03",
@@ -8163,9 +8168,9 @@
       "ID": "ACH06",
       "SetID": "552d41m",
       "Name": "Street Sweeper",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1384
     },
     {
       "ID": "ACH07",
@@ -8243,9 +8248,9 @@
       "ID": "ACH16",
       "SetID": "552d41m",
       "Name": "A Marked Man",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1922
     },
     {
       "ID": "ACH17",
@@ -8356,7 +8361,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7686,
+      "Progressed": 7687,
       "Completed": 50
     }
   ],
@@ -8364,8 +8369,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-05T17:59:24.9081352+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:06:06.0930224+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:06:31.6327558+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:01.9571091+00:00",
-  "LastUpdate_Ratings": "2023-09-11T21:00:18.4384856+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:06:06.0930759+00:00"
+  "LastUpdate_Ratings": "2023-09-11T22:00:45.4389415+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:06:31.6328163+00:00"
 }

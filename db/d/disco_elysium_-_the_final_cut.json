@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1289,7 +1289,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127528,
+  "EOS_Progressed": 127529,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
@@ -15629,6 +15629,11 @@
       "Time": "2023-09-11T21:05:43.1808388+00:00",
       "NumProgressed": 127528,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-11T22:06:09.2251318+00:00",
+      "NumProgressed": 127529,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15744,7 +15749,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20404
+      "UsersEstimate": 20405
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -15776,7 +15781,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20404
+      "UsersEstimate": 20405
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -15959,15 +15964,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127528,
+      "Progressed": 127529,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:05:43.180838+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:06:09.225131+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:57:28.780375+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:05:43.1809098+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:57:45.1052563+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:06:09.2253006+00:00"
 }

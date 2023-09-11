@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 37.00% | ~241 |
-| Clean Race | 37.00% | ~241 |
-| Hear That Roar! | 36.00% | ~234 |
-| Eat My Dust | 30.00% | ~195 |
-| Rivals to the End | 28.00% | ~182 |
-| I'm Here Too! | 24.00% | ~156 |
-| We're Going to Need a Bigger Garage | 23.00% | ~150 |
-| Bitter Rivalry | 17.00% | ~111 |
-| I Want One Too! | 16.00% | ~104 |
-| Quick Pit Stop | 14.00% | ~91 |
-| Champagne Spray | 14.00% | ~91 |
+| First Love | 37.00% | ~243 |
+| Clean Race | 37.00% | ~243 |
+| Hear That Roar! | 36.00% | ~236 |
+| Eat My Dust | 30.00% | ~197 |
+| Rivals to the End | 28.00% | ~184 |
+| I'm Here Too! | 24.00% | ~157 |
+| We're Going to Need a Bigger Garage | 23.00% | ~151 |
+| Bitter Rivalry | 17.00% | ~112 |
+| I Want One Too! | 16.00% | ~105 |
+| Quick Pit Stop | 14.00% | ~92 |
+| Champagne Spray | 14.00% | ~92 |
 | Restored and Ready | 13.00% | ~85 |
-| Go-Faster Stripes | 12.00% | ~78 |
-| Legendary!!! | 12.00% | ~78 |
-| We've Just Begun | 6.00% | ~39 |
+| Go-Faster Stripes | 12.00% | ~79 |
+| Legendary!!! | 12.00% | ~79 |
 | Stamina Star | 5.00% | ~33 |
 | Is It the Right Size? | 5.00% | ~33 |
 | Evangelist | 5.00% | ~33 |
+| We've Just Begun | 5.00% | ~33 |
+| Make It Your Own! | 4.00% | ~26 |
 | Still Here | 4.00% | ~26 |
-| Make It Your Own! | 3.00% | ~20 |
 | Iconic! | 2.00% | ~13 |
 | Spoilt for Choice | 2.00% | ~13 |
 | Cherry Blossom and Temples | 2.00% | ~13 |
 | La Dolce Vita | 2.00% | ~13 |
 | The Road to Liberty | 2.00% | ~13 |
+| Romantic Races | 2.00% | ~13 |
 | I Make the Rules! | 2.00% | ~13 |
 | I'll Be the Best! | 1.00% | ~7 |
-| Romantic Races | 1.00% | ~7 |
 | Rounding Off | 1.00% | ~7 |
 | My Work Here Is Done | 1.00% | ~7 |
 | Overtaking the Master | 0.90% | ~6 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 230)  
+Progressed: 656 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 425 | 0 |
 | 2023-09-09 | 508 | 0 |
 | 2023-09-10 | 595 | 0 |
-| 2023-09-11 | 651 | 0 |
+| 2023-09-11 | 656 | 0 |

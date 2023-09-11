@@ -1,7 +1,7 @@
 # Ravenous Devils
 [Store](https://store.epicgames.com/en-US/p/ravenous-devils-7a89e1)  
 [View Rawdata](../../db/r/ravenous_devils.json)  
-Rating: 4.52 (Ranked 532)  
+Rating: 4.53 (Ranked 519)  
 Number of Ratings: 47  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -33,3 +33,4 @@ Number of Ratings: 47  (23.09.2022)
 | 2023-03-31 | 4.50 | - | 0 | 0 |
 | 2023-07-31 | 4.51 | - | 0 | 0 |
 | 2023-08-04 | 4.52 | - | 0 | 0 |
+| 2023-09-11 | 4.53 | - | 0 | 0 |

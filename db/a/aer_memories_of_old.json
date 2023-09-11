@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19887,
+  "EOS_Progressed": 19889,
   "EOS_Completed": 396,
-  "EOS_NewPlayers": 458,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -15848,6 +15848,11 @@
       "Time": "2023-09-11T21:05:25.3991811+00:00",
       "NumProgressed": 19887,
       "NumCompleted": 396
+    },
+    {
+      "Time": "2023-09-11T22:05:51.8331768+00:00",
+      "NumProgressed": 19889,
+      "NumCompleted": 396
     }
   ],
   "TotalAchievements": 20,
@@ -15891,7 +15896,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -15915,7 +15920,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -15955,7 +15960,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -15971,7 +15976,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "INTRO_FINISHED",
@@ -15979,7 +15984,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15313
+      "UsersEstimate": 15315
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15987,7 +15992,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5568
+      "UsersEstimate": 5569
     },
     {
       "ID": "NORTH_FINISHED",
@@ -15995,7 +16000,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -16018,15 +16023,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19887,
+      "Progressed": 19889,
       "Completed": 396
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:05:25.3991805+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:05:51.8331763+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:57:44.8528564+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:05:25.3992641+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:58:03.3120579+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:05:51.8332807+00:00"
 }

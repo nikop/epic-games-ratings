@@ -4434,9 +4434,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 678186,
+  "EOS_Progressed": 678213,
   "EOS_Completed": 2137,
-  "EOS_NewPlayers": 4591,
+  "EOS_NewPlayers": 4589,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20594,6 +20594,11 @@
       "Time": "2023-09-11T21:02:21.340326+00:00",
       "NumProgressed": 678186,
       "NumCompleted": 2137
+    },
+    {
+      "Time": "2023-09-11T22:03:21.0894018+00:00",
+      "NumProgressed": 678213,
+      "NumCompleted": 2137
     }
   ],
   "TotalAchievements": 45,
@@ -20683,9 +20688,9 @@
       "ID": "ach_defensive",
       "SetID": "7km39fm",
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5425
+      "UsersEstimate": 6104
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -20964,22 +20969,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 678186,
+      "Progressed": 678213,
       "Completed": 2137
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 3727,
-      "Completed": 3727
+      "Progressed": 3754,
+      "Completed": 3754
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-11T16:01:17.4836187+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:02:21.3403251+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:03:21.0894011+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-11T21:00:55.2318102+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:02:21.3414536+00:00"
+  "LastUpdate_Ratings": "2023-09-11T22:01:25.9071006+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:03:21.0895992+00:00"
 }

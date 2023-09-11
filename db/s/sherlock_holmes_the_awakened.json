@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -64,11 +64,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 645,
+  "EOS_Progressed": 646,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.88,
+  "EOS_Completed_Percentage": 3.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2334,6 +2334,11 @@
       "Time": "2023-09-11T18:04:21.0561048+00:00",
       "NumProgressed": 645,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-11T22:05:04.7961312+00:00",
+      "NumProgressed": 646,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2353,7 +2358,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "MQ02_1",
@@ -2401,7 +2406,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "MQ03_3",
@@ -2431,9 +2436,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 252
     },
     {
       "ID": "MQ04_2",
@@ -2449,7 +2454,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "MQ05_1",
@@ -2463,9 +2468,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 297
     },
     {
       "ID": "MQ05_3",
@@ -2497,7 +2502,7 @@
       "Name": "Bookworm",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "MQ06_3",
@@ -2511,9 +2516,9 @@
       "ID": "MQ06_4",
       "SetID": "bbing49",
       "Name": "No Man Is An Island",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 303
+      "UsersEstimate": 297
     },
     {
       "ID": "MQ07_1",
@@ -2535,9 +2540,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 239
     },
     {
       "ID": "MQ08_2",
@@ -2568,7 +2573,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 645,
+      "Progressed": 646,
       "Completed": 25
     }
   ],
@@ -2576,8 +2581,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:04:36.9031879+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:05:04.7961307+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:59:57.8756301+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:04:36.9032147+00:00"
+  "LastUpdate_Ratings": "2023-09-11T22:00:23.7570699+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:05:04.7961648+00:00"
 }

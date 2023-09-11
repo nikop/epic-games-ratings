@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1172,9 +1172,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15930,
+  "EOS_Progressed": 15931,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6917,6 +6917,11 @@
       "Time": "2023-09-10T20:03:54.8485088+00:00",
       "NumProgressed": 15930,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-11T22:04:48.4741004+00:00",
+      "NumProgressed": 15931,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -7104,7 +7109,7 @@
       "Name": "Paper Jams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "SHARE_PHOTO",
@@ -7254,9 +7259,9 @@
       "ID": "FIND_ALL_DATA_DRIVES",
       "SetID": "6j5ggkc",
       "Name": "Information Overload",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -7303,13 +7308,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15930,
+      "Progressed": 15931,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3856,
+      "Progressed": 3857,
       "Completed": 29
     }
   ],
@@ -7317,8 +7322,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-11T20:00:03.1009674+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:04:20.145018+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:04:48.4740998+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:20.3899843+00:00",
-  "LastUpdate_Ratings": "2023-09-11T21:00:34.8282051+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:04:20.1450711+00:00"
+  "LastUpdate_Ratings": "2023-09-11T22:01:04.0286275+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:04:48.4741778+00:00"
 }

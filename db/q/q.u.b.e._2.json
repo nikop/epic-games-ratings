@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -1425,9 +1425,9 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_OASIS",
@@ -1497,9 +1497,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
@@ -1513,8 +1513,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:05:59.5066708+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:06:25.1761368+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:59:44.0988085+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:05:59.5066918+00:00"
+  "LastUpdate_Ratings": "2023-09-11T22:00:09.60084+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:06:25.1761634+00:00"
 }

@@ -23,17 +23,17 @@
 | The Investigation Begins | 25.00% | ~3 |
 | Truth from within | 17.00% | ~2 |
 | An odd series of events | 17.00% | ~2 |
+| A rude awakening | 17.00% | ~2 |
 | Ms. Camilla B. Culsham | 17.00% | ~2 |
 | Irene Court-Smyth | 17.00% | ~2 |
+| Nathaniel Dryden | 17.00% | ~2 |
+| Bartholomew | 17.00% | ~2 |
 | The Apartment | 17.00% | ~2 |
+| The Scheme | 17.00% | ~2 |
 | Well-acquainted | 8.00% | ~1 |
-| A rude awakening | 8.00% | ~1 |
 | A curious phrase | 8.00% | ~1 |
 | Anastasia Babanin | 8.00% | ~1 |
-| Nathaniel Dryden | 8.00% | ~1 |
 | Zakariya Demir | 8.00% | ~1 |
-| Bartholomew | 8.00% | ~1 |
-| The Scheme | 8.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |
 | A treasured heirloom | 0.00% | ~0 |

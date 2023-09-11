@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -713,9 +713,9 @@
       "ID": "killZombie50",
       "SetID": "ci65fo0",
       "Name": "Threat to the undead",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "locBanditBoss",
@@ -1041,9 +1041,9 @@
       "ID": "questWellCleaner",
       "SetID": "ci65fo0",
       "Name": "Cleaner of the Horrible Well",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "survivalGraveyard",
@@ -1070,8 +1070,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:08:13.2291158+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:09:06.1442696+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:59:01.0477091+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:08:13.2291816+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:59:23.7155792+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:09:06.1443511+00:00"
 }

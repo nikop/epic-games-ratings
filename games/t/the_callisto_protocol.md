@@ -6,7 +6,7 @@ Rating: 4.19 (Ranked 872)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 6.00% | ~956 |
-| Paper Jams | 5.00% | ~796 |
+| Paper Jams | 5.00% | ~797 |
 | Flesh Wound | 4.00% | ~637 |
 | Two Heads Are Better Than One | 4.00% | ~637 |
 | Chew 'Em Up | 4.00% | ~637 |
@@ -32,11 +32,11 @@ Rating: 4.19 (Ranked 872)
 | The Commonality | 2.00% | ~319 |
 | One Last Job | 2.00% | ~77 |
 | This Isn't About Escape | 1.00% | ~39 |
+| Information Overload | 0.70% | ~27 |
 | Armed to the Teeth | 0.60% | ~23 |
 | Grim Reaper | 0.60% | ~96 |
 | Parole Denied | 0.60% | ~23 |
 | Big Spender | 0.60% | ~23 |
-| Information Overload | 0.60% | ~23 |
 | Quick Pick | 0.50% | ~19 |
 | Mugshot | 0.40% | ~64 |
 | Instigator | 0.40% | ~15 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 872)
 | Hoard Mode | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,930 (Ranked 120)  
+Progressed: 15,931 (Ranked 120)  
 Completed: 73 (0.46%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 73 (0.46%) (Ranked 158)
 | 2023-09-08 | 15,924 | 73 |
 | 2023-09-09 | 15,927 | 73 |
 | 2023-09-10 | 15,930 | 73 |
+| 2023-09-11 | 15,931 | 73 |
 ## Awards
 Max (Amazing Storytelling): 73  (Ranked 377)  
 Sum: 422 (Ranked 318)  

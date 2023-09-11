@@ -14,13 +14,13 @@
 | Freezing Cold | 17.00% | ~11 |
 | The Power of the Mountains | 17.00% | ~11 |
 | Searing Heat | 14.00% | ~9 |
+| Nothing but the Truth | 14.00% | ~9 |
 | Expert | 14.00% | ~9 |
 | Changing the World | 14.00% | ~9 |
-| Nothing but the Truth | 13.00% | ~8 |
 | The Golden Flash | 13.00% | ~8 |
+| Locked and Loaded | 11.00% | ~7 |
 | Craftsmen | 10.00% | ~6 |
 | Through Dangers Untold | 10.00% | ~6 |
-| Locked and Loaded | 10.00% | ~6 |
 | Witch | 10.00% | ~6 |
 | Mirror, Mirror on the Wall | 6.00% | ~4 |
 | Defeat Uskol | 6.00% | ~4 |

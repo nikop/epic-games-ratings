@@ -4,7 +4,7 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -457,6 +457,11 @@
       "Time": "2023-09-03T06:02:19.4122419+00:00",
       "NumProgressed": 358,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T22:04:55.3099507+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -500,7 +505,7 @@
       "Name": "Exam Time",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "FifthGrade",
@@ -514,9 +519,9 @@
       "ID": "FirstGrade",
       "SetID": "6l18k14",
       "Name": "1st Grade",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 147
+      "UsersEstimate": 144
     },
     {
       "ID": "FourthGrade",
@@ -619,7 +624,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 0
     }
   ],
@@ -627,8 +632,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:04:27.1024576+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:04:55.3099503+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:02.5103742+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:58:06.9202657+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:04:27.1024712+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:58:25.782942+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:04:55.3099679+00:00"
 }

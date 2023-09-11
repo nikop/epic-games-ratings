@@ -219,9 +219,9 @@
       "ID": "ACH_024",
       "SetID": "7b646ck",
       "Name": "A rude awakening",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_025",
@@ -387,9 +387,9 @@
       "ID": "ACH_043",
       "SetID": "7b646ck",
       "Name": "Nathaniel Dryden",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_044",
@@ -403,9 +403,9 @@
       "ID": "ACH_045",
       "SetID": "7b646ck",
       "Name": "Bartholomew",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_046",
@@ -427,9 +427,9 @@
       "ID": "ACH_06",
       "SetID": "7b646ck",
       "Name": "The Scheme",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_07",
@@ -466,8 +466,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-09-11T21:05:39.3608193+00:00",
+  "LastChanged_Achievements": "2023-09-11T22:06:05.4285606+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.0541304+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:58:44.7072574+00:00",
-  "LastUpdate_Achievements": "2023-09-11T21:05:39.3608526+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:59:05.6338219+00:00",
+  "LastUpdate_Achievements": "2023-09-11T22:06:05.4286028+00:00"
 }

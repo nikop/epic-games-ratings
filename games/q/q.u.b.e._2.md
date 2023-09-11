@@ -10,14 +10,14 @@ Number of Ratings: 94  (23.09.2022)
 | Quick Understanding of Block Extrusion | 55.00% | ~151 |
 | Nature or Nurture | 47.00% | ~129 |
 | Power Glove | 47.00% | ~129 |
-| Forgotten Memories | 45.00% | ~123 |
+| Forgotten Memories | 46.00% | ~126 |
 | Cogs in the Machine | 41.00% | ~112 |
 | Mission Success | 21.00% | ~58 |
 | Green Cube Killer | 18.00% | ~49 |
 | There's No Place Like Home | 18.00% | ~49 |
 | Descendants | 13.00% | ~36 |
+| Path to Salvation | 13.00% | ~36 |
 | Infinity Loop | 12.00% | ~33 |
-| Path to Salvation | 12.00% | ~33 |
 | The Flawed Teacher | 11.00% | ~30 |
 | To Infinity and Beyond | 5.00% | ~14 |
 | The Truthful Enemy | 5.00% | ~14 |
