@@ -2,9 +2,9 @@
   "ID": "ee266a6723e7470ea90016c445cd33f4",
   "Name": "The Artifact Hunter",
   "ProductSlug": "artifact-hunter-4767f0",
-  "Ranking_EOS_Progress": 585,
+  "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T11:00:02.8940545+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:57:50.9069979+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:06:26.7471868+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:57:53.2025472+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:06:48.4015769+00:00"
 }

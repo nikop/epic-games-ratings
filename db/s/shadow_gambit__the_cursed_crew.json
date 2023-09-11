@@ -2,7 +2,7 @@
   "ID": "42b8b899a3f349bd8376264ccee3cd2a",
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
-  "Ranking_Rating": 162,
+  "Ranking_Rating": 163,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 231,
@@ -1821,9 +1821,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 57
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1870,8 +1870,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:03:18.5251538+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:03:39.4748163+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:00:08.1860729+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:03:18.5251851+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:00:11.2863239+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:03:39.4748474+00:00"
 }

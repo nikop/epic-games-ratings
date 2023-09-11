@@ -2,9 +2,9 @@
   "ID": "f564b0d71d6341a69281920f727732c6",
   "Name": "Sword of the Spirit",
   "ProductSlug": "sword-of-the-spirit-ef00eb",
-  "Ranking_EOS_Progress": 585,
+  "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T09:57:20.8540852+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:59:43.7522829+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:03:51.5596912+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:59:46.674082+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:04:12.7802847+00:00"
 }

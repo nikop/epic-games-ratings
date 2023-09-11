@@ -2,7 +2,7 @@
   "ID": "78705aae6f39495e920966615c7a22ae",
   "Name": "Sonic Origins",
   "ProductSlug": "sonic-origins",
-  "Ranking_Rating": 430,
+  "Ranking_Rating": 429,
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 247,
@@ -2228,9 +2228,9 @@
       "ID": "ID_31_SONIC1_CLEAR_ALL_STAGE",
       "SetID": "7o8nc5m",
       "Name": "Cleared Sonic the Hedgehog",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 232
+      "UsersEstimate": 237
     },
     {
       "ID": "ID_32_SONICCD_CLEAR_ALL_STAGE",
@@ -2276,8 +2276,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:04:51.5109983+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:05:13.4113712+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.7477215+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:59:44.408454+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:04:51.5110354+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:59:47.2900097+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:05:13.4114094+00:00"
 }

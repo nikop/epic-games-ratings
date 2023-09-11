@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107313,
+  "EOS_Progressed": 107315,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 952,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10466,6 +10466,11 @@
       "Time": "2023-09-11T09:06:23.1965039+00:00",
       "NumProgressed": 107313,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-09-11T10:06:44.81616+00:00",
+      "NumProgressed": 107315,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 49,
@@ -10485,7 +10490,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81558
+      "UsersEstimate": 81559
     },
     {
       "ID": "EAwards_10",
@@ -10493,7 +10498,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11804
+      "UsersEstimate": 11805
     },
     {
       "ID": "EAwards_11",
@@ -10501,7 +10506,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 27901
+      "UsersEstimate": 27902
     },
     {
       "ID": "EAwards_12",
@@ -10533,7 +10538,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10731
+      "UsersEstimate": 10732
     },
     {
       "ID": "EAwards_16",
@@ -10573,7 +10578,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51510
+      "UsersEstimate": 51511
     },
     {
       "ID": "EAwards_20",
@@ -10581,7 +10586,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10731
+      "UsersEstimate": 10732
     },
     {
       "ID": "EAwards_21",
@@ -10621,7 +10626,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19316
+      "UsersEstimate": 19317
     },
     {
       "ID": "EAwards_26",
@@ -10629,7 +10634,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10731
+      "UsersEstimate": 10732
     },
     {
       "ID": "EAwards_27",
@@ -10661,7 +10666,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20389
+      "UsersEstimate": 20390
     },
     {
       "ID": "EAwards_30",
@@ -10677,7 +10682,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10731
+      "UsersEstimate": 10732
     },
     {
       "ID": "EAwards_32",
@@ -10845,7 +10850,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11804
+      "UsersEstimate": 11805
     },
     {
       "ID": "EAwards_8",
@@ -10853,7 +10858,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11804
+      "UsersEstimate": 11805
     },
     {
       "ID": "EAwards_9",
@@ -10861,14 +10866,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10731
+      "UsersEstimate": 10732
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107313,
+      "Progressed": 107315,
       "Completed": 41
     }
   ],
@@ -10876,8 +10881,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:06:23.1965033+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:06:44.8161591+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.278544+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:58:57.8410429+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:06:23.1966079+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:59:01.3861819+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:06:44.8162734+00:00"
 }

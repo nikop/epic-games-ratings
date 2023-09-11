@@ -2630,9 +2630,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 642961,
+  "EOS_Progressed": 642963,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1944,
+  "EOS_NewPlayers": 1936,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18685,6 +18685,11 @@
       "Time": "2023-09-11T09:05:29.9041278+00:00",
       "NumProgressed": 642961,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-11T10:05:51.6965629+00:00",
+      "NumProgressed": 642963,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 52,
@@ -18736,7 +18741,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 109303
+      "UsersEstimate": 109304
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -18744,7 +18749,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 77155
+      "UsersEstimate": 77156
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -19104,22 +19109,22 @@
       "Name": "Saved by Nausica\u00E4",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 25718
+      "UsersEstimate": 25719
     }
   ],
   "AchievementSets": [
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 642961,
+      "Progressed": 642963,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-09T11:01:36.7166719+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:05:29.9041273+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:05:51.6965621+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.8163161+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:58:49.219579+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:05:29.904266+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:58:53.3542728+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:05:51.6967196+00:00"
 }

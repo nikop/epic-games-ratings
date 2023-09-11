@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 692,
+  "EOS_Progressed": 693,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.98,
+  "EOS_Completed_Percentage": 10.97,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2356,6 +2356,11 @@
       "Time": "2023-09-10T22:04:14.0852791+00:00",
       "NumProgressed": 692,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-09-11T10:03:59.8321042+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 30,
@@ -2367,7 +2372,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "LEVEL_002",
@@ -2375,7 +2380,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "LEVEL_003",
@@ -2383,7 +2388,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "LEVEL_004",
@@ -2391,7 +2396,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "LEVEL_005",
@@ -2399,7 +2404,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "LEVEL_006",
@@ -2423,7 +2428,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "LEVEL_009",
@@ -2471,7 +2476,7 @@
       "Name": "Cross-country",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "LEVEL_015",
@@ -2479,7 +2484,7 @@
       "Name": "Flatland",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "LEVEL_016",
@@ -2606,14 +2611,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 692,
+      "Progressed": 693,
       "Completed": 76
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:03:38.6722442+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:03:59.8321038+00:00",
   "LastUpdate_AppInfo": "2023-09-04T20:56:55.1080703+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:59:13.5513658+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:03:38.6722821+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:59:16.3618322+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:03:59.8321431+00:00"
 }

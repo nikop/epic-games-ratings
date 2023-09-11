@@ -1,49 +1,49 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.58 (Ranked 429)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~236,497 |
-| Into the Unknown | 35.00% | ~217,826 |
-| First Shot | 35.00% | ~217,826 |
-| Herzlich Wilkommen! | 33.00% | ~205,379 |
-| Good Night & Good Luck | 33.00% | ~205,379 |
-| Sancho Panza | 31.00% | ~192,932 |
-| Oh, So This Is How It Works! | 29.00% | ~180,484 |
-| Flag Burning | 27.00% | ~168,037 |
-| It Wasn't That Hard, Was It? | 25.00% | ~155,590 |
-| Can't Touch This! | 25.00% | ~155,590 |
-| Under Pressure | 24.00% | ~149,366 |
-| On the Trail of the Enemy | 24.00% | ~149,366 |
-| Light in the Darkness | 24.00% | ~149,366 |
-| Get Outta My House! | 23.00% | ~143,143 |
-| Night Hunter | 22.00% | ~136,919 |
-| Being All Social | 22.00% | ~136,919 |
-| After the Fall | 20.00% | ~124,472 |
-| We Will Be Heard! | 18.00% | ~112,025 |
-| Tunnel Entrance | 18.00% | ~112,025 |
-| Known Associate | 17.00% | ~105,801 |
-| Brush with Death | 16.00% | ~99,578 |
-| Debris and Ashes | 15.00% | ~93,354 |
-| Going Down | 15.00% | ~93,354 |
-| Family First | 15.00% | ~93,354 |
-| Your World, Your Rules | 15.00% | ~93,354 |
-| Death From Afar | 14.00% | ~87,130 |
-| Terminal Headache | 14.00% | ~87,130 |
-| Slowpoke! | 12.00% | ~74,683 |
-| Tickets, Please! | 7.00% | ~43,565 |
+| You Never Forget Your First... | 38.00% | ~236,502 |
+| Into the Unknown | 35.00% | ~217,831 |
+| First Shot | 35.00% | ~217,831 |
+| Herzlich Wilkommen! | 33.00% | ~205,383 |
+| Good Night & Good Luck | 33.00% | ~205,383 |
+| Sancho Panza | 31.00% | ~192,936 |
+| Oh, So This Is How It Works! | 29.00% | ~180,488 |
+| Flag Burning | 27.00% | ~168,041 |
+| It Wasn't That Hard, Was It? | 25.00% | ~155,593 |
+| Can't Touch This! | 25.00% | ~155,593 |
+| Under Pressure | 24.00% | ~149,370 |
+| On the Trail of the Enemy | 24.00% | ~149,370 |
+| Light in the Darkness | 24.00% | ~149,370 |
+| Get Outta My House! | 23.00% | ~143,146 |
+| Night Hunter | 22.00% | ~136,922 |
+| Being All Social | 22.00% | ~136,922 |
+| After the Fall | 20.00% | ~124,475 |
+| We Will Be Heard! | 18.00% | ~112,027 |
+| Tunnel Entrance | 18.00% | ~112,027 |
+| Known Associate | 17.00% | ~105,803 |
+| Brush with Death | 16.00% | ~99,580 |
+| Debris and Ashes | 15.00% | ~93,356 |
+| Going Down | 15.00% | ~93,356 |
+| Family First | 15.00% | ~93,356 |
+| Your World, Your Rules | 15.00% | ~93,356 |
+| Death From Afar | 14.00% | ~87,132 |
+| Terminal Headache | 14.00% | ~87,132 |
+| Slowpoke! | 12.00% | ~74,685 |
+| Tickets, Please! | 7.00% | ~43,566 |
 | Parkour Master | 6.00% | ~37,342 |
 | Combat Master | 6.00% | ~37,342 |
-| Municipal Services | 5.00% | ~31,118 |
-| Ban Hammer | 5.00% | ~31,118 |
-| Modder | 5.00% | ~31,118 |
-| Tube Map | 4.00% | ~24,894 |
-| Don Quixote | 4.00% | ~24,894 |
-| Can't You Read the Signs? | 4.00% | ~24,894 |
-| Boot Licker | 4.00% | ~24,894 |
+| Municipal Services | 5.00% | ~31,119 |
+| Ban Hammer | 5.00% | ~31,119 |
+| Modder | 5.00% | ~31,119 |
+| Tube Map | 4.00% | ~24,895 |
+| Don Quixote | 4.00% | ~24,895 |
+| Can't You Read the Signs? | 4.00% | ~24,895 |
+| Boot Licker | 4.00% | ~24,895 |
 | Tanning Salon | 3.00% | ~18,671 |
 | That's Teamwork! | 3.00% | ~18,671 |
 | Ironheart | 3.00% | ~18,671 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~268 |
 | Connoisseur | 0.10% | ~268 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 622,360 (Ranked 27)  
+Progressed: 622,373 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 62 (0.01%) (Ranked 259)
 | 2023-09-08 | 621,041 | 62 |
 | 2023-09-09 | 621,608 | 62 |
 | 2023-09-10 | 622,241 | 62 |
-| 2023-09-11 | 622,360 | 62 |
+| 2023-09-11 | 622,373 | 62 |
 ## Awards
 Max (Character Customization): 9,061  (Ranked 39)  
 Sum: 21,928 (Ranked 53)  

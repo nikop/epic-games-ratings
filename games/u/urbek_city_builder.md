@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | I am very happy! | 0.60% | ~2 |
 | I like books | 0.30% | ~1 |
+| The spiritual world... | 0.30% | ~1 |
 | I like my life | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
@@ -36,7 +37,6 @@
 | Desert master | 0.00% | ~0 |
 | How scary! | 0.00% | ~0 |
 | Haunted city | 0.00% | ~0 |
-| The spiritual world... | 0.00% | ~0 |
 | What is there after death? | 0.00% | ~0 |
 | Fear God, you sinners! | 0.00% | ~0 |
 | Perfect city | 0.00% | ~0 |

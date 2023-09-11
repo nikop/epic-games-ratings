@@ -811,9 +811,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8944,
+  "EOS_Progressed": 8946,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9016,6 +9016,11 @@
       "Time": "2023-09-11T09:03:45.4445952+00:00",
       "NumProgressed": 8944,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-11T10:04:06.55863+00:00",
+      "NumProgressed": 8946,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -9027,7 +9032,7 @@
       "Name": "Adventure Time",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -9035,7 +9040,7 @@
       "Name": "Booty Bashing",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 3488
+      "UsersEstimate": 3489
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -9059,7 +9064,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 5188
+      "UsersEstimate": 5189
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -9091,7 +9096,7 @@
       "Name": "Get Furious",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5009
+      "UsersEstimate": 5010
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -9099,7 +9104,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -9107,7 +9112,7 @@
       "Name": "Grey Goo",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "ACH_GROUND_CONTROL",
@@ -9123,7 +9128,7 @@
       "Name": "Guardian Angel",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2504
+      "UsersEstimate": 2505
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -9131,7 +9136,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 4830
+      "UsersEstimate": 4831
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -9139,7 +9144,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 4919
+      "UsersEstimate": 4920
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -9147,7 +9152,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3310
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -9171,7 +9176,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8050
+      "UsersEstimate": 8051
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -9179,7 +9184,7 @@
       "Name": "Light My Fire",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ACH_MASTER_OF_ARMS",
@@ -9195,7 +9200,7 @@
       "Name": "Meching Enemies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -9203,7 +9208,7 @@
       "Name": "Nature Is Lit",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_NEXUWIZARD",
@@ -9227,7 +9232,7 @@
       "Name": "Photogenic",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 7781
+      "UsersEstimate": 7783
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -9235,7 +9240,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6887
+      "UsersEstimate": 6888
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -9243,7 +9248,7 @@
       "Name": "Plug It In",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 7424
+      "UsersEstimate": 7425
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -9283,7 +9288,7 @@
       "Name": "Seasoned Adventurer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -9299,7 +9304,7 @@
       "Name": "1.21 Gigawatts",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ACH_START_YOUR_COLLECTION",
@@ -9323,7 +9328,7 @@
       "Name": "Surge Ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2683
+      "UsersEstimate": 2684
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -9331,7 +9336,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7513
+      "UsersEstimate": 7515
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -9379,7 +9384,7 @@
       "Name": "This Is My Boomstick!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ACH_TICKET_TITAN",
@@ -9395,7 +9400,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3936
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -9419,22 +9424,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5098
+      "UsersEstimate": 5099
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8944,
+      "Progressed": 8946,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:03:45.4445947+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:04:06.5586295+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:57.1970022+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:00:32.0201046+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:03:45.4446874+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:00:35.1306441+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:04:06.5587304+00:00"
 }

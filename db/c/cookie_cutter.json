@@ -2,9 +2,9 @@
   "ID": "027598a2a0144763b922b5249f784929",
   "Name": "Cookie Cutter",
   "ProductSlug": "cookie-cutter-d25fbc",
-  "Ranking_EOS_Progress": 585,
+  "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T10:57:51.126827+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:58:27.5896361+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:05:11.4334399+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:58:31.0598521+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:05:34.0879542+00:00"
 }

@@ -634,9 +634,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9876,
+  "EOS_Progressed": 9877,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9264,6 +9264,11 @@
       "Time": "2023-09-11T01:48:03.8574285+00:00",
       "NumProgressed": 9876,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-11T10:06:02.5152361+00:00",
+      "NumProgressed": 9877,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 34,
@@ -9459,7 +9464,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACH25",
@@ -9467,7 +9472,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACH26",
@@ -9475,7 +9480,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACH27",
@@ -9546,7 +9551,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9876,
+      "Progressed": 9877,
       "Completed": 55
     }
   ],
@@ -9554,8 +9559,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-10T04:59:47.9925269+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:05:41.2456846+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:06:02.5152356+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:00:12.9378477+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:05:41.245762+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:00:16.1725062+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:06:02.5153194+00:00"
 }

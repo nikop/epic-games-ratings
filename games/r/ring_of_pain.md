@@ -1,32 +1,32 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.58 (Ranked 429)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,359 |
-| Uncharted Territory | 89.00% | ~209,854 |
-| Getting A Glimpse | 73.00% | ~172,127 |
-| A Quick Escape | 65.00% | ~153,264 |
-| Explorer | 62.00% | ~146,190 |
+| First Steps | 96.00% | ~226,360 |
+| Uncharted Territory | 89.00% | ~209,855 |
+| Getting A Glimpse | 73.00% | ~172,128 |
+| A Quick Escape | 65.00% | ~153,265 |
+| Explorer | 62.00% | ~146,191 |
 | Defeat The Dark | 61.00% | ~143,833 |
 | An Offering | 61.00% | ~143,833 |
 | Colorful Corpse | 58.00% | ~136,759 |
 | That Was Quick | 57.00% | ~134,401 |
 | A Donation | 57.00% | ~134,401 |
-| Goodbye, Frog Friend | 54.00% | ~127,327 |
-| Heavy Hitter | 53.00% | ~124,969 |
+| Goodbye, Frog Friend | 54.00% | ~127,328 |
+| Heavy Hitter | 53.00% | ~124,970 |
 | Heartless | 46.00% | ~108,464 |
 | Spine Breaker | 46.00% | ~108,464 |
 | Deflection | 45.00% | ~106,106 |
-| Sneaky | 43.00% | ~101,390 |
-| Delving Deeper | 42.00% | ~99,032 |
-| C-C-Combo | 42.00% | ~99,032 |
-| Ambitious Intent | 41.00% | ~96,674 |
-| Nothing To Lose | 40.00% | ~94,316 |
-| The Bestiary | 40.00% | ~94,316 |
+| Sneaky | 43.00% | ~101,391 |
+| Delving Deeper | 42.00% | ~99,033 |
+| C-C-Combo | 42.00% | ~99,033 |
+| Ambitious Intent | 41.00% | ~96,675 |
+| Nothing To Lose | 40.00% | ~94,317 |
+| The Bestiary | 40.00% | ~94,317 |
 | What's Yours Is Mine | 38.00% | ~89,601 |
 | R.I.P | 37.00% | ~87,243 |
 | Shootout | 36.00% | ~84,885 |
@@ -35,9 +35,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dig Your Own Grave | 33.00% | ~77,811 |
 | Toxic | 33.00% | ~77,811 |
 | Who To Trust? | 32.00% | ~75,453 |
-| Flesh Wound | 29.00% | ~68,379 |
-| Stone Touch | 28.00% | ~66,021 |
-| Shadow Walker | 28.00% | ~66,021 |
+| Flesh Wound | 29.00% | ~68,380 |
+| Stone Touch | 28.00% | ~66,022 |
+| Shadow Walker | 28.00% | ~66,022 |
 | Consecutive Curses | 27.00% | ~63,664 |
 | Walk It Off | 27.00% | ~63,664 |
 | Acid Bath | 27.00% | ~63,664 |
@@ -49,10 +49,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Well Prepared | 20.00% | ~47,158 |
 | Just Chilling | 20.00% | ~47,158 |
 | Stop Hitting Yourself | 19.00% | ~44,800 |
-| All Consuming | 18.00% | ~42,442 |
-| Shadow Spreads | 17.00% | ~40,084 |
-| Don't Ignore Me! | 17.00% | ~40,084 |
-| Illuminate, Eliminate | 17.00% | ~40,084 |
+| All Consuming | 18.00% | ~42,443 |
+| Shadow Spreads | 17.00% | ~40,085 |
+| Don't Ignore Me! | 17.00% | ~40,085 |
+| Illuminate, Eliminate | 17.00% | ~40,085 |
 | Max Damage! | 16.00% | ~37,727 |
 | Doing Time | 16.00% | ~37,727 |
 | Spreading Plague | 15.00% | ~35,369 |
@@ -78,12 +78,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Fire Away! | 7.00% | ~16,505 |
 | Obsessed | 7.00% | ~16,505 |
 | Sentimental Value | 7.00% | ~16,505 |
-| A Long Climb | 6.00% | ~14,147 |
-| Grave Digger | 6.00% | ~14,147 |
-| Soul Stash | 6.00% | ~14,147 |
-| Power Score | 6.00% | ~14,147 |
-| Just Looking Around | 6.00% | ~14,147 |
-| Champion of the Day | 6.00% | ~14,147 |
+| A Long Climb | 6.00% | ~14,148 |
+| Grave Digger | 6.00% | ~14,148 |
+| Soul Stash | 6.00% | ~14,148 |
+| Power Score | 6.00% | ~14,148 |
+| Just Looking Around | 6.00% | ~14,148 |
+| Champion of the Day | 6.00% | ~14,148 |
 | Achievement Hunter | 5.00% | ~11,790 |
 | No Mercy | 5.00% | ~11,790 |
 | Hydrophobe | 4.00% | ~9,432 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,179 |
 | Near Death Experience | 0.30% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,791 (Ranked 51)  
+Progressed: 235,792 (Ranked 51)  
 Completed: 268 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 268 (0.11%) (Ranked 216)
 | 2023-09-08 | 235,657 | 266 |
 | 2023-09-09 | 235,720 | 266 |
 | 2023-09-10 | 235,778 | 266 |
-| 2023-09-11 | 235,791 | 268 |
+| 2023-09-11 | 235,792 | 268 |
 ## Awards
 Max (Great for Beginners): 1,495  (Ranked 123)  
 Sum: 13,047 (Ranked 74)  

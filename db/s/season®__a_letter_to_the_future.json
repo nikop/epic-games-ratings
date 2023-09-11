@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1213,
+  "EOS_Progressed": 1214,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
@@ -2201,6 +2201,11 @@
       "Time": "2023-09-11T04:03:16.2010355+00:00",
       "NumProgressed": 1213,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-11T10:03:11.6944147+00:00",
+      "NumProgressed": 1214,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 16,
@@ -2236,7 +2241,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -2284,7 +2289,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -2300,7 +2305,7 @@
       "Name": "Outside World Seer",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2316,7 +2321,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_THEEND",
@@ -2339,7 +2344,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1213,
+      "Progressed": 1214,
       "Completed": 50
     }
   ],
@@ -2347,8 +2352,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-11T08:02:25.6489928+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:03:11.6944134+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:42.2600513+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:00:20.6875318+00:00",
-  "LastUpdate_Achievements": "2023-09-11T08:02:25.6490212+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:00:24.192604+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:03:11.6964994+00:00"
 }

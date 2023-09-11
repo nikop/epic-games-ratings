@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -102,9 +102,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72955,
+  "EOS_Progressed": 72957,
   "EOS_Completed": 753,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -16082,6 +16082,11 @@
       "Time": "2023-09-11T09:03:59.1404748+00:00",
       "NumProgressed": 72955,
       "NumCompleted": 753
+    },
+    {
+      "Time": "2023-09-11T10:04:20.3688994+00:00",
+      "NumProgressed": 72957,
+      "NumCompleted": 753
     }
   ],
   "TotalAchievements": 25,
@@ -16125,7 +16130,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16050
+      "UsersEstimate": 16051
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -16187,9 +16192,9 @@
       "ID": "Magnetic Miracles",
       "SetID": "1e8d2nk",
       "Name": "Magnetic Miracles",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3648
+      "UsersEstimate": 2918
     },
     {
       "ID": "Master, Commander",
@@ -16213,7 +16218,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13861
+      "UsersEstimate": 13862
     },
     {
       "ID": "Nice Try",
@@ -16285,14 +16290,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5836
+      "UsersEstimate": 5837
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 72955,
+      "Progressed": 72957,
       "Completed": 753
     }
   ],
@@ -16300,8 +16305,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-09T23:58:12.669114+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:03:59.1404743+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:04:20.3688989+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.4518852+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:58:44.1854123+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:03:59.1405892+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:58:47.8123086+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:04:20.3690248+00:00"
 }

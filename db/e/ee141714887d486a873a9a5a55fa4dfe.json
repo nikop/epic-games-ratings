@@ -2,9 +2,9 @@
   "ID": "ee141714887d486a873a9a5a55fa4dfe",
   "Name": "To Hell With The Ugly",
   "ProductSlug": "to-hell-with-the-ugly-86ee3f",
-  "Ranking_EOS_Progress": 585,
+  "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-05T11:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-06-19T17:57:18.9416618+00:00",
   "FirstSeenAchievements": "2023-05-11T11:00:05.6886216+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:04:54.3129186+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:05:16.3912891+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:55.1234337+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:59:15.4136782+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:04:54.3129224+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:59:18.4214759+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:05:16.3912919+00:00"
 }

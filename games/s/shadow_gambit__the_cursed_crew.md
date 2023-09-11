@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.73 (Ranked 162)  
+Rating: 4.73 (Ranked 163)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,7 +24,7 @@ Rating: 4.73 (Ranked 162)
 | Privateer | 11.00% | ~69 |
 | Rustic Recipe | 10.00% | ~63 |
 | Tobacco Travesty | 9.00% | ~57 |
-| Accursed Artifacts | 8.00% | ~50 |
+| Accursed Artifacts | 9.00% | ~57 |
 | Lyrical Longing | 8.00% | ~50 |
 | Corsair | 5.00% | ~32 |
 | Freebooter | 4.00% | ~25 |

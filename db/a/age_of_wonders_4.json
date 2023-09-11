@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -336,9 +336,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5168,
+  "EOS_Progressed": 5169,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6091,6 +6091,11 @@
       "Time": "2023-09-11T04:05:04.6897966+00:00",
       "NumProgressed": 5168,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-11T10:05:02.9135673+00:00",
+      "NumProgressed": 5169,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6230,7 +6235,7 @@
       "Name": "Secret Technique",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "25",
@@ -6244,9 +6249,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 310
     },
     {
       "ID": "27",
@@ -6501,13 +6506,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5168,
+      "Progressed": 5169,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5168,
+      "Progressed": 5169,
       "Completed": 6
     }
   ],
@@ -6515,8 +6520,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:04:41.1542085+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:05:02.9135668+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:36.514266+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:57:23.2985022+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:04:41.1542908+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:57:24.4195558+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:05:02.9136442+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "452cddcfbbaf4ce8b8f584a06f0c7c29",
   "Name": "Tesla\u0027s Best Friend",
   "ProductSlug": "teslas-best-friend-c2acf4",
-  "Ranking_EOS_Progress": 585,
+  "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-22T14:00:00+00:00",
@@ -31,5 +31,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T10:59:12.8735502+00:00",
   "LastUpdate_Ratings": "2023-09-11T09:00:41.4979185+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:04:10.1252362+00:00"
+  "LastUpdate_Achievements": "2023-09-11T10:04:31.8037564+00:00"
 }

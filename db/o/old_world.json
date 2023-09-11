@@ -11425,9 +11425,9 @@
       "ID": "ACHIEVEMENT_BEFORE_MONGOL_HORDE",
       "SetID": "9201eeb",
       "Name": "Before the Mongol Horde",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_BLADE_OF_THE_MONKEY",
@@ -13679,8 +13679,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:06:11.944846+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:06:33.4125168+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:59:58.5755911+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:06:11.9458008+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:00:01.1955066+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:06:33.413413+00:00"
 }

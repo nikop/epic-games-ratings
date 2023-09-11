@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2754,18 +2754,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 4365,
       "NumberOfAwardsMax": 2628
+    },
+    {
+      "Time": "2023-09-11T09:57:44.7268314+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4375,
+      "NumberOfAwardsMax": 2638
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4365,
-  "NumberOfAwardsMax": 2628,
+  "NumberOfAwards": 4375,
+  "NumberOfAwardsMax": 2638,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2628
+      "Count": 2638
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2822,9 +2828,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72403,
+  "EOS_Progressed": 72405,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 2050,
+  "EOS_NewPlayers": 2030,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15077,6 +15083,11 @@
       "Time": "2023-09-11T09:05:46.8536587+00:00",
       "NumProgressed": 72403,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-11T10:06:08.3503378+00:00",
+      "NumProgressed": 72405,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15168,7 +15179,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8688
+      "UsersEstimate": 8689
     },
     {
       "ID": "APPLY_STATUS",
@@ -15176,7 +15187,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10860
+      "UsersEstimate": 10861
     },
     {
       "ID": "CHALLENGES_1",
@@ -15184,7 +15195,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11584
+      "UsersEstimate": 11585
     },
     {
       "ID": "CLAYFACE_1",
@@ -15208,7 +15219,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10136
+      "UsersEstimate": 10137
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -15248,7 +15259,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9412
+      "UsersEstimate": 9413
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -15264,7 +15275,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8688
+      "UsersEstimate": 8689
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -15296,7 +15307,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9412
+      "UsersEstimate": 9413
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -15336,7 +15347,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10136
+      "UsersEstimate": 10137
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -15392,7 +15403,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 25341
+      "UsersEstimate": 25342
     },
     {
       "ID": "HARLEY_2",
@@ -15416,7 +15427,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10860
+      "UsersEstimate": 10861
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -15432,7 +15443,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37650
+      "UsersEstimate": 37651
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15480,7 +15491,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24617
+      "UsersEstimate": 24618
     },
     {
       "ID": "MYSTERY_02",
@@ -15520,7 +15531,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10136
+      "UsersEstimate": 10137
     },
     {
       "ID": "MYSTERY_07",
@@ -15528,7 +15539,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9412
+      "UsersEstimate": 9413
     },
     {
       "ID": "MYSTERY_08",
@@ -15536,7 +15547,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8688
+      "UsersEstimate": 8689
     },
     {
       "ID": "SECRET_CACHE",
@@ -15544,7 +15555,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -15575,22 +15586,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72403,
+      "Progressed": 72405,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42683,
+      "Progressed": 42685,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-11T04:57:55.3587674+00:00",
-  "LastChanged_Achievements": "2023-09-11T09:05:46.8536581+00:00",
+  "LastChanged": "2023-09-11T09:57:44.7268313+00:00",
+  "LastChanged_Achievements": "2023-09-11T10:06:08.3503372+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-11T08:57:43.1797241+00:00",
-  "LastUpdate_Achievements": "2023-09-11T09:05:46.8537899+00:00"
+  "LastUpdate_Ratings": "2023-09-11T09:57:44.7268318+00:00",
+  "LastUpdate_Achievements": "2023-09-11T10:06:08.3504781+00:00"
 }

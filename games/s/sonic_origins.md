@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 430)  
+Rating: 4.58 (Ranked 429)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,7 +20,7 @@ Number of Ratings: 154  (23.09.2022)
 | Miles "Tails" Prower | 60.00% | ~278 |
 | Bubbly Breath | 58.00% | ~269 |
 | Boss Rush Attempt | 54.00% | ~251 |
-| Cleared Sonic the Hedgehog | 50.00% | ~232 |
+| Cleared Sonic the Hedgehog | 51.00% | ~237 |
 | Super Sonic | 46.00% | ~213 |
 | Beware Stingers! | 45.00% | ~209 |
 | Very First Mission Clear! | 45.00% | ~209 |

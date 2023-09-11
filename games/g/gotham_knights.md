@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,650 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,341 |
-| Loose Ends | 34.00% | ~24,617 |
+| First Step Into the Knight | 52.00% | ~37,651 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,342 |
+| Loose Ends | 34.00% | ~24,618 |
 | To the Victor Go the Spoils | 28.00% | ~20,273 |
 | Knighthood | 27.00% | ~19,549 |
 | Get ReQ'd | 25.00% | ~18,101 |
@@ -22,19 +22,19 @@ Rating: 4.18 (Ranked 883)
 | Snow Problem | 19.00% | ~13,757 |
 | The Show Mud Go On | 18.00% | ~13,033 |
 | From Inside Gotham's Walls | 17.00% | ~12,309 |
-| Protector of Gotham | 16.00% | ~11,584 |
-| In Your Element | 15.00% | ~10,860 |
-| Universal Health Scare | 15.00% | ~10,860 |
-| Rock and a Hard Place | 14.00% | ~10,136 |
-| Cooldown | 14.00% | ~10,136 |
-| Voiceless | 14.00% | ~10,136 |
-| Not On My Watch | 13.00% | ~9,412 |
-| Shock Til They Drop | 13.00% | ~9,412 |
-| Seeking Asylum | 13.00% | ~9,412 |
-| End of an Era | 12.00% | ~8,688 |
-| Bulldozed | 12.00% | ~8,688 |
-| Gotham Knight | 12.00% | ~8,688 |
-| Gotham City Confidential | 11.00% | ~7,964 |
+| Protector of Gotham | 16.00% | ~11,585 |
+| In Your Element | 15.00% | ~10,861 |
+| Universal Health Scare | 15.00% | ~10,861 |
+| Rock and a Hard Place | 14.00% | ~10,137 |
+| Cooldown | 14.00% | ~10,137 |
+| Voiceless | 14.00% | ~10,137 |
+| Not On My Watch | 13.00% | ~9,413 |
+| Shock Til They Drop | 13.00% | ~9,413 |
+| Seeking Asylum | 13.00% | ~9,413 |
+| End of an Era | 12.00% | ~8,689 |
+| Bulldozed | 12.00% | ~8,689 |
+| Gotham Knight | 12.00% | ~8,689 |
+| Gotham City Confidential | 11.00% | ~7,965 |
 | Drone You Out | 9.00% | ~6,516 |
 | Out of Their League | 8.00% | ~5,792 |
 | Solid Alibi | 8.00% | ~5,792 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,403 (Ranked 82)  
+Progressed: 72,405 (Ranked 82)  
 Completed: 112 (0.15%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,14 +211,14 @@ Completed: 112 (0.15%) (Ranked 205)
 | 2023-09-08 | 72,185 | 112 |
 | 2023-09-09 | 72,298 | 112 |
 | 2023-09-10 | 72,379 | 112 |
-| 2023-09-11 | 72,403 | 112 |
+| 2023-09-11 | 72,405 | 112 |
 ## Awards
-Max (Great Boss Battles): 2,628  (Ranked 97)  
-Sum: 4,365 (Ranked 139)  
+Max (Great Boss Battles): 2,638  (Ranked 97)  
+Sum: 4,375 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,628 |
+| This game has Great Boss Battles | 2,638 |
 | This game is Extremely Fun | 226 |
 | This game has Quickly Understood Controls | 223 |
 | This game is Relaxing | 218 |
@@ -429,4 +429,4 @@ Diff (max vs sum): -42
 | 2023-09-08 | 4.18 | 2,602 | 4,312 |
 | 2023-09-09 | 4.18 | 2,614 | 4,341 |
 | 2023-09-10 | 4.18 | 2,628 | 4,360 |
-| 2023-09-11 | 4.18 | 2,628 | 4,365 |
+| 2023-09-11 | 4.18 | 2,638 | 4,375 |

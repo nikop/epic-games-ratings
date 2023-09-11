@@ -195,6 +195,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Acropolis in Athenai | 0.10% | ~14 |
 | Barbarian Horde | 0.10% | ~14 |
 | Battle of Opis | 0.10% | ~14 |
+| Before the Mongol Horde | 0.10% | ~14 |
 | Blade of the Monkey | 0.10% | ~14 |
 | Hagia Sophia in Byzantion | 0.10% | ~14 |
 | Epic Victory (Carthage 1) | 0.10% | ~14 |
@@ -285,7 +286,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alexander the who? | 0.00% | ~0 |
 | The Great Raging Horde | 0.00% | ~0 |
 | United Against The Horde | 0.00% | ~0 |
-| Before the Mongol Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | Restorer | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
