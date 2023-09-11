@@ -7500,9 +7500,9 @@
       "Count": 634
     }
   ],
-  "EOS_Progressed": 296361,
+  "EOS_Progressed": 296364,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 2347,
+  "EOS_NewPlayers": 2331,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23085,6 +23085,11 @@
       "Time": "2023-09-11T10:06:51.5604393+00:00",
       "NumProgressed": 296361,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-11T11:06:46.5892843+00:00",
+      "NumProgressed": 296364,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23128,7 +23133,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26672
+      "UsersEstimate": 26673
     },
     {
       "ID": "PFA_14",
@@ -23184,7 +23189,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11854
+      "UsersEstimate": 11855
     },
     {
       "ID": "PFA_20",
@@ -23200,7 +23205,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26672
+      "UsersEstimate": 26673
     },
     {
       "ID": "PFA_22",
@@ -23248,7 +23253,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11854
+      "UsersEstimate": 11855
     },
     {
       "ID": "PFA_28",
@@ -23296,7 +23301,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11854
+      "UsersEstimate": 11855
     },
     {
       "ID": "PFA_33",
@@ -23320,7 +23325,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26672
+      "UsersEstimate": 26673
     },
     {
       "ID": "PFA_36",
@@ -23344,7 +23349,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11854
+      "UsersEstimate": 11855
     },
     {
       "ID": "PFA_39",
@@ -23360,7 +23365,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11854
+      "UsersEstimate": 11855
     },
     {
       "ID": "PFA_40",
@@ -23416,7 +23421,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11854
+      "UsersEstimate": 11855
     },
     {
       "ID": "PFA_6",
@@ -23432,7 +23437,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35563
+      "UsersEstimate": 35564
     },
     {
       "ID": "PFA_8",
@@ -23455,7 +23460,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296361,
+      "Progressed": 296364,
       "Completed": 470
     }
   ],
@@ -23463,8 +23468,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-11T09:59:28.3668794+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:06:51.5604388+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:06:46.5892837+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:59:28.3668802+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:06:51.5605794+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:59:21.7717361+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:06:46.5894134+00:00"
 }

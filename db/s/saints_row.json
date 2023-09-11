@@ -3564,9 +3564,9 @@
       "Count": 1064
     }
   ],
-  "EOS_Progressed": 68507,
+  "EOS_Progressed": 68508,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 1392,
+  "EOS_NewPlayers": 1383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -19559,6 +19559,11 @@
       "Time": "2023-09-11T10:04:35.7698832+00:00",
       "NumProgressed": 68507,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-11T11:04:29.0048695+00:00",
+      "NumProgressed": 68508,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 53,
@@ -19626,7 +19631,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "complete_all_of_wanted",
@@ -19650,7 +19655,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "complete_final_mission",
@@ -19682,7 +19687,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 30828
+      "UsersEstimate": 30829
     },
     {
       "ID": "customize_a_vehicle",
@@ -19690,7 +19695,7 @@
       "Name": "Tune Up",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21922
+      "UsersEstimate": 21923
     },
     {
       "ID": "customize_a_weapon",
@@ -19770,7 +19775,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "first_building_placed",
@@ -19818,7 +19823,7 @@
       "Name": "Performance Review",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 23977
+      "UsersEstimate": 23978
     },
     {
       "ID": "hit_max_level",
@@ -19842,7 +19847,7 @@
       "Name": "Picking Fights",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 13016
+      "UsersEstimate": 13017
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -19866,7 +19871,7 @@
       "Name": "Making a Name",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 22607
+      "UsersEstimate": 22608
     },
     {
       "ID": "one_third_purple",
@@ -19882,7 +19887,7 @@
       "Name": "Closet Space",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4795
+      "UsersEstimate": 4796
     },
     {
       "ID": "prank_coop_partner",
@@ -19993,13 +19998,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 68507,
+      "Progressed": 68508,
       "Completed": 47
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 40144,
+      "Progressed": 40145,
       "Completed": 3717
     }
   ],
@@ -20007,8 +20012,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-09-10T18:58:04.2990899+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:04:35.7698827+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:04:29.0048689+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:44.0930529+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:58:15.6992558+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:04:35.7700398+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:58:08.4474185+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:04:29.0050106+00:00"
 }

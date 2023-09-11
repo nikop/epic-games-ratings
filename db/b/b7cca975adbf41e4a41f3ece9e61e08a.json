@@ -182,9 +182,9 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "7opfcp",
       "Name": "Hurrah!",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_24",
@@ -396,8 +396,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:04:22.5138057+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:04:15.8205744+00:00",
   "LastUpdate_AppInfo": "2023-09-08T16:56:54.6872936+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:59:00.2896322+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:04:22.5138393+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:58:51.0487321+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:04:15.8206092+00:00"
 }

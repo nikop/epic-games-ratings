@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 78.00% | ~521 |
-| A Thorny Situation | 69.00% | ~461 |
-| ... And Spit Back Out | 55.00% | ~367 |
-| Break-Net Speed | 48.00% | ~321 |
-| Humble Collector | 37.00% | ~247 |
-| Miner 49er | 36.00% | ~240 |
-| Bramble Breaker | 36.00% | ~240 |
-| Oui, Chef! | 21.00% | ~140 |
-| Calm Sailing | 20.00% | ~134 |
-| Open the Gate! | 17.00% | ~114 |
-| Lumberjack | 17.00% | ~114 |
-| Mist Walker | 13.00% | ~87 |
-| Beach Comber | 9.00% | ~60 |
-| Botanical Breakthrough | 7.00% | ~47 |
-| Clear the Air | 4.00% | ~27 |
-| Chatty Neighbor | 3.00% | ~20 |
-| Higher Tax Bracket | 2.00% | ~13 |
-| Right Tool For the Job | 2.00% | ~13 |
-| Captain of Cozy | 2.00% | ~13 |
+| Azoria Beckons | 77.00% | ~534 |
+| A Thorny Situation | 67.00% | ~465 |
+| ... And Spit Back Out | 53.00% | ~368 |
+| Break-Net Speed | 46.00% | ~319 |
+| Humble Collector | 36.00% | ~250 |
+| Miner 49er | 35.00% | ~243 |
+| Bramble Breaker | 35.00% | ~243 |
+| Calm Sailing | 20.00% | ~139 |
+| Oui, Chef! | 20.00% | ~139 |
+| Open the Gate! | 16.00% | ~111 |
+| Lumberjack | 16.00% | ~111 |
+| Mist Walker | 13.00% | ~90 |
+| Beach Comber | 9.00% | ~62 |
+| Botanical Breakthrough | 7.00% | ~49 |
+| Clear the Air | 4.00% | ~28 |
+| Higher Tax Bracket | 2.00% | ~14 |
+| Chatty Neighbor | 2.00% | ~14 |
+| Right Tool For the Job | 2.00% | ~14 |
+| Captain of Cozy | 2.00% | ~14 |
 | Search for the Hairy Grell | 1.00% | ~7 |
 | Got to Catch Them All | 1.00% | ~7 |
 | Rumble in the Jumble | 1.00% | ~7 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~1 |
 | Very Skilled | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668 (Ranked 228)  
+Progressed: 694 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,4 +58,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
 | 2023-09-10 | 624 | 0 |
-| 2023-09-11 | 668 | 0 |
+| 2023-09-11 | 694 | 0 |

@@ -58,6 +58,7 @@
 | Merchant Lord | 1.00% | ~1 |
 | Voracity Confronted | 1.00% | ~1 |
 | Executor | 0.70% | ~1 |
+| Ever After | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |
 | Moving At Odd Angles | 0.70% | ~1 |
@@ -79,7 +80,6 @@
 | Over the Horizon | 0.00% | ~0 |
 | Prepared For Anything | 0.00% | ~0 |
 | Hired Help | 0.00% | ~0 |
-| Ever After | 0.00% | ~0 |
 | Diplomat | 0.00% | ~0 |
 | Factotum | 0.00% | ~0 |
 | Forager | 0.00% | ~0 |

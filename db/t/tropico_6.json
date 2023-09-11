@@ -1098,7 +1098,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5052,
+  "EOS_Progressed": 5053,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -9358,6 +9358,11 @@
       "Time": "2023-09-11T09:06:47.1959589+00:00",
       "NumProgressed": 5052,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T11:07:03.2471644+00:00",
+      "NumProgressed": 5053,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9489,7 +9494,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -9521,7 +9526,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -9599,9 +9604,9 @@
       "ID": "ACH_SURVIVOR",
       "SetID": "1p8ab95",
       "Name": "Survivor",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -9625,7 +9630,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2375
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -9641,7 +9646,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -9688,15 +9693,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5052,
+      "Progressed": 5053,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-09T17:58:19.764548+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:07:08.3844723+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:07:03.2471639+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:58:36.7788781+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:07:08.3845576+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:58:27.4612443+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:07:03.2472438+00:00"
 }

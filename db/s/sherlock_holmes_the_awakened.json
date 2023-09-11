@@ -2376,9 +2376,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 353
     },
     {
       "ID": "MQ03_2",
@@ -2400,9 +2400,9 @@
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 308
     },
     {
       "ID": "MQ03_5",
@@ -2561,8 +2561,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:04:31.3659673+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:04:24.4387237+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:59:36.491469+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:04:31.3660028+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:59:29.8066961+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:04:24.4387574+00:00"
 }

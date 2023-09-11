@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 56.00% | ~144 |
-| Chest ✔ | 55.00% | ~141 |
+| Fright ✔ | 57.00% | ~147 |
+| Chest ✔ | 55.00% | ~142 |
 | Inventory ✔ | 54.00% | ~139 |
 | Police officers ✔ | 29.00% | ~75 |
 | Mutation ✔ | 26.00% | ~67 |
 | Doberman ✔ | 15.00% | ~39 |
-| Chess ✔ | 11.00% | ~28 |
 | Weapon ✔ | 11.00% | ~28 |
+| Chess ✔ | 10.00% | ~26 |
 | Survival ✔ | 9.00% | ~23 |
 | Master of Unlocking ✔ | 9.00% | ~23 |
 | Thirst ✔ | 8.00% | ~21 |
@@ -30,14 +30,14 @@
 | Boss 1 ✔ | 4.00% | ~10 |
 | Group Alpha ✔ | 4.00% | ~10 |
 | Mutant fight ✔ | 4.00% | ~10 |
-| Mutant run ✔ | 4.00% | ~10 |
-| Sheriff ✔ | 4.00% | ~10 |
-| City on fire ✔ | 4.00% | ~10 |
 | Infected ✔ | 4.00% | ~10 |
 | Broadcasting ✔ | 4.00% | ~10 |
 | Crocodile Attack ✔ | 3.00% | ~8 |
 | Secret ✔ | 3.00% | ~8 |
+| Mutant run ✔ | 3.00% | ~8 |
+| Sheriff ✔ | 3.00% | ~8 |
 | Osipov's video message ✔ | 3.00% | ~8 |
+| City on fire ✔ | 3.00% | ~8 |
 | Priest ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |
 | Boss 3 ✔ | 3.00% | ~8 |
@@ -48,14 +48,14 @@
 | Boss 2 ✔ | 2.00% | ~5 |
 | The escape ✔ | 2.00% | ~5 |
 | Rank B+ ✔ | 2.00% | ~5 |
+| Exterminate pests ✔ | 1.00% | ~3 |
 | VIP ✔ | 1.00% | ~3 |
-| Exterminate pests ✔ | 0.80% | ~2 |
 | Hardcore ✔ | 0.80% | ~2 |
 | Speedrun ✔ | 0.80% | ~2 |
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 291)  
+Progressed: 258 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 242 | 0 |
 | 2023-09-09 | 246 | 0 |
 | 2023-09-10 | 253 | 0 |
-| 2023-09-11 | 257 | 0 |
+| 2023-09-11 | 258 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

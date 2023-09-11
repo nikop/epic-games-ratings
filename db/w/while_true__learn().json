@@ -490,9 +490,9 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 603454,
+  "EOS_Progressed": 603455,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 733,
+  "EOS_NewPlayers": 730,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -16385,6 +16385,11 @@
       "Time": "2023-09-11T10:06:00.1444866+00:00",
       "NumProgressed": 603454,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2023-09-11T11:05:54.0867206+00:00",
+      "NumProgressed": 603455,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 28,
@@ -16460,7 +16465,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 368107
+      "UsersEstimate": 368108
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -16516,7 +16521,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 295692
+      "UsersEstimate": 295693
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -16524,7 +16529,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 561212
+      "UsersEstimate": 561213
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -16619,15 +16624,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 603454,
+      "Progressed": 603455,
       "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-07-16T08:00:08.7749167+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:06:00.1444861+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:05:54.0867197+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:24.1352366+00:00",
-  "LastUpdate_Ratings": "2023-09-11T10:03:05.9548059+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:06:00.1446149+00:00"
+  "LastUpdate_Ratings": "2023-09-11T11:00:38.5445359+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:05:54.0868351+00:00"
 }

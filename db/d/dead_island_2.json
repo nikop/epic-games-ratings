@@ -4410,10 +4410,10 @@
       "Count": 345
     }
   ],
-  "EOS_Progressed": 677803,
+  "EOS_Progressed": 677824,
   "EOS_Completed": 2136,
-  "EOS_NewPlayers": 4632,
-  "EOS_NewCompleters": 24,
+  "EOS_NewPlayers": 4631,
+  "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -20520,6 +20520,11 @@
       "Time": "2023-09-11T10:07:03.1207536+00:00",
       "NumProgressed": 677803,
       "NumCompleted": 2136
+    },
+    {
+      "Time": "2023-09-11T11:06:57.8529141+00:00",
+      "NumProgressed": 677824,
+      "NumCompleted": 2136
     }
   ],
   "TotalAchievements": 45,
@@ -20555,7 +20560,7 @@
       "Name": "Anger Management",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20579,7 +20584,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "ach_bookworm",
@@ -20611,7 +20616,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5422
+      "UsersEstimate": 5423
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -20890,22 +20895,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 677803,
+      "Progressed": 677824,
       "Completed": 2136
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 3343,
-      "Completed": 3343
+      "Progressed": 3364,
+      "Completed": 3364
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-11T09:00:21.0647599+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:07:03.1207527+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:06:57.8529136+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-11T10:00:24.5604739+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:07:03.120897+00:00"
+  "LastUpdate_Ratings": "2023-09-11T11:00:19.0941+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:06:57.8530454+00:00"
 }

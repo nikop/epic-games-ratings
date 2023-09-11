@@ -6,8 +6,8 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,163 |
-| Thorough | 10.00% | ~20,148 |
+| Genin | 11.00% | ~22,164 |
+| Thorough | 10.00% | ~20,149 |
 | A thief's beginning | 9.00% | ~18,134 |
 | Disguised | 8.00% | ~16,119 |
 | Rescue Takuma | 8.00% | ~16,119 |
@@ -25,18 +25,18 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,074 |
 | Prisoners | 5.00% | ~10,074 |
 | Too Early | 5.00% | ~10,074 |
-| Gear up | 4.00% | ~8,059 |
-| Happy little accidents | 4.00% | ~8,059 |
-| Still Rollin' | 4.00% | ~8,059 |
+| Gear up | 4.00% | ~8,060 |
+| Happy little accidents | 4.00% | ~8,060 |
+| Still Rollin' | 4.00% | ~8,060 |
 | Noboru | 3.00% | ~6,045 |
 | Stoned | 3.00% | ~6,045 |
 | The Old Way | 3.00% | ~6,045 |
 | Atheist Ox | 2.00% | ~4,030 |
 | It's raining men | 2.00% | ~4,030 |
+| No Gimmicks | 2.00% | ~4,030 |
 | Old Man | 2.00% | ~4,030 |
 | Winner Winner | 2.00% | ~4,030 |
 | Meticulous | 1.00% | ~2,015 |
-| No Gimmicks | 1.00% | ~2,015 |
 | The End | 1.00% | ~2,015 |
 | Undeserved Honor | 1.00% | ~2,015 |
 | When Cut Across the Neck | 0.90% | ~1,813 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~201 |
 | Release the Kraken | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,484 (Ranked 60)  
+Progressed: 201,489 (Ranked 60)  
 Completed: 77 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 77 (0.04%) (Ranked 241)
 | 2023-09-08 | 200,887 | 77 |
 | 2023-09-09 | 201,158 | 77 |
 | 2023-09-10 | 201,431 | 77 |
-| 2023-09-11 | 201,484 | 77 |
+| 2023-09-11 | 201,489 | 77 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
 Sum: 4,750 (Ranked 136)  

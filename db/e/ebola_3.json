@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 257,
+  "EOS_Progressed": 258,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1083,6 +1083,11 @@
       "Time": "2023-09-11T08:06:29.1703266+00:00",
       "NumProgressed": 257,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T11:06:53.8836441+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1158,7 +1163,7 @@
       "Name": "Chest \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achCity",
@@ -1212,9 +1217,9 @@
       "ID": "achCrow",
       "SetID": "72gjli4",
       "Name": "Exterminate pests \u2714",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achDeva",
@@ -1292,9 +1297,9 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 147
     },
     {
       "ID": "achLizun",
@@ -1308,9 +1313,9 @@
       "ID": "achLizunTwo",
       "SetID": "72gjli4",
       "Name": "Mutant run \u2714",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achMaikl",
@@ -1324,9 +1329,9 @@
       "ID": "achOsipovOne",
       "SetID": "72gjli4",
       "Name": "Sheriff \u2714",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achOsipovTwo",
@@ -1340,9 +1345,9 @@
       "ID": "achPlotOne",
       "SetID": "72gjli4",
       "Name": "City on fire \u2714",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achPlotThree",
@@ -1428,9 +1433,9 @@
       "ID": "achShahmat",
       "SetID": "72gjli4",
       "Name": "Chess \u2714",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "achSpped",
@@ -1493,7 +1498,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 257,
+      "Progressed": 258,
       "Completed": 0
     }
   ],
@@ -1501,8 +1506,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:06:58.995221+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:06:53.8836436+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:48.8958447+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:58:25.9843888+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:06:58.9952732+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:58:17.3872262+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:06:53.8836942+00:00"
 }

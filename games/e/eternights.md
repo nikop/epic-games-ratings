@@ -30,7 +30,7 @@
 | Plushyboy | 0.00% | ~0 |
 | Dreamboat | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 536)  
+Progressed: 1 (Ranked 537)  
 Completed: 1 (100.00%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |

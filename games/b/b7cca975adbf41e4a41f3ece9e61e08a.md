@@ -9,6 +9,7 @@
 | I Challenge You To Save More Money! | 50.00% | ~2 |
 | A Slap In The Face! | 50.00% | ~2 |
 | I Love How Tough You Are | 50.00% | ~2 |
+| Hurrah! | 50.00% | ~2 |
 | Love Actually | 50.00% | ~2 |
 | Wanna Come To My Place For Dinner? | 50.00% | ~2 |
 | What I Want Is You | 50.00% | ~2 |
@@ -21,7 +22,6 @@
 | Boys Need To Protect Themselves | 25.00% | ~1 |
 | Days Of Innocence | 25.00% | ~1 |
 | Love You Three Thousand | 25.00% | ~1 |
-| Hurrah! | 25.00% | ~1 |
 | The Flash | 25.00% | ~1 |
 | ONE PUNCH | 25.00% | ~1 |
 | Go Clean up In Your Own Way | 25.00% | ~1 |

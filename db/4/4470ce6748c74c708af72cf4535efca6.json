@@ -4,8 +4,8 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -267,9 +267,9 @@
       "ID": "16",
       "SetID": "5e3maia",
       "Name": "Matchmaker",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "17",
@@ -762,8 +762,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:03:50.8699192+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:03:43.9279175+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:58:39.7701488+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:03:50.8699915+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:58:30.4467045+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:03:43.9279843+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -613,9 +613,9 @@
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Achi_29",
@@ -806,8 +806,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-09-11T10:05:48.7313988+00:00",
+  "LastChanged_Achievements": "2023-09-11T11:05:42.2444811+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.9066994+00:00",
-  "LastUpdate_Ratings": "2023-09-11T09:58:24.1011208+00:00",
-  "LastUpdate_Achievements": "2023-09-11T10:05:48.731446+00:00"
+  "LastUpdate_Ratings": "2023-09-11T10:58:15.5087653+00:00",
+  "LastUpdate_Achievements": "2023-09-11T11:05:42.2445263+00:00"
 }
