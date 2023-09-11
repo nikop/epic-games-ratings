@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1465,9 +1465,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 287
     },
     {
       "ID": "AC12",
@@ -1497,9 +1497,9 @@
       "ID": "AC15",
       "SetID": "l4abp0",
       "Name": "Full Devotion",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 151
     },
     {
       "ID": "AC16",
@@ -1553,9 +1553,9 @@
       "ID": "AC22",
       "SetID": "l4abp0",
       "Name": "Empty Handed",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 287
     },
     {
       "ID": "AC23",
@@ -1754,8 +1754,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-11T20:04:33.2273249+00:00",
+  "LastChanged_Achievements": "2023-09-11T21:04:54.6899807+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:58:45.2791118+00:00",
-  "LastUpdate_Achievements": "2023-09-11T20:04:33.2273679+00:00"
+  "LastUpdate_Ratings": "2023-09-11T20:59:06.214362+00:00",
+  "LastUpdate_Achievements": "2023-09-11T21:04:54.690019+00:00"
 }

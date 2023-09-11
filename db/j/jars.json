@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 49,
   "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -223,9 +223,9 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
@@ -384,8 +384,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-09-11T20:05:03.1169411+00:00",
+  "LastChanged_Achievements": "2023-09-11T21:05:30.9721178+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:20.2025191+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:00:02.3366407+00:00",
-  "LastUpdate_Achievements": "2023-09-11T20:05:03.1169574+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:00:33.9732419+00:00",
+  "LastUpdate_Achievements": "2023-09-11T21:05:30.9721305+00:00"
 }

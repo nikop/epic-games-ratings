@@ -5,10 +5,10 @@
   "Ranking_Rating": 890,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 459,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -414,6 +414,11 @@
       "Time": "2023-09-02T21:03:30.303437+00:00",
       "NumProgressed": 458,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-11T21:06:00.6257278+00:00",
+      "NumProgressed": 459,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -441,7 +446,7 @@
       "Name": "Lion Tamer",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -487,9 +492,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "631ndc2",
       "Name": "Path of Learning",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -545,15 +550,15 @@
       "Name": "Club Champion",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "631ndc2",
       "Name": "Dirty Dozen",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -681,7 +686,7 @@
       "Name": "King of District 4",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -743,9 +748,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "631ndc2",
       "Name": "Self Defense",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -793,7 +798,7 @@
       "Name": "Mobile Infantry",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -824,7 +829,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 459,
       "Completed": 1
     }
   ],
@@ -832,8 +837,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-11T20:05:27.4069301+00:00",
+  "LastChanged_Achievements": "2023-09-11T21:06:00.6257274+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:28.7261895+00:00",
-  "LastUpdate_Ratings": "2023-09-11T20:02:09.2954548+00:00",
-  "LastUpdate_Achievements": "2023-09-11T20:05:27.4069805+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:02:17.226271+00:00",
+  "LastUpdate_Achievements": "2023-09-11T21:06:00.6257635+00:00"
 }

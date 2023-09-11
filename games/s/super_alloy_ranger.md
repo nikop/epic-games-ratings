@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 80.00% | ~63 |
+| Iceberg Theory | 79.00% | ~63 |
 | Gear Up | 68.00% | ~54 |
 | A Grand Show | 68.00% | ~54 |
-| Freshen Up | 58.00% | ~46 |
-| GG EZ | 58.00% | ~46 |
+| Freshen Up | 57.00% | ~46 |
+| GG EZ | 57.00% | ~46 |
 | Hydrophobia | 43.00% | ~34 |
 | Ka-Ching! | 34.00% | ~27 |
-| Stop Right There | 32.00% | ~25 |
+| Stop Right There | 31.00% | ~25 |
 | Get to the Point | 30.00% | ~24 |
 | Mr. Want It All | 16.00% | ~13 |
 | The Hidden Secret | 15.00% | ~12 |
@@ -27,12 +27,12 @@
 | Decapitation Strike | 6.00% | ~5 |
 | The Deep Frozen Conqueror | 5.00% | ~4 |
 | The Infinite Train Conqueror | 5.00% | ~4 |
+| The Paradox Coordinate Conqueror | 5.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~4 |
 | Rapidfire | 5.00% | ~4 |
 | Air Interception | 5.00% | ~4 |
 | Hell of a Fight | 5.00% | ~4 |
 | The Sunken City Conqueror | 4.00% | ~3 |
-| The Paradox Coordinate Conqueror | 4.00% | ~3 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~3 |
 | The Inactivated Frozen Conqueror | 4.00% | ~3 |
 | Death Bringer Conqueror | 4.00% | ~3 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 365)  
+Progressed: 80 (Ranked 364)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 62 | 0 |
 | 2023-09-09 | 67 | 0 |
 | 2023-09-10 | 75 | 0 |
-| 2023-09-11 | 79 | 0 |
+| 2023-09-11 | 80 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

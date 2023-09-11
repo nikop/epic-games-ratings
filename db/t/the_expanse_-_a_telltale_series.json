@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10425,
+  "EOS_Progressed": 10426,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5045,6 +5045,11 @@
       "Time": "2023-09-11T20:06:18.2959733+00:00",
       "NumProgressed": 10425,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T21:07:02.0746154+00:00",
+      "NumProgressed": 10426,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5057,7 +5062,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "10",
@@ -5097,7 +5102,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "15",
@@ -5129,7 +5134,7 @@
       "Name": "Bottoms up!",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "19",
@@ -5273,7 +5278,7 @@
       "Name": "Grave Robber",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "8",
@@ -5296,7 +5301,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10425,
+      "Progressed": 10426,
       "Completed": 0
     }
   ],
@@ -5304,8 +5309,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-11T20:06:18.2959724+00:00",
+  "LastChanged_Achievements": "2023-09-11T21:07:02.0746148+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:57:07.3891795+00:00",
-  "LastUpdate_Achievements": "2023-09-11T20:06:18.2960198+00:00"
+  "LastUpdate_Ratings": "2023-09-11T20:57:12.1074821+00:00",
+  "LastUpdate_Achievements": "2023-09-11T21:07:02.0746575+00:00"
 }

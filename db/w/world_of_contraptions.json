@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -1409,9 +1409,9 @@
       "ID": "LEVEL_MEDIUM",
       "SetID": "aemieak",
       "Name": "First medium level",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -1432,8 +1432,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-09-11T20:04:55.9814555+00:00",
+  "LastChanged_Achievements": "2023-09-11T21:05:22.1317886+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.8460187+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:59:56.2762336+00:00",
-  "LastUpdate_Achievements": "2023-09-11T20:04:55.9814837+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:00:28.2974813+00:00",
+  "LastUpdate_Achievements": "2023-09-11T21:05:22.1318124+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Believer | 53.00% | ~156 |
+| Believer | 52.00% | ~154 |
 | Origin | 48.00% | ~142 |
 | End | 46.00% | ~136 |
-| Nonconsensual | 31.00% | ~91 |
+| Nonconsensual | 31.00% | ~92 |
 | Realist | 28.00% | ~83 |
 | Escape | 20.00% | ~59 |
 | Wrong | 18.00% | ~53 |
 | Jack | 15.00% | ~44 |
-| Tough | 12.00% | ~35 |
+| Tough | 11.00% | ~33 |
 | Clear | 4.00% | ~12 |
 | Unfinished | 3.00% | ~9 |
 | Denial | 2.00% | ~6 |
@@ -20,8 +20,8 @@
 | All endings | 1.00% | ~3 |
 | Interpret | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295 (Ranked 281)  
-Completed: 3 (1.02%) (Ranked 122)  
+Progressed: 296 (Ranked 281)  
+Completed: 3 (1.01%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 3 (1.02%) (Ranked 122)
 | 2023-09-03 | 292 | 3 |
 | 2023-09-04 | 293 | 3 |
 | 2023-09-08 | 295 | 3 |
+| 2023-09-11 | 296 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

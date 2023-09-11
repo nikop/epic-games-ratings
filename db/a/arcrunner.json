@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1689,9 +1689,9 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -1904,8 +1904,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-09-11T20:05:21.1581102+00:00",
+  "LastChanged_Achievements": "2023-09-11T21:05:53.370843+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:59.8548825+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:57:31.5263818+00:00",
-  "LastUpdate_Achievements": "2023-09-11T20:05:21.1581419+00:00"
+  "LastUpdate_Ratings": "2023-09-11T20:57:39.6098361+00:00",
+  "LastUpdate_Achievements": "2023-09-11T21:05:53.3708678+00:00"
 }

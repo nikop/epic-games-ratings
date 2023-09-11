@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -505,9 +505,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -593,9 +593,9 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -648,8 +648,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-11T20:04:43.4977733+00:00",
+  "LastChanged_Achievements": "2023-09-11T21:05:07.0555009+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:59:04.0864184+00:00",
-  "LastUpdate_Achievements": "2023-09-11T20:04:43.4977912+00:00"
+  "LastUpdate_Ratings": "2023-09-11T20:59:27.3715342+00:00",
+  "LastUpdate_Achievements": "2023-09-11T21:05:07.0555146+00:00"
 }

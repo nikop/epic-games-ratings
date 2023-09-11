@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 46.00% | ~66 |
-| Welcome to the Tower | 44.00% | ~63 |
-| The great escape | 39.00% | ~56 |
-| The Preacher's fate | 38.00% | ~54 |
-| A new dawn | 32.00% | ~46 |
+| Welcome to the Tower | 45.00% | ~64 |
+| The great escape | 41.00% | ~59 |
+| The Preacher's fate | 39.00% | ~56 |
+| A new dawn | 33.00% | ~47 |
 | Scholar | 29.00% | ~41 |
 | The darkness | 29.00% | ~41 |
 | A good beginning | 27.00% | ~39 |
@@ -22,7 +22,7 @@
 | Open door | 20.00% | ~29 |
 | Feels like springtime | 17.00% | ~24 |
 | Rascal | 17.00% | ~24 |
-| Free at last | 15.00% | ~21 |
+| Free at last | 16.00% | ~23 |
 | Alchemists Express | 15.00% | ~21 |
 | A Link to the Past | 14.00% | ~20 |
 | Fashion victim | 13.00% | ~19 |

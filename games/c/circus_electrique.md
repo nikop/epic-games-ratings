@@ -6,17 +6,17 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 45.00% | ~206 |
+| Self Defense | 46.00% | ~211 |
 | Grand Opening | 41.00% | ~188 |
 | Circus Electrique Proudly Presents... | 41.00% | ~188 |
-| Path of Learning | 40.00% | ~183 |
+| Path of Learning | 41.00% | ~188 |
 | Built in a Day | 34.00% | ~156 |
 | More Brain Than Brawn | 29.00% | ~133 |
 | Perfect Illusion | 24.00% | ~110 |
 | Hundred Percent First | 24.00% | ~110 |
-| Dirty Dozen | 21.00% | ~96 |
+| Dirty Dozen | 20.00% | ~92 |
 | Fan Service | 19.00% | ~87 |
-| Lion Tamer | 18.00% | ~82 |
+| Lion Tamer | 18.00% | ~83 |
 | Amazing! | 17.00% | ~78 |
 | King of District 1 | 16.00% | ~73 |
 | Bar Brawler | 15.00% | ~69 |
@@ -31,9 +31,9 @@ Number of Ratings: 22  (23.09.2022)
 | Club Member | 7.00% | ~32 |
 | Hundred Percent Second | 7.00% | ~32 |
 | Spirits High | 7.00% | ~32 |
-| Club Champion | 6.00% | ~27 |
-| King of District 4 | 6.00% | ~27 |
-| Mobile Infantry | 6.00% | ~27 |
+| Club Champion | 6.00% | ~28 |
+| King of District 4 | 6.00% | ~28 |
+| Mobile Infantry | 6.00% | ~28 |
 | Around the Clock | 5.00% | ~23 |
 | City Savior | 4.00% | ~18 |
 | King of District 5 | 4.00% | ~18 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458 (Ranked 249)  
+Progressed: 459 (Ranked 248)  
 Completed: 1 (0.22%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 1 (0.22%) (Ranked 193)
 | 2023-08-24 | 455 | 1 |
 | 2023-08-27 | 456 | 1 |
 | 2023-09-02 | 458 | 1 |
+| 2023-09-11 | 459 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

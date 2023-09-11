@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 681,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 14.85,
+  "EOS_Completed_Percentage": 14.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2768,6 +2768,11 @@
       "Time": "2023-09-11T20:04:58.2964039+00:00",
       "NumProgressed": 680,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2023-09-11T21:05:25.1884328+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 22,
@@ -2777,9 +2782,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 660
+      "UsersEstimate": 654
     },
     {
       "ID": "LEVEL_002",
@@ -2787,7 +2792,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "LEVEL_003",
@@ -2803,7 +2808,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "LEVEL_005",
@@ -2811,7 +2816,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "LEVEL_006",
@@ -2843,7 +2848,7 @@
       "Name": "Who loves trains?",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_010",
@@ -2859,7 +2864,7 @@
       "Name": "At the heart of the city",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "LEVEL_012",
@@ -2891,7 +2896,7 @@
       "Name": "Monumental tribute",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "LEVEL_016",
@@ -2954,7 +2959,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 681,
       "Completed": 101
     }
   ],
@@ -2962,8 +2967,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-11T20:04:58.2964033+00:00",
+  "LastChanged_Achievements": "2023-09-11T21:05:25.1884322+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:59:50.4225194+00:00",
-  "LastUpdate_Achievements": "2023-09-11T20:04:58.2964347+00:00"
+  "LastUpdate_Ratings": "2023-09-11T21:00:22.3254075+00:00",
+  "LastUpdate_Achievements": "2023-09-11T21:05:25.1884608+00:00"
 }

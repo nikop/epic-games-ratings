@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249187,
+  "EOS_Progressed": 249188,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13799,6 +13799,11 @@
       "Time": "2023-09-11T17:05:50.6374624+00:00",
       "NumProgressed": 249187,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-11T21:05:03.6243978+00:00",
+      "NumProgressed": 249188,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -13914,7 +13919,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49837
+      "UsersEstimate": 49838
     },
     {
       "ID": "didYourTime",
@@ -13970,7 +13975,7 @@
       "Name": "Here We Go!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "imHereAllNight",
@@ -13986,7 +13991,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132069
+      "UsersEstimate": 132070
     },
     {
       "ID": "indegestible",
@@ -14177,7 +14182,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249187,
+      "Progressed": 249188,
       "Completed": 4
     }
   ],
@@ -14185,8 +14190,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-11T20:04:40.6825345+00:00",
+  "LastChanged_Achievements": "2023-09-11T21:05:03.6243974+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.341728+00:00",
-  "LastUpdate_Ratings": "2023-09-11T19:57:23.6100619+00:00",
-  "LastUpdate_Achievements": "2023-09-11T20:04:40.6826404+00:00"
+  "LastUpdate_Ratings": "2023-09-11T20:57:30.4197439+00:00",
+  "LastUpdate_Achievements": "2023-09-11T21:05:03.6244924+00:00"
 }
