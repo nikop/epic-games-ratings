@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 676,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 14.67,
+  "EOS_Completed_Percentage": 14.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2743,6 +2743,11 @@
       "Time": "2023-09-11T13:10:56.0494287+00:00",
       "NumProgressed": 675,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-09-11T14:04:45.4146429+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 22,
@@ -2754,7 +2759,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "LEVEL_002",
@@ -2762,15 +2767,15 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 439
+      "UsersEstimate": 446
     },
     {
       "ID": "LEVEL_004",
@@ -2778,7 +2783,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "LEVEL_005",
@@ -2810,7 +2815,7 @@
       "Name": "Passion for sports",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "LEVEL_009",
@@ -2826,7 +2831,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "LEVEL_011",
@@ -2929,7 +2934,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 676,
       "Completed": 99
     }
   ],
@@ -2937,8 +2942,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-11T13:10:56.049428+00:00",
+  "LastChanged_Achievements": "2023-09-11T14:04:45.4146311+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:05:41.0482576+00:00",
-  "LastUpdate_Achievements": "2023-09-11T13:10:56.0494642+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:59:58.8487245+00:00",
+  "LastUpdate_Achievements": "2023-09-11T14:04:45.4146693+00:00"
 }

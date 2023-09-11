@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The gateway to the underworld | 2.00% | ~6 |
+| The gateway to the underworld | 3.00% | ~9 |
 | Is it merely a dream? | 2.00% | ~6 |
-| The path to enlightenment | 0.30% | ~1 |
-| Our efforts are finally yielding progress | 0.30% | ~1 |
-| This looks really bad | 0.30% | ~1 |
-| Unholy lands | 0.30% | ~1 |
+| The path to enlightenment | 1.00% | ~3 |
+| Our efforts are finally yielding progress | 1.00% | ~3 |
+| This looks really bad | 1.00% | ~3 |
+| Unholy lands | 1.00% | ~3 |
+| Unveiling the Magnitude of Sin | 0.30% | ~1 |
+| The court | 0.30% | ~1 |
+| Holy Nails | 0.30% | ~1 |
 | The crucifixion | 0.00% | ~0 |
 | The choice | 0.00% | ~0 |
 | Hubris | 0.00% | ~0 |
 | Humility | 0.00% | ~0 |
-| Unveiling the Magnitude of Sin | 0.00% | ~0 |
-| The court | 0.00% | ~0 |
-| Holy Nails | 0.00% | ~0 |
 | Flagellation | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 297 (Ranked 280)  

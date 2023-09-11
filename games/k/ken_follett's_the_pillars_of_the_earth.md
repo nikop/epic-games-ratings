@@ -8,14 +8,14 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~6,209 |
 | Man of politics | 35.00% | ~5,300 |
-| Friends of sorts | 33.00% | ~4,997 |
-| Yet another secret | 33.00% | ~4,997 |
+| Friends of sorts | 33.00% | ~4,998 |
+| Yet another secret | 33.00% | ~4,998 |
 | Let there be darkness | 32.00% | ~4,846 |
 | End of Book One | 30.00% | ~4,543 |
-| Wannabe knight | 24.00% | ~3,634 |
-| Garden of Eden | 24.00% | ~3,634 |
-| Full house | 24.00% | ~3,634 |
-| Help an old friend | 22.00% | ~3,331 |
+| Wannabe knight | 24.00% | ~3,635 |
+| Garden of Eden | 24.00% | ~3,635 |
+| Full house | 24.00% | ~3,635 |
+| Help an old friend | 22.00% | ~3,332 |
 | Two of us | 20.00% | ~3,029 |
 | Negotiation skills | 18.00% | ~2,726 |
 | Workers' union | 18.00% | ~2,726 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,363 |
 | The truth revealed | 9.00% | ~1,363 |
 | The End. | 9.00% | ~1,363 |
-| A cry for help | 8.00% | ~1,211 |
+| A cry for help | 8.00% | ~1,212 |
 | Silentium est aureum | 7.00% | ~1,060 |
 | Rebel without a cause | 6.00% | ~909 |
 | Staring contest champion | 5.00% | ~757 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~454 |
 | Boy of mystery | 2.00% | ~303 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,143 (Ranked 121)  
+Progressed: 15,144 (Ranked 121)  
 Completed: 110 (0.73%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 110 (0.73%) (Ranked 135)
 | 2023-09-08 | 15,087 | 110 |
 | 2023-09-09 | 15,110 | 110 |
 | 2023-09-10 | 15,135 | 110 |
-| 2023-09-11 | 15,143 | 110 |
+| 2023-09-11 | 15,144 | 110 |
 ## Awards
 Max (Easy Puzzles): 149  (Ranked 301)  
 Sum: 189 (Ranked 379)  

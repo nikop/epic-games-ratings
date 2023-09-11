@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-12-19T16:00:00+00:00",
@@ -4262,10 +4262,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 4833,
       "NumberOfAwardsMax": 801
+    },
+    {
+      "Time": "2023-09-11T13:58:23.4596582+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 4834,
+      "NumberOfAwardsMax": 801
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4833,
+  "NumberOfAwards": 4834,
   "NumberOfAwardsMax": 801,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4303,7 +4309,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 664
+      "Count": 665
     },
     {
       "Text": "This game has a Creative Community",
@@ -4329,8 +4335,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2023-09-11T07:58:11.0189691+00:00",
+  "LastChanged": "2023-09-11T13:58:23.459658+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:14.0031453+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:04:08.1711321+00:00",
-  "LastUpdate_Achievements": "2023-09-11T13:09:44.761182+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:58:23.459659+00:00",
+  "LastUpdate_Achievements": "2023-09-11T14:03:33.4723121+00:00"
 }

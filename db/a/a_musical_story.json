@@ -4,7 +4,7 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -721,8 +721,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-09-11T13:13:06.8940641+00:00",
+  "LastChanged_Achievements": "2023-09-11T14:06:47.3390907+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.2184928+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:05:44.0152775+00:00",
-  "LastUpdate_Achievements": "2023-09-11T13:13:06.8941205+00:00"
+  "LastUpdate_Ratings": "2023-09-11T14:00:01.6529288+00:00",
+  "LastUpdate_Achievements": "2023-09-11T14:06:47.3391275+00:00"
 }

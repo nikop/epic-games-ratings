@@ -8,46 +8,46 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 0.20% | ~1,429 |
 | Life is your teacher | 0.20% | ~1,429 |
-| The Assault | 0.10% | ~714 |
-| The Hateful Pole Fighter | 0.10% | ~714 |
-| A Lady's Blood in the Snow | 0.10% | ~714 |
-| Lady Wing Chun | 0.10% | ~714 |
-| Furious Fists | 0.10% | ~714 |
-| Muk Yan Master | 0.10% | ~714 |
-| Tiger on Fire | 0.10% | ~714 |
-| Source of Flying Daggers | 0.10% | ~714 |
-| Iron Money | 0.10% | ~714 |
-| Legendary Talismans of Wuxing | 0.10% | ~714 |
-| Scareless | 0.10% | ~714 |
-| Prodigal Child | 0.10% | ~714 |
-| Kill Nil | 0.10% | ~714 |
-| Detective Story | 0.10% | ~714 |
-| Drunken Fighter | 0.10% | ~714 |
-| Martial Artist | 0.10% | ~714 |
-| Knowledge Greed | 0.10% | ~714 |
-| Healing Memory | 0.10% | ~714 |
-| Stuntmaster | 0.10% | ~714 |
-| Dance of the Praying Mantis | 0.10% | ~714 |
-| Street Fighting | 0.10% | ~714 |
-| State of constant learning | 0.10% | ~714 |
-| Qi Gong: Mind | 0.10% | ~714 |
-| Qi Gong: Breath | 0.10% | ~714 |
-| Qi Gong: Essence | 0.10% | ~714 |
-| The 36th Chamber of Kung-Fu | 0.10% | ~714 |
-| Master of the Phoenix Eye Fist | 0.10% | ~714 |
-| I know Kung-Fu | 0.10% | ~714 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~714 |
-| Old Child | 0.10% | ~714 |
-| Sword Stained With Blood | 0.10% | ~714 |
-| Lightning Hands | 0.10% | ~714 |
-| Kung-Fu Tussle | 0.10% | ~714 |
-| Path of the Prospect | 0.10% | ~714 |
-| Rumble in the Hangar | 0.10% | ~714 |
-| The Pit Protector | 0.10% | ~714 |
-| Be like water my friend | 0.10% | ~714 |
-| Take damage to save time | 0.10% | ~714 |
-| Warriors from the Mountain | 0.10% | ~714 |
-| Come Snap With Me | 0.10% | ~714 |
+| The Assault | 0.10% | ~715 |
+| The Hateful Pole Fighter | 0.10% | ~715 |
+| A Lady's Blood in the Snow | 0.10% | ~715 |
+| Lady Wing Chun | 0.10% | ~715 |
+| Furious Fists | 0.10% | ~715 |
+| Muk Yan Master | 0.10% | ~715 |
+| Tiger on Fire | 0.10% | ~715 |
+| Source of Flying Daggers | 0.10% | ~715 |
+| Iron Money | 0.10% | ~715 |
+| Legendary Talismans of Wuxing | 0.10% | ~715 |
+| Scareless | 0.10% | ~715 |
+| Prodigal Child | 0.10% | ~715 |
+| Kill Nil | 0.10% | ~715 |
+| Detective Story | 0.10% | ~715 |
+| Drunken Fighter | 0.10% | ~715 |
+| Martial Artist | 0.10% | ~715 |
+| Knowledge Greed | 0.10% | ~715 |
+| Healing Memory | 0.10% | ~715 |
+| Stuntmaster | 0.10% | ~715 |
+| Dance of the Praying Mantis | 0.10% | ~715 |
+| Street Fighting | 0.10% | ~715 |
+| State of constant learning | 0.10% | ~715 |
+| Qi Gong: Mind | 0.10% | ~715 |
+| Qi Gong: Breath | 0.10% | ~715 |
+| Qi Gong: Essence | 0.10% | ~715 |
+| The 36th Chamber of Kung-Fu | 0.10% | ~715 |
+| Master of the Phoenix Eye Fist | 0.10% | ~715 |
+| I know Kung-Fu | 0.10% | ~715 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~715 |
+| Old Child | 0.10% | ~715 |
+| Sword Stained With Blood | 0.10% | ~715 |
+| Lightning Hands | 0.10% | ~715 |
+| Kung-Fu Tussle | 0.10% | ~715 |
+| Path of the Prospect | 0.10% | ~715 |
+| Rumble in the Hangar | 0.10% | ~715 |
+| The Pit Protector | 0.10% | ~715 |
+| Be like water my friend | 0.10% | ~715 |
+| Take damage to save time | 0.10% | ~715 |
+| Warriors from the Mountain | 0.10% | ~715 |
+| Come Snap With Me | 0.10% | ~715 |
 | Project Arena | 0.10% | ~24 |
 | Diligence as a goal | 0.10% | ~24 |
 | Bloody Sport | 0.10% | ~24 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,490 (Ranked 20)  
+Progressed: 714,501 (Ranked 20)  
 Completed: 12,890 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,10 +211,10 @@ Completed: 12,890 (1.80%) (Ranked 102)
 | 2023-09-08 | 713,725 | 12,887 |
 | 2023-09-09 | 714,041 | 12,890 |
 | 2023-09-10 | 714,349 | 12,890 |
-| 2023-09-11 | 714,490 | 12,890 |
+| 2023-09-11 | 714,501 | 12,890 |
 ## Awards
 Max (Great Boss Battles): 6,482  (Ranked 53)  
-Sum: 11,171 (Ranked 80)  
+Sum: 11,173 (Ranked 80)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -223,7 +223,7 @@ Diff (max vs sum): -27
 | This game has Challenging Combat | 555 |
 | This game has Quickly Understood Controls | 545 |
 | This game has Amazing Storytelling | 542 |
-| This game is Extremely Fun | 533 |
+| This game is Extremely Fun | 535 |
 | This game has Amazing Characters | 526 |
 | This game is Highly Recommended | 526 |
 | This game has Unique Visuals | 490 |
@@ -470,4 +470,4 @@ Diff (max vs sum): -27
 | 2023-09-08 | 4.82 | - | 6,446 | 11,108 |
 | 2023-09-09 | 4.82 | - | 6,458 | 11,134 |
 | 2023-09-10 | 4.82 | - | 6,473 | 11,162 |
-| 2023-09-11 | 4.82 | - | 6,482 | 11,171 |
+| 2023-09-11 | 4.82 | - | 6,482 | 11,173 |

@@ -40,6 +40,7 @@
 | Unseen Patterns | 3.00% | ~4 |
 | Bounty Hunter | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
+| Legacy of a Mercenary | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | A Real Battle | 2.00% | ~3 |
 | Insectoid Propagator | 2.00% | ~3 |
@@ -50,7 +51,6 @@
 | Talent Nurtured | 1.00% | ~1 |
 | Embellished | 1.00% | ~1 |
 | Business As Usual | 1.00% | ~1 |
-| Legacy of a Mercenary | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
 | The Darkness Within | 1.00% | ~1 |
 | Ruiner | 1.00% | ~1 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135 (Ranked 331)  
+Progressed: 135 (Ranked 332)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |

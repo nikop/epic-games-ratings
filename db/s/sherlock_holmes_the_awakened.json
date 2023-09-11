@@ -2392,9 +2392,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 334
+      "UsersEstimate": 340
     },
     {
       "ID": "MQ03_4",
@@ -2424,9 +2424,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 250
     },
     {
       "ID": "MQ04_3",
@@ -2561,8 +2561,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-11T13:10:14.5167873+00:00",
+  "LastChanged_Achievements": "2023-09-11T14:04:03.8796675+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:05:19.3310701+00:00",
-  "LastUpdate_Achievements": "2023-09-11T13:10:14.5168249+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:59:35.9557293+00:00",
+  "LastUpdate_Achievements": "2023-09-11T14:04:03.8796957+00:00"
 }

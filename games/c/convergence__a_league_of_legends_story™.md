@@ -5,12 +5,11 @@ Rating: 4.60 (Ranked 393)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 27.00% | ~232 |
-| The Mysterious Stranger | 22.00% | ~189 |
-| Rail Rat | 22.00% | ~189 |
+| Time Heals All Wounds | 27.00% | ~233 |
+| The Mysterious Stranger | 22.00% | ~190 |
+| Rail Rat | 22.00% | ~190 |
 | The Prince in Heels | 20.00% | ~172 |
 | Immaculate Aim | 20.00% | ~172 |
-| The Brass Boss | 20.00% | ~172 |
 | The Steel Shadow | 19.00% | ~164 |
 | Make Up For Lost Time | 19.00% | ~164 |
 | Time Flies | 19.00% | ~164 |
@@ -19,12 +18,13 @@ Rating: 4.60 (Ranked 393)
 | Breaking Down Barriers | 19.00% | ~164 |
 | Honest Mistake | 19.00% | ~164 |
 | Immaculate Aim | 19.00% | ~164 |
+| The Brass Boss | 19.00% | ~164 |
 | The Wicked Twins | 18.00% | ~155 |
 | Fast Learner | 18.00% | ~155 |
-| Like Clockwork | 17.00% | ~146 |
-| The Betrayer | 17.00% | ~146 |
-| The Loose Cannon | 17.00% | ~146 |
-| Golem Chaser | 17.00% | ~146 |
+| Like Clockwork | 17.00% | ~147 |
+| The Betrayer | 17.00% | ~147 |
+| The Loose Cannon | 17.00% | ~147 |
+| Golem Chaser | 17.00% | ~147 |
 | Right On Time | 16.00% | ~138 |
 | The Man Who Shattered Time | 16.00% | ~138 |
 | Check Your Pulse | 16.00% | ~138 |
@@ -39,9 +39,9 @@ Rating: 4.60 (Ranked 393)
 | Syron for Hope | 10.00% | ~86 |
 | Theater Explorer | 10.00% | ~86 |
 | Ask Questions Later | 10.00% | ~86 |
-| Factorywood Explorer | 9.00% | ~77 |
-| Fairgrounds Explorer | 9.00% | ~77 |
-| Sump Explorer | 9.00% | ~77 |
+| Factorywood Explorer | 9.00% | ~78 |
+| Fairgrounds Explorer | 9.00% | ~78 |
+| Sump Explorer | 9.00% | ~78 |
 | Cultivair Explorer | 8.00% | ~69 |
 | Entresol Explorer | 8.00% | ~69 |
 | Corin Goes Home | 7.00% | ~60 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 393)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 861 (Ranked 214)  
+Progressed: 862 (Ranked 214)  
 Completed: 5 (0.58%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 5 (0.58%) (Ranked 146)
 | 2023-09-07 | 856 | 5 |
 | 2023-09-09 | 857 | 5 |
 | 2023-09-10 | 861 | 5 |
+| 2023-09-11 | 862 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

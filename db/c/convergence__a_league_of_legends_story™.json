@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 861,
+  "EOS_Progressed": 862,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2125,6 +2125,11 @@
       "Time": "2023-09-10T19:05:51.5671207+00:00",
       "NumProgressed": 861,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-11T14:05:28.7431139+00:00",
+      "NumProgressed": 862,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2184,7 +2189,7 @@
       "Name": "Like Clockwork",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ClovemaryGift",
@@ -2240,7 +2245,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FairgroundsChests1",
@@ -2248,7 +2253,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -2256,7 +2261,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2264,7 +2269,7 @@
       "Name": "The Betrayer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -2296,7 +2301,7 @@
       "Name": "Rail Rat",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "HexlockGift",
@@ -2320,7 +2325,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "LacunaCompleted",
@@ -2424,7 +2429,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "RewindParry",
@@ -2448,7 +2453,7 @@
       "Name": "Golem Chaser",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "SkillCompletion1",
@@ -2480,7 +2485,7 @@
       "Name": "Sump Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "SyronGift",
@@ -2542,9 +2547,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 164
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2559,7 +2564,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 861,
+      "Progressed": 862,
       "Completed": 5
     }
   ],
@@ -2567,8 +2572,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-11T13:11:38.1352245+00:00",
+  "LastChanged_Achievements": "2023-09-11T14:05:28.7431134+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:03:28.6026503+00:00",
-  "LastUpdate_Achievements": "2023-09-11T13:11:38.1352982+00:00"
+  "LastUpdate_Ratings": "2023-09-11T13:57:41.3192295+00:00",
+  "LastUpdate_Achievements": "2023-09-11T14:05:28.7431606+00:00"
 }

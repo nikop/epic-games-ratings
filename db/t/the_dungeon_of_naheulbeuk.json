@@ -858,9 +858,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223210,
+  "EOS_Progressed": 223225,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2064,
+  "EOS_NewPlayers": 2068,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10433,6 +10433,11 @@
       "Time": "2023-09-11T13:12:37.9306555+00:00",
       "NumProgressed": 223210,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T14:06:28.5651786+00:00",
+      "NumProgressed": 223225,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10482,9 +10487,9 @@
       "ID": "BookCollection",
       "SetID": "50chcgj",
       "Name": "Scholar of the Lands of Fangh",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 446
+      "UsersEstimate": 670
     },
     {
       "ID": "Chapter1",
@@ -10492,7 +10497,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6696
+      "UsersEstimate": 6697
     },
     {
       "ID": "Chapter2",
@@ -10844,7 +10849,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8928
+      "UsersEstimate": 8929
     },
     {
       "ID": "DwarfElf15Support",
@@ -10876,7 +10881,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6696
+      "UsersEstimate": 6697
     },
     {
       "ID": "ElfEpic",
@@ -10892,7 +10897,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64731
+      "UsersEstimate": 64735
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10940,7 +10945,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8928
+      "UsersEstimate": 8929
     },
     {
       "ID": "FollowBraztok",
@@ -10964,7 +10969,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "KillDungeonLich",
@@ -11147,21 +11152,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223210,
+      "Progressed": 223225,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223210,
+      "Progressed": 223225,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-11T10:00:18.0008179+00:00",
-  "LastChanged_Achievements": "2023-09-11T13:12:37.9306549+00:00",
+  "LastChanged_Achievements": "2023-09-11T14:06:28.5651781+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:06:05.0634524+00:00",
-  "LastUpdate_Achievements": "2023-09-11T13:12:37.9308391+00:00"
+  "LastUpdate_Ratings": "2023-09-11T14:00:23.3690198+00:00",
+  "LastUpdate_Achievements": "2023-09-11T14:06:28.5653029+00:00"
 }

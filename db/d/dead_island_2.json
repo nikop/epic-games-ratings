@@ -4360,10 +4360,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8880,
       "NumberOfAwardsMax": 6008
+    },
+    {
+      "Time": "2023-09-11T14:00:29.5649246+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8884,
+      "NumberOfAwardsMax": 6008
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8880,
+  "NumberOfAwards": 8884,
   "NumberOfAwardsMax": 6008,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4419,12 +4425,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 345
+      "Count": 349
     }
   ],
-  "EOS_Progressed": 677875,
+  "EOS_Progressed": 677906,
   "EOS_Completed": 2136,
-  "EOS_NewPlayers": 4619,
+  "EOS_NewPlayers": 4613,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20547,6 +20553,11 @@
       "Time": "2023-09-11T13:13:06.1943508+00:00",
       "NumProgressed": 677875,
       "NumCompleted": 2136
+    },
+    {
+      "Time": "2023-09-11T14:06:46.6633778+00:00",
+      "NumProgressed": 677906,
+      "NumCompleted": 2136
     }
   ],
   "TotalAchievements": 45,
@@ -20750,7 +20761,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "ach_knock_down",
@@ -20862,7 +20873,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "ach_thesacrifice",
@@ -20902,7 +20913,7 @@
       "Name": "Rising Star",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "ach_well_trained",
@@ -20917,22 +20928,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 677875,
+      "Progressed": 677906,
       "Completed": 2136
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 3415,
-      "Completed": 3415
+      "Progressed": 3446,
+      "Completed": 3446
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-11T13:06:12.0374728+00:00",
-  "LastChanged_Achievements": "2023-09-11T13:13:06.19435+00:00",
+  "LastChanged": "2023-09-11T14:00:29.5649244+00:00",
+  "LastChanged_Achievements": "2023-09-11T14:06:46.6633773+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:06:12.0374735+00:00",
-  "LastUpdate_Achievements": "2023-09-11T13:13:06.1944854+00:00"
+  "LastUpdate_Ratings": "2023-09-11T14:00:29.5649249+00:00",
+  "LastUpdate_Achievements": "2023-09-11T14:06:46.6634824+00:00"
 }
