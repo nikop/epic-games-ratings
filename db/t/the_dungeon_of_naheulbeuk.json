@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -864,9 +864,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223270,
+  "EOS_Progressed": 223282,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2060,
+  "EOS_NewPlayers": 2059,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10459,6 +10459,11 @@
       "Time": "2023-09-11T17:08:40.4160753+00:00",
       "NumProgressed": 223270,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T18:06:43.8790408+00:00",
+      "NumProgressed": 223282,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10502,7 +10507,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "BookCollection",
@@ -10526,7 +10531,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "Chapter3",
@@ -10534,7 +10539,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "Chapter4",
@@ -10822,7 +10827,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -10894,7 +10899,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "DwarfLevel2",
@@ -10910,7 +10915,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -10918,7 +10923,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64748
+      "UsersEstimate": 64752
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -10934,7 +10939,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "EndCombatOneHp",
@@ -10942,7 +10947,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "EndGameCursed",
@@ -11110,7 +11115,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "Speedrun",
@@ -11118,7 +11123,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     },
     {
       "ID": "SupportCount4",
@@ -11166,28 +11171,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4465
+      "UsersEstimate": 4466
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223270,
+      "Progressed": 223282,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223270,
+      "Progressed": 223282,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-11T16:01:08.5233916+00:00",
-  "LastChanged_Achievements": "2023-09-11T17:08:40.4160746+00:00",
+  "LastChanged_Achievements": "2023-09-11T18:06:43.8790402+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:02:06.0007699+00:00",
-  "LastUpdate_Achievements": "2023-09-11T17:08:40.4162453+00:00"
+  "LastUpdate_Ratings": "2023-09-11T18:00:27.4873834+00:00",
+  "LastUpdate_Achievements": "2023-09-11T18:06:43.8792187+00:00"
 }

@@ -10,28 +10,28 @@
 | Failure | 77.00% | ~89 |
 | Replace Fuse | 66.00% | ~77 |
 | Alarm | 65.00% | ~75 |
-| Air Filtration | 62.00% | ~72 |
-| Broken | 60.00% | ~70 |
+| Air Filtration | 63.00% | ~73 |
+| Broken | 61.00% | ~71 |
 | Radiation | 59.00% | ~68 |
-| Descent | 58.00% | ~67 |
+| Descent | 59.00% | ~68 |
 | Awakenings | 57.00% | ~66 |
 | Cold Storage | 57.00% | ~66 |
 | Sam | 53.00% | ~61 |
-| Churchill | 51.00% | ~59 |
+| Churchill | 52.00% | ~60 |
 | Commissioner | 51.00% | ~59 |
-| Engineer | 49.00% | ~57 |
+| Engineer | 50.00% | ~58 |
 | Leave | 48.00% | ~56 |
 | Doctor | 48.00% | ~56 |
 | Soldier | 48.00% | ~56 |
-| Press Play | 35.00% | ~41 |
-| General | 25.00% | ~29 |
+| Press Play | 36.00% | ~42 |
+| General | 26.00% | ~30 |
 | Bookworm | 23.00% | ~27 |
 | Stay | 15.00% | ~17 |
-| Floppy Disk Finder | 13.00% | ~15 |
-| Nurse | 11.00% | ~13 |
-| No Page Unturned | 5.00% | ~6 |
+| Floppy Disk Finder | 14.00% | ~16 |
+| Nurse | 12.00% | ~14 |
+| No Page Unturned | 6.00% | ~7 |
+| Friends | 5.00% | ~6 |
 | The Missing Piece | 5.00% | ~6 |
-| Friends | 4.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 116 (Ranked 336)  
 Completed: 3 (2.59%) (Ranked 82)  

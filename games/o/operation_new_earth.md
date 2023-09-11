@@ -12,10 +12,10 @@
 | Sergeant | 11.00% | ~142 |
 | Lieutenant | 10.00% | ~129 |
 | Getting Deployment | 9.00% | ~116 |
+| Stocking Up | 9.00% | ~116 |
 | On Target | 9.00% | ~116 |
 | Fighting for Survival | 8.00% | ~103 |
 | Keeping Busy | 8.00% | ~103 |
-| Stocking Up | 8.00% | ~103 |
 | Infantry Reporting | 8.00% | ~103 |
 | Silver Competitor | 7.00% | ~90 |
 | Captain | 7.00% | ~90 |

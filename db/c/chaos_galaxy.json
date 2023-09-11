@@ -4,8 +4,8 @@
   "ProductSlug": "chaos-galaxy-a33dac",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
     "PcReleaseDate": "2020-06-19T16:30:00+00:00",
@@ -526,8 +526,8 @@
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-09-11T17:03:51.2823618+00:00",
+  "LastChanged_Achievements": "2023-09-11T18:03:15.9963508+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.5142846+00:00",
-  "LastUpdate_Ratings": "2023-09-11T16:58:09.0351875+00:00",
-  "LastUpdate_Achievements": "2023-09-11T17:03:51.2824371+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:57:39.7306524+00:00",
+  "LastUpdate_Achievements": "2023-09-11T18:03:15.9963947+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2234,
+  "EOS_Progressed": 2235,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1592,6 +1592,11 @@
       "Time": "2023-09-07T22:11:10.9923262+00:00",
       "NumProgressed": 2234,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-11T18:03:41.4398466+00:00",
+      "NumProgressed": 2235,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1643,7 +1648,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "deal_damage",
@@ -1651,15 +1656,15 @@
       "Name": "Ouch",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "defeat_enemies",
       "SetID": "236b9eg",
       "Name": "A Ribbiting Performance",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1698
+      "UsersEstimate": 1721
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1707,7 +1712,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1739,7 +1744,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "trash_truck",
@@ -1754,7 +1759,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2234,
+      "Progressed": 2235,
       "Completed": 9
     }
   ],
@@ -1762,8 +1767,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-09-11T17:04:19.7842382+00:00",
+  "LastChanged_Achievements": "2023-09-11T18:03:41.4398452+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:18.0277945+00:00",
-  "LastUpdate_Ratings": "2023-09-11T16:59:29.6653679+00:00",
-  "LastUpdate_Achievements": "2023-09-11T17:04:19.7842786+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:58:35.6733714+00:00",
+  "LastUpdate_Achievements": "2023-09-11T18:03:41.4398739+00:00"
 }

@@ -41,12 +41,12 @@
 | Reconquest | 1.00% | ~2 |
 | Counter-espionage | 0.60% | ~1 |
 | Conveyor Belt Madness | 0.60% | ~1 |
+| Against Adversity | 0.60% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
 | Self-management | 0.00% | ~0 |
 | War Veteran | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
-| Against Adversity | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 163 (Ranked 320)  

@@ -6,40 +6,40 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~20,781 |
-| The Evilest Evil | 58.00% | ~17,468 |
-| Twistram is devastated | 57.00% | ~17,167 |
-| The Gehenna Stones | 49.00% | ~14,758 |
-| No one has to die today! | 46.00% | ~13,854 |
-| Death and destruction! | 45.00% | ~13,553 |
-| The Swamplanders from the swamplands | 43.00% | ~12,951 |
-| Rusty Steel | 41.00% | ~12,348 |
-| The One-Huge-Army-Building Evil | 40.00% | ~12,047 |
+| The Shadow strikes | 69.00% | ~20,783 |
+| The Evilest Evil | 58.00% | ~17,470 |
+| Twistram is devastated | 57.00% | ~17,168 |
+| The Gehenna Stones | 49.00% | ~14,759 |
+| No one has to die today! | 46.00% | ~13,855 |
+| Death and destruction! | 45.00% | ~13,554 |
+| The Swamplanders from the swamplands | 43.00% | ~12,952 |
+| Rusty Steel | 41.00% | ~12,349 |
+| The One-Huge-Army-Building Evil | 40.00% | ~12,048 |
 | The last burger | 37.00% | ~11,144 |
 | Braiiiiins! | 37.00% | ~11,144 |
-| Hands off the Dungeonheart! | 36.00% | ~10,842 |
-| A trip on sea, what fun it can be | 34.00% | ~10,240 |
-| Damned good | 33.00% | ~9,939 |
+| Hands off the Dungeonheart! | 36.00% | ~10,843 |
+| A trip on sea, what fun it can be | 34.00% | ~10,241 |
+| Damned good | 33.00% | ~9,940 |
 | Stock Market Crash | 31.00% | ~9,337 |
 | Factory farming | 31.00% | ~9,337 |
-| Not-So-Overproud | 30.00% | ~9,035 |
-| For a handfull of Catapults | 29.00% | ~8,734 |
-| Shadow hunter | 29.00% | ~8,734 |
-| Ogre Solo! | 28.00% | ~8,433 |
+| Not-So-Overproud | 30.00% | ~9,036 |
+| For a handfull of Catapults | 29.00% | ~8,735 |
+| Shadow hunter | 29.00% | ~8,735 |
+| Ogre Solo! | 28.00% | ~8,434 |
 | Thirst quencher | 27.00% | ~8,132 |
 | Destroy the thing | 26.00% | ~7,831 |
 | Tide Master | 26.00% | ~7,831 |
 | Difficult family relationships | 25.00% | ~7,530 |
-| MASS-O-BOT | 24.00% | ~7,228 |
-| Prepare the grave | 24.00% | ~7,228 |
-| Angel of Fire | 24.00% | ~7,228 |
-| Where there is Light, there is Shadow | 23.00% | ~6,927 |
+| MASS-O-BOT | 24.00% | ~7,229 |
+| Prepare the grave | 24.00% | ~7,229 |
+| Angel of Fire | 24.00% | ~7,229 |
+| Where there is Light, there is Shadow | 23.00% | ~6,928 |
 | At the foot of Mount Destiny | 22.00% | ~6,626 |
 | The Force disturbed | 21.00% | ~6,325 |
 | The Victorious Evil | 20.00% | ~6,024 |
-| Chorus of damnation | 19.00% | ~5,722 |
-| We don’t have time! | 19.00% | ~5,722 |
-| The Stones’ Power | 18.00% | ~5,421 |
+| Chorus of damnation | 19.00% | ~5,723 |
+| We don’t have time! | 19.00% | ~5,723 |
+| The Stones’ Power | 18.00% | ~5,422 |
 | Flat as a pancake | 17.00% | ~5,120 |
 | Lifeguard | 17.00% | ~5,120 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,518 |
@@ -49,11 +49,11 @@ Number of Ratings: 1,635  (23.09.2022)
 | Please, no interruptions! | 10.00% | ~3,012 |
 | Use the terrain | 9.00% | ~2,711 |
 | Prison Break | 9.00% | ~2,711 |
-| Hearts of Iron | 8.00% | ~2,409 |
-| Master of Traps | 8.00% | ~2,409 |
-| Ignore The Level Designer’s Plan | 8.00% | ~2,409 |
-| Can’t stand to see an Ogre bleed | 8.00% | ~2,409 |
-| Lifesaver | 8.00% | ~2,409 |
+| Hearts of Iron | 8.00% | ~2,410 |
+| Master of Traps | 8.00% | ~2,410 |
+| Ignore The Level Designer’s Plan | 8.00% | ~2,410 |
+| Can’t stand to see an Ogre bleed | 8.00% | ~2,410 |
+| Lifesaver | 8.00% | ~2,410 |
 | Hearts are trump | 7.00% | ~2,108 |
 | Spawner Killer | 6.00% | ~1,807 |
 | A little something extra | 6.00% | ~1,807 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~602 |
 | Sacrifices! | 2.00% | ~602 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,118 (Ranked 101)  
+Progressed: 30,120 (Ranked 101)  
 Completed: 245 (0.81%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 245 (0.81%) (Ranked 131)
 | 2023-09-08 | 29,843 | 244 |
 | 2023-09-09 | 29,934 | 245 |
 | 2023-09-10 | 30,055 | 245 |
-| 2023-09-11 | 30,118 | 245 |
+| 2023-09-11 | 30,120 | 245 |
 ## Awards
 Max (Great for Beginners): 345  (Ranked 228)  
 Sum: 2,633 (Ranked 175)  

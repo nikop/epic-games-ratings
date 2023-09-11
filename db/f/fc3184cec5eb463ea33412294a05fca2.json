@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1126,9 +1126,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 153
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1165,8 +1165,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-11T17:03:28.2449939+00:00",
+  "LastChanged_Achievements": "2023-09-11T18:02:19.7333858+00:00",
   "LastUpdate_AppInfo": "2023-09-09T17:57:05.3356539+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:00:18.5034729+00:00",
-  "LastUpdate_Achievements": "2023-09-11T17:03:28.2450232+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:59:10.3673225+00:00",
+  "LastUpdate_Achievements": "2023-09-11T18:02:19.733408+00:00"
 }

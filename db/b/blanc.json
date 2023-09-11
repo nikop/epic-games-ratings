@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2668,
+  "EOS_Progressed": 2669,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3193,6 +3193,11 @@
       "Time": "2023-09-11T17:06:23.275637+00:00",
       "NumProgressed": 2668,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-11T18:05:06.910604+00:00",
+      "NumProgressed": 2669,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -3212,7 +3217,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "FALLEN_TREE",
@@ -3244,7 +3249,7 @@
       "Name": "Reunion",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "SLIDERS",
@@ -3307,7 +3312,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2668,
+      "Progressed": 2669,
       "Completed": 6
     }
   ],
@@ -3315,8 +3320,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-11T17:06:23.2756362+00:00",
+  "LastChanged_Achievements": "2023-09-11T18:05:06.9106034+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.1508529+00:00",
-  "LastUpdate_Ratings": "2023-09-11T16:57:51.3094039+00:00",
-  "LastUpdate_Achievements": "2023-09-11T17:06:23.2756867+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:57:28.1179855+00:00",
+  "LastUpdate_Achievements": "2023-09-11T18:05:06.9106398+00:00"
 }

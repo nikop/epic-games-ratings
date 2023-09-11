@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2441,6 +2441,11 @@
       "Time": "2023-09-11T13:09:54.7450574+00:00",
       "NumProgressed": 682,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-11T18:04:01.3583202+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2468,7 +2473,7 @@
       "Name": "Basic Controls",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "BigPlane",
@@ -2476,7 +2481,7 @@
       "Name": "Expensive Plane",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "BudgetFlight",
@@ -2588,7 +2593,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LargeTerritories",
@@ -2612,7 +2617,7 @@
       "Name": "Linear Network",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "LongDistance",
@@ -2668,7 +2673,7 @@
       "Name": "No Way Back",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "NotPlanned",
@@ -2787,14 +2792,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-11T17:04:47.2920307+00:00",
+  "LastChanged_Achievements": "2023-09-11T18:04:01.3583197+00:00",
   "LastUpdate_AppInfo": "2023-09-05T11:57:38.2387423+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:00:12.7461469+00:00",
-  "LastUpdate_Achievements": "2023-09-11T17:04:47.2920848+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:59:06.2018151+00:00",
+  "LastUpdate_Achievements": "2023-09-11T18:04:01.3583738+00:00"
 }

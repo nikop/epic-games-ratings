@@ -4,8 +4,8 @@
   "ProductSlug": "infindustry-cccc40",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -488,9 +488,9 @@
       "ID": "Healer",
       "SetID": "82ojhod",
       "Name": "Healer",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Rep1",
@@ -543,8 +543,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-09-11T17:04:46.9699989+00:00",
+  "LastChanged_Achievements": "2023-09-11T18:04:01.1119032+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.9437141+00:00",
-  "LastUpdate_Ratings": "2023-09-11T17:00:36.8014806+00:00",
-  "LastUpdate_Achievements": "2023-09-11T17:04:46.9700117+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:59:22.0901399+00:00",
+  "LastUpdate_Achievements": "2023-09-11T18:04:01.1119178+00:00"
 }

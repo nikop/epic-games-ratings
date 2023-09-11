@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~54 |
-| Tinkerer | 62.00% | ~39 |
-| Welcome to the Club | 33.00% | ~21 |
+| Self-Defence | 87.00% | ~55 |
+| Tinkerer | 63.00% | ~40 |
+| Welcome to the Club | 35.00% | ~22 |
 | Apprentice | 30.00% | ~19 |
-| A new World ahead | 24.00% | ~15 |
+| A new World ahead | 25.00% | ~16 |
 | Can't touch this | 24.00% | ~15 |
+| Don't Cry Wolf | 19.00% | ~12 |
 | Freezing Cold | 17.00% | ~11 |
-| Don't Cry Wolf | 17.00% | ~11 |
 | The Power of the Mountains | 17.00% | ~11 |
 | Searing Heat | 14.00% | ~9 |
 | Expert | 14.00% | ~9 |

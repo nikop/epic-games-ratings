@@ -1289,9 +1289,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127521,
+  "EOS_Progressed": 127522,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 281,
+  "EOS_NewPlayers": 278,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15614,6 +15614,11 @@
       "Time": "2023-09-11T17:06:37.2136152+00:00",
       "NumProgressed": 127521,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-11T18:05:17.3606228+00:00",
+      "NumProgressed": 127522,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15729,7 +15734,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20403
+      "UsersEstimate": 20404
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -15737,7 +15742,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 26779
+      "UsersEstimate": 26780
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -15761,7 +15766,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20403
+      "UsersEstimate": 20404
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -15944,15 +15949,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127521,
+      "Progressed": 127522,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-11T17:06:37.2136145+00:00",
+  "LastChanged_Achievements": "2023-09-11T18:05:17.3606217+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-11T16:57:48.1449174+00:00",
-  "LastUpdate_Achievements": "2023-09-11T17:06:37.2138003+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:57:25.9623436+00:00",
+  "LastUpdate_Achievements": "2023-09-11T18:05:17.3607652+00:00"
 }
