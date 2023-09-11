@@ -108,7 +108,7 @@
 | 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,482 | 124 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 938 | 149 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
-| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,763 | 69 |
+| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,807 | 69 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 6,999 | 51 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,487 | 17 |
 | 109 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 517 |
@@ -240,7 +240,7 @@
 | 217 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 41 | 425 |
 | 217 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 976 | 146 |
 | 217 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 517 |
-| 217 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 821 | 156 |
+| 217 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 824 | 156 |
 | 242 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,346 | 90 |
 | 242 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,488 | 89 |
 | 242 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 517 |
@@ -278,7 +278,7 @@
 | 259 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 90 | 354 |
 | 259 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,287 | 92 |
 | 259 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 517 |
-| 279 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,362 | 66 |
+| 279 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 5,375 | 66 |
 | 279 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 425 |
 | 279 | [Crashlands](games/c/crashlands.md) | 4.66 | 193 | 276 |
 | 279 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 169 | 290 |
@@ -412,7 +412,7 @@
 | 393 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 236 | 260 |
 | 393 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.60 | 0 | 517 |
 | 393 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 498 |
-| 393 | [Warframe](games/w/warframe.md) | 4.60 | 16,974 | 22 |
+| 393 | [Warframe](games/w/warframe.md) | 4.60 | 16,992 | 22 |
 | 393 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 436 | 208 |
 | 393 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 358 |
 | 393 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 517 |
@@ -504,7 +504,7 @@
 | 501 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,008 | 57 |
 | 501 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |
 | 501 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
-| 501 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,339 | 130 |
+| 501 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,341 | 130 |
 | 501 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.54 | 0 | 517 |
 | 501 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 73 | 376 |
 | 501 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 379 |
@@ -984,5 +984,5 @@
 | 982 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 517 |
 | 983 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.63 | 0 | 517 |
 | 984 | [Adios](games/a/adios.md) | 3.58 | 0 | 517 |
-| 985 | [Redfall](games/r/redfall.md) | 3.52 | 0 | 517 |
-| 985 | [Spelldrifter](games/s/spelldrifter.md) | 3.52 | 0 | 517 |
+| 985 | [Spelldrifter](games/s/spelldrifter.md) | 3.53 | 0 | 517 |
+| 986 | [Redfall](games/r/redfall.md) | 3.52 | 0 | 517 |

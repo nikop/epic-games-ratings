@@ -21,7 +21,7 @@
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,438 | 4.57 | 450 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 19,151 | 4.26 | 826 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,184 | 4.89 | 13 |
-| 22 | [Warframe](games/w/warframe.md) | 16,974 | 4.60 | 393 |
+| 22 | [Warframe](games/w/warframe.md) | 16,992 | 4.60 | 393 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,272 | 4.76 | 117 |
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,475 | 4.58 | 430 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,692 | 4.60 | 393 |
@@ -65,10 +65,10 @@
 | 63 | [Prey](games/p/prey.md) | 5,682 | 4.62 | 353 |
 | 64 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,557 | 4.85 | 43 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,379 | 4.33 | 773 |
-| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 5,362 | 4.66 | 279 |
+| 66 | [Cities: Skylines](games/c/cities__skylines.md) | 5,375 | 4.66 | 279 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,261 | 4.06 | 931 |
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,905 | 4.69 | 217 |
-| 69 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,763 | 4.77 | 109 |
+| 69 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,807 | 4.77 | 109 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,747 | 4.56 | 469 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,733 | 3.99 | 944 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,601 | 4.60 | 393 |
@@ -129,7 +129,7 @@
 | 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,434 | 4.53 | 519 |
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,421 | 4.54 | 501 |
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,421 | 4.86 | 31 |
-| 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,339 | 4.54 | 501 |
+| 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,341 | 4.54 | 501 |
 | 131 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,319 | 4.70 | 203 |
 | 132 | [World of Warships](games/w/world_of_warships.md) | 1,315 | 4.41 | 690 |
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 279 |
@@ -155,7 +155,7 @@
 | 153 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 877 | 4.45 | 641 |
 | 154 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 843 | 4.56 | 469 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 833 | 4.45 | 641 |
-| 156 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 821 | 4.69 | 217 |
+| 156 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 824 | 4.69 | 217 |
 | 157 | [Frostpunk](games/f/frostpunk.md) | 809 | 4.74 | 146 |
 | 158 | [The Long Dark](games/t/the_long_dark.md) | 801 | 4.74 | 146 |
 | 159 | [Auto Chess](games/a/auto_chess.md) | 790 | 4.51 | 547 |
