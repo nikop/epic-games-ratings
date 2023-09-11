@@ -11,6 +11,7 @@
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
 | I like parks | 0.30% | ~1 |
+| Small town | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
 | Full archipelago | 0.00% | ~0 |
@@ -58,7 +59,6 @@
 | Little Mayor | 0.00% | ~0 |
 | Town planner | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |
-| Small town | 0.00% | ~0 |
 | Metropolurbek | 0.00% | ~0 |
 | Metropolurbek Plus | 0.00% | ~0 |
 | Rebel city | 0.00% | ~0 |

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 72.00% | ~154 |
-| Forced to Kill | 70.00% | ~150 |
+| Alone with Them | 73.00% | ~156 |
+| Forced to Kill | 71.00% | ~152 |
 | A Night To Remember | 41.00% | ~88 |
 | Safe...For now? | 34.00% | ~73 |
 | Open Sesame | 29.00% | ~62 |

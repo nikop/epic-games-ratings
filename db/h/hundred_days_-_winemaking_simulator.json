@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -908,10 +908,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1460,
       "NumberOfAwardsMax": 204
+    },
+    {
+      "Time": "2023-09-11T22:59:49.0882555+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1461,
+      "NumberOfAwardsMax": 204
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1460,
+  "NumberOfAwards": 1461,
   "NumberOfAwardsMax": 204,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -925,7 +931,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -976,7 +982,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2561,
+  "EOS_Progressed": 2572,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 1269,
   "EOS_NewCompleters": 1,
@@ -2466,6 +2472,11 @@
       "Time": "2023-09-11T22:05:18.9529751+00:00",
       "NumProgressed": 2561,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-11T23:04:37.848328+00:00",
+      "NumProgressed": 2572,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2478,7 +2489,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "a_10",
@@ -2526,7 +2537,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 896
+      "UsersEstimate": 900
     },
     {
       "ID": "a_19",
@@ -2542,7 +2553,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "a_20",
@@ -2550,7 +2561,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "a_21",
@@ -2558,7 +2569,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "a_22",
@@ -2566,7 +2577,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "a_23",
@@ -2574,7 +2585,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "a_25",
@@ -2582,7 +2593,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "a_26",
@@ -2636,9 +2647,9 @@
       "ID": "a_32",
       "SetID": "daiie3o",
       "Name": "Sales Expert",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "a_33",
@@ -2725,16 +2736,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2561,
+      "Progressed": 2572,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-09-09T20:59:06.8541677+00:00",
-  "LastChanged_Achievements": "2023-09-11T22:05:18.9529745+00:00",
+  "LastChanged": "2023-09-11T22:59:49.0882552+00:00",
+  "LastChanged_Achievements": "2023-09-11T23:04:37.8483275+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-11T22:00:37.3217453+00:00",
-  "LastUpdate_Achievements": "2023-09-11T22:05:18.9530049+00:00"
+  "LastUpdate_Ratings": "2023-09-11T22:59:49.0882561+00:00",
+  "LastUpdate_Achievements": "2023-09-11T23:04:37.848361+00:00"
 }

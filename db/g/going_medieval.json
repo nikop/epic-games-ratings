@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 393,
+  "Ranking_Rating": 394,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1270,7 +1270,7 @@
   ],
   "EOS_Progressed": 5741,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -9403,8 +9403,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-10T06:57:03.2829153+00:00",
-  "LastChanged_Achievements": "2023-09-11T22:05:53.9759083+00:00",
+  "LastChanged_Achievements": "2023-09-11T23:05:07.8164228+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:04.6592929+00:00",
-  "LastUpdate_Ratings": "2023-09-11T21:57:53.4188622+00:00",
-  "LastUpdate_Achievements": "2023-09-11T22:05:53.9759703+00:00"
+  "LastUpdate_Ratings": "2023-09-11T22:57:34.4551455+00:00",
+  "LastUpdate_Achievements": "2023-09-11T23:05:07.8165064+00:00"
 }

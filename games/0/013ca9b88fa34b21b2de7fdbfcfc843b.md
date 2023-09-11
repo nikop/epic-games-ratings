@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 71.00% | ~794 |
-| A Thorny Situation | 62.00% | ~693 |
-| ... And Spit Back Out | 47.00% | ~525 |
-| Break-Net Speed | 40.00% | ~447 |
-| Bramble Breaker | 29.00% | ~324 |
-| Humble Collector | 28.00% | ~313 |
-| Miner 49er | 27.00% | ~302 |
-| Oui, Chef! | 16.00% | ~179 |
-| Calm Sailing | 15.00% | ~168 |
-| Lumberjack | 13.00% | ~145 |
-| Open the Gate! | 12.00% | ~134 |
-| Mist Walker | 10.00% | ~112 |
-| Beach Comber | 7.00% | ~78 |
-| Botanical Breakthrough | 6.00% | ~67 |
-| Clear the Air | 3.00% | ~34 |
-| Search for the Hairy Grell | 2.00% | ~22 |
-| Chatty Neighbor | 2.00% | ~22 |
-| Got to Catch Them All | 1.00% | ~11 |
-| Rumble in the Jumble | 1.00% | ~11 |
-| Higher Tax Bracket | 1.00% | ~11 |
-| Fanatical Farmer | 1.00% | ~11 |
-| I Now Pronounce You... | 1.00% | ~11 |
-| Azorian Anniversary | 1.00% | ~11 |
-| Right Tool For the Job | 1.00% | ~11 |
-| Captain of Cozy | 1.00% | ~11 |
-| Skilled | 1.00% | ~11 |
+| Azoria Beckons | 70.00% | ~818 |
+| A Thorny Situation | 62.00% | ~725 |
+| ... And Spit Back Out | 47.00% | ~549 |
+| Break-Net Speed | 39.00% | ~456 |
+| Bramble Breaker | 29.00% | ~339 |
+| Humble Collector | 28.00% | ~327 |
+| Miner 49er | 27.00% | ~316 |
+| Oui, Chef! | 15.00% | ~175 |
+| Calm Sailing | 14.00% | ~164 |
+| Open the Gate! | 12.00% | ~140 |
+| Lumberjack | 12.00% | ~140 |
+| Mist Walker | 10.00% | ~117 |
+| Beach Comber | 7.00% | ~82 |
+| Botanical Breakthrough | 6.00% | ~70 |
+| Clear the Air | 3.00% | ~35 |
+| Search for the Hairy Grell | 2.00% | ~23 |
+| Chatty Neighbor | 2.00% | ~23 |
+| Got to Catch Them All | 1.00% | ~12 |
+| Higher Tax Bracket | 1.00% | ~12 |
+| Right Tool For the Job | 1.00% | ~12 |
+| Skilled | 1.00% | ~12 |
+| Rumble in the Jumble | 0.90% | ~11 |
+| Fanatical Farmer | 0.90% | ~11 |
+| I Now Pronounce You... | 0.90% | ~11 |
+| Azorian Anniversary | 0.90% | ~11 |
+| Captain of Cozy | 0.90% | ~11 |
 | House Proud | 0.70% | ~8 |
 | Scattered Scroll Scrounger | 0.50% | ~6 |
-| Flaming Hot Completos | 0.40% | ~4 |
-| Fae Farmer | 0.40% | ~4 |
+| Flaming Hot Completos | 0.40% | ~5 |
+| Fae Farmer | 0.40% | ~5 |
 | Cloverfield Island | 0.10% | ~1 |
 | Angling Authority | 0.10% | ~1 |
 | Workaholic | 0.10% | ~1 |
 | Giving the People What They Want | 0.10% | ~1 |
 | Very Skilled | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,118 (Ranked 204)  
+Progressed: 1,169 (Ranked 203)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,4 +58,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 183 | 0 |
 | 2023-09-09 | 402 | 0 |
 | 2023-09-10 | 624 | 0 |
-| 2023-09-11 | 1,118 | 0 |
+| 2023-09-11 | 1,169 | 0 |

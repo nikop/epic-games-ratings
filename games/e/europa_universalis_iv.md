@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,011 |
-| That's a Grand Army | 3.00% | ~12,008 |
-| That is mine! | 3.00% | ~12,008 |
-| Victorious! | 3.00% | ~12,008 |
+| Until death do us apart | 4.00% | ~16,012 |
+| That's a Grand Army | 3.00% | ~12,009 |
+| That is mine! | 3.00% | ~12,009 |
+| Victorious! | 3.00% | ~12,009 |
 | Brothers in Arms | 2.00% | ~8,006 |
 | For the Glory | 2.00% | ~8,006 |
 | That's a Grand Navy | 2.00% | ~8,006 |
@@ -27,9 +27,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.70% | ~2,802 |
 | Total Control | 0.70% | ~2,802 |
 | My armies are invincible! | 0.60% | ~2,402 |
-| Agressive Expander | 0.50% | ~2,001 |
-| City of Cities | 0.50% | ~2,001 |
-| Combined Arms | 0.50% | ~2,001 |
+| Agressive Expander | 0.50% | ~2,002 |
+| City of Cities | 0.50% | ~2,002 |
+| Combined Arms | 0.50% | ~2,002 |
 | Azur semé de lis or | 0.40% | ~1,601 |
 | Factionalism | 0.40% | ~1,601 |
 | Gentle Persuasion | 0.40% | ~1,601 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,283 (Ranked 40)  
+Progressed: 400,309 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -505,7 +505,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 396,260 | 0 |
 | 2023-09-09 | 397,873 | 0 |
 | 2023-09-10 | 399,390 | 0 |
-| 2023-09-11 | 400,283 | 0 |
+| 2023-09-11 | 400,309 | 0 |
 ## Awards
 Max (Educational): 6,030  (Ranked 56)  
 Sum: 49,691 (Ranked 26)  

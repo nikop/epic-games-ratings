@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -152,9 +152,9 @@
       "ID": "0",
       "SetID": "38ide56",
       "Name": "Mighty Powers",
-      "Percentage": 65,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "1",
@@ -200,9 +200,9 @@
       "ID": "14",
       "SetID": "38ide56",
       "Name": "Pup Pup Boogie",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "15",
@@ -401,8 +401,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-09-11T22:06:02.8890588+00:00",
+  "LastChanged_Achievements": "2023-09-11T23:05:15.4634884+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:56.5849595+00:00",
-  "LastUpdate_Ratings": "2023-09-11T21:58:01.1615954+00:00",
-  "LastUpdate_Achievements": "2023-09-11T22:06:02.8890814+00:00"
+  "LastUpdate_Ratings": "2023-09-11T22:57:40.6509673+00:00",
+  "LastUpdate_Achievements": "2023-09-11T23:05:15.4635122+00:00"
 }

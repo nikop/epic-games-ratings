@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1158,9 +1158,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17355,
+  "EOS_Progressed": 17356,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -16703,6 +16703,11 @@
       "Time": "2023-09-11T22:06:06.7057162+00:00",
       "NumProgressed": 17355,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-09-11T23:05:18.6953733+00:00",
+      "NumProgressed": 17356,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 45,
@@ -16730,7 +16735,7 @@
       "Name": "Artificial selection",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "BackToHell",
@@ -16746,7 +16751,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 2950
+      "UsersEstimate": 2951
     },
     {
       "ID": "DeadInTheAir",
@@ -16778,7 +16783,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 4512
+      "UsersEstimate": 4513
     },
     {
       "ID": "GRProjectComplete",
@@ -16810,7 +16815,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -16850,7 +16855,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 13190
+      "UsersEstimate": 13191
     },
     {
       "ID": "MoreThanHuman",
@@ -16898,7 +16903,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 7636
+      "UsersEstimate": 7637
     },
     {
       "ID": "Perfection",
@@ -17066,28 +17071,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5206
+      "UsersEstimate": 5207
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 17355,
+      "Progressed": 17356,
       "Completed": 43
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 17355,
+      "Progressed": 17356,
       "Completed": 67
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-09T13:01:00.3189284+00:00",
-  "LastChanged_Achievements": "2023-09-11T22:06:06.7057158+00:00",
+  "LastChanged_Achievements": "2023-09-11T23:05:18.6953722+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.113291+00:00",
-  "LastUpdate_Ratings": "2023-09-11T22:00:54.869878+00:00",
-  "LastUpdate_Achievements": "2023-09-11T22:06:06.7058336+00:00"
+  "LastUpdate_Ratings": "2023-09-11T23:00:02.9106681+00:00",
+  "LastUpdate_Achievements": "2023-09-11T23:05:18.6955891+00:00"
 }

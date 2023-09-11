@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,284 |
+| A Brief Tour of the Realms | 1.00% | ~2,285 |
 | Beast Intentions | 0.60% | ~1,371 |
 | The Cursed Farmer | 0.60% | ~1,371 |
 | The Mad Wizard | 0.50% | ~1,142 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,446 (Ranked 54)  
+Progressed: 228,451 (Ranked 54)  
 Completed: 2,270 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -671,7 +671,7 @@ Completed: 2,270 (0.99%) (Ranked 124)
 | 2023-09-08 | 227,989 | 2,263 |
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
-| 2023-09-11 | 228,446 | 2,270 |
+| 2023-09-11 | 228,451 | 2,270 |
 ## Awards
 Max (Diverse Characters): 5,261  (Ranked 67)  
 Sum: 31,535 (Ranked 39)  

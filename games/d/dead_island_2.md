@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 2.00% | ~13,564 |
-| Welcome To Hell-A | 2.00% | ~13,564 |
+| Break A Leg | 2.00% | ~13,565 |
+| Hotel California | 2.00% | ~13,565 |
+| Welcome To Hell-A | 2.00% | ~13,565 |
 | Dr. Reed, I Presume? | 1.00% | ~6,782 |
 | Git Gutte! | 1.00% | ~6,782 |
 | Bookworm | 1.00% | ~6,782 |
-| Break A Leg | 1.00% | ~6,782 |
 | But Doctor, I am Butcho | 1.00% | ~6,782 |
 | Slayer Squad | 1.00% | ~6,782 |
 | Can't Handle the Truth | 1.00% | ~6,782 |
@@ -30,9 +30,9 @@ Rating: 4.54 (Ranked 501)
 | Ooh, Shiny! | 0.90% | ~6,104 |
 | I Am the Resurrection | 0.90% | ~6,104 |
 | Our True Nature | 0.90% | ~6,104 |
-| Making Your Mark | 0.70% | ~4,747 |
-| Humanity Distilled | 0.70% | ~4,747 |
-| Down with the Sickness | 0.70% | ~4,747 |
+| Making Your Mark | 0.70% | ~4,748 |
+| Humanity Distilled | 0.70% | ~4,748 |
+| Down with the Sickness | 0.70% | ~4,748 |
 | Max Headroom | 0.60% | ~4,069 |
 | Jumbo Keyring | 0.50% | ~3,391 |
 | Go, Bobcats! | 0.50% | ~3,391 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Donk! | 0.10% | ~678 |
 | Bucket List | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,213 (Ranked 22)  
+Progressed: 678,235 (Ranked 22)  
 Completed: 2,137 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,14 +195,14 @@ Completed: 2,137 (0.32%) (Ranked 178)
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
-| 2023-09-11 | 678,213 | 2,137 |
+| 2023-09-11 | 678,235 | 2,137 |
 ## Awards
-Max (Great Boss Battles): 6,008  (Ranked 57)  
-Sum: 8,886 (Ranked 94)  
+Max (Great Boss Battles): 6,016  (Ranked 57)  
+Sum: 8,894 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,008 |
+| This game has Great Boss Battles | 6,016 |
 | This game is Great for Beginners | 407 |
 | This game has Diverse Characters | 397 |
 | This game has Quickly Understood Controls | 387 |
@@ -357,4 +357,4 @@ Diff (max vs sum): -37
 | 2023-09-08 | 4.54 | 5,969 | 8,812 |
 | 2023-09-09 | 4.54 | 5,990 | 8,845 |
 | 2023-09-10 | 4.54 | 6,008 | 8,872 |
-| 2023-09-11 | 4.54 | 6,008 | 8,886 |
+| 2023-09-11 | 4.54 | 6,016 | 8,894 |

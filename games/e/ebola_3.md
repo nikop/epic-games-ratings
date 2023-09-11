@@ -12,14 +12,14 @@
 | Doberman ✔ | 15.00% | ~39 |
 | Weapon ✔ | 11.00% | ~29 |
 | Chess ✔ | 10.00% | ~26 |
-| Master of Unlocking ✔ | 9.00% | ~23 |
+| Master of Unlocking ✔ | 9.00% | ~24 |
 | Survival ✔ | 8.00% | ~21 |
 | Thirst ✔ | 8.00% | ~21 |
-| Hospital ✔ | 7.00% | ~18 |
 | Antivirus ✔ | 6.00% | ~16 |
 | Betty ✔ | 6.00% | ~16 |
 | Cheats ✔ | 6.00% | ~16 |
 | City ✔ | 6.00% | ~16 |
+| Hospital ✔ | 6.00% | ~16 |
 | Fraternal help ✔ | 6.00% | ~16 |
 | Alice ✔ | 5.00% | ~13 |
 | Brain ✔ | 5.00% | ~13 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.40% | ~1 |
 | Rank A+ ✔ | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261 (Ranked 291)  
+Progressed: 262 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 242 | 0 |
 | 2023-09-09 | 246 | 0 |
 | 2023-09-10 | 253 | 0 |
-| 2023-09-11 | 261 | 0 |
+| 2023-09-11 | 262 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

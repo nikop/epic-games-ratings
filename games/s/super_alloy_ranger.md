@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 79.00% | ~63 |
-| Gear Up | 68.00% | ~54 |
-| A Grand Show | 68.00% | ~54 |
-| Freshen Up | 57.00% | ~46 |
-| GG EZ | 57.00% | ~46 |
-| Hydrophobia | 43.00% | ~34 |
-| Ka-Ching! | 34.00% | ~27 |
+| Iceberg Theory | 80.00% | ~65 |
+| Gear Up | 68.00% | ~55 |
+| A Grand Show | 68.00% | ~55 |
+| Freshen Up | 58.00% | ~47 |
+| GG EZ | 58.00% | ~47 |
+| Hydrophobia | 43.00% | ~35 |
+| Ka-Ching! | 33.00% | ~27 |
 | Stop Right There | 31.00% | ~25 |
 | Get to the Point | 30.00% | ~24 |
 | Mr. Want It All | 16.00% | ~13 |
@@ -21,7 +21,7 @@
 | Space Warrior: Prologue | 11.00% | ~9 |
 | The Abyss Conqueror | 10.00% | ~8 |
 | Keep it Up, rookie! | 9.00% | ~7 |
-| The Fortress Conqueror | 8.00% | ~6 |
+| The Fortress Conqueror | 7.00% | ~6 |
 | he Ultra Fortress Conqueror | 6.00% | ~5 |
 | Antaeus | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
@@ -37,11 +37,11 @@
 | The Inactivated Frozen Conqueror | 4.00% | ~3 |
 | Death Bringer Conqueror | 4.00% | ~3 |
 | Space Ranger: Prologue | 4.00% | ~3 |
-| The Looping Space Conqueror | 3.00% | ~2 |
-| Break Through the Forbidden | 3.00% | ~2 |
-| Breaking the Limit | 3.00% | ~2 |
-| The Truth? | 3.00% | ~2 |
-| Proliferation | 3.00% | ~2 |
+| The Looping Space Conqueror | 2.00% | ~2 |
+| Break Through the Forbidden | 2.00% | ~2 |
+| Breaking the Limit | 2.00% | ~2 |
+| The Truth? | 2.00% | ~2 |
+| Proliferation | 2.00% | ~2 |
 | Pumped Up | 1.00% | ~1 |
 | Easy Peasy | 1.00% | ~1 |
 | Clean Sweep | 1.00% | ~1 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 364)  
+Progressed: 81 (Ranked 363)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 62 | 0 |
 | 2023-09-09 | 67 | 0 |
 | 2023-09-10 | 75 | 0 |
-| 2023-09-11 | 80 | 0 |
+| 2023-09-11 | 81 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
