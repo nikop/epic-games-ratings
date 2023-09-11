@@ -96,7 +96,7 @@
 | 88 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 758 | 162 |
 | 88 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,997 | 58 |
 | 88 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.79 | 55 | 395 |
-| 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,465 | 102 |
+| 88 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,467 | 102 |
 | 88 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 388 | 220 |
 | 88 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 121 | 320 |
 | 88 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 517 |
@@ -205,7 +205,7 @@
 | 203 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,575 | 73 |
 | 203 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 389 | 219 |
 | 203 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 415 | 214 |
-| 203 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,178 | 49 |
+| 203 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,192 | 49 |
 | 203 | [For The King](games/f/for_the_king.md) | 4.70 | 387 | 221 |
 | 203 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 517 |
 | 203 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 51 | 402 |
@@ -283,7 +283,7 @@
 | 279 | [Crashlands](games/c/crashlands.md) | 4.66 | 193 | 276 |
 | 279 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 169 | 290 |
 | 279 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,293 | 133 |
-| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 344 | 228 |
+| 279 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 345 | 228 |
 | 279 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.66 | 47 | 409 |
 | 279 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.66 | 0 | 517 |
 | 279 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 517 |
