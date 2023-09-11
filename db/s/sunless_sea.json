@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37108,
+  "EOS_Progressed": 37109,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15352,6 +15352,11 @@
       "Time": "2023-09-11T05:05:49.3018105+00:00",
       "NumProgressed": 37108,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-11T06:07:09.7779963+00:00",
+      "NumProgressed": 37109,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -15379,7 +15384,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6308
+      "UsersEstimate": 6309
     },
     {
       "ID": "ach_antiquarian10",
@@ -15715,7 +15720,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 6679
+      "UsersEstimate": 6680
     },
     {
       "ID": "ach_terror100",
@@ -15794,15 +15799,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37108,
+      "Progressed": 37109,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-11T05:05:49.30181+00:00",
+  "LastChanged_Achievements": "2023-09-11T06:07:09.7779958+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.2839059+00:00",
-  "LastUpdate_Ratings": "2023-09-11T04:58:11.0049094+00:00",
-  "LastUpdate_Achievements": "2023-09-11T05:05:49.3019321+00:00"
+  "LastUpdate_Ratings": "2023-09-11T05:59:31.0125032+00:00",
+  "LastUpdate_Achievements": "2023-09-11T06:07:09.7781028+00:00"
 }

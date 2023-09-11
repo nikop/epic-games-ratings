@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 2.00% | ~13,554 |
-| Welcome To Hell-A | 2.00% | ~13,554 |
+| Hotel California | 2.00% | ~13,555 |
+| Welcome To Hell-A | 2.00% | ~13,555 |
 | Dr. Reed, I Presume? | 1.00% | ~6,777 |
 | Git Gutte! | 1.00% | ~6,777 |
 | Bookworm | 1.00% | ~6,777 |
@@ -24,9 +24,9 @@ Rating: 4.54 (Ranked 501)
 | Stacking the Deck | 1.00% | ~6,777 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,777 |
 | This is My Weapon | 1.00% | ~6,777 |
-| Ooh, Shiny! | 0.90% | ~6,099 |
-| I Am the Resurrection | 0.90% | ~6,099 |
-| Our True Nature | 0.90% | ~6,099 |
+| Ooh, Shiny! | 0.90% | ~6,100 |
+| I Am the Resurrection | 0.90% | ~6,100 |
+| Our True Nature | 0.90% | ~6,100 |
 | Anger Management | 0.80% | ~5,422 |
 | Perks of the Job | 0.80% | ~5,422 |
 | I Got a Zombie Army and You Can't Harm Me | 0.80% | ~5,422 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Donk! | 0.10% | ~678 |
 | Bucket List | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 677,714 (Ranked 22)  
+Progressed: 677,736 (Ranked 22)  
 Completed: 2,136 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 2,136 (0.32%) (Ranked 178)
 | 2023-09-08 | 675,980 | 2,122 |
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
-| 2023-09-11 | 677,714 | 2,136 |
+| 2023-09-11 | 677,736 | 2,136 |
 ## Awards
 Max (Great Boss Battles): 6,008  (Ranked 57)  
 Sum: 8,873 (Ranked 94)  

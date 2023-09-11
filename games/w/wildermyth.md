@@ -39,6 +39,7 @@ Number of Ratings: 45  (23.09.2022)
 | Worldwalker | 4.00% | ~56 |
 | Grillmaster | 4.00% | ~56 |
 | No Time for Clawmonsters | 4.00% | ~56 |
+| The Power of Friendship | 3.00% | ~42 |
 | Empty the Caves | 3.00% | ~42 |
 | Bonebreakers | 3.00% | ~42 |
 | No More Nightmares | 3.00% | ~42 |
@@ -48,7 +49,6 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 3.00% | ~42 |
 | Tempest | 3.00% | ~42 |
 | Lochias's Hunger | 3.00% | ~42 |
-| The Power of Friendship | 2.00% | ~28 |
 | Drauvenslayers | 2.00% | ~28 |
 | Back into the Sea | 2.00% | ~28 |
 | War-Ender | 2.00% | ~28 |

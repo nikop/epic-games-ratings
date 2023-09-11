@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 628,
+  "EOS_Progressed": 629,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
@@ -1633,6 +1633,11 @@
       "Time": "2023-09-11T01:45:21.6429554+00:00",
       "NumProgressed": 628,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-11T06:05:23.1221373+00:00",
+      "NumProgressed": 629,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1661,7 +1666,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1669,7 +1674,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "_05_FinishAct2",
@@ -1677,7 +1682,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1693,7 +1698,7 @@
       "Name": "All Good Things",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "_08_Completion_10",
@@ -1709,7 +1714,7 @@
       "Name": "Powder Monkey",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "_10_Completion_30",
@@ -1789,7 +1794,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1835,9 +1840,9 @@
       "ID": "_25_CrewTale_GCW",
       "SetID": "8a1io5d",
       "Name": "Rustic Recipe",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 63
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -1852,7 +1857,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 628,
+      "Progressed": 629,
       "Completed": 14
     }
   ],
@@ -1860,8 +1865,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-11T05:03:40.7663529+00:00",
+  "LastChanged_Achievements": "2023-09-11T06:05:23.122137+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-11T05:01:23.0469431+00:00",
-  "LastUpdate_Achievements": "2023-09-11T05:03:40.7663757+00:00"
+  "LastUpdate_Ratings": "2023-09-11T06:02:35.836664+00:00",
+  "LastUpdate_Achievements": "2023-09-11T06:05:23.1221621+00:00"
 }

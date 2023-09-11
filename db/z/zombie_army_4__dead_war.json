@@ -4,11 +4,11 @@
   "ProductSlug": "zombie-army-4-dead-war",
   "Ranking_Rating": 217,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1969,18 +1969,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2490,
       "NumberOfAwardsMax": 821
+    },
+    {
+      "Time": "2023-09-11T06:00:07.8031369+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2493,
+      "NumberOfAwardsMax": 824
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2490,
-  "NumberOfAwardsMax": 821,
+  "NumberOfAwards": 2493,
+  "NumberOfAwardsMax": 824,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 821
+      "Count": 824
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7218,9 +7224,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2023-09-11T01:40:28.7346425+00:00",
-  "LastChanged_Achievements": "2023-09-11T05:07:59.1516366+00:00",
+  "LastChanged": "2023-09-11T06:00:07.8031368+00:00",
+  "LastChanged_Achievements": "2023-09-11T06:09:18.4796457+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:11.630009+00:00",
-  "LastUpdate_Ratings": "2023-09-11T04:58:48.1032371+00:00",
-  "LastUpdate_Achievements": "2023-09-11T05:07:59.1517076+00:00"
+  "LastUpdate_Ratings": "2023-09-11T06:00:07.8031372+00:00",
+  "LastUpdate_Achievements": "2023-09-11T06:09:18.4797159+00:00"
 }

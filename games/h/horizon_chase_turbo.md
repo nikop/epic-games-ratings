@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~937,297 |
-| I Need a Bigger Garage | 63.00% | ~656,108 |
-| Pump my Ride | 47.00% | ~489,477 |
-| Ghostbuster | 33.00% | ~343,676 |
-| That Was Close | 18.00% | ~187,459 |
-| Call Roadside Assistance | 17.00% | ~177,045 |
-| Quickie | 11.00% | ~114,559 |
-| California Dreamer | 7.00% | ~72,901 |
+| The First of Many | 90.00% | ~937,305 |
+| I Need a Bigger Garage | 63.00% | ~656,114 |
+| Pump my Ride | 47.00% | ~489,482 |
+| Ghostbuster | 33.00% | ~343,678 |
+| That Was Close | 18.00% | ~187,461 |
+| Call Roadside Assistance | 17.00% | ~177,046 |
+| Quickie | 11.00% | ~114,560 |
+| California Dreamer | 7.00% | ~72,902 |
 | Can't Touch This | 5.00% | ~52,072 |
-| Driver from Ipanema | 3.00% | ~31,243 |
-| Carménère Taster | 3.00% | ~31,243 |
-| Supersonic | 3.00% | ~31,243 |
-| Comeback | 3.00% | ~31,243 |
-| Marathonist | 3.00% | ~31,243 |
-| Living Legend | 3.00% | ~31,243 |
+| Driver from Ipanema | 3.00% | ~31,244 |
+| Carménère Taster | 3.00% | ~31,244 |
+| Supersonic | 3.00% | ~31,244 |
+| Comeback | 3.00% | ~31,244 |
+| Marathonist | 3.00% | ~31,244 |
+| Living Legend | 3.00% | ~31,244 |
 | God of Roads | 2.00% | ~20,829 |
 | Pathfinder | 2.00% | ~20,829 |
 | Go-Kart Champion | 2.00% | ~20,829 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,041 |
 | Look Mom, No Hands! | 0.10% | ~1,041 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,041,441 (Ranked 12)  
+Progressed: 1,041,450 (Ranked 12)  
 Completed: 418 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 418 (0.04%) (Ranked 241)
 | 2023-09-08 | 1,040,123 | 417 |
 | 2023-09-09 | 1,040,730 | 417 |
 | 2023-09-10 | 1,041,363 | 418 |
-| 2023-09-11 | 1,041,441 | 418 |
+| 2023-09-11 | 1,041,450 | 418 |
 ## Awards
 Max (Great for Beginners): 153  (Ranked 298)  
 Sum: 1,270 (Ranked 229)  

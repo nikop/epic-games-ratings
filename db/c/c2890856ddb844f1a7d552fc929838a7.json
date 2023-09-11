@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1564,9 +1564,9 @@
       "ID": "AC24",
       "SetID": "l4abp0",
       "Name": "The Work of a Master",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 166
     },
     {
       "ID": "AC25",
@@ -1596,9 +1596,9 @@
       "ID": "AC28",
       "SetID": "l4abp0",
       "Name": "The Punished One",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 347
     },
     {
       "ID": "AC29",
@@ -1636,9 +1636,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 415
     },
     {
       "ID": "AC34",
@@ -1749,8 +1749,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-11T05:05:29.1479249+00:00",
+  "LastChanged_Achievements": "2023-09-11T06:06:49.9984618+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-11T04:59:29.4106093+00:00",
-  "LastUpdate_Achievements": "2023-09-11T05:05:29.1479858+00:00"
+  "LastUpdate_Ratings": "2023-09-11T06:00:48.3067334+00:00",
+  "LastUpdate_Achievements": "2023-09-11T06:06:49.9984962+00:00"
 }

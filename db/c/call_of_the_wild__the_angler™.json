@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -706,9 +706,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5750,
+  "EOS_Progressed": 5751,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7261,6 +7261,11 @@
       "Time": "2023-09-11T05:05:23.4159296+00:00",
       "NumProgressed": 5750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T06:06:44.2932499+00:00",
+      "NumProgressed": 5751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7272,7 +7277,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4542
+      "UsersEstimate": 4543
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7288,7 +7293,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 3967
+      "UsersEstimate": 3968
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7304,7 +7309,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7312,7 +7317,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3392
+      "UsersEstimate": 3393
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7352,7 +7357,7 @@
       "Name": "More than a Tourist",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -7400,7 +7405,7 @@
       "Name": "Head for Heights",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_018",
@@ -7432,7 +7437,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -7504,7 +7509,7 @@
       "Name": "Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -7551,13 +7556,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5750,
+      "Progressed": 5751,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5122,
+      "Progressed": 5123,
       "Completed": 112
     }
   ],
@@ -7565,8 +7570,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-08T12:01:25.854057+00:00",
-  "LastChanged_Achievements": "2023-09-11T05:05:23.4159288+00:00",
+  "LastChanged_Achievements": "2023-09-11T06:06:44.2932494+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:41.605376+00:00",
-  "LastUpdate_Ratings": "2023-09-11T04:58:30.257327+00:00",
-  "LastUpdate_Achievements": "2023-09-11T05:05:23.4159847+00:00"
+  "LastUpdate_Ratings": "2023-09-11T05:59:50.3529292+00:00",
+  "LastUpdate_Achievements": "2023-09-11T06:06:44.2933011+00:00"
 }

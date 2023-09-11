@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,302 |
-| Jeef Skeejj | 44.00% | ~205,535 |
-| Careful planning | 39.00% | ~182,179 |
-| Second Coming | 33.00% | ~154,151 |
+| The Shutdown | 66.00% | ~308,304 |
+| Jeef Skeejj | 44.00% | ~205,536 |
+| Careful planning | 39.00% | ~182,180 |
+| Second Coming | 33.00% | ~154,152 |
 | Jeef Skagg | 30.00% | ~140,138 |
-| Mother | 25.00% | ~116,781 |
+| Mother | 25.00% | ~116,782 |
 | In space, no one can hear you scream | 24.00% | ~112,110 |
 | Chapter I: Echoes | 22.00% | ~102,768 |
 | Excelsior Rule | 22.00% | ~102,768 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~70,069 |
 | Tetsuo | 11.00% | ~51,384 |
 | Plan for the worst | 11.00% | ~51,384 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~46,712 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~46,713 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,370 |
 | Through the mirror | 8.00% | ~37,370 |
 | General Vivar | 8.00% | ~37,370 |
@@ -51,7 +51,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Jericho Rule | 5.00% | ~23,356 |
 | Geno Rule | 3.00% | ~14,014 |
 | Hammer Rule | 3.00% | ~14,014 |
-| Survivor | 2.00% | ~9,342 |
+| Survivor | 2.00% | ~9,343 |
 | A Rock in the Dark | 1.00% | ~4,671 |
 | Emperor of Misery | 1.00% | ~4,671 |
 | A Frozen Lady | 1.00% | ~4,671 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,125 (Ranked 37)  
+Progressed: 467,127 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 18 (0.00%) (Ranked 273)
 | 2023-09-08 | 466,961 | 18 |
 | 2023-09-09 | 467,041 | 18 |
 | 2023-09-10 | 467,116 | 18 |
-| 2023-09-11 | 467,125 | 18 |
+| 2023-09-11 | 467,127 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 360)  
