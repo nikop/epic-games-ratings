@@ -10,8 +10,8 @@
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.63% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
-| 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.20% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.84% |
+| 12 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 13 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.55% |
 | 14 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -32,7 +32,7 @@
 | 30 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 31 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.15% |
 | 32 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.87% |
+| 33 | [Sonic Origins](games/s/sonic_origins.md) | 8.86% |
 | 34 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
 | 35 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
 | 36 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
@@ -62,8 +62,8 @@
 | 60 | [ZZT!](games/z/zzt!.md) | 4.09% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.91% |
-| 63 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.85% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.82% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.38% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
@@ -78,8 +78,8 @@
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.89% |
 | 77 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.86% |
 | 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 80 | [Destiny 2](games/d/destiny_2.md) | 2.72% |
 | 81 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.70% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
@@ -130,9 +130,9 @@
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 128 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.90% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 131 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 132 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
-| 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.75% |
+| 131 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
+| 131 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 133 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.77% |
 | 134 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 135 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 136 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.70% |
@@ -149,8 +149,8 @@
 | 146 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 146 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 149 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
-| 150 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.55% |
 | 150 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 151 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
 | 152 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
 | 153 | [Aragami 2](games/a/aragami_2.md) | 0.52% |
 | 153 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
@@ -583,4 +583,4 @@
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,216 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,217 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

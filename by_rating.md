@@ -151,7 +151,7 @@
 | 146 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 11,255 | 35 |
 | 146 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 685 | 171 |
 | 146 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 517 |
-| 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,059 | 50 |
+| 146 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,065 | 50 |
 | 146 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 517 |
 | 146 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 37,510 | 13 |
 | 146 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.74 | 0 | 517 |
@@ -524,7 +524,7 @@
 | 519 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,848 | 18 |
 | 519 | [Everything](games/e/everything.md) | 4.53 | 0 | 517 |
 | 519 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.53 | 0 | 517 |
-| 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,432 | 127 |
+| 519 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,434 | 127 |
 | 519 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.53 | 0 | 517 |
 | 519 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 488 |
 | 519 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 512 | 198 |
@@ -558,7 +558,7 @@
 | 547 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 190 | 278 |
 | 547 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 517 |
 | 547 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 517 |
-| 547 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 764 | 161 |
+| 547 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 765 | 161 |
 | 547 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 66 | 387 |
 | 547 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.51 | 166 | 291 |
 | 547 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 517 |
@@ -593,7 +593,7 @@
 | 582 | [Mars Horizon](games/m/mars_horizon.md) | 4.49 | 0 | 517 |
 | 582 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 457 |
 | 582 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 23 | 494 |
-| 582 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 535,316 | 2 |
+| 582 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 536,710 | 2 |
 | 582 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 359 |
 | 582 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 517 |
 | 582 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,527 | 100 |
@@ -611,7 +611,7 @@
 | 601 | [Redout 2](games/r/redout_2.md) | 4.48 | 0 | 517 |
 | 601 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.48 | 0 | 517 |
 | 601 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.48 | 103 | 333 |
-| 601 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,967 | 42 |
+| 601 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.48 | 7,974 | 42 |
 | 601 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 517 |
 | 614 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 50 | 404 |
 | 614 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.47 | 0 | 517 |
@@ -658,7 +658,7 @@
 | 649 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 517 |
 | 649 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 517 |
 | 649 | [SMITE](games/s/smite.md) | 4.44 | 4,260 | 77 |
-| 649 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 580 | 187 |
+| 649 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 581 | 187 |
 | 649 | [STG Football](games/s/stg_football.md) | 4.44 | 45 | 414 |
 | 649 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 517 |
 | 649 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 343 |
@@ -985,4 +985,4 @@
 | 983 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.63 | 0 | 517 |
 | 984 | [Adios](games/a/adios.md) | 3.58 | 0 | 517 |
 | 985 | [Redfall](games/r/redfall.md) | 3.52 | 0 | 517 |
-| 986 | [Spelldrifter](games/s/spelldrifter.md) | 3.48 | 0 | 517 |
+| 985 | [Spelldrifter](games/s/spelldrifter.md) | 3.52 | 0 | 517 |
