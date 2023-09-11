@@ -40,6 +40,7 @@
 | Unseen Patterns | 3.00% | ~4 |
 | Bounty Hunter | 2.00% | ~3 |
 | Huntress Unbound | 2.00% | ~3 |
+| Business As Usual | 2.00% | ~3 |
 | Legacy of a Mercenary | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | A Real Battle | 2.00% | ~3 |
@@ -50,7 +51,6 @@
 | Adept | 1.00% | ~1 |
 | Talent Nurtured | 1.00% | ~1 |
 | Embellished | 1.00% | ~1 |
-| Business As Usual | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
 | The Darkness Within | 1.00% | ~1 |
 | Ruiner | 1.00% | ~1 |

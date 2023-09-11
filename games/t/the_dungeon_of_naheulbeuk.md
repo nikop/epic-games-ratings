@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,735 |
-| Where's that freaking Dwarf? | 4.00% | ~8,929 |
-| Alt+F4 | 4.00% | ~8,929 |
+| Sowwy! | 29.00% | ~64,740 |
+| Where's that freaking Dwarf? | 4.00% | ~8,930 |
+| Alt+F4 | 4.00% | ~8,930 |
 | Déjà vu | 3.00% | ~6,697 |
 | Sock! SOCK! | 3.00% | ~6,697 |
-| Way of the Wimp | 2.00% | ~4,464 |
-| A beer, two curses, three companions | 2.00% | ~4,464 |
-| The plot thickens... At the tavern | 2.00% | ~4,464 |
-| GG EZ | 2.00% | ~4,464 |
-| DM intervention | 2.00% | ~4,464 |
-| Speedrun | 2.00% | ~4,464 |
-| Fireproof Wizardess | 2.00% | ~4,464 |
+| Way of the Wimp | 2.00% | ~4,465 |
+| A beer, two curses, three companions | 2.00% | ~4,465 |
+| The plot thickens... At the tavern | 2.00% | ~4,465 |
+| GG EZ | 2.00% | ~4,465 |
+| DM intervention | 2.00% | ~4,465 |
+| Speedrun | 2.00% | ~4,465 |
+| Fireproof Wizardess | 2.00% | ~4,465 |
 | Livin' in a dwarven paradise | 1.00% | ~2,232 |
 | Shiny and Crôm | 1.00% | ~2,232 |
 | The demons' feast | 1.00% | ~2,232 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,225 (Ranked 56)  
+Progressed: 223,243 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-08 | 222,320 | 2 |
 | 2023-09-09 | 222,713 | 2 |
 | 2023-09-10 | 223,093 | 2 |
-| 2023-09-11 | 223,225 | 2 |
+| 2023-09-11 | 223,243 | 2 |
 ## Awards
 Max (Character Customization): 192  (Ranked 277)  
 Sum: 307 (Ranked 338)  

@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 3.00% | ~416 |
 | Hanging Gardens | 3.00% | ~416 |
 | Oracle | 3.00% | ~416 |
+| Pyramids | 3.00% | ~416 |
 | Judaism | 3.00% | ~416 |
 | Greek Paganism | 3.00% | ~416 |
 | Naming Landmarks | 3.00% | ~416 |
@@ -56,7 +57,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 2.00% | ~277 |
 | Musaeum | 2.00% | ~277 |
 | Necropolis | 2.00% | ~277 |
-| Pyramids | 2.00% | ~277 |
 | Learn to Play 1 | 2.00% | ~277 |
 | Learn to Play 2 | 2.00% | ~277 |
 | Christianity | 2.00% | ~277 |

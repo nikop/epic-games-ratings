@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16183,
+  "EOS_Progressed": 16184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4361,6 +4361,11 @@
       "Time": "2023-09-10T23:06:16.7329965+00:00",
       "NumProgressed": 16183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T15:08:01.1833733+00:00",
+      "NumProgressed": 16184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -4372,7 +4377,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 15374
+      "UsersEstimate": 15375
     },
     {
       "ID": "ACH001",
@@ -4380,7 +4385,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14079
+      "UsersEstimate": 14080
     },
     {
       "ID": "ACH0010",
@@ -4396,7 +4401,7 @@
       "Name": "After All, Why Shouldn\u0027t I Keep It?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH0012",
@@ -4492,7 +4497,7 @@
       "Name": "House Party!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 5502
+      "UsersEstimate": 5503
     },
     {
       "ID": "ACH0023",
@@ -4532,7 +4537,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "ACH005",
@@ -4579,7 +4584,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16183,
+      "Progressed": 16184,
       "Completed": 0
     }
   ],
@@ -4587,8 +4592,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-08-03T01:53:52.0652569+00:00",
-  "LastChanged_Achievements": "2023-09-11T14:06:01.6030037+00:00",
+  "LastChanged_Achievements": "2023-09-11T15:08:01.1833724+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:47.5236295+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:58:16.8222788+00:00",
-  "LastUpdate_Achievements": "2023-09-11T14:06:01.6030386+00:00"
+  "LastUpdate_Ratings": "2023-09-11T14:59:07.7412404+00:00",
+  "LastUpdate_Achievements": "2023-09-11T15:08:01.1834445+00:00"
 }

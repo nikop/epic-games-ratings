@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2082,9 +2082,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25743,
+  "EOS_Progressed": 25744,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12607,6 +12607,11 @@
       "Time": "2023-09-11T05:08:42.0966224+00:00",
       "NumProgressed": 25743,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-11T15:09:13.4108877+00:00",
+      "NumProgressed": 25744,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 51,
@@ -12618,7 +12623,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18792
+      "UsersEstimate": 18793
     },
     {
       "ID": "Animated",
@@ -12658,7 +12663,7 @@
       "Name": "Clutch Capture",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 10297
+      "UsersEstimate": 10298
     },
     {
       "ID": "Collect_Spores",
@@ -12706,7 +12711,7 @@
       "Name": "Discovery",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 15703
+      "UsersEstimate": 15704
     },
     {
       "ID": "Dont_Need_These",
@@ -12730,7 +12735,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16218
+      "UsersEstimate": 16219
     },
     {
       "ID": "Escape_Artist",
@@ -12738,7 +12743,7 @@
       "Name": "Escape Artist",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3862
     },
     {
       "ID": "Fragile_Panes",
@@ -12754,7 +12759,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 13901
+      "UsersEstimate": 13902
     },
     {
       "ID": "GB_In_Training",
@@ -12898,7 +12903,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6178
+      "UsersEstimate": 6179
     },
     {
       "ID": "Solo_Capture",
@@ -12906,7 +12911,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8495
+      "UsersEstimate": 8496
     },
     {
       "ID": "Stunner",
@@ -12922,7 +12927,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22139
+      "UsersEstimate": 22140
     },
     {
       "ID": "Summoner",
@@ -12954,7 +12959,7 @@
       "Name": "Teamwork",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 11069
+      "UsersEstimate": 11070
     },
     {
       "ID": "Terrifying",
@@ -13010,7 +13015,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7980
+      "UsersEstimate": 7981
     },
     {
       "ID": "Whoopsie",
@@ -13025,7 +13030,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25743,
+      "Progressed": 25744,
       "Completed": 55
     }
   ],
@@ -13033,8 +13038,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-11T04:00:35.7289957+00:00",
-  "LastChanged_Achievements": "2023-09-11T14:06:52.0256241+00:00",
+  "LastChanged_Achievements": "2023-09-11T15:09:13.4108869+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:57:01.7115923+00:00",
-  "LastUpdate_Achievements": "2023-09-11T14:06:52.0257072+00:00"
+  "LastUpdate_Ratings": "2023-09-11T14:57:18.8018164+00:00",
+  "LastUpdate_Achievements": "2023-09-11T15:09:13.4110294+00:00"
 }

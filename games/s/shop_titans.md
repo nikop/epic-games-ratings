@@ -79,6 +79,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.40% | ~544 |
 | Miracle Alchemist | 0.40% | ~544 |
 | Laden with Loot | 0.40% | ~544 |
+| Bountiful Harvest | 0.40% | ~544 |
 | Precision Engineering | 0.40% | ~544 |
 | Scourge of the Seas | 0.40% | ~544 |
 | Attrition Mission | 0.40% | ~544 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.30% | ~408 |
 | Necromancer Queen | 0.30% | ~408 |
 | Jackpot! | 0.30% | ~408 |
-| Bountiful Harvest | 0.30% | ~408 |
 | Master Recycler | 0.30% | ~408 |
 | All Accounted For | 0.30% | ~408 |
 | Economy of Scarce | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,029 (Ranked 68)  
+Progressed: 136,030 (Ranked 68)  
 Completed: 149 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 149 (0.11%) (Ranked 216)
 | 2023-09-08 | 135,871 | 147 |
 | 2023-09-09 | 135,932 | 147 |
 | 2023-09-10 | 136,005 | 148 |
-| 2023-09-11 | 136,029 | 149 |
+| 2023-09-11 | 136,030 | 149 |
 ## Awards
 Max (Great for Beginners): 4,734  (Ranked 71)  
 Sum: 27,204 (Ranked 49)  

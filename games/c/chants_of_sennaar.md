@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 42.00% | ~57 |
-| Welcome to the Tower | 40.00% | ~54 |
+| That's the spirit | 43.00% | ~58 |
+| Welcome to the Tower | 41.00% | ~56 |
 | The great escape | 37.00% | ~50 |
 | The Preacher's fate | 35.00% | ~48 |
 | A new dawn | 32.00% | ~44 |
 | Scholar | 29.00% | ~39 |
 | The darkness | 29.00% | ~39 |
 | A good beginning | 28.00% | ~38 |
-| True G4M3R | 26.00% | ~35 |
+| True G4M3R | 27.00% | ~37 |
 | One last step | 24.00% | ~33 |
 | Cable guy | 23.00% | ~31 |
 | Champollion | 23.00% | ~31 |
+| Half the way | 20.00% | ~27 |
 | Open door | 20.00% | ~27 |
 | In this together | 19.00% | ~26 |
 | Peace walker | 19.00% | ~26 |
-| Half the way | 19.00% | ~26 |
 | Feels like springtime | 18.00% | ~24 |
 | Alchemists Express | 16.00% | ~22 |
 | Rascal | 16.00% | ~22 |

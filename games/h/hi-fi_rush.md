@@ -9,10 +9,10 @@ Rating: 4.87 (Ranked 24)
 | Feeling the beat! | 13.00% | ~524 |
 | You can pet the cat! | 12.00% | ~484 |
 | Cream of the Crop | 11.00% | ~443 |
+| Thanks for the free chip, Peppermint! | 11.00% | ~443 |
 | Who put gears in there? | 11.00% | ~443 |
-| Thanks for the free chip, Peppermint! | 10.00% | ~403 |
 | You got this, Peppermint? | 10.00% | ~403 |
-| Perfect Parry | 9.00% | ~363 |
+| Perfect Parry | 10.00% | ~403 |
 | Alright, that felt AWESOME! | 9.00% | ~363 |
 | This will cost you big time | 8.00% | ~322 |
 | I play my own way! | 8.00% | ~322 |

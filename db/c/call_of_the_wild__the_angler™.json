@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 896,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 143,
@@ -714,7 +714,7 @@
   ],
   "EOS_Progressed": 5754,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7591,8 +7591,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-11T11:58:23.8427352+00:00",
-  "LastChanged_Achievements": "2023-09-11T14:04:14.2738072+00:00",
+  "LastChanged_Achievements": "2023-09-11T15:05:34.0924117+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:41.605376+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:58:02.892355+00:00",
-  "LastUpdate_Achievements": "2023-09-11T14:04:14.27386+00:00"
+  "LastUpdate_Ratings": "2023-09-11T14:58:47.6871668+00:00",
+  "LastUpdate_Achievements": "2023-09-11T15:05:34.0924811+00:00"
 }

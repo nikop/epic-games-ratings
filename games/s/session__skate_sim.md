@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 59.00% | ~1,642 |
-| Keeping it classy | 28.00% | ~779 |
+| You're free now! | 59.00% | ~1,643 |
+| Keeping it classy | 28.00% | ~780 |
 | Welcome to the family | 22.00% | ~612 |
 | The finer things in life | 19.00% | ~529 |
 | Backpacker | 14.00% | ~390 |
@@ -15,9 +15,9 @@ Number of Ratings: 111  (23.09.2022)
 | Plastic Surgeon | 10.00% | ~278 |
 | The flip trick crown jewel | 10.00% | ~278 |
 | The hard way | 10.00% | ~278 |
-| Good vibes | 9.00% | ~250 |
-| Keep the dream alive | 9.00% | ~250 |
-| Upfront shredder | 9.00% | ~250 |
+| Good vibes | 9.00% | ~251 |
+| Keep the dream alive | 9.00% | ~251 |
+| Upfront shredder | 9.00% | ~251 |
 | Bottom ply killer | 7.00% | ~195 |
 | Fashionista | 7.00% | ~195 |
 | Finally he zips it | 7.00% | ~195 |
@@ -42,8 +42,8 @@ Number of Ratings: 111  (23.09.2022)
 | Prince of Philly | 4.00% | ~111 |
 | Tank commander | 4.00% | ~111 |
 | We get it, you're good | 4.00% | ~111 |
-| Hoarder | 3.00% | ~83 |
-| Pew-Pew | 3.00% | ~83 |
+| Hoarder | 3.00% | ~84 |
+| Pew-Pew | 3.00% | ~84 |
 | Cross lock country | 2.00% | ~56 |
 | Many plys later... | 2.00% | ~56 |
 | That was wheelie fun | 2.00% | ~56 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,783 (Ranked 170)  
+Progressed: 2,784 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 2,780 | 0 |
 | 2023-09-09 | 2,781 | 0 |
 | 2023-09-10 | 2,782 | 0 |
-| 2023-09-11 | 2,783 | 0 |
+| 2023-09-11 | 2,784 | 0 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 398)  
 Sum: 461 (Ranked 310)  

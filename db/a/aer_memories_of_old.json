@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19870,
+  "EOS_Progressed": 19873,
   "EOS_Completed": 396,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -15813,6 +15813,11 @@
       "Time": "2023-09-11T14:04:45.6347781+00:00",
       "NumProgressed": 19870,
       "NumCompleted": 396
+    },
+    {
+      "Time": "2023-09-11T15:06:17.4442511+00:00",
+      "NumProgressed": 19873,
+      "NumCompleted": 396
     }
   ],
   "TotalAchievements": 20,
@@ -15848,7 +15853,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -15856,7 +15861,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -15880,7 +15885,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -15888,7 +15893,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2980
+      "UsersEstimate": 2981
     },
     {
       "ID": "FOUND_ERIN",
@@ -15936,7 +15941,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "INTRO_FINISHED",
@@ -15944,7 +15949,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15300
+      "UsersEstimate": 15302
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -15983,15 +15988,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19870,
+      "Progressed": 19873,
       "Completed": 396
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-11T14:04:45.6347777+00:00",
+  "LastChanged_Achievements": "2023-09-11T15:06:17.4442504+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:57:34.987729+00:00",
-  "LastUpdate_Achievements": "2023-09-11T14:04:45.6348618+00:00"
+  "LastUpdate_Ratings": "2023-09-11T14:58:08.1125269+00:00",
+  "LastUpdate_Achievements": "2023-09-11T15:06:17.444388+00:00"
 }

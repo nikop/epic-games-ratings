@@ -2,12 +2,12 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 666,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-05-29T20:58:20.2954549+00:00",
@@ -188,6 +188,12 @@
     {
       "Time": "2023-08-24T13:04:37.3738419+00:00",
       "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-11T15:02:07.7710534+00:00",
+      "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3456,9 +3462,9 @@
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged": "2023-08-24T13:04:37.3738417+00:00",
-  "LastChanged_Achievements": "2023-09-11T14:05:37.4263545+00:00",
+  "LastChanged": "2023-09-11T15:02:07.7710532+00:00",
+  "LastChanged_Achievements": "2023-09-11T15:07:27.4513236+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:33.5469273+00:00",
-  "LastUpdate_Ratings": "2023-09-11T14:00:22.1791345+00:00",
-  "LastUpdate_Achievements": "2023-09-11T14:05:37.4264034+00:00"
+  "LastUpdate_Ratings": "2023-09-11T15:02:07.771054+00:00",
+  "LastUpdate_Achievements": "2023-09-11T15:07:27.4514208+00:00"
 }

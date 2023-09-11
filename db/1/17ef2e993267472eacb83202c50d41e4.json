@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5471,
+  "EOS_Progressed": 5474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3439,
+  "EOS_NewPlayers": 3402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1051,6 +1051,11 @@
       "Time": "2023-09-11T14:03:25.2050171+00:00",
       "NumProgressed": 5471,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T15:04:26.0718009+00:00",
+      "NumProgressed": 5474,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1119,7 +1124,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "DHUpgraded1",
@@ -1183,7 +1188,7 @@
       "Name": "Played a Match",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "GamesPlayed10",
@@ -1207,7 +1212,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "GamesWon10",
@@ -1255,7 +1260,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "HAUpgraded1",
@@ -1271,7 +1276,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "HSPurchased1",
@@ -1285,17 +1290,17 @@
       "ID": "HSUPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Healing Station Ultimate",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 328
     },
     {
       "ID": "HandCannonUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded the Hand Cannon to Level 3",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 164
     },
     {
       "ID": "HealingGunUpgraded1",
@@ -1559,7 +1564,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "SEUpgraded1",
@@ -1623,7 +1628,7 @@
       "Name": "Purchased Turret",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "TSUPurchased1",
@@ -1647,21 +1652,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5471,
+      "Progressed": 5474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-11T14:03:25.2050167+00:00",
+  "LastChanged_Achievements": "2023-09-11T15:04:26.0718001+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:01.3447006+00:00",
-  "LastUpdate_Ratings": "2023-09-11T13:58:27.0847974+00:00",
-  "LastUpdate_Achievements": "2023-09-11T14:03:25.2050854+00:00"
+  "LastUpdate_Ratings": "2023-09-11T14:59:22.6265253+00:00",
+  "LastUpdate_Achievements": "2023-09-11T15:04:26.071895+00:00"
 }
