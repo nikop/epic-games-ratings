@@ -1391,9 +1391,9 @@
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 513
     },
     {
       "ID": "AC04",
@@ -1583,9 +1583,9 @@
       "ID": "AC27",
       "SetID": "l4abp0",
       "Name": "Twisted is the Path of the Miracle",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 151
     },
     {
       "ID": "AC28",
@@ -1744,8 +1744,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-11T02:20:25.6914353+00:00",
+  "LastChanged_Achievements": "2023-09-11T03:04:52.9204484+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:14:45.1449064+00:00",
-  "LastUpdate_Achievements": "2023-09-11T02:20:25.6914711+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:59:03.8684148+00:00",
+  "LastUpdate_Achievements": "2023-09-11T03:04:52.9204962+00:00"
 }

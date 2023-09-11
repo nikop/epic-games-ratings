@@ -498,9 +498,9 @@
       "ID": "ALL_MEMORIES",
       "SetID": "2lk004m",
       "Name": "Total Recall",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "BOB_SLIDE",
@@ -538,9 +538,9 @@
       "ID": "CHAPTER4_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Something Rotten",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "CHAPTER5_COMPLETE",
@@ -697,8 +697,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-09-11T02:21:00.2764727+00:00",
+  "LastChanged_Achievements": "2023-09-11T03:05:33.6857663+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:41.8761266+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:13:23.7613044+00:00",
-  "LastUpdate_Achievements": "2023-09-11T02:21:00.2764903+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:57:22.5251822+00:00",
+  "LastUpdate_Achievements": "2023-09-11T03:05:33.6857881+00:00"
 }

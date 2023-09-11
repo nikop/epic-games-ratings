@@ -1,7 +1,7 @@
 # Anno 2205 - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/anno-2205)  
 [View Rawdata](../../db/a/anno_2205_-_standard_edition.json)  
-Rating: 4.46 (Ranked 626)  
+Rating: 4.47 (Ranked 614)  
 Number of Ratings: 76  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -82,3 +82,4 @@ Number of Ratings: 76  (23.09.2022)
 | 2023-06-24 | 4.46 | - | 0 | 0 |
 | 2023-06-29 | 4.47 | - | 0 | 0 |
 | 2023-06-30 | 4.46 | - | 0 | 0 |
+| 2023-09-11 | 4.47 | - | 0 | 0 |

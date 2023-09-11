@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3694,9 +3694,9 @@
       "Count": 280
     }
   ],
-  "EOS_Progressed": 243429,
+  "EOS_Progressed": 243430,
   "EOS_Completed": 825,
-  "EOS_NewPlayers": 830,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -19319,6 +19319,11 @@
       "Time": "2023-09-11T02:21:31.9780377+00:00",
       "NumProgressed": 243429,
       "NumCompleted": 825
+    },
+    {
+      "Time": "2023-09-11T03:06:11.6210154+00:00",
+      "NumProgressed": 243430,
+      "NumCompleted": 825
     }
   ],
   "TotalAchievements": 39,
@@ -19330,7 +19335,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60857
+      "UsersEstimate": 60858
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -19346,7 +19351,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 29211
+      "UsersEstimate": 29212
     },
     {
       "ID": "AchievementBaywatchID",
@@ -19394,7 +19399,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 221520
+      "UsersEstimate": 221521
     },
     {
       "ID": "AchievementClownID",
@@ -19458,7 +19463,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129017
+      "UsersEstimate": 129018
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -19490,7 +19495,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 109543
+      "UsersEstimate": 109544
     },
     {
       "ID": "AchievementIntroID",
@@ -19562,7 +19567,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 180137
+      "UsersEstimate": 180138
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -19578,7 +19583,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 121714
+      "UsersEstimate": 121715
     },
     {
       "ID": "AchievementStreakingID",
@@ -19626,7 +19631,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158229
+      "UsersEstimate": 158230
     },
     {
       "ID": "AchievementWhaleID",
@@ -19641,7 +19646,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 243429,
+      "Progressed": 243430,
       "Completed": 825
     }
   ],
@@ -19649,8 +19654,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-10T20:58:07.8603073+00:00",
-  "LastChanged_Achievements": "2023-09-11T02:21:31.9780369+00:00",
+  "LastChanged_Achievements": "2023-09-11T03:06:11.6210144+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.4582419+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:14:27.2223087+00:00",
-  "LastUpdate_Achievements": "2023-09-11T02:21:31.9781333+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:58:40.6365687+00:00",
+  "LastUpdate_Achievements": "2023-09-11T03:06:11.6211386+00:00"
 }

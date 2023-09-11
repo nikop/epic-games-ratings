@@ -16,9 +16,9 @@ Number of Ratings: 94  (23.09.2022)
 | Green Cube Killer | 18.00% | ~48 |
 | There's No Place Like Home | 17.00% | ~45 |
 | Descendants | 13.00% | ~35 |
+| Infinity Loop | 12.00% | ~32 |
 | Path to Salvation | 12.00% | ~32 |
-| Infinity Loop | 11.00% | ~29 |
-| The Flawed Teacher | 10.00% | ~27 |
+| The Flawed Teacher | 11.00% | ~29 |
 | To Infinity and Beyond | 5.00% | ~13 |
 | The Truthful Enemy | 5.00% | ~13 |
 | True collector | 0.40% | ~1 |

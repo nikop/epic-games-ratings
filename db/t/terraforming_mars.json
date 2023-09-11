@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -2722,9 +2722,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 75337,
+  "EOS_Progressed": 75338,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -18507,6 +18507,11 @@
       "Time": "2023-09-11T02:21:43.3355264+00:00",
       "NumProgressed": 75337,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-09-11T03:06:25.4659379+00:00",
+      "NumProgressed": 75338,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 30,
@@ -18518,7 +18523,7 @@
       "Name": "First Journey",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9040
+      "UsersEstimate": 9041
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -18534,7 +18539,7 @@
       "Name": "Terraformer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3013
+      "UsersEstimate": 3014
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -18606,7 +18611,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 21094
+      "UsersEstimate": 21095
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -18718,7 +18723,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9040
+      "UsersEstimate": 9041
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -18734,7 +18739,7 @@
       "Name": "Grand champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 9040
+      "UsersEstimate": 9041
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -18757,15 +18762,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 75337,
+      "Progressed": 75338,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-10T15:01:26.2822114+00:00",
-  "LastChanged_Achievements": "2023-09-11T02:21:43.3355258+00:00",
+  "LastChanged_Achievements": "2023-09-11T03:06:25.465937+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:28.5127625+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:16:07.1292584+00:00",
-  "LastUpdate_Achievements": "2023-09-11T02:21:43.3356157+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:00:44.6182547+00:00",
+  "LastUpdate_Achievements": "2023-09-11T03:06:25.4660643+00:00"
 }

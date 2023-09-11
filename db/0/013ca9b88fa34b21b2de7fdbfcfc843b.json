@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 648,
+  "EOS_Progressed": 651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -442,6 +442,11 @@
       "Time": "2023-09-11T02:21:24.6131024+00:00",
       "NumProgressed": 648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T03:06:02.6687832+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -452,9 +457,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 501
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -462,7 +467,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 449
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -470,7 +475,7 @@
       "Name": "Calm Sailing",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -486,7 +491,7 @@
       "Name": "Clear the Air",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -494,7 +499,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -526,7 +531,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "COLLECT_FISH",
@@ -550,15 +555,15 @@
       "Name": "Miner 49er",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Break-Net Speed",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 306
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -566,7 +571,7 @@
       "Name": "Beach Comber",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -590,7 +595,7 @@
       "Name": "Humble Collector",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -606,7 +611,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 352
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -630,7 +635,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -652,9 +657,9 @@
       "ID": "HAVE_WEDDING",
       "SetID": "9eia0f5",
       "Name": "I Now Pronounce You...",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -662,15 +667,15 @@
       "Name": "Chatty Neighbor",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PREPARE_MEALS_1",
       "SetID": "9eia0f5",
       "Name": "Oui, Chef!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 130
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -678,7 +683,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -686,7 +691,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -718,7 +723,7 @@
       "Name": "House Proud",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -726,21 +731,21 @@
       "Name": "Skilled",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 648,
+      "Progressed": 651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-11T02:21:24.6131019+00:00",
+  "LastChanged_Achievements": "2023-09-11T03:06:02.6687826+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:57:07.7146184+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:15:01.9504042+00:00",
-  "LastUpdate_Achievements": "2023-09-11T02:21:24.613125+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:59:25.1980539+00:00",
+  "LastUpdate_Achievements": "2023-09-11T03:06:02.6688132+00:00"
 }

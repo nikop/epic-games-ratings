@@ -7,12 +7,12 @@ Number of Ratings: 53  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Cabin boy | 81.00% | ~710 |
-| My little farm | 65.00% | ~569 |
-| Every beginning is difficult | 63.00% | ~552 |
-| Gofer | 57.00% | ~499 |
+| My little farm | 65.00% | ~570 |
+| Every beginning is difficult | 63.00% | ~553 |
+| Gofer | 57.00% | ~500 |
 | 3, 2, 1, mine | 56.00% | ~491 |
-| O Captain! My Captain! | 54.00% | ~473 |
-| Seafarer | 53.00% | ~464 |
+| O Captain! My Captain! | 54.00% | ~474 |
+| Seafarer | 53.00% | ~465 |
 | Greed for gold | 43.00% | ~377 |
 | Intangible | 42.00% | ~368 |
 | I'm out of here for a while | 42.00% | ~368 |
@@ -21,7 +21,7 @@ Number of Ratings: 53  (23.09.2022)
 | Pirates! | 35.00% | ~307 |
 | Collectionitis | 29.00% | ~254 |
 | Megalomania | 29.00% | ~254 |
-| Christening | 28.00% | ~245 |
+| Christening | 28.00% | ~246 |
 | Groundskeeper | 26.00% | ~228 |
 | Wholesale | 22.00% | ~193 |
 | Walk the plank | 21.00% | ~184 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Parlay? | 0.80% | ~7 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876 (Ranked 213)  
+Progressed: 877 (Ranked 213)  
 Completed: 1 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 1 (0.11%) (Ranked 216)
 | 2023-09-08 | 869 | 1 |
 | 2023-09-09 | 875 | 1 |
 | 2023-09-10 | 876 | 1 |
+| 2023-09-11 | 877 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

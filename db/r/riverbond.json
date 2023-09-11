@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527135,
+  "EOS_Progressed": 527137,
   "EOS_Completed": 472,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -15819,6 +15819,11 @@
       "Time": "2023-09-11T02:21:32.328031+00:00",
       "NumProgressed": 527135,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-09-11T03:06:11.9445149+00:00",
+      "NumProgressed": 527137,
+      "NumCompleted": 472
     }
   ],
   "TotalAchievements": 57,
@@ -15830,7 +15835,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 121241
+      "UsersEstimate": 121242
     },
     {
       "ID": "10",
@@ -15838,7 +15843,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237211
+      "UsersEstimate": 237212
     },
     {
       "ID": "11",
@@ -15846,7 +15851,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 368994
+      "UsersEstimate": 368996
     },
     {
       "ID": "12",
@@ -15902,7 +15907,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79070
+      "UsersEstimate": 79071
     },
     {
       "ID": "19",
@@ -15910,7 +15915,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326824
+      "UsersEstimate": 326825
     },
     {
       "ID": "2",
@@ -15926,7 +15931,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126512
+      "UsersEstimate": 126513
     },
     {
       "ID": "21",
@@ -15950,7 +15955,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36899
+      "UsersEstimate": 36900
     },
     {
       "ID": "24",
@@ -16030,7 +16035,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36899
+      "UsersEstimate": 36900
     },
     {
       "ID": "33",
@@ -16086,7 +16091,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179226
+      "UsersEstimate": 179227
     },
     {
       "ID": "4",
@@ -16158,7 +16163,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326824
+      "UsersEstimate": 326825
     },
     {
       "ID": "48",
@@ -16174,7 +16179,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179226
+      "UsersEstimate": 179227
     },
     {
       "ID": "5",
@@ -16206,7 +16211,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242482
+      "UsersEstimate": 242483
     },
     {
       "ID": "53",
@@ -16214,7 +16219,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 121241
+      "UsersEstimate": 121242
     },
     {
       "ID": "54",
@@ -16285,15 +16290,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527135,
+      "Progressed": 527137,
       "Completed": 472
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-11T02:21:32.3280303+00:00",
+  "LastChanged_Achievements": "2023-09-11T03:06:11.9445142+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.7109557+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:15:28.2354711+00:00",
-  "LastUpdate_Achievements": "2023-09-11T02:21:32.3281483+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:59:58.7299822+00:00",
+  "LastUpdate_Achievements": "2023-09-11T03:06:11.9446806+00:00"
 }

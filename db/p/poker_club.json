@@ -670,9 +670,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 522622,
+  "EOS_Progressed": 522625,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1849,
+  "EOS_NewPlayers": 1848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16525,6 +16525,11 @@
       "Time": "2023-09-11T02:22:17.7607111+00:00",
       "NumProgressed": 522622,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T03:07:07.0935137+00:00",
+      "NumProgressed": 522625,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -16632,7 +16637,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 203823
+      "UsersEstimate": 203824
     },
     {
       "ID": "DeadlyAssassin",
@@ -16640,7 +16645,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78393
+      "UsersEstimate": 78394
     },
     {
       "ID": "DogEatDog",
@@ -16664,7 +16669,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31357
+      "UsersEstimate": 31358
     },
     {
       "ID": "GoForIt",
@@ -16688,7 +16693,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 214275
+      "UsersEstimate": 214276
     },
     {
       "ID": "HoldingYourOwn",
@@ -16784,7 +16789,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 397193
+      "UsersEstimate": 397195
     },
     {
       "ID": "ProPlayer",
@@ -16888,14 +16893,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57488
+      "UsersEstimate": 57489
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 522622,
+      "Progressed": 522625,
       "Completed": 2
     }
   ],
@@ -16903,8 +16908,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-09-07T17:05:08.9735381+00:00",
-  "LastChanged_Achievements": "2023-09-11T02:22:17.7607104+00:00",
+  "LastChanged_Achievements": "2023-09-11T03:07:07.0935131+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:01.2620699+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:13:51.5563501+00:00",
-  "LastUpdate_Achievements": "2023-09-11T02:22:17.7608115+00:00"
+  "LastUpdate_Ratings": "2023-09-11T02:57:55.9307235+00:00",
+  "LastUpdate_Achievements": "2023-09-11T03:07:07.0936446+00:00"
 }

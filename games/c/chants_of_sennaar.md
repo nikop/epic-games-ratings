@@ -21,9 +21,9 @@
 | Peace walker | 18.00% | ~24 |
 | Half the way | 18.00% | ~24 |
 | Feels like springtime | 18.00% | ~24 |
+| Rascal | 17.00% | ~22 |
 | Free at last | 16.00% | ~21 |
 | Alchemists Express | 16.00% | ~21 |
-| Rascal | 16.00% | ~21 |
 | A Link to the Past | 15.00% | ~20 |
 | Fashion victim | 13.00% | ~17 |
 | A great audience | 11.00% | ~14 |

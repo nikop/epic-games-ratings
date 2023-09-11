@@ -180,6 +180,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.20% | ~28 |
 | Tell the Spartans | 0.20% | ~28 |
 | Macedonian Wars | 0.20% | ~28 |
+| Realistic Mortality | 0.20% | ~28 |
 | Assyria | 0.20% | ~28 |
 | Play a MP Teams Game | 0.20% | ~28 |
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
@@ -259,7 +260,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.10% | ~14 |
 | Pyramids in Menefer | 0.10% | ~14 |
 | Merchants of the Levant | 0.10% | ~14 |
-| Realistic Mortality | 0.10% | ~14 |
 | Play a 1-v-1 Game | 0.10% | ~14 |
 | Play a Hotseat Game | 0.10% | ~14 |
 | Play a LAN Game | 0.10% | ~14 |
