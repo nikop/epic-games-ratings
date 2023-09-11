@@ -25,7 +25,7 @@
 | 23 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 23 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 25 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
-| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.98% |
+| 26 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.97% |
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.87% |
 | 28 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
@@ -43,7 +43,7 @@
 | 41 | [Scorn](games/s/scorn.md) | 7.01% |
 | 42 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.86% |
 | 43 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.56% |
-| 44 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.53% |
+| 44 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.50% |
 | 45 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.34% |
 | 46 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 47 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
@@ -63,7 +63,7 @@
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.89% |
 | 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.79% |
+| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 3.76% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.38% |
 | 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
@@ -557,6 +557,7 @@
 | 273 | [The Tenants](games/t/the_tenants.md) | 0.00% |
 | 273 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 0.00% |
 | 273 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 0.00% |
+| 273 | [Time on Frog Island](games/t/time_on_frog_island.md) | 0.00% |
 | 273 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 0.00% |
 | 273 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.00% |
 | 273 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 0.00% |
@@ -580,6 +581,7 @@
 | 273 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |
 | 273 | [World of Warships](games/w/world_of_warships.md) | 0.00% |
 | 273 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
+| 273 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 0.00% |
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
