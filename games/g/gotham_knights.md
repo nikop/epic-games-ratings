@@ -5,15 +5,15 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,644 |
+| First Step Into the Knight | 52.00% | ~37,645 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,338 |
 | Loose Ends | 34.00% | ~24,614 |
-| To the Victor Go the Spoils | 28.00% | ~20,270 |
-| Knighthood | 27.00% | ~19,546 |
-| Get ReQ'd | 25.00% | ~18,098 |
-| Whispered Words | 25.00% | ~18,098 |
-| The Batman Family | 23.00% | ~16,650 |
-| Lock and Key | 22.00% | ~15,926 |
+| To the Victor Go the Spoils | 28.00% | ~20,271 |
+| Knighthood | 27.00% | ~19,547 |
+| Get ReQ'd | 25.00% | ~18,099 |
+| Whispered Words | 25.00% | ~18,099 |
+| The Batman Family | 23.00% | ~16,651 |
+| Lock and Key | 22.00% | ~15,927 |
 | Something in the Clay | 21.00% | ~15,203 |
 | Quartzer Life Crisis | 20.00% | ~14,479 |
 | Working Hard or Harley Working? | 20.00% | ~14,479 |
@@ -35,9 +35,9 @@ Rating: 4.18 (Ranked 883)
 | Bulldozed | 12.00% | ~8,687 |
 | Gotham Knight | 12.00% | ~8,687 |
 | Gotham City Confidential | 11.00% | ~7,963 |
-| Drone You Out | 9.00% | ~6,515 |
-| Out of Their League | 8.00% | ~5,791 |
-| Solid Alibi | 8.00% | ~5,791 |
+| Drone You Out | 9.00% | ~6,516 |
+| Out of Their League | 8.00% | ~5,792 |
+| Solid Alibi | 8.00% | ~5,792 |
 | Fusion Expert | 7.00% | ~5,068 |
 | Family Meeting | 6.00% | ~4,344 |
 | A Worthy Successor | 6.00% | ~4,344 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,393 (Ranked 82)  
+Progressed: 72,395 (Ranked 82)  
 Completed: 112 (0.15%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,10 +211,10 @@ Completed: 112 (0.15%) (Ranked 205)
 | 2023-09-08 | 72,185 | 112 |
 | 2023-09-09 | 72,298 | 112 |
 | 2023-09-10 | 72,379 | 112 |
-| 2023-09-11 | 72,393 | 112 |
+| 2023-09-11 | 72,395 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,628  (Ranked 97)  
-Sum: 4,360 (Ranked 139)  
+Sum: 4,363 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -223,8 +223,8 @@ Diff (max vs sum): -42
 | This game has Quickly Understood Controls | 223 |
 | This game is Relaxing | 218 |
 | This game has Diverse Characters | 218 |
+| This game has Amazing Characters | 216 |
 | This game is Great for Beginners | 215 |
-| This game has Amazing Characters | 213 |
 | This game has Amazing Storytelling | 210 |
 | This game is Highly Recommended | 209 |
 | This game is Great for Quick Sessions | 60 |
@@ -429,3 +429,4 @@ Diff (max vs sum): -42
 | 2023-09-08 | 4.18 | 2,602 | 4,312 |
 | 2023-09-09 | 4.18 | 2,614 | 4,341 |
 | 2023-09-10 | 4.18 | 2,628 | 4,360 |
+| 2023-09-11 | 4.18 | 2,628 | 4,363 |

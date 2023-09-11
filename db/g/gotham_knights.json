@@ -2742,10 +2742,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4360,
       "NumberOfAwardsMax": 2628
+    },
+    {
+      "Time": "2023-09-11T03:57:35.662401+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4363,
+      "NumberOfAwardsMax": 2628
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4360,
+  "NumberOfAwards": 4363,
   "NumberOfAwardsMax": 2628,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2765,7 +2771,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 213
+      "Count": 216
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2810,9 +2816,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72393,
+  "EOS_Progressed": 72395,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 2155,
+  "EOS_NewPlayers": 2140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15035,6 +15041,11 @@
       "Time": "2023-09-11T03:06:35.4368595+00:00",
       "NumProgressed": 72393,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-11T04:06:10.0772306+00:00",
+      "NumProgressed": 72395,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15094,7 +15105,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16650
+      "UsersEstimate": 16651
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15230,7 +15241,7 @@
       "Name": "Out of Their League",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5791
+      "UsersEstimate": 5792
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -15262,7 +15273,7 @@
       "Name": "Drone You Out",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "FREEZE_1",
@@ -15270,7 +15281,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20270
+      "UsersEstimate": 20271
     },
     {
       "ID": "FREEZE_1_5",
@@ -15358,7 +15369,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18098
+      "UsersEstimate": 18099
     },
     {
       "ID": "HARLEY_3",
@@ -15390,7 +15401,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37644
+      "UsersEstimate": 37645
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15422,7 +15433,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 19546
+      "UsersEstimate": 19547
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -15446,7 +15457,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18098
+      "UsersEstimate": 18099
     },
     {
       "ID": "MYSTERY_03",
@@ -15454,7 +15465,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15926
+      "UsersEstimate": 15927
     },
     {
       "ID": "MYSTERY_04",
@@ -15510,7 +15521,7 @@
       "Name": "Solid Alibi",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5791
+      "UsersEstimate": 5792
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -15533,22 +15544,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72393,
+      "Progressed": 72395,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42673,
+      "Progressed": 42675,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-10T20:57:14.7464996+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:06:35.436859+00:00",
+  "LastChanged": "2023-09-11T03:57:35.6624009+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:06:10.07723+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:57:35.4922855+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:06:35.4369903+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:57:35.6624014+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:06:10.0773471+00:00"
 }

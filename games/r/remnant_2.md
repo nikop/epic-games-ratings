@@ -5,44 +5,44 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,083 |
-| The Killing Jar | 8.00% | ~14,296 |
-| Not Your Average Trait | 8.00% | ~14,296 |
-| Expanding Horizons | 7.00% | ~12,509 |
-| Quest for Survival | 7.00% | ~12,509 |
-| Trait Chaser | 7.00% | ~12,509 |
-| Gleaming the Cube | 6.00% | ~10,722 |
-| Not a Janitor | 6.00% | ~10,722 |
-| Familiar Face | 6.00% | ~10,722 |
-| Blue Goddess | 6.00% | ~10,722 |
-| Duality | 6.00% | ~10,722 |
-| Top Performer | 6.00% | ~10,722 |
-| Boss'n Up | 6.00% | ~10,722 |
-| Good, But Could Be Better! | 6.00% | ~10,722 |
-| Not So Special Now | 5.00% | ~8,935 |
-| Equal Measures | 5.00% | ~8,935 |
-| Shhh...It's a Secret | 5.00% | ~8,935 |
-| Almost There | 5.00% | ~8,935 |
-| Make Some Room | 5.00% | ~8,935 |
-| Chaos | 4.00% | ~7,148 |
-| Traitor | 4.00% | ~7,148 |
-| Power Surge | 4.00% | ~7,148 |
-| The God Gambit | 4.00% | ~7,148 |
-| Dark Designs | 4.00% | ~7,148 |
-| Madman's Paradise | 4.00% | ~7,148 |
-| Was This Supposed To Happen? | 4.00% | ~7,148 |
-| The Web | 4.00% | ~7,148 |
-| Scrap Collector | 4.00% | ~7,148 |
-| All These Traits� | 4.00% | ~7,148 |
-| Am I Seeing This? | 3.00% | ~5,361 |
-| Forever is a Long Time Coming | 3.00% | ~5,361 |
-| The Agenda | 3.00% | ~5,361 |
-| Tall Tales | 3.00% | ~5,361 |
-| Bad Moon Rising | 3.00% | ~5,361 |
-| Strapped | 3.00% | ~5,361 |
-| Edgelord | 3.00% | ~5,361 |
-| The Ultimate Weapon | 3.00% | ~5,361 |
-| No One Should Have All That Power | 3.00% | ~5,361 |
+| First of Many | 9.00% | ~16,085 |
+| The Killing Jar | 8.00% | ~14,297 |
+| Not Your Average Trait | 8.00% | ~14,297 |
+| Expanding Horizons | 7.00% | ~12,510 |
+| Quest for Survival | 7.00% | ~12,510 |
+| Trait Chaser | 7.00% | ~12,510 |
+| Gleaming the Cube | 6.00% | ~10,723 |
+| Not a Janitor | 6.00% | ~10,723 |
+| Familiar Face | 6.00% | ~10,723 |
+| Blue Goddess | 6.00% | ~10,723 |
+| Duality | 6.00% | ~10,723 |
+| Top Performer | 6.00% | ~10,723 |
+| Boss'n Up | 6.00% | ~10,723 |
+| Good, But Could Be Better! | 6.00% | ~10,723 |
+| Not So Special Now | 5.00% | ~8,936 |
+| Equal Measures | 5.00% | ~8,936 |
+| Shhh...It's a Secret | 5.00% | ~8,936 |
+| Almost There | 5.00% | ~8,936 |
+| Make Some Room | 5.00% | ~8,936 |
+| Chaos | 4.00% | ~7,149 |
+| Traitor | 4.00% | ~7,149 |
+| Power Surge | 4.00% | ~7,149 |
+| The God Gambit | 4.00% | ~7,149 |
+| Dark Designs | 4.00% | ~7,149 |
+| Madman's Paradise | 4.00% | ~7,149 |
+| Was This Supposed To Happen? | 4.00% | ~7,149 |
+| The Web | 4.00% | ~7,149 |
+| Scrap Collector | 4.00% | ~7,149 |
+| All These Traits� | 4.00% | ~7,149 |
+| Am I Seeing This? | 3.00% | ~5,362 |
+| Forever is a Long Time Coming | 3.00% | ~5,362 |
+| The Agenda | 3.00% | ~5,362 |
+| Tall Tales | 3.00% | ~5,362 |
+| Bad Moon Rising | 3.00% | ~5,362 |
+| Strapped | 3.00% | ~5,362 |
+| Edgelord | 3.00% | ~5,362 |
+| The Ultimate Weapon | 3.00% | ~5,362 |
+| No One Should Have All That Power | 3.00% | ~5,362 |
 | Crafty | 2.00% | ~3,574 |
 | Only Human | 2.00% | ~3,574 |
 | Red Room | 2.00% | ~3,574 |
@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 117)
 | Ghost in the Machine | 0.90% | ~1,608 |
 | Proving Grounds | 0.90% | ~1,608 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178,698 (Ranked 64)  
+Progressed: 178,717 (Ranked 64)  
 Completed: 270 (0.15%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,14 +113,14 @@ Completed: 270 (0.15%) (Ranked 205)
 | 2023-09-08 | 177,010 | 252 |
 | 2023-09-09 | 177,842 | 262 |
 | 2023-09-10 | 178,625 | 270 |
-| 2023-09-11 | 178,698 | 270 |
+| 2023-09-11 | 178,717 | 270 |
 ## Awards
-Max (Great Boss Battles): 1,493  (Ranked 123)  
-Sum: 2,892 (Ranked 173)  
+Max (Great Boss Battles): 1,511  (Ranked 121)  
+Sum: 2,910 (Ranked 171)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,493 |
+| This game has Great Boss Battles | 1,511 |
 | This game is Extremely Fun | 160 |
 | This game is Highly Recommended | 148 |
 | This game has Challenging Combat | 148 |
@@ -181,4 +181,4 @@ Diff (max vs sum): -50
 | 2023-09-08 | 4.76 | 1,454 | 2,780 |
 | 2023-09-09 | 4.76 | 1,474 | 2,835 |
 | 2023-09-10 | 4.76 | 1,493 | 2,889 |
-| 2023-09-11 | 4.76 | 1,493 | 2,892 |
+| 2023-09-11 | 4.76 | 1,511 | 2,910 |

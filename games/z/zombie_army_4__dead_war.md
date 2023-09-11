@@ -16,8 +16,8 @@ Number of Ratings: 743  (23.09.2022)
 | The boat can leave now...tell the crew | 49.00% | ~21,277 |
 | Stand back boy! | 47.00% | ~20,409 |
 | Give me something to shoot! | 46.00% | ~19,975 |
+| Chain reaction | 45.00% | ~19,540 |
 | Weird science | 44.00% | ~19,106 |
-| Chain reaction | 44.00% | ~19,106 |
 | What did you say, Blain? | 42.00% | ~18,238 |
 | Look mummy! A shark! | 41.00% | ~17,803 |
 | In the dark dark woods... | 39.00% | ~16,935 |

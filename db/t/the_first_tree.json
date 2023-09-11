@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,7 +244,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35842,
+  "EOS_Progressed": 35843,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -13239,6 +13239,11 @@
       "Time": "2023-09-11T02:21:03.3294942+00:00",
       "NumProgressed": 35842,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-09-11T04:05:23.1533502+00:00",
+      "NumProgressed": 35843,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 14,
@@ -13330,7 +13335,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8960
+      "UsersEstimate": 8961
     },
     {
       "ID": "firstItem",
@@ -13338,7 +13343,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27598
+      "UsersEstimate": 27599
     },
     {
       "ID": "roots",
@@ -13361,15 +13366,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35842,
+      "Progressed": 35843,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:05:37.236772+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:05:23.1533495+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.9001384+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:58:04.244341+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:05:37.2368614+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:57:57.6715826+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:05:23.1534392+00:00"
 }

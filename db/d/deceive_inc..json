@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17951,
+  "EOS_Progressed": 17952,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10020,6 +10020,11 @@
       "Time": "2023-09-10T23:04:51.1606915+00:00",
       "NumProgressed": 17951,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-11T04:04:59.6181826+00:00",
+      "NumProgressed": 17952,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10318,7 +10323,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17951,
+      "Progressed": 17952,
       "Completed": 3
     }
   ],
@@ -10326,8 +10331,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:05:08.0531847+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:04:59.6181819+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:57:49.9146641+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:05:08.0532611+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:57:47.8960942+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:04:59.6182586+00:00"
 }

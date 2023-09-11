@@ -30,8 +30,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Wheel of Pleasure and Light | 2.00% | ~2,550 |
 | Massive Torque Dork | 1.00% | ~1,275 |
 | Avowed Inframaterialist | 1.00% | ~1,275 |
-| Committee of la Responsabilité | 0.90% | ~1,147 |
-| Real Musor | 0.90% | ~1,147 |
+| Committee of la Responsabilité | 0.90% | ~1,148 |
+| Real Musor | 0.90% | ~1,148 |
 | Baddest Brow in Town | 0.80% | ~1,020 |
 | Venture into the HARDCORE | 0.80% | ~1,020 |
 | Networthy Individual | 0.70% | ~892 |
@@ -41,13 +41,13 @@ Number of Ratings: 1,611  (23.09.2022)
 | Cause a ****storm | 0.20% | ~255 |
 | True Detective | 0.20% | ~255 |
 | The Icebreaker | 0.20% | ~255 |
-| The Most Honourable Cop in The Land | 0.10% | ~127 |
-| Gluten-Free Topping Pie | 0.10% | ~127 |
-| Get Kim to Wear *The Jacket* | 0.10% | ~127 |
-| Medal dispenser | 0.10% | ~127 |
-| What body? | 0.10% | ~127 |
+| The Most Honourable Cop in The Land | 0.10% | ~128 |
+| Gluten-Free Topping Pie | 0.10% | ~128 |
+| Get Kim to Wear *The Jacket* | 0.10% | ~128 |
+| Medal dispenser | 0.10% | ~128 |
+| What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,499 (Ranked 70)  
+Progressed: 127,500 (Ranked 70)  
 Completed: 28 (0.02%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 28 (0.02%) (Ranked 251)
 | 2023-09-08 | 127,393 | 28 |
 | 2023-09-09 | 127,440 | 28 |
 | 2023-09-10 | 127,496 | 28 |
-| 2023-09-11 | 127,499 | 28 |
+| 2023-09-11 | 127,500 | 28 |
 ## Awards
 Max (Character Customization): 722  (Ranked 166)  
 Sum: 1,086 (Ranked 237)  

@@ -2,10 +2,10 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_EOS_Progress": 229,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 651,
+  "EOS_Progressed": 653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -447,6 +447,11 @@
       "Time": "2023-09-11T03:06:02.6687832+00:00",
       "NumProgressed": 651,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T04:05:43.8264286+00:00",
+      "NumProgressed": 653,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -457,9 +462,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 509
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -467,7 +472,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 451
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -555,7 +560,7 @@
       "Name": "Miner 49er",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -563,7 +568,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -595,7 +600,7 @@
       "Name": "Humble Collector",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -609,33 +614,33 @@
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 359
     },
     {
       "ID": "DISPATCH_CLOUDS",
       "SetID": "9eia0f5",
       "Name": "Mist Walker",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 85
     },
     {
       "ID": "DISPATCH_JUMBLES",
       "SetID": "9eia0f5",
       "Name": "Rumble in the Jumble",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 235
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -675,7 +680,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -738,14 +743,14 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 651,
+      "Progressed": 653,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:06:02.6687826+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:05:43.8264279+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:57:07.7146184+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:59:25.1980539+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:06:02.6688132+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:58:58.5501434+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:05:43.8264566+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1337,
+  "EOS_Progressed": 1338,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2425,6 +2425,11 @@
       "Time": "2023-09-11T01:47:44.1924001+00:00",
       "NumProgressed": 1337,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-11T04:05:45.3621341+00:00",
+      "NumProgressed": 1338,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2516,7 +2521,7 @@
       "Name": "E1M1",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "Everyone_is_here",
@@ -2628,7 +2633,7 @@
       "Name": "Mosquito bite",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "Scout",
@@ -2644,7 +2649,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "War_never_changes",
@@ -2652,7 +2657,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "We_were_not_here",
@@ -2675,15 +2680,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1337,
+      "Progressed": 1338,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:06:04.6034358+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:05:45.3621331+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:57:19.8988363+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:06:04.6034667+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:57:23.2836925+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:05:45.3621697+00:00"
 }

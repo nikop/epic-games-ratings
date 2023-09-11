@@ -30,6 +30,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.20% | ~457 |
 | The Dinner Party | 0.20% | ~457 |
 | The Botched Kidnapping | 0.20% | ~457 |
+| Trollskull Manor | 0.20% | ~457 |
 | The Crumbling Temple | 0.20% | ~457 |
 | Useless Allies | 0.20% | ~457 |
 | Exploring Port Nyanzaru | 0.20% | ~457 |
@@ -226,7 +227,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Visions of Strahd | 0.10% | ~228 |
 | Seeds of Corruption | 0.10% | ~228 |
 | The Strahd Squad | 0.10% | ~195 |
-| Trollskull Manor | 0.10% | ~228 |
 | The Gargoyle's Apprentice | 0.10% | ~228 |
 | House of Darkness | 0.10% | ~228 |
 | Home Not So Alone | 0.10% | ~195 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,340 (Ranked 54)  
-Completed: 2,266 (0.99%) (Ranked 125)  
+Progressed: 228,343 (Ranked 54)  
+Completed: 2,267 (0.99%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -671,7 +671,7 @@ Completed: 2,266 (0.99%) (Ranked 125)
 | 2023-09-08 | 227,989 | 2,263 |
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
-| 2023-09-11 | 228,340 | 2,266 |
+| 2023-09-11 | 228,343 | 2,267 |
 ## Awards
 Max (Diverse Characters): 5,261  (Ranked 67)  
 Sum: 31,517 (Ranked 38)  

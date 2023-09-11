@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -2722,9 +2722,9 @@
       "Count": 239
     }
   ],
-  "EOS_Progressed": 75338,
+  "EOS_Progressed": 75339,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 829,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -18512,6 +18512,11 @@
       "Time": "2023-09-11T03:06:25.4659379+00:00",
       "NumProgressed": 75338,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2023-09-11T04:06:02.197905+00:00",
+      "NumProgressed": 75339,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 30,
@@ -18587,7 +18592,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 6780
+      "UsersEstimate": 6781
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -18675,7 +18680,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 16574
+      "UsersEstimate": 16575
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -18762,15 +18767,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 75338,
+      "Progressed": 75339,
       "Completed": 100
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-09-10T15:01:26.2822114+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:06:25.465937+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:06:02.1979043+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:28.5127625+00:00",
-  "LastUpdate_Ratings": "2023-09-11T03:00:44.6182547+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:06:25.4660643+00:00"
+  "LastUpdate_Ratings": "2023-09-11T04:00:02.291923+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:06:02.1980211+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -358,9 +358,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1554,
+  "EOS_Progressed": 1555,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1918,6 +1918,11 @@
       "Time": "2023-09-04T01:45:38.2902808+00:00",
       "NumProgressed": 1554,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-11T04:05:23.905021+00:00",
+      "NumProgressed": 1555,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 38,
@@ -1929,7 +1934,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -1937,7 +1942,7 @@
       "Name": "Great Doctor",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -1945,7 +1950,7 @@
       "Name": "Good Samaritan",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -1985,7 +1990,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -1993,7 +1998,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -2025,7 +2030,7 @@
       "Name": "Line Cook",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -2057,7 +2062,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -2065,7 +2070,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2089,7 +2094,7 @@
       "Name": "Fishing Guru",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -2097,7 +2102,7 @@
       "Name": "The Capitalist",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2105,7 +2110,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -2185,7 +2190,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -2232,7 +2237,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1554,
+      "Progressed": 1555,
       "Completed": 9
     }
   ],
@@ -2240,8 +2245,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-08-05T21:57:06.4008826+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:05:37.9226828+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:05:23.9050202+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.906782+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:59:05.3098828+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:05:37.922722+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:58:43.0964459+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:05:23.905063+00:00"
 }

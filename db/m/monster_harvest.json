@@ -2,10 +2,10 @@
   "ID": "5c744d37f3a24e81aaee7eac20e19f0d",
   "Name": "Monster Harvest",
   "ProductSlug": "monster-harvest-75f018",
-  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2022-11-03T14:00:00+00:00",
     "PcReleaseDate": "2021-08-31T13:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.88,
+  "EOS_Completed_Percentage": 2.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -317,6 +317,11 @@
       "Time": "2023-09-11T02:20:12.5388263+00:00",
       "NumProgressed": 278,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-11T04:04:34.3159387+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 10,
@@ -334,9 +339,9 @@
       "ID": "FURNITURE_IN_THE_FOREST",
       "SetID": "ca3djk0",
       "Name": "Furniture in the Forest!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "GREEN_SLIME_SHEEN",
@@ -344,7 +349,7 @@
       "Name": "Green Sheen",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "LETS_GET_FISHY",
@@ -352,7 +357,7 @@
       "Name": "Let\u0027s Get Fishy!",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MY_FIRST_PLANIMAL",
@@ -360,7 +365,7 @@
       "Name": "My first Planimal!",
       "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "RED_SLIME_TIME",
@@ -368,7 +373,7 @@
       "Name": "Red Slime Time",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -392,7 +397,7 @@
       "Name": "To the Rec Center!",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "WELCOME_TO_PLANIMAL_POINT",
@@ -400,14 +405,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 97,
       "XP": 100,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 8
     }
   ],
@@ -415,8 +420,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:04:37.1586928+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:04:34.315938+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:18.652377+00:00",
-  "LastUpdate_Ratings": "2023-09-11T03:00:34.0183867+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:04:37.1587065+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:59:54.169967+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:04:34.3159503+00:00"
 }

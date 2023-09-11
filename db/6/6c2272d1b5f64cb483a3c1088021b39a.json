@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -3442,9 +3442,9 @@
       "ID": "archmage_2",
       "SetID": "53c1p3k",
       "Name": "Archmage 2",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "archmage_3",
@@ -3945,8 +3945,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:05:39.023553+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:05:24.9115155+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:00.6295302+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:59:20.721752+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:05:39.0236375+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:58:54.8767997+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:05:24.9116056+00:00"
 }

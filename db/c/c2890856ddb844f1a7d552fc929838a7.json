@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1439,17 +1439,17 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 377
     },
     {
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 287
+      "UsersEstimate": 294
     },
     {
       "ID": "AC11",
@@ -1744,8 +1744,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-11T03:04:52.9204484+00:00",
+  "LastChanged_Achievements": "2023-09-11T04:04:47.2996328+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-11T02:59:03.8684148+00:00",
-  "LastUpdate_Achievements": "2023-09-11T03:04:52.9204962+00:00"
+  "LastUpdate_Ratings": "2023-09-11T03:58:41.9455803+00:00",
+  "LastUpdate_Achievements": "2023-09-11T04:04:47.2996742+00:00"
 }

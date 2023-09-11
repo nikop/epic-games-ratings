@@ -17,14 +17,14 @@ Number of Ratings: 7,669  (23.09.2022)
 | Better than nothing? | 4.00% | ~97 |
 | Surprise of Langhe | 3.00% | ~73 |
 | Famous | 3.00% | ~73 |
-| What is that? A castle? | 2.00% | ~48 |
-| A lot of space | 2.00% | ~48 |
-| A big garage | 2.00% | ~48 |
-| Big Money | 2.00% | ~48 |
-| Millionaire | 2.00% | ~48 |
-| Exotic | 2.00% | ~48 |
-| Keep the doctor away | 2.00% | ~48 |
-| Very Important Winemaker | 2.00% | ~48 |
+| What is that? A castle? | 2.00% | ~49 |
+| A lot of space | 2.00% | ~49 |
+| A big garage | 2.00% | ~49 |
+| Big Money | 2.00% | ~49 |
+| Millionaire | 2.00% | ~49 |
+| Exotic | 2.00% | ~49 |
+| Keep the doctor away | 2.00% | ~49 |
+| Very Important Winemaker | 2.00% | ~49 |
 | Pastry Chef | 1.00% | ~24 |
 | Welcome to the club | 1.00% | ~24 |
 | King of Langhe | 1.00% | ~24 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.20% | ~5 |
 | Unsuitable Terroir | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,425 (Ranked 174)  
+Progressed: 2,427 (Ranked 174)  
 Completed: 4 (0.16%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 4 (0.16%) (Ranked 201)
 | 2023-09-08 | 1,956 | 3 |
 | 2023-09-09 | 2,185 | 3 |
 | 2023-09-10 | 2,407 | 4 |
-| 2023-09-11 | 2,425 | 4 |
+| 2023-09-11 | 2,427 | 4 |
 ## Awards
 Max (Relaxing): 204  (Ranked 273)  
 Sum: 1,460 (Ranked 224)  
