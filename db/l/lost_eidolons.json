@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -1422,9 +1422,9 @@
       "ID": "07",
       "SetID": "73ikgfc",
       "Name": "Monster Hunter",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 572
+      "UsersEstimate": 583
     },
     {
       "ID": "08",
@@ -1567,8 +1567,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-06-30T20:00:05.692321+00:00",
-  "LastChanged_Achievements": "2023-09-11T04:05:18.5863724+00:00",
+  "LastChanged_Achievements": "2023-09-11T05:06:12.0645325+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.2669588+00:00",
-  "LastUpdate_Ratings": "2023-09-11T03:57:43.0669427+00:00",
-  "LastUpdate_Achievements": "2023-09-11T04:05:18.5864042+00:00"
+  "LastUpdate_Ratings": "2023-09-11T04:58:03.9680066+00:00",
+  "LastUpdate_Achievements": "2023-09-11T05:06:12.0645515+00:00"
 }

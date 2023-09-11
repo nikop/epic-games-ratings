@@ -2,10 +2,10 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -576,8 +576,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-09-11T04:05:49.8012528+00:00",
+  "LastChanged_Achievements": "2023-09-11T05:06:53.5103899+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:36.5906962+00:00",
-  "LastUpdate_Ratings": "2023-09-11T04:00:07.7235546+00:00",
-  "LastUpdate_Achievements": "2023-09-11T04:05:49.801297+00:00"
+  "LastUpdate_Ratings": "2023-09-11T05:01:33.8607634+00:00",
+  "LastUpdate_Achievements": "2023-09-11T05:06:53.510423+00:00"
 }

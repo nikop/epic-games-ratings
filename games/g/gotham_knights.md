@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,645 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,338 |
-| Loose Ends | 34.00% | ~24,614 |
+| First Step Into the Knight | 52.00% | ~37,646 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,339 |
+| Loose Ends | 34.00% | ~24,615 |
 | To the Victor Go the Spoils | 28.00% | ~20,271 |
 | Knighthood | 27.00% | ~19,547 |
 | Get ReQ'd | 25.00% | ~18,099 |
@@ -20,21 +20,21 @@ Rating: 4.18 (Ranked 883)
 | Unstoppable Force | 20.00% | ~14,479 |
 | Bad Apples in Every Orchard | 20.00% | ~14,479 |
 | Snow Problem | 19.00% | ~13,755 |
-| The Show Mud Go On | 17.00% | ~12,307 |
+| The Show Mud Go On | 18.00% | ~13,031 |
 | From Inside Gotham's Walls | 17.00% | ~12,307 |
-| Protector of Gotham | 16.00% | ~11,583 |
-| In Your Element | 15.00% | ~10,859 |
-| Universal Health Scare | 15.00% | ~10,859 |
-| Rock and a Hard Place | 14.00% | ~10,135 |
-| Cooldown | 14.00% | ~10,135 |
-| Voiceless | 14.00% | ~10,135 |
-| Not On My Watch | 13.00% | ~9,411 |
-| Shock Til They Drop | 13.00% | ~9,411 |
-| Seeking Asylum | 13.00% | ~9,411 |
-| End of an Era | 12.00% | ~8,687 |
-| Bulldozed | 12.00% | ~8,687 |
-| Gotham Knight | 12.00% | ~8,687 |
-| Gotham City Confidential | 11.00% | ~7,963 |
+| Protector of Gotham | 16.00% | ~11,584 |
+| In Your Element | 15.00% | ~10,860 |
+| Universal Health Scare | 15.00% | ~10,860 |
+| Rock and a Hard Place | 14.00% | ~10,136 |
+| Cooldown | 14.00% | ~10,136 |
+| Voiceless | 14.00% | ~10,136 |
+| Not On My Watch | 13.00% | ~9,412 |
+| Shock Til They Drop | 13.00% | ~9,412 |
+| Seeking Asylum | 13.00% | ~9,412 |
+| End of an Era | 12.00% | ~8,688 |
+| Bulldozed | 12.00% | ~8,688 |
+| Gotham Knight | 12.00% | ~8,688 |
+| Gotham City Confidential | 11.00% | ~7,964 |
 | Drone You Out | 9.00% | ~6,516 |
 | Out of Their League | 8.00% | ~5,792 |
 | Solid Alibi | 8.00% | ~5,792 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,395 (Ranked 82)  
+Progressed: 72,397 (Ranked 82)  
 Completed: 112 (0.15%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,10 +211,10 @@ Completed: 112 (0.15%) (Ranked 205)
 | 2023-09-08 | 72,185 | 112 |
 | 2023-09-09 | 72,298 | 112 |
 | 2023-09-10 | 72,379 | 112 |
-| 2023-09-11 | 72,395 | 112 |
+| 2023-09-11 | 72,397 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,628  (Ranked 97)  
-Sum: 4,363 (Ranked 139)  
+Sum: 4,365 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -225,7 +225,7 @@ Diff (max vs sum): -42
 | This game has Diverse Characters | 218 |
 | This game has Amazing Characters | 216 |
 | This game is Great for Beginners | 215 |
-| This game has Amazing Storytelling | 210 |
+| This game has Amazing Storytelling | 212 |
 | This game is Highly Recommended | 209 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -429,4 +429,4 @@ Diff (max vs sum): -42
 | 2023-09-08 | 4.18 | 2,602 | 4,312 |
 | 2023-09-09 | 4.18 | 2,614 | 4,341 |
 | 2023-09-10 | 4.18 | 2,628 | 4,360 |
-| 2023-09-11 | 4.18 | 2,628 | 4,363 |
+| 2023-09-11 | 4.18 | 2,628 | 4,365 |

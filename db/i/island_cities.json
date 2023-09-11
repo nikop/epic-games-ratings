@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 673,
-  "EOS_Completed": 97,
+  "EOS_Completed": 98,
   "EOS_NewPlayers": 203,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 14.41,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 14.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2728,6 +2728,11 @@
       "Time": "2023-09-11T03:05:23.1292491+00:00",
       "NumProgressed": 673,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-09-11T05:06:02.8902431+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 22,
@@ -2889,9 +2894,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 101
     },
     {
       "ID": "LEVEL_021",
@@ -2915,15 +2920,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 673,
-      "Completed": 97
+      "Completed": 98
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-11T04:05:11.6788069+00:00",
+  "LastChanged_Achievements": "2023-09-11T05:06:02.8902426+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-11T03:59:45.1721826+00:00",
-  "LastUpdate_Achievements": "2023-09-11T04:05:11.678842+00:00"
+  "LastUpdate_Ratings": "2023-09-11T05:01:02.8836886+00:00",
+  "LastUpdate_Achievements": "2023-09-11T05:06:02.890268+00:00"
 }

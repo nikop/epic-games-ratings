@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -569,9 +569,9 @@
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Picky Eater",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NOT_FAINT_HOUSEWARMING",
@@ -648,8 +648,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-11T04:04:57.964757+00:00",
+  "LastChanged_Achievements": "2023-09-11T05:05:43.8876119+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-11T03:59:00.5312377+00:00",
-  "LastUpdate_Achievements": "2023-09-11T04:04:57.9647741+00:00"
+  "LastUpdate_Ratings": "2023-09-11T04:59:55.6296181+00:00",
+  "LastUpdate_Achievements": "2023-09-11T05:05:43.8876252+00:00"
 }

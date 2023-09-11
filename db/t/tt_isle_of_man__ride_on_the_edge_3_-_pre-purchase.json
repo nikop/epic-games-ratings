@@ -4,8 +4,8 @@
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -17,11 +17,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 128,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.57,
+  "EOS_Completed_Percentage": 1.56,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -627,6 +627,11 @@
       "Time": "2023-09-11T02:21:18.6525951+00:00",
       "NumProgressed": 127,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-11T05:06:37.7180907+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -654,7 +659,7 @@
       "Name": "To Each Their Own",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -804,9 +809,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "gagif7",
       "Name": "Made Mother Proud",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -820,9 +825,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "gagif7",
       "Name": "Winner Winner Chicken Dinner",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -862,7 +867,7 @@
       "Name": "You Get An Upgrade, You Get An Upgrade!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -900,7 +905,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 5,
       "UsersEstimate": 123
     },
@@ -908,9 +913,9 @@
       "ID": "ACHIEVEMENT_35",
       "SetID": "gagif7",
       "Name": "Tailor-Made",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -934,7 +939,7 @@
       "Name": "Lone Wolf",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -949,14 +954,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 128,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-09-11T04:05:37.9875453+00:00",
+  "LastChanged_Achievements": "2023-09-11T05:06:37.7180899+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:15.0711465+00:00",
-  "LastUpdate_Ratings": "2023-09-11T03:59:29.5406221+00:00",
-  "LastUpdate_Achievements": "2023-09-11T04:05:37.9875835+00:00"
+  "LastUpdate_Ratings": "2023-09-11T05:00:39.4106937+00:00",
+  "LastUpdate_Achievements": "2023-09-11T05:06:37.7181193+00:00"
 }
