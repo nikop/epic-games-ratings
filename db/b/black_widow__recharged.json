@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17973,
+  "EOS_Progressed": 17974,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -11977,6 +11977,11 @@
       "Time": "2023-09-11T15:09:13.6012392+00:00",
       "NumProgressed": 17973,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-11T17:09:13.0412647+00:00",
+      "NumProgressed": 17974,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -12060,7 +12065,7 @@
       "Name": "In My Own Time",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -12068,7 +12073,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5032
+      "UsersEstimate": 5033
     },
     {
       "ID": "ACH_THE_FALL",
@@ -12099,15 +12104,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 17973,
+      "Progressed": 17974,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-11T16:08:06.7139481+00:00",
+  "LastChanged_Achievements": "2023-09-11T17:09:13.041264+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:18.1585885+00:00",
-  "LastUpdate_Ratings": "2023-09-11T15:58:55.5760799+00:00",
-  "LastUpdate_Achievements": "2023-09-11T16:08:06.7140202+00:00"
+  "LastUpdate_Ratings": "2023-09-11T16:59:30.0675552+00:00",
+  "LastUpdate_Achievements": "2023-09-11T17:09:13.0413632+00:00"
 }

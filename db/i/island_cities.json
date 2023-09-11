@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 679,
+  "EOS_Progressed": 680,
   "EOS_Completed": 99,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 14.58,
+  "EOS_Completed_Percentage": 14.56,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2753,6 +2753,11 @@
       "Time": "2023-09-11T15:06:17.1966509+00:00",
       "NumProgressed": 679,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2023-09-11T17:06:16.314351+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 99
     }
   ],
   "TotalAchievements": 22,
@@ -2764,7 +2769,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "LEVEL_002",
@@ -2772,7 +2777,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "LEVEL_003",
@@ -2780,7 +2785,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "LEVEL_004",
@@ -2788,7 +2793,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "LEVEL_005",
@@ -2804,7 +2809,7 @@
       "Name": "Found an oasis",
       "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "LEVEL_007",
@@ -2812,7 +2817,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "LEVEL_008",
@@ -2820,7 +2825,7 @@
       "Name": "Passion for sports",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "LEVEL_009",
@@ -2836,7 +2841,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "LEVEL_011",
@@ -2884,7 +2889,7 @@
       "Name": "The beach is right there",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_017",
@@ -2892,7 +2897,7 @@
       "Name": "Commuting",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_018",
@@ -2939,7 +2944,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 679,
+      "Progressed": 680,
       "Completed": 99
     }
   ],
@@ -2947,8 +2952,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-11T16:05:29.7905537+00:00",
+  "LastChanged_Achievements": "2023-09-11T17:06:16.3143499+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-11T16:00:42.0613625+00:00",
-  "LastUpdate_Achievements": "2023-09-11T16:05:29.7905892+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:01:33.8483147+00:00",
+  "LastUpdate_Achievements": "2023-09-11T17:06:16.3144063+00:00"
 }

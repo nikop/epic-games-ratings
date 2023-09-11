@@ -2834,9 +2834,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72417,
+  "EOS_Progressed": 72418,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 1916,
+  "EOS_NewPlayers": 1883,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15114,6 +15114,11 @@
       "Time": "2023-09-11T16:06:42.7795841+00:00",
       "NumProgressed": 72417,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-11T17:07:42.888251+00:00",
+      "NumProgressed": 72418,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15245,7 +15250,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10138
+      "UsersEstimate": 10139
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -15357,7 +15362,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "FREEZE_2",
@@ -15373,7 +15378,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10138
+      "UsersEstimate": 10139
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -15445,7 +15450,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "HARLEY_4",
@@ -15493,7 +15498,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -15541,7 +15546,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "MYSTERY_05",
@@ -15557,7 +15562,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10138
+      "UsersEstimate": 10139
     },
     {
       "ID": "MYSTERY_07",
@@ -15612,13 +15617,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72417,
+      "Progressed": 72418,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42697,
+      "Progressed": 42698,
       "Completed": 2663
     }
   ],
@@ -15626,8 +15631,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-11T13:03:21.3959917+00:00",
-  "LastChanged_Achievements": "2023-09-11T16:06:42.7795836+00:00",
+  "LastChanged_Achievements": "2023-09-11T17:07:42.8882504+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-11T15:57:48.2722325+00:00",
-  "LastUpdate_Achievements": "2023-09-11T16:06:42.7797154+00:00"
+  "LastUpdate_Ratings": "2023-09-11T16:58:08.6446656+00:00",
+  "LastUpdate_Achievements": "2023-09-11T17:07:42.8883906+00:00"
 }

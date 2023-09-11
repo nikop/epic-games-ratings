@@ -10,6 +10,7 @@ Rating: 4.60 (Ranked 393)
 | Rail Rat | 22.00% | ~190 |
 | The Prince in Heels | 20.00% | ~172 |
 | Immaculate Aim | 20.00% | ~172 |
+| The Brass Boss | 20.00% | ~172 |
 | The Steel Shadow | 19.00% | ~164 |
 | Make Up For Lost Time | 19.00% | ~164 |
 | Time Flies | 19.00% | ~164 |
@@ -17,10 +18,9 @@ Rating: 4.60 (Ranked 393)
 | No, Thanks! | 19.00% | ~164 |
 | Breaking Down Barriers | 19.00% | ~164 |
 | Honest Mistake | 19.00% | ~164 |
+| Fast Learner | 19.00% | ~164 |
 | Immaculate Aim | 19.00% | ~164 |
-| The Brass Boss | 19.00% | ~164 |
 | The Wicked Twins | 18.00% | ~155 |
-| Fast Learner | 18.00% | ~155 |
 | Like Clockwork | 17.00% | ~147 |
 | The Betrayer | 17.00% | ~147 |
 | The Loose Cannon | 17.00% | ~147 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 393)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 862 (Ranked 214)  
+Progressed: 862 (Ranked 215)  
 Completed: 5 (0.58%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |

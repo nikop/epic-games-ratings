@@ -22,17 +22,17 @@
 | DI Hardwicke | 27.00% | ~3 |
 | The Investigation Begins | 27.00% | ~3 |
 | Truth from within | 18.00% | ~2 |
+| An odd series of events | 18.00% | ~2 |
 | Ms. Camilla B. Culsham | 18.00% | ~2 |
+| Irene Court-Smyth | 18.00% | ~2 |
+| The Apartment | 18.00% | ~2 |
 | Well-acquainted | 9.00% | ~1 |
-| An odd series of events | 9.00% | ~1 |
 | A rude awakening | 9.00% | ~1 |
 | A curious phrase | 9.00% | ~1 |
 | Anastasia Babanin | 9.00% | ~1 |
-| Irene Court-Smyth | 9.00% | ~1 |
 | Nathaniel Dryden | 9.00% | ~1 |
 | Zakariya Demir | 9.00% | ~1 |
 | Bartholomew | 9.00% | ~1 |
-| The Apartment | 9.00% | ~1 |
 | The Scheme | 9.00% | ~1 |
 | The Denouement | 0.00% | ~0 |
 | Well-travelled | 0.00% | ~0 |

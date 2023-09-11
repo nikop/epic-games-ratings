@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 429)  
+Rating: 4.58 (Ranked 428)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,7 +13,7 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic 3 & Knuckles | 73.00% | ~339 |
 | Time Traveler | 69.00% | ~320 |
 | Ring Collector | 69.00% | ~320 |
-| Everyone's Hero | 64.00% | ~297 |
+| Everyone's Hero | 65.00% | ~302 |
 | Easy Peasy with Shields | 61.00% | ~283 |
 | Gallant Spin Dash | 61.00% | ~283 |
 | Knuckles the Echidna | 61.00% | ~283 |

@@ -9,7 +9,7 @@
 | Mother | 79.00% | ~92 |
 | Failure | 77.00% | ~89 |
 | Replace Fuse | 66.00% | ~77 |
-| Alarm | 64.00% | ~74 |
+| Alarm | 65.00% | ~75 |
 | Air Filtration | 62.00% | ~72 |
 | Broken | 60.00% | ~70 |
 | Radiation | 59.00% | ~68 |
@@ -18,11 +18,11 @@
 | Cold Storage | 57.00% | ~66 |
 | Sam | 53.00% | ~61 |
 | Churchill | 51.00% | ~59 |
-| Commissioner | 50.00% | ~58 |
+| Commissioner | 51.00% | ~59 |
 | Engineer | 49.00% | ~57 |
 | Leave | 48.00% | ~56 |
-| Doctor | 47.00% | ~55 |
-| Soldier | 47.00% | ~55 |
+| Doctor | 48.00% | ~56 |
+| Soldier | 48.00% | ~56 |
 | Press Play | 35.00% | ~41 |
 | General | 25.00% | ~29 |
 | Bookworm | 23.00% | ~27 |

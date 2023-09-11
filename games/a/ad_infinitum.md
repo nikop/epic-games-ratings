@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Morgengrauen | 43.00% | ~3 |
+| Morgengrauen | 57.00% | ~4 |
 | Path of Despair | 43.00% | ~3 |
 | An act of mercy | 14.00% | ~1 |
 | Ad Infinitum | 14.00% | ~1 |

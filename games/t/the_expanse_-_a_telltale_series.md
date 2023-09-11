@@ -1,24 +1,24 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.59 (Ranked 417)  
+Rating: 4.58 (Ranked 428)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 31.00% | ~3,227 |
-| Stogie for Fogey | 25.00% | ~2,602 |
-| Martian Music | 23.00% | ~2,394 |
-| Spore Taste | 22.00% | ~2,290 |
-| Captain Drummer | 22.00% | ~2,290 |
-| Celebrations are in Order | 21.00% | ~2,186 |
+| Impossible Objects | 31.00% | ~3,228 |
+| Stogie for Fogey | 25.00% | ~2,603 |
+| Martian Music | 23.00% | ~2,395 |
+| Spore Taste | 22.00% | ~2,291 |
+| Captain Drummer | 22.00% | ~2,291 |
+| Celebrations are in Order | 21.00% | ~2,187 |
 | Doctor Approved | 18.00% | ~1,874 |
-| The Pit and the Pirates | 14.00% | ~1,457 |
-| Thorston Mayer | 13.00% | ~1,353 |
-| Drone Dodger | 13.00% | ~1,353 |
+| The Pit and the Pirates | 14.00% | ~1,458 |
+| Drone Dodger | 14.00% | ~1,458 |
+| Thorston Mayer | 13.00% | ~1,354 |
 | Bottoms up! | 10.00% | ~1,041 |
-| Data Logger | 5.00% | ~520 |
-| Data Master | 5.00% | ~520 |
-| Data Recoverer | 5.00% | ~520 |
+| Data Logger | 5.00% | ~521 |
+| Data Master | 5.00% | ~521 |
+| Data Recoverer | 5.00% | ~521 |
 | Debris Spree | 3.00% | ~312 |
 | Urshanabi Hoarder | 2.00% | ~208 |
 | Grave Robber | 2.00% | ~208 |
@@ -36,7 +36,7 @@ Rating: 4.59 (Ranked 417)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,410 (Ranked 127)  
+Progressed: 10,413 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 10,264 | 0 |
 | 2023-09-09 | 10,336 | 0 |
 | 2023-09-10 | 10,393 | 0 |
-| 2023-09-11 | 10,410 | 0 |
+| 2023-09-11 | 10,413 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -98,3 +98,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-04 | 4.66 | 0 | 0 |
 | 2023-09-05 | 4.67 | 0 | 0 |
 | 2023-09-07 | 4.59 | 0 | 0 |
+| 2023-09-11 | 4.58 | 0 | 0 |

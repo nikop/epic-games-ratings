@@ -5,27 +5,27 @@ Rating: 4.43 (Ranked 666)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~57,816 |
-| This is only the beginning | 19.00% | ~42,250 |
+| No aid from the Omnissiah | 26.00% | ~57,818 |
+| This is only the beginning | 19.00% | ~42,251 |
 | Knowledge is power | 12.00% | ~26,685 |
-| Power Ranger | 9.00% | ~20,013 |
-| Galvanic Rifle | 9.00% | ~20,013 |
-| Taser Goad | 9.00% | ~20,013 |
-| Radium Ready | 9.00% | ~20,013 |
-| Half a cog | 9.00% | ~20,013 |
+| Power Ranger | 9.00% | ~20,014 |
+| Galvanic Rifle | 9.00% | ~20,014 |
+| Taser Goad | 9.00% | ~20,014 |
+| Radium Ready | 9.00% | ~20,014 |
+| Half a cog | 9.00% | ~20,014 |
 | Watch them crumble | 6.00% | ~13,342 |
 | Competent Cohort | 4.00% | ~8,895 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,895 |
 | One with the Machine | 4.00% | ~8,895 |
 | Legio Cybernetica | 3.00% | ~6,671 |
 | Fleshy Disposal | 3.00% | ~6,671 |
-| Battle Servitor | 2.00% | ~4,447 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,447 |
-| Impatient destruction | 2.00% | ~4,447 |
-| Vivisected Vizier | 2.00% | ~4,447 |
-| Architect Abortion | 2.00% | ~4,447 |
+| Battle Servitor | 2.00% | ~4,448 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,448 |
+| Impatient destruction | 2.00% | ~4,448 |
+| Vivisected Vizier | 2.00% | ~4,448 |
+| Architect Abortion | 2.00% | ~4,448 |
 | Cohortus Maximus | 0.80% | ~1,779 |
-| Mother of Xenarites | 0.40% | ~889 |
+| Mother of Xenarites | 0.40% | ~890 |
 | False God | 0.30% | ~667 |
 | Hard | 0.20% | ~445 |
 | Sensory overload | 0.20% | ~445 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 666)
 | Perma-live | 0.10% | ~222 |
 | Purge the Heretek | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,371 (Ranked 57)  
+Progressed: 222,375 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 5 (0.00%) (Ranked 273)
 | 2023-09-08 | 222,180 | 5 |
 | 2023-09-09 | 222,258 | 5 |
 | 2023-09-10 | 222,329 | 5 |
-| 2023-09-11 | 222,371 | 5 |
+| 2023-09-11 | 222,375 | 5 |
 ## Awards
 Max (Highly Recommended): 282  (Ranked 243)  
 Sum: 2,138 (Ranked 196)  

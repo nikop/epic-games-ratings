@@ -5,8 +5,8 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,494 |
-| First Class Student | 13.00% | ~38,530 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,495 |
+| First Class Student | 13.00% | ~38,531 |
 | Troll with the Punches | 12.00% | ~35,567 |
 | A Keen Sense of Spell | 11.00% | ~32,603 |
 | That's a Keeper | 11.00% | ~32,603 |
@@ -26,11 +26,11 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 7.00% | ~20,747 |
 | A Sallow Grave | 7.00% | ~20,747 |
 | Flight the Good Flight | 7.00% | ~20,747 |
-| Raising Expectations | 6.00% | ~17,783 |
-| The Seeker of Knowledge | 5.00% | ~14,819 |
-| The Root of the Problem | 5.00% | ~14,819 |
-| Third Time's a Charm | 5.00% | ~14,819 |
-| The Ends Petrify the Means | 5.00% | ~14,819 |
+| Raising Expectations | 6.00% | ~17,784 |
+| The Seeker of Knowledge | 5.00% | ~14,820 |
+| The Root of the Problem | 5.00% | ~14,820 |
+| Third Time's a Charm | 5.00% | ~14,820 |
+| The Ends Petrify the Means | 5.00% | ~14,820 |
 | The Toast of the Town | 4.00% | ~11,856 |
 | Going Through the Potions | 4.00% | ~11,856 |
 | Room with a View | 4.00% | ~11,856 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Savvy Spender | 1.00% | ~2,964 |
 | Demiguise Dread | 1.00% | ~2,964 |
 | A Forte for Achievement | 1.00% | ~2,964 |
-| Merlin's Beard! | 0.90% | ~2,667 |
+| Merlin's Beard! | 0.90% | ~2,668 |
 | Spilled Milk | 0.80% | ~2,371 |
 | The Nature of the Beast | 0.60% | ~1,778 |
 | Collector's Edition | 0.30% | ~889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,388 (Ranked 43)  
+Progressed: 296,392 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,21 +195,21 @@ Completed: 470 (0.16%) (Ranked 201)
 | 2023-09-08 | 295,981 | 469 |
 | 2023-09-09 | 296,169 | 469 |
 | 2023-09-10 | 296,327 | 470 |
-| 2023-09-11 | 296,388 | 470 |
+| 2023-09-11 | 296,392 | 470 |
 ## Awards
-Max (Character Customization): 22,487  (Ranked 17)  
-Sum: 42,881 (Ranked 30)  
+Max (Character Customization): 22,536  (Ranked 17)  
+Sum: 42,974 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 22,487 |
-| This game has Great Boss Battles | 10,998 |
+| This game has Inclusive Character Customization | 22,536 |
+| This game has Great Boss Battles | 11,036 |
 | This game is Great for Beginners | 1,051 |
 | This game is Extremely Fun | 1,011 |
 | This game has Amazing Storytelling | 1,010 |
 | This game is Relaxing | 1,008 |
 | This game has Diverse Characters | 1,004 |
-| This game has Amazing Characters | 973 |
+| This game has Amazing Characters | 979 |
 | This game is Highly Recommended | 963 |
 | This game has Quickly Understood Controls | 902 |
 | This game has Beautiful Visuals | 840 |
@@ -388,4 +388,4 @@ Diff (max vs sum): -13
 | 2023-09-08 | 4.77 | 22,365 | 42,567 |
 | 2023-09-09 | 4.77 | 22,422 | 42,694 |
 | 2023-09-10 | 4.77 | 22,487 | 42,860 |
-| 2023-09-11 | 4.77 | 22,487 | 42,881 |
+| 2023-09-11 | 4.77 | 22,536 | 42,974 |

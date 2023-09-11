@@ -1,14 +1,14 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 429)  
+Rating: 4.58 (Ranked 428)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,742 |
-| Where's that freaking Dwarf? | 4.00% | ~8,930 |
-| Alt+F4 | 4.00% | ~8,930 |
+| Sowwy! | 29.00% | ~64,748 |
+| Where's that freaking Dwarf? | 4.00% | ~8,931 |
+| Alt+F4 | 4.00% | ~8,931 |
 | Déjà vu | 3.00% | ~6,698 |
 | Sock! SOCK! | 3.00% | ~6,698 |
 | Way of the Wimp | 2.00% | ~4,465 |
@@ -18,21 +18,21 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 2.00% | ~4,465 |
 | Speedrun | 2.00% | ~4,465 |
 | Fireproof Wizardess | 2.00% | ~4,465 |
-| Livin' in a dwarven paradise | 1.00% | ~2,232 |
-| Shiny and Crôm | 1.00% | ~2,232 |
-| The demons' feast | 1.00% | ~2,232 |
-| The Great Library | 1.00% | ~2,232 |
-| Torture and Sensibility | 1.00% | ~2,232 |
-| Urik's Depths | 1.00% | ~2,232 |
-| The Dungeon Master | 1.00% | ~2,232 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,232 |
-| The Woman in the High Castle | 1.00% | ~2,232 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,232 |
-| The beards of change | 1.00% | ~2,232 |
-| The Ranger of Chaos | 1.00% | ~2,232 |
-| I am the night | 1.00% | ~2,232 |
-| Team Building Exercise | 1.00% | ~2,232 |
-| Oh, when I'll be level 10... | 1.00% | ~2,232 |
+| Livin' in a dwarven paradise | 1.00% | ~2,233 |
+| Shiny and Crôm | 1.00% | ~2,233 |
+| The demons' feast | 1.00% | ~2,233 |
+| The Great Library | 1.00% | ~2,233 |
+| Torture and Sensibility | 1.00% | ~2,233 |
+| Urik's Depths | 1.00% | ~2,233 |
+| The Dungeon Master | 1.00% | ~2,233 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,233 |
+| The Woman in the High Castle | 1.00% | ~2,233 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,233 |
+| The beards of change | 1.00% | ~2,233 |
+| The Ranger of Chaos | 1.00% | ~2,233 |
+| I am the night | 1.00% | ~2,233 |
+| Team Building Exercise | 1.00% | ~2,233 |
+| Oh, when I'll be level 10... | 1.00% | ~2,233 |
 | The Famous Dungeon of Naheulbeuk | 0.90% | ~2,009 |
 | %#*!$*! | 0.90% | ~2,009 |
 | Look but don't touch | 0.90% | ~2,009 |
@@ -51,11 +51,11 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 0.30% | ~670 |
 | An old poacher makes the best gamekeeper | 0.30% | ~670 |
 | Law and Order | 0.30% | ~670 |
-| Friendly fire | 0.20% | ~446 |
-| I'd rather... Just... Sing! | 0.20% | ~446 |
-| The number of the counting shalt be 7 | 0.20% | ~446 |
-| Inception | 0.20% | ~446 |
-| It's been a hard day's night | 0.20% | ~446 |
+| Friendly fire | 0.20% | ~447 |
+| I'd rather... Just... Sing! | 0.20% | ~447 |
+| The number of the counting shalt be 7 | 0.20% | ~447 |
+| Inception | 0.20% | ~447 |
+| It's been a hard day's night | 0.20% | ~447 |
 | Cursed die | 0.10% | ~223 |
 | Necrophilia | 0.10% | ~223 |
 | The Blood Countess | 0.10% | ~223 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,250 (Ranked 56)  
+Progressed: 223,270 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-08 | 222,320 | 2 |
 | 2023-09-09 | 222,713 | 2 |
 | 2023-09-10 | 223,093 | 2 |
-| 2023-09-11 | 223,250 | 2 |
+| 2023-09-11 | 223,270 | 2 |
 ## Awards
 Max (Character Customization): 193  (Ranked 276)  
 Sum: 308 (Ranked 338)  

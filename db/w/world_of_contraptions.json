@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1166,6 +1166,11 @@
       "Time": "2023-09-11T16:05:27.1130622+00:00",
       "NumProgressed": 277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-11T17:06:13.0709068+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1177,7 +1182,7 @@
       "Name": "The first of many",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1409,21 +1414,21 @@
       "Name": "Starting to take notes",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-09-11T16:05:27.1130617+00:00",
+  "LastChanged_Achievements": "2023-09-11T17:06:13.070906+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.8460187+00:00",
-  "LastUpdate_Ratings": "2023-09-11T16:00:48.7252186+00:00",
-  "LastUpdate_Achievements": "2023-09-11T16:05:27.1130878+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:01:41.196574+00:00",
+  "LastUpdate_Achievements": "2023-09-11T17:06:13.0709559+00:00"
 }

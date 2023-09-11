@@ -19,10 +19,10 @@
 | Game Over! | 46.00% | ~17 |
 | A very special drink | 46.00% | ~17 |
 | Fussy eater | 46.00% | ~17 |
+| Far away from home | 46.00% | ~17 |
 | NOW GO AWAY! | 46.00% | ~17 |
 | Sorry Grandpa | 46.00% | ~17 |
 | Show me your true self | 43.00% | ~16 |
-| Far away from home | 43.00% | ~16 |
 | GG | 41.00% | ~15 |
 | No posters allowed | 41.00% | ~15 |
 | Close the deal | 38.00% | ~14 |

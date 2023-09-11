@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -297,9 +297,9 @@
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "605782",
@@ -450,8 +450,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-09-11T16:05:31.2717631+00:00",
+  "LastChanged_Achievements": "2023-09-11T17:06:18.1134919+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:52.6386133+00:00",
-  "LastUpdate_Ratings": "2023-09-11T15:57:27.2207021+00:00",
-  "LastUpdate_Achievements": "2023-09-11T16:05:31.2717813+00:00"
+  "LastUpdate_Ratings": "2023-09-11T16:57:42.5681099+00:00",
+  "LastUpdate_Achievements": "2023-09-11T17:06:18.1135204+00:00"
 }

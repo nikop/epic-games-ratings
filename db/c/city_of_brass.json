@@ -2,20 +2,20 @@
   "ID": "fa234e40c4d44dfa84fbcb302fef0233",
   "Name": "City of Brass",
   "ProductSlug": "city-of-brass",
-  "Ranking_Rating": 842,
+  "Ranking_Rating": 851,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2018-05-04T15:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "NumberOfRatings": 227,
   "RatingHistory": [
     {
@@ -423,6 +423,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-11T17:01:17.3967629+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -440,8 +446,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:59.0353728+00:00",
-  "LastChanged": "2023-08-29T15:01:15.2824668+00:00",
+  "LastChanged": "2023-09-11T17:01:17.3967627+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.61914+00:00",
-  "LastUpdate_Ratings": "2023-09-11T16:00:28.1051857+00:00",
-  "LastUpdate_Achievements": "2023-09-11T16:07:39.8960384+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:01:17.3967633+00:00",
+  "LastUpdate_Achievements": "2023-09-11T17:08:53.5503106+00:00"
 }

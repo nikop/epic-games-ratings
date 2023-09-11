@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -1094,17 +1094,17 @@
       "ID": "interrogation",
       "SetID": "c4ipj3h",
       "Name": "Interrogation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "light_sleepers",
       "SetID": "c4ipj3h",
       "Name": "Light Sleepers",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 86
     },
     {
       "ID": "not_alone",
@@ -1150,9 +1150,9 @@
       "ID": "sore_loser",
       "SetID": "c4ipj3h",
       "Name": "Sore Loser",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "we_go_again",
@@ -1175,8 +1175,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-09-11T16:07:41.2258669+00:00",
+  "LastChanged_Achievements": "2023-09-11T17:08:55.1169713+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.4393944+00:00",
-  "LastUpdate_Ratings": "2023-09-11T16:00:44.9985644+00:00",
-  "LastUpdate_Achievements": "2023-09-11T16:07:41.2258859+00:00"
+  "LastUpdate_Ratings": "2023-09-11T17:01:36.9105521+00:00",
+  "LastUpdate_Achievements": "2023-09-11T17:08:55.1169975+00:00"
 }
