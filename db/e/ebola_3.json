@@ -1146,9 +1146,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "achBett",
@@ -1531,8 +1531,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-12T01:47:22.5947415+00:00",
+  "LastChanged_Achievements": "2023-09-12T02:22:44.4122871+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:48.8958447+00:00",
-  "LastUpdate_Ratings": "2023-09-12T01:38:22.3438472+00:00",
-  "LastUpdate_Achievements": "2023-09-12T01:47:22.5947802+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:13:19.350385+00:00",
+  "LastUpdate_Achievements": "2023-09-12T02:22:44.4123515+00:00"
 }

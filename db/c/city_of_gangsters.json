@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -607,9 +607,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342767,
+  "EOS_Progressed": 342768,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1089,
+  "EOS_NewPlayers": 1087,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16707,6 +16707,11 @@
       "Time": "2023-09-12T01:43:47.0030754+00:00",
       "NumProgressed": 342767,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-12T02:18:35.8190365+00:00",
+      "NumProgressed": 342768,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -17230,7 +17235,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47987
+      "UsersEstimate": 47988
     },
     {
       "ID": "ach067",
@@ -17254,7 +17259,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47987
+      "UsersEstimate": 47988
     },
     {
       "ID": "ach070",
@@ -17357,7 +17362,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 342767,
+      "Progressed": 342768,
       "Completed": 7
     }
   ],
@@ -17365,8 +17370,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-10T15:00:51.2490982+00:00",
-  "LastChanged_Achievements": "2023-09-12T01:43:47.003075+00:00",
+  "LastChanged_Achievements": "2023-09-12T02:18:35.8190359+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-12T01:40:10.3514582+00:00",
-  "LastUpdate_Achievements": "2023-09-12T01:43:47.0032171+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:15:27.8764988+00:00",
+  "LastUpdate_Achievements": "2023-09-12T02:18:35.8192505+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -391,17 +391,17 @@
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
@@ -463,9 +463,9 @@
       "ID": "CgkIxYDzrbcPEAIQEQ",
       "SetID": "4egpam7",
       "Name": "Seeker of Mysteries",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "CgkIxYDzrbcPEAIQEg",
@@ -479,9 +479,9 @@
       "ID": "CgkIxYDzrbcPEAIQEw",
       "SetID": "4egpam7",
       "Name": "Writer",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CgkIxYDzrbcPEAIQFA",
@@ -543,17 +543,17 @@
       "ID": "CgkIxYDzrbcPEAIQGw",
       "SetID": "4egpam7",
       "Name": "Slow and Steady",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHA",
       "SetID": "4egpam7",
       "Name": "Healthy Moderation",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CgkIxYDzrbcPEAIQHQ",
@@ -582,8 +582,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-09-12T01:46:10.9547429+00:00",
+  "LastChanged_Achievements": "2023-09-12T02:21:21.0851076+00:00",
   "LastUpdate_AppInfo": "2023-09-05T17:57:19.7903469+00:00",
-  "LastUpdate_Ratings": "2023-09-12T01:39:17.4008602+00:00",
-  "LastUpdate_Achievements": "2023-09-12T01:46:10.9547615+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:14:24.3614604+00:00",
+  "LastUpdate_Achievements": "2023-09-12T02:21:21.0851332+00:00"
 }

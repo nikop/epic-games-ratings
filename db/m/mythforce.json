@@ -593,9 +593,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1333,
+  "EOS_Progressed": 1335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4038,6 +4038,11 @@
       "Time": "2023-09-12T01:46:02.4755927+00:00",
       "NumProgressed": 1333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T02:21:11.5110338+00:00",
+      "NumProgressed": 1335,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4104,9 +4109,9 @@
       "ID": "MF_Ach_FirstStrike",
       "SetID": "9b9n573",
       "Name": "First Strike",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -4152,9 +4157,9 @@
       "ID": "MF_Ach_KaijuOnTheField",
       "SetID": "9b9n573",
       "Name": "We\u0027ve Got a Kaiju on the Field",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -4233,15 +4238,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1333,
+      "Progressed": 1335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-08T22:00:22.0755866+00:00",
-  "LastChanged_Achievements": "2023-09-12T01:46:02.4755923+00:00",
+  "LastChanged_Achievements": "2023-09-12T02:21:11.511033+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-12T01:36:33.3166766+00:00",
-  "LastUpdate_Achievements": "2023-09-12T01:46:02.4756211+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:11:15.5415245+00:00",
+  "LastUpdate_Achievements": "2023-09-12T02:21:11.5110822+00:00"
 }

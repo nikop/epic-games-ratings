@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 647,
+  "EOS_Progressed": 648,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.86,
   "EosHistory": [
@@ -2344,6 +2344,11 @@
       "Time": "2023-09-12T01:44:20.3738184+00:00",
       "NumProgressed": 647,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-12T02:19:14.5974197+00:00",
+      "NumProgressed": 648,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2355,7 +2360,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "MQ01_2",
@@ -2369,9 +2374,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 382
+      "UsersEstimate": 376
     },
     {
       "ID": "MQ02_2",
@@ -2387,7 +2392,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "MQ02_4",
@@ -2411,7 +2416,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "MQ03_3",
@@ -2441,9 +2446,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 259
     },
     {
       "ID": "MQ04_2",
@@ -2459,7 +2464,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "MQ05_1",
@@ -2499,7 +2504,7 @@
       "Name": "Brain Food",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "MQ06_2",
@@ -2507,7 +2512,7 @@
       "Name": "Bookworm",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MQ06_3",
@@ -2515,7 +2520,7 @@
       "Name": "Land, Ho!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "MQ06_4",
@@ -2531,7 +2536,7 @@
       "Name": "Read It And Weep",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "MQ07_2",
@@ -2578,7 +2583,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 647,
+      "Progressed": 648,
       "Completed": 25
     }
   ],
@@ -2586,8 +2591,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-12T01:44:20.373818+00:00",
+  "LastChanged_Achievements": "2023-09-12T02:19:14.5974189+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-12T01:39:52.2883337+00:00",
-  "LastUpdate_Achievements": "2023-09-12T01:44:20.373844+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:15:05.8300164+00:00",
+  "LastUpdate_Achievements": "2023-09-12T02:19:14.5974598+00:00"
 }

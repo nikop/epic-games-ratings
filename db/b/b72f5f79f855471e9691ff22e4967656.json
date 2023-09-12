@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -982,9 +982,9 @@
       "ID": "questRobHut",
       "SetID": "ci65fo0",
       "Name": "Thief",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "questSWAntidot",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-12T01:47:42.9393451+00:00",
+  "LastChanged_Achievements": "2023-09-12T02:23:07.78141+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-12T01:38:51.4372564+00:00",
-  "LastUpdate_Achievements": "2023-09-12T01:47:42.9394154+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:13:55.0993421+00:00",
+  "LastUpdate_Achievements": "2023-09-12T02:23:07.7815146+00:00"
 }

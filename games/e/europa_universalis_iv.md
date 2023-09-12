@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,015 |
-| That's a Grand Army | 3.00% | ~12,011 |
-| That is mine! | 3.00% | ~12,011 |
-| Victorious! | 3.00% | ~12,011 |
+| Until death do us apart | 4.00% | ~16,016 |
+| That's a Grand Army | 3.00% | ~12,012 |
+| That is mine! | 3.00% | ~12,012 |
+| Victorious! | 3.00% | ~12,012 |
 | Brothers in Arms | 2.00% | ~8,008 |
 | For the Glory | 2.00% | ~8,008 |
 | That's a Grand Navy | 2.00% | ~8,008 |
@@ -19,8 +19,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 1.00% | ~4,004 |
 | The Princess is in this Castle | 1.00% | ~4,004 |
 | True Catholic | 1.00% | ~4,004 |
-| Respected | 0.90% | ~3,603 |
-| Truly Divine Ruler | 0.90% | ~3,603 |
+| Respected | 0.90% | ~3,604 |
+| Truly Divine Ruler | 0.90% | ~3,604 |
 | It's all about luck | 0.80% | ~3,203 |
 | Blockader | 0.70% | ~2,803 |
 | Double the Love | 0.70% | ~2,803 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,376 (Ranked 40)  
+Progressed: 400,389 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -506,10 +506,10 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 397,873 | 0 |
 | 2023-09-10 | 399,390 | 0 |
 | 2023-09-11 | 400,309 | 0 |
-| 2023-09-12 | 400,376 | 0 |
+| 2023-09-12 | 400,389 | 0 |
 ## Awards
 Max (Educational): 6,051  (Ranked 56)  
-Sum: 49,712 (Ranked 26)  
+Sum: 49,725 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -518,7 +518,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 5,730 |
 | This game is Extremely Fun | 5,717 |
 | This game has Diverse Characters | 5,701 |
-| This game is Relaxing | 5,547 |
+| This game is Relaxing | 5,560 |
 | This game has Competitive Players | 5,402 |
 | This game has Amazing Storytelling | 5,073 |
 | This game has Amazing Characters | 4,712 |
@@ -764,3 +764,4 @@ Diff (max vs sum): 30
 | 2023-09-09 | 4.69 | - | 6,006 | 49,449 |
 | 2023-09-10 | 4.69 | - | 6,030 | 49,601 |
 | 2023-09-11 | 4.69 | - | 6,051 | 49,712 |
+| 2023-09-12 | 4.69 | - | 6,051 | 49,725 |

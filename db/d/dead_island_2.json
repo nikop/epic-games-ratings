@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 501,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 22,
@@ -4440,9 +4440,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 678275,
+  "EOS_Progressed": 678279,
   "EOS_Completed": 2139,
-  "EOS_NewPlayers": 4559,
+  "EOS_NewPlayers": 4550,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20620,6 +20620,11 @@
       "Time": "2023-09-12T01:42:08.1441042+00:00",
       "NumProgressed": 678275,
       "NumCompleted": 2139
+    },
+    {
+      "Time": "2023-09-12T02:17:07.7861951+00:00",
+      "NumProgressed": 678279,
+      "NumCompleted": 2139
     }
   ],
   "TotalAchievements": 45,
@@ -20655,7 +20660,7 @@
       "Name": "Anger Management",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6104
+      "UsersEstimate": 6105
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20679,7 +20684,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6104
+      "UsersEstimate": 6105
     },
     {
       "ID": "ach_bookworm",
@@ -20711,7 +20716,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6104
+      "UsersEstimate": 6105
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -20847,7 +20852,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6104
+      "UsersEstimate": 6105
     },
     {
       "ID": "ach_magnum_opus",
@@ -20943,7 +20948,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 6104
+      "UsersEstimate": 6105
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -20990,22 +20995,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 678275,
+      "Progressed": 678279,
       "Completed": 2139
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 3816,
-      "Completed": 3816
+      "Progressed": 3820,
+      "Completed": 3820
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-11T23:00:27.6975283+00:00",
-  "LastChanged_Achievements": "2023-09-12T01:42:08.1441037+00:00",
+  "LastChanged_Achievements": "2023-09-12T02:17:07.7861943+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-12T01:40:52.3521757+00:00",
-  "LastUpdate_Achievements": "2023-09-12T01:42:08.1442124+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:16:16.3196639+00:00",
+  "LastUpdate_Achievements": "2023-09-12T02:17:07.7863702+00:00"
 }

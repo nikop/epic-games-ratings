@@ -4,7 +4,7 @@
   "ProductSlug": "ghostrunner",
   "Ranking_Rating": 173,
   "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 280,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 165,
   "Ranking_EOS_NewPlayers": 76,
@@ -1158,7 +1158,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 17367,
+  "EOS_Progressed": 17368,
   "EOS_Completed": 67,
   "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 2,
@@ -16718,6 +16718,11 @@
       "Time": "2023-09-12T01:45:23.854641+00:00",
       "NumProgressed": 17367,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-09-12T02:20:27.1983382+00:00",
+      "NumProgressed": 17368,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 45,
@@ -16761,7 +16766,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 2952
+      "UsersEstimate": 2953
     },
     {
       "ID": "DeadInTheAir",
@@ -16793,7 +16798,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 4515
+      "UsersEstimate": 4516
     },
     {
       "ID": "GRProjectComplete",
@@ -16817,7 +16822,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 7815
+      "UsersEstimate": 7816
     },
     {
       "ID": "ICallItLuck",
@@ -16825,7 +16830,7 @@
       "Name": "I call it luck",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 7641
+      "UsersEstimate": 7642
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -16865,7 +16870,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 13199
+      "UsersEstimate": 13200
     },
     {
       "ID": "MoreThanHuman",
@@ -16913,7 +16918,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 7641
+      "UsersEstimate": 7642
     },
     {
       "ID": "Perfection",
@@ -16921,7 +16926,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 5557
+      "UsersEstimate": 5558
     },
     {
       "ID": "PreempativeStrike",
@@ -16953,7 +16958,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 9378
+      "UsersEstimate": 9379
     },
     {
       "ID": "RunningWild",
@@ -17009,7 +17014,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5037
     },
     {
       "ID": "TripleA",
@@ -17025,7 +17030,7 @@
       "Name": "Unstoppable force",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -17041,7 +17046,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5036
+      "UsersEstimate": 5037
     },
     {
       "ID": "Wallrunner",
@@ -17049,7 +17054,7 @@
       "Name": "Wallrunner",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9378
+      "UsersEstimate": 9379
     },
     {
       "ID": "WaveOfMutilation",
@@ -17088,21 +17093,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 17367,
+      "Progressed": 17368,
       "Completed": 43
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 17367,
+      "Progressed": 17368,
       "Completed": 67
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-09-09T13:01:00.3189284+00:00",
-  "LastChanged_Achievements": "2023-09-12T01:45:23.8546406+00:00",
+  "LastChanged_Achievements": "2023-09-12T02:20:27.1983365+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.113291+00:00",
-  "LastUpdate_Ratings": "2023-09-12T01:40:22.4399082+00:00",
-  "LastUpdate_Achievements": "2023-09-12T01:45:23.8547409+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:15:42.2986147+00:00",
+  "LastUpdate_Achievements": "2023-09-12T02:20:27.1985323+00:00"
 }
