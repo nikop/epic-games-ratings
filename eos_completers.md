@@ -57,19 +57,19 @@
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 56 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 57 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 57 | [Eternights](games/e/eternights.md) | 4.17% |
-| 59 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.14% |
-| 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
-| 60 | [ZZT!](games/z/zzt!.md) | 4.12% |
-| 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
-| 63 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
-| 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
-| 66 | [Doodle God](games/d/doodle_god.md) | 3.38% |
-| 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
-| 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
-| 68 | [The Complex](games/t/the_complex.md) | 3.29% |
-| 70 | [Without Escape](games/w/without_escape.md) | 3.23% |
+| 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
+| 58 | [ZZT!](games/z/zzt!.md) | 4.12% |
+| 60 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.11% |
+| 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
+| 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
+| 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
+| 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
+| 65 | [Doodle God](games/d/doodle_god.md) | 3.38% |
+| 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
+| 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
+| 67 | [The Complex](games/t/the_complex.md) | 3.29% |
+| 69 | [Eternights](games/e/eternights.md) | 3.23% |
+| 69 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.13% |
 | 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.00% |
 | 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
@@ -131,8 +131,8 @@
 | 128 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.90% |
 | 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.90% |
 | 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 132 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
-| 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
+| 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 134 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 135 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
 | 136 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.70% |
@@ -586,4 +586,4 @@
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,218 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,219 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
