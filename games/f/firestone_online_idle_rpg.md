@@ -29,12 +29,12 @@ Rating: 4.00 (Ranked 941)
 | Superior | 13.00% | ~251 |
 | Scientist | 12.00% | ~231 |
 | Challenger | 11.00% | ~212 |
+| Daily Quest Completionist | 11.00% | ~212 |
 | Doing My Part | 11.00% | ~212 |
 | Hunter | 11.00% | ~212 |
 | Mastery | 11.00% | ~212 |
 | Relic Of The Past | 11.00% | ~212 |
 | The power of Awakening | 11.00% | ~212 |
-| Daily Quest Completionist | 10.00% | ~193 |
 | Four Leaf Clover | 10.00% | ~193 |
 | Frostfire Liberator | 10.00% | ~193 |
 | Moving Up The Ladder | 10.00% | ~193 |

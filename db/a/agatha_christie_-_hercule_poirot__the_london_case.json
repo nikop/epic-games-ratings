@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -466,8 +466,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:06:19.1504305+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:05:46.0748825+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.0541304+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:59:23.6731546+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:06:19.1504981+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:58:54.2249535+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:05:46.0749355+00:00"
 }

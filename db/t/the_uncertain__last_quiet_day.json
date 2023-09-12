@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.99,
+  "EOS_Completed_Percentage": 2.98,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -591,6 +591,11 @@
       "Time": "2023-09-06T19:03:24.8785931+00:00",
       "NumProgressed": 536,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-12T07:04:06.8840577+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 32,
@@ -626,7 +631,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -642,7 +647,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -666,7 +671,7 @@
       "Name": "Found it!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "GOODY",
@@ -690,7 +695,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -698,7 +703,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -714,7 +719,7 @@
       "Name": "Hipster",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -722,7 +727,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "LUCKY_DOG",
@@ -762,7 +767,7 @@
       "Name": "Now you know",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "PERFECT_HEARING",
@@ -802,7 +807,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "SILENT",
@@ -826,7 +831,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -840,9 +845,9 @@
       "ID": "UNCERTAIN",
       "SetID": "2iigf77",
       "Name": "Uncertain",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 97
     },
     {
       "ID": "WALKING_ROBOT",
@@ -857,7 +862,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 16
     }
   ],
@@ -865,8 +870,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:04:20.8572868+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:04:06.8840572+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:20.3531611+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:57:21.6304236+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:04:20.8573316+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:57:10.167248+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:04:06.8840828+00:00"
 }

@@ -7524,9 +7524,9 @@
       "Count": 634
     }
   ],
-  "EOS_Progressed": 296442,
+  "EOS_Progressed": 296444,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1888,
+  "EOS_NewPlayers": 1890,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23204,6 +23204,11 @@
       "Time": "2023-09-12T05:08:24.039614+00:00",
       "NumProgressed": 296442,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-12T07:07:35.7993541+00:00",
+      "NumProgressed": 296444,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23519,7 +23524,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23715
+      "UsersEstimate": 23716
     },
     {
       "ID": "PFA_45",
@@ -23543,7 +23548,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38537
+      "UsersEstimate": 38538
     },
     {
       "ID": "PFA_7",
@@ -23567,14 +23572,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23715
+      "UsersEstimate": 23716
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296442,
+      "Progressed": 296444,
       "Completed": 470
     }
   ],
@@ -23582,8 +23587,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-11T19:00:08.766041+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:08:29.3039415+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:07:35.7993535+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:00:44.4007372+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:08:29.3041906+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:00:01.4307403+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:07:35.7994795+00:00"
 }

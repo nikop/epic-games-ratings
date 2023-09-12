@@ -521,9 +521,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -648,8 +648,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:05:42.3342117+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:05:15.7244794+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:00:18.6460455+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:05:42.3342409+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:59:39.7006022+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:05:15.7244954+00:00"
 }

@@ -6,37 +6,37 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~286,288 |
-| Full garage | 60.00% | ~235,305 |
-| To the eyeballs! | 51.00% | ~200,009 |
-| Individual delivery | 46.00% | ~180,400 |
-| Non-Stop | 44.00% | ~172,557 |
-| Juggler | 35.00% | ~137,261 |
-| Forgot something | 34.00% | ~133,340 |
-| Close call! | 30.00% | ~117,652 |
-| Get out my way | 28.00% | ~109,809 |
-| Critical care | 26.00% | ~101,966 |
-| Common cause | 25.00% | ~98,044 |
-| Mega-railroad | 23.00% | ~90,200 |
-| Upgrade complete | 23.00% | ~90,200 |
-| Just in time! | 18.00% | ~70,592 |
-| Builder | 17.00% | ~66,670 |
-| Steam Age | 16.00% | ~62,748 |
-| Long Haul | 16.00% | ~62,643 |
-| Bridgemania | 14.00% | ~54,905 |
-| Multilevel road | 14.00% | ~54,905 |
-| Need to think | 14.00% | ~54,905 |
-| The Tortoise | 12.00% | ~47,061 |
-| Without a lunch break | 11.00% | ~43,139 |
+| Dealmaker | 73.00% | ~286,294 |
+| Full garage | 60.00% | ~235,310 |
+| To the eyeballs! | 51.00% | ~200,013 |
+| Individual delivery | 46.00% | ~180,404 |
+| Non-Stop | 44.00% | ~172,561 |
+| Juggler | 35.00% | ~137,264 |
+| Forgot something | 34.00% | ~133,342 |
+| Close call! | 30.00% | ~117,655 |
+| Get out my way | 28.00% | ~109,811 |
+| Critical care | 26.00% | ~101,968 |
+| Common cause | 25.00% | ~98,046 |
+| Mega-railroad | 23.00% | ~90,202 |
+| Upgrade complete | 23.00% | ~90,202 |
+| Just in time! | 18.00% | ~70,593 |
+| Builder | 17.00% | ~66,671 |
+| Steam Age | 16.00% | ~62,749 |
+| Long Haul | 16.00% | ~62,644 |
+| Bridgemania | 14.00% | ~54,906 |
+| Multilevel road | 14.00% | ~54,906 |
+| Need to think | 14.00% | ~54,906 |
+| The Tortoise | 12.00% | ~47,062 |
+| Without a lunch break | 11.00% | ~43,140 |
 | Beginner | 10.00% | ~39,218 |
 | Relocation | 10.00% | ~39,218 |
 | One way | 9.00% | ~35,296 |
-| Just One More Valley | 9.00% | ~35,236 |
-| Industrial Age | 8.00% | ~31,374 |
-| Prick of conscience | 8.00% | ~31,374 |
-| At the last moment! | 6.00% | ~23,530 |
-| Missed it! | 6.00% | ~23,530 |
-| Overseer | 6.00% | ~23,530 |
+| Just One More Valley | 9.00% | ~35,237 |
+| Industrial Age | 8.00% | ~31,375 |
+| Prick of conscience | 8.00% | ~31,375 |
+| At the last moment! | 6.00% | ~23,531 |
+| Missed it! | 6.00% | ~23,531 |
+| Overseer | 6.00% | ~23,531 |
 | Jewelry accuracy | 5.00% | ~19,609 |
 | Bridge builder | 4.00% | ~15,687 |
 | Electrical Age | 4.00% | ~15,687 |
@@ -47,7 +47,7 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 3.00% | ~11,765 |
 | Sabotage | 3.00% | ~11,765 |
 | Squander | 3.00% | ~11,765 |
-| Test Batch | 3.00% | ~11,745 |
+| Test Batch | 3.00% | ~11,746 |
 | Astronomer | 2.00% | ~7,844 |
 | Globalisation Age | 2.00% | ~7,844 |
 | Innovator | 2.00% | ~7,844 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~392 |
 | World Zapper | 0.10% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392,175 (Ranked 41)  
+Progressed: 392,183 (Ranked 41)  
 Completed: 10 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,10 +203,10 @@ Completed: 10 (0.00%) (Ranked 273)
 | 2023-09-09 | 391,021 | 9 |
 | 2023-09-10 | 391,628 | 10 |
 | 2023-09-11 | 392,084 | 10 |
-| 2023-09-12 | 392,175 | 10 |
+| 2023-09-12 | 392,183 | 10 |
 ## Awards
 Max (Challenging Puzzles): 583  (Ranked 187)  
-Sum: 1,121 (Ranked 235)  
+Sum: 1,122 (Ranked 235)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
@@ -219,7 +219,7 @@ Diff (max vs sum): -48
 | This game is Highly Recommended | 55 |
 | This game has Challenging Combat | 43 |
 | This game has Amazing Storytelling | 41 |
-| This game has a Creative Community | 39 |
+| This game has a Creative Community | 40 |
 | This game has Amazing Characters | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -336,3 +336,4 @@ Diff (max vs sum): -48
 | 2023-09-09 | 4.42 | - | 567 | 1,093 |
 | 2023-09-10 | 4.42 | - | 573 | 1,106 |
 | 2023-09-11 | 4.42 | - | 583 | 1,121 |
+| 2023-09-12 | 4.42 | - | 583 | 1,122 |

@@ -7,16 +7,16 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~22,180 |
-| Thorough | 10.00% | ~20,163 |
+| Thorough | 10.00% | ~20,164 |
 | A thief's beginning | 9.00% | ~18,147 |
 | Disguised | 8.00% | ~16,131 |
 | Rescue Takuma | 8.00% | ~16,131 |
 | Rollin' | 8.00% | ~16,131 |
 | Tanuki Time | 8.00% | ~16,131 |
-| Ice Ice Yuki | 7.00% | ~14,114 |
-| Jonin | 7.00% | ~14,114 |
-| Stoned Ox | 7.00% | ~14,114 |
-| Yabu | 7.00% | ~14,114 |
+| Ice Ice Yuki | 7.00% | ~14,115 |
+| Jonin | 7.00% | ~14,115 |
+| Stoned Ox | 7.00% | ~14,115 |
+| Yabu | 7.00% | ~14,115 |
 | Chunin | 6.00% | ~12,098 |
 | Flying Rocks | 6.00% | ~12,098 |
 | Happy Planning | 6.00% | ~12,098 |
@@ -25,9 +25,9 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,082 |
 | Prisoners | 5.00% | ~10,082 |
 | Too Early | 5.00% | ~10,082 |
-| Gear up | 4.00% | ~8,065 |
-| Happy little accidents | 4.00% | ~8,065 |
-| Still Rollin' | 4.00% | ~8,065 |
+| Gear up | 4.00% | ~8,066 |
+| Happy little accidents | 4.00% | ~8,066 |
+| Still Rollin' | 4.00% | ~8,066 |
 | Noboru | 3.00% | ~6,049 |
 | Stoned | 3.00% | ~6,049 |
 | The Old Way | 3.00% | ~6,049 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,633 (Ranked 61)  
+Progressed: 201,638 (Ranked 61)  
 Completed: 77 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 77 (0.04%) (Ranked 241)
 | 2023-09-09 | 201,158 | 77 |
 | 2023-09-10 | 201,431 | 77 |
 | 2023-09-11 | 201,603 | 77 |
-| 2023-09-12 | 201,633 | 77 |
+| 2023-09-12 | 201,638 | 77 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
 Sum: 4,750 (Ranked 136)  

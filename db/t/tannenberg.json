@@ -3362,9 +3362,9 @@
       "Count": 274
     }
   ],
-  "EOS_Progressed": 130160,
+  "EOS_Progressed": 130161,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1041,
+  "EOS_NewPlayers": 1042,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -19497,6 +19497,11 @@
       "Time": "2023-09-12T06:06:54.57628+00:00",
       "NumProgressed": 130160,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-09-12T07:06:16.2798982+00:00",
+      "NumProgressed": 130161,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 67,
@@ -19580,7 +19585,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 106731
+      "UsersEstimate": 106732
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -19636,7 +19641,7 @@
       "Name": "Forward Observer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 67683
+      "UsersEstimate": 67684
     },
     {
       "ID": "TANNENBERG_ACH_FOR_THE_EMPEROR",
@@ -19716,7 +19721,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 115842
+      "UsersEstimate": 115843
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -19732,7 +19737,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 104128
+      "UsersEstimate": 104129
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -19804,7 +19809,7 @@
       "Name": "Night Owl",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 57270
+      "UsersEstimate": 57271
     },
     {
       "ID": "TANNENBERG_ACH_OOPS",
@@ -19868,7 +19873,7 @@
       "Name": "Rasputin",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 50762
+      "UsersEstimate": 50763
     },
     {
       "ID": "TANNENBERG_ACH_RING_RING",
@@ -19876,7 +19881,7 @@
       "Name": "Ring Ring!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 67683
+      "UsersEstimate": 67684
     },
     {
       "ID": "TANNENBERG_ACH_ROAD_TO_BERLIN",
@@ -19908,7 +19913,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 78096
+      "UsersEstimate": 78097
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -19916,7 +19921,7 @@
       "Name": "Strength in Numbers",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 57270
+      "UsersEstimate": 57271
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD",
@@ -19932,7 +19937,7 @@
       "Name": "Stronghold Denied",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 50762
+      "UsersEstimate": 50763
     },
     {
       "ID": "TANNENBERG_ACH_SWITCH_PLEASE",
@@ -19940,7 +19945,7 @@
       "Name": "Switch, Please!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 24730
+      "UsersEstimate": 24731
     },
     {
       "ID": "TANNENBERG_ACH_S_NAMI_BOG",
@@ -19980,7 +19985,7 @@
       "Name": "This is MY Machine Gun!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 41651
+      "UsersEstimate": 41652
     },
     {
       "ID": "TANNENBERG_ACH_TOGETHER_AS_ONE",
@@ -20020,7 +20025,7 @@
       "Name": "Wallhack",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 84604
+      "UsersEstimate": 84605
     },
     {
       "ID": "TANNENBERG_ACH_YOUR_FAMILY_WILL_BE_PROUD",
@@ -20043,15 +20048,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 130160,
+      "Progressed": 130161,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2023-09-10T17:58:07.4423776+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:06:54.5762793+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:06:16.2798975+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:12.3364947+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:59:10.7102228+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:06:54.5766133+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:58:43.2583917+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:06:16.2800559+00:00"
 }

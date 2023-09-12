@@ -1289,9 +1289,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127538,
+  "EOS_Progressed": 127539,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15659,6 +15659,11 @@
       "Time": "2023-09-12T06:06:23.7872097+00:00",
       "NumProgressed": 127538,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-12T07:05:50.0772101+00:00",
+      "NumProgressed": 127539,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15718,7 +15723,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11478
+      "UsersEstimate": 11479
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -15830,7 +15835,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11478
+      "UsersEstimate": 11479
     },
     {
       "ID": "ACH_GLUTEN",
@@ -15989,15 +15994,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127538,
+      "Progressed": 127539,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:06:23.7872091+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:05:50.0772092+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:57:49.7969082+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:06:23.7874322+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:57:34.5624314+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:05:50.0773241+00:00"
 }

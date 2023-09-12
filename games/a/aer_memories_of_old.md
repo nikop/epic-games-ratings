@@ -6,7 +6,7 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~15,330 |
+| Light at the end of the tunnel | 77.00% | ~15,331 |
 | Mama? | 28.00% | ~5,575 |
 | People's Haven | 18.00% | ~3,584 |
 | Cartographer | 17.00% | ~3,385 |
@@ -24,10 +24,10 @@ Number of Ratings: 170  (23.09.2022)
 | Tails of Stone | 6.00% | ~1,195 |
 | Baa from the past | 6.00% | ~1,195 |
 | Written in stone | 6.00% | ~1,195 |
-| Ripples on the surface | 5.00% | ~995 |
-| Hide and Seek | 5.00% | ~995 |
+| Ripples on the surface | 5.00% | ~996 |
+| Hide and Seek | 5.00% | ~996 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,909 (Ranked 112)  
+Progressed: 19,910 (Ranked 112)  
 Completed: 396 (1.99%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 396 (1.99%) (Ranked 97)
 | 2023-09-09 | 19,744 | 394 |
 | 2023-09-10 | 19,835 | 395 |
 | 2023-09-11 | 19,893 | 396 |
-| 2023-09-12 | 19,909 | 396 |
+| 2023-09-12 | 19,910 | 396 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

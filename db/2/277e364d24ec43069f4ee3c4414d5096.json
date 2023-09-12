@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107397,
+  "EOS_Progressed": 107398,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 925,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10571,6 +10571,11 @@
       "Time": "2023-09-12T06:08:19.221883+00:00",
       "NumProgressed": 107397,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-09-12T07:07:27.95834+00:00",
+      "NumProgressed": 107398,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 49,
@@ -10726,7 +10731,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19331
+      "UsersEstimate": 19332
     },
     {
       "ID": "EAwards_26",
@@ -10766,7 +10771,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20405
+      "UsersEstimate": 20406
     },
     {
       "ID": "EAwards_30",
@@ -10973,7 +10978,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107397,
+      "Progressed": 107398,
       "Completed": 41
     }
   ],
@@ -10981,8 +10986,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:08:19.2218824+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:07:27.9583391+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.278544+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:00:03.3335429+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:08:19.2220833+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:59:26.9588672+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:07:27.9584425+00:00"
 }

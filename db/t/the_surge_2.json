@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1997,
+  "EOS_Progressed": 1998,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2311,6 +2311,11 @@
       "Time": "2023-09-11T14:05:39.6462339+00:00",
       "NumProgressed": 1997,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-12T07:06:33.4799216+00:00",
+      "NumProgressed": 1998,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 57,
@@ -2330,7 +2335,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1319
     },
     {
       "ID": "ACHV_03",
@@ -2338,7 +2343,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACHV_04",
@@ -2354,7 +2359,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "ACHV_06",
@@ -2362,7 +2367,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHV_07",
@@ -2370,7 +2375,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACHV_08",
@@ -2458,7 +2463,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "ACHV_19",
@@ -2490,7 +2495,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHV_23",
@@ -2514,7 +2519,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHV_26",
@@ -2538,7 +2543,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACHV_29",
@@ -2586,7 +2591,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHV_35",
@@ -2610,7 +2615,7 @@
       "Name": "Luminary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHV_38",
@@ -2674,7 +2679,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACHV_46",
@@ -2682,7 +2687,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACHV_47",
@@ -2777,7 +2782,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1997,
+      "Progressed": 1998,
       "Completed": 11
     }
   ],
@@ -2785,8 +2790,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:07:14.5223554+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:06:33.4799212+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:53.7808112+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:59:49.4209166+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:07:14.5224792+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:59:14.857791+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:06:33.4799822+00:00"
 }

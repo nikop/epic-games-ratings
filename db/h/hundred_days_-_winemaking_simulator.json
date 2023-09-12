@@ -982,9 +982,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2608,
+  "EOS_Progressed": 2612,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1264,
+  "EOS_NewPlayers": 1268,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2512,6 +2512,11 @@
       "Time": "2023-09-12T06:05:24.8377182+00:00",
       "NumProgressed": 2608,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-12T07:05:00.5294731+00:00",
+      "NumProgressed": 2612,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2572,7 +2577,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "a_19",
@@ -2580,7 +2585,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "a_2",
@@ -2596,7 +2601,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "a_21",
@@ -2604,7 +2609,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "a_22",
@@ -2771,7 +2776,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2608,
+      "Progressed": 2612,
       "Completed": 4
     }
   ],
@@ -2779,8 +2784,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-11T22:59:49.0882552+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:05:24.8377174+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:05:00.5294725+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:01:15.5766076+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:05:24.8377645+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:00:25.5594768+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:05:00.5295055+00:00"
 }

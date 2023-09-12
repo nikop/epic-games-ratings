@@ -67,9 +67,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7opfcp",
       "Name": "I Challenge You To Save More Money!",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -123,9 +123,9 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "7opfcp",
       "Name": "Boys Need To Protect Themselves",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -155,9 +155,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "7opfcp",
       "Name": "I Love How Tough You Are",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -307,9 +307,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7opfcp",
       "Name": "FIRST LOVE",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -401,8 +401,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:04:56.8692392+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:04:37.1784193+00:00",
   "LastUpdate_AppInfo": "2023-09-08T16:56:54.6872936+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:00:01.2632704+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:04:56.8693001+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:59:25.2879474+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:04:37.1784524+00:00"
 }

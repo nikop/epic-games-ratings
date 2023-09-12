@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231650,
+  "EOS_Progressed": 231651,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15568,6 +15568,11 @@
       "Time": "2023-09-12T06:03:40.5180085+00:00",
       "NumProgressed": 231650,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-12T07:03:32.2198349+00:00",
+      "NumProgressed": 231651,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -15683,7 +15688,7 @@
       "Name": "HARDCORE",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "HIDDENPOWER",
@@ -15715,7 +15720,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76444
+      "UsersEstimate": 76445
     },
     {
       "ID": "NOBUNAGA",
@@ -15739,7 +15744,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20848
+      "UsersEstimate": 20849
     },
     {
       "ID": "PHOTOFINISH",
@@ -15771,7 +15776,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11582
+      "UsersEstimate": 11583
     },
     {
       "ID": "RESPWND",
@@ -15843,22 +15848,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 94976
+      "UsersEstimate": 94977
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 231650,
+      "Progressed": 231651,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:03:40.5180077+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:03:32.2198342+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:26.5254322+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:01:53.4863703+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:03:40.5182307+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:00:56.8712164+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:03:32.2199348+00:00"
 }

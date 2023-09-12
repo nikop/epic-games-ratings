@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,10 +494,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527190,
-  "EOS_Completed": 472,
-  "EOS_NewPlayers": 465,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 527191,
+  "EOS_Completed": 473,
+  "EOS_NewPlayers": 466,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
@@ -15949,6 +15949,11 @@
       "Time": "2023-09-12T05:07:00.2667247+00:00",
       "NumProgressed": 527190,
       "NumCompleted": 472
+    },
+    {
+      "Time": "2023-09-12T07:06:20.0264228+00:00",
+      "NumProgressed": 527191,
+      "NumCompleted": 473
     }
   ],
   "TotalAchievements": 57,
@@ -15976,7 +15981,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369033
+      "UsersEstimate": 369034
     },
     {
       "ID": "12",
@@ -16032,7 +16037,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79078
+      "UsersEstimate": 79079
     },
     {
       "ID": "19",
@@ -16184,7 +16189,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263595
+      "UsersEstimate": 263596
     },
     {
       "ID": "36",
@@ -16192,7 +16197,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84350
+      "UsersEstimate": 84351
     },
     {
       "ID": "37",
@@ -16336,7 +16341,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242507
+      "UsersEstimate": 242508
     },
     {
       "ID": "53",
@@ -16415,15 +16420,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527190,
-      "Completed": 472
+      "Progressed": 527191,
+      "Completed": 473
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-12T06:06:58.9190446+00:00",
+  "LastChanged_Achievements": "2023-09-12T07:06:20.0264222+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.7109557+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:01:00.2849141+00:00",
-  "LastUpdate_Achievements": "2023-09-12T06:06:58.9193204+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:00:12.0807242+00:00",
+  "LastUpdate_Achievements": "2023-09-12T07:06:20.0265643+00:00"
 }
