@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,043 |
-| That's a Grand Army | 3.00% | ~12,032 |
-| That is mine! | 3.00% | ~12,032 |
-| Victorious! | 3.00% | ~12,032 |
-| Brothers in Arms | 2.00% | ~8,022 |
-| For the Glory | 2.00% | ~8,022 |
-| That's a Grand Navy | 2.00% | ~8,022 |
-| Seriously?! | 2.00% | ~8,022 |
+| Until death do us apart | 4.00% | ~16,045 |
+| That's a Grand Army | 3.00% | ~12,034 |
+| That is mine! | 3.00% | ~12,034 |
+| Victorious! | 3.00% | ~12,034 |
+| Brothers in Arms | 2.00% | ~8,023 |
+| For the Glory | 2.00% | ~8,023 |
+| That's a Grand Navy | 2.00% | ~8,023 |
+| Seriously?! | 2.00% | ~8,023 |
 | Cold War | 1.00% | ~4,011 |
 | Defender of the Faith | 1.00% | ~4,011 |
 | It's all about the money | 1.00% | ~4,011 |
@@ -26,15 +26,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.70% | ~2,808 |
 | Royal Authority | 0.70% | ~2,808 |
 | Total Control | 0.70% | ~2,808 |
-| My armies are invincible! | 0.60% | ~2,406 |
-| Agressive Expander | 0.50% | ~2,005 |
-| City of Cities | 0.50% | ~2,005 |
-| Combined Arms | 0.50% | ~2,005 |
-| Azur semé de lis or | 0.40% | ~1,604 |
-| Factionalism | 0.40% | ~1,604 |
-| Gentle Persuasion | 0.40% | ~1,604 |
-| Queen of Conquest | 0.40% | ~1,604 |
-| This navy can take it all | 0.40% | ~1,604 |
+| My armies are invincible! | 0.60% | ~2,407 |
+| Agressive Expander | 0.50% | ~2,006 |
+| City of Cities | 0.50% | ~2,006 |
+| Combined Arms | 0.50% | ~2,006 |
+| Azur semé de lis or | 0.40% | ~1,605 |
+| Factionalism | 0.40% | ~1,605 |
+| Gentle Persuasion | 0.40% | ~1,605 |
+| Queen of Conquest | 0.40% | ~1,605 |
+| This navy can take it all | 0.40% | ~1,605 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,203 |
 | Bright Spark | 0.30% | ~1,203 |
 | Down Under | 0.30% | ~1,203 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401,079 (Ranked 40)  
+Progressed: 401,130 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -506,16 +506,16 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 397,873 | 0 |
 | 2023-09-10 | 399,390 | 0 |
 | 2023-09-11 | 400,309 | 0 |
-| 2023-09-12 | 401,079 | 0 |
+| 2023-09-12 | 401,130 | 0 |
 ## Awards
 Max (Educational): 6,051  (Ranked 56)  
-Sum: 49,777 (Ranked 26)  
+Sum: 49,786 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,051 |
 | This game is Highly Recommended | 5,788 |
-| This game has Challenging Combat | 5,730 |
+| This game has Challenging Combat | 5,739 |
 | This game is Extremely Fun | 5,728 |
 | This game has Diverse Characters | 5,717 |
 | This game is Relaxing | 5,560 |
@@ -764,4 +764,4 @@ Diff (max vs sum): 30
 | 2023-09-09 | 4.69 | - | 6,006 | 49,449 |
 | 2023-09-10 | 4.69 | - | 6,030 | 49,601 |
 | 2023-09-11 | 4.69 | - | 6,051 | 49,712 |
-| 2023-09-12 | 4.69 | - | 6,051 | 49,777 |
+| 2023-09-12 | 4.69 | - | 6,051 | 49,786 |

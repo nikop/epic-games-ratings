@@ -5,7 +5,7 @@
   "Ranking_Rating": 887,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 193,
+  "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 98,
@@ -2462,9 +2462,9 @@
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 560
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH_FineGioco",
@@ -2518,8 +2518,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:04:39.1866785+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:04:17.402437+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.2208302+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:59:08.7784301+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:04:39.186706+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:58:38.3231453+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:04:17.402455+00:00"
 }

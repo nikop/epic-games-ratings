@@ -7101,9 +7101,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60878,
+  "EOS_Progressed": 60880,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22461,6 +22461,11 @@
       "Time": "2023-09-12T19:06:45.7753258+00:00",
       "NumProgressed": 60878,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T20:06:05.7242218+00:00",
+      "NumProgressed": 60880,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22472,7 +22477,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7305
+      "UsersEstimate": 7306
     },
     {
       "ID": "Apple of my eye",
@@ -22640,7 +22645,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9740
+      "UsersEstimate": 9741
     },
     {
       "ID": "I spit on your grave",
@@ -22664,7 +22669,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10349
+      "UsersEstimate": 10350
     },
     {
       "ID": "Kingslayer",
@@ -22680,7 +22685,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4261
+      "UsersEstimate": 4262
     },
     {
       "ID": "Lance-a-lot",
@@ -22696,7 +22701,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19481
+      "UsersEstimate": 19482
     },
     {
       "ID": "Lawbringer",
@@ -22704,7 +22709,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23742
+      "UsersEstimate": 23743
     },
     {
       "ID": "Lawmaker",
@@ -22728,7 +22733,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4261
+      "UsersEstimate": 4262
     },
     {
       "ID": "Minor Clan",
@@ -22879,15 +22884,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60878,
+      "Progressed": 60880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-12T17:58:43.4461922+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:06:45.7753254+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:06:05.7242206+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:59:10.0003806+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:06:45.7754875+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:58:39.9077053+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:06:05.7243262+00:00"
 }

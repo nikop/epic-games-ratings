@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -712,9 +712,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5767,
+  "EOS_Progressed": 5768,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7337,6 +7337,11 @@
       "Time": "2023-09-12T19:06:03.3142122+00:00",
       "NumProgressed": 5767,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T20:05:29.2535456+00:00",
+      "NumProgressed": 5768,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7348,7 +7353,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4556
+      "UsersEstimate": 4557
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7364,7 +7369,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 3979
+      "UsersEstimate": 3980
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -7380,7 +7385,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7396,7 +7401,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -7420,7 +7425,7 @@
       "Name": "License to Gill",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -7460,7 +7465,7 @@
       "Name": "Going for Gold",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -7627,13 +7632,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5767,
+      "Progressed": 5768,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5139,
+      "Progressed": 5140,
       "Completed": 112
     }
   ],
@@ -7641,8 +7646,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-11T11:58:23.8427352+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:06:03.3142117+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:05:29.2535451+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:41.605376+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:59:28.9886834+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:06:03.3142962+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:58:56.8107943+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:05:29.2536068+00:00"
 }

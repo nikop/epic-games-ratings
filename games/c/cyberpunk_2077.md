@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,364 |
-| Right Back At Ya | 39.00% | ~341,597 |
-| The Lovers | 35.00% | ~306,562 |
-| Stanislavski's Method | 29.00% | ~254,008 |
-| The Wheel of Fortune | 28.00% | ~245,249 |
-| The Hermit | 25.00% | ~218,972 |
-| Christmas Tree Attack | 23.00% | ~201,455 |
-| True Soldier | 23.00% | ~201,455 |
-| The High Priestess | 22.00% | ~192,696 |
-| Legend of The Afterlife | 22.00% | ~192,696 |
-| Life of the Road | 21.00% | ~183,937 |
-| Full Body Conversion | 18.00% | ~157,660 |
-| The World | 18.00% | ~157,660 |
-| Bushido and Chill | 17.00% | ~148,901 |
+| The Fool | 69.00% | ~604,367 |
+| Right Back At Ya | 39.00% | ~341,599 |
+| The Lovers | 35.00% | ~306,563 |
+| Stanislavski's Method | 29.00% | ~254,009 |
+| The Wheel of Fortune | 28.00% | ~245,250 |
+| The Hermit | 25.00% | ~218,974 |
+| Christmas Tree Attack | 23.00% | ~201,456 |
+| True Soldier | 23.00% | ~201,456 |
+| The High Priestess | 22.00% | ~192,697 |
+| Legend of The Afterlife | 22.00% | ~192,697 |
+| Life of the Road | 21.00% | ~183,938 |
+| Full Body Conversion | 18.00% | ~157,661 |
+| The World | 18.00% | ~157,661 |
+| Bushido and Chill | 17.00% | ~148,902 |
 | Gun Fu | 15.00% | ~131,384 |
 | True Warrior | 15.00% | ~131,384 |
 | To Protect and Serve | 14.00% | ~122,625 |
@@ -30,10 +30,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 10.00% | ~87,589 |
 | The Quick and the Dead | 10.00% | ~87,589 |
 | Ten out of Ten | 9.00% | ~78,830 |
-| Breathtaking | 8.00% | ~70,071 |
-| To Bad Decisions! | 7.00% | ~61,312 |
-| The Star | 7.00% | ~61,312 |
-| The Sun | 7.00% | ~61,312 |
+| Breathtaking | 8.00% | ~70,072 |
+| To Bad Decisions! | 7.00% | ~61,313 |
+| The Star | 7.00% | ~61,313 |
+| The Sun | 7.00% | ~61,313 |
 | Must Be Rats | 4.00% | ~35,036 |
 | Temperance | 4.00% | ~35,036 |
 | City Lights | 3.00% | ~26,277 |
@@ -51,8 +51,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,759 |
 | Rough Landing | 0.50% | ~4,379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,890 (Ranked 14)  
-Completed: 2,081 (0.24%) (Ranked 189)  
+Progressed: 875,894 (Ranked 14)  
+Completed: 2,082 (0.24%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,21 +196,21 @@ Completed: 2,081 (0.24%) (Ranked 189)
 | 2023-09-09 | 875,450 | 2,075 |
 | 2023-09-10 | 875,656 | 2,075 |
 | 2023-09-11 | 875,775 | 2,079 |
-| 2023-09-12 | 875,890 | 2,081 |
+| 2023-09-12 | 875,894 | 2,082 |
 ## Awards
 Max (Character Customization): 78,334  (Ranked 9)  
-Sum: 209,131 (Ranked 13)  
+Sum: 209,186 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 78,334 |
 | This game has Great Boss Battles | 50,958 |
-| This game is Great for Beginners | 9,474 |
+| This game is Great for Beginners | 9,498 |
 | This game has Diverse Characters | 9,436 |
 | This game has Amazing Storytelling | 9,375 |
 | This game is Highly Recommended | 9,243 |
 | This game is Extremely Fun | 9,221 |
-| This game is Relaxing | 9,105 |
+| This game is Relaxing | 9,136 |
 | This game has Amazing Characters | 9,064 |
 | This game has Quickly Understood Controls | 9,022 |
 | This game has a Creative Community | 5,899 |
@@ -453,4 +453,4 @@ Diff (max vs sum): -4
 | 2023-09-09 | 4.62 | - | 77,946 | 207,885 |
 | 2023-09-10 | 4.62 | - | 78,099 | 208,441 |
 | 2023-09-11 | 4.62 | - | 78,214 | 208,870 |
-| 2023-09-12 | 4.62 | - | 78,334 | 209,131 |
+| 2023-09-12 | 4.62 | - | 78,334 | 209,186 |

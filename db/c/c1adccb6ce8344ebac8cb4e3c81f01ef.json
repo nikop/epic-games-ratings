@@ -4,7 +4,7 @@
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 479,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.09,
   "EosHistory": [
@@ -1561,6 +1561,11 @@
       "Time": "2023-09-12T13:11:22.5207251+00:00",
       "NumProgressed": 478,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-12T20:07:52.856305+00:00",
+      "NumProgressed": 479,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -1595,9 +1600,9 @@
       "ID": "OrangeSkeleton",
       "SetID": "a76l54k",
       "Name": "Orange Skeleton",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 210
+      "UsersEstimate": 206
     },
     {
       "ID": "RedSkeleton",
@@ -1613,21 +1618,21 @@
       "Name": "Yellow Skeleton",
       "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:08:51.5742107+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:07:52.8563043+00:00",
   "LastUpdate_AppInfo": "2023-09-07T18:57:15.8746375+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:00:52.7374612+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:08:51.5742425+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:00:06.5420941+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:07:52.8563264+00:00"
 }

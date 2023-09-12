@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1623,17 +1623,17 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 106
     },
     {
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "BearBroom",
@@ -1935,9 +1935,9 @@
       "ID": "SleepingBasiliskPistol",
       "SetID": "db30heh",
       "Name": "Knockout",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
@@ -1982,8 +1982,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:03:35.2016154+00:00",
-  "LastUpdate_AppInfo": "2023-09-05T19:56:53.7997081+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:00:18.7119066+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:03:35.2016678+00:00"
+  "LastChanged_Achievements": "2023-09-12T20:03:29.3902907+00:00",
+  "LastUpdate_AppInfo": "2023-09-12T19:57:02.7482374+00:00",
+  "LastUpdate_Ratings": "2023-09-12T19:59:37.5026387+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:03:29.390332+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467210,
+  "EOS_Progressed": 467212,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15853,6 +15853,11 @@
       "Time": "2023-09-12T19:07:43.9213877+00:00",
       "NumProgressed": 467210,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-12T20:06:55.577187+00:00",
+      "NumProgressed": 467212,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15880,7 +15885,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112130
+      "UsersEstimate": 112131
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -15888,7 +15893,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102786
+      "UsersEstimate": 102787
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -15952,7 +15957,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308359
+      "UsersEstimate": 308360
     },
     {
       "ID": "achievement_story_landa",
@@ -15960,7 +15965,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23360
+      "UsersEstimate": 23361
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -15968,7 +15973,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23360
+      "UsersEstimate": 23361
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -15984,7 +15989,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116802
+      "UsersEstimate": 116803
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -16048,7 +16053,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154179
+      "UsersEstimate": 154180
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -16064,7 +16069,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23360
+      "UsersEstimate": 23361
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -16288,7 +16293,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205572
+      "UsersEstimate": 205573
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -16296,7 +16301,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140163
+      "UsersEstimate": 140164
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -16320,7 +16325,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182212
+      "UsersEstimate": 182213
     },
     {
       "ID": "achievement_win_run_hard",
@@ -16344,7 +16349,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23360
+      "UsersEstimate": 23361
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -16376,7 +16381,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102786
+      "UsersEstimate": 102787
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -16495,21 +16500,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11144,
+      "Progressed": 11146,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467210,
+      "Progressed": 467212,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:07:43.9213869+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:06:55.577186+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.6494953+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:57:35.9787833+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:07:43.921595+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:57:22.7773056+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:06:55.5773269+00:00"
 }

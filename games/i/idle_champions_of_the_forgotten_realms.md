@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~457 |
 | Vecna Lives! | 0.20% | ~390 |
 | Vecna Loots! | 0.20% | ~390 |
+| Return to the Tomb | 0.20% | ~390 |
 | Beast Mode | 0.20% | ~457 |
 | Terror in the Dark | 0.20% | ~457 |
 | Low Initiative | 0.20% | ~457 |
@@ -137,7 +138,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Well Equipped | 0.10% | ~195 |
 | Friends of the Forest | 0.10% | ~229 |
 | More Than Well Equipped | 0.10% | ~195 |
-| Return to the Tomb | 0.10% | ~195 |
 | Arcane Efforts | 0.10% | ~195 |
 | Keep Your Distance | 0.10% | ~195 |
 | Heatwave | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,540 (Ranked 54)  
+Progressed: 228,546 (Ranked 54)  
 Completed: 2,273 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,7 +672,7 @@ Completed: 2,273 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
-| 2023-09-12 | 228,540 | 2,273 |
+| 2023-09-12 | 228,546 | 2,273 |
 ## Awards
 Max (Diverse Characters): 5,266  (Ranked 67)  
 Sum: 31,551 (Ranked 39)  

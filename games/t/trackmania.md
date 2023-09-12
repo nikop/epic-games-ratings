@@ -4,22 +4,22 @@
 Rating: 4.67 (Ranked 259)  
 Number of Ratings: 6,825  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 3,293  (Ranked 92)  
-Sum: 27,639 (Ranked 47)  
+Max (Great for Quick Sessions): 3,300  (Ranked 92)  
+Sum: 27,660 (Ranked 47)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 3,293 |
+| This game is Great for Quick Sessions | 3,300 |
 | This game is Great for Beginners | 3,290 |
 | This game has Competitive Players | 2,931 |
-| This game has Quickly Understood Controls | 2,895 |
-| This game is Relaxing | 2,854 |
+| This game has Quickly Understood Controls | 2,902 |
+| This game is Relaxing | 2,860 |
 | This game is Extremely Fun | 2,714 |
 | This game is Highly Recommended | 2,562 |
 | This game has a Competitive Community | 2,268 |
 | This game has Amazing Storytelling | 1,712 |
 | This game has Challenging Combat | 1,706 |
-| This game has Amazing Characters | 1,414 |
+| This game has Amazing Characters | 1,415 |
 | This game has Obsessive Gameplay | 1,144 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -256,4 +256,4 @@ Diff (max vs sum): 45
 | 2023-09-09 | 4.67 | - | 3,278 | 27,507 |
 | 2023-09-10 | 4.67 | - | 3,287 | 27,560 |
 | 2023-09-11 | 4.67 | - | 3,293 | 27,612 |
-| 2023-09-12 | 4.67 | - | 3,293 | 27,639 |
+| 2023-09-12 | 4.67 | - | 3,300 | 27,660 |

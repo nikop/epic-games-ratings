@@ -3,7 +3,7 @@
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 224,
-  "Ranking_EOS_Completed": 17,
+  "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 690,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 14.8,
+  "EOS_Completed_Percentage": 14.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2808,6 +2808,11 @@
       "Time": "2023-09-12T09:05:17.16385+00:00",
       "NumProgressed": 689,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-12T20:06:03.8667621+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 22,
@@ -2819,7 +2824,7 @@
       "Name": "Welcome!",
       "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "LEVEL_002",
@@ -2859,7 +2864,7 @@
       "Name": "Found an oasis",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "LEVEL_007",
@@ -2899,7 +2904,7 @@
       "Name": "At the heart of the city",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "LEVEL_012",
@@ -2963,7 +2968,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_020",
@@ -2971,7 +2976,7 @@
       "Name": "City of dreams",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_021",
@@ -2979,22 +2984,22 @@
       "Name": "Happy Christmas night!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 690,
       "Completed": 102
     }
   ],
@@ -3002,8 +3007,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:06:43.7887017+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:06:03.8667616+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:02:17.5440644+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:06:43.7887394+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:01:13.6102314+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:06:03.8667873+00:00"
 }

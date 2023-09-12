@@ -6592,10 +6592,10 @@
       "Count": 3413
     }
   ],
-  "EOS_Progressed": 228540,
+  "EOS_Progressed": 228546,
   "EOS_Completed": 2273,
-  "EOS_NewPlayers": 1219,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 1212,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
@@ -22662,6 +22662,11 @@
       "Time": "2023-09-12T19:05:13.0148098+00:00",
       "NumProgressed": 228540,
       "NumCompleted": 2273
+    },
+    {
+      "Time": "2023-09-12T20:04:46.4696794+00:00",
+      "NumProgressed": 228546,
+      "NumCompleted": 2273
     }
   ],
   "TotalAchievements": 520,
@@ -23407,9 +23412,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 390
     },
     {
       "ID": "objective_completed_1174",
@@ -26832,21 +26837,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194814,
+      "Progressed": 194820,
       "Completed": 3421
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228540,
+      "Progressed": 228546,
       "Completed": 2273
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-12T17:01:29.1773081+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:05:13.0148091+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:04:46.4696789+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:02:21.42346+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:05:13.0183046+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:01:16.189073+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:04:46.4720767+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1998,
+  "EOS_Progressed": 1999,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2316,6 +2316,11 @@
       "Time": "2023-09-12T07:06:33.4799216+00:00",
       "NumProgressed": 1998,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-12T20:07:08.8697176+00:00",
+      "NumProgressed": 1999,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 57,
@@ -2351,7 +2356,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHV_05",
@@ -2503,7 +2508,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ACHV_24",
@@ -2527,7 +2532,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "ACHV_27",
@@ -2535,7 +2540,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHV_28",
@@ -2559,7 +2564,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACHV_31",
@@ -2599,7 +2604,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACHV_36",
@@ -2631,7 +2636,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "ACHV_40",
@@ -2647,7 +2652,7 @@
       "Name": "Suited and Booted",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHV_42",
@@ -2782,7 +2787,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1998,
+      "Progressed": 1999,
       "Completed": 11
     }
   ],
@@ -2790,8 +2795,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:07:59.7055528+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:07:08.8697169+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:53.7808112+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:00:31.9663349+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:07:59.7056242+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:59:49.4090639+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:07:08.8697682+00:00"
 }

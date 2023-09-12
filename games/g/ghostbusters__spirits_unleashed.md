@@ -1,12 +1,14 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 564)  
+Rating: 4.50 (Ranked 563)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Advancement | 0.10% | ~26 |
 | Animated | 0.10% | ~26 |
+| We have the best insurance | 0.10% | ~26 |
+| I collect Spores, Molds, and Fungi | 0.10% | ~26 |
 | Cultured | 0.10% | ~26 |
 | Daily Dose | 0.10% | ~26 |
 | Discovery | 0.10% | ~26 |
@@ -20,16 +22,17 @@ Rating: 4.50 (Ranked 564)
 | Side Hustle | 0.10% | ~26 |
 | Skilled | 0.10% | ~26 |
 | Solo Capture | 0.10% | ~26 |
+| Stunner | 0.10% | ~26 |
 | Teamwork | 0.10% | ~26 |
 | Terrifying | 0.10% | ~26 |
+| Therapeutic | 0.10% | ~26 |
+| There you are! | 0.10% | ~26 |
 | Vaporous Expansion | 0.10% | ~26 |
 | Welcome to the Crew | 0.10% | ~26 |
 | Whoopsie | 0.10% | ~26 |
 | Back Off | 0.00% | ~0 |
-| We have the best insurance | 0.00% | ~0 |
 | Catostrophic Destroyer | 0.00% | ~0 |
 | Clutch Capture | 0.00% | ~0 |
-| I collect Spores, Molds, and Fungi | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
 | Diabolical | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
@@ -47,13 +50,10 @@ Rating: 4.50 (Ranked 564)
 | Right back at ya | 0.00% | ~0 |
 | Rivalry | 0.00% | ~0 |
 | Seasoned | 0.00% | ~0 |
-| Stunner | 0.00% | ~0 |
 | Stylish | 0.00% | ~0 |
 | Summoner | 0.00% | ~0 |
 | Surprise! | 0.00% | ~0 |
 | Swift Rift Removers | 0.00% | ~0 |
-| Therapeutic | 0.00% | ~0 |
-| There you are! | 0.00% | ~0 |
 | Tobin's Prodigy | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
@@ -204,13 +204,13 @@ Completed: 55 (0.21%) (Ranked 196)
 | 2023-09-11 | 25,755 | 55 |
 | 2023-09-12 | 25,765 | 55 |
 ## Awards
-Max (Great for Quick Sessions): 253  (Ranked 255)  
-Sum: 2,304 (Ranked 188)  
-Diff (max vs sum): 67  
+Max (Great for Quick Sessions): 254  (Ranked 253)  
+Sum: 2,306 (Ranked 188)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 253 |
-| This game is Great for Beginners | 250 |
+| This game is Great for Quick Sessions | 254 |
+| This game is Great for Beginners | 251 |
 | This game has Competitive Players | 236 |
 | This game has Amazing Storytelling | 232 |
 | This game has Diverse Characters | 229 |
@@ -380,4 +380,4 @@ Diff (max vs sum): 67
 | 2023-09-09 | 4.49 | 251 | 2,288 |
 | 2023-09-10 | 4.50 | 253 | 2,298 |
 | 2023-09-11 | 4.50 | 253 | 2,302 |
-| 2023-09-12 | 4.50 | 253 | 2,304 |
+| 2023-09-12 | 4.50 | 254 | 2,306 |

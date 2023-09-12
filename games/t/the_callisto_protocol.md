@@ -11,13 +11,13 @@ Rating: 4.19 (Ranked 872)
 | Two Heads Are Better Than One | 4.00% | ~637 |
 | Chew 'Em Up | 4.00% | ~637 |
 | Float Like A Butterfly | 4.00% | ~637 |
+| Reforged | 4.00% | ~637 |
 | Keep Fighting | 4.00% | ~154 |
 | Giving Back | 3.00% | ~478 |
 | You Need a Gun | 3.00% | ~478 |
 | I Do Belong Here | 3.00% | ~478 |
 | Terminated | 3.00% | ~478 |
 | Workplace Hazard | 3.00% | ~478 |
-| Reforged | 3.00% | ~478 |
 | The Outer Way | 3.00% | ~478 |
 | If the SHU Fits... | 3.00% | ~478 |
 | Without A Paddle | 3.00% | ~478 |

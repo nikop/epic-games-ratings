@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24047,
+  "EOS_Progressed": 24048,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4822,6 +4822,11 @@
       "Time": "2023-09-12T17:05:13.879991+00:00",
       "NumProgressed": 24047,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-12T20:05:19.3835371+00:00",
+      "NumProgressed": 24048,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4849,7 +4854,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18516
+      "UsersEstimate": 18517
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4857,7 +4862,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10340
+      "UsersEstimate": 10341
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4905,7 +4910,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4809
+      "UsersEstimate": 4810
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -4937,7 +4942,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19959
+      "UsersEstimate": 19960
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4977,7 +4982,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -4985,7 +4990,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -5009,7 +5014,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4809
+      "UsersEstimate": 4810
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -5017,7 +5022,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17554
+      "UsersEstimate": 17555
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -5081,29 +5086,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24047,
+      "Progressed": 24048,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1340,
-      "Completed": 1340
+      "Progressed": 1341,
+      "Completed": 1341
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-02T06:57:56.883903+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:05:52.8082946+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:05:19.3835365+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:11.7104478+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:02:25.1407711+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:05:52.8083537+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:01:19.0660066+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:05:19.3835793+00:00"
 }

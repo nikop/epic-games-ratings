@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -3670,9 +3670,9 @@
       "ID": "glitter_of_gold_1",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 1",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 52
     },
     {
       "ID": "glitter_of_gold_2",
@@ -3965,8 +3965,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:07:05.8549009+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:06:22.6783021+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:09.1292976+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:00:57.0793451+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:07:05.8549862+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:00:09.2771019+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:06:22.6783667+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37176,
+  "EOS_Progressed": 37177,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15517,6 +15517,11 @@
       "Time": "2023-09-12T19:06:30.9381265+00:00",
       "NumProgressed": 37176,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-12T20:05:53.0358288+00:00",
+      "NumProgressed": 37177,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -15648,7 +15653,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 13383
+      "UsersEstimate": 13384
     },
     {
       "ID": "ach_die10",
@@ -15896,7 +15901,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "ach_undercurrent",
@@ -15959,15 +15964,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37176,
+      "Progressed": 37177,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:06:30.938126+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:05:53.0358282+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.2839059+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:59:06.3249977+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:06:30.9383026+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:58:36.1007073+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:05:53.0359365+00:00"
 }

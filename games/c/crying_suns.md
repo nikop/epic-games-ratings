@@ -1,20 +1,20 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 564)  
+Rating: 4.50 (Ranked 563)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,359 |
-| Jeef Skeejj | 44.00% | ~205,572 |
-| Careful planning | 39.00% | ~182,212 |
-| Second Coming | 33.00% | ~154,179 |
-| Jeef Skagg | 30.00% | ~140,163 |
-| Mother | 25.00% | ~116,802 |
-| In space, no one can hear you scream | 24.00% | ~112,130 |
-| Chapter I: Echoes | 22.00% | ~102,786 |
-| Excelsior Rule | 22.00% | ~102,786 |
+| The Shutdown | 66.00% | ~308,360 |
+| Jeef Skeejj | 44.00% | ~205,573 |
+| Careful planning | 39.00% | ~182,213 |
+| Second Coming | 33.00% | ~154,180 |
+| Jeef Skagg | 30.00% | ~140,164 |
+| Mother | 25.00% | ~116,803 |
+| In space, no one can hear you scream | 24.00% | ~112,131 |
+| Chapter I: Echoes | 22.00% | ~102,787 |
+| Excelsior Rule | 22.00% | ~102,787 |
 | Things persisted in not being what they seemed | 20.00% | ~93,442 |
 | Knightmare Frames | 15.00% | ~70,082 |
 | May His passing cleanse the world | 15.00% | ~70,082 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,033 |
 | The Crazy Repairman | 6.00% | ~28,033 |
 | The Weasel | 6.00% | ~28,033 |
-| Kill the Doctor | 5.00% | ~23,360 |
-| Forsaken | 5.00% | ~23,360 |
-| Mercy | 5.00% | ~23,360 |
-| Jericho Rule | 5.00% | ~23,360 |
+| Kill the Doctor | 5.00% | ~23,361 |
+| Forsaken | 5.00% | ~23,361 |
+| Mercy | 5.00% | ~23,361 |
+| Jericho Rule | 5.00% | ~23,361 |
 | Geno Rule | 3.00% | ~14,016 |
 | Hammer Rule | 3.00% | ~14,016 |
 | Survivor | 2.00% | ~9,344 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,210 (Ranked 37)  
+Progressed: 467,212 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 18 (0.00%) (Ranked 273)
 | 2023-09-09 | 467,041 | 18 |
 | 2023-09-10 | 467,116 | 18 |
 | 2023-09-11 | 467,166 | 18 |
-| 2023-09-12 | 467,210 | 18 |
+| 2023-09-12 | 467,212 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 361)  

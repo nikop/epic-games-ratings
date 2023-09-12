@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 564,
-  "Ranking_Popularity": 255,
+  "Ranking_Rating": 563,
+  "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2020,18 +2020,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2304,
       "NumberOfAwardsMax": 253
+    },
+    {
+      "Time": "2023-09-12T19:57:41.0393425+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2306,
+      "NumberOfAwardsMax": 254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2304,
-  "NumberOfAwardsMax": 253,
+  "NumberOfAwards": 2306,
+  "NumberOfAwardsMax": 254,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 250
+      "Count": 251
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2049,7 +2055,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 253
+      "Count": 254
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2102,7 +2108,7 @@
   ],
   "EOS_Progressed": 25765,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12718,9 +12724,9 @@
       "ID": "Best_Insurance",
       "SetID": "819popo",
       "Name": "We have the best insurance",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -12742,9 +12748,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Collector",
@@ -12990,9 +12996,9 @@
       "ID": "Stunner",
       "SetID": "819popo",
       "Name": "Stunner",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Stylish",
@@ -13046,17 +13052,17 @@
       "ID": "Therapeutic",
       "SetID": "819popo",
       "Name": "Therapeutic",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "There_You_Are",
       "SetID": "819popo",
       "Name": "There you are!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Tobins_Prodigy",
@@ -13110,9 +13116,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-12T13:02:19.8958033+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:03:04.9033421+00:00",
+  "LastChanged": "2023-09-12T19:57:41.0393423+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:02:23.7030927+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:58:00.8048474+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:03:04.9064195+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:57:41.0393428+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:02:23.7032436+00:00"
 }

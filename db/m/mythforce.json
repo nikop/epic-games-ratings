@@ -5,9 +5,9 @@
   "Ranking_Rating": 582,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 354,
-  "Ranking_EOS_Progress": 194,
+  "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -599,9 +599,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1428,
+  "EOS_Progressed": 1445,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4099,6 +4099,11 @@
       "Time": "2023-09-12T19:07:49.5388539+00:00",
       "NumProgressed": 1428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T20:07:00.2682754+00:00",
+      "NumProgressed": 1445,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4191,7 +4196,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -4255,7 +4260,7 @@
       "Name": "Season Finale",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -4294,15 +4299,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1428,
+      "Progressed": 1445,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-12T18:57:38.5935577+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:07:49.5388533+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:07:00.2682746+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:57:38.5935583+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:07:49.5389142+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:57:25.0007685+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:07:00.2683041+00:00"
 }

@@ -22,16 +22,17 @@ Rating: 3.52 (Ranked 986)
 | Neighborhood Revitalization | 0.30% | ~5 |
 | Radio Silence | 0.30% | ~5 |
 | Catch and Release | 0.30% | ~5 |
+| From the Shadows | 0.30% | ~5 |
 | Right This Way | 0.30% | ~5 |
 | Contingency Plans | 0.20% | ~3 |
 | Bad Wiring | 0.20% | ~3 |
 | Sic Transit Umbra | 0.20% | ~3 |
 | Silence Is Golden | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
-| From the Shadows | 0.20% | ~3 |
 | Sisterhood | 0.20% | ~3 |
 | Skin of Their Teeth | 0.20% | ~3 |
 | Harvest’s End | 0.20% | ~3 |
+| Helping Hand | 0.20% | ~3 |
 | I Spit On Your Grave | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
@@ -51,7 +52,6 @@ Rating: 3.52 (Ranked 986)
 | Enemy of My Enemy | 0.10% | ~2 |
 | Dexterity Save | 0.10% | ~2 |
 | Bob’s Final Hour | 0.10% | ~2 |
-| Helping Hand | 0.10% | ~2 |
 | Good Samaritan | 0.10% | ~2 |
 | Curious Finch | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |

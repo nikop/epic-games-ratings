@@ -2,12 +2,12 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 547,
+  "Ranking_Rating": 548,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231682,
+  "EOS_Progressed": 231683,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15623,6 +15623,11 @@
       "Time": "2023-09-12T19:04:16.1412148+00:00",
       "NumProgressed": 231682,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-12T20:03:47.5882158+00:00",
+      "NumProgressed": 231683,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -15722,7 +15727,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46336
+      "UsersEstimate": 46337
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -15905,15 +15910,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 231682,
+      "Progressed": 231683,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:04:16.1412143+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:03:47.5882151+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:26.5254322+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:02:40.7518041+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:04:16.1413766+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:01:32.8292183+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:03:47.5883041+00:00"
 }

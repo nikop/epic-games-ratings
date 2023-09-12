@@ -870,9 +870,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223517,
+  "EOS_Progressed": 223536,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2009,
+  "EOS_NewPlayers": 2015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10595,6 +10595,11 @@
       "Time": "2023-09-12T19:09:07.5961352+00:00",
       "NumProgressed": 223517,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-12T20:08:06.3439552+00:00",
+      "NumProgressed": 223536,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10638,7 +10643,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "BookCollection",
@@ -10662,7 +10667,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "Chapter3",
@@ -10670,7 +10675,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "Chapter4",
@@ -10748,9 +10753,9 @@
       "ID": "CompanionPaladine",
       "SetID": "50chcgj",
       "Name": "Res Judicata",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 2012
     },
     {
       "ID": "CompanionPriestress",
@@ -11054,7 +11059,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64820
+      "UsersEstimate": 64825
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11070,7 +11075,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "EndCombatOneHp",
@@ -11078,7 +11083,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "EndGameCursed",
@@ -11254,7 +11259,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     },
     {
       "ID": "SupportCount4",
@@ -11302,28 +11307,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4471
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223517,
+      "Progressed": 223536,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223517,
+      "Progressed": 223536,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-12T16:02:06.1058128+00:00",
-  "LastChanged_Achievements": "2023-09-12T19:09:07.5961346+00:00",
+  "LastChanged_Achievements": "2023-09-12T20:08:06.3439547+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:02:49.1996965+00:00",
-  "LastUpdate_Achievements": "2023-09-12T19:09:07.5963355+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:02:09.9273095+00:00",
+  "LastUpdate_Achievements": "2023-09-12T20:08:06.3440797+00:00"
 }
