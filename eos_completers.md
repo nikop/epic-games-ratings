@@ -25,7 +25,7 @@
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
-| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.87% |
+| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
@@ -102,7 +102,7 @@
 | 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
 | 101 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
-| 103 | [Eternights](games/e/eternights.md) | 1.79% |
+| 103 | [Eternights](games/e/eternights.md) | 1.72% |
 | 104 | [Five Dates](games/f/five_dates.md) | 1.67% |
 | 105 | [Somerville](games/s/somerville.md) | 1.65% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
@@ -152,8 +152,8 @@
 | 150 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 151 | [Aragami 2](games/a/aragami_2.md) | 0.54% |
 | 151 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
-| 153 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
-| 154 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
+| 153 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |
+| 153 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 155 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.51% |
 | 156 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
 | 157 | [Them and Us](games/t/them_and_us.md) | 0.47% |
