@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3710,9 +3710,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11235,
+  "EOS_Progressed": 11237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12165,6 +12165,11 @@
       "Time": "2023-09-12T00:05:26.2711522+00:00",
       "NumProgressed": 11235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T06:06:36.8679449+00:00",
+      "NumProgressed": 11237,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12176,7 +12181,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "02_BurningCity",
@@ -13103,21 +13108,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10017,
+      "Progressed": 10019,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11235,
+      "Progressed": 11237,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-12T01:40:39.8162351+00:00",
-  "LastChanged_Achievements": "2023-09-12T05:06:39.842519+00:00",
+  "LastChanged_Achievements": "2023-09-12T06:06:36.8679443+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:01:37.2544227+00:00",
-  "LastUpdate_Achievements": "2023-09-12T05:06:39.842688+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:01:57.6797156+00:00",
+  "LastUpdate_Achievements": "2023-09-12T06:06:36.8683464+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6568,9 +6568,9 @@
       "Count": 3411
     }
   ],
-  "EOS_Progressed": 228475,
+  "EOS_Progressed": 228476,
   "EOS_Completed": 2270,
-  "EOS_NewPlayers": 1322,
+  "EOS_NewPlayers": 1313,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22568,6 +22568,11 @@
       "Time": "2023-09-12T05:04:38.9261636+00:00",
       "NumProgressed": 228475,
       "NumCompleted": 2270
+    },
+    {
+      "Time": "2023-09-12T06:04:27.4923286+00:00",
+      "NumProgressed": 228476,
+      "NumCompleted": 2270
     }
   ],
   "TotalAchievements": 520,
@@ -22651,7 +22656,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "objective_completed_1051",
@@ -26707,7 +26712,7 @@
       "Name": "Legends and Lore",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "objective_completed_1366",
@@ -26723,7 +26728,7 @@
       "Name": "The End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "objective_completed_1371",
@@ -26738,21 +26743,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194749,
+      "Progressed": 194750,
       "Completed": 3420
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228475,
+      "Progressed": 228476,
       "Completed": 2270
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-12T04:00:12.5132436+00:00",
-  "LastChanged_Achievements": "2023-09-12T05:04:38.9261631+00:00",
+  "LastChanged_Achievements": "2023-09-12T06:04:27.4923279+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:01:15.067875+00:00",
-  "LastUpdate_Achievements": "2023-09-12T05:04:38.9286551+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:01:34.5156036+00:00",
+  "LastUpdate_Achievements": "2023-09-12T06:04:27.4968956+00:00"
 }

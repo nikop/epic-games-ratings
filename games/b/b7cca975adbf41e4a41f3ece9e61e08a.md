@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 75.00% | ~3 |
-| Are You Alright? | 75.00% | ~3 |
-| I Challenge You To Save More Money! | 50.00% | ~2 |
-| A Slap In The Face! | 50.00% | ~2 |
-| I Love How Tough You Are | 50.00% | ~2 |
-| Hurrah! | 50.00% | ~2 |
-| Love Actually | 50.00% | ~2 |
-| Wanna Come To My Place For Dinner? | 50.00% | ~2 |
-| What I Want Is You | 50.00% | ~2 |
-| To Be Or Not To Be | 50.00% | ~2 |
-| FIRST LOVE | 50.00% | ~2 |
-| You're Really Something Else | 50.00% | ~2 |
-| Doesn't Matter I'll Handle It | 25.00% | ~1 |
-| Life Is A Rollercoaster | 25.00% | ~1 |
-| Lover In Dark Alley | 25.00% | ~1 |
-| Boys Need To Protect Themselves | 25.00% | ~1 |
-| Days Of Innocence | 25.00% | ~1 |
-| Love You Three Thousand | 25.00% | ~1 |
-| The Flash | 25.00% | ~1 |
-| ONE PUNCH | 25.00% | ~1 |
-| Go Clean up In Your Own Way | 25.00% | ~1 |
+| Last Night...Did We... | 60.00% | ~3 |
+| Are You Alright? | 60.00% | ~3 |
+| I Challenge You To Save More Money! | 40.00% | ~2 |
+| A Slap In The Face! | 40.00% | ~2 |
+| I Love How Tough You Are | 40.00% | ~2 |
+| Hurrah! | 40.00% | ~2 |
+| Love Actually | 40.00% | ~2 |
+| Wanna Come To My Place For Dinner? | 40.00% | ~2 |
+| What I Want Is You | 40.00% | ~2 |
+| To Be Or Not To Be | 40.00% | ~2 |
+| FIRST LOVE | 40.00% | ~2 |
+| You're Really Something Else | 40.00% | ~2 |
+| Doesn't Matter I'll Handle It | 20.00% | ~1 |
+| Life Is A Rollercoaster | 20.00% | ~1 |
+| Lover In Dark Alley | 20.00% | ~1 |
+| Boys Need To Protect Themselves | 20.00% | ~1 |
+| Days Of Innocence | 20.00% | ~1 |
+| Love You Three Thousand | 20.00% | ~1 |
+| The Flash | 20.00% | ~1 |
+| ONE PUNCH | 20.00% | ~1 |
+| Go Clean up In Your Own Way | 20.00% | ~1 |
 | My Dear Love! | 0.00% | ~0 |
 | Off We Sail Tonight | 0.00% | ~0 |
 | All I Have Is Money | 0.00% | ~0 |
@@ -47,7 +47,7 @@
 | This Ain't Right In Many Ways... | 0.00% | ~0 |
 | SALUTE | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 497)  
+Progressed: 5 (Ranked 490)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,3 +55,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-07-27 | 2 | 0 |
 | 2023-08-02 | 3 | 0 |
 | 2023-08-10 | 4 | 0 |
+| 2023-09-12 | 5 | 0 |

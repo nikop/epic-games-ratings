@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38900,
+  "EOS_Progressed": 38901,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 786,
+  "EOS_NewPlayers": 782,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16841,6 +16841,11 @@
       "Time": "2023-09-12T05:06:09.1300277+00:00",
       "NumProgressed": 38900,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-12T06:06:03.5334944+00:00",
+      "NumProgressed": 38901,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -17028,7 +17033,7 @@
       "Name": "Unlock Tupa",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "playerWingsuit",
@@ -17163,15 +17168,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38900,
+      "Progressed": 38901,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-12T05:06:09.1300272+00:00",
+  "LastChanged_Achievements": "2023-09-12T06:06:03.5334938+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.6421316+00:00",
-  "LastUpdate_Ratings": "2023-09-12T04:57:49.5939818+00:00",
-  "LastUpdate_Achievements": "2023-09-12T05:06:09.130126+00:00"
+  "LastUpdate_Ratings": "2023-09-12T05:57:47.4319355+00:00",
+  "LastUpdate_Achievements": "2023-09-12T06:06:03.5337349+00:00"
 }

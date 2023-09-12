@@ -6,20 +6,20 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,409 |
-| Gone Home | 93.00% | ~26,279 |
+| Everybody Gets One | 97.00% | ~27,410 |
+| Gone Home | 93.00% | ~26,280 |
 | Wonderfalls | 87.00% | ~24,584 |
-| Got to Catch a Few | 77.00% | ~21,758 |
-| Double Trapper | 75.00% | ~21,193 |
-| I'm Stuffed | 69.00% | ~19,497 |
+| Got to Catch a Few | 77.00% | ~21,759 |
+| Double Trapper | 75.00% | ~21,194 |
+| I'm Stuffed | 69.00% | ~19,498 |
 | Got to Catch a Lot | 66.00% | ~18,650 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,237 |
 | In the Arms of the Gramble | 59.00% | ~16,672 |
 | Know Thy Neighbor | 59.00% | ~16,672 |
 | Launch Party | 56.00% | ~15,824 |
 | Perf Dirt | 56.00% | ~15,824 |
-| Vacation's End | 53.00% | ~14,976 |
-| Bossy Bugs | 46.00% | ~12,998 |
+| Vacation's End | 53.00% | ~14,977 |
+| Bossy Bugs | 46.00% | ~12,999 |
 | Survivor | 45.00% | ~12,716 |
 | That Reminds Me of a Puzzle | 43.00% | ~12,151 |
 | Sidetracked | 40.00% | ~11,303 |
@@ -27,7 +27,7 @@ Number of Ratings: 425  (23.09.2022)
 | Combo Meal | 38.00% | ~10,738 |
 | Midnight Snak | 36.00% | ~10,173 |
 | Candid Cryptid | 35.00% | ~9,890 |
-| Got to Catch Them All | 32.00% | ~9,042 |
+| Got to Catch Them All | 32.00% | ~9,043 |
 | Deep Impact | 23.00% | ~6,499 |
 | Grab Bag | 23.00% | ~6,499 |
 | Feeding Frenzy | 18.00% | ~5,086 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,261 |
 | Dapper Capper | 7.00% | ~1,978 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,257 (Ranked 103)  
+Progressed: 28,258 (Ranked 103)  
 Completed: 1,344 (4.76%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 1,344 (4.76%) (Ranked 55)
 | 2023-09-09 | 28,249 | 1,344 |
 | 2023-09-10 | 28,256 | 1,344 |
 | 2023-09-11 | 28,257 | 1,344 |
+| 2023-09-12 | 28,258 | 1,344 |
 ## Awards
 Max (Amazing Storytelling): 39  (Ranked 428)  
 Sum: 338 (Ranked 335)  

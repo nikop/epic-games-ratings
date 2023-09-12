@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,782 |
-| Where's that freaking Dwarf? | 4.00% | ~8,935 |
-| Alt+F4 | 4.00% | ~8,935 |
+| Sowwy! | 29.00% | ~64,783 |
+| Where's that freaking Dwarf? | 4.00% | ~8,936 |
+| Alt+F4 | 4.00% | ~8,936 |
 | Déjà vu | 3.00% | ~6,702 |
 | Sock! SOCK! | 3.00% | ~6,702 |
 | Way of the Wimp | 2.00% | ~4,468 |
@@ -33,10 +33,10 @@ Number of Ratings: 118  (23.09.2022)
 | I am the night | 1.00% | ~2,234 |
 | Team Building Exercise | 1.00% | ~2,234 |
 | Oh, when I'll be level 10... | 1.00% | ~2,234 |
-| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,010 |
-| %#*!$*! | 0.90% | ~2,010 |
-| Look but don't touch | 0.90% | ~2,010 |
-| Thieves' Guild Accreditation | 0.90% | ~2,010 |
+| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,011 |
+| %#*!$*! | 0.90% | ~2,011 |
+| Look but don't touch | 0.90% | ~2,011 |
+| Thieves' Guild Accreditation | 0.90% | ~2,011 |
 | Res Judicata | 0.80% | ~1,787 |
 | Dwarf Fortress | 0.80% | ~1,787 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,564 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,386 (Ranked 56)  
+Progressed: 223,391 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-09 | 222,713 | 2 |
 | 2023-09-10 | 223,093 | 2 |
 | 2023-09-11 | 223,344 | 2 |
-| 2023-09-12 | 223,386 | 2 |
+| 2023-09-12 | 223,391 | 2 |
 ## Awards
 Max (Character Customization): 193  (Ranked 276)  
 Sum: 308 (Ranked 338)  

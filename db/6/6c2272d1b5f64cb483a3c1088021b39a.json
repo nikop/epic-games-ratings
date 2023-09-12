@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -3471,9 +3471,9 @@
       "ID": "call_of_mana_2",
       "SetID": "53c1p3k",
       "Name": "Call of Mana 2",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "call_of_mana_3",
@@ -3950,8 +3950,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-12T05:06:26.7436225+00:00",
+  "LastChanged_Achievements": "2023-09-12T06:06:22.7375881+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:00.6295302+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:00:01.4056935+00:00",
-  "LastUpdate_Achievements": "2023-09-12T05:06:26.7436884+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:00:11.4928703+00:00",
+  "LastUpdate_Achievements": "2023-09-12T06:06:22.7377392+00:00"
 }

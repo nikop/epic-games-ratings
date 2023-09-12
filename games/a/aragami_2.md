@@ -10,7 +10,7 @@ Number of Ratings: 88  (23.09.2022)
 | First Steps | 80.00% | ~34,372 |
 | Control the Shadows | 67.00% | ~28,787 |
 | Tools of the Trade | 63.00% | ~27,068 |
-| Apprentice | 59.00% | ~25,349 |
+| Apprentice | 60.00% | ~25,779 |
 | Secret Seeker | 57.00% | ~24,490 |
 | Forge of Assassins | 55.00% | ~23,631 |
 | Revenant | 52.00% | ~22,342 |

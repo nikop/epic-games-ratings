@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,304 |
-| Right Back At Ya | 39.00% | ~341,563 |
-| The Lovers | 35.00% | ~306,531 |
+| The Fool | 69.00% | ~604,305 |
+| Right Back At Ya | 39.00% | ~341,564 |
+| The Lovers | 35.00% | ~306,532 |
 | Stanislavski's Method | 29.00% | ~253,983 |
 | The Wheel of Fortune | 28.00% | ~245,225 |
 | The Hermit | 25.00% | ~218,951 |
@@ -20,13 +20,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 18.00% | ~157,645 |
 | The World | 18.00% | ~157,645 |
 | Bushido and Chill | 17.00% | ~148,887 |
-| Gun Fu | 15.00% | ~131,370 |
-| True Warrior | 15.00% | ~131,370 |
-| To Protect and Serve | 14.00% | ~122,612 |
-| Master Crafter | 14.00% | ~122,612 |
-| I Am The Law | 14.00% | ~122,612 |
-| Judy vs Night City | 14.00% | ~122,612 |
-| Two Heads, One Bullet | 12.00% | ~105,096 |
+| Gun Fu | 15.00% | ~131,371 |
+| True Warrior | 15.00% | ~131,371 |
+| To Protect and Serve | 14.00% | ~122,613 |
+| Master Crafter | 14.00% | ~122,613 |
+| I Am The Law | 14.00% | ~122,613 |
+| Judy vs Night City | 14.00% | ~122,613 |
+| Two Heads, One Bullet | 12.00% | ~105,097 |
 | The Wandering Fool | 10.00% | ~87,580 |
 | The Quick and the Dead | 10.00% | ~87,580 |
 | Ten out of Ten | 9.00% | ~78,822 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,758 |
 | Rough Landing | 0.50% | ~4,379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,803 (Ranked 14)  
+Progressed: 875,805 (Ranked 14)  
 Completed: 2,079 (0.24%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,10 +196,10 @@ Completed: 2,079 (0.24%) (Ranked 189)
 | 2023-09-09 | 875,450 | 2,075 |
 | 2023-09-10 | 875,656 | 2,075 |
 | 2023-09-11 | 875,775 | 2,079 |
-| 2023-09-12 | 875,803 | 2,079 |
+| 2023-09-12 | 875,805 | 2,079 |
 ## Awards
 Max (Character Customization): 78,214  (Ranked 9)  
-Sum: 208,870 (Ranked 13)  
+Sum: 208,883 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): -4
 | This game is Relaxing | 9,105 |
 | This game has Amazing Characters | 9,039 |
 | This game has Quickly Understood Controls | 8,997 |
-| This game has a Creative Community | 5,886 |
+| This game has a Creative Community | 5,899 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -453,3 +453,4 @@ Diff (max vs sum): -4
 | 2023-09-09 | 4.62 | - | 77,946 | 207,885 |
 | 2023-09-10 | 4.62 | - | 78,099 | 208,441 |
 | 2023-09-11 | 4.62 | - | 78,214 | 208,870 |
+| 2023-09-12 | 4.62 | - | 78,214 | 208,883 |

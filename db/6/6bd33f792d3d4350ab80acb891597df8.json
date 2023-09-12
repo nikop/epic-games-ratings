@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -399,9 +399,9 @@
       "ID": "CgkIxYDzrbcPEAIQCQ",
       "SetID": "4egpam7",
       "Name": "Ancient Enigma",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCg",
@@ -582,8 +582,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2023-09-12T05:07:15.4450628+00:00",
+  "LastChanged_Achievements": "2023-09-12T06:07:15.0469364+00:00",
   "LastUpdate_AppInfo": "2023-09-05T17:57:19.7903469+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:00:05.1366236+00:00",
-  "LastUpdate_Achievements": "2023-09-12T05:07:15.4450827+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:00:14.7551893+00:00",
+  "LastUpdate_Achievements": "2023-09-12T06:07:15.0469766+00:00"
 }

@@ -39,9 +39,9 @@ Rating: 4.54 (Ranked 503)
 | Rising Star | 0.50% | ~3,392 |
 | Smorgasbord | 0.40% | ~2,713 |
 | Not Even My Final Form | 0.40% | ~2,713 |
+| Internet Famous | 0.40% | ~2,713 |
 | Make it So | 0.30% | ~2,035 |
 | On Safari | 0.30% | ~2,035 |
-| Internet Famous | 0.30% | ~2,035 |
 | Variety is the Spice of Death | 0.30% | ~2,035 |
 | LA Influential | 0.20% | ~1,357 |
 | Sole Survivor | 0.20% | ~1,357 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~678 |
 | Bucket List | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,302 (Ranked 22)  
-Completed: 2,139 (0.32%) (Ranked 178)  
+Progressed: 678,314 (Ranked 22)  
+Completed: 2,140 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,7 +196,7 @@ Completed: 2,139 (0.32%) (Ranked 178)
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
-| 2023-09-12 | 678,302 | 2,139 |
+| 2023-09-12 | 678,314 | 2,140 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
 Sum: 8,894 (Ranked 94)  

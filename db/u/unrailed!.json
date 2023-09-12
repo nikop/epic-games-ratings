@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 94,
+  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -2630,9 +2630,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 643145,
+  "EOS_Progressed": 643149,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1892,
+  "EOS_NewPlayers": 1893,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18780,6 +18780,11 @@
       "Time": "2023-09-12T05:07:03.8300054+00:00",
       "NumProgressed": 643145,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-12T06:07:02.6809507+00:00",
+      "NumProgressed": 643149,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 52,
@@ -18791,7 +18796,7 @@
       "Name": "Stroller",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 90040
+      "UsersEstimate": 90041
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -18839,7 +18844,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 77177
+      "UsersEstimate": 77178
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -19039,7 +19044,7 @@
       "Name": "Incurious",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 102903
+      "UsersEstimate": 102904
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -19206,15 +19211,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 643145,
+      "Progressed": 643149,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-09T11:01:36.7166719+00:00",
-  "LastChanged_Achievements": "2023-09-12T05:07:03.8300049+00:00",
+  "LastChanged_Achievements": "2023-09-12T06:07:02.6809501+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.8163161+00:00",
-  "LastUpdate_Ratings": "2023-09-12T04:59:43.771911+00:00",
-  "LastUpdate_Achievements": "2023-09-12T05:07:03.8301321+00:00"
+  "LastUpdate_Ratings": "2023-09-12T05:59:51.3991532+00:00",
+  "LastUpdate_Achievements": "2023-09-12T06:07:02.6812195+00:00"
 }

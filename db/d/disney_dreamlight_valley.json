@@ -3540,9 +3540,9 @@
       "Count": 499
     }
   ],
-  "EOS_Progressed": 9527,
+  "EOS_Progressed": 9528,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.26,
   "EosHistory": [
@@ -12340,6 +12340,11 @@
       "Time": "2023-09-12T01:42:26.2136014+00:00",
       "NumProgressed": 9527,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2023-09-12T06:03:31.0450386+00:00",
+      "NumProgressed": 9528,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 15,
@@ -12391,7 +12396,7 @@
       "Name": "Constructor",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 4954
+      "UsersEstimate": 4955
     },
     {
       "ID": "Duty_Bound",
@@ -12407,7 +12412,7 @@
       "Name": "Gardener",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2954
     },
     {
       "ID": "Generous",
@@ -12423,7 +12428,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 6764
+      "UsersEstimate": 6765
     },
     {
       "ID": "Miner",
@@ -12463,14 +12468,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 6002
+      "UsersEstimate": 6003
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9527,
+      "Progressed": 9528,
       "Completed": 215
     }
   ],
@@ -12478,8 +12483,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-09-12T03:01:44.0660278+00:00",
-  "LastChanged_Achievements": "2023-09-12T05:03:37.0841592+00:00",
+  "LastChanged_Achievements": "2023-09-12T06:03:31.0450375+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:08.9722146+00:00",
-  "LastUpdate_Ratings": "2023-09-12T05:01:14.6910612+00:00",
-  "LastUpdate_Achievements": "2023-09-12T05:03:37.0842081+00:00"
+  "LastUpdate_Ratings": "2023-09-12T06:01:33.9808765+00:00",
+  "LastUpdate_Achievements": "2023-09-12T06:03:31.0451594+00:00"
 }

@@ -18,7 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~685 |
 | Friendly Imps | 0.30% | ~685 |
 | Pure Energy | 0.30% | ~685 |
-| Tall Tales | 0.20% | ~389 |
+| Tall Tales | 0.20% | ~390 |
 | The Silken Swamp | 0.20% | ~457 |
 | Supply Run | 0.20% | ~457 |
 | A Persistent Buzzing | 0.20% | ~457 |
@@ -45,8 +45,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~457 |
 | Overdue Rendezvous | 0.20% | ~457 |
 | The Templar's Camp | 0.20% | ~457 |
-| Legends and Lore | 0.20% | ~389 |
-| The End | 0.20% | ~389 |
+| Legends and Lore | 0.20% | ~390 |
+| The End | 0.20% | ~390 |
 | Pros and CONs | 0.10% | ~228 |
 | Upholding the Law | 0.10% | ~228 |
 | Starving in the Jungle | 0.10% | ~228 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,475 (Ranked 54)  
+Progressed: 228,476 (Ranked 54)  
 Completed: 2,270 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,7 +672,7 @@ Completed: 2,270 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
-| 2023-09-12 | 228,475 | 2,270 |
+| 2023-09-12 | 228,476 | 2,270 |
 ## Awards
 Max (Diverse Characters): 5,261  (Ranked 67)  
 Sum: 31,537 (Ranked 39)  
