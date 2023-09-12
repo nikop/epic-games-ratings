@@ -2008,10 +2008,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2302,
       "NumberOfAwardsMax": 253
+    },
+    {
+      "Time": "2023-09-12T02:57:32.8247068+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2303,
+      "NumberOfAwardsMax": 253
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2302,
+  "NumberOfAwards": 2303,
   "NumberOfAwardsMax": 253,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2049,7 +2055,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 213
+      "Count": 214
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2088,7 +2094,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25760,
+  "EOS_Progressed": 25761,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
@@ -12648,6 +12654,11 @@
       "Time": "2023-09-12T02:22:55.2084857+00:00",
       "NumProgressed": 25760,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-12T03:09:07.8277807+00:00",
+      "NumProgressed": 25761,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 51,
@@ -12659,7 +12670,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18805
+      "UsersEstimate": 18806
     },
     {
       "ID": "Animated",
@@ -12731,7 +12742,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8758
+      "UsersEstimate": 8759
     },
     {
       "ID": "Diabolical",
@@ -12745,9 +12756,9 @@
       "ID": "Discovery",
       "SetID": "819popo",
       "Name": "Discovery",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 15714
+      "UsersEstimate": 15457
     },
     {
       "ID": "Dont_Need_These",
@@ -12891,7 +12902,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4894
+      "UsersEstimate": 4895
     },
     {
       "ID": "Rift_Seeker",
@@ -12939,7 +12950,7 @@
       "Name": "Skilled",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 6182
+      "UsersEstimate": 6183
     },
     {
       "ID": "Solo_Capture",
@@ -13003,7 +13014,7 @@
       "Name": "Terrifying",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4894
+      "UsersEstimate": 4895
     },
     {
       "ID": "Therapeutic",
@@ -13019,7 +13030,7 @@
       "Name": "There you are!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10819
+      "UsersEstimate": 10820
     },
     {
       "ID": "Tobins_Prodigy",
@@ -13066,16 +13077,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25760,
+      "Progressed": 25761,
       "Completed": 55
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-11T20:57:07.3509116+00:00",
-  "LastChanged_Achievements": "2023-09-12T02:22:55.2084848+00:00",
+  "LastChanged": "2023-09-12T02:57:32.8247066+00:00",
+  "LastChanged_Achievements": "2023-09-12T03:09:07.8277801+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:11:33.8461447+00:00",
-  "LastUpdate_Achievements": "2023-09-12T02:22:55.2086198+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:57:32.8247073+00:00",
+  "LastUpdate_Achievements": "2023-09-12T03:09:07.8279256+00:00"
 }

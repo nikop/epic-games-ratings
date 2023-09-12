@@ -7,43 +7,43 @@ Number of Ratings: 154  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 93.00% | ~432 |
-| Newbie Hero | 82.00% | ~380 |
-| Welcome to Sonic CD | 74.00% | ~343 |
+| Newbie Hero | 82.00% | ~381 |
+| Welcome to Sonic CD | 74.00% | ~344 |
 | Welcome to Sonic the Hedgehog 2 | 73.00% | ~339 |
 | Welcome to Sonic 3 & Knuckles | 73.00% | ~339 |
-| Time Traveler | 69.00% | ~320 |
-| Ring Collector | 69.00% | ~320 |
+| Ring Collector | 69.00% | ~321 |
+| Time Traveler | 68.00% | ~316 |
 | Everyone's Hero | 65.00% | ~302 |
-| Easy Peasy with Shields | 61.00% | ~283 |
-| Gallant Spin Dash | 61.00% | ~283 |
-| Knuckles the Echidna | 61.00% | ~283 |
-| Miles "Tails" Prower | 61.00% | ~283 |
-| Bubbly Breath | 58.00% | ~269 |
+| Easy Peasy with Shields | 61.00% | ~284 |
+| Gallant Spin Dash | 61.00% | ~284 |
+| Knuckles the Echidna | 61.00% | ~284 |
+| Miles "Tails" Prower | 60.00% | ~279 |
+| Bubbly Breath | 58.00% | ~270 |
 | Boss Rush Attempt | 54.00% | ~251 |
 | Cleared Sonic the Hedgehog | 51.00% | ~237 |
-| Super Sonic | 46.00% | ~213 |
+| Super Sonic | 46.00% | ~214 |
 | Beware Stingers! | 45.00% | ~209 |
 | Very First Mission Clear! | 45.00% | ~209 |
-| Shut Down Metal Sonic | 44.00% | ~204 |
-| Museum Time | 44.00% | ~204 |
+| Shut Down Metal Sonic | 44.00% | ~205 |
+| Museum Time | 44.00% | ~205 |
 | Beware Moto Bugs! | 42.00% | ~195 |
 | Cleared Sonic the Hedgehog 2 | 42.00% | ~195 |
-| Cleared Sonic CD | 41.00% | ~190 |
-| Cleared Sonic the Hedgehog 3 & Knuckles | 38.00% | ~176 |
-| Lucky Hedgehog | 32.00% | ~148 |
+| Cleared Sonic CD | 41.00% | ~191 |
+| Cleared Sonic the Hedgehog 3 & Knuckles | 37.00% | ~172 |
+| Lucky Hedgehog | 32.00% | ~149 |
 | All Clear! | 31.00% | ~144 |
-| To the Mirror World | 30.00% | ~139 |
-| Movie Maniac | 21.00% | ~97 |
-| Sound Savant | 21.00% | ~97 |
-| Sonic the Hedgehog Mission Master | 19.00% | ~88 |
+| To the Mirror World | 30.00% | ~140 |
+| Movie Maniac | 21.00% | ~98 |
+| Sound Savant | 21.00% | ~98 |
+| Sonic the Hedgehog Mission Master | 18.00% | ~84 |
 | Beware Rhinobots! | 17.00% | ~79 |
 | Art Appreciator | 17.00% | ~79 |
 | Sonic CD Mission Master | 16.00% | ~74 |
 | S3 & K Mission Master | 15.00% | ~70 |
 | Sonic the Hedgehog 2 Mission Master | 13.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464 (Ranked 247)  
-Completed: 41 (8.84%) (Ranked 33)  
+Progressed: 465 (Ranked 247)  
+Completed: 41 (8.82%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,6 +123,7 @@ Completed: 41 (8.84%) (Ranked 33)
 | 2023-09-09 | 457 | 41 |
 | 2023-09-10 | 462 | 41 |
 | 2023-09-11 | 464 | 41 |
+| 2023-09-12 | 465 | 41 |
 ## Awards
 Max (Great Boss Battles): 128  (Ranked 313)  
 Sum: 128 (Ranked 406)  

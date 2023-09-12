@@ -621,9 +621,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 222397,
+  "EOS_Progressed": 222402,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16311,6 +16311,11 @@
       "Time": "2023-09-12T01:41:13.3188904+00:00",
       "NumProgressed": 222397,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-12T03:03:10.4906529+00:00",
+      "NumProgressed": 222402,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -16322,7 +16327,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42255
+      "UsersEstimate": 42256
     },
     {
       "ID": "ACH_BASE_10",
@@ -16330,7 +16335,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57823
+      "UsersEstimate": 57825
     },
     {
       "ID": "ACH_BASE_11",
@@ -16593,7 +16598,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 222397,
+      "Progressed": 222402,
       "Completed": 5
     }
   ],
@@ -16601,8 +16606,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-09-11T19:01:17.6849005+00:00",
-  "LastChanged_Achievements": "2023-09-12T02:16:43.0550002+00:00",
+  "LastChanged_Achievements": "2023-09-12T03:03:10.4906523+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:42.4468153+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:16:15.3448376+00:00",
-  "LastUpdate_Achievements": "2023-09-12T02:16:43.0551452+00:00"
+  "LastUpdate_Ratings": "2023-09-12T03:02:22.4768479+00:00",
+  "LastUpdate_Achievements": "2023-09-12T03:03:10.4908129+00:00"
 }

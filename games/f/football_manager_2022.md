@@ -24,8 +24,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Parked The Bus | 29.00% | ~137,165 |
 | Shrewd Spender | 29.00% | ~137,165 |
 | Star Man | 29.00% | ~137,165 |
-| Attack! | 28.00% | ~132,435 |
-| Tremendous Trio | 27.00% | ~127,705 |
+| Attack! | 28.00% | ~132,436 |
+| Tremendous Trio | 27.00% | ~127,706 |
 | You're On Fire | 26.00% | ~122,976 |
 | On A Roll | 26.00% | ~122,976 |
 | Unstoppable Force | 26.00% | ~122,976 |
@@ -40,16 +40,16 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~104,056 |
 | What A Goal! | 22.00% | ~104,056 |
 | Cup Glory! | 22.00% | ~104,056 |
-| Splashing The Cash | 21.00% | ~99,326 |
+| Splashing The Cash | 21.00% | ~99,327 |
 | Irresistible Force | 20.00% | ~94,597 |
 | Excellent Match Cohesion | 20.00% | ~94,597 |
 | Do The Double | 19.00% | ~89,867 |
 | Top Form | 17.00% | ~80,407 |
 | Cash To Burn | 17.00% | ~80,407 |
-| Beating Expectations | 15.00% | ~70,947 |
-| Overachiever! | 15.00% | ~70,947 |
-| Rushed signing | 15.00% | ~70,947 |
-| Window Shopping | 15.00% | ~70,947 |
+| Beating Expectations | 15.00% | ~70,948 |
+| Overachiever! | 15.00% | ~70,948 |
+| Rushed signing | 15.00% | ~70,948 |
+| Window Shopping | 15.00% | ~70,948 |
 | Eyes and Ears | 14.00% | ~66,218 |
 | Comeback King! | 14.00% | ~66,218 |
 | You're Up! | 13.00% | ~61,488 |
@@ -58,10 +58,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | International Superstar | 10.00% | ~47,298 |
 | Invincible! | 10.00% | ~47,298 |
 | Best In The World | 10.00% | ~47,298 |
-| Best In Europe | 9.00% | ~42,568 |
-| National Service | 9.00% | ~42,568 |
-| Headhunted | 9.00% | ~42,568 |
-| Domination | 9.00% | ~42,568 |
+| Best In Europe | 9.00% | ~42,569 |
+| National Service | 9.00% | ~42,569 |
+| Headhunted | 9.00% | ~42,569 |
+| Domination | 9.00% | ~42,569 |
 | Best In The Business | 8.00% | ~37,839 |
 | Legend | 6.00% | ~28,379 |
 | Win the Club World Cup | 6.00% | ~28,379 |
@@ -71,9 +71,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | Going Places | 5.00% | ~23,649 |
 | We Trust You | 5.00% | ~23,649 |
 | Trophy Hoarder | 4.00% | ~18,919 |
-| National Hero | 3.00% | ~14,189 |
-| Golden Boot | 3.00% | ~14,189 |
-| Freedom Of The Country | 3.00% | ~14,189 |
+| National Hero | 3.00% | ~14,190 |
+| Golden Boot | 3.00% | ~14,190 |
+| Freedom Of The Country | 3.00% | ~14,190 |
 | Icon | 2.00% | ~9,460 |
 | Part Of The Furniture | 2.00% | ~9,460 |
 | Childhood Dream | 2.00% | ~9,460 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~473 |
 | Shoestring Budget | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 472,983 (Ranked 36)  
+Progressed: 472,984 (Ranked 36)  
 Completed: 20 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 20 (0.00%) (Ranked 273)
 | 2023-09-09 | 472,841 | 20 |
 | 2023-09-10 | 472,921 | 20 |
 | 2023-09-11 | 472,982 | 20 |
-| 2023-09-12 | 472,983 | 20 |
+| 2023-09-12 | 472,984 | 20 |
 ## Awards
 Max (Relaxing): 6,437  (Ranked 54)  
 Sum: 50,685 (Ranked 25)  

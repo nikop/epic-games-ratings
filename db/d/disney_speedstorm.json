@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3165,
+  "EOS_Progressed": 3166,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.43,
   "EosHistory": [
@@ -4610,6 +4610,11 @@
       "Time": "2023-09-11T23:06:42.4114709+00:00",
       "NumProgressed": 3165,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2023-09-12T03:08:34.4498754+00:00",
+      "NumProgressed": 3166,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 24,
@@ -4637,7 +4642,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "12",
@@ -4645,7 +4650,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "13",
@@ -4717,7 +4722,7 @@
       "Name": "PROTECTED",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "21",
@@ -4733,7 +4738,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "23",
@@ -4771,9 +4776,9 @@
       "ID": "5",
       "SetID": "9p3jgda",
       "Name": "ROOKIE",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1710
     },
     {
       "ID": "6",
@@ -4812,13 +4817,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 3165,
+      "Progressed": 3166,
       "Completed": 172
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-12T02:22:22.2390255+00:00",
+  "LastChanged_Achievements": "2023-09-12T03:08:34.4498744+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:18.3778011+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:11:35.381175+00:00",
-  "LastUpdate_Achievements": "2023-09-12T02:22:22.2390747+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:57:34.5972048+00:00",
+  "LastUpdate_Achievements": "2023-09-12T03:08:34.449948+00:00"
 }

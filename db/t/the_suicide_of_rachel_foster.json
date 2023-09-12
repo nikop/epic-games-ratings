@@ -2425,9 +2425,9 @@
       "ID": "ACH_BloccatoInGhiacciaia",
       "SetID": "7a9m7mj",
       "Name": "Freeze to death",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 803
+      "UsersEstimate": 817
     },
     {
       "ID": "ACH_Cacciavite",
@@ -2513,8 +2513,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-12T02:18:08.5219374+00:00",
+  "LastChanged_Achievements": "2023-09-12T03:04:16.2197204+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.2208302+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:12:39.3321985+00:00",
-  "LastUpdate_Achievements": "2023-09-12T02:18:08.521967+00:00"
+  "LastUpdate_Ratings": "2023-09-12T02:58:40.4812107+00:00",
+  "LastUpdate_Achievements": "2023-09-12T03:04:16.2197488+00:00"
 }

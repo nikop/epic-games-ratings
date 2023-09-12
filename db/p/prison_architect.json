@@ -5214,9 +5214,9 @@
       "Count": 398
     }
   ],
-  "EOS_Progressed": 173897,
+  "EOS_Progressed": 173903,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2176,
+  "EOS_NewPlayers": 2171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21319,6 +21319,11 @@
       "Time": "2023-09-12T02:17:24.812506+00:00",
       "NumProgressed": 173897,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-12T03:03:32.0964583+00:00",
+      "NumProgressed": 173903,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -21338,7 +21343,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "Achievement_10",
@@ -21410,7 +21415,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 45213
+      "UsersEstimate": 45215
     },
     {
       "ID": "Achievement_5",
@@ -21457,15 +21462,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 173897,
+      "Progressed": 173903,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-09-11T22:03:11.1958788+00:00",
-  "LastChanged_Achievements": "2023-09-12T02:17:24.8125053+00:00",
+  "LastChanged_Achievements": "2023-09-12T03:03:32.0964576+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:05.8891241+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:16:30.6953262+00:00",
-  "LastUpdate_Achievements": "2023-09-12T02:17:24.8126261+00:00"
+  "LastUpdate_Ratings": "2023-09-12T03:02:37.6950458+00:00",
+  "LastUpdate_Achievements": "2023-09-12T03:03:32.0966018+00:00"
 }

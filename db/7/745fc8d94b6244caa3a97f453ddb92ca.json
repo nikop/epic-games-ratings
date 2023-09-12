@@ -188,9 +188,9 @@
       "ID": "ACH_PUZZLEMASTER",
       "SetID": "9675gi1",
       "Name": "Puzzle Master",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SECUNDARIA_MASK",
@@ -260,9 +260,9 @@
       "ID": "ST_PLAGUE",
       "SetID": "9675gi1",
       "Name": "Plague Control",
-      "Percentage": 63,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ST_SEEKHIDE",
@@ -283,8 +283,8 @@
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2023-09-12T02:20:24.762904+00:00",
+  "LastChanged_Achievements": "2023-09-12T03:06:34.4370924+00:00",
   "LastUpdate_AppInfo": "2023-09-07T18:57:15.6283552+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:14:15.9529185+00:00",
-  "LastUpdate_Achievements": "2023-09-12T02:20:24.7629217+00:00"
+  "LastUpdate_Ratings": "2023-09-12T03:00:20.9401468+00:00",
+  "LastUpdate_Achievements": "2023-09-12T03:06:34.4371145+00:00"
 }

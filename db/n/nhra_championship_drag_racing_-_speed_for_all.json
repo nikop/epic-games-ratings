@@ -4,7 +4,7 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 792,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -623,6 +623,11 @@
       "Time": "2023-09-10T11:03:24.94925+00:00",
       "NumProgressed": 791,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T03:04:22.4076139+00:00",
+      "NumProgressed": 792,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -634,7 +639,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "11",
@@ -706,7 +711,7 @@
       "Name": "Risky business",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "2",
@@ -810,7 +815,7 @@
       "Name": "Ready to Mingle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "31",
@@ -882,22 +887,22 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "9",
       "SetID": "4n5bj21",
       "Name": "Oops, My bad",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 531
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 792,
       "Completed": 0
     }
   ],
@@ -905,8 +910,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-09-12T02:18:14.7503992+00:00",
+  "LastChanged_Achievements": "2023-09-12T03:04:22.4076134+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.1711908+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:16:17.6293405+00:00",
-  "LastUpdate_Achievements": "2023-09-12T02:18:14.7504346+00:00"
+  "LastUpdate_Ratings": "2023-09-12T03:02:24.6300199+00:00",
+  "LastUpdate_Achievements": "2023-09-12T03:04:22.4076457+00:00"
 }
