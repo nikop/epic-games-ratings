@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 111,
-  "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_Completed": 96,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19935,
+  "EOS_Progressed": 19938,
   "EOS_Completed": 396,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -15948,6 +15948,11 @@
       "Time": "2023-09-12T18:06:07.7153836+00:00",
       "NumProgressed": 19935,
       "NumCompleted": 396
+    },
+    {
+      "Time": "2023-09-12T19:06:44.257385+00:00",
+      "NumProgressed": 19938,
+      "NumCompleted": 396
     }
   ],
   "TotalAchievements": 20,
@@ -15991,7 +15996,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2393
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -16015,7 +16020,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2393
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -16023,7 +16028,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "FOUND_ERIN",
@@ -16071,7 +16076,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2393
     },
     {
       "ID": "INTRO_FINISHED",
@@ -16079,7 +16084,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15350
+      "UsersEstimate": 15352
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16087,7 +16092,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5582
+      "UsersEstimate": 5583
     },
     {
       "ID": "NORTH_FINISHED",
@@ -16103,7 +16108,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "WEST_FINISHED",
@@ -16111,22 +16116,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19935,
+      "Progressed": 19938,
       "Completed": 396
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-12T18:06:07.7153834+00:00",
+  "LastChanged_Achievements": "2023-09-12T19:06:44.2573845+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:58:26.2074982+00:00",
-  "LastUpdate_Achievements": "2023-09-12T18:06:07.7154651+00:00"
+  "LastUpdate_Ratings": "2023-09-12T18:58:50.2896101+00:00",
+  "LastUpdate_Achievements": "2023-09-12T19:06:44.2575361+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "aspire-inas-tale-f77a17",
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2021-12-17T18:00:00+00:00",
     "PcReleaseDate": "2021-12-17T18:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:35.8231791+00:00",
   "LastChanged": "2023-03-31T05:57:35.8231792+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:38.7648817+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:00:57.8649895+00:00",
-  "LastUpdate_Achievements": "2023-09-12T18:07:09.0055748+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:01:52.7484855+00:00",
+  "LastUpdate_Achievements": "2023-09-12T19:07:54.518285+00:00"
 }

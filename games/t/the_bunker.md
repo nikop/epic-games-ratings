@@ -26,7 +26,7 @@
 | Press Play | 36.00% | ~42 |
 | General | 26.00% | ~30 |
 | Bookworm | 23.00% | ~27 |
-| Stay | 15.00% | ~17 |
+| Stay | 16.00% | ~19 |
 | Floppy Disk Finder | 14.00% | ~16 |
 | Nurse | 12.00% | ~14 |
 | No Page Unturned | 6.00% | ~7 |
@@ -34,7 +34,7 @@
 | Friends | 5.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 116 (Ranked 336)  
-Completed: 3 (2.59%) (Ranked 81)  
+Completed: 4 (3.45%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,6 +62,7 @@ Completed: 3 (2.59%) (Ranked 81)
 | 2023-08-20 | 114 | 3 |
 | 2023-08-22 | 115 | 3 |
 | 2023-09-02 | 116 | 3 |
+| 2023-09-12 | 116 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

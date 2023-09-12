@@ -6,18 +6,18 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 26.00% | ~10,128 |
-| Finding Your Footing | 26.00% | ~10,128 |
-| Nomad | 18.00% | ~7,011 |
-| Picking Up Speed | 16.00% | ~6,232 |
-| Welcome Maya | 15.00% | ~5,843 |
+| Rookie | 26.00% | ~10,129 |
+| Finding Your Footing | 26.00% | ~10,129 |
+| Nomad | 18.00% | ~7,013 |
+| Picking Up Speed | 16.00% | ~6,233 |
+| Welcome Maya | 15.00% | ~5,844 |
 | Scout | 11.00% | ~4,285 |
 | Sightseer | 11.00% | ~4,285 |
 | Amateur | 9.00% | ~3,506 |
-| Unlock Maya | 8.00% | ~3,116 |
-| Enter Paz | 8.00% | ~3,116 |
-| Wanderer | 8.00% | ~3,116 |
-| Aviator | 6.00% | ~2,337 |
+| Unlock Maya | 8.00% | ~3,117 |
+| Enter Paz | 8.00% | ~3,117 |
+| Wanderer | 8.00% | ~3,117 |
+| Aviator | 6.00% | ~2,338 |
 | My Little Friend | 5.00% | ~1,948 |
 | One With The Board | 5.00% | ~1,948 |
 | Voyager | 5.00% | ~1,948 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~39 |
 | Windswept | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,952 (Ranked 97)  
+Progressed: 38,959 (Ranked 97)  
 Completed: 5 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,10 +191,10 @@ Completed: 5 (0.01%) (Ranked 259)
 | 2023-09-09 | 38,661 | 5 |
 | 2023-09-10 | 38,785 | 5 |
 | 2023-09-11 | 38,879 | 5 |
-| 2023-09-12 | 38,952 | 5 |
+| 2023-09-12 | 38,959 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 411)  
-Sum: 360 (Ranked 329)  
+Sum: 361 (Ranked 329)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
@@ -203,8 +203,8 @@ Diff (max vs sum): 82
 | This game is Highly Recommended | 42 |
 | This game has Beautiful Visuals | 38 |
 | This game has Quickly Understood Controls | 38 |
+| This game is Extremely Fun | 35 |
 | This game is Relaxing | 35 |
-| This game is Extremely Fun | 34 |
 | This game has Diverse Characters | 28 |
 | This game has Amazing Storytelling | 28 |
 | This game has Amazing Characters | 26 |
@@ -311,3 +311,4 @@ Diff (max vs sum): 82
 | 2023-07-27 | 4.70 | - | 45 | 358 |
 | 2023-07-28 | 4.70 | - | 46 | 359 |
 | 2023-08-29 | 4.70 | - | 47 | 360 |
+| 2023-09-12 | 4.70 | - | 47 | 361 |

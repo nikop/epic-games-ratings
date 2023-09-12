@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1494,9 +1494,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 391
     },
     {
       "ID": "AC10",
@@ -1726,9 +1726,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 284
     },
     {
       "ID": "AC39",
@@ -1799,8 +1799,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-12T18:05:38.6207777+00:00",
+  "LastChanged_Achievements": "2023-09-12T19:06:10.1549122+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:59:54.8594875+00:00",
-  "LastUpdate_Achievements": "2023-09-12T18:05:38.6208136+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:00:35.9595499+00:00",
+  "LastUpdate_Achievements": "2023-09-12T19:06:10.1549964+00:00"
 }

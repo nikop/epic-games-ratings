@@ -7,15 +7,22 @@ Rating: 4.50 (Ranked 564)
 | ---- | ---------- | ----- |
 | Advancement | 0.10% | ~26 |
 | Animated | 0.10% | ~26 |
+| Cultured | 0.10% | ~26 |
+| Daily Dose | 0.10% | ~26 |
 | Discovery | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
+| Ectoplasmic Entity | 0.10% | ~26 |
 | Meticulously Efficient | 0.10% | ~26 |
 | Fully Upgraded | 0.10% | ~26 |
 | Ghostbuster In Training | 0.10% | ~26 |
 | Icing on the Cake | 0.10% | ~26 |
+| Pesky Jerks | 0.10% | ~26 |
+| Side Hustle | 0.10% | ~26 |
+| Skilled | 0.10% | ~26 |
 | Solo Capture | 0.10% | ~26 |
 | Teamwork | 0.10% | ~26 |
 | Terrifying | 0.10% | ~26 |
+| Vaporous Expansion | 0.10% | ~26 |
 | Welcome to the Crew | 0.10% | ~26 |
 | Whoopsie | 0.10% | ~26 |
 | Back Off | 0.00% | ~0 |
@@ -24,10 +31,7 @@ Rating: 4.50 (Ranked 564)
 | Clutch Capture | 0.00% | ~0 |
 | I collect Spores, Molds, and Fungi | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
-| Cultured | 0.00% | ~0 |
-| Daily Dose | 0.00% | ~0 |
 | Diabolical | 0.00% | ~0 |
-| Ectoplasmic Entity | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
 | Fragile Panes | 0.00% | ~0 |
 | Ghost Expert | 0.00% | ~0 |
@@ -37,15 +41,12 @@ Rating: 4.50 (Ranked 564)
 | Little Help Here | 0.00% | ~0 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
-| Pesky Jerks | 0.00% | ~0 |
 | Reckless | 0.00% | ~0 |
 | Rift Destroyer | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |
 | Right back at ya | 0.00% | ~0 |
 | Rivalry | 0.00% | ~0 |
 | Seasoned | 0.00% | ~0 |
-| Side Hustle | 0.00% | ~0 |
-| Skilled | 0.00% | ~0 |
 | Stunner | 0.00% | ~0 |
 | Stylish | 0.00% | ~0 |
 | Summoner | 0.00% | ~0 |
@@ -55,7 +56,6 @@ Rating: 4.50 (Ranked 564)
 | There you are! | 0.00% | ~0 |
 | Tobin's Prodigy | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
-| Vaporous Expansion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25,765 (Ranked 104)  
 Completed: 55 (0.21%) (Ranked 196)  

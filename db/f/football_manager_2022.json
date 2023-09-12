@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -7271,9 +7271,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 473018,
+  "EOS_Progressed": 473019,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22626,6 +22626,11 @@
       "Time": "2023-09-12T18:03:48.8418003+00:00",
       "NumProgressed": 473018,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-12T19:03:42.8614196+00:00",
+      "NumProgressed": 473019,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -22637,7 +22642,7 @@
       "Name": "Best In The Business",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 37841
+      "UsersEstimate": 37842
     },
     {
       "ID": "achievement_10_manager_of_the_year_awards",
@@ -22733,7 +22738,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137175
+      "UsersEstimate": 137176
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -22749,7 +22754,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 141905
+      "UsersEstimate": 141906
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -22757,7 +22762,7 @@
       "Name": "Fantastic Five",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113524
+      "UsersEstimate": 113525
     },
     {
       "ID": "achievement_always_a_plan_b",
@@ -22821,7 +22826,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236509
+      "UsersEstimate": 236510
     },
     {
       "ID": "achievement_club_world_cup",
@@ -22837,7 +22842,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 89873
+      "UsersEstimate": 89874
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -22877,7 +22882,7 @@
       "Name": "Full Faith",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113524
+      "UsersEstimate": 113525
     },
     {
       "ID": "achievement_gain_bottom_to_top_promotion",
@@ -22949,7 +22954,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137175
+      "UsersEstimate": 137176
     },
     {
       "ID": "achievement_hattrick",
@@ -22957,7 +22962,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 193937
+      "UsersEstimate": 193938
     },
     {
       "ID": "achievement_head_to_head",
@@ -23005,7 +23010,7 @@
       "Name": "Iron Curtain",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 113524
+      "UsersEstimate": 113525
     },
     {
       "ID": "achievement_manager_of_the_month",
@@ -23021,7 +23026,7 @@
       "Name": "The Boss",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 113524
+      "UsersEstimate": 113525
     },
     {
       "ID": "achievement_most_goals_scored_in_league",
@@ -23061,7 +23066,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 165556
+      "UsersEstimate": 165557
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -23109,7 +23114,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137175
+      "UsersEstimate": 137176
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -23189,7 +23194,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236509
+      "UsersEstimate": 236510
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -23221,7 +23226,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 118254
+      "UsersEstimate": 118255
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -23269,7 +23274,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 236509
+      "UsersEstimate": 236510
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -23420,15 +23425,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 473018,
+      "Progressed": 473019,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-12T15:59:18.3349105+00:00",
-  "LastChanged_Achievements": "2023-09-12T18:03:48.8418+00:00",
+  "LastChanged_Achievements": "2023-09-12T19:03:42.8614187+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.0729519+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:59:39.5499607+00:00",
-  "LastUpdate_Achievements": "2023-09-12T18:03:48.8419645+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:00:16.9858357+00:00",
+  "LastUpdate_Achievements": "2023-09-12T19:03:42.8616641+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "covid-carl-7dd371",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-07-31T16:00:00+00:00",
     "PcReleaseDate": "2022-10-25T19:00:00+00:00",
@@ -228,8 +228,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-06T19:04:28.6969533+00:00",
-  "LastChanged_Achievements": "2023-09-12T18:05:01.0035209+00:00",
+  "LastChanged_Achievements": "2023-09-12T19:05:25.616588+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.8159335+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:01:39.8427089+00:00",
-  "LastUpdate_Achievements": "2023-09-12T18:05:01.0035337+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:02:45.5053082+00:00",
+  "LastUpdate_Achievements": "2023-09-12T19:05:25.6166049+00:00"
 }

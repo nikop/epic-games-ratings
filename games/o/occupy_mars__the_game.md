@@ -16,7 +16,7 @@ Rating: 3.99 (Ranked 945)
 | Miner | 25.00% | ~400 |
 | Houston we have a problem | 22.00% | ~352 |
 | Detective | 19.00% | ~304 |
-| The Collector | 16.00% | ~256 |
+| The Collector | 17.00% | ~272 |
 | Get your hands dirty | 10.00% | ~160 |
 | Space Forest | 8.00% | ~128 |
 | All Wheel Trouble | 7.00% | ~112 |
@@ -29,9 +29,9 @@ Rating: 3.99 (Ranked 945)
 | Hard Landing | 2.00% | ~32 |
 | Explosive Miner | 1.00% | ~16 |
 | Caveman | 1.00% | ~16 |
+| Planetary Defence | 1.00% | ~16 |
 | Rocket Jump | 1.00% | ~16 |
 | Thunderstruck | 1.00% | ~16 |
-| Planetary Defence | 0.90% | ~14 |
 | 5G Network | 0.80% | ~13 |
 | One does not simply... | 0.50% | ~8 |
 | Bull’s eye | 0.40% | ~6 |

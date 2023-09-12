@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -3710,9 +3710,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 272
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3782,9 +3782,9 @@
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
       "SetID": "l546gc",
       "Name": "Planetary Defence",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
@@ -4031,8 +4031,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-10T18:59:07.5245979+00:00",
-  "LastChanged_Achievements": "2023-09-12T18:08:20.945472+00:00",
+  "LastChanged_Achievements": "2023-09-12T19:09:16.2651929+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.1992932+00:00",
-  "LastUpdate_Ratings": "2023-09-12T18:00:25.3542913+00:00",
-  "LastUpdate_Achievements": "2023-09-12T18:08:20.9455218+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:01:13.700843+00:00",
+  "LastUpdate_Achievements": "2023-09-12T19:09:16.2652601+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1294,
+  "EOS_Progressed": 1296,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4641,6 +4641,11 @@
       "Time": "2023-09-12T17:03:16.6030913+00:00",
       "NumProgressed": 1294,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-12T19:03:13.4331016+00:00",
+      "NumProgressed": 1296,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4772,23 +4777,23 @@
       "Name": "Sergeant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 117
     },
     {
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -4828,7 +4833,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4836,7 +4841,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -4844,7 +4849,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -4860,7 +4865,7 @@
       "Name": "Stocking Up",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -4876,7 +4881,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -4898,9 +4903,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -4955,14 +4960,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1294,
+      "Progressed": 1296,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-12T18:03:23.3943615+00:00",
+  "LastChanged_Achievements": "2023-09-12T19:03:13.4331012+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:59:47.4582491+00:00",
-  "LastUpdate_Achievements": "2023-09-12T18:03:23.3944107+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:00:25.7902041+00:00",
+  "LastUpdate_Achievements": "2023-09-12T19:03:13.4331928+00:00"
 }

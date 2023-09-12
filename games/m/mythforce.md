@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 2.00% | ~28 |
-| Debuff Dogpile | 2.00% | ~28 |
-| Faceroll the Bones | 2.00% | ~28 |
-| Flawless Victory | 2.00% | ~28 |
-| Hit 'Em Where It Hurts | 2.00% | ~28 |
-| Mushroom Madness! | 2.00% | ~28 |
-| Ten Steps from the Grave | 2.00% | ~28 |
-| That'll Leave a Mark | 2.00% | ~28 |
+| Death Becomes You | 2.00% | ~29 |
+| Debuff Dogpile | 2.00% | ~29 |
+| Faceroll the Bones | 2.00% | ~29 |
+| Flawless Victory | 2.00% | ~29 |
+| Hit 'Em Where It Hurts | 2.00% | ~29 |
+| Mushroom Madness! | 2.00% | ~29 |
+| Ten Steps from the Grave | 2.00% | ~29 |
+| That'll Leave a Mark | 2.00% | ~29 |
 | Cold-Blooded Critters | 1.00% | ~14 |
 | Deadication | 1.00% | ~14 |
 | Everything Must Go! | 1.00% | ~14 |
 | First Strike | 1.00% | ~14 |
 | Horder Better Faster Stronger | 1.00% | ~14 |
 | Perk Shard Punch Card | 1.00% | ~14 |
-| The Harder They Fall | 0.90% | ~13 |
-| Season Finale | 0.90% | ~13 |
 | Spending Spree | 0.90% | ~13 |
-| Next Time on MythForce... | 0.60% | ~8 |
-| On this Episode! | 0.60% | ~8 |
+| The Harder They Fall | 0.80% | ~11 |
+| Season Finale | 0.80% | ~11 |
+| Next Time on MythForce... | 0.60% | ~9 |
+| On this Episode! | 0.60% | ~9 |
 | The Fourth Gate | 0.50% | ~7 |
 | We've Got a Kaiju on the Field | 0.10% | ~1 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,404 (Ranked 196)  
+Progressed: 1,428 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,10 +89,10 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 1,262 | 0 |
 | 2023-09-10 | 1,291 | 0 |
 | 2023-09-11 | 1,321 | 0 |
-| 2023-09-12 | 1,404 | 0 |
+| 2023-09-12 | 1,428 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
-Sum: 256 (Ranked 354)  
+Sum: 257 (Ranked 354)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
@@ -104,8 +104,8 @@ Diff (max vs sum): 104
 | This game has Diverse Characters | 25 |
 | This game has Challenging Combat | 25 |
 | This game has Amazing Storytelling | 23 |
+| This game is Extremely Fun | 21 |
 | This game is Relaxing | 21 |
-| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -185,3 +185,4 @@ Diff (max vs sum): 104
 | 2023-08-19 | 4.49 | - | 32 | 254 |
 | 2023-09-07 | 4.49 | - | 32 | 255 |
 | 2023-09-08 | 4.49 | - | 32 | 256 |
+| 2023-09-12 | 4.49 | - | 32 | 257 |

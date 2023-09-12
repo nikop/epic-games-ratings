@@ -6,9 +6,9 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~19,526 |
-| Strongman | 31.00% | ~6,439 |
-| Alpha Male | 20.00% | ~4,154 |
+| First money | 94.00% | ~19,527 |
+| Strongman | 31.00% | ~6,440 |
+| Alpha Male | 20.00% | ~4,155 |
 | Just Enough | 19.00% | ~3,947 |
 | Pro-creative | 18.00% | ~3,739 |
 | Worth Every Penny | 15.00% | ~3,116 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~104 |
 | Senior Estate Agent | 0.50% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,772 (Ranked 110)  
+Progressed: 20,773 (Ranked 110)  
 Completed: 20 (0.10%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,10 +175,10 @@ Completed: 20 (0.10%) (Ranked 219)
 | 2023-09-09 | 20,760 | 20 |
 | 2023-09-10 | 20,768 | 20 |
 | 2023-09-11 | 20,769 | 20 |
-| 2023-09-12 | 20,772 | 20 |
+| 2023-09-12 | 20,773 | 20 |
 ## Awards
 Max (Great for Beginners): 310  (Ranked 236)  
-Sum: 2,210 (Ranked 194)  
+Sum: 2,211 (Ranked 194)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -189,7 +189,7 @@ Diff (max vs sum): 42
 | This game has Quickly Understood Controls | 220 |
 | This game is Highly Recommended | 215 |
 | This game has a Creative Community | 213 |
-| This game has Amazing Storytelling | 211 |
+| This game has Amazing Storytelling | 212 |
 | This game has Amazing Characters | 189 |
 | This game has Obsessive Gameplay | 173 |
 | This game has Easy Combat | 161 |
@@ -347,3 +347,4 @@ Diff (max vs sum): 42
 | 2023-09-02 | 4.69 | - | 310 | 2,207 |
 | 2023-09-07 | 4.69 | - | 310 | 2,208 |
 | 2023-09-08 | 4.69 | - | 310 | 2,210 |
+| 2023-09-12 | 4.69 | - | 310 | 2,211 |

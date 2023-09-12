@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2102,7 +2102,7 @@
   ],
   "EOS_Progressed": 25765,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12758,17 +12758,17 @@
       "ID": "Cultured",
       "SetID": "819popo",
       "Name": "Cultured",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Daily_Dose",
       "SetID": "819popo",
       "Name": "Daily Dose",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Diabolical",
@@ -12798,9 +12798,9 @@
       "ID": "Ectoplasmic_Entity",
       "SetID": "819popo",
       "Name": "Ectoplasmic Entity",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Efficient",
@@ -12910,9 +12910,9 @@
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Reckless",
@@ -12966,17 +12966,17 @@
       "ID": "Side_Hustle",
       "SetID": "819popo",
       "Name": "Side Hustle",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Skilled",
       "SetID": "819popo",
       "Name": "Skilled",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Solo_Capture",
@@ -13078,9 +13078,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Welcome_Crew",
@@ -13111,8 +13111,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-12T13:02:19.8958033+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:08:21.8323256+00:00",
+  "LastChanged_Achievements": "2023-09-12T19:03:04.9033421+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:57:43.7603036+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:08:21.8324255+00:00"
+  "LastUpdate_Ratings": "2023-09-12T18:58:00.8048474+00:00",
+  "LastUpdate_Achievements": "2023-09-12T19:03:04.9064195+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
     "PcReleaseDate": "2019-03-08T06:00:00+00:00",
@@ -830,9 +830,9 @@
       "ID": "questBuilder",
       "SetID": "ci65fo0",
       "Name": "Builder",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "questCemetery",
@@ -1075,8 +1075,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2023-09-12T18:09:11.748189+00:00",
+  "LastChanged_Achievements": "2023-09-12T19:09:40.3747367+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.5301949+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:59:49.3253614+00:00",
-  "LastUpdate_Achievements": "2023-09-12T18:09:11.7482527+00:00"
+  "LastUpdate_Ratings": "2023-09-12T19:00:28.2534885+00:00",
+  "LastUpdate_Achievements": "2023-09-12T19:09:40.3748158+00:00"
 }
