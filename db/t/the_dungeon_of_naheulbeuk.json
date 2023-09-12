@@ -864,9 +864,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223423,
+  "EOS_Progressed": 223430,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2027,
+  "EOS_NewPlayers": 2022,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10549,6 +10549,11 @@
       "Time": "2023-09-12T11:08:50.9683957+00:00",
       "NumProgressed": 223423,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-12T12:06:43.3701127+00:00",
+      "NumProgressed": 223430,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10592,7 +10597,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4468
+      "UsersEstimate": 4469
     },
     {
       "ID": "BookCollection",
@@ -10616,7 +10621,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4468
+      "UsersEstimate": 4469
     },
     {
       "ID": "Chapter3",
@@ -10624,7 +10629,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4468
+      "UsersEstimate": 4469
     },
     {
       "ID": "Chapter4",
@@ -11008,7 +11013,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64793
+      "UsersEstimate": 64795
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11024,7 +11029,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4468
+      "UsersEstimate": 4469
     },
     {
       "ID": "EndCombatOneHp",
@@ -11032,7 +11037,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4468
+      "UsersEstimate": 4469
     },
     {
       "ID": "EndGameCursed",
@@ -11208,7 +11213,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4468
+      "UsersEstimate": 4469
     },
     {
       "ID": "SupportCount4",
@@ -11256,28 +11261,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4468
+      "UsersEstimate": 4469
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223423,
+      "Progressed": 223430,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223423,
+      "Progressed": 223430,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-11T16:01:08.5233916+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:08:50.9683952+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:06:43.3701122+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:02:14.1856486+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:08:50.968598+00:00"
+  "LastUpdate_Ratings": "2023-09-12T12:00:47.868799+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:06:43.3702694+00:00"
 }

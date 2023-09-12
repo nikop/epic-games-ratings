@@ -19,10 +19,10 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10173,
-  "EOS_Completed": 10173,
-  "EOS_NewPlayers": 4275,
-  "EOS_NewCompleters": 4275,
+  "EOS_Progressed": 10180,
+  "EOS_Completed": 10180,
+  "EOS_NewPlayers": 4247,
+  "EOS_NewCompleters": 4247,
   "EOS_Completed_Percentage": 100,
   "EosHistory": [
     {
@@ -1604,6 +1604,11 @@
       "Time": "2023-09-12T11:07:36.7308998+00:00",
       "NumProgressed": 10173,
       "NumCompleted": 10173
+    },
+    {
+      "Time": "2023-09-12T12:05:48.6482888+00:00",
+      "NumProgressed": 10180,
+      "NumCompleted": 10180
     }
   ],
   "TotalAchievements": 0,
@@ -1613,13 +1618,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 10173,
-      "Completed": 10173
+      "Progressed": 10180,
+      "Completed": 10180
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:07:36.7308991+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:05:48.6482883+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:55.7121464+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:00:21.4431171+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:07:36.7309157+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:59:24.9149229+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:05:48.6483079+00:00"
 }

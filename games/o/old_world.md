@@ -36,39 +36,39 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 3.00% | ~416 |
 | Trade Caravan | 3.00% | ~416 |
 | The Great Mage | 3.00% | ~416 |
-| Regicide | 2.00% | ~277 |
-| Drillmaster | 2.00% | ~277 |
-| Brilliant | 2.00% | ~277 |
-| Fountainhead | 2.00% | ~277 |
-| Great | 2.00% | ~277 |
-| Intercessor | 2.00% | ~277 |
-| Magnificent | 2.00% | ~277 |
-| Valiant | 2.00% | ~277 |
-| Wise | 2.00% | ~277 |
-| Legendary Cities | 2.00% | ~277 |
-| Strong Cities | 2.00% | ~277 |
-| Able Difficulty | 2.00% | ~277 |
-| Artisans | 2.00% | ~277 |
-| Furious Family | 2.00% | ~277 |
-| Acropolis | 2.00% | ~277 |
-| Apadana | 2.00% | ~277 |
-| Colossus | 2.00% | ~277 |
-| Great Ziggurat | 2.00% | ~277 |
-| Ishtar Gate | 2.00% | ~277 |
-| Lighthouse | 2.00% | ~277 |
-| Mausoleum | 2.00% | ~277 |
-| Musaeum | 2.00% | ~277 |
-| Necropolis | 2.00% | ~277 |
-| Learn to Play 1 | 2.00% | ~277 |
-| Learn to Play 2 | 2.00% | ~277 |
-| Christianity | 2.00% | ~277 |
-| Manichaeism | 2.00% | ~277 |
-| Carthaginian Paganism | 2.00% | ~277 |
-| Egyptian Paganism | 2.00% | ~277 |
-| Roman Paganism | 2.00% | ~277 |
-| Zoroastrianism | 2.00% | ~277 |
-| Mythology | 2.00% | ~277 |
-| Poetic Leader | 2.00% | ~277 |
+| Regicide | 2.00% | ~278 |
+| Drillmaster | 2.00% | ~278 |
+| Brilliant | 2.00% | ~278 |
+| Fountainhead | 2.00% | ~278 |
+| Great | 2.00% | ~278 |
+| Intercessor | 2.00% | ~278 |
+| Magnificent | 2.00% | ~278 |
+| Valiant | 2.00% | ~278 |
+| Wise | 2.00% | ~278 |
+| Legendary Cities | 2.00% | ~278 |
+| Strong Cities | 2.00% | ~278 |
+| Able Difficulty | 2.00% | ~278 |
+| Artisans | 2.00% | ~278 |
+| Furious Family | 2.00% | ~278 |
+| Acropolis | 2.00% | ~278 |
+| Apadana | 2.00% | ~278 |
+| Colossus | 2.00% | ~278 |
+| Great Ziggurat | 2.00% | ~278 |
+| Ishtar Gate | 2.00% | ~278 |
+| Lighthouse | 2.00% | ~278 |
+| Mausoleum | 2.00% | ~278 |
+| Musaeum | 2.00% | ~278 |
+| Necropolis | 2.00% | ~278 |
+| Learn to Play 1 | 2.00% | ~278 |
+| Learn to Play 2 | 2.00% | ~278 |
+| Christianity | 2.00% | ~278 |
+| Manichaeism | 2.00% | ~278 |
+| Carthaginian Paganism | 2.00% | ~278 |
+| Egyptian Paganism | 2.00% | ~278 |
+| Roman Paganism | 2.00% | ~278 |
+| Zoroastrianism | 2.00% | ~278 |
+| Mythology | 2.00% | ~278 |
+| Poetic Leader | 2.00% | ~278 |
 | Hanging Gardens in Babylon | 1.00% | ~139 |
 | Beloved | 1.00% | ~139 |
 | Conqueror | 1.00% | ~139 |
@@ -144,16 +144,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.50% | ~69 |
 | Play a Network Game | 0.50% | ~69 |
 | Cataphract Archer | 0.50% | ~69 |
-| Ancient | 0.40% | ~55 |
-| Glorious Difficulty | 0.40% | ~55 |
-| The Eternal Treaty | 0.40% | ~55 |
-| Persia | 0.40% | ~55 |
-| Capturing Cities | 0.40% | ~55 |
-| Ten Crowns | 0.40% | ~55 |
-| Three Man Chariot | 0.40% | ~55 |
-| Conquest Victory | 0.40% | ~55 |
-| Necropolis in Waset | 0.40% | ~55 |
-| Pilgrimage | 0.40% | ~55 |
+| Ancient | 0.40% | ~56 |
+| Glorious Difficulty | 0.40% | ~56 |
+| The Eternal Treaty | 0.40% | ~56 |
+| Persia | 0.40% | ~56 |
+| Capturing Cities | 0.40% | ~56 |
+| Ten Crowns | 0.40% | ~56 |
+| Three Man Chariot | 0.40% | ~56 |
+| Conquest Victory | 0.40% | ~56 |
+| Necropolis in Waset | 0.40% | ~56 |
+| Pilgrimage | 0.40% | ~56 |
 | Bronze Victory (Carthage 1) | 0.30% | ~42 |
 | Magnificent Difficulty | 0.30% | ~42 |
 | Event Level High | 0.30% | ~42 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,874 (Ranked 122)  
+Progressed: 13,875 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -448,7 +448,7 @@ Completed: 5 (0.04%) (Ranked 241)
 | 2023-09-09 | 13,831 | 5 |
 | 2023-09-10 | 13,858 | 5 |
 | 2023-09-11 | 13,868 | 5 |
-| 2023-09-12 | 13,874 | 5 |
+| 2023-09-12 | 13,875 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

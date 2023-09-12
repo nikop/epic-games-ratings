@@ -1257,9 +1257,9 @@
       "ID": "ach_7",
       "SetID": "392n4e7",
       "Name": "Sergeant Major Baran",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_8",
@@ -1288,8 +1288,8 @@
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:04:10.0202377+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:03:18.7234905+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:08.1910722+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:01:43.9060539+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:04:10.0202656+00:00"
+  "LastUpdate_Ratings": "2023-09-12T12:00:21.1701704+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:03:18.7235118+00:00"
 }

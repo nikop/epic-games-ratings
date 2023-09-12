@@ -2,12 +2,12 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 648,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4020,8 +4020,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:09:21.6577193+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:07:15.7570099+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:24.9010849+00:00",
-  "LastUpdate_Ratings": "2023-09-12T10:57:08.6599731+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:09:21.6578589+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:57:05.4084324+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:07:15.7571086+00:00"
 }

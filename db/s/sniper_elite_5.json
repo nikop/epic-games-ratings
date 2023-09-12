@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -518,9 +518,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3607,
+  "EOS_Progressed": 3608,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6623,6 +6623,11 @@
       "Time": "2023-09-12T10:04:11.2533257+00:00",
       "NumProgressed": 3607,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-12T12:03:40.8185295+00:00",
+      "NumProgressed": 3608,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6714,7 +6719,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -6770,7 +6775,7 @@
       "Name": "Sharpshooter",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -6784,9 +6789,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 469
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6946,7 +6951,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -7098,7 +7103,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -7201,13 +7206,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3558,
+      "Progressed": 3559,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3607,
+      "Progressed": 3608,
       "Completed": 10
     }
   ],
@@ -7215,8 +7220,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-10T22:58:36.5752206+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:04:40.079845+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:03:40.8185289+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:00:09.174893+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:04:40.0799703+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:59:16.7340555+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:03:40.8186352+00:00"
 }

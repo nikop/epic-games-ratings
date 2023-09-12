@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~390 |
 | The Silken Swamp | 0.20% | ~457 |
 | Supply Run | 0.20% | ~457 |
+| Vecna Loots! | 0.20% | ~390 |
 | A Persistent Buzzing | 0.20% | ~457 |
 | Beast Mode | 0.20% | ~457 |
 | Terror in the Dark | 0.20% | ~457 |
@@ -131,7 +132,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.10% | ~195 |
 | Overwhelmed with Knowledge | 0.10% | ~195 |
 | A Demi-god's Defender | 0.10% | ~195 |
-| Vecna Loots! | 0.10% | ~195 |
 | Well Equipped | 0.10% | ~195 |
 | Friends of the Forest | 0.10% | ~228 |
 | More Than Well Equipped | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,492 (Ranked 54)  
+Progressed: 228,499 (Ranked 54)  
 Completed: 2,271 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,7 +672,7 @@ Completed: 2,271 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
-| 2023-09-12 | 228,492 | 2,271 |
+| 2023-09-12 | 228,499 | 2,271 |
 ## Awards
 Max (Diverse Characters): 5,261  (Ranked 67)  
 Sum: 31,537 (Ranked 39)  

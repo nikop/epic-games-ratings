@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 0.20% | ~1,429 |
-| The Assault | 0.20% | ~1,429 |
-| Life is your teacher | 0.20% | ~1,429 |
-| Lightning Hands | 0.20% | ~1,429 |
+| The Old Grandmaster | 0.20% | ~1,430 |
+| The Assault | 0.20% | ~1,430 |
+| Life is your teacher | 0.20% | ~1,430 |
+| Lightning Hands | 0.20% | ~1,430 |
 | The Hateful Pole Fighter | 0.10% | ~715 |
 | A Lady's Blood in the Snow | 0.10% | ~715 |
 | Lady Wing Chun | 0.10% | ~715 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,741 (Ranked 20)  
+Progressed: 714,750 (Ranked 20)  
 Completed: 12,890 (1.80%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,16 +212,16 @@ Completed: 12,890 (1.80%) (Ranked 102)
 | 2023-09-09 | 714,041 | 12,890 |
 | 2023-09-10 | 714,349 | 12,890 |
 | 2023-09-11 | 714,613 | 12,890 |
-| 2023-09-12 | 714,741 | 12,890 |
+| 2023-09-12 | 714,750 | 12,890 |
 ## Awards
-Max (Great Boss Battles): 6,482  (Ranked 53)  
-Sum: 11,181 (Ranked 81)  
+Max (Great Boss Battles): 6,484  (Ranked 53)  
+Sum: 11,184 (Ranked 81)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,482 |
+| This game has Great Boss Battles | 6,484 |
 | This game has Diverse Characters | 591 |
-| This game has Challenging Combat | 555 |
+| This game has Challenging Combat | 556 |
 | This game has Quickly Understood Controls | 547 |
 | This game has Amazing Storytelling | 542 |
 | This game is Extremely Fun | 535 |
@@ -472,4 +472,4 @@ Diff (max vs sum): -28
 | 2023-09-09 | 4.82 | - | 6,458 | 11,134 |
 | 2023-09-10 | 4.82 | - | 6,473 | 11,162 |
 | 2023-09-11 | 4.82 | - | 6,482 | 11,178 |
-| 2023-09-12 | 4.82 | - | 6,482 | 11,181 |
+| 2023-09-12 | 4.82 | - | 6,484 | 11,184 |

@@ -4,7 +4,7 @@
   "ProductSlug": "project-warlock-ii-14efe5",
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-06-10T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:39.6938407+00:00",
   "LastChanged": "2023-03-31T05:58:39.6938408+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:15.0018426+00:00",
-  "LastUpdate_Ratings": "2023-09-12T10:57:48.6556853+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:06:22.2976969+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:57:34.336415+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:04:55.2688505+00:00"
 }

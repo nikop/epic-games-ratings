@@ -32,8 +32,8 @@ Number of Ratings: 48  (23.09.2022)
 | The Quarry...On Foot! | 31.00% | ~213 |
 | The Runebarrows...On Foot! | 29.00% | ~199 |
 | The Lava Ruins...On Foot! | 28.00% | ~192 |
+| Meat Master | 27.00% | ~185 |
 | The Snowpeak...On Foot! | 27.00% | ~185 |
-| Meat Master | 26.00% | ~178 |
 | Fishing Master | 25.00% | ~172 |
 | Armor Master | 24.00% | ~165 |
 | The Pride of the Town | 23.00% | ~158 |

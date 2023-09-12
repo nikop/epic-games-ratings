@@ -6,7 +6,7 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,504 |
-| First Class Student | 13.00% | ~38,539 |
+| First Class Student | 13.00% | ~38,540 |
 | Troll with the Punches | 12.00% | ~35,575 |
 | A Keen Sense of Spell | 11.00% | ~32,610 |
 | That's a Keeper | 11.00% | ~32,610 |
@@ -20,14 +20,14 @@ Rating: 4.77 (Ranked 109)
 | The Hero of Hogwarts | 9.00% | ~26,681 |
 | Challenge Accepted | 9.00% | ~26,681 |
 | Followed the Butterflies | 9.00% | ~26,681 |
-| The Spell Master | 8.00% | ~23,716 |
-| Rising From the Ashes | 8.00% | ~23,716 |
+| The Spell Master | 8.00% | ~23,717 |
+| Rising From the Ashes | 8.00% | ~23,717 |
 | The Avenging Gazelle | 7.00% | ~20,752 |
 | Beast Friends | 7.00% | ~20,752 |
 | A Sallow Grave | 7.00% | ~20,752 |
 | Flight the Good Flight | 7.00% | ~20,752 |
-| The Seeker of Knowledge | 6.00% | ~17,787 |
-| Raising Expectations | 6.00% | ~17,787 |
+| The Seeker of Knowledge | 6.00% | ~17,788 |
+| Raising Expectations | 6.00% | ~17,788 |
 | The Root of the Problem | 5.00% | ~14,823 |
 | Third Time's a Charm | 5.00% | ~14,823 |
 | The Ends Petrify the Means | 5.00% | ~14,823 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,779 |
 | Collector's Edition | 0.30% | ~889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,456 (Ranked 43)  
+Progressed: 296,459 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 470 (0.16%) (Ranked 201)
 | 2023-09-09 | 296,169 | 469 |
 | 2023-09-10 | 296,327 | 470 |
 | 2023-09-11 | 296,418 | 470 |
-| 2023-09-12 | 296,456 | 470 |
+| 2023-09-12 | 296,459 | 470 |
 ## Awards
 Max (Character Customization): 22,536  (Ranked 17)  
 Sum: 42,988 (Ranked 30)  

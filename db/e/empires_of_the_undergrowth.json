@@ -2,12 +2,12 @@
   "ID": "4c436646d6f0400da483546a70e3a6e0",
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
-  "Ranking_Rating": 136,
+  "Ranking_Rating": 145,
   "Ranking_Popularity": 416,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-10-28T14:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "NumberOfRatings": 212,
   "RatingHistory": [
     {
@@ -815,10 +815,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 406,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-09-12T11:58:03.5730138+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 407,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 406,
+  "NumberOfAwards": 407,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -868,7 +874,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Highly Recommended",
@@ -912,8 +918,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2023-09-06T14:03:20.0439283+00:00",
+  "LastChanged": "2023-09-12T11:58:03.5730136+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.0811153+00:00",
-  "LastUpdate_Ratings": "2023-09-12T10:58:30.5303991+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:07:52.6725017+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:58:03.573014+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:06:00.7247314+00:00"
 }

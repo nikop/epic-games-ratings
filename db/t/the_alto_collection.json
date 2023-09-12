@@ -2,7 +2,7 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 203,
+  "Ranking_Rating": 202,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 97,
@@ -751,9 +751,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 38917,
+  "EOS_Progressed": 38918,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 783,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16871,6 +16871,11 @@
       "Time": "2023-09-12T11:06:31.1442428+00:00",
       "NumProgressed": 38917,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-12T12:05:01.3390845+00:00",
+      "NumProgressed": 38918,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -16922,7 +16927,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10118
+      "UsersEstimate": 10119
     },
     {
       "ID": "goals180",
@@ -17090,7 +17095,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10118
+      "UsersEstimate": 10119
     },
     {
       "ID": "sandboarder",
@@ -17193,15 +17198,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 38917,
+      "Progressed": 38918,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-08-29T10:57:48.0300457+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:06:31.1442422+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:05:01.3390839+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.6421316+00:00",
-  "LastUpdate_Ratings": "2023-09-12T10:57:58.6507281+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:06:31.1443966+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:57:41.5428704+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:05:01.3392269+00:00"
 }

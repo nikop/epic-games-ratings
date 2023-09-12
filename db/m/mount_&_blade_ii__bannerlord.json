@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 146,
+  "Ranking_Rating": 145,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 88,
@@ -7089,9 +7089,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60856,
+  "EOS_Progressed": 60858,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22414,6 +22414,11 @@
       "Time": "2023-09-12T11:06:30.8786858+00:00",
       "NumProgressed": 60856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T12:05:01.0033366+00:00",
+      "NumProgressed": 60858,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22433,7 +22438,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9128
+      "UsersEstimate": 9129
     },
     {
       "ID": "Bannerlord",
@@ -22465,7 +22470,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "Catch",
@@ -22553,7 +22558,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7911
+      "UsersEstimate": 7912
     },
     {
       "ID": "Great Granny",
@@ -22649,7 +22654,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19474
+      "UsersEstimate": 19475
     },
     {
       "ID": "Lawbringer",
@@ -22657,7 +22662,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23734
+      "UsersEstimate": 23735
     },
     {
       "ID": "Lawmaker",
@@ -22832,15 +22837,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60856,
+      "Progressed": 60858,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-12T09:58:14.960695+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:06:30.8786849+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:05:01.0033361+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-12T10:58:42.4020606+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:06:30.8788511+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:58:12.0944212+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:05:01.0034888+00:00"
 }

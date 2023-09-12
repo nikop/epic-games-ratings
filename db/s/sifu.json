@@ -6136,18 +6136,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 11181,
       "NumberOfAwardsMax": 6482
+    },
+    {
+      "Time": "2023-09-12T11:57:37.2882059+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11184,
+      "NumberOfAwardsMax": 6484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11181,
-  "NumberOfAwardsMax": 6482,
+  "NumberOfAwards": 11184,
+  "NumberOfAwardsMax": 6484,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6482
+      "Count": 6484
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6189,7 +6195,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 555
+      "Count": 556
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6216,9 +6222,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 714741,
+  "EOS_Progressed": 714750,
   "EOS_Completed": 12890,
-  "EOS_NewPlayers": 1789,
+  "EOS_NewPlayers": 1798,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -19581,6 +19587,11 @@
       "Time": "2023-09-12T11:05:11.2726407+00:00",
       "NumProgressed": 714741,
       "NumCompleted": 12890
+    },
+    {
+      "Time": "2023-09-12T12:04:03.7993214+00:00",
+      "NumProgressed": 714750,
+      "NumCompleted": 12890
     }
   ],
   "TotalAchievements": 60,
@@ -19592,7 +19603,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "02_Vengeance_H1",
@@ -19600,7 +19611,7 @@
       "Name": "The Assault",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "03_Vengeance_H2",
@@ -19768,7 +19779,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -19856,7 +19867,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "35_WideStrike",
@@ -20071,21 +20082,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24042,
+      "Progressed": 24051,
       "Completed": 10615
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 714741,
+      "Progressed": 714750,
       "Completed": 12890
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-09-12T08:57:40.2082528+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:05:11.2726402+00:00",
+  "LastChanged": "2023-09-12T11:57:37.2882058+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:04:03.7993209+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.7541411+00:00",
-  "LastUpdate_Ratings": "2023-09-12T10:57:52.4998722+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:05:11.2728122+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:57:37.2882063+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:04:03.7994763+00:00"
 }

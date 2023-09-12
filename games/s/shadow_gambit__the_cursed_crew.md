@@ -1,7 +1,7 @@
 # Shadow Gambit: The Cursed Crew
 [Store](https://store.epicgames.com/en-US/p/shadow-gambit-the-cursed-crew-0bca60)  
 [View Rawdata](../../db/s/shadow_gambit__the_cursed_crew.json)  
-Rating: 4.73 (Ranked 163)  
+Rating: 4.69 (Ranked 216)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -80,3 +80,4 @@ Completed: 14 (2.22%) (Ranked 91)
 | 2023-09-07 | 4.80 | 0 | 0 |
 | 2023-09-08 | 4.81 | 0 | 0 |
 | 2023-09-09 | 4.73 | 0 | 0 |
+| 2023-09-12 | 4.69 | 0 | 0 |

@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107414,
+  "EOS_Progressed": 107416,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 917,
+  "EOS_NewPlayers": 914,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10596,6 +10596,11 @@
       "Time": "2023-09-12T11:08:49.9091298+00:00",
       "NumProgressed": 107414,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-09-12T12:06:42.4849084+00:00",
+      "NumProgressed": 107416,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 49,
@@ -10615,7 +10620,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81635
+      "UsersEstimate": 81636
     },
     {
       "ID": "EAwards_10",
@@ -10663,7 +10668,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10741
+      "UsersEstimate": 10742
     },
     {
       "ID": "EAwards_16",
@@ -10679,7 +10684,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38669
+      "UsersEstimate": 38670
     },
     {
       "ID": "EAwards_18",
@@ -10703,7 +10708,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51559
+      "UsersEstimate": 51560
     },
     {
       "ID": "EAwards_20",
@@ -10711,7 +10716,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10741
+      "UsersEstimate": 10742
     },
     {
       "ID": "EAwards_21",
@@ -10807,7 +10812,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10741
+      "UsersEstimate": 10742
     },
     {
       "ID": "EAwards_32",
@@ -10991,14 +10996,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10741
+      "UsersEstimate": 10742
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107414,
+      "Progressed": 107416,
       "Completed": 41
     }
   ],
@@ -11006,8 +11011,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:08:49.9091292+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:06:42.4849079+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.278544+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:00:16.7112843+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:08:49.9092421+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:59:21.7290653+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:06:42.4850147+00:00"
 }

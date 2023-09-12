@@ -2,12 +2,12 @@
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
   "ProductSlug": "total-war-warhammer-ii",
-  "Ranking_Rating": 203,
+  "Ranking_Rating": 202,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-04-28T14:00:00+00:00",
@@ -5285,10 +5285,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 14233,
       "NumberOfAwardsMax": 4532
+    },
+    {
+      "Time": "2023-09-12T12:00:02.2204704+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 14234,
+      "NumberOfAwardsMax": 4532
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14233,
+  "NumberOfAwards": 14234,
   "NumberOfAwardsMax": 4532,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5314,7 +5320,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1011
+      "Count": 1012
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5382,8 +5388,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2023-09-11T19:00:21.5250666+00:00",
+  "LastChanged": "2023-09-12T12:00:02.2204702+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:37.4616871+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:01:15.3637983+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:07:10.304155+00:00"
+  "LastUpdate_Ratings": "2023-09-12T12:00:02.2204708+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:05:29.3108249+00:00"
 }

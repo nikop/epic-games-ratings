@@ -5,10 +5,10 @@ Rating: 4.48 (Ranked 601)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,659 |
+| Meeting Resistance | 46.00% | ~1,660 |
 | Confirming Suspicions | 40.00% | ~1,443 |
 | The Kraken Wakes | 36.00% | ~1,299 |
-| It's Starting to Crack | 33.00% | ~1,190 |
+| It's Starting to Crack | 33.00% | ~1,191 |
 | Change the Channel | 30.00% | ~1,082 |
 | Lord of War | 29.00% | ~1,046 |
 | Taking it back | 28.00% | ~1,010 |
@@ -18,7 +18,7 @@ Rating: 4.48 (Ranked 601)
 | Liberté | 22.00% | ~794 |
 | Organ Grinder | 22.00% | ~794 |
 | As Quiet as a Mouse | 22.00% | ~794 |
-| Sharpshooter | 21.00% | ~757 |
+| Sharpshooter | 21.00% | ~758 |
 | Explosive Efficiency | 18.00% | ~649 |
 | Just a Flesh Wound | 17.00% | ~613 |
 | Gunslinger | 17.00% | ~613 |
@@ -33,11 +33,11 @@ Rating: 4.48 (Ranked 601)
 | No Stone Unturned | 13.00% | ~469 |
 | Opposing Force | 13.00% | ~469 |
 | Enemy at the Gates | 13.00% | ~469 |
-| Set Europe Ablaze | 12.00% | ~433 |
+| Set Europe Ablaze | 13.00% | ~469 |
 | Precision Is Key | 9.00% | ~325 |
 | My Little Friend | 9.00% | ~325 |
 | Rigged to Blow | 8.00% | ~289 |
-| Herr Today, Gone Tomorrow | 6.00% | ~213 |
+| Herr Today, Gone Tomorrow | 6.00% | ~214 |
 | The Long Game | 5.00% | ~180 |
 | It'll Buff Right Out | 5.00% | ~180 |
 | Don't hold your breath | 5.00% | ~180 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 601)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,607 (Ranked 157)  
+Progressed: 3,608 (Ranked 157)  
 Completed: 10 (0.28%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 10 (0.28%) (Ranked 184)
 | 2023-09-09 | 3,599 | 10 |
 | 2023-09-10 | 3,603 | 10 |
 | 2023-09-11 | 3,606 | 10 |
-| 2023-09-12 | 3,607 | 10 |
+| 2023-09-12 | 3,608 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

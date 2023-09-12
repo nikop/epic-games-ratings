@@ -2,12 +2,12 @@
   "ID": "e59da5b391d24c05ba6d9115b6e05459",
   "Name": "Ys IX: Monstrum Nox",
   "ProductSlug": "ys-ix-monstrum-nox",
-  "Ranking_Rating": 190,
+  "Ranking_Rating": 189,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-07-06T17:00:00+00:00",
@@ -158,6 +158,6 @@
   "FirstSeen": "2022-07-22T20:17:53.4070911+00:00",
   "LastChanged": "2023-09-05T21:59:53.8530206+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.8276151+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:02:10.1982355+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:08:27.1800099+00:00"
+  "LastUpdate_Ratings": "2023-09-12T12:00:44.4776583+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:06:26.0070064+00:00"
 }

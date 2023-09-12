@@ -1718,9 +1718,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 57965,
+  "EOS_Progressed": 57966,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17558,6 +17558,11 @@
       "Time": "2023-09-12T11:05:14.5477368+00:00",
       "NumProgressed": 57965,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-12T12:04:06.189683+00:00",
+      "NumProgressed": 57966,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -17857,7 +17862,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 36518
+      "UsersEstimate": 36519
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -17913,7 +17918,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 14491
+      "UsersEstimate": 14492
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -17985,7 +17990,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7536
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -18040,15 +18045,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 57965,
+      "Progressed": 57966,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-05T18:00:17.1389559+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:05:14.5477364+00:00",
+  "LastChanged_Achievements": "2023-09-12T12:04:06.1896824+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6621322+00:00",
-  "LastUpdate_Ratings": "2023-09-12T10:57:07.8789009+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:05:14.5479213+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:57:04.8703623+00:00",
+  "LastUpdate_Achievements": "2023-09-12T12:04:06.1898287+00:00"
 }

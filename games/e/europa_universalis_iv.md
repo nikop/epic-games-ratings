@@ -1,40 +1,40 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 217)  
+Rating: 4.69 (Ranked 216)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,024 |
-| That's a Grand Army | 3.00% | ~12,018 |
-| That is mine! | 3.00% | ~12,018 |
-| Victorious! | 3.00% | ~12,018 |
-| Brothers in Arms | 2.00% | ~8,012 |
-| For the Glory | 2.00% | ~8,012 |
-| That's a Grand Navy | 2.00% | ~8,012 |
-| Seriously?! | 2.00% | ~8,012 |
+| Until death do us apart | 4.00% | ~16,026 |
+| That's a Grand Army | 3.00% | ~12,019 |
+| That is mine! | 3.00% | ~12,019 |
+| Victorious! | 3.00% | ~12,019 |
+| Brothers in Arms | 2.00% | ~8,013 |
+| For the Glory | 2.00% | ~8,013 |
+| That's a Grand Navy | 2.00% | ~8,013 |
+| Seriously?! | 2.00% | ~8,013 |
 | Cold War | 1.00% | ~4,006 |
 | Defender of the Faith | 1.00% | ~4,006 |
 | It's all about the money | 1.00% | ~4,006 |
 | The Princess is in this Castle | 1.00% | ~4,006 |
 | True Catholic | 1.00% | ~4,006 |
-| Respected | 0.90% | ~3,605 |
-| Truly Divine Ruler | 0.90% | ~3,605 |
+| Respected | 0.90% | ~3,606 |
+| Truly Divine Ruler | 0.90% | ~3,606 |
 | It's all about luck | 0.80% | ~3,205 |
-| Blockader | 0.70% | ~2,804 |
-| Double the Love | 0.70% | ~2,804 |
-| Royal Authority | 0.70% | ~2,804 |
-| Total Control | 0.70% | ~2,804 |
+| Blockader | 0.70% | ~2,805 |
+| Double the Love | 0.70% | ~2,805 |
+| Royal Authority | 0.70% | ~2,805 |
+| Total Control | 0.70% | ~2,805 |
 | My armies are invincible! | 0.60% | ~2,404 |
 | Agressive Expander | 0.50% | ~2,003 |
 | City of Cities | 0.50% | ~2,003 |
 | Combined Arms | 0.50% | ~2,003 |
-| Azur semé de lis or | 0.40% | ~1,602 |
-| Factionalism | 0.40% | ~1,602 |
-| Gentle Persuasion | 0.40% | ~1,602 |
-| Queen of Conquest | 0.40% | ~1,602 |
-| This navy can take it all | 0.40% | ~1,602 |
+| Azur semé de lis or | 0.40% | ~1,603 |
+| Factionalism | 0.40% | ~1,603 |
+| Gentle Persuasion | 0.40% | ~1,603 |
+| Queen of Conquest | 0.40% | ~1,603 |
+| This navy can take it all | 0.40% | ~1,603 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,202 |
 | Bright Spark | 0.30% | ~1,202 |
 | Down Under | 0.30% | ~1,202 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,609 (Ranked 40)  
+Progressed: 400,646 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -506,7 +506,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 397,873 | 0 |
 | 2023-09-10 | 399,390 | 0 |
 | 2023-09-11 | 400,309 | 0 |
-| 2023-09-12 | 400,609 | 0 |
+| 2023-09-12 | 400,646 | 0 |
 ## Awards
 Max (Educational): 6,051  (Ranked 56)  
 Sum: 49,733 (Ranked 26)  
