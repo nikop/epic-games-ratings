@@ -39,8 +39,8 @@
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
-| 40 | [Scorn](games/s/scorn.md) | 7.01% |
-| 41 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.84% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.08% |
+| 41 | [Scorn](games/s/scorn.md) | 7.01% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.50% |
 | 43 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.34% |
@@ -62,7 +62,7 @@
 | 60 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.11% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 62 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.85% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.38% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
@@ -76,11 +76,11 @@
 | 74 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 75 | [Monster Harvest](games/m/monster_harvest.md) | 2.86% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 77 | [Eternights](games/e/eternights.md) | 2.78% |
-| 78 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.74% |
-| 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
-| 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
-| 81 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
+| 77 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.74% |
+| 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
+| 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
+| 81 | [Eternights](games/e/eternights.md) | 2.63% |
 | 82 | [The Bunker](games/t/the_bunker.md) | 2.59% |
 | 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 83 | [Lamentum](games/l/lamentum.md) | 2.50% |
@@ -560,6 +560,7 @@
 | 273 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 0.00% |
 | 273 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 0.00% |
 | 273 | [Time on Frog Island](games/t/time_on_frog_island.md) | 0.00% |
+| 273 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 0.00% |
 | 273 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 0.00% |
 | 273 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 0.00% |
 | 273 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 0.00% |
@@ -587,4 +588,4 @@
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,219 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,220 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
