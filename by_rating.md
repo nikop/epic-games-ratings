@@ -159,7 +159,7 @@
 | 146 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 517 |
 | 146 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 801 | 158 |
 | 146 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 517 |
-| 146 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 80 | 362 |
+| 146 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 80 | 363 |
 | 146 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 655 | 176 |
 | 146 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 517 |
 | 163 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 417 | 213 |
@@ -189,7 +189,7 @@
 | 173 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.72 | 0 | 517 |
 | 173 | [Timberborn](games/t/timberborn.md) | 4.72 | 136 | 309 |
 | 173 | [Townscaper](games/t/townscaper.md) | 4.72 | 0 | 517 |
-| 190 | [Barony](games/b/barony.md) | 4.71 | 80 | 362 |
+| 190 | [Barony](games/b/barony.md) | 4.71 | 80 | 363 |
 | 190 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 517 |
 | 190 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 445 |
 | 190 | [GNOG](games/g/gnog.md) | 4.71 | 0 | 517 |
@@ -356,7 +356,7 @@
 | 353 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 78,214 | 9 |
 | 353 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 243 |
 | 353 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 449 |
-| 353 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 80 | 362 |
+| 353 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 81 | 361 |
 | 353 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,477 | 125 |
 | 353 | [GigaBash](games/g/gigabash.md) | 4.62 | 0 | 517 |
 | 353 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.62 | 0 | 517 |
@@ -550,7 +550,7 @@
 | 547 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 790 | 159 |
 | 547 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,121 | 79 |
 | 547 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 517 |
-| 547 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 147,988 | 7 |
+| 547 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 148,056 | 7 |
 | 547 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,748 | 95 |
 | 547 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 110 | 330 |
 | 547 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 149 | 302 |
@@ -793,7 +793,7 @@
 | 789 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 517 |
 | 789 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 517 |
 | 789 | [Dark Light](games/d/dark_light.md) | 4.31 | 0 | 517 |
-| 789 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 80 | 362 |
+| 789 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.31 | 80 | 363 |
 | 789 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 964 | 147 |
 | 789 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 517 |
 | 789 | [War Mongrels](games/w/war_mongrels.md) | 4.31 | 0 | 517 |
@@ -835,7 +835,7 @@
 | 827 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 239 |
 | 834 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 517 |
 | 834 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 498 |
-| 834 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,076 | 139 |
+| 834 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,077 | 138 |
 | 834 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 0 | 517 |
 | 834 | [Saturnalia](games/s/saturnalia.md) | 4.25 | 0 | 517 |
 | 834 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 517 |
