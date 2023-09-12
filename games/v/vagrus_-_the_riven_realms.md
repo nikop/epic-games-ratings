@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 55.00% | ~75 |
+| A Second Chance | 55.00% | ~76 |
 | Press-ganged | 38.00% | ~52 |
 | The Package | 23.00% | ~32 |
 | Randomized | 17.00% | ~23 |
@@ -22,17 +22,17 @@
 | Harbinger | 5.00% | ~7 |
 | Courier | 5.00% | ~7 |
 | Spiritual Journey | 5.00% | ~7 |
-| Quartermaster | 4.00% | ~5 |
-| Strategist | 4.00% | ~5 |
-| Potential Unlocked | 4.00% | ~5 |
-| Deputized | 4.00% | ~5 |
-| The Voice of Hereafter | 4.00% | ~5 |
-| Been There | 4.00% | ~5 |
-| A Terrible Will | 4.00% | ~5 |
-| Pilgrimage's End | 4.00% | ~5 |
-| Inquisitions of Discord | 4.00% | ~5 |
-| Merchant | 4.00% | ~5 |
-| Trouble at Fort Larius | 4.00% | ~5 |
+| Quartermaster | 4.00% | ~6 |
+| Strategist | 4.00% | ~6 |
+| Potential Unlocked | 4.00% | ~6 |
+| Deputized | 4.00% | ~6 |
+| The Voice of Hereafter | 4.00% | ~6 |
+| Been There | 4.00% | ~6 |
+| A Terrible Will | 4.00% | ~6 |
+| Pilgrimage's End | 4.00% | ~6 |
+| Inquisitions of Discord | 4.00% | ~6 |
+| Merchant | 4.00% | ~6 |
+| Trouble at Fort Larius | 4.00% | ~6 |
 | Supercargo | 3.00% | ~4 |
 | Xevarian Gambit | 3.00% | ~4 |
 | Despised | 3.00% | ~4 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 331)  
+Progressed: 138 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-08-24 | 133 | 0 |
 | 2023-08-26 | 134 | 0 |
 | 2023-09-03 | 135 | 0 |
-| 2023-09-12 | 137 | 0 |
+| 2023-09-12 | 138 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

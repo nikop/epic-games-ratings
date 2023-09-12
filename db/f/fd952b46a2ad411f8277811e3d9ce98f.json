@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4081,
+  "EOS_Progressed": 4086,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2231,
+  "EOS_NewPlayers": 2235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1509,6 +1509,11 @@
       "Time": "2023-09-12T21:07:12.5752138+00:00",
       "NumProgressed": 4081,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T22:06:42.976621+00:00",
+      "NumProgressed": 4086,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -1617,7 +1622,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1512
     },
     {
       "ID": "kills_100",
@@ -1713,7 +1718,7 @@
       "Name": "Top Toy",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "top10_10",
@@ -1753,7 +1758,7 @@
       "Name": "Toy Commander",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ziplineDistanceTravelled_10000",
@@ -1768,13 +1773,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 4081,
+      "Progressed": 4086,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2023-09-12T21:07:12.5752133+00:00",
+  "LastChanged_Achievements": "2023-09-12T22:06:42.9766206+00:00",
   "LastUpdate_AppInfo": "2023-09-06T09:57:05.1729887+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:57:50.3180177+00:00",
-  "LastUpdate_Achievements": "2023-09-12T21:07:12.5752463+00:00"
+  "LastUpdate_Ratings": "2023-09-12T21:57:44.4616213+00:00",
+  "LastUpdate_Achievements": "2023-09-12T22:06:42.9766516+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,370 |
-| Right Back At Ya | 39.00% | ~341,601 |
-| The Lovers | 35.00% | ~306,565 |
-| Stanislavski's Method | 29.00% | ~254,011 |
-| The Wheel of Fortune | 28.00% | ~245,252 |
-| The Hermit | 25.00% | ~218,975 |
-| Christmas Tree Attack | 23.00% | ~201,457 |
-| True Soldier | 23.00% | ~201,457 |
-| The High Priestess | 22.00% | ~192,698 |
-| Legend of The Afterlife | 22.00% | ~192,698 |
-| Life of the Road | 21.00% | ~183,939 |
-| Full Body Conversion | 18.00% | ~157,662 |
-| The World | 18.00% | ~157,662 |
-| Bushido and Chill | 17.00% | ~148,903 |
-| Gun Fu | 15.00% | ~131,385 |
+| The Fool | 69.00% | ~604,373 |
+| Right Back At Ya | 39.00% | ~341,602 |
+| The Lovers | 35.00% | ~306,566 |
+| Stanislavski's Method | 29.00% | ~254,012 |
+| The Wheel of Fortune | 28.00% | ~245,253 |
+| The Hermit | 25.00% | ~218,976 |
+| Christmas Tree Attack | 23.00% | ~201,458 |
+| True Soldier | 23.00% | ~201,458 |
+| The High Priestess | 22.00% | ~192,699 |
+| Legend of The Afterlife | 22.00% | ~192,699 |
+| Life of the Road | 21.00% | ~183,940 |
+| Full Body Conversion | 18.00% | ~157,663 |
+| The World | 18.00% | ~157,663 |
+| Bushido and Chill | 17.00% | ~148,904 |
+| Gun Fu | 16.00% | ~140,144 |
 | True Warrior | 15.00% | ~131,385 |
 | To Protect and Serve | 14.00% | ~122,626 |
 | Master Crafter | 14.00% | ~122,626 |
@@ -49,10 +49,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Daemon In The Shell | 2.00% | ~17,518 |
 | The Devil | 2.00% | ~17,518 |
 | Gunslinger | 1.00% | ~8,759 |
-| Rough Landing | 0.50% | ~4,379 |
+| Rough Landing | 0.50% | ~4,380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,899 (Ranked 14)  
-Completed: 2,082 (0.24%) (Ranked 189)  
+Progressed: 875,903 (Ranked 14)  
+Completed: 2,083 (0.24%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,7 +196,7 @@ Completed: 2,082 (0.24%) (Ranked 189)
 | 2023-09-09 | 875,450 | 2,075 |
 | 2023-09-10 | 875,656 | 2,075 |
 | 2023-09-11 | 875,775 | 2,079 |
-| 2023-09-12 | 875,899 | 2,082 |
+| 2023-09-12 | 875,903 | 2,083 |
 ## Awards
 Max (Character Customization): 78,334  (Ranked 9)  
 Sum: 209,302 (Ranked 13)  

@@ -20,6 +20,8 @@ Rating: 4.50 (Ranked 563)
 | Fully Upgraded | 0.10% | ~26 |
 | Ghostbuster In Training | 0.10% | ~26 |
 | Icing on the Cake | 0.10% | ~26 |
+| Line em' up | 0.10% | ~26 |
+| Little Help Here | 0.10% | ~26 |
 | Pesky Jerks | 0.10% | ~26 |
 | Rivalry | 0.10% | ~26 |
 | Seasoned | 0.10% | ~26 |
@@ -44,8 +46,6 @@ Rating: 4.50 (Ranked 563)
 | Ghost Expert | 0.00% | ~0 |
 | Legions | 0.00% | ~0 |
 | Liability | 0.00% | ~0 |
-| Line em' up | 0.00% | ~0 |
-| Little Help Here | 0.00% | ~0 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
 | Reckless | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 563)
 | Tobin's Prodigy | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,766 (Ranked 104)  
+Progressed: 25,767 (Ranked 104)  
 Completed: 55 (0.21%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 55 (0.21%) (Ranked 196)
 | 2023-09-09 | 25,714 | 55 |
 | 2023-09-10 | 25,740 | 55 |
 | 2023-09-11 | 25,755 | 55 |
-| 2023-09-12 | 25,766 | 55 |
+| 2023-09-12 | 25,767 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 253)  
 Sum: 2,306 (Ranked 188)  

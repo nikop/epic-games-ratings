@@ -5,21 +5,21 @@ Rating: 4.27 (Ranked 821)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,731 |
-| Copacetic Coordination | 16.00% | ~54,863 |
-| Fronting the Money | 15.00% | ~51,434 |
-| The Dawn of Automation | 14.00% | ~48,005 |
-| Extraordinary Logistics | 14.00% | ~48,005 |
-| Dirty Money | 13.00% | ~44,576 |
-| Family First | 13.00% | ~44,576 |
-| Cleaning House | 12.00% | ~41,147 |
-| Room in the Back | 12.00% | ~41,147 |
-| Beating the Heat | 11.00% | ~37,718 |
-| Booze Baron | 11.00% | ~37,718 |
-| Friends on the Force | 10.00% | ~34,289 |
-| Neighborhood Watch | 10.00% | ~34,289 |
-| Core Corps | 8.00% | ~27,431 |
-| Sizeable Stash | 8.00% | ~27,431 |
+| Corner Clout | 46.00% | ~157,734 |
+| Copacetic Coordination | 16.00% | ~54,864 |
+| Fronting the Money | 15.00% | ~51,435 |
+| The Dawn of Automation | 14.00% | ~48,006 |
+| Extraordinary Logistics | 14.00% | ~48,006 |
+| Dirty Money | 13.00% | ~44,577 |
+| Family First | 13.00% | ~44,577 |
+| Cleaning House | 12.00% | ~41,148 |
+| Room in the Back | 12.00% | ~41,148 |
+| Beating the Heat | 11.00% | ~37,719 |
+| Booze Baron | 11.00% | ~37,719 |
+| Friends on the Force | 10.00% | ~34,290 |
+| Neighborhood Watch | 10.00% | ~34,290 |
+| Core Corps | 8.00% | ~27,432 |
+| Sizeable Stash | 8.00% | ~27,432 |
 | Street Fighter | 7.00% | ~24,003 |
 | Friendly Gestures | 7.00% | ~24,003 |
 | People Person | 7.00% | ~24,003 |
@@ -64,7 +64,7 @@ Rating: 4.27 (Ranked 821)
 | Boots in the Ground | 0.80% | ~2,743 |
 | Getting Fancy | 0.80% | ~2,743 |
 | Crossing Over | 0.80% | ~2,743 |
-| Social Butterfly | 0.50% | ~1,714 |
+| Social Butterfly | 0.50% | ~1,715 |
 | Homemade Hooch | 0.40% | ~1,372 |
 | Still Dreaming | 0.40% | ~1,372 |
 | High End Booze | 0.40% | ~1,372 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 821)
 | High Pillow | 0.10% | ~343 |
 | Station Master | 0.10% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,893 (Ranked 42)  
+Progressed: 342,901 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 7 (0.00%) (Ranked 273)
 | 2023-09-09 | 342,398 | 7 |
 | 2023-09-10 | 342,620 | 7 |
 | 2023-09-11 | 342,759 | 7 |
-| 2023-09-12 | 342,893 | 7 |
+| 2023-09-12 | 342,901 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 435)  
 Sum: 192 (Ranked 377)  

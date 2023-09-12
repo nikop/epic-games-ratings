@@ -25,7 +25,7 @@
 | Spirit of the past | 64.00% | ~207 |
 | Workout professional | 62.00% | ~200 |
 | Law student | 62.00% | ~200 |
-| Handyman | 60.00% | ~194 |
+| Handyman | 61.00% | ~197 |
 | Champion – starter pack | 60.00% | ~194 |
 | It's good to be alive | 60.00% | ~194 |
 | Own four walls | 60.00% | ~194 |
@@ -45,8 +45,8 @@
 | Underground dwellers | 42.00% | ~136 |
 | Responsible approach | 42.00% | ~136 |
 | Deal with life | 41.00% | ~132 |
+| GYM professional | 41.00% | ~132 |
 | Mom got better | 40.00% | ~129 |
-| GYM professional | 40.00% | ~129 |
 | Poisoned fighter | 40.00% | ~129 |
 | Get out of my apartment! | 40.00% | ~129 |
 | The die is cast | 40.00% | ~129 |

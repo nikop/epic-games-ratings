@@ -6,12 +6,12 @@ Rating: 4.48 (Ranked 602)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 46.00% | ~1,660 |
-| Confirming Suspicions | 40.00% | ~1,443 |
+| Confirming Suspicions | 40.00% | ~1,444 |
 | The Kraken Wakes | 36.00% | ~1,299 |
 | It's Starting to Crack | 33.00% | ~1,191 |
-| Change the Channel | 30.00% | ~1,082 |
-| Lord of War | 29.00% | ~1,046 |
-| Taking it back | 28.00% | ~1,010 |
+| Change the Channel | 30.00% | ~1,083 |
+| Lord of War | 29.00% | ~1,047 |
+| Taking it back | 28.00% | ~1,011 |
 | Resourceful | 26.00% | ~938 |
 | Target America | 26.00% | ~938 |
 | The Kraken Sleeps | 23.00% | ~830 |
@@ -19,9 +19,9 @@ Rating: 4.48 (Ranked 602)
 | Organ Grinder | 22.00% | ~794 |
 | As Quiet as a Mouse | 22.00% | ~794 |
 | Sharpshooter | 21.00% | ~758 |
-| Explosive Efficiency | 18.00% | ~649 |
-| Just a Flesh Wound | 17.00% | ~613 |
-| Gunslinger | 17.00% | ~613 |
+| Explosive Efficiency | 18.00% | ~650 |
+| Just a Flesh Wound | 17.00% | ~614 |
+| Gunslinger | 17.00% | ~614 |
 | Climbing the Ladder | 16.00% | ~577 |
 | Der Geist | 16.00% | ~577 |
 | Close Quarters | 15.00% | ~541 |
@@ -33,7 +33,7 @@ Rating: 4.48 (Ranked 602)
 | No Stone Unturned | 13.00% | ~469 |
 | Opposing Force | 13.00% | ~469 |
 | Enemy at the Gates | 13.00% | ~469 |
-| Set Europe Ablaze | 13.00% | ~469 |
+| Set Europe Ablaze | 12.00% | ~433 |
 | Precision Is Key | 9.00% | ~325 |
 | My Little Friend | 9.00% | ~325 |
 | Rigged to Blow | 8.00% | ~289 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 602)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,608 (Ranked 158)  
+Progressed: 3,609 (Ranked 158)  
 Completed: 10 (0.28%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 10 (0.28%) (Ranked 184)
 | 2023-09-09 | 3,599 | 10 |
 | 2023-09-10 | 3,603 | 10 |
 | 2023-09-11 | 3,606 | 10 |
-| 2023-09-12 | 3,608 | 10 |
+| 2023-09-12 | 3,609 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

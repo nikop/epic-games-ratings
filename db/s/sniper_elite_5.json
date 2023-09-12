@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -518,9 +518,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3608,
+  "EOS_Progressed": 3609,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6628,6 +6628,11 @@
       "Time": "2023-09-12T12:03:40.8185295+00:00",
       "NumProgressed": 3608,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-12T22:03:56.1185632+00:00",
+      "NumProgressed": 3609,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6695,7 +6700,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -6759,7 +6764,7 @@
       "Name": "Gunslinger",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -6789,9 +6794,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 469
+      "UsersEstimate": 433
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -6807,7 +6812,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6839,7 +6844,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -6847,7 +6852,7 @@
       "Name": "Lord of War",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -6975,7 +6980,7 @@
       "Name": "Change the Channel",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -7007,7 +7012,7 @@
       "Name": "Taking it back",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -7206,13 +7211,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3559,
+      "Progressed": 3560,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3608,
+      "Progressed": 3609,
       "Completed": 10
     }
   ],
@@ -7220,8 +7225,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-10T22:58:36.5752206+00:00",
-  "LastChanged_Achievements": "2023-09-12T21:04:25.9587456+00:00",
+  "LastChanged_Achievements": "2023-09-12T22:03:56.1185626+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:59:15.890557+00:00",
-  "LastUpdate_Achievements": "2023-09-12T21:04:25.9588626+00:00"
+  "LastUpdate_Ratings": "2023-09-12T21:59:11.2929136+00:00",
+  "LastUpdate_Achievements": "2023-09-12T22:03:56.1186777+00:00"
 }

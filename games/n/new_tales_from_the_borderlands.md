@@ -1,28 +1,28 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.09 (Ranked 917)  
+Rating: 4.09 (Ranked 916)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 50.00% | ~1,816 |
-| Totally Intentional | 45.00% | ~1,634 |
-| Each Sold Separately | 37.00% | ~1,343 |
-| We're In | 33.00% | ~1,198 |
-| You're Not Naked | 29.00% | ~1,053 |
-| From Zeroes... | 29.00% | ~1,053 |
-| Tale in the Toilet | 29.00% | ~1,053 |
-| Don't Get Cocky | 27.00% | ~980 |
-| Shard Snatchers | 24.00% | ~871 |
+| Totally Intentional | 45.00% | ~1,635 |
+| Each Sold Separately | 37.00% | ~1,344 |
+| We're In | 33.00% | ~1,199 |
+| You're Not Naked | 29.00% | ~1,054 |
+| From Zeroes... | 29.00% | ~1,054 |
+| Tale in the Toilet | 29.00% | ~1,054 |
+| Don't Get Cocky | 27.00% | ~981 |
+| Shard Snatchers | 24.00% | ~872 |
 | You Rich Now! | 22.00% | ~799 |
 | Our Lucky Winner | 21.00% | ~763 |
-| You Poor Now! | 20.00% | ~726 |
-| You Got the Goods, Kid | 20.00% | ~726 |
+| You Poor Now! | 20.00% | ~727 |
+| You Got the Goods, Kid | 20.00% | ~727 |
 | The Shardmenstration | 19.00% | ~690 |
 | Those Were the Days... | 19.00% | ~690 |
 | ...To Heroes | 18.00% | ~654 |
-| Mas, Por Favor | 17.00% | ~617 |
-| And Still Champion... | 14.00% | ~508 |
+| Mas, Por Favor | 17.00% | ~618 |
+| And Still Champion... | 14.00% | ~509 |
 | Super Trusting Friend! | 9.00% | ~327 |
 | Bring back the butt! | 4.00% | ~145 |
 | Hey, thanks! | 4.00% | ~145 |
@@ -32,7 +32,7 @@ Rating: 4.09 (Ranked 917)
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,631 (Ranked 157)  
+Progressed: 3,633 (Ranked 157)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 3,615 | 0 |
 | 2023-09-10 | 3,623 | 0 |
 | 2023-09-11 | 3,627 | 0 |
-| 2023-09-12 | 3,631 | 0 |
+| 2023-09-12 | 3,633 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

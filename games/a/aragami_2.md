@@ -9,20 +9,20 @@ Number of Ratings: 88  (23.09.2022)
 | Awakening | 93.00% | ~39,983 |
 | First Steps | 80.00% | ~34,394 |
 | Control the Shadows | 67.00% | ~28,805 |
-| Tools of the Trade | 63.00% | ~27,085 |
-| Apprentice | 60.00% | ~25,795 |
-| Secret Seeker | 57.00% | ~24,505 |
+| Tools of the Trade | 63.00% | ~27,086 |
+| Apprentice | 60.00% | ~25,796 |
+| Secret Seeker | 57.00% | ~24,506 |
 | Forge of Assassins | 55.00% | ~23,646 |
 | Revenant | 52.00% | ~22,356 |
-| I don’t Care! | 45.00% | ~19,346 |
+| I don’t Care! | 45.00% | ~19,347 |
 | Bird of Prey | 37.00% | ~15,907 |
-| Engraved with Power | 32.00% | ~13,757 |
+| Engraved with Power | 32.00% | ~13,758 |
 | Lady | 31.00% | ~13,328 |
 | Fashionable Assassin | 27.00% | ~11,608 |
 | Apex Predator | 24.00% | ~10,318 |
 | Soul Reaver | 22.00% | ~9,458 |
-| Embers | 21.00% | ~9,028 |
-| Wall Lizard | 20.00% | ~8,598 |
+| Embers | 21.00% | ~9,029 |
+| Wall Lizard | 20.00% | ~8,599 |
 | Clinging to Life | 18.00% | ~7,739 |
 | Burning | 17.00% | ~7,309 |
 | Look Behind You | 16.00% | ~6,879 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | Denouement | 8.00% | ~3,439 |
 | The Hidden Village | 8.00% | ~3,439 |
 | A Pleasant Stay | 8.00% | ~3,439 |
-| Pilgrimage | 7.00% | ~3,009 |
+| Pilgrimage | 7.00% | ~3,010 |
 | The Lookout | 5.00% | ~2,150 |
 | The Spirit of Vengeance | 5.00% | ~2,150 |
 | Hollow | 5.00% | ~2,150 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~430 |
 | Anger Management | 1.00% | ~430 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,992 (Ranked 94)  
+Progressed: 42,993 (Ranked 94)  
 Completed: 231 (0.54%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 231 (0.54%) (Ranked 151)
 | 2023-09-09 | 42,757 | 220 |
 | 2023-09-10 | 42,865 | 225 |
 | 2023-09-11 | 42,945 | 229 |
-| 2023-09-12 | 42,992 | 231 |
+| 2023-09-12 | 42,993 | 231 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

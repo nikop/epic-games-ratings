@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -914,11 +914,17 @@
       "Rating": 4.34,
       "NumberOfAwards": 1461,
       "NumberOfAwardsMax": 204
+    },
+    {
+      "Time": "2023-09-12T22:00:03.6263598+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1462,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1461,
-  "NumberOfAwardsMax": 204,
+  "NumberOfAwards": 1462,
+  "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -955,7 +961,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 204
+      "Count": 205
     },
     {
       "Text": "This game is Highly Recommended",
@@ -982,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2741,
+  "EOS_Progressed": 2747,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1286,
+  "EOS_NewPlayers": 1287,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2587,6 +2593,11 @@
       "Time": "2023-09-12T21:05:15.2233591+00:00",
       "NumProgressed": 2741,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-12T22:04:45.7597321+00:00",
+      "NumProgressed": 2747,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2647,7 +2658,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 959
+      "UsersEstimate": 961
     },
     {
       "ID": "a_19",
@@ -2655,7 +2666,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "a_2",
@@ -2846,16 +2857,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2741,
+      "Progressed": 2747,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-09-11T22:59:49.0882552+00:00",
-  "LastChanged_Achievements": "2023-09-12T21:05:15.2233587+00:00",
+  "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
+  "LastChanged_Achievements": "2023-09-12T22:04:45.7597317+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-12T21:00:04.8051979+00:00",
-  "LastUpdate_Achievements": "2023-09-12T21:05:15.2233935+00:00"
+  "LastUpdate_Ratings": "2023-09-12T22:00:03.6263601+00:00",
+  "LastUpdate_Achievements": "2023-09-12T22:04:45.759766+00:00"
 }

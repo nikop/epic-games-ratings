@@ -9,7 +9,7 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 55.00% | ~3,743 |
 | Tutti Eroi! | 55.00% | ~3,743 |
 | You Shall Not Pass | 53.00% | ~3,607 |
-| Avanti Savoia! | 48.00% | ~3,266 |
+| Avanti Savoia! | 48.00% | ~3,267 |
 | Mamma Mia! | 38.00% | ~2,586 |
 | Conrad von Hotzensocks | 36.00% | ~2,450 |
 | Gabriele D'Annunzio | 34.00% | ~2,314 |
@@ -31,10 +31,10 @@ Number of Ratings: 98  (23.09.2022)
 | Thus With A Kiss | 13.00% | ~885 |
 | The Devil's Paintbrush | 12.00% | ~817 |
 | Dante's Inferno | 11.00% | ~749 |
-| I Have the High Ground | 10.00% | ~680 |
-| Millenial | 10.00% | ~680 |
-| The Show Must Go On | 9.00% | ~612 |
-| Tosca | 9.00% | ~612 |
+| I Have the High Ground | 10.00% | ~681 |
+| Millenial | 10.00% | ~681 |
+| The Show Must Go On | 9.00% | ~613 |
+| Tosca | 9.00% | ~613 |
 | 12th Bottle of the Isonzo | 7.00% | ~476 |
 | Cercatore d'Oro | 6.00% | ~408 |
 | The Enlightment | 6.00% | ~408 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,805 (Ranked 140)  
+Progressed: 6,806 (Ranked 140)  
 Completed: 8 (0.12%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 8 (0.12%) (Ranked 212)
 | 2023-09-09 | 6,761 | 8 |
 | 2023-09-10 | 6,775 | 8 |
 | 2023-09-11 | 6,791 | 8 |
-| 2023-09-12 | 6,805 | 8 |
+| 2023-09-12 | 6,806 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 441)  
 Sum: 273 (Ranked 351)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5069,9 +5069,9 @@
       "ID": "A49",
       "SetID": "9b7p7eo",
       "Name": "Financial Shark",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 586
     },
     {
       "ID": "A50",
@@ -5126,8 +5126,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-09-12T04:00:17.7506037+00:00",
-  "LastChanged_Achievements": "2023-09-12T21:08:06.2079961+00:00",
+  "LastChanged_Achievements": "2023-09-12T22:08:05.6930903+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:16.7503136+00:00",
-  "LastUpdate_Ratings": "2023-09-12T21:00:23.5580664+00:00",
-  "LastUpdate_Achievements": "2023-09-12T21:08:06.2080769+00:00"
+  "LastUpdate_Ratings": "2023-09-12T22:00:22.9699796+00:00",
+  "LastUpdate_Achievements": "2023-09-12T22:08:05.6931705+00:00"
 }

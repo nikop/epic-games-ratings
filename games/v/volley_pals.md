@@ -12,7 +12,7 @@
 | Ball Disposal Facility | 38.00% | ~42 |
 | Mecha Wars | 37.00% | ~41 |
 | Sewer | 35.00% | ~38 |
-| Arcade | 33.00% | ~36 |
+| Arcade | 34.00% | ~37 |
 | Custom Court | 28.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 110 (Ranked 340)  

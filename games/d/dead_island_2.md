@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 2.00% | ~13,575 |
-| Hotel California | 2.00% | ~13,575 |
-| Welcome To Hell-A | 2.00% | ~13,575 |
+| Break A Leg | 2.00% | ~13,576 |
+| Hotel California | 2.00% | ~13,576 |
+| Welcome To Hell-A | 2.00% | ~13,576 |
 | Dr. Reed, I Presume? | 1.00% | ~6,788 |
 | Git Gutte! | 1.00% | ~6,788 |
 | Bookworm | 1.00% | ~6,788 |
@@ -31,8 +31,8 @@ Rating: 4.54 (Ranked 502)
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,109 |
 | Ooh, Shiny! | 0.90% | ~6,109 |
 | Humanity Distilled | 0.80% | ~5,430 |
-| Making Your Mark | 0.70% | ~4,751 |
-| Down with the Sickness | 0.70% | ~4,751 |
+| Making Your Mark | 0.70% | ~4,752 |
+| Down with the Sickness | 0.70% | ~4,752 |
 | Max Headroom | 0.60% | ~4,073 |
 | Jumbo Keyring | 0.50% | ~3,394 |
 | Go, Bobcats! | 0.50% | ~3,394 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,759 (Ranked 22)  
+Progressed: 678,788 (Ranked 22)  
 Completed: 2,142 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2,142 (0.32%) (Ranked 178)
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
-| 2023-09-12 | 678,759 | 2,142 |
+| 2023-09-12 | 678,788 | 2,142 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
 Sum: 8,905 (Ranked 94)  

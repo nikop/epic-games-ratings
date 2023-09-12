@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 690,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 14.78,
   "EosHistory": [
@@ -2870,9 +2870,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 248
+      "UsersEstimate": 255
     },
     {
       "ID": "LEVEL_008",
@@ -3007,8 +3007,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-12T21:05:41.7587038+00:00",
+  "LastChanged_Achievements": "2023-09-12T22:05:12.3095158+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-12T21:00:15.1229944+00:00",
-  "LastUpdate_Achievements": "2023-09-12T21:05:41.7587425+00:00"
+  "LastUpdate_Ratings": "2023-09-12T22:00:14.0455681+00:00",
+  "LastUpdate_Achievements": "2023-09-12T22:05:12.309549+00:00"
 }

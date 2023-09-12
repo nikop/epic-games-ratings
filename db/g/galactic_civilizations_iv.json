@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -888,7 +888,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6609,
+  "EOS_Progressed": 6610,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -6033,6 +6033,11 @@
       "Time": "2023-09-12T18:05:53.3874708+00:00",
       "NumProgressed": 6609,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T22:05:01.1317886+00:00",
+      "NumProgressed": 6610,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6148,7 +6153,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5221
+      "UsersEstimate": 5222
     },
     {
       "ID": "First_Race_Met",
@@ -6180,7 +6185,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6532,7 +6537,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4428
+      "UsersEstimate": 4429
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6619,15 +6624,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6609,
+      "Progressed": 6610,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-11T19:00:34.5129053+00:00",
-  "LastChanged_Achievements": "2023-09-12T21:05:30.5766859+00:00",
+  "LastChanged_Achievements": "2023-09-12T22:05:01.1317882+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:41.0141576+00:00",
-  "LastUpdate_Ratings": "2023-09-12T21:00:07.2174362+00:00",
-  "LastUpdate_Achievements": "2023-09-12T21:05:30.5767963+00:00"
+  "LastUpdate_Ratings": "2023-09-12T22:00:06.1371275+00:00",
+  "LastUpdate_Achievements": "2023-09-12T22:05:01.1318852+00:00"
 }

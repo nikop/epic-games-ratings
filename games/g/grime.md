@@ -6,23 +6,23 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~130,412 |
-| Taste | 84.00% | ~124,484 |
-| The Hunt | 66.00% | ~97,809 |
-| Ravenous | 63.00% | ~93,363 |
-| Weeper | 43.00% | ~63,724 |
-| Devourer | 23.00% | ~34,085 |
-| Harmless | 19.00% | ~28,157 |
-| Silenced Whispers | 19.00% | ~28,157 |
-| Sharpened Vessel | 16.00% | ~23,711 |
-| Yank | 15.00% | ~22,229 |
-| Scion | 12.00% | ~17,733 |
-| Jawcrab | 12.00% | ~17,783 |
-| Jawstag | 12.00% | ~17,783 |
-| Feast | 12.00% | ~17,783 |
+| Imprint | 88.00% | ~130,418 |
+| Taste | 84.00% | ~124,490 |
+| The Hunt | 66.00% | ~97,813 |
+| Ravenous | 63.00% | ~93,367 |
+| Weeper | 43.00% | ~63,727 |
+| Devourer | 23.00% | ~34,086 |
+| Harmless | 19.00% | ~28,158 |
+| Silenced Whispers | 19.00% | ~28,158 |
+| Sharpened Vessel | 16.00% | ~23,712 |
+| Yank | 15.00% | ~22,230 |
+| Scion | 12.00% | ~17,734 |
+| Jawcrab | 12.00% | ~17,784 |
+| Jawstag | 12.00% | ~17,784 |
+| Feast | 12.00% | ~17,784 |
 | Watcher | 10.00% | ~14,820 |
 | Shapely | 9.00% | ~13,338 |
-| Glare | 9.00% | ~13,300 |
+| Glare | 9.00% | ~13,301 |
 | Predator | 8.00% | ~11,856 |
 | Assimilation | 7.00% | ~10,374 |
 | Host | 6.00% | ~8,867 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.80% | ~1,186 |
 | Spiral Heart | 0.10% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,195 (Ranked 66)  
+Progressed: 148,202 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.00%) (Ranked 273)
 | 2023-09-09 | 147,411 | 1 |
 | 2023-09-10 | 147,746 | 1 |
 | 2023-09-11 | 147,973 | 1 |
-| 2023-09-12 | 148,195 | 1 |
+| 2023-09-12 | 148,202 | 1 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 454)  
 Sum: 217 (Ranked 368)  

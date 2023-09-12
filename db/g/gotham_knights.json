@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2852,9 +2852,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72473,
+  "EOS_Progressed": 72474,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 1291,
+  "EOS_NewPlayers": 1272,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15257,6 +15257,11 @@
       "Time": "2023-09-12T21:06:43.909895+00:00",
       "NumProgressed": 72473,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-12T22:06:14.3424559+00:00",
+      "NumProgressed": 72474,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15372,7 +15377,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15219
+      "UsersEstimate": 15220
     },
     {
       "ID": "CLAYFACE_2",
@@ -15428,7 +15433,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9421
+      "UsersEstimate": 9422
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -15476,7 +15481,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9421
+      "UsersEstimate": 9422
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -15492,7 +15497,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20292
+      "UsersEstimate": 20293
     },
     {
       "ID": "FREEZE_1_5",
@@ -15692,7 +15697,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12320
+      "UsersEstimate": 12321
     },
     {
       "ID": "MYSTERY_06",
@@ -15708,7 +15713,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9421
+      "UsersEstimate": 9422
     },
     {
       "ID": "MYSTERY_08",
@@ -15755,13 +15760,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72473,
+      "Progressed": 72474,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42753,
+      "Progressed": 42754,
       "Completed": 2663
     }
   ],
@@ -15769,8 +15774,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-12T09:58:01.1346988+00:00",
-  "LastChanged_Achievements": "2023-09-12T21:06:43.9098946+00:00",
+  "LastChanged_Achievements": "2023-09-12T22:06:14.3424555+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:58:02.5125801+00:00",
-  "LastUpdate_Achievements": "2023-09-12T21:06:43.9100398+00:00"
+  "LastUpdate_Ratings": "2023-09-12T21:57:56.6815744+00:00",
+  "LastUpdate_Achievements": "2023-09-12T22:06:14.3425996+00:00"
 }

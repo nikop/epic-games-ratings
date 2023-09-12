@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 97,
+  "Ranking_EOS_NewCompleters": 98,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -607,9 +607,9 @@
       "ID": "ThirdGrade",
       "SetID": "6l18k14",
       "Name": "3rd Grade",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Unlucky",
@@ -632,8 +632,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-09-12T21:04:55.2990053+00:00",
+  "LastChanged_Achievements": "2023-09-12T22:04:25.6340116+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:02.5103742+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:58:21.0639253+00:00",
-  "LastUpdate_Achievements": "2023-09-12T21:04:55.2990226+00:00"
+  "LastUpdate_Ratings": "2023-09-12T21:58:16.0766543+00:00",
+  "LastUpdate_Achievements": "2023-09-12T22:04:25.6340254+00:00"
 }
