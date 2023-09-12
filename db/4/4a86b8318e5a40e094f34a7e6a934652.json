@@ -513,9 +513,9 @@
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
       "SetID": "aniflfk",
       "Name": "Empty Shelves",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CATCH_30_FISH",
@@ -648,8 +648,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-12T10:05:15.8675016+00:00",
+  "LastChanged_Achievements": "2023-09-12T11:06:09.2741719+00:00",
   "LastUpdate_AppInfo": "2023-09-06T13:02:40.7586567+00:00",
-  "LastUpdate_Ratings": "2023-09-12T09:59:31.8176935+00:00",
-  "LastUpdate_Achievements": "2023-09-12T10:05:15.8675184+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:00:32.1583587+00:00",
+  "LastUpdate_Achievements": "2023-09-12T11:06:09.2741885+00:00"
 }

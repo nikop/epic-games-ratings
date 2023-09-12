@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
@@ -2140,9 +2140,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 39721,
+  "EOS_Progressed": 39722,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17740,6 +17740,11 @@
       "Time": "2023-09-12T10:09:18.5701762+00:00",
       "NumProgressed": 39721,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-12T11:09:26.9412593+00:00",
+      "NumProgressed": 39722,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 75,
@@ -17783,7 +17788,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 22641
+      "UsersEstimate": 22642
     },
     {
       "ID": "achievements_14",
@@ -17791,7 +17796,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "achievements_15",
@@ -17807,7 +17812,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 13902
+      "UsersEstimate": 13903
     },
     {
       "ID": "achievements_19",
@@ -17887,7 +17892,7 @@
       "Name": "Mountain King - II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 15491
+      "UsersEstimate": 15492
     },
     {
       "ID": "achievements_28",
@@ -17991,7 +17996,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6355
+      "UsersEstimate": 6356
     },
     {
       "ID": "achievements_4",
@@ -17999,7 +18004,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 26216
+      "UsersEstimate": 26217
     },
     {
       "ID": "achievements_40",
@@ -18055,7 +18060,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 33763
+      "UsersEstimate": 33764
     },
     {
       "ID": "achievements_47",
@@ -18119,7 +18124,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 22641
+      "UsersEstimate": 22642
     },
     {
       "ID": "achievements_54",
@@ -18199,7 +18204,7 @@
       "Name": "Revealed Secrets - II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 10327
+      "UsersEstimate": 10328
     },
     {
       "ID": "achievements_64",
@@ -18231,7 +18236,7 @@
       "Name": "Nightmare of the Humanity - III",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2780
+      "UsersEstimate": 2781
     },
     {
       "ID": "achievements_68",
@@ -18327,7 +18332,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 28996
+      "UsersEstimate": 28997
     },
     {
       "ID": "achievements_8",
@@ -18335,7 +18340,7 @@
       "Name": "Shadow Between Worlds",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 11916
+      "UsersEstimate": 11917
     },
     {
       "ID": "achievements_9",
@@ -18350,15 +18355,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 39721,
+      "Progressed": 39722,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-09T22:01:15.7942849+00:00",
-  "LastChanged_Achievements": "2023-09-12T10:09:18.5701746+00:00",
+  "LastChanged_Achievements": "2023-09-12T11:09:26.9412589+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.3039607+00:00",
-  "LastUpdate_Ratings": "2023-09-12T09:57:16.8717251+00:00",
-  "LastUpdate_Achievements": "2023-09-12T10:09:18.5703762+00:00"
+  "LastUpdate_Ratings": "2023-09-12T10:57:17.2824743+00:00",
+  "LastUpdate_Achievements": "2023-09-12T11:09:26.9414549+00:00"
 }

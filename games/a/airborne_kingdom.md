@@ -6,15 +6,15 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,017 |
-| A Grove Replanted | 53.00% | ~3,802 |
-| Fields Watered | 41.00% | ~2,941 |
-| Seekers Found | 41.00% | ~2,941 |
-| Settling the Skies | 41.00% | ~2,941 |
+| A Small Community | 56.00% | ~4,018 |
+| A Grove Replanted | 53.00% | ~3,803 |
+| Fields Watered | 41.00% | ~2,942 |
+| Seekers Found | 41.00% | ~2,942 |
+| Settling the Skies | 41.00% | ~2,942 |
 | Wind Powered | 40.00% | ~2,870 |
-| It Takes a Village | 34.00% | ~2,439 |
+| It Takes a Village | 34.00% | ~2,440 |
 | On the Town | 28.00% | ~2,009 |
-| Daylight Found | 26.00% | ~1,865 |
+| Daylight Found | 26.00% | ~1,866 |
 | Irons Scorched | 25.00% | ~1,794 |
 | Islands Connected | 25.00% | ~1,794 |
 | Harp Tuned | 23.00% | ~1,650 |
@@ -24,17 +24,17 @@ Number of Ratings: 74  (23.09.2022)
 | Knowledge Shared | 20.00% | ~1,435 |
 | Relic Finder | 20.00% | ~1,435 |
 | Worthy of the Title | 19.00% | ~1,363 |
-| A Peaceful Respite | 14.00% | ~1,004 |
+| A Peaceful Respite | 14.00% | ~1,005 |
 | A Learned Scholar | 13.00% | ~933 |
 | Prophecy Fulfilled | 13.00% | ~933 |
 | A Wanderer’s Guide | 11.00% | ~789 |
 | Knowledge Seeker | 7.00% | ~502 |
 | The Cycle Continues | 3.00% | ~215 |
-| Glowing Waters | 2.00% | ~143 |
-| Sparkling Alloys | 2.00% | ~143 |
-| A True Challenge | 2.00% | ~143 |
+| Glowing Waters | 2.00% | ~144 |
+| Sparkling Alloys | 2.00% | ~144 |
+| A True Challenge | 2.00% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,174 (Ranked 139)  
+Progressed: 7,175 (Ranked 139)  
 Completed: 53 (0.74%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 53 (0.74%) (Ranked 134)
 | 2023-09-09 | 7,163 | 53 |
 | 2023-09-10 | 7,172 | 53 |
 | 2023-09-11 | 7,173 | 53 |
-| 2023-09-12 | 7,174 | 53 |
+| 2023-09-12 | 7,175 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

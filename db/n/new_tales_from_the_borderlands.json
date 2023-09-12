@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3627,
+  "EOS_Progressed": 3628,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1448,6 +1448,11 @@
       "Time": "2023-09-11T22:05:09.8721776+00:00",
       "NumProgressed": 3627,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T11:05:40.1114577+00:00",
+      "NumProgressed": 3628,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1491,7 +1496,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1515,7 +1520,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -1587,7 +1592,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1595,7 +1600,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1603,7 +1608,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -1643,7 +1648,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -1666,7 +1671,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3627,
+      "Progressed": 3628,
       "Completed": 0
     }
   ],
@@ -1674,8 +1679,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-28T21:59:31.5873025+00:00",
-  "LastChanged_Achievements": "2023-09-12T10:04:55.2283642+00:00",
+  "LastChanged_Achievements": "2023-09-12T11:05:40.1114571+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:39.3937953+00:00",
-  "LastUpdate_Ratings": "2023-09-12T09:57:32.0839185+00:00",
-  "LastUpdate_Achievements": "2023-09-12T10:04:55.2283929+00:00"
+  "LastUpdate_Ratings": "2023-09-12T10:57:38.117733+00:00",
+  "LastUpdate_Achievements": "2023-09-12T11:05:40.1114882+00:00"
 }

@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.20% | ~457 |
 | Street War | 0.20% | ~457 |
 | Building Trust | 0.20% | ~457 |
+| March of the Undead | 0.20% | ~457 |
 | Unearthed Evil | 0.20% | ~457 |
 | No Time To Rest | 0.20% | ~457 |
 | The Dinner Party | 0.20% | ~457 |
@@ -188,7 +189,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~228 |
 | Force Grey Unleashed | 0.10% | ~228 |
 | Vajra's Guards | 0.10% | ~228 |
-| March of the Undead | 0.10% | ~228 |
 | Wisdom Check | 0.10% | ~228 |
 | Sleuth It Out | 0.10% | ~228 |
 | The Newcomers of Notoriety | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,485 (Ranked 54)  
+Progressed: 228,492 (Ranked 54)  
 Completed: 2,271 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,7 +672,7 @@ Completed: 2,271 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
-| 2023-09-12 | 228,485 | 2,271 |
+| 2023-09-12 | 228,492 | 2,271 |
 ## Awards
 Max (Diverse Characters): 5,261  (Ranked 67)  
 Sum: 31,537 (Ranked 39)  

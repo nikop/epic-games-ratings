@@ -6,33 +6,33 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 4.00% | ~34,870 |
-| It wakes | 4.00% | ~34,870 |
-| Skillful | 4.00% | ~34,870 |
-| Not half bad | 3.00% | ~26,153 |
-| Apt Survivor | 3.00% | ~26,153 |
-| Survival Treasures | 3.00% | ~26,153 |
-| Make Some Noise | 3.00% | ~26,153 |
-| The Grand Sacrifice | 2.00% | ~17,435 |
-| Agonizing Escape | 2.00% | ~17,435 |
-| Backdoor Escape | 2.00% | ~17,435 |
-| I've got your back | 2.00% | ~17,435 |
-| No one left behind | 2.00% | ~17,435 |
-| Medic | 2.00% | ~17,435 |
-| Handyman | 2.00% | ~17,435 |
-| Nerves of steel | 2.00% | ~17,435 |
-| Perfect Escape | 2.00% | ~17,435 |
-| Perfect Killing | 2.00% | ~17,435 |
-| Bloody Millionaire | 2.00% | ~17,435 |
-| Risk it all | 2.00% | ~17,435 |
-| I | 2.00% | ~17,435 |
-| Engineer | 2.00% | ~17,435 |
-| Sorted | 2.00% | ~17,435 |
-| Healthy Obsession | 2.00% | ~17,435 |
-| Resurgence | 2.00% | ~17,435 |
-| Preemptive Strike | 2.00% | ~17,435 |
-| Humanitarian | 2.00% | ~17,435 |
-| MU/TH/UR Dearest | 2.00% | ~17,435 |
+| Zealous | 4.00% | ~34,873 |
+| It wakes | 4.00% | ~34,873 |
+| Skillful | 4.00% | ~34,873 |
+| Not half bad | 3.00% | ~26,155 |
+| Apt Survivor | 3.00% | ~26,155 |
+| Survival Treasures | 3.00% | ~26,155 |
+| Make Some Noise | 3.00% | ~26,155 |
+| The Grand Sacrifice | 2.00% | ~17,437 |
+| Agonizing Escape | 2.00% | ~17,437 |
+| Backdoor Escape | 2.00% | ~17,437 |
+| I've got your back | 2.00% | ~17,437 |
+| No one left behind | 2.00% | ~17,437 |
+| Medic | 2.00% | ~17,437 |
+| Handyman | 2.00% | ~17,437 |
+| Nerves of steel | 2.00% | ~17,437 |
+| Perfect Escape | 2.00% | ~17,437 |
+| Perfect Killing | 2.00% | ~17,437 |
+| Bloody Millionaire | 2.00% | ~17,437 |
+| Risk it all | 2.00% | ~17,437 |
+| I | 2.00% | ~17,437 |
+| Engineer | 2.00% | ~17,437 |
+| Sorted | 2.00% | ~17,437 |
+| Healthy Obsession | 2.00% | ~17,437 |
+| Resurgence | 2.00% | ~17,437 |
+| Preemptive Strike | 2.00% | ~17,437 |
+| Humanitarian | 2.00% | ~17,437 |
+| MU/TH/UR Dearest | 2.00% | ~17,437 |
 | Apt Killer | 1.00% | ~8,718 |
 | Vulture | 1.00% | ~8,718 |
 | II | 1.00% | ~8,718 |
@@ -54,23 +54,23 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 0.90% | ~7,846 |
 | Lifting The Fog | 0.90% | ~7,846 |
 | Chorus of Chaos | 0.90% | ~7,846 |
-| Escape Artist | 0.80% | ~6,974 |
-| Made it out alive! | 0.80% | ~6,974 |
-| Gifts for the Fog | 0.80% | ~6,974 |
-| III-50 | 0.80% | ~6,974 |
-| All Aboard | 0.80% | ~6,974 |
-| House of Pain | 0.80% | ~6,974 |
-| Near-Death Experience | 0.80% | ~6,974 |
-| Unforgettable Getaway | 0.80% | ~6,974 |
-| Cutting Out | 0.80% | ~6,974 |
-| Operation: Survival | 0.80% | ~6,974 |
-| Classy Act | 0.80% | ~6,974 |
-| One More Step | 0.80% | ~6,974 |
-| Shock Therapy | 0.70% | ~6,102 |
-| Cottage Owner | 0.70% | ~6,102 |
-| Campbell's Chapel Legacy | 0.70% | ~6,102 |
-| Ancestor's Rite | 0.70% | ~6,102 |
-| Outrun Evil | 0.70% | ~6,102 |
+| Escape Artist | 0.80% | ~6,975 |
+| Made it out alive! | 0.80% | ~6,975 |
+| Gifts for the Fog | 0.80% | ~6,975 |
+| III-50 | 0.80% | ~6,975 |
+| All Aboard | 0.80% | ~6,975 |
+| House of Pain | 0.80% | ~6,975 |
+| Near-Death Experience | 0.80% | ~6,975 |
+| Unforgettable Getaway | 0.80% | ~6,975 |
+| Cutting Out | 0.80% | ~6,975 |
+| Operation: Survival | 0.80% | ~6,975 |
+| Classy Act | 0.80% | ~6,975 |
+| One More Step | 0.80% | ~6,975 |
+| Shock Therapy | 0.70% | ~6,103 |
+| Cottage Owner | 0.70% | ~6,103 |
+| Campbell's Chapel Legacy | 0.70% | ~6,103 |
+| Ancestor's Rite | 0.70% | ~6,103 |
+| Outrun Evil | 0.70% | ~6,103 |
 | A bite for the Entity | 0.60% | ~5,231 |
 | Blood on your face | 0.60% | ~5,231 |
 | Hemophobia | 0.60% | ~5,231 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~872 |
 | Adept Ripley | 0.10% | ~872 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 871,762 (Ranked 15)  
+Progressed: 871,833 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,7 +381,7 @@ Completed: 48 (0.01%) (Ranked 259)
 | 2023-09-09 | 864,615 | 48 |
 | 2023-09-10 | 868,233 | 48 |
 | 2023-09-11 | 870,909 | 48 |
-| 2023-09-12 | 871,762 | 48 |
+| 2023-09-12 | 871,833 | 48 |
 ## Awards
 Max (Diverse Characters): 32,309  (Ranked 15)  
 Sum: 252,538 (Ranked 11)  

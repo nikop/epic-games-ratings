@@ -6,36 +6,36 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~23,732 |
-| Landlord | 32.00% | ~19,472 |
-| Bannerlord | 23.00% | ~13,996 |
-| Horde breaker | 23.00% | ~13,996 |
-| Lawmaker | 23.00% | ~13,996 |
-| Trained | 23.00% | ~13,996 |
-| The king is pleased | 18.00% | ~10,953 |
-| King Solomon | 17.00% | ~10,344 |
-| I can do it | 16.00% | ~9,736 |
+| Lawbringer | 39.00% | ~23,734 |
+| Landlord | 32.00% | ~19,474 |
+| Bannerlord | 23.00% | ~13,997 |
+| Horde breaker | 23.00% | ~13,997 |
+| Lawmaker | 23.00% | ~13,997 |
+| Trained | 23.00% | ~13,997 |
+| The king is pleased | 18.00% | ~10,954 |
+| King Solomon | 17.00% | ~10,346 |
+| I can do it | 16.00% | ~9,737 |
 | Apple of my eye | 15.00% | ~9,128 |
-| God of the Arena | 13.00% | ~7,910 |
-| Against all odds | 12.00% | ~7,302 |
+| God of the Arena | 13.00% | ~7,911 |
+| Against all odds | 12.00% | ~7,303 |
 | This Is Our Land | 11.00% | ~6,694 |
-| Duelist | 10.00% | ~6,085 |
-| Swordbearer | 10.00% | ~6,085 |
-| Dynasty | 9.00% | ~5,476 |
-| I spit on your grave | 9.00% | ~5,476 |
-| What have the Romans ever done for us? | 9.00% | ~5,476 |
+| Duelist | 10.00% | ~6,086 |
+| Swordbearer | 10.00% | ~6,086 |
+| Dynasty | 9.00% | ~5,477 |
+| I spit on your grave | 9.00% | ~5,477 |
+| What have the Romans ever done for us? | 9.00% | ~5,477 |
 | Butterlord | 8.00% | ~4,868 |
 | Know your enemy | 7.00% | ~4,260 |
 | Mastery | 7.00% | ~4,260 |
-| Crush your enemies | 5.00% | ~3,042 |
-| My way | 5.00% | ~3,042 |
+| Crush your enemies | 5.00% | ~3,043 |
+| My way | 5.00% | ~3,043 |
 | Crowdfunded | 4.00% | ~2,434 |
 | Veni vidi vici | 4.00% | ~2,434 |
 | Freedom! | 3.00% | ~1,826 |
 | Long live the Empire! | 3.00% | ~1,826 |
 | Real Estate | 3.00% | ~1,826 |
-| Entrepreneur | 1.00% | ~608 |
-| Supreme Emperor | 1.00% | ~608 |
+| Entrepreneur | 1.00% | ~609 |
+| Supreme Emperor | 1.00% | ~609 |
 | Crackshot | 0.80% | ~487 |
 | Undercover | 0.80% | ~487 |
 | Fat Cat | 0.70% | ~426 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,850 (Ranked 88)  
+Progressed: 60,856 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 60,687 | 0 |
 | 2023-09-10 | 60,769 | 0 |
 | 2023-09-11 | 60,835 | 0 |
-| 2023-09-12 | 60,850 | 0 |
+| 2023-09-12 | 60,856 | 0 |
 ## Awards
 Max (Character Customization): 7,071  (Ranked 50)  
 Sum: 14,398 (Ranked 70)  

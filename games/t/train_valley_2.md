@@ -6,48 +6,48 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~286,330 |
-| Full garage | 60.00% | ~235,340 |
-| To the eyeballs! | 51.00% | ~200,039 |
-| Individual delivery | 46.00% | ~180,427 |
-| Non-Stop | 44.00% | ~172,583 |
-| Juggler | 35.00% | ~137,282 |
-| Forgot something | 34.00% | ~133,359 |
-| Close call! | 30.00% | ~117,670 |
-| Get out my way | 28.00% | ~109,825 |
-| Critical care | 26.00% | ~101,981 |
-| Common cause | 25.00% | ~98,058 |
-| Mega-railroad | 23.00% | ~90,214 |
-| Upgrade complete | 23.00% | ~90,214 |
-| Just in time! | 18.00% | ~70,602 |
-| Builder | 17.00% | ~66,680 |
-| Steam Age | 16.00% | ~62,757 |
-| Long Haul | 16.00% | ~62,652 |
-| Bridgemania | 14.00% | ~54,913 |
-| Multilevel road | 14.00% | ~54,913 |
-| Need to think | 14.00% | ~54,913 |
-| The Tortoise | 12.00% | ~47,068 |
-| Without a lunch break | 11.00% | ~43,146 |
-| Beginner | 10.00% | ~39,223 |
-| Relocation | 10.00% | ~39,223 |
-| One way | 9.00% | ~35,301 |
-| Just One More Valley | 9.00% | ~35,242 |
-| Industrial Age | 8.00% | ~31,379 |
-| Prick of conscience | 8.00% | ~31,379 |
-| At the last moment! | 6.00% | ~23,534 |
-| Missed it! | 6.00% | ~23,534 |
-| Overseer | 6.00% | ~23,534 |
+| Dealmaker | 73.00% | ~286,339 |
+| Full garage | 60.00% | ~235,347 |
+| To the eyeballs! | 51.00% | ~200,045 |
+| Individual delivery | 46.00% | ~180,433 |
+| Non-Stop | 44.00% | ~172,588 |
+| Juggler | 35.00% | ~137,286 |
+| Forgot something | 34.00% | ~133,363 |
+| Close call! | 30.00% | ~117,674 |
+| Get out my way | 28.00% | ~109,829 |
+| Critical care | 26.00% | ~101,984 |
+| Common cause | 25.00% | ~98,061 |
+| Mega-railroad | 23.00% | ~90,216 |
+| Upgrade complete | 23.00% | ~90,216 |
+| Just in time! | 18.00% | ~70,604 |
+| Builder | 17.00% | ~66,682 |
+| Steam Age | 16.00% | ~62,759 |
+| Long Haul | 16.00% | ~62,654 |
+| Bridgemania | 14.00% | ~54,914 |
+| Multilevel road | 14.00% | ~54,914 |
+| Need to think | 14.00% | ~54,914 |
+| The Tortoise | 12.00% | ~47,069 |
+| Without a lunch break | 11.00% | ~43,147 |
+| Beginner | 10.00% | ~39,224 |
+| Relocation | 10.00% | ~39,224 |
+| One way | 9.00% | ~35,302 |
+| Just One More Valley | 9.00% | ~35,243 |
+| Industrial Age | 8.00% | ~31,380 |
+| Prick of conscience | 8.00% | ~31,380 |
+| At the last moment! | 6.00% | ~23,535 |
+| Missed it! | 6.00% | ~23,535 |
+| Overseer | 6.00% | ~23,535 |
 | Jewelry accuracy | 5.00% | ~19,612 |
-| Bridge builder | 4.00% | ~15,689 |
-| Electrical Age | 4.00% | ~15,689 |
-| Highlander | 4.00% | ~15,689 |
-| Large construction | 4.00% | ~15,689 |
-| Stargazer | 4.00% | ~15,689 |
+| Bridge builder | 4.00% | ~15,690 |
+| Electrical Age | 4.00% | ~15,690 |
+| Highlander | 4.00% | ~15,690 |
+| Large construction | 4.00% | ~15,690 |
+| Stargazer | 4.00% | ~15,690 |
 | Engineer | 3.00% | ~11,767 |
 | Living it large | 3.00% | ~11,767 |
 | Sabotage | 3.00% | ~11,767 |
 | Squander | 3.00% | ~11,767 |
-| Test Batch | 3.00% | ~11,747 |
+| Test Batch | 3.00% | ~11,748 |
 | Astronomer | 2.00% | ~7,845 |
 | Globalisation Age | 2.00% | ~7,845 |
 | Innovator | 2.00% | ~7,845 |
@@ -56,7 +56,7 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 2.00% | ~7,845 |
 | Will work | 2.00% | ~7,845 |
 | Woodcutter | 2.00% | ~7,845 |
-| Occupied! | 2.00% | ~7,831 |
+| Occupied! | 2.00% | ~7,832 |
 | Metro builder | 1.00% | ~3,922 |
 | Ouroboros | 1.00% | ~3,922 |
 | Achiever | 0.90% | ~3,530 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~392 |
 | World Zapper | 0.10% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392,233 (Ranked 41)  
+Progressed: 392,245 (Ranked 41)  
 Completed: 10 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 10 (0.00%) (Ranked 273)
 | 2023-09-09 | 391,021 | 9 |
 | 2023-09-10 | 391,628 | 10 |
 | 2023-09-11 | 392,084 | 10 |
-| 2023-09-12 | 392,233 | 10 |
+| 2023-09-12 | 392,245 | 10 |
 ## Awards
 Max (Challenging Puzzles): 583  (Ranked 187)  
 Sum: 1,122 (Ranked 235)  

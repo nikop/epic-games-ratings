@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 301)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 3.00% | ~416 |
 | Pyramids | 3.00% | ~416 |
 | Judaism | 3.00% | ~416 |
+| Babylonian Paganism | 3.00% | ~416 |
 | Greek Paganism | 3.00% | ~416 |
 | Naming Landmarks | 3.00% | ~416 |
 | Trade Caravan | 3.00% | ~416 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 2.00% | ~277 |
 | Christianity | 2.00% | ~277 |
 | Manichaeism | 2.00% | ~277 |
-| Babylonian Paganism | 2.00% | ~277 |
 | Carthaginian Paganism | 2.00% | ~277 |
 | Egyptian Paganism | 2.00% | ~277 |
 | Roman Paganism | 2.00% | ~277 |
@@ -123,13 +123,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.80% | ~111 |
 | Revelation | 0.80% | ~111 |
 | Kushite Cavalry | 0.80% | ~111 |
+| Ishtar Gate in Babylon | 0.70% | ~97 |
 | Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
 | Learn to Play 4 | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
 | Hittite Paganism | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
-| Ishtar Gate in Babylon | 0.60% | ~83 |
 | Peacemaker | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
 | Cao'an | 0.60% | ~83 |

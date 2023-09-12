@@ -27,8 +27,8 @@ Rating: 4.73 (Ranked 163)
 | Accursed Artifacts | 9.00% | ~57 |
 | Lyrical Longing | 9.00% | ~57 |
 | Corsair | 5.00% | ~32 |
+| Fully Decked | 5.00% | ~32 |
 | Freebooter | 4.00% | ~25 |
-| Fully Decked | 4.00% | ~25 |
 | Marauder | 3.00% | ~19 |
 | Welcome Back Jester | 3.00% | ~19 |
 ## Popularity (Based on EOS Achievements)

@@ -60,6 +60,7 @@
 | Executor | 0.70% | ~1 |
 | Ever After | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
+| Forged in Battle | 0.70% | ~1 |
 | Manticore | 0.70% | ~1 |
 | Moving At Odd Angles | 0.70% | ~1 |
 | Escort | 0.70% | ~1 |
@@ -86,7 +87,6 @@
 | Forager | 0.00% | ~0 |
 | Metropolitan | 0.00% | ~0 |
 | All Geared Up | 0.00% | ~0 |
-| Forged in Battle | 0.00% | ~0 |
 | Captain | 0.00% | ~0 |
 | Huntsmaster | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |

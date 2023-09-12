@@ -2,7 +2,7 @@
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 588,
@@ -1821,10 +1821,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1445,
       "NumberOfAwardsMax": 166
+    },
+    {
+      "Time": "2023-09-12T10:59:16.4314818+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1446,
+      "NumberOfAwardsMax": 166
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1445,
+  "NumberOfAwards": 1446,
   "NumberOfAwardsMax": 166,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1844,7 +1850,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game is Relaxing",
@@ -1906,8 +1912,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-09-11T11:58:39.3446151+00:00",
+  "LastChanged": "2023-09-12T10:59:16.4314816+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.3539085+00:00",
-  "LastUpdate_Ratings": "2023-09-12T09:58:40.2777864+00:00",
-  "LastUpdate_Achievements": "2023-09-12T10:04:46.515713+00:00"
+  "LastUpdate_Ratings": "2023-09-12T10:59:16.4314822+00:00",
+  "LastUpdate_Achievements": "2023-09-12T11:05:29.3193574+00:00"
 }

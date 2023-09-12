@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -3735,9 +3735,9 @@
       "ID": "lord_of_the_tower_2",
       "SetID": "53c1p3k",
       "Name": "Lord of the Tower 2",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "lord_of_the_tower_3",
@@ -3950,8 +3950,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-12T10:05:45.5384111+00:00",
+  "LastChanged_Achievements": "2023-09-12T11:06:50.6957451+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:09.1292976+00:00",
-  "LastUpdate_Ratings": "2023-09-12T09:59:26.5698947+00:00",
-  "LastUpdate_Achievements": "2023-09-12T10:05:45.5384894+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:00:24.3837849+00:00",
+  "LastUpdate_Achievements": "2023-09-12T11:06:50.6958575+00:00"
 }

@@ -13,21 +13,21 @@
 | The darkness | 31.00% | ~45 |
 | A good beginning | 30.00% | ~44 |
 | True G4M3R | 29.00% | ~42 |
-| One last step | 25.00% | ~36 |
-| Cable guy | 23.00% | ~33 |
-| Champollion | 23.00% | ~33 |
+| One last step | 26.00% | ~38 |
+| Champollion | 25.00% | ~36 |
+| Cable guy | 24.00% | ~35 |
 | Open door | 22.00% | ~32 |
 | In this together | 21.00% | ~30 |
 | Peace walker | 21.00% | ~30 |
 | Half the way | 21.00% | ~30 |
 | Feels like springtime | 19.00% | ~28 |
 | Free at last | 17.00% | ~25 |
+| Alchemists Express | 17.00% | ~25 |
 | Rascal | 17.00% | ~25 |
-| Alchemists Express | 16.00% | ~23 |
-| A Link to the Past | 14.00% | ~20 |
+| A Link to the Past | 15.00% | ~22 |
 | Fashion victim | 12.00% | ~17 |
+| A great audience | 11.00% | ~16 |
 | For its own good | 11.00% | ~16 |
-| A great audience | 10.00% | ~14 |
 | I did it | 8.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 145 (Ranked 326)  

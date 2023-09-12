@@ -319,9 +319,9 @@
       "ID": "ClearTE07",
       "SetID": "94lmepd",
       "Name": "Ninth Tale",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ClearTE08",
@@ -342,8 +342,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-09-12T10:07:00.1265363+00:00",
+  "LastChanged_Achievements": "2023-09-12T11:08:34.6523715+00:00",
   "LastUpdate_AppInfo": "2023-09-07T09:57:19.7155244+00:00",
-  "LastUpdate_Ratings": "2023-09-12T09:59:30.411656+00:00",
-  "LastUpdate_Achievements": "2023-09-12T10:07:00.1265633+00:00"
+  "LastUpdate_Ratings": "2023-09-12T11:00:30.2718384+00:00",
+  "LastUpdate_Achievements": "2023-09-12T11:08:34.6524016+00:00"
 }
