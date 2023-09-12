@@ -68,6 +68,7 @@
 | [Wild Card Football](games/3/3072dbe471f84dac8b2e9ba8af253ee2.md) | 2023-10-10 | - |  | - | 0 |
 | [Harvest Island](games/4/4057468aee2a495ab81771b1c4d61a5c.md) | 2023-10-10 | - |  | - | - |
 | [Outbreak Lost Hope Broken Faith](games/0/08a9c02dda9c41a59230704e270c4c01.md) | 2023-10-11 | 12 (1,000 XP) | 0 | - | - |
+| [Total War: PHARAOH](games/3/3928d2045d28460b96db76dc1b9ca146.md) | 2023-10-11 | - |  | - | - |
 | [Survive on Raft](games/s/survive_on_raft.md) | 2023-10-12 | 36 (1,000 XP) | 1 | - | - |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | - |  | - | - |
 | [GO TO HELL or Die Trying](games/8/8dd803604799447fa19f637a05991e98.md) | 2023-10-16 | - |  | - | - |
@@ -93,11 +94,11 @@
 | [Survivor - Castaway Island](games/f/f8cbf321729f439aae9c088cbbebe93e.md) | 2023-10-31 | - |  | - | - |
 | [Sweet Dreams Alex](games/4/4d10cc70884a46a094854d1ad69c7aaf.md) | 2023-10-31 | - |  | - | - |
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-10-31 | - |  | - | - |
-| [Total War: PHARAOH](games/3/3928d2045d28460b96db76dc1b9ca146.md) | 2023-10-31 | - |  | - | - |
 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | - |  | - | - |
 | [WRC Standard Edition](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | - |  | - | - |
 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | - |  | - | - |
 | [Dungeons 4](games/d/dungeons_4.md) | 2023-11-09 | - |  | - | - |
+| [Broken Roads](games/b/broken_roads.md) | 2023-11-14 | - |  | - | - |
 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | - |  | - | - |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2023-11-22 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2023-11-28 | - |  | - | - |
@@ -208,7 +209,7 @@
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 4,076 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 4,077 | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Xenion](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-06-30 | - |  | - | - |
@@ -482,7 +483,6 @@
 | [Worlds Of The Future](games/w/worlds_of_the_future.md) | 2099-01-02 | - |  | - | - |
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - |  | - | - |
-| [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 3,169 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |  | - | - |

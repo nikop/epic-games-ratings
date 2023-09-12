@@ -16,8 +16,8 @@
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.86% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 17 | [Island Cities](games/i/island_cities.md) | 14.80% |
-| 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
+| 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
+| 18 | [Island Cities](games/i/island_cities.md) | 14.78% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Remains](games/r/remains.md) | 12.50% |
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.16% |
@@ -54,7 +54,7 @@
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
-| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.73% |
+| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.70% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
@@ -94,15 +94,15 @@
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.13% |
 | 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.09% |
-| 95 | [FORECLOSED](games/f/foreclosed.md) | 2.08% |
+| 95 | [FORECLOSED](games/f/foreclosed.md) | 2.06% |
 | 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
-| 97 | [Eternights](games/e/eternights.md) | 1.92% |
-| 98 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
-| 99 | [Night Book](games/n/night_book.md) | 1.86% |
-| 100 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 101 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
-| 102 | [Frogun](games/f/frogun.md) | 1.80% |
-| 102 | [Sifu](games/s/sifu.md) | 1.80% |
+| 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
+| 98 | [Night Book](games/n/night_book.md) | 1.86% |
+| 99 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
+| 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
+| 101 | [Frogun](games/f/frogun.md) | 1.80% |
+| 101 | [Sifu](games/s/sifu.md) | 1.80% |
+| 103 | [Eternights](games/e/eternights.md) | 1.79% |
 | 104 | [Five Dates](games/f/five_dates.md) | 1.67% |
 | 105 | [Somerville](games/s/somerville.md) | 1.65% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
@@ -113,7 +113,7 @@
 | 111 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 112 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
-| 114 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.37% |
+| 114 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.36% |
 | 115 | [Chorus](games/c/chorus.md) | 1.28% |
 | 116 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 117 | [Infindustry](games/i/infindustry.md) | 1.23% |
@@ -129,7 +129,7 @@
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.88% |
-| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
+| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.87% |
 | 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
@@ -199,16 +199,16 @@
 | 197 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 198 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 198 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
-| 200 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
-| 201 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 201 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
-| 201 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 201 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 205 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
-| 205 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
-| 205 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.15% |
-| 205 | [Remnant 2](games/r/remnant_2.md) | 0.15% |
-| 205 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 200 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.18% |
+| 201 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 202 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 202 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 202 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 202 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
+| 206 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
+| 206 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
+| 206 | [Remnant 2](games/r/remnant_2.md) | 0.15% |
+| 206 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 210 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 211 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 212 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
