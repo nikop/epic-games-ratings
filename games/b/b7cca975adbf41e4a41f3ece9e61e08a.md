@@ -22,14 +22,15 @@
 | To Be Or Not To Be | 40.00% | ~2 |
 | ONE PUNCH | 40.00% | ~2 |
 | My Dear Love! | 20.00% | ~1 |
+| All I Have Is Money | 20.00% | ~1 |
 | Life Is A Rollercoaster | 20.00% | ~1 |
 | Lover In Dark Alley | 20.00% | ~1 |
 | Love You Three Thousand | 20.00% | ~1 |
 | Can You Do This Or Not? | 20.00% | ~1 |
 | Go Clean up In Your Own Way | 20.00% | ~1 |
 | Worthless Speech | 20.00% | ~1 |
+| Drama King | 20.00% | ~1 |
 | Off We Sail Tonight | 0.00% | ~0 |
-| All I Have Is Money | 0.00% | ~0 |
 | Go Get Some Fries On The Pier | 0.00% | ~0 |
 | Happy Family | 0.00% | ~0 |
 | Let Me Be Your Toy Boy | 0.00% | ~0 |
@@ -43,7 +44,6 @@
 | Drama CP: Reel to Real | 0.00% | ~0 |
 | David | 0.00% | ~0 |
 | That's So You | 0.00% | ~0 |
-| Drama King | 0.00% | ~0 |
 | This Ain't Right In Many Ways... | 0.00% | ~0 |
 | SALUTE | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

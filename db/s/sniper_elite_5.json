@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -518,9 +518,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3606,
+  "EOS_Progressed": 3607,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6618,6 +6618,11 @@
       "Time": "2023-09-11T15:04:22.218378+00:00",
       "NumProgressed": 3606,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-12T10:04:11.2533257+00:00",
+      "NumProgressed": 3607,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6637,7 +6642,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -6693,7 +6698,7 @@
       "Name": "Organ Grinder",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -6797,7 +6802,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -6813,7 +6818,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -6869,7 +6874,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -6877,7 +6882,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -7037,7 +7042,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7196,13 +7201,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3557,
+      "Progressed": 3558,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3606,
+      "Progressed": 3607,
       "Completed": 10
     }
   ],
@@ -7210,8 +7215,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-10T22:58:36.5752206+00:00",
-  "LastChanged_Achievements": "2023-09-12T09:03:57.0734157+00:00",
+  "LastChanged_Achievements": "2023-09-12T10:04:11.2533251+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:59:13.6545525+00:00",
-  "LastUpdate_Achievements": "2023-09-12T09:03:57.0736128+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:59:17.018689+00:00",
+  "LastUpdate_Achievements": "2023-09-12T10:04:11.2534236+00:00"
 }

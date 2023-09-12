@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2955,
+  "EOS_Progressed": 2956,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -6196,6 +6196,11 @@
       "Time": "2023-09-12T07:06:51.4488346+00:00",
       "NumProgressed": 2955,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-12T10:06:39.7616582+00:00",
+      "NumProgressed": 2956,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 16,
@@ -6239,7 +6244,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "ach_architecture_completed",
@@ -6295,7 +6300,7 @@
       "Name": "Food - unlocked",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ach_game_opened",
@@ -6334,14 +6339,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2955,
+      "Progressed": 2956,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-12T09:06:24.0213274+00:00",
+  "LastChanged_Achievements": "2023-09-12T10:06:39.7616577+00:00",
   "LastUpdate_AppInfo": "2023-09-08T13:56:57.5015536+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:59:18.8205207+00:00",
-  "LastUpdate_Achievements": "2023-09-12T09:06:24.0213982+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:59:21.9461651+00:00",
+  "LastUpdate_Achievements": "2023-09-12T10:06:39.7617068+00:00"
 }

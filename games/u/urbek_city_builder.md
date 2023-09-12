@@ -5,13 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I am very happy! | 0.60% | ~2 |
+| I like parks | 0.60% | ~2 |
 | I like books | 0.30% | ~1 |
 | The spiritual world... | 0.30% | ~1 |
 | I like my life | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
-| I like parks | 0.30% | ~1 |
+| The woodcutter | 0.30% | ~1 |
 | Small town | 0.30% | ~1 |
+| Sport is good for you | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
 | Full archipelago | 0.00% | ~0 |
@@ -49,7 +51,6 @@
 | Farming Frenzy Plus | 0.00% | ~0 |
 | I love parks | 0.00% | ~0 |
 | Oh, I love parks, listening to birds! | 0.00% | ~0 |
-| The woodcutter | 0.00% | ~0 |
 | Clean energy | 0.00% | ~0 |
 | Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
@@ -69,7 +70,6 @@
 | Restorer master | 0.00% | ~0 |
 | Singapore | 0.00% | ~0 |
 | Singapore Plus | 0.00% | ~0 |
-| Sport is good for you | 0.00% | ~0 |
 | Sport is the best thing | 0.00% | ~0 |
 | Everyone should always do sport! | 0.00% | ~0 |
 | Full temperate | 0.00% | ~0 |

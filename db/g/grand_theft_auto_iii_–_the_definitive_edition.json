@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -8178,9 +8178,9 @@
       "ID": "ACH06",
       "SetID": "552d41m",
       "Name": "Street Sweeper",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH07",
@@ -8379,8 +8379,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-05T17:59:24.9081352+00:00",
-  "LastChanged_Achievements": "2023-09-12T09:05:51.2163741+00:00",
+  "LastChanged_Achievements": "2023-09-12T10:06:05.4393194+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:01.9571091+00:00",
-  "LastUpdate_Ratings": "2023-09-12T09:00:11.212863+00:00",
-  "LastUpdate_Achievements": "2023-09-12T09:05:51.2164961+00:00"
+  "LastUpdate_Ratings": "2023-09-12T10:00:20.8927417+00:00",
+  "LastUpdate_Achievements": "2023-09-12T10:06:05.4393808+00:00"
 }

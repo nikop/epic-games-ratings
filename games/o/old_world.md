@@ -55,6 +55,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 2.00% | ~277 |
 | Ishtar Gate | 2.00% | ~277 |
 | Lighthouse | 2.00% | ~277 |
+| Mausoleum | 2.00% | ~277 |
 | Musaeum | 2.00% | ~277 |
 | Necropolis | 2.00% | ~277 |
 | Learn to Play 1 | 2.00% | ~277 |
@@ -85,7 +86,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 1.00% | ~139 |
 | Hagia Sophia | 1.00% | ~139 |
 | Temple of Solomon | 1.00% | ~139 |
-| Mausoleum | 1.00% | ~139 |
 | Pantheon | 1.00% | ~139 |
 | Via Recta Souk | 1.00% | ~139 |
 | Learn to Play 3 | 1.00% | ~139 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,873 (Ranked 122)  
+Progressed: 13,874 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -448,7 +448,7 @@ Completed: 5 (0.04%) (Ranked 241)
 | 2023-09-09 | 13,831 | 5 |
 | 2023-09-10 | 13,858 | 5 |
 | 2023-09-11 | 13,868 | 5 |
-| 2023-09-12 | 13,873 | 5 |
+| 2023-09-12 | 13,874 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

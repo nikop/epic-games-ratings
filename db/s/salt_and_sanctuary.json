@@ -2565,9 +2565,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 532976,
+  "EOS_Progressed": 532978,
   "EOS_Completed": 1540,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -18340,6 +18340,11 @@
       "Time": "2023-09-12T09:05:06.4099762+00:00",
       "NumProgressed": 532976,
       "NumCompleted": 1540
+    },
+    {
+      "Time": "2023-09-12T10:05:19.3559646+00:00",
+      "NumProgressed": 532978,
+      "NumCompleted": 1540
     }
   ],
   "TotalAchievements": 37,
@@ -18407,7 +18412,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 442370
+      "UsersEstimate": 442372
     },
     {
       "ID": "HONED",
@@ -18463,7 +18468,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 213190
+      "UsersEstimate": 213191
     },
     {
       "ID": "THE_CASTLE",
@@ -18471,7 +18476,7 @@
       "Name": "The Castle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58627
+      "UsersEstimate": 58628
     },
     {
       "ID": "THE_CAVE",
@@ -18607,7 +18612,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341105
+      "UsersEstimate": 341106
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -18646,15 +18651,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 532976,
+      "Progressed": 532978,
       "Completed": 1540
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-09-11T11:57:11.1035065+00:00",
-  "LastChanged_Achievements": "2023-09-12T09:05:06.4099757+00:00",
+  "LastChanged_Achievements": "2023-09-12T10:05:19.3559638+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.1792582+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:57:30.1172862+00:00",
-  "LastUpdate_Achievements": "2023-09-12T09:05:06.4101501+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:57:31.8053225+00:00",
+  "LastUpdate_Achievements": "2023-09-12T10:05:19.3561031+00:00"
 }

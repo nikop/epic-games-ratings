@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -402,9 +402,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 245692,
+  "EOS_Progressed": 245693,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 768,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16487,6 +16487,11 @@
       "Time": "2023-09-12T09:04:49.5721456+00:00",
       "NumProgressed": 245692,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-12T10:05:01.7884856+00:00",
+      "NumProgressed": 245693,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -16770,7 +16775,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17198
+      "UsersEstimate": 17199
     },
     {
       "ID": "ACH_MEMESMART",
@@ -16802,7 +16807,7 @@
       "Name": "Griever",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17198
+      "UsersEstimate": 17199
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -16913,7 +16918,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 245692,
+      "Progressed": 245693,
       "Completed": 7
     }
   ],
@@ -16921,8 +16926,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-02T23:58:08.6373723+00:00",
-  "LastChanged_Achievements": "2023-09-12T09:04:49.572145+00:00",
+  "LastChanged_Achievements": "2023-09-12T10:05:01.7884847+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:57.1654221+00:00",
-  "LastUpdate_Ratings": "2023-09-12T09:00:07.379914+00:00",
-  "LastUpdate_Achievements": "2023-09-12T09:04:49.5723982+00:00"
+  "LastUpdate_Ratings": "2023-09-12T10:00:16.3631839+00:00",
+  "LastUpdate_Achievements": "2023-09-12T10:05:01.7886332+00:00"
 }

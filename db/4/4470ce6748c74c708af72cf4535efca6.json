@@ -232,9 +232,9 @@
       "ID": "11",
       "SetID": "5e3maia",
       "Name": "Snow White",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "12",
@@ -384,9 +384,9 @@
       "ID": "29",
       "SetID": "5e3maia",
       "Name": "Park ranger",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "3",
@@ -767,8 +767,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-12T09:03:54.695567+00:00",
+  "LastChanged_Achievements": "2023-09-12T10:04:08.7337239+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:58:55.9542812+00:00",
-  "LastUpdate_Achievements": "2023-09-12T09:03:54.6956949+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:58:57.7963177+00:00",
+  "LastUpdate_Achievements": "2023-09-12T10:04:08.733802+00:00"
 }

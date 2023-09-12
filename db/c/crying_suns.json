@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467183,
+  "EOS_Progressed": 467184,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15813,6 +15813,11 @@
       "Time": "2023-09-12T08:06:00.9604961+00:00",
       "NumProgressed": 467183,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-12T10:06:12.3508237+00:00",
+      "NumProgressed": 467184,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15824,7 +15829,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70077
+      "UsersEstimate": 70078
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -15832,7 +15837,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70077
+      "UsersEstimate": 70078
     },
     {
       "ID": "achievement_first_death",
@@ -15856,7 +15861,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70077
+      "UsersEstimate": 70078
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -15992,7 +15997,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70077
+      "UsersEstimate": 70078
     },
     {
       "ID": "achievement_story_neon_child",
@@ -16008,7 +16013,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154170
+      "UsersEstimate": 154171
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -16280,7 +16285,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182201
+      "UsersEstimate": 182202
     },
     {
       "ID": "achievement_win_run_hard",
@@ -16296,7 +16301,7 @@
       "Name": "Geno Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14015
+      "UsersEstimate": 14016
     },
     {
       "ID": "achievement_win_run_with_church",
@@ -16312,7 +16317,7 @@
       "Name": "Hammer Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14015
+      "UsersEstimate": 14016
     },
     {
       "ID": "achievement_win_run_with_pirate",
@@ -16455,21 +16460,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11117,
+      "Progressed": 11118,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467183,
+      "Progressed": 467184,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-12T09:05:58.182237+00:00",
+  "LastChanged_Achievements": "2023-09-12T10:06:12.3508231+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.6494953+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:57:12.0381372+00:00",
-  "LastUpdate_Achievements": "2023-09-12T09:05:58.1825589+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:57:12.6440857+00:00",
+  "LastUpdate_Achievements": "2023-09-12T10:06:12.3510089+00:00"
 }

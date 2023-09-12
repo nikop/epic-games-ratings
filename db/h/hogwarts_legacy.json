@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7524,9 +7524,9 @@
       "Count": 634
     }
   ],
-  "EOS_Progressed": 296450,
+  "EOS_Progressed": 296452,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1860,
+  "EOS_NewPlayers": 1855,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23219,6 +23219,11 @@
       "Time": "2023-09-12T09:07:01.7162425+00:00",
       "NumProgressed": 296450,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-12T10:07:17.1103767+00:00",
+      "NumProgressed": 296452,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23262,7 +23267,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26680
+      "UsersEstimate": 26681
     },
     {
       "ID": "PFA_14",
@@ -23334,7 +23339,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26680
+      "UsersEstimate": 26681
     },
     {
       "ID": "PFA_22",
@@ -23366,7 +23371,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14822
+      "UsersEstimate": 14823
     },
     {
       "ID": "PFA_26",
@@ -23398,7 +23403,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14822
+      "UsersEstimate": 14823
     },
     {
       "ID": "PFA_3",
@@ -23422,7 +23427,7 @@
       "Name": "Savvy Spender",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "PFA_32",
@@ -23454,7 +23459,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26680
+      "UsersEstimate": 26681
     },
     {
       "ID": "PFA_36",
@@ -23502,7 +23507,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "PFA_41",
@@ -23510,7 +23515,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14822
+      "UsersEstimate": 14823
     },
     {
       "ID": "PFA_42",
@@ -23542,7 +23547,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "PFA_5",
@@ -23558,7 +23563,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38538
+      "UsersEstimate": 38539
     },
     {
       "ID": "PFA_7",
@@ -23589,7 +23594,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296450,
+      "Progressed": 296452,
       "Completed": 470
     }
   ],
@@ -23597,8 +23602,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-11T19:00:08.766041+00:00",
-  "LastChanged_Achievements": "2023-09-12T09:07:01.7162418+00:00",
+  "LastChanged_Achievements": "2023-09-12T10:07:17.1103762+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:59:45.8073292+00:00",
-  "LastUpdate_Achievements": "2023-09-12T09:07:01.716484+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:59:50.5865946+00:00",
+  "LastUpdate_Achievements": "2023-09-12T10:07:17.1104992+00:00"
 }

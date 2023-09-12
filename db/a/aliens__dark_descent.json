@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -312,9 +312,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3236,
+  "EOS_Progressed": 3237,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4162,6 +4162,11 @@
       "Time": "2023-09-12T06:06:13.8151629+00:00",
       "NumProgressed": 3236,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-12T10:05:38.7809735+00:00",
+      "NumProgressed": 3237,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4205,7 +4210,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -4213,7 +4218,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -4221,7 +4226,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -4229,7 +4234,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -4277,7 +4282,7 @@
       "Name": "Regicide",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -4293,7 +4298,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2169
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4365,7 +4370,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "ACH_MISSION_02",
@@ -4373,7 +4378,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "ACH_MISSION_03",
@@ -4397,7 +4402,7 @@
       "Name": "Where It All Begun",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH_MISSION_06",
@@ -4469,7 +4474,7 @@
       "Name": "Snatched Out",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -4501,7 +4506,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -4517,7 +4522,7 @@
       "Name": "The More The Merrier",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -4532,7 +4537,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3236,
+      "Progressed": 3237,
       "Completed": 3
     }
   ],
@@ -4540,8 +4545,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-09T16:57:24.5411658+00:00",
-  "LastChanged_Achievements": "2023-09-12T09:05:24.9549333+00:00",
+  "LastChanged_Achievements": "2023-09-12T10:05:38.7809715+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.1114534+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:58:21.163837+00:00",
-  "LastUpdate_Achievements": "2023-09-12T09:05:24.9550389+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:58:22.384663+00:00",
+  "LastUpdate_Achievements": "2023-09-12T10:05:38.7810294+00:00"
 }
