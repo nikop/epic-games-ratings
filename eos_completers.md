@@ -2,7 +2,7 @@
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
-| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.99% |
+| 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.46% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -29,7 +29,7 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.16% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.15% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.82% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
@@ -164,8 +164,8 @@
 | 161 | [Train Valley](games/t/train_valley.md) | 0.44% |
 | 163 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
 | 164 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
-| 165 | [Ghostrunner](games/g/ghostrunner.md) | 0.39% |
-| 166 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
+| 165 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 165 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.38% |
 | 167 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.37% |
 | 167 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
 | 169 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.36% |
@@ -192,10 +192,10 @@
 | 189 | [Despot's Game](games/d/despot's_game.md) | 0.24% |
 | 191 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.23% |
 | 191 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.23% |
-| 193 | [Blanc](games/b/blanc.md) | 0.22% |
-| 193 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 195 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 195 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 191 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 194 | [Blanc](games/b/blanc.md) | 0.22% |
+| 194 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
+| 196 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 197 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 198 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 198 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
