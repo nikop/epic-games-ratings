@@ -41,7 +41,7 @@
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,068 | 4.57 | 449 |
 | 40 | [Control](games/c/control.md) | 8,497 | 4.60 | 394 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,149 | 4.89 | 13 |
-| 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,974 | 4.48 | 601 |
+| 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 7,983 | 4.48 | 601 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,829 | 4.85 | 43 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,807 | 4.57 | 449 |
 | 45 | [Supraland](games/s/supraland.md) | 7,684 | 4.61 | 368 |
@@ -407,22 +407,22 @@
 | 405 | [ATOM RPG](games/a/atom_rpg.md) | 50 | 4.47 | 613 |
 | 405 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 872 |
 | 405 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 50 | 4.56 | 469 |
+| 408 | [Black Book](games/b/black_book.md) | 49 | 4.69 | 217 |
 | 408 | [Quake](games/q/quake.md) | 49 | 4.76 | 117 |
 | 408 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 49 | 4.35 | 756 |
-| 410 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 50 |
-| 410 | [Expeditions: Rome](games/e/expeditions__rome.md) | 47 | 4.66 | 280 |
-| 410 | [The Alto Collection](games/t/the_alto_collection.md) | 47 | 4.70 | 203 |
-| 413 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 449 |
-| 413 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 842 |
-| 415 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.59 | 417 |
-| 415 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 954 |
-| 415 | [Black Book](games/b/black_book.md) | 45 | 4.69 | 217 |
-| 415 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 45 | 4.75 | 136 |
-| 415 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 45 | 4.30 | 798 |
-| 415 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 45 | 4.82 | 66 |
-| 415 | [STG Football](games/s/stg_football.md) | 45 | 4.44 | 649 |
-| 415 | [The Riftbreaker](games/t/the_riftbreaker.md) | 45 | 4.76 | 117 |
-| 415 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 45 | 4.36 | 747 |
+| 411 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 50 |
+| 411 | [Expeditions: Rome](games/e/expeditions__rome.md) | 47 | 4.66 | 280 |
+| 411 | [The Alto Collection](games/t/the_alto_collection.md) | 47 | 4.70 | 203 |
+| 414 | [AXIOM VERGE](games/a/axiom_verge.md) | 46 | 4.57 | 449 |
+| 414 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 842 |
+| 416 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.59 | 417 |
+| 416 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 954 |
+| 416 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 45 | 4.75 | 136 |
+| 416 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 45 | 4.30 | 798 |
+| 416 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 45 | 4.82 | 66 |
+| 416 | [STG Football](games/s/stg_football.md) | 45 | 4.44 | 649 |
+| 416 | [The Riftbreaker](games/t/the_riftbreaker.md) | 45 | 4.76 | 117 |
+| 416 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 45 | 4.36 | 747 |
 | 424 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 42 | 4.52 | 533 |
 | 425 | [Coromon](games/c/coromon.md) | 41 | 4.66 | 280 |
 | 425 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 41 | 4.76 | 117 |
