@@ -5,9 +5,10 @@
 | ---- | ---------- | ----- |
 | Highly Sprung | 86.00% | ~6 |
 | The Prison | 43.00% | ~3 |
+| Fun and Games Ahead | 29.00% | ~2 |
 | Six's Song | 29.00% | ~2 |
 | The Lair | 29.00% | ~2 |
-| Fun and Games Ahead | 14.00% | ~1 |
+| So Close | 14.00% | ~1 |
 | The Guest Area | 14.00% | ~1 |
 | We'll Meet Again | 14.00% | ~1 |
 | Ashes in The Maw | 0.00% | ~0 |
@@ -22,7 +23,6 @@
 | Little Lost Things | 0.00% | ~0 |
 | Not Alone | 0.00% | ~0 |
 | Rascal | 0.00% | ~0 |
-| So Close | 0.00% | ~0 |
 | The Kitchen | 0.00% | ~0 |
 | The Lady's Quarters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

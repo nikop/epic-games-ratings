@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -64,11 +64,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 651,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.85,
+  "EOS_Completed_Percentage": 3.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -2359,6 +2359,11 @@
       "Time": "2023-09-12T13:09:12.8295867+00:00",
       "NumProgressed": 650,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-12T14:04:32.4045322+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2370,7 +2375,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "MQ01_2",
@@ -2378,7 +2383,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "MQ02_1",
@@ -2386,7 +2391,7 @@
       "Name": "High Profile",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "MQ02_2",
@@ -2410,7 +2415,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "MQ03_1",
@@ -2434,7 +2439,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "MQ03_4",
@@ -2450,7 +2455,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "MQ04_1",
@@ -2474,7 +2479,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "MQ05_1",
@@ -2514,7 +2519,7 @@
       "Name": "Brain Food",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "MQ06_2",
@@ -2552,9 +2557,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 299
+      "UsersEstimate": 293
     },
     {
       "ID": "MQ08_1",
@@ -2568,9 +2573,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 286
+      "UsersEstimate": 280
     },
     {
       "ID": "MQ08_3",
@@ -2586,14 +2591,14 @@
       "Name": "Reawakened",
       "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 25
     }
   ],
@@ -2601,8 +2606,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:09:12.8295861+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:04:32.4045316+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:04:52.2561249+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:09:12.8296197+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:59:56.9084614+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:04:32.4045664+00:00"
 }

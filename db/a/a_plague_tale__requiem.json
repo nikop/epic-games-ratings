@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -8238,9 +8238,9 @@
       "ID": "ACH_14",
       "SetID": "9d4cf4c",
       "Name": "Healing our Wounds",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 4797
+      "UsersEstimate": 4927
     },
     {
       "ID": "ACH_15",
@@ -8423,8 +8423,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-09-10T14:03:07.4085051+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:09:56.6717081+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:05:15.5327951+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:51.5709386+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:02:34.6390104+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:09:56.6717803+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:57:39.1100539+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:05:15.532875+00:00"
 }

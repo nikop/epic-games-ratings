@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24044,
+  "EOS_Progressed": 24045,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4807,6 +4807,11 @@
       "Time": "2023-09-11T07:05:29.8511545+00:00",
       "NumProgressed": 24044,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-12T14:04:35.2753953+00:00",
+      "NumProgressed": 24045,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4834,7 +4839,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18514
+      "UsersEstimate": 18515
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4858,7 +4863,7 @@
       "Name": "Creature Feature",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 7213
+      "UsersEstimate": 7214
     },
     {
       "ID": "ACH_GET_GUS",
@@ -4866,7 +4871,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6732
+      "UsersEstimate": 6733
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -4882,7 +4887,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18273
+      "UsersEstimate": 18274
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4938,7 +4943,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13705
+      "UsersEstimate": 13706
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4946,7 +4951,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 14186
+      "UsersEstimate": 14187
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -4978,7 +4983,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6732
+      "UsersEstimate": 6733
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -4986,7 +4991,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -5002,7 +5007,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17552
+      "UsersEstimate": 17553
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -5042,7 +5047,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -5073,22 +5078,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24044,
+      "Progressed": 24045,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1337,
-      "Completed": 1337
+      "Progressed": 1338,
+      "Completed": 1338
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-02T06:57:56.883903+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:09:15.690944+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:04:35.2753947+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:11.7104478+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:05:20.5001209+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:09:15.6909973+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:00:22.5651576+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:04:35.2754528+00:00"
 }

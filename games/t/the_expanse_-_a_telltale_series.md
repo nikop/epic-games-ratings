@@ -5,21 +5,21 @@ Rating: 4.58 (Ranked 429)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Impossible Objects | 31.00% | ~3,239 |
-| Stogie for Fogey | 26.00% | ~2,716 |
-| Martian Music | 23.00% | ~2,403 |
+| Impossible Objects | 31.00% | ~3,240 |
+| Stogie for Fogey | 26.00% | ~2,717 |
+| Martian Music | 23.00% | ~2,404 |
 | Spore Taste | 22.00% | ~2,299 |
 | Captain Drummer | 22.00% | ~2,299 |
 | Celebrations are in Order | 22.00% | ~2,299 |
 | Doctor Approved | 18.00% | ~1,881 |
-| The Pit and the Pirates | 15.00% | ~1,567 |
+| The Pit and the Pirates | 15.00% | ~1,568 |
 | Drone Dodger | 14.00% | ~1,463 |
-| Thorston Mayer | 13.00% | ~1,358 |
+| Thorston Mayer | 13.00% | ~1,359 |
 | Bottoms up! | 10.00% | ~1,045 |
-| Data Logger | 5.00% | ~522 |
-| Data Master | 5.00% | ~522 |
-| Data Recoverer | 5.00% | ~522 |
-| Debris Spree | 3.00% | ~313 |
+| Data Logger | 5.00% | ~523 |
+| Data Master | 5.00% | ~523 |
+| Data Recoverer | 5.00% | ~523 |
+| Debris Spree | 3.00% | ~314 |
 | Urshanabi Hoarder | 2.00% | ~209 |
 | Grave Robber | 2.00% | ~209 |
 | Data Miner | 0.90% | ~94 |
@@ -36,7 +36,7 @@ Rating: 4.58 (Ranked 429)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,448 (Ranked 127)  
+Progressed: 10,451 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 10,336 | 0 |
 | 2023-09-10 | 10,393 | 0 |
 | 2023-09-11 | 10,430 | 0 |
-| 2023-09-12 | 10,448 | 0 |
+| 2023-09-12 | 10,451 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

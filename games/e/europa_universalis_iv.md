@@ -6,27 +6,27 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,028 |
-| That's a Grand Army | 3.00% | ~12,021 |
-| That is mine! | 3.00% | ~12,021 |
-| Victorious! | 3.00% | ~12,021 |
-| Brothers in Arms | 2.00% | ~8,014 |
-| For the Glory | 2.00% | ~8,014 |
-| That's a Grand Navy | 2.00% | ~8,014 |
-| Seriously?! | 2.00% | ~8,014 |
-| Cold War | 1.00% | ~4,007 |
-| Defender of the Faith | 1.00% | ~4,007 |
-| It's all about the money | 1.00% | ~4,007 |
-| The Princess is in this Castle | 1.00% | ~4,007 |
-| True Catholic | 1.00% | ~4,007 |
-| Respected | 0.90% | ~3,606 |
-| Truly Divine Ruler | 0.90% | ~3,606 |
+| Until death do us apart | 4.00% | ~16,031 |
+| That's a Grand Army | 3.00% | ~12,023 |
+| That is mine! | 3.00% | ~12,023 |
+| Victorious! | 3.00% | ~12,023 |
+| Brothers in Arms | 2.00% | ~8,016 |
+| For the Glory | 2.00% | ~8,016 |
+| That's a Grand Navy | 2.00% | ~8,016 |
+| Seriously?! | 2.00% | ~8,016 |
+| Cold War | 1.00% | ~4,008 |
+| Defender of the Faith | 1.00% | ~4,008 |
+| It's all about the money | 1.00% | ~4,008 |
+| The Princess is in this Castle | 1.00% | ~4,008 |
+| True Catholic | 1.00% | ~4,008 |
+| Respected | 0.90% | ~3,607 |
+| Truly Divine Ruler | 0.90% | ~3,607 |
 | It's all about luck | 0.80% | ~3,206 |
 | Blockader | 0.70% | ~2,805 |
 | Double the Love | 0.70% | ~2,805 |
 | Royal Authority | 0.70% | ~2,805 |
 | Total Control | 0.70% | ~2,805 |
-| My armies are invincible! | 0.60% | ~2,404 |
+| My armies are invincible! | 0.60% | ~2,405 |
 | Agressive Expander | 0.50% | ~2,004 |
 | City of Cities | 0.50% | ~2,004 |
 | Combined Arms | 0.50% | ~2,004 |
@@ -45,15 +45,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.30% | ~1,202 |
 | The Five Colonies | 0.30% | ~1,202 |
 | Trustworthy | 0.30% | ~1,202 |
-| All belongs to Mother Russia | 0.20% | ~801 |
-| At every continent | 0.20% | ~801 |
-| Electable! | 0.20% | ~801 |
-| Grand Coalition | 0.20% | ~801 |
-| One Family to Rule them All | 0.20% | ~801 |
-| Ruina Imperii | 0.20% | ~801 |
-| The pen is mightier than the sword | 0.20% | ~801 |
-| Time Bandit | 0.20% | ~801 |
-| Traditional Player | 0.20% | ~801 |
+| All belongs to Mother Russia | 0.20% | ~802 |
+| At every continent | 0.20% | ~802 |
+| Electable! | 0.20% | ~802 |
+| Grand Coalition | 0.20% | ~802 |
+| One Family to Rule them All | 0.20% | ~802 |
+| Ruina Imperii | 0.20% | ~802 |
+| The pen is mightier than the sword | 0.20% | ~802 |
+| Time Bandit | 0.20% | ~802 |
+| Traditional Player | 0.20% | ~802 |
 | The 52 Garhs | 0.10% | ~401 |
 | I don't like sand | 0.10% | ~401 |
 | A Blessed Nation | 0.10% | ~401 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400,711 (Ranked 40)  
+Progressed: 400,776 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -506,10 +506,10 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 397,873 | 0 |
 | 2023-09-10 | 399,390 | 0 |
 | 2023-09-11 | 400,309 | 0 |
-| 2023-09-12 | 400,711 | 0 |
+| 2023-09-12 | 400,776 | 0 |
 ## Awards
 Max (Educational): 6,051  (Ranked 56)  
-Sum: 49,744 (Ranked 26)  
+Sum: 49,760 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -517,7 +517,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 5,779 |
 | This game has Challenging Combat | 5,730 |
 | This game is Extremely Fun | 5,728 |
-| This game has Diverse Characters | 5,701 |
+| This game has Diverse Characters | 5,717 |
 | This game is Relaxing | 5,560 |
 | This game has Competitive Players | 5,402 |
 | This game has Amazing Storytelling | 5,081 |
@@ -764,4 +764,4 @@ Diff (max vs sum): 30
 | 2023-09-09 | 4.69 | - | 6,006 | 49,449 |
 | 2023-09-10 | 4.69 | - | 6,030 | 49,601 |
 | 2023-09-11 | 4.69 | - | 6,051 | 49,712 |
-| 2023-09-12 | 4.69 | - | 6,051 | 49,744 |
+| 2023-09-12 | 4.69 | - | 6,051 | 49,760 |

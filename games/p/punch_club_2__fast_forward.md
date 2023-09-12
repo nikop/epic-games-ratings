@@ -8,10 +8,10 @@
 | Good Person Chip | 86.00% | ~277 |
 | Your first fight | 86.00% | ~277 |
 | First winning | 85.00% | ~274 |
-| Your first job | 83.00% | ~267 |
+| Your first job | 84.00% | ~270 |
 | Old movies enjoyer | 80.00% | ~258 |
 | Fitness professional | 79.00% | ~254 |
-| Depressed visitor | 78.00% | ~251 |
+| Depressed visitor | 79.00% | ~254 |
 | Employee of the week | 78.00% | ~251 |
 | Neurotrainer – power gainer! | 77.00% | ~248 |
 | Your own amateur gym | 75.00% | ~242 |

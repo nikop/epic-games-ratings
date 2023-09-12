@@ -13,6 +13,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.40% | ~914 |
 | Maddening | 0.30% | ~686 |
 | Were-verpowered | 0.30% | ~686 |
+| A Persistent Buzzing | 0.30% | ~686 |
 | Seeking Allies | 0.30% | ~686 |
 | Are Ya Chicken? | 0.30% | ~686 |
 | Mad Cow Disease | 0.30% | ~686 |
@@ -23,7 +24,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.20% | ~457 |
 | Vecna Lives! | 0.20% | ~390 |
 | Vecna Loots! | 0.20% | ~390 |
-| A Persistent Buzzing | 0.20% | ~457 |
 | Beast Mode | 0.20% | ~457 |
 | Terror in the Dark | 0.20% | ~457 |
 | Low Initiative | 0.20% | ~457 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,508 (Ranked 54)  
+Progressed: 228,509 (Ranked 54)  
 Completed: 2,272 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,14 +672,14 @@ Completed: 2,272 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
-| 2023-09-12 | 228,508 | 2,272 |
+| 2023-09-12 | 228,509 | 2,272 |
 ## Awards
-Max (Diverse Characters): 5,261  (Ranked 67)  
-Sum: 31,542 (Ranked 39)  
+Max (Diverse Characters): 5,266  (Ranked 67)  
+Sum: 31,547 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 5,261 |
+| This game has Diverse Characters | 5,266 |
 | This game is Great for Beginners | 5,246 |
 | This game has Quickly Understood Controls | 4,762 |
 | This game is Relaxing | 4,646 |
@@ -918,4 +918,4 @@ Diff (max vs sum): 28
 | 2023-09-09 | 4.06 | - | 5,246 | 31,491 |
 | 2023-09-10 | 4.06 | - | 5,254 | 31,510 |
 | 2023-09-11 | 4.06 | - | 5,261 | 31,535 |
-| 2023-09-12 | 4.06 | - | 5,261 | 31,542 |
+| 2023-09-12 | 4.06 | - | 5,266 | 31,547 |

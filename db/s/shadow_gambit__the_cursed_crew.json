@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -76,8 +76,8 @@
   "Tags": [],
   "EOS_Progressed": 631,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 32,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 31,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
@@ -1824,9 +1824,9 @@
       "ID": "_21_CrewTale_OVT",
       "SetID": "8a1io5d",
       "Name": "Tobacco Travesty",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -1881,8 +1881,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:08:19.6811935+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:03:39.80751+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:05:30.7821664+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:08:19.6812216+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:00:34.1444696+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:03:39.8075396+00:00"
 }

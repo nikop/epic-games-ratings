@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1291,
+  "EOS_Progressed": 1292,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4626,6 +4626,11 @@
       "Time": "2023-09-12T05:03:31.7027451+00:00",
       "NumProgressed": 1291,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-12T14:02:16.8166835+00:00",
+      "NumProgressed": 1292,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4645,7 +4650,7 @@
       "Name": "Exterminator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4813,7 +4818,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4940,14 +4945,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1291,
+      "Progressed": 1292,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:07:05.3414572+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:02:16.8166828+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:04:00.9613569+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:07:05.3415872+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:59:01.4694351+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:02:16.8167482+00:00"
 }

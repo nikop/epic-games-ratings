@@ -2,7 +2,7 @@
   "ID": "d2a9f331cf0f47b6a85a12a0dd380000",
   "Name": "Soundfall",
   "ProductSlug": "soundfall",
-  "Ranking_EOS_Progress": 589,
+  "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T11:57:06.4633685+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:03:24.3003276+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:10:28.3337165+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:58:24.3389525+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:05:48.0972358+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "8a84f291e373466d9b7cc9f7cea4b2e6",
   "Name": "Exo One",
   "ProductSlug": "exo-one",
-  "Ranking_EOS_Progress": 589,
+  "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:46.2956858+00:00",
   "LastChanged": "2023-03-31T05:57:46.2956859+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:31.9998038+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:03:05.5558126+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:11:34.6806107+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:58:06.5916859+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:06:54.4845472+00:00"
 }

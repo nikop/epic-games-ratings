@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 807,
+  "Ranking_Rating": 806,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 99,
@@ -219,7 +219,7 @@
   ],
   "EOS_Progressed": 36433,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16437,8 +16437,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:11:23.3842802+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:06:43.5993584+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.5463786+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:03:11.8427384+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:11:23.3843968+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:58:13.0463954+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:06:43.5994897+00:00"
 }

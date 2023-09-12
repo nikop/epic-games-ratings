@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5924,11 +5924,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27210,
       "NumberOfAwardsMax": 4734
+    },
+    {
+      "Time": "2023-09-12T14:02:08.8951574+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27214,
+      "NumberOfAwardsMax": 4738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27210,
-  "NumberOfAwardsMax": 4734,
+  "NumberOfAwards": 27214,
+  "NumberOfAwardsMax": 4738,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5947,7 +5953,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4734
+      "Count": 4738
     },
     {
       "Text": "This game has Easy Combat",
@@ -5980,9 +5986,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136067,
+  "EOS_Progressed": 136074,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20905,6 +20911,11 @@
       "Time": "2023-09-12T12:06:14.4492888+00:00",
       "NumProgressed": 136067,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-09-12T14:06:24.9380802+00:00",
+      "NumProgressed": 136074,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 112,
@@ -21404,7 +21415,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "gold04",
@@ -21508,7 +21519,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "level03",
@@ -21628,7 +21639,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "quest02",
@@ -21788,7 +21799,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "workers03",
@@ -21811,15 +21822,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136067,
+      "Progressed": 136074,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-12T13:05:48.9397849+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:11:04.6720312+00:00",
+  "LastChanged": "2023-09-12T14:02:08.8951572+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:06:24.9380792+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:05:48.9397855+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:11:04.6722439+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:02:08.8951579+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:06:24.9383422+00:00"
 }

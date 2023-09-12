@@ -50,7 +50,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.70% | ~116 |
 | Beaver Utopia | 0.60% | ~100 |
 | Human Utopia | 0.60% | ~100 |
-| The Queen's Chosen | 0.50% | ~83 |
+| The Queen's Chosen | 0.60% | ~100 |
 | Harpy Utopia | 0.40% | ~66 |
 | Ruins | 0.40% | ~66 |
 | Treasure | 0.30% | ~50 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1424,
+  "EOS_Progressed": 1425,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1659,6 +1659,11 @@
       "Time": "2023-09-09T20:03:13.0329272+00:00",
       "NumProgressed": 1424,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-12T14:03:47.3749057+00:00",
+      "NumProgressed": 1425,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1734,7 +1739,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "18",
@@ -1870,7 +1875,7 @@
       "Name": "An eye for an eye",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "6",
@@ -1909,15 +1914,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1424,
+      "Progressed": 1425,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:08:27.1794855+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:03:47.3749051+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:51.3922449+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:02:34.5834075+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:08:27.1795207+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:57:38.9678487+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:03:47.3749386+00:00"
 }

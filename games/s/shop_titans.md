@@ -27,10 +27,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.80% | ~1,089 |
 | Where it Hurts | 0.80% | ~1,089 |
 | Dungeon Imports | 0.80% | ~1,089 |
-| Gild-Gotten Goods | 0.70% | ~952 |
-| Accomplished Merchant | 0.70% | ~952 |
-| Did we pack lunch? | 0.70% | ~952 |
-| Arcane Industries | 0.70% | ~952 |
+| Gild-Gotten Goods | 0.70% | ~953 |
+| Accomplished Merchant | 0.70% | ~953 |
+| Did we pack lunch? | 0.70% | ~953 |
+| Arcane Industries | 0.70% | ~953 |
 | On the Path to Greatness | 0.60% | ~816 |
 | Ascended | 0.60% | ~816 |
 | Research & Development | 0.60% | ~816 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,067 (Ranked 68)  
+Progressed: 136,074 (Ranked 68)  
 Completed: 149 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,14 +264,14 @@ Completed: 149 (0.11%) (Ranked 216)
 | 2023-09-09 | 135,932 | 147 |
 | 2023-09-10 | 136,005 | 148 |
 | 2023-09-11 | 136,043 | 149 |
-| 2023-09-12 | 136,067 | 149 |
+| 2023-09-12 | 136,074 | 149 |
 ## Awards
-Max (Great for Beginners): 4,734  (Ranked 71)  
-Sum: 27,210 (Ranked 48)  
+Max (Great for Beginners): 4,738  (Ranked 71)  
+Sum: 27,214 (Ranked 48)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,734 |
+| This game is Great for Beginners | 4,738 |
 | This game is Relaxing | 4,010 |
 | This game has Quickly Understood Controls | 3,993 |
 | This game has Diverse Characters | 3,876 |
@@ -510,4 +510,4 @@ Diff (max vs sum): 23
 | 2023-09-09 | 3.99 | - | 4,733 | 27,199 |
 | 2023-09-10 | 3.99 | - | 4,733 | 27,202 |
 | 2023-09-11 | 3.99 | - | 4,734 | 27,207 |
-| 2023-09-12 | 3.99 | - | 4,734 | 27,210 |
+| 2023-09-12 | 3.99 | - | 4,738 | 27,214 |

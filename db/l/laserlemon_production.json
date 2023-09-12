@@ -96,9 +96,9 @@
       "ID": "FunAndGamesAhead",
       "SetID": "c36hpcf",
       "Name": "Fun and Games Ahead",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Glissando",
@@ -184,9 +184,9 @@
       "ID": "SoClose",
       "SetID": "c36hpcf",
       "Name": "So Close",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TheGuestArea",
@@ -246,8 +246,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:09:12.835403+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:04:32.4433334+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:04:00.5240086+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:09:12.8354165+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:59:01.0013975+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:04:32.4433486+00:00"
 }

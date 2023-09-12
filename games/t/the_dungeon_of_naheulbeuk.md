@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,799 |
+| Sowwy! | 29.00% | ~64,803 |
 | Where's that freaking Dwarf? | 4.00% | ~8,938 |
 | Alt+F4 | 4.00% | ~8,938 |
-| Déjà vu | 3.00% | ~6,703 |
-| Sock! SOCK! | 3.00% | ~6,703 |
+| Déjà vu | 3.00% | ~6,704 |
+| Sock! SOCK! | 3.00% | ~6,704 |
 | Way of the Wimp | 2.00% | ~4,469 |
 | A beer, two curses, three companions | 2.00% | ~4,469 |
 | The plot thickens... At the tavern | 2.00% | ~4,469 |
@@ -18,21 +18,21 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 2.00% | ~4,469 |
 | Speedrun | 2.00% | ~4,469 |
 | Fireproof Wizardess | 2.00% | ~4,469 |
-| Livin' in a dwarven paradise | 1.00% | ~2,234 |
-| Shiny and Crôm | 1.00% | ~2,234 |
-| The demons' feast | 1.00% | ~2,234 |
-| The Great Library | 1.00% | ~2,234 |
-| Torture and Sensibility | 1.00% | ~2,234 |
-| Urik's Depths | 1.00% | ~2,234 |
-| The Dungeon Master | 1.00% | ~2,234 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,234 |
-| The Woman in the High Castle | 1.00% | ~2,234 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,234 |
-| The beards of change | 1.00% | ~2,234 |
-| The Ranger of Chaos | 1.00% | ~2,234 |
-| I am the night | 1.00% | ~2,234 |
-| Team Building Exercise | 1.00% | ~2,234 |
-| Oh, when I'll be level 10... | 1.00% | ~2,234 |
+| Livin' in a dwarven paradise | 1.00% | ~2,235 |
+| Shiny and Crôm | 1.00% | ~2,235 |
+| The demons' feast | 1.00% | ~2,235 |
+| The Great Library | 1.00% | ~2,235 |
+| Torture and Sensibility | 1.00% | ~2,235 |
+| Urik's Depths | 1.00% | ~2,235 |
+| The Dungeon Master | 1.00% | ~2,235 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,235 |
+| The Woman in the High Castle | 1.00% | ~2,235 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,235 |
+| The beards of change | 1.00% | ~2,235 |
+| The Ranger of Chaos | 1.00% | ~2,235 |
+| I am the night | 1.00% | ~2,235 |
+| Team Building Exercise | 1.00% | ~2,235 |
+| Oh, when I'll be level 10... | 1.00% | ~2,235 |
 | The Famous Dungeon of Naheulbeuk | 0.90% | ~2,011 |
 | %#*!$*! | 0.90% | ~2,011 |
 | Look but don't touch | 0.90% | ~2,011 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,445 (Ranked 56)  
+Progressed: 223,457 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-09 | 222,713 | 2 |
 | 2023-09-10 | 223,093 | 2 |
 | 2023-09-11 | 223,344 | 2 |
-| 2023-09-12 | 223,445 | 2 |
+| 2023-09-12 | 223,457 | 2 |
 ## Awards
 Max (Character Customization): 193  (Ranked 276)  
 Sum: 308 (Ranked 338)  

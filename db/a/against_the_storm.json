@@ -10716,9 +10716,9 @@
       "ID": "WinPrestige20",
       "SetID": "cfbk359",
       "Name": "The Queen\u0027s Chosen",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 100
     },
     {
       "ID": "WinVeryHard",
@@ -10820,8 +10820,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-09-12T01:38:35.5654062+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:10:57.3625184+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:06:17.7213686+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.2014091+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:03:48.5970552+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:10:57.3626085+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:58:48.8684345+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:06:17.721463+00:00"
 }

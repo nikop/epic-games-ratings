@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107419,
+  "EOS_Progressed": 107423,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 908,
+  "EOS_NewPlayers": 903,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10606,6 +10606,11 @@
       "Time": "2023-09-12T13:11:32.3835865+00:00",
       "NumProgressed": 107419,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-09-12T14:06:52.2306909+00:00",
+      "NumProgressed": 107423,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 49,
@@ -10625,7 +10630,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81638
+      "UsersEstimate": 81641
     },
     {
       "ID": "EAwards_10",
@@ -10633,7 +10638,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11816
+      "UsersEstimate": 11817
     },
     {
       "ID": "EAwards_11",
@@ -10641,7 +10646,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 27929
+      "UsersEstimate": 27930
     },
     {
       "ID": "EAwards_12",
@@ -10681,7 +10686,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7519
+      "UsersEstimate": 7520
     },
     {
       "ID": "EAwards_17",
@@ -10689,7 +10694,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38671
+      "UsersEstimate": 38672
     },
     {
       "ID": "EAwards_18",
@@ -10713,7 +10718,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51561
+      "UsersEstimate": 51563
     },
     {
       "ID": "EAwards_20",
@@ -10745,7 +10750,7 @@
       "Name": "These are not fertilized",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7519
+      "UsersEstimate": 7520
     },
     {
       "ID": "EAwards_24",
@@ -10753,7 +10758,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7519
+      "UsersEstimate": 7520
     },
     {
       "ID": "EAwards_25",
@@ -10761,7 +10766,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19335
+      "UsersEstimate": 19336
     },
     {
       "ID": "EAwards_26",
@@ -10769,7 +10774,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 11816
+      "UsersEstimate": 11817
     },
     {
       "ID": "EAwards_27",
@@ -10889,7 +10894,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12890
+      "UsersEstimate": 12891
     },
     {
       "ID": "EAwards_40",
@@ -10985,7 +10990,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11816
+      "UsersEstimate": 11817
     },
     {
       "ID": "EAwards_8",
@@ -10993,7 +10998,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11816
+      "UsersEstimate": 11817
     },
     {
       "ID": "EAwards_9",
@@ -11008,7 +11013,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107419,
+      "Progressed": 107423,
       "Completed": 41
     }
   ],
@@ -11016,8 +11021,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:11:32.3835857+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:06:52.2306902+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.278544+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:04:15.9469177+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:11:32.3836929+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:59:16.3598018+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:06:52.2308049+00:00"
 }

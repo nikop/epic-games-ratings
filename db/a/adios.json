@@ -102,9 +102,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73038,
+  "EOS_Progressed": 73039,
   "EOS_Completed": 754,
-  "EOS_NewPlayers": 648,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -16212,6 +16212,11 @@
       "Time": "2023-09-12T13:09:00.9219663+00:00",
       "NumProgressed": 73038,
       "NumCompleted": 754
+    },
+    {
+      "Time": "2023-09-12T14:04:20.6408454+00:00",
+      "NumProgressed": 73039,
+      "NumCompleted": 754
     }
   ],
   "TotalAchievements": 25,
@@ -16255,7 +16260,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 16068
+      "UsersEstimate": 16069
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -16311,7 +16316,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6573
+      "UsersEstimate": 6574
     },
     {
       "ID": "Magnetic Miracles",
@@ -16422,7 +16427,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73038,
+      "Progressed": 73039,
       "Completed": 754
     }
   ],
@@ -16430,8 +16435,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-09T23:58:12.669114+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:09:00.9219657+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:04:20.6408445+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.4518852+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:04:00.884203+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:09:00.9220628+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:59:01.3754535+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:04:20.640996+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 136,
   "Ranking_Popularity": 187,
   "Ranking_PopularitySum": 122,
-  "Ranking_EOS_Progress": 589,
+  "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
@@ -6916,10 +6916,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5957,
       "NumberOfAwardsMax": 592
+    },
+    {
+      "Time": "2023-09-12T13:57:02.3021634+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5960,
+      "NumberOfAwardsMax": 592
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5957,
+  "NumberOfAwards": 5960,
   "NumberOfAwardsMax": 592,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -6927,7 +6933,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 534
+      "Count": 537
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7013,8 +7019,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2023-09-12T13:02:00.1863579+00:00",
+  "LastChanged": "2023-09-12T13:57:02.3021633+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:24.512142+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:02:00.1863585+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:11:05.5870035+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:57:02.3021639+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:06:25.674822+00:00"
 }

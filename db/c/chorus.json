@@ -2250,9 +2250,9 @@
       "ID": "UseRepairDrones",
       "SetID": "a6c395p",
       "Name": "Phoenix",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 517
     },
     {
       "ID": "VisitAllLocations",
@@ -2282,8 +2282,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-09-12T13:10:57.3185913+00:00",
+  "LastChanged_Achievements": "2023-09-12T14:06:17.5166021+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:02.2329169+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:03:14.8417482+00:00",
-  "LastUpdate_Achievements": "2023-09-12T13:10:57.3186362+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:58:16.034151+00:00",
+  "LastUpdate_Achievements": "2023-09-12T14:06:17.5167061+00:00"
 }
