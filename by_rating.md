@@ -17,7 +17,7 @@
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 517 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 433 | 209 |
 | 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 517 |
-| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,226 | 21 |
+| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,253 | 21 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 308 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,255 | 78 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 175,190 | 6 |
@@ -108,7 +108,7 @@
 | 101 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,485 | 124 |
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 938 | 149 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
-| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,807 | 69 |
+| 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,838 | 69 |
 | 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,014 | 51 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,536 | 17 |
 | 109 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 517 |
@@ -250,7 +250,7 @@
 | 242 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 480 |
 | 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,062 | 80 |
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 305,450 | 3 |
-| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 224,426 | 4 |
+| 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 224,844 | 4 |
 | 242 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 517 |
 | 242 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 564 | 192 |
 | 242 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 685 | 172 |
@@ -626,7 +626,7 @@
 | 613 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.47 | 0 | 517 |
 | 613 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 517 |
 | 626 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 517 |
-| 626 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,556 | 86 |
+| 626 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,561 | 86 |
 | 626 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 517 |
 | 626 | [Chorus](games/c/chorus.md) | 4.46 | 32 | 458 |
 | 626 | [Faeria](games/f/faeria.md) | 4.46 | 111 | 329 |
@@ -710,7 +710,7 @@
 | 689 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.41 | 173 | 286 |
 | 689 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 562 | 193 |
 | 689 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 517 |
-| 689 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,315 | 132 |
+| 689 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,318 | 132 |
 | 712 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 517 |
 | 712 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,030 | 142 |
 | 712 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 517 |
@@ -827,12 +827,12 @@
 | 821 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 0 | 517 |
 | 821 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,552 | 99 |
 | 821 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 517 |
-| 828 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 19,190 | 20 |
-| 828 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 517 |
-| 828 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.26 | 0 | 517 |
-| 828 | [The Fall](games/t/the_fall.md) | 4.26 | 0 | 517 |
-| 828 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 517 |
-| 828 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 239 |
+| 821 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 517 |
+| 829 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 19,190 | 20 |
+| 829 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 517 |
+| 829 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.26 | 0 | 517 |
+| 829 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 517 |
+| 829 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 239 |
 | 834 | [Against All Odds](games/a/against_all_odds.md) | 4.25 | 0 | 517 |
 | 834 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 498 |
 | 834 | [EVE Online](games/e/eve_online.md) | 4.25 | 1,077 | 138 |

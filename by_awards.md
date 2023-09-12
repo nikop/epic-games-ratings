@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,681,421 | 4.29 | 807 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 537,834 | 4.49 | 582 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 305,450 | 4.68 | 242 |
-| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 224,426 | 4.68 | 242 |
+| 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 224,844 | 4.68 | 242 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 199,985 | 4.19 | 872 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 175,190 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 148,056 | 4.51 | 547 |
@@ -19,8 +19,8 @@
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 22,536 | 4.77 | 109 |
 | 18 | [Dauntless](games/d/dauntless.md) | 21,873 | 4.53 | 519 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,446 | 4.57 | 450 |
-| 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 19,190 | 4.26 | 828 |
-| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,226 | 4.89 | 13 |
+| 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 19,190 | 4.26 | 829 |
+| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,253 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 17,019 | 4.60 | 394 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,282 | 4.76 | 117 |
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,475 | 4.58 | 429 |
@@ -68,7 +68,7 @@
 | 66 | [Cities: Skylines](games/c/cities__skylines.md) | 5,375 | 4.66 | 280 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,261 | 4.06 | 932 |
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,924 | 4.69 | 217 |
-| 69 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,807 | 4.77 | 109 |
+| 69 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,838 | 4.77 | 109 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,747 | 4.56 | 469 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,734 | 3.99 | 944 |
 | 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,606 | 4.60 | 394 |
@@ -85,7 +85,7 @@
 | 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,755 | 4.28 | 815 |
 | 84 | [League of Legends](games/l/league_of_legends.md) | 3,735 | 4.21 | 858 |
 | 85 | [Paladins](games/p/paladins.md) | 3,606 | 4.34 | 765 |
-| 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,556 | 4.46 | 626 |
+| 86 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,561 | 4.46 | 626 |
 | 87 | [Gloomhaven](games/g/gloomhaven.md) | 3,520 | 4.47 | 613 |
 | 88 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3,515 | 3.98 | 950 |
 | 89 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,493 | 4.68 | 242 |
@@ -131,7 +131,7 @@
 | 128 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,421 | 4.86 | 31 |
 | 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,341 | 4.54 | 502 |
 | 131 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,319 | 4.70 | 203 |
-| 132 | [World of Warships](games/w/world_of_warships.md) | 1,315 | 4.41 | 689 |
+| 132 | [World of Warships](games/w/world_of_warships.md) | 1,318 | 4.41 | 689 |
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 280 |
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,267 | 4.55 | 487 |
 | 135 | [OUTRIDERS](games/o/outriders.md) | 1,201 | 4.42 | 677 |
@@ -238,7 +238,7 @@
 | 236 | [House Flipper](games/h/house_flipper.md) | 310 | 4.69 | 217 |
 | 237 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 332 |
 | 238 | [Railway Empire](games/r/railway_empire.md) | 301 | 4.52 | 533 |
-| 239 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 828 |
+| 239 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 829 |
 | 240 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 287 | 4.46 | 626 |
 | 241 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 286 | 4.56 | 469 |
 | 242 | [Severed Steel](games/s/severed_steel.md) | 283 | 4.69 | 217 |

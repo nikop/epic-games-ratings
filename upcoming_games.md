@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Backrooms: Realm of Shadows](games/b/b5067143ff63434e9c902de3ffd197f6.md) | 2023-09-12 | 24 (1,000 XP) | 2 | - | - |
 | [Nour: Play with Your Food](games/n/nour__play_with_your_food.md) | 2023-09-12 | - |  | - | - |
 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2023-09-12 | 26 (1,000 XP) | 0 | - | - |
 | [Gravity Oddity](games/b/bd49e68e53fc4da0b14d054354575cea.md) | 2023-09-13 | 33 (1,000 XP) | 1 | - | - |
