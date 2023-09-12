@@ -399,6 +399,7 @@
 | [Shalnor Legends 2: Trials of Thunder](../games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 25 | 1,000 |
 | [tERRORbane](../games/t/terrorbane.md) | 25 | 1,000 |
 | [Troublemaker](../games/t/troublemaker.md) | 25 | 1,000 |
+| [Unspottable](../games/u/unspottable.md) | 25 | 1,000 |
 | [Backbeat](../games/b/backbeat.md) | 24 | 1,000 |
 | [Backrooms: Realm of Shadows](../games/b/b5067143ff63434e9c902de3ffd197f6.md) | 24 | 1,000 |
 | [BloodRayne Betrayal Fresh Bites](../games/b/bloodrayne_betrayal_fresh_bites.md) | 24 | 1,000 |

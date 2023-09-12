@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.91% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.57% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.59% |
@@ -29,9 +29,9 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.15% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.14% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
-| 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.82% |
+| 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.80% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
 | 35 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
@@ -51,10 +51,10 @@
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.43% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
-| 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
+| 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
-| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.79% |
-| 55 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
+| 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
+| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.76% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
@@ -67,7 +67,7 @@
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.38% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
 | 67 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
-| 67 | [The Complex](games/t/the_complex.md) | 3.29% |
+| 68 | [The Complex](games/t/the_complex.md) | 3.28% |
 | 69 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 70 | [HordeCore](games/h/hordecore.md) | 3.13% |
 | 71 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.00% |
@@ -87,8 +87,8 @@
 | 85 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.48% |
 | 86 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
 | 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
-| 88 | [Eternights](games/e/eternights.md) | 2.38% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
+| 89 | [Eternights](games/e/eternights.md) | 2.27% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.22% |
 | 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.21% |
@@ -128,8 +128,8 @@
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
-| 128 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.90% |
-| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
+| 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.89% |
+| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
 | 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
@@ -173,10 +173,10 @@
 | 169 | [Wildermyth](games/w/wildermyth.md) | 0.36% |
 | 172 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
 | 172 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.35% |
-| 172 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.35% |
 | 172 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 172 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
-| 177 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
+| 176 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
+| 176 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.34% |
 | 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 180 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
@@ -288,6 +288,7 @@
 | 273 | [ArcRunner](games/a/arcrunner.md) | 0.00% |
 | 273 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 0.00% |
 | 273 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 0.00% |
+| 273 | [Arto](games/a/arto.md) | 0.00% |
 | 273 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | 0.00% |
 | 273 | [Atari Mania](games/a/atari_mania.md) | 0.00% |
 | 273 | [ATOM RPG](games/a/atom_rpg.md) | 0.00% |
@@ -572,6 +573,7 @@
 | 273 | [Troublemaker](games/t/troublemaker.md) | 0.00% |
 | 273 | [Undead Horde](games/u/undead_horde.md) | 0.00% |
 | 273 | [Unrailed!](games/u/unrailed!.md) | 0.00% |
+| 273 | [Unspottable](games/u/unspottable.md) | 0.00% |
 | 273 | [Urbek City Builder](games/u/urbek_city_builder.md) | 0.00% |
 | 273 | [Vagrus - The Riven Realms](games/v/vagrus_-_the_riven_realms.md) | 0.00% |
 | 273 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 0.00% |
