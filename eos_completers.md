@@ -38,8 +38,8 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.20% |
-| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.08% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
+| 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.06% |
 | 41 | [Scorn](games/s/scorn.md) | 7.01% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.50% |
 | 43 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
@@ -53,16 +53,16 @@
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
-| 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
-| 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 56 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
-| 57 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
-| 58 | [ZZT!](games/z/zzt!.md) | 4.12% |
-| 60 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.11% |
+| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.79% |
+| 55 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
+| 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
+| 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
+| 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 59 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
+| 59 | [ZZT!](games/z/zzt!.md) | 4.12% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.84% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [Doodle God](games/d/doodle_god.md) | 3.38% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
@@ -80,15 +80,15 @@
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 80 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
-| 81 | [Eternights](games/e/eternights.md) | 2.63% |
-| 82 | [The Bunker](games/t/the_bunker.md) | 2.59% |
-| 83 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
-| 83 | [Lamentum](games/l/lamentum.md) | 2.50% |
-| 83 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 86 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.48% |
-| 87 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
-| 88 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
-| 89 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
+| 81 | [The Bunker](games/t/the_bunker.md) | 2.59% |
+| 82 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
+| 82 | [Lamentum](games/l/lamentum.md) | 2.50% |
+| 82 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 85 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.48% |
+| 86 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
+| 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
+| 88 | [Eternights](games/e/eternights.md) | 2.38% |
+| 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.22% |
 | 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.21% |
@@ -129,7 +129,7 @@
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 128 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.90% |
-| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.90% |
+| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
 | 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
