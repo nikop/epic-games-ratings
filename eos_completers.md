@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.59% |
 | 8 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.53% |
+| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.38% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.41% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
@@ -88,10 +88,10 @@
 | 86 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
 | 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
-| 89 | [Eternights](games/e/eternights.md) | 2.27% |
-| 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
-| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.22% |
-| 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.21% |
+| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
+| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.22% |
+| 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.21% |
+| 92 | [Eternights](games/e/eternights.md) | 2.17% |
 | 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 94 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.13% |
 | 95 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.09% |
@@ -114,9 +114,9 @@
 | 112 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 114 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.37% |
-| 115 | [Late Shift](games/l/late_shift.md) | 1.24% |
-| 116 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 117 | [Chorus](games/c/chorus.md) | 1.19% |
+| 115 | [Chorus](games/c/chorus.md) | 1.28% |
+| 116 | [Late Shift](games/l/late_shift.md) | 1.24% |
+| 117 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 118 | [Trifox](games/t/trifox.md) | 1.10% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
@@ -129,7 +129,7 @@
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.89% |
-| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
+| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
 | 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
@@ -161,7 +161,7 @@
 | 158 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.46% |
 | 160 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.45% |
 | 161 | [Tchia](games/t/tchia.md) | 0.44% |
-| 161 | [Train Valley](games/t/train_valley.md) | 0.44% |
+| 162 | [Train Valley](games/t/train_valley.md) | 0.43% |
 | 163 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
 | 164 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 165 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.38% |
@@ -294,6 +294,7 @@
 | 273 | [ATOM RPG](games/a/atom_rpg.md) | 0.00% |
 | 273 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
 | 273 | [Backrooms: Realm of Shadows](games/b/b5067143ff63434e9c902de3ffd197f6.md) | 0.00% |
+| 273 | [Batora: Lost Haven](games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 0.00% |
 | 273 | [Battle Ram](games/b/battle_ram.md) | 0.00% |
 | 273 | [Biped](games/b/biped.md) | 0.00% |
 | 273 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 0.00% |
@@ -590,4 +591,4 @@
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,220 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,221 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

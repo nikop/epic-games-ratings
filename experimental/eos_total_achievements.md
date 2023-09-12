@@ -321,6 +321,7 @@
 | [The Outbound Ghost](../games/t/the_outbound_ghost.md) | 31 | 1,000 |
 | [Voltaire: The Vegan Vampire](../games/v/voltaire__the_vegan_vampire.md) | 31 | 1,000 |
 | [Astalon -Tears of the Earth-](../games/a/astalon_-tears_of_the_earth-.md) | 30 | 1,000 |
+| [Batora: Lost Haven](../games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 30 | 1,000 |
 | [Bramble The Mountain King](../games/b/bramble_the_mountain_king.md) | 30 | 1,000 |
 | [Bug Fables -The Everlasting Sapling-](../games/b/bug_fables_-the_everlasting_sapling-.md) | 30 | 1,000 |
 | [Bugsnax](../games/b/bugsnax.md) | 30 | 1,000 |
