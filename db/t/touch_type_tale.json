@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3158,
+  "EOS_Progressed": 3162,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2934,6 +2934,11 @@
       "Time": "2023-09-12T17:05:29.5076955+00:00",
       "NumProgressed": 3158,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-12T18:05:38.6483086+00:00",
+      "NumProgressed": 3162,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -2945,7 +2950,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "bonus2",
@@ -2961,7 +2966,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "bonus4",
@@ -2993,7 +2998,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2814
     },
     {
       "ID": "campaign10",
@@ -3073,7 +3078,7 @@
       "Name": "An Ally in Need",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "campaign2",
@@ -3081,7 +3086,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2498
     },
     {
       "ID": "campaign20",
@@ -3089,7 +3094,7 @@
       "Name": "For the Queen",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "campaign3",
@@ -3097,7 +3102,7 @@
       "Name": "Economics 101",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2024
     },
     {
       "ID": "campaign4",
@@ -3105,7 +3110,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1518
     },
     {
       "ID": "campaign5",
@@ -3113,7 +3118,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "campaign6",
@@ -3129,7 +3134,7 @@
       "Name": "Maestro",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "campaign8",
@@ -3145,7 +3150,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "scenario1",
@@ -3153,7 +3158,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1296
     },
     {
       "ID": "scenario2",
@@ -3177,7 +3182,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "scenario5",
@@ -3208,7 +3213,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3158,
+      "Progressed": 3162,
       "Completed": 11
     }
   ],
@@ -3216,8 +3221,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:05:29.5076937+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:05:38.6483084+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-12T16:59:22.367748+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:05:29.5077412+00:00"
+  "LastUpdate_Ratings": "2023-09-12T17:59:16.0718034+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:05:38.6483393+00:00"
 }

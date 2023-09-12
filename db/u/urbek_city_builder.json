@@ -1165,9 +1165,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CULTURE_2",
@@ -1237,9 +1237,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FAITH_2",
@@ -1405,9 +1405,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1662,8 +1662,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:03:15.4596658+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:03:22.3731905+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:08.8859783+00:00",
-  "LastUpdate_Ratings": "2023-09-12T16:57:34.2819696+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:03:15.4597658+00:00"
+  "LastUpdate_Ratings": "2023-09-12T17:57:23.8310578+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:03:22.3732702+00:00"
 }

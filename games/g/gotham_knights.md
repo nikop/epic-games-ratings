@@ -5,29 +5,29 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,682 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,363 |
-| Loose Ends | 34.00% | ~24,638 |
-| To the Victor Go the Spoils | 28.00% | ~20,290 |
+| First Step Into the Knight | 52.00% | ~37,683 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,364 |
+| Loose Ends | 34.00% | ~24,639 |
+| To the Victor Go the Spoils | 28.00% | ~20,291 |
 | Knighthood | 27.00% | ~19,566 |
-| Get ReQ'd | 25.00% | ~18,116 |
-| Whispered Words | 25.00% | ~18,116 |
-| The Batman Family | 23.00% | ~16,667 |
+| Get ReQ'd | 25.00% | ~18,117 |
+| Whispered Words | 25.00% | ~18,117 |
+| The Batman Family | 23.00% | ~16,668 |
 | Lock and Key | 22.00% | ~15,943 |
 | Something in the Clay | 21.00% | ~15,218 |
-| Quartzer Life Crisis | 20.00% | ~14,493 |
-| Working Hard or Harley Working? | 20.00% | ~14,493 |
-| Unstoppable Force | 20.00% | ~14,493 |
-| Bad Apples in Every Orchard | 20.00% | ~14,493 |
+| Quartzer Life Crisis | 20.00% | ~14,494 |
+| Working Hard or Harley Working? | 20.00% | ~14,494 |
+| Unstoppable Force | 20.00% | ~14,494 |
+| Bad Apples in Every Orchard | 20.00% | ~14,494 |
 | Snow Problem | 19.00% | ~13,769 |
 | The Show Mud Go On | 18.00% | ~13,044 |
-| From Inside Gotham's Walls | 17.00% | ~12,319 |
+| From Inside Gotham's Walls | 17.00% | ~12,320 |
 | Protector of Gotham | 16.00% | ~11,595 |
 | Universal Health Scare | 16.00% | ~11,595 |
 | In Your Element | 15.00% | ~10,870 |
-| Rock and a Hard Place | 14.00% | ~10,145 |
-| Cooldown | 14.00% | ~10,145 |
-| Voiceless | 14.00% | ~10,145 |
+| Rock and a Hard Place | 14.00% | ~10,146 |
+| Cooldown | 14.00% | ~10,146 |
+| Voiceless | 14.00% | ~10,146 |
 | Not On My Watch | 13.00% | ~9,421 |
 | Shock Til They Drop | 13.00% | ~9,421 |
 | Seeking Asylum | 13.00% | ~9,421 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,466 (Ranked 82)  
+Progressed: 72,468 (Ranked 82)  
 Completed: 112 (0.15%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 112 (0.15%) (Ranked 204)
 | 2023-09-09 | 72,298 | 112 |
 | 2023-09-10 | 72,379 | 112 |
 | 2023-09-11 | 72,434 | 112 |
-| 2023-09-12 | 72,466 | 112 |
+| 2023-09-12 | 72,468 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,648  (Ranked 97)  
 Sum: 4,392 (Ranked 139)  

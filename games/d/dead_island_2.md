@@ -5,41 +5,41 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 2.00% | ~13,572 |
-| Hotel California | 2.00% | ~13,572 |
-| Welcome To Hell-A | 2.00% | ~13,572 |
-| Dr. Reed, I Presume? | 1.00% | ~6,786 |
-| Git Gutte! | 1.00% | ~6,786 |
-| Bookworm | 1.00% | ~6,786 |
-| But Doctor, I am Butcho | 1.00% | ~6,786 |
-| Slayer Squad | 1.00% | ~6,786 |
-| Can't Handle the Truth | 1.00% | ~6,786 |
-| Coup de Grâce | 1.00% | ~6,786 |
-| Like Riding a Bike | 1.00% | ~6,786 |
-| Hazardous Materials | 1.00% | ~6,786 |
-| Friends Like These | 1.00% | ~6,786 |
-| Apex Predator | 1.00% | ~6,786 |
-| Zombologist | 1.00% | ~6,786 |
-| A Patton Emerges | 1.00% | ~6,786 |
-| I Am the Resurrection | 1.00% | ~6,786 |
-| Stacking the Deck | 1.00% | ~6,786 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,786 |
-| Our True Nature | 1.00% | ~6,786 |
-| This is My Weapon | 1.00% | ~6,786 |
-| Anger Management | 0.90% | ~6,107 |
-| Perks of the Job | 0.90% | ~6,107 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,107 |
-| Ooh, Shiny! | 0.90% | ~6,107 |
-| Making Your Mark | 0.70% | ~4,750 |
-| Humanity Distilled | 0.70% | ~4,750 |
-| Down with the Sickness | 0.70% | ~4,750 |
+| Break A Leg | 2.00% | ~13,573 |
+| Hotel California | 2.00% | ~13,573 |
+| Welcome To Hell-A | 2.00% | ~13,573 |
+| Dr. Reed, I Presume? | 1.00% | ~6,787 |
+| Git Gutte! | 1.00% | ~6,787 |
+| Bookworm | 1.00% | ~6,787 |
+| But Doctor, I am Butcho | 1.00% | ~6,787 |
+| Slayer Squad | 1.00% | ~6,787 |
+| Can't Handle the Truth | 1.00% | ~6,787 |
+| Coup de Grâce | 1.00% | ~6,787 |
+| Like Riding a Bike | 1.00% | ~6,787 |
+| Hazardous Materials | 1.00% | ~6,787 |
+| Friends Like These | 1.00% | ~6,787 |
+| Apex Predator | 1.00% | ~6,787 |
+| Zombologist | 1.00% | ~6,787 |
+| A Patton Emerges | 1.00% | ~6,787 |
+| I Am the Resurrection | 1.00% | ~6,787 |
+| Stacking the Deck | 1.00% | ~6,787 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,787 |
+| Our True Nature | 1.00% | ~6,787 |
+| This is My Weapon | 1.00% | ~6,787 |
+| Anger Management | 0.90% | ~6,108 |
+| Perks of the Job | 0.90% | ~6,108 |
+| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,108 |
+| Ooh, Shiny! | 0.90% | ~6,108 |
+| Humanity Distilled | 0.80% | ~5,429 |
+| Making Your Mark | 0.70% | ~4,751 |
+| Down with the Sickness | 0.70% | ~4,751 |
 | Max Headroom | 0.60% | ~4,072 |
 | Jumbo Keyring | 0.50% | ~3,393 |
 | Go, Bobcats! | 0.50% | ~3,393 |
 | Rising Star | 0.50% | ~3,393 |
-| Smorgasbord | 0.40% | ~2,714 |
-| Not Even My Final Form | 0.40% | ~2,714 |
-| Internet Famous | 0.40% | ~2,714 |
+| Smorgasbord | 0.40% | ~2,715 |
+| Not Even My Final Form | 0.40% | ~2,715 |
+| Internet Famous | 0.40% | ~2,715 |
 | Make it So | 0.30% | ~2,036 |
 | On Safari | 0.30% | ~2,036 |
 | Variety is the Spice of Death | 0.30% | ~2,036 |
@@ -51,8 +51,8 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,603 (Ranked 22)  
-Completed: 2,141 (0.32%) (Ranked 178)  
+Progressed: 678,656 (Ranked 22)  
+Completed: 2,142 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,18 +196,18 @@ Completed: 2,141 (0.32%) (Ranked 178)
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
-| 2023-09-12 | 678,603 | 2,141 |
+| 2023-09-12 | 678,656 | 2,142 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
-Sum: 8,899 (Ranked 94)  
+Sum: 8,905 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,016 |
-| This game is Great for Beginners | 407 |
+| This game is Great for Beginners | 411 |
 | This game has Diverse Characters | 400 |
 | This game has Quickly Understood Controls | 389 |
-| This game is Relaxing | 371 |
+| This game is Relaxing | 373 |
 | This game has Amazing Storytelling | 349 |
 | This game is Extremely Fun | 332 |
 | This game has Amazing Characters | 318 |
@@ -359,4 +359,4 @@ Diff (max vs sum): -37
 | 2023-09-09 | 4.54 | 5,990 | 8,845 |
 | 2023-09-10 | 4.54 | 6,008 | 8,872 |
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
-| 2023-09-12 | 4.54 | 6,016 | 8,899 |
+| 2023-09-12 | 4.54 | 6,016 | 8,905 |

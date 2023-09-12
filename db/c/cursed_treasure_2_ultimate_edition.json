@@ -438,9 +438,9 @@
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "BADGE_DEADMANS_CHEST",
@@ -494,9 +494,9 @@
       "ID": "BADGE_FORESTS_CUT",
       "SetID": "ak6pfjk",
       "Name": "Woodcutter",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "BADGE_GOLD_COINS_COLLECT",
@@ -526,9 +526,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -558,9 +558,9 @@
       "ID": "BADGE_PLAYER_RANK",
       "SetID": "ak6pfjk",
       "Name": "Sergeant of the Evil",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "BADGE_PLAYER_RANK_2",
@@ -598,9 +598,9 @@
       "ID": "BADGE_STASIS_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Stasis Alcatraz",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "BADGE_THUNDER_COUNT",
@@ -622,9 +622,9 @@
       "ID": "BADGE_TOWER_UPGRADE_2",
       "SetID": "ak6pfjk",
       "Name": "Architect of Darkness",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:06:14.7333793+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:06:24.224898+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:21.1461898+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:01:40.0964832+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:06:14.7334268+00:00"
+  "LastUpdate_Ratings": "2023-09-12T18:01:31.1836254+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:06:24.2249344+00:00"
 }

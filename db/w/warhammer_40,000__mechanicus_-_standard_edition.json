@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -621,9 +621,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 222446,
+  "EOS_Progressed": 222450,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 457,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16381,6 +16381,11 @@
       "Time": "2023-09-12T17:03:26.5717486+00:00",
       "NumProgressed": 222446,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-12T18:03:33.4303116+00:00",
+      "NumProgressed": 222450,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -16392,7 +16397,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42265
+      "UsersEstimate": 42266
     },
     {
       "ID": "ACH_BASE_10",
@@ -16400,7 +16405,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57836
+      "UsersEstimate": 57837
     },
     {
       "ID": "ACH_BASE_11",
@@ -16480,7 +16485,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "ACH_BASE_21",
@@ -16616,7 +16621,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "ACH_BASE_5",
@@ -16663,7 +16668,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 222446,
+      "Progressed": 222450,
       "Completed": 5
     }
   ],
@@ -16671,8 +16676,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-09-11T19:01:17.6849005+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:03:26.5717481+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:03:33.4303113+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:42.4468153+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:02:09.3253998+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:03:26.5718746+00:00"
+  "LastUpdate_Ratings": "2023-09-12T18:03:08.0971097+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:03:33.4304041+00:00"
 }

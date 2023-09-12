@@ -3,12 +3,12 @@
 [View Rawdata](../../db/e/evoland_legendary_edition.json)  
 Rating: 4.49 (Ranked 582)  
 ## Awards
-Max (Great Boss Battles): 275  (Ranked 248)  
-Sum: 275 (Ranked 350)  
+Max (Great Boss Battles): 276  (Ranked 248)  
+Sum: 276 (Ranked 350)  
 Diff (max vs sum): -102  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 275 |
+| This game has Great Boss Battles | 276 |
 | This game has Inclusive Character Customization | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -25,3 +25,4 @@ Diff (max vs sum): -102
 | 2023-05-27 | 4.49 | 272 | 272 |
 | 2023-05-30 | 4.49 | 273 | 273 |
 | 2023-09-06 | 4.49 | 275 | 275 |
+| 2023-09-12 | 4.49 | 276 | 276 |

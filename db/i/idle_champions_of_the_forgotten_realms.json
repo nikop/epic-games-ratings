@@ -6592,9 +6592,9 @@
       "Count": 3413
     }
   ],
-  "EOS_Progressed": 228529,
-  "EOS_Completed": 2272,
-  "EOS_NewPlayers": 1232,
+  "EOS_Progressed": 228535,
+  "EOS_Completed": 2273,
+  "EOS_NewPlayers": 1221,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22652,6 +22652,11 @@
       "Time": "2023-09-12T17:04:40.6754719+00:00",
       "NumProgressed": 228529,
       "NumCompleted": 2272
+    },
+    {
+      "Time": "2023-09-12T18:04:50.5447193+00:00",
+      "NumProgressed": 228535,
+      "NumCompleted": 2273
     }
   ],
   "TotalAchievements": 520,
@@ -24301,9 +24306,9 @@
       "ID": "objective_completed_283",
       "SetID": "cc37lbc",
       "Name": "Attack on the Manor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 457
     },
     {
       "ID": "objective_completed_284",
@@ -26822,21 +26827,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194803,
+      "Progressed": 194809,
       "Completed": 3421
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228529,
-      "Completed": 2272
+      "Progressed": 228535,
+      "Completed": 2273
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-12T17:01:29.1773081+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:04:40.6754707+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:04:50.544719+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:01:29.1773088+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:04:40.6790023+00:00"
+  "LastUpdate_Ratings": "2023-09-12T18:01:20.685531+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:04:50.5471994+00:00"
 }

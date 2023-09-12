@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -634,9 +634,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 9887,
+  "EOS_Progressed": 9889,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -9309,6 +9309,11 @@
       "Time": "2023-09-12T13:10:47.8420259+00:00",
       "NumProgressed": 9887,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-12T18:07:15.8484069+00:00",
+      "NumProgressed": 9889,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 34,
@@ -9368,7 +9373,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH08",
@@ -9376,7 +9381,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH09",
@@ -9480,7 +9485,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4548
+      "UsersEstimate": 4549
     },
     {
       "ID": "ACH22",
@@ -9488,7 +9493,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACH23",
@@ -9534,9 +9539,9 @@
       "ID": "ACH28",
       "SetID": "9llo822",
       "Name": "Bloodstained Hands",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 692
     },
     {
       "ID": "ACH29",
@@ -9591,7 +9596,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9887,
+      "Progressed": 9889,
       "Completed": 55
     }
   ],
@@ -9599,8 +9604,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-10T04:59:47.9925269+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:07:05.76125+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:07:15.8484066+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-12T16:57:20.4794886+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:07:05.7613308+00:00"
+  "LastUpdate_Ratings": "2023-09-12T17:57:10.7404322+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:07:15.8484662+00:00"
 }

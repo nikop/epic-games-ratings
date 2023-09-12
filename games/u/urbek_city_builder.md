@@ -4,14 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| I like books | 0.60% | ~2 |
+| The spiritual world... | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
 | I like parks | 0.60% | ~2 |
-| I like books | 0.30% | ~1 |
-| The spiritual world... | 0.30% | ~1 |
 | I like my life | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
 | The woodcutter | 0.30% | ~1 |
+| It is nice to share with friends in the city | 0.30% | ~1 |
 | Small town | 0.30% | ~1 |
 | Sport is good for you | 0.30% | ~1 |
 | Soviet town | 0.30% | ~1 |
@@ -55,7 +56,6 @@
 | Clean energy | 0.00% | ~0 |
 | Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
-| It is nice to share with friends in the city | 0.00% | ~0 |
 | What would we do if we can't go out with friends? | 0.00% | ~0 |
 | I don't feel well, I have to drink a coffe | 0.00% | ~0 |
 | Little Mayor | 0.00% | ~0 |

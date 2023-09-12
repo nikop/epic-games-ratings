@@ -15,12 +15,12 @@
 | Radiation | 59.00% | ~68 |
 | Descent | 59.00% | ~68 |
 | Awakenings | 58.00% | ~67 |
-| Cold Storage | 57.00% | ~66 |
+| Cold Storage | 58.00% | ~67 |
 | Sam | 53.00% | ~61 |
 | Churchill | 52.00% | ~60 |
 | Commissioner | 51.00% | ~59 |
 | Engineer | 50.00% | ~58 |
-| Leave | 48.00% | ~56 |
+| Leave | 49.00% | ~57 |
 | Doctor | 48.00% | ~56 |
 | Soldier | 48.00% | ~56 |
 | Press Play | 36.00% | ~42 |
@@ -30,8 +30,8 @@
 | Floppy Disk Finder | 14.00% | ~16 |
 | Nurse | 12.00% | ~14 |
 | No Page Unturned | 6.00% | ~7 |
+| The Missing Piece | 6.00% | ~7 |
 | Friends | 5.00% | ~6 |
-| The Missing Piece | 5.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 116 (Ranked 336)  
 Completed: 3 (2.59%) (Ranked 81)  

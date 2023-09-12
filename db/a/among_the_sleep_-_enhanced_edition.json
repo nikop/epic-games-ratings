@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -455,9 +455,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85435,
+  "EOS_Progressed": 85443,
   "EOS_Completed": 394,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -16385,6 +16385,11 @@
       "Time": "2023-09-12T17:03:45.7693798+00:00",
       "NumProgressed": 85435,
       "NumCompleted": 394
+    },
+    {
+      "Time": "2023-09-12T18:03:53.8697415+00:00",
+      "NumProgressed": 85443,
+      "NumCompleted": 394
     }
   ],
   "TotalAchievements": 10,
@@ -16460,7 +16465,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29902
+      "UsersEstimate": 29905
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -16468,22 +16473,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 9398
+      "UsersEstimate": 9399
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 85435,
+      "Progressed": 85443,
       "Completed": 394
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:03:45.7693793+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:03:53.8697412+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.8899266+00:00",
-  "LastUpdate_Ratings": "2023-09-12T16:59:42.1157533+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:03:45.7694773+00:00"
+  "LastUpdate_Ratings": "2023-09-12T17:59:35.2107832+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:03:53.8698198+00:00"
 }

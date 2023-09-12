@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2446,6 +2446,11 @@
       "Time": "2023-09-11T18:04:01.3583202+00:00",
       "NumProgressed": 683,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-12T18:04:57.5475746+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2471,9 +2476,9 @@
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 397
     },
     {
       "ID": "BigPlane",
@@ -2489,7 +2494,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Calculated",
@@ -2545,7 +2550,7 @@
       "Name": "Fifty",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "First",
@@ -2553,7 +2558,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "FullCompletion",
@@ -2639,9 +2644,9 @@
       "ID": "MaximumUpgrade",
       "SetID": "1e89b4i",
       "Name": "Maximum Upgrade",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 103
     },
     {
       "ID": "Millionaire",
@@ -2657,7 +2662,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "NoTimeForModernization",
@@ -2729,7 +2734,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "Restructuring",
@@ -2753,7 +2758,7 @@
       "Name": "Scenario Amateur",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ScenarioExpert",
@@ -2775,9 +2780,9 @@
       "ID": "TimeForManagement",
       "SetID": "1e89b4i",
       "Name": "Time for Management",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 103
     },
     {
       "ID": "TransportHub",
@@ -2785,21 +2790,21 @@
       "Name": "Transport Hub",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:04:48.3202991+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:04:57.5475743+00:00",
   "LastUpdate_AppInfo": "2023-09-12T13:01:55.4926233+00:00",
-  "LastUpdate_Ratings": "2023-09-12T17:00:16.3518099+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:04:48.3203468+00:00"
+  "LastUpdate_Ratings": "2023-09-12T18:00:09.0991049+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:04:57.5476099+00:00"
 }

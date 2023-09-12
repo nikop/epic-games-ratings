@@ -5,7 +5,7 @@
   "Ranking_Rating": 582,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 354,
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 96,
@@ -593,9 +593,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1383,
+  "EOS_Progressed": 1404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4083,6 +4083,11 @@
       "Time": "2023-09-12T17:06:54.4718961+00:00",
       "NumProgressed": 1383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T18:07:04.7245474+00:00",
+      "NumProgressed": 1404,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4175,7 +4180,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -4213,9 +4218,9 @@
       "ID": "MF_Ach_NextTimeOnMythForce",
       "SetID": "9b9n573",
       "Name": "Next Time on MythForce...",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -4239,7 +4244,7 @@
       "Name": "Season Finale",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -4247,7 +4252,7 @@
       "Name": "Spending Spree",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -4278,15 +4283,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1383,
+      "Progressed": 1404,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-08T22:00:22.0755866+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:06:54.4718955+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:07:04.7245472+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-12T16:57:35.8190395+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:06:54.4719347+00:00"
+  "LastUpdate_Ratings": "2023-09-12T17:57:25.1420162+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:07:04.7245752+00:00"
 }

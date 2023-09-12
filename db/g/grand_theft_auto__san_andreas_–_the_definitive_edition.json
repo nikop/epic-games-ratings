@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 468,
   "Ranking_Popularity": 242,
-  "Ranking_PopularitySum": 331,
+  "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 168,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -830,10 +830,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 353,
       "NumberOfAwardsMax": 286
+    },
+    {
+      "Time": "2023-09-12T17:58:14.6255051+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 355,
+      "NumberOfAwardsMax": 286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 353,
+  "NumberOfAwards": 355,
   "NumberOfAwardsMax": 286,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -853,7 +859,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game has Amazing Characters",
@@ -862,7 +868,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12200,
+  "EOS_Progressed": 12201,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
@@ -10137,6 +10143,11 @@
       "Time": "2023-09-12T14:03:52.0379155+00:00",
       "NumProgressed": 12200,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-12T18:04:31.0340936+00:00",
+      "NumProgressed": 12201,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10148,7 +10159,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9882
+      "UsersEstimate": 9883
     },
     {
       "ID": "ACH02",
@@ -10204,7 +10215,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6222
+      "UsersEstimate": 6223
     },
     {
       "ID": "ACH09",
@@ -10427,16 +10438,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12200,
+      "Progressed": 12201,
       "Completed": 45
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2023-09-11T03:57:29.1041543+00:00",
-  "LastChanged_Achievements": "2023-09-12T17:04:22.2264824+00:00",
+  "LastChanged": "2023-09-12T17:58:14.6255048+00:00",
+  "LastChanged_Achievements": "2023-09-12T18:04:31.0340933+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.8211098+00:00",
-  "LastUpdate_Ratings": "2023-09-12T16:58:25.9748656+00:00",
-  "LastUpdate_Achievements": "2023-09-12T17:04:22.2265696+00:00"
+  "LastUpdate_Ratings": "2023-09-12T17:58:14.6255055+00:00",
+  "LastUpdate_Achievements": "2023-09-12T18:04:31.0341552+00:00"
 }
