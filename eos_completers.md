@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.99% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.14% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.96% |
 | 5 | [Eternights](games/e/eternights.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
@@ -17,7 +17,7 @@
 | 14 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 16 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.86% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 18 | [Island Cities](games/i/island_cities.md) | 14.81% |
+| 18 | [Island Cities](games/i/island_cities.md) | 14.93% |
 | 19 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 20 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 21 | [Remains](games/r/remains.md) | 12.50% |
@@ -62,7 +62,7 @@
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 61 | [ZZT!](games/z/zzt!.md) | 4.09% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.87% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.86% |
 | 64 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 65 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.38% |
@@ -92,8 +92,8 @@
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
 | 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.22% |
 | 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.21% |
-| 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.17% |
-| 94 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
+| 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
+| 94 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.13% |
 | 95 | [FORECLOSED](games/f/foreclosed.md) | 2.11% |
 | 96 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.10% |
 | 97 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
@@ -202,13 +202,13 @@
 | 200 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
 | 201 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 201 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
-| 201 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.16% |
 | 201 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 205 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
-| 205 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
-| 205 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
-| 205 | [Remnant 2](games/r/remnant_2.md) | 0.15% |
-| 205 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 204 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
+| 204 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
+| 204 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
+| 204 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.15% |
+| 204 | [Remnant 2](games/r/remnant_2.md) | 0.15% |
+| 204 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 210 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 211 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 212 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
