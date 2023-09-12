@@ -5,32 +5,32 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,666 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,352 |
-| Loose Ends | 34.00% | ~24,628 |
+| First Step Into the Knight | 52.00% | ~37,667 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,353 |
+| Loose Ends | 34.00% | ~24,629 |
 | To the Victor Go the Spoils | 28.00% | ~20,282 |
-| Knighthood | 27.00% | ~19,557 |
-| Get ReQ'd | 25.00% | ~18,108 |
-| Whispered Words | 25.00% | ~18,108 |
-| The Batman Family | 23.00% | ~16,660 |
-| Lock and Key | 22.00% | ~15,935 |
-| Something in the Clay | 21.00% | ~15,211 |
+| Knighthood | 27.00% | ~19,558 |
+| Get ReQ'd | 25.00% | ~18,109 |
+| Whispered Words | 25.00% | ~18,109 |
+| The Batman Family | 23.00% | ~16,661 |
+| Lock and Key | 22.00% | ~15,936 |
+| Something in the Clay | 21.00% | ~15,212 |
 | Quartzer Life Crisis | 20.00% | ~14,487 |
 | Working Hard or Harley Working? | 20.00% | ~14,487 |
 | Unstoppable Force | 20.00% | ~14,487 |
 | Bad Apples in Every Orchard | 20.00% | ~14,487 |
-| Snow Problem | 19.00% | ~13,762 |
-| The Show Mud Go On | 18.00% | ~13,038 |
+| Snow Problem | 19.00% | ~13,763 |
+| The Show Mud Go On | 18.00% | ~13,039 |
 | From Inside Gotham's Walls | 17.00% | ~12,314 |
-| Protector of Gotham | 16.00% | ~11,589 |
-| In Your Element | 15.00% | ~10,865 |
-| Universal Health Scare | 15.00% | ~10,865 |
+| Protector of Gotham | 16.00% | ~11,590 |
+| In Your Element | 15.00% | ~10,866 |
+| Universal Health Scare | 15.00% | ~10,866 |
 | Rock and a Hard Place | 14.00% | ~10,141 |
 | Cooldown | 14.00% | ~10,141 |
 | Voiceless | 14.00% | ~10,141 |
-| Not On My Watch | 13.00% | ~9,416 |
-| Shock Til They Drop | 13.00% | ~9,416 |
-| Seeking Asylum | 13.00% | ~9,416 |
+| Not On My Watch | 13.00% | ~9,417 |
+| Shock Til They Drop | 13.00% | ~9,417 |
+| Seeking Asylum | 13.00% | ~9,417 |
 | End of an Era | 12.00% | ~8,692 |
 | Bulldozed | 12.00% | ~8,692 |
 | Gotham Knight | 12.00% | ~8,692 |
@@ -38,7 +38,7 @@ Rating: 4.18 (Ranked 883)
 | Drone You Out | 9.00% | ~6,519 |
 | Out of Their League | 8.00% | ~5,795 |
 | Solid Alibi | 8.00% | ~5,795 |
-| Fusion Expert | 7.00% | ~5,070 |
+| Fusion Expert | 7.00% | ~5,071 |
 | Family Meeting | 6.00% | ~4,346 |
 | A Worthy Successor | 6.00% | ~4,346 |
 | Expert Crime Fighter | 5.00% | ~3,622 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,434 (Ranked 82)  
+Progressed: 72,437 (Ranked 82)  
 Completed: 112 (0.15%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,6 +212,7 @@ Completed: 112 (0.15%) (Ranked 205)
 | 2023-09-09 | 72,298 | 112 |
 | 2023-09-10 | 72,379 | 112 |
 | 2023-09-11 | 72,434 | 112 |
+| 2023-09-12 | 72,437 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,638  (Ranked 97)  
 Sum: 4,379 (Ranked 139)  

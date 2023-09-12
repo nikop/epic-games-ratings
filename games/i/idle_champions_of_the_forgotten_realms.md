@@ -33,6 +33,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.20% | ~457 |
 | Trollskull Manor | 0.20% | ~457 |
 | The Crumbling Temple | 0.20% | ~457 |
+| The Death Curse | 0.20% | ~457 |
 | Useless Allies | 0.20% | ~457 |
 | Exploring Port Nyanzaru | 0.20% | ~457 |
 | A Tale of Two Cities | 0.20% | ~457 |
@@ -236,7 +237,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~228 |
 | Our Time To Shine | 0.10% | ~228 |
 | Review by the Blackstaff | 0.10% | ~195 |
-| The Death Curse | 0.10% | ~228 |
 | Treasure Hunters | 0.10% | ~228 |
 | The Guardian of Orolunga | 0.10% | ~228 |
 | Think Your Way Out Of It | 0.10% | ~228 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,451 (Ranked 54)  
+Progressed: 228,458 (Ranked 54)  
 Completed: 2,270 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,6 +672,7 @@ Completed: 2,270 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
+| 2023-09-12 | 228,458 | 2,270 |
 ## Awards
 Max (Diverse Characters): 5,261  (Ranked 67)  
 Sum: 31,535 (Ranked 39)  

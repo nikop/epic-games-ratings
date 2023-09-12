@@ -1730,9 +1730,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 145
     },
     {
       "ID": "_11_Completion_40",
@@ -1778,9 +1778,9 @@
       "ID": "_16_UnlockCore8Characters",
       "SetID": "8a1io5d",
       "Name": "Pirates Assemble!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 158
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1875,8 +1875,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-09T11:59:42.48192+00:00",
-  "LastChanged_Achievements": "2023-09-11T23:03:31.622162+00:00",
+  "LastChanged_Achievements": "2023-09-12T00:03:28.1288867+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-11T23:00:14.678151+00:00",
-  "LastUpdate_Achievements": "2023-09-11T23:03:31.62221+00:00"
+  "LastUpdate_Ratings": "2023-09-12T00:00:18.480875+00:00",
+  "LastUpdate_Achievements": "2023-09-12T00:03:28.1289086+00:00"
 }

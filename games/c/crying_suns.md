@@ -56,7 +56,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Emperor of Misery | 1.00% | ~4,672 |
 | A Frozen Lady | 1.00% | ~4,672 |
 | Void Rule | 1.00% | ~4,672 |
-| Excelsior Mastery | 0.90% | ~4,204 |
+| Excelsior Mastery | 0.90% | ~4,205 |
 | The greatest admiral of all time | 0.50% | ~2,336 |
 | Hand of the Emperor | 0.40% | ~44 |
 | Soldiers of Fortune | 0.20% | ~22 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,166 (Ranked 37)  
+Progressed: 467,167 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 18 (0.00%) (Ranked 273)
 | 2023-09-09 | 467,041 | 18 |
 | 2023-09-10 | 467,116 | 18 |
 | 2023-09-11 | 467,166 | 18 |
+| 2023-09-12 | 467,167 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 361)  

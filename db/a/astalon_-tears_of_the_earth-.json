@@ -243,17 +243,17 @@
       "ID": "Complete_Bestiary_80",
       "SetID": "4f0g260",
       "Name": "Beast Knight",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Defeat_1000_Enemies",
       "SetID": "4f0g260",
       "Name": "Monster Hunt",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Defeat_5000_Enemies",
@@ -283,17 +283,17 @@
       "ID": "Defeat_Solaria",
       "SetID": "4f0g260",
       "Name": "Unmasked!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Defeat_Volantis",
@@ -364,8 +364,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2023-09-11T23:03:31.1504681+00:00",
+  "LastChanged_Achievements": "2023-09-12T00:03:27.6694832+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.4392568+00:00",
-  "LastUpdate_Ratings": "2023-09-11T23:00:29.7596392+00:00",
-  "LastUpdate_Achievements": "2023-09-11T23:03:31.1505054+00:00"
+  "LastUpdate_Ratings": "2023-09-12T00:00:35.4619701+00:00",
+  "LastUpdate_Achievements": "2023-09-12T00:03:27.6695021+00:00"
 }

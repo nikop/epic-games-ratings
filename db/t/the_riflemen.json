@@ -4,7 +4,7 @@
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 20,
+  "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-01T00:00:00+00:00",
@@ -19,10 +19,10 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10110,
-  "EOS_Completed": 10110,
-  "EOS_NewPlayers": 4583,
-  "EOS_NewCompleters": 4583,
+  "EOS_Progressed": 10114,
+  "EOS_Completed": 10114,
+  "EOS_NewPlayers": 4542,
+  "EOS_NewCompleters": 4542,
   "EOS_Completed_Percentage": 100,
   "EosHistory": [
     {
@@ -1544,6 +1544,11 @@
       "Time": "2023-09-11T23:05:52.8154299+00:00",
       "NumProgressed": 10110,
       "NumCompleted": 10110
+    },
+    {
+      "Time": "2023-09-12T00:05:48.9585+00:00",
+      "NumProgressed": 10114,
+      "NumCompleted": 10114
     }
   ],
   "TotalAchievements": 0,
@@ -1553,13 +1558,13 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 10110,
-      "Completed": 10110
+      "Progressed": 10114,
+      "Completed": 10114
     }
   ],
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged_Achievements": "2023-09-11T23:05:52.8154295+00:00",
+  "LastChanged_Achievements": "2023-09-12T00:05:48.9584995+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:55.7121464+00:00",
-  "LastUpdate_Ratings": "2023-09-11T22:59:04.7425349+00:00",
-  "LastUpdate_Achievements": "2023-09-11T23:05:52.8154431+00:00"
+  "LastUpdate_Ratings": "2023-09-11T23:59:07.1583994+00:00",
+  "LastUpdate_Achievements": "2023-09-12T00:05:48.9585108+00:00"
 }

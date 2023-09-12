@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206512,
+  "EOS_Progressed": 206514,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1423,
+  "EOS_NewPlayers": 1422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16503,6 +16503,11 @@
       "Time": "2023-09-11T23:02:23.5796524+00:00",
       "NumProgressed": 206512,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-12T00:02:20.0788352+00:00",
+      "NumProgressed": 206514,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -16514,7 +16519,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 97061
+      "UsersEstimate": 97062
     },
     {
       "ID": "AlekhinesGun",
@@ -16562,7 +16567,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 113582
+      "UsersEstimate": 113583
     },
     {
       "ID": "Checkmate",
@@ -16586,7 +16591,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 144558
+      "UsersEstimate": 144560
     },
     {
       "ID": "DoubleCheck",
@@ -16602,7 +16607,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 115647
+      "UsersEstimate": 115648
     },
     {
       "ID": "Elo",
@@ -16738,7 +16743,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 41302
+      "UsersEstimate": 41303
     },
     {
       "ID": "ScholarsMate",
@@ -16762,7 +16767,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 37172
+      "UsersEstimate": 37173
     },
     {
       "ID": "StrangerDanger",
@@ -16770,7 +16775,7 @@
       "Name": "Stranger Danger",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 24781
+      "UsersEstimate": 24782
     },
     {
       "ID": "TournamentAmateur",
@@ -16810,14 +16815,14 @@
       "Name": "Underpromote",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8260
+      "UsersEstimate": 8261
     }
   ],
   "AchievementSets": [
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 206512,
+      "Progressed": 206514,
       "Completed": 2
     }
   ],
@@ -16825,8 +16830,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-09-10T20:02:14.5471965+00:00",
-  "LastChanged_Achievements": "2023-09-11T23:02:23.5796518+00:00",
+  "LastChanged_Achievements": "2023-09-12T00:02:20.0788342+00:00",
   "LastUpdate_AppInfo": "2023-09-09T06:57:14.9740776+00:00",
-  "LastUpdate_Ratings": "2023-09-11T23:02:13.5494442+00:00",
-  "LastUpdate_Achievements": "2023-09-11T23:02:23.579788+00:00"
+  "LastUpdate_Ratings": "2023-09-12T00:02:08.239366+00:00",
+  "LastUpdate_Achievements": "2023-09-12T00:02:20.0789403+00:00"
 }

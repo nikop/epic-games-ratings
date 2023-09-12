@@ -6,14 +6,14 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~33,748 |
-| Blood Moon | 73.00% | ~28,984 |
+| Improvement | 85.00% | ~33,749 |
+| Blood Moon | 73.00% | ~28,985 |
 | Path of the Necromancer | 66.00% | ~26,205 |
-| Chainbreaker - I | 60.00% | ~23,822 |
-| Cursed Creature | 57.00% | ~22,631 |
-| Extraction | 57.00% | ~22,631 |
-| Chainbreaker - II | 55.00% | ~21,837 |
-| Necromancer's Apprentice | 51.00% | ~20,249 |
+| Chainbreaker - I | 60.00% | ~23,823 |
+| Cursed Creature | 57.00% | ~22,632 |
+| Extraction | 57.00% | ~22,632 |
+| Chainbreaker - II | 55.00% | ~21,838 |
+| Necromancer's Apprentice | 51.00% | ~20,250 |
 | Keeper of Keys | 47.00% | ~18,661 |
 | Distillation | 43.00% | ~17,073 |
 | Mountain King - I | 42.00% | ~16,676 |
@@ -21,12 +21,12 @@ Number of Ratings: 10,109  (23.09.2022)
 | Prepared Necromancer | 40.00% | ~15,882 |
 | Mountain King - II | 39.00% | ~15,485 |
 | Blind Rage | 38.00% | ~15,088 |
-| Mad Genius | 35.00% | ~13,896 |
-| Cannon Fodder - I | 34.00% | ~13,499 |
-| Soul of Lies | 34.00% | ~13,499 |
-| Bane of Mercenaries - I | 33.00% | ~13,102 |
-| Bane of Mercenaries - II | 31.00% | ~12,308 |
-| Shadow Between Worlds | 30.00% | ~11,911 |
+| Mad Genius | 35.00% | ~13,897 |
+| Cannon Fodder - I | 34.00% | ~13,500 |
+| Soul of Lies | 34.00% | ~13,500 |
+| Bane of Mercenaries - I | 33.00% | ~13,103 |
+| Bane of Mercenaries - II | 31.00% | ~12,309 |
+| Shadow Between Worlds | 30.00% | ~11,912 |
 | Cannon Fodder - II | 29.00% | ~11,514 |
 | Bane of Monsters | 28.00% | ~11,117 |
 | Chainbreaker - III | 28.00% | ~11,117 |
@@ -53,7 +53,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Blood Madness | 13.00% | ~5,162 |
 | First Sacrifice | 13.00% | ~5,162 |
 | Master of Alchemy | 13.00% | ~5,162 |
-| Legendary Warrior | 12.00% | ~4,764 |
+| Legendary Warrior | 12.00% | ~4,765 |
 | Bane of Mercenaries - III | 10.00% | ~3,970 |
 | Monument to Greatness | 10.00% | ~3,970 |
 | Ancient Burial | 10.00% | ~3,970 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~199 |
 | Renowned Researcher | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,704 (Ranked 96)  
+Progressed: 39,705 (Ranked 96)  
 Completed: 23 (0.06%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 23 (0.06%) (Ranked 233)
 | 2023-09-09 | 39,578 | 23 |
 | 2023-09-10 | 39,649 | 23 |
 | 2023-09-11 | 39,704 | 23 |
+| 2023-09-12 | 39,705 | 23 |
 ## Awards
 Max (Character Customization): 2,149  (Ranked 107)  
 Sum: 4,168 (Ranked 141)  

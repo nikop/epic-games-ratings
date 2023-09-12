@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Overcharged | 9.00% | ~106 |
 | At Least You Tried | 2.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,174 (Ranked 201)  
+Progressed: 1,174 (Ranked 202)  
 Completed: 14 (1.19%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,9 +179,9 @@ Completed: 14 (1.19%) (Ranked 117)
 | 2023-09-10 | 1,173 | 14 |
 | 2023-09-11 | 1,174 | 14 |
 ## Awards
-Max (Great Boss Battles): 32  (Ranked 457)  
+Max (Great Boss Battles): 32  (Ranked 458)  
 Sum: 32 (Ranked 478)  
-Diff (max vs sum): -21  
+Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 32 |

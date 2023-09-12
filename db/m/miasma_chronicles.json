@@ -3328,9 +3328,9 @@
       "ID": "MIASMA_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Master Editor",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 85
     },
     {
       "ID": "NEWTONIAN_KNOCKOUT",
@@ -3473,8 +3473,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-11T15:02:07.7710532+00:00",
-  "LastChanged_Achievements": "2023-09-11T23:05:55.1042744+00:00",
+  "LastChanged_Achievements": "2023-09-12T00:05:51.3355102+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:33.5469273+00:00",
-  "LastUpdate_Ratings": "2023-09-11T23:00:20.2624608+00:00",
-  "LastUpdate_Achievements": "2023-09-11T23:05:55.1043508+00:00"
+  "LastUpdate_Ratings": "2023-09-12T00:00:23.7125118+00:00",
+  "LastUpdate_Achievements": "2023-09-12T00:05:51.3355612+00:00"
 }

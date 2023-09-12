@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17961,
+  "EOS_Progressed": 17962,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10065,6 +10065,11 @@
       "Time": "2023-09-11T23:04:53.1631918+00:00",
       "NumProgressed": 17961,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-12T00:04:48.7022898+00:00",
+      "NumProgressed": 17962,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10092,7 +10097,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3053
+      "UsersEstimate": 3054
     },
     {
       "ID": "0004",
@@ -10212,7 +10217,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "0019",
@@ -10260,7 +10265,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3951
+      "UsersEstimate": 3952
     },
     {
       "ID": "0025",
@@ -10268,7 +10273,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3053
+      "UsersEstimate": 3054
     },
     {
       "ID": "0026",
@@ -10363,7 +10368,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17961,
+      "Progressed": 17962,
       "Completed": 3
     }
   ],
@@ -10371,8 +10376,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-11T23:04:53.163191+00:00",
+  "LastChanged_Achievements": "2023-09-12T00:04:48.7022891+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-11T22:57:54.505151+00:00",
-  "LastUpdate_Achievements": "2023-09-11T23:04:53.1633114+00:00"
+  "LastUpdate_Ratings": "2023-09-11T23:57:58.421167+00:00",
+  "LastUpdate_Achievements": "2023-09-12T00:04:48.7023551+00:00"
 }

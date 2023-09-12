@@ -880,7 +880,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 662035,
+  "EOS_Progressed": 662037,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
@@ -14580,6 +14580,11 @@
       "Time": "2023-09-11T22:06:14.6810414+00:00",
       "NumProgressed": 662035,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-12T00:05:21.5106077+00:00",
+      "NumProgressed": 662037,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14591,7 +14596,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476665
+      "UsersEstimate": 476667
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14599,7 +14604,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383980
+      "UsersEstimate": 383981
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14607,7 +14612,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152268
+      "UsersEstimate": 152269
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -14663,7 +14668,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46342
+      "UsersEstimate": 46343
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -14727,7 +14732,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152268
+      "UsersEstimate": 152269
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -14823,7 +14828,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46342
+      "UsersEstimate": 46343
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -14903,7 +14908,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46342
+      "UsersEstimate": 46343
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -14974,15 +14979,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662035,
+      "Progressed": 662037,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-08-25T17:00:16.792448+00:00",
-  "LastChanged_Achievements": "2023-09-11T23:05:25.5809249+00:00",
+  "LastChanged_Achievements": "2023-09-12T00:05:21.5106072+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.7852859+00:00",
-  "LastUpdate_Ratings": "2023-09-11T22:59:47.6795607+00:00",
-  "LastUpdate_Achievements": "2023-09-11T23:05:25.5811261+00:00"
+  "LastUpdate_Ratings": "2023-09-11T23:59:49.4336013+00:00",
+  "LastUpdate_Achievements": "2023-09-12T00:05:21.5107059+00:00"
 }
