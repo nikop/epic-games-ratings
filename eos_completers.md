@@ -3,11 +3,11 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.39% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.22% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.27% |
-| 8 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
+| 7 | [Volley Pals](games/v/volley_pals.md) | 27.27% |
 | 9 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.38% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -17,7 +17,7 @@
 | 15 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.86% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
-| 18 | [Island Cities](games/i/island_cities.md) | 14.78% |
+| 18 | [Island Cities](games/i/island_cities.md) | 14.76% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Remains](games/r/remains.md) | 12.50% |
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.16% |
@@ -54,7 +54,7 @@
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
-| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.70% |
+| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.67% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
@@ -95,7 +95,7 @@
 | 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.13% |
 | 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.09% |
 | 95 | [FORECLOSED](games/f/foreclosed.md) | 2.06% |
-| 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
+| 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 98 | [Night Book](games/n/night_book.md) | 1.86% |
 | 99 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -104,9 +104,9 @@
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
 | 103 | [Five Dates](games/f/five_dates.md) | 1.67% |
 | 104 | [Somerville](games/s/somerville.md) | 1.65% |
-| 105 | [Eternights](games/e/eternights.md) | 1.59% |
-| 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
-| 106 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
+| 105 | [Eternights](games/e/eternights.md) | 1.56% |
+| 105 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
+| 105 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
 | 108 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
 | 109 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
 | 110 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -129,7 +129,7 @@
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.88% |
-| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.87% |
+| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.86% |
 | 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
