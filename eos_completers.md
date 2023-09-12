@@ -45,19 +45,19 @@
 | 43 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.34% |
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 45 | [Eternights](games/e/eternights.md) | 6.25% |
-| 47 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
-| 48 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
-| 49 | [JARS](games/j/jars.md) | 5.80% |
-| 50 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.43% |
-| 51 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
-| 52 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
-| 53 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
-| 54 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
-| 55 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
-| 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
-| 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
+| 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
+| 48 | [JARS](games/j/jars.md) | 5.80% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.43% |
+| 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
+| 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
+| 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.06% |
+| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
+| 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
+| 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
+| 56 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
+| 57 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 57 | [Eternights](games/e/eternights.md) | 4.17% |
 | 59 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.14% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.12% |
@@ -77,7 +77,7 @@
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.86% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 78 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.78% |
+| 78 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.74% |
 | 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
 | 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
 | 81 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
@@ -150,9 +150,9 @@
 | 146 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
 | 149 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
 | 150 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 151 | [Aragami 2](games/a/aragami_2.md) | 0.54% |
 | 151 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
-| 152 | [Aragami 2](games/a/aragami_2.md) | 0.53% |
-| 152 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
+| 153 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.53% |
 | 154 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
 | 155 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.51% |
 | 156 | [Godlike Burger](games/g/godlike_burger.md) | 0.48% |
