@@ -35,6 +35,7 @@ Rating: 3.52 (Ranked 986)
 | Helping Hand | 0.20% | ~3 |
 | I Spit On Your Grave | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
+| Block Party | 0.10% | ~2 |
 | Neighborhood Watch | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
 | Friendgineering | 0.10% | ~2 |
@@ -55,7 +56,6 @@ Rating: 3.52 (Ranked 986)
 | Good Samaritan | 0.10% | ~2 |
 | Curious Finch | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
-| Block Party | 0.00% | ~0 |
 | Scream Team | 0.00% | ~0 |
 | Monster Hunters Club | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1681,9 +1681,9 @@
       "ID": "seashell_hunter",
       "SetID": "69co12a",
       "Name": "Seashell hunter",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "sleep_candy",
@@ -1776,8 +1776,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:06:43.8092089+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:06:13.9672142+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:22.6953156+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:00:00.9735065+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:06:43.8092659+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:59:18.3837256+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:06:13.9672899+00:00"
 }

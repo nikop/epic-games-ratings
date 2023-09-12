@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107452,
+  "EOS_Progressed": 107455,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 902,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10641,6 +10641,11 @@
       "Time": "2023-09-12T20:08:05.1178491+00:00",
       "NumProgressed": 107452,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-09-12T21:07:20.7477557+00:00",
+      "NumProgressed": 107455,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 49,
@@ -10660,7 +10665,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81664
+      "UsersEstimate": 81666
     },
     {
       "ID": "EAwards_10",
@@ -10684,7 +10689,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15043
+      "UsersEstimate": 15044
     },
     {
       "ID": "EAwards_13",
@@ -10708,7 +10713,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10745
+      "UsersEstimate": 10746
     },
     {
       "ID": "EAwards_16",
@@ -10724,7 +10729,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38683
+      "UsersEstimate": 38684
     },
     {
       "ID": "EAwards_18",
@@ -10748,7 +10753,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51577
+      "UsersEstimate": 51578
     },
     {
       "ID": "EAwards_20",
@@ -10756,7 +10761,7 @@
       "Name": "King of the Hill",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10745
+      "UsersEstimate": 10746
     },
     {
       "ID": "EAwards_21",
@@ -10796,7 +10801,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19341
+      "UsersEstimate": 19342
     },
     {
       "ID": "EAwards_26",
@@ -10852,7 +10857,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10745
+      "UsersEstimate": 10746
     },
     {
       "ID": "EAwards_32",
@@ -10924,7 +10929,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12894
+      "UsersEstimate": 12895
     },
     {
       "ID": "EAwards_40",
@@ -11036,14 +11041,14 @@
       "Name": "Grapple Expert",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10745
+      "UsersEstimate": 10746
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107452,
+      "Progressed": 107455,
       "Completed": 41
     }
   ],
@@ -11051,8 +11056,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:08:05.1178486+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:07:20.7477553+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.278544+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:00:03.3198283+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:08:05.1179299+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:59:20.2333706+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:07:20.7478721+00:00"
 }

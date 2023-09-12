@@ -982,9 +982,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2728,
+  "EOS_Progressed": 2741,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1285,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2582,6 +2582,11 @@
       "Time": "2023-09-12T20:05:31.3685388+00:00",
       "NumProgressed": 2728,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-12T21:05:15.2233591+00:00",
+      "NumProgressed": 2741,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2594,7 +2599,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "a_10",
@@ -2642,7 +2647,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 955
+      "UsersEstimate": 959
     },
     {
       "ID": "a_19",
@@ -2658,7 +2663,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "a_20",
@@ -2666,7 +2671,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "a_21",
@@ -2674,7 +2679,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "a_22",
@@ -2682,7 +2687,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "a_23",
@@ -2690,7 +2695,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "a_25",
@@ -2698,7 +2703,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "a_26",
@@ -2712,9 +2717,9 @@
       "ID": "a_27",
       "SetID": "daiie3o",
       "Name": "Keep the doctor away",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 82
     },
     {
       "ID": "a_28",
@@ -2841,7 +2846,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2728,
+      "Progressed": 2741,
       "Completed": 5
     }
   ],
@@ -2849,8 +2854,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-11T22:59:49.0882552+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:05:31.3685384+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:05:15.2233587+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:01:01.7001974+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:05:31.3685637+00:00"
+  "LastUpdate_Ratings": "2023-09-12T21:00:04.8051979+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:05:15.2233935+00:00"
 }

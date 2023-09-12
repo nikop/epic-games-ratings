@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 54.00% | ~1,711 |
+| ROOKIE | 55.00% | ~1,743 |
 | EXTRA BOOST | 43.00% | ~1,363 |
 | IT MAKES BOOM! | 43.00% | ~1,363 |
 | PRO | 35.00% | ~1,109 |

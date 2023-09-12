@@ -6,15 +6,15 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~109,358 |
-| Incurious | 16.00% | ~102,925 |
+| Advanced Stroller | 17.00% | ~109,359 |
+| Incurious | 16.00% | ~102,926 |
 | Climate Change | 15.00% | ~96,493 |
 | Stroller | 14.00% | ~90,060 |
 | Toy Train | 13.00% | ~83,627 |
-| Advanced Hiker | 12.00% | ~77,194 |
-| Hiker | 11.00% | ~70,761 |
+| Advanced Hiker | 12.00% | ~77,195 |
+| Hiker | 11.00% | ~70,762 |
 | Mojave Courier | 5.00% | ~32,164 |
-| Saved by Nausicaä | 4.00% | ~25,731 |
+| Saved by Nausicaä | 4.00% | ~25,732 |
 | Voyager | 3.00% | ~19,299 |
 | Advanced Voyager | 3.00% | ~19,299 |
 | Expert Stroller | 3.00% | ~19,299 |
@@ -29,10 +29,10 @@ Number of Ratings: 21,990  (23.09.2022)
 | Nanuk | 0.60% | ~3,860 |
 | Dynamite Fishing | 0.60% | ~3,860 |
 | Terminal Station | 0.50% | ~3,216 |
+| Advanced Wayfarer | 0.40% | ~2,573 |
 | Scrooge | 0.40% | ~2,573 |
 | Tough Nut! | 0.40% | ~2,573 |
 | Wayfarer | 0.30% | ~1,930 |
-| Advanced Wayfarer | 0.30% | ~1,930 |
 | Trans-Siberian Railway | 0.30% | ~1,930 |
 | Engineer | 0.30% | ~1,930 |
 | Satan's Minion | 0.30% | ~1,930 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~643 |
 | 20 Miles under the Sea | 0.10% | ~643 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643,284 (Ranked 26)  
+Progressed: 643,288 (Ranked 26)  
 Completed: 10 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 10 (0.00%) (Ranked 273)
 | 2023-09-09 | 642,564 | 10 |
 | 2023-09-10 | 642,910 | 10 |
 | 2023-09-11 | 643,119 | 10 |
-| 2023-09-12 | 643,284 | 10 |
+| 2023-09-12 | 643,288 | 10 |
 ## Awards
 Max (Great for Beginners): 194  (Ranked 275)  
 Sum: 1,567 (Ranked 219)  

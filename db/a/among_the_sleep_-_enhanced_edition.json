@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -455,7 +455,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85450,
+  "EOS_Progressed": 85454,
   "EOS_Completed": 394,
   "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 2,
@@ -16400,6 +16400,11 @@
       "Time": "2023-09-12T20:03:40.8369963+00:00",
       "NumProgressed": 85450,
       "NumCompleted": 394
+    },
+    {
+      "Time": "2023-09-12T21:03:49.4731169+00:00",
+      "NumProgressed": 85454,
+      "NumCompleted": 394
     }
   ],
   "TotalAchievements": 10,
@@ -16411,7 +16416,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4272
+      "UsersEstimate": 4273
     },
     {
       "ID": "Drawings01",
@@ -16419,7 +16424,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "Drawings02",
@@ -16427,7 +16432,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "Drawings03",
@@ -16475,7 +16480,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29907
+      "UsersEstimate": 29909
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -16490,15 +16495,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 85450,
+      "Progressed": 85454,
       "Completed": 394
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-08-23T22:58:37.1708472+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:03:40.8369958+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:03:49.4731162+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.8899266+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:59:32.438435+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:03:40.8370763+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:58:56.1608701+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:03:49.473238+00:00"
 }

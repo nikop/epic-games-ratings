@@ -4,8 +4,8 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11289,
+  "EOS_Progressed": 11291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9376,6 +9376,11 @@
       "Time": "2023-09-12T20:04:32.1109093+00:00",
       "NumProgressed": 11289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T21:04:27.8408305+00:00",
+      "NumProgressed": 11291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9411,7 +9416,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -9459,7 +9464,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4967
+      "UsersEstimate": 4968
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -9586,14 +9591,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11289,
+      "Progressed": 11291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:04:32.1109088+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:04:27.8408301+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3886572+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:00:07.7974949+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:04:32.1109781+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:59:23.7281214+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:04:27.8409113+00:00"
 }

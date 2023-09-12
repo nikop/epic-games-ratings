@@ -8,24 +8,24 @@ Rating: 4.54 (Ranked 502)
 | Break A Leg | 2.00% | ~13,575 |
 | Hotel California | 2.00% | ~13,575 |
 | Welcome To Hell-A | 2.00% | ~13,575 |
-| Dr. Reed, I Presume? | 1.00% | ~6,787 |
-| Git Gutte! | 1.00% | ~6,787 |
-| Bookworm | 1.00% | ~6,787 |
-| But Doctor, I am Butcho | 1.00% | ~6,787 |
-| Slayer Squad | 1.00% | ~6,787 |
-| Can't Handle the Truth | 1.00% | ~6,787 |
-| Coup de Grâce | 1.00% | ~6,787 |
-| Like Riding a Bike | 1.00% | ~6,787 |
-| Hazardous Materials | 1.00% | ~6,787 |
-| Friends Like These | 1.00% | ~6,787 |
-| Apex Predator | 1.00% | ~6,787 |
-| Zombologist | 1.00% | ~6,787 |
-| A Patton Emerges | 1.00% | ~6,787 |
-| I Am the Resurrection | 1.00% | ~6,787 |
-| Stacking the Deck | 1.00% | ~6,787 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,787 |
-| Our True Nature | 1.00% | ~6,787 |
-| This is My Weapon | 1.00% | ~6,787 |
+| Dr. Reed, I Presume? | 1.00% | ~6,788 |
+| Git Gutte! | 1.00% | ~6,788 |
+| Bookworm | 1.00% | ~6,788 |
+| But Doctor, I am Butcho | 1.00% | ~6,788 |
+| Slayer Squad | 1.00% | ~6,788 |
+| Can't Handle the Truth | 1.00% | ~6,788 |
+| Coup de Grâce | 1.00% | ~6,788 |
+| Like Riding a Bike | 1.00% | ~6,788 |
+| Hazardous Materials | 1.00% | ~6,788 |
+| Friends Like These | 1.00% | ~6,788 |
+| Apex Predator | 1.00% | ~6,788 |
+| Zombologist | 1.00% | ~6,788 |
+| A Patton Emerges | 1.00% | ~6,788 |
+| I Am the Resurrection | 1.00% | ~6,788 |
+| Stacking the Deck | 1.00% | ~6,788 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,788 |
+| Our True Nature | 1.00% | ~6,788 |
+| This is My Weapon | 1.00% | ~6,788 |
 | Anger Management | 0.90% | ~6,109 |
 | Perks of the Job | 0.90% | ~6,109 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,109 |
@@ -33,7 +33,7 @@ Rating: 4.54 (Ranked 502)
 | Humanity Distilled | 0.80% | ~5,430 |
 | Making Your Mark | 0.70% | ~4,751 |
 | Down with the Sickness | 0.70% | ~4,751 |
-| Max Headroom | 0.60% | ~4,072 |
+| Max Headroom | 0.60% | ~4,073 |
 | Jumbo Keyring | 0.50% | ~3,394 |
 | Go, Bobcats! | 0.50% | ~3,394 |
 | Rising Star | 0.50% | ~3,394 |
@@ -43,15 +43,15 @@ Rating: 4.54 (Ranked 502)
 | Make it So | 0.30% | ~2,036 |
 | On Safari | 0.30% | ~2,036 |
 | Variety is the Spice of Death | 0.30% | ~2,036 |
-| LA Influential | 0.20% | ~1,357 |
-| Sole Survivor | 0.20% | ~1,357 |
-| Gore Horse | 0.20% | ~1,357 |
-| Sharpest Tool in the Box | 0.20% | ~1,357 |
-| Survival Skills | 0.20% | ~1,357 |
+| LA Influential | 0.20% | ~1,358 |
+| Sole Survivor | 0.20% | ~1,358 |
+| Gore Horse | 0.20% | ~1,358 |
+| Sharpest Tool in the Box | 0.20% | ~1,358 |
+| Survival Skills | 0.20% | ~1,358 |
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,727 (Ranked 22)  
+Progressed: 678,759 (Ranked 22)  
 Completed: 2,142 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2,142 (0.32%) (Ranked 178)
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
-| 2023-09-12 | 678,727 | 2,142 |
+| 2023-09-12 | 678,759 | 2,142 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
 Sum: 8,905 (Ranked 94)  

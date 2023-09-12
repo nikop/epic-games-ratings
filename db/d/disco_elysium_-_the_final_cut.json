@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1289,7 +1289,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127569,
+  "EOS_Progressed": 127570,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 1,
@@ -15724,6 +15724,11 @@
       "Time": "2023-09-12T20:06:23.6220772+00:00",
       "NumProgressed": 127569,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-12T21:05:57.6506823+00:00",
+      "NumProgressed": 127570,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15767,7 +15772,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22962
+      "UsersEstimate": 22963
     },
     {
       "ID": "ACH_COP_BAD",
@@ -15815,7 +15820,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35719
+      "UsersEstimate": 35720
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -15847,7 +15852,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 26789
+      "UsersEstimate": 26790
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -16054,15 +16059,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127569,
+      "Progressed": 127570,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:06:23.6220767+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:05:57.6506817+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:58:03.8750859+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:06:23.6221691+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:57:49.086478+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:05:57.6508124+00:00"
 }

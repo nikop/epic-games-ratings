@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1104,9 +1104,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5065,
+  "EOS_Progressed": 5066,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9429,6 +9429,11 @@
       "Time": "2023-09-12T19:03:10.1763483+00:00",
       "NumProgressed": 5065,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-12T21:03:22.1848545+00:00",
+      "NumProgressed": 5066,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9462,9 +9467,9 @@
       "ID": "ACH_EP_ACTSOFGOD",
       "SetID": "1p8ab95",
       "Name": "Happy Ending?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -9496,7 +9501,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -9512,7 +9517,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -9520,7 +9525,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -9552,7 +9557,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -9600,7 +9605,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3849
+      "UsersEstimate": 3850
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9624,7 +9629,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -9759,15 +9764,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5065,
+      "Progressed": 5066,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-12T02:13:35.4444169+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:03:08.0353277+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:03:22.1848538+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:59:30.3650644+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:03:08.0353955+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:58:54.4257891+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:03:22.1849412+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~476,685 |
-| Apprentice | 58.00% | ~383,996 |
+| The Fool | 72.00% | ~476,686 |
+| Apprentice | 58.00% | ~383,997 |
 | Close Shave | 25.00% | ~165,516 |
-| Mercenary | 23.00% | ~152,274 |
-| Ninja | 23.00% | ~152,274 |
+| Mercenary | 23.00% | ~152,275 |
+| Ninja | 23.00% | ~152,275 |
 | Northern Scourge | 17.00% | ~112,551 |
 | Thief Bane | 14.00% | ~92,689 |
-| Master of Arms | 12.00% | ~79,447 |
+| Master of Arms | 12.00% | ~79,448 |
 | Gambler | 10.00% | ~66,206 |
 | Dice Master | 10.00% | ~66,206 |
 | Swordsman | 9.00% | ~59,586 |
@@ -40,7 +40,7 @@ Number of Ratings: 780  (23.09.2022)
 | Champion | 1.00% | ~6,621 |
 | Final Death | 1.00% | ~6,621 |
 | Thomas' Bane | 0.90% | ~5,959 |
-| Ally | 0.80% | ~5,296 |
+| Ally | 0.80% | ~5,297 |
 | Gamester | 0.70% | ~4,634 |
 | Hero | 0.60% | ~3,972 |
 | Rebel | 0.60% | ~3,972 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~662 |
 | Blood Pact | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 662,062 (Ranked 24)  
+Progressed: 662,064 (Ranked 24)  
 Completed: 170 (0.03%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,11 +200,11 @@ Completed: 170 (0.03%) (Ranked 250)
 | 2023-09-09 | 661,964 | 170 |
 | 2023-09-10 | 662,008 | 170 |
 | 2023-09-11 | 662,035 | 170 |
-| 2023-09-12 | 662,062 | 170 |
+| 2023-09-12 | 662,064 | 170 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 445)  
-Sum: 184 (Ranked 383)  
-Diff (max vs sum): 62  
+Sum: 185 (Ranked 382)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |
@@ -212,8 +212,8 @@ Diff (max vs sum): 62
 | This game is Highly Recommended | 30 |
 | This game has Amazing Characters | 27 |
 | This game is Great for Beginners | 26 |
+| This game has Quickly Understood Controls | 24 |
 | This game is Extremely Fun | 23 |
-| This game has Quickly Understood Controls | 23 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -312,4 +312,4 @@ Diff (max vs sum): 62
 | 2023-08-17 | 4.56 | - | 35 | 182 |
 | 2023-08-21 | 4.56 | - | 35 | 183 |
 | 2023-08-25 | 4.56 | - | 35 | 184 |
-| 2023-09-12 | 4.55 | - | 35 | 184 |
+| 2023-09-12 | 4.55 | - | 35 | 185 |

@@ -9,8 +9,10 @@ Rating: 4.50 (Ranked 563)
 | Animated | 0.10% | ~26 |
 | We have the best insurance | 0.10% | ~26 |
 | I collect Spores, Molds, and Fungi | 0.10% | ~26 |
+| Collector | 0.10% | ~26 |
 | Cultured | 0.10% | ~26 |
 | Daily Dose | 0.10% | ~26 |
+| Diabolical | 0.10% | ~26 |
 | Discovery | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Ectoplasmic Entity | 0.10% | ~26 |
@@ -19,10 +21,14 @@ Rating: 4.50 (Ranked 563)
 | Ghostbuster In Training | 0.10% | ~26 |
 | Icing on the Cake | 0.10% | ~26 |
 | Pesky Jerks | 0.10% | ~26 |
+| Rivalry | 0.10% | ~26 |
+| Seasoned | 0.10% | ~26 |
 | Side Hustle | 0.10% | ~26 |
 | Skilled | 0.10% | ~26 |
 | Solo Capture | 0.10% | ~26 |
 | Stunner | 0.10% | ~26 |
+| Stylish | 0.10% | ~26 |
+| Summoner | 0.10% | ~26 |
 | Teamwork | 0.10% | ~26 |
 | Terrifying | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
@@ -33,8 +39,6 @@ Rating: 4.50 (Ranked 563)
 | Back Off | 0.00% | ~0 |
 | Catostrophic Destroyer | 0.00% | ~0 |
 | Clutch Capture | 0.00% | ~0 |
-| Collector | 0.00% | ~0 |
-| Diabolical | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
 | Fragile Panes | 0.00% | ~0 |
 | Ghost Expert | 0.00% | ~0 |
@@ -48,16 +52,12 @@ Rating: 4.50 (Ranked 563)
 | Rift Destroyer | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |
 | Right back at ya | 0.00% | ~0 |
-| Rivalry | 0.00% | ~0 |
-| Seasoned | 0.00% | ~0 |
-| Stylish | 0.00% | ~0 |
-| Summoner | 0.00% | ~0 |
 | Surprise! | 0.00% | ~0 |
 | Swift Rift Removers | 0.00% | ~0 |
 | Tobin's Prodigy | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,765 (Ranked 104)  
+Progressed: 25,766 (Ranked 104)  
 Completed: 55 (0.21%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 55 (0.21%) (Ranked 196)
 | 2023-09-09 | 25,714 | 55 |
 | 2023-09-10 | 25,740 | 55 |
 | 2023-09-11 | 25,755 | 55 |
-| 2023-09-12 | 25,765 | 55 |
+| 2023-09-12 | 25,766 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 253)  
 Sum: 2,306 (Ranked 188)  

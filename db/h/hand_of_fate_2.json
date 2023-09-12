@@ -4,11 +4,11 @@
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 486,
   "Ranking_Popularity": 445,
-  "Ranking_PopularitySum": 383,
+  "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -830,10 +830,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 184,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-09-12T21:00:03.5082368+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 185,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 184,
+  "NumberOfAwards": 185,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -883,10 +889,10 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 662062,
+  "EOS_Progressed": 662064,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
@@ -14666,6 +14672,11 @@
       "Time": "2023-09-12T20:06:29.3864874+00:00",
       "NumProgressed": 662062,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-12T21:06:02.4086878+00:00",
+      "NumProgressed": 662064,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14677,7 +14688,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476685
+      "UsersEstimate": 476686
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14685,7 +14696,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 383996
+      "UsersEstimate": 383997
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14693,7 +14704,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152274
+      "UsersEstimate": 152275
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -14797,7 +14808,7 @@
       "Name": "Ally",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5297
     },
     {
       "ID": "Achievement_17_Rebel",
@@ -14813,7 +14824,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152274
+      "UsersEstimate": 152275
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -14917,7 +14928,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79447
+      "UsersEstimate": 79448
     },
     {
       "ID": "Achievement_32_Karma",
@@ -15060,15 +15071,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662062,
+      "Progressed": 662064,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "LastChanged": "2023-09-12T15:00:51.9037268+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:06:29.386487+00:00",
+  "LastChanged": "2023-09-12T21:00:03.5082364+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:06:02.4086875+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.7852859+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:01:00.0578922+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:06:29.3865817+00:00"
+  "LastUpdate_Ratings": "2023-09-12T21:00:03.5082375+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:06:02.4088213+00:00"
 }

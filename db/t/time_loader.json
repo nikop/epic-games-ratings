@@ -4,8 +4,8 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -421,8 +421,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:06:23.8541146+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:05:57.8564359+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:05.5276824+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:01:13.9226753+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:06:23.8541327+00:00"
+  "LastUpdate_Ratings": "2023-09-12T21:00:15.3782743+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:05:57.8564574+00:00"
 }

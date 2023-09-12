@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5986,9 +5986,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136083,
+  "EOS_Progressed": 136088,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20941,6 +20941,11 @@
       "Time": "2023-09-12T20:07:32.7993543+00:00",
       "NumProgressed": 136083,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-09-12T21:06:54.2096155+00:00",
+      "NumProgressed": 136088,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 112,
@@ -20960,7 +20965,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "advlevel03",
@@ -21000,7 +21005,7 @@
       "Name": "Ascended",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ascend02",
@@ -21064,7 +21069,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "blueprint03",
@@ -21080,7 +21085,7 @@
       "Name": "Vanity, Verily",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "boss01",
@@ -21144,7 +21149,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "collection02",
@@ -21360,7 +21365,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "furniture02",
@@ -21416,7 +21421,7 @@
       "Name": "Gem Expert",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "gold01",
@@ -21472,7 +21477,7 @@
       "Name": "Helping Hand",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "help02",
@@ -21616,7 +21621,7 @@
       "Name": "Natural 20",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "master03",
@@ -21847,15 +21852,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136083,
+      "Progressed": 136088,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-12T14:02:08.8951572+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:07:32.7993537+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:06:54.2096149+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:02:16.9962358+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:07:32.7995431+00:00"
+  "LastUpdate_Ratings": "2023-09-12T21:03:12.1503972+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:06:54.2098489+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1879,9 +1879,9 @@
       "ID": "PrincessThrone",
       "SetID": "db30heh",
       "Name": "New Order",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 81
     },
     {
       "ID": "RogueChest",
@@ -1982,8 +1982,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:03:29.3902907+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:03:39.7876052+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.7482374+00:00",
-  "LastUpdate_Ratings": "2023-09-12T19:59:37.5026387+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:03:29.390332+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:59:00.2516762+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:03:39.7876491+00:00"
 }

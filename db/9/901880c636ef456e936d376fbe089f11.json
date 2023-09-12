@@ -2,10 +2,10 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 97,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -534,9 +534,9 @@
       "ID": "ACH_HARDBOILED_ADVICE",
       "SetID": "8h8m55b",
       "Name": "A Hardboiled Advice",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_HOW_I_MET_YOUR_ANCESTOR",
@@ -781,8 +781,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-09-12T20:08:02.6972228+00:00",
+  "LastChanged_Achievements": "2023-09-12T21:07:18.9016768+00:00",
   "LastUpdate_AppInfo": "2023-09-12T13:01:55.1897043+00:00",
-  "LastUpdate_Ratings": "2023-09-12T20:00:03.1561864+00:00",
-  "LastUpdate_Achievements": "2023-09-12T20:08:02.6972601+00:00"
+  "LastUpdate_Ratings": "2023-09-12T20:59:20.0832096+00:00",
+  "LastUpdate_Achievements": "2023-09-12T21:07:18.9017246+00:00"
 }
