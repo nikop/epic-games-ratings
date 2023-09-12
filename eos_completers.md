@@ -29,7 +29,7 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
 | 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.14% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.13% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.78% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
@@ -40,7 +40,7 @@
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
 | 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.19% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
-| 41 | [Scorn](games/s/scorn.md) | 7.01% |
+| 41 | [Scorn](games/s/scorn.md) | 7.00% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.50% |
 | 43 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 6.45% |
 | 44 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.34% |
@@ -102,9 +102,9 @@
 | 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
 | 101 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
-| 103 | [Eternights](games/e/eternights.md) | 1.72% |
-| 104 | [Five Dates](games/f/five_dates.md) | 1.67% |
-| 105 | [Somerville](games/s/somerville.md) | 1.65% |
+| 103 | [Five Dates](games/f/five_dates.md) | 1.67% |
+| 104 | [Somerville](games/s/somerville.md) | 1.65% |
+| 105 | [Eternights](games/e/eternights.md) | 1.59% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 106 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
 | 108 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
