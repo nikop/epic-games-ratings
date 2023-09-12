@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -312,9 +312,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3237,
+  "EOS_Progressed": 3238,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4167,6 +4167,11 @@
       "Time": "2023-09-12T10:05:38.7809735+00:00",
       "NumProgressed": 3237,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-12T16:05:46.208447+00:00",
+      "NumProgressed": 3238,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4194,7 +4199,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -4274,7 +4279,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2395
+      "UsersEstimate": 2396
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4290,7 +4295,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -4306,7 +4311,7 @@
       "Name": "Heavy Steps",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -4346,7 +4351,7 @@
       "Name": "Frontliner",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -4362,7 +4367,7 @@
       "Name": "The Cable Guy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_MISSION_01",
@@ -4394,7 +4399,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "ACH_MISSION_05",
@@ -4410,7 +4415,7 @@
       "Name": "Living Nightmare",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACH_MISSION_07",
@@ -4434,7 +4439,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_MISSION_10",
@@ -4442,15 +4447,15 @@
       "Name": "The Spire",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 712
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_MISSION_12",
@@ -4482,7 +4487,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2654
+      "UsersEstimate": 2655
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4490,7 +4495,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4498,7 +4503,7 @@
       "Name": "People Person",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -4514,7 +4519,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -4530,14 +4535,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1845
+      "UsersEstimate": 1846
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3237,
+      "Progressed": 3238,
       "Completed": 3
     }
   ],
@@ -4545,8 +4550,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-09T16:57:24.5411658+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:05:59.3636959+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:05:46.2084466+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.1114534+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:58:36.9178887+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:05:59.3637461+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:58:31.0471399+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:05:46.2085094+00:00"
 }

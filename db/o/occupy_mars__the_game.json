@@ -2,12 +2,12 @@
   "ID": "5424c96246c54737aad95daa7fe724f8",
   "Name": "Occupy Mars: The Game",
   "ProductSlug": "occupy-mars",
-  "Ranking_Rating": 944,
+  "Ranking_Rating": 945,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 189,
+  "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1595,
+  "EOS_Progressed": 1597,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3619,6 +3619,11 @@
       "Time": "2023-09-11T17:08:51.0925639+00:00",
       "NumProgressed": 1595,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T16:07:42.9314649+00:00",
+      "NumProgressed": 1597,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3702,7 +3707,7 @@
       "Name": "The Collector",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -3750,7 +3755,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -3806,7 +3811,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -3886,7 +3891,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4013,7 +4018,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1595,
+      "Progressed": 1597,
       "Completed": 0
     }
   ],
@@ -4021,8 +4026,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-10T18:59:07.5245979+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:07:57.3805089+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:07:42.9314642+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.1992932+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:00:11.7584334+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:07:57.380557+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:00:05.1914426+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:07:42.9315241+00:00"
 }

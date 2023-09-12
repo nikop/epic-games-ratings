@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2513,
+  "EOS_Progressed": 2514,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5726,6 +5726,11 @@
       "Time": "2023-09-12T14:04:19.2972059+00:00",
       "NumProgressed": 2513,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-12T16:04:34.8397146+00:00",
+      "NumProgressed": 2514,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5745,7 +5750,7 @@
       "Name": "Puppetmaster",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "BOT_DESTROYER",
@@ -5912,14 +5917,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2513,
+      "Progressed": 2514,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:04:46.6453426+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:04:34.839714+00:00",
   "LastUpdate_AppInfo": "2023-09-05T23:57:21.8504773+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:00:05.9845606+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:04:46.6453817+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:59:57.8676517+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:04:34.8397649+00:00"
 }

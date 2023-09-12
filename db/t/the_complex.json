@@ -3,8 +3,8 @@
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 547,
+  "EOS_Progressed": 548,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.29,
+  "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -557,6 +557,11 @@
       "Time": "2023-09-10T23:05:50.8457286+00:00",
       "NumProgressed": 547,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-12T16:06:31.4514129+00:00",
+      "NumProgressed": 548,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -576,7 +581,7 @@
       "Name": "Blast From The Past",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "deadly_secret",
@@ -632,7 +637,7 @@
       "Name": "Stalemate",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ending_7",
@@ -656,7 +661,7 @@
       "Name": "Falling For You",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "free_champagne",
@@ -720,14 +725,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 547,
+      "Progressed": 548,
       "Completed": 18
     }
   ],
@@ -735,8 +740,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:06:45.4305991+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:06:31.4514124+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.8564591+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:00:19.8444534+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:06:45.4306152+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:00:13.1635555+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:06:31.4514278+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 417,
   "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 118,
   "RatingHistory": [
     {
@@ -820,6 +820,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 308,
       "NumberOfAwardsMax": 193
+    },
+    {
+      "Time": "2023-09-12T16:02:06.105813+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 308,
+      "NumberOfAwardsMax": 193
     }
   ],
   "ReviewsDisabled": false,
@@ -864,9 +870,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223467,
+  "EOS_Progressed": 223481,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2023,
+  "EOS_NewPlayers": 2022,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10569,6 +10575,11 @@
       "Time": "2023-09-12T15:07:50.0148281+00:00",
       "NumProgressed": 223467,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-12T16:07:35.6343872+00:00",
+      "NumProgressed": 223481,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10612,7 +10623,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "BookCollection",
@@ -10636,7 +10647,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "Chapter3",
@@ -10644,7 +10655,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "Chapter4",
@@ -11028,7 +11039,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64805
+      "UsersEstimate": 64809
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11044,7 +11055,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "EndCombatOneHp",
@@ -11052,7 +11063,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "EndGameCursed",
@@ -11218,9 +11229,9 @@
       "ID": "RogueEpic",
       "SetID": "50chcgj",
       "Name": "Thieves\u0027 Guild Accreditation",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2235
     },
     {
       "ID": "Speedrun",
@@ -11228,7 +11239,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     },
     {
       "ID": "SupportCount4",
@@ -11276,28 +11287,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4469
+      "UsersEstimate": 4470
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223467,
+      "Progressed": 223481,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223467,
+      "Progressed": 223481,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-09-11T16:01:08.5233916+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:07:50.0148277+00:00",
+  "LastChanged": "2023-09-12T16:02:06.1058128+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:07:35.6343866+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:01:36.6520696+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:07:50.0149568+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:02:06.1058134+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:07:35.6345492+00:00"
 }

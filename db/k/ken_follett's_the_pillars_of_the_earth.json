@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -501,9 +501,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15158,
+  "EOS_Progressed": 15160,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -10016,6 +10016,11 @@
       "Time": "2023-09-12T15:06:06.0462058+00:00",
       "NumProgressed": 15158,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-12T16:05:53.0299307+00:00",
+      "NumProgressed": 15160,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -10035,7 +10040,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "tpote_achievement_11",
@@ -10067,7 +10072,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5002
+      "UsersEstimate": 5003
     },
     {
       "ID": "tpote_achievement_15",
@@ -10099,7 +10104,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "tpote_achievement_19",
@@ -10107,7 +10112,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "tpote_achievement_2",
@@ -10115,7 +10120,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5002
+      "UsersEstimate": 5003
     },
     {
       "ID": "tpote_achievement_20",
@@ -10131,7 +10136,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4547
+      "UsersEstimate": 4548
     },
     {
       "ID": "tpote_achievement_22",
@@ -10155,7 +10160,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "tpote_achievement_25",
@@ -10179,7 +10184,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "tpote_achievement_28",
@@ -10219,7 +10224,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "tpote_achievement_32",
@@ -10291,7 +10296,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6215
+      "UsersEstimate": 6216
     },
     {
       "ID": "tpote_achievement_40",
@@ -10347,22 +10352,22 @@
       "Name": "Man of politics",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 5305
+      "UsersEstimate": 5306
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15158,
+      "Progressed": 15160,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-10T20:57:40.397669+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:06:06.0462053+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:05:53.0299302+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.6037792+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:58:43.6451493+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:06:06.0462757+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:58:36.3773967+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:05:53.0300195+00:00"
 }

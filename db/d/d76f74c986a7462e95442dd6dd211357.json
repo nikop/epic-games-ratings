@@ -2,9 +2,9 @@
   "ID": "d76f74c986a7462e95442dd6dd211357",
   "Name": "Dimension Drive",
   "ProductSlug": "dimension-drive-70a456",
-  "Ranking_EOS_Progress": 590,
+  "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-07-20T12:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-07T14:57:39.3336053+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:59:53.6139704+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:04:58.3254172+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:59:46.068185+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:04:46.2676025+00:00"
 }

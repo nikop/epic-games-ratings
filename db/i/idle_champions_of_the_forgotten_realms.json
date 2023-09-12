@@ -6586,9 +6586,9 @@
       "Count": 3413
     }
   ],
-  "EOS_Progressed": 228514,
+  "EOS_Progressed": 228523,
   "EOS_Completed": 2272,
-  "EOS_NewPlayers": 1248,
+  "EOS_NewPlayers": 1240,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22636,6 +22636,11 @@
       "Time": "2023-09-12T15:04:30.6983644+00:00",
       "NumProgressed": 228514,
       "NumCompleted": 2272
+    },
+    {
+      "Time": "2023-09-12T16:04:20.1137735+00:00",
+      "NumProgressed": 228523,
+      "NumCompleted": 2272
     }
   ],
   "TotalAchievements": 520,
@@ -22749,9 +22754,9 @@
       "ID": "objective_completed_1055",
       "SetID": "415jc5c",
       "Name": "The Witchlight Carnival",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 390
     },
     {
       "ID": "objective_completed_1056",
@@ -26806,21 +26811,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194788,
+      "Progressed": 194797,
       "Completed": 3421
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228514,
+      "Progressed": 228523,
       "Completed": 2272
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-12T15:01:10.3528341+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:04:30.6983639+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:04:20.1137727+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:01:10.3528346+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:04:30.7008707+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:01:03.0470316+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:04:20.1168189+00:00"
 }

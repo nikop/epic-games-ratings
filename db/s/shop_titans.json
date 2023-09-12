@@ -2,12 +2,12 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 944,
+  "Ranking_Rating": 945,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5986,9 +5986,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136077,
+  "EOS_Progressed": 136078,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20921,6 +20921,11 @@
       "Time": "2023-09-12T15:07:16.3289769+00:00",
       "NumProgressed": 136077,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-09-12T16:07:02.058786+00:00",
+      "NumProgressed": 136078,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 112,
@@ -21827,15 +21832,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136077,
+      "Progressed": 136078,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-12T14:02:08.8951572+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:07:16.3289764+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:07:02.0587852+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:02:04.7053452+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:07:16.3291236+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:02:14.7703388+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:07:02.0589979+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24045,
+  "EOS_Progressed": 24046,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4812,6 +4812,11 @@
       "Time": "2023-09-12T14:04:35.2753953+00:00",
       "NumProgressed": 24045,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-12T16:04:53.6379123+00:00",
+      "NumProgressed": 24046,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4847,7 +4852,7 @@
       "Name": "Luglox Genocide",
       "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 10339
+      "UsersEstimate": 10340
     },
     {
       "ID": "ACH_APPLEBEES_BILL",
@@ -4879,7 +4884,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -4887,7 +4892,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18274
+      "UsersEstimate": 18275
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4903,7 +4908,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4911,7 +4916,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -4927,7 +4932,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 19957
+      "UsersEstimate": 19958
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -4959,7 +4964,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6011
+      "UsersEstimate": 6012
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -5007,7 +5012,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17553
+      "UsersEstimate": 17554
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -5015,7 +5020,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8175
+      "UsersEstimate": 8176
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -5031,7 +5036,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -5078,22 +5083,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24045,
+      "Progressed": 24046,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1338,
-      "Completed": 1338
+      "Progressed": 1339,
+      "Completed": 1339
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-02T06:57:56.883903+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:05:05.7859141+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:04:53.6379117+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:11.7104478+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:01:13.1531538+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:05:05.7859569+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:01:06.0588626+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:04:53.6379579+00:00"
 }

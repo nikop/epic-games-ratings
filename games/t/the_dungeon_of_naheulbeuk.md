@@ -1,23 +1,23 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 429)  
+Rating: 4.59 (Ranked 417)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,805 |
+| Sowwy! | 29.00% | ~64,809 |
 | Where's that freaking Dwarf? | 4.00% | ~8,939 |
 | Alt+F4 | 4.00% | ~8,939 |
 | Déjà vu | 3.00% | ~6,704 |
 | Sock! SOCK! | 3.00% | ~6,704 |
-| Way of the Wimp | 2.00% | ~4,469 |
-| A beer, two curses, three companions | 2.00% | ~4,469 |
-| The plot thickens... At the tavern | 2.00% | ~4,469 |
-| GG EZ | 2.00% | ~4,469 |
-| DM intervention | 2.00% | ~4,469 |
-| Speedrun | 2.00% | ~4,469 |
-| Fireproof Wizardess | 2.00% | ~4,469 |
+| Way of the Wimp | 2.00% | ~4,470 |
+| A beer, two curses, three companions | 2.00% | ~4,470 |
+| The plot thickens... At the tavern | 2.00% | ~4,470 |
+| GG EZ | 2.00% | ~4,470 |
+| DM intervention | 2.00% | ~4,470 |
+| Speedrun | 2.00% | ~4,470 |
+| Fireproof Wizardess | 2.00% | ~4,470 |
 | Livin' in a dwarven paradise | 1.00% | ~2,235 |
 | Shiny and Crôm | 1.00% | ~2,235 |
 | The demons' feast | 1.00% | ~2,235 |
@@ -31,12 +31,12 @@ Number of Ratings: 118  (23.09.2022)
 | The beards of change | 1.00% | ~2,235 |
 | The Ranger of Chaos | 1.00% | ~2,235 |
 | I am the night | 1.00% | ~2,235 |
+| Thieves' Guild Accreditation | 1.00% | ~2,235 |
 | Team Building Exercise | 1.00% | ~2,235 |
 | Oh, when I'll be level 10... | 1.00% | ~2,235 |
 | The Famous Dungeon of Naheulbeuk | 0.90% | ~2,011 |
 | %#*!$*! | 0.90% | ~2,011 |
 | Look but don't touch | 0.90% | ~2,011 |
-| Thieves' Guild Accreditation | 0.90% | ~2,011 |
 | Res Judicata | 0.80% | ~1,788 |
 | Dwarf Fortress | 0.80% | ~1,788 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,564 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~223 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,467 (Ranked 56)  
+Progressed: 223,481 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-09 | 222,713 | 2 |
 | 2023-09-10 | 223,093 | 2 |
 | 2023-09-11 | 223,344 | 2 |
-| 2023-09-12 | 223,467 | 2 |
+| 2023-09-12 | 223,481 | 2 |
 ## Awards
 Max (Character Customization): 193  (Ranked 276)  
 Sum: 308 (Ranked 338)  
@@ -343,3 +343,4 @@ Diff (max vs sum): -62
 | 2023-09-09 | 4.59 | - | 190 | 265 |
 | 2023-09-10 | 4.59 | - | 192 | 307 |
 | 2023-09-11 | 4.58 | - | 193 | 308 |
+| 2023-09-12 | 4.59 | - | 193 | 308 |

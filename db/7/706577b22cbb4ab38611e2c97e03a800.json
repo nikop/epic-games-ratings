@@ -484,9 +484,9 @@
       "ID": "ACHIEVEMENT_SURV_02",
       "SetID": "b50kim2",
       "Name": "SURVIVE MAP 02",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SURV_03",
@@ -523,8 +523,8 @@
   ],
   "FirstSeen": "2023-09-12T13:03:58.3163014+00:00",
   "FirstSeenAchievements": "2023-07-24T21:06:11.7516454+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:03:26.857312+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:03:26.1679305+00:00",
   "LastUpdate_AppInfo": "2023-09-12T02:11:10.9088436+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:59:29.773019+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:03:26.857349+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:59:22.7328604+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:03:26.1679731+00:00"
 }

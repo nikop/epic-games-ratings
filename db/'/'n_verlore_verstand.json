@@ -2,9 +2,9 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -186,6 +186,11 @@
       "Time": "2023-09-12T04:05:56.8889851+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T16:06:24.4855199+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -195,7 +200,7 @@
       "ID": "1",
       "SetID": "6m1k8ai",
       "Name": "Start of a Journey",
-      "Percentage": 89,
+      "Percentage": 86,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -283,7 +288,7 @@
       "ID": "2",
       "SetID": "6m1k8ai",
       "Name": "Escape the Maze",
-      "Percentage": 49,
+      "Percentage": 47,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -347,7 +352,7 @@
       "ID": "27",
       "SetID": "6m1k8ai",
       "Name": "A thing of beauty",
-      "Percentage": 86,
+      "Percentage": 83,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -371,7 +376,7 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -580,14 +585,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:06:37.9892413+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:06:24.485519+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:36.5906962+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:01:37.9385166+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:06:37.9892795+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:02:07.5040072+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:06:24.4855607+00:00"
 }

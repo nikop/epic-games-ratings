@@ -2,9 +2,9 @@
   "ID": "7c28c10036b04d78b04f614e21e116e3",
   "Name": "Onsen Master",
   "ProductSlug": "onsen-master-9e1323",
-  "Ranking_EOS_Progress": 590,
+  "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-09-01T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-04-10T06:58:06.786675+00:00",
   "LastChanged": "2023-04-10T06:58:06.786675+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:19.9484566+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:57:28.8969867+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:04:23.3427133+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:57:22.2049288+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:04:12.3697726+00:00"
 }

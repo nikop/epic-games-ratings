@@ -45,9 +45,9 @@ Rating: 4.00 (Ranked 941)
 | Trader | 9.00% | ~174 |
 | Crystal Mining | 8.00% | ~154 |
 | Dragon Slayer | 8.00% | ~154 |
+| Enchanting skill | 8.00% | ~154 |
 | Weekly Quest Completionist | 8.00% | ~154 |
 | Blueprint Upgrades | 7.00% | ~135 |
-| Enchanting skill | 7.00% | ~135 |
 | Engineer Mastery | 7.00% | ~135 |
 | Sailor | 7.00% | ~135 |
 | The Expeditioner | 7.00% | ~135 |

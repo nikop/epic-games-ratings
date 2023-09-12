@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5598,
+  "EOS_Progressed": 5607,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2432,
+  "EOS_NewPlayers": 2394,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1176,6 +1176,11 @@
       "Time": "2023-09-12T15:04:18.4371301+00:00",
       "NumProgressed": 5598,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T16:04:07.6895488+00:00",
+      "NumProgressed": 5607,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1236,7 +1241,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "CreditsSpent50000",
@@ -1244,15 +1249,15 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "DHUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Deflector Helmet to Level 3",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 39
     },
     {
       "ID": "EARUpgraded1",
@@ -1300,7 +1305,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "GamesPlayed1",
@@ -1308,7 +1313,7 @@
       "Name": "Played a Match",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1959
+      "UsersEstimate": 1962
     },
     {
       "ID": "GamesPlayed10",
@@ -1322,9 +1327,9 @@
       "ID": "GamesPlayed100",
       "SetID": "12d07c7",
       "Name": "Played 100 Matches",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 11
     },
     {
       "ID": "GamesWon1",
@@ -1332,7 +1337,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "GamesWon10",
@@ -1380,7 +1385,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "HAUpgraded1",
@@ -1396,7 +1401,7 @@
       "Name": "Purchased Healing Grenade",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "HSPurchased1",
@@ -1404,7 +1409,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "HSUPurchased1",
@@ -1452,7 +1457,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "InhibitorKills3",
@@ -1500,7 +1505,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MaxDamageDone30000",
@@ -1548,7 +1553,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MaxTowersKilled3",
@@ -1556,7 +1561,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MaxTowersKilled6",
@@ -1596,7 +1601,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "NeutralKills200",
@@ -1620,7 +1625,7 @@
       "Name": "10 Eliminations",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "PlayerKills100",
@@ -1634,9 +1639,9 @@
       "ID": "PlayerKills1000",
       "SetID": "12d07c7",
       "Name": "1000 Eliminations",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 11
     },
     {
       "ID": "PulseUpgraded1",
@@ -1644,7 +1649,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "QAUpgraded1",
@@ -1660,7 +1665,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "RAPurchased1",
@@ -1684,7 +1689,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "SEUpgraded1",
@@ -1700,7 +1705,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "SOVUpgraded1",
@@ -1748,7 +1753,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "TSUPurchased1",
@@ -1772,21 +1777,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5598,
+      "Progressed": 5607,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:04:18.4371296+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:04:07.6895483+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:59:14.9018878+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:04:18.4372022+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:59:08.5322555+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:04:07.6896276+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10453,
+  "EOS_Progressed": 10456,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5115,6 +5115,11 @@
       "Time": "2023-09-12T15:07:27.060842+00:00",
       "NumProgressed": 10453,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T16:07:12.5567485+00:00",
+      "NumProgressed": 10456,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5175,7 +5180,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2718
+      "UsersEstimate": 2719
     },
     {
       "ID": "16",
@@ -5199,7 +5204,7 @@
       "Name": "Bottoms up!",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "19",
@@ -5207,7 +5212,7 @@
       "Name": "Martian Music",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2404
+      "UsersEstimate": 2405
     },
     {
       "ID": "2",
@@ -5229,9 +5234,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1568
     },
     {
       "ID": "22",
@@ -5359,14 +5364,14 @@
       "Name": "Impossible Objects",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3240
+      "UsersEstimate": 3241
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10453,
+      "Progressed": 10456,
       "Completed": 0
     }
   ],
@@ -5374,8 +5379,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:07:27.0608416+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:07:12.5567479+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:57:34.8345376+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:07:27.0608825+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:57:27.5514484+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:07:12.5567986+00:00"
 }

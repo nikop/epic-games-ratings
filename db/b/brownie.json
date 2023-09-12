@@ -1,9 +1,9 @@
 {
   "ID": "435aaec1220447efbcfeb4f2abeb1027",
   "Name": "Brownie",
-  "Ranking_EOS_Progress": 590,
+  "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:16.8792109+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:59:18.2092932+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:06:32.4673241+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:59:12.6576638+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:06:19.0647627+00:00"
 }

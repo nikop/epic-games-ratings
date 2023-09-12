@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.30% | ~686 |
 | Legends and Lore | 0.30% | ~584 |
 | Tall Tales | 0.20% | ~390 |
+| The Witchlight Carnival | 0.20% | ~390 |
 | The Silken Swamp | 0.20% | ~457 |
 | Supply Run | 0.20% | ~457 |
 | Vecna Lives! | 0.20% | ~390 |
@@ -61,7 +62,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nightmare Rats! | 0.10% | ~195 |
 | An Unexpected Geist | 0.10% | ~195 |
 | Back to Nature | 0.10% | ~195 |
-| The Witchlight Carnival | 0.10% | ~195 |
 | A Monarch Among Us | 0.10% | ~195 |
 | A Dragon Against Us | 0.10% | ~195 |
 | A Familiar Behind Us | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,514 (Ranked 54)  
+Progressed: 228,523 (Ranked 54)  
 Completed: 2,272 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,7 +672,7 @@ Completed: 2,272 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
-| 2023-09-12 | 228,514 | 2,272 |
+| 2023-09-12 | 228,523 | 2,272 |
 ## Awards
 Max (Diverse Characters): 5,266  (Ranked 67)  
 Sum: 31,549 (Ranked 39)  

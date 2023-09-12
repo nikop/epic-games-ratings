@@ -4,7 +4,7 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -201,6 +201,11 @@
       "Time": "2023-09-11T23:04:50.4465116+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T16:05:18.7899604+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-18T00:01:21.9503191+00:00",
@@ -211,7 +216,7 @@
       "ID": "A1",
       "SetID": "7f5j12l",
       "Name": "Level 1 Completed",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -235,7 +240,7 @@
       "ID": "A12",
       "SetID": "7f5j12l",
       "Name": "White House Destroyed",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -243,7 +248,7 @@
       "ID": "A13",
       "SetID": "7f5j12l",
       "Name": "Statue of Liberty Destroyed",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -251,7 +256,7 @@
       "ID": "A14",
       "SetID": "7f5j12l",
       "Name": "Pentagon Destroyed",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -283,9 +288,9 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "A19",
@@ -443,7 +448,7 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -484,14 +489,14 @@
     {
       "ID": "7f5j12l",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:05:31.3122419+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:05:18.7899598+00:00",
   "LastUpdate_AppInfo": "2023-09-12T03:57:05.0237752+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:59:37.3663355+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:05:31.312264+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:59:30.3281198+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:05:18.7899864+00:00"
 }

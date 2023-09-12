@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 766,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1402,6 +1402,11 @@
       "Time": "2023-09-12T15:05:20.4383783+00:00",
       "NumProgressed": 765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T16:05:08.0516184+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1422,7 +1427,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "AC02",
@@ -1430,7 +1435,7 @@
       "Name": "Blood and Dust",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "AC03",
@@ -1438,7 +1443,7 @@
       "Name": "Blood and Gold",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "AC04",
@@ -1462,7 +1467,7 @@
       "Name": "The Last Ascension",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "AC07",
@@ -1470,7 +1475,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "AC08",
@@ -1478,7 +1483,7 @@
       "Name": "Forged in Fire",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "AC09",
@@ -1486,7 +1491,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "AC10",
@@ -1518,7 +1523,7 @@
       "Name": "Second Psalm.",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "AC14",
@@ -1540,9 +1545,9 @@
       "ID": "AC16",
       "SetID": "l4abp0",
       "Name": "Weight of Penance",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 130
     },
     {
       "ID": "AC17",
@@ -1558,7 +1563,7 @@
       "Name": "Acquired Taste",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "AC19",
@@ -1606,7 +1611,7 @@
       "Name": "The Work of a Master",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "AC25",
@@ -1670,7 +1675,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "AC33",
@@ -1718,7 +1723,7 @@
       "Name": "Edge of Orison",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "AC39",
@@ -1726,7 +1731,7 @@
       "Name": "Warrior of the Silent Sorrow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "AC40",
@@ -1734,7 +1739,7 @@
       "Name": "Welcome Back!",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "AC41",
@@ -1750,7 +1755,7 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "AC43",
@@ -1781,7 +1786,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 766,
       "Completed": 0
     }
   ],
@@ -1789,8 +1794,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:05:20.4383777+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:05:08.0516178+00:00",
   "LastUpdate_AppInfo": "2023-09-05T19:56:54.0668721+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:59:42.0181365+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:05:20.4384137+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:59:35.1894777+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:05:08.0516646+00:00"
 }

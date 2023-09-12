@@ -2,9 +2,9 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 378,
+  "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -326,6 +326,11 @@
       "Time": "2023-09-11T17:08:09.4132036+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T16:07:11.1574187+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -351,7 +356,7 @@
       "ID": "ACH_CRAFT_15_WEAPONS",
       "SetID": "7i20me3",
       "Name": "Craftsmen",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -415,7 +420,7 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 55
     },
@@ -439,7 +444,7 @@
       "ID": "ACH_ENTER_REGION_SPIRE",
       "SetID": "7i20me3",
       "Name": "Through Dangers Untold",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -511,7 +516,7 @@
       "ID": "ACH_FIND_ALL_PLANT_TYPES",
       "SetID": "7i20me3",
       "Name": "Witch",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -583,9 +588,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -615,7 +620,7 @@
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -704,22 +709,22 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 61,
-      "Completed": 61
+      "Progressed": 62,
+      "Completed": 62
     }
   ],
   "FirstSeen": "2023-04-20T22:59:51.7384582+00:00",
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:07:25.7026571+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:07:11.1574184+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.5901526+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:01:06.7405884+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:07:25.7026827+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:00:58.9037579+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:07:11.1574601+00:00"
 }

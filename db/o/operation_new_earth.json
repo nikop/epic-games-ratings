@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1292,
+  "EOS_Progressed": 1293,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -4631,6 +4631,11 @@
       "Time": "2023-09-12T14:02:16.8166835+00:00",
       "NumProgressed": 1292,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-12T16:02:27.612502+00:00",
+      "NumProgressed": 1293,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4706,7 +4711,7 @@
       "Name": "Silver Competitor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -4746,7 +4751,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4776,9 +4781,9 @@
       "ID": "objective_hero_level_up_4",
       "SetID": "bm61c2p",
       "Name": "Captain",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 78
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -4888,9 +4893,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 78
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -4945,14 +4950,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1292,
+      "Progressed": 1293,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:02:17.6513837+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:02:27.6125013+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:59:32.8247892+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:02:17.6514317+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:59:26.1281327+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:02:27.6125631+00:00"
 }

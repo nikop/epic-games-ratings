@@ -243,9 +243,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 201253,
+  "EOS_Progressed": 201261,
   "EOS_Completed": 496,
-  "EOS_NewPlayers": 470,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -15873,6 +15873,11 @@
       "Time": "2023-09-12T15:03:37.4648527+00:00",
       "NumProgressed": 201253,
       "NumCompleted": 496
+    },
+    {
+      "Time": "2023-09-12T16:03:36.5967972+00:00",
+      "NumProgressed": 201261,
+      "NumCompleted": 496
     }
   ],
   "TotalAchievements": 29,
@@ -15908,7 +15913,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 189178
+      "UsersEstimate": 189185
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -16020,7 +16025,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12075
+      "UsersEstimate": 12076
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -16068,7 +16073,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20125
+      "UsersEstimate": 20126
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -16115,7 +16120,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 201253,
+      "Progressed": 201261,
       "Completed": 496
     }
   ],
@@ -16123,8 +16128,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-08-19T20:00:31.8399303+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:03:37.4648522+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:03:36.5967966+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:22.6745547+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:57:37.2875691+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:03:37.4649418+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:57:30.4911416+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:03:36.5969159+00:00"
 }

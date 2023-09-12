@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17968,
+  "EOS_Progressed": 17970,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10085,6 +10085,11 @@
       "Time": "2023-09-12T14:04:59.2312299+00:00",
       "NumProgressed": 17968,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-12T16:05:22.1781184+00:00",
+      "NumProgressed": 17970,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10152,7 +10157,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "0009",
@@ -10248,7 +10253,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 11,
       "XP": 115,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "0021",
@@ -10296,7 +10301,7 @@
       "Name": "The Living Portrait",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "0027",
@@ -10304,7 +10309,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "0028",
@@ -10328,7 +10333,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3234
+      "UsersEstimate": 3235
     },
     {
       "ID": "0031",
@@ -10344,7 +10349,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "0033",
@@ -10352,7 +10357,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1977
     },
     {
       "ID": "0034",
@@ -10383,7 +10388,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17968,
+      "Progressed": 17970,
       "Completed": 3
     }
   ],
@@ -10391,8 +10396,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:05:34.7555536+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:05:22.1781179+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:58:25.9322206+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:05:34.7556185+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:58:19.6114013+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:05:22.1781943+00:00"
 }

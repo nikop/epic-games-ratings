@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -593,9 +593,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1349,
+  "EOS_Progressed": 1357,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4073,6 +4073,11 @@
       "Time": "2023-09-12T15:06:45.0642914+00:00",
       "NumProgressed": 1349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T16:06:31.1620144+00:00",
+      "NumProgressed": 1357,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4085,7 +4090,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -4101,7 +4106,7 @@
       "Name": "Deadication",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -4125,7 +4130,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -4141,7 +4146,7 @@
       "Name": "First Strike",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -4181,7 +4186,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -4221,7 +4226,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -4237,7 +4242,7 @@
       "Name": "Spending Spree",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -4268,15 +4273,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1349,
+      "Progressed": 1357,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-08T22:00:22.0755866+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:06:45.0642909+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:06:31.1620138+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:57:12.1485941+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:06:45.0643205+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:57:06.9219541+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:06:31.1620504+00:00"
 }

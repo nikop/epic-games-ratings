@@ -13,13 +13,13 @@
 | Green Energy | 10.00% | ~16 |
 | Desert Power | 9.00% | ~15 |
 | Desert Rat | 9.00% | ~15 |
+| Jantine: the Misfortunes of Evil | 7.00% | ~11 |
 | Perfect Soldier | 7.00% | ~11 |
 | Health Care | 7.00% | ~11 |
 | Good payer | 7.00% | ~11 |
 | Food Tycoon | 7.00% | ~11 |
 | Fuel Tycoon | 7.00% | ~11 |
 | Ammo Tycoon | 7.00% | ~11 |
-| Jantine: the Misfortunes of Evil | 6.00% | ~10 |
 | Healing | 6.00% | ~10 |
 | Pathfinder | 6.00% | ~10 |
 | Self-sufficient | 6.00% | ~10 |

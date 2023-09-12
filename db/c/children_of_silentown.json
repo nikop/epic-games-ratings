@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -517,9 +517,9 @@
       "ID": "Windmill",
       "SetID": "9kk0gal",
       "Name": "Windmill",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
@@ -534,8 +534,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-09-12T15:05:10.1706897+00:00",
+  "LastChanged_Achievements": "2023-09-12T16:04:57.921256+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:47.7498566+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:59:01.8159249+00:00",
-  "LastUpdate_Achievements": "2023-09-12T15:05:10.1707053+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:58:54.7683381+00:00",
+  "LastUpdate_Achievements": "2023-09-12T16:04:57.921278+00:00"
 }
