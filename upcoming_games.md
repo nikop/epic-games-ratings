@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Planeticus](games/a/ab92882712a0448582913b1319f7faf9.md) | 2023-09-12 | - |  | - | - |
 | [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 3 | - | - |
 | [Nour: Play with Your Food](games/n/nour__play_with_your_food.md) | 2023-09-12 | - |  | - | - |
 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2023-09-12 | 26 (1,000 XP) | 0 | - | - |

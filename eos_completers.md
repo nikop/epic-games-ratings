@@ -3,11 +3,11 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.99% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.99% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.64% |
 | 5 | [Eternights](games/e/eternights.md) | 33.33% |
 | 6 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 7 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.91% |
+| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.59% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 26.36% |
 | 10 | [Overloop](games/o/overloop.md) | 25.00% |
 | 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.53% |
@@ -57,8 +57,8 @@
 | 55 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
-| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.20% |
-| 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 58 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
+| 58 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.17% |
 | 60 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.12% |
 | 62 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
@@ -72,8 +72,8 @@
 | 70 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 71 | [HordeCore](games/h/hordecore.md) | 3.13% |
 | 72 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.00% |
-| 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.99% |
-| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
+| 73 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
+| 73 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
 | 75 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 76 | [Monster Harvest](games/m/monster_harvest.md) | 2.86% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
