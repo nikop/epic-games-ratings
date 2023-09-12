@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -363,7 +363,7 @@
   ],
   "EOS_Progressed": 2236,
   "EOS_Completed": 272,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 12.16,
   "EosHistory": [
@@ -2183,9 +2183,9 @@
       "ID": "TrickleDown",
       "SetID": "5lok9mm",
       "Name": "Trickle Down Economy",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1722
     },
     {
       "ID": "Win",
@@ -2207,8 +2207,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-30T16:59:25.1228046+00:00",
-  "LastChanged_Achievements": "2023-09-12T12:04:47.0145236+00:00",
+  "LastChanged_Achievements": "2023-09-12T13:09:39.5743663+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.5185713+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:58:03.5924596+00:00",
-  "LastUpdate_Achievements": "2023-09-12T12:04:47.0145757+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:03:00.8758859+00:00",
+  "LastUpdate_Achievements": "2023-09-12T13:09:39.5744202+00:00"
 }

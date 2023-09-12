@@ -8,9 +8,9 @@ Rating: 4.60 (Ranked 394)
 | Time Heals All Wounds | 27.00% | ~233 |
 | The Mysterious Stranger | 22.00% | ~190 |
 | Rail Rat | 22.00% | ~190 |
-| The Prince in Heels | 20.00% | ~172 |
-| Immaculate Aim | 20.00% | ~172 |
-| The Brass Boss | 20.00% | ~172 |
+| The Prince in Heels | 20.00% | ~173 |
+| Immaculate Aim | 20.00% | ~173 |
+| The Brass Boss | 20.00% | ~173 |
 | The Steel Shadow | 19.00% | ~164 |
 | Make Up For Lost Time | 19.00% | ~164 |
 | Time Flies | 19.00% | ~164 |
@@ -49,7 +49,7 @@ Rating: 4.60 (Ranked 394)
 | Golem Hunter | 6.00% | ~52 |
 | Clovemary for Remembering | 5.00% | ~43 |
 | Rungs Was Right | 5.00% | ~43 |
-| Hexlock for Protection | 4.00% | ~34 |
+| Hexlock for Protection | 4.00% | ~35 |
 | Wunderkind | 2.00% | ~17 |
 | Fitting In | 2.00% | ~17 |
 | Thinking Two Steps Ahead | 1.00% | ~9 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 394)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 862 (Ranked 215)  
+Progressed: 863 (Ranked 215)  
 Completed: 5 (0.58%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 5 (0.58%) (Ranked 146)
 | 2023-09-09 | 857 | 5 |
 | 2023-09-10 | 861 | 5 |
 | 2023-09-11 | 862 | 5 |
+| 2023-09-12 | 863 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

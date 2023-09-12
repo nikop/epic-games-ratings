@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~23,735 |
-| Landlord | 32.00% | ~19,475 |
-| Bannerlord | 23.00% | ~13,997 |
-| Horde breaker | 23.00% | ~13,997 |
-| Lawmaker | 23.00% | ~13,997 |
-| Trained | 23.00% | ~13,997 |
-| The king is pleased | 18.00% | ~10,954 |
+| Lawbringer | 39.00% | ~23,736 |
+| Landlord | 32.00% | ~19,476 |
+| Bannerlord | 23.00% | ~13,998 |
+| Horde breaker | 23.00% | ~13,998 |
+| Lawmaker | 23.00% | ~13,998 |
+| Trained | 23.00% | ~13,998 |
+| The king is pleased | 18.00% | ~10,955 |
 | King Solomon | 17.00% | ~10,346 |
-| I can do it | 16.00% | ~9,737 |
+| I can do it | 16.00% | ~9,738 |
 | Apple of my eye | 15.00% | ~9,129 |
 | God of the Arena | 13.00% | ~7,912 |
 | Against all odds | 12.00% | ~7,303 |
-| This Is Our Land | 11.00% | ~6,694 |
+| This Is Our Land | 11.00% | ~6,695 |
 | Duelist | 10.00% | ~6,086 |
 | Swordbearer | 10.00% | ~6,086 |
 | Dynasty | 9.00% | ~5,477 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,858 (Ranked 88)  
+Progressed: 60,861 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,10 +203,10 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 60,687 | 0 |
 | 2023-09-10 | 60,769 | 0 |
 | 2023-09-11 | 60,835 | 0 |
-| 2023-09-12 | 60,858 | 0 |
+| 2023-09-12 | 60,861 | 0 |
 ## Awards
 Max (Character Customization): 7,071  (Ranked 50)  
-Sum: 14,398 (Ranked 70)  
+Sum: 14,399 (Ranked 70)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
@@ -214,7 +214,7 @@ Diff (max vs sum): -20
 | This game is Great for Beginners | 953 |
 | This game has Diverse Characters | 913 |
 | This game is Highly Recommended | 860 |
-| This game is Extremely Fun | 823 |
+| This game is Extremely Fun | 824 |
 | This game has Amazing Storytelling | 812 |
 | This game is Relaxing | 802 |
 | This game has Amazing Characters | 794 |
@@ -465,4 +465,4 @@ Diff (max vs sum): -20
 | 2023-09-09 | 4.74 | - | 7,059 | 14,359 |
 | 2023-09-10 | 4.74 | - | 7,065 | 14,378 |
 | 2023-09-11 | 4.74 | - | 7,065 | 14,388 |
-| 2023-09-12 | 4.74 | - | 7,071 | 14,398 |
+| 2023-09-12 | 4.74 | - | 7,071 | 14,399 |

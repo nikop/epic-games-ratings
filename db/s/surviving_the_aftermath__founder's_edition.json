@@ -1239,9 +1239,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8955,
+  "EOS_Progressed": 8956,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12664,6 +12664,11 @@
       "Time": "2023-09-12T12:03:13.3231791+00:00",
       "NumProgressed": 8955,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T13:08:06.3969181+00:00",
+      "NumProgressed": 8956,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -12675,7 +12680,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5373
+      "UsersEstimate": 5374
     },
     {
       "ID": "10",
@@ -12707,7 +12712,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4747
     },
     {
       "ID": "14",
@@ -12723,7 +12728,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "16",
@@ -12763,7 +12768,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "20",
@@ -12811,7 +12816,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "26",
@@ -12819,7 +12824,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "27",
@@ -12883,7 +12888,7 @@
       "Name": "Around the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "34",
@@ -12899,7 +12904,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "36",
@@ -12915,7 +12920,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "38",
@@ -12923,7 +12928,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "39",
@@ -12939,7 +12944,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "40",
@@ -12995,7 +13000,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "47",
@@ -13146,15 +13151,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8955,
+      "Progressed": 8956,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-06T14:03:03.7495467+00:00",
-  "LastChanged_Achievements": "2023-09-12T12:03:13.3231786+00:00",
+  "LastChanged_Achievements": "2023-09-12T13:08:06.3969175+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.3176455+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:58:20.8381332+00:00",
-  "LastUpdate_Achievements": "2023-09-12T12:03:13.3232854+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:03:18.397855+00:00",
+  "LastUpdate_Achievements": "2023-09-12T13:08:06.397041+00:00"
 }

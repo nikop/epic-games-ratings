@@ -5,7 +5,7 @@
   "Ranking_Rating": 851,
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 238,
-  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Progress": 589,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
@@ -2314,10 +2314,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 1079,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2023-09-12T13:03:36.7481149+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1080,
+      "NumberOfAwardsMax": 209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1079,
+  "NumberOfAwards": 1080,
   "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2325,7 +2331,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2393,8 +2399,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2023-09-10T13:58:01.7228504+00:00",
+  "LastChanged": "2023-09-12T13:03:36.7481148+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:11.921842+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:58:40.6560809+00:00",
-  "LastUpdate_Achievements": "2023-09-12T12:03:53.7793029+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:03:36.7481153+00:00",
+  "LastUpdate_Achievements": "2023-09-12T13:08:46.0837718+00:00"
 }

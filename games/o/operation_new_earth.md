@@ -19,8 +19,8 @@
 | Infantry Reporting | 8.00% | ~103 |
 | Silver Competitor | 7.00% | ~90 |
 | Captain | 7.00% | ~90 |
+| Factory Expansion | 7.00% | ~90 |
 | Exterminator | 6.00% | ~77 |
-| Factory Expansion | 6.00% | ~77 |
 | Brothers in Arms | 5.00% | ~65 |
 | Know The Enemy | 4.00% | ~52 |
 | Player Betrayer | 4.00% | ~52 |

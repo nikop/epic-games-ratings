@@ -8,26 +8,26 @@
 | Welcome to the Tower | 45.00% | ~66 |
 | The great escape | 40.00% | ~58 |
 | The Preacher's fate | 39.00% | ~57 |
-| A new dawn | 34.00% | ~50 |
+| A new dawn | 35.00% | ~51 |
 | Scholar | 31.00% | ~45 |
 | The darkness | 31.00% | ~45 |
 | A good beginning | 29.00% | ~42 |
 | True G4M3R | 29.00% | ~42 |
+| One last step | 26.00% | ~38 |
+| Cable guy | 25.00% | ~36 |
 | Champollion | 25.00% | ~36 |
-| One last step | 25.00% | ~36 |
-| Cable guy | 24.00% | ~35 |
+| In this together | 22.00% | ~32 |
 | Half the way | 22.00% | ~32 |
 | Open door | 22.00% | ~32 |
-| In this together | 21.00% | ~31 |
 | Peace walker | 21.00% | ~31 |
-| Feels like springtime | 19.00% | ~28 |
+| Feels like springtime | 20.00% | ~29 |
 | Free at last | 17.00% | ~25 |
 | A Link to the Past | 16.00% | ~23 |
 | Alchemists Express | 16.00% | ~23 |
 | Rascal | 16.00% | ~23 |
+| For its own good | 12.00% | ~18 |
 | Fashion victim | 12.00% | ~18 |
 | A great audience | 11.00% | ~16 |
-| For its own good | 11.00% | ~16 |
 | I did it | 9.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 146 (Ranked 326)  

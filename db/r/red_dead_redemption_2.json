@@ -5,7 +5,7 @@
   "Ranking_Rating": 19,
   "Ranking_Popularity": 6,
   "Ranking_PopularitySum": 7,
-  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Progress": 589,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
@@ -13052,18 +13052,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 456519,
       "NumberOfAwardsMax": 175190
+    },
+    {
+      "Time": "2023-09-12T13:01:57.3997437+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 457049,
+      "NumberOfAwardsMax": 175533
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 456519,
-  "NumberOfAwardsMax": 175190,
+  "NumberOfAwards": 457049,
+  "NumberOfAwardsMax": 175533,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 175190
+      "Count": 175533
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -13093,13 +13099,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 16942
+      "Count": 16985
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 16340
+      "Count": 16380
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13111,7 +13117,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 17517
+      "Count": 17566
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13135,7 +13141,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 16645
+      "Count": 16700
     },
     {
       "Text": "This game has a Creative Community",
@@ -13155,8 +13161,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2023-09-12T10:57:02.48309+00:00",
+  "LastChanged": "2023-09-12T13:01:57.3997436+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:41.8958927+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:57:00.9452037+00:00",
-  "LastUpdate_Achievements": "2023-09-12T12:05:30.2675869+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:01:57.3997442+00:00",
+  "LastUpdate_Achievements": "2023-09-12T13:10:22.1153466+00:00"
 }

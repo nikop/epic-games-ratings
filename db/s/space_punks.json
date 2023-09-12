@@ -2,10 +2,10 @@
   "ID": "0ded1556336546bf849c9d28878ec86c",
   "Name": "Space Punks",
   "ProductSlug": "space-punks",
-  "Ranking_Rating": 890,
+  "Ranking_Rating": 891,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 244,
-  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Progress": 589,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
@@ -1885,6 +1885,6 @@
   "FirstSeen": "2022-07-22T20:20:42.1353747+00:00",
   "LastChanged": "2023-09-02T20:59:00.8972407+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:52.6501956+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:57:10.8220229+00:00",
-  "LastUpdate_Achievements": "2023-09-12T12:05:43.1109102+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:02:07.4031995+00:00",
+  "LastUpdate_Achievements": "2023-09-12T13:10:34.4010696+00:00"
 }

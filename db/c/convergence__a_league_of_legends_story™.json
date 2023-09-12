@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 862,
+  "EOS_Progressed": 863,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2130,6 +2130,11 @@
       "Time": "2023-09-11T14:05:28.7431139+00:00",
       "NumProgressed": 862,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-12T13:10:35.0291776+00:00",
+      "NumProgressed": 863,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2309,7 +2314,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "InxChromaInTheatre",
@@ -2421,7 +2426,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "RewindDamage1",
@@ -2517,7 +2522,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "WarwickDefeated",
@@ -2549,7 +2554,7 @@
       "Name": "The Brass Boss",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Zarkon2Defeated",
@@ -2564,7 +2569,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 862,
+      "Progressed": 863,
       "Completed": 5
     }
   ],
@@ -2572,8 +2577,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-12T12:05:43.5530354+00:00",
+  "LastChanged_Achievements": "2023-09-12T13:10:35.0291769+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:58:04.7167022+00:00",
-  "LastUpdate_Achievements": "2023-09-12T12:05:43.5530942+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:03:02.0045958+00:00",
+  "LastUpdate_Achievements": "2023-09-12T13:10:35.0292356+00:00"
 }

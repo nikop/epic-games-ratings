@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 1291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4883,9 +4883,9 @@
       "ID": "objective_multiple_factory_1",
       "SetID": "bm61c2p",
       "Name": "Factory Expansion",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 90
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -4946,8 +4946,8 @@
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-12T11:03:50.0592147+00:00",
+  "LastChanged_Achievements": "2023-09-12T13:07:05.3414572+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:59:06.5008223+00:00",
-  "LastUpdate_Achievements": "2023-09-12T11:03:50.0592856+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:04:00.9613569+00:00",
+  "LastUpdate_Achievements": "2023-09-12T13:07:05.3415872+00:00"
 }

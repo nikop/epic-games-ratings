@@ -6,36 +6,36 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,425 |
-| Uncharted Territory | 89.00% | ~209,915 |
-| Getting A Glimpse | 73.00% | ~172,177 |
-| A Quick Escape | 65.00% | ~153,308 |
-| Explorer | 62.00% | ~146,233 |
-| Defeat The Dark | 61.00% | ~143,874 |
-| An Offering | 61.00% | ~143,874 |
-| Colorful Corpse | 58.00% | ~136,798 |
-| That Was Quick | 57.00% | ~134,440 |
-| A Donation | 57.00% | ~134,440 |
-| Goodbye, Frog Friend | 54.00% | ~127,364 |
-| Heavy Hitter | 53.00% | ~125,005 |
-| Heartless | 46.00% | ~108,495 |
-| Spine Breaker | 46.00% | ~108,495 |
+| First Steps | 96.00% | ~226,427 |
+| Uncharted Territory | 89.00% | ~209,916 |
+| Getting A Glimpse | 73.00% | ~172,179 |
+| A Quick Escape | 65.00% | ~153,310 |
+| Explorer | 62.00% | ~146,234 |
+| Defeat The Dark | 61.00% | ~143,875 |
+| An Offering | 61.00% | ~143,875 |
+| Colorful Corpse | 58.00% | ~136,799 |
+| That Was Quick | 57.00% | ~134,441 |
+| A Donation | 57.00% | ~134,441 |
+| Goodbye, Frog Friend | 54.00% | ~127,365 |
+| Heavy Hitter | 53.00% | ~125,006 |
+| Heartless | 46.00% | ~108,496 |
+| Spine Breaker | 46.00% | ~108,496 |
 | Deflection | 45.00% | ~106,137 |
-| Sneaky | 43.00% | ~101,419 |
-| Delving Deeper | 42.00% | ~99,061 |
-| C-C-Combo | 42.00% | ~99,061 |
-| Ambitious Intent | 41.00% | ~96,702 |
+| Sneaky | 43.00% | ~101,420 |
+| Delving Deeper | 42.00% | ~99,062 |
+| C-C-Combo | 42.00% | ~99,062 |
+| Ambitious Intent | 41.00% | ~96,703 |
 | Nothing To Lose | 40.00% | ~94,344 |
 | The Bestiary | 40.00% | ~94,344 |
-| What's Yours Is Mine | 38.00% | ~89,626 |
-| R.I.P | 37.00% | ~87,268 |
-| Shootout | 36.00% | ~84,909 |
+| What's Yours Is Mine | 38.00% | ~89,627 |
+| R.I.P | 37.00% | ~87,269 |
+| Shootout | 36.00% | ~84,910 |
 | I Am Overburdened | 35.00% | ~82,551 |
-| Cold Hearted | 34.00% | ~80,192 |
-| Dig Your Own Grave | 33.00% | ~77,833 |
-| Toxic | 33.00% | ~77,833 |
-| Who To Trust? | 32.00% | ~75,475 |
-| Flesh Wound | 29.00% | ~68,399 |
+| Cold Hearted | 34.00% | ~80,193 |
+| Dig Your Own Grave | 33.00% | ~77,834 |
+| Toxic | 33.00% | ~77,834 |
+| Who To Trust? | 32.00% | ~75,476 |
+| Flesh Wound | 29.00% | ~68,400 |
 | Stone Touch | 28.00% | ~66,041 |
 | Shadow Walker | 28.00% | ~66,041 |
 | Consecutive Curses | 27.00% | ~63,682 |
@@ -43,25 +43,25 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 27.00% | ~63,682 |
 | New Perspectives | 27.00% | ~63,682 |
 | Shapeshifting | 27.00% | ~63,682 |
-| Destroy Your Fears | 26.00% | ~61,323 |
+| Destroy Your Fears | 26.00% | ~61,324 |
 | Save Our Souls | 25.00% | ~58,965 |
 | To The Death! | 20.00% | ~47,172 |
 | Well Prepared | 20.00% | ~47,172 |
 | Just Chilling | 20.00% | ~47,172 |
-| Stop Hitting Yourself | 19.00% | ~44,813 |
+| Stop Hitting Yourself | 19.00% | ~44,814 |
 | All Consuming | 18.00% | ~42,455 |
 | Shadow Spreads | 17.00% | ~40,096 |
 | Don't Ignore Me! | 17.00% | ~40,096 |
 | Illuminate, Eliminate | 17.00% | ~40,096 |
-| Max Damage! | 16.00% | ~37,737 |
-| Doing Time | 16.00% | ~37,737 |
+| Max Damage! | 16.00% | ~37,738 |
+| Doing Time | 16.00% | ~37,738 |
 | Spreading Plague | 15.00% | ~35,379 |
-| The Long Run | 14.00% | ~33,020 |
+| The Long Run | 14.00% | ~33,021 |
 | A Rough Road | 13.00% | ~30,662 |
 | Chain Reaction | 13.00% | ~30,662 |
 | Berzerker | 12.00% | ~28,303 |
 | Antivenom | 12.00% | ~28,303 |
-| Thank You, Friend | 11.00% | ~25,944 |
+| Thank You, Friend | 11.00% | ~25,945 |
 | Barbecue | 10.00% | ~23,586 |
 | Snake Sneak | 10.00% | ~23,586 |
 | Challenge Increases | 8.00% | ~18,869 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,179 |
 | Near Death Experience | 0.30% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,859 (Ranked 51)  
+Progressed: 235,861 (Ranked 51)  
 Completed: 269 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 269 (0.11%) (Ranked 216)
 | 2023-09-09 | 235,720 | 266 |
 | 2023-09-10 | 235,778 | 266 |
 | 2023-09-11 | 235,831 | 269 |
-| 2023-09-12 | 235,859 | 269 |
+| 2023-09-12 | 235,861 | 269 |
 ## Awards
 Max (Great for Beginners): 1,495  (Ranked 123)  
 Sum: 13,047 (Ranked 74)  

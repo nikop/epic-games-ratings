@@ -2,7 +2,7 @@
   "ID": "4c0237e4e04a46df8b8555dbb35682f8",
   "Name": "Arto",
   "ProductSlug": "arto-ff98ff",
-  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Progress": 589,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 96,
@@ -183,8 +183,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-12T18:06:31.6672669+00:00",
-  "LastChanged_Achievements": "2023-09-12T12:05:08.9751029+00:00",
+  "LastChanged_Achievements": "2023-09-12T13:10:00.9538742+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:10.8033915+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:57:02.6951677+00:00",
-  "LastUpdate_Achievements": "2023-09-12T12:05:08.9751149+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:01:59.3678727+00:00",
+  "LastUpdate_Achievements": "2023-09-12T13:10:00.9538891+00:00"
 }

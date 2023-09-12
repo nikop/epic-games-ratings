@@ -8,24 +8,24 @@ Rating: 4.54 (Ranked 502)
 | Break A Leg | 2.00% | ~13,569 |
 | Hotel California | 2.00% | ~13,569 |
 | Welcome To Hell-A | 2.00% | ~13,569 |
-| Dr. Reed, I Presume? | 1.00% | ~6,784 |
-| Git Gutte! | 1.00% | ~6,784 |
-| Bookworm | 1.00% | ~6,784 |
-| But Doctor, I am Butcho | 1.00% | ~6,784 |
-| Slayer Squad | 1.00% | ~6,784 |
-| Can't Handle the Truth | 1.00% | ~6,784 |
-| Coup de Grâce | 1.00% | ~6,784 |
-| Like Riding a Bike | 1.00% | ~6,784 |
-| Hazardous Materials | 1.00% | ~6,784 |
-| Friends Like These | 1.00% | ~6,784 |
-| Apex Predator | 1.00% | ~6,784 |
-| Zombologist | 1.00% | ~6,784 |
-| A Patton Emerges | 1.00% | ~6,784 |
-| I Am the Resurrection | 1.00% | ~6,784 |
-| Stacking the Deck | 1.00% | ~6,784 |
-| Personal Assistant Personally Assisted | 1.00% | ~6,784 |
-| Our True Nature | 1.00% | ~6,784 |
-| This is My Weapon | 1.00% | ~6,784 |
+| Dr. Reed, I Presume? | 1.00% | ~6,785 |
+| Git Gutte! | 1.00% | ~6,785 |
+| Bookworm | 1.00% | ~6,785 |
+| But Doctor, I am Butcho | 1.00% | ~6,785 |
+| Slayer Squad | 1.00% | ~6,785 |
+| Can't Handle the Truth | 1.00% | ~6,785 |
+| Coup de Grâce | 1.00% | ~6,785 |
+| Like Riding a Bike | 1.00% | ~6,785 |
+| Hazardous Materials | 1.00% | ~6,785 |
+| Friends Like These | 1.00% | ~6,785 |
+| Apex Predator | 1.00% | ~6,785 |
+| Zombologist | 1.00% | ~6,785 |
+| A Patton Emerges | 1.00% | ~6,785 |
+| I Am the Resurrection | 1.00% | ~6,785 |
+| Stacking the Deck | 1.00% | ~6,785 |
+| Personal Assistant Personally Assisted | 1.00% | ~6,785 |
+| Our True Nature | 1.00% | ~6,785 |
+| This is My Weapon | 1.00% | ~6,785 |
 | Anger Management | 0.90% | ~6,106 |
 | Perks of the Job | 0.90% | ~6,106 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,106 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~678 |
 | Bucket List | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,430 (Ranked 22)  
+Progressed: 678,456 (Ranked 22)  
 Completed: 2,141 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2,141 (0.32%) (Ranked 178)
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
-| 2023-09-12 | 678,430 | 2,141 |
+| 2023-09-12 | 678,456 | 2,141 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
 Sum: 8,896 (Ranked 94)  

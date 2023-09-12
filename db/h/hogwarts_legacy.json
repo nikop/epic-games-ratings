@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7530,9 +7530,9 @@
       "Count": 638
     }
   ],
-  "EOS_Progressed": 296459,
+  "EOS_Progressed": 296462,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1840,
+  "EOS_NewPlayers": 1823,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23240,6 +23240,11 @@
       "Time": "2023-09-12T12:06:49.2137942+00:00",
       "NumProgressed": 296459,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-12T13:11:39.7332032+00:00",
+      "NumProgressed": 296462,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23251,7 +23256,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41504
+      "UsersEstimate": 41505
     },
     {
       "ID": "PFA_10",
@@ -23283,7 +23288,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26681
+      "UsersEstimate": 26682
     },
     {
       "ID": "PFA_14",
@@ -23355,7 +23360,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26681
+      "UsersEstimate": 26682
     },
     {
       "ID": "PFA_22",
@@ -23371,7 +23376,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32610
+      "UsersEstimate": 32611
     },
     {
       "ID": "PFA_24",
@@ -23475,7 +23480,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26681
+      "UsersEstimate": 26682
     },
     {
       "ID": "PFA_36",
@@ -23595,7 +23600,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32610
+      "UsersEstimate": 32611
     },
     {
       "ID": "PFA_9",
@@ -23610,7 +23615,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296459,
+      "Progressed": 296462,
       "Completed": 470
     }
   ],
@@ -23618,8 +23623,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-12T11:00:59.6010001+00:00",
-  "LastChanged_Achievements": "2023-09-12T12:06:49.2137938+00:00",
+  "LastChanged_Achievements": "2023-09-12T13:11:39.7332027+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-12T11:59:51.6022405+00:00",
-  "LastUpdate_Achievements": "2023-09-12T12:06:49.2139235+00:00"
+  "LastUpdate_Ratings": "2023-09-12T13:04:44.3741065+00:00",
+  "LastUpdate_Achievements": "2023-09-12T13:11:39.7333322+00:00"
 }

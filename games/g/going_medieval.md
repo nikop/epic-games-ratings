@@ -26,7 +26,7 @@ Number of Ratings: 706  (23.09.2022)
 | Luminary Researcher | 32.00% | ~1,838 |
 | Heating Up | 30.00% | ~1,723 |
 | Winter Is Coming | 27.00% | ~1,551 |
-| Winter Is Here | 23.00% | ~1,321 |
+| Winter Is Here | 24.00% | ~1,378 |
 | Disassembled | 21.00% | ~1,206 |
 | A Party Now | 21.00% | ~1,206 |
 | Oh Deer! | 21.00% | ~1,206 |

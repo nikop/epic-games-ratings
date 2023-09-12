@@ -5,20 +5,20 @@ Rating: 4.42 (Ranked 677)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,406 |
+| Survivor | 31.00% | ~79,407 |
 | Predator I | 22.00% | ~56,353 |
 | Fixer I | 10.00% | ~25,615 |
 | A week in Century City | 10.00% | ~25,615 |
-| The Wait | 7.00% | ~17,930 |
+| The Wait | 7.00% | ~17,931 |
 | Green thumb I | 6.00% | ~15,369 |
 | Cleaning Company | 6.00% | ~15,369 |
-| Well-oiled machine | 5.00% | ~12,807 |
-| Saver I | 5.00% | ~12,807 |
+| Well-oiled machine | 5.00% | ~12,808 |
+| Saver I | 5.00% | ~12,808 |
 | The Ascent | 4.00% | ~10,246 |
 | Pacifist | 4.00% | ~10,246 |
 | Vandalism | 4.00% | ~10,246 |
 | Capitalist I | 4.00% | ~10,246 |
-| Adrenaline | 3.00% | ~7,684 |
+| Adrenaline | 3.00% | ~7,685 |
 | By a hair | 2.00% | ~5,123 |
 | Fixer II | 2.00% | ~5,123 |
 | It took a while | 2.00% | ~5,123 |
@@ -27,14 +27,14 @@ Rating: 4.42 (Ranked 677)
 | Predator II | 2.00% | ~5,123 |
 | Truffle Dog | 2.00% | ~5,123 |
 | A month in Century City | 2.00% | ~5,123 |
-| The Strengthening | 1.00% | ~2,561 |
-| Saver II | 1.00% | ~2,561 |
-| It's the last one, I swear | 1.00% | ~2,561 |
-| Botanist | 1.00% | ~2,561 |
-| Green thumb II | 1.00% | ~2,561 |
-| Don't try this at home | 1.00% | ~2,561 |
-| Bricklayer | 1.00% | ~2,561 |
-| Run the Economy | 1.00% | ~2,561 |
+| The Strengthening | 1.00% | ~2,562 |
+| Saver II | 1.00% | ~2,562 |
+| It's the last one, I swear | 1.00% | ~2,562 |
+| Botanist | 1.00% | ~2,562 |
+| Green thumb II | 1.00% | ~2,562 |
+| Don't try this at home | 1.00% | ~2,562 |
+| Bricklayer | 1.00% | ~2,562 |
+| Run the Economy | 1.00% | ~2,562 |
 | Committed Relationship | 0.80% | ~2,049 |
 | Number 1 | 0.70% | ~1,793 |
 | Interior designer | 0.60% | ~1,537 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 677)
 | Capitalist III | 0.10% | ~256 |
 | Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,149 (Ranked 47)  
+Progressed: 256,151 (Ranked 47)  
 Completed: 3 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 3 (0.00%) (Ranked 273)
 | 2023-09-09 | 256,037 | 3 |
 | 2023-09-10 | 256,089 | 3 |
 | 2023-09-11 | 256,128 | 3 |
-| 2023-09-12 | 256,149 | 3 |
+| 2023-09-12 | 256,151 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 37  (Ranked 435)  
 Sum: 253 (Ranked 357)  
