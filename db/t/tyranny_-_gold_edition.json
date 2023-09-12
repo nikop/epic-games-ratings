@@ -2,13 +2,13 @@
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 417,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2016-11-10T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 1278,
   "RatingHistory": [
     {
@@ -1436,6 +1436,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 1438,
       "NumberOfAwardsMax": 712
+    },
+    {
+      "Time": "2023-09-12T04:58:56.1073925+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1438,
+      "NumberOfAwardsMax": 712
     }
   ],
   "ReviewsDisabled": false,
@@ -1521,8 +1527,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2023-09-11T04:58:41.3377455+00:00",
+  "LastChanged": "2023-09-12T04:58:56.1073924+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:09.2548573+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:58:31.7735431+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:06:47.1705019+00:00"
+  "LastUpdate_Ratings": "2023-09-12T04:58:56.1073928+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:08:06.7177188+00:00"
 }

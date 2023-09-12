@@ -45,7 +45,7 @@ Number of Ratings: 58  (23.09.2022)
 | Crash Test | 21.00% | ~247 |
 | Ascension | 20.00% | ~235 |
 | Rise as One | 19.00% | ~223 |
-| Showoff | 14.00% | ~165 |
+| Showoff | 15.00% | ~176 |
 | Radiation Area | 10.00% | ~118 |
 | Overcharged | 9.00% | ~106 |
 | At Least You Tried | 2.00% | ~24 |

@@ -7524,9 +7524,9 @@
       "Count": 634
     }
   ],
-  "EOS_Progressed": 296440,
+  "EOS_Progressed": 296442,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1915,
+  "EOS_NewPlayers": 1897,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23199,6 +23199,11 @@
       "Time": "2023-09-12T04:06:59.5720817+00:00",
       "NumProgressed": 296440,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-12T05:08:24.039614+00:00",
+      "NumProgressed": 296442,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23250,7 +23255,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17786
+      "UsersEstimate": 17787
     },
     {
       "ID": "PFA_15",
@@ -23330,7 +23335,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32608
+      "UsersEstimate": 32609
     },
     {
       "ID": "PFA_24",
@@ -23498,7 +23503,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17786
+      "UsersEstimate": 17787
     },
     {
       "ID": "PFA_43",
@@ -23554,7 +23559,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32608
+      "UsersEstimate": 32609
     },
     {
       "ID": "PFA_9",
@@ -23569,7 +23574,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296440,
+      "Progressed": 296442,
       "Completed": 470
     }
   ],
@@ -23577,8 +23582,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-11T19:00:08.766041+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:06:59.5720811+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:08:24.0396136+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:59:41.7834253+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:06:59.5722208+00:00"
+  "LastUpdate_Ratings": "2023-09-12T05:00:33.018423+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:08:24.0397147+00:00"
 }

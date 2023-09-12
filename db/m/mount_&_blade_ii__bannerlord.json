@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7077,9 +7077,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60837,
+  "EOS_Progressed": 60839,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22367,6 +22367,11 @@
       "Time": "2023-09-12T02:20:09.4946162+00:00",
       "NumProgressed": 60837,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T05:06:08.6740711+00:00",
+      "NumProgressed": 60839,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22378,7 +22383,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7300
+      "UsersEstimate": 7301
     },
     {
       "ID": "Apple of my eye",
@@ -22434,7 +22439,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "Crackshot",
@@ -22466,7 +22471,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5475
+      "UsersEstimate": 5476
     },
     {
       "ID": "Entrepreneur",
@@ -22554,7 +22559,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5475
+      "UsersEstimate": 5476
     },
     {
       "ID": "Jack of All Trades",
@@ -22570,7 +22575,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10342
+      "UsersEstimate": 10343
     },
     {
       "ID": "Kingslayer",
@@ -22610,7 +22615,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23726
+      "UsersEstimate": 23727
     },
     {
       "ID": "Lawmaker",
@@ -22770,7 +22775,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -22778,22 +22783,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5475
+      "UsersEstimate": 5476
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60837,
+      "Progressed": 60839,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-12T01:37:47.7685513+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:05:18.4571306+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:06:08.6740707+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:58:09.4777631+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:05:18.4572713+00:00"
+  "LastUpdate_Ratings": "2023-09-12T04:58:27.9630769+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:06:08.6741752+00:00"
 }

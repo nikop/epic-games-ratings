@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467177,
+  "EOS_Progressed": 467178,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
@@ -15793,6 +15793,11 @@
       "Time": "2023-09-12T04:05:58.1245708+00:00",
       "NumProgressed": 467177,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-12T05:07:00.8005704+00:00",
+      "NumProgressed": 467178,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -15820,7 +15825,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112122
+      "UsersEstimate": 112123
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -15956,7 +15961,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51389
+      "UsersEstimate": 51390
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -15980,7 +15985,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93435
+      "UsersEstimate": 93436
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -15988,7 +15993,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154168
+      "UsersEstimate": 154169
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -16252,7 +16257,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51389
+      "UsersEstimate": 51390
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -16435,21 +16440,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11111,
+      "Progressed": 11112,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467177,
+      "Progressed": 467178,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:05:58.1245701+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:07:00.8005699+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.6494953+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:57:05.3107414+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:05:58.1247504+00:00"
+  "LastUpdate_Ratings": "2023-09-12T04:57:05.1663254+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:07:00.8007212+00:00"
 }

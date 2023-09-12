@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1718,9 +1718,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 57945,
+  "EOS_Progressed": 57946,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17528,6 +17528,11 @@
       "Time": "2023-09-12T04:04:26.7494153+00:00",
       "NumProgressed": 57945,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-12T05:04:59.514876+00:00",
+      "NumProgressed": 57946,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -17795,7 +17800,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 18542
+      "UsersEstimate": 18543
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -17827,7 +17832,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 36505
+      "UsersEstimate": 36506
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -17835,7 +17840,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6953
+      "UsersEstimate": 6954
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -17907,7 +17912,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 45197
+      "UsersEstimate": 45198
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -18010,15 +18015,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 57945,
+      "Progressed": 57946,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-05T18:00:17.1389559+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:04:26.7494141+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:04:59.5148752+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6621322+00:00",
-  "LastUpdate_Ratings": "2023-09-12T04:00:38.8839673+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:04:26.749568+00:00"
+  "LastUpdate_Ratings": "2023-09-12T05:01:53.6118345+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:04:59.5149892+00:00"
 }

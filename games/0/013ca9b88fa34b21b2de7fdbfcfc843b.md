@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 70.00% | ~932 |
-| A Thorny Situation | 64.00% | ~852 |
-| ... And Spit Back Out | 48.00% | ~639 |
-| Break-Net Speed | 38.00% | ~506 |
-| Bramble Breaker | 29.00% | ~386 |
-| Miner 49er | 26.00% | ~346 |
-| Humble Collector | 26.00% | ~346 |
-| Oui, Chef! | 14.00% | ~186 |
-| Calm Sailing | 13.00% | ~173 |
-| Open the Gate! | 12.00% | ~160 |
-| Lumberjack | 12.00% | ~160 |
-| Mist Walker | 10.00% | ~133 |
-| Beach Comber | 6.00% | ~80 |
-| Botanical Breakthrough | 6.00% | ~80 |
+| Azoria Beckons | 70.00% | ~944 |
+| A Thorny Situation | 65.00% | ~877 |
+| ... And Spit Back Out | 49.00% | ~661 |
+| Break-Net Speed | 38.00% | ~513 |
+| Bramble Breaker | 29.00% | ~391 |
+| Humble Collector | 27.00% | ~364 |
+| Miner 49er | 26.00% | ~351 |
+| Oui, Chef! | 14.00% | ~189 |
+| Calm Sailing | 13.00% | ~175 |
+| Open the Gate! | 12.00% | ~162 |
+| Lumberjack | 12.00% | ~162 |
+| Mist Walker | 10.00% | ~135 |
+| Beach Comber | 6.00% | ~81 |
+| Botanical Breakthrough | 6.00% | ~81 |
 | Clear the Air | 3.00% | ~40 |
 | Search for the Hairy Grell | 2.00% | ~27 |
 | Higher Tax Bracket | 2.00% | ~27 |
@@ -27,8 +27,8 @@
 | Azorian Anniversary | 1.00% | ~13 |
 | Right Tool For the Job | 1.00% | ~13 |
 | Skilled | 1.00% | ~13 |
+| Fanatical Farmer | 0.90% | ~12 |
 | I Now Pronounce You... | 0.90% | ~12 |
-| Fanatical Farmer | 0.80% | ~11 |
 | Captain of Cozy | 0.80% | ~11 |
 | Scattered Scroll Scrounger | 0.70% | ~9 |
 | House Proud | 0.60% | ~8 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~1 |
 | Very Skilled | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,332 (Ranked 198)  
+Progressed: 1,349 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,4 +59,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 402 | 0 |
 | 2023-09-10 | 624 | 0 |
 | 2023-09-11 | 1,169 | 0 |
-| 2023-09-12 | 1,332 | 0 |
+| 2023-09-12 | 1,349 | 0 |

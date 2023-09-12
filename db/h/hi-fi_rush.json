@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4031,
+  "EOS_Progressed": 4032,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6439,6 +6439,11 @@
       "Time": "2023-09-11T09:05:11.9009169+00:00",
       "NumProgressed": 4031,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-12T05:06:40.3704784+00:00",
+      "NumProgressed": 4032,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6458,7 +6463,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "Ach003",
@@ -6466,7 +6471,7 @@
       "Name": "This will cost you big time",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Ach004",
@@ -6562,7 +6567,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "Ach016",
@@ -6578,7 +6583,7 @@
       "Name": "I play my own way!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Ach018",
@@ -6658,7 +6663,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Ach028",
@@ -6706,7 +6711,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Ach034",
@@ -6730,7 +6735,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Ach037",
@@ -6818,7 +6823,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "Ach048",
@@ -7017,13 +7022,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4031,
+      "Progressed": 4032,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2552,
+      "Progressed": 2553,
       "Completed": 1929
     }
   ],
@@ -7031,8 +7036,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:05:42.5739883+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:06:40.3704778+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-12T04:00:41.7565854+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:05:42.5741099+00:00"
+  "LastUpdate_Ratings": "2023-09-12T05:02:07.5297951+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:06:40.3705648+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,301 |
-| Right Back At Ya | 39.00% | ~341,562 |
-| The Lovers | 35.00% | ~306,530 |
-| Stanislavski's Method | 29.00% | ~253,982 |
-| The Wheel of Fortune | 28.00% | ~245,224 |
-| The Hermit | 25.00% | ~218,950 |
-| Christmas Tree Attack | 23.00% | ~201,434 |
-| True Soldier | 23.00% | ~201,434 |
-| The High Priestess | 22.00% | ~192,676 |
-| Legend of The Afterlife | 22.00% | ~192,676 |
-| Life of the Road | 21.00% | ~183,918 |
-| Full Body Conversion | 18.00% | ~157,644 |
-| The World | 18.00% | ~157,644 |
-| Bushido and Chill | 17.00% | ~148,886 |
+| The Fool | 69.00% | ~604,304 |
+| Right Back At Ya | 39.00% | ~341,563 |
+| The Lovers | 35.00% | ~306,531 |
+| Stanislavski's Method | 29.00% | ~253,983 |
+| The Wheel of Fortune | 28.00% | ~245,225 |
+| The Hermit | 25.00% | ~218,951 |
+| Christmas Tree Attack | 23.00% | ~201,435 |
+| True Soldier | 23.00% | ~201,435 |
+| The High Priestess | 22.00% | ~192,677 |
+| Legend of The Afterlife | 22.00% | ~192,677 |
+| Life of the Road | 21.00% | ~183,919 |
+| Full Body Conversion | 18.00% | ~157,645 |
+| The World | 18.00% | ~157,645 |
+| Bushido and Chill | 17.00% | ~148,887 |
 | Gun Fu | 15.00% | ~131,370 |
 | True Warrior | 15.00% | ~131,370 |
 | To Protect and Serve | 14.00% | ~122,612 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,758 |
 | Rough Landing | 0.50% | ~4,379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,799 (Ranked 14)  
+Progressed: 875,803 (Ranked 14)  
 Completed: 2,079 (0.24%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2,079 (0.24%) (Ranked 189)
 | 2023-09-09 | 875,450 | 2,075 |
 | 2023-09-10 | 875,656 | 2,075 |
 | 2023-09-11 | 875,775 | 2,079 |
-| 2023-09-12 | 875,799 | 2,079 |
+| 2023-09-12 | 875,803 | 2,079 |
 ## Awards
 Max (Character Customization): 78,214  (Ranked 9)  
 Sum: 208,870 (Ranked 13)  

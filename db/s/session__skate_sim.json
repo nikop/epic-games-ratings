@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -916,9 +916,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2786,
+  "EOS_Progressed": 2787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4336,6 +4336,11 @@
       "Time": "2023-09-12T03:05:27.350883+00:00",
       "NumProgressed": 2786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T05:05:21.0756019+00:00",
+      "NumProgressed": 2787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4497,9 +4502,9 @@
       "ID": "ACH_KEEPING-IT-CLASSY",
       "SetID": "72olkc5",
       "Name": "Keeping it classy",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 752
+      "UsersEstimate": 780
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -4651,7 +4656,7 @@
       "Name": "The finer things in life",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -4730,15 +4735,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2786,
+      "Progressed": 2787,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-09-09T00:00:28.7734534+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:04:42.5998118+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:05:21.0756014+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:17.5843169+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:57:19.2608023+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:04:42.5998724+00:00"
+  "LastUpdate_Ratings": "2023-09-12T04:57:24.4815898+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:05:21.0756495+00:00"
 }

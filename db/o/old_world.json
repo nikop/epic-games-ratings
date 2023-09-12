@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1683,9 +1683,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13869,
+  "EOS_Progressed": 13870,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11328,6 +11328,11 @@
       "Time": "2023-09-12T00:06:31.7815818+00:00",
       "NumProgressed": 13869,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-12T05:08:03.3513436+00:00",
+      "NumProgressed": 13870,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11771,7 +11776,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -11963,7 +11968,7 @@
       "Name": "Settler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -12673,9 +12678,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -13091,7 +13096,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -13353,9 +13358,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -13401,9 +13406,9 @@
       "ID": "ACHIEVEMENT_UNIT_KUSHITE_CAVALRY",
       "SetID": "9201eeb",
       "Name": "Kushite Cavalry",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -13619,7 +13624,7 @@
       "Name": "The Clergy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -13706,21 +13711,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13869,
+      "Progressed": 13870,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13869,
+      "Progressed": 13870,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:06:44.4933826+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:08:03.3513432+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-12T04:00:15.3954008+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:06:44.4942853+00:00"
+  "LastUpdate_Ratings": "2023-09-12T05:01:19.1595346+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:08:03.3521244+00:00"
 }

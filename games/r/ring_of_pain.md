@@ -1,62 +1,62 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 428)  
+Rating: 4.58 (Ranked 429)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,404 |
-| Uncharted Territory | 89.00% | ~209,896 |
-| Getting A Glimpse | 73.00% | ~172,162 |
-| A Quick Escape | 65.00% | ~153,295 |
-| Explorer | 62.00% | ~146,220 |
-| Defeat The Dark | 61.00% | ~143,861 |
-| An Offering | 61.00% | ~143,861 |
-| Colorful Corpse | 58.00% | ~136,786 |
-| That Was Quick | 57.00% | ~134,428 |
-| A Donation | 57.00% | ~134,428 |
-| Goodbye, Frog Friend | 54.00% | ~127,353 |
-| Heavy Hitter | 53.00% | ~124,994 |
-| Heartless | 46.00% | ~108,485 |
-| Spine Breaker | 46.00% | ~108,485 |
-| Deflection | 45.00% | ~106,127 |
-| Sneaky | 43.00% | ~101,410 |
-| Delving Deeper | 42.00% | ~99,052 |
-| C-C-Combo | 42.00% | ~99,052 |
+| First Steps | 96.00% | ~226,406 |
+| Uncharted Territory | 89.00% | ~209,898 |
+| Getting A Glimpse | 73.00% | ~172,163 |
+| A Quick Escape | 65.00% | ~153,296 |
+| Explorer | 62.00% | ~146,221 |
+| Defeat The Dark | 61.00% | ~143,862 |
+| An Offering | 61.00% | ~143,862 |
+| Colorful Corpse | 58.00% | ~136,787 |
+| That Was Quick | 57.00% | ~134,429 |
+| A Donation | 57.00% | ~134,429 |
+| Goodbye, Frog Friend | 54.00% | ~127,354 |
+| Heavy Hitter | 53.00% | ~124,995 |
+| Heartless | 46.00% | ~108,486 |
+| Spine Breaker | 46.00% | ~108,486 |
+| Deflection | 45.00% | ~106,128 |
+| Sneaky | 43.00% | ~101,411 |
+| Delving Deeper | 42.00% | ~99,053 |
+| C-C-Combo | 42.00% | ~99,053 |
 | Ambitious Intent | 41.00% | ~96,694 |
-| Nothing To Lose | 40.00% | ~94,335 |
-| The Bestiary | 40.00% | ~94,335 |
-| What's Yours Is Mine | 38.00% | ~89,618 |
-| R.I.P | 37.00% | ~87,260 |
+| Nothing To Lose | 40.00% | ~94,336 |
+| The Bestiary | 40.00% | ~94,336 |
+| What's Yours Is Mine | 38.00% | ~89,619 |
+| R.I.P | 37.00% | ~87,261 |
 | Shootout | 36.00% | ~84,902 |
-| I Am Overburdened | 35.00% | ~82,543 |
-| Cold Hearted | 34.00% | ~80,185 |
+| I Am Overburdened | 35.00% | ~82,544 |
+| Cold Hearted | 34.00% | ~80,186 |
 | Dig Your Own Grave | 33.00% | ~77,827 |
 | Toxic | 33.00% | ~77,827 |
-| Who To Trust? | 32.00% | ~75,468 |
-| Flesh Wound | 29.00% | ~68,393 |
+| Who To Trust? | 32.00% | ~75,469 |
+| Flesh Wound | 29.00% | ~68,394 |
 | Stone Touch | 28.00% | ~66,035 |
 | Shadow Walker | 28.00% | ~66,035 |
-| Consecutive Curses | 27.00% | ~63,676 |
-| Walk It Off | 27.00% | ~63,676 |
-| Acid Bath | 27.00% | ~63,676 |
-| New Perspectives | 27.00% | ~63,676 |
-| Shapeshifting | 27.00% | ~63,676 |
+| Consecutive Curses | 27.00% | ~63,677 |
+| Walk It Off | 27.00% | ~63,677 |
+| Acid Bath | 27.00% | ~63,677 |
+| New Perspectives | 27.00% | ~63,677 |
+| Shapeshifting | 27.00% | ~63,677 |
 | Destroy Your Fears | 26.00% | ~61,318 |
 | Save Our Souls | 25.00% | ~58,960 |
 | To The Death! | 20.00% | ~47,168 |
 | Well Prepared | 20.00% | ~47,168 |
 | Just Chilling | 20.00% | ~47,168 |
-| Stop Hitting Yourself | 19.00% | ~44,809 |
+| Stop Hitting Yourself | 19.00% | ~44,810 |
 | All Consuming | 18.00% | ~42,451 |
-| Shadow Spreads | 17.00% | ~40,092 |
-| Don't Ignore Me! | 17.00% | ~40,092 |
-| Illuminate, Eliminate | 17.00% | ~40,092 |
+| Shadow Spreads | 17.00% | ~40,093 |
+| Don't Ignore Me! | 17.00% | ~40,093 |
+| Illuminate, Eliminate | 17.00% | ~40,093 |
 | Max Damage! | 16.00% | ~37,734 |
 | Doing Time | 16.00% | ~37,734 |
 | Spreading Plague | 15.00% | ~35,376 |
-| The Long Run | 14.00% | ~33,017 |
+| The Long Run | 14.00% | ~33,018 |
 | A Rough Road | 13.00% | ~30,659 |
 | Chain Reaction | 13.00% | ~30,659 |
 | Berzerker | 12.00% | ~28,301 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,179 |
 | Near Death Experience | 0.30% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,838 (Ranked 51)  
+Progressed: 235,840 (Ranked 51)  
 Completed: 269 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 269 (0.11%) (Ranked 216)
 | 2023-09-09 | 235,720 | 266 |
 | 2023-09-10 | 235,778 | 266 |
 | 2023-09-11 | 235,831 | 269 |
-| 2023-09-12 | 235,838 | 269 |
+| 2023-09-12 | 235,840 | 269 |
 ## Awards
 Max (Great for Beginners): 1,495  (Ranked 123)  
 Sum: 13,047 (Ranked 74)  

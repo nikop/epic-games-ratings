@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 5.00% | ~693 |
-| Settler | 5.00% | ~693 |
-| Play a Single Player Game | 5.00% | ~693 |
-| The Clergy | 5.00% | ~693 |
+| Explorer | 5.00% | ~694 |
+| Settler | 5.00% | ~694 |
+| Play a Single Player Game | 5.00% | ~694 |
+| The Clergy | 5.00% | ~694 |
 | Intrepid | 4.00% | ~555 |
 | Friendly Family | 4.00% | ~555 |
 | Able | 3.00% | ~416 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 1.00% | ~139 |
 | Traders | 1.00% | ~139 |
 | Hittite Iron | 1.00% | ~139 |
+| Circus Maximus | 1.00% | ~139 |
 | Hagia Sophia | 1.00% | ~139 |
 | Temple of Solomon | 1.00% | ~139 |
 | Mausoleum | 1.00% | ~139 |
@@ -106,11 +107,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.90% | ~125 |
 | Subjugator | 0.90% | ~125 |
 | Riders | 0.90% | ~125 |
-| Circus Maximus | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
 | Assyrian Paganism | 0.90% | ~125 |
 | Military Prestige | 0.90% | ~125 |
 | Gnosticism | 0.90% | ~125 |
+| Veneration | 0.90% | ~125 |
 | Cimmerian Archer | 0.90% | ~125 |
 | Double Victory | 0.90% | ~125 |
 | Bad Heir Day | 0.80% | ~111 |
@@ -121,13 +122,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.80% | ~111 |
 | Enlightenment | 0.80% | ~111 |
 | Revelation | 0.80% | ~111 |
-| Veneration | 0.80% | ~111 |
+| Kushite Cavalry | 0.80% | ~111 |
 | Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
 | Learn to Play 4 | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
 | Hittite Paganism | 0.70% | ~97 |
-| Kushite Cavalry | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
 | Ishtar Gate in Babylon | 0.60% | ~83 |
 | Peacemaker | 0.60% | ~83 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,869 (Ranked 122)  
+Progressed: 13,870 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -448,7 +448,7 @@ Completed: 5 (0.04%) (Ranked 241)
 | 2023-09-09 | 13,831 | 5 |
 | 2023-09-10 | 13,858 | 5 |
 | 2023-09-11 | 13,868 | 5 |
-| 2023-09-12 | 13,869 | 5 |
+| 2023-09-12 | 13,870 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 264)  
 Sum: 1,807 (Ranked 207)  

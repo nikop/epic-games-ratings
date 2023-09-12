@@ -6,13 +6,13 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,315 |
+| Blacksmith's Son | 32.00% | ~256,316 |
 | Cavalier | 25.00% | ~200,246 |
-| Fatso | 23.00% | ~184,226 |
+| Fatso | 23.00% | ~184,227 |
 | Awakening | 21.00% | ~168,207 |
 | Ranger | 20.00% | ~160,197 |
 | Scrooge | 20.00% | ~160,197 |
-| Anorectic | 16.00% | ~128,157 |
+| Anorectic | 16.00% | ~128,158 |
 | Bookworm | 15.00% | ~120,148 |
 | Firestarter | 15.00% | ~120,148 |
 | Insomniac | 13.00% | ~104,128 |
@@ -20,7 +20,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Thief | 12.00% | ~96,118 |
 | Sinner | 11.00% | ~88,108 |
 | Traveller | 11.00% | ~88,108 |
-| Convict | 10.00% | ~80,098 |
+| Convict | 10.00% | ~80,099 |
 | Haggler | 9.00% | ~72,089 |
 | McLovin | 7.00% | ~56,069 |
 | Runt | 7.00% | ~56,069 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~801 |
 | Wingman | 0.10% | ~801 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800,984 (Ranked 16)  
+Progressed: 800,986 (Ranked 16)  
 Completed: 45 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,22 +234,22 @@ Completed: 45 (0.01%) (Ranked 259)
 | 2023-09-09 | 800,645 | 45 |
 | 2023-09-10 | 800,843 | 45 |
 | 2023-09-11 | 800,968 | 45 |
-| 2023-09-12 | 800,984 | 45 |
+| 2023-09-12 | 800,986 | 45 |
 ## Awards
 Max (Character Customization): 7,436  (Ranked 47)  
-Sum: 27,704 (Ranked 46)  
+Sum: 27,708 (Ranked 46)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,436 |
-| This game has Great Boss Battles | 5,474 |
+| This game has Great Boss Battles | 5,476 |
 | This game has Challenging Combat | 1,736 |
 | This game has Amazing Storytelling | 1,692 |
 | This game has Diverse Characters | 1,684 |
 | This game is Extremely Fun | 1,663 |
 | This game is Highly Recommended | 1,657 |
 | This game has Amazing Characters | 1,639 |
-| This game has Realistic Visuals | 1,630 |
+| This game has Realistic Visuals | 1,632 |
 | This game is Educational | 1,581 |
 | This game is Relaxing | 1,512 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -485,3 +485,4 @@ Diff (max vs sum): 1
 | 2023-09-09 | 4.71 | - | 7,433 | 27,692 |
 | 2023-09-10 | 4.71 | - | 7,433 | 27,698 |
 | 2023-09-11 | 4.71 | - | 7,436 | 27,704 |
+| 2023-09-12 | 4.71 | - | 7,436 | 27,708 |

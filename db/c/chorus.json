@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -1978,9 +1978,9 @@
       "ID": "Kill3InOneDrift",
       "SetID": "a6c395p",
       "Name": "Showoff",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 176
     },
     {
       "ID": "KillWhileDrifting",
@@ -2282,8 +2282,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:06:20.5192542+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:07:31.0093767+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:02.2329169+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:58:14.9685983+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:06:20.5192998+00:00"
+  "LastUpdate_Ratings": "2023-09-12T04:58:35.4891117+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:07:31.0094127+00:00"
 }

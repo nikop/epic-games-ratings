@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1290,
+  "EOS_Progressed": 1291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4621,6 +4621,11 @@
       "Time": "2023-09-11T20:03:04.5229318+00:00",
       "NumProgressed": 1290,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-12T05:03:31.7027451+00:00",
+      "NumProgressed": 1291,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4800,7 +4805,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -4886,9 +4891,9 @@
       "ID": "objective_multiple_turrets_2",
       "SetID": "bm61c2p",
       "Name": "Defenses Online",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 323
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -4935,14 +4940,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1290,
+      "Progressed": 1291,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:03:27.4822159+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:03:31.7027446+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:59:01.9473589+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:03:27.4822742+00:00"
+  "LastUpdate_Ratings": "2023-09-12T04:59:36.0480928+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:03:31.7027921+00:00"
 }

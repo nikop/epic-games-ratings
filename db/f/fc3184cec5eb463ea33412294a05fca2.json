@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 94,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1046,9 +1046,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1094,25 +1094,25 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1150,9 +1150,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
@@ -1165,8 +1165,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-12T04:03:29.1555113+00:00",
+  "LastChanged_Achievements": "2023-09-12T05:03:32.7798019+00:00",
   "LastUpdate_AppInfo": "2023-09-09T17:57:05.3356539+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:59:22.0927879+00:00",
-  "LastUpdate_Achievements": "2023-09-12T04:03:29.1555344+00:00"
+  "LastUpdate_Ratings": "2023-09-12T05:00:04.1819189+00:00",
+  "LastUpdate_Achievements": "2023-09-12T05:03:32.7798169+00:00"
 }
