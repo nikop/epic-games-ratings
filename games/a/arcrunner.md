@@ -10,7 +10,7 @@
 | Nanonic I | 16.00% | ~119 |
 | Unlocked and Loaded | 16.00% | ~119 |
 | The City | 14.00% | ~104 |
-| Terminated II | 13.00% | ~97 |
+| Terminated II | 14.00% | ~104 |
 | Challenge Mastered | 11.00% | ~82 |
 | Terminated III | 11.00% | ~82 |
 | Nanonic II | 9.00% | ~67 |

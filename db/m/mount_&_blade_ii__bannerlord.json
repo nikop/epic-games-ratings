@@ -6997,18 +6997,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14390,
       "NumberOfAwardsMax": 7065
+    },
+    {
+      "Time": "2023-09-12T07:58:17.54848+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14396,
+      "NumberOfAwardsMax": 7071
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14390,
-  "NumberOfAwardsMax": 7065,
+  "NumberOfAwards": 14396,
+  "NumberOfAwardsMax": 7071,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7065
+      "Count": 7071
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7077,9 +7083,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60842,
+  "EOS_Progressed": 60844,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22382,6 +22388,11 @@
       "Time": "2023-09-12T07:05:32.7655221+00:00",
       "NumProgressed": 60842,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T08:05:20.5911555+00:00",
+      "NumProgressed": 60844,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22401,7 +22412,7 @@
       "Name": "Apple of my eye",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9126
+      "UsersEstimate": 9127
     },
     {
       "ID": "Bannerlord",
@@ -22433,7 +22444,7 @@
       "Name": "Butterlord",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4867
+      "UsersEstimate": 4868
     },
     {
       "ID": "Catch",
@@ -22521,7 +22532,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7909
+      "UsersEstimate": 7910
     },
     {
       "ID": "Great Granny",
@@ -22617,7 +22628,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19469
+      "UsersEstimate": 19470
     },
     {
       "ID": "Lawbringer",
@@ -22625,7 +22636,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23728
+      "UsersEstimate": 23729
     },
     {
       "ID": "Lawmaker",
@@ -22800,15 +22811,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60842,
+      "Progressed": 60844,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-12T01:37:47.7685513+00:00",
-  "LastChanged_Achievements": "2023-09-12T07:05:32.7655216+00:00",
+  "LastChanged": "2023-09-12T07:58:17.5484799+00:00",
+  "LastChanged_Achievements": "2023-09-12T08:05:20.5911547+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:58:08.0447291+00:00",
-  "LastUpdate_Achievements": "2023-09-12T07:05:32.7656551+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:58:17.5484804+00:00",
+  "LastUpdate_Achievements": "2023-09-12T08:05:20.5912617+00:00"
 }

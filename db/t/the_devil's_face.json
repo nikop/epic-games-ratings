@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1341,6 +1341,11 @@
       "Time": "2023-09-12T01:47:20.1433666+00:00",
       "NumProgressed": 307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T08:07:10.1524095+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1366,7 +1371,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "296pn27",
       "Name": "The crucifixion",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -1374,7 +1379,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "296pn27",
       "Name": "The choice",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1454,7 +1459,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "296pn27",
       "Name": "Flagellation",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 2
     }
@@ -1463,14 +1468,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-12T07:07:41.3111885+00:00",
+  "LastChanged_Achievements": "2023-09-12T08:07:10.1524091+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.1913834+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:58:53.5552387+00:00",
-  "LastUpdate_Achievements": "2023-09-12T07:07:41.3112092+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:58:56.3528362+00:00",
+  "LastUpdate_Achievements": "2023-09-12T08:07:10.1524222+00:00"
 }

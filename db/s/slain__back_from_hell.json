@@ -2,7 +2,7 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 806,
+  "Ranking_Rating": 807,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 99,
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36424,
+  "EOS_Progressed": 36425,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16167,6 +16167,11 @@
       "Time": "2023-09-12T06:08:07.3551703+00:00",
       "NumProgressed": 36424,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-12T08:06:50.5001701+00:00",
+      "NumProgressed": 36425,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -16338,7 +16343,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -16409,7 +16414,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36424,
+      "Progressed": 36425,
       "Completed": 23
     }
   ],
@@ -16417,8 +16422,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-12T07:07:17.8211386+00:00",
+  "LastChanged_Achievements": "2023-09-12T08:06:50.5001696+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.5463786+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:58:10.4735557+00:00",
-  "LastUpdate_Achievements": "2023-09-12T07:07:17.8212509+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:58:19.9206912+00:00",
+  "LastUpdate_Achievements": "2023-09-12T08:06:50.5002597+00:00"
 }

@@ -19,18 +19,18 @@
 | Symbols of Heresy | 4.00% | ~138 |
 | The Sons of Minos | 4.00% | ~138 |
 | Eidola | 4.00% | ~138 |
-| Comedy and Tragedy | 3.00% | ~103 |
-| Pillars of Eternity | 3.00% | ~103 |
-| War Chest | 3.00% | ~103 |
-| Chthonic Investor | 3.00% | ~103 |
-| First Fragment | 3.00% | ~103 |
-| Sisters of the Pantheon | 3.00% | ~103 |
-| Labour of Apollo | 3.00% | ~103 |
-| Siege Unit | 3.00% | ~103 |
-| Divine Assemblage | 3.00% | ~103 |
-| Ophiolatreia | 3.00% | ~103 |
-| Halls of Marble | 3.00% | ~103 |
-| Serpentine | 3.00% | ~103 |
+| Comedy and Tragedy | 3.00% | ~104 |
+| Pillars of Eternity | 3.00% | ~104 |
+| War Chest | 3.00% | ~104 |
+| Chthonic Investor | 3.00% | ~104 |
+| First Fragment | 3.00% | ~104 |
+| Sisters of the Pantheon | 3.00% | ~104 |
+| Labour of Apollo | 3.00% | ~104 |
+| Siege Unit | 3.00% | ~104 |
+| Divine Assemblage | 3.00% | ~104 |
+| Ophiolatreia | 3.00% | ~104 |
+| Halls of Marble | 3.00% | ~104 |
+| Serpentine | 3.00% | ~104 |
 | Wayward Son of Hephaestus | 2.00% | ~69 |
 | Lament of the Constellations | 2.00% | ~69 |
 | Forged in Fire | 2.00% | ~69 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,447 (Ranked 160)  
+Progressed: 3,450 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-08 | 3,438 | 0 |
 | 2023-09-10 | 3,444 | 0 |
 | 2023-09-11 | 3,447 | 0 |
+| 2023-09-12 | 3,450 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

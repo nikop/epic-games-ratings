@@ -2,9 +2,9 @@
   "ID": "d26c3a62ed20492f90a07c3a27e8db97",
   "Name": "Shalnor Legends 2: Trials of Thunder",
   "ProductSlug": "shalnor-legends-2-fea913",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-05T13:00:00+00:00",
@@ -245,8 +245,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-04T06:04:53.5272508+00:00",
-  "LastChanged_Achievements": "2023-09-12T07:03:38.0712961+00:00",
+  "LastChanged_Achievements": "2023-09-12T08:03:42.5261538+00:00",
   "LastUpdate_AppInfo": "2023-09-09T23:57:07.4417801+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:59:12.4546557+00:00",
-  "LastUpdate_Achievements": "2023-09-12T07:03:38.0713133+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:59:11.8320379+00:00",
+  "LastUpdate_Achievements": "2023-09-12T08:03:42.5261663+00:00"
 }

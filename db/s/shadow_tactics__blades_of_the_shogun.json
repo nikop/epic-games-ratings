@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1537,9 +1537,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 201638,
+  "EOS_Progressed": 201643,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1486,
+  "EOS_NewPlayers": 1479,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17782,6 +17782,11 @@
       "Time": "2023-09-12T07:08:27.3894744+00:00",
       "NumProgressed": 201638,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-12T08:09:11.32993+00:00",
+      "NumProgressed": 201643,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17793,7 +17798,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18147
+      "UsersEstimate": 18148
     },
     {
       "ID": "AtheistOx",
@@ -17817,7 +17822,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "CompleteMastery",
@@ -17849,7 +17854,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "GearUp",
@@ -17865,7 +17870,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22180
+      "UsersEstimate": 22181
     },
     {
       "ID": "HappyLittleAccidents",
@@ -17881,7 +17886,7 @@
       "Name": "Happy Planning",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "HighFiveTheMoon",
@@ -17945,7 +17950,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "NoGimmicks",
@@ -18057,7 +18062,7 @@
       "Name": "The Cave",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "TheEnd",
@@ -18113,7 +18118,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -18144,15 +18149,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 201638,
+      "Progressed": 201643,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-11T01:43:07.0804036+00:00",
-  "LastChanged_Achievements": "2023-09-12T07:08:27.3894738+00:00",
+  "LastChanged_Achievements": "2023-09-12T08:09:11.3299294+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.2415553+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:57:16.3530689+00:00",
-  "LastUpdate_Achievements": "2023-09-12T07:08:27.3896033+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:57:33.2618252+00:00",
+  "LastUpdate_Achievements": "2023-09-12T08:09:11.3300359+00:00"
 }

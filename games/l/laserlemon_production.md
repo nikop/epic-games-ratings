@@ -4,9 +4,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Highly Sprung | 86.00% | ~6 |
+| The Prison | 43.00% | ~3 |
 | Six's Song | 29.00% | ~2 |
 | The Lair | 29.00% | ~2 |
-| The Prison | 29.00% | ~2 |
 | Fun and Games Ahead | 14.00% | ~1 |
 | The Guest Area | 14.00% | ~1 |
 | We'll Meet Again | 14.00% | ~1 |
@@ -26,7 +26,7 @@
 | The Kitchen | 0.00% | ~0 |
 | The Lady's Quarters | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 477)  
+Progressed: 7 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7265,9 +7265,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 472987,
+  "EOS_Progressed": 472988,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22565,6 +22565,11 @@
       "Time": "2023-09-12T07:03:16.9232633+00:00",
       "NumProgressed": 472987,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-12T08:03:24.7800034+00:00",
+      "NumProgressed": 472988,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 98,
@@ -22600,7 +22605,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175005
+      "UsersEstimate": 175006
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -22664,7 +22669,7 @@
       "Name": "Tremendous Trio",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 127706
+      "UsersEstimate": 127707
     },
     {
       "ID": "achievement_5_clean_sheets_in_a_row",
@@ -22672,7 +22677,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137166
+      "UsersEstimate": 137167
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -22728,7 +22733,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175005
+      "UsersEstimate": 175006
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -22864,7 +22869,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 132436
+      "UsersEstimate": 132437
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -22872,7 +22877,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94597
+      "UsersEstimate": 94598
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -22888,7 +22893,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137166
+      "UsersEstimate": 137167
     },
     {
       "ID": "achievement_hattrick",
@@ -23000,7 +23005,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 165545
+      "UsersEstimate": 165546
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -23016,7 +23021,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 94597
+      "UsersEstimate": 94598
     },
     {
       "ID": "achievement_pick_feeder",
@@ -23048,7 +23053,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137166
+      "UsersEstimate": 137167
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -23200,7 +23205,7 @@
       "Name": "Trophy Hoarder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18919
+      "UsersEstimate": 18920
     },
     {
       "ID": "achievement_won_a_match",
@@ -23264,7 +23269,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56758
+      "UsersEstimate": 56759
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -23359,15 +23364,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 472987,
+      "Progressed": 472988,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-09-11T20:58:51.6381259+00:00",
-  "LastChanged_Achievements": "2023-09-12T07:03:16.9232626+00:00",
+  "LastChanged_Achievements": "2023-09-12T08:03:24.7800029+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.0729519+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:59:01.8149876+00:00",
-  "LastUpdate_Achievements": "2023-09-12T07:03:16.9234689+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:59:03.2949331+00:00",
+  "LastUpdate_Achievements": "2023-09-12T08:03:24.7801671+00:00"
 }

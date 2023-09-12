@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -336,9 +336,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5170,
+  "EOS_Progressed": 5171,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6101,6 +6101,11 @@
       "Time": "2023-09-11T18:04:54.7909221+00:00",
       "NumProgressed": 5170,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-12T08:05:13.871203+00:00",
+      "NumProgressed": 5171,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6128,7 +6133,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "12",
@@ -6152,7 +6157,7 @@
       "Name": "Full Ascension",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "15",
@@ -6280,7 +6285,7 @@
       "Name": "Stronger Together",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "3",
@@ -6312,7 +6317,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "33",
@@ -6328,7 +6333,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "35",
@@ -6464,7 +6469,7 @@
       "Name": "Here be Dragons",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "46",
@@ -6488,7 +6493,7 @@
       "Name": "Blood of the Dragon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "49",
@@ -6496,7 +6501,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "50",
@@ -6511,13 +6516,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5170,
+      "Progressed": 5171,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5170,
+      "Progressed": 5171,
       "Completed": 6
     }
   ],
@@ -6525,8 +6530,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-12T07:05:25.1202171+00:00",
+  "LastChanged_Achievements": "2023-09-12T08:05:13.8712022+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:36.514266+00:00",
-  "LastUpdate_Ratings": "2023-09-12T06:57:26.26898+00:00",
-  "LastUpdate_Achievements": "2023-09-12T07:05:25.1202926+00:00"
+  "LastUpdate_Ratings": "2023-09-12T07:57:42.1775228+00:00",
+  "LastUpdate_Achievements": "2023-09-12T08:05:13.8712684+00:00"
 }

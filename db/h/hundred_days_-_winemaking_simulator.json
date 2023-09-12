@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -982,9 +982,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2612,
+  "EOS_Progressed": 2618,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1268,
+  "EOS_NewPlayers": 1264,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2517,6 +2517,11 @@
       "Time": "2023-09-12T07:05:00.5294731+00:00",
       "NumProgressed": 2612,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-12T08:04:53.3570902+00:00",
+      "NumProgressed": 2618,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2529,7 +2534,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "a_10",
@@ -2577,7 +2582,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 914
+      "UsersEstimate": 916
     },
     {
       "ID": "a_19",
@@ -2593,7 +2598,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "a_20",
@@ -2617,7 +2622,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "a_23",
@@ -2633,7 +2638,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "a_26",
@@ -2665,7 +2670,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "a_30",
@@ -2761,22 +2766,22 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "a_9",
       "SetID": "daiie3o",
       "Name": "Very Important Winemaker",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2612,
+      "Progressed": 2618,
       "Completed": 4
     }
   ],
@@ -2784,8 +2789,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-11T22:59:49.0882552+00:00",
-  "LastChanged_Achievements": "2023-09-12T07:05:00.5294725+00:00",
+  "LastChanged_Achievements": "2023-09-12T08:04:53.3570897+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:00:25.5594768+00:00",
-  "LastUpdate_Achievements": "2023-09-12T07:05:00.5295055+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:00:12.8403101+00:00",
+  "LastUpdate_Achievements": "2023-09-12T08:04:53.3571146+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.18 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,675 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,358 |
-| Loose Ends | 34.00% | ~24,633 |
-| To the Victor Go the Spoils | 28.00% | ~20,286 |
+| First Step Into the Knight | 52.00% | ~37,676 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,359 |
+| Loose Ends | 34.00% | ~24,634 |
+| To the Victor Go the Spoils | 28.00% | ~20,287 |
 | Knighthood | 27.00% | ~19,562 |
 | Get ReQ'd | 25.00% | ~18,113 |
 | Whispered Words | 25.00% | ~18,113 |
 | The Batman Family | 23.00% | ~16,664 |
-| Lock and Key | 22.00% | ~15,939 |
+| Lock and Key | 22.00% | ~15,940 |
 | Something in the Clay | 21.00% | ~15,215 |
-| Quartzer Life Crisis | 20.00% | ~14,490 |
-| Working Hard or Harley Working? | 20.00% | ~14,490 |
-| Unstoppable Force | 20.00% | ~14,490 |
-| Bad Apples in Every Orchard | 20.00% | ~14,490 |
+| Quartzer Life Crisis | 20.00% | ~14,491 |
+| Working Hard or Harley Working? | 20.00% | ~14,491 |
+| Unstoppable Force | 20.00% | ~14,491 |
+| Bad Apples in Every Orchard | 20.00% | ~14,491 |
 | Snow Problem | 19.00% | ~13,766 |
-| The Show Mud Go On | 18.00% | ~13,041 |
+| The Show Mud Go On | 18.00% | ~13,042 |
 | From Inside Gotham's Walls | 17.00% | ~12,317 |
 | Protector of Gotham | 16.00% | ~11,592 |
 | Universal Health Scare | 16.00% | ~11,592 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 883)
 | Element of Surprise | 0.20% | ~85 |
 | It's Nice to Be Wanted | 0.20% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,451 (Ranked 82)  
+Progressed: 72,453 (Ranked 82)  
 Completed: 112 (0.15%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 112 (0.15%) (Ranked 204)
 | 2023-09-09 | 72,298 | 112 |
 | 2023-09-10 | 72,379 | 112 |
 | 2023-09-11 | 72,434 | 112 |
-| 2023-09-12 | 72,451 | 112 |
+| 2023-09-12 | 72,453 | 112 |
 ## Awards
 Max (Great Boss Battles): 2,638  (Ranked 97)  
 Sum: 4,381 (Ranked 139)  

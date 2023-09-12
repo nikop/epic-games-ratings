@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 37.00% | ~246 |
-| Hear That Roar! | 37.00% | ~246 |
-| Clean Race | 37.00% | ~246 |
+| First Love | 37.00% | ~247 |
+| Hear That Roar! | 37.00% | ~247 |
+| Clean Race | 37.00% | ~247 |
 | Eat My Dust | 30.00% | ~200 |
-| Rivals to the End | 28.00% | ~186 |
+| Rivals to the End | 28.00% | ~187 |
 | We're Going to Need a Bigger Garage | 24.00% | ~160 |
 | I'm Here Too! | 24.00% | ~160 |
 | Bitter Rivalry | 17.00% | ~113 |
@@ -29,16 +29,16 @@
 | Cherry Blossom and Temples | 2.00% | ~13 |
 | La Dolce Vita | 2.00% | ~13 |
 | The Road to Liberty | 2.00% | ~13 |
-| Romantic Races | 2.00% | ~13 |
 | I Make the Rules! | 2.00% | ~13 |
 | I'll Be the Best! | 1.00% | ~7 |
+| Romantic Races | 1.00% | ~7 |
 | Rounding Off | 1.00% | ~7 |
 | My Work Here Is Done | 1.00% | ~7 |
 | Overtaking the Master | 0.90% | ~6 |
 | Back in Blighty | 0.60% | ~4 |
 | Next Level | 0.60% | ~4 |
 | I Don't Stop | 0.60% | ~4 |
-| Globe-trotter | 0.50% | ~3 |
+| Globe-trotter | 0.40% | ~3 |
 | Maximum Endurance | 0.30% | ~2 |
 | Exhausted but Happy | 0.30% | ~2 |
 | Full Power | 0.30% | ~2 |
@@ -46,15 +46,15 @@
 | In Search of Perfection | 0.30% | ~2 |
 | There's a Great View up Here | 0.30% | ~2 |
 | Absolute Champion | 0.30% | ~2 |
-| Beyond the Limiter | 0.20% | ~1 |
-| All My Own Toys | 0.20% | ~1 |
-| Endless | 0.20% | ~1 |
+| Beyond the Limiter | 0.10% | ~1 |
+| All My Own Toys | 0.10% | ~1 |
+| Endless | 0.10% | ~1 |
 | Dream Chaser | 0.00% | ~0 |
 | Breathtaking Views | 0.00% | ~0 |
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 229)  
+Progressed: 667 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 508 | 0 |
 | 2023-09-10 | 595 | 0 |
 | 2023-09-11 | 659 | 0 |
-| 2023-09-12 | 666 | 0 |
+| 2023-09-12 | 667 | 0 |

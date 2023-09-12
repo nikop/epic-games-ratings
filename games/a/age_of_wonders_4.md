@@ -15,14 +15,14 @@ Rating: 4.60 (Ranked 394)
 | Seat of Power | 6.00% | ~310 |
 | Intimidation Tactics | 6.00% | ~310 |
 | Tipping the Scales | 6.00% | ~310 |
-| There Can Only Be One! | 5.00% | ~258 |
-| Full Ascension | 5.00% | ~258 |
-| Stronger Together | 5.00% | ~258 |
-| My Final Form | 5.00% | ~258 |
-| In a Liege of Your Own | 5.00% | ~258 |
-| Here be Dragons | 5.00% | ~258 |
-| Blood of the Dragon | 5.00% | ~258 |
-| Mighty Hoard | 5.00% | ~258 |
+| There Can Only Be One! | 5.00% | ~259 |
+| Full Ascension | 5.00% | ~259 |
+| Stronger Together | 5.00% | ~259 |
+| My Final Form | 5.00% | ~259 |
+| In a Liege of Your Own | 5.00% | ~259 |
+| Here be Dragons | 5.00% | ~259 |
+| Blood of the Dragon | 5.00% | ~259 |
+| Mighty Hoard | 5.00% | ~259 |
 | Valley of Wonders | 4.00% | ~207 |
 | Return of the Wizard King | 4.00% | ~207 |
 | Digging for Treasure | 4.00% | ~207 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 394)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,170 (Ranked 148)  
+Progressed: 5,171 (Ranked 148)  
 Completed: 6 (0.12%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,6 +182,7 @@ Completed: 6 (0.12%) (Ranked 212)
 | 2023-09-09 | 5,165 | 6 |
 | 2023-09-10 | 5,167 | 6 |
 | 2023-09-11 | 5,170 | 6 |
+| 2023-09-12 | 5,171 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 485)  
 Sum: 25 (Ranked 493)  

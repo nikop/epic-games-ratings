@@ -14,13 +14,13 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's just the beginning | 59.00% | ~28,616 |
 | This is just my weekend vehicle | 58.00% | ~28,131 |
 | Hard work pays off | 53.00% | ~25,706 |
-| It's never too late to farm | 50.00% | ~24,250 |
-| All out of Land | 44.00% | ~21,340 |
-| Field Trip | 43.00% | ~20,855 |
-| I like to switch it up | 40.00% | ~19,400 |
-| Help me to help you | 38.00% | ~18,430 |
-| Ultimutt Pawesomeness | 28.00% | ~13,580 |
-| Van Gogh | 26.00% | ~12,610 |
+| It's never too late to farm | 50.00% | ~24,251 |
+| All out of Land | 44.00% | ~21,341 |
+| Field Trip | 43.00% | ~20,856 |
+| I like to switch it up | 40.00% | ~19,401 |
+| Help me to help you | 38.00% | ~18,431 |
+| Ultimutt Pawesomeness | 28.00% | ~13,581 |
+| Van Gogh | 26.00% | ~12,611 |
 | You wood not believe it | 22.00% | ~10,670 |
 | Vehicle fleet | 22.00% | ~10,670 |
 | The plot thickens | 16.00% | ~7,760 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~194 |
 | Raisin the stakes | 0.30% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,501 (Ranked 92)  
+Progressed: 48,502 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,14 +195,14 @@ Completed: 6 (0.01%) (Ranked 259)
 | 2023-09-09 | 48,401 | 6 |
 | 2023-09-10 | 48,463 | 6 |
 | 2023-09-11 | 48,494 | 6 |
-| 2023-09-12 | 48,501 | 6 |
+| 2023-09-12 | 48,502 | 6 |
 ## Awards
-Max (Great for Beginners): 4,916  (Ranked 68)  
-Sum: 40,069 (Ranked 32)  
+Max (Great for Beginners): 4,924  (Ranked 68)  
+Sum: 40,077 (Ranked 32)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,916 |
+| This game is Great for Beginners | 4,924 |
 | This game is Educational | 4,160 |
 | This game is Relaxing | 4,129 |
 | This game has Diverse Characters | 4,118 |
@@ -455,4 +455,4 @@ Diff (max vs sum): 36
 | 2023-09-09 | 4.69 | - | 4,905 | 40,000 |
 | 2023-09-10 | 4.69 | - | 4,905 | 40,035 |
 | 2023-09-11 | 4.69 | - | 4,916 | 40,065 |
-| 2023-09-12 | 4.69 | - | 4,916 | 40,069 |
+| 2023-09-12 | 4.69 | - | 4,924 | 40,077 |

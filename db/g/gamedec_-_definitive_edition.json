@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 789,
+  "Ranking_Rating": 790,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 49,
@@ -402,9 +402,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 245688,
+  "EOS_Progressed": 245690,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 766,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16477,6 +16477,11 @@
       "Time": "2023-09-12T07:04:59.1034943+00:00",
       "NumProgressed": 245688,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-12T08:04:52.0968916+00:00",
+      "NumProgressed": 245690,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -16552,7 +16557,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 31939
+      "UsersEstimate": 31940
     },
     {
       "ID": "ACH_HATTRICK",
@@ -16704,7 +16709,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 58965
+      "UsersEstimate": 58966
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -16903,7 +16908,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 245688,
+      "Progressed": 245690,
       "Completed": 7
     }
   ],
@@ -16911,8 +16916,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-02T23:58:08.6373723+00:00",
-  "LastChanged_Achievements": "2023-09-12T07:04:59.1034938+00:00",
+  "LastChanged_Achievements": "2023-09-12T08:04:52.096891+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:57.1654221+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:00:28.4833083+00:00",
-  "LastUpdate_Achievements": "2023-09-12T07:04:59.1036172+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:00:16.7610945+00:00",
+  "LastUpdate_Achievements": "2023-09-12T08:04:52.0969986+00:00"
 }

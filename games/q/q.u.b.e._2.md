@@ -1,13 +1,13 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.41 (Ranked 688)  
+Rating: 4.41 (Ranked 689)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lost in Space | 57.00% | ~160 |
-| Quick Understanding of Block Extrusion | 55.00% | ~155 |
+| Quick Understanding of Block Extrusion | 56.00% | ~157 |
 | Nature or Nurture | 47.00% | ~132 |
 | Power Glove | 47.00% | ~132 |
 | Forgotten Memories | 46.00% | ~129 |

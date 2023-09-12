@@ -8,7 +8,7 @@ Rating: 4.56 (Ranked 469)
 | Pushing a pull door | 96.00% | ~650 |
 | Fetch Quest Complete | 91.00% | ~616 |
 | I can't wait! | 83.00% | ~562 |
-| Swish | 56.00% | ~379 |
+| Swish | 57.00% | ~386 |
 | Clean up on Aisle 9 | 40.00% | ~271 |
 | Machine Maxed | 30.00% | ~203 |
 | Bug Fixer | 26.00% | ~176 |
