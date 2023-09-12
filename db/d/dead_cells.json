@@ -4,11 +4,11 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 24,
   "Ranking_Popularity": 243,
-  "Ranking_PopularitySum": 183,
+  "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2020-10-22T15:00:00+00:00",
     "PcReleaseDate": "2020-10-22T15:00:00+00:00",
@@ -2600,10 +2600,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 2389,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-09-12T14:56:59.2372424+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 2392,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2389,
+  "NumberOfAwards": 2392,
   "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2653,7 +2659,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 227
+      "Count": 230
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2691,8 +2697,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2023-09-12T13:05:42.7688375+00:00",
+  "LastChanged": "2023-09-12T14:56:59.2372422+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:38.9696625+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:05:42.7688381+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:04:30.5605945+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:56:59.2372429+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:04:59.628514+00:00"
 }

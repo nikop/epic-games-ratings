@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~686 |
 | Friendly Imps | 0.30% | ~686 |
 | Pure Energy | 0.30% | ~686 |
+| Legends and Lore | 0.30% | ~584 |
 | Tall Tales | 0.20% | ~390 |
 | The Silken Swamp | 0.20% | ~457 |
 | Supply Run | 0.20% | ~457 |
@@ -49,7 +50,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underdeep Cartography | 0.20% | ~457 |
 | Overdue Rendezvous | 0.20% | ~457 |
 | The Templar's Camp | 0.20% | ~457 |
-| Legends and Lore | 0.20% | ~390 |
 | The End | 0.20% | ~390 |
 | Pros and CONs | 0.10% | ~229 |
 | Upholding the Law | 0.10% | ~229 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,509 (Ranked 54)  
+Progressed: 228,514 (Ranked 54)  
 Completed: 2,272 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,10 +672,10 @@ Completed: 2,272 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
-| 2023-09-12 | 228,509 | 2,272 |
+| 2023-09-12 | 228,514 | 2,272 |
 ## Awards
 Max (Diverse Characters): 5,266  (Ranked 67)  
-Sum: 31,547 (Ranked 39)  
+Sum: 31,549 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -685,7 +685,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 4,646 |
 | This game has Amazing Characters | 4,115 |
 | This game is Highly Recommended | 4,101 |
-| This game has Playful Visuals | 3,411 |
+| This game has Playful Visuals | 3,413 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -918,4 +918,4 @@ Diff (max vs sum): 28
 | 2023-09-09 | 4.06 | - | 5,246 | 31,491 |
 | 2023-09-10 | 4.06 | - | 5,254 | 31,510 |
 | 2023-09-11 | 4.06 | - | 5,261 | 31,535 |
-| 2023-09-12 | 4.06 | - | 5,266 | 31,547 |
+| 2023-09-12 | 4.06 | - | 5,266 | 31,549 |

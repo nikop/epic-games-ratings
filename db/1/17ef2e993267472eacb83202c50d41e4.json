@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5597,
+  "EOS_Progressed": 5598,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2468,
+  "EOS_NewPlayers": 2432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1171,6 +1171,11 @@
       "Time": "2023-09-12T14:03:56.4592667+00:00",
       "NumProgressed": 5597,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T15:04:18.4371301+00:00",
+      "NumProgressed": 5598,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1327,7 +1332,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "GamesWon10",
@@ -1629,9 +1634,9 @@
       "ID": "PlayerKills1000",
       "SetID": "12d07c7",
       "Name": "1000 Eliminations",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "PulseUpgraded1",
@@ -1774,14 +1779,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5597,
+      "Progressed": 5598,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:03:56.4592662+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:04:18.4371296+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:58:46.6747606+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:03:56.4593597+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:59:14.9018878+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:04:18.4372022+00:00"
 }

@@ -7536,9 +7536,9 @@
       "Count": 638
     }
   ],
-  "EOS_Progressed": 296468,
+  "EOS_Progressed": 296470,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1804,
+  "EOS_NewPlayers": 1777,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23256,6 +23256,11 @@
       "Time": "2023-09-12T14:06:58.7422244+00:00",
       "NumProgressed": 296468,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-12T15:07:56.6835605+00:00",
+      "NumProgressed": 296470,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23387,7 +23392,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32611
+      "UsersEstimate": 32612
     },
     {
       "ID": "PFA_24",
@@ -23403,7 +23408,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14823
+      "UsersEstimate": 14824
     },
     {
       "ID": "PFA_26",
@@ -23435,7 +23440,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14823
+      "UsersEstimate": 14824
     },
     {
       "ID": "PFA_3",
@@ -23547,7 +23552,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14823
+      "UsersEstimate": 14824
     },
     {
       "ID": "PFA_42",
@@ -23571,7 +23576,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23717
+      "UsersEstimate": 23718
     },
     {
       "ID": "PFA_45",
@@ -23611,22 +23616,22 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32611
+      "UsersEstimate": 32612
     },
     {
       "ID": "PFA_9",
       "SetID": "1hf4dep",
       "Name": "Rising From the Ashes",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 23717
+      "UsersEstimate": 26682
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296468,
+      "Progressed": 296470,
       "Completed": 470
     }
   ],
@@ -23634,8 +23639,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-12T13:59:47.5017686+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:06:58.7422239+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:07:56.6835599+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:59:47.5017693+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:06:58.7423495+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:00:27.5247038+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:07:56.6836626+00:00"
 }

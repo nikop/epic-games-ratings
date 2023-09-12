@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11272,
+  "EOS_Progressed": 11276,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9346,6 +9346,11 @@
       "Time": "2023-09-12T13:08:36.1353958+00:00",
       "NumProgressed": 11272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T15:04:18.0654353+00:00",
+      "NumProgressed": 11276,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9395,9 +9400,9 @@
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_10_SECONDS_4_PLAYERS",
       "SetID": "5ck0pmd",
       "Name": "Dal\u00ED",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -9429,7 +9434,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4960
+      "UsersEstimate": 4961
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -9445,7 +9450,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -9525,7 +9530,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -9541,7 +9546,7 @@
       "Name": "First Prize!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -9549,21 +9554,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11272,
+      "Progressed": 11276,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:03:56.1535224+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:04:18.0654349+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3886572+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:59:20.118556+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:03:56.1536046+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:59:58.2489473+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:04:18.0654924+00:00"
 }

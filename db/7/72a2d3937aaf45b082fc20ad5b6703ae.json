@@ -2,10 +2,10 @@
   "ID": "72a2d3937aaf45b082fc20ad5b6703ae",
   "Name": "The Making of Karateka",
   "ProductSlug": "the-making-of-karateka-7d9a6c",
-  "Ranking_EOS_Progress": 484,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
     "PcReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
       "Time": "2023-09-12T13:09:22.8454058+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T15:05:14.2071506+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-17T00:04:53.817175+00:00",
@@ -74,7 +79,7 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 83,
+      "Percentage": 71,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -82,7 +87,7 @@
       "ID": "down_ship",
       "SetID": "l4g2eh",
       "Name": "Down With The Ship",
-      "Percentage": 83,
+      "Percentage": 71,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -98,7 +103,7 @@
       "ID": "feather_cap",
       "SetID": "l4g2eh",
       "Name": "Feather in Your Cap",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -106,7 +111,7 @@
       "ID": "getting_point",
       "SetID": "l4g2eh",
       "Name": "Getting The Point",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "little_star",
       "SetID": "l4g2eh",
       "Name": "Little Star",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -138,7 +143,7 @@
       "ID": "minimalist",
       "SetID": "l4g2eh",
       "Name": "Minimalist",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -146,7 +151,7 @@
       "ID": "modern_hero",
       "SetID": "l4g2eh",
       "Name": "Modern Hero",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 80,
       "UsersEstimate": 3
     },
@@ -154,7 +159,7 @@
       "ID": "nothing_personal",
       "SetID": "l4g2eh",
       "Name": "Nothing Personal",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 83,
+      "Percentage": 71,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -170,7 +175,7 @@
       "ID": "original",
       "SetID": "l4g2eh",
       "Name": "The Original",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -178,7 +183,7 @@
       "ID": "ran_trouble",
       "SetID": "l4g2eh",
       "Name": "Ran Into Trouble",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -186,7 +191,7 @@
       "ID": "show_respect",
       "SetID": "l4g2eh",
       "Name": "Show Some Respect!",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 70,
       "UsersEstimate": 3
     },
@@ -202,7 +207,7 @@
       "ID": "sudden_death",
       "SetID": "l4g2eh",
       "Name": "Sudden Death",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -219,14 +224,14 @@
     {
       "ID": "l4g2eh",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:04:42.2210246+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:05:14.2071494+00:00",
   "LastUpdate_AppInfo": "2023-09-08T21:57:00.7877533+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:58:51.7681317+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:04:42.2210401+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:59:21.2587883+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:05:14.2071622+00:00"
 }

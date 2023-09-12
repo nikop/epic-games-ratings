@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -28,8 +28,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "cf4lpdl",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-09-12T15:07:56.0598739+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:07:56.0598664+00:00",
   "LastUpdate_AppInfo": "2023-09-12T13:01:55.0325751+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:57:26.8424014+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:06:58.1412118+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:57:32.6257293+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:07:56.059876+00:00"
 }

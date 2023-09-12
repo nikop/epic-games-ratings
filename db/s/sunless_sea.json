@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -697,9 +697,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 37166,
+  "EOS_Progressed": 37167,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15492,6 +15492,11 @@
       "Time": "2023-09-12T14:05:02.0892134+00:00",
       "NumProgressed": 37166,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-12T15:05:38.5757006+00:00",
+      "NumProgressed": 37167,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -15631,7 +15636,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ach_die5",
@@ -15759,7 +15764,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ach_portdragon",
@@ -15791,7 +15796,7 @@
       "Name": "Leviathan",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ach_portpearls",
@@ -15807,7 +15812,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ach_portrose",
@@ -15887,7 +15892,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ach_underpressure",
@@ -15934,15 +15939,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 37166,
+      "Progressed": 37167,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-09-09T07:56:56.3637028+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:05:02.0892129+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:05:38.5757002+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.2839059+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:58:08.7730167+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:05:02.0893581+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:58:25.4068881+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:05:38.575808+00:00"
 }

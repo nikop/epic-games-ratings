@@ -47,6 +47,7 @@
 | Insectoid Propagator | 2.00% | ~3 |
 | Making Contact | 1.00% | ~1 |
 | Watcher | 1.00% | ~1 |
+| Executor | 1.00% | ~1 |
 | Loremaster | 1.00% | ~1 |
 | Adept | 1.00% | ~1 |
 | Talent Nurtured | 1.00% | ~1 |
@@ -57,7 +58,6 @@
 | Wyrmslayer | 1.00% | ~1 |
 | Merchant Lord | 1.00% | ~1 |
 | Voracity Confronted | 1.00% | ~1 |
-| Executor | 0.70% | ~1 |
 | Ever After | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |
 | Forged in Battle | 0.70% | ~1 |

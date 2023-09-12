@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -1664,9 +1664,9 @@
       "ID": "_01_AllIslands",
       "SetID": "8a1io5d",
       "Name": "Somewhere Deep in the Lost Caribbean",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 177
+      "UsersEstimate": 183
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -1728,9 +1728,9 @@
       "ID": "_09_Completion_20",
       "SetID": "8a1io5d",
       "Name": "Powder Monkey",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 189
     },
     {
       "ID": "_10_Completion_30",
@@ -1808,9 +1808,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 107
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -1881,8 +1881,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:03:39.80751+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:03:48.6399518+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:00:34.1444696+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:03:39.8075396+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:01:28.8693241+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:03:48.6399744+00:00"
 }

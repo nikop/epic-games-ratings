@@ -11,15 +11,15 @@ Rating: 4.69 (Ranked 216)
 | With Great Power… | 42.00% | ~265 |
 | This Belongs in a Museum | 38.00% | ~240 |
 | The Gambit Has Begun | 33.00% | ~208 |
-| Powder Monkey | 29.00% | ~183 |
-| Somewhere Deep in the Lost Caribbean | 28.00% | ~177 |
+| Powder Monkey | 30.00% | ~189 |
+| Somewhere Deep in the Lost Caribbean | 29.00% | ~183 |
 | Mirror Mirror on the Wall | 27.00% | ~170 |
 | Pirates Assemble! | 25.00% | ~158 |
 | Buccaneer | 23.00% | ~145 |
 | Fishy Fish | 22.00% | ~139 |
 | All Good Things | 17.00% | ~107 |
 | Seadog | 17.00% | ~107 |
-| Persistent Parasite | 16.00% | ~101 |
+| Persistent Parasite | 17.00% | ~107 |
 | Jaded Judge | 12.00% | ~76 |
 | Privateer | 11.00% | ~69 |
 | Rustic Recipe | 11.00% | ~69 |

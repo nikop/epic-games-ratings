@@ -6530,10 +6530,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31547,
       "NumberOfAwardsMax": 5266
+    },
+    {
+      "Time": "2023-09-12T15:01:10.3528342+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31549,
+      "NumberOfAwardsMax": 5266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31547,
+  "NumberOfAwards": 31549,
   "NumberOfAwardsMax": 5266,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6577,12 +6583,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3411
+      "Count": 3413
     }
   ],
-  "EOS_Progressed": 228509,
+  "EOS_Progressed": 228514,
   "EOS_Completed": 2272,
-  "EOS_NewPlayers": 1256,
+  "EOS_NewPlayers": 1248,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22625,6 +22631,11 @@
       "Time": "2023-09-12T14:04:06.0789989+00:00",
       "NumProgressed": 228509,
       "NumCompleted": 2272
+    },
+    {
+      "Time": "2023-09-12T15:04:30.6983644+00:00",
+      "NumProgressed": 228514,
+      "NumCompleted": 2272
     }
   ],
   "TotalAchievements": 520,
@@ -26762,9 +26773,9 @@
       "ID": "objective_completed_1365",
       "SetID": "415jc5c",
       "Name": "Legends and Lore",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 584
     },
     {
       "ID": "objective_completed_1366",
@@ -26795,21 +26806,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194783,
+      "Progressed": 194788,
       "Completed": 3421
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228509,
+      "Progressed": 228514,
       "Completed": 2272
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-12T14:00:20.3886728+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:04:06.078998+00:00",
+  "LastChanged": "2023-09-12T15:01:10.3528341+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:04:30.6983639+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:00:20.3886735+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:04:06.0820271+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:01:10.3528346+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:04:30.7008707+00:00"
 }

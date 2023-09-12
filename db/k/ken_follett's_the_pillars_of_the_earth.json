@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -501,7 +501,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15157,
+  "EOS_Progressed": 15158,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
@@ -10011,6 +10011,11 @@
       "Time": "2023-09-12T14:05:25.835464+00:00",
       "NumProgressed": 15157,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-12T15:06:06.0462058+00:00",
+      "NumProgressed": 15158,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -10134,7 +10139,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "tpote_achievement_23",
@@ -10166,7 +10171,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "tpote_achievement_27",
@@ -10198,7 +10203,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4850
+      "UsersEstimate": 4851
     },
     {
       "ID": "tpote_achievement_30",
@@ -10286,7 +10291,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6214
+      "UsersEstimate": 6215
     },
     {
       "ID": "tpote_achievement_40",
@@ -10349,15 +10354,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15157,
+      "Progressed": 15158,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-10T20:57:40.397669+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:05:25.8354634+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:06:06.0462053+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.6037792+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:58:22.4475786+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:05:25.8355598+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:58:43.6451493+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:06:06.0462757+00:00"
 }

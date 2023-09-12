@@ -1,32 +1,32 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.31 (Ranked 790)  
+Rating: 4.31 (Ranked 791)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,799 |
-| Powergamer | 27.00% | ~66,342 |
-| Barely scratched the surface | 25.00% | ~61,428 |
-| Write that down | 24.00% | ~58,970 |
-| Guns, lots of guns | 13.00% | ~31,942 |
-| Collector | 11.00% | ~27,028 |
-| Elementary! | 9.00% | ~22,114 |
-| Pumpkin Jack | 8.00% | ~19,657 |
-| Wake up! | 8.00% | ~19,657 |
+| I will finish what you started | 28.00% | ~68,802 |
+| Powergamer | 27.00% | ~66,344 |
+| Barely scratched the surface | 25.00% | ~61,430 |
+| Write that down | 24.00% | ~58,973 |
+| Guns, lots of guns | 13.00% | ~31,944 |
+| Collector | 11.00% | ~27,029 |
+| Elementary! | 9.00% | ~22,115 |
+| Pumpkin Jack | 8.00% | ~19,658 |
+| Wake up! | 8.00% | ~19,658 |
 | It's honest work | 7.00% | ~17,200 |
 | Griever | 7.00% | ~17,200 |
 | Me smart | 6.00% | ~14,743 |
 | Trash compactor | 6.00% | ~14,743 |
 | Good listener | 5.00% | ~12,286 |
 | Valedictorian | 5.00% | ~12,286 |
-| BOY! | 4.00% | ~9,828 |
-| Ka-ching! | 4.00% | ~9,828 |
-| So you like to read? | 4.00% | ~9,828 |
-| Hoarder | 3.00% | ~7,371 |
-| I like to sniff around | 3.00% | ~7,371 |
-| Mind reader | 3.00% | ~7,371 |
+| BOY! | 4.00% | ~9,829 |
+| Ka-ching! | 4.00% | ~9,829 |
+| So you like to read? | 4.00% | ~9,829 |
+| Hoarder | 3.00% | ~7,372 |
+| I like to sniff around | 3.00% | ~7,372 |
+| Mind reader | 3.00% | ~7,372 |
 | Gentleman's classic | 2.00% | ~4,914 |
 | Is that a rift? | 2.00% | ~4,914 |
 | It's alive! | 2.00% | ~4,914 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~491 |
 | Memory 5 | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,710 (Ranked 49)  
+Progressed: 245,720 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 7 (0.00%) (Ranked 273)
 | 2023-09-09 | 245,422 | 7 |
 | 2023-09-10 | 245,569 | 7 |
 | 2023-09-11 | 245,668 | 7 |
-| 2023-09-12 | 245,710 | 7 |
+| 2023-09-12 | 245,720 | 7 |
 ## Awards
 Max (Character Customization): 80  (Ranked 363)  
 Sum: 80 (Ranked 430)  

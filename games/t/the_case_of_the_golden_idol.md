@@ -23,7 +23,7 @@
 | Solved the Lemurian Vampire 3rd Case | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 185 (Ranked 311)  
-Completed: 8 (4.32%) (Ranked 56)  
+Completed: 8 (4.32%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

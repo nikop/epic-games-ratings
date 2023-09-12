@@ -4,11 +4,11 @@
   "ProductSlug": "scavengers",
   "Ranking_Rating": 883,
   "Ranking_Popularity": 346,
-  "Ranking_PopularitySum": 263,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -651,6 +651,6 @@
   "FirstSeen": "2022-07-22T20:18:46.6635408+00:00",
   "LastChanged": "2022-12-09T11:57:00.7904391+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:07.9415249+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:58:27.6924873+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:07:12.8807406+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:58:50.5361578+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:08:14.0241539+00:00"
 }

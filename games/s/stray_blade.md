@@ -22,16 +22,16 @@
 | Craftsmen | 10.00% | ~6 |
 | Through Dangers Untold | 10.00% | ~6 |
 | Witch | 10.00% | ~6 |
-| Mirror, Mirror on the Wall | 6.00% | ~4 |
+| Mirror, Mirror on the Wall | 8.00% | ~5 |
+| Defeat Ingla | 6.00% | ~4 |
 | Defeat Uskol | 6.00% | ~4 |
 | Bringing guns to a sword fight | 6.00% | ~4 |
 | The A-Team | 6.00% | ~4 |
-| Defeat Ingla | 5.00% | ~3 |
+| But what of the Acreans? | 6.00% | ~4 |
 | Defeat Tezuth | 5.00% | ~3 |
 | Ancient Powers | 5.00% | ~3 |
 | Finally! | 5.00% | ~3 |
 | The End | 5.00% | ~3 |
-| But what of the Acreans? | 5.00% | ~3 |
 | Unveiling the Truth | 5.00% | ~3 |
 | Sponsor | 3.00% | ~2 |
 | Wizard | 3.00% | ~2 |

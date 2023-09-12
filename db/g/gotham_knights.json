@@ -2852,9 +2852,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72463,
+  "EOS_Progressed": 72464,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 1444,
+  "EOS_NewPlayers": 1436,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15227,6 +15227,11 @@
       "Time": "2023-09-12T13:10:54.4429327+00:00",
       "NumProgressed": 72463,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-12T15:07:04.4164214+00:00",
+      "NumProgressed": 72464,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15286,7 +15291,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16666
+      "UsersEstimate": 16667
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15326,7 +15331,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10869
+      "UsersEstimate": 10870
     },
     {
       "ID": "CHALLENGES_1",
@@ -15350,7 +15355,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13043
+      "UsersEstimate": 13044
     },
     {
       "ID": "CLAYFACE_3",
@@ -15630,7 +15635,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24637
+      "UsersEstimate": 24638
     },
     {
       "ID": "MYSTERY_02",
@@ -15725,13 +15730,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72463,
+      "Progressed": 72464,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42743,
+      "Progressed": 42744,
       "Completed": 2663
     }
   ],
@@ -15739,8 +15744,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-12T09:58:01.1346988+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:06:14.8462823+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:07:04.416421+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-12T13:57:56.9475809+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:06:14.8464097+00:00"
+  "LastUpdate_Ratings": "2023-09-12T14:58:10.945217+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:07:04.4165271+00:00"
 }

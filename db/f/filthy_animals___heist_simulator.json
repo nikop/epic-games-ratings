@@ -4,8 +4,8 @@
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 96,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8125,
+  "EOS_Progressed": 8126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5213,6 +5213,11 @@
       "Time": "2023-09-12T14:04:39.25086+00:00",
       "NumProgressed": 8125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T15:05:10.5294359+00:00",
+      "NumProgressed": 8126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -5400,7 +5405,7 @@
       "Name": "Supermart Objectives Complete",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "superMartSuccess",
@@ -5408,7 +5413,7 @@
       "Name": "Supermart Heisted",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "templeAllObjectives",
@@ -5447,7 +5452,7 @@
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 8125,
+      "Progressed": 8126,
       "Completed": 0
     }
   ],
@@ -5455,8 +5460,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2023-09-12T14:04:39.2508594+00:00",
+  "LastChanged_Achievements": "2023-09-12T15:05:10.5294355+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:55.7244085+00:00",
-  "LastUpdate_Ratings": "2023-09-12T14:00:07.964512+00:00",
-  "LastUpdate_Achievements": "2023-09-12T14:04:39.2509085+00:00"
+  "LastUpdate_Ratings": "2023-09-12T15:00:54.9491939+00:00",
+  "LastUpdate_Achievements": "2023-09-12T15:05:10.5294773+00:00"
 }

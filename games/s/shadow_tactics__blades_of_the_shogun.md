@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,187 |
-| Thorough | 10.00% | ~20,170 |
-| A thief's beginning | 9.00% | ~18,153 |
-| Disguised | 8.00% | ~16,136 |
-| Rescue Takuma | 8.00% | ~16,136 |
-| Rollin' | 8.00% | ~16,136 |
-| Tanuki Time | 8.00% | ~16,136 |
-| Ice Ice Yuki | 7.00% | ~14,119 |
-| Jonin | 7.00% | ~14,119 |
-| Stoned Ox | 7.00% | ~14,119 |
-| Yabu | 7.00% | ~14,119 |
-| Chunin | 6.00% | ~12,102 |
-| Flying Rocks | 6.00% | ~12,102 |
-| Happy Planning | 6.00% | ~12,102 |
-| Mugen Unchained | 6.00% | ~12,102 |
-| Warzone | 6.00% | ~12,102 |
-| Okkoto | 5.00% | ~10,085 |
-| Prisoners | 5.00% | ~10,085 |
-| Too Early | 5.00% | ~10,085 |
-| Gear up | 4.00% | ~8,068 |
-| Happy little accidents | 4.00% | ~8,068 |
-| Still Rollin' | 4.00% | ~8,068 |
+| Genin | 11.00% | ~22,189 |
+| Thorough | 10.00% | ~20,172 |
+| A thief's beginning | 9.00% | ~18,154 |
+| Disguised | 8.00% | ~16,137 |
+| Rescue Takuma | 8.00% | ~16,137 |
+| Rollin' | 8.00% | ~16,137 |
+| Tanuki Time | 8.00% | ~16,137 |
+| Ice Ice Yuki | 7.00% | ~14,120 |
+| Jonin | 7.00% | ~14,120 |
+| Stoned Ox | 7.00% | ~14,120 |
+| Yabu | 7.00% | ~14,120 |
+| Chunin | 6.00% | ~12,103 |
+| Flying Rocks | 6.00% | ~12,103 |
+| Happy Planning | 6.00% | ~12,103 |
+| Mugen Unchained | 6.00% | ~12,103 |
+| Warzone | 6.00% | ~12,103 |
+| Okkoto | 5.00% | ~10,086 |
+| Prisoners | 5.00% | ~10,086 |
+| Too Early | 5.00% | ~10,086 |
+| Gear up | 4.00% | ~8,069 |
+| Happy little accidents | 4.00% | ~8,069 |
+| Still Rollin' | 4.00% | ~8,069 |
 | Noboru | 3.00% | ~6,051 |
 | Stoned | 3.00% | ~6,051 |
 | The Old Way | 3.00% | ~6,051 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,703 (Ranked 61)  
-Completed: 77 (0.04%) (Ranked 241)  
+Progressed: 201,715 (Ranked 61)  
+Completed: 78 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,10 +196,10 @@ Completed: 77 (0.04%) (Ranked 241)
 | 2023-09-09 | 201,158 | 77 |
 | 2023-09-10 | 201,431 | 77 |
 | 2023-09-11 | 201,603 | 77 |
-| 2023-09-12 | 201,703 | 77 |
+| 2023-09-12 | 201,715 | 78 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
-Sum: 4,750 (Ranked 136)  
+Sum: 4,752 (Ranked 136)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -207,9 +207,9 @@ Diff (max vs sum): 55
 | This game has Diverse Characters | 529 |
 | This game is Extremely Fun | 523 |
 | This game has Amazing Storytelling | 505 |
-| This game has Amazing Characters | 487 |
+| This game has Amazing Characters | 488 |
 | This game is Highly Recommended | 485 |
-| This game is Relaxing | 483 |
+| This game is Relaxing | 484 |
 | This game has Challenging Combat | 478 |
 | This game has Quickly Understood Controls | 446 |
 | This game has a Creative Community | 249 |
@@ -385,3 +385,4 @@ Diff (max vs sum): 55
 | 2023-09-09 | 4.66 | - | 563 | 4,747 |
 | 2023-09-10 | 4.66 | - | 565 | 4,749 |
 | 2023-09-11 | 4.66 | - | 565 | 4,750 |
+| 2023-09-12 | 4.66 | - | 565 | 4,752 |
