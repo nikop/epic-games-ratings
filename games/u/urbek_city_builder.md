@@ -14,6 +14,7 @@
 | The woodcutter | 0.30% | ~1 |
 | Small town | 0.30% | ~1 |
 | Sport is good for you | 0.30% | ~1 |
+| Soviet town | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
 | Full archipelago | 0.00% | ~0 |
@@ -81,7 +82,6 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 | Bucolic city | 0.00% | ~0 |
-| Soviet town | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 331 (Ranked 272)  

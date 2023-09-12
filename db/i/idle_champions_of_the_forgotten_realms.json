@@ -6536,10 +6536,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31549,
       "NumberOfAwardsMax": 5266
+    },
+    {
+      "Time": "2023-09-12T17:01:29.1773083+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31551,
+      "NumberOfAwardsMax": 5266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31549,
+  "NumberOfAwards": 31551,
   "NumberOfAwardsMax": 5266,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6565,7 +6571,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4646
+      "Count": 4648
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6586,9 +6592,9 @@
       "Count": 3413
     }
   ],
-  "EOS_Progressed": 228523,
+  "EOS_Progressed": 228529,
   "EOS_Completed": 2272,
-  "EOS_NewPlayers": 1240,
+  "EOS_NewPlayers": 1232,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22641,6 +22647,11 @@
       "Time": "2023-09-12T16:04:20.1137735+00:00",
       "NumProgressed": 228523,
       "NumCompleted": 2272
+    },
+    {
+      "Time": "2023-09-12T17:04:40.6754719+00:00",
+      "NumProgressed": 228529,
+      "NumCompleted": 2272
     }
   ],
   "TotalAchievements": 520,
@@ -24010,9 +24021,9 @@
       "ID": "objective_completed_21",
       "SetID": "cc37lbc",
       "Name": "Invisible Shadows",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 457
     },
     {
       "ID": "objective_completed_210",
@@ -26811,21 +26822,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194797,
+      "Progressed": 194803,
       "Completed": 3421
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228523,
+      "Progressed": 228529,
       "Completed": 2272
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-12T15:01:10.3528341+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:04:20.1137727+00:00",
+  "LastChanged": "2023-09-12T17:01:29.1773081+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:04:40.6754707+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-12T16:01:03.0470316+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:04:20.1168189+00:00"
+  "LastUpdate_Ratings": "2023-09-12T17:01:29.1773088+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:04:40.6790023+00:00"
 }

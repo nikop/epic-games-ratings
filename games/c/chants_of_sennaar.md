@@ -16,7 +16,7 @@
 | One last step | 27.00% | ~40 |
 | Champollion | 26.00% | ~38 |
 | Cable guy | 25.00% | ~37 |
-| In this together | 22.00% | ~32 |
+| In this together | 23.00% | ~34 |
 | Peace walker | 22.00% | ~32 |
 | Half the way | 22.00% | ~32 |
 | Open door | 22.00% | ~32 |

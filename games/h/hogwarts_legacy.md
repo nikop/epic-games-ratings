@@ -5,18 +5,18 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,506 |
-| First Class Student | 13.00% | ~38,541 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,507 |
+| First Class Student | 13.00% | ~38,542 |
 | Troll with the Punches | 12.00% | ~35,577 |
-| A Keen Sense of Spell | 11.00% | ~32,612 |
-| That's a Keeper | 11.00% | ~32,612 |
-| Grappling with a Graphorn | 10.00% | ~29,647 |
-| The One Who Mastered Memories | 10.00% | ~29,647 |
-| The Hallowed Hero | 10.00% | ~29,647 |
-| The Defender of Dragons | 10.00% | ~29,647 |
-| Loom for Improvement | 10.00% | ~29,647 |
-| A Talent for Spending | 10.00% | ~29,647 |
-| Coasting Along | 10.00% | ~29,647 |
+| A Keen Sense of Spell | 11.00% | ~32,613 |
+| That's a Keeper | 11.00% | ~32,613 |
+| Grappling with a Graphorn | 10.00% | ~29,648 |
+| The One Who Mastered Memories | 10.00% | ~29,648 |
+| The Hallowed Hero | 10.00% | ~29,648 |
+| The Defender of Dragons | 10.00% | ~29,648 |
+| Loom for Improvement | 10.00% | ~29,648 |
+| A Talent for Spending | 10.00% | ~29,648 |
+| Coasting Along | 10.00% | ~29,648 |
 | The Hero of Hogwarts | 9.00% | ~26,683 |
 | Challenge Accepted | 9.00% | ~26,683 |
 | Followed the Butterflies | 9.00% | ~26,683 |
@@ -26,8 +26,8 @@ Rating: 4.77 (Ranked 109)
 | Beast Friends | 7.00% | ~20,753 |
 | A Sallow Grave | 7.00% | ~20,753 |
 | Flight the Good Flight | 7.00% | ~20,753 |
-| The Seeker of Knowledge | 6.00% | ~17,788 |
-| Raising Expectations | 6.00% | ~17,788 |
+| The Seeker of Knowledge | 6.00% | ~17,789 |
+| Raising Expectations | 6.00% | ~17,789 |
 | The Root of the Problem | 5.00% | ~14,824 |
 | Third Time's a Charm | 5.00% | ~14,824 |
 | The Ends Petrify the Means | 5.00% | ~14,824 |
@@ -38,11 +38,11 @@ Rating: 4.77 (Ranked 109)
 | The Gryffindor in the Graveyard | 4.00% | ~11,859 |
 | The Wise Owl | 4.00% | ~11,859 |
 | Floo Around the World | 3.00% | ~8,894 |
-| The Good Samaritan | 2.00% | ~5,929 |
-| Put Down Roots | 2.00% | ~5,929 |
-| The Auror's Apprentice | 2.00% | ~5,929 |
-| Rise to the Challenges | 2.00% | ~5,929 |
-| Finishing Touches | 2.00% | ~5,929 |
+| The Good Samaritan | 2.00% | ~5,930 |
+| Put Down Roots | 2.00% | ~5,930 |
+| The Auror's Apprentice | 2.00% | ~5,930 |
+| Rise to the Challenges | 2.00% | ~5,930 |
+| Finishing Touches | 2.00% | ~5,930 |
 | Savvy Spender | 1.00% | ~2,965 |
 | Demiguise Dread | 1.00% | ~2,965 |
 | A Forte for Achievement | 1.00% | ~2,965 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,779 |
 | Collector's Edition | 0.30% | ~889 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,473 (Ranked 43)  
+Progressed: 296,478 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,24 +196,24 @@ Completed: 470 (0.16%) (Ranked 201)
 | 2023-09-09 | 296,169 | 469 |
 | 2023-09-10 | 296,327 | 470 |
 | 2023-09-11 | 296,418 | 470 |
-| 2023-09-12 | 296,473 | 470 |
+| 2023-09-12 | 296,478 | 470 |
 ## Awards
 Max (Character Customization): 22,536  (Ranked 17)  
-Sum: 42,996 (Ranked 30)  
+Sum: 43,010 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 22,536 |
 | This game has Great Boss Battles | 11,036 |
 | This game is Great for Beginners | 1,059 |
+| This game has Amazing Storytelling | 1,017 |
 | This game is Extremely Fun | 1,014 |
-| This game has Amazing Storytelling | 1,010 |
-| This game is Relaxing | 1,008 |
+| This game is Relaxing | 1,013 |
 | This game has Diverse Characters | 1,004 |
 | This game has Amazing Characters | 979 |
 | This game is Highly Recommended | 965 |
 | This game has Quickly Understood Controls | 907 |
-| This game has Beautiful Visuals | 840 |
+| This game has Beautiful Visuals | 842 |
 | This game has a Creative Community | 638 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -390,4 +390,4 @@ Diff (max vs sum): -13
 | 2023-09-09 | 4.77 | 22,422 | 42,694 |
 | 2023-09-10 | 4.77 | 22,487 | 42,860 |
 | 2023-09-11 | 4.77 | 22,536 | 42,979 |
-| 2023-09-12 | 4.77 | 22,536 | 42,996 |
+| 2023-09-12 | 4.77 | 22,536 | 43,010 |

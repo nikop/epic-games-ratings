@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 2.00% | ~13,571 |
-| Hotel California | 2.00% | ~13,571 |
-| Welcome To Hell-A | 2.00% | ~13,571 |
+| Break A Leg | 2.00% | ~13,572 |
+| Hotel California | 2.00% | ~13,572 |
+| Welcome To Hell-A | 2.00% | ~13,572 |
 | Dr. Reed, I Presume? | 1.00% | ~6,786 |
 | Git Gutte! | 1.00% | ~6,786 |
 | Bookworm | 1.00% | ~6,786 |
@@ -33,7 +33,7 @@ Rating: 4.54 (Ranked 502)
 | Making Your Mark | 0.70% | ~4,750 |
 | Humanity Distilled | 0.70% | ~4,750 |
 | Down with the Sickness | 0.70% | ~4,750 |
-| Max Headroom | 0.60% | ~4,071 |
+| Max Headroom | 0.60% | ~4,072 |
 | Jumbo Keyring | 0.50% | ~3,393 |
 | Go, Bobcats! | 0.50% | ~3,393 |
 | Rising Star | 0.50% | ~3,393 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,567 (Ranked 22)  
+Progressed: 678,603 (Ranked 22)  
 Completed: 2,141 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,16 +196,16 @@ Completed: 2,141 (0.32%) (Ranked 178)
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
-| 2023-09-12 | 678,567 | 2,141 |
+| 2023-09-12 | 678,603 | 2,141 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
-Sum: 8,896 (Ranked 94)  
+Sum: 8,899 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,016 |
 | This game is Great for Beginners | 407 |
-| This game has Diverse Characters | 397 |
+| This game has Diverse Characters | 400 |
 | This game has Quickly Understood Controls | 389 |
 | This game is Relaxing | 371 |
 | This game has Amazing Storytelling | 349 |
@@ -359,4 +359,4 @@ Diff (max vs sum): -37
 | 2023-09-09 | 4.54 | 5,990 | 8,845 |
 | 2023-09-10 | 4.54 | 6,008 | 8,872 |
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
-| 2023-09-12 | 4.54 | 6,016 | 8,896 |
+| 2023-09-12 | 4.54 | 6,016 | 8,899 |

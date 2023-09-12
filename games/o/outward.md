@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,541 |
-| Ready for Winter | 65.00% | ~2,173 |
-| Ready for Summer | 52.00% | ~1,738 |
-| Cordon Bleu | 44.00% | ~1,471 |
-| Tapped! | 37.00% | ~1,237 |
-| Eureka | 33.00% | ~1,103 |
-| Scourge Slayer | 26.00% | ~869 |
-| Science, Troglodyte! | 24.00% | ~802 |
+| Venture Outward | 76.00% | ~2,542 |
+| Ready for Winter | 65.00% | ~2,174 |
+| Ready for Summer | 52.00% | ~1,739 |
+| Cordon Bleu | 44.00% | ~1,472 |
+| Tapped! | 37.00% | ~1,238 |
+| Eureka | 33.00% | ~1,104 |
+| Scourge Slayer | 26.00% | ~870 |
+| Science, Troglodyte! | 24.00% | ~803 |
 | Exceptional Skill | 23.00% | ~769 |
 | Home Sweet Home | 23.00% | ~769 |
 | Encyclopedic! | 20.00% | ~669 |
-| The Power of Family | 17.00% | ~568 |
+| The Power of Family | 17.00% | ~569 |
 | A Fortress Toppled! | 16.00% | ~535 |
 | Apex Predator | 16.00% | ~535 |
-| The Power of Faith | 13.00% | ~435 |
 | Strange amalgams | 12.00% | ~401 |
+| The Power of Faith | 12.00% | ~401 |
 | The Power of Freedom | 10.00% | ~334 |
-| Ace Detective | 8.00% | ~267 |
-| Gift from the Ancestors | 8.00% | ~267 |
-| Magic is a science | 8.00% | ~267 |
+| Ace Detective | 8.00% | ~268 |
+| Gift from the Ancestors | 8.00% | ~268 |
+| Magic is a science | 8.00% | ~268 |
 | House of Cards | 7.00% | ~234 |
 | Let ‘em eat magma! | 7.00% | ~234 |
 | The power of ambition | 7.00% | ~234 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,343 (Ranked 161)  
+Progressed: 3,345 (Ranked 161)  
 Completed: 3 (0.09%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 3 (0.09%) (Ranked 223)
 | 2023-09-08 | 3,341 | 3 |
 | 2023-09-09 | 3,342 | 3 |
 | 2023-09-10 | 3,343 | 3 |
+| 2023-09-12 | 3,345 | 3 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 449)  
 Sum: 243 (Ranked 359)  

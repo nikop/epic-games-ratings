@@ -21,14 +21,14 @@ Rating: 4.68 (Ranked 242)
 | Land, Ho! | 47.00% | ~306 |
 | Back In The Saddle | 46.00% | ~300 |
 | No Man Is An Island | 46.00% | ~300 |
-| At Wits' End | 45.00% | ~293 |
+| At Wits' End | 46.00% | ~300 |
+| Up In Flames | 44.00% | ~287 |
 | Fhtagn! | 44.00% | ~287 |
 | Bookworm | 43.00% | ~280 |
-| Up In Flames | 43.00% | ~280 |
 | Going Once... | 40.00% | ~261 |
 | Let Me Be Frank | 38.00% | ~248 |
 | Brain Food | 37.00% | ~241 |
-| No Stone Unturned | 36.00% | ~235 |
+| No Stone Unturned | 37.00% | ~241 |
 | Read It And Weep | 22.00% | ~143 |
 | Curiosity Killed The Cat | 20.00% | ~130 |
 | Big Breakthrough | 13.00% | ~85 |

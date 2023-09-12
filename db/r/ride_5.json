@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 691,
+  "EOS_Progressed": 692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -699,6 +699,11 @@
       "Time": "2023-09-12T16:06:17.5558556+00:00",
       "NumProgressed": 691,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T17:06:40.1029888+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -717,9 +722,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "c7hf6a4",
       "Name": "Hear That Roar!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 256
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -741,17 +746,17 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 97
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
       "SetID": "c7hf6a4",
       "Name": "Make It Your Own!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -967,7 +972,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -999,7 +1004,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -1007,7 +1012,7 @@
       "Name": "Eat My Dust",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -1061,9 +1066,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 201
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -1102,14 +1107,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 691,
+      "Progressed": 692,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:06:17.555855+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:06:40.1029877+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:56:58.658468+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:06:17.5559011+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:57:25.8327659+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:06:40.1030368+00:00"
 }

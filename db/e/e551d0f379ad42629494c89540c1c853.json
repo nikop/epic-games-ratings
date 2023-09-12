@@ -2,10 +2,10 @@
   "ID": "e551d0f379ad42629494c89540c1c853",
   "Name": "AEVITAS",
   "ProductSlug": "aevitas-24f3e7",
-  "Ranking_EOS_Progress": 592,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-07T14:57:39.4852702+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:58:30.9012798+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:08:07.7848652+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:59:01.173278+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:08:23.1054437+00:00"
 }

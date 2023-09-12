@@ -4384,10 +4384,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8896,
       "NumberOfAwardsMax": 6016
+    },
+    {
+      "Time": "2023-09-12T16:57:24.3463579+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8899,
+      "NumberOfAwardsMax": 6016
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8896,
+  "NumberOfAwards": 8899,
   "NumberOfAwardsMax": 6016,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4401,7 +4407,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 397
+      "Count": 400
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4446,9 +4452,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 678567,
+  "EOS_Progressed": 678603,
   "EOS_Completed": 2141,
-  "EOS_NewPlayers": 4536,
+  "EOS_NewPlayers": 4535,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20701,6 +20707,11 @@
       "Time": "2023-09-12T16:03:10.9151689+00:00",
       "NumProgressed": 678567,
       "NumCompleted": 2141
+    },
+    {
+      "Time": "2023-09-12T17:03:29.7875424+00:00",
+      "NumProgressed": 678603,
+      "NumCompleted": 2141
     }
   ],
   "TotalAchievements": 45,
@@ -20776,7 +20787,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13571
+      "UsersEstimate": 13572
     },
     {
       "ID": "ach_contender",
@@ -20872,7 +20883,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13571
+      "UsersEstimate": 13572
     },
     {
       "ID": "ach_impressive_aim",
@@ -21008,7 +21019,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4071
+      "UsersEstimate": 4072
     },
     {
       "ID": "ach_the_vcla",
@@ -21048,7 +21059,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13571
+      "UsersEstimate": 13572
     },
     {
       "ID": "ach_well_known_survivor",
@@ -21071,22 +21082,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 678567,
+      "Progressed": 678603,
       "Completed": 2141
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 4108,
-      "Completed": 4108
+      "Progressed": 4144,
+      "Completed": 4144
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-12T11:57:01.2063389+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:03:10.9151682+00:00",
+  "LastChanged": "2023-09-12T16:57:24.3463577+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:03:29.7875419+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:56:57.0289707+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:03:10.9153034+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:57:24.3463588+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:03:29.787665+00:00"
 }

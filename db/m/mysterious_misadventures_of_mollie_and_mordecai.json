@@ -2,10 +2,10 @@
   "ID": "ba6f11e0cb5a4e56a7d62e3a6871df1f",
   "Name": "Mysterious Misadventures of Mollie and Mordecai",
   "ProductSlug": "mysterious-misadventures-of-mollie-and-mordecai-daa4a1",
-  "Ranking_EOS_Progress": 592,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2022-10-20T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:30.7272838+00:00",
   "LastChanged": "2023-03-31T05:57:30.7272839+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.3269909+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:58:30.2275673+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:04:01.4600706+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:59:00.6785229+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:04:21.3689478+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7095,9 +7095,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60873,
+  "EOS_Progressed": 60875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22445,6 +22445,11 @@
       "Time": "2023-09-12T16:05:37.7707561+00:00",
       "NumProgressed": 60873,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T17:05:59.7165143+00:00",
+      "NumProgressed": 60875,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22536,7 +22541,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6087
+      "UsersEstimate": 6088
     },
     {
       "ID": "Dynasty",
@@ -22584,7 +22589,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7913
+      "UsersEstimate": 7914
     },
     {
       "ID": "Great Granny",
@@ -22648,7 +22653,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10348
+      "UsersEstimate": 10349
     },
     {
       "ID": "Kingslayer",
@@ -22680,7 +22685,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19479
+      "UsersEstimate": 19480
     },
     {
       "ID": "Lawbringer",
@@ -22688,7 +22693,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23740
+      "UsersEstimate": 23741
     },
     {
       "ID": "Lawmaker",
@@ -22752,7 +22757,7 @@
       "Name": "Ride it like you stole it",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Roadkill",
@@ -22800,7 +22805,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6087
+      "UsersEstimate": 6088
     },
     {
       "ID": "The king is pleased",
@@ -22808,7 +22813,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10957
+      "UsersEstimate": 10958
     },
     {
       "ID": "This Is Our Land",
@@ -22863,15 +22868,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60873,
+      "Progressed": 60875,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-12T13:03:10.1882192+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:05:37.7707556+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:05:59.7165135+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:58:22.9951595+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:05:37.7708924+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:58:52.0223125+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:05:59.7166548+00:00"
 }

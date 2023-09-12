@@ -46,12 +46,12 @@ Number of Ratings: 58  (23.09.2022)
 | Ascension | 20.00% | ~235 |
 | Rise as One | 19.00% | ~223 |
 | Showoff | 15.00% | ~176 |
+| Overcharged | 10.00% | ~118 |
 | Radiation Area | 10.00% | ~118 |
-| Overcharged | 9.00% | ~106 |
 | At Least You Tried | 2.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,175 (Ranked 202)  
-Completed: 14 (1.19%) (Ranked 117)  
+Completed: 15 (1.28%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 14 (1.19%) (Ranked 117)
 | 2023-09-09 | 1,172 | 14 |
 | 2023-09-10 | 1,173 | 14 |
 | 2023-09-11 | 1,174 | 14 |
-| 2023-09-12 | 1,175 | 14 |
+| 2023-09-12 | 1,175 | 15 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 458)  
 Sum: 32 (Ranked 478)  

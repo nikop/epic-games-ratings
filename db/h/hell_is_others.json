@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -940,9 +940,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256156,
+  "EOS_Progressed": 256158,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15670,6 +15670,11 @@
       "Time": "2023-09-12T16:08:13.0754298+00:00",
       "NumProgressed": 256156,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-12T17:08:28.9836878+00:00",
+      "NumProgressed": 256158,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -15729,7 +15734,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79408
+      "UsersEstimate": 79409
     },
     {
       "ID": "BackHomeNTimes",
@@ -15969,7 +15974,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56354
+      "UsersEstimate": 56355
     },
     {
       "ID": "KillOthers2",
@@ -16128,7 +16133,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256156,
+      "Progressed": 256158,
       "Completed": 3
     }
   ],
@@ -16136,8 +16141,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-12T07:58:41.4879314+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:08:13.0754292+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:08:28.9836872+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.9065613+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:58:52.3746059+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:08:13.0755684+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:59:20.9463825+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:08:28.9838303+00:00"
 }

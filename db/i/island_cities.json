@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 689,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 14.8,
   "EosHistory": [
@@ -2841,9 +2841,9 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 379
+      "UsersEstimate": 386
     },
     {
       "ID": "LEVEL_005",
@@ -3002,8 +3002,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:05:36.4700933+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:05:58.1567754+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-12T16:00:59.9103962+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:05:36.470125+00:00"
+  "LastUpdate_Ratings": "2023-09-12T17:01:26.3937256+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:05:58.1568074+00:00"
 }

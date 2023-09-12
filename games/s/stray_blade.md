@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~55 |
-| Tinkerer | 63.00% | ~40 |
+| Self-Defence | 88.00% | ~56 |
+| Tinkerer | 64.00% | ~41 |
 | Welcome to the Club | 36.00% | ~23 |
 | Apprentice | 30.00% | ~19 |
-| A new World ahead | 25.00% | ~16 |
+| A new World ahead | 27.00% | ~17 |
 | Can't touch this | 23.00% | ~15 |
 | Don't Cry Wolf | 19.00% | ~12 |
 | Freezing Cold | 17.00% | ~11 |

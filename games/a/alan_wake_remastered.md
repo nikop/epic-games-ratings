@@ -6,55 +6,55 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,601 |
-| Let There Be Light | 33.00% | ~21,411 |
-| Float Like a Butterfly | 31.00% | ~20,113 |
-| Nordic Walking | 25.00% | ~16,220 |
-| Bright Falls' Finest | 24.00% | ~15,571 |
-| Under a Thin Layer of Skin | 21.00% | ~13,625 |
-| Paging Mr. Wake | 18.00% | ~11,679 |
-| Park Ranger | 17.00% | ~11,030 |
-| Back! Back, I Say! | 17.00% | ~11,030 |
-| Finders Keepers | 16.00% | ~10,381 |
-| Sound and Fury | 15.00% | ~9,732 |
-| Missed by a Mile | 15.00% | ~9,732 |
-| Damn Good Cup of Coffee | 15.00% | ~9,732 |
-| Wheels Within Wheels | 14.00% | ~9,083 |
-| They're Heeeeeere! | 14.00% | ~9,083 |
+| Follow the Light | 41.00% | ~26,604 |
+| Let There Be Light | 33.00% | ~21,413 |
+| Float Like a Butterfly | 31.00% | ~20,115 |
+| Nordic Walking | 25.00% | ~16,222 |
+| Bright Falls' Finest | 24.00% | ~15,573 |
+| Under a Thin Layer of Skin | 21.00% | ~13,626 |
+| Paging Mr. Wake | 18.00% | ~11,680 |
+| Park Ranger | 17.00% | ~11,031 |
+| Back! Back, I Say! | 17.00% | ~11,031 |
+| Finders Keepers | 16.00% | ~10,382 |
+| Sound and Fury | 15.00% | ~9,733 |
+| Missed by a Mile | 15.00% | ~9,733 |
+| Damn Good Cup of Coffee | 15.00% | ~9,733 |
+| Wheels Within Wheels | 14.00% | ~9,084 |
+| They're Heeeeeere! | 14.00% | ~9,084 |
 | Iron Horse | 13.00% | ~8,435 |
 | The Six-Gun Scribe | 13.00% | ~8,435 |
 | Collateral Carnage | 13.00% | ~8,435 |
 | Come One, Come All | 13.00% | ~8,435 |
-| Heavy Metal | 12.00% | ~7,786 |
-| Perchance to Dream | 12.00% | ~7,786 |
-| Gatekeeper | 11.00% | ~7,137 |
-| It's Not Just a Typewriter Brand | 11.00% | ~7,137 |
-| Thunder and Lightning | 11.00% | ~7,137 |
-| Two For the Price of One | 11.00% | ~7,137 |
-| The Lady of the Light | 10.00% | ~6,488 |
-| Energized! | 10.00% | ~6,488 |
-| What Light Through Yonder Window | 9.00% | ~5,839 |
-| Right of Way | 9.00% | ~5,839 |
-| Tornado Wrangler | 8.00% | ~5,190 |
+| Heavy Metal | 12.00% | ~7,787 |
+| Perchance to Dream | 12.00% | ~7,787 |
+| Gatekeeper | 11.00% | ~7,138 |
+| It's Not Just a Typewriter Brand | 11.00% | ~7,138 |
+| Thunder and Lightning | 11.00% | ~7,138 |
+| Two For the Price of One | 11.00% | ~7,138 |
+| The Lady of the Light | 10.00% | ~6,489 |
+| Energized! | 10.00% | ~6,489 |
+| What Light Through Yonder Window | 9.00% | ~5,840 |
+| Right of Way | 9.00% | ~5,840 |
+| Tornado Wrangler | 8.00% | ~5,191 |
 | A Friend in Need | 8.00% | ~2,268 |
 | Departure | 7.00% | ~4,542 |
 | Drink 'Em Both Up | 6.00% | ~3,893 |
 | Hardboiled Writer | 6.00% | ~3,893 |
 | A Friend Indeed | 6.00% | ~1,701 |
 | Children of the Elder God | 5.00% | ~3,244 |
-| Ding! | 5.00% | ~1,417 |
-| Boob Tube | 4.00% | ~2,595 |
-| If It Flies, It Burns | 4.00% | ~2,595 |
-| KBF-FM | 4.00% | ~2,595 |
-| Carny | 3.00% | ~1,946 |
-| Kill Your Darlings | 3.00% | ~850 |
-| Heartbreaker | 3.00% | ~850 |
+| Ding! | 5.00% | ~1,418 |
+| Boob Tube | 4.00% | ~2,596 |
+| If It Flies, It Burns | 4.00% | ~2,596 |
+| KBF-FM | 4.00% | ~2,596 |
+| Carny | 3.00% | ~1,947 |
+| Kill Your Darlings | 3.00% | ~851 |
+| Heartbreaker | 3.00% | ~851 |
 | Medical Opinions | 2.00% | ~1,298 |
 | Taken Season | 2.00% | ~1,298 |
 | An Idyllic Small Town | 2.00% | ~1,298 |
 | Couch Potato | 2.00% | ~1,298 |
 | Iron Will | 2.00% | ~567 |
-| Go Gentle Into That Good Light | 1.00% | ~283 |
+| Go Gentle Into That Good Light | 1.00% | ~284 |
 | Words Will Never Harm You | 0.70% | ~198 |
 | Cardboard Companions | 0.60% | ~170 |
 | Fast and Furious | 0.50% | ~142 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~65 |
 | No Punctuation | 0.10% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,881 (Ranked 87)  
+Progressed: 64,888 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 65 (0.10%) (Ranked 219)
 | 2023-09-09 | 63,821 | 65 |
 | 2023-09-10 | 64,298 | 65 |
 | 2023-09-11 | 64,651 | 65 |
-| 2023-09-12 | 64,881 | 65 |
+| 2023-09-12 | 64,888 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

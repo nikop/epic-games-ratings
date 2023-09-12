@@ -6,9 +6,9 @@
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 117,
+  "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -287,10 +287,10 @@
     }
   ],
   "EOS_Progressed": 1175,
-  "EOS_Completed": 14,
+  "EOS_Completed": 15,
   "EOS_NewPlayers": 12,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.19,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:24.544527+00:00",
@@ -1921,6 +1921,11 @@
       "Time": "2023-09-12T01:46:25.5919873+00:00",
       "NumProgressed": 1175,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-12T17:07:17.473566+00:00",
+      "NumProgressed": 1175,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 43,
@@ -2202,9 +2207,9 @@
       "ID": "Overcharge",
       "SetID": "a6c395p",
       "Name": "Overcharged",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 118
     },
     {
       "ID": "RadiationCloud",
@@ -2276,14 +2281,14 @@
       "ID": "a6c395p",
       "IsBase": true,
       "Progressed": 1175,
-      "Completed": 14
+      "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-08-19T10:57:32.3642226+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:06:53.3188126+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:07:17.4735652+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:02.2329169+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:58:28.4650579+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:06:53.3188843+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:58:58.9785887+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:07:17.4736116+00:00"
 }

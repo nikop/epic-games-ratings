@@ -6,13 +6,18 @@ Rating: 4.50 (Ranked 564)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Advancement | 0.10% | ~26 |
+| Animated | 0.10% | ~26 |
+| Discovery | 0.10% | ~26 |
 | I don't need these | 0.10% | ~26 |
 | Meticulously Efficient | 0.10% | ~26 |
 | Fully Upgraded | 0.10% | ~26 |
+| Ghostbuster In Training | 0.10% | ~26 |
 | Icing on the Cake | 0.10% | ~26 |
 | Solo Capture | 0.10% | ~26 |
+| Teamwork | 0.10% | ~26 |
+| Terrifying | 0.10% | ~26 |
 | Welcome to the Crew | 0.10% | ~26 |
-| Animated | 0.00% | ~0 |
+| Whoopsie | 0.10% | ~26 |
 | Back Off | 0.00% | ~0 |
 | We have the best insurance | 0.00% | ~0 |
 | Catostrophic Destroyer | 0.00% | ~0 |
@@ -22,11 +27,9 @@ Rating: 4.50 (Ranked 564)
 | Cultured | 0.00% | ~0 |
 | Daily Dose | 0.00% | ~0 |
 | Diabolical | 0.00% | ~0 |
-| Discovery | 0.00% | ~0 |
 | Ectoplasmic Entity | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
 | Fragile Panes | 0.00% | ~0 |
-| Ghostbuster In Training | 0.00% | ~0 |
 | Ghost Expert | 0.00% | ~0 |
 | Legions | 0.00% | ~0 |
 | Liability | 0.00% | ~0 |
@@ -48,14 +51,11 @@ Rating: 4.50 (Ranked 564)
 | Summoner | 0.00% | ~0 |
 | Surprise! | 0.00% | ~0 |
 | Swift Rift Removers | 0.00% | ~0 |
-| Teamwork | 0.00% | ~0 |
-| Terrifying | 0.00% | ~0 |
 | Therapeutic | 0.00% | ~0 |
 | There you are! | 0.00% | ~0 |
 | Tobin's Prodigy | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 | Vaporous Expansion | 0.00% | ~0 |
-| Whoopsie | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25,765 (Ranked 104)  
 Completed: 55 (0.21%) (Ranked 196)  

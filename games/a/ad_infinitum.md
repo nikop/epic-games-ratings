@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Morgengrauen | 57.00% | ~4 |
-| Path of Despair | 43.00% | ~3 |
-| An act of mercy | 14.00% | ~1 |
-| Ad Infinitum | 14.00% | ~1 |
-| Art critic | 14.00% | ~1 |
-| Awaken | 14.00% | ~1 |
-| Clarity | 14.00% | ~1 |
-| Despair | 14.00% | ~1 |
-| Health | 14.00% | ~1 |
-| Jigsaw | 14.00% | ~1 |
-| Lost | 14.00% | ~1 |
-| Pain | 14.00% | ~1 |
-| Path of Corruption | 14.00% | ~1 |
-| Peace | 14.00% | ~1 |
-| Reflections | 14.00% | ~1 |
-| The shining | 14.00% | ~1 |
+| Morgengrauen | 44.00% | ~4 |
+| Path of Despair | 33.00% | ~3 |
+| An act of mercy | 11.00% | ~1 |
+| Ad Infinitum | 11.00% | ~1 |
+| Art critic | 11.00% | ~1 |
+| Awaken | 11.00% | ~1 |
+| Clarity | 11.00% | ~1 |
+| Despair | 11.00% | ~1 |
+| Health | 11.00% | ~1 |
+| Jigsaw | 11.00% | ~1 |
+| Lost | 11.00% | ~1 |
+| Pain | 11.00% | ~1 |
+| Path of Corruption | 11.00% | ~1 |
+| Peace | 11.00% | ~1 |
+| Reflections | 11.00% | ~1 |
+| The shining | 11.00% | ~1 |
 | An act of compassion | 0.00% | ~0 |
 | An act of courage | 0.00% | ~0 |
 | All knowing | 0.00% | ~0 |
@@ -34,7 +34,7 @@
 | Rage | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 478)  
+Progressed: 9 (Ranked 473)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,3 +45,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-08-10 | 5 | 0 |
 | 2023-08-25 | 6 | 0 |
 | 2023-08-29 | 7 | 0 |
+| 2023-09-12 | 9 | 0 |

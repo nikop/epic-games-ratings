@@ -48,7 +48,7 @@ Rating: 4.44 (Ranked 647)
 | Bold and beautiful | 14.00% | ~265 |
 | Go West | 13.00% | ~246 |
 | A new Hope | 11.00% | ~208 |
-| Tycoon | 10.00% | ~189 |
+| Tycoon | 11.00% | ~208 |
 | Unstoppable | 8.00% | ~151 |
 | Track to the Future | 8.00% | ~151 |
 | Call of Duty | 7.00% | ~132 |

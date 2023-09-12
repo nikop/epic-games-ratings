@@ -2,10 +2,10 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "WRC Standard Edition",
   "ProductSlug": "wrc-23",
-  "Ranking_EOS_Progress": 592,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -27,7 +27,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-09-05T15:57:12.2425156+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:59:10.2585086+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:04:51.7647852+00:00"
+  "LastUpdate_AppInfo": "2023-09-12T16:57:19.5429556+00:00",
+  "LastUpdate_Ratings": "2023-09-12T16:59:37.887088+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:05:12.03392+00:00"
 }

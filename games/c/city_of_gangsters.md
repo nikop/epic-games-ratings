@@ -5,30 +5,30 @@ Rating: 4.27 (Ranked 821)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,711 |
-| Copacetic Coordination | 16.00% | ~54,856 |
-| Fronting the Money | 15.00% | ~51,428 |
-| The Dawn of Automation | 14.00% | ~47,999 |
-| Extraordinary Logistics | 14.00% | ~47,999 |
-| Dirty Money | 13.00% | ~44,571 |
-| Family First | 13.00% | ~44,571 |
-| Cleaning House | 12.00% | ~41,142 |
-| Room in the Back | 12.00% | ~41,142 |
+| Corner Clout | 46.00% | ~157,715 |
+| Copacetic Coordination | 16.00% | ~54,857 |
+| Fronting the Money | 15.00% | ~51,429 |
+| The Dawn of Automation | 14.00% | ~48,000 |
+| Extraordinary Logistics | 14.00% | ~48,000 |
+| Dirty Money | 13.00% | ~44,572 |
+| Family First | 13.00% | ~44,572 |
+| Cleaning House | 12.00% | ~41,143 |
+| Room in the Back | 12.00% | ~41,143 |
 | Beating the Heat | 11.00% | ~37,714 |
 | Booze Baron | 11.00% | ~37,714 |
-| Friends on the Force | 10.00% | ~34,285 |
-| Neighborhood Watch | 10.00% | ~34,285 |
-| Core Corps | 8.00% | ~27,428 |
-| Sizeable Stash | 8.00% | ~27,428 |
+| Friends on the Force | 10.00% | ~34,286 |
+| Neighborhood Watch | 10.00% | ~34,286 |
+| Core Corps | 8.00% | ~27,429 |
+| Sizeable Stash | 8.00% | ~27,429 |
 | Street Fighter | 7.00% | ~24,000 |
 | Friendly Gestures | 7.00% | ~24,000 |
 | People Person | 7.00% | ~24,000 |
-| Liquor Lord | 6.00% | ~20,571 |
-| Safety in Numbers | 6.00% | ~20,571 |
-| Moving Experiences | 6.00% | ~20,571 |
-| Wise Head | 6.00% | ~20,571 |
-| Show ‘em the Sugar | 6.00% | ~20,571 |
-| Killing Them Softly | 6.00% | ~20,571 |
+| Liquor Lord | 6.00% | ~20,572 |
+| Safety in Numbers | 6.00% | ~20,572 |
+| Moving Experiences | 6.00% | ~20,572 |
+| Wise Head | 6.00% | ~20,572 |
+| Show ‘em the Sugar | 6.00% | ~20,572 |
+| Killing Them Softly | 6.00% | ~20,572 |
 | Street Knowledge | 5.00% | ~17,143 |
 | Oh Captain | 5.00% | ~17,143 |
 | Branching Out | 5.00% | ~17,143 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 821)
 | High Pillow | 0.10% | ~343 |
 | Station Master | 0.10% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,851 (Ranked 42)  
+Progressed: 342,859 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 7 (0.00%) (Ranked 273)
 | 2023-09-09 | 342,398 | 7 |
 | 2023-09-10 | 342,620 | 7 |
 | 2023-09-11 | 342,759 | 7 |
-| 2023-09-12 | 342,851 | 7 |
+| 2023-09-12 | 342,859 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 435)  
 Sum: 192 (Ranked 377)  

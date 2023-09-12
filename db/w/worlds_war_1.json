@@ -2,10 +2,10 @@
   "ID": "b0e6232db3c94fe9b48a7125a2f97e13",
   "Name": "Worlds War 1",
   "ProductSlug": "worlds-war-1-9c607f",
-  "Ranking_EOS_Progress": 592,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-05-31T09:00:00+00:00",
     "PcReleaseDate": "2023-05-31T09:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-02T02:18:16.7500215+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.2916493+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:58:31.3637379+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:07:51.52917+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:59:01.658469+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:08:16.9988368+00:00"
 }

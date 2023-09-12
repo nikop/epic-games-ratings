@@ -2,10 +2,10 @@
   "ID": "d923c737f0d243ccab407605ea40d39e",
   "Name": "911 Operator",
   "ProductSlug": "911-operator-585edd",
-  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2017-02-24T11:00:00+00:00",
@@ -156,9 +156,9 @@
       "ID": "achiv_sacrefice",
       "SetID": "7oh7228",
       "Name": "Sacrifice Medal",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achiv_smile",
@@ -194,8 +194,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:03:28.709634+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:03:47.821508+00:00",
   "LastUpdate_AppInfo": "2023-09-07T14:57:38.8749037+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:58:44.1245387+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:03:28.7096482+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:59:12.578978+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:03:47.8215223+00:00"
 }

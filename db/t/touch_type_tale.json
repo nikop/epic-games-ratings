@@ -2,10 +2,10 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_EOS_Progress": 167,
+  "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3155,
+  "EOS_Progressed": 3158,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2929,6 +2929,11 @@
       "Time": "2023-09-12T15:05:20.8561395+00:00",
       "NumProgressed": 3155,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-12T17:05:29.5076955+00:00",
+      "NumProgressed": 3158,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -2948,7 +2953,7 @@
       "Name": "Sniped",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "bonus3",
@@ -2988,7 +2993,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2811
     },
     {
       "ID": "campaign10",
@@ -3020,7 +3025,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "campaign14",
@@ -3044,7 +3049,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "campaign17",
@@ -3076,7 +3081,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2495
     },
     {
       "ID": "campaign20",
@@ -3092,7 +3097,7 @@
       "Name": "Economics 101",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2021
     },
     {
       "ID": "campaign4",
@@ -3100,7 +3105,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1516
     },
     {
       "ID": "campaign5",
@@ -3116,7 +3121,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "campaign7",
@@ -3124,7 +3129,7 @@
       "Name": "Maestro",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "campaign8",
@@ -3132,7 +3137,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "campaign9",
@@ -3148,7 +3153,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "scenario2",
@@ -3156,7 +3161,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "scenario3",
@@ -3186,9 +3191,9 @@
       "ID": "scenario6",
       "SetID": "2h56gn1",
       "Name": "Figure of Breach",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 126
     },
     {
       "ID": "scenario7",
@@ -3203,7 +3208,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3155,
+      "Progressed": 3158,
       "Completed": 11
     }
   ],
@@ -3211,8 +3216,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:05:08.4002902+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:05:29.5076937+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:58:53.8390859+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:05:08.4003325+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:59:22.367748+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:05:29.5077412+00:00"
 }

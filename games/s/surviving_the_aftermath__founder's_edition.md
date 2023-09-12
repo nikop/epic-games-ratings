@@ -1,7 +1,7 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.48 (Ranked 601)  
+Rating: 4.48 (Ranked 602)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,10 +32,10 @@ Number of Ratings: 836  (23.09.2022)
 | Real Survivor | 22.00% | ~1,971 |
 | Rocket Surgeon | 20.00% | ~1,792 |
 | War Never Changes | 19.00% | ~1,702 |
+| Friendly | 17.00% | ~1,523 |
 | Big Game Hunter | 17.00% | ~1,523 |
 | Around the World | 17.00% | ~1,523 |
 | Spreading Influence | 17.00% | ~1,523 |
-| Friendly | 16.00% | ~1,433 |
 | Bookworm | 15.00% | ~1,344 |
 | Famous Adventurer | 14.00% | ~1,254 |
 | Prepared for Anything | 13.00% | ~1,165 |

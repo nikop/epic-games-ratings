@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 95,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 96,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 569,
+  "EOS_Progressed": 570,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1695,6 +1695,11 @@
       "Time": "2023-09-12T15:05:33.5406864+00:00",
       "NumProgressed": 569,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-12T17:05:42.0430546+00:00",
+      "NumProgressed": 570,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -1754,7 +1759,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "kill-lieutenants",
@@ -1818,7 +1823,7 @@
       "Name": "Spread",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "send-smuggling",
@@ -1826,7 +1831,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "unlock-residences",
@@ -1857,15 +1862,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 569,
+      "Progressed": 570,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-09-12T16:05:20.9285457+00:00",
+  "LastChanged_Achievements": "2023-09-12T17:05:42.043054+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:48.5771746+00:00",
-  "LastUpdate_Ratings": "2023-09-12T15:58:56.1663409+00:00",
-  "LastUpdate_Achievements": "2023-09-12T16:05:20.9285635+00:00"
+  "LastUpdate_Ratings": "2023-09-12T16:59:25.0043137+00:00",
+  "LastUpdate_Achievements": "2023-09-12T17:05:42.0430797+00:00"
 }
