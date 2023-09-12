@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2094,9 +2094,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25762,
+  "EOS_Progressed": 25763,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12664,6 +12664,11 @@
       "Time": "2023-09-12T08:07:20.1026627+00:00",
       "NumProgressed": 25762,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-12T09:08:06.3446931+00:00",
+      "NumProgressed": 25763,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 51,
@@ -12675,7 +12680,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 18806
+      "UsersEstimate": 18807
     },
     {
       "ID": "Animated",
@@ -12683,7 +12688,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "Back_Off",
@@ -12739,7 +12744,7 @@
       "Name": "Cultured",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 12881
+      "UsersEstimate": 12882
     },
     {
       "ID": "Daily_Dose",
@@ -12763,7 +12768,7 @@
       "Name": "Discovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 15457
+      "UsersEstimate": 15458
     },
     {
       "ID": "Dont_Need_These",
@@ -12787,7 +12792,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16230
+      "UsersEstimate": 16231
     },
     {
       "ID": "Escape_Artist",
@@ -12891,7 +12896,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "Reckless",
@@ -12963,7 +12968,7 @@
       "Name": "Solo Capture",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 8501
+      "UsersEstimate": 8502
     },
     {
       "ID": "Stunner",
@@ -12971,7 +12976,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6440
+      "UsersEstimate": 6441
     },
     {
       "ID": "Stylish",
@@ -12979,7 +12984,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22155
+      "UsersEstimate": 22156
     },
     {
       "ID": "Summoner",
@@ -13067,7 +13072,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 7986
+      "UsersEstimate": 7987
     },
     {
       "ID": "Whoopsie",
@@ -13082,7 +13087,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25762,
+      "Progressed": 25763,
       "Completed": 55
     }
   ],
@@ -13090,8 +13095,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-12T02:57:32.8247066+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:07:20.102662+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:08:06.3446923+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:57:30.4630383+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:07:20.1027498+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:57:27.9205652+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:08:06.3448876+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -607,9 +607,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342792,
+  "EOS_Progressed": 342794,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1090,
+  "EOS_NewPlayers": 1087,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16742,6 +16742,11 @@
       "Time": "2023-09-12T08:04:13.1694948+00:00",
       "NumProgressed": 342792,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-12T09:04:07.6846035+00:00",
+      "NumProgressed": 342794,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -16841,7 +16846,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27423
+      "UsersEstimate": 27424
     },
     {
       "ID": "ach013",
@@ -16889,7 +16894,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27423
+      "UsersEstimate": 27424
     },
     {
       "ID": "ach019",
@@ -16961,7 +16966,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157684
+      "UsersEstimate": 157685
     },
     {
       "ID": "ach028",
@@ -17089,7 +17094,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23995
+      "UsersEstimate": 23996
     },
     {
       "ID": "ach044",
@@ -17113,7 +17118,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23995
+      "UsersEstimate": 23996
     },
     {
       "ID": "ach047",
@@ -17361,7 +17366,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23995
+      "UsersEstimate": 23996
     },
     {
       "ID": "ach079",
@@ -17392,7 +17397,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 342792,
+      "Progressed": 342794,
       "Completed": 7
     }
   ],
@@ -17400,8 +17405,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-10T15:00:51.2490982+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:04:13.1694943+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:04:07.6846029+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:00:19.9583612+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:04:13.1696399+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:00:08.7459048+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:04:07.6849549+00:00"
 }

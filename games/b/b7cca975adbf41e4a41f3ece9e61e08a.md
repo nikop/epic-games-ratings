@@ -8,6 +8,7 @@
 | I Challenge You To Save More Money! | 60.00% | ~3 |
 | A Slap In The Face! | 60.00% | ~3 |
 | I Love How Tough You Are | 60.00% | ~3 |
+| Wanna Come To My Place For Dinner? | 60.00% | ~3 |
 | FIRST LOVE | 60.00% | ~3 |
 | Are You Alright? | 60.00% | ~3 |
 | You're Really Something Else | 60.00% | ~3 |
@@ -17,7 +18,6 @@
 | Hurrah! | 40.00% | ~2 |
 | Love Actually | 40.00% | ~2 |
 | The Flash | 40.00% | ~2 |
-| Wanna Come To My Place For Dinner? | 40.00% | ~2 |
 | What I Want Is You | 40.00% | ~2 |
 | To Be Or Not To Be | 40.00% | ~2 |
 | ONE PUNCH | 40.00% | ~2 |

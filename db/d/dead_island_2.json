@@ -4440,10 +4440,10 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 678350,
+  "EOS_Progressed": 678364,
   "EOS_Completed": 2140,
-  "EOS_NewPlayers": 4536,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 4532,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -20655,6 +20655,11 @@
       "Time": "2023-09-12T08:03:16.0393963+00:00",
       "NumProgressed": 678350,
       "NumCompleted": 2140
+    },
+    {
+      "Time": "2023-09-12T09:03:10.9734875+00:00",
+      "NumProgressed": 678364,
+      "NumCompleted": 2140
     }
   ],
   "TotalAchievements": 45,
@@ -20674,7 +20679,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "ach_ammo_ran",
@@ -20906,7 +20911,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "ach_revival_tour",
@@ -20922,7 +20927,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "ach_secrets_of_la",
@@ -21025,22 +21030,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 678350,
+      "Progressed": 678364,
       "Completed": 2140
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 3891,
-      "Completed": 3891
+      "Progressed": 3905,
+      "Completed": 3905
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-11T23:00:27.6975283+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:03:16.0393953+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:03:10.973487+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:00:56.6561068+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:03:16.0395042+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:00:42.5737989+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:03:10.9736372+00:00"
 }

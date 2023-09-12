@@ -243,9 +243,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "7opfcp",
       "Name": "Wanna Come To My Place For Dinner?",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -401,8 +401,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:04:33.1941576+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:04:26.5783085+00:00",
   "LastUpdate_AppInfo": "2023-09-08T16:56:54.6872936+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:59:21.6709127+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:04:33.1941844+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:59:16.7994162+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:04:26.5783762+00:00"
 }

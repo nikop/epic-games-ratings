@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -326,8 +326,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:05:24.2126413+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:05:21.0830602+00:00",
   "LastUpdate_AppInfo": "2023-09-08T09:57:05.8503237+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:00:07.3180335+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:05:24.2126519+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:59:59.6262131+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:05:21.0830888+00:00"
 }

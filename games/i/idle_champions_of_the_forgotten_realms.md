@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.20% | ~457 |
 | Exploring Port Nyanzaru | 0.20% | ~457 |
 | A Tale of Two Cities | 0.20% | ~457 |
+| Flying Monkey Skulls of Doom | 0.20% | ~457 |
 | Running of the Saurs | 0.20% | ~457 |
 | The Contagious Curse | 0.20% | ~457 |
 | Escort to Waterdeep | 0.20% | ~457 |
@@ -295,7 +296,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.10% | ~228 |
 | A Hero's Entourage | 0.10% | ~228 |
 | Sneak Attack | 0.10% | ~195 |
-| Flying Monkey Skulls of Doom | 0.10% | ~228 |
 | Lair of the Xanathar | 0.10% | ~228 |
 | Dreams of Beholders | 0.10% | ~228 |
 | Feigned Weakness | 0.10% | ~228 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,480 (Ranked 54)  
+Progressed: 228,482 (Ranked 54)  
 Completed: 2,271 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,7 +672,7 @@ Completed: 2,271 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
-| 2023-09-12 | 228,480 | 2,271 |
+| 2023-09-12 | 228,482 | 2,271 |
 ## Awards
 Max (Diverse Characters): 5,261  (Ranked 67)  
 Sum: 31,537 (Ranked 39)  

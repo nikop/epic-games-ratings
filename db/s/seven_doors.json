@@ -181,9 +181,9 @@
       "ID": "ACH_6",
       "SetID": "15cie2",
       "Name": "Survivor",
-      "Percentage": 22,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_7",
@@ -222,8 +222,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:05:31.8483424+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:05:28.5890648+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:43.684637+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:58:34.0692002+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:05:31.8483517+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:58:30.6813952+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:05:28.5890843+00:00"
 }

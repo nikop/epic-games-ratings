@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1346,6 +1346,11 @@
       "Time": "2023-09-12T08:07:10.1524095+00:00",
       "NumProgressed": 308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T09:07:06.3706953+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1355,9 +1360,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1365,7 +1370,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1468,14 +1473,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:07:10.1524091+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:07:06.3706948+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.1913834+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:58:56.3528362+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:07:10.1524222+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:58:51.2538677+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:07:06.3707159+00:00"
 }

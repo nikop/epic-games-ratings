@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 872)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 6.00% | ~956 |
+| Get a Grip | 7.00% | ~1,115 |
 | Paper Jams | 5.00% | ~797 |
 | Flesh Wound | 4.00% | ~637 |
 | Two Heads Are Better Than One | 4.00% | ~637 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -982,9 +982,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2618,
+  "EOS_Progressed": 2624,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1264,
+  "EOS_NewPlayers": 1269,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2522,6 +2522,11 @@
       "Time": "2023-09-12T08:04:53.3570902+00:00",
       "NumProgressed": 2618,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-12T09:04:50.8450272+00:00",
+      "NumProgressed": 2624,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2582,7 +2587,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 918
     },
     {
       "ID": "a_19",
@@ -2630,7 +2635,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "a_25",
@@ -2781,7 +2786,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2618,
+      "Progressed": 2624,
       "Completed": 4
     }
   ],
@@ -2789,8 +2794,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-11T22:59:49.0882552+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:04:53.3570897+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:04:50.8450267+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:00:12.8403101+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:04:53.3571146+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:00:04.9684598+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:04:50.8450613+00:00"
 }

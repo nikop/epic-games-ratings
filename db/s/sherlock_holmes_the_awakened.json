@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2547,17 +2547,17 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 292
+      "UsersEstimate": 299
     },
     {
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 240
     },
     {
       "ID": "MQ08_2",
@@ -2596,8 +2596,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:04:41.4245803+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:04:34.5364057+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:59:59.9544374+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:04:41.4246064+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:59:52.9488004+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:04:34.5364427+00:00"
 }

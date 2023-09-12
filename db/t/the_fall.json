@@ -2,7 +2,7 @@
   "ID": "d16f231f238646e881bb0cd83e1d30c8",
   "Name": "The Fall",
   "ProductSlug": "the-fall",
-  "Ranking_Rating": 828,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 588,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.26,
+  "Rating": 4.27,
   "NumberOfRatings": 106,
   "RatingHistory": [
     {
@@ -366,6 +366,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-12T08:59:29.1089145+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -383,8 +389,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:38.7819539+00:00",
-  "LastChanged": "2023-07-08T02:19:55.2452004+00:00",
+  "LastChanged": "2023-09-12T08:59:29.1089143+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:24.2506752+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:59:33.591401+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:07:20.2391825+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:59:29.1089153+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:08:06.3869421+00:00"
 }

@@ -7083,7 +7083,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60844,
+  "EOS_Progressed": 60846,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
@@ -22393,6 +22393,11 @@
       "Time": "2023-09-12T08:05:20.5911555+00:00",
       "NumProgressed": 60844,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T09:05:17.6606565+00:00",
+      "NumProgressed": 60846,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22404,7 +22409,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7301
+      "UsersEstimate": 7302
     },
     {
       "ID": "Apple of my eye",
@@ -22420,7 +22425,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 13994
+      "UsersEstimate": 13995
     },
     {
       "ID": "Best served cold",
@@ -22484,7 +22489,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6084
+      "UsersEstimate": 6085
     },
     {
       "ID": "Dynasty",
@@ -22564,7 +22569,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 13994
+      "UsersEstimate": 13995
     },
     {
       "ID": "I can do it",
@@ -22596,7 +22601,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10343
+      "UsersEstimate": 10344
     },
     {
       "ID": "Kingslayer",
@@ -22628,7 +22633,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19470
+      "UsersEstimate": 19471
     },
     {
       "ID": "Lawbringer",
@@ -22636,7 +22641,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23729
+      "UsersEstimate": 23730
     },
     {
       "ID": "Lawmaker",
@@ -22644,7 +22649,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13994
+      "UsersEstimate": 13995
     },
     {
       "ID": "Long live the Empire",
@@ -22748,7 +22753,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6084
+      "UsersEstimate": 6085
     },
     {
       "ID": "The king is pleased",
@@ -22780,7 +22785,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 13994
+      "UsersEstimate": 13995
     },
     {
       "ID": "Undercover",
@@ -22811,15 +22816,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60844,
+      "Progressed": 60846,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-12T07:58:17.5484799+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:05:20.5911547+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:05:17.660656+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:58:17.5484804+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:05:20.5912617+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:58:14.9286329+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:05:17.6607996+00:00"
 }

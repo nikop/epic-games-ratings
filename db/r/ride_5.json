@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 667,
+  "EOS_Progressed": 668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -659,6 +659,11 @@
       "Time": "2023-09-12T08:05:53.7492776+00:00",
       "NumProgressed": 667,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T09:05:51.0075592+00:00",
+      "NumProgressed": 668,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -669,9 +674,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 254
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -703,7 +708,7 @@
       "Name": "Restored and Ready",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -775,7 +780,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -829,9 +834,9 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "c7hf6a4",
       "Name": "Romantic Races",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -959,15 +964,15 @@
       "Name": "Bitter Rivalry",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 207
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -975,7 +980,7 @@
       "Name": "Champagne Spray",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -1062,14 +1067,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 667,
+      "Progressed": 668,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:05:53.7492768+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:05:51.0075585+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:00:57.7783908+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:05:53.749314+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:00:43.7777551+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:05:51.0076391+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35847,
+  "EOS_Progressed": 35849,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -13259,6 +13259,11 @@
       "Time": "2023-09-11T17:06:32.3964542+00:00",
       "NumProgressed": 35847,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-09-12T09:05:28.1407306+00:00",
+      "NumProgressed": 35849,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 14,
@@ -13286,7 +13291,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9320
+      "UsersEstimate": 9321
     },
     {
       "ID": "allItems",
@@ -13358,7 +13363,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27602
+      "UsersEstimate": 27604
     },
     {
       "ID": "roots",
@@ -13381,15 +13386,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35847,
+      "Progressed": 35849,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:05:31.3688097+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:05:28.1407301+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.9001384+00:00",
-  "LastUpdate_Ratings": "2023-09-12T07:58:26.6456272+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:05:31.3688745+00:00"
+  "LastUpdate_Ratings": "2023-09-12T08:58:23.0802772+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:05:28.1408906+00:00"
 }

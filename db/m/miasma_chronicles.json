@@ -202,9 +202,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1412,
+  "EOS_Progressed": 1413,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3047,6 +3047,11 @@
       "Time": "2023-09-11T20:05:46.987683+00:00",
       "NumProgressed": 1412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T09:06:06.393211+00:00",
+      "NumProgressed": 1413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -3066,7 +3071,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -3074,7 +3079,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "ATTENBOROUGH",
@@ -3082,7 +3087,7 @@
       "Name": "Attenborough",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "BOOKWORM",
@@ -3210,7 +3215,7 @@
       "Name": "Endgame",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "EXORCIST",
@@ -3242,7 +3247,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -3274,7 +3279,7 @@
       "Name": "Giant Killer",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "GOAL",
@@ -3290,7 +3295,7 @@
       "Name": "Gun for Hire",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -3322,7 +3327,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -3362,7 +3367,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "RECYCLER",
@@ -3386,7 +3391,7 @@
       "Name": "Savior",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "SENSEI",
@@ -3394,7 +3399,7 @@
       "Name": "Sensei",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "SHADOW_BOXING",
@@ -3418,7 +3423,7 @@
       "Name": "Silent but Violent",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "TECHNOPHOBE",
@@ -3465,7 +3470,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1412,
+      "Progressed": 1413,
       "Completed": 0
     }
   ],
@@ -3473,8 +3478,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-09-11T15:02:07.7710532+00:00",
-  "LastChanged_Achievements": "2023-09-12T08:06:09.3989308+00:00",
+  "LastChanged_Achievements": "2023-09-12T09:06:06.3932104+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:33.5469273+00:00",
-  "LastUpdate_Ratings": "2023-09-12T08:00:48.5848498+00:00",
-  "LastUpdate_Achievements": "2023-09-12T08:06:09.3989829+00:00"
+  "LastUpdate_Ratings": "2023-09-12T09:00:35.4146207+00:00",
+  "LastUpdate_Achievements": "2023-09-12T09:06:06.3933206+00:00"
 }
