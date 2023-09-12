@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 501)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 2.00% | ~13,565 |
-| Hotel California | 2.00% | ~13,565 |
-| Welcome To Hell-A | 2.00% | ~13,565 |
+| Break A Leg | 2.00% | ~13,566 |
+| Hotel California | 2.00% | ~13,566 |
+| Welcome To Hell-A | 2.00% | ~13,566 |
 | Dr. Reed, I Presume? | 1.00% | ~6,783 |
 | Git Gutte! | 1.00% | ~6,783 |
 | Bookworm | 1.00% | ~6,783 |
@@ -21,6 +21,7 @@ Rating: 4.54 (Ranked 501)
 | Apex Predator | 1.00% | ~6,783 |
 | Zombologist | 1.00% | ~6,783 |
 | A Patton Emerges | 1.00% | ~6,783 |
+| I Am the Resurrection | 1.00% | ~6,783 |
 | Stacking the Deck | 1.00% | ~6,783 |
 | Personal Assistant Personally Assisted | 1.00% | ~6,783 |
 | This is My Weapon | 1.00% | ~6,783 |
@@ -28,7 +29,6 @@ Rating: 4.54 (Ranked 501)
 | Perks of the Job | 0.90% | ~6,104 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,104 |
 | Ooh, Shiny! | 0.90% | ~6,104 |
-| I Am the Resurrection | 0.90% | ~6,104 |
 | Our True Nature | 0.90% | ~6,104 |
 | Making Your Mark | 0.70% | ~4,748 |
 | Humanity Distilled | 0.70% | ~4,748 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 501)
 | Donk! | 0.10% | ~678 |
 | Bucket List | 0.10% | ~678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,251 (Ranked 22)  
+Progressed: 678,275 (Ranked 22)  
 Completed: 2,139 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 2,139 (0.32%) (Ranked 178)
 | 2023-09-09 | 676,751 | 2,129 |
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
-| 2023-09-12 | 678,251 | 2,139 |
+| 2023-09-12 | 678,275 | 2,139 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
 Sum: 8,894 (Ranked 94)  

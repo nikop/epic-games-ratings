@@ -1030,9 +1030,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 143
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1070,9 +1070,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1118,25 +1118,25 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "8d3ci0",
       "Name": "Private pool",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 95,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1165,8 +1165,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-09-12T00:03:07.792725+00:00",
+  "LastChanged_Achievements": "2023-09-12T01:42:23.2193784+00:00",
   "LastUpdate_AppInfo": "2023-09-09T17:57:05.3356539+00:00",
-  "LastUpdate_Ratings": "2023-09-11T23:59:10.5928323+00:00",
-  "LastUpdate_Achievements": "2023-09-12T00:03:07.7927384+00:00"
+  "LastUpdate_Ratings": "2023-09-12T01:39:16.6753329+00:00",
+  "LastUpdate_Achievements": "2023-09-12T01:42:23.2193925+00:00"
 }

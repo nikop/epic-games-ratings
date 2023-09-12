@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -5968,9 +5968,9 @@
       "Count": 3741
     }
   ],
-  "EOS_Progressed": 136048,
+  "EOS_Progressed": 136049,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20838,6 +20838,11 @@
       "Time": "2023-09-12T00:06:12.9505276+00:00",
       "NumProgressed": 136048,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-09-12T01:46:32.641187+00:00",
+      "NumProgressed": 136049,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 112,
@@ -20959,9 +20964,9 @@
       "ID": "blueprint02",
       "SetID": "anfd17p",
       "Name": "Research \u0026 Development",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 816
     },
     {
       "ID": "blueprint03",
@@ -21087,9 +21092,9 @@
       "ID": "commonres02",
       "SetID": "anfd17p",
       "Name": "Demand for Supplies",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 1088
     },
     {
       "ID": "commonres03",
@@ -21135,9 +21140,9 @@
       "ID": "craft04",
       "SetID": "anfd17p",
       "Name": "Industrial Evolution",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 544
     },
     {
       "ID": "craft05",
@@ -21744,15 +21749,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136048,
+      "Progressed": 136049,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-11T20:00:24.7269227+00:00",
-  "LastChanged_Achievements": "2023-09-12T00:06:12.9505272+00:00",
+  "LastChanged_Achievements": "2023-09-12T01:46:32.6411866+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-12T00:00:37.6197028+00:00",
-  "LastUpdate_Achievements": "2023-09-12T00:06:12.9507309+00:00"
+  "LastUpdate_Ratings": "2023-09-12T01:40:57.8442653+00:00",
+  "LastUpdate_Achievements": "2023-09-12T01:46:32.6413769+00:00"
 }

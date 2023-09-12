@@ -11,9 +11,9 @@
 | First Commander | 20.00% | ~59 |
 | Adventurer | 20.00% | ~59 |
 | Second Commander | 18.00% | ~53 |
-| Third Commander | 15.00% | ~44 |
+| Third Commander | 16.00% | ~47 |
+| Janken The Great | 11.00% | ~32 |
 | Pacifist | 11.00% | ~32 |
-| Janken The Great | 10.00% | ~29 |
 | Overwhelmed Beast | 9.00% | ~26 |
 | Radaxian Protector | 4.00% | ~12 |
 | Let's Talk | 2.00% | ~6 |

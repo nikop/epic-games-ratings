@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 95,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1336,6 +1336,11 @@
       "Time": "2023-09-12T00:06:53.5778278+00:00",
       "NumProgressed": 305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T01:47:20.1433666+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -1353,9 +1358,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1458,14 +1463,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 307,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-12T00:06:53.5778272+00:00",
+  "LastChanged_Achievements": "2023-09-12T01:47:20.1433661+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.1913834+00:00",
-  "LastUpdate_Ratings": "2023-09-11T23:58:36.6290796+00:00",
-  "LastUpdate_Achievements": "2023-09-12T00:06:53.5778417+00:00"
+  "LastUpdate_Ratings": "2023-09-12T01:38:33.7352296+00:00",
+  "LastUpdate_Achievements": "2023-09-12T01:47:20.1433814+00:00"
 }

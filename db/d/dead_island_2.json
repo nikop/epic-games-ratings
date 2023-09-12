@@ -4440,9 +4440,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 678251,
+  "EOS_Progressed": 678275,
   "EOS_Completed": 2139,
-  "EOS_NewPlayers": 4564,
+  "EOS_NewPlayers": 4559,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20615,6 +20615,11 @@
       "Time": "2023-09-12T00:02:14.2049951+00:00",
       "NumProgressed": 678251,
       "NumCompleted": 2139
+    },
+    {
+      "Time": "2023-09-12T01:42:08.1441042+00:00",
+      "NumProgressed": 678275,
+      "NumCompleted": 2139
     }
   ],
   "TotalAchievements": 45,
@@ -20690,7 +20695,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13565
+      "UsersEstimate": 13566
     },
     {
       "ID": "ach_contender",
@@ -20786,7 +20791,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13565
+      "UsersEstimate": 13566
     },
     {
       "ID": "ach_impressive_aim",
@@ -20872,9 +20877,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6104
+      "UsersEstimate": 6783
     },
     {
       "ID": "ach_salvation",
@@ -20962,7 +20967,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13565
+      "UsersEstimate": 13566
     },
     {
       "ID": "ach_well_known_survivor",
@@ -20985,22 +20990,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 678251,
+      "Progressed": 678275,
       "Completed": 2139
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 3792,
-      "Completed": 3792
+      "Progressed": 3816,
+      "Completed": 3816
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-11T23:00:27.6975283+00:00",
-  "LastChanged_Achievements": "2023-09-12T00:02:14.2049947+00:00",
+  "LastChanged_Achievements": "2023-09-12T01:42:08.1441037+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-12T00:00:32.7619252+00:00",
-  "LastUpdate_Achievements": "2023-09-12T00:02:14.2051071+00:00"
+  "LastUpdate_Ratings": "2023-09-12T01:40:52.3521757+00:00",
+  "LastUpdate_Achievements": "2023-09-12T01:42:08.1442124+00:00"
 }

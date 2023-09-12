@@ -1,13 +1,13 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 279)  
+Rating: 4.66 (Ranked 280)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,177 |
-| Thorough | 10.00% | ~20,161 |
+| Genin | 11.00% | ~22,178 |
+| Thorough | 10.00% | ~20,162 |
 | A thief's beginning | 9.00% | ~18,145 |
 | Disguised | 8.00% | ~16,129 |
 | Rescue Takuma | 8.00% | ~16,129 |
@@ -22,12 +22,12 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 6.00% | ~12,097 |
 | Mugen Unchained | 6.00% | ~12,097 |
 | Warzone | 6.00% | ~12,097 |
-| Okkoto | 5.00% | ~10,080 |
-| Prisoners | 5.00% | ~10,080 |
-| Too Early | 5.00% | ~10,080 |
-| Gear up | 4.00% | ~8,064 |
-| Happy little accidents | 4.00% | ~8,064 |
-| Still Rollin' | 4.00% | ~8,064 |
+| Okkoto | 5.00% | ~10,081 |
+| Prisoners | 5.00% | ~10,081 |
+| Too Early | 5.00% | ~10,081 |
+| Gear up | 4.00% | ~8,065 |
+| Happy little accidents | 4.00% | ~8,065 |
+| Still Rollin' | 4.00% | ~8,065 |
 | Noboru | 3.00% | ~6,048 |
 | Stoned | 3.00% | ~6,048 |
 | The Old Way | 3.00% | ~6,048 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,016 |
 | The End | 1.00% | ~2,016 |
 | Undeserved Honor | 1.00% | ~2,016 |
-| When Cut Across the Neck | 0.90% | ~1,814 |
+| When Cut Across the Neck | 0.90% | ~1,815 |
 | High Five the Moon | 0.80% | ~1,613 |
 | The Cave | 0.70% | ~1,411 |
 | Merciful | 0.50% | ~1,008 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,610 (Ranked 60)  
+Progressed: 201,616 (Ranked 60)  
 Completed: 77 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 77 (0.04%) (Ranked 241)
 | 2023-09-09 | 201,158 | 77 |
 | 2023-09-10 | 201,431 | 77 |
 | 2023-09-11 | 201,603 | 77 |
-| 2023-09-12 | 201,610 | 77 |
+| 2023-09-12 | 201,616 | 77 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
 Sum: 4,750 (Ranked 136)  

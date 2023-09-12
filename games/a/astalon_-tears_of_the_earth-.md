@@ -25,8 +25,8 @@
 | Wizard Mastery | 20.00% | ~13 |
 | Rogue Mastery | 17.00% | ~11 |
 | Fighter Mastery | 15.00% | ~10 |
+| Slay the Monster! | 15.00% | ~10 |
 | Destoy all monsters! | 14.00% | ~9 |
-| Slay the Monster! | 14.00% | ~9 |
 | Gorgonslayer Mastery | 12.00% | ~8 |
 | Built for adventure | 12.00% | ~8 |
 | Collector Mastery | 12.00% | ~8 |

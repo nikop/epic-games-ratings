@@ -23,9 +23,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Through Repetition, Perfection | 0.90% | ~1,224 |
 | The Daily Grind | 0.80% | ~1,088 |
 | Bounty Hunters | 0.80% | ~1,088 |
+| Demand for Supplies | 0.80% | ~1,088 |
 | Flooding the Market | 0.80% | ~1,088 |
 | Dungeon Imports | 0.80% | ~1,088 |
-| Demand for Supplies | 0.70% | ~952 |
 | Where it Hurts | 0.70% | ~952 |
 | Gild-Gotten Goods | 0.70% | ~952 |
 | Accomplished Merchant | 0.70% | ~952 |
@@ -33,6 +33,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 0.70% | ~952 |
 | On the Path to Greatness | 0.60% | ~816 |
 | Ascended | 0.60% | ~816 |
+| Research & Development | 0.60% | ~816 |
 | Vanity, Verily | 0.60% | ~816 |
 | Blank Page Syndrome | 0.60% | ~816 |
 | Efficient Floor Space | 0.60% | ~816 |
@@ -40,7 +41,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.60% | ~816 |
 | Natural 20 | 0.60% | ~816 |
 | Tax not Included | 0.50% | ~680 |
-| Research & Development | 0.50% | ~680 |
 | Fated Encounters | 0.50% | ~680 |
 | For the Hoard! | 0.50% | ~680 |
 | Power of Love | 0.50% | ~680 |
@@ -63,6 +63,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 0.40% | ~544 |
 | Locally Sourced | 0.40% | ~544 |
 | Flying off the Shelves | 0.40% | ~544 |
+| Industrial Evolution | 0.40% | ~544 |
 | This Power Level...! | 0.40% | ~544 |
 | Omae wa Mou Shindeiru | 0.40% | ~544 |
 | Master of Transmutation | 0.40% | ~544 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.40% | ~544 |
 | Constellated | 0.30% | ~408 |
 | Fillin' the Bin | 0.30% | ~408 |
-| Industrial Evolution | 0.30% | ~408 |
 | By Your Powers Combined... | 0.30% | ~408 |
 | A Legend is Born | 0.30% | ~408 |
 | Necromancer Queen | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,048 (Ranked 68)  
+Progressed: 136,049 (Ranked 68)  
 Completed: 149 (0.11%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 149 (0.11%) (Ranked 216)
 | 2023-09-09 | 135,932 | 147 |
 | 2023-09-10 | 136,005 | 148 |
 | 2023-09-11 | 136,043 | 149 |
-| 2023-09-12 | 136,048 | 149 |
+| 2023-09-12 | 136,049 | 149 |
 ## Awards
 Max (Great for Beginners): 4,734  (Ranked 71)  
 Sum: 27,207 (Ranked 49)  

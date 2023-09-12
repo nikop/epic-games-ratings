@@ -35,7 +35,7 @@
 | Intriguing candies | 58.00% | ~186 |
 | Legal courier | 56.00% | ~180 |
 | Extreme neuropower! | 55.00% | ~177 |
-| Escaped from a big trouble | 53.00% | ~170 |
+| Escaped from a big trouble | 54.00% | ~173 |
 | Now you are worthy | 50.00% | ~160 |
 | Fight is life | 48.00% | ~154 |
 | Mysterious voice | 47.00% | ~151 |

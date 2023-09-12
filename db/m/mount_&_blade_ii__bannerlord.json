@@ -6991,10 +6991,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14388,
       "NumberOfAwardsMax": 7065
+    },
+    {
+      "Time": "2023-09-12T01:37:47.7685514+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14390,
+      "NumberOfAwardsMax": 7065
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14388,
+  "NumberOfAwards": 14390,
   "NumberOfAwardsMax": 7065,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7032,7 +7038,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 811
+      "Count": 812
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7050,7 +7056,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 912
+      "Count": 913
     },
     {
       "Text": "This game is Relaxing",
@@ -7071,9 +7077,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60835,
+  "EOS_Progressed": 60836,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22351,6 +22357,11 @@
       "Time": "2023-09-11T23:05:05.6125338+00:00",
       "NumProgressed": 60835,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T01:45:08.1740543+00:00",
+      "NumProgressed": 60836,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22570,7 +22581,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4258
+      "UsersEstimate": 4259
     },
     {
       "ID": "Lance-a-lot",
@@ -22586,7 +22597,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19467
+      "UsersEstimate": 19468
     },
     {
       "ID": "Lawbringer",
@@ -22618,7 +22629,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4258
+      "UsersEstimate": 4259
     },
     {
       "ID": "Minor Clan",
@@ -22769,15 +22780,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60835,
+      "Progressed": 60836,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-11T15:58:05.3503201+00:00",
-  "LastChanged_Achievements": "2023-09-12T00:05:01.0905195+00:00",
+  "LastChanged": "2023-09-12T01:37:47.7685513+00:00",
+  "LastChanged_Achievements": "2023-09-12T01:45:08.1740539+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-11T23:57:59.8148367+00:00",
-  "LastUpdate_Achievements": "2023-09-12T00:05:01.0906248+00:00"
+  "LastUpdate_Ratings": "2023-09-12T01:37:47.7685519+00:00",
+  "LastUpdate_Achievements": "2023-09-12T01:45:08.1741536+00:00"
 }

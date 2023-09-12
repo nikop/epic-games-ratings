@@ -2088,9 +2088,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25757,
+  "EOS_Progressed": 25758,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12638,6 +12638,11 @@
       "Time": "2023-09-12T00:07:03.535679+00:00",
       "NumProgressed": 25757,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-12T01:47:31.9378843+00:00",
+      "NumProgressed": 25758,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 51,
@@ -12657,7 +12662,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6439
+      "UsersEstimate": 6440
     },
     {
       "ID": "Back_Off",
@@ -12697,7 +12702,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 13136
+      "UsersEstimate": 13137
     },
     {
       "ID": "Collector",
@@ -12713,7 +12718,7 @@
       "Name": "Cultured",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 12878
+      "UsersEstimate": 12879
     },
     {
       "ID": "Daily_Dose",
@@ -12721,7 +12726,7 @@
       "Name": "Daily Dose",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 8757
+      "UsersEstimate": 8758
     },
     {
       "ID": "Diabolical",
@@ -12761,7 +12766,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 16227
+      "UsersEstimate": 16228
     },
     {
       "ID": "Escape_Artist",
@@ -12785,7 +12790,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 13651
+      "UsersEstimate": 13652
     },
     {
       "ID": "GB_In_Training",
@@ -12865,7 +12870,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6439
+      "UsersEstimate": 6440
     },
     {
       "ID": "Reckless",
@@ -12921,7 +12926,7 @@
       "Name": "Side Hustle",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6954
+      "UsersEstimate": 6955
     },
     {
       "ID": "Skilled",
@@ -12945,7 +12950,7 @@
       "Name": "Stunner",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6439
+      "UsersEstimate": 6440
     },
     {
       "ID": "Stylish",
@@ -12953,7 +12958,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 22151
+      "UsersEstimate": 22152
     },
     {
       "ID": "Summoner",
@@ -12961,7 +12966,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6954
+      "UsersEstimate": 6955
     },
     {
       "ID": "Surprise",
@@ -12977,7 +12982,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 13651
+      "UsersEstimate": 13652
     },
     {
       "ID": "Teamwork",
@@ -13033,7 +13038,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12363
+      "UsersEstimate": 12364
     },
     {
       "ID": "Welcome_Crew",
@@ -13049,14 +13054,14 @@
       "Name": "Whoopsie",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3348
+      "UsersEstimate": 3349
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25757,
+      "Progressed": 25758,
       "Completed": 55
     }
   ],
@@ -13064,8 +13069,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-11T20:57:07.3509116+00:00",
-  "LastChanged_Achievements": "2023-09-12T00:07:03.5356786+00:00",
+  "LastChanged_Achievements": "2023-09-12T01:47:31.937884+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-11T23:57:14.7339563+00:00",
-  "LastUpdate_Achievements": "2023-09-12T00:07:03.5357589+00:00"
+  "LastUpdate_Ratings": "2023-09-12T01:36:49.7466979+00:00",
+  "LastUpdate_Achievements": "2023-09-12T01:47:31.9379656+00:00"
 }

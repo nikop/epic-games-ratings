@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 279,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 60,
@@ -1537,9 +1537,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 201610,
+  "EOS_Progressed": 201616,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 1496,
+  "EOS_NewPlayers": 1495,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17752,6 +17752,11 @@
       "Time": "2023-09-12T00:08:07.339068+00:00",
       "NumProgressed": 201610,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-12T01:47:47.7643633+00:00",
+      "NumProgressed": 201616,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 44,
@@ -17827,7 +17832,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8064
+      "UsersEstimate": 8065
     },
     {
       "ID": "Genin",
@@ -17835,7 +17840,7 @@
       "Name": "Genin",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 22177
+      "UsersEstimate": 22178
     },
     {
       "ID": "HappyLittleAccidents",
@@ -17843,7 +17848,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8064
+      "UsersEstimate": 8065
     },
     {
       "ID": "HappyPlanning",
@@ -17939,7 +17944,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     },
     {
       "ID": "OldMan",
@@ -17963,7 +17968,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     },
     {
       "ID": "ReleaseTheKraken",
@@ -17995,7 +18000,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8064
+      "UsersEstimate": 8065
     },
     {
       "ID": "Stoned",
@@ -18051,7 +18056,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 20161
+      "UsersEstimate": 20162
     },
     {
       "ID": "TimeParadox",
@@ -18075,7 +18080,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10080
+      "UsersEstimate": 10081
     },
     {
       "ID": "Warzone",
@@ -18091,7 +18096,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "WinnerWinner",
@@ -18114,15 +18119,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 201610,
+      "Progressed": 201616,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-11T01:43:07.0804036+00:00",
-  "LastChanged_Achievements": "2023-09-12T00:08:07.3390675+00:00",
+  "LastChanged_Achievements": "2023-09-12T01:47:47.7643629+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.2415553+00:00",
-  "LastUpdate_Ratings": "2023-09-11T23:57:18.2551742+00:00",
-  "LastUpdate_Achievements": "2023-09-12T00:08:07.3391685+00:00"
+  "LastUpdate_Ratings": "2023-09-12T01:36:53.7464601+00:00",
+  "LastUpdate_Achievements": "2023-09-12T01:47:47.7644669+00:00"
 }

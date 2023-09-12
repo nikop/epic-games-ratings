@@ -13,18 +13,18 @@
 | The darkness | 31.00% | ~44 |
 | A good beginning | 30.00% | ~43 |
 | True G4M3R | 29.00% | ~41 |
-| One last step | 24.00% | ~34 |
-| Cable guy | 23.00% | ~33 |
-| Champollion | 23.00% | ~33 |
+| One last step | 25.00% | ~36 |
+| Cable guy | 24.00% | ~34 |
+| Champollion | 24.00% | ~34 |
 | Open door | 22.00% | ~31 |
 | In this together | 21.00% | ~30 |
+| Half the way | 21.00% | ~30 |
 | Peace walker | 20.00% | ~29 |
-| Half the way | 20.00% | ~29 |
 | Feels like springtime | 18.00% | ~26 |
 | Free at last | 17.00% | ~24 |
 | Rascal | 17.00% | ~24 |
 | Alchemists Express | 16.00% | ~23 |
-| A Link to the Past | 14.00% | ~20 |
+| A Link to the Past | 15.00% | ~21 |
 | Fashion victim | 13.00% | ~19 |
 | For its own good | 11.00% | ~16 |
 | A great audience | 10.00% | ~14 |
