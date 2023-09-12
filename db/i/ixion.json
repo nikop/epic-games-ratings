@@ -2,13 +2,13 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 485,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 98,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -5032,9 +5032,9 @@
       "ID": "ACH_BASE_2",
       "SetID": "92iocjf",
       "Name": "Guy de Borderlands",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_BASE_21",
@@ -5423,8 +5423,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-08-28T10:57:03.0237068+00:00",
-  "LastChanged_Achievements": "2023-09-12T22:06:16.7611287+00:00",
+  "LastChanged_Achievements": "2023-09-12T23:07:27.2739845+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:57.7460661+00:00",
-  "LastUpdate_Ratings": "2023-09-12T22:02:09.583916+00:00",
-  "LastUpdate_Achievements": "2023-09-12T22:06:16.7612066+00:00"
+  "LastUpdate_Ratings": "2023-09-12T23:03:15.0847658+00:00",
+  "LastUpdate_Achievements": "2023-09-12T23:07:27.2740788+00:00"
 }

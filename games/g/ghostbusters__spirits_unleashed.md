@@ -8,6 +8,7 @@ Rating: 4.50 (Ranked 563)
 | Advancement | 0.10% | ~26 |
 | Animated | 0.10% | ~26 |
 | We have the best insurance | 0.10% | ~26 |
+| Catostrophic Destroyer | 0.10% | ~26 |
 | I collect Spores, Molds, and Fungi | 0.10% | ~26 |
 | Collector | 0.10% | ~26 |
 | Cultured | 0.10% | ~26 |
@@ -23,6 +24,7 @@ Rating: 4.50 (Ranked 563)
 | Line em' up | 0.10% | ~26 |
 | Little Help Here | 0.10% | ~26 |
 | Pesky Jerks | 0.10% | ~26 |
+| Right back at ya | 0.10% | ~26 |
 | Rivalry | 0.10% | ~26 |
 | Seasoned | 0.10% | ~26 |
 | Side Hustle | 0.10% | ~26 |
@@ -31,6 +33,7 @@ Rating: 4.50 (Ranked 563)
 | Stunner | 0.10% | ~26 |
 | Stylish | 0.10% | ~26 |
 | Summoner | 0.10% | ~26 |
+| Swift Rift Removers | 0.10% | ~26 |
 | Teamwork | 0.10% | ~26 |
 | Terrifying | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
@@ -39,7 +42,6 @@ Rating: 4.50 (Ranked 563)
 | Welcome to the Crew | 0.10% | ~26 |
 | Whoopsie | 0.10% | ~26 |
 | Back Off | 0.00% | ~0 |
-| Catostrophic Destroyer | 0.00% | ~0 |
 | Clutch Capture | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
 | Fragile Panes | 0.00% | ~0 |
@@ -51,13 +53,11 @@ Rating: 4.50 (Ranked 563)
 | Reckless | 0.00% | ~0 |
 | Rift Destroyer | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |
-| Right back at ya | 0.00% | ~0 |
 | Surprise! | 0.00% | ~0 |
-| Swift Rift Removers | 0.00% | ~0 |
 | Tobin's Prodigy | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,767 (Ranked 104)  
+Progressed: 25,768 (Ranked 104)  
 Completed: 55 (0.21%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 55 (0.21%) (Ranked 196)
 | 2023-09-09 | 25,714 | 55 |
 | 2023-09-10 | 25,740 | 55 |
 | 2023-09-11 | 25,755 | 55 |
-| 2023-09-12 | 25,767 | 55 |
+| 2023-09-12 | 25,768 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 253)  
 Sum: 2,306 (Ranked 188)  

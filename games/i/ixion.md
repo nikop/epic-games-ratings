@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 486)  
+Rating: 4.55 (Ranked 485)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,10 +13,10 @@ Rating: 4.55 (Ranked 486)
 | Space Society | 15.00% | ~474 |
 | A Thousand Strong | 15.00% | ~474 |
 | Permanent Redesigns | 14.00% | ~442 |
+| Guy de Borderlands | 12.00% | ~379 |
 | Fully Recycled | 12.00% | ~379 |
 | Ain't Nobody Got Time for That | 12.00% | ~379 |
 | The Ship of Theseus | 12.00% | ~379 |
-| Guy de Borderlands | 11.00% | ~347 |
 | Hope Seeker | 11.00% | ~347 |
 | Exceeding Capacity | 10.00% | ~316 |
 | Breaking Protocol | 10.00% | ~316 |

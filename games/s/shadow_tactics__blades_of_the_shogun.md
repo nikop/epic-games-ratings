@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,196 |
-| A thief's beginning | 10.00% | ~20,178 |
-| Thorough | 10.00% | ~20,178 |
+| Genin | 11.00% | ~22,197 |
+| A thief's beginning | 10.00% | ~20,179 |
+| Thorough | 10.00% | ~20,179 |
 | Disguised | 8.00% | ~16,143 |
 | Rescue Takuma | 8.00% | ~16,143 |
 | Rollin' | 8.00% | ~16,143 |
@@ -25,12 +25,12 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,089 |
 | Prisoners | 5.00% | ~10,089 |
 | Too Early | 5.00% | ~10,089 |
-| Gear up | 4.00% | ~8,071 |
-| Happy little accidents | 4.00% | ~8,071 |
-| Still Rollin' | 4.00% | ~8,071 |
-| Noboru | 3.00% | ~6,053 |
-| Stoned | 3.00% | ~6,053 |
-| The Old Way | 3.00% | ~6,053 |
+| Gear up | 4.00% | ~8,072 |
+| Happy little accidents | 4.00% | ~8,072 |
+| Still Rollin' | 4.00% | ~8,072 |
+| Noboru | 3.00% | ~6,054 |
+| Stoned | 3.00% | ~6,054 |
+| The Old Way | 3.00% | ~6,054 |
 | Atheist Ox | 2.00% | ~4,036 |
 | It's raining men | 2.00% | ~4,036 |
 | No Gimmicks | 2.00% | ~4,036 |
@@ -41,7 +41,7 @@ Number of Ratings: 495  (23.09.2022)
 | Undeserved Honor | 1.00% | ~2,018 |
 | When Cut Across the Neck | 0.90% | ~1,816 |
 | High Five the Moon | 0.80% | ~1,614 |
-| The Cave | 0.70% | ~1,412 |
+| The Cave | 0.70% | ~1,413 |
 | Merciful | 0.50% | ~1,009 |
 | Time Paradox | 0.50% | ~1,009 |
 | Five Shadows | 0.30% | ~605 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,783 (Ranked 61)  
+Progressed: 201,788 (Ranked 61)  
 Completed: 79 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 79 (0.04%) (Ranked 241)
 | 2023-09-09 | 201,158 | 77 |
 | 2023-09-10 | 201,431 | 77 |
 | 2023-09-11 | 201,603 | 77 |
-| 2023-09-12 | 201,783 | 79 |
+| 2023-09-12 | 201,788 | 79 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
 Sum: 4,752 (Ranked 136)  

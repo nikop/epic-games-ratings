@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 71.00% | ~1,297 |
-| A Thorny Situation | 65.00% | ~1,188 |
-| ... And Spit Back Out | 50.00% | ~914 |
-| Break-Net Speed | 38.00% | ~694 |
-| Bramble Breaker | 30.00% | ~548 |
-| Miner 49er | 27.00% | ~493 |
-| Humble Collector | 26.00% | ~475 |
-| Calm Sailing | 14.00% | ~256 |
-| Oui, Chef! | 14.00% | ~256 |
-| Open the Gate! | 12.00% | ~219 |
-| Lumberjack | 12.00% | ~219 |
-| Mist Walker | 10.00% | ~183 |
-| Beach Comber | 6.00% | ~110 |
-| Botanical Breakthrough | 5.00% | ~91 |
+| Azoria Beckons | 71.00% | ~1,313 |
+| A Thorny Situation | 65.00% | ~1,202 |
+| ... And Spit Back Out | 50.00% | ~924 |
+| Break-Net Speed | 38.00% | ~703 |
+| Bramble Breaker | 30.00% | ~555 |
+| Miner 49er | 27.00% | ~499 |
+| Humble Collector | 26.00% | ~481 |
+| Calm Sailing | 15.00% | ~277 |
+| Oui, Chef! | 14.00% | ~259 |
+| Open the Gate! | 12.00% | ~222 |
+| Lumberjack | 12.00% | ~222 |
+| Mist Walker | 10.00% | ~185 |
+| Beach Comber | 6.00% | ~111 |
+| Botanical Breakthrough | 5.00% | ~92 |
 | Clear the Air | 3.00% | ~55 |
 | Search for the Hairy Grell | 2.00% | ~37 |
 | Higher Tax Bracket | 2.00% | ~37 |
@@ -26,10 +26,10 @@
 | Fanatical Farmer | 1.00% | ~18 |
 | Chatty Neighbor | 1.00% | ~18 |
 | Skilled | 1.00% | ~18 |
-| I Now Pronounce You... | 0.90% | ~16 |
+| I Now Pronounce You... | 0.90% | ~17 |
 | Azorian Anniversary | 0.80% | ~15 |
-| Scattered Scroll Scrounger | 0.70% | ~13 |
 | Right Tool For the Job | 0.70% | ~13 |
+| Scattered Scroll Scrounger | 0.60% | ~11 |
 | Captain of Cozy | 0.60% | ~11 |
 | House Proud | 0.50% | ~9 |
 | Flaming Hot Completos | 0.40% | ~7 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~2 |
 | Very Skilled | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,827 (Ranked 184)  
+Progressed: 1,849 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,4 +59,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-09 | 402 | 0 |
 | 2023-09-10 | 624 | 0 |
 | 2023-09-11 | 1,169 | 0 |
-| 2023-09-12 | 1,827 | 0 |
+| 2023-09-12 | 1,849 | 0 |

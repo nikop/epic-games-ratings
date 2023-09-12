@@ -1,23 +1,23 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 468)  
+Rating: 4.55 (Ranked 485)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 55.00% | ~3,743 |
-| Tutti Eroi! | 55.00% | ~3,743 |
-| You Shall Not Pass | 53.00% | ~3,607 |
+| Peak Performance | 55.00% | ~3,744 |
+| Tutti Eroi! | 55.00% | ~3,744 |
+| You Shall Not Pass | 53.00% | ~3,608 |
 | Avanti Savoia! | 48.00% | ~3,267 |
-| Mamma Mia! | 38.00% | ~2,586 |
-| Conrad von Hotzensocks | 36.00% | ~2,450 |
+| Mamma Mia! | 38.00% | ~2,587 |
+| Conrad von Hotzensocks | 36.00% | ~2,451 |
 | Gabriele D'Annunzio | 34.00% | ~2,314 |
 | Silver Lining | 30.00% | ~2,042 |
-| Aurelio Baruzzi | 24.00% | ~1,633 |
-| Decimation | 22.00% | ~1,497 |
-| Donatello | 22.00% | ~1,497 |
-| Veni Vidi Vici | 22.00% | ~1,497 |
+| Aurelio Baruzzi | 24.00% | ~1,634 |
+| Decimation | 22.00% | ~1,498 |
+| Donatello | 22.00% | ~1,498 |
+| Veni Vidi Vici | 22.00% | ~1,498 |
 | The Italian Job | 21.00% | ~1,429 |
 | Insubordination | 20.00% | ~1,361 |
 | Ragazzi del '99 | 18.00% | ~1,225 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,806 (Ranked 140)  
+Progressed: 6,807 (Ranked 140)  
 Completed: 8 (0.12%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 8 (0.12%) (Ranked 212)
 | 2023-09-09 | 6,761 | 8 |
 | 2023-09-10 | 6,775 | 8 |
 | 2023-09-11 | 6,791 | 8 |
-| 2023-09-12 | 6,806 | 8 |
+| 2023-09-12 | 6,807 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 441)  
 Sum: 273 (Ranked 351)  
@@ -318,3 +318,4 @@ Diff (max vs sum): 90
 | 2023-08-31 | 4.56 | - | 36 | 270 |
 | 2023-09-02 | 4.56 | - | 36 | 271 |
 | 2023-09-10 | 4.56 | - | 36 | 273 |
+| 2023-09-12 | 4.55 | - | 36 | 273 |

@@ -6592,9 +6592,9 @@
       "Count": 3413
     }
   ],
-  "EOS_Progressed": 228554,
+  "EOS_Progressed": 228561,
   "EOS_Completed": 2273,
-  "EOS_NewPlayers": 1191,
+  "EOS_NewPlayers": 1180,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
@@ -22677,6 +22677,11 @@
       "Time": "2023-09-12T22:04:11.0839083+00:00",
       "NumProgressed": 228554,
       "NumCompleted": 2273
+    },
+    {
+      "Time": "2023-09-12T23:04:55.4997015+00:00",
+      "NumProgressed": 228561,
+      "NumCompleted": 2273
     }
   ],
   "TotalAchievements": 520,
@@ -24374,9 +24379,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 686
     },
     {
       "ID": "objective_completed_36",
@@ -26816,7 +26821,7 @@
       "Name": "Legends and Lore",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "objective_completed_1366",
@@ -26847,21 +26852,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194828,
-      "Completed": 3421
+      "Progressed": 194835,
+      "Completed": 3422
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228554,
+      "Progressed": 228561,
       "Completed": 2273
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-12T17:01:29.1773081+00:00",
-  "LastChanged_Achievements": "2023-09-12T22:04:11.0839079+00:00",
+  "LastChanged_Achievements": "2023-09-12T23:04:55.4997003+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-12T22:00:16.3902904+00:00",
-  "LastUpdate_Achievements": "2023-09-12T22:04:11.0870052+00:00"
+  "LastUpdate_Ratings": "2023-09-12T23:01:27.6264434+00:00",
+  "LastUpdate_Achievements": "2023-09-12T23:04:55.5028835+00:00"
 }

@@ -6,12 +6,12 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 35.00% | ~961 |
-| It's a good start | 9.00% | ~247 |
-| Quack | 7.00% | ~192 |
+| Bye Bye | 35.00% | ~962 |
+| It's a good start | 9.00% | ~248 |
+| Quack | 7.00% | ~193 |
 | Bonjour! | 6.00% | ~165 |
-| The Assistant | 5.00% | ~137 |
-| The Blue Marl | 5.00% | ~137 |
+| The Assistant | 5.00% | ~138 |
+| The Blue Marl | 5.00% | ~138 |
 | Ostinata | 4.00% | ~110 |
 | A long journey | 4.00% | ~110 |
 | Better than nothing? | 4.00% | ~110 |
@@ -24,21 +24,21 @@ Number of Ratings: 7,669  (23.09.2022)
 | Millionaire | 2.00% | ~55 |
 | Exotic | 2.00% | ~55 |
 | Very Important Winemaker | 2.00% | ~55 |
-| A lot of space | 1.00% | ~27 |
-| Pastry Chef | 1.00% | ~27 |
-| Welcome to the club | 1.00% | ~27 |
-| King of Langhe | 1.00% | ~27 |
-| Gem of Monferrato | 1.00% | ~27 |
+| A lot of space | 1.00% | ~28 |
+| Pastry Chef | 1.00% | ~28 |
+| Welcome to the club | 1.00% | ~28 |
+| King of Langhe | 1.00% | ~28 |
+| Gem of Monferrato | 1.00% | ~28 |
 | Treasure of Roero | 0.70% | ~19 |
 | Knight of Langhe | 0.50% | ~14 |
 | King of red wines | 0.40% | ~11 |
 | King of white wines | 0.30% | ~8 |
 | Sales Expert | 0.30% | ~8 |
 | Big deals | 0.30% | ~8 |
-| Master Winemaker | 0.20% | ~5 |
-| Unsuitable Terroir | 0.20% | ~5 |
+| Master Winemaker | 0.20% | ~6 |
+| Unsuitable Terroir | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,747 (Ranked 171)  
+Progressed: 2,750 (Ranked 171)  
 Completed: 5 (0.18%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 5 (0.18%) (Ranked 200)
 | 2023-09-09 | 2,185 | 3 |
 | 2023-09-10 | 2,407 | 4 |
 | 2023-09-11 | 2,572 | 4 |
-| 2023-09-12 | 2,747 | 5 |
+| 2023-09-12 | 2,750 | 5 |
 ## Awards
 Max (Relaxing): 205  (Ranked 273)  
 Sum: 1,462 (Ranked 224)  

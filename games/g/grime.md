@@ -6,32 +6,32 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~130,418 |
-| Taste | 84.00% | ~124,490 |
-| The Hunt | 66.00% | ~97,813 |
-| Ravenous | 63.00% | ~93,367 |
-| Weeper | 43.00% | ~63,727 |
-| Devourer | 23.00% | ~34,086 |
-| Harmless | 19.00% | ~28,158 |
-| Silenced Whispers | 19.00% | ~28,158 |
-| Sharpened Vessel | 16.00% | ~23,712 |
-| Yank | 15.00% | ~22,230 |
-| Scion | 12.00% | ~17,734 |
-| Jawcrab | 12.00% | ~17,784 |
-| Jawstag | 12.00% | ~17,784 |
-| Feast | 12.00% | ~17,784 |
-| Watcher | 10.00% | ~14,820 |
-| Shapely | 9.00% | ~13,338 |
-| Glare | 9.00% | ~13,301 |
-| Predator | 8.00% | ~11,856 |
-| Assimilation | 7.00% | ~10,374 |
-| Host | 6.00% | ~8,867 |
-| Celebration | 6.00% | ~8,892 |
-| Hunt Down | 5.00% | ~7,410 |
-| Artisan | 5.00% | ~7,410 |
-| Hush | 5.00% | ~7,410 |
-| Breathsmith | 5.00% | ~7,410 |
-| Dream | 5.00% | ~7,389 |
+| Imprint | 88.00% | ~130,427 |
+| Taste | 84.00% | ~124,498 |
+| The Hunt | 66.00% | ~97,820 |
+| Ravenous | 63.00% | ~93,374 |
+| Weeper | 43.00% | ~63,731 |
+| Devourer | 23.00% | ~34,089 |
+| Harmless | 19.00% | ~28,160 |
+| Silenced Whispers | 19.00% | ~28,160 |
+| Sharpened Vessel | 16.00% | ~23,714 |
+| Yank | 15.00% | ~22,232 |
+| Scion | 12.00% | ~17,735 |
+| Jawcrab | 12.00% | ~17,785 |
+| Jawstag | 12.00% | ~17,785 |
+| Feast | 12.00% | ~17,785 |
+| Watcher | 10.00% | ~14,821 |
+| Shapely | 9.00% | ~13,339 |
+| Glare | 9.00% | ~13,302 |
+| Predator | 8.00% | ~11,857 |
+| Assimilation | 7.00% | ~10,375 |
+| Host | 6.00% | ~8,868 |
+| Celebration | 6.00% | ~8,893 |
+| Hunt Down | 5.00% | ~7,411 |
+| Artisan | 5.00% | ~7,411 |
+| Hush | 5.00% | ~7,411 |
+| Breathsmith | 5.00% | ~7,411 |
+| Dream | 5.00% | ~7,390 |
 | Breath | 4.00% | ~5,928 |
 | Inevitable | 4.00% | ~5,928 |
 | Unwrap the Gift | 4.00% | ~5,928 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.80% | ~1,186 |
 | Spiral Heart | 0.10% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,202 (Ranked 66)  
+Progressed: 148,212 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,10 +175,10 @@ Completed: 1 (0.00%) (Ranked 273)
 | 2023-09-09 | 147,411 | 1 |
 | 2023-09-10 | 147,746 | 1 |
 | 2023-09-11 | 147,973 | 1 |
-| 2023-09-12 | 148,202 | 1 |
+| 2023-09-12 | 148,212 | 1 |
 ## Awards
 Max (Highly Recommended): 33  (Ranked 454)  
-Sum: 217 (Ranked 368)  
+Sum: 219 (Ranked 368)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
@@ -186,9 +186,9 @@ Diff (max vs sum): 86
 | This game has Quickly Understood Controls | 30 |
 | This game has Challenging Combat | 28 |
 | This game has Unique Visuals | 28 |
+| This game has Amazing Storytelling | 27 |
 | This game has a Creative Community | 26 |
 | This game is Extremely Fun | 26 |
-| This game has Amazing Storytelling | 25 |
 | This game has Amazing Characters | 21 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -279,3 +279,4 @@ Diff (max vs sum): 86
 | 2023-09-09 | 4.59 | - | 32 | 214 |
 | 2023-09-10 | 4.59 | - | 32 | 216 |
 | 2023-09-11 | 4.59 | - | 33 | 217 |
+| 2023-09-12 | 4.59 | - | 33 | 219 |

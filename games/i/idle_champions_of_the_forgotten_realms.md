@@ -14,12 +14,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~686 |
 | Were-verpowered | 0.30% | ~686 |
 | A Persistent Buzzing | 0.30% | ~686 |
+| The Crumbling Temple | 0.30% | ~686 |
 | Seeking Allies | 0.30% | ~686 |
 | Are Ya Chicken? | 0.30% | ~686 |
 | Mad Cow Disease | 0.30% | ~686 |
 | Friendly Imps | 0.30% | ~686 |
 | Pure Energy | 0.30% | ~686 |
-| Legends and Lore | 0.30% | ~584 |
+| Legends and Lore | 0.30% | ~585 |
 | Tall Tales | 0.20% | ~390 |
 | The Witchlight Carnival | 0.20% | ~390 |
 | The Silken Swamp | 0.20% | ~457 |
@@ -41,7 +42,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Botched Kidnapping | 0.20% | ~457 |
 | Trollskull Manor | 0.20% | ~457 |
 | Attack on the Manor | 0.20% | ~457 |
-| The Crumbling Temple | 0.20% | ~457 |
 | The Death Curse | 0.20% | ~457 |
 | Useless Allies | 0.20% | ~457 |
 | Exploring Port Nyanzaru | 0.20% | ~457 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,554 (Ranked 54)  
+Progressed: 228,561 (Ranked 54)  
 Completed: 2,273 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -672,7 +672,7 @@ Completed: 2,273 (0.99%) (Ranked 124)
 | 2023-09-09 | 228,168 | 2,265 |
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
-| 2023-09-12 | 228,554 | 2,273 |
+| 2023-09-12 | 228,561 | 2,273 |
 ## Awards
 Max (Diverse Characters): 5,266  (Ranked 67)  
 Sum: 31,551 (Ranked 39)  

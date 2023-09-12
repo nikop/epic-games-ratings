@@ -56,8 +56,8 @@
 | Your own way | 36.00% | ~116 |
 | Problems of cyborgs | 35.00% | ~113 |
 | Absolute Champion! | 35.00% | ~113 |
+| Anyone can resist | 35.00% | ~113 |
 | Not little hacker | 34.00% | ~110 |
-| Anyone can resist | 34.00% | ~110 |
 | Trap disarmed | 33.00% | ~107 |
 | Another world | 33.00% | ~107 |
 | The lonesome road | 33.00% | ~107 |

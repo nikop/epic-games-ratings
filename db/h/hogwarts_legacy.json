@@ -7554,9 +7554,9 @@
       "Count": 638
     }
   ],
-  "EOS_Progressed": 296498,
+  "EOS_Progressed": 296501,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1639,
+  "EOS_NewPlayers": 1618,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23314,6 +23314,11 @@
       "Time": "2023-09-12T22:08:06.450277+00:00",
       "NumProgressed": 296498,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-12T23:08:14.2207069+00:00",
+      "NumProgressed": 296501,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23437,7 +23442,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "PFA_23",
@@ -23565,7 +23570,7 @@
       "Name": "Merlin\u0027s Beard!",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2668
+      "UsersEstimate": 2669
     },
     {
       "ID": "PFA_38",
@@ -23684,7 +23689,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296498,
+      "Progressed": 296501,
       "Completed": 470
     }
   ],
@@ -23692,8 +23697,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-12T20:00:38.8100811+00:00",
-  "LastChanged_Achievements": "2023-09-12T22:08:06.4502765+00:00",
+  "LastChanged_Achievements": "2023-09-12T23:08:14.2207064+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-12T21:59:44.9243684+00:00",
-  "LastUpdate_Achievements": "2023-09-12T22:08:06.4504215+00:00"
+  "LastUpdate_Ratings": "2023-09-12T23:00:48.3216871+00:00",
+  "LastUpdate_Achievements": "2023-09-12T23:08:14.2208484+00:00"
 }
