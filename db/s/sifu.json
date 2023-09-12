@@ -6210,9 +6210,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 714668,
+  "EOS_Progressed": 714682,
   "EOS_Completed": 12890,
-  "EOS_NewPlayers": 1719,
+  "EOS_NewPlayers": 1733,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -19535,6 +19535,11 @@
       "Time": "2023-09-12T03:05:00.6128449+00:00",
       "NumProgressed": 714668,
       "NumCompleted": 12890
+    },
+    {
+      "Time": "2023-09-12T04:04:24.1170704+00:00",
+      "NumProgressed": 714682,
+      "NumCompleted": 12890
     }
   ],
   "TotalAchievements": 60,
@@ -19552,9 +19557,9 @@
       "ID": "02_Vengeance_H1",
       "SetID": "adcm20g",
       "Name": "The Assault",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 1429
     },
     {
       "ID": "03_Vengeance_H2",
@@ -20025,21 +20030,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 23969,
+      "Progressed": 23983,
       "Completed": 10612
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 714668,
+      "Progressed": 714682,
       "Completed": 12890
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-11T20:57:22.0822203+00:00",
-  "LastChanged_Achievements": "2023-09-12T03:05:00.6128444+00:00",
+  "LastChanged_Achievements": "2023-09-12T04:04:24.1170698+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.7541411+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:57:51.5194517+00:00",
-  "LastUpdate_Achievements": "2023-09-12T03:05:00.6129716+00:00"
+  "LastUpdate_Ratings": "2023-09-12T03:57:34.1053773+00:00",
+  "LastUpdate_Achievements": "2023-09-12T04:04:24.11721+00:00"
 }

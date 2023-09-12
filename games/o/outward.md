@@ -185,12 +185,12 @@ Completed: 3 (0.09%) (Ranked 223)
 | 2023-09-09 | 3,342 | 3 |
 | 2023-09-10 | 3,343 | 3 |
 ## Awards
-Max (Highly Recommended): 33  (Ranked 453)  
-Sum: 242 (Ranked 359)  
-Diff (max vs sum): 94  
+Max (Highly Recommended): 34  (Ranked 449)  
+Sum: 243 (Ranked 359)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 33 |
+| This game is Highly Recommended | 34 |
 | This game has Amazing Characters | 31 |
 | This game has Unique Visuals | 30 |
 | This game has Challenging Combat | 29 |
@@ -265,3 +265,4 @@ Diff (max vs sum): 94
 | 2023-06-15 | 4.55 | - | 31 | 239 |
 | 2023-07-11 | 4.55 | - | 33 | 241 |
 | 2023-08-16 | 4.55 | - | 33 | 242 |
+| 2023-09-12 | 4.55 | - | 34 | 243 |

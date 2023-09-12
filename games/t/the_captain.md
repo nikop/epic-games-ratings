@@ -1,15 +1,15 @@
 # The Captain
 [Store](https://store.epicgames.com/en-US/p/the-captain)  
 [View Rawdata](../../db/t/the_captain.json)  
-Rating: 4.44 (Ranked 649)  
+Rating: 4.44 (Ranked 648)  
 Number of Ratings: 2,117  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 97  (Ranked 344)  
-Sum: 663 (Ranked 288)  
-Diff (max vs sum): 56  
+Max (Extremely Fun): 98  (Ranked 341)  
+Sum: 664 (Ranked 288)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 97 |
+| This game is Extremely Fun | 98 |
 | This game is Highly Recommended | 90 |
 | This game has Amazing Characters | 81 |
 | This game has Diverse Characters | 77 |
@@ -39,3 +39,4 @@ Diff (max vs sum): 56
 | 2022-10-06 | 4.44 | - | - | - |
 | 2023-09-02 | 4.44 | - | 97 | 662 |
 | 2023-09-04 | 4.44 | - | 97 | 663 |
+| 2023-09-12 | 4.44 | - | 98 | 664 |

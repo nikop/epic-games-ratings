@@ -3,7 +3,7 @@
   "Name": "Maneater",
   "ProductSlug": "maneater",
   "Ranking_Rating": 582,
-  "Ranking_Popularity": 26,
+  "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 273,
@@ -3048,6 +3048,6 @@
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
   "LastChanged": "2023-09-12T01:37:50.8536651+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.0189791+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:58:44.8297757+00:00",
-  "LastUpdate_Achievements": "2023-09-12T03:07:20.7495278+00:00"
+  "LastUpdate_Ratings": "2023-09-12T03:58:12.23051+00:00",
+  "LastUpdate_Achievements": "2023-09-12T04:06:00.8739313+00:00"
 }

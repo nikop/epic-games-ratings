@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5551,
+  "EOS_Progressed": 5556,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2753,
+  "EOS_NewPlayers": 2722,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1116,6 +1116,11 @@
       "Time": "2023-09-12T03:04:32.3933458+00:00",
       "NumProgressed": 5551,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-12T04:04:04.9667582+00:00",
+      "NumProgressed": 5556,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1206,9 +1211,9 @@
       "ID": "EAUpgraded1",
       "SetID": "12d07c7",
       "Name": "Upgraded Energy Amplifier to Level 3",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "EEUpgraded1",
@@ -1240,7 +1245,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "GamesPlayed1",
@@ -1248,7 +1253,7 @@
       "Name": "Played a Match",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1945
     },
     {
       "ID": "GamesPlayed10",
@@ -1272,7 +1277,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "GamesWon10",
@@ -1719,14 +1724,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5551,
+      "Progressed": 5556,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-12T03:04:32.3933453+00:00",
+  "LastChanged_Achievements": "2023-09-12T04:04:04.9667574+00:00",
   "LastUpdate_AppInfo": "2023-09-05T07:57:01.3447006+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:59:34.7704272+00:00",
-  "LastUpdate_Achievements": "2023-09-12T03:04:32.393457+00:00"
+  "LastUpdate_Ratings": "2023-09-12T03:58:47.7697119+00:00",
+  "LastUpdate_Achievements": "2023-09-12T04:04:04.966849+00:00"
 }

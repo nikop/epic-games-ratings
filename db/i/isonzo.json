@@ -820,9 +820,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6792,
+  "EOS_Progressed": 6793,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5145,6 +5145,11 @@
       "Time": "2023-09-12T00:06:50.4242756+00:00",
       "NumProgressed": 6792,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-12T04:07:01.5549576+00:00",
+      "NumProgressed": 6793,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5156,7 +5161,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -5172,7 +5177,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -5268,7 +5273,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 2309
+      "UsersEstimate": 2310
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -5284,7 +5289,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -5394,9 +5399,9 @@
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
       "SetID": "akchbl3",
       "Name": "Shaken, Not Stirred",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 951
+      "UsersEstimate": 883
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -5444,7 +5449,7 @@
       "Name": "The Italian Job",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -5515,7 +5520,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6792,
+      "Progressed": 6793,
       "Completed": 8
     }
   ],
@@ -5523,8 +5528,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-10T22:59:24.1957519+00:00",
-  "LastChanged_Achievements": "2023-09-12T03:08:49.7283087+00:00",
+  "LastChanged_Achievements": "2023-09-12T04:07:01.554957+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:39.7993209+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:01:19.4952167+00:00",
-  "LastUpdate_Achievements": "2023-09-12T03:08:49.7283731+00:00"
+  "LastUpdate_Ratings": "2023-09-12T03:59:54.7984759+00:00",
+  "LastUpdate_Achievements": "2023-09-12T04:07:01.5550202+00:00"
 }

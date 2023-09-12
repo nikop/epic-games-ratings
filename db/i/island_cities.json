@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 18,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 684,
+  "EOS_Progressed": 685,
   "EOS_Completed": 102,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 14.91,
+  "EOS_Completed_Percentage": 14.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2788,6 +2788,11 @@
       "Time": "2023-09-12T03:06:18.6668634+00:00",
       "NumProgressed": 684,
       "NumCompleted": 102
+    },
+    {
+      "Time": "2023-09-12T04:05:18.0699697+00:00",
+      "NumProgressed": 685,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 22,
@@ -2799,7 +2804,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "LEVEL_002",
@@ -2807,7 +2812,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "LEVEL_003",
@@ -2815,7 +2820,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "LEVEL_004",
@@ -2823,7 +2828,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "LEVEL_005",
@@ -2831,15 +2836,15 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 287
+      "UsersEstimate": 281
     },
     {
       "ID": "LEVEL_007",
@@ -2847,7 +2852,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "LEVEL_008",
@@ -2879,7 +2884,7 @@
       "Name": "At the heart of the city",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "LEVEL_012",
@@ -2935,7 +2940,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "LEVEL_019",
@@ -2974,7 +2979,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 684,
+      "Progressed": 685,
       "Completed": 102
     }
   ],
@@ -2982,8 +2987,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-12T03:06:18.6668629+00:00",
+  "LastChanged_Achievements": "2023-09-12T04:05:18.0699688+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-12T03:01:40.871644+00:00",
-  "LastUpdate_Achievements": "2023-09-12T03:06:18.6669239+00:00"
+  "LastUpdate_Ratings": "2023-09-12T04:00:10.1817195+00:00",
+  "LastUpdate_Achievements": "2023-09-12T04:05:18.070005+00:00"
 }

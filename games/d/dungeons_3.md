@@ -8,28 +8,28 @@ Number of Ratings: 1,635  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Shadow strikes | 69.00% | ~20,801 |
 | The Evilest Evil | 58.00% | ~17,485 |
-| Twistram is devastated | 57.00% | ~17,183 |
+| Twistram is devastated | 57.00% | ~17,184 |
 | The Gehenna Stones | 49.00% | ~14,772 |
-| No one has to die today! | 46.00% | ~13,867 |
+| No one has to die today! | 46.00% | ~13,868 |
 | Death and destruction! | 45.00% | ~13,566 |
 | The Swamplanders from the swamplands | 43.00% | ~12,963 |
 | Rusty Steel | 41.00% | ~12,360 |
-| The One-Huge-Army-Building Evil | 40.00% | ~12,058 |
+| The One-Huge-Army-Building Evil | 40.00% | ~12,059 |
 | The last burger | 37.00% | ~11,154 |
 | Braiiiiins! | 37.00% | ~11,154 |
 | Hands off the Dungeonheart! | 36.00% | ~10,853 |
 | A trip on sea, what fun it can be | 34.00% | ~10,250 |
-| Damned good | 33.00% | ~9,948 |
-| Stock Market Crash | 31.00% | ~9,345 |
-| Factory farming | 31.00% | ~9,345 |
+| Damned good | 33.00% | ~9,949 |
+| Stock Market Crash | 31.00% | ~9,346 |
+| Factory farming | 31.00% | ~9,346 |
 | Not-So-Overproud | 30.00% | ~9,044 |
-| For a handfull of Catapults | 29.00% | ~8,742 |
-| Shadow hunter | 29.00% | ~8,742 |
+| For a handfull of Catapults | 29.00% | ~8,743 |
+| Shadow hunter | 29.00% | ~8,743 |
 | Ogre Solo! | 28.00% | ~8,441 |
-| Thirst quencher | 27.00% | ~8,139 |
+| Thirst quencher | 27.00% | ~8,140 |
 | Destroy the thing | 26.00% | ~7,838 |
 | Tide Master | 26.00% | ~7,838 |
-| Difficult family relationships | 25.00% | ~7,536 |
+| Difficult family relationships | 25.00% | ~7,537 |
 | MASS-O-BOT | 24.00% | ~7,235 |
 | Prepare the grave | 24.00% | ~7,235 |
 | Angel of Fire | 24.00% | ~7,235 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~603 |
 | Sacrifices! | 2.00% | ~603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,146 (Ranked 101)  
+Progressed: 30,147 (Ranked 101)  
 Completed: 245 (0.81%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 245 (0.81%) (Ranked 132)
 | 2023-09-09 | 29,934 | 245 |
 | 2023-09-10 | 30,055 | 245 |
 | 2023-09-11 | 30,140 | 245 |
-| 2023-09-12 | 30,146 | 245 |
+| 2023-09-12 | 30,147 | 245 |
 ## Awards
 Max (Great for Beginners): 345  (Ranked 228)  
 Sum: 2,635 (Ranked 175)  

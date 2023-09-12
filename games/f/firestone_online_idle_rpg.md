@@ -71,8 +71,8 @@ Rating: 4.00 (Ranked 941)
 | Training makes a Pro player | 1.00% | ~19 |
 | Transmute | 1.00% | ~19 |
 | Tree of Life | 1.00% | ~19 |
+| Enchanting skill x5 | 0.80% | ~15 |
 | Beast War Machines | 0.70% | ~14 |
-| Enchanting skill x5 | 0.70% | ~14 |
 | Pokerface | 0.70% | ~14 |
 | Angel Power | 0.60% | ~12 |
 | Conqueror | 0.50% | ~10 |

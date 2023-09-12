@@ -2834,9 +2834,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72443,
+  "EOS_Progressed": 72444,
   "EOS_Completed": 112,
-  "EOS_NewPlayers": 1611,
+  "EOS_NewPlayers": 1594,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -15164,6 +15164,11 @@
       "Time": "2023-09-12T03:07:45.0588623+00:00",
       "NumProgressed": 72443,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2023-09-12T04:06:17.2059914+00:00",
+      "NumProgressed": 72444,
+      "NumCompleted": 112
     }
   ],
   "TotalAchievements": 61,
@@ -15263,7 +15268,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10866
+      "UsersEstimate": 10867
     },
     {
       "ID": "CHALLENGES_1",
@@ -15359,7 +15364,7 @@
       "Name": "Out of Their League",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5795
+      "UsersEstimate": 5796
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -15519,7 +15524,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37670
+      "UsersEstimate": 37671
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15583,7 +15588,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15937
+      "UsersEstimate": 15938
     },
     {
       "ID": "MYSTERY_04",
@@ -15639,7 +15644,7 @@
       "Name": "Solid Alibi",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5795
+      "UsersEstimate": 5796
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -15662,13 +15667,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72443,
+      "Progressed": 72444,
       "Completed": 112
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42723,
+      "Progressed": 42724,
       "Completed": 2663
     }
   ],
@@ -15676,8 +15681,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-11T13:03:21.3959917+00:00",
-  "LastChanged_Achievements": "2023-09-12T03:07:45.0588617+00:00",
+  "LastChanged_Achievements": "2023-09-12T04:06:17.2059907+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-12T02:58:19.7298849+00:00",
-  "LastUpdate_Achievements": "2023-09-12T03:07:45.0589956+00:00"
+  "LastUpdate_Ratings": "2023-09-12T03:57:53.8568877+00:00",
+  "LastUpdate_Achievements": "2023-09-12T04:06:17.2061299+00:00"
 }
