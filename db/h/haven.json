@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1425,
+  "EOS_Progressed": 1426,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1664,6 +1664,11 @@
       "Time": "2023-09-12T14:03:47.3749057+00:00",
       "NumProgressed": 1425,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-13T23:04:42.2932786+00:00",
+      "NumProgressed": 1426,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1675,7 +1680,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "10",
@@ -1707,7 +1712,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "14",
@@ -1715,7 +1720,7 @@
       "Name": "Thar she blows",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "15",
@@ -1739,7 +1744,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "18",
@@ -1851,7 +1856,7 @@
       "Name": "\u00C0 la carte",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "32",
@@ -1883,7 +1888,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "7",
@@ -1914,15 +1919,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1425,
+      "Progressed": 1426,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-13T22:05:06.5991334+00:00",
+  "LastChanged_Achievements": "2023-09-13T23:04:42.293278+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:51.3922449+00:00",
-  "LastUpdate_Ratings": "2023-09-13T21:58:52.408651+00:00",
-  "LastUpdate_Achievements": "2023-09-13T22:05:06.5991764+00:00"
+  "LastUpdate_Ratings": "2023-09-13T22:58:38.787594+00:00",
+  "LastUpdate_Achievements": "2023-09-13T23:04:42.2933369+00:00"
 }

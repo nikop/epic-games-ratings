@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 88.00% | ~63 |
-| Tinkerer | 67.00% | ~48 |
+| Self-Defence | 86.00% | ~63 |
+| Tinkerer | 66.00% | ~48 |
 | Welcome to the Club | 36.00% | ~26 |
 | A new World ahead | 29.00% | ~21 |
 | Apprentice | 29.00% | ~21 |
@@ -13,10 +13,10 @@
 | Don't Cry Wolf | 21.00% | ~15 |
 | Freezing Cold | 15.00% | ~11 |
 | The Power of the Mountains | 15.00% | ~11 |
-| Searing Heat | 13.00% | ~9 |
-| Nothing but the Truth | 13.00% | ~9 |
-| Expert | 13.00% | ~9 |
-| Changing the World | 13.00% | ~9 |
+| Searing Heat | 12.00% | ~9 |
+| Nothing but the Truth | 12.00% | ~9 |
+| Expert | 12.00% | ~9 |
+| Changing the World | 12.00% | ~9 |
 | The Golden Flash | 11.00% | ~8 |
 | Through Dangers Untold | 10.00% | ~7 |
 | Locked and Loaded | 10.00% | ~7 |
@@ -24,10 +24,10 @@
 | Witch | 8.00% | ~6 |
 | Mirror, Mirror on the Wall | 7.00% | ~5 |
 | The A-Team | 7.00% | ~5 |
-| Defeat Ingla | 6.00% | ~4 |
-| Defeat Uskol | 6.00% | ~4 |
-| Bringing guns to a sword fight | 6.00% | ~4 |
-| But what of the Acreans? | 6.00% | ~4 |
+| Defeat Ingla | 5.00% | ~4 |
+| Defeat Uskol | 5.00% | ~4 |
+| Bringing guns to a sword fight | 5.00% | ~4 |
+| But what of the Acreans? | 5.00% | ~4 |
 | Defeat Tezuth | 4.00% | ~3 |
 | Ancient Powers | 4.00% | ~3 |
 | Finally! | 4.00% | ~3 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 374)  
+Progressed: 73 (Ranked 374)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 61 | 0 |
 | 2023-09-11 | 63 | 0 |
 | 2023-09-12 | 66 | 0 |
-| 2023-09-13 | 72 | 0 |
+| 2023-09-13 | 73 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

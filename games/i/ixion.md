@@ -10,8 +10,8 @@ Rating: 4.55 (Ranked 484)
 | Infinite Growth... | 22.00% | ~695 |
 | Without Breaking Some Eggs... | 21.00% | ~664 |
 | Space Society | 16.00% | ~506 |
+| A Thousand Strong | 16.00% | ~506 |
 | Ready for a New World | 16.00% | ~506 |
-| A Thousand Strong | 15.00% | ~474 |
 | Permanent Redesigns | 14.00% | ~443 |
 | Guy de Borderlands | 12.00% | ~379 |
 | Fully Recycled | 12.00% | ~379 |

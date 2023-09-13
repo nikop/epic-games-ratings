@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 565)
 | Rift Seeker | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,783 (Ranked 104)  
+Progressed: 25,787 (Ranked 104)  
 Completed: 55 (0.21%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 55 (0.21%) (Ranked 197)
 | 2023-09-10 | 25,740 | 55 |
 | 2023-09-11 | 25,755 | 55 |
 | 2023-09-12 | 25,768 | 55 |
-| 2023-09-13 | 25,783 | 55 |
+| 2023-09-13 | 25,787 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
 Sum: 2,308 (Ranked 188)  

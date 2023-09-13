@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2515,10 +2515,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1950,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2023-09-13T22:58:24.9946754+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1951,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1950,
+  "NumberOfAwards": 1951,
   "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2568,7 +2574,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 238
+      "Count": 239
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2583,9 +2589,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 533102,
+  "EOS_Progressed": 533103,
   "EOS_Completed": 1542,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -18528,6 +18534,11 @@
       "Time": "2023-09-13T22:06:47.7175084+00:00",
       "NumProgressed": 533102,
       "NumCompleted": 1542
+    },
+    {
+      "Time": "2023-09-13T23:06:14.1390326+00:00",
+      "NumProgressed": 533103,
+      "NumCompleted": 1542
     }
   ],
   "TotalAchievements": 37,
@@ -18715,7 +18726,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 95958
+      "UsersEstimate": 95959
     },
     {
       "ID": "THE_KEEP",
@@ -18795,7 +18806,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 341185
+      "UsersEstimate": 341186
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -18834,15 +18845,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 533102,
+      "Progressed": 533103,
       "Completed": 1542
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2023-09-13T20:57:56.1743802+00:00",
-  "LastChanged_Achievements": "2023-09-13T22:06:47.7175072+00:00",
+  "LastChanged": "2023-09-13T22:58:24.9946751+00:00",
+  "LastChanged_Achievements": "2023-09-13T23:06:14.139032+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.1792582+00:00",
-  "LastUpdate_Ratings": "2023-09-13T21:58:35.9319905+00:00",
-  "LastUpdate_Achievements": "2023-09-13T22:06:47.7176589+00:00"
+  "LastUpdate_Ratings": "2023-09-13T22:58:24.9946762+00:00",
+  "LastUpdate_Achievements": "2023-09-13T23:06:14.1392312+00:00"
 }

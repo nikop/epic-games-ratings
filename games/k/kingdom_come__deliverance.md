@@ -6,8 +6,8 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,379 |
-| Cavalier | 25.00% | ~200,296 |
+| Blacksmith's Son | 32.00% | ~256,380 |
+| Cavalier | 25.00% | ~200,297 |
 | Fatso | 23.00% | ~184,273 |
 | Awakening | 21.00% | ~168,249 |
 | Ranger | 20.00% | ~160,237 |
@@ -18,9 +18,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Insomniac | 13.00% | ~104,154 |
 | Buddy | 12.00% | ~96,142 |
 | Thief | 12.00% | ~96,142 |
-| Sinner | 11.00% | ~88,130 |
-| Traveller | 11.00% | ~88,130 |
-| Convict | 10.00% | ~80,118 |
+| Sinner | 11.00% | ~88,131 |
+| Traveller | 11.00% | ~88,131 |
+| Convict | 10.00% | ~80,119 |
 | Haggler | 9.00% | ~72,107 |
 | McLovin | 7.00% | ~56,083 |
 | Runt | 7.00% | ~56,083 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~801 |
 | Wingman | 0.10% | ~801 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,185 (Ranked 16)  
+Progressed: 801,187 (Ranked 16)  
 Completed: 45 (0.01%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,14 +235,14 @@ Completed: 45 (0.01%) (Ranked 260)
 | 2023-09-10 | 800,843 | 45 |
 | 2023-09-11 | 800,968 | 45 |
 | 2023-09-12 | 801,077 | 45 |
-| 2023-09-13 | 801,185 | 45 |
+| 2023-09-13 | 801,187 | 45 |
 ## Awards
-Max (Character Customization): 7,441  (Ranked 47)  
-Sum: 27,726 (Ranked 46)  
-Diff (max vs sum): 1  
+Max (Character Customization): 7,443  (Ranked 47)  
+Sum: 27,728 (Ranked 47)  
+Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,441 |
+| This game has Inclusive Character Customization | 7,443 |
 | This game has Great Boss Battles | 5,481 |
 | This game has Challenging Combat | 1,737 |
 | This game has Amazing Storytelling | 1,696 |
@@ -487,4 +487,4 @@ Diff (max vs sum): 1
 | 2023-09-10 | 4.71 | - | 7,433 | 27,698 |
 | 2023-09-11 | 4.71 | - | 7,436 | 27,704 |
 | 2023-09-12 | 4.71 | - | 7,441 | 27,716 |
-| 2023-09-13 | 4.71 | - | 7,441 | 27,726 |
+| 2023-09-13 | 4.71 | - | 7,443 | 27,728 |

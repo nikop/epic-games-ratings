@@ -5,33 +5,33 @@ Rating: 4.30 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~144,780 |
-| Doubled Pawn | 56.00% | ~115,824 |
-| Check | 55.00% | ~113,756 |
-| Absolute pin | 47.00% | ~97,210 |
-| Promotion | 31.00% | ~64,117 |
-| Checkmate | 30.00% | ~62,049 |
-| O-O | 24.00% | ~49,639 |
-| Spanish Bishop | 21.00% | ~43,434 |
-| Queen Sacrifice | 20.00% | ~41,366 |
-| Stalemate | 18.00% | ~37,229 |
-| O-O-O | 13.00% | ~26,888 |
-| Octopus | 13.00% | ~26,888 |
-| Stranger Danger | 12.00% | ~24,819 |
+| Chop Wood | 70.00% | ~144,784 |
+| Doubled Pawn | 56.00% | ~115,828 |
+| Check | 55.00% | ~113,759 |
+| Absolute pin | 47.00% | ~97,212 |
+| Promotion | 31.00% | ~64,119 |
+| Checkmate | 30.00% | ~62,050 |
+| O-O | 24.00% | ~49,640 |
+| Spanish Bishop | 21.00% | ~43,435 |
+| Queen Sacrifice | 20.00% | ~41,367 |
+| Stalemate | 18.00% | ~37,230 |
+| O-O-O | 13.00% | ~26,889 |
+| Octopus | 13.00% | ~26,889 |
+| Stranger Danger | 12.00% | ~24,820 |
 | En Passant | 9.00% | ~18,615 |
 | Double Check | 7.00% | ~14,478 |
 | Piece Collector | 6.00% | ~12,410 |
-| ELO | 5.00% | ~10,341 |
-| Family Fork | 5.00% | ~10,341 |
-| Friendly Fire | 5.00% | ~10,341 |
+| ELO | 5.00% | ~10,342 |
+| Family Fork | 5.00% | ~10,342 |
+| Friendly Fire | 5.00% | ~10,342 |
 | Underpromote | 4.00% | ~8,273 |
 | ELO ELO | 3.00% | ~6,205 |
 | Blind Pigs | 2.00% | ~4,137 |
 | ELO ELO ELO | 2.00% | ~4,137 |
 | Learner | 2.00% | ~4,137 |
 | Bobby Time | 1.00% | ~2,068 |
-| Back-rank Mate | 0.90% | ~1,861 |
-| Chess Champion | 0.30% | ~620 |
+| Back-rank Mate | 0.90% | ~1,862 |
+| Chess Champion | 0.30% | ~621 |
 | Alekhine’s gun | 0.20% | ~414 |
 | Boden’s Mate | 0.10% | ~207 |
 | Epaulette Mate | 0.10% | ~207 |
@@ -44,7 +44,7 @@ Rating: 4.30 (Ranked 799)
 | Tournament Master | 0.10% | ~207 |
 | Tournament Pro | 0.10% | ~207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,829 (Ranked 60)  
+Progressed: 206,835 (Ranked 60)  
 Completed: 2 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2 (0.00%) (Ranked 274)
 | 2023-09-10 | 206,320 | 2 |
 | 2023-09-11 | 206,512 | 2 |
 | 2023-09-12 | 206,669 | 2 |
-| 2023-09-13 | 206,829 | 2 |
+| 2023-09-13 | 206,835 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

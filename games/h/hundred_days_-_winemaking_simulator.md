@@ -1,7 +1,7 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.34 (Ranked 765)  
+Rating: 4.34 (Ranked 766)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,7 +29,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Welcome to the club | 1.00% | ~29 |
 | King of Langhe | 1.00% | ~29 |
 | Gem of Monferrato | 1.00% | ~29 |
-| Treasure of Roero | 0.60% | ~17 |
+| Treasure of Roero | 0.70% | ~20 |
 | King of red wines | 0.40% | ~12 |
 | Knight of Langhe | 0.40% | ~12 |
 | King of white wines | 0.30% | ~9 |

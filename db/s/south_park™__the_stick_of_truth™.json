@@ -2,7 +2,7 @@
   "ID": "8f8bddb3ff464536984ce8e945cb5f8c",
   "Name": "South Park\u2122: The Stick of Truth\u2122",
   "ProductSlug": "south-park-the-stick-of-truth",
-  "Ranking_Rating": 66,
+  "Ranking_Rating": 60,
   "Ranking_Popularity": 417,
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 594,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 115,
   "RatingHistory": [
     {
@@ -382,6 +382,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-09-13T22:59:45.8576255+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
@@ -407,8 +413,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
-  "LastChanged": "2023-09-06T10:00:59.8741822+00:00",
+  "LastChanged": "2023-09-13T22:59:45.8576253+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:44.6470007+00:00",
-  "LastUpdate_Ratings": "2023-09-13T22:00:08.8294356+00:00",
-  "LastUpdate_Achievements": "2023-09-13T22:05:04.0351401+00:00"
+  "LastUpdate_Ratings": "2023-09-13T22:59:45.857626+00:00",
+  "LastUpdate_Achievements": "2023-09-13T23:04:39.9043414+00:00"
 }

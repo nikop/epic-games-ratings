@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,083 |
-| That's a Grand Army | 3.00% | ~12,062 |
-| That is mine! | 3.00% | ~12,062 |
-| Victorious! | 3.00% | ~12,062 |
+| Until death do us apart | 4.00% | ~16,084 |
+| That's a Grand Army | 3.00% | ~12,063 |
+| That is mine! | 3.00% | ~12,063 |
+| Victorious! | 3.00% | ~12,063 |
 | Brothers in Arms | 2.00% | ~8,042 |
 | For the Glory | 2.00% | ~8,042 |
 | That's a Grand Navy | 2.00% | ~8,042 |
@@ -26,10 +26,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Double the Love | 0.70% | ~2,815 |
 | Royal Authority | 0.70% | ~2,815 |
 | Total Control | 0.70% | ~2,815 |
-| My armies are invincible! | 0.60% | ~2,412 |
-| Agressive Expander | 0.50% | ~2,010 |
-| City of Cities | 0.50% | ~2,010 |
-| Combined Arms | 0.50% | ~2,010 |
+| My armies are invincible! | 0.60% | ~2,413 |
+| Agressive Expander | 0.50% | ~2,011 |
+| City of Cities | 0.50% | ~2,011 |
+| Combined Arms | 0.50% | ~2,011 |
 | Azur semé de lis or | 0.40% | ~1,608 |
 | Factionalism | 0.40% | ~1,608 |
 | Gentle Persuasion | 0.40% | ~1,608 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402,077 (Ranked 40)  
+Progressed: 402,102 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -507,22 +507,22 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 399,390 | 0 |
 | 2023-09-11 | 400,309 | 0 |
 | 2023-09-12 | 401,220 | 0 |
-| 2023-09-13 | 402,077 | 0 |
+| 2023-09-13 | 402,102 | 0 |
 ## Awards
 Max (Educational): 6,064  (Ranked 56)  
-Sum: 49,888 (Ranked 26)  
+Sum: 49,909 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,064 |
-| This game is Highly Recommended | 5,788 |
+| This game is Highly Recommended | 5,796 |
 | This game has Challenging Combat | 5,752 |
 | This game is Extremely Fun | 5,745 |
 | This game has Diverse Characters | 5,737 |
 | This game is Relaxing | 5,576 |
 | This game has Competitive Players | 5,415 |
 | This game has Amazing Storytelling | 5,091 |
-| This game has Amazing Characters | 4,720 |
+| This game has Amazing Characters | 4,733 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -766,4 +766,4 @@ Diff (max vs sum): 30
 | 2023-09-10 | 4.69 | - | 6,030 | 49,601 |
 | 2023-09-11 | 4.69 | - | 6,051 | 49,712 |
 | 2023-09-12 | 4.69 | - | 6,051 | 49,786 |
-| 2023-09-13 | 4.69 | - | 6,064 | 49,888 |
+| 2023-09-13 | 4.69 | - | 6,064 | 49,909 |

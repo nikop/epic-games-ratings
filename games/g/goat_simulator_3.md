@@ -5,25 +5,25 @@ Rating: 4.84 (Ranked 51)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~221,743 |
-| Private Club | 74.00% | ~180,319 |
-| Rogue Guild | 65.00% | ~158,388 |
-| I Watched the Intro | 57.00% | ~138,894 |
+| Forgotten Sorority | 91.00% | ~221,744 |
+| Private Club | 74.00% | ~180,320 |
+| Rogue Guild | 65.00% | ~158,389 |
+| I Watched the Intro | 57.00% | ~138,895 |
 | Covert Consortium | 55.00% | ~134,021 |
-| Goat Queen | 53.00% | ~129,147 |
-| Reach the Stratosphere | 50.00% | ~121,837 |
+| Goat Queen | 53.00% | ~129,148 |
+| Reach the Stratosphere | 50.00% | ~121,838 |
 | Synchronization Complete | 47.00% | ~114,527 |
-| Secret Society | 45.00% | ~109,653 |
+| Secret Society | 45.00% | ~109,654 |
 | Shadow Syndicate | 38.00% | ~92,596 |
-| What a Waste of Money | 33.00% | ~80,412 |
+| What a Waste of Money | 33.00% | ~80,413 |
 | New Goat Order | 30.00% | ~73,102 |
 | Don't touch the servers | 28.00% | ~68,229 |
 | San Angora: Become Human | 27.00% | ~65,792 |
 | Real Buoy | 27.00% | ~65,792 |
-| Raider of the Lost Parking Garage | 26.00% | ~63,355 |
-| Welcome to Earth | 25.00% | ~60,918 |
+| Raider of the Lost Parking Garage | 26.00% | ~63,356 |
+| Welcome to Earth | 25.00% | ~60,919 |
 | Into the Matrix | 19.00% | ~46,298 |
-| Egg Simulator | 18.00% | ~43,861 |
+| Egg Simulator | 18.00% | ~43,862 |
 | Where is It? | 17.00% | ~41,425 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~36,551 |
 | Black Market | 14.00% | ~34,114 |
@@ -35,8 +35,8 @@ Rating: 4.84 (Ranked 51)
 | Who Baywatches the Baywatch? | 4.00% | ~9,747 |
 | Nasty! | 4.00% | ~9,747 |
 | [REDACTED] | 4.00% | ~9,747 |
-| Cannibanana | 2.00% | ~4,873 |
-| Daredevil | 2.00% | ~4,873 |
+| Cannibanana | 2.00% | ~4,874 |
+| Daredevil | 2.00% | ~4,874 |
 | Crocsquatch | 1.00% | ~2,437 |
 | You Trusted Your Instincts | 1.00% | ~2,437 |
 | Certified Fresh | 1.00% | ~2,437 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 51)
 | Move! That! Bus! | 0.60% | ~1,462 |
 | G.O.A.T | 0.30% | ~731 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,674 (Ranked 50)  
+Progressed: 243,675 (Ranked 50)  
 Completed: 828 (0.34%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 828 (0.34%) (Ranked 175)
 | 2023-09-10 | 243,417 | 825 |
 | 2023-09-11 | 243,507 | 827 |
 | 2023-09-12 | 243,598 | 827 |
-| 2023-09-13 | 243,674 | 828 |
+| 2023-09-13 | 243,675 | 828 |
 ## Awards
 Max (Great for Beginners): 395  (Ranked 218)  
 Sum: 3,372 (Ranked 156)  

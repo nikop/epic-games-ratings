@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 765,
+  "Ranking_Rating": 766,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 169,
@@ -990,7 +990,7 @@
   ],
   "EOS_Progressed": 2903,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1305,
+  "EOS_NewPlayers": 1302,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2936,9 +2936,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "a_6",
@@ -2985,8 +2985,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-13T22:06:25.5725324+00:00",
+  "LastChanged_Achievements": "2023-09-13T23:05:54.4626626+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-13T22:02:25.220184+00:00",
-  "LastUpdate_Achievements": "2023-09-13T22:06:25.5725727+00:00"
+  "LastUpdate_Ratings": "2023-09-13T23:01:46.7059791+00:00",
+  "LastUpdate_Achievements": "2023-09-13T23:05:54.462718+00:00"
 }

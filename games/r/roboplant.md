@@ -39,7 +39,7 @@
 | The bad manager | 0.00% | ~0 |
 | Energy is important | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 519)  
+Progressed: 2 (Ranked 520)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
