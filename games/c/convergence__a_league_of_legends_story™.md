@@ -1,11 +1,11 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 394)  
+Rating: 4.60 (Ranked 395)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 27.00% | ~233 |
+| Time Heals All Wounds | 27.00% | ~234 |
 | The Mysterious Stranger | 22.00% | ~190 |
 | Rail Rat | 22.00% | ~190 |
 | Make Up For Lost Time | 20.00% | ~173 |
@@ -44,8 +44,8 @@ Rating: 4.60 (Ranked 394)
 | Sump Explorer | 9.00% | ~78 |
 | Cultivair Explorer | 8.00% | ~69 |
 | Entresol Explorer | 8.00% | ~69 |
-| Corin Goes Home | 7.00% | ~60 |
-| Sartorialist | 7.00% | ~60 |
+| Corin Goes Home | 7.00% | ~61 |
+| Sartorialist | 7.00% | ~61 |
 | Golem Hunter | 6.00% | ~52 |
 | Clovemary for Remembering | 5.00% | ~43 |
 | Rungs Was Right | 5.00% | ~43 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 394)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 864 (Ranked 215)  
+Progressed: 865 (Ranked 215)  
 Completed: 5 (0.58%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 5 (0.58%) (Ranked 146)
 | 2023-09-10 | 861 | 5 |
 | 2023-09-11 | 862 | 5 |
 | 2023-09-12 | 863 | 5 |
-| 2023-09-13 | 864 | 5 |
+| 2023-09-13 | 865 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

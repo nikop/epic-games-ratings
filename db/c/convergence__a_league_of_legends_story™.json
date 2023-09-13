@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 394,
+  "Ranking_Rating": 395,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 864,
+  "EOS_Progressed": 865,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
@@ -2140,6 +2140,11 @@
       "Time": "2023-09-13T11:06:04.2975411+00:00",
       "NumProgressed": 864,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T22:08:03.2980079+00:00",
+      "NumProgressed": 865,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2191,7 +2196,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ClockworkProgress1",
@@ -2215,7 +2220,7 @@
       "Name": "Sartorialist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CosmeticProgress1",
@@ -2439,7 +2444,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "RewindParry",
@@ -2574,7 +2579,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 864,
+      "Progressed": 865,
       "Completed": 5
     }
   ],
@@ -2582,8 +2587,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-13T21:06:17.9056829+00:00",
+  "LastChanged_Achievements": "2023-09-13T22:08:03.2980072+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-13T20:58:34.4912862+00:00",
-  "LastUpdate_Achievements": "2023-09-13T21:06:17.9057447+00:00"
+  "LastUpdate_Ratings": "2023-09-13T21:59:30.4985962+00:00",
+  "LastUpdate_Achievements": "2023-09-13T22:08:03.2980695+00:00"
 }

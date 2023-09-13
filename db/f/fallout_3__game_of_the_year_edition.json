@@ -2,12 +2,12 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 394,
+  "Ranking_Rating": 395,
   "Ranking_Popularity": 26,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -3716,10 +3716,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 28075,
       "NumberOfAwardsMax": 13686
+    },
+    {
+      "Time": "2023-09-13T21:57:56.0517559+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 28076,
+      "NumberOfAwardsMax": 13686
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28075,
+  "NumberOfAwards": 28076,
   "NumberOfAwardsMax": 13686,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3757,7 +3763,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1411
+      "Count": 1412
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3808,8 +3814,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2023-09-13T17:57:32.3595347+00:00",
+  "LastChanged": "2023-09-13T21:57:56.0517557+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.2434508+00:00",
-  "LastUpdate_Ratings": "2023-09-13T20:57:28.1544036+00:00",
-  "LastUpdate_Achievements": "2023-09-13T21:05:20.2931142+00:00"
+  "LastUpdate_Ratings": "2023-09-13T21:57:56.0517565+00:00",
+  "LastUpdate_Achievements": "2023-09-13T22:06:44.5970093+00:00"
 }

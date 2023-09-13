@@ -27,8 +27,8 @@
 | Buried Memories | 1.00% | ~36 |
 | Anything For The Throne | 0.90% | ~32 |
 | One Track Mind | 0.80% | ~28 |
+| Not On My Watch | 0.60% | ~21 |
 | Iron Will | 0.50% | ~18 |
-| Not On My Watch | 0.50% | ~18 |
 | Perfection Everlasting | 0.40% | ~14 |
 | Respect Earned | 0.30% | ~11 |
 | You're Trapped Here With Me | 0.30% | ~11 |

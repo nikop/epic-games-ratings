@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1699,
+  "EOS_Progressed": 1705,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4241,6 +4241,11 @@
       "Time": "2023-09-13T21:06:19.7872279+00:00",
       "NumProgressed": 1699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T22:08:06.0675262+00:00",
+      "NumProgressed": 1705,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4373,7 +4378,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -4381,7 +4386,7 @@
       "Name": "On this Episode!",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -4436,15 +4441,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1699,
+      "Progressed": 1705,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-13T21:06:19.7872275+00:00",
+  "LastChanged_Achievements": "2023-09-13T22:08:06.0675253+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-13T20:57:40.4341668+00:00",
-  "LastUpdate_Achievements": "2023-09-13T21:06:19.7872842+00:00"
+  "LastUpdate_Ratings": "2023-09-13T21:58:13.1260891+00:00",
+  "LastUpdate_Achievements": "2023-09-13T22:08:06.0675765+00:00"
 }

@@ -6,43 +6,43 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~286,780 |
-| Full garage | 60.00% | ~235,710 |
-| To the eyeballs! | 51.00% | ~200,354 |
-| Individual delivery | 46.00% | ~180,711 |
-| Non-Stop | 44.00% | ~172,854 |
-| Juggler | 35.00% | ~137,498 |
-| Forgot something | 34.00% | ~133,569 |
-| Close call! | 30.00% | ~117,855 |
-| Get out my way | 28.00% | ~109,998 |
-| Critical care | 26.00% | ~102,141 |
-| Common cause | 25.00% | ~98,212 |
-| Mega-railroad | 23.00% | ~90,356 |
-| Upgrade complete | 23.00% | ~90,356 |
-| Just in time! | 18.00% | ~70,713 |
-| Builder | 17.00% | ~66,784 |
-| Steam Age | 16.00% | ~62,856 |
-| Long Haul | 16.00% | ~62,751 |
-| Bridgemania | 14.00% | ~54,999 |
-| Multilevel road | 14.00% | ~54,999 |
-| Need to think | 14.00% | ~54,999 |
-| The Tortoise | 12.00% | ~47,142 |
-| Without a lunch break | 11.00% | ~43,214 |
-| Beginner | 10.00% | ~39,285 |
-| Relocation | 10.00% | ~39,285 |
-| One way | 9.00% | ~35,356 |
-| Just One More Valley | 9.00% | ~35,297 |
-| Industrial Age | 8.00% | ~31,428 |
-| Prick of conscience | 8.00% | ~31,428 |
-| Missed it! | 7.00% | ~27,500 |
-| At the last moment! | 6.00% | ~23,571 |
-| Overseer | 6.00% | ~23,571 |
-| Jewelry accuracy | 5.00% | ~19,642 |
-| Bridge builder | 4.00% | ~15,714 |
-| Electrical Age | 4.00% | ~15,714 |
-| Highlander | 4.00% | ~15,714 |
-| Large construction | 4.00% | ~15,714 |
-| Stargazer | 4.00% | ~15,714 |
+| Dealmaker | 73.00% | ~286,794 |
+| Full garage | 60.00% | ~235,721 |
+| To the eyeballs! | 51.00% | ~200,363 |
+| Individual delivery | 46.00% | ~180,719 |
+| Non-Stop | 44.00% | ~172,862 |
+| Juggler | 35.00% | ~137,504 |
+| Forgot something | 34.00% | ~133,575 |
+| Close call! | 30.00% | ~117,860 |
+| Get out my way | 28.00% | ~110,003 |
+| Critical care | 26.00% | ~102,146 |
+| Common cause | 25.00% | ~98,217 |
+| Mega-railroad | 23.00% | ~90,360 |
+| Upgrade complete | 23.00% | ~90,360 |
+| Just in time! | 18.00% | ~70,716 |
+| Builder | 17.00% | ~66,788 |
+| Steam Age | 16.00% | ~62,859 |
+| Long Haul | 16.00% | ~62,753 |
+| Bridgemania | 14.00% | ~55,002 |
+| Multilevel road | 14.00% | ~55,002 |
+| Need to think | 14.00% | ~55,002 |
+| The Tortoise | 12.00% | ~47,144 |
+| Without a lunch break | 11.00% | ~43,215 |
+| Beginner | 10.00% | ~39,287 |
+| Relocation | 10.00% | ~39,287 |
+| One way | 9.00% | ~35,358 |
+| Just One More Valley | 9.00% | ~35,299 |
+| Industrial Age | 8.00% | ~31,429 |
+| Prick of conscience | 8.00% | ~31,429 |
+| Missed it! | 7.00% | ~27,501 |
+| At the last moment! | 6.00% | ~23,572 |
+| Overseer | 6.00% | ~23,572 |
+| Jewelry accuracy | 5.00% | ~19,643 |
+| Bridge builder | 4.00% | ~15,715 |
+| Electrical Age | 4.00% | ~15,715 |
+| Highlander | 4.00% | ~15,715 |
+| Large construction | 4.00% | ~15,715 |
+| Stargazer | 4.00% | ~15,715 |
 | Engineer | 3.00% | ~11,786 |
 | Living it large | 3.00% | ~11,786 |
 | Sabotage | 3.00% | ~11,786 |
@@ -57,9 +57,9 @@ Number of Ratings: 87  (23.09.2022)
 | Will work | 2.00% | ~7,857 |
 | Woodcutter | 2.00% | ~7,857 |
 | Occupied! | 2.00% | ~7,844 |
-| Achiever | 1.00% | ~3,928 |
-| Metro builder | 1.00% | ~3,928 |
-| Ouroboros | 1.00% | ~3,928 |
+| Achiever | 1.00% | ~3,929 |
+| Metro builder | 1.00% | ~3,929 |
+| Ouroboros | 1.00% | ~3,929 |
 | Space Age | 0.90% | ~3,536 |
 | Environmental activist | 0.80% | ~3,143 |
 | BBQ | 0.60% | ~2,357 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~392 |
 | World Zapper | 0.10% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392,850 (Ranked 41)  
+Progressed: 392,868 (Ranked 41)  
 Completed: 11 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 11 (0.00%) (Ranked 274)
 | 2023-09-10 | 391,628 | 10 |
 | 2023-09-11 | 392,084 | 10 |
 | 2023-09-12 | 392,488 | 10 |
-| 2023-09-13 | 392,850 | 11 |
+| 2023-09-13 | 392,868 | 11 |
 ## Awards
 Max (Challenging Puzzles): 606  (Ranked 185)  
 Sum: 1,160 (Ranked 234)  

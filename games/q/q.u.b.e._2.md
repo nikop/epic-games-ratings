@@ -6,27 +6,27 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 57.00% | ~175 |
+| Lost in Space | 57.00% | ~176 |
 | Quick Understanding of Block Extrusion | 56.00% | ~172 |
-| Nature or Nurture | 48.00% | ~147 |
-| Power Glove | 47.00% | ~144 |
-| Forgotten Memories | 46.00% | ~141 |
-| Cogs in the Machine | 42.00% | ~129 |
-| Mission Success | 21.00% | ~64 |
-| Green Cube Killer | 19.00% | ~58 |
-| There's No Place Like Home | 19.00% | ~58 |
+| Nature or Nurture | 48.00% | ~148 |
+| Power Glove | 47.00% | ~145 |
+| Forgotten Memories | 46.00% | ~142 |
+| Cogs in the Machine | 43.00% | ~132 |
+| Mission Success | 22.00% | ~68 |
+| Green Cube Killer | 19.00% | ~59 |
+| There's No Place Like Home | 19.00% | ~59 |
+| Infinity Loop | 16.00% | ~49 |
 | Path to Salvation | 16.00% | ~49 |
 | Descendants | 15.00% | ~46 |
-| Infinity Loop | 15.00% | ~46 |
 | The Flawed Teacher | 12.00% | ~37 |
 | To Infinity and Beyond | 6.00% | ~18 |
 | The Truthful Enemy | 5.00% | ~15 |
-| True collector | 0.70% | ~2 |
-| Bronze collector | 0.70% | ~2 |
-| Home Stretch | 0.70% | ~2 |
-| Gold collector | 0.70% | ~2 |
-| Silver collector | 0.70% | ~2 |
-| Get me out of here | 0.70% | ~2 |
+| True collector | 0.60% | ~2 |
+| Bronze collector | 0.60% | ~2 |
+| Home Stretch | 0.60% | ~2 |
+| Gold collector | 0.60% | ~2 |
+| Silver collector | 0.60% | ~2 |
+| Get me out of here | 0.60% | ~2 |
 | King of the Collectables | 0.30% | ~1 |
 | Competent Collector | 0.30% | ~1 |
 | Puzzle Master | 0.30% | ~1 |
@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 0.30% | ~1 |
 | Laser Sharp | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 279)  
-Completed: 1 (0.33%) (Ranked 177)  
+Progressed: 308 (Ranked 279)  
+Completed: 1 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,7 +59,7 @@ Completed: 1 (0.33%) (Ranked 177)
 | 2023-09-10 | 263 | 1 |
 | 2023-09-11 | 274 | 1 |
 | 2023-09-12 | 292 | 1 |
-| 2023-09-13 | 307 | 1 |
+| 2023-09-13 | 308 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

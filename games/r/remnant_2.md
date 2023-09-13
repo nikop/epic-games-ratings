@@ -5,44 +5,44 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~16,221 |
-| The Killing Jar | 8.00% | ~14,419 |
-| Not Your Average Trait | 8.00% | ~14,419 |
-| Expanding Horizons | 7.00% | ~12,617 |
-| Quest for Survival | 7.00% | ~12,617 |
-| Gleaming the Cube | 6.00% | ~10,814 |
-| Not a Janitor | 6.00% | ~10,814 |
-| Familiar Face | 6.00% | ~10,814 |
-| Blue Goddess | 6.00% | ~10,814 |
-| Duality | 6.00% | ~10,814 |
-| Top Performer | 6.00% | ~10,814 |
-| Boss'n Up | 6.00% | ~10,814 |
-| Good, But Could Be Better! | 6.00% | ~10,814 |
-| Trait Chaser | 6.00% | ~10,814 |
-| Not So Special Now | 5.00% | ~9,012 |
-| Equal Measures | 5.00% | ~9,012 |
-| Shhh...It's a Secret | 5.00% | ~9,012 |
-| Almost There | 5.00% | ~9,012 |
-| Make Some Room | 5.00% | ~9,012 |
-| Chaos | 4.00% | ~7,210 |
-| Traitor | 4.00% | ~7,210 |
-| Power Surge | 4.00% | ~7,210 |
-| The God Gambit | 4.00% | ~7,210 |
-| Dark Designs | 4.00% | ~7,210 |
-| Madman's Paradise | 4.00% | ~7,210 |
-| Was This Supposed To Happen? | 4.00% | ~7,210 |
-| The Web | 4.00% | ~7,210 |
-| Scrap Collector | 4.00% | ~7,210 |
-| All These Traits� | 4.00% | ~7,210 |
-| Am I Seeing This? | 3.00% | ~5,407 |
-| Forever is a Long Time Coming | 3.00% | ~5,407 |
-| The Agenda | 3.00% | ~5,407 |
-| Tall Tales | 3.00% | ~5,407 |
-| Bad Moon Rising | 3.00% | ~5,407 |
-| Strapped | 3.00% | ~5,407 |
-| Edgelord | 3.00% | ~5,407 |
-| The Ultimate Weapon | 3.00% | ~5,407 |
-| No One Should Have All That Power | 3.00% | ~5,407 |
+| First of Many | 9.00% | ~16,224 |
+| The Killing Jar | 8.00% | ~14,422 |
+| Not Your Average Trait | 8.00% | ~14,422 |
+| Expanding Horizons | 7.00% | ~12,619 |
+| Quest for Survival | 7.00% | ~12,619 |
+| Gleaming the Cube | 6.00% | ~10,816 |
+| Not a Janitor | 6.00% | ~10,816 |
+| Familiar Face | 6.00% | ~10,816 |
+| Blue Goddess | 6.00% | ~10,816 |
+| Duality | 6.00% | ~10,816 |
+| Top Performer | 6.00% | ~10,816 |
+| Boss'n Up | 6.00% | ~10,816 |
+| Good, But Could Be Better! | 6.00% | ~10,816 |
+| Trait Chaser | 6.00% | ~10,816 |
+| Not So Special Now | 5.00% | ~9,014 |
+| Equal Measures | 5.00% | ~9,014 |
+| Shhh...It's a Secret | 5.00% | ~9,014 |
+| Almost There | 5.00% | ~9,014 |
+| Make Some Room | 5.00% | ~9,014 |
+| Chaos | 4.00% | ~7,211 |
+| Traitor | 4.00% | ~7,211 |
+| Power Surge | 4.00% | ~7,211 |
+| The God Gambit | 4.00% | ~7,211 |
+| Dark Designs | 4.00% | ~7,211 |
+| Madman's Paradise | 4.00% | ~7,211 |
+| Was This Supposed To Happen? | 4.00% | ~7,211 |
+| The Web | 4.00% | ~7,211 |
+| Scrap Collector | 4.00% | ~7,211 |
+| All These Traits� | 4.00% | ~7,211 |
+| Am I Seeing This? | 3.00% | ~5,408 |
+| Forever is a Long Time Coming | 3.00% | ~5,408 |
+| The Agenda | 3.00% | ~5,408 |
+| Tall Tales | 3.00% | ~5,408 |
+| Bad Moon Rising | 3.00% | ~5,408 |
+| Strapped | 3.00% | ~5,408 |
+| Edgelord | 3.00% | ~5,408 |
+| The Ultimate Weapon | 3.00% | ~5,408 |
+| No One Should Have All That Power | 3.00% | ~5,408 |
 | Crafty | 2.00% | ~3,605 |
 | Only Human | 2.00% | ~3,605 |
 | Red Room | 2.00% | ~3,605 |
@@ -51,13 +51,13 @@ Rating: 4.76 (Ranked 117)
 | Carnage in C-Minor | 2.00% | ~3,605 |
 | Maxed Out! | 2.00% | ~3,605 |
 | Transmutate | 2.00% | ~3,605 |
-| The Trigger | 1.00% | ~1,802 |
-| Cutting Edge | 1.00% | ~1,802 |
+| The Trigger | 1.00% | ~1,803 |
+| Cutting Edge | 1.00% | ~1,803 |
 | Ghost in the Machine | 0.90% | ~1,622 |
 | Proving Grounds | 0.90% | ~1,622 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180,238 (Ranked 64)  
-Completed: 282 (0.16%) (Ranked 203)  
+Progressed: 180,271 (Ranked 64)  
+Completed: 283 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,17 +115,17 @@ Completed: 282 (0.16%) (Ranked 203)
 | 2023-09-10 | 178,625 | 270 |
 | 2023-09-11 | 179,222 | 274 |
 | 2023-09-12 | 179,752 | 278 |
-| 2023-09-13 | 180,238 | 282 |
+| 2023-09-13 | 180,271 | 283 |
 ## Awards
 Max (Great Boss Battles): 1,565  (Ranked 121)  
-Sum: 3,039 (Ranked 169)  
+Sum: 3,048 (Ranked 169)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,565 |
 | This game is Extremely Fun | 169 |
+| This game has Diverse Characters | 164 |
 | This game has Challenging Combat | 159 |
-| This game has Diverse Characters | 155 |
 | This game is Highly Recommended | 154 |
 | This game is Relaxing | 153 |
 | This game has Amazing Characters | 149 |
@@ -185,4 +185,4 @@ Diff (max vs sum): -48
 | 2023-09-10 | 4.76 | 1,493 | 2,889 |
 | 2023-09-11 | 4.76 | 1,511 | 2,937 |
 | 2023-09-12 | 4.76 | 1,534 | 2,994 |
-| 2023-09-13 | 4.76 | 1,565 | 3,039 |
+| 2023-09-13 | 4.76 | 1,565 | 3,048 |
