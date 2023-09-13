@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.46 (Ranked 625)  
+Rating: 4.46 (Ranked 624)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -36,8 +36,8 @@ Number of Ratings: 58  (23.09.2022)
 | Mastery of Weapons | 30.00% | ~352 |
 | Disciple | 30.00% | ~352 |
 | Two Birds | 26.00% | ~306 |
+| Uneasy Alliance | 25.00% | ~294 |
 | Ghosts | 25.00% | ~294 |
-| Uneasy Alliance | 24.00% | ~282 |
 | Mastery of Combat | 22.00% | ~258 |
 | Retaliate | 22.00% | ~258 |
 | Mastery of Rites | 21.00% | ~247 |

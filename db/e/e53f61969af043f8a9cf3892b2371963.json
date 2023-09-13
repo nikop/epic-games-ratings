@@ -4,8 +4,8 @@
   "ProductSlug": "karen-sees-d9ae09",
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-02-04T11:30:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-06T09:57:04.3967015+00:00",
-  "LastUpdate_Ratings": "2023-09-13T00:00:10.0557315+00:00",
-  "LastUpdate_Achievements": "2023-09-13T00:06:50.5432059+00:00"
+  "LastUpdate_Ratings": "2023-09-13T01:41:36.9645353+00:00",
+  "LastUpdate_Achievements": "2023-09-13T01:47:55.3803904+00:00"
 }

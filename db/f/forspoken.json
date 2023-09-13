@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 39921,
+  "EOS_Progressed": 39922,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8391,6 +8391,11 @@
       "Time": "2023-09-12T22:05:07.5612675+00:00",
       "NumProgressed": 39921,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-13T01:47:11.8918817+00:00",
+      "NumProgressed": 39922,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8554,7 +8559,7 @@
       "Name": "Tinkerer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "CUFF_ATTACK",
@@ -8642,7 +8647,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -8690,7 +8695,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -8714,7 +8719,7 @@
       "Name": "Hell of a Run",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -8825,22 +8830,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39921,
+      "Progressed": 39922,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4758,
-      "Completed": 4758
+      "Progressed": 4759,
+      "Completed": 4759
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-01T09:58:46.1320611+00:00",
-  "LastChanged_Achievements": "2023-09-13T00:05:59.1361533+00:00",
+  "LastChanged_Achievements": "2023-09-13T01:47:11.8918813+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:56.8257912+00:00",
-  "LastUpdate_Ratings": "2023-09-12T23:57:16.2145835+00:00",
-  "LastUpdate_Achievements": "2023-09-13T00:05:59.1362822+00:00"
+  "LastUpdate_Ratings": "2023-09-13T01:39:10.5639231+00:00",
+  "LastUpdate_Achievements": "2023-09-13T01:47:11.891955+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2602,9 +2602,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30222,
+  "EOS_Progressed": 30223,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18437,6 +18437,11 @@
       "Time": "2023-09-13T00:05:08.9937658+00:00",
       "NumProgressed": 30222,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-09-13T01:46:30.1884114+00:00",
+      "NumProgressed": 30223,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 60,
@@ -18456,7 +18461,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13902
+      "UsersEstimate": 13903
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -18536,7 +18541,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10275
+      "UsersEstimate": 10276
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -18592,7 +18597,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7253
+      "UsersEstimate": 7254
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -18608,7 +18613,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11182
+      "UsersEstimate": 11183
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -18616,7 +18621,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7253
+      "UsersEstimate": 7254
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -18632,7 +18637,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7253
+      "UsersEstimate": 7254
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -18640,7 +18645,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11182
+      "UsersEstimate": 11183
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -18656,7 +18661,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12995
+      "UsersEstimate": 12996
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -18776,7 +18781,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8764
+      "UsersEstimate": 8765
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -18824,7 +18829,7 @@
       "Name": "Damned good",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 9973
+      "UsersEstimate": 9974
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -18840,7 +18845,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 8764
+      "UsersEstimate": 8765
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -18848,7 +18853,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20853
+      "UsersEstimate": 20854
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -18872,7 +18877,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 6044
+      "UsersEstimate": 6045
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -18927,15 +18932,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30222,
+      "Progressed": 30223,
       "Completed": 249
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-11T19:57:20.416042+00:00",
-  "LastChanged_Achievements": "2023-09-13T00:05:08.9937653+00:00",
+  "LastChanged_Achievements": "2023-09-13T01:46:30.1884108+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.8890263+00:00",
-  "LastUpdate_Ratings": "2023-09-12T23:58:08.3652584+00:00",
-  "LastUpdate_Achievements": "2023-09-13T00:05:08.9940374+00:00"
+  "LastUpdate_Ratings": "2023-09-13T01:39:53.8735844+00:00",
+  "LastUpdate_Achievements": "2023-09-13T01:46:30.1885291+00:00"
 }

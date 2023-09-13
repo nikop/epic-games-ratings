@@ -26,6 +26,7 @@ Rating: 4.50 (Ranked 563)
 | Line em' up | 0.10% | ~26 |
 | Little Help Here | 0.10% | ~26 |
 | Pesky Jerks | 0.10% | ~26 |
+| Reckless | 0.10% | ~26 |
 | Rift Destroyer | 0.10% | ~26 |
 | Right back at ya | 0.10% | ~26 |
 | Rivalry | 0.10% | ~26 |
@@ -51,13 +52,12 @@ Rating: 4.50 (Ranked 563)
 | Liability | 0.00% | ~0 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
-| Reckless | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |
 | Surprise! | 0.00% | ~0 |
 | Tobin's Prodigy | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,768 (Ranked 104)  
+Progressed: 25,770 (Ranked 104)  
 Completed: 55 (0.21%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 55 (0.21%) (Ranked 196)
 | 2023-09-10 | 25,740 | 55 |
 | 2023-09-11 | 25,755 | 55 |
 | 2023-09-12 | 25,768 | 55 |
+| 2023-09-13 | 25,770 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 253)  
 Sum: 2,306 (Ranked 188)  

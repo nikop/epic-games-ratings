@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 89.00% | ~2,823 |
-| Flanked! | 79.00% | ~2,506 |
-| Economics 101 | 64.00% | ~2,030 |
-| Get Rich Quick | 48.00% | ~1,523 |
-| Do the Splits | 41.00% | ~1,301 |
-| Maestro | 28.00% | ~888 |
-| Full Employment | 20.00% | ~634 |
-| Clay Fighter | 18.00% | ~571 |
+| You and what Army? | 89.00% | ~2,827 |
+| Flanked! | 79.00% | ~2,509 |
+| Economics 101 | 64.00% | ~2,033 |
+| Get Rich Quick | 47.00% | ~1,493 |
+| Do the Splits | 41.00% | ~1,302 |
+| Maestro | 28.00% | ~889 |
+| Full Employment | 20.00% | ~635 |
+| Clay Fighter | 18.00% | ~572 |
 | Nowhere left to Hide | 15.00% | ~476 |
-| All Ovens Blazing | 14.00% | ~444 |
-| Boulder Clash | 14.00% | ~444 |
-| Held Back by the Roots | 13.00% | ~412 |
-| Well Supplied | 12.00% | ~381 |
-| Sniped | 8.00% | ~254 |
+| All Ovens Blazing | 14.00% | ~445 |
+| Boulder Clash | 14.00% | ~445 |
+| Held Back by the Roots | 13.00% | ~413 |
+| Well Supplied | 11.00% | ~349 |
 | Damage Control | 8.00% | ~254 |
 | Master of the Brawl | 8.00% | ~254 |
+| Sniped | 7.00% | ~222 |
 | Leave Them no Cake | 7.00% | ~222 |
 | Would be a Shame if Someone Would Waste Those Units | 7.00% | ~222 |
-| Your Biggest Fans | 6.00% | ~190 |
-| An Ally in Need | 6.00% | ~190 |
-| For the Queen | 6.00% | ~190 |
-| A Secret Recipe | 6.00% | ~190 |
+| Your Biggest Fans | 6.00% | ~191 |
+| An Ally in Need | 6.00% | ~191 |
+| For the Queen | 6.00% | ~191 |
+| A Secret Recipe | 6.00% | ~191 |
 | Not a Drop Wasted | 5.00% | ~159 |
 | We Have the Technology | 5.00% | ~159 |
 | Work It | 4.00% | ~127 |
@@ -35,10 +35,10 @@
 | A Brief Moment of Respite | 4.00% | ~127 |
 | Almost Like Winning | 3.00% | ~95 |
 | The Handyman Can! | 3.00% | ~95 |
-| Untouchable | 2.00% | ~63 |
+| Untouchable | 2.00% | ~64 |
 | All Geared Up | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,172 (Ranked 165)  
+Progressed: 3,176 (Ranked 165)  
 Completed: 11 (0.35%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 11 (0.35%) (Ranked 172)
 | 2023-09-10 | 3,151 | 11 |
 | 2023-09-11 | 3,154 | 11 |
 | 2023-09-12 | 3,170 | 11 |
-| 2023-09-13 | 3,172 | 11 |
+| 2023-09-13 | 3,176 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

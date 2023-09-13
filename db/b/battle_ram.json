@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -1106,6 +1106,11 @@
       "Time": "2023-09-12T15:03:39.1774268+00:00",
       "NumProgressed": 263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T01:45:34.7406757+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1117,7 +1122,7 @@
       "Name": "START",
       "Percentage": 92,
       "XP": 45,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ach_10",
@@ -1125,7 +1130,7 @@
       "Name": "Senior warrant officer Baran 3rd class",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_11",
@@ -1149,7 +1154,7 @@
       "Name": "Baran Senior Warrant Officer Grade 5",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_14",
@@ -1157,7 +1162,7 @@
       "Name": "Senior Lieutenant Baran",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_15",
@@ -1253,7 +1258,7 @@
       "Name": "Ram First Sergeant",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach_6",
@@ -1292,14 +1297,14 @@
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-09-13T00:04:04.5800213+00:00",
+  "LastChanged_Achievements": "2023-09-13T01:45:34.7406753+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:08.1910722+00:00",
-  "LastUpdate_Ratings": "2023-09-13T00:01:21.5057404+00:00",
-  "LastUpdate_Achievements": "2023-09-13T00:04:04.5800432+00:00"
+  "LastUpdate_Ratings": "2023-09-13T01:42:34.9069899+00:00",
+  "LastUpdate_Achievements": "2023-09-13T01:45:34.7406944+00:00"
 }

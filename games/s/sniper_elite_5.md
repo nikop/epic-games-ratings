@@ -1,19 +1,19 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.48 (Ranked 602)  
+Rating: 4.46 (Ranked 624)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,660 |
+| Meeting Resistance | 46.00% | ~1,661 |
 | Confirming Suspicions | 40.00% | ~1,444 |
-| The Kraken Wakes | 36.00% | ~1,299 |
+| The Kraken Wakes | 36.00% | ~1,300 |
 | It's Starting to Crack | 33.00% | ~1,191 |
 | Change the Channel | 30.00% | ~1,083 |
 | Lord of War | 29.00% | ~1,047 |
 | Taking it back | 28.00% | ~1,011 |
-| Resourceful | 26.00% | ~938 |
-| Target America | 26.00% | ~938 |
+| Resourceful | 26.00% | ~939 |
+| Target America | 26.00% | ~939 |
 | The Kraken Sleeps | 23.00% | ~830 |
 | Liberté | 22.00% | ~794 |
 | Organ Grinder | 22.00% | ~794 |
@@ -22,10 +22,10 @@ Rating: 4.48 (Ranked 602)
 | Explosive Efficiency | 18.00% | ~650 |
 | Just a Flesh Wound | 17.00% | ~614 |
 | Gunslinger | 17.00% | ~614 |
-| Climbing the Ladder | 16.00% | ~577 |
-| Der Geist | 16.00% | ~577 |
-| Close Quarters | 15.00% | ~541 |
-| Brains of the Operation | 15.00% | ~541 |
+| Climbing the Ladder | 16.00% | ~578 |
+| Der Geist | 16.00% | ~578 |
+| Close Quarters | 15.00% | ~542 |
+| Brains of the Operation | 15.00% | ~542 |
 | Fields of Glory | 14.00% | ~505 |
 | Skirmisher | 14.00% | ~505 |
 | Die Nussknacker Sweet! | 14.00% | ~505 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 602)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,609 (Ranked 158)  
+Progressed: 3,610 (Ranked 158)  
 Completed: 10 (0.28%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 10 (0.28%) (Ranked 184)
 | 2023-09-10 | 3,603 | 10 |
 | 2023-09-11 | 3,606 | 10 |
 | 2023-09-12 | 3,609 | 10 |
+| 2023-09-13 | 3,610 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -302,3 +303,4 @@ Completed: 10 (0.28%) (Ranked 184)
 | 2023-09-05 | 4.48 | 0 | 0 |
 | 2023-09-08 | 4.47 | 0 | 0 |
 | 2023-09-10 | 4.48 | 0 | 0 |
+| 2023-09-13 | 4.46 | 0 | 0 |

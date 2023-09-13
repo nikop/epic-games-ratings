@@ -24,14 +24,15 @@ Rating: 3.52 (Ranked 986)
 | Catch and Release | 0.30% | ~5 |
 | From the Shadows | 0.30% | ~5 |
 | Right This Way | 0.30% | ~5 |
+| Harvest’s End | 0.30% | ~5 |
 | Contingency Plans | 0.20% | ~3 |
 | Bad Wiring | 0.20% | ~3 |
 | Sic Transit Umbra | 0.20% | ~3 |
+| Bell-ringer | 0.20% | ~3 |
 | Silence Is Golden | 0.20% | ~3 |
 | Good Morning | 0.20% | ~3 |
 | Sisterhood | 0.20% | ~3 |
 | Skin of Their Teeth | 0.20% | ~3 |
-| Harvest’s End | 0.20% | ~3 |
 | Helping Hand | 0.20% | ~3 |
 | I Spit On Your Grave | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
@@ -39,7 +40,6 @@ Rating: 3.52 (Ranked 986)
 | Neighborhood Watch | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
 | Friendgineering | 0.10% | ~2 |
-| Bell-ringer | 0.10% | ~2 |
 | You Clean It Up | 0.10% | ~2 |
 | What Lies Below | 0.10% | ~2 |
 | Check, Please! | 0.10% | ~2 |

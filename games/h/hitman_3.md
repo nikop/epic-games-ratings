@@ -6,42 +6,42 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~613,020 |
-| Death From Above | 46.00% | ~613,020 |
-| Master of the Household | 38.00% | ~506,408 |
-| Death of the Party | 36.00% | ~479,755 |
-| NEXUS-47 | 33.00% | ~439,775 |
-| The Last Tango | 31.00% | ~413,122 |
-| Nightmare Fuel | 30.00% | ~399,796 |
-| The Result of Previous Training | 28.00% | ~373,143 |
-| Tools of the Trade | 28.00% | ~373,143 |
-| Cleared for Field Duty | 27.00% | ~359,816 |
-| Seizing the Opportunity | 26.00% | ~346,490 |
-| Bullet Train | 21.00% | ~279,857 |
-| Stylish Assassin | 20.00% | ~266,530 |
-| Silent Assassin | 14.00% | ~186,571 |
-| Rise Up | 13.00% | ~173,245 |
-| Evil Wine Club | 11.00% | ~146,592 |
-| Console Cowboy | 10.00% | ~133,265 |
-| Last Stop | 10.00% | ~133,265 |
-| A New Profile | 9.00% | ~119,939 |
-| Full House | 9.00% | ~119,939 |
-| Dune Raider | 8.00% | ~106,612 |
-| No Stone Unturned | 8.00% | ~106,612 |
-| Train Surfing | 8.00% | ~106,612 |
-| Icebreaker | 7.00% | ~93,286 |
-| Family Feud | 6.00% | ~79,959 |
-| Rich Harvest | 6.00% | ~79,959 |
-| Count Down From 47 | 6.00% | ~79,959 |
+| Unseen Assassin | 46.00% | ~613,028 |
+| Death From Above | 46.00% | ~613,028 |
+| Master of the Household | 38.00% | ~506,414 |
+| Death of the Party | 36.00% | ~479,761 |
+| NEXUS-47 | 33.00% | ~439,781 |
+| The Last Tango | 31.00% | ~413,127 |
+| Nightmare Fuel | 30.00% | ~399,801 |
+| The Result of Previous Training | 28.00% | ~373,147 |
+| Tools of the Trade | 28.00% | ~373,147 |
+| Cleared for Field Duty | 27.00% | ~359,821 |
+| Seizing the Opportunity | 26.00% | ~346,494 |
+| Bullet Train | 21.00% | ~279,860 |
+| Stylish Assassin | 20.00% | ~266,534 |
+| Silent Assassin | 14.00% | ~186,574 |
+| Rise Up | 13.00% | ~173,247 |
+| Evil Wine Club | 11.00% | ~146,594 |
+| Console Cowboy | 10.00% | ~133,267 |
+| Last Stop | 10.00% | ~133,267 |
+| A New Profile | 9.00% | ~119,940 |
+| Full House | 9.00% | ~119,940 |
+| Dune Raider | 8.00% | ~106,614 |
+| No Stone Unturned | 8.00% | ~106,614 |
+| Train Surfing | 8.00% | ~106,614 |
+| Icebreaker | 7.00% | ~93,287 |
+| Family Feud | 6.00% | ~79,960 |
+| Rich Harvest | 6.00% | ~79,960 |
+| Count Down From 47 | 6.00% | ~79,960 |
 | Shortcut Killer | 5.00% | ~66,633 |
 | Treacherous Architecture | 5.00% | ~66,633 |
 | Stair Master | 5.00% | ~66,633 |
 | Followed the Trails | 5.00% | ~66,633 |
 | Last Call | 5.00% | ~66,633 |
-| Upstairs, Downstairs | 4.00% | ~53,306 |
-| The Great Outdoors | 4.00% | ~53,306 |
-| Partied Out | 4.00% | ~53,306 |
-| Surveillance Master | 4.00% | ~53,306 |
+| Upstairs, Downstairs | 4.00% | ~53,307 |
+| The Great Outdoors | 4.00% | ~53,307 |
+| Partied Out | 4.00% | ~53,307 |
+| Surveillance Master | 4.00% | ~53,307 |
 | Training Escalated | 3.00% | ~39,980 |
 | Keep Your Eyes Peeled | 3.00% | ~39,980 |
 | Warehouse Veteran | 3.00% | ~39,980 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,327 |
 | The Creative Assassin | 0.70% | ~9,329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,332,652 (Ranked 9)  
+Progressed: 1,332,669 (Ranked 9)  
 Completed: 2,137 (0.16%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 2,137 (0.16%) (Ranked 202)
 | 2023-09-10 | 1,332,008 | 2,137 |
 | 2023-09-11 | 1,332,324 | 2,137 |
 | 2023-09-12 | 1,332,644 | 2,137 |
-| 2023-09-13 | 1,332,652 | 2,137 |
+| 2023-09-13 | 1,332,669 | 2,137 |
 ## Awards
 Max (Diverse Characters): 10,018  (Ranked 38)  
-Sum: 70,855 (Ranked 21)  
+Sum: 70,864 (Ranked 21)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
@@ -215,7 +215,7 @@ Diff (max vs sum): 17
 | This game has Quickly Understood Controls | 8,434 |
 | This game is Great for Beginners | 8,394 |
 | This game is Relaxing | 8,328 |
-| This game has a Creative Community | 8,068 |
+| This game has a Creative Community | 8,077 |
 | This game has Obsessive Gameplay | 5,956 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -478,3 +478,4 @@ Diff (max vs sum): 17
 | 2023-09-10 | 4.78 | - | 9,994 | 70,774 |
 | 2023-09-11 | 4.78 | - | 10,005 | 70,814 |
 | 2023-09-12 | 4.78 | - | 10,018 | 70,855 |
+| 2023-09-13 | 4.78 | - | 10,018 | 70,864 |

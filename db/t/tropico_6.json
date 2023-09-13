@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1104,9 +1104,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5066,
+  "EOS_Progressed": 5067,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9434,6 +9434,11 @@
       "Time": "2023-09-12T21:03:22.1848545+00:00",
       "NumProgressed": 5066,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-13T01:44:19.6058081+00:00",
+      "NumProgressed": 5067,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9467,9 +9472,9 @@
       "ID": "ACH_EP_ACTSOFGOD",
       "SetID": "1p8ab95",
       "Name": "Happy Ending?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 507
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -9541,7 +9546,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2331
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9605,7 +9610,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3850
+      "UsersEstimate": 3851
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9683,9 +9688,9 @@
       "ID": "ACH_TEAMPLAYER",
       "SetID": "1p8ab95",
       "Name": "Teamplayer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -9717,15 +9722,15 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
       "SetID": "1p8ab95",
       "Name": "Make Tropico Great Again!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -9764,15 +9769,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5066,
+      "Progressed": 5067,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-12T02:13:35.4444169+00:00",
-  "LastChanged_Achievements": "2023-09-13T00:03:22.9244804+00:00",
+  "LastChanged_Achievements": "2023-09-13T01:44:19.6058077+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-12T23:59:35.0237035+00:00",
-  "LastUpdate_Achievements": "2023-09-13T00:03:22.9246038+00:00"
+  "LastUpdate_Ratings": "2023-09-13T01:41:05.9378531+00:00",
+  "LastUpdate_Achievements": "2023-09-13T01:44:19.605875+00:00"
 }

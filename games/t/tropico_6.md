@@ -6,25 +6,25 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,850 |
+| Just One...More...Term... | 76.00% | ~3,851 |
 | Un-Lonely Island | 47.00% | ~2,381 |
-| The Beginning of a Servantship | 46.00% | ~2,330 |
-| Trade Is My Trait | 37.00% | ~1,874 |
+| The Beginning of a Servantship | 46.00% | ~2,331 |
+| Trade Is My Trait | 37.00% | ~1,875 |
 | Number 18 | 24.00% | ~1,216 |
 | We Don't Have Time For That | 19.00% | ~963 |
 | The Governator | 18.00% | ~912 |
 | The Legend of Langostino | 17.00% | ~861 |
 | Caribbean Comrade | 16.00% | ~811 |
 | The Dreamer of Dreams | 16.00% | ~811 |
-| Happy Ending? | 11.00% | ~557 |
 | Go Sovereigns! | 11.00% | ~557 |
 | For Science! | 11.00% | ~557 |
+| Happy Ending? | 10.00% | ~507 |
 | Of Seals And Men | 10.00% | ~507 |
 | Shackadelic | 10.00% | ~507 |
 | Double Trouble | 8.00% | ~405 |
 | Firestarter | 8.00% | ~405 |
-| Make Tropico Great Again! | 8.00% | ~405 |
 | I Owe You Nothing | 7.00% | ~355 |
+| Make Tropico Great Again! | 7.00% | ~355 |
 | French Connection | 7.00% | ~355 |
 | Don't Panic! | 6.00% | ~304 |
 | Computer Says "No" | 6.00% | ~304 |
@@ -40,14 +40,14 @@ Number of Ratings: 398  (23.09.2022)
 | Chain Gang | 2.00% | ~101 |
 | One Does Not Simply Stage A Coup | 2.00% | ~101 |
 | Sublime Subliminal Supreme | 2.00% | ~101 |
-| Teamplayer | 2.00% | ~101 |
 | Terraformer | 2.00% | ~101 |
 | Curse of the Mummy | 2.00% | ~101 |
 | From Knight to Little Duck | 1.00% | ~51 |
+| Teamplayer | 1.00% | ~51 |
 | Survivor | 0.90% | ~46 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,066 (Ranked 151)  
+Progressed: 5,067 (Ranked 151)  
 Completed: 2 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 2 (0.04%) (Ranked 241)
 | 2023-09-10 | 5,046 | 2 |
 | 2023-09-11 | 5,060 | 2 |
 | 2023-09-12 | 5,066 | 2 |
+| 2023-09-13 | 5,067 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 341)  
 Sum: 685 (Ranked 280)  

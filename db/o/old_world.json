@@ -3,12 +3,12 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 301,
-  "Ranking_Popularity": 264,
+  "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1603,10 +1603,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1807,
       "NumberOfAwardsMax": 221
+    },
+    {
+      "Time": "2023-09-13T01:42:38.5250972+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1808,
+      "NumberOfAwardsMax": 221
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1807,
+  "NumberOfAwards": 1808,
   "NumberOfAwardsMax": 221,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1662,7 +1668,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 184
+      "Count": 185
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1683,9 +1689,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13880,
+  "EOS_Progressed": 13881,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11373,6 +11379,11 @@
       "Time": "2023-09-12T19:08:55.8211534+00:00",
       "NumProgressed": 13880,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T01:48:52.204793+00:00",
+      "NumProgressed": 13881,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13751,21 +13762,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13880,
+      "Progressed": 13881,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13880,
+      "Progressed": 13881,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2023-09-08T23:59:25.0077891+00:00",
-  "LastChanged_Achievements": "2023-09-13T00:07:57.300022+00:00",
+  "LastChanged": "2023-09-13T01:42:38.525097+00:00",
+  "LastChanged_Achievements": "2023-09-13T01:48:52.2047926+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-13T00:01:26.5253128+00:00",
-  "LastUpdate_Achievements": "2023-09-13T00:07:57.3012004+00:00"
+  "LastUpdate_Ratings": "2023-09-13T01:42:38.5250975+00:00",
+  "LastUpdate_Achievements": "2023-09-13T01:48:52.2055623+00:00"
 }

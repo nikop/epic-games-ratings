@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Remembering of the past | 33.00% | ~1 |
+| Remembering of the past | 25.00% | ~1 |
 | Slam-KABAM | 0.00% | ~0 |
 | Heavy Thoughts | 0.00% | ~0 |
 | Patient Listener | 0.00% | ~0 |
@@ -23,13 +23,14 @@
 | Black Hog Down | 0.00% | ~0 |
 | Elementary, My Dear Dusty | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 508)  
+Progressed: 4 (Ranked 500)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-06-01 | 1 | 0 |
 | 2023-09-12 | 3 | 0 |
+| 2023-09-13 | 4 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

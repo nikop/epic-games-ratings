@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,880 (Ranked 122)  
+Progressed: 13,881 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -449,10 +449,11 @@ Completed: 5 (0.04%) (Ranked 241)
 | 2023-09-10 | 13,858 | 5 |
 | 2023-09-11 | 13,868 | 5 |
 | 2023-09-12 | 13,880 | 5 |
+| 2023-09-13 | 13,881 | 5 |
 ## Awards
-Max (Relaxing): 221  (Ranked 264)  
-Sum: 1,807 (Ranked 207)  
-Diff (max vs sum): 57  
+Max (Relaxing): 221  (Ranked 265)  
+Sum: 1,808 (Ranked 207)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 221 |
@@ -463,7 +464,7 @@ Diff (max vs sum): 57
 | This game has Challenging Combat | 196 |
 | This game has Quickly Understood Controls | 189 |
 | This game has Amazing Characters | 189 |
-| This game has Amazing Storytelling | 184 |
+| This game has Amazing Storytelling | 185 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -595,3 +596,4 @@ Diff (max vs sum): 57
 | 2023-09-04 | 4.65 | - | 221 | 1,803 |
 | 2023-09-05 | 4.65 | - | 221 | 1,804 |
 | 2023-09-08 | 4.65 | - | 221 | 1,807 |
+| 2023-09-13 | 4.65 | - | 221 | 1,808 |

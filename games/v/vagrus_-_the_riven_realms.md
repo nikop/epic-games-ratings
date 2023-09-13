@@ -44,6 +44,7 @@
 | Legacy of a Mercenary | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | A Real Battle | 2.00% | ~3 |
+| Merchant Lord | 2.00% | ~3 |
 | Insectoid Propagator | 2.00% | ~3 |
 | Making Contact | 1.00% | ~1 |
 | Watcher | 1.00% | ~1 |
@@ -56,7 +57,6 @@
 | The Darkness Within | 1.00% | ~1 |
 | Ruiner | 1.00% | ~1 |
 | Wyrmslayer | 1.00% | ~1 |
-| Merchant Lord | 1.00% | ~1 |
 | Voracity Confronted | 1.00% | ~1 |
 | Ever After | 0.70% | ~1 |
 | Conqueror | 0.70% | ~1 |

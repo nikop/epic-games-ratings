@@ -46,9 +46,9 @@
 | Responsible approach | 42.00% | ~136 |
 | Deal with life | 41.00% | ~132 |
 | GYM professional | 41.00% | ~132 |
+| Get out of my apartment! | 41.00% | ~132 |
 | Mom got better | 40.00% | ~129 |
 | Poisoned fighter | 40.00% | ~129 |
-| Get out of my apartment! | 40.00% | ~129 |
 | The die is cast | 40.00% | ~129 |
 | Seashell hunter | 39.00% | ~126 |
 | Gang wrangler | 37.00% | ~120 |

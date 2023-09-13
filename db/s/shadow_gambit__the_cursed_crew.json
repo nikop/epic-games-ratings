@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 633,
+  "EOS_Progressed": 634,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.21,
   "EosHistory": [
@@ -1664,6 +1664,11 @@
       "Time": "2023-09-12T19:04:33.0878143+00:00",
       "NumProgressed": 633,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-13T01:45:42.0361566+00:00",
+      "NumProgressed": 634,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1684,7 +1689,7 @@
       "Name": "A New Journey",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "_03_FinishAct1",
@@ -1692,7 +1697,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1732,7 +1737,7 @@
       "Name": "Swabbie",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "_09_Completion_20",
@@ -1883,7 +1888,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 633,
+      "Progressed": 634,
       "Completed": 14
     }
   ],
@@ -1891,8 +1896,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-13T00:04:13.2909131+00:00",
+  "LastChanged_Achievements": "2023-09-13T01:45:42.0361561+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-12T23:57:08.8035589+00:00",
-  "LastUpdate_Achievements": "2023-09-13T00:04:13.2909437+00:00"
+  "LastUpdate_Ratings": "2023-09-13T01:39:03.1408159+00:00",
+  "LastUpdate_Achievements": "2023-09-13T01:45:42.0361792+00:00"
 }

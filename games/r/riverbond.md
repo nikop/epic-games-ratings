@@ -1,23 +1,23 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 613)  
+Rating: 4.47 (Ranked 612)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~369,060 |
-| Now You're Talking | 62.00% | ~326,882 |
-| Steel Yourself | 62.00% | ~326,882 |
-| Window Dressing | 50.00% | ~263,614 |
-| Trigger Happy | 46.00% | ~242,525 |
-| Riverborn | 45.00% | ~237,253 |
+| First Step | 70.00% | ~369,061 |
+| Now You're Talking | 62.00% | ~326,883 |
+| Steel Yourself | 62.00% | ~326,883 |
+| Window Dressing | 50.00% | ~263,615 |
+| Trigger Happy | 46.00% | ~242,526 |
+| Riverborn | 45.00% | ~237,254 |
 | Starry Eyed | 34.00% | ~179,258 |
 | Poking Around | 34.00% | ~179,258 |
 | Talk of the Town | 24.00% | ~126,535 |
 | AAARR! | 23.00% | ~121,263 |
 | Hello Darkness | 23.00% | ~121,263 |
-| Wind At Our Backs | 22.00% | ~115,990 |
+| Wind At Our Backs | 22.00% | ~115,991 |
 | To the Beat | 20.00% | ~105,446 |
 | Sunny Shores | 17.00% | ~89,629 |
 | Sunday Best | 16.00% | ~84,357 |
@@ -38,10 +38,10 @@ Number of Ratings: 617  (23.09.2022)
 | Mind the Moose | 6.00% | ~31,634 |
 | Dressed to Kill | 6.00% | ~31,634 |
 | Beast Mode | 6.00% | ~31,634 |
-| Oh, Romeo! | 5.00% | ~26,361 |
-| Noble Intentions | 5.00% | ~26,361 |
-| Rising Star | 5.00% | ~26,361 |
-| Slime Slayer | 5.00% | ~26,361 |
+| Oh, Romeo! | 5.00% | ~26,362 |
+| Noble Intentions | 5.00% | ~26,362 |
+| Rising Star | 5.00% | ~26,362 |
+| Slime Slayer | 5.00% | ~26,362 |
 | Privacy, Please! | 4.00% | ~21,089 |
 | Silky Smooth | 4.00% | ~21,089 |
 | Hash It Over | 4.00% | ~21,089 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,582 |
 | Point Taken | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,229 (Ranked 33)  
+Progressed: 527,230 (Ranked 33)  
 Completed: 473 (0.09%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,6 +210,7 @@ Completed: 473 (0.09%) (Ranked 223)
 | 2023-09-10 | 527,127 | 472 |
 | 2023-09-11 | 527,181 | 472 |
 | 2023-09-12 | 527,229 | 473 |
+| 2023-09-13 | 527,230 | 473 |
 ## Awards
 Max (Relaxing): 20  (Ranked 514)  
 Sum: 20 (Ranked 514)  

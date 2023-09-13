@@ -1,30 +1,30 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.46 (Ranked 625)  
+Rating: 4.46 (Ranked 624)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 78.00% | ~359 |
-| Close call! | 72.00% | ~331 |
+| Getting started | 78.00% | ~360 |
+| Close call! | 72.00% | ~332 |
 | Builder | 53.00% | ~244 |
-| Pangs of conscience | 47.00% | ~216 |
+| Pangs of conscience | 47.00% | ~217 |
 | Living it large! | 45.00% | ~207 |
 | Collector | 43.00% | ~198 |
-| Need to think | 42.00% | ~193 |
-| Completely nuts! | 39.00% | ~179 |
+| Need to think | 42.00% | ~194 |
+| Completely nuts! | 39.00% | ~180 |
 | Just in time! | 33.00% | ~152 |
 | Europe | 31.00% | ~143 |
 | It's no coincidence. | 30.00% | ~138 |
-| Madness! | 29.00% | ~133 |
-| Let's roll! | 27.00% | ~124 |
+| Madness! | 29.00% | ~134 |
 | Philatelist | 26.00% | ~120 |
+| Let's roll! | 26.00% | ~120 |
 | Ouroboros | 25.00% | ~115 |
-| Non Stop! | 24.00% | ~110 |
+| Non Stop! | 24.00% | ~111 |
 | Foreman | 22.00% | ~101 |
 | Missed it! | 20.00% | ~92 |
-| Russia | 19.00% | ~87 |
+| Russia | 19.00% | ~88 |
 | America | 17.00% | ~78 |
 | Sabotage | 17.00% | ~78 |
 | Woodcutter | 11.00% | ~51 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Juggler | 0.40% | ~2 |
 | Maniac vandal | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460 (Ranked 248)  
+Progressed: 461 (Ranked 248)  
 Completed: 2 (0.43%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 2 (0.43%) (Ranked 162)
 | 2023-09-08 | 458 | 2 |
 | 2023-09-09 | 459 | 2 |
 | 2023-09-12 | 460 | 2 |
+| 2023-09-13 | 461 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

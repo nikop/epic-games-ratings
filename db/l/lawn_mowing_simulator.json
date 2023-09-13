@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2119,9 +2119,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 664121,
+  "EOS_Progressed": 664140,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2021,
+  "EOS_NewPlayers": 2027,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18384,6 +18384,11 @@
       "Time": "2023-09-13T00:07:15.4326484+00:00",
       "NumProgressed": 664121,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-09-13T01:48:16.2809966+00:00",
+      "NumProgressed": 664140,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 54,
@@ -18395,7 +18400,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 531297
+      "UsersEstimate": 531312
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -18403,7 +18408,7 @@
       "Name": "Fighting on all fronts",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13282
+      "UsersEstimate": 13283
     },
     {
       "ID": "95_PERCENT_STRIPE",
@@ -18459,7 +18464,7 @@
       "Name": "Phoenix rises",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "COMPLETE_100_CONTRACTS",
@@ -18475,7 +18480,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26565
+      "UsersEstimate": 26566
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -18483,7 +18488,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 239084
+      "UsersEstimate": 239090
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -18491,7 +18496,7 @@
       "Name": "Mighty Mowing Park Ranger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13282
+      "UsersEstimate": 13283
     },
     {
       "ID": "COMPLETE_STRIPING_CONTRACT",
@@ -18635,7 +18640,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 205878
+      "UsersEstimate": 205883
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -18643,7 +18648,7 @@
       "Name": "Cut Loose",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "HAND_IN_100_VALUABLES",
@@ -18659,7 +18664,7 @@
       "Name": "Every good deed\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13282
+      "UsersEstimate": 13283
     },
     {
       "ID": "HIRE_FIRST_EMPLOYEE",
@@ -18667,7 +18672,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 39847
+      "UsersEstimate": 39848
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -18699,7 +18704,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 99618
+      "UsersEstimate": 99621
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -18707,7 +18712,7 @@
       "Name": "Leaner and meaner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13282
+      "UsersEstimate": 13283
     },
     {
       "ID": "PART_EX_MORE_EXPENSIVE",
@@ -18715,7 +18720,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26565
+      "UsersEstimate": 26566
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -18731,7 +18736,7 @@
       "Name": "The top of the mountain",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13282
+      "UsersEstimate": 13283
     },
     {
       "ID": "PURCHASE_SECOND_HQ",
@@ -18739,7 +18744,7 @@
       "Name": "First step on the ladder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13282
+      "UsersEstimate": 13283
     },
     {
       "ID": "PURCHASE_THIRD_HQ",
@@ -18755,7 +18760,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 46488
+      "UsersEstimate": 46490
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -18779,7 +18784,7 @@
       "Name": "Esteemed",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "RP_PROFESSIONAL",
@@ -18795,7 +18800,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 119542
+      "UsersEstimate": 119545
     },
     {
       "ID": "RP_TRUSTED",
@@ -18803,7 +18808,7 @@
       "Name": "Trusted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13282
+      "UsersEstimate": 13283
     },
     {
       "ID": "SPRINT_1_MILE",
@@ -18811,7 +18816,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 59771
+      "UsersEstimate": 59773
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -18819,22 +18824,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 26565
+      "UsersEstimate": 26566
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 664121,
+      "Progressed": 664140,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-09-05T21:59:33.5168969+00:00",
-  "LastChanged_Achievements": "2023-09-13T00:07:15.4326479+00:00",
+  "LastChanged_Achievements": "2023-09-13T01:48:16.2809962+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:15.7452409+00:00",
-  "LastUpdate_Ratings": "2023-09-13T00:01:28.6996067+00:00",
-  "LastUpdate_Achievements": "2023-09-13T00:07:15.4328035+00:00"
+  "LastUpdate_Ratings": "2023-09-13T01:42:40.0872728+00:00",
+  "LastUpdate_Achievements": "2023-09-13T01:48:16.2811079+00:00"
 }
