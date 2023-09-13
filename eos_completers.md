@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.22% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.05% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.27% |
@@ -17,7 +17,7 @@
 | 15 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.86% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 17 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
-| 18 | [Island Cities](games/i/island_cities.md) | 14.76% |
+| 18 | [Island Cities](games/i/island_cities.md) | 14.72% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Remains](games/r/remains.md) | 12.50% |
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.16% |
@@ -27,8 +27,8 @@
 | 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.95% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
-| 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 10.00% |
-| 29 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
+| 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
+| 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.68% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.13% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.78% |
@@ -65,8 +65,8 @@
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 3.45% |
-| 66 | [Doodle God](games/d/doodle_god.md) | 3.38% |
-| 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
+| 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
+| 66 | [Doodle God](games/d/doodle_god.md) | 3.36% |
 | 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
 | 69 | [The Complex](games/t/the_complex.md) | 3.28% |
 | 70 | [Without Escape](games/w/without_escape.md) | 3.23% |
@@ -104,11 +104,11 @@
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
 | 103 | [Five Dates](games/f/five_dates.md) | 1.67% |
 | 104 | [Somerville](games/s/somerville.md) | 1.65% |
-| 105 | [Eternights](games/e/eternights.md) | 1.56% |
 | 105 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 105 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
-| 108 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
-| 109 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
+| 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
+| 108 | [Eternights](games/e/eternights.md) | 1.54% |
+| 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
 | 110 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 111 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 112 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
