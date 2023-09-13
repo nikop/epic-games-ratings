@@ -59,7 +59,7 @@
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 60 | [ZZT!](games/z/zzt!.md) | 4.12% |
+| 60 | [ZZT!](games/z/zzt!.md) | 4.11% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
@@ -114,17 +114,17 @@
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 113 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.36% |
 | 114 | [Chorus](games/c/chorus.md) | 1.28% |
-| 115 | [Eternights](games/e/eternights.md) | 1.27% |
-| 116 | [Late Shift](games/l/late_shift.md) | 1.24% |
-| 117 | [Infindustry](games/i/infindustry.md) | 1.23% |
+| 115 | [Late Shift](games/l/late_shift.md) | 1.24% |
+| 116 | [Infindustry](games/i/infindustry.md) | 1.23% |
+| 117 | [Eternights](games/e/eternights.md) | 1.22% |
 | 118 | [Trifox](games/t/trifox.md) | 1.10% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
 | 121 | [A Musical Story](games/a/a_musical_story.md) | 1.02% |
 | 122 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
+| 123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 123 | [Sable](games/s/sable.md) | 1.00% |
-| 124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 0.99% |
-| 124 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
+| 125 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
