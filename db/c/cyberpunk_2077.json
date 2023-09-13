@@ -11813,9 +11813,9 @@
       "Count": 5899
     }
   ],
-  "EOS_Progressed": 875926,
+  "EOS_Progressed": 875929,
   "EOS_Completed": 2083,
-  "EOS_NewPlayers": 1129,
+  "EOS_NewPlayers": 1126,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -28073,6 +28073,11 @@
       "Time": "2023-09-13T04:06:49.0149928+00:00",
       "NumProgressed": 875926,
       "NumCompleted": 2083
+    },
+    {
+      "Time": "2023-09-13T05:05:56.2060223+00:00",
+      "NumProgressed": 875929,
+      "NumCompleted": 2083
     }
   ],
   "TotalAchievements": 44,
@@ -28100,7 +28105,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 148907
+      "UsersEstimate": 148908
     },
     {
       "ID": "Cyberjunkie",
@@ -28116,7 +28121,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 341611
+      "UsersEstimate": 341612
     },
     {
       "ID": "FollowingTheRiver",
@@ -28156,7 +28161,7 @@
       "Name": "Gun Fu",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 140148
+      "UsersEstimate": 140149
     },
     {
       "ID": "Gunslinger",
@@ -28204,7 +28209,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 201463
+      "UsersEstimate": 201464
     },
     {
       "ID": "MaxPain",
@@ -28252,7 +28257,7 @@
       "Name": "Life of the Road",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183944
+      "UsersEstimate": 183945
     },
     {
       "ID": "Roleplayer",
@@ -28268,7 +28273,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 78833
+      "UsersEstimate": 78834
     },
     {
       "ID": "Temperance",
@@ -28300,7 +28305,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 604389
+      "UsersEstimate": 604391
     },
     {
       "ID": "TheHermit",
@@ -28324,7 +28329,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 306574
+      "UsersEstimate": 306575
     },
     {
       "ID": "TheStar",
@@ -28348,7 +28353,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 245259
+      "UsersEstimate": 245260
     },
     {
       "ID": "TheWorld",
@@ -28380,7 +28385,7 @@
       "Name": "True Soldier",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 201463
+      "UsersEstimate": 201464
     },
     {
       "ID": "TrueWarrior",
@@ -28435,21 +28440,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 875926,
+      "Progressed": 875929,
       "Completed": 2083
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 4549,
-      "Completed": 4549
+      "Progressed": 4552,
+      "Completed": 4552
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-12T21:00:20.3260348+00:00",
-  "LastChanged_Achievements": "2023-09-13T04:06:49.0149921+00:00",
+  "LastChanged_Achievements": "2023-09-13T05:05:56.2060219+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.297656+00:00",
-  "LastUpdate_Ratings": "2023-09-13T04:01:18.5869346+00:00",
-  "LastUpdate_Achievements": "2023-09-13T04:06:49.0152259+00:00"
+  "LastUpdate_Ratings": "2023-09-13T05:00:36.0080526+00:00",
+  "LastUpdate_Achievements": "2023-09-13T05:05:56.2061305+00:00"
 }

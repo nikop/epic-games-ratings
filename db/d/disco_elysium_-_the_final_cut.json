@@ -1289,7 +1289,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127575,
+  "EOS_Progressed": 127576,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 1,
@@ -15744,6 +15744,11 @@
       "Time": "2023-09-13T03:06:40.303529+00:00",
       "NumProgressed": 127575,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-13T05:05:24.7545462+00:00",
+      "NumProgressed": 127576,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15947,7 +15952,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7654
+      "UsersEstimate": 7655
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -15971,7 +15976,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17860
+      "UsersEstimate": 17861
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -16035,7 +16040,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 17860
+      "UsersEstimate": 17861
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -16074,15 +16079,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127575,
+      "Progressed": 127576,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-04T13:59:19.1265914+00:00",
-  "LastChanged_Achievements": "2023-09-13T04:06:10.8894014+00:00",
+  "LastChanged_Achievements": "2023-09-13T05:05:24.7545456+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-13T03:58:03.9884251+00:00",
-  "LastUpdate_Achievements": "2023-09-13T04:06:10.8895679+00:00"
+  "LastUpdate_Ratings": "2023-09-13T04:57:55.1106246+00:00",
+  "LastUpdate_Achievements": "2023-09-13T05:05:24.754653+00:00"
 }

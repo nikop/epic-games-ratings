@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 22,
@@ -4458,9 +4458,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 678874,
+  "EOS_Progressed": 678887,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 4532,
+  "EOS_NewPlayers": 4533,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20773,6 +20773,11 @@
       "Time": "2023-09-13T04:03:26.8518821+00:00",
       "NumProgressed": 678874,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-13T05:02:28.1447831+00:00",
+      "NumProgressed": 678887,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -20848,7 +20853,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13577
+      "UsersEstimate": 13578
     },
     {
       "ID": "ach_contender",
@@ -20888,7 +20893,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -20920,7 +20925,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ach_hazardous_materials",
@@ -20944,7 +20949,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13577
+      "UsersEstimate": 13578
     },
     {
       "ID": "ach_impressive_aim",
@@ -20960,7 +20965,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2715
+      "UsersEstimate": 2716
     },
     {
       "ID": "ach_investigator",
@@ -21120,7 +21125,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13577
+      "UsersEstimate": 13578
     },
     {
       "ID": "ach_well_known_survivor",
@@ -21143,22 +21148,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 678874,
+      "Progressed": 678887,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 4415,
-      "Completed": 4415
+      "Progressed": 4428,
+      "Completed": 4428
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-12T17:57:14.9343396+00:00",
-  "LastChanged_Achievements": "2023-09-13T04:03:26.8518812+00:00",
+  "LastChanged_Achievements": "2023-09-13T05:02:28.1447821+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-13T03:57:12.500945+00:00",
-  "LastUpdate_Achievements": "2023-09-13T04:03:26.8521197+00:00"
+  "LastUpdate_Ratings": "2023-09-13T04:57:14.5179768+00:00",
+  "LastUpdate_Achievements": "2023-09-13T05:02:28.1448917+00:00"
 }

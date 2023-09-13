@@ -694,9 +694,9 @@
       "ID": "CollectCurses",
       "SetID": "7g1kpc8",
       "Name": "Unlucky",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CollectGold",
@@ -837,8 +837,8 @@
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2023-09-13T04:06:54.358701+00:00",
+  "LastChanged_Achievements": "2023-09-13T05:06:00.5228354+00:00",
   "LastUpdate_AppInfo": "2023-09-11T13:02:43.6830105+00:00",
-  "LastUpdate_Ratings": "2023-09-13T04:00:26.7510904+00:00",
-  "LastUpdate_Achievements": "2023-09-13T04:06:54.3587304+00:00"
+  "LastUpdate_Ratings": "2023-09-13T04:59:52.1480511+00:00",
+  "LastUpdate_Achievements": "2023-09-13T05:06:00.5228509+00:00"
 }

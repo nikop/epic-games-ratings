@@ -6,8 +6,8 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,817 |
-| Powergamer | 27.00% | ~66,359 |
+| I will finish what you started | 28.00% | ~68,818 |
+| Powergamer | 27.00% | ~66,360 |
 | Barely scratched the surface | 25.00% | ~61,444 |
 | Write that down | 24.00% | ~58,986 |
 | Guns, lots of guns | 13.00% | ~31,951 |
@@ -17,8 +17,8 @@ Number of Ratings: 33  (23.09.2022)
 | Wake up! | 8.00% | ~19,662 |
 | It's honest work | 7.00% | ~17,204 |
 | Griever | 7.00% | ~17,204 |
-| Me smart | 6.00% | ~14,746 |
-| Trash compactor | 6.00% | ~14,746 |
+| Me smart | 6.00% | ~14,747 |
+| Trash compactor | 6.00% | ~14,747 |
 | Good listener | 5.00% | ~12,289 |
 | Valedictorian | 5.00% | ~12,289 |
 | BOY! | 4.00% | ~9,831 |
@@ -27,13 +27,13 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,373 |
 | I like to sniff around | 3.00% | ~7,373 |
 | Mind reader | 3.00% | ~7,373 |
-| Gentleman's classic | 2.00% | ~4,915 |
-| Is that a rift? | 2.00% | ~4,915 |
-| It's alive! | 2.00% | ~4,915 |
-| Enjoy the beach | 2.00% | ~4,915 |
-| Rinse and repeat | 2.00% | ~4,915 |
-| Mama, I'm a criminal | 2.00% | ~4,915 |
-| Never gonna give you up | 2.00% | ~4,915 |
+| Gentleman's classic | 2.00% | ~4,916 |
+| Is that a rift? | 2.00% | ~4,916 |
+| It's alive! | 2.00% | ~4,916 |
+| Enjoy the beach | 2.00% | ~4,916 |
+| Rinse and repeat | 2.00% | ~4,916 |
+| Mama, I'm a criminal | 2.00% | ~4,916 |
+| Never gonna give you up | 2.00% | ~4,916 |
 | A muscle to rely on | 1.00% | ~2,458 |
 | A true blacksmith | 1.00% | ~2,458 |
 | Catnip | 1.00% | ~2,458 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~492 |
 | Memory 5 | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,774 (Ranked 49)  
+Progressed: 245,777 (Ranked 49)  
 Completed: 7 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,11 +205,11 @@ Completed: 7 (0.00%) (Ranked 273)
 | 2023-09-10 | 245,569 | 7 |
 | 2023-09-11 | 245,668 | 7 |
 | 2023-09-12 | 245,763 | 7 |
-| 2023-09-13 | 245,774 | 7 |
+| 2023-09-13 | 245,777 | 7 |
 ## Awards
 Max (Character Customization): 80  (Ranked 364)  
-Sum: 80 (Ranked 430)  
-Diff (max vs sum): -66  
+Sum: 80 (Ranked 431)  
+Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 80 |

@@ -5,20 +5,20 @@ Rating: 3.93 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 70.00% | ~60,829 |
-| First One’s Free | 61.00% | ~53,008 |
-| Neophyte Ninja | 48.00% | ~41,711 |
-| Too Old for This | 43.00% | ~37,366 |
-| Fancy Pants | 32.00% | ~27,807 |
-| Case Closed | 30.00% | ~26,069 |
-| King of the Hill | 30.00% | ~26,069 |
-| Underworld Initiate | 26.00% | ~22,593 |
-| Roid Ranger | 19.00% | ~16,511 |
-| Off the Rocks | 17.00% | ~14,773 |
-| True Player | 16.00% | ~13,904 |
-| Dragonslayer | 16.00% | ~13,904 |
-| Raider’s Ruin | 15.00% | ~13,035 |
-| Hidden Sonata | 12.00% | ~10,428 |
+| Downed but Not Outed | 70.00% | ~60,833 |
+| First One’s Free | 61.00% | ~53,012 |
+| Neophyte Ninja | 48.00% | ~41,714 |
+| Too Old for This | 43.00% | ~37,369 |
+| Fancy Pants | 32.00% | ~27,810 |
+| Case Closed | 30.00% | ~26,072 |
+| King of the Hill | 30.00% | ~26,072 |
+| Underworld Initiate | 26.00% | ~22,595 |
+| Roid Ranger | 19.00% | ~16,512 |
+| Off the Rocks | 17.00% | ~14,774 |
+| True Player | 16.00% | ~13,905 |
+| Dragonslayer | 16.00% | ~13,905 |
+| Raider’s Ruin | 15.00% | ~13,036 |
+| Hidden Sonata | 12.00% | ~10,429 |
 | Rockay Rex | 10.00% | ~8,690 |
 | Freebooter | 9.00% | ~7,821 |
 | Track Star | 8.00% | ~6,952 |
@@ -40,10 +40,10 @@ Rating: 3.93 (Ranked 958)
 | Impossible Dreamer | 2.00% | ~1,738 |
 | Rockay Knight | 1.00% | ~869 |
 | Talent Scout | 1.00% | ~869 |
-| Geek Out | 0.50% | ~434 |
+| Geek Out | 0.50% | ~435 |
 | Full House | 0.20% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,898 (Ranked 76)  
+Progressed: 86,905 (Ranked 76)  
 Completed: 45 (0.05%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 45 (0.05%) (Ranked 237)
 | 2023-09-10 | 86,147 | 44 |
 | 2023-09-11 | 86,691 | 44 |
 | 2023-09-12 | 86,879 | 45 |
-| 2023-09-13 | 86,898 | 45 |
+| 2023-09-13 | 86,905 | 45 |
 ## Awards
 Max (Diverse Characters): 431  (Ranked 210)  
 Sum: 2,047 (Ranked 200)  

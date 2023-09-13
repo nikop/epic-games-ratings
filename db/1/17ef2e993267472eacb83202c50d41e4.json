@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewPlayers": 45,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5654,
+  "EOS_Progressed": 5655,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1906,
+  "EOS_NewPlayers": 1889,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1241,6 +1241,11 @@
       "Time": "2023-09-13T04:04:23.6613966+00:00",
       "NumProgressed": 5654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T05:03:45.5171972+00:00",
+      "NumProgressed": 5655,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1365,7 +1370,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "GamesPlayed1",
@@ -1844,14 +1849,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5654,
+      "Progressed": 5655,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-13T04:04:23.6613956+00:00",
+  "LastChanged_Achievements": "2023-09-13T05:03:45.5171968+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-13T03:59:24.3042871+00:00",
-  "LastUpdate_Achievements": "2023-09-13T04:04:23.6615537+00:00"
+  "LastUpdate_Ratings": "2023-09-13T04:59:02.0472196+00:00",
+  "LastUpdate_Achievements": "2023-09-13T05:03:45.5172851+00:00"
 }

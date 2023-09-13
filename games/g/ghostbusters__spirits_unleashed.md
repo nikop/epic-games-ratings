@@ -19,6 +19,7 @@ Rating: 4.50 (Ranked 563)
 | I don't need these | 0.10% | ~26 |
 | Ectoplasmic Entity | 0.10% | ~26 |
 | Meticulously Efficient | 0.10% | ~26 |
+| Escape Artist | 0.10% | ~26 |
 | Fully Upgraded | 0.10% | ~26 |
 | Ghostbuster In Training | 0.10% | ~26 |
 | Ghost Expert | 0.10% | ~26 |
@@ -49,7 +50,6 @@ Rating: 4.50 (Ranked 563)
 | Welcome to the Crew | 0.10% | ~26 |
 | Whoopsie | 0.10% | ~26 |
 | Clutch Capture | 0.00% | ~0 |
-| Escape Artist | 0.00% | ~0 |
 | Fragile Panes | 0.00% | ~0 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527235,
+  "EOS_Progressed": 527236,
   "EOS_Completed": 473,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -16049,6 +16049,11 @@
       "Time": "2023-09-13T04:06:41.6592035+00:00",
       "NumProgressed": 527235,
       "NumCompleted": 473
+    },
+    {
+      "Time": "2023-09-13T05:05:50.039417+00:00",
+      "NumProgressed": 527236,
+      "NumCompleted": 473
     }
   ],
   "TotalAchievements": 57,
@@ -16076,7 +16081,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369064
+      "UsersEstimate": 369065
     },
     {
       "ID": "12",
@@ -16156,7 +16161,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126536
+      "UsersEstimate": 126537
     },
     {
       "ID": "21",
@@ -16180,7 +16185,7 @@
       "Name": "Partner in Crime",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36906
+      "UsersEstimate": 36907
     },
     {
       "ID": "24",
@@ -16260,7 +16265,7 @@
       "Name": "Hard to Hear",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36906
+      "UsersEstimate": 36907
     },
     {
       "ID": "33",
@@ -16436,7 +16441,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242528
+      "UsersEstimate": 242529
     },
     {
       "ID": "53",
@@ -16515,15 +16520,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527235,
+      "Progressed": 527236,
       "Completed": 473
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-13T04:06:41.6592027+00:00",
+  "LastChanged_Achievements": "2023-09-13T05:05:50.0394164+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.7109557+00:00",
-  "LastUpdate_Ratings": "2023-09-13T04:00:47.8031325+00:00",
-  "LastUpdate_Achievements": "2023-09-13T04:06:41.6594772+00:00"
+  "LastUpdate_Ratings": "2023-09-13T05:00:09.9840073+00:00",
+  "LastUpdate_Achievements": "2023-09-13T05:05:50.039532+00:00"
 }

@@ -988,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2768,
+  "EOS_Progressed": 2772,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1285,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2628,6 +2628,11 @@
       "Time": "2023-09-13T04:05:19.5567402+00:00",
       "NumProgressed": 2768,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T05:04:41.8819547+00:00",
+      "NumProgressed": 2772,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2688,7 +2693,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "a_19",
@@ -2712,7 +2717,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "a_21",
@@ -2720,7 +2725,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "a_22",
@@ -2846,9 +2851,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "a_6",
@@ -2887,7 +2892,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2768,
+      "Progressed": 2772,
       "Completed": 5
     }
   ],
@@ -2895,8 +2900,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-13T04:05:19.5567396+00:00",
+  "LastChanged_Achievements": "2023-09-13T05:04:41.881954+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-13T04:01:00.1374322+00:00",
-  "LastUpdate_Achievements": "2023-09-13T04:05:19.5567953+00:00"
+  "LastUpdate_Ratings": "2023-09-13T05:00:20.8988405+00:00",
+  "LastUpdate_Achievements": "2023-09-13T05:04:41.8819807+00:00"
 }

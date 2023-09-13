@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19957,
+  "EOS_Progressed": 19958,
   "EOS_Completed": 396,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -15988,6 +15988,11 @@
       "Time": "2023-09-13T02:21:01.3583121+00:00",
       "NumProgressed": 19957,
       "NumCompleted": 396
+    },
+    {
+      "Time": "2023-09-13T05:05:09.1867257+00:00",
+      "NumProgressed": 19958,
+      "NumCompleted": 396
     }
   ],
   "TotalAchievements": 20,
@@ -16095,7 +16100,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -16119,7 +16124,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15367
+      "UsersEstimate": 15368
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16135,7 +16140,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -16158,15 +16163,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19957,
+      "Progressed": 19958,
       "Completed": 396
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-13T04:05:51.9843809+00:00",
+  "LastChanged_Achievements": "2023-09-13T05:05:09.1867251+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-13T03:58:21.5501605+00:00",
-  "LastUpdate_Achievements": "2023-09-13T04:05:51.9845301+00:00"
+  "LastUpdate_Ratings": "2023-09-13T04:58:11.0535968+00:00",
+  "LastUpdate_Achievements": "2023-09-13T05:05:09.1868143+00:00"
 }

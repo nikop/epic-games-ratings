@@ -1,13 +1,13 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 502)  
+Rating: 4.54 (Ranked 503)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 2.00% | ~13,577 |
-| Hotel California | 2.00% | ~13,577 |
-| Welcome To Hell-A | 2.00% | ~13,577 |
+| Break A Leg | 2.00% | ~13,578 |
+| Hotel California | 2.00% | ~13,578 |
+| Welcome To Hell-A | 2.00% | ~13,578 |
 | Dr. Reed, I Presume? | 1.00% | ~6,789 |
 | Git Gutte! | 1.00% | ~6,789 |
 | Bookworm | 1.00% | ~6,789 |
@@ -37,9 +37,9 @@ Rating: 4.54 (Ranked 502)
 | Jumbo Keyring | 0.50% | ~3,394 |
 | Go, Bobcats! | 0.50% | ~3,394 |
 | Rising Star | 0.50% | ~3,394 |
-| Smorgasbord | 0.40% | ~2,715 |
-| Not Even My Final Form | 0.40% | ~2,715 |
-| Internet Famous | 0.40% | ~2,715 |
+| Smorgasbord | 0.40% | ~2,716 |
+| Not Even My Final Form | 0.40% | ~2,716 |
+| Internet Famous | 0.40% | ~2,716 |
 | Make it So | 0.30% | ~2,037 |
 | On Safari | 0.30% | ~2,037 |
 | Variety is the Spice of Death | 0.30% | ~2,037 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,874 (Ranked 22)  
+Progressed: 678,887 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
-| 2023-09-13 | 678,874 | 2,143 |
+| 2023-09-13 | 678,887 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
 Sum: 8,905 (Ranked 94)  

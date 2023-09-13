@@ -12851,9 +12851,9 @@
       "ID": "Escape_Artist",
       "SetID": "819popo",
       "Name": "Escape Artist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Fragile_Panes",
@@ -13148,8 +13148,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-13T02:57:53.4661736+00:00",
-  "LastChanged_Achievements": "2023-09-13T04:03:04.7190083+00:00",
+  "LastChanged_Achievements": "2023-09-13T05:02:14.1002155+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-13T03:57:40.8236327+00:00",
-  "LastUpdate_Achievements": "2023-09-13T04:03:04.7192096+00:00"
+  "LastUpdate_Ratings": "2023-09-13T04:57:36.4938664+00:00",
+  "LastUpdate_Achievements": "2023-09-13T05:02:14.1004823+00:00"
 }
