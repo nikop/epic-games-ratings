@@ -48,11 +48,11 @@
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 48 | [JARS](games/j/jars.md) | 5.80% |
-| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.43% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.46% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
-| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
+| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
 | 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.67% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
@@ -110,9 +110,9 @@
 | 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
 | 109 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 110 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
-| 111 | [Eternights](games/e/eternights.md) | 1.43% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
-| 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
+| 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
+| 113 | [Eternights](games/e/eternights.md) | 1.37% |
 | 114 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.36% |
 | 115 | [Chorus](games/c/chorus.md) | 1.28% |
 | 116 | [Late Shift](games/l/late_shift.md) | 1.24% |
