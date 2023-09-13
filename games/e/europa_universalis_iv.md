@@ -10,10 +10,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 3.00% | ~12,041 |
 | That is mine! | 3.00% | ~12,041 |
 | Victorious! | 3.00% | ~12,041 |
-| Brothers in Arms | 2.00% | ~8,027 |
-| For the Glory | 2.00% | ~8,027 |
-| That's a Grand Navy | 2.00% | ~8,027 |
-| Seriously?! | 2.00% | ~8,027 |
+| Brothers in Arms | 2.00% | ~8,028 |
+| For the Glory | 2.00% | ~8,028 |
+| That's a Grand Navy | 2.00% | ~8,028 |
+| Seriously?! | 2.00% | ~8,028 |
 | Cold War | 1.00% | ~4,014 |
 | Defender of the Faith | 1.00% | ~4,014 |
 | It's all about the money | 1.00% | ~4,014 |
@@ -30,11 +30,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Agressive Expander | 0.50% | ~2,007 |
 | City of Cities | 0.50% | ~2,007 |
 | Combined Arms | 0.50% | ~2,007 |
-| Azur semé de lis or | 0.40% | ~1,605 |
-| Factionalism | 0.40% | ~1,605 |
-| Gentle Persuasion | 0.40% | ~1,605 |
-| Queen of Conquest | 0.40% | ~1,605 |
-| This navy can take it all | 0.40% | ~1,605 |
+| Azur semé de lis or | 0.40% | ~1,606 |
+| Factionalism | 0.40% | ~1,606 |
+| Gentle Persuasion | 0.40% | ~1,606 |
+| Queen of Conquest | 0.40% | ~1,606 |
+| This navy can take it all | 0.40% | ~1,606 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,204 |
 | Bright Spark | 0.30% | ~1,204 |
 | Down Under | 0.30% | ~1,204 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401,363 (Ranked 40)  
+Progressed: 401,383 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -507,7 +507,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 399,390 | 0 |
 | 2023-09-11 | 400,309 | 0 |
 | 2023-09-12 | 401,220 | 0 |
-| 2023-09-13 | 401,363 | 0 |
+| 2023-09-13 | 401,383 | 0 |
 ## Awards
 Max (Educational): 6,064  (Ranked 56)  
 Sum: 49,828 (Ranked 26)  

@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3,
   "EOS_Completed": 0,
@@ -92,9 +94,9 @@
       "ID": "if_the_suit_fits",
       "SetID": "7i36ba9",
       "Name": "If The Suit Fits",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "join_the_legal_team",
@@ -257,9 +259,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-09-13T06:03:15.7191106+00:00",
+  "LastChanged_Achievements": "2023-09-13T07:03:29.3714417+00:00",
   "LastUpdate_AppInfo": "2023-09-08T19:57:03.5562653+00:00",
-  "LastUpdate_Ratings": "2023-09-13T05:59:55.3248286+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:03:15.7191308+00:00"
+  "LastUpdate_Ratings": "2023-09-13T06:59:45.0735239+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:03:29.3714645+00:00"
 }

@@ -826,9 +826,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6809,
+  "EOS_Progressed": 6810,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5226,6 +5226,11 @@
       "Time": "2023-09-13T04:08:18.5038757+00:00",
       "NumProgressed": 6809,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-13T07:08:28.7323898+00:00",
+      "NumProgressed": 6810,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5253,7 +5258,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -5285,7 +5290,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2451
+      "UsersEstimate": 2452
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -5381,7 +5386,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -5405,7 +5410,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -5429,7 +5434,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3745
+      "UsersEstimate": 3746
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -5565,7 +5570,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3745
+      "UsersEstimate": 3746
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -5596,7 +5601,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6809,
+      "Progressed": 6810,
       "Completed": 8
     }
   ],
@@ -5604,8 +5609,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-12T23:01:07.5936952+00:00",
-  "LastChanged_Achievements": "2023-09-13T06:08:41.2821808+00:00",
+  "LastChanged_Achievements": "2023-09-13T07:08:28.7323888+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:39.7993209+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:01:29.2400395+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:08:41.2822295+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:01:08.9455069+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:08:28.7324521+00:00"
 }

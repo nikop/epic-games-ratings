@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5565,
+  "EOS_Progressed": 5566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9421,6 +9421,11 @@
       "Time": "2023-09-13T04:03:32.2071554+00:00",
       "NumProgressed": 5565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T07:03:59.5129533+00:00",
+      "NumProgressed": 5566,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9448,7 +9453,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "12",
@@ -9496,7 +9501,7 @@
       "Name": "Cactus Vally",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "4",
@@ -9504,7 +9509,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "5",
@@ -9551,7 +9556,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5565,
+      "Progressed": 5566,
       "Completed": 0
     }
   ],
@@ -9559,8 +9564,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-13T06:03:48.4622972+00:00",
+  "LastChanged_Achievements": "2023-09-13T07:03:59.5129524+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:16.8758422+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:01:29.830886+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:03:48.4623485+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:01:09.654758+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:03:59.5130221+00:00"
 }

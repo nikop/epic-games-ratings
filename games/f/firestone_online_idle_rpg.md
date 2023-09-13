@@ -24,9 +24,9 @@ Rating: 4.00 (Ranked 941)
 | Lieutenant | 15.00% | ~289 |
 | Mysterious Rock | 14.00% | ~270 |
 | Natural Talent | 14.00% | ~270 |
+| Superior | 14.00% | ~270 |
 | The Unstoppable | 14.00% | ~270 |
 | Milestone collector | 13.00% | ~251 |
-| Superior | 13.00% | ~251 |
 | Scientist | 12.00% | ~231 |
 | Challenger | 11.00% | ~212 |
 | Daily Quest Completionist | 11.00% | ~212 |

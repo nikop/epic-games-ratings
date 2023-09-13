@@ -33,7 +33,7 @@ Rating: 4.46 (Ranked 624)
 | No Stone Unturned | 13.00% | ~469 |
 | Opposing Force | 13.00% | ~469 |
 | Enemy at the Gates | 13.00% | ~469 |
-| Set Europe Ablaze | 12.00% | ~433 |
+| Set Europe Ablaze | 13.00% | ~469 |
 | Precision Is Key | 9.00% | ~325 |
 | My Little Friend | 9.00% | ~325 |
 | Rigged to Blow | 8.00% | ~289 |

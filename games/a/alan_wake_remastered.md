@@ -6,42 +6,42 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,661 |
-| Let There Be Light | 33.00% | ~21,459 |
-| Float Like a Butterfly | 31.00% | ~20,158 |
-| Nordic Walking | 25.00% | ~16,257 |
-| Bright Falls' Finest | 24.00% | ~15,606 |
-| Under a Thin Layer of Skin | 21.00% | ~13,656 |
-| Park Ranger | 18.00% | ~11,705 |
-| Paging Mr. Wake | 18.00% | ~11,705 |
-| Back! Back, I Say! | 17.00% | ~11,055 |
-| Finders Keepers | 17.00% | ~11,055 |
-| Sound and Fury | 15.00% | ~9,754 |
-| Missed by a Mile | 15.00% | ~9,754 |
-| Damn Good Cup of Coffee | 15.00% | ~9,754 |
-| Wheels Within Wheels | 14.00% | ~9,104 |
-| They're Heeeeeere! | 14.00% | ~9,104 |
+| Follow the Light | 41.00% | ~26,664 |
+| Let There Be Light | 33.00% | ~21,461 |
+| Float Like a Butterfly | 31.00% | ~20,160 |
+| Nordic Walking | 25.00% | ~16,258 |
+| Bright Falls' Finest | 24.00% | ~15,608 |
+| Under a Thin Layer of Skin | 21.00% | ~13,657 |
+| Park Ranger | 18.00% | ~11,706 |
+| Paging Mr. Wake | 18.00% | ~11,706 |
+| Back! Back, I Say! | 17.00% | ~11,056 |
+| Finders Keepers | 17.00% | ~11,056 |
+| Sound and Fury | 15.00% | ~9,755 |
+| Missed by a Mile | 15.00% | ~9,755 |
+| Damn Good Cup of Coffee | 15.00% | ~9,755 |
+| Wheels Within Wheels | 14.00% | ~9,105 |
+| They're Heeeeeere! | 14.00% | ~9,105 |
 | Iron Horse | 13.00% | ~8,454 |
 | The Six-Gun Scribe | 13.00% | ~8,454 |
 | Collateral Carnage | 13.00% | ~8,454 |
 | Come One, Come All | 13.00% | ~8,454 |
-| Heavy Metal | 12.00% | ~7,803 |
-| Perchance to Dream | 12.00% | ~7,803 |
-| Gatekeeper | 11.00% | ~7,153 |
-| It's Not Just a Typewriter Brand | 11.00% | ~7,153 |
-| Thunder and Lightning | 11.00% | ~7,153 |
-| Two For the Price of One | 11.00% | ~7,153 |
+| Heavy Metal | 12.00% | ~7,804 |
+| Perchance to Dream | 12.00% | ~7,804 |
+| Gatekeeper | 11.00% | ~7,154 |
+| It's Not Just a Typewriter Brand | 11.00% | ~7,154 |
+| Thunder and Lightning | 11.00% | ~7,154 |
+| Two For the Price of One | 11.00% | ~7,154 |
 | The Lady of the Light | 10.00% | ~6,503 |
 | Energized! | 10.00% | ~6,503 |
-| What Light Through Yonder Window | 9.00% | ~5,852 |
-| Right of Way | 9.00% | ~5,852 |
-| Tornado Wrangler | 8.00% | ~5,202 |
+| What Light Through Yonder Window | 9.00% | ~5,853 |
+| Right of Way | 9.00% | ~5,853 |
+| Tornado Wrangler | 8.00% | ~5,203 |
 | A Friend in Need | 8.00% | ~2,280 |
 | Departure | 7.00% | ~4,552 |
 | Drink 'Em Both Up | 6.00% | ~3,902 |
 | Hardboiled Writer | 6.00% | ~3,902 |
 | A Friend Indeed | 6.00% | ~1,710 |
-| Children of the Elder God | 5.00% | ~3,251 |
+| Children of the Elder God | 5.00% | ~3,252 |
 | Ding! | 5.00% | ~1,425 |
 | Boob Tube | 4.00% | ~2,601 |
 | If It Flies, It Burns | 4.00% | ~2,601 |
@@ -55,26 +55,26 @@ Number of Ratings: 524  (23.09.2022)
 | Couch Potato | 2.00% | ~1,301 |
 | Iron Will | 2.00% | ~570 |
 | Go Gentle Into That Good Light | 1.00% | ~285 |
-| Words Will Never Harm You | 0.70% | ~199 |
+| Words Will Never Harm You | 0.70% | ~200 |
 | Cardboard Companions | 0.60% | ~171 |
-| Fast and Furious | 0.50% | ~142 |
-| Creative Space | 0.50% | ~142 |
+| Fast and Furious | 0.50% | ~143 |
+| Creative Space | 0.50% | ~143 |
 | Alan, Wake Up | 0.40% | ~260 |
 | Run-On Sentence | 0.40% | ~114 |
 | License Revoked | 0.40% | ~114 |
 | Whirlwind | 0.40% | ~114 |
 | Meet the Deadline | 0.30% | ~195 |
 | Picking Up After Yourself | 0.30% | ~195 |
-| Tick Tock | 0.30% | ~85 |
+| Tick Tock | 0.30% | ~86 |
 | Gunless Wonder | 0.20% | ~130 |
 | Every Nook and Cranny | 0.20% | ~130 |
 | Collector's Edition | 0.20% | ~130 |
 | Bright Falls Aficionado | 0.20% | ~130 |
 | Licensed Properties | 0.20% | ~57 |
 | Hypercaffeinated | 0.10% | ~65 |
-| No Punctuation | 0.10% | ~28 |
+| No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,027 (Ranked 87)  
+Progressed: 65,033 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 65 (0.10%) (Ranked 219)
 | 2023-09-10 | 64,298 | 65 |
 | 2023-09-11 | 64,651 | 65 |
 | 2023-09-12 | 64,967 | 65 |
-| 2023-09-13 | 65,027 | 65 |
+| 2023-09-13 | 65,033 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -2,12 +2,12 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
-  "Ranking_Rating": 484,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 150,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-02-17T06:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ, CN"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 692,
   "RatingHistory": [
     {
@@ -3627,10 +3627,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 4057,
       "NumberOfAwardsMax": 935
+    },
+    {
+      "Time": "2023-09-13T06:57:18.4033145+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 4058,
+      "NumberOfAwardsMax": 935
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4057,
+  "NumberOfAwards": 4058,
   "NumberOfAwardsMax": 935,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3656,7 +3662,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 262
+      "Count": 263
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3718,8 +3724,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-09-12T11:02:04.5695411+00:00",
+  "LastChanged": "2023-09-13T06:57:18.4033144+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:26.1337039+00:00",
-  "LastUpdate_Ratings": "2023-09-13T05:57:18.3665623+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:04:48.6300549+00:00"
+  "LastUpdate_Ratings": "2023-09-13T06:57:18.4033148+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:04:46.3068888+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "1311a5735ed844c0b3c47027cab321f0",
   "Name": "Doki Doki Literature Club Plus!",
   "ProductSlug": "doki-doki-literature-club-plus",
-  "Ranking_Rating": 12,
+  "Ranking_Rating": 8,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-06-30T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.89,
+  "Rating": 4.9,
   "NumberOfRatings": 47,
   "RatingHistory": [
     {
@@ -192,6 +192,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-13T06:59:52.4002877+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -209,8 +215,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:25.5906311+00:00",
-  "LastChanged": "2023-05-02T20:59:50.9004576+00:00",
+  "LastChanged": "2023-09-13T06:59:52.4002874+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:20.29083+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:00:03.7258281+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:05:20.6988263+00:00"
+  "LastUpdate_Ratings": "2023-09-13T06:59:52.400288+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:05:15.5211127+00:00"
 }

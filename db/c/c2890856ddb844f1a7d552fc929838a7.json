@@ -1528,9 +1528,9 @@
       "ID": "AC12",
       "SetID": "l4abp0",
       "Name": "Canvas of Light and Time",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 185
     },
     {
       "ID": "AC13",
@@ -1809,8 +1809,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-13T06:05:56.3486473+00:00",
+  "LastChanged_Achievements": "2023-09-13T07:05:48.2458855+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:00:20.3974795+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:05:56.3486844+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:00:07.7720389+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:05:48.2459322+00:00"
 }

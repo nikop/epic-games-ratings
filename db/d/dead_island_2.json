@@ -2,13 +2,13 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4464,9 +4464,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 678894,
+  "EOS_Progressed": 678902,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 4530,
+  "EOS_NewPlayers": 4521,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20789,6 +20789,11 @@
       "Time": "2023-09-13T06:03:42.6970895+00:00",
       "NumProgressed": 678894,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-13T07:03:54.1817368+00:00",
+      "NumProgressed": 678902,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -20992,7 +20997,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "ach_knock_down",
@@ -21104,7 +21109,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "ach_thesacrifice",
@@ -21144,7 +21149,7 @@
       "Name": "Rising Star",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "ach_well_trained",
@@ -21159,22 +21164,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 678894,
+      "Progressed": 678902,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 4435,
-      "Completed": 4435
+      "Progressed": 4443,
+      "Completed": 4443
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-13T05:57:32.1100004+00:00",
-  "LastChanged_Achievements": "2023-09-13T06:03:42.6970889+00:00",
+  "LastChanged_Achievements": "2023-09-13T07:03:54.1817363+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-13T05:57:32.1100009+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:03:42.6971969+00:00"
+  "LastUpdate_Ratings": "2023-09-13T06:57:30.2364903+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:03:54.1818712+00:00"
 }

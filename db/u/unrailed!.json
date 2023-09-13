@@ -2636,9 +2636,9 @@
       "Count": 145
     }
   ],
-  "EOS_Progressed": 643339,
+  "EOS_Progressed": 643340,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1856,
+  "EOS_NewPlayers": 1846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18911,6 +18911,11 @@
       "Time": "2023-09-13T06:07:25.1983654+00:00",
       "NumProgressed": 643339,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-13T07:07:08.8134098+00:00",
+      "NumProgressed": 643340,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 52,
@@ -18922,7 +18927,7 @@
       "Name": "Stroller",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 90067
+      "UsersEstimate": 90068
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -19337,15 +19342,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 643339,
+      "Progressed": 643340,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-09-12T13:04:06.7136416+00:00",
-  "LastChanged_Achievements": "2023-09-13T06:07:25.1983649+00:00",
+  "LastChanged_Achievements": "2023-09-13T07:07:08.813409+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.8163161+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:00:20.1029355+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:07:25.1984767+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:00:07.5192618+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:07:08.813551+00:00"
 }

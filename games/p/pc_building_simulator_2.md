@@ -5,55 +5,55 @@ Rating: 4.61 (Ranked 368)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 67.00% | ~151,714 |
-| Shine On | 62.00% | ~140,392 |
-| On the Job | 60.00% | ~135,863 |
-| Get Stuck In | 59.00% | ~133,599 |
-| Room for Expansion | 59.00% | ~133,599 |
-| Chill Out | 58.00% | ~131,335 |
-| Sales Pitch | 57.00% | ~129,070 |
-| Grand Designs | 54.00% | ~122,277 |
-| Tinker | 53.00% | ~120,013 |
-| Hot Stuff | 49.00% | ~110,955 |
-| MOAR RGB | 46.00% | ~104,162 |
-| Dream Theme | 39.00% | ~88,311 |
-| The Customer is King | 38.00% | ~86,047 |
-| Working Hard | 37.00% | ~83,782 |
-| On the Bench | 36.00% | ~81,518 |
-| The More the Merrier | 35.00% | ~79,254 |
-| Mix and Match | 32.00% | ~72,460 |
-| Recycler | 32.00% | ~72,460 |
-| Very Imported PC | 31.00% | ~70,196 |
-| Foot in the Door | 31.00% | ~70,196 |
-| Full Throttle | 30.00% | ~67,932 |
-| Pimp My Rig | 27.00% | ~61,139 |
-| Repair Master | 27.00% | ~61,139 |
-| Local Hero | 24.00% | ~54,345 |
-| Broken to Smokin' | 22.00% | ~49,817 |
-| Workaholic | 22.00% | ~49,817 |
-| Bench Warmer | 22.00% | ~49,817 |
-| Thanks Jeff | 21.00% | ~47,552 |
-| On the Ladder | 20.00% | ~45,288 |
-| Cinematic | 20.00% | ~45,288 |
-| Gift of the Gab | 20.00% | ~45,288 |
-| Salvage Squad | 20.00% | ~45,288 |
-| Stick With It | 20.00% | ~45,288 |
-| Variations on a Theme | 19.00% | ~43,023 |
-| Cowboy | 19.00% | ~43,023 |
-| Slap Happy | 19.00% | ~43,023 |
-| Supercool | 16.00% | ~36,230 |
-| Stabiliser | 15.00% | ~33,966 |
-| Paste Not, Want Not | 15.00% | ~33,966 |
-| This One Goes to 11 | 15.00% | ~33,966 |
-| Going Places | 13.00% | ~29,437 |
-| Forgetful Shopper | 13.00% | ~29,437 |
-| Showpiece | 10.00% | ~22,644 |
+| Bootstrapping | 67.00% | ~151,719 |
+| Shine On | 62.00% | ~140,397 |
+| On the Job | 60.00% | ~135,868 |
+| Get Stuck In | 59.00% | ~133,603 |
+| Room for Expansion | 59.00% | ~133,603 |
+| Chill Out | 58.00% | ~131,339 |
+| Sales Pitch | 57.00% | ~129,074 |
+| Grand Designs | 54.00% | ~122,281 |
+| Tinker | 53.00% | ~120,016 |
+| Hot Stuff | 49.00% | ~110,959 |
+| MOAR RGB | 46.00% | ~104,165 |
+| Dream Theme | 39.00% | ~88,314 |
+| The Customer is King | 38.00% | ~86,049 |
+| Working Hard | 37.00% | ~83,785 |
+| On the Bench | 36.00% | ~81,521 |
+| The More the Merrier | 35.00% | ~79,256 |
+| Recycler | 32.00% | ~72,463 |
+| Mix and Match | 31.00% | ~70,198 |
+| Very Imported PC | 31.00% | ~70,198 |
+| Foot in the Door | 31.00% | ~70,198 |
+| Full Throttle | 30.00% | ~67,934 |
+| Pimp My Rig | 27.00% | ~61,140 |
+| Repair Master | 27.00% | ~61,140 |
+| Local Hero | 24.00% | ~54,347 |
+| Broken to Smokin' | 22.00% | ~49,818 |
+| Workaholic | 22.00% | ~49,818 |
+| Bench Warmer | 22.00% | ~49,818 |
+| Thanks Jeff | 21.00% | ~47,554 |
+| On the Ladder | 20.00% | ~45,289 |
+| Cinematic | 20.00% | ~45,289 |
+| Gift of the Gab | 20.00% | ~45,289 |
+| Salvage Squad | 20.00% | ~45,289 |
+| Stick With It | 20.00% | ~45,289 |
+| Variations on a Theme | 19.00% | ~43,025 |
+| Cowboy | 19.00% | ~43,025 |
+| Slap Happy | 19.00% | ~43,025 |
+| Supercool | 16.00% | ~36,231 |
+| Stabiliser | 15.00% | ~33,967 |
+| Paste Not, Want Not | 15.00% | ~33,967 |
+| This One Goes to 11 | 15.00% | ~33,967 |
+| Going Places | 13.00% | ~29,438 |
+| Forgetful Shopper | 13.00% | ~29,438 |
+| Showpiece | 10.00% | ~22,645 |
 | Bench Press | 9.00% | ~20,380 |
-| Matching Set | 8.00% | ~18,115 |
+| Matching Set | 8.00% | ~18,116 |
 | Making It Mine | 7.00% | ~15,851 |
 | Tech Vet | 7.00% | ~15,851 |
 | Salesperson of the Month | 7.00% | ~15,851 |
-| Ship It | 6.00% | ~13,586 |
+| Ship It | 6.00% | ~13,587 |
 | Elite Technician | 5.00% | ~11,322 |
 | Unlimited Power | 4.00% | ~9,058 |
 | Big Shot | 3.00% | ~6,793 |
@@ -65,7 +65,7 @@ Rating: 4.61 (Ranked 368)
 | Keep 'Em Coming | 0.30% | ~679 |
 | Export Expert | 0.20% | ~453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,439 (Ranked 55)  
+Progressed: 226,446 (Ranked 55)  
 Completed: 136 (0.06%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 136 (0.06%) (Ranked 233)
 | 2023-09-10 | 225,789 | 135 |
 | 2023-09-11 | 226,087 | 136 |
 | 2023-09-12 | 226,367 | 136 |
-| 2023-09-13 | 226,439 | 136 |
+| 2023-09-13 | 226,446 | 136 |
 ## Awards
 Max (Great for Beginners): 687  (Ranked 170)  
 Sum: 4,969 (Ranked 132)  

@@ -5997,9 +5997,9 @@
       "ID": "superior",
       "SetID": "3nl4bcg",
       "Name": "Superior",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 270
     },
     {
       "ID": "templeofeternals",
@@ -6158,8 +6158,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-08T22:59:12.0182911+00:00",
-  "LastChanged_Achievements": "2023-09-13T06:07:08.9005349+00:00",
+  "LastChanged_Achievements": "2023-09-13T07:06:54.1843248+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.1476243+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:01:56.6811184+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:07:08.9006234+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:01:32.4524221+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:06:54.1844354+00:00"
 }

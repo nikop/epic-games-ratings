@@ -13,29 +13,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 4.00% | ~555 |
 | Intrepid | 4.00% | ~555 |
 | Friendly Family | 4.00% | ~555 |
-| Ambitious | 3.00% | ~416 |
-| Architect | 3.00% | ~416 |
-| Enlightened | 3.00% | ~416 |
-| Glorious | 3.00% | ~416 |
-| Good | 3.00% | ~416 |
-| Just | 3.00% | ~416 |
-| Keystone | 3.00% | ~416 |
-| Learned | 3.00% | ~416 |
-| Mason | 3.00% | ~416 |
-| Noble | 3.00% | ~416 |
-| Pioneer | 3.00% | ~416 |
-| Strong | 3.00% | ~416 |
-| Warrior | 3.00% | ~416 |
-| Developing Cities | 3.00% | ~416 |
-| Hanging Gardens | 3.00% | ~416 |
-| Oracle | 3.00% | ~416 |
-| Pyramids | 3.00% | ~416 |
-| Judaism | 3.00% | ~416 |
-| Babylonian Paganism | 3.00% | ~416 |
-| Greek Paganism | 3.00% | ~416 |
-| Naming Landmarks | 3.00% | ~416 |
-| Trade Caravan | 3.00% | ~416 |
-| The Great Mage | 3.00% | ~416 |
+| Ambitious | 3.00% | ~417 |
+| Architect | 3.00% | ~417 |
+| Enlightened | 3.00% | ~417 |
+| Glorious | 3.00% | ~417 |
+| Good | 3.00% | ~417 |
+| Just | 3.00% | ~417 |
+| Keystone | 3.00% | ~417 |
+| Learned | 3.00% | ~417 |
+| Mason | 3.00% | ~417 |
+| Noble | 3.00% | ~417 |
+| Pioneer | 3.00% | ~417 |
+| Strong | 3.00% | ~417 |
+| Warrior | 3.00% | ~417 |
+| Developing Cities | 3.00% | ~417 |
+| Hanging Gardens | 3.00% | ~417 |
+| Oracle | 3.00% | ~417 |
+| Pyramids | 3.00% | ~417 |
+| Judaism | 3.00% | ~417 |
+| Babylonian Paganism | 3.00% | ~417 |
+| Greek Paganism | 3.00% | ~417 |
+| Naming Landmarks | 3.00% | ~417 |
+| Trade Caravan | 3.00% | ~417 |
+| The Great Mage | 3.00% | ~417 |
 | Regicide | 2.00% | ~278 |
 | Drillmaster | 2.00% | ~278 |
 | Brilliant | 2.00% | ~278 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,882 (Ranked 122)  
+Progressed: 13,884 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -449,7 +449,7 @@ Completed: 5 (0.04%) (Ranked 241)
 | 2023-09-10 | 13,858 | 5 |
 | 2023-09-11 | 13,868 | 5 |
 | 2023-09-12 | 13,880 | 5 |
-| 2023-09-13 | 13,882 | 5 |
+| 2023-09-13 | 13,884 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

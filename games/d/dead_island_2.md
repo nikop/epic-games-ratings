@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 503)  
+Rating: 4.54 (Ranked 502)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,9 +34,9 @@ Rating: 4.54 (Ranked 503)
 | Humanity Distilled | 0.80% | ~5,431 |
 | Down with the Sickness | 0.70% | ~4,752 |
 | Max Headroom | 0.60% | ~4,073 |
-| Jumbo Keyring | 0.50% | ~3,394 |
-| Go, Bobcats! | 0.50% | ~3,394 |
-| Rising Star | 0.50% | ~3,394 |
+| Jumbo Keyring | 0.50% | ~3,395 |
+| Go, Bobcats! | 0.50% | ~3,395 |
+| Rising Star | 0.50% | ~3,395 |
 | Smorgasbord | 0.40% | ~2,716 |
 | Not Even My Final Form | 0.40% | ~2,716 |
 | Internet Famous | 0.40% | ~2,716 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,894 (Ranked 22)  
+Progressed: 678,902 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
-| 2023-09-13 | 678,894 | 2,143 |
+| 2023-09-13 | 678,902 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
 Sum: 8,907 (Ranked 94)  

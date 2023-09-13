@@ -3,7 +3,7 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3186,
+  "EOS_Progressed": 3189,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.3745824+00:00",
@@ -2999,6 +2999,11 @@
       "Time": "2023-09-13T06:05:56.5285717+00:00",
       "NumProgressed": 3186,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-13T07:05:48.3142087+00:00",
+      "NumProgressed": 3189,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3034,7 +3039,7 @@
       "Name": "Work It",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "bonus5",
@@ -3058,7 +3063,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2836
+      "UsersEstimate": 2838
     },
     {
       "ID": "campaign10",
@@ -3074,7 +3079,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "campaign12",
@@ -3098,7 +3103,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "campaign15",
@@ -3130,7 +3135,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "campaign19",
@@ -3146,7 +3151,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2519
     },
     {
       "ID": "campaign20",
@@ -3162,7 +3167,7 @@
       "Name": "Economics 101",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2041
     },
     {
       "ID": "campaign4",
@@ -3170,7 +3175,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1499
     },
     {
       "ID": "campaign5",
@@ -3178,7 +3183,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "campaign6",
@@ -3194,7 +3199,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "campaign8",
@@ -3202,7 +3207,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "campaign9",
@@ -3218,7 +3223,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "scenario2",
@@ -3226,7 +3231,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "scenario3",
@@ -3258,7 +3263,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "scenario7",
@@ -3266,14 +3271,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3186,
+      "Progressed": 3189,
       "Completed": 11
     }
   ],
@@ -3281,8 +3286,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-13T06:05:56.5285712+00:00",
+  "LastChanged_Achievements": "2023-09-13T07:05:48.3142081+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-13T05:59:38.9169642+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:05:56.5286046+00:00"
+  "LastUpdate_Ratings": "2023-09-13T06:59:28.5686513+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:05:48.3142519+00:00"
 }

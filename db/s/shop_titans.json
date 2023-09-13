@@ -5942,10 +5942,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27217,
       "NumberOfAwardsMax": 4738
+    },
+    {
+      "Time": "2023-09-13T07:03:17.5917292+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27220,
+      "NumberOfAwardsMax": 4738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27217,
+  "NumberOfAwards": 27220,
   "NumberOfAwardsMax": 4738,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5959,7 +5965,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3876
+      "Count": 3878
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5971,7 +5977,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3685
+      "Count": 3686
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5998,9 +6004,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136098,
+  "EOS_Progressed": 136101,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -20983,6 +20989,11 @@
       "Time": "2023-09-13T05:06:21.4919622+00:00",
       "NumProgressed": 136098,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2023-09-13T07:07:42.4350218+00:00",
+      "NumProgressed": 136101,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 112,
@@ -21082,7 +21093,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "bigsale03",
@@ -21154,7 +21165,7 @@
       "Name": "Fated Encounters",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "chest01",
@@ -21170,7 +21181,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "chest03",
@@ -21354,7 +21365,7 @@
       "Name": "Power of Love",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "energy03",
@@ -21434,7 +21445,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "fuselegendary",
@@ -21450,7 +21461,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "gemsspent",
@@ -21490,7 +21501,7 @@
       "Name": "Royal Ransom",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "gold05",
@@ -21666,7 +21677,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "master04",
@@ -21818,7 +21829,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "typeunlock01",
@@ -21889,15 +21900,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136098,
+      "Progressed": 136101,
       "Completed": 149
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-13T05:00:50.0698432+00:00",
-  "LastChanged_Achievements": "2023-09-13T06:08:01.7782174+00:00",
+  "LastChanged": "2023-09-13T07:03:17.5917291+00:00",
+  "LastChanged_Achievements": "2023-09-13T07:07:42.4350212+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:02:12.8267612+00:00",
-  "LastUpdate_Achievements": "2023-09-13T06:08:01.7784093+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:03:17.5917295+00:00",
+  "LastUpdate_Achievements": "2023-09-13T07:07:42.4352361+00:00"
 }
