@@ -6,50 +6,50 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 45.00% | ~31,056 |
-| To The Nines | 41.00% | ~28,295 |
-| Optimized | 36.00% | ~24,845 |
-| Performance Review | 35.00% | ~24,155 |
-| Making a Name | 33.00% | ~22,774 |
-| Tune Up | 32.00% | ~22,084 |
-| Wet Work | 31.00% | ~21,394 |
-| Landlord | 31.00% | ~21,394 |
-| The Side Job | 30.00% | ~20,704 |
-| Wrecking Ball | 27.00% | ~18,634 |
-| Food for Thought | 26.00% | ~17,943 |
-| Finders Keepers | 25.00% | ~17,253 |
-| A Young Empire | 25.00% | ~17,253 |
-| Work Ethic | 23.00% | ~15,873 |
-| Picking Fights | 19.00% | ~13,112 |
-| Quality Time | 18.00% | ~12,422 |
-| Power Players | 18.00% | ~12,422 |
-| Showdown | 16.00% | ~11,042 |
-| Et tu? | 16.00% | ~11,042 |
-| Took It to The Limit | 16.00% | ~11,042 |
-| Kitted Out | 14.00% | ~9,662 |
-| Masters of Santo Ileso | 12.00% | ~8,282 |
-| Hijacked | 11.00% | ~7,591 |
-| The Spins | 10.00% | ~6,901 |
-| The Mechanic | 10.00% | ~6,901 |
-| We could go home, or… | 7.00% | ~4,831 |
-| Challenge Accepted | 7.00% | ~4,831 |
-| A Golden Age | 7.00% | ~4,831 |
-| Closet Space | 7.00% | ~4,831 |
-| Producer Credit | 7.00% | ~2,846 |
-| Face Off | 6.00% | ~2,439 |
-| The Professional | 5.00% | ~3,451 |
-| Chaos Tamer | 5.00% | ~3,451 |
-| Untouchable | 5.00% | ~3,451 |
-| Free Refills | 5.00% | ~3,451 |
-| Smooth Moves | 5.00% | ~3,451 |
-| Hazardous Heist | 5.00% | ~2,032 |
-| Neighborly | 4.00% | ~2,761 |
-| Prankster | 4.00% | ~2,761 |
-| Tourist | 4.00% | ~2,761 |
-| Shopping Spree | 3.00% | ~2,070 |
-| Always Be Hustling | 3.00% | ~2,070 |
-| Community Outreach | 3.00% | ~2,070 |
-| Bonus Round | 2.00% | ~1,380 |
+| First F#@!ing Day | 45.00% | ~31,067 |
+| To The Nines | 41.00% | ~28,306 |
+| Optimized | 36.00% | ~24,854 |
+| Performance Review | 35.00% | ~24,163 |
+| Making a Name | 33.00% | ~22,783 |
+| Tune Up | 32.00% | ~22,092 |
+| Wet Work | 31.00% | ~21,402 |
+| Landlord | 31.00% | ~21,402 |
+| The Side Job | 30.00% | ~20,711 |
+| Wrecking Ball | 27.00% | ~18,640 |
+| Food for Thought | 26.00% | ~17,950 |
+| Finders Keepers | 25.00% | ~17,260 |
+| A Young Empire | 25.00% | ~17,260 |
+| Work Ethic | 23.00% | ~15,879 |
+| Picking Fights | 19.00% | ~13,117 |
+| Quality Time | 18.00% | ~12,427 |
+| Power Players | 18.00% | ~12,427 |
+| Showdown | 16.00% | ~11,046 |
+| Et tu? | 16.00% | ~11,046 |
+| Took It to The Limit | 16.00% | ~11,046 |
+| Kitted Out | 14.00% | ~9,665 |
+| Masters of Santo Ileso | 12.00% | ~8,285 |
+| Hijacked | 11.00% | ~7,594 |
+| The Spins | 10.00% | ~6,904 |
+| The Mechanic | 10.00% | ~6,904 |
+| We could go home, or… | 7.00% | ~4,833 |
+| Challenge Accepted | 7.00% | ~4,833 |
+| A Golden Age | 7.00% | ~4,833 |
+| Closet Space | 7.00% | ~4,833 |
+| Producer Credit | 7.00% | ~2,847 |
+| Face Off | 6.00% | ~2,440 |
+| The Professional | 5.00% | ~3,452 |
+| Chaos Tamer | 5.00% | ~3,452 |
+| Untouchable | 5.00% | ~3,452 |
+| Free Refills | 5.00% | ~3,452 |
+| Smooth Moves | 5.00% | ~3,452 |
+| Hazardous Heist | 5.00% | ~2,034 |
+| Neighborly | 4.00% | ~2,762 |
+| Prankster | 4.00% | ~2,762 |
+| Tourist | 4.00% | ~2,762 |
+| Shopping Spree | 3.00% | ~2,071 |
+| Always Be Hustling | 3.00% | ~2,071 |
+| Community Outreach | 3.00% | ~2,071 |
+| Bonus Round | 2.00% | ~1,381 |
 | It's a Bird! | 1.00% | ~690 |
 | The Collector | 1.00% | ~690 |
 | All Mine | 1.00% | ~690 |
@@ -60,8 +60,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~138 |
 | Fiesta Time | 0.20% | ~138 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,013 (Ranked 83)  
-Completed: 47 (0.07%) (Ranked 230)  
+Progressed: 69,038 (Ranked 83)  
+Completed: 47 (0.07%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,7 +206,7 @@ Completed: 47 (0.07%) (Ranked 230)
 | 2023-09-10 | 68,442 | 47 |
 | 2023-09-11 | 68,608 | 47 |
 | 2023-09-12 | 68,841 | 47 |
-| 2023-09-13 | 69,013 | 47 |
+| 2023-09-13 | 69,038 | 47 |
 ## Awards
 Max (Extremely Fun): 1,065  (Ranked 140)  
 Sum: 8,628 (Ranked 97)  

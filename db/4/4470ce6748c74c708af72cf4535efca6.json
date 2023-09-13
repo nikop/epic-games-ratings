@@ -293,9 +293,9 @@
       "ID": "18",
       "SetID": "5e3maia",
       "Name": "Patriot",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "19",
@@ -485,9 +485,9 @@
       "ID": "41",
       "SetID": "5e3maia",
       "Name": "Drugmaker",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "42",
@@ -701,9 +701,9 @@
       "ID": "66",
       "SetID": "5e3maia",
       "Name": "Sage",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "67",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:04:48.5184463+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:05:07.2644351+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:00:26.962377+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:04:48.5185234+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:00:40.3729483+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:05:07.2645115+00:00"
 }

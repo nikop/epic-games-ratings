@@ -6,7 +6,7 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
@@ -7560,9 +7560,9 @@
       "Count": 638
     }
   ],
-  "EOS_Progressed": 296529,
+  "EOS_Progressed": 296531,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1452,
+  "EOS_NewPlayers": 1432,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23385,6 +23385,11 @@
       "Time": "2023-09-13T14:03:13.5154009+00:00",
       "NumProgressed": 296529,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-13T15:03:23.8158005+00:00",
+      "NumProgressed": 296531,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23516,7 +23521,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35583
+      "UsersEstimate": 35584
     },
     {
       "ID": "PFA_24",
@@ -23532,7 +23537,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14826
+      "UsersEstimate": 14827
     },
     {
       "ID": "PFA_26",
@@ -23564,7 +23569,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14826
+      "UsersEstimate": 14827
     },
     {
       "ID": "PFA_3",
@@ -23676,7 +23681,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14826
+      "UsersEstimate": 14827
     },
     {
       "ID": "PFA_42",
@@ -23732,7 +23737,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35583
+      "UsersEstimate": 35584
     },
     {
       "ID": "PFA_8",
@@ -23755,7 +23760,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296529,
+      "Progressed": 296531,
       "Completed": 470
     }
   ],
@@ -23763,8 +23768,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-13T00:00:42.2116521+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:03:13.5153997+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:03:23.8157998+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:01:45.2160706+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:03:13.5158953+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:01:56.9102522+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:03:23.8160555+00:00"
 }

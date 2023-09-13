@@ -460,9 +460,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7692,
+  "EOS_Progressed": 7693,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -8145,6 +8145,11 @@
       "Time": "2023-09-13T07:06:56.281793+00:00",
       "NumProgressed": 7692,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-13T15:07:49.5452957+00:00",
+      "NumProgressed": 7693,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8156,7 +8161,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6384
+      "UsersEstimate": 6385
     },
     {
       "ID": "ACH02",
@@ -8164,7 +8169,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "ACH03",
@@ -8196,7 +8201,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "ACH07",
@@ -8300,7 +8305,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH20",
@@ -8378,16 +8383,16 @@
       "ID": "ACH29",
       "SetID": "552d41m",
       "Name": "King of Liberty City",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7692,
+      "Progressed": 7693,
       "Completed": 50
     }
   ],
@@ -8395,8 +8400,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-12T19:02:11.7422629+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:07:29.0124015+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:07:49.5452948+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:01.9571091+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:02:27.1611876+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:07:29.0124962+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:02:37.6555844+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:07:49.545391+00:00"
 }

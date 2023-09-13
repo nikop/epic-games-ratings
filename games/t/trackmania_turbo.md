@@ -1,7 +1,7 @@
 # Trackmania Turbo
 [Store](https://store.epicgames.com/en-US/p/trackmania-turbo)  
 [View Rawdata](../../db/t/trackmania_turbo.json)  
-Rating: 4.84 (Ranked 50)  
+Rating: 4.85 (Ranked 43)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -11,3 +11,4 @@ Rating: 4.84 (Ranked 50)
 | 2023-05-09 | 4.82 | 0 | 0 |
 | 2023-05-25 | 4.83 | 0 | 0 |
 | 2023-07-19 | 4.84 | 0 | 0 |
+| 2023-09-13 | 4.85 | 0 | 0 |

@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~68,827 |
-| Powergamer | 27.00% | ~66,369 |
-| Barely scratched the surface | 25.00% | ~61,453 |
-| Write that down | 24.00% | ~58,995 |
-| Guns, lots of guns | 13.00% | ~31,955 |
-| Collector | 11.00% | ~27,039 |
+| I will finish what you started | 28.00% | ~68,828 |
+| Powergamer | 27.00% | ~66,370 |
+| Barely scratched the surface | 25.00% | ~61,454 |
+| Write that down | 24.00% | ~58,996 |
+| Guns, lots of guns | 13.00% | ~31,956 |
+| Collector | 11.00% | ~27,040 |
 | Elementary! | 9.00% | ~22,123 |
 | Pumpkin Jack | 8.00% | ~19,665 |
 | Wake up! | 8.00% | ~19,665 |
@@ -21,9 +21,9 @@ Number of Ratings: 33  (23.09.2022)
 | Trash compactor | 6.00% | ~14,749 |
 | Good listener | 5.00% | ~12,291 |
 | Valedictorian | 5.00% | ~12,291 |
-| BOY! | 4.00% | ~9,832 |
-| Ka-ching! | 4.00% | ~9,832 |
-| So you like to read? | 4.00% | ~9,832 |
+| BOY! | 4.00% | ~9,833 |
+| Ka-ching! | 4.00% | ~9,833 |
+| So you like to read? | 4.00% | ~9,833 |
 | Hoarder | 3.00% | ~7,374 |
 | I like to sniff around | 3.00% | ~7,374 |
 | Mind reader | 3.00% | ~7,374 |
@@ -43,9 +43,9 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,458 |
 | Take the blue pill | 1.00% | ~2,458 |
 | The power of three | 1.00% | ~2,458 |
-| It's blue, always blue | 0.80% | ~1,966 |
-| Let's try another | 0.80% | ~1,966 |
-| Home run | 0.80% | ~1,966 |
+| It's blue, always blue | 0.80% | ~1,967 |
+| Let's try another | 0.80% | ~1,967 |
+| Home run | 0.80% | ~1,967 |
 | I have the high ground | 0.70% | ~1,721 |
 | Enjoy these little moments | 0.50% | ~1,229 |
 | Who wouldn't love a troll? | 0.50% | ~1,229 |
@@ -59,8 +59,8 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~492 |
 | Memory 5 | 0.10% | ~246 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245,811 (Ranked 49)  
-Completed: 7 (0.00%) (Ranked 273)  
+Progressed: 245,815 (Ranked 49)  
+Completed: 7 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,7 +205,7 @@ Completed: 7 (0.00%) (Ranked 273)
 | 2023-09-10 | 245,569 | 7 |
 | 2023-09-11 | 245,668 | 7 |
 | 2023-09-12 | 245,763 | 7 |
-| 2023-09-13 | 245,811 | 7 |
+| 2023-09-13 | 245,815 | 7 |
 ## Awards
 Max (Character Customization): 80  (Ranked 364)  
 Sum: 80 (Ranked 431)  

@@ -42,6 +42,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.60% | ~817 |
 | Natural 20 | 0.60% | ~817 |
 | Tax not Included | 0.50% | ~681 |
+| Big Game Hunting | 0.50% | ~681 |
 | Fated Encounters | 0.50% | ~681 |
 | For the Hoard! | 0.50% | ~681 |
 | Power of Love | 0.50% | ~681 |
@@ -58,7 +59,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 0.40% | ~544 |
 | The King's Caprice | 0.40% | ~544 |
 | Thirst for Knowledge | 0.40% | ~544 |
-| Big Game Hunting | 0.40% | ~544 |
 | Booty by the Boatload | 0.40% | ~544 |
 | Scrapbooker | 0.40% | ~544 |
 | Archivist | 0.40% | ~544 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,113 (Ranked 68)  
-Completed: 150 (0.11%) (Ranked 216)  
+Progressed: 136,116 (Ranked 68)  
+Completed: 150 (0.11%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -265,7 +265,7 @@ Completed: 150 (0.11%) (Ranked 216)
 | 2023-09-10 | 136,005 | 148 |
 | 2023-09-11 | 136,043 | 149 |
 | 2023-09-12 | 136,088 | 149 |
-| 2023-09-13 | 136,113 | 150 |
+| 2023-09-13 | 136,116 | 150 |
 ## Awards
 Max (Great for Beginners): 4,738  (Ranked 71)  
 Sum: 27,220 (Ranked 48)  

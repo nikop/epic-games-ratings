@@ -4,10 +4,10 @@
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 782,
   "Ranking_Popularity": 393,
-  "Ranking_PopularitySum": 302,
+  "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 593,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-29T11:00:00+00:00",
@@ -1254,10 +1254,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 506,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-09-13T14:59:53.6968121+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 507,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 506,
+  "NumberOfAwards": 507,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1295,7 +1301,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1351,8 +1357,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-09-10T21:58:26.7349902+00:00",
+  "LastChanged": "2023-09-13T14:59:53.6968118+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.2669685+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:59:40.4554509+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:05:31.3456441+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:59:53.6968127+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:05:49.5961926+00:00"
 }

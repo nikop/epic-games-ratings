@@ -3,8 +3,8 @@
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 380,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -450,9 +450,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "b36c5kb",
       "Name": "Backup Ain\u0027t Coming",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -618,9 +618,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "b36c5kb",
       "Name": "Thinning Them Out",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -737,8 +737,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:06:03.9581973+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:06:23.7812963+00:00",
   "LastUpdate_AppInfo": "2023-09-06T19:56:59.5902657+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:00:39.7055753+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:06:03.9582501+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:00:53.1442371+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:06:23.7813853+00:00"
 }

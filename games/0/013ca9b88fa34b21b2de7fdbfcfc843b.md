@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~1,494 |
-| A Thorny Situation | 65.00% | ~1,349 |
-| ... And Spit Back Out | 51.00% | ~1,058 |
-| Break-Net Speed | 39.00% | ~809 |
-| Bramble Breaker | 31.00% | ~643 |
-| Miner 49er | 29.00% | ~602 |
-| Humble Collector | 28.00% | ~581 |
-| Calm Sailing | 16.00% | ~332 |
-| Oui, Chef! | 15.00% | ~311 |
-| Open the Gate! | 13.00% | ~270 |
-| Lumberjack | 13.00% | ~270 |
-| Mist Walker | 11.00% | ~228 |
-| Beach Comber | 6.00% | ~124 |
-| Botanical Breakthrough | 6.00% | ~124 |
-| Clear the Air | 4.00% | ~83 |
+| Azoria Beckons | 72.00% | ~1,509 |
+| A Thorny Situation | 65.00% | ~1,362 |
+| ... And Spit Back Out | 51.00% | ~1,069 |
+| Break-Net Speed | 39.00% | ~817 |
+| Bramble Breaker | 32.00% | ~671 |
+| Miner 49er | 29.00% | ~608 |
+| Humble Collector | 28.00% | ~587 |
+| Calm Sailing | 16.00% | ~335 |
+| Oui, Chef! | 15.00% | ~314 |
+| Open the Gate! | 13.00% | ~272 |
+| Lumberjack | 13.00% | ~272 |
+| Mist Walker | 11.00% | ~231 |
+| Beach Comber | 6.00% | ~126 |
+| Botanical Breakthrough | 6.00% | ~126 |
+| Clear the Air | 4.00% | ~84 |
 | Search for the Hairy Grell | 2.00% | ~42 |
 | Higher Tax Bracket | 2.00% | ~42 |
 | Got to Catch Them All | 1.00% | ~21 |
@@ -31,7 +31,7 @@
 | Scattered Scroll Scrounger | 0.70% | ~15 |
 | Right Tool For the Job | 0.70% | ~15 |
 | House Proud | 0.70% | ~15 |
-| Captain of Cozy | 0.60% | ~12 |
+| Captain of Cozy | 0.60% | ~13 |
 | Flaming Hot Completos | 0.50% | ~10 |
 | Fae Farmer | 0.40% | ~8 |
 | Angling Authority | 0.20% | ~4 |
@@ -40,8 +40,8 @@
 | Giving the People What They Want | 0.10% | ~2 |
 | Very Skilled | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,075 (Ranked 179)  
-Completed: 0 (0.00%) (Ranked 273)  
+Progressed: 2,096 (Ranked 179)  
+Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,4 +60,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 624 | 0 |
 | 2023-09-11 | 1,169 | 0 |
 | 2023-09-12 | 1,849 | 0 |
-| 2023-09-13 | 2,075 | 0 |
+| 2023-09-13 | 2,096 | 0 |

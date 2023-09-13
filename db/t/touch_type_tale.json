@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3200,
+  "EOS_Progressed": 3201,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3034,6 +3034,11 @@
       "Time": "2023-09-13T14:06:07.8182405+00:00",
       "NumProgressed": 3200,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-13T15:06:27.7607341+00:00",
+      "NumProgressed": 3201,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3075,9 +3080,9 @@
       "ID": "bonus5",
       "SetID": "2h56gn1",
       "Name": "Untouchable",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 32
     },
     {
       "ID": "bonus6",
@@ -3093,7 +3098,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "campaign10",
@@ -3181,7 +3186,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "campaign20",
@@ -3197,7 +3202,7 @@
       "Name": "Economics 101",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "campaign4",
@@ -3299,16 +3304,16 @@
       "ID": "scenario7",
       "SetID": "2h56gn1",
       "Name": "A Brief Moment of Respite",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3200,
+      "Progressed": 3201,
       "Completed": 11
     }
   ],
@@ -3316,8 +3321,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:06:07.8182398+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:06:27.7607334+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:00:02.4950971+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:06:07.8183197+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:00:16.659445+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:06:27.7607901+00:00"
 }

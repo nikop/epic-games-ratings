@@ -31,7 +31,7 @@
 | Back for more | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 53 (Ranked 393)  
-Completed: 0 (0.00%) (Ranked 273)  
+Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

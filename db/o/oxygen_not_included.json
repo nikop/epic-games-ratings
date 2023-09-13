@@ -2,12 +2,12 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
-  "Ranking_Rating": 50,
+  "Ranking_Rating": 51,
   "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 593,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -2109,10 +2109,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2301,
       "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2023-09-13T14:57:24.2372169+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2303,
+      "NumberOfAwardsMax": 265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2301,
+  "NumberOfAwards": 2303,
   "NumberOfAwardsMax": 265,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2162,7 +2168,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 236
+      "Count": 238
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2194,8 +2200,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2023-09-13T13:57:11.2482678+00:00",
+  "LastChanged": "2023-09-13T14:57:24.2372167+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.4932362+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:57:11.2482684+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:07:35.4464101+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:57:24.2372174+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:07:55.9134135+00:00"
 }

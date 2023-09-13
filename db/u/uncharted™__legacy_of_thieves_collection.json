@@ -2,12 +2,12 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 145,
+  "Ranking_Rating": 162,
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 593,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -830,18 +830,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 987,
       "NumberOfAwardsMax": 655
+    },
+    {
+      "Time": "2023-09-13T15:02:44.6342822+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 988,
+      "NumberOfAwardsMax": 656
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 987,
-  "NumberOfAwardsMax": 655,
+  "NumberOfAwards": 988,
+  "NumberOfAwardsMax": 656,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 655
+      "Count": 656
     },
     {
       "Text": "This game has Diverse Characters",
@@ -916,8 +922,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2023-09-12T07:00:40.1933596+00:00",
+  "LastChanged": "2023-09-13T15:02:44.634282+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.6334363+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:02:34.3910455+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:08:04.1327749+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:02:44.6342827+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:08:24.4571452+00:00"
 }

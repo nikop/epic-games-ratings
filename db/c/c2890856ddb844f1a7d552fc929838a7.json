@@ -6,7 +6,7 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -1506,17 +1506,17 @@
       "ID": "AC08",
       "SetID": "l4abp0",
       "Name": "Forged in Fire",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 409
+      "UsersEstimate": 417
     },
     {
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 394
     },
     {
       "ID": "AC10",
@@ -1610,9 +1610,9 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 193
     },
     {
       "ID": "AC22",
@@ -1746,9 +1746,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 286
     },
     {
       "ID": "AC39",
@@ -1786,9 +1786,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 363
     },
     {
       "ID": "AC44",
@@ -1819,8 +1819,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:06:08.1477795+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:06:28.0732031+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:00:48.2891094+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:06:08.1478293+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:01:01.4029896+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:06:28.0732579+00:00"
 }

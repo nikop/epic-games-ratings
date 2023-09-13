@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 931)  
+Rating: 4.06 (Ranked 932)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.60% | ~1,372 |
 | The Cursed Farmer | 0.60% | ~1,372 |
 | The Mad Wizard | 0.50% | ~1,143 |
-| The Ring of Regeneration | 0.40% | ~914 |
+| The Ring of Regeneration | 0.40% | ~915 |
 | Maddening | 0.30% | ~686 |
 | Were-verpowered | 0.30% | ~686 |
 | A Persistent Buzzing | 0.30% | ~686 |
@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.20% | ~390 |
 | Vecna Loots! | 0.20% | ~390 |
 | Return to the Tomb | 0.20% | ~390 |
+| Heatwave | 0.20% | ~390 |
 | Beast Mode | 0.20% | ~457 |
 | Terror in the Dark | 0.20% | ~457 |
 | Low Initiative | 0.20% | ~457 |
@@ -142,7 +143,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | More Than Well Equipped | 0.10% | ~195 |
 | Arcane Efforts | 0.10% | ~195 |
 | Keep Your Distance | 0.10% | ~195 |
-| Heatwave | 0.10% | ~195 |
 | To Avernus in a Handbasket | 0.10% | ~195 |
 | Hands Off! | 0.10% | ~195 |
 | The Dread Domain of Tovag | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,621 (Ranked 54)  
+Progressed: 228,632 (Ranked 54)  
 Completed: 2,275 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -673,7 +673,7 @@ Completed: 2,275 (1.00%) (Ranked 123)
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
-| 2023-09-13 | 228,621 | 2,275 |
+| 2023-09-13 | 228,632 | 2,275 |
 ## Awards
 Max (Diverse Characters): 5,266  (Ranked 67)  
 Sum: 31,561 (Ranked 39)  

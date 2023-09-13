@@ -6,7 +6,7 @@
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 68,
-  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
@@ -6004,9 +6004,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136113,
+  "EOS_Progressed": 136116,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21024,6 +21024,11 @@
       "Time": "2023-09-13T14:08:25.3224117+00:00",
       "NumProgressed": 136113,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2023-09-13T15:08:45.4249115+00:00",
+      "NumProgressed": 136116,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 112,
@@ -21177,9 +21182,9 @@
       "ID": "boss02",
       "SetID": "anfd17p",
       "Name": "Big Game Hunting",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 681
     },
     {
       "ID": "boss03",
@@ -21930,15 +21935,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136113,
+      "Progressed": 136116,
       "Completed": 150
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-13T07:03:17.5917291+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:08:25.3224107+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:08:45.4249105+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:57:11.8049246+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:08:25.3228668+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:57:24.7995849+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:08:45.4253562+00:00"
 }

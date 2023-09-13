@@ -3,9 +3,9 @@
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 317,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 28,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -1381,6 +1381,11 @@
       "Time": "2023-09-13T08:03:13.5698479+00:00",
       "NumProgressed": 317,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T15:03:36.2361635+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 14,
@@ -1414,7 +1419,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "296pn27",
       "Name": "The choice",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1422,17 +1427,17 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "296pn27",
       "Name": "Hubris",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "296pn27",
       "Name": "Humility",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -1504,13 +1509,13 @@
       "ID": "296pn27",
       "IsBase": true,
       "Progressed": 317,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:03:26.0419608+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:03:36.2361626+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.1913834+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:00:19.378123+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:03:26.0419822+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:00:32.8489758+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:03:36.236196+00:00"
 }

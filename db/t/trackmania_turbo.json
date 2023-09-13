@@ -2,12 +2,12 @@
   "ID": "8bd4f3286d414820bc7cbcbb849b1f72",
   "Name": "Trackmania Turbo",
   "ProductSlug": "trackmania-turbo",
-  "Ranking_Rating": 50,
+  "Ranking_Rating": 43,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 593,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2016-03-24T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2023-01-21T19:58:17.0263366+00:00",
@@ -50,6 +50,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-09-13T14:58:14.4534418+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -68,8 +74,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:57.415353+00:00",
   "FirstSeenRating": "2023-01-21T19:58:17.0263364+00:00",
-  "LastChanged": "2023-07-19T06:59:49.5275866+00:00",
+  "LastChanged": "2023-09-13T14:58:14.4534417+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:27.1841914+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:58:02.5854848+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:06:08.3482595+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:58:14.4534423+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:06:28.181764+00:00"
 }

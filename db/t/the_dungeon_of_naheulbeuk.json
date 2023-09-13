@@ -6,7 +6,7 @@
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 56,
-  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -882,9 +882,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223682,
+  "EOS_Progressed": 223698,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2016,
+  "EOS_NewPlayers": 2015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10702,6 +10702,11 @@
       "Time": "2023-09-13T14:09:01.1683213+00:00",
       "NumProgressed": 223682,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-13T15:09:21.3780927+00:00",
+      "NumProgressed": 223698,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10761,7 +10766,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6710
+      "UsersEstimate": 6711
     },
     {
       "ID": "Chapter2",
@@ -11113,7 +11118,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8947
+      "UsersEstimate": 8948
     },
     {
       "ID": "DwarfElf15Support",
@@ -11129,7 +11134,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "DwarfInsultWin",
@@ -11145,7 +11150,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6710
+      "UsersEstimate": 6711
     },
     {
       "ID": "ElfEpic",
@@ -11161,7 +11166,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64868
+      "UsersEstimate": 64872
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11209,7 +11214,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8947
+      "UsersEstimate": 8948
     },
     {
       "ID": "FollowBraztok",
@@ -11416,21 +11421,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223682,
+      "Progressed": 223698,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223682,
+      "Progressed": 223698,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-13T13:03:19.4958576+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:09:01.1683207+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:09:21.3780916+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:57:31.842749+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:09:01.1685571+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:57:43.4454757+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:09:21.37826+00:00"
 }

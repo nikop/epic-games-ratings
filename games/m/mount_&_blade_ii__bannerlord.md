@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~23,760 |
-| Landlord | 32.00% | ~19,495 |
-| Bannerlord | 23.00% | ~14,012 |
-| Horde breaker | 23.00% | ~14,012 |
-| Lawmaker | 23.00% | ~14,012 |
-| Trained | 23.00% | ~14,012 |
+| Lawbringer | 39.00% | ~23,761 |
+| Landlord | 32.00% | ~19,496 |
+| Bannerlord | 23.00% | ~14,013 |
+| Horde breaker | 23.00% | ~14,013 |
+| Lawmaker | 23.00% | ~14,013 |
+| Trained | 23.00% | ~14,013 |
 | The king is pleased | 18.00% | ~10,966 |
 | King Solomon | 17.00% | ~10,357 |
 | I can do it | 16.00% | ~9,748 |
-| Apple of my eye | 15.00% | ~9,138 |
+| Apple of my eye | 15.00% | ~9,139 |
 | God of the Arena | 13.00% | ~7,920 |
 | Against all odds | 12.00% | ~7,311 |
-| This Is Our Land | 11.00% | ~6,701 |
+| This Is Our Land | 11.00% | ~6,702 |
 | Duelist | 10.00% | ~6,092 |
 | Swordbearer | 10.00% | ~6,092 |
 | Dynasty | 9.00% | ~5,483 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,922 (Ranked 88)  
-Completed: 0 (0.00%) (Ranked 273)  
+Progressed: 60,925 (Ranked 88)  
+Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,10 +204,10 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 60,769 | 0 |
 | 2023-09-11 | 60,835 | 0 |
 | 2023-09-12 | 60,889 | 0 |
-| 2023-09-13 | 60,922 | 0 |
+| 2023-09-13 | 60,925 | 0 |
 ## Awards
 Max (Character Customization): 7,075  (Ranked 50)  
-Sum: 14,410 (Ranked 69)  
+Sum: 14,411 (Ranked 69)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -218,7 +218,7 @@ Diff (max vs sum): -19
 | This game is Extremely Fun | 824 |
 | This game has Amazing Storytelling | 812 |
 | This game is Relaxing | 804 |
-| This game has Amazing Characters | 794 |
+| This game has Amazing Characters | 795 |
 | This game has Quickly Understood Controls | 790 |
 | This game has a Creative Community | 581 |
 | This game has Obsessive Gameplay | 376 |
@@ -467,4 +467,4 @@ Diff (max vs sum): -19
 | 2023-09-10 | 4.74 | - | 7,065 | 14,378 |
 | 2023-09-11 | 4.74 | - | 7,065 | 14,388 |
 | 2023-09-12 | 4.74 | - | 7,071 | 14,403 |
-| 2023-09-13 | 4.74 | - | 7,075 | 14,410 |
+| 2023-09-13 | 4.74 | - | 7,075 | 14,411 |

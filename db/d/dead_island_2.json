@@ -4408,10 +4408,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8918,
       "NumberOfAwardsMax": 6027
+    },
+    {
+      "Time": "2023-09-13T14:57:52.3638568+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8921,
+      "NumberOfAwardsMax": 6027
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8918,
+  "NumberOfAwards": 8921,
   "NumberOfAwardsMax": 6027,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4431,7 +4437,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 389
+      "Count": 392
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4470,9 +4476,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 679051,
+  "EOS_Progressed": 679090,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 4520,
+  "EOS_NewPlayers": 4522,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20835,6 +20841,11 @@
       "Time": "2023-09-13T14:03:41.6688861+00:00",
       "NumProgressed": 679051,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-13T15:04:11.4598445+00:00",
+      "NumProgressed": 679090,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -20854,7 +20865,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5432
+      "UsersEstimate": 5433
     },
     {
       "ID": "ach_ammo_ran",
@@ -20870,7 +20881,7 @@
       "Name": "Anger Management",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20894,7 +20905,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "ach_bookworm",
@@ -20910,7 +20921,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13581
+      "UsersEstimate": 13582
     },
     {
       "ID": "ach_contender",
@@ -20926,7 +20937,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6111
+      "UsersEstimate": 6112
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -21006,7 +21017,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13581
+      "UsersEstimate": 13582
     },
     {
       "ID": "ach_impressive_aim",
@@ -21086,7 +21097,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5432
+      "UsersEstimate": 5433
     },
     {
       "ID": "ach_revival_tour",
@@ -21102,7 +21113,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "ach_secrets_of_la",
@@ -21142,7 +21153,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4074
+      "UsersEstimate": 4075
     },
     {
       "ID": "ach_the_vcla",
@@ -21182,7 +21193,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13581
+      "UsersEstimate": 13582
     },
     {
       "ID": "ach_well_known_survivor",
@@ -21205,22 +21216,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 679051,
+      "Progressed": 679090,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 4592,
-      "Completed": 4592
+      "Progressed": 4631,
+      "Completed": 4631
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-13T08:57:22.3353101+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:03:41.6688853+00:00",
+  "LastChanged": "2023-09-13T14:57:52.3638566+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:04:11.4598435+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:57:40.1628444+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:03:41.6690893+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:57:52.3638575+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:04:11.4599908+00:00"
 }

@@ -32,9 +32,9 @@ Number of Ratings: 34  (23.09.2022)
 | Sorrow | 20.00% | ~100 |
 | Food Massacre | 19.00% | ~95 |
 | Atonement | 18.00% | ~90 |
+| Helping Hand | 16.00% | ~80 |
 | Collectibles of Chapter III | 15.00% | ~75 |
 | Collectibles of Chapter IV | 15.00% | ~75 |
-| Helping Hand | 15.00% | ~75 |
 | Without a Second Thought | 15.00% | ~75 |
 | Collectibles of Chapter V | 11.00% | ~55 |
 | Such is War! | 9.00% | ~45 |
@@ -67,7 +67,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 498 (Ranked 243)  
-Completed: 0 (0.00%) (Ranked 273)  
+Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

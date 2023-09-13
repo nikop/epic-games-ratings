@@ -6,7 +6,7 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -1852,9 +1852,9 @@
       "ID": "ACH_HEAL",
       "SetID": "1j25agn",
       "Name": "Helping Hand",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -1996,8 +1996,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:09:03.4104979+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:09:23.5690493+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.8307176+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:01:29.8781234+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:09:03.4105854+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:01:42.7346514+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:09:23.5691156+00:00"
 }

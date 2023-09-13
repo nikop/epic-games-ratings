@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 2.00% | ~13,581 |
-| Hotel California | 2.00% | ~13,581 |
-| Welcome To Hell-A | 2.00% | ~13,581 |
+| Break A Leg | 2.00% | ~13,582 |
+| Hotel California | 2.00% | ~13,582 |
+| Welcome To Hell-A | 2.00% | ~13,582 |
 | Dr. Reed, I Presume? | 1.00% | ~6,791 |
 | Git Gutte! | 1.00% | ~6,791 |
 | Bookworm | 1.00% | ~6,791 |
@@ -27,13 +27,13 @@ Rating: 4.54 (Ranked 502)
 | Personal Assistant Personally Assisted | 1.00% | ~6,791 |
 | Our True Nature | 1.00% | ~6,791 |
 | This is My Weapon | 1.00% | ~6,791 |
-| Anger Management | 0.90% | ~6,111 |
-| Perks of the Job | 0.90% | ~6,111 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,111 |
-| Making Your Mark | 0.80% | ~5,432 |
-| Humanity Distilled | 0.80% | ~5,432 |
-| Down with the Sickness | 0.70% | ~4,753 |
-| Max Headroom | 0.60% | ~4,074 |
+| Anger Management | 0.90% | ~6,112 |
+| Perks of the Job | 0.90% | ~6,112 |
+| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,112 |
+| Making Your Mark | 0.80% | ~5,433 |
+| Humanity Distilled | 0.80% | ~5,433 |
+| Down with the Sickness | 0.70% | ~4,754 |
+| Max Headroom | 0.60% | ~4,075 |
 | Jumbo Keyring | 0.50% | ~3,395 |
 | Go, Bobcats! | 0.50% | ~3,395 |
 | Rising Star | 0.50% | ~3,395 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,051 (Ranked 22)  
+Progressed: 679,090 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,17 +197,17 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
-| 2023-09-13 | 679,051 | 2,143 |
+| 2023-09-13 | 679,090 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,027  (Ranked 57)  
-Sum: 8,918 (Ranked 94)  
+Sum: 8,921 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,027 |
 | This game is Great for Beginners | 411 |
 | This game has Diverse Characters | 400 |
-| This game has Quickly Understood Controls | 389 |
+| This game has Quickly Understood Controls | 392 |
 | This game is Relaxing | 373 |
 | This game has Amazing Storytelling | 349 |
 | This game is Extremely Fun | 332 |
@@ -361,4 +361,4 @@ Diff (max vs sum): -37
 | 2023-09-10 | 4.54 | 6,008 | 8,872 |
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
 | 2023-09-12 | 4.54 | 6,016 | 8,905 |
-| 2023-09-13 | 4.54 | 6,027 | 8,918 |
+| 2023-09-13 | 4.54 | 6,027 | 8,921 |

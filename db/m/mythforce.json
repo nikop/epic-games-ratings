@@ -5,9 +5,9 @@
   "Ranking_Rating": 582,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 354,
-  "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_Progress": 188,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -605,9 +605,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1641,
+  "EOS_Progressed": 1659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 454,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4200,6 +4200,11 @@
       "Time": "2023-09-13T14:07:44.6265412+00:00",
       "NumProgressed": 1641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T15:08:05.5145599+00:00",
+      "NumProgressed": 1659,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4244,7 +4249,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -4268,7 +4273,7 @@
       "Name": "First Strike",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -4292,7 +4297,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -4308,7 +4313,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -4348,7 +4353,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -4356,7 +4361,7 @@
       "Name": "Season Finale",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -4372,7 +4377,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -4395,15 +4400,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1641,
+      "Progressed": 1659,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T07:57:28.4120681+00:00",
-  "LastChanged_Achievements": "2023-09-13T14:07:44.6265405+00:00",
+  "LastChanged_Achievements": "2023-09-13T15:08:05.5145592+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:57:53.7288327+00:00",
-  "LastUpdate_Achievements": "2023-09-13T14:07:44.6266392+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:58:05.8565069+00:00",
+  "LastUpdate_Achievements": "2023-09-13T15:08:05.5146008+00:00"
 }

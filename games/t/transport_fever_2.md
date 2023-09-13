@@ -31,8 +31,8 @@ Number of Ratings: 180  (23.09.2022)
 | First aircraft arrived | 41.00% | ~674 |
 | Mass production | 35.00% | ~575 |
 | Aircraft entrepreneur | 33.00% | ~542 |
+| Crowd in a train | 32.00% | ~526 |
 | The future is now, old man | 32.00% | ~526 |
-| Crowd in a train | 31.00% | ~509 |
 | Not in my backyard | 30.00% | ~493 |
 | The king of the sea | 29.00% | ~476 |
 | City | 28.00% | ~460 |
@@ -68,8 +68,8 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~3 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,643 (Ranked 188)  
-Completed: 0 (0.00%) (Ranked 273)  
+Progressed: 1,643 (Ranked 189)  
+Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
