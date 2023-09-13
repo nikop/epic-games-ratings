@@ -5,10 +5,10 @@ Rating: 4.41 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~79,413 |
+| Survivor | 31.00% | ~79,414 |
 | Predator I | 22.00% | ~56,358 |
-| Fixer I | 10.00% | ~25,617 |
-| A week in Century City | 10.00% | ~25,617 |
+| Fixer I | 10.00% | ~25,618 |
+| A week in Century City | 10.00% | ~25,618 |
 | The Wait | 7.00% | ~17,932 |
 | Green thumb I | 6.00% | ~15,370 |
 | Cleaning Company | 6.00% | ~15,370 |
@@ -19,14 +19,14 @@ Rating: 4.41 (Ranked 688)
 | Vandalism | 4.00% | ~10,247 |
 | Capitalist I | 4.00% | ~10,247 |
 | Adrenaline | 3.00% | ~7,685 |
-| By a hair | 2.00% | ~5,123 |
-| Fixer II | 2.00% | ~5,123 |
-| It took a while | 2.00% | ~5,123 |
-| Samurai | 2.00% | ~5,123 |
-| I Left You a Present | 2.00% | ~5,123 |
-| Predator II | 2.00% | ~5,123 |
-| Truffle Dog | 2.00% | ~5,123 |
-| A month in Century City | 2.00% | ~5,123 |
+| By a hair | 2.00% | ~5,124 |
+| Fixer II | 2.00% | ~5,124 |
+| It took a while | 2.00% | ~5,124 |
+| Samurai | 2.00% | ~5,124 |
+| I Left You a Present | 2.00% | ~5,124 |
+| Predator II | 2.00% | ~5,124 |
+| Truffle Dog | 2.00% | ~5,124 |
+| A month in Century City | 2.00% | ~5,124 |
 | The Strengthening | 1.00% | ~2,562 |
 | Saver II | 1.00% | ~2,562 |
 | It's the last one, I swear | 1.00% | ~2,562 |
@@ -62,7 +62,7 @@ Rating: 4.41 (Ranked 688)
 | Capitalist III | 0.10% | ~256 |
 | Hell Is You | 0.10% | ~256 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 256,172 (Ranked 47)  
+Progressed: 256,175 (Ranked 47)  
 Completed: 3 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,17 +208,17 @@ Completed: 3 (0.00%) (Ranked 273)
 | 2023-09-10 | 256,089 | 3 |
 | 2023-09-11 | 256,128 | 3 |
 | 2023-09-12 | 256,165 | 3 |
-| 2023-09-13 | 256,172 | 3 |
+| 2023-09-13 | 256,175 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 37  (Ranked 435)  
-Sum: 253 (Ranked 357)  
+Sum: 254 (Ranked 357)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 37 |
 | This game has Unique Visuals | 34 |
 | This game has Amazing Characters | 31 |
-| This game has Challenging Combat | 29 |
+| This game has Challenging Combat | 30 |
 | This game is Highly Recommended | 29 |
 | This game has a Competitive Community | 26 |
 | This game has Competitive Players | 24 |
@@ -356,4 +356,4 @@ Diff (max vs sum): 78
 | 2023-09-10 | 4.41 | 37 | 229 |
 | 2023-09-11 | 4.41 | 37 | 253 |
 | 2023-09-12 | 4.42 | 37 | 253 |
-| 2023-09-13 | 4.41 | 37 | 253 |
+| 2023-09-13 | 4.41 | 37 | 254 |

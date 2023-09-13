@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11311,
+  "EOS_Progressed": 11312,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9426,6 +9426,11 @@
       "Time": "2023-09-13T10:04:51.4093256+00:00",
       "NumProgressed": 11311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T11:04:07.2715969+00:00",
+      "NumProgressed": 11312,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9636,14 +9641,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11311,
+      "Progressed": 11312,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-13T10:04:51.409325+00:00",
+  "LastChanged_Achievements": "2023-09-13T11:04:07.2715964+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3886572+00:00",
-  "LastUpdate_Ratings": "2023-09-13T10:00:30.7224992+00:00",
-  "LastUpdate_Achievements": "2023-09-13T10:04:51.4094028+00:00"
+  "LastUpdate_Ratings": "2023-09-13T10:59:40.4178904+00:00",
+  "LastUpdate_Achievements": "2023-09-13T11:04:07.2716673+00:00"
 }

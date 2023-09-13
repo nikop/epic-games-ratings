@@ -712,9 +712,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5772,
+  "EOS_Progressed": 5773,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7357,6 +7357,11 @@
       "Time": "2023-09-13T09:05:09.2130359+00:00",
       "NumProgressed": 5772,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T11:04:53.0638141+00:00",
+      "NumProgressed": 5773,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -7368,7 +7373,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -7392,7 +7397,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -7400,7 +7405,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -7408,7 +7413,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 3405
+      "UsersEstimate": 3406
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -7488,7 +7493,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -7647,13 +7652,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 5772,
+      "Progressed": 5773,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5144,
+      "Progressed": 5145,
       "Completed": 112
     }
   ],
@@ -7661,8 +7666,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-09-11T11:58:23.8427352+00:00",
-  "LastChanged_Achievements": "2023-09-13T10:05:46.7789316+00:00",
+  "LastChanged_Achievements": "2023-09-13T11:04:53.0638137+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:41.605376+00:00",
-  "LastUpdate_Ratings": "2023-09-13T09:59:20.1653602+00:00",
-  "LastUpdate_Achievements": "2023-09-13T10:05:46.7790043+00:00"
+  "LastUpdate_Ratings": "2023-09-13T10:58:44.8737405+00:00",
+  "LastUpdate_Achievements": "2023-09-13T11:04:53.0638795+00:00"
 }

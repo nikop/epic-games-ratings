@@ -876,9 +876,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223640,
+  "EOS_Progressed": 223647,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2012,
+  "EOS_NewPlayers": 2011,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10676,6 +10676,11 @@
       "Time": "2023-09-13T10:08:18.0399391+00:00",
       "NumProgressed": 223640,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-13T11:07:09.6736898+00:00",
+      "NumProgressed": 223647,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -11135,7 +11140,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64856
+      "UsersEstimate": 64858
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11207,7 +11212,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "KillDungeonLich",
@@ -11303,7 +11308,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "RangerEpic",
@@ -11390,21 +11395,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223640,
+      "Progressed": 223647,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223640,
+      "Progressed": 223647,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-12T21:56:58.2496582+00:00",
-  "LastChanged_Achievements": "2023-09-13T10:08:18.0399383+00:00",
+  "LastChanged_Achievements": "2023-09-13T11:07:09.6736894+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-13T09:57:26.004942+00:00",
-  "LastUpdate_Achievements": "2023-09-13T10:08:18.0400922+00:00"
+  "LastUpdate_Ratings": "2023-09-13T10:57:11.9757779+00:00",
+  "LastUpdate_Achievements": "2023-09-13T11:07:09.6738803+00:00"
 }

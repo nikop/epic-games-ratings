@@ -5,30 +5,30 @@ Rating: 4.27 (Ranked 821)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,753 |
+| Corner Clout | 46.00% | ~157,755 |
 | Copacetic Coordination | 16.00% | ~54,871 |
-| Fronting the Money | 15.00% | ~51,441 |
+| Fronting the Money | 15.00% | ~51,442 |
 | The Dawn of Automation | 14.00% | ~48,012 |
 | Extraordinary Logistics | 14.00% | ~48,012 |
-| Dirty Money | 13.00% | ~44,582 |
-| Family First | 13.00% | ~44,582 |
+| Dirty Money | 13.00% | ~44,583 |
+| Family First | 13.00% | ~44,583 |
 | Cleaning House | 12.00% | ~41,153 |
 | Room in the Back | 12.00% | ~41,153 |
 | Beating the Heat | 11.00% | ~37,724 |
 | Booze Baron | 11.00% | ~37,724 |
 | Friends on the Force | 10.00% | ~34,294 |
 | Neighborhood Watch | 10.00% | ~34,294 |
-| Core Corps | 8.00% | ~27,435 |
-| Sizeable Stash | 8.00% | ~27,435 |
+| Core Corps | 8.00% | ~27,436 |
+| Sizeable Stash | 8.00% | ~27,436 |
 | Street Fighter | 7.00% | ~24,006 |
 | Friendly Gestures | 7.00% | ~24,006 |
 | People Person | 7.00% | ~24,006 |
-| Liquor Lord | 6.00% | ~20,576 |
-| Safety in Numbers | 6.00% | ~20,576 |
-| Moving Experiences | 6.00% | ~20,576 |
-| Wise Head | 6.00% | ~20,576 |
-| Show ‘em the Sugar | 6.00% | ~20,576 |
-| Killing Them Softly | 6.00% | ~20,576 |
+| Liquor Lord | 6.00% | ~20,577 |
+| Safety in Numbers | 6.00% | ~20,577 |
+| Moving Experiences | 6.00% | ~20,577 |
+| Wise Head | 6.00% | ~20,577 |
+| Show ‘em the Sugar | 6.00% | ~20,577 |
+| Killing Them Softly | 6.00% | ~20,577 |
 | Street Knowledge | 5.00% | ~17,147 |
 | Oh Captain | 5.00% | ~17,147 |
 | Branching Out | 5.00% | ~17,147 |
@@ -59,8 +59,8 @@ Rating: 4.27 (Ranked 821)
 | Full House | 1.00% | ~3,429 |
 | The Rubber Meets the Road | 1.00% | ~3,429 |
 | Cat’s Meow Clubs | 1.00% | ~3,429 |
-| Determined Deliveries | 0.90% | ~3,086 |
-| Stepping It Up | 0.90% | ~3,086 |
+| Determined Deliveries | 0.90% | ~3,087 |
+| Stepping It Up | 0.90% | ~3,087 |
 | Boots in the Ground | 0.80% | ~2,744 |
 | Getting Fancy | 0.80% | ~2,744 |
 | Crossing Over | 0.80% | ~2,744 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 821)
 | High Pillow | 0.10% | ~343 |
 | Station Master | 0.10% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342,941 (Ranked 42)  
+Progressed: 342,945 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 7 (0.00%) (Ranked 273)
 | 2023-09-10 | 342,620 | 7 |
 | 2023-09-11 | 342,759 | 7 |
 | 2023-09-12 | 342,906 | 7 |
-| 2023-09-13 | 342,941 | 7 |
+| 2023-09-13 | 342,945 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 435)  
 Sum: 192 (Ranked 377)  

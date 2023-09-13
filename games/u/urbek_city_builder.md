@@ -9,11 +9,13 @@
 | I like my life | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
 | I like parks | 0.60% | ~2 |
+| Food producer | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
 | The woodcutter | 0.30% | ~1 |
 | It is nice to share with friends in the city | 0.30% | ~1 |
 | Small town | 0.30% | ~1 |
+| Metropolurbek | 0.30% | ~1 |
 | Sport is good for you | 0.30% | ~1 |
 | Soviet town | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
@@ -27,7 +29,6 @@
 | Pumpkin farmer | 0.00% | ~0 |
 | Ready to make sopaipillas | 0.00% | ~0 |
 | Green energy | 0.00% | ~0 |
-| Food producer | 0.00% | ~0 |
 | Food provider master | 0.00% | ~0 |
 | I can't see the sky | 0.00% | ~0 |
 | I can't breathe | 0.00% | ~0 |
@@ -61,7 +62,6 @@
 | Little Mayor | 0.00% | ~0 |
 | Town planner | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |
-| Metropolurbek | 0.00% | ~0 |
 | Metropolurbek Plus | 0.00% | ~0 |
 | Rebel city | 0.00% | ~0 |
 | City in flames | 0.00% | ~0 |

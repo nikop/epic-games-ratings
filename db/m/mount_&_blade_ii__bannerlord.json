@@ -7021,18 +7021,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 14403,
       "NumberOfAwardsMax": 7071
+    },
+    {
+      "Time": "2023-09-13T10:58:31.8282109+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14407,
+      "NumberOfAwardsMax": 7075
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14403,
-  "NumberOfAwardsMax": 7071,
+  "NumberOfAwards": 14407,
+  "NumberOfAwardsMax": 7075,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7071
+      "Count": 7075
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7101,9 +7107,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60907,
+  "EOS_Progressed": 60909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22526,6 +22532,11 @@
       "Time": "2023-09-13T10:06:22.1781299+00:00",
       "NumProgressed": 60907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T11:05:23.1654876+00:00",
+      "NumProgressed": 60909,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22729,7 +22740,7 @@
       "Name": "King Solomon",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 10354
+      "UsersEstimate": 10355
     },
     {
       "ID": "Kingslayer",
@@ -22745,7 +22756,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "Lance-a-lot",
@@ -22761,7 +22772,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19490
+      "UsersEstimate": 19491
     },
     {
       "ID": "Lawbringer",
@@ -22769,7 +22780,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23754
+      "UsersEstimate": 23755
     },
     {
       "ID": "Lawmaker",
@@ -22793,7 +22804,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     },
     {
       "ID": "Minor Clan",
@@ -22889,7 +22900,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10963
+      "UsersEstimate": 10964
     },
     {
       "ID": "This Is Our Land",
@@ -22944,15 +22955,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60907,
+      "Progressed": 60909,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-12T17:58:43.4461922+00:00",
-  "LastChanged_Achievements": "2023-09-13T10:06:22.1781291+00:00",
+  "LastChanged": "2023-09-13T10:58:31.8282107+00:00",
+  "LastChanged_Achievements": "2023-09-13T11:05:23.1654871+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-13T09:59:02.5934848+00:00",
-  "LastUpdate_Achievements": "2023-09-13T10:06:22.1782948+00:00"
+  "LastUpdate_Ratings": "2023-09-13T10:58:31.8282115+00:00",
+  "LastUpdate_Achievements": "2023-09-13T11:05:23.1656203+00:00"
 }

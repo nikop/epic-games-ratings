@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Morgengrauen | 50.00% | ~5 |
-| Path of Despair | 40.00% | ~4 |
+| Path of Despair | 50.00% | ~5 |
 | An act of mercy | 10.00% | ~1 |
 | Ad Infinitum | 10.00% | ~1 |
 | Art critic | 10.00% | ~1 |

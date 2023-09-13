@@ -8,7 +8,7 @@
 | Tinkerer | 67.00% | ~48 |
 | Welcome to the Club | 36.00% | ~26 |
 | A new World ahead | 29.00% | ~21 |
-| Apprentice | 28.00% | ~20 |
+| Apprentice | 29.00% | ~21 |
 | Can't touch this | 22.00% | ~16 |
 | Don't Cry Wolf | 21.00% | ~15 |
 | Freezing Cold | 15.00% | ~11 |
@@ -23,10 +23,10 @@
 | Craftsmen | 8.00% | ~6 |
 | Witch | 8.00% | ~6 |
 | Mirror, Mirror on the Wall | 7.00% | ~5 |
+| The A-Team | 7.00% | ~5 |
 | Defeat Ingla | 6.00% | ~4 |
 | Defeat Uskol | 6.00% | ~4 |
 | Bringing guns to a sword fight | 6.00% | ~4 |
-| The A-Team | 6.00% | ~4 |
 | But what of the Acreans? | 6.00% | ~4 |
 | Defeat Tezuth | 4.00% | ~3 |
 | Ancient Powers | 4.00% | ~3 |

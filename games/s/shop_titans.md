@@ -19,9 +19,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 1.00% | ~1,361 |
 | Capitalism Ho! | 1.00% | ~1,361 |
 | Own the Means of Production | 1.00% | ~1,361 |
+| The Daily Grind | 0.90% | ~1,225 |
 | One-Armed Bandit | 0.90% | ~1,225 |
 | Through Repetition, Perfection | 0.90% | ~1,225 |
-| The Daily Grind | 0.80% | ~1,089 |
 | Bounty Hunters | 0.80% | ~1,089 |
 | Demand for Supplies | 0.80% | ~1,089 |
 | Flooding the Market | 0.80% | ~1,089 |

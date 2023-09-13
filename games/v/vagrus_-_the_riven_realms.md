@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Second Chance | 56.00% | ~78 |
-| Press-ganged | 37.00% | ~51 |
+| Press-ganged | 38.00% | ~53 |
 | The Package | 23.00% | ~32 |
 | Randomized | 17.00% | ~24 |
 | Conquered | 17.00% | ~24 |
@@ -44,6 +44,7 @@
 | Legacy of a Mercenary | 2.00% | ~3 |
 | Delayed | 2.00% | ~3 |
 | A Real Battle | 2.00% | ~3 |
+| The Darkness Within | 2.00% | ~3 |
 | Merchant Lord | 2.00% | ~3 |
 | Insectoid Propagator | 2.00% | ~3 |
 | Making Contact | 1.00% | ~1 |
@@ -54,7 +55,6 @@
 | Talent Nurtured | 1.00% | ~1 |
 | Embellished | 1.00% | ~1 |
 | Trailblazer | 1.00% | ~1 |
-| The Darkness Within | 1.00% | ~1 |
 | Ruiner | 1.00% | ~1 |
 | Wyrmslayer | 1.00% | ~1 |
 | Voracity Confronted | 1.00% | ~1 |

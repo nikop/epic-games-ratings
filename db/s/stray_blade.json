@@ -658,9 +658,9 @@
       "ID": "ACH_REUNITE_WITH_BOJI",
       "SetID": "7i20me3",
       "Name": "The A-Team",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
@@ -690,9 +690,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -753,8 +753,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-13T10:07:54.1850938+00:00",
+  "LastChanged_Achievements": "2023-09-13T11:06:40.0750462+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.5901526+00:00",
-  "LastUpdate_Ratings": "2023-09-13T10:01:35.8263673+00:00",
-  "LastUpdate_Achievements": "2023-09-13T10:07:54.1851385+00:00"
+  "LastUpdate_Ratings": "2023-09-13T11:00:32.8233525+00:00",
+  "LastUpdate_Achievements": "2023-09-13T11:06:40.0750865+00:00"
 }

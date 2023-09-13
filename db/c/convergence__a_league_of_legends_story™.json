@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 863,
+  "EOS_Progressed": 864,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2135,6 +2135,11 @@
       "Time": "2023-09-12T13:10:35.0291776+00:00",
       "NumProgressed": 863,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T11:06:04.2975411+00:00",
+      "NumProgressed": 864,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2218,7 +2223,7 @@
       "Name": "Street Style",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "CultivairChests1",
@@ -2346,7 +2351,7 @@
       "Name": "Cartographer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "NoCritterSump",
@@ -2418,7 +2423,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "PidgeDefeated",
@@ -2569,7 +2574,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 863,
+      "Progressed": 864,
       "Completed": 5
     }
   ],
@@ -2577,8 +2582,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-13T10:07:10.6433584+00:00",
+  "LastChanged_Achievements": "2023-09-13T11:06:04.2975406+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-13T09:58:53.4958892+00:00",
-  "LastUpdate_Achievements": "2023-09-13T10:07:10.6434223+00:00"
+  "LastUpdate_Ratings": "2023-09-13T10:58:23.6693081+00:00",
+  "LastUpdate_Achievements": "2023-09-13T11:06:04.2976032+00:00"
 }

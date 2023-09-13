@@ -20,7 +20,7 @@ Rating: 4.60 (Ranked 394)
 | Honest Mistake | 19.00% | ~164 |
 | Fast Learner | 19.00% | ~164 |
 | Immaculate Aim | 19.00% | ~164 |
-| The Wicked Twins | 18.00% | ~155 |
+| The Wicked Twins | 18.00% | ~156 |
 | Like Clockwork | 17.00% | ~147 |
 | The Betrayer | 17.00% | ~147 |
 | The Loose Cannon | 17.00% | ~147 |
@@ -29,8 +29,8 @@ Rating: 4.60 (Ranked 394)
 | The Man Who Shattered Time | 16.00% | ~138 |
 | Check Your Pulse | 16.00% | ~138 |
 | The Family Fortune | 16.00% | ~138 |
-| Street Style | 15.00% | ~129 |
-| Cartographer | 15.00% | ~129 |
+| Street Style | 15.00% | ~130 |
+| Cartographer | 15.00% | ~130 |
 | Treasure Trove | 14.00% | ~121 |
 | Whiz Kid | 13.00% | ~112 |
 | Good Neighbor | 12.00% | ~104 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 394)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 863 (Ranked 215)  
+Progressed: 864 (Ranked 215)  
 Completed: 5 (0.58%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 5 (0.58%) (Ranked 146)
 | 2023-09-10 | 861 | 5 |
 | 2023-09-11 | 862 | 5 |
 | 2023-09-12 | 863 | 5 |
+| 2023-09-13 | 864 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

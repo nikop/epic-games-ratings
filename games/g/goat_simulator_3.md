@@ -23,8 +23,8 @@ Rating: 4.84 (Ranked 50)
 | Raider of the Lost Parking Garage | 26.00% | ~63,341 |
 | Welcome to Earth | 25.00% | ~60,905 |
 | Into the Matrix | 19.00% | ~46,288 |
+| Egg Simulator | 18.00% | ~43,851 |
 | Where is It? | 17.00% | ~41,415 |
-| Egg Simulator | 17.00% | ~41,415 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~36,543 |
 | Black Market | 14.00% | ~34,107 |
 | 401(K.O.) | 14.00% | ~34,107 |
@@ -194,14 +194,14 @@ Completed: 827 (0.34%) (Ranked 175)
 | 2023-09-13 | 243,619 | 827 |
 ## Awards
 Max (Great for Beginners): 395  (Ranked 218)  
-Sum: 3,368 (Ranked 156)  
+Sum: 3,370 (Ranked 156)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 395 |
 | This game has Diverse Characters | 382 |
 | This game is Highly Recommended | 360 |
-| This game has Amazing Characters | 338 |
+| This game has Amazing Characters | 340 |
 | This game is Extremely Fun | 335 |
 | This game is Relaxing | 322 |
 | This game has Amazing Storytelling | 322 |
@@ -384,3 +384,4 @@ Diff (max vs sum): 62
 | 2023-09-10 | 4.84 | 393 | 3,351 |
 | 2023-09-11 | 4.84 | 393 | 3,359 |
 | 2023-09-12 | 4.84 | 395 | 3,368 |
+| 2023-09-13 | 4.84 | 395 | 3,370 |
