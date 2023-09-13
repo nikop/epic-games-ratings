@@ -29,7 +29,7 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.68% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.13% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.12% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.74% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.18% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
 | 41 | [Scorn](games/s/scorn.md) | 7.00% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.50% |
@@ -89,13 +89,13 @@
 | 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
-| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.21% |
 | 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.21% |
+| 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.20% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.13% |
 | 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.08% |
 | 95 | [FORECLOSED](games/f/foreclosed.md) | 2.06% |
-| 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
+| 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 98 | [Night Book](games/n/night_book.md) | 1.86% |
 | 99 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -128,7 +128,7 @@
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
-| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
+| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.90% |
 | 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.86% |
 | 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |

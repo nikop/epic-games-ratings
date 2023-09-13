@@ -20,7 +20,7 @@
 | 18 | [Dauntless](games/d/dauntless.md) | 21,897 | 4.53 | 520 |
 | 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 19,463 | 4.57 | 450 |
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 19,228 | 4.26 | 829 |
-| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,253 | 4.89 | 13 |
+| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,279 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 17,037 | 4.60 | 394 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,293 | 4.76 | 117 |
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,475 | 4.58 | 430 |
@@ -56,7 +56,7 @@
 | 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,440 | 4.80 | 83 |
 | 55 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,357 | 4.58 | 430 |
 | 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,064 | 4.69 | 216 |
-| 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,016 | 4.54 | 502 |
+| 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,027 | 4.54 | 502 |
 | 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,000 | 4.79 | 88 |
 | 59 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,968 | 4.64 | 315 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,917 | 4.75 | 136 |
@@ -67,7 +67,7 @@
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 5,391 | 4.66 | 281 |
 | 65 | [Rogue Company](games/r/rogue_company.md) | 5,391 | 4.33 | 771 |
 | 67 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,266 | 4.06 | 931 |
-| 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,924 | 4.69 | 216 |
+| 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4,933 | 4.69 | 216 |
 | 69 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,838 | 4.77 | 109 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 468 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,738 | 3.99 | 945 |
@@ -148,9 +148,9 @@
 | 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 977 | 4.69 | 216 |
 | 147 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 964 | 4.31 | 791 |
 | 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 948 | 4.76 | 117 |
-| 149 | [Sonic Mania](games/s/sonic_mania.md) | 938 | 4.78 | 101 |
-| 150 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 935 | 4.54 | 502 |
-| 151 | [The Sims™ 4](games/t/the_sims™_4.md) | 934 | 4.62 | 353 |
+| 149 | [The Sims™ 4](games/t/the_sims™_4.md) | 943 | 4.62 | 353 |
+| 150 | [Sonic Mania](games/s/sonic_mania.md) | 938 | 4.78 | 101 |
+| 151 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 935 | 4.54 | 502 |
 | 152 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 922 | 4.79 | 88 |
 | 153 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 878 | 4.45 | 639 |
 | 154 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 846 | 4.56 | 468 |
@@ -252,9 +252,9 @@
 | 250 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 265 | 4.84 | 50 |
 | 251 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 261 | 4.58 | 430 |
 | 252 | [MudRunner](games/m/mudrunner.md) | 259 | 4.61 | 368 |
-| 253 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 254 | 4.50 | 563 |
-| 253 | [Hello Neighbor](games/h/hello_neighbor.md) | 254 | 4.55 | 484 |
-| 253 | [Roller Champions™](games/r/roller_champions™.md) | 254 | 4.34 | 765 |
+| 253 | [Hello Neighbor](games/h/hello_neighbor.md) | 257 | 4.55 | 484 |
+| 254 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 254 | 4.50 | 563 |
+| 254 | [Roller Champions™](games/r/roller_champions™.md) | 254 | 4.34 | 765 |
 | 256 | [Crysis Remastered](games/c/crysis_remastered.md) | 248 | 4.41 | 688 |
 | 257 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 247 | 4.45 | 639 |
 | 258 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 245 | 4.82 | 66 |
