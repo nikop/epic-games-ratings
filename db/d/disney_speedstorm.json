@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -4753,9 +4753,9 @@
       "ID": "21",
       "SetID": "9p3jgda",
       "Name": "ACE DEFENDER",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 476
+      "UsersEstimate": 507
     },
     {
       "ID": "22",
@@ -4847,8 +4847,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-13T08:07:09.888534+00:00",
+  "LastChanged_Achievements": "2023-09-13T09:07:12.8464625+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:18.3778011+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:57:43.6714452+00:00",
-  "LastUpdate_Achievements": "2023-09-13T08:07:09.8885697+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:57:46.1720923+00:00",
+  "LastUpdate_Achievements": "2023-09-13T09:07:12.8465093+00:00"
 }

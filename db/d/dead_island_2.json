@@ -4402,18 +4402,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 8907,
       "NumberOfAwardsMax": 6016
+    },
+    {
+      "Time": "2023-09-13T08:57:22.3353102+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8918,
+      "NumberOfAwardsMax": 6027
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8907,
-  "NumberOfAwardsMax": 6016,
+  "NumberOfAwards": 8918,
+  "NumberOfAwardsMax": 6027,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6016
+      "Count": 6027
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4464,9 +4470,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 678916,
+  "EOS_Progressed": 678937,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 4522,
+  "EOS_NewPlayers": 4526,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20799,6 +20805,11 @@
       "Time": "2023-09-13T08:03:24.0091996+00:00",
       "NumProgressed": 678916,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-13T09:03:37.1271845+00:00",
+      "NumProgressed": 678937,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -20874,7 +20885,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13578
+      "UsersEstimate": 13579
     },
     {
       "ID": "ach_contender",
@@ -20970,7 +20981,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13578
+      "UsersEstimate": 13579
     },
     {
       "ID": "ach_impressive_aim",
@@ -21024,9 +21035,9 @@
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6110
+      "UsersEstimate": 6789
     },
     {
       "ID": "ach_magnum_opus",
@@ -21066,7 +21077,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "ach_secrets_of_la",
@@ -21106,7 +21117,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 4073
+      "UsersEstimate": 4074
     },
     {
       "ID": "ach_the_vcla",
@@ -21146,7 +21157,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13578
+      "UsersEstimate": 13579
     },
     {
       "ID": "ach_well_known_survivor",
@@ -21169,22 +21180,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 678916,
+      "Progressed": 678937,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 4457,
-      "Completed": 4457
+      "Progressed": 4478,
+      "Completed": 4478
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-13T05:57:32.1100004+00:00",
-  "LastChanged_Achievements": "2023-09-13T08:03:24.009199+00:00",
+  "LastChanged": "2023-09-13T08:57:22.3353101+00:00",
+  "LastChanged_Achievements": "2023-09-13T09:03:37.1271839+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:57:19.3313533+00:00",
-  "LastUpdate_Achievements": "2023-09-13T08:03:24.0093083+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:57:22.3353107+00:00",
+  "LastUpdate_Achievements": "2023-09-13T09:03:37.1273226+00:00"
 }

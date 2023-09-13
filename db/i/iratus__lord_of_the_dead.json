@@ -2142,7 +2142,7 @@
   ],
   "EOS_Progressed": 39776,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18206,9 +18206,9 @@
       "ID": "achievements_51",
       "SetID": "6hgbao0",
       "Name": "Prepared Necromancer",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 15910
+      "UsersEstimate": 16308
     },
     {
       "ID": "achievements_52",
@@ -18462,8 +18462,8 @@
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-09-09T22:01:15.7942849+00:00",
-  "LastChanged_Achievements": "2023-09-13T08:08:20.0742231+00:00",
+  "LastChanged_Achievements": "2023-09-13T09:09:12.1671049+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.3039607+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:57:30.1197407+00:00",
-  "LastUpdate_Achievements": "2023-09-13T08:08:20.0743679+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:57:32.7568583+00:00",
+  "LastUpdate_Achievements": "2023-09-13T09:09:12.1672929+00:00"
 }

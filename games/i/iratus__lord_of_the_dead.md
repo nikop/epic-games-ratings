@@ -18,7 +18,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Distillation | 43.00% | ~17,104 |
 | Mountain King - I | 42.00% | ~16,706 |
 | Transmutation | 42.00% | ~16,706 |
-| Prepared Necromancer | 40.00% | ~15,910 |
+| Prepared Necromancer | 41.00% | ~16,308 |
 | Mountain King - II | 39.00% | ~15,513 |
 | Blind Rage | 38.00% | ~15,115 |
 | Mad Genius | 35.00% | ~13,922 |

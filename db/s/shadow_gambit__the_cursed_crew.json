@@ -6,7 +6,7 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_Completed": 91,
   "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 634,
+  "EOS_Progressed": 635,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.21,
+  "EOS_Completed_Percentage": 2.2,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1669,6 +1669,11 @@
       "Time": "2023-09-13T01:45:42.0361566+00:00",
       "NumProgressed": 634,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-13T09:04:05.014286+00:00",
+      "NumProgressed": 635,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1703,9 +1708,9 @@
       "ID": "_04_CollectAllRelics",
       "SetID": "8a1io5d",
       "Name": "This Belongs in a Museum",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 235
     },
     {
       "ID": "_05_FinishAct2",
@@ -1713,7 +1718,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -1753,7 +1758,7 @@
       "Name": "Buccaneer",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "_11_Completion_40",
@@ -1767,9 +1772,9 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 70
     },
     {
       "ID": "_13_Completion_60",
@@ -1801,7 +1806,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -1809,7 +1814,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1833,7 +1838,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -1841,7 +1846,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -1888,7 +1893,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 634,
+      "Progressed": 635,
       "Completed": 14
     }
   ],
@@ -1896,8 +1901,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-13T08:03:52.1078825+00:00",
+  "LastChanged_Achievements": "2023-09-13T09:04:05.0142854+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:57:10.2635487+00:00",
-  "LastUpdate_Achievements": "2023-09-13T08:03:52.1079134+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:57:11.30334+00:00",
+  "LastUpdate_Achievements": "2023-09-13T09:04:05.0143165+00:00"
 }

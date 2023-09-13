@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107495,
+  "EOS_Progressed": 107500,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 905,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10701,6 +10701,11 @@
       "Time": "2023-09-13T08:07:12.4076869+00:00",
       "NumProgressed": 107495,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-09-13T09:07:15.523839+00:00",
+      "NumProgressed": 107500,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 49,
@@ -10712,7 +10717,7 @@
       "Name": "Guacamastery",
       "Percentage": 0.1,
       "XP": 130,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_1",
@@ -10720,7 +10725,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81696
+      "UsersEstimate": 81700
     },
     {
       "ID": "EAwards_10",
@@ -10728,7 +10733,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11824
+      "UsersEstimate": 11825
     },
     {
       "ID": "EAwards_11",
@@ -10736,7 +10741,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 27949
+      "UsersEstimate": 27950
     },
     {
       "ID": "EAwards_12",
@@ -10744,7 +10749,7 @@
       "Name": "Cluckstorm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15049
+      "UsersEstimate": 15050
     },
     {
       "ID": "EAwards_13",
@@ -10752,7 +10757,7 @@
       "Name": "The Floor Is...",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "EAwards_14",
@@ -10784,7 +10789,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38698
+      "UsersEstimate": 38700
     },
     {
       "ID": "EAwards_18",
@@ -10808,7 +10813,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51598
+      "UsersEstimate": 51600
     },
     {
       "ID": "EAwards_20",
@@ -10856,7 +10861,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 19349
+      "UsersEstimate": 19350
     },
     {
       "ID": "EAwards_26",
@@ -10864,7 +10869,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 11824
+      "UsersEstimate": 11825
     },
     {
       "ID": "EAwards_27",
@@ -10896,7 +10901,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20424
+      "UsersEstimate": 20425
     },
     {
       "ID": "EAwards_30",
@@ -10960,7 +10965,7 @@
       "Name": "Cool Cat Counter Attack",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_38",
@@ -10968,7 +10973,7 @@
       "Name": "Steal the Show",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_39",
@@ -10976,7 +10981,7 @@
       "Name": "Body Builder",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_4",
@@ -10984,7 +10989,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12899
+      "UsersEstimate": 12900
     },
     {
       "ID": "EAwards_40",
@@ -10992,7 +10997,7 @@
       "Name": "Welcome to MY World",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_41",
@@ -11000,7 +11005,7 @@
       "Name": "Jaguar\u0027s Redemption",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_42",
@@ -11008,7 +11013,7 @@
       "Name": "Slippery Snake",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_43",
@@ -11016,7 +11021,7 @@
       "Name": "Explosion Therapy",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_44",
@@ -11024,7 +11029,7 @@
       "Name": "Snake Temple Throwdown",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_45",
@@ -11032,7 +11037,7 @@
       "Name": "Salvador\u2019s Sister Act",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "EAwards_46",
@@ -11080,7 +11085,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11824
+      "UsersEstimate": 11825
     },
     {
       "ID": "EAwards_8",
@@ -11088,7 +11093,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11824
+      "UsersEstimate": 11825
     },
     {
       "ID": "EAwards_9",
@@ -11103,7 +11108,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107495,
+      "Progressed": 107500,
       "Completed": 41
     }
   ],
@@ -11111,8 +11116,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-13T08:07:12.4076862+00:00",
+  "LastChanged_Achievements": "2023-09-13T09:07:15.5238383+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.278544+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:59:40.4514885+00:00",
-  "LastUpdate_Achievements": "2023-09-13T08:07:12.4077693+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:59:40.4293739+00:00",
+  "LastUpdate_Achievements": "2023-09-13T09:07:15.5239484+00:00"
 }

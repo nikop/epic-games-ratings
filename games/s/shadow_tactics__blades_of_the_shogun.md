@@ -7,16 +7,16 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 11.00% | ~22,202 |
-| A thief's beginning | 10.00% | ~20,183 |
-| Thorough | 10.00% | ~20,183 |
+| A thief's beginning | 10.00% | ~20,184 |
+| Thorough | 10.00% | ~20,184 |
 | Disguised | 8.00% | ~16,147 |
 | Rescue Takuma | 8.00% | ~16,147 |
 | Rollin' | 8.00% | ~16,147 |
 | Tanuki Time | 8.00% | ~16,147 |
-| Ice Ice Yuki | 7.00% | ~14,128 |
-| Jonin | 7.00% | ~14,128 |
-| Stoned Ox | 7.00% | ~14,128 |
-| Yabu | 7.00% | ~14,128 |
+| Ice Ice Yuki | 7.00% | ~14,129 |
+| Jonin | 7.00% | ~14,129 |
+| Stoned Ox | 7.00% | ~14,129 |
+| Yabu | 7.00% | ~14,129 |
 | Chunin | 6.00% | ~12,110 |
 | Flying Rocks | 6.00% | ~12,110 |
 | Happy Planning | 6.00% | ~12,110 |
@@ -25,9 +25,9 @@ Number of Ratings: 495  (23.09.2022)
 | Okkoto | 5.00% | ~10,092 |
 | Prisoners | 5.00% | ~10,092 |
 | Too Early | 5.00% | ~10,092 |
-| Gear up | 4.00% | ~8,073 |
-| Happy little accidents | 4.00% | ~8,073 |
-| Still Rollin' | 4.00% | ~8,073 |
+| Gear up | 4.00% | ~8,074 |
+| Happy little accidents | 4.00% | ~8,074 |
+| Still Rollin' | 4.00% | ~8,074 |
 | Noboru | 3.00% | ~6,055 |
 | Stoned | 3.00% | ~6,055 |
 | The Old Way | 3.00% | ~6,055 |
@@ -39,19 +39,19 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,018 |
 | The End | 1.00% | ~2,018 |
 | Undeserved Honor | 1.00% | ~2,018 |
-| When Cut Across the Neck | 0.90% | ~1,816 |
+| When Cut Across the Neck | 0.90% | ~1,817 |
 | High Five the Moon | 0.80% | ~1,615 |
 | The Cave | 0.70% | ~1,413 |
 | Merciful | 0.50% | ~1,009 |
 | Time Paradox | 0.50% | ~1,009 |
-| Five Shadows | 0.30% | ~605 |
+| Five Shadows | 0.30% | ~606 |
 | Chicken Dinner | 0.10% | ~202 |
 | Complete Mastery | 0.10% | ~202 |
 | Mimimi | 0.10% | ~202 |
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,833 (Ranked 61)  
+Progressed: 201,838 (Ranked 61)  
 Completed: 79 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 79 (0.04%) (Ranked 241)
 | 2023-09-10 | 201,431 | 77 |
 | 2023-09-11 | 201,603 | 77 |
 | 2023-09-12 | 201,788 | 79 |
-| 2023-09-13 | 201,833 | 79 |
+| 2023-09-13 | 201,838 | 79 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
 Sum: 4,752 (Ranked 136)  

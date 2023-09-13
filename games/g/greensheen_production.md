@@ -39,7 +39,7 @@
 | In The Palm Of My Hand | 0.00% | ~0 |
 | Primetime Content Consumer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 492)  
+Progressed: 5 (Ranked 493)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |

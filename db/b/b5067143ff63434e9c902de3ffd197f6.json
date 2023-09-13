@@ -2,9 +2,9 @@
   "ID": "b5067143ff63434e9c902de3ffd197f6",
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
-  "Ranking_EOS_Progress": 492,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
     {
       "Time": "2023-09-12T20:05:36.0847175+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T09:05:14.0704128+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -86,7 +91,7 @@
       "ID": "ACH_LEVEL974",
       "SetID": "1lo1k0a",
       "Name": "KITTY",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -102,7 +107,7 @@
       "ID": "ACH_RUNFORYOURLIFE",
       "SetID": "1lo1k0a",
       "Name": "RUN",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -150,25 +155,25 @@
       "ID": "ACH_WINLEVEL0",
       "SetID": "1lo1k0a",
       "Name": "Level 0",
-      "Percentage": 80,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_WINLEVEL1",
       "SetID": "1lo1k0a",
       "Name": "Level 1",
-      "Percentage": 20,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WINLEVEL2",
       "SetID": "1lo1k0a",
       "Name": "Dreamer!",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -230,7 +235,7 @@
       "ID": "ACH_WINLEVELFUN",
       "SetID": "1lo1k0a",
       "Name": "FUN",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -247,13 +252,13 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-09-13T08:05:00.8203303+00:00",
+  "LastChanged_Achievements": "2023-09-13T09:05:14.0704121+00:00",
   "LastUpdate_AppInfo": "2023-09-11T10:57:01.5890238+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:59:31.3966193+00:00",
-  "LastUpdate_Achievements": "2023-09-13T08:05:00.8203529+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:59:32.4858001+00:00",
+  "LastUpdate_Achievements": "2023-09-13T09:05:14.0704304+00:00"
 }

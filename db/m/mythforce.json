@@ -605,9 +605,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1608,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4170,6 +4170,11 @@
       "Time": "2023-09-13T08:06:09.7661964+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T09:06:23.1168595+00:00",
+      "NumProgressed": 1608,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4260,9 +4265,9 @@
       "ID": "MF_Ach_HarderTheyFall",
       "SetID": "9b9n573",
       "Name": "The Harder They Fall",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -4324,9 +4329,9 @@
       "ID": "MF_Ach_SeasonFinale",
       "SetID": "9b9n573",
       "Name": "Season Finale",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -4365,15 +4370,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1608,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T07:57:28.4120681+00:00",
-  "LastChanged_Achievements": "2023-09-13T08:06:09.7661957+00:00",
+  "LastChanged_Achievements": "2023-09-13T09:06:23.116859+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:57:28.4120686+00:00",
-  "LastUpdate_Achievements": "2023-09-13T08:06:09.7662354+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:57:31.1382926+00:00",
+  "LastUpdate_Achievements": "2023-09-13T09:06:23.1168986+00:00"
 }

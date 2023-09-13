@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,513 |
-| First Class Student | 13.00% | ~38,547 |
-| Troll with the Punches | 12.00% | ~35,582 |
+| First Class Student | 13.00% | ~38,548 |
+| Troll with the Punches | 12.00% | ~35,583 |
 | A Keen Sense of Spell | 11.00% | ~32,617 |
 | That's a Keeper | 11.00% | ~32,617 |
 | Grappling with a Graphorn | 10.00% | ~29,652 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,779 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,519 (Ranked 43)  
+Progressed: 296,521 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 470 (0.16%) (Ranked 202)
 | 2023-09-10 | 296,327 | 470 |
 | 2023-09-11 | 296,418 | 470 |
 | 2023-09-12 | 296,501 | 470 |
-| 2023-09-13 | 296,519 | 470 |
+| 2023-09-13 | 296,521 | 470 |
 ## Awards
 Max (Character Customization): 22,582  (Ranked 17)  
 Sum: 43,093 (Ranked 30)  

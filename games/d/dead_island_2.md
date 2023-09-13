@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 2.00% | ~13,578 |
-| Hotel California | 2.00% | ~13,578 |
-| Welcome To Hell-A | 2.00% | ~13,578 |
+| Break A Leg | 2.00% | ~13,579 |
+| Hotel California | 2.00% | ~13,579 |
+| Welcome To Hell-A | 2.00% | ~13,579 |
 | Dr. Reed, I Presume? | 1.00% | ~6,789 |
 | Git Gutte! | 1.00% | ~6,789 |
 | Bookworm | 1.00% | ~6,789 |
@@ -20,6 +20,7 @@ Rating: 4.54 (Ranked 502)
 | Friends Like These | 1.00% | ~6,789 |
 | Apex Predator | 1.00% | ~6,789 |
 | Zombologist | 1.00% | ~6,789 |
+| Ooh, Shiny! | 1.00% | ~6,789 |
 | A Patton Emerges | 1.00% | ~6,789 |
 | I Am the Resurrection | 1.00% | ~6,789 |
 | Stacking the Deck | 1.00% | ~6,789 |
@@ -29,11 +30,10 @@ Rating: 4.54 (Ranked 502)
 | Anger Management | 0.90% | ~6,110 |
 | Perks of the Job | 0.90% | ~6,110 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,110 |
-| Ooh, Shiny! | 0.90% | ~6,110 |
 | Making Your Mark | 0.80% | ~5,431 |
 | Humanity Distilled | 0.80% | ~5,431 |
-| Down with the Sickness | 0.70% | ~4,752 |
-| Max Headroom | 0.60% | ~4,073 |
+| Down with the Sickness | 0.70% | ~4,753 |
+| Max Headroom | 0.60% | ~4,074 |
 | Jumbo Keyring | 0.50% | ~3,395 |
 | Go, Bobcats! | 0.50% | ~3,395 |
 | Rising Star | 0.50% | ~3,395 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,916 (Ranked 22)  
+Progressed: 678,937 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,14 +197,14 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
-| 2023-09-13 | 678,916 | 2,143 |
+| 2023-09-13 | 678,937 | 2,143 |
 ## Awards
-Max (Great Boss Battles): 6,016  (Ranked 57)  
-Sum: 8,907 (Ranked 94)  
+Max (Great Boss Battles): 6,027  (Ranked 57)  
+Sum: 8,918 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,016 |
+| This game has Great Boss Battles | 6,027 |
 | This game is Great for Beginners | 411 |
 | This game has Diverse Characters | 400 |
 | This game has Quickly Understood Controls | 389 |
@@ -361,4 +361,4 @@ Diff (max vs sum): -37
 | 2023-09-10 | 4.54 | 6,008 | 8,872 |
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
 | 2023-09-12 | 4.54 | 6,016 | 8,905 |
-| 2023-09-13 | 4.54 | 6,016 | 8,907 |
+| 2023-09-13 | 4.54 | 6,027 | 8,918 |

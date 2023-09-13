@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 89.00% | ~2,839 |
-| Flanked! | 79.00% | ~2,520 |
-| Economics 101 | 64.00% | ~2,042 |
-| Get Rich Quick | 47.00% | ~1,499 |
-| Do the Splits | 41.00% | ~1,308 |
-| Maestro | 28.00% | ~893 |
-| Full Employment | 20.00% | ~638 |
-| Clay Fighter | 18.00% | ~574 |
-| Nowhere left to Hide | 15.00% | ~478 |
+| You and what Army? | 89.00% | ~2,842 |
+| Flanked! | 79.00% | ~2,522 |
+| Economics 101 | 64.00% | ~2,044 |
+| Get Rich Quick | 47.00% | ~1,501 |
+| Do the Splits | 41.00% | ~1,309 |
+| Maestro | 28.00% | ~894 |
+| Full Employment | 20.00% | ~639 |
+| Clay Fighter | 18.00% | ~575 |
+| Nowhere left to Hide | 15.00% | ~479 |
 | All Ovens Blazing | 14.00% | ~447 |
 | Boulder Clash | 14.00% | ~447 |
 | Held Back by the Roots | 13.00% | ~415 |
 | Well Supplied | 11.00% | ~351 |
 | Damage Control | 8.00% | ~255 |
 | Master of the Brawl | 8.00% | ~255 |
-| Sniped | 7.00% | ~223 |
-| Leave Them no Cake | 7.00% | ~223 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~223 |
-| Your Biggest Fans | 6.00% | ~191 |
-| For the Queen | 6.00% | ~191 |
-| A Secret Recipe | 6.00% | ~191 |
+| Sniped | 7.00% | ~224 |
+| Leave Them no Cake | 7.00% | ~224 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~224 |
+| Your Biggest Fans | 6.00% | ~192 |
+| For the Queen | 6.00% | ~192 |
+| A Secret Recipe | 6.00% | ~192 |
 | An Ally in Need | 5.00% | ~160 |
 | Not a Drop Wasted | 5.00% | ~160 |
 | We Have the Technology | 5.00% | ~160 |
@@ -38,7 +38,7 @@
 | Untouchable | 2.00% | ~64 |
 | All Geared Up | 1.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,190 (Ranked 163)  
+Progressed: 3,193 (Ranked 163)  
 Completed: 11 (0.34%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 11 (0.34%) (Ranked 175)
 | 2023-09-10 | 3,151 | 11 |
 | 2023-09-11 | 3,154 | 11 |
 | 2023-09-12 | 3,170 | 11 |
-| 2023-09-13 | 3,190 | 11 |
+| 2023-09-13 | 3,193 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
