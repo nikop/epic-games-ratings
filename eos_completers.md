@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.14% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.56% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.27% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.37% |
@@ -55,7 +55,7 @@
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
-| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.61% |
+| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.58% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
@@ -112,7 +112,7 @@
 | 110 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
-| 113 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.36% |
+| 113 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.35% |
 | 114 | [Chorus](games/c/chorus.md) | 1.28% |
 | 115 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 116 | [Infindustry](games/i/infindustry.md) | 1.23% |
@@ -176,8 +176,8 @@
 | 172 | [The Surge](games/t/the_surge.md) | 0.35% |
 | 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
 | 175 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
-| 177 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.33% |
-| 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 177 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
+| 177 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.32% |
 | 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 179 | [The Devil's Face](games/t/the_devil's_face.md) | 0.31% |
 | 181 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
