@@ -82,7 +82,7 @@
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 517 |
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 469 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 517 |
-| 83 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,437 | 54 |
+| 83 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,440 | 54 |
 | 83 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 517 |
 | 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 337 |
 | 83 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 517 |
@@ -488,6 +488,7 @@
 | 484 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 517 |
 | 484 | [Deceive Inc.](games/d/deceive_inc..md) | 4.55 | 0 | 517 |
 | 484 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.55 | 286 | 242 |
+| 484 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.55 | 73 | 378 |
 | 484 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.55 | 35 | 445 |
 | 484 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.55 | 254 | 253 |
 | 484 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 0 | 517 |
@@ -501,24 +502,23 @@
 | 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 348 | 227 |
 | 484 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 366 |
 | 484 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,267 | 134 |
-| 502 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
-| 502 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,428 | 128 |
-| 502 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,016 | 57 |
-| 502 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |
-| 502 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
-| 502 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,346 | 130 |
-| 502 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.54 | 73 | 378 |
-| 502 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 517 |
-| 502 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 380 |
-| 502 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 498 |
-| 502 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 517 |
-| 502 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 455 |
-| 502 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 88 | 358 |
-| 502 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 517 |
-| 502 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 348 |
-| 502 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 517 |
-| 502 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 517 |
-| 502 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 517 |
+| 503 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
+| 503 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,428 | 128 |
+| 503 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,016 | 57 |
+| 503 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |
+| 503 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
+| 503 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,346 | 130 |
+| 503 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 517 |
+| 503 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 380 |
+| 503 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 498 |
+| 503 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 517 |
+| 503 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 455 |
+| 503 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 88 | 358 |
+| 503 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 517 |
+| 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 348 |
+| 503 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 517 |
+| 503 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 517 |
+| 503 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 517 |
 | 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
 | 520 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 517 |
 | 520 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,897 | 18 |
