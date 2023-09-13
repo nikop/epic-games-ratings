@@ -116,7 +116,7 @@
 | 114 | [Chorus](games/c/chorus.md) | 1.28% |
 | 115 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 116 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 117 | [Eternights](games/e/eternights.md) | 1.19% |
+| 117 | [Eternights](games/e/eternights.md) | 1.14% |
 | 118 | [Trifox](games/t/trifox.md) | 1.10% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
