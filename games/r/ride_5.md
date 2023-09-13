@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Love | 39.00% | ~283 |
-| Hear That Roar! | 38.00% | ~276 |
 | Clean Race | 38.00% | ~276 |
+| Hear That Roar! | 37.00% | ~269 |
 | Eat My Dust | 31.00% | ~225 |
-| Rivals to the End | 29.00% | ~210 |
-| We're Going to Need a Bigger Garage | 25.00% | ~181 |
-| I'm Here Too! | 25.00% | ~181 |
+| Rivals to the End | 29.00% | ~211 |
+| We're Going to Need a Bigger Garage | 25.00% | ~182 |
+| I'm Here Too! | 25.00% | ~182 |
 | Bitter Rivalry | 19.00% | ~138 |
 | I Want One Too! | 17.00% | ~123 |
 | Champagne Spray | 15.00% | ~109 |
@@ -18,19 +18,19 @@
 | Quick Pit Stop | 14.00% | ~102 |
 | Go-Faster Stripes | 13.00% | ~94 |
 | Legendary!!! | 13.00% | ~94 |
+| Stamina Star | 6.00% | ~44 |
 | Evangelist | 6.00% | ~44 |
 | We've Just Begun | 6.00% | ~44 |
-| Stamina Star | 5.00% | ~36 |
 | Is It the Right Size? | 5.00% | ~36 |
 | Make It Your Own! | 4.00% | ~29 |
 | Still Here | 4.00% | ~29 |
-| Iconic! | 2.00% | ~14 |
-| Spoilt for Choice | 2.00% | ~14 |
-| Cherry Blossom and Temples | 2.00% | ~14 |
-| La Dolce Vita | 2.00% | ~14 |
-| The Road to Liberty | 2.00% | ~14 |
-| Romantic Races | 2.00% | ~14 |
-| I Make the Rules! | 2.00% | ~14 |
+| Iconic! | 2.00% | ~15 |
+| Spoilt for Choice | 2.00% | ~15 |
+| Cherry Blossom and Temples | 2.00% | ~15 |
+| La Dolce Vita | 2.00% | ~15 |
+| The Road to Liberty | 2.00% | ~15 |
+| Romantic Races | 2.00% | ~15 |
+| I Make the Rules! | 2.00% | ~15 |
 | I'll Be the Best! | 1.00% | ~7 |
 | Rounding Off | 1.00% | ~7 |
 | My Work Here Is Done | 1.00% | ~7 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725 (Ranked 222)  
+Progressed: 726 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 595 | 0 |
 | 2023-09-11 | 659 | 0 |
 | 2023-09-12 | 717 | 0 |
-| 2023-09-13 | 725 | 0 |
+| 2023-09-13 | 726 | 0 |

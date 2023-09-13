@@ -2463,9 +2463,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 346
+      "UsersEstimate": 353
     },
     {
       "ID": "MQ04_1",
@@ -2616,8 +2616,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-13T11:04:42.7786093+00:00",
+  "LastChanged_Achievements": "2023-09-13T12:05:03.3945593+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-13T11:00:14.1040205+00:00",
-  "LastUpdate_Achievements": "2023-09-13T11:04:42.7786429+00:00"
+  "LastUpdate_Ratings": "2023-09-13T12:01:11.3720561+00:00",
+  "LastUpdate_Achievements": "2023-09-13T12:05:03.3945896+00:00"
 }

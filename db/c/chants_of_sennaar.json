@@ -734,9 +734,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -758,9 +758,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "META_RESULT_1-2",
@@ -774,9 +774,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "META_RESULT_1-4",
@@ -925,8 +925,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-13T11:06:21.7223187+00:00",
+  "LastChanged_Achievements": "2023-09-13T12:07:02.9728449+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-13T10:57:45.3100268+00:00",
-  "LastUpdate_Achievements": "2023-09-13T11:06:21.722342+00:00"
+  "LastUpdate_Ratings": "2023-09-13T11:58:01.1734811+00:00",
+  "LastUpdate_Achievements": "2023-09-13T12:07:02.9728615+00:00"
 }

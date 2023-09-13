@@ -15,6 +15,7 @@
 | Health | 10.00% | ~1 |
 | Jigsaw | 10.00% | ~1 |
 | Lost | 10.00% | ~1 |
+| Not alone | 10.00% | ~1 |
 | Pain | 10.00% | ~1 |
 | Path of Corruption | 10.00% | ~1 |
 | Peace | 10.00% | ~1 |
@@ -29,7 +30,6 @@
 | Hunger | 0.00% | ~0 |
 | Mayhem | 0.00% | ~0 |
 | No one left behind | 0.00% | ~0 |
-| Not alone | 0.00% | ~0 |
 | Path of Pain | 0.00% | ~0 |
 | Rage | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |

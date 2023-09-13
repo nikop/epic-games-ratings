@@ -5,8 +5,8 @@ Rating: 4.18 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,690 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,368 |
+| First Step Into the Knight | 52.00% | ~37,691 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,369 |
 | Loose Ends | 34.00% | ~24,644 |
 | To the Victor Go the Spoils | 28.00% | ~20,295 |
 | Knighthood | 27.00% | ~19,570 |
@@ -19,7 +19,7 @@ Rating: 4.18 (Ranked 882)
 | Working Hard or Harley Working? | 20.00% | ~14,496 |
 | Unstoppable Force | 20.00% | ~14,496 |
 | Bad Apples in Every Orchard | 20.00% | ~14,496 |
-| Snow Problem | 19.00% | ~13,771 |
+| Snow Problem | 19.00% | ~13,772 |
 | The Show Mud Go On | 18.00% | ~13,047 |
 | From Inside Gotham's Walls | 17.00% | ~12,322 |
 | Protector of Gotham | 16.00% | ~11,597 |
@@ -37,7 +37,7 @@ Rating: 4.18 (Ranked 882)
 | Gotham City Confidential | 11.00% | ~7,973 |
 | Drone You Out | 9.00% | ~6,523 |
 | Solid Alibi | 9.00% | ~6,523 |
-| Out of Their League | 8.00% | ~5,798 |
+| Out of Their League | 8.00% | ~5,799 |
 | Fusion Expert | 7.00% | ~5,074 |
 | Family Meeting | 6.00% | ~4,349 |
 | A Worthy Successor | 6.00% | ~4,349 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 882)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,481 (Ranked 82)  
+Progressed: 72,482 (Ranked 82)  
 Completed: 113 (0.16%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,14 +213,14 @@ Completed: 113 (0.16%) (Ranked 202)
 | 2023-09-10 | 72,379 | 112 |
 | 2023-09-11 | 72,434 | 112 |
 | 2023-09-12 | 72,474 | 113 |
-| 2023-09-13 | 72,481 | 113 |
+| 2023-09-13 | 72,482 | 113 |
 ## Awards
-Max (Great Boss Battles): 2,648  (Ranked 97)  
-Sum: 4,394 (Ranked 139)  
+Max (Great Boss Battles): 2,657  (Ranked 97)  
+Sum: 4,403 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,648 |
+| This game has Great Boss Battles | 2,657 |
 | This game is Extremely Fun | 227 |
 | This game has Quickly Understood Controls | 223 |
 | This game is Relaxing | 220 |
@@ -433,4 +433,4 @@ Diff (max vs sum): -42
 | 2023-09-10 | 4.18 | 2,628 | 4,360 |
 | 2023-09-11 | 4.18 | 2,638 | 4,379 |
 | 2023-09-12 | 4.18 | 2,648 | 4,392 |
-| 2023-09-13 | 4.18 | 2,648 | 4,394 |
+| 2023-09-13 | 4.18 | 2,657 | 4,403 |

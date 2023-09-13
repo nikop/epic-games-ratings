@@ -6,24 +6,24 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~442,442 |
-| The Three | 64.00% | ~341,160 |
-| The Banquet | 40.00% | ~213,225 |
-| Devara's Light | 31.00% | ~165,250 |
-| The Iron Ones | 18.00% | ~95,951 |
-| The Village | 16.00% | ~85,290 |
+| Find Sanctuary | 83.00% | ~442,446 |
+| The Three | 64.00% | ~341,163 |
+| The Banquet | 40.00% | ~213,227 |
+| Devara's Light | 31.00% | ~165,251 |
+| The Iron Ones | 18.00% | ~95,952 |
+| The Village | 16.00% | ~85,291 |
 | The Forest | 14.00% | ~74,629 |
 | The Keep | 14.00% | ~74,629 |
-| Branded | 13.00% | ~69,298 |
-| The Imposter | 13.00% | ~69,298 |
+| Branded | 13.00% | ~69,299 |
+| The Imposter | 13.00% | ~69,299 |
 | The Castle | 11.00% | ~58,637 |
 | The Dome | 9.00% | ~47,976 |
 | The Red Hall | 9.00% | ~47,976 |
 | The Sacrifice | 8.00% | ~42,645 |
-| The Cave | 7.00% | ~37,314 |
-| The Mire | 7.00% | ~37,314 |
-| The Stone Roots | 7.00% | ~37,314 |
-| The Ziggurat | 7.00% | ~37,314 |
+| The Cave | 7.00% | ~37,315 |
+| The Mire | 7.00% | ~37,315 |
+| The Stone Roots | 7.00% | ~37,315 |
+| The Ziggurat | 7.00% | ~37,315 |
 | Storied | 6.00% | ~31,984 |
 | The Construct | 6.00% | ~31,984 |
 | The Lake | 6.00% | ~31,984 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,661 |
 | Fading Fast | 1.00% | ~5,331 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,063 (Ranked 31)  
+Progressed: 533,067 (Ranked 31)  
 Completed: 1,542 (0.29%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,11 +190,11 @@ Completed: 1,542 (0.29%) (Ranked 181)
 | 2023-09-10 | 532,851 | 1,540 |
 | 2023-09-11 | 532,949 | 1,540 |
 | 2023-09-12 | 533,027 | 1,541 |
-| 2023-09-13 | 533,063 | 1,542 |
+| 2023-09-13 | 533,067 | 1,542 |
 ## Awards
-Max (Challenging Combat): 282  (Ranked 243)  
+Max (Challenging Combat): 282  (Ranked 244)  
 Sum: 1,948 (Ranked 204)  
-Diff (max vs sum): 39  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 282 |

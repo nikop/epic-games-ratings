@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43018,
+  "EOS_Progressed": 43020,
   "EOS_Completed": 231,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -15036,6 +15036,11 @@
       "Time": "2023-09-13T09:05:45.6698108+00:00",
       "NumProgressed": 43018,
       "NumCompleted": 231
+    },
+    {
+      "Time": "2023-09-13T12:06:00.0279367+00:00",
+      "NumProgressed": 43020,
+      "NumCompleted": 231
     }
   ],
   "TotalAchievements": 44,
@@ -15047,7 +15052,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24520
+      "UsersEstimate": 24521
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15111,7 +15116,7 @@
       "Name": "Denouement",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -15167,7 +15172,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34414
+      "UsersEstimate": 34416
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15247,7 +15252,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7743
+      "UsersEstimate": 7744
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -15263,7 +15268,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10324
+      "UsersEstimate": 10325
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -15271,7 +15276,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 23660
+      "UsersEstimate": 23661
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -15287,7 +15292,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27101
+      "UsersEstimate": 27103
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -15303,7 +15308,7 @@
       "Name": "A Pleasant Stay",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3442
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -15311,7 +15316,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25811
+      "UsersEstimate": 25812
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -15319,7 +15324,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 28822
+      "UsersEstimate": 28823
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -15351,7 +15356,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19358
+      "UsersEstimate": 19359
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -15383,7 +15388,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40007
+      "UsersEstimate": 40009
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -15391,14 +15396,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22369
+      "UsersEstimate": 22370
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43018,
+      "Progressed": 43020,
       "Completed": 231
     }
   ],
@@ -15406,8 +15411,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-13T11:05:29.0567565+00:00",
+  "LastChanged_Achievements": "2023-09-13T12:06:00.0279358+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:22.3903109+00:00",
-  "LastUpdate_Ratings": "2023-09-13T11:00:43.3428794+00:00",
-  "LastUpdate_Achievements": "2023-09-13T11:05:29.0569161+00:00"
+  "LastUpdate_Ratings": "2023-09-13T12:01:47.560697+00:00",
+  "LastUpdate_Achievements": "2023-09-13T12:06:00.0280334+00:00"
 }

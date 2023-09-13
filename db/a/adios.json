@@ -102,9 +102,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73103,
+  "EOS_Progressed": 73105,
   "EOS_Completed": 755,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -16322,6 +16322,11 @@
       "Time": "2023-09-13T11:04:31.2874977+00:00",
       "NumProgressed": 73103,
       "NumCompleted": 755
+    },
+    {
+      "Time": "2023-09-13T12:04:48.7306899+00:00",
+      "NumProgressed": 73105,
+      "NumCompleted": 755
     }
   ],
   "TotalAchievements": 25,
@@ -16461,7 +16466,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11696
+      "UsersEstimate": 11697
     },
     {
       "ID": "Nothing Left to Say",
@@ -16485,7 +16490,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 9503
+      "UsersEstimate": 9504
     },
     {
       "ID": "Sniper",
@@ -16532,7 +16537,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73103,
+      "Progressed": 73105,
       "Completed": 755
     }
   ],
@@ -16540,8 +16545,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-09T23:58:12.669114+00:00",
-  "LastChanged_Achievements": "2023-09-13T11:04:31.2874972+00:00",
+  "LastChanged_Achievements": "2023-09-13T12:04:48.7306893+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.4518852+00:00",
-  "LastUpdate_Ratings": "2023-09-13T10:59:22.1406609+00:00",
-  "LastUpdate_Achievements": "2023-09-13T11:04:31.2876088+00:00"
+  "LastUpdate_Ratings": "2023-09-13T12:00:05.5454678+00:00",
+  "LastUpdate_Achievements": "2023-09-13T12:04:48.7307761+00:00"
 }

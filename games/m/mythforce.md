@@ -6,12 +6,12 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 2.00% | ~32 |
-| Faceroll the Bones | 2.00% | ~32 |
-| Flawless Victory | 2.00% | ~32 |
-| Hit 'Em Where It Hurts | 2.00% | ~32 |
-| Mushroom Madness! | 2.00% | ~32 |
-| That'll Leave a Mark | 2.00% | ~32 |
+| Death Becomes You | 2.00% | ~33 |
+| Faceroll the Bones | 2.00% | ~33 |
+| Flawless Victory | 2.00% | ~33 |
+| Hit 'Em Where It Hurts | 2.00% | ~33 |
+| Mushroom Madness! | 2.00% | ~33 |
+| That'll Leave a Mark | 2.00% | ~33 |
 | Debuff Dogpile | 1.00% | ~16 |
 | First Strike | 1.00% | ~16 |
 | Horder Better Faster Stronger | 1.00% | ~16 |
@@ -25,12 +25,12 @@ Number of Ratings: 285  (23.09.2022)
 | Season Finale | 0.70% | ~11 |
 | Next Time on MythForce... | 0.60% | ~10 |
 | On this Episode! | 0.50% | ~8 |
-| The Fourth Gate | 0.40% | ~6 |
+| The Fourth Gate | 0.40% | ~7 |
 | We've Got a Kaiju on the Field | 0.10% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,621 (Ranked 190)  
+Progressed: 1,628 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 1,291 | 0 |
 | 2023-09-11 | 1,321 | 0 |
 | 2023-09-12 | 1,507 | 0 |
-| 2023-09-13 | 1,621 | 0 |
+| 2023-09-13 | 1,628 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 258 (Ranked 354)  

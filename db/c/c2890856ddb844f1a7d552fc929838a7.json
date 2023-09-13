@@ -1682,9 +1682,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 432
     },
     {
       "ID": "AC31",
@@ -1819,8 +1819,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-13T11:04:57.5022051+00:00",
+  "LastChanged_Achievements": "2023-09-13T12:05:21.5517454+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-13T10:59:28.3930975+00:00",
-  "LastUpdate_Achievements": "2023-09-13T11:04:57.50225+00:00"
+  "LastUpdate_Ratings": "2023-09-13T12:00:13.1851843+00:00",
+  "LastUpdate_Achievements": "2023-09-13T12:05:21.5517836+00:00"
 }

@@ -605,9 +605,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1628,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4185,6 +4185,11 @@
       "Time": "2023-09-13T11:06:06.635888+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T12:06:44.9149665+00:00",
+      "NumProgressed": 1628,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4221,7 +4226,7 @@
       "Name": "Death Becomes You",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -4245,7 +4250,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -4261,7 +4266,7 @@
       "Name": "Flawless Victory",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -4269,7 +4274,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -4285,7 +4290,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -4309,7 +4314,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -4365,7 +4370,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -4380,15 +4385,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1628,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T07:57:28.4120681+00:00",
-  "LastChanged_Achievements": "2023-09-13T11:06:06.6358876+00:00",
+  "LastChanged_Achievements": "2023-09-13T12:06:44.914966+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-13T10:57:26.881226+00:00",
-  "LastUpdate_Achievements": "2023-09-13T11:06:06.6359305+00:00"
+  "LastUpdate_Ratings": "2023-09-13T11:57:38.3595152+00:00",
+  "LastUpdate_Achievements": "2023-09-13T12:06:44.9149961+00:00"
 }

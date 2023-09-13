@@ -10,6 +10,7 @@ Rating: 4.50 (Ranked 564)
 | Back Off | 0.10% | ~26 |
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
+| Clutch Capture | 0.10% | ~26 |
 | I collect Spores, Molds, and Fungi | 0.10% | ~26 |
 | Collector | 0.10% | ~26 |
 | Cultured | 0.10% | ~26 |
@@ -50,7 +51,6 @@ Rating: 4.50 (Ranked 564)
 | Vaporous Expansion | 0.10% | ~26 |
 | Welcome to the Crew | 0.10% | ~26 |
 | Whoopsie | 0.10% | ~26 |
-| Clutch Capture | 0.00% | ~0 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |

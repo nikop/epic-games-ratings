@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -164,11 +164,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.6,
+  "EOS_Completed_Percentage": 8.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -299,6 +299,11 @@
       "Time": "2023-09-08T13:10:38.589768+00:00",
       "NumProgressed": 686,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-09-13T12:08:08.3215342+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 50,
@@ -310,7 +315,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -318,7 +323,7 @@
       "Name": "Partners?",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -326,7 +331,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -334,7 +339,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -342,7 +347,7 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -350,7 +355,7 @@
       "Name": "The Lords of the Snowpeak",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -374,7 +379,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -414,7 +419,7 @@
       "Name": "A Local Hero",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT015",
@@ -478,7 +483,7 @@
       "Name": "Arms Master",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -494,7 +499,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -526,7 +531,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -588,9 +593,9 @@
       "ID": "ACHIEVEMENT036",
       "SetID": "dejhjd5",
       "Name": "First Time Hunting",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 337
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -598,7 +603,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -612,9 +617,9 @@
       "ID": "ACHIEVEMENT039",
       "SetID": "dejhjd5",
       "Name": "Meat Master",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -622,7 +627,7 @@
       "Name": "Rune Wall Master",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACHIEVEMENT041",
@@ -709,15 +714,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-06-30T09:59:54.3990333+00:00",
-  "LastChanged_Achievements": "2023-09-13T11:08:06.6762354+00:00",
+  "LastChanged_Achievements": "2023-09-13T12:08:08.3215339+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:49.9936462+00:00",
-  "LastUpdate_Ratings": "2023-09-13T10:59:01.890039+00:00",
-  "LastUpdate_Achievements": "2023-09-13T11:08:06.6762802+00:00"
+  "LastUpdate_Ratings": "2023-09-13T11:59:37.6583313+00:00",
+  "LastUpdate_Achievements": "2023-09-13T12:08:08.3215682+00:00"
 }
