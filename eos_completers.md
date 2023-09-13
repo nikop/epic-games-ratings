@@ -53,7 +53,7 @@
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
-| 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
+| 54 | [Bugsnax](games/b/bugsnax.md) | 4.75% |
 | 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.58% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
