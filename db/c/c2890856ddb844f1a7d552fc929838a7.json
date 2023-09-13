@@ -1556,9 +1556,9 @@
       "ID": "AC13",
       "SetID": "l4abp0",
       "Name": "Second Psalm.",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 264
     },
     {
       "ID": "AC14",
@@ -1700,9 +1700,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 318
     },
     {
       "ID": "AC32",
@@ -1829,8 +1829,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-13T20:05:40.5128551+00:00",
+  "LastChanged_Achievements": "2023-09-13T21:05:10.137746+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-13T20:00:15.861593+00:00",
-  "LastUpdate_Achievements": "2023-09-13T20:05:40.5128914+00:00"
+  "LastUpdate_Ratings": "2023-09-13T20:59:38.2704875+00:00",
+  "LastUpdate_Achievements": "2023-09-13T21:05:10.1377936+00:00"
 }

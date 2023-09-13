@@ -501,9 +501,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15179,
+  "EOS_Progressed": 15180,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10091,6 +10091,11 @@
       "Time": "2023-09-13T19:05:55.9829086+00:00",
       "NumProgressed": 15179,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-13T21:05:47.7392978+00:00",
+      "NumProgressed": 15180,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -10166,7 +10171,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2581
     },
     {
       "ID": "tpote_achievement_18",
@@ -10262,7 +10267,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "tpote_achievement_29",
@@ -10278,7 +10283,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "tpote_achievement_30",
@@ -10366,7 +10371,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6223
+      "UsersEstimate": 6224
     },
     {
       "ID": "tpote_achievement_40",
@@ -10414,7 +10419,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "tpote_achievement_9",
@@ -10429,15 +10434,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15179,
+      "Progressed": 15180,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-10T20:57:40.397669+00:00",
-  "LastChanged_Achievements": "2023-09-13T20:06:25.6658567+00:00",
+  "LastChanged_Achievements": "2023-09-13T21:05:47.7392973+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.6037792+00:00",
-  "LastUpdate_Ratings": "2023-09-13T19:59:21.1924577+00:00",
-  "LastUpdate_Achievements": "2023-09-13T20:06:25.6659305+00:00"
+  "LastUpdate_Ratings": "2023-09-13T20:58:53.0104963+00:00",
+  "LastUpdate_Achievements": "2023-09-13T21:05:47.7393939+00:00"
 }

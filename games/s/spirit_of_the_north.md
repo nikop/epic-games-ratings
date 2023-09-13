@@ -6,32 +6,32 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 68.00% | ~46,749 |
-| INFUSED WITH LIGHT | 53.00% | ~36,436 |
-| FOXIN' AROUND | 29.00% | ~19,937 |
+| A GUARDIAN FORGOTTEN | 68.00% | ~46,750 |
+| INFUSED WITH LIGHT | 53.00% | ~36,438 |
+| FOXIN' AROUND | 29.00% | ~19,938 |
 | FETCH | 27.00% | ~18,562 |
-| BLOOMS OF LIGHT | 26.00% | ~17,874 |
+| BLOOMS OF LIGHT | 26.00% | ~17,875 |
 | AWAKEN | 22.00% | ~15,125 |
 | BEST FRIENDS | 22.00% | ~15,125 |
-| ERADICATE | 21.00% | ~14,437 |
-| SPIRIT BARK | 21.00% | ~14,437 |
+| ERADICATE | 21.00% | ~14,438 |
+| SPIRIT BARK | 21.00% | ~14,438 |
 | GARDEN OF LIGHT | 18.00% | ~12,375 |
 | SPIRIT FORM | 16.00% | ~11,000 |
 | UPROOTING DARKNESS | 15.00% | ~10,312 |
 | WRITTEN IN STONE | 15.00% | ~10,312 |
 | WEIGHTLESS | 12.00% | ~8,250 |
 | SPIRIT DASH | 11.00% | ~7,562 |
-| OLD COMPANION | 9.00% | ~6,187 |
+| OLD COMPANION | 9.00% | ~6,188 |
 | MATCH MAKER | 8.00% | ~5,500 |
 | PLAGUE DOCTOR | 8.00% | ~5,500 |
 | SPIRITED AWAY | 8.00% | ~5,500 |
-| NORTHERN LIGHTS | 7.00% | ~4,812 |
+| NORTHERN LIGHTS | 7.00% | ~4,813 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~2,750 |
 | ANCIENT HISTORY | 3.00% | ~2,062 |
 | NONE FORGOTTEN | 2.00% | ~1,375 |
 | KINDRED SPIRITS | 0.60% | ~412 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,748 (Ranked 84)  
+Progressed: 68,750 (Ranked 84)  
 Completed: 358 (0.52%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 358 (0.52%) (Ranked 153)
 | 2023-09-10 | 68,520 | 357 |
 | 2023-09-11 | 68,598 | 357 |
 | 2023-09-12 | 68,685 | 357 |
-| 2023-09-13 | 68,748 | 358 |
+| 2023-09-13 | 68,750 | 358 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 480)  
 Sum: 114 (Ranked 413)  

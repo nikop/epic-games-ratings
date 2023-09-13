@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5572,
+  "EOS_Progressed": 5574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9446,6 +9446,11 @@
       "Time": "2023-09-13T16:04:16.4856231+00:00",
       "NumProgressed": 5572,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T21:03:38.7478497+00:00",
+      "NumProgressed": 5574,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9513,7 +9518,7 @@
       "Name": "Dense Forest",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1727
+      "UsersEstimate": 1728
     },
     {
       "ID": "3",
@@ -9529,7 +9534,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "5",
@@ -9537,7 +9542,7 @@
       "Name": "Snowy Peak",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "6",
@@ -9576,7 +9581,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5572,
+      "Progressed": 5574,
       "Completed": 0
     }
   ],
@@ -9584,8 +9589,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-13T20:03:41.81031+00:00",
+  "LastChanged_Achievements": "2023-09-13T21:03:38.7478491+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:16.8758422+00:00",
-  "LastUpdate_Ratings": "2023-09-13T20:01:20.0516631+00:00",
-  "LastUpdate_Achievements": "2023-09-13T20:03:41.8103611+00:00"
+  "LastUpdate_Ratings": "2023-09-13T21:00:31.8706297+00:00",
+  "LastUpdate_Achievements": "2023-09-13T21:03:38.7479306+00:00"
 }

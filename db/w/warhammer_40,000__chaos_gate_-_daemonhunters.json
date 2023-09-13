@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -720,9 +720,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3186,
+  "EOS_Progressed": 3187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3285,6 +3285,11 @@
       "Time": "2023-09-12T20:05:12.9482242+00:00",
       "NumProgressed": 3186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T21:04:53.2345458+00:00",
+      "NumProgressed": 3187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -3774,9 +3779,9 @@
       "ID": "ExperiencedCallidus",
       "SetID": "2im8phi",
       "Name": "Reign of Confusion",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "ExperiencedCulexus",
@@ -3839,21 +3844,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3186,
+      "Progressed": 3187,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3186,
+      "Progressed": 3187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-09-05T15:59:37.3990982+00:00",
-  "LastChanged_Achievements": "2023-09-13T20:05:20.2295883+00:00",
+  "LastChanged_Achievements": "2023-09-13T21:04:53.2345454+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:06.3915871+00:00",
-  "LastUpdate_Ratings": "2023-09-13T19:57:48.5129956+00:00",
-  "LastUpdate_Achievements": "2023-09-13T20:05:20.2296538+00:00"
+  "LastUpdate_Ratings": "2023-09-13T20:57:38.660934+00:00",
+  "LastUpdate_Achievements": "2023-09-13T21:04:53.2346493+00:00"
 }

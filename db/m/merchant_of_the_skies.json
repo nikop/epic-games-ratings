@@ -162,9 +162,9 @@
       "ID": "achievement_giants_found",
       "SetID": "7171fo0",
       "Name": "Giants",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 472
     },
     {
       "ID": "achievement_got_rich",
@@ -243,8 +243,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-09-13T20:06:19.4091566+00:00",
+  "LastChanged_Achievements": "2023-09-13T21:05:42.650797+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.2034336+00:00",
   "LastUpdate_Ratings": "2023-09-13T20:01:24.8910196+00:00",
-  "LastUpdate_Achievements": "2023-09-13T20:06:19.4091661+00:00"
+  "LastUpdate_Achievements": "2023-09-13T21:05:42.6508091+00:00"
 }

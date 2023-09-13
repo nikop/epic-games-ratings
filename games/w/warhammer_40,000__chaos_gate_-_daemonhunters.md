@@ -45,12 +45,12 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.40% | ~13 |
 | Strike Force | 0.30% | ~10 |
 | Hands-On Research | 0.30% | ~10 |
+| Reign of Confusion | 0.30% | ~10 |
 | Suffer Not the Mutant | 0.30% | ~10 |
 | Blood and Iron | 0.20% | ~6 |
 | Warp Flickers | 0.20% | ~6 |
 | Exercise in Restraint | 0.20% | ~6 |
 | True Mastery | 0.20% | ~6 |
-| Reign of Confusion | 0.20% | ~6 |
 | Abomination | 0.20% | ~6 |
 | Killing Rampage | 0.20% | ~6 |
 | Arsenal of Destruction | 0.10% | ~3 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,186 (Ranked 164)  
+Progressed: 3,187 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,6 +210,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 3,184 | 0 |
 | 2023-09-11 | 3,185 | 0 |
 | 2023-09-12 | 3,186 | 0 |
+| 2023-09-13 | 3,187 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 266)  
 Sum: 474 (Ranked 306)  

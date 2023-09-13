@@ -892,7 +892,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662095,
+  "EOS_Progressed": 662097,
   "EOS_Completed": 170,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
@@ -14757,6 +14757,11 @@
       "Time": "2023-09-13T19:06:03.2651072+00:00",
       "NumProgressed": 662095,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-13T21:05:55.310449+00:00",
+      "NumProgressed": 662097,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14768,7 +14773,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476708
+      "UsersEstimate": 476710
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14776,7 +14781,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384015
+      "UsersEstimate": 384016
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14912,7 +14917,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92693
+      "UsersEstimate": 92694
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -15008,7 +15013,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79451
+      "UsersEstimate": 79452
     },
     {
       "ID": "Achievement_32_Karma",
@@ -15151,15 +15156,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662095,
+      "Progressed": 662097,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-12T21:00:03.5082364+00:00",
-  "LastChanged_Achievements": "2023-09-13T20:06:34.4091287+00:00",
+  "LastChanged_Achievements": "2023-09-13T21:05:55.3104485+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.7852859+00:00",
   "LastUpdate_Ratings": "2023-09-13T20:01:24.3175405+00:00",
-  "LastUpdate_Achievements": "2023-09-13T20:06:34.4092487+00:00"
+  "LastUpdate_Achievements": "2023-09-13T21:05:55.3105737+00:00"
 }

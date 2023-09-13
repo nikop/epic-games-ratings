@@ -6,19 +6,19 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,858 |
+| Just One...More...Term... | 76.00% | ~3,859 |
 | Un-Lonely Island | 47.00% | ~2,386 |
 | The Beginning of a Servantship | 46.00% | ~2,335 |
 | Trade Is My Trait | 37.00% | ~1,878 |
 | Number 18 | 24.00% | ~1,218 |
-| We Don't Have Time For That | 19.00% | ~964 |
+| We Don't Have Time For That | 19.00% | ~965 |
 | The Governator | 18.00% | ~914 |
 | The Legend of Langostino | 17.00% | ~863 |
 | Caribbean Comrade | 16.00% | ~812 |
 | The Dreamer of Dreams | 16.00% | ~812 |
-| Happy Ending? | 11.00% | ~558 |
 | Go Sovereigns! | 11.00% | ~558 |
 | For Science! | 11.00% | ~558 |
+| Happy Ending? | 10.00% | ~508 |
 | Of Seals And Men | 10.00% | ~508 |
 | Shackadelic | 10.00% | ~508 |
 | Double Trouble | 8.00% | ~406 |
@@ -40,14 +40,14 @@ Number of Ratings: 398  (23.09.2022)
 | Chain Gang | 2.00% | ~102 |
 | One Does Not Simply Stage A Coup | 2.00% | ~102 |
 | Sublime Subliminal Supreme | 2.00% | ~102 |
+| Teamplayer | 2.00% | ~102 |
 | Terraformer | 2.00% | ~102 |
 | Curse of the Mummy | 2.00% | ~102 |
 | From Knight to Little Duck | 1.00% | ~51 |
-| Teamplayer | 1.00% | ~51 |
 | Survivor | 0.90% | ~46 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,076 (Ranked 151)  
+Progressed: 5,077 (Ranked 151)  
 Completed: 2 (0.04%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 2 (0.04%) (Ranked 242)
 | 2023-09-10 | 5,046 | 2 |
 | 2023-09-11 | 5,060 | 2 |
 | 2023-09-12 | 5,066 | 2 |
-| 2023-09-13 | 5,076 | 2 |
+| 2023-09-13 | 5,077 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 341)  
 Sum: 685 (Ranked 280)  

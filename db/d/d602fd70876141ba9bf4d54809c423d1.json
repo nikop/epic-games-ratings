@@ -2,7 +2,7 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 101,
@@ -517,9 +517,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "ap8553i",
       "Name": "Slither into Oblivion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -789,9 +789,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "ap8553i",
       "Name": "Entry Level Electrician",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1050,8 +1050,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-13T20:06:23.9685441+00:00",
-  "LastUpdate_AppInfo": "2023-09-06T19:57:01.3086159+00:00",
-  "LastUpdate_Ratings": "2023-09-13T19:58:56.8665404+00:00",
-  "LastUpdate_Achievements": "2023-09-13T20:06:23.9686073+00:00"
+  "LastChanged_Achievements": "2023-09-13T21:05:46.6002473+00:00",
+  "LastUpdate_AppInfo": "2023-09-13T20:57:01.3403061+00:00",
+  "LastUpdate_Ratings": "2023-09-13T20:58:33.5449022+00:00",
+  "LastUpdate_Achievements": "2023-09-13T21:05:46.6003366+00:00"
 }

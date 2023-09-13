@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -886,9 +886,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12206,
+  "EOS_Progressed": 12207,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10191,6 +10191,11 @@
       "Time": "2023-09-13T18:04:44.1372312+00:00",
       "NumProgressed": 12206,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-13T21:04:13.9605443+00:00",
+      "NumProgressed": 12207,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10202,7 +10207,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9887
+      "UsersEstimate": 9888
     },
     {
       "ID": "ACH02",
@@ -10218,7 +10223,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ACH04",
@@ -10258,7 +10263,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "ACH09",
@@ -10418,7 +10423,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "ACH29",
@@ -10481,7 +10486,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12206,
+      "Progressed": 12207,
       "Completed": 45
     }
   ],
@@ -10489,8 +10494,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-13T14:59:04.4317628+00:00",
-  "LastChanged_Achievements": "2023-09-13T20:04:34.1609517+00:00",
+  "LastChanged_Achievements": "2023-09-13T21:04:13.9605436+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.8211098+00:00",
-  "LastUpdate_Ratings": "2023-09-13T19:58:40.0301724+00:00",
-  "LastUpdate_Achievements": "2023-09-13T20:04:34.1610157+00:00"
+  "LastUpdate_Ratings": "2023-09-13T20:58:21.873552+00:00",
+  "LastUpdate_Achievements": "2023-09-13T21:04:13.9606315+00:00"
 }

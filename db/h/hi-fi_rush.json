@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4035,
+  "EOS_Progressed": 4036,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6459,6 +6459,11 @@
       "Time": "2023-09-13T13:12:18.6116102+00:00",
       "NumProgressed": 4035,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-13T21:05:59.7839256+00:00",
+      "NumProgressed": 4036,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6494,7 +6499,7 @@
       "Name": "The Negotiator",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Ach005",
@@ -6606,7 +6611,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Ach019",
@@ -6694,7 +6699,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Ach030",
@@ -6798,7 +6803,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Ach043",
@@ -7037,13 +7042,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4035,
+      "Progressed": 4036,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2556,
+      "Progressed": 2557,
       "Completed": 1929
     }
   ],
@@ -7051,8 +7056,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-13T20:06:40.2935997+00:00",
+  "LastChanged_Achievements": "2023-09-13T21:05:59.7839252+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-13T20:02:11.7494829+00:00",
-  "LastUpdate_Achievements": "2023-09-13T20:06:40.2936855+00:00"
+  "LastUpdate_Ratings": "2023-09-13T21:02:26.9875401+00:00",
+  "LastUpdate_Achievements": "2023-09-13T21:05:59.7840429+00:00"
 }

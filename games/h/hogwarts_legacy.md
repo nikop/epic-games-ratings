@@ -6,10 +6,10 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,517 |
-| First Class Student | 13.00% | ~38,551 |
+| First Class Student | 13.00% | ~38,552 |
 | A Keen Sense of Spell | 12.00% | ~35,586 |
 | Troll with the Punches | 12.00% | ~35,586 |
-| That's a Keeper | 11.00% | ~32,620 |
+| That's a Keeper | 11.00% | ~32,621 |
 | Grappling with a Graphorn | 10.00% | ~29,655 |
 | The One Who Mastered Memories | 10.00% | ~29,655 |
 | The Hallowed Hero | 10.00% | ~29,655 |
@@ -17,41 +17,41 @@ Rating: 4.77 (Ranked 109)
 | Loom for Improvement | 10.00% | ~29,655 |
 | A Talent for Spending | 10.00% | ~29,655 |
 | Coasting Along | 10.00% | ~29,655 |
-| The Hero of Hogwarts | 9.00% | ~26,689 |
-| Challenge Accepted | 9.00% | ~26,689 |
-| Followed the Butterflies | 9.00% | ~26,689 |
-| Rising From the Ashes | 9.00% | ~26,689 |
+| The Hero of Hogwarts | 9.00% | ~26,690 |
+| Challenge Accepted | 9.00% | ~26,690 |
+| Followed the Butterflies | 9.00% | ~26,690 |
+| Rising From the Ashes | 9.00% | ~26,690 |
 | A Sallow Grave | 8.00% | ~23,724 |
 | The Spell Master | 8.00% | ~23,724 |
-| The Avenging Gazelle | 7.00% | ~20,758 |
-| Beast Friends | 7.00% | ~20,758 |
-| Flight the Good Flight | 7.00% | ~20,758 |
+| The Avenging Gazelle | 7.00% | ~20,759 |
+| Beast Friends | 7.00% | ~20,759 |
+| Flight the Good Flight | 7.00% | ~20,759 |
 | The Seeker of Knowledge | 6.00% | ~17,793 |
 | Raising Expectations | 6.00% | ~17,793 |
-| The Root of the Problem | 5.00% | ~14,827 |
-| Third Time's a Charm | 5.00% | ~14,827 |
-| The Ends Petrify the Means | 5.00% | ~14,827 |
+| The Root of the Problem | 5.00% | ~14,828 |
+| Third Time's a Charm | 5.00% | ~14,828 |
+| The Ends Petrify the Means | 5.00% | ~14,828 |
 | The Toast of the Town | 4.00% | ~11,862 |
 | Going Through the Potions | 4.00% | ~11,862 |
 | Room with a View | 4.00% | ~11,862 |
 | The Intrepid Explorer | 4.00% | ~11,862 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,862 |
 | The Wise Owl | 4.00% | ~11,862 |
-| Floo Around the World | 3.00% | ~8,896 |
+| Floo Around the World | 3.00% | ~8,897 |
 | The Good Samaritan | 2.00% | ~5,931 |
 | Put Down Roots | 2.00% | ~5,931 |
 | The Auror's Apprentice | 2.00% | ~5,931 |
 | Rise to the Challenges | 2.00% | ~5,931 |
 | Finishing Touches | 2.00% | ~5,931 |
-| Savvy Spender | 1.00% | ~2,965 |
-| Demiguise Dread | 1.00% | ~2,965 |
-| A Forte for Achievement | 1.00% | ~2,965 |
+| Savvy Spender | 1.00% | ~2,966 |
+| Demiguise Dread | 1.00% | ~2,966 |
+| A Forte for Achievement | 1.00% | ~2,966 |
 | Merlin's Beard! | 0.90% | ~2,669 |
 | Spilled Milk | 0.80% | ~2,372 |
 | The Nature of the Beast | 0.60% | ~1,779 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,549 (Ranked 43)  
+Progressed: 296,553 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,25 +197,25 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-10 | 296,327 | 470 |
 | 2023-09-11 | 296,418 | 470 |
 | 2023-09-12 | 296,501 | 470 |
-| 2023-09-13 | 296,549 | 470 |
+| 2023-09-13 | 296,553 | 470 |
 ## Awards
 Max (Character Customization): 22,630  (Ranked 17)  
-Sum: 43,172 (Ranked 30)  
+Sum: 43,182 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 22,630 |
 | This game has Great Boss Battles | 11,083 |
 | This game is Great for Beginners | 1,063 |
+| This game has Amazing Storytelling | 1,022 |
 | This game is Extremely Fun | 1,017 |
-| This game has Amazing Storytelling | 1,017 |
 | This game is Relaxing | 1,013 |
 | This game has Diverse Characters | 1,007 |
 | This game has Amazing Characters | 983 |
 | This game is Highly Recommended | 968 |
 | This game has Quickly Understood Controls | 907 |
 | This game has Beautiful Visuals | 846 |
-| This game has a Creative Community | 638 |
+| This game has a Creative Community | 643 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -392,4 +392,4 @@ Diff (max vs sum): -13
 | 2023-09-10 | 4.77 | 22,487 | 42,860 |
 | 2023-09-11 | 4.77 | 22,536 | 42,979 |
 | 2023-09-12 | 4.77 | 22,582 | 43,090 |
-| 2023-09-13 | 4.77 | 22,630 | 43,172 |
+| 2023-09-13 | 4.77 | 22,630 | 43,182 |
