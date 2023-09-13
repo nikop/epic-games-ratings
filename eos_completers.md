@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.24% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
 | 41 | [Scorn](games/s/scorn.md) | 7.00% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.50% |
@@ -114,7 +114,7 @@
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 113 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.36% |
 | 114 | [Chorus](games/c/chorus.md) | 1.28% |
-| 114 | [Eternights](games/e/eternights.md) | 1.28% |
+| 115 | [Eternights](games/e/eternights.md) | 1.27% |
 | 116 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 117 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 118 | [Trifox](games/t/trifox.md) | 1.10% |
