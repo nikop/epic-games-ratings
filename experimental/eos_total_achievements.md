@@ -100,6 +100,7 @@
 | [A Musical Story](../games/a/a_musical_story.md) | 54 | 1,000 |
 | [Arcade Paradise](../games/a/arcade_paradise.md) | 54 | 1,000 |
 | [CadriaItemShop](../games/1/156fe52117754eb98a332471081ff9ba.md) | 54 | 1,000 |
+| [Homeseek](../games/4/4d38b523f0ef409d9cc79af313643ec9.md) | 54 | 1,000 |
 | [Lawn Mowing Simulator](../games/l/lawn_mowing_simulator.md) | 54 | 1,000 |
 | [Rift Rangers](../games/2/24e2970ac5124a649554e210843f6774.md) | 54 | 1,000 |
 | [Showgunners](../games/s/showgunners.md) | 54 | 1,300 |

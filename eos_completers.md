@@ -28,11 +28,11 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 28 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.68% |
+| 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.38% |
 | 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.12% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.74% |
-| 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
+| 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.59% |
 | 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
 | 35 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
@@ -116,7 +116,7 @@
 | 114 | [Chorus](games/c/chorus.md) | 1.28% |
 | 115 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 116 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 117 | [Eternights](games/e/eternights.md) | 1.22% |
+| 117 | [Eternights](games/e/eternights.md) | 1.19% |
 | 118 | [Trifox](games/t/trifox.md) | 1.10% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
@@ -128,13 +128,13 @@
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
-| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.90% |
+| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
 | 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.86% |
 | 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 134 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
-| 135 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.73% |
+| 135 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
 | 136 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.70% |
 | 137 | [Lemon Cake](games/l/lemon_cake.md) | 0.67% |
 | 137 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.67% |
@@ -591,4 +591,4 @@
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,226 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,227 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
