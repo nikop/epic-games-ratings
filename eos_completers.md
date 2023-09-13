@@ -29,7 +29,7 @@
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
 | 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.38% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.12% |
+| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.11% |
 | 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.74% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.59% |
@@ -116,9 +116,9 @@
 | 114 | [Chorus](games/c/chorus.md) | 1.28% |
 | 115 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 116 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 117 | [Eternights](games/e/eternights.md) | 1.10% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
-| 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
+| 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
+| 118 | [Eternights](games/e/eternights.md) | 1.05% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
 | 121 | [A Musical Story](games/a/a_musical_story.md) | 1.02% |
 | 122 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
