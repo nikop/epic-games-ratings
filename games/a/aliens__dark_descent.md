@@ -23,8 +23,8 @@ Rating: 4.49 (Ranked 581)
 | Where It All Begun | 40.00% | ~1,296 |
 | Recouped Investment | 39.00% | ~1,264 |
 | Omelette Du Fromage | 34.00% | ~1,102 |
+| Living Nightmare | 34.00% | ~1,102 |
 | The More The Merrier | 34.00% | ~1,102 |
-| Living Nightmare | 33.00% | ~1,069 |
 | The Darwin Era Was Here | 30.00% | ~972 |
 | Deep Into Insanity | 29.00% | ~940 |
 | The Passenger | 28.00% | ~907 |

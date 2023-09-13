@@ -1170,17 +1170,17 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CULTURE_2",
       "SetID": "44dlcg0",
       "Name": "I love books!",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CULTURE_3",
@@ -1362,9 +1362,9 @@
       "ID": "GREEN_AREAS_2",
       "SetID": "44dlcg0",
       "Name": "I love parks",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -1410,9 +1410,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1546,9 +1546,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SPORTS_2",
@@ -1667,8 +1667,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-09-13T16:03:45.5883465+00:00",
+  "LastChanged_Achievements": "2023-09-13T17:03:34.0871463+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:08.8859783+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:58:06.0753054+00:00",
-  "LastUpdate_Achievements": "2023-09-13T16:03:45.5884782+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:57:45.8363471+00:00",
+  "LastUpdate_Achievements": "2023-09-13T17:03:34.087223+00:00"
 }

@@ -7,20 +7,20 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 24.00% | ~2,700 |
-| A Spark | 17.00% | ~1,912 |
+| A Spark | 17.00% | ~1,913 |
 | Burning City | 16.00% | ~1,800 |
 | Mythic Choices | 14.00% | ~1,575 |
 | Defender's Heart | 14.00% | ~1,575 |
-| Banner over the Citadel | 13.00% | ~1,462 |
-| Queen's Gratitude | 11.00% | ~1,237 |
+| Banner over the Citadel | 13.00% | ~1,463 |
+| Queen's Gratitude | 11.00% | ~1,238 |
 | Fifth Crusade | 8.00% | ~900 |
 | Embrace of the Abyss | 6.00% | ~675 |
 | Path of the Angel | 6.00% | ~675 |
 | Demonic and Divine | 6.00% | ~675 |
-| Transformation | 5.00% | ~562 |
-| Great Upstart | 5.00% | ~562 |
-| Voice from Your Dreams | 5.00% | ~562 |
-| All Paths Open | 5.00% | ~562 |
+| Transformation | 5.00% | ~563 |
+| Great Upstart | 5.00% | ~563 |
+| Voice from Your Dreams | 5.00% | ~563 |
+| All Paths Open | 5.00% | ~563 |
 | Path of the Azata | 4.00% | ~450 |
 | The Legacy | 4.00% | ~450 |
 | Divide and Rule | 4.00% | ~450 |
@@ -28,11 +28,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 4.00% | ~450 |
 | Next-Door Play | 4.00% | ~450 |
 | Get the Toad | 4.00% | ~450 |
-| Heart of the Fallen Land | 3.00% | ~337 |
-| Path of the Trickster | 3.00% | ~337 |
-| Heroic Victory | 3.00% | ~337 |
-| Core of the Riddle | 3.00% | ~337 |
-| Hey, I Know You! | 3.00% | ~337 |
+| Heart of the Fallen Land | 3.00% | ~338 |
+| Path of the Trickster | 3.00% | ~338 |
+| Heroic Victory | 3.00% | ~338 |
+| Core of the Riddle | 3.00% | ~338 |
+| Hey, I Know You! | 3.00% | ~338 |
 | The Lady of the Forest | 3.00% | ~301 |
 | Beware Still Water | 3.00% | ~301 |
 | Path of the Demon | 2.00% | ~225 |
@@ -44,9 +44,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 2.00% | ~201 |
 | Hanged Man's Notes | 2.00% | ~201 |
 | Sarkoris Will Be Green | 2.00% | ~201 |
-| The Final Threshold | 1.00% | ~112 |
-| Strategic Victory | 1.00% | ~112 |
-| Abyssal Conspiracy | 1.00% | ~112 |
+| The Final Threshold | 1.00% | ~113 |
+| Strategic Victory | 1.00% | ~113 |
+| Abyssal Conspiracy | 1.00% | ~113 |
 | This Wall Won't Fall | 1.00% | ~100 |
 | Not the Last Sarkorian | 1.00% | ~100 |
 | Path of the Legend | 0.90% | ~101 |
@@ -55,12 +55,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Dragon | 0.80% | ~90 |
 | Playful Mood | 0.70% | ~79 |
 | Dreadful Dragon | 0.70% | ~79 |
-| Masterful Charge | 0.60% | ~67 |
+| Masterful Charge | 0.60% | ~68 |
 | Prelate's Nemesis | 0.50% | ~56 |
 | Ashes to Ashes | 0.40% | ~45 |
 | Masterful Dispel | 0.30% | ~34 |
 | Just Pathetic | 0.30% | ~34 |
-| Path of the Swarm | 0.20% | ~22 |
+| Path of the Swarm | 0.20% | ~23 |
 | Equal to Aroden | 0.10% | ~11 |
 | Spirit of Adventure | 0.10% | ~11 |
 | Test of the Starstone | 0.10% | ~11 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,249 (Ranked 126)  
+Progressed: 11,252 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 11,225 | 0 |
 | 2023-09-11 | 11,234 | 0 |
 | 2023-09-12 | 11,243 | 0 |
-| 2023-09-13 | 11,249 | 0 |
+| 2023-09-13 | 11,252 | 0 |
 ## Awards
 Max (Character Customization): 1,712  (Ranked 118)  
 Sum: 6,941 (Ranked 113)  

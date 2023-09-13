@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,8 +17,8 @@
   "Tags": [],
   "EOS_Progressed": 3171,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 18,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 17,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 5.46,
   "EosHistory": [
     {
@@ -4785,9 +4785,9 @@
       "ID": "3",
       "SetID": "9p3jgda",
       "Name": "FRIENDLY",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 507
     },
     {
       "ID": "4",
@@ -4847,8 +4847,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-09-13T16:09:18.4688201+00:00",
+  "LastChanged_Achievements": "2023-09-13T17:08:14.165976+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:18.3778011+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:58:31.374788+00:00",
-  "LastUpdate_Achievements": "2023-09-13T16:09:18.4688696+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:58:06.8560168+00:00",
+  "LastUpdate_Achievements": "2023-09-13T17:08:14.1660104+00:00"
 }

@@ -50,6 +50,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 0.50% | ~681 |
 | Seasoned Journeyman | 0.50% | ~681 |
 | Magical Harmony | 0.50% | ~681 |
+| Special Ingredient | 0.50% | ~681 |
 | Complete Monopoly | 0.50% | ~681 |
 | A Notch Above the Rest | 0.40% | ~544 |
 | Cream of the Crop | 0.40% | ~544 |
@@ -90,7 +91,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.40% | ~544 |
 | Black Friday Special | 0.40% | ~544 |
 | King's Shadow | 0.40% | ~544 |
-| Special Ingredient | 0.40% | ~544 |
 | Exotic Commodities | 0.40% | ~544 |
 | Constellated | 0.30% | ~408 |
 | Fillin' the Bin | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,117 (Ranked 68)  
+Progressed: 136,120 (Ranked 68)  
 Completed: 150 (0.11%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,14 +265,14 @@ Completed: 150 (0.11%) (Ranked 217)
 | 2023-09-10 | 136,005 | 148 |
 | 2023-09-11 | 136,043 | 149 |
 | 2023-09-12 | 136,088 | 149 |
-| 2023-09-13 | 136,117 | 150 |
+| 2023-09-13 | 136,120 | 150 |
 ## Awards
-Max (Great for Beginners): 4,738  (Ranked 71)  
-Sum: 27,220 (Ranked 48)  
+Max (Great for Beginners): 4,741  (Ranked 71)  
+Sum: 27,223 (Ranked 48)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,738 |
+| This game is Great for Beginners | 4,741 |
 | This game is Relaxing | 4,010 |
 | This game has Quickly Understood Controls | 3,994 |
 | This game has Diverse Characters | 3,878 |
@@ -512,4 +512,4 @@ Diff (max vs sum): 23
 | 2023-09-10 | 3.99 | - | 4,733 | 27,202 |
 | 2023-09-11 | 3.99 | - | 4,734 | 27,207 |
 | 2023-09-12 | 3.99 | - | 4,738 | 27,214 |
-| 2023-09-13 | 3.99 | - | 4,738 | 27,220 |
+| 2023-09-13 | 3.99 | - | 4,741 | 27,223 |

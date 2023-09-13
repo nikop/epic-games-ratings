@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6258,9 +6258,9 @@
       "Count": 384
     }
   ],
-  "EOS_Progressed": 714914,
+  "EOS_Progressed": 714919,
   "EOS_Completed": 12891,
-  "EOS_NewPlayers": 1800,
+  "EOS_NewPlayers": 1794,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -19763,6 +19763,11 @@
       "Time": "2023-09-13T16:05:42.8782458+00:00",
       "NumProgressed": 714914,
       "NumCompleted": 12891
+    },
+    {
+      "Time": "2023-09-13T17:05:09.3254604+00:00",
+      "NumProgressed": 714919,
+      "NumCompleted": 12891
     }
   ],
   "TotalAchievements": 60,
@@ -20116,9 +20121,9 @@
       "ID": "44_Arena_3Stamps",
       "SetID": "14c2oii",
       "Name": "Diligence as a goal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 48
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -20253,21 +20258,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24215,
+      "Progressed": 24220,
       "Completed": 10620
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 714914,
+      "Progressed": 714919,
       "Completed": 12891
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-13T15:58:51.5819187+00:00",
-  "LastChanged_Achievements": "2023-09-13T16:05:42.8782452+00:00",
+  "LastChanged_Achievements": "2023-09-13T17:05:09.32546+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.7541411+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:58:51.5819193+00:00",
-  "LastUpdate_Achievements": "2023-09-13T16:05:42.8783896+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:58:22.5298804+00:00",
+  "LastUpdate_Achievements": "2023-09-13T17:05:09.3255697+00:00"
 }

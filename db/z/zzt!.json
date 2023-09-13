@@ -4,8 +4,8 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -4589,9 +4589,9 @@
       "ID": "4",
       "SetID": "dm385hd",
       "Name": "Adventurer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 127
+      "UsersEstimate": 159
     },
     {
       "ID": "5",
@@ -4614,8 +4614,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-09-13T16:08:58.3393836+00:00",
+  "LastChanged_Achievements": "2023-09-13T17:07:57.0422049+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.0204593+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:57:22.933054+00:00",
-  "LastUpdate_Achievements": "2023-09-13T16:08:58.3394329+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:57:12.776969+00:00",
+  "LastUpdate_Achievements": "2023-09-13T17:07:57.0422324+00:00"
 }

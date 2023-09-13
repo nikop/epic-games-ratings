@@ -808,9 +808,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 148340,
+  "EOS_Progressed": 148344,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1911,
+  "EOS_NewPlayers": 1899,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9433,6 +9433,11 @@
       "Time": "2023-09-13T16:08:39.0965395+00:00",
       "NumProgressed": 148340,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-13T17:07:40.7251342+00:00",
+      "NumProgressed": 148344,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -9484,7 +9489,7 @@
       "Name": "Zygote",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2958
+      "UsersEstimate": 2959
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -9492,7 +9497,7 @@
       "Name": "The Hunt",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 97904
+      "UsersEstimate": 97907
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -9508,7 +9513,7 @@
       "Name": "Taste",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 124606
+      "UsersEstimate": 124609
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -9516,7 +9521,7 @@
       "Name": "Weeper",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 63786
+      "UsersEstimate": 63788
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -9564,7 +9569,7 @@
       "Name": "Host",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 8875
+      "UsersEstimate": 8876
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -9604,7 +9609,7 @@
       "Name": "Celebration",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 8900
+      "UsersEstimate": 8901
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -9644,7 +9649,7 @@
       "Name": "Devourer",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 34118
+      "UsersEstimate": 34119
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -9660,7 +9665,7 @@
       "Name": "Imprint",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 130539
+      "UsersEstimate": 130543
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -9668,7 +9673,7 @@
       "Name": "Predator",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11867
+      "UsersEstimate": 11868
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -9700,7 +9705,7 @@
       "Name": "Yank",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22251
+      "UsersEstimate": 22252
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -9708,7 +9713,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 23734
+      "UsersEstimate": 23735
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -9716,7 +9721,7 @@
       "Name": "Ravenous",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 93454
+      "UsersEstimate": 93457
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -9756,7 +9761,7 @@
       "Name": "Kin",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2958
+      "UsersEstimate": 2959
     },
     {
       "ID": "QUEST_LISTENER",
@@ -9764,7 +9769,7 @@
       "Name": "Listen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2958
+      "UsersEstimate": 2959
     },
     {
       "ID": "QUEST_YON",
@@ -9779,21 +9784,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 147923,
+      "Progressed": 147927,
       "Completed": 1108
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 148340,
+      "Progressed": 148344,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-09-13T13:05:29.889495+00:00",
-  "LastChanged_Achievements": "2023-09-13T16:08:39.0965384+00:00",
+  "LastChanged_Achievements": "2023-09-13T17:07:40.7251337+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:20.7884065+00:00",
-  "LastUpdate_Ratings": "2023-09-13T16:00:57.5916299+00:00",
-  "LastUpdate_Achievements": "2023-09-13T16:08:39.0966243+00:00"
+  "LastUpdate_Ratings": "2023-09-13T17:00:04.8711819+00:00",
+  "LastUpdate_Achievements": "2023-09-13T17:07:40.7252001+00:00"
 }

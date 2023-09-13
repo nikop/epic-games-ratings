@@ -4,20 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| I like books | 0.90% | ~3 |
 | The spiritual world... | 0.90% | ~3 |
 | I like parks | 0.90% | ~3 |
-| I like books | 0.60% | ~2 |
 | I like my life | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
+| It is nice to share with friends in the city | 0.60% | ~2 |
 | Small town | 0.60% | ~2 |
+| Sport is good for you | 0.60% | ~2 |
 | Soviet town | 0.60% | ~2 |
 | Food producer | 0.30% | ~1 |
+| I love books! | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
+| I love parks | 0.30% | ~1 |
 | The woodcutter | 0.30% | ~1 |
-| It is nice to share with friends in the city | 0.30% | ~1 |
 | Metropolurbek | 0.30% | ~1 |
-| Sport is good for you | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |
 | Full archipelago | 0.00% | ~0 |
@@ -35,7 +37,6 @@
 | Urban style | 0.00% | ~0 |
 | City crisis | 0.00% | ~0 |
 | Collapsed city | 0.00% | ~0 |
-| I love books! | 0.00% | ~0 |
 | Read! Everyone should read! | 0.00% | ~0 |
 | Full desert | 0.00% | ~0 |
 | Desert builder | 0.00% | ~0 |
@@ -52,7 +53,6 @@
 | King of fish | 0.00% | ~0 |
 | Farming Frenzy | 0.00% | ~0 |
 | Farming Frenzy Plus | 0.00% | ~0 |
-| I love parks | 0.00% | ~0 |
 | Oh, I love parks, listening to birds! | 0.00% | ~0 |
 | Clean energy | 0.00% | ~0 |
 | Freedom to go to the mall! | 0.00% | ~0 |

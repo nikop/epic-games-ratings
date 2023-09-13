@@ -10,6 +10,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 0.20% | ~1,430 |
 | Life is your teacher | 0.20% | ~1,430 |
 | Lightning Hands | 0.20% | ~1,430 |
+| Diligence as a goal | 0.20% | ~48 |
 | The Hateful Pole Fighter | 0.10% | ~715 |
 | A Lady's Blood in the Snow | 0.10% | ~715 |
 | Lady Wing Chun | 0.10% | ~715 |
@@ -49,7 +50,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Warriors from the Mountain | 0.10% | ~715 |
 | Come Snap With Me | 0.10% | ~715 |
 | Project Arena | 0.10% | ~24 |
-| Diligence as a goal | 0.10% | ~24 |
 | Bloody Sport | 0.10% | ~24 |
 | Martial Hub | 0.10% | ~24 |
 | Deadly Venom | 0.10% | ~24 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,914 (Ranked 20)  
+Progressed: 714,919 (Ranked 20)  
 Completed: 12,891 (1.80%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 12,891 (1.80%) (Ranked 101)
 | 2023-09-10 | 714,349 | 12,890 |
 | 2023-09-11 | 714,613 | 12,890 |
 | 2023-09-12 | 714,851 | 12,891 |
-| 2023-09-13 | 714,914 | 12,891 |
+| 2023-09-13 | 714,919 | 12,891 |
 ## Awards
 Max (Great Boss Battles): 6,494  (Ranked 53)  
 Sum: 11,211 (Ranked 81)  

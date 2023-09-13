@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,385 |
-| Jeef Skeejj | 44.00% | ~205,590 |
-| Careful planning | 39.00% | ~182,228 |
-| Second Coming | 33.00% | ~154,192 |
-| Jeef Skagg | 30.00% | ~140,175 |
-| Mother | 25.00% | ~116,812 |
-| In space, no one can hear you scream | 24.00% | ~112,140 |
-| Chapter I: Echoes | 22.00% | ~102,795 |
-| Excelsior Rule | 22.00% | ~102,795 |
-| Things persisted in not being what they seemed | 20.00% | ~93,450 |
+| The Shutdown | 66.00% | ~308,387 |
+| Jeef Skeejj | 44.00% | ~205,591 |
+| Careful planning | 39.00% | ~182,229 |
+| Second Coming | 33.00% | ~154,193 |
+| Jeef Skagg | 30.00% | ~140,176 |
+| Mother | 25.00% | ~116,813 |
+| In space, no one can hear you scream | 24.00% | ~112,141 |
+| Chapter I: Echoes | 22.00% | ~102,796 |
+| Excelsior Rule | 22.00% | ~102,796 |
+| Things persisted in not being what they seemed | 20.00% | ~93,451 |
 | Knightmare Frames | 15.00% | ~70,088 |
 | May His passing cleanse the world | 15.00% | ~70,088 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,088 |
@@ -45,17 +45,17 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~28,035 |
 | The Crazy Repairman | 6.00% | ~28,035 |
 | The Weasel | 6.00% | ~28,035 |
-| Kill the Doctor | 5.00% | ~23,362 |
-| Forsaken | 5.00% | ~23,362 |
-| Mercy | 5.00% | ~23,362 |
-| Jericho Rule | 5.00% | ~23,362 |
+| Kill the Doctor | 5.00% | ~23,363 |
+| Forsaken | 5.00% | ~23,363 |
+| Mercy | 5.00% | ~23,363 |
+| Jericho Rule | 5.00% | ~23,363 |
 | Geno Rule | 3.00% | ~14,018 |
 | Hammer Rule | 3.00% | ~14,018 |
 | Survivor | 2.00% | ~9,345 |
-| A Rock in the Dark | 1.00% | ~4,672 |
-| Emperor of Misery | 1.00% | ~4,672 |
-| A Frozen Lady | 1.00% | ~4,672 |
-| Void Rule | 1.00% | ~4,672 |
+| A Rock in the Dark | 1.00% | ~4,673 |
+| Emperor of Misery | 1.00% | ~4,673 |
+| A Frozen Lady | 1.00% | ~4,673 |
+| Void Rule | 1.00% | ~4,673 |
 | Excelsior Mastery | 0.90% | ~4,205 |
 | The greatest admiral of all time | 0.50% | ~2,336 |
 | Hand of the Emperor | 0.40% | ~45 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,250 (Ranked 37)  
+Progressed: 467,253 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 18 (0.00%) (Ranked 274)
 | 2023-09-10 | 467,116 | 18 |
 | 2023-09-11 | 467,166 | 18 |
 | 2023-09-12 | 467,219 | 18 |
-| 2023-09-13 | 467,250 | 18 |
+| 2023-09-13 | 467,253 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 361)  

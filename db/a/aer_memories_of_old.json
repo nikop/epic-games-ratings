@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19977,
+  "EOS_Progressed": 19980,
   "EOS_Completed": 397,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -16038,6 +16038,11 @@
       "Time": "2023-09-13T16:07:01.9031177+00:00",
       "NumProgressed": 19977,
       "NumCompleted": 397
+    },
+    {
+      "Time": "2023-09-13T17:06:17.5692814+00:00",
+      "NumProgressed": 19980,
+      "NumCompleted": 397
     }
   ],
   "TotalAchievements": 20,
@@ -16049,7 +16054,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3396
+      "UsersEstimate": 3397
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -16081,7 +16086,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -16105,7 +16110,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -16161,7 +16166,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "INTRO_FINISHED",
@@ -16169,7 +16174,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15382
+      "UsersEstimate": 15385
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16193,7 +16198,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "WEST_FINISHED",
@@ -16208,15 +16213,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19977,
+      "Progressed": 19980,
       "Completed": 397
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-13T16:07:01.9031169+00:00",
+  "LastChanged_Achievements": "2023-09-13T17:06:17.5692809+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:59:23.9420636+00:00",
-  "LastUpdate_Achievements": "2023-09-13T16:07:01.9032368+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:58:47.7407739+00:00",
+  "LastUpdate_Achievements": "2023-09-13T17:06:17.5693645+00:00"
 }

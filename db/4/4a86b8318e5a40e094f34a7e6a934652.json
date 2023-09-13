@@ -535,9 +535,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -551,9 +551,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -678,8 +678,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-13T16:06:39.8858095+00:00",
+  "LastChanged_Achievements": "2023-09-13T17:05:58.2566847+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-13T16:01:39.6465859+00:00",
-  "LastUpdate_Achievements": "2023-09-13T16:06:39.8858314+00:00"
+  "LastUpdate_Ratings": "2023-09-13T17:00:43.7070602+00:00",
+  "LastUpdate_Achievements": "2023-09-13T17:05:58.2566996+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~23,763 |
-| Landlord | 32.00% | ~19,498 |
-| Bannerlord | 23.00% | ~14,014 |
-| Horde breaker | 23.00% | ~14,014 |
-| Lawmaker | 23.00% | ~14,014 |
-| Trained | 23.00% | ~14,014 |
-| The king is pleased | 18.00% | ~10,967 |
-| King Solomon | 17.00% | ~10,358 |
-| I can do it | 16.00% | ~9,749 |
-| Apple of my eye | 15.00% | ~9,140 |
-| God of the Arena | 13.00% | ~7,921 |
+| Lawbringer | 39.00% | ~23,765 |
+| Landlord | 32.00% | ~19,500 |
+| Bannerlord | 23.00% | ~14,016 |
+| Horde breaker | 23.00% | ~14,016 |
+| Lawmaker | 23.00% | ~14,016 |
+| Trained | 23.00% | ~14,016 |
+| The king is pleased | 18.00% | ~10,969 |
+| King Solomon | 17.00% | ~10,359 |
+| I can do it | 16.00% | ~9,750 |
+| Apple of my eye | 15.00% | ~9,141 |
+| God of the Arena | 13.00% | ~7,922 |
 | Against all odds | 12.00% | ~7,312 |
-| This Is Our Land | 11.00% | ~6,702 |
-| Duelist | 10.00% | ~6,093 |
-| Swordbearer | 10.00% | ~6,093 |
+| This Is Our Land | 11.00% | ~6,703 |
+| Duelist | 10.00% | ~6,094 |
+| Swordbearer | 10.00% | ~6,094 |
 | Dynasty | 9.00% | ~5,484 |
 | I spit on your grave | 9.00% | ~5,484 |
 | What have the Romans ever done for us? | 9.00% | ~5,484 |
-| Butterlord | 8.00% | ~4,874 |
-| Know your enemy | 7.00% | ~4,265 |
-| Mastery | 7.00% | ~4,265 |
-| Crush your enemies | 5.00% | ~3,046 |
-| My way | 5.00% | ~3,046 |
+| Butterlord | 8.00% | ~4,875 |
+| Know your enemy | 7.00% | ~4,266 |
+| Mastery | 7.00% | ~4,266 |
+| Crush your enemies | 5.00% | ~3,047 |
+| My way | 5.00% | ~3,047 |
 | Crowdfunded | 4.00% | ~2,437 |
 | Veni vidi vici | 4.00% | ~2,437 |
 | Freedom! | 3.00% | ~1,828 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,930 (Ranked 88)  
+Progressed: 60,937 (Ranked 88)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 60,769 | 0 |
 | 2023-09-11 | 60,835 | 0 |
 | 2023-09-12 | 60,889 | 0 |
-| 2023-09-13 | 60,930 | 0 |
+| 2023-09-13 | 60,937 | 0 |
 ## Awards
 Max (Character Customization): 7,075  (Ranked 50)  
 Sum: 14,411 (Ranked 69)  

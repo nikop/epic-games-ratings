@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3205,
+  "EOS_Progressed": 3209,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3044,6 +3044,11 @@
       "Time": "2023-09-13T16:06:26.8199725+00:00",
       "NumProgressed": 3205,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-13T17:05:47.4335265+00:00",
+      "NumProgressed": 3209,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3063,7 +3068,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "bonus3",
@@ -3071,7 +3076,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "bonus4",
@@ -3103,7 +3108,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2852
+      "UsersEstimate": 2856
     },
     {
       "ID": "campaign10",
@@ -3111,7 +3116,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "campaign11",
@@ -3127,7 +3132,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "campaign13",
@@ -3135,7 +3140,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "campaign14",
@@ -3159,7 +3164,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "campaign17",
@@ -3191,7 +3196,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2535
     },
     {
       "ID": "campaign20",
@@ -3199,7 +3204,7 @@
       "Name": "For the Queen",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "campaign3",
@@ -3207,7 +3212,7 @@
       "Name": "Economics 101",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2054
     },
     {
       "ID": "campaign4",
@@ -3215,7 +3220,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1508
     },
     {
       "ID": "campaign5",
@@ -3223,7 +3228,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "campaign6",
@@ -3239,7 +3244,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 897
+      "UsersEstimate": 899
     },
     {
       "ID": "campaign8",
@@ -3263,7 +3268,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1316
     },
     {
       "ID": "scenario2",
@@ -3271,7 +3276,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "scenario3",
@@ -3287,7 +3292,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "scenario5",
@@ -3318,7 +3323,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3205,
+      "Progressed": 3209,
       "Completed": 11
     }
   ],
@@ -3326,8 +3331,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-13T16:06:26.8199717+00:00",
+  "LastChanged_Achievements": "2023-09-13T17:05:47.4335261+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-13T16:00:24.587301+00:00",
-  "LastUpdate_Achievements": "2023-09-13T16:06:26.8200198+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:59:37.226732+00:00",
+  "LastUpdate_Achievements": "2023-09-13T17:05:47.4335595+00:00"
 }

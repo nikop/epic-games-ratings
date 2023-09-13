@@ -7,7 +7,7 @@
 | Potomac Computer Systems | 100.00% | ~3,186 |
 | Traveler | 6.00% | ~191 |
 | Explorer | 5.00% | ~159 |
-| Adventurer | 4.00% | ~127 |
+| Adventurer | 5.00% | ~159 |
 | Hero | 4.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,186 (Ranked 164)  

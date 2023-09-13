@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,877 |
+| Sowwy! | 29.00% | ~64,883 |
 | Where's that freaking Dwarf? | 4.00% | ~8,949 |
 | Alt+F4 | 4.00% | ~8,949 |
-| Déjà vu | 3.00% | ~6,711 |
-| Sock! SOCK! | 3.00% | ~6,711 |
-| Livin' in a dwarven paradise | 2.00% | ~4,474 |
-| Way of the Wimp | 2.00% | ~4,474 |
-| A beer, two curses, three companions | 2.00% | ~4,474 |
-| The plot thickens... At the tavern | 2.00% | ~4,474 |
-| GG EZ | 2.00% | ~4,474 |
-| DM intervention | 2.00% | ~4,474 |
-| Speedrun | 2.00% | ~4,474 |
-| Fireproof Wizardess | 2.00% | ~4,474 |
+| Déjà vu | 3.00% | ~6,712 |
+| Sock! SOCK! | 3.00% | ~6,712 |
+| Livin' in a dwarven paradise | 2.00% | ~4,475 |
+| Way of the Wimp | 2.00% | ~4,475 |
+| A beer, two curses, three companions | 2.00% | ~4,475 |
+| The plot thickens... At the tavern | 2.00% | ~4,475 |
+| GG EZ | 2.00% | ~4,475 |
+| DM intervention | 2.00% | ~4,475 |
+| Speedrun | 2.00% | ~4,475 |
+| Fireproof Wizardess | 2.00% | ~4,475 |
 | Shiny and Crôm | 1.00% | ~2,237 |
 | The demons' feast | 1.00% | ~2,237 |
 | The Great Library | 1.00% | ~2,237 |
@@ -34,10 +34,10 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~2,237 |
 | Team Building Exercise | 1.00% | ~2,237 |
 | Oh, when I'll be level 10... | 1.00% | ~2,237 |
-| Res Judicata | 0.90% | ~2,013 |
-| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,013 |
-| %#*!$*! | 0.90% | ~2,013 |
-| Look but don't touch | 0.90% | ~2,013 |
+| Res Judicata | 0.90% | ~2,014 |
+| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,014 |
+| %#*!$*! | 0.90% | ~2,014 |
+| Look but don't touch | 0.90% | ~2,014 |
 | Dwarf Fortress | 0.80% | ~1,790 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,566 |
 | Lust and Debauchery | 0.70% | ~1,566 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,714 (Ranked 56)  
+Progressed: 223,734 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,10 +200,10 @@ Completed: 2 (0.00%) (Ranked 274)
 | 2023-09-10 | 223,093 | 2 |
 | 2023-09-11 | 223,344 | 2 |
 | 2023-09-12 | 223,556 | 2 |
-| 2023-09-13 | 223,714 | 2 |
+| 2023-09-13 | 223,734 | 2 |
 ## Awards
 Max (Character Customization): 194  (Ranked 275)  
-Sum: 310 (Ranked 338)  
+Sum: 311 (Ranked 338)  
 Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
@@ -211,7 +211,7 @@ Diff (max vs sum): -63
 | This game is Relaxing | 28 |
 | This game is Great for Beginners | 24 |
 | This game has Amazing Characters | 24 |
-| This game is Highly Recommended | 20 |
+| This game is Highly Recommended | 21 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -345,4 +345,4 @@ Diff (max vs sum): -63
 | 2023-09-10 | 4.59 | - | 192 | 307 |
 | 2023-09-11 | 4.58 | - | 193 | 308 |
 | 2023-09-12 | 4.59 | - | 194 | 309 |
-| 2023-09-13 | 4.59 | - | 194 | 310 |
+| 2023-09-13 | 4.59 | - | 194 | 311 |

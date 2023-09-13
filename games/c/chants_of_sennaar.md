@@ -7,7 +7,7 @@
 | That's the spirit | 49.00% | ~74 |
 | Welcome to the Tower | 46.00% | ~69 |
 | The great escape | 40.00% | ~60 |
-| The Preacher's fate | 38.00% | ~57 |
+| The Preacher's fate | 39.00% | ~59 |
 | A new dawn | 35.00% | ~53 |
 | Scholar | 31.00% | ~47 |
 | The darkness | 31.00% | ~47 |

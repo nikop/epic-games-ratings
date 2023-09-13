@@ -6,15 +6,15 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 2.00% | ~33 |
-| Faceroll the Bones | 2.00% | ~33 |
-| Flawless Victory | 2.00% | ~33 |
-| Hit 'Em Where It Hurts | 2.00% | ~33 |
-| Mushroom Madness! | 2.00% | ~33 |
-| That'll Leave a Mark | 2.00% | ~33 |
+| Death Becomes You | 2.00% | ~34 |
+| Faceroll the Bones | 2.00% | ~34 |
+| Hit 'Em Where It Hurts | 2.00% | ~34 |
+| That'll Leave a Mark | 2.00% | ~34 |
 | Debuff Dogpile | 1.00% | ~17 |
 | First Strike | 1.00% | ~17 |
+| Flawless Victory | 1.00% | ~17 |
 | Horder Better Faster Stronger | 1.00% | ~17 |
+| Mushroom Madness! | 1.00% | ~17 |
 | Perk Shard Punch Card | 1.00% | ~17 |
 | Ten Steps from the Grave | 1.00% | ~17 |
 | Cold-Blooded Critters | 0.90% | ~15 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | We've Got a Kaiju on the Field | 0.10% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,663 (Ranked 188)  
+Progressed: 1,675 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 1,291 | 0 |
 | 2023-09-11 | 1,321 | 0 |
 | 2023-09-12 | 1,507 | 0 |
-| 2023-09-13 | 1,663 | 0 |
+| 2023-09-13 | 1,675 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 258 (Ranked 354)  
