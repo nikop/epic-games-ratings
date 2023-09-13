@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.30% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.36% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
 | 41 | [Scorn](games/s/scorn.md) | 7.00% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.50% |
@@ -54,8 +54,8 @@
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
 | 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
-| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.64% |
-| 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
+| 55 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
+| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.61% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
@@ -73,8 +73,8 @@
 | 71 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.13% |
 | 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.00% |
-| 74 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.98% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.97% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -118,7 +118,7 @@
 | 116 | [Infindustry](games/i/infindustry.md) | 1.23% |
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
-| 118 | [Eternights](games/e/eternights.md) | 1.05% |
+| 119 | [Eternights](games/e/eternights.md) | 1.04% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
 | 121 | [A Musical Story](games/a/a_musical_story.md) | 1.02% |
 | 122 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
@@ -128,7 +128,7 @@
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
-| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
+| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.90% |
 | 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.85% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -200,8 +200,8 @@
 | 198 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 199 | [RAILGRADE](games/r/railgrade.md) | 0.19% |
-| 201 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.18% |
-| 202 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 201 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.17% |
+| 201 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.17% |
 | 203 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 203 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 203 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
