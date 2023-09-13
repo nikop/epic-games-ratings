@@ -1724,9 +1724,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 178
     },
     {
       "ID": "_07_FinishAct3",
@@ -1756,9 +1756,9 @@
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 146
     },
     {
       "ID": "_11_Completion_40",
@@ -1901,8 +1901,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-13T13:10:16.9862555+00:00",
+  "LastChanged_Achievements": "2023-09-13T14:04:31.8319614+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:03:15.630611+00:00",
-  "LastUpdate_Achievements": "2023-09-13T13:10:16.9862849+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:57:26.5037858+00:00",
+  "LastUpdate_Achievements": "2023-09-13T14:04:31.8319939+00:00"
 }

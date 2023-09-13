@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -2833,9 +2833,9 @@
       "Count": 735
     }
   ],
-  "EOS_Progressed": 235915,
+  "EOS_Progressed": 235916,
   "EOS_Completed": 269,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17758,6 +17758,11 @@
       "Time": "2023-09-13T13:10:18.4856668+00:00",
       "NumProgressed": 235915,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2023-09-13T14:04:33.9019211+00:00",
+      "NumProgressed": 235916,
+      "NumCompleted": 269
     }
   ],
   "TotalAchievements": 122,
@@ -17785,7 +17790,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 96725
+      "UsersEstimate": 96726
     },
     {
       "ID": "BOSSPIT",
@@ -17801,7 +17806,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 226478
+      "UsersEstimate": 226479
     },
     {
       "ID": "CURSE1HP",
@@ -17857,7 +17862,7 @@
       "Name": "Max Damage!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 37746
+      "UsersEstimate": 37747
     },
     {
       "ID": "DEPTH12",
@@ -17865,7 +17870,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99084
+      "UsersEstimate": 99085
     },
     {
       "ID": "DEPTH12HARD",
@@ -17889,7 +17894,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 172218
+      "UsersEstimate": 172219
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -18041,7 +18046,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82570
+      "UsersEstimate": 82571
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -18169,7 +18174,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 143908
+      "UsersEstimate": 143909
     },
     {
       "ID": "KILL1000",
@@ -18257,7 +18262,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 127394
+      "UsersEstimate": 127395
     },
     {
       "ID": "KILLNICEDOG",
@@ -18305,7 +18310,7 @@
       "Name": "Shootout",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 84929
+      "UsersEstimate": 84930
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -18369,7 +18374,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99084
+      "UsersEstimate": 99085
     },
     {
       "ID": "NOEPIC",
@@ -18433,7 +18438,7 @@
       "Name": "Doing Time",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 37746
+      "UsersEstimate": 37747
     },
     {
       "ID": "POISON300",
@@ -18513,7 +18518,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 209964
+      "UsersEstimate": 209965
     },
     {
       "ID": "SPECIALROOMS10",
@@ -18521,7 +18526,7 @@
       "Name": "Explorer",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 146267
+      "UsersEstimate": 146268
     },
     {
       "ID": "SPEEDRUN10",
@@ -18537,7 +18542,7 @@
       "Name": "Sneaky",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 101443
+      "UsersEstimate": 101444
     },
     {
       "ID": "STEALTH100",
@@ -18553,7 +18558,7 @@
       "Name": "Flesh Wound",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 68415
+      "UsersEstimate": 68416
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -18585,7 +18590,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 143908
+      "UsersEstimate": 143909
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -18744,7 +18749,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 235915,
+      "Progressed": 235916,
       "Completed": 269
     }
   ],
@@ -18752,8 +18757,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-09-12T18:58:45.1400492+00:00",
-  "LastChanged_Achievements": "2023-09-13T13:10:18.485666+00:00",
+  "LastChanged_Achievements": "2023-09-13T14:04:33.90192+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:52.6906586+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:04:21.8774269+00:00",
-  "LastUpdate_Achievements": "2023-09-13T13:10:18.485929+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:58:58.7105438+00:00",
+  "LastUpdate_Achievements": "2023-09-13T14:04:33.9023092+00:00"
 }

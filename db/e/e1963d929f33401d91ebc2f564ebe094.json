@@ -4,7 +4,7 @@
   "ProductSlug": "oirbo-c063b7",
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-07-19T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-30T17:57:24.8700987+00:00",
   "LastUpdate_AppInfo": "2023-09-12T18:57:14.9249053+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:05:38.3985863+00:00",
-  "LastUpdate_Achievements": "2023-09-13T13:10:56.7024473+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:00:45.2370137+00:00",
+  "LastUpdate_Achievements": "2023-09-13T14:05:25.9357426+00:00"
 }

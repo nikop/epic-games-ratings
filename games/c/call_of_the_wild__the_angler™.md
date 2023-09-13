@@ -6,8 +6,8 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 79.00% | ~4,561 |
-| Hey Good Hookin | 69.00% | ~3,984 |
+| Fish Just Got Reel | 79.00% | ~4,562 |
+| Hey Good Hookin | 69.00% | ~3,985 |
 | I'm on a Boat! | 59.00% | ~3,407 |
 | Can you smell what the Rod is Hooking | 55.00% | ~3,176 |
 | Scaling up | 55.00% | ~3,176 |
@@ -17,7 +17,7 @@ Number of Ratings: 281  (23.09.2022)
 | License to Gill | 32.00% | ~1,848 |
 | Things that go Splash in the Night | 30.00% | ~1,732 |
 | Goldfish? | 28.00% | ~1,617 |
-| Going for Gold | 26.00% | ~1,501 |
+| Going for Gold | 26.00% | ~1,502 |
 | I'm Hooked! | 19.00% | ~1,097 |
 | Diamond in the Rough | 13.00% | ~751 |
 | More than a Tourist | 11.00% | ~635 |
@@ -27,7 +27,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm the Captain Now | 6.00% | ~346 |
 | Big Fish Small Pond | 5.00% | ~289 |
 | Gonna Need a Bigger Boat | 3.00% | ~173 |
-| The Beetles | 2.00% | ~115 |
+| The Beetles | 2.00% | ~116 |
 | Rod and Troll | 2.00% | ~103 |
 | No Fin left to give | 1.00% | ~58 |
 | Taylor Made | 1.00% | ~58 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.10% | ~5 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,774 (Ranked 143)  
+Progressed: 5,775 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 5,748 | 0 |
 | 2023-09-11 | 5,758 | 0 |
 | 2023-09-12 | 5,768 | 0 |
-| 2023-09-13 | 5,774 | 0 |
+| 2023-09-13 | 5,775 | 0 |
 ## Awards
 Max (Relaxing): 34  (Ranked 449)  
 Sum: 170 (Ranked 390)  

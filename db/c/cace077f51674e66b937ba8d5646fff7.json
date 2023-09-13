@@ -2,9 +2,9 @@
   "ID": "cace077f51674e66b937ba8d5646fff7",
   "Name": "Mokoko X",
   "ProductSlug": "mokoko-x-e2b09d",
-  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-26T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -366,6 +366,11 @@
       "Time": "2023-09-08T20:06:36.5089823+00:00",
       "NumProgressed": 74,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T14:08:21.8561516+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 73,
@@ -391,7 +396,7 @@
       "ID": "BEYOND_TIME",
       "SetID": "50pdlpn",
       "Name": "Beyond Time",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 40,
       "UsersEstimate": 47
     },
@@ -399,7 +404,7 @@
       "ID": "BLIND_DATE",
       "SetID": "50pdlpn",
       "Name": "Blind Date",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 10
     },
@@ -415,15 +420,15 @@
       "ID": "COMPLEX_MOVE",
       "SetID": "50pdlpn",
       "Name": "Complex Move",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CONQUEROR",
       "SetID": "50pdlpn",
       "Name": "Conqueror",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 40,
       "UsersEstimate": 47
     },
@@ -433,7 +438,7 @@
       "Name": "Federic the Conscious Toy",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ENEMY_1",
@@ -441,7 +446,7 @@
       "Name": "Norman the Useless Gyroscope",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ENEMY_10",
@@ -487,7 +492,7 @@
       "ID": "ENEMY_15",
       "SetID": "50pdlpn",
       "Name": "Captain Joseph, Ali Baba \u0026 Pillows",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -527,7 +532,7 @@
       "ID": "ENEMY_2",
       "SetID": "50pdlpn",
       "Name": "Vanunu the Heartless but not Soulless Emperor",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 56
     },
@@ -615,7 +620,7 @@
       "ID": "ENEMY_3",
       "SetID": "50pdlpn",
       "Name": "Federic, Norman \u0026 Vanunu",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 51
     },
@@ -639,7 +644,7 @@
       "ID": "ENEMY_4",
       "SetID": "50pdlpn",
       "Name": "Khalil the Grim Ant",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -647,7 +652,7 @@
       "ID": "ENEMY_5",
       "SetID": "50pdlpn",
       "Name": "Scorpon-pink.png the PNG File",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 42
     },
@@ -655,7 +660,7 @@
       "ID": "ENEMY_6",
       "SetID": "50pdlpn",
       "Name": "Mr. Fyodorov the Imaginary Spider",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -663,7 +668,7 @@
       "ID": "ENEMY_7",
       "SetID": "50pdlpn",
       "Name": "Khalil, Scorpon-pink.png \u0026 Mr. Fyodorov",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -671,7 +676,7 @@
       "ID": "ENEMY_8",
       "SetID": "50pdlpn",
       "Name": "Kabeer the Demonic Headphone",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -783,7 +788,7 @@
       "ID": "ENEMY_ARCADE_2",
       "SetID": "50pdlpn",
       "Name": "Arcade - Vanunu the Heartless but not Soulless Emperor",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -951,7 +956,7 @@
       "ID": "SERIAL_KISSER",
       "SetID": "50pdlpn",
       "Name": "Serial Kisser",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 40,
       "UsersEstimate": 62
     }
@@ -960,14 +965,14 @@
     {
       "ID": "50pdlpn",
       "IsBase": true,
-      "Progressed": 74,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-09-13T13:13:04.7359096+00:00",
+  "LastChanged_Achievements": "2023-09-13T14:08:21.8561508+00:00",
   "LastUpdate_AppInfo": "2023-09-11T17:56:59.010035+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:06:10.4882082+00:00",
-  "LastUpdate_Achievements": "2023-09-13T13:13:04.7359897+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:01:28.9290735+00:00",
+  "LastUpdate_Achievements": "2023-09-13T14:08:21.8562331+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2971,
+  "EOS_Progressed": 2972,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.67,
   "EosHistory": [
@@ -6261,6 +6261,11 @@
       "Time": "2023-09-13T13:13:00.759127+00:00",
       "NumProgressed": 2971,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-09-13T14:08:16.4189456+00:00",
+      "NumProgressed": 2972,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 16,
@@ -6304,7 +6309,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "ach_architecture_completed",
@@ -6320,7 +6325,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ach_bomb",
@@ -6399,14 +6404,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 2971,
+      "Progressed": 2972,
       "Completed": 20
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-09-13T13:13:00.7591263+00:00",
+  "LastChanged_Achievements": "2023-09-13T14:08:16.4189447+00:00",
   "LastUpdate_AppInfo": "2023-09-08T13:56:57.5015536+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:05:49.6836522+00:00",
-  "LastUpdate_Achievements": "2023-09-13T13:13:00.759178+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:01:01.5457166+00:00",
+  "LastUpdate_Achievements": "2023-09-13T14:08:16.4190375+00:00"
 }

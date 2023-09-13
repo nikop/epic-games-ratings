@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2357,
+  "EOS_Progressed": 2358,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 9.12,
   "EosHistory": [
@@ -5838,6 +5838,11 @@
       "Time": "2023-09-13T09:04:01.3181468+00:00",
       "NumProgressed": 2357,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2023-09-13T14:04:26.0628295+00:00",
+      "NumProgressed": 2358,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 12,
@@ -5897,7 +5902,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Le Juif et la France",
@@ -5944,7 +5949,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2357,
+      "Progressed": 2358,
       "Completed": 215
     }
   ],
@@ -5952,8 +5957,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-13T13:10:12.5687335+00:00",
+  "LastChanged_Achievements": "2023-09-13T14:04:26.0628288+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:14.4342604+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:04:00.6028286+00:00",
-  "LastUpdate_Achievements": "2023-09-13T13:10:12.568783+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:58:29.8074492+00:00",
+  "LastUpdate_Achievements": "2023-09-13T14:04:26.0628844+00:00"
 }

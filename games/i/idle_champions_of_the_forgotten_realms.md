@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~457 |
 | No Time To Rest | 0.20% | ~457 |
 | Invisible Shadows | 0.20% | ~457 |
+| Family Entanglements | 0.20% | ~457 |
 | The Dinner Party | 0.20% | ~457 |
 | The Botched Kidnapping | 0.20% | ~457 |
 | Trollskull Manor | 0.20% | ~457 |
@@ -207,7 +208,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Hunt for Owl-y | 0.10% | ~229 |
 | Werewolves in the Mist | 0.10% | ~229 |
 | We're not in Faerûn Anymore | 0.10% | ~229 |
-| Family Entanglements | 0.10% | ~229 |
 | Haunted Fortunes | 0.10% | ~229 |
 | Poor Fortune | 0.10% | ~229 |
 | Relentless Misfortune | 0.10% | ~229 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,619 (Ranked 54)  
+Progressed: 228,621 (Ranked 54)  
 Completed: 2,275 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -673,15 +673,15 @@ Completed: 2,275 (1.00%) (Ranked 123)
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
-| 2023-09-13 | 228,619 | 2,275 |
+| 2023-09-13 | 228,621 | 2,275 |
 ## Awards
 Max (Diverse Characters): 5,266  (Ranked 67)  
-Sum: 31,555 (Ranked 39)  
+Sum: 31,561 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,266 |
-| This game is Great for Beginners | 5,246 |
+| This game is Great for Beginners | 5,252 |
 | This game has Quickly Understood Controls | 4,764 |
 | This game is Relaxing | 4,648 |
 | This game has Amazing Characters | 4,115 |
@@ -920,4 +920,4 @@ Diff (max vs sum): 28
 | 2023-09-10 | 4.06 | - | 5,254 | 31,510 |
 | 2023-09-11 | 4.06 | - | 5,261 | 31,535 |
 | 2023-09-12 | 4.06 | - | 5,266 | 31,551 |
-| 2023-09-13 | 4.06 | - | 5,266 | 31,555 |
+| 2023-09-13 | 4.06 | - | 5,266 | 31,561 |

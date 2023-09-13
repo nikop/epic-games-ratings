@@ -4,10 +4,10 @@
   "ProductSlug": "the-king-of-fighters-xv",
   "Ranking_Rating": 315,
   "Ranking_Popularity": 375,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-02-17T00:00:00+00:00",
@@ -387,10 +387,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 559,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2023-09-13T13:57:31.6650222+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 561,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 559,
+  "NumberOfAwards": 561,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -422,7 +428,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 58
+      "Count": 60
     },
     {
       "Text": "This game has Diverse Characters",
@@ -472,8 +478,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2023-09-12T16:02:05.7523097+00:00",
+  "LastChanged": "2023-09-13T13:57:31.6650221+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:33.7312352+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:03:19.3674966+00:00",
-  "LastUpdate_Achievements": "2023-09-13T13:09:43.603777+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:57:31.6650226+00:00",
+  "LastUpdate_Achievements": "2023-09-13T14:03:38.6607236+00:00"
 }

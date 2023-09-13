@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,361 |
-| Cavalier | 25.00% | ~200,282 |
-| Fatso | 23.00% | ~184,260 |
-| Awakening | 21.00% | ~168,237 |
-| Ranger | 20.00% | ~160,226 |
-| Scrooge | 20.00% | ~160,226 |
+| Blacksmith's Son | 32.00% | ~256,363 |
+| Cavalier | 25.00% | ~200,283 |
+| Fatso | 23.00% | ~184,261 |
+| Awakening | 21.00% | ~168,238 |
+| Ranger | 20.00% | ~160,227 |
+| Scrooge | 20.00% | ~160,227 |
 | Anorectic | 16.00% | ~128,181 |
-| Bookworm | 15.00% | ~120,169 |
-| Firestarter | 15.00% | ~120,169 |
+| Bookworm | 15.00% | ~120,170 |
+| Firestarter | 15.00% | ~120,170 |
 | Insomniac | 13.00% | ~104,147 |
-| Buddy | 12.00% | ~96,135 |
-| Thief | 12.00% | ~96,135 |
-| Sinner | 11.00% | ~88,124 |
-| Traveller | 11.00% | ~88,124 |
+| Buddy | 12.00% | ~96,136 |
+| Thief | 12.00% | ~96,136 |
+| Sinner | 11.00% | ~88,125 |
+| Traveller | 11.00% | ~88,125 |
 | Convict | 10.00% | ~80,113 |
 | Haggler | 9.00% | ~72,102 |
 | McLovin | 7.00% | ~56,079 |
 | Runt | 7.00% | ~56,079 |
 | Casanova | 6.00% | ~48,068 |
-| Bad Trip | 5.00% | ~40,056 |
-| Monk | 5.00% | ~40,056 |
-| Serial Killer | 5.00% | ~40,056 |
+| Bad Trip | 5.00% | ~40,057 |
+| Monk | 5.00% | ~40,057 |
+| Serial Killer | 5.00% | ~40,057 |
 | Bastard | 4.00% | ~32,045 |
 | Hunter | 4.00% | ~32,045 |
 | Plague Doctor | 4.00% | ~32,045 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~801 |
 | Wingman | 0.10% | ~801 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,129 (Ranked 16)  
+Progressed: 801,133 (Ranked 16)  
 Completed: 45 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 45 (0.01%) (Ranked 259)
 | 2023-09-10 | 800,843 | 45 |
 | 2023-09-11 | 800,968 | 45 |
 | 2023-09-12 | 801,077 | 45 |
-| 2023-09-13 | 801,129 | 45 |
+| 2023-09-13 | 801,133 | 45 |
 ## Awards
 Max (Character Customization): 7,441  (Ranked 47)  
 Sum: 27,716 (Ranked 46)  

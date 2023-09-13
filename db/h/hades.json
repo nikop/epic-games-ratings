@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -4259,10 +4259,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 7877,
       "NumberOfAwardsMax": 3257
+    },
+    {
+      "Time": "2023-09-13T14:02:44.234488+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7878,
+      "NumberOfAwardsMax": 3257
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7877,
+  "NumberOfAwards": 7878,
   "NumberOfAwardsMax": 3257,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4282,7 +4288,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 261
+      "Count": 262
     },
     {
       "Text": "This game is Relaxing",
@@ -4357,9 +4363,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 703379,
+  "EOS_Progressed": 703380,
   "EOS_Completed": 6350,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -19957,6 +19963,11 @@
       "Time": "2023-09-13T13:11:56.0669631+00:00",
       "NumProgressed": 703379,
       "NumCompleted": 6350
+    },
+    {
+      "Time": "2023-09-13T14:06:46.6460293+00:00",
+      "NumProgressed": 703380,
+      "NumCompleted": 6350
     }
   ],
   "TotalAchievements": 49,
@@ -20016,7 +20027,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 225081
+      "UsersEstimate": 225082
     },
     {
       "ID": "AchClearAnyRun",
@@ -20024,7 +20035,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 365757
+      "UsersEstimate": 365758
     },
     {
       "ID": "AchClearAsphodel",
@@ -20032,7 +20043,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 562703
+      "UsersEstimate": 562704
     },
     {
       "ID": "AchClearElysium",
@@ -20040,7 +20051,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 464230
+      "UsersEstimate": 464231
     },
     {
       "ID": "AchClearElysiumEM",
@@ -20072,7 +20083,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 626007
+      "UsersEstimate": 626008
     },
     {
       "ID": "AchCrushedThanatos",
@@ -20088,7 +20099,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 84405
+      "UsersEstimate": 84406
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -20128,7 +20139,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 154743
+      "UsersEstimate": 154744
     },
     {
       "ID": "AchGreaterCall",
@@ -20160,7 +20171,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 260250
+      "UsersEstimate": 260251
     },
     {
       "ID": "AchManyCosmetics",
@@ -20168,7 +20179,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 189912
+      "UsersEstimate": 189913
     },
     {
       "ID": "AchManyQuests",
@@ -20232,7 +20243,7 @@
       "Name": "Well Versed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 119574
+      "UsersEstimate": 119575
     },
     {
       "ID": "AchOrpheusSingsAgain",
@@ -20240,7 +20251,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253216
+      "UsersEstimate": 253217
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -20256,7 +20267,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 260250
+      "UsersEstimate": 260251
     },
     {
       "ID": "AchPickedManyHammers",
@@ -20320,7 +20331,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 295419
+      "UsersEstimate": 295420
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -20328,7 +20339,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 499399
+      "UsersEstimate": 499400
     },
     {
       "ID": "AchWeaponClears",
@@ -20359,15 +20370,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 703379,
+      "Progressed": 703380,
       "Completed": 6350
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-09-12T15:01:27.9326538+00:00",
-  "LastChanged_Achievements": "2023-09-13T13:11:56.0669622+00:00",
+  "LastChanged": "2023-09-13T14:02:44.2344878+00:00",
+  "LastChanged_Achievements": "2023-09-13T14:06:46.6460286+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.0033415+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:09:05.3590839+00:00",
-  "LastUpdate_Achievements": "2023-09-13T13:11:56.0671008+00:00"
+  "LastUpdate_Ratings": "2023-09-13T14:02:44.2344888+00:00",
+  "LastUpdate_Achievements": "2023-09-13T14:06:46.6462674+00:00"
 }

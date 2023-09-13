@@ -177,9 +177,9 @@
       "ID": "AREAL_HEADACHE",
       "SetID": "2d85n75",
       "Name": "A Real Headache",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ATOTAL_RIOT",
@@ -385,9 +385,9 @@
       "ID": "SHOOK_UP",
       "SetID": "2d85n75",
       "Name": "Shook Up",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SOCIAL_BUTTERFLY",
@@ -417,9 +417,9 @@
       "ID": "TASK_MASTER",
       "SetID": "2d85n75",
       "Name": "Task Master",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TASTES_LIKE_REGRET",
@@ -457,9 +457,9 @@
       "ID": "THE_BIRDS_AND_THE_BEES",
       "SetID": "2d85n75",
       "Name": "The Birds and the Bees",
-      "Percentage": 43,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "THE_SPICE_OF_LIFE",
@@ -546,8 +546,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-09-13T13:12:31.0153562+00:00",
+  "LastChanged_Achievements": "2023-09-13T14:07:34.1413382+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:58.6658979+00:00",
-  "LastUpdate_Ratings": "2023-09-13T13:04:19.3354764+00:00",
-  "LastUpdate_Achievements": "2023-09-13T13:12:31.0154+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:58:55.0697585+00:00",
+  "LastUpdate_Achievements": "2023-09-13T14:07:34.1413826+00:00"
 }
