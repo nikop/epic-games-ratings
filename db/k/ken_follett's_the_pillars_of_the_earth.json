@@ -501,7 +501,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 15171,
+  "EOS_Progressed": 15172,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -10061,6 +10061,11 @@
       "Time": "2023-09-13T06:06:44.6380653+00:00",
       "NumProgressed": 15171,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-09-13T08:05:38.288033+00:00",
+      "NumProgressed": 15172,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 41,
@@ -10112,7 +10117,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5006
+      "UsersEstimate": 5007
     },
     {
       "ID": "tpote_achievement_15",
@@ -10160,7 +10165,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5006
+      "UsersEstimate": 5007
     },
     {
       "ID": "tpote_achievement_20",
@@ -10176,7 +10181,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "tpote_achievement_22",
@@ -10336,7 +10341,7 @@
       "Name": "Tattletale",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6220
+      "UsersEstimate": 6221
     },
     {
       "ID": "tpote_achievement_40",
@@ -10399,15 +10404,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 15171,
+      "Progressed": 15172,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-09-10T20:57:40.397669+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:06:32.2005741+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:05:38.2880324+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.6037792+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:59:11.7789384+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:06:32.2006649+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:58:42.0225701+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:05:38.2881045+00:00"
 }

@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,597 (Ranked 191)  
+Progressed: 1,599 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,16 +90,16 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 1,291 | 0 |
 | 2023-09-11 | 1,321 | 0 |
 | 2023-09-12 | 1,507 | 0 |
-| 2023-09-13 | 1,597 | 0 |
+| 2023-09-13 | 1,599 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
-Sum: 257 (Ranked 354)  
+Sum: 258 (Ranked 354)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |
+| This game is Great for Beginners | 30 |
 | This game has Amazing Characters | 29 |
-| This game is Great for Beginners | 29 |
 | This game has Quickly Understood Controls | 26 |
 | This game has Unique Visuals | 26 |
 | This game has Diverse Characters | 25 |
@@ -187,3 +187,4 @@ Diff (max vs sum): 104
 | 2023-09-07 | 4.49 | - | 32 | 255 |
 | 2023-09-08 | 4.49 | - | 32 | 256 |
 | 2023-09-12 | 4.49 | - | 32 | 257 |
+| 2023-09-13 | 4.49 | - | 32 | 258 |

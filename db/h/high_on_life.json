@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -262,9 +262,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24050,
+  "EOS_Progressed": 24051,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4832,6 +4832,11 @@
       "Time": "2023-09-13T06:05:41.1012145+00:00",
       "NumProgressed": 24050,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-09-13T08:04:48.7050821+00:00",
+      "NumProgressed": 24051,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 32,
@@ -4843,7 +4848,7 @@
       "Name": "Epic Legendary Prize",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_ALL_CARDS",
@@ -4851,7 +4856,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7936
+      "UsersEstimate": 7937
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -4859,7 +4864,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 18518
+      "UsersEstimate": 18519
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -4875,7 +4880,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -4899,7 +4904,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6012
+      "UsersEstimate": 6013
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -4907,7 +4912,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 18278
+      "UsersEstimate": 18279
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -4923,7 +4928,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6012
+      "UsersEstimate": 6013
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -4931,7 +4936,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6012
+      "UsersEstimate": 6013
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -4939,7 +4944,7 @@
       "Name": "A Starfish Is Born",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_GRUNT_EYES",
@@ -4963,7 +4968,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 13708
+      "UsersEstimate": 13709
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -4979,7 +4984,7 @@
       "Name": "G3 Graduation",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 6012
+      "UsersEstimate": 6013
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -5027,7 +5032,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 17556
+      "UsersEstimate": 17557
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -5083,7 +5088,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3127
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -5098,22 +5103,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24050,
+      "Progressed": 24051,
       "Completed": 12
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1343,
-      "Completed": 1343
+      "Progressed": 1344,
+      "Completed": 1344
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-09-02T06:57:56.883903+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:05:34.2636908+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:04:48.7050816+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:11.7104478+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:01:31.5582611+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:05:34.263746+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:02:11.1718902+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:04:48.7051295+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7560,10 +7560,10 @@
       "Count": 638
     }
   ],
-  "EOS_Progressed": 296517,
+  "EOS_Progressed": 296519,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1522,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 1516,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -23360,6 +23360,11 @@
       "Time": "2023-09-13T07:03:28.8263825+00:00",
       "NumProgressed": 296517,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-13T08:02:33.1769306+00:00",
+      "NumProgressed": 296519,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23371,7 +23376,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41512
+      "UsersEstimate": 41513
     },
     {
       "ID": "PFA_10",
@@ -23675,7 +23680,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23721
+      "UsersEstimate": 23722
     },
     {
       "ID": "PFA_45",
@@ -23730,7 +23735,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296517,
+      "Progressed": 296519,
       "Completed": 470
     }
   ],
@@ -23738,8 +23743,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-13T00:00:42.2116521+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:03:28.8263818+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:02:33.17693+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:00:52.0671755+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:03:28.826524+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:00:07.544454+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:02:33.1770409+00:00"
 }

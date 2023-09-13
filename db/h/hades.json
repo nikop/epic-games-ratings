@@ -4357,9 +4357,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 703362,
+  "EOS_Progressed": 703363,
   "EOS_Completed": 6350,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -19932,6 +19932,11 @@
       "Time": "2023-09-13T07:06:20.3134079+00:00",
       "NumProgressed": 703362,
       "NumCompleted": 6350
+    },
+    {
+      "Time": "2023-09-13T08:05:28.2561208+00:00",
+      "NumProgressed": 703363,
+      "NumCompleted": 6350
     }
   ],
   "TotalAchievements": 49,
@@ -19975,7 +19980,7 @@
       "Name": "Thorn of Thanatos",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 28134
+      "UsersEstimate": 28135
     },
     {
       "ID": "AchBuffedPlume",
@@ -19999,7 +20004,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 365748
+      "UsersEstimate": 365749
     },
     {
       "ID": "AchClearAsphodel",
@@ -20015,7 +20020,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 464219
+      "UsersEstimate": 464220
     },
     {
       "ID": "AchClearElysiumEM",
@@ -20047,7 +20052,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 625992
+      "UsersEstimate": 625993
     },
     {
       "ID": "AchCrushedThanatos",
@@ -20063,7 +20068,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 84403
+      "UsersEstimate": 84404
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -20071,7 +20076,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 196941
+      "UsersEstimate": 196942
     },
     {
       "ID": "AchForgedBond",
@@ -20079,7 +20084,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 196941
+      "UsersEstimate": 196942
     },
     {
       "ID": "AchFoundAllSummons",
@@ -20111,7 +20116,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 478286
+      "UsersEstimate": 478287
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -20127,7 +20132,7 @@
       "Name": "Friends Forever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 28134
+      "UsersEstimate": 28135
     },
     {
       "ID": "AchManyBrokerTrades",
@@ -20151,7 +20156,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 175840
+      "UsersEstimate": 175841
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -20167,7 +20172,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 443118
+      "UsersEstimate": 443119
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -20215,7 +20220,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 253210
+      "UsersEstimate": 253211
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -20303,7 +20308,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 499387
+      "UsersEstimate": 499388
     },
     {
       "ID": "AchWeaponClears",
@@ -20334,15 +20339,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 703362,
+      "Progressed": 703363,
       "Completed": 6350
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-09-12T15:01:27.9326538+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:06:20.3134074+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:05:28.2561202+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.0033415+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:03:11.7197551+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:06:20.3135443+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:02:19.2836016+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:05:28.2562315+00:00"
 }

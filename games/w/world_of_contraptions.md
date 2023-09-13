@@ -11,8 +11,8 @@
 | Easy group | 5.00% | ~14 |
 | Medium group | 1.00% | ~3 |
 | First hard level | 1.00% | ~3 |
-| Hard group | 0.40% | ~1 |
-| First extreme level | 0.40% | ~1 |
+| Hard group | 0.30% | ~1 |
+| First extreme level | 0.30% | ~1 |
 | Easy group with gold stars | 0.00% | ~0 |
 | Easy group with silver stars | 0.00% | ~0 |
 | Easy group with all stars | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Beginner climber | 0.00% | ~0 |
 | Mountain master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 284)  
+Progressed: 286 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,3 +107,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 276 | 0 |
 | 2023-09-11 | 279 | 0 |
 | 2023-09-12 | 285 | 0 |
+| 2023-09-13 | 286 | 0 |

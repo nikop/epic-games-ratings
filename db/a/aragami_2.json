@@ -238,7 +238,7 @@
   "Tags": [],
   "EOS_Progressed": 43016,
   "EOS_Completed": 231,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -15208,9 +15208,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "db84117",
       "Name": "The Hidden Village",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3441
+      "UsersEstimate": 3871
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -15401,8 +15401,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:06:25.307575+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:05:32.4525502+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:22.3903109+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:03:08.3178556+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:06:25.3078873+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:02:16.1915647+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:05:32.4526492+00:00"
 }

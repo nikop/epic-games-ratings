@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142833,
+  "EOS_Progressed": 142834,
   "EOS_Completed": 269,
-  "EOS_NewPlayers": 1346,
+  "EOS_NewPlayers": 1343,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -10669,6 +10669,11 @@
       "Time": "2023-09-13T07:08:27.291589+00:00",
       "NumProgressed": 142833,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2023-09-13T08:08:06.2135346+00:00",
+      "NumProgressed": 142834,
+      "NumCompleted": 269
     }
   ],
   "TotalAchievements": 31,
@@ -10776,7 +10781,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 39993
+      "UsersEstimate": 39994
     },
     {
       "ID": "EAwards_20",
@@ -10912,7 +10917,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 52848
+      "UsersEstimate": 52849
     },
     {
       "ID": "EAwards_9",
@@ -10927,7 +10932,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 142833,
+      "Progressed": 142834,
       "Completed": 269
     }
   ],
@@ -10935,8 +10940,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-12T09:59:33.6411689+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:08:27.2915877+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:08:06.2135339+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.7486031+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:00:33.056114+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:08:27.291678+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:59:52.0269388+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:08:06.2136041+00:00"
 }

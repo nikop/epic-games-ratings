@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -802,7 +802,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 148272,
+  "EOS_Progressed": 148276,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1939,
   "EOS_NewCompleters": 0,
@@ -9382,6 +9382,11 @@
       "Time": "2023-09-13T07:07:35.7212937+00:00",
       "NumProgressed": 148272,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-13T08:06:31.6915875+00:00",
+      "NumProgressed": 148276,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -9441,7 +9446,7 @@
       "Name": "The Hunt",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 97860
+      "UsersEstimate": 97862
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -9457,7 +9462,7 @@
       "Name": "Taste",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 124548
+      "UsersEstimate": 124552
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -9465,7 +9470,7 @@
       "Name": "Weeper",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 63757
+      "UsersEstimate": 63759
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -9489,7 +9494,7 @@
       "Name": "Shapely",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 13344
+      "UsersEstimate": 13345
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -9513,7 +9518,7 @@
       "Name": "Host",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 8871
+      "UsersEstimate": 8872
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -9553,7 +9558,7 @@
       "Name": "Celebration",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 8896
+      "UsersEstimate": 8897
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -9577,7 +9582,7 @@
       "Name": "Watcher",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 14827
+      "UsersEstimate": 14828
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -9609,7 +9614,7 @@
       "Name": "Imprint",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 130479
+      "UsersEstimate": 130483
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -9625,7 +9630,7 @@
       "Name": "Kinship",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 2965
+      "UsersEstimate": 2966
     },
     {
       "ID": "MISC_ENDING_SURRENDER",
@@ -9665,7 +9670,7 @@
       "Name": "Ravenous",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 93411
+      "UsersEstimate": 93414
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -9728,21 +9733,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 147855,
+      "Progressed": 147859,
       "Completed": 1106
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 148272,
+      "Progressed": 148276,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-09-13T02:14:53.4957583+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:07:35.7212932+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:06:31.6915867+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:20.7884065+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:59:55.0174786+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:07:35.7213814+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:59:18.7611824+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:06:31.6916555+00:00"
 }

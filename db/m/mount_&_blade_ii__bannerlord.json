@@ -7101,9 +7101,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60900,
+  "EOS_Progressed": 60901,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22511,6 +22511,11 @@
       "Time": "2023-09-13T07:06:17.9148995+00:00",
       "NumProgressed": 60900,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T08:05:25.7951843+00:00",
+      "NumProgressed": 60901,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22842,7 +22847,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "Strike",
@@ -22929,15 +22934,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60900,
+      "Progressed": 60901,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-12T17:58:43.4461922+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:06:17.9148984+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:05:25.7951837+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:58:57.5669985+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:06:17.9150517+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:58:30.0682522+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:05:25.7953099+00:00"
 }

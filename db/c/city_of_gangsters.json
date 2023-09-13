@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -607,9 +607,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342925,
+  "EOS_Progressed": 342930,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16852,6 +16852,11 @@
       "Time": "2023-09-13T07:04:58.21173+00:00",
       "NumProgressed": 342925,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-13T08:04:18.1362345+00:00",
+      "NumProgressed": 342930,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -16879,7 +16884,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41151
+      "UsersEstimate": 41152
     },
     {
       "ID": "ach004",
@@ -16887,7 +16892,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach005",
@@ -16919,7 +16924,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41151
+      "UsersEstimate": 41152
     },
     {
       "ID": "ach009",
@@ -16959,7 +16964,7 @@
       "Name": "Baker\u2019s Dozen",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach014",
@@ -16967,7 +16972,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51439
+      "UsersEstimate": 51440
     },
     {
       "ID": "ach015",
@@ -16991,7 +16996,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 44580
+      "UsersEstimate": 44581
     },
     {
       "ID": "ach018",
@@ -17071,7 +17076,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157746
+      "UsersEstimate": 157748
     },
     {
       "ID": "ach028",
@@ -17095,7 +17100,7 @@
       "Name": "Dropping the Dime",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach031",
@@ -17167,7 +17172,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34292
+      "UsersEstimate": 34293
     },
     {
       "ID": "ach040",
@@ -17215,7 +17220,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 44580
+      "UsersEstimate": 44581
     },
     {
       "ID": "ach046",
@@ -17295,7 +17300,7 @@
       "Name": "Spiffy Speakeasies",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach056",
@@ -17327,7 +17332,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34292
+      "UsersEstimate": 34293
     },
     {
       "ID": "ach060",
@@ -17343,7 +17348,7 @@
       "Name": "Keeping Your Word",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "ach062",
@@ -17391,7 +17396,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 54868
+      "UsersEstimate": 54869
     },
     {
       "ID": "ach069",
@@ -17502,7 +17507,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 342925,
+      "Progressed": 342930,
       "Completed": 7
     }
   ],
@@ -17510,8 +17515,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-10T15:00:51.2490982+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:04:58.2117294+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:04:18.1362339+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:01:19.1977677+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:04:58.2119193+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:00:31.1231806+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:04:18.1363844+00:00"
 }

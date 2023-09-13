@@ -35,8 +35,8 @@ Number of Ratings: 88  (23.09.2022)
 | Hatching | 9.00% | ~3,871 |
 | Bonds | 9.00% | ~3,871 |
 | Get Over Here | 9.00% | ~3,871 |
+| The Hidden Village | 9.00% | ~3,871 |
 | Denouement | 8.00% | ~3,441 |
-| The Hidden Village | 8.00% | ~3,441 |
 | A Pleasant Stay | 8.00% | ~3,441 |
 | Pilgrimage | 7.00% | ~3,011 |
 | The Lookout | 5.00% | ~2,151 |

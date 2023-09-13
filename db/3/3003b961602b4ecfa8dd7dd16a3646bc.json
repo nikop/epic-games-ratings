@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-19e7a0",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
@@ -308,17 +308,17 @@
       "ID": "ACH_22_QUARRY",
       "SetID": "9dl0ei6",
       "Name": "Much too many stones",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_23_MILL",
       "SetID": "9dl0ei6",
       "Name": "The mill rattles by the rushing stream",
-      "Percentage": 62,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_24_STONECIRCLE",
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:08:26.5406461+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:08:05.5154653+00:00",
   "LastUpdate_AppInfo": "2023-09-10T17:57:06.4146404+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:00:00.8796007+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:08:26.5406674+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:59:23.1441007+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:08:05.5154827+00:00"
 }

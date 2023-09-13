@@ -6,11 +6,11 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~130,479 |
-| Taste | 84.00% | ~124,548 |
-| The Hunt | 66.00% | ~97,860 |
-| Ravenous | 63.00% | ~93,411 |
-| Weeper | 43.00% | ~63,757 |
+| Imprint | 88.00% | ~130,483 |
+| Taste | 84.00% | ~124,552 |
+| The Hunt | 66.00% | ~97,862 |
+| Ravenous | 63.00% | ~93,414 |
+| Weeper | 43.00% | ~63,759 |
 | Devourer | 23.00% | ~34,103 |
 | Harmless | 19.00% | ~28,172 |
 | Silenced Whispers | 19.00% | ~28,172 |
@@ -20,13 +20,13 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 12.00% | ~17,793 |
 | Jawstag | 12.00% | ~17,793 |
 | Feast | 12.00% | ~17,793 |
-| Watcher | 10.00% | ~14,827 |
-| Shapely | 9.00% | ~13,344 |
+| Watcher | 10.00% | ~14,828 |
+| Shapely | 9.00% | ~13,345 |
 | Glare | 9.00% | ~13,307 |
 | Predator | 8.00% | ~11,862 |
 | Assimilation | 7.00% | ~10,379 |
-| Host | 6.00% | ~8,871 |
-| Celebration | 6.00% | ~8,896 |
+| Host | 6.00% | ~8,872 |
+| Celebration | 6.00% | ~8,897 |
 | Hunt Down | 5.00% | ~7,414 |
 | Artisan | 5.00% | ~7,414 |
 | Hush | 5.00% | ~7,414 |
@@ -40,7 +40,7 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 3.00% | ~4,448 |
 | Passage | 3.00% | ~4,448 |
 | Zygote | 2.00% | ~2,957 |
-| Kinship | 2.00% | ~2,965 |
+| Kinship | 2.00% | ~2,966 |
 | Kin | 2.00% | ~2,957 |
 | Listen | 2.00% | ~2,957 |
 | Weakness | 1.00% | ~1,483 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.80% | ~1,186 |
 | Spiral Heart | 0.10% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,272 (Ranked 66)  
+Progressed: 148,276 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 1 (0.00%) (Ranked 273)
 | 2023-09-10 | 147,746 | 1 |
 | 2023-09-11 | 147,973 | 1 |
 | 2023-09-12 | 148,212 | 1 |
-| 2023-09-13 | 148,272 | 1 |
+| 2023-09-13 | 148,276 | 1 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 449)  
 Sum: 220 (Ranked 367)  

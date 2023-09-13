@@ -48,7 +48,7 @@ Number of Ratings: 401  (23.09.2022)
 | No regrets | 0.90% | ~335 |
 | Depth charge | 0.90% | ~335 |
 | A zee-change | 0.80% | ~298 |
-| What lies beneath | 0.70% | ~260 |
+| What lies beneath | 0.80% | ~298 |
 | Stone's Curse | 0.70% | ~260 |
 | Five Years at Zee | 0.50% | ~186 |
 | The Lady's Parlour | 0.20% | ~74 |

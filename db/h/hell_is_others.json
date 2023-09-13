@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 47,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -878,6 +878,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 253,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-09-13T07:58:54.7378931+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 253,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
@@ -940,7 +946,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256170,
+  "EOS_Progressed": 256171,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
@@ -15710,6 +15716,11 @@
       "Time": "2023-09-13T03:02:42.7634464+00:00",
       "NumProgressed": 256170,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-13T08:03:05.8619719+00:00",
+      "NumProgressed": 256171,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -15777,7 +15788,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12808
+      "UsersEstimate": 12809
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -15849,7 +15860,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12808
+      "UsersEstimate": 12809
     },
     {
       "ID": "CreedsInBank2",
@@ -16009,7 +16020,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 56357
+      "UsersEstimate": 56358
     },
     {
       "ID": "KillOthers2",
@@ -16168,16 +16179,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256170,
+      "Progressed": 256171,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-09-12T07:58:41.4879314+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:03:32.2553024+00:00",
+  "LastChanged": "2023-09-13T07:58:54.7378929+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:03:05.8619712+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.9065613+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:59:26.1892752+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:03:32.2554555+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:58:54.7378933+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:03:05.862099+00:00"
 }

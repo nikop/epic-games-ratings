@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -1689,9 +1689,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13884,
+  "EOS_Progressed": 13886,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11394,6 +11394,11 @@
       "Time": "2023-09-13T07:08:16.3625701+00:00",
       "NumProgressed": 13884,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T08:07:07.4844429+00:00",
+      "NumProgressed": 13886,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13539,9 +13544,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -13772,21 +13777,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13884,
+      "Progressed": 13886,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13884,
+      "Progressed": 13886,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-13T01:42:38.525097+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:08:16.3625692+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:07:07.4844422+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:01:32.0247444+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:08:16.3635904+00:00"
+  "LastUpdate_Ratings": "2023-09-13T08:02:11.5529743+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:07:07.4852306+00:00"
 }

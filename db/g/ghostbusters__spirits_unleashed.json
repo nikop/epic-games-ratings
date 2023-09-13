@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -12864,9 +12864,9 @@
       "ID": "Fragile_Panes",
       "SetID": "819popo",
       "Name": "Fragile Panes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Fully_Upgraded",
@@ -13153,8 +13153,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-13T02:57:53.4661736+00:00",
-  "LastChanged_Achievements": "2023-09-13T07:03:37.0895547+00:00",
+  "LastChanged_Achievements": "2023-09-13T08:03:09.8842194+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:57:58.9082762+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:03:37.0896499+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:57:42.8077049+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:03:09.8843081+00:00"
 }

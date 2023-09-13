@@ -3,11 +3,11 @@
   "Name": "Assassin\u0027s Creed Syndicate Standard Edition",
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 548,
-  "Ranking_Popularity": 337,
+  "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-02-20T16:00:00+00:00",
@@ -2127,18 +2127,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 751,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2023-09-13T07:58:02.737071+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 754,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 751,
-  "NumberOfAwardsMax": 101,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 754,
+  "NumberOfAwardsMax": 103,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 100
+      "Count": 103
     },
     {
       "Text": "This game is Educational",
@@ -2218,8 +2224,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-09-13T05:58:30.2365409+00:00",
+  "LastChanged": "2023-09-13T07:58:02.7370708+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.7009553+00:00",
-  "LastUpdate_Ratings": "2023-09-13T06:58:24.840591+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:07:43.354731+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:58:02.7370714+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:06:38.1359362+00:00"
 }

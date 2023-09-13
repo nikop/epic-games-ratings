@@ -4,7 +4,7 @@
   "ProductSlug": "mobilisation-78891a",
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-12T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-22T20:57:35.9508705+00:00",
   "LastUpdate_AppInfo": "2023-09-08T02:12:55.0875194+00:00",
-  "LastUpdate_Ratings": "2023-09-13T07:00:33.8428915+00:00",
-  "LastUpdate_Achievements": "2023-09-13T07:07:16.5332603+00:00"
+  "LastUpdate_Ratings": "2023-09-13T07:59:52.6633172+00:00",
+  "LastUpdate_Achievements": "2023-09-13T08:06:15.254139+00:00"
 }

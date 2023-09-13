@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self-Defence | 88.00% | ~63 |
-| Tinkerer | 65.00% | ~47 |
+| Tinkerer | 67.00% | ~48 |
 | Welcome to the Club | 36.00% | ~26 |
 | A new World ahead | 28.00% | ~20 |
-| Apprentice | 26.00% | ~19 |
+| Apprentice | 28.00% | ~20 |
 | Can't touch this | 21.00% | ~15 |
 | Don't Cry Wolf | 19.00% | ~14 |
 | Freezing Cold | 15.00% | ~11 |

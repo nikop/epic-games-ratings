@@ -7,27 +7,27 @@
 | Iceberg Theory | 81.00% | ~67 |
 | Gear Up | 69.00% | ~57 |
 | A Grand Show | 69.00% | ~57 |
+| GG EZ | 59.00% | ~49 |
 | Freshen Up | 58.00% | ~48 |
-| GG EZ | 58.00% | ~48 |
 | Hydrophobia | 43.00% | ~36 |
 | Ka-Ching! | 35.00% | ~29 |
-| Stop Right There | 30.00% | ~25 |
-| Get to the Point | 29.00% | ~24 |
+| Stop Right There | 31.00% | ~26 |
+| Get to the Point | 30.00% | ~25 |
 | Mr. Want It All | 17.00% | ~14 |
+| The Hidden Secret | 16.00% | ~13 |
 | Toe to Toe | 16.00% | ~13 |
-| The Hidden Secret | 14.00% | ~12 |
 | Phew! | 14.00% | ~12 |
+| The Abyss Conqueror | 11.00% | ~9 |
 | Grand Escape | 11.00% | ~9 |
 | Space Warrior: Prologue | 11.00% | ~9 |
-| The Abyss Conqueror | 10.00% | ~8 |
+| The Fortress Conqueror | 8.00% | ~7 |
 | Keep it Up, rookie! | 8.00% | ~7 |
-| The Fortress Conqueror | 7.00% | ~6 |
 | Antaeus | 7.00% | ~6 |
 | The Deep Frozen Conqueror | 6.00% | ~5 |
+| The Infinite Train Conqueror | 6.00% | ~5 |
 | he Ultra Fortress Conqueror | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
 | The Sunken City Conqueror | 5.00% | ~4 |
-| The Infinite Train Conqueror | 5.00% | ~4 |
 | The Paradox Coordinate Conqueror | 5.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~4 |
 | Rapidfire | 5.00% | ~4 |

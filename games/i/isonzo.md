@@ -8,13 +8,13 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 55.00% | ~3,746 |
 | Tutti Eroi! | 55.00% | ~3,746 |
-| You Shall Not Pass | 53.00% | ~3,609 |
+| You Shall Not Pass | 53.00% | ~3,610 |
 | Avanti Savoia! | 48.00% | ~3,269 |
 | Mamma Mia! | 38.00% | ~2,588 |
 | Conrad von Hotzensocks | 36.00% | ~2,452 |
-| Gabriele D'Annunzio | 34.00% | ~2,315 |
+| Gabriele D'Annunzio | 34.00% | ~2,316 |
 | Silver Lining | 30.00% | ~2,043 |
-| Aurelio Baruzzi | 24.00% | ~1,634 |
+| Aurelio Baruzzi | 24.00% | ~1,635 |
 | Decimation | 22.00% | ~1,498 |
 | Donatello | 22.00% | ~1,498 |
 | Veni Vidi Vici | 22.00% | ~1,498 |
@@ -23,9 +23,9 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 18.00% | ~1,226 |
 | The Lion of the Isonzo | 18.00% | ~1,226 |
 | Luigi Cadorna | 15.00% | ~1,022 |
-| Dirty Dozen | 14.00% | ~953 |
-| Shaken, Not Stirred | 14.00% | ~953 |
-| Uomo Universale | 14.00% | ~953 |
+| Dirty Dozen | 14.00% | ~954 |
+| Shaken, Not Stirred | 14.00% | ~954 |
+| Uomo Universale | 14.00% | ~954 |
 | Die Bosniaken Kommen! | 13.00% | ~885 |
 | Machiavelli | 13.00% | ~885 |
 | Thus With A Kiss | 13.00% | ~885 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | 12th Bottle of the Isonzo | 7.00% | ~477 |
 | Cercatore d'Oro | 6.00% | ~409 |
 | The Enlightment | 6.00% | ~409 |
-| Generalissimo | 5.00% | ~340 |
+| Generalissimo | 5.00% | ~341 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~272 |
 | Seeing Red | 4.00% | ~272 |
 | Ponte of No Return | 3.00% | ~204 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~27 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,810 (Ranked 140)  
+Progressed: 6,811 (Ranked 140)  
 Completed: 8 (0.12%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 8 (0.12%) (Ranked 212)
 | 2023-09-10 | 6,775 | 8 |
 | 2023-09-11 | 6,791 | 8 |
 | 2023-09-12 | 6,807 | 8 |
-| 2023-09-13 | 6,810 | 8 |
+| 2023-09-13 | 6,811 | 8 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 441)  
 Sum: 273 (Ranked 351)  
