@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5391,
+  "EOS_Progressed": 5392,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3415,6 +3415,11 @@
       "Time": "2023-09-13T15:03:05.4338121+00:00",
       "NumProgressed": 5391,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-13T20:02:18.6340733+00:00",
+      "NumProgressed": 5392,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3778,7 +3783,7 @@
       "Name": "Millionaire",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ach_frp_many_modules",
@@ -4033,15 +4038,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5391,
+      "Progressed": 5392,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:03:09.3117459+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:02:18.6340728+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:24.9010849+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:57:43.1556947+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:03:09.3118643+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:57:45.0811472+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:02:18.6341607+00:00"
 }

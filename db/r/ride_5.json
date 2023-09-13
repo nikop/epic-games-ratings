@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -891,9 +891,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "c7hf6a4",
       "Name": "We\u0027re Going to Need a Bigger Garage",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 188
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1107,9 +1107,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 150
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -1123,9 +1123,9 @@
       "ID": "ML_ACHIEVEMENT_39",
       "SetID": "c7hf6a4",
       "Name": "Champagne Spray",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 120
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -1218,8 +1218,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:06:16.9279874+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:06:51.1582524+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:57:38.9850434+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:06:16.9280372+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:57:41.2615432+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:06:51.1582898+00:00"
 }

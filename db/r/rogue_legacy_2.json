@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -7716,9 +7716,9 @@
       "ID": "BossCaveAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Wrath",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 69
     },
     {
       "ID": "BossCaveDefeated",
@@ -7954,8 +7954,8 @@
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-09-13T01:39:38.1300342+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:06:04.403021+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:06:35.7869234+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.659404+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:58:01.2873323+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:06:04.4030973+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:58:09.9646879+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:06:35.786984+00:00"
 }

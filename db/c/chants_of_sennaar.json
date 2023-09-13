@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -912,9 +912,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "PROGRESS_N5",
@@ -935,8 +935,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:06:44.1059556+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:07:21.6346924+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:58:03.2031024+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:06:44.105982+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:58:12.5158844+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:07:21.6347116+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -2509,9 +2509,9 @@
       "ID": "TemporalPulseKills1",
       "SetID": "a9e499d",
       "Name": "Check Your Pulse",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 147
     },
     {
       "ID": "TheaterChests1",
@@ -2582,8 +2582,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:06:25.4163772+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:07:01.2130803+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:58:43.0503183+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:06:25.4164429+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:58:57.9766403+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:07:01.2131269+00:00"
 }

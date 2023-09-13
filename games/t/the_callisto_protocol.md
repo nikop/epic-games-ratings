@@ -41,11 +41,11 @@ Rating: 4.19 (Ranked 872)
 | Mugshot | 0.40% | ~64 |
 | Instigator | 0.40% | ~15 |
 | Subject Alpha | 0.30% | ~12 |
+| The Protocol is About Life | 0.20% | ~32 |
 | Don't Let It Mellow | 0.20% | ~8 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
 | You Belong Here | 0.10% | ~4 |
-| The Protocol is About Life | 0.10% | ~16 |
 | Recidivist | 0.10% | ~4 |
 | Lifer | 0.10% | ~4 |
 | Big Game Hunter | 0.10% | ~4 |

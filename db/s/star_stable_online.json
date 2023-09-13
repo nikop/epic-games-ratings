@@ -3,12 +3,12 @@
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
   "Ranking_Rating": 677,
-  "Ranking_Popularity": 298,
+  "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
     "PcReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -1958,11 +1958,17 @@
       "Rating": 4.42,
       "NumberOfAwards": 1113,
       "NumberOfAwardsMax": 156
+    },
+    {
+      "Time": "2023-09-13T19:57:29.1812096+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1115,
+      "NumberOfAwardsMax": 158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1113,
-  "NumberOfAwardsMax": 156,
+  "NumberOfAwards": 1115,
+  "NumberOfAwardsMax": 158,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1993,7 +1999,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 156
+      "Count": 158
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2049,8 +2055,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-09-13T17:57:23.7570987+00:00",
+  "LastChanged": "2023-09-13T19:57:29.1812095+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:38.2345348+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:57:28.5488394+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:06:06.0385541+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:57:29.18121+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:06:38.23192+00:00"
 }

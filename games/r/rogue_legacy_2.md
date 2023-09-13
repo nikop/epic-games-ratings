@@ -23,12 +23,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.40% | ~92 |
 | For Survival | 0.40% | ~92 |
 | Good Boy! | 0.40% | ~92 |
+| For Wrath | 0.30% | ~69 |
 | For Love | 0.30% | ~69 |
 | For Pride | 0.30% | ~69 |
 | K.O. | 0.30% | ~69 |
 | Jack of all Trades | 0.30% | ~69 |
 | Color Coordination | 0.30% | ~69 |
-| For Wrath | 0.20% | ~46 |
 | For Greed | 0.20% | ~46 |
 | For Penance | 0.20% | ~46 |
 | Good Practice | 0.20% | ~46 |

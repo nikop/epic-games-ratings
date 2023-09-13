@@ -8,10 +8,11 @@
 | Hello World | 61.00% | ~14 |
 | I Think, Therefore I Am | 61.00% | ~14 |
 | The Real Beginning | 61.00% | ~14 |
-| Shook Up | 48.00% | ~11 |
-| The Birds and the Bees | 48.00% | ~11 |
+| Shook Up | 52.00% | ~12 |
+| The Birds and the Bees | 52.00% | ~12 |
+| Task Master | 43.00% | ~10 |
 | Vaccinated | 43.00% | ~10 |
-| Task Master | 39.00% | ~9 |
+| Warning: Fragile | 39.00% | ~9 |
 | A Light in the Dark | 35.00% | ~8 |
 | The Guardian | 35.00% | ~8 |
 | Busybody | 35.00% | ~8 |
@@ -21,11 +22,10 @@
 | Socially Acceptable Insanity | 35.00% | ~8 |
 | The Companion | 35.00% | ~8 |
 | The Counsellor | 35.00% | ~8 |
-| Warning: Fragile | 35.00% | ~8 |
 | An Acquired Taste | 30.00% | ~7 |
 | A Real Headache | 30.00% | ~7 |
+| A Total Riot | 30.00% | ~7 |
 | They Flock to Him | 30.00% | ~7 |
-| A Total Riot | 26.00% | ~6 |
 | Blood Begets Blood | 26.00% | ~6 |
 | Everyone Needs a Break | 26.00% | ~6 |
 | That One Doesn't Count | 26.00% | ~6 |

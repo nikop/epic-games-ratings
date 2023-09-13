@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1174,7 +1174,7 @@
   ],
   "EOS_Progressed": 15933,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -7013,9 +7013,9 @@
       "ID": "FINISH_GAME_HARD",
       "SetID": "4hj6d86",
       "Name": "The Protocol is About Life",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
@@ -7332,8 +7332,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-11T20:00:03.1009674+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:04:49.1418543+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:05:05.6235871+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:20.3899843+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:57:22.8867815+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:04:49.1419464+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:57:22.6659373+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:05:05.6236685+00:00"
 }

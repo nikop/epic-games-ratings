@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -70,7 +70,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10516,
+  "EOS_Progressed": 10518,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
@@ -5245,6 +5245,11 @@
       "Time": "2023-09-13T19:07:05.6172895+00:00",
       "NumProgressed": 10516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T20:07:46.2424882+00:00",
+      "NumProgressed": 10518,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5305,7 +5310,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2734
+      "UsersEstimate": 2735
     },
     {
       "ID": "16",
@@ -5359,9 +5364,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1683
     },
     {
       "ID": "22",
@@ -5431,9 +5436,9 @@
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2419
     },
     {
       "ID": "30",
@@ -5449,7 +5454,7 @@
       "Name": "Debris Spree",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "5",
@@ -5489,14 +5494,14 @@
       "Name": "Impossible Objects",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10516,
+      "Progressed": 10518,
       "Completed": 0
     }
   ],
@@ -5504,8 +5509,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:07:05.6172891+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:07:46.2424876+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:58:04.2206772+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:07:05.617371+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:58:13.6133634+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:07:46.2425297+00:00"
 }

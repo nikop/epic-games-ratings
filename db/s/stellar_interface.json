@@ -2,10 +2,10 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -1309,9 +1309,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1388,8 +1388,8 @@
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:03:56.3655009+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:03:53.8764172+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.8846476+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:57:42.7647168+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:03:56.3657339+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:57:44.5856889+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:03:53.8765773+00:00"
 }

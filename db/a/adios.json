@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_Completed": 119,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -102,9 +102,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73131,
+  "EOS_Progressed": 73134,
   "EOS_Completed": 755,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -16362,6 +16362,11 @@
       "Time": "2023-09-13T19:04:51.4915964+00:00",
       "NumProgressed": 73131,
       "NumCompleted": 755
+    },
+    {
+      "Time": "2023-09-13T20:05:08.7020007+00:00",
+      "NumProgressed": 73134,
+      "NumCompleted": 755
     }
   ],
   "TotalAchievements": 25,
@@ -16445,7 +16450,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 14626
+      "UsersEstimate": 14627
     },
     {
       "ID": "Hearty",
@@ -16467,9 +16472,9 @@
       "ID": "Magnetic Miracles",
       "SetID": "1e8d2nk",
       "Name": "Magnetic Miracles",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3657
+      "UsersEstimate": 2925
     },
     {
       "ID": "Master, Commander",
@@ -16477,7 +16482,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 14626
+      "UsersEstimate": 14627
     },
     {
       "ID": "Meaty",
@@ -16565,14 +16570,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5850
+      "UsersEstimate": 5851
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73131,
+      "Progressed": 73134,
       "Completed": 755
     }
   ],
@@ -16580,8 +16585,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-09T23:58:12.669114+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:04:51.4915958+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:05:08.7020003+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.4518852+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:59:42.6023649+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:04:51.4917887+00:00"
+  "LastUpdate_Ratings": "2023-09-13T20:00:08.6790013+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:05:08.7020937+00:00"
 }

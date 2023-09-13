@@ -1,18 +1,18 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 564)  
+Rating: 4.50 (Ranked 565)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,391 |
-| Jeef Skeejj | 44.00% | ~205,594 |
-| Careful planning | 39.00% | ~182,231 |
-| Second Coming | 33.00% | ~154,195 |
+| The Shutdown | 66.00% | ~308,392 |
+| Jeef Skeejj | 44.00% | ~205,595 |
+| Careful planning | 39.00% | ~182,232 |
+| Second Coming | 33.00% | ~154,196 |
 | Jeef Skagg | 30.00% | ~140,178 |
 | Mother | 25.00% | ~116,815 |
-| In space, no one can hear you scream | 24.00% | ~112,142 |
+| In space, no one can hear you scream | 24.00% | ~112,143 |
 | Chapter I: Echoes | 22.00% | ~102,797 |
 | Excelsior Rule | 22.00% | ~102,797 |
 | Things persisted in not being what they seemed | 20.00% | ~93,452 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | May His passing cleanse the world | 15.00% | ~70,089 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,089 |
 | Pope Zenon | 15.00% | ~70,089 |
-| Tetsuo | 11.00% | ~51,398 |
-| Plan for the worst | 11.00% | ~51,398 |
+| Tetsuo | 11.00% | ~51,399 |
+| Plan for the worst | 11.00% | ~51,399 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,726 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,381 |
 | Through the mirror | 8.00% | ~37,381 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,259 (Ranked 37)  
+Progressed: 467,261 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 18 (0.00%) (Ranked 274)
 | 2023-09-10 | 467,116 | 18 |
 | 2023-09-11 | 467,166 | 18 |
 | 2023-09-12 | 467,219 | 18 |
-| 2023-09-13 | 467,259 | 18 |
+| 2023-09-13 | 467,261 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 361)  

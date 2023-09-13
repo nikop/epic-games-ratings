@@ -9,13 +9,13 @@
 | Clean Race | 38.00% | ~285 |
 | Eat My Dust | 32.00% | ~240 |
 | Rivals to the End | 29.00% | ~217 |
+| We're Going to Need a Bigger Garage | 25.00% | ~188 |
 | I'm Here Too! | 25.00% | ~188 |
-| We're Going to Need a Bigger Garage | 24.00% | ~180 |
-| Bitter Rivalry | 19.00% | ~142 |
+| Bitter Rivalry | 20.00% | ~150 |
 | I Want One Too! | 17.00% | ~128 |
+| Champagne Spray | 16.00% | ~120 |
 | Restored and Ready | 15.00% | ~112 |
 | Quick Pit Stop | 15.00% | ~112 |
-| Champagne Spray | 15.00% | ~112 |
 | Go-Faster Stripes | 14.00% | ~105 |
 | Legendary!!! | 13.00% | ~98 |
 | We've Just Begun | 7.00% | ~53 |

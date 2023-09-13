@@ -6,32 +6,32 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~718,269 |
-| The Blues | 85.00% | ~616,695 |
-| Fast | 66.00% | ~478,846 |
-| Healthbar | 55.00% | ~399,038 |
-| Force Cube | 53.00% | ~384,528 |
+| Out of bed | 99.00% | ~718,271 |
+| The Blues | 85.00% | ~616,697 |
+| Fast | 66.00% | ~478,847 |
+| Healthbar | 55.00% | ~399,039 |
+| Force Cube | 53.00% | ~384,529 |
 | Double Jump | 48.00% | ~348,252 |
-| Regeneration | 47.00% | ~340,996 |
-| Triple Jump | 43.00% | ~311,975 |
-| Climb the hill | 42.00% | ~304,720 |
-| Through the fire pipe | 39.00% | ~282,954 |
-| MacGuffin | 38.00% | ~275,699 |
-| Just once | 37.00% | ~268,444 |
-| Armor | 30.00% | ~217,657 |
+| Regeneration | 47.00% | ~340,997 |
+| Triple Jump | 43.00% | ~311,976 |
+| Climb the hill | 42.00% | ~304,721 |
+| Through the fire pipe | 39.00% | ~282,955 |
+| MacGuffin | 38.00% | ~275,700 |
+| Just once | 37.00% | ~268,445 |
+| Armor | 30.00% | ~217,658 |
 | True holy spirit | 28.00% | ~203,147 |
-| That's how electronics work obviously | 26.00% | ~188,636 |
-| Force Cube Catapult | 25.00% | ~181,381 |
+| That's how electronics work obviously | 26.00% | ~188,637 |
+| Force Cube Catapult | 25.00% | ~181,382 |
 | Holy Sword | 23.00% | ~166,871 |
 | Telefrag | 23.00% | ~166,871 |
 | Freed from prison | 21.00% | ~152,360 |
 | Stomp | 21.00% | ~152,360 |
-| Double Health | 18.00% | ~130,594 |
+| Double Health | 18.00% | ~130,595 |
 | Buckle | 17.00% | ~123,339 |
 | Green Keycard | 17.00% | ~123,339 |
 | All Shells | 15.00% | ~108,829 |
 | Rattle Hag | 15.00% | ~108,829 |
-| Beam | 14.00% | ~101,573 |
+| Beam | 14.00% | ~101,574 |
 | Health Drink | 13.00% | ~94,318 |
 | Helped a star | 13.00% | ~94,318 |
 | 9 | 13.00% | ~94,318 |
@@ -44,25 +44,25 @@ Number of Ratings: 25,175  (23.09.2022)
 | Got the gun back | 11.00% | ~79,808 |
 | Infiltrated | 11.00% | ~79,808 |
 | Robbed | 11.00% | ~79,808 |
-| Fire Flies | 10.00% | ~72,552 |
-| Cave Flies | 10.00% | ~72,552 |
-| Gold Scam | 10.00% | ~72,552 |
-| Gold Scam Uncovered | 10.00% | ~72,552 |
-| Panic Lights | 10.00% | ~72,552 |
-| Translocator | 10.00% | ~72,552 |
-| Yellow Shot Button | 10.00% | ~72,552 |
+| Fire Flies | 10.00% | ~72,553 |
+| Cave Flies | 10.00% | ~72,553 |
+| Gold Scam | 10.00% | ~72,553 |
+| Gold Scam Uncovered | 10.00% | ~72,553 |
+| Panic Lights | 10.00% | ~72,553 |
+| Translocator | 10.00% | ~72,553 |
+| Yellow Shot Button | 10.00% | ~72,553 |
 | Moon Door | 9.00% | ~65,297 |
 | Momentum | 9.00% | ~65,297 |
 | Through the tiny pipe | 9.00% | ~65,297 |
 | Win! | 9.00% | ~65,297 |
 | The real real teleported man | 7.00% | ~50,787 |
-| Well deserved | 6.00% | ~43,531 |
+| Well deserved | 6.00% | ~43,532 |
 | Happiness | 3.00% | ~21,766 |
 | Super Sword | 3.00% | ~21,766 |
-| All Chests | 2.00% | ~14,510 |
-| Poor ancestors | 2.00% | ~14,510 |
-| Shelf filled | 2.00% | ~14,510 |
-| Invisible Wall | 2.00% | ~14,510 |
+| All Chests | 2.00% | ~14,511 |
+| Poor ancestors | 2.00% | ~14,511 |
+| Shelf filled | 2.00% | ~14,511 |
+| Invisible Wall | 2.00% | ~14,511 |
 | Groupies | 1.00% | ~7,255 |
 | Jesus Christ Suprastar | 1.00% | ~7,255 |
 | Redstone Pickaxe | 1.00% | ~7,255 |
@@ -105,8 +105,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~726 |
 | DLC: Top of the world | 0.10% | ~726 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,524 (Ranked 19)  
-Completed: 733 (0.10%) (Ranked 220)  
+Progressed: 725,526 (Ranked 19)  
+Completed: 734 (0.10%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,10 +251,10 @@ Completed: 733 (0.10%) (Ranked 220)
 | 2023-09-10 | 725,238 | 733 |
 | 2023-09-11 | 725,356 | 733 |
 | 2023-09-12 | 725,455 | 733 |
-| 2023-09-13 | 725,524 | 733 |
+| 2023-09-13 | 725,526 | 734 |
 ## Awards
 Max (Challenging Puzzles): 7,684  (Ranked 46)  
-Sum: 10,012 (Ranked 86)  
+Sum: 10,014 (Ranked 86)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -268,7 +268,7 @@ Diff (max vs sum): -40
 | This game is Extremely Fun | 260 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Highly Recommended | 237 |
-| This game has a Creative Community | 190 |
+| This game has a Creative Community | 192 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -423,3 +423,4 @@ Diff (max vs sum): -40
 | 2023-08-31 | 4.61 | - | 7,683 | 10,009 |
 | 2023-09-07 | 4.61 | - | 7,683 | 10,010 |
 | 2023-09-10 | 4.61 | - | 7,684 | 10,012 |
+| 2023-09-13 | 4.61 | - | 7,684 | 10,014 |

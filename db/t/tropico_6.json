@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1104,9 +1104,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5075,
+  "EOS_Progressed": 5076,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9474,6 +9474,11 @@
       "Time": "2023-09-13T19:03:30.5040649+00:00",
       "NumProgressed": 5075,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-13T20:03:23.7626716+00:00",
+      "NumProgressed": 5076,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9493,7 +9498,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -9549,7 +9554,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -9573,7 +9578,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -9581,7 +9586,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9645,7 +9650,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3857
+      "UsersEstimate": 3858
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9741,7 +9746,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2385
+      "UsersEstimate": 2386
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -9804,15 +9809,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5075,
+      "Progressed": 5076,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-12T02:13:35.4444169+00:00",
-  "LastChanged_Achievements": "2023-09-13T19:03:30.5040644+00:00",
+  "LastChanged_Achievements": "2023-09-13T20:03:23.7626707+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:59:30.9946465+00:00",
-  "LastUpdate_Achievements": "2023-09-13T19:03:30.5041663+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:59:55.1603082+00:00",
+  "LastUpdate_Achievements": "2023-09-13T20:03:23.7627347+00:00"
 }

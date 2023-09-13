@@ -10,7 +10,7 @@
 | The Preacher's fate | 39.00% | ~59 |
 | A new dawn | 35.00% | ~53 |
 | Scholar | 32.00% | ~49 |
-| The darkness | 31.00% | ~47 |
+| The darkness | 32.00% | ~49 |
 | A good beginning | 30.00% | ~46 |
 | True G4M3R | 30.00% | ~46 |
 | One last step | 26.00% | ~40 |
