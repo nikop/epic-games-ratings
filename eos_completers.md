@@ -93,7 +93,7 @@
 | 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.21% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.13% |
-| 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.09% |
+| 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.08% |
 | 95 | [FORECLOSED](games/f/foreclosed.md) | 2.06% |
 | 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
@@ -109,7 +109,7 @@
 | 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
 | 108 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.54% |
 | 109 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 110 | [Eternights](games/e/eternights.md) | 1.47% |
+| 110 | [Eternights](games/e/eternights.md) | 1.45% |
 | 111 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.44% |
 | 112 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 113 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
