@@ -52,9 +52,9 @@
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
-| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.80% |
+| 53 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.79% |
 | 54 | [Bugsnax](games/b/bugsnax.md) | 4.76% |
-| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.67% |
+| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.64% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
@@ -77,9 +77,9 @@
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
-| 78 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.74% |
-| 79 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
-| 79 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
+| 78 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.73% |
+| 80 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2.70% |
 | 81 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.67% |
 | 82 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2.50% |
 | 82 | [Lamentum](games/l/lamentum.md) | 2.50% |
@@ -99,7 +99,7 @@
 | 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 98 | [Night Book](games/n/night_book.md) | 1.86% |
 | 99 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
+| 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 101 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
 | 103 | [Five Dates](games/f/five_dates.md) | 1.67% |
@@ -116,8 +116,8 @@
 | 114 | [Chorus](games/c/chorus.md) | 1.28% |
 | 115 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 116 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 117 | [Eternights](games/e/eternights.md) | 1.11% |
-| 118 | [Trifox](games/t/trifox.md) | 1.10% |
+| 117 | [Eternights](games/e/eternights.md) | 1.10% |
+| 117 | [Trifox](games/t/trifox.md) | 1.10% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
 | 121 | [A Musical Story](games/a/a_musical_story.md) | 1.02% |
@@ -128,7 +128,7 @@
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
-| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
+| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
 | 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.85% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -572,6 +572,7 @@
 | 274 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.00% |
 | 274 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 0.00% |
 | 274 | [Troublemaker](games/t/troublemaker.md) | 0.00% |
+| 274 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 0.00% |
 | 274 | [Undead Horde](games/u/undead_horde.md) | 0.00% |
 | 274 | [Unrailed!](games/u/unrailed!.md) | 0.00% |
 | 274 | [Unspottable](games/u/unspottable.md) | 0.00% |
@@ -591,4 +592,4 @@
 | 274 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 274 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 274 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,228 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,229 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

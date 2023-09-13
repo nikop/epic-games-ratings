@@ -120,6 +120,7 @@
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [Redout 2](../games/r/redout_2.md) | 52 | 1,000 |
 | [Severed Steel](../games/s/severed_steel.md) | 52 | 1,000 |
+| [Ugly](../games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 52 | 1,000 |
 | [Unrailed!](../games/u/unrailed!.md) | 52 | 1,000 |
 | [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Miasma Chronicles](../games/m/miasma_chronicles.md) | 51 | 1,000 |
@@ -302,6 +303,7 @@
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |
 | [High On Life](../games/h/high_on_life.md) | 32 | 1,000 |
 | [Out of Bounds](../games/o/out_of_bounds.md) | 32 | 1,000 |
+| [Sweet Dreams Alex](../games/4/4d10cc70884a46a094854d1ad69c7aaf.md) | 32 | 1,000 |
 | [Terminal Velocity™: Boosted Edition](../games/t/terminal_velocity™__boosted_edition.md) | 32 | 1,000 |
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 32 | 1,000 |
 | [The Uncertain: Last Quiet Day](../games/t/the_uncertain__last_quiet_day.md) | 32 | 1,000 |
