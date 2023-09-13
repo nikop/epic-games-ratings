@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 2.00% | ~2,722 |
-| Basic in Bulk | 2.00% | ~2,722 |
-| Tinkle of Coins | 2.00% | ~2,722 |
-| Titan's First Steps | 2.00% | ~2,722 |
+| Sponsored by Argon | 2.00% | ~2,723 |
+| Basic in Bulk | 2.00% | ~2,723 |
+| Tinkle of Coins | 2.00% | ~2,723 |
+| Titan's First Steps | 2.00% | ~2,723 |
 | One Easy Payment | 1.00% | ~1,361 |
 | Some Assembly Required | 1.00% | ~1,361 |
 | Disintermediation | 1.00% | ~1,361 |
@@ -53,45 +53,45 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.50% | ~681 |
 | Special Ingredient | 0.50% | ~681 |
 | Complete Monopoly | 0.50% | ~681 |
-| A Notch Above the Rest | 0.40% | ~544 |
-| Cream of the Crop | 0.40% | ~544 |
-| Top of the World | 0.40% | ~544 |
-| Proud Paladin | 0.40% | ~544 |
-| Above the Norm | 0.40% | ~544 |
-| A Ronin Reborn | 0.40% | ~544 |
-| The King's Caprice | 0.40% | ~544 |
-| Thirst for Knowledge | 0.40% | ~544 |
-| Booty by the Boatload | 0.40% | ~544 |
-| Archivist | 0.40% | ~544 |
-| Locally Sourced | 0.40% | ~544 |
-| Flying off the Shelves | 0.40% | ~544 |
-| Industrial Evolution | 0.40% | ~544 |
-| This Power Level...! | 0.40% | ~544 |
-| Omae wa Mou Shindeiru | 0.40% | ~544 |
-| Master of Transmutation | 0.40% | ~544 |
-| Hidden Potential | 0.40% | ~544 |
-| Supercharged | 0.40% | ~544 |
-| Expansion in Session | 0.40% | ~544 |
-| Ritualist | 0.40% | ~544 |
-| Cranked up to 11 | 0.40% | ~544 |
-| Fit for a King | 0.40% | ~544 |
-| Mammonite | 0.40% | ~544 |
-| Wealth Beyond Measure | 0.40% | ~544 |
-| Fat Cat Tag Team | 0.40% | ~544 |
-| Item of Renown | 0.40% | ~544 |
-| Master Merchant | 0.40% | ~544 |
-| Miracle Alchemist | 0.40% | ~544 |
-| Laden with Loot | 0.40% | ~544 |
-| Bountiful Harvest | 0.40% | ~544 |
-| Precision Engineering | 0.40% | ~544 |
-| Scourge of the Seas | 0.40% | ~544 |
-| Attrition Mission | 0.40% | ~544 |
-| Glittering Collection | 0.40% | ~544 |
-| Treasure Trove | 0.40% | ~544 |
-| Moment of Respite | 0.40% | ~544 |
-| Black Friday Special | 0.40% | ~544 |
-| King's Shadow | 0.40% | ~544 |
-| Exotic Commodities | 0.40% | ~544 |
+| A Notch Above the Rest | 0.40% | ~545 |
+| Cream of the Crop | 0.40% | ~545 |
+| Top of the World | 0.40% | ~545 |
+| Proud Paladin | 0.40% | ~545 |
+| Above the Norm | 0.40% | ~545 |
+| A Ronin Reborn | 0.40% | ~545 |
+| The King's Caprice | 0.40% | ~545 |
+| Thirst for Knowledge | 0.40% | ~545 |
+| Booty by the Boatload | 0.40% | ~545 |
+| Archivist | 0.40% | ~545 |
+| Locally Sourced | 0.40% | ~545 |
+| Flying off the Shelves | 0.40% | ~545 |
+| Industrial Evolution | 0.40% | ~545 |
+| This Power Level...! | 0.40% | ~545 |
+| Omae wa Mou Shindeiru | 0.40% | ~545 |
+| Master of Transmutation | 0.40% | ~545 |
+| Hidden Potential | 0.40% | ~545 |
+| Supercharged | 0.40% | ~545 |
+| Expansion in Session | 0.40% | ~545 |
+| Ritualist | 0.40% | ~545 |
+| Cranked up to 11 | 0.40% | ~545 |
+| Fit for a King | 0.40% | ~545 |
+| Mammonite | 0.40% | ~545 |
+| Wealth Beyond Measure | 0.40% | ~545 |
+| Fat Cat Tag Team | 0.40% | ~545 |
+| Item of Renown | 0.40% | ~545 |
+| Master Merchant | 0.40% | ~545 |
+| Miracle Alchemist | 0.40% | ~545 |
+| Laden with Loot | 0.40% | ~545 |
+| Bountiful Harvest | 0.40% | ~545 |
+| Precision Engineering | 0.40% | ~545 |
+| Scourge of the Seas | 0.40% | ~545 |
+| Attrition Mission | 0.40% | ~545 |
+| Glittering Collection | 0.40% | ~545 |
+| Treasure Trove | 0.40% | ~545 |
+| Moment of Respite | 0.40% | ~545 |
+| Black Friday Special | 0.40% | ~545 |
+| King's Shadow | 0.40% | ~545 |
+| Exotic Commodities | 0.40% | ~545 |
 | Constellated | 0.30% | ~408 |
 | Fillin' the Bin | 0.30% | ~408 |
 | By Your Powers Combined... | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,122 (Ranked 68)  
+Progressed: 136,127 (Ranked 68)  
 Completed: 150 (0.11%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 150 (0.11%) (Ranked 217)
 | 2023-09-10 | 136,005 | 148 |
 | 2023-09-11 | 136,043 | 149 |
 | 2023-09-12 | 136,088 | 149 |
-| 2023-09-13 | 136,122 | 150 |
+| 2023-09-13 | 136,127 | 150 |
 ## Awards
 Max (Great for Beginners): 4,741  (Ranked 71)  
 Sum: 27,223 (Ranked 48)  

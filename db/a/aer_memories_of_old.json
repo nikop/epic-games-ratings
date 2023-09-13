@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19983,
+  "EOS_Progressed": 19987,
   "EOS_Completed": 397,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -16048,6 +16048,11 @@
       "Time": "2023-09-13T18:06:19.3005633+00:00",
       "NumProgressed": 19983,
       "NumCompleted": 397
+    },
+    {
+      "Time": "2023-09-13T19:05:42.388636+00:00",
+      "NumProgressed": 19987,
+      "NumCompleted": 397
     }
   ],
   "TotalAchievements": 20,
@@ -16059,7 +16064,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -16083,7 +16088,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -16099,7 +16104,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1998
+      "UsersEstimate": 1999
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -16123,7 +16128,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2997
+      "UsersEstimate": 2998
     },
     {
       "ID": "FOUND_ERIN",
@@ -16179,7 +16184,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15387
+      "UsersEstimate": 15390
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16187,7 +16192,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5595
+      "UsersEstimate": 5596
     },
     {
       "ID": "NORTH_FINISHED",
@@ -16211,22 +16216,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3597
+      "UsersEstimate": 3598
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19983,
+      "Progressed": 19987,
       "Completed": 397
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-13T18:06:19.3005629+00:00",
+  "LastChanged_Achievements": "2023-09-13T19:05:42.3886355+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-13T17:58:44.080811+00:00",
-  "LastUpdate_Achievements": "2023-09-13T18:06:19.3006459+00:00"
+  "LastUpdate_Ratings": "2023-09-13T18:58:36.7913998+00:00",
+  "LastUpdate_Achievements": "2023-09-13T19:05:42.3887969+00:00"
 }

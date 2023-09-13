@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -804,6 +804,11 @@
       "Time": "2023-09-13T18:06:59.5822563+00:00",
       "NumProgressed": 749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T19:06:16.9279879+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -814,9 +819,9 @@
       "ID": "ML_ACHIEVEMENT_01",
       "SetID": "c7hf6a4",
       "Name": "First Love",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 300
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -830,9 +835,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "c7hf6a4",
       "Name": "Go-Faster Stripes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 105
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -846,9 +851,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 112
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -872,7 +877,7 @@
       "Name": "I Want One Too!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -880,7 +885,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -904,7 +909,7 @@
       "Name": "Legendary!!!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -992,7 +997,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -1072,7 +1077,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1128,7 +1133,7 @@
       "Name": "Rounding Off",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -1136,7 +1141,7 @@
       "Name": "My Work Here Is Done",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -1207,14 +1212,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-13T18:06:59.5822559+00:00",
+  "LastChanged_Achievements": "2023-09-13T19:06:16.9279874+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-13T17:57:37.729564+00:00",
-  "LastUpdate_Achievements": "2023-09-13T18:06:59.5822925+00:00"
+  "LastUpdate_Ratings": "2023-09-13T18:57:38.9850434+00:00",
+  "LastUpdate_Achievements": "2023-09-13T19:06:16.9280372+00:00"
 }

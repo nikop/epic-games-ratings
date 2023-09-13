@@ -2,13 +2,13 @@
   "ID": "c28866a7b8614ac9affad1b64fb86b85",
   "Name": "King\u0027s Bounty: Dark Side",
   "ProductSlug": "kings-bounty-dark-side-c3066f",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-06-02T15:00:00+00:00",
     "PcReleaseDate": "2014-08-14T00:00:00+00:00",
@@ -141,6 +141,6 @@
   "FirstSeen": "2022-07-22T20:22:44.5387804+00:00",
   "LastChanged": "2023-03-31T05:57:35.5434473+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:05.0983299+00:00",
-  "LastUpdate_Ratings": "2023-09-13T17:59:14.9151604+00:00",
-  "LastUpdate_Achievements": "2023-09-13T18:07:53.0995049+00:00"
+  "LastUpdate_Ratings": "2023-09-13T18:59:01.0625322+00:00",
+  "LastUpdate_Achievements": "2023-09-13T19:07:04.6346154+00:00"
 }

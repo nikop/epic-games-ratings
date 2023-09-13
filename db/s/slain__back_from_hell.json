@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -217,9 +217,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36498,
+  "EOS_Progressed": 36502,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16322,6 +16322,11 @@
       "Time": "2023-09-13T18:03:26.041418+00:00",
       "NumProgressed": 36498,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-13T19:03:15.3964978+00:00",
+      "NumProgressed": 36502,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -16429,7 +16434,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -16437,7 +16442,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -16509,7 +16514,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -16517,7 +16522,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -16525,7 +16530,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -16533,7 +16538,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -16541,7 +16546,7 @@
       "Name": "Too Metal For Magic",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_29_FINISHED_GAME_NO_DEATHS",
@@ -16549,7 +16554,7 @@
       "Name": "Heart Of Steel",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_30_FINISHED_HARDCORE_MODE",
@@ -16557,14 +16562,14 @@
       "Name": "Death or Glory",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36498,
+      "Progressed": 36502,
       "Completed": 23
     }
   ],
@@ -16572,8 +16577,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-08-12T21:03:39.1122054+00:00",
-  "LastChanged_Achievements": "2023-09-13T18:03:26.0414176+00:00",
+  "LastChanged_Achievements": "2023-09-13T19:03:15.3964973+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.5463786+00:00",
-  "LastUpdate_Ratings": "2023-09-13T17:59:04.5407463+00:00",
-  "LastUpdate_Achievements": "2023-09-13T18:03:26.0415091+00:00"
+  "LastUpdate_Ratings": "2023-09-13T18:58:52.4580235+00:00",
+  "LastUpdate_Achievements": "2023-09-13T19:03:15.3966858+00:00"
 }

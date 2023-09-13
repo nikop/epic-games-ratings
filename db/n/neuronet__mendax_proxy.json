@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
     "PcReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -161,9 +161,9 @@
       "ID": "ALPHA01",
       "SetID": "2d85n75",
       "Name": "Hello World",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AN_ACQUIRED_TASTE",
@@ -209,9 +209,9 @@
       "ID": "BETA03",
       "SetID": "2d85n75",
       "Name": "I Think, Therefore I Am",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "BLOOD_BEGETS_BLOOD",
@@ -265,9 +265,9 @@
       "ID": "FIRST_DAY",
       "SetID": "2d85n75",
       "Name": "First Day of the Rest of Your Life",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FORTRAN_COMPLETE",
@@ -321,9 +321,9 @@
       "ID": "MIND_CORE01",
       "SetID": "2d85n75",
       "Name": "The Real Beginning",
-      "Percentage": 57,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "OBLIGATORY_FRAUDULENT_BAKING",
@@ -546,8 +546,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-09-13T18:07:02.8567202+00:00",
+  "LastChanged_Achievements": "2023-09-13T19:06:19.7377642+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:58.6658979+00:00",
-  "LastUpdate_Ratings": "2023-09-13T17:58:37.1946482+00:00",
-  "LastUpdate_Achievements": "2023-09-13T18:07:02.8567517+00:00"
+  "LastUpdate_Ratings": "2023-09-13T18:58:31.4650867+00:00",
+  "LastUpdate_Achievements": "2023-09-13T19:06:19.7378434+00:00"
 }

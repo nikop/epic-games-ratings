@@ -42,6 +42,7 @@ Rating: 4.50 (Ranked 564)
 | Stunner | 0.10% | ~26 |
 | Stylish | 0.10% | ~26 |
 | Summoner | 0.10% | ~26 |
+| Surprise! | 0.10% | ~26 |
 | Swift Rift Removers | 0.10% | ~26 |
 | Teamwork | 0.10% | ~26 |
 | Terrifying | 0.10% | ~26 |
@@ -54,10 +55,9 @@ Rating: 4.50 (Ranked 564)
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |
-| Surprise! | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,779 (Ranked 104)  
+Progressed: 25,781 (Ranked 104)  
 Completed: 55 (0.21%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 55 (0.21%) (Ranked 197)
 | 2023-09-10 | 25,740 | 55 |
 | 2023-09-11 | 25,755 | 55 |
 | 2023-09-12 | 25,768 | 55 |
-| 2023-09-13 | 25,779 | 55 |
+| 2023-09-13 | 25,781 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
 Sum: 2,308 (Ranked 188)  

@@ -21,10 +21,10 @@ Rating: 4.60 (Ranked 394)
 | Fast Learner | 19.00% | ~164 |
 | Immaculate Aim | 19.00% | ~164 |
 | The Wicked Twins | 18.00% | ~156 |
+| Golem Chaser | 18.00% | ~156 |
 | Like Clockwork | 17.00% | ~147 |
 | The Betrayer | 17.00% | ~147 |
 | The Loose Cannon | 17.00% | ~147 |
-| Golem Chaser | 17.00% | ~147 |
 | Right On Time | 16.00% | ~138 |
 | The Man Who Shattered Time | 16.00% | ~138 |
 | Check Your Pulse | 16.00% | ~138 |

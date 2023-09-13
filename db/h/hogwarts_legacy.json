@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7572,9 +7572,9 @@
       "Count": 638
     }
   ],
-  "EOS_Progressed": 296547,
+  "EOS_Progressed": 296549,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1369,
+  "EOS_NewPlayers": 1345,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23417,6 +23417,11 @@
       "Time": "2023-09-13T18:03:34.0479742+00:00",
       "NumProgressed": 296547,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-13T19:03:22.3451552+00:00",
+      "NumProgressed": 296549,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23498,9 +23503,9 @@
       "ID": "PFA_18",
       "SetID": "1hf4dep",
       "Name": "A Sallow Grave",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 20758
+      "UsersEstimate": 23724
     },
     {
       "ID": "PFA_19",
@@ -23787,7 +23792,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296547,
+      "Progressed": 296549,
       "Completed": 470
     }
   ],
@@ -23795,8 +23800,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-13T18:00:54.8127723+00:00",
-  "LastChanged_Achievements": "2023-09-13T18:03:34.0479738+00:00",
+  "LastChanged_Achievements": "2023-09-13T19:03:22.3451547+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:00:54.8127729+00:00",
-  "LastUpdate_Achievements": "2023-09-13T18:03:34.0480767+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:00:26.4261404+00:00",
+  "LastUpdate_Achievements": "2023-09-13T19:03:22.3453192+00:00"
 }

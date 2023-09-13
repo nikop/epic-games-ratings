@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 232,
-  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
-  "EOS_Completed": 14,
-  "EOS_NewPlayers": 27,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.2,
+  "EOS_Progressed": 636,
+  "EOS_Completed": 15,
+  "EOS_NewPlayers": 28,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -1674,6 +1674,11 @@
       "Time": "2023-09-13T09:04:05.014286+00:00",
       "NumProgressed": 635,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-09-13T19:04:09.9310223+00:00",
+      "NumProgressed": 636,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1694,7 +1699,7 @@
       "Name": "A New Journey",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "_03_FinishAct1",
@@ -1702,7 +1707,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -1750,15 +1755,15 @@
       "Name": "Powder Monkey",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "_10_Completion_30",
       "SetID": "8a1io5d",
       "Name": "Buccaneer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 140
     },
     {
       "ID": "_11_Completion_40",
@@ -1780,9 +1785,9 @@
       "ID": "_13_Completion_60",
       "SetID": "8a1io5d",
       "Name": "Corsair",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "_14_Completion_70",
@@ -1893,16 +1898,16 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 635,
-      "Completed": 14
+      "Progressed": 636,
+      "Completed": 15
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-13T18:04:29.7429314+00:00",
+  "LastChanged_Achievements": "2023-09-13T19:04:09.9310218+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-13T17:57:22.48168+00:00",
-  "LastUpdate_Achievements": "2023-09-13T18:04:29.7429536+00:00"
+  "LastUpdate_Ratings": "2023-09-13T18:57:27.5275106+00:00",
+  "LastUpdate_Achievements": "2023-09-13T19:04:09.9310698+00:00"
 }

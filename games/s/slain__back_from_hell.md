@@ -20,22 +20,22 @@ Rating: 4.29 (Ranked 806)
 | Red In Tooth And Claw | 0.80% | ~292 |
 | The Sky Is Falling | 0.80% | ~292 |
 | Schadenfreude | 0.80% | ~292 |
-| Death Becomes Her | 0.70% | ~255 |
-| Hail the Great Horned Metal God! | 0.70% | ~255 |
-| That'll Come In Handy... | 0.70% | ~255 |
+| Death Becomes Her | 0.70% | ~256 |
+| Hail the Great Horned Metal God! | 0.70% | ~256 |
+| That'll Come In Handy... | 0.70% | ~256 |
 | Start As You Mean To Go On | 0.60% | ~219 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~182 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~183 |
 | Four Legged Friend | 0.40% | ~146 |
 | Ice To See You | 0.40% | ~146 |
 | Smack My Imp Up | 0.40% | ~146 |
-| Vroll With It | 0.30% | ~109 |
-| Swift of Foot, Keen of Blade | 0.30% | ~109 |
+| Vroll With It | 0.30% | ~110 |
+| Swift of Foot, Keen of Blade | 0.30% | ~110 |
 | Flame Retardant | 0.20% | ~73 |
-| Too Metal For Magic | 0.10% | ~36 |
-| Heart Of Steel | 0.10% | ~36 |
-| Death or Glory | 0.10% | ~36 |
+| Too Metal For Magic | 0.10% | ~37 |
+| Heart Of Steel | 0.10% | ~37 |
+| Death or Glory | 0.10% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,498 (Ranked 100)  
+Progressed: 36,502 (Ranked 100)  
 Completed: 23 (0.06%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 23 (0.06%) (Ranked 234)
 | 2023-09-10 | 36,353 | 23 |
 | 2023-09-11 | 36,412 | 23 |
 | 2023-09-12 | 36,455 | 23 |
-| 2023-09-13 | 36,498 | 23 |
+| 2023-09-13 | 36,502 | 23 |
 ## Awards
 Max (Great Boss Battles): 126  (Ranked 314)  
 Sum: 126 (Ranked 407)  

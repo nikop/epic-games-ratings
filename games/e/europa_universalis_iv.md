@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,075 |
-| That's a Grand Army | 3.00% | ~12,057 |
-| That is mine! | 3.00% | ~12,057 |
-| Victorious! | 3.00% | ~12,057 |
-| Brothers in Arms | 2.00% | ~8,038 |
-| For the Glory | 2.00% | ~8,038 |
-| That's a Grand Navy | 2.00% | ~8,038 |
-| Seriously?! | 2.00% | ~8,038 |
-| Cold War | 1.00% | ~4,019 |
-| Defender of the Faith | 1.00% | ~4,019 |
-| It's all about the money | 1.00% | ~4,019 |
-| The Princess is in this Castle | 1.00% | ~4,019 |
-| True Catholic | 1.00% | ~4,019 |
-| Respected | 0.90% | ~3,617 |
-| Truly Divine Ruler | 0.90% | ~3,617 |
-| It's all about luck | 0.80% | ~3,215 |
-| Blockader | 0.70% | ~2,813 |
-| Double the Love | 0.70% | ~2,813 |
-| Royal Authority | 0.70% | ~2,813 |
-| Total Control | 0.70% | ~2,813 |
-| My armies are invincible! | 0.60% | ~2,411 |
-| Agressive Expander | 0.50% | ~2,009 |
-| City of Cities | 0.50% | ~2,009 |
-| Combined Arms | 0.50% | ~2,009 |
+| Until death do us apart | 4.00% | ~16,078 |
+| That's a Grand Army | 3.00% | ~12,059 |
+| That is mine! | 3.00% | ~12,059 |
+| Victorious! | 3.00% | ~12,059 |
+| Brothers in Arms | 2.00% | ~8,039 |
+| For the Glory | 2.00% | ~8,039 |
+| That's a Grand Navy | 2.00% | ~8,039 |
+| Seriously?! | 2.00% | ~8,039 |
+| Cold War | 1.00% | ~4,020 |
+| Defender of the Faith | 1.00% | ~4,020 |
+| It's all about the money | 1.00% | ~4,020 |
+| The Princess is in this Castle | 1.00% | ~4,020 |
+| True Catholic | 1.00% | ~4,020 |
+| Respected | 0.90% | ~3,618 |
+| Truly Divine Ruler | 0.90% | ~3,618 |
+| It's all about luck | 0.80% | ~3,216 |
+| Blockader | 0.70% | ~2,814 |
+| Double the Love | 0.70% | ~2,814 |
+| Royal Authority | 0.70% | ~2,814 |
+| Total Control | 0.70% | ~2,814 |
+| My armies are invincible! | 0.60% | ~2,412 |
+| Agressive Expander | 0.50% | ~2,010 |
+| City of Cities | 0.50% | ~2,010 |
+| Combined Arms | 0.50% | ~2,010 |
 | Azur semé de lis or | 0.40% | ~1,608 |
 | Factionalism | 0.40% | ~1,608 |
 | Gentle Persuasion | 0.40% | ~1,608 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401,887 (Ranked 40)  
+Progressed: 401,956 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -507,7 +507,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 399,390 | 0 |
 | 2023-09-11 | 400,309 | 0 |
 | 2023-09-12 | 401,220 | 0 |
-| 2023-09-13 | 401,887 | 0 |
+| 2023-09-13 | 401,956 | 0 |
 ## Awards
 Max (Educational): 6,064  (Ranked 56)  
 Sum: 49,875 (Ranked 26)  

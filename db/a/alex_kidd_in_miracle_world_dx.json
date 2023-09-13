@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.36,
   "EosHistory": [
@@ -366,6 +366,11 @@
       "Time": "2023-09-12T20:03:11.292455+00:00",
       "NumProgressed": 294,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-13T19:03:32.3018174+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -433,7 +438,7 @@
       "Name": "Assailants",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -473,7 +478,7 @@
       "Name": "Wild Ox",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -489,7 +494,7 @@
       "Name": "Overwhelmed Beast",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "TELEPATHY_BALL_OBTAINED",
@@ -504,7 +509,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 4
     }
   ],
@@ -512,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-09-13T18:03:45.6281214+00:00",
+  "LastChanged_Achievements": "2023-09-13T19:03:32.301817+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:10.9300024+00:00",
-  "LastUpdate_Ratings": "2023-09-13T18:02:12.7030446+00:00",
-  "LastUpdate_Achievements": "2023-09-13T18:03:45.6281312+00:00"
+  "LastUpdate_Ratings": "2023-09-13T19:00:56.7013527+00:00",
+  "LastUpdate_Achievements": "2023-09-13T19:03:32.3018316+00:00"
 }
