@@ -3,12 +3,12 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.99% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.83% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
-| 6 | [Afterglitch](games/a/afterglitch.md) | 28.57% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.27% |
-| 7 | [Volley Pals](games/v/volley_pals.md) | 27.27% |
-| 9 | [Overloop](games/o/overloop.md) | 25.00% |
+| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.27% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 27.27% |
+| 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
+| 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.38% |
 | 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.41% |
@@ -204,11 +204,11 @@
 | 202 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 202 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 202 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.16% |
+| 202 | [Remnant 2](games/r/remnant_2.md) | 0.16% |
 | 202 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
-| 206 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
-| 206 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
-| 206 | [Remnant 2](games/r/remnant_2.md) | 0.15% |
-| 206 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
+| 207 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
+| 207 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
+| 207 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 210 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 211 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 212 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
@@ -591,4 +591,4 @@
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,222 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,223 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
