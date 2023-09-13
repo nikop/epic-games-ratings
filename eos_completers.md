@@ -3,10 +3,10 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.34% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.61% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
-| 6 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.27% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.27% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.97% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -88,8 +88,8 @@
 | 86 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
 | 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
-| 89 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
-| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.20% |
+| 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.36% |
+| 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.19% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.08% |
@@ -208,9 +208,9 @@
 | 203 | [Remnant 2](games/r/remnant_2.md) | 0.16% |
 | 203 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.16% |
 | 208 | [BLACKTAIL](games/b/blacktail.md) | 0.15% |
-| 208 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.15% |
 | 208 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
-| 211 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
+| 210 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
+| 210 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.14% |
 | 212 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
 | 213 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 213 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
@@ -592,4 +592,4 @@
 | 274 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 274 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 274 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,229 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,230 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

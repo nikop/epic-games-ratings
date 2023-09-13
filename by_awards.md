@@ -75,7 +75,7 @@
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,575 | 4.70 | 202 |
 | 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,536 | 4.70 | 202 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,513 | 4.76 | 117 |
-| 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,452 | 4.56 | 468 |
+| 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,456 | 4.56 | 468 |
 | 77 | [SMITE](games/s/smite.md) | 4,282 | 4.44 | 648 |
 | 78 | [God of War](games/g/god_of_war.md) | 4,258 | 4.88 | 19 |
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,123 | 4.51 | 548 |
@@ -99,7 +99,7 @@
 | 97 | [Gotham Knights](games/g/gotham_knights.md) | 2,657 | 4.18 | 882 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,616 | 4.61 | 368 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,558 | 4.27 | 820 |
-| 100 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,546 | 4.49 | 581 |
+| 100 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,555 | 4.49 | 581 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,514 | 4.10 | 913 |
 | 102 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,468 | 4.79 | 88 |
 | 103 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,403 | 4.78 | 101 |
@@ -129,7 +129,7 @@
 | 127 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,435 | 4.53 | 520 |
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,430 | 4.54 | 502 |
 | 129 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,424 | 4.86 | 31 |
-| 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,346 | 4.54 | 502 |
+| 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,356 | 4.54 | 502 |
 | 131 | [World of Warships](games/w/world_of_warships.md) | 1,320 | 4.41 | 688 |
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,319 | 4.70 | 202 |
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 281 |
@@ -145,7 +145,7 @@
 | 143 | [Ooblets](games/o/ooblets.md) | 1,025 | 4.87 | 24 |
 | 144 | [Torchlight II](games/t/torchlight_ii.md) | 1,024 | 4.59 | 416 |
 | 145 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 851 |
-| 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 977 | 4.69 | 216 |
+| 146 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 978 | 4.69 | 216 |
 | 147 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 964 | 4.31 | 791 |
 | 148 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 948 | 4.76 | 117 |
 | 149 | [The Sims™ 4](games/t/the_sims™_4.md) | 943 | 4.62 | 353 |
@@ -156,7 +156,7 @@
 | 154 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 847 | 4.56 | 468 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 836 | 4.45 | 639 |
 | 156 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 824 | 4.69 | 216 |
-| 157 | [Frostpunk](games/f/frostpunk.md) | 809 | 4.74 | 145 |
+| 157 | [Frostpunk](games/f/frostpunk.md) | 810 | 4.74 | 145 |
 | 158 | [The Long Dark](games/t/the_long_dark.md) | 802 | 4.74 | 145 |
 | 159 | [Auto Chess](games/a/auto_chess.md) | 791 | 4.51 | 548 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 789 | 4.50 | 564 |
@@ -208,8 +208,8 @@
 | 206 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 455 | 4.40 | 712 |
 | 207 | [Loop Hero](games/l/loop_hero.md) | 451 | 4.67 | 260 |
 | 208 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 438 | 4.60 | 394 |
-| 209 | [RimWorld](games/r/rimworld.md) | 433 | 4.89 | 13 |
-| 210 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 431 | 3.93 | 958 |
+| 209 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 435 | 3.93 | 958 |
+| 210 | [RimWorld](games/r/rimworld.md) | 433 | 4.89 | 13 |
 | 211 | [Against the Storm](games/a/against_the_storm.md) | 428 | 4.81 | 78 |
 | 212 | [Into the Breach](games/i/into_the_breach.md) | 422 | 4.84 | 51 |
 | 213 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 417 | 4.73 | 162 |
@@ -341,7 +341,7 @@
 | 339 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 100 | 4.76 | 117 |
 | 340 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 99 | 4.49 | 581 |
 | 341 | [Cave Story+](games/c/cave_story+.md) | 98 | 4.71 | 188 |
-| 341 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 98 | 4.35 | 756 |
+| 341 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 98 | 4.35 | 755 |
 | 341 | [The Captain](games/t/the_captain.md) | 98 | 4.44 | 648 |
 | 341 | [Tropico 6](games/t/tropico_6.md) | 98 | 4.66 | 281 |
 | 345 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 97 | 4.86 | 31 |
@@ -409,7 +409,7 @@
 | 405 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 50 | 4.56 | 468 |
 | 408 | [Black Book](games/b/black_book.md) | 49 | 4.69 | 216 |
 | 408 | [Quake](games/q/quake.md) | 49 | 4.76 | 117 |
-| 408 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 49 | 4.35 | 756 |
+| 408 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 49 | 4.35 | 755 |
 | 411 | [Desperados III](games/d/desperados_iii.md) | 47 | 4.84 | 51 |
 | 411 | [Expeditions: Rome](games/e/expeditions__rome.md) | 47 | 4.66 | 281 |
 | 411 | [The Alto Collection](games/t/the_alto_collection.md) | 47 | 4.70 | 202 |
