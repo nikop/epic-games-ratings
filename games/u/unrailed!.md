@@ -6,15 +6,15 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~109,367 |
+| Advanced Stroller | 17.00% | ~109,368 |
 | Incurious | 16.00% | ~102,934 |
-| Climate Change | 15.00% | ~96,500 |
+| Climate Change | 15.00% | ~96,501 |
 | Stroller | 14.00% | ~90,067 |
 | Toy Train | 13.00% | ~83,634 |
-| Advanced Hiker | 12.00% | ~77,200 |
+| Advanced Hiker | 12.00% | ~77,201 |
 | Hiker | 11.00% | ~70,767 |
 | Mojave Courier | 5.00% | ~32,167 |
-| Saved by Nausicaä | 4.00% | ~25,733 |
+| Saved by Nausicaä | 4.00% | ~25,734 |
 | Voyager | 3.00% | ~19,300 |
 | Advanced Voyager | 3.00% | ~19,300 |
 | Expert Stroller | 3.00% | ~19,300 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~643 |
 | 20 Miles under the Sea | 0.10% | ~643 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643,335 (Ranked 26)  
+Progressed: 643,339 (Ranked 26)  
 Completed: 10 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 10 (0.00%) (Ranked 273)
 | 2023-09-10 | 642,910 | 10 |
 | 2023-09-11 | 643,119 | 10 |
 | 2023-09-12 | 643,299 | 10 |
-| 2023-09-13 | 643,335 | 10 |
+| 2023-09-13 | 643,339 | 10 |
 ## Awards
 Max (Great for Beginners): 194  (Ranked 275)  
 Sum: 1,567 (Ranked 219)  

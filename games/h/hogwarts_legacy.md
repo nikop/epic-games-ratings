@@ -6,8 +6,8 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,512 |
-| First Class Student | 13.00% | ~38,546 |
-| Troll with the Punches | 12.00% | ~35,581 |
+| First Class Student | 13.00% | ~38,547 |
+| Troll with the Punches | 12.00% | ~35,582 |
 | A Keen Sense of Spell | 11.00% | ~32,616 |
 | That's a Keeper | 11.00% | ~32,616 |
 | Grappling with a Graphorn | 10.00% | ~29,651 |
@@ -31,12 +31,12 @@ Rating: 4.77 (Ranked 109)
 | The Root of the Problem | 5.00% | ~14,826 |
 | Third Time's a Charm | 5.00% | ~14,826 |
 | The Ends Petrify the Means | 5.00% | ~14,826 |
-| The Toast of the Town | 4.00% | ~11,860 |
-| Going Through the Potions | 4.00% | ~11,860 |
-| Room with a View | 4.00% | ~11,860 |
-| The Intrepid Explorer | 4.00% | ~11,860 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,860 |
-| The Wise Owl | 4.00% | ~11,860 |
+| The Toast of the Town | 4.00% | ~11,861 |
+| Going Through the Potions | 4.00% | ~11,861 |
+| Room with a View | 4.00% | ~11,861 |
+| The Intrepid Explorer | 4.00% | ~11,861 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,861 |
+| The Wise Owl | 4.00% | ~11,861 |
 | Floo Around the World | 3.00% | ~8,895 |
 | The Good Samaritan | 2.00% | ~5,930 |
 | Put Down Roots | 2.00% | ~5,930 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,779 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,511 (Ranked 43)  
+Progressed: 296,513 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 470 (0.16%) (Ranked 202)
 | 2023-09-10 | 296,327 | 470 |
 | 2023-09-11 | 296,418 | 470 |
 | 2023-09-12 | 296,501 | 470 |
-| 2023-09-13 | 296,511 | 470 |
+| 2023-09-13 | 296,513 | 470 |
 ## Awards
 Max (Character Customization): 22,582  (Ranked 17)  
 Sum: 43,093 (Ranked 30)  

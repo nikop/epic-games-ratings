@@ -9,10 +9,10 @@
 | The great escape | 40.00% | ~60 |
 | The Preacher's fate | 39.00% | ~58 |
 | A new dawn | 35.00% | ~52 |
+| True G4M3R | 30.00% | ~45 |
 | Scholar | 30.00% | ~45 |
 | The darkness | 30.00% | ~45 |
 | A good beginning | 29.00% | ~44 |
-| True G4M3R | 29.00% | ~44 |
 | One last step | 26.00% | ~39 |
 | Cable guy | 25.00% | ~38 |
 | Champollion | 25.00% | ~38 |

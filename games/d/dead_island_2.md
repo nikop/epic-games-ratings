@@ -30,8 +30,8 @@ Rating: 4.54 (Ranked 503)
 | Perks of the Job | 0.90% | ~6,110 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,110 |
 | Ooh, Shiny! | 0.90% | ~6,110 |
+| Making Your Mark | 0.80% | ~5,431 |
 | Humanity Distilled | 0.80% | ~5,431 |
-| Making Your Mark | 0.70% | ~4,752 |
 | Down with the Sickness | 0.70% | ~4,752 |
 | Max Headroom | 0.60% | ~4,073 |
 | Jumbo Keyring | 0.50% | ~3,394 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,887 (Ranked 22)  
+Progressed: 678,894 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,10 +197,10 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
-| 2023-09-13 | 678,887 | 2,143 |
+| 2023-09-13 | 678,894 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,016  (Ranked 57)  
-Sum: 8,905 (Ranked 94)  
+Sum: 8,907 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -211,7 +211,7 @@ Diff (max vs sum): -37
 | This game is Relaxing | 373 |
 | This game has Amazing Storytelling | 349 |
 | This game is Extremely Fun | 332 |
-| This game has Amazing Characters | 318 |
+| This game has Amazing Characters | 320 |
 | This game is Highly Recommended | 317 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -361,3 +361,4 @@ Diff (max vs sum): -37
 | 2023-09-10 | 4.54 | 6,008 | 8,872 |
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
 | 2023-09-12 | 4.54 | 6,016 | 8,905 |
+| 2023-09-13 | 4.54 | 6,016 | 8,907 |

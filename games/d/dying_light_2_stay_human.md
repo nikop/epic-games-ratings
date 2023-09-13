@@ -6,40 +6,40 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 38.00% | ~236,804 |
-| Into the Unknown | 35.00% | ~218,109 |
-| First Shot | 35.00% | ~218,109 |
-| Herzlich Wilkommen! | 33.00% | ~205,645 |
-| Good Night & Good Luck | 33.00% | ~205,645 |
-| Sancho Panza | 31.00% | ~193,182 |
-| Oh, So This Is How It Works! | 29.00% | ~180,719 |
-| Flag Burning | 27.00% | ~168,255 |
-| Can't Touch This! | 25.00% | ~155,792 |
-| Under Pressure | 24.00% | ~149,560 |
-| On the Trail of the Enemy | 24.00% | ~149,560 |
-| Light in the Darkness | 24.00% | ~149,560 |
-| It Wasn't That Hard, Was It? | 24.00% | ~149,560 |
-| Get Outta My House! | 23.00% | ~143,329 |
-| Night Hunter | 22.00% | ~137,097 |
-| Being All Social | 22.00% | ~137,097 |
-| After the Fall | 19.00% | ~118,402 |
-| We Will Be Heard! | 18.00% | ~112,170 |
-| Tunnel Entrance | 18.00% | ~112,170 |
+| You Never Forget Your First... | 38.00% | ~236,806 |
+| Into the Unknown | 35.00% | ~218,111 |
+| First Shot | 35.00% | ~218,111 |
+| Herzlich Wilkommen! | 33.00% | ~205,647 |
+| Good Night & Good Luck | 33.00% | ~205,647 |
+| Sancho Panza | 31.00% | ~193,184 |
+| Oh, So This Is How It Works! | 29.00% | ~180,720 |
+| Flag Burning | 27.00% | ~168,257 |
+| Can't Touch This! | 25.00% | ~155,793 |
+| Under Pressure | 24.00% | ~149,562 |
+| On the Trail of the Enemy | 24.00% | ~149,562 |
+| Light in the Darkness | 24.00% | ~149,562 |
+| It Wasn't That Hard, Was It? | 24.00% | ~149,562 |
+| Get Outta My House! | 23.00% | ~143,330 |
+| Night Hunter | 22.00% | ~137,098 |
+| Being All Social | 22.00% | ~137,098 |
+| After the Fall | 19.00% | ~118,403 |
+| We Will Be Heard! | 18.00% | ~112,171 |
+| Tunnel Entrance | 18.00% | ~112,171 |
 | Known Associate | 17.00% | ~105,939 |
-| Brush with Death | 16.00% | ~99,707 |
-| Debris and Ashes | 15.00% | ~93,475 |
-| Going Down | 15.00% | ~93,475 |
-| Family First | 15.00% | ~93,475 |
-| Your World, Your Rules | 15.00% | ~93,475 |
+| Brush with Death | 16.00% | ~99,708 |
+| Debris and Ashes | 15.00% | ~93,476 |
+| Going Down | 15.00% | ~93,476 |
+| Family First | 15.00% | ~93,476 |
+| Your World, Your Rules | 15.00% | ~93,476 |
 | Death From Afar | 14.00% | ~87,244 |
 | Terminal Headache | 14.00% | ~87,244 |
-| Slowpoke! | 12.00% | ~74,780 |
+| Slowpoke! | 12.00% | ~74,781 |
 | Tickets, Please! | 7.00% | ~43,622 |
 | Parkour Master | 6.00% | ~37,390 |
 | Combat Master | 6.00% | ~37,390 |
-| Municipal Services | 5.00% | ~31,158 |
-| Ban Hammer | 5.00% | ~31,158 |
-| Modder | 5.00% | ~31,158 |
+| Municipal Services | 5.00% | ~31,159 |
+| Ban Hammer | 5.00% | ~31,159 |
+| Modder | 5.00% | ~31,159 |
 | Tube Map | 4.00% | ~24,927 |
 | Don Quixote | 4.00% | ~24,927 |
 | Can't You Read the Signs? | 4.00% | ~24,927 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~269 |
 | Connoisseur | 0.10% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 623,168 (Ranked 27)  
+Progressed: 623,173 (Ranked 27)  
 Completed: 62 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,20 +218,20 @@ Completed: 62 (0.01%) (Ranked 259)
 | 2023-09-10 | 622,241 | 62 |
 | 2023-09-11 | 622,688 | 62 |
 | 2023-09-12 | 623,111 | 62 |
-| 2023-09-13 | 623,168 | 62 |
+| 2023-09-13 | 623,173 | 62 |
 ## Awards
 Max (Character Customization): 9,085  (Ranked 39)  
-Sum: 22,005 (Ranked 53)  
+Sum: 22,014 (Ranked 53)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 9,085 |
 | This game has Great Boss Battles | 5,426 |
 | This game is Great for Beginners | 963 |
-| This game is Highly Recommended | 890 |
+| This game is Highly Recommended | 893 |
 | This game has Diverse Characters | 878 |
 | This game has Amazing Characters | 851 |
-| This game has Amazing Storytelling | 828 |
+| This game has Amazing Storytelling | 834 |
 | This game is Extremely Fun | 823 |
 | This game has Quickly Understood Controls | 799 |
 | This game is Relaxing | 778 |
@@ -484,4 +484,4 @@ Diff (max vs sum): -14
 | 2023-09-10 | 4.58 | - | 9,045 | 21,906 |
 | 2023-09-11 | 4.58 | - | 9,061 | 21,952 |
 | 2023-09-12 | 4.58 | - | 9,068 | 21,979 |
-| 2023-09-13 | 4.58 | - | 9,085 | 22,005 |
+| 2023-09-13 | 4.58 | - | 9,085 | 22,014 |

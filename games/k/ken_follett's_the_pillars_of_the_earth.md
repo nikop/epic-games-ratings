@@ -10,12 +10,12 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 35.00% | ~5,310 |
 | Friends of sorts | 33.00% | ~5,006 |
 | Yet another secret | 33.00% | ~5,006 |
-| Let there be darkness | 32.00% | ~4,854 |
+| Let there be darkness | 32.00% | ~4,855 |
 | End of Book One | 30.00% | ~4,551 |
 | Wannabe knight | 24.00% | ~3,641 |
 | Garden of Eden | 24.00% | ~3,641 |
 | Full house | 24.00% | ~3,641 |
-| Help an old friend | 22.00% | ~3,337 |
+| Help an old friend | 22.00% | ~3,338 |
 | Two of us | 20.00% | ~3,034 |
 | Negotiation skills | 18.00% | ~2,731 |
 | Workers' union | 18.00% | ~2,731 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,124 |
 | Jack was here! | 14.00% | ~2,124 |
 | Exterminator | 13.00% | ~1,972 |
-| Whodunnit | 12.00% | ~1,820 |
+| Whodunnit | 12.00% | ~1,821 |
 | Friar Tuck | 11.00% | ~1,669 |
 | First profit | 11.00% | ~1,669 |
 | Good midwife | 10.00% | ~1,517 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 7.00% | ~1,062 |
 | Silentium est aureum | 7.00% | ~1,062 |
 | Rebel without a cause | 6.00% | ~910 |
-| Staring contest champion | 5.00% | ~758 |
-| Lone wolf | 5.00% | ~758 |
-| Vox Populi | 5.00% | ~758 |
+| Staring contest champion | 5.00% | ~759 |
+| Lone wolf | 5.00% | ~759 |
+| Vox Populi | 5.00% | ~759 |
 | Revenge | 4.00% | ~607 |
 | Self-defense | 4.00% | ~607 |
 | Countess Aliena | 4.00% | ~607 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~455 |
 | Boy of mystery | 2.00% | ~303 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,170 (Ranked 121)  
+Progressed: 15,171 (Ranked 121)  
 Completed: 110 (0.73%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 110 (0.73%) (Ranked 135)
 | 2023-09-10 | 15,135 | 110 |
 | 2023-09-11 | 15,148 | 110 |
 | 2023-09-12 | 15,165 | 110 |
-| 2023-09-13 | 15,170 | 110 |
+| 2023-09-13 | 15,171 | 110 |
 ## Awards
 Max (Easy Puzzles): 149  (Ranked 302)  
 Sum: 189 (Ranked 379)  

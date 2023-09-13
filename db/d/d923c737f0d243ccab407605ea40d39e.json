@@ -2,9 +2,9 @@
   "ID": "d923c737f0d243ccab407605ea40d39e",
   "Name": "911 Operator",
   "ProductSlug": "911-operator-585edd",
-  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -194,8 +194,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged_Achievements": "2023-09-13T05:03:12.1669286+00:00",
+  "LastChanged_Achievements": "2023-09-13T06:04:10.067188+00:00",
   "LastUpdate_AppInfo": "2023-09-07T14:57:38.8749037+00:00",
-  "LastUpdate_Ratings": "2023-09-13T04:58:43.5442886+00:00",
-  "LastUpdate_Achievements": "2023-09-13T05:03:12.1669414+00:00"
+  "LastUpdate_Ratings": "2023-09-13T05:59:27.7859483+00:00",
+  "LastUpdate_Achievements": "2023-09-13T06:04:10.0672001+00:00"
 }

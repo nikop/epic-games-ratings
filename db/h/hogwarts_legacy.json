@@ -7560,9 +7560,9 @@
       "Count": 638
     }
   ],
-  "EOS_Progressed": 296511,
+  "EOS_Progressed": 296513,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1538,
+  "EOS_NewPlayers": 1529,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23350,6 +23350,11 @@
       "Time": "2023-09-13T05:02:07.2344752+00:00",
       "NumProgressed": 296511,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-13T06:03:15.1924343+00:00",
+      "NumProgressed": 296513,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23449,7 +23454,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "PFA_20",
@@ -23513,7 +23518,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "PFA_28",
@@ -23561,7 +23566,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "PFA_33",
@@ -23609,7 +23614,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "PFA_39",
@@ -23625,7 +23630,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "PFA_40",
@@ -23681,7 +23686,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11860
+      "UsersEstimate": 11861
     },
     {
       "ID": "PFA_6",
@@ -23689,7 +23694,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38546
+      "UsersEstimate": 38547
     },
     {
       "ID": "PFA_7",
@@ -23697,7 +23702,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35581
+      "UsersEstimate": 35582
     },
     {
       "ID": "PFA_8",
@@ -23720,7 +23725,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296511,
+      "Progressed": 296513,
       "Completed": 470
     }
   ],
@@ -23728,8 +23733,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-13T00:00:42.2116521+00:00",
-  "LastChanged_Achievements": "2023-09-13T05:02:07.2344747+00:00",
+  "LastChanged_Achievements": "2023-09-13T06:03:15.1924338+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-13T05:00:01.2627859+00:00",
-  "LastUpdate_Achievements": "2023-09-13T05:02:07.2345912+00:00"
+  "LastUpdate_Ratings": "2023-09-13T06:01:09.437458+00:00",
+  "LastUpdate_Achievements": "2023-09-13T06:03:15.1925571+00:00"
 }

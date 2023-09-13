@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1718,7 +1718,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 58032,
+  "EOS_Progressed": 58033,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 0,
@@ -17643,6 +17643,11 @@
       "Time": "2023-09-13T04:04:49.2297083+00:00",
       "NumProgressed": 58032,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-13T06:05:19.6293277+00:00",
+      "NumProgressed": 58033,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -17886,7 +17891,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15088
+      "UsersEstimate": 15089
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -17910,7 +17915,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 18570
+      "UsersEstimate": 18571
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -17942,7 +17947,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 36560
+      "UsersEstimate": 36561
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -18022,7 +18027,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 45265
+      "UsersEstimate": 45266
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -18125,15 +18130,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 58032,
+      "Progressed": 58033,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-05T18:00:17.1389559+00:00",
-  "LastChanged_Achievements": "2023-09-13T05:04:16.3085489+00:00",
+  "LastChanged_Achievements": "2023-09-13T06:05:19.6293272+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6621322+00:00",
-  "LastUpdate_Ratings": "2023-09-13T04:57:18.6386779+00:00",
-  "LastUpdate_Achievements": "2023-09-13T05:04:16.3086654+00:00"
+  "LastUpdate_Ratings": "2023-09-13T05:57:38.312584+00:00",
+  "LastUpdate_Achievements": "2023-09-13T06:05:19.6294442+00:00"
 }

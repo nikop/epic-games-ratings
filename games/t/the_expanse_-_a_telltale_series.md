@@ -12,9 +12,9 @@ Rating: 4.58 (Ranked 430)
 | Captain Drummer | 22.00% | ~2,309 |
 | Celebrations are in Order | 22.00% | ~2,309 |
 | Doctor Approved | 18.00% | ~1,889 |
-| The Pit and the Pirates | 16.00% | ~1,679 |
-| Drone Dodger | 15.00% | ~1,574 |
-| Thorston Mayer | 13.00% | ~1,364 |
+| The Pit and the Pirates | 16.00% | ~1,680 |
+| Drone Dodger | 15.00% | ~1,575 |
+| Thorston Mayer | 13.00% | ~1,365 |
 | Bottoms up! | 10.00% | ~1,050 |
 | Data Logger | 5.00% | ~525 |
 | Data Master | 5.00% | ~525 |
@@ -36,7 +36,7 @@ Rating: 4.58 (Ranked 430)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,496 (Ranked 127)  
+Progressed: 10,497 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 10,393 | 0 |
 | 2023-09-11 | 10,430 | 0 |
 | 2023-09-12 | 10,482 | 0 |
-| 2023-09-13 | 10,496 | 0 |
+| 2023-09-13 | 10,497 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

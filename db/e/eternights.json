@@ -151,9 +151,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -231,9 +231,9 @@
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -271,9 +271,9 @@
       "ID": "ACHIEVEMENT_24_TentacleMan",
       "SetID": "9bke6f1",
       "Name": "TentacleMAN",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -287,17 +287,17 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 58,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -358,8 +358,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-13T05:02:19.8764209+00:00",
+  "LastChanged_Achievements": "2023-09-13T06:03:31.8474864+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-13T04:57:38.5685859+00:00",
-  "LastUpdate_Achievements": "2023-09-13T05:02:19.8764385+00:00"
+  "LastUpdate_Ratings": "2023-09-13T05:58:06.6781636+00:00",
+  "LastUpdate_Achievements": "2023-09-13T06:03:31.8475017+00:00"
 }
