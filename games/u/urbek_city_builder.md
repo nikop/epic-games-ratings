@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | I like books | 0.60% | ~2 |
 | The spiritual world... | 0.60% | ~2 |
+| I like my life | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
 | I like parks | 0.60% | ~2 |
-| I like my life | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |
 | The woodcutter | 0.30% | ~1 |

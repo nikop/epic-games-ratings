@@ -6,27 +6,27 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~5,222 |
-| Worker Specialization | 78.00% | ~5,156 |
-| First Contact | 73.00% | ~4,825 |
+| Colonize a Planet | 79.00% | ~5,223 |
+| Worker Specialization | 78.00% | ~5,157 |
+| First Contact | 73.00% | ~4,826 |
 | Win a Battle | 67.00% | ~4,429 |
-| Anomaly Researcher | 63.00% | ~4,164 |
-| Unleash My Power | 62.00% | ~4,098 |
-| Own 30 Planets | 34.00% | ~2,247 |
-| Xenocide | 32.00% | ~2,115 |
-| Design a Civilization | 32.00% | ~2,115 |
+| Anomaly Researcher | 63.00% | ~4,165 |
+| Unleash My Power | 62.00% | ~4,099 |
+| Own 30 Planets | 34.00% | ~2,248 |
+| Xenocide | 32.00% | ~2,116 |
+| Design a Civilization | 32.00% | ~2,116 |
 | Commodity Trader | 31.00% | ~2,049 |
 | Design a Ship | 28.00% | ~1,851 |
-| Commodity Seller | 25.00% | ~1,652 |
-| Prestige Victory! | 14.00% | ~925 |
+| Commodity Seller | 25.00% | ~1,653 |
+| Prestige Victory! | 14.00% | ~926 |
 | Galactic War | 11.00% | ~727 |
 | Trading Partner | 9.00% | ~595 |
 | Fleet Victory | 8.00% | ~529 |
 | Win as Terrans | 7.00% | ~463 |
 | Gain an Ally | 6.00% | ~397 |
 | Win with a Custom Faction | 6.00% | ~397 |
-| War with the Unknown | 5.00% | ~330 |
-| Win Quickly | 5.00% | ~330 |
+| War with the Unknown | 5.00% | ~331 |
+| Win Quickly | 5.00% | ~331 |
 | Conquest Victory! | 4.00% | ~264 |
 | Pirate Cleansing | 3.00% | ~198 |
 | Win an Immense Game | 3.00% | ~198 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,610 (Ranked 141)  
+Progressed: 6,611 (Ranked 141)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 6,601 | 0 |
 | 2023-09-11 | 6,606 | 0 |
 | 2023-09-12 | 6,610 | 0 |
+| 2023-09-13 | 6,611 | 0 |
 ## Awards
 Max (Diverse Characters): 93  (Ranked 350)  
 Sum: 678 (Ranked 282)  

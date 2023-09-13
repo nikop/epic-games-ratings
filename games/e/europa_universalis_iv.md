@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,049 |
+| Until death do us apart | 4.00% | ~16,050 |
 | That's a Grand Army | 3.00% | ~12,037 |
 | That is mine! | 3.00% | ~12,037 |
 | Victorious! | 3.00% | ~12,037 |
-| Brothers in Arms | 2.00% | ~8,024 |
-| For the Glory | 2.00% | ~8,024 |
-| That's a Grand Navy | 2.00% | ~8,024 |
-| Seriously?! | 2.00% | ~8,024 |
+| Brothers in Arms | 2.00% | ~8,025 |
+| For the Glory | 2.00% | ~8,025 |
+| That's a Grand Navy | 2.00% | ~8,025 |
+| Seriously?! | 2.00% | ~8,025 |
 | Cold War | 1.00% | ~4,012 |
 | Defender of the Faith | 1.00% | ~4,012 |
 | It's all about the money | 1.00% | ~4,012 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401,220 (Ranked 40)  
+Progressed: 401,239 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -507,9 +507,10 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 399,390 | 0 |
 | 2023-09-11 | 400,309 | 0 |
 | 2023-09-12 | 401,220 | 0 |
+| 2023-09-13 | 401,239 | 0 |
 ## Awards
 Max (Educational): 6,051  (Ranked 56)  
-Sum: 49,786 (Ranked 26)  
+Sum: 49,799 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -519,7 +520,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 5,728 |
 | This game has Diverse Characters | 5,717 |
 | This game is Relaxing | 5,560 |
-| This game has Competitive Players | 5,402 |
+| This game has Competitive Players | 5,415 |
 | This game has Amazing Storytelling | 5,081 |
 | This game has Amazing Characters | 4,720 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -765,3 +766,4 @@ Diff (max vs sum): 30
 | 2023-09-10 | 4.69 | - | 6,030 | 49,601 |
 | 2023-09-11 | 4.69 | - | 6,051 | 49,712 |
 | 2023-09-12 | 4.69 | - | 6,051 | 49,786 |
+| 2023-09-13 | 4.69 | - | 6,051 | 49,799 |

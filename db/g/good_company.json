@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5388,
+  "EOS_Progressed": 5389,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3400,6 +3400,11 @@
       "Time": "2023-09-12T17:08:26.4415053+00:00",
       "NumProgressed": 5388,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-13T00:09:09.0347404+00:00",
+      "NumProgressed": 5389,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -3467,7 +3472,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "ach_campaign_progress10",
@@ -3515,7 +3520,7 @@
       "Name": "Level: Topple The Top",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_campaign_progress5",
@@ -3523,7 +3528,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2640
+      "UsersEstimate": 2641
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4018,15 +4023,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5388,
+      "Progressed": 5389,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-09-12T23:08:32.115884+00:00",
+  "LastChanged_Achievements": "2023-09-13T00:09:09.0347398+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:24.9010849+00:00",
-  "LastUpdate_Ratings": "2023-09-12T22:57:31.2748857+00:00",
-  "LastUpdate_Achievements": "2023-09-12T23:08:32.1159906+00:00"
+  "LastUpdate_Ratings": "2023-09-12T23:57:26.544736+00:00",
+  "LastUpdate_Achievements": "2023-09-13T00:09:09.0348533+00:00"
 }

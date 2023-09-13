@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -2602,9 +2602,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30221,
+  "EOS_Progressed": 30222,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18432,6 +18432,11 @@
       "Time": "2023-09-12T23:05:14.2506086+00:00",
       "NumProgressed": 30221,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-09-13T00:05:08.9937658+00:00",
+      "NumProgressed": 30222,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 60,
@@ -18443,7 +18448,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 17528
+      "UsersEstimate": 17529
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -18459,7 +18464,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17226
+      "UsersEstimate": 17227
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -18507,7 +18512,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7555
+      "UsersEstimate": 7556
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -18555,7 +18560,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -18659,7 +18664,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12088
+      "UsersEstimate": 12089
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -18723,7 +18728,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -18795,7 +18800,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -18827,7 +18832,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13599
+      "UsersEstimate": 13600
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -18843,7 +18848,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 20852
+      "UsersEstimate": 20853
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -18883,7 +18888,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -18891,7 +18896,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9066
+      "UsersEstimate": 9067
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -18915,22 +18920,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 7857
+      "UsersEstimate": 7858
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30221,
+      "Progressed": 30222,
       "Completed": 249
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-11T19:57:20.416042+00:00",
-  "LastChanged_Achievements": "2023-09-12T23:05:14.2506076+00:00",
+  "LastChanged_Achievements": "2023-09-13T00:05:08.9937653+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.8890263+00:00",
-  "LastUpdate_Ratings": "2023-09-12T22:58:13.5158586+00:00",
-  "LastUpdate_Achievements": "2023-09-12T23:05:14.2507633+00:00"
+  "LastUpdate_Ratings": "2023-09-12T23:58:08.3652584+00:00",
+  "LastUpdate_Achievements": "2023-09-13T00:05:08.9940374+00:00"
 }

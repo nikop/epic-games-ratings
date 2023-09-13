@@ -988,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2750,
+  "EOS_Progressed": 2755,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1285,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2603,6 +2603,11 @@
       "Time": "2023-09-12T23:05:36.9307649+00:00",
       "NumProgressed": 2750,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T00:05:32.5761855+00:00",
+      "NumProgressed": 2755,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2663,7 +2668,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 962
+      "UsersEstimate": 964
     },
     {
       "ID": "a_19",
@@ -2735,7 +2740,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "a_28",
@@ -2751,7 +2756,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "a_30",
@@ -2847,7 +2852,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "a_9",
@@ -2862,7 +2867,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2750,
+      "Progressed": 2755,
       "Completed": 5
     }
   ],
@@ -2870,8 +2875,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-12T23:05:36.930764+00:00",
+  "LastChanged_Achievements": "2023-09-13T00:05:32.5761849+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-12T23:01:13.4813823+00:00",
-  "LastUpdate_Achievements": "2023-09-12T23:05:36.9307995+00:00"
+  "LastUpdate_Ratings": "2023-09-13T00:01:07.8116905+00:00",
+  "LastUpdate_Achievements": "2023-09-13T00:05:32.5762209+00:00"
 }

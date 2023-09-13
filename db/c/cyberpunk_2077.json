@@ -11813,7 +11813,7 @@
       "Count": 5899
     }
   ],
-  "EOS_Progressed": 875908,
+  "EOS_Progressed": 875910,
   "EOS_Completed": 2083,
   "EOS_NewPlayers": 1133,
   "EOS_NewCompleters": 21,
@@ -28048,6 +28048,11 @@
       "Time": "2023-09-12T23:07:07.1138021+00:00",
       "NumProgressed": 875908,
       "NumCompleted": 2083
+    },
+    {
+      "Time": "2023-09-13T00:07:02.7565834+00:00",
+      "NumProgressed": 875910,
+      "NumCompleted": 2083
     }
   ],
   "TotalAchievements": 44,
@@ -28075,7 +28080,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 148904
+      "UsersEstimate": 148905
     },
     {
       "ID": "Cyberjunkie",
@@ -28083,7 +28088,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 157663
+      "UsersEstimate": 157664
     },
     {
       "ID": "Denied",
@@ -28091,7 +28096,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 341604
+      "UsersEstimate": 341605
     },
     {
       "ID": "FollowingTheRiver",
@@ -28131,7 +28136,7 @@
       "Name": "Gun Fu",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 140145
+      "UsersEstimate": 140146
     },
     {
       "ID": "Gunslinger",
@@ -28235,7 +28240,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 254013
+      "UsersEstimate": 254014
     },
     {
       "ID": "Specialist",
@@ -28275,7 +28280,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 604377
+      "UsersEstimate": 604378
     },
     {
       "ID": "TheHermit",
@@ -28283,7 +28288,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 218977
+      "UsersEstimate": 218978
     },
     {
       "ID": "TheHightPriestess",
@@ -28323,7 +28328,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 245254
+      "UsersEstimate": 245255
     },
     {
       "ID": "TheWorld",
@@ -28331,7 +28336,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 157663
+      "UsersEstimate": 157664
     },
     {
       "ID": "ThisIsPacifica",
@@ -28410,21 +28415,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 875908,
+      "Progressed": 875910,
       "Completed": 2083
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 4531,
-      "Completed": 4531
+      "Progressed": 4533,
+      "Completed": 4533
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-12T21:00:20.3260348+00:00",
-  "LastChanged_Achievements": "2023-09-12T23:07:07.1138015+00:00",
+  "LastChanged_Achievements": "2023-09-13T00:07:02.7565826+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.297656+00:00",
-  "LastUpdate_Ratings": "2023-09-12T23:01:30.2951515+00:00",
-  "LastUpdate_Achievements": "2023-09-12T23:07:07.1139425+00:00"
+  "LastUpdate_Ratings": "2023-09-13T00:01:25.7265669+00:00",
+  "LastUpdate_Achievements": "2023-09-13T00:07:02.7567315+00:00"
 }

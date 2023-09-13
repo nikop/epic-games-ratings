@@ -20,10 +20,13 @@ Rating: 4.50 (Ranked 563)
 | Meticulously Efficient | 0.10% | ~26 |
 | Fully Upgraded | 0.10% | ~26 |
 | Ghostbuster In Training | 0.10% | ~26 |
+| Ghost Expert | 0.10% | ~26 |
 | Icing on the Cake | 0.10% | ~26 |
+| Legions | 0.10% | ~26 |
 | Line em' up | 0.10% | ~26 |
 | Little Help Here | 0.10% | ~26 |
 | Pesky Jerks | 0.10% | ~26 |
+| Rift Destroyer | 0.10% | ~26 |
 | Right back at ya | 0.10% | ~26 |
 | Rivalry | 0.10% | ~26 |
 | Seasoned | 0.10% | ~26 |
@@ -45,13 +48,10 @@ Rating: 4.50 (Ranked 563)
 | Clutch Capture | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
 | Fragile Panes | 0.00% | ~0 |
-| Ghost Expert | 0.00% | ~0 |
-| Legions | 0.00% | ~0 |
 | Liability | 0.00% | ~0 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
 | Reckless | 0.00% | ~0 |
-| Rift Destroyer | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |
 | Surprise! | 0.00% | ~0 |
 | Tobin's Prodigy | 0.00% | ~0 |

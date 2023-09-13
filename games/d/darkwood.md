@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/darkwood.json)  
 Rating: 4.61 (Ranked 368)  
 ## Awards
-Max (Extremely Fun): 322  (Ranked 234)  
+Max (Extremely Fun): 322  (Ranked 235)  
 Sum: 2,392 (Ranked 183)  
-Diff (max vs sum): 51  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 322 |

@@ -12867,9 +12867,9 @@
       "ID": "Ghost_Expert",
       "SetID": "819popo",
       "Name": "Ghost Expert",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Icing_Cake",
@@ -12883,9 +12883,9 @@
       "ID": "Legions",
       "SetID": "819popo",
       "Name": "Legions",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Liability",
@@ -12947,9 +12947,9 @@
       "ID": "Rift_Destroyer",
       "SetID": "819popo",
       "Name": "Rift Destroyer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Rift_Seeker",
@@ -13132,8 +13132,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-12T19:57:41.0393423+00:00",
-  "LastChanged_Achievements": "2023-09-12T23:03:24.8899951+00:00",
+  "LastChanged_Achievements": "2023-09-13T00:03:19.3614025+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-12T22:57:53.6906409+00:00",
-  "LastUpdate_Achievements": "2023-09-12T23:03:24.8901184+00:00"
+  "LastUpdate_Ratings": "2023-09-12T23:57:48.3640533+00:00",
+  "LastUpdate_Achievements": "2023-09-13T00:03:19.3616572+00:00"
 }

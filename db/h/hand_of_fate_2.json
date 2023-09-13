@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 485,
+  "Ranking_Rating": 484,
   "Ranking_Popularity": 445,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 24,
@@ -892,9 +892,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662067,
+  "EOS_Progressed": 662068,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14687,6 +14687,11 @@
       "Time": "2023-09-12T23:06:34.4810335+00:00",
       "NumProgressed": 662067,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-13T00:06:30.669386+00:00",
+      "NumProgressed": 662068,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14698,7 +14703,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476688
+      "UsersEstimate": 476689
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14714,7 +14719,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152275
+      "UsersEstimate": 152276
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -14834,7 +14839,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152275
+      "UsersEstimate": 152276
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -14842,7 +14847,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92689
+      "UsersEstimate": 92690
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -14850,7 +14855,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112551
+      "UsersEstimate": 112552
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -15081,15 +15086,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662067,
+      "Progressed": 662068,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-12T21:00:03.5082364+00:00",
-  "LastChanged_Achievements": "2023-09-12T23:06:34.481033+00:00",
+  "LastChanged_Achievements": "2023-09-13T00:06:30.669385+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.7852859+00:00",
-  "LastUpdate_Ratings": "2023-09-12T23:01:11.2702284+00:00",
-  "LastUpdate_Achievements": "2023-09-12T23:06:34.4811634+00:00"
+  "LastUpdate_Ratings": "2023-09-13T00:01:05.7824181+00:00",
+  "LastUpdate_Achievements": "2023-09-13T00:06:30.6695329+00:00"
 }

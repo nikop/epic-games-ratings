@@ -4,10 +4,10 @@
   "ProductSlug": "superteam-football-6ce66c",
   "Ranking_Rating": 647,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 326,
+  "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-10-26T16:00:00+00:00",
@@ -691,10 +691,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 373,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-09-12T23:59:13.5867992+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 374,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 373,
+  "NumberOfAwards": 374,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -732,7 +738,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has a Competitive Community",
@@ -783,8 +789,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2023-09-12T21:58:33.889883+00:00",
+  "LastChanged": "2023-09-12T23:59:13.5867991+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.4835941+00:00",
-  "LastUpdate_Ratings": "2023-09-12T22:59:21.3815664+00:00",
-  "LastUpdate_Achievements": "2023-09-12T23:06:13.694693+00:00"
+  "LastUpdate_Ratings": "2023-09-12T23:59:13.5867998+00:00",
+  "LastUpdate_Achievements": "2023-09-13T00:06:09.6914115+00:00"
 }

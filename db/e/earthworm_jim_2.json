@@ -4,7 +4,7 @@
   "ProductSlug": "earthworm-jim-2-c3710b",
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2022-06-10T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.9716301+00:00",
   "LastChanged": "2023-03-31T05:58:42.9716302+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:15.094994+00:00",
-  "LastUpdate_Ratings": "2023-09-12T22:59:35.2832952+00:00",
-  "LastUpdate_Achievements": "2023-09-12T23:07:40.7282817+00:00"
+  "LastUpdate_Ratings": "2023-09-12T23:59:28.034516+00:00",
+  "LastUpdate_Achievements": "2023-09-13T00:07:36.8003699+00:00"
 }

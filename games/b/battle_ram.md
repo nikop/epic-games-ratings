@@ -9,7 +9,7 @@
 | Ram Sergeant | 66.00% | ~174 |
 | Ram Staff Sergeant | 66.00% | ~174 |
 | Ram First Sergeant | 59.00% | ~155 |
-| Senior Sergeant Baran | 57.00% | ~150 |
+| Senior Sergeant Baran | 58.00% | ~153 |
 | Sergeant Major Baran | 44.00% | ~116 |
 | Senior warrant officer Baran 1st class | 27.00% | ~71 |
 | Senior warrant officer Baran 2nd class | 27.00% | ~71 |

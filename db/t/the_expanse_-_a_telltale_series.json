@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10482,
+  "EOS_Progressed": 10483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5155,6 +5155,11 @@
       "Time": "2023-09-12T23:07:46.6570211+00:00",
       "NumProgressed": 10482,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T00:07:43.0277757+00:00",
+      "NumProgressed": 10483,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5215,7 +5220,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "16",
@@ -5399,14 +5404,14 @@
       "Name": "Impossible Objects",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10482,
+      "Progressed": 10483,
       "Completed": 0
     }
   ],
@@ -5414,8 +5419,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-12T23:07:46.6570205+00:00",
+  "LastChanged_Achievements": "2023-09-13T00:07:43.027775+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-12T22:57:57.5649269+00:00",
-  "LastUpdate_Achievements": "2023-09-12T23:07:46.6570815+00:00"
+  "LastUpdate_Ratings": "2023-09-12T23:57:51.914565+00:00",
+  "LastUpdate_Achievements": "2023-09-13T00:07:43.0278394+00:00"
 }
