@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19956,
+  "EOS_Progressed": 19957,
   "EOS_Completed": 396,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -15983,6 +15983,11 @@
       "Time": "2023-09-13T01:47:17.2812475+00:00",
       "NumProgressed": 19956,
       "NumCompleted": 396
+    },
+    {
+      "Time": "2023-09-13T02:21:01.3583121+00:00",
+      "NumProgressed": 19957,
+      "NumCompleted": 396
     }
   ],
   "TotalAchievements": 20,
@@ -16042,7 +16047,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -16058,7 +16063,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "FOUND_ERIN",
@@ -16114,7 +16119,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15366
+      "UsersEstimate": 15367
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16153,15 +16158,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19956,
+      "Progressed": 19957,
       "Completed": 396
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-13T01:47:17.2812471+00:00",
+  "LastChanged_Achievements": "2023-09-13T02:21:01.3583116+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:40:10.5332615+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:47:17.2813303+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:13:53.7684833+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:21:01.3583949+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 582,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 354,
-  "Ranking_EOS_Progress": 192,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -599,9 +599,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1547,
+  "EOS_Progressed": 1558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4129,6 +4129,11 @@
       "Time": "2023-09-13T01:48:03.7429616+00:00",
       "NumProgressed": 1547,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T02:21:47.1683662+00:00",
+      "NumProgressed": 1558,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4141,7 +4146,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -4157,7 +4162,7 @@
       "Name": "Deadication",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -4173,7 +4178,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -4181,7 +4186,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -4197,7 +4202,7 @@
       "Name": "First Strike",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -4211,9 +4216,9 @@
       "ID": "MF_Ach_FourthGate",
       "SetID": "9b9n573",
       "Name": "The Fourth Gate",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -4237,7 +4242,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -4277,7 +4282,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -4301,7 +4306,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -4324,15 +4329,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1547,
+      "Progressed": 1558,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-12T18:57:38.5935577+00:00",
-  "LastChanged_Achievements": "2023-09-13T01:48:03.7429612+00:00",
+  "LastChanged_Achievements": "2023-09-13T02:21:47.1683658+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:39:24.5850065+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:48:03.7429902+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:13:04.8001381+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:21:47.1683951+00:00"
 }

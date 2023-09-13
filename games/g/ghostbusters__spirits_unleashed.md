@@ -23,6 +23,7 @@ Rating: 4.50 (Ranked 563)
 | Ghost Expert | 0.10% | ~26 |
 | Icing on the Cake | 0.10% | ~26 |
 | Legions | 0.10% | ~26 |
+| Liability | 0.10% | ~26 |
 | Line em' up | 0.10% | ~26 |
 | Little Help Here | 0.10% | ~26 |
 | Pesky Jerks | 0.10% | ~26 |
@@ -49,7 +50,6 @@ Rating: 4.50 (Ranked 563)
 | Clutch Capture | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
 | Fragile Panes | 0.00% | ~0 |
-| Liability | 0.00% | ~0 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 563)
 | Tobin's Prodigy | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,770 (Ranked 104)  
+Progressed: 25,771 (Ranked 104)  
 Completed: 55 (0.21%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 55 (0.21%) (Ranked 196)
 | 2023-09-10 | 25,740 | 55 |
 | 2023-09-11 | 25,755 | 55 |
 | 2023-09-12 | 25,768 | 55 |
-| 2023-09-13 | 25,770 | 55 |
+| 2023-09-13 | 25,771 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 253)  
 Sum: 2,306 (Ranked 188)  

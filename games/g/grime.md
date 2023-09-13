@@ -6,22 +6,22 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~130,449 |
-| Taste | 84.00% | ~124,519 |
-| The Hunt | 66.00% | ~97,836 |
-| Ravenous | 63.00% | ~93,389 |
-| Weeper | 43.00% | ~63,742 |
+| Imprint | 88.00% | ~130,450 |
+| Taste | 84.00% | ~124,521 |
+| The Hunt | 66.00% | ~97,838 |
+| Ravenous | 63.00% | ~93,391 |
+| Weeper | 43.00% | ~63,743 |
 | Devourer | 23.00% | ~34,095 |
 | Harmless | 19.00% | ~28,165 |
 | Silenced Whispers | 19.00% | ~28,165 |
 | Sharpened Vessel | 16.00% | ~23,718 |
 | Yank | 15.00% | ~22,236 |
-| Scion | 12.00% | ~17,738 |
-| Jawcrab | 12.00% | ~17,788 |
-| Jawstag | 12.00% | ~17,788 |
-| Feast | 12.00% | ~17,788 |
+| Scion | 12.00% | ~17,739 |
+| Jawcrab | 12.00% | ~17,789 |
+| Jawstag | 12.00% | ~17,789 |
+| Feast | 12.00% | ~17,789 |
 | Watcher | 10.00% | ~14,824 |
-| Shapely | 9.00% | ~13,341 |
+| Shapely | 9.00% | ~13,342 |
 | Glare | 9.00% | ~13,304 |
 | Predator | 8.00% | ~11,859 |
 | Assimilation | 7.00% | ~10,377 |
@@ -32,10 +32,10 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 5.00% | ~7,412 |
 | Breathsmith | 5.00% | ~7,412 |
 | Dream | 5.00% | ~7,391 |
-| Breath | 4.00% | ~5,929 |
-| Inevitable | 4.00% | ~5,929 |
-| Unwrap the Gift | 4.00% | ~5,929 |
-| Proportions | 4.00% | ~5,929 |
+| Breath | 4.00% | ~5,930 |
+| Inevitable | 4.00% | ~5,930 |
+| Unwrap the Gift | 4.00% | ~5,930 |
+| Proportions | 4.00% | ~5,930 |
 | Bloodhunter | 3.00% | ~4,447 |
 | All-Seeing | 3.00% | ~4,447 |
 | Passage | 3.00% | ~4,447 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.80% | ~1,186 |
 | Spiral Heart | 0.10% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,237 (Ranked 66)  
+Progressed: 148,239 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,14 +176,14 @@ Completed: 1 (0.00%) (Ranked 273)
 | 2023-09-10 | 147,746 | 1 |
 | 2023-09-11 | 147,973 | 1 |
 | 2023-09-12 | 148,212 | 1 |
-| 2023-09-13 | 148,237 | 1 |
+| 2023-09-13 | 148,239 | 1 |
 ## Awards
-Max (Highly Recommended): 33  (Ranked 454)  
-Sum: 219 (Ranked 368)  
-Diff (max vs sum): 86  
+Max (Highly Recommended): 34  (Ranked 449)  
+Sum: 220 (Ranked 367)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 33 |
+| This game is Highly Recommended | 34 |
 | This game has Quickly Understood Controls | 30 |
 | This game has Challenging Combat | 28 |
 | This game has Unique Visuals | 28 |
@@ -281,3 +281,4 @@ Diff (max vs sum): 86
 | 2023-09-10 | 4.59 | - | 32 | 216 |
 | 2023-09-11 | 4.59 | - | 33 | 217 |
 | 2023-09-12 | 4.59 | - | 33 | 219 |
+| 2023-09-13 | 4.59 | - | 34 | 220 |

@@ -11813,9 +11813,9 @@
       "Count": 5899
     }
   ],
-  "EOS_Progressed": 875917,
+  "EOS_Progressed": 875919,
   "EOS_Completed": 2083,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1133,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -28058,6 +28058,11 @@
       "Time": "2023-09-13T01:48:05.716783+00:00",
       "NumProgressed": 875917,
       "NumCompleted": 2083
+    },
+    {
+      "Time": "2023-09-13T02:21:49.167736+00:00",
+      "NumProgressed": 875919,
+      "NumCompleted": 2083
     }
   ],
   "TotalAchievements": 44,
@@ -28109,7 +28114,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122628
+      "UsersEstimate": 122629
     },
     {
       "ID": "Fortuneteller",
@@ -28157,7 +28162,7 @@
       "Name": "Master Crafter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122628
+      "UsersEstimate": 122629
     },
     {
       "ID": "IAmMaxTac",
@@ -28165,7 +28170,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 122628
+      "UsersEstimate": 122629
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -28213,7 +28218,7 @@
       "Name": "Breathtaking",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 70073
+      "UsersEstimate": 70074
     },
     {
       "ID": "NoMansLand",
@@ -28245,7 +28250,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 254016
+      "UsersEstimate": 254017
     },
     {
       "ID": "Specialist",
@@ -28285,7 +28290,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 604383
+      "UsersEstimate": 604384
     },
     {
       "ID": "TheHermit",
@@ -28293,7 +28298,7 @@
       "Name": "The Hermit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 218979
+      "UsersEstimate": 218980
     },
     {
       "ID": "TheHightPriestess",
@@ -28309,7 +28314,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 306571
+      "UsersEstimate": 306572
     },
     {
       "ID": "TheStar",
@@ -28389,7 +28394,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122628
+      "UsersEstimate": 122629
     },
     {
       "ID": "VForVendetta",
@@ -28420,21 +28425,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 875917,
+      "Progressed": 875919,
       "Completed": 2083
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 4540,
-      "Completed": 4540
+      "Progressed": 4542,
+      "Completed": 4542
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-12T21:00:20.3260348+00:00",
-  "LastChanged_Achievements": "2023-09-13T01:48:05.7167826+00:00",
+  "LastChanged_Achievements": "2023-09-13T02:21:49.1677355+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.297656+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:42:37.8550493+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:48:05.7168871+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:16:15.3542477+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:21:49.167842+00:00"
 }

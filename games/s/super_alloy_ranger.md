@@ -10,10 +10,10 @@
 | Freshen Up | 57.00% | ~47 |
 | GG EZ | 57.00% | ~47 |
 | Hydrophobia | 42.00% | ~35 |
-| Ka-Ching! | 33.00% | ~27 |
+| Ka-Ching! | 34.00% | ~28 |
 | Stop Right There | 30.00% | ~25 |
 | Get to the Point | 29.00% | ~24 |
-| Mr. Want It All | 16.00% | ~13 |
+| Mr. Want It All | 17.00% | ~14 |
 | Toe to Toe | 16.00% | ~13 |
 | The Hidden Secret | 14.00% | ~12 |
 | Phew! | 14.00% | ~12 |
@@ -25,6 +25,7 @@
 | he Ultra Fortress Conqueror | 6.00% | ~5 |
 | Antaeus | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
+| The Sunken City Conqueror | 5.00% | ~4 |
 | The Deep Frozen Conqueror | 5.00% | ~4 |
 | The Infinite Train Conqueror | 5.00% | ~4 |
 | The Paradox Coordinate Conqueror | 5.00% | ~4 |
@@ -32,7 +33,6 @@
 | Rapidfire | 5.00% | ~4 |
 | Air Interception | 5.00% | ~4 |
 | Hell of a Fight | 5.00% | ~4 |
-| The Sunken City Conqueror | 4.00% | ~3 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~3 |
 | The Inactivated Frozen Conqueror | 4.00% | ~3 |
 | Death Bringer Conqueror | 4.00% | ~3 |

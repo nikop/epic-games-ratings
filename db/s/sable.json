@@ -452,9 +452,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 89011,
+  "EOS_Progressed": 89013,
   "EOS_Completed": 888,
-  "EOS_NewPlayers": 1303,
+  "EOS_NewPlayers": 1302,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -16777,6 +16777,11 @@
       "Time": "2023-09-13T01:47:21.5181237+00:00",
       "NumProgressed": 89011,
       "NumCompleted": 888
+    },
+    {
+      "Time": "2023-09-13T02:21:05.5662163+00:00",
+      "NumProgressed": 89013,
+      "NumCompleted": 888
     }
   ],
   "TotalAchievements": 56,
@@ -16812,7 +16817,7 @@
       "Name": "The Quick and the Curious",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ach_004_complete_historical_reconnection",
@@ -17012,7 +17017,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 11571
+      "UsersEstimate": 11572
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -17036,7 +17041,7 @@
       "Name": "Nesting Giant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 11571
+      "UsersEstimate": 11572
     },
     {
       "ID": "ach_032_collect_elephant_beetle",
@@ -17076,7 +17081,7 @@
       "Name": "Bike Aficionado",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ach_037_collect_badges_1",
@@ -17092,7 +17097,7 @@
       "Name": "Badge Collector",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 10681
+      "UsersEstimate": 10682
     },
     {
       "ID": "ach_039_build_hoverbike",
@@ -17148,7 +17153,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 11571
+      "UsersEstimate": 11572
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -17188,7 +17193,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 19582
+      "UsersEstimate": 19583
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -17204,7 +17209,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 11571
+      "UsersEstimate": 11572
     },
     {
       "ID": "ach_053_angler_mask",
@@ -17220,7 +17225,7 @@
       "Name": "Quite The Catch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10681
+      "UsersEstimate": 10682
     },
     {
       "ID": "ach_055_complete_vivarium",
@@ -17235,15 +17240,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 89011,
+      "Progressed": 89013,
       "Completed": 888
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-09-09T09:00:58.283749+00:00",
-  "LastChanged_Achievements": "2023-09-13T01:47:21.5181233+00:00",
+  "LastChanged_Achievements": "2023-09-13T02:21:05.5662158+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:50.8196547+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:39:44.4120237+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:47:21.5182381+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:13:27.0233353+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:21:05.5663301+00:00"
 }

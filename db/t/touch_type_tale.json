@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3176,
+  "EOS_Progressed": 3179,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2974,6 +2974,11 @@
       "Time": "2023-09-13T01:46:53.0219909+00:00",
       "NumProgressed": 3176,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-13T02:20:37.8504024+00:00",
+      "NumProgressed": 3179,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -2993,7 +2998,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "bonus3",
@@ -3033,7 +3038,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2827
+      "UsersEstimate": 2829
     },
     {
       "ID": "campaign10",
@@ -3041,7 +3046,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "campaign11",
@@ -3057,7 +3062,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "campaign13",
@@ -3073,7 +3078,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "campaign15",
@@ -3121,7 +3126,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2509
+      "UsersEstimate": 2511
     },
     {
       "ID": "campaign20",
@@ -3137,7 +3142,7 @@
       "Name": "Economics 101",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2035
     },
     {
       "ID": "campaign4",
@@ -3145,7 +3150,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "campaign5",
@@ -3161,7 +3166,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "campaign7",
@@ -3169,7 +3174,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "campaign8",
@@ -3193,7 +3198,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "scenario2",
@@ -3201,7 +3206,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "scenario3",
@@ -3248,7 +3253,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3176,
+      "Progressed": 3179,
       "Completed": 11
     }
   ],
@@ -3256,8 +3261,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-13T01:46:53.0219905+00:00",
+  "LastChanged_Achievements": "2023-09-13T02:20:37.8504019+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:40:51.0194478+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:46:53.0220245+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:14:33.3728447+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:20:37.8504354+00:00"
 }

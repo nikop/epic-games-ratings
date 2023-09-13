@@ -25,7 +25,7 @@
 | Aiming for a living and human city | 15.00% | ~104 |
 | City of dreams | 15.00% | ~104 |
 | Happy Christmas night! | 15.00% | ~104 |
-| Night walk along the beach | 14.00% | ~97 |
+| Night walk along the beach | 15.00% | ~104 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 693 (Ranked 224)  
 Completed: 102 (14.72%) (Ranked 18)  

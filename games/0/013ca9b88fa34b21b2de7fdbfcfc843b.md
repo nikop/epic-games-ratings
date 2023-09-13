@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~1,364 |
-| A Thorny Situation | 66.00% | ~1,250 |
-| ... And Spit Back Out | 51.00% | ~966 |
-| Break-Net Speed | 38.00% | ~720 |
-| Bramble Breaker | 31.00% | ~587 |
-| Miner 49er | 28.00% | ~530 |
-| Humble Collector | 27.00% | ~511 |
-| Calm Sailing | 15.00% | ~284 |
-| Oui, Chef! | 14.00% | ~265 |
-| Open the Gate! | 12.00% | ~227 |
-| Lumberjack | 12.00% | ~227 |
-| Mist Walker | 10.00% | ~189 |
+| Azoria Beckons | 72.00% | ~1,370 |
+| A Thorny Situation | 65.00% | ~1,237 |
+| ... And Spit Back Out | 51.00% | ~971 |
+| Break-Net Speed | 38.00% | ~723 |
+| Bramble Breaker | 31.00% | ~590 |
+| Miner 49er | 28.00% | ~533 |
+| Humble Collector | 27.00% | ~514 |
+| Calm Sailing | 15.00% | ~285 |
+| Oui, Chef! | 14.00% | ~266 |
+| Open the Gate! | 12.00% | ~228 |
+| Lumberjack | 12.00% | ~228 |
+| Mist Walker | 11.00% | ~209 |
 | Beach Comber | 6.00% | ~114 |
 | Botanical Breakthrough | 6.00% | ~114 |
 | Clear the Air | 3.00% | ~57 |
@@ -31,7 +31,7 @@
 | Right Tool For the Job | 0.70% | ~13 |
 | Scattered Scroll Scrounger | 0.60% | ~11 |
 | Captain of Cozy | 0.60% | ~11 |
-| House Proud | 0.50% | ~9 |
+| House Proud | 0.50% | ~10 |
 | Flaming Hot Completos | 0.40% | ~8 |
 | Fae Farmer | 0.40% | ~8 |
 | Cloverfield Island | 0.10% | ~2 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~2 |
 | Very Skilled | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,894 (Ranked 181)  
+Progressed: 1,903 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,4 +60,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 624 | 0 |
 | 2023-09-11 | 1,169 | 0 |
 | 2023-09-12 | 1,849 | 0 |
-| 2023-09-13 | 1,894 | 0 |
+| 2023-09-13 | 1,903 | 0 |

@@ -6,34 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zealous | 4.00% | ~34,946 |
-| It wakes | 4.00% | ~34,946 |
-| Skillful | 4.00% | ~34,946 |
-| Handyman | 3.00% | ~26,210 |
-| Not half bad | 3.00% | ~26,210 |
-| Apt Survivor | 3.00% | ~26,210 |
-| Survival Treasures | 3.00% | ~26,210 |
-| Make Some Noise | 3.00% | ~26,210 |
-| The Grand Sacrifice | 2.00% | ~17,473 |
-| Agonizing Escape | 2.00% | ~17,473 |
-| Backdoor Escape | 2.00% | ~17,473 |
-| I've got your back | 2.00% | ~17,473 |
-| No one left behind | 2.00% | ~17,473 |
-| Medic | 2.00% | ~17,473 |
-| Nerves of steel | 2.00% | ~17,473 |
-| Perfect Escape | 2.00% | ~17,473 |
-| Perfect Killing | 2.00% | ~17,473 |
-| Bloody Millionaire | 2.00% | ~17,473 |
-| Risk it all | 2.00% | ~17,473 |
-| I | 2.00% | ~17,473 |
-| Engineer | 2.00% | ~17,473 |
-| Sorted | 2.00% | ~17,473 |
-| Healthy Obsession | 2.00% | ~17,473 |
-| Resurgence | 2.00% | ~17,473 |
-| Close Shave | 2.00% | ~17,473 |
-| Preemptive Strike | 2.00% | ~17,473 |
-| Humanitarian | 2.00% | ~17,473 |
-| MU/TH/UR Dearest | 2.00% | ~17,473 |
+| Zealous | 4.00% | ~34,948 |
+| It wakes | 4.00% | ~34,948 |
+| Skillful | 4.00% | ~34,948 |
+| Handyman | 3.00% | ~26,211 |
+| Not half bad | 3.00% | ~26,211 |
+| Apt Survivor | 3.00% | ~26,211 |
+| Survival Treasures | 3.00% | ~26,211 |
+| Make Some Noise | 3.00% | ~26,211 |
+| The Grand Sacrifice | 2.00% | ~17,474 |
+| Agonizing Escape | 2.00% | ~17,474 |
+| Backdoor Escape | 2.00% | ~17,474 |
+| I've got your back | 2.00% | ~17,474 |
+| No one left behind | 2.00% | ~17,474 |
+| Medic | 2.00% | ~17,474 |
+| Nerves of steel | 2.00% | ~17,474 |
+| Perfect Escape | 2.00% | ~17,474 |
+| Perfect Killing | 2.00% | ~17,474 |
+| Bloody Millionaire | 2.00% | ~17,474 |
+| Risk it all | 2.00% | ~17,474 |
+| I | 2.00% | ~17,474 |
+| Engineer | 2.00% | ~17,474 |
+| Sorted | 2.00% | ~17,474 |
+| Healthy Obsession | 2.00% | ~17,474 |
+| Resurgence | 2.00% | ~17,474 |
+| Close Shave | 2.00% | ~17,474 |
+| Preemptive Strike | 2.00% | ~17,474 |
+| Humanitarian | 2.00% | ~17,474 |
+| MU/TH/UR Dearest | 2.00% | ~17,474 |
 | Blood on your hands | 1.00% | ~8,737 |
 | Apt Killer | 1.00% | ~8,737 |
 | Vulture | 1.00% | ~8,737 |
@@ -58,16 +58,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 0.90% | ~7,863 |
 | Chorus of Chaos | 0.90% | ~7,863 |
 | One More Step | 0.90% | ~7,863 |
-| Escape Artist | 0.80% | ~6,989 |
-| Made it out alive! | 0.80% | ~6,989 |
-| Gifts for the Fog | 0.80% | ~6,989 |
-| Shock Therapy | 0.80% | ~6,989 |
-| All Aboard | 0.80% | ~6,989 |
-| House of Pain | 0.80% | ~6,989 |
-| Near-Death Experience | 0.80% | ~6,989 |
-| Cutting Out | 0.80% | ~6,989 |
-| Outrun Evil | 0.80% | ~6,989 |
-| Operation: Survival | 0.80% | ~6,989 |
+| Escape Artist | 0.80% | ~6,990 |
+| Made it out alive! | 0.80% | ~6,990 |
+| Gifts for the Fog | 0.80% | ~6,990 |
+| Shock Therapy | 0.80% | ~6,990 |
+| All Aboard | 0.80% | ~6,990 |
+| House of Pain | 0.80% | ~6,990 |
+| Near-Death Experience | 0.80% | ~6,990 |
+| Cutting Out | 0.80% | ~6,990 |
+| Outrun Evil | 0.80% | ~6,990 |
+| Operation: Survival | 0.80% | ~6,990 |
 | A bite for the Entity | 0.70% | ~6,116 |
 | Leapfrog | 0.70% | ~6,116 |
 | Cottage Owner | 0.70% | ~6,116 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~874 |
 | Adept Ripley | 0.10% | ~874 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 873,661 (Ranked 15)  
+Progressed: 873,700 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 48 (0.01%) (Ranked 259)
 | 2023-09-10 | 868,233 | 48 |
 | 2023-09-11 | 870,909 | 48 |
 | 2023-09-12 | 873,422 | 48 |
-| 2023-09-13 | 873,661 | 48 |
+| 2023-09-13 | 873,700 | 48 |
 ## Awards
 Max (Diverse Characters): 32,352  (Ranked 15)  
 Sum: 252,839 (Ranked 11)  

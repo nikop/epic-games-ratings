@@ -1,25 +1,25 @@
 # Saints Row IV Re-Elected
 [Store](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)  
 [View Rawdata](../../db/s/saints_row_iv_re-elected.json)  
-Rating: 4.40 (Ranked 711)  
+Rating: 4.40 (Ranked 712)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 64.00% | ~169,727 |
-| Destroyer-In-Chief | 57.00% | ~151,163 |
-| There Is No Pancakes | 54.00% | ~143,207 |
-| First of Many | 42.00% | ~111,383 |
-| Woah. | 37.00% | ~98,123 |
-| Don't Look Down | 29.00% | ~76,907 |
-| Don't Panic | 28.00% | ~74,255 |
-| Ooo A Piece of Candy! | 23.00% | ~60,996 |
-| Ghost in the Machine | 18.00% | ~47,736 |
-| All Too Easy | 15.00% | ~39,780 |
-| Didn't Need to See Him Naked | 14.00% | ~37,128 |
-| Indomitable | 10.00% | ~26,520 |
-| Blast from the Past | 9.00% | ~23,868 |
-| Bow to the Boss! | 9.00% | ~23,868 |
-| Friend of the Raptors | 9.00% | ~23,868 |
+| Zero Saints Thirty | 64.00% | ~169,732 |
+| Destroyer-In-Chief | 57.00% | ~151,167 |
+| There Is No Pancakes | 54.00% | ~143,211 |
+| First of Many | 42.00% | ~111,387 |
+| Woah. | 37.00% | ~98,126 |
+| Don't Look Down | 29.00% | ~76,910 |
+| Don't Panic | 28.00% | ~74,258 |
+| Ooo A Piece of Candy! | 23.00% | ~60,997 |
+| Ghost in the Machine | 18.00% | ~47,737 |
+| All Too Easy | 15.00% | ~39,781 |
+| Didn't Need to See Him Naked | 14.00% | ~37,129 |
+| Indomitable | 10.00% | ~26,521 |
+| Blast from the Past | 9.00% | ~23,869 |
+| Bow to the Boss! | 9.00% | ~23,869 |
+| Friend of the Raptors | 9.00% | ~23,869 |
 | About Time! | 8.00% | ~21,216 |
 | Actor-Turned-Politician | 7.00% | ~18,564 |
 | Betrayed | 7.00% | ~18,564 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 711)
 | Super Power Team Up! | 0.10% | ~265 |
 | Ultimate Hot Potato | 0.10% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,198 (Ranked 45)  
+Progressed: 265,206 (Ranked 45)  
 Completed: 15 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 15 (0.01%) (Ranked 259)
 | 2023-09-10 | 263,984 | 15 |
 | 2023-09-11 | 264,576 | 15 |
 | 2023-09-12 | 265,131 | 15 |
-| 2023-09-13 | 265,198 | 15 |
+| 2023-09-13 | 265,206 | 15 |
 ## Awards
 Max (Great Boss Battles): 455  (Ranked 206)  
 Sum: 455 (Ranked 312)  

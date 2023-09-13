@@ -6,12 +6,12 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,383 |
+| The Fool | 69.00% | ~604,384 |
 | Right Back At Ya | 39.00% | ~341,608 |
-| The Lovers | 35.00% | ~306,571 |
-| Stanislavski's Method | 29.00% | ~254,016 |
+| The Lovers | 35.00% | ~306,572 |
+| Stanislavski's Method | 29.00% | ~254,017 |
 | The Wheel of Fortune | 28.00% | ~245,257 |
-| The Hermit | 25.00% | ~218,979 |
+| The Hermit | 25.00% | ~218,980 |
 | Christmas Tree Attack | 23.00% | ~201,461 |
 | True Soldier | 23.00% | ~201,461 |
 | The High Priestess | 22.00% | ~192,702 |
@@ -22,15 +22,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | Bushido and Chill | 17.00% | ~148,906 |
 | Gun Fu | 16.00% | ~140,147 |
 | True Warrior | 15.00% | ~131,388 |
-| To Protect and Serve | 14.00% | ~122,628 |
-| Master Crafter | 14.00% | ~122,628 |
-| I Am The Law | 14.00% | ~122,628 |
-| Judy vs Night City | 14.00% | ~122,628 |
+| To Protect and Serve | 14.00% | ~122,629 |
+| Master Crafter | 14.00% | ~122,629 |
+| I Am The Law | 14.00% | ~122,629 |
+| Judy vs Night City | 14.00% | ~122,629 |
 | Two Heads, One Bullet | 12.00% | ~105,110 |
 | The Wandering Fool | 10.00% | ~87,592 |
 | The Quick and the Dead | 10.00% | ~87,592 |
 | Ten out of Ten | 9.00% | ~78,833 |
-| Breathtaking | 8.00% | ~70,073 |
+| Breathtaking | 8.00% | ~70,074 |
 | To Bad Decisions! | 7.00% | ~61,314 |
 | The Star | 7.00% | ~61,314 |
 | The Sun | 7.00% | ~61,314 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,759 |
 | Rough Landing | 0.50% | ~4,380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,917 (Ranked 14)  
+Progressed: 875,919 (Ranked 14)  
 Completed: 2,083 (0.24%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 2,083 (0.24%) (Ranked 189)
 | 2023-09-10 | 875,656 | 2,075 |
 | 2023-09-11 | 875,775 | 2,079 |
 | 2023-09-12 | 875,908 | 2,083 |
-| 2023-09-13 | 875,917 | 2,083 |
+| 2023-09-13 | 875,919 | 2,083 |
 ## Awards
 Max (Character Customization): 78,334  (Ranked 9)  
 Sum: 209,302 (Ranked 13)  

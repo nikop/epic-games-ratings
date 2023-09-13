@@ -6,22 +6,22 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~286,545 |
-| Full garage | 60.00% | ~235,516 |
-| To the eyeballs! | 51.00% | ~200,189 |
-| Individual delivery | 46.00% | ~180,562 |
-| Non-Stop | 44.00% | ~172,712 |
-| Juggler | 35.00% | ~137,384 |
-| Forgot something | 34.00% | ~133,459 |
-| Close call! | 30.00% | ~117,758 |
+| Dealmaker | 73.00% | ~286,546 |
+| Full garage | 60.00% | ~235,517 |
+| To the eyeballs! | 51.00% | ~200,190 |
+| Individual delivery | 46.00% | ~180,563 |
+| Non-Stop | 44.00% | ~172,713 |
+| Juggler | 35.00% | ~137,385 |
+| Forgot something | 34.00% | ~133,460 |
+| Close call! | 30.00% | ~117,759 |
 | Get out my way | 28.00% | ~109,908 |
-| Critical care | 26.00% | ~102,057 |
+| Critical care | 26.00% | ~102,058 |
 | Common cause | 25.00% | ~98,132 |
-| Mega-railroad | 23.00% | ~90,281 |
-| Upgrade complete | 23.00% | ~90,281 |
+| Mega-railroad | 23.00% | ~90,282 |
+| Upgrade complete | 23.00% | ~90,282 |
 | Just in time! | 18.00% | ~70,655 |
 | Builder | 17.00% | ~66,730 |
-| Steam Age | 16.00% | ~62,804 |
+| Steam Age | 16.00% | ~62,805 |
 | Long Haul | 16.00% | ~62,699 |
 | Bridgemania | 14.00% | ~54,954 |
 | Multilevel road | 14.00% | ~54,954 |
@@ -30,7 +30,7 @@ Number of Ratings: 87  (23.09.2022)
 | Without a lunch break | 11.00% | ~43,178 |
 | Beginner | 10.00% | ~39,253 |
 | Relocation | 10.00% | ~39,253 |
-| One way | 9.00% | ~35,327 |
+| One way | 9.00% | ~35,328 |
 | Just One More Valley | 9.00% | ~35,268 |
 | Industrial Age | 8.00% | ~31,402 |
 | Prick of conscience | 8.00% | ~31,402 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~392 |
 | World Zapper | 0.10% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392,527 (Ranked 41)  
+Progressed: 392,529 (Ranked 41)  
 Completed: 10 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 10 (0.00%) (Ranked 273)
 | 2023-09-10 | 391,628 | 10 |
 | 2023-09-11 | 392,084 | 10 |
 | 2023-09-12 | 392,488 | 10 |
-| 2023-09-13 | 392,527 | 10 |
+| 2023-09-13 | 392,529 | 10 |
 ## Awards
 Max (Challenging Puzzles): 594  (Ranked 186)  
 Sum: 1,141 (Ranked 234)  

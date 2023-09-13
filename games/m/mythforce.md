@@ -12,25 +12,25 @@ Number of Ratings: 285  (23.09.2022)
 | Hit 'Em Where It Hurts | 2.00% | ~31 |
 | Mushroom Madness! | 2.00% | ~31 |
 | That'll Leave a Mark | 2.00% | ~31 |
-| Cold-Blooded Critters | 1.00% | ~15 |
-| Deadication | 1.00% | ~15 |
-| Debuff Dogpile | 1.00% | ~15 |
-| Everything Must Go! | 1.00% | ~15 |
-| First Strike | 1.00% | ~15 |
-| Horder Better Faster Stronger | 1.00% | ~15 |
-| Perk Shard Punch Card | 1.00% | ~15 |
-| Ten Steps from the Grave | 1.00% | ~15 |
+| Cold-Blooded Critters | 1.00% | ~16 |
+| Deadication | 1.00% | ~16 |
+| Debuff Dogpile | 1.00% | ~16 |
+| Everything Must Go! | 1.00% | ~16 |
+| First Strike | 1.00% | ~16 |
+| Horder Better Faster Stronger | 1.00% | ~16 |
+| Perk Shard Punch Card | 1.00% | ~16 |
+| Ten Steps from the Grave | 1.00% | ~16 |
 | The Harder They Fall | 0.80% | ~12 |
 | Season Finale | 0.80% | ~12 |
 | Spending Spree | 0.80% | ~12 |
 | Next Time on MythForce... | 0.60% | ~9 |
-| The Fourth Gate | 0.50% | ~8 |
 | On this Episode! | 0.50% | ~8 |
+| The Fourth Gate | 0.40% | ~6 |
 | We've Got a Kaiju on the Field | 0.10% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 | Vexed Her | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,547 (Ranked 192)  
+Progressed: 1,558 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 1,291 | 0 |
 | 2023-09-11 | 1,321 | 0 |
 | 2023-09-12 | 1,507 | 0 |
-| 2023-09-13 | 1,547 | 0 |
+| 2023-09-13 | 1,558 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 257 (Ranked 354)  

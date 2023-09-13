@@ -607,7 +607,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 342914,
+  "EOS_Progressed": 342915,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1109,
   "EOS_NewCompleters": 0,
@@ -16822,6 +16822,11 @@
       "Time": "2023-09-13T01:46:09.4899208+00:00",
       "NumProgressed": 342914,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-13T02:19:54.8458583+00:00",
+      "NumProgressed": 342915,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -17041,7 +17046,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157740
+      "UsersEstimate": 157741
     },
     {
       "ID": "ach028",
@@ -17137,7 +17142,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34291
+      "UsersEstimate": 34292
     },
     {
       "ID": "ach040",
@@ -17297,7 +17302,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34291
+      "UsersEstimate": 34292
     },
     {
       "ID": "ach060",
@@ -17472,7 +17477,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 342914,
+      "Progressed": 342915,
       "Completed": 7
     }
   ],
@@ -17480,8 +17485,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-10T15:00:51.2490982+00:00",
-  "LastChanged_Achievements": "2023-09-13T01:46:09.4899205+00:00",
+  "LastChanged_Achievements": "2023-09-13T02:19:54.8458579+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:42:28.0163492+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:46:09.4900883+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:16:04.6286271+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:19:54.8460045+00:00"
 }

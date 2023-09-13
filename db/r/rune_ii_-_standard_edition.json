@@ -4,7 +4,7 @@
   "ProductSlug": "rune-2",
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.3587314+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:39:51.8996653+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:45:57.7546784+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:13:35.581352+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:19:43.4253312+00:00"
 }

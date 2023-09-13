@@ -988,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2760,
+  "EOS_Progressed": 2762,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1285,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2613,6 +2613,11 @@
       "Time": "2023-09-13T01:46:49.0537394+00:00",
       "NumProgressed": 2760,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T02:20:34.0628821+00:00",
+      "NumProgressed": 2762,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2625,7 +2630,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "a_10",
@@ -2673,7 +2678,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "a_19",
@@ -2743,9 +2748,9 @@
       "ID": "a_27",
       "SetID": "daiie3o",
       "Name": "Keep the doctor away",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 55
     },
     {
       "ID": "a_28",
@@ -2872,7 +2877,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2760,
+      "Progressed": 2762,
       "Completed": 5
     }
   ],
@@ -2880,8 +2885,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-13T01:46:49.053739+00:00",
+  "LastChanged_Achievements": "2023-09-13T02:20:34.0628815+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:42:23.6244606+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:46:49.0537649+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:16:00.4660964+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:20:34.0629071+00:00"
 }

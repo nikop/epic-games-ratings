@@ -402,9 +402,9 @@
       "Count": 80
     }
   ],
-  "EOS_Progressed": 245770,
+  "EOS_Progressed": 245771,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16567,6 +16567,11 @@
       "Time": "2023-09-13T01:46:48.288716+00:00",
       "NumProgressed": 245770,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-13T02:20:33.3666422+00:00",
+      "NumProgressed": 245771,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -16810,7 +16815,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12288
+      "UsersEstimate": 12289
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -16898,7 +16903,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 61442
+      "UsersEstimate": 61443
     },
     {
       "ID": "ACH_SOREAD",
@@ -16962,7 +16967,7 @@
       "Name": "Valedictorian",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12288
+      "UsersEstimate": 12289
     },
     {
       "ID": "ACH_WAKEUP",
@@ -16993,7 +16998,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 245770,
+      "Progressed": 245771,
       "Completed": 7
     }
   ],
@@ -17001,8 +17006,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-09-02T23:58:08.6373723+00:00",
-  "LastChanged_Achievements": "2023-09-13T01:46:48.2887157+00:00",
+  "LastChanged_Achievements": "2023-09-13T02:20:33.3666416+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:57.1654221+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:42:26.7252915+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:46:48.2888282+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:16:03.2027297+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:20:33.3667493+00:00"
 }

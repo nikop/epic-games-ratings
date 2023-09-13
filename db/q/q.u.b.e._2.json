@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 294,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1495,9 +1495,9 @@
       "ID": "ACH_HUB2",
       "SetID": "232494e",
       "Name": "Path to Salvation",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_OASIS",
@@ -1511,9 +1511,9 @@
       "ID": "ACH_PEAK",
       "SetID": "232494e",
       "Name": "There\u0027s No Place Like Home",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_PROPELL",
@@ -1583,8 +1583,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-13T01:47:46.0722441+00:00",
+  "LastChanged_Achievements": "2023-09-13T02:21:29.7851874+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-13T01:41:59.6897956+00:00",
-  "LastUpdate_Achievements": "2023-09-13T01:47:46.0722674+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:15:37.8747883+00:00",
+  "LastUpdate_Achievements": "2023-09-13T02:21:29.78521+00:00"
 }
