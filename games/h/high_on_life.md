@@ -5,18 +5,18 @@ Rating: 4.64 (Ranked 315)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,962 |
-| Mods Please Ban | 77.00% | ~18,519 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,279 |
-| Fallout Doesn't Let You Do This | 73.00% | ~17,557 |
-| First Bounty Down | 59.00% | ~14,190 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,709 |
+| Eye Scream, You Scream | 83.00% | ~19,963 |
+| Mods Please Ban | 77.00% | ~18,520 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,280 |
+| Fallout Doesn't Let You Do This | 73.00% | ~17,558 |
+| First Bounty Down | 59.00% | ~14,191 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,710 |
 | Luglox Genocide | 43.00% | ~10,342 |
-| Don't Knife The Hand That Feeds | 34.00% | ~8,177 |
+| Don't Knife The Hand That Feeds | 34.00% | ~8,178 |
 | Playing Card To Get | 33.00% | ~7,937 |
-| Creature Feature | 30.00% | ~7,215 |
-| Satisfied Gus-tomer | 28.00% | ~6,734 |
-| Cold-Blooded Driller | 28.00% | ~6,734 |
+| Creature Feature | 30.00% | ~7,216 |
+| Satisfied Gus-tomer | 28.00% | ~6,735 |
+| Cold-Blooded Driller | 28.00% | ~6,735 |
 | Are You Packin'? | 25.00% | ~6,013 |
 | RIP Davey Glutes | 25.00% | ~6,013 |
 | Sweezy Like Sunday Morning | 25.00% | ~6,013 |
@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 315)
 | Epic Legendary Prize | 1.00% | ~241 |
 | A Starfish Is Born | 1.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,051 (Ranked 105)  
+Progressed: 24,052 (Ranked 105)  
 Completed: 12 (0.05%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 12 (0.05%) (Ranked 238)
 | 2023-09-10 | 24,040 | 12 |
 | 2023-09-11 | 24,044 | 12 |
 | 2023-09-12 | 24,048 | 12 |
-| 2023-09-13 | 24,051 | 12 |
+| 2023-09-13 | 24,052 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

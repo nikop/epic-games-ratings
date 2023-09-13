@@ -6,21 +6,21 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,073 |
-| That's a Grand Army | 3.00% | ~12,055 |
-| That is mine! | 3.00% | ~12,055 |
-| Victorious! | 3.00% | ~12,055 |
-| Brothers in Arms | 2.00% | ~8,037 |
-| For the Glory | 2.00% | ~8,037 |
-| That's a Grand Navy | 2.00% | ~8,037 |
-| Seriously?! | 2.00% | ~8,037 |
-| Cold War | 1.00% | ~4,018 |
-| Defender of the Faith | 1.00% | ~4,018 |
-| It's all about the money | 1.00% | ~4,018 |
-| The Princess is in this Castle | 1.00% | ~4,018 |
-| True Catholic | 1.00% | ~4,018 |
-| Respected | 0.90% | ~3,616 |
-| Truly Divine Ruler | 0.90% | ~3,616 |
+| Until death do us apart | 4.00% | ~16,075 |
+| That's a Grand Army | 3.00% | ~12,057 |
+| That is mine! | 3.00% | ~12,057 |
+| Victorious! | 3.00% | ~12,057 |
+| Brothers in Arms | 2.00% | ~8,038 |
+| For the Glory | 2.00% | ~8,038 |
+| That's a Grand Navy | 2.00% | ~8,038 |
+| Seriously?! | 2.00% | ~8,038 |
+| Cold War | 1.00% | ~4,019 |
+| Defender of the Faith | 1.00% | ~4,019 |
+| It's all about the money | 1.00% | ~4,019 |
+| The Princess is in this Castle | 1.00% | ~4,019 |
+| True Catholic | 1.00% | ~4,019 |
+| Respected | 0.90% | ~3,617 |
+| Truly Divine Ruler | 0.90% | ~3,617 |
 | It's all about luck | 0.80% | ~3,215 |
 | Blockader | 0.70% | ~2,813 |
 | Double the Love | 0.70% | ~2,813 |
@@ -30,21 +30,21 @@ Number of Ratings: 8,414  (23.09.2022)
 | Agressive Expander | 0.50% | ~2,009 |
 | City of Cities | 0.50% | ~2,009 |
 | Combined Arms | 0.50% | ~2,009 |
-| Azur semé de lis or | 0.40% | ~1,607 |
-| Factionalism | 0.40% | ~1,607 |
-| Gentle Persuasion | 0.40% | ~1,607 |
-| Queen of Conquest | 0.40% | ~1,607 |
-| This navy can take it all | 0.40% | ~1,607 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,205 |
-| Bright Spark | 0.30% | ~1,205 |
-| Down Under | 0.30% | ~1,205 |
-| The Emperors new clothes | 0.30% | ~1,205 |
-| A Golden Empire | 0.30% | ~1,205 |
-| Isn't this the way to India? | 0.30% | ~1,205 |
-| Market Control | 0.30% | ~1,205 |
-| Populists in Government | 0.30% | ~1,205 |
-| The Five Colonies | 0.30% | ~1,205 |
-| Trustworthy | 0.30% | ~1,205 |
+| Azur semé de lis or | 0.40% | ~1,608 |
+| Factionalism | 0.40% | ~1,608 |
+| Gentle Persuasion | 0.40% | ~1,608 |
+| Queen of Conquest | 0.40% | ~1,608 |
+| This navy can take it all | 0.40% | ~1,608 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,206 |
+| Bright Spark | 0.30% | ~1,206 |
+| Down Under | 0.30% | ~1,206 |
+| The Emperors new clothes | 0.30% | ~1,206 |
+| A Golden Empire | 0.30% | ~1,206 |
+| Isn't this the way to India? | 0.30% | ~1,206 |
+| Market Control | 0.30% | ~1,206 |
+| Populists in Government | 0.30% | ~1,206 |
+| The Five Colonies | 0.30% | ~1,206 |
+| Trustworthy | 0.30% | ~1,206 |
 | All belongs to Mother Russia | 0.20% | ~804 |
 | At every continent | 0.20% | ~804 |
 | Electable! | 0.20% | ~804 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401,829 (Ranked 40)  
+Progressed: 401,887 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -507,7 +507,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 399,390 | 0 |
 | 2023-09-11 | 400,309 | 0 |
 | 2023-09-12 | 401,220 | 0 |
-| 2023-09-13 | 401,829 | 0 |
+| 2023-09-13 | 401,887 | 0 |
 ## Awards
 Max (Educational): 6,064  (Ranked 56)  
 Sum: 49,875 (Ranked 26)  

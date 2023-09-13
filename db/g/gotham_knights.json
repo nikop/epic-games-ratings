@@ -2870,9 +2870,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72488,
+  "EOS_Progressed": 72489,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 972,
+  "EOS_NewPlayers": 945,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15325,6 +15325,11 @@
       "Time": "2023-09-13T16:08:31.6351132+00:00",
       "NumProgressed": 72488,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-13T18:07:32.6844645+00:00",
+      "NumProgressed": 72489,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15440,7 +15445,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15222
+      "UsersEstimate": 15223
     },
     {
       "ID": "CLAYFACE_2",
@@ -15496,7 +15501,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9423
+      "UsersEstimate": 9424
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -15544,7 +15549,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9423
+      "UsersEstimate": 9424
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -15744,7 +15749,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15947
+      "UsersEstimate": 15948
     },
     {
       "ID": "MYSTERY_04",
@@ -15776,7 +15781,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9423
+      "UsersEstimate": 9424
     },
     {
       "ID": "MYSTERY_08",
@@ -15823,13 +15828,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72488,
+      "Progressed": 72489,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42768,
+      "Progressed": 42769,
       "Completed": 2663
     }
   ],
@@ -15837,8 +15842,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-13T13:04:25.4989891+00:00",
-  "LastChanged_Achievements": "2023-09-13T17:07:34.0552298+00:00",
+  "LastChanged_Achievements": "2023-09-13T18:07:32.6844641+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-13T16:58:47.1002891+00:00",
-  "LastUpdate_Achievements": "2023-09-13T17:07:34.0553342+00:00"
+  "LastUpdate_Ratings": "2023-09-13T17:58:43.3278483+00:00",
+  "LastUpdate_Achievements": "2023-09-13T18:07:32.6845643+00:00"
 }

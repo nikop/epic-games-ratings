@@ -129,6 +129,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.70% | ~97 |
 | Babylonia | 0.70% | ~97 |
 | Hittite Paganism | 0.70% | ~97 |
+| Turreted Elephant | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
 | Peacemaker | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
@@ -136,7 +137,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.60% | ~83 |
 | Rome | 0.60% | ~83 |
 | One True Faith | 0.60% | ~83 |
-| Turreted Elephant | 0.60% | ~83 |
 | All Nations | 0.60% | ~83 |
 | Carthage - Ox Hide | 0.50% | ~69 |
 | Old | 0.50% | ~69 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,889 (Ranked 122)  
+Progressed: 13,890 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -449,7 +449,7 @@ Completed: 5 (0.04%) (Ranked 242)
 | 2023-09-10 | 13,858 | 5 |
 | 2023-09-11 | 13,868 | 5 |
 | 2023-09-12 | 13,880 | 5 |
-| 2023-09-13 | 13,889 | 5 |
+| 2023-09-13 | 13,890 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | We've Got a Kaiju on the Field | 0.10% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,675 (Ranked 188)  
+Progressed: 1,679 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,10 +90,10 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 1,291 | 0 |
 | 2023-09-11 | 1,321 | 0 |
 | 2023-09-12 | 1,507 | 0 |
-| 2023-09-13 | 1,675 | 0 |
+| 2023-09-13 | 1,679 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
-Sum: 258 (Ranked 354)  
+Sum: 259 (Ranked 354)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
@@ -105,8 +105,8 @@ Diff (max vs sum): 104
 | This game has Diverse Characters | 25 |
 | This game has Challenging Combat | 25 |
 | This game has Amazing Storytelling | 23 |
+| This game is Relaxing | 22 |
 | This game is Extremely Fun | 21 |
-| This game is Relaxing | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -187,4 +187,4 @@ Diff (max vs sum): 104
 | 2023-09-07 | 4.49 | - | 32 | 255 |
 | 2023-09-08 | 4.49 | - | 32 | 256 |
 | 2023-09-12 | 4.49 | - | 32 | 257 |
-| 2023-09-13 | 4.49 | - | 32 | 258 |
+| 2023-09-13 | 4.49 | - | 32 | 259 |

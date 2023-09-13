@@ -34,7 +34,7 @@
 | The Blight's Blight | 43.00% | ~10 |
 | For Whom the Bell Tolls | 43.00% | ~10 |
 | Here I Am | 43.00% | ~10 |
-| Break The Cycle | 35.00% | ~8 |
+| Break The Cycle | 39.00% | ~9 |
 | Continue The Cycle | 30.00% | ~7 |
 | Talent And Dedication | 22.00% | ~5 |
 | Read, Read, Read | 17.00% | ~4 |

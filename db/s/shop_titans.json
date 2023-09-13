@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6010,9 +6010,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136120,
+  "EOS_Progressed": 136122,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21045,6 +21045,11 @@
       "Time": "2023-09-13T17:07:48.3760089+00:00",
       "NumProgressed": 136120,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2023-09-13T18:07:46.0862172+00:00",
+      "NumProgressed": 136122,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 112,
@@ -21254,9 +21259,9 @@
       "ID": "collection02",
       "SetID": "anfd17p",
       "Name": "Scrapbooker",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 681
     },
     {
       "ID": "collection03",
@@ -21951,15 +21956,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136120,
+      "Progressed": 136122,
       "Completed": 150
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-13T16:57:11.608345+00:00",
-  "LastChanged_Achievements": "2023-09-13T17:07:48.3760083+00:00",
+  "LastChanged_Achievements": "2023-09-13T18:07:46.0862167+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-13T16:57:11.6083456+00:00",
-  "LastUpdate_Achievements": "2023-09-13T17:07:48.3761992+00:00"
+  "LastUpdate_Ratings": "2023-09-13T17:57:09.6096554+00:00",
+  "LastUpdate_Achievements": "2023-09-13T18:07:46.086408+00:00"
 }

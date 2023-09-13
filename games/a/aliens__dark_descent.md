@@ -5,19 +5,19 @@ Rating: 4.49 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,657 |
-| Snatched Out | 75.00% | ~2,430 |
+| This Is Hayes, Pioneer Station, Signing Off | 82.00% | ~2,658 |
+| Snatched Out | 75.00% | ~2,431 |
 | Keep 'Em Coming | 74.00% | ~2,398 |
 | Cleaning Lethe, One Nest At A Time | 67.00% | ~2,171 |
-| Call Me Snake | 63.00% | ~2,041 |
-| Something Lurks Under The Hills | 61.00% | ~1,976 |
-| This Was No Papercut | 60.00% | ~1,944 |
+| Call Me Snake | 63.00% | ~2,042 |
+| Something Lurks Under The Hills | 61.00% | ~1,977 |
+| This Was No Papercut | 60.00% | ~1,945 |
 | People Person | 57.00% | ~1,847 |
 | The Shrink Hates Me | 57.00% | ~1,847 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,717 |
-| First Steps Into Madness | 53.00% | ~1,717 |
-| Colonial Barrels | 51.00% | ~1,652 |
-| Harper's Hell | 46.00% | ~1,490 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,718 |
+| First Steps Into Madness | 53.00% | ~1,718 |
+| Colonial Barrels | 51.00% | ~1,653 |
+| Harper's Hell | 46.00% | ~1,491 |
 | Making a Stand | 44.00% | ~1,426 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,361 |
 | Where It All Begun | 40.00% | ~1,296 |
@@ -33,7 +33,7 @@ Rating: 4.49 (Ranked 581)
 | El Riesgo Siempre Vive | 24.00% | ~778 |
 | Stuff Of Nightmares | 23.00% | ~745 |
 | Excavating The Truth | 22.00% | ~713 |
-| Abysmal Horrors | 21.00% | ~680 |
+| Abysmal Horrors | 21.00% | ~681 |
 | One For Every Occasion | 20.00% | ~648 |
 | Frontliner | 20.00% | ~648 |
 | The Cable Guy | 20.00% | ~648 |
@@ -51,7 +51,7 @@ Rating: 4.49 (Ranked 581)
 | Chalk It Up To Experience | 0.80% | ~26 |
 | This Ain't No Picnic | 0.70% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,240 (Ranked 162)  
+Progressed: 3,241 (Ranked 162)  
 Completed: 3 (0.09%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,7 +138,7 @@ Completed: 3 (0.09%) (Ranked 224)
 | 2023-09-09 | 3,234 | 3 |
 | 2023-09-11 | 3,235 | 3 |
 | 2023-09-12 | 3,239 | 3 |
-| 2023-09-13 | 3,240 | 3 |
+| 2023-09-13 | 3,241 | 3 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 480)  
 Sum: 26 (Ranked 490)  

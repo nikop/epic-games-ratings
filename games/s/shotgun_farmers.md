@@ -45,10 +45,10 @@
 | 15 Days | 2.00% | ~6 |
 | Honk Honk | 2.00% | ~6 |
 | Pro Shotgunner | 1.00% | ~3 |
+| King of the Crow | 1.00% | ~2 |
 | Easy Peasy | 1.00% | ~2 |
 | Pro Pyromancer | 0.70% | ~2 |
 | Unstoppable | 0.70% | ~2 |
-| King of the Crow | 0.70% | ~2 |
 | Death From Above | 0.70% | ~2 |
 | Tomassacred | 0.70% | ~2 |
 | 30 Days | 0.40% | ~1 |

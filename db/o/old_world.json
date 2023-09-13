@@ -1689,7 +1689,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13889,
+  "EOS_Progressed": 13890,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -11414,6 +11414,11 @@
       "Time": "2023-09-13T15:09:13.7789953+00:00",
       "NumProgressed": 13889,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T18:08:09.9013137+00:00",
+      "NumProgressed": 13890,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -13519,9 +13524,9 @@
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Turreted Elephant",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -13792,21 +13797,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13889,
+      "Progressed": 13890,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13889,
+      "Progressed": 13890,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-13T01:42:38.525097+00:00",
-  "LastChanged_Achievements": "2023-09-13T17:08:13.2014354+00:00",
+  "LastChanged_Achievements": "2023-09-13T18:08:09.9013133+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-13T16:57:08.2168141+00:00",
-  "LastUpdate_Achievements": "2023-09-13T17:08:13.2022+00:00"
+  "LastUpdate_Ratings": "2023-09-13T17:57:07.3367338+00:00",
+  "LastUpdate_Achievements": "2023-09-13T18:08:09.914959+00:00"
 }

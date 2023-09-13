@@ -45,6 +45,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.50% | ~681 |
 | Fated Encounters | 0.50% | ~681 |
 | For the Hoard! | 0.50% | ~681 |
+| Scrapbooker | 0.50% | ~681 |
 | Power of Love | 0.50% | ~681 |
 | Trash to Treasure | 0.50% | ~681 |
 | Royal Ransom | 0.50% | ~681 |
@@ -61,7 +62,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | The King's Caprice | 0.40% | ~544 |
 | Thirst for Knowledge | 0.40% | ~544 |
 | Booty by the Boatload | 0.40% | ~544 |
-| Scrapbooker | 0.40% | ~544 |
 | Archivist | 0.40% | ~544 |
 | Locally Sourced | 0.40% | ~544 |
 | Flying off the Shelves | 0.40% | ~544 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,120 (Ranked 68)  
+Progressed: 136,122 (Ranked 68)  
 Completed: 150 (0.11%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 150 (0.11%) (Ranked 217)
 | 2023-09-10 | 136,005 | 148 |
 | 2023-09-11 | 136,043 | 149 |
 | 2023-09-12 | 136,088 | 149 |
-| 2023-09-13 | 136,120 | 150 |
+| 2023-09-13 | 136,122 | 150 |
 ## Awards
 Max (Great for Beginners): 4,741  (Ranked 71)  
 Sum: 27,223 (Ranked 48)  

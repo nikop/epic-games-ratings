@@ -30,10 +30,10 @@ Rating: 4.54 (Ranked 502)
 | Anger Management | 0.90% | ~6,113 |
 | Perks of the Job | 0.90% | ~6,113 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,113 |
-| Making Your Mark | 0.80% | ~5,433 |
-| Humanity Distilled | 0.80% | ~5,433 |
-| Down with the Sickness | 0.70% | ~4,754 |
-| Max Headroom | 0.70% | ~4,754 |
+| Making Your Mark | 0.80% | ~5,434 |
+| Humanity Distilled | 0.80% | ~5,434 |
+| Down with the Sickness | 0.70% | ~4,755 |
+| Max Headroom | 0.70% | ~4,755 |
 | Jumbo Keyring | 0.50% | ~3,396 |
 | Go, Bobcats! | 0.50% | ~3,396 |
 | Rising Star | 0.50% | ~3,396 |
@@ -42,16 +42,16 @@ Rating: 4.54 (Ranked 502)
 | Internet Famous | 0.40% | ~2,717 |
 | Make it So | 0.30% | ~2,038 |
 | On Safari | 0.30% | ~2,038 |
+| Gore Horse | 0.30% | ~2,038 |
 | Variety is the Spice of Death | 0.30% | ~2,038 |
 | LA Influential | 0.20% | ~1,358 |
 | Sole Survivor | 0.20% | ~1,358 |
-| Gore Horse | 0.20% | ~1,358 |
 | Sharpest Tool in the Box | 0.20% | ~1,358 |
 | Survival Skills | 0.20% | ~1,358 |
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,179 (Ranked 22)  
+Progressed: 679,218 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
-| 2023-09-13 | 679,179 | 2,143 |
+| 2023-09-13 | 679,218 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,027  (Ranked 57)  
 Sum: 8,921 (Ranked 94)  

@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -200,9 +200,9 @@
       "ID": "ACH_09_RESCUE_DOG",
       "SetID": "9loam6m",
       "Name": "Rescue dog",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_10_DOG_FRIENDS",
@@ -384,9 +384,9 @@
       "ID": "ACH_32_HEART_FOR_ANIMALS",
       "SetID": "9loam6m",
       "Name": "A heart for animals",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_33_LOVELY_VIEW",
@@ -448,9 +448,9 @@
       "ID": "ACH_40_GLOBETROTTER",
       "SetID": "9loam6m",
       "Name": "Globetrotter",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_41_GOLDEN_GLEAM",
@@ -479,8 +479,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-09-13T17:07:35.472017+00:00",
+  "LastChanged_Achievements": "2023-09-13T18:07:33.9821903+00:00",
   "LastUpdate_AppInfo": "2023-09-06T19:57:00.1029938+00:00",
-  "LastUpdate_Ratings": "2023-09-13T17:00:28.2184034+00:00",
-  "LastUpdate_Achievements": "2023-09-13T17:07:35.4720442+00:00"
+  "LastUpdate_Ratings": "2023-09-13T18:00:17.736244+00:00",
+  "LastUpdate_Achievements": "2023-09-13T18:07:33.9822173+00:00"
 }

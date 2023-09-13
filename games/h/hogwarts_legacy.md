@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,516 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,517 |
 | First Class Student | 13.00% | ~38,551 |
 | A Keen Sense of Spell | 12.00% | ~35,586 |
 | Troll with the Punches | 12.00% | ~35,586 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,779 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,546 (Ranked 43)  
+Progressed: 296,547 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,14 +197,14 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-10 | 296,327 | 470 |
 | 2023-09-11 | 296,418 | 470 |
 | 2023-09-12 | 296,501 | 470 |
-| 2023-09-13 | 296,546 | 470 |
+| 2023-09-13 | 296,547 | 470 |
 ## Awards
-Max (Character Customization): 22,582  (Ranked 17)  
-Sum: 43,097 (Ranked 30)  
+Max (Character Customization): 22,630  (Ranked 17)  
+Sum: 43,149 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 22,582 |
+| This game has Inclusive Character Customization | 22,630 |
 | This game has Great Boss Battles | 11,060 |
 | This game is Great for Beginners | 1,063 |
 | This game is Extremely Fun | 1,017 |
@@ -214,7 +214,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 983 |
 | This game is Highly Recommended | 968 |
 | This game has Quickly Understood Controls | 907 |
-| This game has Beautiful Visuals | 842 |
+| This game has Beautiful Visuals | 846 |
 | This game has a Creative Community | 638 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -392,4 +392,4 @@ Diff (max vs sum): -13
 | 2023-09-10 | 4.77 | 22,487 | 42,860 |
 | 2023-09-11 | 4.77 | 22,536 | 42,979 |
 | 2023-09-12 | 4.77 | 22,582 | 43,090 |
-| 2023-09-13 | 4.77 | 22,582 | 43,097 |
+| 2023-09-13 | 4.77 | 22,630 | 43,149 |

@@ -4476,9 +4476,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 679179,
+  "EOS_Progressed": 679218,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 4553,
+  "EOS_NewPlayers": 4560,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20856,6 +20856,11 @@
       "Time": "2023-09-13T17:03:46.8445626+00:00",
       "NumProgressed": 679179,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-13T18:03:57.1172561+00:00",
+      "NumProgressed": 679218,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -20875,7 +20880,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5433
+      "UsersEstimate": 5434
     },
     {
       "ID": "ach_ammo_ran",
@@ -21089,9 +21094,9 @@
       "ID": "ach_magnum_opus",
       "SetID": "7km39fm",
       "Name": "Gore Horse",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1358
+      "UsersEstimate": 2038
     },
     {
       "ID": "ach_metropolitan",
@@ -21107,7 +21112,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5433
+      "UsersEstimate": 5434
     },
     {
       "ID": "ach_revival_tour",
@@ -21123,7 +21128,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "ach_secrets_of_la",
@@ -21163,7 +21168,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4754
+      "UsersEstimate": 4755
     },
     {
       "ID": "ach_the_vcla",
@@ -21226,22 +21231,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 679179,
+      "Progressed": 679218,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 4720,
-      "Completed": 4720
+      "Progressed": 4759,
+      "Completed": 4759
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-13T14:57:52.3638566+00:00",
-  "LastChanged_Achievements": "2023-09-13T17:03:46.8445621+00:00",
+  "LastChanged_Achievements": "2023-09-13T18:03:57.1172554+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-13T16:57:35.5520677+00:00",
-  "LastUpdate_Achievements": "2023-09-13T17:03:46.8446687+00:00"
+  "LastUpdate_Ratings": "2023-09-13T17:57:36.4749356+00:00",
+  "LastUpdate_Achievements": "2023-09-13T18:03:57.1173638+00:00"
 }

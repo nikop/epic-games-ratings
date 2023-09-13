@@ -2,9 +2,9 @@
   "ID": "6a249c368e9a4ad99bbdfe23997f26ba",
   "Name": "Forest Fire",
   "ProductSlug": "forest-fire-b4bb7e",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -216,6 +216,11 @@
       "Time": "2023-09-13T12:05:32.2758974+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T18:06:00.8816685+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-18T00:01:21.9503191+00:00",
@@ -226,7 +231,7 @@
       "ID": "A1",
       "SetID": "7f5j12l",
       "Name": "Level 1 Completed",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -250,7 +255,7 @@
       "ID": "A12",
       "SetID": "7f5j12l",
       "Name": "White House Destroyed",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -258,7 +263,7 @@
       "ID": "A13",
       "SetID": "7f5j12l",
       "Name": "Statue of Liberty Destroyed",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -266,7 +271,7 @@
       "ID": "A14",
       "SetID": "7f5j12l",
       "Name": "Pentagon Destroyed",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -290,7 +295,7 @@
       "ID": "A17",
       "SetID": "7f5j12l",
       "Name": "Shipping Company Destroyed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -298,7 +303,7 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -314,7 +319,7 @@
       "ID": "A2",
       "SetID": "7f5j12l",
       "Name": "Level 2 Completed",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -330,7 +335,7 @@
       "ID": "A21",
       "SetID": "7f5j12l",
       "Name": "Black Flame",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -338,7 +343,7 @@
       "ID": "A22",
       "SetID": "7f5j12l",
       "Name": "Level 5 Completed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -346,7 +351,7 @@
       "ID": "A23",
       "SetID": "7f5j12l",
       "Name": "Pyramids Destroyed",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -362,7 +367,7 @@
       "ID": "A25",
       "SetID": "7f5j12l",
       "Name": "Igloos Destroyed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -394,7 +399,7 @@
       "ID": "A29",
       "SetID": "7f5j12l",
       "Name": "Airport Destroyed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -402,7 +407,7 @@
       "ID": "A3",
       "SetID": "7f5j12l",
       "Name": "Level 3 Completed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -410,7 +415,7 @@
       "ID": "A30",
       "SetID": "7f5j12l",
       "Name": "Munitions Factory Destroyed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -426,7 +431,7 @@
       "ID": "A32",
       "SetID": "7f5j12l",
       "Name": "Main Quest Completed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -450,7 +455,7 @@
       "ID": "A4",
       "SetID": "7f5j12l",
       "Name": "Level 4 Completed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -458,7 +463,7 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -466,7 +471,7 @@
       "ID": "A6",
       "SetID": "7f5j12l",
       "Name": "10M Trees Burnt",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -490,7 +495,7 @@
       "ID": "A9",
       "SetID": "7f5j12l",
       "Name": "10k Humans Killed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 1
     }
@@ -499,14 +504,14 @@
     {
       "ID": "7f5j12l",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-09-13T17:05:58.4160367+00:00",
+  "LastChanged_Achievements": "2023-09-13T18:06:00.8816682+00:00",
   "LastUpdate_AppInfo": "2023-09-12T03:57:05.0237752+00:00",
-  "LastUpdate_Ratings": "2023-09-13T17:00:14.7810769+00:00",
-  "LastUpdate_Achievements": "2023-09-13T17:05:58.41606+00:00"
+  "LastUpdate_Ratings": "2023-09-13T18:00:04.829869+00:00",
+  "LastUpdate_Achievements": "2023-09-13T18:06:00.8816877+00:00"
 }

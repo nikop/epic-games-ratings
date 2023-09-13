@@ -20,7 +20,7 @@ Rating: 4.42 (Ranked 677)
 | Imprisonment | 23.00% | ~657 |
 | Dog Person | 20.00% | ~572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,858 (Ranked 169)  
+Progressed: 2,858 (Ranked 170)  
 Completed: 114 (3.99%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |

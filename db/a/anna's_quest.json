@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -172,9 +172,9 @@
       "ID": "aq_achievement_14",
       "SetID": "7jh86ne",
       "Name": "Show me your true self",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "aq_achievement_15",
@@ -324,9 +324,9 @@
       "ID": "aq_achievement_31",
       "SetID": "7jh86ne",
       "Name": "Bahahahaha...",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "aq_achievement_32",
@@ -340,9 +340,9 @@
       "ID": "aq_achievement_33",
       "SetID": "7jh86ne",
       "Name": "No posters allowed",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "aq_achievement_34",
@@ -453,8 +453,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2023-09-13T17:04:57.3378552+00:00",
+  "LastChanged_Achievements": "2023-09-13T18:05:03.4173786+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:39.1897283+00:00",
-  "LastUpdate_Ratings": "2023-09-13T16:57:57.6894441+00:00",
-  "LastUpdate_Achievements": "2023-09-13T17:04:57.3378815+00:00"
+  "LastUpdate_Ratings": "2023-09-13T17:57:58.2849784+00:00",
+  "LastUpdate_Achievements": "2023-09-13T18:05:03.4174032+00:00"
 }
