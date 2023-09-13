@@ -62,7 +62,7 @@
 | 60 | [ZZT!](games/z/zzt!.md) | 4.11% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.83% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 3.45% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
@@ -92,8 +92,8 @@
 | 90 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.21% |
 | 91 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.20% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
-| 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.13% |
-| 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.08% |
+| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.08% |
+| 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.08% |
 | 95 | [FORECLOSED](games/f/foreclosed.md) | 2.06% |
 | 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.99% |
 | 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
@@ -116,7 +116,7 @@
 | 114 | [Chorus](games/c/chorus.md) | 1.28% |
 | 115 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 116 | [Infindustry](games/i/infindustry.md) | 1.23% |
-| 117 | [Eternights](games/e/eternights.md) | 1.14% |
+| 117 | [Eternights](games/e/eternights.md) | 1.12% |
 | 118 | [Trifox](games/t/trifox.md) | 1.10% |
 | 119 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 120 | [Adios](games/a/adios.md) | 1.03% |
@@ -129,8 +129,8 @@
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
-| 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.86% |
-| 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
+| 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.85% |
+| 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 134 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
@@ -591,4 +591,4 @@
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,227 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,228 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
