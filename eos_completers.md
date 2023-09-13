@@ -9,8 +9,8 @@
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.27% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
-| 10 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.38% |
-| 11 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.22% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.41% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -57,7 +57,7 @@
 | 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.67% |
 | 56 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.62% |
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
-| 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.20% |
+| 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
 | 60 | [ZZT!](games/z/zzt!.md) | 4.12% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
@@ -113,7 +113,7 @@
 | 111 | [Ten Dates](games/t/ten_dates.md) | 1.43% |
 | 112 | [Poosh XL](games/p/poosh_xl.md) | 1.39% |
 | 113 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.36% |
-| 114 | [Eternights](games/e/eternights.md) | 1.32% |
+| 114 | [Eternights](games/e/eternights.md) | 1.30% |
 | 115 | [Chorus](games/c/chorus.md) | 1.28% |
 | 116 | [Late Shift](games/l/late_shift.md) | 1.24% |
 | 117 | [Infindustry](games/i/infindustry.md) | 1.23% |
@@ -128,9 +128,9 @@
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
-| 129 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.87% |
-| 130 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.85% |
-| 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
+| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
+| 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.86% |
+| 131 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 134 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
@@ -174,9 +174,9 @@
 | 172 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
 | 172 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.35% |
 | 172 | [The Surge](games/t/the_surge.md) | 0.35% |
-| 172 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.35% |
-| 176 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
-| 176 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.34% |
+| 175 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.34% |
+| 175 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.34% |
+| 175 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
 | 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
 | 180 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
@@ -591,4 +591,4 @@
 | 273 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 273 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 273 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,223 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,224 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

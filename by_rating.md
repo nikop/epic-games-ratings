@@ -7,17 +7,17 @@
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,257 | 94 |
 | 6 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.91 | 0 | 517 |
 | 6 | [Rain World](games/r/rain_world.md) | 4.91 | 0 | 517 |
+| 8 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.90 | 0 | 517 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 517 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 517 |
 | 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,890 | 111 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 517 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,156 | 41 |
-| 12 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 517 |
-| 12 | [Firework](games/f/firework.md) | 4.89 | 0 | 517 |
-| 12 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 517 |
-| 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 433 | 209 |
-| 12 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 517 |
-| 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,253 | 21 |
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,156 | 41 |
+| 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 517 |
+| 13 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 517 |
+| 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 433 | 209 |
+| 13 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.89 | 0 | 517 |
+| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 18,253 | 21 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 308 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,258 | 78 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 175,533 | 6 |
@@ -411,8 +411,8 @@
 | 394 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 482 | 203 |
 | 394 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 237 | 260 |
 | 394 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 498 |
-| 394 | [Warframe](games/w/warframe.md) | 4.60 | 17,019 | 22 |
-| 394 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 437 | 208 |
+| 394 | [Warframe](games/w/warframe.md) | 4.60 | 17,037 | 22 |
+| 394 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 438 | 208 |
 | 394 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 359 |
 | 394 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 517 |
 | 416 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 45 | 417 |
@@ -496,29 +496,29 @@
 | 484 | [Isonzo](games/i/isonzo.md) | 4.55 | 36 | 441 |
 | 484 | [IXION](games/i/ixion.md) | 4.55 | 0 | 517 |
 | 484 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 34 | 449 |
-| 484 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 935 | 150 |
 | 484 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 92 | 352 |
 | 484 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 517 |
 | 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 348 | 227 |
 | 484 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 366 |
 | 484 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,267 | 134 |
-| 503 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
-| 503 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,428 | 128 |
-| 503 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,016 | 57 |
-| 503 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |
-| 503 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
-| 503 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,346 | 130 |
-| 503 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 517 |
-| 503 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 380 |
-| 503 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 498 |
-| 503 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 517 |
-| 503 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 455 |
-| 503 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 88 | 358 |
-| 503 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 517 |
-| 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 348 |
-| 503 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 517 |
-| 503 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 517 |
-| 503 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 517 |
+| 502 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
+| 502 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,428 | 128 |
+| 502 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,016 | 57 |
+| 502 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |
+| 502 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
+| 502 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,346 | 130 |
+| 502 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 517 |
+| 502 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 380 |
+| 502 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 498 |
+| 502 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 517 |
+| 502 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 935 | 150 |
+| 502 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 455 |
+| 502 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 88 | 358 |
+| 502 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 517 |
+| 502 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 348 |
+| 502 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 517 |
+| 502 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 517 |
+| 502 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 517 |
 | 520 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
 | 520 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 517 |
 | 520 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,897 | 18 |
