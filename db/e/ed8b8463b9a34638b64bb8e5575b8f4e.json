@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -63,9 +63,9 @@
       "ID": "cultipedia",
       "SetID": "7i36ba9",
       "Name": "Cultipedia",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "drowned_sorrows",
@@ -253,8 +253,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2023-09-13T02:18:17.7990696+00:00",
+  "LastChanged_Achievements": "2023-09-13T03:02:39.3520988+00:00",
   "LastUpdate_AppInfo": "2023-09-08T19:57:03.5562653+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:14:45.724117+00:00",
-  "LastUpdate_Achievements": "2023-09-13T02:18:17.7995642+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:59:54.7461877+00:00",
+  "LastUpdate_Achievements": "2023-09-13T03:02:39.3521366+00:00"
 }

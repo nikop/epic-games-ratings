@@ -2026,10 +2026,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2306,
       "NumberOfAwardsMax": 254
+    },
+    {
+      "Time": "2023-09-13T02:57:53.4661738+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2307,
+      "NumberOfAwardsMax": 254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2306,
+  "NumberOfAwards": 2307,
   "NumberOfAwardsMax": 254,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2067,7 +2073,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 214
+      "Count": 215
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2108,7 +2114,7 @@
   ],
   "EOS_Progressed": 25771,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12741,9 +12747,9 @@
       "ID": "Back_Off",
       "SetID": "819popo",
       "Name": "Back Off",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Best_Insurance",
@@ -13093,9 +13099,9 @@
       "ID": "Tobins_Prodigy",
       "SetID": "819popo",
       "Name": "Tobin\u0027s Prodigy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Ultimate_Defense",
@@ -13141,9 +13147,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-09-12T19:57:41.0393423+00:00",
-  "LastChanged_Achievements": "2023-09-13T02:18:25.3457752+00:00",
+  "LastChanged": "2023-09-13T02:57:53.4661736+00:00",
+  "LastChanged_Achievements": "2023-09-13T03:03:09.5625778+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:13:18.9305014+00:00",
-  "LastUpdate_Achievements": "2023-09-13T02:18:25.3458655+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:57:53.4661742+00:00",
+  "LastUpdate_Achievements": "2023-09-13T03:03:09.562753+00:00"
 }

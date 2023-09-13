@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,838 |
+| Sowwy! | 29.00% | ~64,840 |
 | Where's that freaking Dwarf? | 4.00% | ~8,943 |
 | Alt+F4 | 4.00% | ~8,943 |
-| Déjà vu | 3.00% | ~6,707 |
-| Sock! SOCK! | 3.00% | ~6,707 |
+| Déjà vu | 3.00% | ~6,708 |
+| Sock! SOCK! | 3.00% | ~6,708 |
 | Livin' in a dwarven paradise | 2.00% | ~4,472 |
 | Way of the Wimp | 2.00% | ~4,472 |
 | A beer, two curses, three companions | 2.00% | ~4,472 |
@@ -41,9 +41,9 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Fortress | 0.80% | ~1,789 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.70% | ~1,565 |
 | Lust and Debauchery | 0.70% | ~1,565 |
-| Dead for good | 0.60% | ~1,341 |
-| Gargantua | 0.60% | ~1,341 |
-| Material Girl | 0.60% | ~1,341 |
+| Dead for good | 0.60% | ~1,342 |
+| Gargantua | 0.60% | ~1,342 |
+| Material Girl | 0.60% | ~1,342 |
 | In Navalu's footsteps | 0.50% | ~1,118 |
 | We come in peace | 0.40% | ~894 |
 | Lëgal Legend | 0.40% | ~894 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,579 (Ranked 56)  
+Progressed: 223,585 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-10 | 223,093 | 2 |
 | 2023-09-11 | 223,344 | 2 |
 | 2023-09-12 | 223,556 | 2 |
-| 2023-09-13 | 223,579 | 2 |
+| 2023-09-13 | 223,585 | 2 |
 ## Awards
 Max (Character Customization): 194  (Ranked 275)  
 Sum: 309 (Ranked 338)  

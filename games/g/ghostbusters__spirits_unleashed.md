@@ -7,6 +7,7 @@ Rating: 4.50 (Ranked 563)
 | ---- | ---------- | ----- |
 | Advancement | 0.10% | ~26 |
 | Animated | 0.10% | ~26 |
+| Back Off | 0.10% | ~26 |
 | We have the best insurance | 0.10% | ~26 |
 | Catostrophic Destroyer | 0.10% | ~26 |
 | I collect Spores, Molds, and Fungi | 0.10% | ~26 |
@@ -43,10 +44,10 @@ Rating: 4.50 (Ranked 563)
 | Terrifying | 0.10% | ~26 |
 | Therapeutic | 0.10% | ~26 |
 | There you are! | 0.10% | ~26 |
+| Tobin's Prodigy | 0.10% | ~26 |
 | Vaporous Expansion | 0.10% | ~26 |
 | Welcome to the Crew | 0.10% | ~26 |
 | Whoopsie | 0.10% | ~26 |
-| Back Off | 0.00% | ~0 |
 | Clutch Capture | 0.00% | ~0 |
 | Escape Artist | 0.00% | ~0 |
 | Fragile Panes | 0.00% | ~0 |
@@ -54,7 +55,6 @@ Rating: 4.50 (Ranked 563)
 | Mycophile | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |
 | Surprise! | 0.00% | ~0 |
-| Tobin's Prodigy | 0.00% | ~0 |
 | Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25,771 (Ranked 104)  
@@ -206,7 +206,7 @@ Completed: 55 (0.21%) (Ranked 196)
 | 2023-09-13 | 25,771 | 55 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 253)  
-Sum: 2,306 (Ranked 188)  
+Sum: 2,307 (Ranked 188)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -218,8 +218,8 @@ Diff (max vs sum): 65
 | This game is Extremely Fun | 227 |
 | This game is Highly Recommended | 226 |
 | This game is Relaxing | 223 |
+| This game has Quickly Understood Controls | 215 |
 | This game has Amazing Characters | 214 |
-| This game has Quickly Understood Controls | 214 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -382,3 +382,4 @@ Diff (max vs sum): 65
 | 2023-09-10 | 4.50 | 253 | 2,298 |
 | 2023-09-11 | 4.50 | 253 | 2,302 |
 | 2023-09-12 | 4.50 | 254 | 2,306 |
+| 2023-09-13 | 4.50 | 254 | 2,307 |

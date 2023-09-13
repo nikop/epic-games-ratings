@@ -56,7 +56,7 @@ Rating: 4.76 (Ranked 117)
 | Ghost in the Machine | 0.90% | ~1,618 |
 | Proving Grounds | 0.90% | ~1,618 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179,795 (Ranked 64)  
+Progressed: 179,799 (Ranked 64)  
 Completed: 278 (0.15%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 278 (0.15%) (Ranked 206)
 | 2023-09-10 | 178,625 | 270 |
 | 2023-09-11 | 179,222 | 274 |
 | 2023-09-12 | 179,752 | 278 |
-| 2023-09-13 | 179,795 | 278 |
+| 2023-09-13 | 179,799 | 278 |
 ## Awards
 Max (Great Boss Battles): 1,534  (Ranked 121)  
 Sum: 2,995 (Ranked 169)  

@@ -8,23 +8,23 @@ Rating: 4.18 (Ranked 882)
 | First Step Into the Knight | 52.00% | ~37,688 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,367 |
 | Loose Ends | 34.00% | ~24,642 |
-| To the Victor Go the Spoils | 28.00% | ~20,293 |
+| To the Victor Go the Spoils | 28.00% | ~20,294 |
 | Knighthood | 27.00% | ~19,569 |
 | Get ReQ'd | 25.00% | ~18,119 |
 | Whispered Words | 25.00% | ~18,119 |
-| The Batman Family | 23.00% | ~16,669 |
+| The Batman Family | 23.00% | ~16,670 |
 | Lock and Key | 22.00% | ~15,945 |
 | Something in the Clay | 21.00% | ~15,220 |
 | Quartzer Life Crisis | 20.00% | ~14,495 |
 | Working Hard or Harley Working? | 20.00% | ~14,495 |
 | Unstoppable Force | 20.00% | ~14,495 |
 | Bad Apples in Every Orchard | 20.00% | ~14,495 |
-| Snow Problem | 19.00% | ~13,770 |
+| Snow Problem | 19.00% | ~13,771 |
 | The Show Mud Go On | 18.00% | ~13,046 |
 | From Inside Gotham's Walls | 17.00% | ~12,321 |
 | Protector of Gotham | 16.00% | ~11,596 |
 | Universal Health Scare | 16.00% | ~11,596 |
-| In Your Element | 15.00% | ~10,871 |
+| In Your Element | 15.00% | ~10,872 |
 | Rock and a Hard Place | 14.00% | ~10,147 |
 | Cooldown | 14.00% | ~10,147 |
 | Voiceless | 14.00% | ~10,147 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 882)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,476 (Ranked 82)  
+Progressed: 72,477 (Ranked 82)  
 Completed: 113 (0.16%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 113 (0.16%) (Ranked 202)
 | 2023-09-10 | 72,379 | 112 |
 | 2023-09-11 | 72,434 | 112 |
 | 2023-09-12 | 72,474 | 113 |
-| 2023-09-13 | 72,476 | 113 |
+| 2023-09-13 | 72,477 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,648  (Ranked 97)  
 Sum: 4,392 (Ranked 139)  

@@ -7,9 +7,9 @@
 | Iceberg Theory | 80.00% | ~66 |
 | Gear Up | 67.00% | ~56 |
 | A Grand Show | 67.00% | ~56 |
-| Freshen Up | 57.00% | ~47 |
+| Freshen Up | 58.00% | ~48 |
 | GG EZ | 57.00% | ~47 |
-| Hydrophobia | 42.00% | ~35 |
+| Hydrophobia | 43.00% | ~36 |
 | Ka-Ching! | 34.00% | ~28 |
 | Stop Right There | 30.00% | ~25 |
 | Get to the Point | 29.00% | ~24 |
@@ -22,11 +22,11 @@
 | The Abyss Conqueror | 10.00% | ~8 |
 | Keep it Up, rookie! | 8.00% | ~7 |
 | The Fortress Conqueror | 7.00% | ~6 |
+| The Deep Frozen Conqueror | 6.00% | ~5 |
 | he Ultra Fortress Conqueror | 6.00% | ~5 |
 | Antaeus | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
 | The Sunken City Conqueror | 5.00% | ~4 |
-| The Deep Frozen Conqueror | 5.00% | ~4 |
 | The Infinite Train Conqueror | 5.00% | ~4 |
 | The Paradox Coordinate Conqueror | 5.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~4 |

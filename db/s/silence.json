@@ -4,7 +4,7 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 112,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -147,6 +147,11 @@
       "Time": "2023-09-03T10:05:18.0574373+00:00",
       "NumProgressed": 111,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T03:08:22.4661658+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -180,9 +185,9 @@
       "ID": "0000_achv_findbugs",
       "SetID": "dhn82m5",
       "Name": "Quite a buggy game",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -190,7 +195,7 @@
       "Name": "To err is human...",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "0000_achv_kickEverything",
@@ -270,7 +275,7 @@
       "Name": "Shadow on the wall",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "1004_achv_farts",
@@ -316,9 +321,9 @@
       "ID": "1006_achv_fixbomb",
       "SetID": "dhn82m5",
       "Name": "Handyman",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "1006_achv_pacifist",
@@ -326,7 +331,7 @@
       "Name": "Pacifist",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "2001_achv_shrooms",
@@ -358,7 +363,7 @@
       "Name": "Haute cuisine",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "2004_achv_abyss",
@@ -436,9 +441,9 @@
       "ID": "3003_achv_allKyraTexts",
       "SetID": "dhn82m5",
       "Name": "Shut up clown!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "3003_achv_useAllCandlesWithAllObjects",
@@ -446,7 +451,7 @@
       "Name": "Fastidious Clown",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "3004_achv_sneeze",
@@ -460,9 +465,9 @@
       "ID": "3005_achv_getting_rich",
       "SetID": "dhn82m5",
       "Name": "Unfullfilled dreams",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "3011_achv_magicbox",
@@ -516,16 +521,16 @@
       "ID": "4004_achv_mirror",
       "SetID": "dhn82m5",
       "Name": "Mirror mirror on the wall...",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 112,
       "Completed": 0
     }
   ],
@@ -533,8 +538,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-13T02:22:30.4890556+00:00",
+  "LastChanged_Achievements": "2023-09-13T03:08:22.4661651+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:02.5979745+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:13:59.883465+00:00",
-  "LastUpdate_Achievements": "2023-09-13T02:22:30.4890901+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:58:50.4016388+00:00",
+  "LastUpdate_Achievements": "2023-09-13T03:08:22.4662309+00:00"
 }

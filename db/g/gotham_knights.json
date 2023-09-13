@@ -2852,9 +2852,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72476,
+  "EOS_Progressed": 72477,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 1175,
+  "EOS_NewPlayers": 1168,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15267,6 +15267,11 @@
       "Time": "2023-09-13T00:07:20.5081332+00:00",
       "NumProgressed": 72476,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-13T03:07:44.782188+00:00",
+      "NumProgressed": 72477,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15326,7 +15331,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16669
+      "UsersEstimate": 16670
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15366,7 +15371,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 10871
+      "UsersEstimate": 10872
     },
     {
       "ID": "CHALLENGES_1",
@@ -15502,7 +15507,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20293
+      "UsersEstimate": 20294
     },
     {
       "ID": "FREEZE_1_5",
@@ -15518,7 +15523,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13770
+      "UsersEstimate": 13771
     },
     {
       "ID": "FREEZE_3",
@@ -15765,13 +15770,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72476,
+      "Progressed": 72477,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42756,
+      "Progressed": 42757,
       "Completed": 2663
     }
   ],
@@ -15779,8 +15784,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-12T09:58:01.1346988+00:00",
-  "LastChanged_Achievements": "2023-09-13T02:22:03.6353539+00:00",
+  "LastChanged_Achievements": "2023-09-13T03:07:44.7821875+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:13:52.654841+00:00",
-  "LastUpdate_Achievements": "2023-09-13T02:22:03.6354549+00:00"
+  "LastUpdate_Ratings": "2023-09-13T02:58:38.722882+00:00",
+  "LastUpdate_Achievements": "2023-09-13T03:07:44.7823271+00:00"
 }

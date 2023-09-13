@@ -296,9 +296,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107473,
+  "EOS_Progressed": 107474,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -10671,6 +10671,11 @@
       "Time": "2023-09-13T02:22:40.1792571+00:00",
       "NumProgressed": 107473,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2023-09-13T03:08:36.0452851+00:00",
+      "NumProgressed": 107474,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 49,
@@ -10690,7 +10695,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 81679
+      "UsersEstimate": 81680
     },
     {
       "ID": "EAwards_10",
@@ -10754,7 +10759,7 @@
       "Name": "Talented Player",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 38690
+      "UsersEstimate": 38691
     },
     {
       "ID": "EAwards_18",
@@ -10778,7 +10783,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 51587
+      "UsersEstimate": 51588
     },
     {
       "ID": "EAwards_20",
@@ -11073,7 +11078,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 107473,
+      "Progressed": 107474,
       "Completed": 41
     }
   ],
@@ -11081,8 +11086,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-09-10T13:00:54.2635789+00:00",
-  "LastChanged_Achievements": "2023-09-13T02:22:40.1792567+00:00",
+  "LastChanged_Achievements": "2023-09-13T03:08:36.0452843+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.278544+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:15:14.1883805+00:00",
-  "LastUpdate_Achievements": "2023-09-13T02:22:40.1793533+00:00"
+  "LastUpdate_Ratings": "2023-09-13T03:00:38.2161261+00:00",
+  "LastUpdate_Achievements": "2023-09-13T03:08:36.0454952+00:00"
 }
