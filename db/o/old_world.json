@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12975,9 +12975,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 5",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -13805,8 +13805,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-13T01:42:38.525097+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:09:13.7789945+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:09:16.793672+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:57:19.7385578+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:09:13.780051+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:57:18.418595+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:09:16.7951364+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -988,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2837,
+  "EOS_Progressed": 2845,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1293,
+  "EOS_NewPlayers": 1295,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2683,6 +2683,11 @@
       "Time": "2023-09-13T15:06:22.8792858+00:00",
       "NumProgressed": 2837,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T16:06:21.8156966+00:00",
+      "NumProgressed": 2845,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2695,7 +2700,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "a_10",
@@ -2725,9 +2730,9 @@
       "ID": "a_15",
       "SetID": "daiie3o",
       "Name": "Big Money",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 57
     },
     {
       "ID": "a_16",
@@ -2743,7 +2748,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 993
+      "UsersEstimate": 996
     },
     {
       "ID": "a_19",
@@ -2751,7 +2756,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "a_2",
@@ -2759,7 +2764,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "a_20",
@@ -2783,7 +2788,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "a_23",
@@ -2799,7 +2804,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "a_26",
@@ -2909,9 +2914,9 @@
       "ID": "a_6",
       "SetID": "daiie3o",
       "Name": "Gem of Monferrato",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "a_7",
@@ -2942,7 +2947,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2837,
+      "Progressed": 2845,
       "Completed": 5
     }
   ],
@@ -2950,8 +2955,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:06:22.8792848+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:06:21.8156962+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:02:26.3097265+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:06:22.8793227+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:02:36.2921839+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:06:21.8157325+00:00"
 }

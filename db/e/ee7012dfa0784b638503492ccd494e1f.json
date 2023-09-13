@@ -2,10 +2,10 @@
   "ID": "ee7012dfa0784b638503492ccd494e1f",
   "Name": "The 22nd is Serda. f0a178",
   "ProductSlug": "the-22nd-is-serda-f0a178-e66baa",
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-09-06T15:57:07.9406326+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:00:12.2979102+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:05:34.7278682+00:00"
+  "LastUpdate_AppInfo": "2023-09-13T15:57:12.6295668+00:00",
+  "LastUpdate_Ratings": "2023-09-13T16:00:18.4711974+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:05:33.622373+00:00"
 }

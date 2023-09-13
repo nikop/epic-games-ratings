@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 654,
+  "EOS_Progressed": 655,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1710,6 +1710,11 @@
       "Time": "2023-09-11T10:05:05.7471377+00:00",
       "NumProgressed": 654,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-13T16:06:57.0973225+00:00",
+      "NumProgressed": 655,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1769,7 +1774,7 @@
       "Name": "Devoted",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "EyeSpy",
@@ -1919,9 +1924,9 @@
       "ID": "TheGuardian",
       "SetID": "2aagp3d",
       "Name": "Baba Yaga",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 33
     },
     {
       "ID": "ToadCharming",
@@ -1976,7 +1981,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 654,
+      "Progressed": 655,
       "Completed": 1
     }
   ],
@@ -1984,8 +1989,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:06:58.0475085+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:06:57.0973219+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.3416142+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:02:43.8030353+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:06:58.0475465+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:02:52.8151803+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:06:57.0973605+00:00"
 }

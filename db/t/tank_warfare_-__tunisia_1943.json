@@ -2,10 +2,10 @@
   "ID": "5c3b6f137a8e404c8a3c6d0cde8867b6",
   "Name": "Tank Warfare -  Tunisia 1943",
   "ProductSlug": "tank-warfare-tunisia-1943-62f6e9",
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-07-08T05:00:00+00:00",
     "PcReleaseDate": "2017-05-01T04:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-29T13:04:32.8290159+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:59.0446001+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:59:07.7713288+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:06:25.2341881+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:59:14.140201+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:06:24.0007006+00:00"
 }

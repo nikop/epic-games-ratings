@@ -2,10 +2,10 @@
   "ID": "9fce794446ac40aea4c4e3c4cf07c162",
   "Name": "Ugly",
   "ProductSlug": "ugly-da09b2",
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-14T05:00:00+00:00",
     "PcReleaseDate": "2023-09-14T05:00:00+00:00",
@@ -19,26 +19,450 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-09-13T16:03:25.2232448+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-09-13T16:03:25.2232528+00:00",
+  "TotalAchievements": 52,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BOSS_02",
+      "SetID": "35d3i7a",
+      "Name": "Can\u2019t be real.",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_03",
+      "SetID": "35d3i7a",
+      "Name": "Painful image.",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_04",
+      "SetID": "35d3i7a",
+      "Name": "THIS IS NOT ME!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_05",
+      "SetID": "35d3i7a",
+      "Name": "I need to hide myself.",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_06",
+      "SetID": "35d3i7a",
+      "Name": "Who am I?",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOSS_07",
+      "SetID": "35d3i7a",
+      "Name": "This is not me.",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_I",
+      "SetID": "35d3i7a",
+      "Name": "Top secret.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_II",
+      "SetID": "35d3i7a",
+      "Name": "Are you beautiful?",
+      "Percentage": 100,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DEL_III",
+      "SetID": "35d3i7a",
+      "Name": "Precious collar.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_IV",
+      "SetID": "35d3i7a",
+      "Name": "You asked for it.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_IX",
+      "SetID": "35d3i7a",
+      "Name": "I deserve everything.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_V",
+      "SetID": "35d3i7a",
+      "Name": "Dangerous spider.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_VI",
+      "SetID": "35d3i7a",
+      "Name": "Play it again.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_VII",
+      "SetID": "35d3i7a",
+      "Name": "This is my son.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_VIII",
+      "SetID": "35d3i7a",
+      "Name": "Crime and punishment.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_X",
+      "SetID": "35d3i7a",
+      "Name": "Where is my heir?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_XI",
+      "SetID": "35d3i7a",
+      "Name": "You have ruined it.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEL_XII",
+      "SetID": "35d3i7a",
+      "Name": "The rope is the key.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_I",
+      "SetID": "35d3i7a",
+      "Name": "You are so beautiful! I love you.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_II",
+      "SetID": "35d3i7a",
+      "Name": "Not my son!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_III",
+      "SetID": "35d3i7a",
+      "Name": "Sweet nightmares, little caterpillar.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_IV",
+      "SetID": "35d3i7a",
+      "Name": "Your only friend.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_IX",
+      "SetID": "35d3i7a",
+      "Name": "Hot dog.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_V",
+      "SetID": "35d3i7a",
+      "Name": "Put on the mask!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_VI",
+      "SetID": "35d3i7a",
+      "Name": "PUT ON THE MASK!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_VII",
+      "SetID": "35d3i7a",
+      "Name": "PUT ON THE F****** MASK!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_VIII",
+      "SetID": "35d3i7a",
+      "Name": "Bad dog.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_X",
+      "SetID": "35d3i7a",
+      "Name": "You are BEAUTIFUL, she said.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XI",
+      "SetID": "35d3i7a",
+      "Name": "This secret cannot escape!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XII",
+      "SetID": "35d3i7a",
+      "Name": "A strange illness.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XIII",
+      "SetID": "35d3i7a",
+      "Name": "You are UGLY.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XIV",
+      "SetID": "35d3i7a",
+      "Name": "You could be BEAUTIFUL.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XIX",
+      "SetID": "35d3i7a",
+      "Name": "Mass production.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XV",
+      "SetID": "35d3i7a",
+      "Name": "I will make you a REAL prince.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XVI",
+      "SetID": "35d3i7a",
+      "Name": "Now you are ready.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XVII",
+      "SetID": "35d3i7a",
+      "Name": "I like your loneliness.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XVIII",
+      "SetID": "35d3i7a",
+      "Name": "A new hope.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XX",
+      "SetID": "35d3i7a",
+      "Name": "Waiting for my prince.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XXI",
+      "SetID": "35d3i7a",
+      "Name": "Obstetric tenderness.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XXII",
+      "SetID": "35d3i7a",
+      "Name": "Failed attempts.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XXIII",
+      "SetID": "35d3i7a",
+      "Name": "Don\u0027t take off the mask!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XXIV",
+      "SetID": "35d3i7a",
+      "Name": "No one has to love you.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XXV",
+      "SetID": "35d3i7a",
+      "Name": "You\u2019ll wear the mask FOREVER.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEM_XXVI",
+      "SetID": "35d3i7a",
+      "Name": "I\u2019M UGLY!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PART_I",
+      "SetID": "35d3i7a",
+      "Name": "The Dream.",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PART_II",
+      "SetID": "35d3i7a",
+      "Name": "The Nightmare.",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PART_III",
+      "SetID": "35d3i7a",
+      "Name": "The Truth.",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROJ_I",
+      "SetID": "35d3i7a",
+      "Name": "Beauty.",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROJ_II",
+      "SetID": "35d3i7a",
+      "Name": "Putrefaction.",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROJ_III",
+      "SetID": "35d3i7a",
+      "Name": "Safeguard.",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROJ_IV",
+      "SetID": "35d3i7a",
+      "Name": "Obscurity.",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROJ_V",
+      "SetID": "35d3i7a",
+      "Name": "Monster.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "35d3i7a",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:03:16.6526656+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:03:25.2232441+00:00",
   "LastUpdate_AppInfo": "2023-09-13T05:57:11.6579948+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:57:30.365257+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:03:16.6526743+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:57:28.9273528+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:03:25.226682+00:00"
 }

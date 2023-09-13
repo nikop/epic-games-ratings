@@ -6610,10 +6610,10 @@
       "Count": 3413
     }
   ],
-  "EOS_Progressed": 228632,
+  "EOS_Progressed": 228637,
   "EOS_Completed": 2275,
-  "EOS_NewPlayers": 1118,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 1113,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -22775,6 +22775,11 @@
       "Time": "2023-09-13T15:05:41.4062487+00:00",
       "NumProgressed": 228632,
       "NumCompleted": 2275
+    },
+    {
+      "Time": "2023-09-13T16:05:41.023149+00:00",
+      "NumProgressed": 228637,
+      "NumCompleted": 2275
     }
   ],
   "TotalAchievements": 520,
@@ -22920,9 +22925,9 @@
       "ID": "objective_completed_1060",
       "SetID": "415jc5c",
       "Name": "Thieves of the Coven",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 390
     },
     {
       "ID": "objective_completed_1061",
@@ -25944,9 +25949,9 @@
       "ID": "objective_completed_71",
       "SetID": "cc37lbc",
       "Name": "Constant Banditry",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 457
     },
     {
       "ID": "objective_completed_72",
@@ -26945,21 +26950,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194906,
+      "Progressed": 194911,
       "Completed": 3424
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228632,
+      "Progressed": 228637,
       "Completed": 2275
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-13T14:02:34.8948049+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:05:41.4062479+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:05:41.0231482+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:02:45.1034151+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:05:41.4099216+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:02:54.1202408+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:05:41.0276137+00:00"
 }

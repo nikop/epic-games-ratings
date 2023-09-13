@@ -2,10 +2,10 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:07:39.946835+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:07:41.094059+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.7625957+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:57:19.9185711+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:07:39.9468396+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:57:18.6211205+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:07:41.0940627+00:00"
 }

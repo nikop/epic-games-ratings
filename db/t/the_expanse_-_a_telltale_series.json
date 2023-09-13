@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -70,7 +70,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10508,
+  "EOS_Progressed": 10510,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
@@ -5225,6 +5225,11 @@
       "Time": "2023-09-13T15:08:56.0714094+00:00",
       "NumProgressed": 10508,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T16:08:58.490668+00:00",
+      "NumProgressed": 10510,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5253,7 +5258,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "12",
@@ -5277,7 +5282,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "15",
@@ -5285,7 +5290,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "16",
@@ -5325,7 +5330,7 @@
       "Name": "Data Logger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "20",
@@ -5437,7 +5442,7 @@
       "Name": "Data Master",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "6",
@@ -5461,7 +5466,7 @@
       "Name": "Data Recoverer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "9",
@@ -5469,14 +5474,14 @@
       "Name": "Impossible Objects",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3258
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10508,
+      "Progressed": 10510,
       "Completed": 0
     }
   ],
@@ -5484,8 +5489,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:08:56.0714086+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:08:58.4906671+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:58:30.4733614+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:08:56.071513+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:58:34.8494946+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:08:58.4907267+00:00"
 }

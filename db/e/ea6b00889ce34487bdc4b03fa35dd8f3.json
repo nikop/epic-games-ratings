@@ -2,10 +2,10 @@
   "ID": "ea6b00889ce34487bdc4b03fa35dd8f3",
   "Name": "Aerial Platforms",
   "ProductSlug": "aerial-platforms-119f15",
-  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -19,7 +19,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2023-08-24T15:03:36.7500269+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T16:09:35.5621493+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -60,9 +65,9 @@
       "ID": "CompleteFirstLevel",
       "SetID": "dab3ahb",
       "Name": "Getting Started",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DoubleJump",
@@ -133,13 +138,13 @@
     {
       "ID": "dab3ahb",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-16T19:01:22.6123387+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:09:31.735234+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:09:35.5621485+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.1202245+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:59:42.9000401+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:09:31.7352453+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:59:50.1116902+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:09:35.5621618+00:00"
 }

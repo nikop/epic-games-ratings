@@ -10,18 +10,18 @@ Rating: 4.68 (Ranked 242)
 | Devil's in the details | 15.00% | ~98 |
 | Uprooting | 14.00% | ~92 |
 | Forbidden techniques | 13.00% | ~85 |
-| Devoted | 10.00% | ~65 |
+| Devoted | 10.00% | ~66 |
 | Slavic squatter | 9.00% | ~59 |
 | Spirit animal | 8.00% | ~52 |
 | Gold rush | 7.00% | ~46 |
 | A friend in need... | 6.00% | ~39 |
-| Baba Yaga | 6.00% | ~39 |
 | Extensive retelling | 5.00% | ~33 |
 | Sneak peek | 5.00% | ~33 |
 | Fishing fanatic | 5.00% | ~33 |
 | The word around is... | 5.00% | ~33 |
 | Liar Liar | 5.00% | ~33 |
 | The cycle acknowledged | 5.00% | ~33 |
+| Baba Yaga | 5.00% | ~33 |
 | Favorite | 4.00% | ~26 |
 | Queen | 4.00% | ~26 |
 | Specialist | 4.00% | ~26 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 242)
 | Mushrooming enthusiast | 0.60% | ~4 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 654 (Ranked 230)  
+Progressed: 655 (Ranked 230)  
 Completed: 1 (0.15%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 1 (0.15%) (Ranked 208)
 | 2023-09-08 | 652 | 1 |
 | 2023-09-10 | 653 | 1 |
 | 2023-09-11 | 654 | 1 |
+| 2023-09-13 | 655 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

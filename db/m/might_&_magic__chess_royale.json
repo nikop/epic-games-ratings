@@ -2,20 +2,20 @@
   "ID": "82225e5cb4714006b335a50d840208c6",
   "Name": "Might \u0026 Magic: Chess Royale",
   "ProductSlug": "might-and-magic-chess-royale",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 266,
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 238,
   "RatingHistory": [
     {
@@ -869,6 +869,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 803,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2023-09-13T15:59:39.2594032+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 803,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
@@ -954,8 +960,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
-  "LastChanged": "2023-09-10T15:57:30.5294891+00:00",
+  "LastChanged": "2023-09-13T15:59:39.259403+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:34.6009481+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:59:31.5595116+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:05:14.3869944+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:59:39.2594036+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:05:12.5487254+00:00"
 }

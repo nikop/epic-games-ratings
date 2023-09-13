@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231716,
+  "EOS_Progressed": 231717,
   "EOS_Completed": 47,
   "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 0,
@@ -15703,6 +15703,11 @@
       "Time": "2023-09-13T15:04:35.7294028+00:00",
       "NumProgressed": 231716,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-09-13T16:04:34.5957374+00:00",
+      "NumProgressed": 231717,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 34,
@@ -15730,7 +15735,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 64880
+      "UsersEstimate": 64881
     },
     {
       "ID": "CENTAUR",
@@ -15794,7 +15799,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6951
+      "UsersEstimate": 6952
     },
     {
       "ID": "GT9STRADALE",
@@ -15850,7 +15855,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 76466
+      "UsersEstimate": 76467
     },
     {
       "ID": "NOBUNAGA",
@@ -15874,7 +15879,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20854
+      "UsersEstimate": 20855
     },
     {
       "ID": "PHOTOFINISH",
@@ -15985,15 +15990,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 231716,
+      "Progressed": 231717,
       "Completed": 47
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:04:35.7294016+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:04:34.5957359+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:26.5254322+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:57:37.8079863+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:04:35.7296129+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:57:38.8896693+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:04:34.5958565+00:00"
 }

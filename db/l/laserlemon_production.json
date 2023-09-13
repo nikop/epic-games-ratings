@@ -1,10 +1,10 @@
 {
   "ID": "4f0c540d1d15442a964e199cf1f6e620",
   "Name": "laserlemon Production",
-  "Ranking_EOS_Progress": 481,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -14,9 +14,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -53,6 +53,11 @@
     {
       "Time": "2023-09-11T07:05:26.6490999+00:00",
       "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T16:06:05.8105559+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -96,7 +101,7 @@
       "ID": "FunAndGamesAhead",
       "SetID": "c36hpcf",
       "Name": "Fun and Games Ahead",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -104,7 +109,7 @@
       "ID": "Glissando",
       "SetID": "c36hpcf",
       "Name": "Six\u0027s Song",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -120,7 +125,7 @@
       "ID": "HighlySprung",
       "SetID": "c36hpcf",
       "Name": "Highly Sprung",
-      "Percentage": 86,
+      "Percentage": 75,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -184,7 +189,7 @@
       "ID": "SoClose",
       "SetID": "c36hpcf",
       "Name": "So Close",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -192,7 +197,7 @@
       "ID": "TheGuestArea",
       "SetID": "c36hpcf",
       "Name": "The Guest Area",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -216,7 +221,7 @@
       "ID": "TheLair",
       "SetID": "c36hpcf",
       "Name": "The Lair",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -224,7 +229,7 @@
       "ID": "ThePrison",
       "SetID": "c36hpcf",
       "Name": "The Prison",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -232,7 +237,7 @@
       "ID": "WellMeetAgain",
       "SetID": "c36hpcf",
       "Name": "We\u0027ll Meet Again",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 1
     }
@@ -241,13 +246,13 @@
     {
       "ID": "c36hpcf",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:06:06.4080805+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:06:05.8105549+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:00:51.1062888+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:06:06.408099+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:01:02.1731225+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:06:05.810576+00:00"
 }

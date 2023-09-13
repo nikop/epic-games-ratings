@@ -5,7 +5,7 @@ Rating: 4.79 (Ranked 88)
 Number of Ratings: 165  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 55  (Ranked 395)  
-Sum: 380 (Ranked 323)  
+Sum: 381 (Ranked 323)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +20,7 @@ Diff (max vs sum): 72
 | This game has Quickly Understood Controls | 31 |
 | This game has Competitive Players | 28 |
 | This game has Unique Visuals | 26 |
-| This game has a Creative Community | 20 |
+| This game has a Creative Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -194,4 +194,4 @@ Diff (max vs sum): 72
 | 2023-09-08 | 4.79 | - | 55 | 374 |
 | 2023-09-09 | 4.79 | - | 55 | 375 |
 | 2023-09-10 | 4.79 | - | 55 | 378 |
-| 2023-09-13 | 4.79 | - | 55 | 380 |
+| 2023-09-13 | 4.79 | - | 55 | 381 |

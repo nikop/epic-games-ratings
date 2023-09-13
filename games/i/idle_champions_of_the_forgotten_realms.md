@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Legends and Lore | 0.30% | ~585 |
 | Tall Tales | 0.20% | ~390 |
 | The Witchlight Carnival | 0.20% | ~390 |
+| Thieves of the Coven | 0.20% | ~390 |
 | The Silken Swamp | 0.20% | ~457 |
 | Supply Run | 0.20% | ~457 |
 | Vecna Lives! | 0.20% | ~390 |
@@ -53,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~457 |
 | Escort to Waterdeep | 0.20% | ~457 |
 | The Giant's Bane Tavern | 0.20% | ~390 |
+| Constant Banditry | 0.20% | ~457 |
 | Waterdeep Detours | 0.20% | ~457 |
 | Underdeep Cartography | 0.20% | ~457 |
 | Overdue Rendezvous | 0.20% | ~457 |
@@ -71,7 +73,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Monarch Among Us | 0.10% | ~195 |
 | A Dragon Against Us | 0.10% | ~195 |
 | A Familiar Behind Us | 0.10% | ~195 |
-| Thieves of the Coven | 0.10% | ~195 |
 | Sticky Fingers | 0.10% | ~195 |
 | Patron Party | 0.10% | ~195 |
 | Go Fourth | 0.10% | ~195 |
@@ -409,7 +410,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~195 |
 | Only Human | 0.10% | ~195 |
 | Close Escort | 0.10% | ~229 |
-| Constant Banditry | 0.10% | ~229 |
 | The Long Haul | 0.10% | ~229 |
 | Lost in the Deep | 0.10% | ~229 |
 | Easily Distracted | 0.10% | ~229 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,632 (Ranked 54)  
+Progressed: 228,637 (Ranked 54)  
 Completed: 2,275 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -673,7 +673,7 @@ Completed: 2,275 (1.00%) (Ranked 123)
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
-| 2023-09-13 | 228,632 | 2,275 |
+| 2023-09-13 | 228,637 | 2,275 |
 ## Awards
 Max (Diverse Characters): 5,266  (Ranked 67)  
 Sum: 31,561 (Ranked 39)  

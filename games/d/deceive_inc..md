@@ -5,13 +5,13 @@ Rating: 4.55 (Ranked 484)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 29.00% | ~5,212 |
-| Mainframe Hacker | 23.00% | ~4,134 |
-| The Spy who eliminated me | 23.00% | ~4,134 |
-| Tomorrow Never Dyes | 22.00% | ~3,954 |
-| Never Say Loser Again | 19.00% | ~3,415 |
-| From the Vault with Love | 18.00% | ~3,235 |
-| For your Eyes only | 18.00% | ~3,235 |
+| On Deceive Inc.'s Secret Service | 29.00% | ~5,213 |
+| Mainframe Hacker | 23.00% | ~4,135 |
+| The Spy who eliminated me | 23.00% | ~4,135 |
+| Tomorrow Never Dyes | 22.00% | ~3,955 |
+| Never Say Loser Again | 19.00% | ~3,416 |
+| From the Vault with Love | 18.00% | ~3,236 |
+| For your Eyes only | 18.00% | ~3,236 |
 | Assistant Accountant | 17.00% | ~3,056 |
 | Tailor-Made | 17.00% | ~3,056 |
 | You Only Live Twice | 16.00% | ~2,876 |
@@ -24,16 +24,16 @@ Rating: 4.55 (Ranked 484)
 | My Motto, My Creed | 11.00% | ~1,977 |
 | Killer Looks | 11.00% | ~1,977 |
 | Hostile Takeover | 11.00% | ~1,977 |
-| Keycards Royale | 10.00% | ~1,797 |
+| Keycards Royale | 10.00% | ~1,798 |
 | In It to Win It | 9.00% | ~1,618 |
-| Security Supervisor | 6.00% | ~1,078 |
+| Security Supervisor | 6.00% | ~1,079 |
 | License to Thrill | 5.00% | ~899 |
 | Social of Solace | 3.00% | ~539 |
 | Live and let lie | 3.00% | ~539 |
 | Safe Withdrawal | 3.00% | ~539 |
-| Branch Manager | 2.00% | ~359 |
-| Call Me Maybe | 2.00% | ~359 |
-| PHD in VIP | 2.00% | ~359 |
+| Branch Manager | 2.00% | ~360 |
+| Call Me Maybe | 2.00% | ~360 |
+| PHD in VIP | 2.00% | ~360 |
 | The terminals are not enough | 1.00% | ~180 |
 | Lose Another Day | 1.00% | ~180 |
 | Chairman of Deceive Inc. | 0.90% | ~162 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 484)
 | Extraction Confusion | 0.20% | ~36 |
 | Spyfall | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,974 (Ranked 115)  
+Progressed: 17,977 (Ranked 115)  
 Completed: 3 (0.02%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 3 (0.02%) (Ranked 252)
 | 2023-09-10 | 17,951 | 3 |
 | 2023-09-11 | 17,961 | 3 |
 | 2023-09-12 | 17,973 | 3 |
-| 2023-09-13 | 17,974 | 3 |
+| 2023-09-13 | 17,977 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

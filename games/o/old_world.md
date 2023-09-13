@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.40% | ~56 |
 | Glorious Difficulty | 0.40% | ~56 |
 | The Eternal Treaty | 0.40% | ~56 |
+| Learn to Play 5 | 0.40% | ~56 |
 | Persia | 0.40% | ~56 |
 | Capturing Cities | 0.40% | ~56 |
 | Ten Crowns | 0.40% | ~56 |
@@ -159,7 +160,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.30% | ~42 |
 | Run, Pheidippides, Run! | 0.30% | ~42 |
 | Nenikekamen | 0.30% | ~42 |
-| Learn to Play 5 | 0.30% | ~42 |
 | Hatti | 0.30% | ~42 |
 | Pantheon of Gods | 0.30% | ~42 |
 | Apadana in Parsa | 0.30% | ~42 |

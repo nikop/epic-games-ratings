@@ -2464,9 +2464,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 1042330,
+  "EOS_Progressed": 1042346,
   "EOS_Completed": 419,
-  "EOS_NewPlayers": 3278,
+  "EOS_NewPlayers": 3279,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18774,6 +18774,11 @@
       "Time": "2023-09-13T15:06:42.1412753+00:00",
       "NumProgressed": 1042330,
       "NumCompleted": 419
+    },
+    {
+      "Time": "2023-09-13T16:06:41.4802774+00:00",
+      "NumProgressed": 1042346,
+      "NumCompleted": 419
     }
   ],
   "TotalAchievements": 37,
@@ -18785,7 +18790,7 @@
       "Name": "Ghostbuster",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 343969
+      "UsersEstimate": 343974
     },
     {
       "ID": "CompleteAustralia",
@@ -18809,7 +18814,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 72963
+      "UsersEstimate": 72964
     },
     {
       "ID": "CompleteChile",
@@ -18977,7 +18982,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 114656
+      "UsersEstimate": 114658
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -18985,7 +18990,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 938097
+      "UsersEstimate": 938111
     },
     {
       "ID": "GetLotsOfScore",
@@ -19017,7 +19022,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 489895
+      "UsersEstimate": 489903
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -19025,7 +19030,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 177196
+      "UsersEstimate": 177199
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -19049,7 +19054,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 656668
+      "UsersEstimate": 656678
     },
     {
       "ID": "WinBySmallDifference",
@@ -19057,7 +19062,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 187619
+      "UsersEstimate": 187622
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -19073,22 +19078,22 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 52116
+      "UsersEstimate": 52117
     }
   ],
   "AchievementSets": [
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1042330,
+      "Progressed": 1042346,
       "Completed": 419
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2023-09-12T23:01:10.34328+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:06:42.1412737+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:06:41.4802769+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:18.5698142+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:02:23.274646+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:06:42.1415159+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:02:33.3089998+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:06:41.4804154+00:00"
 }

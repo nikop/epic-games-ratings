@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1304,9 +1304,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427963,
+  "EOS_Progressed": 427967,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -11299,6 +11299,11 @@
       "Time": "2023-09-13T10:05:23.4809774+00:00",
       "NumProgressed": 427963,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-09-13T16:05:52.0116039+00:00",
+      "NumProgressed": 427967,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 41,
@@ -11310,7 +11315,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64194
+      "UsersEstimate": 64195
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -11318,7 +11323,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 166906
+      "UsersEstimate": 166907
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -11326,7 +11331,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256778
+      "UsersEstimate": 256780
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -11334,7 +11339,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124109
+      "UsersEstimate": 124110
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -11342,7 +11347,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106991
+      "UsersEstimate": 106992
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -11350,7 +11355,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 179744
+      "UsersEstimate": 179746
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -11358,7 +11363,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111270
+      "UsersEstimate": 111271
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -11366,7 +11371,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128389
+      "UsersEstimate": 128390
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -11390,7 +11395,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256778
+      "UsersEstimate": 256780
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -11398,7 +11403,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124109
+      "UsersEstimate": 124110
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -11422,7 +11427,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132669
+      "UsersEstimate": 132670
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -11430,7 +11435,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111270
+      "UsersEstimate": 111271
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -11446,7 +11451,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201143
+      "UsersEstimate": 201144
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -11454,7 +11459,7 @@
       "Name": "Curse Collector",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29957
+      "UsersEstimate": 29958
     },
     {
       "ID": "ACH_DIFFICULTY_MASTER",
@@ -11478,7 +11483,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406565
+      "UsersEstimate": 406569
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -11494,7 +11499,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308133
+      "UsersEstimate": 308136
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -11502,7 +11507,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 158346
+      "UsersEstimate": 158348
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -11510,7 +11515,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 295294
+      "UsersEstimate": 295297
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -11518,7 +11523,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111270
+      "UsersEstimate": 111271
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -11526,7 +11531,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 342370
+      "UsersEstimate": 342374
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -11534,7 +11539,7 @@
       "Name": "The Last Stop",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29957
+      "UsersEstimate": 29958
     },
     {
       "ID": "ACH_MEDITATION_ALL",
@@ -11550,7 +11555,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68474
+      "UsersEstimate": 68475
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -11558,7 +11563,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 196863
+      "UsersEstimate": 196865
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -11566,7 +11571,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141228
+      "UsersEstimate": 141229
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -11574,7 +11579,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115550
+      "UsersEstimate": 115551
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -11582,7 +11587,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115550
+      "UsersEstimate": 115551
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -11590,7 +11595,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 239659
+      "UsersEstimate": 239662
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -11598,7 +11603,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 184024
+      "UsersEstimate": 184026
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -11606,7 +11611,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 145507
+      "UsersEstimate": 145509
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -11614,7 +11619,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115550
+      "UsersEstimate": 115551
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -11622,7 +11627,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132669
+      "UsersEstimate": 132670
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -11637,15 +11642,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427963,
+      "Progressed": 427967,
       "Completed": 530
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-10T15:01:55.9798538+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:05:52.9594007+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:05:52.0116029+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:53.3816674+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:58:09.4812645+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:05:52.9594994+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:58:11.9557603+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:05:52.0117038+00:00"
 }

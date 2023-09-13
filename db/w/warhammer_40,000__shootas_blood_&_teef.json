@@ -2,10 +2,10 @@
   "ID": "1ce33fc55a8c4363aaf65227c93185fa",
   "Name": "Warhammer 40,000: Shootas Blood \u0026 Teef",
   "ProductSlug": "warhammer-40000-shootas-blood-and-teef-fcb4ef",
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2099-10-20T15:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.5850764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.0122241+00:00",
   "LastChanged": "2023-03-31T05:58:34.5850765+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:06:40.9079486+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:06:40.3249456+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:12.2673641+00:00",
-  "LastUpdate_Ratings": "2023-09-13T15:02:03.1166112+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:06:40.9079522+00:00"
+  "LastUpdate_Ratings": "2023-09-13T16:02:13.2824543+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:06:40.3249503+00:00"
 }

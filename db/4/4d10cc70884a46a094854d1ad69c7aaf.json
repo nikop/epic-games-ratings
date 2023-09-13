@@ -2,10 +2,10 @@
   "ID": "4d10cc70884a46a094854d1ad69c7aaf",
   "Name": "Sweet Dreams Alex",
   "ProductSlug": "sweet-dreams-alex-7c602d",
-  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -25,9 +25,267 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-13T16:03:30.3811435+00:00",
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ALL_CONSTELLATIONS_DAYS_AT_THE_MALL",
+      "SetID": "cf4lpdl",
+      "Name": "More secret stores!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_CONSTELLATIONS_GAME",
+      "SetID": "cf4lpdl",
+      "Name": "Exploring everything!",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_CONSTELLATIONS_GROWING_UP",
+      "SetID": "cf4lpdl",
+      "Name": "Growing up!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_CONSTELLATIONS_MOVING_IN",
+      "SetID": "cf4lpdl",
+      "Name": "Finally unpacked!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_CONSTELLATIONS_OCEAN_MUSEUM",
+      "SetID": "cf4lpdl",
+      "Name": "Studying is hard!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_CONSTELLATIONS_OUR_PLAYGROUND",
+      "SetID": "cf4lpdl",
+      "Name": "I can see everything!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_CONSTELLATIONS_SPACEGIRL_SAM",
+      "SetID": "cf4lpdl",
+      "Name": "Every episode!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_CONSTELLATIONS_STREETS",
+      "SetID": "cf4lpdl",
+      "Name": "Always careful!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_DIARY_ENTRIES",
+      "SetID": "cf4lpdl",
+      "Name": "Thanks for everything!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_GOOD_DREAMS_DAYS_AT_THE_MALL",
+      "SetID": "cf4lpdl",
+      "Name": "Fun!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_GOOD_DREAMS_DAYS_GROWING_UP",
+      "SetID": "cf4lpdl",
+      "Name": "Happy!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_GOOD_DREAMS_GAME",
+      "SetID": "cf4lpdl",
+      "Name": "Restful nights!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_GOOD_DREAMS_MOVING_IN",
+      "SetID": "cf4lpdl",
+      "Name": "Energized!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_GOOD_DREAMS_OCEAN_MUSEUM",
+      "SetID": "cf4lpdl",
+      "Name": "Cool!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_GOOD_DREAMS_OUR_PLAYGROUND",
+      "SetID": "cf4lpdl",
+      "Name": "Friends!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_GOOD_DREAMS_SPACEGIRL_SAM",
+      "SetID": "cf4lpdl",
+      "Name": "Brave!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_GOOD_DREAMS_STREETS",
+      "SetID": "cf4lpdl",
+      "Name": "Treats!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_LEVELS_GAME",
+      "SetID": "cf4lpdl",
+      "Name": "Great work!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_LEVELS_MAIN_DAYS_AT_THE_MALL",
+      "SetID": "cf4lpdl",
+      "Name": "We saw so much!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_LEVELS_MAIN_GROWING_UP",
+      "SetID": "cf4lpdl",
+      "Name": "We had so much fun!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_LEVELS_MAIN_MOVING_IN",
+      "SetID": "cf4lpdl",
+      "Name": "We moved in!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_LEVELS_MAIN_OCEAN_MUSEUM",
+      "SetID": "cf4lpdl",
+      "Name": "We learned a lot!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_LEVELS_MAIN_OUR_PLAYGROUND",
+      "SetID": "cf4lpdl",
+      "Name": "We made a friend!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_LEVELS_MAIN_SPACEGIRL_SAM",
+      "SetID": "cf4lpdl",
+      "Name": "We did it!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_LEVELS_MAIN_STREETS",
+      "SetID": "cf4lpdl",
+      "Name": "We got a cat!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CLOSE_ONE",
+      "SetID": "cf4lpdl",
+      "Name": "Close one!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CREATE_CUSTOM_LEVEL",
+      "SetID": "cf4lpdl",
+      "Name": "From scratch!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CUSTOMIZE_ALEX",
+      "SetID": "cf4lpdl",
+      "Name": "New PJ\u0027s!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DECORATE",
+      "SetID": "cf4lpdl",
+      "Name": "Decorating!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_IMPORT_CUSTOM_LEVEL",
+      "SetID": "cf4lpdl",
+      "Name": "Interoffice communications!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PET_LOLA",
+      "SetID": "cf4lpdl",
+      "Name": "Purr!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PET_LOLA_X10",
+      "SetID": "cf4lpdl",
+      "Name": "Purrrrrrrr!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "cf4lpdl",
@@ -37,8 +295,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-12T15:07:56.0598739+00:00",
-  "LastChanged_Achievements": "2023-09-13T15:03:21.7408136+00:00",
+  "LastChanged_Achievements": "2023-09-13T16:03:30.3811383+00:00",
   "LastUpdate_AppInfo": "2023-09-12T13:01:55.0325751+00:00",
-  "LastUpdate_Ratings": "2023-09-13T14:58:28.2743447+00:00",
-  "LastUpdate_Achievements": "2023-09-13T15:03:21.7408205+00:00"
+  "LastUpdate_Ratings": "2023-09-13T15:58:32.6450939+00:00",
+  "LastUpdate_Achievements": "2023-09-13T16:03:30.3829334+00:00"
 }
