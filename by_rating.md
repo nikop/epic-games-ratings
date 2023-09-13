@@ -25,7 +25,7 @@
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 498 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 284 | 243 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,439 | 126 |
-| 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 722 | 166 |
+| 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 723 | 166 |
 | 24 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.87 | 0 | 517 |
 | 24 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,025 | 143 |
 | 24 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 517 |
@@ -140,7 +140,7 @@
 | 136 | [Diabotical](games/d/diabotical.md) | 4.75 | 277 | 247 |
 | 136 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 696 | 168 |
 | 136 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 517 |
-| 136 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 594 | 187 |
+| 136 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 598 | 187 |
 | 136 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 517 |
 | 136 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 517 |
 | 136 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 517 |
@@ -148,7 +148,7 @@
 | 145 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 45 | 417 |
 | 145 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 810 | 157 |
 | 145 | [Haven](games/h/haven.md) | 4.74 | 0 | 517 |
-| 145 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 11,513 | 32 |
+| 145 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 11,627 | 32 |
 | 145 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 687 | 171 |
 | 145 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.74 | 0 | 517 |
 | 145 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,075 | 50 |
@@ -198,7 +198,7 @@
 | 188 | [shapez](games/s/shapez.md) | 4.71 | 0 | 517 |
 | 188 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 81 | 361 |
 | 188 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 517 |
-| 188 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,881 | 112 |
+| 188 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,886 | 112 |
 | 188 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 517 |
 | 188 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 517 |
 | 202 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,575 | 73 |
@@ -209,7 +209,7 @@
 | 202 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 517 |
 | 202 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 52 | 401 |
 | 202 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,319 | 132 |
-| 202 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,881 | 112 |
+| 202 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,881 | 113 |
 | 202 | [Northgard](games/n/northgard.md) | 4.70 | 30 | 465 |
 | 202 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 47 | 411 |
 | 202 | [The Witness](games/t/the_witness.md) | 4.70 | 181 | 283 |
@@ -277,7 +277,7 @@
 | 260 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 517 |
 | 260 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 517 |
 | 260 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 90 | 356 |
-| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,305 | 92 |
+| 260 | [Trackmania](games/t/trackmania.md) | 4.67 | 3,315 | 92 |
 | 260 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 22 | 498 |
 | 260 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 517 |
 | 281 | [Coromon](games/c/coromon.md) | 4.66 | 41 | 425 |
@@ -708,7 +708,7 @@
 | 688 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,206 | 106 |
 | 688 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.41 | 0 | 517 |
 | 688 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.41 | 175 | 286 |
-| 688 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 562 | 193 |
+| 688 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 563 | 193 |
 | 688 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 517 |
 | 688 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,320 | 131 |
 | 712 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 517 |
@@ -981,8 +981,8 @@
 | 979 | [To The Rescue](games/t/to_the_rescue.md) | 3.77 | 0 | 517 |
 | 979 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.77 | 0 | 517 |
 | 981 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 517 |
-| 982 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 517 |
-| 983 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.66 | 0 | 517 |
+| 982 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.69 | 0 | 517 |
+| 983 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 517 |
 | 984 | [Adios](games/a/adios.md) | 3.58 | 0 | 517 |
 | 985 | [Spelldrifter](games/s/spelldrifter.md) | 3.56 | 0 | 517 |
 | 986 | [Redfall](games/r/redfall.md) | 3.52 | 0 | 517 |

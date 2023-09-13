@@ -31,7 +31,7 @@
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,672 | 4.36 | 746 |
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,476 | 4.86 | 31 |
 | 31 | [NBA 2K21](games/n/nba_2k21.md) | 11,757 | 4.39 | 721 |
-| 32 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 11,513 | 4.74 | 145 |
+| 32 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 11,627 | 4.74 | 145 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 11,472 | 4.88 | 19 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,463 | 4.45 | 639 |
 | 35 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,417 | 4.69 | 216 |
@@ -91,7 +91,7 @@
 | 89 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,501 | 4.68 | 242 |
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,347 | 4.68 | 242 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,330 | 4.76 | 117 |
-| 92 | [Trackmania](games/t/trackmania.md) | 3,305 | 4.67 | 260 |
+| 92 | [Trackmania](games/t/trackmania.md) | 3,315 | 4.67 | 260 |
 | 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,261 | 4.57 | 450 |
 | 94 | [Hades](games/h/hades.md) | 3,259 | 4.92 | 4 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,750 | 4.51 | 547 |
@@ -111,8 +111,8 @@
 | 109 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,990 | 4.49 | 581 |
 | 110 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,916 | 4.66 | 281 |
 | 111 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,891 | 4.90 | 8 |
-| 112 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,881 | 4.70 | 202 |
-| 112 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,881 | 4.71 | 188 |
+| 112 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,886 | 4.71 | 188 |
+| 113 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,881 | 4.70 | 202 |
 | 114 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,800 | 4.56 | 468 |
 | 115 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,776 | 4.57 | 450 |
 | 116 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,775 | 4.63 | 332 |
@@ -165,7 +165,7 @@
 | 163 | [Core](games/c/core.md) | 749 | 4.36 | 746 |
 | 164 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 740 | 4.60 | 394 |
 | 165 | [Neverwinter](games/n/neverwinter.md) | 728 | 4.29 | 806 |
-| 166 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 722 | 4.87 | 24 |
+| 166 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 723 | 4.87 | 24 |
 | 167 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 712 | 4.59 | 416 |
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 696 | 4.75 | 136 |
 | 168 | [Subnautica](games/s/subnautica.md) | 696 | 4.85 | 43 |
@@ -186,13 +186,13 @@
 | 184 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 609 | 4.24 | 842 |
 | 185 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 606 | 4.73 | 162 |
 | 185 | [Train Valley 2](games/t/train_valley_2.md) | 606 | 4.42 | 677 |
-| 187 | [Riders Republic](games/r/riders_republic.md) | 594 | 4.75 | 136 |
+| 187 | [Riders Republic](games/r/riders_republic.md) | 598 | 4.75 | 136 |
 | 188 | [Star Trek Online](games/s/star_trek_online.md) | 582 | 4.44 | 648 |
 | 189 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 576 | 4.38 | 728 |
 | 190 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 573 | 4.62 | 353 |
 | 191 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 565 | 4.68 | 242 |
 | 191 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 565 | 4.66 | 281 |
-| 193 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 562 | 4.41 | 688 |
+| 193 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 563 | 4.41 | 688 |
 | 194 | [Filament](games/f/filament.md) | 561 | 4.32 | 782 |
 | 195 | [Vampyr](games/v/vampyr.md) | 558 | 4.32 | 782 |
 | 196 | [Godfall Ultimate Edition](games/g/godfall.md) | 542 | 4.07 | 929 |

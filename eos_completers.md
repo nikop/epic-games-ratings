@@ -3,14 +3,14 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 37.71% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.14% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.27% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.67% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.37% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.22% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.07% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.41% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -48,7 +48,7 @@
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.86% |
 | 48 | [JARS](games/j/jars.md) | 5.80% |
-| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.46% |
+| 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.45% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
 | 52 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.00% |
@@ -120,15 +120,15 @@
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 119 | [Adios](games/a/adios.md) | 1.03% |
 | 120 | [A Musical Story](games/a/a_musical_story.md) | 1.02% |
-| 120 | [Eternights](games/e/eternights.md) | 1.02% |
-| 122 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
-| 123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
-| 123 | [Sable](games/s/sable.md) | 1.00% |
+| 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
+| 122 | [Eternights](games/e/eternights.md) | 1.00% |
+| 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
+| 122 | [Sable](games/s/sable.md) | 1.00% |
 | 125 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
-| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.90% |
+| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
 | 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.85% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
@@ -178,8 +178,8 @@
 | 175 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
 | 177 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.33% |
 | 178 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 178 | [The Devil's Face](games/t/the_devil's_face.md) | 0.32% |
-| 180 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 179 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.31% |
+| 179 | [The Devil's Face](games/t/the_devil's_face.md) | 0.31% |
 | 181 | [The First Tree](games/t/the_first_tree.md) | 0.30% |
 | 182 | [Against the Storm](games/a/against_the_storm.md) | 0.29% |
 | 182 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
@@ -592,4 +592,4 @@
 | 274 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 274 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 274 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,231 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,232 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
