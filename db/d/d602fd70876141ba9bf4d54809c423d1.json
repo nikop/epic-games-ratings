@@ -653,9 +653,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "ap8553i",
       "Name": "Krimson PD Fury",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -1050,8 +1050,8 @@
   ],
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged_Achievements": "2023-09-13T12:06:04.7553197+00:00",
+  "LastChanged_Achievements": "2023-09-13T13:12:04.5124811+00:00",
   "LastUpdate_AppInfo": "2023-09-06T19:57:01.3086159+00:00",
-  "LastUpdate_Ratings": "2023-09-13T11:58:48.4527681+00:00",
-  "LastUpdate_Achievements": "2023-09-13T12:06:04.755385+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:04:30.9104924+00:00",
+  "LastUpdate_Achievements": "2023-09-13T13:12:04.5125631+00:00"
 }

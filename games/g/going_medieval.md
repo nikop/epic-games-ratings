@@ -6,26 +6,26 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,315 |
-| Having A Field Day | 75.00% | ~4,315 |
+| Get A Room | 75.00% | ~4,316 |
+| Having A Field Day | 75.00% | ~4,316 |
 | Reap What You Sow | 71.00% | ~4,085 |
-| The First Day | 68.00% | ~3,912 |
-| Green Thumb | 66.00% | ~3,797 |
-| Novice Researcher | 66.00% | ~3,797 |
+| The First Day | 68.00% | ~3,913 |
+| Green Thumb | 66.00% | ~3,798 |
+| Novice Researcher | 66.00% | ~3,798 |
 | Home Cooked Meal | 58.00% | ~3,337 |
 | Onward | 56.00% | ~3,222 |
-| Putting Food on the Table | 55.00% | ~3,164 |
+| Putting Food on the Table | 55.00% | ~3,165 |
 | The First Week | 54.00% | ~3,107 |
-| Beam Me Up | 51.00% | ~2,934 |
-| Studious Researcher | 51.00% | ~2,934 |
-| Feast or Famine | 46.00% | ~2,646 |
-| Adept Researcher | 44.00% | ~2,531 |
+| Beam Me Up | 51.00% | ~2,935 |
+| Studious Researcher | 51.00% | ~2,935 |
+| Feast or Famine | 46.00% | ~2,647 |
+| Adept Researcher | 44.00% | ~2,532 |
 | Retribution | 41.00% | ~2,359 |
 | ...And Don’t Come Back! | 41.00% | ~2,359 |
 | Fit For A King | 35.00% | ~2,014 |
 | Luminary Researcher | 32.00% | ~1,841 |
 | Heating Up | 30.00% | ~1,726 |
-| Winter Is Coming | 27.00% | ~1,553 |
+| Winter Is Coming | 27.00% | ~1,554 |
 | Winter Is Here | 24.00% | ~1,381 |
 | Disassembled | 21.00% | ~1,208 |
 | A Party Now | 21.00% | ~1,208 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~115 |
 | Wabbit Season | 0.60% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,753 (Ranked 144)  
+Progressed: 5,754 (Ranked 144)  
 Completed: 13 (0.23%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 13 (0.23%) (Ranked 191)
 | 2023-09-10 | 5,732 | 12 |
 | 2023-09-11 | 5,741 | 12 |
 | 2023-09-12 | 5,748 | 13 |
-| 2023-09-13 | 5,753 | 13 |
+| 2023-09-13 | 5,754 | 13 |
 ## Awards
 Max (Relaxing): 122  (Ranked 320)  
 Sum: 983 (Ranked 242)  

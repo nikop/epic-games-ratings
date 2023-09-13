@@ -2,7 +2,7 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 755,
+  "Ranking_Rating": 746,
   "Ranking_Popularity": 163,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 593,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR, CN"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "NumberOfRatings": 1439,
   "RatingHistory": [
     {
@@ -2079,24 +2079,30 @@
       "Rating": 4.35,
       "NumberOfAwards": 2086,
       "NumberOfAwardsMax": 748
+    },
+    {
+      "Time": "2023-09-13T13:03:52.9879733+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 2088,
+      "NumberOfAwardsMax": 749
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2086,
-  "NumberOfAwardsMax": 748,
+  "NumberOfAwards": 2088,
+  "NumberOfAwardsMax": 749,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 748
+      "Count": 749
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 146
+      "Count": 147
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2176,8 +2182,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2023-09-13T02:57:56.8299187+00:00",
+  "LastChanged": "2023-09-13T13:03:52.9879732+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:33.8450385+00:00",
-  "LastUpdate_Ratings": "2023-09-13T11:58:02.0723512+00:00",
-  "LastUpdate_Achievements": "2023-09-13T12:04:59.0889091+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:03:52.9879737+00:00",
+  "LastUpdate_Achievements": "2023-09-13T13:11:09.0518142+00:00"
 }

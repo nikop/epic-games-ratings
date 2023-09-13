@@ -24,8 +24,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "5akmpni",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
+  "LastChanged_Achievements": "2023-09-13T13:10:15.2352298+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:07.1263766+00:00",
-  "LastUpdate_Ratings": "2023-09-13T12:01:38.7638235+00:00",
-  "LastUpdate_Achievements": "2023-09-13T12:03:57.3961121+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:06:55.4401655+00:00",
+  "LastUpdate_Achievements": "2023-09-13T13:10:15.235233+00:00"
 }

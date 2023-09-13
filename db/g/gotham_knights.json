@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2796,10 +2796,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4403,
       "NumberOfAwardsMax": 2657
+    },
+    {
+      "Time": "2023-09-13T13:04:25.4989893+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4404,
+      "NumberOfAwardsMax": 2657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4403,
+  "NumberOfAwards": 4404,
   "NumberOfAwardsMax": 2657,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2837,7 +2843,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 213
+      "Count": 214
     },
     {
       "Text": "This game is Relaxing",
@@ -2864,9 +2870,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72482,
+  "EOS_Progressed": 72483,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 1054,
+  "EOS_NewPlayers": 1037,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15304,6 +15310,11 @@
       "Time": "2023-09-13T12:07:05.5200515+00:00",
       "NumProgressed": 72482,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-13T13:12:55.9684139+00:00",
+      "NumProgressed": 72483,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15435,7 +15446,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10147
+      "UsersEstimate": 10148
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -15547,7 +15558,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14496
+      "UsersEstimate": 14497
     },
     {
       "ID": "FREEZE_2",
@@ -15563,7 +15574,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10147
+      "UsersEstimate": 10148
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -15627,7 +15638,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18120
+      "UsersEstimate": 18121
     },
     {
       "ID": "HARLEY_3",
@@ -15635,7 +15646,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14496
+      "UsersEstimate": 14497
     },
     {
       "ID": "HARLEY_4",
@@ -15683,7 +15694,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14496
+      "UsersEstimate": 14497
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -15715,7 +15726,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18120
+      "UsersEstimate": 18121
     },
     {
       "ID": "MYSTERY_03",
@@ -15731,7 +15742,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14496
+      "UsersEstimate": 14497
     },
     {
       "ID": "MYSTERY_05",
@@ -15747,7 +15758,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10147
+      "UsersEstimate": 10148
     },
     {
       "ID": "MYSTERY_07",
@@ -15802,22 +15813,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72482,
+      "Progressed": 72483,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42762,
+      "Progressed": 42763,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-13T11:58:40.9811802+00:00",
-  "LastChanged_Achievements": "2023-09-13T12:07:05.5200509+00:00",
+  "LastChanged": "2023-09-13T13:04:25.4989891+00:00",
+  "LastChanged_Achievements": "2023-09-13T13:12:55.9684131+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-13T11:58:40.9811809+00:00",
-  "LastUpdate_Achievements": "2023-09-13T12:07:05.5201533+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:04:25.4989902+00:00",
+  "LastUpdate_Achievements": "2023-09-13T13:12:55.9685492+00:00"
 }

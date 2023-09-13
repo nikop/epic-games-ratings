@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -832,10 +832,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 309,
       "NumberOfAwardsMax": 194
+    },
+    {
+      "Time": "2023-09-13T13:03:19.4958578+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 310,
+      "NumberOfAwardsMax": 194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 309,
+  "NumberOfAwards": 310,
   "NumberOfAwardsMax": 194,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -849,7 +855,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Great for Beginners",
@@ -876,9 +882,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223663,
+  "EOS_Progressed": 223669,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2019,
+  "EOS_NewPlayers": 2011,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10686,6 +10692,11 @@
       "Time": "2023-09-13T12:07:50.4442215+00:00",
       "NumProgressed": 223663,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-13T13:14:13.6642608+00:00",
+      "NumProgressed": 223669,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -11145,7 +11156,7 @@
       "Name": "Sowwy!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 64862
+      "UsersEstimate": 64864
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11207,9 +11218,9 @@
       "ID": "FollowNarzatok",
       "SetID": "50chcgj",
       "Name": "An old poacher makes the best gamekeeper",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 895
     },
     {
       "ID": "InsultLoose",
@@ -11400,21 +11411,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223663,
+      "Progressed": 223669,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223663,
+      "Progressed": 223669,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-09-12T21:56:58.2496582+00:00",
-  "LastChanged_Achievements": "2023-09-13T12:07:50.4442209+00:00",
+  "LastChanged": "2023-09-13T13:03:19.4958576+00:00",
+  "LastChanged_Achievements": "2023-09-13T13:14:13.66426+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-13T11:57:19.7194375+00:00",
-  "LastUpdate_Achievements": "2023-09-13T12:07:50.4443466+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:03:19.4958582+00:00",
+  "LastUpdate_Achievements": "2023-09-13T13:14:13.6644205+00:00"
 }

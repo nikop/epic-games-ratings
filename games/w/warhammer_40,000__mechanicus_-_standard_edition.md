@@ -26,21 +26,21 @@ Rating: 4.43 (Ranked 666)
 | Architect Abortion | 2.00% | ~4,450 |
 | Cohortus Maximus | 0.80% | ~1,780 |
 | Mother of Xenarites | 0.40% | ~890 |
-| False God | 0.30% | ~667 |
+| False God | 0.30% | ~668 |
 | Hard | 0.20% | ~445 |
 | Sensory overload | 0.20% | ~445 |
 | Transonic Blur | 0.20% | ~445 |
-| Sterile Perfection | 0.10% | ~222 |
-| Impossible | 0.10% | ~222 |
-| Melee Machine | 0.10% | ~222 |
-| AoE-phobia | 0.10% | ~222 |
-| Zero to Hero | 0.10% | ~222 |
-| No Omnissian Guidance | 0.10% | ~222 |
-| Not the Men-of-Iron | 0.10% | ~222 |
-| Perma-live | 0.10% | ~222 |
-| Purge the Heretek | 0.10% | ~222 |
+| Sterile Perfection | 0.10% | ~223 |
+| Impossible | 0.10% | ~223 |
+| Melee Machine | 0.10% | ~223 |
+| AoE-phobia | 0.10% | ~223 |
+| Zero to Hero | 0.10% | ~223 |
+| No Omnissian Guidance | 0.10% | ~223 |
+| Not the Men-of-Iron | 0.10% | ~223 |
+| Perma-live | 0.10% | ~223 |
+| Purge the Heretek | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,499 (Ranked 57)  
+Progressed: 222,501 (Ranked 57)  
 Completed: 5 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 5 (0.00%) (Ranked 273)
 | 2023-09-10 | 222,329 | 5 |
 | 2023-09-11 | 222,393 | 5 |
 | 2023-09-12 | 222,463 | 5 |
-| 2023-09-13 | 222,499 | 5 |
+| 2023-09-13 | 222,501 | 5 |
 ## Awards
 Max (Highly Recommended): 283  (Ranked 243)  
 Sum: 2,140 (Ranked 197)  

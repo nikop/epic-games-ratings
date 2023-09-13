@@ -8,7 +8,7 @@ Rating: 3.52 (Ranked 986)
 | I Like My Stakes Rare! | 0.90% | ~16 |
 | Ne Plus Ultra | 0.80% | ~14 |
 | Blood Will Have Blood | 0.70% | ~12 |
-| Grounded | 0.60% | ~10 |
+| Grounded | 0.70% | ~12 |
 | Fly Fisher | 0.60% | ~10 |
 | Peek-a-boo | 0.60% | ~10 |
 | ICU | 0.60% | ~10 |

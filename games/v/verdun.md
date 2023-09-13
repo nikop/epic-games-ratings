@@ -34,10 +34,10 @@ Number of Ratings: 1,999  (23.09.2022)
 | War is better with friends I | 4.00% | ~2,322 |
 | Let them, come to us | 4.00% | ~2,322 |
 | Corpseman II | 4.00% | ~2,322 |
+| Manual Labour II | 4.00% | ~2,322 |
 | Offense is the best defence | 3.00% | ~1,741 |
 | There is no I in team | 3.00% | ~1,741 |
 | Veteran | 3.00% | ~1,741 |
-| Manual Labour II | 3.00% | ~1,741 |
 | In My Defens God Me Defend | 3.00% | ~1,741 |
 | Silver x100 | 3.00% | ~1,741 |
 | Impavidum Ferient Bella! | 3.00% | ~1,741 |

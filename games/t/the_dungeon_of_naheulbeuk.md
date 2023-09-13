@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 29.00% | ~64,862 |
+| Sowwy! | 29.00% | ~64,864 |
 | Where's that freaking Dwarf? | 4.00% | ~8,947 |
 | Alt+F4 | 4.00% | ~8,947 |
 | Déjà vu | 3.00% | ~6,710 |
@@ -45,11 +45,11 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.60% | ~1,342 |
 | Material Girl | 0.60% | ~1,342 |
 | In Navalu's footsteps | 0.50% | ~1,118 |
+| An old poacher makes the best gamekeeper | 0.40% | ~895 |
 | We come in peace | 0.40% | ~895 |
 | Lëgal Legend | 0.40% | ~895 |
 | Holistic Adventuring Party | 0.30% | ~671 |
 | Scholar of the Lands of Fangh | 0.30% | ~671 |
-| An old poacher makes the best gamekeeper | 0.30% | ~671 |
 | Law and Order | 0.30% | ~671 |
 | Friendly fire | 0.20% | ~447 |
 | I'd rather... Just... Sing! | 0.20% | ~447 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,663 (Ranked 56)  
+Progressed: 223,669 (Ranked 56)  
 Completed: 2 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,15 +200,15 @@ Completed: 2 (0.00%) (Ranked 273)
 | 2023-09-10 | 223,093 | 2 |
 | 2023-09-11 | 223,344 | 2 |
 | 2023-09-12 | 223,556 | 2 |
-| 2023-09-13 | 223,663 | 2 |
+| 2023-09-13 | 223,669 | 2 |
 ## Awards
 Max (Character Customization): 194  (Ranked 275)  
-Sum: 309 (Ranked 338)  
+Sum: 310 (Ranked 338)  
 Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 194 |
-| This game is Relaxing | 27 |
+| This game is Relaxing | 28 |
 | This game is Great for Beginners | 24 |
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 20 |
@@ -345,3 +345,4 @@ Diff (max vs sum): -63
 | 2023-09-10 | 4.59 | - | 192 | 307 |
 | 2023-09-11 | 4.58 | - | 193 | 308 |
 | 2023-09-12 | 4.59 | - | 194 | 309 |
+| 2023-09-13 | 4.59 | - | 194 | 310 |

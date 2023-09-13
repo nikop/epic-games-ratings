@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4034,
+  "EOS_Progressed": 4035,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6454,6 +6454,11 @@
       "Time": "2023-09-13T12:06:21.1636764+00:00",
       "NumProgressed": 4034,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-13T13:12:18.6116102+00:00",
+      "NumProgressed": 4035,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6465,7 +6470,7 @@
       "Name": "Start with a bang!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "Ach002",
@@ -6641,7 +6646,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "Ach024",
@@ -6657,7 +6662,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Ach026",
@@ -6705,7 +6710,7 @@
       "Name": "Perfect Parry",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Ach032",
@@ -7032,13 +7037,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4034,
+      "Progressed": 4035,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2555,
+      "Progressed": 2556,
       "Completed": 1929
     }
   ],
@@ -7046,8 +7051,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-13T12:06:21.1636759+00:00",
+  "LastChanged_Achievements": "2023-09-13T13:12:18.6116095+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-13T12:01:53.5606694+00:00",
-  "LastUpdate_Achievements": "2023-09-13T12:06:21.1637642+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:09:09.6036793+00:00",
+  "LastUpdate_Achievements": "2023-09-13T13:12:18.6117233+00:00"
 }

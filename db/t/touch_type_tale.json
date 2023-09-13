@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3197,
+  "EOS_Progressed": 3199,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3024,6 +3024,11 @@
       "Time": "2023-09-13T12:05:21.3654742+00:00",
       "NumProgressed": 3197,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-13T13:11:27.6978404+00:00",
+      "NumProgressed": 3199,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3083,7 +3088,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2847
     },
     {
       "ID": "campaign10",
@@ -3171,7 +3176,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2527
     },
     {
       "ID": "campaign20",
@@ -3187,7 +3192,7 @@
       "Name": "Economics 101",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "campaign4",
@@ -3195,7 +3200,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "campaign5",
@@ -3203,7 +3208,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "campaign6",
@@ -3219,7 +3224,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "campaign8",
@@ -3243,7 +3248,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "scenario2",
@@ -3251,7 +3256,7 @@
       "Name": "Full Employment",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "scenario3",
@@ -3298,7 +3303,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3197,
+      "Progressed": 3199,
       "Completed": 11
     }
   ],
@@ -3306,8 +3311,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-13T12:05:21.3654737+00:00",
+  "LastChanged_Achievements": "2023-09-13T13:11:27.6978397+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-13T11:59:32.2119608+00:00",
-  "LastUpdate_Achievements": "2023-09-13T12:05:21.3655088+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:05:05.7020134+00:00",
+  "LastUpdate_Achievements": "2023-09-13T13:11:27.6978862+00:00"
 }

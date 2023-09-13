@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19966,
+  "EOS_Progressed": 19968,
   "EOS_Completed": 397,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -16018,6 +16018,11 @@
       "Time": "2023-09-13T11:05:21.7726943+00:00",
       "NumProgressed": 19966,
       "NumCompleted": 397
+    },
+    {
+      "Time": "2023-09-13T13:11:52.6754149+00:00",
+      "NumProgressed": 19968,
+      "NumCompleted": 397
     }
   ],
   "TotalAchievements": 20,
@@ -16029,7 +16034,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 3394
+      "UsersEstimate": 3395
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -16045,7 +16050,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -16149,7 +16154,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15374
+      "UsersEstimate": 15375
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16157,7 +16162,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5590
+      "UsersEstimate": 5591
     },
     {
       "ID": "NORTH_FINISHED",
@@ -16188,15 +16193,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19966,
+      "Progressed": 19968,
       "Completed": 397
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-13T12:05:51.0097916+00:00",
+  "LastChanged_Achievements": "2023-09-13T13:11:52.675414+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-13T11:58:41.7096805+00:00",
-  "LastUpdate_Achievements": "2023-09-13T12:05:51.0098802+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:04:26.1302781+00:00",
+  "LastUpdate_Achievements": "2023-09-13T13:11:52.6755232+00:00"
 }

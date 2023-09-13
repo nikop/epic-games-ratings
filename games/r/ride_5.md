@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 39.00% | ~283 |
-| Clean Race | 38.00% | ~276 |
-| Hear That Roar! | 37.00% | ~269 |
-| Eat My Dust | 31.00% | ~225 |
-| Rivals to the End | 29.00% | ~211 |
+| First Love | 39.00% | ~285 |
+| Clean Race | 38.00% | ~277 |
+| Hear That Roar! | 37.00% | ~270 |
+| Eat My Dust | 31.00% | ~226 |
+| Rivals to the End | 29.00% | ~212 |
 | We're Going to Need a Bigger Garage | 25.00% | ~182 |
 | I'm Here Too! | 25.00% | ~182 |
-| Bitter Rivalry | 19.00% | ~138 |
-| I Want One Too! | 17.00% | ~123 |
-| Champagne Spray | 15.00% | ~109 |
+| Bitter Rivalry | 19.00% | ~139 |
+| I Want One Too! | 17.00% | ~124 |
+| Quick Pit Stop | 15.00% | ~110 |
+| Champagne Spray | 15.00% | ~110 |
 | Restored and Ready | 14.00% | ~102 |
-| Quick Pit Stop | 14.00% | ~102 |
-| Go-Faster Stripes | 13.00% | ~94 |
-| Legendary!!! | 13.00% | ~94 |
+| Go-Faster Stripes | 13.00% | ~95 |
+| Legendary!!! | 13.00% | ~95 |
+| We've Just Begun | 7.00% | ~51 |
 | Stamina Star | 6.00% | ~44 |
 | Evangelist | 6.00% | ~44 |
-| We've Just Begun | 6.00% | ~44 |
 | Is It the Right Size? | 5.00% | ~36 |
 | Make It Your Own! | 4.00% | ~29 |
 | Still Here | 4.00% | ~29 |
@@ -36,8 +36,8 @@
 | My Work Here Is Done | 1.00% | ~7 |
 | Overtaking the Master | 1.00% | ~7 |
 | Back in Blighty | 0.70% | ~5 |
-| Next Level | 0.60% | ~4 |
-| I Don't Stop | 0.60% | ~4 |
+| Next Level | 0.50% | ~4 |
+| I Don't Stop | 0.50% | ~4 |
 | Exhausted but Happy | 0.40% | ~3 |
 | Globe-trotter | 0.40% | ~3 |
 | Maximum Endurance | 0.30% | ~2 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 726 (Ranked 222)  
+Progressed: 730 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,4 +66,4 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 595 | 0 |
 | 2023-09-11 | 659 | 0 |
 | 2023-09-12 | 717 | 0 |
-| 2023-09-13 | 726 | 0 |
+| 2023-09-13 | 730 | 0 |

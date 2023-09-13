@@ -1,16 +1,16 @@
 # Core
 [Store](https://store.epicgames.com/en-US/p/core)  
 [View Rawdata](../../db/c/core.json)  
-Rating: 4.35 (Ranked 755)  
+Rating: 4.36 (Ranked 746)  
 Number of Ratings: 1,439  (23.09.2022)  
 ## Awards
-Max (Character Customization): 748  (Ranked 163)  
-Sum: 2,086 (Ranked 198)  
+Max (Character Customization): 749  (Ranked 163)  
+Sum: 2,088 (Ranked 198)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 748 |
-| This game is Great for Beginners | 146 |
+| This game has Inclusive Character Customization | 749 |
+| This game is Great for Beginners | 147 |
 | This game has Diverse Characters | 133 |
 | This game has Quickly Understood Controls | 127 |
 | This game is Great for Quick Sessions | 127 |
@@ -191,4 +191,4 @@ Diff (max vs sum): -35
 | 2023-09-04 | 4.36 | - | 747 | 2,084 |
 | 2023-09-06 | 4.36 | - | 747 | 2,085 |
 | 2023-09-10 | 4.36 | - | 748 | 2,086 |
-| 2023-09-13 | 4.35 | - | 748 | 2,086 |
+| 2023-09-13 | 4.36 | - | 749 | 2,088 |

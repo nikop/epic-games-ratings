@@ -3716,9 +3716,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11244,
+  "EOS_Progressed": 11245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12201,6 +12201,11 @@
       "Time": "2023-09-13T05:05:35.2644755+00:00",
       "NumProgressed": 11244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T13:12:19.9044894+00:00",
+      "NumProgressed": 11245,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12434,9 +12439,9 @@
       "ID": "30_BattlefieldVictory",
       "SetID": "989of5o",
       "Name": "Heroic Victory",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 337
     },
     {
       "ID": "31_DivideAndRule",
@@ -12580,7 +12585,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "49_Flame",
@@ -13139,21 +13144,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10026,
+      "Progressed": 10027,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11244,
+      "Progressed": 11245,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-13T00:01:41.3176314+00:00",
-  "LastChanged_Achievements": "2023-09-13T12:06:22.5254804+00:00",
+  "LastChanged_Achievements": "2023-09-13T13:12:19.9044883+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-13T12:01:52.6623588+00:00",
-  "LastUpdate_Achievements": "2023-09-13T12:06:22.5256506+00:00"
+  "LastUpdate_Ratings": "2023-09-13T13:09:08.8928392+00:00",
+  "LastUpdate_Achievements": "2023-09-13T13:12:19.9046866+00:00"
 }
