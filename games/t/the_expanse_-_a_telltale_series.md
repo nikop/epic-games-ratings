@@ -23,12 +23,12 @@ Rating: 4.58 (Ranked 430)
 | Urshanabi Hoarder | 2.00% | ~210 |
 | Grave Robber | 2.00% | ~210 |
 | Data Miner | 1.00% | ~105 |
-| Data Archivist | 0.10% | ~10 |
-| Miraculous Maya | 0.10% | ~10 |
-| Khan's Revenge | 0.10% | ~10 |
-| Call it Even | 0.10% | ~10 |
-| Bosmang | 0.10% | ~10 |
-| No Belter Left Behind | 0.10% | ~10 |
+| Data Archivist | 0.10% | ~11 |
+| Miraculous Maya | 0.10% | ~11 |
+| Khan's Revenge | 0.10% | ~11 |
+| Call it Even | 0.10% | ~11 |
+| Bosmang | 0.10% | ~11 |
+| No Belter Left Behind | 0.10% | ~11 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
 | Brother's Reaper | 0.00% | ~0 |
@@ -36,7 +36,7 @@ Rating: 4.58 (Ranked 430)
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,499 (Ranked 127)  
+Progressed: 10,501 (Ranked 127)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 10,393 | 0 |
 | 2023-09-11 | 10,430 | 0 |
 | 2023-09-12 | 10,482 | 0 |
-| 2023-09-13 | 10,499 | 0 |
+| 2023-09-13 | 10,501 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

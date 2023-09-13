@@ -3946,9 +3946,9 @@
       "ID": "achPennyPincher",
       "SetID": "dgl390n",
       "Name": "Penny pincher",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 164
     },
     {
       "ID": "achPresentReached",
@@ -4050,8 +4050,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-09-11T02:13:49.1784923+00:00",
-  "LastChanged_Achievements": "2023-09-13T09:04:12.7877009+00:00",
+  "LastChanged_Achievements": "2023-09-13T10:04:40.373968+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.7877575+00:00",
-  "LastUpdate_Ratings": "2023-09-13T08:58:32.0927979+00:00",
-  "LastUpdate_Achievements": "2023-09-13T09:04:12.7877778+00:00"
+  "LastUpdate_Ratings": "2023-09-13T09:59:02.7756197+00:00",
+  "LastUpdate_Achievements": "2023-09-13T10:04:40.3740369+00:00"
 }

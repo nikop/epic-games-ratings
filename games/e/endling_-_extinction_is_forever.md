@@ -17,7 +17,7 @@
 | A Barking Fox Doesn't Bite | 22.00% | ~108 |
 | Chicken Dinner | 21.00% | ~103 |
 | Peaceful Instinct | 19.00% | ~93 |
-| Maternity | 16.00% | ~78 |
+| Maternity | 17.00% | ~83 |
 | Family Reunion | 15.00% | ~74 |
 | Beyond Words | 15.00% | ~74 |
 | Barking in The Rain | 15.00% | ~74 |

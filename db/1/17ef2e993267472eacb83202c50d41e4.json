@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5666,
+  "EOS_Progressed": 5669,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1833,
+  "EOS_NewPlayers": 1813,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1266,6 +1266,11 @@
       "Time": "2023-09-13T09:04:24.4378206+00:00",
       "NumProgressed": 5666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T10:04:53.3333423+00:00",
+      "NumProgressed": 5669,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1326,7 +1331,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "CreditsSpent50000",
@@ -1398,7 +1403,7 @@
       "Name": "Played a Match",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1983
+      "UsersEstimate": 1984
     },
     {
       "ID": "GamesPlayed10",
@@ -1422,7 +1427,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "GamesWon10",
@@ -1494,7 +1499,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "HSUPurchased1",
@@ -1542,7 +1547,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "InhibitorKills3",
@@ -1590,7 +1595,7 @@
       "Name": "Spent 25000 Credits in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "MaxDamageDone30000",
@@ -1638,7 +1643,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "MaxTowersKilled3",
@@ -1646,7 +1651,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "MaxTowersKilled6",
@@ -1710,7 +1715,7 @@
       "Name": "10 Eliminations",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "PlayerKills100",
@@ -1734,7 +1739,7 @@
       "Name": "Upgraded the Pulse Rifle to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "QAUpgraded1",
@@ -1750,7 +1755,7 @@
       "Name": "Upgraded Quantum Trigger to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "RAPurchased1",
@@ -1772,9 +1777,9 @@
       "ID": "RSPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Rocket Strike",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 907
     },
     {
       "ID": "SEUpgraded1",
@@ -1790,7 +1795,7 @@
       "Name": "Upgraded the SMG to Level 3",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "SOVUpgraded1",
@@ -1838,7 +1843,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "TSUPurchased1",
@@ -1862,21 +1867,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5666,
+      "Progressed": 5669,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-13T09:04:24.4378201+00:00",
+  "LastChanged_Achievements": "2023-09-13T10:04:53.3333414+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-13T08:59:10.9982655+00:00",
-  "LastUpdate_Achievements": "2023-09-13T09:04:24.4379105+00:00"
+  "LastUpdate_Ratings": "2023-09-13T09:59:49.4340383+00:00",
+  "LastUpdate_Achievements": "2023-09-13T10:04:53.3334337+00:00"
 }

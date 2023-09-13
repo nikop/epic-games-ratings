@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 548,
   "Ranking_Popularity": 334,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 346,
@@ -2232,6 +2232,6 @@
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
   "LastChanged": "2023-09-13T08:58:05.502717+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.7009553+00:00",
-  "LastUpdate_Ratings": "2023-09-13T08:58:05.5027176+00:00",
-  "LastUpdate_Achievements": "2023-09-13T09:06:51.2345767+00:00"
+  "LastUpdate_Ratings": "2023-09-13T09:58:27.1907181+00:00",
+  "LastUpdate_Achievements": "2023-09-13T10:07:47.5386921+00:00"
 }

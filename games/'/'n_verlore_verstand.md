@@ -10,7 +10,7 @@
 | Brace the cold | 33.00% | ~12 |
 | A Long Walk | 31.00% | ~11 |
 | Dont mind the heat | 11.00% | ~4 |
-| A Dangerous Road | 6.00% | ~2 |
+| A Dangerous Road | 8.00% | ~3 |
 | Scorched Ruins | 6.00% | ~2 |
 | City of Illusion | 6.00% | ~2 |
 | Kill the Flames | 6.00% | ~2 |

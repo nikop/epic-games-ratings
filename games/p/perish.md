@@ -7,12 +7,12 @@
 | To Suffer is to Learn | 6.00% | ~207 |
 | Lochos | 6.00% | ~207 |
 | Initiate's Resolve | 6.00% | ~207 |
-| Missilis | 5.00% | ~172 |
-| Modest Earnings | 5.00% | ~172 |
-| Armaments of the Pantheon | 5.00% | ~172 |
-| Persephone's Guidance | 5.00% | ~172 |
-| Strength of Herakles | 5.00% | ~172 |
-| Reign in Blood | 5.00% | ~172 |
+| Missilis | 5.00% | ~173 |
+| Modest Earnings | 5.00% | ~173 |
+| Armaments of the Pantheon | 5.00% | ~173 |
+| Persephone's Guidance | 5.00% | ~173 |
+| Strength of Herakles | 5.00% | ~173 |
+| Reign in Blood | 5.00% | ~173 |
 | Immolator | 4.00% | ~138 |
 | Go For the Head | 4.00% | ~138 |
 | Spartan Sandal | 4.00% | ~138 |
@@ -45,14 +45,14 @@
 | Baby Crabs They Ain't | 2.00% | ~69 |
 | Mors Omnibus | 2.00% | ~69 |
 | Blot Out the Sky | 2.00% | ~69 |
-| The Nameless One | 1.00% | ~34 |
-| Rule of Thirds | 1.00% | ~34 |
-| Pyr Demon | 1.00% | ~34 |
-| Biotechnology | 1.00% | ~34 |
-| The Archimedes Principle | 1.00% | ~34 |
-| Rites at Sea | 1.00% | ~34 |
-| Close Shut the Doors | 1.00% | ~34 |
-| Scrap Metal | 1.00% | ~34 |
+| The Nameless One | 1.00% | ~35 |
+| Rule of Thirds | 1.00% | ~35 |
+| Pyr Demon | 1.00% | ~35 |
+| Biotechnology | 1.00% | ~35 |
+| The Archimedes Principle | 1.00% | ~35 |
+| Rites at Sea | 1.00% | ~35 |
+| Close Shut the Doors | 1.00% | ~35 |
+| Scrap Metal | 1.00% | ~35 |
 | Athenian Treasury | 0.90% | ~31 |
 | Invicta | 0.80% | ~28 |
 | Olympian | 0.60% | ~21 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,450 (Ranked 160)  
+Progressed: 3,451 (Ranked 160)  
 Completed: 0 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,6 +204,7 @@ Completed: 0 (0.00%) (Ranked 273)
 | 2023-09-10 | 3,444 | 0 |
 | 2023-09-11 | 3,447 | 0 |
 | 2023-09-12 | 3,450 | 0 |
+| 2023-09-13 | 3,451 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

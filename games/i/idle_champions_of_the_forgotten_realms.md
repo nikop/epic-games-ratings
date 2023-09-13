@@ -50,6 +50,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~457 |
 | The Contagious Curse | 0.20% | ~457 |
 | Escort to Waterdeep | 0.20% | ~457 |
+| The Giant's Bane Tavern | 0.20% | ~390 |
 | Waterdeep Detours | 0.20% | ~457 |
 | Underdeep Cartography | 0.20% | ~457 |
 | Overdue Rendezvous | 0.20% | ~457 |
@@ -400,7 +401,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~195 |
 | Prisoners of Lolth | 0.10% | ~195 |
 | Prisoners of Unknown Choices | 0.10% | ~195 |
-| The Giant's Bane Tavern | 0.10% | ~195 |
 | Rime Bandits | 0.10% | ~195 |
 | Giant-Size Adventure | 0.10% | ~195 |
 | Power of Three | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,596 (Ranked 54)  
+Progressed: 228,598 (Ranked 54)  
 Completed: 2,274 (0.99%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -673,7 +673,7 @@ Completed: 2,274 (0.99%) (Ranked 124)
 | 2023-09-10 | 228,323 | 2,266 |
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
-| 2023-09-13 | 228,596 | 2,274 |
+| 2023-09-13 | 228,598 | 2,274 |
 ## Awards
 Max (Diverse Characters): 5,266  (Ranked 67)  
 Sum: 31,553 (Ranked 39)  

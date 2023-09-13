@@ -6,18 +6,18 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,522 |
-| He's Signed! | 50.00% | ~236,522 |
-| First Victory | 50.00% | ~236,522 |
+| Clean Sheet | 50.00% | ~236,523 |
+| He's Signed! | 50.00% | ~236,523 |
+| First Victory | 50.00% | ~236,523 |
 | He's Sold! | 48.00% | ~227,062 |
 | I'm The Boss! | 42.00% | ~198,679 |
-| Hat-trick | 41.00% | ~193,948 |
+| Hat-trick | 41.00% | ~193,949 |
 | Scoring Streak | 38.00% | ~179,757 |
 | Unbeatable! | 37.00% | ~175,027 |
 | Thumping | 37.00% | ~175,027 |
 | Superb Dressing Room Atmosphere | 35.00% | ~165,566 |
-| Total Support | 32.00% | ~151,374 |
-| Record Signing | 32.00% | ~151,374 |
+| Total Support | 32.00% | ~151,375 |
+| Record Signing | 32.00% | ~151,375 |
 | He's a Natural | 31.00% | ~146,644 |
 | Millionaire's Club | 31.00% | ~146,644 |
 | Team Performance | 30.00% | ~141,914 |
@@ -30,17 +30,17 @@ Number of Ratings: 19,160  (23.09.2022)
 | On A Roll | 26.00% | ~122,992 |
 | Unstoppable Force | 26.00% | ~122,992 |
 | Record Sale | 26.00% | ~122,992 |
-| Armchair Expert | 25.00% | ~118,261 |
+| Armchair Expert | 25.00% | ~118,262 |
 | Fantastic Five | 24.00% | ~113,531 |
 | Full Faith | 24.00% | ~113,531 |
 | Iron Curtain | 24.00% | ~113,531 |
 | The Boss | 24.00% | ~113,531 |
-| Top Of The Class | 23.00% | ~108,800 |
-| Goal Machine | 23.00% | ~108,800 |
+| Top Of The Class | 23.00% | ~108,801 |
+| Goal Machine | 23.00% | ~108,801 |
 | Clean Bill of Health | 22.00% | ~104,070 |
 | What A Goal! | 22.00% | ~104,070 |
 | Cup Glory! | 22.00% | ~104,070 |
-| Splashing The Cash | 21.00% | ~99,339 |
+| Splashing The Cash | 21.00% | ~99,340 |
 | Irresistible Force | 20.00% | ~94,609 |
 | Excellent Match Cohesion | 20.00% | ~94,609 |
 | Do The Double | 19.00% | ~89,879 |
@@ -53,11 +53,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 14.00% | ~66,226 |
 | Comeback King! | 14.00% | ~66,226 |
 | You're Up! | 13.00% | ~61,496 |
-| Money, Money, Money | 12.00% | ~56,765 |
-| Superb Strike | 10.00% | ~47,304 |
-| International Superstar | 10.00% | ~47,304 |
-| Invincible! | 10.00% | ~47,304 |
-| Best In The World | 10.00% | ~47,304 |
+| Money, Money, Money | 12.00% | ~56,766 |
+| Superb Strike | 10.00% | ~47,305 |
+| International Superstar | 10.00% | ~47,305 |
+| Invincible! | 10.00% | ~47,305 |
+| Best In The World | 10.00% | ~47,305 |
 | Best In Europe | 9.00% | ~42,574 |
 | National Service | 9.00% | ~42,574 |
 | Headhunted | 9.00% | ~42,574 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~473 |
 | Shoestring Budget | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,045 (Ranked 36)  
+Progressed: 473,046 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 21 (0.00%) (Ranked 273)
 | 2023-09-10 | 472,921 | 20 |
 | 2023-09-11 | 472,982 | 20 |
 | 2023-09-12 | 473,034 | 21 |
-| 2023-09-13 | 473,045 | 21 |
+| 2023-09-13 | 473,046 | 21 |
 ## Awards
 Max (Relaxing): 6,440  (Ranked 54)  
 Sum: 50,699 (Ranked 25)  

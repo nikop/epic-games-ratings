@@ -6,38 +6,38 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~286,594 |
-| Full garage | 60.00% | ~235,556 |
-| To the eyeballs! | 51.00% | ~200,223 |
-| Individual delivery | 46.00% | ~180,593 |
-| Non-Stop | 44.00% | ~172,741 |
-| Juggler | 35.00% | ~137,408 |
-| Forgot something | 34.00% | ~133,482 |
-| Close call! | 30.00% | ~117,778 |
-| Get out my way | 28.00% | ~109,926 |
-| Critical care | 26.00% | ~102,074 |
-| Common cause | 25.00% | ~98,148 |
-| Mega-railroad | 23.00% | ~90,297 |
-| Upgrade complete | 23.00% | ~90,297 |
-| Just in time! | 18.00% | ~70,667 |
-| Builder | 17.00% | ~66,741 |
-| Steam Age | 16.00% | ~62,815 |
-| Long Haul | 16.00% | ~62,710 |
-| Bridgemania | 14.00% | ~54,963 |
-| Multilevel road | 14.00% | ~54,963 |
-| Need to think | 14.00% | ~54,963 |
-| The Tortoise | 12.00% | ~47,111 |
-| Without a lunch break | 11.00% | ~43,185 |
-| Beginner | 10.00% | ~39,259 |
-| Relocation | 10.00% | ~39,259 |
-| One way | 9.00% | ~35,333 |
-| Just One More Valley | 9.00% | ~35,274 |
-| Industrial Age | 8.00% | ~31,408 |
-| Prick of conscience | 8.00% | ~31,408 |
-| Missed it! | 7.00% | ~27,482 |
-| At the last moment! | 6.00% | ~23,556 |
-| Overseer | 6.00% | ~23,556 |
-| Jewelry accuracy | 5.00% | ~19,630 |
+| Dealmaker | 73.00% | ~286,606 |
+| Full garage | 60.00% | ~235,567 |
+| To the eyeballs! | 51.00% | ~200,232 |
+| Individual delivery | 46.00% | ~180,601 |
+| Non-Stop | 44.00% | ~172,749 |
+| Juggler | 35.00% | ~137,414 |
+| Forgot something | 34.00% | ~133,488 |
+| Close call! | 30.00% | ~117,783 |
+| Get out my way | 28.00% | ~109,931 |
+| Critical care | 26.00% | ~102,079 |
+| Common cause | 25.00% | ~98,153 |
+| Mega-railroad | 23.00% | ~90,301 |
+| Upgrade complete | 23.00% | ~90,301 |
+| Just in time! | 18.00% | ~70,670 |
+| Builder | 17.00% | ~66,744 |
+| Steam Age | 16.00% | ~62,818 |
+| Long Haul | 16.00% | ~62,712 |
+| Bridgemania | 14.00% | ~54,966 |
+| Multilevel road | 14.00% | ~54,966 |
+| Need to think | 14.00% | ~54,966 |
+| The Tortoise | 12.00% | ~47,113 |
+| Without a lunch break | 11.00% | ~43,187 |
+| Beginner | 10.00% | ~39,261 |
+| Relocation | 10.00% | ~39,261 |
+| One way | 9.00% | ~35,335 |
+| Just One More Valley | 9.00% | ~35,276 |
+| Industrial Age | 8.00% | ~31,409 |
+| Prick of conscience | 8.00% | ~31,409 |
+| Missed it! | 7.00% | ~27,483 |
+| At the last moment! | 6.00% | ~23,557 |
+| Overseer | 6.00% | ~23,557 |
+| Jewelry accuracy | 5.00% | ~19,631 |
 | Bridge builder | 4.00% | ~15,704 |
 | Electrical Age | 4.00% | ~15,704 |
 | Highlander | 4.00% | ~15,704 |
@@ -47,7 +47,7 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 3.00% | ~11,778 |
 | Sabotage | 3.00% | ~11,778 |
 | Squander | 3.00% | ~11,778 |
-| Test Batch | 3.00% | ~11,758 |
+| Test Batch | 3.00% | ~11,759 |
 | Astronomer | 2.00% | ~7,852 |
 | Globalisation Age | 2.00% | ~7,852 |
 | Innovator | 2.00% | ~7,852 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~392 |
 | World Zapper | 0.10% | ~392 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 392,594 (Ranked 41)  
+Progressed: 392,611 (Ranked 41)  
 Completed: 11 (0.00%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,10 +204,10 @@ Completed: 11 (0.00%) (Ranked 273)
 | 2023-09-10 | 391,628 | 10 |
 | 2023-09-11 | 392,084 | 10 |
 | 2023-09-12 | 392,488 | 10 |
-| 2023-09-13 | 392,594 | 11 |
+| 2023-09-13 | 392,611 | 11 |
 ## Awards
 Max (Challenging Puzzles): 594  (Ranked 186)  
-Sum: 1,143 (Ranked 234)  
+Sum: 1,145 (Ranked 234)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): -48
 | This game has Playful Visuals | 67 |
 | This game is Extremely Fun | 63 |
 | This game is Relaxing | 62 |
-| This game is Highly Recommended | 55 |
+| This game is Highly Recommended | 57 |
 | This game has Challenging Combat | 44 |
 | This game has Amazing Storytelling | 41 |
 | This game has a Creative Community | 40 |
@@ -338,4 +338,4 @@ Diff (max vs sum): -48
 | 2023-09-10 | 4.42 | - | 573 | 1,106 |
 | 2023-09-11 | 4.42 | - | 583 | 1,121 |
 | 2023-09-12 | 4.42 | - | 594 | 1,141 |
-| 2023-09-13 | 4.42 | - | 594 | 1,143 |
+| 2023-09-13 | 4.42 | - | 594 | 1,145 |

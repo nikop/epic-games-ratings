@@ -27,11 +27,11 @@ Rating: 4.54 (Ranked 502)
 | Personal Assistant Personally Assisted | 1.00% | ~6,789 |
 | Our True Nature | 1.00% | ~6,789 |
 | This is My Weapon | 1.00% | ~6,789 |
-| Anger Management | 0.90% | ~6,110 |
-| Perks of the Job | 0.90% | ~6,110 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,110 |
-| Making Your Mark | 0.80% | ~5,431 |
-| Humanity Distilled | 0.80% | ~5,431 |
+| Anger Management | 0.90% | ~6,111 |
+| Perks of the Job | 0.90% | ~6,111 |
+| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,111 |
+| Making Your Mark | 0.80% | ~5,432 |
+| Humanity Distilled | 0.80% | ~5,432 |
 | Down with the Sickness | 0.70% | ~4,753 |
 | Max Headroom | 0.60% | ~4,074 |
 | Jumbo Keyring | 0.50% | ~3,395 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 678,937 (Ranked 22)  
+Progressed: 678,949 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-10 | 677,617 | 2,135 |
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
-| 2023-09-13 | 678,937 | 2,143 |
+| 2023-09-13 | 678,949 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,027  (Ranked 57)  
 Sum: 8,918 (Ranked 94)  

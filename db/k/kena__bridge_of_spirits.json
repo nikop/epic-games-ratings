@@ -4,7 +4,7 @@
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 202,
   "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 209,
+  "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 115,
@@ -1304,9 +1304,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 427962,
+  "EOS_Progressed": 427963,
   "EOS_Completed": 530,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -11294,6 +11294,11 @@
       "Time": "2023-09-13T08:04:36.6791916+00:00",
       "NumProgressed": 427962,
       "NumCompleted": 530
+    },
+    {
+      "Time": "2023-09-13T10:05:23.4809774+00:00",
+      "NumProgressed": 427963,
+      "NumCompleted": 530
     }
   ],
   "TotalAchievements": 41,
@@ -11313,7 +11318,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 166905
+      "UsersEstimate": 166906
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -11321,7 +11326,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256777
+      "UsersEstimate": 256778
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -11337,7 +11342,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 106990
+      "UsersEstimate": 106991
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -11385,7 +11390,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 256777
+      "UsersEstimate": 256778
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -11417,7 +11422,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132668
+      "UsersEstimate": 132669
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -11441,7 +11446,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 201142
+      "UsersEstimate": 201143
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -11465,7 +11470,7 @@
       "Name": "Hat Collector",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17118
+      "UsersEstimate": 17119
     },
     {
       "ID": "ACH_HERO_ROT",
@@ -11473,7 +11478,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 406564
+      "UsersEstimate": 406565
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -11481,7 +11486,7 @@
       "Name": "Restoration Master",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 17118
+      "UsersEstimate": 17119
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -11561,7 +11566,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 141227
+      "UsersEstimate": 141228
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -11617,7 +11622,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 132668
+      "UsersEstimate": 132669
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -11625,22 +11630,22 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 17118
+      "UsersEstimate": 17119
     }
   ],
   "AchievementSets": [
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 427962,
+      "Progressed": 427963,
       "Completed": 530
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-09-10T15:01:55.9798538+00:00",
-  "LastChanged_Achievements": "2023-09-13T09:04:49.8493902+00:00",
+  "LastChanged_Achievements": "2023-09-13T10:05:23.4809768+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:53.3816674+00:00",
-  "LastUpdate_Ratings": "2023-09-13T08:57:33.1963658+00:00",
-  "LastUpdate_Achievements": "2023-09-13T09:04:49.8494732+00:00"
+  "LastUpdate_Ratings": "2023-09-13T09:57:48.429183+00:00",
+  "LastUpdate_Achievements": "2023-09-13T10:05:23.4810747+00:00"
 }

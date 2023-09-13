@@ -7,12 +7,12 @@ Rating: 4.18 (Ranked 882)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 52.00% | ~37,690 |
 | Har, Har, Har, Very Funny | 35.00% | ~25,368 |
-| Loose Ends | 34.00% | ~24,643 |
-| To the Victor Go the Spoils | 28.00% | ~20,294 |
+| Loose Ends | 34.00% | ~24,644 |
+| To the Victor Go the Spoils | 28.00% | ~20,295 |
 | Knighthood | 27.00% | ~19,570 |
 | Get ReQ'd | 25.00% | ~18,120 |
 | Whispered Words | 25.00% | ~18,120 |
-| The Batman Family | 23.00% | ~16,670 |
+| The Batman Family | 23.00% | ~16,671 |
 | Lock and Key | 22.00% | ~15,946 |
 | Something in the Clay | 21.00% | ~15,221 |
 | Quartzer Life Crisis | 20.00% | ~14,496 |
@@ -20,7 +20,7 @@ Rating: 4.18 (Ranked 882)
 | Unstoppable Force | 20.00% | ~14,496 |
 | Bad Apples in Every Orchard | 20.00% | ~14,496 |
 | Snow Problem | 19.00% | ~13,771 |
-| The Show Mud Go On | 18.00% | ~13,046 |
+| The Show Mud Go On | 18.00% | ~13,047 |
 | From Inside Gotham's Walls | 17.00% | ~12,322 |
 | Protector of Gotham | 16.00% | ~11,597 |
 | Universal Health Scare | 16.00% | ~11,597 |
@@ -28,9 +28,9 @@ Rating: 4.18 (Ranked 882)
 | Rock and a Hard Place | 14.00% | ~10,147 |
 | Cooldown | 14.00% | ~10,147 |
 | Voiceless | 14.00% | ~10,147 |
-| Not On My Watch | 13.00% | ~9,422 |
-| Shock Til They Drop | 13.00% | ~9,422 |
-| Seeking Asylum | 13.00% | ~9,422 |
+| Not On My Watch | 13.00% | ~9,423 |
+| Shock Til They Drop | 13.00% | ~9,423 |
+| Seeking Asylum | 13.00% | ~9,423 |
 | End of an Era | 12.00% | ~8,698 |
 | Bulldozed | 12.00% | ~8,698 |
 | Gotham Knight | 12.00% | ~8,698 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 882)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,480 (Ranked 82)  
+Progressed: 72,481 (Ranked 82)  
 Completed: 113 (0.16%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 113 (0.16%) (Ranked 202)
 | 2023-09-10 | 72,379 | 112 |
 | 2023-09-11 | 72,434 | 112 |
 | 2023-09-12 | 72,474 | 113 |
-| 2023-09-13 | 72,480 | 113 |
+| 2023-09-13 | 72,481 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,648  (Ranked 97)  
 Sum: 4,394 (Ranked 139)  

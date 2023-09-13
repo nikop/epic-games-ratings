@@ -2858,9 +2858,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72480,
+  "EOS_Progressed": 72481,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 1088,
+  "EOS_NewPlayers": 1082,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15288,6 +15288,11 @@
       "Time": "2023-09-13T09:06:39.7166979+00:00",
       "NumProgressed": 72480,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-13T10:07:33.7381161+00:00",
+      "NumProgressed": 72481,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15347,7 +15352,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16670
+      "UsersEstimate": 16671
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15411,7 +15416,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13046
+      "UsersEstimate": 13047
     },
     {
       "ID": "CLAYFACE_3",
@@ -15459,7 +15464,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9422
+      "UsersEstimate": 9423
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -15507,7 +15512,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9422
+      "UsersEstimate": 9423
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -15523,7 +15528,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 20294
+      "UsersEstimate": 20295
     },
     {
       "ID": "FREEZE_1_5",
@@ -15691,7 +15696,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 24643
+      "UsersEstimate": 24644
     },
     {
       "ID": "MYSTERY_02",
@@ -15739,7 +15744,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9422
+      "UsersEstimate": 9423
     },
     {
       "ID": "MYSTERY_08",
@@ -15786,13 +15791,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72480,
+      "Progressed": 72481,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42760,
+      "Progressed": 42761,
       "Completed": 2663
     }
   ],
@@ -15800,8 +15805,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-13T04:58:10.2993111+00:00",
-  "LastChanged_Achievements": "2023-09-13T09:06:39.7166974+00:00",
+  "LastChanged_Achievements": "2023-09-13T10:07:33.7381155+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-13T08:58:17.5285358+00:00",
-  "LastUpdate_Achievements": "2023-09-13T09:06:39.7168357+00:00"
+  "LastUpdate_Ratings": "2023-09-13T09:58:44.8861062+00:00",
+  "LastUpdate_Achievements": "2023-09-13T10:07:33.7382713+00:00"
 }

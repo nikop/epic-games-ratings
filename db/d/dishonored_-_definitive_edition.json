@@ -3,7 +3,7 @@
   "Name": "Dishonored - Definitive Edition",
   "ProductSlug": "dishonored-definitive-edition",
   "Ranking_Rating": 136,
-  "Ranking_Popularity": 169,
+  "Ranking_Popularity": 168,
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
@@ -1483,18 +1483,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 947,
       "NumberOfAwardsMax": 693
+    },
+    {
+      "Time": "2023-09-13T09:57:09.9900069+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 950,
+      "NumberOfAwardsMax": 696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 947,
-  "NumberOfAwardsMax": 693,
+  "NumberOfAwards": 950,
+  "NumberOfAwardsMax": 696,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 693
+      "Count": 696
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1568,8 +1574,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-09-12T19:02:56.5051408+00:00",
+  "LastChanged": "2023-09-13T09:57:09.9900068+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:48.3941781+00:00",
-  "LastUpdate_Ratings": "2023-09-13T08:02:23.2367977+00:00",
-  "LastUpdate_Achievements": "2023-09-13T09:06:26.7633668+00:00"
+  "LastUpdate_Ratings": "2023-09-13T09:57:09.9900073+00:00",
+  "LastUpdate_Achievements": "2023-09-13T10:07:18.3120244+00:00"
 }

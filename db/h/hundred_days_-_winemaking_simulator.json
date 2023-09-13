@@ -988,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2793,
+  "EOS_Progressed": 2801,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1291,
+  "EOS_NewPlayers": 1294,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2653,6 +2653,11 @@
       "Time": "2023-09-13T09:05:10.4854217+00:00",
       "NumProgressed": 2793,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-13T10:05:48.3340075+00:00",
+      "NumProgressed": 2801,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2665,7 +2670,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "a_10",
@@ -2713,7 +2718,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 978
+      "UsersEstimate": 980
     },
     {
       "ID": "a_19",
@@ -2831,9 +2836,9 @@
       "ID": "a_33",
       "SetID": "daiie3o",
       "Name": "Big deals",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "a_34",
@@ -2912,7 +2917,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2793,
+      "Progressed": 2801,
       "Completed": 5
     }
   ],
@@ -2920,8 +2925,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-13T09:05:10.4854211+00:00",
+  "LastChanged_Achievements": "2023-09-13T10:05:48.3340067+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-13T09:00:30.3179578+00:00",
-  "LastUpdate_Achievements": "2023-09-13T09:05:10.4854562+00:00"
+  "LastUpdate_Ratings": "2023-09-13T10:01:25.0433613+00:00",
+  "LastUpdate_Achievements": "2023-09-13T10:05:48.3340433+00:00"
 }

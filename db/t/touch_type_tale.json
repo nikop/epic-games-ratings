@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3193,
+  "EOS_Progressed": 3195,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3014,6 +3014,11 @@
       "Time": "2023-09-13T09:05:13.7375709+00:00",
       "NumProgressed": 3193,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-13T10:05:52.2113996+00:00",
+      "NumProgressed": 3195,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3073,7 +3078,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2844
     },
     {
       "ID": "campaign10",
@@ -3105,7 +3110,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "campaign14",
@@ -3129,7 +3134,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "campaign17",
@@ -3161,7 +3166,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2524
     },
     {
       "ID": "campaign20",
@@ -3177,7 +3182,7 @@
       "Name": "Economics 101",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "campaign4",
@@ -3185,7 +3190,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "campaign5",
@@ -3209,7 +3214,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "campaign8",
@@ -3233,7 +3238,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "scenario2",
@@ -3288,7 +3293,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3193,
+      "Progressed": 3195,
       "Completed": 11
     }
   ],
@@ -3296,8 +3301,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-13T09:05:13.7375705+00:00",
+  "LastChanged_Achievements": "2023-09-13T10:05:52.2113993+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-13T08:59:00.0495195+00:00",
-  "LastUpdate_Achievements": "2023-09-13T09:05:13.7376087+00:00"
+  "LastUpdate_Ratings": "2023-09-13T09:59:36.7146813+00:00",
+  "LastUpdate_Achievements": "2023-09-13T10:05:52.2114442+00:00"
 }

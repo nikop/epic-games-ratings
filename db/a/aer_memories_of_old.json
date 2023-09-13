@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19963,
+  "EOS_Progressed": 19965,
   "EOS_Completed": 397,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
@@ -16008,6 +16008,11 @@
       "Time": "2023-09-13T09:05:38.1149364+00:00",
       "NumProgressed": 19963,
       "NumCompleted": 397
+    },
+    {
+      "Time": "2023-09-13T10:06:20.6808669+00:00",
+      "NumProgressed": 19965,
+      "NumCompleted": 397
     }
   ],
   "TotalAchievements": 20,
@@ -16083,7 +16088,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2994
+      "UsersEstimate": 2995
     },
     {
       "ID": "FOUND_ERIN",
@@ -16139,7 +16144,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15372
+      "UsersEstimate": 15373
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16163,7 +16168,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "WEST_FINISHED",
@@ -16171,22 +16176,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3593
+      "UsersEstimate": 3594
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 19963,
+      "Progressed": 19965,
       "Completed": 397
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-13T09:05:38.1149357+00:00",
+  "LastChanged_Achievements": "2023-09-13T10:06:20.680866+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-13T08:58:18.1921509+00:00",
-  "LastUpdate_Achievements": "2023-09-13T09:05:38.1150467+00:00"
+  "LastUpdate_Ratings": "2023-09-13T09:58:45.6526222+00:00",
+  "LastUpdate_Achievements": "2023-09-13T10:06:20.6809712+00:00"
 }
