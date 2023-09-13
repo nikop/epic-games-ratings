@@ -6526,9 +6526,9 @@
       "ID": "Win_As_Torian",
       "SetID": "4h07amh",
       "Name": "Win as Torians",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "Win_As_Xeloxi",
@@ -6646,8 +6646,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-11T19:00:34.5129053+00:00",
-  "LastChanged_Achievements": "2023-09-13T03:06:01.2647948+00:00",
+  "LastChanged_Achievements": "2023-09-13T04:05:38.2883905+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:41.0141576+00:00",
-  "LastUpdate_Ratings": "2023-09-13T03:01:51.6488475+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:06:01.2649031+00:00"
+  "LastUpdate_Ratings": "2023-09-13T04:01:03.834476+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:05:38.2885628+00:00"
 }

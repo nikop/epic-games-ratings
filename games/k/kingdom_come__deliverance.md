@@ -1,17 +1,17 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 189)  
+Rating: 4.71 (Ranked 188)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,346 |
-| Cavalier | 25.00% | ~200,270 |
+| Blacksmith's Son | 32.00% | ~256,347 |
+| Cavalier | 25.00% | ~200,271 |
 | Fatso | 23.00% | ~184,249 |
 | Awakening | 21.00% | ~168,227 |
-| Ranger | 20.00% | ~160,216 |
-| Scrooge | 20.00% | ~160,216 |
+| Ranger | 20.00% | ~160,217 |
+| Scrooge | 20.00% | ~160,217 |
 | Anorectic | 16.00% | ~128,173 |
 | Bookworm | 15.00% | ~120,162 |
 | Firestarter | 15.00% | ~120,162 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~801 |
 | Wingman | 0.10% | ~801 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,082 (Ranked 16)  
+Progressed: 801,083 (Ranked 16)  
 Completed: 45 (0.01%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 45 (0.01%) (Ranked 259)
 | 2023-09-10 | 800,843 | 45 |
 | 2023-09-11 | 800,968 | 45 |
 | 2023-09-12 | 801,077 | 45 |
-| 2023-09-13 | 801,082 | 45 |
+| 2023-09-13 | 801,083 | 45 |
 ## Awards
 Max (Character Customization): 7,441  (Ranked 47)  
 Sum: 27,716 (Ranked 46)  

@@ -4,10 +4,10 @@
   "ProductSlug": "total-war-warhammer-ii",
   "Ranking_Rating": 202,
   "Ranking_Popularity": 74,
-  "Ranking_PopularitySum": 71,
+  "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-04-28T14:00:00+00:00",
@@ -5309,10 +5309,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 14240,
       "NumberOfAwardsMax": 4536
+    },
+    {
+      "Time": "2023-09-13T04:00:50.4216055+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 14244,
+      "NumberOfAwardsMax": 4536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14240,
+  "NumberOfAwards": 14244,
   "NumberOfAwardsMax": 4536,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5368,7 +5374,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 978
+      "Count": 979
     },
     {
       "Text": "This game is Relaxing",
@@ -5380,7 +5386,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 720
+      "Count": 723
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5406,8 +5412,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2023-09-13T00:00:56.2895082+00:00",
+  "LastChanged": "2023-09-13T04:00:50.4216052+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:37.4616871+00:00",
-  "LastUpdate_Ratings": "2023-09-13T03:01:36.0260416+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:06:56.9475999+00:00"
+  "LastUpdate_Ratings": "2023-09-13T04:00:50.4216061+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:06:25.6639966+00:00"
 }

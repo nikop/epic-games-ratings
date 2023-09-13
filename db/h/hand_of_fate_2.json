@@ -892,9 +892,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662073,
+  "EOS_Progressed": 662074,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14702,6 +14702,11 @@
       "Time": "2023-09-13T03:06:47.2883366+00:00",
       "NumProgressed": 662073,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-13T04:06:17.4893904+00:00",
+      "NumProgressed": 662074,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14721,7 +14726,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384002
+      "UsersEstimate": 384003
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14865,7 +14870,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112552
+      "UsersEstimate": 112553
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -15096,15 +15101,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662073,
+      "Progressed": 662074,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-12T21:00:03.5082364+00:00",
-  "LastChanged_Achievements": "2023-09-13T03:06:47.2883359+00:00",
+  "LastChanged_Achievements": "2023-09-13T04:06:17.4893897+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.7852859+00:00",
-  "LastUpdate_Ratings": "2023-09-13T03:01:46.2713218+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:06:47.2885309+00:00"
+  "LastUpdate_Ratings": "2023-09-13T04:00:58.6120597+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:06:17.4896043+00:00"
 }

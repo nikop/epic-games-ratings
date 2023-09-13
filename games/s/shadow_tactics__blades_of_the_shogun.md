@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,199 |
+| Genin | 11.00% | ~22,200 |
 | A thief's beginning | 10.00% | ~20,181 |
 | Thorough | 10.00% | ~20,181 |
 | Disguised | 8.00% | ~16,145 |
@@ -22,12 +22,12 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 6.00% | ~12,109 |
 | Mugen Unchained | 6.00% | ~12,109 |
 | Warzone | 6.00% | ~12,109 |
-| Okkoto | 5.00% | ~10,090 |
-| Prisoners | 5.00% | ~10,090 |
-| Too Early | 5.00% | ~10,090 |
-| Gear up | 4.00% | ~8,072 |
-| Happy little accidents | 4.00% | ~8,072 |
-| Still Rollin' | 4.00% | ~8,072 |
+| Okkoto | 5.00% | ~10,091 |
+| Prisoners | 5.00% | ~10,091 |
+| Too Early | 5.00% | ~10,091 |
+| Gear up | 4.00% | ~8,073 |
+| Happy little accidents | 4.00% | ~8,073 |
+| Still Rollin' | 4.00% | ~8,073 |
 | Noboru | 3.00% | ~6,054 |
 | Stoned | 3.00% | ~6,054 |
 | The Old Way | 3.00% | ~6,054 |
@@ -40,7 +40,7 @@ Number of Ratings: 495  (23.09.2022)
 | The End | 1.00% | ~2,018 |
 | Undeserved Honor | 1.00% | ~2,018 |
 | When Cut Across the Neck | 0.90% | ~1,816 |
-| High Five the Moon | 0.80% | ~1,614 |
+| High Five the Moon | 0.80% | ~1,615 |
 | The Cave | 0.70% | ~1,413 |
 | Merciful | 0.50% | ~1,009 |
 | Time Paradox | 0.50% | ~1,009 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,810 (Ranked 61)  
+Progressed: 201,814 (Ranked 61)  
 Completed: 79 (0.04%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 79 (0.04%) (Ranked 241)
 | 2023-09-10 | 201,431 | 77 |
 | 2023-09-11 | 201,603 | 77 |
 | 2023-09-12 | 201,788 | 79 |
-| 2023-09-13 | 201,810 | 79 |
+| 2023-09-13 | 201,814 | 79 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
 Sum: 4,752 (Ranked 136)  

@@ -2602,9 +2602,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30224,
+  "EOS_Progressed": 30225,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -18447,6 +18447,11 @@
       "Time": "2023-09-13T03:05:13.8435992+00:00",
       "NumProgressed": 30224,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-09-13T04:04:57.3010764+00:00",
+      "NumProgressed": 30225,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 60,
@@ -18466,7 +18471,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13903
+      "UsersEstimate": 13904
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -18498,7 +18503,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 6649
+      "UsersEstimate": 6650
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -18578,7 +18583,7 @@
       "Name": "Spawner Killer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -18594,7 +18599,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9369
+      "UsersEstimate": 9370
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -18666,7 +18671,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12996
+      "UsersEstimate": 12997
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -18698,7 +18703,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8160
+      "UsersEstimate": 8161
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -18818,7 +18823,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9369
+      "UsersEstimate": 9370
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -18826,7 +18831,7 @@
       "Name": "A little something extra",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -18866,7 +18871,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -18906,7 +18911,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 9067
+      "UsersEstimate": 9068
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -18937,15 +18942,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30224,
+      "Progressed": 30225,
       "Completed": 249
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-11T19:57:20.416042+00:00",
-  "LastChanged_Achievements": "2023-09-13T03:05:13.8435985+00:00",
+  "LastChanged_Achievements": "2023-09-13T04:04:57.3010756+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.8890263+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:58:16.7261909+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:05:13.8437576+00:00"
+  "LastUpdate_Ratings": "2023-09-13T03:58:01.3603067+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:04:57.301337+00:00"
 }

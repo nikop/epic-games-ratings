@@ -1245,9 +1245,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8964,
+  "EOS_Progressed": 8965,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12710,6 +12710,11 @@
       "Time": "2023-09-13T01:45:30.4176983+00:00",
       "NumProgressed": 8964,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-13T04:03:47.7472608+00:00",
+      "NumProgressed": 8965,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -12721,7 +12726,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "10",
@@ -12777,7 +12782,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "17",
@@ -12801,7 +12806,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4662
     },
     {
       "ID": "2",
@@ -12809,7 +12814,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "20",
@@ -12817,7 +12822,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "21",
@@ -12833,7 +12838,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6454
+      "UsersEstimate": 6455
     },
     {
       "ID": "23",
@@ -12969,7 +12974,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "39",
@@ -13001,7 +13006,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "42",
@@ -13145,7 +13150,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "59",
@@ -13169,7 +13174,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "8",
@@ -13192,15 +13197,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8964,
+      "Progressed": 8965,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-12T15:58:32.1016981+00:00",
-  "LastChanged_Achievements": "2023-09-13T03:03:53.8619775+00:00",
+  "LastChanged_Achievements": "2023-09-13T04:03:47.74726+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.3176455+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:59:11.4850078+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:03:53.8622037+00:00"
+  "LastUpdate_Ratings": "2023-09-13T03:58:49.9264286+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:03:47.7474349+00:00"
 }

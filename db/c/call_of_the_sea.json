@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118909,
+  "EOS_Progressed": 118910,
   "EOS_Completed": 965,
-  "EOS_NewPlayers": 1357,
+  "EOS_NewPlayers": 1356,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -16528,6 +16528,11 @@
       "Time": "2023-09-13T03:05:11.8210408+00:00",
       "NumProgressed": 118909,
       "NumCompleted": 965
+    },
+    {
+      "Time": "2023-09-13T04:04:55.5025844+00:00",
+      "NumProgressed": 118910,
+      "NumCompleted": 965
     }
   ],
   "TotalAchievements": 34,
@@ -16547,7 +16552,7 @@
       "Name": "The only thing I have now",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 19025
+      "UsersEstimate": 19026
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -16595,7 +16600,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 93938
+      "UsersEstimate": 93939
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -16611,7 +16616,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 65400
+      "UsersEstimate": 65401
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -16635,7 +16640,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 32105
+      "UsersEstimate": 32106
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -16643,7 +16648,7 @@
       "Name": "Fawning Developers",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 5945
+      "UsersEstimate": 5946
     },
     {
       "ID": "ACH_L03_BLACKBEACH_END",
@@ -16707,7 +16712,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 32105
+      "UsersEstimate": 32106
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -16810,7 +16815,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 118909,
+      "Progressed": 118910,
       "Completed": 965
     }
   ],
@@ -16818,8 +16823,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-09-10T16:00:39.3983088+00:00",
-  "LastChanged_Achievements": "2023-09-13T03:05:11.8210402+00:00",
+  "LastChanged_Achievements": "2023-09-13T04:04:55.5025836+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:33.4495566+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:57:57.4855949+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:05:11.8211938+00:00"
+  "LastUpdate_Ratings": "2023-09-13T03:57:45.1785046+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:04:55.5027982+00:00"
 }

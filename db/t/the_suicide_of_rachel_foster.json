@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -248,11 +248,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1436,
+  "EOS_Progressed": 1437,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.81,
+  "EOS_Completed_Percentage": 4.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -2418,6 +2418,11 @@
       "Time": "2023-09-12T21:04:16.0900397+00:00",
       "NumProgressed": 1436,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2023-09-13T04:04:06.177194+00:00",
+      "NumProgressed": 1437,
+      "NumCompleted": 69
     }
   ],
   "TotalAchievements": 11,
@@ -2477,7 +2482,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -2485,7 +2490,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -2493,7 +2498,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -2516,15 +2521,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1436,
+      "Progressed": 1437,
       "Completed": 69
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-08-04T14:01:27.152223+00:00",
-  "LastChanged_Achievements": "2023-09-13T03:04:15.9831861+00:00",
+  "LastChanged_Achievements": "2023-09-13T04:04:06.177193+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.2208302+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:58:58.5321991+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:04:15.9832258+00:00"
+  "LastUpdate_Ratings": "2023-09-13T03:58:38.3281382+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:04:06.1772313+00:00"
 }

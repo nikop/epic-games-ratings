@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 9,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -3444,9 +3444,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 86896,
+  "EOS_Progressed": 86898,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 14201,
+  "EOS_NewPlayers": 14202,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -18424,6 +18424,11 @@
       "Time": "2023-09-13T02:21:10.4226249+00:00",
       "NumProgressed": 86896,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-13T04:06:02.9112891+00:00",
+      "NumProgressed": 86898,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 37,
@@ -18435,7 +18440,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 41710
+      "UsersEstimate": 41711
     },
     {
       "ID": "ACH_0011",
@@ -18451,7 +18456,7 @@
       "Name": "Roid Ranger",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 16510
+      "UsersEstimate": 16511
     },
     {
       "ID": "ACH_0013",
@@ -18579,7 +18584,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 53007
+      "UsersEstimate": 53008
     },
     {
       "ID": "ACH_0210",
@@ -18587,7 +18592,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 60827
+      "UsersEstimate": 60829
     },
     {
       "ID": "ACH_0211",
@@ -18603,7 +18608,7 @@
       "Name": "Too Old for This",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 37365
+      "UsersEstimate": 37366
     },
     {
       "ID": "ACH_0300",
@@ -18683,7 +18688,7 @@
       "Name": "True Player",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 13903
+      "UsersEstimate": 13904
     },
     {
       "ID": "ACH_0450",
@@ -18691,7 +18696,7 @@
       "Name": "Off the Rocks",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14772
+      "UsersEstimate": 14773
     },
     {
       "ID": "ACH_0451",
@@ -18699,7 +18704,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 13034
+      "UsersEstimate": 13035
     },
     {
       "ID": "ACH_0452",
@@ -18707,7 +18712,7 @@
       "Name": "Dragonslayer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 13903
+      "UsersEstimate": 13904
     },
     {
       "ID": "ACH_0460",
@@ -18730,22 +18735,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 86896,
+      "Progressed": 86898,
       "Completed": 45
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 15243,
-      "Completed": 15243
+      "Progressed": 15245,
+      "Completed": 15245
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-12T18:59:12.1444733+00:00",
-  "LastChanged_Achievements": "2023-09-13T03:06:29.8693775+00:00",
+  "LastChanged_Achievements": "2023-09-13T04:06:02.9112882+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.3237957+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:59:02.2512996+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:06:29.8695011+00:00"
+  "LastUpdate_Ratings": "2023-09-13T03:58:41.4234079+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:06:02.911546+00:00"
 }

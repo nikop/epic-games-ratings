@@ -2,12 +2,12 @@
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
   "ProductSlug": "paladins",
-  "Ranking_Rating": 765,
+  "Ranking_Rating": 771,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2020-03-24T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR,CN"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.33,
   "NumberOfRatings": 11687,
   "RatingHistory": [
     {
@@ -7542,10 +7542,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 24098,
       "NumberOfAwardsMax": 3610
+    },
+    {
+      "Time": "2023-09-13T03:59:32.2822778+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 24101,
+      "NumberOfAwardsMax": 3610
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 24098,
+  "NumberOfAwards": 24101,
   "NumberOfAwardsMax": 3610,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7595,7 +7601,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2957
+      "Count": 2960
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7621,8 +7627,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2023-09-12T23:59:39.3195817+00:00",
+  "LastChanged": "2023-09-13T03:59:32.2822775+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.6090744+00:00",
-  "LastUpdate_Ratings": "2023-09-13T03:00:02.3598743+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:05:19.6333219+00:00"
+  "LastUpdate_Ratings": "2023-09-13T03:59:32.2822784+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:05:02.2350959+00:00"
 }

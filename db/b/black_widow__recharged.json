@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18007,
+  "EOS_Progressed": 18008,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
@@ -12092,6 +12092,11 @@
       "Time": "2023-09-13T03:02:40.4821735+00:00",
       "NumProgressed": 18007,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-13T04:02:17.2673548+00:00",
+      "NumProgressed": 18008,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -12135,7 +12140,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -12214,15 +12219,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18007,
+      "Progressed": 18008,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-13T03:02:40.4821729+00:00",
+  "LastChanged_Achievements": "2023-09-13T04:02:17.267354+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:18.1585885+00:00",
-  "LastUpdate_Ratings": "2023-09-13T02:59:57.6260634+00:00",
-  "LastUpdate_Achievements": "2023-09-13T03:02:40.4823225+00:00"
+  "LastUpdate_Ratings": "2023-09-13T03:59:28.6270928+00:00",
+  "LastUpdate_Achievements": "2023-09-13T04:02:17.2675385+00:00"
 }
