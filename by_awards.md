@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 305,598 | 4.68 | 242 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 225,740 | 4.68 | 242 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 200,495 | 4.19 | 873 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 175,814 | 4.88 | 19 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 176,121 | 4.88 | 19 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 148,200 | 4.51 | 547 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 116,397 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 78,437 | 4.62 | 351 |
@@ -97,7 +97,7 @@
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,753 | 4.51 | 547 |
 | 96 | [Among Us](games/a/among_us.md) | 2,663 | 4.57 | 449 |
 | 97 | [Gotham Knights](games/g/gotham_knights.md) | 2,657 | 4.18 | 882 |
-| 98 | [Path of Exile](games/p/path_of_exile.md) | 2,616 | 4.61 | 368 |
+| 98 | [Path of Exile](games/p/path_of_exile.md) | 2,619 | 4.61 | 368 |
 | 99 | [RAGE 2](games/r/rage_2.md) | 2,558 | 4.27 | 820 |
 | 100 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2,555 | 4.49 | 581 |
 | 101 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,514 | 4.10 | 913 |
@@ -167,19 +167,19 @@
 | 165 | [Neverwinter](games/n/neverwinter.md) | 728 | 4.29 | 806 |
 | 166 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 723 | 4.87 | 24 |
 | 167 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 712 | 4.59 | 416 |
-| 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 696 | 4.75 | 136 |
-| 168 | [Subnautica](games/s/subnautica.md) | 696 | 4.85 | 43 |
+| 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 698 | 4.75 | 136 |
+| 169 | [Subnautica](games/s/subnautica.md) | 696 | 4.85 | 43 |
 | 170 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 689 | 4.74 | 145 |
 | 171 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 688 | 4.61 | 368 |
-| 172 | [Neon Abyss](games/n/neon_abyss.md) | 685 | 4.68 | 242 |
-| 173 | [Football Manager 2023](games/f/football_manager_2023.md) | 680 | 4.76 | 117 |
+| 172 | [Football Manager 2023](games/f/football_manager_2023.md) | 687 | 4.76 | 117 |
+| 173 | [Neon Abyss](games/n/neon_abyss.md) | 685 | 4.68 | 242 |
 | 174 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 673 | 4.67 | 259 |
 | 175 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 667 | 4.82 | 67 |
 | 176 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 656 | 4.73 | 162 |
 | 177 | [FAR CRY 4](games/f/far_cry_4.md) | 654 | 4.67 | 259 |
 | 178 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 653 | 4.60 | 394 |
 | 179 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 632 | 4.50 | 565 |
-| 180 | [MORDHAU](games/m/mordhau.md) | 622 | 4.39 | 720 |
+| 180 | [MORDHAU](games/m/mordhau.md) | 631 | 4.39 | 720 |
 | 181 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 616 | 4.67 | 259 |
 | 182 | [Dark Deity](games/d/dark_deity.md) | 614 | 4.16 | 890 |
 | 183 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 613 | 4.24 | 843 |

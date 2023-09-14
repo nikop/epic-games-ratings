@@ -618,6 +618,7 @@
 | [Warstone TD](../games/4/4470ce6748c74c708af72cf4535efca6.md) | 68 | 1,000 |
 | [Watch Over Christmas](../games/2/263f654a1236484397892332888256aa.md) | 43 | 1,000 |
 | [We Are OFK](../games/w/we_are_ofk.md) | 28 | 1,000 |
+| [We Were Here Expeditions: The FriendShip](../games/8/88feec140a2f41c3954365c24393be14.md) | 12 | 1,000 |
 | [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
 | [while True: learn()](../games/w/while_true__learn().md) | 28 | 1,000 |
 | [Who Pressed Mute on Uncle Marcus?](../games/w/who_pressed_mute_on_uncle_marcus.md) | 17 | 1,000 |

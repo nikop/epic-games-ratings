@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.11% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.93% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.60% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.32% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -92,8 +92,8 @@
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 91 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.19% |
 | 92 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
-| 93 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.08% |
 | 93 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.08% |
+| 94 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.07% |
 | 95 | [FORECLOSED](games/f/foreclosed.md) | 2.04% |
 | 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
@@ -211,7 +211,7 @@
 | 208 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 210 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.14% |
 | 210 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.14% |
-| 212 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.13% |
+| 210 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.14% |
 | 213 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 0.12% |
 | 213 | [Fall Guys](games/f/fall_guys.md) | 0.12% |
 | 213 | [Isonzo](games/i/isonzo.md) | 0.12% |
@@ -592,4 +592,4 @@
 | 274 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 274 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 274 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,236 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,237 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
