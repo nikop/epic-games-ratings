@@ -32,10 +32,10 @@
 | The Sunken City Conqueror | 5.00% | ~4 |
 | The Zero Dimensional Capital Conqueror | 5.00% | ~4 |
 | The Inactivated Frozen Conqueror | 5.00% | ~4 |
+| Death Bringer Conqueror | 5.00% | ~4 |
 | Rapidfire | 5.00% | ~4 |
 | Air Interception | 5.00% | ~4 |
 | Hell of a Fight | 5.00% | ~4 |
-| Death Bringer Conqueror | 4.00% | ~3 |
 | Space Ranger: Prologue | 4.00% | ~3 |
 | The Looping Space Conqueror | 2.00% | ~2 |
 | Break Through the Forbidden | 2.00% | ~2 |

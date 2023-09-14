@@ -9,25 +9,25 @@ Rating: 4.54 (Ranked 502)
 | Hotel California | 2.00% | ~13,591 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,591 |
 | Welcome To Hell-A | 2.00% | ~13,591 |
-| Dr. Reed, I Presume? | 1.00% | ~6,795 |
-| Git Gutte! | 1.00% | ~6,795 |
-| Anger Management | 1.00% | ~6,795 |
-| Bookworm | 1.00% | ~6,795 |
-| But Doctor, I am Butcho | 1.00% | ~6,795 |
-| Slayer Squad | 1.00% | ~6,795 |
-| Can't Handle the Truth | 1.00% | ~6,795 |
-| Coup de Grâce | 1.00% | ~6,795 |
-| Like Riding a Bike | 1.00% | ~6,795 |
-| Hazardous Materials | 1.00% | ~6,795 |
-| Friends Like These | 1.00% | ~6,795 |
-| Apex Predator | 1.00% | ~6,795 |
-| Zombologist | 1.00% | ~6,795 |
-| Ooh, Shiny! | 1.00% | ~6,795 |
-| A Patton Emerges | 1.00% | ~6,795 |
-| I Am the Resurrection | 1.00% | ~6,795 |
-| Stacking the Deck | 1.00% | ~6,795 |
-| Our True Nature | 1.00% | ~6,795 |
-| This is My Weapon | 1.00% | ~6,795 |
+| Dr. Reed, I Presume? | 1.00% | ~6,796 |
+| Git Gutte! | 1.00% | ~6,796 |
+| Anger Management | 1.00% | ~6,796 |
+| Bookworm | 1.00% | ~6,796 |
+| But Doctor, I am Butcho | 1.00% | ~6,796 |
+| Slayer Squad | 1.00% | ~6,796 |
+| Can't Handle the Truth | 1.00% | ~6,796 |
+| Coup de Grâce | 1.00% | ~6,796 |
+| Like Riding a Bike | 1.00% | ~6,796 |
+| Hazardous Materials | 1.00% | ~6,796 |
+| Friends Like These | 1.00% | ~6,796 |
+| Apex Predator | 1.00% | ~6,796 |
+| Zombologist | 1.00% | ~6,796 |
+| Ooh, Shiny! | 1.00% | ~6,796 |
+| A Patton Emerges | 1.00% | ~6,796 |
+| I Am the Resurrection | 1.00% | ~6,796 |
+| Stacking the Deck | 1.00% | ~6,796 |
+| Our True Nature | 1.00% | ~6,796 |
+| This is My Weapon | 1.00% | ~6,796 |
 | Perks of the Job | 0.90% | ~6,116 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,116 |
 | Making Your Mark | 0.80% | ~5,436 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,527 (Ranked 22)  
+Progressed: 679,557 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 2,143 (0.32%) (Ranked 177)
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
-| 2023-09-14 | 679,527 | 2,143 |
+| 2023-09-14 | 679,557 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,038  (Ranked 57)  
-Sum: 8,942 (Ranked 94)  
+Sum: 8,945 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -209,7 +209,7 @@ Diff (max vs sum): -37
 | This game is Great for Beginners | 414 |
 | This game has Diverse Characters | 403 |
 | This game has Quickly Understood Controls | 392 |
-| This game is Relaxing | 373 |
+| This game is Relaxing | 376 |
 | This game has Amazing Storytelling | 351 |
 | This game is Extremely Fun | 332 |
 | This game has Amazing Characters | 322 |
@@ -363,4 +363,4 @@ Diff (max vs sum): -37
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
 | 2023-09-12 | 4.54 | 6,016 | 8,905 |
 | 2023-09-13 | 4.54 | 6,027 | 8,924 |
-| 2023-09-14 | 4.54 | 6,038 | 8,942 |
+| 2023-09-14 | 4.54 | 6,038 | 8,945 |

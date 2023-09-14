@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 15.00% | ~5 |
 | Licence To Kill | 9.00% | ~3 |
+| Overkill | 6.00% | ~2 |
 | The Hunt | 6.00% | ~2 |
 | Gibbing Love | 3.00% | ~1 |
 | Head of the Snake | 3.00% | ~1 |
@@ -14,7 +15,6 @@
 | Losing your Head | 3.00% | ~1 |
 | Captain | 3.00% | ~1 |
 | Feel the Spark | 3.00% | ~1 |
-| Overkill | 3.00% | ~1 |
 | Flawless Victory | 3.00% | ~1 |
 | For Science | 3.00% | ~1 |
 | Law and Order | 3.00% | ~1 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1799,
+  "EOS_Progressed": 1814,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4316,6 +4316,11 @@
       "Time": "2023-09-14T12:06:47.6504523+00:00",
       "NumProgressed": 1799,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T13:13:04.0512329+00:00",
+      "NumProgressed": 1814,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4328,7 +4333,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -4344,7 +4349,7 @@
       "Name": "Deadication",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -4368,7 +4373,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -4511,15 +4516,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1799,
+      "Progressed": 1814,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-14T12:06:47.6504518+00:00",
+  "LastChanged_Achievements": "2023-09-14T13:13:04.0512325+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:57:58.6282825+00:00",
-  "LastUpdate_Achievements": "2023-09-14T12:06:47.6504793+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:03:32.6124569+00:00",
+  "LastUpdate_Achievements": "2023-09-14T13:13:04.0512624+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6640,9 +6640,9 @@
       "Count": 3416
     }
   ],
-  "EOS_Progressed": 228728,
+  "EOS_Progressed": 228734,
   "EOS_Completed": 2279,
-  "EOS_NewPlayers": 1017,
+  "EOS_NewPlayers": 1012,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -22905,6 +22905,11 @@
       "Time": "2023-09-14T12:05:13.4604687+00:00",
       "NumProgressed": 228728,
       "NumCompleted": 2279
+    },
+    {
+      "Time": "2023-09-14T13:11:01.7621157+00:00",
+      "NumProgressed": 228734,
+      "NumCompleted": 2279
     }
   ],
   "TotalAchievements": 520,
@@ -24762,9 +24767,9 @@
       "ID": "objective_completed_398",
       "SetID": "cc37lbc",
       "Name": "Nimble Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 457
     },
     {
       "ID": "objective_completed_399",
@@ -27075,21 +27080,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195002,
+      "Progressed": 195008,
       "Completed": 3425
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228728,
+      "Progressed": 228734,
       "Completed": 2279
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-14T08:56:55.6188132+00:00",
-  "LastChanged_Achievements": "2023-09-14T12:05:13.4604679+00:00",
+  "LastChanged_Achievements": "2023-09-14T13:11:01.7621152+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:57:11.1009957+00:00",
-  "LastUpdate_Achievements": "2023-09-14T12:05:13.4628521+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:02:29.5355854+00:00",
+  "LastUpdate_Achievements": "2023-09-14T13:11:01.7645293+00:00"
 }

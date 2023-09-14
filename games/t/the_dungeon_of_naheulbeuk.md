@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,169 |
-| Alt+F4 | 5.00% | ~11,195 |
+| Sowwy! | 30.00% | ~67,174 |
+| Alt+F4 | 5.00% | ~11,196 |
 | Where's that freaking Dwarf? | 4.00% | ~8,956 |
 | Déjà vu | 3.00% | ~6,717 |
 | Sock! SOCK! | 3.00% | ~6,717 |
@@ -36,15 +36,15 @@ Number of Ratings: 118  (23.09.2022)
 | Oh, when I'll be level 10... | 1.00% | ~2,239 |
 | Res Judicata | 0.90% | ~2,015 |
 | The Famous Dungeon of Naheulbeuk | 0.90% | ~2,015 |
+| Dwarf Fortress | 0.90% | ~2,015 |
 | %#*!$*! | 0.90% | ~2,015 |
 | Look but don't touch | 0.90% | ~2,015 |
-| Dwarf Fortress | 0.80% | ~1,791 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,791 |
 | Lust and Debauchery | 0.70% | ~1,567 |
 | Dead for good | 0.60% | ~1,343 |
 | Gargantua | 0.60% | ~1,343 |
 | Material Girl | 0.60% | ~1,343 |
-| In Navalu's footsteps | 0.50% | ~1,119 |
+| In Navalu's footsteps | 0.50% | ~1,120 |
 | An old poacher makes the best gamekeeper | 0.40% | ~896 |
 | We come in peace | 0.40% | ~896 |
 | Lëgal Legend | 0.40% | ~896 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,897 (Ranked 57)  
+Progressed: 223,912 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 2 (0.00%) (Ranked 274)
 | 2023-09-11 | 223,344 | 2 |
 | 2023-09-12 | 223,556 | 2 |
 | 2023-09-13 | 223,808 | 2 |
-| 2023-09-14 | 223,897 | 2 |
+| 2023-09-14 | 223,912 | 2 |
 ## Awards
 Max (Character Customization): 194  (Ranked 276)  
 Sum: 313 (Ranked 338)  

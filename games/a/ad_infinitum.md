@@ -6,16 +6,17 @@
 | ---- | ---------- | ----- |
 | Morgengrauen | 55.00% | ~6 |
 | Path of Despair | 55.00% | ~6 |
+| Awaken | 18.00% | ~2 |
+| Not alone | 18.00% | ~2 |
 | An act of mercy | 9.00% | ~1 |
 | Ad Infinitum | 9.00% | ~1 |
 | Art critic | 9.00% | ~1 |
-| Awaken | 9.00% | ~1 |
 | Clarity | 9.00% | ~1 |
 | Despair | 9.00% | ~1 |
 | Health | 9.00% | ~1 |
+| Hunger | 9.00% | ~1 |
 | Jigsaw | 9.00% | ~1 |
 | Lost | 9.00% | ~1 |
-| Not alone | 9.00% | ~1 |
 | Pain | 9.00% | ~1 |
 | Path of Corruption | 9.00% | ~1 |
 | Peace | 9.00% | ~1 |
@@ -27,7 +28,6 @@
 | Awaiting orders | 0.00% | ~0 |
 | Corruption | 0.00% | ~0 |
 | Hope | 0.00% | ~0 |
-| Hunger | 0.00% | ~0 |
 | Mayhem | 0.00% | ~0 |
 | No one left behind | 0.00% | ~0 |
 | Path of Pain | 0.00% | ~0 |

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11349,
+  "EOS_Progressed": 11352,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9516,6 +9516,11 @@
       "Time": "2023-09-14T12:04:44.2172603+00:00",
       "NumProgressed": 11349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T13:10:23.203324+00:00",
+      "NumProgressed": 11352,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9551,7 +9556,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -9599,7 +9604,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4994
+      "UsersEstimate": 4995
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -9677,9 +9682,9 @@
       "ID": "ACH_WIN_50_GAMES_RATE_IT",
       "SetID": "5ck0pmd",
       "Name": "11 out of 10!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_WIN_50_GAMES_SCRIBBLE_IT",
@@ -9726,14 +9731,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11349,
+      "Progressed": 11352,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-14T12:04:44.2172598+00:00",
+  "LastChanged_Achievements": "2023-09-14T13:10:23.2033237+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3886572+00:00",
-  "LastUpdate_Ratings": "2023-09-14T12:00:17.9939579+00:00",
-  "LastUpdate_Achievements": "2023-09-14T12:04:44.2173216+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:06:39.9271843+00:00",
+  "LastUpdate_Achievements": "2023-09-14T13:10:23.2033824+00:00"
 }

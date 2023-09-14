@@ -845,9 +845,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G4M3R",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -909,9 +909,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "PROGRESS_N4",
@@ -940,8 +940,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-14T12:07:02.2388674+00:00",
+  "LastChanged_Achievements": "2023-09-14T13:13:23.4318051+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:58:14.1822492+00:00",
-  "LastUpdate_Achievements": "2023-09-14T12:07:02.2388838+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:03:55.6898654+00:00",
+  "LastUpdate_Achievements": "2023-09-14T13:13:23.4318239+00:00"
 }

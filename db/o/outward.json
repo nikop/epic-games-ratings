@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -508,9 +508,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3350,
+  "EOS_Progressed": 3351,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4303,6 +4303,11 @@
       "Time": "2023-09-14T12:03:23.1665113+00:00",
       "NumProgressed": 3350,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-14T13:08:27.9467041+00:00",
+      "NumProgressed": 3351,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 42,
@@ -4386,7 +4391,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ForAllAurai_8",
@@ -4450,7 +4455,7 @@
       "Name": "Light of Levant",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "MagicIsaScience_58",
@@ -4498,7 +4503,7 @@
       "Name": "Ready for Summer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "ReadyforWinter_42",
@@ -4610,7 +4615,7 @@
       "Name": "This was a mistake...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -4634,7 +4639,7 @@
       "Name": "Venture Outward",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -4649,15 +4654,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3350,
+      "Progressed": 3351,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-12T04:00:16.8611299+00:00",
-  "LastChanged_Achievements": "2023-09-14T12:03:23.1665106+00:00",
+  "LastChanged_Achievements": "2023-09-14T13:08:27.9467038+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:16.1068917+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:57:31.4288473+00:00",
-  "LastUpdate_Achievements": "2023-09-14T12:03:23.1665637+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:02:57.2633931+00:00",
+  "LastUpdate_Achievements": "2023-09-14T13:08:27.9467515+00:00"
 }

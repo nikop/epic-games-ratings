@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -2839,9 +2839,9 @@
       "Count": 735
     }
   ],
-  "EOS_Progressed": 235951,
+  "EOS_Progressed": 235952,
   "EOS_Completed": 270,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17859,6 +17859,11 @@
       "Time": "2023-09-14T12:04:31.8165173+00:00",
       "NumProgressed": 235951,
       "NumCompleted": 270
+    },
+    {
+      "Time": "2023-09-14T13:10:06.8535587+00:00",
+      "NumProgressed": 235952,
+      "NumCompleted": 270
     }
   ],
   "TotalAchievements": 122,
@@ -17902,7 +17907,7 @@
       "Name": "First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 226513
+      "UsersEstimate": 226514
     },
     {
       "ID": "CURSE1HP",
@@ -17910,7 +17915,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 94380
+      "UsersEstimate": 94381
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -17950,7 +17955,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 125054
+      "UsersEstimate": 125055
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -17966,7 +17971,7 @@
       "Name": "Delving Deeper",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99099
+      "UsersEstimate": 99100
     },
     {
       "ID": "DEPTH12HARD",
@@ -17990,7 +17995,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 172244
+      "UsersEstimate": 172245
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -18046,7 +18051,7 @@
       "Name": "That Was Quick",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 134492
+      "UsersEstimate": 134493
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -18086,7 +18091,7 @@
       "Name": "Who To Trust?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 75504
+      "UsersEstimate": 75505
     },
     {
       "ID": "ENDWOUNDED",
@@ -18134,7 +18139,7 @@
       "Name": "Cold Hearted",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 80223
+      "UsersEstimate": 80224
     },
     {
       "ID": "FULLINVENTORY",
@@ -18270,7 +18275,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 143930
+      "UsersEstimate": 143931
     },
     {
       "ID": "KILL1000",
@@ -18278,7 +18283,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 61347
+      "UsersEstimate": 61348
     },
     {
       "ID": "KILL10000",
@@ -18302,7 +18307,7 @@
       "Name": "The Bestiary",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 94380
+      "UsersEstimate": 94381
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -18366,7 +18371,7 @@
       "Name": "Heartless",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 108537
+      "UsersEstimate": 108538
     },
     {
       "ID": "KILLPARANOIA",
@@ -18374,7 +18379,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 89661
+      "UsersEstimate": 89662
     },
     {
       "ID": "KILLREFLECT10",
@@ -18398,7 +18403,7 @@
       "Name": "Spine Breaker",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 108537
+      "UsersEstimate": 108538
     },
     {
       "ID": "KILLSPITTER",
@@ -18406,7 +18411,7 @@
       "Name": "Shootout",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 84942
+      "UsersEstimate": 84943
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -18454,7 +18459,7 @@
       "Name": "A Donation",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 134492
+      "UsersEstimate": 134493
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -18470,7 +18475,7 @@
       "Name": "C-C-Combo",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 99099
+      "UsersEstimate": 99100
     },
     {
       "ID": "NOEPIC",
@@ -18518,7 +18523,7 @@
       "Name": "A Quick Escape",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 153368
+      "UsersEstimate": 153369
     },
     {
       "ID": "PETRIFY50",
@@ -18526,7 +18531,7 @@
       "Name": "Stone Touch",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 66066
+      "UsersEstimate": 66067
     },
     {
       "ID": "PLAY10HOURS",
@@ -18614,7 +18619,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 209996
+      "UsersEstimate": 209997
     },
     {
       "ID": "SPECIALROOMS10",
@@ -18646,7 +18651,7 @@
       "Name": "Shadow Walker",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 66066
+      "UsersEstimate": 66067
     },
     {
       "ID": "SURVIVEON1",
@@ -18686,7 +18691,7 @@
       "Name": "An Offering",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 143930
+      "UsersEstimate": 143931
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -18845,7 +18850,7 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 235951,
+      "Progressed": 235952,
       "Completed": 270
     }
   ],
@@ -18853,8 +18858,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-09-13T23:58:56.7051417+00:00",
-  "LastChanged_Achievements": "2023-09-14T12:04:31.8165166+00:00",
+  "LastChanged_Achievements": "2023-09-14T13:10:06.8535581+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:52.6906586+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:58:42.144787+00:00",
-  "LastUpdate_Achievements": "2023-09-14T12:04:31.8167209+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:04:34.0577707+00:00",
+  "LastUpdate_Achievements": "2023-09-14T13:10:06.853782+00:00"
 }

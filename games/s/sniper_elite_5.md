@@ -5,20 +5,20 @@ Rating: 4.46 (Ranked 624)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 46.00% | ~1,661 |
-| Confirming Suspicions | 40.00% | ~1,444 |
+| Meeting Resistance | 46.00% | ~1,662 |
+| Confirming Suspicions | 40.00% | ~1,445 |
 | The Kraken Wakes | 36.00% | ~1,300 |
 | It's Starting to Crack | 33.00% | ~1,192 |
-| Change the Channel | 30.00% | ~1,083 |
+| Change the Channel | 30.00% | ~1,084 |
 | Lord of War | 29.00% | ~1,047 |
 | Taking it back | 28.00% | ~1,011 |
 | Resourceful | 26.00% | ~939 |
 | Target America | 26.00% | ~939 |
 | The Kraken Sleeps | 23.00% | ~831 |
-| Liberté | 22.00% | ~794 |
-| Organ Grinder | 22.00% | ~794 |
-| As Quiet as a Mouse | 22.00% | ~794 |
-| Sharpshooter | 21.00% | ~758 |
+| Liberté | 22.00% | ~795 |
+| Organ Grinder | 22.00% | ~795 |
+| As Quiet as a Mouse | 22.00% | ~795 |
+| Sharpshooter | 21.00% | ~759 |
 | Explosive Efficiency | 18.00% | ~650 |
 | Just a Flesh Wound | 17.00% | ~614 |
 | Gunslinger | 17.00% | ~614 |
@@ -30,10 +30,10 @@ Rating: 4.46 (Ranked 624)
 | Skirmisher | 14.00% | ~506 |
 | Die Nussknacker Sweet! | 14.00% | ~506 |
 | Snake in the Grass | 14.00% | ~506 |
-| No Stone Unturned | 13.00% | ~469 |
-| Opposing Force | 13.00% | ~469 |
-| Enemy at the Gates | 13.00% | ~469 |
-| Set Europe Ablaze | 13.00% | ~469 |
+| No Stone Unturned | 13.00% | ~470 |
+| Opposing Force | 13.00% | ~470 |
+| Enemy at the Gates | 13.00% | ~470 |
+| Set Europe Ablaze | 13.00% | ~470 |
 | Precision Is Key | 9.00% | ~325 |
 | My Little Friend | 9.00% | ~325 |
 | Rigged to Blow | 8.00% | ~289 |
@@ -46,16 +46,16 @@ Rating: 4.46 (Ranked 624)
 | Tinkerer | 4.00% | ~144 |
 | Locomotion Commotion | 4.00% | ~144 |
 | Road Rage | 4.00% | ~144 |
-| Last Resort | 4.00% | ~142 |
-| Siegebreaker | 4.00% | ~142 |
-| Ghost of Falaise | 4.00% | ~142 |
+| Last Resort | 4.00% | ~143 |
+| Siegebreaker | 4.00% | ~143 |
+| Ghost of Falaise | 4.00% | ~143 |
+| From Paris with Love | 3.00% | ~108 |
 | Burn after reading | 3.00% | ~108 |
 | Souvenir hunter | 3.00% | ~108 |
 | Shoot for the Moon | 3.00% | ~108 |
 | If You Go Down To The Woods Today | 3.00% | ~107 |
 | Fight Another Day | 3.00% | ~107 |
 | Out of Scope | 2.00% | ~72 |
-| From Paris with Love | 2.00% | ~72 |
 | Eagle Eyed | 2.00% | ~72 |
 | Up close and personal | 2.00% | ~72 |
 | Can't Outrun A Bullet | 2.00% | ~72 |
@@ -69,7 +69,7 @@ Rating: 4.46 (Ranked 624)
 | From Führer Away | 1.00% | ~36 |
 | Alpha | 1.00% | ~36 |
 | Das Familienjuwel | 1.00% | ~36 |
-| Master of Secondaries | 0.90% | ~32 |
+| Master of Secondaries | 0.90% | ~33 |
 | Master of Rifles | 0.80% | ~29 |
 | Master of Pistols | 0.70% | ~25 |
 | Master-at-arms | 0.70% | ~25 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 624)
 | Stroll in the Woods | 0.60% | ~21 |
 | Going Overboard | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,611 (Ranked 158)  
+Progressed: 3,612 (Ranked 158)  
 Completed: 10 (0.28%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 10 (0.28%) (Ranked 185)
 | 2023-09-11 | 3,606 | 10 |
 | 2023-09-12 | 3,609 | 10 |
 | 2023-09-13 | 3,610 | 10 |
-| 2023-09-14 | 3,611 | 10 |
+| 2023-09-14 | 3,612 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

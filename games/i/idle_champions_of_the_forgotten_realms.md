@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~457 |
 | Attack on the Manor | 0.20% | ~457 |
 | The Death Curse | 0.20% | ~457 |
+| Nimble Escape | 0.20% | ~457 |
 | Useless Allies | 0.20% | ~457 |
 | Premature Betrayal | 0.20% | ~457 |
 | Exploring Port Nyanzaru | 0.20% | ~457 |
@@ -262,7 +263,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Diversity Day-Trip | 0.10% | ~229 |
 | Late Game | 0.10% | ~229 |
 | Shadowfell Stalwarts | 0.10% | ~195 |
-| Nimble Escape | 0.10% | ~229 |
 | Nimblest Escape | 0.10% | ~229 |
 | Stumbling Escape | 0.10% | ~229 |
 | Distracted Escape | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,728 (Ranked 54)  
+Progressed: 228,734 (Ranked 54)  
 Completed: 2,279 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -674,7 +674,7 @@ Completed: 2,279 (1.00%) (Ranked 122)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,728 | 2,279 |
+| 2023-09-14 | 228,734 | 2,279 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
 Sum: 31,577 (Ranked 39)  

@@ -988,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2964,
+  "EOS_Progressed": 2969,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1288,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2783,6 +2783,11 @@
       "Time": "2023-09-14T12:05:34.049293+00:00",
       "NumProgressed": 2964,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T13:11:28.1514598+00:00",
+      "NumProgressed": 2969,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2825,9 +2830,9 @@
       "ID": "a_15",
       "SetID": "daiie3o",
       "Name": "Big Money",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 89
     },
     {
       "ID": "a_16",
@@ -2843,7 +2848,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1039
     },
     {
       "ID": "a_19",
@@ -3042,7 +3047,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2964,
+      "Progressed": 2969,
       "Completed": 5
     }
   ],
@@ -3050,8 +3055,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-14T12:05:34.0492925+00:00",
+  "LastChanged_Achievements": "2023-09-14T13:11:28.1514594+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-14T12:00:59.2518135+00:00",
-  "LastUpdate_Achievements": "2023-09-14T12:05:34.0493186+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:07:34.3922017+00:00",
+  "LastUpdate_Achievements": "2023-09-14T13:11:28.1514836+00:00"
 }

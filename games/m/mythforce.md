@@ -17,9 +17,9 @@ Number of Ratings: 285  (23.09.2022)
 | Mushroom Madness! | 1.00% | ~18 |
 | Perk Shard Punch Card | 1.00% | ~18 |
 | Ten Steps from the Grave | 1.00% | ~18 |
-| Cold-Blooded Critters | 0.80% | ~14 |
-| Deadication | 0.80% | ~14 |
-| Everything Must Go! | 0.80% | ~14 |
+| Cold-Blooded Critters | 0.80% | ~15 |
+| Deadication | 0.80% | ~15 |
+| Everything Must Go! | 0.80% | ~15 |
 | The Harder They Fall | 0.70% | ~13 |
 | Season Finale | 0.70% | ~13 |
 | Spending Spree | 0.70% | ~13 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | We've Got a Kaiju on the Field | 0.10% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,799 (Ranked 185)  
+Progressed: 1,814 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 1,321 | 0 |
 | 2023-09-12 | 1,507 | 0 |
 | 2023-09-13 | 1,711 | 0 |
-| 2023-09-14 | 1,799 | 0 |
+| 2023-09-14 | 1,814 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 355)  

@@ -34,13 +34,13 @@
 | Sheriff ✔ | 4.00% | ~11 |
 | City on fire ✔ | 4.00% | ~11 |
 | Infected ✔ | 4.00% | ~11 |
+| Priest ✔ | 4.00% | ~11 |
 | Car ✔ | 3.00% | ~8 |
 | Crocodile Attack ✔ | 3.00% | ~8 |
 | Secret ✔ | 3.00% | ~8 |
 | Boss 2 ✔ | 3.00% | ~8 |
 | Mutant run ✔ | 3.00% | ~8 |
 | Osipov's video message ✔ | 3.00% | ~8 |
-| Priest ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |
 | Boss 3 ✔ | 3.00% | ~8 |
 | Seeker One ✔ | 2.00% | ~5 |
