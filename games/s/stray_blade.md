@@ -11,10 +11,10 @@
 | Apprentice | 29.00% | ~21 |
 | Can't touch this | 22.00% | ~16 |
 | Don't Cry Wolf | 21.00% | ~15 |
-| Freezing Cold | 15.00% | ~11 |
+| Freezing Cold | 16.00% | ~12 |
 | The Power of the Mountains | 15.00% | ~11 |
+| Nothing but the Truth | 14.00% | ~10 |
 | Searing Heat | 12.00% | ~9 |
-| Nothing but the Truth | 12.00% | ~9 |
 | Expert | 12.00% | ~9 |
 | Changing the World | 12.00% | ~9 |
 | The Golden Flash | 11.00% | ~8 |
@@ -32,13 +32,13 @@
 | Ancient Powers | 4.00% | ~3 |
 | Finally! | 4.00% | ~3 |
 | The End | 4.00% | ~3 |
+| A Deceiving Gift | 4.00% | ~3 |
 | Unveiling the Truth | 4.00% | ~3 |
 | Sponsor | 3.00% | ~2 |
 | Wizard | 3.00% | ~2 |
 | Wayseeker | 3.00% | ~2 |
 | Pathfinder | 3.00% | ~2 |
 | Globetrotter | 3.00% | ~2 |
-| A Deceiving Gift | 3.00% | ~2 |
 | Style over Stats | 1.00% | ~1 |
 | Mountain Lover | 1.00% | ~1 |
 | Wasteland Connoisseur | 1.00% | ~1 |

@@ -32,8 +32,8 @@ Rating: 4.54 (Ranked 502)
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,114 |
 | Making Your Mark | 0.80% | ~5,435 |
 | Humanity Distilled | 0.80% | ~5,435 |
-| Down with the Sickness | 0.70% | ~4,755 |
-| Max Headroom | 0.70% | ~4,755 |
+| Down with the Sickness | 0.70% | ~4,756 |
+| Max Headroom | 0.70% | ~4,756 |
 | Jumbo Keyring | 0.50% | ~3,397 |
 | Go, Bobcats! | 0.50% | ~3,397 |
 | Rising Star | 0.50% | ~3,397 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,351 (Ranked 22)  
+Progressed: 679,365 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 2,143 (0.32%) (Ranked 177)
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
+| 2023-09-14 | 679,365 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,027  (Ranked 57)  
 Sum: 8,924 (Ranked 94)  

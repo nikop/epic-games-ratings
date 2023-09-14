@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_Completed": 186,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,11 +130,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2545,
+  "EOS_Progressed": 2546,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -3520,6 +3520,11 @@
       "Time": "2023-09-13T19:05:29.3682207+00:00",
       "NumProgressed": 2545,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-14T00:06:21.5748761+00:00",
+      "NumProgressed": 2546,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3595,7 +3600,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3619,7 +3624,7 @@
       "Name": "I smell fear",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -3651,7 +3656,7 @@
       "Name": "Past trauma",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -3683,7 +3688,7 @@
       "Name": "Do you trust me?",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -3699,7 +3704,7 @@
       "Name": "Chains master",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -3707,7 +3712,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3715,7 +3720,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3731,7 +3736,7 @@
       "Name": "The end of the experiments",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -3747,7 +3752,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3779,7 +3784,7 @@
       "Name": "Sacred Woods",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3787,7 +3792,7 @@
       "Name": "Glyndemere",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -3795,7 +3800,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3819,7 +3824,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -3835,7 +3840,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3843,7 +3848,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "STB_PLATINUM",
@@ -3883,7 +3888,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -3907,7 +3912,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1910
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3931,7 +3936,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -3947,14 +3952,14 @@
       "Name": "Petricite Burst",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2545,
+      "Progressed": 2546,
       "Completed": 7
     }
   ],
@@ -3962,8 +3967,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-13T23:06:12.5212262+00:00",
+  "LastChanged_Achievements": "2023-09-14T00:06:21.5748752+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:13.613728+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:01:36.0241997+00:00",
-  "LastUpdate_Achievements": "2023-09-13T23:06:12.5212975+00:00"
+  "LastUpdate_Ratings": "2023-09-14T00:01:42.9697312+00:00",
+  "LastUpdate_Achievements": "2023-09-14T00:06:21.5749444+00:00"
 }

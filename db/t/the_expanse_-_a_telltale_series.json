@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10525,
+  "EOS_Progressed": 10527,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5265,6 +5265,11 @@
       "Time": "2023-09-13T23:08:06.4987838+00:00",
       "NumProgressed": 10525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T00:08:21.1813768+00:00",
+      "NumProgressed": 10527,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5277,7 +5282,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "10",
@@ -5317,7 +5322,7 @@
       "Name": "Doctor Approved",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "15",
@@ -5325,7 +5330,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2736
+      "UsersEstimate": 2737
     },
     {
       "ID": "16",
@@ -5349,7 +5354,7 @@
       "Name": "Bottoms up!",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "19",
@@ -5373,7 +5378,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "21",
@@ -5493,7 +5498,7 @@
       "Name": "Grave Robber",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "8",
@@ -5516,7 +5521,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10525,
+      "Progressed": 10527,
       "Completed": 0
     }
   ],
@@ -5524,8 +5529,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-13T23:08:06.4987833+00:00",
+  "LastChanged_Achievements": "2023-09-14T00:08:21.1813762+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-13T22:58:26.3389415+00:00",
-  "LastUpdate_Achievements": "2023-09-13T23:08:06.4988942+00:00"
+  "LastUpdate_Ratings": "2023-09-13T23:58:21.3622652+00:00",
+  "LastUpdate_Achievements": "2023-09-14T00:08:21.1814353+00:00"
 }

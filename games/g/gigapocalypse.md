@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Too Cool For School | 86.00% | ~159 |
 | Caretaker | 84.00% | ~155 |
-| Feng Shui | 72.00% | ~133 |
+| Feng Shui | 73.00% | ~135 |
 | Who's A Good Boy | 71.00% | ~131 |
-| Power Up | 70.00% | ~130 |
+| Power Up | 71.00% | ~131 |
 | Thick Skin | 69.00% | ~128 |
 | Math Wizard | 66.00% | ~122 |
 | Destroy Erase Improve | 66.00% | ~122 |

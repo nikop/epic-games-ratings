@@ -14,7 +14,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's just the beginning | 59.00% | ~28,666 |
 | This is just my weekend vehicle | 58.00% | ~28,180 |
 | Hard work pays off | 53.00% | ~25,751 |
-| It's never too late to farm | 49.00% | ~23,807 |
+| It's never too late to farm | 50.00% | ~24,293 |
 | All out of Land | 44.00% | ~21,378 |
 | Field Trip | 43.00% | ~20,892 |
 | I like to switch it up | 40.00% | ~19,434 |

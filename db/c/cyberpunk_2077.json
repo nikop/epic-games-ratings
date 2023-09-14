@@ -11855,9 +11855,9 @@
       "Count": 5915
     }
   ],
-  "EOS_Progressed": 876046,
+  "EOS_Progressed": 876048,
   "EOS_Completed": 2084,
-  "EOS_NewPlayers": 1128,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -28205,6 +28205,11 @@
       "Time": "2023-09-13T22:08:09.3447782+00:00",
       "NumProgressed": 876046,
       "NumCompleted": 2084
+    },
+    {
+      "Time": "2023-09-14T00:07:39.7614683+00:00",
+      "NumProgressed": 876048,
+      "NumCompleted": 2084
     }
   ],
   "TotalAchievements": 44,
@@ -28240,7 +28245,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 157688
+      "UsersEstimate": 157689
     },
     {
       "ID": "Denied",
@@ -28248,7 +28253,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 350418
+      "UsersEstimate": 350419
     },
     {
       "ID": "FollowingTheRiver",
@@ -28256,7 +28261,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122646
+      "UsersEstimate": 122647
     },
     {
       "ID": "Fortuneteller",
@@ -28288,7 +28293,7 @@
       "Name": "Gun Fu",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 140167
+      "UsersEstimate": 140168
     },
     {
       "ID": "Gunslinger",
@@ -28304,7 +28309,7 @@
       "Name": "Master Crafter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122646
+      "UsersEstimate": 122647
     },
     {
       "ID": "IAmMaxTac",
@@ -28312,7 +28317,7 @@
       "Name": "I Am The Law",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 122646
+      "UsersEstimate": 122647
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -28392,7 +28397,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 254053
+      "UsersEstimate": 254054
     },
     {
       "ID": "Specialist",
@@ -28432,7 +28437,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 604472
+      "UsersEstimate": 604473
     },
     {
       "ID": "TheHermit",
@@ -28448,7 +28453,7 @@
       "Name": "The High Priestess",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 192730
+      "UsersEstimate": 192731
     },
     {
       "ID": "TheLovers",
@@ -28456,7 +28461,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 306616
+      "UsersEstimate": 306617
     },
     {
       "ID": "TheStar",
@@ -28488,7 +28493,7 @@
       "Name": "The World",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 157688
+      "UsersEstimate": 157689
     },
     {
       "ID": "ThisIsPacifica",
@@ -28536,7 +28541,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 122646
+      "UsersEstimate": 122647
     },
     {
       "ID": "VForVendetta",
@@ -28560,28 +28565,28 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 192730
+      "UsersEstimate": 192731
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 876046,
+      "Progressed": 876048,
       "Completed": 2084
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 4669,
-      "Completed": 4669
+      "Progressed": 4671,
+      "Completed": 4671
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-13T22:57:15.0582752+00:00",
-  "LastChanged_Achievements": "2023-09-13T23:07:27.6990259+00:00",
+  "LastChanged_Achievements": "2023-09-14T00:07:39.7614677+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.297656+00:00",
-  "LastUpdate_Ratings": "2023-09-13T22:57:15.0582761+00:00",
-  "LastUpdate_Achievements": "2023-09-13T23:07:27.6991862+00:00"
+  "LastUpdate_Ratings": "2023-09-13T23:57:03.6040574+00:00",
+  "LastUpdate_Achievements": "2023-09-14T00:07:39.7616051+00:00"
 }

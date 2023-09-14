@@ -4,7 +4,7 @@
   "ProductSlug": "learning-factory-4d2213",
   "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 351,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-01-26T15:30:00+00:00",
@@ -506,8 +506,8 @@
   "FirstSeenRating": "2023-03-31T05:57:09.720621+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.8222682+00:00",
   "LastChanged": "2023-03-31T05:57:09.7206211+00:00",
-  "LastChanged_Achievements": "2023-09-13T23:07:05.5445572+00:00",
+  "LastChanged_Achievements": "2023-09-14T00:07:16.554942+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:18.5129367+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:01:45.049067+00:00",
-  "LastUpdate_Achievements": "2023-09-13T23:07:05.5446256+00:00"
+  "LastUpdate_Ratings": "2023-09-14T00:01:51.9952566+00:00",
+  "LastUpdate_Achievements": "2023-09-14T00:07:16.5549896+00:00"
 }

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~1,673 |
-| A Thorny Situation | 67.00% | ~1,556 |
-| ... And Spit Back Out | 52.00% | ~1,208 |
-| Break-Net Speed | 40.00% | ~929 |
-| Bramble Breaker | 33.00% | ~767 |
-| Miner 49er | 31.00% | ~720 |
-| Humble Collector | 29.00% | ~674 |
-| Calm Sailing | 17.00% | ~395 |
-| Oui, Chef! | 15.00% | ~348 |
-| Open the Gate! | 14.00% | ~325 |
-| Lumberjack | 13.00% | ~302 |
-| Mist Walker | 11.00% | ~256 |
-| Botanical Breakthrough | 7.00% | ~163 |
-| Beach Comber | 6.00% | ~139 |
-| Clear the Air | 4.00% | ~93 |
-| Search for the Hairy Grell | 2.00% | ~46 |
-| Higher Tax Bracket | 2.00% | ~46 |
-| Skilled | 2.00% | ~46 |
+| Azoria Beckons | 72.00% | ~1,683 |
+| A Thorny Situation | 67.00% | ~1,566 |
+| ... And Spit Back Out | 52.00% | ~1,216 |
+| Break-Net Speed | 40.00% | ~935 |
+| Bramble Breaker | 33.00% | ~772 |
+| Miner 49er | 31.00% | ~725 |
+| Humble Collector | 29.00% | ~678 |
+| Calm Sailing | 17.00% | ~397 |
+| Oui, Chef! | 15.00% | ~351 |
+| Open the Gate! | 14.00% | ~327 |
+| Lumberjack | 13.00% | ~304 |
+| Mist Walker | 12.00% | ~281 |
+| Botanical Breakthrough | 7.00% | ~164 |
+| Beach Comber | 6.00% | ~140 |
+| Clear the Air | 4.00% | ~94 |
+| Search for the Hairy Grell | 2.00% | ~47 |
+| Higher Tax Bracket | 2.00% | ~47 |
+| Skilled | 2.00% | ~47 |
 | Got to Catch Them All | 1.00% | ~23 |
 | Rumble in the Jumble | 1.00% | ~23 |
 | Fanatical Farmer | 1.00% | ~23 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~2 |
 | Very Skilled | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,323 (Ranked 177)  
+Progressed: 2,338 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,3 +61,4 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 1,169 | 0 |
 | 2023-09-12 | 1,849 | 0 |
 | 2023-09-13 | 2,323 | 0 |
+| 2023-09-14 | 2,338 | 0 |

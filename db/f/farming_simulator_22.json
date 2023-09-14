@@ -9005,7 +9005,7 @@
   ],
   "EOS_Progressed": 48586,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -22361,9 +22361,9 @@
       "ID": "LoadedOldSavegame",
       "SetID": "636ci4d",
       "Name": "It\u0027s never too late to farm",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 23807
+      "UsersEstimate": 24293
     },
     {
       "ID": "Mission",
@@ -22529,8 +22529,8 @@
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-09-13T19:58:59.0761637+00:00",
-  "LastChanged_Achievements": "2023-09-13T23:08:26.2339571+00:00",
+  "LastChanged_Achievements": "2023-09-14T00:08:42.0479255+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:02.5166492+00:00",
-  "LastUpdate_Ratings": "2023-09-13T22:59:13.3932145+00:00",
-  "LastUpdate_Achievements": "2023-09-13T23:08:26.2340843+00:00"
+  "LastUpdate_Ratings": "2023-09-13T23:59:09.6802014+00:00",
+  "LastUpdate_Achievements": "2023-09-14T00:08:42.0480613+00:00"
 }

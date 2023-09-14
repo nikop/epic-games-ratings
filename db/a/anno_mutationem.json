@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 669,
+  "EOS_Progressed": 670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -509,6 +509,11 @@
       "Time": "2023-09-10T07:03:19.7329487+00:00",
       "NumProgressed": 669,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T00:04:53.7462711+00:00",
+      "NumProgressed": 670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -560,7 +565,7 @@
       "Name": "Club Star",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "Combine",
@@ -728,7 +733,7 @@
       "Name": "The Warlord",
       "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -768,7 +773,7 @@
       "Name": "Woman on a (side) mission",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "You_are_the_One",
@@ -784,7 +789,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "posters",
@@ -807,7 +812,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 669,
+      "Progressed": 670,
       "Completed": 0
     }
   ],
@@ -815,8 +820,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-09-07T23:01:24.8259304+00:00",
-  "LastChanged_Achievements": "2023-09-13T23:04:48.5310639+00:00",
+  "LastChanged_Achievements": "2023-09-14T00:04:53.7462706+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:18.1735069+00:00",
-  "LastUpdate_Ratings": "2023-09-13T22:57:15.775495+00:00",
-  "LastUpdate_Achievements": "2023-09-13T23:04:48.5311198+00:00"
+  "LastUpdate_Ratings": "2023-09-13T23:57:04.4809679+00:00",
+  "LastUpdate_Achievements": "2023-09-14T00:04:53.746302+00:00"
 }

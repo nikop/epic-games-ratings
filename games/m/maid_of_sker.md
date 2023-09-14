@@ -9,7 +9,7 @@
 | Don't Breathe | 31.00% | ~56 |
 | Smooth Operator | 16.00% | ~29 |
 | Easy Listening | 15.00% | ~27 |
-| Rapturous Applause! | 14.00% | ~25 |
+| Rapturous Applause! | 15.00% | ~27 |
 | Perfect Harmony! | 13.00% | ~24 |
 | Wales Interactive | 10.00% | ~18 |
 | Chief Butler | 8.00% | ~15 |

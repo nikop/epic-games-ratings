@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 654,
+  "EOS_Progressed": 655,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.82,
   "EosHistory": [
@@ -2379,6 +2379,11 @@
       "Time": "2023-09-13T14:05:47.0763553+00:00",
       "NumProgressed": 654,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-09-14T00:05:47.5669097+00:00",
+      "NumProgressed": 655,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 28,
@@ -2398,7 +2403,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "MQ02_1",
@@ -2406,7 +2411,7 @@
       "Name": "High Profile",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "MQ02_2",
@@ -2446,7 +2451,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "MQ03_3",
@@ -2470,7 +2475,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "MQ04_1",
@@ -2494,7 +2499,7 @@
       "Name": "The New World",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MQ05_1",
@@ -2510,7 +2515,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "MQ05_3",
@@ -2542,7 +2547,7 @@
       "Name": "Bookworm",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "MQ06_3",
@@ -2566,7 +2571,7 @@
       "Name": "Read It And Weep",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "MQ07_2",
@@ -2580,9 +2585,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 236
     },
     {
       "ID": "MQ08_2",
@@ -2613,7 +2618,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 654,
+      "Progressed": 655,
       "Completed": 25
     }
   ],
@@ -2621,8 +2626,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-08-14T02:12:32.7608826+00:00",
-  "LastChanged_Achievements": "2023-09-13T23:05:39.7932432+00:00",
+  "LastChanged_Achievements": "2023-09-14T00:05:47.566909+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:01:33.7089917+00:00",
-  "LastUpdate_Achievements": "2023-09-13T23:05:39.7933256+00:00"
+  "LastUpdate_Ratings": "2023-09-14T00:01:40.5609977+00:00",
+  "LastUpdate_Achievements": "2023-09-14T00:05:47.5669433+00:00"
 }

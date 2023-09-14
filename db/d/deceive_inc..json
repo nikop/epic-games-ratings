@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -250,7 +250,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17979,
+  "EOS_Progressed": 17980,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 2,
@@ -10125,6 +10125,11 @@
       "Time": "2023-09-13T20:05:55.1942079+00:00",
       "NumProgressed": 17979,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-14T00:06:22.3777962+00:00",
+      "NumProgressed": 17980,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10152,7 +10157,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "0004",
@@ -10320,7 +10325,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3955
+      "UsersEstimate": 3956
     },
     {
       "ID": "0025",
@@ -10328,7 +10333,7 @@
       "Name": "Tailor-Made",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3056
+      "UsersEstimate": 3057
     },
     {
       "ID": "0026",
@@ -10376,7 +10381,7 @@
       "Name": "Private Collection",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "0032",
@@ -10400,7 +10405,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "0035",
@@ -10423,7 +10428,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17979,
+      "Progressed": 17980,
       "Completed": 3
     }
   ],
@@ -10431,8 +10436,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-13T23:06:13.3549324+00:00",
+  "LastChanged_Achievements": "2023-09-14T00:06:22.3777952+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-13T22:59:18.7660912+00:00",
-  "LastUpdate_Achievements": "2023-09-13T23:06:13.3550113+00:00"
+  "LastUpdate_Ratings": "2023-09-13T23:59:15.4507442+00:00",
+  "LastUpdate_Achievements": "2023-09-14T00:06:22.3778933+00:00"
 }
