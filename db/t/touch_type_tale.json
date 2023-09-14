@@ -3,8 +3,8 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3281,
+  "EOS_Progressed": 3288,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.34,
+  "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.3745824+00:00",
@@ -3179,6 +3179,11 @@
       "Time": "2023-09-14T20:06:22.7441996+00:00",
       "NumProgressed": 3281,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-14T21:05:38.2640614+00:00",
+      "NumProgressed": 3288,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3190,7 +3195,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "bonus2",
@@ -3214,7 +3219,7 @@
       "Name": "Work It",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "bonus5",
@@ -3238,7 +3243,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2920
+      "UsersEstimate": 2926
     },
     {
       "ID": "campaign10",
@@ -3254,7 +3259,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "campaign12",
@@ -3270,7 +3275,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "campaign14",
@@ -3278,7 +3283,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "campaign15",
@@ -3286,7 +3291,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "campaign16",
@@ -3294,7 +3299,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "campaign17",
@@ -3302,7 +3307,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "campaign18",
@@ -3310,7 +3315,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "campaign19",
@@ -3326,7 +3331,7 @@
       "Name": "Flanked!",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2565
     },
     {
       "ID": "campaign20",
@@ -3342,7 +3347,7 @@
       "Name": "Economics 101",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2071
     },
     {
       "ID": "campaign4",
@@ -3350,7 +3355,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1512
     },
     {
       "ID": "campaign5",
@@ -3358,7 +3363,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "campaign6",
@@ -3366,7 +3371,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "campaign7",
@@ -3374,7 +3379,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 919
+      "UsersEstimate": 921
     },
     {
       "ID": "campaign8",
@@ -3398,7 +3403,7 @@
       "Name": "Do the Splits",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1315
     },
     {
       "ID": "scenario2",
@@ -3406,7 +3411,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 623
+      "UsersEstimate": 625
     },
     {
       "ID": "scenario3",
@@ -3438,7 +3443,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "scenario7",
@@ -3446,14 +3451,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3281,
+      "Progressed": 3288,
       "Completed": 11
     }
   ],
@@ -3461,8 +3466,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-14T20:06:22.7441989+00:00",
+  "LastChanged_Achievements": "2023-09-14T21:05:38.2640607+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-14T20:00:21.7851616+00:00",
-  "LastUpdate_Achievements": "2023-09-14T20:06:22.7442506+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:59:45.6353299+00:00",
+  "LastUpdate_Achievements": "2023-09-14T21:05:38.2641097+00:00"
 }

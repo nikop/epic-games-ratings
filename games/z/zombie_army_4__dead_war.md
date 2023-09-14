@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~434 |
 | None more hard | 0.50% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,445 (Ranked 93)  
+Progressed: 43,445 (Ranked 94)  
 Completed: 25 (0.06%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |

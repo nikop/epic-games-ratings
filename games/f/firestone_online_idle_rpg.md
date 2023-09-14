@@ -5,8 +5,8 @@ Rating: 4.02 (Ranked 941)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,798 |
-| World Map | 79.00% | ~1,527 |
+| Victor | 93.00% | ~1,799 |
+| World Map | 79.00% | ~1,528 |
 | Temple of Eternals | 57.00% | ~1,102 |
 | Prestigious | 54.00% | ~1,044 |
 | Fellowship Power | 41.00% | ~793 |
@@ -33,11 +33,11 @@ Rating: 4.02 (Ranked 941)
 | Doing My Part | 11.00% | ~213 |
 | Hunter | 11.00% | ~213 |
 | Mastery | 11.00% | ~213 |
-| Moving Up The Ladder | 11.00% | ~213 |
 | Relic Of The Past | 11.00% | ~213 |
 | The power of Awakening | 11.00% | ~213 |
 | Four Leaf Clover | 10.00% | ~193 |
 | Frostfire Liberator | 10.00% | ~193 |
+| Moving Up The Ladder | 10.00% | ~193 |
 | Scroll Master | 10.00% | ~193 |
 | Here We Go Again | 9.00% | ~174 |
 | Master Enchanter | 9.00% | ~174 |
@@ -49,12 +49,12 @@ Rating: 4.02 (Ranked 941)
 | Weekly Quest Completionist | 8.00% | ~155 |
 | Blueprint Upgrades | 7.00% | ~135 |
 | Engineer Mastery | 7.00% | ~135 |
+| Lock And Load | 7.00% | ~135 |
 | Sailor | 7.00% | ~135 |
 | The Expeditioner | 7.00% | ~135 |
 | Ancient Knowledge | 6.00% | ~116 |
 | How Do You Turn This On? | 6.00% | ~116 |
 | Legendary | 6.00% | ~116 |
-| Lock And Load | 6.00% | ~116 |
 | Missions Dedication | 6.00% | ~116 |
 | The Alchemist | 6.00% | ~116 |
 | Active Member | 5.00% | ~97 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 941)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,933 (Ranked 182)  
+Progressed: 1,934 (Ranked 182)  
 Completed: 2 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 2 (0.10%) (Ranked 221)
 | 2023-09-10 | 1,925 | 2 |
 | 2023-09-11 | 1,928 | 2 |
 | 2023-09-12 | 1,929 | 2 |
-| 2023-09-14 | 1,933 | 2 |
+| 2023-09-14 | 1,934 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 21  (Ranked 506)  
 Sum: 42 (Ranked 462)  

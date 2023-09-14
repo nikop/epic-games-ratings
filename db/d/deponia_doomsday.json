@@ -5,9 +5,9 @@
   "Ranking_Rating": 468,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 390,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
@@ -250,6 +250,11 @@
       "Time": "2023-09-14T20:06:29.6297287+00:00",
       "NumProgressed": 389,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-14T21:05:43.7452259+00:00",
+      "NumProgressed": 390,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -261,7 +266,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "dep4_achievement_10",
@@ -299,9 +304,9 @@
       "ID": "dep4_achievement_14",
       "SetID": "5d32b60",
       "Name": "Shall we play a game?",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 187
     },
     {
       "ID": "dep4_achievement_15",
@@ -333,7 +338,7 @@
       "Name": "Chunky",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "dep4_achievement_19",
@@ -341,7 +346,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "dep4_achievement_2",
@@ -349,7 +354,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "dep4_achievement_20",
@@ -371,9 +376,9 @@
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 113
     },
     {
       "ID": "dep4_achievement_23",
@@ -381,7 +386,7 @@
       "Name": "Every man for himself!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "dep4_achievement_24",
@@ -397,15 +402,15 @@
       "Name": "Monstrous Harassment",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "dep4_achievement_26",
       "SetID": "5d32b60",
       "Name": "Scaffolding Expert",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "dep4_achievement_27",
@@ -421,7 +426,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "dep4_achievement_29",
@@ -437,7 +442,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "dep4_achievement_30",
@@ -469,7 +474,7 @@
       "Name": "Heading the inverter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "dep4_achievement_34",
@@ -493,7 +498,7 @@
       "Name": "Blast from the Past",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "dep4_achievement_4",
@@ -501,15 +506,15 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "dep4_achievement_5",
       "SetID": "5d32b60",
       "Name": "Boat of love, boat of love",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 187
     },
     {
       "ID": "dep4_achievement_6",
@@ -517,7 +522,7 @@
       "Name": "School\u0027s out",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "dep4_achievement_7",
@@ -548,7 +553,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 390,
       "Completed": 6
     }
   ],
@@ -556,8 +561,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-09-14T20:06:29.6297281+00:00",
+  "LastChanged_Achievements": "2023-09-14T21:05:43.7452252+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.2761256+00:00",
-  "LastUpdate_Ratings": "2023-09-14T20:00:40.1561824+00:00",
-  "LastUpdate_Achievements": "2023-09-14T20:06:29.629754+00:00"
+  "LastUpdate_Ratings": "2023-09-14T21:00:04.333702+00:00",
+  "LastUpdate_Achievements": "2023-09-14T21:05:43.7452551+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 581,
+  "EOS_Progressed": 582,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2504,6 +2504,11 @@
       "Time": "2023-09-14T19:05:34.1938053+00:00",
       "NumProgressed": 581,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T21:05:18.4516866+00:00",
+      "NumProgressed": 582,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2571,7 +2576,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Clothes10",
@@ -2675,7 +2680,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Money10000",
@@ -2691,7 +2696,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "Packing20",
@@ -2715,7 +2720,7 @@
       "Name": "Home Cook",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "RecipeDifferent30",
@@ -2779,7 +2784,7 @@
       "Name": "Italian Style",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "UnlockAssiette",
@@ -2834,7 +2839,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 581,
+      "Progressed": 582,
       "Completed": 0
     }
   ],
@@ -2842,8 +2847,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-14T20:05:59.3227758+00:00",
+  "LastChanged_Achievements": "2023-09-14T21:05:18.4516861+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6350112+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:58:00.9064451+00:00",
-  "LastUpdate_Achievements": "2023-09-14T20:05:59.3228231+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:57:51.6442693+00:00",
+  "LastUpdate_Achievements": "2023-09-14T21:05:18.451732+00:00"
 }

@@ -19,7 +19,7 @@ Rating: 4.58 (Ranked 430)
 | Something Wicked | 0.30% | ~60 |
 | The Key | 0.20% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,941 (Ranked 113)  
+Progressed: 19,942 (Ranked 113)  
 Completed: 18 (0.09%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 18 (0.09%) (Ranked 225)
 | 2023-09-11 | 19,921 | 18 |
 | 2023-09-12 | 19,933 | 18 |
 | 2023-09-13 | 19,935 | 18 |
-| 2023-09-14 | 19,941 | 18 |
+| 2023-09-14 | 19,942 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

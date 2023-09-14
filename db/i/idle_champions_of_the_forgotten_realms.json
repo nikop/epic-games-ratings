@@ -6,7 +6,7 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 55,
-  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -6646,9 +6646,9 @@
       "Count": 3416
     }
   ],
-  "EOS_Progressed": 228778,
+  "EOS_Progressed": 228788,
   "EOS_Completed": 2279,
-  "EOS_NewPlayers": 978,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -22951,6 +22951,11 @@
       "Time": "2023-09-14T20:05:53.8292792+00:00",
       "NumProgressed": 228778,
       "NumCompleted": 2279
+    },
+    {
+      "Time": "2023-09-14T21:05:14.3200032+00:00",
+      "NumProgressed": 228788,
+      "NumCompleted": 2279
     }
   ],
   "TotalAchievements": 520,
@@ -23330,7 +23335,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "objective_completed_110",
@@ -24184,9 +24189,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 686
     },
     {
       "ID": "objective_completed_17",
@@ -27121,21 +27126,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195052,
-      "Completed": 3425
+      "Progressed": 195062,
+      "Completed": 3426
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228778,
+      "Progressed": 228788,
       "Completed": 2279
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-14T14:57:18.9248685+00:00",
-  "LastChanged_Achievements": "2023-09-14T20:05:53.8292784+00:00",
+  "LastChanged_Achievements": "2023-09-14T21:05:14.3200026+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:57:31.1139234+00:00",
-  "LastUpdate_Achievements": "2023-09-14T20:05:53.8323183+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:57:28.338365+00:00",
+  "LastUpdate_Achievements": "2023-09-14T21:05:14.3230444+00:00"
 }

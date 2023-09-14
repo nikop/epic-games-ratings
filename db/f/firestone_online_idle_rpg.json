@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -286,9 +286,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 1933,
+  "EOS_Progressed": 1934,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5561,6 +5561,11 @@
       "Time": "2023-09-14T16:08:43.690898+00:00",
       "NumProgressed": 1933,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-14T21:06:37.797023+00:00",
+      "NumProgressed": 1934,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -5874,9 +5879,9 @@
       "ID": "lockandload",
       "SetID": "3nl4bcg",
       "Name": "Lock And Load",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 135
     },
     {
       "ID": "masterenchanter",
@@ -5922,9 +5927,9 @@
       "ID": "movinguptheladder",
       "SetID": "3nl4bcg",
       "Name": "Moving Up The Ladder",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 193
     },
     {
       "ID": "mysteriousrock",
@@ -6132,7 +6137,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "warmachinesarmy",
@@ -6164,14 +6169,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1933,
+      "Progressed": 1934,
       "Completed": 2
     }
   ],
@@ -6179,8 +6184,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-09-13T11:57:01.2481274+00:00",
-  "LastChanged_Achievements": "2023-09-14T20:07:33.7935893+00:00",
+  "LastChanged_Achievements": "2023-09-14T21:06:37.7970226+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.1476243+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:57:52.0063377+00:00",
-  "LastUpdate_Achievements": "2023-09-14T20:07:33.7937295+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:57:44.5642696+00:00",
+  "LastUpdate_Achievements": "2023-09-14T21:06:37.7971311+00:00"
 }

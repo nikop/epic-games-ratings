@@ -1582,9 +1582,9 @@
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 606
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -1719,8 +1719,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-09-03T08:57:16.8385197+00:00",
-  "LastChanged_Achievements": "2023-09-14T20:08:16.9732761+00:00",
+  "LastChanged_Achievements": "2023-09-14T21:07:13.5963258+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.6707548+00:00",
-  "LastUpdate_Ratings": "2023-09-14T20:01:39.3753099+00:00",
-  "LastUpdate_Achievements": "2023-09-14T20:08:16.9733927+00:00"
+  "LastUpdate_Ratings": "2023-09-14T21:00:49.4444353+00:00",
+  "LastUpdate_Achievements": "2023-09-14T21:07:13.5963565+00:00"
 }

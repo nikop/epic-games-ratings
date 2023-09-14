@@ -58,6 +58,7 @@
 | Not little hacker | 35.00% | ~113 |
 | Absolute Champion! | 35.00% | ~113 |
 | Anyone can resist | 35.00% | ~113 |
+| Careerist | 34.00% | ~110 |
 | Trap disarmed | 33.00% | ~107 |
 | Another world | 33.00% | ~107 |
 | The lonesome road | 33.00% | ~107 |
@@ -65,13 +66,12 @@
 | Family comes first | 33.00% | ~107 |
 | Key memories | 33.00% | ~107 |
 | The last bell ring | 33.00% | ~107 |
-| Careerist | 33.00% | ~107 |
 | The heart of the Resistance | 33.00% | ~107 |
 | Better cooking at home | 30.00% | ~97 |
 | Silver’s past | 29.00% | ~94 |
 | The only right decision | 29.00% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323 (Ranked 276)  
+Progressed: 323 (Ranked 277)  
 Completed: 8 (2.48%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |

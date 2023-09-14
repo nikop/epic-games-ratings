@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~45,369 |
-| Worth it | 63.00% | ~36,644 |
-| Eagle Eye | 55.00% | ~31,991 |
-| Corpseman I | 40.00% | ~23,266 |
-| Blast fishing | 37.00% | ~21,521 |
-| Not alone | 32.00% | ~18,613 |
-| Headhunter I | 26.00% | ~15,123 |
-| Manual Labour I | 25.00% | ~14,541 |
+| Setting an example | 78.00% | ~45,371 |
+| Worth it | 63.00% | ~36,646 |
+| Eagle Eye | 55.00% | ~31,992 |
+| Corpseman I | 40.00% | ~23,267 |
+| Blast fishing | 37.00% | ~21,522 |
+| Not alone | 32.00% | ~18,614 |
+| Headhunter I | 26.00% | ~15,124 |
+| Manual Labour I | 25.00% | ~14,542 |
 | Developers, Developers, Developers | 24.00% | ~13,960 |
 | Basic Training | 24.00% | ~13,960 |
-| Furchtlos und Treu | 13.00% | ~7,561 |
+| Furchtlos und Treu | 13.00% | ~7,562 |
 | Gott Mit Uns | 12.00% | ~6,980 |
 | This We'll Defend! | 9.00% | ~5,235 |
 | Anker wirf! | 9.00% | ~5,235 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~582 |
 | Corpseman III | 1.00% | ~582 |
 | Elite Player | 0.80% | ~465 |
-| Manual Labour III | 0.30% | ~174 |
+| Manual Labour III | 0.30% | ~175 |
 | War is better with friends II | 0.20% | ~116 |
 | Buddy | 0.20% | ~116 |
 | Gold Collector | 0.10% | ~58 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~58 |
 | Blood Brother | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,165 (Ranked 89)  
+Progressed: 58,168 (Ranked 89)  
 Completed: 4 (0.01%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 4 (0.01%) (Ranked 261)
 | 2023-09-11 | 57,930 | 4 |
 | 2023-09-12 | 58,015 | 4 |
 | 2023-09-13 | 58,095 | 4 |
-| 2023-09-14 | 58,165 | 4 |
+| 2023-09-14 | 58,168 | 4 |
 ## Awards
 Max (Highly Recommended): 96  (Ranked 346)  
 Sum: 773 (Ranked 268)  

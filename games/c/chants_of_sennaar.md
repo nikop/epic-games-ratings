@@ -21,17 +21,17 @@
 | Peace walker | 23.00% | ~35 |
 | Open door | 23.00% | ~35 |
 | Feels like springtime | 21.00% | ~32 |
-| Rascal | 20.00% | ~31 |
+| Rascal | 21.00% | ~32 |
 | Free at last | 19.00% | ~29 |
 | Alchemists Express | 19.00% | ~29 |
-| A Link to the Past | 16.00% | ~25 |
-| Fashion victim | 13.00% | ~20 |
-| A great audience | 12.00% | ~18 |
-| For its own good | 12.00% | ~18 |
+| A Link to the Past | 17.00% | ~26 |
+| Fashion victim | 14.00% | ~22 |
+| A great audience | 13.00% | ~20 |
+| For its own good | 13.00% | ~20 |
 | I did it | 10.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 154 (Ranked 326)  
-Completed: 7 (4.55%) (Ranked 56)  
+Completed: 8 (5.19%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,4 +87,4 @@ Completed: 7 (4.55%) (Ranked 56)
 | 2023-09-11 | 143 | 6 |
 | 2023-09-12 | 150 | 7 |
 | 2023-09-13 | 153 | 7 |
-| 2023-09-14 | 154 | 7 |
+| 2023-09-14 | 154 | 8 |

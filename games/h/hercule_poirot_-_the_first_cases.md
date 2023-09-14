@@ -9,7 +9,7 @@ Rating: 4.35 (Ranked 755)
 | Luc Piette | 75.00% | ~314 |
 | Angeline Van den Bosch | 74.00% | ~310 |
 | Elizabeth Padget | 70.00% | ~293 |
-| Little Grey Cells | 68.00% | ~285 |
+| Little Grey Cells | 69.00% | ~289 |
 | The Bracelet | 65.00% | ~272 |
 | The Blackmail | 56.00% | ~235 |
 | Major Felix Hagen | 56.00% | ~235 |
@@ -52,7 +52,7 @@ Rating: 4.35 (Ranked 755)
 | Room with a View | 7.00% | ~29 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 419 (Ranked 256)  
+Progressed: 419 (Ranked 257)  
 Completed: 6 (1.43%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |

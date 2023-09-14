@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 1.00% | ~2,288 |
-| Beast Intentions | 0.70% | ~1,601 |
+| Beast Intentions | 0.70% | ~1,602 |
 | The Cursed Farmer | 0.60% | ~1,373 |
 | The Mad Wizard | 0.50% | ~1,144 |
 | The Ring of Regeneration | 0.40% | ~915 |
@@ -15,6 +15,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Were-verpowered | 0.30% | ~686 |
 | A Persistent Buzzing | 0.30% | ~686 |
 | A Mysterious Summons | 0.30% | ~686 |
+| Building Trust | 0.30% | ~686 |
 | The Crumbling Temple | 0.30% | ~686 |
 | Seeking Allies | 0.30% | ~686 |
 | Are Ya Chicken? | 0.30% | ~686 |
@@ -37,7 +38,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Terror in the Dark | 0.20% | ~458 |
 | Low Initiative | 0.20% | ~458 |
 | Street War | 0.20% | ~458 |
-| Building Trust | 0.20% | ~458 |
 | March of the Undead | 0.20% | ~458 |
 | Wisdom Check | 0.20% | ~458 |
 | Unearthed Evil | 0.20% | ~458 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,778 (Ranked 55)  
-Completed: 2,279 (1.00%) (Ranked 122)  
+Progressed: 228,788 (Ranked 55)  
+Completed: 2,279 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -674,7 +674,7 @@ Completed: 2,279 (1.00%) (Ranked 122)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,778 | 2,279 |
+| 2023-09-14 | 228,788 | 2,279 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
 Sum: 31,581 (Ranked 39)  

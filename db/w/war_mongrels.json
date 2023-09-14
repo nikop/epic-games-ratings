@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -1804,9 +1804,9 @@
       "ID": "ACH_FIN_CH09",
       "SetID": "1j25agn",
       "Name": "Vengeance",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -1996,8 +1996,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-09-12T15:00:16.2158477+00:00",
-  "LastChanged_Achievements": "2023-09-14T20:08:46.2597537+00:00",
+  "LastChanged_Achievements": "2023-09-14T21:08:07.2625809+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.8307176+00:00",
-  "LastUpdate_Ratings": "2023-09-14T20:01:41.5869555+00:00",
-  "LastUpdate_Achievements": "2023-09-14T20:08:46.2598175+00:00"
+  "LastUpdate_Ratings": "2023-09-14T21:00:52.0505531+00:00",
+  "LastUpdate_Achievements": "2023-09-14T21:08:07.2626448+00:00"
 }
