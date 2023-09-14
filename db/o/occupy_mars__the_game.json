@@ -5,9 +5,9 @@
   "Ranking_Rating": 945,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 191,
+  "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1601,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3634,6 +3634,11 @@
       "Time": "2023-09-14T07:03:31.6446383+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T16:04:35.6571322+00:00",
+      "NumProgressed": 1601,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -3691,9 +3696,9 @@
       "ID": "ACHIEVEMENT_HOT_REPAIRS",
       "SetID": "l546gc",
       "Name": "Hot Repairs",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_LETS_COOK",
@@ -3731,9 +3736,9 @@
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALIENS",
@@ -4028,7 +4033,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1601,
       "Completed": 0
     }
   ],
@@ -4036,8 +4041,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-09-10T18:59:07.5245979+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:03:38.9707552+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:04:35.6571308+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:25.1992932+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:01:25.9866819+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:03:38.970818+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:02:25.6937731+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:04:35.6572028+00:00"
 }

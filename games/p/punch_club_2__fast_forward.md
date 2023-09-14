@@ -10,8 +10,8 @@
 | First winning | 85.00% | ~275 |
 | Your first job | 84.00% | ~271 |
 | Old movies enjoyer | 80.00% | ~258 |
+| Depressed visitor | 79.00% | ~255 |
 | Fitness professional | 78.00% | ~252 |
-| Depressed visitor | 78.00% | ~252 |
 | Neurotrainer – power gainer! | 77.00% | ~249 |
 | Employee of the week | 77.00% | ~249 |
 | Your own amateur gym | 75.00% | ~242 |
@@ -23,8 +23,8 @@
 | Pal of your father? | 67.00% | ~216 |
 | Employee of the month | 65.00% | ~210 |
 | Spirit of the past | 64.00% | ~207 |
+| Law student | 63.00% | ~203 |
 | Workout professional | 62.00% | ~200 |
-| Law student | 62.00% | ~200 |
 | Handyman | 61.00% | ~197 |
 | Champion – starter pack | 60.00% | ~194 |
 | It's good to be alive | 60.00% | ~194 |
@@ -71,7 +71,7 @@
 | Silver’s past | 29.00% | ~94 |
 | The only right decision | 29.00% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 323 (Ranked 274)  
+Progressed: 323 (Ranked 275)  
 Completed: 8 (2.48%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |

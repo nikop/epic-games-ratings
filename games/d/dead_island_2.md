@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 2.00% | ~13,592 |
-| Hazardous Materials | 2.00% | ~13,592 |
-| Hotel California | 2.00% | ~13,592 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,592 |
-| Welcome To Hell-A | 2.00% | ~13,592 |
+| Break A Leg | 2.00% | ~13,593 |
+| Hazardous Materials | 2.00% | ~13,593 |
+| Hotel California | 2.00% | ~13,593 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,593 |
+| Welcome To Hell-A | 2.00% | ~13,593 |
 | Dr. Reed, I Presume? | 1.00% | ~6,796 |
 | Git Gutte! | 1.00% | ~6,796 |
 | Anger Management | 1.00% | ~6,796 |
@@ -33,13 +33,13 @@ Rating: 4.54 (Ranked 502)
 | Making Your Mark | 0.80% | ~5,437 |
 | Humanity Distilled | 0.80% | ~5,437 |
 | Down with the Sickness | 0.80% | ~5,437 |
-| Max Headroom | 0.70% | ~4,757 |
+| Max Headroom | 0.70% | ~4,758 |
 | Smorgasbord | 0.50% | ~3,398 |
 | Jumbo Keyring | 0.50% | ~3,398 |
 | Go, Bobcats! | 0.50% | ~3,398 |
 | Rising Star | 0.50% | ~3,398 |
-| Not Even My Final Form | 0.40% | ~2,718 |
-| Internet Famous | 0.40% | ~2,718 |
+| Not Even My Final Form | 0.40% | ~2,719 |
+| Internet Famous | 0.40% | ~2,719 |
 | Make it So | 0.30% | ~2,039 |
 | LA Influential | 0.30% | ~2,039 |
 | On Safari | 0.30% | ~2,039 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,616 (Ranked 22)  
+Progressed: 679,648 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,17 +198,17 @@ Completed: 2,143 (0.32%) (Ranked 177)
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
-| 2023-09-14 | 679,616 | 2,143 |
+| 2023-09-14 | 679,648 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,038  (Ranked 57)  
-Sum: 8,948 (Ranked 94)  
+Sum: 8,951 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,038 |
 | This game is Great for Beginners | 414 |
 | This game has Diverse Characters | 403 |
-| This game has Quickly Understood Controls | 392 |
+| This game has Quickly Understood Controls | 395 |
 | This game is Relaxing | 376 |
 | This game has Amazing Storytelling | 351 |
 | This game is Extremely Fun | 332 |
@@ -363,4 +363,4 @@ Diff (max vs sum): -37
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
 | 2023-09-12 | 4.54 | 6,016 | 8,905 |
 | 2023-09-13 | 4.54 | 6,027 | 8,924 |
-| 2023-09-14 | 4.54 | 6,038 | 8,948 |
+| 2023-09-14 | 4.54 | 6,038 | 8,951 |

@@ -2,12 +2,12 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
-  "Ranking_Rating": 772,
+  "Ranking_Rating": 781,
   "Ranking_Popularity": 66,
-  "Ranking_PopularitySum": 36,
-  "Ranking_EOS_Progress": 594,
+  "Ranking_PopularitySum": 37,
+  "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-30T15:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.32,
   "NumberOfRatings": 21107,
   "RatingHistory": [
     {
@@ -7928,10 +7928,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 33288,
       "NumberOfAwardsMax": 5397
+    },
+    {
+      "Time": "2023-09-14T15:59:06.670735+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 33293,
+      "NumberOfAwardsMax": 5397
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33288,
+  "NumberOfAwards": 33293,
   "NumberOfAwardsMax": 5397,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7957,7 +7963,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4839
+      "Count": 4844
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7995,8 +8001,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2023-09-14T13:03:54.4732621+00:00",
+  "LastChanged": "2023-09-14T15:59:06.6707348+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:01.6586461+00:00",
-  "LastUpdate_Ratings": "2023-09-14T14:58:36.8454364+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:07:20.7290704+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:59:06.670754+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:08:38.4286917+00:00"
 }

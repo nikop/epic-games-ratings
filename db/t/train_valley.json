@@ -5,9 +5,9 @@
   "Ranking_Rating": 624,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -123,9 +123,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -1003,6 +1003,11 @@
       "Time": "2023-09-13T01:46:37.8226673+00:00",
       "NumProgressed": 461,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-14T16:06:59.6386969+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -1022,7 +1027,7 @@
       "Name": "Collector",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "03_philatelist",
@@ -1054,7 +1059,7 @@
       "Name": "Living it large!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "07_europe",
@@ -1070,7 +1075,7 @@
       "Name": "America",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "09_russia",
@@ -1110,7 +1115,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "14_woodcutter",
@@ -1124,7 +1129,7 @@
       "ID": "15_bbq",
       "SetID": "chb1m60",
       "Name": "BBQ",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1142,7 +1147,7 @@
       "Name": "Builder",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "18_foreman",
@@ -1150,7 +1155,7 @@
       "Name": "Foreman",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "19_justintime",
@@ -1166,7 +1171,7 @@
       "Name": "Sabotage",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "21_missed",
@@ -1182,7 +1187,7 @@
       "Name": "Ouroboros",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "23_closecall",
@@ -1190,7 +1195,7 @@
       "Name": "Close call!",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "24_mega",
@@ -1316,7 +1321,7 @@
       "ID": "39_salesman",
       "SetID": "chb1m60",
       "Name": "Salesman",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 3
     }
@@ -1325,15 +1330,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-08-26T23:01:29.1007728+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:05:55.2313152+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:06:59.6386963+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:11.6532373+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:01:47.2316371+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:05:55.2313516+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:02:51.7339016+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:06:59.6387985+00:00"
 }

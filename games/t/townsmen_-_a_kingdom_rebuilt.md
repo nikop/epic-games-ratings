@@ -10,7 +10,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man I | 11.00% | ~470 |
 | A new beginning | 11.00% | ~470 |
 | Friends from the past | 10.00% | ~427 |
-| I like to build stuff... I | 9.00% | ~384 |
+| I like to build stuff... I | 9.00% | ~385 |
 | A time consuming game I | 8.00% | ~342 |
 | Builder I | 7.00% | ~299 |
 | An honorable Governor I | 7.00% | ~299 |
@@ -21,13 +21,13 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 6.00% | ~256 |
 | I like to build stuff... II | 6.00% | ~256 |
 | Completionist I | 6.00% | ~256 |
-| Full-time job II | 6.00% | ~256 |
-| A time consuming game II | 6.00% | ~256 |
 | Knee deep in snow | 6.00% | ~256 |
 | Not a small trader anymore | 5.00% | ~214 |
 | The King's new clothes I | 5.00% | ~214 |
 | Builder II | 5.00% | ~214 |
+| Full-time job II | 5.00% | ~214 |
 | Tax-man III | 5.00% | ~214 |
+| A time consuming game II | 5.00% | ~214 |
 | Tools of the trade I | 5.00% | ~214 |
 | Bread for the people II | 4.00% | ~171 |
 | I like to build stuff... III | 4.00% | ~171 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,272 (Ranked 153)  
+Progressed: 4,273 (Ranked 154)  
 Completed: 3 (0.07%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 3 (0.07%) (Ranked 231)
 | 2023-09-09 | 4,269 | 3 |
 | 2023-09-10 | 4,271 | 3 |
 | 2023-09-11 | 4,272 | 3 |
+| 2023-09-14 | 4,273 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "ae7464ff84d042a1903ba0b8063e4b52",
   "Name": "Legend of Bum bo",
   "ProductSlug": "legend-of-bum-bo-da8afd",
-  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-04T08:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.6881816+00:00",
   "LastChanged": "2023-03-31T05:58:31.6881818+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:35.2297979+00:00",
-  "LastUpdate_Ratings": "2023-09-14T14:57:53.5452719+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:03:50.8908854+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:58:14.0269634+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:04:49.2768835+00:00"
 }

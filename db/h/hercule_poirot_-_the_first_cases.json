@@ -5,9 +5,9 @@
   "Ranking_Rating": 755,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -52,11 +52,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 419,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.44,
+  "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:42.6464552+00:00",
@@ -472,6 +472,11 @@
       "Time": "2023-09-06T03:04:25.6889952+00:00",
       "NumProgressed": 418,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-14T16:09:10.0994336+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -497,9 +502,9 @@
       "ID": "ACH_011",
       "SetID": "72imik0",
       "Name": "Well-travelled",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_012",
@@ -513,9 +518,9 @@
       "ID": "ACH_013",
       "SetID": "72imik0",
       "Name": "Little Grey Cells",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_014",
@@ -539,7 +544,7 @@
       "Name": "Curious and Beautiful",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_017",
@@ -571,7 +576,7 @@
       "Name": "The Blackmail",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_020",
@@ -641,9 +646,9 @@
       "ID": "ACH_028",
       "SetID": "72imik0",
       "Name": "It Wasn\u2019t a Burglary",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_029",
@@ -651,7 +656,7 @@
       "Name": "I Like an Audience",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_03",
@@ -659,7 +664,7 @@
       "Name": "The Altercation",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_030",
@@ -675,7 +680,7 @@
       "Name": "Angeline Van den Bosch",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_032",
@@ -683,7 +688,7 @@
       "Name": "Archibald Sterling",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_033",
@@ -699,7 +704,7 @@
       "Name": "Comtesse Margaux de Vos",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_035",
@@ -731,7 +736,7 @@
       "Name": "Gedeon Demir",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_039",
@@ -739,7 +744,7 @@
       "Name": "Hugo Beckers",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_04",
@@ -763,7 +768,7 @@
       "Name": "Jacqueline \u201CJackie\u201D Conrad",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_042",
@@ -779,7 +784,7 @@
       "Name": "Major Felix Hagen",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_044",
@@ -787,7 +792,7 @@
       "Name": "Rehana Piette",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_045",
@@ -850,7 +855,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 419,
       "Completed": 6
     }
   ],
@@ -858,8 +863,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:07:47.9183369+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:09:10.099433+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:00.4848677+00:00",
-  "LastUpdate_Ratings": "2023-09-14T14:57:10.7527703+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:07:47.9183786+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:57:25.1081789+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:09:10.0994842+00:00"
 }

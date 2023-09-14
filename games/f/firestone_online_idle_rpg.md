@@ -5,27 +5,27 @@ Rating: 4.02 (Ranked 941)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,797 |
-| World Map | 79.00% | ~1,526 |
-| Temple of Eternals | 57.00% | ~1,101 |
-| Prestigious | 54.00% | ~1,043 |
-| Fellowship Power | 41.00% | ~792 |
-| Guild Power | 26.00% | ~502 |
+| Victor | 93.00% | ~1,798 |
+| World Map | 79.00% | ~1,527 |
+| Temple of Eternals | 57.00% | ~1,102 |
+| Prestigious | 54.00% | ~1,044 |
+| Fellowship Power | 41.00% | ~793 |
+| Guild Power | 26.00% | ~503 |
 | Prestigious x10 | 22.00% | ~425 |
 | The game is on | 21.00% | ~406 |
 | Exotic Merchant | 19.00% | ~367 |
-| Dragon Clicker | 17.00% | ~328 |
-| Full Party | 17.00% | ~328 |
-| Inspection | 17.00% | ~328 |
-| Miner Clicker | 17.00% | ~328 |
+| Dragon Clicker | 17.00% | ~329 |
+| Full Party | 17.00% | ~329 |
+| Inspection | 17.00% | ~329 |
+| Miner Clicker | 17.00% | ~329 |
 | Dragon Master | 15.00% | ~290 |
 | Enlightenment | 15.00% | ~290 |
 | Hero inspection | 15.00% | ~290 |
 | Lieutenant | 15.00% | ~290 |
-| Mysterious Rock | 14.00% | ~270 |
-| Natural Talent | 14.00% | ~270 |
-| Superior | 14.00% | ~270 |
-| The Unstoppable | 14.00% | ~270 |
+| Mysterious Rock | 14.00% | ~271 |
+| Natural Talent | 14.00% | ~271 |
+| Superior | 14.00% | ~271 |
+| The Unstoppable | 14.00% | ~271 |
 | Milestone collector | 13.00% | ~251 |
 | Scientist | 12.00% | ~232 |
 | Challenger | 11.00% | ~213 |
@@ -81,7 +81,7 @@ Rating: 4.02 (Ranked 941)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,932 (Ranked 181)  
+Progressed: 1,933 (Ranked 182)  
 Completed: 2 (0.10%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,11 +226,11 @@ Completed: 2 (0.10%) (Ranked 220)
 | 2023-09-10 | 1,925 | 2 |
 | 2023-09-11 | 1,928 | 2 |
 | 2023-09-12 | 1,929 | 2 |
-| 2023-09-14 | 1,932 | 2 |
+| 2023-09-14 | 1,933 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 21  (Ranked 505)  
+Max (Great for Quick Sessions): 21  (Ranked 506)  
 Sum: 42 (Ranked 461)  
-Diff (max vs sum): 44  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 21 |

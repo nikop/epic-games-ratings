@@ -5,9 +5,9 @@
   "Ranking_Rating": 689,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1393,6 +1393,11 @@
       "Time": "2023-09-14T15:07:18.5775951+00:00",
       "NumProgressed": 312,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T16:08:36.3163114+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1413,7 +1418,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 12,
       "XP": 120,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -1613,7 +1618,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1621,7 +1626,7 @@
       "Name": "Lost in Space",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_STATUE",
@@ -1636,15 +1641,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:07:18.5775948+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:08:36.3163108+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:01:39.614122+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:07:18.5776224+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:02:41.3732356+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:08:36.3163435+00:00"
 }

@@ -10,11 +10,11 @@
 | Novice Scavenger | 52.00% | ~59 |
 | Master Craftsman | 42.00% | ~47 |
 | First wall | 42.00% | ~47 |
-| Piggyback Expert | 37.00% | ~42 |
+| Piggyback Expert | 38.00% | ~43 |
 | Second wall | 26.00% | ~29 |
 | Expert Scavenger | 24.00% | ~27 |
-| Their Rock | 17.00% | ~19 |
-| Yuna's Promise | 15.00% | ~17 |
+| Their Rock | 18.00% | ~20 |
+| Yuna's Promise | 16.00% | ~18 |
 | Truebro | 14.00% | ~16 |
 | Stone Retriever | 14.00% | ~16 |
 | Find myself | 13.00% | ~15 |
@@ -30,8 +30,8 @@
 | Bond Lord | 0.00% | ~0 |
 | True Player | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 338)  
-Completed: 1 (0.88%) (Ranked 128)  
+Progressed: 113 (Ranked 339)  
+Completed: 1 (0.88%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

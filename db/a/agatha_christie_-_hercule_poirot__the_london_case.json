@@ -2,9 +2,9 @@
   "ID": "4c82d55f22d3437c96cf3e0fcb53b73f",
   "Name": "Agatha Christie - Hercule Poirot: The London Case",
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
-  "Ranking_EOS_Progress": 465,
+  "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -466,8 +466,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:06:58.7470943+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:08:12.9306358+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.0541304+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:00:29.6761382+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:06:58.7471357+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:01:17.0969421+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:08:12.9306931+00:00"
 }

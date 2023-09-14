@@ -32,12 +32,12 @@ Rating: 3.99 (Ranked 945)
 | Planetary Defence | 1.00% | ~16 |
 | Rocket Jump | 1.00% | ~16 |
 | Thunderstruck | 1.00% | ~16 |
-| 5G Network | 0.80% | ~13 |
+| 5G Network | 0.70% | ~11 |
 | One does not simply... | 0.50% | ~8 |
 | Bull’s eye | 0.40% | ~6 |
 | Korolev crater | 0.40% | ~6 |
 | Rover Mechanic | 0.40% | ~6 |
-| Hot Repairs | 0.30% | ~5 |
+| Hot Repairs | 0.20% | ~3 |
 | Never Ending Story? | 0.20% | ~3 |
 | Roadster | 0.20% | ~3 |
 | Cooking Vegetables | 0.10% | ~2 |
@@ -54,7 +54,7 @@ Rating: 3.99 (Ranked 945)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,599 (Ranked 191)  
+Progressed: 1,601 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-10 | 1,591 | 0 |
 | 2023-09-11 | 1,595 | 0 |
 | 2023-09-12 | 1,598 | 0 |
-| 2023-09-14 | 1,599 | 0 |
+| 2023-09-14 | 1,601 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

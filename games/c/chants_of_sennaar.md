@@ -10,9 +10,9 @@
 | The Preacher's fate | 41.00% | ~63 |
 | A new dawn | 37.00% | ~57 |
 | Scholar | 33.00% | ~50 |
+| The darkness | 32.00% | ~49 |
 | True G4M3R | 31.00% | ~47 |
-| The darkness | 31.00% | ~47 |
-| A good beginning | 29.00% | ~44 |
+| A good beginning | 30.00% | ~46 |
 | One last step | 27.00% | ~41 |
 | Cable guy | 25.00% | ~38 |
 | Champollion | 25.00% | ~38 |
@@ -30,7 +30,7 @@
 | Fashion victim | 12.00% | ~18 |
 | I did it | 9.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 323)  
+Progressed: 153 (Ranked 324)  
 Completed: 7 (4.58%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |

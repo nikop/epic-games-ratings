@@ -27,6 +27,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flooding the Market | 0.80% | ~1,089 |
 | Where it Hurts | 0.80% | ~1,089 |
 | Dungeon Imports | 0.80% | ~1,089 |
+| Blank Page Syndrome | 0.70% | ~953 |
 | Gild-Gotten Goods | 0.70% | ~953 |
 | Accomplished Merchant | 0.70% | ~953 |
 | Did we pack lunch? | 0.70% | ~953 |
@@ -35,7 +36,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ascended | 0.60% | ~817 |
 | Research & Development | 0.60% | ~817 |
 | Vanity, Verily | 0.60% | ~817 |
-| Blank Page Syndrome | 0.60% | ~817 |
 | Efficient Floor Space | 0.60% | ~817 |
 | Flawless Fusion | 0.60% | ~817 |
 | Gem Expert | 0.60% | ~817 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,170 (Ranked 68)  
+Progressed: 136,171 (Ranked 68)  
 Completed: 151 (0.11%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 151 (0.11%) (Ranked 217)
 | 2023-09-11 | 136,043 | 149 |
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
-| 2023-09-14 | 136,170 | 151 |
+| 2023-09-14 | 136,171 | 151 |
 ## Awards
 Max (Great for Beginners): 4,741  (Ranked 71)  
 Sum: 27,227 (Ranked 48)  

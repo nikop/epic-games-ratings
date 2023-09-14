@@ -5,9 +5,9 @@
   "Ranking_Rating": 890,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 459,
+  "EOS_Progressed": 460,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -419,6 +419,11 @@
       "Time": "2023-09-11T21:06:00.6257278+00:00",
       "NumProgressed": 459,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T16:08:40.5003737+00:00",
+      "NumProgressed": 460,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -430,7 +435,7 @@
       "Name": "Grand Opening",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -478,23 +483,23 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "631ndc2",
       "Name": "Built in a Day",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "631ndc2",
       "Name": "Path of Learning",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 184
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -502,7 +507,7 @@
       "Name": "Time Travel!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -516,9 +521,9 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "631ndc2",
       "Name": "Fan Service",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -662,7 +667,7 @@
       "Name": "King of District 1",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -742,7 +747,7 @@
       "Name": "Marketing Manager",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -750,7 +755,7 @@
       "Name": "Self Defense",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -829,7 +834,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 459,
+      "Progressed": 460,
       "Completed": 1
     }
   ],
@@ -837,8 +842,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:07:22.1769571+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:08:40.5003732+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:28.7261895+00:00",
-  "LastUpdate_Ratings": "2023-09-14T14:57:23.2280755+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:07:22.1770373+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:57:39.2596427+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:08:40.5004674+00:00"
 }

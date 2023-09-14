@@ -1,28 +1,28 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.09 (Ranked 915)  
+Rating: 4.10 (Ranked 913)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 5.00% | ~2,067 |
-| As Far Away As Possible | 3.00% | ~1,240 |
-| A Most Unstable Organism | 2.00% | ~827 |
-| No Time to Follow Protocol | 1.00% | ~413 |
-| Float Like a Butterfly... | 0.90% | ~372 |
-| In Two Places At Once | 0.50% | ~207 |
-| Nano Connoisseur | 0.40% | ~165 |
-| fifteenth Time's the Charm | 0.10% | ~41 |
-| Pulling Your Weight | 0.10% | ~41 |
-| Reaping Rivals | 0.10% | ~41 |
-| Gone Rogue | 0.10% | ~41 |
-| Completely Customizable | 0.10% | ~41 |
-| Runs for Your Money | 0.10% | ~41 |
-| Past Master | 0.10% | ~41 |
+| Your Lucky Day | 5.00% | ~2,076 |
+| As Far Away As Possible | 3.00% | ~1,246 |
+| A Most Unstable Organism | 2.00% | ~831 |
+| No Time to Follow Protocol | 1.00% | ~415 |
+| Float Like a Butterfly... | 0.90% | ~374 |
+| In Two Places At Once | 0.50% | ~208 |
+| Nano Connoisseur | 0.40% | ~166 |
+| fifteenth Time's the Charm | 0.10% | ~42 |
+| Pulling Your Weight | 0.10% | ~42 |
+| Reaping Rivals | 0.10% | ~42 |
+| Gone Rogue | 0.10% | ~42 |
+| Completely Customizable | 0.10% | ~42 |
+| Runs for Your Money | 0.10% | ~42 |
+| Past Master | 0.10% | ~42 |
 | Memory Keeper | 0.00% | ~0 |
 | More Power to You | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,334 (Ranked 95)  
+Progressed: 41,527 (Ranked 95)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,7 +40,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 28,933 | 0 |
 | 2023-09-12 | 34,271 | 0 |
 | 2023-09-13 | 39,115 | 0 |
-| 2023-09-14 | 41,334 | 0 |
+| 2023-09-14 | 41,527 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -49,3 +49,4 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 4.10 | 0 | 0 |
 | 2023-09-12 | 4.14 | 0 | 0 |
 | 2023-09-13 | 4.09 | 0 | 0 |
+| 2023-09-14 | 4.10 | 0 | 0 |

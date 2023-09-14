@@ -12,10 +12,10 @@
 | The Birds and the Bees | 52.00% | ~12 |
 | Vaccinated | 48.00% | ~11 |
 | Task Master | 43.00% | ~10 |
+| A Light in the Dark | 39.00% | ~9 |
 | Busybody | 39.00% | ~9 |
 | Warning: Fragile | 39.00% | ~9 |
 | An Acquired Taste | 35.00% | ~8 |
-| A Light in the Dark | 35.00% | ~8 |
 | The Guardian | 35.00% | ~8 |
 | Endgame | 35.00% | ~8 |
 | The Philosopher | 35.00% | ~8 |
@@ -53,7 +53,7 @@
 | The Surrogate | 0.00% | ~0 |
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 434)  
+Progressed: 23 (Ranked 435)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~46 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,085 (Ranked 151)  
+Progressed: 5,085 (Ranked 152)  
 Completed: 2 (0.04%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,13 +197,13 @@ Completed: 2 (0.04%) (Ranked 242)
 | 2023-09-14 | 5,085 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 342)  
-Sum: 685 (Ranked 280)  
+Sum: 686 (Ranked 280)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 98 |
-| This game is Relaxing | 92 |
+| This game is Relaxing | 93 |
 | This game is Highly Recommended | 91 |
 | This game has Amazing Storytelling | 88 |
 | This game is Extremely Fun | 84 |
@@ -346,3 +346,4 @@ Diff (max vs sum): 62
 | 2023-09-06 | 4.66 | - | 98 | 683 |
 | 2023-09-09 | 4.66 | - | 98 | 684 |
 | 2023-09-12 | 4.66 | - | 98 | 685 |
+| 2023-09-14 | 4.66 | - | 98 | 686 |

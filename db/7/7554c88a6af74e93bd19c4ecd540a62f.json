@@ -2,9 +2,9 @@
   "ID": "7554c88a6af74e93bd19c4ecd540a62f",
   "Name": "KnockedDown",
   "ProductSlug": "knockeddown-328e5d",
-  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-06T16:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-09-07T12:00:21.2683489+00:00",
   "FirstSeenAchievements": "2023-09-08T15:04:26.356481+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:06:46.4886328+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:07:58.3618468+00:00",
   "LastUpdate_AppInfo": "2023-09-13T18:57:09.9081+00:00",
-  "LastUpdate_Ratings": "2023-09-14T14:57:32.6026166+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:06:46.4886364+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:57:50.3559196+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:07:58.3618511+00:00"
 }

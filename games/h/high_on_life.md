@@ -5,22 +5,22 @@ Rating: 4.64 (Ranked 314)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~19,964 |
-| Mods Please Ban | 77.00% | ~18,521 |
-| Bring A Knife to a Gun Fight | 76.00% | ~18,280 |
+| Eye Scream, You Scream | 83.00% | ~19,965 |
+| Mods Please Ban | 77.00% | ~18,522 |
+| Bring A Knife to a Gun Fight | 76.00% | ~18,281 |
 | Fallout Doesn't Let You Do This | 73.00% | ~17,559 |
-| First Bounty Down | 59.00% | ~14,191 |
-| We're All Very Impressed, Trust Me | 57.00% | ~13,710 |
+| First Bounty Down | 59.00% | ~14,192 |
+| We're All Very Impressed, Trust Me | 57.00% | ~13,711 |
 | Luglox Genocide | 43.00% | ~10,343 |
 | Don't Knife The Hand That Feeds | 34.00% | ~8,178 |
-| Playing Card To Get | 33.00% | ~7,937 |
+| Playing Card To Get | 33.00% | ~7,938 |
 | Creature Feature | 30.00% | ~7,216 |
 | Satisfied Gus-tomer | 28.00% | ~6,735 |
 | Cold-Blooded Driller | 28.00% | ~6,735 |
-| Are You Packin'? | 25.00% | ~6,013 |
-| RIP Davey Glutes | 25.00% | ~6,013 |
-| Sweezy Like Sunday Morning | 25.00% | ~6,013 |
-| G3 Graduation | 25.00% | ~6,013 |
+| Are You Packin'? | 25.00% | ~6,014 |
+| RIP Davey Glutes | 25.00% | ~6,014 |
+| Sweezy Like Sunday Morning | 25.00% | ~6,014 |
+| G3 Graduation | 25.00% | ~6,014 |
 | Hardest Battle In The Game | 22.00% | ~5,292 |
 | Series Wrap on Suit-O | 22.00% | ~5,292 |
 | Lezduit! | 20.00% | ~4,811 |
@@ -28,7 +28,7 @@ Rating: 4.64 (Ranked 314)
 | Self-Actualization | 19.00% | ~4,570 |
 | Spent 15 Hours At The Alien Strip Club | 19.00% | ~4,570 |
 | Legendary Bounty Hunter | 18.00% | ~4,330 |
-| Seeing All The Sights | 16.00% | ~3,848 |
+| Seeing All The Sights | 16.00% | ~3,849 |
 | Carried Stan's Load To Completion | 13.00% | ~3,127 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,886 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,165 |
@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 314)
 | Epic Legendary Prize | 1.00% | ~241 |
 | A Starfish Is Born | 1.00% | ~241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,053 (Ranked 105)  
+Progressed: 24,054 (Ranked 105)  
 Completed: 12 (0.05%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 12 (0.05%) (Ranked 238)
 | 2023-09-11 | 24,044 | 12 |
 | 2023-09-12 | 24,048 | 12 |
 | 2023-09-13 | 24,052 | 12 |
-| 2023-09-14 | 24,053 | 12 |
+| 2023-09-14 | 24,054 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

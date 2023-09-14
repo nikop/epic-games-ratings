@@ -6,9 +6,9 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 1.00% | ~2,287 |
+| A Brief Tour of the Realms | 1.00% | ~2,288 |
 | Beast Intentions | 0.70% | ~1,601 |
-| The Cursed Farmer | 0.60% | ~1,372 |
+| The Cursed Farmer | 0.60% | ~1,373 |
 | The Mad Wizard | 0.50% | ~1,144 |
 | The Ring of Regeneration | 0.40% | ~915 |
 | Maddening | 0.30% | ~686 |
@@ -25,46 +25,48 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~390 |
 | The Witchlight Carnival | 0.20% | ~390 |
 | Thieves of the Coven | 0.20% | ~390 |
-| The Silken Swamp | 0.20% | ~457 |
-| Supply Run | 0.20% | ~457 |
+| The Silken Swamp | 0.20% | ~458 |
+| Supply Run | 0.20% | ~458 |
 | Vecna Lives! | 0.20% | ~390 |
 | Vecna Loots! | 0.20% | ~390 |
 | Return to the Tomb | 0.20% | ~390 |
 | Heatwave | 0.20% | ~390 |
 | The Dread Domain of Tovag | 0.20% | ~390 |
-| Beast Mode | 0.20% | ~457 |
-| Terror in the Dark | 0.20% | ~457 |
-| Low Initiative | 0.20% | ~457 |
-| Street War | 0.20% | ~457 |
-| Building Trust | 0.20% | ~457 |
-| March of the Undead | 0.20% | ~457 |
-| Wisdom Check | 0.20% | ~457 |
-| Unearthed Evil | 0.20% | ~457 |
-| No Time To Rest | 0.20% | ~457 |
-| Invisible Shadows | 0.20% | ~457 |
-| Family Entanglements | 0.20% | ~457 |
-| The Dinner Party | 0.20% | ~457 |
-| The Botched Kidnapping | 0.20% | ~457 |
-| Trollskull Manor | 0.20% | ~457 |
-| Attack on the Manor | 0.20% | ~457 |
-| The Death Curse | 0.20% | ~457 |
-| Nimble Escape | 0.20% | ~457 |
-| Useless Allies | 0.20% | ~457 |
-| Premature Betrayal | 0.20% | ~457 |
-| Exploring Port Nyanzaru | 0.20% | ~457 |
-| A Tale of Two Cities | 0.20% | ~457 |
-| Flying Monkey Skulls of Doom | 0.20% | ~457 |
-| Running of the Saurs | 0.20% | ~457 |
-| The Contagious Curse | 0.20% | ~457 |
-| Escort to Waterdeep | 0.20% | ~457 |
+| Homecoming | 0.20% | ~458 |
+| Beast Mode | 0.20% | ~458 |
+| Terror in the Dark | 0.20% | ~458 |
+| Low Initiative | 0.20% | ~458 |
+| Street War | 0.20% | ~458 |
+| Building Trust | 0.20% | ~458 |
+| March of the Undead | 0.20% | ~458 |
+| Wisdom Check | 0.20% | ~458 |
+| Unearthed Evil | 0.20% | ~458 |
+| No Time To Rest | 0.20% | ~458 |
+| Invisible Shadows | 0.20% | ~458 |
+| Family Entanglements | 0.20% | ~458 |
+| The Dinner Party | 0.20% | ~458 |
+| The Botched Kidnapping | 0.20% | ~458 |
+| Tower on the Lake | 0.20% | ~458 |
+| Trollskull Manor | 0.20% | ~458 |
+| Attack on the Manor | 0.20% | ~458 |
+| The Death Curse | 0.20% | ~458 |
+| Nimble Escape | 0.20% | ~458 |
+| Useless Allies | 0.20% | ~458 |
+| Premature Betrayal | 0.20% | ~458 |
+| Exploring Port Nyanzaru | 0.20% | ~458 |
+| A Tale of Two Cities | 0.20% | ~458 |
+| Flying Monkey Skulls of Doom | 0.20% | ~458 |
+| Running of the Saurs | 0.20% | ~458 |
+| The Contagious Curse | 0.20% | ~458 |
+| Escort to Waterdeep | 0.20% | ~458 |
 | The Giant's Bane Tavern | 0.20% | ~390 |
-| Close Escort | 0.20% | ~457 |
-| Constant Banditry | 0.20% | ~457 |
-| Waterdeep Detours | 0.20% | ~457 |
-| Underdeep Cartography | 0.20% | ~457 |
-| Overdue Rendezvous | 0.20% | ~457 |
-| The Templar's Camp | 0.20% | ~457 |
-| Rescue in the Jungle | 0.20% | ~457 |
+| Close Escort | 0.20% | ~458 |
+| Constant Banditry | 0.20% | ~458 |
+| Waterdeep Detours | 0.20% | ~458 |
+| Underdeep Cartography | 0.20% | ~458 |
+| Overdue Rendezvous | 0.20% | ~458 |
+| The Templar's Camp | 0.20% | ~458 |
+| Rescue in the Jungle | 0.20% | ~458 |
 | The Hunt for The Last Breath | 0.20% | ~390 |
 | To Infinity's and Beyond | 0.20% | ~390 |
 | The End | 0.20% | ~390 |
@@ -171,7 +173,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Clowning Around | 0.10% | ~195 |
 | Xanathaaaaaaar! | 0.10% | ~195 |
 | A Whale of a Time | 0.10% | ~195 |
-| Homecoming | 0.10% | ~229 |
 | Anti-Dexterous Explorers | 0.10% | ~229 |
 | Struggling Toward Omu | 0.10% | ~229 |
 | Wagon Train | 0.10% | ~229 |
@@ -232,7 +233,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | They Who Smelt It | 0.10% | ~229 |
 | Distribute Your Weight | 0.10% | ~229 |
 | Mongrelfolk Incursion | 0.10% | ~195 |
-| Tower on the Lake | 0.10% | ~229 |
 | Only the Strong Survive | 0.10% | ~229 |
 | Shorty's Day Off | 0.10% | ~229 |
 | Intelligence Hunt | 0.10% | ~229 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,744 (Ranked 54)  
+Progressed: 228,752 (Ranked 55)  
 Completed: 2,279 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -674,7 +674,7 @@ Completed: 2,279 (1.00%) (Ranked 122)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,744 | 2,279 |
+| 2023-09-14 | 228,752 | 2,279 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
 Sum: 31,581 (Ranked 39)  

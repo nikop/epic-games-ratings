@@ -1,34 +1,34 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.62 (Ranked 351)  
+Rating: 4.62 (Ranked 350)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,524 |
-| Right Back At Ya | 40.00% | ~350,449 |
-| The Lovers | 35.00% | ~306,643 |
-| Stanislavski's Method | 29.00% | ~254,075 |
-| The Wheel of Fortune | 28.00% | ~245,314 |
-| The Hermit | 25.00% | ~219,030 |
-| Christmas Tree Attack | 23.00% | ~201,508 |
-| True Soldier | 23.00% | ~201,508 |
-| The High Priestess | 22.00% | ~192,747 |
-| Legend of The Afterlife | 22.00% | ~192,747 |
-| Life of the Road | 21.00% | ~183,986 |
-| Full Body Conversion | 19.00% | ~166,463 |
-| The World | 18.00% | ~157,702 |
-| Bushido and Chill | 17.00% | ~148,941 |
+| The Fool | 69.00% | ~604,528 |
+| Right Back At Ya | 40.00% | ~350,451 |
+| The Lovers | 35.00% | ~306,644 |
+| Stanislavski's Method | 29.00% | ~254,077 |
+| The Wheel of Fortune | 28.00% | ~245,316 |
+| The Hermit | 25.00% | ~219,032 |
+| Christmas Tree Attack | 23.00% | ~201,509 |
+| True Soldier | 23.00% | ~201,509 |
+| The High Priestess | 22.00% | ~192,748 |
+| Legend of The Afterlife | 22.00% | ~192,748 |
+| Life of the Road | 21.00% | ~183,987 |
+| Full Body Conversion | 19.00% | ~166,464 |
+| The World | 18.00% | ~157,703 |
+| Bushido and Chill | 17.00% | ~148,942 |
 | Gun Fu | 16.00% | ~140,180 |
-| True Warrior | 15.00% | ~131,418 |
-| To Protect and Serve | 14.00% | ~122,657 |
-| Master Crafter | 14.00% | ~122,657 |
-| I Am The Law | 14.00% | ~122,657 |
-| Judy vs Night City | 14.00% | ~122,657 |
+| True Warrior | 15.00% | ~131,419 |
+| To Protect and Serve | 14.00% | ~122,658 |
+| Master Crafter | 14.00% | ~122,658 |
+| I Am The Law | 14.00% | ~122,658 |
+| Judy vs Night City | 14.00% | ~122,658 |
 | Two Heads, One Bullet | 12.00% | ~105,135 |
-| The Wandering Fool | 10.00% | ~87,612 |
-| The Quick and the Dead | 10.00% | ~87,612 |
+| The Wandering Fool | 10.00% | ~87,613 |
+| The Quick and the Dead | 10.00% | ~87,613 |
 | Ten out of Ten | 9.00% | ~78,851 |
 | Breathtaking | 8.00% | ~70,090 |
 | To Bad Decisions! | 7.00% | ~61,329 |
@@ -44,14 +44,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 3.00% | ~26,284 |
 | V for Vendetta | 3.00% | ~26,284 |
 | It's Elementary | 3.00% | ~26,284 |
-| Autojock | 2.00% | ~17,522 |
-| Frequent Flyer | 2.00% | ~17,522 |
-| Daemon In The Shell | 2.00% | ~17,522 |
-| The Devil | 2.00% | ~17,522 |
+| Autojock | 2.00% | ~17,523 |
+| Frequent Flyer | 2.00% | ~17,523 |
+| Daemon In The Shell | 2.00% | ~17,523 |
+| The Devil | 2.00% | ~17,523 |
 | Gunslinger | 1.00% | ~8,761 |
 | Rough Landing | 0.50% | ~4,381 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,122 (Ranked 15)  
+Progressed: 876,127 (Ranked 15)  
 Completed: 2,085 (0.24%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 2,085 (0.24%) (Ranked 190)
 | 2023-09-11 | 875,775 | 2,079 |
 | 2023-09-12 | 875,908 | 2,083 |
 | 2023-09-13 | 876,046 | 2,084 |
-| 2023-09-14 | 876,122 | 2,085 |
+| 2023-09-14 | 876,127 | 2,085 |
 ## Awards
 Max (Character Customization): 78,551  (Ranked 9)  
-Sum: 209,832 (Ranked 13)  
+Sum: 209,870 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -209,12 +209,12 @@ Diff (max vs sum): -4
 | This game has Great Boss Battles | 51,130 |
 | This game is Great for Beginners | 9,522 |
 | This game has Diverse Characters | 9,462 |
-| This game has Amazing Storytelling | 9,396 |
+| This game has Amazing Storytelling | 9,414 |
 | This game is Highly Recommended | 9,278 |
 | This game is Extremely Fun | 9,272 |
 | This game is Relaxing | 9,159 |
 | This game has Amazing Characters | 9,091 |
-| This game has Quickly Understood Controls | 9,043 |
+| This game has Quickly Understood Controls | 9,063 |
 | This game has a Creative Community | 5,928 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -457,4 +457,4 @@ Diff (max vs sum): -4
 | 2023-09-11 | 4.62 | - | 78,214 | 208,870 |
 | 2023-09-12 | 4.62 | - | 78,334 | 209,302 |
 | 2023-09-13 | 4.62 | - | 78,437 | 209,705 |
-| 2023-09-14 | 4.62 | - | 78,551 | 209,832 |
+| 2023-09-14 | 4.62 | - | 78,551 | 209,870 |

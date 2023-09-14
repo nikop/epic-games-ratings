@@ -9,16 +9,16 @@ Rating: 3.52 (Ranked 986)
 | Ne Plus Ultra | 0.80% | ~14 |
 | Blood Will Have Blood | 0.70% | ~12 |
 | Grounded | 0.70% | ~12 |
+| Welcome to the Neighborhood | 0.60% | ~10 |
 | Fly Fisher | 0.60% | ~10 |
 | Peek-a-boo | 0.60% | ~10 |
 | ICU | 0.60% | ~10 |
 | Sucks To Be You | 0.60% | ~10 |
 | Home Is Where the Heart Is | 0.50% | ~9 |
 | Enter of Your Own Free Will | 0.50% | ~9 |
-| Welcome to the Neighborhood | 0.50% | ~9 |
 | Throw The First Stone | 0.50% | ~9 |
 | Wounded Whispers | 0.50% | ~9 |
-| Catch and Release | 0.40% | ~7 |
+| Catch and Release | 0.50% | ~9 |
 | Heart Attack | 0.40% | ~7 |
 | Neighborhood Revitalization | 0.30% | ~5 |
 | Bad Wiring | 0.30% | ~5 |
@@ -72,7 +72,7 @@ Rating: 3.52 (Ranked 986)
 | Friends 'Til The End | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,744 (Ranked 186)  
+Progressed: 1,744 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |

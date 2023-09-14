@@ -5,9 +5,9 @@
   "Ranking_Rating": 242,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 658,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1725,6 +1725,11 @@
       "Time": "2023-09-14T11:06:14.9002152+00:00",
       "NumProgressed": 657,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T16:07:50.8146159+00:00",
+      "NumProgressed": 658,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1760,7 +1765,7 @@
       "Name": "Dental maturity",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "DevilDetail",
@@ -1918,9 +1923,9 @@
       "ID": "Specialist",
       "SetID": "2aagp3d",
       "Name": "Specialist",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 20
     },
     {
       "ID": "SpringCleaning",
@@ -1976,7 +1981,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "YagaProfessional",
@@ -1991,7 +1996,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 658,
       "Completed": 1
     }
   ],
@@ -1999,8 +2004,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:06:40.2303105+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:07:50.8145934+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.3416142+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:02:19.9784665+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:06:40.2303447+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:03:19.5438343+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:07:50.8146543+00:00"
 }

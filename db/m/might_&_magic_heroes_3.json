@@ -5,9 +5,9 @@
   "Ranking_Rating": 87,
   "Ranking_Popularity": 395,
   "Ranking_PopularitySum": 322,
-  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -1409,10 +1409,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 384,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-09-14T15:57:50.0505375+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 385,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 384,
+  "NumberOfAwards": 385,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1450,7 +1456,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1500,8 +1506,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-09-14T11:57:21.0058648+00:00",
+  "LastChanged": "2023-09-14T15:57:50.0505374+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:14.3389512+00:00",
-  "LastUpdate_Ratings": "2023-09-14T14:57:32.2924956+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:03:22.2404755+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:57:50.050538+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:04:15.9716264+00:00"
 }

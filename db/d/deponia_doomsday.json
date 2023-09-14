@@ -5,9 +5,9 @@
   "Ranking_Rating": 468,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.55,
   "EosHistory": [
@@ -240,6 +240,11 @@
       "Time": "2023-09-10T10:04:39.6357879+00:00",
       "NumProgressed": 387,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-14T16:07:28.1575896+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -259,7 +264,7 @@
       "Name": "Sole Music",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "dep4_achievement_11",
@@ -323,7 +328,7 @@
       "Name": "Chunky",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "dep4_achievement_19",
@@ -411,7 +416,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "dep4_achievement_29",
@@ -425,9 +430,9 @@
       "ID": "dep4_achievement_3",
       "SetID": "5d32b60",
       "Name": "Burn, Elysium, burn!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 241
     },
     {
       "ID": "dep4_achievement_30",
@@ -435,7 +440,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "dep4_achievement_31",
@@ -491,7 +496,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "dep4_achievement_5",
@@ -507,7 +512,7 @@
       "Name": "School\u0027s out",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "dep4_achievement_7",
@@ -523,7 +528,7 @@
       "Name": "And everything comes full circle.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "dep4_achievement_9",
@@ -538,7 +543,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 6
     }
   ],
@@ -546,8 +551,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:06:19.525959+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:07:28.1575886+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.2761256+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:00:34.1402988+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:06:19.5259931+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:01:22.8169683+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:07:28.1576209+00:00"
 }

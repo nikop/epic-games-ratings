@@ -2,12 +2,12 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 351,
+  "Ranking_Rating": 350,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -2484,9 +2484,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 348
+      "UsersEstimate": 355
     },
     {
       "ID": "MQ04_1",
@@ -2516,9 +2516,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 322
     },
     {
       "ID": "MQ05_2",
@@ -2637,8 +2637,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-09-14T06:02:12.3857175+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:05:53.6013712+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:06:58.0061223+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.2025336+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:01:53.2616438+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:05:53.6014084+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:02:56.9076956+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:06:58.0061667+00:00"
 }

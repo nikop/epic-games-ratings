@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -892,9 +892,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 662109,
+  "EOS_Progressed": 662115,
   "EOS_Completed": 170,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14802,6 +14802,11 @@
       "Time": "2023-09-14T15:07:11.1787367+00:00",
       "NumProgressed": 662109,
       "NumCompleted": 170
+    },
+    {
+      "Time": "2023-09-14T16:08:28.0246889+00:00",
+      "NumProgressed": 662115,
+      "NumCompleted": 170
     }
   ],
   "TotalAchievements": 48,
@@ -14813,7 +14818,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476718
+      "UsersEstimate": 476723
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -14821,7 +14826,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 384023
+      "UsersEstimate": 384027
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -14829,7 +14834,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152285
+      "UsersEstimate": 152286
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -14877,7 +14882,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66211
+      "UsersEstimate": 66212
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -14901,7 +14906,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33105
+      "UsersEstimate": 33106
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -14909,7 +14914,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66211
+      "UsersEstimate": 66212
     },
     {
       "ID": "Achievement_14_Magician",
@@ -14949,7 +14954,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152285
+      "UsersEstimate": 152286
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -14957,7 +14962,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 92695
+      "UsersEstimate": 92696
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -14965,7 +14970,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112559
+      "UsersEstimate": 112560
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -14989,7 +14994,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33105
+      "UsersEstimate": 33106
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -15053,7 +15058,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79453
+      "UsersEstimate": 79454
     },
     {
       "ID": "Achievement_32_Karma",
@@ -15077,7 +15082,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 165527
+      "UsersEstimate": 165529
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -15196,15 +15201,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 662109,
+      "Progressed": 662115,
       "Completed": 170
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-09-12T21:00:03.5082364+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:07:11.1787363+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:08:28.0246883+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:19.7852859+00:00",
-  "LastUpdate_Ratings": "2023-09-14T14:57:26.141744+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:07:11.1788622+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:57:43.1244636+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:08:28.0249162+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1275,7 +1275,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23870,
+  "EOS_Progressed": 23874,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 1,
@@ -17030,6 +17030,11 @@
       "Time": "2023-09-14T15:04:12.3737656+00:00",
       "NumProgressed": 23870,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-14T16:05:02.1111572+00:00",
+      "NumProgressed": 23874,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -17137,7 +17142,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "1028",
@@ -17161,7 +17166,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4774
+      "UsersEstimate": 4775
     },
     {
       "ID": "1031",
@@ -17177,7 +17182,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 9548
+      "UsersEstimate": 9550
     },
     {
       "ID": "1033",
@@ -17201,7 +17206,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     },
     {
       "ID": "1036",
@@ -17216,15 +17221,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23870,
+      "Progressed": 23874,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-14T15:04:12.3737652+00:00",
+  "LastChanged_Achievements": "2023-09-14T16:05:02.1111567+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.8845824+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:00:36.3669843+00:00",
-  "LastUpdate_Achievements": "2023-09-14T15:04:12.3738782+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:01:25.012517+00:00",
+  "LastUpdate_Achievements": "2023-09-14T16:05:02.111306+00:00"
 }
