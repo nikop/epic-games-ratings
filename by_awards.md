@@ -38,7 +38,7 @@
 | 36 | [SnowRunner](games/s/snowrunner.md) | 10,507 | 4.76 | 117 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,028 | 4.78 | 101 |
 | 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,022 | 4.61 | 368 |
-| 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,085 | 4.58 | 430 |
+| 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,098 | 4.58 | 430 |
 | 40 | [Control](games/c/control.md) | 8,505 | 4.60 | 394 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,162 | 4.89 | 13 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,005 | 4.48 | 602 |
@@ -55,7 +55,7 @@
 | 53 | [Sifu](games/s/sifu.md) | 6,494 | 4.82 | 67 |
 | 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,440 | 4.80 | 83 |
 | 55 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,362 | 4.58 | 430 |
-| 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,064 | 4.69 | 216 |
+| 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,076 | 4.69 | 216 |
 | 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,027 | 4.54 | 501 |
 | 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,000 | 4.79 | 88 |
 | 59 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,968 | 4.64 | 314 |
@@ -230,9 +230,9 @@
 | 228 | [Dungeons 3](games/d/dungeons_3.md) | 345 | 4.66 | 280 |
 | 229 | [Inscryption](games/i/inscryption.md) | 339 | 4.86 | 31 |
 | 230 | [Tannenberg](games/t/tannenberg.md) | 333 | 4.39 | 720 |
+| 231 | [Brawlhalla](games/b/brawlhalla.md) | 331 | 4.60 | 394 |
 | 231 | [The Messenger](games/t/the_messenger.md) | 331 | 4.80 | 83 |
-| 232 | [Brawlhalla](games/b/brawlhalla.md) | 328 | 4.60 | 394 |
-| 232 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 328 | 4.59 | 416 |
+| 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 328 | 4.59 | 416 |
 | 234 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 326 | 4.72 | 172 |
 | 235 | [Darkwood](games/d/darkwood.md) | 322 | 4.61 | 368 |
 | 236 | [House Flipper](games/h/house_flipper.md) | 310 | 4.69 | 216 |

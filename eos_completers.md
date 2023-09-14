@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.43% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.27% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.93% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.81% |
@@ -59,7 +59,7 @@
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 4.32% |
 | 58 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.19% |
 | 59 | [](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17% |
-| 60 | [ZZT!](games/z/zzt!.md) | 4.11% |
+| 60 | [ZZT!](games/z/zzt!.md) | 4.14% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
@@ -102,8 +102,8 @@
 | 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 101 | [Frogun](games/f/frogun.md) | 1.80% |
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
-| 103 | [Five Dates](games/f/five_dates.md) | 1.67% |
-| 104 | [Somerville](games/s/somerville.md) | 1.65% |
+| 103 | [Somerville](games/s/somerville.md) | 1.71% |
+| 104 | [Five Dates](games/f/five_dates.md) | 1.67% |
 | 105 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 105 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.56% |
 | 107 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.55% |
@@ -119,8 +119,8 @@
 | 117 | [Trifox](games/t/trifox.md) | 1.10% |
 | 118 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.05% |
 | 119 | [Adios](games/a/adios.md) | 1.03% |
-| 120 | [A Musical Story](games/a/a_musical_story.md) | 1.02% |
-| 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
+| 120 | [A Musical Story](games/a/a_musical_story.md) | 1.01% |
+| 120 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
 | 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 122 | [Sable](games/s/sable.md) | 1.00% |
 | 124 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
@@ -592,4 +592,4 @@
 | 274 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 274 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 274 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,232 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,233 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

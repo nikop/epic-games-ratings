@@ -219,7 +219,7 @@
 | 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 116,397 | 8 |
 | 216 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 517 |
 | 216 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 517 |
-| 216 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,064 | 56 |
+| 216 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,076 | 56 |
 | 216 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 4,933 | 68 |
 | 216 | [House Flipper](games/h/house_flipper.md) | 4.69 | 310 | 236 |
 | 216 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.69 | 0 | 517 |
@@ -397,7 +397,7 @@
 | 394 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 740 | 164 |
 | 394 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,761 | 25 |
 | 394 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 517 |
-| 394 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 328 | 232 |
+| 394 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 331 | 231 |
 | 394 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,620 | 72 |
 | 394 | [Control](games/c/control.md) | 4.60 | 8,505 | 40 |
 | 394 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 517 |
@@ -425,14 +425,14 @@
 | 416 | [Operation: Tango](games/o/operation__tango.md) | 4.59 | 0 | 517 |
 | 416 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 76 | 372 |
 | 416 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 194 | 275 |
-| 416 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 328 | 232 |
+| 416 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 328 | 233 |
 | 416 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,024 | 144 |
 | 416 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 517 |
 | 416 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 712 | 167 |
 | 430 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,047 | 11 |
 | 430 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 166 | 293 |
 | 430 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 517 |
-| 430 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 9,085 | 39 |
+| 430 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 9,098 | 39 |
 | 430 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 261 | 251 |
 | 430 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 517 |
 | 430 | [GRIT](games/g/grit.md) | 4.58 | 0 | 517 |

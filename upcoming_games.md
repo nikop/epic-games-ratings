@@ -128,6 +128,7 @@
 | [Beyond These Stars](games/b/beyond_these_stars.md) | 2023-12-31 | - |  | - | - |
 | [Blacksmith Master](games/b/blacksmith_master.md) | 2023-12-31 | - |  | - | - |
 | [Bogdan's Cross](games/b/bogdan's_cross.md) | 2023-12-31 | - |  | - | - |
+| [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-31 | - |  | - | - |
 | [Breachway](games/b/breachway.md) | 2023-12-31 | - |  | - | - |
 | [Capes](games/c/capes.md) | 2023-12-31 | - |  | - | - |
 | [Capital Command](games/c/capital_command.md) | 2023-12-31 | - |  | - | - |
