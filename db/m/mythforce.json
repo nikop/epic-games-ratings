@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1825,
+  "EOS_Progressed": 1829,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4336,6 +4336,11 @@
       "Time": "2023-09-14T16:09:01.2000604+00:00",
       "NumProgressed": 1825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T17:08:23.8395931+00:00",
+      "NumProgressed": 1829,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4372,7 +4377,7 @@
       "Name": "Death Becomes You",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -4386,9 +4391,9 @@
       "ID": "MF_Ach_EverythingMustGo",
       "SetID": "9b9n573",
       "Name": "Everything Must Go!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -4516,7 +4521,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -4531,15 +4536,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1825,
+      "Progressed": 1829,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-14T16:09:01.2000598+00:00",
+  "LastChanged_Achievements": "2023-09-14T17:08:23.8395924+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:58:44.117027+00:00",
-  "LastUpdate_Achievements": "2023-09-14T16:09:01.2001062+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:58:35.1582316+00:00",
+  "LastUpdate_Achievements": "2023-09-14T17:08:23.8396569+00:00"
 }

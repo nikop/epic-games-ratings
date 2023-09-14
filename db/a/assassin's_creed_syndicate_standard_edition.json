@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 547,
   "Ranking_Popularity": 334,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-02-20T16:00:00+00:00",
@@ -2145,18 +2145,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 756,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2023-09-14T16:59:25.0642709+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 758,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 756,
-  "NumberOfAwardsMax": 103,
+  "NumberOfAwards": 758,
+  "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 103
+      "Count": 105
     },
     {
       "Text": "This game is Educational",
@@ -2236,8 +2242,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-09-13T14:58:56.7278196+00:00",
+  "LastChanged": "2023-09-14T16:59:25.0642705+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.7009553+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:59:35.8752536+00:00",
-  "LastUpdate_Achievements": "2023-09-14T16:09:35.0962208+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:59:25.0642712+00:00",
+  "LastUpdate_Achievements": "2023-09-14T17:08:59.2154986+00:00"
 }

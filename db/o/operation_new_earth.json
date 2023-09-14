@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1308,
+  "EOS_Progressed": 1309,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -4696,6 +4696,11 @@
       "Time": "2023-09-14T14:03:33.7807734+00:00",
       "NumProgressed": 1308,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T17:04:13.363318+00:00",
+      "NumProgressed": 1309,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4715,7 +4720,7 @@
       "Name": "Exterminator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_defeat_players_10",
@@ -4843,7 +4848,7 @@
       "Name": "Captain",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -4883,7 +4888,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5010,14 +5015,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1308,
+      "Progressed": 1309,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-14T16:04:48.6447448+00:00",
+  "LastChanged_Achievements": "2023-09-14T17:04:13.3633173+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:01:38.4232648+00:00",
-  "LastUpdate_Achievements": "2023-09-14T16:04:48.6448096+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:01:24.9200246+00:00",
+  "LastUpdate_Achievements": "2023-09-14T17:04:13.3634023+00:00"
 }

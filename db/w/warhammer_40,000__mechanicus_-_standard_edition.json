@@ -565,10 +565,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2141,
       "NumberOfAwardsMax": 283
+    },
+    {
+      "Time": "2023-09-14T16:58:02.5710993+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2142,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2141,
+  "NumberOfAwards": 2142,
   "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -606,7 +612,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 261
+      "Count": 262
     },
     {
       "Text": "This game has Unique Visuals",
@@ -633,9 +639,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 222557,
+  "EOS_Progressed": 222560,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16613,6 +16619,11 @@
       "Time": "2023-09-14T16:04:56.4501938+00:00",
       "NumProgressed": 222557,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T17:04:20.8442219+00:00",
+      "NumProgressed": 222560,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -16632,7 +16643,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 57865
+      "UsersEstimate": 57866
     },
     {
       "ID": "ACH_BASE_11",
@@ -16704,7 +16715,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13353
+      "UsersEstimate": 13354
     },
     {
       "ID": "ACH_BASE_20",
@@ -16895,16 +16906,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 222557,
+      "Progressed": 222560,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-09-13T20:57:20.0030186+00:00",
-  "LastChanged_Achievements": "2023-09-14T16:04:56.4501931+00:00",
+  "LastChanged": "2023-09-14T16:58:02.5710983+00:00",
+  "LastChanged_Achievements": "2023-09-14T17:04:20.8442212+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:42.4468153+00:00",
-  "LastUpdate_Ratings": "2023-09-14T15:58:10.9730429+00:00",
-  "LastUpdate_Achievements": "2023-09-14T16:04:56.4503452+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:58:02.5710995+00:00",
+  "LastUpdate_Achievements": "2023-09-14T17:04:20.8443887+00:00"
 }

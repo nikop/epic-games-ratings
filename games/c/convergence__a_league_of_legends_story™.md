@@ -1,25 +1,25 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.60 (Ranked 394)  
+Rating: 4.60 (Ranked 395)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 27.00% | ~234 |
-| The Mysterious Stranger | 22.00% | ~190 |
-| Rail Rat | 22.00% | ~190 |
+| The Mysterious Stranger | 22.00% | ~191 |
+| Rail Rat | 22.00% | ~191 |
 | Make Up For Lost Time | 20.00% | ~173 |
 | The Prince in Heels | 20.00% | ~173 |
 | Immaculate Aim | 20.00% | ~173 |
 | The Brass Boss | 20.00% | ~173 |
-| The Steel Shadow | 19.00% | ~164 |
-| Time Flies | 19.00% | ~164 |
-| The Harder They Fall | 19.00% | ~164 |
-| No, Thanks! | 19.00% | ~164 |
-| Breaking Down Barriers | 19.00% | ~164 |
-| Honest Mistake | 19.00% | ~164 |
-| Fast Learner | 19.00% | ~164 |
-| Immaculate Aim | 19.00% | ~164 |
+| The Steel Shadow | 19.00% | ~165 |
+| Time Flies | 19.00% | ~165 |
+| The Harder They Fall | 19.00% | ~165 |
+| No, Thanks! | 19.00% | ~165 |
+| Breaking Down Barriers | 19.00% | ~165 |
+| Honest Mistake | 19.00% | ~165 |
+| Fast Learner | 19.00% | ~165 |
+| Immaculate Aim | 19.00% | ~165 |
 | The Wicked Twins | 18.00% | ~156 |
 | Golem Chaser | 18.00% | ~156 |
 | Like Clockwork | 17.00% | ~147 |
@@ -27,18 +27,18 @@ Rating: 4.60 (Ranked 394)
 | The Loose Cannon | 17.00% | ~147 |
 | Check Your Pulse | 17.00% | ~147 |
 | The Family Fortune | 17.00% | ~147 |
-| Right On Time | 16.00% | ~138 |
-| The Man Who Shattered Time | 16.00% | ~138 |
+| Right On Time | 16.00% | ~139 |
+| The Man Who Shattered Time | 16.00% | ~139 |
 | Street Style | 15.00% | ~130 |
 | Cartographer | 15.00% | ~130 |
 | Treasure Trove | 14.00% | ~121 |
-| Whiz Kid | 13.00% | ~112 |
+| Whiz Kid | 13.00% | ~113 |
 | Good Neighbor | 12.00% | ~104 |
 | Chaincrawler Explorer | 11.00% | ~95 |
 | Family Memories | 11.00% | ~95 |
-| Syron for Hope | 10.00% | ~86 |
-| Theater Explorer | 10.00% | ~86 |
-| Ask Questions Later | 10.00% | ~86 |
+| Syron for Hope | 10.00% | ~87 |
+| Theater Explorer | 10.00% | ~87 |
+| Ask Questions Later | 10.00% | ~87 |
 | Factorywood Explorer | 9.00% | ~78 |
 | Fairgrounds Explorer | 9.00% | ~78 |
 | Sump Explorer | 9.00% | ~78 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 394)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 865 (Ranked 216)  
+Progressed: 866 (Ranked 216)  
 Completed: 5 (0.58%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 5 (0.58%) (Ranked 146)
 | 2023-09-11 | 862 | 5 |
 | 2023-09-12 | 863 | 5 |
 | 2023-09-13 | 865 | 5 |
+| 2023-09-14 | 866 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

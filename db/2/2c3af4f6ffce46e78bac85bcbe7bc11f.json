@@ -2,9 +2,9 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 8.82,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -206,6 +206,11 @@
       "Time": "2023-09-14T00:06:27.2243749+00:00",
       "NumProgressed": 33,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-14T17:07:06.35801+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 26,
@@ -263,7 +268,7 @@
       "ID": "Cloud",
       "SetID": "6j29jep",
       "Name": "Something ever-changing...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -303,7 +308,7 @@
       "ID": "Grass",
       "SetID": "6j29jep",
       "Name": "Something foundational...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -335,7 +340,7 @@
       "ID": "Moon",
       "SetID": "6j29jep",
       "Name": "Something to make you dream...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -367,7 +372,7 @@
       "ID": "Natural_Mode",
       "SetID": "6j29jep",
       "Name": "Something natural...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -375,7 +380,7 @@
       "ID": "Star",
       "SetID": "6j29jep",
       "Name": "Something to long for...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -424,14 +429,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-09-14T16:07:42.5017452+00:00",
+  "LastChanged_Achievements": "2023-09-14T17:07:06.3580091+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:03.5633966+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:02:28.293174+00:00",
-  "LastUpdate_Achievements": "2023-09-14T16:07:42.501769+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:02:14.2889411+00:00",
+  "LastUpdate_Achievements": "2023-09-14T17:07:06.3580339+00:00"
 }

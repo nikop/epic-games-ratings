@@ -4,7 +4,7 @@
   "ProductSlug": "paquerette-down-the-bunburrows-2fd777",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -525,8 +525,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T15:02:19.3093169+00:00",
-  "LastChanged_Achievements": "2023-09-14T16:06:23.34236+00:00",
+  "LastChanged_Achievements": "2023-09-14T17:05:46.9672298+00:00",
   "LastUpdate_AppInfo": "2023-09-11T17:56:58.1498637+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:01:36.9719137+00:00",
-  "LastUpdate_Achievements": "2023-09-14T16:06:23.3424117+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:01:23.6484285+00:00",
+  "LastUpdate_Achievements": "2023-09-14T17:05:46.967288+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
@@ -1879,9 +1879,9 @@
       "ID": "ElectricGun",
       "SetID": "5lok9mm",
       "Name": "Zappy Gun",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1923
     },
     {
       "ID": "EnterTown",
@@ -2143,9 +2143,9 @@
       "ID": "Strength",
       "SetID": "5lok9mm",
       "Name": "Ripped",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1901
     },
     {
       "ID": "Surprise",
@@ -2207,8 +2207,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-08-30T16:59:25.1228046+00:00",
-  "LastChanged_Achievements": "2023-09-14T16:07:37.3810409+00:00",
+  "LastChanged_Achievements": "2023-09-14T17:07:01.5692162+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:25.5185713+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:00:05.0942043+00:00",
-  "LastUpdate_Achievements": "2023-09-14T16:07:37.381098+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:59:55.268593+00:00",
+  "LastUpdate_Achievements": "2023-09-14T17:07:01.569346+00:00"
 }

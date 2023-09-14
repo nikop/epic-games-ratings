@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7608,10 +7608,10 @@
       "Count": 643
     }
   ],
-  "EOS_Progressed": 296581,
+  "EOS_Progressed": 296585,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 977,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 948,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -23538,6 +23538,11 @@
       "Time": "2023-09-14T16:04:35.7570849+00:00",
       "NumProgressed": 296581,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-14T17:04:00.4276027+00:00",
+      "NumProgressed": 296585,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23549,7 +23554,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 41521
+      "UsersEstimate": 41522
     },
     {
       "ID": "PFA_10",
@@ -23581,7 +23586,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 26692
+      "UsersEstimate": 26693
     },
     {
       "ID": "PFA_14",
@@ -23621,7 +23626,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23726
+      "UsersEstimate": 23727
     },
     {
       "ID": "PFA_19",
@@ -23653,7 +23658,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26692
+      "UsersEstimate": 26693
     },
     {
       "ID": "PFA_22",
@@ -23693,7 +23698,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "PFA_27",
@@ -23765,7 +23770,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8897
+      "UsersEstimate": 8898
     },
     {
       "ID": "PFA_35",
@@ -23773,7 +23778,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26692
+      "UsersEstimate": 26693
     },
     {
       "ID": "PFA_36",
@@ -23853,7 +23858,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23726
+      "UsersEstimate": 23727
     },
     {
       "ID": "PFA_45",
@@ -23901,14 +23906,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26692
+      "UsersEstimate": 26693
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296581,
+      "Progressed": 296585,
       "Completed": 470
     }
   ],
@@ -23916,8 +23921,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-14T13:07:15.0766684+00:00",
-  "LastChanged_Achievements": "2023-09-14T16:04:35.7570841+00:00",
+  "LastChanged_Achievements": "2023-09-14T17:04:00.4276019+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:02:46.8925602+00:00",
-  "LastUpdate_Achievements": "2023-09-14T16:04:35.7572321+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:02:32.5840145+00:00",
+  "LastUpdate_Achievements": "2023-09-14T17:04:00.4277625+00:00"
 }

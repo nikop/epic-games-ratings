@@ -1,15 +1,15 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 368)  
+Rating: 4.61 (Ranked 367)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~45,383 |
-| Get Busy Living | 16.00% | ~27,928 |
-| Samuel Norton | 9.00% | ~15,710 |
-| Spare The Rod | 5.00% | ~8,728 |
+| Stone Walls | 26.00% | ~45,389 |
+| Get Busy Living | 16.00% | ~27,932 |
+| Samuel Norton | 9.00% | ~15,712 |
+| Spare The Rod | 5.00% | ~8,729 |
 | Don't Put Me In The Dark | 3.00% | ~5,237 |
 | Wait and Hope | 3.00% | ~5,237 |
 | I May Have Found A Way Out Of Here | 3.00% | ~5,237 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~175 |
 | ... It's What You Can Prove | 0.10% | ~175 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174,551 (Ranked 65)  
+Progressed: 174,574 (Ranked 65)  
 Completed: 8 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,15 +170,15 @@ Completed: 8 (0.00%) (Ranked 274)
 | 2023-09-11 | 173,877 | 8 |
 | 2023-09-12 | 174,130 | 8 |
 | 2023-09-13 | 174,388 | 8 |
-| 2023-09-14 | 174,551 | 8 |
+| 2023-09-14 | 174,574 | 8 |
 ## Awards
 Max (Extremely Fun): 503  (Ranked 200)  
-Sum: 3,888 (Ranked 146)  
+Sum: 3,890 (Ranked 146)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 503 |
-| This game is Great for Beginners | 479 |
+| This game is Great for Beginners | 481 |
 | This game is Highly Recommended | 471 |
 | This game has Quickly Understood Controls | 464 |
 | This game is Relaxing | 447 |
@@ -425,3 +425,4 @@ Diff (max vs sum): 54
 | 2023-09-11 | 4.61 | - | 502 | 3,872 |
 | 2023-09-12 | 4.61 | - | 503 | 3,877 |
 | 2023-09-13 | 4.61 | - | 503 | 3,888 |
+| 2023-09-14 | 4.61 | - | 503 | 3,890 |

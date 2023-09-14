@@ -18,7 +18,7 @@
 | Truebro | 14.00% | ~16 |
 | Stone Retriever | 14.00% | ~16 |
 | Find myself | 13.00% | ~15 |
-| Min's Promise | 11.00% | ~12 |
+| Min's Promise | 12.00% | ~14 |
 | Romantic | 10.00% | ~11 |
 | Sia's Promise | 8.00% | ~9 |
 | TentacleMAN | 5.00% | ~6 |
@@ -30,7 +30,7 @@
 | Bond Lord | 0.00% | ~0 |
 | True Player | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 339)  
+Progressed: 113 (Ranked 340)  
 Completed: 1 (0.88%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |

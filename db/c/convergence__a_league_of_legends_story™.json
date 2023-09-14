@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 394,
+  "Ranking_Rating": 395,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 216,
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2145,6 +2145,11 @@
       "Time": "2023-09-13T22:08:03.2980079+00:00",
       "NumProgressed": 865,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T17:08:22.649968+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 53,
@@ -2164,7 +2169,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -2188,7 +2193,7 @@
       "Name": "Right On Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ClockworkCompletion1",
@@ -2276,7 +2281,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -2292,7 +2297,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "GadgetCompletion1",
@@ -2308,7 +2313,7 @@
       "Name": "Whiz Kid",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "GrindingTime1",
@@ -2316,7 +2321,7 @@
       "Name": "Rail Rat",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "HexlockGift",
@@ -2396,7 +2401,7 @@
       "Name": "Time Flies",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ParryBoss",
@@ -2404,7 +2409,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ParryRepeated1",
@@ -2412,7 +2417,7 @@
       "Name": "No, Thanks!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "PhaseDiveCounter",
@@ -2420,7 +2425,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -2452,7 +2457,7 @@
       "Name": "Honest Mistake",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ScrambotCompletion1",
@@ -2484,7 +2489,7 @@
       "Name": "Fast Learner",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "SpeedRun",
@@ -2508,7 +2513,7 @@
       "Name": "Syron for Hope",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "TemporalPulseKills1",
@@ -2524,7 +2529,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -2540,7 +2545,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "WatcherFought",
@@ -2548,7 +2553,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WatcherSpared",
@@ -2579,7 +2584,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 5
     }
   ],
@@ -2587,8 +2592,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-07-28T17:00:54.1232382+00:00",
-  "LastChanged_Achievements": "2023-09-14T16:09:00.0823439+00:00",
+  "LastChanged_Achievements": "2023-09-14T17:08:22.6499674+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:01.8379909+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:00:03.498699+00:00",
-  "LastUpdate_Achievements": "2023-09-14T16:09:00.0824079+00:00"
+  "LastUpdate_Ratings": "2023-09-14T16:59:53.1723984+00:00",
+  "LastUpdate_Achievements": "2023-09-14T17:08:22.6500416+00:00"
 }
