@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 122,
@@ -1689,9 +1689,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13898,
+  "EOS_Progressed": 13899,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11454,6 +11454,11 @@
       "Time": "2023-09-14T08:08:16.050896+00:00",
       "NumProgressed": 13898,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T11:09:26.7520706+00:00",
+      "NumProgressed": 13899,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -11855,9 +11860,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -12103,9 +12108,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -12231,9 +12236,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -13071,9 +13076,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -13832,21 +13837,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13898,
+      "Progressed": 13899,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13898,
+      "Progressed": 13899,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-13T01:42:38.525097+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:08:57.0001434+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:09:26.7520699+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-14T09:57:32.2265572+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:08:57.0202558+00:00"
+  "LastUpdate_Ratings": "2023-09-14T10:57:32.143262+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:09:26.7529731+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 28.00% | ~781 |
 | Welcome to the family | 22.00% | ~614 |
 | The finer things in life | 19.00% | ~530 |
-| Backpacker | 14.00% | ~390 |
+| Backpacker | 14.00% | ~391 |
 | Go with the Flow | 13.00% | ~363 |
 | Plastic Surgeon | 10.00% | ~279 |
 | The flip trick crown jewel | 10.00% | ~279 |
@@ -29,14 +29,14 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~167 |
 | Squad goals | 6.00% | ~167 |
 | Sup widdit big dog! | 6.00% | ~167 |
-| Commence the Hijinx! | 5.00% | ~139 |
-| DIY Boss | 5.00% | ~139 |
-| Globetrotter | 5.00% | ~139 |
-| Laid back | 5.00% | ~139 |
-| Lines for days | 5.00% | ~139 |
-| Manny Destroys All | 5.00% | ~139 |
-| Renaissance man | 5.00% | ~139 |
-| Trick shot marksman | 5.00% | ~139 |
+| Commence the Hijinx! | 5.00% | ~140 |
+| DIY Boss | 5.00% | ~140 |
+| Globetrotter | 5.00% | ~140 |
+| Laid back | 5.00% | ~140 |
+| Lines for days | 5.00% | ~140 |
+| Manny Destroys All | 5.00% | ~140 |
+| Renaissance man | 5.00% | ~140 |
+| Trick shot marksman | 5.00% | ~140 |
 | Cops called! | 4.00% | ~112 |
 | G.O.A.T. status | 4.00% | ~112 |
 | Prince of Philly | 4.00% | ~112 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,789 (Ranked 171)  
+Progressed: 2,790 (Ranked 171)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 2,785 | 0 |
 | 2023-09-12 | 2,788 | 0 |
 | 2023-09-13 | 2,789 | 0 |
+| 2023-09-14 | 2,790 | 0 |
 ## Awards
 Max (Highly Recommended): 53  (Ranked 398)  
 Sum: 461 (Ranked 311)  

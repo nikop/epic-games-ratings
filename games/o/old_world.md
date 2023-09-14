@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -48,6 +48,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legendary Cities | 2.00% | ~278 |
 | Strong Cities | 2.00% | ~278 |
 | Able Difficulty | 2.00% | ~278 |
+| Just Difficulty | 2.00% | ~278 |
 | Artisans | 2.00% | ~278 |
 | Furious Family | 2.00% | ~278 |
 | Acropolis | 2.00% | ~278 |
@@ -71,12 +72,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 2.00% | ~278 |
 | Hanging Gardens in Babylon | 1.00% | ~139 |
 | Beloved | 1.00% | ~139 |
+| Capable | 1.00% | ~139 |
 | Conqueror | 1.00% | ~139 |
 | Lion | 1.00% | ~139 |
 | Mighty | 1.00% | ~139 |
+| Subjugator | 1.00% | ~139 |
 | Victorious | 1.00% | ~139 |
 | Good Difficulty | 1.00% | ~139 |
-| Just Difficulty | 1.00% | ~139 |
 | Champions | 1.00% | ~139 |
 | Patrons | 1.00% | ~139 |
 | Sages | 1.00% | ~139 |
@@ -103,10 +105,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~139 |
 | Points Victory | 1.00% | ~139 |
 | Win a Single Player Game | 1.00% | ~139 |
-| Capable | 0.90% | ~125 |
 | Invincible | 0.90% | ~125 |
 | Ready | 0.90% | ~125 |
-| Subjugator | 0.90% | ~125 |
 | Riders | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
 | Assyrian Paganism | 0.90% | ~125 |
@@ -118,6 +118,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.80% | ~111 |
 | Landowners | 0.80% | ~111 |
 | Adur Burzen-Mihr | 0.80% | ~111 |
+| Babylonia | 0.80% | ~111 |
 | Carthage | 0.80% | ~111 |
 | Industrial Progress | 0.80% | ~111 |
 | Enlightenment | 0.80% | ~111 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.70% | ~97 |
 | Hunters | 0.70% | ~97 |
 | Learn to Play 4 | 0.70% | ~97 |
-| Babylonia | 0.70% | ~97 |
 | Hittite Paganism | 0.70% | ~97 |
 | Turreted Elephant | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,898 (Ranked 122)  
+Progressed: 13,899 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -450,7 +450,7 @@ Completed: 5 (0.04%) (Ranked 242)
 | 2023-09-11 | 13,868 | 5 |
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
-| 2023-09-14 | 13,898 | 5 |
+| 2023-09-14 | 13,899 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

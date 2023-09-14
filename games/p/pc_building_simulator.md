@@ -1,29 +1,29 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 299)  
+Rating: 4.65 (Ranked 300)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,743,281 |
-| Easy to forget | 46.00% | ~1,636,549 |
-| Back in the black | 39.00% | ~1,387,509 |
-| That's what I'm talking about | 29.00% | ~1,031,738 |
-| The Best of Both Worlds | 25.00% | ~889,429 |
-| Get your wings | 20.00% | ~711,543 |
-| Double trouble | 16.00% | ~569,235 |
-| Smashing it | 11.00% | ~391,349 |
-| But can it run Crysis? | 9.00% | ~320,194 |
-| My favourite feature... | 9.00% | ~320,194 |
-| From humble beginnings... | 7.00% | ~249,040 |
-| Customer satisfaction | 7.00% | ~249,040 |
+| You need to plug it in... | 49.00% | ~1,743,285 |
+| Easy to forget | 46.00% | ~1,636,553 |
+| Back in the black | 39.00% | ~1,387,512 |
+| That's what I'm talking about | 29.00% | ~1,031,740 |
+| The Best of Both Worlds | 25.00% | ~889,431 |
+| Get your wings | 20.00% | ~711,545 |
+| Double trouble | 16.00% | ~569,236 |
+| Smashing it | 11.00% | ~391,350 |
+| But can it run Crysis? | 9.00% | ~320,195 |
+| My favourite feature... | 9.00% | ~320,195 |
+| From humble beginnings... | 7.00% | ~249,041 |
+| Customer satisfaction | 7.00% | ~249,041 |
 | Keeping things neat | 4.00% | ~142,309 |
 | Seems you're pretty good at this | 4.00% | ~142,309 |
 | Bending over backwards | 4.00% | ~142,309 |
-| Triple threat | 3.00% | ~106,731 |
-| You rock at this! | 3.00% | ~106,731 |
-| Your music sucks | 3.00% | ~106,731 |
+| Triple threat | 3.00% | ~106,732 |
+| You rock at this! | 3.00% | ~106,732 |
+| Your music sucks | 3.00% | ~106,732 |
 | I'm broke, Uncle! | 2.00% | ~71,154 |
 | Maybe you should try something else? | 2.00% | ~71,154 |
 | Taking care of business | 2.00% | ~71,154 |
@@ -37,7 +37,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,577 |
 | Majority Shareholder | 1.00% | ~35,577 |
 | Owner | 1.00% | ~35,577 |
-| Show off | 0.90% | ~32,019 |
+| Show off | 0.90% | ~32,020 |
 | Work ethic 101 | 0.70% | ~24,904 |
 | Building momentum | 0.60% | ~21,346 |
 | Lead by example | 0.60% | ~21,346 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,558 |
 | Treat yourself - GPU | 0.10% | ~3,558 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,557,716 (Ranked 5)  
+Progressed: 3,557,724 (Ranked 5)  
 Completed: 35 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 35 (0.00%) (Ranked 274)
 | 2023-09-11 | 3,556,965 | 35 |
 | 2023-09-12 | 3,557,274 | 35 |
 | 2023-09-13 | 3,557,598 | 35 |
-| 2023-09-14 | 3,557,716 | 35 |
+| 2023-09-14 | 3,557,724 | 35 |
 ## Awards
 Max (Great for Beginners): 1,065  (Ranked 140)  
 Sum: 7,986 (Ranked 100)  

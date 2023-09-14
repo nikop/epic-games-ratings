@@ -370,9 +370,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "b36c5kb",
       "Name": "Not Running This Time",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -490,9 +490,9 @@
       "ID": "ACHIEVEMENT_22",
       "SetID": "b36c5kb",
       "Name": "Making Things a Little Easier",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -737,8 +737,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:06:27.9036429+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:05:51.252254+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:02.5081406+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:00:46.320324+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:06:27.9036835+00:00"
+  "LastUpdate_Ratings": "2023-09-14T11:00:07.1591852+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:05:51.2523038+00:00"
 }

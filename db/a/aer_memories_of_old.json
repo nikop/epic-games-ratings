@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20019,
+  "EOS_Progressed": 20020,
   "EOS_Completed": 397,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -16118,6 +16118,11 @@
       "Time": "2023-09-14T10:07:02.0396401+00:00",
       "NumProgressed": 20019,
       "NumCompleted": 397
+    },
+    {
+      "Time": "2023-09-14T11:06:17.944934+00:00",
+      "NumProgressed": 20020,
+      "NumCompleted": 397
     }
   ],
   "TotalAchievements": 20,
@@ -16225,7 +16230,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -16257,7 +16262,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "NORTH_FINISHED",
@@ -16265,7 +16270,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -16281,22 +16286,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20019,
+      "Progressed": 20020,
       "Completed": 397
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:07:02.0396395+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:06:17.9449334+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-14T09:59:16.488576+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:07:02.0397207+00:00"
+  "LastUpdate_Ratings": "2023-09-14T10:58:52.464821+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:06:17.945051+00:00"
 }

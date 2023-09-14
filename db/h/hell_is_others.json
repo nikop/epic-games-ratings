@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 677,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 47,
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -890,6 +890,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 254,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-09-14T10:59:35.6722445+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 254,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
@@ -952,9 +958,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256203,
+  "EOS_Progressed": 256206,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15807,6 +15813,11 @@
       "Time": "2023-09-14T10:03:33.9937317+00:00",
       "NumProgressed": 256203,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-14T11:03:49.3636613+00:00",
+      "NumProgressed": 256206,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -15866,7 +15877,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 79423
+      "UsersEstimate": 79424
     },
     {
       "ID": "BackHomeNTimes",
@@ -15922,7 +15933,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25620
+      "UsersEstimate": 25621
     },
     {
       "ID": "CreditLevel2",
@@ -16210,7 +16221,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 25620
+      "UsersEstimate": 25621
     },
     {
       "ID": "ReachNDays2",
@@ -16265,16 +16276,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256203,
+      "Progressed": 256206,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-09-13T10:58:56.1071016+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:03:33.9937313+00:00",
+  "LastChanged": "2023-09-14T10:59:35.6722444+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:03:49.3636607+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.9065613+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:00:09.1478257+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:03:33.9938561+00:00"
+  "LastUpdate_Ratings": "2023-09-14T10:59:35.6722449+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:03:49.3637871+00:00"
 }

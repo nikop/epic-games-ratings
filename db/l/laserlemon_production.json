@@ -101,17 +101,17 @@
       "ID": "FunAndGamesAhead",
       "SetID": "c36hpcf",
       "Name": "Fun and Games Ahead",
-      "Percentage": 25,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "Glissando",
       "SetID": "c36hpcf",
       "Name": "Six\u0027s Song",
-      "Percentage": 25,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "HardToTheCore",
@@ -125,9 +125,9 @@
       "ID": "HighlySprung",
       "SetID": "c36hpcf",
       "Name": "Highly Sprung",
-      "Percentage": 75,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 0
     },
     {
       "ID": "ImLosingYou",
@@ -189,17 +189,17 @@
       "ID": "SoClose",
       "SetID": "c36hpcf",
       "Name": "So Close",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "TheGuestArea",
       "SetID": "c36hpcf",
       "Name": "The Guest Area",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "TheKitchen",
@@ -221,25 +221,25 @@
       "ID": "TheLair",
       "SetID": "c36hpcf",
       "Name": "The Lair",
-      "Percentage": 25,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ThePrison",
       "SetID": "c36hpcf",
       "Name": "The Prison",
-      "Percentage": 38,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "WellMeetAgain",
       "SetID": "c36hpcf",
       "Name": "We\u0027ll Meet Again",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -251,8 +251,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T10:05:55.6712787+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:06:12.5144187+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:05:39.2586424+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:12.9758527+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:00:44.7418664+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:06:12.5144317+00:00"
+  "LastUpdate_Ratings": "2023-09-14T11:00:05.1006914+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:05:39.2586603+00:00"
 }

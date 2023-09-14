@@ -1,7 +1,7 @@
 # Transistor
 [Store](https://store.epicgames.com/en-US/p/transistor)  
 [View Rawdata](../../db/t/transistor.json)  
-Rating: 4.63 (Ranked 331)  
+Rating: 4.62 (Ranked 351)  
 Number of Ratings: 123  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -67,3 +67,4 @@ Number of Ratings: 123  (23.09.2022)
 | 2023-06-22 | 4.63 | - | 0 | 0 |
 | 2023-07-18 | 4.62 | - | 0 | 0 |
 | 2023-07-29 | 4.63 | - | 0 | 0 |
+| 2023-09-14 | 4.62 | - | 0 | 0 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -853,9 +853,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -901,9 +901,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "PROGRESS_N3",
@@ -940,8 +940,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:08:18.7205646+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:07:17.6561193+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-14T09:58:32.7920645+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:08:18.720584+00:00"
+  "LastUpdate_Ratings": "2023-09-14T10:58:20.6191757+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:07:17.6561424+00:00"
 }

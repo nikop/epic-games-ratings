@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 656,
+  "EOS_Progressed": 657,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1720,6 +1720,11 @@
       "Time": "2023-09-13T22:06:59.9002474+00:00",
       "NumProgressed": 656,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T11:06:14.9002152+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -1763,7 +1768,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Devoted",
@@ -1843,7 +1848,7 @@
       "Name": "Spirit animal",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LiarLiar",
@@ -1986,7 +1991,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 656,
+      "Progressed": 657,
       "Completed": 1
     }
   ],
@@ -1994,8 +1999,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-06-17T03:57:55.2766718+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:06:58.2886562+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:06:14.9002146+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.3416142+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:02:20.9457066+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:06:58.2886833+00:00"
+  "LastUpdate_Ratings": "2023-09-14T11:03:23.9986078+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:06:14.9002508+00:00"
 }

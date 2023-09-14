@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 501)  
+Rating: 4.54 (Ranked 502)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,31 +27,31 @@ Rating: 4.54 (Ranked 501)
 | Stacking the Deck | 1.00% | ~6,795 |
 | Our True Nature | 1.00% | ~6,795 |
 | This is My Weapon | 1.00% | ~6,795 |
-| Anger Management | 0.90% | ~6,115 |
-| Perks of the Job | 0.90% | ~6,115 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,115 |
+| Anger Management | 0.90% | ~6,116 |
+| Perks of the Job | 0.90% | ~6,116 |
+| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,116 |
 | Making Your Mark | 0.80% | ~5,436 |
 | Humanity Distilled | 0.80% | ~5,436 |
 | Down with the Sickness | 0.80% | ~5,436 |
-| Max Headroom | 0.70% | ~4,756 |
-| Jumbo Keyring | 0.50% | ~3,397 |
-| Go, Bobcats! | 0.50% | ~3,397 |
-| Rising Star | 0.50% | ~3,397 |
+| Max Headroom | 0.70% | ~4,757 |
+| Jumbo Keyring | 0.50% | ~3,398 |
+| Go, Bobcats! | 0.50% | ~3,398 |
+| Rising Star | 0.50% | ~3,398 |
 | Smorgasbord | 0.40% | ~2,718 |
 | Not Even My Final Form | 0.40% | ~2,718 |
 | Internet Famous | 0.40% | ~2,718 |
-| Make it So | 0.30% | ~2,038 |
-| LA Influential | 0.30% | ~2,038 |
-| On Safari | 0.30% | ~2,038 |
-| Gore Horse | 0.30% | ~2,038 |
-| Variety is the Spice of Death | 0.30% | ~2,038 |
+| Make it So | 0.30% | ~2,039 |
+| LA Influential | 0.30% | ~2,039 |
+| On Safari | 0.30% | ~2,039 |
+| Gore Horse | 0.30% | ~2,039 |
+| Variety is the Spice of Death | 0.30% | ~2,039 |
 | Sole Survivor | 0.20% | ~1,359 |
 | Sharpest Tool in the Box | 0.20% | ~1,359 |
 | Survival Skills | 0.20% | ~1,359 |
-| Donk! | 0.10% | ~679 |
-| Bucket List | 0.10% | ~679 |
+| Donk! | 0.10% | ~680 |
+| Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,486 (Ranked 22)  
+Progressed: 679,501 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 2,143 (0.32%) (Ranked 177)
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
-| 2023-09-14 | 679,486 | 2,143 |
+| 2023-09-14 | 679,501 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,038  (Ranked 57)  
-Sum: 8,938 (Ranked 94)  
+Sum: 8,940 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -212,7 +212,7 @@ Diff (max vs sum): -37
 | This game is Relaxing | 373 |
 | This game has Amazing Storytelling | 349 |
 | This game is Extremely Fun | 332 |
-| This game has Amazing Characters | 320 |
+| This game has Amazing Characters | 322 |
 | This game is Highly Recommended | 317 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -363,4 +363,4 @@ Diff (max vs sum): -37
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
 | 2023-09-12 | 4.54 | 6,016 | 8,905 |
 | 2023-09-13 | 4.54 | 6,027 | 8,924 |
-| 2023-09-14 | 4.54 | 6,038 | 8,938 |
+| 2023-09-14 | 4.54 | 6,038 | 8,940 |

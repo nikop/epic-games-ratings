@@ -2,13 +2,13 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 501,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 52,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -194,10 +194,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 143018,
-  "EOS_Completed": 270,
-  "EOS_NewPlayers": 1350,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 143020,
+  "EOS_Completed": 271,
+  "EOS_NewPlayers": 1348,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -10804,6 +10804,11 @@
       "Time": "2023-09-14T10:09:02.9499512+00:00",
       "NumProgressed": 143018,
       "NumCompleted": 270
+    },
+    {
+      "Time": "2023-09-14T11:09:30.4841271+00:00",
+      "NumProgressed": 143020,
+      "NumCompleted": 271
     }
   ],
   "TotalAchievements": 31,
@@ -10823,7 +10828,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 98682
+      "UsersEstimate": 98684
     },
     {
       "ID": "EAwards_10",
@@ -10863,7 +10868,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 55777
+      "UsersEstimate": 55778
     },
     {
       "ID": "EAwards_15",
@@ -10911,7 +10916,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 40045
+      "UsersEstimate": 40046
     },
     {
       "ID": "EAwards_20",
@@ -10919,7 +10924,7 @@
       "Name": "I Have The Power",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11441
+      "UsersEstimate": 11442
     },
     {
       "ID": "EAwards_21",
@@ -10999,7 +11004,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27173
+      "UsersEstimate": 27174
     },
     {
       "ID": "EAwards_30",
@@ -11031,7 +11036,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 35754
+      "UsersEstimate": 35755
     },
     {
       "ID": "EAwards_7",
@@ -11062,16 +11067,16 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 143018,
-      "Completed": 270
+      "Progressed": 143020,
+      "Completed": 271
     }
   ],
   "FirstSeen": "2023-06-15T17:57:10.0099472+00:00",
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-12T09:59:33.6411689+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:09:02.9499505+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:09:30.4841267+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.7486031+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:01:24.0762543+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:09:02.9500224+00:00"
+  "LastUpdate_Ratings": "2023-09-14T11:00:38.5929976+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:09:30.4842203+00:00"
 }

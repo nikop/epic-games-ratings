@@ -2,13 +2,13 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 501,
+  "Ranking_Rating": 502,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -4432,10 +4432,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8938,
       "NumberOfAwardsMax": 6038
+    },
+    {
+      "Time": "2023-09-14T10:57:54.8422103+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8940,
+      "NumberOfAwardsMax": 6038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8938,
+  "NumberOfAwards": 8940,
   "NumberOfAwardsMax": 6038,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4473,7 +4479,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 320
+      "Count": 322
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4494,9 +4500,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 679486,
+  "EOS_Progressed": 679501,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 4544,
+  "EOS_NewPlayers": 4541,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20959,6 +20965,11 @@
       "Time": "2023-09-14T10:04:30.2022993+00:00",
       "NumProgressed": 679486,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-14T11:04:17.4590942+00:00",
+      "NumProgressed": 679501,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -20994,7 +21005,7 @@
       "Name": "Anger Management",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6115
+      "UsersEstimate": 6116
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -21002,7 +21013,7 @@
       "Name": "Make it So",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "ach_big_name_in_town",
@@ -21010,7 +21021,7 @@
       "Name": "LA Influential",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "ach_blueprinted",
@@ -21018,7 +21029,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6115
+      "UsersEstimate": 6116
     },
     {
       "ID": "ach_bookworm",
@@ -21042,7 +21053,7 @@
       "Name": "On Safari",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "ach_defensive",
@@ -21050,7 +21061,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6115
+      "UsersEstimate": 6116
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -21138,7 +21149,7 @@
       "Name": "Donk!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ach_internet_famous",
@@ -21162,7 +21173,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     },
     {
       "ID": "ach_knock_down",
@@ -21194,7 +21205,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "ach_metropolitan",
@@ -21266,7 +21277,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4756
+      "UsersEstimate": 4757
     },
     {
       "ID": "ach_the_vcla",
@@ -21274,7 +21285,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     },
     {
       "ID": "ach_thesacrifice",
@@ -21298,7 +21309,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -21314,7 +21325,7 @@
       "Name": "Rising Star",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 3397
+      "UsersEstimate": 3398
     },
     {
       "ID": "ach_well_trained",
@@ -21322,29 +21333,29 @@
       "Name": "Bucket List",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 679486,
+      "Progressed": 679501,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 5027,
-      "Completed": 5027
+      "Progressed": 5042,
+      "Completed": 5042
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-14T09:58:00.1599625+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:04:30.2022988+00:00",
+  "LastChanged": "2023-09-14T10:57:54.8422102+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:04:17.4590937+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-14T09:58:00.159963+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:04:30.2024076+00:00"
+  "LastUpdate_Ratings": "2023-09-14T10:57:54.8422108+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:04:17.4592375+00:00"
 }

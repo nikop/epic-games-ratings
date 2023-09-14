@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5747,
+  "EOS_Progressed": 5749,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1241,
+  "EOS_NewPlayers": 1236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1386,6 +1386,11 @@
       "Time": "2023-09-14T10:05:28.1350197+00:00",
       "NumProgressed": 5747,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T11:05:03.9132573+00:00",
+      "NumProgressed": 5749,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1518,7 +1523,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "GamesPlayed10",
@@ -1542,7 +1547,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "GamesWon10",
@@ -1820,9 +1825,9 @@
       "ID": "NexusKills1",
       "SetID": "12d07c7",
       "Name": "Destroyed the Nexus",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 402
     },
     {
       "ID": "PlayerKills10",
@@ -1892,9 +1897,9 @@
       "ID": "RSPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Rocket Strike",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 862
     },
     {
       "ID": "SEUpgraded1",
@@ -1989,14 +1994,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5747,
+      "Progressed": 5749,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:05:28.1350193+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:05:03.9132568+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:00:24.4244672+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:05:28.1350898+00:00"
+  "LastUpdate_Ratings": "2023-09-14T10:59:50.4424775+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:05:03.9133507+00:00"
 }

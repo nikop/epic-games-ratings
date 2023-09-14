@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -238,7 +238,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 229665,
+  "EOS_Progressed": 229666,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 2,
@@ -15553,6 +15553,11 @@
       "Time": "2023-09-14T10:07:39.9790425+00:00",
       "NumProgressed": 229665,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T11:06:47.4862943+00:00",
+      "NumProgressed": 229666,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -15628,7 +15633,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82679
+      "UsersEstimate": 82680
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -15724,7 +15729,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50526
+      "UsersEstimate": 50527
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -15787,7 +15792,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229665,
+      "Progressed": 229666,
       "Completed": 5
     }
   ],
@@ -15795,8 +15800,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-10T11:58:05.1406101+00:00",
-  "LastChanged_Achievements": "2023-09-14T10:07:39.979042+00:00",
+  "LastChanged_Achievements": "2023-09-14T11:06:47.4862939+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:45.3291126+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:00:07.5982358+00:00",
-  "LastUpdate_Achievements": "2023-09-14T10:07:39.9791287+00:00"
+  "LastUpdate_Ratings": "2023-09-14T10:59:34.499953+00:00",
+  "LastUpdate_Achievements": "2023-09-14T11:06:47.4864154+00:00"
 }

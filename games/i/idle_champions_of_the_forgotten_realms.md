@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~457 |
 | The Templar's Camp | 0.20% | ~457 |
 | Rescue in the Jungle | 0.20% | ~457 |
+| The Hunt for The Last Breath | 0.20% | ~390 |
 | To Infinity's and Beyond | 0.20% | ~390 |
 | The End | 0.20% | ~390 |
 | Pros and CONs | 0.10% | ~229 |
@@ -521,13 +522,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Topolah's Tower | 0.10% | ~195 |
 | Krux's Speed Run | 0.10% | ~195 |
 | Animated Giff | 0.10% | ~195 |
-| The Hunt for The Last Breath | 0.10% | ~195 |
 | The Chaotic Hunt for The Last Breath | 0.10% | ~195 |
 | There's a Flying Snake in my Boot! | 0.10% | ~195 |
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,718 (Ranked 54)  
+Progressed: 228,724 (Ranked 54)  
 Completed: 2,279 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -674,7 +674,7 @@ Completed: 2,279 (1.00%) (Ranked 122)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,718 | 2,279 |
+| 2023-09-14 | 228,724 | 2,279 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
 Sum: 31,577 (Ranked 39)  
