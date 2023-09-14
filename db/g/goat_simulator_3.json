@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3772,9 +3772,9 @@
       "Count": 283
     }
   ],
-  "EOS_Progressed": 243684,
+  "EOS_Progressed": 243685,
   "EOS_Completed": 828,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -19697,6 +19697,11 @@
       "Time": "2023-09-14T07:07:22.367943+00:00",
       "NumProgressed": 243684,
       "NumCompleted": 828
+    },
+    {
+      "Time": "2023-09-14T08:06:18.1281358+00:00",
+      "NumProgressed": 243685,
+      "NumCompleted": 828
     }
   ],
   "TotalAchievements": 39,
@@ -19756,7 +19761,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 73105
+      "UsersEstimate": 73106
     },
     {
       "ID": "AchievementBoulderID",
@@ -19772,7 +19777,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 221752
+      "UsersEstimate": 221753
     },
     {
       "ID": "AchievementClownID",
@@ -19940,7 +19945,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 180326
+      "UsersEstimate": 180327
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -19980,7 +19985,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134026
+      "UsersEstimate": 134027
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -19988,7 +19993,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 114531
+      "UsersEstimate": 114532
     },
     {
       "ID": "AchievementTrinketID",
@@ -20019,7 +20024,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 243684,
+      "Progressed": 243685,
       "Completed": 828
     }
   ],
@@ -20027,8 +20032,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-14T07:00:06.2316061+00:00",
-  "LastChanged_Achievements": "2023-09-14T07:07:22.367942+00:00",
+  "LastChanged_Achievements": "2023-09-14T08:06:18.1281351+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.4582419+00:00",
-  "LastUpdate_Ratings": "2023-09-14T07:00:06.2316066+00:00",
-  "LastUpdate_Achievements": "2023-09-14T07:07:22.3680696+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:59:23.2575228+00:00",
+  "LastUpdate_Achievements": "2023-09-14T08:06:18.1282603+00:00"
 }

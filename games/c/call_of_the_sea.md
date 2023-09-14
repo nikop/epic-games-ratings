@@ -5,12 +5,12 @@ Rating: 4.39 (Ranked 720)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 79.00% | ~94,085 |
-| 74 miles East of Otaheité | 55.00% | ~65,502 |
-| Interesting... | 42.00% | ~50,020 |
-| The Everhart Expedition | 39.00% | ~46,447 |
-| The Vanishing of the Lady Shannon | 30.00% | ~35,728 |
-| Seaside Serenade | 30.00% | ~35,728 |
+| A Family Heirloom | 79.00% | ~94,087 |
+| 74 miles East of Otaheité | 55.00% | ~65,503 |
+| Interesting... | 42.00% | ~50,021 |
+| The Everhart Expedition | 39.00% | ~46,448 |
+| The Vanishing of the Lady Shannon | 30.00% | ~35,729 |
+| Seaside Serenade | 30.00% | ~35,729 |
 | Halfway there | 29.00% | ~34,538 |
 | A brigantine, a brig and a barque | 28.00% | ~33,347 |
 | 506 East Hampden Avenue | 28.00% | ~33,347 |
@@ -22,9 +22,9 @@ Rating: 4.39 (Ranked 720)
 | FHALGOF'N' | 22.00% | ~26,201 |
 | Marsh Cannery | 21.00% | ~25,010 |
 | Greetings from Y'ha-nthlei! | 17.00% | ~20,246 |
-| The only thing I have now | 16.00% | ~19,055 |
-| Not Another Boring Slideshow! | 15.00% | ~17,864 |
-| Naacalvision | 15.00% | ~17,864 |
+| The only thing I have now | 16.00% | ~19,056 |
+| Not Another Boring Slideshow! | 15.00% | ~17,865 |
+| Naacalvision | 15.00% | ~17,865 |
 | I'll make a note of that... | 9.00% | ~10,719 |
 | The Norahnomicon | 9.00% | ~10,719 |
 | Play it again, Norah | 7.00% | ~8,337 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 720)
 | Gently down the stream... | 1.00% | ~1,191 |
 | Meta-reference | 1.00% | ~1,191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119,095 (Ranked 71)  
+Progressed: 119,097 (Ranked 71)  
 Completed: 969 (0.81%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 969 (0.81%) (Ranked 133)
 | 2023-09-11 | 118,730 | 963 |
 | 2023-09-12 | 118,884 | 965 |
 | 2023-09-13 | 119,075 | 968 |
-| 2023-09-14 | 119,095 | 969 |
+| 2023-09-14 | 119,097 | 969 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

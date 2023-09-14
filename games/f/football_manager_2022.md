@@ -6,11 +6,11 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~236,552 |
-| He's Signed! | 50.00% | ~236,552 |
-| First Victory | 50.00% | ~236,552 |
-| He's Sold! | 48.00% | ~227,090 |
-| I'm The Boss! | 42.00% | ~198,704 |
+| Clean Sheet | 50.00% | ~236,553 |
+| He's Signed! | 50.00% | ~236,553 |
+| First Victory | 50.00% | ~236,553 |
+| He's Sold! | 48.00% | ~227,091 |
+| I'm The Boss! | 42.00% | ~198,705 |
 | Hat-trick | 41.00% | ~193,973 |
 | Scoring Streak | 38.00% | ~179,780 |
 | Unbeatable! | 37.00% | ~175,049 |
@@ -21,15 +21,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | He's a Natural | 31.00% | ~146,663 |
 | Millionaire's Club | 31.00% | ~146,663 |
 | Team Performance | 30.00% | ~141,932 |
-| Parked The Bus | 29.00% | ~137,200 |
-| Shrewd Spender | 29.00% | ~137,200 |
-| Star Man | 29.00% | ~137,200 |
-| Attack! | 28.00% | ~132,469 |
-| Tremendous Trio | 27.00% | ~127,738 |
-| You're On Fire | 26.00% | ~123,007 |
-| On A Roll | 26.00% | ~123,007 |
-| Unstoppable Force | 26.00% | ~123,007 |
-| Record Sale | 26.00% | ~123,007 |
+| Parked The Bus | 29.00% | ~137,201 |
+| Shrewd Spender | 29.00% | ~137,201 |
+| Star Man | 29.00% | ~137,201 |
+| Attack! | 28.00% | ~132,470 |
+| Tremendous Trio | 27.00% | ~127,739 |
+| You're On Fire | 26.00% | ~123,008 |
+| On A Roll | 26.00% | ~123,008 |
+| Unstoppable Force | 26.00% | ~123,008 |
+| Record Sale | 26.00% | ~123,008 |
 | Armchair Expert | 25.00% | ~118,276 |
 | Fantastic Five | 24.00% | ~113,545 |
 | Full Faith | 24.00% | ~113,545 |
@@ -54,14 +54,14 @@ Number of Ratings: 19,160  (23.09.2022)
 | Comeback King! | 14.00% | ~66,235 |
 | You're Up! | 13.00% | ~61,504 |
 | Money, Money, Money | 12.00% | ~56,773 |
-| Superb Strike | 10.00% | ~47,310 |
-| International Superstar | 10.00% | ~47,310 |
-| Invincible! | 10.00% | ~47,310 |
-| Best In The World | 10.00% | ~47,310 |
-| Best In Europe | 9.00% | ~42,579 |
-| National Service | 9.00% | ~42,579 |
-| Headhunted | 9.00% | ~42,579 |
-| Domination | 9.00% | ~42,579 |
+| Superb Strike | 10.00% | ~47,311 |
+| International Superstar | 10.00% | ~47,311 |
+| Invincible! | 10.00% | ~47,311 |
+| Best In The World | 10.00% | ~47,311 |
+| Best In Europe | 9.00% | ~42,580 |
+| National Service | 9.00% | ~42,580 |
+| Headhunted | 9.00% | ~42,580 |
+| Domination | 9.00% | ~42,580 |
 | Best In The Business | 8.00% | ~37,848 |
 | Legend | 6.00% | ~28,386 |
 | Win the Club World Cup | 6.00% | ~28,386 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~473 |
 | Shoestring Budget | 0.10% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,105 (Ranked 36)  
+Progressed: 473,106 (Ranked 36)  
 Completed: 21 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,14 +252,14 @@ Completed: 21 (0.00%) (Ranked 274)
 | 2023-09-11 | 472,982 | 20 |
 | 2023-09-12 | 473,034 | 21 |
 | 2023-09-13 | 473,093 | 21 |
-| 2023-09-14 | 473,105 | 21 |
+| 2023-09-14 | 473,106 | 21 |
 ## Awards
-Max (Relaxing): 6,440  (Ranked 54)  
-Sum: 50,704 (Ranked 25)  
+Max (Relaxing): 6,443  (Ranked 54)  
+Sum: 50,707 (Ranked 25)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,440 |
+| This game is Relaxing | 6,443 |
 | This game is Extremely Fun | 6,041 |
 | This game has Competitive Players | 5,876 |
 | This game has Quickly Understood Controls | 5,860 |
@@ -504,3 +504,4 @@ Diff (max vs sum): 29
 | 2023-09-11 | 4.80 | - | 6,437 | 50,685 |
 | 2023-09-12 | 4.80 | - | 6,437 | 50,690 |
 | 2023-09-13 | 4.80 | - | 6,440 | 50,704 |
+| 2023-09-14 | 4.80 | - | 6,443 | 50,707 |

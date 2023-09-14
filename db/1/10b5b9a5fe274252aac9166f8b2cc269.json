@@ -1378,9 +1378,9 @@
       "ID": "PORTRAIT_4",
       "SetID": "2fge00i",
       "Name": "Portrait 4",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "PORTRAIT_5",
@@ -1433,8 +1433,8 @@
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-09-14T07:06:44.9252257+00:00",
+  "LastChanged_Achievements": "2023-09-14T08:05:47.2677722+00:00",
   "LastUpdate_AppInfo": "2023-09-07T09:57:19.1858514+00:00",
-  "LastUpdate_Ratings": "2023-09-14T07:00:25.4505893+00:00",
-  "LastUpdate_Achievements": "2023-09-14T07:06:44.9252485+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:59:39.7965019+00:00",
+  "LastUpdate_Achievements": "2023-09-14T08:05:47.2677969+00:00"
 }

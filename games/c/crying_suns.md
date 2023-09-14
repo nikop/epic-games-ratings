@@ -6,8 +6,8 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,402 |
-| Jeef Skeejj | 44.00% | ~205,601 |
+| The Shutdown | 66.00% | ~308,403 |
+| Jeef Skeejj | 44.00% | ~205,602 |
 | Careful planning | 39.00% | ~182,238 |
 | Second Coming | 33.00% | ~154,201 |
 | Jeef Skagg | 30.00% | ~140,183 |
@@ -16,10 +16,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter I: Echoes | 22.00% | ~102,801 |
 | Excelsior Rule | 22.00% | ~102,801 |
 | Things persisted in not being what they seemed | 20.00% | ~93,455 |
-| Knightmare Frames | 15.00% | ~70,091 |
-| May His passing cleanse the world | 15.00% | ~70,091 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,091 |
-| Pope Zenon | 15.00% | ~70,091 |
+| Knightmare Frames | 15.00% | ~70,092 |
+| May His passing cleanse the world | 15.00% | ~70,092 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,092 |
+| Pope Zenon | 15.00% | ~70,092 |
 | Tetsuo | 11.00% | ~51,400 |
 | Plan for the worst | 11.00% | ~51,400 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,728 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,276 (Ranked 37)  
+Progressed: 467,277 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 18 (0.00%) (Ranked 274)
 | 2023-09-11 | 467,166 | 18 |
 | 2023-09-12 | 467,219 | 18 |
 | 2023-09-13 | 467,264 | 18 |
-| 2023-09-14 | 467,276 | 18 |
+| 2023-09-14 | 467,277 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 361)  

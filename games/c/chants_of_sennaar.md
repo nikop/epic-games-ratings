@@ -17,13 +17,13 @@
 | Champollion | 25.00% | ~38 |
 | Cable guy | 24.00% | ~37 |
 | In this together | 23.00% | ~35 |
+| Half the way | 23.00% | ~35 |
 | Peace walker | 22.00% | ~34 |
-| Half the way | 22.00% | ~34 |
 | Open door | 22.00% | ~34 |
 | Feels like springtime | 20.00% | ~31 |
 | Rascal | 19.00% | ~29 |
 | Free at last | 18.00% | ~28 |
-| Alchemists Express | 17.00% | ~26 |
+| Alchemists Express | 18.00% | ~28 |
 | A Link to the Past | 16.00% | ~24 |
 | A great audience | 12.00% | ~18 |
 | For its own good | 12.00% | ~18 |

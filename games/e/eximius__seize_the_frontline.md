@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduate Boot Camp | 71.00% | ~139,656 |
+| Graduate Boot Camp | 71.00% | ~139,658 |
 | Initiation | 18.00% | ~35,406 |
 | Battlesuit Victory | 8.00% | ~15,736 |
 | Flawless Victory | 5.00% | ~9,835 |
@@ -16,13 +16,13 @@ Rating: 4.18 (Ranked 882)
 | Total Destruction | 1.00% | ~1,967 |
 | Getting There | 1.00% | ~1,967 |
 | Untouchable | 1.00% | ~1,967 |
-| Mastermind | 0.50% | ~983 |
+| Mastermind | 0.50% | ~984 |
 | We shall never Surrender! | 0.20% | ~393 |
 | Halfway There | 0.20% | ~393 |
 | Not Afraid of the Big Bad Wolf | 0.10% | ~197 |
 | Many More to Come | 0.10% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196,698 (Ranked 63)  
+Progressed: 196,701 (Ranked 63)  
 Completed: 4 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 4 (0.00%) (Ranked 274)
 | 2023-09-11 | 196,603 | 4 |
 | 2023-09-12 | 196,645 | 4 |
 | 2023-09-13 | 196,692 | 4 |
-| 2023-09-14 | 196,698 | 4 |
+| 2023-09-14 | 196,701 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

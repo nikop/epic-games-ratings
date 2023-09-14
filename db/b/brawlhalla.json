@@ -4,7 +4,7 @@
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 394,
   "Ranking_Popularity": 231,
-  "Ranking_PopularitySum": 168,
+  "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 350,
@@ -6126,10 +6126,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 3078,
       "NumberOfAwardsMax": 331
+    },
+    {
+      "Time": "2023-09-14T07:58:50.5776482+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 3081,
+      "NumberOfAwardsMax": 331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3078,
+  "NumberOfAwards": 3081,
   "NumberOfAwardsMax": 331,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6191,7 +6197,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 259
+      "Count": 262
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6218,8 +6224,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-09-14T06:59:23.228262+00:00",
+  "LastChanged": "2023-09-14T07:58:50.577648+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.8569706+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:59:23.2282625+00:00",
-  "LastUpdate_Achievements": "2023-09-14T07:05:52.2311195+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:58:50.5776486+00:00",
+  "LastUpdate_Achievements": "2023-09-14T08:05:03.8989869+00:00"
 }

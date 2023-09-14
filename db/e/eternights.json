@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 110,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.92,
+  "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
       "Time": "2023-09-08T14:06:31.5856386+00:00",
@@ -236,6 +236,11 @@
       "Time": "2023-09-14T06:03:47.6305522+00:00",
       "NumProgressed": 109,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T08:03:25.0982249+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -248,7 +253,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -262,17 +267,17 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -328,7 +333,7 @@
       "Name": "Shelter Escape",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -366,9 +371,9 @@
       "ID": "ACHIEVEMENT_24_TentacleMan",
       "SetID": "9bke6f1",
       "Name": "TentacleMAN",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -398,9 +403,9 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -414,9 +419,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -447,14 +452,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 110,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-14T07:03:43.5300969+00:00",
+  "LastChanged_Achievements": "2023-09-14T08:03:25.0982244+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:58:23.6913555+00:00",
-  "LastUpdate_Achievements": "2023-09-14T07:03:43.530114+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:58:05.2192501+00:00",
+  "LastUpdate_Achievements": "2023-09-14T08:03:25.098247+00:00"
 }
