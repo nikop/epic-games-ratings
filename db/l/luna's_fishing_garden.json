@@ -4,7 +4,7 @@
   "ProductSlug": "lunas-fishing-garden",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.34,
+  "EOS_Completed_Percentage": 6.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -106,6 +106,11 @@
       "Time": "2023-09-09T01:42:45.5283084+00:00",
       "NumProgressed": 678,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-09-14T04:04:52.5070618+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 14,
@@ -133,7 +138,7 @@
       "Name": "The Ones that Got Away",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "12_art",
@@ -157,7 +162,7 @@
       "Name": "Up!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "2_reel",
@@ -197,7 +202,7 @@
       "Name": "Immortal",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "7_cleanup",
@@ -213,7 +218,7 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "9_lotus",
@@ -228,7 +233,7 @@
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 43
     }
   ],
@@ -236,8 +241,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-09-14T03:04:41.2960114+00:00",
+  "LastChanged_Achievements": "2023-09-14T04:04:52.5070613+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.2806864+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:00:00.3081844+00:00",
-  "LastUpdate_Achievements": "2023-09-14T03:04:41.2960225+00:00"
+  "LastUpdate_Ratings": "2023-09-14T04:00:09.9546724+00:00",
+  "LastUpdate_Achievements": "2023-09-14T04:04:52.5070745+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 958,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 209,
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 76,
@@ -3400,10 +3400,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 2055,
       "NumberOfAwardsMax": 435
+    },
+    {
+      "Time": "2023-09-14T03:58:42.0165093+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 2057,
+      "NumberOfAwardsMax": 435
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2055,
+  "NumberOfAwards": 2057,
   "NumberOfAwardsMax": 435,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3429,7 +3435,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 418
+      "Count": 420
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3456,9 +3462,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 87025,
+  "EOS_Progressed": 87027,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 14303,
+  "EOS_NewPlayers": 14304,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -18556,6 +18562,11 @@
       "Time": "2023-09-14T03:05:30.1497809+00:00",
       "NumProgressed": 87025,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-14T04:05:42.750092+00:00",
+      "NumProgressed": 87027,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 37,
@@ -18567,7 +18578,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 41772
+      "UsersEstimate": 41773
     },
     {
       "ID": "ACH_0011",
@@ -18575,7 +18586,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 22626
+      "UsersEstimate": 22627
     },
     {
       "ID": "ACH_0012",
@@ -18623,7 +18634,7 @@
       "Name": "Rockay Raider",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "ACH_0022",
@@ -18703,7 +18714,7 @@
       "Name": "Moneybags",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "ACH_0200",
@@ -18711,7 +18722,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 53085
+      "UsersEstimate": 53086
     },
     {
       "ID": "ACH_0210",
@@ -18719,7 +18730,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 60917
+      "UsersEstimate": 60919
     },
     {
       "ID": "ACH_0211",
@@ -18735,7 +18746,7 @@
       "Name": "Too Old for This",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 37421
+      "UsersEstimate": 37422
     },
     {
       "ID": "ACH_0300",
@@ -18799,7 +18810,7 @@
       "Name": "Fancy Pants",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 27848
+      "UsersEstimate": 27849
     },
     {
       "ID": "ACH_0431",
@@ -18823,7 +18834,7 @@
       "Name": "Off the Rocks",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 14794
+      "UsersEstimate": 14795
     },
     {
       "ID": "ACH_0451",
@@ -18847,7 +18858,7 @@
       "Name": "Impossible Dreamer",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "ACH_0600",
@@ -18855,29 +18866,29 @@
       "Name": "Rockay Rex",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 8702
+      "UsersEstimate": 8703
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 87025,
+      "Progressed": 87027,
       "Completed": 45
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 15372,
-      "Completed": 15372
+      "Progressed": 15374,
+      "Completed": 15374
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-09-13T18:58:53.2300758+00:00",
-  "LastChanged_Achievements": "2023-09-14T03:05:30.1497803+00:00",
+  "LastChanged": "2023-09-14T03:58:42.0165091+00:00",
+  "LastChanged_Achievements": "2023-09-14T04:05:42.7500914+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.3237957+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:58:38.5894238+00:00",
-  "LastUpdate_Achievements": "2023-09-14T03:05:30.1499002+00:00"
+  "LastUpdate_Ratings": "2023-09-14T03:58:42.0165103+00:00",
+  "LastUpdate_Achievements": "2023-09-14T04:05:42.7502162+00:00"
 }

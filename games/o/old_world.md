@@ -8,11 +8,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 5.00% | ~695 |
 | Settler | 5.00% | ~695 |
+| Friendly Family | 5.00% | ~695 |
 | Play a Single Player Game | 5.00% | ~695 |
 | The Clergy | 5.00% | ~695 |
 | Able | 4.00% | ~556 |
 | Intrepid | 4.00% | ~556 |
-| Friendly Family | 4.00% | ~556 |
 | Ambitious | 3.00% | ~417 |
 | Architect | 3.00% | ~417 |
 | Enlightened | 3.00% | ~417 |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.70% | ~97 |
 | Turreted Elephant | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
+| Old | 0.60% | ~83 |
 | Peacemaker | 0.60% | ~83 |
 | Clerics | 0.60% | ~83 |
 | Cao'an | 0.60% | ~83 |
@@ -139,7 +140,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.60% | ~83 |
 | All Nations | 0.60% | ~83 |
 | Carthage - Ox Hide | 0.50% | ~69 |
-| Old | 0.50% | ~69 |
 | Noble Difficulty | 0.50% | ~69 |
 | Old World Order | 0.50% | ~69 |
 | Play a Network Game | 0.50% | ~69 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,893 (Ranked 122)  
+Progressed: 13,894 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -450,7 +450,7 @@ Completed: 5 (0.04%) (Ranked 242)
 | 2023-09-11 | 13,868 | 5 |
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
-| 2023-09-14 | 13,893 | 5 |
+| 2023-09-14 | 13,894 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

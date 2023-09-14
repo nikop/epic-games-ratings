@@ -563,9 +563,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Achi_19",
@@ -579,9 +579,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achi_21",
@@ -595,9 +595,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Achi_23",
@@ -635,9 +635,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Achi_28",
@@ -659,9 +659,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Achi_31",
@@ -691,9 +691,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achi_35",
@@ -836,8 +836,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-09-14T03:06:00.1594722+00:00",
+  "LastChanged_Achievements": "2023-09-14T04:06:13.6869092+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.9066994+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:58:58.9546793+00:00",
-  "LastUpdate_Achievements": "2023-09-14T03:06:00.1595186+00:00"
+  "LastUpdate_Ratings": "2023-09-14T03:59:04.5183613+00:00",
+  "LastUpdate_Achievements": "2023-09-14T04:06:13.6869573+00:00"
 }

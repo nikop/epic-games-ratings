@@ -454,9 +454,9 @@
       "ID": "BADGE_ENEMIES_FRIGHTEN",
       "SetID": "ak6pfjk",
       "Name": "Go Home!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "BADGE_ENEMIES_KILL",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-14T03:05:33.4163902+00:00",
+  "LastChanged_Achievements": "2023-09-14T04:05:46.0936429+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:21.1461898+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:57:18.9566526+00:00",
-  "LastUpdate_Achievements": "2023-09-14T03:05:33.4164312+00:00"
+  "LastUpdate_Ratings": "2023-09-14T03:57:11.9907986+00:00",
+  "LastUpdate_Achievements": "2023-09-14T04:05:46.0936882+00:00"
 }

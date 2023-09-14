@@ -102,9 +102,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73153,
+  "EOS_Progressed": 73155,
   "EOS_Completed": 755,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -16397,6 +16397,11 @@
       "Time": "2023-09-14T03:04:31.1346155+00:00",
       "NumProgressed": 73153,
       "NumCompleted": 755
+    },
+    {
+      "Time": "2023-09-14T04:04:42.2594407+00:00",
+      "NumProgressed": 73155,
+      "NumCompleted": 755
     }
   ],
   "TotalAchievements": 25,
@@ -16536,7 +16541,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11704
+      "UsersEstimate": 11705
     },
     {
       "ID": "Nothing Left to Say",
@@ -16552,7 +16557,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7315
+      "UsersEstimate": 7316
     },
     {
       "ID": "Right On Target",
@@ -16607,7 +16612,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73153,
+      "Progressed": 73155,
       "Completed": 755
     }
   ],
@@ -16615,8 +16620,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-09T23:58:12.669114+00:00",
-  "LastChanged_Achievements": "2023-09-14T03:04:31.1346146+00:00",
+  "LastChanged_Achievements": "2023-09-14T04:04:42.25944+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.4518852+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:59:24.2385178+00:00",
-  "LastUpdate_Achievements": "2023-09-14T03:04:31.1347303+00:00"
+  "LastUpdate_Ratings": "2023-09-14T03:59:29.7326326+00:00",
+  "LastUpdate_Achievements": "2023-09-14T04:04:42.259569+00:00"
 }

@@ -988,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2922,
+  "EOS_Progressed": 2925,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1303,
+  "EOS_NewPlayers": 1296,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2738,6 +2738,11 @@
       "Time": "2023-09-14T03:04:54.3903355+00:00",
       "NumProgressed": 2922,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T04:05:05.6546242+00:00",
+      "NumProgressed": 2925,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2798,7 +2803,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "a_19",
@@ -2806,7 +2811,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "a_2",
@@ -2956,9 +2961,9 @@
       "ID": "a_5",
       "SetID": "daiie3o",
       "Name": "Treasure of Roero",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "a_6",
@@ -2997,7 +3002,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2922,
+      "Progressed": 2925,
       "Completed": 5
     }
   ],
@@ -3005,8 +3010,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-14T03:04:54.3903348+00:00",
+  "LastChanged_Achievements": "2023-09-14T04:05:05.6546229+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:00:24.7483497+00:00",
-  "LastUpdate_Achievements": "2023-09-14T03:04:54.3903841+00:00"
+  "LastUpdate_Ratings": "2023-09-14T04:02:05.8615171+00:00",
+  "LastUpdate_Achievements": "2023-09-14T04:05:05.6546604+00:00"
 }

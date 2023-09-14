@@ -6,50 +6,50 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~226,503 |
-| Uncharted Territory | 89.00% | ~209,987 |
-| Getting A Glimpse | 73.00% | ~172,237 |
+| First Steps | 96.00% | ~226,504 |
+| Uncharted Territory | 89.00% | ~209,988 |
+| Getting A Glimpse | 73.00% | ~172,238 |
 | A Quick Escape | 65.00% | ~153,362 |
-| Explorer | 62.00% | ~146,283 |
-| Defeat The Dark | 61.00% | ~143,924 |
-| An Offering | 61.00% | ~143,924 |
+| Explorer | 62.00% | ~146,284 |
+| Defeat The Dark | 61.00% | ~143,925 |
+| An Offering | 61.00% | ~143,925 |
 | Colorful Corpse | 58.00% | ~136,846 |
-| That Was Quick | 57.00% | ~134,486 |
-| A Donation | 57.00% | ~134,486 |
-| Goodbye, Frog Friend | 54.00% | ~127,408 |
+| That Was Quick | 57.00% | ~134,487 |
+| A Donation | 57.00% | ~134,487 |
+| Goodbye, Frog Friend | 54.00% | ~127,409 |
 | Heavy Hitter | 53.00% | ~125,049 |
 | Heartless | 46.00% | ~108,533 |
 | Spine Breaker | 46.00% | ~108,533 |
-| Deflection | 45.00% | ~106,173 |
+| Deflection | 45.00% | ~106,174 |
 | Sneaky | 43.00% | ~101,455 |
-| Delving Deeper | 42.00% | ~99,095 |
-| C-C-Combo | 42.00% | ~99,095 |
+| Delving Deeper | 42.00% | ~99,096 |
+| C-C-Combo | 42.00% | ~99,096 |
 | Ambitious Intent | 41.00% | ~96,736 |
-| Nothing To Lose | 40.00% | ~94,376 |
-| The Bestiary | 40.00% | ~94,376 |
+| Nothing To Lose | 40.00% | ~94,377 |
+| The Bestiary | 40.00% | ~94,377 |
 | What's Yours Is Mine | 38.00% | ~89,658 |
-| R.I.P | 37.00% | ~87,298 |
+| R.I.P | 37.00% | ~87,299 |
 | Shootout | 36.00% | ~84,939 |
-| I Am Overburdened | 35.00% | ~82,579 |
+| I Am Overburdened | 35.00% | ~82,580 |
 | Cold Hearted | 34.00% | ~80,220 |
 | Dig Your Own Grave | 33.00% | ~77,861 |
 | Toxic | 33.00% | ~77,861 |
 | Who To Trust? | 32.00% | ~75,501 |
 | Flesh Wound | 29.00% | ~68,423 |
-| Stone Touch | 28.00% | ~66,063 |
-| Shadow Walker | 28.00% | ~66,063 |
+| Stone Touch | 28.00% | ~66,064 |
+| Shadow Walker | 28.00% | ~66,064 |
 | Consecutive Curses | 27.00% | ~63,704 |
 | Walk It Off | 27.00% | ~63,704 |
 | Acid Bath | 27.00% | ~63,704 |
 | New Perspectives | 27.00% | ~63,704 |
 | Shapeshifting | 27.00% | ~63,704 |
 | Destroy Your Fears | 26.00% | ~61,345 |
-| Save Our Souls | 25.00% | ~58,985 |
+| Save Our Souls | 25.00% | ~58,986 |
 | To The Death! | 20.00% | ~47,188 |
 | Well Prepared | 20.00% | ~47,188 |
 | Just Chilling | 20.00% | ~47,188 |
 | Stop Hitting Yourself | 19.00% | ~44,829 |
-| All Consuming | 18.00% | ~42,469 |
+| All Consuming | 18.00% | ~42,470 |
 | Shadow Spreads | 17.00% | ~40,110 |
 | Don't Ignore Me! | 17.00% | ~40,110 |
 | Illuminate, Eliminate | 17.00% | ~40,110 |
@@ -78,12 +78,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Fire Away! | 7.00% | ~16,516 |
 | Obsessed | 7.00% | ~16,516 |
 | Sentimental Value | 7.00% | ~16,516 |
-| A Long Climb | 6.00% | ~14,156 |
-| Grave Digger | 6.00% | ~14,156 |
-| Soul Stash | 6.00% | ~14,156 |
-| Power Score | 6.00% | ~14,156 |
-| Just Looking Around | 6.00% | ~14,156 |
-| Champion of the Day | 6.00% | ~14,156 |
+| A Long Climb | 6.00% | ~14,157 |
+| Grave Digger | 6.00% | ~14,157 |
+| Soul Stash | 6.00% | ~14,157 |
+| Power Score | 6.00% | ~14,157 |
+| Just Looking Around | 6.00% | ~14,157 |
+| Champion of the Day | 6.00% | ~14,157 |
 | Achievement Hunter | 5.00% | ~11,797 |
 | No Mercy | 5.00% | ~11,797 |
 | Hydrophobe | 4.00% | ~9,438 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Down Under | 0.50% | ~1,180 |
 | Near Death Experience | 0.30% | ~708 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,941 (Ranked 51)  
+Progressed: 235,942 (Ranked 51)  
 Completed: 270 (0.11%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 270 (0.11%) (Ranked 217)
 | 2023-09-11 | 235,831 | 269 |
 | 2023-09-12 | 235,892 | 269 |
 | 2023-09-13 | 235,936 | 269 |
-| 2023-09-14 | 235,941 | 270 |
+| 2023-09-14 | 235,942 | 270 |
 ## Awards
 Max (Great for Beginners): 1,496  (Ranked 123)  
 Sum: 13,051 (Ranked 73)  

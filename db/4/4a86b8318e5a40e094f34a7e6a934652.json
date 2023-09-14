@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -559,9 +559,9 @@
       "ID": "EAT_AN_ENERGY_BAR",
       "SetID": "aniflfk",
       "Name": "Energy Boost",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GO_ON_EXPEDITION",
@@ -678,8 +678,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-14T03:05:05.9977436+00:00",
+  "LastChanged_Achievements": "2023-09-14T04:05:17.561128+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:59:48.8164214+00:00",
-  "LastUpdate_Achievements": "2023-09-14T03:05:05.9977602+00:00"
+  "LastUpdate_Ratings": "2023-09-14T03:59:55.229937+00:00",
+  "LastUpdate_Achievements": "2023-09-14T04:05:17.5611446+00:00"
 }

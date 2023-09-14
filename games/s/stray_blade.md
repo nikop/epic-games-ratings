@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 86.00% | ~63 |
-| Tinkerer | 66.00% | ~48 |
-| Welcome to the Club | 36.00% | ~26 |
-| A new World ahead | 29.00% | ~21 |
-| Apprentice | 29.00% | ~21 |
+| Self-Defence | 85.00% | ~63 |
+| Tinkerer | 65.00% | ~48 |
+| Welcome to the Club | 35.00% | ~26 |
+| A new World ahead | 28.00% | ~21 |
+| Apprentice | 28.00% | ~21 |
 | Can't touch this | 22.00% | ~16 |
-| Don't Cry Wolf | 21.00% | ~15 |
+| Don't Cry Wolf | 20.00% | ~15 |
 | Freezing Cold | 16.00% | ~12 |
 | The Power of the Mountains | 15.00% | ~11 |
+| Searing Heat | 14.00% | ~10 |
 | Nothing but the Truth | 14.00% | ~10 |
-| Searing Heat | 12.00% | ~9 |
 | Expert | 12.00% | ~9 |
 | Changing the World | 12.00% | ~9 |
 | The Golden Flash | 11.00% | ~8 |
-| Through Dangers Untold | 10.00% | ~7 |
-| Locked and Loaded | 10.00% | ~7 |
+| Through Dangers Untold | 9.00% | ~7 |
+| Locked and Loaded | 9.00% | ~7 |
+| Witch | 9.00% | ~7 |
 | Craftsmen | 8.00% | ~6 |
-| Witch | 8.00% | ~6 |
 | Mirror, Mirror on the Wall | 7.00% | ~5 |
 | The A-Team | 7.00% | ~5 |
 | Defeat Ingla | 5.00% | ~4 |
@@ -51,7 +51,7 @@
 | Trailblazer | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 375)  
+Progressed: 74 (Ranked 375)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,6 +105,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 63 | 0 |
 | 2023-09-12 | 66 | 0 |
 | 2023-09-13 | 73 | 0 |
+| 2023-09-14 | 74 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

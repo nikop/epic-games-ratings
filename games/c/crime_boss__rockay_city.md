@@ -1,25 +1,25 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.93 (Ranked 958)  
+Rating: 3.93 (Ranked 959)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 70.00% | ~60,917 |
-| First One’s Free | 61.00% | ~53,085 |
-| Neophyte Ninja | 48.00% | ~41,772 |
-| Too Old for This | 43.00% | ~37,421 |
-| Fancy Pants | 32.00% | ~27,848 |
+| Downed but Not Outed | 70.00% | ~60,919 |
+| First One’s Free | 61.00% | ~53,086 |
+| Neophyte Ninja | 48.00% | ~41,773 |
+| Too Old for This | 43.00% | ~37,422 |
+| Fancy Pants | 32.00% | ~27,849 |
 | Case Closed | 30.00% | ~26,108 |
 | King of the Hill | 30.00% | ~26,108 |
-| Underworld Initiate | 26.00% | ~22,626 |
+| Underworld Initiate | 26.00% | ~22,627 |
 | Roid Ranger | 19.00% | ~16,535 |
-| Off the Rocks | 17.00% | ~14,794 |
+| Off the Rocks | 17.00% | ~14,795 |
 | True Player | 16.00% | ~13,924 |
 | Dragonslayer | 16.00% | ~13,924 |
 | Raider’s Ruin | 15.00% | ~13,054 |
 | Hidden Sonata | 12.00% | ~10,443 |
-| Rockay Rex | 10.00% | ~8,702 |
+| Rockay Rex | 10.00% | ~8,703 |
 | Freebooter | 9.00% | ~7,832 |
 | Track Star | 8.00% | ~6,962 |
 | Headhunter | 8.00% | ~6,962 |
@@ -35,15 +35,15 @@ Rating: 3.93 (Ranked 958)
 | Privateer | 3.00% | ~2,611 |
 | Groundhog Days | 3.00% | ~2,611 |
 | Cracked the Jack | 3.00% | ~2,611 |
-| Rockay Raider | 2.00% | ~1,740 |
-| Moneybags | 2.00% | ~1,740 |
-| Impossible Dreamer | 2.00% | ~1,740 |
+| Rockay Raider | 2.00% | ~1,741 |
+| Moneybags | 2.00% | ~1,741 |
+| Impossible Dreamer | 2.00% | ~1,741 |
 | Rockay Knight | 1.00% | ~870 |
 | Talent Scout | 1.00% | ~870 |
 | Geek Out | 0.50% | ~435 |
 | Full House | 0.20% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,025 (Ranked 76)  
+Progressed: 87,027 (Ranked 76)  
 Completed: 45 (0.05%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,15 +190,15 @@ Completed: 45 (0.05%) (Ranked 238)
 | 2023-09-11 | 86,691 | 44 |
 | 2023-09-12 | 86,879 | 45 |
 | 2023-09-13 | 87,015 | 45 |
-| 2023-09-14 | 87,025 | 45 |
+| 2023-09-14 | 87,027 | 45 |
 ## Awards
 Max (Diverse Characters): 435  (Ranked 209)  
-Sum: 2,055 (Ranked 200)  
+Sum: 2,057 (Ranked 200)  
 Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 435 |
-| This game has Quickly Understood Controls | 418 |
+| This game has Quickly Understood Controls | 420 |
 | This game is Highly Recommended | 409 |
 | This game has Challenging Combat | 398 |
 | This game has Amazing Characters | 395 |
@@ -374,3 +374,4 @@ Diff (max vs sum): 9
 | 2023-09-11 | 3.93 | 429 | 2,036 |
 | 2023-09-12 | 3.93 | 431 | 2,047 |
 | 2023-09-13 | 3.93 | 435 | 2,055 |
+| 2023-09-14 | 3.93 | 435 | 2,057 |

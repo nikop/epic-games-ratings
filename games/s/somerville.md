@@ -8,7 +8,7 @@ Rating: 4.20 (Ranked 866)
 | “Occupied!“ | 0.90% | ~15 |
 | Worlds best dad | 0.90% | ~15 |
 | Resignation Reprise | 0.50% | ~8 |
-| Admiring the view | 0.40% | ~7 |
+| Admiring the view | 0.50% | ~8 |
 | Resignation | 0.30% | ~5 |
 | Blues Jam | 0.20% | ~3 |
 | Family First | 0.20% | ~3 |

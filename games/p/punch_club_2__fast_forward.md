@@ -42,14 +42,14 @@
 | Guiding on the right path | 47.00% | ~152 |
 | No blades in the gym | 46.00% | ~149 |
 | Champion – no way back | 44.00% | ~142 |
+| Deal with life | 42.00% | ~136 |
 | Underground dwellers | 42.00% | ~136 |
 | Responsible approach | 42.00% | ~136 |
-| Deal with life | 41.00% | ~132 |
+| Mom got better | 41.00% | ~132 |
 | GYM professional | 41.00% | ~132 |
 | Get out of my apartment! | 41.00% | ~132 |
-| Mom got better | 40.00% | ~129 |
+| The die is cast | 41.00% | ~132 |
 | Poisoned fighter | 40.00% | ~129 |
-| The die is cast | 40.00% | ~129 |
 | Seashell hunter | 39.00% | ~126 |
 | Gang wrangler | 37.00% | ~120 |
 | Undercover robot | 36.00% | ~116 |
