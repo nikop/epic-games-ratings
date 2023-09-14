@@ -6,7 +6,7 @@
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.11% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.93% |
-| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.53% |
+| 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.60% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -23,8 +23,8 @@
 | 21 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.16% |
 | 22 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 22 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
-| 24 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
-| 25 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 10.94% |
+| 24 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.08% |
+| 25 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 11.00% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
@@ -62,7 +62,7 @@
 | 60 | [ZZT!](games/z/zzt!.md) | 4.14% |
 | 61 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.99% |
 | 62 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.85% |
-| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.82% |
+| 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.81% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 3.45% |
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
@@ -74,7 +74,7 @@
 | 72 | [HordeCore](games/h/hordecore.md) | 3.13% |
 | 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.99% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
-| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.97% |
+| 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.96% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.80% |
 | 78 | [Destiny 2](games/d/destiny_2.md) | 2.73% |
@@ -127,10 +127,10 @@
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 127 | [Hades](games/h/hades.md) | 0.90% |
-| 128 | [Eternights](games/e/eternights.md) | 0.89% |
-| 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.87% |
-| 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.85% |
+| 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.89% |
+| 129 | [Eternights](games/e/eternights.md) | 0.88% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
+| 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.84% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 134 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
