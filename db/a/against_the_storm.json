@@ -4,11 +4,11 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 78,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2772,18 +2772,24 @@
       "Rating": 4.81,
       "NumberOfAwards": 3137,
       "NumberOfAwardsMax": 428
+    },
+    {
+      "Time": "2023-09-14T02:59:13.0669787+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3139,
+      "NumberOfAwardsMax": 430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3137,
-  "NumberOfAwardsMax": 428,
+  "NumberOfAwards": 3139,
+  "NumberOfAwardsMax": 430,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 428
+      "Count": 430
     },
     {
       "Text": "This game is Relaxing",
@@ -10886,9 +10892,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-09-13T14:00:21.2847983+00:00",
-  "LastChanged_Achievements": "2023-09-14T02:23:02.5828391+00:00",
+  "LastChanged": "2023-09-14T02:59:13.0669786+00:00",
+  "LastChanged_Achievements": "2023-09-14T03:06:24.374207+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.2014091+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:15:17.765663+00:00",
-  "LastUpdate_Achievements": "2023-09-14T02:23:02.5829338+00:00"
+  "LastUpdate_Ratings": "2023-09-14T02:59:13.0669792+00:00",
+  "LastUpdate_Achievements": "2023-09-14T03:06:24.3742858+00:00"
 }

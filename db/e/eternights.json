@@ -2,8 +2,8 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_EOS_Progress": 345,
-  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_Progress": 344,
+  "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 103,
+  "EOS_Progressed": 105,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.97,
+  "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
     {
       "Time": "2023-09-08T14:06:31.5856386+00:00",
@@ -216,6 +216,11 @@
       "Time": "2023-09-14T02:18:32.1338435+00:00",
       "NumProgressed": 103,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T03:03:05.6251773+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -226,7 +231,7 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 76,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 78
     },
@@ -260,7 +265,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -290,23 +295,23 @@
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 77,
+      "Percentage": 75,
       "XP": 20,
       "UsersEstimate": 79
     },
@@ -340,7 +345,7 @@
       "Name": "Truebro",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -364,21 +369,21 @@
       "Name": "The First Bond",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 43
     },
@@ -386,7 +391,7 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 44
     },
@@ -394,9 +399,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -412,7 +417,7 @@
       "Name": "Stone Retriever",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -427,14 +432,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 103,
+      "Progressed": 105,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-14T02:18:32.1338429+00:00",
+  "LastChanged_Achievements": "2023-09-14T03:03:05.6251768+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:13:20.5892243+00:00",
-  "LastUpdate_Achievements": "2023-09-14T02:18:32.1338681+00:00"
+  "LastUpdate_Ratings": "2023-09-14T02:57:54.7177433+00:00",
+  "LastUpdate_Achievements": "2023-09-14T03:03:05.6251972+00:00"
 }

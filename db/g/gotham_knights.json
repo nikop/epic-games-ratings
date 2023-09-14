@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2820,10 +2820,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4410,
       "NumberOfAwardsMax": 2657
+    },
+    {
+      "Time": "2023-09-14T02:58:22.1223904+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4413,
+      "NumberOfAwardsMax": 2657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4410,
+  "NumberOfAwards": 4413,
   "NumberOfAwardsMax": 2657,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2855,7 +2861,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 212
+      "Count": 215
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2888,9 +2894,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72506,
+  "EOS_Progressed": 72507,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 765,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15378,6 +15384,11 @@
       "Time": "2023-09-14T02:22:58.6052854+00:00",
       "NumProgressed": 72506,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-14T03:06:21.5529825+00:00",
+      "NumProgressed": 72507,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15437,7 +15448,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16676
+      "UsersEstimate": 16677
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15573,7 +15584,7 @@
       "Name": "Out of Their League",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 5800
+      "UsersEstimate": 5801
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -15701,7 +15712,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18126
+      "UsersEstimate": 18127
     },
     {
       "ID": "HARLEY_3",
@@ -15733,7 +15744,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37703
+      "UsersEstimate": 37704
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15789,7 +15800,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18126
+      "UsersEstimate": 18127
     },
     {
       "ID": "MYSTERY_03",
@@ -15797,7 +15808,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 15951
+      "UsersEstimate": 15952
     },
     {
       "ID": "MYSTERY_04",
@@ -15876,22 +15887,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72506,
+      "Progressed": 72507,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42786,
+      "Progressed": 42787,
       "Completed": 2663
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-09-14T02:14:03.3612189+00:00",
-  "LastChanged_Achievements": "2023-09-14T02:22:58.6052848+00:00",
+  "LastChanged": "2023-09-14T02:58:22.1223902+00:00",
+  "LastChanged_Achievements": "2023-09-14T03:06:21.5529819+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:14:03.3612199+00:00",
-  "LastUpdate_Achievements": "2023-09-14T02:22:58.6054524+00:00"
+  "LastUpdate_Ratings": "2023-09-14T02:58:22.1223908+00:00",
+  "LastUpdate_Achievements": "2023-09-14T03:06:21.5531175+00:00"
 }

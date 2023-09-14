@@ -12,7 +12,7 @@ Rating: 4.58 (Ranked 430)
 | Spore Taste | 22.00% | ~2,317 |
 | Celebrations are in Order | 22.00% | ~2,317 |
 | Doctor Approved | 18.00% | ~1,895 |
-| The Pit and the Pirates | 16.00% | ~1,685 |
+| The Pit and the Pirates | 17.00% | ~1,790 |
 | Drone Dodger | 16.00% | ~1,685 |
 | Thorston Mayer | 13.00% | ~1,369 |
 | Bottoms up! | 10.00% | ~1,053 |

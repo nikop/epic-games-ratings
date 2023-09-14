@@ -49,16 +49,16 @@ Rating: 4.50 (Ranked 565)
 | Therapeutic | 0.10% | ~26 |
 | There you are! | 0.10% | ~26 |
 | Tobin's Prodigy | 0.10% | ~26 |
+| Ultimate Defense | 0.10% | ~26 |
 | Vaporous Expansion | 0.10% | ~26 |
 | Welcome to the Crew | 0.10% | ~26 |
 | Whoopsie | 0.10% | ~26 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
 | Rift Seeker | 0.00% | ~0 |
-| Ultimate Defense | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,787 (Ranked 104)  
-Completed: 55 (0.21%) (Ranked 197)  
+Progressed: 25,788 (Ranked 104)  
+Completed: 56 (0.22%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,6 +204,7 @@ Completed: 55 (0.21%) (Ranked 197)
 | 2023-09-11 | 25,755 | 55 |
 | 2023-09-12 | 25,768 | 55 |
 | 2023-09-13 | 25,787 | 55 |
+| 2023-09-14 | 25,788 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
 Sum: 2,309 (Ranked 188)  

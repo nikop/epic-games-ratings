@@ -6,9 +6,9 @@
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -2124,11 +2124,11 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 25787,
-  "EOS_Completed": 55,
+  "EOS_Progressed": 25788,
+  "EOS_Completed": 56,
   "EOS_NewPlayers": 141,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:46.8023803+00:00",
@@ -12779,6 +12779,11 @@
       "Time": "2023-09-13T23:03:32.0501561+00:00",
       "NumProgressed": 25787,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-14T03:02:30.9615778+00:00",
+      "NumProgressed": 25788,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 51,
@@ -13164,9 +13169,9 @@
       "ID": "Ultimate_Defense",
       "SetID": "819popo",
       "Name": "Ultimate Defense",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "Vaporous_Expansion",
@@ -13197,16 +13202,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 25787,
-      "Completed": 55
+      "Progressed": 25788,
+      "Completed": 56
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-09-14T01:38:33.6411908+00:00",
-  "LastChanged_Achievements": "2023-09-14T02:18:25.0371708+00:00",
+  "LastChanged_Achievements": "2023-09-14T03:02:30.9615771+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:13.6721776+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:13:17.113478+00:00",
-  "LastUpdate_Achievements": "2023-09-14T02:18:25.0373066+00:00"
+  "LastUpdate_Ratings": "2023-09-14T02:57:52.3564609+00:00",
+  "LastUpdate_Achievements": "2023-09-14T03:02:30.9616749+00:00"
 }

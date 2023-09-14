@@ -9436,10 +9436,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 49921,
       "NumberOfAwardsMax": 6064
+    },
+    {
+      "Time": "2023-09-14T03:00:02.996418+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 49936,
+      "NumberOfAwardsMax": 6064
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49921,
+  "NumberOfAwards": 49936,
   "NumberOfAwardsMax": 6064,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -9489,7 +9495,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5576
+      "Count": 5591
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9510,9 +9516,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 402163,
+  "EOS_Progressed": 402178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8215,
+  "EOS_NewPlayers": 8210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25975,6 +25981,11 @@
       "Time": "2023-09-14T02:21:51.6744388+00:00",
       "NumProgressed": 402163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T03:05:35.9426409+00:00",
+      "NumProgressed": 402178,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -26146,7 +26157,7 @@
       "Name": "All That\u0027s Thine Shall Be Mine",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_all_your_trade_are_belong_to_us",
@@ -26418,7 +26429,7 @@
       "Name": "Bright Spark",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_brothers_in_arms",
@@ -26426,7 +26437,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -26658,7 +26669,7 @@
       "Name": "Down Under",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -26714,7 +26725,7 @@
       "Name": "The Emperors new clothes",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -26818,7 +26829,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "achievement_forever_golden",
@@ -26946,7 +26957,7 @@
       "Name": "A Golden Empire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_golden_horn",
@@ -27010,7 +27021,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -27178,7 +27189,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_italian_ambition",
@@ -27482,7 +27493,7 @@
       "Name": "Market Control",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_marshy_march",
@@ -27794,7 +27805,7 @@
       "Name": "Populists in Government",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_prester_john",
@@ -27922,7 +27933,7 @@
       "Name": "Respected",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -27986,7 +27997,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -28330,7 +28341,7 @@
       "Name": "The Five Colonies",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -28594,7 +28605,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     },
     {
       "ID": "achievement_trustworthy",
@@ -28602,7 +28613,7 @@
       "Name": "Trustworthy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "achievement_turkish_delight",
@@ -28817,21 +28828,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 402163,
+      "Progressed": 402178,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 402163,
+      "Progressed": 402178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-14T01:40:52.4281271+00:00",
-  "LastChanged_Achievements": "2023-09-14T02:21:51.6744383+00:00",
+  "LastChanged": "2023-09-14T03:00:02.9964178+00:00",
+  "LastChanged_Achievements": "2023-09-14T03:05:35.9426403+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.6302207+00:00",
-  "LastUpdate_Ratings": "2023-09-14T02:16:33.445226+00:00",
-  "LastUpdate_Achievements": "2023-09-14T02:21:51.6762713+00:00"
+  "LastUpdate_Ratings": "2023-09-14T03:00:02.9964185+00:00",
+  "LastUpdate_Achievements": "2023-09-14T03:05:35.943872+00:00"
 }

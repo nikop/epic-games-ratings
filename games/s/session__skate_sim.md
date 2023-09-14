@@ -48,7 +48,7 @@ Number of Ratings: 111  (23.09.2022)
 | Many plys later... | 2.00% | ~56 |
 | That was wheelie fun | 2.00% | ~56 |
 | Dipped! | 1.00% | ~28 |
-| Skatepark hero | 0.90% | ~25 |
+| Skatepark hero | 1.00% | ~28 |
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 | Bing Bong! | 0.00% | ~0 |

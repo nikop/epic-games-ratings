@@ -10,17 +10,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 3.00% | ~12,065 |
 | That is mine! | 3.00% | ~12,065 |
 | Victorious! | 3.00% | ~12,065 |
-| Brothers in Arms | 2.00% | ~8,043 |
-| For the Glory | 2.00% | ~8,043 |
-| That's a Grand Navy | 2.00% | ~8,043 |
-| Seriously?! | 2.00% | ~8,043 |
+| Brothers in Arms | 2.00% | ~8,044 |
+| For the Glory | 2.00% | ~8,044 |
+| That's a Grand Navy | 2.00% | ~8,044 |
+| Seriously?! | 2.00% | ~8,044 |
 | Cold War | 1.00% | ~4,022 |
 | Defender of the Faith | 1.00% | ~4,022 |
 | It's all about the money | 1.00% | ~4,022 |
 | The Princess is in this Castle | 1.00% | ~4,022 |
 | True Catholic | 1.00% | ~4,022 |
-| Respected | 0.90% | ~3,619 |
-| Truly Divine Ruler | 0.90% | ~3,619 |
+| Respected | 0.90% | ~3,620 |
+| Truly Divine Ruler | 0.90% | ~3,620 |
 | It's all about luck | 0.80% | ~3,217 |
 | Blockader | 0.70% | ~2,815 |
 | Double the Love | 0.70% | ~2,815 |
@@ -35,16 +35,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Gentle Persuasion | 0.40% | ~1,609 |
 | Queen of Conquest | 0.40% | ~1,609 |
 | This navy can take it all | 0.40% | ~1,609 |
-| All That's Thine Shall Be Mine | 0.30% | ~1,206 |
-| Bright Spark | 0.30% | ~1,206 |
-| Down Under | 0.30% | ~1,206 |
-| The Emperors new clothes | 0.30% | ~1,206 |
-| A Golden Empire | 0.30% | ~1,206 |
-| Isn't this the way to India? | 0.30% | ~1,206 |
-| Market Control | 0.30% | ~1,206 |
-| Populists in Government | 0.30% | ~1,206 |
-| The Five Colonies | 0.30% | ~1,206 |
-| Trustworthy | 0.30% | ~1,206 |
+| All That's Thine Shall Be Mine | 0.30% | ~1,207 |
+| Bright Spark | 0.30% | ~1,207 |
+| Down Under | 0.30% | ~1,207 |
+| The Emperors new clothes | 0.30% | ~1,207 |
+| A Golden Empire | 0.30% | ~1,207 |
+| Isn't this the way to India? | 0.30% | ~1,207 |
+| Market Control | 0.30% | ~1,207 |
+| Populists in Government | 0.30% | ~1,207 |
+| The Five Colonies | 0.30% | ~1,207 |
+| Trustworthy | 0.30% | ~1,207 |
 | All belongs to Mother Russia | 0.20% | ~804 |
 | At every continent | 0.20% | ~804 |
 | Electable! | 0.20% | ~804 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402,163 (Ranked 40)  
+Progressed: 402,178 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -508,10 +508,10 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 400,309 | 0 |
 | 2023-09-12 | 401,220 | 0 |
 | 2023-09-13 | 402,102 | 0 |
-| 2023-09-14 | 402,163 | 0 |
+| 2023-09-14 | 402,178 | 0 |
 ## Awards
 Max (Educational): 6,064  (Ranked 56)  
-Sum: 49,921 (Ranked 26)  
+Sum: 49,936 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -520,7 +520,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 5,752 |
 | This game is Extremely Fun | 5,745 |
 | This game has Diverse Characters | 5,737 |
-| This game is Relaxing | 5,576 |
+| This game is Relaxing | 5,591 |
 | This game has Competitive Players | 5,427 |
 | This game has Amazing Storytelling | 5,091 |
 | This game has Amazing Characters | 4,733 |
@@ -768,4 +768,4 @@ Diff (max vs sum): 30
 | 2023-09-11 | 4.69 | - | 6,051 | 49,712 |
 | 2023-09-12 | 4.69 | - | 6,051 | 49,786 |
 | 2023-09-13 | 4.69 | - | 6,064 | 49,909 |
-| 2023-09-14 | 4.69 | - | 6,064 | 49,921 |
+| 2023-09-14 | 4.69 | - | 6,064 | 49,936 |
