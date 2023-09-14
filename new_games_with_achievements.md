@@ -5,12 +5,12 @@
 | [Batora: Lost Haven](games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 2023-09-12 | 30 (1,000 XP) | 1 | - | - |
 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2023-09-12 | 26 (1,000 XP) | 7 | - | 0 |
 | [Backrooms: Realm of Shadows](games/b/b5067143ff63434e9c902de3ffd197f6.md) | 2023-09-12 | 24 (1,000 XP) | 17 | - | - |
-| [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 110 | - | 0 |
+| [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 111 | - | 0 |
 | [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-10 | 14 (1,000 XP) | 318 | - | 0 |
-| [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 2023-09-08 | 50 (1,000 XP) | 79 | - | 0 |
-| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 35 (1,000 XP) | 2,429 | - | 0 |
+| [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 2023-09-08 | 50 (1,000 XP) | 80 | - | 0 |
+| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 35 (1,000 XP) | 2,432 | - | 0 |
 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 2023-09-08 | 24 (1,000 XP) | 1 | - | 0 |
-| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 40,402 | 4.09 | 0 |
+| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 40,492 | 4.09 | 0 |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | 21 (1,000 XP) | 1 | - | - |
 | [Sword and Fairy Inn 2](games/5/511787884bc344e080cf5ae502e8092d.md) | 2023-09-06 | 50 (1,000 XP) | 0 | - | 0 |
 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 2023-09-06 | 11 (1,000 XP) | 2 | - | - |
@@ -31,15 +31,15 @@
 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2023-08-29 | 46 (1,000 XP) | 12 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 779 | 4.86 | 0 |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 4 | - | - |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 283,467 | 4.40 | 0 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 283,498 | 4.40 | 0 |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
-| [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 762 | - | 0 |
+| [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 764 | - | 0 |
 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2023-08-23 | 14 (1,000 XP) | 75 | - | 0 |
 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2023-08-22 | 22 (1,000 XP) | 3 | - | - |
 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | 20 (1,000 XP) | 608 | - | 0 |
 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 2023-08-22 | 43 (1,000 XP) | 0 | - | 0 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 2 | - | 0 |
-| [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 601 | - | 0 |
+| [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 602 | - | 0 |
 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2023-08-17 | 26 (1,000 XP) | 639 | 4.69 | 0 |
 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2023-08-17 | 68 (1,000 XP) | 48 | - | 0 |
 | [Marble It Up! Ultra](games/2/267b56359a8c45ee9154861187de210b.md) | 2023-08-17 | 86 (1,000 XP) | 27 | - | 0 |

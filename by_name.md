@@ -637,7 +637,7 @@
 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 896 | 0 | 517 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 533 | 32,399 | 15 |
 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 24 | 284 | 243 |
-| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 501 | 6,027 | 57 |
+| [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 501 | 6,038 | 57 |
 | [Dead Space](games/d/dead_space.md) | 4.61 | 368 | 92 | 352 |
 | [Deadlink](games/9/9a7a940d35ba4f8c912064ca4a9660d9.md) | - | - | 0 | - |
 | [Deadly Flight](games/d/deadly_flight.md) | - | - | - | - |
@@ -679,6 +679,7 @@
 | [Descent II](games/d/descent_ii.md) | - | - | 0 | - |
 | [Desert Child](games/d/desert_child.md) | - | - | 0 | - |
 | [Desert Law](games/a/a1c3859f738641ec9d1a39d6eedbe7ea.md) | - | - | - | - |
+| [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | - | - | - | - |
 | [Despelote](games/e/ebe9c4222dc7428b955c31dc8131616d.md) | - | - | - | - |
 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 51 | 47 | 411 |
 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 565 | 0 | 517 |
@@ -2617,7 +2618,7 @@
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | - | - | 0 | - |
 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 259 | 616 | 181 |
 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.68 | 242 | 0 | 517 |
-| [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | - | - | - | - |
+| [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | - | - | 0 | - |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | - | - | - | - |
 | [The Crows Eye](games/t/the_crows_eye.md) | - | - | 0 | - |
 | [The Crust](games/t/the_crust.md) | - | - | - | - |
@@ -2970,8 +2971,8 @@
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | - | - | - | - |
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
 | [Under a Rock](games/f/f1838ea95ba442d98b3da503ae5a5a33.md) | - | - | - | - |
-| [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | - | - | 0 | - |
 | [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
+| [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | - | - | 0 | - |
 | [Undergrave](games/u/undergrave.md) | - | - | 0 | - |
 | [Underworld Defense](games/2/229da97a621d443dafe527f874375f3b.md) | - | - | - | - |
 | [Underworld Island](games/d/d05e90a9253049559214ac77fb4699e6.md) | - | - | - | - |

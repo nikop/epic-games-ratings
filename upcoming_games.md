@@ -1,7 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 2023-09-14 | - |  | - | - |
-| [Vacation Adventures Park Ranger 15](games/e/e40d04b9feb84c97ace80efde624b490.md) | 2023-09-14 | - |  | - | - |
+| [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 2023-09-14 | - |  | - | - |
 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2023-09-14 | - |  | - | - |
 | [CATAIRE](games/b/be657c5da1ad4bb48cb458c8db67b45e.md) | 2023-09-14 | - |  | - | - |
 | [Homeseek](games/4/4d38b523f0ef409d9cc79af313643ec9.md) | 2023-09-14 | 54 (1,000 XP) | 0 | - | - |
@@ -138,6 +137,7 @@
 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2023-12-31 | - |  | - | - |
 | [Cthulhu: Books of Ancients](games/c/cthulhu__books_of_ancients.md) | 2023-12-31 | - |  | - | - |
 | [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2023-12-31 | - |  | - | - |
+| [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-12-31 | - |  | - | - |
 | [Dreamsettler](games/d/dreamsettler.md) | 2023-12-31 | - |  | - | - |
 | [Dungeon Of Dragon Knight](games/d/dungeon_of_dragon_knight.md) | 2023-12-31 | - |  | - | - |
 | [ElectriX](games/e/electrix.md) | 2023-12-31 | - |  | - | - |
@@ -443,7 +443,6 @@
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.74 | 0 |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | - |  | - | - |
 | [The Precinct](games/2/2d1432c62a8c49ab80feaefa176a9671.md) | 2099-01-01 | - |  | - | - |
-| [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 2099-01-01 | - |  | - | - |
 | [THE SILENT CITY CHAPTER TWO](games/1/15863494f4ef46d481aae0759ec24eb1.md) | 2099-01-01 | - |  | - | - |
 | [The Spirit of the Samurai](games/7/7e23872d64c54cb08e988a697bd03839.md) | 2099-01-01 | - |  | - | - |
 | [The Thaumaturge](games/t/the_thaumaturge.md) | 2099-01-01 | - |  | - | - |

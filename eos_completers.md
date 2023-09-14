@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.27% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.11% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.93% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 25.81% |
@@ -16,7 +16,7 @@
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17.86% |
 | 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
-| 17 | [Island Cities](games/i/island_cities.md) | 14.96% |
+| 17 | [Island Cities](games/i/island_cities.md) | 14.92% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Remains](games/r/remains.md) | 12.50% |
@@ -72,7 +72,7 @@
 | 70 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 71 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.13% |
-| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.00% |
+| 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2.99% |
 | 74 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
 | 75 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.97% |
 | 76 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -126,8 +126,8 @@
 | 124 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
-| 127 | [Eternights](games/e/eternights.md) | 0.91% |
-| 128 | [Hades](games/h/hades.md) | 0.90% |
+| 127 | [Eternights](games/e/eternights.md) | 0.90% |
+| 127 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.87% |
 | 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.85% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
@@ -592,4 +592,4 @@
 | 274 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 274 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 274 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,234 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,235 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

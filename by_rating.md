@@ -502,7 +502,7 @@
 | 484 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,268 | 134 |
 | 501 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
 | 501 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,430 | 128 |
-| 501 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,027 | 57 |
+| 501 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,038 | 57 |
 | 501 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |
 | 501 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
 | 501 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,356 | 130 |

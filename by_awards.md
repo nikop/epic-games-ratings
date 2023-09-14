@@ -56,7 +56,7 @@
 | 54 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,443 | 4.80 | 83 |
 | 55 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,362 | 4.58 | 430 |
 | 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,076 | 4.69 | 216 |
-| 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,027 | 4.54 | 501 |
+| 57 | [Dead Island 2](games/d/dead_island_2.md) | 6,038 | 4.54 | 501 |
 | 58 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,000 | 4.79 | 88 |
 | 59 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,968 | 4.64 | 314 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,931 | 4.75 | 136 |
