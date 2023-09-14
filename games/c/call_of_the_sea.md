@@ -28,8 +28,8 @@ Rating: 4.39 (Ranked 720)
 | I'll make a note of that... | 9.00% | ~10,719 |
 | The Norahnomicon | 9.00% | ~10,719 |
 | Play it again, Norah | 7.00% | ~8,337 |
+| Underwater Royalty | 7.00% | ~8,337 |
 | Written in Stone | 6.00% | ~7,146 |
-| Underwater Royalty | 6.00% | ~7,146 |
 | Fawning Developers | 5.00% | ~5,955 |
 | The Amazing Adventures of Norah Everhart | 4.00% | ~4,764 |
 | Candid Photo | 4.00% | ~4,764 |

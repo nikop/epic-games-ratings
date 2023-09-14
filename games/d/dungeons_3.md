@@ -6,9 +6,9 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~20,906 |
-| The Evilest Evil | 58.00% | ~17,573 |
-| Twistram is devastated | 57.00% | ~17,270 |
+| The Shadow strikes | 69.00% | ~20,907 |
+| The Evilest Evil | 58.00% | ~17,574 |
+| Twistram is devastated | 57.00% | ~17,271 |
 | The Gehenna Stones | 49.00% | ~14,847 |
 | No one has to die today! | 46.00% | ~13,938 |
 | Death and destruction! | 45.00% | ~13,635 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~606 |
 | Sacrifices! | 2.00% | ~606 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,299 (Ranked 102)  
+Progressed: 30,300 (Ranked 102)  
 Completed: 249 (0.82%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 249 (0.82%) (Ranked 132)
 | 2023-09-11 | 30,140 | 245 |
 | 2023-09-12 | 30,221 | 249 |
 | 2023-09-13 | 30,282 | 249 |
-| 2023-09-14 | 30,299 | 249 |
+| 2023-09-14 | 30,300 | 249 |
 ## Awards
 Max (Great for Beginners): 345  (Ranked 228)  
 Sum: 2,635 (Ranked 175)  

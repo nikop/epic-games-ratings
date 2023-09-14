@@ -1275,9 +1275,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23850,
+  "EOS_Progressed": 23851,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -16990,6 +16990,11 @@
       "Time": "2023-09-14T05:04:12.4109211+00:00",
       "NumProgressed": 23850,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-14T07:04:13.6569127+00:00",
+      "NumProgressed": 23851,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -17001,7 +17006,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "1016",
@@ -17041,7 +17046,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "1021",
@@ -17097,7 +17102,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2147
     },
     {
       "ID": "1028",
@@ -17161,7 +17166,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "1036",
@@ -17176,15 +17181,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23850,
+      "Progressed": 23851,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:04:09.7509923+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:04:13.6569124+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.8845824+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:00:41.9575134+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:04:09.7511591+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:00:11.5612594+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:04:13.6570214+00:00"
 }

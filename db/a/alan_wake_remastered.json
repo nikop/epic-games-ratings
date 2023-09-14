@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65180,
+  "EOS_Progressed": 65181,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2474,
+  "EOS_NewPlayers": 2461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14587,6 +14587,11 @@
       "Time": "2023-09-14T06:08:13.9444631+00:00",
       "NumProgressed": 65180,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-14T07:07:41.6737421+00:00",
+      "NumProgressed": 65181,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -14638,7 +14643,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11732
+      "UsersEstimate": 11733
     },
     {
       "ID": "07",
@@ -14646,7 +14651,7 @@
       "Name": "Heavy Metal",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8473
+      "UsersEstimate": 8474
     },
     {
       "ID": "08",
@@ -14654,7 +14659,7 @@
       "Name": "Iron Horse",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8473
+      "UsersEstimate": 8474
     },
     {
       "ID": "09",
@@ -14806,7 +14811,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8473
+      "UsersEstimate": 8474
     },
     {
       "ID": "28",
@@ -14814,7 +14819,7 @@
       "Name": "Come One, Come All",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8473
+      "UsersEstimate": 8474
     },
     {
       "ID": "29",
@@ -14870,7 +14875,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21509
+      "UsersEstimate": 21510
     },
     {
       "ID": "36",
@@ -14934,7 +14939,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11732
+      "UsersEstimate": 11733
     },
     {
       "ID": "44",
@@ -15133,21 +15138,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65180,
+      "Progressed": 65181,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 28648,
+      "Progressed": 28649,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:08:13.9444625+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:07:41.6737415+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:15.1520424+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:02:20.2778705+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:08:13.9447451+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:01:32.9485352+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:07:41.673903+00:00"
 }

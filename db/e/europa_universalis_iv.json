@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -9442,11 +9442,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 49936,
       "NumberOfAwardsMax": 6064
+    },
+    {
+      "Time": "2023-09-14T07:01:14.0250974+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 49948,
+      "NumberOfAwardsMax": 6076
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49936,
-  "NumberOfAwardsMax": 6064,
+  "NumberOfAwards": 49948,
+  "NumberOfAwardsMax": 6076,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -9477,7 +9483,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6064
+      "Count": 6076
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9516,9 +9522,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 402220,
+  "EOS_Progressed": 402243,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8182,
+  "EOS_NewPlayers": 8170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26001,6 +26007,11 @@
       "Time": "2023-09-14T06:07:16.1096789+00:00",
       "NumProgressed": 402220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T07:06:52.5183393+00:00",
+      "NumProgressed": 402243,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -26452,7 +26463,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8044
+      "UsersEstimate": 8045
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -26844,7 +26855,7 @@
       "Name": "For the Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8044
+      "UsersEstimate": 8045
     },
     {
       "ID": "achievement_forever_golden",
@@ -27036,7 +27047,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8044
+      "UsersEstimate": 8045
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -28012,7 +28023,7 @@
       "Name": "Seriously?!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8044
+      "UsersEstimate": 8045
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -28676,7 +28687,7 @@
       "Name": "Until death do us apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16089
+      "UsersEstimate": 16090
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -28843,21 +28854,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 402220,
+      "Progressed": 402243,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 402220,
+      "Progressed": 402243,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-09-14T03:00:02.9964178+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:07:16.1096783+00:00",
+  "LastChanged": "2023-09-14T07:01:14.0250973+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:06:52.5183388+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.6302207+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:01:56.6245216+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:07:16.1113368+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:01:14.0250979+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:06:52.5197302+00:00"
 }

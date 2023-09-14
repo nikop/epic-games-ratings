@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,218 |
-| A thief's beginning | 10.00% | ~20,198 |
-| Thorough | 10.00% | ~20,198 |
+| Genin | 11.00% | ~22,219 |
+| A thief's beginning | 10.00% | ~20,199 |
+| Thorough | 10.00% | ~20,199 |
 | Disguised | 8.00% | ~16,159 |
 | Rescue Takuma | 8.00% | ~16,159 |
 | Rollin' | 8.00% | ~16,159 |
@@ -22,12 +22,12 @@ Number of Ratings: 495  (23.09.2022)
 | Happy Planning | 6.00% | ~12,119 |
 | Mugen Unchained | 6.00% | ~12,119 |
 | Warzone | 6.00% | ~12,119 |
-| Okkoto | 5.00% | ~10,099 |
-| Prisoners | 5.00% | ~10,099 |
-| Too Early | 5.00% | ~10,099 |
-| Gear up | 4.00% | ~8,079 |
-| Happy little accidents | 4.00% | ~8,079 |
-| Still Rollin' | 4.00% | ~8,079 |
+| Okkoto | 5.00% | ~10,100 |
+| Prisoners | 5.00% | ~10,100 |
+| Too Early | 5.00% | ~10,100 |
+| Gear up | 4.00% | ~8,080 |
+| Happy little accidents | 4.00% | ~8,080 |
+| Still Rollin' | 4.00% | ~8,080 |
 | Noboru | 3.00% | ~6,060 |
 | Stoned | 3.00% | ~6,060 |
 | The Old Way | 3.00% | ~6,060 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201,984 (Ranked 61)  
+Progressed: 201,990 (Ranked 61)  
 Completed: 79 (0.04%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 79 (0.04%) (Ranked 242)
 | 2023-09-11 | 201,603 | 77 |
 | 2023-09-12 | 201,788 | 79 |
 | 2023-09-13 | 201,952 | 79 |
-| 2023-09-14 | 201,984 | 79 |
+| 2023-09-14 | 201,990 | 79 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
 Sum: 4,752 (Ranked 136)  

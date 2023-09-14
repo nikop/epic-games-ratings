@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~43,813 |
-| Zealous | 4.00% | ~35,051 |
-| Skillful | 4.00% | ~35,051 |
-| Handyman | 3.00% | ~26,288 |
-| Not half bad | 3.00% | ~26,288 |
-| Apt Survivor | 3.00% | ~26,288 |
-| Survival Treasures | 3.00% | ~26,288 |
-| Sorted | 3.00% | ~26,288 |
-| Make Some Noise | 3.00% | ~26,288 |
-| The Grand Sacrifice | 2.00% | ~17,525 |
-| Agonizing Escape | 2.00% | ~17,525 |
-| Backdoor Escape | 2.00% | ~17,525 |
-| I've got your back | 2.00% | ~17,525 |
-| No one left behind | 2.00% | ~17,525 |
-| Medic | 2.00% | ~17,525 |
-| Nerves of steel | 2.00% | ~17,525 |
-| Perfect Escape | 2.00% | ~17,525 |
-| Perfect Killing | 2.00% | ~17,525 |
-| Bloody Millionaire | 2.00% | ~17,525 |
-| Apt Killer | 2.00% | ~17,525 |
-| Risk it all | 2.00% | ~17,525 |
-| I | 2.00% | ~17,525 |
-| Engineer | 2.00% | ~17,525 |
-| Healthy Obsession | 2.00% | ~17,525 |
-| Resurgence | 2.00% | ~17,525 |
-| Close Shave | 2.00% | ~17,525 |
-| Preemptive Strike | 2.00% | ~17,525 |
-| Humanitarian | 2.00% | ~17,525 |
-| MU/TH/UR Dearest | 2.00% | ~17,525 |
+| It wakes | 5.00% | ~43,815 |
+| Zealous | 4.00% | ~35,052 |
+| Skillful | 4.00% | ~35,052 |
+| Handyman | 3.00% | ~26,289 |
+| Not half bad | 3.00% | ~26,289 |
+| Apt Survivor | 3.00% | ~26,289 |
+| Survival Treasures | 3.00% | ~26,289 |
+| Sorted | 3.00% | ~26,289 |
+| Make Some Noise | 3.00% | ~26,289 |
+| The Grand Sacrifice | 2.00% | ~17,526 |
+| Agonizing Escape | 2.00% | ~17,526 |
+| Backdoor Escape | 2.00% | ~17,526 |
+| I've got your back | 2.00% | ~17,526 |
+| No one left behind | 2.00% | ~17,526 |
+| Medic | 2.00% | ~17,526 |
+| Nerves of steel | 2.00% | ~17,526 |
+| Perfect Escape | 2.00% | ~17,526 |
+| Perfect Killing | 2.00% | ~17,526 |
+| Bloody Millionaire | 2.00% | ~17,526 |
+| Apt Killer | 2.00% | ~17,526 |
+| Risk it all | 2.00% | ~17,526 |
+| I | 2.00% | ~17,526 |
+| Engineer | 2.00% | ~17,526 |
+| Healthy Obsession | 2.00% | ~17,526 |
+| Resurgence | 2.00% | ~17,526 |
+| Close Shave | 2.00% | ~17,526 |
+| Preemptive Strike | 2.00% | ~17,526 |
+| Humanitarian | 2.00% | ~17,526 |
+| MU/TH/UR Dearest | 2.00% | ~17,526 |
 | Blood on your hands | 1.00% | ~8,763 |
 | Vulture | 1.00% | ~8,763 |
 | II | 1.00% | ~8,763 |
@@ -51,20 +51,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | Lifting The Fog | 1.00% | ~8,763 |
 | Second Act | 1.00% | ~8,763 |
 | Terror of LV-426 | 1.00% | ~8,763 |
-| Made it out alive! | 0.90% | ~7,886 |
-| Gifts for the Fog | 0.90% | ~7,886 |
-| III-50 | 0.90% | ~7,886 |
-| All Aboard | 0.90% | ~7,886 |
-| Item of Obsession | 0.90% | ~7,886 |
-| House of Pain | 0.90% | ~7,886 |
-| Near-Death Experience | 0.90% | ~7,886 |
-| Unforgettable Getaway | 0.90% | ~7,886 |
-| Cutting Out | 0.90% | ~7,886 |
-| Operation: Survival | 0.90% | ~7,886 |
-| Old West Oasis | 0.90% | ~7,886 |
-| Classy Act | 0.90% | ~7,886 |
-| Chorus of Chaos | 0.90% | ~7,886 |
-| One More Step | 0.90% | ~7,886 |
+| Made it out alive! | 0.90% | ~7,887 |
+| Gifts for the Fog | 0.90% | ~7,887 |
+| III-50 | 0.90% | ~7,887 |
+| All Aboard | 0.90% | ~7,887 |
+| Item of Obsession | 0.90% | ~7,887 |
+| House of Pain | 0.90% | ~7,887 |
+| Near-Death Experience | 0.90% | ~7,887 |
+| Unforgettable Getaway | 0.90% | ~7,887 |
+| Cutting Out | 0.90% | ~7,887 |
+| Operation: Survival | 0.90% | ~7,887 |
+| Old West Oasis | 0.90% | ~7,887 |
+| Classy Act | 0.90% | ~7,887 |
+| Chorus of Chaos | 0.90% | ~7,887 |
+| One More Step | 0.90% | ~7,887 |
 | Escape Artist | 0.80% | ~7,010 |
 | Shock Therapy | 0.80% | ~7,010 |
 | Campbell's Chapel Legacy | 0.80% | ~7,010 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~876 |
 | Adept Ripley | 0.10% | ~876 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,268 (Ranked 14)  
+Progressed: 876,298 (Ranked 14)  
 Completed: 48 (0.01%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 48 (0.01%) (Ranked 260)
 | 2023-09-11 | 870,909 | 48 |
 | 2023-09-12 | 873,422 | 48 |
 | 2023-09-13 | 875,770 | 48 |
-| 2023-09-14 | 876,268 | 48 |
+| 2023-09-14 | 876,298 | 48 |
 ## Awards
 Max (Diverse Characters): 32,399  (Ranked 15)  
 Sum: 253,173 (Ranked 11)  

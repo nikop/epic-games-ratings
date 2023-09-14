@@ -11855,9 +11855,9 @@
       "Count": 5915
     }
   ],
-  "EOS_Progressed": 876068,
+  "EOS_Progressed": 876069,
   "EOS_Completed": 2084,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1117,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -28240,6 +28240,11 @@
       "Time": "2023-09-14T06:08:00.2249985+00:00",
       "NumProgressed": 876068,
       "NumCompleted": 2084
+    },
+    {
+      "Time": "2023-09-14T07:07:29.9165071+00:00",
+      "NumProgressed": 876069,
+      "NumCompleted": 2084
     }
   ],
   "TotalAchievements": 44,
@@ -28283,7 +28288,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 350427
+      "UsersEstimate": 350428
     },
     {
       "ID": "FollowingTheRiver",
@@ -28395,7 +28400,7 @@
       "Name": "Breathtaking",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 70085
+      "UsersEstimate": 70086
     },
     {
       "ID": "NoMansLand",
@@ -28467,7 +28472,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 604487
+      "UsersEstimate": 604488
     },
     {
       "ID": "TheHermit",
@@ -28602,21 +28607,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 876068,
+      "Progressed": 876069,
       "Completed": 2084
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 4691,
-      "Completed": 4691
+      "Progressed": 4692,
+      "Completed": 4692
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-13T22:57:15.0582752+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:08:00.2249978+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:07:29.9165067+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.297656+00:00",
-  "LastUpdate_Ratings": "2023-09-14T05:57:18.2723199+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:08:00.2252555+00:00"
+  "LastUpdate_Ratings": "2023-09-14T06:57:15.7493902+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:07:29.916641+00:00"
 }

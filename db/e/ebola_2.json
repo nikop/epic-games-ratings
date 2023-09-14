@@ -2,10 +2,10 @@
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1076,6 +1076,11 @@
       "Time": "2023-09-12T15:04:43.0248949+00:00",
       "NumProgressed": 276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T07:05:27.7517964+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1173,9 +1178,9 @@
       "ID": "achIce",
       "SetID": "1al1mjg",
       "Name": "Recluse \u2714",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "achMeat",
@@ -1230,14 +1235,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:05:36.618912+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:05:27.7517958+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.0737493+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:01:47.6031579+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:05:36.6189462+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:01:06.6553905+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:05:27.7518154+00:00"
 }

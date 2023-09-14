@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -85,10 +85,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1635,
-  "EOS_Completed": 27,
+  "EOS_Completed": 28,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.65,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:11.8533699+00:00",
@@ -584,6 +584,11 @@
       "Time": "2023-09-11T23:05:59.9421777+00:00",
       "NumProgressed": 1635,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-09-14T07:07:37.329976+00:00",
+      "NumProgressed": 1635,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 11,
@@ -609,9 +614,9 @@
       "ID": "SomervilleFraternizingWithEnemy",
       "SetID": "3mk3nll",
       "Name": "First contact",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "SomervilleHereBoy",
@@ -625,9 +630,9 @@
       "ID": "SomervilleResignation",
       "SetID": "3mk3nll",
       "Name": "Resignation",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "SomervilleResignationReprise",
@@ -683,15 +688,15 @@
       "ID": "3mk3nll",
       "IsBase": true,
       "Progressed": 1635,
-      "Completed": 27
+      "Completed": 28
     }
   ],
   "FirstSeen": "2022-11-15T21:57:56.5143092+00:00",
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:08:08.9313883+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:07:37.3299751+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:11.48555+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:02:03.6819855+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:08:08.9314076+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:01:20.0187038+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:07:37.3299878+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.27 (Ranked 820)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,804 |
-| Copacetic Coordination | 16.00% | ~54,888 |
-| Fronting the Money | 15.00% | ~51,458 |
-| The Dawn of Automation | 14.00% | ~48,027 |
-| Extraordinary Logistics | 14.00% | ~48,027 |
+| Corner Clout | 46.00% | ~157,806 |
+| Copacetic Coordination | 16.00% | ~54,889 |
+| Fronting the Money | 15.00% | ~51,459 |
+| The Dawn of Automation | 14.00% | ~48,028 |
+| Extraordinary Logistics | 14.00% | ~48,028 |
 | Dirty Money | 13.00% | ~44,597 |
 | Family First | 13.00% | ~44,597 |
-| Cleaning House | 12.00% | ~41,166 |
-| Room in the Back | 12.00% | ~41,166 |
+| Cleaning House | 12.00% | ~41,167 |
+| Room in the Back | 12.00% | ~41,167 |
 | Beating the Heat | 11.00% | ~37,736 |
 | Booze Baron | 11.00% | ~37,736 |
-| Friends on the Force | 10.00% | ~34,305 |
-| Neighborhood Watch | 10.00% | ~34,305 |
-| Core Corps | 8.00% | ~27,444 |
-| Sizeable Stash | 8.00% | ~27,444 |
+| Friends on the Force | 10.00% | ~34,306 |
+| Neighborhood Watch | 10.00% | ~34,306 |
+| Core Corps | 8.00% | ~27,445 |
+| Sizeable Stash | 8.00% | ~27,445 |
 | Street Fighter | 7.00% | ~24,014 |
 | Friendly Gestures | 7.00% | ~24,014 |
 | People Person | 7.00% | ~24,014 |
@@ -59,8 +59,8 @@ Rating: 4.27 (Ranked 820)
 | Full House | 1.00% | ~3,431 |
 | The Rubber Meets the Road | 1.00% | ~3,431 |
 | Cat’s Meow Clubs | 1.00% | ~3,431 |
-| Determined Deliveries | 0.90% | ~3,087 |
-| Stepping It Up | 0.90% | ~3,087 |
+| Determined Deliveries | 0.90% | ~3,088 |
+| Stepping It Up | 0.90% | ~3,088 |
 | Boots in the Ground | 0.80% | ~2,744 |
 | Getting Fancy | 0.80% | ~2,744 |
 | Crossing Over | 0.80% | ~2,744 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 820)
 | High Pillow | 0.10% | ~343 |
 | Station Master | 0.10% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343,053 (Ranked 42)  
+Progressed: 343,057 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 7 (0.00%) (Ranked 274)
 | 2023-09-11 | 342,759 | 7 |
 | 2023-09-12 | 342,906 | 7 |
 | 2023-09-13 | 343,029 | 7 |
-| 2023-09-14 | 343,053 | 7 |
+| 2023-09-14 | 343,057 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 435)  
 Sum: 193 (Ranked 377)  

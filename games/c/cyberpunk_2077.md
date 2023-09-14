@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,487 |
-| Right Back At Ya | 40.00% | ~350,427 |
+| The Fool | 69.00% | ~604,488 |
+| Right Back At Ya | 40.00% | ~350,428 |
 | The Lovers | 35.00% | ~306,624 |
 | Stanislavski's Method | 29.00% | ~254,060 |
 | The Wheel of Fortune | 28.00% | ~245,299 |
@@ -30,7 +30,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 10.00% | ~87,607 |
 | The Quick and the Dead | 10.00% | ~87,607 |
 | Ten out of Ten | 9.00% | ~78,846 |
-| Breathtaking | 8.00% | ~70,085 |
+| Breathtaking | 8.00% | ~70,086 |
 | To Bad Decisions! | 7.00% | ~61,325 |
 | The Star | 7.00% | ~61,325 |
 | The Sun | 7.00% | ~61,325 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,761 |
 | Rough Landing | 0.50% | ~4,380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,068 (Ranked 15)  
+Progressed: 876,069 (Ranked 15)  
 Completed: 2,084 (0.24%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 2,084 (0.24%) (Ranked 190)
 | 2023-09-11 | 875,775 | 2,079 |
 | 2023-09-12 | 875,908 | 2,083 |
 | 2023-09-13 | 876,046 | 2,084 |
-| 2023-09-14 | 876,068 | 2,084 |
+| 2023-09-14 | 876,069 | 2,084 |
 ## Awards
 Max (Character Customization): 78,437  (Ranked 9)  
 Sum: 209,705 (Ranked 13)  

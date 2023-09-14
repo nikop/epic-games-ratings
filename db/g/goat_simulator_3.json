@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3692,10 +3692,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3373,
       "NumberOfAwardsMax": 395
+    },
+    {
+      "Time": "2023-09-14T07:00:06.2316062+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3375,
+      "NumberOfAwardsMax": 395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3373,
+  "NumberOfAwards": 3375,
   "NumberOfAwardsMax": 395,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3751,7 +3757,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 322
+      "Count": 324
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3766,9 +3772,9 @@
       "Count": 283
     }
   ],
-  "EOS_Progressed": 243683,
+  "EOS_Progressed": 243684,
   "EOS_Completed": 828,
-  "EOS_NewPlayers": 815,
+  "EOS_NewPlayers": 816,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -19686,6 +19692,11 @@
       "Time": "2023-09-14T06:07:51.3642402+00:00",
       "NumProgressed": 243683,
       "NumCompleted": 828
+    },
+    {
+      "Time": "2023-09-14T07:07:22.367943+00:00",
+      "NumProgressed": 243684,
+      "NumCompleted": 828
     }
   ],
   "TotalAchievements": 39,
@@ -19729,7 +19740,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 65794
+      "UsersEstimate": 65795
     },
     {
       "ID": "AchievementBigFootID",
@@ -19785,7 +19796,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 68231
+      "UsersEstimate": 68232
     },
     {
       "ID": "AchievementEggID",
@@ -19809,7 +19820,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80415
+      "UsersEstimate": 80416
     },
     {
       "ID": "AchievementGoatID",
@@ -19825,7 +19836,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129152
+      "UsersEstimate": 129153
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -19841,7 +19852,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 36552
+      "UsersEstimate": 36553
     },
     {
       "ID": "AchievementInstinctID",
@@ -19857,7 +19868,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 109657
+      "UsersEstimate": 109658
     },
     {
       "ID": "AchievementIntroID",
@@ -19865,7 +19876,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 138899
+      "UsersEstimate": 138900
     },
     {
       "ID": "AchievementLootBoxID",
@@ -19929,7 +19940,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 180325
+      "UsersEstimate": 180326
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -19993,7 +20004,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158394
+      "UsersEstimate": 158395
     },
     {
       "ID": "AchievementWhaleID",
@@ -20001,23 +20012,23 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 65794
+      "UsersEstimate": 65795
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 243683,
+      "Progressed": 243684,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-09-14T00:00:14.0018172+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:07:51.3642394+00:00",
+  "LastChanged": "2023-09-14T07:00:06.2316061+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:07:22.367942+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.4582419+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:00:35.6862519+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:07:51.3644677+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:00:06.2316066+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:07:22.3680696+00:00"
 }

@@ -398,10 +398,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20010,
+  "EOS_Progressed": 20011,
   "EOS_Completed": 397,
-  "EOS_NewPlayers": 457,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 455,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
     {
@@ -16098,6 +16098,11 @@
       "Time": "2023-09-14T05:06:52.134673+00:00",
       "NumProgressed": 20010,
       "NumCompleted": 397
+    },
+    {
+      "Time": "2023-09-14T07:06:33.6194095+00:00",
+      "NumProgressed": 20011,
+      "NumCompleted": 397
     }
   ],
   "TotalAchievements": 20,
@@ -16125,7 +16130,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2801
+      "UsersEstimate": 2802
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -16181,7 +16186,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -16268,15 +16273,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20010,
+      "Progressed": 20011,
       "Completed": 397
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:06:54.4132022+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:06:33.619409+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-14T05:59:19.2967649+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:06:54.4133986+00:00"
+  "LastUpdate_Ratings": "2023-09-14T06:59:03.2709999+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:06:33.6195318+00:00"
 }

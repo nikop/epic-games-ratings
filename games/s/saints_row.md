@@ -6,61 +6,61 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 45.00% | ~31,161 |
-| To The Nines | 41.00% | ~28,391 |
-| Optimized | 36.00% | ~24,929 |
-| Performance Review | 35.00% | ~24,236 |
-| Making a Name | 33.00% | ~22,851 |
-| Tune Up | 32.00% | ~22,159 |
-| Wet Work | 31.00% | ~21,466 |
-| Landlord | 31.00% | ~21,466 |
-| The Side Job | 30.00% | ~20,774 |
-| Wrecking Ball | 27.00% | ~18,696 |
-| Food for Thought | 26.00% | ~18,004 |
-| Finders Keepers | 25.00% | ~17,312 |
-| A Young Empire | 25.00% | ~17,312 |
-| Work Ethic | 23.00% | ~15,927 |
-| Picking Fights | 19.00% | ~13,157 |
-| Quality Time | 18.00% | ~12,464 |
-| Power Players | 18.00% | ~12,464 |
-| Showdown | 16.00% | ~11,079 |
-| Et tu? | 16.00% | ~11,079 |
-| Took It to The Limit | 16.00% | ~11,079 |
-| Kitted Out | 14.00% | ~9,694 |
+| First F#@!ing Day | 45.00% | ~31,164 |
+| To The Nines | 41.00% | ~28,394 |
+| Optimized | 36.00% | ~24,931 |
+| Performance Review | 35.00% | ~24,239 |
+| Making a Name | 33.00% | ~22,854 |
+| Tune Up | 32.00% | ~22,161 |
+| Wet Work | 31.00% | ~21,469 |
+| Landlord | 31.00% | ~21,469 |
+| The Side Job | 30.00% | ~20,776 |
+| Wrecking Ball | 27.00% | ~18,699 |
+| Food for Thought | 26.00% | ~18,006 |
+| Finders Keepers | 25.00% | ~17,314 |
+| A Young Empire | 25.00% | ~17,314 |
+| Work Ethic | 23.00% | ~15,928 |
+| Picking Fights | 19.00% | ~13,158 |
+| Quality Time | 18.00% | ~12,466 |
+| Power Players | 18.00% | ~12,466 |
+| Showdown | 16.00% | ~11,081 |
+| Et tu? | 16.00% | ~11,081 |
+| Took It to The Limit | 16.00% | ~11,081 |
+| Kitted Out | 14.00% | ~9,696 |
 | Masters of Santo Ileso | 12.00% | ~8,310 |
-| Hijacked | 11.00% | ~7,617 |
+| Hijacked | 11.00% | ~7,618 |
 | The Spins | 10.00% | ~6,925 |
 | The Mechanic | 10.00% | ~6,925 |
-| We could go home, or… | 7.00% | ~4,847 |
-| Challenge Accepted | 7.00% | ~4,847 |
-| A Golden Age | 7.00% | ~4,847 |
-| Closet Space | 7.00% | ~4,847 |
+| We could go home, or… | 7.00% | ~4,848 |
+| Challenge Accepted | 7.00% | ~4,848 |
+| A Golden Age | 7.00% | ~4,848 |
+| Closet Space | 7.00% | ~4,848 |
 | Producer Credit | 7.00% | ~2,862 |
 | Face Off | 6.00% | ~2,453 |
-| The Professional | 5.00% | ~3,462 |
-| Chaos Tamer | 5.00% | ~3,462 |
-| Untouchable | 5.00% | ~3,462 |
-| Free Refills | 5.00% | ~3,462 |
-| Smooth Moves | 5.00% | ~3,462 |
-| Hazardous Heist | 5.00% | ~2,044 |
+| The Professional | 5.00% | ~3,463 |
+| Chaos Tamer | 5.00% | ~3,463 |
+| Untouchable | 5.00% | ~3,463 |
+| Free Refills | 5.00% | ~3,463 |
+| Smooth Moves | 5.00% | ~3,463 |
+| Hazardous Heist | 5.00% | ~2,045 |
 | Neighborly | 4.00% | ~2,770 |
 | Prankster | 4.00% | ~2,770 |
 | Tourist | 4.00% | ~2,770 |
-| Shopping Spree | 3.00% | ~2,077 |
-| Always Be Hustling | 3.00% | ~2,077 |
-| Community Outreach | 3.00% | ~2,077 |
+| Shopping Spree | 3.00% | ~2,078 |
+| Always Be Hustling | 3.00% | ~2,078 |
+| Community Outreach | 3.00% | ~2,078 |
 | Bonus Round | 2.00% | ~1,385 |
-| It's a Bird! | 1.00% | ~692 |
-| The Collector | 1.00% | ~692 |
-| All Mine | 1.00% | ~692 |
+| It's a Bird! | 1.00% | ~693 |
+| The Collector | 1.00% | ~693 |
+| All Mine | 1.00% | ~693 |
 | Armor Piercing | 0.70% | ~485 |
 | Heard You Like Wheels | 0.70% | ~485 |
-| Jack of All Trades | 0.60% | ~415 |
-| Statement Pieces | 0.60% | ~415 |
-| A Car Named Simone | 0.20% | ~138 |
-| Fiesta Time | 0.20% | ~138 |
+| Jack of All Trades | 0.60% | ~416 |
+| Statement Pieces | 0.60% | ~416 |
+| A Car Named Simone | 0.20% | ~139 |
+| Fiesta Time | 0.20% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,246 (Ranked 83)  
+Progressed: 69,254 (Ranked 83)  
 Completed: 47 (0.07%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 47 (0.07%) (Ranked 231)
 | 2023-09-11 | 68,608 | 47 |
 | 2023-09-12 | 68,841 | 47 |
 | 2023-09-13 | 69,168 | 47 |
-| 2023-09-14 | 69,246 | 47 |
+| 2023-09-14 | 69,254 | 47 |
 ## Awards
 Max (Extremely Fun): 1,065  (Ranked 140)  
 Sum: 8,628 (Ranked 97)  

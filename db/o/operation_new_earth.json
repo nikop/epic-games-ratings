@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1305,
+  "EOS_Progressed": 1306,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4681,6 +4681,11 @@
       "Time": "2023-09-14T00:03:28.6079881+00:00",
       "NumProgressed": 1305,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T07:03:42.1733433+00:00",
+      "NumProgressed": 1306,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4820,7 +4825,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4868,7 +4873,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -4884,7 +4889,7 @@
       "Name": "Getting Deployment",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -4898,9 +4903,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 104
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -4916,7 +4921,7 @@
       "Name": "On Target",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -4995,14 +5000,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1305,
+      "Progressed": 1306,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:03:46.0838873+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:03:42.1733428+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:00:56.0438196+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:03:46.0839881+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:00:22.0186516+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:03:42.1734003+00:00"
 }

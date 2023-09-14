@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -501,6 +501,11 @@
       "Time": "2023-09-13T14:06:20.6159977+00:00",
       "NumProgressed": 117,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T07:06:15.6560684+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -521,13 +526,13 @@
       "Name": "Design Engineer",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
       "UsersEstimate": 71
     },
@@ -535,9 +540,9 @@
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -567,15 +572,15 @@
       "ID": "GO_ON_EXPEDITION",
       "SetID": "aniflfk",
       "Name": "Off on an Expedition!",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 51
     },
@@ -583,9 +588,9 @@
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "LUNCH_LEECH",
@@ -607,15 +612,15 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "PREPARE_10_COFFEE",
       "SetID": "aniflfk",
       "Name": "Barista",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -625,7 +630,7 @@
       "Name": "Weed Warrior",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -633,7 +638,7 @@
       "Name": "Bridge Builder",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -655,7 +660,7 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 50,
       "UsersEstimate": 83
     },
@@ -663,7 +668,7 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
       "UsersEstimate": 50
     }
@@ -672,14 +677,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-14T06:06:32.9150487+00:00",
+  "LastChanged_Achievements": "2023-09-14T07:06:15.6560678+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-14T06:01:33.5682665+00:00",
-  "LastUpdate_Achievements": "2023-09-14T06:06:32.9150781+00:00"
+  "LastUpdate_Ratings": "2023-09-14T07:00:55.5581735+00:00",
+  "LastUpdate_Achievements": "2023-09-14T07:06:15.6560837+00:00"
 }
