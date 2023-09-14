@@ -68,7 +68,7 @@
 | 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
 | 66 | [Doodle God](games/d/doodle_god.md) | 3.36% |
 | 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
-| 69 | [The Complex](games/t/the_complex.md) | 3.28% |
+| 69 | [The Complex](games/t/the_complex.md) | 3.27% |
 | 70 | [Without Escape](games/w/without_escape.md) | 3.23% |
 | 71 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 72 | [HordeCore](games/h/hordecore.md) | 3.13% |
@@ -126,7 +126,7 @@
 | 124 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 126 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
-| 127 | [Eternights](games/e/eternights.md) | 0.92% |
+| 127 | [Eternights](games/e/eternights.md) | 0.91% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.87% |
 | 130 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.85% |
@@ -592,4 +592,4 @@
 | 274 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 274 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 274 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,233 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |
+| 3,234 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.79% |

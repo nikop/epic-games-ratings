@@ -82,7 +82,7 @@
 | 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.81 | 0 | 517 |
 | 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 28 | 469 |
 | 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 517 |
-| 83 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,440 | 54 |
+| 83 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,443 | 54 |
 | 83 | [Griftlands](games/g/griftlands.md) | 4.80 | 0 | 517 |
 | 83 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 338 |
 | 83 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 517 |
@@ -159,7 +159,7 @@
 | 145 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 517 |
 | 145 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 802 | 158 |
 | 145 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 517 |
-| 145 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 81 | 361 |
+| 145 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 82 | 361 |
 | 145 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 517 |
 | 162 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 417 | 213 |
 | 162 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 517 |
@@ -196,7 +196,7 @@
 | 188 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 517 |
 | 188 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 517 |
 | 188 | [shapez](games/s/shapez.md) | 4.71 | 0 | 517 |
-| 188 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 81 | 361 |
+| 188 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 81 | 362 |
 | 188 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 517 |
 | 188 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 1,886 | 112 |
 | 188 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 517 |
@@ -355,7 +355,7 @@
 | 352 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 78,437 | 9 |
 | 352 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 282 | 245 |
 | 352 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 449 |
-| 352 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 81 | 361 |
+| 352 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 81 | 362 |
 | 352 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,484 | 125 |
 | 352 | [GigaBash](games/g/gigabash.md) | 4.62 | 0 | 517 |
 | 352 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.62 | 0 | 517 |
@@ -411,7 +411,7 @@
 | 394 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 482 | 203 |
 | 394 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 238 | 260 |
 | 394 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 498 |
-| 394 | [Warframe](games/w/warframe.md) | 4.60 | 17,037 | 22 |
+| 394 | [Warframe](games/w/warframe.md) | 4.60 | 17,062 | 22 |
 | 394 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 438 | 208 |
 | 394 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 85 | 359 |
 | 394 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 517 |
@@ -791,7 +791,7 @@
 | 782 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 517 |
 | 782 | [ZOMBI](games/z/zombi.md) | 4.32 | 0 | 517 |
 | 791 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 517 |
-| 791 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 360 | 226 |
+| 791 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 361 | 226 |
 | 791 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.31 | 0 | 517 |
 | 791 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 4.31 | 0 | 517 |
 | 791 | [Dark Light](games/d/dark_light.md) | 4.31 | 0 | 517 |
@@ -927,12 +927,12 @@
 | 922 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 517 |
 | 922 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.08 | 0 | 517 |
 | 922 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 517 |
-| 922 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 517 |
-| 929 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 542 | 196 |
-| 929 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 0 | 517 |
-| 929 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 182 | 282 |
-| 932 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 517 |
-| 932 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,270 | 67 |
+| 928 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 542 | 196 |
+| 928 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 0 | 517 |
+| 928 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 182 | 282 |
+| 931 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 517 |
+| 931 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,270 | 67 |
+| 931 | [The World Next Door](games/t/the_world_next_door.md) | 4.06 | 0 | 517 |
 | 934 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 4.05 | 0 | 517 |
 | 934 | [Pinball FX](games/p/pinball_fx.md) | 4.05 | 189 | 279 |
 | 934 | [Second Extinction™](games/s/second_extinction™.md) | 4.05 | 466 | 204 |
