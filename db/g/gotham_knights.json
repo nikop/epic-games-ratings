@@ -2896,7 +2896,7 @@
   ],
   "EOS_Progressed": 72511,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 724,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15587,9 +15587,9 @@
       "ID": "DEFEAT_LOS_1",
       "SetID": "4eo5ebm",
       "Name": "Out of Their League",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5801
+      "UsersEstimate": 6526
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -15906,8 +15906,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-14T02:58:22.1223902+00:00",
-  "LastChanged_Achievements": "2023-09-14T04:06:35.7767268+00:00",
+  "LastChanged_Achievements": "2023-09-14T05:08:16.4423199+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:58:24.5062247+00:00",
-  "LastUpdate_Achievements": "2023-09-14T04:06:35.7768641+00:00"
+  "LastUpdate_Ratings": "2023-09-14T04:59:22.5500195+00:00",
+  "LastUpdate_Achievements": "2023-09-14T05:08:16.4424213+00:00"
 }

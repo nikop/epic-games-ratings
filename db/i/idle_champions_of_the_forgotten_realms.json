@@ -6634,9 +6634,9 @@
       "Count": 3416
     }
   ],
-  "EOS_Progressed": 228699,
+  "EOS_Progressed": 228702,
   "EOS_Completed": 2278,
-  "EOS_NewPlayers": 1057,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -22864,6 +22864,11 @@
       "Time": "2023-09-14T04:04:41.6997113+00:00",
       "NumProgressed": 228699,
       "NumCompleted": 2278
+    },
+    {
+      "Time": "2023-09-14T05:05:43.6410128+00:00",
+      "NumProgressed": 228702,
+      "NumCompleted": 2278
     }
   ],
   "TotalAchievements": 520,
@@ -23657,9 +23662,9 @@
       "ID": "objective_completed_1183",
       "SetID": "415jc5c",
       "Name": "The Dread Domain of Tovag",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 390
     },
     {
       "ID": "objective_completed_1184",
@@ -26019,7 +26024,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "objective_completed_70",
@@ -27034,21 +27039,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194973,
+      "Progressed": 194976,
       "Completed": 3425
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228699,
+      "Progressed": 228702,
       "Completed": 2278
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-14T03:00:36.1295979+00:00",
-  "LastChanged_Achievements": "2023-09-14T04:04:41.6997109+00:00",
+  "LastChanged_Achievements": "2023-09-14T05:05:43.6410123+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-14T04:02:15.269398+00:00",
-  "LastUpdate_Achievements": "2023-09-14T04:04:41.7028497+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:02:35.345665+00:00",
+  "LastUpdate_Achievements": "2023-09-14T05:05:43.6433746+00:00"
 }

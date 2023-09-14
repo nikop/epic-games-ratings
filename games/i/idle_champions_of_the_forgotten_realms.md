@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~2,287 |
 | Beast Intentions | 0.70% | ~1,601 |
 | The Cursed Farmer | 0.60% | ~1,372 |
-| The Mad Wizard | 0.50% | ~1,143 |
+| The Mad Wizard | 0.50% | ~1,144 |
 | The Ring of Regeneration | 0.40% | ~915 |
 | Maddening | 0.30% | ~686 |
 | Were-verpowered | 0.30% | ~686 |
@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Loots! | 0.20% | ~390 |
 | Return to the Tomb | 0.20% | ~390 |
 | Heatwave | 0.20% | ~390 |
+| The Dread Domain of Tovag | 0.20% | ~390 |
 | Beast Mode | 0.20% | ~457 |
 | Terror in the Dark | 0.20% | ~457 |
 | Low Initiative | 0.20% | ~457 |
@@ -149,7 +150,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Distance | 0.10% | ~195 |
 | To Avernus in a Handbasket | 0.10% | ~195 |
 | Hands Off! | 0.10% | ~195 |
-| The Dread Domain of Tovag | 0.10% | ~195 |
 | Weak Doesn't Mean Feeble | 0.10% | ~195 |
 | Frail Doesn't Mean Broken | 0.10% | ~195 |
 | The Castle of a Thousand Vecnas | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,699 (Ranked 54)  
+Progressed: 228,702 (Ranked 54)  
 Completed: 2,278 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -674,7 +674,7 @@ Completed: 2,278 (1.00%) (Ranked 122)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,699 | 2,278 |
+| 2023-09-14 | 228,702 | 2,278 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
 Sum: 31,573 (Ranked 39)  

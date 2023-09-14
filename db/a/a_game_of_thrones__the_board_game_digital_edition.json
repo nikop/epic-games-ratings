@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1275,7 +1275,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 23849,
+  "EOS_Progressed": 23850,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 1,
@@ -16985,6 +16985,11 @@
       "Time": "2023-09-14T04:03:34.222451+00:00",
       "NumProgressed": 23849,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-09-14T05:04:12.4109211+00:00",
+      "NumProgressed": 23850,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 22,
@@ -17004,7 +17009,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "1017",
@@ -17028,7 +17033,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "1020",
@@ -17060,7 +17065,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "1024",
@@ -17140,7 +17145,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "1034",
@@ -17148,7 +17153,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "1035",
@@ -17171,15 +17176,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 23849,
+      "Progressed": 23850,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-09-03T23:00:19.1993338+00:00",
-  "LastChanged_Achievements": "2023-09-14T04:03:34.22245+00:00",
+  "LastChanged_Achievements": "2023-09-14T05:04:12.4109206+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:19.8845824+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:59:21.8000709+00:00",
-  "LastUpdate_Achievements": "2023-09-14T04:03:34.2226887+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:00:42.8534269+00:00",
+  "LastUpdate_Achievements": "2023-09-14T05:04:12.4110042+00:00"
 }

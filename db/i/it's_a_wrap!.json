@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-08-23T17:30:00+00:00",
     "PcReleaseDate": "2023-08-23T17:30:00+00:00",
@@ -336,9 +336,9 @@
       "ID": "1_10_SECRET",
       "SetID": "2l1dk5b",
       "Name": "Under the Bridge",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "1_50_SECRET",
@@ -455,8 +455,8 @@
   ],
   "FirstSeen": "2023-08-25T08:57:40.9970991+00:00",
   "FirstSeenAchievements": "2023-08-01T21:04:35.2343064+00:00",
-  "LastChanged_Achievements": "2023-09-14T04:06:12.4002489+00:00",
+  "LastChanged_Achievements": "2023-09-14T05:07:44.6201187+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:50.0677314+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:57:56.3149907+00:00",
-  "LastUpdate_Achievements": "2023-09-14T04:06:12.4002639+00:00"
+  "LastUpdate_Ratings": "2023-09-14T04:58:46.1355978+00:00",
+  "LastUpdate_Achievements": "2023-09-14T05:07:44.6201313+00:00"
 }

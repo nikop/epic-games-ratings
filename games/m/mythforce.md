@@ -6,8 +6,8 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 2.00% | ~35 |
-| That'll Leave a Mark | 2.00% | ~35 |
+| Death Becomes You | 2.00% | ~36 |
+| That'll Leave a Mark | 2.00% | ~36 |
 | Debuff Dogpile | 1.00% | ~18 |
 | Faceroll the Bones | 1.00% | ~18 |
 | First Strike | 1.00% | ~18 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | We've Got a Kaiju on the Field | 0.10% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,769 (Ranked 185)  
+Progressed: 1,776 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,11 +91,11 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 1,321 | 0 |
 | 2023-09-12 | 1,507 | 0 |
 | 2023-09-13 | 1,711 | 0 |
-| 2023-09-14 | 1,769 | 0 |
+| 2023-09-14 | 1,776 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
-Sum: 259 (Ranked 354)  
-Diff (max vs sum): 104  
+Sum: 259 (Ranked 355)  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

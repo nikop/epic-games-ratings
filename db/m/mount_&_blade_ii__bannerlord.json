@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7119,9 +7119,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60964,
+  "EOS_Progressed": 60966,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22619,6 +22619,11 @@
       "Time": "2023-09-14T04:05:35.2408095+00:00",
       "NumProgressed": 60964,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T05:06:54.5905208+00:00",
+      "NumProgressed": 60966,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22710,7 +22715,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     },
     {
       "ID": "Dynasty",
@@ -22758,7 +22763,7 @@
       "Name": "God of the Arena",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 7925
+      "UsersEstimate": 7926
     },
     {
       "ID": "Great Granny",
@@ -22798,7 +22803,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9754
+      "UsersEstimate": 9755
     },
     {
       "ID": "I spit on your grave",
@@ -22838,7 +22843,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "Lance-a-lot",
@@ -22854,7 +22859,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19508
+      "UsersEstimate": 19509
     },
     {
       "ID": "Lawbringer",
@@ -22862,7 +22867,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23776
+      "UsersEstimate": 23777
     },
     {
       "ID": "Lawmaker",
@@ -22886,7 +22891,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4268
     },
     {
       "ID": "Minor Clan",
@@ -22974,7 +22979,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     },
     {
       "ID": "The king is pleased",
@@ -23037,15 +23042,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60964,
+      "Progressed": 60966,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-13T14:59:35.6226268+00:00",
-  "LastChanged_Achievements": "2023-09-14T04:05:35.2408089+00:00",
+  "LastChanged_Achievements": "2023-09-14T05:06:54.5905203+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:58:39.134964+00:00",
-  "LastUpdate_Achievements": "2023-09-14T04:05:35.2409529+00:00"
+  "LastUpdate_Ratings": "2023-09-14T04:59:43.7033539+00:00",
+  "LastUpdate_Achievements": "2023-09-14T05:06:54.5906321+00:00"
 }

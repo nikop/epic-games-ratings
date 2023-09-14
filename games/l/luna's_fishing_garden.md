@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Feel for the Reel | 84.00% | ~570 |
-| Anything Else? | 83.00% | ~564 |
+| Anything Else? | 84.00% | ~570 |
 | The Ones that Got Away | 68.00% | ~462 |
 | Immortal | 40.00% | ~272 |
 | Up! | 35.00% | ~238 |

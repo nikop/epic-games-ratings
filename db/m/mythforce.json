@@ -4,11 +4,11 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 581,
   "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 354,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1769,
+  "EOS_Progressed": 1776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4276,6 +4276,11 @@
       "Time": "2023-09-14T04:06:18.568505+00:00",
       "NumProgressed": 1769,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T05:07:52.7954442+00:00",
+      "NumProgressed": 1776,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4312,7 +4317,7 @@
       "Name": "Death Becomes You",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -4456,7 +4461,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -4471,15 +4476,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1769,
+      "Progressed": 1776,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-14T04:06:18.5685044+00:00",
+  "LastChanged_Achievements": "2023-09-14T05:07:52.7954438+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:57:34.6387332+00:00",
-  "LastUpdate_Achievements": "2023-09-14T04:06:18.568542+00:00"
+  "LastUpdate_Ratings": "2023-09-14T04:58:17.9114724+00:00",
+  "LastUpdate_Achievements": "2023-09-14T05:07:52.7954753+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.50 (Ranked 565)
 | ---- | ---------- | ----- |
 | Good start! | 85.00% | ~361 |
 | Vanquisher of Robots | 76.00% | ~323 |
-| Party | 48.00% | ~204 |
+| Party | 49.00% | ~208 |
 | Impossible Cube | 46.00% | ~196 |
 | Knowledge is Power | 44.00% | ~187 |
 | No Mercy | 42.00% | ~178 |
@@ -20,7 +20,7 @@ Rating: 4.50 (Ranked 565)
 | Great Hero | 27.00% | ~115 |
 | Campaigning | 26.00% | ~110 |
 | Rookie | 26.00% | ~110 |
-| Assemble a Meganewbie | 24.00% | ~102 |
+| Assemble a Meganewbie | 25.00% | ~106 |
 | Frugal | 22.00% | ~94 |
 | Feed a God | 21.00% | ~89 |
 | To the Moon and Back | 20.00% | ~85 |

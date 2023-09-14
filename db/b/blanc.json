@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -3309,9 +3309,9 @@
       "ID": "STRONGER_TOGETHER",
       "SetID": "1a29mp6",
       "Name": "Stronger together",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 375
+      "UsersEstimate": 402
     },
     {
       "ID": "THE_END",
@@ -3350,8 +3350,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-09-14T04:05:36.7393696+00:00",
+  "LastChanged_Achievements": "2023-09-14T05:06:56.6436611+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.1508529+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:58:11.7414872+00:00",
-  "LastUpdate_Achievements": "2023-09-14T04:05:36.7393979+00:00"
+  "LastUpdate_Ratings": "2023-09-14T04:59:05.6440381+00:00",
+  "LastUpdate_Achievements": "2023-09-14T05:06:56.6436845+00:00"
 }

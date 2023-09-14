@@ -1944,9 +1944,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 180365,
+  "EOS_Progressed": 180371,
   "EOS_Completed": 285,
-  "EOS_NewPlayers": 4519,
+  "EOS_NewPlayers": 4498,
   "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -8409,6 +8409,11 @@
       "Time": "2023-09-14T04:03:21.09321+00:00",
       "NumProgressed": 180365,
       "NumCompleted": 285
+    },
+    {
+      "Time": "2023-09-14T05:03:44.7537951+00:00",
+      "NumProgressed": 180371,
+      "NumCompleted": 285
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -8501,7 +8506,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14429
+      "UsersEstimate": 14430
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -8525,7 +8530,7 @@
       "Name": "Not So Special Now",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9018
+      "UsersEstimate": 9019
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -8581,7 +8586,7 @@
       "Name": "Equal Measures",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9018
+      "UsersEstimate": 9019
     },
     {
       "ID": "Meet_Mudtooth",
@@ -8629,7 +8634,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9018
+      "UsersEstimate": 9019
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -8725,7 +8730,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14429
+      "UsersEstimate": 14430
     },
     {
       "ID": "Obtain_Traits_B",
@@ -8765,7 +8770,7 @@
       "Name": "Almost There",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9018
+      "UsersEstimate": 9019
     },
     {
       "ID": "Upgrade_Relic",
@@ -8773,7 +8778,7 @@
       "Name": "Make Some Room",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9018
+      "UsersEstimate": 9019
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -8820,7 +8825,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 180365,
+      "Progressed": 180371,
       "Completed": 285
     }
   ],
@@ -8828,8 +8833,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-14T03:59:04.1886008+00:00",
-  "LastChanged_Achievements": "2023-09-14T04:03:21.0932094+00:00",
+  "LastChanged_Achievements": "2023-09-14T05:03:44.7537946+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:47.049346+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:59:04.1886014+00:00",
-  "LastUpdate_Achievements": "2023-09-14T04:03:21.093294+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:00:17.9534177+00:00",
+  "LastUpdate_Achievements": "2023-09-14T05:03:44.7538588+00:00"
 }

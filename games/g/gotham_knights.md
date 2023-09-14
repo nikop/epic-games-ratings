@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 882)
 | Gotham Knight | 12.00% | ~8,701 |
 | Gotham City Confidential | 11.00% | ~7,976 |
 | Drone You Out | 10.00% | ~7,251 |
+| Out of Their League | 9.00% | ~6,526 |
 | Solid Alibi | 9.00% | ~6,526 |
-| Out of Their League | 8.00% | ~5,801 |
 | Fusion Expert | 7.00% | ~5,076 |
 | Family Meeting | 6.00% | ~4,351 |
 | A Worthy Successor | 6.00% | ~4,351 |

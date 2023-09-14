@@ -33,6 +33,7 @@ Rating: 4.50 (Ranked 565)
 | Pesky Jerks | 0.10% | ~26 |
 | Reckless | 0.10% | ~26 |
 | Rift Destroyer | 0.10% | ~26 |
+| Rift Seeker | 0.10% | ~26 |
 | Right back at ya | 0.10% | ~26 |
 | Rivalry | 0.10% | ~26 |
 | Seasoned | 0.10% | ~26 |
@@ -55,7 +56,6 @@ Rating: 4.50 (Ranked 565)
 | Whoopsie | 0.10% | ~26 |
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
-| Rift Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25,788 (Ranked 104)  
 Completed: 56 (0.22%) (Ranked 195)  

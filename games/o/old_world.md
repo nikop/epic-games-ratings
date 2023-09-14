@@ -74,7 +74,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 1.00% | ~139 |
 | Lion | 1.00% | ~139 |
 | Mighty | 1.00% | ~139 |
-| Subjugator | 1.00% | ~139 |
 | Victorious | 1.00% | ~139 |
 | Good Difficulty | 1.00% | ~139 |
 | Just Difficulty | 1.00% | ~139 |
@@ -107,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.90% | ~125 |
 | Invincible | 0.90% | ~125 |
 | Ready | 0.90% | ~125 |
+| Subjugator | 0.90% | ~125 |
 | Riders | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
 | Assyrian Paganism | 0.90% | ~125 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,894 (Ranked 122)  
+Progressed: 13,895 (Ranked 122)  
 Completed: 5 (0.04%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -450,7 +450,7 @@ Completed: 5 (0.04%) (Ranked 242)
 | 2023-09-11 | 13,868 | 5 |
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
-| 2023-09-14 | 13,894 | 5 |
+| 2023-09-14 | 13,895 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

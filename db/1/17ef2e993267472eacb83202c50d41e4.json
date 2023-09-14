@@ -4,8 +4,8 @@
   "ProductSlug": "nexus-058364",
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5739,
+  "EOS_Progressed": 5741,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1306,
+  "EOS_NewPlayers": 1293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1361,6 +1361,11 @@
       "Time": "2023-09-14T04:04:19.0259693+00:00",
       "NumProgressed": 5739,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T05:05:13.1363002+00:00",
+      "NumProgressed": 5741,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1421,7 +1426,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "CreditsSpent50000",
@@ -1493,7 +1498,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "GamesPlayed10",
@@ -1589,7 +1594,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "HSUPurchased1",
@@ -1637,7 +1642,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "InhibitorKills3",
@@ -1805,7 +1810,7 @@
       "Name": "10 Eliminations",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "PlayerKills100",
@@ -1869,7 +1874,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "SEUpgraded1",
@@ -1964,14 +1969,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5739,
+      "Progressed": 5741,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-14T04:04:19.0259687+00:00",
+  "LastChanged_Achievements": "2023-09-14T05:05:13.1362997+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-14T03:59:15.0134118+00:00",
-  "LastUpdate_Achievements": "2023-09-14T04:04:19.0260587+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:00:33.6227261+00:00",
+  "LastUpdate_Achievements": "2023-09-14T05:05:13.1363676+00:00"
 }
