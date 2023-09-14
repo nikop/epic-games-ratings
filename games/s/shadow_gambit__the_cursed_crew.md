@@ -5,7 +5,7 @@ Rating: 4.69 (Ranked 216)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 69.00% | ~441 |
+| A New Journey | 70.00% | ~447 |
 | The Adventure Begins | 55.00% | ~351 |
 | Swabbie | 43.00% | ~275 |
 | With Great Power… | 42.00% | ~268 |
@@ -20,8 +20,8 @@ Rating: 4.69 (Ranked 216)
 | All Good Things | 17.00% | ~109 |
 | Seadog | 17.00% | ~109 |
 | Persistent Parasite | 17.00% | ~109 |
+| Privateer | 12.00% | ~77 |
 | Jaded Judge | 12.00% | ~77 |
-| Privateer | 11.00% | ~70 |
 | Rustic Recipe | 11.00% | ~70 |
 | Tobacco Travesty | 10.00% | ~64 |
 | Accursed Artifacts | 9.00% | ~58 |

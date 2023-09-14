@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 109,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
     {
       "Time": "2023-09-08T14:06:31.5856386+00:00",
@@ -231,6 +231,11 @@
       "Time": "2023-09-14T05:03:50.3205949+00:00",
       "NumProgressed": 108,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T06:03:47.6305522+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -243,7 +248,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -259,7 +264,7 @@
       "Name": "Their Rock",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -299,7 +304,7 @@
       "Name": "Sia\u0027s Promise",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -315,15 +320,15 @@
       "Name": "Romantic",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
       "SetID": "9bke6f1",
       "Name": "Shelter Escape",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -363,7 +368,7 @@
       "Name": "TentacleMAN",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -377,7 +382,7 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
       "UsersEstimate": 68
     },
@@ -385,17 +390,17 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -403,7 +408,7 @@
       "Name": "First wall",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -442,14 +447,14 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 109,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:03:50.3205943+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:03:47.6305515+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-14T04:58:41.1750021+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:03:50.3206096+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:58:35.6456743+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:03:47.6305823+00:00"
 }

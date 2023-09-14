@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -650,6 +650,11 @@
       "Time": "2023-09-13T20:05:37.5598553+00:00",
       "NumProgressed": 516,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T06:06:17.632678+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -733,7 +738,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Headshot",
@@ -749,7 +754,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Hitman",
@@ -781,7 +786,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Leisurely_Strol",
@@ -835,9 +840,9 @@
       "ID": "Old_Friend",
       "SetID": "ek310c",
       "Name": "A Familiar Face",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 78
     },
     {
       "ID": "Paparazzi",
@@ -845,7 +850,7 @@
       "Name": "Paparazzi",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Park",
@@ -861,7 +866,7 @@
       "Name": "Life of the Party",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Smart cookie",
@@ -892,7 +897,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 5
     }
   ],
@@ -900,8 +905,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:06:16.8368342+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:06:17.6326772+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:55.4277307+00:00",
-  "LastUpdate_Ratings": "2023-09-14T05:01:15.9054099+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:06:16.8368524+00:00"
+  "LastUpdate_Ratings": "2023-09-14T06:01:19.9657908+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:06:17.6327204+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1724,9 +1724,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 58111,
+  "EOS_Progressed": 58112,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17759,6 +17759,11 @@
       "Time": "2023-09-14T05:05:40.189488+00:00",
       "NumProgressed": 58111,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-14T06:05:39.8329232+00:00",
+      "NumProgressed": 58112,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -17770,7 +17775,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 31961
+      "UsersEstimate": 31962
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -18034,7 +18039,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 23244
+      "UsersEstimate": 23245
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -18058,7 +18063,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 36610
+      "UsersEstimate": 36611
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -18186,7 +18191,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7554
+      "UsersEstimate": 7555
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -18241,15 +18246,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 58111,
+      "Progressed": 58112,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-13T14:57:58.2990191+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:05:40.1894876+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:05:39.8329225+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6621322+00:00",
-  "LastUpdate_Ratings": "2023-09-14T04:58:10.1570147+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:05:40.1896037+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:58:05.5155331+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:05:39.8332281+00:00"
 }

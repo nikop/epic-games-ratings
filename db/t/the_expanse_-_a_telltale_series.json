@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10532,
+  "EOS_Progressed": 10534,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5285,6 +5285,11 @@
       "Time": "2023-09-14T05:08:39.3011573+00:00",
       "NumProgressed": 10532,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T06:08:44.9057384+00:00",
+      "NumProgressed": 10534,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5313,7 +5318,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "12",
@@ -5345,7 +5350,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "16",
@@ -5377,7 +5382,7 @@
       "Name": "Martian Music",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "2",
@@ -5473,7 +5478,7 @@
       "Name": "Captain Drummer",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "30",
@@ -5529,14 +5534,14 @@
       "Name": "Impossible Objects",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3370
+      "UsersEstimate": 3371
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10532,
+      "Progressed": 10534,
       "Completed": 0
     }
   ],
@@ -5544,8 +5549,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:08:39.3011568+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:08:44.9057376+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-14T04:58:41.9291801+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:08:39.3011985+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:58:36.4097786+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:08:44.9058127+00:00"
 }

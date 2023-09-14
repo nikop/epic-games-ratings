@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206865,
+  "EOS_Progressed": 206867,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1403,
+  "EOS_NewPlayers": 1397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16773,6 +16773,11 @@
       "Time": "2023-09-14T05:04:18.464169+00:00",
       "NumProgressed": 206865,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-14T06:04:15.8299571+00:00",
+      "NumProgressed": 206867,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -16832,7 +16837,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 113776
+      "UsersEstimate": 113777
     },
     {
       "ID": "Checkmate",
@@ -16856,7 +16861,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 144806
+      "UsersEstimate": 144807
     },
     {
       "ID": "DoubleCheck",
@@ -16872,7 +16877,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 115844
+      "UsersEstimate": 115846
     },
     {
       "ID": "Elo",
@@ -16960,7 +16965,7 @@
       "Name": "O-O-O",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 26892
+      "UsersEstimate": 26893
     },
     {
       "ID": "Octopus",
@@ -16968,7 +16973,7 @@
       "Name": "Octopus",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 26892
+      "UsersEstimate": 26893
     },
     {
       "ID": "PieceCollector",
@@ -17000,7 +17005,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 64128
+      "UsersEstimate": 64129
     },
     {
       "ID": "QueenSacrifice",
@@ -17087,7 +17092,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 206865,
+      "Progressed": 206867,
       "Completed": 2
     }
   ],
@@ -17095,8 +17100,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-09-10T20:02:14.5471965+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:04:18.4641684+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:04:15.8299561+00:00",
   "LastUpdate_AppInfo": "2023-09-09T06:57:14.9740776+00:00",
-  "LastUpdate_Ratings": "2023-09-14T04:57:25.3296592+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:04:18.464267+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:57:22.5892903+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:04:15.8301894+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ad59318740674cb3adad80949d0bcc88",
   "Name": "Syberia: The World Before",
   "ProductSlug": "syberia-the-world-before",
-  "Ranking_Rating": 281,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-03-18T17:00:00+00:00",
     "PcReleaseDate": "2022-03-18T17:00:00+00:00",
@@ -562,8 +562,8 @@
   "FirstSeen": "2022-07-22T20:23:03.7209999+00:00",
   "FirstSeenAchievements": "2023-08-01T09:04:56.2255951+00:00",
   "LastChanged": "2023-08-05T13:01:00.850973+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:07:58.8280533+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:08:02.9550264+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:55.3108659+00:00",
-  "LastUpdate_Ratings": "2023-09-14T04:58:00.6846008+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:07:58.8280708+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:57:55.5850899+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:08:02.9550648+00:00"
 }

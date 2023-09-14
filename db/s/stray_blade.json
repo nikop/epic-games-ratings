@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -420,9 +420,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -460,9 +460,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -628,9 +628,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -763,8 +763,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:08:37.0252096+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:08:42.3254628+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.5901526+00:00",
-  "LastUpdate_Ratings": "2023-09-14T05:02:31.58709+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:08:37.0252391+00:00"
+  "LastUpdate_Ratings": "2023-09-14T06:02:36.1258983+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:08:42.3255373+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -613,7 +613,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 343051,
+  "EOS_Progressed": 343053,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1110,
   "EOS_NewCompleters": 0,
@@ -16968,6 +16968,11 @@
       "Time": "2023-09-14T05:05:21.0464689+00:00",
       "NumProgressed": 343051,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-14T06:05:20.0343964+00:00",
+      "NumProgressed": 343053,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -17187,7 +17192,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 157803
+      "UsersEstimate": 157804
     },
     {
       "ID": "ach028",
@@ -17618,7 +17623,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 343051,
+      "Progressed": 343053,
       "Completed": 7
     }
   ],
@@ -17626,8 +17631,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-14T04:57:26.290545+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:05:21.0464684+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:05:20.0343955+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-14T04:57:26.2905456+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:05:21.0466278+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:57:23.754285+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:05:20.0347542+00:00"
 }

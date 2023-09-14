@@ -1707,9 +1707,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 447
     },
     {
       "ID": "_03_FinishAct1",
@@ -1787,9 +1787,9 @@
       "ID": "_12_Completion_50",
       "SetID": "8a1io5d",
       "Name": "Privateer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 77
     },
     {
       "ID": "_13_Completion_60",
@@ -1916,8 +1916,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:04:48.294461+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:04:46.2476171+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-14T04:57:49.5734609+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:04:48.2944847+00:00"
+  "LastUpdate_Ratings": "2023-09-14T05:57:45.9546989+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:04:46.2476661+00:00"
 }

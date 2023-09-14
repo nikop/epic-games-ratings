@@ -7602,9 +7602,9 @@
       "Count": 643
     }
   ],
-  "EOS_Progressed": 296565,
+  "EOS_Progressed": 296566,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1142,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23487,6 +23487,11 @@
       "Time": "2023-09-14T05:03:36.8123536+00:00",
       "NumProgressed": 296565,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-14T06:03:33.7081897+00:00",
+      "NumProgressed": 296566,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23506,7 +23511,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29656
+      "UsersEstimate": 29657
     },
     {
       "ID": "PFA_11",
@@ -23514,7 +23519,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29656
+      "UsersEstimate": 29657
     },
     {
       "ID": "PFA_12",
@@ -23522,7 +23527,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 29656
+      "UsersEstimate": 29657
     },
     {
       "ID": "PFA_13",
@@ -23554,7 +23559,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29656
+      "UsersEstimate": 29657
     },
     {
       "ID": "PFA_17",
@@ -23626,7 +23631,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29656
+      "UsersEstimate": 29657
     },
     {
       "ID": "PFA_25",
@@ -23682,7 +23687,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29656
+      "UsersEstimate": 29657
     },
     {
       "ID": "PFA_31",
@@ -23754,7 +23759,7 @@
       "Name": "Coasting Along",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29656
+      "UsersEstimate": 29657
     },
     {
       "ID": "PFA_4",
@@ -23826,7 +23831,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38553
+      "UsersEstimate": 38554
     },
     {
       "ID": "PFA_7",
@@ -23857,7 +23862,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296565,
+      "Progressed": 296566,
       "Completed": 470
     }
   ],
@@ -23865,8 +23870,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-14T01:40:54.5021955+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:03:36.8123529+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:03:33.708189+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-14T05:01:55.0383478+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:03:36.8124318+00:00"
+  "LastUpdate_Ratings": "2023-09-14T06:01:59.7887463+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:03:33.7084385+00:00"
 }

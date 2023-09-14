@@ -6,51 +6,51 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~43,811 |
-| Zealous | 4.00% | ~35,049 |
-| Skillful | 4.00% | ~35,049 |
-| Handyman | 3.00% | ~26,287 |
-| Not half bad | 3.00% | ~26,287 |
-| Apt Survivor | 3.00% | ~26,287 |
-| Survival Treasures | 3.00% | ~26,287 |
-| Sorted | 3.00% | ~26,287 |
-| Make Some Noise | 3.00% | ~26,287 |
-| The Grand Sacrifice | 2.00% | ~17,524 |
-| Agonizing Escape | 2.00% | ~17,524 |
-| Backdoor Escape | 2.00% | ~17,524 |
-| I've got your back | 2.00% | ~17,524 |
-| No one left behind | 2.00% | ~17,524 |
-| Medic | 2.00% | ~17,524 |
-| Nerves of steel | 2.00% | ~17,524 |
-| Perfect Escape | 2.00% | ~17,524 |
-| Perfect Killing | 2.00% | ~17,524 |
-| Bloody Millionaire | 2.00% | ~17,524 |
-| Risk it all | 2.00% | ~17,524 |
-| I | 2.00% | ~17,524 |
-| Engineer | 2.00% | ~17,524 |
-| Healthy Obsession | 2.00% | ~17,524 |
-| Resurgence | 2.00% | ~17,524 |
-| Close Shave | 2.00% | ~17,524 |
-| Preemptive Strike | 2.00% | ~17,524 |
-| Humanitarian | 2.00% | ~17,524 |
-| MU/TH/UR Dearest | 2.00% | ~17,524 |
-| Blood on your hands | 1.00% | ~8,762 |
-| Apt Killer | 1.00% | ~8,762 |
-| Vulture | 1.00% | ~8,762 |
-| II | 1.00% | ~8,762 |
-| III | 1.00% | ~8,762 |
-| Holiday Get-Together | 1.00% | ~8,762 |
-| Cherish your Life | 1.00% | ~8,762 |
-| Wounded Healer | 1.00% | ~8,762 |
-| First to the Punch | 1.00% | ~8,762 |
-| Every Last Drop | 1.00% | ~8,762 |
-| Raccoon City Recruit | 1.00% | ~8,762 |
-| With Scars to Show | 1.00% | ~8,762 |
-| Flight to Freedom | 1.00% | ~8,762 |
-| A Fast Death | 1.00% | ~8,762 |
-| Lifting The Fog | 1.00% | ~8,762 |
-| Second Act | 1.00% | ~8,762 |
-| Terror of LV-426 | 1.00% | ~8,762 |
+| It wakes | 5.00% | ~43,813 |
+| Zealous | 4.00% | ~35,051 |
+| Skillful | 4.00% | ~35,051 |
+| Handyman | 3.00% | ~26,288 |
+| Not half bad | 3.00% | ~26,288 |
+| Apt Survivor | 3.00% | ~26,288 |
+| Survival Treasures | 3.00% | ~26,288 |
+| Sorted | 3.00% | ~26,288 |
+| Make Some Noise | 3.00% | ~26,288 |
+| The Grand Sacrifice | 2.00% | ~17,525 |
+| Agonizing Escape | 2.00% | ~17,525 |
+| Backdoor Escape | 2.00% | ~17,525 |
+| I've got your back | 2.00% | ~17,525 |
+| No one left behind | 2.00% | ~17,525 |
+| Medic | 2.00% | ~17,525 |
+| Nerves of steel | 2.00% | ~17,525 |
+| Perfect Escape | 2.00% | ~17,525 |
+| Perfect Killing | 2.00% | ~17,525 |
+| Bloody Millionaire | 2.00% | ~17,525 |
+| Apt Killer | 2.00% | ~17,525 |
+| Risk it all | 2.00% | ~17,525 |
+| I | 2.00% | ~17,525 |
+| Engineer | 2.00% | ~17,525 |
+| Healthy Obsession | 2.00% | ~17,525 |
+| Resurgence | 2.00% | ~17,525 |
+| Close Shave | 2.00% | ~17,525 |
+| Preemptive Strike | 2.00% | ~17,525 |
+| Humanitarian | 2.00% | ~17,525 |
+| MU/TH/UR Dearest | 2.00% | ~17,525 |
+| Blood on your hands | 1.00% | ~8,763 |
+| Vulture | 1.00% | ~8,763 |
+| II | 1.00% | ~8,763 |
+| III | 1.00% | ~8,763 |
+| Holiday Get-Together | 1.00% | ~8,763 |
+| Cherish your Life | 1.00% | ~8,763 |
+| Wounded Healer | 1.00% | ~8,763 |
+| First to the Punch | 1.00% | ~8,763 |
+| Every Last Drop | 1.00% | ~8,763 |
+| Raccoon City Recruit | 1.00% | ~8,763 |
+| With Scars to Show | 1.00% | ~8,763 |
+| Flight to Freedom | 1.00% | ~8,763 |
+| A Fast Death | 1.00% | ~8,763 |
+| Lifting The Fog | 1.00% | ~8,763 |
+| Second Act | 1.00% | ~8,763 |
+| Terror of LV-426 | 1.00% | ~8,763 |
 | Made it out alive! | 0.90% | ~7,886 |
 | Gifts for the Fog | 0.90% | ~7,886 |
 | III-50 | 0.90% | ~7,886 |
@@ -78,12 +78,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Grim Pilgrimage | 0.70% | ~6,134 |
 | Complete the Evolution | 0.70% | ~6,134 |
 | Extraterrestrial | 0.70% | ~6,134 |
-| Hemophobia | 0.60% | ~5,257 |
-| Serial Killer | 0.60% | ~5,257 |
-| Devoted Gatekeeping | 0.60% | ~5,257 |
-| Selfless Survival | 0.60% | ~5,257 |
-| End of Days | 0.60% | ~5,257 |
-| Outrun the Overlap | 0.60% | ~5,257 |
+| Hemophobia | 0.60% | ~5,258 |
+| Serial Killer | 0.60% | ~5,258 |
+| Devoted Gatekeeping | 0.60% | ~5,258 |
+| Selfless Survival | 0.60% | ~5,258 |
+| End of Days | 0.60% | ~5,258 |
+| Outrun the Overlap | 0.60% | ~5,258 |
 | Jump Scares | 0.50% | ~4,381 |
 | Deep Cleansing | 0.50% | ~4,381 |
 | Texas BBQ | 0.50% | ~4,381 |
@@ -107,19 +107,19 @@ Number of Ratings: 70,340  (23.09.2022)
 | Hack the Mainframe | 0.40% | ~3,505 |
 | Looter | 0.30% | ~2,629 |
 | Death of Ignorance | 0.30% | ~2,629 |
-| A feast for the Entity | 0.20% | ~1,752 |
-| In the void she walks | 0.20% | ~1,752 |
-| Mad House | 0.20% | ~1,752 |
-| Happy Holidays | 0.20% | ~1,752 |
-| Deranged Pursuit | 0.20% | ~1,752 |
-| Dismantle | 0.20% | ~1,752 |
-| Left For Dead | 0.20% | ~1,752 |
-| Denied! | 0.20% | ~1,752 |
-| Bodyguard | 0.20% | ~1,752 |
-| Rescue Mission | 0.20% | ~1,752 |
-| Ghost in the Machine | 0.20% | ~1,752 |
-| From the Deep | 0.20% | ~1,752 |
-| Disarm and Dismember | 0.20% | ~1,752 |
+| A feast for the Entity | 0.20% | ~1,753 |
+| In the void she walks | 0.20% | ~1,753 |
+| Mad House | 0.20% | ~1,753 |
+| Happy Holidays | 0.20% | ~1,753 |
+| Deranged Pursuit | 0.20% | ~1,753 |
+| Dismantle | 0.20% | ~1,753 |
+| Left For Dead | 0.20% | ~1,753 |
+| Denied! | 0.20% | ~1,753 |
+| Bodyguard | 0.20% | ~1,753 |
+| Rescue Mission | 0.20% | ~1,753 |
+| Ghost in the Machine | 0.20% | ~1,753 |
+| From the Deep | 0.20% | ~1,753 |
+| Disarm and Dismember | 0.20% | ~1,753 |
 | Cripple them all | 0.10% | ~876 |
 | The Grind | 0.10% | ~876 |
 | The Key to Escape | 0.10% | ~876 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~876 |
 | Adept Ripley | 0.10% | ~876 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,222 (Ranked 14)  
+Progressed: 876,268 (Ranked 14)  
 Completed: 48 (0.01%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 48 (0.01%) (Ranked 260)
 | 2023-09-11 | 870,909 | 48 |
 | 2023-09-12 | 873,422 | 48 |
 | 2023-09-13 | 875,770 | 48 |
-| 2023-09-14 | 876,222 | 48 |
+| 2023-09-14 | 876,268 | 48 |
 ## Awards
 Max (Diverse Characters): 32,399  (Ranked 15)  
 Sum: 253,173 (Ranked 11)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5741,
+  "EOS_Progressed": 5742,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1293,
+  "EOS_NewPlayers": 1282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1366,6 +1366,11 @@
       "Time": "2023-09-14T05:05:13.1363002+00:00",
       "NumProgressed": 5741,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T06:05:11.8458275+00:00",
+      "NumProgressed": 5742,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1418,7 +1423,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "CreditsEarned50000",
@@ -1802,7 +1807,7 @@
       "Name": "Destroyed the Nexus",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "PlayerKills10",
@@ -1866,15 +1871,15 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "RSPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Rocket Strike",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 861
     },
     {
       "ID": "SEUpgraded1",
@@ -1914,7 +1919,7 @@
       "Name": "Upgraded the Shotgun to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "SniperUpgraded1",
@@ -1922,7 +1927,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "TGPurchased1",
@@ -1969,14 +1974,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5741,
+      "Progressed": 5742,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-14T05:05:13.1362997+00:00",
+  "LastChanged_Achievements": "2023-09-14T06:05:11.8458267+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-14T05:00:33.6227261+00:00",
-  "LastUpdate_Achievements": "2023-09-14T05:05:13.1363676+00:00"
+  "LastUpdate_Ratings": "2023-09-14T06:00:32.3274491+00:00",
+  "LastUpdate_Achievements": "2023-09-14T06:05:11.8459229+00:00"
 }
