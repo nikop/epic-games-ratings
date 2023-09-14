@@ -497,9 +497,9 @@
       "ID": "VACCINATED",
       "SetID": "2d85n75",
       "Name": "Vaccinated",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WARNING_FRAGILE",
@@ -546,8 +546,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-09-14T21:06:42.5721145+00:00",
+  "LastChanged_Achievements": "2023-09-14T22:07:26.8288773+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:58.6658979+00:00",
-  "LastUpdate_Ratings": "2023-09-14T20:58:58.7119773+00:00",
-  "LastUpdate_Achievements": "2023-09-14T21:06:42.5721557+00:00"
+  "LastUpdate_Ratings": "2023-09-14T21:59:13.6537016+00:00",
+  "LastUpdate_Achievements": "2023-09-14T22:07:26.8289361+00:00"
 }

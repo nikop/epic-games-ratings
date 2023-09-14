@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 3.00% | ~417 |
 | Developing Cities | 3.00% | ~417 |
 | Hanging Gardens | 3.00% | ~417 |
+| Ishtar Gate | 3.00% | ~417 |
 | Oracle | 3.00% | ~417 |
 | Pyramids | 3.00% | ~417 |
 | Judaism | 3.00% | ~417 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 2.00% | ~278 |
 | Colossus | 2.00% | ~278 |
 | Great Ziggurat | 2.00% | ~278 |
-| Ishtar Gate | 2.00% | ~278 |
 | Lighthouse | 2.00% | ~278 |
 | Mausoleum | 2.00% | ~278 |
 | Musaeum | 2.00% | ~278 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,906 (Ranked 123)  
+Progressed: 13,908 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -450,7 +450,7 @@ Completed: 5 (0.04%) (Ranked 243)
 | 2023-09-11 | 13,868 | 5 |
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
-| 2023-09-14 | 13,906 | 5 |
+| 2023-09-14 | 13,908 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

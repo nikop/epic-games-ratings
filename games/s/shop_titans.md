@@ -51,9 +51,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.50% | ~681 |
 | Hidden Potential | 0.50% | ~681 |
 | Power of Love | 0.50% | ~681 |
+| Expansion in Session | 0.50% | ~681 |
 | Trash to Treasure | 0.50% | ~681 |
 | Royal Ransom | 0.50% | ~681 |
 | Seasoned Journeyman | 0.50% | ~681 |
+| Black Friday Special | 0.50% | ~681 |
 | Magical Harmony | 0.50% | ~681 |
 | Special Ingredient | 0.50% | ~681 |
 | Complete Monopoly | 0.50% | ~681 |
@@ -72,7 +74,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.40% | ~545 |
 | Master of Transmutation | 0.40% | ~545 |
 | Supercharged | 0.40% | ~545 |
-| Expansion in Session | 0.40% | ~545 |
 | Ritualist | 0.40% | ~545 |
 | Cranked up to 11 | 0.40% | ~545 |
 | Fit for a King | 0.40% | ~545 |
@@ -91,7 +92,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.40% | ~545 |
 | Treasure Trove | 0.40% | ~545 |
 | Moment of Respite | 0.40% | ~545 |
-| Black Friday Special | 0.40% | ~545 |
 | King's Shadow | 0.40% | ~545 |
 | Master Recycler | 0.40% | ~545 |
 | Exotic Commodities | 0.40% | ~545 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,180 (Ranked 68)  
+Progressed: 136,184 (Ranked 68)  
 Completed: 151 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 151 (0.11%) (Ranked 218)
 | 2023-09-11 | 136,043 | 149 |
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
-| 2023-09-14 | 136,180 | 151 |
+| 2023-09-14 | 136,184 | 151 |
 ## Awards
 Max (Great for Beginners): 4,741  (Ranked 71)  
 Sum: 27,227 (Ranked 48)  

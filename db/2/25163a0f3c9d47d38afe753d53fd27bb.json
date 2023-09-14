@@ -2,10 +2,10 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 696,
+  "EOS_Progressed": 697,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 11.06,
+  "EOS_Completed_Percentage": 11.05,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2381,6 +2381,11 @@
       "Time": "2023-09-14T20:05:21.4131776+00:00",
       "NumProgressed": 696,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-09-14T22:05:11.5271817+00:00",
+      "NumProgressed": 697,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 30,
@@ -2392,7 +2397,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "LEVEL_002",
@@ -2400,7 +2405,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "LEVEL_003",
@@ -2408,7 +2413,7 @@
       "Name": "A horse in the country",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "LEVEL_004",
@@ -2424,7 +2429,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "LEVEL_006",
@@ -2432,7 +2437,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "LEVEL_007",
@@ -2528,7 +2533,7 @@
       "Name": "Isle rock city",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_019",
@@ -2536,15 +2541,15 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "LEVEL_020",
       "SetID": "212bg48",
       "Name": "Go round and round",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 104
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_021",
@@ -2631,14 +2636,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 696,
+      "Progressed": 697,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-09-14T21:04:46.8562493+00:00",
+  "LastChanged_Achievements": "2023-09-14T22:05:11.5271811+00:00",
   "LastUpdate_AppInfo": "2023-09-11T21:57:06.8310297+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:00:48.955319+00:00",
-  "LastUpdate_Achievements": "2023-09-14T21:04:46.8562894+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:01:26.1697741+00:00",
+  "LastUpdate_Achievements": "2023-09-14T22:05:11.5272467+00:00"
 }

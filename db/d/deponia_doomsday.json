@@ -5,9 +5,9 @@
   "Ranking_Rating": 468,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 264,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,11 +65,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 390,
+  "EOS_Progressed": 391,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.54,
+  "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -255,6 +255,11 @@
       "Time": "2023-09-14T21:05:43.7452259+00:00",
       "NumProgressed": 390,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-14T22:06:18.5132622+00:00",
+      "NumProgressed": 391,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -264,9 +269,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 344
     },
     {
       "ID": "dep4_achievement_10",
@@ -274,7 +279,7 @@
       "Name": "Sole Music",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "dep4_achievement_11",
@@ -298,7 +303,7 @@
       "Name": "Quickdraw",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "dep4_achievement_14",
@@ -306,7 +311,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "dep4_achievement_15",
@@ -336,9 +341,9 @@
       "ID": "dep4_achievement_18",
       "SetID": "5d32b60",
       "Name": "Chunky",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 196
     },
     {
       "ID": "dep4_achievement_19",
@@ -370,7 +375,7 @@
       "Name": "Photo Friend",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "dep4_achievement_22",
@@ -394,7 +399,7 @@
       "Name": "Thuna...?",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "dep4_achievement_25",
@@ -410,7 +415,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "dep4_achievement_27",
@@ -426,7 +431,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "dep4_achievement_29",
@@ -450,7 +455,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "dep4_achievement_31",
@@ -514,7 +519,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "dep4_achievement_6",
@@ -553,7 +558,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 390,
+      "Progressed": 391,
       "Completed": 6
     }
   ],
@@ -561,8 +566,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-09-14T21:05:43.7452252+00:00",
+  "LastChanged_Achievements": "2023-09-14T22:06:18.5132612+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.2761256+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:00:04.333702+00:00",
-  "LastUpdate_Achievements": "2023-09-14T21:05:43.7452551+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:00:32.6760062+00:00",
+  "LastUpdate_Achievements": "2023-09-14T22:06:18.5133307+00:00"
 }

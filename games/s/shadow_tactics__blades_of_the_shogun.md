@@ -6,28 +6,28 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 11.00% | ~22,231 |
-| A thief's beginning | 10.00% | ~20,210 |
-| Thorough | 10.00% | ~20,210 |
-| Disguised | 8.00% | ~16,168 |
-| Rescue Takuma | 8.00% | ~16,168 |
-| Rollin' | 8.00% | ~16,168 |
-| Tanuki Time | 8.00% | ~16,168 |
-| Ice Ice Yuki | 7.00% | ~14,147 |
-| Jonin | 7.00% | ~14,147 |
-| Stoned Ox | 7.00% | ~14,147 |
-| Yabu | 7.00% | ~14,147 |
-| Chunin | 6.00% | ~12,126 |
-| Flying Rocks | 6.00% | ~12,126 |
-| Happy Planning | 6.00% | ~12,126 |
-| Mugen Unchained | 6.00% | ~12,126 |
-| Warzone | 6.00% | ~12,126 |
-| Okkoto | 5.00% | ~10,105 |
-| Prisoners | 5.00% | ~10,105 |
-| Too Early | 5.00% | ~10,105 |
-| Gear up | 4.00% | ~8,084 |
-| Happy little accidents | 4.00% | ~8,084 |
-| Still Rollin' | 4.00% | ~8,084 |
+| Genin | 11.00% | ~22,232 |
+| A thief's beginning | 10.00% | ~20,211 |
+| Thorough | 10.00% | ~20,211 |
+| Disguised | 8.00% | ~16,169 |
+| Rescue Takuma | 8.00% | ~16,169 |
+| Rollin' | 8.00% | ~16,169 |
+| Tanuki Time | 8.00% | ~16,169 |
+| Ice Ice Yuki | 7.00% | ~14,148 |
+| Jonin | 7.00% | ~14,148 |
+| Stoned Ox | 7.00% | ~14,148 |
+| Yabu | 7.00% | ~14,148 |
+| Chunin | 6.00% | ~12,127 |
+| Flying Rocks | 6.00% | ~12,127 |
+| Happy Planning | 6.00% | ~12,127 |
+| Mugen Unchained | 6.00% | ~12,127 |
+| Warzone | 6.00% | ~12,127 |
+| Okkoto | 5.00% | ~10,106 |
+| Prisoners | 5.00% | ~10,106 |
+| Too Early | 5.00% | ~10,106 |
+| Gear up | 4.00% | ~8,085 |
+| Happy little accidents | 4.00% | ~8,085 |
+| Still Rollin' | 4.00% | ~8,085 |
 | Noboru | 3.00% | ~6,063 |
 | Stoned | 3.00% | ~6,063 |
 | The Old Way | 3.00% | ~6,063 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,102 (Ranked 61)  
+Progressed: 202,113 (Ranked 61)  
 Completed: 79 (0.04%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 79 (0.04%) (Ranked 243)
 | 2023-09-11 | 201,603 | 77 |
 | 2023-09-12 | 201,788 | 79 |
 | 2023-09-13 | 201,952 | 79 |
-| 2023-09-14 | 202,102 | 79 |
+| 2023-09-14 | 202,113 | 79 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
 Sum: 4,752 (Ranked 136)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6028,9 +6028,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136180,
+  "EOS_Progressed": 136184,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21193,6 +21193,11 @@
       "Time": "2023-09-14T21:07:17.3690537+00:00",
       "NumProgressed": 136180,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-14T22:08:08.7564004+00:00",
+      "NumProgressed": 136184,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -21586,9 +21591,9 @@
       "ID": "expansion02",
       "SetID": "anfd17p",
       "Name": "Expansion in Session",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 681
     },
     {
       "ID": "expansion03",
@@ -21986,9 +21991,9 @@
       "ID": "sell02",
       "SetID": "anfd17p",
       "Name": "Black Friday Special",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 681
     },
     {
       "ID": "sell03",
@@ -22099,15 +22104,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136180,
+      "Progressed": 136184,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-14T13:57:26.7031757+00:00",
-  "LastChanged_Achievements": "2023-09-14T21:07:17.3690532+00:00",
+  "LastChanged_Achievements": "2023-09-14T22:08:08.7563999+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-14T20:57:45.1435166+00:00",
-  "LastUpdate_Achievements": "2023-09-14T21:07:17.3692895+00:00"
+  "LastUpdate_Ratings": "2023-09-14T21:57:42.514784+00:00",
+  "LastUpdate_Achievements": "2023-09-14T22:08:08.7566596+00:00"
 }

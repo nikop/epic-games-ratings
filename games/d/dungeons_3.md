@@ -6,40 +6,40 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 69.00% | ~20,946 |
-| The Evilest Evil | 58.00% | ~17,607 |
-| Twistram is devastated | 57.00% | ~17,303 |
-| The Gehenna Stones | 49.00% | ~14,875 |
-| No one has to die today! | 46.00% | ~13,964 |
-| Death and destruction! | 45.00% | ~13,661 |
+| The Shadow strikes | 69.00% | ~20,948 |
+| The Evilest Evil | 58.00% | ~17,608 |
+| Twistram is devastated | 57.00% | ~17,305 |
+| The Gehenna Stones | 49.00% | ~14,876 |
+| No one has to die today! | 46.00% | ~13,965 |
+| Death and destruction! | 45.00% | ~13,662 |
 | The Swamplanders from the swamplands | 43.00% | ~13,054 |
-| Rusty Steel | 41.00% | ~12,446 |
-| The One-Huge-Army-Building Evil | 40.00% | ~12,143 |
-| The last burger | 37.00% | ~11,232 |
-| Braiiiiins! | 37.00% | ~11,232 |
+| Rusty Steel | 41.00% | ~12,447 |
+| The One-Huge-Army-Building Evil | 40.00% | ~12,144 |
+| The last burger | 37.00% | ~11,233 |
+| Braiiiiins! | 37.00% | ~11,233 |
 | Hands off the Dungeonheart! | 36.00% | ~10,929 |
-| A trip on sea, what fun it can be | 34.00% | ~10,321 |
+| A trip on sea, what fun it can be | 34.00% | ~10,322 |
 | Damned good | 33.00% | ~10,018 |
 | Stock Market Crash | 31.00% | ~9,411 |
 | Factory farming | 31.00% | ~9,411 |
-| Not-So-Overproud | 30.00% | ~9,107 |
+| Not-So-Overproud | 30.00% | ~9,108 |
 | For a handfull of Catapults | 29.00% | ~8,804 |
 | Shadow hunter | 29.00% | ~8,804 |
-| Ogre Solo! | 28.00% | ~8,500 |
-| Thirst quencher | 27.00% | ~8,196 |
+| Ogre Solo! | 28.00% | ~8,501 |
+| Thirst quencher | 27.00% | ~8,197 |
 | Destroy the thing | 26.00% | ~7,893 |
 | Tide Master | 26.00% | ~7,893 |
-| Difficult family relationships | 25.00% | ~7,589 |
+| Difficult family relationships | 25.00% | ~7,590 |
 | MASS-O-BOT | 24.00% | ~7,286 |
 | Prepare the grave | 24.00% | ~7,286 |
 | Angel of Fire | 24.00% | ~7,286 |
-| Where there is Light, there is Shadow | 23.00% | ~6,982 |
+| Where there is Light, there is Shadow | 23.00% | ~6,983 |
 | At the foot of Mount Destiny | 22.00% | ~6,679 |
 | The Force disturbed | 21.00% | ~6,375 |
-| The Victorious Evil | 20.00% | ~6,071 |
+| The Victorious Evil | 20.00% | ~6,072 |
 | Chorus of damnation | 19.00% | ~5,768 |
 | We don’t have time! | 19.00% | ~5,768 |
-| The Stones’ Power | 18.00% | ~5,464 |
+| The Stones’ Power | 18.00% | ~5,465 |
 | Flat as a pancake | 17.00% | ~5,161 |
 | Lifeguard | 17.00% | ~5,161 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~4,554 |
@@ -55,9 +55,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | Can’t stand to see an Ogre bleed | 8.00% | ~2,429 |
 | Lifesaver | 8.00% | ~2,429 |
 | Hearts are trump | 7.00% | ~2,125 |
-| Spawner Killer | 6.00% | ~1,821 |
-| A little something extra | 6.00% | ~1,821 |
-| The Benevolent Evil | 6.00% | ~1,821 |
+| Spawner Killer | 6.00% | ~1,822 |
+| A little something extra | 6.00% | ~1,822 |
+| The Benevolent Evil | 6.00% | ~1,822 |
 | Band of Brothers | 5.00% | ~1,518 |
 | Night of the Living Dead (on Speed) | 4.00% | ~1,214 |
 | I need a hero! | 4.00% | ~1,214 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~607 |
 | Sacrifices! | 2.00% | ~607 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,357 (Ranked 103)  
+Progressed: 30,359 (Ranked 103)  
 Completed: 249 (0.82%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,10 +214,10 @@ Completed: 249 (0.82%) (Ranked 133)
 | 2023-09-11 | 30,140 | 245 |
 | 2023-09-12 | 30,221 | 249 |
 | 2023-09-13 | 30,282 | 249 |
-| 2023-09-14 | 30,357 | 249 |
+| 2023-09-14 | 30,359 | 249 |
 ## Awards
 Max (Great for Beginners): 345  (Ranked 228)  
-Sum: 2,636 (Ranked 175)  
+Sum: 2,637 (Ranked 175)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
@@ -228,7 +228,7 @@ Diff (max vs sum): 53
 | This game is Highly Recommended | 290 |
 | This game has Amazing Characters | 284 |
 | This game is Relaxing | 275 |
-| This game has Diverse Characters | 273 |
+| This game has Diverse Characters | 274 |
 | This game has Playful Visuals | 257 |
 | This game has Obsessive Gameplay | 189 |
 | This game has a Silly Community | 24 |
@@ -405,4 +405,4 @@ Diff (max vs sum): 53
 | 2023-09-02 | 4.66 | - | 343 | 2,630 |
 | 2023-09-04 | 4.66 | - | 344 | 2,631 |
 | 2023-09-11 | 4.66 | - | 345 | 2,635 |
-| 2023-09-14 | 4.66 | - | 345 | 2,636 |
+| 2023-09-14 | 4.66 | - | 345 | 2,637 |

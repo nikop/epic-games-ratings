@@ -74,6 +74,7 @@
 | Galactic Ensign | 2.00% | ~1 |
 | Rambo V | 2.00% | ~1 |
 | Space Magellan | 2.00% | ~1 |
+| Golden Alchemist | 2.00% | ~1 |
 | System Admiral | 2.00% | ~1 |
 | Sectoral Admiral | 2.00% | ~1 |
 | Golden BBQ | 2.00% | ~1 |
@@ -81,6 +82,7 @@
 | Usurper III | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
+| Silver Tovarish | 2.00% | ~1 |
 | Silver Alchemist | 2.00% | ~1 |
 | Silver BBQ | 2.00% | ~1 |
 | Collateral Damage III | 2.00% | ~1 |
@@ -110,7 +112,6 @@
 | U.N. Squadron III | 0.00% | ~0 |
 | Golden Tovarish | 0.00% | ~0 |
 | Archer's Golden Fate | 0.00% | ~0 |
-| Golden Alchemist | 0.00% | ~0 |
 | Magic Golden mirror; on the wall | 0.00% | ~0 |
 | Galactic Admiral | 0.00% | ~0 |
 | Universal Admiral | 0.00% | ~0 |
@@ -123,7 +124,6 @@
 | Five-O | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
 | Galactic Major | 0.00% | ~0 |
-| Silver Tovarish | 0.00% | ~0 |
 | Archer's Silver Fate | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |

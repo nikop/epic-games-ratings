@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,788 (Ranked 55)  
+Progressed: 228,793 (Ranked 55)  
 Completed: 2,279 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -674,7 +674,7 @@ Completed: 2,279 (1.00%) (Ranked 123)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,788 | 2,279 |
+| 2023-09-14 | 228,793 | 2,279 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
 Sum: 31,581 (Ranked 39)  

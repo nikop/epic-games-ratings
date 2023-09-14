@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -494,9 +494,9 @@
       "ID": "ACH_FIRSTLOVE",
       "SetID": "8h8m55b",
       "Name": "First Love",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_FIVE_STARS",
@@ -781,8 +781,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-09-14T21:07:31.7603731+00:00",
+  "LastChanged_Achievements": "2023-09-14T22:08:27.6635976+00:00",
   "LastUpdate_AppInfo": "2023-09-12T13:01:55.1897043+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:00:32.4006358+00:00",
-  "LastUpdate_Achievements": "2023-09-14T21:07:31.76042+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:01:04.508485+00:00",
+  "LastUpdate_Achievements": "2023-09-14T22:08:27.6636857+00:00"
 }

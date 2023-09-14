@@ -2,10 +2,10 @@
   "ID": "5f9bc84018a34cf1a670234be578e4dd",
   "Name": "Access Denied Escape",
   "ProductSlug": "access-denied-escape-1d486e",
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 169,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 23.64,
+  "EOS_Completed_Percentage": 23.08,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -846,6 +846,11 @@
       "Time": "2023-09-14T21:06:13.2012104+00:00",
       "NumProgressed": 165,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-09-14T22:06:52.4254158+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -856,7 +861,7 @@
       "ID": "AllSafes",
       "SetID": "7jbi7el",
       "Name": "Safe Cracker",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
       "UsersEstimate": 66
     },
@@ -864,15 +869,15 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
       "UsersEstimate": 79
     },
@@ -882,7 +887,7 @@
       "Name": "Accident",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "FirstBox",
@@ -890,29 +895,29 @@
       "Name": "Test Task",
       "Percentage": 98,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 166
     },
     {
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 70,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 70,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "GameComplete",
       "SetID": "7jbi7el",
       "Name": "Savior",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 100,
       "UsersEstimate": 74
     },
@@ -920,7 +925,7 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
       "UsersEstimate": 69
     },
@@ -930,13 +935,13 @@
       "Name": "Something is wrong here",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Hologram",
       "SetID": "7jbi7el",
       "Name": "Holographic Scanner",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 70,
       "UsersEstimate": 86
     },
@@ -944,15 +949,15 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 78,
+      "Percentage": 76,
       "XP": 70,
-      "UsersEstimate": 129
+      "UsersEstimate": 128
     },
     {
       "ID": "SecretRoom",
       "SetID": "7jbi7el",
       "Name": "Researcher",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 80,
       "UsersEstimate": 76
     },
@@ -960,7 +965,7 @@
       "ID": "Synthesis",
       "SetID": "7jbi7el",
       "Name": "Beginner Chemist",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 80,
       "UsersEstimate": 74
     }
@@ -969,14 +974,14 @@
     {
       "ID": "7jbi7el",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 169,
       "Completed": 39
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-14T21:06:13.2012097+00:00",
+  "LastChanged_Achievements": "2023-09-14T22:06:52.4254153+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:00:00.762283+00:00",
-  "LastUpdate_Achievements": "2023-09-14T21:06:13.2012262+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:00:27.6273831+00:00",
+  "LastUpdate_Achievements": "2023-09-14T22:06:52.4254368+00:00"
 }

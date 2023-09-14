@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -935,9 +935,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
@@ -950,8 +950,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-14T21:07:05.7663411+00:00",
+  "LastChanged_Achievements": "2023-09-14T22:07:55.1258012+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-14T20:58:33.6089591+00:00",
-  "LastUpdate_Achievements": "2023-09-14T21:07:05.7663664+00:00"
+  "LastUpdate_Ratings": "2023-09-14T21:58:41.7347843+00:00",
+  "LastUpdate_Achievements": "2023-09-14T22:07:55.1258238+00:00"
 }

@@ -10,7 +10,7 @@
 | The Real Beginning | 61.00% | ~14 |
 | Shook Up | 52.00% | ~12 |
 | The Birds and the Bees | 52.00% | ~12 |
-| Vaccinated | 48.00% | ~11 |
+| Vaccinated | 52.00% | ~12 |
 | Task Master | 43.00% | ~10 |
 | A Light in the Dark | 39.00% | ~9 |
 | Busybody | 39.00% | ~9 |

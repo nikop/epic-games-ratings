@@ -5,7 +5,7 @@
   "Ranking_Rating": 602,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 279,
-  "Ranking_EOS_Progress": 135,
+  "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 106,
@@ -1245,9 +1245,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8991,
+  "EOS_Progressed": 8992,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12810,6 +12810,11 @@
       "Time": "2023-09-14T20:04:45.3336804+00:00",
       "NumProgressed": 8991,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T22:04:33.6968566+00:00",
+      "NumProgressed": 8992,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -12829,7 +12834,7 @@
       "Name": "Friendly",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "11",
@@ -12837,7 +12842,7 @@
       "Name": "Really Friendly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "12",
@@ -12853,7 +12858,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4765
+      "UsersEstimate": 4766
     },
     {
       "ID": "14",
@@ -12869,7 +12874,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "16",
@@ -12877,7 +12882,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3686
+      "UsersEstimate": 3687
     },
     {
       "ID": "17",
@@ -12901,7 +12906,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4675
+      "UsersEstimate": 4676
     },
     {
       "ID": "2",
@@ -12925,7 +12930,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "22",
@@ -12957,7 +12962,7 @@
       "Name": "Cleaner",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "26",
@@ -12965,7 +12970,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "27",
@@ -13029,7 +13034,7 @@
       "Name": "Around the World",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "34",
@@ -13061,7 +13066,7 @@
       "Name": "Spreading Influence",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "38",
@@ -13085,7 +13090,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "40",
@@ -13205,7 +13210,7 @@
       "Name": "Amped Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "54",
@@ -13292,15 +13297,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8991,
+      "Progressed": 8992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-12T15:58:32.1016981+00:00",
-  "LastChanged_Achievements": "2023-09-14T21:04:16.0747203+00:00",
+  "LastChanged_Achievements": "2023-09-14T22:04:33.6968558+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.3176455+00:00",
-  "LastUpdate_Ratings": "2023-09-14T20:59:26.5027538+00:00",
-  "LastUpdate_Achievements": "2023-09-14T21:04:16.0748467+00:00"
+  "LastUpdate_Ratings": "2023-09-14T21:59:47.1186135+00:00",
+  "LastUpdate_Achievements": "2023-09-14T22:04:33.6970817+00:00"
 }
