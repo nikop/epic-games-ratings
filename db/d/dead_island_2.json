@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 22,
@@ -4482,7 +4482,7 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 679385,
+  "EOS_Progressed": 679392,
   "EOS_Completed": 2143,
   "EOS_NewPlayers": 4540,
   "EOS_NewCompleters": 24,
@@ -20902,6 +20902,11 @@
       "Time": "2023-09-14T01:44:13.9551139+00:00",
       "NumProgressed": 679385,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-14T02:18:44.9281848+00:00",
+      "NumProgressed": 679392,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -20937,7 +20942,7 @@
       "Name": "Anger Management",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -20961,7 +20966,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "ach_bookworm",
@@ -20993,7 +20998,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6114
+      "UsersEstimate": 6115
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -21272,22 +21277,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 679385,
+      "Progressed": 679392,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 4926,
-      "Completed": 4926
+      "Progressed": 4933,
+      "Completed": 4933
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-13T22:57:52.254035+00:00",
-  "LastChanged_Achievements": "2023-09-14T01:44:13.9551134+00:00",
+  "LastChanged_Achievements": "2023-09-14T02:18:44.9281842+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-14T01:38:11.1507083+00:00",
-  "LastUpdate_Achievements": "2023-09-14T01:44:13.9552482+00:00"
+  "LastUpdate_Ratings": "2023-09-14T02:12:43.3780294+00:00",
+  "LastUpdate_Achievements": "2023-09-14T02:18:44.9283537+00:00"
 }

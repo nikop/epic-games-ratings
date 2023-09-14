@@ -2,7 +2,7 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 67,
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142971,
+  "EOS_Progressed": 142973,
   "EOS_Completed": 270,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1335,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -10759,6 +10759,11 @@
       "Time": "2023-09-14T01:49:19.5158542+00:00",
       "NumProgressed": 142971,
       "NumCompleted": 270
+    },
+    {
+      "Time": "2023-09-14T02:23:46.2109846+00:00",
+      "NumProgressed": 142973,
+      "NumCompleted": 270
     }
   ],
   "TotalAchievements": 31,
@@ -10778,7 +10783,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 98650
+      "UsersEstimate": 98651
     },
     {
       "ID": "EAwards_10",
@@ -10794,7 +10799,7 @@
       "Name": "Pollo Power",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 28594
+      "UsersEstimate": 28595
     },
     {
       "ID": "EAwards_12",
@@ -10802,7 +10807,7 @@
       "Name": "Last Straw",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 22875
+      "UsersEstimate": 22876
     },
     {
       "ID": "EAwards_13",
@@ -10954,7 +10959,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 27164
+      "UsersEstimate": 27165
     },
     {
       "ID": "EAwards_30",
@@ -10962,7 +10967,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12867
+      "UsersEstimate": 12868
     },
     {
       "ID": "EAwards_4",
@@ -11002,7 +11007,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 52899
+      "UsersEstimate": 52900
     },
     {
       "ID": "EAwards_9",
@@ -11017,7 +11022,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 142971,
+      "Progressed": 142973,
       "Completed": 270
     }
   ],
@@ -11025,8 +11030,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-09-12T09:59:33.6411689+00:00",
-  "LastChanged_Achievements": "2023-09-14T01:49:19.5158537+00:00",
+  "LastChanged_Achievements": "2023-09-14T02:23:46.2109839+00:00",
   "LastUpdate_AppInfo": "2023-09-07T23:56:54.7486031+00:00",
-  "LastUpdate_Ratings": "2023-09-14T01:40:37.8042145+00:00",
-  "LastUpdate_Achievements": "2023-09-14T01:49:19.5159416+00:00"
+  "LastUpdate_Ratings": "2023-09-14T02:16:13.9624416+00:00",
+  "LastUpdate_Achievements": "2023-09-14T02:23:46.2110916+00:00"
 }

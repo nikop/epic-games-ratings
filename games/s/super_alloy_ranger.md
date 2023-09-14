@@ -14,8 +14,8 @@
 | Stop Right There | 31.00% | ~26 |
 | Get to the Point | 30.00% | ~25 |
 | Mr. Want It All | 17.00% | ~14 |
+| Toe to Toe | 17.00% | ~14 |
 | The Hidden Secret | 16.00% | ~13 |
-| Toe to Toe | 16.00% | ~13 |
 | Phew! | 16.00% | ~13 |
 | The Abyss Conqueror | 11.00% | ~9 |
 | Grand Escape | 11.00% | ~9 |
@@ -29,11 +29,11 @@
 | he Ultra Fortress Conqueror | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
 | The Sunken City Conqueror | 5.00% | ~4 |
+| The Zero Dimensional Capital Conqueror | 5.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~4 |
 | Rapidfire | 5.00% | ~4 |
 | Air Interception | 5.00% | ~4 |
 | Hell of a Fight | 5.00% | ~4 |
-| The Zero Dimensional Capital Conqueror | 4.00% | ~3 |
 | The Inactivated Frozen Conqueror | 4.00% | ~3 |
 | Death Bringer Conqueror | 4.00% | ~3 |
 | Space Ranger: Prologue | 4.00% | ~3 |

@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,715 |
-| Let There Be Light | 33.00% | ~21,502 |
-| Float Like a Butterfly | 32.00% | ~20,851 |
+| Follow the Light | 41.00% | ~26,716 |
+| Let There Be Light | 33.00% | ~21,503 |
+| Float Like a Butterfly | 32.00% | ~20,852 |
 | Nordic Walking | 25.00% | ~16,290 |
 | Bright Falls' Finest | 25.00% | ~16,290 |
 | Under a Thin Layer of Skin | 22.00% | ~14,335 |
-| Park Ranger | 18.00% | ~11,728 |
-| Paging Mr. Wake | 18.00% | ~11,728 |
+| Park Ranger | 18.00% | ~11,729 |
+| Paging Mr. Wake | 18.00% | ~11,729 |
 | Back! Back, I Say! | 17.00% | ~11,077 |
 | Finders Keepers | 17.00% | ~11,077 |
 | Sound and Fury | 15.00% | ~9,774 |
 | Missed by a Mile | 15.00% | ~9,774 |
 | Damn Good Cup of Coffee | 15.00% | ~9,774 |
-| Wheels Within Wheels | 14.00% | ~9,122 |
-| They're Heeeeeere! | 14.00% | ~9,122 |
-| The Six-Gun Scribe | 14.00% | ~9,122 |
+| Wheels Within Wheels | 14.00% | ~9,123 |
+| They're Heeeeeere! | 14.00% | ~9,123 |
+| The Six-Gun Scribe | 14.00% | ~9,123 |
 | Heavy Metal | 13.00% | ~8,471 |
 | Iron Horse | 13.00% | ~8,471 |
 | Collateral Carnage | 13.00% | ~8,471 |
@@ -29,17 +29,17 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 12.00% | ~7,819 |
 | It's Not Just a Typewriter Brand | 12.00% | ~7,819 |
 | Thunder and Lightning | 12.00% | ~7,819 |
-| Gatekeeper | 11.00% | ~7,167 |
-| Two For the Price of One | 11.00% | ~7,167 |
-| Energized! | 11.00% | ~7,167 |
+| Gatekeeper | 11.00% | ~7,168 |
+| Two For the Price of One | 11.00% | ~7,168 |
+| Energized! | 11.00% | ~7,168 |
 | The Lady of the Light | 10.00% | ~6,516 |
 | What Light Through Yonder Window | 9.00% | ~5,864 |
 | Right of Way | 9.00% | ~5,864 |
 | Tornado Wrangler | 8.00% | ~5,213 |
 | A Friend in Need | 8.00% | ~2,290 |
 | Departure | 7.00% | ~4,561 |
-| Drink 'Em Both Up | 6.00% | ~3,909 |
-| Hardboiled Writer | 6.00% | ~3,909 |
+| Drink 'Em Both Up | 6.00% | ~3,910 |
+| Hardboiled Writer | 6.00% | ~3,910 |
 | A Friend Indeed | 6.00% | ~1,718 |
 | Children of the Elder God | 5.00% | ~3,258 |
 | Ding! | 5.00% | ~1,431 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~65 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,158 (Ranked 87)  
+Progressed: 65,161 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 65 (0.10%) (Ranked 220)
 | 2023-09-11 | 64,651 | 65 |
 | 2023-09-12 | 64,967 | 65 |
 | 2023-09-13 | 65,148 | 65 |
-| 2023-09-14 | 65,158 | 65 |
+| 2023-09-14 | 65,161 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

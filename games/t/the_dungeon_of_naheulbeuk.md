@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,823 (Ranked 57)  
+Progressed: 223,824 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 2 (0.00%) (Ranked 274)
 | 2023-09-11 | 223,344 | 2 |
 | 2023-09-12 | 223,556 | 2 |
 | 2023-09-13 | 223,808 | 2 |
-| 2023-09-14 | 223,823 | 2 |
+| 2023-09-14 | 223,824 | 2 |
 ## Awards
 Max (Character Customization): 194  (Ranked 275)  
 Sum: 313 (Ranked 338)  

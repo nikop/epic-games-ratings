@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2523,
+  "EOS_Progressed": 2524,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5771,6 +5771,11 @@
       "Time": "2023-09-13T22:05:52.0280033+00:00",
       "NumProgressed": 2523,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T02:20:19.6743076+00:00",
+      "NumProgressed": 2524,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5957,14 +5962,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2523,
+      "Progressed": 2524,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-14T01:45:21.3361105+00:00",
+  "LastChanged_Achievements": "2023-09-14T02:20:19.6743067+00:00",
   "LastUpdate_AppInfo": "2023-09-13T01:39:00.1699898+00:00",
-  "LastUpdate_Ratings": "2023-09-14T01:40:35.6880294+00:00",
-  "LastUpdate_Achievements": "2023-09-14T01:45:21.3361549+00:00"
+  "LastUpdate_Ratings": "2023-09-14T02:16:11.0065785+00:00",
+  "LastUpdate_Achievements": "2023-09-14T02:20:19.6743698+00:00"
 }

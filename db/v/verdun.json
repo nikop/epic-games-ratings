@@ -1724,7 +1724,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 58102,
+  "EOS_Progressed": 58103,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
@@ -17739,6 +17739,11 @@
       "Time": "2023-09-14T01:45:19.5683621+00:00",
       "NumProgressed": 58102,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-09-14T02:20:17.4415343+00:00",
+      "NumProgressed": 58103,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -17750,7 +17755,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 31956
+      "UsersEstimate": 31957
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -17870,7 +17875,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13944
+      "UsersEstimate": 13945
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -18038,7 +18043,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 36604
+      "UsersEstimate": 36605
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -18062,7 +18067,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 13944
+      "UsersEstimate": 13945
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -18221,15 +18226,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 58102,
+      "Progressed": 58103,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-09-13T14:57:58.2990191+00:00",
-  "LastChanged_Achievements": "2023-09-14T01:45:19.5683613+00:00",
+  "LastChanged_Achievements": "2023-09-14T02:20:17.4415337+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6621322+00:00",
-  "LastUpdate_Ratings": "2023-09-14T01:38:14.866491+00:00",
-  "LastUpdate_Achievements": "2023-09-14T01:45:19.5685116+00:00"
+  "LastUpdate_Ratings": "2023-09-14T02:12:49.0528148+00:00",
+  "LastUpdate_Achievements": "2023-09-14T02:20:17.4417189+00:00"
 }

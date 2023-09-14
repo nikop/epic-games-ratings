@@ -6,14 +6,14 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~27,979 |
-| Final touch | 37.00% | ~27,979 |
-| Prop-M Rover | 32.00% | ~24,198 |
+| It's a steal! | 37.00% | ~27,981 |
+| Final touch | 37.00% | ~27,981 |
+| Prop-M Rover | 32.00% | ~24,199 |
 | Changing the Planet | 28.00% | ~21,174 |
-| Sojourner | 26.00% | ~19,661 |
-| Beagle 2 | 24.00% | ~18,149 |
+| Sojourner | 26.00% | ~19,662 |
+| Beagle 2 | 24.00% | ~18,150 |
 | New Home | 23.00% | ~17,393 |
-| Winner Winner Terraformer | 22.00% | ~16,636 |
+| Winner Winner Terraformer | 22.00% | ~16,637 |
 | Project Manager | 19.00% | ~14,368 |
 | Curiosity | 19.00% | ~14,368 |
 | Collector | 19.00% | ~14,368 |
@@ -23,11 +23,11 @@ Number of Ratings: 2,731  (23.09.2022)
 | Money money | 15.00% | ~11,343 |
 | Biggest Reward | 14.00% | ~10,587 |
 | Acquired knowledge | 13.00% | ~9,831 |
-| First Journey | 12.00% | ~9,074 |
-| Hellenic Elysium | 12.00% | ~9,074 |
-| Grand champion | 12.00% | ~9,074 |
-| Landlord | 11.00% | ~8,318 |
-| Most Achievements | 11.00% | ~8,318 |
+| First Journey | 12.00% | ~9,075 |
+| Hellenic Elysium | 12.00% | ~9,075 |
+| Grand champion | 12.00% | ~9,075 |
+| Landlord | 11.00% | ~8,319 |
+| Most Achievements | 11.00% | ~8,319 |
 | Spirit | 10.00% | ~7,562 |
 | Ultimate success | 10.00% | ~7,562 |
 | Variety Expert | 9.00% | ~6,806 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,269 |
 | Opportunity | 3.00% | ~2,269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,620 (Ranked 79)  
+Progressed: 75,623 (Ranked 79)  
 Completed: 101 (0.13%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 101 (0.13%) (Ranked 212)
 | 2023-09-11 | 75,424 | 100 |
 | 2023-09-12 | 75,516 | 100 |
 | 2023-09-13 | 75,610 | 101 |
-| 2023-09-14 | 75,620 | 101 |
+| 2023-09-14 | 75,623 | 101 |
 ## Awards
 Max (Relaxing): 513  (Ranked 199)  
 Sum: 3,158 (Ranked 163)  

@@ -5,27 +5,27 @@ Rating: 3.93 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 70.00% | ~60,914 |
-| First One’s Free | 61.00% | ~53,082 |
-| Neophyte Ninja | 48.00% | ~41,770 |
+| Downed but Not Outed | 70.00% | ~60,915 |
+| First One’s Free | 61.00% | ~53,083 |
+| Neophyte Ninja | 48.00% | ~41,771 |
 | Too Old for This | 43.00% | ~37,419 |
-| Fancy Pants | 32.00% | ~27,846 |
-| Case Closed | 30.00% | ~26,106 |
-| King of the Hill | 30.00% | ~26,106 |
-| Underworld Initiate | 26.00% | ~22,625 |
+| Fancy Pants | 32.00% | ~27,847 |
+| Case Closed | 30.00% | ~26,107 |
+| King of the Hill | 30.00% | ~26,107 |
+| Underworld Initiate | 26.00% | ~22,626 |
 | Roid Ranger | 19.00% | ~16,534 |
-| Off the Rocks | 17.00% | ~14,793 |
-| True Player | 16.00% | ~13,923 |
-| Dragonslayer | 16.00% | ~13,923 |
+| Off the Rocks | 17.00% | ~14,794 |
+| True Player | 16.00% | ~13,924 |
+| Dragonslayer | 16.00% | ~13,924 |
 | Raider’s Ruin | 15.00% | ~13,053 |
-| Hidden Sonata | 12.00% | ~10,442 |
+| Hidden Sonata | 12.00% | ~10,443 |
 | Rockay Rex | 10.00% | ~8,702 |
 | Freebooter | 9.00% | ~7,832 |
 | Track Star | 8.00% | ~6,962 |
 | Headhunter | 8.00% | ~6,962 |
 | Classy Joint | 8.00% | ~6,962 |
-| I Like Trains | 7.00% | ~6,091 |
-| Ding Dong | 7.00% | ~6,091 |
+| I Like Trains | 7.00% | ~6,092 |
+| Ding Dong | 7.00% | ~6,092 |
 | Foo Finder | 6.00% | ~5,221 |
 | Savvy Seeker | 5.00% | ~4,351 |
 | Legend Looter | 4.00% | ~3,481 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 958)
 | Geek Out | 0.50% | ~435 |
 | Full House | 0.20% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,020 (Ranked 76)  
+Progressed: 87,022 (Ranked 76)  
 Completed: 45 (0.05%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 45 (0.05%) (Ranked 238)
 | 2023-09-11 | 86,691 | 44 |
 | 2023-09-12 | 86,879 | 45 |
 | 2023-09-13 | 87,015 | 45 |
-| 2023-09-14 | 87,020 | 45 |
+| 2023-09-14 | 87,022 | 45 |
 ## Awards
 Max (Diverse Characters): 435  (Ranked 209)  
 Sum: 2,055 (Ranked 200)  

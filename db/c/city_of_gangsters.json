@@ -607,9 +607,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 343043,
+  "EOS_Progressed": 343044,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16942,6 +16942,11 @@
       "Time": "2023-09-14T01:45:04.4653809+00:00",
       "NumProgressed": 343043,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-14T02:19:57.3383035+00:00",
+      "NumProgressed": 343044,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -17041,7 +17046,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27443
+      "UsersEstimate": 27444
     },
     {
       "ID": "ach013",
@@ -17057,7 +17062,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 51456
+      "UsersEstimate": 51457
     },
     {
       "ID": "ach015",
@@ -17089,7 +17094,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27443
+      "UsersEstimate": 27444
     },
     {
       "ID": "ach019",
@@ -17592,7 +17597,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 343043,
+      "Progressed": 343044,
       "Completed": 7
     }
   ],
@@ -17600,8 +17605,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-09-10T15:00:51.2490982+00:00",
-  "LastChanged_Achievements": "2023-09-14T01:45:04.4653804+00:00",
+  "LastChanged_Achievements": "2023-09-14T02:19:57.3383029+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.4625907+00:00",
-  "LastUpdate_Ratings": "2023-09-14T01:37:44.637589+00:00",
-  "LastUpdate_Achievements": "2023-09-14T01:45:04.4655821+00:00"
+  "LastUpdate_Ratings": "2023-09-14T02:12:06.6147235+00:00",
+  "LastUpdate_Achievements": "2023-09-14T02:19:57.3384954+00:00"
 }

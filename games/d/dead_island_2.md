@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 502)  
+Rating: 4.54 (Ranked 501)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,9 +27,9 @@ Rating: 4.54 (Ranked 502)
 | Stacking the Deck | 1.00% | ~6,794 |
 | Our True Nature | 1.00% | ~6,794 |
 | This is My Weapon | 1.00% | ~6,794 |
-| Anger Management | 0.90% | ~6,114 |
-| Perks of the Job | 0.90% | ~6,114 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,114 |
+| Anger Management | 0.90% | ~6,115 |
+| Perks of the Job | 0.90% | ~6,115 |
+| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,115 |
 | Making Your Mark | 0.80% | ~5,435 |
 | Humanity Distilled | 0.80% | ~5,435 |
 | Down with the Sickness | 0.70% | ~4,756 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~679 |
 | Bucket List | 0.10% | ~679 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,385 (Ranked 22)  
+Progressed: 679,392 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 2,143 (0.32%) (Ranked 177)
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
-| 2023-09-14 | 679,385 | 2,143 |
+| 2023-09-14 | 679,392 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,027  (Ranked 57)  
 Sum: 8,924 (Ranked 94)  

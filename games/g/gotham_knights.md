@@ -5,11 +5,11 @@ Rating: 4.18 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,702 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,376 |
-| Loose Ends | 34.00% | ~24,651 |
-| To the Victor Go the Spoils | 28.00% | ~20,301 |
-| Knighthood | 27.00% | ~19,576 |
+| First Step Into the Knight | 52.00% | ~37,703 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,377 |
+| Loose Ends | 34.00% | ~24,652 |
+| To the Victor Go the Spoils | 28.00% | ~20,302 |
+| Knighthood | 27.00% | ~19,577 |
 | Get ReQ'd | 25.00% | ~18,126 |
 | Whispered Words | 25.00% | ~18,126 |
 | The Batman Family | 23.00% | ~16,676 |
@@ -22,21 +22,21 @@ Rating: 4.18 (Ranked 882)
 | Snow Problem | 19.00% | ~13,776 |
 | The Show Mud Go On | 18.00% | ~13,051 |
 | From Inside Gotham's Walls | 17.00% | ~12,326 |
-| Protector of Gotham | 16.00% | ~11,600 |
-| Universal Health Scare | 16.00% | ~11,600 |
-| In Your Element | 15.00% | ~10,875 |
-| Rock and a Hard Place | 14.00% | ~10,150 |
-| Cooldown | 14.00% | ~10,150 |
-| Voiceless | 14.00% | ~10,150 |
-| Not On My Watch | 13.00% | ~9,425 |
-| Shock Til They Drop | 13.00% | ~9,425 |
-| Seeking Asylum | 13.00% | ~9,425 |
-| End of an Era | 12.00% | ~8,700 |
-| Bulldozed | 12.00% | ~8,700 |
-| Gotham Knight | 12.00% | ~8,700 |
-| Gotham City Confidential | 11.00% | ~7,975 |
-| Drone You Out | 9.00% | ~6,525 |
-| Solid Alibi | 9.00% | ~6,525 |
+| Protector of Gotham | 16.00% | ~11,601 |
+| Universal Health Scare | 16.00% | ~11,601 |
+| In Your Element | 15.00% | ~10,876 |
+| Rock and a Hard Place | 14.00% | ~10,151 |
+| Cooldown | 14.00% | ~10,151 |
+| Voiceless | 14.00% | ~10,151 |
+| Not On My Watch | 13.00% | ~9,426 |
+| Shock Til They Drop | 13.00% | ~9,426 |
+| Seeking Asylum | 13.00% | ~9,426 |
+| End of an Era | 12.00% | ~8,701 |
+| Bulldozed | 12.00% | ~8,701 |
+| Gotham Knight | 12.00% | ~8,701 |
+| Gotham City Confidential | 11.00% | ~7,976 |
+| Drone You Out | 10.00% | ~7,251 |
+| Solid Alibi | 9.00% | ~6,526 |
 | Out of Their League | 8.00% | ~5,800 |
 | Fusion Expert | 7.00% | ~5,075 |
 | Family Meeting | 6.00% | ~4,350 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 882)
 | Claiming the Mural High Ground | 1.00% | ~725 |
 | History Major | 0.80% | ~580 |
 | A Sophisticated Mallet | 0.80% | ~342 |
-| Icebreaker | 0.70% | ~299 |
+| Icebreaker | 0.70% | ~300 |
 | Read Owl About It | 0.70% | ~508 |
 | Don't Mecha Big Deal About It | 0.60% | ~257 |
 | Gotham's Greatest Depths | 0.50% | ~214 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 882)
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,503 (Ranked 82)  
+Progressed: 72,506 (Ranked 82)  
 Completed: 113 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,10 +214,10 @@ Completed: 113 (0.16%) (Ranked 203)
 | 2023-09-11 | 72,434 | 112 |
 | 2023-09-12 | 72,474 | 113 |
 | 2023-09-13 | 72,499 | 113 |
-| 2023-09-14 | 72,503 | 113 |
+| 2023-09-14 | 72,506 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,657  (Ranked 97)  
-Sum: 4,408 (Ranked 139)  
+Sum: 4,410 (Ranked 139)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -226,8 +226,8 @@ Diff (max vs sum): -42
 | This game has Quickly Understood Controls | 224 |
 | This game has Diverse Characters | 221 |
 | This game is Relaxing | 220 |
+| This game has Amazing Characters | 218 |
 | This game is Great for Beginners | 217 |
-| This game has Amazing Characters | 216 |
 | This game is Highly Recommended | 214 |
 | This game has Amazing Storytelling | 212 |
 | This game is Great for Quick Sessions | 60 |
@@ -435,4 +435,4 @@ Diff (max vs sum): -42
 | 2023-09-11 | 4.18 | 2,638 | 4,379 |
 | 2023-09-12 | 4.18 | 2,648 | 4,392 |
 | 2023-09-13 | 4.18 | 2,657 | 4,405 |
-| 2023-09-14 | 4.18 | 2,657 | 4,408 |
+| 2023-09-14 | 4.18 | 2,657 | 4,410 |

@@ -6,34 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~43,798 |
-| Zealous | 4.00% | ~35,039 |
-| Skillful | 4.00% | ~35,039 |
-| Handyman | 3.00% | ~26,279 |
-| Not half bad | 3.00% | ~26,279 |
-| Apt Survivor | 3.00% | ~26,279 |
-| Survival Treasures | 3.00% | ~26,279 |
-| Sorted | 3.00% | ~26,279 |
-| Make Some Noise | 3.00% | ~26,279 |
-| The Grand Sacrifice | 2.00% | ~17,519 |
-| Agonizing Escape | 2.00% | ~17,519 |
-| Backdoor Escape | 2.00% | ~17,519 |
-| I've got your back | 2.00% | ~17,519 |
-| No one left behind | 2.00% | ~17,519 |
-| Medic | 2.00% | ~17,519 |
-| Nerves of steel | 2.00% | ~17,519 |
-| Perfect Escape | 2.00% | ~17,519 |
-| Perfect Killing | 2.00% | ~17,519 |
-| Bloody Millionaire | 2.00% | ~17,519 |
-| Risk it all | 2.00% | ~17,519 |
-| I | 2.00% | ~17,519 |
-| Engineer | 2.00% | ~17,519 |
-| Healthy Obsession | 2.00% | ~17,519 |
-| Resurgence | 2.00% | ~17,519 |
-| Close Shave | 2.00% | ~17,519 |
-| Preemptive Strike | 2.00% | ~17,519 |
-| Humanitarian | 2.00% | ~17,519 |
-| MU/TH/UR Dearest | 2.00% | ~17,519 |
+| It wakes | 5.00% | ~43,801 |
+| Zealous | 4.00% | ~35,041 |
+| Skillful | 4.00% | ~35,041 |
+| Handyman | 3.00% | ~26,281 |
+| Not half bad | 3.00% | ~26,281 |
+| Apt Survivor | 3.00% | ~26,281 |
+| Survival Treasures | 3.00% | ~26,281 |
+| Sorted | 3.00% | ~26,281 |
+| Make Some Noise | 3.00% | ~26,281 |
+| The Grand Sacrifice | 2.00% | ~17,521 |
+| Agonizing Escape | 2.00% | ~17,521 |
+| Backdoor Escape | 2.00% | ~17,521 |
+| I've got your back | 2.00% | ~17,521 |
+| No one left behind | 2.00% | ~17,521 |
+| Medic | 2.00% | ~17,521 |
+| Nerves of steel | 2.00% | ~17,521 |
+| Perfect Escape | 2.00% | ~17,521 |
+| Perfect Killing | 2.00% | ~17,521 |
+| Bloody Millionaire | 2.00% | ~17,521 |
+| Risk it all | 2.00% | ~17,521 |
+| I | 2.00% | ~17,521 |
+| Engineer | 2.00% | ~17,521 |
+| Healthy Obsession | 2.00% | ~17,521 |
+| Resurgence | 2.00% | ~17,521 |
+| Close Shave | 2.00% | ~17,521 |
+| Preemptive Strike | 2.00% | ~17,521 |
+| Humanitarian | 2.00% | ~17,521 |
+| MU/TH/UR Dearest | 2.00% | ~17,521 |
 | Blood on your hands | 1.00% | ~8,760 |
 | Apt Killer | 1.00% | ~8,760 |
 | Vulture | 1.00% | ~8,760 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~876 |
 | Adept Ripley | 0.10% | ~876 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 875,970 (Ranked 15)  
+Progressed: 876,028 (Ranked 15)  
 Completed: 48 (0.01%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,7 +383,7 @@ Completed: 48 (0.01%) (Ranked 260)
 | 2023-09-11 | 870,909 | 48 |
 | 2023-09-12 | 873,422 | 48 |
 | 2023-09-13 | 875,770 | 48 |
-| 2023-09-14 | 875,970 | 48 |
+| 2023-09-14 | 876,028 | 48 |
 ## Awards
 Max (Diverse Characters): 32,399  (Ranked 15)  
 Sum: 253,173 (Ranked 11)  
