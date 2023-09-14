@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6022,10 +6022,10 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136158,
+  "EOS_Progressed": 136160,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 382,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 381,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -21127,6 +21127,11 @@
       "Time": "2023-09-14T09:08:07.120318+00:00",
       "NumProgressed": 136158,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2023-09-14T10:08:35.0772689+00:00",
+      "NumProgressed": 136160,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 112,
@@ -21944,9 +21949,9 @@
       "ID": "transmuter",
       "SetID": "anfd17p",
       "Name": "Master Recycler",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 545
     },
     {
       "ID": "tutorial",
@@ -22033,15 +22038,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136158,
+      "Progressed": 136160,
       "Completed": 150
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-14T07:57:20.7945048+00:00",
-  "LastChanged_Achievements": "2023-09-14T09:08:07.1203176+00:00",
+  "LastChanged_Achievements": "2023-09-14T10:08:35.0772685+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-14T08:57:13.9622211+00:00",
-  "LastUpdate_Achievements": "2023-09-14T09:08:07.1205356+00:00"
+  "LastUpdate_Ratings": "2023-09-14T09:57:35.0777856+00:00",
+  "LastUpdate_Achievements": "2023-09-14T10:08:35.0774649+00:00"
 }

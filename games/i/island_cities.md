@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 96.00% | ~669 |
-| A tiny town | 86.00% | ~599 |
+| Welcome! | 97.00% | ~676 |
+| A tiny town | 87.00% | ~606 |
 | Buildings, roads, cars, ...and people | 66.00% | ~460 |
 | Great view from the beach and from the hill | 56.00% | ~390 |
 | Bridges to come and go | 49.00% | ~342 |

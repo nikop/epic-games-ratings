@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 56.00% | ~78 |
+| A Second Chance | 56.00% | ~79 |
 | Press-ganged | 40.00% | ~56 |
 | The Package | 24.00% | ~34 |
 | Randomized | 17.00% | ~24 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 330)  
+Progressed: 141 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-03 | 135 | 0 |
 | 2023-09-12 | 138 | 0 |
 | 2023-09-13 | 140 | 0 |
+| 2023-09-14 | 141 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

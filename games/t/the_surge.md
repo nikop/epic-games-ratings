@@ -38,11 +38,11 @@ Number of Ratings: 62  (23.09.2022)
 | Pusher Man | 8.00% | ~370 |
 | Squad Chief Helvig | 8.00% | ~370 |
 | No More Marching | 8.00% | ~370 |
+| Sunglasses at Night | 7.00% | ~324 |
 | Duty-Bound | 7.00% | ~324 |
 | Follow the White Rabbit | 7.00% | ~324 |
 | Liberation | 7.00% | ~324 |
 | Risk Assessment | 7.00% | ~324 |
-| Sunglasses at Night | 6.00% | ~278 |
 | Carbon Cat | 6.00% | ~278 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~231 |
 | Man of Steel | 5.00% | ~231 |

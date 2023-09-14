@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206882,
+  "EOS_Progressed": 206883,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1399,
+  "EOS_NewPlayers": 1395,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16793,6 +16793,11 @@
       "Time": "2023-09-14T09:03:50.923889+00:00",
       "NumProgressed": 206882,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-14T10:04:36.1708665+00:00",
+      "NumProgressed": 206883,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -16852,7 +16857,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 113785
+      "UsersEstimate": 113786
     },
     {
       "ID": "Checkmate",
@@ -16876,7 +16881,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 144817
+      "UsersEstimate": 144818
     },
     {
       "ID": "DoubleCheck",
@@ -17020,7 +17025,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 64133
+      "UsersEstimate": 64134
     },
     {
       "ID": "QueenSacrifice",
@@ -17028,7 +17033,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 41376
+      "UsersEstimate": 41377
     },
     {
       "ID": "ScholarsMate",
@@ -17107,7 +17112,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 206882,
+      "Progressed": 206883,
       "Completed": 2
     }
   ],
@@ -17115,8 +17120,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-09-10T20:02:14.5471965+00:00",
-  "LastChanged_Achievements": "2023-09-14T09:03:50.9238883+00:00",
+  "LastChanged_Achievements": "2023-09-14T10:04:36.170866+00:00",
   "LastUpdate_AppInfo": "2023-09-09T06:57:14.9740776+00:00",
-  "LastUpdate_Ratings": "2023-09-14T08:57:04.0048182+00:00",
-  "LastUpdate_Achievements": "2023-09-14T09:03:50.9239913+00:00"
+  "LastUpdate_Ratings": "2023-09-14T09:57:24.33436+00:00",
+  "LastUpdate_Achievements": "2023-09-14T10:04:36.170966+00:00"
 }

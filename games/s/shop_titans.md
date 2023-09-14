@@ -91,6 +91,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.40% | ~545 |
 | Black Friday Special | 0.40% | ~545 |
 | King's Shadow | 0.40% | ~545 |
+| Master Recycler | 0.40% | ~545 |
 | Exotic Commodities | 0.40% | ~545 |
 | Constellated | 0.30% | ~408 |
 | Fillin' the Bin | 0.30% | ~408 |
@@ -98,7 +99,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Legend is Born | 0.30% | ~408 |
 | Necromancer Queen | 0.30% | ~408 |
 | Jackpot! | 0.30% | ~408 |
-| Master Recycler | 0.30% | ~408 |
 | All Accounted For | 0.30% | ~408 |
 | Economy of Scarce | 0.30% | ~408 |
 | King's Blade | 0.30% | ~408 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,158 (Ranked 68)  
+Progressed: 136,160 (Ranked 68)  
 Completed: 150 (0.11%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 150 (0.11%) (Ranked 217)
 | 2023-09-11 | 136,043 | 149 |
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
-| 2023-09-14 | 136,158 | 150 |
+| 2023-09-14 | 136,160 | 150 |
 ## Awards
 Max (Great for Beginners): 4,741  (Ranked 71)  
 Sum: 27,225 (Ranked 48)  

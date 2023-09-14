@@ -7039,10 +7039,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 14411,
       "NumberOfAwardsMax": 7075
+    },
+    {
+      "Time": "2023-09-14T09:59:35.0202127+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 14413,
+      "NumberOfAwardsMax": 7075
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14411,
+  "NumberOfAwards": 14413,
   "NumberOfAwardsMax": 7075,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7056,7 +7062,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 860
+      "Count": 862
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7119,9 +7125,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 60974,
+  "EOS_Progressed": 60976,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 487,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22639,6 +22645,11 @@
       "Time": "2023-09-14T09:05:47.0391609+00:00",
       "NumProgressed": 60974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T10:07:04.7945579+00:00",
+      "NumProgressed": 60976,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22730,7 +22741,7 @@
       "Name": "Duelist",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6097
+      "UsersEstimate": 6098
     },
     {
       "ID": "Dynasty",
@@ -22882,7 +22893,7 @@
       "Name": "Lawbringer",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 23780
+      "UsersEstimate": 23781
     },
     {
       "ID": "Lawmaker",
@@ -22994,7 +23005,7 @@
       "Name": "Swordbearer",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6097
+      "UsersEstimate": 6098
     },
     {
       "ID": "The king is pleased",
@@ -23002,7 +23013,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10975
+      "UsersEstimate": 10976
     },
     {
       "ID": "This Is Our Land",
@@ -23057,15 +23068,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 60974,
+      "Progressed": 60976,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-09-13T14:59:35.6226268+00:00",
-  "LastChanged_Achievements": "2023-09-14T09:05:47.0391602+00:00",
+  "LastChanged": "2023-09-14T09:59:35.0202126+00:00",
+  "LastChanged_Achievements": "2023-09-14T10:07:04.7945571+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-14T08:58:51.1404577+00:00",
-  "LastUpdate_Achievements": "2023-09-14T09:05:47.0393015+00:00"
+  "LastUpdate_Ratings": "2023-09-14T09:59:35.0202135+00:00",
+  "LastUpdate_Achievements": "2023-09-14T10:07:04.7946656+00:00"
 }

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 57.00% | ~151 |
+| Fright ✔ | 58.00% | ~154 |
 | Inventory ✔ | 55.00% | ~146 |
 | Chest ✔ | 55.00% | ~146 |
 | Police officers ✔ | 28.00% | ~74 |
 | Mutation ✔ | 26.00% | ~69 |
 | Doberman ✔ | 15.00% | ~40 |
+| Weapon ✔ | 12.00% | ~32 |
 | Chess ✔ | 11.00% | ~29 |
-| Weapon ✔ | 11.00% | ~29 |
 | Master of Unlocking ✔ | 9.00% | ~24 |
 | Survival ✔ | 8.00% | ~21 |
 | Thirst ✔ | 8.00% | ~21 |
@@ -26,10 +26,10 @@
 | Boss 1 ✔ | 5.00% | ~13 |
 | Brain ✔ | 5.00% | ~13 |
 | Eva ✔ | 5.00% | ~13 |
+| Mutant fight ✔ | 5.00% | ~13 |
 | King of survival ✔ | 5.00% | ~13 |
 | All secrets revealed ✔ | 5.00% | ~13 |
 | Group Alpha ✔ | 4.00% | ~11 |
-| Mutant fight ✔ | 4.00% | ~11 |
 | Sheriff ✔ | 4.00% | ~11 |
 | City on fire ✔ | 4.00% | ~11 |
 | Infected ✔ | 4.00% | ~11 |

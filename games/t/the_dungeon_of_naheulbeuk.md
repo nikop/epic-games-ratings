@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,162 |
+| Sowwy! | 30.00% | ~67,164 |
 | Alt+F4 | 5.00% | ~11,194 |
 | Where's that freaking Dwarf? | 4.00% | ~8,955 |
 | Déjà vu | 3.00% | ~6,716 |
 | Sock! SOCK! | 3.00% | ~6,716 |
-| Livin' in a dwarven paradise | 2.00% | ~4,477 |
-| Way of the Wimp | 2.00% | ~4,477 |
-| A beer, two curses, three companions | 2.00% | ~4,477 |
-| The plot thickens... At the tavern | 2.00% | ~4,477 |
-| GG EZ | 2.00% | ~4,477 |
-| DM intervention | 2.00% | ~4,477 |
-| Speedrun | 2.00% | ~4,477 |
-| Fireproof Wizardess | 2.00% | ~4,477 |
+| Livin' in a dwarven paradise | 2.00% | ~4,478 |
+| Way of the Wimp | 2.00% | ~4,478 |
+| A beer, two curses, three companions | 2.00% | ~4,478 |
+| The plot thickens... At the tavern | 2.00% | ~4,478 |
+| GG EZ | 2.00% | ~4,478 |
+| DM intervention | 2.00% | ~4,478 |
+| Speedrun | 2.00% | ~4,478 |
+| Fireproof Wizardess | 2.00% | ~4,478 |
 | Shiny and Crôm | 1.00% | ~2,239 |
 | The demons' feast | 1.00% | ~2,239 |
 | The Great Library | 1.00% | ~2,239 |
@@ -45,9 +45,9 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.60% | ~1,343 |
 | Material Girl | 0.60% | ~1,343 |
 | In Navalu's footsteps | 0.50% | ~1,119 |
-| An old poacher makes the best gamekeeper | 0.40% | ~895 |
-| We come in peace | 0.40% | ~895 |
-| Lëgal Legend | 0.40% | ~895 |
+| An old poacher makes the best gamekeeper | 0.40% | ~896 |
+| We come in peace | 0.40% | ~896 |
+| Lëgal Legend | 0.40% | ~896 |
 | Holistic Adventuring Party | 0.30% | ~672 |
 | Scholar of the Lands of Fangh | 0.30% | ~672 |
 | Law and Order | 0.30% | ~672 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,873 (Ranked 57)  
+Progressed: 223,880 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,11 +201,11 @@ Completed: 2 (0.00%) (Ranked 274)
 | 2023-09-11 | 223,344 | 2 |
 | 2023-09-12 | 223,556 | 2 |
 | 2023-09-13 | 223,808 | 2 |
-| 2023-09-14 | 223,873 | 2 |
+| 2023-09-14 | 223,880 | 2 |
 ## Awards
-Max (Character Customization): 194  (Ranked 275)  
+Max (Character Customization): 194  (Ranked 276)  
 Sum: 313 (Ranked 338)  
-Diff (max vs sum): -63  
+Diff (max vs sum): -62  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 194 |

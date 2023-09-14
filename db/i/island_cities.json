@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 697,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 14.92,
   "EosHistory": [
@@ -2857,17 +2857,17 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 35,
-      "UsersEstimate": 669
+      "UsersEstimate": 676
     },
     {
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 599
+      "UsersEstimate": 606
     },
     {
       "ID": "LEVEL_003",
@@ -3042,8 +3042,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-14T09:05:43.629879+00:00",
+  "LastChanged_Achievements": "2023-09-14T10:07:00.4140056+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-14T09:02:13.5855715+00:00",
-  "LastUpdate_Achievements": "2023-09-14T09:05:43.6299052+00:00"
+  "LastUpdate_Ratings": "2023-09-14T10:02:20.7766049+00:00",
+  "LastUpdate_Achievements": "2023-09-14T10:07:00.4140321+00:00"
 }

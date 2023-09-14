@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -837,9 +837,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -853,9 +853,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -940,8 +940,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-14T09:06:44.0759583+00:00",
+  "LastChanged_Achievements": "2023-09-14T10:08:18.7205646+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-14T08:58:00.7734698+00:00",
-  "LastUpdate_Achievements": "2023-09-14T09:06:44.0759772+00:00"
+  "LastUpdate_Ratings": "2023-09-14T09:58:32.7920645+00:00",
+  "LastUpdate_Achievements": "2023-09-14T10:08:18.720584+00:00"
 }

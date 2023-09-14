@@ -1327,17 +1327,17 @@
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "achLizun",
       "SetID": "72gjli4",
       "Name": "Mutant fight \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achLizunTwo",
@@ -1511,9 +1511,9 @@
       "ID": "achWeapon",
       "SetID": "72gjli4",
       "Name": "Weapon \u2714",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "achWorms",
@@ -1536,8 +1536,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-09-14T09:03:38.4311756+00:00",
+  "LastChanged_Achievements": "2023-09-14T10:04:20.5178994+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:48.8958447+00:00",
-  "LastUpdate_Ratings": "2023-09-14T08:59:20.2384109+00:00",
-  "LastUpdate_Achievements": "2023-09-14T09:03:38.4312175+00:00"
+  "LastUpdate_Ratings": "2023-09-14T10:00:13.8889951+00:00",
+  "LastUpdate_Achievements": "2023-09-14T10:04:20.5179406+00:00"
 }
