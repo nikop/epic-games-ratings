@@ -6646,9 +6646,9 @@
       "Count": 3416
     }
   ],
-  "EOS_Progressed": 228770,
+  "EOS_Progressed": 228778,
   "EOS_Completed": 2279,
-  "EOS_NewPlayers": 977,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -22946,6 +22946,11 @@
       "Time": "2023-09-14T19:05:29.0938468+00:00",
       "NumProgressed": 228770,
       "NumCompleted": 2279
+    },
+    {
+      "Time": "2023-09-14T20:05:53.8292792+00:00",
+      "NumProgressed": 228778,
+      "NumCompleted": 2279
     }
   ],
   "TotalAchievements": 520,
@@ -24299,9 +24304,9 @@
       "ID": "objective_completed_208",
       "SetID": "cc37lbc",
       "Name": "The Mists of Ravenloft",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_209",
@@ -25139,9 +25144,9 @@
       "ID": "objective_completed_545",
       "SetID": "cc37lbc",
       "Name": "The Dead Three",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_546",
@@ -27116,21 +27121,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195044,
+      "Progressed": 195052,
       "Completed": 3425
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228770,
+      "Progressed": 228778,
       "Completed": 2279
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-14T14:57:18.9248685+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:05:29.0938461+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:05:53.8292784+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-14T18:57:24.164785+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:05:29.0963625+00:00"
+  "LastUpdate_Ratings": "2023-09-14T19:57:31.1139234+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:05:53.8323183+00:00"
 }

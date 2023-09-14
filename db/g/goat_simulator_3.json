@@ -6,9 +6,9 @@
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_Completed": 175,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -3778,9 +3778,9 @@
       "Count": 286
     }
   ],
-  "EOS_Progressed": 243713,
+  "EOS_Progressed": 243714,
   "EOS_Completed": 828,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -19748,6 +19748,11 @@
       "Time": "2023-09-14T19:07:01.0685142+00:00",
       "NumProgressed": 243713,
       "NumCompleted": 828
+    },
+    {
+      "Time": "2023-09-14T20:07:44.2765901+00:00",
+      "NumProgressed": 243714,
+      "NumCompleted": 828
     }
   ],
   "TotalAchievements": 39,
@@ -19815,7 +19820,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 63365
+      "UsersEstimate": 63366
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -19823,7 +19828,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 221779
+      "UsersEstimate": 221780
     },
     {
       "ID": "AchievementClownID",
@@ -19855,7 +19860,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 43868
+      "UsersEstimate": 43869
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -19871,7 +19876,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 80425
+      "UsersEstimate": 80426
     },
     {
       "ID": "AchievementGoatID",
@@ -19895,7 +19900,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46305
+      "UsersEstimate": 46306
     },
     {
       "ID": "AchievementINirvanaID",
@@ -19927,7 +19932,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 138916
+      "UsersEstimate": 138917
     },
     {
       "ID": "AchievementLootBoxID",
@@ -20007,7 +20012,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 121856
+      "UsersEstimate": 121857
     },
     {
       "ID": "AchievementStreakingID",
@@ -20031,7 +20036,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134042
+      "UsersEstimate": 134043
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -20039,7 +20044,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 114545
+      "UsersEstimate": 114546
     },
     {
       "ID": "AchievementTrinketID",
@@ -20055,7 +20060,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158413
+      "UsersEstimate": 158414
     },
     {
       "ID": "AchievementWhaleID",
@@ -20070,7 +20075,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 243713,
+      "Progressed": 243714,
       "Completed": 828
     }
   ],
@@ -20078,8 +20083,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-09-14T17:01:05.1237762+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:07:01.0685136+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:07:44.2765893+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.4582419+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:00:03.832608+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:07:01.0686139+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:00:36.5129821+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:07:44.276796+00:00"
 }

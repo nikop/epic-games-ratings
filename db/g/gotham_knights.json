@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2900,9 +2900,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72528,
+  "EOS_Progressed": 72529,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15440,6 +15440,11 @@
       "Time": "2023-09-14T19:07:23.9412457+00:00",
       "NumProgressed": 72528,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-14T20:08:11.4869025+00:00",
+      "NumProgressed": 72529,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15499,7 +15504,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16681
+      "UsersEstimate": 16682
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -15547,7 +15552,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 11604
+      "UsersEstimate": 11605
     },
     {
       "ID": "CLAYFACE_1",
@@ -15691,7 +15696,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 13780
+      "UsersEstimate": 13781
     },
     {
       "ID": "FREEZE_3",
@@ -15779,7 +15784,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 11604
+      "UsersEstimate": 11605
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -15938,13 +15943,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72528,
+      "Progressed": 72529,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42808,
+      "Progressed": 42809,
       "Completed": 2663
     }
   ],
@@ -15952,8 +15957,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-14T13:58:53.3417159+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:07:23.9412452+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:08:11.4869018+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-14T18:59:09.9727328+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:07:23.94135+00:00"
+  "LastUpdate_Ratings": "2023-09-14T19:59:29.7625826+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:08:11.4870377+00:00"
 }

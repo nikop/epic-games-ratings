@@ -5,10 +5,10 @@
   "Ranking_Rating": 468,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -65,11 +65,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 388,
+  "EOS_Progressed": 389,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.55,
+  "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -245,6 +245,11 @@
       "Time": "2023-09-14T16:07:28.1575896+00:00",
       "NumProgressed": 388,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-14T20:06:29.6297287+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -254,9 +259,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 338
     },
     {
       "ID": "dep4_achievement_10",
@@ -296,7 +301,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "dep4_achievement_15",
@@ -312,7 +317,7 @@
       "Name": "Brainfreeze",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "dep4_achievement_17",
@@ -336,15 +341,15 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 245
     },
     {
       "ID": "dep4_achievement_20",
@@ -368,7 +373,7 @@
       "Name": "No man left behind!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "dep4_achievement_23",
@@ -400,7 +405,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "dep4_achievement_27",
@@ -414,9 +419,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 233
     },
     {
       "ID": "dep4_achievement_29",
@@ -504,15 +509,15 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "dep4_achievement_6",
       "SetID": "5d32b60",
       "Name": "School\u0027s out",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 167
     },
     {
       "ID": "dep4_achievement_7",
@@ -520,7 +525,7 @@
       "Name": "Portals come in packs",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "dep4_achievement_8",
@@ -543,7 +548,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 388,
+      "Progressed": 389,
       "Completed": 6
     }
   ],
@@ -551,8 +556,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:05:58.7151666+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:06:29.6297281+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.2761256+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:00:06.478061+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:05:58.7151857+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:00:40.1561824+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:06:29.629754+00:00"
 }

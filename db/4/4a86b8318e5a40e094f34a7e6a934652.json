@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -657,9 +657,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "TAKE_LEECH",
@@ -688,8 +688,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:06:02.041134+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:06:33.776713+00:00",
   "LastUpdate_AppInfo": "2023-09-13T13:03:02.8087417+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:00:44.3811761+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:06:02.0411485+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:01:32.3446841+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:06:33.7767353+00:00"
 }

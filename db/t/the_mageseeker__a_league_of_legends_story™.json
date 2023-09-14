@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2549,
+  "EOS_Progressed": 2550,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -3540,6 +3540,11 @@
       "Time": "2023-09-14T19:06:04.4821886+00:00",
       "NumProgressed": 2549,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-14T20:06:37.851457+00:00",
+      "NumProgressed": 2550,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3551,7 +3556,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -3567,7 +3572,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -3591,7 +3596,7 @@
       "Name": "Hijack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -3607,7 +3612,7 @@
       "Name": "No more holding back",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -3615,7 +3620,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3631,7 +3636,7 @@
       "Name": "Everfrost",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3663,7 +3668,7 @@
       "Name": "I chose my shackles",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -3727,7 +3732,7 @@
       "Name": "Pentakill",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3735,7 +3740,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3759,7 +3764,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -3767,7 +3772,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 1988
+      "UsersEstimate": 1989
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3775,7 +3780,7 @@
       "Name": "Thornbarrow",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3783,7 +3788,7 @@
       "Name": "Clarion Cove",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -3791,7 +3796,7 @@
       "Name": "Devineur",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -3807,7 +3812,7 @@
       "Name": "Glyndemere",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -3823,7 +3828,7 @@
       "Name": "Terbisia",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -3855,7 +3860,7 @@
       "Name": "You can pet the dog",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "STB_PET_HORSE",
@@ -3895,7 +3900,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -3903,7 +3908,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -3935,7 +3940,7 @@
       "Name": "Spellcrafting",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -3959,7 +3964,7 @@
       "Name": "Ancient power",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -3974,7 +3979,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2549,
+      "Progressed": 2550,
       "Completed": 7
     }
   ],
@@ -3982,8 +3987,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:06:04.4821881+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:06:37.8514567+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:13.613728+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:01:13.8818884+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:06:04.482237+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:02:03.5581567+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:06:37.8515298+00:00"
 }

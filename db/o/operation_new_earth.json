@@ -4,8 +4,8 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1311,
+  "EOS_Progressed": 1312,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
@@ -4706,6 +4706,11 @@
       "Time": "2023-09-14T19:04:04.869018+00:00",
       "NumProgressed": 1311,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T20:04:14.5308215+00:00",
+      "NumProgressed": 1312,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4821,7 +4826,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -4883,9 +4888,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 52
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -5020,14 +5025,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1311,
+      "Progressed": 1312,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:04:04.8690176+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:04:14.5308208+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:00:16.620781+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:04:04.8690638+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:00:53.8842441+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:04:14.530887+00:00"
 }

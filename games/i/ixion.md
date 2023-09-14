@@ -13,10 +13,10 @@ Rating: 4.55 (Ranked 484)
 | Ready for a New World | 16.00% | ~506 |
 | Space Society | 15.00% | ~474 |
 | Permanent Redesigns | 14.00% | ~443 |
-| Guy de Borderlands | 12.00% | ~379 |
-| Fully Recycled | 12.00% | ~379 |
-| Ain't Nobody Got Time for That | 12.00% | ~379 |
-| The Ship of Theseus | 12.00% | ~379 |
+| Guy de Borderlands | 12.00% | ~380 |
+| Fully Recycled | 12.00% | ~380 |
+| Ain't Nobody Got Time for That | 12.00% | ~380 |
+| The Ship of Theseus | 12.00% | ~380 |
 | Hope Seeker | 11.00% | ~348 |
 | Exceeding Capacity | 10.00% | ~316 |
 | Breaking Protocol | 10.00% | ~316 |
@@ -30,11 +30,11 @@ Rating: 4.55 (Ranked 484)
 | From the Past | 6.00% | ~190 |
 | Access Granted | 5.00% | ~158 |
 | All in Good Health | 5.00% | ~158 |
-| Oats | 4.00% | ~126 |
-| What They Hide From Us | 4.00% | ~126 |
-| ...  in a finite world | 4.00% | ~126 |
-| BRAWL! | 4.00% | ~126 |
-| What the Ruins Teach Us | 4.00% | ~126 |
+| Oats | 4.00% | ~127 |
+| What They Hide From Us | 4.00% | ~127 |
+| ...  in a finite world | 4.00% | ~127 |
+| BRAWL! | 4.00% | ~127 |
+| What the Ruins Teach Us | 4.00% | ~127 |
 | Sustainable Energy | 3.00% | ~95 |
 | In Dolos We Trust | 3.00% | ~95 |
 | Delivery! | 3.00% | ~95 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 484)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,162 (Ranked 168)  
+Progressed: 3,163 (Ranked 168)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-11 | 3,154 | 0 |
 | 2023-09-12 | 3,157 | 0 |
 | 2023-09-13 | 3,161 | 0 |
-| 2023-09-14 | 3,162 | 0 |
+| 2023-09-14 | 3,163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

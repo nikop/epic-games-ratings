@@ -5,26 +5,26 @@ Rating: 4.73 (Ranked 163)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~11,934 |
-| Newcomers | 79.00% | ~10,248 |
-| A Burden of Blood | 74.00% | ~9,599 |
-| Protector's Duty | 71.00% | ~9,210 |
+| Under a New Sun | 92.00% | ~11,935 |
+| Newcomers | 79.00% | ~10,249 |
+| A Burden of Blood | 74.00% | ~9,600 |
+| Protector's Duty | 71.00% | ~9,211 |
 | In our Wake | 69.00% | ~8,951 |
 | Alchemist | 69.00% | ~8,951 |
 | Leaving all Behind | 66.00% | ~8,562 |
-| Felons | 63.00% | ~8,172 |
-| A Sea of Promises | 61.00% | ~7,913 |
+| Felons | 63.00% | ~8,173 |
+| A Sea of Promises | 61.00% | ~7,914 |
 | Tales and Revelations | 58.00% | ~7,524 |
-| Bloodline | 53.00% | ~6,875 |
-| The Cradle of Centuries | 49.00% | ~6,356 |
+| Bloodline | 53.00% | ~6,876 |
+| The Cradle of Centuries | 49.00% | ~6,357 |
 | The Life We Deserve | 47.00% | ~6,097 |
 | Night guard | 44.00% | ~5,708 |
 | Nothing Left | 40.00% | ~5,189 |
-| Healing our Wounds | 38.00% | ~4,929 |
-| Dying Sun | 34.00% | ~4,410 |
-| Improved crossbow | 27.00% | ~3,502 |
+| Healing our Wounds | 38.00% | ~4,930 |
+| Dying Sun | 34.00% | ~4,411 |
+| Improved crossbow | 27.00% | ~3,503 |
 | King Hugo | 25.00% | ~3,243 |
-| Mercy | 24.00% | ~3,113 |
+| Mercy | 24.00% | ~3,114 |
 | Effective instruments | 22.00% | ~2,854 |
 | Perfect shot | 22.00% | ~2,854 |
 | Perfect throw | 22.00% | ~2,854 |
@@ -41,8 +41,8 @@ Rating: 4.73 (Ranked 163)
 | Old protector | 2.00% | ~259 |
 | Malignant | 1.00% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,972 (Ranked 124)  
-Completed: 45 (0.35%) (Ranked 173)  
+Progressed: 12,973 (Ranked 124)  
+Completed: 45 (0.35%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,7 +188,7 @@ Completed: 45 (0.35%) (Ranked 173)
 | 2023-09-11 | 12,965 | 45 |
 | 2023-09-12 | 12,967 | 45 |
 | 2023-09-13 | 12,969 | 45 |
-| 2023-09-14 | 12,972 | 45 |
+| 2023-09-14 | 12,973 | 45 |
 ## Awards
 Max (Great Boss Battles): 417  (Ranked 213)  
 Sum: 636 (Ranked 293)  

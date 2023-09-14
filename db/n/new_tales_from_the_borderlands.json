@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3637,
+  "EOS_Progressed": 3638,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1494,6 +1494,11 @@
       "Time": "2023-09-14T15:05:58.6699487+00:00",
       "NumProgressed": 3637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T20:06:07.8957879+00:00",
+      "NumProgressed": 3638,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1617,7 +1622,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -1625,7 +1630,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -1633,7 +1638,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1641,7 +1646,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -1657,7 +1662,7 @@
       "Name": "Bring back the butt!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "WATCH_CREDITS_TO_THE_END",
@@ -1665,7 +1670,7 @@
       "Name": "Hey, thanks!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "WIN_BATTLE_OLD_SCHOOL",
@@ -1712,7 +1717,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3637,
+      "Progressed": 3638,
       "Completed": 0
     }
   ],
@@ -1720,8 +1725,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:05:42.0308293+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:06:07.8957874+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:39.3937953+00:00",
-  "LastUpdate_Ratings": "2023-09-14T18:58:34.8971255+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:05:42.0308511+00:00"
+  "LastUpdate_Ratings": "2023-09-14T19:58:50.5873873+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:06:07.8958178+00:00"
 }

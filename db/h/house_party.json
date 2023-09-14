@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -368,7 +368,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6153,
+  "EOS_Progressed": 6154,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -4888,6 +4888,11 @@
       "Time": "2023-09-14T19:04:53.367019+00:00",
       "NumProgressed": 6153,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-14T20:05:11.7600112+00:00",
+      "NumProgressed": 6154,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5353,9 +5358,9 @@
       "ID": "TheCrush",
       "SetID": "bmkn7o4",
       "Name": "The Crush",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 37
     },
     {
       "ID": "TheCrushes",
@@ -5450,21 +5455,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3192,
+      "Progressed": 3193,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6153,
+      "Progressed": 6154,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:04:53.367018+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:05:11.7600104+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.4019821+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:00:10.8787414+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:04:53.3670985+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:00:45.81732+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:05:11.7601243+00:00"
 }

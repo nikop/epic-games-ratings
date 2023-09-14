@@ -6,9 +6,9 @@
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3072,10 +3072,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 6594,
       "NumberOfAwardsMax": 2403
+    },
+    {
+      "Time": "2023-09-14T20:00:48.3003498+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 6595,
+      "NumberOfAwardsMax": 2403
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6594,
+  "NumberOfAwards": 6595,
   "NumberOfAwardsMax": 2403,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3143,7 +3149,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 435
+      "Count": 436
     },
     {
       "Text": "This game has a Creative Community",
@@ -3152,9 +3158,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51650,
+  "EOS_Progressed": 51651,
   "EOS_Completed": 232,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -11837,6 +11843,11 @@
       "Time": "2023-09-14T18:05:03.6125744+00:00",
       "NumProgressed": 51650,
       "NumCompleted": 232
+    },
+    {
+      "Time": "2023-09-14T20:06:08.7293944+00:00",
+      "NumProgressed": 51651,
+      "NumCompleted": 232
     }
   ],
   "TotalAchievements": 45,
@@ -11992,7 +12003,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 19110
+      "UsersEstimate": 19111
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -12040,7 +12051,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 29440
+      "UsersEstimate": 29441
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -12056,7 +12067,7 @@
       "Name": "Rishi Maze",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "COMPLETE_KASHYYYK_KIJIMI",
@@ -12088,7 +12099,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 29957
+      "UsersEstimate": 29958
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12104,7 +12115,7 @@
       "Name": "\u0027\u0027Only one business in the Galaxy...\u0027\u0027",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2583
     },
     {
       "ID": "EARN_17K_STUDS",
@@ -12112,7 +12123,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50100
+      "UsersEstimate": 50101
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -12136,7 +12147,7 @@
       "Name": "\u0027\u0027Jedi Business\u0027\u0027",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "LEVEL_CHALLENGES_ALL_LEVELS",
@@ -12168,7 +12179,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 19110
+      "UsersEstimate": 19111
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -12184,7 +12195,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 27374
+      "UsersEstimate": 27375
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -12200,22 +12211,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37188
+      "UsersEstimate": 37189
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51650,
+      "Progressed": 51651,
       "Completed": 232
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2023-09-14T19:00:13.1036532+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:05:42.8024769+00:00",
+  "LastChanged": "2023-09-14T20:00:48.3003496+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:06:08.7293937+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.2145974+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:00:13.1036537+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:05:42.8025455+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:00:48.3003503+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:06:08.7295344+00:00"
 }

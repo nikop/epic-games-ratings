@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7182,
+  "EOS_Progressed": 7183,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -4284,6 +4284,11 @@
       "Time": "2023-09-14T15:05:05.575299+00:00",
       "NumProgressed": 7182,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-09-14T20:05:16.3168337+00:00",
+      "NumProgressed": 7183,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 27,
@@ -4303,7 +4308,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -4327,7 +4332,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -4375,7 +4380,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -4399,7 +4404,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -4423,7 +4428,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -4510,15 +4515,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7182,
+      "Progressed": 7183,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-08-27T09:59:24.0528306+00:00",
-  "LastChanged_Achievements": "2023-09-14T19:04:57.2875843+00:00",
+  "LastChanged_Achievements": "2023-09-14T20:05:16.3168334+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4894936+00:00",
-  "LastUpdate_Ratings": "2023-09-14T19:01:04.7686672+00:00",
-  "LastUpdate_Achievements": "2023-09-14T19:04:57.2876195+00:00"
+  "LastUpdate_Ratings": "2023-09-14T20:01:53.6206816+00:00",
+  "LastUpdate_Achievements": "2023-09-14T20:05:16.3168846+00:00"
 }

@@ -17,7 +17,7 @@
 | Key Master | 0.00% | ~0 |
 | Master of Unlocking | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 522)  
+Progressed: 2 (Ranked 523)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wisdom Check | 0.20% | ~458 |
 | Unearthed Evil | 0.20% | ~458 |
 | No Time To Rest | 0.20% | ~458 |
+| The Mists of Ravenloft | 0.20% | ~458 |
 | Invisible Shadows | 0.20% | ~458 |
 | Family Entanglements | 0.20% | ~458 |
 | The Dinner Party | 0.20% | ~458 |
@@ -55,6 +56,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Premature Betrayal | 0.20% | ~458 |
 | Exploring Port Nyanzaru | 0.20% | ~458 |
 | A Tale of Two Cities | 0.20% | ~458 |
+| The Dead Three | 0.20% | ~458 |
 | Flying Monkey Skulls of Doom | 0.20% | ~458 |
 | Running of the Saurs | 0.20% | ~458 |
 | The Contagious Curse | 0.20% | ~458 |
@@ -213,7 +215,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~229 |
 | Azaka's Procession - Part 2 | 0.10% | ~229 |
 | Acererak's Puzzle | 0.10% | ~195 |
-| The Mists of Ravenloft | 0.10% | ~229 |
 | The Hunt for Owl-y | 0.10% | ~229 |
 | Werewolves in the Mist | 0.10% | ~229 |
 | We're not in Faerûn Anymore | 0.10% | ~229 |
@@ -299,7 +300,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Fiends | 0.10% | ~229 |
 | A Tale of Two Champions | 0.10% | ~229 |
 | A Tale of Two Years | 0.10% | ~195 |
-| The Dead Three | 0.10% | ~229 |
 | Slow and Steady | 0.10% | ~229 |
 | A Hero's Entourage | 0.10% | ~229 |
 | Sneak Attack | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,770 (Ranked 55)  
+Progressed: 228,778 (Ranked 55)  
 Completed: 2,279 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -674,7 +674,7 @@ Completed: 2,279 (1.00%) (Ranked 122)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,770 | 2,279 |
+| 2023-09-14 | 228,778 | 2,279 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
 Sum: 31,581 (Ranked 39)  
