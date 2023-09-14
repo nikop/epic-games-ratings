@@ -5,7 +5,7 @@
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.56% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
-| 6 | [Volley Pals](games/v/volley_pals.md) | 27.27% |
+| 6 | [Volley Pals](games/v/volley_pals.md) | 27.93% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.37% |
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -28,13 +28,13 @@
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 10.64% |
 | 27 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.38% |
 | 28 | [Out of Bounds](games/o/out_of_bounds.md) | 9.68% |
-| 29 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.38% |
-| 30 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.11% |
-| 31 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
+| 29 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.11% |
+| 30 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 9.09% |
+| 30 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 9.09% |
 | 32 | [Sonic Origins](games/s/sonic_origins.md) | 8.74% |
 | 33 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.59% |
-| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.51% |
-| 35 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
+| 34 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
+| 34 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.33% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
@@ -86,7 +86,7 @@
 | 82 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 85 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.48% |
 | 86 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.46% |
-| 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.41% |
+| 87 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.40% |
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.36% |
 | 90 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.24% |
@@ -121,10 +121,10 @@
 | 119 | [Adios](games/a/adios.md) | 1.03% |
 | 120 | [A Musical Story](games/a/a_musical_story.md) | 1.02% |
 | 121 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.01% |
-| 122 | [Eternights](games/e/eternights.md) | 1.00% |
 | 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 122 | [Sable](games/s/sable.md) | 1.00% |
-| 125 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
+| 124 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
+| 125 | [Eternights](games/e/eternights.md) | 0.98% |
 | 126 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
@@ -185,8 +185,8 @@
 | 182 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.29% |
 | 182 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.29% |
 | 185 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.28% |
-| 185 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.28% |
-| 187 | [Scrapnaut](games/s/scrapnaut.md) | 0.27% |
+| 186 | [Scrapnaut](games/s/scrapnaut.md) | 0.27% |
+| 186 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.27% |
 | 188 | [Aegis Descent](games/a/aegis_descent.md) | 0.25% |
 | 188 | [Filament](games/f/filament.md) | 0.25% |
 | 190 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.24% |

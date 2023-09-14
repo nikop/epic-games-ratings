@@ -9,6 +9,7 @@
 | [CATAIRE](games/b/be657c5da1ad4bb48cb458c8db67b45e.md) | 2023-09-14 | - |  | - | - |
 | [Homeseek](games/4/4d38b523f0ef409d9cc79af313643ec9.md) | 2023-09-14 | 54 (1,000 XP) | 0 | - | - |
 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 2023-09-14 | 18 (1,000 XP) | 7 | - | - |
+| [REMEDIUM](games/d/d7b044ca99c248179adbfc8369528279.md) | 2023-09-14 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 10 | - | - |
 | [Compass of the Destiny: Istanbul](games/c/c13ad282a1184e689e2f14038564c7ef.md) | 2023-09-14 | - |  | - | - |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-09-15 | 16 (1,000 XP) | 1 | - | 0 |
@@ -175,7 +176,6 @@
 | [PUGS Agents](games/p/pugs_agents.md) | 2023-12-31 | - |  | - | - |
 | [Quest Master](games/9/9e2b675e684a484997fa4794a6ede505.md) | 2023-12-31 | - |  | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2023-12-31 | - |  | - | 0 |
-| [REMEDIUM](games/d/d7b044ca99c248179adbfc8369528279.md) | 2023-12-31 | - |  | - | - |
 | [Revive and Prosper](games/3/3a27a82bc5d04ff6a57ae77b34b09555.md) | 2023-12-31 | - |  | - | - |
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2023-12-31 | - |  | - | - |
 | [Runeroots TD](games/2/2f169ae019ee48318209c0aebef2b378.md) | 2023-12-31 | - |  | - | - |

@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,691,081 | 4.29 | 806 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 539,115 | 4.49 | 581 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 540,247 | 4.49 | 581 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 305,598 | 4.68 | 242 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 225,299 | 4.68 | 242 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 200,495 | 4.19 | 872 |
@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 148,119 | 4.51 | 547 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 116,397 | 4.69 | 216 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 78,437 | 4.62 | 353 |
-| 10 | [VALORANT](games/v/valorant.md) | 69,815 | 4.53 | 520 |
+| 10 | [VALORANT](games/v/valorant.md) | 69,961 | 4.53 | 520 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 61,047 | 4.58 | 430 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 44,635 | 4.61 | 368 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 37,667 | 4.74 | 145 |
@@ -22,7 +22,7 @@
 | 20 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 19,294 | 4.26 | 828 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 18,279 | 4.89 | 13 |
 | 22 | [Warframe](games/w/warframe.md) | 17,037 | 4.61 | 368 |
-| 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,293 | 4.76 | 117 |
+| 23 | [Borderlands 2](games/b/borderlands_2.md) | 15,305 | 4.76 | 117 |
 | 24 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,477 | 4.58 | 430 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,738 | 4.60 | 395 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,686 | 4.60 | 395 |
@@ -32,7 +32,7 @@
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,476 | 4.86 | 31 |
 | 31 | [NBA 2K21](games/n/nba_2k21.md) | 11,757 | 4.39 | 721 |
 | 32 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 11,627 | 4.74 | 145 |
-| 33 | [Satisfactory](games/s/satisfactory.md) | 11,472 | 4.88 | 19 |
+| 33 | [Satisfactory](games/s/satisfactory.md) | 11,490 | 4.88 | 19 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,463 | 4.45 | 639 |
 | 35 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,417 | 4.69 | 216 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 10,507 | 4.76 | 117 |
@@ -79,7 +79,7 @@
 | 77 | [SMITE](games/s/smite.md) | 4,282 | 4.44 | 648 |
 | 78 | [God of War](games/g/god_of_war.md) | 4,259 | 4.88 | 19 |
 | 79 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,123 | 4.51 | 547 |
-| 80 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4,087 | 4.68 | 242 |
+| 80 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4,110 | 4.68 | 242 |
 | 81 | [Days Gone](games/d/days_gone.md) | 3,940 | 4.68 | 242 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,887 | 4.57 | 450 |
 | 83 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,761 | 4.28 | 814 |
@@ -130,7 +130,7 @@
 | 128 | [Conan Exiles](games/c/conan_exiles.md) | 1,430 | 4.54 | 502 |
 | 129 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,424 | 4.86 | 31 |
 | 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,356 | 4.54 | 502 |
-| 131 | [World of Warships](games/w/world_of_warships.md) | 1,320 | 4.41 | 688 |
+| 131 | [World of Warships](games/w/world_of_warships.md) | 1,321 | 4.41 | 688 |
 | 132 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,319 | 4.70 | 202 |
 | 133 | [DOOM 64](games/d/doom_64.md) | 1,293 | 4.66 | 281 |
 | 134 | [XCOM® 2](games/x/xcom®_2.md) | 1,268 | 4.55 | 484 |

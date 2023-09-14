@@ -21,7 +21,7 @@
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 137 | 308 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,259 | 78 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 175,814 | 6 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,472 | 33 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 11,490 | 33 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 498 |
 | 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 284 | 243 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,439 | 126 |
@@ -116,7 +116,7 @@
 | 109 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 147 | 304 |
 | 109 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 517 |
 | 109 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 28 | 469 |
-| 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,293 | 23 |
+| 117 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 15,305 | 23 |
 | 117 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.76 | 0 | 517 |
 | 117 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,330 | 91 |
 | 117 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 948 | 148 |
@@ -249,7 +249,7 @@
 | 242 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 7,387 | 48 |
 | 242 | [Days Gone](games/d/days_gone.md) | 4.68 | 3,940 | 81 |
 | 242 | [DOOM II](games/d/doom_ii.md) | 4.68 | 26 | 480 |
-| 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,087 | 80 |
+| 242 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 4,110 | 80 |
 | 242 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 305,598 | 3 |
 | 242 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 225,299 | 4 |
 | 242 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 517 |
@@ -530,7 +530,7 @@
 | 520 | [RUINER](games/r/ruiner.md) | 4.53 | 24 | 488 |
 | 520 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 513 | 199 |
 | 520 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 517 |
-| 520 | [VALORANT](games/v/valorant.md) | 4.53 | 69,815 | 10 |
+| 520 | [VALORANT](games/v/valorant.md) | 4.53 | 69,961 | 10 |
 | 520 | [Wall World](games/w/wall_world.md) | 4.53 | 0 | 517 |
 | 533 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.52 | 42 | 424 |
 | 533 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 32,399 | 15 |
@@ -594,7 +594,7 @@
 | 581 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 99 | 340 |
 | 581 | [MythForce](games/m/mythforce.md) | 4.49 | 32 | 458 |
 | 581 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 23 | 494 |
-| 581 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 539,115 | 2 |
+| 581 | [Rocket League®](games/r/rocket_league®.md) | 4.49 | 540,247 | 2 |
 | 581 | [Solitairica](games/s/solitairica.md) | 4.49 | 84 | 360 |
 | 581 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 517 |
 | 581 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.49 | 2,555 | 100 |
@@ -710,7 +710,7 @@
 | 688 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.41 | 175 | 286 |
 | 688 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.41 | 563 | 193 |
 | 688 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.41 | 0 | 517 |
-| 688 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,320 | 131 |
+| 688 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,321 | 131 |
 | 712 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 517 |
 | 712 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,031 | 142 |
 | 712 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 517 |
