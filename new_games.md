@@ -1,10 +1,13 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 2023-09-14 | 18 (1,000 XP) | 9,063 | - | 0 |
+| [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 2023-09-14 | 38 (1,000 XP) | 66 | - | - |
+| [REMEDIUM](games/d/d7b044ca99c248179adbfc8369528279.md) | 2023-09-14 | - |  | - | - |
 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 2023-09-14 | - |  | - | - |
 | [CATAIRE](games/b/be657c5da1ad4bb48cb458c8db67b45e.md) | 2023-09-14 | - |  | - | - |
 | [Homeseek](games/4/4d38b523f0ef409d9cc79af313643ec9.md) | 2023-09-14 | 54 (1,000 XP) | 0 | - | - |
 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2023-09-14 | - |  | - | - |
-| [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2023-09-14 | 12 (1,000 XP) | 0 | - | - |
+| [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2023-09-14 | 12 (1,000 XP) | 2 | - | - |
 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 2023-09-14 | - |  | - | - |
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 2023-09-14 | - |  | - | 0 |
 | [Vacation Adventures Park Ranger 15](games/e/e40d04b9feb84c97ace80efde624b490.md) | 2023-09-14 | - |  | - | - |
@@ -32,11 +35,11 @@
 | [Creatura](games/1/1c0a8b3f4f0b4899ac5a8231dc7f4621.md) | 2023-09-08 | - |  | - | - |
 | [Split](games/3/352f45e3b1c345a6b693997044461f79.md) | 2023-09-08 | - |  | - | - |
 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 2023-09-08 | 50 (1,000 XP) | 85 | - | 0 |
-| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 35 (1,000 XP) | 2,526 | - | 0 |
+| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 35 (1,000 XP) | 2,543 | - | 0 |
 | [Infantry Assault: War 3D FPS](games/f/f10be3dc3e0a432c8d2a8988c5cf00ac.md) | 2023-09-08 | - |  | - | - |
 | [MechDefender](games/f/f02d6ce12fbc4230853a8b067e7e7278.md) | 2023-09-08 | - |  | - | 0 |
 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 2023-09-08 | 24 (1,000 XP) | 1 | - | 0 |
-| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 41,334 | 4.09 | 0 |
+| [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 41,527 | 4.10 | 0 |
 | [Baby Storm](games/c/ce637d3eeee844a8b902d93416b1e40e.md) | 2023-09-07 | - |  | - | - |
 | [Lempo](games/l/lempo.md) | 2023-09-07 | - |  | - | 0 |
 | [Superior Relatives](games/5/5b282dbff4c94c9b838466de1064d25d.md) | 2023-09-07 | - |  | - | - |
@@ -55,7 +58,7 @@
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 3 | - | - |
 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 2023-09-04 | 17 (1,000 XP) | 28 | - | 0 |
 | [E30 Drift Car Simulator](games/b/bd23b6492b6c4efeba179ca4710f38b0.md) | 2023-09-03 | - |  | - | - |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 5,757 | - | 0 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 5,762 | - | 0 |
 | [Sniper Hunter Shooter](games/d/d0188c3e62b342afbb71fd62e59b1d5c.md) | 2023-09-01 | - |  | - | - |
 | [Aquarist](games/8/866520e800d74ec5a517e45b48fe63e6.md) | 2023-09-01 | - |  | - | 0 |
 | [Farmer's Father - Save the Innocence](games/0/0cb4c2b3a6814bee82bcea6732949617.md) | 2023-09-01 | - |  | - | - |
@@ -65,7 +68,7 @@
 | [Torch Cave 2: The Trail of Ashes](games/c/c949fe0c9e7f460fb1a549d2d4d3689e.md) | 2023-09-01 | - |  | - | - |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2023-09-01 | 36 (1,000 XP) | 5 | - | - |
 | [Airport CEO](games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 2023-09-01 | 34 (1,000 XP) | 27 | - | 0 |
-| [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 35 | - | 0 |
+| [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 36 | - | 0 |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-09-01 | - |  | - | - |
 | [Chicken Journey](games/1/1df6c2cb003d48979ee3f72fff54d013.md) | 2023-08-31 | - |  | - | 0 |
 | [Hysteria in Howlsbend](games/8/8cb3ec36042f4044aa46e16fb0e60875.md) | 2023-08-31 | - |  | - | 0 |
@@ -110,10 +113,10 @@
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 780 | 4.86 | 0 |
 | [Live In The Country](games/7/7247d3e923ac4d04a7d8f4435e240302.md) | 2023-08-24 | - |  | - | - |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 4 | - | - |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 283,791 | 4.40 | 0 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 283,867 | 4.40 | 0 |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [Duel Princess](games/6/6ebe4c6dff6d4d0a9c231fd40480d97f.md) | 2023-08-24 | - |  | - | 0 |
-| [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 774 | - | 0 |
+| [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 777 | - | 0 |
 | [Dust Fleet](games/d/dust_fleet.md) | 2023-08-23 | - |  | - | 0 |
 | [SPRAWL](games/6/646aa9a788d44357b46de3f75335d3d3.md) | 2023-08-23 | - |  | - | 0 |
 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2023-08-23 | 14 (1,000 XP) | 75 | - | 0 |
@@ -142,5 +145,3 @@
 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 2023-08-16 | 41 (1,000 XP) | 12 | - | 0 |
 | [ART IS RIFLE](games/4/4b7032faef9f4152afeac58dfe13c3f2.md) | 2023-08-16 | - |  | - | - |
 | [Haven's Compass](games/d/da744ab3564a4d2dac8b942a86d5aad9.md) | 2023-08-15 | - |  | - | 0 |
-| [Football Stars Legend 24](games/d/d5761edf0cbb4815a96c65013863cc9a.md) | 2023-08-15 | - |  | - | - |
-| [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 2023-08-15 | 43 (1,000 XP) | 48 | - | 0 |

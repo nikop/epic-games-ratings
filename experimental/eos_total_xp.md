@@ -284,6 +284,7 @@
 | [Homeseek](../games/4/4d38b523f0ef409d9cc79af313643ec9.md) | 54 | 1,000 |
 | [Homeworld Remastered Collection](../games/4/4311a0ee99724086b1a4f261b827d038.md) | 34 | 1,000 |
 | [HordeCore](../games/h/hordecore.md) | 28 | 1,000 |
+| [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
 | [HORSE CLUB Adventures](../games/3/3003b961602b4ecfa8dd7dd16a3646bc.md) | 27 | 1,000 |
 | [HORSE CLUB Adventures 2 - Hazelwood Stories](../games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 42 | 1,000 |
