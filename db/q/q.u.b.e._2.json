@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -338,9 +338,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1403,6 +1403,11 @@
       "Time": "2023-09-14T17:07:58.5898001+00:00",
       "NumProgressed": 314,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T18:06:07.6851063+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1429,9 +1434,9 @@
       "ID": "ACH_CUBEKILLER",
       "SetID": "232494e",
       "Name": "Green Cube Killer",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_DLC1ALLCOLLECTABLES",
@@ -1557,9 +1562,9 @@
       "ID": "ACH_HUB1",
       "SetID": "232494e",
       "Name": "Mission Success",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_HUB2",
@@ -1581,9 +1586,9 @@
       "ID": "ACH_PEAK",
       "SetID": "232494e",
       "Name": "There\u0027s No Place Like Home",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_PROPELL",
@@ -1607,7 +1612,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_S4",
@@ -1631,7 +1636,7 @@
       "Name": "Lost in Space",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_STATUE",
@@ -1646,15 +1651,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-14T17:07:58.5897994+00:00",
+  "LastChanged_Achievements": "2023-09-14T18:06:07.6851057+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:02:26.9104379+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:07:58.5898295+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:00:35.1697312+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:06:07.685134+00:00"
 }

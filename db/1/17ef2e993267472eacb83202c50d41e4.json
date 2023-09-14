@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5765,
+  "EOS_Progressed": 5766,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1155,
+  "EOS_NewPlayers": 1142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1416,6 +1416,11 @@
       "Time": "2023-09-14T17:05:33.1801135+00:00",
       "NumProgressed": 5765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T18:04:24.2436028+00:00",
+      "NumProgressed": 5766,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1620,7 +1625,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "HAUpgraded1",
@@ -2012,21 +2017,21 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5765,
+      "Progressed": 5766,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-14T17:05:33.1801131+00:00",
+  "LastChanged_Achievements": "2023-09-14T18:04:24.2436023+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:01:00.6194476+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:05:33.1802192+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:59:39.8874226+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:04:24.2436978+00:00"
 }

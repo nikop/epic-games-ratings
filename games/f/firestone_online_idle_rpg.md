@@ -33,11 +33,11 @@ Rating: 4.02 (Ranked 941)
 | Doing My Part | 11.00% | ~213 |
 | Hunter | 11.00% | ~213 |
 | Mastery | 11.00% | ~213 |
+| Moving Up The Ladder | 11.00% | ~213 |
 | Relic Of The Past | 11.00% | ~213 |
 | The power of Awakening | 11.00% | ~213 |
 | Four Leaf Clover | 10.00% | ~193 |
 | Frostfire Liberator | 10.00% | ~193 |
-| Moving Up The Ladder | 10.00% | ~193 |
 | Scroll Master | 10.00% | ~193 |
 | Here We Go Again | 9.00% | ~174 |
 | Master Enchanter | 9.00% | ~174 |
@@ -229,8 +229,8 @@ Completed: 2 (0.10%) (Ranked 220)
 | 2023-09-14 | 1,933 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 21  (Ranked 506)  
-Sum: 42 (Ranked 461)  
-Diff (max vs sum): 45  
+Sum: 42 (Ranked 462)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 21 |

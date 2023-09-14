@@ -1,21 +1,21 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 858)  
+Rating: 4.21 (Ranked 857)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~9,552 |
-| Battering Crew | 20.00% | ~4,776 |
-| The Kingsroad | 18.00% | ~4,299 |
-| Well Stocked | 14.00% | ~3,343 |
+| Conqueror | 40.00% | ~9,555 |
+| Battering Crew | 20.00% | ~4,778 |
+| The Kingsroad | 18.00% | ~4,300 |
+| Well Stocked | 14.00% | ~3,344 |
 | Royal Fleet | 13.00% | ~3,105 |
-| The Kraken’s Grasp | 9.00% | ~2,149 |
-| Daggers in the Dark | 8.00% | ~1,910 |
-| Oathkeeper | 8.00% | ~1,910 |
-| Alliance | 8.00% | ~1,910 |
-| A Long Journey | 8.00% | ~1,910 |
+| The Kraken’s Grasp | 9.00% | ~2,150 |
+| Daggers in the Dark | 8.00% | ~1,911 |
+| Oathkeeper | 8.00% | ~1,911 |
+| Alliance | 8.00% | ~1,911 |
+| A Long Journey | 8.00% | ~1,911 |
 | Ours is the Fury | 7.00% | ~1,672 |
 | Winter is Coming | 7.00% | ~1,672 |
 | Influential | 7.00% | ~1,672 |
@@ -24,12 +24,12 @@ Number of Ratings: 2,500  (23.09.2022)
 | Hear me Roar! | 6.00% | ~1,433 |
 | Defender of the Wall | 6.00% | ~1,433 |
 | Growing Strong | 5.00% | ~1,194 |
-| What is Dead may Never Die | 3.00% | ~716 |
-| The Swift | 3.00% | ~716 |
+| What is Dead may Never Die | 3.00% | ~717 |
+| The Swift | 3.00% | ~717 |
 | King in the North | 2.00% | ~478 |
 | War of the Five Kings | 1.00% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,881 (Ranked 107)  
+Progressed: 23,888 (Ranked 108)  
 Completed: 54 (0.23%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 54 (0.23%) (Ranked 192)
 | 2023-09-11 | 23,726 | 54 |
 | 2023-09-12 | 23,794 | 54 |
 | 2023-09-13 | 23,839 | 54 |
-| 2023-09-14 | 23,881 | 54 |
+| 2023-09-14 | 23,888 | 54 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 319)  
 Sum: 786 (Ranked 267)  

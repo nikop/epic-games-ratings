@@ -5,9 +5,9 @@
   "Ranking_Rating": 820,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 419,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-09-12T19:05:55.6318635+00:00",
       "NumProgressed": 418,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-14T18:05:03.6491033+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 28,
@@ -913,7 +918,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "GB_GOURMET",
@@ -921,7 +926,7 @@
       "Name": "GOURMET",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "GB_GRANDMA_WOULD_BE_PROUD",
@@ -935,9 +940,9 @@
       "ID": "GB_GRATITUDE",
       "SetID": "8ga3kd9",
       "Name": "GRATITUDE",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "GB_HELLS_KITCHEN",
@@ -945,7 +950,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -961,7 +966,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -993,7 +998,7 @@
       "Name": "KEVIN!",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -1057,7 +1062,7 @@
       "Name": "SCATTERBRAIN",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "GB_TASTE_UNTASTY",
@@ -1081,14 +1086,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 419,
       "Completed": 2
     }
   ],
@@ -1096,8 +1101,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-07-21T18:59:24.0510184+00:00",
-  "LastChanged_Achievements": "2023-09-14T17:06:28.7238876+00:00",
+  "LastChanged_Achievements": "2023-09-14T18:05:03.649103+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:56.7034313+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:57:56.0603935+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:06:28.7239139+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:57:33.1331453+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:05:03.6491282+00:00"
 }

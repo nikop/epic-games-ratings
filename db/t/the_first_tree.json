@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35867,
+  "EOS_Progressed": 35868,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -13339,6 +13339,11 @@
       "Time": "2023-09-14T16:08:11.0059388+00:00",
       "NumProgressed": 35867,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-09-14T18:05:50.458504+00:00",
+      "NumProgressed": 35868,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 14,
@@ -13366,7 +13371,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9325
+      "UsersEstimate": 9326
     },
     {
       "ID": "allItems",
@@ -13446,7 +13451,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6097
+      "UsersEstimate": 6098
     },
     {
       "ID": "secretItem",
@@ -13461,15 +13466,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35867,
+      "Progressed": 35868,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-14T17:07:34.1654349+00:00",
+  "LastChanged_Achievements": "2023-09-14T18:05:50.4585031+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.9001384+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:00:18.0311437+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:07:34.165567+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:59:09.5644523+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:05:50.4585983+00:00"
 }

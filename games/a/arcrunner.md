@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 22.00% | ~164 |
-| Challenge Accepted | 18.00% | ~134 |
+| Augmented | 22.00% | ~165 |
+| Challenge Accepted | 18.00% | ~135 |
 | Terminated I | 17.00% | ~127 |
-| Nanonic I | 16.00% | ~119 |
-| Unlocked and Loaded | 16.00% | ~119 |
-| The City | 14.00% | ~104 |
-| Terminated II | 14.00% | ~104 |
+| Nanonic I | 16.00% | ~120 |
+| Unlocked and Loaded | 16.00% | ~120 |
+| The City | 14.00% | ~105 |
+| Terminated II | 14.00% | ~105 |
 | Challenge Mastered | 11.00% | ~82 |
 | Terminated III | 11.00% | ~82 |
 | Nanonic II | 9.00% | ~67 |
@@ -34,7 +34,7 @@
 | Weaponsmith | 0.10% | ~1 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 746 (Ranked 222)  
+Progressed: 748 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-08-28 | 741 | 0 |
 | 2023-08-30 | 743 | 0 |
 | 2023-09-04 | 744 | 0 |
-| 2023-09-14 | 746 | 0 |
+| 2023-09-14 | 748 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 31,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -82,7 +82,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 780,
+  "EOS_Progressed": 781,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -1462,6 +1462,11 @@
       "Time": "2023-09-14T13:11:33.3993095+00:00",
       "NumProgressed": 780,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T18:05:15.0681783+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -1482,7 +1487,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "AC02",
@@ -1498,7 +1503,7 @@
       "Name": "Blood and Gold",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "AC04",
@@ -1506,7 +1511,7 @@
       "Name": "Blood and Iron",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "AC05",
@@ -1514,7 +1519,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "AC06",
@@ -1522,15 +1527,15 @@
       "Name": "The Last Ascension",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "AC07",
       "SetID": "l4abp0",
       "Name": "The Sea dies on the Shore",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 445
+      "UsersEstimate": 437
     },
     {
       "ID": "AC08",
@@ -1538,7 +1543,7 @@
       "Name": "Forged in Fire",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "AC09",
@@ -1562,7 +1567,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "AC12",
@@ -1578,7 +1583,7 @@
       "Name": "Second Psalm.",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "AC14",
@@ -1602,7 +1607,7 @@
       "Name": "Weight of Penance",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "AC17",
@@ -1610,7 +1615,7 @@
       "Name": "Second Pilgrimage",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "AC18",
@@ -1626,7 +1631,7 @@
       "Name": "Soledad",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "AC20",
@@ -1650,7 +1655,7 @@
       "Name": "Empty Handed",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "AC23",
@@ -1658,7 +1663,7 @@
       "Name": "Hide and Seek",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "AC24",
@@ -1730,7 +1735,7 @@
       "Name": "Nobody Expects the Spanish Inquisition!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "AC33",
@@ -1770,7 +1775,7 @@
       "Name": "Storm of Death",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "AC38",
@@ -1778,7 +1783,7 @@
       "Name": "Edge of Orison",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "AC39",
@@ -1794,7 +1799,7 @@
       "Name": "Welcome Back!",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "AC41",
@@ -1841,7 +1846,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 780,
+      "Progressed": 781,
       "Completed": 0
     }
   ],
@@ -1849,8 +1854,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-10T09:58:35.9122568+00:00",
-  "LastChanged_Achievements": "2023-09-14T17:06:44.777611+00:00",
+  "LastChanged_Achievements": "2023-09-14T18:05:15.0681778+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:01:34.1242092+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:06:44.7776586+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:00:00.7506117+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:05:15.0682568+00:00"
 }

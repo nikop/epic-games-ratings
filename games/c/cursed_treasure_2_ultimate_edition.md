@@ -42,7 +42,7 @@
 | Starry: Tanglewood | 46.00% | ~78 |
 | Starry: Arcania | 43.00% | ~73 |
 | Sing, My Angel | 42.00% | ~71 |
-| The Coreland | 39.00% | ~66 |
+| The Coreland | 40.00% | ~68 |
 | Feed the Fishes | 38.00% | ~64 |
 | Starry: The Coreland | 37.00% | ~63 |
 | Brilliant: Wasteland | 33.00% | ~56 |
@@ -58,7 +58,7 @@
 | Hostile Waters | 18.00% | ~30 |
 | Loveless | 18.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 319)  
+Progressed: 169 (Ranked 320)  
 Completed: 25 (14.79%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |

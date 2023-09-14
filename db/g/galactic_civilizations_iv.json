@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -894,9 +894,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6619,
+  "EOS_Progressed": 6620,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6084,6 +6084,11 @@
       "Time": "2023-09-14T14:05:35.7189392+00:00",
       "NumProgressed": 6619,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T18:05:27.917389+00:00",
+      "NumProgressed": 6620,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6135,7 +6140,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4170
+      "UsersEstimate": 4171
     },
     {
       "ID": "Control_All_Relics",
@@ -6199,7 +6204,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5229
+      "UsersEstimate": 5230
     },
     {
       "ID": "First_Race_Met",
@@ -6207,7 +6212,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4832
+      "UsersEstimate": 4833
     },
     {
       "ID": "First_Ship_Designed",
@@ -6215,7 +6220,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "First_Stream_Travel",
@@ -6231,7 +6236,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5163
+      "UsersEstimate": 5164
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6311,7 +6316,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "Play_1000_Hours",
@@ -6670,15 +6675,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6619,
+      "Progressed": 6620,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-14T14:01:12.6509344+00:00",
-  "LastChanged_Achievements": "2023-09-14T17:07:02.9740192+00:00",
+  "LastChanged_Achievements": "2023-09-14T18:05:27.9173883+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:41.0141576+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:02:58.5747225+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:07:02.9741221+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:02:06.6265345+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:05:27.9174967+00:00"
 }

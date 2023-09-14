@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 160,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -3146,9 +3146,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51649,
+  "EOS_Progressed": 51650,
   "EOS_Completed": 232,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -11826,6 +11826,11 @@
       "Time": "2023-09-14T11:05:43.5656971+00:00",
       "NumProgressed": 51649,
       "NumCompleted": 232
+    },
+    {
+      "Time": "2023-09-14T18:05:03.6125744+00:00",
+      "NumProgressed": 51650,
+      "NumCompleted": 232
     }
   ],
   "TotalAchievements": 45,
@@ -11845,7 +11850,7 @@
       "Name": "\u0027\u0027You may fire when ready\u0027\u0027",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "COLLECT_EVERY_DATACARD",
@@ -11853,7 +11858,7 @@
       "Name": "\u0027\u0027What have you done with those plans?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "COMBAT_MULTIPLIER_OF_30",
@@ -11861,7 +11866,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 40803
+      "UsersEstimate": 40804
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -11893,7 +11898,7 @@
       "Name": "\u0027\u0027GONK!\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "COMPLETE_ALL_HUB_RACES",
@@ -11949,7 +11954,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30473
+      "UsersEstimate": 30474
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -12005,7 +12010,7 @@
       "Name": "The Last Jedi",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11879
+      "UsersEstimate": 11880
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -12021,7 +12026,7 @@
       "Name": "\u0027\u0027Hey, what are you trying to push on us?\u0027\u0027",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "COMPLETE_FLIGHT_LEVEL_WITHOUT_DYING",
@@ -12053,7 +12058,7 @@
       "Name": "The Slice",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "COMPLETE_SKYWALKER_SAGA",
@@ -12061,7 +12066,7 @@
       "Name": "\u0027\u0027It\u0027s true... all of it\u0027\u0027",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 9813
+      "UsersEstimate": 9814
     },
     {
       "ID": "CREATE_25_REBEL_DISGUISES",
@@ -12077,7 +12082,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 29956
+      "UsersEstimate": 29957
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -12141,7 +12146,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 36671
+      "UsersEstimate": 36672
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -12189,22 +12194,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 37187
+      "UsersEstimate": 37188
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51649,
+      "Progressed": 51650,
       "Completed": 232
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-09-12T21:58:58.6559009+00:00",
-  "LastChanged_Achievements": "2023-09-14T17:06:28.7107091+00:00",
+  "LastChanged_Achievements": "2023-09-14T18:05:03.6125739+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.2145974+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:01:20.6358145+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:06:28.7108186+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:59:52.0469462+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:05:03.6126662+00:00"
 }

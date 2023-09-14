@@ -24,6 +24,8 @@ Rating: 4.58 (Ranked 430)
 | Grave Robber | 2.00% | ~211 |
 | Data Miner | 1.00% | ~106 |
 | Data Archivist | 0.10% | ~11 |
+| Brother's Reaper | 0.10% | ~11 |
+| Heal Thy Medic | 0.10% | ~11 |
 | Miraculous Maya | 0.10% | ~11 |
 | Khan's Revenge | 0.10% | ~11 |
 | Call it Even | 0.10% | ~11 |
@@ -31,12 +33,10 @@ Rating: 4.58 (Ranked 430)
 | No Belter Left Behind | 0.10% | ~11 |
 | Oyedang, Kopengs | 0.00% | ~0 |
 | Drug Gifter | 0.00% | ~0 |
-| Brother's Reaper | 0.00% | ~0 |
-| Heal Thy Medic | 0.00% | ~0 |
 | Scavenger Star | 0.00% | ~0 |
 | Data Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,550 (Ranked 128)  
+Progressed: 10,550 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 430,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 128,
+  "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 104,
@@ -72,7 +72,7 @@
   "Tags": [],
   "EOS_Progressed": 10550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5452,17 +5452,17 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "24",
@@ -5589,8 +5589,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-14T17:09:10.3120562+00:00",
+  "LastChanged_Achievements": "2023-09-14T18:06:57.4959813+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:58:59.1576975+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:09:10.3121186+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:58:15.0386897+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:06:57.4960412+00:00"
 }

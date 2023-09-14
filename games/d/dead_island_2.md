@@ -30,14 +30,14 @@ Rating: 4.54 (Ranked 502)
 | This is My Weapon | 1.00% | ~6,797 |
 | Perks of the Job | 0.90% | ~6,117 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,117 |
-| Making Your Mark | 0.80% | ~5,437 |
-| Humanity Distilled | 0.80% | ~5,437 |
-| Down with the Sickness | 0.80% | ~5,437 |
+| Making Your Mark | 0.80% | ~5,438 |
+| Humanity Distilled | 0.80% | ~5,438 |
+| Down with the Sickness | 0.80% | ~5,438 |
 | Max Headroom | 0.70% | ~4,758 |
 | Go, Bobcats! | 0.60% | ~4,078 |
-| Smorgasbord | 0.50% | ~3,398 |
-| Jumbo Keyring | 0.50% | ~3,398 |
-| Rising Star | 0.50% | ~3,398 |
+| Smorgasbord | 0.50% | ~3,399 |
+| Jumbo Keyring | 0.50% | ~3,399 |
+| Rising Star | 0.50% | ~3,399 |
 | Not Even My Final Form | 0.40% | ~2,719 |
 | Internet Famous | 0.40% | ~2,719 |
 | Make it So | 0.30% | ~2,039 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,677 (Ranked 22)  
+Progressed: 679,718 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 2,143 (0.32%) (Ranked 177)
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
-| 2023-09-14 | 679,677 | 2,143 |
+| 2023-09-14 | 679,718 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,038  (Ranked 57)  
 Sum: 8,951 (Ranked 94)  

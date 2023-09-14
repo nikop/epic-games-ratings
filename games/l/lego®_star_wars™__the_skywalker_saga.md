@@ -7,11 +7,11 @@ Number of Ratings: 2,536  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | ''You guys got yourself a ship!'' | 97.00% | ~50,100 |
-| ''I don't like you either!'' | 79.00% | ~40,803 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,187 |
-| ''Impressive, most impressive'' | 71.00% | ~36,671 |
-| The Phantom Menace | 59.00% | ~30,473 |
-| ''Aggressive Negotiations'' | 58.00% | ~29,956 |
+| ''I don't like you either!'' | 79.00% | ~40,804 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,188 |
+| ''Impressive, most impressive'' | 71.00% | ~36,672 |
+| The Phantom Menace | 59.00% | ~30,474 |
+| ''Aggressive Negotiations'' | 58.00% | ~29,957 |
 | ''I can fly anything'' | 57.00% | ~29,440 |
 | ''And who gave you permission...?'' | 53.00% | ~27,374 |
 | A New Hope | 48.00% | ~24,792 |
@@ -21,18 +21,18 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''A fine addition to my collection'' | 37.00% | ~19,110 |
 | Return of the Jedi | 32.00% | ~16,528 |
 | The Force Awakens | 26.00% | ~13,429 |
-| The Last Jedi | 23.00% | ~11,879 |
+| The Last Jedi | 23.00% | ~11,880 |
 | The Rise of Skywalker | 20.00% | ~10,330 |
-| ''It's true... all of it'' | 19.00% | ~9,813 |
+| ''It's true... all of it'' | 19.00% | ~9,814 |
 | ''Get the crews to their fighters'' | 18.00% | ~9,297 |
 | ''Raw, untamed power'' | 8.00% | ~4,132 |
 | Rishi Maze | 5.00% | ~2,582 |
 | ''Only one business in the Galaxy...'' | 5.00% | ~2,582 |
-| ''You may fire when ready'' | 3.00% | ~1,549 |
-| ''What have you done with those plans?'' | 3.00% | ~1,549 |
-| ''GONK!'' | 3.00% | ~1,549 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,549 |
-| The Slice | 3.00% | ~1,549 |
+| ''You may fire when ready'' | 3.00% | ~1,550 |
+| ''What have you done with those plans?'' | 3.00% | ~1,550 |
+| ''GONK!'' | 3.00% | ~1,550 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,550 |
+| The Slice | 3.00% | ~1,550 |
 | ''Hello there!'' | 2.00% | ~1,033 |
 | Unknown Regions | 2.00% | ~1,033 |
 | ''Do or do not. There is no try'' | 2.00% | ~1,033 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~516 |
 | ''I've never seen a real one!'' | 0.90% | ~465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,649 (Ranked 91)  
+Progressed: 51,650 (Ranked 91)  
 Completed: 232 (0.45%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 232 (0.45%) (Ranked 160)
 | 2023-09-11 | 51,627 | 231 |
 | 2023-09-12 | 51,636 | 232 |
 | 2023-09-13 | 51,647 | 232 |
-| 2023-09-14 | 51,649 | 232 |
+| 2023-09-14 | 51,650 | 232 |
 ## Awards
 Max (Great Boss Battles): 2,403  (Ranked 103)  
 Sum: 6,593 (Ranked 118)  

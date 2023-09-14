@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 49.00% | ~75 |
+| That's the spirit | 50.00% | ~77 |
 | Welcome to the Tower | 46.00% | ~71 |
 | The great escape | 42.00% | ~65 |
 | The Preacher's fate | 41.00% | ~63 |
@@ -20,8 +20,8 @@
 | Half the way | 23.00% | ~35 |
 | Peace walker | 22.00% | ~34 |
 | Open door | 22.00% | ~34 |
+| Rascal | 20.00% | ~31 |
 | Feels like springtime | 19.00% | ~29 |
-| Rascal | 19.00% | ~29 |
 | Free at last | 18.00% | ~28 |
 | Alchemists Express | 18.00% | ~28 |
 | A Link to the Past | 16.00% | ~25 |
@@ -30,7 +30,7 @@
 | Fashion victim | 12.00% | ~18 |
 | I did it | 9.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 324)  
+Progressed: 154 (Ranked 325)  
 Completed: 7 (4.55%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |

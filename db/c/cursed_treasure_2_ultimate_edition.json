@@ -2,9 +2,9 @@
   "ID": "68f36df0a2174a6ab9059fb149f994f4",
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -318,9 +318,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_5",
       "SetID": "ak6pfjk",
       "Name": "The Coreland",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_6",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-09-14T17:07:37.2367244+00:00",
+  "LastChanged_Achievements": "2023-09-14T18:05:52.8094077+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:21.1461898+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:57:59.9026002+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:07:37.2367713+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:57:35.4128412+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:05:52.8094595+00:00"
 }

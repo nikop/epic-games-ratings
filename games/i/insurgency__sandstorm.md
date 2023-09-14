@@ -6,27 +6,27 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~22,436 |
-| Exploitative | 4.00% | ~17,948 |
-| Point Shooting | 4.00% | ~17,948 |
-| Wet Feet | 4.00% | ~17,948 |
-| High Speed Low Drag | 3.00% | ~13,461 |
-| Lucky | 3.00% | ~13,461 |
-| Stylin' | 3.00% | ~13,461 |
-| Turf War | 3.00% | ~13,461 |
-| Banged | 2.00% | ~8,974 |
-| Checkpoint Victory | 2.00% | ~8,974 |
-| First Blood | 2.00% | ~8,974 |
-| Flaccid Paralysis | 2.00% | ~8,974 |
-| Push Victory | 2.00% | ~8,974 |
-| Self-destructive | 2.00% | ~8,974 |
-| Blindfire | 1.00% | ~4,487 |
-| Ruthless | 1.00% | ~4,487 |
-| Semper Paratus | 1.00% | ~4,487 |
-| Carrying | 0.90% | ~4,038 |
-| Efficient | 0.90% | ~4,038 |
-| Mount & Gun | 0.90% | ~4,038 |
-| Personal | 0.90% | ~4,038 |
+| Wallbanger | 5.00% | ~22,438 |
+| Exploitative | 4.00% | ~17,950 |
+| Point Shooting | 4.00% | ~17,950 |
+| Wet Feet | 4.00% | ~17,950 |
+| High Speed Low Drag | 3.00% | ~13,462 |
+| Lucky | 3.00% | ~13,462 |
+| Stylin' | 3.00% | ~13,462 |
+| Turf War | 3.00% | ~13,462 |
+| Banged | 2.00% | ~8,975 |
+| Checkpoint Victory | 2.00% | ~8,975 |
+| First Blood | 2.00% | ~8,975 |
+| Flaccid Paralysis | 2.00% | ~8,975 |
+| Push Victory | 2.00% | ~8,975 |
+| Self-destructive | 2.00% | ~8,975 |
+| Blindfire | 1.00% | ~4,488 |
+| Ruthless | 1.00% | ~4,488 |
+| Semper Paratus | 1.00% | ~4,488 |
+| Carrying | 0.90% | ~4,039 |
+| Efficient | 0.90% | ~4,039 |
+| Mount & Gun | 0.90% | ~4,039 |
+| Personal | 0.90% | ~4,039 |
 | Grounded | 0.80% | ~3,590 |
 | Play to Win | 0.80% | ~3,590 |
 | Special Delivery | 0.70% | ~3,141 |
@@ -36,13 +36,13 @@ Number of Ratings: 1,316  (23.09.2022)
 | Thanks Station! | 0.40% | ~1,795 |
 | Knock Knock | 0.30% | ~1,346 |
 | There For You | 0.30% | ~1,346 |
-| Hit and Run | 0.20% | ~897 |
+| Hit and Run | 0.20% | ~898 |
 | Designated Driver | 0.10% | ~449 |
 | J.R. .50 | 0.10% | ~449 |
 | It's All in the Reflexes | 0.10% | ~449 |
 | Road Hazard | 0.10% | ~449 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,712 (Ranked 38)  
+Progressed: 448,750 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 2 (0.00%) (Ranked 274)
 | 2023-09-11 | 446,644 | 2 |
 | 2023-09-12 | 447,443 | 2 |
 | 2023-09-13 | 448,164 | 2 |
-| 2023-09-14 | 448,712 | 2 |
+| 2023-09-14 | 448,750 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 379  (Ranked 223)  
 Sum: 2,971 (Ranked 170)  

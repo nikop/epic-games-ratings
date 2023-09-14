@@ -4,10 +4,10 @@
   "ProductSlug": "dandara",
   "Ranking_Rating": 468,
   "Ranking_Popularity": 405,
-  "Ranking_PopularitySum": 453,
+  "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-01-28T16:00:00+00:00",
@@ -384,6 +384,6 @@
   "FirstSeen": "2022-07-22T20:18:00.133463+00:00",
   "LastChanged": "2023-08-20T08:57:03.7432104+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:52.8219083+00:00",
-  "LastUpdate_Ratings": "2023-09-14T16:59:38.7120589+00:00",
-  "LastUpdate_Achievements": "2023-09-14T17:09:18.2096832+00:00"
+  "LastUpdate_Ratings": "2023-09-14T17:58:42.8828809+00:00",
+  "LastUpdate_Achievements": "2023-09-14T18:07:02.7675413+00:00"
 }
