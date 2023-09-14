@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.76% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.08% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 38.17% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.93% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 26.37% |
@@ -124,8 +124,8 @@
 | 122 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.00% |
 | 122 | [Sable](games/s/sable.md) | 1.00% |
 | 124 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.99% |
-| 125 | [Eternights](games/e/eternights.md) | 0.97% |
 | 125 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.97% |
+| 126 | [Eternights](games/e/eternights.md) | 0.95% |
 | 127 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.94% |
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 129 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.88% |
@@ -196,7 +196,7 @@
 | 192 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 195 | [Blanc](games/b/blanc.md) | 0.22% |
 | 195 | [Circus Electrique](games/c/circus_electrique.md) | 0.22% |
-| 197 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 195 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 198 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.20% |
 | 199 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.19% |
 | 199 | [RAILGRADE](games/r/railgrade.md) | 0.19% |

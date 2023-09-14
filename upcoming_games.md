@@ -3,13 +3,13 @@
 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 2023-09-14 | 52 (1,000 XP) | 1 | - | - |
 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 2023-09-14 | - |  | - | - |
 | [Vacation Adventures Park Ranger 15](games/e/e40d04b9feb84c97ace80efde624b490.md) | 2023-09-14 | - |  | - | - |
-| [Heard of the Story?](games/f/f743b163183e4a37a4d0114ec04bdd52.md) | 2023-09-14 | - |  | - | - |
 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2023-09-14 | - |  | - | - |
 | [CATAIRE](games/b/be657c5da1ad4bb48cb458c8db67b45e.md) | 2023-09-14 | - |  | - | - |
 | [Homeseek](games/4/4d38b523f0ef409d9cc79af313643ec9.md) | 2023-09-14 | 54 (1,000 XP) | 0 | - | - |
 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 2023-09-14 | 18 (1,000 XP) | 7 | - | - |
 | [REMEDIUM](games/d/d7b044ca99c248179adbfc8369528279.md) | 2023-09-14 | - |  | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 10 | - | - |
+| [Heard of the Story?](games/f/f743b163183e4a37a4d0114ec04bdd52.md) | 2023-09-14 | - |  | - | - |
 | [Compass of the Destiny: Istanbul](games/c/c13ad282a1184e689e2f14038564c7ef.md) | 2023-09-14 | - |  | - | - |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-09-15 | 16 (1,000 XP) | 1 | - | 0 |
 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-15 | - |  | - | 0 |
