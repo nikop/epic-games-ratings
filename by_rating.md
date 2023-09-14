@@ -216,7 +216,7 @@
 | 202 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,537 | 74 |
 | 202 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 517 |
 | 216 | [Black Book](games/b/black_book.md) | 4.69 | 49 | 408 |
-| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 116,397 | 8 |
+| 216 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 116,465 | 8 |
 | 216 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 517 |
 | 216 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 517 |
 | 216 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,076 | 56 |
@@ -238,7 +238,7 @@
 | 216 | [The Pathless](games/t/the_pathless.md) | 4.69 | 0 | 517 |
 | 216 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.69 | 0 | 517 |
 | 216 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 41 | 425 |
-| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 978 | 146 |
+| 216 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 979 | 146 |
 | 216 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 517 |
 | 216 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 824 | 156 |
 | 242 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,347 | 90 |
@@ -261,7 +261,7 @@
 | 259 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 517 |
 | 259 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 673 | 174 |
 | 259 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 517 |
-| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 654 | 177 |
+| 259 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 655 | 177 |
 | 259 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.67 | 0 | 517 |
 | 259 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.67 | 0 | 517 |
 | 259 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.67 | 0 | 517 |
@@ -429,7 +429,7 @@
 | 416 | [Torchlight II](games/t/torchlight_ii.md) | 4.59 | 1,024 | 144 |
 | 416 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 517 |
 | 416 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 712 | 167 |
-| 430 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,047 | 11 |
+| 430 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 61,073 | 11 |
 | 430 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 166 | 293 |
 | 430 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 517 |
 | 430 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 9,098 | 39 |
@@ -438,7 +438,7 @@
 | 430 | [GRIT](games/g/grit.md) | 4.58 | 0 | 517 |
 | 430 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 506 |
 | 430 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 7,766 | 45 |
-| 430 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,496 | 123 |
+| 430 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,492 | 123 |
 | 430 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 517 |
 | 430 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 313 |
 | 430 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 214 | 270 |
@@ -745,15 +745,15 @@
 | 740 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.37 | 51 | 403 |
 | 740 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.37 | 0 | 517 |
 | 740 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.37 | 0 | 517 |
+| 740 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.37 | 46 | 414 |
 | 740 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.37 | 32 | 458 |
-| 747 | [Core](games/c/core.md) | 4.36 | 749 | 163 |
-| 747 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 287 |
-| 747 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.36 | 0 | 517 |
-| 747 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,672 | 29 |
-| 747 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 517 |
-| 747 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 480 |
-| 747 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 115 | 325 |
-| 747 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.36 | 46 | 414 |
+| 748 | [Core](games/c/core.md) | 4.36 | 749 | 163 |
+| 748 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 287 |
+| 748 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.36 | 0 | 517 |
+| 748 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,672 | 29 |
+| 748 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 517 |
+| 748 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 480 |
+| 748 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 115 | 325 |
 | 755 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 517 |
 | 755 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 517 |
 | 755 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 517 |
@@ -807,7 +807,7 @@
 | 799 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.30 | 0 | 517 |
 | 806 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 517 |
 | 806 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.29 | 0 | 517 |
-| 806 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,691,081 | 1 |
+| 806 | [Fortnite](games/f/fortnite.md) | 4.29 | 1,694,844 | 1 |
 | 806 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 23 | 494 |
 | 806 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 728 | 165 |
 | 806 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 517 |
@@ -961,7 +961,7 @@
 | 959 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 466 |
 | 959 | [Chimeraland](games/c/chimeraland.md) | 3.93 | 27 | 473 |
 | 959 | [Conarium](games/c/conarium.md) | 3.93 | 0 | 517 |
-| 959 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 435 | 209 |
+| 959 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 436 | 209 |
 | 963 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.92 | 0 | 517 |
 | 964 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 335 |
 | 964 | [Warface](games/w/warface.md) | 3.91 | 414 | 215 |

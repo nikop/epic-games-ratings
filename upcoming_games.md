@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Compass of the Destiny: Istanbul](games/c/c13ad282a1184e689e2f14038564c7ef.md) | 2023-09-14 | - |  | - | - |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-09-15 | 16 (1,000 XP) | 1 | - | 0 |
 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-15 | - |  | - | 0 |
 | [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | 10 (1,000 XP) | 0 | - | - |
@@ -177,7 +176,6 @@
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2023-12-31 | - |  | - | - |
 | [Runeroots TD](games/2/2f169ae019ee48318209c0aebef2b378.md) | 2023-12-31 | - |  | - | - |
 | [Saloon Simulator](games/6/678afb6b7fea4643a800b5e1783347b7.md) | 2023-12-31 | - |  | - | - |
-| [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2023-12-31 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2023-12-31 | - |  | - | - |
 | [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 2023-12-31 | - |  | - | - |
 | [Super BUFF HD](games/7/74b34f2f86db48579e9f785686886111.md) | 2023-12-31 | - |  | - | - |
@@ -234,6 +232,7 @@
 | [MonTamer](games/m/montamer.md) | 2024-12-31 | - |  | - | - |
 | [NEO BERLIN 2087](games/6/6360997dd9194c40aa70a701791b1819.md) | 2024-12-31 | - |  | - | - |
 | [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2024-12-31 | - |  | - | - |
+| [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-12-31 | - |  | - | - |
 | [TERCIOS - Honor and glory](games/1/1203b99d9f59457480a3da3c090a3858.md) | 2024-12-31 | - |  | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | - |  | - | - |
 | [The Bornless](games/a/aaa64a6e060d46ba8de15f19a0d6269e.md) | 2024-12-31 | - |  | - | - |
@@ -375,6 +374,7 @@
 | [Outbreak Island](games/o/outbreak_island.md) | 2099-01-01 | - |  | - | - |
 | [PACK MY STUFF](games/d/d71669b3eabc4ca3869613ccaf16bdd8.md) | 2099-01-01 | - |  | - | - |
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | - |  | - | - |
+| [Paranormal Mission](games/0/03da83c059e94d01a5be784017ea0f4d.md) | 2099-01-01 | - |  | - | - |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2099-01-01 | - |  | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2099-01-01 | - |  | - | - |
 | [Pillazon - MMO Drug Lord Tycoon](games/e/e3ea6ce18c3143ec8b4dbd15bb16a73c.md) | 2099-01-01 | - |  | - | - |
