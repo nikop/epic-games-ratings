@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 392,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1234,6 +1234,11 @@
       "Time": "2023-09-13T21:05:02.7180827+00:00",
       "NumProgressed": 391,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-14T23:06:30.9389451+00:00",
+      "NumProgressed": 392,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -1245,15 +1250,15 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 54,
       "XP": 60,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 184
+      "UsersEstimate": 180
     },
     {
       "ID": "completeact3",
@@ -1317,7 +1322,7 @@
       "Name": "Souvenirs",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "scoreminrankrp1",
@@ -1325,7 +1330,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "scoreminrankrp2",
@@ -1364,7 +1369,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 392,
       "Completed": 2
     }
   ],
@@ -1372,8 +1377,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:06:02.0421017+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:06:30.9389443+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:22.9381238+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:58:45.3323958+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:06:02.0421357+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:58:55.6669006+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:06:30.938977+00:00"
 }

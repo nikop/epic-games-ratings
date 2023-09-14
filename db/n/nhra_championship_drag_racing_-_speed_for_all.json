@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -674,9 +674,9 @@
       "ID": "14",
       "SetID": "4n5bj21",
       "Name": "Trouble with the swerve",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 547
     },
     {
       "ID": "15",
@@ -915,8 +915,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:04:59.0028074+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:05:18.5735973+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.1711908+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:58:08.6451829+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:04:59.0028514+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:58:17.55617+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:05:18.5736468+00:00"
 }

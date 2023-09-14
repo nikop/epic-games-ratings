@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -430,9 +430,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -462,9 +462,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -493,8 +493,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:04:04.15163+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:04:16.0266972+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:58:42.6250513+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:04:04.151662+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:58:52.3331991+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:04:16.0267292+00:00"
 }

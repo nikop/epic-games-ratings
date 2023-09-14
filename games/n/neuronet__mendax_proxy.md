@@ -11,11 +11,12 @@
 | Shook Up | 52.00% | ~12 |
 | The Birds and the Bees | 52.00% | ~12 |
 | Vaccinated | 52.00% | ~12 |
+| Busybody | 43.00% | ~10 |
 | Task Master | 43.00% | ~10 |
+| An Acquired Taste | 39.00% | ~9 |
 | A Light in the Dark | 39.00% | ~9 |
-| Busybody | 39.00% | ~9 |
 | Warning: Fragile | 39.00% | ~9 |
-| An Acquired Taste | 35.00% | ~8 |
+| A Real Headache | 35.00% | ~8 |
 | The Guardian | 35.00% | ~8 |
 | Endgame | 35.00% | ~8 |
 | The Philosopher | 35.00% | ~8 |
@@ -23,12 +24,11 @@
 | Socially Acceptable Insanity | 35.00% | ~8 |
 | The Companion | 35.00% | ~8 |
 | The Counsellor | 35.00% | ~8 |
-| A Real Headache | 30.00% | ~7 |
 | A Total Riot | 30.00% | ~7 |
 | Everyone Needs a Break | 30.00% | ~7 |
+| Knock Knock | 30.00% | ~7 |
 | They Flock to Him | 30.00% | ~7 |
 | Blood Begets Blood | 26.00% | ~6 |
-| Knock Knock | 26.00% | ~6 |
 | That One Doesn't Count | 26.00% | ~6 |
 | Full Coverage | 22.00% | ~5 |
 | Job Creator | 22.00% | ~5 |
@@ -44,10 +44,10 @@
 | Tastes Like Regret | 13.00% | ~3 |
 | The Spice of Life | 13.00% | ~3 |
 | The Mentor | 9.00% | ~2 |
+| What They Don't Know Can't Hurt Them | 9.00% | ~2 |
 | Wilful Ignorance | 9.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 4.00% | ~1 |
 | Double Agent | 4.00% | ~1 |
-| What They Don't Know Can't Hurt Them | 4.00% | ~1 |
 | Keeper of the People | 0.00% | ~0 |
 | The Archetype | 0.00% | ~0 |
 | The Surrogate | 0.00% | ~0 |

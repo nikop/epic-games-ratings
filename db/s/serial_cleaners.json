@@ -4,8 +4,8 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244,
+  "EOS_Progressed": 245,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.46,
+  "EOS_Completed_Percentage": 2.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -481,6 +481,11 @@
       "Time": "2023-09-10T07:05:06.2362333+00:00",
       "NumProgressed": 244,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-14T23:07:29.3452928+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -498,9 +503,9 @@
       "ID": "ALL_MEMORIES",
       "SetID": "2lk004m",
       "Name": "Total Recall",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "BOB_SLIDE",
@@ -564,7 +569,7 @@
       "Name": "So it goes",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -683,13 +688,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 244,
+      "Progressed": 245,
       "Completed": 6
     }
   ],
@@ -697,8 +702,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:06:51.8959634+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:07:29.3452918+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:41.8761266+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:59:06.0030859+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:06:51.895986+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:59:21.1277139+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:07:29.3453298+00:00"
 }

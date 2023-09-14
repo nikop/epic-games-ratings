@@ -869,9 +869,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 70,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "Compiling",
@@ -901,17 +901,17 @@
       "ID": "Floppy",
       "SetID": "7jbi7el",
       "Name": "Additional Data",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Fusses",
       "SetID": "7jbi7el",
       "Name": "Beginner Electrician",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 70,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     },
     {
       "ID": "GameComplete",
@@ -949,9 +949,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 70,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "SecretRoom",
@@ -980,8 +980,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:06:52.4254153+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:07:30.0563861+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.4451635+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:00:27.6273831+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:06:52.4254368+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:01:02.633295+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:07:30.0564134+00:00"
 }

@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 4.00% | ~556 |
 | Architect | 4.00% | ~556 |
 | Intrepid | 4.00% | ~556 |
+| Hanging Gardens | 4.00% | ~556 |
 | Ambitious | 3.00% | ~417 |
 | Enlightened | 3.00% | ~417 |
 | Glorious | 3.00% | ~417 |
@@ -28,7 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 3.00% | ~417 |
 | Warrior | 3.00% | ~417 |
 | Developing Cities | 3.00% | ~417 |
-| Hanging Gardens | 3.00% | ~417 |
+| Strong Cities | 3.00% | ~417 |
 | Ishtar Gate | 3.00% | ~417 |
 | Oracle | 3.00% | ~417 |
 | Pyramids | 3.00% | ~417 |
@@ -47,7 +48,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 2.00% | ~278 |
 | Wise | 2.00% | ~278 |
 | Legendary Cities | 2.00% | ~278 |
-| Strong Cities | 2.00% | ~278 |
 | Able Difficulty | 2.00% | ~278 |
 | Just Difficulty | 2.00% | ~278 |
 | Artisans | 2.00% | ~278 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,908 (Ranked 123)  
+Progressed: 13,909 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -450,7 +450,7 @@ Completed: 5 (0.04%) (Ranked 243)
 | 2023-09-11 | 13,868 | 5 |
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
-| 2023-09-14 | 13,908 | 5 |
+| 2023-09-14 | 13,909 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

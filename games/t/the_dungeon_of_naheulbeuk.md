@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,213 |
-| Alt+F4 | 5.00% | ~11,202 |
+| Sowwy! | 30.00% | ~67,216 |
+| Alt+F4 | 5.00% | ~11,203 |
 | Where's that freaking Dwarf? | 4.00% | ~8,962 |
-| Déjà vu | 3.00% | ~6,721 |
-| Sock! SOCK! | 3.00% | ~6,721 |
+| Déjà vu | 3.00% | ~6,722 |
+| Sock! SOCK! | 3.00% | ~6,722 |
 | Livin' in a dwarven paradise | 2.00% | ~4,481 |
 | Way of the Wimp | 2.00% | ~4,481 |
 | A beer, two curses, three companions | 2.00% | ~4,481 |
@@ -19,21 +19,21 @@ Number of Ratings: 118  (23.09.2022)
 | DM intervention | 2.00% | ~4,481 |
 | Speedrun | 2.00% | ~4,481 |
 | Fireproof Wizardess | 2.00% | ~4,481 |
-| Shiny and Crôm | 1.00% | ~2,240 |
-| The demons' feast | 1.00% | ~2,240 |
-| The Great Library | 1.00% | ~2,240 |
-| Torture and Sensibility | 1.00% | ~2,240 |
-| Urik's Depths | 1.00% | ~2,240 |
-| The Dungeon Master | 1.00% | ~2,240 |
-| The Statuette of Gladeulfeurah | 1.00% | ~2,240 |
-| The Woman in the High Castle | 1.00% | ~2,240 |
-| A tale of adventurers not quite like the others... | 1.00% | ~2,240 |
-| The beards of change | 1.00% | ~2,240 |
-| The Ranger of Chaos | 1.00% | ~2,240 |
-| I am the night | 1.00% | ~2,240 |
-| Thieves' Guild Accreditation | 1.00% | ~2,240 |
-| Team Building Exercise | 1.00% | ~2,240 |
-| Oh, when I'll be level 10... | 1.00% | ~2,240 |
+| Shiny and Crôm | 1.00% | ~2,241 |
+| The demons' feast | 1.00% | ~2,241 |
+| The Great Library | 1.00% | ~2,241 |
+| Torture and Sensibility | 1.00% | ~2,241 |
+| Urik's Depths | 1.00% | ~2,241 |
+| The Dungeon Master | 1.00% | ~2,241 |
+| The Statuette of Gladeulfeurah | 1.00% | ~2,241 |
+| The Woman in the High Castle | 1.00% | ~2,241 |
+| A tale of adventurers not quite like the others... | 1.00% | ~2,241 |
+| The beards of change | 1.00% | ~2,241 |
+| The Ranger of Chaos | 1.00% | ~2,241 |
+| I am the night | 1.00% | ~2,241 |
+| Thieves' Guild Accreditation | 1.00% | ~2,241 |
+| Team Building Exercise | 1.00% | ~2,241 |
+| Oh, when I'll be level 10... | 1.00% | ~2,241 |
 | Res Judicata | 0.90% | ~2,016 |
 | The Famous Dungeon of Naheulbeuk | 0.90% | ~2,016 |
 | Dwarf Fortress | 0.90% | ~2,016 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,043 (Ranked 57)  
+Progressed: 224,052 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 2 (0.00%) (Ranked 275)
 | 2023-09-11 | 223,344 | 2 |
 | 2023-09-12 | 223,556 | 2 |
 | 2023-09-13 | 223,808 | 2 |
-| 2023-09-14 | 224,043 | 2 |
+| 2023-09-14 | 224,052 | 2 |
 ## Awards
 Max (Character Customization): 195  (Ranked 275)  
 Sum: 314 (Ranked 338)  

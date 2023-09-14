@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -3634,9 +3634,9 @@
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
       "SetID": "3pe2bac",
       "Name": "Everfrost",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1989
+      "UsersEstimate": 2014
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3730,9 +3730,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1989
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3987,8 +3987,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:06:25.6302642+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:06:58.658209+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:13.613728+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:01:51.7337243+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:06:25.6303877+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:02:41.6820241+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:06:58.6583296+00:00"
 }

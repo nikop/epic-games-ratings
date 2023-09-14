@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1110,9 +1110,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5091,
+  "EOS_Progressed": 5093,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9545,6 +9545,11 @@
       "Time": "2023-09-14T21:03:49.4676049+00:00",
       "NumProgressed": 5091,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-14T23:04:13.8089579+00:00",
+      "NumProgressed": 5093,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9564,7 +9569,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -9620,7 +9625,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -9644,7 +9649,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -9652,7 +9657,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -9660,7 +9665,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -9708,7 +9713,7 @@
       "Name": "The Governator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -9716,7 +9721,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3869
+      "UsersEstimate": 3871
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9740,7 +9745,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -9748,7 +9753,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_MYWAYS",
@@ -9812,7 +9817,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -9836,7 +9841,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -9860,7 +9865,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -9875,15 +9880,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5091,
+      "Progressed": 5093,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-14T16:01:20.4133159+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:04:02.2807615+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:04:13.8089572+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:00:28.8127855+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:04:02.2809082+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:01:04.1970257+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:04:13.8091005+00:00"
 }

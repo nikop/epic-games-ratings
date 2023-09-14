@@ -3704,10 +3704,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3378,
       "NumberOfAwardsMax": 395
+    },
+    {
+      "Time": "2023-09-14T23:01:03.0304355+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3379,
+      "NumberOfAwardsMax": 395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3378,
+  "NumberOfAwards": 3379,
   "NumberOfAwardsMax": 395,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3745,7 +3751,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 360
+      "Count": 361
     },
     {
       "Text": "This game is Educational",
@@ -3778,9 +3784,9 @@
       "Count": 286
     }
   ],
-  "EOS_Progressed": 243717,
+  "EOS_Progressed": 243718,
   "EOS_Completed": 829,
-  "EOS_NewPlayers": 761,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -19763,6 +19769,11 @@
       "Time": "2023-09-14T22:07:31.3499657+00:00",
       "NumProgressed": 243717,
       "NumCompleted": 829
+    },
+    {
+      "Time": "2023-09-14T23:08:16.1381108+00:00",
+      "NumProgressed": 243718,
+      "NumCompleted": 829
     }
   ],
   "TotalAchievements": 39,
@@ -19774,7 +19785,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60929
+      "UsersEstimate": 60930
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -19830,7 +19841,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 63366
+      "UsersEstimate": 63367
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -19838,7 +19849,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 221782
+      "UsersEstimate": 221783
     },
     {
       "ID": "AchievementClownID",
@@ -19902,7 +19913,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 129170
+      "UsersEstimate": 129171
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -19950,7 +19961,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 34120
+      "UsersEstimate": 34121
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -19974,7 +19985,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 92612
+      "UsersEstimate": 92613
     },
     {
       "ID": "AchievementRampID",
@@ -20022,7 +20033,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 121858
+      "UsersEstimate": 121859
     },
     {
       "ID": "AchievementStreakingID",
@@ -20038,7 +20049,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34120
+      "UsersEstimate": 34121
     },
     {
       "ID": "AchievementThroneID",
@@ -20046,7 +20057,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 134044
+      "UsersEstimate": 134045
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -20070,7 +20081,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 158416
+      "UsersEstimate": 158417
     },
     {
       "ID": "AchievementWhaleID",
@@ -20085,16 +20096,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 243717,
+      "Progressed": 243718,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-09-14T17:01:05.1237762+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:07:31.3499652+00:00",
+  "LastChanged": "2023-09-14T23:01:03.0304353+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:08:16.1381101+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.4582419+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:00:27.9700775+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:07:31.3501103+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:01:03.0304361+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:08:16.1383368+00:00"
 }

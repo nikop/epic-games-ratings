@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -1220,9 +1220,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1467,8 +1467,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:06:38.467544+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:07:13.2472731+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.8460187+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:57:40.5311541+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:06:38.4675949+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:57:42.9845139+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:07:13.2473238+00:00"
 }

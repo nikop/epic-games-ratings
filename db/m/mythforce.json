@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1871,
+  "EOS_Progressed": 1880,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4366,6 +4366,11 @@
       "Time": "2023-09-14T22:07:35.7683163+00:00",
       "NumProgressed": 1871,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T23:08:21.1413816+00:00",
+      "NumProgressed": 1880,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4402,7 +4407,7 @@
       "Name": "Death Becomes You",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -4450,7 +4455,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -4472,17 +4477,17 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
       "SetID": "9b9n573",
       "Name": "We\u0027ve Got a Kaiju on the Field",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -4506,7 +4511,7 @@
       "Name": "On this Episode!",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -4528,9 +4533,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -4546,30 +4551,30 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MF_Ach_VexedHer",
       "SetID": "9b9n573",
       "Name": "Vexed Her",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1871,
+      "Progressed": 1880,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:07:35.7683156+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:08:21.1413808+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:58:19.8040906+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:07:35.7683829+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:58:29.0900046+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:08:21.1414339+00:00"
 }

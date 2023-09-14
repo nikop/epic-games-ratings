@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -188,7 +188,7 @@
   "Tags": [],
   "EOS_Progressed": 5133,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5134,9 +5134,9 @@
       "ID": "ACH_ALL_CRAZY",
       "SetID": "5nj1ea3",
       "Name": "Cuckoo\u0027s nest",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_ALL_ITEMS",
@@ -5599,8 +5599,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-09-10T14:58:56.3860075+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:08:13.423265+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:09:04.0147014+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:16.3233808+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:00:28.5568923+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:08:13.4234164+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:01:03.9977355+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:09:04.0148137+00:00"
 }

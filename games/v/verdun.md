@@ -6,22 +6,22 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~45,374 |
-| Worth it | 63.00% | ~36,648 |
-| Eagle Eye | 55.00% | ~31,995 |
-| Corpseman I | 40.00% | ~23,269 |
+| Setting an example | 78.00% | ~45,376 |
+| Worth it | 63.00% | ~36,650 |
+| Eagle Eye | 55.00% | ~31,996 |
+| Corpseman I | 40.00% | ~23,270 |
 | Blast fishing | 37.00% | ~21,524 |
-| Not alone | 32.00% | ~18,615 |
+| Not alone | 32.00% | ~18,616 |
 | Headhunter I | 26.00% | ~15,125 |
-| Manual Labour I | 25.00% | ~14,543 |
-| Developers, Developers, Developers | 24.00% | ~13,961 |
-| Basic Training | 24.00% | ~13,961 |
-| Furchtlos und Treu | 13.00% | ~7,562 |
+| Manual Labour I | 25.00% | ~14,544 |
+| Developers, Developers, Developers | 24.00% | ~13,962 |
+| Basic Training | 24.00% | ~13,962 |
+| Furchtlos und Treu | 13.00% | ~7,563 |
 | Gott Mit Uns | 12.00% | ~6,981 |
-| This We'll Defend! | 9.00% | ~5,235 |
-| Anker wirf! | 9.00% | ~5,235 |
-| Providentiea Memor | 9.00% | ~5,235 |
-| For King and Country | 9.00% | ~5,235 |
+| This We'll Defend! | 9.00% | ~5,236 |
+| Anker wirf! | 9.00% | ~5,236 |
+| Providentiea Memor | 9.00% | ~5,236 |
+| For King and Country | 9.00% | ~5,236 |
 | Battle hardened | 8.00% | ~4,654 |
 | Semper Fidelis! | 7.00% | ~4,072 |
 | Honneur et Patrie | 7.00% | ~4,072 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~58 |
 | Blood Brother | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,172 (Ranked 89)  
+Progressed: 58,174 (Ranked 89)  
 Completed: 4 (0.01%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,14 +213,14 @@ Completed: 4 (0.01%) (Ranked 261)
 | 2023-09-11 | 57,930 | 4 |
 | 2023-09-12 | 58,015 | 4 |
 | 2023-09-13 | 58,095 | 4 |
-| 2023-09-14 | 58,172 | 4 |
+| 2023-09-14 | 58,174 | 4 |
 ## Awards
-Max (Highly Recommended): 96  (Ranked 346)  
-Sum: 773 (Ranked 268)  
-Diff (max vs sum): 78  
+Max (Highly Recommended): 97  (Ranked 345)  
+Sum: 774 (Ranked 268)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 96 |
+| This game is Highly Recommended | 97 |
 | This game is Extremely Fun | 91 |
 | This game is Great for Beginners | 88 |
 | This game has Diverse Characters | 87 |
@@ -369,3 +369,4 @@ Diff (max vs sum): 78
 | 2023-09-04 | 4.52 | - | 96 | 770 |
 | 2023-09-05 | 4.52 | - | 96 | 772 |
 | 2023-09-13 | 4.52 | - | 96 | 773 |
+| 2023-09-14 | 4.52 | - | 97 | 774 |

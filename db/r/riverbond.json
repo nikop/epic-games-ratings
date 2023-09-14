@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527314,
+  "EOS_Progressed": 527315,
   "EOS_Completed": 473,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -16219,6 +16219,11 @@
       "Time": "2023-09-14T22:07:32.4225359+00:00",
       "NumProgressed": 527314,
       "NumCompleted": 473
+    },
+    {
+      "Time": "2023-09-14T23:08:17.3390532+00:00",
+      "NumProgressed": 527315,
+      "NumCompleted": 473
     }
   ],
   "TotalAchievements": 57,
@@ -16238,7 +16243,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237291
+      "UsersEstimate": 237292
     },
     {
       "ID": "11",
@@ -16278,7 +16283,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 52731
+      "UsersEstimate": 52732
     },
     {
       "ID": "16",
@@ -16318,7 +16323,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 52731
+      "UsersEstimate": 52732
     },
     {
       "ID": "20",
@@ -16326,7 +16331,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126555
+      "UsersEstimate": 126556
     },
     {
       "ID": "21",
@@ -16454,7 +16459,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 263657
+      "UsersEstimate": 263658
     },
     {
       "ID": "36",
@@ -16526,7 +16531,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89643
+      "UsersEstimate": 89644
     },
     {
       "ID": "44",
@@ -16606,7 +16611,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242564
+      "UsersEstimate": 242565
     },
     {
       "ID": "53",
@@ -16685,15 +16690,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527314,
+      "Progressed": 527315,
       "Completed": 473
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:07:32.4225353+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:08:17.3390526+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.7109557+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:57:13.972909+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:07:32.4227996+00:00"
+  "LastUpdate_Ratings": "2023-09-14T22:57:09.6395811+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:08:17.3392027+00:00"
 }

@@ -80,12 +80,14 @@
 | Golden BBQ | 2.00% | ~1 |
 | The Healer | 2.00% | ~1 |
 | Usurper III | 2.00% | ~1 |
+| Galactic Major | 2.00% | ~1 |
 | You've drone good! | 2.00% | ~1 |
 | Surrounded | 2.00% | ~1 |
 | Silver Tovarish | 2.00% | ~1 |
 | Silver Alchemist | 2.00% | ~1 |
 | Silver BBQ | 2.00% | ~1 |
 | Collateral Damage III | 2.00% | ~1 |
+| Merchant Prince III | 2.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Magic Bronze mirror; on the wall | 0.00% | ~0 |
 | Universal Ensign | 0.00% | ~0 |
@@ -123,7 +125,6 @@
 | Usurper V | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
-| Galactic Major | 0.00% | ~0 |
 | Archer's Silver Fate | 0.00% | ~0 |
 | Magic Silver mirror; on the wall | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |
@@ -131,7 +132,6 @@
 | Consumist | 0.00% | ~0 |
 | Hal | 0.00% | ~0 |
 | Collateral Damage IV | 0.00% | ~0 |
-| Merchant Prince III | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit IV | 0.00% | ~0 |

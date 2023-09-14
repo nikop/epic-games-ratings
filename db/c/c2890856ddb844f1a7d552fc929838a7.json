@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1624,9 +1624,9 @@
       "ID": "AC17",
       "SetID": "l4abp0",
       "Name": "Second Pilgrimage",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 141
     },
     {
       "ID": "AC18",
@@ -1865,8 +1865,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-14T19:00:23.2645887+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:06:12.1748871+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:06:42.832562+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:00:54.8655827+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:06:12.1749601+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:01:31.6654336+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:06:42.8326447+00:00"
 }

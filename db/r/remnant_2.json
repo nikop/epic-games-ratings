@@ -1980,10 +1980,10 @@
       "Count": 155
     }
   ],
-  "EOS_Progressed": 180799,
+  "EOS_Progressed": 180809,
   "EOS_Completed": 291,
-  "EOS_NewPlayers": 4440,
-  "EOS_NewCompleters": 62,
+  "EOS_NewPlayers": 4431,
+  "EOS_NewCompleters": 60,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -8535,6 +8535,11 @@
       "Time": "2023-09-14T22:03:59.5487388+00:00",
       "NumProgressed": 180799,
       "NumCompleted": 291
+    },
+    {
+      "Time": "2023-09-14T23:04:10.2981359+00:00",
+      "NumProgressed": 180809,
+      "NumCompleted": 291
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -8547,7 +8552,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12656
+      "UsersEstimate": 12657
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -8595,7 +8600,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -8627,7 +8632,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14464
+      "UsersEstimate": 14465
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -8667,7 +8672,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 12656
+      "UsersEstimate": 12657
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -8691,7 +8696,7 @@
       "Name": "Not a Janitor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "Meet_Flautist",
@@ -8699,7 +8704,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "Meet_Meidra",
@@ -8723,7 +8728,7 @@
       "Name": "Blue Goddess",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "Obtain_Archetype",
@@ -8731,7 +8736,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16272
+      "UsersEstimate": 16273
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -8739,7 +8744,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -8747,7 +8752,7 @@
       "Name": "Top Performer",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -8779,7 +8784,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "Obtain_Guns_A",
@@ -8851,7 +8856,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 14464
+      "UsersEstimate": 14465
     },
     {
       "ID": "Obtain_Traits_B",
@@ -8907,7 +8912,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -8923,7 +8928,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10848
+      "UsersEstimate": 10849
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -8946,7 +8951,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 180799,
+      "Progressed": 180809,
       "Completed": 291
     }
   ],
@@ -8954,8 +8959,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-09-14T22:00:10.5852449+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:03:59.5487381+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:04:10.2981352+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:47.049346+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:00:10.5852457+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:03:59.5488913+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:00:41.4563225+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:04:10.2982798+00:00"
 }

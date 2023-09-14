@@ -53,9 +53,9 @@ Rating: 4.62 (Ranked 349)
 | Panzer | 2.00% | ~103 |
 | Liberation | 2.00% | ~103 |
 | Not Alone | 2.00% | ~103 |
+| Cuckoo's nest | 1.00% | ~51 |
 | Raining Cats and Dogs | 1.00% | ~51 |
 | Konrad style! | 1.00% | ~51 |
-| Cuckoo's nest | 0.90% | ~46 |
 | Bughunter | 0.90% | ~46 |
 | Cat Lady | 0.90% | ~46 |
 | Pro gamer | 0.70% | ~36 |

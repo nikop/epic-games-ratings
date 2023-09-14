@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1245,9 +1245,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8992,
+  "EOS_Progressed": 8993,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12815,6 +12815,11 @@
       "Time": "2023-09-14T22:04:33.6968566+00:00",
       "NumProgressed": 8992,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T23:04:50.248437+00:00",
+      "NumProgressed": 8993,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -12826,7 +12831,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 5395
+      "UsersEstimate": 5396
     },
     {
       "ID": "10",
@@ -12866,7 +12871,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "15",
@@ -12914,7 +12919,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3147
+      "UsersEstimate": 3148
     },
     {
       "ID": "20",
@@ -12938,7 +12943,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6474
+      "UsersEstimate": 6475
     },
     {
       "ID": "23",
@@ -12946,7 +12951,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "24",
@@ -12978,7 +12983,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "28",
@@ -13050,7 +13055,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "36",
@@ -13074,7 +13079,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3956
+      "UsersEstimate": 3957
     },
     {
       "ID": "39",
@@ -13082,7 +13087,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "4",
@@ -13106,7 +13111,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "42",
@@ -13154,7 +13159,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "48",
@@ -13250,7 +13255,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "59",
@@ -13274,7 +13279,7 @@
       "Name": "Survivor",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2877
+      "UsersEstimate": 2878
     },
     {
       "ID": "8",
@@ -13297,15 +13302,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8992,
+      "Progressed": 8993,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-12T15:58:32.1016981+00:00",
-  "LastChanged_Achievements": "2023-09-14T22:04:33.6968558+00:00",
+  "LastChanged_Achievements": "2023-09-14T23:04:50.2484364+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.3176455+00:00",
-  "LastUpdate_Ratings": "2023-09-14T21:59:47.1186135+00:00",
-  "LastUpdate_Achievements": "2023-09-14T22:04:33.6970817+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:00:13.3057068+00:00",
+  "LastUpdate_Achievements": "2023-09-14T23:04:50.2486602+00:00"
 }
