@@ -6,37 +6,37 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~109,438 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~83,549 |
+| A Place to Lay Your Head | 93.00% | ~109,439 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~83,550 |
 | A Clear Conscience | 69.00% | ~81,196 |
-| Unleash Hell | 68.00% | ~80,019 |
-| Unfulfilled Desires | 68.00% | ~80,019 |
-| Funny Guy | 67.00% | ~78,842 |
-| Unshackled | 67.00% | ~78,842 |
+| Unleash Hell | 68.00% | ~80,020 |
+| Unfulfilled Desires | 68.00% | ~80,020 |
+| Funny Guy | 67.00% | ~78,843 |
+| Unshackled | 67.00% | ~78,843 |
 | Long Live the King | 66.00% | ~77,666 |
-| Resurrection | 62.00% | ~72,958 |
-| Wyrdly Reconstructed | 62.00% | ~72,958 |
-| Boxcar Kid | 60.00% | ~70,605 |
-| Rush Hour | 60.00% | ~70,605 |
-| To Grandmother's House | 60.00% | ~70,605 |
+| Resurrection | 62.00% | ~72,959 |
+| Wyrdly Reconstructed | 62.00% | ~72,959 |
+| Boxcar Kid | 60.00% | ~70,606 |
+| Rush Hour | 60.00% | ~70,606 |
+| To Grandmother's House | 60.00% | ~70,606 |
 | Serenity Now! | 53.00% | ~62,368 |
 | Hope Rekindled | 50.00% | ~58,838 |
 | Ramble On | 49.00% | ~57,661 |
 | Nope | 48.00% | ~56,484 |
-| This Looks Familiar | 38.00% | ~44,716 |
+| This Looks Familiar | 38.00% | ~44,717 |
 | Now Stay Dead | 37.00% | ~43,540 |
 | Harvest Festival | 36.00% | ~42,363 |
 | Hot Air | 36.00% | ~42,363 |
-| Merry Time | 35.00% | ~41,186 |
+| Merry Time | 35.00% | ~41,187 |
 | Creep and Sleep | 33.00% | ~38,833 |
 | Overdue Notice | 32.00% | ~37,656 |
-| Banishment | 31.00% | ~36,479 |
-| Whale | 31.00% | ~36,479 |
+| Banishment | 31.00% | ~36,480 |
+| Whale | 31.00% | ~36,480 |
 | FNG | 29.00% | ~34,126 |
 | Reverse Banditry | 25.00% | ~29,419 |
 | Predator | 24.00% | ~28,242 |
 | Autodidact | 24.00% | ~28,242 |
-| Meat and Greet | 22.00% | ~25,888 |
+| Meat and Greet | 22.00% | ~25,889 |
 | Spelunker | 21.00% | ~24,712 |
 | Eyes Up | 21.00% | ~24,712 |
 | Road Trip | 21.00% | ~24,712 |
@@ -46,7 +46,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 16.00% | ~18,828 |
 | Dissector | 16.00% | ~18,828 |
 | Handled | 15.00% | ~17,651 |
-| Catch and Decease | 14.00% | ~16,474 |
+| Catch and Decease | 14.00% | ~16,475 |
 | Not Today! | 13.00% | ~15,298 |
 | Deprogramming | 13.00% | ~15,298 |
 | Shrine of Reflection | 12.00% | ~14,121 |
@@ -54,7 +54,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Body of Work | 10.00% | ~11,768 |
 | Utopia | 8.00% | ~9,414 |
 | Hat Trick | 7.00% | ~8,237 |
-| No More Mouths to Feed | 6.00% | ~7,060 |
+| No More Mouths to Feed | 6.00% | ~7,061 |
 | Ichthyophobic | 5.00% | ~5,884 |
 | The World As It Was | 4.00% | ~4,707 |
 | Triage | 3.00% | ~3,530 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~118 |
 | 20,000 Leagues Above the Sea | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,675 (Ranked 72)  
+Progressed: 117,676 (Ranked 72)  
 Completed: 1 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,14 +209,14 @@ Completed: 1 (0.00%) (Ranked 274)
 | 2023-09-11 | 117,476 | 1 |
 | 2023-09-12 | 117,573 | 1 |
 | 2023-09-13 | 117,644 | 1 |
-| 2023-09-14 | 117,675 | 1 |
+| 2023-09-14 | 117,676 | 1 |
 ## Awards
-Max (Character Customization): 7,387  (Ranked 48)  
-Sum: 19,264 (Ranked 56)  
+Max (Character Customization): 7,390  (Ranked 48)  
+Sum: 19,267 (Ranked 56)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,387 |
+| This game has Inclusive Character Customization | 7,390 |
 | This game has Diverse Characters | 1,537 |
 | This game has Challenging Combat | 1,468 |
 | This game is Highly Recommended | 1,413 |
@@ -461,4 +461,4 @@ Diff (max vs sum): -8
 | 2023-09-11 | 4.68 | - | 7,386 | 19,251 |
 | 2023-09-12 | 4.68 | - | 7,386 | 19,255 |
 | 2023-09-13 | 4.68 | - | 7,387 | 19,263 |
-| 2023-09-14 | 4.68 | - | 7,387 | 19,264 |
+| 2023-09-14 | 4.68 | - | 7,390 | 19,267 |

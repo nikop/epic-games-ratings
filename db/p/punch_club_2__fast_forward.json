@@ -1505,9 +1505,9 @@
       "ID": "league_2",
       "SetID": "69co12a",
       "Name": "Champion \u2013 no way back",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "league_3",
@@ -1657,9 +1657,9 @@
       "ID": "resistance_fake",
       "SetID": "69co12a",
       "Name": "Underground dwellers",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "resistance_slime",
@@ -1776,8 +1776,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:12:49.6666059+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:06:21.4619025+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:22.6953156+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:06:31.7713461+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:12:49.6666582+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:00:20.4927547+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:06:21.4619763+00:00"
 }

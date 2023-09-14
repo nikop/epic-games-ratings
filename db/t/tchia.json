@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7474,
+  "EOS_Progressed": 7475,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6919,6 +6919,11 @@
       "Time": "2023-09-13T10:07:00.0961741+00:00",
       "NumProgressed": 7474,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-14T14:06:20.6750854+00:00",
+      "NumProgressed": 7475,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -6930,7 +6935,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ARRR",
@@ -6938,7 +6943,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "AUDIOPHILE",
@@ -7066,7 +7071,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "SOUL_CANON",
@@ -7097,7 +7102,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7474,
+      "Progressed": 7475,
       "Completed": 33
     }
   ],
@@ -7105,8 +7110,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:12:48.9245443+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:06:20.6750849+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.0465299+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:07:39.386707+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:12:48.924588+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:01:13.662576+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:06:20.675136+00:00"
 }

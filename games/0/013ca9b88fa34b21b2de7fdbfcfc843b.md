@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~1,791 |
-| A Thorny Situation | 67.00% | ~1,666 |
-| ... And Spit Back Out | 52.00% | ~1,293 |
-| Break-Net Speed | 40.00% | ~995 |
-| Bramble Breaker | 33.00% | ~821 |
-| Miner 49er | 31.00% | ~771 |
-| Humble Collector | 30.00% | ~746 |
-| Calm Sailing | 18.00% | ~448 |
-| Open the Gate! | 15.00% | ~373 |
-| Oui, Chef! | 15.00% | ~373 |
-| Lumberjack | 14.00% | ~348 |
-| Mist Walker | 13.00% | ~323 |
-| Beach Comber | 7.00% | ~174 |
-| Botanical Breakthrough | 7.00% | ~174 |
-| Clear the Air | 4.00% | ~99 |
+| Azoria Beckons | 72.00% | ~1,799 |
+| A Thorny Situation | 67.00% | ~1,674 |
+| ... And Spit Back Out | 52.00% | ~1,299 |
+| Break-Net Speed | 40.00% | ~1,000 |
+| Bramble Breaker | 33.00% | ~825 |
+| Miner 49er | 31.00% | ~775 |
+| Humble Collector | 30.00% | ~750 |
+| Calm Sailing | 18.00% | ~450 |
+| Open the Gate! | 15.00% | ~375 |
+| Oui, Chef! | 15.00% | ~375 |
+| Lumberjack | 14.00% | ~350 |
+| Mist Walker | 13.00% | ~325 |
+| Beach Comber | 7.00% | ~175 |
+| Botanical Breakthrough | 7.00% | ~175 |
+| Clear the Air | 4.00% | ~100 |
 | Search for the Hairy Grell | 3.00% | ~75 |
 | Higher Tax Bracket | 3.00% | ~75 |
+| Got to Catch Them All | 2.00% | ~50 |
 | Rumble in the Jumble | 2.00% | ~50 |
 | Fanatical Farmer | 2.00% | ~50 |
 | Skilled | 2.00% | ~50 |
-| Got to Catch Them All | 1.00% | ~25 |
 | I Now Pronounce You... | 1.00% | ~25 |
 | Chatty Neighbor | 1.00% | ~25 |
 | Azorian Anniversary | 1.00% | ~25 |
 | Flaming Hot Completos | 0.80% | ~20 |
+| Scattered Scroll Scrounger | 0.80% | ~20 |
 | Right Tool For the Job | 0.80% | ~20 |
 | House Proud | 0.80% | ~20 |
-| Scattered Scroll Scrounger | 0.70% | ~17 |
 | Fae Farmer | 0.60% | ~15 |
 | Captain of Cozy | 0.50% | ~12 |
 | Angling Authority | 0.20% | ~5 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~2 |
 | Very Skilled | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,487 (Ranked 175)  
+Progressed: 2,499 (Ranked 175)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 1,169 | 0 |
 | 2023-09-12 | 1,849 | 0 |
 | 2023-09-13 | 2,323 | 0 |
-| 2023-09-14 | 2,487 | 0 |
+| 2023-09-14 | 2,499 | 0 |

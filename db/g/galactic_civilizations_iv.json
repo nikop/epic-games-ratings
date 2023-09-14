@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 886,
   "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.17,
   "NumberOfRatings": 429,
   "RatingHistory": [
     {
@@ -820,6 +820,12 @@
       "Rating": 4.18,
       "NumberOfAwards": 678,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-09-14T14:01:12.6509345+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 678,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
@@ -888,9 +894,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 6618,
+  "EOS_Progressed": 6619,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6073,6 +6079,11 @@
       "Time": "2023-09-14T13:11:50.5269089+00:00",
       "NumProgressed": 6618,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T14:05:35.7189392+00:00",
+      "NumProgressed": 6619,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -6124,7 +6135,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     },
     {
       "ID": "Control_All_Relics",
@@ -6188,7 +6199,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 5228
+      "UsersEstimate": 5229
     },
     {
       "ID": "First_Race_Met",
@@ -6196,7 +6207,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4831
+      "UsersEstimate": 4832
     },
     {
       "ID": "First_Ship_Designed",
@@ -6220,7 +6231,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -6388,7 +6399,7 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -6404,7 +6415,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 4103
+      "UsersEstimate": 4104
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -6572,7 +6583,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 4434
+      "UsersEstimate": 4435
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -6580,7 +6591,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Win_Conquest",
@@ -6659,15 +6670,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 6618,
+      "Progressed": 6619,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2023-09-11T19:00:34.5129053+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:11:50.5269085+00:00",
+  "LastChanged": "2023-09-14T14:01:12.6509344+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:05:35.7189387+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:41.0141576+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:07:37.9699157+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:11:50.5269898+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:01:12.6509349+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:05:35.7190454+00:00"
 }

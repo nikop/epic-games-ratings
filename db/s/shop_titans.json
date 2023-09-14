@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -5966,10 +5966,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27225,
       "NumberOfAwardsMax": 4741
+    },
+    {
+      "Time": "2023-09-14T13:57:26.7031758+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27227,
+      "NumberOfAwardsMax": 4741
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27225,
+  "NumberOfAwards": 27227,
   "NumberOfAwardsMax": 4741,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5983,7 +5989,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3878
+      "Count": 3880
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6022,7 +6028,7 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136165,
+  "EOS_Progressed": 136167,
   "EOS_Completed": 151,
   "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 5,
@@ -21147,6 +21153,11 @@
       "Time": "2023-09-14T13:13:38.0277743+00:00",
       "NumProgressed": 136165,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-14T14:07:19.3768068+00:00",
+      "NumProgressed": 136167,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -21158,7 +21169,7 @@
       "Name": "The Daily Grind",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "advlevel02",
@@ -21222,7 +21233,7 @@
       "Name": "Constellated",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ashley_a",
@@ -21414,7 +21425,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "craft01",
@@ -21492,9 +21503,9 @@
       "ID": "enchant01",
       "SetID": "anfd17p",
       "Name": "Hidden Potential",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 545
+      "UsersEstimate": 681
     },
     {
       "ID": "enchant02",
@@ -21548,9 +21559,9 @@
       "ID": "expansion03",
       "SetID": "anfd17p",
       "Name": "Thank You Tom Nook",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 409
     },
     {
       "ID": "fullmoon",
@@ -21590,7 +21601,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "fuseflawless",
@@ -21606,7 +21617,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "fuseuncommon",
@@ -21702,7 +21713,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "jackslot01",
@@ -21710,7 +21721,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "jackslot02",
@@ -21718,7 +21729,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "jackslot03",
@@ -21814,7 +21825,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "master02",
@@ -21990,7 +22001,7 @@
       "Name": "All Accounted For",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "uncommonres01",
@@ -22014,7 +22025,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "workers01",
@@ -22046,22 +22057,22 @@
       "Name": "King\u0027s Blade",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136165,
+      "Progressed": 136167,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-14T07:57:20.7945048+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:13:38.027774+00:00",
+  "LastChanged": "2023-09-14T13:57:26.7031757+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:07:19.376806+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:02:53.7639769+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:13:38.0279634+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:57:26.7031763+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:07:19.3770274+00:00"
 }

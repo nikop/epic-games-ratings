@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1268,9 +1268,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 5760,
+  "EOS_Progressed": 5761,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -9228,6 +9228,11 @@
       "Time": "2023-09-14T13:12:06.3636918+00:00",
       "NumProgressed": 5760,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-09-14T14:05:47.7207868+00:00",
+      "NumProgressed": 5761,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 31,
@@ -9239,7 +9244,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -9279,7 +9284,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -9383,7 +9388,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -9423,7 +9428,7 @@
       "Name": "Winter Is Here",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -9439,7 +9444,7 @@
       "Name": "The First Week",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 3110
+      "UsersEstimate": 3111
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -9455,7 +9460,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -9463,7 +9468,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -9486,15 +9491,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 5760,
+      "Progressed": 5761,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-09-10T06:57:03.2829153+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:12:06.3636913+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:05:47.7207862+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:04.6592929+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:04:26.5076369+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:12:06.3637501+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:58:44.0494468+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:05:47.7208559+00:00"
 }

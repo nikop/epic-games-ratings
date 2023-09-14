@@ -6,23 +6,23 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 88.00% | ~130,676 |
-| Taste | 84.00% | ~124,736 |
-| The Hunt | 66.00% | ~98,007 |
-| Ravenous | 63.00% | ~93,552 |
-| Weeper | 43.00% | ~63,853 |
-| Devourer | 23.00% | ~34,154 |
-| Harmless | 19.00% | ~28,214 |
-| Silenced Whispers | 19.00% | ~28,214 |
-| Sharpened Vessel | 16.00% | ~23,759 |
-| Yank | 15.00% | ~22,274 |
-| Scion | 12.00% | ~17,769 |
-| Jawcrab | 12.00% | ~17,819 |
-| Jawstag | 12.00% | ~17,819 |
-| Feast | 12.00% | ~17,819 |
+| Imprint | 88.00% | ~130,683 |
+| Taste | 84.00% | ~124,743 |
+| The Hunt | 66.00% | ~98,012 |
+| Ravenous | 63.00% | ~93,557 |
+| Weeper | 43.00% | ~63,856 |
+| Devourer | 23.00% | ~34,156 |
+| Harmless | 19.00% | ~28,216 |
+| Silenced Whispers | 19.00% | ~28,216 |
+| Sharpened Vessel | 16.00% | ~23,760 |
+| Yank | 15.00% | ~22,275 |
+| Scion | 12.00% | ~17,770 |
+| Jawcrab | 12.00% | ~17,820 |
+| Jawstag | 12.00% | ~17,820 |
+| Feast | 12.00% | ~17,820 |
 | Watcher | 10.00% | ~14,850 |
 | Shapely | 9.00% | ~13,365 |
-| Glare | 9.00% | ~13,327 |
+| Glare | 9.00% | ~13,328 |
 | Predator | 8.00% | ~11,880 |
 | Assimilation | 7.00% | ~10,395 |
 | Host | 6.00% | ~8,885 |
@@ -45,11 +45,11 @@ Number of Ratings: 46  (23.09.2022)
 | Listen | 2.00% | ~2,962 |
 | Weakness | 1.00% | ~1,485 |
 | Generous | 1.00% | ~1,485 |
-| Skinmaker | 0.90% | ~1,336 |
+| Skinmaker | 0.90% | ~1,337 |
 | Instruments | 0.80% | ~1,188 |
-| Spiral Heart | 0.10% | ~148 |
+| Spiral Heart | 0.10% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,495 (Ranked 66)  
+Progressed: 148,503 (Ranked 66)  
 Completed: 1 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 1 (0.00%) (Ranked 274)
 | 2023-09-11 | 147,973 | 1 |
 | 2023-09-12 | 148,212 | 1 |
 | 2023-09-13 | 148,396 | 1 |
-| 2023-09-14 | 148,495 | 1 |
+| 2023-09-14 | 148,503 | 1 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 449)  
 Sum: 223 (Ranked 366)  

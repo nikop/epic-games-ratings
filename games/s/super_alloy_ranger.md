@@ -22,12 +22,12 @@
 | Space Warrior: Prologue | 11.00% | ~9 |
 | The Fortress Conqueror | 8.00% | ~7 |
 | Keep it Up, rookie! | 8.00% | ~7 |
+| he Ultra Fortress Conqueror | 7.00% | ~6 |
 | Antaeus | 7.00% | ~6 |
 | The Deep Frozen Conqueror | 6.00% | ~5 |
 | The Infinite Train Conqueror | 6.00% | ~5 |
 | The Paradox Coordinate Conqueror | 6.00% | ~5 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~5 |
-| he Ultra Fortress Conqueror | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
 | The Sunken City Conqueror | 5.00% | ~4 |
 | The Zero Dimensional Capital Conqueror | 5.00% | ~4 |
@@ -37,10 +37,10 @@
 | Air Interception | 5.00% | ~4 |
 | Hell of a Fight | 5.00% | ~4 |
 | Space Ranger: Prologue | 4.00% | ~3 |
+| The Truth? | 4.00% | ~3 |
 | The Looping Space Conqueror | 2.00% | ~2 |
 | Break Through the Forbidden | 2.00% | ~2 |
 | Breaking the Limit | 2.00% | ~2 |
-| The Truth? | 2.00% | ~2 |
 | Proliferation | 2.00% | ~2 |
 | Pumped Up | 1.00% | ~1 |
 | Easy Peasy | 1.00% | ~1 |

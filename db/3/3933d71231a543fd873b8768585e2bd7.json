@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -297,9 +297,9 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievements.researches.upgrades50",
@@ -336,8 +336,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:12:08.7985461+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:05:49.380891+00:00",
   "LastUpdate_AppInfo": "2023-09-08T09:57:05.8503237+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:07:32.7627408+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:12:08.7985561+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:01:09.0097483+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:05:49.380904+00:00"
 }

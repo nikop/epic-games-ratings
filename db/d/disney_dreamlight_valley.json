@@ -3576,7 +3576,7 @@
       "Count": 500
     }
   ],
-  "EOS_Progressed": 9615,
+  "EOS_Progressed": 9616,
   "EOS_Completed": 216,
   "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 2,
@@ -12586,6 +12586,11 @@
       "Time": "2023-09-14T13:09:40.8288411+00:00",
       "NumProgressed": 9615,
       "NumCompleted": 216
+    },
+    {
+      "Time": "2023-09-14T14:03:53.2765277+00:00",
+      "NumProgressed": 9616,
+      "NumCompleted": 216
     }
   ],
   "TotalAchievements": 15,
@@ -12613,7 +12618,7 @@
       "Name": "Bestest Friend",
       "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 4615
+      "UsersEstimate": 4616
     },
     {
       "ID": "Chef_Cook",
@@ -12661,7 +12666,7 @@
       "Name": "Generous",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "Goofys_Investor",
@@ -12685,7 +12690,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 6634
+      "UsersEstimate": 6635
     },
     {
       "ID": "Renovator",
@@ -12709,14 +12714,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 6057
+      "UsersEstimate": 6058
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 9615,
+      "Progressed": 9616,
       "Completed": 216
     }
   ],
@@ -12724,8 +12729,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-09-13T15:02:44.2559275+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:09:40.8288405+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:03:53.276527+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:08.9722146+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:02:28.2370989+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:09:40.8288934+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:57:07.3871935+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:03:53.2766854+00:00"
 }

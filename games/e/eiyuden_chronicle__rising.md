@@ -7,32 +7,32 @@ Number of Ratings: 48  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Plenty More to Go | 88.00% | ~605 |
-| All Bark, No Bite | 77.00% | ~529 |
-| Hopeful Hunter | 67.00% | ~460 |
+| All Bark, No Bite | 77.00% | ~530 |
+| Hopeful Hunter | 67.00% | ~461 |
 | Amateur Adventurer | 65.00% | ~447 |
 | The Road to Recovery | 64.00% | ~440 |
-| Partners? | 62.00% | ~426 |
+| Partners? | 62.00% | ~427 |
 | Magical Mineral Golem | 56.00% | ~385 |
 | On Outlander Lane | 55.00% | ~378 |
-| First Time Fishing | 52.00% | ~357 |
-| A Girl About the Town | 51.00% | ~350 |
+| First Time Fishing | 52.00% | ~358 |
+| A Girl About the Town | 51.00% | ~351 |
 | First Time Hunting | 49.00% | ~337 |
 | Rune Wall Wreckage | 49.00% | ~337 |
 | ...And Your Tax Money | 47.00% | ~323 |
 | The Lords of the Snowpeak | 41.00% | ~282 |
-| The Go-To Girl | 37.00% | ~254 |
-| Scavenger's Honor | 37.00% | ~254 |
-| Natural Born Monster-Killer | 37.00% | ~254 |
-| The Lava Mantor Wyrm | 36.00% | ~247 |
-| One Mean Merc | 36.00% | ~247 |
-| The Great Forest...On Foot! | 36.00% | ~247 |
-| Adept, for an Acting Mayor | 35.00% | ~240 |
-| Money, Money, Money | 35.00% | ~240 |
+| The Go-To Girl | 37.00% | ~255 |
+| Natural Born Monster-Killer | 37.00% | ~255 |
+| The Lava Mantor Wyrm | 36.00% | ~248 |
+| Scavenger's Honor | 36.00% | ~248 |
+| One Mean Merc | 36.00% | ~248 |
+| The Great Forest...On Foot! | 36.00% | ~248 |
+| Adept, for an Acting Mayor | 35.00% | ~241 |
+| Money, Money, Money | 35.00% | ~241 |
 | Rune Wall Master | 34.00% | ~234 |
 | The Quarry...On Foot! | 31.00% | ~213 |
-| The Runebarrows...On Foot! | 29.00% | ~199 |
-| The Lava Ruins...On Foot! | 28.00% | ~192 |
-| The Snowpeak...On Foot! | 27.00% | ~185 |
+| The Runebarrows...On Foot! | 29.00% | ~200 |
+| The Snowpeak...On Foot! | 27.00% | ~186 |
+| The Lava Ruins...On Foot! | 27.00% | ~186 |
 | Meat Master | 26.00% | ~179 |
 | Fishing Master | 25.00% | ~172 |
 | Armor Master | 24.00% | ~165 |
@@ -42,9 +42,9 @@ Number of Ratings: 48  (23.09.2022)
 | Arms Master | 19.00% | ~131 |
 | Rune Scholar | 17.00% | ~117 |
 | No Treasure Left Behind | 13.00% | ~89 |
-| One-Hundred Resident Record | 12.00% | ~82 |
-| Sommelier | 12.00% | ~82 |
-| Champion of the Great Forest | 12.00% | ~82 |
+| One-Hundred Resident Record | 12.00% | ~83 |
+| Sommelier | 12.00% | ~83 |
+| Champion of the Great Forest | 12.00% | ~83 |
 | A Local Hero | 11.00% | ~76 |
 | Gourmand | 10.00% | ~69 |
 | Accessorizer | 10.00% | ~69 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 8.00% | ~55 |
 | Rising Champion | 7.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 687 (Ranked 226)  
-Completed: 59 (8.59%) (Ranked 33)  
+Progressed: 688 (Ranked 226)  
+Completed: 59 (8.58%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 59 (8.59%) (Ranked 33)
 | 2023-08-30 | 685 | 59 |
 | 2023-09-08 | 686 | 59 |
 | 2023-09-13 | 687 | 59 |
+| 2023-09-14 | 688 | 59 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

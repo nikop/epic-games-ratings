@@ -5,22 +5,22 @@ Rating: 3.93 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 70.00% | ~60,950 |
-| First One’s Free | 61.00% | ~53,113 |
-| Neophyte Ninja | 48.00% | ~41,794 |
-| Too Old for This | 43.00% | ~37,441 |
-| Fancy Pants | 32.00% | ~27,863 |
-| Case Closed | 30.00% | ~26,121 |
-| King of the Hill | 30.00% | ~26,121 |
-| Underworld Initiate | 26.00% | ~22,638 |
-| Roid Ranger | 19.00% | ~16,543 |
-| Off the Rocks | 17.00% | ~14,802 |
-| True Player | 16.00% | ~13,931 |
-| Dragonslayer | 16.00% | ~13,931 |
+| Downed but Not Outed | 70.00% | ~60,952 |
+| First One’s Free | 61.00% | ~53,115 |
+| Neophyte Ninja | 48.00% | ~41,796 |
+| Too Old for This | 43.00% | ~37,442 |
+| Fancy Pants | 32.00% | ~27,864 |
+| Case Closed | 30.00% | ~26,122 |
+| King of the Hill | 30.00% | ~26,122 |
+| Underworld Initiate | 26.00% | ~22,639 |
+| Roid Ranger | 19.00% | ~16,544 |
+| Off the Rocks | 17.00% | ~14,803 |
+| True Player | 16.00% | ~13,932 |
+| Dragonslayer | 16.00% | ~13,932 |
 | Raider’s Ruin | 15.00% | ~13,061 |
 | Hidden Sonata | 12.00% | ~10,449 |
 | Rockay Rex | 10.00% | ~8,707 |
-| Freebooter | 9.00% | ~7,836 |
+| Freebooter | 9.00% | ~7,837 |
 | Track Star | 8.00% | ~6,966 |
 | Headhunter | 8.00% | ~6,966 |
 | Classy Joint | 8.00% | ~6,966 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 959)
 | Geek Out | 0.50% | ~435 |
 | Full House | 0.20% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,071 (Ranked 76)  
+Progressed: 87,074 (Ranked 76)  
 Completed: 45 (0.05%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 45 (0.05%) (Ranked 238)
 | 2023-09-11 | 86,691 | 44 |
 | 2023-09-12 | 86,879 | 45 |
 | 2023-09-13 | 87,015 | 45 |
-| 2023-09-14 | 87,071 | 45 |
+| 2023-09-14 | 87,074 | 45 |
 ## Awards
 Max (Diverse Characters): 435  (Ranked 209)  
 Sum: 2,058 (Ranked 200)  

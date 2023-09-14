@@ -19,9 +19,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 1.00% | ~1,362 |
 | Capitalism Ho! | 1.00% | ~1,362 |
 | Own the Means of Production | 1.00% | ~1,362 |
-| The Daily Grind | 0.90% | ~1,225 |
-| One-Armed Bandit | 0.90% | ~1,225 |
-| Through Repetition, Perfection | 0.90% | ~1,225 |
+| The Daily Grind | 0.90% | ~1,226 |
+| One-Armed Bandit | 0.90% | ~1,226 |
+| Through Repetition, Perfection | 0.90% | ~1,226 |
 | Bounty Hunters | 0.80% | ~1,089 |
 | Demand for Supplies | 0.80% | ~1,089 |
 | Flooding the Market | 0.80% | ~1,089 |
@@ -47,6 +47,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | For the Hoard! | 0.50% | ~681 |
 | Scrapbooker | 0.50% | ~681 |
 | This Power Level...! | 0.50% | ~681 |
+| Hidden Potential | 0.50% | ~681 |
 | Power of Love | 0.50% | ~681 |
 | Trash to Treasure | 0.50% | ~681 |
 | Royal Ransom | 0.50% | ~681 |
@@ -69,7 +70,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.40% | ~545 |
 | Omae wa Mou Shindeiru | 0.40% | ~545 |
 | Master of Transmutation | 0.40% | ~545 |
-| Hidden Potential | 0.40% | ~545 |
 | Supercharged | 0.40% | ~545 |
 | Expansion in Session | 0.40% | ~545 |
 | Ritualist | 0.40% | ~545 |
@@ -93,17 +93,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.40% | ~545 |
 | Master Recycler | 0.40% | ~545 |
 | Exotic Commodities | 0.40% | ~545 |
-| Constellated | 0.30% | ~408 |
-| Fillin' the Bin | 0.30% | ~408 |
-| By Your Powers Combined... | 0.30% | ~408 |
-| A Legend is Born | 0.30% | ~408 |
-| Necromancer Queen | 0.30% | ~408 |
-| Jackpot! | 0.30% | ~408 |
-| All Accounted For | 0.30% | ~408 |
-| Economy of Scarce | 0.30% | ~408 |
-| King's Blade | 0.30% | ~408 |
+| Constellated | 0.30% | ~409 |
+| Fillin' the Bin | 0.30% | ~409 |
+| Thank You Tom Nook | 0.30% | ~409 |
+| By Your Powers Combined... | 0.30% | ~409 |
+| A Legend is Born | 0.30% | ~409 |
+| Necromancer Queen | 0.30% | ~409 |
+| Jackpot! | 0.30% | ~409 |
+| All Accounted For | 0.30% | ~409 |
+| Economy of Scarce | 0.30% | ~409 |
+| King's Blade | 0.30% | ~409 |
 | The Free Encyclopedia | 0.20% | ~272 |
-| Thank You Tom Nook | 0.20% | ~272 |
 | All or Nothing! | 0.20% | ~272 |
 | Eternal Crusade | 0.20% | ~272 |
 | Marvels from the World Over | 0.20% | ~272 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,165 (Ranked 68)  
+Progressed: 136,167 (Ranked 68)  
 Completed: 151 (0.11%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,17 +266,17 @@ Completed: 151 (0.11%) (Ranked 217)
 | 2023-09-11 | 136,043 | 149 |
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
-| 2023-09-14 | 136,165 | 151 |
+| 2023-09-14 | 136,167 | 151 |
 ## Awards
 Max (Great for Beginners): 4,741  (Ranked 71)  
-Sum: 27,225 (Ranked 48)  
+Sum: 27,227 (Ranked 48)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,741 |
 | This game is Relaxing | 4,010 |
 | This game has Quickly Understood Controls | 3,994 |
-| This game has Diverse Characters | 3,878 |
+| This game has Diverse Characters | 3,880 |
 | This game is Highly Recommended | 3,743 |
 | This game has Easy Combat | 3,687 |
 | This game has Playful Visuals | 3,172 |
@@ -514,4 +514,4 @@ Diff (max vs sum): 23
 | 2023-09-11 | 3.99 | - | 4,734 | 27,207 |
 | 2023-09-12 | 3.99 | - | 4,738 | 27,214 |
 | 2023-09-13 | 3.99 | - | 4,741 | 27,223 |
-| 2023-09-14 | 3.99 | - | 4,741 | 27,225 |
+| 2023-09-14 | 3.99 | - | 4,741 | 27,227 |

@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2363,
+  "EOS_Progressed": 2364,
   "EOS_Completed": 215,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 9.1,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5868,6 +5868,11 @@
       "Time": "2023-09-14T04:03:56.6086184+00:00",
       "NumProgressed": 2363,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2023-09-14T14:04:06.2331289+00:00",
+      "NumProgressed": 2364,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 12,
@@ -5879,7 +5884,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "Bernard",
@@ -5911,7 +5916,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "Jakob",
@@ -5959,7 +5964,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "Nuremberg Laws",
@@ -5974,7 +5979,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2363,
+      "Progressed": 2364,
       "Completed": 215
     }
   ],
@@ -5982,8 +5987,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:09:57.7201283+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:04:06.2331285+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:14.4342604+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:04:07.8617994+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:09:57.7201634+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:58:26.9068273+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:04:06.2331734+00:00"
 }

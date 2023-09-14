@@ -958,7 +958,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256207,
+  "EOS_Progressed": 256208,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
@@ -15823,6 +15823,11 @@
       "Time": "2023-09-14T13:08:41.4866738+00:00",
       "NumProgressed": 256207,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-14T14:03:14.3213997+00:00",
+      "NumProgressed": 256208,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -15834,7 +15839,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17934
+      "UsersEstimate": 17935
     },
     {
       "ID": "Act2",
@@ -15944,9 +15949,9 @@
       "ID": "CreditLevel2",
       "SetID": "3l9dm1h",
       "Name": "Fixer II",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5124
+      "UsersEstimate": 7686
     },
     {
       "ID": "CreditLevel3",
@@ -16281,7 +16286,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256207,
+      "Progressed": 256208,
       "Completed": 3
     }
   ],
@@ -16289,8 +16294,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-09-14T10:59:35.6722444+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:08:41.4866734+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:03:14.3213988+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.9065613+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:05:35.4012745+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:08:41.4867808+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:59:37.9199899+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:03:14.321538+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,733 |
+| Follow the Light | 41.00% | ~26,734 |
 | Let There Be Light | 33.00% | ~21,517 |
 | Float Like a Butterfly | 32.00% | ~20,865 |
-| Nordic Walking | 25.00% | ~16,300 |
-| Bright Falls' Finest | 25.00% | ~16,300 |
-| Under a Thin Layer of Skin | 22.00% | ~14,344 |
-| Park Ranger | 18.00% | ~11,736 |
-| Paging Mr. Wake | 18.00% | ~11,736 |
-| Back! Back, I Say! | 17.00% | ~11,084 |
-| Finders Keepers | 17.00% | ~11,084 |
-| Sound and Fury | 15.00% | ~9,780 |
-| Missed by a Mile | 15.00% | ~9,780 |
-| Damn Good Cup of Coffee | 15.00% | ~9,780 |
-| Wheels Within Wheels | 14.00% | ~9,128 |
-| They're Heeeeeere! | 14.00% | ~9,128 |
-| The Six-Gun Scribe | 14.00% | ~9,128 |
-| Heavy Metal | 13.00% | ~8,476 |
-| Iron Horse | 13.00% | ~8,476 |
-| Collateral Carnage | 13.00% | ~8,476 |
-| Come One, Come All | 13.00% | ~8,476 |
+| Nordic Walking | 25.00% | ~16,301 |
+| Bright Falls' Finest | 25.00% | ~16,301 |
+| Under a Thin Layer of Skin | 22.00% | ~14,345 |
+| Park Ranger | 18.00% | ~11,737 |
+| Paging Mr. Wake | 18.00% | ~11,737 |
+| Back! Back, I Say! | 17.00% | ~11,085 |
+| Finders Keepers | 17.00% | ~11,085 |
+| Sound and Fury | 15.00% | ~9,781 |
+| Missed by a Mile | 15.00% | ~9,781 |
+| Damn Good Cup of Coffee | 15.00% | ~9,781 |
+| Wheels Within Wheels | 14.00% | ~9,129 |
+| They're Heeeeeere! | 14.00% | ~9,129 |
+| The Six-Gun Scribe | 14.00% | ~9,129 |
+| Heavy Metal | 13.00% | ~8,477 |
+| Iron Horse | 13.00% | ~8,477 |
+| Collateral Carnage | 13.00% | ~8,477 |
+| Come One, Come All | 13.00% | ~8,477 |
 | Perchance to Dream | 12.00% | ~7,824 |
 | It's Not Just a Typewriter Brand | 12.00% | ~7,824 |
 | Thunder and Lightning | 12.00% | ~7,824 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~65 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,202 (Ranked 87)  
+Progressed: 65,204 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 65 (0.10%) (Ranked 220)
 | 2023-09-11 | 64,651 | 65 |
 | 2023-09-12 | 64,967 | 65 |
 | 2023-09-13 | 65,148 | 65 |
-| 2023-09-14 | 65,202 | 65 |
+| 2023-09-14 | 65,204 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

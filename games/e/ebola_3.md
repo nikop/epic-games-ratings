@@ -48,8 +48,8 @@
 | Crocodile Escape ✔ | 2.00% | ~5 |
 | The escape ✔ | 2.00% | ~5 |
 | Rank B+ ✔ | 2.00% | ~5 |
+| VIP ✔ | 2.00% | ~5 |
 | Exterminate pests ✔ | 1.00% | ~3 |
-| VIP ✔ | 1.00% | ~3 |
 | Hardcore ✔ | 0.80% | ~2 |
 | Speedrun ✔ | 0.80% | ~2 |
 | Seeker Two ✔ | 0.40% | ~1 |

@@ -2,12 +2,12 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 887,
+  "Ranking_Rating": 886,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -8415,8 +8415,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-12T19:02:11.7422629+00:00",
-  "LastChanged_Achievements": "2023-09-14T13:12:49.6225864+00:00",
+  "LastChanged_Achievements": "2023-09-14T14:06:21.2050883+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:01.9571091+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:02:21.1559813+00:00",
-  "LastUpdate_Achievements": "2023-09-14T13:12:49.6226393+00:00"
+  "LastUpdate_Ratings": "2023-09-14T13:57:02.391401+00:00",
+  "LastUpdate_Achievements": "2023-09-14T14:06:21.2051528+00:00"
 }

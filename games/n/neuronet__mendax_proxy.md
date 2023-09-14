@@ -10,12 +10,12 @@
 | The Real Beginning | 61.00% | ~14 |
 | Shook Up | 52.00% | ~12 |
 | The Birds and the Bees | 52.00% | ~12 |
+| Vaccinated | 48.00% | ~11 |
 | Task Master | 43.00% | ~10 |
-| Vaccinated | 43.00% | ~10 |
+| Busybody | 39.00% | ~9 |
 | Warning: Fragile | 39.00% | ~9 |
 | A Light in the Dark | 35.00% | ~8 |
 | The Guardian | 35.00% | ~8 |
-| Busybody | 35.00% | ~8 |
 | Endgame | 35.00% | ~8 |
 | The Philosopher | 35.00% | ~8 |
 | The Partner | 35.00% | ~8 |
@@ -32,8 +32,8 @@
 | Full Coverage | 22.00% | ~5 |
 | Job Creator | 22.00% | ~5 |
 | Knock Knock | 22.00% | ~5 |
+| Quidnunc | 22.00% | ~5 |
 | A Little Eccentric | 17.00% | ~4 |
-| Quidnunc | 17.00% | ~4 |
 | Social Butterfly | 17.00% | ~4 |
 | Zonk! | 17.00% | ~4 |
 | Leave It to the Professionals | 13.00% | ~3 |
