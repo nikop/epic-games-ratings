@@ -14,6 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~686 |
 | Were-verpowered | 0.30% | ~686 |
 | A Persistent Buzzing | 0.30% | ~686 |
+| A Mysterious Summons | 0.30% | ~686 |
 | The Crumbling Temple | 0.30% | ~686 |
 | Seeking Allies | 0.30% | ~686 |
 | Are Ya Chicken? | 0.30% | ~686 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Mode | 0.20% | ~457 |
 | Terror in the Dark | 0.20% | ~457 |
 | Low Initiative | 0.20% | ~457 |
-| A Mysterious Summons | 0.20% | ~457 |
 | Street War | 0.20% | ~457 |
 | Building Trust | 0.20% | ~457 |
 | March of the Undead | 0.20% | ~457 |
@@ -61,6 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.20% | ~457 |
 | The Templar's Camp | 0.20% | ~457 |
 | Rescue in the Jungle | 0.20% | ~457 |
+| To Infinity's and Beyond | 0.20% | ~390 |
 | The End | 0.20% | ~390 |
 | Pros and CONs | 0.10% | ~229 |
 | Upholding the Law | 0.10% | ~229 |
@@ -522,13 +523,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Animated Giff | 0.10% | ~195 |
 | The Hunt for The Last Breath | 0.10% | ~195 |
 | The Chaotic Hunt for The Last Breath | 0.10% | ~195 |
-| To Infinity's and Beyond | 0.10% | ~195 |
 | There's a Flying Snake in my Boot! | 0.10% | ~195 |
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,676 (Ranked 54)  
-Completed: 2,277 (1.00%) (Ranked 122)  
+Progressed: 228,687 (Ranked 54)  
+Completed: 2,278 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -674,17 +674,17 @@ Completed: 2,277 (1.00%) (Ranked 122)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,676 | 2,277 |
+| 2023-09-14 | 228,687 | 2,278 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
-Sum: 31,567 (Ranked 39)  
+Sum: 31,570 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,270 |
 | This game is Great for Beginners | 5,252 |
 | This game has Quickly Understood Controls | 4,764 |
-| This game is Relaxing | 4,648 |
+| This game is Relaxing | 4,651 |
 | This game has Amazing Characters | 4,117 |
 | This game is Highly Recommended | 4,103 |
 | This game has Playful Visuals | 3,413 |
@@ -922,3 +922,4 @@ Diff (max vs sum): 28
 | 2023-09-11 | 4.06 | - | 5,261 | 31,535 |
 | 2023-09-12 | 4.06 | - | 5,266 | 31,551 |
 | 2023-09-13 | 4.06 | - | 5,270 | 31,567 |
+| 2023-09-14 | 4.06 | - | 5,270 | 31,570 |

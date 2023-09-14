@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,859 |
+| Just One...More...Term... | 76.00% | ~3,860 |
 | Un-Lonely Island | 47.00% | ~2,387 |
 | The Beginning of a Servantship | 46.00% | ~2,336 |
 | Trade Is My Trait | 37.00% | ~1,879 |
@@ -14,8 +14,8 @@ Number of Ratings: 398  (23.09.2022)
 | We Don't Have Time For That | 19.00% | ~965 |
 | The Governator | 18.00% | ~914 |
 | The Legend of Langostino | 17.00% | ~863 |
-| Caribbean Comrade | 16.00% | ~812 |
-| The Dreamer of Dreams | 16.00% | ~812 |
+| Caribbean Comrade | 16.00% | ~813 |
+| The Dreamer of Dreams | 16.00% | ~813 |
 | Go Sovereigns! | 11.00% | ~559 |
 | For Science! | 11.00% | ~559 |
 | Happy Ending? | 10.00% | ~508 |
@@ -23,9 +23,9 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 10.00% | ~508 |
 | Double Trouble | 8.00% | ~406 |
 | Firestarter | 8.00% | ~406 |
-| I Owe You Nothing | 7.00% | ~355 |
-| Make Tropico Great Again! | 7.00% | ~355 |
-| French Connection | 7.00% | ~355 |
+| I Owe You Nothing | 7.00% | ~356 |
+| Make Tropico Great Again! | 7.00% | ~356 |
+| French Connection | 7.00% | ~356 |
 | Don't Panic! | 6.00% | ~305 |
 | Computer Says "No" | 6.00% | ~305 |
 | Beware The Betman | 6.00% | ~305 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~46 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,078 (Ranked 151)  
+Progressed: 5,079 (Ranked 151)  
 Completed: 2 (0.04%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,10 +194,11 @@ Completed: 2 (0.04%) (Ranked 242)
 | 2023-09-11 | 5,060 | 2 |
 | 2023-09-12 | 5,066 | 2 |
 | 2023-09-13 | 5,078 | 2 |
+| 2023-09-14 | 5,079 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 98  (Ranked 341)  
+Max (Quickly Understood Controls): 98  (Ranked 342)  
 Sum: 685 (Ranked 280)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 106 |

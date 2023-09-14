@@ -462,9 +462,9 @@
       "ID": "Achi_06",
       "SetID": "51a97k7",
       "Name": "The Paradox Coordinate Conqueror",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_07",
@@ -790,9 +790,9 @@
       "ID": "Achi_47",
       "SetID": "51a97k7",
       "Name": "Phew!",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achi_48",
@@ -831,8 +831,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:07:30.3177757+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:46:52.6366433+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.9066994+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:59:55.3871494+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:07:30.3178249+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:39:45.4137781+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:46:52.6366991+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 581,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 354,
-  "Ranking_EOS_Progress": 187,
+  "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 101,
@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1721,
+  "EOS_Progressed": 1752,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4256,6 +4256,11 @@
       "Time": "2023-09-14T00:07:36.7210423+00:00",
       "NumProgressed": 1721,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T01:46:57.7216887+00:00",
+      "NumProgressed": 1752,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4268,7 +4273,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -4284,7 +4289,7 @@
       "Name": "Deadication",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -4292,7 +4297,7 @@
       "Name": "Death Becomes You",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -4300,7 +4305,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -4308,15 +4313,15 @@
       "Name": "Everything Must Go!",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
       "SetID": "9b9n573",
       "Name": "Faceroll the Bones",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -4324,7 +4329,7 @@
       "Name": "First Strike",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -4332,7 +4337,7 @@
       "Name": "Flawless Victory",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -4354,9 +4359,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -4364,7 +4369,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -4380,7 +4385,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -4404,7 +4409,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -4418,9 +4423,9 @@
       "ID": "MF_Ach_SpendingSpree",
       "SetID": "9b9n573",
       "Name": "Spending Spree",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -4428,7 +4433,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -4436,7 +4441,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -4444,22 +4449,22 @@
       "Name": "Vexed Her",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1721,
+      "Progressed": 1752,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:07:36.7210418+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:46:57.7216882+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:57:58.5152883+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:07:36.7210812+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:38:20.4078369+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:46:57.7217278+00:00"
 }

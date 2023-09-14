@@ -152,7 +152,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18022,
+  "EOS_Progressed": 18024,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
@@ -12147,6 +12147,11 @@
       "Time": "2023-09-13T21:03:08.2353609+00:00",
       "NumProgressed": 18022,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-09-14T01:43:27.9286602+00:00",
+      "NumProgressed": 18024,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 14,
@@ -12158,7 +12163,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 14237
+      "UsersEstimate": 14239
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -12190,7 +12195,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -12214,7 +12219,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 9552
+      "UsersEstimate": 9553
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -12238,7 +12243,7 @@
       "Name": "Look at Me Now",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "ACH_THE_FALL",
@@ -12269,15 +12274,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 18022,
+      "Progressed": 18024,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-08-16T03:57:34.8125865+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:03:06.3210592+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:43:27.9286597+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:18.1585885+00:00",
-  "LastUpdate_Ratings": "2023-09-14T00:00:16.8411514+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:03:06.3211405+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:39:59.3529009+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:43:27.9287451+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 57.00% | ~176 |
+| Lost in Space | 58.00% | ~179 |
 | Quick Understanding of Block Extrusion | 56.00% | ~173 |
-| Nature or Nurture | 48.00% | ~148 |
-| Power Glove | 47.00% | ~145 |
+| Nature or Nurture | 49.00% | ~151 |
+| Power Glove | 48.00% | ~148 |
 | Forgotten Memories | 47.00% | ~145 |
 | Cogs in the Machine | 43.00% | ~133 |
 | Mission Success | 22.00% | ~68 |

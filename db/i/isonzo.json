@@ -826,9 +826,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6829,
+  "EOS_Progressed": 6830,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5286,6 +5286,11 @@
       "Time": "2023-09-13T23:08:31.1886619+00:00",
       "NumProgressed": 6829,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-09-14T01:49:21.0015633+00:00",
+      "NumProgressed": 6830,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -5345,7 +5350,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2458
+      "UsersEstimate": 2459
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -5361,7 +5366,7 @@
       "Name": "Decimation",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -5385,7 +5390,7 @@
       "Name": "Donatello",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -5417,7 +5422,7 @@
       "Name": "Generalissimo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -5489,7 +5494,7 @@
       "Name": "Peak Performance",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3756
+      "UsersEstimate": 3757
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -5569,7 +5574,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -5625,7 +5630,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3756
+      "UsersEstimate": 3757
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -5641,7 +5646,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -5649,14 +5654,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 6829,
+      "Progressed": 6830,
       "Completed": 8
     }
   ],
@@ -5664,8 +5669,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-09-12T23:01:07.5936952+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:08:47.0721988+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:49:21.0015628+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:39.7993209+00:00",
-  "LastUpdate_Ratings": "2023-09-14T00:01:48.9357619+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:08:47.0722681+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:41:09.7666267+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:49:21.0016241+00:00"
 }

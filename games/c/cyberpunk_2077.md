@@ -6,14 +6,14 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,473 |
-| Right Back At Ya | 40.00% | ~350,419 |
-| The Lovers | 35.00% | ~306,617 |
+| The Fool | 69.00% | ~604,474 |
+| Right Back At Ya | 40.00% | ~350,420 |
+| The Lovers | 35.00% | ~306,618 |
 | Stanislavski's Method | 29.00% | ~254,054 |
-| The Wheel of Fortune | 28.00% | ~245,293 |
+| The Wheel of Fortune | 28.00% | ~245,294 |
 | The Hermit | 25.00% | ~219,012 |
-| Christmas Tree Attack | 23.00% | ~201,491 |
-| True Soldier | 23.00% | ~201,491 |
+| Christmas Tree Attack | 23.00% | ~201,492 |
+| True Soldier | 23.00% | ~201,492 |
 | The High Priestess | 22.00% | ~192,731 |
 | Legend of The Afterlife | 22.00% | ~192,731 |
 | Life of the Road | 21.00% | ~183,970 |
@@ -21,7 +21,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 18.00% | ~157,689 |
 | Bushido and Chill | 17.00% | ~148,928 |
 | Gun Fu | 16.00% | ~140,168 |
-| True Warrior | 15.00% | ~131,407 |
+| True Warrior | 15.00% | ~131,408 |
 | To Protect and Serve | 14.00% | ~122,647 |
 | Master Crafter | 14.00% | ~122,647 |
 | I Am The Law | 14.00% | ~122,647 |
@@ -31,19 +31,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 10.00% | ~87,605 |
 | Ten out of Ten | 9.00% | ~78,844 |
 | Breathtaking | 8.00% | ~70,084 |
-| To Bad Decisions! | 7.00% | ~61,323 |
-| The Star | 7.00% | ~61,323 |
-| The Sun | 7.00% | ~61,323 |
+| To Bad Decisions! | 7.00% | ~61,324 |
+| The Star | 7.00% | ~61,324 |
+| The Sun | 7.00% | ~61,324 |
 | Must Be Rats | 4.00% | ~35,042 |
 | Temperance | 4.00% | ~35,042 |
-| City Lights | 3.00% | ~26,281 |
-| Mean Streets | 3.00% | ~26,281 |
-| Little Tokyo | 3.00% | ~26,281 |
-| The Wasteland | 3.00% | ~26,281 |
-| Greetings from Pacifica! | 3.00% | ~26,281 |
-| The Jungle | 3.00% | ~26,281 |
-| V for Vendetta | 3.00% | ~26,281 |
-| It's Elementary | 3.00% | ~26,281 |
+| City Lights | 3.00% | ~26,282 |
+| Mean Streets | 3.00% | ~26,282 |
+| Little Tokyo | 3.00% | ~26,282 |
+| The Wasteland | 3.00% | ~26,282 |
+| Greetings from Pacifica! | 3.00% | ~26,282 |
+| The Jungle | 3.00% | ~26,282 |
+| V for Vendetta | 3.00% | ~26,282 |
+| It's Elementary | 3.00% | ~26,282 |
 | Autojock | 2.00% | ~17,521 |
 | Frequent Flyer | 2.00% | ~17,521 |
 | Daemon In The Shell | 2.00% | ~17,521 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,760 |
 | Rough Landing | 0.50% | ~4,380 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,048 (Ranked 14)  
+Progressed: 876,050 (Ranked 14)  
 Completed: 2,084 (0.24%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 2,084 (0.24%) (Ranked 190)
 | 2023-09-11 | 875,775 | 2,079 |
 | 2023-09-12 | 875,908 | 2,083 |
 | 2023-09-13 | 876,046 | 2,084 |
-| 2023-09-14 | 876,048 | 2,084 |
+| 2023-09-14 | 876,050 | 2,084 |
 ## Awards
 Max (Character Customization): 78,437  (Ranked 9)  
 Sum: 209,705 (Ranked 13)  

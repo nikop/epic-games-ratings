@@ -16,7 +16,7 @@
 | Mr. Want It All | 17.00% | ~14 |
 | The Hidden Secret | 16.00% | ~13 |
 | Toe to Toe | 16.00% | ~13 |
-| Phew! | 14.00% | ~12 |
+| Phew! | 16.00% | ~13 |
 | The Abyss Conqueror | 11.00% | ~9 |
 | Grand Escape | 11.00% | ~9 |
 | Space Warrior: Prologue | 11.00% | ~9 |
@@ -25,10 +25,10 @@
 | Antaeus | 7.00% | ~6 |
 | The Deep Frozen Conqueror | 6.00% | ~5 |
 | The Infinite Train Conqueror | 6.00% | ~5 |
+| The Paradox Coordinate Conqueror | 6.00% | ~5 |
 | he Ultra Fortress Conqueror | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
 | The Sunken City Conqueror | 5.00% | ~4 |
-| The Paradox Coordinate Conqueror | 5.00% | ~4 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~4 |
 | Rapidfire | 5.00% | ~4 |
 | Air Interception | 5.00% | ~4 |

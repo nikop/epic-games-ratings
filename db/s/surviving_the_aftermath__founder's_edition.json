@@ -5,7 +5,7 @@
   "Ranking_Rating": 602,
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 279,
-  "Ranking_EOS_Progress": 133,
+  "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 101,
@@ -1245,7 +1245,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 8981,
+  "EOS_Progressed": 8982,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -12770,6 +12770,11 @@
       "Time": "2023-09-13T21:03:50.9115343+00:00",
       "NumProgressed": 8981,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T01:44:29.951278+00:00",
+      "NumProgressed": 8982,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -12837,7 +12842,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3682
+      "UsersEstimate": 3683
     },
     {
       "ID": "17",
@@ -12861,7 +12866,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4670
+      "UsersEstimate": 4671
     },
     {
       "ID": "2",
@@ -12869,7 +12874,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3143
+      "UsersEstimate": 3144
     },
     {
       "ID": "20",
@@ -12893,7 +12898,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6466
+      "UsersEstimate": 6467
     },
     {
       "ID": "23",
@@ -13005,7 +13010,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "36",
@@ -13053,7 +13058,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "41",
@@ -13173,7 +13178,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "55",
@@ -13252,15 +13257,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 8981,
+      "Progressed": 8982,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-12T15:58:32.1016981+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:04:23.3102228+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:44:29.9512773+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.3176455+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:59:28.698125+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:04:23.3103419+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:39:28.5255014+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:44:29.9514182+00:00"
 }

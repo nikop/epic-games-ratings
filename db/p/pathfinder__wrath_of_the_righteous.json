@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3722,9 +3722,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11255,
+  "EOS_Progressed": 11257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12237,6 +12237,11 @@
       "Time": "2023-09-13T21:06:01.2320199+00:00",
       "NumProgressed": 11255,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T01:46:39.9647315+00:00",
+      "NumProgressed": 11257,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12248,7 +12253,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "02_BurningCity",
@@ -12272,7 +12277,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -12616,7 +12621,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "49_Flame",
@@ -13175,21 +13180,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10037,
+      "Progressed": 10039,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11255,
+      "Progressed": 11257,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-13T16:03:05.682622+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:07:13.4772271+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:46:39.964731+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-14T00:02:28.1976535+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:07:13.4774297+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:43:14.0324313+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:46:39.9649557+00:00"
 }

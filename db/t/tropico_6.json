@@ -3,7 +3,7 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 281,
-  "Ranking_Popularity": 341,
+  "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 242,
@@ -1104,9 +1104,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5078,
+  "EOS_Progressed": 5079,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9489,6 +9489,11 @@
       "Time": "2023-09-13T22:03:52.5418138+00:00",
       "NumProgressed": 5078,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-14T01:43:43.170886+00:00",
+      "NumProgressed": 5079,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -9556,7 +9561,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -9572,7 +9577,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -9660,7 +9665,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 3859
+      "UsersEstimate": 3860
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -9692,7 +9697,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_MYWAYS",
@@ -9780,7 +9785,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -9804,7 +9809,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -9819,15 +9824,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5078,
+      "Progressed": 5079,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-09-12T02:13:35.4444169+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:03:26.7201601+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:43:43.1708855+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:17.0163417+00:00",
-  "LastUpdate_Ratings": "2023-09-14T00:00:15.2515332+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:03:26.7202492+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:39:58.1819027+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:43:43.1709662+00:00"
 }

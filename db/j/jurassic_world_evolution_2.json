@@ -3,11 +3,11 @@
   "Name": "Jurassic World Evolution 2",
   "ProductSlug": "jurassic-world-evolution-2",
   "Ranking_Rating": 145,
-  "Ranking_Popularity": 171,
+  "Ranking_Popularity": 170,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 594,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 350,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-11-09T14:00:00+00:00",
@@ -5138,30 +5138,36 @@
       "Rating": 4.74,
       "NumberOfAwards": 6086,
       "NumberOfAwardsMax": 687
+    },
+    {
+      "Time": "2023-09-14T01:37:44.7689828+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6092,
+      "NumberOfAwardsMax": 689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6086,
-  "NumberOfAwardsMax": 687,
+  "NumberOfAwards": 6092,
+  "NumberOfAwardsMax": 689,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 603
+      "Count": 605
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 579
+      "Count": 580
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 576
+      "Count": 577
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5179,7 +5185,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 687
+      "Count": 689
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5223,8 +5229,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2023-09-13T19:57:06.3902823+00:00",
+  "LastChanged": "2023-09-14T01:37:44.7689824+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:59.6855819+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:57:08.3917121+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:04:33.7075921+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:37:44.7689835+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:44:37.66565+00:00"
 }

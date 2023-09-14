@@ -7516,10 +7516,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43189,
       "NumberOfAwardsMax": 22630
+    },
+    {
+      "Time": "2023-09-14T01:40:54.5021957+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43192,
+      "NumberOfAwardsMax": 22630
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43189,
+  "NumberOfAwards": 43192,
   "NumberOfAwardsMax": 22630,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7569,7 +7575,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1013
+      "Count": 1016
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7596,9 +7602,9 @@
       "Count": 643
     }
   ],
-  "EOS_Progressed": 296556,
+  "EOS_Progressed": 296560,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1232,
+  "EOS_NewPlayers": 1208,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23461,6 +23467,11 @@
       "Time": "2023-09-14T00:03:15.4534428+00:00",
       "NumProgressed": 296556,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-14T01:43:34.6340322+00:00",
+      "NumProgressed": 296560,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23512,7 +23523,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17793
+      "UsersEstimate": 17794
     },
     {
       "ID": "PFA_15",
@@ -23544,7 +23555,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23724
+      "UsersEstimate": 23725
     },
     {
       "ID": "PFA_19",
@@ -23760,7 +23771,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17793
+      "UsersEstimate": 17794
     },
     {
       "ID": "PFA_43",
@@ -23776,7 +23787,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23724
+      "UsersEstimate": 23725
     },
     {
       "ID": "PFA_45",
@@ -23800,7 +23811,7 @@
       "Name": "First Class Student",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38552
+      "UsersEstimate": 38553
     },
     {
       "ID": "PFA_7",
@@ -23816,7 +23827,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32621
+      "UsersEstimate": 32622
     },
     {
       "ID": "PFA_9",
@@ -23831,16 +23842,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296556,
+      "Progressed": 296560,
       "Completed": 470
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-13T23:01:22.4351393+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:03:15.4534422+00:00",
+  "LastChanged": "2023-09-14T01:40:54.5021955+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:43:34.6340317+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-14T00:01:28.9251072+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:03:15.4535806+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:40:54.5021963+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:43:34.6341662+00:00"
 }

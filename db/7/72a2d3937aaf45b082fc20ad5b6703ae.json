@@ -79,9 +79,9 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "down_ship",
@@ -135,9 +135,9 @@
       "ID": "little_star",
       "SetID": "l4g2eh",
       "Name": "Little Star",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "minimalist",
@@ -167,9 +167,9 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 71,
+      "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "original",
@@ -230,8 +230,8 @@
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:06:00.2184994+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:45:43.5471795+00:00",
   "LastUpdate_AppInfo": "2023-09-08T21:57:00.7877533+00:00",
-  "LastUpdate_Ratings": "2023-09-14T00:00:17.5499262+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:06:00.2185157+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:39:59.848024+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:45:43.5471947+00:00"
 }

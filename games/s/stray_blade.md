@@ -27,10 +27,10 @@
 | Defeat Ingla | 5.00% | ~4 |
 | Defeat Uskol | 5.00% | ~4 |
 | Bringing guns to a sword fight | 5.00% | ~4 |
+| Finally! | 5.00% | ~4 |
 | But what of the Acreans? | 5.00% | ~4 |
 | Defeat Tezuth | 4.00% | ~3 |
 | Ancient Powers | 4.00% | ~3 |
-| Finally! | 4.00% | ~3 |
 | The End | 4.00% | ~3 |
 | A Deceiving Gift | 4.00% | ~3 |
 | Unveiling the Truth | 4.00% | ~3 |

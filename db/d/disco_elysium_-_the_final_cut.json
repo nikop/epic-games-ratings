@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1295,9 +1295,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127613,
+  "EOS_Progressed": 127614,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15825,6 +15825,11 @@
       "Time": "2023-09-13T22:07:25.8283775+00:00",
       "NumProgressed": 127613,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-14T01:46:28.6102713+00:00",
+      "NumProgressed": 127614,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15868,7 +15873,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22970
+      "UsersEstimate": 22971
     },
     {
       "ID": "ACH_COP_BAD",
@@ -15980,7 +15985,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14037
+      "UsersEstimate": 14038
     },
     {
       "ID": "ACH_CUNO",
@@ -16155,15 +16160,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127613,
+      "Progressed": 127614,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-13T20:58:14.5797989+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:06:58.8725723+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:46:28.6102708+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:58:43.3312895+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:06:58.8727028+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:38:51.3689525+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:46:28.6103893+00:00"
 }

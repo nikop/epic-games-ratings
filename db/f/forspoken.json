@@ -376,7 +376,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 39928,
+  "EOS_Progressed": 39929,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -8426,6 +8426,11 @@
       "Time": "2023-09-14T00:06:31.660192+00:00",
       "NumProgressed": 39928,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-14T01:46:07.5726058+00:00",
+      "NumProgressed": 39929,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -8701,7 +8706,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "MAGIC_TANTA",
@@ -8765,7 +8770,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -8860,22 +8865,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 39928,
+      "Progressed": 39929,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 4765,
-      "Completed": 4765
+      "Progressed": 4766,
+      "Completed": 4766
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-09-01T09:58:46.1320611+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:06:31.6601913+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:46:07.5726053+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:56.8257912+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:57:38.617474+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:06:31.660292+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:38:07.4994354+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:46:07.5727011+00:00"
 }

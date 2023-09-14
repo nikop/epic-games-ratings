@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 2.00% | ~34 |
-| Faceroll the Bones | 2.00% | ~34 |
-| Hit 'Em Where It Hurts | 2.00% | ~34 |
-| That'll Leave a Mark | 2.00% | ~34 |
-| Debuff Dogpile | 1.00% | ~17 |
-| First Strike | 1.00% | ~17 |
-| Flawless Victory | 1.00% | ~17 |
-| Horder Better Faster Stronger | 1.00% | ~17 |
-| Mushroom Madness! | 1.00% | ~17 |
-| Perk Shard Punch Card | 1.00% | ~17 |
-| Ten Steps from the Grave | 1.00% | ~17 |
-| Cold-Blooded Critters | 0.90% | ~15 |
-| Deadication | 0.90% | ~15 |
-| Everything Must Go! | 0.90% | ~15 |
-| Spending Spree | 0.80% | ~14 |
+| Death Becomes You | 2.00% | ~35 |
+| That'll Leave a Mark | 2.00% | ~35 |
+| Debuff Dogpile | 1.00% | ~18 |
+| Faceroll the Bones | 1.00% | ~18 |
+| First Strike | 1.00% | ~18 |
+| Flawless Victory | 1.00% | ~18 |
+| Hit 'Em Where It Hurts | 1.00% | ~18 |
+| Horder Better Faster Stronger | 1.00% | ~18 |
+| Mushroom Madness! | 1.00% | ~18 |
+| Perk Shard Punch Card | 1.00% | ~18 |
+| Ten Steps from the Grave | 1.00% | ~18 |
+| Cold-Blooded Critters | 0.90% | ~16 |
+| Deadication | 0.90% | ~16 |
+| Everything Must Go! | 0.90% | ~16 |
 | The Harder They Fall | 0.70% | ~12 |
 | Season Finale | 0.70% | ~12 |
+| Spending Spree | 0.70% | ~12 |
 | Next Time on MythForce... | 0.50% | ~9 |
 | On this Episode! | 0.50% | ~9 |
 | The Fourth Gate | 0.40% | ~7 |
-| Vexed Her | 0.20% | ~3 |
+| Vexed Her | 0.20% | ~4 |
 | We've Got a Kaiju on the Field | 0.10% | ~2 |
 | Deadalus and Loving It | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,721 (Ranked 187)  
+Progressed: 1,752 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 1,321 | 0 |
 | 2023-09-12 | 1,507 | 0 |
 | 2023-09-13 | 1,711 | 0 |
-| 2023-09-14 | 1,721 | 0 |
+| 2023-09-14 | 1,752 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 354)  

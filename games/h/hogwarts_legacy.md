@@ -6,10 +6,10 @@ Rating: 4.77 (Ranked 109)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,518 |
-| First Class Student | 13.00% | ~38,552 |
+| First Class Student | 13.00% | ~38,553 |
 | A Keen Sense of Spell | 12.00% | ~35,587 |
 | Troll with the Punches | 12.00% | ~35,587 |
-| That's a Keeper | 11.00% | ~32,621 |
+| That's a Keeper | 11.00% | ~32,622 |
 | Grappling with a Graphorn | 10.00% | ~29,656 |
 | The One Who Mastered Memories | 10.00% | ~29,656 |
 | The Hallowed Hero | 10.00% | ~29,656 |
@@ -21,13 +21,13 @@ Rating: 4.77 (Ranked 109)
 | Challenge Accepted | 9.00% | ~26,690 |
 | Followed the Butterflies | 9.00% | ~26,690 |
 | Rising From the Ashes | 9.00% | ~26,690 |
-| A Sallow Grave | 8.00% | ~23,724 |
-| The Spell Master | 8.00% | ~23,724 |
+| A Sallow Grave | 8.00% | ~23,725 |
+| The Spell Master | 8.00% | ~23,725 |
 | The Avenging Gazelle | 7.00% | ~20,759 |
 | Beast Friends | 7.00% | ~20,759 |
 | Flight the Good Flight | 7.00% | ~20,759 |
-| The Seeker of Knowledge | 6.00% | ~17,793 |
-| Raising Expectations | 6.00% | ~17,793 |
+| The Seeker of Knowledge | 6.00% | ~17,794 |
+| Raising Expectations | 6.00% | ~17,794 |
 | The Root of the Problem | 5.00% | ~14,828 |
 | Third Time's a Charm | 5.00% | ~14,828 |
 | The Ends Petrify the Means | 5.00% | ~14,828 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,779 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,556 (Ranked 43)  
+Progressed: 296,560 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-11 | 296,418 | 470 |
 | 2023-09-12 | 296,501 | 470 |
 | 2023-09-13 | 296,555 | 470 |
-| 2023-09-14 | 296,556 | 470 |
+| 2023-09-14 | 296,560 | 470 |
 ## Awards
 Max (Character Customization): 22,630  (Ranked 17)  
-Sum: 43,189 (Ranked 30)  
+Sum: 43,192 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -210,7 +210,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,063 |
 | This game has Amazing Storytelling | 1,022 |
 | This game is Extremely Fun | 1,020 |
-| This game is Relaxing | 1,013 |
+| This game is Relaxing | 1,016 |
 | This game has Diverse Characters | 1,007 |
 | This game has Amazing Characters | 987 |
 | This game is Highly Recommended | 968 |
@@ -394,3 +394,4 @@ Diff (max vs sum): -13
 | 2023-09-11 | 4.77 | 22,536 | 42,979 |
 | 2023-09-12 | 4.77 | 22,582 | 43,090 |
 | 2023-09-13 | 4.77 | 22,630 | 43,189 |
+| 2023-09-14 | 4.77 | 22,630 | 43,192 |

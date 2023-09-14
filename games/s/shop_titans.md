@@ -46,6 +46,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 0.50% | ~681 |
 | For the Hoard! | 0.50% | ~681 |
 | Scrapbooker | 0.50% | ~681 |
+| This Power Level...! | 0.50% | ~681 |
 | Power of Love | 0.50% | ~681 |
 | Trash to Treasure | 0.50% | ~681 |
 | Royal Ransom | 0.50% | ~681 |
@@ -66,7 +67,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 0.40% | ~545 |
 | Flying off the Shelves | 0.40% | ~545 |
 | Industrial Evolution | 0.40% | ~545 |
-| This Power Level...! | 0.40% | ~545 |
 | Omae wa Mou Shindeiru | 0.40% | ~545 |
 | Master of Transmutation | 0.40% | ~545 |
 | Hidden Potential | 0.40% | ~545 |

@@ -6012,7 +6012,7 @@
   ],
   "EOS_Progressed": 136140,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21401,9 +21401,9 @@
       "ID": "damage02",
       "SetID": "anfd17p",
       "Name": "This Power Level...!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 681
     },
     {
       "ID": "damage03",
@@ -21993,8 +21993,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-13T16:57:11.608345+00:00",
-  "LastChanged_Achievements": "2023-09-14T00:08:12.5195341+00:00",
+  "LastChanged_Achievements": "2023-09-14T01:47:24.837281+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-13T23:57:17.2195049+00:00",
-  "LastUpdate_Achievements": "2023-09-14T00:08:12.519799+00:00"
+  "LastUpdate_Ratings": "2023-09-14T01:37:51.8623192+00:00",
+  "LastUpdate_Achievements": "2023-09-14T01:47:24.8375227+00:00"
 }
