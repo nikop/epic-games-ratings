@@ -5,12 +5,13 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break A Leg | 2.00% | ~13,590 |
-| Hotel California | 2.00% | ~13,590 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,590 |
-| Welcome To Hell-A | 2.00% | ~13,590 |
+| Break A Leg | 2.00% | ~13,591 |
+| Hotel California | 2.00% | ~13,591 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,591 |
+| Welcome To Hell-A | 2.00% | ~13,591 |
 | Dr. Reed, I Presume? | 1.00% | ~6,795 |
 | Git Gutte! | 1.00% | ~6,795 |
+| Anger Management | 1.00% | ~6,795 |
 | Bookworm | 1.00% | ~6,795 |
 | But Doctor, I am Butcho | 1.00% | ~6,795 |
 | Slayer Squad | 1.00% | ~6,795 |
@@ -27,7 +28,6 @@ Rating: 4.54 (Ranked 502)
 | Stacking the Deck | 1.00% | ~6,795 |
 | Our True Nature | 1.00% | ~6,795 |
 | This is My Weapon | 1.00% | ~6,795 |
-| Anger Management | 0.90% | ~6,116 |
 | Perks of the Job | 0.90% | ~6,116 |
 | I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,116 |
 | Making Your Mark | 0.80% | ~5,436 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,501 (Ranked 22)  
+Progressed: 679,527 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 2,143 (0.32%) (Ranked 177)
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
-| 2023-09-14 | 679,501 | 2,143 |
+| 2023-09-14 | 679,527 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,038  (Ranked 57)  
-Sum: 8,940 (Ranked 94)  
+Sum: 8,942 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -210,7 +210,7 @@ Diff (max vs sum): -37
 | This game has Diverse Characters | 403 |
 | This game has Quickly Understood Controls | 392 |
 | This game is Relaxing | 373 |
-| This game has Amazing Storytelling | 349 |
+| This game has Amazing Storytelling | 351 |
 | This game is Extremely Fun | 332 |
 | This game has Amazing Characters | 322 |
 | This game is Highly Recommended | 317 |
@@ -363,4 +363,4 @@ Diff (max vs sum): -37
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
 | 2023-09-12 | 4.54 | 6,016 | 8,905 |
 | 2023-09-13 | 4.54 | 6,027 | 8,924 |
-| 2023-09-14 | 4.54 | 6,038 | 8,940 |
+| 2023-09-14 | 4.54 | 6,038 | 8,942 |

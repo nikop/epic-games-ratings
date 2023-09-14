@@ -258,9 +258,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217363,
+  "EOS_Progressed": 217379,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3088,
+  "EOS_NewPlayers": 3089,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6088,6 +6088,11 @@
       "Time": "2023-09-14T11:03:35.7390491+00:00",
       "NumProgressed": 217363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T12:03:19.3308429+00:00",
+      "NumProgressed": 217379,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -6156,7 +6161,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43473
+      "UsersEstimate": 43476
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -6164,7 +6169,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 19563
+      "UsersEstimate": 19564
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -6172,7 +6177,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10868
+      "UsersEstimate": 10869
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -6188,7 +6193,7 @@
       "Name": "Great Wastelands (part 2) Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "HW1_MISSION6_COMPLETE",
@@ -6204,7 +6209,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -6212,7 +6217,7 @@
       "Name": "The Cathedral of Kadesh Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "HW1_MISSION9_COMPLETE",
@@ -6220,7 +6225,7 @@
       "Name": "Sea of Lost Souls Completed",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "HW1_TUTORIAL_COMPLETE",
@@ -6252,7 +6257,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -6268,7 +6273,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -6276,7 +6281,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -6284,7 +6289,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28257
+      "UsersEstimate": 28259
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -6292,7 +6297,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 15215
+      "UsersEstimate": 15217
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -6300,7 +6305,7 @@
       "Name": "Sarum Completed",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "HW2_MISSION4_COMPLETE",
@@ -6348,7 +6353,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -6356,7 +6361,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 54341
+      "UsersEstimate": 54345
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -6371,7 +6376,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 217363,
+      "Progressed": 217379,
       "Completed": 0
     }
   ],
@@ -6379,8 +6384,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-14T11:00:09.7645849+00:00",
-  "LastChanged_Achievements": "2023-09-14T11:03:35.7390485+00:00",
+  "LastChanged_Achievements": "2023-09-14T12:03:19.3308422+00:00",
   "LastUpdate_AppInfo": "2023-09-07T19:57:25.1255237+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:00:09.7645854+00:00",
-  "LastUpdate_Achievements": "2023-09-14T11:03:35.7391173+00:00"
+  "LastUpdate_Ratings": "2023-09-14T11:59:59.6162407+00:00",
+  "LastUpdate_Achievements": "2023-09-14T12:03:19.3308977+00:00"
 }

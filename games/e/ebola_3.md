@@ -34,6 +34,7 @@
 | Sheriff ✔ | 4.00% | ~11 |
 | City on fire ✔ | 4.00% | ~11 |
 | Infected ✔ | 4.00% | ~11 |
+| Car ✔ | 3.00% | ~8 |
 | Crocodile Attack ✔ | 3.00% | ~8 |
 | Secret ✔ | 3.00% | ~8 |
 | Boss 2 ✔ | 3.00% | ~8 |
@@ -42,7 +43,6 @@
 | Priest ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |
 | Boss 3 ✔ | 3.00% | ~8 |
-| Car ✔ | 2.00% | ~5 |
 | Seeker One ✔ | 2.00% | ~5 |
 | Seeker Three ✔ | 2.00% | ~5 |
 | Crocodile Escape ✔ | 2.00% | ~5 |

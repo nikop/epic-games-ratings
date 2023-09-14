@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 34,
+  "Ranking_EOS_NewPlayers": 35,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65192,
+  "EOS_Progressed": 65195,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2434,
+  "EOS_NewPlayers": 2423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14607,6 +14607,11 @@
       "Time": "2023-09-14T11:07:15.5420142+00:00",
       "NumProgressed": 65192,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-14T12:07:00.1386816+00:00",
+      "NumProgressed": 65195,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -14618,7 +14623,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26729
+      "UsersEstimate": 26730
     },
     {
       "ID": "02",
@@ -14626,7 +14631,7 @@
       "Name": "Nordic Walking",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16298
+      "UsersEstimate": 16299
     },
     {
       "ID": "03",
@@ -14634,7 +14639,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16298
+      "UsersEstimate": 16299
     },
     {
       "ID": "04",
@@ -14650,7 +14655,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "06",
@@ -14730,7 +14735,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6519
+      "UsersEstimate": 6520
     },
     {
       "ID": "16",
@@ -14738,7 +14743,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5215
+      "UsersEstimate": 5216
     },
     {
       "ID": "17",
@@ -14746,7 +14751,7 @@
       "Name": "Departure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     },
     {
       "ID": "18",
@@ -14810,7 +14815,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "26",
@@ -14866,7 +14871,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20861
+      "UsersEstimate": 20862
     },
     {
       "ID": "33",
@@ -14890,7 +14895,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21513
+      "UsersEstimate": 21514
     },
     {
       "ID": "36",
@@ -14930,7 +14935,7 @@
       "Name": "Right of Way",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "41",
@@ -15153,21 +15158,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65192,
+      "Progressed": 65195,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 28660,
+      "Progressed": 28663,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-14T11:07:15.5420136+00:00",
+  "LastChanged_Achievements": "2023-09-14T12:07:00.1386811+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:15.1520424+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:03:12.8942873+00:00",
-  "LastUpdate_Achievements": "2023-09-14T11:07:15.542178+00:00"
+  "LastUpdate_Ratings": "2023-09-14T12:00:55.4818926+00:00",
+  "LastUpdate_Achievements": "2023-09-14T12:07:00.1387938+00:00"
 }

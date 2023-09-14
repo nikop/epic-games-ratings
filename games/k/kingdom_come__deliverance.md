@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~256,393 |
-| Cavalier | 25.00% | ~200,307 |
-| Fatso | 23.00% | ~184,282 |
-| Awakening | 21.00% | ~168,258 |
-| Ranger | 20.00% | ~160,246 |
-| Scrooge | 20.00% | ~160,246 |
-| Anorectic | 16.00% | ~128,196 |
-| Bookworm | 15.00% | ~120,184 |
-| Firestarter | 15.00% | ~120,184 |
+| Blacksmith's Son | 32.00% | ~256,395 |
+| Cavalier | 25.00% | ~200,308 |
+| Fatso | 23.00% | ~184,284 |
+| Awakening | 21.00% | ~168,259 |
+| Ranger | 20.00% | ~160,247 |
+| Scrooge | 20.00% | ~160,247 |
+| Anorectic | 16.00% | ~128,197 |
+| Bookworm | 15.00% | ~120,185 |
+| Firestarter | 15.00% | ~120,185 |
 | Insomniac | 13.00% | ~104,160 |
-| Buddy | 12.00% | ~96,147 |
-| Thief | 12.00% | ~96,147 |
-| Sinner | 11.00% | ~88,135 |
-| Traveller | 11.00% | ~88,135 |
+| Buddy | 12.00% | ~96,148 |
+| Thief | 12.00% | ~96,148 |
+| Sinner | 11.00% | ~88,136 |
+| Traveller | 11.00% | ~88,136 |
 | Convict | 10.00% | ~80,123 |
 | Haggler | 9.00% | ~72,111 |
 | McLovin | 7.00% | ~56,086 |
 | Runt | 7.00% | ~56,086 |
 | Casanova | 6.00% | ~48,074 |
-| Bad Trip | 5.00% | ~40,061 |
-| Monk | 5.00% | ~40,061 |
-| Serial Killer | 5.00% | ~40,061 |
+| Bad Trip | 5.00% | ~40,062 |
+| Monk | 5.00% | ~40,062 |
+| Serial Killer | 5.00% | ~40,062 |
 | Bastard | 4.00% | ~32,049 |
 | Hunter | 4.00% | ~32,049 |
 | Plague Doctor | 4.00% | ~32,049 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~801 |
 | Wingman | 0.10% | ~801 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 801,228 (Ranked 16)  
+Progressed: 801,233 (Ranked 16)  
 Completed: 46 (0.01%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 46 (0.01%) (Ranked 260)
 | 2023-09-11 | 800,968 | 45 |
 | 2023-09-12 | 801,077 | 45 |
 | 2023-09-13 | 801,187 | 45 |
-| 2023-09-14 | 801,228 | 46 |
+| 2023-09-14 | 801,233 | 46 |
 ## Awards
 Max (Character Customization): 7,443  (Ranked 47)  
 Sum: 27,729 (Ranked 47)  

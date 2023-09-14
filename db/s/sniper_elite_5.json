@@ -524,9 +524,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3610,
+  "EOS_Progressed": 3611,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -6644,6 +6644,11 @@
       "Time": "2023-09-13T01:45:58.8884478+00:00",
       "NumProgressed": 3610,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-09-14T12:04:44.2498383+00:00",
+      "NumProgressed": 3611,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 71,
@@ -6703,7 +6708,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -6783,7 +6788,7 @@
       "Name": "Skirmisher",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -6799,7 +6804,7 @@
       "Name": "The Long Game",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -6871,7 +6876,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -6919,7 +6924,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -6967,7 +6972,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -6975,7 +6980,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -7015,7 +7020,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -7063,7 +7068,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -7222,13 +7227,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3561,
+      "Progressed": 3562,
       "Completed": 14
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3610,
+      "Progressed": 3611,
       "Completed": 10
     }
   ],
@@ -7236,8 +7241,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-09-13T01:41:28.7429411+00:00",
-  "LastChanged_Achievements": "2023-09-14T11:05:00.5613146+00:00",
+  "LastChanged_Achievements": "2023-09-14T12:04:44.2498379+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:54.5295893+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:00:20.2281377+00:00",
-  "LastUpdate_Achievements": "2023-09-14T11:05:00.561413+00:00"
+  "LastUpdate_Ratings": "2023-09-14T12:00:08.3213954+00:00",
+  "LastUpdate_Achievements": "2023-09-14T12:04:44.2499301+00:00"
 }

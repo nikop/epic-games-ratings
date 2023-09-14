@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10538,
+  "EOS_Progressed": 10540,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5300,6 +5300,11 @@
       "Time": "2023-09-14T11:09:14.809707+00:00",
       "NumProgressed": 10538,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T12:07:18.4644278+00:00",
+      "NumProgressed": 10540,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5328,7 +5333,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "12",
@@ -5376,7 +5381,7 @@
       "Name": "Spore Taste",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "18",
@@ -5520,7 +5525,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "7",
@@ -5544,14 +5549,14 @@
       "Name": "Impossible Objects",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3372
+      "UsersEstimate": 3373
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10538,
+      "Progressed": 10540,
       "Completed": 0
     }
   ],
@@ -5559,8 +5564,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-14T11:09:14.8097064+00:00",
+  "LastChanged_Achievements": "2023-09-14T12:07:18.4644272+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:58:21.6570743+00:00",
-  "LastUpdate_Achievements": "2023-09-14T11:09:14.8097636+00:00"
+  "LastUpdate_Ratings": "2023-09-14T11:58:15.1870901+00:00",
+  "LastUpdate_Achievements": "2023-09-14T12:07:18.4644692+00:00"
 }

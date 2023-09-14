@@ -6640,9 +6640,9 @@
       "Count": 3416
     }
   ],
-  "EOS_Progressed": 228724,
+  "EOS_Progressed": 228728,
   "EOS_Completed": 2279,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1017,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -22900,6 +22900,11 @@
       "Time": "2023-09-14T11:05:29.0483112+00:00",
       "NumProgressed": 228724,
       "NumCompleted": 2279
+    },
+    {
+      "Time": "2023-09-14T12:05:13.4604687+00:00",
+      "NumProgressed": 228728,
+      "NumCompleted": 2279
     }
   ],
   "TotalAchievements": 520,
@@ -24853,9 +24858,9 @@
       "ID": "objective_completed_41",
       "SetID": "cc37lbc",
       "Name": "Premature Betrayal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 457
     },
     {
       "ID": "objective_completed_410",
@@ -26061,9 +26066,9 @@
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 457
     },
     {
       "ID": "objective_completed_71",
@@ -27070,21 +27075,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 194998,
+      "Progressed": 195002,
       "Completed": 3425
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228724,
+      "Progressed": 228728,
       "Completed": 2279
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-14T08:56:55.6188132+00:00",
-  "LastChanged_Achievements": "2023-09-14T11:05:29.0483106+00:00",
+  "LastChanged_Achievements": "2023-09-14T12:05:13.4604679+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:57:17.9340887+00:00",
-  "LastUpdate_Achievements": "2023-09-14T11:05:29.0510474+00:00"
+  "LastUpdate_Ratings": "2023-09-14T11:57:11.1009957+00:00",
+  "LastUpdate_Achievements": "2023-09-14T12:05:13.4628521+00:00"
 }

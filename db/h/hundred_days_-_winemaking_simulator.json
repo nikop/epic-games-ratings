@@ -988,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 2956,
+  "EOS_Progressed": 2964,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1286,
+  "EOS_NewPlayers": 1288,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2778,6 +2778,11 @@
       "Time": "2023-09-14T11:05:50.0382081+00:00",
       "NumProgressed": 2956,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T12:05:34.049293+00:00",
+      "NumProgressed": 2964,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2790,7 +2795,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "a_10",
@@ -2804,9 +2809,9 @@
       "ID": "a_11",
       "SetID": "daiie3o",
       "Name": "A lot of space",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 59
     },
     {
       "ID": "a_12",
@@ -2838,7 +2843,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1037
     },
     {
       "ID": "a_19",
@@ -2846,7 +2851,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "a_2",
@@ -2854,7 +2859,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "a_20",
@@ -2878,7 +2883,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "a_23",
@@ -2886,7 +2891,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "a_25",
@@ -2894,7 +2899,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "a_26",
@@ -3004,9 +3009,9 @@
       "ID": "a_6",
       "SetID": "daiie3o",
       "Name": "Gem of Monferrato",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "a_7",
@@ -3037,7 +3042,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 2956,
+      "Progressed": 2964,
       "Completed": 5
     }
   ],
@@ -3045,8 +3050,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-14T11:05:50.0382074+00:00",
+  "LastChanged_Achievements": "2023-09-14T12:05:34.0492925+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:03:14.868257+00:00",
-  "LastUpdate_Achievements": "2023-09-14T11:05:50.0382448+00:00"
+  "LastUpdate_Ratings": "2023-09-14T12:00:59.2518135+00:00",
+  "LastUpdate_Achievements": "2023-09-14T12:05:34.0493186+00:00"
 }

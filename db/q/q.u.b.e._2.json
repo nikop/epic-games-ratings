@@ -338,7 +338,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -1383,6 +1383,11 @@
       "Time": "2023-09-14T02:22:09.8376344+00:00",
       "NumProgressed": 310,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-14T12:06:30.0709354+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -1395,7 +1400,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_BLUEEND",
@@ -1585,9 +1590,9 @@
       "ID": "ACH_S1",
       "SetID": "232494e",
       "Name": "Quick Understanding of Block Extrusion",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_S4",
@@ -1603,7 +1608,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -1626,15 +1631,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-14T11:06:45.8614462+00:00",
+  "LastChanged_Achievements": "2023-09-14T12:06:30.0709348+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-14T11:00:54.2248789+00:00",
-  "LastUpdate_Achievements": "2023-09-14T11:06:45.861476+00:00"
+  "LastUpdate_Ratings": "2023-09-14T12:00:41.2751036+00:00",
+  "LastUpdate_Achievements": "2023-09-14T12:06:30.0709565+00:00"
 }

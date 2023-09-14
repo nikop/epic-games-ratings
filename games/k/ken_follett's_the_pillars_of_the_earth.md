@@ -7,7 +7,7 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 41.00% | ~6,227 |
-| Man of politics | 35.00% | ~5,315 |
+| Man of politics | 35.00% | ~5,316 |
 | Friends of sorts | 33.00% | ~5,012 |
 | Yet another secret | 33.00% | ~5,012 |
 | Let there be darkness | 32.00% | ~4,860 |
@@ -16,7 +16,7 @@ Number of Ratings: 368  (23.09.2022)
 | Garden of Eden | 24.00% | ~3,645 |
 | Full house | 24.00% | ~3,645 |
 | Help an old friend | 22.00% | ~3,341 |
-| Two of us | 20.00% | ~3,037 |
+| Two of us | 20.00% | ~3,038 |
 | Negotiation skills | 18.00% | ~2,734 |
 | Workers' union | 18.00% | ~2,734 |
 | End of Book Two | 18.00% | ~2,734 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,126 |
 | Jack was here! | 14.00% | ~2,126 |
 | Exterminator | 13.00% | ~1,974 |
-| Whodunnit | 12.00% | ~1,822 |
+| Whodunnit | 12.00% | ~1,823 |
 | Friar Tuck | 11.00% | ~1,671 |
 | First profit | 11.00% | ~1,671 |
 | Good midwife | 10.00% | ~1,519 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~759 |
 | Lone wolf | 5.00% | ~759 |
 | Vox Populi | 5.00% | ~759 |
-| Revenge | 4.00% | ~607 |
-| Self-defense | 4.00% | ~607 |
-| Countess Aliena | 4.00% | ~607 |
+| Revenge | 4.00% | ~608 |
+| Self-defense | 4.00% | ~608 |
+| Countess Aliena | 4.00% | ~608 |
 | Care, like a brother cares | 3.00% | ~456 |
 | A brush with death | 3.00% | ~456 |
 | Boy of mystery | 2.00% | ~304 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,187 (Ranked 121)  
+Progressed: 15,188 (Ranked 121)  
 Completed: 110 (0.72%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 110 (0.72%) (Ranked 135)
 | 2023-09-11 | 15,148 | 110 |
 | 2023-09-12 | 15,165 | 110 |
 | 2023-09-13 | 15,184 | 110 |
-| 2023-09-14 | 15,187 | 110 |
+| 2023-09-14 | 15,188 | 110 |
 ## Awards
 Max (Easy Puzzles): 149  (Ranked 302)  
 Sum: 189 (Ranked 379)  

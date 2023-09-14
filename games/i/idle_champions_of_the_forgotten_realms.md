@@ -49,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~457 |
 | The Death Curse | 0.20% | ~457 |
 | Useless Allies | 0.20% | ~457 |
+| Premature Betrayal | 0.20% | ~457 |
 | Exploring Port Nyanzaru | 0.20% | ~457 |
 | A Tale of Two Cities | 0.20% | ~457 |
 | Flying Monkey Skulls of Doom | 0.20% | ~457 |
@@ -56,6 +57,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~457 |
 | Escort to Waterdeep | 0.20% | ~457 |
 | The Giant's Bane Tavern | 0.20% | ~390 |
+| Close Escort | 0.20% | ~457 |
 | Constant Banditry | 0.20% | ~457 |
 | Waterdeep Detours | 0.20% | ~457 |
 | Underdeep Cartography | 0.20% | ~457 |
@@ -270,7 +272,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Twilight Twist | 0.10% | ~195 |
 | Excavating History | 0.10% | ~229 |
 | Screams of the Dead | 0.10% | ~229 |
-| Premature Betrayal | 0.10% | ~229 |
 | Frantic Excavation | 0.10% | ~229 |
 | Birds of a Feather | 0.10% | ~195 |
 | Towering Expectations | 0.10% | ~229 |
@@ -412,7 +413,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~195 |
 | Mirage Arcane | 0.10% | ~195 |
 | Only Human | 0.10% | ~195 |
-| Close Escort | 0.10% | ~229 |
 | The Long Haul | 0.10% | ~229 |
 | Lost in the Deep | 0.10% | ~229 |
 | Easily Distracted | 0.10% | ~229 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,724 (Ranked 54)  
+Progressed: 228,728 (Ranked 54)  
 Completed: 2,279 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -674,7 +674,7 @@ Completed: 2,279 (1.00%) (Ranked 122)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,724 | 2,279 |
+| 2023-09-14 | 228,728 | 2,279 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
 Sum: 31,577 (Ranked 39)  

@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~308,405 |
-| Jeef Skeejj | 44.00% | ~205,604 |
+| The Shutdown | 66.00% | ~308,407 |
+| Jeef Skeejj | 44.00% | ~205,605 |
 | Careful planning | 39.00% | ~182,240 |
 | Second Coming | 33.00% | ~154,203 |
-| Jeef Skagg | 30.00% | ~140,184 |
-| Mother | 25.00% | ~116,820 |
-| In space, no one can hear you scream | 24.00% | ~112,147 |
+| Jeef Skagg | 30.00% | ~140,185 |
+| Mother | 25.00% | ~116,821 |
+| In space, no one can hear you scream | 24.00% | ~112,148 |
 | Chapter I: Echoes | 22.00% | ~102,802 |
 | Excelsior Rule | 22.00% | ~102,802 |
-| Things persisted in not being what they seemed | 20.00% | ~93,456 |
+| Things persisted in not being what they seemed | 20.00% | ~93,457 |
 | Knightmare Frames | 15.00% | ~70,092 |
 | May His passing cleanse the world | 15.00% | ~70,092 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,092 |
@@ -23,11 +23,11 @@ Number of Ratings: 1,003  (23.09.2022)
 | Tetsuo | 11.00% | ~51,401 |
 | Plan for the worst | 11.00% | ~51,401 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~46,728 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,382 |
-| Through the mirror | 8.00% | ~37,382 |
-| General Vivar | 8.00% | ~37,382 |
-| Back to Ganyma | 8.00% | ~37,382 |
-| Kaos Rule | 8.00% | ~37,382 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,383 |
+| Through the mirror | 8.00% | ~37,383 |
+| General Vivar | 8.00% | ~37,383 |
+| Back to Ganyma | 8.00% | ~37,383 |
+| Kaos Rule | 8.00% | ~37,383 |
 | Admiral Okonkwo | 7.00% | ~32,710 |
 | The Survivalists | 7.00% | ~32,710 |
 | The Tech Specialist | 7.00% | ~32,710 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~11 |
 | Kronos Rule | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 467,281 (Ranked 37)  
+Progressed: 467,283 (Ranked 37)  
 Completed: 18 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 18 (0.00%) (Ranked 274)
 | 2023-09-11 | 467,166 | 18 |
 | 2023-09-12 | 467,219 | 18 |
 | 2023-09-13 | 467,264 | 18 |
-| 2023-09-14 | 467,281 | 18 |
+| 2023-09-14 | 467,283 | 18 |
 ## Awards
 Max (Character Customization): 218  (Ranked 268)  
 Sum: 238 (Ranked 361)  

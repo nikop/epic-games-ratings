@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,729 |
-| Let There Be Light | 33.00% | ~21,513 |
-| Float Like a Butterfly | 32.00% | ~20,861 |
-| Nordic Walking | 25.00% | ~16,298 |
-| Bright Falls' Finest | 25.00% | ~16,298 |
-| Under a Thin Layer of Skin | 22.00% | ~14,342 |
+| Follow the Light | 41.00% | ~26,730 |
+| Let There Be Light | 33.00% | ~21,514 |
+| Float Like a Butterfly | 32.00% | ~20,862 |
+| Nordic Walking | 25.00% | ~16,299 |
+| Bright Falls' Finest | 25.00% | ~16,299 |
+| Under a Thin Layer of Skin | 22.00% | ~14,343 |
 | Park Ranger | 18.00% | ~11,735 |
 | Paging Mr. Wake | 18.00% | ~11,735 |
 | Back! Back, I Say! | 17.00% | ~11,083 |
@@ -32,12 +32,12 @@ Number of Ratings: 524  (23.09.2022)
 | Gatekeeper | 11.00% | ~7,171 |
 | Two For the Price of One | 11.00% | ~7,171 |
 | Energized! | 11.00% | ~7,171 |
-| The Lady of the Light | 10.00% | ~6,519 |
-| What Light Through Yonder Window | 9.00% | ~5,867 |
-| Right of Way | 9.00% | ~5,867 |
-| Tornado Wrangler | 8.00% | ~5,215 |
+| The Lady of the Light | 10.00% | ~6,520 |
+| What Light Through Yonder Window | 9.00% | ~5,868 |
+| Right of Way | 9.00% | ~5,868 |
+| Tornado Wrangler | 8.00% | ~5,216 |
 | A Friend in Need | 8.00% | ~2,293 |
-| Departure | 7.00% | ~4,563 |
+| Departure | 7.00% | ~4,564 |
 | Drink 'Em Both Up | 6.00% | ~3,912 |
 | Hardboiled Writer | 6.00% | ~3,912 |
 | A Friend Indeed | 6.00% | ~1,720 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~65 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,192 (Ranked 87)  
+Progressed: 65,195 (Ranked 87)  
 Completed: 65 (0.10%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 65 (0.10%) (Ranked 220)
 | 2023-09-11 | 64,651 | 65 |
 | 2023-09-12 | 64,967 | 65 |
 | 2023-09-13 | 65,148 | 65 |
-| 2023-09-14 | 65,192 | 65 |
+| 2023-09-14 | 65,195 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

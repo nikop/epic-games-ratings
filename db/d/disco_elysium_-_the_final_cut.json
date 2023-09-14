@@ -1295,7 +1295,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127624,
+  "EOS_Progressed": 127626,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 1,
@@ -15860,6 +15860,11 @@
       "Time": "2023-09-14T11:06:33.7578711+00:00",
       "NumProgressed": 127624,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-14T12:06:18.1820617+00:00",
+      "NumProgressed": 127626,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15903,7 +15908,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22972
+      "UsersEstimate": 22973
     },
     {
       "ID": "ACH_COP_BAD",
@@ -15911,7 +15916,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ACH_COP_BORING",
@@ -15991,7 +15996,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -16023,7 +16028,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ACH_DOLORES",
@@ -16063,7 +16068,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7657
+      "UsersEstimate": 7658
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -16087,7 +16092,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17867
+      "UsersEstimate": 17868
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -16151,7 +16156,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 17867
+      "UsersEstimate": 17868
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -16159,7 +16164,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2552
+      "UsersEstimate": 2553
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -16190,15 +16195,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127624,
+      "Progressed": 127626,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-13T20:58:14.5797989+00:00",
-  "LastChanged_Achievements": "2023-09-14T11:06:33.7578703+00:00",
+  "LastChanged_Achievements": "2023-09-14T12:06:18.1820609+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-14T10:58:38.6360849+00:00",
-  "LastUpdate_Achievements": "2023-09-14T11:06:33.7579941+00:00"
+  "LastUpdate_Ratings": "2023-09-14T11:58:31.9379401+00:00",
+  "LastUpdate_Achievements": "2023-09-14T12:06:18.1821514+00:00"
 }
