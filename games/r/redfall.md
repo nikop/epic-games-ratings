@@ -29,11 +29,12 @@ Rating: 3.52 (Ranked 986)
 | Skin of Their Teeth | 0.30% | ~5 |
 | Right This Way | 0.30% | ~5 |
 | Harvest’s End | 0.30% | ~5 |
+| Helping Hand | 0.30% | ~5 |
 | Contingency Plans | 0.20% | ~3 |
 | Bell-ringer | 0.20% | ~3 |
 | Silence Is Golden | 0.20% | ~3 |
 | Sisterhood | 0.20% | ~3 |
-| Helping Hand | 0.20% | ~3 |
+| Dexterity Save | 0.20% | ~3 |
 | I Spit On Your Grave | 0.20% | ~3 |
 | Revelations | 0.10% | ~2 |
 | Block Party | 0.10% | ~2 |
@@ -51,7 +52,6 @@ Rating: 3.52 (Ranked 986)
 | Blacklight Down | 0.10% | ~2 |
 | Under a Bushel | 0.10% | ~2 |
 | Enemy of My Enemy | 0.10% | ~2 |
-| Dexterity Save | 0.10% | ~2 |
 | Bob’s Final Hour | 0.10% | ~2 |
 | Good Samaritan | 0.10% | ~2 |
 | Curious Finch | 0.10% | ~2 |
@@ -73,7 +73,7 @@ Rating: 3.52 (Ranked 986)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,744 (Ranked 187)  
-Completed: 0 (0.00%) (Ranked 274)  
+Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

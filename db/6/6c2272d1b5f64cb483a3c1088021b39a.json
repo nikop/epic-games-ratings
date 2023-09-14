@@ -3,9 +3,9 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1045,
+  "EOS_Progressed": 1046,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -3436,6 +3436,11 @@
       "Time": "2023-09-14T14:06:01.7336479+00:00",
       "NumProgressed": 1045,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T19:06:34.1383498+00:00",
+      "NumProgressed": 1046,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3567,7 +3572,7 @@
       "Name": "Conqueror 1",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "conqueror_2",
@@ -3837,9 +3842,9 @@
       "ID": "punctual_2",
       "SetID": "53c1p3k",
       "Name": "Punctual 2",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "punctual_3",
@@ -3974,14 +3979,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1045,
+      "Progressed": 1046,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:05:55.0744305+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:06:34.1383492+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:09.1292976+00:00",
-  "LastUpdate_Ratings": "2023-09-14T18:00:15.0485957+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:05:55.0745211+00:00"
+  "LastUpdate_Ratings": "2023-09-14T19:00:38.8438158+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:06:34.1384161+00:00"
 }

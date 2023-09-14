@@ -6,8 +6,8 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 139,
-  "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_Completed": 162,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -224,9 +224,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7475,
+  "EOS_Progressed": 7476,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -6924,6 +6924,11 @@
       "Time": "2023-09-14T14:06:20.6750854+00:00",
       "NumProgressed": 7475,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-09-14T19:06:53.4459196+00:00",
+      "NumProgressed": 7476,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 21,
@@ -6975,7 +6980,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ENERGY_SAVER",
@@ -7023,7 +7028,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ICONOCLAST",
@@ -7031,7 +7036,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "IN_A_PINCH",
@@ -7079,7 +7084,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -7087,7 +7092,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "THING",
@@ -7102,7 +7107,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7475,
+      "Progressed": 7476,
       "Completed": 33
     }
   ],
@@ -7110,8 +7115,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-09-07T03:59:20.1725749+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:06:13.5096604+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:06:53.4459191+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:58.0465299+00:00",
-  "LastUpdate_Ratings": "2023-09-14T18:02:07.7990812+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:06:13.5097175+00:00"
+  "LastUpdate_Ratings": "2023-09-14T19:02:12.8297161+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:06:53.4459594+00:00"
 }

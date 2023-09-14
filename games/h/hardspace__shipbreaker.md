@@ -35,7 +35,7 @@ Number of Ratings: 36  (23.09.2022)
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 888 (Ranked 214)  
-Completed: 0 (0.00%) (Ranked 274)  
+Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

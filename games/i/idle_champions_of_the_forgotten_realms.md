@@ -63,6 +63,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~458 |
 | Constant Banditry | 0.20% | ~458 |
 | Waterdeep Detours | 0.20% | ~458 |
+| Easily Distracted | 0.20% | ~458 |
 | Underdeep Cartography | 0.20% | ~458 |
 | Overdue Rendezvous | 0.20% | ~458 |
 | The Templar's Camp | 0.20% | ~458 |
@@ -415,7 +416,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only Human | 0.10% | ~195 |
 | The Long Haul | 0.10% | ~229 |
 | Lost in the Deep | 0.10% | ~229 |
-| Easily Distracted | 0.10% | ~229 |
 | Rude Welcome | 0.10% | ~229 |
 | Moose Tracks | 0.10% | ~195 |
 | An Awakened Axe | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,764 (Ranked 55)  
+Progressed: 228,770 (Ranked 55)  
 Completed: 2,279 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -674,7 +674,7 @@ Completed: 2,279 (1.00%) (Ranked 122)
 | 2023-09-11 | 228,451 | 2,270 |
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
-| 2023-09-14 | 228,764 | 2,279 |
+| 2023-09-14 | 228,770 | 2,279 |
 ## Awards
 Max (Diverse Characters): 5,270  (Ranked 67)  
 Sum: 31,581 (Ranked 39)  

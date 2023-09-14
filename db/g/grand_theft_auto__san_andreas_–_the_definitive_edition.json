@@ -6,7 +6,7 @@
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
@@ -892,9 +892,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12213,
+  "EOS_Progressed": 12215,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -10227,6 +10227,11 @@
       "Time": "2023-09-14T18:04:17.1340442+00:00",
       "NumProgressed": 12213,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-09-14T19:04:54.5135253+00:00",
+      "NumProgressed": 12215,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 35,
@@ -10238,7 +10243,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 9893
+      "UsersEstimate": 9894
     },
     {
       "ID": "ACH02",
@@ -10294,7 +10299,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6229
+      "UsersEstimate": 6230
     },
     {
       "ID": "ACH09",
@@ -10318,7 +10323,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH12",
@@ -10334,7 +10339,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "ACH14",
@@ -10342,7 +10347,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "ACH15",
@@ -10358,7 +10363,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "ACH17",
@@ -10414,7 +10419,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "ACH24",
@@ -10517,7 +10522,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 12213,
+      "Progressed": 12215,
       "Completed": 45
     }
   ],
@@ -10525,8 +10530,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-09-14T03:58:16.8359703+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:04:17.1340434+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:04:54.5135249+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.8211098+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:58:39.4786803+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:04:17.1341304+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:58:59.791124+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:04:54.5135895+00:00"
 }

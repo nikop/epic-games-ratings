@@ -3,12 +3,12 @@
   "Name": "The Outer Worlds",
   "ProductSlug": "the-outer-worlds",
   "Ranking_Rating": 331,
-  "Ranking_Popularity": 116,
+  "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 596,
-  "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2019-10-25T15:00:00+00:00",
     "PcReleaseDate": "2019-10-25T15:00:00+00:00",
@@ -2458,18 +2458,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 3641,
       "NumberOfAwardsMax": 1775
+    },
+    {
+      "Time": "2023-09-14T18:59:41.9513526+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3644,
+      "NumberOfAwardsMax": 1778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3641,
-  "NumberOfAwardsMax": 1775,
+  "NumberOfAwards": 3644,
+  "NumberOfAwardsMax": 1778,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1775
+      "Count": 1778
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2549,8 +2555,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2023-09-13T22:59:42.3131376+00:00",
+  "LastChanged": "2023-09-14T18:59:41.9513524+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:43.727671+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:59:18.0904085+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:03:07.9448272+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:59:41.9513529+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:03:34.8405983+00:00"
 }

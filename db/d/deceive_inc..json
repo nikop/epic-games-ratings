@@ -6,7 +6,7 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 49,
   "Store": {
@@ -250,9 +250,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17990,
+  "EOS_Progressed": 17991,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -10175,6 +10175,11 @@
       "Time": "2023-09-14T17:07:01.0665784+00:00",
       "NumProgressed": 17990,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-14T19:06:05.4560483+00:00",
+      "NumProgressed": 17991,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -10274,7 +10279,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "0013",
@@ -10290,7 +10295,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "0015",
@@ -10473,7 +10478,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 17990,
+      "Progressed": 17991,
       "Completed": 3
     }
   ],
@@ -10481,8 +10486,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-09-09T13:57:19.0010314+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:05:26.588288+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:06:05.4560477+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:35.922979+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:58:58.9900067+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:05:26.5883804+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:59:21.6627087+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:06:05.4561171+00:00"
 }

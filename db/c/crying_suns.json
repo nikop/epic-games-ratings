@@ -6,9 +6,9 @@
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 37,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -598,9 +598,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467299,
+  "EOS_Progressed": 467300,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16038,6 +16038,11 @@
       "Time": "2023-09-14T18:06:23.8924058+00:00",
       "NumProgressed": 467299,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-14T19:07:02.7957573+00:00",
+      "NumProgressed": 467300,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16137,7 +16142,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308417
+      "UsersEstimate": 308418
     },
     {
       "ID": "achievement_story_landa",
@@ -16680,21 +16685,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11233,
+      "Progressed": 11234,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467299,
+      "Progressed": 467300,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:06:23.8924052+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:07:02.7957568+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.6494953+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:57:55.0659905+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:06:23.8926171+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:58:13.124398+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:07:02.7959017+00:00"
 }

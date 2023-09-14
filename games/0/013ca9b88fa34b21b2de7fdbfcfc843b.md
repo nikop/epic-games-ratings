@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~1,865 |
-| A Thorny Situation | 67.00% | ~1,735 |
-| ... And Spit Back Out | 53.00% | ~1,373 |
-| Break-Net Speed | 41.00% | ~1,062 |
-| Bramble Breaker | 33.00% | ~855 |
-| Miner 49er | 32.00% | ~829 |
-| Humble Collector | 31.00% | ~803 |
-| Calm Sailing | 19.00% | ~492 |
-| Open the Gate! | 16.00% | ~414 |
-| Lumberjack | 15.00% | ~388 |
-| Oui, Chef! | 15.00% | ~388 |
-| Mist Walker | 13.00% | ~337 |
-| Beach Comber | 7.00% | ~181 |
-| Botanical Breakthrough | 7.00% | ~181 |
+| Azoria Beckons | 72.00% | ~1,876 |
+| A Thorny Situation | 67.00% | ~1,746 |
+| ... And Spit Back Out | 53.00% | ~1,381 |
+| Break-Net Speed | 41.00% | ~1,068 |
+| Bramble Breaker | 33.00% | ~860 |
+| Miner 49er | 32.00% | ~834 |
+| Humble Collector | 31.00% | ~808 |
+| Calm Sailing | 19.00% | ~495 |
+| Open the Gate! | 16.00% | ~417 |
+| Lumberjack | 15.00% | ~391 |
+| Oui, Chef! | 15.00% | ~391 |
+| Mist Walker | 14.00% | ~365 |
+| Beach Comber | 7.00% | ~182 |
+| Botanical Breakthrough | 7.00% | ~182 |
 | Clear the Air | 4.00% | ~104 |
 | Search for the Hairy Grell | 3.00% | ~78 |
 | Higher Tax Bracket | 3.00% | ~78 |
@@ -29,19 +29,19 @@
 | Chatty Neighbor | 1.00% | ~26 |
 | Azorian Anniversary | 1.00% | ~26 |
 | Scattered Scroll Scrounger | 0.90% | ~23 |
+| Right Tool For the Job | 0.90% | ~23 |
 | Flaming Hot Completos | 0.80% | ~21 |
-| Right Tool For the Job | 0.80% | ~21 |
 | Fae Farmer | 0.70% | ~18 |
 | House Proud | 0.70% | ~18 |
 | Captain of Cozy | 0.50% | ~13 |
-| Angling Authority | 0.20% | ~5 |
+| Angling Authority | 0.30% | ~8 |
 | Cloverfield Island | 0.10% | ~3 |
 | Workaholic | 0.10% | ~3 |
 | Giving the People What They Want | 0.10% | ~3 |
 | Very Skilled | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,590 (Ranked 174)  
-Completed: 0 (0.00%) (Ranked 274)  
+Progressed: 2,606 (Ranked 174)  
+Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 1,169 | 0 |
 | 2023-09-12 | 1,849 | 0 |
 | 2023-09-13 | 2,323 | 0 |
-| 2023-09-14 | 2,590 | 0 |
+| 2023-09-14 | 2,606 | 0 |

@@ -13,22 +13,22 @@
 | Shine bright | 16.00% | ~18 |
 | Ay ay yarrr! | 16.00% | ~18 |
 | It's about the journey | 12.00% | ~14 |
-| C'who? | 10.00% | ~11 |
+| C'who? | 11.00% | ~12 |
 | There be sand in me shorts | 10.00% | ~11 |
 | Make it rain | 7.00% | ~8 |
 | Peaceful skies | 7.00% | ~8 |
 | Holy Crops! | 7.00% | ~8 |
 | It gets everywhere | 7.00% | ~8 |
-| Do you wanna build a snowboiii? | 5.00% | ~6 |
+| Do you wanna build a snowboiii? | 6.00% | ~7 |
+| Who let the pets out? | 4.00% | ~5 |
 | Groovy! | 4.00% | ~5 |
 | It's a bug's life | 4.00% | ~5 |
-| Who let the pets out? | 3.00% | ~3 |
+| V is for Vegan | 3.00% | ~3 |
 | Veggie Master | 2.00% | ~2 |
 | Homecoming | 2.00% | ~2 |
 | I am Root! | 2.00% | ~2 |
 | Tururururu! | 2.00% | ~2 |
 | Zap! | 2.00% | ~2 |
-| V is for Vegan | 2.00% | ~2 |
 | Yeehaw! | 0.90% | ~1 |
 | Yeetus Deletus | 0.90% | ~1 |
 | Best in the field | 0.90% | ~1 |
@@ -37,7 +37,7 @@
 | Free Spirit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 113 (Ranked 342)  
-Completed: 0 (0.00%) (Ranked 274)  
+Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

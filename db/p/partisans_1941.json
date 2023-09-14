@@ -6,9 +6,9 @@
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 232,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -2483,9 +2483,9 @@
       "ID": "Big_Bertha",
       "SetID": "85nb4h3",
       "Name": "The Big Bertha",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 161
     },
     {
       "ID": "Boy",
@@ -2707,8 +2707,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:06:14.9430836+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:06:54.8580892+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:58:32.2450625+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:06:14.9431228+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:58:52.0070966+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:06:54.8581197+00:00"
 }

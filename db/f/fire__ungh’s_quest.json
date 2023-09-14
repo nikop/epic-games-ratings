@@ -2,10 +2,10 @@
   "ID": "094d313bbeb84db69dd7bee1bd885c4d",
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -732,8 +732,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:05:18.6493208+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:05:57.3269791+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.0993453+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:59:27.0684746+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:05:18.6493416+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:59:49.3831264+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:05:57.3269936+00:00"
 }

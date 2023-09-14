@@ -6,9 +6,9 @@
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -3722,9 +3722,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11268,
+  "EOS_Progressed": 11270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12287,6 +12287,11 @@
       "Time": "2023-09-14T18:06:08.2303541+00:00",
       "NumProgressed": 11268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T19:06:47.669161+00:00",
+      "NumProgressed": 11270,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12298,7 +12303,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2705
     },
     {
       "ID": "02_BurningCity",
@@ -12322,7 +12327,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -12426,7 +12431,7 @@
       "Name": "Transformation",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "18_MythicChoices",
@@ -12498,7 +12503,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "28_GreatUpstart",
@@ -12506,7 +12511,7 @@
       "Name": "Great Upstart",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "29_StrategicVictory",
@@ -12642,7 +12647,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "46_AllPathsOpen",
@@ -12650,7 +12655,7 @@
       "Name": "All Paths Open",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -13194,7 +13199,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -13202,7 +13207,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -13225,21 +13230,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10050,
+      "Progressed": 10052,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11268,
+      "Progressed": 11270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-13T16:03:05.682622+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:06:08.2303528+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:06:47.6691605+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:57:11.9925469+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:06:08.2309045+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:57:25.0989477+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:06:47.6693391+00:00"
 }

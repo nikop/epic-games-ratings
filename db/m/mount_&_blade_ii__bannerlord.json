@@ -6,9 +6,9 @@
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 88,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7125,9 +7125,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61007,
+  "EOS_Progressed": 61008,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22690,6 +22690,11 @@
       "Time": "2023-09-14T18:05:41.4526129+00:00",
       "NumProgressed": 61007,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T19:06:20.3138121+00:00",
+      "NumProgressed": 61008,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22909,7 +22914,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4271
     },
     {
       "ID": "Lance-a-lot",
@@ -22925,7 +22930,7 @@
       "Name": "Landlord",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 19522
+      "UsersEstimate": 19523
     },
     {
       "ID": "Lawbringer",
@@ -22957,7 +22962,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4271
     },
     {
       "ID": "Minor Clan",
@@ -23108,15 +23113,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61007,
+      "Progressed": 61008,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-14T09:59:35.0202126+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:05:41.4526124+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:06:20.3138118+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:59:01.6615713+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:05:41.4527544+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:59:23.712674+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:06:20.3139165+00:00"
 }

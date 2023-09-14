@@ -19,7 +19,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Gang's All Here | 15.00% | ~201 |
 | Your Answer | 14.00% | ~188 |
 | One by One | 13.00% | ~174 |
-| The Big Bertha | 11.00% | ~148 |
+| The Big Bertha | 12.00% | ~161 |
 | Game Over | 10.00% | ~134 |
 | Lock, Stock | 7.00% | ~94 |
 | Payback Time | 7.00% | ~94 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,342 (Ranked 199)  
-Completed: 1 (0.07%) (Ranked 231)  
+Completed: 1 (0.07%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

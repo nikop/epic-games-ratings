@@ -22,9 +22,9 @@
 | A New Strategy | 18.00% | ~7 |
 | Isn't It Beautiful? | 15.00% | ~6 |
 | A Generous Leader | 15.00% | ~6 |
+| How Do You Like Them Apples? | 15.00% | ~6 |
 | Orcharion Boost | 13.00% | ~5 |
 | Case Closed | 13.00% | ~5 |
-| How Do You Like Them Apples? | 13.00% | ~5 |
 | A Terrible Way to Go | 13.00% | ~5 |
 | Dr. Dreinstein III | 10.00% | ~4 |
 | Fishing for Fissures | 10.00% | ~4 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -460,9 +460,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7697,
+  "EOS_Progressed": 7698,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -8170,6 +8170,11 @@
       "Time": "2023-09-14T18:06:13.8410696+00:00",
       "NumProgressed": 7697,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-14T19:06:53.7998591+00:00",
+      "NumProgressed": 7698,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8221,7 +8226,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "ACH07",
@@ -8285,7 +8290,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "ACH15",
@@ -8412,7 +8417,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7697,
+      "Progressed": 7698,
       "Completed": 50
     }
   ],
@@ -8420,8 +8425,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-12T19:02:11.7422629+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:06:13.841069+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:06:53.7998586+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:01.9571091+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:57:06.3573243+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:06:13.8411392+00:00"
+  "LastUpdate_Ratings": "2023-09-14T18:57:18.3426673+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:06:53.7999112+00:00"
 }

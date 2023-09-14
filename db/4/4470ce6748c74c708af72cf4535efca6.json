@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 93,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -301,9 +301,9 @@
       "ID": "19",
       "SetID": "5e3maia",
       "Name": "Strong Alliance",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "2",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:04:17.396188+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:04:54.8167402+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-14T17:59:46.7257147+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:04:17.3962682+00:00"
+  "LastUpdate_Ratings": "2023-09-14T19:00:07.8913498+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:04:54.8167986+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.25 (Ranked 833)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~352,256 |
-| Well educated | 37.00% | ~271,530 |
-| City Planner | 19.00% | ~139,435 |
-| Deforester | 17.00% | ~124,757 |
-| Big Hauling | 16.00% | ~117,419 |
-| Apprentice Manufacturer | 13.00% | ~95,403 |
-| Exporter | 13.00% | ~95,403 |
-| I would drive 500 tiles... | 12.00% | ~88,064 |
-| Landscaper | 12.00% | ~88,064 |
-| Railwayman | 8.00% | ~58,709 |
-| Penniless | 6.00% | ~44,032 |
-| Massive Gains | 6.00% | ~44,032 |
-| Salesman | 3.00% | ~22,016 |
-| Engineer | 2.00% | ~14,677 |
-| High Flyer | 2.00% | ~14,677 |
+| Entrepreneur | 48.00% | ~352,264 |
+| Well educated | 37.00% | ~271,537 |
+| City Planner | 19.00% | ~139,438 |
+| Deforester | 17.00% | ~124,760 |
+| Big Hauling | 16.00% | ~117,421 |
+| Apprentice Manufacturer | 13.00% | ~95,405 |
+| Exporter | 13.00% | ~95,405 |
+| I would drive 500 tiles... | 12.00% | ~88,066 |
+| Landscaper | 12.00% | ~88,066 |
+| Railwayman | 8.00% | ~58,711 |
+| Penniless | 6.00% | ~44,033 |
+| Massive Gains | 6.00% | ~44,033 |
+| Salesman | 3.00% | ~22,017 |
+| Engineer | 2.00% | ~14,678 |
+| High Flyer | 2.00% | ~14,678 |
 | Captain | 0.80% | ~5,871 |
 | Billionaire | 0.70% | ~5,137 |
-| Vroom Vroom | 0.40% | ~2,935 |
+| Vroom Vroom | 0.40% | ~2,936 |
 | Excavator | 0.30% | ~2,202 |
 | Loan Ranger | 0.30% | ~2,202 |
 | [2130] Nature Lover | 0.10% | ~734 |
@@ -33,8 +33,8 @@ Rating: 4.25 (Ranked 833)
 | Master Builder | 0.10% | ~734 |
 | Hard working | 0.10% | ~734 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 733,866 (Ranked 18)  
-Completed: 3 (0.00%) (Ranked 274)  
+Progressed: 733,884 (Ranked 18)  
+Completed: 3 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,7 +180,7 @@ Completed: 3 (0.00%) (Ranked 274)
 | 2023-09-11 | 733,190 | 3 |
 | 2023-09-12 | 733,425 | 3 |
 | 2023-09-13 | 733,683 | 3 |
-| 2023-09-14 | 733,866 | 3 |
+| 2023-09-14 | 733,884 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

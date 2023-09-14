@@ -6,20 +6,20 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,739 |
-| Biggest Communism Builder | 24.00% | ~30,634 |
-| The World's Most Laughable Centrist | 21.00% | ~26,805 |
-| Il Coppo Del'Arte! | 18.00% | ~22,975 |
+| Goodest Of The Good Cops | 28.00% | ~35,741 |
+| Biggest Communism Builder | 24.00% | ~30,635 |
+| The World's Most Laughable Centrist | 21.00% | ~26,806 |
+| Il Coppo Del'Arte! | 18.00% | ~22,976 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,423 |
 | Hyperstellar Law Official | 16.00% | ~20,423 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,870 |
 | Gurdi-Ball Is Lit | 14.00% | ~17,870 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,593 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,594 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,041 |
 | Unbelievably Boring **** | 9.00% | ~11,488 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,488 |
-| Enemy Of The Physical Realm | 8.00% | ~10,211 |
-| Hardie's Heroes | 6.00% | ~7,658 |
+| Enemy Of The Physical Realm | 8.00% | ~10,212 |
+| Hardie's Heroes | 6.00% | ~7,659 |
 | The Lawbringer | 4.00% | ~5,106 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,106 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,829 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Real Musor | 0.90% | ~1,149 |
 | Baddest Brow in Town | 0.80% | ~1,021 |
 | Venture into the HARDCORE | 0.80% | ~1,021 |
-| Networthy Individual | 0.70% | ~893 |
+| Networthy Individual | 0.70% | ~894 |
 | Leopard Mindset | 0.60% | ~766 |
 | Modus: Mullen | 0.30% | ~383 |
 | Palerunner | 0.30% | ~383 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,641 (Ranked 70)  
-Completed: 28 (0.02%) (Ranked 252)  
+Progressed: 127,646 (Ranked 70)  
+Completed: 28 (0.02%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 28 (0.02%) (Ranked 252)
 | 2023-09-11 | 127,529 | 28 |
 | 2023-09-12 | 127,571 | 28 |
 | 2023-09-13 | 127,613 | 28 |
-| 2023-09-14 | 127,641 | 28 |
+| 2023-09-14 | 127,646 | 28 |
 ## Awards
 Max (Character Customization): 723  (Ranked 166)  
 Sum: 1,087 (Ranked 237)  

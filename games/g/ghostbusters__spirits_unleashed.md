@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 565)
 | Master Collector | 0.00% | ~0 |
 | Mycophile | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,799 (Ranked 104)  
-Completed: 56 (0.22%) (Ranked 195)  
+Progressed: 25,800 (Ranked 105)  
+Completed: 56 (0.22%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,7 +204,7 @@ Completed: 56 (0.22%) (Ranked 195)
 | 2023-09-11 | 25,755 | 55 |
 | 2023-09-12 | 25,768 | 55 |
 | 2023-09-13 | 25,787 | 55 |
-| 2023-09-14 | 25,799 | 56 |
+| 2023-09-14 | 25,800 | 56 |
 ## Awards
 Max (Great for Quick Sessions): 254  (Ranked 254)  
 Sum: 2,310 (Ranked 188)  

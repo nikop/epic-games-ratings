@@ -3,9 +3,9 @@
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 342,
-  "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -277,17 +277,17 @@
       "ID": "FISH",
       "SetID": "3c20ib3",
       "Name": "C\u0027who?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "GET_PETS",
       "SetID": "3c20ib3",
       "Name": "Who let the pets out?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "GET_SOULSTONES",
@@ -437,9 +437,9 @@
       "ID": "SNOWSCALE",
       "SetID": "3c20ib3",
       "Name": "Do you wanna build a snowboiii?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SOUTHERN",
@@ -477,9 +477,9 @@
       "ID": "V_VEGAN",
       "SetID": "3c20ib3",
       "Name": "V is for Vegan",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -494,8 +494,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-09-14T18:05:20.8180384+00:00",
+  "LastChanged_Achievements": "2023-09-14T19:05:59.231988+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:22.1499274+00:00",
-  "LastUpdate_Ratings": "2023-09-14T18:00:03.0093909+00:00",
-  "LastUpdate_Achievements": "2023-09-14T18:05:20.8180656+00:00"
+  "LastUpdate_Ratings": "2023-09-14T19:00:24.7103638+00:00",
+  "LastUpdate_Achievements": "2023-09-14T19:05:59.2320064+00:00"
 }

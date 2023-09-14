@@ -41,7 +41,7 @@ Number of Ratings: 25  (23.09.2022)
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 610 (Ranked 234)  
-Completed: 0 (0.00%) (Ranked 274)  
+Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
