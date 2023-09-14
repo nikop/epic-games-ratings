@@ -7,9 +7,9 @@ Rating: 4.77 (Ranked 109)
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 14.00% | ~41,520 |
 | First Class Student | 13.00% | ~38,554 |
-| A Keen Sense of Spell | 12.00% | ~35,588 |
-| Troll with the Punches | 12.00% | ~35,588 |
-| That's a Keeper | 11.00% | ~32,622 |
+| A Keen Sense of Spell | 12.00% | ~35,589 |
+| Troll with the Punches | 12.00% | ~35,589 |
+| That's a Keeper | 11.00% | ~32,623 |
 | Grappling with a Graphorn | 10.00% | ~29,657 |
 | The One Who Mastered Memories | 10.00% | ~29,657 |
 | The Hallowed Hero | 10.00% | ~29,657 |
@@ -21,16 +21,16 @@ Rating: 4.77 (Ranked 109)
 | Challenge Accepted | 9.00% | ~26,691 |
 | Followed the Butterflies | 9.00% | ~26,691 |
 | Rising From the Ashes | 9.00% | ~26,691 |
-| A Sallow Grave | 8.00% | ~23,725 |
-| The Spell Master | 8.00% | ~23,725 |
+| A Sallow Grave | 8.00% | ~23,726 |
+| The Spell Master | 8.00% | ~23,726 |
 | The Avenging Gazelle | 7.00% | ~20,760 |
 | Beast Friends | 7.00% | ~20,760 |
 | Flight the Good Flight | 7.00% | ~20,760 |
 | The Seeker of Knowledge | 6.00% | ~17,794 |
 | Raising Expectations | 6.00% | ~17,794 |
-| The Root of the Problem | 5.00% | ~14,828 |
-| Third Time's a Charm | 5.00% | ~14,828 |
-| The Ends Petrify the Means | 5.00% | ~14,828 |
+| The Root of the Problem | 5.00% | ~14,829 |
+| Third Time's a Charm | 5.00% | ~14,829 |
+| The Ends Petrify the Means | 5.00% | ~14,829 |
 | The Toast of the Town | 4.00% | ~11,863 |
 | Going Through the Potions | 4.00% | ~11,863 |
 | Room with a View | 4.00% | ~11,863 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,779 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,568 (Ranked 43)  
+Progressed: 296,571 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-11 | 296,418 | 470 |
 | 2023-09-12 | 296,501 | 470 |
 | 2023-09-13 | 296,555 | 470 |
-| 2023-09-14 | 296,568 | 470 |
+| 2023-09-14 | 296,571 | 470 |
 ## Awards
 Max (Character Customization): 22,630  (Ranked 17)  
 Sum: 43,192 (Ranked 30)  

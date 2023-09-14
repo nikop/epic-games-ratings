@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7602,10 +7602,10 @@
       "Count": 643
     }
   ],
-  "EOS_Progressed": 296568,
+  "EOS_Progressed": 296571,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 1120,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 1112,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -23502,6 +23502,11 @@
       "Time": "2023-09-14T08:03:15.5362569+00:00",
       "NumProgressed": 296568,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-14T09:03:27.8201943+00:00",
+      "NumProgressed": 296571,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23585,7 +23590,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "PFA_19",
@@ -23633,7 +23638,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35588
+      "UsersEstimate": 35589
     },
     {
       "ID": "PFA_24",
@@ -23649,7 +23654,7 @@
       "Name": "The Root of the Problem",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14828
+      "UsersEstimate": 14829
     },
     {
       "ID": "PFA_26",
@@ -23681,7 +23686,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14828
+      "UsersEstimate": 14829
     },
     {
       "ID": "PFA_3",
@@ -23793,7 +23798,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14828
+      "UsersEstimate": 14829
     },
     {
       "ID": "PFA_42",
@@ -23817,7 +23822,7 @@
       "Name": "The Spell Master",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 23725
+      "UsersEstimate": 23726
     },
     {
       "ID": "PFA_45",
@@ -23849,7 +23854,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35588
+      "UsersEstimate": 35589
     },
     {
       "ID": "PFA_8",
@@ -23857,7 +23862,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32622
+      "UsersEstimate": 32623
     },
     {
       "ID": "PFA_9",
@@ -23872,7 +23877,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296568,
+      "Progressed": 296571,
       "Completed": 470
     }
   ],
@@ -23880,8 +23885,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-14T01:40:54.5021955+00:00",
-  "LastChanged_Achievements": "2023-09-14T08:03:15.5362564+00:00",
+  "LastChanged_Achievements": "2023-09-14T09:03:27.8201939+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-14T08:00:19.4016438+00:00",
-  "LastUpdate_Achievements": "2023-09-14T08:03:15.5363765+00:00"
+  "LastUpdate_Ratings": "2023-09-14T09:00:30.1358229+00:00",
+  "LastUpdate_Achievements": "2023-09-14T09:03:27.8203139+00:00"
 }

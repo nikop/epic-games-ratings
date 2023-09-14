@@ -9,27 +9,27 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Shadow strikes | 69.00% | ~20,908 |
 | The Evilest Evil | 58.00% | ~17,575 |
 | Twistram is devastated | 57.00% | ~17,272 |
-| The Gehenna Stones | 49.00% | ~14,847 |
-| No one has to die today! | 46.00% | ~13,938 |
-| Death and destruction! | 45.00% | ~13,635 |
-| The Swamplanders from the swamplands | 43.00% | ~13,029 |
-| Rusty Steel | 41.00% | ~12,423 |
-| The One-Huge-Army-Building Evil | 40.00% | ~12,120 |
-| The last burger | 37.00% | ~11,211 |
-| Braiiiiins! | 37.00% | ~11,211 |
-| Hands off the Dungeonheart! | 36.00% | ~10,908 |
-| A trip on sea, what fun it can be | 34.00% | ~10,302 |
-| Damned good | 33.00% | ~9,999 |
-| Stock Market Crash | 31.00% | ~9,393 |
-| Factory farming | 31.00% | ~9,393 |
-| Not-So-Overproud | 30.00% | ~9,090 |
-| For a handfull of Catapults | 29.00% | ~8,787 |
-| Shadow hunter | 29.00% | ~8,787 |
-| Ogre Solo! | 28.00% | ~8,484 |
-| Thirst quencher | 27.00% | ~8,181 |
-| Destroy the thing | 26.00% | ~7,878 |
-| Tide Master | 26.00% | ~7,878 |
-| Difficult family relationships | 25.00% | ~7,575 |
+| The Gehenna Stones | 49.00% | ~14,848 |
+| No one has to die today! | 46.00% | ~13,939 |
+| Death and destruction! | 45.00% | ~13,636 |
+| The Swamplanders from the swamplands | 43.00% | ~13,030 |
+| Rusty Steel | 41.00% | ~12,424 |
+| The One-Huge-Army-Building Evil | 40.00% | ~12,121 |
+| The last burger | 37.00% | ~11,212 |
+| Braiiiiins! | 37.00% | ~11,212 |
+| Hands off the Dungeonheart! | 36.00% | ~10,909 |
+| A trip on sea, what fun it can be | 34.00% | ~10,303 |
+| Damned good | 33.00% | ~10,000 |
+| Stock Market Crash | 31.00% | ~9,394 |
+| Factory farming | 31.00% | ~9,394 |
+| Not-So-Overproud | 30.00% | ~9,091 |
+| For a handfull of Catapults | 29.00% | ~8,788 |
+| Shadow hunter | 29.00% | ~8,788 |
+| Ogre Solo! | 28.00% | ~8,485 |
+| Thirst quencher | 27.00% | ~8,182 |
+| Destroy the thing | 26.00% | ~7,879 |
+| Tide Master | 26.00% | ~7,879 |
+| Difficult family relationships | 25.00% | ~7,576 |
 | MASS-O-BOT | 24.00% | ~7,272 |
 | Prepare the grave | 24.00% | ~7,272 |
 | Angel of Fire | 24.00% | ~7,272 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~606 |
 | Sacrifices! | 2.00% | ~606 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,301 (Ranked 102)  
+Progressed: 30,302 (Ranked 102)  
 Completed: 249 (0.82%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 249 (0.82%) (Ranked 132)
 | 2023-09-11 | 30,140 | 245 |
 | 2023-09-12 | 30,221 | 249 |
 | 2023-09-13 | 30,282 | 249 |
-| 2023-09-14 | 30,301 | 249 |
+| 2023-09-14 | 30,302 | 249 |
 ## Awards
 Max (Great for Beginners): 345  (Ranked 228)  
 Sum: 2,635 (Ranked 175)  

@@ -6,19 +6,19 @@ Rating: 4.76 (Ranked 117)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~16,238 |
-| The Killing Jar | 8.00% | ~14,433 |
-| Not Your Average Trait | 8.00% | ~14,433 |
-| Expanding Horizons | 7.00% | ~12,629 |
-| Quest for Survival | 7.00% | ~12,629 |
-| Gleaming the Cube | 6.00% | ~10,825 |
-| Not a Janitor | 6.00% | ~10,825 |
-| Familiar Face | 6.00% | ~10,825 |
-| Blue Goddess | 6.00% | ~10,825 |
-| Duality | 6.00% | ~10,825 |
-| Top Performer | 6.00% | ~10,825 |
-| Boss'n Up | 6.00% | ~10,825 |
-| Good, But Could Be Better! | 6.00% | ~10,825 |
-| Trait Chaser | 6.00% | ~10,825 |
+| The Killing Jar | 8.00% | ~14,434 |
+| Not Your Average Trait | 8.00% | ~14,434 |
+| Expanding Horizons | 7.00% | ~12,630 |
+| Quest for Survival | 7.00% | ~12,630 |
+| Gleaming the Cube | 6.00% | ~10,826 |
+| Not a Janitor | 6.00% | ~10,826 |
+| Familiar Face | 6.00% | ~10,826 |
+| Blue Goddess | 6.00% | ~10,826 |
+| Duality | 6.00% | ~10,826 |
+| Top Performer | 6.00% | ~10,826 |
+| Boss'n Up | 6.00% | ~10,826 |
+| Good, But Could Be Better! | 6.00% | ~10,826 |
+| Trait Chaser | 6.00% | ~10,826 |
 | Not So Special Now | 5.00% | ~9,021 |
 | Equal Measures | 5.00% | ~9,021 |
 | Shhh...It's a Secret | 5.00% | ~9,021 |
@@ -43,20 +43,20 @@ Rating: 4.76 (Ranked 117)
 | Edgelord | 3.00% | ~5,413 |
 | The Ultimate Weapon | 3.00% | ~5,413 |
 | No One Should Have All That Power | 3.00% | ~5,413 |
-| Crafty | 2.00% | ~3,608 |
-| Only Human | 2.00% | ~3,608 |
-| Red Room | 2.00% | ~3,608 |
-| The Collector | 2.00% | ~3,608 |
-| Scrap Hoarder | 2.00% | ~3,608 |
-| Carnage in C-Minor | 2.00% | ~3,608 |
-| Maxed Out! | 2.00% | ~3,608 |
-| Transmutate | 2.00% | ~3,608 |
+| Crafty | 2.00% | ~3,609 |
+| Only Human | 2.00% | ~3,609 |
+| Red Room | 2.00% | ~3,609 |
+| The Collector | 2.00% | ~3,609 |
+| Scrap Hoarder | 2.00% | ~3,609 |
+| Carnage in C-Minor | 2.00% | ~3,609 |
+| Maxed Out! | 2.00% | ~3,609 |
+| Transmutate | 2.00% | ~3,609 |
 | The Trigger | 1.00% | ~1,804 |
 | Cutting Edge | 1.00% | ~1,804 |
 | Ghost in the Machine | 0.90% | ~1,624 |
 | Proving Grounds | 0.90% | ~1,624 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180,417 (Ranked 64)  
+Progressed: 180,426 (Ranked 64)  
 Completed: 286 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,10 +116,10 @@ Completed: 286 (0.16%) (Ranked 203)
 | 2023-09-11 | 179,222 | 274 |
 | 2023-09-12 | 179,752 | 278 |
 | 2023-09-13 | 180,292 | 284 |
-| 2023-09-14 | 180,417 | 286 |
+| 2023-09-14 | 180,426 | 286 |
 ## Awards
 Max (Great Boss Battles): 1,565  (Ranked 121)  
-Sum: 3,064 (Ranked 169)  
+Sum: 3,071 (Ranked 169)  
 Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
@@ -128,8 +128,8 @@ Diff (max vs sum): -48
 | This game has Challenging Combat | 164 |
 | This game has Diverse Characters | 164 |
 | This game is Highly Recommended | 162 |
+| This game has Amazing Characters | 156 |
 | This game is Relaxing | 153 |
-| This game has Amazing Characters | 149 |
 | This game has Amazing Storytelling | 142 |
 | This game has Unique Visuals | 141 |
 | This game has Quickly Understood Controls | 139 |
@@ -187,4 +187,4 @@ Diff (max vs sum): -48
 | 2023-09-11 | 4.76 | 1,511 | 2,937 |
 | 2023-09-12 | 4.76 | 1,534 | 2,994 |
 | 2023-09-13 | 4.76 | 1,565 | 3,056 |
-| 2023-09-14 | 4.76 | 1,565 | 3,064 |
+| 2023-09-14 | 4.76 | 1,565 | 3,071 |

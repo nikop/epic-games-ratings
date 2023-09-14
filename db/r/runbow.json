@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249251,
+  "EOS_Progressed": 249253,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13989,6 +13989,11 @@
       "Time": "2023-09-14T08:05:21.0256475+00:00",
       "NumProgressed": 249251,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T09:05:27.3832764+00:00",
+      "NumProgressed": 249253,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14096,7 +14101,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 44865
+      "UsersEstimate": 44866
     },
     {
       "ID": "curator",
@@ -14104,7 +14109,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49850
+      "UsersEstimate": 49851
     },
     {
       "ID": "didYourTime",
@@ -14176,7 +14181,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 132103
+      "UsersEstimate": 132104
     },
     {
       "ID": "indegestible",
@@ -14200,7 +14205,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64805
+      "UsersEstimate": 64806
     },
     {
       "ID": "justABit",
@@ -14304,7 +14309,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54835
+      "UsersEstimate": 54836
     },
     {
       "ID": "thunderstruck",
@@ -14367,7 +14372,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249251,
+      "Progressed": 249253,
       "Completed": 5
     }
   ],
@@ -14375,8 +14380,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-14T08:05:21.0256469+00:00",
+  "LastChanged_Achievements": "2023-09-14T09:05:27.3832761+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.341728+00:00",
-  "LastUpdate_Ratings": "2023-09-14T07:58:23.5158841+00:00",
-  "LastUpdate_Achievements": "2023-09-14T08:05:21.0257792+00:00"
+  "LastUpdate_Ratings": "2023-09-14T08:58:19.297921+00:00",
+  "LastUpdate_Achievements": "2023-09-14T09:05:27.3833713+00:00"
 }

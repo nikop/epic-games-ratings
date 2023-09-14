@@ -12,10 +12,10 @@
 | Engineer-mage hybrid | 33.00% | ~30 |
 | Complete Level 1-3 | 30.00% | ~27 |
 | Defeat the warrior boss | 23.00% | ~21 |
-| Get out of my way | 21.00% | ~19 |
-| Redecorator | 20.00% | ~18 |
-| Just a sip | 19.00% | ~17 |
-| Complete Level 2-1 | 16.00% | ~15 |
+| Get out of my way | 22.00% | ~20 |
+| Redecorator | 21.00% | ~19 |
+| Just a sip | 20.00% | ~18 |
+| Complete Level 2-1 | 18.00% | ~16 |
 | Complete Level 2-2 | 16.00% | ~15 |
 | Versatile | 16.00% | ~15 |
 | Complete Level 2-3 | 14.00% | ~13 |

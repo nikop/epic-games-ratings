@@ -4,7 +4,7 @@
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -162,9 +162,9 @@
       "ID": "ACH_DESTRUCTIBLEKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Redecorator",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_ENEMYKILLS_LARGE",
@@ -186,9 +186,9 @@
       "ID": "ACH_ENEMYKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Get out of my way",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_GEMSCOLLECTED_1",
@@ -250,9 +250,9 @@
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Just a sip",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_01",
@@ -290,9 +290,9 @@
       "ID": "ACH_LEVELCOMPLETION_02_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-1",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_02",
@@ -483,8 +483,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-09-14T08:06:43.98047+00:00",
+  "LastChanged_Achievements": "2023-09-14T09:06:52.2816085+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:19.5400991+00:00",
-  "LastUpdate_Ratings": "2023-09-14T07:58:01.4104929+00:00",
-  "LastUpdate_Achievements": "2023-09-14T08:06:43.9805564+00:00"
+  "LastUpdate_Ratings": "2023-09-14T08:57:57.0956683+00:00",
+  "LastUpdate_Achievements": "2023-09-14T09:06:52.2816384+00:00"
 }

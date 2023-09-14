@@ -9487,9 +9487,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1333045,
+  "EOS_Progressed": 1333054,
   "EOS_Completed": 2140,
-  "EOS_NewPlayers": 2578,
+  "EOS_NewPlayers": 2579,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -25937,6 +25937,11 @@
       "Time": "2023-09-14T08:03:34.7017504+00:00",
       "NumProgressed": 1333045,
       "NumCompleted": 2140
+    },
+    {
+      "Time": "2023-09-14T09:03:47.9792775+00:00",
+      "NumProgressed": 1333054,
+      "NumCompleted": 2140
     }
   ],
   "TotalAchievements": 47,
@@ -25948,7 +25953,7 @@
       "Name": "The Result of Previous Training",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 373253
+      "UsersEstimate": 373255
     },
     {
       "ID": "ACH_001",
@@ -25956,7 +25961,7 @@
       "Name": "Cleared for Field Duty",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 359922
+      "UsersEstimate": 359925
     },
     {
       "ID": "ACH_002",
@@ -25964,7 +25969,7 @@
       "Name": "Seizing the Opportunity",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 346592
+      "UsersEstimate": 346594
     },
     {
       "ID": "ACH_003",
@@ -25980,7 +25985,7 @@
       "Name": "Silent Assassin",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 186626
+      "UsersEstimate": 186628
     },
     {
       "ID": "ACH_005",
@@ -25988,7 +25993,7 @@
       "Name": "Training Escalated",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 39991
+      "UsersEstimate": 39992
     },
     {
       "ID": "ACH_006",
@@ -25996,7 +26001,7 @@
       "Name": "Top of the Class",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13330
+      "UsersEstimate": 13331
     },
     {
       "ID": "ACH_007",
@@ -26004,7 +26009,7 @@
       "Name": "A New Profile",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 119974
+      "UsersEstimate": 119975
     },
     {
       "ID": "ACH_008",
@@ -26012,7 +26017,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 373253
+      "UsersEstimate": 373255
     },
     {
       "ID": "ACH_009",
@@ -26020,7 +26025,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 613201
+      "UsersEstimate": 613205
     },
     {
       "ID": "ACH_010",
@@ -26028,7 +26033,7 @@
       "Name": "Shortcut Killer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 66652
+      "UsersEstimate": 66653
     },
     {
       "ID": "ACH_011",
@@ -26036,7 +26041,7 @@
       "Name": "Stylish Assassin",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 266609
+      "UsersEstimate": 266611
     },
     {
       "ID": "ACH_012",
@@ -26044,7 +26049,7 @@
       "Name": "Death From Above",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 613201
+      "UsersEstimate": 613205
     },
     {
       "ID": "ACH_013",
@@ -26060,7 +26065,7 @@
       "Name": "Treacherous Architecture",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 66652
+      "UsersEstimate": 66653
     },
     {
       "ID": "ACH_015",
@@ -26068,7 +26073,7 @@
       "Name": "Keep Your Eyes Peeled",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39991
+      "UsersEstimate": 39992
     },
     {
       "ID": "ACH_016",
@@ -26076,7 +26081,7 @@
       "Name": "Rise Up",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 173296
+      "UsersEstimate": 173297
     },
     {
       "ID": "ACH_017",
@@ -26084,7 +26089,7 @@
       "Name": "Stair Master",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 66652
+      "UsersEstimate": 66653
     },
     {
       "ID": "ACH_018",
@@ -26092,7 +26097,7 @@
       "Name": "Master of the Household",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 506557
+      "UsersEstimate": 506561
     },
     {
       "ID": "ACH_019",
@@ -26124,7 +26129,7 @@
       "Name": "Full House",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 119974
+      "UsersEstimate": 119975
     },
     {
       "ID": "ACH_023",
@@ -26140,7 +26145,7 @@
       "Name": "Death of the Party",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 479896
+      "UsersEstimate": 479899
     },
     {
       "ID": "ACH_025",
@@ -26148,7 +26153,7 @@
       "Name": "Followed the Trails",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 66652
+      "UsersEstimate": 66653
     },
     {
       "ID": "ACH_026",
@@ -26172,7 +26177,7 @@
       "Name": "Last Call",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 66652
+      "UsersEstimate": 66653
     },
     {
       "ID": "ACH_029",
@@ -26180,7 +26185,7 @@
       "Name": "Warehouse Veteran",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 39991
+      "UsersEstimate": 39992
     },
     {
       "ID": "ACH_030",
@@ -26188,7 +26193,7 @@
       "Name": "NEXUS-47",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 439905
+      "UsersEstimate": 439908
     },
     {
       "ID": "ACH_031",
@@ -26204,7 +26209,7 @@
       "Name": "Future Shock",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39991
+      "UsersEstimate": 39992
     },
     {
       "ID": "ACH_033",
@@ -26212,7 +26217,7 @@
       "Name": "Console Cowboy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 133304
+      "UsersEstimate": 133305
     },
     {
       "ID": "ACH_034",
@@ -26220,7 +26225,7 @@
       "Name": "Icebreaker",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 93313
+      "UsersEstimate": 93314
     },
     {
       "ID": "ACH_035",
@@ -26228,7 +26233,7 @@
       "Name": "Hack the Planet",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 39991
+      "UsersEstimate": 39992
     },
     {
       "ID": "ACH_036",
@@ -26236,7 +26241,7 @@
       "Name": "The Last Tango",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 413244
+      "UsersEstimate": 413247
     },
     {
       "ID": "ACH_037",
@@ -26244,7 +26249,7 @@
       "Name": "Master the Terroir",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 39991
+      "UsersEstimate": 39992
     },
     {
       "ID": "ACH_038",
@@ -26252,7 +26257,7 @@
       "Name": "Ripe for the Picking",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13330
+      "UsersEstimate": 13331
     },
     {
       "ID": "ACH_039",
@@ -26260,7 +26265,7 @@
       "Name": "Evil Wine Club",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 146635
+      "UsersEstimate": 146636
     },
     {
       "ID": "ACH_040",
@@ -26276,7 +26281,7 @@
       "Name": "Vineyard Virtuoso",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 39991
+      "UsersEstimate": 39992
     },
     {
       "ID": "ACH_042",
@@ -26284,7 +26289,7 @@
       "Name": "Nightmare Fuel",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 399914
+      "UsersEstimate": 399916
     },
     {
       "ID": "ACH_043",
@@ -26292,7 +26297,7 @@
       "Name": "Bullet Train",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 279939
+      "UsersEstimate": 279941
     },
     {
       "ID": "ACH_044",
@@ -26316,22 +26321,22 @@
       "Name": "Last Stop",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 133304
+      "UsersEstimate": 133305
     }
   ],
   "AchievementSets": [
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1333045,
+      "Progressed": 1333054,
       "Completed": 2140
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2023-09-14T01:39:09.5138391+00:00",
-  "LastChanged_Achievements": "2023-09-14T08:03:34.7017498+00:00",
+  "LastChanged_Achievements": "2023-09-14T09:03:47.9792771+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:53.5632785+00:00",
-  "LastUpdate_Ratings": "2023-09-14T07:58:37.411423+00:00",
-  "LastUpdate_Achievements": "2023-09-14T08:03:34.7018868+00:00"
+  "LastUpdate_Ratings": "2023-09-14T08:58:37.951908+00:00",
+  "LastUpdate_Achievements": "2023-09-14T09:03:47.9793858+00:00"
 }

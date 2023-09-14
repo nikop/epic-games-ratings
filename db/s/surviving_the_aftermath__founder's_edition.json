@@ -5,7 +5,7 @@
   "Ranking_Rating": 602,
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 279,
-  "Ranking_EOS_Progress": 133,
+  "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 104,
@@ -1247,7 +1247,7 @@
   ],
   "EOS_Progressed": 8986,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13167,9 +13167,9 @@
       "ID": "51",
       "SetID": "8idi9ml",
       "Name": "Sky Burial",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 899
     },
     {
       "ID": "52",
@@ -13279,8 +13279,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-12T15:58:32.1016981+00:00",
-  "LastChanged_Achievements": "2023-09-14T08:03:47.9940586+00:00",
+  "LastChanged_Achievements": "2023-09-14T09:04:02.6514955+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.3176455+00:00",
-  "LastUpdate_Ratings": "2023-09-14T07:58:55.0401684+00:00",
-  "LastUpdate_Achievements": "2023-09-14T08:03:47.9941935+00:00"
+  "LastUpdate_Ratings": "2023-09-14T08:59:00.0784344+00:00",
+  "LastUpdate_Achievements": "2023-09-14T09:04:02.6515967+00:00"
 }

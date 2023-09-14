@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5574,
+  "EOS_Progressed": 5575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9451,6 +9451,11 @@
       "Time": "2023-09-13T21:03:38.7478497+00:00",
       "NumProgressed": 5574,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T09:03:11.6101879+00:00",
+      "NumProgressed": 5575,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -9462,7 +9467,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "10",
@@ -9478,7 +9483,7 @@
       "Name": "Telepathic",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "12",
@@ -9581,7 +9586,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 5574,
+      "Progressed": 5575,
       "Completed": 0
     }
   ],
@@ -9589,8 +9594,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-09-14T08:02:19.4076311+00:00",
+  "LastChanged_Achievements": "2023-09-14T09:03:11.6101876+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:16.8758422+00:00",
   "LastUpdate_Ratings": "2023-09-14T08:00:34.3292084+00:00",
-  "LastUpdate_Achievements": "2023-09-14T08:02:19.407724+00:00"
+  "LastUpdate_Achievements": "2023-09-14T09:03:11.6102477+00:00"
 }
