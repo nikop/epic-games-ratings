@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,175 |
-| Alt+F4 | 5.00% | ~11,196 |
+| Sowwy! | 30.00% | ~67,180 |
+| Alt+F4 | 5.00% | ~11,197 |
 | Where's that freaking Dwarf? | 4.00% | ~8,957 |
 | Déjà vu | 3.00% | ~6,718 |
 | Sock! SOCK! | 3.00% | ~6,718 |
-| Livin' in a dwarven paradise | 2.00% | ~4,478 |
-| Way of the Wimp | 2.00% | ~4,478 |
-| A beer, two curses, three companions | 2.00% | ~4,478 |
-| The plot thickens... At the tavern | 2.00% | ~4,478 |
-| GG EZ | 2.00% | ~4,478 |
-| DM intervention | 2.00% | ~4,478 |
-| Speedrun | 2.00% | ~4,478 |
-| Fireproof Wizardess | 2.00% | ~4,478 |
+| Livin' in a dwarven paradise | 2.00% | ~4,479 |
+| Way of the Wimp | 2.00% | ~4,479 |
+| A beer, two curses, three companions | 2.00% | ~4,479 |
+| The plot thickens... At the tavern | 2.00% | ~4,479 |
+| GG EZ | 2.00% | ~4,479 |
+| DM intervention | 2.00% | ~4,479 |
+| Speedrun | 2.00% | ~4,479 |
+| Fireproof Wizardess | 2.00% | ~4,479 |
 | Shiny and Crôm | 1.00% | ~2,239 |
 | The demons' feast | 1.00% | ~2,239 |
 | The Great Library | 1.00% | ~2,239 |
@@ -40,7 +40,7 @@ Number of Ratings: 118  (23.09.2022)
 | %#*!$*! | 0.90% | ~2,015 |
 | Look but don't touch | 0.90% | ~2,015 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,791 |
-| Lust and Debauchery | 0.70% | ~1,567 |
+| Lust and Debauchery | 0.70% | ~1,568 |
 | Dead for good | 0.60% | ~1,344 |
 | Gargantua | 0.60% | ~1,344 |
 | Material Girl | 0.60% | ~1,344 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 223,918 (Ranked 57)  
+Progressed: 223,933 (Ranked 57)  
 Completed: 2 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,14 +201,14 @@ Completed: 2 (0.00%) (Ranked 274)
 | 2023-09-11 | 223,344 | 2 |
 | 2023-09-12 | 223,556 | 2 |
 | 2023-09-13 | 223,808 | 2 |
-| 2023-09-14 | 223,918 | 2 |
+| 2023-09-14 | 223,933 | 2 |
 ## Awards
-Max (Character Customization): 194  (Ranked 276)  
-Sum: 313 (Ranked 338)  
-Diff (max vs sum): -62  
+Max (Character Customization): 195  (Ranked 275)  
+Sum: 314 (Ranked 338)  
+Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 194 |
+| This game has Inclusive Character Customization | 195 |
 | This game is Relaxing | 28 |
 | This game is Great for Beginners | 26 |
 | This game has Amazing Characters | 24 |
@@ -347,3 +347,4 @@ Diff (max vs sum): -62
 | 2023-09-11 | 4.58 | - | 193 | 308 |
 | 2023-09-12 | 4.59 | - | 194 | 309 |
 | 2023-09-13 | 4.59 | - | 194 | 313 |
+| 2023-09-14 | 4.59 | - | 195 | 314 |

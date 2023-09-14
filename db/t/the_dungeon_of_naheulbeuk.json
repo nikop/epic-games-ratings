@@ -3,7 +3,7 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 416,
-  "Ranking_Popularity": 276,
+  "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 274,
@@ -850,18 +850,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 313,
       "NumberOfAwardsMax": 194
+    },
+    {
+      "Time": "2023-09-14T14:57:58.9453259+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 314,
+      "NumberOfAwardsMax": 195
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 313,
-  "NumberOfAwardsMax": 194,
+  "NumberOfAwards": 314,
+  "NumberOfAwardsMax": 195,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 194
+      "Count": 195
     },
     {
       "Text": "This game is Relaxing",
@@ -894,9 +900,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 223918,
+  "EOS_Progressed": 223933,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2021,
+  "EOS_NewPlayers": 2023,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10834,6 +10840,11 @@
       "Time": "2023-09-14T14:07:39.4139984+00:00",
       "NumProgressed": 223918,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-14T15:08:37.6355078+00:00",
+      "NumProgressed": 223933,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -10845,7 +10856,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "100Fail",
@@ -10877,7 +10888,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "BookCollection",
@@ -10901,7 +10912,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "Chapter3",
@@ -10909,7 +10920,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "Chapter4",
@@ -11293,7 +11304,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67175
+      "UsersEstimate": 67180
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11309,7 +11320,7 @@
       "Name": "GG EZ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "EndCombatOneHp",
@@ -11317,7 +11328,7 @@
       "Name": "DM intervention",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "EndGameCursed",
@@ -11341,7 +11352,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11196
+      "UsersEstimate": 11197
     },
     {
       "ID": "FollowBraztok",
@@ -11461,7 +11472,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "RangerEpic",
@@ -11493,7 +11504,7 @@
       "Name": "Speedrun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "SupportCount4",
@@ -11541,28 +11552,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 223918,
+      "Progressed": 223933,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 223918,
+      "Progressed": 223933,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-09-13T17:57:28.5711465+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:07:39.4139979+00:00",
+  "LastChanged": "2023-09-14T14:57:58.9453258+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:08:37.6355074+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:57:43.1909023+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:07:39.414162+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:57:58.9453264+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:08:37.6356773+00:00"
 }

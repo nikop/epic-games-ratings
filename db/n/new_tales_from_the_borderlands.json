@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3636,
+  "EOS_Progressed": 3637,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1489,6 +1489,11 @@
       "Time": "2023-09-13T22:06:14.4285225+00:00",
       "NumProgressed": 3636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T15:05:58.6699487+00:00",
+      "NumProgressed": 3637,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1500,7 +1505,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -1532,7 +1537,7 @@
       "Name": "Totally Intentional",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -1540,7 +1545,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1548,7 +1553,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -1580,7 +1585,7 @@
       "Name": "...To Heroes",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -1596,7 +1601,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -1707,7 +1712,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3636,
+      "Progressed": 3637,
       "Completed": 0
     }
   ],
@@ -1715,8 +1720,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:05:10.3635326+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:05:58.6699483+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:39.3937953+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:58:18.7670651+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:05:10.3635605+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:58:39.133733+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:05:58.669978+00:00"
 }

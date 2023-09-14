@@ -21,13 +21,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 5.00% | ~563 |
 | Voice from Your Dreams | 5.00% | ~563 |
 | All Paths Open | 5.00% | ~563 |
-| Path of the Azata | 4.00% | ~450 |
-| The Legacy | 4.00% | ~450 |
-| Divide and Rule | 4.00% | ~450 |
-| Mythic Reinforcements | 4.00% | ~450 |
-| A Flame | 4.00% | ~450 |
-| Next-Door Play | 4.00% | ~450 |
-| Get the Toad | 4.00% | ~450 |
+| Path of the Azata | 4.00% | ~451 |
+| The Legacy | 4.00% | ~451 |
+| Divide and Rule | 4.00% | ~451 |
+| Mythic Reinforcements | 4.00% | ~451 |
+| A Flame | 4.00% | ~451 |
+| Next-Door Play | 4.00% | ~451 |
+| Get the Toad | 4.00% | ~451 |
 | Heart of the Fallen Land | 3.00% | ~338 |
 | Path of the Trickster | 3.00% | ~338 |
 | Heroic Victory | 3.00% | ~338 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,262 (Ranked 126)  
+Progressed: 11,264 (Ranked 126)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 0 (0.00%) (Ranked 274)
 | 2023-09-11 | 11,234 | 0 |
 | 2023-09-12 | 11,243 | 0 |
 | 2023-09-13 | 11,255 | 0 |
-| 2023-09-14 | 11,262 | 0 |
+| 2023-09-14 | 11,264 | 0 |
 ## Awards
 Max (Character Customization): 1,712  (Ranked 118)  
 Sum: 6,941 (Ranked 113)  

@@ -42,10 +42,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Helping Hand | 0.60% | ~817 |
 | Natural 20 | 0.60% | ~817 |
 | Tax not Included | 0.50% | ~681 |
+| The King's Caprice | 0.50% | ~681 |
 | Big Game Hunting | 0.50% | ~681 |
 | Fated Encounters | 0.50% | ~681 |
 | For the Hoard! | 0.50% | ~681 |
 | Scrapbooker | 0.50% | ~681 |
+| Flying off the Shelves | 0.50% | ~681 |
 | This Power Level...! | 0.50% | ~681 |
 | Hidden Potential | 0.50% | ~681 |
 | Power of Love | 0.50% | ~681 |
@@ -60,13 +62,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Top of the World | 0.40% | ~545 |
 | Proud Paladin | 0.40% | ~545 |
 | Above the Norm | 0.40% | ~545 |
+| Constellated | 0.40% | ~545 |
 | A Ronin Reborn | 0.40% | ~545 |
-| The King's Caprice | 0.40% | ~545 |
 | Thirst for Knowledge | 0.40% | ~545 |
 | Booty by the Boatload | 0.40% | ~545 |
 | Archivist | 0.40% | ~545 |
 | Locally Sourced | 0.40% | ~545 |
-| Flying off the Shelves | 0.40% | ~545 |
 | Industrial Evolution | 0.40% | ~545 |
 | Omae wa Mou Shindeiru | 0.40% | ~545 |
 | Master of Transmutation | 0.40% | ~545 |
@@ -75,6 +76,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.40% | ~545 |
 | Cranked up to 11 | 0.40% | ~545 |
 | Fit for a King | 0.40% | ~545 |
+| By Your Powers Combined... | 0.40% | ~545 |
 | Mammonite | 0.40% | ~545 |
 | Wealth Beyond Measure | 0.40% | ~545 |
 | Fat Cat Tag Team | 0.40% | ~545 |
@@ -93,10 +95,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.40% | ~545 |
 | Master Recycler | 0.40% | ~545 |
 | Exotic Commodities | 0.40% | ~545 |
-| Constellated | 0.30% | ~409 |
 | Fillin' the Bin | 0.30% | ~409 |
 | Thank You Tom Nook | 0.30% | ~409 |
-| By Your Powers Combined... | 0.30% | ~409 |
 | A Legend is Born | 0.30% | ~409 |
 | Necromancer Queen | 0.30% | ~409 |
 | Jackpot! | 0.30% | ~409 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,167 (Ranked 68)  
+Progressed: 136,170 (Ranked 68)  
 Completed: 151 (0.11%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 151 (0.11%) (Ranked 217)
 | 2023-09-11 | 136,043 | 149 |
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
-| 2023-09-14 | 136,167 | 151 |
+| 2023-09-14 | 136,170 | 151 |
 ## Awards
 Max (Great for Beginners): 4,741  (Ranked 71)  
 Sum: 27,227 (Ranked 48)  

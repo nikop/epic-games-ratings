@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.24,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -782,6 +782,11 @@
       "Time": "2023-09-13T18:07:39.5414455+00:00",
       "NumProgressed": 485,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-14T15:08:08.2014824+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 20,
@@ -793,7 +798,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "CHOICES_MATTER",
@@ -841,7 +846,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ENDING_6",
@@ -865,7 +870,7 @@
       "Name": "Even Tempered",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -881,7 +886,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "GOOD_KARMA",
@@ -889,7 +894,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "INTERROGATION",
@@ -952,7 +957,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 6
     }
   ],
@@ -960,8 +965,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:07:15.0536108+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:08:08.201482+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:32.5783107+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:58:28.726861+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:07:15.0536639+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:58:51.2177789+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:08:08.2015028+00:00"
 }

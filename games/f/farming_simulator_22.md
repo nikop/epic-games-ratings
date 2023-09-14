@@ -6,7 +6,7 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~36,448 |
+| Own use | 75.00% | ~36,449 |
 | I read Shakespeare and stuff | 64.00% | ~31,103 |
 | Just a sprinkle | 63.00% | ~30,617 |
 | I'm stumped | 61.00% | ~29,645 |
@@ -14,13 +14,13 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's just the beginning | 59.00% | ~28,673 |
 | This is just my weekend vehicle | 58.00% | ~28,187 |
 | Hard work pays off | 53.00% | ~25,757 |
-| It's never too late to farm | 50.00% | ~24,299 |
-| All out of Land | 44.00% | ~21,383 |
-| Field Trip | 43.00% | ~20,897 |
-| I like to switch it up | 40.00% | ~19,439 |
-| Help me to help you | 38.00% | ~18,467 |
-| Ultimutt Pawesomeness | 28.00% | ~13,607 |
-| Van Gogh | 26.00% | ~12,635 |
+| It's never too late to farm | 50.00% | ~24,300 |
+| All out of Land | 44.00% | ~21,384 |
+| Field Trip | 43.00% | ~20,898 |
+| I like to switch it up | 40.00% | ~19,440 |
+| Help me to help you | 38.00% | ~18,468 |
+| Ultimutt Pawesomeness | 28.00% | ~13,608 |
+| Van Gogh | 26.00% | ~12,636 |
 | You wood not believe it | 22.00% | ~10,692 |
 | Vehicle fleet | 22.00% | ~10,692 |
 | The plot thickens | 16.00% | ~7,776 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~194 |
 | Raisin the stakes | 0.30% | ~146 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,598 (Ranked 92)  
+Progressed: 48,599 (Ranked 92)  
 Completed: 6 (0.01%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,14 +197,14 @@ Completed: 6 (0.01%) (Ranked 260)
 | 2023-09-11 | 48,494 | 6 |
 | 2023-09-12 | 48,531 | 6 |
 | 2023-09-13 | 48,586 | 6 |
-| 2023-09-14 | 48,598 | 6 |
+| 2023-09-14 | 48,599 | 6 |
 ## Awards
-Max (Great for Beginners): 4,933  (Ranked 68)  
-Sum: 40,136 (Ranked 32)  
+Max (Great for Beginners): 4,940  (Ranked 68)  
+Sum: 40,143 (Ranked 32)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,933 |
+| This game is Great for Beginners | 4,940 |
 | This game is Educational | 4,168 |
 | This game is Relaxing | 4,130 |
 | This game has Diverse Characters | 4,127 |
@@ -459,4 +459,4 @@ Diff (max vs sum): 36
 | 2023-09-11 | 4.69 | - | 4,916 | 40,065 |
 | 2023-09-12 | 4.69 | - | 4,924 | 40,097 |
 | 2023-09-13 | 4.69 | - | 4,933 | 40,125 |
-| 2023-09-14 | 4.69 | - | 4,933 | 40,136 |
+| 2023-09-14 | 4.69 | - | 4,940 | 40,143 |

@@ -3722,9 +3722,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11262,
+  "EOS_Progressed": 11264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12267,6 +12267,11 @@
       "Time": "2023-09-14T14:06:15.2944021+00:00",
       "NumProgressed": 11262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T15:07:18.9274745+00:00",
+      "NumProgressed": 11264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12350,7 +12355,7 @@
       "Name": "Path of the Azata",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "11_PathOfAeon",
@@ -12462,7 +12467,7 @@
       "Name": "The Legacy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "25_MasterfulDispell",
@@ -12510,7 +12515,7 @@
       "Name": "Divide and Rule",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "32_MythicReinforcements",
@@ -12518,7 +12523,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "33_DefendersHeart",
@@ -12654,7 +12659,7 @@
       "Name": "A Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -12702,7 +12707,7 @@
       "Name": "Next-Door Play",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "56_GetToad",
@@ -12710,7 +12715,7 @@
       "Name": "Get the Toad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "57_PathOfDevil",
@@ -13205,21 +13210,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10044,
+      "Progressed": 10046,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11262,
+      "Progressed": 11264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-13T16:03:05.682622+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:06:15.2944016+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:07:18.9274741+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:57:09.3388256+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:06:15.2946218+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:57:19.9640235+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:07:18.9276959+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2547,
+  "EOS_Progressed": 2548,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -3530,6 +3530,11 @@
       "Time": "2023-09-14T13:11:48.0156741+00:00",
       "NumProgressed": 2547,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-14T15:06:26.5027619+00:00",
+      "NumProgressed": 2548,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3565,7 +3570,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -3589,7 +3594,7 @@
       "Name": "Elemental master",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3605,7 +3610,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3669,7 +3674,7 @@
       "Name": "Little light",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -3715,9 +3720,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1962
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3725,7 +3730,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3765,7 +3770,7 @@
       "Name": "Thornbarrow",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -3773,7 +3778,7 @@
       "Name": "Clarion Cove",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -3877,7 +3882,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -3901,7 +3906,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -3917,7 +3922,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3933,7 +3938,7 @@
       "Name": "Full equipped",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -3964,7 +3969,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2547,
+      "Progressed": 2548,
       "Completed": 7
     }
   ],
@@ -3972,8 +3977,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:05:33.7848928+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:06:26.5027617+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:13.613728+00:00",
-  "LastUpdate_Ratings": "2023-09-14T14:01:05.4296681+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:05:33.7849611+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:02:05.7279703+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:06:26.502828+00:00"
 }

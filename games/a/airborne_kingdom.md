@@ -6,24 +6,24 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,021 |
+| A Small Community | 56.00% | ~4,022 |
 | A Grove Replanted | 53.00% | ~3,806 |
-| Fields Watered | 41.00% | ~2,944 |
-| Seekers Found | 41.00% | ~2,944 |
-| Settling the Skies | 41.00% | ~2,944 |
-| Wind Powered | 40.00% | ~2,872 |
+| Fields Watered | 41.00% | ~2,945 |
+| Seekers Found | 41.00% | ~2,945 |
+| Settling the Skies | 41.00% | ~2,945 |
+| Wind Powered | 40.00% | ~2,873 |
 | It Takes a Village | 34.00% | ~2,442 |
 | On the Town | 28.00% | ~2,011 |
 | Daylight Found | 26.00% | ~1,867 |
-| Irons Scorched | 25.00% | ~1,795 |
-| Islands Connected | 25.00% | ~1,795 |
+| Irons Scorched | 25.00% | ~1,796 |
+| Islands Connected | 25.00% | ~1,796 |
 | Harp Tuned | 23.00% | ~1,652 |
 | Pyre Ignited | 23.00% | ~1,652 |
 | Travelers Returned | 23.00% | ~1,652 |
 | Hopes Hoisted | 22.00% | ~1,580 |
 | Knowledge Shared | 20.00% | ~1,436 |
 | Relic Finder | 20.00% | ~1,436 |
-| Worthy of the Title | 19.00% | ~1,364 |
+| Worthy of the Title | 19.00% | ~1,365 |
 | A Peaceful Respite | 14.00% | ~1,005 |
 | A Learned Scholar | 13.00% | ~934 |
 | Prophecy Fulfilled | 13.00% | ~934 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~144 |
 | A True Challenge | 2.00% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,181 (Ranked 139)  
+Progressed: 7,182 (Ranked 139)  
 Completed: 53 (0.74%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 53 (0.74%) (Ranked 134)
 | 2023-09-11 | 7,173 | 53 |
 | 2023-09-12 | 7,177 | 53 |
 | 2023-09-13 | 7,180 | 53 |
-| 2023-09-14 | 7,181 | 53 |
+| 2023-09-14 | 7,182 | 53 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

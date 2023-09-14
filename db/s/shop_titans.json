@@ -6028,9 +6028,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136167,
+  "EOS_Progressed": 136170,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21158,6 +21158,11 @@
       "Time": "2023-09-14T14:07:19.3768068+00:00",
       "NumProgressed": 136167,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-14T15:08:13.4333394+00:00",
+      "NumProgressed": 136170,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -21231,9 +21236,9 @@
       "ID": "ascend03",
       "SetID": "anfd17p",
       "Name": "Constellated",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 545
     },
     {
       "ID": "ashley_a",
@@ -21263,9 +21268,9 @@
       "ID": "bigsale03",
       "SetID": "anfd17p",
       "Name": "The King\u0027s Caprice",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 681
     },
     {
       "ID": "blueprint01",
@@ -21447,9 +21452,9 @@
       "ID": "craft03",
       "SetID": "anfd17p",
       "Name": "Flying off the Shelves",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 681
     },
     {
       "ID": "craft04",
@@ -21599,9 +21604,9 @@
       "ID": "fuseepic",
       "SetID": "anfd17p",
       "Name": "By Your Powers Combined...",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 545
     },
     {
       "ID": "fuseflawless",
@@ -22064,15 +22069,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136167,
+      "Progressed": 136170,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-14T13:57:26.7031757+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:07:19.376806+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:08:13.433339+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:57:26.7031763+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:07:19.3770274+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:57:39.6393986+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:08:13.4335948+00:00"
 }

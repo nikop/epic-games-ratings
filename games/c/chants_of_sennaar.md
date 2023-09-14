@@ -10,12 +10,12 @@
 | The Preacher's fate | 41.00% | ~63 |
 | A new dawn | 37.00% | ~57 |
 | Scholar | 33.00% | ~50 |
+| True G4M3R | 31.00% | ~47 |
 | The darkness | 31.00% | ~47 |
-| True G4M3R | 30.00% | ~46 |
 | A good beginning | 29.00% | ~44 |
 | One last step | 27.00% | ~41 |
+| Cable guy | 25.00% | ~38 |
 | Champollion | 25.00% | ~38 |
-| Cable guy | 24.00% | ~37 |
 | In this together | 23.00% | ~35 |
 | Half the way | 23.00% | ~35 |
 | Peace walker | 22.00% | ~34 |

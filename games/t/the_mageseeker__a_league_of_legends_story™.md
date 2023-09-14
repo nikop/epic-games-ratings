@@ -5,19 +5,19 @@ Rating: 4.82 (Ranked 67)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 96.00% | ~2,445 |
-| No more cages! | 92.00% | ~2,343 |
+| For Demacia | 96.00% | ~2,446 |
+| No more cages! | 92.00% | ~2,344 |
 | Everfrost | 78.00% | ~1,987 |
-| Pentakill | 78.00% | ~1,987 |
 | Dark Forest | 78.00% | ~1,987 |
-| The use of petricite | 75.00% | ~1,910 |
+| Pentakill | 77.00% | ~1,962 |
+| The use of petricite | 75.00% | ~1,911 |
 | You can pet the dog | 61.00% | ~1,554 |
 | Big Helmet Bro | 38.00% | ~968 |
-| Thornbarrow | 37.00% | ~942 |
-| Clarion Cove | 37.00% | ~942 |
+| Thornbarrow | 37.00% | ~943 |
+| Clarion Cove | 37.00% | ~943 |
 | Past trauma | 36.00% | ~917 |
-| Elemental master | 35.00% | ~891 |
-| Ternmoat Headquarters | 35.00% | ~891 |
+| Elemental master | 35.00% | ~892 |
+| Ternmoat Headquarters | 35.00% | ~892 |
 | Cypress Glen Headquarters | 33.00% | ~841 |
 | Petricite Burst | 32.00% | ~815 |
 | Old friend | 30.00% | ~764 |
@@ -28,12 +28,12 @@ Rating: 4.82 (Ranked 67)
 | Ancient power | 25.00% | ~637 |
 | Sacred Woods | 23.00% | ~586 |
 | Capelworth | 23.00% | ~586 |
-| Little light | 22.00% | ~560 |
-| Full equipped | 22.00% | ~560 |
+| Little light | 22.00% | ~561 |
+| Full equipped | 22.00% | ~561 |
 | Glyndemere | 21.00% | ~535 |
 | Iffighain Headquarters | 21.00% | ~535 |
-| Whispers in the Woods II | 18.00% | ~458 |
-| Quickmoore Headquarters | 18.00% | ~458 |
+| Whispers in the Woods II | 18.00% | ~459 |
+| Quickmoore Headquarters | 18.00% | ~459 |
 | No more holding back | 17.00% | ~433 |
 | Terbisia | 17.00% | ~433 |
 | Whispers in the Woods III | 16.00% | ~408 |
@@ -59,7 +59,7 @@ Rating: 4.82 (Ranked 67)
 | Silverwing nest | 2.00% | ~51 |
 | The Unshackled | 0.90% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,547 (Ranked 173)  
+Progressed: 2,548 (Ranked 173)  
 Completed: 7 (0.27%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 7 (0.27%) (Ranked 186)
 | 2023-09-10 | 2,543 | 7 |
 | 2023-09-11 | 2,544 | 7 |
 | 2023-09-13 | 2,545 | 7 |
-| 2023-09-14 | 2,547 | 7 |
+| 2023-09-14 | 2,548 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

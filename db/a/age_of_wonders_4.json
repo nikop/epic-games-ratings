@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -336,9 +336,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5174,
+  "EOS_Progressed": 5175,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6121,6 +6121,11 @@
       "Time": "2023-09-13T17:06:09.4614795+00:00",
       "NumProgressed": 5174,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-14T15:06:36.4993626+00:00",
+      "NumProgressed": 5175,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6164,7 +6169,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "14",
@@ -6396,7 +6401,7 @@
       "Name": "The Eternal Court",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "40",
@@ -6412,7 +6417,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "42",
@@ -6444,7 +6449,7 @@
       "Name": "Grexolis",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "6",
@@ -6452,7 +6457,7 @@
       "Name": "One for All, All for One",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "7",
@@ -6500,7 +6505,7 @@
       "Name": "Duality",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "48",
@@ -6531,13 +6536,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5174,
+      "Progressed": 5175,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5174,
+      "Progressed": 5175,
       "Completed": 6
     }
   ],
@@ -6545,8 +6550,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:05:40.7580925+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:06:36.4993616+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:36.514266+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:58:27.9001764+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:05:40.7581732+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:58:49.4639424+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:06:36.4994455+00:00"
 }

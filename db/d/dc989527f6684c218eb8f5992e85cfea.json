@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11354,
+  "EOS_Progressed": 11356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9526,6 +9526,11 @@
       "Time": "2023-09-14T14:04:26.3576271+00:00",
       "NumProgressed": 11354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-14T15:05:05.6920354+00:00",
+      "NumProgressed": 11356,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -9537,7 +9542,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -9609,7 +9614,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4996
+      "UsersEstimate": 4997
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -9736,14 +9741,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 11354,
+      "Progressed": 11356,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:04:26.3576266+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:05:05.6920351+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3886572+00:00",
-  "LastUpdate_Ratings": "2023-09-14T14:00:27.0345487+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:04:26.3577019+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:01:10.2587799+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:05:05.6921024+00:00"
 }

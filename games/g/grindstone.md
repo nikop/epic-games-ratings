@@ -25,7 +25,7 @@ Number of Ratings: 63  (23.09.2022)
 | Top of the Food Chain | 32.00% | ~1,649 |
 | Humerus Achievement | 32.00% | ~1,649 |
 | Pardon my Slob | 32.00% | ~1,649 |
-| Ghost Facers! | 27.00% | ~1,392 |
+| Ghost Facers! | 28.00% | ~1,443 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,082 |
 | Royal Flush, Again | 19.00% | ~979 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~928 |

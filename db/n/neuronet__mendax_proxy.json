@@ -2,9 +2,9 @@
   "ID": "000ac10599a14d4dbe6ce5b817040fdd",
   "Name": "NeuroNet: Mendax Proxy",
   "ProductSlug": "neuronet-mendax-proxy",
-  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -169,9 +169,9 @@
       "ID": "AN_ACQUIRED_TASTE",
       "SetID": "2d85n75",
       "Name": "An Acquired Taste",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AREAL_HEADACHE",
@@ -257,9 +257,9 @@
       "ID": "EVERYONE_NEEDS_ABREAK",
       "SetID": "2d85n75",
       "Name": "Everyone Needs a Break",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FIRST_DAY",
@@ -305,9 +305,9 @@
       "ID": "KNOCK_KNOCK",
       "SetID": "2d85n75",
       "Name": "Knock Knock",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LEAVE_IT_TO_THE_PROFESSIONALS",
@@ -329,9 +329,9 @@
       "ID": "OBLIGATORY_FRAUDULENT_BAKING",
       "SetID": "2d85n75",
       "Name": "Obligatory Fraudulent Baking",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "OVERSEER",
@@ -425,9 +425,9 @@
       "ID": "TASTES_LIKE_REGRET",
       "SetID": "2d85n75",
       "Name": "Tastes Like Regret",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THAT_ONE_DOESNT_COUNT",
@@ -546,8 +546,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:06:24.6757525+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:07:30.4505287+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:58.6658979+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:58:47.6161069+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:06:24.6757932+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:59:10.0025139+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:07:30.4505668+00:00"
 }

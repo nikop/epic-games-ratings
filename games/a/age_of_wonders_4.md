@@ -38,12 +38,12 @@ Rating: 4.60 (Ranked 394)
 | The Goddess of Nature | 3.00% | ~155 |
 | Eternal Lord | 3.00% | ~155 |
 | Crimson Caldera | 3.00% | ~155 |
-| The Magic That Empowers Me! | 2.00% | ~103 |
-| The Eternal Court | 2.00% | ~103 |
-| Jack of All Tomes | 2.00% | ~103 |
-| Grexolis | 2.00% | ~103 |
-| One for All, All for One | 2.00% | ~103 |
-| Duality | 2.00% | ~103 |
+| The Magic That Empowers Me! | 2.00% | ~104 |
+| The Eternal Court | 2.00% | ~104 |
+| Jack of All Tomes | 2.00% | ~104 |
+| Grexolis | 2.00% | ~104 |
+| One for All, All for One | 2.00% | ~104 |
+| Duality | 2.00% | ~104 |
 | I've Got Everything I Need Right Here | 1.00% | ~52 |
 | Manufactured War | 1.00% | ~52 |
 | Pruning for Progress | 1.00% | ~52 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 394)
 | The Grey Wizard | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,174 (Ranked 148)  
+Progressed: 5,175 (Ranked 148)  
 Completed: 6 (0.12%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 6 (0.12%) (Ranked 213)
 | 2023-09-11 | 5,170 | 6 |
 | 2023-09-12 | 5,173 | 6 |
 | 2023-09-13 | 5,174 | 6 |
+| 2023-09-14 | 5,175 | 6 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 485)  
 Sum: 25 (Ranked 493)  

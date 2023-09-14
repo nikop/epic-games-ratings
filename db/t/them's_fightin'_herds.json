@@ -238,9 +238,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 229670,
+  "EOS_Progressed": 229673,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15568,6 +15568,11 @@
       "Time": "2023-09-14T13:12:43.9032895+00:00",
       "NumProgressed": 229670,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-14T15:07:21.100449+00:00",
+      "NumProgressed": 229673,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -15643,7 +15648,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82681
+      "UsersEstimate": 82682
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -15723,7 +15728,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78088
+      "UsersEstimate": 78089
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -15739,7 +15744,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50527
+      "UsersEstimate": 50528
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -15802,7 +15807,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229670,
+      "Progressed": 229673,
       "Completed": 5
     }
   ],
@@ -15810,8 +15815,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-10T11:58:05.1406101+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:06:16.9195067+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:07:21.1004483+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:45.3291126+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:59:36.7661578+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:06:16.9196158+00:00"
+  "LastUpdate_Ratings": "2023-09-14T15:00:06.0039446+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:07:21.1005645+00:00"
 }

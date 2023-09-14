@@ -2,7 +2,7 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 162,
+  "Ranking_Rating": 145,
   "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 241,
   "Ranking_EOS_Progress": 594,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -836,6 +836,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 988,
       "NumberOfAwardsMax": 656
+    },
+    {
+      "Time": "2023-09-14T14:57:18.0441384+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 988,
+      "NumberOfAwardsMax": 656
     }
   ],
   "ReviewsDisabled": false,
@@ -922,8 +928,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2023-09-13T15:02:44.634282+00:00",
+  "LastChanged": "2023-09-14T14:57:18.0441382+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.6334363+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:57:07.7847428+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:06:46.3344943+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:57:18.0441388+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:07:57.5910804+00:00"
 }

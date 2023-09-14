@@ -6,6 +6,7 @@ Rating: 4.54 (Ranked 502)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break A Leg | 2.00% | ~13,592 |
+| Hazardous Materials | 2.00% | ~13,592 |
 | Hotel California | 2.00% | ~13,592 |
 | Personal Assistant Personally Assisted | 2.00% | ~13,592 |
 | Welcome To Hell-A | 2.00% | ~13,592 |
@@ -18,7 +19,6 @@ Rating: 4.54 (Ranked 502)
 | Can't Handle the Truth | 1.00% | ~6,796 |
 | Coup de Grâce | 1.00% | ~6,796 |
 | Like Riding a Bike | 1.00% | ~6,796 |
-| Hazardous Materials | 1.00% | ~6,796 |
 | Friends Like These | 1.00% | ~6,796 |
 | Apex Predator | 1.00% | ~6,796 |
 | Zombologist | 1.00% | ~6,796 |
@@ -28,16 +28,16 @@ Rating: 4.54 (Ranked 502)
 | Stacking the Deck | 1.00% | ~6,796 |
 | Our True Nature | 1.00% | ~6,796 |
 | This is My Weapon | 1.00% | ~6,796 |
-| Perks of the Job | 0.90% | ~6,116 |
-| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,116 |
+| Perks of the Job | 0.90% | ~6,117 |
+| I Got a Zombie Army and You Can't Harm Me | 0.90% | ~6,117 |
 | Making Your Mark | 0.80% | ~5,437 |
 | Humanity Distilled | 0.80% | ~5,437 |
 | Down with the Sickness | 0.80% | ~5,437 |
 | Max Headroom | 0.70% | ~4,757 |
+| Smorgasbord | 0.50% | ~3,398 |
 | Jumbo Keyring | 0.50% | ~3,398 |
 | Go, Bobcats! | 0.50% | ~3,398 |
 | Rising Star | 0.50% | ~3,398 |
-| Smorgasbord | 0.40% | ~2,718 |
 | Not Even My Final Form | 0.40% | ~2,718 |
 | Internet Famous | 0.40% | ~2,718 |
 | Make it So | 0.30% | ~2,039 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,582 (Ranked 22)  
+Progressed: 679,616 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,10 +198,10 @@ Completed: 2,143 (0.32%) (Ranked 177)
 | 2023-09-11 | 678,235 | 2,137 |
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
-| 2023-09-14 | 679,582 | 2,143 |
+| 2023-09-14 | 679,616 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,038  (Ranked 57)  
-Sum: 8,945 (Ranked 94)  
+Sum: 8,948 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): -37
 | This game has Amazing Storytelling | 351 |
 | This game is Extremely Fun | 332 |
 | This game has Amazing Characters | 322 |
-| This game is Highly Recommended | 317 |
+| This game is Highly Recommended | 320 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -363,4 +363,4 @@ Diff (max vs sum): -37
 | 2023-09-11 | 4.54 | 6,016 | 8,894 |
 | 2023-09-12 | 4.54 | 6,016 | 8,905 |
 | 2023-09-13 | 4.54 | 6,027 | 8,924 |
-| 2023-09-14 | 4.54 | 6,038 | 8,945 |
+| 2023-09-14 | 4.54 | 6,038 | 8,948 |

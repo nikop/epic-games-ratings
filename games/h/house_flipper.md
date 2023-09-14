@@ -20,9 +20,9 @@ Number of Ratings: 1,023  (23.09.2022)
 | Millionaire | 5.00% | ~1,039 |
 | Perfectionist | 5.00% | ~1,039 |
 | I'm Belieber | 2.00% | ~416 |
+| Knock, knock | 1.00% | ~208 |
 | You do it wrong | 1.00% | ~208 |
 | Wall Street Shark | 0.90% | ~187 |
-| Knock, knock | 0.90% | ~187 |
 | Car Mechanic | 0.80% | ~166 |
 | Game Over | 0.80% | ~166 |
 | Negotiator | 0.80% | ~166 |

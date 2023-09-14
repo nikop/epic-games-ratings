@@ -4450,10 +4450,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8945,
       "NumberOfAwardsMax": 6038
+    },
+    {
+      "Time": "2023-09-14T14:58:07.6423473+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8948,
+      "NumberOfAwardsMax": 6038
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8945,
+  "NumberOfAwards": 8948,
   "NumberOfAwardsMax": 6038,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4485,7 +4491,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 317
+      "Count": 320
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4512,9 +4518,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 679582,
+  "EOS_Progressed": 679616,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 4544,
+  "EOS_NewPlayers": 4541,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -20997,6 +21003,11 @@
       "Time": "2023-09-14T14:03:43.557313+00:00",
       "NumProgressed": 679582,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-14T15:04:12.6563008+00:00",
+      "NumProgressed": 679616,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -21056,7 +21067,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6116
+      "UsersEstimate": 6117
     },
     {
       "ID": "ach_bookworm",
@@ -21088,7 +21099,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6116
+      "UsersEstimate": 6117
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -21110,9 +21121,9 @@
       "ID": "ach_explorer",
       "SetID": "7km39fm",
       "Name": "Smorgasbord",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2718
+      "UsersEstimate": 3398
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -21150,9 +21161,9 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6796
+      "UsersEstimate": 13592
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -21367,22 +21378,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 679582,
+      "Progressed": 679616,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 5123,
-      "Completed": 5123
+      "Progressed": 5157,
+      "Completed": 5157
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-09-14T13:03:20.0030155+00:00",
-  "LastChanged_Achievements": "2023-09-14T14:03:43.5573125+00:00",
+  "LastChanged": "2023-09-14T14:58:07.6423472+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:04:12.6563004+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-14T13:57:48.842761+00:00",
-  "LastUpdate_Achievements": "2023-09-14T14:03:43.5574452+00:00"
+  "LastUpdate_Ratings": "2023-09-14T14:58:07.6423478+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:04:12.6564379+00:00"
 }

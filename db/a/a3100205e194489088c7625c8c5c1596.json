@@ -1,0 +1,40 @@
+{
+  "ID": "a3100205e194489088c7625c8c5c1596",
+  "Name": null,
+  "ProductSlug": "forest-quartet-5d03e3",
+  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 104,
+  "Store": {
+    "ReleaseDate": null,
+    "PcReleaseDate": null,
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
+  },
+  "RatingHistory": [],
+  "ReviewsDisabled": false,
+  "Tags": [],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [
+    {
+      "ID": "8a67465",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
+  "LastChanged_Achievements": "2023-09-14T15:02:30.0121969+00:00",
+  "LastUpdate_AppInfo": "2023-09-14T14:57:07.6828416+00:00",
+  "LastUpdate_Ratings": "2023-09-14T14:57:07.9899443+00:00",
+  "LastUpdate_Achievements": "2023-09-14T15:02:30.0133365+00:00"
+}

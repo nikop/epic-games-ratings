@@ -14,6 +14,7 @@
 | Task Master | 43.00% | ~10 |
 | Busybody | 39.00% | ~9 |
 | Warning: Fragile | 39.00% | ~9 |
+| An Acquired Taste | 35.00% | ~8 |
 | A Light in the Dark | 35.00% | ~8 |
 | The Guardian | 35.00% | ~8 |
 | Endgame | 35.00% | ~8 |
@@ -22,28 +23,27 @@
 | Socially Acceptable Insanity | 35.00% | ~8 |
 | The Companion | 35.00% | ~8 |
 | The Counsellor | 35.00% | ~8 |
-| An Acquired Taste | 30.00% | ~7 |
 | A Real Headache | 30.00% | ~7 |
 | A Total Riot | 30.00% | ~7 |
+| Everyone Needs a Break | 30.00% | ~7 |
 | They Flock to Him | 30.00% | ~7 |
 | Blood Begets Blood | 26.00% | ~6 |
-| Everyone Needs a Break | 26.00% | ~6 |
+| Knock Knock | 26.00% | ~6 |
 | That One Doesn't Count | 26.00% | ~6 |
 | Full Coverage | 22.00% | ~5 |
 | Job Creator | 22.00% | ~5 |
-| Knock Knock | 22.00% | ~5 |
 | Quidnunc | 22.00% | ~5 |
 | A Little Eccentric | 17.00% | ~4 |
+| Obligatory Fraudulent Baking | 17.00% | ~4 |
 | Social Butterfly | 17.00% | ~4 |
 | Zonk! | 17.00% | ~4 |
 | Leave It to the Professionals | 13.00% | ~3 |
-| Obligatory Fraudulent Baking | 13.00% | ~3 |
 | Overseer | 13.00% | ~3 |
 | Ring of Fire | 13.00% | ~3 |
 | The Provocateur | 13.00% | ~3 |
+| Tastes Like Regret | 13.00% | ~3 |
 | The Spice of Life | 13.00% | ~3 |
 | The Mentor | 9.00% | ~2 |
-| Tastes Like Regret | 9.00% | ~2 |
 | Wilful Ignorance | 9.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 4.00% | ~1 |
 | Double Agent | 4.00% | ~1 |
@@ -53,7 +53,7 @@
 | The Surrogate | 0.00% | ~0 |
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 433)  
+Progressed: 23 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
