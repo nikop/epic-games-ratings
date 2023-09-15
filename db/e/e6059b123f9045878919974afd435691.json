@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 814,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1906,6 +1906,11 @@
       "Time": "2023-09-15T05:04:06.3816486+00:00",
       "NumProgressed": 813,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T15:04:57.4070757+00:00",
+      "NumProgressed": 814,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1915,9 +1920,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 513
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1933,7 +1938,7 @@
       "Name": "FULLCLIP",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -1989,7 +1994,7 @@
       "Name": "Capraphobia",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2045,7 +2050,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2197,7 +2202,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2213,7 +2218,7 @@
       "Name": "Decakill!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2221,7 +2226,7 @@
       "Name": "Call The Winchester",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2291,9 +2296,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 195
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -2317,7 +2322,7 @@
       "Name": "To Get Stronger",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "MEAT_ACHIEVEMENT_3",
@@ -2357,7 +2362,7 @@
       "Name": "Beep Beep Boop",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -2444,14 +2449,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 814,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:04:13.7940014+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:04:57.4070754+00:00",
   "LastUpdate_AppInfo": "2023-09-14T19:57:19.2555996+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:00:46.2053777+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:04:13.794064+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:02:23.0597293+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:04:57.4071356+00:00"
 }

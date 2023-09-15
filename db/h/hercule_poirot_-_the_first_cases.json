@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 300,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 420,
+  "EOS_Progressed": 421,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
@@ -482,6 +482,11 @@
       "Time": "2023-09-15T03:08:43.2190993+00:00",
       "NumProgressed": 420,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-15T15:08:38.8006029+00:00",
+      "NumProgressed": 421,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -493,7 +498,7 @@
       "Name": "The Bracelet",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_010",
@@ -501,7 +506,7 @@
       "Name": "The Denouement",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_011",
@@ -517,15 +522,15 @@
       "Name": "Well-acquainted",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_013",
       "SetID": "72imik0",
       "Name": "Little Grey Cells",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_014",
@@ -581,7 +586,7 @@
       "Name": "The Blackmail",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_020",
@@ -651,9 +656,9 @@
       "ID": "ACH_028",
       "SetID": "72imik0",
       "Name": "It Wasn\u2019t a Burglary",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_029",
@@ -717,7 +722,7 @@
       "Name": "Elizabeth Padget",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_036",
@@ -765,15 +770,15 @@
       "Name": "Inge Frank",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_041",
       "SetID": "72imik0",
       "Name": "Jacqueline \u201CJackie\u201D Conrad",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_042",
@@ -781,7 +786,7 @@
       "Name": "Luc Piette",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_043",
@@ -789,7 +794,7 @@
       "Name": "Major Felix Hagen",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_044",
@@ -813,7 +818,7 @@
       "Name": "Zakariya Demir",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_05",
@@ -829,7 +834,7 @@
       "Name": "The Secret",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_07",
@@ -860,7 +865,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 420,
+      "Progressed": 421,
       "Completed": 6
     }
   ],
@@ -868,8 +873,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-07-07T15:57:52.1284059+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:07:01.7709252+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:08:38.8006025+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:00.4848677+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:57:16.7681967+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:07:01.770957+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:57:34.0343819+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:08:38.8006348+00:00"
 }

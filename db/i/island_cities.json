@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 698,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 15.33,
   "EosHistory": [
@@ -2965,9 +2965,9 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 154
     },
     {
       "ID": "LEVEL_013",
@@ -3062,8 +3062,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:06:06.6708029+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:07:26.1802769+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:02:16.1725531+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:06:06.6708771+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:03:04.8119611+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:07:26.1803045+00:00"
 }

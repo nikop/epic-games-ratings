@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2533,
+  "EOS_Progressed": 2534,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -5816,6 +5816,11 @@
       "Time": "2023-09-15T09:05:08.6613847+00:00",
       "NumProgressed": 2533,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T15:06:13.331039+00:00",
+      "NumProgressed": 2534,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -5937,9 +5942,9 @@
       "ID": "GUARD_MAKER",
       "SetID": "8lhbnh7",
       "Name": "Guard Maker",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ISOLATION_MASTER",
@@ -6002,14 +6007,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2533,
+      "Progressed": 2534,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:05:11.7843327+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:06:13.3310386+00:00",
   "LastUpdate_AppInfo": "2023-09-13T01:39:00.1699898+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:00:50.8257599+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:05:11.784373+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:02:28.6738709+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:06:13.3310797+00:00"
 }

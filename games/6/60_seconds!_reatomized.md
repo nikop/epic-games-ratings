@@ -11,7 +11,7 @@ Rating: 4.62 (Ranked 350)
 | Home, sweet home | 91.00% | ~4,673 |
 | Survivalist | 89.00% | ~4,570 |
 | One way ticket | 84.00% | ~4,313 |
-| Last man standing | 79.00% | ~4,057 |
+| Last man standing | 80.00% | ~4,108 |
 | Family guy | 77.00% | ~3,954 |
 | Out of the Bag | 75.00% | ~3,851 |
 | The Dark Side | 70.00% | ~3,594 |

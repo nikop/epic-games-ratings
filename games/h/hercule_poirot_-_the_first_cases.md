@@ -5,14 +5,14 @@ Rating: 4.35 (Ranked 757)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 90.00% | ~378 |
-| Luc Piette | 75.00% | ~315 |
+| It Wasn’t a Burglary | 89.00% | ~375 |
+| Luc Piette | 75.00% | ~316 |
 | Angeline Van den Bosch | 73.00% | ~307 |
-| Elizabeth Padget | 70.00% | ~294 |
-| Little Grey Cells | 69.00% | ~290 |
-| The Bracelet | 65.00% | ~273 |
-| The Blackmail | 55.00% | ~231 |
-| Major Felix Hagen | 55.00% | ~231 |
+| Elizabeth Padget | 70.00% | ~295 |
+| Little Grey Cells | 68.00% | ~286 |
+| The Bracelet | 65.00% | ~274 |
+| The Blackmail | 55.00% | ~232 |
+| Major Felix Hagen | 55.00% | ~232 |
 | Florette Duval | 54.00% | ~227 |
 | Order and Method | 53.00% | ~223 |
 | Fine-toothed Comb | 53.00% | ~223 |
@@ -21,18 +21,18 @@ Rating: 4.35 (Ranked 757)
 | The Major | 48.00% | ~202 |
 | Curious and Beautiful | 45.00% | ~189 |
 | Comtesse Margaux de Vos | 45.00% | ~189 |
-| Jacqueline “Jackie” Conrad | 45.00% | ~189 |
+| Jacqueline “Jackie” Conrad | 44.00% | ~185 |
 | The Interrogations | 44.00% | ~185 |
-| Well-acquainted | 42.00% | ~176 |
-| Zakariya Demir | 42.00% | ~176 |
+| Well-acquainted | 42.00% | ~177 |
+| Zakariya Demir | 42.00% | ~177 |
 | Well-read | 39.00% | ~164 |
 | Cassandra Van den Bosch | 38.00% | ~160 |
-| The Secret | 37.00% | ~155 |
+| The Secret | 37.00% | ~156 |
 | Gedeon Demir | 35.00% | ~147 |
 | Rehana Piette | 35.00% | ~147 |
 | Instinct is Marvellous | 33.00% | ~139 |
 | Ernesto da Silva | 33.00% | ~139 |
-| Inge Frank | 31.00% | ~130 |
+| Inge Frank | 31.00% | ~131 |
 | Hugo Beckers | 30.00% | ~126 |
 | The Search | 30.00% | ~126 |
 | The Family | 28.00% | ~118 |
@@ -46,13 +46,13 @@ Rating: 4.35 (Ranked 757)
 | I Like an Audience | 19.00% | ~80 |
 | Sunken Secrets | 18.00% | ~76 |
 | What Else Did I Miss? | 18.00% | ~76 |
-| The Denouement | 17.00% | ~71 |
+| The Denouement | 17.00% | ~72 |
 | Probably the Greatest Detective in the World | 13.00% | ~55 |
 | Take a Break | 11.00% | ~46 |
 | Room with a View | 7.00% | ~29 |
 | Work-life Balance | 2.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 420 (Ranked 256)  
+Progressed: 421 (Ranked 256)  
 Completed: 6 (1.43%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 6 (1.43%) (Ranked 111)
 | 2023-09-03 | 417 | 6 |
 | 2023-09-06 | 418 | 6 |
 | 2023-09-14 | 419 | 6 |
-| 2023-09-15 | 420 | 6 |
+| 2023-09-15 | 421 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -31,6 +31,7 @@
 | All secrets revealed ✔ | 5.00% | ~13 |
 | Broadcasting ✔ | 5.00% | ~13 |
 | Group Alpha ✔ | 4.00% | ~11 |
+| Mutant run ✔ | 4.00% | ~11 |
 | Sheriff ✔ | 4.00% | ~11 |
 | City on fire ✔ | 4.00% | ~11 |
 | Infected ✔ | 4.00% | ~11 |
@@ -39,7 +40,6 @@
 | Crocodile Attack ✔ | 3.00% | ~8 |
 | Secret ✔ | 3.00% | ~8 |
 | Boss 2 ✔ | 3.00% | ~8 |
-| Mutant run ✔ | 3.00% | ~8 |
 | Osipov's video message ✔ | 3.00% | ~8 |
 | Rank A ✔ | 3.00% | ~8 |
 | Boss 3 ✔ | 3.00% | ~8 |

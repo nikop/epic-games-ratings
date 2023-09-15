@@ -3,9 +3,9 @@
   "Name": "Skye Tales",
   "ProductSlug": "skye-tales-02bf5b",
   "Ranking_EOS_Progress": 462,
-  "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-08-16T23:00:00+00:00",
     "PcReleaseDate": "2023-08-16T23:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "Grand Circus",
       "SetID": "dene75h",
       "Name": "Grand Circus",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Gummed Up",
@@ -264,9 +264,9 @@
       "ID": "Light It Up!",
       "SetID": "dene75h",
       "Name": "Light It Up!",
-      "Percentage": 23,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Light Work",
@@ -400,9 +400,9 @@
       "ID": "Sweeter Shooter",
       "SetID": "dene75h",
       "Name": "Sweeter Shooter",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Travel in Style",
@@ -431,8 +431,8 @@
   ],
   "FirstSeen": "2023-08-23T20:58:47.193534+00:00",
   "FirstSeenAchievements": "2023-07-21T10:01:39.9967766+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:08:09.1604203+00:00",
-  "LastUpdate_AppInfo": "2023-09-08T13:56:57.1582501+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:00:09.438659+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:08:09.1604454+00:00"
+  "LastChanged_Achievements": "2023-09-15T15:09:24.2686157+00:00",
+  "LastUpdate_AppInfo": "2023-09-15T14:57:05.5727546+00:00",
+  "LastUpdate_Ratings": "2023-09-15T15:01:26.7068834+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:09:24.2686404+00:00"
 }

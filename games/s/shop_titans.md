@@ -55,6 +55,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 0.50% | ~681 |
 | Trash to Treasure | 0.50% | ~681 |
 | Royal Ransom | 0.50% | ~681 |
+| Miracle Alchemist | 0.50% | ~681 |
 | Seasoned Journeyman | 0.50% | ~681 |
 | Black Friday Special | 0.50% | ~681 |
 | Magical Harmony | 0.50% | ~681 |
@@ -83,7 +84,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fat Cat Tag Team | 0.40% | ~545 |
 | Item of Renown | 0.40% | ~545 |
 | Master Merchant | 0.40% | ~545 |
-| Miracle Alchemist | 0.40% | ~545 |
 | Laden with Loot | 0.40% | ~545 |
 | Bountiful Harvest | 0.40% | ~545 |
 | Precision Engineering | 0.40% | ~545 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,203 (Ranked 68)  
+Progressed: 136,205 (Ranked 68)  
 Completed: 151 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 151 (0.11%) (Ranked 218)
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
 | 2023-09-14 | 136,187 | 151 |
-| 2023-09-15 | 136,203 | 151 |
+| 2023-09-15 | 136,205 | 151 |
 ## Awards
 Max (Great for Beginners): 4,743  (Ranked 71)  
 Sum: 27,230 (Ranked 48)  

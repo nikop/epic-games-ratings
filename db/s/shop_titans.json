@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6040,7 +6040,7 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136203,
+  "EOS_Progressed": 136205,
   "EOS_Completed": 151,
   "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 4,
@@ -21270,6 +21270,11 @@
       "Time": "2023-09-15T14:07:20.5431811+00:00",
       "NumProgressed": 136203,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-15T15:09:13.4279416+00:00",
+      "NumProgressed": 136205,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -21895,9 +21900,9 @@
       "ID": "lilu_a",
       "SetID": "anfd17p",
       "Name": "Miracle Alchemist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 681
     },
     {
       "ID": "loot01",
@@ -22176,15 +22181,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136203,
+      "Progressed": 136205,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-15T07:57:34.491495+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:07:20.5431809+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:09:13.4279412+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:57:44.0810425+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:07:20.5433737+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:58:10.9082315+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:09:13.4281516+00:00"
 }

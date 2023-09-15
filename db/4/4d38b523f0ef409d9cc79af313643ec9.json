@@ -4,8 +4,8 @@
   "ProductSlug": "homeseek-243763",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-14T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T07:00:00+00:00",
@@ -471,8 +471,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-13T12:01:57.9977339+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:03:37.1329009+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:04:08.6958818+00:00",
   "LastUpdate_AppInfo": "2023-09-13T11:56:58.5552693+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:57:38.1807957+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:03:37.1329388+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:58:03.4870504+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:04:08.69592+00:00"
 }

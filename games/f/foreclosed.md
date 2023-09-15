@@ -10,8 +10,8 @@
 | A.I. Training | 50.00% | ~50 |
 | Sniper | 38.00% | ~38 |
 | The Red Herring | 34.00% | ~34 |
-| Telekinesis | 28.00% | ~28 |
-| Sapper | 22.00% | ~22 |
+| Telekinesis | 29.00% | ~29 |
+| Sapper | 23.00% | ~23 |
 | Tough Decision | 19.00% | ~19 |
 | Veteran Sniper | 17.00% | ~17 |
 | Flatline | 17.00% | ~17 |

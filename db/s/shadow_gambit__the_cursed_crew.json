@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 641,
+  "EOS_Progressed": 642,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.34,
   "EosHistory": [
@@ -1699,6 +1699,11 @@
       "Time": "2023-09-15T14:04:30.4806269+00:00",
       "NumProgressed": 641,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-09-15T15:05:19.5500172+00:00",
+      "NumProgressed": 642,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -1717,9 +1722,9 @@
       "ID": "_02_FinishFirstMission",
       "SetID": "8a1io5d",
       "Name": "A New Journey",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 443
     },
     {
       "ID": "_03_FinishAct1",
@@ -1751,7 +1756,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "_07_FinishAct3",
@@ -1775,7 +1780,7 @@
       "Name": "Powder Monkey",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "_10_Completion_30",
@@ -1783,7 +1788,7 @@
       "Name": "Buccaneer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "_11_Completion_40",
@@ -1807,7 +1812,7 @@
       "Name": "Corsair",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "_14_Completion_70",
@@ -1839,7 +1844,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -1918,7 +1923,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 641,
+      "Progressed": 642,
       "Completed": 15
     }
   ],
@@ -1926,8 +1931,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:04:30.4806265+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:05:19.5500169+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:57:54.5180246+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:04:30.4806507+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:58:24.6176128+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:05:19.5500387+00:00"
 }

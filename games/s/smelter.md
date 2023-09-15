@@ -28,13 +28,15 @@
 | Dr. Dreinstein III | 13.00% | ~5 |
 | Fishing for Fissures | 13.00% | ~5 |
 | Case Closed | 13.00% | ~5 |
+| What's Yours Is Mine | 13.00% | ~5 |
 | Scheming Away | 10.00% | ~4 |
+| Eremagu Trial Extraordinaire | 10.00% | ~4 |
+| Scour the Eremagu Domain | 10.00% | ~4 |
 | An Electrifying Personality | 10.00% | ~4 |
 | You did it? You did it! | 10.00% | ~4 |
 | All Beefed Up | 10.00% | ~4 |
 | Isn't It Grand? | 10.00% | ~4 |
 | The Smelter | 10.00% | ~4 |
-| What's Yours Is Mine | 10.00% | ~4 |
 | We're Breaking Up | 10.00% | ~4 |
 | Remains of the Rumbly Lands | 10.00% | ~4 |
 | He Who Smelt It Dealt It | 10.00% | ~4 |
@@ -43,8 +45,6 @@
 | With a Little Help from My Friends | 10.00% | ~4 |
 | Gotta Collect Them All | 8.00% | ~3 |
 | Keeping Things Tidy | 8.00% | ~3 |
-| Eremagu Trial Extraordinaire | 8.00% | ~3 |
-| Scour the Eremagu Domain | 8.00% | ~3 |
 | Back for More? | 8.00% | ~3 |
 | Gurabi Trial Extraordinaire | 8.00% | ~3 |
 | Scour the Gurabi Domain | 8.00% | ~3 |

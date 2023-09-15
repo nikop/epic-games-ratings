@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1350,
+  "EOS_Progressed": 1351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2485,6 +2485,11 @@
       "Time": "2023-09-15T13:12:52.3876589+00:00",
       "NumProgressed": 1350,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T15:08:15.434846+00:00",
+      "NumProgressed": 1351,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2520,7 +2525,7 @@
       "Name": "The Big Bertha",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Boy",
@@ -2576,7 +2581,7 @@
       "Name": "E1M1",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Everyone_is_here",
@@ -2584,7 +2589,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Experienced_strategist",
@@ -2624,7 +2629,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "High_noon",
@@ -2712,7 +2717,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "We_were_not_here",
@@ -2735,15 +2740,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1350,
+      "Progressed": 1351,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:06:44.3586224+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:08:15.4348456+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:58:54.0362858+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:06:44.3586477+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:59:49.0729574+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:08:15.4348734+00:00"
 }

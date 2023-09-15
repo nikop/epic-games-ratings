@@ -1,30 +1,30 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.52 (Ranked 533)  
+Rating: 4.53 (Ranked 519)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~45,410 |
-| Worth it | 63.00% | ~36,677 |
-| Eagle Eye | 55.00% | ~32,020 |
-| Corpseman I | 40.00% | ~23,287 |
-| Blast fishing | 37.00% | ~21,541 |
-| Not alone | 32.00% | ~18,630 |
-| Headhunter I | 26.00% | ~15,137 |
-| Manual Labour I | 25.00% | ~14,554 |
-| Developers, Developers, Developers | 24.00% | ~13,972 |
-| Basic Training | 24.00% | ~13,972 |
-| Furchtlos und Treu | 13.00% | ~7,568 |
-| Gott Mit Uns | 12.00% | ~6,986 |
+| Setting an example | 78.00% | ~45,413 |
+| Worth it | 63.00% | ~36,680 |
+| Eagle Eye | 55.00% | ~32,022 |
+| Corpseman I | 40.00% | ~23,289 |
+| Blast fishing | 37.00% | ~21,542 |
+| Not alone | 32.00% | ~18,631 |
+| Headhunter I | 26.00% | ~15,138 |
+| Manual Labour I | 25.00% | ~14,556 |
+| Developers, Developers, Developers | 24.00% | ~13,973 |
+| Basic Training | 24.00% | ~13,973 |
+| Furchtlos und Treu | 13.00% | ~7,569 |
+| Gott Mit Uns | 12.00% | ~6,987 |
 | This We'll Defend! | 9.00% | ~5,240 |
 | Anker wirf! | 9.00% | ~5,240 |
 | Providentiea Memor | 9.00% | ~5,240 |
 | For King and Country | 9.00% | ~5,240 |
-| Battle hardened | 8.00% | ~4,657 |
-| Semper Fidelis! | 7.00% | ~4,075 |
-| Honneur et Patrie | 7.00% | ~4,075 |
+| Battle hardened | 8.00% | ~4,658 |
+| Semper Fidelis! | 7.00% | ~4,076 |
+| Honneur et Patrie | 7.00% | ~4,076 |
 | In Treue Fest | 5.00% | ~2,911 |
 | Voor De Koning | 5.00% | ~2,911 |
 | Extreme Headhunter | 5.00% | ~2,911 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~58 |
 | Blood Brother | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,218 (Ranked 90)  
+Progressed: 58,222 (Ranked 90)  
 Completed: 4 (0.01%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 4 (0.01%) (Ranked 261)
 | 2023-09-12 | 58,015 | 4 |
 | 2023-09-13 | 58,095 | 4 |
 | 2023-09-14 | 58,174 | 4 |
-| 2023-09-15 | 58,218 | 4 |
+| 2023-09-15 | 58,222 | 4 |
 ## Awards
 Max (Highly Recommended): 97  (Ranked 345)  
 Sum: 774 (Ranked 268)  
@@ -371,3 +371,4 @@ Diff (max vs sum): 77
 | 2023-09-05 | 4.52 | - | 96 | 772 |
 | 2023-09-13 | 4.52 | - | 96 | 773 |
 | 2023-09-14 | 4.52 | - | 97 | 774 |
+| 2023-09-15 | 4.53 | - | 97 | 774 |

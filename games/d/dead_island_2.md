@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 2.00% | ~13,601 |
-| Break A Leg | 2.00% | ~13,601 |
-| Coup de Grâce | 2.00% | ~13,601 |
-| Hazardous Materials | 2.00% | ~13,601 |
-| Hotel California | 2.00% | ~13,601 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,601 |
-| Welcome To Hell-A | 2.00% | ~13,601 |
+| Git Gutte! | 2.00% | ~13,602 |
+| Break A Leg | 2.00% | ~13,602 |
+| Coup de Grâce | 2.00% | ~13,602 |
+| Hazardous Materials | 2.00% | ~13,602 |
+| Hotel California | 2.00% | ~13,602 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,602 |
+| Welcome To Hell-A | 2.00% | ~13,602 |
 | Dr. Reed, I Presume? | 1.00% | ~6,801 |
 | Anger Management | 1.00% | ~6,801 |
 | Perks of the Job | 1.00% | ~6,801 |
@@ -30,11 +30,11 @@ Rating: 4.54 (Ranked 503)
 | Stacking the Deck | 1.00% | ~6,801 |
 | Our True Nature | 1.00% | ~6,801 |
 | This is My Weapon | 1.00% | ~6,801 |
-| Making Your Mark | 0.80% | ~5,440 |
-| Humanity Distilled | 0.80% | ~5,440 |
-| Down with the Sickness | 0.80% | ~5,440 |
-| Max Headroom | 0.70% | ~4,760 |
-| Go, Bobcats! | 0.60% | ~4,080 |
+| Making Your Mark | 0.80% | ~5,441 |
+| Humanity Distilled | 0.80% | ~5,441 |
+| Down with the Sickness | 0.80% | ~5,441 |
+| Max Headroom | 0.70% | ~4,761 |
+| Go, Bobcats! | 0.60% | ~4,081 |
 | Smorgasbord | 0.50% | ~3,400 |
 | Jumbo Keyring | 0.50% | ~3,400 |
 | Rising Star | 0.50% | ~3,400 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 503)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,058 (Ranked 22)  
+Progressed: 680,093 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,10 +199,10 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
-| 2023-09-15 | 680,058 | 2,143 |
+| 2023-09-15 | 680,093 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,061  (Ranked 57)  
-Sum: 8,979 (Ranked 94)  
+Sum: 8,982 (Ranked 94)  
 Diff (max vs sum): -37  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): -37
 | This game is Relaxing | 376 |
 | This game has Amazing Storytelling | 351 |
 | This game is Extremely Fun | 335 |
-| This game has Amazing Characters | 322 |
+| This game has Amazing Characters | 325 |
 | This game is Highly Recommended | 320 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -365,4 +365,4 @@ Diff (max vs sum): -37
 | 2023-09-12 | 4.54 | 6,016 | 8,905 |
 | 2023-09-13 | 4.54 | 6,027 | 8,924 |
 | 2023-09-14 | 4.54 | 6,038 | 8,954 |
-| 2023-09-15 | 4.54 | 6,061 | 8,979 |
+| 2023-09-15 | 4.54 | 6,061 | 8,982 |

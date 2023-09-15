@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4047,
+  "EOS_Progressed": 4049,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6509,6 +6509,11 @@
       "Time": "2023-09-15T13:12:43.0375984+00:00",
       "NumProgressed": 4047,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-15T15:08:05.9305039+00:00",
+      "NumProgressed": 4049,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6630,9 +6635,9 @@
       "ID": "Ach015",
       "SetID": "12n4k20",
       "Name": "Thanks for the free chip, Peppermint!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 405
     },
     {
       "ID": "Ach016",
@@ -7087,13 +7092,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4047,
+      "Progressed": 4049,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2568,
+      "Progressed": 2570,
       "Completed": 1929
     }
   ],
@@ -7101,8 +7106,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:06:36.7418233+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:08:05.9305029+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:57:29.6223611+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:06:36.7419123+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:57:47.4343064+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:08:05.93059+00:00"
 }

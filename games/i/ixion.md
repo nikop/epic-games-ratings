@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 485)
 | I Give You the Stars | 0.10% | ~1 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,165 (Ranked 168)  
+Progressed: 3,165 (Ranked 170)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |

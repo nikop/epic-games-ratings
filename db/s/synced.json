@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -136,9 +136,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44455,
+  "EOS_Progressed": 44637,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43523,
+  "EOS_NewPlayers": 43278,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1121,6 +1121,11 @@
       "Time": "2023-09-15T14:04:33.1100347+00:00",
       "NumProgressed": 44455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T15:05:23.1469205+00:00",
+      "NumProgressed": 44637,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -1133,7 +1138,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2232
     },
     {
       "ID": "10",
@@ -1141,7 +1146,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "11",
@@ -1157,7 +1162,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "13",
@@ -1173,7 +1178,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "15",
@@ -1181,7 +1186,7 @@
       "Name": "Gone Rogue",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "16",
@@ -1189,7 +1194,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "2",
@@ -1197,7 +1202,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1339
     },
     {
       "ID": "3",
@@ -1205,7 +1210,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 889
+      "UsersEstimate": 893
     },
     {
       "ID": "4",
@@ -1213,7 +1218,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "5",
@@ -1221,7 +1226,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 402
     },
     {
       "ID": "6",
@@ -1229,7 +1234,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "7",
@@ -1245,7 +1250,7 @@
       "Name": "Runs for Your Money",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "9",
@@ -1253,14 +1258,14 @@
       "Name": "Past Master",
       "Percentage": 0.1,
       "XP": 200,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 44455,
+      "Progressed": 44637,
       "Completed": 0
     }
   ],
@@ -1268,8 +1273,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-09-15T06:57:24.326748+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:04:33.1100344+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:05:23.1469201+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:18.7471127+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:57:32.1242797+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:04:33.1100473+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:57:51.1724377+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:05:23.1469348+00:00"
 }

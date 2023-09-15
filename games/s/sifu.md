@@ -8,12 +8,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 0.20% | ~1,430 |
 | The Assault | 0.20% | ~1,430 |
+| The Hateful Pole Fighter | 0.20% | ~1,430 |
 | Life is your teacher | 0.20% | ~1,430 |
 | State of constant learning | 0.20% | ~1,430 |
 | Lightning Hands | 0.20% | ~1,430 |
 | Diligence as a goal | 0.20% | ~49 |
 | Fight the way you practice | 0.20% | ~49 |
-| The Hateful Pole Fighter | 0.10% | ~715 |
 | A Lady's Blood in the Snow | 0.10% | ~715 |
 | Lady Wing Chun | 0.10% | ~715 |
 | Furious Fists | 0.10% | ~715 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Beatmaker | 0.10% | ~24 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,990 (Ranked 20)  
+Progressed: 714,992 (Ranked 20)  
 Completed: 12,892 (1.80%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 12,892 (1.80%) (Ranked 101)
 | 2023-09-12 | 714,851 | 12,891 |
 | 2023-09-13 | 714,933 | 12,891 |
 | 2023-09-14 | 714,971 | 12,892 |
-| 2023-09-15 | 714,990 | 12,892 |
+| 2023-09-15 | 714,992 | 12,892 |
 ## Awards
 Max (Great Boss Battles): 6,501  (Ranked 53)  
 Sum: 11,235 (Ranked 81)  

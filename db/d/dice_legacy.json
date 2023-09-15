@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -44,9 +44,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1044,
+  "EOS_Progressed": 1045,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1599,6 +1599,11 @@
       "Time": "2023-09-15T08:03:28.4571401+00:00",
       "NumProgressed": 1044,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T15:03:38.7521195+00:00",
+      "NumProgressed": 1045,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -1816,9 +1821,9 @@
       "ID": "RUIN_CLEAR",
       "SetID": "6ohhfoc",
       "Name": "Hidden Secrets",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 42
     },
     {
       "ID": "SUMMON_BOSS",
@@ -1834,7 +1839,7 @@
       "Name": "We made it",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -1969,7 +1974,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1044,
+      "Progressed": 1045,
       "Completed": 0
     }
   ],
@@ -1977,8 +1982,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:03:22.0844369+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:03:38.7521191+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:14.8991309+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:57:02.13809+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:03:22.0844762+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:57:14.5227653+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:03:38.7521563+00:00"
 }

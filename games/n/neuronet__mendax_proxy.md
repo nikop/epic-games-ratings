@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 65.00% | ~15 |
-| Hello World | 61.00% | ~14 |
-| I Think, Therefore I Am | 61.00% | ~14 |
-| The Real Beginning | 61.00% | ~14 |
-| Shook Up | 52.00% | ~12 |
-| The Birds and the Bees | 52.00% | ~12 |
-| Vaccinated | 52.00% | ~12 |
-| Busybody | 43.00% | ~10 |
-| Task Master | 43.00% | ~10 |
-| An Acquired Taste | 39.00% | ~9 |
-| A Light in the Dark | 39.00% | ~9 |
-| The Guardian | 39.00% | ~9 |
-| Endgame | 39.00% | ~9 |
-| The Philosopher | 39.00% | ~9 |
-| The Partner | 39.00% | ~9 |
-| Socially Acceptable Insanity | 39.00% | ~9 |
-| The Companion | 39.00% | ~9 |
-| The Counsellor | 39.00% | ~9 |
-| Warning: Fragile | 39.00% | ~9 |
-| A Real Headache | 35.00% | ~8 |
-| A Total Riot | 30.00% | ~7 |
-| Blood Begets Blood | 30.00% | ~7 |
-| Everyone Needs a Break | 30.00% | ~7 |
-| Knock Knock | 30.00% | ~7 |
-| They Flock to Him | 30.00% | ~7 |
-| Full Coverage | 26.00% | ~6 |
-| That One Doesn't Count | 26.00% | ~6 |
-| Job Creator | 22.00% | ~5 |
-| Quidnunc | 22.00% | ~5 |
-| Social Butterfly | 22.00% | ~5 |
-| Zonk! | 22.00% | ~5 |
+| First Day of the Rest of Your Life | 67.00% | ~16 |
+| Hello World | 63.00% | ~15 |
+| I Think, Therefore I Am | 58.00% | ~14 |
+| The Real Beginning | 58.00% | ~14 |
+| Shook Up | 50.00% | ~12 |
+| The Birds and the Bees | 50.00% | ~12 |
+| Vaccinated | 50.00% | ~12 |
+| Busybody | 42.00% | ~10 |
+| Task Master | 42.00% | ~10 |
+| An Acquired Taste | 38.00% | ~9 |
+| A Light in the Dark | 38.00% | ~9 |
+| The Guardian | 38.00% | ~9 |
+| Endgame | 38.00% | ~9 |
+| The Philosopher | 38.00% | ~9 |
+| The Partner | 38.00% | ~9 |
+| Socially Acceptable Insanity | 38.00% | ~9 |
+| The Companion | 38.00% | ~9 |
+| The Counsellor | 38.00% | ~9 |
+| Warning: Fragile | 38.00% | ~9 |
+| A Real Headache | 33.00% | ~8 |
+| A Total Riot | 29.00% | ~7 |
+| Blood Begets Blood | 29.00% | ~7 |
+| Everyone Needs a Break | 29.00% | ~7 |
+| Knock Knock | 29.00% | ~7 |
+| That One Doesn't Count | 29.00% | ~7 |
+| They Flock to Him | 29.00% | ~7 |
+| Full Coverage | 25.00% | ~6 |
+| Job Creator | 21.00% | ~5 |
+| Quidnunc | 21.00% | ~5 |
+| Social Butterfly | 21.00% | ~5 |
+| Zonk! | 21.00% | ~5 |
 | A Little Eccentric | 17.00% | ~4 |
 | Leave It to the Professionals | 17.00% | ~4 |
 | Obligatory Fraudulent Baking | 17.00% | ~4 |
@@ -44,8 +44,8 @@
 | The Mentor | 13.00% | ~3 |
 | Tastes Like Regret | 13.00% | ~3 |
 | The Spice of Life | 13.00% | ~3 |
-| What They Don't Know Can't Hurt Them | 9.00% | ~2 |
-| Wilful Ignorance | 9.00% | ~2 |
+| What They Don't Know Can't Hurt Them | 8.00% | ~2 |
+| Wilful Ignorance | 8.00% | ~2 |
 | Couldn't Have Planned It Better Myself | 4.00% | ~1 |
 | Double Agent | 4.00% | ~1 |
 | Keeper of the People | 4.00% | ~1 |
@@ -53,7 +53,7 @@
 | The Surrogate | 0.00% | ~0 |
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 437)  
+Progressed: 24 (Ranked 435)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,6 +71,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-07-19 | 20 | 0 |
 | 2023-09-12 | 21 | 0 |
 | 2023-09-13 | 23 | 0 |
+| 2023-09-15 | 24 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

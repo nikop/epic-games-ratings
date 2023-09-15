@@ -3,12 +3,12 @@
   "Name": "Might and Magic: Heroes VII - Ultimate Edition",
   "ProductSlug": "might-and-magic-heroes-7",
   "Ranking_Rating": 649,
-  "Ranking_Popularity": 455,
+  "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2020-08-25T15:00:00+00:00",
     "PcReleaseDate": "2015-09-29T08:00:00+00:00",
@@ -667,18 +667,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 205,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-09-15T14:58:21.9614493+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 206,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 205,
-  "NumberOfAwardsMax": 33,
+  "NumberOfAwards": 206,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Extremely Fun",
@@ -734,8 +740,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2023-09-14T22:57:56.3569687+00:00",
+  "LastChanged": "2023-09-15T14:58:21.9614492+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:48.5780425+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:57:52.6763539+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:05:27.0189386+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:58:21.9614497+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:06:32.9752041+00:00"
 }

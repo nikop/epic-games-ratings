@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tall Tales | 0.20% | ~390 |
 | The Witchlight Carnival | 0.20% | ~390 |
 | Thieves of the Coven | 0.20% | ~390 |
+| Hither of the Feywild | 0.20% | ~390 |
 | The Silken Swamp | 0.20% | ~458 |
 | Wet Feet | 0.20% | ~458 |
 | Supply Run | 0.20% | ~458 |
@@ -93,7 +94,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Sticky Fingers | 0.10% | ~195 |
 | Patron Party | 0.10% | ~195 |
 | Go Fourth | 0.10% | ~195 |
-| Hither of the Feywild | 0.10% | ~195 |
 | Don't Breathe the Marsh Gas | 0.10% | ~195 |
 | Don't Blast the Brigands | 0.10% | ~195 |
 | Don't Squeeze the Spiders | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,864 (Ranked 55)  
+Progressed: 228,868 (Ranked 55)  
 Completed: 2,283 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -675,7 +675,7 @@ Completed: 2,283 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,864 | 2,283 |
+| 2023-09-15 | 228,868 | 2,283 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
 Sum: 31,592 (Ranked 39)  

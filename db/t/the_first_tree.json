@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -244,7 +244,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35874,
+  "EOS_Progressed": 35875,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
@@ -13369,6 +13369,11 @@
       "Time": "2023-09-15T14:06:19.1025803+00:00",
       "NumProgressed": 35874,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2023-09-15T15:07:42.7923325+00:00",
+      "NumProgressed": 35875,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 14,
@@ -13388,7 +13393,7 @@
       "Name": "150 Stars",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "50stars",
@@ -13396,7 +13401,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9327
+      "UsersEstimate": 9328
     },
     {
       "ID": "allItems",
@@ -13404,7 +13409,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "allSecrets",
@@ -13412,7 +13417,7 @@
       "Name": "No Stone Left Unturned",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "bigBunny",
@@ -13444,7 +13449,7 @@
       "Name": "Deja Vu",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ending",
@@ -13460,7 +13465,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 8968
+      "UsersEstimate": 8969
     },
     {
       "ID": "firstItem",
@@ -13468,7 +13473,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 27623
+      "UsersEstimate": 27624
     },
     {
       "ID": "roots",
@@ -13491,15 +13496,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 35874,
+      "Progressed": 35875,
       "Completed": 109
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-07-24T04:01:31.3679912+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:06:19.1025797+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:07:42.7923322+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.9001384+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:59:35.2177307+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:06:19.1026498+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:00:44.5893606+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:07:42.7924014+00:00"
 }

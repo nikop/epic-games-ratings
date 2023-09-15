@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -6300,9 +6300,9 @@
       "Count": 385
     }
   ],
-  "EOS_Progressed": 714990,
+  "EOS_Progressed": 714992,
   "EOS_Completed": 12892,
-  "EOS_NewPlayers": 1403,
+  "EOS_NewPlayers": 1380,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -19975,6 +19975,11 @@
       "Time": "2023-09-15T14:05:10.2887104+00:00",
       "NumProgressed": 714990,
       "NumCompleted": 12892
+    },
+    {
+      "Time": "2023-09-15T15:06:11.5170973+00:00",
+      "NumProgressed": 714992,
+      "NumCompleted": 12892
     }
   ],
   "TotalAchievements": 60,
@@ -20000,9 +20005,9 @@
       "ID": "03_Vengeance_H2",
       "SetID": "adcm20g",
       "Name": "The Hateful Pole Fighter",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 1430
     },
     {
       "ID": "04_Vengeance_H3",
@@ -20465,21 +20470,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 24291,
+      "Progressed": 24293,
       "Completed": 10625
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 714990,
+      "Progressed": 714992,
       "Completed": 12892
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-09-15T11:59:21.7862346+00:00",
-  "LastChanged_Achievements": "2023-09-15T14:05:10.28871+00:00",
+  "LastChanged_Achievements": "2023-09-15T15:06:11.517097+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.7541411+00:00",
-  "LastUpdate_Ratings": "2023-09-15T13:58:50.0477305+00:00",
-  "LastUpdate_Achievements": "2023-09-15T14:05:10.2888208+00:00"
+  "LastUpdate_Ratings": "2023-09-15T14:59:42.2847017+00:00",
+  "LastUpdate_Achievements": "2023-09-15T15:06:11.5172071+00:00"
 }
