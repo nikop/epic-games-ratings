@@ -6028,9 +6028,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136187,
+  "EOS_Progressed": 136189,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21203,6 +21203,11 @@
       "Time": "2023-09-14T23:08:58.5523411+00:00",
       "NumProgressed": 136187,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-15T01:49:45.089387+00:00",
+      "NumProgressed": 136189,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -21350,7 +21355,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "boss02",
@@ -21454,7 +21459,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "commonres03",
@@ -21486,7 +21491,7 @@
       "Name": "Flooding the Market",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "craft03",
@@ -21518,7 +21523,7 @@
       "Name": "Where it Hurts",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "damage02",
@@ -21838,7 +21843,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "loot02",
@@ -22109,15 +22114,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136187,
+      "Progressed": 136189,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-14T13:57:26.7031757+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:08:12.8140467+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:49:45.0893866+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:57:42.1101486+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:08:12.8142874+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:40:09.2730729+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:49:45.0895891+00:00"
 }

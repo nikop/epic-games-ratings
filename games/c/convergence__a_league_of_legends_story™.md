@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 867 (Ranked 216)  
+Progressed: 867 (Ranked 217)  
 Completed: 5 (0.58%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |

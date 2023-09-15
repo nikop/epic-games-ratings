@@ -5,28 +5,28 @@ Rating: 4.41 (Ranked 689)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 93.00% | ~1,323 |
-| Ranidaphobia | 78.00% | ~1,110 |
-| Aspiring Editor | 75.00% | ~1,067 |
-| Gun for Hire | 70.00% | ~996 |
+| First Blood | 93.00% | ~1,324 |
+| Ranidaphobia | 78.00% | ~1,111 |
+| Aspiring Editor | 75.00% | ~1,068 |
+| Gun for Hire | 70.00% | ~997 |
 | I am the law! | 64.00% | ~911 |
-| Lumberjack | 53.00% | ~754 |
-| Croaked | 48.00% | ~683 |
-| Limp Richard | 48.00% | ~683 |
+| Lumberjack | 53.00% | ~755 |
+| Croaked | 48.00% | ~684 |
+| Limp Richard | 48.00% | ~684 |
 | Editor Adept | 47.00% | ~669 |
 | Exorcist | 47.00% | ~669 |
 | From Darkness to Light | 47.00% | ~669 |
-| Giant Killer | 45.00% | ~640 |
+| Giant Killer | 45.00% | ~641 |
 | Sensei | 43.00% | ~612 |
 | Firestarter | 42.00% | ~598 |
-| The meaning of Kain | 41.00% | ~583 |
-| Technophobe | 40.00% | ~569 |
+| The meaning of Kain | 41.00% | ~584 |
+| Technophobe | 40.00% | ~570 |
 | Recycler | 39.00% | ~555 |
-| Are you not entertained? | 35.00% | ~498 |
+| Are you not entertained? | 34.00% | ~484 |
 | Ganglord | 34.00% | ~484 |
 | Jarhead | 34.00% | ~484 |
 | Infiltrator | 34.00% | ~484 |
-| Pushing Daisy | 32.00% | ~455 |
+| Pushing Daisy | 32.00% | ~456 |
 | Experienced | 31.00% | ~441 |
 | Hold The Line | 30.00% | ~427 |
 | Endgame | 27.00% | ~384 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 689)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,423 (Ranked 197)  
+Progressed: 1,424 (Ranked 197)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 1,416 | 0 |
 | 2023-09-13 | 1,420 | 0 |
 | 2023-09-14 | 1,423 | 0 |
+| 2023-09-15 | 1,424 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

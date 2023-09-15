@@ -14,9 +14,9 @@ Number of Ratings: 285  (23.09.2022)
 | Flawless Victory | 1.00% | ~19 |
 | Hit 'Em Where It Hurts | 1.00% | ~19 |
 | Mushroom Madness! | 1.00% | ~19 |
-| Perk Shard Punch Card | 1.00% | ~19 |
 | Ten Steps from the Grave | 1.00% | ~19 |
 | Horder Better Faster Stronger | 0.90% | ~17 |
+| Perk Shard Punch Card | 0.90% | ~17 |
 | Cold-Blooded Critters | 0.80% | ~15 |
 | Deadication | 0.80% | ~15 |
 | Everything Must Go! | 0.80% | ~15 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | We've Got a Kaiju on the Field | 0.20% | ~4 |
 | Deadalus and Loving It | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,886 (Ranked 185)  
+Progressed: 1,899 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 1,507 | 0 |
 | 2023-09-13 | 1,711 | 0 |
 | 2023-09-14 | 1,880 | 0 |
-| 2023-09-15 | 1,886 | 0 |
+| 2023-09-15 | 1,899 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 355)  

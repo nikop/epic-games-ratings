@@ -900,9 +900,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224062,
+  "EOS_Progressed": 224068,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2032,
+  "EOS_NewPlayers": 2019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10890,6 +10890,11 @@
       "Time": "2023-09-15T00:08:30.5853265+00:00",
       "NumProgressed": 224062,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-15T01:50:13.8743526+00:00",
+      "NumProgressed": 224068,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -11301,7 +11306,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8962
+      "UsersEstimate": 8963
     },
     {
       "ID": "DwarfElf15Support",
@@ -11349,7 +11354,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67219
+      "UsersEstimate": 67220
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11421,7 +11426,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "KillDungeonLich",
@@ -11507,9 +11512,9 @@
       "ID": "QuestPaladine",
       "SetID": "50chcgj",
       "Name": "L\u00EBgal Legend",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 896
+      "UsersEstimate": 1120
     },
     {
       "ID": "QuestPriestess",
@@ -11604,21 +11609,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224062,
+      "Progressed": 224068,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224062,
+      "Progressed": 224068,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-14T14:57:58.9453258+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:08:30.5853261+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:50:13.8743523+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:57:55.8743872+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:08:30.5854882+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:40:23.8915461+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:50:13.8744925+00:00"
 }

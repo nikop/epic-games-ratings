@@ -22,11 +22,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 0.90% | ~1,226 |
 | One-Armed Bandit | 0.90% | ~1,226 |
 | Through Repetition, Perfection | 0.90% | ~1,226 |
-| Bounty Hunters | 0.80% | ~1,089 |
-| Demand for Supplies | 0.80% | ~1,089 |
-| Flooding the Market | 0.80% | ~1,089 |
-| Where it Hurts | 0.80% | ~1,089 |
-| Dungeon Imports | 0.80% | ~1,089 |
+| Bounty Hunters | 0.80% | ~1,090 |
+| Demand for Supplies | 0.80% | ~1,090 |
+| Flooding the Market | 0.80% | ~1,090 |
+| Where it Hurts | 0.80% | ~1,090 |
+| Dungeon Imports | 0.80% | ~1,090 |
 | Blank Page Syndrome | 0.70% | ~953 |
 | Gild-Gotten Goods | 0.70% | ~953 |
 | Accomplished Merchant | 0.70% | ~953 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,187 (Ranked 68)  
+Progressed: 136,189 (Ranked 68)  
 Completed: 151 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,6 +267,7 @@ Completed: 151 (0.11%) (Ranked 218)
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
 | 2023-09-14 | 136,187 | 151 |
+| 2023-09-15 | 136,189 | 151 |
 ## Awards
 Max (Great for Beginners): 4,741  (Ranked 71)  
 Sum: 27,227 (Ranked 48)  

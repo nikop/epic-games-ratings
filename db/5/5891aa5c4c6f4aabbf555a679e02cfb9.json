@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -378,9 +378,9 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "b36c5kb",
       "Name": "The Team Psychologist",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -658,9 +658,9 @@
       "ID": "ACHIEVEMENT_43",
       "SetID": "b36c5kb",
       "Name": "Kick, Shoot, Burn",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -737,8 +737,8 @@
   ],
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:05:43.6184803+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:48:03.4654999+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:02.5081406+00:00",
-  "LastUpdate_Ratings": "2023-09-15T00:00:03.1639881+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:05:43.6185354+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:42:38.6264109+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:48:03.4655371+00:00"
 }

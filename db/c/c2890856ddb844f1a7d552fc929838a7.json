@@ -5,9 +5,9 @@
   "Ranking_Rating": 42,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -1680,9 +1680,9 @@
       "ID": "AC24",
       "SetID": "l4abp0",
       "Name": "The Work of a Master",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 180
     },
     {
       "ID": "AC25",
@@ -1736,9 +1736,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 329
     },
     {
       "ID": "AC32",
@@ -1865,8 +1865,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-14T19:00:23.2645887+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:05:46.3687021+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:48:06.2888953+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-15T00:00:09.6154662+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:05:46.3687615+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:42:44.248282+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:48:06.2889318+00:00"
 }

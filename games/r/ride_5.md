@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Love | 40.00% | ~320 |
-| Clean Race | 38.00% | ~304 |
-| Hear That Roar! | 37.00% | ~296 |
-| Eat My Dust | 33.00% | ~264 |
-| Rivals to the End | 29.00% | ~232 |
-| We're Going to Need a Bigger Garage | 25.00% | ~200 |
-| I'm Here Too! | 24.00% | ~192 |
-| Bitter Rivalry | 20.00% | ~160 |
-| I Want One Too! | 17.00% | ~136 |
-| Restored and Ready | 16.00% | ~128 |
+| First Love | 40.00% | ~321 |
+| Clean Race | 38.00% | ~305 |
+| Hear That Roar! | 37.00% | ~297 |
+| Eat My Dust | 33.00% | ~265 |
+| Rivals to the End | 29.00% | ~233 |
+| We're Going to Need a Bigger Garage | 25.00% | ~201 |
+| I'm Here Too! | 24.00% | ~193 |
+| Bitter Rivalry | 20.00% | ~161 |
+| I Want One Too! | 17.00% | ~137 |
 | Quick Pit Stop | 16.00% | ~128 |
 | Champagne Spray | 16.00% | ~128 |
+| Restored and Ready | 15.00% | ~120 |
 | Go-Faster Stripes | 14.00% | ~112 |
 | Legendary!!! | 14.00% | ~112 |
 | We've Just Begun | 7.00% | ~56 |
@@ -31,21 +31,21 @@
 | The Road to Liberty | 2.00% | ~16 |
 | Romantic Races | 2.00% | ~16 |
 | I Make the Rules! | 2.00% | ~16 |
-| Rounding Off | 2.00% | ~16 |
-| My Work Here Is Done | 2.00% | ~16 |
 | I'll Be the Best! | 1.00% | ~8 |
+| Rounding Off | 1.00% | ~8 |
+| My Work Here Is Done | 1.00% | ~8 |
 | Overtaking the Master | 1.00% | ~8 |
 | Exhausted but Happy | 0.90% | ~7 |
-| Back in Blighty | 0.80% | ~6 |
+| Back in Blighty | 0.70% | ~6 |
 | I Don't Stop | 0.60% | ~5 |
 | Next Level | 0.50% | ~4 |
 | Globe-trotter | 0.40% | ~3 |
-| Maximum Endurance | 0.30% | ~2 |
-| Full Power | 0.30% | ~2 |
-| At the Top | 0.30% | ~2 |
-| In Search of Perfection | 0.30% | ~2 |
-| There's a Great View up Here | 0.30% | ~2 |
-| Absolute Champion | 0.30% | ~2 |
+| Maximum Endurance | 0.20% | ~2 |
+| Full Power | 0.20% | ~2 |
+| At the Top | 0.20% | ~2 |
+| In Search of Perfection | 0.20% | ~2 |
+| There's a Great View up Here | 0.20% | ~2 |
+| Absolute Champion | 0.20% | ~2 |
 | Beyond the Limiter | 0.10% | ~1 |
 | All My Own Toys | 0.10% | ~1 |
 | Endless | 0.10% | ~1 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800 (Ranked 219)  
+Progressed: 803 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,3 +68,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 717 | 0 |
 | 2023-09-13 | 756 | 0 |
 | 2023-09-14 | 800 | 0 |
+| 2023-09-15 | 803 | 0 |

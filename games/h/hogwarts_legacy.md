@@ -5,18 +5,18 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,525 |
-| First Class Student | 13.00% | ~38,559 |
-| A Keen Sense of Spell | 12.00% | ~35,593 |
-| Troll with the Punches | 12.00% | ~35,593 |
-| That's a Keeper | 11.00% | ~32,627 |
-| Grappling with a Graphorn | 10.00% | ~29,661 |
-| The One Who Mastered Memories | 10.00% | ~29,661 |
-| The Hallowed Hero | 10.00% | ~29,661 |
-| The Defender of Dragons | 10.00% | ~29,661 |
-| Loom for Improvement | 10.00% | ~29,661 |
-| A Talent for Spending | 10.00% | ~29,661 |
-| Coasting Along | 10.00% | ~29,661 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,526 |
+| First Class Student | 13.00% | ~38,560 |
+| A Keen Sense of Spell | 12.00% | ~35,594 |
+| Troll with the Punches | 12.00% | ~35,594 |
+| That's a Keeper | 11.00% | ~32,628 |
+| Grappling with a Graphorn | 10.00% | ~29,662 |
+| The One Who Mastered Memories | 10.00% | ~29,662 |
+| The Hallowed Hero | 10.00% | ~29,662 |
+| The Defender of Dragons | 10.00% | ~29,662 |
+| Loom for Improvement | 10.00% | ~29,662 |
+| A Talent for Spending | 10.00% | ~29,662 |
+| Coasting Along | 10.00% | ~29,662 |
 | The Hero of Hogwarts | 9.00% | ~26,695 |
 | Challenge Accepted | 9.00% | ~26,695 |
 | Followed the Butterflies | 9.00% | ~26,695 |
@@ -28,15 +28,15 @@ Rating: 4.77 (Ranked 109)
 | Flight the Good Flight | 7.00% | ~20,763 |
 | The Seeker of Knowledge | 6.00% | ~17,797 |
 | Raising Expectations | 6.00% | ~17,797 |
-| The Root of the Problem | 5.00% | ~14,830 |
-| Third Time's a Charm | 5.00% | ~14,830 |
-| The Ends Petrify the Means | 5.00% | ~14,830 |
-| The Toast of the Town | 4.00% | ~11,864 |
-| Going Through the Potions | 4.00% | ~11,864 |
-| Room with a View | 4.00% | ~11,864 |
-| The Intrepid Explorer | 4.00% | ~11,864 |
-| The Gryffindor in the Graveyard | 4.00% | ~11,864 |
-| The Wise Owl | 4.00% | ~11,864 |
+| The Root of the Problem | 5.00% | ~14,831 |
+| Third Time's a Charm | 5.00% | ~14,831 |
+| The Ends Petrify the Means | 5.00% | ~14,831 |
+| The Toast of the Town | 4.00% | ~11,865 |
+| Going Through the Potions | 4.00% | ~11,865 |
+| Room with a View | 4.00% | ~11,865 |
+| The Intrepid Explorer | 4.00% | ~11,865 |
+| The Gryffindor in the Graveyard | 4.00% | ~11,865 |
+| The Wise Owl | 4.00% | ~11,865 |
 | Floo Around the World | 3.00% | ~8,898 |
 | The Good Samaritan | 2.00% | ~5,932 |
 | Put Down Roots | 2.00% | ~5,932 |
@@ -46,12 +46,12 @@ Rating: 4.77 (Ranked 109)
 | Savvy Spender | 1.00% | ~2,966 |
 | Demiguise Dread | 1.00% | ~2,966 |
 | A Forte for Achievement | 1.00% | ~2,966 |
-| Merlin's Beard! | 0.90% | ~2,669 |
+| Merlin's Beard! | 0.90% | ~2,670 |
 | Spilled Milk | 0.80% | ~2,373 |
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,610 (Ranked 43)  
+Progressed: 296,615 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,10 +199,10 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-12 | 296,501 | 470 |
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
-| 2023-09-15 | 296,610 | 470 |
+| 2023-09-15 | 296,615 | 470 |
 ## Awards
 Max (Character Customization): 22,661  (Ranked 17)  
-Sum: 43,272 (Ranked 30)  
+Sum: 43,276 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -217,7 +217,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 975 |
 | This game has Quickly Understood Controls | 911 |
 | This game has Beautiful Visuals | 846 |
-| This game has a Creative Community | 643 |
+| This game has a Creative Community | 647 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -396,3 +396,4 @@ Diff (max vs sum): -13
 | 2023-09-12 | 4.77 | 22,582 | 43,090 |
 | 2023-09-13 | 4.77 | 22,630 | 43,189 |
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
+| 2023-09-15 | 4.77 | 22,661 | 43,276 |

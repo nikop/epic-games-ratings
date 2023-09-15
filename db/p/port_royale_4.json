@@ -5,9 +5,9 @@
   "Ranking_Rating": 939,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 215,
+  "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -240,7 +240,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -2005,6 +2005,11 @@
       "Time": "2023-09-14T13:09:23.9928671+00:00",
       "NumProgressed": 882,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T01:46:25.0822032+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2016,7 +2021,7 @@
       "Name": "Cabin boy",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ACH001",
@@ -2024,7 +2029,7 @@
       "Name": "Seafarer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH002",
@@ -2032,7 +2037,7 @@
       "Name": "Conquistador",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH003",
@@ -2072,7 +2077,7 @@
       "Name": "My little farm",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "ACH008",
@@ -2104,7 +2109,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH012",
@@ -2120,7 +2125,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH014",
@@ -2136,7 +2141,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH016",
@@ -2246,9 +2251,9 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 326
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH030",
@@ -2320,7 +2325,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ACH039",
@@ -2368,7 +2373,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH045",
@@ -2415,15 +2420,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:04:07.4729456+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:46:25.0821987+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:40.1572291+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:58:02.0978443+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:04:07.4730005+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:40:28.822524+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:46:25.0822446+00:00"
 }

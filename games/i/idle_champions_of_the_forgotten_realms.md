@@ -14,6 +14,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.30% | ~686 |
 | Were-verpowered | 0.30% | ~686 |
 | A Persistent Buzzing | 0.30% | ~686 |
+| Terror in the Dark | 0.30% | ~686 |
 | A Mysterious Summons | 0.30% | ~686 |
 | Building Trust | 0.30% | ~686 |
 | The Crumbling Temple | 0.30% | ~686 |
@@ -35,7 +36,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dread Domain of Tovag | 0.20% | ~390 |
 | Homecoming | 0.20% | ~458 |
 | Beast Mode | 0.20% | ~458 |
-| Terror in the Dark | 0.20% | ~458 |
 | Low Initiative | 0.20% | ~458 |
 | Street War | 0.20% | ~458 |
 | March of the Undead | 0.20% | ~458 |
@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.20% | ~458 |
 | The Botched Kidnapping | 0.20% | ~458 |
 | Tower on the Lake | 0.20% | ~458 |
+| Seeds of Deceit | 0.20% | ~458 |
 | Trollskull Manor | 0.20% | ~458 |
 | Attack on the Manor | 0.20% | ~458 |
 | The Death Curse | 0.20% | ~458 |
@@ -238,7 +239,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.10% | ~229 |
 | Shorty's Day Off | 0.10% | ~229 |
 | Intelligence Hunt | 0.10% | ~229 |
-| Seeds of Deceit | 0.10% | ~229 |
 | Visions of Strahd | 0.10% | ~229 |
 | Seeds of Corruption | 0.10% | ~229 |
 | The Strahd Squad | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,805 (Ranked 55)  
+Progressed: 228,810 (Ranked 55)  
 Completed: 2,279 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -675,7 +675,7 @@ Completed: 2,279 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,805 | 2,279 |
+| 2023-09-15 | 228,810 | 2,279 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
 Sum: 31,587 (Ranked 39)  

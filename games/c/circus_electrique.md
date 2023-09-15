@@ -10,19 +10,19 @@ Number of Ratings: 22  (23.09.2022)
 | Grand Opening | 41.00% | ~189 |
 | Circus Electrique Proudly Presents... | 41.00% | ~189 |
 | Path of Learning | 41.00% | ~189 |
-| Built in a Day | 34.00% | ~156 |
-| More Brain Than Brawn | 29.00% | ~133 |
-| Perfect Illusion | 24.00% | ~110 |
-| Hundred Percent First | 24.00% | ~110 |
+| Built in a Day | 34.00% | ~157 |
+| More Brain Than Brawn | 29.00% | ~134 |
+| Perfect Illusion | 24.00% | ~111 |
+| Hundred Percent First | 24.00% | ~111 |
 | Dirty Dozen | 20.00% | ~92 |
-| Fan Service | 19.00% | ~87 |
+| Fan Service | 19.00% | ~88 |
 | Lion Tamer | 18.00% | ~83 |
-| Amazing! | 17.00% | ~78 |
 | King of District 1 | 16.00% | ~74 |
+| Amazing! | 16.00% | ~74 |
 | Bar Brawler | 15.00% | ~69 |
 | Flawless Presentation | 15.00% | ~69 |
-| One More Thing... | 14.00% | ~64 |
-| Lucky Day | 14.00% | ~64 |
+| One More Thing... | 14.00% | ~65 |
+| Lucky Day | 14.00% | ~65 |
 | King of District 2 | 13.00% | ~60 |
 | Time Travel! | 11.00% | ~51 |
 | Marketing Manager | 11.00% | ~51 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 460 (Ranked 252)  
+Progressed: 461 (Ranked 252)  
 Completed: 1 (0.22%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 1 (0.22%) (Ranked 196)
 | 2023-09-02 | 458 | 1 |
 | 2023-09-11 | 459 | 1 |
 | 2023-09-14 | 460 | 1 |
+| 2023-09-15 | 461 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

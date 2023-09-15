@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2514,6 +2514,11 @@
       "Time": "2023-09-14T23:06:14.4391899+00:00",
       "NumProgressed": 583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T01:47:45.4489812+00:00",
+      "NumProgressed": 585,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2701,7 +2706,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Packing20",
@@ -2723,9 +2728,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 170
     },
     {
       "ID": "RecipeDifferent30",
@@ -2821,7 +2826,7 @@
       "Name": "Leaning Tower of Pizza",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -2844,7 +2849,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 585,
       "Completed": 0
     }
   ],
@@ -2852,8 +2857,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:05:26.0288389+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:47:45.4489808+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:46.6350112+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:57:48.3899145+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:05:26.0288855+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:40:15.989396+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:47:45.4490228+00:00"
 }

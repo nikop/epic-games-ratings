@@ -2,9 +2,9 @@
   "ID": "4d96a32c1e5b49c3adccbcfa6deed873",
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
-  "Ranking_EOS_Progress": 223,
+  "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 748,
+  "EOS_Progressed": 749,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1658,6 +1658,11 @@
       "Time": "2023-09-14T18:06:03.9261287+00:00",
       "NumProgressed": 748,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T01:48:56.5255165+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1900,13 +1905,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 748,
+      "Progressed": 749,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 3
     }
   ],
@@ -1914,8 +1919,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:06:36.1149515+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:48:56.5255161+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:59.8548825+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:58:55.4518431+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:06:36.1149826+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:41:27.420649+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:48:56.5255418+00:00"
 }

@@ -3728,9 +3728,9 @@
       "Count": 386
     }
   ],
-  "EOS_Progressed": 11273,
+  "EOS_Progressed": 11275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12308,6 +12308,11 @@
       "Time": "2023-09-14T21:06:33.3534492+00:00",
       "NumProgressed": 11273,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T01:49:00.9311584+00:00",
+      "NumProgressed": 11275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -12335,7 +12340,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "04_FithCrusade",
@@ -12383,7 +12388,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "10_PathOfAzata",
@@ -12399,7 +12404,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "12_PathOfTrickster",
@@ -12415,7 +12420,7 @@
       "Name": "Path of the Lich",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "14_PathOfSwarm",
@@ -12455,7 +12460,7 @@
       "Name": "Mythic Choices",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "19_EqualToAroden",
@@ -12567,7 +12572,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -12575,7 +12580,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -12599,7 +12604,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -12687,7 +12692,7 @@
       "Name": "A Spark",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "49_Flame",
@@ -12719,7 +12724,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -13246,21 +13251,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10055,
+      "Progressed": 10057,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 11273,
+      "Progressed": 11275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-09-14T20:57:29.523269+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:06:40.5356688+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:49:00.9311581+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:30.431735+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:57:26.4849376+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:06:40.5358937+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:39:54.3919199+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:49:00.9313267+00:00"
 }

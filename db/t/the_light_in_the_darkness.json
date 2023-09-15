@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2367,
+  "EOS_Progressed": 2368,
   "EOS_Completed": 216,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 9.13,
+  "EOS_Completed_Percentage": 9.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -5888,6 +5888,11 @@
       "Time": "2023-09-14T21:04:22.7532841+00:00",
       "NumProgressed": 2367,
       "NumCompleted": 216
+    },
+    {
+      "Time": "2023-09-15T01:46:51.1860529+00:00",
+      "NumProgressed": 2368,
+      "NumCompleted": 216
     }
   ],
   "TotalAchievements": 12,
@@ -5939,7 +5944,7 @@
       "Name": "Jakob",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Jude",
@@ -5955,7 +5960,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Little Helper",
@@ -5979,7 +5984,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "Nuremberg Laws",
@@ -5994,7 +5999,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2367,
+      "Progressed": 2368,
       "Completed": 216
     }
   ],
@@ -6002,8 +6007,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:04:32.248667+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:46:51.1860524+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:14.4342604+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:58:36.7970754+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:04:32.2487139+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:41:06.2958778+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:46:51.1860896+00:00"
 }

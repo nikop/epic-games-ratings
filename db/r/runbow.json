@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 249277,
+  "EOS_Progressed": 249278,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14044,6 +14044,11 @@
       "Time": "2023-09-14T22:06:19.4979427+00:00",
       "NumProgressed": 249277,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T01:48:12.3640884+00:00",
+      "NumProgressed": 249278,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 46,
@@ -14159,7 +14164,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 49855
+      "UsersEstimate": 49856
     },
     {
       "ID": "didYourTime",
@@ -14295,7 +14300,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 124638
+      "UsersEstimate": 124639
     },
     {
       "ID": "notScared",
@@ -14319,7 +14324,7 @@
       "Name": "Please The King",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "readyFight",
@@ -14422,7 +14427,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 249277,
+      "Progressed": 249278,
       "Completed": 5
     }
   ],
@@ -14430,8 +14435,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-09-15T00:05:53.1567965+00:00",
+  "LastChanged_Achievements": "2023-09-15T01:48:12.364088+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:40.341728+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:58:46.6054638+00:00",
-  "LastUpdate_Achievements": "2023-09-15T00:05:53.1569002+00:00"
+  "LastUpdate_Ratings": "2023-09-15T01:41:15.9966628+00:00",
+  "LastUpdate_Achievements": "2023-09-15T01:48:12.3641784+00:00"
 }
