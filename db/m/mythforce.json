@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 582,
   "Ranking_Popularity": 458,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2006,
+  "EOS_Progressed": 2018,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 782,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4451,6 +4451,11 @@
       "Time": "2023-09-15T15:08:29.9645145+00:00",
       "NumProgressed": 2006,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T16:07:09.3444131+00:00",
+      "NumProgressed": 2018,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4469,9 +4474,9 @@
       "ID": "MF_Ach_DeadalusAndLovingIt",
       "SetID": "9b9n573",
       "Name": "Deadalus and Loving It",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "MF_Ach_Deadication",
@@ -4646,15 +4651,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2006,
+      "Progressed": 2018,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:08:29.9645141+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:07:09.3444124+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:58:56.3487366+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:08:29.9645443+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:58:30.4100113+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:07:09.3444798+00:00"
 }

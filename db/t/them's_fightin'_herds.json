@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -244,7 +244,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 229717,
+  "EOS_Progressed": 229720,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 2,
@@ -15674,6 +15674,11 @@
       "Time": "2023-09-15T15:08:08.5334853+00:00",
       "NumProgressed": 229717,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T16:06:43.1820788+00:00",
+      "NumProgressed": 229720,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -15749,7 +15754,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82698
+      "UsersEstimate": 82699
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -15829,7 +15834,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78104
+      "UsersEstimate": 78105
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -15908,7 +15913,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229717,
+      "Progressed": 229720,
       "Completed": 5
     }
   ],
@@ -15916,8 +15921,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-14T16:00:52.1630549+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:08:08.5334849+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:06:43.1820784+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:45.3291126+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:01:06.6069124+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:08:08.5335773+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:00:00.6511187+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:06:43.1822143+00:00"
 }

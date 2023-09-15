@@ -18,23 +18,23 @@
 | Achoo!! | 26.00% | ~30 |
 | Chapter III | 25.00% | ~28 |
 | Like a moth in the Wind | 25.00% | ~28 |
+| Bubblekillerfamily | 24.00% | ~27 |
 | Quite a buggy game | 23.00% | ~26 |
 | Handyman | 23.00% | ~26 |
-| Bubblekillerfamily | 23.00% | ~26 |
 | Shadow on the wall | 22.00% | ~25 |
 | Mirror mirror on the wall... | 22.00% | ~25 |
 | Pacifist | 20.00% | ~23 |
 | Fastidious Clown | 20.00% | ~23 |
 | It's not easy being green! | 19.00% | ~22 |
 | Home is where the heart is | 19.00% | ~22 |
-| Master of Thermodynamics | 15.00% | ~17 |
+| Master of Thermodynamics | 16.00% | ~18 |
 | Death is a part of life | 15.00% | ~17 |
 | Unfullfilled dreams | 13.00% | ~15 |
 | To err is human... | 12.00% | ~14 |
 | Nothing can stop me | 11.00% | ~13 |
 | Mumbo Jumbo | 11.00% | ~13 |
-| Useless but beautiful | 8.00% | ~9 |
-| Lollipop | 8.00% | ~9 |
+| Useless but beautiful | 9.00% | ~10 |
+| Lollipop | 9.00% | ~10 |
 | Where there is life, there is hope | 8.00% | ~9 |
 | It's nothing personal | 8.00% | ~9 |
 | Artistic master | 6.00% | ~7 |

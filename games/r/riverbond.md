@@ -1,7 +1,7 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 612)  
+Rating: 4.47 (Ranked 614)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,10 +10,10 @@ Number of Ratings: 617  (23.09.2022)
 | Now You're Talking | 62.00% | ~326,958 |
 | Steel Yourself | 62.00% | ~326,958 |
 | Window Dressing | 50.00% | ~263,676 |
-| Trigger Happy | 46.00% | ~242,581 |
+| Trigger Happy | 46.00% | ~242,582 |
 | Riverborn | 45.00% | ~237,308 |
-| Starry Eyed | 34.00% | ~179,299 |
-| Poking Around | 34.00% | ~179,299 |
+| Starry Eyed | 34.00% | ~179,300 |
+| Poking Around | 34.00% | ~179,300 |
 | Talk of the Town | 24.00% | ~126,564 |
 | AAARR! | 23.00% | ~121,291 |
 | Hello Darkness | 23.00% | ~121,291 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,582 |
 | Point Taken | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,351 (Ranked 33)  
+Progressed: 527,352 (Ranked 33)  
 Completed: 473 (0.09%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -212,7 +212,7 @@ Completed: 473 (0.09%) (Ranked 225)
 | 2023-09-12 | 527,229 | 473 |
 | 2023-09-13 | 527,271 | 473 |
 | 2023-09-14 | 527,315 | 473 |
-| 2023-09-15 | 527,351 | 473 |
+| 2023-09-15 | 527,352 | 473 |
 ## Awards
 Max (Relaxing): 20  (Ranked 514)  
 Sum: 20 (Ranked 514)  

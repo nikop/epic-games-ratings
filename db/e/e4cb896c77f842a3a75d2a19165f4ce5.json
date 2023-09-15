@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 66,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -1238,33 +1238,33 @@
       "ID": "LEVEL_003",
       "SetID": "7jk5g4e",
       "Name": "Smith house",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 45,
-      "UsersEstimate": 348
+      "UsersEstimate": 352
     },
     {
       "ID": "LEVEL_004",
       "SetID": "7jk5g4e",
       "Name": "Two-story house",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 45,
-      "UsersEstimate": 290
+      "UsersEstimate": 294
     },
     {
       "ID": "LEVEL_006",
       "SetID": "7jk5g4e",
       "Name": "Market",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 95,
-      "UsersEstimate": 237
+      "UsersEstimate": 241
     },
     {
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 95,
-      "UsersEstimate": 110
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_017",
@@ -1325,8 +1325,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:08:46.3206763+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:07:21.6673713+00:00",
   "LastUpdate_AppInfo": "2023-09-11T21:57:06.6069937+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:02:21.9560201+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:08:46.3206902+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:00:58.2935158+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:07:21.6673973+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 698,
+  "EOS_Progressed": 699,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 15.33,
+  "EOS_Completed_Percentage": 15.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -2868,6 +2868,11 @@
       "Time": "2023-09-15T13:12:03.9915389+00:00",
       "NumProgressed": 698,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-09-15T16:06:11.6850131+00:00",
+      "NumProgressed": 699,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 22,
@@ -2877,17 +2882,17 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 677
+      "UsersEstimate": 671
     },
     {
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 607
+      "UsersEstimate": 601
     },
     {
       "ID": "LEVEL_003",
@@ -2911,7 +2916,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 49,
       "XP": 35,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "LEVEL_006",
@@ -2919,7 +2924,7 @@
       "Name": "Found an oasis",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "LEVEL_007",
@@ -2927,7 +2932,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "LEVEL_008",
@@ -2935,7 +2940,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "LEVEL_009",
@@ -2943,7 +2948,7 @@
       "Name": "Who loves trains?",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "LEVEL_010",
@@ -2951,7 +2956,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "LEVEL_011",
@@ -3054,7 +3059,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 698,
+      "Progressed": 699,
       "Completed": 107
     }
   ],
@@ -3062,8 +3067,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:07:26.1802769+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:06:11.6850125+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:06.3681694+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:03:04.8119611+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:07:26.1803045+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:02:22.2705491+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:06:11.6850617+00:00"
 }

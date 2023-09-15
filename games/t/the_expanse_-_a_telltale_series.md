@@ -11,8 +11,8 @@ Rating: 4.58 (Ranked 430)
 | Captain Drummer | 23.00% | ~2,434 |
 | Spore Taste | 22.00% | ~2,328 |
 | Celebrations are in Order | 22.00% | ~2,328 |
+| The Pit and the Pirates | 18.00% | ~1,905 |
 | Doctor Approved | 18.00% | ~1,905 |
-| The Pit and the Pirates | 17.00% | ~1,799 |
 | Drone Dodger | 17.00% | ~1,799 |
 | Thorston Mayer | 13.00% | ~1,376 |
 | Bottoms up! | 10.00% | ~1,058 |

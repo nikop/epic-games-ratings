@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43150,
+  "EOS_Progressed": 43151,
   "EOS_Completed": 235,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -15261,6 +15261,11 @@
       "Time": "2023-09-15T15:07:39.8081458+00:00",
       "NumProgressed": 43150,
       "NumCompleted": 235
+    },
+    {
+      "Time": "2023-09-15T16:06:21.5493493+00:00",
+      "NumProgressed": 43151,
+      "NumCompleted": 235
     }
   ],
   "TotalAchievements": 44,
@@ -15272,7 +15277,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24595
+      "UsersEstimate": 24596
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15280,7 +15285,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13376
+      "UsersEstimate": 13377
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -15312,7 +15317,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4747
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -15376,7 +15381,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -15392,7 +15397,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 34520
+      "UsersEstimate": 34521
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15400,7 +15405,7 @@
       "Name": "Master Ninja",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4747
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -15512,7 +15517,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27184
+      "UsersEstimate": 27185
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -15520,7 +15525,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11650
+      "UsersEstimate": 11651
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -15536,7 +15541,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25890
+      "UsersEstimate": 25891
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -15544,7 +15549,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 28910
+      "UsersEstimate": 28911
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -15600,7 +15605,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -15616,14 +15621,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22438
+      "UsersEstimate": 22439
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43150,
+      "Progressed": 43151,
       "Completed": 235
     }
   ],
@@ -15631,8 +15636,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:07:39.8081455+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:06:21.5493488+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:22.3903109+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:58:01.3935103+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:07:39.8082465+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:57:52.3510549+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:06:21.5494851+00:00"
 }

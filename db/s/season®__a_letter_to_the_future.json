@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1221,
+  "EOS_Progressed": 1222,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.18,
+  "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -2246,6 +2246,11 @@
       "Time": "2023-09-15T11:04:27.2777898+00:00",
       "NumProgressed": 1221,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-09-15T16:04:14.1791186+00:00",
+      "NumProgressed": 1222,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 16,
@@ -2257,7 +2262,7 @@
       "Name": "Artist Assistant",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -2313,7 +2318,7 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2321,7 +2326,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2337,7 +2342,7 @@
       "Name": "Music for Cows",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -2384,7 +2389,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1221,
+      "Progressed": 1222,
       "Completed": 51
     }
   ],
@@ -2392,8 +2397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:04:48.5982398+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:04:14.1791179+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:42.2600513+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:58:40.6906434+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:04:48.5982612+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:58:19.539245+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:04:14.179146+00:00"
 }

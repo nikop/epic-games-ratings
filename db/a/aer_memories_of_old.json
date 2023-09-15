@@ -2,12 +2,12 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 624,
+  "Ranking_Rating": 625,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -398,9 +398,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20099,
+  "EOS_Progressed": 20101,
   "EOS_Completed": 398,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 461,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.98,
   "EosHistory": [
@@ -16248,6 +16248,11 @@
       "Time": "2023-09-15T15:07:27.3804837+00:00",
       "NumProgressed": 20099,
       "NumCompleted": 398
+    },
+    {
+      "Time": "2023-09-15T16:06:12.659749+00:00",
+      "NumProgressed": 20101,
+      "NumCompleted": 398
     }
   ],
   "TotalAchievements": 20,
@@ -16379,7 +16384,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 15476
+      "UsersEstimate": 15478
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -16418,15 +16423,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 20099,
+      "Progressed": 20101,
       "Completed": 398
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-08T04:06:10.3319051+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:07:27.3804834+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:06:12.6597483+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:24.4290598+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:00:10.6720784+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:07:27.3805707+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:59:21.063665+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:06:12.6598981+00:00"
 }

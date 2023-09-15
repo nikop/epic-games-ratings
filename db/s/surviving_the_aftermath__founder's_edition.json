@@ -2,13 +2,13 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 603,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1251,7 +1251,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 9006,
+  "EOS_Progressed": 9007,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -12866,6 +12866,11 @@
       "Time": "2023-09-15T15:05:04.3981692+00:00",
       "NumProgressed": 9006,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T16:04:25.4791695+00:00",
+      "NumProgressed": 9007,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -12909,7 +12914,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4773
+      "UsersEstimate": 4774
     },
     {
       "ID": "14",
@@ -12933,7 +12938,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 3692
+      "UsersEstimate": 3693
     },
     {
       "ID": "17",
@@ -12957,7 +12962,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 4683
+      "UsersEstimate": 4684
     },
     {
       "ID": "2",
@@ -12973,7 +12978,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3422
+      "UsersEstimate": 3423
     },
     {
       "ID": "21",
@@ -12989,7 +12994,7 @@
       "Name": "First Step",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 6484
+      "UsersEstimate": 6485
     },
     {
       "ID": "23",
@@ -13037,7 +13042,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "29",
@@ -13053,7 +13058,7 @@
       "Name": "Great Leader",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "30",
@@ -13083,9 +13088,9 @@
       "ID": "33",
       "SetID": "8idi9ml",
       "Name": "Around the World",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1441
     },
     {
       "ID": "34",
@@ -13093,7 +13098,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "35",
@@ -13149,7 +13154,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "41",
@@ -13221,7 +13226,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "5",
@@ -13333,7 +13338,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "9",
@@ -13348,15 +13353,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 9006,
+      "Progressed": 9007,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-09-15T09:59:20.5978639+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:05:04.3981689+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:04:25.479169+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:03.3176455+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:00:43.7718981+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:05:04.3982677+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:59:44.6520683+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:04:25.4792985+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -259,17 +259,17 @@
       "ID": "0000_achv_spotinteract",
       "SetID": "dhn82m5",
       "Name": "Useless but beautiful",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "0000_achv_spotlick",
       "SetID": "dhn82m5",
       "Name": "Lollipop",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "0000_achv_unstoppable",
@@ -403,17 +403,17 @@
       "ID": "2008_achv_bubble",
       "SetID": "dhn82m5",
       "Name": "Bubblekillerfamily",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "2008_achv_spotfly",
       "SetID": "dhn82m5",
       "Name": "Master of Thermodynamics",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "2009_achv_deathwheel",
@@ -548,8 +548,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:04:04.8005978+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:03:30.952155+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:02.5979745+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:00:22.2807843+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:04:04.8006555+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:59:31.0727626+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:03:30.9522037+00:00"
 }

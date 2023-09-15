@@ -780,9 +780,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "META_HALF_LINK",
@@ -955,8 +955,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:08:50.9099786+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:07:25.1885021+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.3628178+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:59:21.3479717+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:08:50.9099965+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:58:45.8781403+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:07:25.188539+00:00"
 }

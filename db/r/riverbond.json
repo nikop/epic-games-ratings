@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 612,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 33,
@@ -494,9 +494,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527351,
+  "EOS_Progressed": 527352,
   "EOS_Completed": 473,
-  "EOS_NewPlayers": 434,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -16294,6 +16294,11 @@
       "Time": "2023-09-15T15:08:25.8881637+00:00",
       "NumProgressed": 527351,
       "NumCompleted": 473
+    },
+    {
+      "Time": "2023-09-15T16:07:06.2535298+00:00",
+      "NumProgressed": 527352,
+      "NumCompleted": 473
     }
   ],
   "TotalAchievements": 57,
@@ -16561,7 +16566,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 179299
+      "UsersEstimate": 179300
     },
     {
       "ID": "4",
@@ -16649,7 +16654,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 179299
+      "UsersEstimate": 179300
     },
     {
       "ID": "5",
@@ -16681,7 +16686,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242581
+      "UsersEstimate": 242582
     },
     {
       "ID": "53",
@@ -16760,15 +16765,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527351,
+      "Progressed": 527352,
       "Completed": 473
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:08:25.8881633+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:07:06.2535292+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.7109557+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:57:31.0351682+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:08:25.8882825+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:57:29.8582955+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:07:06.2537074+00:00"
 }

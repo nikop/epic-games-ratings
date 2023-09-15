@@ -4,8 +4,8 @@
   "ProductSlug": "dolphin-spirit-ocean-mission-2d0f3b",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -25,9 +25,267 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-09-15T16:02:27.1168778+00:00",
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ID_00",
+      "SetID": "2bmd16d",
+      "Name": "Amateur photographer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_01",
+      "SetID": "2bmd16d",
+      "Name": "Pro Photographer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_02",
+      "SetID": "2bmd16d",
+      "Name": "Animal reporter",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_03",
+      "SetID": "2bmd16d",
+      "Name": "Recycling newbie",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_04",
+      "SetID": "2bmd16d",
+      "Name": "Recycling expert",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_05",
+      "SetID": "2bmd16d",
+      "Name": "Recycling Legend",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_06",
+      "SetID": "2bmd16d",
+      "Name": "Bay cleanup",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_07",
+      "SetID": "2bmd16d",
+      "Name": "Creek cleanup",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_08",
+      "SetID": "2bmd16d",
+      "Name": "Atoll cleanup",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_09",
+      "SetID": "2bmd16d",
+      "Name": "Reef cleanup",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_10",
+      "SetID": "2bmd16d",
+      "Name": "Island cleanup",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_11",
+      "SetID": "2bmd16d",
+      "Name": "Let\u0027s get started",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_12",
+      "SetID": "2bmd16d",
+      "Name": "Island protector",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_13",
+      "SetID": "2bmd16d",
+      "Name": "Island gardian angel",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_14",
+      "SetID": "2bmd16d",
+      "Name": "New recruit",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_15",
+      "SetID": "2bmd16d",
+      "Name": "Rescuer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_16",
+      "SetID": "2bmd16d",
+      "Name": "Heroic member",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_17",
+      "SetID": "2bmd16d",
+      "Name": "Legend of the association",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_18",
+      "SetID": "2bmd16d",
+      "Name": "Picture of the bay",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_19",
+      "SetID": "2bmd16d",
+      "Name": "Picture of the creek",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_20",
+      "SetID": "2bmd16d",
+      "Name": "Picture of the atoll",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_21",
+      "SetID": "2bmd16d",
+      "Name": "Picture of the reef",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_22",
+      "SetID": "2bmd16d",
+      "Name": "Picture of the island",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_23",
+      "SetID": "2bmd16d",
+      "Name": "Interesting",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_24",
+      "SetID": "2bmd16d",
+      "Name": "In search of knowledge",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_25",
+      "SetID": "2bmd16d",
+      "Name": "Well of science",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_26",
+      "SetID": "2bmd16d",
+      "Name": "Power of the turtle",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_27",
+      "SetID": "2bmd16d",
+      "Name": "Power of the dolphin",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_28",
+      "SetID": "2bmd16d",
+      "Name": "Power of the ray",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_29",
+      "SetID": "2bmd16d",
+      "Name": "Power of the shark",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_30",
+      "SetID": "2bmd16d",
+      "Name": "Welcome to Maupiroa",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ID_31",
+      "SetID": "2bmd16d",
+      "Name": "The fifth one!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2bmd16d",
@@ -37,8 +295,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T16:08:09.7966951+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:03:10.6275078+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:02:27.116858+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.6343043+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:57:28.5612299+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:03:10.6287544+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:57:28.3186688+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:02:27.1206336+00:00"
 }

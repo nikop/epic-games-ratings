@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 581)  
+Rating: 4.49 (Ranked 582)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -28,9 +28,9 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 0.40% | ~8 |
 | We've Got a Kaiju on the Field | 0.30% | ~6 |
 | Vexed Her | 0.20% | ~4 |
-| Deadalus and Loving It | 0.00% | ~0 |
+| Deadalus and Loving It | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,006 (Ranked 182)  
+Progressed: 2,018 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 1,507 | 0 |
 | 2023-09-13 | 1,711 | 0 |
 | 2023-09-14 | 1,880 | 0 |
-| 2023-09-15 | 2,006 | 0 |
+| 2023-09-15 | 2,018 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 355)  

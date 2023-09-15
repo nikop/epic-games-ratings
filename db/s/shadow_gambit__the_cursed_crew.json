@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -1882,9 +1882,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -1931,8 +1931,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:05:19.5500169+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:04:36.7259395+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:58:24.6176128+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:05:19.5500387+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:58:09.4529283+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:04:36.725969+00:00"
 }

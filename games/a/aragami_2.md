@@ -7,18 +7,18 @@ Number of Ratings: 88  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~40,130 |
-| First Steps | 80.00% | ~34,520 |
-| Control the Shadows | 67.00% | ~28,910 |
-| Tools of the Trade | 63.00% | ~27,184 |
-| Apprentice | 60.00% | ~25,890 |
-| Secret Seeker | 57.00% | ~24,595 |
+| First Steps | 80.00% | ~34,521 |
+| Control the Shadows | 67.00% | ~28,911 |
+| Tools of the Trade | 63.00% | ~27,185 |
+| Apprentice | 60.00% | ~25,891 |
+| Secret Seeker | 57.00% | ~24,596 |
 | Forge of Assassins | 55.00% | ~23,733 |
-| Revenant | 52.00% | ~22,438 |
+| Revenant | 52.00% | ~22,439 |
 | I don’t Care! | 45.00% | ~19,418 |
 | Bird of Prey | 37.00% | ~15,966 |
 | Engraved with Power | 32.00% | ~13,808 |
-| Lady | 31.00% | ~13,376 |
-| Fashionable Assassin | 27.00% | ~11,650 |
+| Lady | 31.00% | ~13,377 |
+| Fashionable Assassin | 27.00% | ~11,651 |
 | Apex Predator | 24.00% | ~10,356 |
 | Soul Reaver | 22.00% | ~9,493 |
 | Embers | 21.00% | ~9,062 |
@@ -30,8 +30,8 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~6,041 |
 | War Engines | 14.00% | ~6,041 |
 | Signature Move | 14.00% | ~6,041 |
-| Ruse | 11.00% | ~4,746 |
-| Master Ninja | 11.00% | ~4,746 |
+| Ruse | 11.00% | ~4,747 |
+| Master Ninja | 11.00% | ~4,747 |
 | Hatching | 9.00% | ~3,884 |
 | Bonds | 9.00% | ~3,884 |
 | Get Over Here | 9.00% | ~3,884 |
@@ -45,13 +45,13 @@ Number of Ratings: 88  (23.09.2022)
 | Left Behind | 4.00% | ~1,726 |
 | Secrets of the Earth | 4.00% | ~1,726 |
 | Heart of Fire | 4.00% | ~1,726 |
-| The Lion’s Den | 3.00% | ~1,294 |
-| Forest Spirits | 3.00% | ~1,294 |
+| The Lion’s Den | 3.00% | ~1,295 |
+| Forest Spirits | 3.00% | ~1,295 |
 | Hot Potato | 2.00% | ~863 |
 | Legacy | 2.00% | ~863 |
 | Anger Management | 1.00% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,150 (Ranked 96)  
+Progressed: 43,151 (Ranked 96)  
 Completed: 235 (0.54%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 235 (0.54%) (Ranked 152)
 | 2023-09-12 | 42,993 | 231 |
 | 2023-09-13 | 43,054 | 231 |
 | 2023-09-14 | 43,109 | 232 |
-| 2023-09-15 | 43,150 | 235 |
+| 2023-09-15 | 43,151 | 235 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

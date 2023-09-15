@@ -3,9 +3,9 @@
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 424,
-  "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_Completed": 32,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34,
+  "EOS_Progressed": 35,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.82,
+  "EOS_Completed_Percentage": 8.57,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -211,6 +211,11 @@
       "Time": "2023-09-14T17:07:06.35801+00:00",
       "NumProgressed": 34,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T16:06:04.5479142+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 26,
@@ -220,7 +225,7 @@
       "ID": "Bird",
       "SetID": "6j29jep",
       "Name": "Something free...",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -228,7 +233,7 @@
       "ID": "Bird_Fragile",
       "SetID": "6j29jep",
       "Name": "Something free... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -244,7 +249,7 @@
       "ID": "Bonus_Fragile",
       "SetID": "6j29jep",
       "Name": "Something more... (fragile)",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -252,7 +257,7 @@
       "ID": "Butterfly",
       "SetID": "6j29jep",
       "Name": "Something gentle...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -260,7 +265,7 @@
       "ID": "Butterfly_Fragile",
       "SetID": "6j29jep",
       "Name": "Something gentle... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -276,7 +281,7 @@
       "ID": "Cloud_Fragile",
       "SetID": "6j29jep",
       "Name": "Something ever-changing... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -284,7 +289,7 @@
       "ID": "Flower",
       "SetID": "6j29jep",
       "Name": "Something fully in bloom...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -292,7 +297,7 @@
       "ID": "Flower_Fragile",
       "SetID": "6j29jep",
       "Name": "Something fully in bloom... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -300,7 +305,7 @@
       "ID": "Fragile_Mode",
       "SetID": "6j29jep",
       "Name": "Something fragile...",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -316,7 +321,7 @@
       "ID": "Grass_Fragile",
       "SetID": "6j29jep",
       "Name": "Something foundational... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -324,7 +329,7 @@
       "ID": "Home",
       "SetID": "6j29jep",
       "Name": "Somewhere to belong...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -332,7 +337,7 @@
       "ID": "Home_Fragile",
       "SetID": "6j29jep",
       "Name": "Somewhere to belong... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -348,7 +353,7 @@
       "ID": "Moon_Fragile",
       "SetID": "6j29jep",
       "Name": "Something to make you dream... (fragile)",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -356,7 +361,7 @@
       "ID": "Mountain",
       "SetID": "6j29jep",
       "Name": "Something monumental...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -364,7 +369,7 @@
       "ID": "Mountain_Fragile",
       "SetID": "6j29jep",
       "Name": "Something monumental... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -388,7 +393,7 @@
       "ID": "Star_Fragile",
       "SetID": "6j29jep",
       "Name": "Something to long for... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -396,7 +401,7 @@
       "ID": "Tree",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -404,7 +409,7 @@
       "ID": "Tree_Fragile",
       "SetID": "6j29jep",
       "Name": "Something firmly rooted... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -412,7 +417,7 @@
       "ID": "Water",
       "SetID": "6j29jep",
       "Name": "Something reflective...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -420,7 +425,7 @@
       "ID": "Water_Fragile",
       "SetID": "6j29jep",
       "Name": "Something reflective... (fragile)",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 6
     }
@@ -429,14 +434,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 34,
+      "Progressed": 35,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:07:16.0854913+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:06:04.5479136+00:00",
   "LastUpdate_AppInfo": "2023-09-13T19:57:03.5633966+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:02:38.8821914+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:07:16.0855068+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:01:09.6262492+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:06:04.5479477+00:00"
 }

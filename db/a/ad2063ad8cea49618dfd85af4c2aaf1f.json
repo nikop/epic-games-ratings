@@ -4,8 +4,8 @@
   "ProductSlug": "frontlinegrunt-51eb6a",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-08-18T15:00:00+00:00",
     "PcReleaseDate": "2023-02-06T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-10T17:58:53.7317479+00:00",
   "LastUpdate_AppInfo": "2023-09-14T13:02:17.6986074+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:02:27.9557967+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:03:20.5357697+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:01:02.331552+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:03:04.4364643+00:00"
 }

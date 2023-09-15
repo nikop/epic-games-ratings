@@ -2,10 +2,10 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3350,
+  "EOS_Progressed": 3353,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -3264,6 +3264,11 @@
       "Time": "2023-09-15T15:06:52.8762857+00:00",
       "NumProgressed": 3350,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-09-15T16:05:47.0383695+00:00",
+      "NumProgressed": 3353,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -3299,7 +3304,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "bonus5",
@@ -3323,7 +3328,7 @@
       "Name": "You and what Army?",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2984
     },
     {
       "ID": "campaign10",
@@ -3363,7 +3368,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "campaign15",
@@ -3371,7 +3376,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "campaign16",
@@ -3387,7 +3392,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "campaign18",
@@ -3411,7 +3416,7 @@
       "Name": "Flanked!",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2615
     },
     {
       "ID": "campaign20",
@@ -3427,7 +3432,7 @@
       "Name": "Economics 101",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2079
     },
     {
       "ID": "campaign4",
@@ -3435,7 +3440,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "campaign5",
@@ -3483,7 +3488,7 @@
       "Name": "Do the Splits",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "scenario2",
@@ -3491,7 +3496,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "scenario3",
@@ -3531,14 +3536,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3350,
+      "Progressed": 3353,
       "Completed": 11
     }
   ],
@@ -3546,8 +3551,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:06:52.8762853+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:05:47.0383689+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:46.803355+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:01:10.7975067+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:06:52.8763218+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:00:04.4550431+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:05:47.0384468+00:00"
 }

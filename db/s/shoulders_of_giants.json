@@ -5,10 +5,10 @@
   "Ranking_Rating": 741,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 181,
+  "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2236,
+  "EOS_Progressed": 2237,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -1602,6 +1602,11 @@
       "Time": "2023-09-11T23:03:46.6462433+00:00",
       "NumProgressed": 2236,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-15T16:04:50.3331206+00:00",
+      "NumProgressed": 2237,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 19,
@@ -1653,7 +1658,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "deal_damage",
@@ -1661,7 +1666,7 @@
       "Name": "Ouch",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "defeat_enemies",
@@ -1669,7 +1674,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "defeat_tree_dummy",
@@ -1677,7 +1682,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "fail_planet",
@@ -1685,7 +1690,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "piercing_beam",
@@ -1701,7 +1706,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "reach_high_heat",
@@ -1717,7 +1722,7 @@
       "Name": "Frogbot",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "save_planet_bestfriend",
@@ -1725,7 +1730,7 @@
       "Name": "Do you trust me?",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "save_planet_coop",
@@ -1741,7 +1746,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "stun_enemies",
@@ -1749,7 +1754,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "trash_truck",
@@ -1764,7 +1769,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2236,
+      "Progressed": 2237,
       "Completed": 9
     }
   ],
@@ -1772,8 +1777,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-06-30T03:59:49.3890269+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:05:37.8310876+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:04:50.3331199+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:18.0277945+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:01:32.4604924+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:05:37.8311104+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:00:21.8147731+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:04:50.3331599+00:00"
 }

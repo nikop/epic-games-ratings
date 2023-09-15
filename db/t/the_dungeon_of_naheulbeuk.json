@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 44,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -900,10 +900,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224161,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 1987,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 224173,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 1972,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
@@ -10965,6 +10965,11 @@
       "Time": "2023-09-15T15:09:31.4116883+00:00",
       "NumProgressed": 224161,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-15T16:08:17.6920335+00:00",
+      "NumProgressed": 224173,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -10992,7 +10997,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "BarbarianEpic",
@@ -11016,7 +11021,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "Chapter1",
@@ -11120,7 +11125,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "CompanionPriestress",
@@ -11328,7 +11333,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -11376,7 +11381,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8966
+      "UsersEstimate": 8967
     },
     {
       "ID": "DwarfElf15Support",
@@ -11392,7 +11397,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "DwarfInsultWin",
@@ -11400,7 +11405,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "DwarfLevel2",
@@ -11416,7 +11421,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -11424,7 +11429,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67248
+      "UsersEstimate": 67252
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11472,7 +11477,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11208
+      "UsersEstimate": 11209
     },
     {
       "ID": "FollowBraztok",
@@ -11544,7 +11549,7 @@
       "Name": "Law and Order",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "Poster",
@@ -11679,21 +11684,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224161,
-      "Completed": 2
+      "Progressed": 224173,
+      "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224161,
+      "Progressed": 224173,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-14T14:57:58.9453258+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:09:31.4116878+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:08:17.692033+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-15T14:58:29.3035739+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:09:31.4118197+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:58:13.2630364+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:08:17.692233+00:00"
 }

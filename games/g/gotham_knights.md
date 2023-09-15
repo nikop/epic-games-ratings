@@ -5,29 +5,29 @@ Rating: 4.18 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 52.00% | ~37,727 |
-| Har, Har, Har, Very Funny | 35.00% | ~25,393 |
-| Loose Ends | 34.00% | ~24,667 |
-| To the Victor Go the Spoils | 29.00% | ~21,040 |
-| Knighthood | 27.00% | ~19,589 |
+| First Step Into the Knight | 52.00% | ~37,728 |
+| Har, Har, Har, Very Funny | 35.00% | ~25,394 |
+| Loose Ends | 34.00% | ~24,668 |
+| To the Victor Go the Spoils | 29.00% | ~21,041 |
+| Knighthood | 27.00% | ~19,590 |
 | Get ReQ'd | 25.00% | ~18,138 |
 | Whispered Words | 25.00% | ~18,138 |
 | The Batman Family | 23.00% | ~16,687 |
-| Lock and Key | 22.00% | ~15,961 |
+| Lock and Key | 22.00% | ~15,962 |
 | Something in the Clay | 21.00% | ~15,236 |
 | Quartzer Life Crisis | 21.00% | ~15,236 |
-| Working Hard or Harley Working? | 20.00% | ~14,510 |
-| Unstoppable Force | 20.00% | ~14,510 |
-| Bad Apples in Every Orchard | 20.00% | ~14,510 |
+| Working Hard or Harley Working? | 20.00% | ~14,511 |
+| Unstoppable Force | 20.00% | ~14,511 |
+| Bad Apples in Every Orchard | 20.00% | ~14,511 |
 | Snow Problem | 19.00% | ~13,785 |
-| The Show Mud Go On | 18.00% | ~13,059 |
-| From Inside Gotham's Walls | 18.00% | ~13,059 |
-| Protector of Gotham | 16.00% | ~11,608 |
-| Universal Health Scare | 16.00% | ~11,608 |
+| The Show Mud Go On | 18.00% | ~13,060 |
+| From Inside Gotham's Walls | 18.00% | ~13,060 |
+| Protector of Gotham | 16.00% | ~11,609 |
+| Universal Health Scare | 16.00% | ~11,609 |
 | In Your Element | 15.00% | ~10,883 |
-| Rock and a Hard Place | 14.00% | ~10,157 |
-| Cooldown | 14.00% | ~10,157 |
-| Voiceless | 14.00% | ~10,157 |
+| Rock and a Hard Place | 14.00% | ~10,158 |
+| Cooldown | 14.00% | ~10,158 |
+| Voiceless | 14.00% | ~10,158 |
 | Not On My Watch | 13.00% | ~9,432 |
 | Shock Til They Drop | 13.00% | ~9,432 |
 | Seeking Asylum | 13.00% | ~9,432 |
@@ -60,14 +60,14 @@ Rating: 4.18 (Ranked 882)
 | That's Showbiz, Clayby | 0.50% | ~214 |
 | Confronting Your Demon | 0.50% | ~214 |
 | Showdown Sovereign | 0.40% | ~171 |
-| Hammer and Icicle | 0.30% | ~128 |
-| Renewable Enemy Source | 0.30% | ~128 |
-| Crime Is a Terrible Thing to Waste | 0.30% | ~128 |
-| The Cold, the Bad and the Ugly | 0.30% | ~128 |
+| Hammer and Icicle | 0.30% | ~129 |
+| Renewable Enemy Source | 0.30% | ~129 |
+| Crime Is a Terrible Thing to Waste | 0.30% | ~129 |
+| The Cold, the Bad and the Ugly | 0.30% | ~129 |
 | Element of Surprise | 0.20% | ~86 |
 | It's Nice to Be Wanted | 0.20% | ~86 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,551 (Ranked 83)  
+Progressed: 72,554 (Ranked 83)  
 Completed: 113 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,10 +215,10 @@ Completed: 113 (0.16%) (Ranked 203)
 | 2023-09-12 | 72,474 | 113 |
 | 2023-09-13 | 72,499 | 113 |
 | 2023-09-14 | 72,534 | 113 |
-| 2023-09-15 | 72,551 | 113 |
+| 2023-09-15 | 72,554 | 113 |
 ## Awards
 Max (Great Boss Battles): 2,683  (Ranked 96)  
-Sum: 4,445 (Ranked 139)  
+Sum: 4,447 (Ranked 139)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -229,8 +229,8 @@ Diff (max vs sum): -43
 | This game has Diverse Characters | 223 |
 | This game has Amazing Characters | 219 |
 | This game is Great for Beginners | 217 |
+| This game is Highly Recommended | 216 |
 | This game has Amazing Storytelling | 215 |
-| This game is Highly Recommended | 214 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -437,4 +437,4 @@ Diff (max vs sum): -43
 | 2023-09-12 | 4.18 | 2,648 | 4,392 |
 | 2023-09-13 | 4.18 | 2,657 | 4,405 |
 | 2023-09-14 | 4.18 | 2,667 | 4,423 |
-| 2023-09-15 | 4.18 | 2,683 | 4,445 |
+| 2023-09-15 | 4.18 | 2,683 | 4,447 |

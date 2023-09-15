@@ -402,7 +402,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2863,
+  "EOS_Progressed": 2864,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
@@ -3227,6 +3227,11 @@
       "Time": "2023-09-14T19:03:42.2054668+00:00",
       "NumProgressed": 2863,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-09-15T16:03:39.4942899+00:00",
+      "NumProgressed": 2864,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 14,
@@ -3238,7 +3243,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -3254,7 +3259,7 @@
       "Name": "Cat Person",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ACH_CLIMBER",
@@ -3278,7 +3283,7 @@
       "Name": "Easy As Pie",
       "Percentage": 34,
       "XP": 55,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -3302,7 +3307,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -3326,7 +3331,7 @@
       "Name": "Shovel Night",
       "Percentage": 37,
       "XP": 55,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -3349,7 +3354,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2863,
+      "Progressed": 2864,
       "Completed": 114
     }
   ],
@@ -3357,8 +3362,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-09-08T11:57:12.3304907+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:04:15.9795612+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:03:39.4942892+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:11.471651+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:01:10.6169797+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:04:15.979587+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:00:04.3338459+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:03:39.4943394+00:00"
 }

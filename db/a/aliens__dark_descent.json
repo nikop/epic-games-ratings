@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 582,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 490,
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -4556,9 +4556,9 @@
       "ID": "ACH_PROLOGUE",
       "SetID": "816efe",
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2671
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4621,8 +4621,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-12T16:59:01.3538797+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:07:40.9267616+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:06:22.3373672+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.1114534+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:00:42.9477661+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:07:40.9268123+00:00"
+  "LastUpdate_Ratings": "2023-09-15T15:59:43.8873907+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:06:22.3374414+00:00"
 }

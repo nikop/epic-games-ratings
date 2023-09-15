@@ -11,7 +11,7 @@
 | Rivals to the End | 30.00% | ~246 |
 | We're Going to Need a Bigger Garage | 25.00% | ~205 |
 | I'm Here Too! | 24.00% | ~197 |
-| Bitter Rivalry | 20.00% | ~164 |
+| Bitter Rivalry | 21.00% | ~172 |
 | I Want One Too! | 17.00% | ~139 |
 | Restored and Ready | 16.00% | ~131 |
 | Quick Pit Stop | 16.00% | ~131 |
@@ -31,9 +31,9 @@
 | The Road to Liberty | 2.00% | ~16 |
 | Romantic Races | 2.00% | ~16 |
 | I Make the Rules! | 2.00% | ~16 |
+| Rounding Off | 2.00% | ~16 |
 | My Work Here Is Done | 2.00% | ~16 |
 | I'll Be the Best! | 1.00% | ~8 |
-| Rounding Off | 1.00% | ~8 |
 | Overtaking the Master | 1.00% | ~8 |
 | Exhausted but Happy | 0.90% | ~7 |
 | Back in Blighty | 0.70% | ~6 |

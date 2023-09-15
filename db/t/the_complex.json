@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 109,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.27,
   "EosHistory": [
@@ -572,6 +572,11 @@
       "Time": "2023-09-14T08:06:22.8522101+00:00",
       "NumProgressed": 550,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-15T16:07:10.7217322+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -581,9 +586,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 292
+      "UsersEstimate": 287
     },
     {
       "ID": "blast_from_the_past",
@@ -623,7 +628,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ending_4",
@@ -663,7 +668,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "falling_for_you",
@@ -695,7 +700,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "not_a_people_person",
@@ -719,7 +724,7 @@
       "Name": "Storage Hunter",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -727,7 +732,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 58,
       "XP": 100,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "tough_decision",
@@ -735,14 +740,14 @@
       "Name": "Tough Decision",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 18
     }
   ],
@@ -750,8 +755,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-09-15T15:08:31.9261+00:00",
+  "LastChanged_Achievements": "2023-09-15T16:07:10.7217315+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:26.8564591+00:00",
-  "LastUpdate_Ratings": "2023-09-15T15:02:44.4143117+00:00",
-  "LastUpdate_Achievements": "2023-09-15T15:08:31.9261141+00:00"
+  "LastUpdate_Ratings": "2023-09-15T16:02:05.5909282+00:00",
+  "LastUpdate_Achievements": "2023-09-15T16:07:10.721763+00:00"
 }

@@ -16,29 +16,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 4.00% | ~557 |
 | Strong | 4.00% | ~557 |
 | Hanging Gardens | 4.00% | ~557 |
-| Ambitious | 3.00% | ~417 |
-| Enlightened | 3.00% | ~417 |
-| Glorious | 3.00% | ~417 |
-| Good | 3.00% | ~417 |
-| Just | 3.00% | ~417 |
-| Keystone | 3.00% | ~417 |
-| Learned | 3.00% | ~417 |
-| Magnificent | 3.00% | ~417 |
-| Mason | 3.00% | ~417 |
-| Noble | 3.00% | ~417 |
-| Pioneer | 3.00% | ~417 |
-| Warrior | 3.00% | ~417 |
-| Developing Cities | 3.00% | ~417 |
-| Strong Cities | 3.00% | ~417 |
-| Ishtar Gate | 3.00% | ~417 |
-| Oracle | 3.00% | ~417 |
-| Pyramids | 3.00% | ~417 |
-| Judaism | 3.00% | ~417 |
-| Babylonian Paganism | 3.00% | ~417 |
-| Greek Paganism | 3.00% | ~417 |
-| Naming Landmarks | 3.00% | ~417 |
-| Trade Caravan | 3.00% | ~417 |
-| The Great Mage | 3.00% | ~417 |
+| Ambitious | 3.00% | ~418 |
+| Enlightened | 3.00% | ~418 |
+| Glorious | 3.00% | ~418 |
+| Good | 3.00% | ~418 |
+| Just | 3.00% | ~418 |
+| Keystone | 3.00% | ~418 |
+| Learned | 3.00% | ~418 |
+| Magnificent | 3.00% | ~418 |
+| Mason | 3.00% | ~418 |
+| Noble | 3.00% | ~418 |
+| Pioneer | 3.00% | ~418 |
+| Warrior | 3.00% | ~418 |
+| Developing Cities | 3.00% | ~418 |
+| Strong Cities | 3.00% | ~418 |
+| Ishtar Gate | 3.00% | ~418 |
+| Oracle | 3.00% | ~418 |
+| Pyramids | 3.00% | ~418 |
+| Judaism | 3.00% | ~418 |
+| Babylonian Paganism | 3.00% | ~418 |
+| Greek Paganism | 3.00% | ~418 |
+| Naming Landmarks | 3.00% | ~418 |
+| Trade Caravan | 3.00% | ~418 |
+| The Great Mage | 3.00% | ~418 |
 | Regicide | 2.00% | ~278 |
 | Drillmaster | 2.00% | ~278 |
 | Brilliant | 2.00% | ~278 |
@@ -132,13 +132,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.70% | ~97 |
 | Turreted Elephant | 0.70% | ~97 |
 | No Undo | 0.70% | ~97 |
-| Old | 0.60% | ~83 |
-| Peacemaker | 0.60% | ~83 |
-| Clerics | 0.60% | ~83 |
-| Cao'an | 0.60% | ~83 |
-| Egypt | 0.60% | ~83 |
-| Rome | 0.60% | ~83 |
-| All Nations | 0.60% | ~83 |
+| Old | 0.60% | ~84 |
+| Peacemaker | 0.60% | ~84 |
+| Clerics | 0.60% | ~84 |
+| Cao'an | 0.60% | ~84 |
+| Egypt | 0.60% | ~84 |
+| Rome | 0.60% | ~84 |
+| All Nations | 0.60% | ~84 |
 | Carthage - Ox Hide | 0.50% | ~70 |
 | Noble Difficulty | 0.50% | ~70 |
 | Old World Order | 0.50% | ~70 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,916 (Ranked 123)  
+Progressed: 13,917 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,7 +451,7 @@ Completed: 5 (0.04%) (Ranked 243)
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
-| 2023-09-15 | 13,916 | 5 |
+| 2023-09-15 | 13,917 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  
