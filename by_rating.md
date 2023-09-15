@@ -109,7 +109,7 @@
 | 101 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 938 | 150 |
 | 101 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.78 | 0 | 517 |
 | 109 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 4,926 | 69 |
-| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,048 | 51 |
+| 109 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,062 | 51 |
 | 109 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 22,661 | 17 |
 | 109 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.77 | 0 | 517 |
 | 109 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.77 | 39 | 429 |
@@ -396,7 +396,7 @@
 | 367 | [Warframe](games/w/warframe.md) | 4.61 | 17,062 | 22 |
 | 395 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.60 | 25 | 485 |
 | 395 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.60 | 742 | 164 |
-| 395 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,761 | 25 |
+| 395 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,773 | 25 |
 | 395 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 517 |
 | 395 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 331 | 232 |
 | 395 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,623 | 72 |
@@ -496,28 +496,28 @@
 | 484 | [Isonzo](games/i/isonzo.md) | 4.55 | 36 | 443 |
 | 484 | [IXION](games/i/ixion.md) | 4.55 | 0 | 517 |
 | 484 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 34 | 449 |
+| 484 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 936 | 151 |
 | 484 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 92 | 352 |
 | 484 | [The Medium](games/t/the_medium.md) | 4.55 | 0 | 517 |
-| 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 350 | 227 |
+| 484 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 351 | 227 |
 | 484 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.55 | 79 | 366 |
 | 484 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,269 | 134 |
-| 502 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
-| 502 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,431 | 128 |
-| 502 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,038 | 57 |
-| 502 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |
-| 502 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
-| 502 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,358 | 130 |
-| 502 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 380 |
-| 502 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 498 |
-| 502 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 517 |
-| 502 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 936 | 151 |
-| 502 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 455 |
-| 502 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 88 | 358 |
-| 502 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 517 |
-| 502 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 348 |
-| 502 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 517 |
-| 502 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 517 |
-| 502 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 517 |
+| 503 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 517 |
+| 503 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,431 | 128 |
+| 503 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 6,038 | 57 |
+| 503 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 35 | 445 |
+| 503 | [Far Cry](games/f/far_cry.md) | 4.54 | 0 | 517 |
+| 503 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,358 | 130 |
+| 503 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 72 | 380 |
+| 503 | [MotoGP™21](games/m/motogp™21.md) | 4.54 | 22 | 498 |
+| 503 | [Oxenfree](games/o/oxenfree.md) | 4.54 | 0 | 517 |
+| 503 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 455 |
+| 503 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 88 | 358 |
+| 503 | [Rebel Cops](games/r/rebel_cops.md) | 4.54 | 0 | 517 |
+| 503 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 95 | 348 |
+| 503 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 517 |
+| 503 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.54 | 0 | 517 |
+| 503 | [Tails of Iron](games/t/tails_of_iron.md) | 4.54 | 0 | 517 |
 | 519 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 25 | 485 |
 | 519 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 517 |
 | 519 | [Dauntless](games/d/dauntless.md) | 4.53 | 21,956 | 18 |
@@ -551,7 +551,7 @@
 | 548 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 791 | 160 |
 | 548 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,123 | 80 |
 | 548 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 517 |
-| 548 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 148,200 | 7 |
+| 548 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 148,278 | 7 |
 | 548 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.51 | 2,761 | 95 |
 | 548 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 110 | 330 |
 | 548 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 149 | 302 |
@@ -911,8 +911,8 @@
 | 907 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 517 |
 | 910 | [Blair Witch](games/b/blair_witch.md) | 4.13 | 0 | 517 |
 | 910 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 517 |
-| 912 | [SYNCED](games/s/synced.md) | 4.12 | 0 | 517 |
-| 912 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 517 |
+| 910 | [SYNCED](games/s/synced.md) | 4.13 | 0 | 517 |
+| 913 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.12 | 0 | 517 |
 | 914 | [Armored Warfare](games/a/armored_warfare.md) | 4.10 | 89 | 357 |
 | 914 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,514 | 101 |
 | 916 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.09 | 0 | 517 |
