@@ -3,7 +3,7 @@
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
 | 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.57% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
-| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.43% |
+| 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.84% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
 | 6 | [Volley Pals](games/v/volley_pals.md) | 27.68% |
 | 7 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 27.55% |
@@ -91,16 +91,16 @@
 | 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.34% |
 | 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.28% |
 | 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
-| 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
-| 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
-| 94 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.08% |
-| 95 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.99% |
+| 92 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 2.22% |
+| 93 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
+| 94 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
+| 95 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
 | 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 96 | [FORECLOSED](games/f/foreclosed.md) | 1.98% |
 | 98 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 99 | [Night Book](games/n/night_book.md) | 1.86% |
 | 100 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 101 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
+| 101 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.83% |
 | 102 | [Frogun](games/f/frogun.md) | 1.80% |
 | 102 | [Sifu](games/s/sifu.md) | 1.80% |
 | 104 | [Somerville](games/s/somerville.md) | 1.71% |
@@ -132,8 +132,8 @@
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.83% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 132 | [Eternights](games/e/eternights.md) | 0.82% |
-| 134 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
+| 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
+| 133 | [Eternights](games/e/eternights.md) | 0.81% |
 | 135 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 136 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 137 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
@@ -149,8 +149,8 @@
 | 147 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.58% |
 | 147 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 147 | [Potion Permit](games/p/potion_permit.md) | 0.58% |
-| 150 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.56% |
-| 151 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
+| 150 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.55% |
+| 150 | [The Surge 2](games/t/the_surge_2.md) | 0.55% |
 | 152 | [Aragami 2](games/a/aragami_2.md) | 0.54% |
 | 152 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.54% |
 | 154 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.52% |

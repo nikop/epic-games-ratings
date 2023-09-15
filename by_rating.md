@@ -371,7 +371,7 @@
 | 367 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 130 | 311 |
 | 367 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 517 |
 | 367 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 386 | 222 |
-| 367 | [Darkwood](games/d/darkwood.md) | 4.61 | 322 | 235 |
+| 367 | [Darkwood](games/d/darkwood.md) | 4.61 | 323 | 235 |
 | 367 | [Dead Space](games/d/dead_space.md) | 4.61 | 92 | 352 |
 | 367 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 44,679 | 12 |
 | 367 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.61 | 28 | 469 |
@@ -399,7 +399,7 @@
 | 395 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 13,761 | 25 |
 | 395 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 517 |
 | 395 | [Brawlhalla](games/b/brawlhalla.md) | 4.60 | 331 | 232 |
-| 395 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,620 | 72 |
+| 395 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,623 | 72 |
 | 395 | [Control](games/c/control.md) | 4.60 | 8,506 | 40 |
 | 395 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.60 | 0 | 517 |
 | 395 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 220 | 266 |
@@ -542,7 +542,7 @@
 | 533 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 103 | 335 |
 | 533 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 125 | 315 |
 | 533 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 517 |
-| 533 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 302 | 238 |
+| 533 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 303 | 238 |
 | 533 | [Sable](games/s/sable.md) | 4.52 | 24 | 488 |
 | 533 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.52 | 21 | 506 |
 | 533 | [Verdun](games/v/verdun.md) | 4.52 | 97 | 345 |

@@ -71,7 +71,7 @@
 | 69 | [Bloons TD 6](games/b/bloons_td_6.md) | 4,926 | 4.77 | 109 |
 | 70 | [MultiVersus](games/m/multiversus.md) | 4,748 | 4.56 | 468 |
 | 71 | [Shop Titans](games/s/shop_titans.md) | 4,741 | 3.99 | 945 |
-| 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,620 | 4.60 | 395 |
+| 72 | [Chivalry 2](games/c/chivalry_2.md) | 4,623 | 4.60 | 395 |
 | 73 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,575 | 4.70 | 202 |
 | 74 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,537 | 4.70 | 202 |
 | 75 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4,519 | 4.76 | 117 |
@@ -234,10 +234,10 @@
 | 232 | [Brawlhalla](games/b/brawlhalla.md) | 331 | 4.60 | 395 |
 | 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 329 | 4.59 | 416 |
 | 234 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 326 | 4.72 | 172 |
-| 235 | [Darkwood](games/d/darkwood.md) | 322 | 4.61 | 367 |
+| 235 | [Darkwood](games/d/darkwood.md) | 323 | 4.61 | 367 |
 | 236 | [House Flipper](games/h/house_flipper.md) | 310 | 4.69 | 216 |
 | 237 | [Spellbreak](games/s/spellbreak.md) | 304 | 4.63 | 331 |
-| 238 | [Railway Empire](games/r/railway_empire.md) | 302 | 4.52 | 533 |
+| 238 | [Railway Empire](games/r/railway_empire.md) | 303 | 4.52 | 533 |
 | 239 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 828 |
 | 240 | [Severed Steel](games/s/severed_steel.md) | 289 | 4.69 | 216 |
 | 241 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 287 | 4.55 | 484 |
