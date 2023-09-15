@@ -1,7 +1,7 @@
 # Might & Magic Heroes 3
 [Store](https://store.epicgames.com/en-US/p/might-and-magic-heroes-3)  
 [View Rawdata](../../db/m/might_&_magic_heroes_3.json)  
-Rating: 4.79 (Ranked 87)  
+Rating: 4.80 (Ranked 83)  
 Number of Ratings: 165  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 55  (Ranked 395)  
@@ -196,3 +196,4 @@ Diff (max vs sum): 72
 | 2023-09-10 | 4.79 | - | 55 | 378 |
 | 2023-09-13 | 4.79 | - | 55 | 382 |
 | 2023-09-14 | 4.79 | - | 55 | 385 |
+| 2023-09-15 | 4.80 | - | 55 | 385 |

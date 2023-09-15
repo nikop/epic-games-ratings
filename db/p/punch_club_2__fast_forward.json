@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1329,9 +1329,9 @@
       "ID": "carla_journey",
       "SetID": "69co12a",
       "Name": "The lonesome road",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "courier_win",
@@ -1401,17 +1401,17 @@
       "ID": "flash_delivery",
       "SetID": "69co12a",
       "Name": "Family comes first",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "flash_k",
       "SetID": "69co12a",
       "Name": "Key memories",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "flash_silver",
@@ -1673,9 +1673,9 @@
       "ID": "resistance_true",
       "SetID": "69co12a",
       "Name": "The heart of the Resistance",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "seashell_hunter",
@@ -1776,8 +1776,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:07:45.5922934+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:12:52.9149149+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:22.6953156+00:00",
-  "LastUpdate_Ratings": "2023-09-15T12:01:28.4830983+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:07:45.5923499+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:06:26.0852329+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:12:52.9149721+00:00"
 }

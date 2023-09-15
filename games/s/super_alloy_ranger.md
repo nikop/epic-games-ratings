@@ -14,8 +14,8 @@
 | Stop Right There | 32.00% | ~27 |
 | Get to the Point | 30.00% | ~25 |
 | Mr. Want It All | 18.00% | ~15 |
+| The Hidden Secret | 17.00% | ~14 |
 | Toe to Toe | 17.00% | ~14 |
-| The Hidden Secret | 15.00% | ~13 |
 | Phew! | 15.00% | ~13 |
 | The Abyss Conqueror | 12.00% | ~10 |
 | Space Warrior: Prologue | 12.00% | ~10 |

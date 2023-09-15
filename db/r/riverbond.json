@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -494,7 +494,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 527343,
+  "EOS_Progressed": 527345,
   "EOS_Completed": 473,
   "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 3,
@@ -16279,6 +16279,11 @@
       "Time": "2023-09-15T12:07:54.6344351+00:00",
       "NumProgressed": 527343,
       "NumCompleted": 473
+    },
+    {
+      "Time": "2023-09-15T13:13:02.3849641+00:00",
+      "NumProgressed": 527345,
+      "NumCompleted": 473
     }
   ],
   "TotalAchievements": 57,
@@ -16298,7 +16303,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 237304
+      "UsersEstimate": 237305
     },
     {
       "ID": "11",
@@ -16306,7 +16311,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 369140
+      "UsersEstimate": 369142
     },
     {
       "ID": "12",
@@ -16314,7 +16319,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116015
+      "UsersEstimate": 116016
     },
     {
       "ID": "13",
@@ -16362,7 +16367,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79101
+      "UsersEstimate": 79102
     },
     {
       "ID": "19",
@@ -16370,7 +16375,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 326953
+      "UsersEstimate": 326954
     },
     {
       "ID": "2",
@@ -16386,7 +16391,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126562
+      "UsersEstimate": 126563
     },
     {
       "ID": "21",
@@ -16586,7 +16591,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89648
+      "UsersEstimate": 89649
     },
     {
       "ID": "44",
@@ -16594,7 +16599,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42187
+      "UsersEstimate": 42188
     },
     {
       "ID": "45",
@@ -16618,7 +16623,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 326953
+      "UsersEstimate": 326954
     },
     {
       "ID": "48",
@@ -16666,7 +16671,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 242578
+      "UsersEstimate": 242579
     },
     {
       "ID": "53",
@@ -16745,15 +16750,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 527343,
+      "Progressed": 527345,
       "Completed": 473
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:07:54.6344347+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:13:02.3849636+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:35.7109557+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:57:33.0252594+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:07:54.634547+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:02:09.5931909+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:13:02.3850801+00:00"
 }

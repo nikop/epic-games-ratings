@@ -6,25 +6,25 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 17.00% | ~109,441 |
-| Incurious | 16.00% | ~103,004 |
-| Climate Change | 15.00% | ~96,566 |
-| Stroller | 14.00% | ~90,128 |
-| Toy Train | 13.00% | ~83,690 |
-| Advanced Hiker | 12.00% | ~77,253 |
-| Hiker | 11.00% | ~70,815 |
+| Advanced Stroller | 17.00% | ~109,444 |
+| Incurious | 16.00% | ~103,006 |
+| Climate Change | 15.00% | ~96,568 |
+| Stroller | 14.00% | ~90,130 |
+| Toy Train | 13.00% | ~83,693 |
+| Advanced Hiker | 12.00% | ~77,255 |
+| Hiker | 11.00% | ~70,817 |
 | Mojave Courier | 5.00% | ~32,189 |
 | Saved by Nausicaä | 5.00% | ~32,189 |
-| Voyager | 3.00% | ~19,313 |
-| Advanced Voyager | 3.00% | ~19,313 |
-| Expert Stroller | 3.00% | ~19,313 |
-| Orient Express | 3.00% | ~19,313 |
-| Expert Hiker | 2.00% | ~12,875 |
-| Marathon | 2.00% | ~12,875 |
-| Destructionist | 2.00% | ~12,875 |
+| Voyager | 3.00% | ~19,314 |
+| Advanced Voyager | 3.00% | ~19,314 |
+| Expert Stroller | 3.00% | ~19,314 |
+| Orient Express | 3.00% | ~19,314 |
+| Expert Hiker | 2.00% | ~12,876 |
+| Marathon | 2.00% | ~12,876 |
+| Destructionist | 2.00% | ~12,876 |
 | Lost | 1.00% | ~6,438 |
-| Rocketman | 0.70% | ~4,506 |
-| Shopaholic | 0.70% | ~4,506 |
+| Rocketman | 0.70% | ~4,507 |
+| Shopaholic | 0.70% | ~4,507 |
 | Expert Voyager | 0.60% | ~3,863 |
 | Nanuk | 0.60% | ~3,863 |
 | Dynamite Fishing | 0.60% | ~3,863 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~644 |
 | 20 Miles under the Sea | 0.10% | ~644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643,772 (Ranked 26)  
+Progressed: 643,789 (Ranked 26)  
 Completed: 10 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 10 (0.00%) (Ranked 275)
 | 2023-09-12 | 643,299 | 10 |
 | 2023-09-13 | 643,492 | 10 |
 | 2023-09-14 | 643,694 | 10 |
-| 2023-09-15 | 643,772 | 10 |
+| 2023-09-15 | 643,789 | 10 |
 ## Awards
 Max (Great for Beginners): 196  (Ranked 275)  
 Sum: 1,569 (Ranked 219)  

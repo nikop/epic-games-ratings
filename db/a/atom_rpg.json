@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2355,6 +2355,11 @@
       "Time": "2023-09-15T12:07:28.8617953+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T13:12:40.3047521+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2422,7 +2427,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "EXPERT_1",
@@ -2436,9 +2441,9 @@
       "ID": "EXPLORER_1",
       "SetID": "bf13m8j",
       "Name": "Explorer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 212
     },
     {
       "ID": "GHOSTBUSTER",
@@ -2452,9 +2457,9 @@
       "ID": "GRAVE_DIGGER_1",
       "SetID": "bf13m8j",
       "Name": "Grave Robber",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 212
     },
     {
       "ID": "HEAD_BURST_1",
@@ -2542,7 +2547,7 @@
       "Name": "Paranoia",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "PRIVATE_EYE",
@@ -2588,9 +2593,9 @@
       "ID": "SAVANT_1",
       "SetID": "bf13m8j",
       "Name": "Savant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 106
     },
     {
       "ID": "SECRET_ROOM",
@@ -2622,7 +2627,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "VVE",
@@ -2630,7 +2635,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "WANDERER_1",
@@ -2653,15 +2658,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-09-05T22:02:30.8947903+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:07:28.8617948+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:12:40.3047516+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:12.2066392+00:00",
-  "LastUpdate_Ratings": "2023-09-15T12:00:40.4540159+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:07:28.8618261+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:05:35.4474912+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:12:40.304783+00:00"
 }

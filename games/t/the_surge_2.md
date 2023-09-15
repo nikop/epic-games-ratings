@@ -7,7 +7,7 @@ Rating: 4.24 (Ranked 843)
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,602 |
 | Don't I Know You...? | 77.00% | ~1,542 |
-| Jailbreak | 65.00% | ~1,302 |
+| Jailbreak | 66.00% | ~1,322 |
 | Suited and Booted | 39.00% | ~781 |
 | HEADSHOT! | 38.00% | ~761 |
 | Sleeping With The Fishes | 36.00% | ~721 |

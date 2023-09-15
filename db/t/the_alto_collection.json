@@ -757,9 +757,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 39242,
+  "EOS_Progressed": 39249,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 779,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17232,6 +17232,11 @@
       "Time": "2023-09-15T12:06:58.853852+00:00",
       "NumProgressed": 39242,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T13:12:06.0389163+00:00",
+      "NumProgressed": 39249,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -17283,7 +17288,7 @@
       "Name": "Rookie",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10203
+      "UsersEstimate": 10205
     },
     {
       "ID": "goals180",
@@ -17363,7 +17368,7 @@
       "Name": "Nomad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7064
+      "UsersEstimate": 7065
     },
     {
       "ID": "novice",
@@ -17371,7 +17376,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6279
+      "UsersEstimate": 6280
     },
     {
       "ID": "playerFelipe",
@@ -17395,7 +17400,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "playerPaz",
@@ -17451,7 +17456,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10203
+      "UsersEstimate": 10205
     },
     {
       "ID": "sandboarder",
@@ -17507,7 +17512,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5886
+      "UsersEstimate": 5887
     },
     {
       "ID": "unlockpaz",
@@ -17515,7 +17520,7 @@
       "Name": "Enter Paz",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "vandal",
@@ -17539,7 +17544,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3139
+      "UsersEstimate": 3140
     },
     {
       "ID": "windswept",
@@ -17554,15 +17559,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 39242,
+      "Progressed": 39249,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-09-12T18:58:26.6680109+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:06:58.8538517+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:12:06.0389154+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.6421316+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:59:24.6304774+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:06:58.8539522+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:04:10.0813553+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:12:06.0390146+00:00"
 }

@@ -17,7 +17,7 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Ashley | 1.00% | ~62 |
 | Drunk and Disorderly: Stephanie | 1.00% | ~62 |
 | IRL Let's Player | 1.00% | ~62 |
-| Newcomer: Vickie | 0.90% | ~55 |
+| Newcomer: Vickie | 0.90% | ~56 |
 | Amy | 0.80% | ~49 |
 | Inspector | 0.80% | ~49 |
 | Social Butterfly | 0.80% | ~49 |
@@ -37,11 +37,11 @@ Number of Ratings: 177  (23.09.2022)
 | Benedict Brahrnold | 0.40% | ~25 |
 | Love Conquers All | 0.40% | ~25 |
 | Good Ol' Days | 0.40% | ~25 |
-| The Bride | 0.30% | ~18 |
+| The Bride | 0.30% | ~19 |
 | Deck the Balls | 0.30% | ~10 |
-| Drunk and Disorderly: Madison | 0.30% | ~18 |
-| Rachael | 0.30% | ~18 |
-| The Elder Brahs | 0.30% | ~18 |
+| Drunk and Disorderly: Madison | 0.30% | ~19 |
+| Rachael | 0.30% | ~19 |
+| The Elder Brahs | 0.30% | ~19 |
 | Beyond the Call of Dude-y | 0.20% | ~12 |
 | Do Not Burn | 0.20% | ~12 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~6 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~6 |
 | D-Club Certified | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,166 (Ranked 143)  
+Progressed: 6,167 (Ranked 143)  
 Completed: 3 (0.05%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 3 (0.05%) (Ranked 239)
 | 2023-09-10 | 6,147 | 3 |
 | 2023-09-11 | 6,149 | 3 |
 | 2023-09-14 | 6,156 | 3 |
-| 2023-09-15 | 6,166 | 3 |
+| 2023-09-15 | 6,167 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

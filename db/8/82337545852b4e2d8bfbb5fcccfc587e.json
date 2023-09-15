@@ -4,8 +4,8 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2021-11-23T23:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 30,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 16.67,
   "EosHistory": [
@@ -285,9 +285,9 @@
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 53,
+      "Percentage": 57,
       "XP": 70,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "EpicACHV_7",
@@ -324,8 +324,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:04:18.9166927+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:09:13.2433821+00:00",
   "LastUpdate_AppInfo": "2023-09-13T05:57:11.6073515+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:59:07.6264769+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:04:18.9167034+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:03:53.2461962+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:09:13.2433923+00:00"
 }

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 73.00% | ~2,064 |
-| A Thorny Situation | 67.00% | ~1,894 |
-| ... And Spit Back Out | 53.00% | ~1,498 |
-| Break-Net Speed | 41.00% | ~1,159 |
-| Bramble Breaker | 35.00% | ~989 |
-| Miner 49er | 33.00% | ~933 |
-| Humble Collector | 32.00% | ~905 |
-| Calm Sailing | 21.00% | ~594 |
-| Open the Gate! | 17.00% | ~481 |
-| Oui, Chef! | 16.00% | ~452 |
-| Lumberjack | 15.00% | ~424 |
-| Mist Walker | 15.00% | ~424 |
-| Botanical Breakthrough | 8.00% | ~226 |
-| Beach Comber | 7.00% | ~198 |
-| Clear the Air | 5.00% | ~141 |
+| Azoria Beckons | 73.00% | ~2,073 |
+| A Thorny Situation | 67.00% | ~1,903 |
+| ... And Spit Back Out | 54.00% | ~1,534 |
+| Break-Net Speed | 41.00% | ~1,164 |
+| Bramble Breaker | 36.00% | ~1,022 |
+| Miner 49er | 33.00% | ~937 |
+| Humble Collector | 32.00% | ~909 |
+| Calm Sailing | 21.00% | ~596 |
+| Open the Gate! | 18.00% | ~511 |
+| Oui, Chef! | 16.00% | ~454 |
+| Lumberjack | 15.00% | ~426 |
+| Mist Walker | 15.00% | ~426 |
+| Botanical Breakthrough | 8.00% | ~227 |
+| Beach Comber | 7.00% | ~199 |
+| Clear the Air | 6.00% | ~170 |
 | Search for the Hairy Grell | 3.00% | ~85 |
 | Higher Tax Bracket | 3.00% | ~85 |
 | Got to Catch Them All | 2.00% | ~57 |
@@ -29,8 +29,8 @@
 | I Now Pronounce You... | 1.00% | ~28 |
 | Chatty Neighbor | 1.00% | ~28 |
 | Azorian Anniversary | 1.00% | ~28 |
-| Flaming Hot Completos | 0.90% | ~25 |
-| Right Tool For the Job | 0.90% | ~25 |
+| Flaming Hot Completos | 0.90% | ~26 |
+| Right Tool For the Job | 0.90% | ~26 |
 | Fae Farmer | 0.80% | ~23 |
 | House Proud | 0.80% | ~23 |
 | Captain of Cozy | 0.50% | ~14 |
@@ -40,7 +40,7 @@
 | Giving the People What They Want | 0.10% | ~3 |
 | Very Skilled | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,827 (Ranked 172)  
+Progressed: 2,840 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,4 +62,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 1,849 | 0 |
 | 2023-09-13 | 2,323 | 0 |
 | 2023-09-14 | 2,687 | 0 |
-| 2023-09-15 | 2,827 | 0 |
+| 2023-09-15 | 2,840 | 0 |

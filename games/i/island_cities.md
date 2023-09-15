@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 97.00% | ~676 |
-| A tiny town | 87.00% | ~606 |
-| Buildings, roads, cars, ...and people | 66.00% | ~460 |
-| Great view from the beach and from the hill | 56.00% | ~390 |
+| Welcome! | 97.00% | ~677 |
+| A tiny town | 87.00% | ~607 |
+| Buildings, roads, cars, ...and people | 66.00% | ~461 |
+| Great view from the beach and from the hill | 56.00% | ~391 |
 | Bridges to come and go | 49.00% | ~342 |
 | Found an oasis | 42.00% | ~293 |
 | Burger or pizza? | 37.00% | ~258 |
 | Passion for sports | 32.00% | ~223 |
 | Who loves trains? | 29.00% | ~202 |
 | Easy and steady climb | 27.00% | ~188 |
-| At the heart of the city | 24.00% | ~167 |
-| Calm neighborhood | 22.00% | ~153 |
-| Elevated ring | 20.00% | ~139 |
-| Not lonely anymore | 19.00% | ~132 |
-| Monumental tribute | 18.00% | ~125 |
-| The beach is right there | 17.00% | ~118 |
-| Commuting | 17.00% | ~118 |
+| At the heart of the city | 23.00% | ~161 |
+| Calm neighborhood | 21.00% | ~147 |
+| Elevated ring | 19.00% | ~133 |
+| Not lonely anymore | 19.00% | ~133 |
+| Monumental tribute | 18.00% | ~126 |
+| The beach is right there | 17.00% | ~119 |
+| Commuting | 17.00% | ~119 |
 | Le jardin magnifique | 16.00% | ~112 |
 | Aiming for a living and human city | 16.00% | ~112 |
 | City of dreams | 15.00% | ~105 |
 | Happy Christmas night! | 15.00% | ~105 |
 | Night walk along the beach | 15.00% | ~105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 697 (Ranked 227)  
-Completed: 107 (15.35%) (Ranked 17)  
+Progressed: 698 (Ranked 227)  
+Completed: 107 (15.33%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,7 +152,7 @@ Completed: 107 (15.35%) (Ranked 17)
 | 2023-09-12 | 691 | 102 |
 | 2023-09-13 | 693 | 103 |
 | 2023-09-14 | 697 | 106 |
-| 2023-09-15 | 697 | 107 |
+| 2023-09-15 | 698 | 107 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

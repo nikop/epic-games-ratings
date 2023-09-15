@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -788,6 +788,11 @@
       "Time": "2023-09-15T06:07:28.2132459+00:00",
       "NumProgressed": 166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T13:12:20.6369621+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -871,7 +876,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "easy_victory",
@@ -887,7 +892,7 @@
       "Name": "Graduation",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -965,9 +970,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 114
     },
     {
       "ID": "scrap_collector",
@@ -1046,7 +1051,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 1
     }
   ],
@@ -1054,8 +1059,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:07:11.1040709+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:12:20.6369616+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:08.6782644+00:00",
-  "LastUpdate_Ratings": "2023-09-15T12:00:27.2175642+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:07:11.1040946+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:05:17.7541572+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:12:20.6369854+00:00"
 }

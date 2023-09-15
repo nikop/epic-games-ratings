@@ -21,8 +21,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 1.00% | ~1,362 |
 | Own the Means of Production | 1.00% | ~1,362 |
 | The Daily Grind | 0.90% | ~1,226 |
+| Bounty Hunters | 0.90% | ~1,226 |
 | Through Repetition, Perfection | 0.90% | ~1,226 |
-| Bounty Hunters | 0.80% | ~1,090 |
 | Demand for Supplies | 0.80% | ~1,090 |
 | Flooding the Market | 0.80% | ~1,090 |
 | Where it Hurts | 0.80% | ~1,090 |
@@ -42,6 +42,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Gem Expert | 0.60% | ~817 |
 | Helping Hand | 0.60% | ~817 |
 | Natural 20 | 0.60% | ~817 |
+| A Notch Above the Rest | 0.50% | ~681 |
 | Tax not Included | 0.50% | ~681 |
 | The King's Caprice | 0.50% | ~681 |
 | Big Game Hunting | 0.50% | ~681 |
@@ -59,7 +60,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 0.50% | ~681 |
 | Special Ingredient | 0.50% | ~681 |
 | Complete Monopoly | 0.50% | ~681 |
-| A Notch Above the Rest | 0.40% | ~545 |
 | Cream of the Crop | 0.40% | ~545 |
 | Top of the World | 0.40% | ~545 |
 | Proud Paladin | 0.40% | ~545 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,200 (Ranked 68)  
+Progressed: 136,202 (Ranked 68)  
 Completed: 151 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 151 (0.11%) (Ranked 218)
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
 | 2023-09-14 | 136,187 | 151 |
-| 2023-09-15 | 136,200 | 151 |
+| 2023-09-15 | 136,202 | 151 |
 ## Awards
 Max (Great for Beginners): 4,743  (Ranked 71)  
 Sum: 27,230 (Ranked 48)  

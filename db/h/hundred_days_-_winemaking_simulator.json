@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -994,9 +994,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3132,
+  "EOS_Progressed": 3150,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1290,
+  "EOS_NewPlayers": 1295,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2909,6 +2909,11 @@
       "Time": "2023-09-15T12:06:22.4762701+00:00",
       "NumProgressed": 3132,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T13:11:27.1859253+00:00",
+      "NumProgressed": 3150,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2921,7 +2926,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "a_10",
@@ -2969,7 +2974,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1134
     },
     {
       "ID": "a_19",
@@ -2977,7 +2982,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "a_2",
@@ -2985,7 +2990,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "a_20",
@@ -2993,7 +2998,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "a_21",
@@ -3001,7 +3006,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "a_22",
@@ -3009,7 +3014,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "a_23",
@@ -3017,7 +3022,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "a_25",
@@ -3025,7 +3030,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "a_26",
@@ -3049,7 +3054,7 @@
       "Name": "Pastry Chef",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "a_3",
@@ -3105,7 +3110,7 @@
       "Name": "Welcome to the club",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "a_36",
@@ -3121,7 +3126,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "a_5",
@@ -3137,7 +3142,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "a_7",
@@ -3168,7 +3173,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3132,
+      "Progressed": 3150,
       "Completed": 5
     }
   ],
@@ -3176,8 +3181,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T08:57:24.2608944+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:06:22.4762697+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:11:27.1859249+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:57:32.1522527+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:06:22.4762978+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:02:08.524295+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:11:27.1859538+00:00"
 }

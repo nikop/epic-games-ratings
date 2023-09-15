@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1349,
+  "EOS_Progressed": 1350,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -2480,6 +2480,11 @@
       "Time": "2023-09-15T10:06:40.3579903+00:00",
       "NumProgressed": 1349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T13:12:52.3876589+00:00",
+      "NumProgressed": 1350,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2491,7 +2496,7 @@
       "Name": "Agent 47",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "Auditor",
@@ -2507,7 +2512,7 @@
       "Name": "Do a Barrel Roll!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Big_Bertha",
@@ -2563,7 +2568,7 @@
       "Name": "Lock, Stock",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "E1M1",
@@ -2627,7 +2632,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "How",
@@ -2635,7 +2640,7 @@
       "Name": "How?!",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Its_very_spicy",
@@ -2651,7 +2656,7 @@
       "Name": "No Witness",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Kultprosvet",
@@ -2667,7 +2672,7 @@
       "Name": "One by One",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Miner",
@@ -2675,7 +2680,7 @@
       "Name": "Bomberman",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "MoskitoBite",
@@ -2683,7 +2688,7 @@
       "Name": "Mosquito bite",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "Scout",
@@ -2730,15 +2735,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1349,
+      "Progressed": 1350,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:07:45.0602297+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:12:52.3876583+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:59:27.2904294+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:07:45.0602587+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:04:12.6975171+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:12:52.38782+00:00"
 }

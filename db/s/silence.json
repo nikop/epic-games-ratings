@@ -206,9 +206,9 @@
       "ID": "0000_achv_kickEverything",
       "SetID": "dhn82m5",
       "Name": "Let the boot talk",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "0000_achv_noskip",
@@ -350,9 +350,9 @@
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "2002_achv_feedfish",
@@ -374,17 +374,17 @@
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "2004_achv_hitkyra",
       "SetID": "dhn82m5",
       "Name": "The hands of a healer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "2005n_achv_chapter2",
@@ -543,8 +543,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:03:48.2234734+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:08:51.5238394+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:02.5979745+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:59:56.7831126+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:03:48.2235051+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:04:46.8258898+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:08:51.5238721+00:00"
 }

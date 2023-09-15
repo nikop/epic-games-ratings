@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -244,7 +244,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 229712,
+  "EOS_Progressed": 229713,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 2,
@@ -15659,6 +15659,11 @@
       "Time": "2023-09-15T12:07:33.8646671+00:00",
       "NumProgressed": 229712,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T13:12:45.7474371+00:00",
+      "NumProgressed": 229713,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -15734,7 +15739,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82696
+      "UsersEstimate": 82697
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -15870,7 +15875,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9188
+      "UsersEstimate": 9189
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -15893,7 +15898,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229712,
+      "Progressed": 229713,
       "Completed": 5
     }
   ],
@@ -15901,8 +15906,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-14T16:00:52.1630549+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:07:33.8646667+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:12:45.7474366+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:45.3291126+00:00",
-  "LastUpdate_Ratings": "2023-09-15T12:00:33.6085058+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:07:33.864751+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:05:27.3744546+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:12:45.7475284+00:00"
 }

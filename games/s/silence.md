@@ -7,13 +7,13 @@
 | Fire in the... nevermind | 52.00% | ~59 |
 | Chapter I | 50.00% | ~56 |
 | Haute cuisine | 46.00% | ~52 |
-| I didn't do it! | 41.00% | ~46 |
+| I didn't do it! | 42.00% | ~47 |
 | Demolition expert | 36.00% | ~41 |
+| Wooooooow! | 36.00% | ~41 |
 | Artistic fool | 35.00% | ~40 |
 | Keep away from children | 35.00% | ~40 |
-| Wooooooow! | 35.00% | ~40 |
 | Open up wide | 34.00% | ~38 |
-| Let the boot talk | 28.00% | ~32 |
+| Let the boot talk | 29.00% | ~33 |
 | Chapter II | 28.00% | ~32 |
 | Achoo!! | 27.00% | ~31 |
 | Chapter III | 26.00% | ~29 |
@@ -38,9 +38,9 @@
 | Where there is life, there is hope | 8.00% | ~9 |
 | It's nothing personal | 8.00% | ~9 |
 | Artistic master | 6.00% | ~7 |
+| The hands of a healer | 6.00% | ~7 |
 | Sadist | 5.00% | ~6 |
 | Fartjokes! | 5.00% | ~6 |
-| The hands of a healer | 5.00% | ~6 |
 | Life is but a dream | 4.00% | ~5 |
 | Shut up clown! | 4.00% | ~5 |
 | Checkmate in 8 moves | 3.00% | ~3 |

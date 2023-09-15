@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -2403,9 +2403,9 @@
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 247
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH049",
@@ -2427,8 +2427,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-07-02T02:29:11.8786643+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:03:12.3539973+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:08:13.3570999+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:40.1572291+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:58:27.101785+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:03:12.3540655+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:03:11.1322066+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:08:13.3571505+00:00"
 }

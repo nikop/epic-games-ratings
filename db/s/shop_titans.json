@@ -6040,7 +6040,7 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136200,
+  "EOS_Progressed": 136202,
   "EOS_Completed": 151,
   "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 4,
@@ -21260,6 +21260,11 @@
       "Time": "2023-09-15T12:08:28.2800043+00:00",
       "NumProgressed": 136200,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-15T13:13:38.9542078+00:00",
+      "NumProgressed": 136202,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -21285,9 +21290,9 @@
       "ID": "advlevel03",
       "SetID": "anfd17p",
       "Name": "A Notch Above the Rest",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 681
     },
     {
       "ID": "advlevel04",
@@ -21405,9 +21410,9 @@
       "ID": "boss01",
       "SetID": "anfd17p",
       "Name": "Bounty Hunters",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1226
     },
     {
       "ID": "boss02",
@@ -22166,15 +22171,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136200,
+      "Progressed": 136202,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-09-15T07:57:34.491495+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:08:28.2800033+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:13:38.954207+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:58:02.6525697+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:08:28.2803158+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:02:45.9461112+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:13:38.954357+00:00"
 }

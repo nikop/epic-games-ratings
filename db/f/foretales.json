@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -157,6 +157,11 @@
       "Time": "2023-09-03T02:21:11.5275696+00:00",
       "NumProgressed": 274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T13:09:21.1952192+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -192,7 +197,7 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "chapter2",
@@ -208,7 +213,7 @@
       "Name": "Is this the end?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "darkAndStinky",
@@ -368,7 +373,7 @@
       "Name": "Sneak in, sneak out",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "stronk",
@@ -392,7 +397,7 @@
       "Name": "The Bad Place",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "theGoodPlace",
@@ -438,9 +443,9 @@
       "ID": "thePirate",
       "SetID": "5bkacmp",
       "Name": "Pieces of eight!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "thePolitician",
@@ -478,9 +483,9 @@
       "ID": "welcomeToForteAiles",
       "SetID": "5bkacmp",
       "Name": "Welcome to Forte Ailes",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "youSssavedMe",
@@ -495,7 +500,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 0
     }
   ],
@@ -503,8 +508,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:04:26.030749+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:09:21.1952185+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.9021248+00:00",
-  "LastUpdate_Ratings": "2023-09-15T12:00:14.5915721+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:04:26.0307751+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:05:04.577636+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:09:21.1952454+00:00"
 }

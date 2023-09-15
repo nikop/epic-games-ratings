@@ -522,9 +522,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 19436,
+  "EOS_Progressed": 19435,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": -98,
+  "EOS_NewPlayers": -97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -6087,6 +6087,11 @@
       "Time": "2023-09-15T12:06:06.9606473+00:00",
       "NumProgressed": 19436,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-09-15T13:11:10.3126716+00:00",
+      "NumProgressed": 19435,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 37,
@@ -6130,7 +6135,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 16132
+      "UsersEstimate": 16131
     },
     {
       "ID": "ach.060.goingdistance",
@@ -6154,7 +6159,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13605
+      "UsersEstimate": 13604
     },
     {
       "ID": "ach.090.perfectionist",
@@ -6162,7 +6167,7 @@
       "Name": "Perfectionist",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4665
+      "UsersEstimate": 4664
     },
     {
       "ID": "ach.100.indecisive",
@@ -6178,7 +6183,7 @@
       "Name": "Multiverse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1360
     },
     {
       "ID": "ach.120.simplification",
@@ -6194,7 +6199,7 @@
       "Name": "Minimalist",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 17687
+      "UsersEstimate": 17686
     },
     {
       "ID": "ach.140.legacy",
@@ -6202,7 +6207,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 19047
+      "UsersEstimate": 19046
     },
     {
       "ID": "ach.150.pocket",
@@ -6210,7 +6215,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 12828
+      "UsersEstimate": 12827
     },
     {
       "ID": "ach.160.box",
@@ -6290,7 +6295,7 @@
       "Name": "Before the Downfall",
       "Percentage": 94,
       "XP": 60,
-      "UsersEstimate": 18270
+      "UsersEstimate": 18269
     },
     {
       "ID": "ach.260.investor",
@@ -6306,7 +6311,7 @@
       "Name": "The poor groundwater levels",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1360
     },
     {
       "ID": "ach.280.metropolis",
@@ -6314,7 +6319,7 @@
       "Name": "Metropolis",
       "Percentage": 7,
       "XP": 110,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1360
     },
     {
       "ID": "ach.290.hightech",
@@ -6354,7 +6359,7 @@
       "Name": "Money like Water",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 17881
+      "UsersEstimate": 17880
     },
     {
       "ID": "ach.340.steel",
@@ -6393,7 +6398,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 19436,
+      "Progressed": 19435,
       "Completed": 37
     }
   ],
@@ -6401,8 +6406,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-09-06T12:01:41.553383+00:00",
-  "LastChanged_Achievements": "2023-09-15T12:06:06.9606469+00:00",
+  "LastChanged_Achievements": "2023-09-15T13:11:10.3126708+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:31.0069073+00:00",
-  "LastUpdate_Ratings": "2023-09-15T11:59:56.4233906+00:00",
-  "LastUpdate_Achievements": "2023-09-15T12:06:06.9606956+00:00"
+  "LastUpdate_Ratings": "2023-09-15T13:04:46.5143642+00:00",
+  "LastUpdate_Achievements": "2023-09-15T13:11:10.3127206+00:00"
 }

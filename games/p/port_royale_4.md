@@ -20,7 +20,7 @@ Number of Ratings: 53  (23.09.2022)
 | Licence to Kill | 36.00% | ~318 |
 | Pirates! | 35.00% | ~309 |
 | Collectionitis | 29.00% | ~256 |
-| Megalomania | 28.00% | ~247 |
+| Megalomania | 29.00% | ~256 |
 | Christening | 27.00% | ~238 |
 | Groundskeeper | 26.00% | ~230 |
 | Wholesale | 22.00% | ~194 |
