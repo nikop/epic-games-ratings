@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Witchlight Carnival | 0.20% | ~390 |
 | Thieves of the Coven | 0.20% | ~390 |
 | The Silken Swamp | 0.20% | ~458 |
+| Wet Feet | 0.20% | ~458 |
 | Supply Run | 0.20% | ~458 |
 | Vecna Lives! | 0.20% | ~390 |
 | Vecna Loots! | 0.20% | ~390 |
@@ -66,6 +67,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.20% | ~458 |
 | Constant Banditry | 0.20% | ~458 |
 | Waterdeep Detours | 0.20% | ~458 |
+| Lost in the Deep | 0.20% | ~458 |
 | Easily Distracted | 0.20% | ~458 |
 | Underdeep Cartography | 0.20% | ~458 |
 | Overdue Rendezvous | 0.20% | ~458 |
@@ -114,7 +116,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~195 |
 | Zarak's Revenge | 0.10% | ~195 |
 | Bully for You! | 0.10% | ~195 |
-| Wet Feet | 0.10% | ~229 |
 | The Dark Heart | 0.10% | ~195 |
 | Undergeared | 0.10% | ~195 |
 | Underdark Chill | 0.10% | ~195 |
@@ -415,7 +416,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mirage Arcane | 0.10% | ~195 |
 | Only Human | 0.10% | ~195 |
 | The Long Haul | 0.10% | ~229 |
-| Lost in the Deep | 0.10% | ~229 |
 | Rude Welcome | 0.10% | ~229 |
 | Moose Tracks | 0.10% | ~195 |
 | An Awakened Axe | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,819 (Ranked 55)  
+Progressed: 228,822 (Ranked 55)  
 Completed: 2,280 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -675,17 +675,17 @@ Completed: 2,280 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,819 | 2,280 |
+| 2023-09-15 | 228,822 | 2,280 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
-Sum: 31,587 (Ranked 39)  
+Sum: 31,588 (Ranked 39)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,276 |
 | This game is Great for Beginners | 5,256 |
 | This game has Quickly Understood Controls | 4,764 |
-| This game is Relaxing | 4,651 |
+| This game is Relaxing | 4,652 |
 | This game has Amazing Characters | 4,117 |
 | This game is Highly Recommended | 4,107 |
 | This game has Playful Visuals | 3,416 |
@@ -924,3 +924,4 @@ Diff (max vs sum): 28
 | 2023-09-12 | 4.06 | - | 5,266 | 31,551 |
 | 2023-09-13 | 4.06 | - | 5,270 | 31,567 |
 | 2023-09-14 | 4.06 | - | 5,276 | 31,587 |
+| 2023-09-15 | 4.06 | - | 5,276 | 31,588 |

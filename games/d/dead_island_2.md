@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Git Gutte! | 2.00% | ~13,597 |
-| Break A Leg | 2.00% | ~13,597 |
-| Coup de Grâce | 2.00% | ~13,597 |
-| Hazardous Materials | 2.00% | ~13,597 |
-| Hotel California | 2.00% | ~13,597 |
-| Personal Assistant Personally Assisted | 2.00% | ~13,597 |
-| Welcome To Hell-A | 2.00% | ~13,597 |
+| Git Gutte! | 2.00% | ~13,598 |
+| Break A Leg | 2.00% | ~13,598 |
+| Coup de Grâce | 2.00% | ~13,598 |
+| Hazardous Materials | 2.00% | ~13,598 |
+| Hotel California | 2.00% | ~13,598 |
+| Personal Assistant Personally Assisted | 2.00% | ~13,598 |
+| Welcome To Hell-A | 2.00% | ~13,598 |
 | Dr. Reed, I Presume? | 1.00% | ~6,799 |
 | Anger Management | 1.00% | ~6,799 |
 | Perks of the Job | 1.00% | ~6,799 |
@@ -38,9 +38,9 @@ Rating: 4.54 (Ranked 502)
 | Smorgasbord | 0.50% | ~3,399 |
 | Jumbo Keyring | 0.50% | ~3,399 |
 | Rising Star | 0.50% | ~3,399 |
-| On Safari | 0.40% | ~2,719 |
-| Not Even My Final Form | 0.40% | ~2,719 |
-| Internet Famous | 0.40% | ~2,719 |
+| On Safari | 0.40% | ~2,720 |
+| Not Even My Final Form | 0.40% | ~2,720 |
+| Internet Famous | 0.40% | ~2,720 |
 | Make it So | 0.30% | ~2,040 |
 | LA Influential | 0.30% | ~2,040 |
 | Gore Horse | 0.30% | ~2,040 |
@@ -51,7 +51,7 @@ Rating: 4.54 (Ranked 502)
 | Donk! | 0.10% | ~680 |
 | Bucket List | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,873 (Ranked 22)  
+Progressed: 679,880 (Ranked 22)  
 Completed: 2,143 (0.32%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 2,143 (0.32%) (Ranked 178)
 | 2023-09-12 | 678,807 | 2,143 |
 | 2023-09-13 | 679,351 | 2,143 |
 | 2023-09-14 | 679,831 | 2,143 |
-| 2023-09-15 | 679,873 | 2,143 |
+| 2023-09-15 | 679,880 | 2,143 |
 ## Awards
 Max (Great Boss Battles): 6,038  (Ranked 57)  
 Sum: 8,956 (Ranked 94)  

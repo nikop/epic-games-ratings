@@ -5,7 +5,7 @@ Rating: 4.77 (Ranked 109)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 14.00% | ~41,526 |
+| The Sort Who Makes an Entrance | 14.00% | ~41,527 |
 | First Class Student | 13.00% | ~38,560 |
 | A Keen Sense of Spell | 12.00% | ~35,594 |
 | Troll with the Punches | 12.00% | ~35,594 |
@@ -17,10 +17,10 @@ Rating: 4.77 (Ranked 109)
 | Loom for Improvement | 10.00% | ~29,662 |
 | A Talent for Spending | 10.00% | ~29,662 |
 | Coasting Along | 10.00% | ~29,662 |
-| The Hero of Hogwarts | 9.00% | ~26,695 |
-| Challenge Accepted | 9.00% | ~26,695 |
-| Followed the Butterflies | 9.00% | ~26,695 |
-| Rising From the Ashes | 9.00% | ~26,695 |
+| The Hero of Hogwarts | 9.00% | ~26,696 |
+| Challenge Accepted | 9.00% | ~26,696 |
+| Followed the Butterflies | 9.00% | ~26,696 |
+| Rising From the Ashes | 9.00% | ~26,696 |
 | A Sallow Grave | 8.00% | ~23,729 |
 | The Spell Master | 8.00% | ~23,729 |
 | The Avenging Gazelle | 7.00% | ~20,763 |
@@ -37,7 +37,7 @@ Rating: 4.77 (Ranked 109)
 | The Intrepid Explorer | 4.00% | ~11,865 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,865 |
 | The Wise Owl | 4.00% | ~11,865 |
-| Floo Around the World | 3.00% | ~8,898 |
+| Floo Around the World | 3.00% | ~8,899 |
 | The Good Samaritan | 2.00% | ~5,932 |
 | Put Down Roots | 2.00% | ~5,932 |
 | The Auror's Apprentice | 2.00% | ~5,932 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,616 (Ranked 43)  
+Progressed: 296,618 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-12 | 296,501 | 470 |
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
-| 2023-09-15 | 296,616 | 470 |
+| 2023-09-15 | 296,618 | 470 |
 ## Awards
 Max (Character Customization): 22,661  (Ranked 17)  
 Sum: 43,276 (Ranked 30)  

@@ -19,7 +19,7 @@
 | In this together | 25.00% | ~39 |
 | Half the way | 25.00% | ~39 |
 | Peace walker | 24.00% | ~37 |
-| Open door | 23.00% | ~36 |
+| Open door | 24.00% | ~37 |
 | Feels like springtime | 21.00% | ~33 |
 | Rascal | 21.00% | ~33 |
 | Free at last | 19.00% | ~29 |

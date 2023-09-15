@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4274,
+  "EOS_Progressed": 4275,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1185,6 +1185,11 @@
       "Time": "2023-09-14T20:08:53.9348912+00:00",
       "NumProgressed": 4274,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T04:09:35.5766839+00:00",
+      "NumProgressed": 4275,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1196,7 +1201,7 @@
       "Name": "The Art of War",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_AUTOTRADE_01",
@@ -1252,7 +1257,7 @@
       "Name": "Five brews are a schnitzel",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS1",
@@ -1292,7 +1297,7 @@
       "Name": "I like to build stuff... V",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_BURNEDDOWN1",
@@ -1324,7 +1329,7 @@
       "Name": "The King\u0027s new clothes III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_DECO_CATEGORIES",
@@ -1380,7 +1385,7 @@
       "Name": "My precious... II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_JEWELS3",
@@ -1388,7 +1393,7 @@
       "Name": "My precious... III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_LASTMANSTANDING",
@@ -1444,7 +1449,7 @@
       "Name": "Builder III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_POPULATION4",
@@ -1500,7 +1505,7 @@
       "Name": "Completionist II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_QUESTS3",
@@ -1564,7 +1569,7 @@
       "Name": "Genius",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_SAUSAGES",
@@ -1780,7 +1785,7 @@
       "Name": "I\u0027ve been everywhere V",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_TWELVE",
@@ -1908,7 +1913,7 @@
       "Name": "A time consuming game IV",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_TIME5",
@@ -1940,7 +1945,7 @@
       "Name": "Tools of the trade III",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION01",
@@ -1956,7 +1961,7 @@
       "Name": "Friends from the past",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -1988,7 +1993,7 @@
       "Name": "Out of the frying pan",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_YOUSHALLNOTPASS",
@@ -2003,15 +2008,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4274,
+      "Progressed": 4275,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-15T03:09:45.6844199+00:00",
+  "LastChanged_Achievements": "2023-09-15T04:09:35.5766833+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:21.3448212+00:00",
-  "LastUpdate_Ratings": "2023-09-15T02:58:13.0627252+00:00",
-  "LastUpdate_Achievements": "2023-09-15T03:09:45.6845412+00:00"
+  "LastUpdate_Ratings": "2023-09-15T03:57:59.7749206+00:00",
+  "LastUpdate_Achievements": "2023-09-15T04:09:35.5768394+00:00"
 }

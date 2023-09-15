@@ -9,7 +9,7 @@ Number of Ratings: 37  (23.09.2022)
 | Eureka! | 12.00% | ~513 |
 | Tax-man I | 11.00% | ~470 |
 | A new beginning | 11.00% | ~470 |
-| Friends from the past | 10.00% | ~427 |
+| Friends from the past | 10.00% | ~428 |
 | I like to build stuff... I | 9.00% | ~385 |
 | A time consuming game I | 8.00% | ~342 |
 | Builder I | 7.00% | ~299 |
@@ -45,19 +45,19 @@ Number of Ratings: 37  (23.09.2022)
 | My precious... I | 3.00% | ~128 |
 | Cosmas and Damian | 3.00% | ~128 |
 | Tools of the trade II | 3.00% | ~128 |
-| The Art of War | 2.00% | ~85 |
-| Five brews are a schnitzel | 2.00% | ~85 |
-| I like to build stuff... V | 2.00% | ~85 |
-| The King's new clothes III | 2.00% | ~85 |
-| My precious... II | 2.00% | ~85 |
-| My precious... III | 2.00% | ~85 |
-| Builder III | 2.00% | ~85 |
-| Completionist II | 2.00% | ~85 |
-| Genius | 2.00% | ~85 |
-| I've been everywhere V | 2.00% | ~85 |
-| A time consuming game IV | 2.00% | ~85 |
-| Tools of the trade III | 2.00% | ~85 |
-| Out of the frying pan | 2.00% | ~85 |
+| The Art of War | 2.00% | ~86 |
+| Five brews are a schnitzel | 2.00% | ~86 |
+| I like to build stuff... V | 2.00% | ~86 |
+| The King's new clothes III | 2.00% | ~86 |
+| My precious... II | 2.00% | ~86 |
+| My precious... III | 2.00% | ~86 |
+| Builder III | 2.00% | ~86 |
+| Completionist II | 2.00% | ~86 |
+| Genius | 2.00% | ~86 |
+| I've been everywhere V | 2.00% | ~86 |
+| A time consuming game IV | 2.00% | ~86 |
+| Tools of the trade III | 2.00% | ~86 |
+| Out of the frying pan | 2.00% | ~86 |
 | Survivalist | 1.00% | ~43 |
 | Lord of War | 1.00% | ~43 |
 | Plague strikes! | 1.00% | ~43 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,274 (Ranked 154)  
+Progressed: 4,275 (Ranked 154)  
 Completed: 3 (0.07%) (Ranked 232)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,6 +193,7 @@ Completed: 3 (0.07%) (Ranked 232)
 | 2023-09-10 | 4,271 | 3 |
 | 2023-09-11 | 4,272 | 3 |
 | 2023-09-14 | 4,274 | 3 |
+| 2023-09-15 | 4,275 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -896,10 +896,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 254,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-09-15T04:00:43.623808+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 255,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254,
+  "NumberOfAwards": 255,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -931,7 +937,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has a Competitive Community",
@@ -958,7 +964,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 256231,
+  "EOS_Progressed": 256232,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
@@ -15878,6 +15884,11 @@
       "Time": "2023-09-15T03:04:07.5167005+00:00",
       "NumProgressed": 256231,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T04:03:48.1752977+00:00",
+      "NumProgressed": 256232,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -16336,16 +16347,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 256231,
+      "Progressed": 256232,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-09-14T10:59:35.6722444+00:00",
-  "LastChanged_Achievements": "2023-09-15T03:04:07.5166996+00:00",
+  "LastChanged": "2023-09-15T04:00:43.6238077+00:00",
+  "LastChanged_Achievements": "2023-09-15T04:03:48.175297+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:10.9065613+00:00",
-  "LastUpdate_Ratings": "2023-09-15T03:00:52.1948717+00:00",
-  "LastUpdate_Achievements": "2023-09-15T03:04:07.5168658+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:00:43.6238088+00:00",
+  "LastUpdate_Achievements": "2023-09-15T04:03:48.175461+00:00"
 }

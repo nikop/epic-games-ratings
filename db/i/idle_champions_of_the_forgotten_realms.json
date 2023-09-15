@@ -6602,10 +6602,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 31587,
       "NumberOfAwardsMax": 5276
+    },
+    {
+      "Time": "2023-09-15T03:57:25.832054+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 31588,
+      "NumberOfAwardsMax": 5276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31587,
+  "NumberOfAwards": 31588,
   "NumberOfAwardsMax": 5276,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6631,7 +6637,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4651
+      "Count": 4652
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6652,9 +6658,9 @@
       "Count": 3416
     }
   ],
-  "EOS_Progressed": 228819,
+  "EOS_Progressed": 228822,
   "EOS_Completed": 2280,
-  "EOS_NewPlayers": 967,
+  "EOS_NewPlayers": 966,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -22992,6 +22998,11 @@
       "Time": "2023-09-15T03:06:29.0166332+00:00",
       "NumProgressed": 228819,
       "NumCompleted": 2280
+    },
+    {
+      "Time": "2023-09-15T04:06:19.1184902+00:00",
+      "NumProgressed": 228822,
+      "NumCompleted": 2280
     }
   ],
   "TotalAchievements": 520,
@@ -23377,9 +23388,9 @@
       "ID": "objective_completed_110",
       "SetID": "cc37lbc",
       "Name": "Wet Feet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_1100",
@@ -26185,9 +26196,9 @@
       "ID": "objective_completed_75",
       "SetID": "cc37lbc",
       "Name": "Lost in the Deep",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_76",
@@ -27162,21 +27173,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195093,
+      "Progressed": 195096,
       "Completed": 3427
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228819,
+      "Progressed": 228822,
       "Completed": 2280
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-09-14T22:57:21.0754786+00:00",
-  "LastChanged_Achievements": "2023-09-15T03:06:29.0166327+00:00",
+  "LastChanged": "2023-09-15T03:57:25.8320533+00:00",
+  "LastChanged_Achievements": "2023-09-15T04:06:19.1184896+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-15T02:57:39.2626837+00:00",
-  "LastUpdate_Achievements": "2023-09-15T03:06:29.0194462+00:00"
+  "LastUpdate_Ratings": "2023-09-15T03:57:25.8320546+00:00",
+  "LastUpdate_Achievements": "2023-09-15T04:06:19.1222558+00:00"
 }

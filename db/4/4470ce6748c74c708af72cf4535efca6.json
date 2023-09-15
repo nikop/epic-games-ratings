@@ -501,25 +501,25 @@
       "ID": "43",
       "SetID": "5e3maia",
       "Name": "Emperor",
-      "Percentage": 17,
-      "XP": 10,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "44",
-      "SetID": "5e3maia",
-      "Name": "Fan",
       "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 9
     },
     {
+      "ID": "44",
+      "SetID": "5e3maia",
+      "Name": "Fan",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
       "ID": "45",
       "SetID": "5e3maia",
       "Name": "Child",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "46",
@@ -637,9 +637,9 @@
       "ID": "59",
       "SetID": "5e3maia",
       "Name": "Pioneer",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "6",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-15T03:05:40.1125973+00:00",
+  "LastChanged_Achievements": "2023-09-15T04:05:29.9740419+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-15T03:01:21.6429359+00:00",
-  "LastUpdate_Achievements": "2023-09-15T03:05:40.1126686+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:01:10.6827003+00:00",
+  "LastUpdate_Achievements": "2023-09-15T04:05:29.9741396+00:00"
 }

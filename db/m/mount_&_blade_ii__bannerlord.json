@@ -7137,9 +7137,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61027,
+  "EOS_Progressed": 61028,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22737,6 +22737,11 @@
       "Time": "2023-09-15T02:23:56.881775+00:00",
       "NumProgressed": 61027,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T04:07:23.3780968+00:00",
+      "NumProgressed": 61028,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22836,7 +22841,7 @@
       "Name": "Dynasty",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5492
+      "UsersEstimate": 5493
     },
     {
       "ID": "Entrepreneur",
@@ -22924,7 +22929,7 @@
       "Name": "I spit on your grave",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5492
+      "UsersEstimate": 5493
     },
     {
       "ID": "Jack of All Trades",
@@ -23148,22 +23153,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5492
+      "UsersEstimate": 5493
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61027,
+      "Progressed": 61028,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-14T20:59:18.7522661+00:00",
-  "LastChanged_Achievements": "2023-09-15T03:07:34.4427939+00:00",
+  "LastChanged_Achievements": "2023-09-15T04:07:23.3780962+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-15T03:00:16.8836517+00:00",
-  "LastUpdate_Achievements": "2023-09-15T03:07:34.4429603+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:00:07.2103554+00:00",
+  "LastUpdate_Achievements": "2023-09-15T04:07:23.3782614+00:00"
 }

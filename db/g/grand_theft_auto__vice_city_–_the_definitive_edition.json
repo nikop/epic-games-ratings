@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -646,7 +646,7 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 9907,
+  "EOS_Progressed": 9908,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
@@ -9401,6 +9401,11 @@
       "Time": "2023-09-15T02:25:11.9828943+00:00",
       "NumProgressed": 9907,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-09-15T04:08:38.9144985+00:00",
+      "NumProgressed": 9908,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 34,
@@ -9484,7 +9489,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACH11",
@@ -9572,7 +9577,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     },
     {
       "ID": "ACH22",
@@ -9580,7 +9585,7 @@
       "Name": "Life of the Party",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "ACH23",
@@ -9628,7 +9633,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACH29",
@@ -9683,7 +9688,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9907,
+      "Progressed": 9908,
       "Completed": 55
     }
   ],
@@ -9691,8 +9696,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-13T17:57:32.0415645+00:00",
-  "LastChanged_Achievements": "2023-09-15T03:08:49.2717509+00:00",
+  "LastChanged_Achievements": "2023-09-15T04:08:38.914498+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-15T02:58:30.0344539+00:00",
-  "LastUpdate_Achievements": "2023-09-15T03:08:49.2718412+00:00"
+  "LastUpdate_Ratings": "2023-09-15T03:58:19.1820327+00:00",
+  "LastUpdate_Achievements": "2023-09-15T04:08:38.9145905+00:00"
 }
