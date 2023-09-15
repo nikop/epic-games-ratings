@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 834)
 | Are you still there? | 0.40% | ~266 |
 | Ear Ringing | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,411 (Ranked 86)  
+Progressed: 66,412 (Ranked 86)  
 Completed: 14 (0.02%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 14 (0.02%) (Ranked 253)
 | 2023-09-12 | 66,348 | 14 |
 | 2023-09-13 | 66,367 | 14 |
 | 2023-09-14 | 66,389 | 14 |
-| 2023-09-15 | 66,411 | 14 |
+| 2023-09-15 | 66,412 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

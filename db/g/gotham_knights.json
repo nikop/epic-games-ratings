@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -2930,9 +2930,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 72562,
+  "EOS_Progressed": 72563,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -15560,6 +15560,11 @@
       "Time": "2023-09-15T22:02:23.582487+00:00",
       "NumProgressed": 72562,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-09-15T23:03:06.6989785+00:00",
+      "NumProgressed": 72563,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 61,
@@ -15569,9 +15574,9 @@
       "ID": "AC1_HA_BLACKGATE",
       "SetID": "18c818l",
       "Name": "Hammer and Icicle",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 171
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -15651,7 +15656,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8707
+      "UsersEstimate": 8708
     },
     {
       "ID": "APPLY_STATUS",
@@ -15707,7 +15712,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2902
+      "UsersEstimate": 2903
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -15747,7 +15752,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8707
+      "UsersEstimate": 8708
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -15859,7 +15864,7 @@
       "Name": "History Major",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "GOTHAM_MURALS",
@@ -15883,7 +15888,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18140
+      "UsersEstimate": 18141
     },
     {
       "ID": "HARLEY_3",
@@ -15891,7 +15896,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14512
+      "UsersEstimate": 14513
     },
     {
       "ID": "HARLEY_4",
@@ -15915,7 +15920,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 37732
+      "UsersEstimate": 37733
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -15939,7 +15944,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14512
+      "UsersEstimate": 14513
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -15971,7 +15976,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 18140
+      "UsersEstimate": 18141
     },
     {
       "ID": "MYSTERY_03",
@@ -15987,7 +15992,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14512
+      "UsersEstimate": 14513
     },
     {
       "ID": "MYSTERY_05",
@@ -16019,7 +16024,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8707
+      "UsersEstimate": 8708
     },
     {
       "ID": "SECRET_CACHE",
@@ -16058,13 +16063,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 72562,
+      "Progressed": 72563,
       "Completed": 113
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 42842,
+      "Progressed": 42843,
       "Completed": 2663
     }
   ],
@@ -16072,8 +16077,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-09-15T15:59:21.1579793+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:02:23.5824863+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:03:06.6989775+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:00:07.0916398+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:59:15.3418282+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:02:23.5826408+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:59:53.9977368+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:03:06.6991287+00:00"
 }

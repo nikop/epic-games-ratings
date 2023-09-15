@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2069,9 +2069,9 @@
       "ID": "ID_03_SONIC2_WATCH_OPENING",
       "SetID": "7o8nc5m",
       "Name": "Welcome to Sonic the Hedgehog 2",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 343
     },
     {
       "ID": "ID_04_SONIC3K_WATCH_OPENING",
@@ -2149,9 +2149,9 @@
       "ID": "ID_13_RING_COLLECTOR",
       "SetID": "7o8nc5m",
       "Name": "Ring Collector",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 329
     },
     {
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
@@ -2341,8 +2341,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:03:08.6162323+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:03:11.6066547+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.7477215+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:57:09.5560474+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:03:08.6162789+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:57:08.773474+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:03:11.60675+00:00"
 }

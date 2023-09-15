@@ -6,12 +6,12 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~35,786 |
+| Goodest Of The Good Cops | 28.00% | ~35,787 |
 | Biggest Communism Builder | 24.00% | ~30,674 |
 | The World's Most Laughable Centrist | 21.00% | ~26,840 |
-| Il Coppo Del'Arte! | 18.00% | ~23,005 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,449 |
-| Hyperstellar Law Official | 16.00% | ~20,449 |
+| Il Coppo Del'Arte! | 18.00% | ~23,006 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,450 |
+| Hyperstellar Law Official | 16.00% | ~20,450 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~17,893 |
 | Gurdi-Ball Is Lit | 14.00% | ~17,893 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,615 |
@@ -19,7 +19,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Unbelievably Boring **** | 9.00% | ~11,503 |
 | The Figurines Won't Win Her Back | 9.00% | ~11,503 |
 | Enemy Of The Physical Realm | 8.00% | ~10,225 |
-| Hardie's Heroes | 6.00% | ~7,668 |
+| Hardie's Heroes | 6.00% | ~7,669 |
 | The Lawbringer | 4.00% | ~5,112 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,112 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,834 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~128 |
 | What body? | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,808 (Ranked 71)  
+Progressed: 127,810 (Ranked 71)  
 Completed: 28 (0.02%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,10 +195,10 @@ Completed: 28 (0.02%) (Ranked 253)
 | 2023-09-12 | 127,571 | 28 |
 | 2023-09-13 | 127,613 | 28 |
 | 2023-09-14 | 127,669 | 28 |
-| 2023-09-15 | 127,808 | 28 |
+| 2023-09-15 | 127,810 | 28 |
 ## Awards
 Max (Character Customization): 723  (Ranked 166)  
-Sum: 1,087 (Ranked 237)  
+Sum: 1,088 (Ranked 237)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
@@ -210,8 +210,8 @@ Diff (max vs sum): -71
 | This game has Unique Visuals | 36 |
 | This game has Amazing Characters | 36 |
 | This game is Relaxing | 35 |
+| This game has Diverse Characters | 31 |
 | This game is Extremely Fun | 30 |
-| This game has Diverse Characters | 30 |
 | This game has Obsessive Gameplay | 26 |
 | This game has a Creative Community | 23 |
 | This game has Easy Combat | 20 |
@@ -344,3 +344,4 @@ Diff (max vs sum): -71
 | 2023-08-22 | 4.87 | - | 721 | 1,085 |
 | 2023-09-04 | 4.87 | - | 722 | 1,086 |
 | 2023-09-13 | 4.87 | - | 723 | 1,087 |
+| 2023-09-15 | 4.87 | - | 723 | 1,088 |

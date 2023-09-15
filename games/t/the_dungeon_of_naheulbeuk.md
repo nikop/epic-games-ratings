@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 30.00% | ~67,282 |
+| Sowwy! | 30.00% | ~67,286 |
 | Alt+F4 | 5.00% | ~11,214 |
 | Where's that freaking Dwarf? | 4.00% | ~8,971 |
-| Déjà vu | 3.00% | ~6,728 |
-| Sock! SOCK! | 3.00% | ~6,728 |
-| Speedrun | 3.00% | ~6,728 |
-| Livin' in a dwarven paradise | 2.00% | ~4,485 |
-| Way of the Wimp | 2.00% | ~4,485 |
-| A beer, two curses, three companions | 2.00% | ~4,485 |
-| The plot thickens... At the tavern | 2.00% | ~4,485 |
-| GG EZ | 2.00% | ~4,485 |
-| DM intervention | 2.00% | ~4,485 |
-| Fireproof Wizardess | 2.00% | ~4,485 |
+| Déjà vu | 3.00% | ~6,729 |
+| Sock! SOCK! | 3.00% | ~6,729 |
+| Speedrun | 3.00% | ~6,729 |
+| Livin' in a dwarven paradise | 2.00% | ~4,486 |
+| Way of the Wimp | 2.00% | ~4,486 |
+| A beer, two curses, three companions | 2.00% | ~4,486 |
+| The plot thickens... At the tavern | 2.00% | ~4,486 |
+| GG EZ | 2.00% | ~4,486 |
+| DM intervention | 2.00% | ~4,486 |
+| Fireproof Wizardess | 2.00% | ~4,486 |
 | Shiny and Crôm | 1.00% | ~2,243 |
 | The demons' feast | 1.00% | ~2,243 |
 | The Great Library | 1.00% | ~2,243 |
@@ -34,11 +34,11 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 1.00% | ~2,243 |
 | Team Building Exercise | 1.00% | ~2,243 |
 | Oh, when I'll be level 10... | 1.00% | ~2,243 |
-| Res Judicata | 0.90% | ~2,018 |
-| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,018 |
-| Dwarf Fortress | 0.90% | ~2,018 |
-| %#*!$*! | 0.90% | ~2,018 |
-| Look but don't touch | 0.90% | ~2,018 |
+| Res Judicata | 0.90% | ~2,019 |
+| The Famous Dungeon of Naheulbeuk | 0.90% | ~2,019 |
+| Dwarf Fortress | 0.90% | ~2,019 |
+| %#*!$*! | 0.90% | ~2,019 |
+| Look but don't touch | 0.90% | ~2,019 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 0.80% | ~1,794 |
 | Lust and Debauchery | 0.70% | ~1,570 |
 | Dead for good | 0.60% | ~1,346 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~224 |
 | Sleep schedule mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224,274 (Ranked 57)  
+Progressed: 224,285 (Ranked 57)  
 Completed: 3 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,7 +202,7 @@ Completed: 3 (0.00%) (Ranked 275)
 | 2023-09-12 | 223,556 | 2 |
 | 2023-09-13 | 223,808 | 2 |
 | 2023-09-14 | 224,052 | 2 |
-| 2023-09-15 | 224,274 | 3 |
+| 2023-09-15 | 224,285 | 3 |
 ## Awards
 Max (Character Customization): 196  (Ranked 275)  
 Sum: 315 (Ranked 338)  

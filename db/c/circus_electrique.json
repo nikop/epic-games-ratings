@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -434,6 +434,11 @@
       "Time": "2023-09-15T10:06:36.4485632+00:00",
       "NumProgressed": 462,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T23:07:47.4364535+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -445,7 +450,7 @@
       "Name": "Grand Opening",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -493,15 +498,15 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "631ndc2",
       "Name": "Built in a Day",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -509,7 +514,7 @@
       "Name": "Path of Learning",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -539,9 +544,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "631ndc2",
       "Name": "Bar Brawler",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -573,7 +578,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -653,7 +658,7 @@
       "Name": "City Savior",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -709,7 +714,7 @@
       "Name": "King of District 5",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -731,9 +736,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "631ndc2",
       "Name": "Flawless Presentation",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -844,7 +849,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 1
     }
   ],
@@ -852,8 +857,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:06:46.657536+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:07:47.4364529+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:28.7261895+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:57:36.623295+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:06:46.6575868+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:57:43.7408985+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:07:47.4365038+00:00"
 }

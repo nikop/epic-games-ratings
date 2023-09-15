@@ -1756,9 +1756,9 @@
       "ID": "AC29",
       "SetID": "l4abp0",
       "Name": "The Veteran One",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 238
     },
     {
       "ID": "AC30",
@@ -1901,8 +1901,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-09-15T19:02:03.4848226+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:05:49.5698122+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:06:34.6900068+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:03.0024966+00:00",
-  "LastUpdate_Ratings": "2023-09-15T22:00:38.4143734+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:05:49.5698606+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:01:34.2910402+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:06:34.6900528+00:00"
 }

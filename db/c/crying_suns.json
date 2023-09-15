@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -604,9 +604,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467382,
+  "EOS_Progressed": 467385,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16169,6 +16169,11 @@
       "Time": "2023-09-15T22:06:59.9106891+00:00",
       "NumProgressed": 467382,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-15T23:08:04.5521198+00:00",
+      "NumProgressed": 467385,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16180,7 +16185,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70107
+      "UsersEstimate": 70108
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -16188,7 +16193,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70107
+      "UsersEstimate": 70108
     },
     {
       "ID": "achievement_first_death",
@@ -16204,7 +16209,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 102824
+      "UsersEstimate": 102825
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -16212,7 +16217,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70107
+      "UsersEstimate": 70108
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -16268,7 +16273,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 308472
+      "UsersEstimate": 308474
     },
     {
       "ID": "achievement_story_landa",
@@ -16348,7 +16353,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70107
+      "UsersEstimate": 70108
     },
     {
       "ID": "achievement_story_neon_child",
@@ -16356,7 +16361,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93476
+      "UsersEstimate": 93477
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -16364,7 +16369,7 @@
       "Name": "Second Coming",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154236
+      "UsersEstimate": 154237
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -16604,7 +16609,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205648
+      "UsersEstimate": 205649
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -16612,7 +16617,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 140215
+      "UsersEstimate": 140216
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -16636,7 +16641,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 182279
+      "UsersEstimate": 182280
     },
     {
       "ID": "achievement_win_run_hard",
@@ -16652,7 +16657,7 @@
       "Name": "Geno Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14021
+      "UsersEstimate": 14022
     },
     {
       "ID": "achievement_win_run_with_church",
@@ -16668,7 +16673,7 @@
       "Name": "Hammer Rule",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14021
+      "UsersEstimate": 14022
     },
     {
       "ID": "achievement_win_run_with_pirate",
@@ -16692,7 +16697,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 102824
+      "UsersEstimate": 102825
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -16811,21 +16816,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11316,
+      "Progressed": 11319,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467382,
+      "Progressed": 467385,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-09-15T17:58:16.6901275+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:06:59.9106885+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:08:04.5521192+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.6494953+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:58:18.9858379+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:06:59.9108693+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:58:41.6102508+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:08:04.5522837+00:00"
 }

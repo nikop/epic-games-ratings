@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -6676,10 +6676,10 @@
       "Count": 3419
     }
   ],
-  "EOS_Progressed": 228911,
-  "EOS_Completed": 2284,
-  "EOS_NewPlayers": 932,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 228918,
+  "EOS_Completed": 2285,
+  "EOS_NewPlayers": 929,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
@@ -23111,6 +23111,11 @@
       "Time": "2023-09-15T22:05:36.1342506+00:00",
       "NumProgressed": 228911,
       "NumCompleted": 2284
+    },
+    {
+      "Time": "2023-09-15T23:06:17.7548224+00:00",
+      "NumProgressed": 228918,
+      "NumCompleted": 2285
     }
   ],
   "TotalAchievements": 520,
@@ -25480,9 +25485,9 @@
       "ID": "objective_completed_570",
       "SetID": "cc37lbc",
       "Name": "The Darkness Runs Deeper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_completed_571",
@@ -27281,21 +27286,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195185,
+      "Progressed": 195192,
       "Completed": 3431
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228911,
-      "Completed": 2284
+      "Progressed": 228918,
+      "Completed": 2285
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-15T16:58:09.446849+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:05:36.1342501+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:06:17.7548209+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:57:32.8676435+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:05:36.1371148+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:57:37.2803501+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:06:17.7575783+00:00"
 }

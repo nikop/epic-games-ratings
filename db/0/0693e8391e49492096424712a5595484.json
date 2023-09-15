@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 41,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -1740,9 +1740,9 @@
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 124
     },
     {
       "ID": "DwarDevil",
@@ -1876,9 +1876,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 235
     },
     {
       "ID": "PrincessThrone",
@@ -1987,8 +1987,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:03:46.7354553+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:04:09.7360318+00:00",
   "LastUpdate_AppInfo": "2023-09-12T19:57:02.7482374+00:00",
-  "LastUpdate_Ratings": "2023-09-15T22:00:24.0260227+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:03:46.7355046+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:01:15.0095986+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:04:09.736076+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| New arm | 78.00% | ~109 |
 | Shelter Escape | 78.00% | ~109 |
-| New arm | 77.00% | ~108 |
-| The First Bond | 66.00% | ~92 |
-| Novice Scavenger | 53.00% | ~74 |
+| The First Bond | 69.00% | ~97 |
+| Novice Scavenger | 54.00% | ~76 |
 | First wall | 43.00% | ~60 |
 | Master Craftsman | 42.00% | ~59 |
 | Piggyback Expert | 41.00% | ~57 |
-| Second wall | 28.00% | ~39 |
+| Second wall | 29.00% | ~41 |
 | Expert Scavenger | 26.00% | ~36 |
-| Their Rock | 21.00% | ~29 |
+| Their Rock | 22.00% | ~31 |
+| Yuna's Promise | 19.00% | ~27 |
 | Stone Retriever | 19.00% | ~27 |
-| Yuna's Promise | 18.00% | ~25 |
 | Find myself | 16.00% | ~22 |
 | Truebro | 14.00% | ~20 |
+| Sia's Promise | 12.00% | ~17 |
 | Min's Promise | 11.00% | ~15 |
-| Sia's Promise | 11.00% | ~15 |
 | Romantic | 11.00% | ~15 |
 | TentacleMAN | 8.00% | ~11 |
 | Yohan's Promise | 4.00% | ~6 |
 | Plushyboy | 4.00% | ~6 |
+| LOVEassistant | 4.00% | ~6 |
 | Flawless | 4.00% | ~6 |
-| LOVEassistant | 3.00% | ~4 |
 | Dreamboat | 2.00% | ~3 |
 | Bond Lord | 0.00% | ~0 |
 | True Player | 0.00% | ~0 |

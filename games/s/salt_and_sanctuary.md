@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~442,602 |
-| The Three | 64.00% | ~341,284 |
-| The Banquet | 40.00% | ~213,302 |
-| Devara's Light | 31.00% | ~165,309 |
+| Find Sanctuary | 83.00% | ~442,604 |
+| The Three | 64.00% | ~341,285 |
+| The Banquet | 40.00% | ~213,303 |
+| Devara's Light | 31.00% | ~165,310 |
 | The Iron Ones | 18.00% | ~95,986 |
 | The Village | 16.00% | ~85,321 |
 | The Forest | 14.00% | ~74,656 |
 | The Keep | 14.00% | ~74,656 |
-| Branded | 13.00% | ~69,323 |
-| The Imposter | 13.00% | ~69,323 |
+| Branded | 13.00% | ~69,324 |
+| The Imposter | 13.00% | ~69,324 |
 | The Castle | 11.00% | ~58,658 |
 | The Dome | 9.00% | ~47,993 |
 | The Red Hall | 9.00% | ~47,993 |
-| The Sacrifice | 8.00% | ~42,660 |
+| The Sacrifice | 8.00% | ~42,661 |
 | The Cave | 7.00% | ~37,328 |
 | The Mire | 7.00% | ~37,328 |
 | The Stone Roots | 7.00% | ~37,328 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,665 |
 | Fading Fast | 1.00% | ~5,333 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533,256 (Ranked 31)  
+Progressed: 533,258 (Ranked 31)  
 Completed: 1,546 (0.29%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,16 +192,16 @@ Completed: 1,546 (0.29%) (Ranked 183)
 | 2023-09-12 | 533,027 | 1,541 |
 | 2023-09-13 | 533,103 | 1,542 |
 | 2023-09-14 | 533,179 | 1,542 |
-| 2023-09-15 | 533,256 | 1,546 |
+| 2023-09-15 | 533,258 | 1,546 |
 ## Awards
 Max (Challenging Combat): 282  (Ranked 245)  
-Sum: 1,952 (Ranked 204)  
+Sum: 1,953 (Ranked 204)  
 Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 282 |
 | This game has Quickly Understood Controls | 259 |
-| This game is Highly Recommended | 256 |
+| This game is Highly Recommended | 257 |
 | This game has Diverse Characters | 239 |
 | This game is Extremely Fun | 239 |
 | This game has Amazing Storytelling | 231 |
@@ -370,3 +370,4 @@ Diff (max vs sum): 41
 | 2023-09-12 | 4.61 | - | 282 | 1,948 |
 | 2023-09-13 | 4.61 | - | 282 | 1,951 |
 | 2023-09-14 | 4.61 | - | 282 | 1,952 |
+| 2023-09-15 | 4.61 | - | 282 | 1,953 |

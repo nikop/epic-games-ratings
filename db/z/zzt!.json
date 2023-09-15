@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3197,
+  "EOS_Progressed": 3198,
   "EOS_Completed": 132,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.13,
   "EosHistory": [
@@ -4606,6 +4606,11 @@
       "Time": "2023-09-15T22:03:25.3168167+00:00",
       "NumProgressed": 3197,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2023-09-15T23:03:32.1075394+00:00",
+      "NumProgressed": 3198,
+      "NumCompleted": 132
     }
   ],
   "TotalAchievements": 5,
@@ -4617,7 +4622,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "2",
@@ -4656,7 +4661,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3197,
+      "Progressed": 3198,
       "Completed": 132
     }
   ],
@@ -4664,8 +4669,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:03:25.3168161+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:03:32.1075388+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:04.0204593+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:57:53.0262466+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:03:25.3168547+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:58:05.7734152+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:03:32.1075766+00:00"
 }

@@ -62,6 +62,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Tale of Two Cities | 0.20% | ~458 |
 | The Dead Three | 0.20% | ~458 |
 | Flying Monkey Skulls of Doom | 0.20% | ~458 |
+| The Darkness Runs Deeper | 0.20% | ~458 |
 | Running of the Saurs | 0.20% | ~458 |
 | The Contagious Curse | 0.20% | ~458 |
 | Escort to Waterdeep | 0.20% | ~458 |
@@ -322,7 +323,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | She's Harmless! | 0.10% | ~229 |
 | The Tallest of Kobolds | 0.10% | ~195 |
 | Patience is Key | 0.10% | ~229 |
-| The Darkness Runs Deeper | 0.10% | ~229 |
 | Troublesome Prisoner | 0.10% | ~229 |
 | Dark Doppelgangers | 0.10% | ~229 |
 | Faerûn's Most Wanted | 0.10% | ~195 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,911 (Ranked 55)  
-Completed: 2,284 (1.00%) (Ranked 122)  
+Progressed: 228,918 (Ranked 55)  
+Completed: 2,285 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -675,7 +675,7 @@ Completed: 2,284 (1.00%) (Ranked 122)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,911 | 2,284 |
+| 2023-09-15 | 228,918 | 2,285 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
 Sum: 31,596 (Ranked 39)  

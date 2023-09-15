@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2128,
+  "EOS_Progressed": 2137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 897,
+  "EOS_NewPlayers": 904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4486,6 +4486,11 @@
       "Time": "2023-09-15T22:07:01.0368457+00:00",
       "NumProgressed": 2128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T23:08:06.0505318+00:00",
+      "NumProgressed": 2137,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4520,9 +4525,9 @@
       "ID": "MF_Ach_DeathBecomesYou",
       "SetID": "9b9n573",
       "Name": "Death Becomes You",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 21
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -4592,9 +4597,9 @@
       "ID": "MF_Ach_HorderBetterFasterStronger",
       "SetID": "9b9n573",
       "Name": "Horder Better Faster Stronger",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -4681,15 +4686,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 2128,
+      "Progressed": 2137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:07:01.036845+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:08:06.0505312+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:58:23.3360074+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:07:01.036886+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:58:46.257744+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:08:06.0505741+00:00"
 }

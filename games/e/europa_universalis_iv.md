@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 4.00% | ~16,164 |
-| That's a Grand Army | 3.00% | ~12,123 |
-| That is mine! | 3.00% | ~12,123 |
-| Victorious! | 3.00% | ~12,123 |
-| Brothers in Arms | 2.00% | ~8,082 |
-| For the Glory | 2.00% | ~8,082 |
-| That's a Grand Navy | 2.00% | ~8,082 |
-| Seriously?! | 2.00% | ~8,082 |
+| Until death do us apart | 4.00% | ~16,165 |
+| That's a Grand Army | 3.00% | ~12,124 |
+| That is mine! | 3.00% | ~12,124 |
+| Victorious! | 3.00% | ~12,124 |
+| Brothers in Arms | 2.00% | ~8,083 |
+| For the Glory | 2.00% | ~8,083 |
+| That's a Grand Navy | 2.00% | ~8,083 |
+| Seriously?! | 2.00% | ~8,083 |
 | Cold War | 1.00% | ~4,041 |
 | Defender of the Faith | 1.00% | ~4,041 |
 | It's all about the money | 1.00% | ~4,041 |
@@ -27,14 +27,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.70% | ~2,829 |
 | Total Control | 0.70% | ~2,829 |
 | My armies are invincible! | 0.60% | ~2,425 |
-| Agressive Expander | 0.50% | ~2,020 |
-| City of Cities | 0.50% | ~2,020 |
-| Combined Arms | 0.50% | ~2,020 |
-| Azur semé de lis or | 0.40% | ~1,616 |
-| Factionalism | 0.40% | ~1,616 |
-| Gentle Persuasion | 0.40% | ~1,616 |
-| Queen of Conquest | 0.40% | ~1,616 |
-| This navy can take it all | 0.40% | ~1,616 |
+| Agressive Expander | 0.50% | ~2,021 |
+| City of Cities | 0.50% | ~2,021 |
+| Combined Arms | 0.50% | ~2,021 |
+| Azur semé de lis or | 0.40% | ~1,617 |
+| Factionalism | 0.40% | ~1,617 |
+| Gentle Persuasion | 0.40% | ~1,617 |
+| Queen of Conquest | 0.40% | ~1,617 |
+| This navy can take it all | 0.40% | ~1,617 |
 | All That's Thine Shall Be Mine | 0.30% | ~1,212 |
 | Bright Spark | 0.30% | ~1,212 |
 | Down Under | 0.30% | ~1,212 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,096 (Ranked 40)  
+Progressed: 404,131 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -509,7 +509,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 401,220 | 0 |
 | 2023-09-13 | 402,102 | 0 |
 | 2023-09-14 | 402,996 | 0 |
-| 2023-09-15 | 404,096 | 0 |
+| 2023-09-15 | 404,131 | 0 |
 ## Awards
 Max (Educational): 6,102  (Ranked 56)  
 Sum: 50,127 (Ranked 26)  

@@ -108,6 +108,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~139 |
 | Points Victory | 1.00% | ~139 |
 | Win a Single Player Game | 1.00% | ~139 |
+| Devout | 0.90% | ~125 |
 | Ready | 0.90% | ~125 |
 | Landowners | 0.90% | ~125 |
 | Riders | 0.90% | ~125 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.90% | ~125 |
 | Veneration | 0.90% | ~125 |
 | Bad Heir Day | 0.80% | ~111 |
-| Devout | 0.80% | ~111 |
 | Strong Difficulty | 0.80% | ~111 |
 | Hunters | 0.80% | ~111 |
 | Adur Burzen-Mihr | 0.80% | ~111 |

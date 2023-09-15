@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -244,7 +244,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 229734,
+  "EOS_Progressed": 229735,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 1,
@@ -15709,6 +15709,11 @@
       "Time": "2023-09-15T22:06:44.7031975+00:00",
       "NumProgressed": 229734,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T23:07:44.9381124+00:00",
+      "NumProgressed": 229735,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -15784,7 +15789,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 82704
+      "UsersEstimate": 82705
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -15880,7 +15885,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 50541
+      "UsersEstimate": 50542
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -15943,7 +15948,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 229734,
+      "Progressed": 229735,
       "Completed": 5
     }
   ],
@@ -15951,8 +15956,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-09-14T16:00:52.1630549+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:06:44.7031969+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:07:44.9381119+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:45.3291126+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:59:57.2390904+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:06:44.703316+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:00:46.1001524+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:07:44.9382313+00:00"
 }

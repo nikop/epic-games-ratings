@@ -7173,7 +7173,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 61112,
+  "EOS_Progressed": 61114,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 0,
@@ -22863,6 +22863,11 @@
       "Time": "2023-09-15T21:06:08.0877552+00:00",
       "NumProgressed": 61112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T23:07:10.6468255+00:00",
+      "NumProgressed": 61114,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -22874,7 +22879,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7333
+      "UsersEstimate": 7334
     },
     {
       "ID": "Apple of my eye",
@@ -22930,7 +22935,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "Crackshot",
@@ -23226,7 +23231,7 @@
       "Name": "The king is pleased",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11000
+      "UsersEstimate": 11001
     },
     {
       "ID": "This Is Our Land",
@@ -23234,7 +23239,7 @@
       "Name": "This Is Our Land",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 6722
+      "UsersEstimate": 6723
     },
     {
       "ID": "This is Sparta",
@@ -23266,7 +23271,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -23281,15 +23286,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 61112,
+      "Progressed": 61114,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-09-15T20:59:41.0251754+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:06:17.6012323+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:07:10.646825+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:56:58.5822579+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:59:32.4592074+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:06:17.6013654+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:00:15.0275209+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:07:10.646972+00:00"
 }

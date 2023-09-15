@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -646,7 +646,7 @@
       "Count": 74
     }
   ],
-  "EOS_Progressed": 9946,
+  "EOS_Progressed": 9947,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
@@ -9486,6 +9486,11 @@
       "Time": "2023-09-15T22:07:11.9779427+00:00",
       "NumProgressed": 9946,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-09-15T23:08:20.2703213+00:00",
+      "NumProgressed": 9947,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 34,
@@ -9601,7 +9606,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4178
     },
     {
       "ID": "ACH15",
@@ -9657,7 +9662,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "ACH22",
@@ -9768,7 +9773,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 9946,
+      "Progressed": 9947,
       "Completed": 56
     }
   ],
@@ -9776,8 +9781,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-09-13T17:57:32.0415645+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:07:11.9779421+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:08:20.2703208+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:32.1141958+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:58:08.8510454+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:07:11.9780262+00:00"
+  "LastUpdate_Ratings": "2023-09-15T22:58:28.8028399+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:08:20.2703942+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Becomes You | 2.00% | ~43 |
+| Death Becomes You | 1.00% | ~21 |
 | Debuff Dogpile | 1.00% | ~21 |
 | Faceroll the Bones | 1.00% | ~21 |
 | Flawless Victory | 1.00% | ~21 |
@@ -18,8 +18,8 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 0.90% | ~19 |
 | Cold-Blooded Critters | 0.80% | ~17 |
 | First Strike | 0.80% | ~17 |
-| Horder Better Faster Stronger | 0.80% | ~17 |
 | Deadication | 0.70% | ~15 |
+| Horder Better Faster Stronger | 0.70% | ~15 |
 | Spending Spree | 0.70% | ~15 |
 | Season Finale | 0.60% | ~13 |
 | The Harder They Fall | 0.50% | ~11 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.20% | ~4 |
 | Deadalus and Loving It | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,128 (Ranked 182)  
+Progressed: 2,137 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 1,507 | 0 |
 | 2023-09-13 | 1,711 | 0 |
 | 2023-09-14 | 1,880 | 0 |
-| 2023-09-15 | 2,128 | 0 |
+| 2023-09-15 | 2,137 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 355)  

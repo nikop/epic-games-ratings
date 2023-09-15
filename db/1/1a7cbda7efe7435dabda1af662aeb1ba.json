@@ -4,7 +4,7 @@
   "ProductSlug": "zoeti-3ccef9",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
@@ -191,9 +191,9 @@
       "ID": "BOSS_KILL4",
       "SetID": "1icc7kd",
       "Name": "Fence-Sitter",
-      "Percentage": 4,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_KILL5",
@@ -382,8 +382,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:06:37.286393+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:07:35.8274751+00:00",
   "LastUpdate_AppInfo": "2023-09-13T04:57:01.0109865+00:00",
-  "LastUpdate_Ratings": "2023-09-15T22:00:54.5637717+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:06:37.2864161+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:01:55.7531295+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:07:35.8275174+00:00"
 }

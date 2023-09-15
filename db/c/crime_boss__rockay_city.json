@@ -3504,9 +3504,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 87261,
+  "EOS_Progressed": 87269,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 7783,
+  "EOS_NewPlayers": 7556,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -18814,6 +18814,11 @@
       "Time": "2023-09-15T22:06:24.581756+00:00",
       "NumProgressed": 87261,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-15T23:07:19.6807123+00:00",
+      "NumProgressed": 87269,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 41,
@@ -19143,31 +19148,31 @@
       "ID": "ACH_1050",
       "SetID": "8no7728",
       "Name": "Now You See Me",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 87261,
+      "Progressed": 87269,
       "Completed": 46
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 15608,
-      "Completed": 15519
+      "Progressed": 15616,
+      "Completed": 15520
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-09-15T20:59:44.2438104+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:06:24.581755+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:07:19.6807118+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.3237957+00:00",
-  "LastUpdate_Ratings": "2023-09-15T21:59:35.3871988+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:06:24.5818864+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:00:19.5967912+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:07:19.6808475+00:00"
 }

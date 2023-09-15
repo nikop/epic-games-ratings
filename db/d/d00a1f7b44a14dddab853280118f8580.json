@@ -4,8 +4,8 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -746,33 +746,33 @@
       "ID": "ach_hint_9",
       "SetID": "5e260i9",
       "Name": "Together is better!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 60,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_minigames_10",
       "SetID": "5e260i9",
       "Name": "Inquiring mind!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 80,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_skip_3",
@@ -801,8 +801,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-09-15T22:04:19.063671+00:00",
+  "LastChanged_Achievements": "2023-09-15T23:04:38.2418447+00:00",
   "LastUpdate_AppInfo": "2023-09-15T01:39:37.6045115+00:00",
-  "LastUpdate_Ratings": "2023-09-15T22:00:31.7729171+00:00",
-  "LastUpdate_Achievements": "2023-09-15T22:04:19.0636873+00:00"
+  "LastUpdate_Ratings": "2023-09-15T23:01:25.1704061+00:00",
+  "LastUpdate_Achievements": "2023-09-15T23:04:38.2418576+00:00"
 }

@@ -6,35 +6,35 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,614 |
-| Self-Improvement | 71.00% | ~1,302 |
-| Perky | 66.00% | ~1,210 |
-| Let’s Ride | 60.00% | ~1,100 |
-| Welcome to the Weird West | 57.00% | ~1,045 |
-| Dead or Alive | 56.00% | ~1,027 |
+| Unforgiven | 88.00% | ~1,616 |
+| Self-Improvement | 71.00% | ~1,304 |
+| Perky | 66.00% | ~1,212 |
+| Let’s Ride | 60.00% | ~1,102 |
+| Welcome to the Weird West | 57.00% | ~1,047 |
+| Dead or Alive | 56.00% | ~1,028 |
 | Full House | 37.00% | ~679 |
 | Off the Trail | 34.00% | ~624 |
-| Justice Served | 30.00% | ~550 |
-| Chain Reaction | 27.00% | ~495 |
+| Justice Served | 30.00% | ~551 |
+| Chain Reaction | 27.00% | ~496 |
 | Through Their Eyes | 26.00% | ~477 |
-| Dishonored | 25.00% | ~458 |
-| Rain of Death | 25.00% | ~458 |
-| Scholar | 25.00% | ~458 |
-| The Great Escape | 24.00% | ~440 |
-| That’s All, Folks | 19.00% | ~348 |
-| Fallen Star | 16.00% | ~293 |
-| For Balance | 16.00% | ~293 |
-| Here Comes Santa Claus | 16.00% | ~293 |
-| Winds of War | 16.00% | ~293 |
-| Dog Days | 13.00% | ~238 |
-| Elusive Prey | 13.00% | ~238 |
-| Out on the Ebb Tide | 13.00% | ~238 |
-| Turning the Tables | 13.00% | ~238 |
-| Workers' Rights | 13.00% | ~238 |
+| Dishonored | 25.00% | ~459 |
+| Rain of Death | 25.00% | ~459 |
+| Scholar | 25.00% | ~459 |
+| The Great Escape | 24.00% | ~441 |
+| That’s All, Folks | 19.00% | ~349 |
+| Fallen Star | 16.00% | ~294 |
+| For Balance | 16.00% | ~294 |
+| Here Comes Santa Claus | 16.00% | ~294 |
+| Winds of War | 16.00% | ~294 |
+| Dog Days | 13.00% | ~239 |
+| Elusive Prey | 13.00% | ~239 |
+| Out on the Ebb Tide | 13.00% | ~239 |
+| Turning the Tables | 13.00% | ~239 |
+| Workers' Rights | 13.00% | ~239 |
 | Power Behind the Pulpit | 12.00% | ~220 |
 | Something Wicked This Way Comes… | 12.00% | ~220 |
 | There is Hope | 12.00% | ~220 |
-| The Philosopher’s Stone | 10.00% | ~183 |
+| The Philosopher’s Stone | 10.00% | ~184 |
 | Loyalty to the Pack | 9.00% | ~165 |
 | Eternity Can Wait | 9.00% | ~165 |
 | Mystery Machine | 9.00% | ~165 |
@@ -42,7 +42,7 @@ Number of Ratings: 125  (23.09.2022)
 | Gold Digger | 8.00% | ~147 |
 | Monster Hunter | 8.00% | ~147 |
 | Knuckle Sandwich | 8.00% | ~147 |
-| Getting the Gang Back Together | 7.00% | ~128 |
+| Getting the Gang Back Together | 7.00% | ~129 |
 | Healing Old Wounds | 6.00% | ~110 |
 | Who You Gonna Call? | 6.00% | ~110 |
 | This Is Sparta | 5.00% | ~92 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~9 |
 | Revenant | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,834 (Ranked 187)  
+Progressed: 1,836 (Ranked 187)  
 Completed: 7 (0.38%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,6 +179,7 @@ Completed: 7 (0.38%) (Ranked 166)
 | 2023-09-09 | 1,831 | 6 |
 | 2023-09-10 | 1,833 | 7 |
 | 2023-09-12 | 1,834 | 7 |
+| 2023-09-15 | 1,836 | 7 |
 ## Awards
 Max (Impact the Story): 26  (Ranked 481)  
 Sum: 26 (Ranked 490)  
