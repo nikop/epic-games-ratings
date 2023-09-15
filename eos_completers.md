@@ -10,7 +10,7 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.94% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.81% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.41% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
@@ -38,7 +38,7 @@
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
-| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.34% |
+| 39 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.33% |
 | 40 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
 | 41 | [Scorn](games/s/scorn.md) | 7.00% |
 | 42 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 6.45% |
@@ -94,9 +94,9 @@
 | 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 94 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.08% |
-| 95 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
-| 95 | [FORECLOSED](games/f/foreclosed.md) | 1.98% |
-| 97 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.92% |
+| 95 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.99% |
+| 96 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
+| 96 | [FORECLOSED](games/f/foreclosed.md) | 1.98% |
 | 98 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
 | 99 | [Night Book](games/n/night_book.md) | 1.86% |
 | 100 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
@@ -130,9 +130,9 @@
 | 128 | [Hades](games/h/hades.md) | 0.90% |
 | 128 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.90% |
 | 130 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.85% |
-| 131 | [Eternights](games/e/eternights.md) | 0.83% |
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.83% |
-| 133 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 132 | [Eternights](games/e/eternights.md) | 0.82% |
 | 134 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
 | 135 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 136 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |

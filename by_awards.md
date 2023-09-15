@@ -27,7 +27,7 @@
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 13,761 | 4.60 | 395 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,695 | 4.60 | 395 |
 | 27 | [Maneater](games/m/maneater.md) | 13,679 | 4.49 | 581 |
-| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,892 | 4.43 | 666 |
+| 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 12,901 | 4.43 | 666 |
 | 29 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,674 | 4.36 | 748 |
 | 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 12,479 | 4.86 | 31 |
 | 31 | [NBA 2K21](games/n/nba_2k21.md) | 11,757 | 4.39 | 720 |
@@ -36,10 +36,10 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 11,485 | 4.45 | 639 |
 | 35 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,421 | 4.69 | 216 |
 | 36 | [SnowRunner](games/s/snowrunner.md) | 10,533 | 4.76 | 117 |
-| 37 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,032 | 4.61 | 367 |
-| 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,028 | 4.78 | 101 |
+| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,037 | 4.78 | 101 |
+| 38 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,032 | 4.61 | 367 |
 | 39 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,098 | 4.58 | 430 |
-| 40 | [Control](games/c/control.md) | 8,505 | 4.60 | 395 |
+| 40 | [Control](games/c/control.md) | 8,506 | 4.60 | 395 |
 | 41 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,168 | 4.89 | 13 |
 | 42 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,005 | 4.48 | 602 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,843 | 4.85 | 42 |
@@ -92,9 +92,9 @@
 | 90 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,347 | 4.68 | 242 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,331 | 4.76 | 117 |
 | 92 | [Trackmania](games/t/trackmania.md) | 3,321 | 4.67 | 259 |
-| 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,261 | 4.57 | 450 |
+| 93 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,262 | 4.57 | 450 |
 | 94 | [Hades](games/h/hades.md) | 3,259 | 4.92 | 4 |
-| 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,753 | 4.51 | 548 |
+| 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,761 | 4.51 | 548 |
 | 96 | [Gotham Knights](games/g/gotham_knights.md) | 2,667 | 4.18 | 882 |
 | 97 | [Among Us](games/a/among_us.md) | 2,665 | 4.57 | 450 |
 | 98 | [Path of Exile](games/p/path_of_exile.md) | 2,619 | 4.61 | 367 |
@@ -188,7 +188,7 @@
 | 186 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 606 | 4.73 | 163 |
 | 187 | [Riders Republic](games/r/riders_republic.md) | 598 | 4.75 | 136 |
 | 188 | [Star Trek Online](games/s/star_trek_online.md) | 582 | 4.44 | 648 |
-| 189 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 576 | 4.38 | 728 |
+| 189 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 578 | 4.38 | 728 |
 | 190 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 575 | 4.62 | 349 |
 | 191 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 565 | 4.68 | 242 |
 | 191 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 565 | 4.66 | 280 |
@@ -197,7 +197,7 @@
 | 195 | [Vampyr](games/v/vampyr.md) | 558 | 4.32 | 781 |
 | 196 | [Godfall Ultimate Edition](games/g/godfall.md) | 542 | 4.08 | 922 |
 | 197 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 531 | 4.52 | 533 |
-| 198 | [Dishonored 2](games/d/dishonored_2.md) | 514 | 4.79 | 87 |
+| 198 | [Dishonored 2](games/d/dishonored_2.md) | 515 | 4.79 | 87 |
 | 199 | [Terraforming Mars](games/t/terraforming_mars.md) | 513 | 4.53 | 519 |
 | 200 | [Prison Architect](games/p/prison_architect.md) | 503 | 4.61 | 367 |
 | 200 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 503 | 4.86 | 31 |
@@ -349,8 +349,8 @@
 | 347 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 882 |
 | 348 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 95 | 4.41 | 689 |
 | 348 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 95 | 4.54 | 502 |
-| 350 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 93 | 4.72 | 172 |
-| 350 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 93 | 4.17 | 886 |
+| 350 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 94 | 4.72 | 172 |
+| 351 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 93 | 4.17 | 886 |
 | 352 | [Dead Space](games/d/dead_space.md) | 92 | 4.61 | 367 |
 | 352 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 92 | 4.55 | 484 |
 | 354 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 565 |
@@ -440,10 +440,10 @@
 | 436 | [Hell is Others](games/h/hell_is_others.md) | 37 | 4.42 | 678 |
 | 436 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 37 | 4.41 | 689 |
 | 436 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 37 | 4.61 | 367 |
+| 436 | [Voidtrain](games/v/voidtrain.md) | 37 | 4.50 | 565 |
 | 436 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 37 | 4.49 | 581 |
-| 442 | [Isonzo](games/i/isonzo.md) | 36 | 4.55 | 484 |
-| 442 | [Steelrising](games/s/steelrising.md) | 36 | 4.29 | 806 |
-| 442 | [Voidtrain](games/v/voidtrain.md) | 36 | 4.50 | 565 |
+| 443 | [Isonzo](games/i/isonzo.md) | 36 | 4.55 | 484 |
+| 443 | [Steelrising](games/s/steelrising.md) | 36 | 4.29 | 806 |
 | 445 | [DEATHLOOP](games/d/deathloop.md) | 35 | 4.54 | 502 |
 | 445 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 35 | 4.52 | 533 |
 | 445 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 188 |
