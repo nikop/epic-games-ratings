@@ -2,9 +2,9 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +196,11 @@
       "Time": "2023-09-14T16:07:59.4577248+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T06:07:17.5585166+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -230,15 +235,15 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -262,9 +267,9 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievements.firstexpedition",
@@ -335,14 +340,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:05:58.623424+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:07:17.5585161+00:00",
   "LastUpdate_AppInfo": "2023-09-08T09:57:05.8503237+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:02:36.2768223+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:05:58.6234352+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:57:05.1991646+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:07:17.5585324+00:00"
 }

@@ -512,9 +512,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65286,
+  "EOS_Progressed": 65288,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 2261,
+  "EOS_NewPlayers": 2253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -14697,6 +14697,11 @@
       "Time": "2023-09-15T05:07:04.311497+00:00",
       "NumProgressed": 65286,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-15T06:08:34.3636234+00:00",
+      "NumProgressed": 65288,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -14708,7 +14713,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26767
+      "UsersEstimate": 26768
     },
     {
       "ID": "02",
@@ -14732,7 +14737,7 @@
       "Name": "Boob Tube",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "05",
@@ -14748,7 +14753,7 @@
       "Name": "Park Ranger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 11751
+      "UsersEstimate": 11752
     },
     {
       "ID": "07",
@@ -14796,7 +14801,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7834
+      "UsersEstimate": 7835
     },
     {
       "ID": "13",
@@ -14812,7 +14817,7 @@
       "Name": "Gatekeeper",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7181
+      "UsersEstimate": 7182
     },
     {
       "ID": "15",
@@ -14860,7 +14865,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "21",
@@ -14892,7 +14897,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7834
+      "UsersEstimate": 7835
     },
     {
       "ID": "25",
@@ -14908,7 +14913,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7834
+      "UsersEstimate": 7835
     },
     {
       "ID": "27",
@@ -14940,7 +14945,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7181
+      "UsersEstimate": 7182
     },
     {
       "ID": "31",
@@ -14972,7 +14977,7 @@
       "Name": "Energized!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 7181
+      "UsersEstimate": 7182
     },
     {
       "ID": "35",
@@ -14980,7 +14985,7 @@
       "Name": "Let There Be Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21544
+      "UsersEstimate": 21545
     },
     {
       "ID": "36",
@@ -15044,7 +15049,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 11751
+      "UsersEstimate": 11752
     },
     {
       "ID": "44",
@@ -15084,7 +15089,7 @@
       "Name": "KBF-FM",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "49",
@@ -15243,21 +15248,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65286,
+      "Progressed": 65288,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 28754,
+      "Progressed": 28756,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:07:04.3114967+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:08:34.3636227+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:15.1520424+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:02:35.4281477+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:07:04.311615+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:57:04.2764366+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:08:34.3639014+00:00"
 }

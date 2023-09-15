@@ -2614,7 +2614,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 30372,
+  "EOS_Progressed": 30373,
   "EOS_Completed": 249,
   "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 6,
@@ -18689,6 +18689,11 @@
       "Time": "2023-09-15T05:05:08.7647254+00:00",
       "NumProgressed": 30372,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2023-09-15T06:06:09.5398701+00:00",
+      "NumProgressed": 30373,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 60,
@@ -18708,7 +18713,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 13971
+      "UsersEstimate": 13972
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -18716,7 +18721,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 17312
+      "UsersEstimate": 17313
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -18724,7 +18729,7 @@
       "Name": "Use the terrain",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_2",
@@ -18788,7 +18793,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 10326
+      "UsersEstimate": 10327
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -18812,7 +18817,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 14882
+      "UsersEstimate": 14883
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -18836,7 +18841,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9415
+      "UsersEstimate": 9416
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -18844,7 +18849,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7289
+      "UsersEstimate": 7290
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -18868,7 +18873,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7289
+      "UsersEstimate": 7290
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -18884,7 +18889,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7289
+      "UsersEstimate": 7290
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -18996,7 +19001,7 @@
       "Name": "Prison Break",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2733
+      "UsersEstimate": 2734
     },
     {
       "ID": "ACH_D3_Campaign_Pain_Completed",
@@ -19060,7 +19065,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 9415
+      "UsersEstimate": 9416
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -19084,7 +19089,7 @@
       "Name": "Death and destruction!",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 13667
+      "UsersEstimate": 13668
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -19124,7 +19129,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -19179,15 +19184,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 30372,
+      "Progressed": 30373,
       "Completed": 249
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-09-14T21:58:59.0567322+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:05:08.7647249+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:06:09.5398696+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:46.8890263+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:58:37.6830817+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:05:08.7648411+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:59:21.5363076+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:06:09.5400269+00:00"
 }

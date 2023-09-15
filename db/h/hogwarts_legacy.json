@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7552,10 +7552,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43276,
       "NumberOfAwardsMax": 22661
+    },
+    {
+      "Time": "2023-09-15T06:02:24.9225634+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43282,
+      "NumberOfAwardsMax": 22661
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43276,
+  "NumberOfAwards": 43282,
   "NumberOfAwardsMax": 22661,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7581,7 +7587,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 987
+      "Count": 993
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7632,9 +7638,9 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 296620,
+  "EOS_Progressed": 296621,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23622,6 +23628,11 @@
       "Time": "2023-09-15T05:03:29.7483501+00:00",
       "NumProgressed": 296620,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-15T06:04:04.9953302+00:00",
+      "NumProgressed": 296621,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23753,7 +23764,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35594
+      "UsersEstimate": 35595
     },
     {
       "ID": "PFA_24",
@@ -23969,7 +23980,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35594
+      "UsersEstimate": 35595
     },
     {
       "ID": "PFA_8",
@@ -23992,16 +24003,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296620,
+      "Progressed": 296621,
       "Completed": 470
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-15T01:43:20.4630595+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:03:29.7483497+00:00",
+  "LastChanged": "2023-09-15T06:02:24.9225633+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:04:04.9953295+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-15T05:00:46.1001468+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:03:29.7484509+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:02:24.9225642+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:04:04.9960655+00:00"
 }

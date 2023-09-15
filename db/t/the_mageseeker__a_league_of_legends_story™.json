@@ -3639,9 +3639,9 @@
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
       "SetID": "3pe2bac",
       "Name": "Everfrost",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1990
+      "UsersEstimate": 2015
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3735,9 +3735,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1990
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3992,8 +3992,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:05:42.9658029+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:06:56.2617306+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:13.613728+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:57:06.3108525+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:05:42.9658543+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:57:10.3784057+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:06:56.261855+00:00"
 }

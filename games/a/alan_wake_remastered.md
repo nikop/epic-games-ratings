@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 41.00% | ~26,767 |
-| Let There Be Light | 33.00% | ~21,544 |
+| Follow the Light | 41.00% | ~26,768 |
+| Let There Be Light | 33.00% | ~21,545 |
 | Float Like a Butterfly | 32.00% | ~20,892 |
 | Nordic Walking | 25.00% | ~16,322 |
 | Bright Falls' Finest | 25.00% | ~16,322 |
 | Under a Thin Layer of Skin | 22.00% | ~14,363 |
-| Park Ranger | 18.00% | ~11,751 |
-| Paging Mr. Wake | 18.00% | ~11,751 |
+| Park Ranger | 18.00% | ~11,752 |
+| Paging Mr. Wake | 18.00% | ~11,752 |
 | Back! Back, I Say! | 17.00% | ~11,099 |
 | Finders Keepers | 17.00% | ~11,099 |
 | They're Heeeeeere! | 15.00% | ~9,793 |
@@ -26,12 +26,12 @@ Number of Ratings: 524  (23.09.2022)
 | Iron Horse | 13.00% | ~8,487 |
 | Collateral Carnage | 13.00% | ~8,487 |
 | Come One, Come All | 13.00% | ~8,487 |
-| Perchance to Dream | 12.00% | ~7,834 |
-| It's Not Just a Typewriter Brand | 12.00% | ~7,834 |
-| Thunder and Lightning | 12.00% | ~7,834 |
-| Gatekeeper | 11.00% | ~7,181 |
-| Two For the Price of One | 11.00% | ~7,181 |
-| Energized! | 11.00% | ~7,181 |
+| Perchance to Dream | 12.00% | ~7,835 |
+| It's Not Just a Typewriter Brand | 12.00% | ~7,835 |
+| Thunder and Lightning | 12.00% | ~7,835 |
+| Gatekeeper | 11.00% | ~7,182 |
+| Two For the Price of One | 11.00% | ~7,182 |
+| Energized! | 11.00% | ~7,182 |
 | The Lady of the Light | 10.00% | ~6,529 |
 | What Light Through Yonder Window | 9.00% | ~5,876 |
 | Right of Way | 9.00% | ~5,876 |
@@ -43,9 +43,9 @@ Number of Ratings: 524  (23.09.2022)
 | A Friend Indeed | 6.00% | ~1,725 |
 | Children of the Elder God | 5.00% | ~3,264 |
 | Ding! | 5.00% | ~1,438 |
-| Boob Tube | 4.00% | ~2,611 |
-| If It Flies, It Burns | 4.00% | ~2,611 |
-| KBF-FM | 4.00% | ~2,611 |
+| Boob Tube | 4.00% | ~2,612 |
+| If It Flies, It Burns | 4.00% | ~2,612 |
+| KBF-FM | 4.00% | ~2,612 |
 | Carny | 3.00% | ~1,959 |
 | Kill Your Darlings | 3.00% | ~863 |
 | Heartbreaker | 3.00% | ~863 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~65 |
 | No Punctuation | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,286 (Ranked 88)  
+Progressed: 65,288 (Ranked 88)  
 Completed: 65 (0.10%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 65 (0.10%) (Ranked 221)
 | 2023-09-12 | 64,967 | 65 |
 | 2023-09-13 | 65,148 | 65 |
 | 2023-09-14 | 65,260 | 65 |
-| 2023-09-15 | 65,286 | 65 |
+| 2023-09-15 | 65,288 | 65 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

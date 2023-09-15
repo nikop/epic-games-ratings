@@ -4,7 +4,7 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -140,9 +140,9 @@
       "ID": "SMELTER_DREINSTEIN",
       "SetID": "1g58k92",
       "Name": "Dr. Dreinstein III",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMELTER_ELEMENTAL_TOWER",
@@ -396,9 +396,9 @@
       "ID": "SMELTER_ROOPUTER",
       "SetID": "1g58k92",
       "Name": "Final Announcement",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SMELTER_RUINS",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:05:21.6715906+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:06:25.7924834+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:15.7665363+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:58:31.5308645+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:05:21.6716245+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:59:11.0550216+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:06:25.7925305+00:00"
 }

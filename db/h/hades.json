@@ -3,8 +3,8 @@
   "Name": "Hades",
   "ProductSlug": "hades",
   "Ranking_Rating": 4,
-  "Ranking_Popularity": 94,
-  "Ranking_PopularitySum": 102,
+  "Ranking_Popularity": 93,
+  "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 86,
@@ -4283,18 +4283,24 @@
       "Rating": 4.92,
       "NumberOfAwards": 7887,
       "NumberOfAwardsMax": 3259
+    },
+    {
+      "Time": "2023-09-15T06:03:08.9429318+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 7890,
+      "NumberOfAwardsMax": 3262
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7887,
-  "NumberOfAwardsMax": 3259,
+  "NumberOfAwards": 7890,
+  "NumberOfAwardsMax": 3262,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3259
+      "Count": 3262
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4383,7 +4389,7 @@
   ],
   "EOS_Progressed": 703472,
   "EOS_Completed": 6352,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -20579,9 +20585,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2023-09-14T23:03:00.254808+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:05:59.2959231+00:00",
+  "LastChanged": "2023-09-15T06:03:08.9429316+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:07:18.4955997+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.0033415+00:00",
-  "LastUpdate_Ratings": "2023-09-15T05:02:11.5688709+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:05:59.2960288+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:03:08.9429325+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:07:18.4958305+00:00"
 }

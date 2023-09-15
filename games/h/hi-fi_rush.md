@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 13.00% | ~525 |
-| Feeling the beat! | 13.00% | ~525 |
+| Start with a bang! | 13.00% | ~526 |
+| Feeling the beat! | 13.00% | ~526 |
 | You can pet the cat! | 12.00% | ~485 |
 | Cream of the Crop | 11.00% | ~445 |
 | Who put gears in there? | 11.00% | ~445 |
@@ -23,12 +23,12 @@ Rating: 4.87 (Ranked 24)
 | Whoa! There's ANOTHER health bar!? | 7.00% | ~283 |
 | Out in a puff of smoke | 7.00% | ~283 |
 | I look cool. But I can look COOLER. | 7.00% | ~283 |
-| Headliner | 6.00% | ~242 |
-| Time to pay up! | 6.00% | ~242 |
-| Who's the boss now? | 6.00% | ~242 |
-| You must like calling me in, Chai | 6.00% | ~242 |
-| Perfecter Parry-er! | 6.00% | ~242 |
-| Does that say weakpoint? | 6.00% | ~242 |
+| Headliner | 6.00% | ~243 |
+| Time to pay up! | 6.00% | ~243 |
+| Who's the boss now? | 6.00% | ~243 |
+| You must like calling me in, Chai | 6.00% | ~243 |
+| Perfecter Parry-er! | 6.00% | ~243 |
+| Does that say weakpoint? | 6.00% | ~243 |
 | NOW we got a kickass hideout! | 6.00% | ~154 |
 | I have to read these things? | 5.00% | ~202 |
 | Well that was a rush! | 4.00% | ~162 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 24)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,041 (Ranked 157)  
+Progressed: 4,043 (Ranked 157)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-12 | 4,033 | 7 |
 | 2023-09-13 | 4,036 | 7 |
 | 2023-09-14 | 4,038 | 7 |
-| 2023-09-15 | 4,041 | 7 |
+| 2023-09-15 | 4,043 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

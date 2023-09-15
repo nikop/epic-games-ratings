@@ -26,7 +26,7 @@ Rating: 4.69 (Ranked 216)
 | Tobacco Travesty | 10.00% | ~64 |
 | Accursed Artifacts | 9.00% | ~58 |
 | Lyrical Longing | 9.00% | ~58 |
-| Corsair | 5.00% | ~32 |
+| Corsair | 6.00% | ~38 |
 | Fully Decked | 5.00% | ~32 |
 | Freebooter | 4.00% | ~26 |
 | Marauder | 3.00% | ~19 |

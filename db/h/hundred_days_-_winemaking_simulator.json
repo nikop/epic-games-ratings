@@ -988,9 +988,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3085,
+  "EOS_Progressed": 3089,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1288,
+  "EOS_NewPlayers": 1289,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2868,6 +2868,11 @@
       "Time": "2023-09-15T05:05:27.6152489+00:00",
       "NumProgressed": 3085,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T06:06:35.2251498+00:00",
+      "NumProgressed": 3089,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2928,7 +2933,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "a_19",
@@ -2944,7 +2949,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "a_20",
@@ -2968,7 +2973,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "a_23",
@@ -2984,7 +2989,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "a_26",
@@ -3127,7 +3132,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3085,
+      "Progressed": 3089,
       "Completed": 5
     }
   ],
@@ -3135,8 +3140,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-12T22:00:03.6263596+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:05:27.6152485+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:06:35.2251488+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:57:09.9216632+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:05:27.615276+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:57:15.4278457+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:06:35.2252102+00:00"
 }

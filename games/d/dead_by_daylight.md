@@ -6,15 +6,15 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 5.00% | ~43,914 |
-| Zealous | 4.00% | ~35,131 |
-| Skillful | 4.00% | ~35,131 |
-| Make Some Noise | 4.00% | ~35,131 |
-| Handyman | 3.00% | ~26,348 |
-| Not half bad | 3.00% | ~26,348 |
-| Apt Survivor | 3.00% | ~26,348 |
-| Survival Treasures | 3.00% | ~26,348 |
-| Sorted | 3.00% | ~26,348 |
+| It wakes | 5.00% | ~43,916 |
+| Zealous | 4.00% | ~35,133 |
+| Skillful | 4.00% | ~35,133 |
+| Make Some Noise | 4.00% | ~35,133 |
+| Handyman | 3.00% | ~26,350 |
+| Not half bad | 3.00% | ~26,350 |
+| Apt Survivor | 3.00% | ~26,350 |
+| Survival Treasures | 3.00% | ~26,350 |
+| Sorted | 3.00% | ~26,350 |
 | The Grand Sacrifice | 2.00% | ~17,566 |
 | Agonizing Escape | 2.00% | ~17,566 |
 | Backdoor Escape | 2.00% | ~17,566 |
@@ -67,10 +67,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cutting Out | 0.90% | ~7,905 |
 | Operation: Survival | 0.90% | ~7,905 |
 | Classy Act | 0.90% | ~7,905 |
-| Cottage Owner | 0.80% | ~7,026 |
-| Campbell's Chapel Legacy | 0.80% | ~7,026 |
-| Ancestor's Rite | 0.80% | ~7,026 |
-| Outrun Evil | 0.80% | ~7,026 |
+| Cottage Owner | 0.80% | ~7,027 |
+| Campbell's Chapel Legacy | 0.80% | ~7,027 |
+| Ancestor's Rite | 0.80% | ~7,027 |
+| Outrun Evil | 0.80% | ~7,027 |
 | A bite for the Entity | 0.70% | ~6,148 |
 | Blood on your face | 0.70% | ~6,148 |
 | Hemophobia | 0.70% | ~6,148 |
@@ -87,16 +87,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | End of Days | 0.60% | ~5,270 |
 | Insult and Injury | 0.60% | ~5,270 |
 | Outrun the Overlap | 0.60% | ~5,270 |
-| Deep Cleansing | 0.50% | ~4,391 |
-| Texas BBQ | 0.50% | ~4,391 |
-| Party Crasher | 0.50% | ~4,391 |
-| Whiffing to Success | 0.50% | ~4,391 |
-| Outrage | 0.50% | ~4,391 |
-| Shrine Apparatus | 0.50% | ~4,391 |
-| Broken Bodies | 0.50% | ~4,391 |
-| Rebuilding The Borgo | 0.50% | ~4,391 |
-| Hack the Mainframe | 0.50% | ~4,391 |
-| Kitted Out | 0.50% | ~4,391 |
+| Deep Cleansing | 0.50% | ~4,392 |
+| Texas BBQ | 0.50% | ~4,392 |
+| Party Crasher | 0.50% | ~4,392 |
+| Whiffing to Success | 0.50% | ~4,392 |
+| Outrage | 0.50% | ~4,392 |
+| Shrine Apparatus | 0.50% | ~4,392 |
+| Broken Bodies | 0.50% | ~4,392 |
+| Rebuilding The Borgo | 0.50% | ~4,392 |
+| Hack the Mainframe | 0.50% | ~4,392 |
+| Kitted Out | 0.50% | ~4,392 |
 | Blood in your mouth | 0.40% | ~3,513 |
 | Heavy Burden | 0.40% | ~3,513 |
 | I See You | 0.40% | ~3,513 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~878 |
 | Adept Ripley | 0.10% | ~878 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 878,279 (Ranked 14)  
+Progressed: 878,323 (Ranked 14)  
 Completed: 48 (0.01%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -384,7 +384,7 @@ Completed: 48 (0.01%) (Ranked 261)
 | 2023-09-12 | 873,422 | 48 |
 | 2023-09-13 | 875,770 | 48 |
 | 2023-09-14 | 877,853 | 48 |
-| 2023-09-15 | 878,279 | 48 |
+| 2023-09-15 | 878,323 | 48 |
 ## Awards
 Max (Diverse Characters): 32,476  (Ranked 15)  
 Sum: 253,572 (Ranked 11)  

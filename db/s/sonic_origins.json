@@ -2222,9 +2222,9 @@
       "ID": "ID_24_SONIC3K_CLEAR_S_RANK_MISSION",
       "SetID": "7o8nc5m",
       "Name": "S3 \u0026 K Mission Master",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "ID_25_PLAY_MIRRORING",
@@ -2326,8 +2326,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-09-10T20:59:20.0886236+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:06:00.4822796+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:07:20.0607275+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.7477215+00:00",
-  "LastUpdate_Ratings": "2023-09-15T05:02:05.9179995+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:06:00.4823083+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:02:40.6136871+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:07:20.0607918+00:00"
 }

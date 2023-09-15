@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 984,
+  "Ranking_Rating": 985,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 82,
@@ -108,9 +108,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73228,
+  "EOS_Progressed": 73229,
   "EOS_Completed": 756,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -16528,6 +16528,11 @@
       "Time": "2023-09-15T05:05:02.7539294+00:00",
       "NumProgressed": 73228,
       "NumCompleted": 756
+    },
+    {
+      "Time": "2023-09-15T06:06:01.0961766+00:00",
+      "NumProgressed": 73229,
+      "NumCompleted": 756
     }
   ],
   "TotalAchievements": 25,
@@ -16659,7 +16664,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 13913
+      "UsersEstimate": 13914
     },
     {
       "ID": "Nice Try",
@@ -16667,7 +16672,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 11716
+      "UsersEstimate": 11717
     },
     {
       "ID": "Nothing Left to Say",
@@ -16738,7 +16743,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 73228,
+      "Progressed": 73229,
       "Completed": 756
     }
   ],
@@ -16746,8 +16751,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-15T00:00:02.5628182+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:05:02.7539291+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:06:01.0961759+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:52.4518852+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:59:59.0489616+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:05:02.7540244+00:00"
+  "LastUpdate_Ratings": "2023-09-15T06:01:19.6474362+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:06:01.0963728+00:00"
 }

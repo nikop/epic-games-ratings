@@ -70,7 +70,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10578,
+  "EOS_Progressed": 10579,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
@@ -5375,6 +5375,11 @@
       "Time": "2023-09-15T03:09:15.91101+00:00",
       "NumProgressed": 10578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T06:08:55.9029525+00:00",
+      "NumProgressed": 10579,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -5435,7 +5440,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "16",
@@ -5626,7 +5631,7 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 10578,
+      "Progressed": 10579,
       "Completed": 0
     }
   ],
@@ -5634,8 +5639,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-09-11T16:57:26.7239697+00:00",
-  "LastChanged_Achievements": "2023-09-15T05:08:10.3696827+00:00",
+  "LastChanged_Achievements": "2023-09-15T06:08:55.9029519+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.4284121+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:58:24.3388974+00:00",
-  "LastUpdate_Achievements": "2023-09-15T05:08:10.3697269+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:59:02.0399222+00:00",
+  "LastUpdate_Achievements": "2023-09-15T06:08:55.9030274+00:00"
 }

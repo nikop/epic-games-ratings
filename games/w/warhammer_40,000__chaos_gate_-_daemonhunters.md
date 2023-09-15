@@ -8,10 +8,10 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Executioner | 5.00% | ~159 |
 | Watch Where You Step... | 5.00% | ~159 |
-| Look Over There! | 4.00% | ~127 |
-| Not So Fast... | 4.00% | ~127 |
-| Purging Spree | 4.00% | ~127 |
-| An Ill Omen | 4.00% | ~127 |
+| Look Over There! | 4.00% | ~128 |
+| Not So Fast... | 4.00% | ~128 |
+| Purging Spree | 4.00% | ~128 |
+| An Ill Omen | 4.00% | ~128 |
 | Blood for the Blood God! | 3.00% | ~96 |
 | Bloodless | 3.00% | ~96 |
 | Honoured Battle-Brother | 2.00% | ~64 |
@@ -26,11 +26,11 @@ Number of Ratings: 371  (23.09.2022)
 | Just a Scratch | 1.00% | ~32 |
 | Execution Force | 1.00% | ~32 |
 | Hive Exterminator | 1.00% | ~32 |
-| Daemonkeeper | 0.80% | ~25 |
-| Efficient Killer | 0.80% | ~25 |
-| Only in Death | 0.80% | ~25 |
-| A Gift Spurned | 0.80% | ~25 |
-| Tactical Sabotage | 0.80% | ~25 |
+| Daemonkeeper | 0.80% | ~26 |
+| Efficient Killer | 0.80% | ~26 |
+| Only in Death | 0.80% | ~26 |
+| A Gift Spurned | 0.80% | ~26 |
+| Tactical Sabotage | 0.80% | ~26 |
 | Fleetmaster | 0.70% | ~22 |
 | Exterminator | 0.70% | ~22 |
 | Junk Banishment | 0.70% | ~22 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,187 (Ranked 166)  
+Progressed: 3,188 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,6 +211,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-11 | 3,185 | 0 |
 | 2023-09-12 | 3,186 | 0 |
 | 2023-09-13 | 3,187 | 0 |
+| 2023-09-15 | 3,188 | 0 |
 ## Awards
 Max (Character Customization): 220  (Ranked 266)  
 Sum: 474 (Ranked 306)  
