@@ -6,34 +6,34 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~109,492 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~83,590 |
+| A Place to Lay Your Head | 93.00% | ~109,493 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~83,591 |
 | A Clear Conscience | 69.00% | ~81,236 |
-| Unleash Hell | 68.00% | ~80,058 |
-| Unfulfilled Desires | 68.00% | ~80,058 |
-| Funny Guy | 67.00% | ~78,881 |
-| Unshackled | 67.00% | ~78,881 |
+| Unleash Hell | 68.00% | ~80,059 |
+| Unfulfilled Desires | 68.00% | ~80,059 |
+| Funny Guy | 67.00% | ~78,882 |
+| Unshackled | 67.00% | ~78,882 |
 | Long Live the King | 66.00% | ~77,704 |
-| Resurrection | 62.00% | ~72,994 |
-| Wyrdly Reconstructed | 62.00% | ~72,994 |
+| Resurrection | 62.00% | ~72,995 |
+| Wyrdly Reconstructed | 62.00% | ~72,995 |
 | Boxcar Kid | 60.00% | ~70,640 |
 | Rush Hour | 60.00% | ~70,640 |
 | To Grandmother's House | 60.00% | ~70,640 |
-| Serenity Now! | 53.00% | ~62,398 |
-| Hope Rekindled | 50.00% | ~58,866 |
-| Ramble On | 49.00% | ~57,689 |
+| Serenity Now! | 53.00% | ~62,399 |
+| Hope Rekindled | 50.00% | ~58,867 |
+| Ramble On | 49.00% | ~57,690 |
 | Nope | 48.00% | ~56,512 |
 | This Looks Familiar | 38.00% | ~44,739 |
-| Now Stay Dead | 37.00% | ~43,561 |
+| Now Stay Dead | 37.00% | ~43,562 |
 | Harvest Festival | 36.00% | ~42,384 |
 | Hot Air | 36.00% | ~42,384 |
 | Merry Time | 35.00% | ~41,207 |
 | Creep and Sleep | 33.00% | ~38,852 |
 | Overdue Notice | 32.00% | ~37,675 |
-| Banishment | 31.00% | ~36,497 |
-| Whale | 31.00% | ~36,497 |
+| Banishment | 31.00% | ~36,498 |
+| Whale | 31.00% | ~36,498 |
 | FNG | 29.00% | ~34,143 |
-| Reverse Banditry | 25.00% | ~29,433 |
+| Reverse Banditry | 25.00% | ~29,434 |
 | Predator | 24.00% | ~28,256 |
 | Autodidact | 24.00% | ~28,256 |
 | Meat and Greet | 22.00% | ~25,901 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Gravestone Left Unturned | 0.10% | ~118 |
 | 20,000 Leagues Above the Sea | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,733 (Ranked 72)  
+Progressed: 117,734 (Ranked 72)  
 Completed: 1 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 1 (0.00%) (Ranked 275)
 | 2023-09-12 | 117,573 | 1 |
 | 2023-09-13 | 117,644 | 1 |
 | 2023-09-14 | 117,714 | 1 |
-| 2023-09-15 | 117,733 | 1 |
+| 2023-09-15 | 117,734 | 1 |
 ## Awards
 Max (Character Customization): 7,390  (Ranked 48)  
 Sum: 19,273 (Ranked 56)  

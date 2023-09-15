@@ -41,8 +41,8 @@ Number of Ratings: 836  (23.09.2022)
 | Prepared for Anything | 13.00% | ~1,170 |
 | Big Catastrofan | 13.00% | ~1,170 |
 | It's a Finnish Thing | 10.00% | ~900 |
+| Sky Burial | 10.00% | ~900 |
 | Trader | 9.00% | ~810 |
-| Sky Burial | 9.00% | ~810 |
 | Bread and Circuses | 8.00% | ~720 |
 | New Eden | 7.00% | ~630 |
 | Tailored to fit | 7.00% | ~630 |

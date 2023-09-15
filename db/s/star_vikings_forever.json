@@ -4,7 +4,7 @@
   "ProductSlug": "star-vikings-forever-215b84",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-05-13T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.4422655+00:00",
   "LastChanged": "2023-03-31T05:58:28.4422657+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:24.8609939+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:02:02.2745531+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:05:44.4220303+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:00:30.9606949+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:04:45.9012106+00:00"
 }

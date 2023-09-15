@@ -5,7 +5,7 @@
   "Ranking_Rating": 367,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 199,
+  "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 105,
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1347,
+  "EOS_Progressed": 1348,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -2470,6 +2470,11 @@
       "Time": "2023-09-15T04:08:09.5515495+00:00",
       "NumProgressed": 1347,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T05:06:31.108672+00:00",
+      "NumProgressed": 1348,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2503,9 +2508,9 @@
       "ID": "Big_Bertha",
       "SetID": "85nb4h3",
       "Name": "The Big Bertha",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 162
+      "UsersEstimate": 148
     },
     {
       "ID": "Boy",
@@ -2513,7 +2518,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Commandos",
@@ -2529,7 +2534,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Defense_Common",
@@ -2561,7 +2566,7 @@
       "Name": "E1M1",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "Everyone_is_here",
@@ -2609,7 +2614,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "High_noon",
@@ -2697,7 +2702,7 @@
       "Name": "War Never Changes",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "We_were_not_here",
@@ -2720,15 +2725,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1347,
+      "Progressed": 1348,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:08:09.551549+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:06:31.1086716+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.9479755+00:00",
-  "LastUpdate_Ratings": "2023-09-15T03:59:23.9268113+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:08:09.5515883+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:58:40.0794962+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:06:31.108699+00:00"
 }

@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5800,
+  "EOS_Progressed": 5803,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1471,6 +1471,11 @@
       "Time": "2023-09-15T04:05:40.1363251+00:00",
       "NumProgressed": 5800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T05:04:43.1425739+00:00",
+      "NumProgressed": 5803,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -1603,7 +1608,7 @@
       "Name": "Played a Match",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "GamesPlayed10",
@@ -1627,7 +1632,7 @@
       "Name": "Won a Match",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "GamesWon10",
@@ -1969,9 +1974,9 @@
       "ID": "RFSPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Rapid Fire Support",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 290
     },
     {
       "ID": "RSPurchased1",
@@ -2074,14 +2079,14 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 5800,
+      "Progressed": 5803,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:05:40.1363246+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:04:43.1425733+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:08.8511306+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:00:59.8507484+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:05:40.136432+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:59:43.6334819+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:04:43.142645+00:00"
 }

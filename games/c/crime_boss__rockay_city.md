@@ -5,7 +5,7 @@ Rating: 3.93 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 70.00% | ~61,013 |
+| Downed but Not Outed | 70.00% | ~61,014 |
 | First One’s Free | 61.00% | ~53,169 |
 | Neophyte Ninja | 48.00% | ~41,838 |
 | Too Old for This | 43.00% | ~37,480 |
@@ -18,7 +18,7 @@ Rating: 3.93 (Ranked 958)
 | True Player | 16.00% | ~13,946 |
 | Dragonslayer | 16.00% | ~13,946 |
 | Raider’s Ruin | 15.00% | ~13,074 |
-| Hidden Sonata | 12.00% | ~10,459 |
+| Hidden Sonata | 12.00% | ~10,460 |
 | Rockay Rex | 10.00% | ~8,716 |
 | Freebooter | 9.00% | ~7,845 |
 | Track Star | 8.00% | ~6,973 |
@@ -28,10 +28,10 @@ Rating: 3.93 (Ranked 958)
 | Ding Dong | 7.00% | ~6,101 |
 | Foo Finder | 6.00% | ~5,230 |
 | Savvy Seeker | 5.00% | ~4,358 |
-| Legend Looter | 4.00% | ~3,486 |
-| Imports and Exports | 4.00% | ~3,486 |
-| Olympus Ascended | 4.00% | ~3,486 |
-| Red Star | 4.00% | ~3,486 |
+| Legend Looter | 4.00% | ~3,487 |
+| Imports and Exports | 4.00% | ~3,487 |
+| Olympus Ascended | 4.00% | ~3,487 |
+| Red Star | 4.00% | ~3,487 |
 | Privateer | 3.00% | ~2,615 |
 | Groundhog Days | 3.00% | ~2,615 |
 | Cracked the Jack | 3.00% | ~2,615 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 958)
 | Geek Out | 0.50% | ~436 |
 | Full House | 0.20% | ~174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,162 (Ranked 76)  
+Progressed: 87,163 (Ranked 76)  
 Completed: 45 (0.05%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 45 (0.05%) (Ranked 239)
 | 2023-09-12 | 86,879 | 45 |
 | 2023-09-13 | 87,015 | 45 |
 | 2023-09-14 | 87,137 | 45 |
-| 2023-09-15 | 87,162 | 45 |
+| 2023-09-15 | 87,163 | 45 |
 ## Awards
 Max (Diverse Characters): 436  (Ranked 209)  
 Sum: 2,072 (Ranked 199)  

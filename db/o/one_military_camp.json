@@ -4,7 +4,7 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -696,6 +696,11 @@
       "Time": "2023-09-10T18:05:24.5741345+00:00",
       "NumProgressed": 163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T05:06:33.0704914+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -810,9 +815,9 @@
       "ID": "ACHIEVEMENT_ID_20",
       "SetID": "c504de6",
       "Name": "Healing",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_21",
@@ -866,9 +871,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -922,9 +927,9 @@
       "ID": "ACHIEVEMENT_ID_33",
       "SetID": "c504de6",
       "Name": "Pathfinder",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_34",
@@ -980,7 +985,7 @@
       "Name": "First Step",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1059,14 +1064,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:08:12.0690855+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:06:33.0704908+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:56.5181295+00:00",
-  "LastUpdate_Ratings": "2023-09-15T03:58:17.9728009+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:08:12.0691576+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:57:53.3168458+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:06:33.0705251+00:00"
 }

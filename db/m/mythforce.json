@@ -611,9 +611,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1914,
+  "EOS_Progressed": 1918,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4396,6 +4396,11 @@
       "Time": "2023-09-15T04:08:23.5374932+00:00",
       "NumProgressed": 1914,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T05:06:41.217032+00:00",
+      "NumProgressed": 1918,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -4488,7 +4493,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -4552,7 +4557,7 @@
       "Name": "Season Finale",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -4560,7 +4565,7 @@
       "Name": "Spending Spree",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -4591,15 +4596,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 1914,
+      "Progressed": 1918,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-09-13T17:57:47.8485266+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:08:23.5374927+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:06:41.2170316+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:54.6828114+00:00",
-  "LastUpdate_Ratings": "2023-09-15T03:58:36.4708427+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:08:23.5375394+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:58:07.8653645+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:06:41.2170626+00:00"
 }

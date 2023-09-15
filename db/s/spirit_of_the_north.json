@@ -324,9 +324,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 68844,
+  "EOS_Progressed": 68845,
   "EOS_Completed": 358,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -16424,6 +16424,11 @@
       "Time": "2023-09-15T04:06:33.2995291+00:00",
       "NumProgressed": 68844,
       "NumCompleted": 358
+    },
+    {
+      "Time": "2023-09-15T05:05:21.2747009+00:00",
+      "NumProgressed": 68845,
+      "NumCompleted": 358
     }
   ],
   "TotalAchievements": 24,
@@ -16451,7 +16456,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 46814
+      "UsersEstimate": 46815
     },
     {
       "ID": "BEST_FRIENDS",
@@ -16467,7 +16472,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 17899
+      "UsersEstimate": 17900
     },
     {
       "ID": "ERADICATE",
@@ -16515,7 +16520,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 36487
+      "UsersEstimate": 36488
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -16626,7 +16631,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 68844,
+      "Progressed": 68845,
       "Completed": 358
     }
   ],
@@ -16634,8 +16639,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-08-09T04:59:47.6125511+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:06:33.2995284+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:05:21.2747004+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:49.8305044+00:00",
-  "LastUpdate_Ratings": "2023-09-15T03:58:47.6498726+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:06:33.2996656+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:58:15.7234821+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:05:21.2747892+00:00"
 }

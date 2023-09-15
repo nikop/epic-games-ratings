@@ -7,10 +7,10 @@
 | Self-Defence | 89.00% | ~67 |
 | Tinkerer | 68.00% | ~51 |
 | Welcome to the Club | 37.00% | ~28 |
-| A new World ahead | 29.00% | ~22 |
+| A new World ahead | 31.00% | ~23 |
 | Apprentice | 28.00% | ~21 |
+| Don't Cry Wolf | 21.00% | ~16 |
 | Can't touch this | 21.00% | ~16 |
-| Don't Cry Wolf | 20.00% | ~15 |
 | Freezing Cold | 16.00% | ~12 |
 | The Power of the Mountains | 15.00% | ~11 |
 | Searing Heat | 13.00% | ~10 |

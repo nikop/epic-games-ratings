@@ -14,12 +14,12 @@
 | A Little Renovating | 33.00% | ~13 |
 | Deflect This! | 30.00% | ~12 |
 | It's a Sign! | 28.00% | ~11 |
-| Just Some Improvements | 20.00% | ~8 |
+| Just Some Improvements | 23.00% | ~9 |
+| A New Strategy | 20.00% | ~8 |
 | My Precious Gems! | 18.00% | ~7 |
 | A Little Extra Love | 18.00% | ~7 |
 | An Unexpected Visitor | 18.00% | ~7 |
 | Final Announcement | 18.00% | ~7 |
-| A New Strategy | 18.00% | ~7 |
 | Isn't It Beautiful? | 15.00% | ~6 |
 | A Generous Leader | 15.00% | ~6 |
 | How Do You Like Them Apples? | 15.00% | ~6 |

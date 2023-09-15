@@ -84,7 +84,7 @@
 | Bucolic city | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 275)  
+Progressed: 334 (Ranked 275)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-11 | 331 | 0 |
 | 2023-09-13 | 332 | 0 |
 | 2023-09-14 | 333 | 0 |
+| 2023-09-15 | 334 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

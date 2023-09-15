@@ -3970,9 +3970,9 @@
       "ID": "tomb_raider_3",
       "SetID": "53c1p3k",
       "Name": "Tomb Raider 3",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -3985,8 +3985,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:07:42.5437887+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:06:11.8274206+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:09.1292976+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:01:52.2075308+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:07:42.5438914+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:00:24.4081064+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:06:11.8274824+00:00"
 }

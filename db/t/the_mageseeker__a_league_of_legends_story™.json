@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -130,9 +130,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2550,
+  "EOS_Progressed": 2551,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -3545,6 +3545,11 @@
       "Time": "2023-09-14T20:06:37.851457+00:00",
       "NumProgressed": 2550,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-15T05:05:42.9658035+00:00",
+      "NumProgressed": 2551,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3564,7 +3569,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -3604,7 +3609,7 @@
       "Name": "Elemental master",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -3620,7 +3625,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2448
+      "UsersEstimate": 2449
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -3628,15 +3633,15 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
       "SetID": "3pe2bac",
       "Name": "Everfrost",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2014
+      "UsersEstimate": 1990
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -3730,9 +3735,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1964
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -3740,7 +3745,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -3772,7 +3777,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -3804,7 +3809,7 @@
       "Name": "Sacred Woods",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -3820,7 +3825,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -3852,7 +3857,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "STB_PET_DOG",
@@ -3884,7 +3889,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -3892,7 +3897,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -3924,7 +3929,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -3932,7 +3937,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -3979,7 +3984,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2550,
+      "Progressed": 2551,
       "Completed": 7
     }
   ],
@@ -3987,8 +3992,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:07:02.5315765+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:05:42.9658029+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:13.613728+00:00",
-  "LastUpdate_Ratings": "2023-09-15T03:57:05.9919038+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:07:02.5316586+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:57:06.3108525+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:05:42.9658543+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3462,
+  "EOS_Progressed": 3463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2933,6 +2933,11 @@
       "Time": "2023-09-14T17:08:25.838959+00:00",
       "NumProgressed": 3462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T05:06:42.8319029+00:00",
+      "NumProgressed": 3463,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -2992,7 +2997,7 @@
       "Name": "Immolator",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_FH",
@@ -3024,7 +3029,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_K_A2",
@@ -3032,7 +3037,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_K_A3",
@@ -3160,7 +3165,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_OB_BR",
@@ -3192,7 +3197,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_OB_CS",
@@ -3240,7 +3245,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_OB_LI",
@@ -3447,7 +3452,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3462,
+      "Progressed": 3463,
       "Completed": 0
     }
   ],
@@ -3455,8 +3460,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:08:25.7230403+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:06:42.8319025+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:01.8440363+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:00:12.5425626+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:08:25.7231323+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:59:12.4355895+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:06:42.831962+00:00"
 }

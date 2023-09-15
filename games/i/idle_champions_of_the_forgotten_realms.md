@@ -64,6 +64,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~458 |
 | Escort to Waterdeep | 0.20% | ~458 |
 | The Giant's Bane Tavern | 0.20% | ~390 |
+| The Everlasting Rime | 0.20% | ~390 |
 | Close Escort | 0.20% | ~458 |
 | Constant Banditry | 0.20% | ~458 |
 | Waterdeep Detours | 0.20% | ~458 |
@@ -411,7 +412,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rime Bandits | 0.10% | ~195 |
 | Giant-Size Adventure | 0.10% | ~195 |
 | Power of Three | 0.10% | ~195 |
-| The Everlasting Rime | 0.10% | ~195 |
 | Enemy Summit | 0.10% | ~195 |
 | Mirage Arcane | 0.10% | ~195 |
 | Only Human | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,822 (Ranked 55)  
+Progressed: 228,824 (Ranked 55)  
 Completed: 2,280 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -675,7 +675,7 @@ Completed: 2,280 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,822 | 2,280 |
+| 2023-09-15 | 228,824 | 2,280 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
 Sum: 31,588 (Ranked 39)  

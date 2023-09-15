@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 813,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1901,6 +1901,11 @@
       "Time": "2023-09-15T00:04:20.1749017+00:00",
       "NumProgressed": 812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T05:04:06.3816486+00:00",
+      "NumProgressed": 813,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1912,7 +1917,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -1920,7 +1925,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -1952,7 +1957,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -1960,7 +1965,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -1982,9 +1987,9 @@
       "ID": "BARK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Capraphobia",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 406
+      "UsersEstimate": 398
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2032,7 +2037,7 @@
       "Name": "Burnt Smell",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2272,7 +2277,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2328,7 +2333,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -2360,7 +2365,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -2368,7 +2373,7 @@
       "Name": "Haunted Prison",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_3",
@@ -2439,14 +2444,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 813,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:04:48.676184+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:04:06.3816483+00:00",
   "LastUpdate_AppInfo": "2023-09-14T19:57:19.2555996+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:01:52.5358315+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:04:48.6762679+00:00"
+  "LastUpdate_Ratings": "2023-09-15T05:00:24.6575831+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:04:06.3817109+00:00"
 }

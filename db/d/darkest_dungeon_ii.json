@@ -7533,9 +7533,9 @@
       "Count": 927
     }
   ],
-  "EOS_Progressed": 117733,
+  "EOS_Progressed": 117734,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22388,6 +22388,11 @@
       "Time": "2023-09-15T04:03:30.2656009+00:00",
       "NumProgressed": 117733,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T05:03:06.9822617+00:00",
+      "NumProgressed": 117734,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -22399,7 +22404,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 83590
+      "UsersEstimate": 83591
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -22407,7 +22412,7 @@
       "Name": "Serenity Now!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 62398
+      "UsersEstimate": 62399
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -22431,7 +22436,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72994
+      "UsersEstimate": 72995
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -22439,7 +22444,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 80058
+      "UsersEstimate": 80059
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -22447,7 +22452,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 78881
+      "UsersEstimate": 78882
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -22463,7 +22468,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 72994
+      "UsersEstimate": 72995
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -22479,7 +22484,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 80058
+      "UsersEstimate": 80059
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -22503,7 +22508,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 58866
+      "UsersEstimate": 58867
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -22543,7 +22548,7 @@
       "Name": "Banishment",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 36497
+      "UsersEstimate": 36498
     },
     {
       "ID": "combat_kill_death",
@@ -22583,7 +22588,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 43561
+      "UsersEstimate": 43562
     },
     {
       "ID": "combat_kill_gentry",
@@ -22631,7 +22636,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 29433
+      "UsersEstimate": 29434
     },
     {
       "ID": "combat_kill_shambler",
@@ -22727,7 +22732,7 @@
       "Name": "Ramble On",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 57689
+      "UsersEstimate": 57690
     },
     {
       "ID": "driving_distance_hard",
@@ -22775,7 +22780,7 @@
       "Name": "Whale",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 36497
+      "UsersEstimate": 36498
     },
     {
       "ID": "hospital_full_service",
@@ -22791,7 +22796,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 109492
+      "UsersEstimate": 109493
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -22855,7 +22860,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 78881
+      "UsersEstimate": 78882
     },
     {
       "ID": "run_victory_act02",
@@ -22918,15 +22923,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 117733,
+      "Progressed": 117734,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-09-14T21:59:39.7852519+00:00",
-  "LastChanged_Achievements": "2023-09-15T04:03:30.2656004+00:00",
+  "LastChanged_Achievements": "2023-09-15T05:03:06.9822614+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:01.1129381+00:00",
-  "LastUpdate_Ratings": "2023-09-15T04:00:09.6957624+00:00",
-  "LastUpdate_Achievements": "2023-09-15T04:03:30.2657801+00:00"
+  "LastUpdate_Ratings": "2023-09-15T04:59:10.6371446+00:00",
+  "LastUpdate_Achievements": "2023-09-15T05:03:06.9823809+00:00"
 }
