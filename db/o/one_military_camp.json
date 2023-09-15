@@ -1042,9 +1042,9 @@
       "ID": "ACHIEVEMENT_ID_8",
       "SetID": "c504de6",
       "Name": "Green Energy",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1065,8 +1065,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2023-09-15T02:24:45.4008407+00:00",
+  "LastChanged_Achievements": "2023-09-15T03:08:22.8242405+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:56.5181295+00:00",
-  "LastUpdate_Ratings": "2023-09-15T02:15:05.5230928+00:00",
-  "LastUpdate_Achievements": "2023-09-15T02:24:45.4009179+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:58:28.6658175+00:00",
+  "LastUpdate_Achievements": "2023-09-15T03:08:22.8243345+00:00"
 }

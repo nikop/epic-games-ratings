@@ -4,7 +4,7 @@
   "ProductSlug": "faeria",
   "Ranking_Rating": 624,
   "Ranking_Popularity": 329,
-  "Ranking_PopularitySum": 323,
+  "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 356,
@@ -624,10 +624,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 384,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2023-09-15T03:01:11.4039644+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 387,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 384,
+  "NumberOfAwards": 387,
   "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -671,13 +677,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Challenging Combat",
@@ -697,8 +703,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2023-09-11T14:59:21.8387201+00:00",
+  "LastChanged": "2023-09-15T03:01:11.4039642+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:15.6583479+00:00",
-  "LastUpdate_Ratings": "2023-09-15T02:17:47.7584246+00:00",
-  "LastUpdate_Achievements": "2023-09-15T02:20:05.4575715+00:00"
+  "LastUpdate_Ratings": "2023-09-15T03:01:11.4039649+00:00",
+  "LastUpdate_Achievements": "2023-09-15T03:03:32.654258+00:00"
 }

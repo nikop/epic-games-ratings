@@ -75,7 +75,7 @@ Rating: 4.02 (Ranked 941)
 | Beast War Machines | 0.70% | ~14 |
 | Pokerface | 0.70% | ~14 |
 | Angel Power | 0.60% | ~12 |
-| Conqueror | 0.50% | ~10 |
+| Conqueror | 0.60% | ~12 |
 | Ultimate War Machines | 0.50% | ~10 |
 | Silverwood liberator | 0.30% | ~6 |
 | Jewel Enchanting | 0.20% | ~4 |

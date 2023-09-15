@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,377 |
 | KINDRED SPIRITS | 0.60% | ~413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,843 (Ranked 84)  
+Progressed: 68,843 (Ranked 85)  
 Completed: 358 (0.52%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,9 +181,9 @@ Completed: 358 (0.52%) (Ranked 154)
 | 2023-09-14 | 68,833 | 358 |
 | 2023-09-15 | 68,843 | 358 |
 ## Awards
-Max (Extremely Fun): 26  (Ranked 480)  
+Max (Extremely Fun): 26  (Ranked 481)  
 Sum: 114 (Ranked 413)  
-Diff (max vs sum): 67  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 26 |

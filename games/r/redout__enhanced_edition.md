@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~464 |
 | ENLIGHTENED | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 231,790 (Ranked 53)  
+Progressed: 231,791 (Ranked 53)  
 Completed: 47 (0.02%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 47 (0.02%) (Ranked 253)
 | 2023-09-12 | 231,690 | 47 |
 | 2023-09-13 | 231,739 | 47 |
 | 2023-09-14 | 231,784 | 47 |
-| 2023-09-15 | 231,790 | 47 |
+| 2023-09-15 | 231,791 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

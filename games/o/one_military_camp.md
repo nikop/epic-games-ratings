@@ -10,7 +10,7 @@
 | Great Producer | 12.00% | ~20 |
 | There's something in those trees | 11.00% | ~18 |
 | Indebted | 11.00% | ~18 |
-| Green Energy | 10.00% | ~16 |
+| Green Energy | 11.00% | ~18 |
 | Desert Power | 9.00% | ~15 |
 | Desert Rat | 9.00% | ~15 |
 | Fuel Tycoon | 8.00% | ~13 |

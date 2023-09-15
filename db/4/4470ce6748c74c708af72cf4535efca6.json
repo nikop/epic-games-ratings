@@ -229,9 +229,9 @@
       "ID": "10",
       "SetID": "5e3maia",
       "Name": "Astronomer",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "11",
@@ -381,9 +381,9 @@
       "ID": "28",
       "SetID": "5e3maia",
       "Name": "Leader",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "29",
@@ -413,9 +413,9 @@
       "ID": "33",
       "SetID": "5e3maia",
       "Name": "Arcane Arts",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "34",
@@ -429,9 +429,9 @@
       "ID": "35",
       "SetID": "5e3maia",
       "Name": "Rescuer",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "36",
@@ -445,9 +445,9 @@
       "ID": "37",
       "SetID": "5e3maia",
       "Name": "Veteran",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "38",
@@ -461,9 +461,9 @@
       "ID": "39",
       "SetID": "5e3maia",
       "Name": "Occultist",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "4",
@@ -477,9 +477,9 @@
       "ID": "40",
       "SetID": "5e3maia",
       "Name": "Elementalist",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "41",
@@ -493,9 +493,9 @@
       "ID": "42",
       "SetID": "5e3maia",
       "Name": "Winner",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "43",
@@ -533,9 +533,9 @@
       "ID": "47",
       "SetID": "5e3maia",
       "Name": "Manapourer",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "48",
@@ -581,9 +581,9 @@
       "ID": "52",
       "SetID": "5e3maia",
       "Name": "Guard",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "53",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-15T02:22:02.5165716+00:00",
+  "LastChanged_Achievements": "2023-09-15T03:05:40.1125973+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-15T02:17:57.9530149+00:00",
-  "LastUpdate_Achievements": "2023-09-15T02:22:02.5166543+00:00"
+  "LastUpdate_Ratings": "2023-09-15T03:01:21.6429359+00:00",
+  "LastUpdate_Achievements": "2023-09-15T03:05:40.1126686+00:00"
 }

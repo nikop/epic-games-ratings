@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -460,9 +460,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7705,
+  "EOS_Progressed": 7708,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -8195,6 +8195,11 @@
       "Time": "2023-09-15T01:49:06.4786432+00:00",
       "NumProgressed": 7705,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-09-15T03:08:18.8613299+00:00",
+      "NumProgressed": 7708,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 29,
@@ -8206,7 +8211,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6395
+      "UsersEstimate": 6398
     },
     {
       "ID": "ACH02",
@@ -8214,7 +8219,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "ACH03",
@@ -8230,7 +8235,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "ACH05",
@@ -8246,7 +8251,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "ACH07",
@@ -8270,7 +8275,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH10",
@@ -8278,7 +8283,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH11",
@@ -8326,7 +8331,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACH17",
@@ -8342,7 +8347,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH19",
@@ -8350,7 +8355,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH20",
@@ -8398,7 +8403,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH26",
@@ -8437,7 +8442,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 7705,
+      "Progressed": 7708,
       "Completed": 50
     }
   ],
@@ -8445,8 +8450,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-09-12T19:02:11.7422629+00:00",
-  "LastChanged_Achievements": "2023-09-15T02:24:41.3563475+00:00",
+  "LastChanged_Achievements": "2023-09-15T03:08:18.8613294+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:01.9571091+00:00",
-  "LastUpdate_Ratings": "2023-09-15T02:14:10.3395082+00:00",
-  "LastUpdate_Achievements": "2023-09-15T02:24:41.3564306+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:57:32.4514184+00:00",
+  "LastUpdate_Achievements": "2023-09-15T03:08:18.8614072+00:00"
 }
