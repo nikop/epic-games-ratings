@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -342,9 +342,9 @@
       "ID": "ACHIEVEMENT_17_PromiseSia",
       "SetID": "9bke6f1",
       "Name": "Sia\u0027s Promise",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_18_FindMyself",
@@ -422,9 +422,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -438,25 +438,25 @@
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
       "SetID": "9bke6f1",
       "Name": "Master Craftsman",
-      "Percentage": 41,
-      "XP": 20,
-      "UsersEstimate": 49
-    },
-    {
-      "ID": "ACHIEVEMENT_5_FirstWall",
-      "SetID": "9bke6f1",
-      "Name": "First wall",
       "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 50
     },
     {
+      "ID": "ACHIEVEMENT_5_FirstWall",
+      "SetID": "9bke6f1",
+      "Name": "First wall",
+      "Percentage": 43,
+      "XP": 20,
+      "UsersEstimate": 52
+    },
+    {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -493,8 +493,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-09-14T23:04:16.0266972+00:00",
+  "LastChanged_Achievements": "2023-09-15T00:04:02.3811534+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:31.2329075+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:58:52.3331991+00:00",
-  "LastUpdate_Achievements": "2023-09-14T23:04:16.0267292+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:58:29.3726375+00:00",
+  "LastUpdate_Achievements": "2023-09-15T00:04:02.3811711+00:00"
 }

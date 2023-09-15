@@ -4,7 +4,7 @@
   "ProductSlug": "bugby-c6bc9c",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-03T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-24T19:57:04.956413+00:00",
   "LastUpdate_AppInfo": "2023-09-08T10:57:06.549883+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:02:07.2431451+00:00",
-  "LastUpdate_Achievements": "2023-09-14T23:08:14.9227661+00:00"
+  "LastUpdate_Ratings": "2023-09-15T00:00:34.0063908+00:00",
+  "LastUpdate_Achievements": "2023-09-15T00:06:52.1377975+00:00"
 }

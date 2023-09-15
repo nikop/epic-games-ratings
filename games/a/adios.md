@@ -1,20 +1,20 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.58 (Ranked 985)  
+Rating: 3.63 (Ranked 984)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~16,107 |
+| Be Seeing You | 22.00% | ~16,108 |
 | Hard Worker | 20.00% | ~14,643 |
 | Master, Commander | 20.00% | ~14,643 |
 | Mechanic | 19.00% | ~13,911 |
 | Adios, Friendo | 18.00% | ~13,179 |
 | Bottom's Up | 18.00% | ~13,179 |
-| Nice Try | 16.00% | ~11,714 |
+| Nice Try | 16.00% | ~11,715 |
 | Right On Target | 13.00% | ~9,518 |
 | Piano Man | 10.00% | ~7,322 |
-| Lazy Bones | 9.00% | ~6,589 |
+| Lazy Bones | 9.00% | ~6,590 |
 | Vinyl Vibes | 8.00% | ~5,857 |
 | Nothing Left to Say | 7.00% | ~5,125 |
 | Sniper | 7.00% | ~5,125 |
@@ -22,17 +22,17 @@ Rating: 3.58 (Ranked 985)
 | Magnetic Miracles | 5.00% | ~3,661 |
 | Butcher | 4.00% | ~2,929 |
 | Spicy | 4.00% | ~2,929 |
-| A Man Of Taste | 3.00% | ~2,196 |
-| Ace in the Hole | 3.00% | ~2,196 |
-| Fair's Fair | 3.00% | ~2,196 |
-| Hearty | 3.00% | ~2,196 |
-| Meaty | 3.00% | ~2,196 |
-| Taco Toto | 3.00% | ~2,196 |
+| A Man Of Taste | 3.00% | ~2,197 |
+| Ace in the Hole | 3.00% | ~2,197 |
+| Fair's Fair | 3.00% | ~2,197 |
+| Hearty | 3.00% | ~2,197 |
+| Meaty | 3.00% | ~2,197 |
+| Taco Toto | 3.00% | ~2,197 |
 | Audiophile | 2.00% | ~1,464 |
 | Tape Head | 2.00% | ~1,464 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,215 (Ranked 81)  
-Completed: 756 (1.03%) (Ranked 119)  
+Progressed: 73,217 (Ranked 81)  
+Completed: 756 (1.03%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,6 +179,7 @@ Completed: 756 (1.03%) (Ranked 119)
 | 2023-09-12 | 73,076 | 755 |
 | 2023-09-13 | 73,143 | 755 |
 | 2023-09-14 | 73,215 | 756 |
+| 2023-09-15 | 73,217 | 756 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -195,3 +196,4 @@ Completed: 756 (1.03%) (Ranked 119)
 | 2023-07-28 | 3.48 | 0 | 0 |
 | 2023-08-07 | 3.53 | 0 | 0 |
 | 2023-09-09 | 3.58 | 0 | 0 |
+| 2023-09-15 | 3.63 | 0 | 0 |

@@ -900,9 +900,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224052,
+  "EOS_Progressed": 224062,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2030,
+  "EOS_NewPlayers": 2032,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10885,6 +10885,11 @@
       "Time": "2023-09-14T23:09:24.4389694+00:00",
       "NumProgressed": 224052,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-09-15T00:08:30.5853265+00:00",
+      "NumProgressed": 224062,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 88,
@@ -11040,7 +11045,7 @@
       "Name": "Res Judicata",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "CompanionPriestress",
@@ -11248,7 +11253,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -11312,7 +11317,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "DwarfInsultWin",
@@ -11320,7 +11325,7 @@
       "Name": "%#*!$*!",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "DwarfLevel2",
@@ -11336,7 +11341,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -11344,7 +11349,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67216
+      "UsersEstimate": 67219
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11542,9 +11547,9 @@
       "ID": "Speedrun",
       "SetID": "50chcgj",
       "Name": "Speedrun",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4481
+      "UsersEstimate": 6722
     },
     {
       "ID": "SupportCount4",
@@ -11599,21 +11604,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224052,
+      "Progressed": 224062,
       "Completed": 2
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224052,
+      "Progressed": 224062,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-14T14:57:58.9453258+00:00",
-  "LastChanged_Achievements": "2023-09-14T23:09:24.4389686+00:00",
+  "LastChanged_Achievements": "2023-09-15T00:08:30.5853261+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:58:04.8458954+00:00",
-  "LastUpdate_Achievements": "2023-09-14T23:09:24.4391766+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:57:55.8743872+00:00",
+  "LastUpdate_Achievements": "2023-09-15T00:08:30.5854882+00:00"
 }

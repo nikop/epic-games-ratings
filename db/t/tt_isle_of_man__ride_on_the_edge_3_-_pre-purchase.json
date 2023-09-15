@@ -665,9 +665,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "gagif7",
       "Name": "Like Phileas Fogg",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -960,8 +960,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-09-14T23:07:59.6053703+00:00",
+  "LastChanged_Achievements": "2023-09-15T00:06:41.828549+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:15.0711465+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:02:43.6830906+00:00",
-  "LastUpdate_Achievements": "2023-09-14T23:07:59.6054339+00:00"
+  "LastUpdate_Ratings": "2023-09-15T00:03:06.3914008+00:00",
+  "LastUpdate_Achievements": "2023-09-15T00:06:41.8285904+00:00"
 }

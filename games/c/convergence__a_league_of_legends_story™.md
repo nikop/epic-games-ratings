@@ -25,10 +25,10 @@ Rating: 4.60 (Ranked 395)
 | Like Clockwork | 17.00% | ~147 |
 | The Betrayer | 17.00% | ~147 |
 | The Loose Cannon | 17.00% | ~147 |
-| Check Your Pulse | 17.00% | ~147 |
 | The Family Fortune | 17.00% | ~147 |
 | Right On Time | 16.00% | ~139 |
 | The Man Who Shattered Time | 16.00% | ~139 |
+| Check Your Pulse | 16.00% | ~139 |
 | Street Style | 15.00% | ~130 |
 | Cartographer | 15.00% | ~130 |
 | Treasure Trove | 14.00% | ~121 |
@@ -59,7 +59,7 @@ Rating: 4.60 (Ranked 395)
 | Going to Live Forever | 0.60% | ~5 |
 | Raw Talent | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 866 (Ranked 216)  
+Progressed: 867 (Ranked 216)  
 Completed: 5 (0.58%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 5 (0.58%) (Ranked 147)
 | 2023-09-12 | 863 | 5 |
 | 2023-09-13 | 865 | 5 |
 | 2023-09-14 | 866 | 5 |
+| 2023-09-15 | 867 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

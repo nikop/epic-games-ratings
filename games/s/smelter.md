@@ -11,8 +11,8 @@
 | Deep in the Mounds | 68.00% | ~27 |
 | Smeltastic! | 38.00% | ~15 |
 | Locked Away | 33.00% | ~13 |
+| Deflect This! | 30.00% | ~12 |
 | A Little Renovating | 30.00% | ~12 |
-| Deflect This! | 28.00% | ~11 |
 | It's a Sign! | 28.00% | ~11 |
 | Just Some Improvements | 20.00% | ~8 |
 | My Precious Gems! | 18.00% | ~7 |

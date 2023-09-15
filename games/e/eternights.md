@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Shelter Escape | 79.00% | ~95 |
 | New arm | 78.00% | ~94 |
-| The First Bond | 63.00% | ~76 |
+| The First Bond | 65.00% | ~78 |
 | Novice Scavenger | 53.00% | ~64 |
-| First wall | 42.00% | ~50 |
-| Master Craftsman | 41.00% | ~49 |
-| Piggyback Expert | 38.00% | ~46 |
+| First wall | 43.00% | ~52 |
+| Master Craftsman | 42.00% | ~50 |
+| Piggyback Expert | 39.00% | ~47 |
 | Second wall | 25.00% | ~30 |
 | Expert Scavenger | 23.00% | ~28 |
 | Their Rock | 18.00% | ~22 |
@@ -20,7 +20,7 @@
 | Truebro | 14.00% | ~17 |
 | Romantic | 12.00% | ~14 |
 | Min's Promise | 11.00% | ~13 |
-| Sia's Promise | 8.00% | ~10 |
+| Sia's Promise | 9.00% | ~11 |
 | TentacleMAN | 5.00% | ~6 |
 | Yohan's Promise | 3.00% | ~4 |
 | Plushyboy | 3.00% | ~4 |

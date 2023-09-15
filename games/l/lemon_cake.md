@@ -14,8 +14,8 @@
 | Luxury Kitchen | 10.00% | ~15 |
 | Bustling Store | 10.00% | ~15 |
 | Expert Baker | 9.00% | ~13 |
+| Gotta Go Fast | 8.00% | ~12 |
 | Master Baker | 7.00% | ~10 |
-| Gotta Go Fast | 7.00% | ~10 |
 | Swing The Broom | 7.00% | ~10 |
 | Bakery Business | 6.00% | ~9 |
 | The Famous Lemon Cake | 6.00% | ~9 |

@@ -7194,9 +7194,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 801299,
+  "EOS_Progressed": 801301,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 984,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23534,6 +23534,11 @@
       "Time": "2023-09-14T23:08:28.2693236+00:00",
       "NumProgressed": 801299,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-09-15T00:07:01.6755888+00:00",
+      "NumProgressed": 801301,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 82,
@@ -23849,7 +23854,7 @@
       "Name": "I Can Quit Anytime",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "InfernalJustice",
@@ -23993,7 +23998,7 @@
       "Name": "Perfectionist",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4006
+      "UsersEstimate": 4007
     },
     {
       "ID": "Pilgrim",
@@ -24200,15 +24205,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 801299,
+      "Progressed": 801301,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-09-14T21:58:06.6606944+00:00",
-  "LastChanged_Achievements": "2023-09-14T23:08:28.269323+00:00",
+  "LastChanged_Achievements": "2023-09-15T00:07:01.6755882+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.0692878+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:58:14.6850856+00:00",
-  "LastUpdate_Achievements": "2023-09-14T23:08:28.2697223+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:58:02.7797111+00:00",
+  "LastUpdate_Achievements": "2023-09-15T00:07:01.6757748+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -223,9 +223,9 @@
       "Count": 126
     }
   ],
-  "EOS_Progressed": 36549,
+  "EOS_Progressed": 36550,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -16428,6 +16428,11 @@
       "Time": "2023-09-14T21:03:34.0744372+00:00",
       "NumProgressed": 36549,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-09-15T00:03:46.664306+00:00",
+      "NumProgressed": 36550,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 29,
@@ -16503,7 +16508,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -16511,7 +16516,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -16670,7 +16675,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 36549,
+      "Progressed": 36550,
       "Completed": 23
     }
   ],
@@ -16678,8 +16683,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-09-13T21:59:44.1449852+00:00",
-  "LastChanged_Achievements": "2023-09-14T23:03:42.8840831+00:00",
+  "LastChanged_Achievements": "2023-09-15T00:03:46.6643055+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:00.5463786+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:00:02.8633061+00:00",
-  "LastUpdate_Achievements": "2023-09-14T23:03:42.8842308+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:59:15.9013158+00:00",
+  "LastUpdate_Achievements": "2023-09-15T00:03:46.6644081+00:00"
 }

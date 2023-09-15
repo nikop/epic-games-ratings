@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 5.00% | ~695 |
-| Settler | 5.00% | ~695 |
-| Friendly Family | 5.00% | ~695 |
-| Play a Single Player Game | 5.00% | ~695 |
-| The Clergy | 5.00% | ~695 |
+| Explorer | 5.00% | ~696 |
+| Settler | 5.00% | ~696 |
+| Friendly Family | 5.00% | ~696 |
+| Play a Single Player Game | 5.00% | ~696 |
+| The Clergy | 5.00% | ~696 |
 | Able | 4.00% | ~556 |
 | Architect | 4.00% | ~556 |
 | Intrepid | 4.00% | ~556 |
@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 1.00% | ~139 |
 | Capable | 1.00% | ~139 |
 | Conqueror | 1.00% | ~139 |
+| Invincible | 1.00% | ~139 |
 | Lion | 1.00% | ~139 |
 | Mighty | 1.00% | ~139 |
 | Subjugator | 1.00% | ~139 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~139 |
 | Points Victory | 1.00% | ~139 |
 | Win a Single Player Game | 1.00% | ~139 |
-| Invincible | 0.90% | ~125 |
 | Ready | 0.90% | ~125 |
 | Riders | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,909 (Ranked 123)  
+Progressed: 13,910 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,6 +451,7 @@ Completed: 5 (0.04%) (Ranked 243)
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
+| 2023-09-15 | 13,910 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

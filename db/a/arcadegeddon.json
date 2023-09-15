@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
@@ -811,9 +811,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 8992,
+  "EOS_Progressed": 8993,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -9176,6 +9176,11 @@
       "Time": "2023-09-14T17:05:43.0877891+00:00",
       "NumProgressed": 8992,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T00:05:02.9016237+00:00",
+      "NumProgressed": 8993,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -9211,7 +9216,7 @@
       "Name": "Clips and Crits",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -9219,7 +9224,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 5215
+      "UsersEstimate": 5216
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -9331,7 +9336,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8093
+      "UsersEstimate": 8094
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -9355,7 +9360,7 @@
       "Name": "Meching Enemies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 4316
+      "UsersEstimate": 4317
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -9387,7 +9392,7 @@
       "Name": "Photogenic",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 7823
+      "UsersEstimate": 7824
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -9395,7 +9400,7 @@
       "Name": "Playing With Power",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6834
+      "UsersEstimate": 6835
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -9403,7 +9408,7 @@
       "Name": "Plug It In",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 7463
+      "UsersEstimate": 7464
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -9427,7 +9432,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -9491,7 +9496,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7553
+      "UsersEstimate": 7554
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -9547,7 +9552,7 @@
       "Name": "Ticket Titan",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_TICKET_TODDLER",
@@ -9555,7 +9560,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3956
+      "UsersEstimate": 3957
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -9579,22 +9584,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5125
+      "UsersEstimate": 5126
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 8992,
+      "Progressed": 8993,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-09-06T16:00:57.9759314+00:00",
-  "LastChanged_Achievements": "2023-09-14T23:05:42.254957+00:00",
+  "LastChanged_Achievements": "2023-09-15T00:05:02.9016232+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:57.1970022+00:00",
-  "LastUpdate_Ratings": "2023-09-14T22:58:09.2024847+00:00",
-  "LastUpdate_Achievements": "2023-09-14T23:05:42.2551218+00:00"
+  "LastUpdate_Ratings": "2023-09-14T23:57:59.9696424+00:00",
+  "LastUpdate_Achievements": "2023-09-15T00:05:02.9017068+00:00"
 }

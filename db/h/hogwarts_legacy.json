@@ -7626,9 +7626,9 @@
       "Count": 643
     }
   ],
-  "EOS_Progressed": 296607,
+  "EOS_Progressed": 296610,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 845,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -23591,6 +23591,11 @@
       "Time": "2023-09-14T23:03:52.0923855+00:00",
       "NumProgressed": 296607,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-15T00:03:53.0682471+00:00",
+      "NumProgressed": 296610,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23642,7 +23647,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 17796
+      "UsersEstimate": 17797
     },
     {
       "ID": "PFA_15",
@@ -23650,7 +23655,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20762
+      "UsersEstimate": 20763
     },
     {
       "ID": "PFA_16",
@@ -23666,7 +23671,7 @@
       "Name": "Beast Friends",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20762
+      "UsersEstimate": 20763
     },
     {
       "ID": "PFA_18",
@@ -23682,7 +23687,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 20762
+      "UsersEstimate": 20763
     },
     {
       "ID": "PFA_2",
@@ -23890,7 +23895,7 @@
       "Name": "Raising Expectations",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17796
+      "UsersEstimate": 17797
     },
     {
       "ID": "PFA_43",
@@ -23961,7 +23966,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296607,
+      "Progressed": 296610,
       "Completed": 470
     }
   ],
@@ -23969,8 +23974,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-09-14T21:01:01.5792952+00:00",
-  "LastChanged_Achievements": "2023-09-14T23:03:52.0923849+00:00",
+  "LastChanged_Achievements": "2023-09-15T00:03:53.0682466+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-14T23:02:29.5389872+00:00",
-  "LastUpdate_Achievements": "2023-09-14T23:03:52.0926216+00:00"
+  "LastUpdate_Ratings": "2023-09-15T00:00:47.8872895+00:00",
+  "LastUpdate_Achievements": "2023-09-15T00:03:53.06838+00:00"
 }
