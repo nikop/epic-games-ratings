@@ -33,6 +33,7 @@
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 |
 | [Shotgun Farmers](../games/s/shotgun_farmers.md) | 74 | 1,150 |
+| [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
 | [Saints Row](../games/s/saints_row.md) | 53 | 1,075 |
@@ -148,7 +149,6 @@
 | [Covid Carl](../games/c/covid_carl.md) | 23 | 1,000 |
 | [Crash Drive 3](../games/c/crash_drive_3.md) | 55 | 1,000 |
 | [Crayta](../games/c/crayta.md) | 34 | 1,000 |
-| [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 37 | 1,000 |
 | [Crimson Spires](../games/c/crimson_spires.md) | 14 | 1,000 |
 | [Crimsonland](../games/0/04d22e276f144358875f1789bd49f135.md) | 22 | 1,000 |
 | [Croc's World Construction Kit 2](../games/5/55c1dafc343149419579a9939de53424.md) | 10 | 1,000 |

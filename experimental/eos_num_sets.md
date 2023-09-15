@@ -6,7 +6,7 @@
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 | 2 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 | 2 |
-| [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 37 | 1,000 | 2 |
+| [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 | 2 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 | 2 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 44 | 1,000 | 2 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 229 | 5,505 | 2 |

@@ -1,7 +1,7 @@
 | Game | Total Achievements | Total XP | Sets |
 | ---- | ------------------ | -------- | ---- |
 | [Bus Simulator 18 Editor](../games/b/bus_simulator_18_editor.md) | 0 | 0 | 0 |
-| [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 37 | 1,000 | 2 |
+| [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 | 2 |
 | [Godfall Ultimate Edition](../games/g/godfall.md) | 0 | 0 | 0 |
 | [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 | 1 |
 | [Paladins](../games/p/paladins.md) | 0 | 0 | 0 |
