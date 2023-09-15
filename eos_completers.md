@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [The Riflemen](games/t/the_riflemen.md) | 100.00% |
-| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 51.16% |
+| 2 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 50.57% |
 | 3 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.59% |
 | 4 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 39.43% |
 | 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 29.55% |
@@ -33,8 +33,8 @@
 | 31 | [Sonic Origins](games/s/sonic_origins.md) | 8.65% |
 | 32 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 33 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 8.33% |
-| 33 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 8.33% |
 | 33 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 8.33% |
+| 35 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 8.00% |
 | 36 | [Ravenlok](games/r/ravenlok.md) | 7.78% |
 | 37 | [Smelter](games/s/smelter.md) | 7.50% |
 | 37 | [Time Loader](games/t/time_loader.md) | 7.50% |
@@ -96,11 +96,11 @@
 | 94 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.08% |
 | 95 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.98% |
 | 95 | [FORECLOSED](games/f/foreclosed.md) | 1.98% |
-| 97 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
-| 98 | [Night Book](games/n/night_book.md) | 1.86% |
-| 99 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
-| 100 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
-| 101 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.81% |
+| 97 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.92% |
+| 98 | [Breakout: Recharged](games/b/breakout__recharged.md) | 1.90% |
+| 99 | [Night Book](games/n/night_book.md) | 1.86% |
+| 100 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 1.85% |
+| 101 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.84% |
 | 102 | [Frogun](games/f/frogun.md) | 1.80% |
 | 102 | [Sifu](games/s/sifu.md) | 1.80% |
 | 104 | [Somerville](games/s/somerville.md) | 1.71% |
