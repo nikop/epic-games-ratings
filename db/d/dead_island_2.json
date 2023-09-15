@@ -4548,9 +4548,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 680196,
+  "EOS_Progressed": 680241,
   "EOS_Completed": 2143,
-  "EOS_NewPlayers": 4389,
+  "EOS_NewPlayers": 4398,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -21173,6 +21173,11 @@
       "Time": "2023-09-15T18:03:55.3304787+00:00",
       "NumProgressed": 680196,
       "NumCompleted": 2143
+    },
+    {
+      "Time": "2023-09-15T19:04:47.8210233+00:00",
+      "NumProgressed": 680241,
+      "NumCompleted": 2143
     }
   ],
   "TotalAchievements": 45,
@@ -21200,7 +21205,7 @@
       "Name": "Git Gutte!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13604
+      "UsersEstimate": 13605
     },
     {
       "ID": "ach_anger_management",
@@ -21248,7 +21253,7 @@
       "Name": "Break A Leg",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13604
+      "UsersEstimate": 13605
     },
     {
       "ID": "ach_contender",
@@ -21304,7 +21309,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13604
+      "UsersEstimate": 13605
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -21328,7 +21333,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13604
+      "UsersEstimate": 13605
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -21344,7 +21349,7 @@
       "Name": "Hotel California",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13604
+      "UsersEstimate": 13605
     },
     {
       "ID": "ach_impressive_aim",
@@ -21464,7 +21469,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13604
+      "UsersEstimate": 13605
     },
     {
       "ID": "ach_survival_expert",
@@ -21480,7 +21485,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 4761
+      "UsersEstimate": 4762
     },
     {
       "ID": "ach_the_vcla",
@@ -21520,15 +21525,15 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13604
+      "UsersEstimate": 13605
     },
     {
       "ID": "ach_well_known_survivor",
       "SetID": "7km39fm",
       "Name": "Rising Star",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 3401
+      "UsersEstimate": 4081
     },
     {
       "ID": "ach_well_trained",
@@ -21543,22 +21548,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 680196,
+      "Progressed": 680241,
       "Completed": 2143
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 5737,
-      "Completed": 5737
+      "Progressed": 5782,
+      "Completed": 5782
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-09-15T14:58:39.2040649+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:03:55.3304782+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:04:47.8210227+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:43.4347054+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:58:09.907311+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:03:55.3306172+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:58:42.6571981+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:04:47.821198+00:00"
 }

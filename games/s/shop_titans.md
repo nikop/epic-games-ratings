@@ -104,6 +104,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Economy of Scarce | 0.30% | ~409 |
 | King's Blade | 0.30% | ~409 |
 | The Free Encyclopedia | 0.20% | ~272 |
+| JACKPOT!!! | 0.20% | ~272 |
 | All or Nothing! | 0.20% | ~272 |
 | Eternal Crusade | 0.20% | ~272 |
 | Marvels from the World Over | 0.20% | ~272 |
@@ -112,14 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Oligarch Monarch | 0.10% | ~136 |
 | Unleashed Potential | 0.10% | ~136 |
 | Capitalist Camaraderie | 0.10% | ~136 |
-| JACKPOT!!! | 0.10% | ~136 |
 | Merchant Extraordinaire | 0.10% | ~136 |
 | Anything not Nailed Down | 0.10% | ~136 |
 | The Greatest Grind | 0.10% | ~136 |
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,210 (Ranked 68)  
+Progressed: 136,214 (Ranked 69)  
 Completed: 151 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 151 (0.11%) (Ranked 218)
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
 | 2023-09-14 | 136,187 | 151 |
-| 2023-09-15 | 136,210 | 151 |
+| 2023-09-15 | 136,214 | 151 |
 ## Awards
 Max (Great for Beginners): 4,743  (Ranked 71)  
 Sum: 27,231 (Ranked 48)  

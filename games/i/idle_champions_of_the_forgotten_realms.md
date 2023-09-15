@@ -23,8 +23,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.30% | ~687 |
 | Friendly Imps | 0.30% | ~687 |
 | Pure Energy | 0.30% | ~687 |
-| Legends and Lore | 0.30% | ~585 |
+| Legends and Lore | 0.30% | ~586 |
 | Tall Tales | 0.20% | ~390 |
+| Nightmare Rats! | 0.20% | ~390 |
 | The Witchlight Carnival | 0.20% | ~390 |
 | Thieves of the Coven | 0.20% | ~390 |
 | Hither of the Feywild | 0.20% | ~390 |
@@ -85,7 +86,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~195 |
 | Friends and Foes | 0.10% | ~195 |
 | And Your Enemies Closer | 0.10% | ~195 |
-| Nightmare Rats! | 0.10% | ~195 |
 | An Unexpected Geist | 0.10% | ~195 |
 | Back to Nature | 0.10% | ~195 |
 | A Monarch Among Us | 0.10% | ~195 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,888 (Ranked 55)  
+Progressed: 228,896 (Ranked 55)  
 Completed: 2,284 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -675,7 +675,7 @@ Completed: 2,284 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,888 | 2,284 |
+| 2023-09-15 | 228,896 | 2,284 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
 Sum: 31,596 (Ranked 39)  

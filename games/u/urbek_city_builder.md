@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I like parks | 1.00% | ~3 |
+| Small town | 1.00% | ~3 |
 | I like books | 0.90% | ~3 |
 | The spiritual world... | 0.90% | ~3 |
-| Small town | 0.90% | ~3 |
+| It is nice to share with friends in the city | 0.90% | ~3 |
 | I like my life | 0.60% | ~2 |
 | I am very happy! | 0.60% | ~2 |
-| It is nice to share with friends in the city | 0.60% | ~2 |
 | Sport is good for you | 0.60% | ~2 |
 | Soviet town | 0.60% | ~2 |
 | Food producer | 0.30% | ~1 |

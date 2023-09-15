@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6170,
+  "EOS_Progressed": 6172,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4948,6 +4948,11 @@
       "Time": "2023-09-15T18:04:34.3343016+00:00",
       "NumProgressed": 6170,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T19:05:51.5895254+00:00",
+      "NumProgressed": 6172,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -5135,7 +5140,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "GoodRiddance",
@@ -5510,21 +5515,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3209,
+      "Progressed": 3211,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6170,
+      "Progressed": 6172,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:04:34.3343011+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:05:51.5895248+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:21.4019821+00:00",
-  "LastUpdate_Ratings": "2023-09-15T18:00:18.7658697+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:04:34.334397+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:01:45.5096255+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:05:51.5896311+00:00"
 }

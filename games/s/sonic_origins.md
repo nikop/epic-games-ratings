@@ -11,13 +11,13 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic CD | 73.00% | ~347 |
 | Welcome to Sonic the Hedgehog 2 | 72.00% | ~343 |
 | Welcome to Sonic 3 & Knuckles | 72.00% | ~343 |
+| Time Traveler | 68.00% | ~324 |
 | Ring Collector | 68.00% | ~324 |
-| Time Traveler | 67.00% | ~319 |
 | Everyone's Hero | 64.00% | ~305 |
+| Miles "Tails" Prower | 61.00% | ~290 |
 | Easy Peasy with Shields | 60.00% | ~286 |
 | Gallant Spin Dash | 60.00% | ~286 |
 | Knuckles the Echidna | 60.00% | ~286 |
-| Miles "Tails" Prower | 60.00% | ~286 |
 | Bubbly Breath | 58.00% | ~276 |
 | Boss Rush Attempt | 53.00% | ~252 |
 | Cleared Sonic the Hedgehog | 50.00% | ~238 |

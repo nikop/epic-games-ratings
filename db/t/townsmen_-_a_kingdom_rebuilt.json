@@ -5,9 +5,9 @@
   "Ranking_Rating": 858,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 155,
+  "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4277,
+  "EOS_Progressed": 4278,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1200,6 +1200,11 @@
       "Time": "2023-09-15T18:08:06.2488806+00:00",
       "NumProgressed": 4277,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T19:09:51.4299947+00:00",
+      "NumProgressed": 4278,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -1363,7 +1368,7 @@
       "Name": "When there\u0027s fire...",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_FIREPROTECTOR",
@@ -1747,7 +1752,7 @@
       "Name": "I\u0027ve been everywhere II",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_LEGACY",
@@ -1859,7 +1864,7 @@
       "Name": "Tax-man I",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -1963,7 +1968,7 @@
       "Name": "A new beginning",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2018,15 +2023,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4277,
+      "Progressed": 4278,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-06-06T06:58:15.5941175+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:08:06.2488799+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:09:51.429994+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:21.3448212+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:57:52.8379272+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:08:06.24902+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:58:20.0109364+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:09:51.4301419+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -7576,10 +7576,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 43337,
       "NumberOfAwardsMax": 22703
+    },
+    {
+      "Time": "2023-09-15T19:03:00.181989+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 43349,
+      "NumberOfAwardsMax": 22703
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43337,
+  "NumberOfAwards": 43349,
   "NumberOfAwardsMax": 22703,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7623,13 +7629,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1013
+      "Count": 1018
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1016
+      "Count": 1023
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7656,10 +7662,10 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 296655,
+  "EOS_Progressed": 296656,
   "EOS_Completed": 470,
-  "EOS_NewPlayers": 733,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 721,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -23706,6 +23712,11 @@
       "Time": "2023-09-15T18:03:38.5250001+00:00",
       "NumProgressed": 296655,
       "NumCompleted": 470
+    },
+    {
+      "Time": "2023-09-15T19:04:24.5161568+00:00",
+      "NumProgressed": 296656,
+      "NumCompleted": 470
     }
   ],
   "TotalAchievements": 45,
@@ -23875,9 +23886,9 @@
       "ID": "PFA_28",
       "SetID": "1hf4dep",
       "Name": "Put Down Roots",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5933
+      "UsersEstimate": 8900
     },
     {
       "ID": "PFA_29",
@@ -24076,16 +24087,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 296655,
+      "Progressed": 296656,
       "Completed": 470
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-09-15T18:01:12.0733475+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:03:38.5249996+00:00",
+  "LastChanged": "2023-09-15T19:03:00.1819888+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:04:24.5161562+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:31.4901182+00:00",
-  "LastUpdate_Ratings": "2023-09-15T18:01:12.0733481+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:03:38.5251235+00:00"
+  "LastUpdate_Ratings": "2023-09-15T19:03:00.1819896+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:04:24.5163023+00:00"
 }

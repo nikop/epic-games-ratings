@@ -18,8 +18,8 @@ Number of Ratings: 180  (23.09.2022)
 | First industry upgraded | 57.00% | ~941 |
 | Transport millionaire | 55.00% | ~908 |
 | Cargo hub | 54.00% | ~892 |
+| Transport master | 53.00% | ~875 |
 | Cadet | 53.00% | ~875 |
-| Transport master | 52.00% | ~859 |
 | Sculpturer | 50.00% | ~826 |
 | Settled down | 49.00% | ~809 |
 | First electric train arrived | 47.00% | ~776 |

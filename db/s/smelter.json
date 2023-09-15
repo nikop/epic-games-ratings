@@ -4,7 +4,7 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -228,25 +228,25 @@
       "ID": "SMELTER_GRAVITUDE",
       "SetID": "1g58k92",
       "Name": "Case Closed",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SMELTER_GURABI_CHALLENGES",
       "SetID": "1g58k92",
       "Name": "Gurabi Trial Extraordinaire",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_GURABI_COLLECTIBLES",
       "SetID": "1g58k92",
       "Name": "Scour the Gurabi Domain",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_GURABI_FORGE",
@@ -268,9 +268,9 @@
       "ID": "SMELTER_GURABI_UPGRADES",
       "SetID": "1g58k92",
       "Name": "All Beefed Up",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMELTER_HEART_LEVEL_2",
@@ -404,9 +404,9 @@
       "ID": "SMELTER_RUINS",
       "SetID": "1g58k92",
       "Name": "Remains of the Rumbly Lands",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMELTER_SALVAGE",
@@ -517,8 +517,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:05:21.2737437+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:06:56.6292262+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:15.7665363+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:58:42.9539421+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:05:21.2737991+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:59:33.8030628+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:06:56.6292828+00:00"
 }

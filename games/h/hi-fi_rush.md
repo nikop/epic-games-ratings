@@ -8,9 +8,9 @@ Rating: 4.87 (Ranked 25)
 | Start with a bang! | 13.00% | ~526 |
 | Feeling the beat! | 13.00% | ~526 |
 | You can pet the cat! | 12.00% | ~486 |
-| Cream of the Crop | 11.00% | ~445 |
-| Who put gears in there? | 11.00% | ~445 |
-| Thanks for the free chip, Peppermint! | 10.00% | ~405 |
+| Cream of the Crop | 11.00% | ~446 |
+| Thanks for the free chip, Peppermint! | 11.00% | ~446 |
+| Who put gears in there? | 11.00% | ~446 |
 | You got this, Peppermint? | 10.00% | ~405 |
 | Perfect Parry | 10.00% | ~405 |
 | Alright, that felt AWESOME! | 9.00% | ~364 |
@@ -19,10 +19,10 @@ Rating: 4.87 (Ranked 25)
 | Z-shielding's got nothing on us! | 8.00% | ~324 |
 | Uh, they were broken when I got here | 8.00% | ~324 |
 | Kissing the sky! | 8.00% | ~324 |
-| The Negotiator | 7.00% | ~283 |
-| Whoa! There's ANOTHER health bar!? | 7.00% | ~283 |
-| Out in a puff of smoke | 7.00% | ~283 |
-| I look cool. But I can look COOLER. | 7.00% | ~283 |
+| The Negotiator | 7.00% | ~284 |
+| Whoa! There's ANOTHER health bar!? | 7.00% | ~284 |
+| Out in a puff of smoke | 7.00% | ~284 |
+| I look cool. But I can look COOLER. | 7.00% | ~284 |
 | Headliner | 6.00% | ~243 |
 | Time to pay up! | 6.00% | ~243 |
 | Who's the boss now? | 6.00% | ~243 |
@@ -34,7 +34,7 @@ Rating: 4.87 (Ranked 25)
 | Well that was a rush! | 4.00% | ~162 |
 | That's a lot of junk metal… | 4.00% | ~162 |
 | There's such a thing as TOO helpful | 4.00% | ~162 |
-| Beat-hit mania | 3.00% | ~121 |
+| Beat-hit mania | 3.00% | ~122 |
 | Chip-tuned | 2.00% | ~81 |
 | Wanna hear my playlist? | 2.00% | ~81 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~81 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,049 (Ranked 158)  
+Progressed: 4,050 (Ranked 158)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-12 | 4,033 | 7 |
 | 2023-09-13 | 4,036 | 7 |
 | 2023-09-14 | 4,038 | 7 |
-| 2023-09-15 | 4,049 | 7 |
+| 2023-09-15 | 4,050 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1689,9 +1689,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 13918,
+  "EOS_Progressed": 13924,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -11539,6 +11539,11 @@
       "Time": "2023-09-15T17:09:54.9627268+00:00",
       "NumProgressed": 13918,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T19:09:45.1229685+00:00",
+      "NumProgressed": 13924,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 296,
@@ -12100,9 +12105,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 557
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -12340,9 +12345,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -12396,17 +12401,17 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
       "SetID": "7l38kb8",
       "Name": "Clerics",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 97
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -12540,9 +12545,9 @@
       "ID": "ACHIEVEMENT_GREECE2_PLATAEA_WIN",
       "SetID": "9201eeb",
       "Name": "Get the Hellas Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_PERFECT",
@@ -12572,9 +12577,9 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_20",
       "SetID": "9201eeb",
       "Name": "Like a Lion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_30",
@@ -12964,9 +12969,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_LIGHTHOUSE",
       "SetID": "9201eeb",
       "Name": "Lighthouse",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 418
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
@@ -13148,9 +13153,9 @@
       "ID": "ACHIEVEMENT_NATION_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyria",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
@@ -13348,9 +13353,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -13412,9 +13417,9 @@
       "ID": "ACHIEVEMENT_RELIGION_ZOROASTRIANISM",
       "SetID": "7l38kb8",
       "Name": "Zoroastrianism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 418
     },
     {
       "ID": "ACHIEVEMENT_RHODES_COLOSSUS",
@@ -13556,9 +13561,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -13596,9 +13601,9 @@
       "ID": "ACHIEVEMENT_UNIT_CIMMERIAN_ARCHER",
       "SetID": "9201eeb",
       "Name": "Cimmerian Archer",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -13917,21 +13922,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 13918,
+      "Progressed": 13924,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 13918,
+      "Progressed": 13924,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-09-13T01:42:38.525097+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:07:21.2090286+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:09:45.1229677+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:13.4021456+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:57:45.2720165+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:07:21.2099349+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:58:08.8582345+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:09:45.1240212+00:00"
 }

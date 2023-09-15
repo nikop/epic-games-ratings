@@ -37,9 +37,9 @@ Rating: 4.77 (Ranked 109)
 | The Intrepid Explorer | 4.00% | ~11,866 |
 | The Gryffindor in the Graveyard | 4.00% | ~11,866 |
 | The Wise Owl | 4.00% | ~11,866 |
+| Put Down Roots | 3.00% | ~8,900 |
 | Floo Around the World | 3.00% | ~8,900 |
 | The Good Samaritan | 2.00% | ~5,933 |
-| Put Down Roots | 2.00% | ~5,933 |
 | The Auror's Apprentice | 2.00% | ~5,933 |
 | Rise to the Challenges | 2.00% | ~5,933 |
 | Finishing Touches | 2.00% | ~5,933 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 109)
 | The Nature of the Beast | 0.60% | ~1,780 |
 | Collector's Edition | 0.30% | ~890 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,655 (Ranked 43)  
+Progressed: 296,656 (Ranked 43)  
 Completed: 470 (0.16%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,10 +199,10 @@ Completed: 470 (0.16%) (Ranked 203)
 | 2023-09-12 | 296,501 | 470 |
 | 2023-09-13 | 296,555 | 470 |
 | 2023-09-14 | 296,607 | 470 |
-| 2023-09-15 | 296,655 | 470 |
+| 2023-09-15 | 296,656 | 470 |
 ## Awards
 Max (Character Customization): 22,703  (Ranked 17)  
-Sum: 43,337 (Ranked 30)  
+Sum: 43,349 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -211,8 +211,8 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,068 |
 | This game is Extremely Fun | 1,027 |
 | This game has Amazing Storytelling | 1,025 |
-| This game is Relaxing | 1,016 |
-| This game has Diverse Characters | 1,013 |
+| This game is Relaxing | 1,023 |
+| This game has Diverse Characters | 1,018 |
 | This game has Amazing Characters | 993 |
 | This game is Highly Recommended | 975 |
 | This game has Quickly Understood Controls | 911 |
@@ -396,4 +396,4 @@ Diff (max vs sum): -13
 | 2023-09-12 | 4.77 | 22,582 | 43,090 |
 | 2023-09-13 | 4.77 | 22,630 | 43,189 |
 | 2023-09-14 | 4.77 | 22,661 | 43,272 |
-| 2023-09-15 | 4.77 | 22,703 | 43,337 |
+| 2023-09-15 | 4.77 | 22,703 | 43,349 |

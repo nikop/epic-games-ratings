@@ -20,9 +20,9 @@
 | Annoying | 19.00% | ~102 |
 | Hacker | 19.00% | ~102 |
 | He is just a child | 19.00% | ~102 |
+| Uncertain | 18.00% | ~97 |
 | Concrete painting | 17.00% | ~91 |
 | Goody | 17.00% | ~91 |
-| Uncertain | 17.00% | ~91 |
 | Ace | 16.00% | ~86 |
 | Found it! | 16.00% | ~86 |
 | Hipster | 16.00% | ~86 |

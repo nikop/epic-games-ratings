@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4049,
+  "EOS_Progressed": 4050,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6514,6 +6514,11 @@
       "Time": "2023-09-15T15:08:05.9305039+00:00",
       "NumProgressed": 4049,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-15T19:08:23.5805464+00:00",
+      "NumProgressed": 4050,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6533,7 +6538,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "Ach003",
@@ -6549,7 +6554,7 @@
       "Name": "The Negotiator",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Ach005",
@@ -6635,9 +6640,9 @@
       "ID": "Ach015",
       "SetID": "12n4k20",
       "Name": "Thanks for the free chip, Peppermint!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 446
     },
     {
       "ID": "Ach016",
@@ -6661,7 +6666,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Ach019",
@@ -6709,7 +6714,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Ach025",
@@ -6749,7 +6754,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Ach030",
@@ -6853,7 +6858,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "Ach043",
@@ -6893,7 +6898,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "Ach048",
@@ -7092,13 +7097,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4049,
+      "Progressed": 4050,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2570,
+      "Progressed": 2571,
       "Completed": 1929
     }
   ],
@@ -7106,8 +7111,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:06:24.059914+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:08:23.5805458+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:57:31.9615111+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:06:24.0600128+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:57:51.3232268+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:08:23.5806688+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "hundred-days-winemaking-simulator",
   "Ranking_Rating": 757,
   "Ranking_Popularity": 273,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 217,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -926,10 +926,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1463,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2023-09-15T18:57:34.3445169+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1590,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1463,
+  "NumberOfAwards": 1590,
   "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -961,7 +967,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game is Relaxing",
@@ -985,7 +991,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 122
+      "Count": 126
     },
     {
       "Text": "This game has a Creative Community",
@@ -994,9 +1000,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3206,
+  "EOS_Progressed": 3220,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1295,
+  "EOS_NewPlayers": 1301,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2939,6 +2945,11 @@
       "Time": "2023-09-15T18:05:27.1915639+00:00",
       "NumProgressed": 3206,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T19:07:04.5644625+00:00",
+      "NumProgressed": 3220,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2949,9 +2960,9 @@
       "ID": "a_1",
       "SetID": "daiie3o",
       "Name": "It\u0027s a good start",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 290
     },
     {
       "ID": "a_10",
@@ -2983,7 +2994,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "a_16",
@@ -2999,7 +3010,7 @@
       "Name": "Bye Bye",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1159
     },
     {
       "ID": "a_19",
@@ -3007,7 +3018,7 @@
       "Name": "Bonjour!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "a_2",
@@ -3015,7 +3026,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "a_20",
@@ -3023,7 +3034,7 @@
       "Name": "The Assistant",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "a_21",
@@ -3031,7 +3042,7 @@
       "Name": "The Blue Marl",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "a_22",
@@ -3039,7 +3050,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "a_23",
@@ -3047,7 +3058,7 @@
       "Name": "Quack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "a_25",
@@ -3055,7 +3066,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "a_26",
@@ -3087,7 +3098,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "a_30",
@@ -3183,7 +3194,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "a_9",
@@ -3198,16 +3209,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3206,
+      "Progressed": 3220,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-09-15T08:57:24.2608944+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:05:27.1915633+00:00",
+  "LastChanged": "2023-09-15T18:57:34.3445168+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:07:04.5644619+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:57:16.1853826+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:05:27.1915988+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:57:34.3445175+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:07:04.564505+00:00"
 }

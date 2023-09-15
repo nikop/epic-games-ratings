@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 4.00% | ~557 |
 | Architect | 4.00% | ~557 |
 | Intrepid | 4.00% | ~557 |
+| Mason | 4.00% | ~557 |
 | Strong | 4.00% | ~557 |
 | Hanging Gardens | 4.00% | ~557 |
 | Ambitious | 3.00% | ~418 |
@@ -24,18 +25,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 3.00% | ~418 |
 | Learned | 3.00% | ~418 |
 | Magnificent | 3.00% | ~418 |
-| Mason | 3.00% | ~418 |
 | Noble | 3.00% | ~418 |
 | Pioneer | 3.00% | ~418 |
 | Warrior | 3.00% | ~418 |
 | Developing Cities | 3.00% | ~418 |
 | Strong Cities | 3.00% | ~418 |
 | Ishtar Gate | 3.00% | ~418 |
+| Lighthouse | 3.00% | ~418 |
 | Oracle | 3.00% | ~418 |
 | Pyramids | 3.00% | ~418 |
 | Judaism | 3.00% | ~418 |
 | Babylonian Paganism | 3.00% | ~418 |
 | Greek Paganism | 3.00% | ~418 |
+| Zoroastrianism | 3.00% | ~418 |
 | Naming Landmarks | 3.00% | ~418 |
 | Trade Caravan | 3.00% | ~418 |
 | The Great Mage | 3.00% | ~418 |
@@ -56,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 2.00% | ~278 |
 | Colossus | 2.00% | ~278 |
 | Great Ziggurat | 2.00% | ~278 |
-| Lighthouse | 2.00% | ~278 |
 | Mausoleum | 2.00% | ~278 |
 | Musaeum | 2.00% | ~278 |
 | Necropolis | 2.00% | ~278 |
@@ -67,7 +68,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthaginian Paganism | 2.00% | ~278 |
 | Egyptian Paganism | 2.00% | ~278 |
 | Roman Paganism | 2.00% | ~278 |
-| Zoroastrianism | 2.00% | ~278 |
 | Mythology | 2.00% | ~278 |
 | Poetic Leader | 2.00% | ~278 |
 | Hanging Gardens in Babylon | 1.00% | ~139 |
@@ -94,12 +94,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 1.00% | ~139 |
 | Greece | 1.00% | ~139 |
 | Power to the People | 1.00% | ~139 |
+| Assyrian Paganism | 1.00% | ~139 |
 | Persian Paganism | 1.00% | ~139 |
 | Building Wonders | 1.00% | ~139 |
 | Economic Reform | 1.00% | ~139 |
 | Dualism | 1.00% | ~139 |
 | Legalism | 1.00% | ~139 |
 | Redemption | 1.00% | ~139 |
+| Cimmerian Archer | 1.00% | ~139 |
 | Legionary | 1.00% | ~139 |
 | Phalangite | 1.00% | ~139 |
 | Ambition Victory | 1.00% | ~139 |
@@ -109,24 +111,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.90% | ~125 |
 | Riders | 0.90% | ~125 |
 | Church of the Holy Sepulchre | 0.90% | ~125 |
-| Assyrian Paganism | 0.90% | ~125 |
 | Industrial Progress | 0.90% | ~125 |
 | Military Prestige | 0.90% | ~125 |
 | Gnosticism | 0.90% | ~125 |
+| Revelation | 0.90% | ~125 |
 | Veneration | 0.90% | ~125 |
-| Cimmerian Archer | 0.90% | ~125 |
 | Bad Heir Day | 0.80% | ~111 |
 | Devout | 0.80% | ~111 |
+| Strong Difficulty | 0.80% | ~111 |
+| Hunters | 0.80% | ~111 |
 | Landowners | 0.80% | ~111 |
 | Adur Burzen-Mihr | 0.80% | ~111 |
 | Babylonia | 0.80% | ~111 |
 | Carthage | 0.80% | ~111 |
 | Enlightenment | 0.80% | ~111 |
-| Revelation | 0.80% | ~111 |
 | Kushite Cavalry | 0.80% | ~111 |
 | Ishtar Gate in Babylon | 0.70% | ~97 |
-| Strong Difficulty | 0.70% | ~97 |
-| Hunters | 0.70% | ~97 |
+| Clerics | 0.70% | ~97 |
 | Learn to Play 4 | 0.70% | ~97 |
 | One True Faith | 0.70% | ~97 |
 | Hittite Paganism | 0.70% | ~97 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.70% | ~97 |
 | Old | 0.60% | ~84 |
 | Peacemaker | 0.60% | ~84 |
-| Clerics | 0.60% | ~84 |
 | Cao'an | 0.60% | ~84 |
 | Egypt | 0.60% | ~84 |
 | Rome | 0.60% | ~84 |
@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.30% | ~42 |
 | Run, Pheidippides, Run! | 0.30% | ~42 |
 | Nenikekamen | 0.30% | ~42 |
+| Assyria | 0.30% | ~42 |
 | Hatti | 0.30% | ~42 |
 | Pantheon of Gods | 0.30% | ~42 |
 | Apadana in Parsa | 0.30% | ~42 |
@@ -176,13 +177,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Holy | 0.20% | ~28 |
 | Great Difficulty | 0.20% | ~28 |
 | Five Routs | 0.20% | ~28 |
+| Get the Hellas Out | 0.20% | ~28 |
 | The Turning Point | 0.20% | ~28 |
 | A Good Start | 0.20% | ~28 |
+| Like a Lion | 0.20% | ~28 |
 | Tell the Spartans | 0.20% | ~28 |
 | Macedonian Wars | 0.20% | ~28 |
 | Medo-Babylonian Conquest | 0.20% | ~28 |
 | Realistic Mortality | 0.20% | ~28 |
-| Assyria | 0.20% | ~28 |
 | Play a MP Teams Game | 0.20% | ~28 |
 | Play a Play-By-Cloud Game | 0.20% | ~28 |
 | Punic Wars | 0.20% | ~28 |
@@ -224,9 +226,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Game of the Week | 0.10% | ~14 |
 | That Also Works | 0.10% | ~14 |
 | Defend Where? | 0.10% | ~14 |
-| Get the Hellas Out | 0.10% | ~14 |
 | Not a Chance | 0.10% | ~14 |
-| Like a Lion | 0.10% | ~14 |
 | Still Fighting | 0.10% | ~14 |
 | They Shall Not Pass | 0.10% | ~14 |
 | THIS IS SPARTA!! | 0.10% | ~14 |
@@ -303,7 +303,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,918 (Ranked 123)  
+Progressed: 13,924 (Ranked 123)  
 Completed: 5 (0.04%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -451,7 +451,7 @@ Completed: 5 (0.04%) (Ranked 243)
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
-| 2023-09-15 | 13,918 | 5 |
+| 2023-09-15 | 13,924 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

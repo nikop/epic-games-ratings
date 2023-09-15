@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -906,9 +906,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 224204,
+  "EOS_Progressed": 224223,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1976,
+  "EOS_NewPlayers": 1972,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10986,6 +10986,11 @@
       "Time": "2023-09-15T18:07:19.6303375+00:00",
       "NumProgressed": 224204,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T19:09:43.0311523+00:00",
+      "NumProgressed": 224223,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 88,
@@ -11045,7 +11050,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6726
+      "UsersEstimate": 6727
     },
     {
       "ID": "Chapter2",
@@ -11397,7 +11402,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 8968
+      "UsersEstimate": 8969
     },
     {
       "ID": "DwarfElf15Support",
@@ -11429,7 +11434,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6726
+      "UsersEstimate": 6727
     },
     {
       "ID": "ElfEpic",
@@ -11445,7 +11450,7 @@
       "Name": "Sowwy!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 67261
+      "UsersEstimate": 67267
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -11493,7 +11498,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "FollowBraztok",
@@ -11613,7 +11618,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "RangerEpic",
@@ -11645,7 +11650,7 @@
       "Name": "Speedrun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 6726
+      "UsersEstimate": 6727
     },
     {
       "ID": "SupportCount4",
@@ -11700,21 +11705,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 224204,
+      "Progressed": 224223,
       "Completed": 3
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 224204,
+      "Progressed": 224223,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-09-15T16:58:57.5438687+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:07:19.6303369+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:09:43.0311517+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:34.8556446+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:58:03.3804864+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:07:19.6305091+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:58:30.915808+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:09:43.0313216+00:00"
 }

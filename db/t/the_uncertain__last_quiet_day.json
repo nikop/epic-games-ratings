@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -850,9 +850,9 @@
       "ID": "UNCERTAIN",
       "SetID": "2iigf77",
       "Name": "Uncertain",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 97
     },
     {
       "ID": "WALKING_ROBOT",
@@ -875,8 +875,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-09-15T18:04:40.9712937+00:00",
+  "LastChanged_Achievements": "2023-09-15T19:06:00.5331656+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:20.3531611+00:00",
-  "LastUpdate_Ratings": "2023-09-15T17:58:31.2450095+00:00",
-  "LastUpdate_Achievements": "2023-09-15T18:04:40.9713196+00:00"
+  "LastUpdate_Ratings": "2023-09-15T18:59:15.0738641+00:00",
+  "LastUpdate_Achievements": "2023-09-15T19:06:00.5331947+00:00"
 }
