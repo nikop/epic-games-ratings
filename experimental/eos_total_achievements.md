@@ -302,6 +302,7 @@
 | [ACL Pro Cornhole](../games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 32 | 1,000 |
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |
+| [Dolphin Spirit - Ocean Mission](../games/d/dolphin_spirit_-_ocean_mission.md) | 32 | 1,000 |
 | [High On Life](../games/h/high_on_life.md) | 32 | 1,000 |
 | [Out of Bounds](../games/o/out_of_bounds.md) | 32 | 1,000 |
 | [Sweet Dreams Alex](../games/4/4d10cc70884a46a094854d1ad69c7aaf.md) | 32 | 1,000 |
