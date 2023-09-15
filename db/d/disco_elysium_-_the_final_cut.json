@@ -1295,9 +1295,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 127679,
+  "EOS_Progressed": 127681,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15925,6 +15925,11 @@
       "Time": "2023-09-15T01:48:48.2367597+00:00",
       "NumProgressed": 127679,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-09-15T02:24:16.4134299+00:00",
+      "NumProgressed": 127681,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -15968,7 +15973,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22982
+      "UsersEstimate": 22983
     },
     {
       "ID": "ACH_COP_BAD",
@@ -16016,7 +16021,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 35750
+      "UsersEstimate": 35751
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -16064,7 +16069,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16598
+      "UsersEstimate": 16599
     },
     {
       "ID": "ACH_COP_STAR",
@@ -16255,15 +16260,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 127679,
+      "Progressed": 127681,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-09-13T20:58:14.5797989+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:48:48.2367593+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:24:16.4134289+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:34.4638042+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:41:15.8755814+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:48:48.2368507+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:16:11.8602839+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:24:16.4135814+00:00"
 }

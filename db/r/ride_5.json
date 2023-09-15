@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 105,
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 803,
+  "EOS_Progressed": 804,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -924,6 +924,11 @@
       "Time": "2023-09-15T01:49:07.8460268+00:00",
       "NumProgressed": 803,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T02:24:43.3416601+00:00",
+      "NumProgressed": 804,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -936,7 +941,7 @@
       "Name": "First Love",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -952,7 +957,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -968,7 +973,7 @@
       "Name": "Restored and Ready",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1024,7 +1029,7 @@
       "Name": "Legendary!!!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1040,7 +1045,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -1144,7 +1149,7 @@
       "Name": "Clean Race",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -1230,9 +1235,9 @@
       "ID": "ML_ACHIEVEMENT_38",
       "SetID": "c7hf6a4",
       "Name": "Eat My Dust",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 257
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -1240,7 +1245,7 @@
       "Name": "Champagne Spray",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -1327,14 +1332,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 803,
+      "Progressed": 804,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:49:07.8460263+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:24:43.3416592+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:45.3557292+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:40:34.5183147+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:49:07.8460647+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:15:14.3879886+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:24:43.3417227+00:00"
 }

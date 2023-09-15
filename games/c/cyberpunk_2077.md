@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 69.00% | ~604,569 |
+| The Fool | 69.00% | ~604,570 |
 | Right Back At Ya | 40.00% | ~350,475 |
-| The Lovers | 35.00% | ~306,665 |
-| Stanislavski's Method | 29.00% | ~254,094 |
-| The Wheel of Fortune | 28.00% | ~245,332 |
+| The Lovers | 35.00% | ~306,666 |
+| Stanislavski's Method | 29.00% | ~254,095 |
+| The Wheel of Fortune | 28.00% | ~245,333 |
 | The Hermit | 25.00% | ~219,047 |
 | Christmas Tree Attack | 23.00% | ~201,523 |
 | True Soldier | 23.00% | ~201,523 |
@@ -26,7 +26,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 14.00% | ~122,666 |
 | I Am The Law | 14.00% | ~122,666 |
 | Judy vs Night City | 14.00% | ~122,666 |
-| Two Heads, One Bullet | 12.00% | ~105,142 |
+| Two Heads, One Bullet | 12.00% | ~105,143 |
 | The Wandering Fool | 10.00% | ~87,619 |
 | The Quick and the Dead | 10.00% | ~87,619 |
 | Ten out of Ten | 9.00% | ~78,857 |
@@ -34,8 +34,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Bad Decisions! | 7.00% | ~61,333 |
 | The Star | 7.00% | ~61,333 |
 | The Sun | 7.00% | ~61,333 |
-| Must Be Rats | 4.00% | ~35,047 |
-| Temperance | 4.00% | ~35,047 |
+| Must Be Rats | 4.00% | ~35,048 |
+| Temperance | 4.00% | ~35,048 |
 | City Lights | 3.00% | ~26,286 |
 | Mean Streets | 3.00% | ~26,286 |
 | Little Tokyo | 3.00% | ~26,286 |
@@ -51,7 +51,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Gunslinger | 1.00% | ~8,762 |
 | Rough Landing | 0.50% | ~4,381 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 876,187 (Ranked 15)  
+Progressed: 876,188 (Ranked 15)  
 Completed: 2,086 (0.24%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 2,086 (0.24%) (Ranked 191)
 | 2023-09-12 | 875,908 | 2,083 |
 | 2023-09-13 | 876,046 | 2,084 |
 | 2023-09-14 | 876,177 | 2,086 |
-| 2023-09-15 | 876,187 | 2,086 |
+| 2023-09-15 | 876,188 | 2,086 |
 ## Awards
 Max (Character Customization): 78,551  (Ranked 9)  
 Sum: 210,154 (Ranked 13)  

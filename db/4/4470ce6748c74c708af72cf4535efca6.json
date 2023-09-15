@@ -437,9 +437,9 @@
       "ID": "36",
       "SetID": "5e3maia",
       "Name": "Stormtrooper",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "37",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:47:08.7190018+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:22:02.5165716+00:00",
   "LastUpdate_AppInfo": "2023-09-08T23:56:55.3880667+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:42:30.1541885+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:47:08.71906+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:17:57.9530149+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:22:02.5166543+00:00"
 }

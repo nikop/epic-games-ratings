@@ -1543,9 +1543,9 @@
       "Count": 249
     }
   ],
-  "EOS_Progressed": 202135,
+  "EOS_Progressed": 202137,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 1445,
+  "EOS_NewPlayers": 1442,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -18118,6 +18118,11 @@
       "Time": "2023-09-15T01:50:20.9038067+00:00",
       "NumProgressed": 202135,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-09-15T02:26:06.789469+00:00",
+      "NumProgressed": 202137,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 44,
@@ -18233,7 +18238,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14149
+      "UsersEstimate": 14150
     },
     {
       "ID": "ItsRainingMen",
@@ -18249,7 +18254,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14149
+      "UsersEstimate": 14150
     },
     {
       "ID": "Mercyful",
@@ -18377,7 +18382,7 @@
       "Name": "Stoned Ox",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14149
+      "UsersEstimate": 14150
     },
     {
       "ID": "TanukiTime",
@@ -18473,22 +18478,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14149
+      "UsersEstimate": 14150
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 202135,
+      "Progressed": 202137,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-09-12T14:57:34.7890858+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:50:20.9038063+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:26:06.7894685+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:37.2415553+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:41:00.7439575+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:50:20.9039087+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:15:50.4762114+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:26:06.7896138+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1426,
+  "EOS_Progressed": 1427,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1669,6 +1669,11 @@
       "Time": "2023-09-13T23:04:42.2932786+00:00",
       "NumProgressed": 1426,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-15T02:21:54.8361722+00:00",
+      "NumProgressed": 1427,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1680,7 +1685,7 @@
       "Name": "Lovebirds",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "10",
@@ -1704,7 +1709,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "13",
@@ -1776,7 +1781,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "21",
@@ -1808,7 +1813,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "25",
@@ -1840,7 +1845,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "30",
@@ -1872,7 +1877,7 @@
       "Name": "Head in the clouds",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "5",
@@ -1904,7 +1909,7 @@
       "Name": "Over my dead body",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "9",
@@ -1919,15 +1924,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1426,
+      "Progressed": 1427,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:47:03.2406515+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:21:54.8361716+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:51.3922449+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:41:10.2301698+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:47:03.2406765+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:16:05.0003257+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:21:54.836203+00:00"
 }

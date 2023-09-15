@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1314,
+  "EOS_Progressed": 1315,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4721,6 +4721,11 @@
       "Time": "2023-09-14T23:04:14.0828906+00:00",
       "NumProgressed": 1314,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T02:20:53.6256587+00:00",
+      "NumProgressed": 1315,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4818,9 +4823,9 @@
       "ID": "objective_headquarters_15",
       "SetID": "bm61c2p",
       "Name": "Moving On Up",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 39
     },
     {
       "ID": "objective_headquarters_20",
@@ -4860,7 +4865,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4988,7 +4993,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -5035,14 +5040,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1314,
+      "Progressed": 1315,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:46:18.5290984+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:20:53.6256581+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:42:37.8563765+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:46:18.5291476+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:18:09.2092544+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:20:53.6257123+00:00"
 }

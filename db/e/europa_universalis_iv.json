@@ -9546,9 +9546,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 403063,
+  "EOS_Progressed": 403073,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7998,
+  "EOS_NewPlayers": 7991,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26126,6 +26126,11 @@
       "Time": "2023-09-15T01:48:51.8724273+00:00",
       "NumProgressed": 403063,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T02:24:21.4395401+00:00",
+      "NumProgressed": 403073,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -26529,7 +26534,7 @@
       "Name": "Blockader",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -26793,7 +26798,7 @@
       "Name": "Double the Love",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -28089,7 +28094,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -28689,7 +28694,7 @@
       "Name": "Total Control",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -28968,21 +28973,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 403063,
+      "Progressed": 403073,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 403063,
+      "Progressed": 403073,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-09-15T00:00:45.0285629+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:48:51.8724265+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:24:21.4395395+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.6302207+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:43:18.2380834+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:48:51.8734915+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:19:10.52952+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:24:21.4412387+00:00"
 }

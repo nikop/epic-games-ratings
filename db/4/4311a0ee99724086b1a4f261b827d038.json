@@ -258,9 +258,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217608,
+  "EOS_Progressed": 217616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3046,
+  "EOS_NewPlayers": 3047,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6158,6 +6158,11 @@
       "Time": "2023-09-15T01:45:27.1694729+00:00",
       "NumProgressed": 217608,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T02:20:11.5721428+00:00",
+      "NumProgressed": 217616,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -6226,7 +6231,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 43522
+      "UsersEstimate": 43523
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -6242,7 +6247,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10880
+      "UsersEstimate": 10881
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -6250,7 +6255,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8704
+      "UsersEstimate": 8705
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -6354,7 +6359,7 @@
       "Name": "Tanis Completed",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 28289
+      "UsersEstimate": 28290
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -6426,7 +6431,7 @@
       "Name": "Graduated Command School",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 52226
+      "UsersEstimate": 52228
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -6441,7 +6446,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 217608,
+      "Progressed": 217616,
       "Completed": 0
     }
   ],
@@ -6449,8 +6454,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-09-14T11:00:09.7645849+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:45:27.1694725+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:20:11.5721417+00:00",
   "LastUpdate_AppInfo": "2023-09-14T20:57:17.4276242+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:42:40.2457462+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:45:27.1695208+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:18:12.3673171+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:20:11.5723021+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -598,7 +598,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 467330,
+  "EOS_Progressed": 467331,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
@@ -16073,6 +16073,11 @@
       "Time": "2023-09-15T01:49:16.0056224+00:00",
       "NumProgressed": 467330,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-09-15T02:24:54.0176644+00:00",
+      "NumProgressed": 467331,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 79,
@@ -16180,7 +16185,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23366
+      "UsersEstimate": 23367
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -16188,7 +16193,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23366
+      "UsersEstimate": 23367
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -16204,7 +16209,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 116832
+      "UsersEstimate": 116833
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -16284,7 +16289,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23366
+      "UsersEstimate": 23367
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -16508,7 +16513,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 205625
+      "UsersEstimate": 205626
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -16564,7 +16569,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23366
+      "UsersEstimate": 23367
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -16715,21 +16720,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 11264,
+      "Progressed": 11265,
       "Completed": 2356
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 467330,
+      "Progressed": 467331,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-08-24T02:57:03.8465673+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:49:16.005622+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:24:54.017664+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:30.6494953+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:40:39.068042+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:49:16.0057584+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:15:20.279515+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:24:54.0178349+00:00"
 }

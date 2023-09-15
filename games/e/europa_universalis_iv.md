@@ -22,10 +22,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 0.90% | ~3,628 |
 | Truly Divine Ruler | 0.90% | ~3,628 |
 | It's all about luck | 0.80% | ~3,225 |
-| Blockader | 0.70% | ~2,821 |
-| Double the Love | 0.70% | ~2,821 |
-| Royal Authority | 0.70% | ~2,821 |
-| Total Control | 0.70% | ~2,821 |
+| Blockader | 0.70% | ~2,822 |
+| Double the Love | 0.70% | ~2,822 |
+| Royal Authority | 0.70% | ~2,822 |
+| Total Control | 0.70% | ~2,822 |
 | My armies are invincible! | 0.60% | ~2,418 |
 | Agressive Expander | 0.50% | ~2,015 |
 | City of Cities | 0.50% | ~2,015 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where Am I? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403,063 (Ranked 40)  
+Progressed: 403,073 (Ranked 40)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -509,7 +509,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 401,220 | 0 |
 | 2023-09-13 | 402,102 | 0 |
 | 2023-09-14 | 402,996 | 0 |
-| 2023-09-15 | 403,063 | 0 |
+| 2023-09-15 | 403,073 | 0 |
 ## Awards
 Max (Educational): 6,076  (Ranked 56)  
 Sum: 50,031 (Ranked 26)  

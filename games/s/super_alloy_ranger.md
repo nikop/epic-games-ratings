@@ -18,8 +18,8 @@
 | The Hidden Secret | 15.00% | ~13 |
 | Phew! | 15.00% | ~13 |
 | The Abyss Conqueror | 12.00% | ~10 |
+| Space Warrior: Prologue | 12.00% | ~10 |
 | Grand Escape | 11.00% | ~9 |
-| Space Warrior: Prologue | 11.00% | ~9 |
 | The Fortress Conqueror | 8.00% | ~7 |
 | Keep it Up, rookie! | 8.00% | ~7 |
 | he Ultra Fortress Conqueror | 7.00% | ~6 |
@@ -28,6 +28,7 @@
 | The Infinite Train Conqueror | 6.00% | ~5 |
 | The Paradox Coordinate Conqueror | 6.00% | ~5 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~5 |
+| Hell of a Fight | 6.00% | ~5 |
 | Decapitation Strike | 6.00% | ~5 |
 | The Sunken City Conqueror | 5.00% | ~4 |
 | The Zero Dimensional Capital Conqueror | 5.00% | ~4 |
@@ -35,19 +36,18 @@
 | Death Bringer Conqueror | 5.00% | ~4 |
 | Rapidfire | 5.00% | ~4 |
 | Air Interception | 5.00% | ~4 |
-| Hell of a Fight | 5.00% | ~4 |
+| The Looping Space Conqueror | 4.00% | ~3 |
 | Space Ranger: Prologue | 4.00% | ~3 |
+| Breaking the Limit | 4.00% | ~3 |
 | The Truth? | 4.00% | ~3 |
-| The Looping Space Conqueror | 2.00% | ~2 |
 | Break Through the Forbidden | 2.00% | ~2 |
-| Breaking the Limit | 2.00% | ~2 |
 | Proliferation | 2.00% | ~2 |
+| Burn After Reading | 2.00% | ~2 |
+| Alloy Rangers, Assemble! | 1.00% | ~1 |
 | Pumped Up | 1.00% | ~1 |
 | Easy Peasy | 1.00% | ~1 |
 | Clean Sweep | 1.00% | ~1 |
 | Bye Bye Gravity | 1.00% | ~1 |
-| Burn After Reading | 1.00% | ~1 |
-| Alloy Rangers, Assemble! | 0.00% | ~0 |
 | Flawless | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |
 | Mischief Time | 0.00% | ~0 |

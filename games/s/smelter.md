@@ -11,8 +11,8 @@
 | Deep in the Mounds | 68.00% | ~27 |
 | Smeltastic! | 38.00% | ~15 |
 | Locked Away | 33.00% | ~13 |
+| A Little Renovating | 33.00% | ~13 |
 | Deflect This! | 30.00% | ~12 |
-| A Little Renovating | 30.00% | ~12 |
 | It's a Sign! | 28.00% | ~11 |
 | Just Some Improvements | 20.00% | ~8 |
 | My Precious Gems! | 18.00% | ~7 |
@@ -23,9 +23,9 @@
 | Isn't It Beautiful? | 15.00% | ~6 |
 | A Generous Leader | 15.00% | ~6 |
 | How Do You Like Them Apples? | 15.00% | ~6 |
+| A Terrible Way to Go | 15.00% | ~6 |
 | Orcharion Boost | 13.00% | ~5 |
 | Case Closed | 13.00% | ~5 |
-| A Terrible Way to Go | 13.00% | ~5 |
 | Dr. Dreinstein III | 10.00% | ~4 |
 | Fishing for Fissures | 10.00% | ~4 |
 | You did it? You did it! | 10.00% | ~4 |

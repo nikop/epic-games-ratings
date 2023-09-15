@@ -13,10 +13,10 @@ Number of Ratings: 495  (23.09.2022)
 | Rescue Takuma | 8.00% | ~16,171 |
 | Rollin' | 8.00% | ~16,171 |
 | Tanuki Time | 8.00% | ~16,171 |
-| Ice Ice Yuki | 7.00% | ~14,149 |
-| Jonin | 7.00% | ~14,149 |
-| Stoned Ox | 7.00% | ~14,149 |
-| Yabu | 7.00% | ~14,149 |
+| Ice Ice Yuki | 7.00% | ~14,150 |
+| Jonin | 7.00% | ~14,150 |
+| Stoned Ox | 7.00% | ~14,150 |
+| Yabu | 7.00% | ~14,150 |
 | Chunin | 6.00% | ~12,128 |
 | Flying Rocks | 6.00% | ~12,128 |
 | Happy Planning | 6.00% | ~12,128 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~202 |
 | Release the Kraken | 0.10% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202,135 (Ranked 61)  
+Progressed: 202,137 (Ranked 61)  
 Completed: 79 (0.04%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 79 (0.04%) (Ranked 243)
 | 2023-09-12 | 201,788 | 79 |
 | 2023-09-13 | 201,952 | 79 |
 | 2023-09-14 | 202,116 | 79 |
-| 2023-09-15 | 202,135 | 79 |
+| 2023-09-15 | 202,137 | 79 |
 ## Awards
 Max (Great for Beginners): 565  (Ranked 191)  
 Sum: 4,752 (Ranked 136)  

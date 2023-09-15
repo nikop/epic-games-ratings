@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Solved The Spider of Lanka 1st Case | 9.00% | ~12 |
-| Solved The Spider of Lanka 2nd Case | 4.00% | ~5 |
+| Solved The Spider of Lanka 1st Case | 10.00% | ~13 |
+| Solved The Spider of Lanka 2nd Case | 5.00% | ~7 |
 | Solved second case | 3.00% | ~6 |
 | Solved The Spider of Lanka 3rd Case | 3.00% | ~4 |
 | Solved the Lemurian Vampire 1st Case | 3.00% | ~4 |

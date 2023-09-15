@@ -23,14 +23,14 @@ Number of Ratings: 285  (23.09.2022)
 | The Harder They Fall | 0.60% | ~11 |
 | Season Finale | 0.60% | ~11 |
 | Spending Spree | 0.60% | ~11 |
-| Next Time on MythForce... | 0.50% | ~9 |
+| Next Time on MythForce... | 0.50% | ~10 |
 | The Fourth Gate | 0.40% | ~8 |
 | On this Episode! | 0.40% | ~8 |
 | Vexed Her | 0.30% | ~6 |
 | We've Got a Kaiju on the Field | 0.20% | ~4 |
 | Deadalus and Loving It | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,899 (Ranked 183)  
+Progressed: 1,904 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 1,507 | 0 |
 | 2023-09-13 | 1,711 | 0 |
 | 2023-09-14 | 1,880 | 0 |
-| 2023-09-15 | 1,899 | 0 |
+| 2023-09-15 | 1,904 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 355)  

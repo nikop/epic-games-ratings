@@ -11909,9 +11909,9 @@
       "Count": 5928
     }
   ],
-  "EOS_Progressed": 876187,
+  "EOS_Progressed": 876188,
   "EOS_Completed": 2086,
-  "EOS_NewPlayers": 1082,
+  "EOS_NewPlayers": 1083,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -28389,6 +28389,11 @@
       "Time": "2023-09-15T01:49:21.3415844+00:00",
       "NumProgressed": 876187,
       "NumCompleted": 2086
+    },
+    {
+      "Time": "2023-09-15T02:25:01.1353015+00:00",
+      "NumProgressed": 876188,
+      "NumCompleted": 2086
     }
   ],
   "TotalAchievements": 44,
@@ -28536,7 +28541,7 @@
       "Name": "Must Be Rats",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35047
+      "UsersEstimate": 35048
     },
     {
       "ID": "NeverFadeAway",
@@ -28576,7 +28581,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 254094
+      "UsersEstimate": 254095
     },
     {
       "ID": "Specialist",
@@ -28592,7 +28597,7 @@
       "Name": "Temperance",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 35047
+      "UsersEstimate": 35048
     },
     {
       "ID": "ThatIsSoHardForTheKnees",
@@ -28616,7 +28621,7 @@
       "Name": "The Fool",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 604569
+      "UsersEstimate": 604570
     },
     {
       "ID": "TheHermit",
@@ -28640,7 +28645,7 @@
       "Name": "The Lovers",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 306665
+      "UsersEstimate": 306666
     },
     {
       "ID": "TheStar",
@@ -28664,7 +28669,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 245332
+      "UsersEstimate": 245333
     },
     {
       "ID": "TheWorld",
@@ -28712,7 +28717,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 105142
+      "UsersEstimate": 105143
     },
     {
       "ID": "UnderPressure",
@@ -28751,21 +28756,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 876187,
+      "Progressed": 876188,
       "Completed": 2086
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 4810,
-      "Completed": 4810
+      "Progressed": 4811,
+      "Completed": 4811
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-09-14T22:57:30.3352597+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:49:21.3415839+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:25:01.1353009+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:12.297656+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:39:58.8294678+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:49:21.3416869+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:14:26.5439843+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:25:01.1355256+00:00"
 }

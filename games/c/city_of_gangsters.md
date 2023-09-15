@@ -5,30 +5,30 @@ Rating: 4.27 (Ranked 820)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~157,860 |
+| Corner Clout | 46.00% | ~157,861 |
 | Copacetic Coordination | 16.00% | ~54,908 |
 | Fronting the Money | 15.00% | ~51,476 |
-| The Dawn of Automation | 14.00% | ~48,044 |
-| Extraordinary Logistics | 14.00% | ~48,044 |
+| The Dawn of Automation | 14.00% | ~48,045 |
+| Extraordinary Logistics | 14.00% | ~48,045 |
 | Dirty Money | 13.00% | ~44,613 |
 | Family First | 13.00% | ~44,613 |
 | Cleaning House | 12.00% | ~41,181 |
 | Room in the Back | 12.00% | ~41,181 |
 | Beating the Heat | 11.00% | ~37,749 |
 | Booze Baron | 11.00% | ~37,749 |
-| Friends on the Force | 10.00% | ~34,317 |
-| Neighborhood Watch | 10.00% | ~34,317 |
+| Friends on the Force | 10.00% | ~34,318 |
+| Neighborhood Watch | 10.00% | ~34,318 |
 | Core Corps | 8.00% | ~27,454 |
 | Sizeable Stash | 8.00% | ~27,454 |
 | Street Fighter | 7.00% | ~24,022 |
 | Friendly Gestures | 7.00% | ~24,022 |
 | People Person | 7.00% | ~24,022 |
-| Liquor Lord | 6.00% | ~20,590 |
-| Safety in Numbers | 6.00% | ~20,590 |
-| Moving Experiences | 6.00% | ~20,590 |
-| Wise Head | 6.00% | ~20,590 |
-| Show ‘em the Sugar | 6.00% | ~20,590 |
-| Killing Them Softly | 6.00% | ~20,590 |
+| Liquor Lord | 6.00% | ~20,591 |
+| Safety in Numbers | 6.00% | ~20,591 |
+| Moving Experiences | 6.00% | ~20,591 |
+| Wise Head | 6.00% | ~20,591 |
+| Show ‘em the Sugar | 6.00% | ~20,591 |
+| Killing Them Softly | 6.00% | ~20,591 |
 | Street Knowledge | 5.00% | ~17,159 |
 | Oh Captain | 5.00% | ~17,159 |
 | Branching Out | 5.00% | ~17,159 |
@@ -48,11 +48,11 @@ Rating: 4.27 (Ranked 820)
 | Still Stalwart | 3.00% | ~10,295 |
 | Bees Knees Bootlegger | 3.00% | ~10,295 |
 | Tighten the Screws | 3.00% | ~10,295 |
-| One of Us | 2.00% | ~6,863 |
-| Baker’s Dozen | 2.00% | ~6,863 |
-| Dropping the Dime | 2.00% | ~6,863 |
-| Spiffy Speakeasies | 2.00% | ~6,863 |
-| Keeping Your Word | 2.00% | ~6,863 |
+| One of Us | 2.00% | ~6,864 |
+| Baker’s Dozen | 2.00% | ~6,864 |
+| Dropping the Dime | 2.00% | ~6,864 |
+| Spiffy Speakeasies | 2.00% | ~6,864 |
+| Keeping Your Word | 2.00% | ~6,864 |
 | Boxing Them In | 1.00% | ~3,432 |
 | Backroom Empire | 1.00% | ~3,432 |
 | Corner Control | 1.00% | ~3,432 |
@@ -86,7 +86,7 @@ Rating: 4.27 (Ranked 820)
 | High Pillow | 0.10% | ~343 |
 | Station Master | 0.10% | ~343 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343,174 (Ranked 42)  
+Progressed: 343,176 (Ranked 42)  
 Completed: 7 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 7 (0.00%) (Ranked 275)
 | 2023-09-12 | 342,906 | 7 |
 | 2023-09-13 | 343,029 | 7 |
 | 2023-09-14 | 343,154 | 7 |
-| 2023-09-15 | 343,174 | 7 |
+| 2023-09-15 | 343,176 | 7 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 436)  
 Sum: 193 (Ranked 378)  

@@ -512,7 +512,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 65276,
+  "EOS_Progressed": 65277,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 2284,
   "EOS_NewCompleters": 0,
@@ -14677,6 +14677,11 @@
       "Time": "2023-09-15T01:49:31.9918658+00:00",
       "NumProgressed": 65276,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-09-15T02:25:15.349739+00:00",
+      "NumProgressed": 65277,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 67,
@@ -14688,7 +14693,7 @@
       "Name": "Follow the Light",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 26763
+      "UsersEstimate": 26764
     },
     {
       "ID": "02",
@@ -14912,7 +14917,7 @@
       "Name": "Sound and Fury",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9791
+      "UsersEstimate": 9792
     },
     {
       "ID": "30",
@@ -14936,7 +14941,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20888
+      "UsersEstimate": 20889
     },
     {
       "ID": "33",
@@ -14944,7 +14949,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 9791
+      "UsersEstimate": 9792
     },
     {
       "ID": "34",
@@ -15048,7 +15053,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9791
+      "UsersEstimate": 9792
     },
     {
       "ID": "47",
@@ -15223,21 +15228,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 65276,
+      "Progressed": 65277,
       "Completed": 65
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 28744,
+      "Progressed": 28745,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-06-12T02:18:23.823602+00:00",
-  "LastChanged_Achievements": "2023-09-15T01:49:31.9918653+00:00",
+  "LastChanged_Achievements": "2023-09-15T02:25:15.3497381+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:15.1520424+00:00",
-  "LastUpdate_Ratings": "2023-09-15T01:43:30.5952376+00:00",
-  "LastUpdate_Achievements": "2023-09-15T01:49:31.9919808+00:00"
+  "LastUpdate_Ratings": "2023-09-15T02:19:26.36628+00:00",
+  "LastUpdate_Achievements": "2023-09-15T02:25:15.3498759+00:00"
 }
