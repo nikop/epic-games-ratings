@@ -10,13 +10,13 @@
 | 8 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 8 | [Overloop](games/o/overloop.md) | 25.00% |
 | 10 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.29% |
+| 11 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 22.03% |
 | 12 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.41% |
 | 13 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 13 | [Doodle Devil](games/d/doodle_devil.md) | 20.00% |
 | 15 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.39% |
 | 16 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 16.67% |
-| 17 | [Island Cities](games/i/island_cities.md) | 15.35% |
+| 17 | [Island Cities](games/i/island_cities.md) | 15.33% |
 | 18 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.79% |
 | 19 | [Anna's Quest](games/a/anna's_quest.md) | 13.51% |
 | 20 | [Remains](games/r/remains.md) | 12.50% |
@@ -47,7 +47,7 @@
 | 45 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 46 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 5.88% |
 | 47 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.83% |
-| 48 | [JARS](games/j/jars.md) | 5.80% |
+| 48 | [JARS](games/j/jars.md) | 5.71% |
 | 49 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 5.45% |
 | 50 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.29% |
 | 51 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 5.17% |
@@ -65,13 +65,13 @@
 | 63 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.79% |
 | 64 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.52% |
 | 65 | [The Bunker](games/t/the_bunker.md) | 3.45% |
-| 66 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
-| 66 | [Doodle God](games/d/doodle_god.md) | 3.36% |
-| 68 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
-| 69 | [The Complex](games/t/the_complex.md) | 3.27% |
-| 70 | [Without Escape](games/w/without_escape.md) | 3.23% |
-| 71 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
-| 72 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.19% |
+| 66 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.43% |
+| 67 | [Bunny Park](games/b/bunny_park.md) | 3.36% |
+| 67 | [Doodle God](games/d/doodle_god.md) | 3.36% |
+| 69 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.29% |
+| 70 | [The Complex](games/t/the_complex.md) | 3.27% |
+| 71 | [Without Escape](games/w/without_escape.md) | 3.23% |
+| 72 | [Monster Harvest](games/m/monster_harvest.md) | 3.21% |
 | 73 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.14% |
 | 74 | [HordeCore](games/h/hordecore.md) | 3.13% |
 | 75 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.98% |
@@ -90,7 +90,7 @@
 | 88 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 2.38% |
 | 89 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.34% |
 | 90 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.27% |
-| 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.26% |
+| 91 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.25% |
 | 92 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 2.17% |
 | 93 | [Bloodshore](games/b/bloodshore.md) | 2.16% |
 | 94 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2.04% |
@@ -104,7 +104,7 @@
 | 101 | [Sifu](games/s/sifu.md) | 1.80% |
 | 103 | [Somerville](games/s/somerville.md) | 1.71% |
 | 104 | [Five Dates](games/f/five_dates.md) | 1.67% |
-| 104 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.67% |
+| 105 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 1.66% |
 | 106 | [Iron Danger](games/i/iron_danger.md) | 1.56% |
 | 107 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.55% |
 | 108 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.53% |
@@ -133,7 +133,7 @@
 | 131 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.83% |
 | 132 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 133 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.81% |
-| 134 | [Eternights](games/e/eternights.md) | 0.78% |
+| 134 | [Eternights](games/e/eternights.md) | 0.77% |
 | 135 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.74% |
 | 136 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.73% |
 | 137 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.72% |
