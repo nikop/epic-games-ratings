@@ -6,7 +6,8 @@
 | ---- | ---------- | ----- |
 | Morgengrauen | 54.00% | ~7 |
 | Path of Despair | 46.00% | ~6 |
-| Awaken | 15.00% | ~2 |
+| Awaken | 23.00% | ~3 |
+| Hunger | 15.00% | ~2 |
 | Not alone | 15.00% | ~2 |
 | Path of Corruption | 15.00% | ~2 |
 | An act of mercy | 8.00% | ~1 |
@@ -16,7 +17,6 @@
 | Despair | 8.00% | ~1 |
 | Health | 8.00% | ~1 |
 | Hope | 8.00% | ~1 |
-| Hunger | 8.00% | ~1 |
 | Jigsaw | 8.00% | ~1 |
 | Lost | 8.00% | ~1 |
 | Pain | 8.00% | ~1 |

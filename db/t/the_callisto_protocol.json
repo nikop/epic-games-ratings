@@ -2,12 +2,12 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 873,
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1172,9 +1172,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 15936,
+  "EOS_Progressed": 15938,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -6947,6 +6947,11 @@
       "Time": "2023-09-15T10:05:10.595998+00:00",
       "NumProgressed": 15936,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-09-15T11:05:42.5746439+00:00",
+      "NumProgressed": 15938,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 47,
@@ -6990,7 +6995,7 @@
       "Name": "Flesh Wound",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -7078,7 +7083,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -7086,7 +7091,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "KILL_ROBOT",
@@ -7118,7 +7123,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -7126,7 +7131,7 @@
       "Name": "Reforged",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "PRINT_WEAPON",
@@ -7206,7 +7211,7 @@
       "Name": "Full Circle",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "STORY_TUNNELS",
@@ -7310,7 +7315,7 @@
       "Name": "Keep Fighting",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -7333,13 +7338,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 15936,
+      "Progressed": 15938,
       "Completed": 73
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 3862,
+      "Progressed": 3864,
       "Completed": 29
     }
   ],
@@ -7347,8 +7352,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-09-11T20:00:03.1009674+00:00",
-  "LastChanged_Achievements": "2023-09-15T10:05:10.5959975+00:00",
+  "LastChanged_Achievements": "2023-09-15T11:05:42.5746433+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:20.3899843+00:00",
-  "LastUpdate_Ratings": "2023-09-15T09:57:42.7420265+00:00",
-  "LastUpdate_Achievements": "2023-09-15T10:05:10.5960563+00:00"
+  "LastUpdate_Ratings": "2023-09-15T10:58:10.1963991+00:00",
+  "LastUpdate_Achievements": "2023-09-15T11:05:42.5747936+00:00"
 }

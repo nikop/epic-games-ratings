@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -318,9 +318,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3252,
+  "EOS_Progressed": 3253,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4228,6 +4228,11 @@
       "Time": "2023-09-15T08:06:12.7488321+00:00",
       "NumProgressed": 3252,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-09-15T11:07:02.6365337+00:00",
+      "NumProgressed": 3253,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -4255,7 +4260,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -4335,7 +4340,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -4359,7 +4364,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -4391,7 +4396,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -4407,7 +4412,7 @@
       "Name": "Frontliner",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -4423,7 +4428,7 @@
       "Name": "The Cable Guy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_MISSION_01",
@@ -4511,7 +4516,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_MISSION_12",
@@ -4535,15 +4540,15 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "ACH_PROLOGUE",
       "SetID": "816efe",
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2635
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -4551,7 +4556,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -4559,7 +4564,7 @@
       "Name": "People Person",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 1821
+      "UsersEstimate": 1822
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -4575,7 +4580,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -4598,7 +4603,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3252,
+      "Progressed": 3253,
       "Completed": 3
     }
   ],
@@ -4606,8 +4611,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-09-12T16:59:01.3538797+00:00",
-  "LastChanged_Achievements": "2023-09-15T10:06:14.9494478+00:00",
+  "LastChanged_Achievements": "2023-09-15T11:07:02.6365331+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:57:40.1114534+00:00",
-  "LastUpdate_Ratings": "2023-09-15T09:59:19.758174+00:00",
-  "LastUpdate_Achievements": "2023-09-15T10:06:14.9494953+00:00"
+  "LastUpdate_Ratings": "2023-09-15T11:00:09.9663679+00:00",
+  "LastUpdate_Achievements": "2023-09-15T11:07:02.6366178+00:00"
 }

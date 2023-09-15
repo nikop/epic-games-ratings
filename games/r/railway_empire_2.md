@@ -1,27 +1,27 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.44 (Ranked 648)  
+Rating: 4.44 (Ranked 649)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A new Journey | 74.00% | ~1,403 |
-| Country Bumpkin | 74.00% | ~1,403 |
-| Departure | 73.00% | ~1,384 |
-| From X to Y | 72.00% | ~1,365 |
-| Way of Iron | 70.00% | ~1,327 |
-| Mystery Tour | 68.00% | ~1,289 |
-| We brake for nobody | 67.00% | ~1,270 |
-| Brainstorm | 66.00% | ~1,251 |
-| Travel Company | 65.00% | ~1,232 |
-| Mind the Gap | 64.00% | ~1,213 |
+| A new Journey | 74.00% | ~1,404 |
+| Country Bumpkin | 74.00% | ~1,404 |
+| Departure | 73.00% | ~1,385 |
+| From X to Y | 72.00% | ~1,366 |
+| Way of Iron | 70.00% | ~1,328 |
+| Mystery Tour | 68.00% | ~1,290 |
+| We brake for nobody | 67.00% | ~1,271 |
+| Brainstorm | 66.00% | ~1,252 |
+| Travel Company | 65.00% | ~1,233 |
+| Mind the Gap | 64.00% | ~1,214 |
 | All around the World | 62.00% | ~1,176 |
 | Right through the middle | 57.00% | ~1,081 |
 | Poor Devil | 54.00% | ~1,024 |
 | Facility Manager | 53.00% | ~1,005 |
 | Producer | 50.00% | ~948 |
-| Apprentice | 41.00% | ~777 |
-| Bridge Builder | 41.00% | ~777 |
+| Apprentice | 41.00% | ~778 |
+| Bridge Builder | 41.00% | ~778 |
 | Access granted | 35.00% | ~664 |
 | Going once, going twice, sold | 35.00% | ~664 |
 | Bull and bear | 33.00% | ~626 |
@@ -41,12 +41,12 @@ Rating: 4.44 (Ranked 648)
 | Traffic Jam | 19.00% | ~360 |
 | Resistance is futile | 17.00% | ~322 |
 | Networker | 17.00% | ~322 |
-| Assimilated | 16.00% | ~303 |
-| Locusts | 15.00% | ~284 |
-| Settler | 15.00% | ~284 |
-| Max Power | 14.00% | ~265 |
-| Bold and beautiful | 14.00% | ~265 |
-| Go West | 13.00% | ~246 |
+| Assimilated | 16.00% | ~304 |
+| Locusts | 15.00% | ~285 |
+| Settler | 15.00% | ~285 |
+| Max Power | 14.00% | ~266 |
+| Bold and beautiful | 14.00% | ~266 |
+| Go West | 13.00% | ~247 |
 | A new Hope | 11.00% | ~209 |
 | Tycoon | 11.00% | ~209 |
 | Unstoppable | 8.00% | ~152 |
@@ -61,7 +61,7 @@ Rating: 4.44 (Ranked 648)
 | Three Cheers for Progress | 0.50% | ~9 |
 | United States | 0.50% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,896 (Ranked 185)  
+Progressed: 1,897 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-11 | 1,890 | 0 |
 | 2023-09-13 | 1,895 | 0 |
 | 2023-09-14 | 1,896 | 0 |
+| 2023-09-15 | 1,897 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

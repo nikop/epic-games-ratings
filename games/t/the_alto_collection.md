@@ -13,7 +13,7 @@ Number of Ratings: 332  (23.09.2022)
 | Welcome Maya | 15.00% | ~5,886 |
 | Scout | 11.00% | ~4,316 |
 | Sightseer | 11.00% | ~4,316 |
-| Amateur | 9.00% | ~3,531 |
+| Amateur | 9.00% | ~3,532 |
 | Unlock Maya | 8.00% | ~3,139 |
 | Enter Paz | 8.00% | ~3,139 |
 | Wanderer | 8.00% | ~3,139 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~39 |
 | Windswept | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,238 (Ranked 99)  
+Progressed: 39,240 (Ranked 99)  
 Completed: 5 (0.01%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 5 (0.01%) (Ranked 261)
 | 2023-09-12 | 38,986 | 5 |
 | 2023-09-13 | 39,103 | 5 |
 | 2023-09-14 | 39,196 | 5 |
-| 2023-09-15 | 39,238 | 5 |
+| 2023-09-15 | 39,240 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 411)  
 Sum: 361 (Ranked 330)  

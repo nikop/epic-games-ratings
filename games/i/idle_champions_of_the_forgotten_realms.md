@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 932)  
+Rating: 4.06 (Ranked 933)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,6 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.60% | ~1,373 |
 | The Mad Wizard | 0.50% | ~1,144 |
 | The Ring of Regeneration | 0.40% | ~915 |
+| Seeking Allies | 0.40% | ~915 |
 | Maddening | 0.30% | ~687 |
 | Were-verpowered | 0.30% | ~687 |
 | A Persistent Buzzing | 0.30% | ~687 |
@@ -18,7 +19,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.30% | ~687 |
 | Building Trust | 0.30% | ~687 |
 | The Crumbling Temple | 0.30% | ~687 |
-| Seeking Allies | 0.30% | ~687 |
 | Are Ya Chicken? | 0.30% | ~687 |
 | Mad Cow Disease | 0.30% | ~687 |
 | Friendly Imps | 0.30% | ~687 |
@@ -527,7 +527,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,845 (Ranked 55)  
+Progressed: 228,848 (Ranked 55)  
 Completed: 2,282 (1.00%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -675,7 +675,7 @@ Completed: 2,282 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,845 | 2,282 |
+| 2023-09-15 | 228,848 | 2,282 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
 Sum: 31,588 (Ranked 39)  

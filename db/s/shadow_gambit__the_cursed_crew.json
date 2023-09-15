@@ -1880,9 +1880,9 @@
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -1921,8 +1921,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-09-12T12:00:40.8977008+00:00",
-  "LastChanged_Achievements": "2023-09-15T10:04:32.9108375+00:00",
+  "LastChanged_Achievements": "2023-09-15T11:04:54.8105936+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:25.7730865+00:00",
-  "LastUpdate_Ratings": "2023-09-15T09:57:47.9416798+00:00",
-  "LastUpdate_Achievements": "2023-09-15T10:04:32.9108612+00:00"
+  "LastUpdate_Ratings": "2023-09-15T10:58:17.8135111+00:00",
+  "LastUpdate_Achievements": "2023-09-15T11:04:54.8106313+00:00"
 }

@@ -1,37 +1,37 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 740)  
+Rating: 4.37 (Ranked 741)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~33,893 |
-| Blood Moon | 73.00% | ~29,108 |
-| Path of the Necromancer | 66.00% | ~26,317 |
-| Chainbreaker - I | 60.00% | ~23,924 |
-| Cursed Creature | 57.00% | ~22,728 |
-| Extraction | 57.00% | ~22,728 |
+| Improvement | 85.00% | ~33,894 |
+| Blood Moon | 73.00% | ~29,109 |
+| Path of the Necromancer | 66.00% | ~26,318 |
+| Chainbreaker - I | 60.00% | ~23,925 |
+| Cursed Creature | 57.00% | ~22,729 |
+| Extraction | 57.00% | ~22,729 |
 | Chainbreaker - II | 55.00% | ~21,931 |
 | Necromancer's Apprentice | 51.00% | ~20,336 |
 | Keeper of Keys | 47.00% | ~18,741 |
 | Distillation | 43.00% | ~17,146 |
-| Mountain King - I | 42.00% | ~16,747 |
-| Transmutation | 42.00% | ~16,747 |
+| Mountain King - I | 42.00% | ~16,748 |
+| Transmutation | 42.00% | ~16,748 |
 | Prepared Necromancer | 40.00% | ~15,950 |
 | Mountain King - II | 39.00% | ~15,551 |
 | Blind Rage | 38.00% | ~15,152 |
 | Mad Genius | 35.00% | ~13,956 |
-| Cannon Fodder - I | 34.00% | ~13,557 |
-| Soul of Lies | 34.00% | ~13,557 |
-| Bane of Mercenaries - I | 33.00% | ~13,158 |
+| Cannon Fodder - I | 34.00% | ~13,558 |
+| Soul of Lies | 34.00% | ~13,558 |
+| Bane of Mercenaries - I | 33.00% | ~13,159 |
 | Bane of Mercenaries - II | 31.00% | ~12,361 |
 | Shadow Between Worlds | 30.00% | ~11,962 |
-| Cannon Fodder - II | 29.00% | ~11,563 |
+| Cannon Fodder - II | 29.00% | ~11,564 |
 | Bane of Monsters | 28.00% | ~11,165 |
 | Chainbreaker - III | 28.00% | ~11,165 |
 | Revealed Secrets - I | 27.00% | ~10,766 |
-| Revealed Secrets - II | 26.00% | ~10,367 |
+| Revealed Secrets - II | 26.00% | ~10,368 |
 | Unholy Bones | 24.00% | ~9,570 |
 | Blood Elemental | 24.00% | ~9,570 |
 | Lord of Fire | 23.00% | ~9,171 |
@@ -49,14 +49,14 @@ Number of Ratings: 10,109  (23.09.2022)
 | Rage Concentrated | 16.00% | ~6,380 |
 | Mountain King - III | 15.00% | ~5,981 |
 | Rare Warrior | 15.00% | ~5,981 |
-| Grand Arena | 14.00% | ~5,582 |
+| Grand Arena | 14.00% | ~5,583 |
 | Blood Madness | 13.00% | ~5,184 |
 | First Sacrifice | 13.00% | ~5,184 |
 | Master of Alchemy | 13.00% | ~5,184 |
 | Legendary Warrior | 12.00% | ~4,785 |
-| Bane of Mercenaries - III | 10.00% | ~3,987 |
-| Monument to Greatness | 10.00% | ~3,987 |
-| Ancient Burial | 10.00% | ~3,987 |
+| Bane of Mercenaries - III | 10.00% | ~3,988 |
+| Monument to Greatness | 10.00% | ~3,988 |
+| Ancient Burial | 10.00% | ~3,988 |
 | More Mortal Suffering! | 9.00% | ~3,589 |
 | Forbidden Knowledge | 9.00% | ~3,589 |
 | Live Operation | 9.00% | ~3,589 |
@@ -71,18 +71,18 @@ Number of Ratings: 10,109  (23.09.2022)
 | Dungeon Queen | 3.00% | ~1,196 |
 | Mek Brothers | 3.00% | ~1,196 |
 | The Hunter Becomes... | 3.00% | ~1,196 |
-| Evil Always Wins! | 2.00% | ~797 |
-| Graveyard Call - I | 2.00% | ~797 |
-| Graveyard Call - II | 2.00% | ~797 |
-| Sweet Revenge | 2.00% | ~797 |
-| Experimenter | 2.00% | ~797 |
+| Evil Always Wins! | 2.00% | ~798 |
+| Graveyard Call - I | 2.00% | ~798 |
+| Graveyard Call - II | 2.00% | ~798 |
+| Sweet Revenge | 2.00% | ~798 |
+| Experimenter | 2.00% | ~798 |
 | Graveyard Call - III | 0.90% | ~359 |
 | I'll Be Back! | 0.80% | ~319 |
 | Doctorate in Potion Brewing | 0.70% | ~279 |
 | Unrivaled | 0.50% | ~199 |
 | Renowned Researcher | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,874 (Ranked 98)  
+Progressed: 39,875 (Ranked 98)  
 Completed: 23 (0.06%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 23 (0.06%) (Ranked 235)
 | 2023-09-12 | 39,767 | 23 |
 | 2023-09-13 | 39,801 | 23 |
 | 2023-09-14 | 39,852 | 23 |
-| 2023-09-15 | 39,874 | 23 |
+| 2023-09-15 | 39,875 | 23 |
 ## Awards
 Max (Character Customization): 2,149  (Ranked 107)  
 Sum: 4,168 (Ranked 143)  

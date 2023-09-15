@@ -1044,9 +1044,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1293,8 +1293,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-09-15T10:06:31.7465391+00:00",
+  "LastChanged_Achievements": "2023-09-15T11:07:23.5706184+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:19.1358671+00:00",
-  "LastUpdate_Ratings": "2023-09-15T09:58:20.4734083+00:00",
-  "LastUpdate_Achievements": "2023-09-15T10:06:31.7466377+00:00"
+  "LastUpdate_Ratings": "2023-09-15T10:58:57.4887366+00:00",
+  "LastUpdate_Achievements": "2023-09-15T11:07:23.5707536+00:00"
 }

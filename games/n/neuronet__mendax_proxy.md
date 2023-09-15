@@ -15,31 +15,31 @@
 | Task Master | 43.00% | ~10 |
 | An Acquired Taste | 39.00% | ~9 |
 | A Light in the Dark | 39.00% | ~9 |
+| Socially Acceptable Insanity | 39.00% | ~9 |
 | Warning: Fragile | 39.00% | ~9 |
 | A Real Headache | 35.00% | ~8 |
 | The Guardian | 35.00% | ~8 |
 | Endgame | 35.00% | ~8 |
 | The Philosopher | 35.00% | ~8 |
 | The Partner | 35.00% | ~8 |
-| Socially Acceptable Insanity | 35.00% | ~8 |
 | The Companion | 35.00% | ~8 |
 | The Counsellor | 35.00% | ~8 |
 | A Total Riot | 30.00% | ~7 |
+| Blood Begets Blood | 30.00% | ~7 |
 | Everyone Needs a Break | 30.00% | ~7 |
 | Knock Knock | 30.00% | ~7 |
 | They Flock to Him | 30.00% | ~7 |
-| Blood Begets Blood | 26.00% | ~6 |
 | That One Doesn't Count | 26.00% | ~6 |
 | Full Coverage | 22.00% | ~5 |
 | Job Creator | 22.00% | ~5 |
 | Quidnunc | 22.00% | ~5 |
+| Social Butterfly | 22.00% | ~5 |
+| Zonk! | 22.00% | ~5 |
 | A Little Eccentric | 17.00% | ~4 |
+| Leave It to the Professionals | 17.00% | ~4 |
 | Obligatory Fraudulent Baking | 17.00% | ~4 |
-| Social Butterfly | 17.00% | ~4 |
-| Zonk! | 17.00% | ~4 |
-| Leave It to the Professionals | 13.00% | ~3 |
+| Ring of Fire | 17.00% | ~4 |
 | Overseer | 13.00% | ~3 |
-| Ring of Fire | 13.00% | ~3 |
 | The Provocateur | 13.00% | ~3 |
 | Tastes Like Regret | 13.00% | ~3 |
 | The Spice of Life | 13.00% | ~3 |

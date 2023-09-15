@@ -2,7 +2,7 @@
   "ID": "4b5f1eb366dc45f0920d397c01b291ba",
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 280,
@@ -1598,9 +1598,9 @@
       "ID": "ACH_OASIS",
       "SetID": "232494e",
       "Name": "Nature or Nurture",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_PEAK",
@@ -1638,9 +1638,9 @@
       "ID": "ACH_S4",
       "SetID": "232494e",
       "Name": "Power Glove",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_S5",
@@ -1654,9 +1654,9 @@
       "ID": "ACH_SANDSTORM",
       "SetID": "232494e",
       "Name": "Lost in Space",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_STATUE",
@@ -1678,8 +1678,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-15T10:06:33.107836+00:00",
+  "LastChanged_Achievements": "2023-09-15T11:07:25.1663048+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-15T10:02:09.7396389+00:00",
-  "LastUpdate_Achievements": "2023-09-15T10:06:33.1078573+00:00"
+  "LastUpdate_Ratings": "2023-09-15T11:01:59.9914612+00:00",
+  "LastUpdate_Achievements": "2023-09-15T11:07:25.1663394+00:00"
 }

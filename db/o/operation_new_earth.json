@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1316,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -4726,6 +4726,11 @@
       "Time": "2023-09-15T02:20:53.6256587+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T11:04:11.3436954+00:00",
+      "NumProgressed": 1316,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -4863,9 +4868,9 @@
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 118
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -4913,7 +4918,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -5040,14 +5045,14 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-09-15T10:03:45.0664446+00:00",
+  "LastChanged_Achievements": "2023-09-15T11:04:11.3436949+00:00",
   "LastUpdate_AppInfo": "2023-09-09T11:57:23.0230216+00:00",
-  "LastUpdate_Ratings": "2023-09-15T10:00:09.1019679+00:00",
-  "LastUpdate_Achievements": "2023-09-15T10:03:45.0664883+00:00"
+  "LastUpdate_Ratings": "2023-09-15T11:01:09.1864598+00:00",
+  "LastUpdate_Achievements": "2023-09-15T11:04:11.3437991+00:00"
 }

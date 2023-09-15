@@ -7,7 +7,6 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Death Becomes You | 2.00% | ~39 |
-| That'll Leave a Mark | 2.00% | ~39 |
 | Debuff Dogpile | 1.00% | ~19 |
 | Faceroll the Bones | 1.00% | ~19 |
 | First Strike | 1.00% | ~19 |
@@ -15,11 +14,12 @@ Number of Ratings: 285  (23.09.2022)
 | Hit 'Em Where It Hurts | 1.00% | ~19 |
 | Mushroom Madness! | 1.00% | ~19 |
 | Ten Steps from the Grave | 1.00% | ~19 |
+| That'll Leave a Mark | 1.00% | ~19 |
 | Horder Better Faster Stronger | 0.90% | ~17 |
 | Perk Shard Punch Card | 0.90% | ~17 |
-| Cold-Blooded Critters | 0.80% | ~15 |
-| Deadication | 0.80% | ~15 |
-| Everything Must Go! | 0.80% | ~15 |
+| Cold-Blooded Critters | 0.80% | ~16 |
+| Deadication | 0.80% | ~16 |
+| Everything Must Go! | 0.80% | ~16 |
 | The Harder They Fall | 0.60% | ~12 |
 | Season Finale | 0.60% | ~12 |
 | Spending Spree | 0.60% | ~12 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | We've Got a Kaiju on the Field | 0.20% | ~4 |
 | Deadalus and Loving It | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,933 (Ranked 184)  
+Progressed: 1,944 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 1,507 | 0 |
 | 2023-09-13 | 1,711 | 0 |
 | 2023-09-14 | 1,880 | 0 |
-| 2023-09-15 | 1,933 | 0 |
+| 2023-09-15 | 1,944 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 458)  
 Sum: 259 (Ranked 355)  

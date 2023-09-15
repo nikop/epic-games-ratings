@@ -1,27 +1,27 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.63 (Ranked 985)  
+Rating: 3.63 (Ranked 986)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~16,112 |
-| Hard Worker | 20.00% | ~14,647 |
-| Master, Commander | 20.00% | ~14,647 |
-| Mechanic | 19.00% | ~13,915 |
+| Be Seeing You | 22.00% | ~16,113 |
+| Hard Worker | 20.00% | ~14,648 |
+| Master, Commander | 20.00% | ~14,648 |
+| Mechanic | 19.00% | ~13,916 |
 | Adios, Friendo | 18.00% | ~13,183 |
 | Bottom's Up | 18.00% | ~13,183 |
 | Nice Try | 16.00% | ~11,718 |
 | Right On Target | 13.00% | ~9,521 |
 | Piano Man | 10.00% | ~7,324 |
-| Lazy Bones | 9.00% | ~6,591 |
+| Lazy Bones | 9.00% | ~6,592 |
 | Vinyl Vibes | 8.00% | ~5,859 |
 | Nothing Left to Say | 7.00% | ~5,127 |
 | Sniper | 7.00% | ~5,127 |
 | Cut Call | 6.00% | ~4,394 |
 | Magnetic Miracles | 5.00% | ~3,662 |
-| Butcher | 4.00% | ~2,929 |
-| Spicy | 4.00% | ~2,929 |
+| Butcher | 4.00% | ~2,930 |
+| Spicy | 4.00% | ~2,930 |
 | A Man Of Taste | 3.00% | ~2,197 |
 | Ace in the Hole | 3.00% | ~2,197 |
 | Fair's Fair | 3.00% | ~2,197 |
@@ -31,7 +31,7 @@ Rating: 3.63 (Ranked 985)
 | Audiophile | 2.00% | ~1,465 |
 | Tape Head | 2.00% | ~1,465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,237 (Ranked 82)  
+Progressed: 73,240 (Ranked 82)  
 Completed: 756 (1.03%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 756 (1.03%) (Ranked 120)
 | 2023-09-12 | 73,076 | 755 |
 | 2023-09-13 | 73,143 | 755 |
 | 2023-09-14 | 73,215 | 756 |
-| 2023-09-15 | 73,237 | 756 |
+| 2023-09-15 | 73,240 | 756 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

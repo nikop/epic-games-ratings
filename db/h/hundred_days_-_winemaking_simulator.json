@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 757,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 169,
@@ -994,9 +994,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 3110,
+  "EOS_Progressed": 3122,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1290,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2899,6 +2899,11 @@
       "Time": "2023-09-15T10:05:37.2447609+00:00",
       "NumProgressed": 3110,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-09-15T11:06:15.7746508+00:00",
+      "NumProgressed": 3122,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -2909,9 +2914,9 @@
       "ID": "a_1",
       "SetID": "daiie3o",
       "Name": "It\u0027s a good start",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 250
     },
     {
       "ID": "a_10",
@@ -2943,7 +2948,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "a_16",
@@ -2959,7 +2964,7 @@
       "Name": "Bye Bye",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1093
     },
     {
       "ID": "a_19",
@@ -2975,7 +2980,7 @@
       "Name": "Ostinata",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "a_20",
@@ -2999,7 +3004,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "a_23",
@@ -3015,7 +3020,7 @@
       "Name": "Better than nothing?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "a_26",
@@ -3047,7 +3052,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "a_30",
@@ -3133,9 +3138,9 @@
       "ID": "a_7",
       "SetID": "daiie3o",
       "Name": "Knight of Langhe",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "a_8",
@@ -3143,7 +3148,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "a_9",
@@ -3158,7 +3163,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 3110,
+      "Progressed": 3122,
       "Completed": 5
     }
   ],
@@ -3166,8 +3171,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-09-15T08:57:24.2608944+00:00",
-  "LastChanged_Achievements": "2023-09-15T10:05:37.2447604+00:00",
+  "LastChanged_Achievements": "2023-09-15T11:06:15.7746502+00:00",
   "LastUpdate_AppInfo": "2023-09-09T09:57:21.0287048+00:00",
-  "LastUpdate_Ratings": "2023-09-15T09:57:12.2722986+00:00",
-  "LastUpdate_Achievements": "2023-09-15T10:05:37.2447879+00:00"
+  "LastUpdate_Ratings": "2023-09-15T10:57:30.2760749+00:00",
+  "LastUpdate_Achievements": "2023-09-15T11:06:15.7746959+00:00"
 }

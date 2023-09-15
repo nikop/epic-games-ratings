@@ -1,20 +1,20 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 857)  
+Rating: 4.21 (Ranked 858)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~9,572 |
-| Battering Crew | 20.00% | ~4,786 |
-| The Kingsroad | 18.00% | ~4,307 |
-| Well Stocked | 14.00% | ~3,350 |
+| Conqueror | 40.00% | ~9,573 |
+| Battering Crew | 20.00% | ~4,787 |
+| The Kingsroad | 18.00% | ~4,308 |
+| Well Stocked | 14.00% | ~3,351 |
 | Royal Fleet | 13.00% | ~3,111 |
 | The Kraken’s Grasp | 9.00% | ~2,154 |
-| Daggers in the Dark | 8.00% | ~1,914 |
-| Alliance | 8.00% | ~1,914 |
-| A Long Journey | 8.00% | ~1,914 |
+| Daggers in the Dark | 8.00% | ~1,915 |
+| Alliance | 8.00% | ~1,915 |
+| A Long Journey | 8.00% | ~1,915 |
 | Ours is the Fury | 7.00% | ~1,675 |
 | Winter is Coming | 7.00% | ~1,675 |
 | Oathkeeper | 7.00% | ~1,675 |
@@ -22,14 +22,14 @@ Number of Ratings: 2,500  (23.09.2022)
 | We Do Not Sow | 6.00% | ~1,436 |
 | Hear me Roar! | 6.00% | ~1,436 |
 | Defender of the Wall | 6.00% | ~1,436 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,196 |
-| Growing Strong | 5.00% | ~1,196 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,197 |
+| Growing Strong | 5.00% | ~1,197 |
 | What is Dead may Never Die | 3.00% | ~718 |
 | The Swift | 3.00% | ~718 |
 | King in the North | 2.00% | ~479 |
 | War of the Five Kings | 1.00% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,930 (Ranked 108)  
+Progressed: 23,933 (Ranked 108)  
 Completed: 54 (0.23%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 54 (0.23%) (Ranked 193)
 | 2023-09-12 | 23,794 | 54 |
 | 2023-09-13 | 23,839 | 54 |
 | 2023-09-14 | 23,906 | 54 |
-| 2023-09-15 | 23,930 | 54 |
+| 2023-09-15 | 23,933 | 54 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 319)  
 Sum: 786 (Ranked 267)  

@@ -1,25 +1,25 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.41 (Ranked 689)  
+Rating: 4.41 (Ranked 690)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 93.00% | ~1,325 |
+| First Blood | 93.00% | ~1,326 |
 | Ranidaphobia | 78.00% | ~1,112 |
-| Aspiring Editor | 75.00% | ~1,069 |
-| Gun for Hire | 70.00% | ~997 |
-| I am the law! | 64.00% | ~912 |
-| Lumberjack | 53.00% | ~755 |
+| Aspiring Editor | 75.00% | ~1,070 |
+| Gun for Hire | 70.00% | ~998 |
+| I am the law! | 64.00% | ~913 |
+| Lumberjack | 53.00% | ~756 |
 | Croaked | 48.00% | ~684 |
-| Limp Richard | 48.00% | ~684 |
+| Limp Richard | 47.00% | ~670 |
 | Editor Adept | 47.00% | ~670 |
 | Exorcist | 47.00% | ~670 |
 | From Darkness to Light | 47.00% | ~670 |
-| Giant Killer | 45.00% | ~641 |
+| Giant Killer | 45.00% | ~642 |
 | Sensei | 43.00% | ~613 |
-| Firestarter | 42.00% | ~598 |
-| The meaning of Kain | 41.00% | ~584 |
+| Firestarter | 42.00% | ~599 |
+| The meaning of Kain | 41.00% | ~585 |
 | Technophobe | 40.00% | ~570 |
 | Recycler | 39.00% | ~556 |
 | Are you not entertained? | 34.00% | ~485 |
@@ -57,7 +57,7 @@ Rating: 4.41 (Ranked 689)
 | QA Has Suffered! (Redux) | 0.80% | ~11 |
 | Goaaaaal! | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,425 (Ranked 198)  
+Progressed: 1,426 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-12 | 1,416 | 0 |
 | 2023-09-13 | 1,420 | 0 |
 | 2023-09-14 | 1,423 | 0 |
-| 2023-09-15 | 1,425 | 0 |
+| 2023-09-15 | 1,426 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
