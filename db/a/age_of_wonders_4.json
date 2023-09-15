@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -336,9 +336,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 5177,
+  "EOS_Progressed": 5178,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6136,6 +6136,11 @@
       "Time": "2023-09-15T13:11:59.3278949+00:00",
       "NumProgressed": 5177,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-09-15T21:06:00.6227159+00:00",
+      "NumProgressed": 5178,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 50,
@@ -6313,9 +6318,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 311
     },
     {
       "ID": "3",
@@ -6546,13 +6551,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5177,
+      "Progressed": 5178,
       "Completed": 4761
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5177,
+      "Progressed": 5178,
       "Completed": 6
     }
   ],
@@ -6560,8 +6565,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-09-06T20:00:26.1141991+00:00",
-  "LastChanged_Achievements": "2023-09-15T20:07:10.0158846+00:00",
+  "LastChanged_Achievements": "2023-09-15T21:06:00.6227153+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:36.514266+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:59:19.7797365+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:07:10.0159503+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:58:58.7793889+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:06:00.6227968+00:00"
 }

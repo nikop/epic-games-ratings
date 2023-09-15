@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 1.00% | ~2,289 |
 | Beast Intentions | 0.70% | ~1,602 |
 | The Cursed Farmer | 0.60% | ~1,373 |
-| The Mad Wizard | 0.50% | ~1,144 |
+| The Mad Wizard | 0.50% | ~1,145 |
 | The Ring of Regeneration | 0.40% | ~916 |
 | Seeking Allies | 0.40% | ~916 |
 | Maddening | 0.30% | ~687 |
@@ -21,6 +21,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.30% | ~687 |
 | Are Ya Chicken? | 0.30% | ~687 |
 | Mad Cow Disease | 0.30% | ~687 |
+| Exploring Port Nyanzaru | 0.30% | ~687 |
 | Friendly Imps | 0.30% | ~687 |
 | Pure Energy | 0.30% | ~687 |
 | Legends and Lore | 0.30% | ~586 |
@@ -58,7 +59,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~458 |
 | Useless Allies | 0.20% | ~458 |
 | Premature Betrayal | 0.20% | ~458 |
-| Exploring Port Nyanzaru | 0.20% | ~458 |
 | A Tale of Two Cities | 0.20% | ~458 |
 | The Dead Three | 0.20% | ~458 |
 | Flying Monkey Skulls of Doom | 0.20% | ~458 |
@@ -527,8 +527,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Arcana | 0.10% | ~195 |
 | All's Well That Ends Well | 0.10% | ~195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,900 (Ranked 55)  
-Completed: 2,284 (1.00%) (Ranked 123)  
+Progressed: 228,907 (Ranked 55)  
+Completed: 2,284 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -675,7 +675,7 @@ Completed: 2,284 (1.00%) (Ranked 123)
 | 2023-09-12 | 228,561 | 2,273 |
 | 2023-09-13 | 228,673 | 2,277 |
 | 2023-09-14 | 228,799 | 2,279 |
-| 2023-09-15 | 228,900 | 2,284 |
+| 2023-09-15 | 228,907 | 2,284 |
 ## Awards
 Max (Diverse Characters): 5,276  (Ranked 67)  
 Sum: 31,596 (Ranked 39)  

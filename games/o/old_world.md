@@ -41,35 +41,35 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 3.00% | ~418 |
 | Trade Caravan | 3.00% | ~418 |
 | The Great Mage | 3.00% | ~418 |
-| Regicide | 2.00% | ~278 |
-| Drillmaster | 2.00% | ~278 |
-| Brilliant | 2.00% | ~278 |
-| Fountainhead | 2.00% | ~278 |
-| Great | 2.00% | ~278 |
-| Intercessor | 2.00% | ~278 |
-| Valiant | 2.00% | ~278 |
-| Wise | 2.00% | ~278 |
-| Legendary Cities | 2.00% | ~278 |
-| Able Difficulty | 2.00% | ~278 |
-| Just Difficulty | 2.00% | ~278 |
-| Artisans | 2.00% | ~278 |
-| Furious Family | 2.00% | ~278 |
-| Acropolis | 2.00% | ~278 |
-| Apadana | 2.00% | ~278 |
-| Colossus | 2.00% | ~278 |
-| Great Ziggurat | 2.00% | ~278 |
-| Mausoleum | 2.00% | ~278 |
-| Musaeum | 2.00% | ~278 |
-| Necropolis | 2.00% | ~278 |
-| Learn to Play 1 | 2.00% | ~278 |
-| Learn to Play 2 | 2.00% | ~278 |
-| Christianity | 2.00% | ~278 |
-| Manichaeism | 2.00% | ~278 |
-| Carthaginian Paganism | 2.00% | ~278 |
-| Egyptian Paganism | 2.00% | ~278 |
-| Roman Paganism | 2.00% | ~278 |
-| Mythology | 2.00% | ~278 |
-| Poetic Leader | 2.00% | ~278 |
+| Regicide | 2.00% | ~279 |
+| Drillmaster | 2.00% | ~279 |
+| Brilliant | 2.00% | ~279 |
+| Fountainhead | 2.00% | ~279 |
+| Great | 2.00% | ~279 |
+| Intercessor | 2.00% | ~279 |
+| Valiant | 2.00% | ~279 |
+| Wise | 2.00% | ~279 |
+| Legendary Cities | 2.00% | ~279 |
+| Able Difficulty | 2.00% | ~279 |
+| Just Difficulty | 2.00% | ~279 |
+| Artisans | 2.00% | ~279 |
+| Furious Family | 2.00% | ~279 |
+| Acropolis | 2.00% | ~279 |
+| Apadana | 2.00% | ~279 |
+| Colossus | 2.00% | ~279 |
+| Great Ziggurat | 2.00% | ~279 |
+| Mausoleum | 2.00% | ~279 |
+| Musaeum | 2.00% | ~279 |
+| Necropolis | 2.00% | ~279 |
+| Learn to Play 1 | 2.00% | ~279 |
+| Learn to Play 2 | 2.00% | ~279 |
+| Christianity | 2.00% | ~279 |
+| Manichaeism | 2.00% | ~279 |
+| Carthaginian Paganism | 2.00% | ~279 |
+| Egyptian Paganism | 2.00% | ~279 |
+| Roman Paganism | 2.00% | ~279 |
+| Mythology | 2.00% | ~279 |
+| Poetic Leader | 2.00% | ~279 |
 | Hanging Gardens in Babylon | 1.00% | ~139 |
 | Beloved | 1.00% | ~139 |
 | Capable | 1.00% | ~139 |
@@ -303,8 +303,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Hotseat Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,925 (Ranked 123)  
-Completed: 5 (0.04%) (Ranked 243)  
+Progressed: 13,926 (Ranked 123)  
+Completed: 5 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -451,7 +451,7 @@ Completed: 5 (0.04%) (Ranked 243)
 | 2023-09-12 | 13,880 | 5 |
 | 2023-09-13 | 13,891 | 5 |
 | 2023-09-14 | 13,909 | 5 |
-| 2023-09-15 | 13,925 | 5 |
+| 2023-09-15 | 13,926 | 5 |
 ## Awards
 Max (Relaxing): 221  (Ranked 265)  
 Sum: 1,808 (Ranked 207)  

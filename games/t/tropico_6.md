@@ -6,16 +6,16 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 76.00% | ~3,883 |
-| Un-Lonely Island | 47.00% | ~2,401 |
-| The Beginning of a Servantship | 45.00% | ~2,299 |
-| Trade Is My Trait | 37.00% | ~1,890 |
+| Just One...More...Term... | 76.00% | ~3,884 |
+| Un-Lonely Island | 47.00% | ~2,402 |
+| The Beginning of a Servantship | 45.00% | ~2,300 |
+| Trade Is My Trait | 37.00% | ~1,891 |
 | Number 18 | 24.00% | ~1,226 |
 | We Don't Have Time For That | 19.00% | ~971 |
 | The Governator | 18.00% | ~920 |
 | The Legend of Langostino | 17.00% | ~869 |
-| Caribbean Comrade | 16.00% | ~817 |
-| The Dreamer of Dreams | 16.00% | ~817 |
+| Caribbean Comrade | 16.00% | ~818 |
+| The Dreamer of Dreams | 16.00% | ~818 |
 | Go Sovereigns! | 11.00% | ~562 |
 | For Science! | 11.00% | ~562 |
 | Happy Ending? | 10.00% | ~511 |
@@ -29,9 +29,9 @@ Number of Ratings: 398  (23.09.2022)
 | Don't Panic! | 6.00% | ~307 |
 | Computer Says "No" | 6.00% | ~307 |
 | Beware The Betman | 6.00% | ~307 |
-| Viva Tropico! | 5.00% | ~255 |
-| Watch The World Burn | 5.00% | ~255 |
-| Fairy Tale Come True | 5.00% | ~255 |
+| Viva Tropico! | 5.00% | ~256 |
+| Watch The World Burn | 5.00% | ~256 |
+| Fairy Tale Come True | 5.00% | ~256 |
 | Apocalypso | 4.00% | ~204 |
 | Been there, Done That | 3.00% | ~153 |
 | Narcissist | 3.00% | ~153 |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~46 |
 | My Ways | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,109 (Ranked 152)  
-Completed: 2 (0.04%) (Ranked 243)  
+Progressed: 5,110 (Ranked 152)  
+Completed: 2 (0.04%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,7 +195,7 @@ Completed: 2 (0.04%) (Ranked 243)
 | 2023-09-12 | 5,066 | 2 |
 | 2023-09-13 | 5,078 | 2 |
 | 2023-09-14 | 5,093 | 2 |
-| 2023-09-15 | 5,109 | 2 |
+| 2023-09-15 | 5,110 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 98  (Ranked 342)  
 Sum: 686 (Ranked 280)  

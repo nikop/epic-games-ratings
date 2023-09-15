@@ -28,11 +28,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Where it Hurts | 0.80% | ~1,090 |
 | Gild-Gotten Goods | 0.80% | ~1,090 |
 | Dungeon Imports | 0.80% | ~1,090 |
-| Ascended | 0.70% | ~953 |
-| Blank Page Syndrome | 0.70% | ~953 |
-| Accomplished Merchant | 0.70% | ~953 |
-| Did we pack lunch? | 0.70% | ~953 |
-| Arcane Industries | 0.70% | ~953 |
+| Ascended | 0.70% | ~954 |
+| Blank Page Syndrome | 0.70% | ~954 |
+| Accomplished Merchant | 0.70% | ~954 |
+| Did we pack lunch? | 0.70% | ~954 |
+| Arcane Industries | 0.70% | ~954 |
 | On the Path to Greatness | 0.60% | ~817 |
 | Research & Development | 0.60% | ~817 |
 | Vanity, Verily | 0.60% | ~817 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | To Hell and Back | 0.10% | ~136 |
 | Cash Only Please | 0.10% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,214 (Ranked 69)  
+Progressed: 136,217 (Ranked 69)  
 Completed: 151 (0.11%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,10 +267,10 @@ Completed: 151 (0.11%) (Ranked 218)
 | 2023-09-12 | 136,088 | 149 |
 | 2023-09-13 | 136,138 | 150 |
 | 2023-09-14 | 136,187 | 151 |
-| 2023-09-15 | 136,214 | 151 |
+| 2023-09-15 | 136,217 | 151 |
 ## Awards
 Max (Great for Beginners): 4,743  (Ranked 71)  
-Sum: 27,231 (Ranked 48)  
+Sum: 27,234 (Ranked 48)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): 23
 | This game has Quickly Understood Controls | 3,995 |
 | This game has Diverse Characters | 3,880 |
 | This game is Highly Recommended | 3,743 |
-| This game has Easy Combat | 3,687 |
+| This game has Easy Combat | 3,690 |
 | This game has Playful Visuals | 3,173 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -516,4 +516,4 @@ Diff (max vs sum): 23
 | 2023-09-12 | 3.99 | - | 4,738 | 27,214 |
 | 2023-09-13 | 3.99 | - | 4,741 | 27,223 |
 | 2023-09-14 | 3.99 | - | 4,741 | 27,227 |
-| 2023-09-15 | 3.99 | - | 4,743 | 27,231 |
+| 2023-09-15 | 3.99 | - | 4,743 | 27,234 |

@@ -4,7 +4,7 @@
   "ProductSlug": "black-skylands",
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-07-09T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:15.3608075+00:00",
   "LastChanged": "2023-03-31T05:57:15.3608076+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:36.9336369+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:57:04.3092733+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:03:41.7448271+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:57:18.3702371+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:03:29.9473246+00:00"
 }

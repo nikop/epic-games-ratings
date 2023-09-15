@@ -32,8 +32,8 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 1.00% | ~58 |
 | Taylor Made | 1.00% | ~58 |
 | Head for Heights | 0.60% | ~35 |
+| Fish upon a Star | 0.60% | ~31 |
 | Lake Me up Before You Go Go | 0.50% | ~29 |
-| Fish upon a Star | 0.50% | ~26 |
 | Cache and Carry | 0.40% | ~21 |
 | Golden Ridge Ranger | 0.30% | ~17 |
 | Trollsporet Tale Teller | 0.30% | ~15 |

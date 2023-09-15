@@ -1,24 +1,24 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.63 (Ranked 986)  
+Rating: 3.63 (Ranked 987)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 22.00% | ~16,120 |
-| Hard Worker | 20.00% | ~14,655 |
-| Master, Commander | 20.00% | ~14,655 |
-| Mechanic | 19.00% | ~13,922 |
-| Adios, Friendo | 18.00% | ~13,189 |
-| Bottom's Up | 18.00% | ~13,189 |
-| Nice Try | 16.00% | ~11,724 |
-| Right On Target | 13.00% | ~9,525 |
-| Piano Man | 10.00% | ~7,327 |
+| Be Seeing You | 22.00% | ~16,121 |
+| Hard Worker | 20.00% | ~14,656 |
+| Master, Commander | 20.00% | ~14,656 |
+| Mechanic | 19.00% | ~13,923 |
+| Adios, Friendo | 18.00% | ~13,190 |
+| Bottom's Up | 18.00% | ~13,190 |
+| Nice Try | 16.00% | ~11,725 |
+| Right On Target | 13.00% | ~9,526 |
+| Piano Man | 10.00% | ~7,328 |
 | Lazy Bones | 9.00% | ~6,595 |
 | Vinyl Vibes | 8.00% | ~5,862 |
-| Nothing Left to Say | 7.00% | ~5,129 |
-| Sniper | 7.00% | ~5,129 |
-| Cut Call | 6.00% | ~4,396 |
+| Nothing Left to Say | 7.00% | ~5,130 |
+| Sniper | 7.00% | ~5,130 |
+| Cut Call | 6.00% | ~4,397 |
 | Magnetic Miracles | 5.00% | ~3,664 |
 | Butcher | 4.00% | ~2,931 |
 | Spicy | 4.00% | ~2,931 |
@@ -28,10 +28,10 @@ Rating: 3.63 (Ranked 986)
 | Hearty | 3.00% | ~2,198 |
 | Meaty | 3.00% | ~2,198 |
 | Taco Toto | 3.00% | ~2,198 |
-| Audiophile | 2.00% | ~1,465 |
-| Tape Head | 2.00% | ~1,465 |
+| Audiophile | 2.00% | ~1,466 |
+| Tape Head | 2.00% | ~1,466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,273 (Ranked 82)  
+Progressed: 73,279 (Ranked 82)  
 Completed: 758 (1.03%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 758 (1.03%) (Ranked 120)
 | 2023-09-12 | 73,076 | 755 |
 | 2023-09-13 | 73,143 | 755 |
 | 2023-09-14 | 73,215 | 756 |
-| 2023-09-15 | 73,273 | 758 |
+| 2023-09-15 | 73,279 | 758 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5990,10 +5990,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27231,
       "NumberOfAwardsMax": 4743
+    },
+    {
+      "Time": "2023-09-15T20:57:55.9321386+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27234,
+      "NumberOfAwardsMax": 4743
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27231,
+  "NumberOfAwards": 27234,
   "NumberOfAwardsMax": 4743,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6019,7 +6025,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3687
+      "Count": 3690
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6046,9 +6052,9 @@
       "Count": 3743
     }
   ],
-  "EOS_Progressed": 136214,
+  "EOS_Progressed": 136217,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -21296,6 +21302,11 @@
       "Time": "2023-09-15T19:03:23.1541329+00:00",
       "NumProgressed": 136214,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-09-15T21:03:08.3087863+00:00",
+      "NumProgressed": 136217,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 112,
@@ -21355,7 +21366,7 @@
       "Name": "Ascended",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ascend02",
@@ -21499,7 +21510,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "collection02",
@@ -21899,7 +21910,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "level03",
@@ -22019,7 +22030,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "quest02",
@@ -22179,7 +22190,7 @@
       "Name": "Arcane Industries",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "workers03",
@@ -22202,15 +22213,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 136214,
+      "Progressed": 136217,
       "Completed": 151
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-09-15T15:57:59.161521+00:00",
-  "LastChanged_Achievements": "2023-09-15T20:03:13.0486506+00:00",
+  "LastChanged": "2023-09-15T20:57:55.9321384+00:00",
+  "LastChanged_Achievements": "2023-09-15T21:03:08.3087858+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:49.3116348+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:58:01.3544927+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:03:13.0488895+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:57:55.9321391+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:03:08.3090408+00:00"
 }

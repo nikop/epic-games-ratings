@@ -6,30 +6,30 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~22,482 |
-| Exploitative | 4.00% | ~17,985 |
-| Point Shooting | 4.00% | ~17,985 |
-| Wet Feet | 4.00% | ~17,985 |
-| High Speed Low Drag | 3.00% | ~13,489 |
-| Lucky | 3.00% | ~13,489 |
-| Stylin' | 3.00% | ~13,489 |
-| Turf War | 3.00% | ~13,489 |
-| Banged | 2.00% | ~8,993 |
-| Checkpoint Victory | 2.00% | ~8,993 |
-| First Blood | 2.00% | ~8,993 |
-| Flaccid Paralysis | 2.00% | ~8,993 |
-| Push Victory | 2.00% | ~8,993 |
-| Self-destructive | 2.00% | ~8,993 |
-| Blindfire | 1.00% | ~4,496 |
-| Ruthless | 1.00% | ~4,496 |
-| Semper Paratus | 1.00% | ~4,496 |
+| Wallbanger | 5.00% | ~22,484 |
+| Exploitative | 4.00% | ~17,988 |
+| Point Shooting | 4.00% | ~17,988 |
+| Wet Feet | 4.00% | ~17,988 |
+| High Speed Low Drag | 3.00% | ~13,491 |
+| Lucky | 3.00% | ~13,491 |
+| Stylin' | 3.00% | ~13,491 |
+| Turf War | 3.00% | ~13,491 |
+| Banged | 2.00% | ~8,994 |
+| Checkpoint Victory | 2.00% | ~8,994 |
+| First Blood | 2.00% | ~8,994 |
+| Flaccid Paralysis | 2.00% | ~8,994 |
+| Push Victory | 2.00% | ~8,994 |
+| Self-destructive | 2.00% | ~8,994 |
+| Blindfire | 1.00% | ~4,497 |
+| Ruthless | 1.00% | ~4,497 |
+| Semper Paratus | 1.00% | ~4,497 |
 | Carrying | 0.90% | ~4,047 |
 | Efficient | 0.90% | ~4,047 |
 | Mount & Gun | 0.90% | ~4,047 |
 | Personal | 0.90% | ~4,047 |
-| Grounded | 0.80% | ~3,597 |
-| Play to Win | 0.80% | ~3,597 |
-| Special Delivery | 0.70% | ~3,147 |
+| Grounded | 0.80% | ~3,598 |
+| Play to Win | 0.80% | ~3,598 |
+| Special Delivery | 0.70% | ~3,148 |
 | Firefight Victory | 0.60% | ~2,698 |
 | #1 | 0.60% | ~2,698 |
 | Cinematic | 0.50% | ~2,248 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~450 |
 | Road Hazard | 0.10% | ~450 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,637 (Ranked 38)  
+Progressed: 449,688 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 2 (0.00%) (Ranked 275)
 | 2023-09-12 | 447,443 | 2 |
 | 2023-09-13 | 448,164 | 2 |
 | 2023-09-14 | 448,919 | 2 |
-| 2023-09-15 | 449,637 | 2 |
+| 2023-09-15 | 449,688 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 379  (Ranked 223)  
 Sum: 2,978 (Ranked 170)  

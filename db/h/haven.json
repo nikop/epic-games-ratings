@@ -5,9 +5,9 @@
   "Ranking_Rating": 145,
   "Ranking_Popularity": 517,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -174,9 +174,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1432,
+  "EOS_Progressed": 1433,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -1699,6 +1699,11 @@
       "Time": "2023-09-15T19:05:45.7652061+00:00",
       "NumProgressed": 1432,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-09-15T21:04:41.374566+00:00",
+      "NumProgressed": 1433,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -1708,9 +1713,9 @@
       "ID": "1",
       "SetID": "n50no0",
       "Name": "Lovebirds",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 702
     },
     {
       "ID": "10",
@@ -1766,7 +1771,7 @@
       "Name": "My little pony",
       "Percentage": 20,
       "XP": 70,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "17",
@@ -1774,7 +1779,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "18",
@@ -1804,9 +1809,9 @@
       "ID": "20",
       "SetID": "n50no0",
       "Name": "Don\u0027t look back",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 186
+      "UsersEstimate": 172
     },
     {
       "ID": "21",
@@ -1838,7 +1843,7 @@
       "Name": "In my shoes",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "25",
@@ -1870,7 +1875,7 @@
       "Name": "Hug therapy",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "30",
@@ -1918,7 +1923,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "7",
@@ -1949,15 +1954,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1432,
+      "Progressed": 1433,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-08-10T12:01:06.704766+00:00",
-  "LastChanged_Achievements": "2023-09-15T20:05:24.5518616+00:00",
+  "LastChanged_Achievements": "2023-09-15T21:04:41.3745656+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:59:51.3922449+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:59:23.9807225+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:05:24.5518875+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:59:02.5161568+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:04:41.3745971+00:00"
 }

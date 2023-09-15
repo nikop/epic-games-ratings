@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3456,6 +3456,11 @@
       "Time": "2023-09-15T18:06:12.3718328+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-09-15T21:06:20.7864664+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3467,7 +3472,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "adventurous_2",
@@ -3491,7 +3496,7 @@
       "Name": "Archmage 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "archmage_2",
@@ -3595,7 +3600,7 @@
       "Name": "Conqueror 2",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "conqueror_3",
@@ -3611,7 +3616,7 @@
       "Name": "Diehard 1",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "diehard_2",
@@ -3643,7 +3648,7 @@
       "Name": "Elemental stones 2",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "elemental_stones_3",
@@ -3755,7 +3760,7 @@
       "Name": "Invincible 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "invincible_2",
@@ -3971,7 +3976,7 @@
       "Name": "Tomb Raider 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "tomb_raider_2",
@@ -3994,14 +3999,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1050,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-09-15T20:07:37.4956237+00:00",
+  "LastChanged_Achievements": "2023-09-15T21:06:20.786466+00:00",
   "LastUpdate_AppInfo": "2023-09-12T07:57:09.1292976+00:00",
-  "LastUpdate_Ratings": "2023-09-15T20:01:59.7486346+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:07:37.495681+00:00"
+  "LastUpdate_Ratings": "2023-09-15T21:01:04.5257073+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:06:20.7865391+00:00"
 }

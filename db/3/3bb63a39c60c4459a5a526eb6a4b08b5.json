@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 696,
+  "EOS_Progressed": 697,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2511,6 +2511,11 @@
       "Time": "2023-09-15T18:04:57.4105978+00:00",
       "NumProgressed": 696,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-09-15T21:05:07.3810741+00:00",
+      "NumProgressed": 697,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -2618,7 +2623,7 @@
       "Name": "Game Started",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FullCompletion",
@@ -2658,7 +2663,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LargeTerritories",
@@ -2682,7 +2687,7 @@
       "Name": "Linear Network",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LongDistance",
@@ -2706,7 +2711,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Millionaire",
@@ -2722,7 +2727,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "NoTimeForModernization",
@@ -2738,7 +2743,7 @@
       "Name": "No Way Back",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "NotPlanned",
@@ -2786,7 +2791,7 @@
       "Name": "Reliable Transporter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ResourceEconomy",
@@ -2842,7 +2847,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "TransportHub",
@@ -2857,14 +2862,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 696,
+      "Progressed": 697,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-09-15T20:05:59.224761+00:00",
+  "LastChanged_Achievements": "2023-09-15T21:05:07.3810738+00:00",
   "LastUpdate_AppInfo": "2023-09-12T13:01:55.4926233+00:00",
-  "LastUpdate_Ratings": "2023-09-15T20:01:53.9396393+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:05:59.2248002+00:00"
+  "LastUpdate_Ratings": "2023-09-15T21:00:59.3506522+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:05:07.3811175+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 13.00% | ~526 |
-| Feeling the beat! | 13.00% | ~526 |
+| Start with a bang! | 13.00% | ~527 |
+| Feeling the beat! | 13.00% | ~527 |
 | You can pet the cat! | 12.00% | ~486 |
 | Cream of the Crop | 11.00% | ~446 |
 | Thanks for the free chip, Peppermint! | 11.00% | ~446 |
 | Who put gears in there? | 11.00% | ~446 |
 | You got this, Peppermint? | 10.00% | ~405 |
 | Perfect Parry | 10.00% | ~405 |
-| Alright, that felt AWESOME! | 9.00% | ~364 |
+| Alright, that felt AWESOME! | 9.00% | ~365 |
 | This will cost you big time | 8.00% | ~324 |
 | I play my own way! | 8.00% | ~324 |
 | Z-shielding's got nothing on us! | 8.00% | ~324 |
@@ -30,7 +30,7 @@ Rating: 4.87 (Ranked 25)
 | Perfecter Parry-er! | 6.00% | ~243 |
 | Does that say weakpoint? | 6.00% | ~243 |
 | NOW we got a kickass hideout! | 6.00% | ~154 |
-| I have to read these things? | 5.00% | ~202 |
+| I have to read these things? | 5.00% | ~203 |
 | Well that was a rush! | 4.00% | ~162 |
 | That's a lot of junk metal… | 4.00% | ~162 |
 | There's such a thing as TOO helpful | 4.00% | ~162 |
@@ -40,12 +40,12 @@ Rating: 4.87 (Ranked 25)
 | I told you I'd be fine, Peppermint! | 2.00% | ~81 |
 | Check out my moves! | 2.00% | ~81 |
 | Call me Turbo Chai | 2.00% | ~51 |
-| I think I deserve some praise, here! | 1.00% | ~40 |
-| I think I found your calling, Macaron | 1.00% | ~40 |
-| We're Jammin' | 1.00% | ~40 |
-| I'm not done with you yet | 1.00% | ~40 |
-| First we parry, then we counter | 1.00% | ~40 |
-| I hit things with a guitar really well. | 1.00% | ~40 |
+| I think I deserve some praise, here! | 1.00% | ~41 |
+| I think I found your calling, Macaron | 1.00% | ~41 |
+| We're Jammin' | 1.00% | ~41 |
+| I'm not done with you yet | 1.00% | ~41 |
+| First we parry, then we counter | 1.00% | ~41 |
+| I hit things with a guitar really well. | 1.00% | ~41 |
 | This is a breeze! | 0.90% | ~36 |
 | You ever parry a volcano? | 0.70% | ~28 |
 | New bad guys? No problem! | 0.70% | ~18 |
@@ -77,7 +77,7 @@ Rating: 4.87 (Ranked 25)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,050 (Ranked 158)  
+Progressed: 4,051 (Ranked 158)  
 Completed: 7 (0.17%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 7 (0.17%) (Ranked 202)
 | 2023-09-12 | 4,033 | 7 |
 | 2023-09-13 | 4,036 | 7 |
 | 2023-09-14 | 4,038 | 7 |
-| 2023-09-15 | 4,050 | 7 |
+| 2023-09-15 | 4,051 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

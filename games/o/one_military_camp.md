@@ -16,10 +16,10 @@
 | Health Care | 8.00% | ~13 |
 | Fuel Tycoon | 8.00% | ~13 |
 | Ammo Tycoon | 8.00% | ~13 |
-| Jantine: the Misfortunes of Evil | 7.00% | ~11 |
-| Perfect Soldier | 7.00% | ~11 |
-| Good payer | 7.00% | ~11 |
-| Food Tycoon | 7.00% | ~11 |
+| Jantine: the Misfortunes of Evil | 7.00% | ~12 |
+| Perfect Soldier | 7.00% | ~12 |
+| Good payer | 7.00% | ~12 |
+| Food Tycoon | 7.00% | ~12 |
 | Self-sufficient | 6.00% | ~10 |
 | Medicine Tycoon | 6.00% | ~10 |
 | Healing | 5.00% | ~8 |
@@ -49,7 +49,7 @@
 | Sandbox Expert | 0.00% | ~0 |
 | People's Hero | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164 (Ranked 325)  
+Progressed: 165 (Ranked 325)  
 Completed: 0 (0.00%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,4 +92,4 @@ Completed: 0 (0.00%) (Ranked 275)
 | 2023-09-05 | 160 | 0 |
 | 2023-09-07 | 161 | 0 |
 | 2023-09-10 | 163 | 0 |
-| 2023-09-15 | 164 | 0 |
+| 2023-09-15 | 165 | 0 |

@@ -340,7 +340,7 @@
   "Tags": [],
   "EOS_Progressed": 324,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1667,9 +1667,9 @@
       "ID": "ACH_STATUE",
       "SetID": "232494e",
       "Name": "Forgotten Memories",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
@@ -1683,8 +1683,8 @@
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2023-07-18T13:11:50.8400973+00:00",
-  "LastChanged_Achievements": "2023-09-15T20:07:51.7627707+00:00",
+  "LastChanged_Achievements": "2023-09-15T21:06:32.305282+00:00",
   "LastUpdate_AppInfo": "2023-09-09T08:57:29.5273824+00:00",
-  "LastUpdate_Ratings": "2023-09-15T20:02:27.2328929+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:07:51.7627935+00:00"
+  "LastUpdate_Ratings": "2023-09-15T21:01:21.3911855+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:06:32.3053094+00:00"
 }

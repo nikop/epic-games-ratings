@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 517,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4050,
+  "EOS_Progressed": 4051,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -6519,6 +6519,11 @@
       "Time": "2023-09-15T19:08:23.5805464+00:00",
       "NumProgressed": 4050,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-09-15T21:06:32.8938293+00:00",
+      "NumProgressed": 4051,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 71,
@@ -6530,7 +6535,7 @@
       "Name": "Start with a bang!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Ach002",
@@ -6602,7 +6607,7 @@
       "Name": "I think I deserve some praise, here!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Ach011",
@@ -6690,7 +6695,7 @@
       "Name": "I have to read these things?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Ach022",
@@ -6706,7 +6711,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "Ach024",
@@ -6746,7 +6751,7 @@
       "Name": "I think I found your calling, Macaron",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Ach029",
@@ -6818,7 +6823,7 @@
       "Name": "We\u0027re Jammin\u0027",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Ach038",
@@ -6826,7 +6831,7 @@
       "Name": "I\u0027m not done with you yet",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Ach039",
@@ -6834,7 +6839,7 @@
       "Name": "First we parry, then we counter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Ach040",
@@ -6906,7 +6911,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "Ach049",
@@ -6914,7 +6919,7 @@
       "Name": "I hit things with a guitar really well.",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Ach050",
@@ -7097,13 +7102,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4050,
+      "Progressed": 4051,
       "Completed": 7
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2571,
+      "Progressed": 2572,
       "Completed": 1929
     }
   ],
@@ -7111,8 +7116,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-08-30T23:57:48.3272093+00:00",
-  "LastChanged_Achievements": "2023-09-15T20:07:52.4660451+00:00",
+  "LastChanged_Achievements": "2023-09-15T21:06:32.8938273+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:50.2144079+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:57:40.2121479+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:07:52.4661333+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:57:42.1590441+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:06:32.8939442+00:00"
 }

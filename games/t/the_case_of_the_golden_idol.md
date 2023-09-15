@@ -22,8 +22,8 @@
 | Solved ninth case | 0.50% | ~1 |
 | Solved tenth case | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185 (Ranked 314)  
-Completed: 8 (4.32%) (Ranked 57)  
+Progressed: 186 (Ranked 314)  
+Completed: 8 (4.30%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,6 +97,7 @@ Completed: 8 (4.32%) (Ranked 57)
 | 2023-08-25 | 183 | 8 |
 | 2023-09-02 | 184 | 8 |
 | 2023-09-05 | 185 | 8 |
+| 2023-09-15 | 186 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

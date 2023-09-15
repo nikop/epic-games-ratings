@@ -6,7 +6,7 @@
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 55,
-  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
@@ -6676,9 +6676,9 @@
       "Count": 3419
     }
   ],
-  "EOS_Progressed": 228900,
+  "EOS_Progressed": 228907,
   "EOS_Completed": 2284,
-  "EOS_NewPlayers": 936,
+  "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -23101,6 +23101,11 @@
       "Time": "2023-09-15T20:06:24.7504328+00:00",
       "NumProgressed": 228900,
       "NumCompleted": 2284
+    },
+    {
+      "Time": "2023-09-15T21:05:27.8459261+00:00",
+      "NumProgressed": 228907,
+      "NumCompleted": 2284
     }
   ],
   "TotalAchievements": 520,
@@ -25254,9 +25259,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 687
     },
     {
       "ID": "objective_completed_540",
@@ -26256,7 +26261,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "objective_completed_70",
@@ -27271,21 +27276,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 195174,
+      "Progressed": 195181,
       "Completed": 3430
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 228900,
+      "Progressed": 228907,
       "Completed": 2284
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-09-15T16:58:09.446849+00:00",
-  "LastChanged_Achievements": "2023-09-15T20:06:24.7504324+00:00",
+  "LastChanged_Achievements": "2023-09-15T21:05:27.8459257+00:00",
   "LastUpdate_AppInfo": "2023-09-09T10:58:09.8211749+00:00",
-  "LastUpdate_Ratings": "2023-09-15T19:57:35.735037+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:06:24.7529177+00:00"
+  "LastUpdate_Ratings": "2023-09-15T20:57:38.3927566+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:05:27.8486261+00:00"
 }

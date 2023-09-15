@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 95.00% | ~94 |
-| Rehearsal | 94.00% | ~93 |
-| Daily Life | 91.00% | ~90 |
-| Assembly Line Work | 88.00% | ~87 |
-| Solitude | 82.00% | ~81 |
-| Pinewood, Here we come! | 75.00% | ~74 |
-| The Van | 70.00% | ~69 |
-| Road-Trip | 62.00% | ~61 |
-| A Musical Pause | 60.00% | ~59 |
-| Briget's | 52.00% | ~51 |
-| Big City Music | 48.00% | ~48 |
+| ECG | 95.00% | ~95 |
+| Rehearsal | 94.00% | ~94 |
+| Daily Life | 91.00% | ~91 |
+| Assembly Line Work | 88.00% | ~88 |
+| Solitude | 82.00% | ~82 |
+| Pinewood, Here we come! | 75.00% | ~75 |
+| The Van | 70.00% | ~70 |
+| Road-Trip | 62.00% | ~62 |
+| A Musical Pause | 60.00% | ~60 |
+| Briget's | 52.00% | ~52 |
+| Big City Music | 49.00% | ~49 |
 | Sound of Noise | 47.00% | ~47 |
-| Love at First Sight | 43.00% | ~43 |
-| First Kiss | 37.00% | ~37 |
+| Love at First Sight | 44.00% | ~44 |
+| First Kiss | 38.00% | ~38 |
 | Symbiosis | 36.00% | ~36 |
 | A Bigger Band | 32.00% | ~32 |
 | Fuel | 29.00% | ~29 |
@@ -29,7 +29,7 @@
 | Dreamers | 18.00% | ~18 |
 | Time | 16.00% | ~16 |
 | The Fix | 16.00% | ~16 |
-| The Mountains, The Valleys | 13.00% | ~13 |
+| The Mountains, The Valleys | 14.00% | ~14 |
 | Bad Trip | 12.00% | ~12 |
 | Regrets | 12.00% | ~12 |
 | Chase the Crow | 11.00% | ~11 |
@@ -59,8 +59,8 @@
 | Pinewood | 1.00% | ~1 |
 | Love is All | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 351)  
-Completed: 1 (1.01%) (Ranked 121)  
+Progressed: 100 (Ranked 351)  
+Completed: 1 (1.00%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,6 +99,7 @@ Completed: 1 (1.01%) (Ranked 121)
 | 2023-09-09 | 97 | 1 |
 | 2023-09-12 | 98 | 1 |
 | 2023-09-14 | 99 | 1 |
+| 2023-09-15 | 100 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

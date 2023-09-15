@@ -2,12 +2,12 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 367,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 596,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-09-16T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR,CN,TW,HK,MO"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "NumberOfRatings": 3102,
   "RatingHistory": [
     {
@@ -5000,6 +5000,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 9241,
       "NumberOfAwardsMax": 2620
+    },
+    {
+      "Time": "2023-09-15T21:01:00.0612352+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 9241,
+      "NumberOfAwardsMax": 2620
     }
   ],
   "ReviewsDisabled": false,
@@ -5097,8 +5103,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2023-09-15T20:01:54.1095437+00:00",
+  "LastChanged": "2023-09-15T21:01:00.061235+00:00",
   "LastUpdate_AppInfo": "2023-09-09T07:56:55.8143852+00:00",
-  "LastUpdate_Ratings": "2023-09-15T20:01:54.1095444+00:00",
-  "LastUpdate_Achievements": "2023-09-15T20:04:11.6887259+00:00"
+  "LastUpdate_Ratings": "2023-09-15T21:01:00.0612359+00:00",
+  "LastUpdate_Achievements": "2023-09-15T21:03:45.0229779+00:00"
 }
